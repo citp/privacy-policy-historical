@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the edjoin.org privacy policy that was archived on 2011-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110613062055id_/http%3A//www.edjoin.org/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the edjoin.org privacy policy that was archived on 2011-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111107051710id_/http%3A//www.edjoin.org/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head id="_ctl0_AtlasHead">
     <script language="JavaScript" type="text/javascript">
@@ -24,7 +24,6 @@
     <link rel="stylesheet" href="/jScripts/scriptStyles.css" type="text/css">
     <!-- jQuery Libraries -->
     <link href="/styles.css" type="text/css" rel="stylesheet">
-    <script src="/js/contactMenu.js" type="text/javascript"></script></head><body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="breakout_of_frame()" style="background: url(/images/main_decorator/bg_body.jpg) #FFFFFF repeat-x;"><div id="dropmenudiv" style="visibility:hidden;width:143px;background-color:white" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
     <script src="/js/printPreview.js" type="text/javascript"></script>
     <link rel="shortcut icon" type="image/ico" href="/favicon.ico"><link rel="stylesheet" href="/js/lightbox/modal.css" type="text/css">
     <script type="text/javascript" src="/js/lightbox/modal.js"></script>
@@ -39,25 +38,36 @@
                     $('#onpage-forgot-content').show();
             });
 
-            $('#btnFindAccount-onpage').click(function () {
-                $('#onpage-forgot-message').html("");
-
-                var lookupEm = $('#findUser').val();
+            //Click functionality for forgot password facebox
+            $('#btnFindAccount-onpage').live('click', function () {
+                $('#facebox #onpage-forgot-message').html("");
+                var lookupEm = $('#facebox input:first').val();
 
                 if (lookupEm.length > 0) {
-                    $('#onpage-forgot-result').load('AJAX/forgotUnPwd.aspx', { 'forgotEmail': lookupEm }, function () {
-                        $('#onpage-forgot-content').hide();
+                    $('#facebox #onpage-forgot-result').load('AJAX/forgotUnPwd.aspx', { 'forgotEmail': lookupEm }, function () {
+                        $('#facebox #onpage-forgot-content').hide();
                     });
                 }
                 else {
-                    $('#onpage-forgot-message').html("<span class='m_red_rext'>Please enter an email address.</span>");
+                    $('#facebox #onpage-forgot-message').html("<span class='m_red_rext'>Please enter an email address.</span>");
+                }
+            });
+
+            //trigger click on enter pressed for forgot password page.
+            $('#facebox input:first').keydown(function (e) {
+                var e = event || window.event;
+                var keyCode = document.all ? e.keyCode : e.which;
+
+                if (keyCode == 13) {
+                    e.preventDefault();
+                    $('#facebox #btnFindAccount-onpage').trigger('click');
                 }
             });
         });
 
     </script>
-
-
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="breakout_of_frame()" style="background: url(/images/main_decorator/bg_body.jpg) #FFFFFF repeat-x;">
     <table cellpadding="0" align="center" cellspacing="0">
         <tbody><tr valign="top">
             <td>
@@ -73,7 +83,7 @@
                                                     <img src="/images/main_decorator/logo.gif" style="width: 332px;">
                                                 </td>
                                                 <td align="right">
-                                                    <font color="#ffffff" size="2.5em">7,177 Current Job Vacancies<br>2,572 Agencies Using EDJOIN</font>
+                                                    <font color="#ffffff" size="2.5em">7,185 Current Job Vacancies<br>2,660 Agencies Using EDJOIN</font>
 
                                                 </td>
                                             </tr>
@@ -139,7 +149,7 @@
                                                             <img src="/images/forgot_password_spin.gif">
                                                         </td>
                                                         <td>
-                                                            <a href="/login.aspx">
+                                                            <a href="#onpage-forgot" rel="facebox">
                                                                 <h3 class="vertical_align_top">
                                                                     Forgot your Username or Password?</h3>
                                                             </a>
@@ -204,7 +214,7 @@
                                         <div style="padding: 10px 0px 10px 0px;">
                                             <span id="_ctl0__pageTitle" class="NewsTitle">EDJOIN Privacy Statement</span>
                                         </div>
-                                        <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
+                                        <form name="aspnetForm" method="post" action="/privacy.aspx" id="aspnetForm">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjgPZBYCZg9kFgwCAg8WAh4Dc3JjBSYvaW1hZ2VzL21haW5fZGVjb3JhdG9yL2J0bl9ob21lX29uLmpwZ2QCCg8WAh4HVmlzaWJsZWhkAgwPFgIeC18hSXRlbUNvdW50ZmQCDg8WAh8BZxYCAgMPFgIfAWhkAg8PDxYCHgRUZXh0BRhFREpPSU4gUHJpdmFjeSBTdGF0ZW1lbnRkZAIRDxYCHwFnFgICAw8WAh8BaGRkIVsjTsMPhBh/zruueyOhvQMcmv4=">
 
                                         <div class="page_container">
