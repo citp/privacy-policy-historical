@@ -1,18 +1,15 @@
-> *The following text is extracted and transformed from the textmefree.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129054213id_/http%3A//www.textmefree.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textmefree.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107103049id_/http%3A//textmefree.com/privacy.html) for the most accurate reproduction.*
 
 # TextMeFree Privacy Statement
 
-You are here:
-
-The privacy of our visitors to TextMeFree.com is important to us. 
+### The privacy of our visitors to TextMeFree.com is important to us. 
 
 At TextMeFree.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit TextMeFree.com, and how we safeguard your information. **We never sell your personal information to third parties**.  
 
 
 TextMeFree.com does not collect information on its website visitors such as names, addresses, telephone numbers or email addresses unless you specifically give TextMeFree.com that information (via the newsletter signup form, for example).
 
-TextMeFree.com does not sell or otherwise make available email addresses to anyone except Aweber.com, which distributes the TextMeFree.com Newsletter. The Aweber people are OK - they won't sell or share such data. ([Read Aweber's privacy policy here](http://www.aweber.com/privacy-policy.htm).)  
-
+TextMeFree.com does not sell or otherwise make available email addresses to anyone except Aweber.com, which distributes the TextMeFree.com Newsletter. The Aweber people are OK - they won't sell or share such data. ([Read Aweber's privacy policy here](http://www.aweber.com/privacy-policy.htm).) 
 
 **Cookies and AdSense**
 
@@ -26,7 +23,6 @@ Here is how Google explains cookies: _"A 'cookie' is a small file containing a s
 
 Note: you can also chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, doing so can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-**Log Files**  
-
+**Log Files**
 
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
