@@ -1,60 +1,80 @@
-> *The following text is extracted and transformed from the gratispay.com privacy policy that was archived on 2007-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070521084900id_/http%3A//gratispay.com/pp.php%3FTB_iframe%3Dtrue%26height%3D600%26width%3D800) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gratispay.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107212950id_/http%3A//www.sponsorpay.com/privacy-policy) for the most accurate reproduction.*
 
-# GratisPay - It's better to give!
+# Privacy Policy – SponsorPay
 
-GratisPay/We are committed to providing both clients and end-users with the utmost in privacy and security. We abide by all industry guidelines and consistently monitor our management and operating methods in order to maintain our valued reputation and integrity. This is our promise to our clients, and end-users. 
+### SponsorPay GmbH
 
-**Type of Information Collected**
+This is the Privacy Policy of SponsorPay GmbH, Ackerstr. 14/15, 10115 Berlin (hereinafter referred to as “SponsorPay”). It applies to all Websites and services operated by SponsorPay.
 
-If you complete our registration forms we will ask you for information. The information we ask for may include contact information (such as name and e-mail address); demographic information (such as address and age). 
+SponsorPay will handle all personal data which a user of the websites and services of SponsorPay (“User”) submits during his business relations with SponsorPay, or which SponsorPay collects by the User using the websites and services, under strict adherence to all relevant data protection regulations. Details can be taken from this Privacy Policy.
 
-**Use of Collected Information**
+The services of SponsorPay are primarily services in connection with advertisement of third parties (“Advertisers”) on websites operated by third parties (“Publishers”). Therefore Users are primarily Advertisers, Publishers, other interested parties, or their employees.
 
-Registration information submitted on GratisPay is used by us for the purpose for which it was submitted and may also be used by GratisPay to make your visits to our own sites easier and enjoyable. 
+In the event that the User, for example by a link or an advertisement, is forwarded to a website which is not operated by SponsorPay, SponsorPay points out, that this Privacy Policy does not apply to that other website. Furthermore, this Privacy Policy does not apply to the Publishers’ websites. SponsorPay shall not be responsible for the use of any personal information by the operator of such website. SponsorPay in particular cannot warrant that the same standards of data protection are in force on a website not operated by SponsorPay as those which SponsorPay provides for its Users. SponsorPay recommends that the User reviews such website’s own privacy policy.
 
-**Personal information may be used in several ways:**
+#### **Which personal data is collected, used and stored by SponsorPay?**
 
-\- To enable us to respond to you or to process, validate, and verify service requests and to perform the requested services  
-\- To allow us to ship your free gifts 
+SponsorPay collects, uses and stores such personal data which the User voluntarily submits to SponsorPay by electronic or other means of communication (e.g. in standard forms or otherwise on the websites and services operated by SponsorPay).
 
-Except for purposes stated expressly in this Privacy Policy, GratisPay will not use your personal information. 
+In order to register for use of the websites and services operated by SponsorPay, the User has to provide SponsorPay with certain personal information, including the User’s name, the User’s position in his or her company, and Email address.
 
-**If You Contact Us**
+#### **Here are some examples of data stored by SponsorPay:**
 
-We use return e-mail addresses to answer the e-mail we receive at any of our sites, but such e-mail addresses are not stored or used for any other purpose. 
+When a User accesses or uses the websites and services operated by SponsorPay, SponsorPay automatically stores the domain name and / or IP address from which the User accesses SponsorPay’s websites and services, the date and duration the User accesses parts of the websites and services operated by SponsorPay, as well as the web-browser used.
 
-**What Kind of Information Do You Share With Others?**
+SponsorPay stores the Email address provided by the User. SponsorPay shall be entitled to use this Email address to send newsletters and information about SponsorPay’s offers and services to the User. The User can object to this at any time and request, in written form (e.g. via Email), that his or her data be deleted from the mailing list. The User will not be charged for such request, but he or she will have to pay for the costs of transmitting such request (at basic tariffs). The User will be informed of his or her right to object and he or she will be given the right to transmit his objection in each communication and newsletter sent by SponsorPay.
 
-Except as may be stated expressly in this Privacy Policy, we do not share personal information that you give us with any third parties. 
+#### **What does SponsorPay do with User data?**
 
-**Disclosures Required By Law**
+SponsorPay collects, processes and stores personal information only to the extent that SponsorPay reasonably considers that it serves legal business purposes. SponsorPay will use the information automatically collected through the User’s access and use of the websites and services operated by SponsorPay, to help SponsorPay understand how the websites and services are used and thus improve the websites and services. The use of such information is not limited to the direct fulfilment of the contract between SponsorPay and the User (such as the use of the services, billing and customer support). Rather, the information will also allow: (i) determination of which pages are the most popular with Users, (ii) determination of whether the websites and services are working properly or whether they are being used improperly, and (iii) improvement of the User’s experiences on the website.
 
-There is a limited number of situations requiring us to disclose your personal information to others without first receiving your consent: (1) when ordered to do so by a subpoena or court order, (2) if you violate or breach an agreement with us, (3) if we believe conduct by you will harm the property or rights of GratisPay or those of GratisPay's users, (4) under exigent circumstances to protect the physical safety of GratisPay, its employees, users, or the general public, (5) in connection with the sale of all or substantially all of our company's assets or the sale of an entire business division, or (6) to validate credit card numbers. 
+SponsorPay will collect and store protocols which reflect how the websites and services operated by SponsorPay are used, e.g. user activity on the Publishers’ sites and in relation to the Advertisers’ advertisements and related services. These protocols include the monitoring of usage patterns and inspections regarding possible manipulations of the services offered by SponsorPay. Therefore, these protocols can be used to detect and disclose improper and undue activity of the Users and the users of the Publishers’ websites (“Publishers’ Users”). SponsorPay uses specific programs in order to detect such activities, e.g. programs which can detect the use of unauthorized scripts and which can store IP-addresses, as well as further data related to the Users’ and Publishers’ Users’ activities. In the event that SponsorPay notices that a User or Publishers’ User is acting in breach of his contractual obligations, e.g. by using unauthorized scripts, SponsorPay expressly reserves its rights to merge the IP-address of the respective User or Publishers’ User with other data which is already stored regarding that person, in order to make him or her aware of this breach of contractual obligations. SponsorPay may institute further measures against the respective User or Publishers’ User in order to restore regular service.
 
-**Aggregate Information**
+For the purposes of payments handling, SponsorPay shall be entitled to transfer user data to external service providers assigned with the collection of the remuneration, in as far as this is necessary for the determination of the remuneration and settlement of accounts with the User. SponsorPay shall further be entitled to transfer user data to such thirds parties to whom SponsorPay has assigned its claims against the User, in as far as this is necessary or useful for collection of the assigned claims. SponsorPay shall inform the User of the names of such third parties. If SponsorPay cooperates with third parties in order to render its services, it shall commit such third party to adhere to the applicable data protection regulations and to provide for adequate data protection.
 
-GratisPay may share aggregate statistical information gathered from the registration process with advertisers, business partners, sponsor or other third parties, but none of them receive individual identifying information about you collected at our sites. For example, we may tell an advertiser that X number of visitors visited a certain area on a web site or that Y number of men and Z number of women filled out registration forms, but we would not disclose anything that would identify those individuals. We share this information only on an aggregate, anonymous basis and never on an individual basis. 
+SponsorPay may use the information stored about the Users and Publishers’ Users for research on demography, interests, and behaviour. The aforementioned utilization of data is carried out anonymously. SponsorPay may also aggregate and use the information stored about the Users and Publishers’ Users for research, advertising or marketing purposes and may share, sell and rent or trade that information and statistical data derived from that information with advertisers, vendors, customers or other third parties for research or marketing purposes. The aforementioned utilization of data is carried out anonymously and SponsorPay does not use automatically collected information to identify a particular User. SponsorPay informs the User that such information is not personal information and is therefore not subject to the privacy restrictions of this Privacy Policy. If and to the extent that SponsorPay uses personal data to create user profiles, SponsorPay shall not transfer such profiles without the prior consent of the User or Publishers’ User and shall immediately stop such utilization of user profiles if the person concerned objects to such use of his or her data.
 
-**Cookies**
+SponsorPay might enable third parties to contact the User for advertising purposes. As long as the User does not object, his or her user data may also be used for sending him or her advertisements which reflect his or her interests (based on the information he or her has submitted to SponsorPay and on his or her actions within the websites and services operated by SponsorPay).
 
-Cookies are only used to keep track of log-in names and passwords. A user's e-mail address is automatically logged in when they revisit the site and they do not have to reenter profile information. This is to keep track of preferences and to better tailor the site to the visitor's needs while providing the most effective service to our clients. Information such as IP address internal session ID, user's domain, type of Internet browser, domain of Web site are collected and used only for traffic auditing and analyzing trends. 
+#### **Changes to or deletion of personal data**
 
-**Security**
+The User and Publishers’ User may make changes to his or her personal data at any time (e.g. in order to update or correct such data) or delete his personal data completely. If the User or Publishers’ User would like SponsorPay to change or stop using his or her personal data, the User or Publishers’ User may contact SponsorPay at customersupport@sponsorpay.com. SponsorPay will then make the required changes or delete the user data as quickly as possible. SponsorPay points out that due to technical or organizational reasons, some measures may still be carried out after the request for deletion, if such measures were already initiated but not completed by that time.
 
-In order to ensure security and protection of collected information, all employees are aware of our security policy and practices. Web security is constantly reviewed. Access to the information is limited and only obtained through codenames and passwords. Any loss, misuse, or alteration of information is prohibited followed by appropriate action and termination of employee. This is to uphold our promise to our clients, affiliate members, and property users. 
+#### **Information as to personal data**
 
-**Cancellation of Account**
+The User and Publisher’s User shall be entitled to request information, free of charge, on the nature and content of his or her stored personal data through a corresponding written notice to SponsorPay. This information will usually be provided electronically, normally via Email.
 
-A user may not cancel his/her account; If a user no longer wishes to be a member of this web site, the user must simply stop using his or her account. 
+SponsorPay may change this Privacy Policy from time to time by posting updated versions of the Privacy Policy, always in compliance with all applicable laws on data protection. SponsorPay suggests the User review this Privacy Policy from time to time. Personal information which SponsorPay collects will be treated in accordance with the terms of the Privacy Policy in effect (as posted) at the time that the personal information is collected. SponsorPay will not extend the use of personal data without prior notice.
 
-**Notification**
+#### **Users of the Publishers’ services**
 
-GratisPay is not responsible for notifying users if changes are made to this Privacy Policy. 
+The Publishers cooperating with SponsorPay provide SponsorPay with data on the activities of the Publishers’ Users on their websites. SponsorPay requires such data in order to give rewards to the Publishers’ Users which are credited within the offers of the Publishers. The data provided by the Publishers to SponsorPay do not allow for identifying the Publishers’ Users’ as individual persons, unless the Publishers’ User himself has caused the data to allow for such identification. The data provided by the Publisher to SponsorPay are, therefore, generally not personal information, unless the Publishers’ User has disclosed his or her personal identity, and by doing so, waived the protection of this personal data. In this event, SponsorPay’s rights to this personal data include, but are not limited to the rights SponsorPay has with regard to the personal data of the Users.
 
-**Correct and Update Information**
+SponsorPay recommends that the Publishers’ Users review the privacy policy (if any) on the Publisher’s website for information on the Publisher’s use of personal information.
 
-Personal information collected through GratisPay may be corrected or updated through your member's panel. 
+#### **Glossary**
 
-**Contact Information**
+In order to provide for a better understanding of this Privacy Policy, the most important terms are explained hereinafter:
 
-GratisPay, abides by the laws and guidelines of the Internet. We welcome any inquiries as to the use of collected information and cookies, product capabilities, or company methods and practices. If you have any questions, comments or corrections regarding personally identifiable information obtained through us, please e-mail to admin(@)gratispay.com 
+#### **What is considered personal data?**
+
+Personal data means personally identifiable and recognizable information about an individual person, as defined under applicable privacy laws, and may include his or her name, physical address, email address, telephone number and credit card information.
+
+#### **What is considered user data?**
+
+User data means data which is collected, used and stored by SponsorPay when a User accesses the websites and services operated by SponsorPay. User data is information which can be used to identify the User (e.g. the name of the domain and/or IP-address from which the User contacts SponsorPay), the date and time the User accesses the websites and services operated by SponsorPay, the scope of use of the websites and services operated by SponsorPay, as well as information about the sites the User accessed on the websites and services operated by SponsorPay.
+
+#### **What is an IP-address?**
+
+IP-addresses serve to identify each computer which is connected to the Internet. Each computer which is connected to the Internet can be identified by a specific IP-address, i.e. to a certain numerical combination.
+
+#### **What are Cookies?**
+
+“Cookies” are small text files that a website sends to a User’s hard drive through the browser. SponsorPay uses Cookies to collect information about a User’s visits and to enhance the User’s experience when visiting the websites and services operated by SponsorPay. For example, SponsorPay uses Cookies to, among other things, identify previous visitors to the website, identify a User as he or she navigates the website, track User visits and account set-ups, determine what set-ups are most frequently requested, and save the User’s password so that the User does not have to provide it each time he or she visits the website. Storing information about visits to the website will allow SponsorPay to, on occasion, customize pages for the User.
+
+By themselves, Cookies do not reveal a User’s Email address or other personal information. SponsorPay does not use Cookies to collect, track, or store personal information. The SponsorPay Cookies will never be used to track a User’s activity on any third-party websites or to send spam. It is possible to configure the browser to accept all Cookies, reject all Cookies or notify the User when a Cookie is received. It is also possible to reject, delete or otherwise disable Cookies at any time. Doing so, however, may inhibit the User’s experience on the websites and services operated by SponsorPay and the User may not be able to take full advantage of all offerings on the websites and services operated by SponsorPay. For example, if the User disables or disallows Cookies, some multimedia images and graphics may not display properly, the User may not be able to view customizable features or the User may have more difficulty navigating the website.
+
+_2009, July 31_
+
+  
+
