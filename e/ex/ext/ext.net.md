@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ext.net privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310182935id_/http%3A//www.ext.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ext.net privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107230905id_/http%3A//www.ext.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Ext.NET
+# » Privacy Policy
 
 Ext.NET, Inc., and its affiliates and subsidiaries (collectively “Ext.NET”) recognize the importance of keeping the personal information you provide to us private and secure. Ext.NET has developed a comprehensive privacy policy and we use the latest technology to ensure that your personal information is secure.
 
