@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interiorcomplex.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509160253id_/http%3A//interiorcomplex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interiorcomplex.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107201401id_/http%3A//interiorcomplex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Interior Complex
 
@@ -13,7 +13,7 @@ Cookies and Web Beacons
 www.interiorcomplex.com does not use cookies.
 
 DoubleClick DART Cookie  
-.:: Google, as a third party vendor, uses cookies to serve ads on www.interiorcomplex.com.  
+.:: [Google](http://google.com/ "Google"), as a third party vendor, uses cookies to serve ads on www.interiorcomplex.com.  
 .:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.interiorcomplex.com and other sites on the Internet.  
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
@@ -33,10 +33,12 @@ If you wish to disable cookies, you may do so through your individual browser op
 
  
 
-[](http://interiorcomplex.com/how-to/)    [](http://www.facebook.com/Interiorcomplex)   [](http://twitter.com/Interiorcomplex)   [](http://www.youtube.com/user/InteriorComplex)   [](http://interiorcomplex.com/feed/)
+[](http://interiorcomplex.com/how-to/)    [](http://www.facebook.com/Interiorcomplex)   [](http://twitter.com/Interiorcomplex)   [](http://www.youtube.com/user/InteriorComplex)   [](http://interiorcomplex.com/?feed=rss)
 
   
 
+
+[](http://04f1csc-0cno8pftg2niik2s34.hop.clickbank.net/?tid=INTERIORCOMPLEX)
 
   
   
