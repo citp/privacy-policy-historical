@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the veracode.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516025024id_/http%3A//www.veracode.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the veracode.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107052210id_/http%3A//www.veracode.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
