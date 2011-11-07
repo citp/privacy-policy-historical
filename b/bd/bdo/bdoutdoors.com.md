@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdoutdoors.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510010136id_/http%3A//bdoutdoors.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdoutdoors.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107133404id_/http%3A//bdoutdoors.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Your Privacy Rights
 
@@ -38,7 +38,8 @@ We do not sell, trade, or otherwise transfer your personally identifiable inform
 
 **Third-Party Links**
 
-Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp 
 
 **California Online Privacy Protection Act Compliance**
 
@@ -63,3 +64,5 @@ If we decide to change our privacy policy, we will post those changes on this pa
 **Contacting Us  
 **  
 If you have any questions regarding this privacy policy you may contact us at [adminsupport@bdoutdoors.com](mailto:adminsupport@bdoutdoors.com) or by visiting [www.BDoutdoors.com](http://www.bdoutdoors.com/).
+
+Edited 10/21/2011
