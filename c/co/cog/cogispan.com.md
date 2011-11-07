@@ -1,27 +1,40 @@
-> *The following text is extracted and transformed from the cogispan.com privacy policy that was archived on 2010-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100728192701id_/http%3A//www.cogispan.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cogispan.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107200553id_/http%3A//www.cogispan.com/terms-and-conditions) for the most accurate reproduction.*
 
-# Privacy Policy - CogiSPAN.com
+# Privacy & Terms of Use | Auto Reviews Online
 
-At CogiSPAN, we respect your right to privacy and we understand that visitors to our websites need to control the uses of their personal information. CogiSPAN will take all the necessary measures to protect your privacy in connection with your use of the sites owned and operated by CogiSPAN.
+AutoReviewsOnline only collects the information that we need in order to deliver services and information to you. We do not use techniques to collect personal information about you without your knowledge. 
 
-Information You Provide to Us
+We do not use or disclose your personal information for any purposes other than those for which it was collected, except with your consent or as required by law. 
 
-We may collect several types of personal information including your name, email address, age, gender, ip address, etc. All information collected shall remain private and shall not be provided to any 3rd parties unless specifically noted.
+RETENTION: Your personal information is retained only as long as necessary for the fulfillment of those purposes. Auto Reviews Online Inc. does not keep your personal information if it is no longer needed for the purposes required or as required by law. 
 
-Cookies
+Upon request in writing, you will be informed of the existence, use, and disclosure of your personal information and you will be given access to that information. We will assist any customer who informs us that they need assistance in preparing a request concerning personal information. You may challenge the accuracy and completeness of the information and have it amended as appropriate. 
 
-CogiSPAN.com site also uses cookies. We and other companies may use cookies for a variety of purposes including but not limited to remembering your login information, administration, and tracking purposes. If you turn cookies off, you won't have access to many features that make your web experience smoother, and some of our services may not function properly.
+ACCESSING YOUR PERSONAL INFORMATION FILE: If you wish to review or verify the personal information in your file or find out to whom we have disclosed it, you can do so by writing to us at the following address: 
 
-Usage Tracking
+Auto Reviews Online Privacy Officer  
+4261-A14 Hwy 7 East, Suite 884  
+Unionville, Ontario L3R 9W6  
+or e-mail us at editor@cogispan.com
 
-CogiSPAN.com uses a variety of technical methods for administration and tracking purposes. We also use these technical methods to analyze the traffic patterns, such as the frequency users visit various areas of CogiSPAN.com site. These technical methods may involve transmitting information either directly to us or to another entity authorized by us to collect information on our behalf. The information from use of these technical methods may be collected in a form that is personally identifiable.
+Auto Reviews Online Inc. has thirty (30) days to reply to a request for access to a file. Auto Reviews Online Inc. can refuse access to a file in certain circumstances. 
 
-Network Advertisers
+ACCURACY OF YOUR FILE: You can ask to delete or correct any information contained in your file. The request for correction must be made by writing to us, either by mail at the above-mentioned mailing address, or by e-mail at the above-mentioned e-mail address. Auto Reviews Online Inc. has thirty (30) days to reply.
 
-Many advertisements are managed and placed on CogiSPAN.com site by third parties. These companies are called "network advertisers." Network advertisers who place advertisements on CogiSPAN.com site may also use cookies and web beacons to collect non-personally identifiable information when you click on or move your cursor over one of their banner advertisements. You may not realize this information is being collected. In some cases, we may have access to information from web beacons and cookies used by network advertisers on CogiSPAN.com site and this information may permit us to identify other sites that you have visited that are also associated with the network advertiser.
+When you visit www.cogispan.com without registering or otherwise interacting with the site, your personal information and e-mail address are not recorded. Auto Reviews Online Inc. provides a number of services via www.cogispan.com. To access these services, we may require you to identify yourself or provide personal information. We use the information you have provided to help us serve you better. We will require personal information when you make purchases, take part in surveys, or request information on the products and services offered by Auto Reviews Online Inc. 
 
-Finally, once you've clicked on an advertisement and have left CogiSPAN.com site, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their website.
+We do not send unsolicited e-mail. If you add your name to an e-mail subscriber’s list on our Website, you authorize Auto Reviews Online Inc. to send to you personalized messages from time to time. These messages contain information about services offered by Auto Reviews Online Inc. and its partners that we think may be of interest to you. At no time do cogispan.com’’s advertisers, partners, or third parties have access to your confidential information. You may cancel your subscription to these e-mail messages at any time. 
 
-Contacting Us
+AutoReviewsOnline uses standard Web server log files to help us count visitors and evaluate our site’s technical capacity. We use this information to find out how many people visit our web site and to make our pages more useful to our visitors. 
 
-If you have any comments or questions about this privacy statement or any other issues you can [contact us](https://web.archive.org/contact.html).
+When you leave our web site: This policy discloses the privacy practices for our Web site. However, our site contains links to other sites. Once you link to another site, you are subject to the privacy and security policies of the new site. We encourage you to read the Privacy Policies of all Web sites you visit, especially if you share any personal information.
+
+Electronic Communications
+
+AutoReviewsOnline cannot guarantee the confidentiality of any information transmitted over the Internet, accordingly, email transmissions should not contain confidential information and AutoReviewsOnline will not be liable for errors, omissions or alterations made or caused by email communications.
+
+Copyright & Terms of Use
+
+AutoReviewsOnline owns and reserves copyright in this web site. Users are free to download information for personal use. None of the information or imagery on this web site may be reproduced, distributed or published for any other purpose without the prior consent of AutoReviewsOnline.
+
+All contents of the AutoReviewsOnline Web Site are Copyright © 2011 AutoReviewsOnline and/or its sponsors, contributors or suppliers. All rights reserved.
