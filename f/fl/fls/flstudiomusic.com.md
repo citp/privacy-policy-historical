@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flstudiomusic.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508080849id_/http%3A//www.flstudiomusic.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flstudiomusic.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107115553id_/http%3A//www.flstudiomusic.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Free FLP Files Samples Loops Soundfonts VST: Privacy Policy
 
