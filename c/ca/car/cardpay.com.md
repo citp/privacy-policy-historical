@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardpay.com privacy policy that was archived on 2011-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110302112553id_/http%3A//www.cardpay.com/company-card-pay/card-pay-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardpay.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107185451id_/http%3A//www.cardpay.com/card-pay-policy) for the most accurate reproduction.*
 
 # Privacy policy - Cardpay
 
@@ -24,7 +24,7 @@ At some sections of the site you may be inquired to submit your personal and con
 
 ### Launch of Other Sites
 
-By using this site and the links from this site you may be brought to other Cardpay or third party sites which may launch in a separate browser. Unless specifically stated on such websites or/and unless this statement appears by the links on those sites, this privacy policy doesn?t cover those sites and your privacy will be secured in compliance with the privacy statements (if any) appearing as such sites.
+By using this site and the links from this site you may be brought to other Cardpay or third party sites which may launch in a separate browser. Unless specifically stated on such websites or/and unless this statement appears by the links on those sites, this privacy policy doesn’t cover those sites and your privacy will be secured in compliance with the privacy statements (if any) appearing as such sites.
 
 ### Contact Us
 
@@ -32,6 +32,6 @@ If you need more information or have any questions about this privacy statement,
 
 Cardpay provide a secure online payment processing service.
 
-[Apply for free now](https://cardpay.com/signup.jsp)
+[Apply for free now](http://www.cardpay.com/signup.jsp)
 
 We'll give you same day approval for your application.
