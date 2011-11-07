@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the feistyfrugalandfabulous.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508232010id_/http%3A//feistyfrugalandfabulous.com/media-kit/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feistyfrugalandfabulous.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107010014id_/http%3A//feistyfrugalandfabulous.com/media-kit/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Feisty Frugal & Fabulous | Canadian Review & Giveaway Blog
+# Privacy Policy
 
 Privacy Policy for http://feistyfrugalandfabulous.com/
 
