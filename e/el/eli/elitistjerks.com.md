@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitistjerks.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507210459id_/http%3A//elitistjerks.com/faq.php%3Ffaq%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitistjerks.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107212619id_/http%3A//elitistjerks.com/faq.php%3Ffaq%3Dprivacy) for the most accurate reproduction.*
 
 # Elitist Jerks - FAQ: Privacy Statement
 
@@ -9,16 +9,8 @@
   
   
   
-
-
-| Welcome to Elitist Jerks  
----  
-If this is your first visit, please be sure to check out the [**FAQ**](https://web.archive.org/faq.php?faq=vb_faq#faq_forumrules) and the [**forum rules**](https://web.archive.org/misc.php?do=cfrules). Users must [**register**](https://web.archive.org/web/20110507210459id_/http%3A//elitistjerks.com/register.php) to post and new registrations are subject to a one day "mute" period to get acquainted with the community.   
   
-
-
-  
-Information Collection and Use  
+| Information Collection and Use  
 ---  
 Elitist Jerks is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways that differ from what is disclosed in this statement.  
   
