@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findashemalelover.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625143313id_/http%3A//www.findashemalelover.com/%3Fs%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findashemalelover.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108064656id_/http%3A//www.findashemalelover.com/%3Fs%3Dprivacy_policy) for the most accurate reproduction.*
 
 # .: Find A Shemale Lover - Shemales Looking For YOU! (NEW!)
 
