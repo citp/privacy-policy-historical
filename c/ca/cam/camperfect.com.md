@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camperfect.com privacy policy that was archived on 2011-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110325053428id_/http%3A//www.camperfect.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camperfect.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108035702id_/http%3A//www.camperfect.com/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CamPerfect
 
@@ -32,4 +32,4 @@ In addition, CamPerfect does everything to protect your information off-linee. A
 If you have an inquiry or concern about our privacy policy, please contact us at the address below:
 
   
-CCCV Ltd.(UK Limited) 1st Floor, Granby Centre Eversley Street, Liverpool L8 2TU, United Kingdom. help [ @ ] cccvltd.com
+CCCV Ltd.(UK Limited) 77-81 Sewiew Road, Wallasey CH41 4LE, United Kingdom. help [ @ ] cccvltd.com
