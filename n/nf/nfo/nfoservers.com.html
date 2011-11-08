@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nfoservers.com privacy policy that was archived on 2011-03-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110313035637id_/http%3A//www.nfoservers.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nfoservers.com privacy policy that was archived on 2011-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111108230015id_/http%3A//www.nfoservers.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
 <meta name="google-site-verification" content="fkqtvpTIkNP-ygpZmDcfP7Q528wF0effND3lH-IaWaw">
@@ -156,6 +156,18 @@ form {
 	border: 1px solid #000000; 
 	/*border: 1px solid #404040; */
   text-align: right;
+}
+
+.pricedisplay {
+	background-color: #500000; 
+	font-size: 12px; 
+	font-weight: bold; 
+	color: #eee;
+	padding: 1px 5px 1px 1px;
+	border: 1px solid #000000; 
+	/*border: 1px solid #404040; */
+  text-align: right;
+  width: 50px;
 }
 
 select {
@@ -381,6 +393,7 @@ function pickBGImage()
 </script>
 
 <link rel="stylesheet" type="text/css" href="order.css">
+<link rel="stylesheet" type="text/css" href="fonts/stylesheet.css">
 </head>
 
 <body>
@@ -461,7 +474,7 @@ height:100px;
 padding-left:4px;
 overflow:hidden;
 " id="loginbox">
-<b>Enter your details to log in.</b><br><form action="https://www.nfoservers.com/login_showbox.pl" method="post"><span style="font-size:6pt;">email <input name="email" class="pd" id="loginbox_email"><br>password <input name="password" type="password" class="pd" style="width:114px" id="loginbox_password" onkeydown="if(event.keyCode==13){submitLogin()};"><br></span><input type="hidden" name="referrer" value=""><input type="submit" value="Log in" name="submitted" class="pd" style="background:#200;width:auto;height:auto"><input type="checkbox" id="loginbox_permacookie" name="loginbox_permacookie" style="margin-top:5px" value="1" checked="">Remember me<br><a href="#" onclick="window.open('https://www.nfoservers.com/control/newaccount.pl','_blank','scrollbars=yes,width=790,height=600,resizable=no,status=yes');">New account</a>&nbsp;-&nbsp;<a href="#" onclick="window.open('https://www.nfoservers.com/control/lostpassword.pl','_blank','scrollbars=yes,width=790,height=600,resizable=no,status=yes');">Lost password</a></form>
+<b>Enter your details to log in.</b><br><form action="https://www.nfoservers.com/login_showbox.pl" method="post"><span style="font-size:6pt;">email <input name="email" class="pd" id="loginbox_email"><br>password <input name="password" type="password" class="pd" style="width:114px" id="loginbox_password" autocomplete="off" onkeydown="if(event.keyCode==13){submitLogin()};"><br></span><input type="hidden" name="referrer" value=""><input type="submit" value="Log in" name="submitted" class="pd" style="background:#200;width:auto;height:auto"><input type="checkbox" id="loginbox_permacookie" name="loginbox_permacookie" style="margin-top:5px" value="1" checked="">Remember me<br><a href="#" onclick="window.open('https://www.nfoservers.com/control/newaccount.pl','_blank','scrollbars=yes,width=790,height=600,resizable=no,status=yes');">New account</a>&nbsp;-&nbsp;<a href="#" onclick="window.open('https://www.nfoservers.com/control/lostpassword.pl','_blank','scrollbars=yes,width=790,height=600,resizable=no,status=yes');">Lost password</a></form>
 </div></td>
       </tr>
       <tr>
@@ -574,8 +587,12 @@ The effective date of the current privacy policy is June 28, 2004.
       <tr>
         <td id="small"><h3>+ Facebook and Twitter</h3>
         Want more newsbits, coupons, and offers? Follow us on these!<br><br>
-        <a href="http://www.facebook.com/nfoservers" target="_blank" style="color:#888;text-decoration:underline"><img src="images/facebook_icon.png" border="0" title="Want more newsbits, coupons, and offers? Become a Facebook fan!" alt="Want more newsbits, coupons, and offers? Become a Facebook fan!"></a>
-        <a href="http://www.twitter.com/nfoservers" target="_blank" style="color:#888;text-decoration:underline"><img src="images/twitter_icon.png" border="0" title="Facebook posts are also mirrored on twitter" alt="Facebook posts are also mirrored on twitter"></a>
+        <div style="width:150px;overflow:none;">
+        <a href="http://twitter.com/nfoservers" class="twitter-follow-button" data-button="grey" data-text-color="#FFFFFF" data-link-color="#00AEFF" data-show-count="false">Follow @nfoservers</a>
+        <script src="https://platform.twitter.com/widgets.js" type="text/javascript"></script>
+        </div>
+        <br>
+        <div id="fb-root"></div><script src="https://connect.facebook.net/en_US/all.js#appId=277838682242977&amp;xfbml=1"></script><fb:like href="http://www.facebook.com/nfoservers" send="true" layout="button_count" width="150" show_faces="true" colorscheme="dark" font=""></fb:like>
       </td></tr>
       <tr>
         <td height="4">&nbsp;</td>
