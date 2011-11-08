@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativememories.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507113051id_/http%3A//www.creativememories.com/Content/Policies/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativememories.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108152932id_/http%3A//www.creativememories.com/Content/Policies/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
