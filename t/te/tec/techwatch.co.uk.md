@@ -1,58 +1,15 @@
-> *The following text is extracted and transformed from the techwatch.co.uk privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619101300id_/http%3A//www.techwatch.co.uk/about/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techwatch.co.uk privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108144915id_/http%3A//www.techwatch.co.uk/privacy) for the most accurate reproduction.*
 
-# About Techwatch
+# Privacy Policy | Techwatch
 
-Techwatch.co.uk is a freely available and independent online publication, providing information on a comprehensive range of issues relating to digital television.
+Your privacy is important to us. That’s why we will not collect any personally identifiable information without your express permission. 
 
-Main areas of coverage include satellite TV news and help, cable TV, home media, HDTV, IPTV, the internet and computing.
+Any information that is collected, such as forum registration information, usually just a username, email address, and IP address, are personally non-identifiable, and is stored securely.
 
-While Techwatch.co.uk is primarily delivered for UK readers, we also aim to cover key events across Europe, the USA, as well as world technology issues as relevant.
+Any such information will not be provided to any third party, nor will be used for any purpose excepting sometimes to provide information on recent updates to the Techwatch.co.uk website and forums. 
 
-This service is provided by Brite Media.
+All data collected on users is covered by the UK Data Protection act.
 
-## Staff
+However, please be advised that our advertising partners, run through Google Adsense, may sometimes place a cookie on your machine after visiting this website, in order to display more relevant advertising to you on other third party websites.
 
-Brian Turner, _Executive editor_  
-Janet Harris, _General editor_  
-Darren Allen, _Staff writer_  
-Lin Freestone, _Staff writer_  
-David Allen, _Staff writer_  
-Alan Harten, _Staff writer_  
-Grant Draper, _Staff writer_  
-Rachel Thomas, _Staff writer_  
-Rohan Parker, _Staff writer_  
-Fahim Farook, _Staff writer_  
-Rachael Grant, _Staff writer_
-
-The Techwatch.co.uk forums also includes a volunteer staff of over 20 dedicated individuals who maintain the integrity of the Techwatch.co.uk community. 
-
-## Contact
-
-Brite Media are happy to receive emails and correspondence regarding the Techwatch.co.uk publication. If you wish to email us about Techwatch.co.uk, please do send emails to:  
-
-
-_(Please note that Brite Media nor its parent company neither sell nor provide technical support for any satellite, cable, TV, or computer related products)_
-
-**Postal Address:** Brite Media, Second Floor, 145-157 St John Street, London EC1V 4PY, UK
-
-Company details: Registration number: SC289201, VAT no. : 870 2138 42
-
-## Press
-
-We’re happy to receive your press releases on any aspect of the technology industry, companies, and technical products/services, employment and staff announcements, and similar.
-
-Please feel free to send your press releases and other information in text format to: 
-
-## Disclaimer
-
-Techwatch.co.uk is a general information resource that is provided for free on the internet. However, no warranties are made as to the accuracy of the data or information provided on the website Techwatch.co.uk, and users accept the data and information presented on the site at their own risk. 
-
-The information provided on Techwatch.co.uk is simply intended to be illustrative and at no point should this information be used for illegal, malicious or other harmful activities. At absolutely no point should the information provided on Techwatch.co.uk be considered to be advice, either generically, or individually according to your circumstances. 
-
-Any decisions you make, whether regarding services or products cover on this site, that you make using information published or suggested on the website Techwatch.co.uk is done entirely at your own risk, and the owners, administrators, writers, and other staff, employed directly or indirectly in the provision of this website, shall not be held liable for any such decisions or consequences thereof that you should make in using this website. 
-
-If you do not agree to these terms of use and general disclaimer for Techwatch.co.uk then you should not access the site.
-
-## Privacy Policy
-
-Your privacy is important to us. That’s why we will not collect any personally identifiable information without your express permission. Any such information that is collected will not be provided to any third party, nor will be used for any purpose excepting to provide information on recent updates to the Techwatch.co.uk website and forums. All data collected on users is covered by the UK Data Protection act.
+Again, this cookie does not collect personally identifiable information, but if you are concerned about your privacy on this issue, you can opt out of any such targeted advertising [directly with Google here](https://www.google.com/adsense/support/bin/request.py?contact=abg_afc&url=http://www.wpbeginner.com/beginners-guide/why-you-need-a-cdn-for-your-wordpress-blog-infographic/&hl=en&client=ca-pub-7626011231493911&adU=Fasthosts.co.uk&adT=VPS:+Award+Winner+2011&adU=Peer1Hosting.co.uk/Web_Servers&adT=PEER+1+UK+Web+Servers&adU=www.netservers.net.uk&adT=Windows+Server+%C2%A343.99+pcm&gl=GB).
