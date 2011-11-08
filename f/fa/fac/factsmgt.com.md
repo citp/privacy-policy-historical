@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the factsmgt.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511005916id_/http%3A//www.factsmgt.com/page.cfm%3Fp%3D398) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factsmgt.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108211716id_/http%3A//www.factsmgt.com/page.cfm%3Fp%3D398) for the most accurate reproduction.*
 
 # FACTS: Privacy & Security
-
-****
-
-**For Tuition Management, Grant & Aid Assessment, and Web-Based Enrollment**
 
 Data collected and stored by FACTS Management Company (the “Company”) through the above products is governed by your Institution's privacy policy. This data will not be used by the Company in any manner not approved by the Institution unless required by law (for example, a court order or subpoena). Access to the data shall be restricted to authorized associates and shall be used only for the purpose of providing service to you or the Institution. The Company maintains physical, procedural, and electronic safeguards to protect data from being accessed by unauthorized third parties.
 
