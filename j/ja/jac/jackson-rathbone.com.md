@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jackson-rathbone.com privacy policy that was archived on 2010-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101108032547id_/http%3A//fan-sites.org/get-hosted/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackson-rathbone.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108012902id_/http%3A//fan-sites.org/get-hosted/privacy-policy) for the most accurate reproduction.*
 
-# Fan Sites Network | Privacy Policy
+# Privacy Policy | Fan Sites Network
 
 **PRIVACY POLICY AND CONSUMER EDUCATION** [http://buzz-media.com/privacy-policy/](http://www.buzz-media.com/privacy-policy/)
 
