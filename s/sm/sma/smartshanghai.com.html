@@ -1,248 +1,365 @@
-<!--The following is the downloaded HTML source of the smartshanghai.com privacy policy that was archived on 2010-07-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100702213919id_/http%3A//www.smartshanghai.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smartshanghai.com privacy policy that was archived on 2011-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111108145758id_/http%3A//www.smartshanghai.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<script type="text/javascript" src="http://www.smartshanghai.com/js/jquery-1.4.1.js"></script>
-<script type="text/javascript" src="http://www.smartshanghai.com/js/smsh_java_v5-8.js"></script>
-<script type="text/javascript" src="http://www.smartshanghai.com/js/jquery.autocomplete_smsh.js"></script>
-<script type="text/javascript" src="http://www.smartshanghai.com/js/swfobject.js"></script>
-<script type="text/javascript" src="http://www.smartshanghai.com/js/ui.core.js"></script>
-<script type="text/javascript" src="http://www.smartshanghai.com/js/ui.tabs.js"></script>
-
-<script type="text/JavaScript">
-
-
-
-
-// Worldcup Game
-
-	$(document).ready(function(){
-							   
-		$(".chbtn").click(function() {
-								   
-			var myid = $(".mysmshid").val();
-			var thisgame = this.id.replace('chbtnid-', "");
-			var thisdrop = ".cht-"+thisgame;
-			var myvote = $(thisdrop).val();
-			var thisarea = ".votearea-"+thisgame;
-			var dataString = 'thisgame='+ thisgame + '&myvote=' + myvote;
-			
-			if (myid.length == 0) {
-				
-				$(thisarea).html("<span style='color: #65AB20; display: block; padding: 4px 0 0 0; font-size: 10px;'><b>Please <a href='http://www.smartshanghai.com/mySmSh/'>Sign in</a> or <a href='http://www.smartshanghai.com/join.php'>register</a> first</b></span>"); 	
-						
-			} else {
-			
-			$(thisarea).html("<span style='color: silver; display: block; padding: 4px 0 0 0; font-size: 10px;'><b>Please wait ...</b></span>"); 	
-			$.ajax({
-				   
-				type: "POST",
-				url: "wcajax.php",
-				data: dataString,
-				success: function(data) {
-								 
-				$(thisarea).html("<span style='color: #65AB20; display: block; padding: 4px 0 0 0; font-size: 10px;'><b>Saved your vote</b></span>"); 	
-			
-			}
-			});
-			}
-		});
-		
-	}); 
-	  
-	  
-</script> 
-
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>SmartShanghai.com | Shanghai_nightlife - Shanghai's most popular weekly nightlife newsletter</title>
-<link href="http://www.smartshanghai.com/CSS2/smsh_css_v5-49-general.css" rel="stylesheet" type="text/css">
-<link href="http://www.smartshanghai.com/CSS2/smsh_css_v5-01-privacy.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.smartshanghai.com/js/jquery-1.4.2.min.js"></script>
+					<script type="text/javascript" src="http://www.smartshanghai.com/js/smsh_java_v6-5.js"></script>
+					<script type="text/javascript" src="http://www.smartshanghai.com/js/jquery.autocomplete_smsh.js"></script>
+
+<title>SmartShanghai.com | Privacy Policy</title>
+<base href="http://www.smartshanghai.com/">
+<link href="http://www.smartshanghai.com/CSS/smsh26052010.css" rel="stylesheet" type="text/css">
+
+<meta name="version" content="SmSh Version 6 fuer Antonia">
+<link rel="alternate" type="application/rss+xml" title="SmartShanghai RSS Feeds" href="http://www.smartshanghai.com/feeds/smsh.xml">
+<meta name="author" content="SmartShanghai.com - Shanghai, China">
+<meta name="copyright" content="SmartShanghai.com - Shanghai, China">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-12876039-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
+<body>
 
 
+<div id="container">
 
+                            
+  <div id="userbar">
+    <div class="ubleft"><a href="http://www.smartshanghai.com" style="color: #212F32;"><b>Web</b></a> <a href="http://mobile.smartshanghai.com" style="margin: 0 0 0 30px;">Mobile</a> <a href="http://www.smartshanghai.com/iphone/">iPhone</a> <a href="http://www.smartshanghai.com/feeds/">RSS</a> <a href="http://www.smartshanghai.com/newsletter/" title="Subscribe to Shanghai_nightlife!!">Newsletter</a> <a href="http://www.twitter.com/smartshanghai" title="SmartShanghai on Twitter">Twitter</a> <a href="http://www.weibo.com/smartshanghai" title="SmartShanghai on Weibo">Weibo</a> </div>
+    <div class="ubright"> 
 
-
-
-<meta name="version" content="SmSh V5.2 - for Walli and Chicco"><meta name="author" content="SmartShanghai.com - Shanghai, China"><meta name="copyright" content="SmartShanghai.com - Shanghai, China"><meta name="keywords" content="SmartShanghai, Shanghai, Nightlife, Dining, Art, Stage, Events, Party Pictures, Party videos, Map, Streetmap, Metromap, Property Listings, Lifestyle, Music"></head>
-
-
-
-
-
-
-
-<body style="background: #ffffff url(http://www.smartshanghai.com/CSS2/img/sitebg2.gif);">
-
-
-<div id="container"> <!-- SmSh Container 980px -->
+   <a href="http://www.smartshanghai.com/user/join">Hello Guest</a> <a href="http://www.smartshanghai.com/user/">Sign In</a>
    
-   
-<div id="wcpromo" style="padding: 5px 0 5px 0;">
-<a href="http://www.smartshanghai.com/worldcup"><img src="http://www.smartshanghai.com/img3/worldcup/2010worldcup.png" border="0"></a>
-</div>
-
-
-<div id="topbar">
-
-
-
-
-<div id="topbar_loginv5-2">
-<div id="topbar_login_cont">
-<a href="http://www.smartshanghai.com/join.php">Not a member? Join now</a> 
-										<span class="signed"><a href="http://www.smartshanghai.com/mySmSh/index.php">Members log-in here</a></span>
-										<a href="http://www.smartshanghai.com/smartticket/cart.php" class="smshcart">SmartTicket Cart</a>
-										 <a href="http://www.smartshanghai.com/mySmSh/favorites.php" class="smshfavs" style="color: #FF6600;">Favorites</a>  
-										 <a href="http://www.smartshanghai.com/rss" class="smshrss">RSS</a> <span style="color: #909798;">|</span> 
-										 <a href="http://mobile.smartshanghai.com" class="smshmobile">Mobile</a> <span style="color: #909798">| <a href="http://www.smartshanghai.com/iphone" class="smshmobile">iPhone</a> <span style="color: #909798">|</span> 
-										 <a href="http://www.smartshanghai.com/newsletter/" class="smshnewsletter">Newsletter</a> 
-</span></div>
-</div>
-
-<div id="topbar_logov5-2">
-<a href="http://www.smartshanghai.com"><img src="http://www.smartshanghai.com/img2/smshlogo_5-2.png" border="0" style="margin-top: 65px;"></a>
-</div>
-
-    <div id="topbar_search_venues">
-    <form action="http://www.smartshanghai.com/search/" style="margin: 0px; padding: 39px 0 0 0px;">
-    <img src="http://www.smartshanghai.com/img2/search_venues_active.png" border="0"><a href="javascript:null();" onclick="switchsearchtabs('topbar_search_events');"><img src="http://www.smartshanghai.com/img2/search_events.png" border="0"></a><a href="javascript:null();" onclick="switchsearchtabs('topbar_search_articles');"><img src="http://www.smartshanghai.com/img2/search_articles.png" border="0"></a><input name="q" type="text" id="query" autocomplete="off" style="background: none; font-size: 15px; color: #000000; width: 340px; margin: 3px 0 0 0; padding: 0px; height: 18px; border: 0px;"><input type="submit" value="" style="background: none; height: 20px; width: 70px; border: 0px; padding: 0px; margin: 0px;"><p style="margin: 0px; padding: 8px 0 0 0; font-size: 9px; color: #1eaad6;"><a href="http://www.smartshanghai.com/dining/" title="Restaurants in Shanghai">757 Restaurants</a>, <a href="http://www.smartshanghai.com/search/article/clubs" title="Clubs in Shanghai">32 Clubs</a>, <a href="http://www.smartshanghai.com/search/article/bars" title="Bars in Shanghai">132 Bars</a>, <a href="http://www.smartshanghai.com/search/article/Art_Galleries" title="Art Galleries in Shanghai">49 Art Galleries</a>, <a href="http://www.smartshanghai.com/search/article/hotels" title="Hotels in Shanghai">54 Hotels</a> .... »<b><a href="http://www.smartshanghai.com/search/">Advanced Search</a></b></p></form>
-      
-
-    </div>
+   <a href="http://www.smartshanghai.com/smartticket/cart.php">SmartTicket Cart</a>
+    <a href="javascript:null();" onclick="openheaderdrop('favpop');" class="drop" id="showfavs">Favorites</a>
+  	</div>
     
-       <div id="topbar_search_events">
-    <form action="http://www.smartshanghai.com/events/upcoming/index.php" method="get" style="margin: 0px; padding: 39px 0 0 0px;">
-    <a href="javascript:null();" onclick="switchsearchtabs('topbar_search_venues');"><img src="http://www.smartshanghai.com/img2/search_venues.png" border="0"></a><img src="http://www.smartshanghai.com/img2/search_events_active.png"><a href="javascript:null();" onclick="switchsearchtabs('topbar_search_articles');"><img src="http://www.smartshanghai.com/img2/search_articles.png" border="0"></a><input name="evn" type="text" style="background: none; font-size: 15px; color: #000000; width: 340px; margin: 3px 0 0 0; padding: 0px; height: 18px; border: 0px;"><input type="submit" name="submit" value="" style="background: none; height: 20px; width: 70px; border: 0px; padding: 0px; margin: 0px;"></form><p style="margin: 0px; padding: 8px 0 0 0; font-size: 9px; color: #ff8400;"><a href="http://www.smartshanghai.com/events/upcoming/?day=today">Today's Events</a>, <a href="http://www.smartshanghai.com/events/upcoming">Upcoming Events</a>, <a href="http://www.smartshanghai.com/specials/christmas">Christmas</a>, <a href="http://www.smartshanghai.com/specials/nye">New Year's Eve</a>, <a href="http://www.smartshanghai.com/dining/listings/brunch" title="Brunch Deals in Shanghai">Brunch Deals</a> ..</p>
-   
+    <div id="userdrop" style="display: none;">
+    <ul>
+    <li><a href="http://www.smartshanghai.com/user/?to=reviews">Dining Reviews</a></li>
+    <li><a href="http://www.smartshanghai.com/user/?to=housing">Housing Listings</a></li>
+   	<li><a href="http://www.smartshanghai.com/user/?to=settings">Account Settings</a></li>
+    <li><a href="http://www.smartshanghai.com/logout.php?logout=true" style="border: none;">Sign-Out</a></li>
+    </ul>
+    <p style="height: 3px; margin: 0px; padding: 0px; width: 100%;" onmouseover="hidediv('userdrop');">&nbsp;</p>
     </div>
-    
-     <div id="topbar_search_articles">
-    <form action="http://www.smartshanghai.com/blog.php" style="margin: 0px; padding: 39px 0 0 0px;">
-    <a href="javascript:null();" onclick="switchsearchtabs('topbar_search_venues');"><img src="http://www.smartshanghai.com/img2/search_venues.png" border="0"></a><a href="javascript:null();" onclick="switchsearchtabs('topbar_search_events');"><img src="http://www.smartshanghai.com/img2/search_events.png" border="0"></a><img src="http://www.smartshanghai.com/img2/search_articles_active.png" border="0"><input name="search" type="text" style="background: none; font-size: 15px; color: #000000; width: 340px; margin: 3px 0 0 0; padding: 0px; height: 18px; border: 0px;"><input type="submit" name="Submit" value="" style="background: none; height: 20px; width: 70px; border: 0px; padding: 0px; margin: 0px;"></form><p style="margin: 0px; padding: 8px 0 0 0; font-size: 9px; color: #c0ff00;"><a href="http://www.smartshanghai.com/blog.php?tag=dining">Restaurant Reviews</a>, <a href="http://www.smartshanghai.com/blog.php?tag=interviews">Interviews</a>, <a href="http://www.smartshanghai.com/blog.php?tag=live_music">Live Music</a>, <a href="http://www.smartshanghai.com/blog.php?tag=local_flavor">Local Flavor</a>, <a href="http://www.smartshanghai.com/radar">The Radar</a>, <a href="http://www.smartshanghai.com/blog.php?tag=revisited">Revisited</a> ... </p>
    
-    </div>
-    
-<div style="width: 120px; float: left;">
-
-  <a href="http://www.smartshanghai.com/maps/expo.php" title="Map of the 2010 Shanghai Expo"><img src="http://www.smartshanghai.com/expomap.png" border="0" style="margin: 22px 0 0 60px;"></a></div>
-</div>
-
-
-
- <div id="dropdown_restaurants">
-<div id="dropdown_new" style="width: 700px;">
-       <p></p>
   </div>
- </div>
- 
- 
-  <div id="dropdown_events">
- <div id="dropdown" style="width: 570px;">
-      <p></p>
-  </div>
- </div>
- 
- 
-   <div id="dropdown_clubs">
-    <div id="dropdown" style="width: 570px;">
-      <p></p>  
-      </div>
- </div>
- 
-   <div id="dropdown_alllistings">
-   <div id="dropdown_alllistingscont" style="width: 860px;">
-      <p></p>
-    </div>
- </div>
- 
- 
-    <div id="dropdown_maps">
-   <div id="dropdown_alllistingscont" style="width: 550px;">
-      <p></p>
-    </div>
- </div>
- 
-    <div id="dropdown_columns">
-   <div id="dropdown_alllistingscont" style="width: 850px;">
-      <p></p>
-    </div>
- </div>
- 
-
- 
-<div id="nav">
-
-<img src="http://www.smartshanghai.com/img2/nav5-2/nav_find.png"><a href="javascript:showdropdowns('dropdown_restaurants');" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav_restaurants','','http://www.smartshanghai.com/img2/nav5-2/nav_restaurants_active.png',1)" id="res_droplink"><img src="http://www.smartshanghai.com/img2/nav5-2/nav_restaurants.png" alt="Find Restaurants in Shanghai" title="Find Restaurants in Shanghai" name="nav_restaurants" width="127" height="26" border="0" id="Restaurants"></a><a href="javascript:showdropdowns('dropdown_clubs');" id="clubs_droplink" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav_clubs','','http://www.smartshanghai.com/img2/nav5-2/nav_clubs_over.png',1)"><img src="http://www.smartshanghai.com/img2/nav5-2/nav_clubs.png" alt="Find Bars &amp; Clubs in Shanghai" title="Find Bars &amp; Clubs in Shanghai" name="nav_clubs" width="114" height="26" border="0" id="Clubs"></a><a href="http://www.smartshanghai.com/directory/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('alllistings','','http://www.smartshanghai.com/img2/nav5-2/nav_directory_over.png',1)" id="alllistings_droplink"><img src="http://www.smartshanghai.com/img2/nav5-2/nav_directory.png" alt="Browse Airline Offices, Consulates, Hotels, Gyms, Flower Shops and more in Shanghai" title="Browse Airline Offices, Consulates, Hotels, Gyms, Flower Shops and more in Shanghai" name="All Listings" width="108" height="26" border="0" id="alllistings"></a><a href="javascript:showdropdowns('dropdown_events');" id="events_droplink" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Events','','http://www.smartshanghai.com/img2/nav5-2/nav_events_over.png',1)"><img src="http://www.smartshanghai.com/img2/nav5-2/nav_events.png" alt="Upcoming and Weekly events in Shanghai" title="Browse through Upcoming and Weekly events in Shanghai" name="Events" width="81" height="26" border="0" id="Events"></a><a href="javascript:showdropdowns('dropdown_maps');" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Maps','','http://www.smartshanghai.com/img2/nav5-2/nav_maps_over.png',1)" id="maps_droplink"><img src="http://www.smartshanghai.com/img2/nav5-2/nav_maps.png" alt="Streetmaps and Metro Map for Shanghai" title="Streetmap and Metromap for Shanghai" name="Maps" width="63" height="26" border="0" id="Maps"></a><a href="http://www.smartshanghai.com/dating/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Dating','','http://www.smartshanghai.com/img2/nav5-2/nav_dating_over.png',1)"><img src="http://www.smartshanghai.com/img2/nav5-2/nav_dating.png" alt="Shanghai Online Dating" title="Shanghai online dating" name="Dating" width="61" height="26" border="0" id="Dating"></a><a href="/pictures/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Pictures','','http://www.smartshanghai.com/img2/nav5-2/nav_pictures_over.png',1)"><img src="http://www.smartshanghai.com/img2/nav5-2/nav_pictures.png" alt="Shanghai Party Pictures" title="Shanghai Party Pictures" name="Pictures" width="73" height="26" border="0" id="Pictures"></a><a href="http://www.smartshanghai.com/jobs/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Jobs','','http://www.smartshanghai.com/img2/nav5-2/nav_jobs_over.png',1)"><img src="http://www.smartshanghai.com/img2/nav5-2/nav_jobs.png" alt="Jobs and Internships in Shanghai" name="Jobs" width="61" height="26" border="0" id="Jobs"></a><a href="javascript:showdropdowns('dropdown_columns');" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Columns','','http://www.smartshanghai.com/img2/nav5-2/nav_columns_over.png',1)" id="columns_droplink"><img src="http://www.smartshanghai.com/img2/nav5-2/nav_columns.png" alt="Columns" name="Columns" width="74" height="26" border="0" id="Columns"></a><a href="/housing/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Housing','','http://www.smartshanghai.com/img2/nav5-2/nav_housing_over.png',1)"><img src="http://www.smartshanghai.com/img2/nav5-2/nav_housing.png" alt="Housing" title="Find Apartments, Shared Apartments, Houses and Offices in Shanghai" name="Housing" width="76" height="26" border="0" id="Housing"></a><a href="/smartticket/" id="tickets_droplink" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Tickets','','http://www.smartshanghai.com/img2/nav5-2/nav_tickets_over.png',1)"><img src="http://www.smartshanghai.com/img2/nav5-2/nav_tickets.png" alt="Tickets" name="Tickets" width="91" height="26" border="0" id="Tickets"></a></div>
- 
-
   
- <div id="privacy_main">
-<div id="privacy_cont">
-<div id="privacy_cont_cont">
- <h1>SmartShanghai.com Privacy Policy </h1>
-      <br>
-      This is a privacy policy for SmartShanghai.com. <br>SmartShanghai respects your 
-      privacy. Below is an outline of the information that SmartShanghai.com gathers 
-      and how it's used<br> <br>
-      Whenever you request a page through your browser, navigation and clickstream 
-      data such as: 
+
+
+  <div id="favpop">
+    <div class="favpop_cont">
+    <div style="width: 100%; margin: 50px 0 50px 0;" id="favpoppreloader"><center><img src="http://www.smartshanghai.com/img/bodyimg/favpreloader.gif"></center></div>
+    <p></p>
+    <a href="javascript:null();" onclick="hidediv('favpop');"><div class="closebtn"><img src="http://www.smartshanghai.com/img/bodyimg/favsclose.png" width="33" height="11" style="margin: 0 0 0 5px;"></div></a> </div>    
+  </div>
+  
+  
+
+  <div id="header" style="background: url('http://www.smartshanghai.com/img/headerimg/introdans.png') no-repeat;">
+   
+     <div id="logo"><p class="smshlogo"><a href="http://www.smartshanghai.com"><img src="http://www.smartshanghai.com/img/bodyimg/smshlogot.gif" border="0"></a></p></div>
+     
+    
+    
+    
+    <div id="search-venues">
+      <div class="search">
+        <form action="http://www.smartshanghai.com/search/" method="get">
+         
+         <ul><li class="active"><a href="javascript:null();" onclick="switchsearchtabs('search-venues');" class="activel">Listings</a></li>
+             <li><a href="javascript:null();" onclick="switchsearchtabs('search-events');">Events</a></li>
+             <li><a href="javascript:null();" onclick="switchsearchtabs('search-articles');">Articles</a></li>
+             <li><a href="javascript:null();" onclick="switchsearchtabs('search-streets');" class="last">Streets</a></li>
+             <br class="clear">
+         </ul>
+
+          <div class="search-ip">
+          <input name="q" type="text" class="sbx" id="query">
+          </div>
+          
+          <div class="search-btn">
+          <button class="sbbtn" title="Submit Search">Search</button>
+          </div>
+
+          
+
+          <br class="clear">
+          
+          <p class="popsearch"><b style="margin: 0 5px 0 0;">Popular:</b> <a href="http://www.smartshanghai.com/search/?q=ladies night&amp;nocount=true">Ladies Night</a>, <a href="http://www.smartshanghai.com/search/?q=Dr Wine&amp;nocount=true">Dr Wine</a>, <a href="http://www.smartshanghai.com/search/?q=CUIVRE&amp;nocount=true">CUIVRE</a>, <a href="http://www.smartshanghai.com/search/?q=Lost Heaven&amp;nocount=true">Lost Heaven</a> <a href="http://www.smartshanghai.com/search/" style="margin: 0 0 0 10px;"><b>Advanced Search »</b></a></p>
+        </form>
+      </div>
+    </div>
+    
+    
+    
+    <div id="search-events" style="display: none;">
+      <div class="search">
+        <form action="http://www.smartshanghai.com/events/" method="get">
+         
+         <ul><li><a href="javascript:null();" onclick="switchsearchtabs('search-venues');" class="activel">Listings</a></li>
+             <li class="active"><a href="javascript:null();" onclick="switchsearchtabs('search-events');">Events</a></li>
+             <li><a href="javascript:null();" onclick="switchsearchtabs('search-articles');">Articles</a></li>
+             <li><a href="javascript:null();" onclick="switchsearchtabs('search-streets');" class="last">Streets</a></li>
+             <br class="clear">
+         </ul>
+
+          <div class="search-ip">
+          <input name="q" type="text" class="sbx" id="query">
+          </div>
+          
+          <div class="search-btn">
+          <button class="sbbtn" title="Submit Search">Search</button>
+          </div>
+
+          
+
+          <br class="clear">
+          
+          <p class="popsearch"><b style="margin: 0 5px 0 0;">Popular:</b> <a href="http://www.smartshanghai.com/events/?tag=thanksgiving">Thanksgiving</a>, <a href="http://www.smartshanghai.com/smartticket/akon">Akon</a>, <a href="http://www.smartshanghai.com/">Introdans</a>, <a href="http://www.smartshanghai.com/event/15830">Mogwai</a> <a href="http://www.smartshanghai.com/search/events/" style="margin: 0 0 0 10px;"><b>Advanced Search »</b></a></p>
+        </form>
+      </div>
+    </div>
+    
+    
+    
+
+    <div id="search-articles" style="display: none;">
+      <div class="search">
+        <form action="http://www.smartshanghai.com/articles/" method="get">
+         
+         <ul><li><a href="javascript:null();" onclick="switchsearchtabs('search-venues');" class="activel">Listings</a></li>
+             <li><a href="javascript:null();" onclick="switchsearchtabs('search-events');">Events</a></li>
+             <li class="active"><a href="javascript:null();" onclick="switchsearchtabs('search-articles');">Articles</a></li>
+             <li><a href="javascript:null();" onclick="switchsearchtabs('search-streets');" class="last">Streets</a></li>
+             <br class="clear">
+         </ul>
+
+          <div class="search-ip">
+          <input name="search" type="text" class="sbx" id="query">
+          </div>
+          
+          <div class="search-btn">
+          <input name="atype" type="hidden" value="">
+          <button class="sbbtn" title="Submit Search">Search</button>
+          </div>
+
+          
+
+          <br class="clear">
+          
+          <p class="popsearch"><b style="margin: 0 5px 0 0;">Popular:</b> <a href="\&quot;http://www.smartshanghai.com/articles/dining/patios-in-shanghai\&quot;">Patios</a>, <a href="\&quot;http://www.smartshanghai.com/articles/dining/game-of-death-kedi-mart-ice-creams-2011\&quot;">Kedi Mart Icecream</a> <a href="http://www.smartshanghai.com/search/articles/" style="margin: 0 0 0 10px;"><b>Advanced Search »</b></a></p>
+        </form>
+      </div>
+    </div>
+    
+    
+
+    <div id="search-streets" style="display: none;">
+      <div class="search">
+        <form action="http://www.smartshanghai.com/maps/" method="get">
+         
+         <ul><li><a href="javascript:null();" onclick="switchsearchtabs('search-venues');" class="activel">Listings</a></li>
+             <li><a href="javascript:null();" onclick="switchsearchtabs('search-events');">Events</a></li>
+             <li><a href="javascript:null();" onclick="switchsearchtabs('search-articles');">Articles</a></li>
+             <li class="active"><a href="javascript:null();" onclick="switchsearchtabs('search-streets');" class="last">Streets</a></li>
+             <br class="clear">
+         </ul>
+
+          <div class="search-ip">
+          <input name="street" type="text" class="sbx" id="query">
+          </div>
+          
+          <div class="search-btn">
+          <button class="sbbtn" title="Submit Search">Search</button>
+          </div>
+
+          
+
+          <br class="clear">
+          
+          <p class="popsearch"><b style="margin: 0 5px 0 0;">Popular:</b> <a href="http://www.smartshanghai.com/maps/?street=hengshan+lu">Hengshan Lu</a>, <a href="http://www.smartshanghai.com/maps/?street=huaihai+lu">Huaihai Lu</a>, <a href="http://www.smartshanghai.com/maps/?street=the+bund">The Bund</a>, <a href="http://www.smartshanghai.com/maps/?street=fuxing+lu">Fuxing Lu</a> </p>
+        </form>
+      </div>
+    </div>
+ 
+ 
+     <div id="ticketpromo">
+  <p style="padding: 80px 0 0 0; line-height: 15px; margin: 0 0 0 18px; width: 100px; font-size: 11px;">
+  <a href="http://www.smartshanghai.com/smartticket/introdans" style="color: black;"><b>Tickets here !</b></a>
+	</p>
+     </div>
+  
+  
+    <br class="clear">
+  </div>
+  
+  
+  
+  <div id="navi">
+    <div style="background: url(http://www.smartshanghai.com/CSS/img/navbg_buttonbg.png) repeat-x; height: 31px;">
+    
+     <div class="navbtn">
+    <img src="http://www.smartshanghai.com/img/bodyimg/nav/navispacer.png" width="105" height="27" border="0">
+    </div>
+     <a href="http://www.smartshanghai.com/dining/"><div class="navbtn" id="navdining" onmouseover="navbgchanger('navdining')" onmouseout="navbgchangerout('navdining')"><img src="http://www.smartshanghai.com/img/bodyimg/nav/dining.png" border="0"></div></a><a href="http://www.smartshanghai.com/nightlife/"><div class="navbtn" id="navnightlife" onmouseover="navbgchanger('navnightlife')" onmouseout="navbgchangerout('navnightlife')"><img src="http://www.smartshanghai.com/img/bodyimg/nav/nightlife.png" border="0"></div></a><a href="http://www.smartshanghai.com/artstage/"><div class="navbtn" id="navartstage" onmouseover="navbgchanger('navartstage')" onmouseout="navbgchangerout('navartstage')"><img src="http://www.smartshanghai.com/img/bodyimg/nav/artstage.png" border="0"></div></a><a href="http://www.smartshanghai.com/wellbeing/"><div class="navbtn" id="navwellbeing" onmouseover="navbgchanger('navwellbeing')" onmouseout="navbgchangerout('navwellbeing')"><img src="http://www.smartshanghai.com/img/bodyimg/nav/wellbeing.png" border="0"></div></a><a href="http://www.smartshanghai.com/shopping/"><div class="navbtn" id="navshopping" onmouseover="navbgchanger('navshopping')" onmouseout="navbgchangerout('navshopping')"><img src="http://www.smartshanghai.com/img/bodyimg/nav/shopping.png" border="0"></div></a><a href="http://www.smartshanghai.com/activities/"><div class="navbtn" id="navactivities" onmouseover="navbgchanger('navactivities')" onmouseout="navbgchangerout('navactivities')"><img src="http://www.smartshanghai.com/img/bodyimg/nav/activities.png" border="0"></div></a><a href="http://www.smartshanghai.com/travel/"><div class="navbtn" id="navexpo" onmouseover="navbgchanger('navexpo')" onmouseout="navbgchangerout('navexpo')"><img src="http://www.smartshanghai.com/img/bodyimg/nav/travel.png" border="0"></div></a><div class="navbtn">
+    <img src="http://www.smartshanghai.com/img/bodyimg/nav/navispacer.png" width="148" height="27">
+    </div>
+    
+    
+    </div>
+  </div>
+  <div id="subnav">
+    <div style="width: 100%; overflow: hidden;">
       <ul>
-        <li>your IP address, </li>
-        <li>browser and version, </li>
-        <li>operating system, </li>
-        <li>date and time and </li>
-        <li>the site from which you came</li>
-      </ul>
-      are stored in a log file and/or database. This information cannot be 
-        used to identify specific individuals, and is only used for:
-      <ul>
-        <li>Website and system administration, </li>
-        <li>research and development, </li>
-        <li>anonymous user analysis, and </li>
-        <li>to provide accurate statistics to advertisers in the form of aggregated 
-          data. <br>
+        <li class="firstl"><a href="http://www.smartshanghai.com/articles/" class="subnavdrop">ARTICLES</a>
+        
+         <ul style="margin: 0 0 0 0px;">
+            <li><a href="http://www.smartshanghai.com/articles/" style="color: #00a3de;"><b>All Articles</b></a></li>
+            <li><a href="http://www.smartshanghai.com/wire/" style="color: #00a3de;">All Wire Posts</a></li>
+            <li><a href="http://www.smartshanghai.com/askmatsume/" title="Shanghai's most popular advise column">Ask Matsume</a></li>
+            <li><a href="http://www.smartshanghai.com/check-in/" title="Profiles of hotels around Shanghai">Check-In</a></li>
+            <li><a href="http://www.smartshanghai.com/tags/cook-it" title="Recipes designed by Shanghai chefs ">Cook It</a></li>
+            <li><a href="http://www.smartshanghai.com/tags/imbibe">Imbibe</a></li>
+            <li><a href="http://www.smartshanghai.com/tags/mp3_monday">Mp3 Monday</a></li>
+             <li><a href="http://www.smartshanghai.com/myweekender/">My Weekender</a></li>
+            <li><a href="http://www.smartshanghai.com/tags/offbeat">Offbeat</a></li>
+            <li><a href="http://www.smartshanghai.com/out-of-town/">Out of Town</a></li>
+             <li><a href="http://www.smartshanghai.com/tags/revisited">Revisited</a></li>
+             <li><a href="http://www.smartshanghai.com/tags/the-agenda" title="A sweeping look at the next month in Shanghai ">The Agenda</a></li>
+             <li><a href="http://www.smartshanghai.com/radar/" title="New Restaurants and Bars in Shanghai">The Radar</a></li>
+             <li style="border: none;"><a href="http://www.smartshanghai.com/tags/the-review">The Review</a></li>
+             
+          </ul>
+          
+          
         </li>
-      </ul>
-       The email addresses collected from subscriptions to the SmartShanghai 
-        newsletters are not sold, or disclosed to any third parties. These addresses 
-        will only be used by our business to send out SmartShanghai communications 
-        (for example "<a href="http://www.smartshanghai.com/newsletter/">Shanghai_nightlife</a>"). According to the terms of subscription, SmartShanghai.com may send a maximum of one advertisement e-mail per month (mostly, event related) which will clearly be labelled as a publication sent out by SmartShanghai.com. You will not receive any mailings 
-        you did not request. The email addresses collected at SmartShanghai.com 
-        are stored on a server hosted by <a href="http://www.computersolutions.cn/">Computer Solutions in Shanghai, P.R. </a>
-        China. 
+         
+        
+    
+        <li><a href="http://www.smartshanghai.com/essentialguide/nightlife/" class="subnavdrop">ESSENTIAL GUIDES</a>
+        
+         <ul style="margin: 0 0 0 -3px;">
+            <li><a href="http://www.smartshanghai.com/essentialguide/nightlife/">Essential Guide <b style="color: #00a3de;">Nightlife</b></a></li>
+          </ul>
+          
+          
+        </li>
+        <li><a href="http://www.smartshanghai.com/listings/" class="subnavdrop">LISTINGS</a>
+        
+          <ul style="margin: 0 0 0 -3px;">
+            <li><a href="http://www.smartshanghai.com/listings/"><b style="color: #00a3de;">All Listings</b></a></li>
+            <li><a href="http://www.smartshanghai.com/listings/popular/"><span style="color: #00a3de;">Popular Venues</span></a></li>
+   <li><a href="http://www.smartshanghai.com/listings/restaurants/" style="margin: 8px 0 0 0;"><b>Restaurants</b></a></li><li><a href="http://www.smartshanghai.com/listings/nightlife/bars/"><b>Bars</b></a></li><li><a href="http://www.smartshanghai.com/listings/nightlife/clubs/"><b>Clubs</b></a></li><li><a href="http://www.smartshanghai.com/listings/hotels/"><b>Hotels</b></a></li><li><a href="http://www.smartshanghai.com/listings/delivery/" style="margin: 8px 0 0 0;">Delivery</a></li><li><a href="http://www.smartshanghai.com/listings/art_galleries/"> Art Galleries</a></li><li><a href="http://www.smartshanghai.com/listings/education/"> Education</a></li><li><a href="http://www.smartshanghai.com/listings/wellbeing/"> Wellbeing</a></li><li><a href="http://www.smartshanghai.com/listings/services/"> Services</a></li><li><a href="http://www.smartshanghai.com/listings/shopping/"> Shopping</a></li><li><a href="http://www.smartshanghai.com/listings/sportrecreation/"> Sport &amp; Recreation</a></li><li><a href="http://www.smartshanghai.com/listings/stage/"> Stage</a></li><li style="border: none;"><a href="http://www.smartshanghai.com/listings/travelsightseeing/"> Travel &amp; Sightseeing</a></li>
+            
+          </ul>
+          
+         </li>
+         
       
-      If you have questions regarding our privacy policies, or require assistance 
-        in opting out of our email lists, please contact us using our contact 
-        form <a href="http://www.smartshanghai.com/contact">here</a>.<br><br>
+        <li><a href="http://www.smartshanghai.com/events/" class="subnavdrop">EVENTS &amp; PROMOTIONS</a>
+        
+          <ul style="margin: 0 0 0 0px;">
+            <li><a href="http://www.smartshanghai.com/events/" style="color: #00a3de;"><b>Upcoming Events</b></a></li>
+            <li><a href="http://www.smartshanghai.com/events/weekly/" style="color: #00a3de;">Weekly Events</a></li>
+                        
+            <li style="margin: 8px 0 0 0;"><a href="http://www.smartshanghai.com/events/dining/"><b>Dining</b></a></li>
+            <li><a href="http://www.smartshanghai.com/events/dining/?tag=brunch" class="htbtv" style="padding: 3px 0 3px 10px;">Brunch Deals</a></li>
+            <li><a href="http://www.smartshanghai.com/events/dining/?tag=lunch" class="htbtv" style="padding: 3px 0 3px 10px;">Lunch Deals</a></li>
+            
+           <li style="margin: 8px 0 0 0;"><a href="http://www.smartshanghai.com/events/nightlife/"><b>Nightlife</b></a></li>
+            <li><a href="http://www.smartshanghai.com/events/nightlife/?tag=ladiesnight" class="htbtv" style="padding: 3px 0 3px 10px;">Ladie's Night</a></li>
+           	<li><a href="http://www.smartshanghai.com/events/nightlife/?tag=openbar" class="htbtv" style="padding: 3px 0 3px 10px;">Open Bar</a></li>
+            <li><a href="http://www.smartshanghai.com/events/nightlife/?tag=happyhour" class="htbtv" style="padding: 3px 0 3px 10px;">Happy Hour Deals</a></li>
+            
+             <li style="margin: 8px 0 0 0;"><a href="http://www.smartshanghai.com/events/arts/"><b>Arts</b></a></li>
+             <li><a href="http://www.smartshanghai.com/artstage/artcalendar" class="htbtv" style="padding: 3px 0 3px 10px;">Art Exhibitions</a></li>
+             <li><a href="http://www.smartshanghai.com/events/arts/?tag=concerts" class="htbtv" style="padding: 3px 0 3px 10px;">Concerts</a></li>			
+             <li><a href="http://www.smartshanghai.com/events/arts/?tag=filmcinema" class="htbtv" style="padding: 3px 0 3px 10px;">Film &amp; Cinema</a></li>
+             <li><a href="http://www.smartshanghai.com/events/arts/?tag=literature" class="htbtv" style="padding: 3px 0 3px 10px;">Literary</a></li>
+             <li><a href="http://www.smartshanghai.com/events/arts/?tag=stage" class="htbtv" style="padding: 3px 0 3px 10px;">Stage</a></li>
+			
+            <li style="margin: 8px 0 0 0;"><a href="http://www.smartshanghai.com/events/sports/">Sports</a></li>
+            <li><a href="http://www.smartshanghai.com/events/community/">Community</a></li>            
+            <li style="border: none;"><a href="http://www.smartshanghai.com/events/promotions/">Promotions</a></li>
+      
+          </ul>
+          
+          
+          
+         </li>
+          
+        <li><a href="http://www.smartshanghai.com/pictures/">PICTURES</a></li>
+        <li><a href="http://www.smartshanghai.com/maps/" class="subnavdrop">MAPS</a>
+        
+            <ul style="margin: 0 0 0 -3px;">
+            <li><a href="http://www.smartshanghai.com/maps/" title="Shanghai Street Map" style="color: #00a3de;"><b>Shanghai Street Map</b></a></li>
+            <li><a href="http://www.smartshanghai.com/maps/smsh_metromap.php" style="color: #00a3de;">Shanghai Metro Map</a></li>
+            <li style="margin: 8px 0 0 0;"><a href="http://www.smartshanghai.com/maps/?s=restaurants"><b>Restaurant Map</b></a></li>
+            <li><a href="http://www.smartshanghai.com/maps/?s=nightlife">Nightlife Map</a></li>
+            <li><a href="http://www.smartshanghai.com/maps/?s=happyhour">Happy Hour Map</a></li>
+            <li><a href="http://www.smartshanghai.com/maps/?s=hotels">Hotels Map</a></li>
+            <li><a href="http://www.smartshanghai.com/maps/?s=brunch">Brunch Deals Map</a></li>
+            <li style="border: none;"><a href="http://www.smartshanghai.com/maps/?s=lunch">Lunch Deals Map</a></li> 
+          </ul>
+       </li>
+        <li><a href="http://www.smartshanghai.com/dating/">DATING</a></li>
+        <li><a href="http://www.smartshanghai.com/housing/">HOUSING</a></li>
+        <li><a href="http://www.smartshanghai.com/jobs/">JOBS</a></li>
+        <li><a href="http://www.smartshanghai.com/smartticket/">TICKETS</a></li>
+      </ul>
+    </div>
+  </div>
+  
+  <div style="width: 780px; margin: 20px 0 20px 50px; line-height: 17px; border-left: 2px solid #00AEEF; padding: 10px 0 10px 30px;" id="privacy">
+
+<p style="font: 84.5% Georgia, serif; font-size: 23px;">SmartShanghai.com Privacy Policy</p>
+
+<p style="margin: 18px 0 0 0;">This is a privacy policy for SmartShanghai.com.<br><br>
+SmartShanghai respects your privacy and safeguarding your privacy is very important to us.<br>
+Below is an outline of the information that SmartShanghai.com gathers and how it's used.<br><br>
+Whenever you request a page through your browser, navigation and clickstream data such as:
+</p><ul><li>your IP address,</li>
+<li>browser and version,</li>
+<li>operating system,</li>
+<li>date and time and</li>
+<li>the site from which you came</li></ul>
+are stored in a log file and/or database. This information cannot be used to identify specific individuals, and is only used for:
+<ul><li>Website and system administration,</li>
+<li>research and development,</li>
+<li>anonymous user analysis, and to provide accurate statistics to advertisers in the form of aggregated data. </li>
+</ul> <br>
+SmartShanghai uses <b>cookies</b> to enable site features including, but not limited to login data, time and date tracking. We recommend that you browse SmartShanghai with cookies enabled in your browser. Our advertising partners may use cookies as part of their advertising campaign but this is independent of this site.<br><br>
+The email addresses collected from subscriptions to the SmartShanghai <b>newsletters</b> are not sold, or disclosed to any third parties. These addresses will only be used by our business to send out SmartShanghai communications (for example "Shanghai_nightlife"). According to the terms of subscription, SmartShanghai.com may send a maximum of one advertisement e-mail per month which will clearly be labelled as a publication sent out by SmartShanghai.com. You will not receive any mailings you did not request. The email addresses collected at SmartShanghai.com are stored on a server hosted by Computer Solutions in Shanghai, P.R. China. <br><br>
+Any email sent from SmartShanghai.com contains a direct unsubscribe link at the bottom which allows subscribers and site-members to unsubscribe directly.<br><br>
+SmartShanghai does not display pictures or personal information of it's <b>dating</b> members to non-members.  Dating profiles are available to other users of the website and can also be accessed by authorized personnel. Dating members can remove their pictures or the entire dating profile on their own. Search engines have no access to SmartShanghai dating pages.
+<br>
+<br>
+SmartShanghai gives all registered <b>users</b> the options for deleting their profile and by that removing any personal information previously provided.<br><br>
+If you have questions regarding our privacy policies, or require assistance in opting out of our email lists, please contact us using our <a href="http://www.smartshanghai.com/contact">contact form here</a>.<br><br><br>SmartShanghai.com, Dec 2010<br>
+<p></p>
 </div>
+  <div style="background: #f1f1f1; text-align: center; padding: 10px 0; margin: 10px 0 0px 0;"><a href="http://www.smartshanghai.com/doubleclick.php?a=5074&amp;u=http://www.smartshanghai.com/" target="_blank">
+				<img src="http://www.smartshanghai.com/eximg/eximg1320047811.jpg" width="760" height="120" border="0"></a></div>
+  <div id="footer">
+    <center>
+      <a href="http://www.smartshanghai.com/service/about">About SmartShanghai</a> | <a href="http://www.smartshanghai.com/contact">Contact us</a> | <a href="http://www.smartshanghai.com/service/events">Submit Events</a> | <a href="http://www.smartshanghai.com/service/venues">Submit a Venue Listing</a> | <a href="http://www.smartshanghai.com/service/advertise">Advertise with us</a> | <a href="http://www.smartshanghai.com/service/faq">FAQ</a> <br>
+      <span style="font-size: 11px;">SmartShanghai.com | <a href="http://www.creativehunt.com">CreativeHunt.com</a> | <a href="http://concierge.smartshanghai.com">Smart Concierge</a> | 2003 - 2011 | <a href="http://www.smartshanghai.com/privacy">Privacy</a> | ICP 北京 05052457</span>
+    </center>
+  </div>
 </div>
-</div>
-
-
-<div style="clear: both; height: 1px; font-size: 1px; overflow: hidden;">&nbsp;</div>  
-
-
-
-<div id="footer" style="line-height: 20px;">
-<a href="http://www.smartshanghai.com/service/about">About SmSh</a> |  <a href="http://www.smartshanghai.com/service/events">Submit Events</a> | <a href="http://www.smartshanghai.com/service/promotions">Submit Promotions</a> | <a href="http://www.smartshanghai.com/service/venues">Submit a Venue Listing</a> | <a href="http://www.smartshanghai.com/service/faq">FAQ</a><br>
-
-<a href="http://www.smartshanghai.com/contact">Contact us</a> | <a href="http://www.smartshanghai.com/sitemap.php" title="SmartShanghai Sitemap">Sitemap</a> | <a href="http://www.smartshanghai.com/service/advertise">Advertise with us</a> | <a href="http://www.smartshanghai.com/privacy">Privacy Policy</a> | <a href="http://www.smartshanghai.com/newsletter/" title="Sign up for Shanghai_nightlife">Newsletter</a> | <a href="http://mobile.smartshanghai.com" title="SmSh Mobile Version">Mobile</a> |  <a href="http://www.smartshanghai.com/iphone" title="SmSh Iphone Application">iPhone App</a> | <a href="http://www.smartshanghai.com/rss" title="SmartShanghai Rss Feeds">RSS</a> | <a href="http://concierge.smartshanghai.com">Concierge</a> | <a href="http://www.louder.cn">Louder.cn</a> | <a href="http://www.creativehunt.com" title="Your Guide to Creative China">CreativeHunt.com</a> 
-
-<div id="copyright">2003 - 2010 | SmartShanghai.com | ICP 北京 05052457</div>
-</div>
-
-
-</div>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-15014604-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-
 
 
 </body></html>
