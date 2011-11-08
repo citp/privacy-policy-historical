@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directholidays.co.uk privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630180620id_/http%3A//www.directholidays.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directholidays.co.uk privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108183136id_/http%3A//www.directholidays.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Direct Holidays
 
@@ -23,6 +23,12 @@ Additionally, where your holiday is outside the European Economic Area (EEA), co
 Your data controller is: Thomas Cook Group trading as Direct Holidays. 
 
 You are entitled to a copy of your information held by us. If you would like to see this please contact the data controller named above. We may make a small charge for providing this to you. 
+
+**Use of Cookies**
+
+In order to help us maintain and improve our service to you we also use 'cookies' to collect information about your use of this site. Cookies are a feature of web browser software that allows web servers to temporarily store information within your browser, which in turn allows us to recognise the computer used to access this site. Most browsers automatically accept cookies but you can delete existing cookies from your browser. You can also edit your browser options to choose not to receive cookies in future. We may use cookies to keep track of the transaction from one page to the next.
+
+If you do not like the idea of your computer storing cookies and would like to delete them, [follow these steps to remove cookies from your browser](http://www.aboutcookies.org/).
 
 **Marketing**  
 We will hold your information, where collected by us, and may use it to inform you in the future of offers by us, including offers relating to financial services and to send you brochures. We may also provide, rent or sell your details to selected third parties for similar purposes. 
