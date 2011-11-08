@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokyoflash.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613003147id_/https%3A//www.tokyoflash.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyoflash.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108215713id_/https%3A//www.tokyoflash.com/nl/privacy) for the most accurate reproduction.*
 
 # Tokyoflash Japan : Privacy & Security
 
@@ -31,4 +31,4 @@ We keep a record of your purchase to provide warranty support. If you have a war
 
 If you have any questions or comments about your security or privacy, please contact 
 
-[[Return to Homepage](http://www.tokyoflash.com/en/)]
+[[Return to Homepage](http://www.tokyoflash.com/nl/)]
