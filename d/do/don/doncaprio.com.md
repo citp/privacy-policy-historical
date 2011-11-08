@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the doncaprio.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625141517id_/http%3A//www.doncaprio.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doncaprio.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108224502id_/http%3A//www.doncaprio.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Techie Infos, Blogging Tips, Online Money Making, Mobile Tricks & FBT: Privacy Policy
+# Privacy Policy ~ The 9ja Geek's Journal
 
-##  [Privacy Policy](http://www.doncaprio.com/p/privacy-policy.html)
+###  [Privacy Policy](http://www.doncaprio.com/p/privacy-policy.html)
+
+11/19/2010  
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin(at)capriofiles(.)com.  
 At www.doncaprio.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.doncaprio.com and how it is used.
