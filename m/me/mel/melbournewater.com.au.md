@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the melbournewater.com.au privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524043928id_/http%3A//melbournewater.com.au/content/about_us/policies/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbournewater.com.au privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108150031id_/http%3A//melbournewater.com.au/content/privacy_statement.asp) for the most accurate reproduction.*
 
-# Melbourne Water : About Us : Policies : Privacy Statement
-
-#### Our commitment to privacy
+# Melbourne Water : Privacy Statement
 
 We respect the privacy of your personal information and are committed to collecting and handling all personal information responsibly and in conformity with the _Information Privacy Act 2000 (Vic)_.
 
