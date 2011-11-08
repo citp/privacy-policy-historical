@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the megaproxy.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524060605id_/http%3A//www.megaproxy.com/legal/ps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaproxy.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108042127id_/http%3A//www.megaproxy.com/legal/ps) for the most accurate reproduction.*
 
-# Megaproxy.com, Inc \ Online privacy statement
+# Megaproxy.com - Online privacy statement
 
 Megaproxy.com, Inc ("Megaproxy") is strongly committed to protecting the privacy of our customers. This policy applies only to Megaproxy, and not to the web sites of other companies or organizations visited using Megaproxy's service. Our privacy policy statement will help you understand Megaproxy's commitment to safeguarding your private information.
 
