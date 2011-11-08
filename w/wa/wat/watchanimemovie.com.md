@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the watchanimemovie.com privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114034818id_/http%3A//www.watchanimemovie.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchanimemovie.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108043744id_/http%3A//www.watchanimemovie.com/privacy-policy) for the most accurate reproduction.*
 
-# Watch Privacy Policy English Sub / Dub Movies Online
+# Watch Movie Privacy Policy English Sub / Dub Online
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -25,4 +25,4 @@ We use outside ad companies to display ads on our site. These ads may contain co
 
 Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please contact me through my contact form or send me an email to: animesub@yahoo.com 
+If users have any questions or suggestions regarding our privacy policy, please contact me through my contact form or send me an email to: animesub@yahoo.com
