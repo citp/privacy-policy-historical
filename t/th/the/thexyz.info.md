@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thexyz.info privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628224117id_/http%3A//www.thexyz.info/index.php/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thexyz.info privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108010027id_/http%3A//www.thexyz.info/doc/privacy) for the most accurate reproduction.*
 
 # Privacy - Thexyz.info
 
