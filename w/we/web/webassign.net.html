@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the webassign.net privacy policy that was archived on 2011-04-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110420012817id_/http%3A//www.webassign.net/info/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webassign.net privacy policy that was archived on 2011-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111108221852id_/http%3A//www.webassign.net/info/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
@@ -8,8 +8,52 @@
   
   <script type="text/javascript" src="/infostatic/js/new.js"></script>
   <link rel="stylesheet" type="text/css" href="/infostatic/css/reset-fonts-grids.css">
-  <link rel="stylesheet" type="text/css" href="/infostatic/css/new2.css">
+  <link rel="stylesheet" type="text/css" href="/infostatic/css/new3.css">
+
+  <link type="text/css" rel="stylesheet" href="/infostatic/css/multiBox.css">
+  <!--[if lte IE 6]>
+      <link type="text/css" rel="stylesheet" href="/infostatic/css/multiBoxIE6.css" />
+  <![endif]-->
   
+  <script type="text/javascript" src="/infostatic/js/mootools-1.2.4-core-yc.js"></script>
+  <script type="text/javascript" src="/infostatic/js/mootools-1.2.4.4-more-yc.js"></script>
+  <script type="text/javascript" src="/infostatic/js/overlay.js"></script>
+  
+  <script type="text/javascript" src="/infostatic/js/multiBox.js"></script>
+  <script type="text/javascript">
+  window.addEvent('domready', function(){
+  	//call multiBox
+  	var initMultiBox = new multiBox({
+  		mbClass: '.mb',//class you need to add links that you want to trigger multiBox with (remember and update CSS files)
+  		container: $(document.body),//where to inject multiBox
+  		descClassName: 'multiBoxDesc',//the class name of the description divs
+  		useOverlay: true,//use a semi-transparent background. default: false;
+  		maxSize: {w:700, h:600},//max dimensions (width,height) - set to null to disable resizing
+  		addRollover: true,//add rollover fade to each multibox link
+  		addOverlayIcon: true,//adds overlay icons to images within multibox links
+  		addChain: true,//cycle through all images fading them out then in
+  		recalcTop: true,//subtract the height of controls panel from top position
+  		addTips: true,//adds MooTools built in 'Tips' class to each element (see: http://mootools.net/docs/Plugins/Tips)
+  		autoOpen: 0//to auto open a multiBox element on page load change to (1, 2, or 3 etc)
+  	});
+  });
+  </script>
+  
+<!--no hold window
+<script language="javascript" type="text/javascript">
+function listentowinstu() {
+   window.location = "/user_support/student/";
+   win;
+}
+</script>
+
+<script language="javascript" type="text/javascript">
+function listentowininstr() {
+   window.location = "/user_support/faculty/";
+   win;
+}
+</script>
+-->
  </head>
  <body>
 
@@ -19,8 +63,8 @@
             <div class="yui-b" id="support-nav">
                 <h1><strong>CUSTOMER SUPPORT</strong></h1>
                 <ul>                
-                    <li><nobr><a href="/user_support/student/">Student Support</a> <img src="/infostatic/img/newLivechatIndicator.gif" alt="New Live Chat"></nobr></li>
-                    <li><a href="/user_support/faculty/">Faculty Support</a></li>
+                    <li><nobr><a href="/user_support/student/">Student Support</a></nobr></li>
+                    <li><a href="/user_support/faculty/">Instructor Support</a></li>
                     <li><a href="/user_support/admin/">Technical Admin Support</a></li>
                 </ul>
             </div> 
@@ -33,7 +77,7 @@
     <input type="hidden" name="ie" value="UTF-8">
     <input type="text" name="q" size="16" style="background: url(&quot;/infostatic/img/search_watermark.gif&quot;) left center no-repeat rgb(255, 255, 255);">
     <input type="image" name="sa" value="Search" alt="search" src="/infostatic/img/bArrow.gif">
-<input name="siteurl" type="hidden" value="web.archive.org/web/20110420012817id_/http%3A//www.webassign.net/info/privacy.html"></form>
+<input name="siteurl" type="hidden" value="web.archive.org/web/20111108221852id_/http%3A//www.webassign.net/info/privacy.html"></form>
 <script type="text/javascript" src="/infostatic/js/search.js"></script>
 <!-- /Google -->
                 </div>
@@ -45,7 +89,7 @@
             <div id="header-nav" class="cornerBox">
                 <div class="corner headnavcorner TL"></div>
                 <span class="header-right">
-                    <span><a href="/signup.html">Faculty Sign Up</a></span>
+                    <span><a href="/signup.html">Instructor Sign Up</a></span>
                     <span class="divider">|</span>
                     <span><a href="/login.html">Login</a></span>
                 </span>
@@ -53,7 +97,7 @@
                     <span><a href="/how_it_works/">How It Works</a></span>
                     <span><a href="/features/">Features</a></span>
                     <span><a href="/pricing/">Pricing</a></span>
-                    <span><a href="/success_stories/">Success Stories</a></span>
+                    <span><a href="/community/">Community</a></span>
                     <span><a href="/news/">News</a></span>
                 </span>
             </div>
@@ -120,8 +164,8 @@
             <p>Participate in a training session.</p></li>
         <li><a href="/how_it_works/preview.html"><strong>Preview:</strong> Example Accounts</a>
             <p>Look inside at example accounts.</p></li>
-        <li><a href="/signup.html"><strong>Sign Up:</strong> Free Faculty Account</a>
-            <p>Faculty accounts are always free.</p></li>
+        <li><a href="/signup.html"><strong>Sign Up:</strong> Free Instructor Account</a>
+            <p>Instructor accounts are always free.</p></li>
     </ul>
 </div>
 
@@ -244,23 +288,18 @@ Raleigh, NC 27606</p>
   <p align="center">WebAssign® is a registered service mark of North Carolina State University under license to Advanced Instructional Systems, Inc.</p> 
   <p align="center"><a href="/info/copyright_information.html">Copyright Information</a> <strong>© 1997–2003 North Carolina State University. Portions © 2003–2011 Advanced Instructional Systems, Inc.</strong></p>
   <p align="center">Various trademarks held by their respective owners.</p>
-  <p align="center"><a href="/info/contact_us.html">Main Office:</a> 1791 Varsity Drive, Suite 200, Raleigh, NC 27606-2576 | Tel (919) 829-8181 | Fax (919) 829-1516</p>
+  <p align="center"><a href="/info/contact_us.html">Main Office:</a> 1791 Varsity Drive, Suite 200, Raleigh, NC 27606 | Tel (919) 829-8181 | Fax (919) 829-1516</p>
  </div> 
 </div>
-<!-- Piwik -->
+
+
+<!-- START Salesforce Live Agent Deployment Code: MUST BE PLACED DIRECTLY ABOVE THE CLOSING </BODY> TAG and AFTER/OUTSIDE ALL HTML -->
 <script type="text/javascript">
-var pkBaseURL = (("https:" == document.location.protocol) ? "https://piwik.webassign.net/piwik/" : "http://piwik.webassign.net/piwik/");
-document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://piwik.webassign.net/piwik/piwik.js" type="text/javascript"></script><script type="text/javascript">
-try {
-var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 1);
-piwikTracker.trackPageView();
-piwikTracker.enableLinkTracking();
-} catch( err ) {}
-</script><noscript><p><img src="http://piwik.webassign.net/piwik/piwik.php?idsite=1" style="border:0" alt="" /></p></noscript>
-<!-- End Piwik Tag -->
-
-
+var __ALC_Deployment = 9816;
+document.write(unescape("%3Cscript src='"+document.location.protocol+"//depot.liveagentforsalesforce.com/app/js/lt.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://depot.liveagentforsalesforce.com/app/js/lt.js" type="text/javascript"></script>
+<!-- END Salesforce Live Agent Deployment Code -->
+ 
 
 
 
