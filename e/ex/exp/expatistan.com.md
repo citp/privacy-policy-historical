@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the expatistan.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628162332id_/http%3A//www.expatistan.com/tos) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatistan.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108075900id_/http%3A//www.expatistan.com/tos) for the most accurate reproduction.*
 
-# International Cost of Living Comparisons
+# Cost of Living Comparisons
 
 Expatistan gathers and organizes data provided voluntarily by its users in a collaborative manner. The structure of the the web site allows anyone with an Internet connection to alter its content. Please be advised that nothing found here has necessarily been reviewed by people with the expertise required to provide you with complete, accurate or reliable information.
 
