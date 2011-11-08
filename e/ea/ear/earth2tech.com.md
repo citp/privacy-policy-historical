@@ -1,38 +1,44 @@
-> *The following text is extracted and transformed from the earth2tech.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627214558id_/http%3A//gigaom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earth2tech.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108160455id_/https%3A//pro.gigaom.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# GigaOM Pro Privacy Policy — GigaOM Pro
 
-Giga Omni Media, Inc. (“GigaOM”) takes your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the GigaOM website (the “GigaOM Site”), submitting information or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+Giga Omni Media, Inc. (“GigaOM”) takes your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the GigaOM analyst network website (the “GigaOM Pro Site”), submitting information or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
 ## What Does This Privacy Policy Cover?
 
-This Privacy Policy covers GigaOM’s treatment of personally identifiable information (“Personal Information”) that GigaOM gathers when you are accessing the GigaOM Site and when you use the GigaOM services or register for events provided by GigaOM. Also, this Privacy Policy covers GigaOM’s treatment of any Personal Information that GigaOM’s business partners share with GigaOM. This Privacy Policy does not apply to the practices of companies that GigaOM does not own or control, or to individuals that GigaOM does not employ or manage.
+This Privacy Policy covers GigaOM’s treatment of personally identifiable information (“Personal Information”) that GigaOM gathers when you are accessing the GigaOM Pro Site and when you use the GigaOM Pro services. Also, this Privacy Policy covers GigaOM’s treatment of any Personal Information that GigaOM’s business partners share with GigaOM. This Privacy Policy does not apply to the practices of companies that GigaOM does not own or control, or to individuals that GigaOM does not employ or manage.
 
 ## What Personal Information Does GigaOM Collect?
 
-The types of Personal Information collected may include your full name, website URL, e-mail address, blog or other personal website URL, your nickname or screenname, and any other information that would allow GigaOM to identify you or contact you if needed. 
+GigaOM does not collect your Personal Information except when knowingly provided by you. The types of Personal Information collected may include your full name, website URL, e-mail address, mailing address, telephone number, credit card number, blog or other personal website URL, your nickname or screenname, and any other information that would allow GigaOM to identify you or contact you if needed.
 
-In addition to the Personal Information as listed above and below, we may ask you to provide certain other information such as general demographic information, including age, gender, ZIP code, preferences, and interests. The information we gather from our users enables us to personalize and improve our services. 
+In addition to the Personal Information listed above, we may ask you to provide certain other information such as general demographic information, including age, gender, ZIP code, preferences, and interests. The information we gather from our users enables us to personalize and improve our services.
 
-We may receive and store any information you enter on the GigaOM Site or provide to us in any other way. The Personal Information you provide may be used for providing attribution to comments you post, to operate and improve the GigaOM Site, and to better deliver the our services. 
+From time to time, GigaOM may offer downloadable products and/or research services – such as analyst webinars -through the GigaOM Pro Site. If you wish to obtain such products and/or research services, you will be asked to provide additional Personal Information to the information listed above, such as your professional title, the company you work for, the number of employees of the company, and the industry in which you work. Downloading products and/or research through the GigaOM Pro Site is completely voluntary and you therefore have a choice whether or not to disclose this information.
 
-## Information Collected Automatically
+You always have the option not to provide the information requested. If you choose not to provide the information we request, you can still visit most of the GigaOM.com websites, but you may be unable to access certain features and services provided by GigaOM. When you register to receive any products or services from GigaOM or provide information to GigaOM in any other manner, you agree to provide only true, accurate, current and complete information.
 
-We may receive and store certain types of information whenever you interact with our websites or services. GigaOM may choose to automatically receive and record information on our server logs from your browser including your IP address, GigaOM cookie information, and the page you requested. 
+We may receive and store any information you enter on the GigaOM Pro Site or provide to us in any other way. The Personal Information you provide may be used for providing attribution to comments you post, to operate and improve the GigaOM Pro Site, to better deliver the our services, to fulfill the products and services you request, to customize the advertising and content you see, to contact you for service or marketing related purposes, and to allow your friends to communicate with you and use the online community aspects of our services.
 
-GigaOM uses “cookies” to collect non-personal data and information. Cookies are small text files a website uses to recognize repeat users, and is typically placed on your hard disk by a Web page server. Cookies contain information that can later be read by a web server in the domain that issued the cookie to you. The way cookies function is by assigning a number to the user that has no meaning outside of the assigning Web site.
+When you register for an online account on the GigaOM Pro Site (a “Pro Account”), we collect certain Personal Information from you. We also may collect Personal Information from you when you contact us about your subscriptions or participate in certain activities, such as forums, message boards, chats, submitting a letter to the editor, creating a community profile, or rating, tagging and commenting on articles or surveys. We do not, however, knowingly collect Personal Information from children under the age of thirteen. When you provide Personal Information to us, we will make sure you are informed about the types of uses we will make of the information to the extent it is being used in a manner that differs from what is allowed pursuant to this Privacy Policy.
 
-You should be aware that GigaOM cannot control the use of cookies (or the resulting information) by GigaOM’s third-party partners or advertisers. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of GigaOM sites and services that depend on cookies.
+## Cookies
+
+A cookie is a string of information that a website stores on a visitor’s computer,and that the visitor’s browser provides to the website each time the visitor returns. GigaOM Pro uses cookies to help GigaOM identify and track visitors, their usage of GigaOM websites, and their website access preferences. GigaOM visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using GigaOM’s websites, with the drawback that certain features of GigaOM’s websites may not function properly without the aid of cookies.
 
 ## Sharing of Personal Information
 
-Except as described in this Privacy Notice, your personal information will be used only by GigaOM and its controlled subsidiaries and affiliates, and your personal information will not be disclosed to any other third party without your consent. We share your Personal Information only with your consent or as described below: 
+Except as described in this Privacy Notice, your personal information will be used only by GigaOM and its controlled subsidiaries and affiliates, and your Personal Information will not be disclosed to any other third party without your consent.  
+However, there are some individual cases where we may share your Personal Information with specific third parties. We share your Personal Information only with your consent or based on your voluntary actions as described below:
 
-Agents: We may employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, GigaOM’s agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes. 
+Business Partners: If you have elected to register for one of our webinars, or download free research from the GigaOM Pro Site, we may share your Personal Information with the business partner and/or vendor who provided, sponsored or otherwise made available information products or research services from GigaOM Pro (e.g., sponsored GigaOM Pro Analyst webinars). These business partners and/or vendors may use your Personal Information to contact you for additional information on their products or services.
 
-Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if GigaOM, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of GigaOM may continue to use your Personal Information as set forth in this policy.
+Agents: We may employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, GigaOM’s agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
 
-Protection of GigaOM and Others: We may release Personal Information when we believe in good faith that release is necessary to comply with any law; enforce or apply our terms of use and other agreements; or protect the rights, property, or safety of GigaOM, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if GigaOM, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of GigaOM may continue to use your Personal Information as set forth in this policy.  
+Corporate or Third-Party Subscriptions: If your subscription is provided in whole or in part by your employer or other third party, we may notify the provider when you access or use your subscription. When providing these notices, we may reveal limited amounts of your personally identifiable information such as your name or email address.
+
+Protection of GigaOM and Others: We may release Personal Information when we believe in good faith that release is necessary to comply with any law; enforce or apply our terms of use and other agreements; or protect the rights, property, or safety of GigaOM, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
 ## Security and Protection of Personal Information
 
@@ -40,20 +46,26 @@ We maintain reasonable standards of security and confidentiality and store Perso
 
 ## E-mail Communications
 
-Upon registration for events and/or services provided by GigaOM, we may send you daily or weekly e-mails. If you do not want to receive e-mail or other mail from us, please notify us by e-mail at [unsubscribe@gigaom.com](mailto:unsubscribe@gigaom.com) and include sufficient information for us to identify your account, including your name, email address and the specifics of your request. However, after you unsubscribe to cease receiving e-mails, GigaOM may still contact you via e-mail for administrative or informational purposes, including messages regarding the administration of your account and/or any services or events to which you have registered.
-
-## Advertisements Displayed by Third Parties
-
-GigaOM may allow third-party ad serving companies, including ad networks, to display advertisements on the GigaOM Site. Ad serving companies may place a persistent cookie on your computer in order to recognize your computer each time they display an online advertisement to you, and as such, they may be able to compile information over time about whether you reviewed or clicked on advertisements they display. These companies may use this information to display targeted advertisements and may associate this information with your subsequent visits, purchases or other activities on participating advertisers’ websites. GigaOM has no access to or control over cookies of these links to other websites and organizations, nor does GigaOM have control over or access to cookies by GigaOM’s third-party partners or advertisers. This Privacy Policy does not cover any use of Personal Information that a third-party advertiser or ad server may collect from you.
+Upon registration for events and/or services provided by GigaOM, we may send you daily or weekly e-mails. If you do not want to receive e-mail or other mail from us, please notify us by e-mail at pro-support@gigaom.com and include sufficient information for us to identify your account, including your name, email address and the specifics of your request. However, after you unsubscribe to cease receiving e-mails, GigaOM Pro may still contact you via e-mail for administrative or informational purposes, including messages regarding the administration of your account and/or any services or events to which you have registered.
 
 ## Changes to this Privacy Policy
 
-GigaOM retains the discretion to amend or modify this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on the GigaOM Site, and such changes shall be effective immediately upon posting. You agree to review this Privacy Policy periodically to ensure that you are aware of any changes. Your continued access or use of the website and/or the services shall be deemed your conclusive acceptance of any amendments and/or modifications.
+GigaOM retains the discretion to amend or modify this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on the GigaOM Pro Site, and such changes shall be effective immediately upon posting. You agree to review this Privacy Policy periodically to ensure that you are aware of any changes. Your continued access or use of the website and/or the services shall be deemed your conclusive acceptance of any amendments and/or modifications.
 
 ## Questions or Comments Regarding this Privacy Policy
 
-GigaOM welcomes any questions or comments you may have regarding this Privacy Policy or if you do not understand any information about how we collect, maintain, use of share your Personal Information. Any such questions or comments should be submitted via email to [info@gigaom.com](mailto:info@gigaom.com). We will make every effort to resolve or answer your concern. 
+GigaOM Pro welcomes any questions or comments you may have regarding this Privacy Policy or if you do not understand any information about how we collect, maintain, use of share your Personal Information. Any such questions or comments should be submitted via email to pro-support@gigaom.com, or you can write to us at the address below. We will make every effort to resolve or answer your concern.
+
+GigaOM Pro  
+217 2nd Street  
+Fourth Floor  
+San Francisco, CA 94105  
+USA
+
+## How to Access, Correct, or Update your Personal Information
+
+You may review and update the Personal Information that you have provided to us by contacting pro-support@gigaom.com or updating your information online by signing on to your Pro Account and visiting the appropriate account management sections.
 
 ## Effective Date of this Privacy Policy
 
-This Privacy Policy is effective as of August 4, 2008. 
+This Privacy Policy is effective as of May 18th, 2009, and was last updated on June 27, 2011.
