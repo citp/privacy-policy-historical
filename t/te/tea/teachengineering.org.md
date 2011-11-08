@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teachengineering.org privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429032608id_/http%3A//www.teachengineering.org/policy_pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachengineering.org privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108104219id_/http%3A//www.teachengineering.org/policy_pp.php) for the most accurate reproduction.*
 
-# TeachEngineering.org - Free resources for K-12
+# About :: Policies :: Privacy Policy - www.TeachEngineering.org
 
 _TeachEngineering_ Digital Library Privacy Policy
 
