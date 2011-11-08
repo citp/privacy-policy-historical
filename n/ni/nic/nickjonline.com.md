@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nickjonline.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615082605id_/http%3A//fan-sites.org/get-hosted/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickjonline.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108012902id_/http%3A//fan-sites.org/get-hosted/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fan Sites Network
 
