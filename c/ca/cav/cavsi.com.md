@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cavsi.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621205033id_/http%3A//www.cavsi.com/english/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cavsi.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108171433id_/http%3A//cavsi.com/english/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Email Privacy Policy
 
@@ -38,7 +38,7 @@ This website may contain links to other sites, such as commercial ads located in
 
 **Changes to this policy**
 
-CAVSI may change its privacy policy or practices from time to time. We will post the most current version of our privacy policy online at [www.cavsi.com/english/PrivacyPolicy.html](https://web.archive.org/web/20110621205033id_/http%3A//www.cavsi.com/english/PrivacyPolicy.html)
+CAVSI may change its privacy policy or practices from time to time. We will post the most current version of our privacy policy online at [www.cavsi.com/english/PrivacyPolicy.html](https://web.archive.org/web/20111108171433id_/http%3A//cavsi.com/english/PrivacyPolicy.html)
 
 **Questions Regarding Privacy**
 
