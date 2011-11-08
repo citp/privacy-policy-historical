@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ralphlaurenhome.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509223404id_/http%3A//www.ralphlauren.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%23policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ralphlaurenhome.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108121758id_/http%3A//www.ralphlauren.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%23policies) for the most accurate reproduction.*
 
 # RalphLauren.com Customer Assistance
 
-Polo Ralph Lauren Corporation and its affiliates (collectively, "Polo Ralph Lauren") respect your concerns about privacy. This Privacy Notice applies to personal information we collect on this website and at Polo Ralph Lauren stores, Polo Ralph Lauren Factory Outlet Stores and Rugby stores (collectively, the "Stores"). Polo Ralph Lauren is responsible for this website. 
+Ralph Lauren Corporation and its affiliates (collectively, "Polo Ralph Lauren") respect your concerns about privacy. This Privacy Notice applies to personal information we collect (i) on this website, (ii) at Polo Ralph Lauren stores, Polo Ralph Lauren Factory Outlet Stores and Rugby stores (collectively, the "Stores"), and (iii) through the other channels described below. Polo Ralph Lauren is responsible for this website. 
 
-The Privacy Notice describes the types of personal information we collect on this site and in our Stores, how we may use that information and with whom we may share it. The notice also describes the measures we take to protect the security of the personal information. We also tell you how you can reach us to ask us to (i) access, change or not use the personal information you have provided to us, (ii) withdraw any consent you previously provided to us, (iii) tell us to refrain from communicating with you about our products or services, and (iv) answer any questions you may have about our privacy practices. 
+The Privacy Notice describes the types of personal information we collect on this site, in our Stores, and in other ways discussed below, how we may use that information and with whom we may share it. The notice also describes the measures we take to protect the security of the personal information. We also tell you how you can reach us to ask us to (i) access, change or not use the personal information you have provided to us, (ii) withdraw any consent you previously provided to us, (iii) tell us to refrain from communicating with you about our products or services, and (iv) answer any questions you may have about our privacy practices. 
 
 Click on one of the links below to jump to the listed section: 
 
@@ -25,9 +25,11 @@ Click on one of the links below to jump to the listed section:
       * Customer Registry
       * Customer Satisfaction Surveys
       * Polo Ralph Lauren Credit Card
-    * Customer Assistance
-    * Other Ways We Obtain and Use Information
-    * Department Stores
+    * Other Ways We Collect Personal Information
+      * QR Codes
+      * Customer Assistance
+      * Other Ways We Obtain and Use Information
+      * Department Stores
   * Information We Share
   * Links to Other Sites
   * How We Protect Personal Information
@@ -42,7 +44,7 @@ Click on one of the links below to jump to the listed section:
 
 Information We Collect and How We Use It 
 
-Individuals may choose to provide personal information (such as name, contact details and payment information) through this website, in our Stores and through our customer service line. Here are the ways you may provide the information and the types of information you may submit. We also tell you how we may use the information. 
+Individuals may choose to provide personal information (such as name, contact details and payment information) through this website, in our Stores and through the other channels described below. Here are the ways you may provide the information and the types of information you may submit. We also tell you how we may use the information. 
 
 Our Website 
 
@@ -124,17 +126,23 @@ When you buy products or obtain services in our Stores, we may ask you to comple
 
 _Polo Ralph Lauren Credit Card_
 
-At some of our Stores, you may obtain and complete an application for a Polo Ralph Lauren credit card. Polo Ralph Lauren credit cards are offered by a third party credit card issuer. If you choose to complete an application at one of our Stores, at your request, we will forward your application to the issuer or you may submit the application directly to the issuer by postal mail. Polo Ralph Lauren does not maintain any information associated with your credit card application. The information you provide in connection with your credit card application is managed solely pursuant to the issuer's terms of use and privacy policy. We strongly recommend that you review these documents if you apply for a Polo Ralph Lauren credit card. This Privacy Notice does not govern the collection or use of the information you provide in connection with your credit card application. 
+At some of our Stores, you may obtain and complete an application for a Polo Ralph Lauren credit card. Polo Ralph Lauren credit cards are offered by a third party credit card issuer. If you choose to complete an application at one of our Stores, at your request, we will forward your application to the issuer or you may submit the application directly to the issuer by postal mail. Polo Ralph Lauren does not maintain any information associated with your credit card application. The information you provide in connection with your credit card application is managed solely pursuant to the issuer's terms of use and privacy notice. We strongly recommend that you review these documents if you apply for a Polo Ralph Lauren credit card. This Privacy Notice does not govern the collection or use of the information you provide in connection with your credit card application. 
 
-Customer Assistance 
+Other Ways We Collect Personal Information 
+
+_QR Codes_
+
+We use QR codes in connection with certain promotions, contests and special events. If you scan our QR code, you will get an invitation on your mobile device to join our mailing list. To sign up, we ask you for information such as your name, mailing address, email address, telephone numbers, and age. We use the information to communicate with you about our products, services and promotions. 
+
+_Customer Assistance_
 
 You may call our customer service line for information about our products or personal shopping advice. If you do so, we may ask you for information such as your name, email address, postal address, telephone number and, if you choose to make a purchase, your payment card information. We use this information to respond to your request and process your transaction. 
 
-Other Ways We Obtain and Use Information 
+_Other Ways We Obtain and Use Information_
 
 In addition to the ways we collect information about you described above, we also may obtain information about you from third parties. We may use your personal information to provide you with products or services you request (such as tailoring services or merchandise returns), enhance your shopping experience and communicate with you about our products, services and promotions. In addition, we may use your personal information for internal purposes, such as fraud and theft prevention, accident reporting, development and administration of our sites and Stores, data analytics, and compliance with our legal obligations, policies and procedures. 
 
-Department Stores 
+_Department Stores_
 
 Our products are available for sale in many department stores. Personal information collected in these department stores is not provided to Polo Ralph Lauren. This Privacy Notice does not address the information practices of department stores in which our products are sold. Department stores may have their own privacy notices or policies, which we strongly suggest you review when you provide them with your personal information. We are not responsible for the department stores' personal information practices. 
 
@@ -168,7 +176,7 @@ Transfer of Personal Information to Other Countries
 
 We may transfer the personal information we collect about you to countries other than the country in which you originally provided it. These countries may not have the same data protection laws as the country in which you provided the information. When we transfer your information to other countries, we will protect that information as described in this Privacy Notice. 
 
-Polo Ralph Lauren Corporation is certified under the Safe Harbor privacy framework set forth by the U.S. Department of Commerce regarding the collection, storage, transfer, use and other processing of personal information transferred from the European Economic Area ("EEA") or Switzerland to the United States. [Click here](https://web.archive.org/helpdesk/index.jsp?display=safety&subdisplay=restrictions#europe) to view our Safe Harbor Privacy Policy. 
+Ralph Lauren Corporation is certified under the Safe Harbor privacy framework set forth by the U.S. Department of Commerce regarding the collection, storage, transfer, use and other processing of personal information transferred from the European Economic Area ("EEA") or Switzerland to the United States. [Click here](https://web.archive.org/helpdesk/index.jsp?display=safety&subdisplay=restrictions#europe) to view our Safe Harbor Privacy Policy. 
 
    
 
@@ -205,7 +213,7 @@ How to Contact Us
 If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us as indicated below:  
 
 
-Polo Ralph Lauren Corporation  
+Ralph Lauren Corporation  
 Attention: Chief Privacy Officer  
 c/o Legal Department  
 625 Madison Avenue  
