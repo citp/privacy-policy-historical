@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jenncria.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503071738id_/http%3A//www.jenncria.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jenncria.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108180640id_/http%3A//www.jenncria.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
