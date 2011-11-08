@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the pchub.com privacy policy that was archived on 2011-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110207071147id_/http%3A//www.pchub.com/uph/content/policy_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchub.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108220622id_/http%3A//www.pchub.com/uph/content/policy_privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-| **Information Collection and Use**  
----  
+**Information Collection and Use**  
   
 PcHub.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. PcHub.com collects information from our users at several different points on our website.   
   
