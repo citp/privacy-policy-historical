@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the repost.us privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510091324id_/http%3A//www.repost.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the repost.us privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108212809id_/http%3A//www.repost.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Repost.Us
 
@@ -74,7 +74,7 @@ If you are a developer or operator of content or website, the following addition
   * FRC gives you all rights necessary to use the code, APIs, data, and tools you receive from us.
   * You will not sell, transfer, or sublicense our code, APIs, or tools to anyone.
   * You will not misrepresent your relationship with FRC to others.
-  * You may use the logos FRC makes available to developers or issue a press release or other public statement so long as you follow FRC’s [Terms of Use](https://web.archive.org/web/20110510091324id_/http%3A//terms-of-use).
+  * You may use the logos FRC makes available to developers or issue a press release or other public statement so long as you follow FRC’s [Terms of Use](https://web.archive.org/web/20111108212809id_/http%3A//terms-of-use).
   * FRC can issue a press release describing FRC’s relationship with you.
   * We can analyze your content and data for any purpose, including commercial (such as for targeting the delivery of advertisements and indexing content for search).
   * We can create applications and content that offer similar features and services to; or otherwise compete with, your content or applications.
