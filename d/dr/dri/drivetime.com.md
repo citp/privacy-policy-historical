@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivetime.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516083904id_/http%3A//www.drivetime.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivetime.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108051107id_/http%3A//www.drivetime.com/privacy.aspx) for the most accurate reproduction.*
 
 # DriveTime: Privacy Policy
 
@@ -60,7 +60,7 @@ These practices and policies are subject to change, but we will communicate any 
 **Receiving E-mail from DriveTime**  
 DriveTime does not send unsolicited e-mail. When you provide your e-mail address to us, it is under the explicit understanding that you want to receive information from DriveTime. Every time you submit a request for information, DriveTime will send you an automatic response confirming your submission. In addition, we may contact you from time to time (or have our partners or vendors contact you in our behalf) for the purpose of informing you about DriveTime products, services and programs. 
 
-Each e-mail sent by DriveTime contains a link that provides access to a simple automated facility to opt out of future e-mails from us. If you wish to opt out of additional e-mail communications, and no longer have the e-mail with the link, you can opt yourself out at [www.drivetime.com/optout/](https://web.archive.org/optout/default.aspx). If you have received an unwanted e-mail sent from DriveTime, please forward a copy of the e-mail and your comments to [ApprovalTeam@DriveTime.com](mailto:ApprovalTeam@DriveTime.com) and we will immediately add you to our "do not e-mail" list. 
+Each e-mail sent by DriveTime contains a link that provides access to a simple automated facility to opt out of future e-mails from us. If you wish to opt out of additional e-mail communications, and no longer have the e-mail with the link, you can opt yourself out at [www.drivetime.com/optout/](https://web.archive.org/optout/default.aspx). If you have received an unwanted e-mail sent from DriveTime, please forward a copy of the e-mail and your comments to [approvals@drivetime.com](mailto:approvals@drivetime.com) and we will immediately add you to our "do not e-mail" list. 
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site or your dealings with this Web site, please contact us at [privacy@drivetime.com](mailto:privacy@drivetime.com). 
