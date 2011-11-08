@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atomidata.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615165538id_/http%3A//www.atomidata.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomidata.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108071549id_/http%3A//atomidata.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Atomidata
 
