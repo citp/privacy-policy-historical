@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activexperts.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610033734id_/http%3A//activexperts.com/activexperts/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activexperts.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108143552id_/http%3A//www.activexperts.com/activexperts/privacypolicy) for the most accurate reproduction.*
 
 # ActiveXperts Privacy Policy
 
@@ -46,4 +46,4 @@ Any changes to our privacy policy will be posted on our websites in order to kee
 
 ### END OF PRIVACY POLICY
 
-If you have any questions or concerns regarding this privacy policy, please contact us at info@activexperts.com. 
+If you have any questions or concerns regarding this privacy policy, please contact us at contact@activexperts.com. 
