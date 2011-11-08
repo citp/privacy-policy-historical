@@ -1,0 +1,230 @@
+<!--The following is the downloaded HTML source of the tweetwood.com privacy policy that was archived on 2011-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111108065916id_/http%3A//www.tweetwood.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="Content-Language" content="en-US">
+    <meta name="robots" content="noodp,noydir">
+  <title>Tweetwood - Privacy Policy</title>
+  <meta name="keywords" content="Tweetwood - Privacy Policy">
+  <meta name="description" content="Tweetwood">
+ 
+  <link rel="stylesheet" type="text/css" href="http://www.tweetwood.com/css/manu.default.css">
+  <link rel="stylesheet" type="text/css" href="http://www.tweetwood.com/css/app.css">
+      <link rel="stylesheet" type="text/css" href="http://www.tweetwood.com/css/jquery/jquery-ui-1.8.10.custom.css">
+      <link rel="stylesheet" type="text/css" href="http://www.tweetwood.com/css/hwhstylesheet.css">
+      <link rel="stylesheet" type="text/css" href="http://www.tweetwood.com/css/tabs.css">
+      <link rel="stylesheet" type="text/css" href="http://www.tweetwood.com/css/tweetwood.css">
+      <link rel="stylesheet" type="text/css" href="http://www.tweetwood.com/css/twdropdown.css">
+      <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans">
+      <link rel="stylesheet" type="text/css" href="http://www.tweetwood.com/css/manu.form.css">
+      <link rel="stylesheet" type="text/css" href="http://www.tweetwood.com/css/manu.autocomplete.css">
+  
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js" charset="utf-8"></script>
+  <script src="http://platform.twitter.com/anywhere.js?id=NwQXl5tRaApNJLn4HZLTFA&amp;v=1" type="text/javascript"></script>
+  <script type="text/javascript">
+     if (typeof jQuery == 'undefined') {
+       document.write(unescape("%3Cscript src='http://www.tweetwood.com/js/jquery/jquery-1.4.2.min.js' type='text/javascript'%3E%3C/script%3E"));
+       document.write(unescape("%3Cscript src='http://www.tweetwood.com/js/jquery/jquery-ui-1.8.0.min.js' type='text/javascript'%3E%3C/script%3E"));
+     }
+  </script><script src="http://www.tweetwood.com/js/jquery/jquery-1.4.2.min.js" type="text/javascript"></script><script src="http://www.tweetwood.com/js/jquery/jquery-ui-1.8.0.min.js" type="text/javascript"></script>
+</head>
+
+<body>
+
+<div id="loading"><img alt="Loading..." src="http://www.tweetwood.com/img/loading.gif" width="32" height="32"></div>
+
+	<div id="tweetwood"> 
+					 <!--Global Navigation-->
+<div id="gnav">
+    <div id="home"><a href="http://www.tweetwood.com/home1">Home</a>|<span class="tw-login"><span id="twitter-connect-placeholder"></span><span id="login-logout"></span>
+<script type="text/javascript">
+ 
+  twttr.anywhere(function (T) {
+ 
+    var currentUser,
+        screenName,
+        profileImage,
+        profileImageTag;
+ 
+    if (T.isConnected()) {
+      currentUser = T.currentUser;
+      screenName = currentUser.data('screen_name');
+      profileImage = currentUser.data('profile_image_url');
+      profileImageTag = "<img src='" + profileImage + "' height=15 width=15/>";
+      $('#twitter-connect-placeholder').append('<a href="http://www.tweetwood.com/myfav">MyFav</a>|'+profileImageTag + ' ' + screenName);
+      $("#login-logout").append('<button id="signout" type="button">Log out</button>');
+      var params = 
+	    {
+	      scr_name: screenName
+	    };
+      Global.getAction('MyFav', params, function(){});
+      $("#signout").bind("click", function () {
+        twttr.anywhere.signOut();
+        //location.reload(true);
+        location.href = MAIN_URL;
+      });
+    } else {
+      T("#twitter-connect-placeholder").connectButton({ size: "small" });
+    };
+  });
+ 
+</script>
+
+ </span></div>&nbsp;
+    <div id="country"> <a href="#" title="India" id="cn" class="dropdown"><img src="/img/indianflag.png" alt="" align="absmiddle" border="0">&nbsp;India</a>
+        <div id="cmenu" class="dropdown-menu"> <a href="#" title="India"><img src="/img/indianflag.png" alt="" align="absmiddle" border="0">&nbsp;India</a> <a href="#" title="United States"><img src="../img/usaflag.png" alt="" align="absmiddle" border="0">&nbsp;United States</a> </div>
+    </div>
+</div>
+<div class="clear"></div>
+<!--Header-->
+<div id="header">
+    <div id="logo"><a href="http://www.tweetwood.com/"><img src="/img/tweetwood.png" alt="TweetWood" border="0" height="45" width="161"></a></div>
+   
+    <div id="search">
+    <div id="searchtextbox">
+<div class="m_f_frm_search_celebrity-REST m-alert"></div>
+<form id="frm_search_celebrity" method="GET" class="m-form m-auto-submit" action="/" name="frm_search_celebrity" data-events="submit=manu.form.submitAjaxForm">
+<ul>
+<li><label for="searchtext739">  </label> <input name="searchtext" id="searchtext739" data-source-action="GetTweetwoodCelebList?send=screen_name" class="m-form-autocomplete " data-select-handler="handleSearchBoxSelect" data-skip-select="1"><ul class="result_container"></ul> <div class="clear"></div></li>
+</ul>
+</form> </div>
+        <form action="#" method="get" name="search">
+            
+            <input name="searchbtn" id="searchbtn" type="button">
+            <div class="clear"></div>
+        </form>
+    </div>
+    <div id="nav">
+        	<a href="http://www.tweetwood.com/home1/arts-and-media"><span>Arts &amp; Media</span></a>
+        	<a href="http://www.tweetwood.com/home1/business"><span>Business</span></a>
+        	<a href="http://www.tweetwood.com/home1/politics"><span>Politics</span></a>
+        	<a href="http://www.tweetwood.com/home1/sports"><span>Sports</span></a>
+        	<a href="http://www.tweetwood.com/home1/entertainment"><span>Entertainment</span></a>
+        
+    </div>
+    <div class="clear"></div>
+</div>
+ 		    <div id="content">
+	<div class="static">
+    <h1><span>Privacy Policy</span></h1>
+    <div class="clear"></div>
+	<div id="content">
+		
+	<p>Tweetwood.com India Limited and its subsidiaries ("Tweetwood.com") respects your privacy. This Privacy Policy provides succinctly the manner your data is collected and used by Tweetwood.com. You are advised to please read the Privacy Policy carefully. By accessing the services provided by Tweetwood.com you agree to the collection and use of your data by Tweetwood.com in the manner provided in this Privacy Policy.</p>
+	
+<p>The Policy does not apply to the procedures and practices followed by entities that are not managed, owned or controlled by Tweetwood.com or to the people that are not engaged, employed or managed by Tweetwood.com</p>
+<h3>We want you to</h3>
+	    <ul>
+		   <li>feel comfortable using our web sites</li>
+		   <li>contact us with your questions or concerns about privacy on this site</li>
+		   <li>know that by using our sites you are consenting to the collection of certain data
+	    </li></ul>
+<h2>WHAT INFORMATION IS, OR MAY BE, COLLECTED FROM YOU? </h2>
+<p>We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer-identification information obtained from "cookies," sent to your browser from: web server cookie stored on your hard drive</p>
+    <ul>
+		   <li>an IP address, assigned to the computer which you use</li>
+		   <li>the domain server through which you access our service</li>
+	      <li>the type of computer you're using</li>
+	   <li>the type of web browser you're using</li>
+		</ul>
+    <h3>We may collect the following personally identifiable information about you:</h3>
+		<ul>
+		   <li>name including first and last name</li>
+			<li>alternate email address</li>
+			<li>mobile phone number and contact details</li>
+			<li>ZIP/Postal code</li>
+			<li>demographic profile (like your age, gender, occupation, education, address and durables owned);</li>
+		    <li>preferences and interests (such as news, sports, travel and so on);
+�  financial information (like account or credit card numbers); and opinions of features on our websites.</li>
+	</ul>
+<h3>We may also collect the following information:</h3>
+    <ul>
+		<li>about the pages you visit/access</li>
+		    <li>the links you click on our site</li>
+		<li>the number of times you access the page.</li>
+		</ul>
+     <p>You can terminate your account at any time. However, your information may remain stored in archive on our servers even after the deletion or the termination of your account. </p>
+     <h2>WHO COLLECTS THE INFORMATION? </h2>
+    <ul>
+	<li>We will collect anonymous traffic information from you when you visit our site.</li><br>
+			<li>We collect the personally identifiable information from you when you register with us. During registration you are required to give us your contact information (such as name, email address, date of birth, gender, address, pin code, cell number, occupation and interests). Upon registration users may receive communications from Tweetwood.com (e.g. newsletters, updates)</li><br>
+			<li>We use this information to contact you about the services you are using on our site and services in which you have expressed interest. </li><br>
+			<li>You have the option to provide demographic information (such as occupation, education and gender) to us; we encourage you to submit this information so we can provide you a more personalized experience on our site.</li><br>
+			<li>If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date, CVV verification, Name on card, billing address etc.).</li><br> 
+			<li>We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.</li><br>
+			<li>If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Tweetwood.com does store this information and the information is used for the sole purpose of sending this one-time email and tracking the success of our referral program.</li><br> 
+			<li>Your friend may contact us at support@tweetwood.comto request that we remove this information from our database.</li><br> 
+			<li>We will collect personally identifiable information about you only as part of a voluntary registration process, on-line survey, or contest or any combination thereof.</li><br>
+<li>Our advertisers may collect anonymous traffic information from their own assigned cookies to your browser. </li><br>
+			<li>The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites whichwe do not own, manage or control. </li>
+     </ul>
+     
+     <p>If you use a bulletin board or chat room on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. We are the sole owners of your information collected by us at several different points on our Website. </p>
+		
+    <h3>We use your email address to send you:</h3>
+    <ul>
+	    <li>Password reminder and registration confirmation</li>
+	    <li>Special offers</li>
+	    <li>News letters</li>
+	    <li>Changes in the service's policy or terms of use</li>
+	    <li>Event based communications such as order information, renewal notices, invites, reminders etc. </li>
+
+    </ul>
+
+<h3>We use contact information internally to:</h3>
+    <ul>
+	    <li>direct our efforts for product improvement</li>
+	    <li>contact you as a survey respondent</li>
+	    <li>notify you if you win any contest</li>
+	    <li>send you promotional materials from our contest sponsors or advertisers</li>
+	</ul>
+
+    </div>
+  <div class="clear"></div>
+</div>
+	<div class="clear"></div>
+	</div>
+	<div class="clear" style="padding-top:30px;"></div>
+    	<div id="footer">
+    	<div class="clear"></div>
+    		<!-- <a href="#"><img src="/img/linkedin.jpg" alt="Linked In" border="0" height="31" width="31"></a> -->
+    		<a href="#"><img src="/img/twitter.jpg" alt="Twitter" border="0" height="31" width="31"></a>
+    		<a href="#"><img src="/img/fb.jpg" alt="Facebook" border="0" height="31" width="31"></a>
+        	<div id="flinks">
+        		<a href="http://www.tweetwood.com/legal">Legal Disclaimer</a> | 
+        		<a href="http://www.tweetwood.com/terms">Terms and Conditions</a> | 
+        		<a href="http://www.tweetwood.com/privacy">Privacy Policy</a>
+        	</div>
+        	<div id="copyr">© 2011Tweetwood</div>
+        	<div class="clear"></div>
+    	</div>
+	</div>
+	
+
+
+
+  <script type="text/javascript" src="http://www.tweetwood.com/js/js-vars.js" charset="utf-8"></script>
+  <script type="text/javascript" src="http://www.tweetwood.com/js/jquery/jquery.form.js" charset="utf-8"></script>
+  <script type="text/javascript" src="http://www.tweetwood.com/js/manu.js" charset="utf-8"></script>
+  <script type="text/javascript" src="http://www.tweetwood.com/js/app.js" charset="utf-8"></script>
+      <script type="text/javascript" src="http://www.tweetwood.com/js/common.js" charset="utf-8"></script>
+      <script type="text/javascript" src="http://www.tweetwood.com/js/jquery.tools.min.js" charset="utf-8"></script>
+      <script type="text/javascript" src="http://www.tweetwood.com/js/jquery.idTabs.min.js" charset="utf-8"></script>
+      <script type="text/javascript" src="http://www.tweetwood.com/js/twdropdown.js" charset="utf-8"></script>
+      <script type="text/javascript" src="http://www.tweetwood.com/js/tweetwood.js" charset="utf-8"></script>
+      <script type="text/javascript" src="http://www.tweetwood.com/js/jquery-latest.js" charset="utf-8"></script>
+      <script type="text/javascript" src="http://www.tweetwood.com/js/manu.form.js" charset="utf-8"></script>
+      <script type="text/javascript" src="http://www.tweetwood.com/js/jquery/jquery.ui.autocomplete.selectFirst.js" charset="utf-8"></script>
+      <script type="text/javascript" src="http://www.tweetwood.com/js/manu.autocomplete.js" charset="utf-8"></script>
+     <script>
+     manu.loadedStyles = ["http:\/\/www.tweetwood.com\/css\/manu.default.css","http:\/\/www.tweetwood.com\/css\/app.css","http:\/\/www.tweetwood.com\/css\/jquery\/jquery-ui-1.8.10.custom.css","http:\/\/www.tweetwood.com\/css\/hwhstylesheet.css","http:\/\/www.tweetwood.com\/css\/tabs.css","http:\/\/www.tweetwood.com\/css\/tweetwood.css","http:\/\/www.tweetwood.com\/css\/twdropdown.css","http:\/\/fonts.googleapis.com\/css?family=Open+Sans","http:\/\/www.tweetwood.com\/css\/manu.form.css","http:\/\/www.tweetwood.com\/css\/manu.autocomplete.css"];
+     manu.loadedScripts = ["http:\/\/www.tweetwood.com\/js\/js-vars.js","http:\/\/www.tweetwood.com\/js\/jquery\/jquery.form.js","http:\/\/www.tweetwood.com\/js\/manu.js","http:\/\/www.tweetwood.com\/js\/app.js","http:\/\/www.tweetwood.com\/js\/common.js","http:\/\/www.tweetwood.com\/js\/jquery.tools.min.js","http:\/\/www.tweetwood.com\/js\/jquery.idTabs.min.js","http:\/\/www.tweetwood.com\/js\/twdropdown.js","http:\/\/www.tweetwood.com\/js\/tweetwood.js","http:\/\/www.tweetwood.com\/js\/jquery-latest.js","http:\/\/www.tweetwood.com\/js\/manu.form.js","http:\/\/www.tweetwood.com\/js\/jquery\/jquery.ui.autocomplete.selectFirst.js","http:\/\/www.tweetwood.com\/js\/manu.autocomplete.js"];
+   </script>
+
+        <script type="text/javascript">jQuery(function() { var handlers = {"manu.form.handleFormEvents--42a445ea24e012aeb74f3c826f4f539b":{"name":"manu.form.handleFormEvents","params":["frm_search_celebrity"],"alwaysExec":true}};manu.executeJsHandlers(handlers);gValidateRules1["f_frm_search_celebrity"] = {"searchtext":[]};});</script>
+  
+
+
+</body></html>
