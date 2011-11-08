@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the ukti.gov.uk privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303220615id_/http%3A//www.ukti.gov.uk/uktihome/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukti.gov.uk privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108134050id_/http%3A//www.ukti.gov.uk/uktihome/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy and Data Protection
+# Privacy and Cookies
 
 ## Data Protection Act 1998
 
 UK Trade & Investment (UKTI) processes personal data for the purposes of promoting UK business competitiveness, to help secure overseas sales and investments and to support and develop UK inward investment. Recipients of the personal data we may hold on you may include our UK regional network, our overseas network, other UK Government Departments and our partners.
+
+## Cookies
+
+UKTI provides details on what [cookies do and a full list that UKTI uses](http://www.ukti.gov.uk/uktihome/item/142860.html) on its websites.
 
 ## Registration information
 
@@ -17,27 +21,6 @@ You can change your registration preferences, e-mail address and login details t
 ## Feedback
 
 You can send a message to UKTI using our [Contact us](http://www.ukti.gov.uk/uktihome/contactus/contactusform.html) form. If you are asking for information we do not already publish on the site, we will deal with your query. In doing so we may need to contact other organisations to find answers to your questions. If your question is technical, we may need to pass it to our technology supplier. In such cases we will only pass on personal data if it is necessary to do so, and we will not keep your personal data or records of our correspondence longer than necessary.
-
-## Site usage information
-
-i) Session cookies
-
-Cookies are pieces of data created when you visit a website. Three cookies are stored in the cookie directory of your computer. Three cookies are created when you visit [www.ukti.gov.uk](http://www.ukti.gov.uk/)
-
-  * Our first cookie stores a random number on your computer to help us count the number of times users return to our site. These cookies do not contain any personal information about you, and they cannot be used to identify an individual user. When you close your browser the session cookie set by the web site is destroyed and no personal information is held which might identify you 
-
-  * Our second cookie remembers the country and language you selected to view the site. On your second visit you will automatically be directed to the site in that language
-
-  * Our third cookie is optional. Visitors who choose to register with the site are given the option to be signed automatically into their account whenever they revisit the UK Trade & Investment website
-
-
-
-
-You can set your browser not to accept cookies – refer to your browser’s help file instructions. Please note that if you do set your browser not to accept cookies you may not be shown your preferred content on subsequent visits to the website.
-
-ii) Log files
-
-Log files allow us to record visitors' use of the site. We may analyse log file information from our visitors. We use this information to make changes to the layout of the website and to manage the information in it.
 
 ## Updating your personal information
 
@@ -61,13 +44,11 @@ Department for Business, Innovation and Skills
 
 Commercial Directorate/Information Rights Unit
 
-3rd Floor
+1 Victoria Street
 
-Kingsgate House
+London 
 
-66-74 Victoria Street
-
-London SW1E 6SW
+SW1H 0ET
 
 Alternatively you can email your request to [dataprotection@bis.gsi.gov.uk](mailto:dataprotection@bis.gsi.gov.uk)
 
@@ -140,4 +121,4 @@ Fax: 01625 524510.
 
 Website: [www.ico.gov.uk](http://www.ico.gov.uk/)
 
-UK Trade & Investment, June 2010
+UK Trade & Investment, May 2011
