@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babynames.org.uk privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223192731id_/http%3A//www.babynames.org.uk/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynames.org.uk privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108025040id_/http%3A//www.babynames.org.uk/privacy-statement.htm) for the most accurate reproduction.*
 
 # Baby Names
 
@@ -21,6 +21,6 @@ Nursery Rhymes](http://www.rhymes.org.uk/) [Christmas Carols](http://www.carols.
 
 **The following pages have been included relating to common but incorrect spelling mistakes:**
 
- **[Geneology](https://web.archive.org/web/20101223192731id_/http%3A//www.babynames.org.uk/geneology.htm)** **Contacting the Web Site**  
+ **[Geneology](https://web.archive.org/web/20111108025040id_/http%3A//www.babynames.org.uk/geneology.htm)** **Contacting the Web Site**  
  **If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact :-** **The webmaster babynames.org.uk** **  
 [webmaster@](mailto:webmaster@poetry-online.org)** **[babynames.org.uk](mailto:webmaster@babynames.org.uk)**
