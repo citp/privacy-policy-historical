@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulkregister.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515011804id_/http%3A//www.bulkregister.com/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulkregister.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108125457id_/http%3A//www.bulkregister.com/terms/privacy.asp) for the most accurate reproduction.*
 
 # BulkRegister - domain name, web site hosting, email, registration - PRIVACY POLICY
 
@@ -81,7 +81,7 @@ BBB EU Safe Harbor
 Arlington, VA 22203  
 Phone: 703-276-0100  
 Web: [www.us.bbb.org](http://www.us.bbb.org/)  
-Email: [eusafeharbor@council.bbb.orgs](https://web.archive.org/web/20110515011804id_/http%3A//www.bulkregister.com/terms/eusafeharbor@council.bbb.org)
+Email: [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org)
 
 
 
