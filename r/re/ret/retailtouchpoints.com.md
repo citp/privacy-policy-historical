@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retailtouchpoints.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511134256id_/http%3A//www.retailtouchpoints.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D756) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailtouchpoints.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108155722id_/http%3A//www.retailtouchpoints.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D756) for the most accurate reproduction.*
 
 # Privacy Policy
 
