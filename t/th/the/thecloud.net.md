@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecloud.net privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628134142id_/http%3A//thecloud.net/en/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecloud.net privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108145304id_/http%3A//www.thecloud.net/en/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
