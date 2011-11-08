@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the localbuzz.com.au privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511103232id_/http%3A//www.localbuzz.com.au/cms.php%3Fcontent%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localbuzz.com.au privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108215105id_/http%3A//www.localbuzz.com.au/cms.php%3Fcontent%3Dprivacy_policy) for the most accurate reproduction.*
 
-# LocalBuzz! : privacy_policy
+# Privacy Policy : LocalBuzz!
 
 **Privacy Policy**
 
@@ -8,7 +8,7 @@ This privacy policy applies to all personal information collected by LocalBuzz! 
 
 LocalBuzz! recognises the importance of your privacy, and that you have a right to control how your personal information is collected and used. We know that providing personal information is an act of trust and we take that seriously. Unless you directly give us consent to do otherwise, LocalBuzz! will only collect and use your personal information as set out below.
 
-This privacy policy applies to your use of the LocalBuzz! websites located at www.localbuzz.org, www.local-buzz.co.uk, www.localbuzz.com.au, and other top-level domains relevant to different countries (collectively, the " **LocalBuzz Sites** "), but not does apply to any third party sites that may be linked to them, or any relationships you may have with the business listed on the LocalBuzz Sites.
+This privacy policy applies to your use of the LocalBuzz! websites located at www.localbuzz.org, www.local-buzz.co.uk, www.localbuzz.com.au, www.localbuzz.ca, and other top-level domains relevant to different countries (collectively, the " **LocalBuzz Sites** "), but not does apply to any third party sites that may be linked to them, or any relationships you may have with the business listed on the LocalBuzz Sites.
 
 The terms " **we** ", " **us** ", and " **LocalBuzz!** " refer to the LocalBuzz! Sites and LocalBuzz Media Ltd. The terms " **you** " and " **your** " refer to you, as a user of any of the LocalBuzz Sites. The term " **personal information** " means information that you provide to us which personally identifies you to be contacted or identified, such as your name, phone number, email address, and any other data that is tied to such information.
 
@@ -74,7 +74,7 @@ We may share your personal information with third parties to provide you with se
 
 **Aggregate Information Disclosure.** We may disclose information in the aggregate to third parties relating to user behavior in connection with actual or prospective business relationship with those third parties, such as advertisers and content distributors. For example, we may disclose the number of users that have been exposed to, or clicked on, advertising banners.
 
-**Advertising.** LocalBuzz Sites use Google to serve advertisements when you visit a LocalBuzz Site. Google may use cookies in relation to your visits to LocalBuzz Sites in order to provide advertisements about goods and services which may be of interest to you. If you would like more information about this practice and to know your choices about Google not using cookies in this way, click on [http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html) or type it into your browser.
+**Advertising.** LocalBuzz Sites use Google and Yahoo! to serve advertisements when you visit a LocalBuzz Site. Google and Yahoo! may use cookies in relation to your visits to LocalBuzz Sites in order to provide advertisements about goods and services which may be of interest to you. If you would like more information about this practice and to know your choices about Google not using cookies in this way, click on [http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html) or type it into your browser.
 
 **Marketing.** In seeking to give you the most worthwhile experience of our websites possible, LocalBuzz! may use your personal information to send you information and product updates about LocalBuzz! websites and services, or other products and services, or to permit other parties to send other information about products or services which may be of interest to you. 
 
