@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotohoroscope.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501050553id_/http%3A//www.gotohoroscope.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotohoroscope.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108062007id_/http%3A//www.gotohoroscope.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
