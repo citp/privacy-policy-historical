@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the channelate.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510001032id_/http%3A//www.channelate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelate.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108021144id_/http%3A//www.channelate.com/privacy-policy) for the most accurate reproduction.*
 
-# channelATE.com: Comics and Cartoons by Ryan Hudson - Privacy Policy
-
-## Privacy Policy
+# Channelate by Ryan Hudson : Week daily comics - Privacy Policy
 
 ## Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
@@ -17,6 +15,3 @@
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
-
-  
-
