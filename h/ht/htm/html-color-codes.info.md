@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the html-color-codes.info privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623045640id_/http%3A//html-color-codes.info/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the html-color-codes.info privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108235132id_/http%3A//html-color-codes.info/PrivacyPolicy) for the most accurate reproduction.*
 
 # Html Color Codes Privacy Policy
 
@@ -15,9 +15,5 @@ With respect to cookies: We use cookies to record session information, such as c
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. 
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
-
-[ ](http://www.facebook.com/sharer.php?u=http://html-color-codes.info/PrivacyPolicy/ "Publish in Facebook")
-
-[ ](http://twitter.com/home?status=http://html-color-codes.info/PrivacyPolicy/ "Twit it")
 
 COPYRIGHT 2011. ALL RIGHTS ARE RESERVED.
