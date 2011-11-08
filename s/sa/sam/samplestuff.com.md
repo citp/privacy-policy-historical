@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the samplestuff.com privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310161006id_/http%3A//www.samplestuff.com/%3Fp%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samplestuff.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108044450id_/http%3A//www.samplestuff.com/2009/01/11/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Sample Stuff.com
+
+11Jan
+
+## Privacy Policy
+
+Posted in [expired](http://www.samplestuff.com/category/no-longer-available/ "View all posts in expired")
 
 Privacy Policy for SampleStuff.com
 
