@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the livingmaxwell.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510125941id_/http%3A//livingmaxwell.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingmaxwell.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109004944id_/http%3A//livingmaxwell.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | livingmaxwell: a guide to organic food & drink
-
-## Privacy Policy
+# Privacy Policy
 
 Livingmaxwell.com is committed to protecting the online privacy of visitors to our website. The privacy policy set forth below (this “Policy”) applies only to the website and online services provided by Livingmaxwell.com. The purpose of this Policy is to inform you about the types of information we gather about you when you visit our website, how we may use that information, and how we disclose it to third parties.
 
