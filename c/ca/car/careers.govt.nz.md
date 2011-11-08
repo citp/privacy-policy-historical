@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the careers.govt.nz privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502134343id_/http%3A//www2.careers.govt.nz/about-career-services/about-this-site/website-policies/%23c22459) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careers.govt.nz privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108171443id_/http%3A//www2.careers.govt.nz/about-career-services/about-this-site/website-policies/%23c22459) for the most accurate reproduction.*
 
 # Website policies
 
-Details of Career Services' legal disclaimer, as well as our privacy, security and copyright policies.
+Details of Careers New Zealand's legal disclaimer, as well as our privacy, security and copyright policies.
 
 ## Using our website – legal disclaimer
 
-Career Services website is designed to help you make better informed work, training and career decisions. However, we recommend that you also refer to other sources of information, such as relevant training providers or professional or trade organisations before making any decisions about your career.
+Careers New Zealand website is designed to help you make better informed work, training and career decisions. However, we recommend that you also refer to other sources of information, such as relevant training providers or professional or trade organisations before making any decisions about your career.
 
-Although Career Services makes every effort to ensure that all material on our website is reliable and accurate at the time of publishing, Career Services cannot accept any liability for its accuracy or content. Use of our website is at your own risk.
+Although Careers New Zealand makes every effort to ensure that all material on our website is reliable and accurate at the time of publishing, Careers New Zealand cannot accept any liability for its accuracy or content. Use of our website is at your own risk.
 
 ### Linking policy
 
-Career Services provides links to other websites when we consider that you may be interested in what they have to offer. We do not necessarily endorse those websites or their content and we have no control over the conduct of the companies or organisations operating those websites.
+Careers New Zealand provides links to other websites when we consider that you may be interested in what they have to offer. We do not necessarily endorse those websites or their content and we have no control over the conduct of the companies or organisations operating those websites.
 
 ### Changes to the website
 
-Career Services may change, suspend or discontinue any aspect of the website at any time, including any service or content offered by or through this website.
+Careers New Zealand may change, suspend or discontinue any aspect of the website at any time, including any service or content offered by or through this website.
 
 ## Copyright
 
-Career Services' publications and the material on our website are protected by New Zealand copyright. Unless otherwise indicated, copyright material on this website is owned by Career Services. 
+Careers New Zealand's publications and the material on our website are protected by New Zealand copyright. Unless otherwise indicated, copyright material on this website is owned by Careers New Zealand. 
 
 Where copyright material is owned by a third party, it will be indicated. 
 
@@ -30,7 +30,7 @@ You may reproduce this material in any format or media solely for your personal 
 
   * sell or distribute any material on a commercial basis;
   * alter any material or use it in a misleading manner;
-  * alter, use or distribute any material not covered by Career Services’ copyright.
+  * alter, use or distribute any material not covered by Careers New Zealand's copyright.
 
 
 
@@ -38,13 +38,13 @@ You may reproduce this material in any format or media solely for your personal 
 
 The content on this website is continuously updated to ensure that our information and advice reflects current careers and employment practices and trends. For this reason, we recommend that you link to our website to ensure you are getting the most up-to-date version of our content. 
 
-If you do wish to publish or issue material from our publications or website for commercial use, you must first obtain written permission from Career Services. 
+If you do wish to publish or issue material from our publications or website for commercial use, you must first obtain written permission from Careers New Zealand. 
 
 Please contact our marketing and communications department with your copyright request. You can do this by phoning (04) 801 5177, or emailing marketing@careers.govt.nz.
 
 ## Privacy information
 
-This privacy statement applies to personal and other information collected on Career Services’ website, www.careers.govt.nz. 
+This privacy statement applies to personal and other information collected on Careers New Zealand website, www.careers.govt.nz. 
 
 ### Collection of personal information
 
@@ -77,7 +77,7 @@ The personal information we collect will be used to operate this website, to ass
 We will not sell, rent or lease your personal information. We will not disclose your personal information except in accordance with this Privacy Policy (and in accordance with the Privacy Act 1993). We may use or disclose your personal information if you have authorised us to do so, or in any of the following circumstances:
 
   * we have give you notification of the intended use or disclosure and you have not objected to that use or disclosure;
-  * we believe that the use or disclosure is reasonably necessary to protect the rights or property of Career Services (including, without limitation, employees or contractors of Career Services), to enforce any legal rights we may have, or is reasonably necessary to protect the rights, property and safety of you, us, or others;
+  * we believe that the use or disclosure is reasonably necessary to protect the rights or property of Careers New Zealand (including, without limitation, employees or contractors of Careers New Zealand), to enforce any legal rights we may have, or is reasonably necessary to protect the rights, property and safety of you, us, or others;
   * we believe that the use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for national security in the performance or their functions;
   * we are required or permitted by law to disclose the information.
 
@@ -92,7 +92,7 @@ We will take every reasonable precaution to ensure your personal information is 
 You are entitled to access, request or correct the personal information we hold about you at any time by contacting our privacy officer as follows:
 
 > The Privacy Officer  
-> Career Services  
+> Careers New Zealand  
 > PO Box 9446  
 > Wellington
 
@@ -112,7 +112,7 @@ As a part of registration we will provide you with a username and password. You 
 
 ### Visitor material and conduct
 
-You and other users may contribute material to the website. You agree that Career Services is granted a licence to use, reproduce, publish and distribute any contributions that you make to the website. You must use the website (including any contributions to the website) for proper purposes only. Career Services reserves the right to moderate (including editing and/or deleting) material contributed by you or other users. We reserve the right to remove any material that we consider to be unacceptable, including where the material consists of some or all of the following:
+You and other users may contribute material to the website. You agree that Careers New Zealand is granted a licence to use, reproduce, publish and distribute any contributions that you make to the website. You must use the website (including any contributions to the website) for proper purposes only. Careers New Zealand reserves the right to moderate (including editing and/or deleting) material contributed by you or other users. We reserve the right to remove any material that we consider to be unacceptable, including where the material consists of some or all of the following:
 
   * Defamatory statements;
   * Obscene language;
@@ -126,11 +126,11 @@ You warrant that if you contribute third party copyright content to the website 
 
 ### Contributors’ views are their own
 
-Views or opinions expressed on the website are not necessarily endorsed by Career Services, and their publication on the website shall not be taken as an endorsement of any kind.
+Views or opinions expressed on the website are not necessarily endorsed by Careers New Zealand, and their publication on the website shall not be taken as an endorsement of any kind.
 
 ### Banning abusive commenters or for unacceptable use
 
-Career Services reserves the right to terminate a user’s ability to log-in or contribute material to the website if we determine that the user is using the website for unacceptable purposes or if the user has contributed material that is abusive or otherwise damaging to Career Services.
+Careers New Zealand reserves the right to terminate a user’s ability to log-in or contribute material to the website if we determine that the user is using the website for unacceptable purposes or if the user has contributed material that is abusive or otherwise damaging to Careers New Zealand.
 
 ### Standards of Integrity and Conduct
 
@@ -142,7 +142,7 @@ We reserve the right, at our discretion, to update or revise these Terms of use.
 
 ## Feedback
 
-We value your comments and opinions. If you have comments, questions or complaints about any of our services or website policies please complete the Career Services website feedback form.
+We value your comments and opinions. If you have comments, questions or complaints about any of our services or website policies please complete the Careers New Zealand website feedback form.
 
   * [Website feedback form](http://www2.careers.govt.nz/talk_it_over.html)
 
