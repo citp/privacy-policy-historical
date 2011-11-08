@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bargainbriana.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524043814id_/http%3A//bargainbriana.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargainbriana.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108213258id_/http%3A//bargainbriana.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BargainBriana
-
-## Privacy Policy
 
 **Privacy Policy for BargainBriana.com**
 
@@ -27,6 +25,15 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20110524043750id_/http://bargainbriana.com/about/privacy-policy/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
+AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20111108213258id_/http%3A//bargainbriana.com/about/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
 
-Share the Bargains with your friends: 
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fbargainbriana.com%2Fabout%2Fprivacy-policy%20\(via%20@sociablesite\) "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fbargainbriana.com%2Fabout%2Fprivacy-policy&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fbargainbriana.com%2Fabout%2Fprivacy-policy&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fbargainbriana.com%2Fabout%2Fprivacy-policy&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fbargainbriana.com%2Fabout%2Fprivacy-policy&title=Privacy%20Policy&notes=Privacy%20Policy%20for%20BargainBriana.com%0D%0AThe%20privacy%20of%20our%20visitors%20to%20bargainbriana.com%20is%20important%20to%20us.%0D%0A%0D%0AAt%20bargainbriana.com%2C%20we%20recognize%20that%20privacy%20of%20your%20personal%20information%20is%20important.%20Here%20is%20information%20on%20what%20types%20of%20personal%20inf "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fbargainbriana.com%2Fabout%2Fprivacy-policy&title=Privacy%20Policy&srcURL=http%3A%2F%2Fbargainbriana.com%2Fabout%2Fprivacy-policy&srcTitle=BargainBriana+Extreme+Couponing+in+the+Real+World "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fbargainbriana.com%2Fabout%2Fprivacy-policy&title=Privacy%20Policy&source=BargainBriana+Extreme+Couponing+in+the+Real+World&summary=Privacy%20Policy%20for%20BargainBriana.com%0D%0AThe%20privacy%20of%20our%20visitors%20to%20bargainbriana.com%20is%20important%20to%20us.%0D%0A%0D%0AAt%20bargainbriana.com%2C%20we%20recognize%20that%20privacy%20of%20your%20personal%20information%20is%20important.%20Here%20is%20information%20on%20what%20types%20of%20personal%20inf "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fbargainbriana.com%2Fabout%2Fprivacy-policy&Title=Privacy%20Policy "BlinkList")
+  * 
+
