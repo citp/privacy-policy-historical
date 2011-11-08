@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the svb.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510224729id_/http%3A//www.svb.com/company.aspx%3Fid%3D151) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svb.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108225138id_/http%3A//www.svb.com/company.aspx%3Fid%3D151) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -20,9 +20,9 @@ Social Security number and incomeaccount balances and transactionhistoryassets a
  What we do How does SVB Financial Group protect my personal information?  
  To protect your personal information from unauthorized accessand use, we use security measures that comply with federal law. These measuresinclude computer safeguards and secured files and buildings.
 
-Access to your information is only granted toemployees...
+Access to your information is only...
 
-[ Read More](http://www.svb.com/company.aspx?id=151)
+[ Read More](https://web.archive.org/company.aspx?id=151)
 
   **Facts**   | **WHAT DOES SVB FINANCIAL GROUP DO WITH YOUR PERSONAL INFORMATION?**    
 ---|---  
