@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yorkshire.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627035025id_/http%3A//www.yorkshire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yorkshire.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108050645id_/http%3A//www.yorkshire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Welcome to Yorkshire.com
 
