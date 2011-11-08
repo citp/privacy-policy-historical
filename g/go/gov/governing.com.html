@@ -1,222 +1,21 @@
-<!--The following is the downloaded HTML source of the governing.com privacy policy that was archived on 2011-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110510221739id_/http%3A//www.governing.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the governing.com privacy policy that was archived on 2011-11-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111108220922id_/http%3A//www.governing.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <!-- end of common_globals -->
+                                         																																							
 
-                    
-
-
-
-
-                 
-    
-
-
-																																							
-
-
-
-   
-
-
-    
-         
-    
-        
-    
-
-    
-    
-    
-    
-        
-        
-    
-
-     
-<script type="text/javascript" language="javascript">
-        
-        var ads = new Array();
-        
-        // this is called from the COM_ad_load  script which is included just before the /body tag
-        function writeAds() 
-        {
-         
-            for (var i = 0; i < ads.length; i++)
-    	    {   
-    	        var ad 		 = ads[i];    
-		var div 	 = ad.div;
-		var position 	 = ad.position;
-		var width 	 = ad.width;
-		var height 	 = ad.height;
-		var site 	 = ad.site;
-		var id		 = ad.id;
-		var zone	 = ad.zone;
-		var tmpDiv  	 = 'tmp_' + div;
-		var frame   	 = 'frame_' + div;
-		var isrc 	 = '"/templates/common_ad_iframe.html?timer=0&position=' + position 
-						+ '&height=' + height 
-						+ '&width=' + width
-						+ '&site=' + site
-						+ '&id=' + id
-						+ '&zone=' + zone    
-					        +  '"';
-		var onloadFn = '';
-		if(position.toLowerCase() != "t2")
-		{
-			onloadFn = 'onload="squashFrame(this);"';
-		}
-		
-		document.write('<div id="'+tmpDiv+'">'+
-		    '<iframe id="'+frame+'" name="'+frame+'" '+
-		    onloadFn +
-		    'src='+ isrc +
-		    'width="'+ width +'" height="'+height+'" noresize scrolling="no" '+
-		    'frameborder="0" marginheight="0" marginwidth="0" '+
-		    'allowTransparency="true" style="background:transparent"></iframe></div>');
-		
-		document.getElementById(div).appendChild(document.getElementById(tmpDiv));
-            }
-        }
-        
-        function squashFrame(frame) {
-    		var theIFrame = frame.contentWindow || frame.contentDocument;
-    		if (theIFrame.document) {
-        		theIFrame = theIFrame.document;
-    		}
-    		var content = theIFrame.documentElement.innerHTML;
-    		if (content.indexOf("817-grey.gif") != -1) {
-        		frame.style.height = "1px";
-    		}
-	}
-       	
-       	// extracts the id parameter from the iframe src query string params,
-       	// replaces it with a new contentID value, and reloads the iframe with 
-       	// the updated src
-       	function reloadAd(frameID, contentID)
-       	{
-       		var frame = document.getElementById(frameID);
-       		if (frame == undefined) return;
-       		var d    = frame.src;
-       		if (d == undefined) return;
-		var pos1  = d.indexOf("&video_id=");
-		
-		if (pos1 == -1)
-		{
-		    pos1 = d.indexOf("&id=");
-		    pos2 = d.indexOf('&', ++pos1);
-		    var s1 = d.substr(0, --pos2);
-		    var s2 = d.substr(pos2);
-		}
-		else
-		{
-		    var pos2 = d.indexOf('&', ++pos1);
-		    var s1 = d.substr(0, --pos1);
-		    var s2 = d.substr(pos2);
-		}
-		
-		var newSrc = s1 + '&video_id=' + contentID + s2;
-		document.getElementById(frameID).src = newSrc;
-       	}
-        
-        <!--
-        var accipiterAds = new Array();
-        var AD_SOURCE = "site=gov/area=_privacy";
-        
-        // url: http://www.governing.com/privacy
-        
-        function hideAdZone(elem)
-        {
-             var ad_content = elem.innerHTML;
-             if (ad_content.indexOf('-grey.gif') != -1)
-             {
-             	elem.style.width = 0;
-              	elem.style.height = 0;
-              	elem.style.display = 'none';
-             }
-        
-        }
-                
-                
-                
-        function readCookie(c_name)
-	{
-	    if (document.cookie.length>0)
-	    {
-	        c_start=document.cookie.indexOf(c_name + "=");
-	        if (c_start!=-1)
-	        {
-	            c_start=c_start + c_name.length+1;
-	            c_end=document.cookie.indexOf(";",c_start);
-	            if (c_end==-1) 
-	            {
-	               c_end=document.cookie.length;
-	            }
-	            return unescape(document.cookie.substring(c_start,c_end));
-	        }
-	     }
-	     return "";
-	}
-        
-        
-        function setRequestorIP()
-        {
-    	    var randomnumber=Math.floor(Math.random()*1000000);
-    	    document.write('<scr'+'ipt language="JavaScript" type="text/javascript" src="http://www.governing.com/templates/common_set_ip.js?c=n&ran=' + randomnumber + ' "></scr' + 'ipt>');
-	}
-	
-	var requestorIP = readCookie("requestorIP");
-	if(requestorIP == "")
-	{ 
-	    setRequestorIP(); 
-        }
-        //alert(requestorIP); //debug
-        //-->
-</script><script language="JavaScript" type="text/javascript" src="http://www.governing.com/templates/common_set_ip.js?c=n&amp;ran=994152 "></script>
-    
-
-
-
-
-			
-					
-					
-					
-					
-					
-					
-		
-
-
-
-
-
+       <script type="text/javascript" language="javascript">
+    var AD_SOURCE = "site=gov/area=_privacy";
+</script>
+																												
 
 <meta http-equiv="Content-Type" content="text/html" charset="utf-8">
-
 <title>Privacy Policy</title>
-
-
 <meta name="description" content="$metaDescription">
-
-
     	    																													
 
-
-
-
-
-			
-					
-					
-					
-					
-					
-		
-
-
-
+																								
 
 <link href="http://www.governing.com/includes/reset.css" rel="stylesheet" type="text/css">
 <link href="http://www.governing.com/includes/governing.css" rel="stylesheet" type="text/css">
@@ -226,15 +25,11 @@
 <!--[if lt IE 7]><link rel="stylesheet" href="http://www.governing.com/includes/ie.css" type="text/css" media="screen, projection"><![endif]-->
 <script type="text/javascript" src="http://www.governing.com/includes/jquery-1.3.2.min.js"></script>
 <!--[if IE 6]><script type="text/javascript" src="http://www.governing.com/includes/gov_png_fix.js"></script><![endif]-->
+<script type="text/javascript" src="http://www.governing.com/includes/common_utils.js"></script>
 <script type="text/javascript" src="http://www.governing.com/includes/common_interstitial.js"></script>
 <script type="text/javascript" src="http://www.governing.com/includes/jmorph.js"></script>
-
-
 <link href="http://www.governing.com/includes/screen_only.css" rel="stylesheet" type="text/css">
 <link href="http://www.governing.com/includes/external_link.css" rel="stylesheet" type="text/css">
-
-
-
 <script type="text/javascript"><!--//--><![CDATA[//>
 	function getBrowserType()
 	{
@@ -244,11 +39,9 @@
 	if(u.indexOf("iPad") > 0)
 		return 'iPad';	
 	if(u.indexOf("iPhone") > 0)
-		return 'iPhone';
-	
+		return 'iPhone';	
 	return 'other';  
 	}
-	 
     sfHover = function() {
       var sfEls = document.getElementById("Topnavigation_lev1").getElementsByTagName("LI");
       for (var i=0; i<sfEls.length; i++) {
@@ -262,7 +55,6 @@
     }
     if (window.attachEvent) window.attachEvent("onload", sfHover);
     //--><!]]></script>
-    
 <script type="application/javascript" language="javascript">
 function toggleDisplay(id) {
    var obj = document.getElementById(id);
@@ -273,190 +65,58 @@ function toggleDisplay(id) {
    }
 }
 </script>
-    
-  <link rel="icon" href="http://media.governing.com/designimages/gov_favicon.ico" type="image/x-icon">
-  <link rel="shortcut icon" href="http://media.governing.com/designimages/gov_favicon.ico" type="image/x-icon">
-
-    
-    
+<link rel="icon" href="http://media.governing.com/designimages/gov_favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://media.governing.com/designimages/gov_favicon.ico" type="image/x-icon">  
+<script type="text/javascript" src="http://www.governing.com/includes/gt_google_analytics.js"></script>
 </head>
 <body style="height: 94%;">
-
-
-
 <script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="Javascript1.6">js="1.6";</script><script language="Javascript1.7">js="1.7";</script><script language="Javascript1.8">js="1.8";</script><script language="Javascript1.9">js="1.9";</script><script language="javascript1.1" type="text/javascript"> 
 <!-- 
 var bb=new Image();var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _r=(document.referrer.indexOf(getdomain(location))>-1?"":document.referrer);_q+="&5="+parseInt(_qDate.getTimezoneOffset());_q+="&35="+parseInt(_qDate.toString().indexOf("aylight")>-1?1:0);_q+="&6=900619127";_q+="&7=619127";_q+="&8="+encodeURIComponent(document.location);_q+="&9="+encodeURIComponent(_r);_q+="&10="+encodeURIComponent(document.title);_q+="&11="+encodeURIComponent(navigator.userAgent);_q+="&12="+encodeURIComponent((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+encodeURIComponent(js);if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+encodeURIComponent((screen.width+'x'+screen.height));_q+="&17="+encodeURIComponent(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+encodeURIComponent(Math.random());_q+="&19="+_ti;bb.src="http://s.clickability.com/s?"+_q;
 function setonclicks(a,b){var i=0;var retval=true;while(document.links[i]!=a){i++;}if(b.li[i])retval=b.li[i].oldonclick();bye(a);return retval;}
 function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.links.length;lnks.li=new Array(sze);for (var i=0; i<sze; i++){if(document.links[i].onclick){lnks.li[i]=document.links[i];lnks.li[i].oldonclick=document.links[i].onclick;}eval("document.links[i].onclick=function(){return setonclicks(this,lnks);}");}}function bye(a){if(a.href.toLowerCase().indexOf('http')!=0)return true;if(getdomain(location)==getdomain(a))return true;if(a.href.toLowerCase().indexOf('http')!=0)return true;var _qc="http://s.clickability.com/s?19=912";_qc+="&6=900619127";_qc+="&7=619127";_qc+="&18="+encodeURIComponent(Math.random());_qc+="&100="+a.href;_qc+="&101="+encodeURIComponent(a.text);var cc=new Image();if(na){cc.src=_qc;pc(100);}else cc.src=_qc;return true;}function pc(a){d = new Date(); while (1){m =new Date(); df = m-d;if( df > a ) {break;}}}function getdomain(a){var i=a.host.indexOf(":");return (i>=0)?a.host.substring(0,i):a.host;}if(self['setupalready']){var dosetup = false;alert('There are two $imware.tracker calls on this page. Please alert Client Services');}else{var dosetup = true;var hasonload=false;}if(dosetup && ((window.screen)||((new Array()).toSource)||((new Array()).shift&&ns))&&(navigator.userAgent.indexOf('Mac')<0)){if(window.onload){oldonld=window.onload;hasonload=true;}window.onload=newonld;var setupalready = true;}//-->
 </script><noscript>
-<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=900619127&7=619127&18=0.5051412619349799">
+<img width="1" height="1" src="http://s.clickability.com/s?19=990&14=0&6=900619127&7=619127&18=0.12966150730462433">
 </noscript>
-
-  
-<div id="Outershell">
-    
-        
-    	    				    	    																																																																																																			
-
-	
-
-
-<div id="ad_I1" style="width:=1px; height=:1px;"> 
+  <div id="Outershell">   
+            	    				    	    																																																																    													    															    <div id="ad_I1" style="width:=1px; height=:1px;"> 
     <div class="img_nopad">
     <script type="text/javascript">
-    
-        var site = "i.site285.opus";
-	var zone = "/privacy"; 
-	var position = "I1"; 
-	var width = "1";
-	var height = "1";
-	var id = "619127";
-	var newsletterID = "false";
-	
-	if (newsletterID != 'false')
-	{
-	    id += ";nlid=" + newsletterID;
-	}
-	
-	if (typeof(DELVE_ID) != "undefined")
-	{
-	    id += ";video_id=" + DELVE_ID;
-	}
-	
-	
-	
-		    if( requestorIP == "209.63.134.99" || requestorIP == "198.67.17.9")
-	    {
-	        if (site != "i.site285.opus")
-	        {
-	    	    zone = '/nolog' + zone;
-	        }   
-	    }
-		
-		
-	if(typeof(cachebuster) == "undefined") {var cachebuster = Math.floor(Math.random()*10000000000)}
-	if(typeof(dcopt) == "undefined") {var dcopt = "dcopt=ist;"} else {var dcopt = ""}
-	if(typeof(tile) == "undefined") {var tile = 1} else {tile++}
-	
-	var srcUrl = '<scr'+'ipt src="http://ad.doubleclick.net/adj/'
-		   + site
-		   + zone
-		   + ';pos='
-		   + position
-		   + ';tile='
-		   + tile + ';'
-		   + dcopt
-		   + 'sz='
-		   + width + 'x' + height
-		   + ';id='
-		   + id
-		   + ';ord='
-		   + cachebuster
-		   + '?"></scr'+'ipt>';
-	
-				document.write(srcUrl);
-	         
-    </script><script src="http://ad.doubleclick.net/adj/i.site285.opus/privacy;pos=I1;tile=1;dcopt=ist;sz=1x1;id=619127;ord=4488866738?"></script>
-    
+        display_ad('619127', 'false', 'i.site285.opus', '/privacy', 'I1', '1', '1', false, 'false');
+    </script>
     </div>
 </div>
 <script type="text/javascript"> 
    var ad_div = document.getElementById('ad_I1');
    hideAdZone(ad_div);
 </script>
-
-
-
-
-			
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-		
-
- 
-
-    <div id="Shadowblock">
+																																																
+     <div id="Shadowblock">
         <div id="ShadowblockFade">
-    
-
-    
-    <!--- PAGE HEADER AND NAVIGATION--->
+        <!--- PAGE HEADER AND NAVIGATION--->
         <div id="Pagehead">
             <div id="Subscribeblock">
-                   
-																		
+                   																		
 
 
 
 
 
-    
-    	    				    	    																																																									
-
-    	    				    	    																																																																														
-
-
-                        
-                                                                                    
+        	    				    	    																													    													    															
+    	    				    	    																																											    													    															
+                                                                                                            																																				
 
 
 
-			
-					
-					
-					
-					
-					
-					
-					
-					
-					
-		
+																												
 
 
 
+																
 
 
-
-
-			
-					
-					
-					
-					
-					
-					
-		
-
-
-
-
-
-
-
-
-			
-					
-					
-					
-		
-
-
-
-
-                                <div class="magcover">
-                    <a href="http://www.governing.com/mag/May-2011--Table-of-Contents.html"><img src="http://media.governing.com/images/128*166/GOVCover5_11_170.jpg" alt=""></a>
+                <div class="magcover">
+                    <a href="http://www.governing.com/mag/november-2011-table-of-contents.html"><img src="http://media.governing.com/images/128*166/GOV-november-2011-cover.jpg" alt=""></a>
                 </div>
             </div>
             <div style="width: 777px; float:left">
@@ -510,76 +170,35 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
                                         <li><a href="/columns/urban-notebook">Urban Notebook</a></li>
                                         <li class="heavy"><a href="/blogs/">Blogs</a></li>
                                                             <li><a href="/blogs/bfc">Better, Faster, Cheaper</a></li>
+                                        <li><a href="/blogs/by-the-numbers">By the Numbers</a></li>
                                         <li><a href="/blogs/fedwatch">FedWatch</a></li>
                                         <li><a href="/blogs/politics">Politics</a></li>
                                         <li><a href="/blogs/public-great">Public Great</a></li>
-                                        <li><a href="/blogs/sunlight">Sunlight</a></li>
                                         <li><a href="/blogs/view">View</a></li>
                                     </ul>
             </li>
 
-               
-																		
+               																		
 
 
 
 
 
-    
-    	    				    	    																																																									
-
-    	    				    	    																																																																														
-
-
-                        
-                                                                                    
+        	    				    	    																													    													    															
+    	    				    	    																																											    													    															
+                                                                                                            																																				
 
 
 
-			
-					
-					
-					
-					
-					
-					
-					
-					
-					
-		
+																												
 
 
 
+																
 
 
 
-
-			
-					
-					
-					
-					
-					
-					
-		
-
-
-
-
-
-
-
-
-			
-					
-					
-					
-		
-
-
-
-
-                        <li><a href="http://www.governing.com/mag/May-2011--Table-of-Contents.html">Magazine<span class="right">&nbsp;</span></a></li>
+                        <li><a href="http://www.governing.com/mag/november-2011-table-of-contents.html">Magazine<span class="right">&nbsp;</span></a></li>
             <li><a href="/events/">Events &amp; Webinars<span class="right">&nbsp;</span></a></li>
             <li><a href="/books/">Books<span class="right">&nbsp;</span></a></li>
             <li><a href="/papers/">Papers<span class="right">&nbsp;</span></a></li>
@@ -587,16 +206,15 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
         </ul>
     </div>
 
-
         <!--- LEVEL 2 NAVIGATION ---> 
 <div id="Topnavigation_lev2" style="clear:left;">
     <ul>
-    <li class="first" style="color:#FFFFFF; font-size:11px;padding:0 10px;">Current:</li>
+    <li class="first" style="color:#FFFFFF; font-size:11px;padding:0 0 0 10px;">Current:</li>
     <li style="padding:0 10px;" class="first"><a href="/events/GOVERNING-Leadership-Forums-2011.html">Leadership Forums</a></li>
     <li style="padding:0 10px;"><a href="/topics/mgmt/">Management</a></li>     
     <li style="padding:0 10px;"><a href="/topics/finance/">Finance</a></li>
     <li style="padding:0 10px;"><a href="/blogs/fedwatch/">Fedwatch</a></li>
-    <li style="padding:0 10px;"><a href="/topics/health-human-services/">Health</a></li>    
+    <li style="padding:0 10px;"><a href="/gov-data/">GOVERNING Data</a></li>    
     <li style="padding:0 10px;"><a href="/blogs/public-great">Public Great</a></li>
     <li style="padding:0 10px;"><a href="/poy/">Public Officials of the Year</a></li>       
     </ul>
@@ -612,12 +230,10 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
 </div>
 
 
-        
-
+       
 		        <!--- TOP ADVERTISMENT BANNER --->
 	        <div id="Topbanner">
-	            	                   
-    	    				    	    								
+	            	                       	    				    	    								
 
 <div class="boxstyle1">
     <h3>Get GOVERNING‘s Daily Newsletter</h3>
@@ -632,111 +248,28 @@ function newonld(){if(hasonload)oldonld();lnks=new Object();var sze=document.lin
     </div>
 	<a class="box_sample byline" target="_blank" href="http://media.governing.com/documents/GOVERNING-Daily-Sample.htm">view sample</a>
 </div>
+																
 
 
-
-
-			
-					
-					
-					
-		
-
-
-
-
-	                	            	            
-    	    				    	    																																																																																																			
-
-	
-
-
-<div id="ad_T2" class="topAd" style="width:=728px; height=:90px;"> 
+	            	                	    				    	    																																																																    													    															    <div id="ad_T2" class="topAd" style="width:=728px; height=:90px;"> 
     <div class="img_nopad">
     <script type="text/javascript">
-    
-        var site = "i.site285.opus";
-	var zone = "/privacy"; 
-	var position = "T2"; 
-	var width = "728";
-	var height = "90";
-	var id = "619127";
-	var newsletterID = "false";
-	
-	if (newsletterID != 'false')
-	{
-	    id += ";nlid=" + newsletterID;
-	}
-	
-	if (typeof(DELVE_ID) != "undefined")
-	{
-	    id += ";video_id=" + DELVE_ID;
-	}
-	
-	
-	
-		    if( requestorIP == "209.63.134.99" || requestorIP == "198.67.17.9")
-	    {
-	        if (site != "i.site285.opus")
-	        {
-	    	    zone = '/nolog' + zone;
-	        }   
-	    }
-		
-		
-	if(typeof(cachebuster) == "undefined") {var cachebuster = Math.floor(Math.random()*10000000000)}
-	if(typeof(dcopt) == "undefined") {var dcopt = "dcopt=ist;"} else {var dcopt = ""}
-	if(typeof(tile) == "undefined") {var tile = 1} else {tile++}
-	
-	var srcUrl = '<scr'+'ipt src="http://ad.doubleclick.net/adj/'
-		   + site
-		   + zone
-		   + ';pos='
-		   + position
-		   + ';tile='
-		   + tile + ';'
-		   + dcopt
-		   + 'sz='
-		   + width + 'x' + height
-		   + ';id='
-		   + id
-		   + ';ord='
-		   + cachebuster
-		   + '?"></scr'+'ipt>';
-	
-				document.write(srcUrl);
-	         
-    </script><script src="http://ad.doubleclick.net/adj/i.site285.opus/privacy;pos=T2;tile=2;sz=728x90;id=619127;ord=4488866738?"></script>
-    
+        display_ad('619127', 'false', 'i.site285.opus', '/privacy', 'T2', '728', '90', false, 'false');
+    </script>
     </div>
 </div>
-
-
-
-
-			
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-		
-
-   
-	            
+																																																
 	            	            	            </div>
-	        
 	        </div>        
         <div id="Contentblock">
-        
 
+
+		<script type="text/javascript" src="http://www.governing.com/includes/common_utils.js"></script>
+	<script type="text/javascript" src="http://www.governing.com/includes/gt_common.js"></script>
+                     	 <script type="text/javascript">
+          check4Mobile();
+    	 </script>
+        
 <!-- ============== END OF gov_head =============== -->
 
 
@@ -834,12 +367,12 @@ H2 {
 <script type="text/javascript">
 <!--
 if (navigator.appName == 'Netscape' || navigator.appName == 'Opera'){
-     document.write('<layer hidden=true><img src="http://now.eloqua.com/visitor/v200/svrGP.aspx?pps=60&siteid=1222&PURLSiteID=2&PURLSiteAlternateDNSID=0&PURLContentWebPublishID=3&PURLRecordID=0&PURLGUID=7f826bc2-f87d-473b-9301-e476a0c98465&elq={00000000-0000-0000-0000-000000000000}&elq_ck=0" border=0 width=1 height=1 ><\/layer>');
+     document.write('<layer hidden=true><img src="http://now.eloqua.com/visitor/v200/svrGP.aspx?pps=60&siteid=1222&PURLSiteID=2&PURLSiteAlternateDNSID=0&PURLContentWebPublishID=3&PURLRecordID=0&PURLGUID=3ee25ceb-fcb7-4d88-9516-32eb3bb10527&UseRelativePath=False&elq={00000000-0000-0000-0000-000000000000}&elq_ck=0" border=0 width=1 height=1 ><\/layer>');
 }else{
-     document.write('<img style="display:none" src="http://now.eloqua.com/visitor/v200/svrGP.aspx?pps=60&siteid=1222&PURLSiteID=2&PURLSiteAlternateDNSID=0&PURLContentWebPublishID=3&PURLRecordID=0&PURLGUID=7f826bc2-f87d-473b-9301-e476a0c98465&elq={00000000-0000-0000-0000-000000000000}&elq_ck=0" border=0 width=1 height=1 >');
+     document.write('<img style="display:none" src="http://now.eloqua.com/visitor/v200/svrGP.aspx?pps=60&siteid=1222&PURLSiteID=2&PURLSiteAlternateDNSID=0&PURLContentWebPublishID=3&PURLRecordID=0&PURLGUID=3ee25ceb-fcb7-4d88-9516-32eb3bb10527&UseRelativePath=False&elq={00000000-0000-0000-0000-000000000000}&elq_ck=0" border=0 width=1 height=1 >');
 }
 -->
-</script><layer hidden="true"><img src="http://now.eloqua.com/visitor/v200/svrGP.aspx?pps=60&amp;siteid=1222&amp;PURLSiteID=2&amp;PURLSiteAlternateDNSID=0&amp;PURLContentWebPublishID=3&amp;PURLRecordID=0&amp;PURLGUID=7f826bc2-f87d-473b-9301-e476a0c98465&amp;elq={00000000-0000-0000-0000-000000000000}&amp;elq_ck=0" border="0" width="1" height="1"></layer>
+</script><layer hidden="true"><img src="http://now.eloqua.com/visitor/v200/svrGP.aspx?pps=60&amp;siteid=1222&amp;PURLSiteID=2&amp;PURLSiteAlternateDNSID=0&amp;PURLContentWebPublishID=3&amp;PURLRecordID=0&amp;PURLGUID=3ee25ceb-fcb7-4d88-9516-32eb3bb10527&amp;UseRelativePath=False&amp;elq={00000000-0000-0000-0000-000000000000}&amp;elq_ck=0" border="0" width="1" height="1"></layer>
 
     </div>
     
@@ -848,102 +381,26 @@ if (navigator.appName == 'Netscape' || navigator.appName == 'Opera'){
       
            
 
+<!-- =========== START OF gov_foot ============ -->
 
         </div> <!--end of content block -->
-
-    <!--- BOTTOM BANNER --->        
+        <!--- BOTTOM BANNER --->        
     <div id="Btmbanner">
-                        
-    	    				    	    																																																																																																			
-
-	
-
-
-<div id="ad_B1" style="width:=728px; height=:90px;"> 
+                    	    				    	    																																																																    													    															    <div id="ad_B1" style="width:=728px; height=:90px;"> 
     <div class="img_nopad">
     <script type="text/javascript">
-    
-        var site = "i.site285.opus";
-	var zone = "/privacy"; 
-	var position = "B1"; 
-	var width = "728";
-	var height = "90";
-	var id = "619127";
-	var newsletterID = "false";
-	
-	if (newsletterID != 'false')
-	{
-	    id += ";nlid=" + newsletterID;
-	}
-	
-	if (typeof(DELVE_ID) != "undefined")
-	{
-	    id += ";video_id=" + DELVE_ID;
-	}
-	
-	
-	
-		    if( requestorIP == "209.63.134.99" || requestorIP == "198.67.17.9")
-	    {
-	        if (site != "i.site285.opus")
-	        {
-	    	    zone = '/nolog' + zone;
-	        }   
-	    }
-		
-		
-	if(typeof(cachebuster) == "undefined") {var cachebuster = Math.floor(Math.random()*10000000000)}
-	if(typeof(dcopt) == "undefined") {var dcopt = "dcopt=ist;"} else {var dcopt = ""}
-	if(typeof(tile) == "undefined") {var tile = 1} else {tile++}
-	
-	var srcUrl = '<scr'+'ipt src="http://ad.doubleclick.net/adj/'
-		   + site
-		   + zone
-		   + ';pos='
-		   + position
-		   + ';tile='
-		   + tile + ';'
-		   + dcopt
-		   + 'sz='
-		   + width + 'x' + height
-		   + ';id='
-		   + id
-		   + ';ord='
-		   + cachebuster
-		   + '?"></scr'+'ipt>';
-	
-				document.write(srcUrl);
-	         
-    </script><script src="http://ad.doubleclick.net/adj/i.site285.opus/privacy;pos=B1;tile=3;sz=728x90;id=619127;ord=4488866738?"></script>
-    
+        display_ad('619127', 'false', 'i.site285.opus', '/privacy', 'B1', '728', '90', false, 'false');
+    </script>
     </div>
 </div>
 <script type="text/javascript"> 
    var ad_div = document.getElementById('ad_B1');
    hideAdZone(ad_div);
 </script>
-
-
-
-
-			
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-					
-		
-
+																																																
  
     </div> 
-
+    
     <!--- FOOTER --->
         <div id="Footer">
             <div class="footercolumn" style="width:240px;">
@@ -996,6 +453,7 @@ if (navigator.appName == 'Netscape' || navigator.appName == 'Opera'){
                     <li><a href="http://forms.erepublic.com/forms/GoverningNewsletters" target="_blank">Email Newsletters</a></li>
                     <li><a href="http://www.erepublic.com/advertise/governing/" target="_blank">Advertise</a></li>
                     <li><a href="/rss"><img src="http://media.governing.com/designimages/gov_ico_rss.gif" class="marginright">RSS</a></li>
+                    <li><a href="/gov-institute/">Governing Institute</a></li>
                     <li><a href="/authors/">Authors</a></li>
                     <li><a href="/about/">About</a></li>
                     <li><a href="/contact/">Contact</a></li>
@@ -1032,9 +490,9 @@ if (navigator.appName == 'Netscape' || navigator.appName == 'Opera'){
 
 <!---<script type="text/javascript" src="http://www.governing.com/includes/gov_png_fix.js"></script>--->
 <script type="text/javascript">
- $(document).ready(function(){
+ jQuery(function(){
     // select contents of a text field when it gets the focus
-    $(':text').focus(function(){this.select();})  
+    jQuery(':text').focus(function(){this.select();})  
  })
 </script>
 
@@ -1150,7 +608,7 @@ try {
 
 <!-- Eloqua -->
 <script src="/includes/elqCfg.js" type="text/javascript"></script>
-<script src="/includes/elqImg.js" type="text/javascript"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=1222&amp;ref2=elqNone&amp;tzo=0&amp;ms=61" border="0" width="1" height="1"></layer>
+<script src="/includes/elqImg.js" type="text/javascript"></script><layer hidden="true"><img src="https://secure.eloqua.com/visitor/v200/svrGP.aspx?pps=3&amp;siteid=1222&amp;ref2=elqNone&amp;tzo=0&amp;ms=538" border="0" width="1" height="1"></layer>
 
   
 
