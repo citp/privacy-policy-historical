@@ -1,100 +1,69 @@
-> *The following text is extracted and transformed from the cru.org privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cru.org privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109003541id_/http%3A//www.ccci.org/about-us/policies/privacy-policy/index.htm) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Statement :: Campus Crusade for Christ International
 
-**Go Daddy Respects Your Privacy**
+#### Last Updated: September 2005
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+CCCi.org is a Web site (Site) of Campus Crusade for Christ International.  This Site is one of the family of Sites operated by various ministries related to Campus Crusade for Christ.  When we use the terms "we" "us" or "our," we refer to Campus Crusade for Christ International and affiliated ministries ("Our Organization").   
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Please know that we are committed to protecting and appropriately handling the private and personal information of users and visitors to this Site.  We are publishing this Privacy Statement to let you know how we handle personal information in this Site.  We may, from time-to-time, update this privacy notice so we encourage you to periodically review this policy.  We will notify you about material changes in the way we treat personal information by placing a notice on our site.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**1.   **Using this Site.  
 
-**Information Collection and Use**
+Please read our [Terms of Use](https://web.archive.org/about-us/policies/terms-of-use/index.htm) (the "Terms of Use") to find out more about the requirements for using this Site. 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+**2.  Collection and Use of Information.**  
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We take your privacy very seriously.  You can visit and enjoy many of our Sites without disclosing any personal information about yourself. There may be times when you will have the opportunity to share limited, personally identifiable information to access or utilize certain features of this Site.  We limit our collection of personal information to pertinent information for the activity you choose to undertake.  For example, in order for you to make a purchase or donation, we may collect your name, e-mail address, street and billing addresses, phone number, and credit card information.  Depending on what you purchase, we may also need to collect other personal information. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+Generally, we will not disclose or share any visitor information (including your e-mail address) with anyone outside Our Organization without your permission. There may be times that we need to use your information in order to provide you with ministry services or products.  For example, we may need to use or share your information with our partners and agents who provide goods and services to you on our behalf.  We also may need to share your information with other parts of Our Organization to service your requests or provide you with information or other ministry opportunities.  Lastly, we may need to use your information if required for us to comply with legal requirements pertaining to your information or activities, or to enforce our rights as agreed under the Terms of Use.  In all such efforts we will take steps to safeguard your information. You agree that by submitting information to this Site you understand and freely consent to allow us to use, store, publish, transmit and process this information at our discretion to provide you with the goods and services you request and to operate this Site and related ministry activities.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**3\. Registering on the Site.**   
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+We give visitors to certain Sites the opportunity to register or provide their contact information such as their e-mail address so they can receive updates such as news reports, project or organization reports, opportunities for personal and financial involvement and promotional information.  You may also be required to register on the Site to engage in other activities, such as purchases or downloads of materials, services, products, donations, receiving promotions, registering for conferences or activities, or registering for chat rooms or public forums.  Personally identifiable information that you provide in these registrations is used consistently with this policy and we will notify you at a particular site if any uses are different than these uses.  You can choose not to receive such mailings, or cancel any registrations, by un-subscribing.  (See "Opt-In/Opt-Out Communications" below).
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**4.  Security.**
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+For Sites that collect information, we typically employ security measures, including technical, administrative, and physical security steps to protect the loss, misuse and alteration of information under our control.  For example, the Site may use a Secured Socket Layer (SSL) server for activities such as order forms, and for users to make donations, download information and materials, and to make purchases online.  For this, users need to provide contact information (such as name, postal and e-mail addresses) and financial information (credit card numbers and expiration dates).  Information that is collected from a person may be used to verify their qualifications for registration, to bill them for products and services, and for all purposes related to the transaction.  These uses could include processing your order, transmitting information to the participating merchant or service provider, and authenticating your purchase(s), and the information you have provided.  We also use technology to protect your credit card number when we store your order and whenever we transfer that information to participating merchants or service providers.
 
-**Security**
+We cannot guarantee that the security measures we implement in connection with the operation of the Site will absolutely prevent others from accessing or acquiring any information that you provide while using the Site.  You can do some things to help protect the security of your information.  For instance, never give out your password since this is what is used to access all of your account information.  Also, remember to sign out of your account and close your browser window when you finish visiting our Site, so that other people using the same computer will not have access to your information.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**5.  Public Forums.**
 
-**Updating Your Information**
+Certain of our Sites may make Forums (as defined in the [Terms of Use](https://web.archive.org/about-us/policies/terms-of-use/index.htm) ) available to its registered users.  We might operate these Forums or they may be operated by outside groups.  We are not responsible for the content posted in any chat rooms or other Forum.  Please remember that any information disclosed in any Forum becomes public information and you should exercise caution when deciding to disclose any personal information.  Also, any information you submit to our Sites is the property of our Sites unless the Site indicates otherwise.  If you post personal information online that is accessible to the public (in any Forum, message board, or "chat" environment), you may receive unsolicited messages from other parties in return.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**6.  Cookies and Information Collected by Technology.**
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+The Site may use cookies to keep track of Web site activities, save your password or deliver content specific to your interests.  A cookie is a small data file that certain Web sites write to your hard drive when you visit them.  A cookie file can contain information such as a user ID that the site uses to track the pages you've visited.  The only personal information a cookie can contain is information you supply yourself.  You can refuse cookies by turning them off in your browser.  Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer.  If you choose to decline cookies, you may not be able to fully experience certain interactive features of the Site or access all of the services provided through the Site. The Site may collect some information (such as your IP address) that may not be readily apparent to you that it is being collected.  We may use your IP address to help diagnose problems with our server and to administer the Site.  Your IP address may also be used to help us identify you and any activity in which you engage.  We do keep track of the domains from which people visit us.  We analyze this data for trends and statistics, but we do not keep it in a personally identifiable manner.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+The Site also uses information collected through technology to make the Site more interesting and useful to you.  We normally do not combine this type of information with personally identifiable information.  However, we may combine this information with personally identifiable information to identify a visitor in order to enforce compliance with our Terms of Use, or to protect the Site, interests and reputation, guests, and/or others.  Demographic and profile data may also be collected at the Site.  We can use this data to tailor our visitors' experience at the Site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
-      iii.      You may call us at: (480) 505-8800
+**7.  Third Party Sites and Information.**
 
-       iv.      You may fax us at: (480) 505-8844
+The Site may contain links to other Web sites that are run by third parties such as other organizations, Sponsors, Content Providers and Advertisers.  Once you've clicked on a link or button activator for an outside Site, you will leave the Site and be taken to sites that we do not control, and our privacy policy no longer applies on those sites.
 
-**Sending Emails**
+You must read the privacy policy of the third party Web site concerning how personal information will be used.  We also provide content created by third-parties on certain of our Sites.  We are not responsible for the privacy practices or the content of such Content Providers or Third-Party Sites. 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+**8.  Special Rules for Children. ** 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+We do not collect more personally identifiable information from children under the age of 13 than is necessary for them to participate in our online or other activities such as registering for a conference or downloading materials.
 
-**Compliance with Laws and Law Enforcement**
+When a child under the age of 13 attempts to register with one of Our Sites, purchase products or materials, or participate in an activity requiring the submittal of personally identifiable information, he or she must  have a parent or guardian provide permission and consent for that child to provide information and register.  The only personally identifiable information we collect from a child is information that is necessary for the child to participate in some activity, such as an address for making a purchase.  We may also collect personal information, like a pet's name, to help visitors (including children) remember their Log-in Name and password if they forget them. We also allow parents to request at any time that the information collected about their child be removed from our database.  If you would like to review information about your children that they have provided as registered users, please send such request to Campus Crusade for Christ International, 100 Lake Hart Drive, Orlando, FL 32832.  Please be sure to include your child's log-in name.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+On certain of our Sites, we occasionally may host or offer access to some chat rooms, or other Forums, where no personally identifiable information is collected or posted.  Children can visit these Forums without having to first provide any personally identifiable information. 
 
-**Third Party Service Providers**
+**9.  Opt-In/Opt-Out Communications.**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+We may provide visitors to the Site the opportunity to register for services such as signing-up to receive updates from certain parts of Our Organization.  Visitors are not obligated to register for these services.  Also, you can unsubscribe from any electronic communications from Our Organization. Please contact us to request that we no longer contact you via e-mail or other means using the personal information you have provided at any of the Site. 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+**10.  Access and Change Information.**
 
-**Supplementation of Information**
+The Site may offer different options for accessing, changing and modifying information you previously provided at the Site.  To change or update your information, such as donor or customer record (for registered users only), e-mail address, or address, or to stop a duplicate e-mail, please contact us as described below. Make sure to provide your name with both the old and new information.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+**11.  Contacting Our Organization.**
 
-**Contests/Surveys**
+A link named "Contact" may be provided on pages of Our Site.  Please click on this link to send an e-mail to Our Organization's support staff and we will work to ensure your query is answered or passed on to the appropriate person in a timely manner. You can contact Us about Your Personal Information at: Campus Crusade for Christ International, 100 Lake Hart Drive, Orlando, FL 32832.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+**12.   Your California Privacy Rights.**
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Beginning January 1, 2005 under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2005 will receive information regarding 2004 sharing activities).  Please be aware that not all information sharing is covered by the "Shine the Light" requirements.
