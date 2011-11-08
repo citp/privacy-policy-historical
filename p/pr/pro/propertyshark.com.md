@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyshark.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125152636id_/http%3A//www.propertyshark.com/mason/text/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyshark.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108125934id_/http%3A//www.propertyshark.com/mason/text/privacy_policy.html) for the most accurate reproduction.*
 
 # PropertyShark - Privacy Policy
 
@@ -29,7 +29,7 @@ We use the information we collect to:
 
 
 
-You may opt-out by contacting us at our customer service line or by sending an email to [privacy@propertyresearchpartners.com](mailto:support@propertyshark.com). We may also use the information you provide to allow us to contact you for administrative purposes; for example, to tell you about changes to our privacy policy.
+You may opt-out by contacting us at our customer service line or by sending an email to [privacy@propertyshark.com](mailto:support@propertyshark.com). We may also use the information you provide to allow us to contact you for administrative purposes; for example, to tell you about changes to our privacy policy.
 
 **Disclosure of Information**
 
