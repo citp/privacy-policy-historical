@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anyahindmarch.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623084635id_/http%3A//anyahindmarch.com/about_us/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anyahindmarch.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108214749id_/http%3A//www.anyahindmarch.com/about_us/PrivacyPolicy) for the most accurate reproduction.*
 
-# 
+# Anya Hindmarch
 
 All personal information you supply to us will be treated in accordance with Data Protection Act.  The nature of this site means that we will obtain, use and disclose (together “Use”) certain information about you (“Data”).  This statement sets out the principles governing our Use of Data on this Site.  By registering to use the Site you agree to this Use.
 
