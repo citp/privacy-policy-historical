@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the businessvibes.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510001229id_/http%3A//www.businessvibes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessvibes.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108012831id_/http%3A//www.businessvibes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BusinessVibes
 
-Date of Last Revision: 20th August 2010
+Date of Last Revision: 6 Sep 2010
 
 BusinessVibes respects your right to privacy and has complied with relevant Data Protection registrations in the United Kingdom.
 
@@ -24,8 +24,12 @@ Email: _[help@businessvibes.com](mailto:help@businessvibes.com)_
 
 By post at:
 
-BusinessVibes – Customer Service Department   
-Infiniti Research Limited  
-33 Cavendish Square  
-London W1G 0PW  
-United Kingdom
+BusinessVibes – Customer Service Department 
+
+Businessvibes Network International Inc.
+
+107 Charlotte Street Suite 12A,
+
+Saint John NB,
+
+Canada, E2L 2J2
