@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the essaydepot.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515011402id_/http%3A//www.essaydepot.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essaydepot.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108032302id_/http%3A//www.essaydepot.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - EssayDepot.com
 
 Welcome to EssayDepot.com! When you register with us or use EssayDepot.com, you provide information to us. Below, we explain what information is collected, how it is used to your benefit, under what circumstances your information may be disclosed, and the choices that you have with your information
 
-* ### Information Collected by EssayDepot.com
+* ### Information Collected by Our Site
 
 EssayDepot.com is provided by The Paper Database, Inc. and its affiliates ("we" or "us"). Registration with us is optional, but please keep in mind that you may not be able to use many of the services on EssayDepot.com unless you register with us. Depending on how you interact with EssayDepot.com, you provide us with information, which may include: (a) your name, email address, age (to comply with legal requirements), user name, password, postal code, gender and other registration information; (b) your interaction with EssayDepot.com features and advertisements; (c) transaction-related information, such as, when you make purchases, respond to any offers, or download software from us; and (d) information you provide us when you contact us for help.
 
-We also collect other non-personally identifiable data, which may include your IP address and what browser you are using so that we can improve EssayDepot.com's services to you.
+We may also collect other information when users interact with EssayDepot.com, such as city, state, zip code, country and IP address that does not identify a person individually, so that we can improve EssayDepot.com's services to you.
 
 * ### Use of Information
 
