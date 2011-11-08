@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mitre10.co.nz privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510224421id_/http%3A//www.mitre10.co.nz/service_counter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitre10.co.nz privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108232508id_/http%3A//www.mitre10.co.nz/service_counter) for the most accurate reproduction.*
 
-# Privacy - Mitre10
+# Service Counter - Mitre10
 
 We're Good At Keeping Secrets ..
 
