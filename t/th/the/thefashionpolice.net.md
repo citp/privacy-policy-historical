@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefashionpolice.net privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607040613id_/http%3A//www.thefashionpolice.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefashionpolice.net privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108174554id_/http%3A//www.thefashionpolice.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy > The Fashion Police
+# Privacy Policy
 
 At TheFashionPolice.net we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit our site, and how we safeguard your information.  We never sell your personal information to third parties.
 
