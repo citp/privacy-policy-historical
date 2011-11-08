@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the maritimesun.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602160603id_/http%3A//www.maritimesun.com/portal/legal-disclaimer/privacy-syatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maritimesun.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108012422id_/http%3A//www.maritimesun.com/news/legal-disclaimer/privacy-syatement) for the most accurate reproduction.*
 
-# Privacy Statement - Shipping World | Shipping World
+# Privacy Statement - MaritimeSun | MaritimeSun
 
 Last update: August, 2010
 
-NK Maritime Sun Ltd is firmly committed to the protection of your privacy. This Statement sets out how we collect, use and secure the personal [information](http://www.maritimesun.com/portal/insight/information "information") of individuals in our Site.
+NK [Maritime]( "Maritime") Sun Ltd is firmly committed to the protection of your privacy. This Statement sets out how we collect, use and secure the personal information of individuals in our Site.
 
 BY USING shippingworld.maritimesun.com SITE, YOU AGREE TO BE BOUND BY THE FOLLOWING PRIVACY STATEMENT. IF YOU DO NOT AGREE WITH THIS STATEMENT, DISCONTINUE ALL USE OF THIS SITE IMMEDIATELY.
 
@@ -22,7 +22,7 @@ shippingworld.maritimesun.com site may use cookies to track user traffic pattern
 
 We may use software that receives and records the Internet Protocol (IP) address of the computer that has contacted shippingworld.maritimesun.com site. We make no attempt to link these addresses with the identity of individuals visiting shippingworld.maritimesun.com site.
 
-We may also use third party’s advertisements on shippingworld.maritimesun.com Site or shippingworld.maritimesun.com advertisements on other sites. In serving advertisements these providers may place cookies on your browser computer and may collect certain anonymous information about your visits to other sites or on shippingworld.maritimesun.com Site. This information may include browser type, IP address, domain name and the name of the web page from which you entered such sites, web activity and time of day. This information is used by these third parties to better understand and optimize the online [advertising](http://www.maritimesun.com/portal/services/advertising "advertising") campaigns.
+We may also use third party’s advertisements on shippingworld.maritimesun.com Site or shippingworld.maritimesun.com advertisements on other sites. In serving advertisements these providers may place cookies on your browser computer and may collect certain anonymous information about your visits to other sites or on shippingworld.maritimesun.com Site. This information may include browser type, IP address, domain name and the name of the web page from which you entered such sites, web activity and time of day. This information is used by these third parties to better understand and optimize the online advertising campaigns.
 
 From time to time, we analyze traffic and use shippingworld.maritimesun.com site to determine which features and services people like and do not like so that we can improve what we do. We prepare aggregated user statistics or information summaries in order to describe our services to third parties such as prospective business partners and advertisers and for other lawful purposes.
 
@@ -50,7 +50,7 @@ Where permitted or required by law, we may collect, use or disclose your persona
 
 We use physical, organizational and technological safeguards to protect your personal information against theft, loss or unauthorized access, use, modification, disclosure or disposal. Generally speaking, you can visit shippingworld.maritimesun.com Site without revealing personal information. However, given that electronically submitted data is not 100% secure, we make no warranties as to the security of any personal information you submit online, which you do at your own risk.
 
-**[Terms of Use](http://www.maritimesun.com/portal/legal-disclaimer/terms-of-use "Terms of Use") & Changes to this Statement**
+**Terms of Use & Changes to this Statement**
 
 Your use of shippingworld.maritimesun.com Site, and any disputes arising from it, is subject to this Statement and governed by our Terms of Use, including its choice of law provisions. We reserve the right to change and update the Policy and these changes will be made when appropriate, in a timely manner. We encourage you to examine our Policy from time to time to ensure you are aware of any changes we may have made.
 
