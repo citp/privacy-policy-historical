@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtratime.org privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506040154id_/http%3A//www.xtratime.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtratime.org privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108230932id_/http%3A//www.xtratime.org/privacy) for the most accurate reproduction.*
 
 # Xtratime Community : Privacy policy
 
