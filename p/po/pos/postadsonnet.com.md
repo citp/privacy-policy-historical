@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postadsonnet.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207073318id_/http%3A//postadsonnet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postadsonnet.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109001718id_/http%3A//www.postadsonnet.com/privacy.php) for the most accurate reproduction.*
 
 # Free Classified ads, classified ads, classifieds - PostAdsOnNet
 
