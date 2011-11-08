@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pbnation.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229125620id_/http%3A//www.pbnation.com/misc2.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbnation.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108214630id_/http%3A//www.pbnation.com/misc2.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
 
-# PbNation - Privacy Policy
+# PbNation Privacy Policy
 
 At PbNation we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by PbNation LLC. or its subsidiaries or affiliated companies (collectively, PbNation's "services").
 
@@ -14,6 +14,9 @@ We offer a number of services that do not require you to register for an account
   
 
   * **PbNation cookies** \- When you visit PbNation, we send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some PbNation features and services may not function properly if your cookies are disabled.
+  
+
+  * **Third party cookies** \- Notwithstanding anything else herein, we may partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or hashed (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. To opt-out of these cookies, please go to http://www.privacychoice.org/choose.
   
 
   * **Network Advertising Initiative cookies** \- Some of our ad affiliates use 3rd party cookies to tailor advertisements based on your web preferences and usage patterns. You may opt out of these cookies by visiting [this page](http://www.networkadvertising.org/managing/opt_out.asp). This will not mean you no longer receive online advertising, but that they will simply not be targeted to you.
@@ -88,4 +91,4 @@ Please note that this Privacy Policy may change from time to time. We will not r
 
 If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at Privacy Matters, c/o PbNation LLC, 2107 N Decatur Road, Suite 449, Decatur, GA, 30033 USA.
 
-Last revised 06/03/10 
+Last revised 08/04/11 
