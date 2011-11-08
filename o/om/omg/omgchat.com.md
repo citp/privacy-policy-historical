@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omgchat.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616184709id_/http%3A//www.omgchat.com/pg/expages/read/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgchat.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108043128id_/http%3A//www.omgchat.com/pg/expages/read/Privacy) for the most accurate reproduction.*
 
 # OMG Chat - Free Webcam Chat Rooms
 
