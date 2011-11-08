@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessnewsdaily.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624122247id_/http%3A//www.businessnewsdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessnewsdaily.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108014805id_/http%3A//www.businessnewsdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BusinessNewsDaily
 
