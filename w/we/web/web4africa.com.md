@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web4africa.com privacy policy that was archived on 2010-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101012032539id_/http%3A//www.web4africa.net/about-us/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web4africa.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108091635id_/http%3A//www.web4africa.net/about-us/privacy-policy.php) for the most accurate reproduction.*
 
 # Web4Africa Ltd - Privacy policy
 
