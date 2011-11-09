@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the like.fm privacy policy that was archived on 2011-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110510222037id_/http%3A//like.fm/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the like.fm privacy policy that was archived on 2011-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111109100331id_/http%3A//like.fm/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" class=" js canvas canvastext geolocation crosswindowmessaging websqldatabase indexeddb hashchange historymanagement draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions  video audio localstorage sessionstorage webworkers applicationcache svg smil svgclippaths   fontface"><!-- Like.fm is looking for technical co-founder - http://blog.like.fm/likefm-is-hiring-0 --><head>
     <title>Like.fm</title>
@@ -11,129 +11,97 @@
     <meta property="og:site_name" content="Like.fm">
     <meta property="fb:admins" content="769135124">
     <meta property="fb:app_id" content="131349786907510">
-
-    <script type="text/javascript" async="" src="https://static.olark.com/jsclient/loader1.js?ts=1580392919425"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-    <link href="/css/main.css" rel="stylesheet" type="text/css" media="screen" charset="UTF-8">
+ 
+    <script type="text/javascript" async="" src="https://static.olark.com/jsclient/loader1.js?ts=1580392916996"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <link href="/css/bootstrap.css" rel="stylesheet" type="text/css" media="screen" charset="UTF-8">
     <script type="text/javascript" src="/lib/swfobject.js"></script>
     <script type="text/javascript" src="/lib/modernizr.min.js"></script>
     <script type="text/javascript" src="/lib/jquery.min.js"></script>
     <script type="text/javascript" src="/lib/json.js"></script>
     <script type="text/javascript" src="/lib/jquery.tools.min.js"></script>
     <script type="text/javascript" src="/lib/jquery-ui.custom.min.js"></script>
+    <script type="text/javascript" src="/lib/jquery-ui-1.8.16.custom.min.js"></script>
+    <script type="text/javascript" src="/lib/bootstrap-dropdown.js"></script>
+    <script type="text/javascript" src="/lib/bootstrap-alerts.js"></script>
+    <script type="text/javascript" src="/lib/highcharts.js"></script>
     <script type="text/javascript" src="/lib/production.js"></script><style type="text/css" media="screen">#ytapiplayer {visibility:hidden}</style>
-
+ 
     <script type="text/javascript">
-
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-1943620-11']);
       _gaq.push(['_trackPageview']);
-
+ 
       (function() {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
     </script>
-    <script type="text/javascript" src="https://cdn.uservoice.com/javascripts/widgets/tab.js"></script></head>
+    <script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" src="https://cdn.uservoice.com/javascripts/widgets/tab.js"></script></head>
     <body>
-        <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+        <div id="fb-root"></div>
         <script>
           window.fbAsyncInit = function() {
             FB.init({
-              appId   : '131349786907510',
-              session : null, // don't refetch the session when PHP already has it
-              status  : true, // check login status
-              cookie  : true, // enable cookies to allow the server to access the session
-              xfbml   : true // parse XFBML
+              appId  : '131349786907510',
+              status : true, // check login status
+              cookie : true, // enable cookies to allow the server to access the session
+              xfbml  : true, // parse XFBML
+              channelURL : 'http://like.fm/channel.html', // channel.html file
+              oauth  : true // enable OAuth 2.0
             });
+
             FB.Event.subscribe('edge.create', function() {
                 $("#ilikeyou").show();
             });
-
+ 
             // whenever the user logs in, we refresh the page
             FB.Event.subscribe('auth.login', function() {
               //window.location.reload();
             });
           };
+ 
+          (function(d){
+             var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+             js = d.createElement('script'); js.id = id; js.async = true;
+             js.src = "//connect.facebook.net/en_US/all.js";
+             d.getElementsByTagName('head')[0].appendChild(js);
+           }(document));
 
-          (function() {
-            var e = document.createElement('script');
-            e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-            e.async = true;
-            document.getElementById('fb-root').appendChild(e);
-          }());
-        </script>
-        <div id="confirm" class="error" style="top: 364.5px; left: 20px;">
+
+                  </script>
+        <div id="confirm" class="error" style="top: 357px; left: 0px;">
             Are you sure you want to <span class="message"></span>?
-            <div class="response-control"><button value="yes">Yes</button><button value="no">No</button></div>
+            <div class="response-control"><button class="btn" value="yes">Yes</button><button class="btn" value="no">No</button></div>
         </div>
         <div id="addToPlaylistDialog" class="notice">
             <span class="message"></span><br>
             <input id="addToPlaylist" type="input" name="name"> <a href="#" id="showplaylists"></a>
-            <div class="response-control"><button value="add">Add</button><button value="cancel">Cancel</button></div>
+            <div class="response-control"><button class="btn" value="add">Add</button><button class="btn" value="cancel">Cancel</button></div>
+        </div>
+        <div id="recommendDialog" class="notice">
+            <div id="recommend-title">Recommend a song to a user:</div>
+            <input type="text" name="targetuser" id="targetuser" placeholder="Enter a Like.fm Username"> <a href="#" id="showfollowing">Show Following</a>
+            <div id="recommended-message">Done! We'll let you know whether or<br> not the person likes the song.</div>
+            <div id="recommend-controls">
+            <textarea rows="3" cols="50" id="recommend-textbox"></textarea>
+            <div class="response-control"><span class="fb-connect"><a href="https://like.fm/signup">Signup</a> or <a href="#" id="fb-connect"><img src="/images/fbconnect.png"></a></span><button class="btn recommend" value="recommend">Recommend</button><button class="btn" value="cancel">Cancel</button></div>
+            </div>
         </div>
         <div id="share-wrapper">
-        <div id="share-container">
-            <div id="share-title"></div>
-            <div id="shared-message">This song has been shared!</div>
-            <div id="share-controls">
-            <textarea rows="3" cols="50" id="share-textbox">Awesome song! Click to listen!</textarea><br>
-            <div id="preview-container"><div id="preview-title">Twitter preview</div><div id="share-preview"></div></div>
-            <label for="fb-share-checkbox"><input type="checkbox" id="fb-share-checkbox" prop="fb">Facebook</label>
-            <label for="twitter-share-checkbox"><input type="checkbox" id="twitter-share-checkbox" prop="twitter">Twitter</label>
-            <button id="share-button">Share</button><button id="cancel-share">Cancel</button>
-            </div>
+          <div id="share-container">
+              <div id="share-title"></div>
+              <div id="shared-message">This song has been shared!</div>
+              <div id="share-controls">
+              <textarea rows="3" cols="50" id="share-textbox">Awesome song! Click to listen!</textarea><br>
+              <div id="preview-container"><div id="preview-title">Twitter preview</div><div id="share-preview"></div></div>
+              <label for="fb-share-checkbox"><input type="checkbox" id="fb-share-checkbox" prop="fb">Facebook</label>
+              <label for="twitter-share-checkbox"><input type="checkbox" id="twitter-share-checkbox" prop="twitter">Twitter</label>
+              <button id="share-button">Share</button><button id="cancel-share">Cancel</button>
+              </div>
+          </div>
         </div>
-        </div>
-        <div id="loading"><div id="loading-text">LOADING</div></div>
-        <div id="title-bar-container">
-            <div id="title-bar">
-                <div id="title-contents">
-                    <div id="logo-container">
-                        <div id="logo"><a href="http://like.fm"><img src="/images/logo.png"></a></div>
-                    </div>
-                    <div id="title-menu">
-                        <ul>
-                                                        <li><a href="/charts">Charts</a></li>
-                                                    </ul>
-                    </div>
-                    <div class="mini-search">
-                        <form class="search-form" method="get" action="/search">
-                            <input class="query text" name="q" type="text" placeholder="search" value="search">
-                        </form>
-                    </div>
-                    <div id="user">
-                        <ul id="user-info-t" class="signed-in" style="display:none">
-                            <li id="user-info">
-    <a href="/"></a></li>
-<li>
-    <a href="https://like.fm/settings">Settings</a>
-</li>
-<li class="signout-link">
-    <a id="signout" href="/signout">Sign out</a>
-</li>
-                        </ul>
-                        <ul class="signed-out">
-                            <li>
-                                <a class="signin" href="https://like.fm/login">Login</a>
-                            </li>
-                            <li class="signup">
-                                <a href="https://like.fm/signup">Sign Up</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div id="loginform">
-                    <form method="post" action="https://like.fm/user/auth">
-                        <input name="username" id="username" type="text" value="username or email" placeholder="username or email"><input name="password" id="password" type="password" value="password" placeholder="password"><input type="submit" name="submit" value="Login">
-                        <label><input type="checkbox" name="persist" id="persist" value="yes" checked="checked"> Stay logged in</label> | <a href="/settings/reset-password">Forgot password?</a>
-                        <div id="login-error"></div>
-                    </form>
-                </div>
-            </div>
-        </div>
-        <div id="pagecontainer">
-            <div id="playercontainer">
+        <div id="playercontainer">
                 <div id="currentitem">
         <div id="player">
             <div id="ytapiplayer" style="visibility: visible;"><a href="http://www.adobe.com/go/getflashplayer">Get flash</a> to see this player
@@ -148,94 +116,202 @@
                 </div>
             </div>
         </div>
-        
     </div>
+            
+        </div>
+
+        <!-- div id="loading"><div id="loading-text">LOADING</div></div -->
+        <!-- div id="title-bar-container">
+            <div id="title-bar">
+                <div id="title-contents">
+                                        <div id="title-menu">
+                        
+                    </div>
+                    <div class="mini-search">
+                        <form class="search-form" method="get" action="/search">
+                            <input class="query text" name="q" type="text" placeholder="search" value="search" />
+                        </form>
+                    </div>
+                    <div id="user">
+                        <ul id ="user-info-t" class="unstyled signed-in" style="display:none">
+                            <li class="dropdown signed-in">
+    <a class="dropdown-toggle" href="#"></a><ul class="dropdown-menu">
+  <li><a href="/">Profile</a></li>
+  <li><a href="https://like.fm/settings">Settings</a></li>
+  <li class="divider"></li>
+  <li><a id="signout" href="/signout">Logout</a></li>
+</ul>
+<li>
+                        </ul>
+                        <ul class="unstyled signed-out">
+                            <li>
+                                <a class="signin" href="https://like.fm/login">Login</a>
+                            </li>
+                            <li class="signup">
+                                <a href="https://like.fm/signup">Sign Up</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div id="loginform">
+                    <form method="post" action="https://like.fm/user/auth">
+                        <input name="username" id="username" type="text" value="username or email" placeholder="username or email" /><input name="password" id="password" type="password" value="password" placeholder="password" /><input type="submit" name="submit" value="Login" />
+                        <label><input type="checkbox" name="persist" id="persist" value="yes" checked="checked" /> Stay logged in</label> | <a href="/settings/reset-password">Forgot password?</a>
+                        <div id="login-error"></div>
+                    </form>
+                </div>
             </div>
-            <div id="lsidebar">
+        </div -->
+        <div class="topbar">
+          <div class="topbar-inner">
+            <div class="container">
+              <div class="brand"><a href="http://like.fm"><img src="/images/logo.png"></a></div>
+              <ul class="nav">
+                                    <li><a href="/charts">Charts</a></li>
+                                  </ul>              
+                <form action="/search" method="get">
+                <input type="text" name="q" placeholder="Search">
+              </form>
+              <ul class="nav secondary-nav">
+                              <li class="signed-out">
+                  <a class="signin" href="https://like.fm/login">Login</a>
+                </li>
+                <li class="signup signed-out">
+                    <a href="https://like.fm/signup">Sign Up</a>
+                </li>
+                              </ul>
             </div>
+          </div><!-- /topbar-inner -->
+        </div><!-- /topbar -->
+        <div class="container" id="pagecontainer">
             <div id="content">
                 <div id="view">
-                <div class="contentpage">
-<h2>Privacy Policy</h2>
-<p>
-We recognize that your privacy is very important and take it seriously. This Privacy Policy describes Like.fm's policies and procedures on the collection, use and disclosure of your information when you use the Like.fm Service. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Service.
-</p>
-<h2>Like.fm Software</h2>
-<p>
-If you choose to download Like.fm software, it will monitor music you listen to on your computer. It will send this information to Like.fm. This information will be used to learn your music tastes and create an accurate profile reflecting your music preferences. Like.fm is not liable for any damage that may occur to your computer as a result of downloading and using Like.fm software, nor shall it be liable for any invasion of privacy related to the same.
-<br><br>
-Like.fm provides an API which allows public access to the music information you provide through the software. This allows third party applications to be created which take advantage of this data across users to produce innovative and new applications for the data. Information for the API can be requested by emailing chris@like.fm. Only public profile information normally visible through the regular web interface will be exposed through the API.
-</p>
-<h2>Information Collection and Use</h2>
-<p>
-Like.fm uses information we collect to analyze how the Service is used, diagnose service or technical problems, maintain security, personalize content, remember information to help you efficiently access your account, monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns, and track User Content and users as necessary to comply with the Digital Millennium Copyright Act and other applicable laws.
-<br><br>
-User-Provided Information: You provide us information about yourself, such as your name and e-mail address, if you register for a member account with the Service. Your name and other information you choose to add to your profile will be available for public viewing on the Service. We may use your email address to send you Service-related notices (including any notices required by law, in lieu of communication by postal mail). You can control receipt of certain Service-related messages on your Settings page. We may also use your contact information to send you marketing messages. If you do not want to receive such messages, you may opt out by following the instructions in the message. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.
-<br><br>
-You also provide us information in User Content you post to the Service. Your questions, answers, and other contributions on the Service, and metadata about them (such as when you posted them), are publicly viewable on the Service, along with your name (unless the Service permits you to post anonymously). This information may be searched by search engines and be republished elsewhere on the Web in accordance with our Terms of Service.
-<br><br>
-If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person's email address and automatically send an email invitation. Like.fm stores this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation service.
-<br><br>
-Cookies: When you visit the Service, we may send one or more "cookies" - small data files - to your computer to uniquely identify your browser and let Like.fm help you log in faster and enhance your navigation through the site. A cookie may convey anonymous information about how you browse the Service to us, but does not collect personal information about you. A persistent cookie remains on your computer after you close your browser so that it can be used by your browser on subsequent visits to the Service. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
-<br><br>
-Log Files: Log file information is automatically reported by your browser each time you access a web page. When you use the Service, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
-<br><br>
-Clear GIFs Information: When you use the Service, we may employ clear GIFs (also known as web beacons) which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your Like.fm account is collected using these clear GIFs. In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting and make Like.fm better for our users.
-<br><br>
-Third Party Services: Like.fm may use Google Analytics or Mixpanel to help understand use of the Service. Google Analytics and Mixpanel collect the information sent by your browser as part of a web page request, including cookies and your IP address. Google Analytics and Mixpanel also receive this information and their use of it is governed by their Privacy Policies.
-</p>
+                  <div class="row">
+  <div class="span16">
+    <div class="page-header">
+      <h1>LIKE.FM PRIVACY NOTICE <small>October 14, 2011</small></h1>
+    </div>
+  
+  <p>
+  Effective: October 14, 2011
+  </p>
 
-<h2>How We Share Your Information</h2>
-<p>
-Personally Identifiable Information: Like.fm may share your personally identifiable information with third parties for the purpose of providing the Service to you. If we do this, such third parties' use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of Like.fm (for instance, on servers or databases co-located with hosting providers).
-<br><br>
-As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, or dissolution.
-<br><br>
-We may share or disclose your information with your consent, such as if you choose to sign on to the Service through a third-party service. We cannot control third parties' use of your information.
-<br><br>
-Like.fm may disclose your personal information if required to do so by law or subpoena or if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Like.fm's rights or property.
-<br><br>
-Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Like.fm services.
-<br><br>
-Like.fm may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on Like.fm. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. Like.fm does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks like.fm to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach. The Like.fm Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.
-</p>
-<h2>How We Protect Your Information</h2>
-<p>
-Like.fm uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Like.fm or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
-<br><br>
-In the event that personal information is compromised as a result of a breach of security, Like.fm will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
-<br><br>
-Your Choices About Your Information
-<br><br>
-You may, of course, decline to submit personally identifiable information through the Service, in which case Like.fm may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by logging in to your account.
-</p>
-<h2>Children's Privacy</h2>
-<p>
-Protecting the privacy of young children is especially important. Like.fm does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register with the Service. If we become aware that we have collected personal information from a child under age 13 without verification of parental consent, we take steps to remove that information.
-</p>
-<h2>Links to Other Web Sites</h2>
-<p>
-We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website's own rules and policies.
-</p>
+  <p>
+  Thank you for using the services available through the Like.fm software and the website at the domain name Like.fm, each, that are provided by Like.fm, Inc. (the “Like.fm Service”).  At Like.fm, we strive to make your online experience with us secure and satisfying.  This Privacy Notice describes and governs what information we gather from you, how we use that information, and what we do to protect it.  By using the Like.fm Service, you expressly consent to the information handling practices described in this Policy.  If you do not want information about you to be used in the manner set forth in this Privacy Notice, please do not use the Like.fm Service.  This Privacy Notice is expressly incorporated into our Terms of Use.  Your use of the Like.fm Service and any personal information you provide through the Like.fm Service are subject to this Privacy Notice and the Terms of Use at all times. 
+  </p>
+
+  <section>
+  <h2>CHANGES AND UPDATES</h2>
+  <p>
+  We may periodically revise this Privacy Notice.  Please revisit this page to stay current with any changes.  The most recent version of this Policy will always be available on the Like.fm Service.  The effective date of any changes will be posted at the top of this page.  For changes to this Privacy Notice that may be materially less restrictive on our use or disclosure of personal information you have provided to us, we will attempt to obtain your consent before implementing the change.  Your continued use of the Like.fm Service constitutes your agreement to this Privacy Notice and any future revisions.  
+  </p>
+  </section>
+  <section>
+  <h2>INFORMATION LIKE.FM COLLECTS</h2>
+    Like.fm collects two types of data about users:  (1) information that you or others voluntarily submit to us (described below under “User-Supplied Information”) and (2) technical data automatically collected from all visitors to the Like.fm Service (described below under “Automatically Collected Data”).  
+    
+
+  <dl>
+    <dt>User-Supplied Information:</dt>  <dd>In using the Like.fm Service, for example when you register with us, or if you send us an email, you will provide Like.fm with data generally called “personally identifiable” information.  If you choose to provide such information, you are giving Like.fm permission to use and store that information consistent with this policy.  Additionally, please know that when you register or sign in to the Like.fm Service, you are not anonymous to us.  
+      <ul>
+        <li>
+        Facebook Connect: You may connect your Like.fm account with your Facebook account. In order to do so, you will need to provide us with access to the information on your Facebook account through Facebook Connect. By doing so, you understand and authorize us to use all the information exposed to us through Facebook Connect pursuant to this Privacy Notice, including your status updates, photos, videos, name, email address and information regarding your friends on Facebook. You should check your Facebook settings to manage the information sent to third parties through Facebook Connect.
+        </li>
+      </ul>
+    </dd>
+    
+    <dt>Automatically Collected Data:</dt>  <dd>The Like.fm Service operating on a website automatically logs non-personally identifiable information such as Internet Protocol address (“IP Address”), a unique user ID, the content and pages that you access on the Like.fm Service and the dates and times that you visit the Like.fm Service.  In addition, if you come to the Like.fm Service via a link from another site, we may also track the source of that link. 
+
+    <ul>
+      <li>Information Regarding “Cookies”:  Like many other websites, the Like.fm Service may send one or more cookies – small text files containing a string of alphanumeric characters – to your computer.  Like.fm may use cookies to track user traffic patterns as described above.  Like.fm may use both session cookies and persistent cookies.  A session cookie disappears after you close your browser.  A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Like.fm Service.  Persistent cookies can be removed.  You can refuse cookies by turning them off in your browser, however, some features on the Like.fm Service may not function properly if your cookies are disabled.  Please review your web browser “Help” file to modify your cookie settings.
+      </li>
+    </ul>
+  </dd>
+
+  <dt>Information we Obtain from Other Sources.</dt> <dd>We may collect information about you from other sources, including from partners, and from commercially available sources (such as data aggregators and public databases). The following are examples of information we may collect from other sources:
+  •	Data you authorize us to access through your use of Facebook Connect.
+  </dd>
+  
+  </dl>
+
+  <p>
+  In general, the types and amount of personally identifiable information we collect vary depending on the activity.  Like.fm endeavors to limit the collection of personally identifiable information to information we believe is minimally necessary to achieve our stated collection purposes.
+  </p>
+  </section>
+  
+  <section>
+  <h2>THE WAY LIKE.FM USES INFORMATION</h2>
+  <p>
+  Like.fm uses personally identifiable information to establish and enhance our relationship with you.  Like.fm may use the information that you provide, or that we collect, to operate, maintain, enhance, and deliver the various features and services found on the Like.fm Service; as well as to track user-generated content and users to comply as a service provider with the DMCA and other applicable laws.</p>
+  <p>
+  Like.fm uses all of the information that we collect from users to understand and analyze the usage trends and preferences of our users, to improve the way the Like.fm Service works and looks, and to create new features and functionality.  Further, Like.fm may use automatically collected data to: (a) remember your information so that you will not have to re-enter it during your visit or the next time you visit Like.fm; (b) monitor your participation in various sections of the Like.fm Service; (c) customize our service to you, including by providing you with recommendations and (c) monitor aggregate site usage metrics such as total number of visitors and pages viewed.</p> 
+  <p>
+  We may use your e-mail address for administrative communications such as notifying you of major Like.fm Service updates, for customer service purposes, and to send privacy or security-related notices.  We may store and use your friends’ contact information to invite them to join and connect with you on the Like.fm Service. Your friends’ will always have the ability to opt-out of receiving further email messages or SMS from Like.fm.
+  </p>
+  </section>
+  <section>
+  <h2>HOW LIKE.FM MAY DISCLOSE INFORMATION</h2>
+  <p>
+  We may share your personally identifiable information with companies that provide services to us, including outside vendors, contractors, or agents who help us manage our business activities.  Such entities only use your personal information in accordance with this Privacy Notice and for no other purpose than to provide us with necessary services.  
+  </p>
+
+  <p>
+  Like.fm may disclose personally identifiable information if required to do so by law or under the good faith belief that such action is necessary to comply with state and federal laws (including, without limitation, U.S. copyright or trademark laws) or respond to a court order, subpoena, judicial or other governmental requirement or warrant in a manner required by the requesting entity.  
+  </p>
+  <p>
+  Like.fm also reserves the right to disclose personally identifiable information that we believe, in good faith, is appropriate or necessary to take precautions against liability; enforce our Terms of Use; protect Like.fm from fraudulent, abusive, or unlawful uses; to initiate, render, bill and collect for amounts owed to Like.fm; to investigate and defend ourselves against third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Like.fm Service; or to protect the rights, property, or personal safety of Like.fm, our Users, or others.  
+  </p>
+  <p>
+  In the event that Like.fm is acquired by, merged with, or our assets are transferred to, another entity, such entity may be able to use your personal information under the terms of this Privacy Notice.
+  </p>
+  </section>
+
+  ACCESS TO YOUR PERSONAL INFORMATION 
+
+  If you register as a member of Like.fm, you may update, correct, or delete your profile information and preferences at any time by e-mailing us privacy@Like.fm.  To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information.  You are responsible for maintaining the secrecy of your unique password and account information at all times.  
+
+  CHILDREN
+
+  Like.fm does not knowingly collect or retain personally identifiable information about persons under 13 years of age.  Any person who provides their personal information to Like.fm through this website represents that they are 13 years of age or older.  If Like.fm learns that personally identifiable information of persons under the age of 13 years has been collected on the Like.fm Service without verifiable parental consent, then Like.fm will take the appropriate steps to delete this information.  
+
+  If you are a parent or guardian and discover that your child under the age of 13 has obtained a Like.fm Service account, then you may alert Like.fm at privacy@Like.fm and request that Like.fm delete that child’s personal information from its systems.  
+
+  DATA SECURITY  
+
+  Like.fm uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information.  However, no data transmissions over the Internet can be guaranteed to be 100% secure.  We cannot, therefore, ensure or warrant the security of any information you transmit to Like.fm, and you do so at your own risk.  Please know that although we make our best efforts to keep your information secure, this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.  
+
+  If Like.fm learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps.  By using this website or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this website.  Like.fm may post a notice on the Like.fm Service if a security breach occurs.  Depending on where you live, you may have a legal right to receive notice of a security breach in writing.  To receive a free written notice of a security breach, or to opt out of receiving electronic notice you should notify us at privacy@Like.fm. 
+
+  INTERNATIONAL VISITORS
+
+  The Like.fm Service is hosted in the United States.  If you visit the Like.fm Service from the European Union or other regions of the world with laws governing data collection and use that may differ from laws of the United States, then please understand that you are transferring your personally identifiable information outside of those jurisdictions to the United States for the uses identified above in accordance with this Privacy Notice.  By providing your personally identifiable information on the Like.fm Service you consent to that transfer.  
+
+  THIRD PARTIES
+
+  Except as expressly provided otherwise, this document addresses only the use and disclosure of information that the Like.fm Service collects from you or that you disclose to us.  If you disclose your information to others besides Like.fm different rules may apply to their use or disclosure of the information you disclose to them.  Like.fm does not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable.  We encourage you to ask questions before you disclose your personal information to others.  	 
+
+  CONTACT 
+
+  Please contact Like.fm with any questions or comments about this Privacy Notice, your personal information, our third-party disclosure practices, or your consent choices by e-mail at privacy@Like.fm or by mail at Attn: Like.fm Inc., Privacy Matters, 548 Market St #31291, San Francisco, California 94104.
+  </div>
 </div>
  
                 </div>
             </div>
-            <div id="socialstuff">
-                <a href="http://www.twitter.com/likedotfm" target="_blank"><img src="http://twitter-badges.s3.amazonaws.com/twitter-b.png" alt="Follow Like.fm on Twitter"></a>
-                <span id="ilikeyou">Hey just so you know, I like you too.</span>
-                <fb:like href="http://like.fm" show_faces="false" ref="website"></fb:like>
-                <br><br>
-                <a href="https://american.redcross.org/site/Donation2?5052.donation=form1&amp;df_id=5052&amp;idb=0" target="_blank">Donate</a> to support earthquake and tsunami relief efforts in Japan.
-            </div>
-            <div id="footer">Copyright © 2011 Like.fm, Inc. All Rights Reserved<br><a href="/tos">Terms of Service</a> | <a href="/privacy">Privacy Policy</a> | <a href="/developers">Developers</a> | chris@like.fm
-            <div class="foot-badges">
-            <a href="http://mixpanel.com/?from=partner"><img src="http://mixpanel.com/site_media/images/mixpanel_partner_logo.gif" alt="Mobile Analytics by Mixpanel"></a>
-            </div>
+            <div class="row">
+              <div class="span16" id="socialstuff">
+                  <a href="http://www.twitter.com/likedotfm" target="_blank"><img src="https://twitter-badges.s3.amazonaws.com/twitter-b.png" alt="Follow Like.fm on Twitter"></a>
+                  <span id="ilikeyou">Hey just so you know, I like you too.</span>
+                  <fb:like href="http://like.fm" show_faces="false" ref="website"></fb:like>
+              </div>
+              <div class="span16" id="footer">Copyright © 2011 Like.fm, Inc. All Rights Reserved<br><a href="/tos">Terms of Service</a> | <a href="/privacy">Privacy Policy</a> | <a href="/developers">Developers</a> | chris@like.fm
+                  <div class="foot-badges">
+                  <a href="http://mixpanel.com/?from=partner"><img src="https://mixpanel.com/site_media/images/mixpanel_partner_logo.gif" alt="Mobile Analytics by Mixpanel"></a>
+                  </div>
+              </div>
             </div>
         </div>
-
-        <div id="extern-wrapper"><div id="extern"><div id="extern-bg"></div><div id="extern-controls"><a href="#" class="button" id="extern-close">Close</a></div><iframe id="extern-frame"></iframe></div></div>
+ 
         <script type="text/javascript">
         var uservoiceOptions = {
           /* required */
@@ -250,7 +326,7 @@ We are not responsible for the practices employed by websites linked to or from 
           hover_color: '#06C',
           lang: 'en'
         };
-
+ 
         function _loadUserVoice() {
           var s = document.createElement('script');
           s.setAttribute('type', 'text/javascript');
@@ -278,11 +354,10 @@ We are not responsible for the practices employed by websites linked to or from 
           window.onload = (typeof window.onload != 'function') ?
              loadChartbeat : function() { oldonload(); loadChartbeat(); };
         })();
-
+ 
         </script>
         <script type="text/javascript"> var mp_protocol = (('https:' == document.location.protocol) ? 'https://' : 'http://'); document.write(unescape('%3Cscript src="' + mp_protocol + 'api.mixpanel.com/site_media/js/api/mixpanel.js" type="text/javascript"%3E%3C/script%3E')); </script><script src="https://api.mixpanel.com/site_media/js/api/mixpanel.js" type="text/javascript"></script> <script type="text/javascript"> try {  var mpmetrics = new MixpanelLib('18f6469de5e22fa52d7d01d8c858865f'); } catch(err) { null_fn = function () {}; var mpmetrics = {  track: null_fn,  track_funnel: null_fn,  register: null_fn,  register_once: null_fn, register_funnel: null_fn }; } </script>
                 
     
-
 
 <script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
