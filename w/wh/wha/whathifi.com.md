@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whathifi.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512010921id_/http%3A//www.whathifi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whathifi.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109054631id_/http%3A//www.whathifi.com/privacy-policy) for the most accurate reproduction.*
 
-# Haymarket Privacy Policy | TV, home cinema and hi-fi reviews, news and videos - whathifi.com
+# Haymarket Privacy Policy | whathifi.com
 
 **1\. Introduction**
 
@@ -96,4 +96,4 @@ Middlesex
 TW11 9BE
 
 EMAIL:  
-[datacontroller@haymarket.com](mailto:datacontroller@haymarket.com)
+[atacontroller@haymarket.com">datacontroller@haymarket.com](https://web.archive.org/web/20111109054631id_/http%3A//www.whathifi.com/mailto%3Cimg%20src= "laughing out loud")
