@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animaldiversity.org privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514104633id_/http%3A//animaldiversity.ummz.umich.edu/site/about/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animaldiversity.org privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109150220id_/http%3A//animaldiversity.ummz.umich.edu/site/about/privacyPolicy.html) for the most accurate reproduction.*
 
 # ADW: Privacy Policy
 
