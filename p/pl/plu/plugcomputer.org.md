@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plugcomputer.org privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630221258id_/http%3A//plugcomputer.org/index.php/us/component/content/article/63) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plugcomputer.org privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109073553id_/http%3A//plugcomputer.org/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Marvell Technology Group Ltd. ("Marvell") is committed to respecting the privacy
 
 ### AWARENESS
 
-#### What we collect
+**What we collect**
 
 User Provided Information: You may provide to Marvell what is generally called "personally identifiable" information when you register or at other times (for example, in connection with correspondence between you and Marvell), such as name and e-mail address.
 
@@ -14,7 +14,7 @@ User Provided Information: You may provide to Marvell what is generally called "
 
 "Automatically Collected" Information: When you visit the PlugComputer Service or open one of our HTML emails, we may record certain information from your web browser by using different types of technology. This "automatically collected" information may include your Internet Protocol address ("IP Address"), web browser type, the web pages or sites that you visit just before or just after the PlugComputer Service, the pages you view on our site, and the dates and times that you visit.
 
-#### How we use it
+**How we use it**
 
 Marvell uses your information to better understand your needs and provide you with better service. We may use your email address, without further consent, for non-marketing or administrative purposes such as notifying you of major updates.
 
@@ -24,7 +24,7 @@ Marvell may use automatically collected information and cookies information to: 
 
 Marvell will not use your email address or other personally identifiable information to send promotional or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in.
 
-#### Who we share it with
+**Who we share it with**
 
 Marvell will not sell, rent or lease your personally identifiable information to others. Unless we have your permission, we will only share the personal data you provide online with other Marvell entities and/or business partners who are acting on our behalf for the uses described above. Such Marvell entities and/or business partners, including those in the United States and/or any other countries, are governed by our privacy policies with respect to the use of this data and are bound by confidentiality agreements.
 
@@ -38,7 +38,7 @@ Links to third party Web sites on the site are provided solely as a convenience 
 
 No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make reasonable efforts to ensure security on our systems. We use secure firewalls to protect your information from unauthorized access, disclosure, alteration, or destruction. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of such firewalls and/or other security software.
 
-If Marvell learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. By using the PlugComputer Service or providing personal information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the PlugComputer Service. Marvell may post a notice on the PlugComputer Service if a security breach occurs. Marvell may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us via email at [privacy@marvell.com](mailto:privacy@marvell.com) .
+If Marvell learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. By using the PlugComputer Service or providing personal information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the PlugComputer Service. Marvell may post a notice on the PlugComputer Service if a security breach occurs. Marvell may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us via email at [privacy@marvell.com](mailto:privacy@marvell.com) This e-mail address is being protected from spambots. You need JavaScript enabled to view it.
 
 ### INTERNATIONAL USERS
 
@@ -59,10 +59,10 @@ If Marvell should ever file for bankruptcy or have some or all of its assets sol
 
 ### CONTACT
 
-If you have comments or questions about our privacy policy, please send them to this email address: [privacy@marvell.com](mailto:privacy@marvell.com) .
+If you have comments or questions about our privacy policy, please send them to this email address: [privacy@marvell.com](mailto:privacy@marvell.com) This e-mail address is being protected from spambots. You need JavaScript enabled to view it.
 
 ### PRIVACY POLICY CHANGES
 
 We may occasionally update this privacy policy. When we do, we will also revise the "Last Updated" section below. For changes to this privacy policy that may be materially less restrictive on our use or disclosure of personal information that you have provided to us, we will attempt to obtain your consent before implementing the change. We encourage you to periodically review this privacy policy to stay informed about how we are protecting the personal information we collect. Your continued use of the PlugComputer Service constitutes your agreement to this privacy policy and any updates.
 
-**Last Updated: March 15, 2009**
+Last Updated: March 15, 2009
