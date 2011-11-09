@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motifator.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511223753id_/http%3A//motifator.com/index.php/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motifator.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109163634id_/http%3A//www.motifator.com/index.php/privacypolicy) for the most accurate reproduction.*
 
 # motifator.com - privacypolicy
 
