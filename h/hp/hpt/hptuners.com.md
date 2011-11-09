@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hptuners.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505044028id_/http%3A//www.hptuners.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hptuners.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109212736id_/http%3A//www.hptuners.com/privacypolicy.php) for the most accurate reproduction.*
 
 # HPTuners.com >> Performance At Your Fingertips
 
