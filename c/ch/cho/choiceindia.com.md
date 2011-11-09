@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the choiceindia.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120201101id_/http%3A//choiceindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choiceindia.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109013959id_/http%3A//www.choiceindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Choice International - Success is a Matter of Choice
 
