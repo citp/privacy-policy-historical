@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readymaderesources.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512020447id_/http%3A//www.readymaderesources.com/cart/index.php%3F_a%3DviewDoc%26docId%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readymaderesources.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109074220id_/http%3A//www.readymaderesources.com/cart/index.php%3F_a%3DviewDoc%26docId%3D4) for the most accurate reproduction.*
 
-# Ready Made Resources Solar Power Disaster Preparedness Store Emergency Supplies - Privacy Policy - (Powered by CubeCart)
+# Privacy Policy - Ready Made Resources Solar Power Disaster Preparedness Store Emergency Supplies
 
 **Ready Made Resources  Privacy Policy**
 
