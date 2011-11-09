@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the wsbradio.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511231044id_/http%3A//www.wsbradio.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsbradio.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109075120id_/http%3A//www.wsbradio.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | www.wsbradio.com
 
 **Online Privacy Statement**  
-Last updated July 24, 2007
+Last updated August 24, 2011
 
- **Cox Radio respects the privacy of visitors to our site. Please read this Privacy Statement carefully so that you understand our privacy practices relating to information we gather through this website.** Other policies may apply to information we gather elsewhere.
+  
+ **Cox  Radio respects the privacy of visitors to our site. Please read this Privacy Statement carefully so that you understand our privacy practices relating to information we gather through this website.** Other policies may apply to information we gather elsewhere.
 
-Questions regarding privacy issues should be directed to this Cox Radio station, to the attention of the General Manager. Click on the web site "contact us" link to find station address and personnel information.
+Questions regarding privacy issues should be directed to this Cox Radio, to the attention of the General Manager. Click on the web site "contact us" link to find station address and personnel information.
 
  **Protecting the Privacy of Children**
 
@@ -41,7 +42,13 @@ From time to time, we may offer sweepstakes or other promotions on our website. 
 
 To make our site more valuable to our visitors, we offer some features in conjunction with other providers. Our message board services, for example, are made available through cooperative arrangements with providers that specialize in operating such services. Our site includes links to plenty of other websites, and provides access to products and services offered by third parties, whose privacy practices we don't control. When you access another website, use of any information you provide is governed by the privacy statement of the operator of that site. And when you provide information in the course of obtaining products or services through our site, use of any information you provide may be governed by the privacy policy of the provider of those products or services, even if it appears that you're on Cox Radio-branded pages throughout the transaction. The provider's privacy policy may differ from ours. If you can't find the privacy statement of any of our provider partners via a link either from the site's homepage or from the pages on which the products or services are offered, you should contact the provider directly for more information.
 
-We use a third-party advertising company DoubleClick -- to serve ads when you visit our website. DoubleClick does not use your name, address, email address, or phone number to deliver Internet ads. DoubleClick does use information about your browser and Web surfing to determine which ads to show you. If you would like more information about DoubleClick's practices, [click here](http://www.doubleclick.com/us/).
+ **Data Collected in Connection with Ad Serving and Targeting**
+
+We use third-party service providers, such as ad networks, to serve advertising to you when you visit our Site.  These service providers may use information about your activities while you navigate through this Site and other web sites and that they collect through cookies to provide you with advertisements about products and services that they think may be of interest to you.  The information used by these service providers for these purposes generally does not identify you personally (in other words, the service providers are not using your name, address, email address, or phone number for these purposes) but it may include the IP address of your computer.  Instead, it only relates to your behavior while on this site and other websites: what ads you clicked on, what content you viewed, etc.  You can learn more about such data collection practices, and/or opt out of any use by our service providers’ of cookies to tailor advertising to your interests, by visiting [aboutads.info](http://www.aboutads.info/).
+
+ **CMG’s Adherence to Self-Regulatory Principles for Online Behavioral Advertising**
+
+CMG adheres to the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance.  To learn more about the Principles and your choices when it comes to the use of online behavioral advertising data by advertisers and ad servers across the Internet, visit [aboutads.info](http://www.aboutads.info/).
 
  **Disclosures**
 
@@ -55,7 +62,7 @@ We may occasionally release information about our visitors when release is appro
 
  **Security**
 
-Information we gather on our website is stored within Cox Radio controlled databases (or databases hosted on our behalf) on servers maintained in protected environments. However, no physical or electronic security system is impenetrable. We cannot guarantee the security of our servers or databases, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. And, of course, any information you post to any message board or other public posting area is available to anyone with Internet access. If you don't want people to know your email address, for example, don't include it in any message you post publicly. In the extremely unlikely event of a breach of database security, all listeners who have provided us a valid email address will be notified of this occurrence by the radio station.
+Information we gather on our website is stored within Cox Radio controlled databases (or databases hosted on our behalf) on servers maintained in protected environments. However, no physical or electronic security system is impenetrable. We cannot guarantee the security of our servers or databases, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. And, of course, any information you post to any message board or other public posting area is available to anyone with Internet access. If you don't want people to know your email address, for example, don't include it in any message you post publicly. In the extremely unlikely event of a breach of database security, all listeners who have provided us a valid email address will be notified of this occurrence by the radio station.
 
  **Changes to This Privacy Statement**
 
