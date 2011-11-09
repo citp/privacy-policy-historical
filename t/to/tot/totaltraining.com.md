@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totaltraining.com privacy policy that was archived on 2011-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110403180422id_/http%3A//www.totaltraining.com/corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaltraining.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109040235id_/http%3A//www.totaltraining.com/corp/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,7 +51,7 @@ We reserve the right to change this Privacy Policy at any time. Such changes, mo
 **4.1** We believe you should have the ability to access and edit the Personally Identifiable Information that you have provided to us. You may change any of your Personally Identifiable Information in your account online at any time by linking to your account in accordance with instructions posted elsewhere on this site. You may also access and correct your personal information and privacy preferences by emailing us at customerservice@totaltraining.com or writing us at: 
 
 Total Training, Inc.  
-1819 Aston Avenue, Suite 105  
+1930 Palomar Point Way, Suite 106  
 Carlsbad, CA 92008 
 
 Please include your name, address, and/or email address when you contact us. 
@@ -92,7 +92,7 @@ Please include your name, address, and/or email address when you contact us.
 
 Total Training, Inc.  
 ATTN: Privacy Compliance Officer  
-1819 Aston Avenue, Suite 105  
+1930 Palomar Point Way, Suite 106  
 Carlsbad, CA 92008 
 
 You may also contact us by email at customerservice@totaltraining.com. 
@@ -113,7 +113,7 @@ These methods are not all-inclusive and Total Training may at some time use othe
 Individuals wishing to be removed from the opt-in database may do so in the following ways:
 
   * Unsubscribe online [here](http://echo.bluehornet.com/clients/totaltraining/change.htm).
-  * Call Total Training at 1-888-368-6825 (outside of US dial 1-760-517-9001), Monday through Friday, 8:00am-5:00pm Pacific Time.
+  * Call Total Training at 1-800-546-9620 (outside of US dial 1-760-517-9001), Monday through Friday, 8:00am-5:00pm Pacific Time.
 
 
 
@@ -133,12 +133,12 @@ Total Training does not share or otherwise distribute any information collected 
 Questions regarding our Privacy Policy may be addressed to Total Training in the following ways: 
 
   * By email message addressed to [tt-webmaster@totaltraining ](mailto:tt-webmaster@totaltraining.com?subject=Question%20about%20Privacy%20Policy)
-  * By telephone, dial toll-free 1-888-368-6825 (outside of US dial 1-760-517-9001, toll charges may apply)
+  * By telephone, dial toll-free 1-800-546-9620 (outside of US dial 1-760-517-9001, toll charges may apply)
   * By letter addressed to:
 
 
 
 Total Training  
-1819 Aston Avenue, Suite 105  
+1930 Palomar Point Way, Suite 106  
 Carlsbad, CA 92008  
 Attention: Online Marketing 
