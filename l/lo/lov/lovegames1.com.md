@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lovegames1.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611182956id_/http%3A//www.lovegames1.com/info_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovegames1.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109060951id_/http%3A//www.lovegames1.com/info_privacy.html) for the most accurate reproduction.*
 
-# None
+# Privacy Policy
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
