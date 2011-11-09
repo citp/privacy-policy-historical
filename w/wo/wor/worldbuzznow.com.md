@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldbuzznow.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616033059id_/http%3A//www.worldbuzznow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldbuzznow.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109124137id_/http%3A//www.worldbuzznow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | World Buzz Now!
 
