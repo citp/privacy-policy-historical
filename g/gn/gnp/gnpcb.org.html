@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gnpcb.org privacy policy that was archived on 2011-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624102419id_/http%3A//www.crossway.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gnpcb.org privacy policy that was archived on 2011-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111109095931id_/http%3A//www.crossway.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
   
@@ -18,7 +18,9 @@
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
     <script type="text/javascript" src="/js/jquery.clearInput.js"></script>
     <script type="text/javascript" src="/js/jquery.corner.js"></script>
-    <script type="text/javascript">    
+    <link rel="stylesheet" href="/js/prettyPhoto/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8">
+    <script src="/js/prettyPhoto/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript">
       $(document).ready(function() {
         $('.pagination a, .pagination span').corner("3px");
         $(".searchbx").clearDefault();        
@@ -38,20 +40,37 @@
           window.open($(this).attr('href'),'pop','width=600,height=500,scrollbars=1'); return false;
         });
         // Cookie for the alert div
-        now = new Date();
-        expires = new Date("June 06 2011 23:59:59");
-        if (now < expires){
-          if(document.cookie.indexOf('alerts=off') == -1) {
-            document.cookie = "alerts=on; expires='Mon, 06 Jun 2011 23:59:59 CST'; path=/;";
-          }
-          if(document.cookie.indexOf('alerts=on') != -1) { 
-            $('#alert-message').show().find('a').click(function(){
-              document.cookie = "alerts=off; expires='Mon, 06 Jun 2011 23:59:59 CST'; path=/;";
-              $(this).parent('div').slideUp('fast');
-              return false;
-            });
-          }
+        alert = true;
+        if (alert) {
+        now = new Date(); 
+        starts = new Date("Oct 21 2011 13:00:00 -05:00"); expires = new Date("Oct 31 2011 13:00:00 -05:00");
+        if (starts < now && now < expires){
+            nextday = new Date("Oct 26 2011 13:00:00 -05:00"); twoday = new Date("Oct 25 2011 13:00:00 -05:00"); threeday = new Date("Oct 24 2011 13:00:00 -05:00");
+            shipby = "Next";
+            if(now < nextday){
+              if(now < threeday){
+                shipby = "3rd";
+              } else if(now < twoday){
+                shipby = "2nd";
+              }
+            }
+            $('#alert-message').html('<strong>Please note:</strong> In order to guarantee that you will receive your order by Halloween, you must choose UPS ' + shipby + ' Day Air as your shipping option.').show();
         }
+//        if (now < expires){
+//          if(document.cookie.indexOf('alerts1031=off') == -1) {
+//            document.cookie = "alerts1031=on; expires='Mon, 31 Oct 2011 13:00:00 CST'; path=/;";
+//          }
+//          if(document.cookie.indexOf('alerts1031=on') != -1) {            
+//            $message = $('#alert-message').append('<a href="">[x] close</a>');
+//            $message.show().find('a').live('click', function(){
+//              document.cookie = "alerts1031=off; expires='Mon, 31 Oct 2011 13:00:00 CST'; path=/;";
+//              $(this).parent('div').slideUp('fast');
+//              return false;
+//            });
+//          }
+//        }
+        } // end of alert
+
         $('.tip-link').click(function() {
           $(this).next('.tip').toggle('fast');
           return false;
@@ -60,6 +79,7 @@
           $(this).parent().hide('fast');
           return false;
         });
+        $(".video-link, .modal").prettyPhoto();
       });
     </script>
     
@@ -120,10 +140,7 @@
 
       
 
-      <div id="alert-message" style="display: none;">
-        <a href="">[x] close</a> 
-        <p>Due to our annual inventory, we will not be able to ship any orders until June 6th.</p>
-      </div>
+      <div id="alert-message" style="display: none;"></div>
 
       
       <div id="banner-image"></div>
@@ -150,7 +167,7 @@
       <div id="content">
         
         <h1>Privacy Policy</h1>
-        <p>The following policy applies to usage of our website and orders placed thereon. For information about our “offline” privacy policy, please contact Customer Service.</p>
+<p>The following policy applies to usage of our website and orders placed thereon. For information about our “offline” privacy policy, please contact Customer Service.</p>
 
 <p>Good News / Crossway respects your privacy. We will not share your name with other organizations unless you indicate that we may do so.</p>
 
