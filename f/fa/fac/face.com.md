@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the face.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523063426id_/http%3A//developers.face.com/docs/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the face.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109091817id_/http%3A//developers.face.com/docs/terms/privacy) for the most accurate reproduction.*
 
 # face.com developers site » Privacy Policy
 
@@ -8,13 +8,12 @@ Face.com values your privacy and wishes to maintain transparency with regards to
 We've set up this Privacy policy in strict adherence to both the [EU Standards](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:EN:HTML) and the [US Guidelines for Privacy Protection](http://export.gov/safeharbor/eg_main_018247.asp); If you have any questions about this Privacy Policy, please feel free to [contact us](http://face.com/contact.php) through our website or write to us at:
 
 Privacy Matters  
-face.com (Vizi Labs Inc.)  
-Rotchnild 62  
-Tel Aviv  
-Israel
+Face.com Inc.  
+548 Market St #45134  
+San Francisco, California 94104
 
 1\. **Who Are We?**  
-Face.com is operated by Vizi Labs Inc. We provide a platform for social networking applications that allow users to interact with friends through photo tagging, and face search within photos of you or your friends.
+Face.com is operated by Face.com Inc. We provide a platform for social networking applications that allow users to interact with friends through photo tagging, and face search within photos of you or your friends.
 
 2\. **What information is being collected?**  
 We collect information from social networking sites you signed up to, and with strict accordance to their privacy policy and terms of use. We only receive information that you decided to disclose to 3rd party applications. For example, if one of your friends signed up for our service, and you allowed 3rd party applications to view your photo and friend list, and your friend is allowed to view your photo and friend list, then we can let your friend tag and search you in photos.
