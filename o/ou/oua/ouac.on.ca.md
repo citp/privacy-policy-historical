@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ouac.on.ca privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613185547id_/http%3A//www.ouac.on.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ouac.on.ca privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109215103id_/http%3A//www.ouac.on.ca/privacy) for the most accurate reproduction.*
 
 # Privacy | Ontario Universities' Application Centre
 
@@ -8,12 +8,12 @@ The Ontario Universities’ Application Centre (OUAC) is committed to protecting
 
 ### Division-specific Declaration and Notice of Collection, Use, Disclosure and Treatment of Your Personal Information
 
-  * OMSAS: [OMSAS (Ontario Medical School Application Service)](https://web.archive.org/web/20110613185547id_/http://www.ouac.on.ca/privacy/omsas-declaration)
-  * OLSAS: [OLSAS (Ontario Law School Application Service)](https://web.archive.org/web/20110613185547id_/http://www.ouac.on.ca/privacy/olsas-declaration)
-  * TEAS: [TEAS (Ontario Faculties of Education)](https://web.archive.org/web/20110613185547id_/http://www.ouac.on.ca/privacy/teas-declaration)
-  * ORPAS: [ORPAS (Ontario Rehabilitation Sciences Programs Application Service)](https://web.archive.org/web/20110613185547id_/http://www.ouac.on.ca/privacy/orpas-declaration)
-  * OUAC 105: [105 (Ontario University[ies] Undergraduate Program[s] [105])](https://web.archive.org/web/20110613185547id_/http://www.ouac.on.ca/privacy/105-declaration)
-  * OUAC 101: [101 (Ontario University[ies] Undergraduate Program[s] [101])](https://web.archive.org/web/20110613185547id_/http://www.ouac.on.ca/privacy/101-declaration)
+  * OMSAS: [OMSAS (Ontario Medical School Application Service)](https://web.archive.org/web/20111109215103id_/http://www.ouac.on.ca/privacy/omsas-declaration)
+  * OLSAS: [OLSAS (Ontario Law School Application Service)](https://web.archive.org/web/20111109215103id_/http://www.ouac.on.ca/privacy/olsas-declaration)
+  * TEAS: [TEAS (Ontario Faculties of Education)](https://web.archive.org/web/20111109215103id_/http://www.ouac.on.ca/privacy/teas-declaration)
+  * ORPAS: [ORPAS (Ontario Rehabilitation Sciences Programs Application Service)](https://web.archive.org/web/20111109215103id_/http://www.ouac.on.ca/privacy/orpas-declaration)
+  * OUAC 105: [105 (Ontario University[ies] Undergraduate Program[s] [105])](https://web.archive.org/web/20111109215103id_/http://www.ouac.on.ca/privacy/105-declaration)
+  * OUAC 101: [101 (Ontario University[ies] Undergraduate Program[s] [101])](https://web.archive.org/web/20111109215103id_/http://www.ouac.on.ca/privacy/101-declaration)
 
 
 
