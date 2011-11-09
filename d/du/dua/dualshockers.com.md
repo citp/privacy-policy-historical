@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dualshockers.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215063719id_/http%3A//dualshockers.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dualshockers.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109174605id_/http%3A//www.dualshockers.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « DualShockers
+# » Privacy Policy » DualShockers
 
 **Miniature Version of the Privacy Policy:**
 
