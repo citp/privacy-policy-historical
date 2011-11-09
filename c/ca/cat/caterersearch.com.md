@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the caterersearch.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606210533id_/http%3A//www.caterersearch.com/staticPages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caterersearch.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109094955id_/http%3A//www.caterersearch.com/staticPages/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Statement | Caterersearch
+# Privacy Statement | Caterer and Hotelkeeper
 
 This website is owned and operated by [Reed Business Information Limited](http://www.rbi.co.uk/rb2_about/rb2_about_profile.htm). Information we collect from our customers and users of our websites may be used in the following ways.  If the website offers recruitment services please also see Privacy information for job seekers.
 
