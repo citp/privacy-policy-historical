@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pr-canada.net privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512081004id_/http%3A//pr-canada.net/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D84635%26Itemid%3D67) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pr-canada.net privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110005329id_/http%3A//pr-canada.net/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D84635%26Itemid%3D67) for the most accurate reproduction.*
 
 # PR-CANADA.net - Privacy Policy for PR-CANADA.net
 
