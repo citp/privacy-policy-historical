@@ -1,16 +1,21 @@
-> *The following text is extracted and transformed from the elections.org.nz privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605120334id_/http%3A//www.elections.org.nz/sitehelp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elections.org.nz privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109022715id_/http%3A//www.elections.org.nz/sitehelp/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Elections New Zealand
 
+## Privacy Statement
+
 You may browse and access some information contained within this website without providing any personal information. However, where you voluntarily provide personal information or where you are requested to provide personal information to access certain areas of the site or perform certain functions, such information will be held by the authoring electoral agency in accordance with the law.
 
+  
 Where you are requested to provide personal information, the relevant part of the website will inform you of the reason that information is sought.  We will only use that information according to law and in a manner that is consistent with the reason for which the information was provided.
 
+  
 The electoral agencies are not liable for any loss of privacy, disclosure of information, harm, damage or loss that may result from your transmission of data via the Internet.
 
-The Privacy Act 1993 gives you the right to see and correct information that an electoral agency holds about you.  If you want to access the information held about you, or if you would like to correct any such information held, or if you have any privacy concerns, please contact the agency concerned. 
+  
+The Privacy Act 1993 gives you the right to see and correct information that an electoral agency holds about you. If you want to access the information held about you, or if you would like to correct any such information held, or if you have any privacy concerns, please contact the agency concerned.
 
-### Cookies
+ **Cookies**
 
 The Electoral websites are currently using Google Analytics to help analyse how users use our sites.
 
@@ -23,30 +28,65 @@ This analytical tool uses 'cookies', which are text files placed on your compute
 
 
   
-We will not use the web analytics tool to track or to collect any personally identifiable information of visitors to our sites. We will not associate any data gathered from our sites with any personally identifying information from any source as part of our use of the Google Analytics tool.
+We will not use the web analytics tool to track or to collect any personally identifiable information of visitors to our sites. We will not associate any data gathered from our sites with any personally identifying information from any source as part of our use of the Google Analytics tool.  
+ 
 
-### Disabling/Enabling cookies
+ **Disabling/Enabling cookies**  
+You have the ability to accept or decline cookies by modifying the settings on your browser. Disabling cookies will not affect your ability to use the Electoral websites.  
+ 
 
-You have the ability to accept or decline cookies by modifying the settings on your browser. Disabling cookies will not affect your ability to use the Electoral websites.
-
-### Email
+ **Email**  
+Your email address will collected if you consent to updating your enrolment details electronically (link to more info) with Elections. This is collected for electoral purposes and we will not disclose your email address to third parties. The email address you supply, however, may be used to communicate with you regarding updates to your enrolment or our online services.  
+ 
 
 While we have in place a variety of security measures it is important to remember that email is not secure.  We cannot guarantee the privacy or confidentiality of any information that is sent over the Internet by email.  In accessing and using the Elections website, you accept that electronic mail passing over the Internet may not be free from interception or interference by third parties.
 
-### What happens to the information I supply by enrolling?
+###   
+ **What happens to the information I supply by enrolling?**
 
-#### What is the information about voters used for?
-
+ **What is the information about voters used for?**  
 When you enrol, we will publish your name, the address where you reside, and your occupation in the roll of your electorate. The roll is a list of voters which any member of the public can look at and is used on election day for voting. We may give this information to scientific or health researchers, political candidates, members of Parliament or political parties. We can also tell them your age group, postal address and whether you are of Maori descent. The information is also used to make up lists of people who might be called to serve on a jury.
 
-#### Is there any way to stop the information being published?
-
+  
+ **Is there any way to stop the information being published?**  
 Yes. If you think you, or your family's personal safety could be at risk because information about you is published in the roll, you can ask to have details put in an unpublished roll. This cannot be looked at by members of the public. However, before we put your details in an unpublished roll, you will need to show us that you or your family's safety could be put at risk. There are a number of ways of doing this, for example showing a protection order, or a restraining order, or a statutory declaration from a member of the police.
 
-#### Access to information
-
+ **  
+Access to information**  
 You have the right to ask for access to information held about you by the Registrar of Electors. You may also ask for this information to be corrected.
 
-#### Checking the information
+  
+ **Checking the information**  
+We may carry out information matching with details from a number of government agencies (under authorised information matching programmes) to ensure that the electoral roll is complete and correct.  
+If you have an enquiry or concern about our privacy policy, please contact:
 
-We may carry out information matching with details from a number of government agencies (under authorised information matching programmes) to ensure that the electoral roll is complete and correct.
+  
+[webmaster@elections.org.nz](mailto:webmaster@elections.org.nz)
+
+## Terms of Use
+
+These terms and conditions set out what is required when you use our online services.
+
+ **Access**  
+The online enrolment checking and updating service is provided for you to access your own enrolment details only.
+
+Use of this service for any other purpose is an offence under the Electoral Act.
+
+  
+If you have registered with your Registrar of Electors to [update your enrolment details electronically](https://web.archive.org/enrolment/how-to-enrol/how-to-update-details-online) access to this service is governed by the igovt logon service that is provided by the Department of Internal Affairs (DIA).
+
+The terms of use for the igovt logon service form part of the registration process and are available at:
+
+ **Suspension of account**  
+For protection of users we may suspend or disable your account without notice if we consider that:
+
+  * disabling your account is necessary to maintain the integrity or security of our services; or
+  * the account is being misused or has otherwise been compromised; or
+  * you breach these terms of use
+
+
+
+ **  
+Opting out of updating your enrolment details electronically**  
+To opt out of updating your enrolment details electronically you must contact your Registrar of Electors in writing and state you would like to opt out of updating my enrolment details electronically or provide a new enrolment form and tick ‘No’ to the question about giving consent to updating your enrolment details electronically.  
+ 
