@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gamingclub.com privacy policy that was archived on 2010-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100308110834id_/http%3A//www.gamingclub.com/security-and-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamingclub.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109073241id_/http%3A//www.gamingclub.com/security-and-privacy.aspx) for the most accurate reproduction.*
 
 # The Gaming Club Online Casino – Security & Privacy
 
-This site is operated by Tower Rock Ltd (our "Site"). We have created this privacy policy ("Privacy Policy") to outline our firm commitment to your privacy. Our policy is based on the Gibraltar Data Protection Act 2004 and the principles held within that Act. It will also inform you of type of Personal Data we process when you use our Site, why we process this Data and how we use this Data.
+We have created this privacy policy ("Privacy Policy") to outline our firm commitment to your privacy. Our policy is based on the Malta Data Protection Act 2001 and the principles held within that Act. It will also inform you of type of Personal Data we process when you use our Site, why we process this Data and how we use this Data.
 
 By using  [www.gamingclub.com](http://www.gamingclub.com/) you acknowledge and accept both the rules, terms and conditions of this privacy policy and the purposes and methods of processing for which your Personal Data is collected.
 
@@ -10,10 +10,11 @@ By using  [www.gamingclub.com](http://www.gamingclub.com/) you acknowledge and 
 
 During the registration process and when you subsequently use your Gaming Club account, specific Personal Data ("Personal Data") is collected including, but not limited to, first and last name, date of birth, credit card Data, home or other physical address, email address, phone number or other contact Data.
 
-Your Personal Data is held by us on servers based in Gibraltar and Canada and elsewhere from time to time.
+Your Personal Data is held by us on servers based in Malta and Canada and elsewhere from time to time.
 
-All of your Data is collected and stored in a secure and protected environment and is correct as it is provided. You are entitled by law to have a copy of the Personal Data recorded and to have any Personal Data corrected. You may change your personal details at anytime by sending us an email or by writing to us at Customer Service, Tower Rock Ltd, Suite 651 Europort, Gibraltar.  
-Disclosure of your Personal Data will only take place in accordance with applicable laws. Such disclosure will primarily be to other Tower Rock companies, business partners, service providers, consultants or suppliers that are engaged to carry out financial or other processing on our behalf. Due to the nature of the internet, its use to collect and transfer Personal Data it may necessitate the transmission of your Personal Data outside of the EEA. By using this site you acknowledge and agree to our use of your Personal Data in this manner. We do not collect your Personal Data when you use our Site without your knowledge or rent, sell or trade your Personal Data to any third party. You may ‘opt out’ of receiving any promotional communications either by choosing to opt out where such option is made available on the Site or in an email you receive from us, or at any time by sending an [email](https://web.archive.org/contact/submit-query.aspx "Submit a Query") or by writing to us at Customer Service, Tower Rock Ltd, Suite 651 Europort, Gibraltar.
+All of your Data is collected and stored in a secure and protected environment and is correct as it is provided. You are entitled by law to have a copy of the Personal Data recorded and to have any Personal Data corrected. You may change your personal details at anytime by sending us an email or by writing to us at Customer Service.
+
+Disclosure of your Personal Data will only take place in accordance with applicable laws. Such disclosure will primarily be to other Digimedia companies, business partners, service providers, consultants or suppliers that are engaged to carry out financial or other processing on our behalf. Due to the nature of the internet, its use to collect and transfer Personal Data it may necessitate the transmission of your Personal Data outside of the EEA. By using this site you acknowledge and agree to our use of your Personal Data in this manner. We do not collect your Personal Data when you use our Site without your knowledge or rent, sell or trade your Personal Data to any third party. You may ‘opt out’ of receiving any promotional communications either by choosing to opt out where such option is made available on the Site or in an email you receive from us, or at any time by sending an [email](https://playersupport.gamingclub.com/ysumbit-query "Submit a Query").
 
 ## Security of Processing
 
@@ -37,4 +38,4 @@ Where there is a link from this website to another relevant site, this privacy p
 
 ## Your consent
 
-By clicking "I agree" during the registration process or by your continued use of the Site following the posting of this Privacy Policy (as applicable), you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. This Privacy Policy should be read in conjunction with our Rules, Terms and Conditions. We may periodically make changes to this Privacy Policy and will notify you of these changes by posting the modified terms on our online site.
+By clicking "I agree" during the registration process or by your continued use of the Site following the posting of this Privacy Policy (as applicable), you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. This Privacy Policy should be read in conjunction with our [Rules, Terms and Conditions](https://web.archive.org/terms-and-conditions.aspx "Rules, Terms and Conditions"). We may periodically make changes to this Privacy Policy and will notify you of these changes by posting the modified terms on our online site.
