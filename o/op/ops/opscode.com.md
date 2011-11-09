@@ -1,16 +1,22 @@
-> *The following text is extracted and transformed from the opscode.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611052930id_/http%3A//www.opscode.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opscode.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109074907id_/http%3A//www.opscode.com/privacy-policy) for the most accurate reproduction.*
 
-# Opscode
+# Privacy Policy | Opscode
 
 ####  Last Revised: November 23, 2009 
 
 This privacy policy ("Policy") explains how personal information is collected, used, and disclosed by Opscode, Inc. (“Opscode, “we” or “us”) with respect to your use of the Web sites operated by Opscode that link to this Policy, including without limitation www.opscode.com (collectively the “Sites”) and any services provided to you through the Sites (the "Services") so you can make an informed decision about using the Sites. We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used. 
 
-##  WHAT IS PERSONAL INFORMATION? 
+  
+
+
+###  WHAT IS PERSONAL INFORMATION? 
 
 As used herein, the term "personal information" means information that specifically identifies an individual (such as a name, address, telephone number, mobile number, e-mail address, or credit card or other account number); information about that individual's location or activities, such as information about his or her use of the Sites, when directly linked to personally identifiable information; and demographic information such as date of birth, gender, geographic area and preferences when such information is linked to other personal information that identifies you. Personal information does not include "aggregate" information, which is data we collect about the use of the Sites or about a group or category of products, services or users, from which individual identities or other personal information has been removed. In other words, information about how you use a service may be collected and combined with information about how others use the same service. Aggregate data helps us understand trends and our users' needs so that we can better consider new features or otherwise tailor our Sites. This policy in no way restricts or limits our collection and use of aggregate information. 
 
-##  WHAT PERSONAL INFORMATION DO WE COLLECT? 
+  
+
+
+###  WHAT PERSONAL INFORMATION DO WE COLLECT? 
 
 **Active Collection:** Personal information may be collected in a number of ways when you visit our Sites. We may collect certain information you voluntarily provide to us which may contain personal information. For example, we may collect your name, user name, address, email address, telephone number, other contact and demographic information when you register and set up an account, fill out a form, submit a comment or contact us by e-mail or other means. We may also collect billing information, such as your credit card number, when you purchase Services or other items through the Sites. Personal and demographic information may also be collected if you provide such information in connection with creating a profile, leaving comments, posting content, sending an email or message to another user or otherwise participating in any interactive forums or community features on the Sites. 
 
@@ -18,9 +24,15 @@ As used herein, the term "personal information" means information that specifica
 
 If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions. However, if a browser is set not to accept cookies or if a user rejects a cookie, some portions of the Sites may not function properly. 
 
-##  HOW DO WE USE THE PERSONAL INFORMATION WE COLLECT? 
+  
+
+
+###  HOW DO WE USE THE PERSONAL INFORMATION WE COLLECT? 
 
 In general, we use personal information we collect to process your requests or transactions; to provide you with information, products or Services you request; to inform you about other information, events, promotions, products or services we think will be of interest to you; to facilitate your use of, and our administration and operation of, the Site; and for the purpose for which the information was provided. For example, we may use the information we collect: 
+
+  
+
 
   * to send you a welcoming email and to contact you about your use of the Site; 
   * to provide the services, products or information you request and to complete any transactions and process any payments in connection therewith; 
@@ -35,7 +47,10 @@ Personal information provided online may be linked together or merged with other
 
 Opscode may store and process personal information in the United States and other countries. 
 
-##  WHAT PERSONAL INFORMATION DO WE SHARE WITH THIRD PARTIES? 
+  
+
+
+###  WHAT PERSONAL INFORMATION DO WE SHARE WITH THIRD PARTIES? 
 
 We will not share the personal information we collect from you through the Sites with third parties except as described in this Policy, as it may be revised from time to time. We may share personal information with vendors, consultants and other service providers (“Service Providers”) who are engaged by or working with us in connection with the operation of the Sites or the services we provide and who need access to such information to carry out their work for us. For example, Opscode may use a third party to manage credit card processing. In some cases, the Service Provider may be directly collecting the information from you on our behalf. We may also share personal information with other third parties when you give us your consent to do so. We are not responsible for the actions of Service Providers or other third parties, nor are we responsible for any additional information you provide directly to these Service Providers or other third parties, and we encourage you to become familiar with their practices before disclosing information directly to them. Nothing herein restricts the sharing of aggregate information, which may be shared with third parties without your consent. 
 
@@ -43,18 +58,33 @@ We may disclose personal information in the good faith belief that we are lawful
 
 You understand that when you use the Sites, information you post in your profile, recipe pages, blogs, bulletin boards, forums and other community areas of the Sites (the "Community Areas"), as well as any information you share with individuals through the Sites, will be available to other users and in some cases may be publicly available. We recommend you be cautious about giving out personal information to others or sharing personal information in Community Areas, whether designates as public or private. We are not responsible for the personal information you choose to share in these Community Areas or for the actions of any third parties with whom you share personal information. 
 
-##  WHAT STEPS DO WE TAKE TO PROTECT YOUR INFORMATION ONLINE? 
+  
+
+
+###  WHAT STEPS DO WE TAKE TO PROTECT YOUR INFORMATION ONLINE? 
 
 Opscode takes reasonable measures to protect your personal information in an effort to prevent loss, misuse and unauthorized access, disclosure, alteration and destruction. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable. To help protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our web site by any person using your password. Please advise us immediately if you believe your password has been misused. 
 
-##  WHAT CHOICES DO YOU HAVE REGARDING THE USE OF YOUR INFORMATION? 
+  
+
+
+###  WHAT CHOICES DO YOU HAVE REGARDING THE USE OF YOUR INFORMATION? 
 
 You may opt out of receiving promotional emails from Opscode by following any instructions in those emails. You may also send requests about your contact preferences and changes to your information by emailing support@opscode.com. However, if you opt out, this will not affect our ability to send you service and account related emails, or other non-promotional emails, or to use your personal information as otherwise described in this Policy. 
 
-##  LINKS TO OTHER WEB SITES 
+  
+
+
+###  LINKS TO OTHER WEB SITES 
 
 Our web site may contain links to other web sites. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party's privacy policy. We are not responsible for the content or privacy and security practices and policies of web sites to which we link. Links from our web site to third parties or to other sites are provided for your convenience. We encourage you to learn about their privacy and security practices and policies before providing them with personal information. 
 
-##  HOW CAN YOU CORRECT AND UPDATE YOUR PERSONAL INFORMATION OR OBTAIN ADDITIONAL INFORMATION 
+  
+
+
+###  HOW CAN YOU CORRECT AND UPDATE YOUR PERSONAL INFORMATION OR OBTAIN ADDITIONAL INFORMATION 
 
 If you wish to verify, correct, update or delete any personal information we have collected, you may do so by emailing support@opscode.com. Requests to access, change, or delete your information will be handled within 30 days. Questions regarding this Policy or the information practices of the Company's Web sites should be directed to Opscode Privacy by clicking [here](http://help.opscode.com/) or by mailing Opscode Privacy, 119 1st Ave South, Suite 100, Seattle WA, 98104. 
+
+  
+
