@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apihealthcare.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510002834id_/http%3A//www.apihealthcare.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apihealthcare.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109094652id_/http%3A//www.apihealthcare.com/privacy_policy) for the most accurate reproduction.*
 
 # API Healthcare | Human Capital Management Software | Privacy Policy
 
