@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southernrailway.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609224700id_/http%3A//www.southernrailway.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southernrailway.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109075622id_/http%3A//www.southernrailway.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy policy : Southern
 
@@ -44,10 +44,9 @@ If you do not wish to receive additional information from us, you can let us kno
 The type of information we will collect about you includes:
 
   * your name and address
-  * your phone number and e-mail address
+  * your e-mail address
   * your credit card details if you purchase items from us
   * your interests
-  * the information included in any online services to which you subscribe
   * details about the products or services you specifically request
   * information you complete in relation to our customer surveys
 
@@ -74,8 +73,6 @@ From time to time we may be called upon to demonstrate our maintenance of certai
 If you believe that the information we hold about you is inaccurate or if you wish us to cease processing your data for any particular purpose or purposes, write to us at the above address or amend your detail through the My Account section of the website.
 
 To comply with the Data Protection Act 1998 we adhere to strict security procedures. The personal information, which we hold will be held securely to ensure no unauthorised disclosure or access. When you register for a user account with us you will be required to adhere to the security provisions set out in our terms and conditions.
-
-We reserve the right to appoint an Internet service provider to host our Website on our behalf, which may be situated outside the European Economic Area. By agreeing to our terms and conditions of use of our Website you consent to any transfer of your personal information outside the European Economic Area. This may be necessary for us to achieve the purposes set out above.
 
 We would like to contact you in the future for marketing purposes by post, e-mail and telephone but we need your consent to do this. If you would like us to contact you (including by e-mail or telephone) concerning our services and career opportunities that may be of interest to you then please check the appropriate box on the new account registration form.
 
