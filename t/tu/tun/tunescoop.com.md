@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tunescoop.com privacy policy that was archived on 2010-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100706191303id_/http%3A//www.tunescoop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tunescoop.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109025710id_/http%3A//www.tunescoop.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - TuneScoop - Free music hosting and Sharing
+# TuneScoop - Free music hosting and Sharing
 
-This TuneScoop Privacy Policy, in conjunction with the [AUP](http://www.tunescoop.com/aup), [Terms of Service](http://www.tunescoop.com/terms) and other terms and conditions of use which are incorporated herein by reference and may be posted and applicable to specific services, governs your use of the TuneScoop website and are collectively referred to as the "Agreement".
+This TuneScoop Privacy Policy, in conjunction with the [AUP](https://web.archive.org/aup), [Terms of Service](https://web.archive.org/terms) and other terms and conditions of use which are incorporated herein by reference and may be posted and applicable to specific services, governs your use of the TuneScoop website and are collectively referred to as the "Agreement".
 
 TuneScoop may modify the Agreement which will become effective immediately upon posting on the website. Your continued use of the website and any associated services, the "Services", indicates your acceptance of the Agreement.
 
