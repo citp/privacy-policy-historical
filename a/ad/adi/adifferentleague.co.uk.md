@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adifferentleague.co.uk privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516072754id_/http%3A//www.adifferentleague.co.uk/default.aspx%3Ftab%3D14%26Page%3D36) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adifferentleague.co.uk privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109094839id_/http%3A//www.adifferentleague.co.uk/default.aspx%3Ftab%3D14%26Page%3D36) for the most accurate reproduction.*
 
 # Privacy and Terms
 
