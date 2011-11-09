@@ -1,704 +1,754 @@
-<!--The following is the downloaded HTML source of the coolbuzz.org privacy policy that was archived on 2010-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229022232id_/http%3A//www.coolbuzz.org/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coolbuzz.org privacy policy that was archived on 2011-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111109230258id_/http%3A//www.coolbuzz.org/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
-	<title>Privacy Policy - Coolbuzz: Everything Cool</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<meta name="title" content="Privacy Policy - Coolbuzz: Everything Cool">
-	<meta name="subject" content="Lifestyle">
-	<meta name="language" content="en">
-	<meta name="keywords" content="Alarm Clock, art, Chair, clock, design, furniture, guitar, home decor, iPhone, ipod, lamp, LED, Lego, Lifestyle, MP3 Player, Music, Pic, Picture, Speakers, Steampunk, Technology, toys, USB, Video, Watch">
-	<meta name="description" content="Everything Cool">
-	<link rel="alternate" href="http://www.coolbuzz.org/rss.xml" type="application/rss+xml" title="Coolbuzz's RSS Feed">
-	<link rel="alternate" href="http://www.instablogs.com/feed/blog=Coolbuzz" type="application/rss+xml" title="Coolbuzz's RSS Feed (Instablogs Community)">
-	<link rel="icon" href="/favicon.ico" type="image/x-icon">
-	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-	
-	
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
-<script type="text/javascript">
-GS_googleAddAdSenseService("ca-pub-9415440757655812");
-GS_googleEnableAllServices();
-</script>
-<script type="text/javascript">
-GA_googleAddSlot("ca-pub-9415440757655812", "7Blogs_Homepage_ATF_Button");
-</script>
-<script type="text/javascript">
-GA_googleFetchAds();
-</script>
-
-<style type="text/css">
-	  @import url(/style.css);
-	</style>
-
-	<script type="text/javascript" src="/js/jquery-1.3.1.min.js"></script>
-	<script type="text/javascript" src="http://www.instablogs.com/js/yui.js"></script>
-	<script type="text/javascript" src="/js/prototype.js"></script>
-	<script type="text/javascript" src="http://www.instablogs.com/js/connection.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
+		<title>Privacy Policy : Coolbuzz : Everything Cool</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="title" content="Privacy Policy : Coolbuzz : Everything Cool">
+		<meta name="subject" content="Lifestyle">
+		<meta name="language" content="en">
+		<meta name="keywords" content="architecture, Cars, concept cars, Concepts, eco architecture, Eco Arts, Eco Gadgets, eco-cars, eco-friendly, eco-tech, Electric Cars, Electricity, energy, Environment, gadgets, Green Cars, recycling, Renewable Energy, solar energy, solar panels, Solar power, Sustainable Architecture, Technology, Wind Energy, Zero emission cars">
+		<meta name="description" content="Everything Cool">
+		<link rel="alternate" type="application/rss+xml" title="Coolbuzz RSS Feed (Instablogs Community)" href="http://www.coolbuzz.org/rss.xml">
+		<link rel="icon" href="/favicon.ico" type="image/x-icon">
+		
+		<link rel="canonical" href="http://www.coolbuzz.org/privacy-policy/">
+		<meta name="ROBOTS" content="INDEX, FOLLOW">	
+		
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
 	<script type="text/javascript">
-		function on_blur()
-		{
-			if(document.getElementById('nav-search').value == "")
-			{
-			document.getElementById('nav-search').value = "search here...";
-			document.getElementById('nav-search').style.color = "#999";
-			}
-		}
-		function on_focus()
-		{
-			document.getElementById('nav-search').value = "";
-			document.getElementById('nav-search').style.color = "#444";
-		}
-
-		function open_reply_comment(comment_id, post_id, back_url, blog_name)
-		{
-			
-			var div = document.getElementById('reply-comment'+comment_id);	
-			var postdata ='comment_id='+ comment_id + '&post_id=' + post_id + '&back_url=' + back_url + '&blog_name=' + blog_name;
-			div.innerHTML = '<div style="font:bold 1.2em/1.2em Georgia, serif;padding:20px 0 35px;"><center><img src="/css-img/wheel.gif" /> &nbsp; &nbsp;Loading...</center></div>';
-
-			var handleSuccess = function(o){if(o.responseText !== undefined){div.innerHTML = o.responseText;}}
-			var handleFailure = function(o){if(o.responseText !== undefined){div.innerHTML=  o.statusText;}}
-			var Callback ={success:handleSuccess,failure: handleFailure};
-
-			var request = YAHOO.util.Connect.asyncRequest("POST", '/reply_comment.php', Callback, postdata);
-		}
-		
-		function lightboxImageOn(image_id, Image_title)
-		{
-			var comment_image = 'comment_image';
-			var Image_title = "Image uploaded by - " + Image_title;
-			var div = document.getElementById('lb-edit');
-			div.innerHTML = '<div style="font:bold 1.2em/1.2em Georgia, serif;padding:80px 0 35px;"><center><img src="/css-img/loading.gif" /> &nbsp; &nbsp;Loading...</center></div>';
-
-			$.ajax({
-			type: "POST",
-			url: "/show_media.php",
-			data: 'image_id='+image_id + '&type=' + comment_image + '&title=' + Image_title,
-			success: function(msg)
-			{
-				var id ='#lb-edit';
-				$(id).html(msg);
-			}
-			});
-
-			var black = document.getElementById('fade');
-			black.style.display = 'block';
-
-			div.style.display = 'block';
-			window.scrollTo(0,0);
-		}
-
-
-		function lightboxVideoOn(video_id, You_Tube_title)
-		{
-			var video='video';
-			var You_Tube_title = "Video uploaded by - " + You_Tube_title;
-			var div = document.getElementById('lb-edit');
-			div.innerHTML = '<div style="font:bold 1.2em/1.2em Georgia, serif;padding:80px 0 35px;"><center><img src="/css-img/loading.gif" /> &nbsp; &nbsp;Loading...</center></div>';
-
-			$.ajax({
-			type: "POST",
-			url: "/show_media.php",
-			data: 'video_id=' + video_id + '&type=' + video + '&title=' +  You_Tube_title,
-			success: function(msg)
-			{
-				var id ='#lb-edit';
-				$(id).html(msg);
-			}
-			});
-
-			var black = document.getElementById('fade');
-			black.style.display = 'block';
-
-			div.style.display = 'block';
-			window.scrollTo(0,0);
-		}
-
-		function lightboxoff(id)
-		{
-			var light = document.getElementById(id);
-			light.style.display = 'none';
-		}
-
+		GS_googleAddAdSenseService("ca-pub-9415440757655812");
+		GS_googleEnableAllServices();
 	</script>
-	<style>
-	.black_overlay
-		{
-			display: none;
-			position: absolute;
-			top:0px;
-			left:0px;
-			width:100%;
-			height:100%;
-			/width:expression((document.body.clientWidth) + "px");
-			/height:expression((document.body.clientHeight)+ "px");
-			background-color: black;
-			z-index:1001;
-			-moz-opacity: 0.6;
-			opacity:.60;
-			filter: alpha(opacity=60);
-		}
-				
-		.white_content_video
-		{
-			display: none;
-			position: absolute;
-			top: 90px;
-			left: 37%;
-			min-width:400px;
-			min-height:330px;
-			border: 4px solid #333;
-			background-color: #E6EFF4;
-			z-index:1002;
-		}
-
-		.login-head{background:#333;color:#868686;font: bold 1.9em/1.3em georgia,verdana,arial,serif;padding:8px;}
-		.login-head .close {display:block;float:right;padding:0px;text-align:right;font-size:12px}
-	</style>
 	
-</head>
-
-<body>
-<script type="text/javascript" src="http://www.instablogs.com/js/lightbox.js"></script>
-
-	<div id="container">
-	<div style="height:1px;"> </div>
-					<div class="ad-top">
-			<div class="left-top-ad">
-				<script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=318956411&amp;adSize=728x90"></script>			</div>
-			<div class="right-top-ad">
-							<a href="http://www.instablogs.com/ad_solutions.php?b=48"><img src="http://www.instablogs.com/css-img/120-x-90.jpg"></a>
-			</div>
-			<div class="clear"></div>
-			</div><!-- EOF #ad-top -->
-
-			<div class="clear"></div>
-			
-			<div id="header"> 
-				<a href="/" title="Home"><img src="/css-img/header.jpg"></a>
-			</div><!-- EOF header -->
-
-			<div style="padding:5px;text-align:center;">
-				<script type="text/javascript"><!--
-google_ad_client = "pub-9415440757655812";
-/* Coolbuzz, Header, LinkUnit, 9Jan10 */
-google_ad_slot = "2714687543";
-google_ad_width = 728;
-google_ad_height = 15;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script>			</div>
-
-		<div class="extra-ads"><script src="http://services.picadmedia.com/js/picad.js" type="text/javascript"></script>
-<script type="text/javascript">
-picadService.initialize();
-</script></div>
-
-
-
-			<div class="top-nav">
-				<span class="home">
-					<a href="/">Home</a>
-				</span>
-
-				<span class="RSS">
-					<a href="http://feeds.feedburner.com/coolbuzz/uyJP">RSS</a> ::
-				</span>
-
-				<span>
-					<a href="/contact-us.php?q=tips">Send Tips</a> ::
-				</span>
-
-				<span>
-					<a href="http://www.instablogs.com/ad_solutions.php?b=48">Advertise</a> ::
-				</span>
-
-				<span>
-					<a href="/contact-us.php?q=general">Contact</a> ::
-				</span>
-
-				<span>
-					<form method="get" action="/search.php" id="cse-search-box">
-						<input type="hidden" name="cx" value="partner-pub-9415440757655812:qvenf8-f3jl">
-						<input type="hidden" name="cof" value="FORID:10">
-						<input type="hidden" name="ie" value="UTF-8">
-						<input type="text" name="q" size="25">
-						<input type="submit" name="sa" value="Search">
-					</form>
-					<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
-				</span>
-			</div><!-- EOF top-nav -->
-		<div id="content">
-			<div id="content-box">
-				
 		
-				<div class="privacy-content-main">						
-					<div class="privacy-title">Privacy Policy</div> 
-
-					<p>This privacy statement covers all of the Instablogs sites. Please read this statement carefully before using proceeding to access Instablogs Sites. Your use of Instablogs Sites indicates your agreement to abide by the Terms in effect.</p>
-
-					<div>Information Collection</div>
-
-					<p>Instablogs Network is the sole owner of the information collected on the Instablogs Sites. Instablogs Network may collect information from our users at several different points on the Instablogs Sites.</p>
-
-					<div>Comments</div>
-					<p>In order to enhance their use of the Instablogs Sites, users can choose to leave comments on particular articles of interest. To leave a comment, users must submit information including a valid email address. Instablogs Network uses this information to screen out users who leave comments prohibited by our terms and conditions of use, and will not pass this information to any other organization.</p>
-
-					<div>Mailing List</div>
-
-					<p>Instablogs Network may launch a mailing list for some or all of the Instablogs Sites. In order to sign up to receive regular emails from a site's mailing list, users must submit information including a valid email address and demographic information such as location and interests. This information will be used in aggregate form only in order to assess general user interest in various internal and third party products and services, and your personal and contact information will not be passed to any other organization. Users who choose to sign up for a mailing list will receive regular emails from the site, including new articles added to the site as well as emails from third party site sponsors. If you do not wish to receive emails from third party advertisers, do not sign up for the mailing list.</p>
-
-					<div>Discussion Group and Cookies</div>
-					<p>In order to further enhance the user experience, Instablogs Network may launch a discussion board service on some or all of the Instablogs Sites where users can discuss common topics of interest. Users will have the option of signing up for this service, and to do so must submit information including a valid email address. Instablogs Network uses this information to screen out users who leave comments prohibited by our terms and conditions of use and to pick out topics of interest to discussion board users. Instablogs Network will not pass this information to any other organization except in aggregate form.</p>
-
-					<p>The discussion board service may use cookies. A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.</p>
-
-					<p>By setting a cookie on a Instablogs Site, users will not have to log in a password more than once, thereby saving time while on the site's discussion board. We store a cookie on each user's machine that contains a username and encrypted password. You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you reject all cookies, you will not be able to use Instablogs Network products or services that require you to "sign in," and you may not be able to take full advantage of all offerings. However, not all Instablogs Network services require that you accept cookies.</p>
-
-					<div>Third Party Cookies</div>
-					<p>Some of our business partners may use cookies on our site (for example, advertisers). However, Instablogs Network has no access to or control over these cookies, once we have given permission for them to set cookies for advertising. This privacy statement covers the use of cookies by Instablogs Network only and does not cover the use of cookies by any advertisers.</p>
-
-					<div>Third Party Advertising</div>
-					<p>The ads appearing on this Web site are delivered to users by Google, among other services. Information about users' visit to this site, such as number of times they have viewed an ad (but not username, date of birth, or any other personal information), is used to serve ads to users on this site. For more information about Google and cookies, please click here.</p>
-
-					<div>Log Files
-					</div><p>Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. We may use a tracking utility that uses log files to analyze user movement.</p>
-
-					<div>Legal Disclaimer</div>
-					<p>Though we make every effort to preserve user privacy, Instablogs Network may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on any of the Instablogs Sites.</p>
-
-					<div>Business Transitions</div>
-					<p>In the event Instablogs Network goes through a business transition, such as a merger, acquisition by another company, or sale of a portion of its assets, users' personal information will, in most instances, be part of the assets transferred.</p>
-
-					<div>Links</div>
-
-					<p>The Instablogs Sites contain links to other sites. Please be aware that Instablogs Network is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by Instablogs Network.</p>
-
-					<div>Notification of Changes</div>
-					<p>Whenever Instablogs Network changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p>
-
-					<div>Contact Information</div>
-					<p>If you have any questions or notices of violations to these terms and conditions, please contact the editor of the Instablogs Site in question, or send an email to info AT instablogs.com, or by mail to: 
-					<br>Instablogs, III Floor,
-					<br>STPI, Block No. 24, 
-					<br>SDA Complex, Kasumpati, 
-					<br>Shimla, India.
+		
+			<script type="text/javascript">GA_googleAddAttr("source", "other");</script>
+		
+	
+		
 					
-					</p>
-
-
-
-				</div><!-- EOF #content-main -->
-
-				
-			
-			</div><!-- EOF #content-box -->
-
-			<!--INFOLINKS_OFF--><div id="content-sidebar">
-
-
-<script>
-	function toggle_div(id)
-	{
-		var divid= document.getElementById(id);
-		if(divid.style.display == 'none')
-			divid.style.display = 'block';
-		else
-			divid.style.display = 'none';
-	}
-</script>
-
-<div class="side-ads" style="margin-left:20px; padding-bottom:10px;"><script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=318956411&amp;adSize=300x250"></script></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div><div class="side-ads" style="margin-left:15px;"><!-- START ADONION CODE -->
-<script language="javascript" type="text/javascript" charset="utf-8">
-var adonion_banner_border = '#FFFFFF';
-var adonion_banner_text = '#364763';
-var adonion_banner_bg = '#FFFFFF';
-var adonion_banner_link = '#364763';
-adonion_site_id = 10685;
-adonion_buynow = 0;
-adonion_sell_text ='';//endofaoselltext
-adonion_zone_id = 25318;
-adonion_user_id = 11180;
-adonion_size_id = 3;
-adonion_type = "banner";
-</script>
-<script language="JavaScript" type="text/javascript" src="http://ads.adonion.com/serve.php">
-</script>
-<noscript><a href="http://www.adonion.com" target="_blank">ad exchange</a></noscript>
-<!-- END ADONION CODE --><div class="clear"></div></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div><div class="clear"></div>
-
-<div class="follow" style="margin-bottom:10px; margin-left:15px; margin-top:10px;">
-	<a href="http://twitter.com/coolbuzz_org"><img src="http://www.bornrich.org/images/twitter.jpg"></a>
-	<a href="http://www.facebook.com/pages/Coolbuzz/128387384094"><img src="http://www.bornrich.org/images/facebook.jpg"></a>
-</div>
-
-
-<div class="inner-sidebars">
-	<div class="inner-sidebar1">
-
-<div class="side-ads" style="margin-bottom:10px; margin-left:10px;"></div><div class="clear"></div><div class="side-ads" style="margin-bottom:10px; margin-left:10px;"></div><div class="clear"></div><div class="side-ads" style="margin-bottom:10px; margin-left:10px;"></div><div class="clear"></div>	
-	<div style="padding-bottom:10px;text-align:center;">
-		<a href="http://www.instablogs.com/instablogs-club/"><img src="http://www.instablogs.com/css-img/insta_club_badge.gif"></a>
-	</div>
-
-<div class="market-place">
-	<h2>Instablogs Club</h2>
-	<div class="club-data">
-	<span class="club-top-img"><a href="http://www.skinnyvscurvy.com/hot-models/plus-size-model-fluvia-lacerda-lingerie.html"><img src="http://www.instablogsimages.com/images/2010/12/29/eb_36_epkct_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.skinnyvscurvy.com/hot-models/plus-size-model-fluvia-lacerda-lingerie.html">Plus-Size Model Fluvia Lacerda in Lingerie</a><span> (<a href="http://www.skinnyvscurvy.com">Skinny vs Curvy</a>)</span></div><span class="club-top-img"><a href="http://www.skinnyvscurvy.com/hollywood-moms/stephanie-seymour-bikini.html"><img src="http://www.instablogsimages.com/images/2010/12/29/eb_fp_6397369_trb_seymourstephanie_beach_122710_ezl4c_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.skinnyvscurvy.com/hollywood-moms/stephanie-seymour-bikini.html">Stephanie Seymour in a Bikini</a><span> (<a href="http://www.skinnyvscurvy.com">Skinny vs Curvy</a>)</span></div><span class="club-top-img"><a href="http://www.skinnyvscurvy.com/leighton-meester/leighton-meester-poses-seventeen-magazine.html"><img src="http://www.instablogsimages.com/images/2010/12/29/eb_leighton-meester_5kng9_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.skinnyvscurvy.com/leighton-meester/leighton-meester-poses-seventeen-magazine.html">Leighton Meester Poses for Seventeen Magazine</a><span> (<a href="http://www.skinnyvscurvy.com">Skinny vs Curvy</a>)</span></div><span class="club-top-img"><a href="http://www.skinnyvscurvy.com/hot-models/la-senzas-cup-size-choir-commercial.html"><img src="http://www.instablogsimages.com/images/2010/12/28/eb_skinnyvscurvydyil2auoc8za_9opgv_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.skinnyvscurvy.com/hot-models/la-senzas-cup-size-choir-commercial.html">La Senza’s The Cup Size Choir Commercial</a><span> (<a href="http://www.skinnyvscurvy.com">Skinny vs Curvy</a>)</span></div><div class="club-top-title"><a href="http://www.skinnyvscurvy.com/mary-kate-olsen/mary-kate-olsen-scarf-jeans-beauty.html">Mary-Kate Olsen – Scarf + Jeans Beauty</a><span> (<a href="http://www.skinnyvscurvy.com">Skinny vs Curvy</a>)</span></div><span class="club-top-img"><a href="http://www.crickblog.com/entry/ind-sa-t2-day-3-stumps-india-in-commanding-position/"><img src="http://www.instablogsimages.com/images/2010/12/28/graeme-smith-out_bW6Ky_17022_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.crickblog.com/entry/ind-sa-t2-day-3-stumps-india-in-commanding-position/">Ind SA T2 Day 3 Stumps: India in Commanding Position As Sreesanth's Act Snaps Smith</a><span> (<a href="http://www.crickblog.com">Cricket Blog</a>)</span></div><span class="club-top-img"><a href="http://www.pickmeupnews.com/tiiu-kuik-is-beautiful/"><img src="http://www.instablogsimages.com/images/2010/12/28/eb_01_111_n9lxs_160x120.jpg"></a></span><div class="club-top-title"><a href="http://www.pickmeupnews.com/tiiu-kuik-is-beautiful/">Tiiu Kuik Is Beautiful</a><span> (<a href="http://www.pickmeupnews.com">Pick me up news</a>)</span></div>	</div>
-	<div class="add-news"><a class="add-news-page" href="http://www.instablogs.com/instablogs-club/club_wp_plugin.php">Add This</a></div>
-</div><div class="clear"> </div>
-	<div class="border"></div>
-	<div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
-	<div id="tags">
-		<h2>Tags</h2>
-		<div class="tag-content">
-			<a href="http://www.coolbuzz.org/tags/alarm-clock/" class="ibn_tag4">Alarm Clock</a> <a href="http://www.coolbuzz.org/tags/art/" class="ibn_tag6">art</a> <a href="http://www.coolbuzz.org/tags/chair/" class="ibn_tag3">Chair</a> <a href="http://www.coolbuzz.org/tags/clock/" class="ibn_tag9">clock</a> <a href="http://www.coolbuzz.org/tags/design/" class="ibn_tag8">design</a> <a href="http://www.coolbuzz.org/tags/furniture/" class="ibn_tag8">furniture</a> <a href="http://www.coolbuzz.org/tags/guitar/" class="ibn_tag2">guitar</a> <a href="http://www.coolbuzz.org/tags/home-decor/" class="ibn_tag5">home decor</a> <a href="http://www.coolbuzz.org/tags/iphone/" class="ibn_tag5">iPhone</a> <a href="http://www.coolbuzz.org/tags/ipod/" class="ibn_tag9">ipod</a> <a href="http://www.coolbuzz.org/tags/lamp/" class="ibn_tag5">lamp</a> <a href="http://www.coolbuzz.org/tags/led/" class="ibn_tag6">LED</a> <a href="http://www.coolbuzz.org/tags/lego/" class="ibn_tag8">Lego</a> <a href="http://www.coolbuzz.org/tags/lifestyle/" class="ibn_tag10">Lifestyle</a> <a href="http://www.coolbuzz.org/tags/mp3-player/" class="ibn_tag7">MP3 Player</a> <a href="http://www.coolbuzz.org/tags/music/" class="ibn_tag9">Music</a> <a href="http://www.coolbuzz.org/tags/pic/" class="ibn_tag3">Pic</a> <a href="http://www.coolbuzz.org/tags/picture/" class="ibn_tag7">Picture</a> <a href="http://www.coolbuzz.org/tags/speakers/" class="ibn_tag6">Speakers</a> <a href="http://www.coolbuzz.org/tags/steampunk/" class="ibn_tag4">Steampunk</a> <a href="http://www.coolbuzz.org/tags/technology/" class="ibn_tag10">Technology</a> <a href="http://www.coolbuzz.org/tags/toys/" class="ibn_tag4">toys</a> <a href="http://www.coolbuzz.org/tags/usb/" class="ibn_tag10">USB</a> <a href="http://www.coolbuzz.org/tags/video/" class="ibn_tag7">Video</a> <a href="http://www.coolbuzz.org/tags/watch/" class="ibn_tag3">Watch</a> 		</div>	
-		<div class="clear"></div>
-		<div class="more"><a href="/tags/">More&gt;&gt;</a></div>
-	</div><!-- EOF  tags-->
-
-<div class="clear"></div>
-
-		<div id="archives">
-			<h2>Archives</h2>
-			
-			<div class="year" onclick="toggle_div('arch-open0')">2010</div><div id="arch-open0">				<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/201011/">November 2010</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/201010/">October 2010</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/201009/">September 2010</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/201008/">August 2010</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/201007/">July 2010</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/201006/">June 2010</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/201005/">May 2010</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/201004/">April 2010</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/201003/">March 2010</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/201002/">February 2010</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/201001/">January 2010</a>
-				</div>
-			</div><div class="year" onclick="toggle_div('arch-open1')">2009</div><div id="arch-open1" style="display:none;">				<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200912/">December 2009</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200911/">November 2009</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200910/">October 2009</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200909/">September 2009</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200908/">August 2009</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200907/">July 2009</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200906/">June 2009</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200905/">May 2009</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200904/">April 2009</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200903/">March 2009</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200902/">February 2009</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200901/">January 2009</a>
-				</div>
-			</div><div class="year" onclick="toggle_div('arch-open2')">2008</div><div id="arch-open2" style="display:none;">				<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200812/">December 2008</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200811/">November 2008</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200810/">October 2008</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200809/">September 2008</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200808/">August 2008</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200807/">July 2008</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200806/">June 2008</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200805/">May 2008</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200804/">April 2008</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200803/">March 2008</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200802/">February 2008</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200801/">January 2008</a>
-				</div>
-			</div><div class="year" onclick="toggle_div('arch-open3')">2007</div><div id="arch-open3" style="display:none;">				<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200712/">December 2007</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200711/">November 2007</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200710/">October 2007</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200709/">September 2007</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200708/">August 2007</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200707/">July 2007</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200706/">June 2007</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200705/">May 2007</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200704/">April 2007</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200703/">March 2007</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200702/">February 2007</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200701/">January 2007</a>
-				</div>
-			</div><div class="year" onclick="toggle_div('arch-open4')">2006</div><div id="arch-open4" style="display:none;">				<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200612/">December 2006</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200611/">November 2006</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200610/">October 2006</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200609/">September 2006</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200608/">August 2006</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200607/">July 2006</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200606/">June 2006</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200605/">May 2006</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200604/">April 2006</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200603/">March 2006</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200602/">February 2006</a>
-				</div>
-							<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200601/">January 2006</a>
-				</div>
-			</div><div class="year" onclick="toggle_div('arch-open5')">2005</div><div id="arch-open5" style="display:none;">				<div class="archive-data">
-					<a href="http://www.coolbuzz.org/archives/200512/">December 2005</a>
-				</div>
-						</div>
-		</div><!-- EOF archives -->
+			<script type="text/javascript">GA_googleAddAttr("page", "permalink");</script>
 		
-	</div><!-- EOF inner-sidebar1 -->
+		
+		
+		
+		
+		
+		
 	
-		<div class="inner-sidebar2">
-			<div class="border"></div>
-
-			<div class="market-place-con">
-				 			</div><!-- EOF market-place -->
-
-			
-			<div class="market-place">
-				<script type="text/javascript">
-					GA_googleFillSlot("7Blogs_Homepage_ATF_Button");
-				</script>
-			</div>
-
-		<div class="side-ads" style="padding-top:10px;margin-left:10px;"></div><div class="clear"></div><div class="side-ads" style="padding-top:10px;margin-left:10px;"></div><div class="clear"></div>
-		<div class="side-ads" style="margin-top:10px;"><script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=318956411&amp;adSize=160x600&amp;zone=Marketplace"></script></div><div class="clear"></div><div class="side-ads" style="padding-top:20px;"><!-- BEGIN UAT - 160x600 - BornRich: CoolBuzz - DO NOT MODIFY -->
-<script type="text/javascript" src="http://ad-cdn.technoratimedia.com/00/10/27/uat_2710.js?ad_size=160x600"></script>
-<!-- END TAG --></div><div class="clear"></div>
-			<div class="border"></div>
-
-			<div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
-		
-
-	<div class="Comments">
-		<h2>Fresh Comments</h2>
-					<div class="image-content">
-				<div class="image"><img src="http://www.instablogsimages.com/user-img/m_dipanshu__cool.jpg"></div>
-				<div class="comment-content">
-					<div class="author">
-											<a href="http://dipanshu__cool.instablogs.com/">Daniel Redcliff</a>
-											</div>
-					on <span><a href="http://www.coolbuzz.org/entry/innovative-chess-with-three-players/#comment-674428">Innovative chess with three...</a> spoiling the game of chess...... </span>
-				</div>
-			</div>
-			<div class="clear"></div>
-					<div class="image-content">
-				<div class="image"><img src="http://www.instablogsimages.com/user-img/m_ginaultrolex_.jpg"></div>
-				<div class="comment-content">
-					<div class="author">
-											<a href="http://ginaultrolex_.instablogs.com/">Ginault Rolx</a>
-											</div>
-					on <span><a href="http://www.coolbuzz.org/entry/a-coffee-mug-photographers-would-cherish/#comment-672832">A Coffee mug photographers...</a> This is the perfect xmas present ever! I come from  a family of photographers...and... </span>
-				</div>
-			</div>
-			<div class="clear"></div>
-					<div class="image-content">
-				<div class="image"><img src="http://www.instablogsimages.com/user-img/m_jywhy888.jpg"></div>
-				<div class="comment-content">
-					<div class="author">
-											<a href="http://jywhy888.instablogs.com/">Peter Wang</a>
-											</div>
-					on <span><a href="http://www.coolbuzz.org/entry/uae-to-get-33-storey-high-led-screen-soon/#comment-672370">UAE to get 33-storey high LED...</a> faafdsewq </span>
-				</div>
-			</div>
-			<div class="clear"></div>
-					<div class="image-content">
-				<div class="image"><img src="http://www.instablogsimages.com/user-img/m_denise123.jpg"></div>
-				<div class="comment-content">
-					<div class="author">
-											<a href="http://denise123.instablogs.com/">Denise Bloem</a>
-											</div>
-					on <span><a href="http://www.coolbuzz.org/entry/pizza-phone-don-t-bother-skipping-your-meals/#comment-671375">Pizza phone: Auto dial a take...</a> I’m addicted to pizza’s. So this looks to good to me. </span>
-				</div>
-			</div>
-			<div class="clear"></div>
-					<div class="image-content">
-				<div class="image"><img src="http://www.instablogsimages.com/user-img/m_hcginjections.jpg"></div>
-				<div class="comment-content">
-					<div class="author">
-											<a href="http://hcginjections.instablogs.com/">HCG Injections</a>
-											</div>
-					on <span><a href="http://www.coolbuzz.org/entry/clearvision-self-cleaning-glasses-are-a-boon-for-spectacle-wearers/#comment-668626">Self-cleaning glasses a boon...</a> I would love a set of self-cleaning glasses.  I can’t keep mine clean and they seem... </span>
-				</div>
-			</div>
-			<div class="clear"></div>
-			</div><!-- EOF Comments -->
-
-	<div class="clear"></div>
-	<div class="border"></div>
-
-				<div class="side-ads"></div><div class="clear"></div><div class="side-ads"></div><div class="clear"></div>
-				<div class="side-ads"></div><div class="clear"></div>
-			<div class="market-place">
-			
-				<div class="buy"> To Advertise please <a href="http://www.instablogs.com/ad_solutions.php?b=48">Contact Us</a>.</div>
-			</div><!-- EOF market-place -->
-
-			<div class="side-ads" style="margin-top:10px;"></div><div class="clear"></div>
-	</div><!-- EOF inner-sidebar2 -->
-
-</div><!-- EOF inner-sidebars -->
-
-<div class="clear"></div>
-<div class="side-ads" style="padding-left:10px;padding-bottom:10px;margin-top:10px;"><!-- BEGIN UAT - 300x250 - BornRich: CoolBuzz - DO NOT MODIFY -->
-<script type="text/javascript" src="http://ad-cdn.technoratimedia.com/00/10/27/uat_2710.js?ad_size=300x250"></script>
-<!-- END TAG --></div><div class="clear"></div>
-</div><!-- EOF #content-sidebar -->
-		</div><!-- EOF #content -->
-
-		<!-- Kontera ContentLink(TM);-->
-
-<script type="text/javascript">
-
-var dc_AdLinkColor = 'blue' ;
-
-var dc_PublisherID = 90566 ;
-
-var dc_maxLinks='6';
-
-</script>
-
-<script type="text/javascript" src="http://kona.kontera.com/javascript/lib/KonaLibInline.js">
-
-</script>
-
-<!-- Kontera ContentLink(TM) -->
-<!--INFOLINKS_OFF--><div class="clear"> </div>
+	<script type="text/javascript">
+		GA_googleAddSlot("ca-pub-9415440757655812", "Coolbuzz_header_atf_LB_728x90");
+		GA_googleAddSlot("ca-pub-9415440757655812", "Coolbuzz_home_atf_WS_160x600");
+		GA_googleAddSlot("ca-pub-9415440757655812", "Coolbuzz_home_btf_MR_300x250");
+		GA_googleAddSlot("ca-pub-9415440757655812", "Coolbuzz_permalink_atf_LR_336x280");
+		GA_googleAddSlot("ca-pub-9415440757655812", "Coolbuzz_sidebar_atf_MR_300x250");
+		GA_googleAddSlot("ca-pub-9415440757655812", "Coolbuzz_sidebar_btf_MR_300x250");
+	</script>
+	<script type="text/javascript">
+		GA_googleFetchAds();
+	</script>	
+	
 
 		
-		<div id="ad-footer">
+		<script type="text/javascript" src="/js/jquery-latest.min.js"></script>
+		<script type="text/javascript" src="/js/jquery.jcarousel.min.js"></script>			
+		<script type="text/javascript" src="/js/common.js"></script>
+		
+		<link href="/css/common.css" rel="stylesheet" type="text/css">			
+		<link href="/css/privacy.css" rel="stylesheet" type="text/css">
+		
+	</head>
+	<body>
+		<div class="container">
+			<div class="span-24">
+				<div class="header">
+					
+	
+	<script>
+	  var _comscore = _comscore || [];
+	  _comscore.push({ c1: "2", c2: "9637226" });
+	  (function() {
+	    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+	    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+	    el.parentNode.insertBefore(s, el);
+	  })();
+	</script>
+	<noscript>
+	  <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=9637226&amp;cv=2.0&amp;cj=1"/>
+	</noscript>
+	
+	<div class="headAd">	 
+       
+	<script type="text/javascript">GA_googleFillSlot("Coolbuzz_header_atf_LB_728x90");</script>		
 
-			<div class="side-ads"></div>
+	</div>
+	<div class="headLogo clearfix">
+		<a class="logo" href="/"><img src="/css-img/logo.jpg"></a>
+		<div class="topNav">
+			<ul class="topNavIcons clearfix">
+				<li>&nbsp;&nbsp;<script src="http://www.stumbleupon.com/hostedbadge.php?s=6"></script></li>
+				<li><a href="" title="Be a Fan on Facebook - Coolbuzz" class="face spriteIco"></a></li>
+				<li><a href="" title="Follow Us On Twitter - Coolbuzz" class="tweet spriteIco"></a></li>
+				<li><a href="http://feeds.feedburner.com/coolbuzz/uyJP" title="Subscribe To Our RSS - Coolbuzz" class="rss spriteIco"></a></li>
+			</ul>
+			<div class="topLinks clearfix">							
+				<ul>
+					
+											
+						<li class="links">
+							<a href="/slideshows/">slideshows</a> 
+						</li>	
+					
+						<li class="links">
+							<a href="/galleries/">gallery</a>&nbsp;//&nbsp;&nbsp;
+						</li>					
+							
+					
+				</ul>
+			</div>							
+		</div>
+		<form method="get" class="search" action="/search/" id="cse-search-box">
+			<input type="hidden" name="cx" value="partner-pub-9415440757655812:">
+			<input type="hidden" name="cof" value="FORID:10">
+			<input type="hidden" name="ie" value="UTF-8">
+			<input type="text" name="q" size="25" id="searchText">
+			<input type="submit" name="sa" value="" class="spriteIco" id="submitSearch">
+		</form>		
 
-			<div class="side-ads"></div>
+		<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
 
-		</div><!-- EOF #ad-footer -->
-
-		<div id="footer">
+	</div>
+	<ul class="mainNav clearfix">
+		
+			<li><a href="/" class="navLink active">all</a></li>
 			
-			<div id="footer-main">
+		
+			
+			<li><a href="/tags/bikes/" class="navLink">Bikes</a></li>
+		
+			
+			<li><a href="/tags/cars/" class="navLink">Cars</a></li>
+		
+			
+			<li><a href="/tags/concepts/" class="navLink">Concepts</a></li>
+		
+			
+			<li><a href="/tags/diy" class="navLink">DIY</a></li>
+		
+			
+			<li><a href="/tags/gadgets/" class="navLink">Gadgets</a></li>
+		
+			
+			<li><a href="/tags/green/" class="navLink">Green</a></li>
+		
+			
+			<li><a href="/tags/offbeat/" class="navLink">Offbeat</a></li>
+		
+			
+			<li><a href="/tags/auto-shows/" class="navLink">Auto Shows</a></li>
+		
+			
+			<li><a href="/tags/tech/" class="navLink">Technology</a></li>
+		
+			
+			<li><a href="/tags/vehicles/" class="navLink">Vehicles</a></li>
+								
+	</ul>
+						
+				</div>
+			</div>
+			<div class="span-24">
+				<div class="content clearfix">					
+					<div class="span-16 last">
+						<div class="left">	
+							<h2>Instamedia Privacy Policy</h2>
+							<div>
+<p>Instamedia, Inc. ("Instamedia," "we," "us") is concerned about online privacy issues and wants you to be familiar with how we collect, use and disclose your personally identifiable information. This Privacy Policy (the "Policy") describes our practices in connection with personally identifiable information that we collect through our website located at www.Instamedia.com (the "Site"). This Policy does not govern our collection of information through any web site, or by any other means, other than through the Site, nor does this Policy govern the collection of information by any of our affiliates (collectively, "Affiliated Entities").</p>
+<p>The Site is controlled and operated by Instamedia from the India, and is not intended to subject Instamedia to the laws or jurisdiction of any state, country or territory other than that of the India. Instamedia does not represent or warrant that the Site or any part thereof is appropriate or available for use in any particular jurisdiction. Those who choose to access the Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations.</p>
+<p>By using the Site, you agree to the terms and conditions of this Policy. If you do not agree to the terms and conditions of this Policy, please do not use the Site. We reserve the right to change this Policy without prior notice. You can determine when this Policy was last revised by referring to the "Last Updated" legend at the top of this page. Any changes to our Policy will become effective upon posting of the revised Policy on the Internet, accessible through the Site. Use of the Site following such changes constitutes your acceptance of the revised Policy then in effect.</p>
+<p>This Policy represents the sole, authorized statement of Instamedia's practices with respect to the collection of Personal Information (defined below) through the Site and Instamedia's use of such information. Any summaries of this Policy generated by third party software or otherwise (for example, in connection with the "Platform for Privacy Preferences" or "P3P") shall have no legal effect, do not bind Instamedia, shall not be relied upon in substitute for this Policy, and neither supersede nor modify this Policy. This Policy is in the English language. Any translation of this Policy shall have no legal validity. In the event of any inconsistency between the English language version hereof and any translation of this Policy into another language, this English language version will govern.</p>
+<p>Note Regarding the Use of This Site by Children: The Site is not directed to individuals under the age of thirteen (13), and we request that such individuals do not provide personally identifiable information through the Site. Further, we discourage individuals between ages 13 and 18 from using this site absent parental supervision.</p>
+<p>1. What Types of Information Does Instamedia Collect Via the Site?</p>
+<p>Instamedia gathers two basic types of information through the Site: "Personally Identifiable Information" (or "PII") and "Non-Personally Identifiable Information" (or "Non-PII"). Personally Identifiable Information is information that identifies you as a specific individual; that is, your name, postal address, telephone number, e?mail address, or your credit card number. PII does not include information about any company or organization with which you work, or any newspaper, magazine or other publication with which you may be associated (for example, the name of your employer or publication). In contrast, Non-Personally Identifiable Information includes aggregated information, demographic information, IP addresses and any other information that does not reveal your specific identity.</p>
+<p>a. Personally Identifiable Information.</p>
+<p>You do not have to provide PII to us to access the Site. However, in order for you to take advantage of particular opportunities provided through the Site (for example, to apply for membership or participate in surveys, contests, sweepstakes, raffles or other similar promotions), you may require that you furnish PII. We collect PII from you only when you voluntarily provide it to us. Please note, however, that any personally identifiable information contained in any Offered Content (as defined in our Member Terms) - for example, the names of reporters and people featured or quoted in any Offered Content - is considered to be public information, and does not constitute PII under this Privacy Policy.</p>				
+<p>b. Non-Personally Identifiable Information.</p>
+<p>When you visit and interact with the Site, Instamedia and third parties with whom Instamedia has contracted to provide services to Instamedia may collect Non-PII (for example, a catalog of the Site pages that you visit). Non-PII is generally collected from four different sources: server log files, cookies, clear GIFs and information that you voluntarily provide.</p>
+<p>i. Server Log Files.</p>
+<p>Your Internet Protocol (IP) address is an identifying number that is automatically assigned to your computer by your Internet Service Provider (ISP). This number is identified and logged automatically in our server log files whenever you visit the Site, along with the time(s) of your visit(s) and the page(s) that you visited. Collecting IP addresses is standard practice on the Internet and is done automatically by many web sites.</p>
+<p>ii. Cookies.</p>
+<p>Cookies are data that a web server transfers to an individual's computer for recordkeeping purposes. Cookies are an industry standard used by most web sites, and can facilitate users' ongoing access to and use of a particular web site. Cookies do not cause damage to your computer systems or files, and only the web site that transferred a particular cookie can read, modify or delete such cookie. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to automatically decline cookies, or to be given the choice of declining or accepting the transfer of a particular cookie, or cookies from a particular web site, to your computer.</p>
+<p>iii. Clear GIFs.</p>
+<p>Additionally, we or our service providers may use so-called "clear GIFs", "pixel tags", "web beacons" or similar means (collectively, "Clear GIFs") in some Site pages and HTML-formatted e-mail messages to, among other things, compile aggregate statistics about Site usage and response rates and help manage our web site reports. A Clear GIF is an electronic image, often a single-pixel (1x1), that is ordinarily not visible to Site users and may be associated with cookies on our users' hard drives. These Clear GIFs provide us and our service providers with the ability to recognize a browser's cookie when a browser visits this site. Clear GIFs also allow us and our service providers to count users who have visited certain pages of the Site and to help determine the effectiveness of promotional or advertising campaigns. When used in HTML-formatted e-mail messages, Clear GIFs can tell the sender whether and when the e-mail has been opened.</p>
+<p>iv. Information That You Voluntarily Provide.</p>
+<p>Instamedia also collects Non-PII (e.g., your interests, your geographic location and so forth) when you voluntarily provide such information to us.</p>
+<p>2. How Does Instamedia Use Information Collected on the Site?</p>
+<p>a. Personally Identifiable Information.</p>
+<p>Instamedia may use your PII to provide you with Site related services. Subject to your right to opt-out (see "Opt-Out" section below), we may also use your PII to inform you of content we believe which may be of interest to you.</p>
+<p>When you make a purchase through the Site, for example Media Marketplace or PHIP, we may collect your credit card number, billing address and other information related to such purchase (collectively, "Payment Information") from you, and may use such Payment Information in order to fulfill your purchase. We may also provide such Payment Information to third parties as necessary to complete your purchase (for example, to process your credit card). Additionally, if you participate in a purchase made through the Site, either as a buyer/republisher or a seller/licensor, we may provide your PII to any other users who participate in such purchase as necessary to fulfill such purchase (for example, to inform the seller/licensor who the buyer/republisher is, and vice versa). To the extent that Payment Information includes non-PII, use of such non-PII is governed by Section 2.b below.</p>
+<p>We may also provide you with the opportunity to complete a survey on the Site. PII collected through surveys will be used for the purposes of monitoring or improving the use of the Site.</p>
+<p>We may offer users the opportunity to participate in discussions in Instamedia' discussion threads. If you use Instamedia' discussion threads, you should be aware that any PII you submit in any discussion thread (including any PII you may choose to make available to other users through your user profile) becomes public information, and can be read, collected, or used by other users of discussion threads, and could be used to send you unsolicited messages. We are not responsible for the PII you choose to submit in these discussion threads, and we urge you to exercise discretion and caution when deciding to disclose your PII, or any other information, in any discussion thread.</p>
+<p>From time to time, in our sole discretion, we may use your PII to e-mail to you important information regarding the Site, your purchases, issues regarding Offered Content or changes to our terms, conditions, and policies ("Administrative E-mails"). Because this information may be important to your use of the Site, you may not opt-out of receiving these Administrative E-mails.</p>
+<p>Further, notwithstanding any other provision of this Policy to the contrary, we reserve the right to disclose your PII if we believe that we are required to do so (a) by law; (b) to comply with legal process or governmental requests; (c) to enforce our Terms of Service; (d) to fulfill our contractual obligations, including fulfilling our users' audit rights, if any; (e) to protect our operations or those of any Affiliated Entities; (f) to protect the rights, privacy, safety or property of Instamedia, the Affiliated Entities, you or others; and (g) to permit us to pursue available remedies or limit the damages that we may sustain. Moreover, we may, to the fullest extent the law allows, disclose PII about you to law enforcement agencies to assist them in identifying individuals who have been or may be engaged in unlawful activities.</p>
+<p>b. Non-Personally Identifiable Information.</p>
+<p>Because Non-PII does not personally identify you, we may use such information for any purpose. In addition, we reserve the right to share such Non?PII, which does not personally identify you, with Affiliated Entities and other third parties, for any purpose.</p>
+<p>3. Other Important Notes Regarding Our Privacy Practices.</p>
+<p>a. Third Party Service Providers.</p>
+<p>We work with third parties who provide services including but not limited to web site hosting, data analysis and other services of an administrative nature. We reserve the right to share your PII with such third parties solely for the purpose of enabling such third parties to provide such services.</p>
+<p>b. Third Party Advertisers.</p>
+<p>We may use third-party contextual and interest-based advertising companies to serve ads when users visit our website, among other services. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other Network websites in order to provide advertisements about goods and services of interest to you.</p>
+<p>The third party companies include Google's DoubleClick that may use a range of information including cookies, web beacons, IP addresses, usage data and other non-personal information about your computer or device (such as browser type and operating system) to provide you with relevant advertising. If you are logged into your Instamedia Account, we may also show you advertising based on the information you have provided to us in your Instamedia Account.</p>
+<p>DoubleClick cookie on Instamedia may help advertisers serve ads based on interests associated with non-personally identifiable online activity, such as content or ads viewed or previous activity on advertiser's website. This non-personally identifiable information is held separately from your Instamedia Account data, or other personally identifying information in our possession.</p>
+<p>You may view, edit and add to the categories used to provide you with interest-based advertising in the Ads Preferences Manager.</p>
+<p>You also may choose to opt out of the DoubleClick cookie at any time to stop the ads delivered to your browser.</p>
+<p>Instamedia does not provide any personal information to third-party ad servers or ad networks without your consent.</p>
+<p>c. Third Party Sites.</p>
+<p>The Site may contain links to third party web sites. These linked sites (including without limitation the web sites of Affiliated Entities) are not under Instamedia' control and we are not responsible for the privacy practices or the contents of any such linked site, or any link contained in any linked site. We provide such links only as a convenience, and the inclusion of a link on the Site does not imply endorsement of the linked site by Instamedia or any Affiliated Entities. If you provide any PII through any such third party web site, your transaction will occur on such third party's web site (not the Site) and the PII you provide will be collected by, and controlled by the privacy policy of, that third party. We recommend that you familiarize yourself with the privacy policies and practices of any such third parties. PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTIES.</p>
+<p>d. Security.</p>
+<p>We seek to maintain reasonable security measures in order to attempt to protect against the loss, misuse or alteration of the PII under our control. Unfortunately, there is no such thing as perfect security. As a result, although we strive to protect your PII, we cannot ensure or warrant the security of any information you transmit to us through or in connection with the Site or that we store on our or our service providers' systems.</p>
+<p>e. Opting-Out.</p>
+<p>We may, from time to time, send you messages about products and services that we believe would be of interest to you. If you would prefer not to receive such promotional messages, you may unsubscribe from such messages by clicking on the "unsubscribe" link at the bottom of such messages, or by contacting us by e-mail at contact@Instamedia.com.</p>
+<p>f. Changing or Removing Your PII.</p>
+<p>We provide you with several options for reviewing, correcting, updating or otherwise modifying PII that you have previously provided through the Site:</p>
+<p>1. You may contact us by e-mail at conatct[at]Instamedia.com.</p>
+<p>2. You may edit your profile by logging into the Instamedia and editing your personal profile.</p>
+<p>In each event, you must clearly indicate the information that you wish to have changed, or clearly indicate that you wish to have your PII removed from our database. We will endeavor to comply with your request as soon as reasonably practicable. However, we may need to retain certain information for recordkeeping purposes, and there may also be residual information that will remain within our databases and other records, which will not be removed therefrom. We also reserve the right, from time to time, to re-contact former users of the Site. Finally, we are not responsible for removing information from the databases of third parties with whom we have already shared your PII.</p>
+<p>g. Assignment.</p>
+<p>We reserve the right to transfer any and all PII that we collect from users of the Site to a third party in the event of any sale, transfer or other disposition of all or any portion of Instamedia's business.</p>
+<p>h. Contacting Us.</p>
+<p>If you have any questions regarding this Policy, please contact us either by e-mail at contact[at]Instamedia.com, or by regular mail at Citizen Media Pvt. Ltd, STPI, Block No. 24, SDA Complex, Kasumpti, Shimla- 171009, H.P., India . Please note that e-mail communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your e-mail correspondence with us.</p></div>
+						</div> 
+					</div>
+					<div class="span-8 last">
+						
+	<div class="sidebar">			
+		<div class="sidebarAds">
 				
-				<div class="publish">Published by The <a href="http://www.instablogs.com/">Instablogs Network</a>, <a href="http://www.citizenmedia.org">Citizen Media Pvt. Ltd.</a></div>
-				<div class="copyright">Copyright © Instablogs Network 2005. All rights reserved.</div>
-				<div class="footer-links">
-				<a href="http://www.instablogs.com/ad_solutions.php?b=48">Advertising</a>  |  <a href="/about-us.php">About</a> |  <a href="/disclaimer.php">Disclaimer</a> | <a href="/privacy-policy.php">Privacy Policy</a> | <a href="/terms-of-use.php">Terms of Use</a> | <a href="/contact-us.php?q=general">Contact</a>
+	<script type="text/javascript">GA_googleFillSlot("Coolbuzz_sidebar_atf_MR_300x250");</script>
+
+		</div>	
+		
+		<div class="subscribe clearfix">
+			<div class="title">Featured Stories</div>
+			
+		</div>
+		
+		<div class="relatedStories">
+			<a class="singleStory" href="http://www.coolbuzz.org/entry/coolest-cake-ever-a-dragon-cake/" title="Permalink: Coolest cake ever - A dragon cake!">
+				<p class="title">Coolest cake ever - A dragon cake!</p>
+				<img class="img" src="http://www.instablogsimages.com/images/2009/01/09/dragon-cake_ffD2e_6648_350x180.jpg">
+				<p class="exerpt">Just curious, why do we need a cake for every special occasion? Be it your birthday, wedding and maybe even divorce cakes - I mean, where did it all begin and what’s the reason behind it? Anyway, check out the cake above – a dragon cake! Must be exp</p>
+			</a><a class="singleStory" href="http://www.coolbuzz.org/entry/calling-a-pool-table-cool-requires/" title="Permalink: Calling a pool table cool, requires…">
+				<p class="title">Calling a pool table cool, requires…</p>
+				<img class="img" src="http://www.instablogsimages.com/images/2009/09/19/obscura-pool-table_6EQYW_6648_350x180.jpg">
+				<p class="exerpt">
+Let’s keep a balanced approach. Never mind the price ($200,000), cuz the majority of us can’t afford a pool table for a price like that. If not possess, we can at least take pride that technology has given us a platform where we can sit and enjoy...</p>
+			</a><a class="singleStory" href="http://www.coolbuzz.org/entry/lego-star-wars-chess-set-features-two-figures-on-one-piece/" title="Permalink: Lego Star Wars chess set features two figures on one piece">
+				<p class="title">Lego Star Wars chess set features two figures on one piece</p>
+				<img class="img" src="http://www.instablogsimages.com/images/2009/09/09/legochess-thumb-600x483-34885_qGNyV_6648_350x180.jpg">
+				<p class="exerpt">
+Combining Legos with the sublime futurism of Star Wars for a game of chess, Hollywood’s Lego fan Brandon Griffith has got us a game of chess in a way too different, even more vivid than the other Star Wars pieces we seen gracing the chess boards...</p>
+			</a><a class="singleStory" href="http://www.coolbuzz.org/entry/thanko-s-latest-mp3-player-is-a-wonder-of-miniaturization/" title="Permalink: Thanko’s latest MP3 player is a wonder of miniaturization">
+				<p class="title">Thanko’s latest MP3 player is a wonder of miniaturization</p>
+				<img class="img" src="http://www.instablogsimages.com/images/2009/09/18/thanko-mp3-player-1_5J3WR_54_350x180.jpg">
+				<p class="exerpt">
+
+In order to sustain, brands have to keep up with the rapid technological advancements of today. Given the present day scenario, with portability clause on the rise, brands have to focus on making small things smaller. As the saying goes, all good...</p>
+			</a>
+			
+		</div>		
+		<div class="clear"></div>
+		<div class="sidebarAds">
+				
+	<script type="text/javascript">GA_googleFillSlot("Coolbuzz_sidebar_btf_MR_300x250");</script>
+
+		</div>	
+				
+</div> 
+
+					</div>
+				</div> 				
+			</div>
+		</div> 
+		
+		<div class="footer clearfix">
+			<div class="container">
+				
+	<div class="span-24">
+		<div class="innerFooter clearfix">
+			<div class="footLeft">
+				<div class="feature">
+					<div class="title"><b>FEATURED</b><span>IN PAST</span></div>
 				</div>
-			</div><!-- EOF #footer-main -->
+				<div class="connect clearfix">
+					<div class="title">CONNECT WITH US</div>
+					<ul class="footNavIcons">
+						<li>&nbsp;&nbsp;<script src="http://www.stumbleupon.com/hostedbadge.php?s=6"></script></li>
+						<li><a href="" title="Be a Fan on Facebook - Coolbuzz" class="face spriteIco"></a></li>
+						<li><a href="" title="Follow Us On Twitter - Coolbuzz" class="tweet spriteIco"></a></li>
+						<li><a href="http://feeds.feedburner.com/coolbuzz/uyJP" title="Subscribe To Our RSS - Coolbuzz" class="rss spriteIco"></a></li>
+					</ul>
+				</div>
+				<div class="advertisement">
+					<div class="title">ADVERTISE WITH US</div>
+					<ul class="innerAdvertise">
+						<li><a href="http://www.instablogs.com/ad_solutions.php">Advertise with us</a></li><li><a href="/contact-us/">Contact Us</a></li>
+					</ul>
+				</div>
+				<div class="follow clearfix">
+					<a href="" title="Follow us on Twitter - Coolbuzz" class="followUs spriteIco"></a>
+					<span></span>
+				</div>
+				<div class="footLogo">
+					<b>Coolbuzz</b><span>© 2010 Instamedia Pvt. Ltd.</span><span>All rights reserved</span>
+				</div>				
+			</div>
+			<div class="footRight clearfix">
+				<div class="mainScrollDiv">					
+					<div class="jcarousel-skin-ie7" id="mycarousel">
+						<ul></ul> 											
+					</div>	
+					<div class="clear" id="scrollDivContent"></div>
+				</div>
+				<div class="popularStories">
+					<div class="title">ON THE NEXT PAGE</div>					
+					<ul class="popList">
+						
+							<li class="li"><a title="Permalink: Desinger Kenzo Takata’s  haute couture power plate..." href="http://www.coolbuzz.org/entry/desinger-kenzo-takata-s-haute-couture-power-plate-machine-for-fashionistas/">Desinger Kenzo Takata’s  haute couture power plate...</a></li>
+												
+						
+							<li class="li"><a title="Permalink: Opera: A nomadic contemporary abode for 21st century..." href="http://www.coolbuzz.org/entry/opera-a-nomadic-contemporary-abode-for-21st-century-homo-sapiens/">Opera: A nomadic contemporary abode for 21st century...</a></li>
+												
+						
+							<li class="li"><a title="Permalink: Electronic guitar t-shirt that can actually be played" href="http://www.coolbuzz.org/entry/electronic-guitar-t-shirt-that-can-actually-be-played/">Electronic guitar t-shirt that can actually be played</a></li>
+												
+						
+							<li class="li"><a title="Permalink: The largest ever Mona Lisa raised money for a charity" href="http://www.coolbuzz.org/entry/the-largest-ever-mona-lisa-raised-money-for-a-charity/">The largest ever Mona Lisa raised money for a charity</a></li>
+												
+						
+							<li class="li"><a title="Permalink: iPhone: You sh*t me, my fan bullsh*ts you" href="http://www.coolbuzz.org/entry/iphone-you-sht-me-my-fan-bullshts-you/">iPhone: You sh*t me, my fan bullsh*ts you</a></li>
+												
+						
+							<li class="li"><a title="Permalink: Ora watch epitomizes the term ‘measuring time’" href="http://www.coolbuzz.org/entry/ora-watch-epitomizes-the-term-measuring-time/">Ora watch epitomizes the term ‘measuring time’</a></li>
+												
+						
+							<li class="li"><a title="Permalink: A smart tool maketh a man cool !" href="http://www.coolbuzz.org/entry/a-rad-tool-maketh-a-man-cool/">A smart tool maketh a man cool !</a></li>
+												
+						
+							<li class="li"><a title="Permalink: Wink Glasses will make you blink, in case you forget" href="http://www.coolbuzz.org/entry/wink-glasses-will-make-you-blink-in-case-you-forget/">Wink Glasses will make you blink, in case you forget</a></li>
+												
+						
+							<li class="li"><a title="Permalink: Shoot 'em up in Zombie Shooting Gallery" href="http://www.coolbuzz.org/entry/shoot-em-up-in-zombie-shooting-gallery/">Shoot 'em up in Zombie Shooting Gallery</a></li>
+												
+						
+							
+							<li><a title="Permalink: The ingenious bug design for iPod speakers" href="http://www.coolbuzz.org/entry/the-ingenious-bug-design-for-ipod-speakers/">The ingenious bug design for iPod speakers</a></li>					
+						
+												
+					</ul>					
+				</div>
+				<div class="latestGalInfo clearfix">
+					<div class="latestGal">
+						<div class="title">LATEST GALLERIES &amp; SLIDESHOWS</div>
+						<div class="jcarousel-skin-ie72" id="mycarousel2">
+							<ul class="scrollGal clearfix">
+								<li>
+									<a title="Permalink: Best video glasses on the shelves" href="http://www.coolbuzz.org/slideshow/best-video-glasses-on-the-shelves/"><img src="http://www.instablogsimages.com/images/2010/05/14/myvu-crystal-ev_22974_110x135.jpg"></a>
+									<span>:</span>
+									<a title="Permalink: Best video glasses on the shelves" href="http://www.coolbuzz.org/slideshow/best-video-glasses-on-the-shelves/">Best video glasses on the shelves</a>
+								</li><li>
+									<a title="Permalink: Datamancer Victorian Keyboard - The Alchemist" href="http://www.coolbuzz.org/gallery/datamancer-victorian-keyboard-the-alchemist/"><img src="http://www.instablogsimages.com/images/2009/09/29/datamancer-the-alchemist-1jpg_65_110x135.jpg"></a>
+									<span>:</span>
+									<a title="Permalink: Datamancer Victorian Keyboard - The Alchemist" href="http://www.coolbuzz.org/gallery/datamancer-victorian-keyboard-the-alchemist/">Datamancer Victorian Keyboard - The Alchemist</a>
+								</li><li>
+									<a title="Permalink: Dark Elements Other Works" href="http://www.coolbuzz.org/gallery/dark-elements-other-works/"><img src="http://www.instablogsimages.com/gallery/2008/08/05/bone-chair_59_110x135.jpg"></a>
+									<span>:</span>
+									<a title="Permalink: Dark Elements Other Works" href="http://www.coolbuzz.org/gallery/dark-elements-other-works/">Dark Elements Other Works</a>
+								</li><li>
+									<a title="Permalink: coffin cars, crazy cars" href="http://www.coolbuzz.org/gallery/coffin-cars-crazy-cars/"><img src="http://www.instablogsimages.com/gallery/2008/07/29/coffin-cars-crazy-cars1_1333_110x135.jpg"></a>
+									<span>:</span>
+									<a title="Permalink: coffin cars, crazy cars" href="http://www.coolbuzz.org/gallery/coffin-cars-crazy-cars/">coffin cars, crazy cars</a>
+								</li><li>
+									<a title="Permalink: Skip" href="http://www.coolbuzz.org/gallery/skip/"><img src="http://www.instablogsimages.com/gallery/2008/07/22/skip-1_17340_110x135.jpg"></a>
+									<span>:</span>
+									<a title="Permalink: Skip" href="http://www.coolbuzz.org/gallery/skip/">Skip</a>
+								</li><li>
+									<a title="Permalink: Cars made from glass" href="http://www.coolbuzz.org/gallery/cars-made-from-glass/"><img src="http://www.instablogsimages.com/gallery/2008/07/22/exasis_18325_110x135.jpg"></a>
+									<span>:</span>
+									<a title="Permalink: Cars made from glass" href="http://www.coolbuzz.org/gallery/cars-made-from-glass/">Cars made from glass</a>
+								</li>
+							</ul>
+						</div>
+						
+					</div>
+					<div class="footArchive">
+						<div class="title">ARCHIVES</div>
+						<ul class="footarch">
+							<li> 
+								<span>2010</span>
+								
+									
+										
+										<a href="http://www.coolbuzz.org/archives/201003/">3</a>
+									
+									
+								
+									
+										<a class="active" href="http://www.coolbuzz.org/archives/201011/">11</a>
+										
+									
+									
+								
+															
+							</li><li> 
+								<span>2009</span>
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200901/">1</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200902/">2</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200903/">3</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200904/">4</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200905/">5</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200906/">6</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200907/">7</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200908/">8</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200909/">9</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200910/">10</a>
+									
+								
+															
+							</li><li> 
+								<span>2008</span>
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200801/">1</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200802/">2</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200803/">3</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200804/">4</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200805/">5</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200806/">6</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200807/">7</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200808/">8</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200809/">9</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200810/">10</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200811/">11</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200812/">12</a>
+									
+								
+															
+							</li><li> 
+								<span>2007</span>
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200701/">1</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200702/">2</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200703/">3</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200704/">4</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200705/">5</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200706/">6</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200707/">7</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200708/">8</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200709/">9</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200710/">10</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200711/">11</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200712/">12</a>
+									
+								
+															
+							</li><li> 
+								<span>2006</span>
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200601/">1</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200602/">2</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200603/">3</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200604/">4</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200605/">5</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200606/">6</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200607/">7</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200608/">8</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200609/">9</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200610/">10</a>
+									
+								
+															
+							</li><li> 
+								<span>2005</span>
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200510/">10</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200511/">11</a>
+									
+								
+									
+									
+										<a href="http://www.coolbuzz.org/archives/200512/">12</a>
+									
+								
+															
+							</li>
+						</ul>					
+					</div>
+				</div> 
+			</div>
+			<div class="clear"></div>
+			<div class="footLinks clearfix">				
+				<a href="/privacy-policy/" class="link">Privacy Policy |</a>
+				<a href="/terms-of-use/" class="link">Terms of use</a>
+				<span>A part of Instamedia network | Powered by <a href="http://www.instamedia.com/">Instapress</a></span>
+				<div>
+					<script type="text/javascript" language="JavaScript">
+						glam_affiliate_id = '318956411';
+						glam_logo_type = 'GLiving';
+						glam_logo_size = '160x24';
+						color_or_grayscale_flag ='';
+						glam_logo_color = 'wht';
+						glam_gs_logo_color = 'wht';
+						glam_logo_country = 'US';
+					</script>
+					<script src="http://www8.glam.com/js/widgets/glam_logo.js"></script>
+				</div>
+				<div>
+					<script type="text/javascript">
+						doclix_pid = 17977;
+						doclix_cid_anchor = 6785;
+					</script>
+					<script type="text/javascript" src="http://ads.doclix.com/adserver/serve/js/doclix_synd_overlay.js" async="async" charset="utf-8"></script>
+				</div>
+				<div>
+					<script type="text/javascript">
+						doclix_pid = 17977;
+						doclix_cid_image = 6922;
+					</script>
+					<script type="text/javascript" src="http://ads.doclix.com/adserver/serve/js/doclix_synd_image.js" async="async" charset="utf-8"></script>
+				</div>
+				
+					<div id="ph-display-unit" style="display:none;">
+					<script type="text/javascript">/*<![CDATA[*/
+					var _phPubId = 'pkh11';
+					var _phR = Math.floor(Math.random()*100*(new Date().getTime()/1000));
+					var url = 'http://tb.ph.affinity.com/inf.js?' + 'h='+escape(location.hostname) + '&pb=' + escape(_phPubId) + '&phR='+escape(_phR);
+					document.write(unescape("%3Cscript src='" + url + "' type='text/javascript'%3E%3C/script%3E"));
+					/*]]>*/</script><script src="http://tb.ph.affinity.com/inf.js?h=web.archive.org&amp;pb=pkh11&amp;phR=145629152880" type="text/javascript"></script>
+					</div>
+					
+			</div>
+		</div> 
+	</div>
+     
+	<!-- Instablogs Network Google Analytics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-601944-10");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<!-- End of Instablogs Network Google Analytics -->
 
-			<div class="side-ads"></div>
+	<!-- Site Google Analytics -->
+	<script type="text/javascript">
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', "UA-601944-6"]);
+	  _gaq.push(['_trackPageview']);
+	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();	
+	</script>
+	<!-- End of Site Google Analytics -->
+<!-- Start of StatCounter Code for Instablogs network -->
+<script type="text/javascript">
+var sc_project=2497465; 
+var sc_invisible=1; 
+var sc_security="77633a20"; 
+var sc_https=1; 
+var sc_remove_link=1; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" +
+scJsHost +
+"statcounter.com/counter/counter_xhtml.js'></"+"script>");</script><script type="text/javascript" src="https://secure.statcounter.com/counter/counter_xhtml.js"></script>
+<noscript><div class="statcounter"><img class="statcounter"
+src="https://c.statcounter.com/2497465/0/77633a20/1/"
+alt="vBulletin statistic" /></div></noscript>
+<!-- End of StatCounter Code for Instablogs network -->
 
-			<div class="side-ads"></div>
-
-		</div><!-- EOF #footer -->
-
-		</div> <!-- EOF #container -->
-
-				<div class="side-ads">
-									</div>
-
-	<!-- Start of StatCounter Code -->
+<!-- Start of StatCounter Code -->
 <script type="text/javascript">
 var sc_project=1132903; 
 var sc_invisible=1; 
@@ -714,61 +764,7 @@ class="statcounter"
 src="http://c.statcounter.com/1132903/0/7a25731b/1/"
 alt="iweb analytics" ></a></div></noscript>
 <!-- End of StatCounter Code -->
-<!-- Start of StatCounter Code Instablogs Network -->
-<script type="text/javascript">
-var sc_project=2497465; 
-var sc_invisible=1; 
-var sc_partition=66; 
-var sc_click_stat=1; 
-var sc_security="77633a20"; 
-</script>
-
-<script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
-class="statcounter"><a title="web stats"
-href="http://www.statcounter.com/free_web_stats.html"
-target="_blank"><img class="statcounter"
-src="http://c.statcounter.com/2497465/0/77633a20/1/"
-alt="web stats" ></a></div></noscript>
-<!-- End of StatCounter Code -->
-
-	<!-- Site Google Analytics -->
-	<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-	try {
-	var pageTracker = _gat._getTracker("UA-601944-6");
-	pageTracker._trackPageview();
-	} catch(err) {}</script>
-	<!-- End of Site Google Analytics -->
-
-
-	<!-- Channel Google Analytics -->
-	<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-	try {
-	var pageTracker = _gat._getTracker("UA-5515876-12");
-	pageTracker._trackPageview();
-	} catch(err) {}</script>
-	<!-- End of Channel Google Analytics -->
-
-<!-- Instablogs Network Google Analytics -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-601944-10");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-<!-- End of Instablogs Network Google Analytics -->
-  
-
-
-
+			</div>		
+		</div>
+	
 </body></html>
