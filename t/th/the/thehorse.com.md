@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehorse.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606135542id_/http%3A//www.thehorse.com/ViewArticle.aspx%3FID%3D2545) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehorse.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109053333id_/http%3A//www.thehorse.com/ViewArticle.aspx%3FID%3D2545) for the most accurate reproduction.*
 
 # The Horse | TheHorse.com Privacy Policy
 
