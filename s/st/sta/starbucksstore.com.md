@@ -1,88 +1,107 @@
-> *The following text is extracted and transformed from the starbucksstore.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606113143id_/http%3A//www.starbucksstore.com/products/shourplg.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbucksstore.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109160345id_/http%3A//www.starbucksstore.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
-# Prvacy Policy - StarbucksStore.com
+# Starbucks | Privacy Policy
 
-Our Pledge  
-Use of Personal Information: What we collect & how we use it  
-Information Shared with Third Parties  
-Changing Your Information or Unsubscribing  
-Links to/from Other Sites  
-Cookies  
-Notice of Changes
+Last updated: June 28, 2011
 
-**Our pledge to you, our customer**  
-Cooking.com respects your privacy. Our Internet site, [StarbucksStore.com](https://web.archive.org/), is meant to be a service to you. In order to provide you with the best products, timely information and quality customer service, we record a variety of information from your visit to our site. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
+The Starbucks name and reputation were built on a foundation of trust. This Starbucks Privacy Policy ("Policy") describes how Starbucks and its subsidiaries and affiliated companies ("Starbucks") collects, uses and discloses personal information of customers through our websites and online services, including [Starbucks.com](http://www.starbucks.com/), and other Starbucks owned or operated websites and online services that link to this policy (collectively, the “Sites”), through our programs and in our physical stores ("Services"). This Policy does not apply to websites and services that display or link to different privacy statements. Websites and services co-branded with other partners may display or link to a joint privacy statement or separate privacy statements of our partners in addition to our Policy.
 
-**Your personal information: what we collect and how we use it**
-
-  * **When you enter personal information into the Shopping Cart at[StarbucksStore.com](https://web.archive.org/)**, we collect your name, address, telephone number, e-mail address and credit card information only if provided. First, we use this information to fulfill your order and to communicate with you about your order. In fulfilling your order, we share your personal information with outside parties to the extent necessary to fulfill your order. In addition, 
-
-**a. Your First Use of the Shopping Cart at StarbucksStore.com** \- We use the information you provide to:  
-
-
-  * **automatically place you on our e-mail list** to receive special offers and updates about products and services, unless you edit your subscription profile;
-  *  **automatically place you on our direct mail/catalog list** to receive from us direct mail and printed catalogs with special offers and updates about products and services; and
   
 
-  * **make lists of our customers' names and postal addresses (but not e-mail addresses or phone numbers) available** to pre-screened companies who have specific direct mail (e.g. catalog) product or service offers that we think may be of interest to you.
 
-**b. Your Subsequent Use of the Shopping Cart at StarbucksStore.com** \- If you entered personal information into the Shopping Cart at StarbucksStore.com before, unless you edit your subscription profile, your subscription status will remain unchanged.
+## What Type of Information Does Starbucks Collect?
 
-Whether you are using the Shopping Cart for the first time or not, if you later decide that you want to be removed from a list, or do not want us to share your name and postal address information, simply follow the instructions in the section "Reviewing, Changing Your Information or Unsubscribing" below.
+Personal Information that may be collected by Starbucks may include:
 
-  * **When you send a gift** and want it sent directly to the recipient, you will need to submit the recipient's name and postal address. We use this information only to ship the product and confirm delivery. We do not share this information with outside parties except to the extent necessary to fulfill that order. Information you provide us to create a gift message (if available) is only used for that purpose, and it is only disclosed to the person receiving the gift.
-  *  **When you subscribe to our e-mail newsletters** , we collect your e-mail address so that we can send you our e-mail newsletters with special offers and updates about products and services. You can unsubscribe from our e-mail newsletters at any time by (i) clicking the unsubscribe link at the bottom of any electronic newsletter that you receive from us; or (ii) following the steps outlined below in the section "Reviewing, Changing Your Information or Unsubscribing."
-  *  **When you ask that we e-mail you when a product is back in stock** , we collect your name and e-mail address and use this information to e-mail you information on when the product is back in stock. Unless you uncheck the box at the time of making the request, we automatically place you on our e-mail newsletter list to receive StarbucksStore.com e-mail newsletters, special offers and/or new products and new services. You can unsubscribe from our e-mail newsletters at any time by (i) clicking the unsubscribe link at the bottom of any electronic newsletter that you receive from us; or (ii) following the steps outlined below in the section "Reviewing, Changing Your Information or Unsubscribing."
-  *  **When you create a My Account** , we collect your name, address, telephone number and e-mail address. You can use your My Account to update your account information, save addresses where you have sent products and track orders. We also use the information you provide to:
-    * **automatically place you on our e-mail lists** to receive special offers and updates about products and services; and
-    *  **automatically place you on our direct mail/ catalog list** to receive from us direct mail and printed catalogs with special offers and updates about products and services.
+  * Name, postal address, phone number, and e-mail address.
+  * Financial account information, such as credit card number and other payment information.
 
-If you want to be removed from a list, simply follow the instructions in the section "Reviewing, Changing Your Information or Unsubscribing" below.
 
-**Information about customers and visitors shared with third parties**
 
-  * As described in the section "When you enter personal information into the Shopping Cart at StarbucksStore.com”, in addition to being placed on our e-mail newsletter list and direct mail/catalog list, we may make your name and postal address available to pre-screened companies who have specific direct mail (e.g. catalog) product or service offers that we think may be of interest to you. We only share with these pre-screened companies the individual names and postal address of customers who have actually purchased products from us (as opposed to those individuals who have provided information to us as part of some other registration or sign-up process). If you do not want us to share your name and postal address information, simply follow the instructions in the section below "Reviewing, Changing Your Information or Unsubscribing."
-  * We also share information about our customers and visitors with trusted service providers who provide Cooking.com Companies with specific services and/or administer activities offered on the StarbucksStore.com site. (For example, we may provide customer information to companies that analyze our clickstream data in order to help us better design our site.)
-  * We also may use non-identifying and aggregate information (as opposed to identifiable individual information) about our customers and/or visitors to better design our website and we may provide it to advertisers and other third parties.
-  * We use Burst! Ad Desktop and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here [ ThirdParty Advertising](http://www.networkadvertising.org/optout_nonppii.asp).
-  * Upon completing your purchase, we may present offers on behalf of third party partners on the order confirmation page. If you click on some of these promotional links and accept the offer(s), we will send your personal information to this party to complete the transaction. We do not share this information without your consent.
-  * On rare occasions, we may disclose specific information upon governmental request, in response to a court order, when required by law to do so, or to protect the rights, property, or safety of Cooking.com, our users, or others. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing or commercial purposes.
+We may also collect information about you such as:
 
-**Reviewing, Changing Your Information or Unsubscribing**
+  * If you create an account - your username, password, your city of birth, your birthday and mobile phone number.
+  * If you buy goods at our stores or through our programs or otherwise - what you buy, where you buy, how frequently you buy and rewards you earn.
+  * If you use our mobile applications to buy goods using a Starbucks Card - information such as your device ID, your location and stores near you and visited by you may be collected.
+  * If you take a survey or interact with us in various other ways - demographics information and information about subjects that may interest you.
 
-At any time you can unsubscribe, correct or update your information or modify your preferences pertaining to our newsletters, catalog and mailing list.
 
-  * **To review, change or update information, as it pertains to our newsletters, you have several options:**
-    * **On the StarbucksStore.com Site.** Click on the "Help" button at the top of the home page then on the appropriate link under the "subscriptions" to change your information.
-    *  **By e-mail.** Send an email request to Customer Service.
-    *  **By postal mail.** Please include your email address and mail your request to us at 4086 Del Rey Avenue, Marina Del Rey, CA 90292: Attention: Customer Service.
-    *  **By phone.** Call toll-free at (800) 571-7289 in the USA and Canada.  
-(310) 664-1299 outside USA and Canada.
-  * **To review, change or update information as it pertains to our catalog or the sharing of your name and postal address with third parties who offer a product or service we think may be of interest to you, you have several options:**
-    * **On the StarbucksStore.com Site.** Click on the "Help" button at thetop of the home page then on the appropriate link under the "subscriptions" to change your information.
-    *  **By e-mail.** Send an email request to Customer Service.
-    *  **By postal mail.** Please follow [these instructions](https://web.archive.org/extras/mail_printout.htm) and mail your request to us at 4086 Del Rey Avenue, Marina Del Rey, CA 90292: Attention: Customer Service.
-    *  **By phone.** Call toll-free at (800) 571-7289 in the USA and Canada.  
-(310) 664-3222 outside USA and Canada.
 
-To protect your privacy and security, we will take reasonable steps to verify your identity before granting access to this information or making corrections.
+We may automatically collect website use information when you visit our Sites. This information may include information about your Internet service provider, your operating system, browser type, domain name, Internet protocol (IP) address, your access times, the website that referred you to us, the Web pages you request, and the date and time of those requests. Our collection of website use information may involve the use of cookies and Web beacons. Cookies are small data files stored on your hard drive by a website. Among other things, cookies help us improve our Sites and your experience. We use cookies to see which areas and features are popular and to count visits to our Sites. Web beacons are electronic images that may be used on our Sites or in our emails. We use Web beacons to deliver cookies, count visits, understand usage and campaign effectiveness and to tell if an email has been opened and acted upon. We may also use Local Shared Objects (Flash cookies). To identify Local Shared Objects on your computer and adjust your settings, visit: www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html#117645.
 
-Requests to be unsubscribed will be processed immediately, however you may receive additional newsletters for up to 1 week. Delays may occur if the email address or postal address information you provide us does not match the information in our database.
+Starbucks may also collect aggregated data or anonymized data that does not directly identify you.
 
-**Links to/from Other Sites**  
-To enhance your shopping experience, the StarbucksStore.com site may have links to other sites on the Internet that are owned by third party vendors and other third parties (External Sites), or you may come to StarbucksStore.com from a link from an External Site. These other web sites will have their own rules on privacy that you should review. StarbucksStore.com is not responsible for the privacy policies of External Sites.
+We may combine information we collect about you with information we receive from third parties.
 
-**Cookies**
+  
 
-Cooking.com uses a feature of your Internet Web browser called a cookie to assign an identification code to your computer. Cookies are files that your Web browser places on your computer’s hard drive. We do not and cannot use cookies to retrieve personal information about you from your computer unless such information was knowingly and willingly provided by you. Cookies do not provide us with access to any credit card information.
 
-Third Party Cookies  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+## How Does Starbucks Use Information About You?
 
-**Our Commitment to Data Security**
+Starbucks may use information about you for purposes described in this Policy or disclosed to you on our Sites or with our Services. For example, we may use information about you to:
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+  * Process and manage your purchase and use of Starbucks products and services, including your accounts and program participation.
+  * Respond to your customer service inquiries, post your comments or statements on any blog or other online forum maintained on our Sites, or take other actions in response to your inquiries or other Site activities.
+  * Create personalized promotions by combining your personal information with non personal information about you, such as the amounts and types of purchases you make or any benefits you receive through our programs.
+  * Communicate with you about your orders or purchases, your services, accounts and program participation, a contest or sweepstakes you have entered, and your requests for information.
+  * Communicate with you about our brands, products, events or other promotional purposes, including co-branded offers and affiliate and partner offers.
 
-**Notice of Changes**
 
-Cooking.com’s Privacy Policy for StarbucksStore.com is subject to change without notice. At any time, you may visit our website to view the current policy. 
+
+## Does Starbucks Share Personal Information with Third Parties?
+
+Starbucks shares your personal information in limited ways.
+
+  * We may share personal information about you with others with your consent.
+  * We may also share information with companies that provide support services to us (such as credit card processors, mailing houses or website hosts) and that help us market our products and services (such as email vendors). These companies may use information about you to perform their functions on our behalf.
+  * We may disclose specific information (i) upon lawful request, in response to legal process, and when required to comply with laws, (ii) to enforce our agreements, corporate policies, and terms of use or (iii) to protect the rights, property or safety of Starbucks, our employees, agents, customers, and others.
+  * If you participate in any blog or other online forum on our Sites, any personal information that you post on our Sites may be shared with other forum participants and Site visitors.
+  * In the event of a merger, acquisition, financing, or sale of assets or any other situation involving the transfer of some or all of our business assets, Starbucks may disclose personal information to those involved in the negotiation or transfer.
+
+
+
+We may also share aggregated or anonymized information that does not directly identify you.
+
+  
+
+
+## What Choices Does Starbucks Offer About Personal Information?
+
+Starbucks offers choices for you to request to update or change your personal information and how we communicate with you. Here are some of the ways you can request changes:
+
+  * Follow the opt-out instructions in promotional emails we send you.
+  * Log in to your StarbucksStore.com account, if you have one, and visit the profile management section to manage your contact information (SMS text, email and postal address) preferences and to update your personal information.
+  * Call 1-800-STARBUC.
+
+
+
+If you opt out of receiving promotional communications from us, we may still send you non-promotional communications such as emails about your accounts or our ongoing business relations.
+
+You can usually choose to set your browser to warn you when a cookie is being sent or to remove or reject cookies. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookie settings. If you choose to remove or reject cookies, it will affect many features or Services on our Sites.
+
+  
+
+
+## How is Personal Information Secured?
+
+Starbucks takes reasonable steps to maintain appropriate physical, technical and administrative security to help prevent loss, misuse, unauthorized access, disclosure or modification of personal information.
+
+While we take these reasonable efforts to safeguard your personal information, no system or transmission of data over the Internet or any other public network can be guaranteed to be 100% secure.
+
+  
+
+
+## Privacy Policy Updates
+
+We may update this privacy policy from time to time. When we do so, we will post the new privacy policy on this page and change the date at the top of the policy.
+
+We encourage you to check the date of our privacy policy when you visit this Site for any updates or changes. We will notify you of any modified versions of the privacy policy that might materially affect the way we use or disclose your personal information.
+
+  
+
+
+## Questions and Feedback
+
+We welcome your questions, comments and concerns about privacy.
+
+Starbucks Customer Relations can be [contacted online](http://www.starbucks.com/customer-service/contact), at (800) 235-2883 or by postal mail at Starbucks Customer Relations, PO Box 3717, Seattle, WA 98124-3717.
