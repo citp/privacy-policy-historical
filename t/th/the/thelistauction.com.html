@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thelistauction.com privacy policy that was archived on 2009-11-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091107123951id_/http%3A//www.thelistauction.com/content/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thelistauction.com privacy policy that was archived on 2011-11-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111109083453id_/http%3A//thelistauction.com/content/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>The List Auction - Privacy Policy</title>
@@ -9,6 +9,7 @@
 	<link href="include/css/style.css" rel="stylesheet">
 	<script type="text/javascript" src="include/js/chrome.js"></script>
 	<script type="text/javascript" src="include/js/functions.js"></script>
+	<script type="text/javascript" src="include/js/jFunctions.js"></script>
 	<script language="javascript" type="text/javascript">
         <!-- begin
 
@@ -45,45 +46,68 @@ eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=0,lo
       }
       //-->
       </script>
-		           	<script type="text/javascript">
+				<script type="text/javascript">
+			   var GB_ROOT_DIR = "http://thelistauction.com/content/include/js/greybox/";
+			</script>
+			<script type="text/javascript" src="http://thelistauction.com/content/include/js/greybox/AJS.js"></script>
+			<script type="text/javascript" src="http://thelistauction.com/content/include/js/greybox/AJS_fx.js"></script>
+			<script type="text/javascript" src="http://thelistauction.com/content/include/js/greybox/gb_scripts.js"></script>
+
+      <link href="http://thelistauction.com/content/include/js/greybox/gb_styles.css" rel="stylesheet" type="text/css">
+	<script type="text/javascript">
 	//SuckerTree Horizontal Menu (Sept 14th, 06)
 	//By Dynamic Drive: http://www.dynamicdrive.com/style/
 	var menuids=["navlist"] //Enter id(s) of SuckerTree UL menus, separated by commas
 
 	function buildsubmenus_horizontal(){
-		for (var i=0; i<menuids.length; i++){
-			var ultags=document.getElementById(menuids[i]).getElementsByTagName("ul")
-			for (var t=0; t<ultags.length; t++){
-				if (ultags[t].parentNode.parentNode.id==menuids[i]){ //if this is a first level submenu
-					ultags[t].style.top=ultags[t].parentNode.offsetHeight+"px" //dynamically position first level submenus to be height of main menu item
-					ultags[t].parentNode.getElementsByTagName("a")[0].className="mainfoldericon"
+		try{
+			for (var i=0; i<menuids.length; i++){
+				try{
+					var ultags=document.getElementById(menuids[i]).getElementsByTagName("ul")
 				}
-				else{ //else if this is a sub level menu (ul)
-					ultags[t].style.left=ultags[t-1].getElementsByTagName("a")[0].offsetWidth+"px" //position menu to the right of menu item that activated it
-					//ultags[t].parentNode.getElementsByTagName("a")[0].className="subfoldericon"
+				catch(e){
+
 				}
-				ultags[t].parentNode.onmouseover=function(){
-					this.getElementsByTagName("ul")[0].style.visibility="visible"
-				}
-				ultags[t].parentNode.onmouseout=function(){
-					this.getElementsByTagName("ul")[0].style.visibility="hidden"
+				for (var t=0; t<ultags.length; t++){
+					if (ultags[t].parentNode.parentNode.id==menuids[i]){ //if this is a first level submenu
+						ultags[t].style.top=ultags[t].parentNode.offsetHeight+"px" //dynamically position first level submenus to be height of main menu item
+						ultags[t].parentNode.getElementsByTagName("a")[0].className="mainfoldericon"
+					}
+					else{ //else if this is a sub level menu (ul)
+						ultags[t].style.left=ultags[t-1].getElementsByTagName("a")[0].offsetWidth+"px" //position menu to the right of menu item that activated it
+						//ultags[t].parentNode.getElementsByTagName("a")[0].className="subfoldericon"
+					}
+					ultags[t].parentNode.onmouseover=function(){
+						this.getElementsByTagName("ul")[0].style.visibility="visible"
+					}
+					ultags[t].parentNode.onmouseout=function(){
+						this.getElementsByTagName("ul")[0].style.visibility="hidden"
+					}
 				}
 			}
+			if (window.addEventListener)
+				window.addEventListener("load", buildsubmenus_horizontal, false)
+			else if (window.attachEvent)
+				window.attachEvent("onload", buildsubmenus_horizontal)
+		}
+		catch(e){
 		}
 	}
 
-	if (window.addEventListener)
-	window.addEventListener("load", buildsubmenus_horizontal, false)
-	else if (window.attachEvent)
-	window.attachEvent("onload", buildsubmenus_horizontal)
+
 	</script>
 </head>
 <body onload="MM_preloadImages('img/form/button2.jpg')">
-<script type="text/javascript" src="http://www.thelistauction.com/content/include/js/wz_tooltip.js"></script>
+<script type="text/javascript" src="http://thelistauction.com/content/include/js/wz_tooltip.js"></script>
 <div class="page">
 		<div class="header" style="background: url(img/../img/headers/header.jpg);cursor:pointer" onclick="window.location='index.php';"></div>
 	<div class="content">
-	<div style="min-height:600px;padding-left:10px;padding-right:10px;"><p style="text-align: center"><strong>PRIVACY POLICY</strong></p>
+	<div style="min-height:600px;padding-left:10px;padding-right:10px;">
+		<script type="text/javascript" src="https://thelistauction.com/content/include/js/jquery-1.4.4.min.js"></script>
+		<script>
+			var $j = jQuery.noConflict();
+		</script>
+		<p style="text-align: center"><strong>PRIVACY POLICY</strong></p>
 <p>Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence.&nbsp;<br>
 <br>
 We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the "Services")-those who access some of our Services but do not have accounts ("Visitors") as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service ("Members")-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.&nbsp;<br>
@@ -173,7 +197,7 @@ S-Format="%B %d, %Y" startspan --><b>May 16, 2008</b><!--webbot bot="Timestamp" 
 <p align="center">&nbsp;</p>
 <center>Copyright © 2003-2008 internetmarketinglawproducts.com <!--webbot bot="HTMLMarkup" endspan
 -->for Michael Purvis</center>
-<p>&nbsp;</p>			</div>
+<p>&nbsp;</p>			</div> <!-- div class content -->
 <script type="text/JavaScript">
 	function disableLink(url){
 		for(i=1; i<=4; i++)
@@ -187,13 +211,12 @@ S-Format="%B %d, %Y" startspan --><b>May 16, 2008</b><!--webbot bot="Timestamp" 
 	}
 </script>
 </div>  <div class="footer" style="background: url(img/../img/headers/footer.jpg) no-repeat;">
-      	<div class="aleft" style="margin-left:101px;position:relative; top:-41px;height:60px;"></div>
-        <br><br>
+			
         <div class="aleft" style="margin-left:110px;;height:20px">
           <a href="terms_services.php" style="font-size:12px;color:#001041">Terms Of Use &amp; Service</a>&nbsp;&nbsp;&nbsp;<a href="privacy_policy.php" style="font-size:12px;color:#001041">Privacy policy</a>&nbsp;&nbsp;&nbsp;<a href="earnings.php" style="font-size:12px;color:#001041">Earnings &amp; Income Disclamers</a>&nbsp;&nbsp;&nbsp;<a href="disclaimer.php" style="font-size:12px;color:#001041">Disclaimer &amp; Legal Rights</a>
         </div>
-  </div>
-  </div>
+  </div> <!-- div class footer -->
+  </div> <!-- div class page -->
 
 
 </body></html>
