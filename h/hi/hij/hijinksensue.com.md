@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hijinksensue.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620094723id_/http%3A//hijinksensue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hijinksensue.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109174814id_/http%3A//hijinksensue.com/privacy) for the most accurate reproduction.*
 
-# HijiNKS ENSUE – A Geek Webcomic – 5 Days A Week - » Privacy Policy
+# HijiNKS ENSUE – A Geek Webcomic - Privacy Policy
 
 Your privacy is important to HijiNKS ENSUE. This privacy statement provides information about the personal information that HijiNKS ENSUE collects, and the ways in which HijiNKS ENSUE uses that personal information.
 
