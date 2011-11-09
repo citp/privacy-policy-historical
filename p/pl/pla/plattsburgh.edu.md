@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plattsburgh.edu privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511072753id_/http%3A//www.plattsburgh.edu/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plattsburgh.edu privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109074337id_/http%3A//plattsburgh.edu/policies/privacy) for the most accurate reproduction.*
 
 # Website Privacy Policies at SUNY Plattsburgh
 
@@ -18,6 +18,7 @@ Plattsburgh State does not collect any personal information about you unless you
 
   * [Information Collected Automatically](http://web.plattsburgh.edu/policies/privacy/collectinginfo.php)
   * [Use of Cookies on our Website](http://web.plattsburgh.edu/policies/privacy/cookies.php)
+  * [Online Behavioral Advertising](https://web.archive.org/policies/privacy/behavioraladvertising.php)
   * [E-Mail and Transaction Information](http://web.plattsburgh.edu/policies/privacy/emailtransaction.php)
   * [Family Education Rights and Privacy Act (FERPA)](http://web.plattsburgh.edu/policies/privacy/ferpa/)
   * [Information and Choice](http://web.plattsburgh.edu/policies/privacy/choice.php)
