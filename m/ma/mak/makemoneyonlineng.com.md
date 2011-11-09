@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the makemoneyonlineng.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104064347id_/http%3A//makemoneyonlineng.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makemoneyonlineng.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109095227id_/http%3A//makemoneyonlineng.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Make Money Online Nigeria
+# Privacy Policy
 
-**Privacy** **Policy**
+Privacy Policy
 
 Protecting your privacy is important to us. We hope the following information will help you understand how we collect, use and safeguard the personal information you provide to us on our site.
 
+Please note: Goods ([products](http://makemoneyonlineng.com/products/ "products") and [services](http://makemoneyonlineng.com/services/ "services")) purchased are non-refundable after 60 days.
+
 **Personal Information**
 
-The definition of “personal information” in context to this privacy notice refers to any information that you give out that may disclose part or your whole identity. We will only gather personal information that you decide to offer us, such as email addresses. We are committed to our no spam policy and will not sell any information collected from our visitors.
+The definition of “personal information” in context to this privacy notice refers to any information that you give out that may disclose part or your whole identity. We will only gather personal information that you decide to offer us, such as[ email](http://feedburner.google.com/fb/a/mailverify?uri=makemoneyonlineng " email") addresses. We are committed to our no spam policy and will not sell any information collected from our visitors.
 
 We only apply the personal information that you submit to us for their intended purposes. We do not share personally identifiable information with third party websites, organizations or other persons without your consent unless it is:
 
@@ -24,19 +26,19 @@ We reserve the right to disclose your personally identifiable information as req
 
 **Collection of Information**
 
-As is true of most websites, we gather certain information automatically and store it in log files. This information Includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp and click Stream data. This Information collected will be used to research, analyze and evaluate trends and content featured on the website, to order to improve the [services](http://makemoneyonlineng.com/services/ "services") to our consumers. Website traffic, that is non-identifiable by person, is used in our data collection. We may use your IP address to assist in the diagnosis and administration of our website operations. It may also be utilized in the gathering of demographic data. Occasionally, we and other websites referred to many uses cookies.
+As is true of most websites, we gather certain information automatically and store it in log files. This information Includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp and click Stream data. This Information collected will be used to research, analyze and evaluate trends and content featured on the website, to order to improve the services to our consumers. Website [traffic](http://www.makemoneyonlineng.com/category/traffic/ "traffic"), that is non-identifiable by person, is used in our data collection. We may use your IP address to assist in the diagnosis and administration of our website operations. It may also be utilized in the gathering of demographic data. Occasionally, we and other websites referred to many uses cookies.
 
 **Cookies**
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
 
-Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. See “Third Party Advertisers & Links.” This privacy statement covers the use of cookies by this website only and does not cover the use of cookies by any advertisers. [See the “Third Party Advertisers” section.]
+Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. See “Third Party Advertisers & Links.” This privacy statement covers the use of cookies by this website only and does not cover the use of cookies by any advertisers.
 
 **Third Party Advertisers Links**
 
 Our websites contain links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each website to which we may link that may collect personally identifiable information. While we may use cookies in some parts of our website, cookies received with advertisements on our website are collected by the respective advertising companies, and we do not possess access to or control of such information gathered.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
 **Specific Parties**
 
@@ -60,25 +62,13 @@ Yours Truly
 Adesoji Adegbulu  
 for [MakeMoneyOnlineNg.com](http://makemoneyonlineng.com/ "http://MakeMoneyOnlineNg.com")
 
-[](http://www.makemoneyonlineng.com/shop.html)
+[](http://www.alexa.com/write/review/makemoneyonlineng.com)
 
-Popularity: 10%
+**Want to Make Real[ Money Online](http://www.makemoneyonlineng.com/ " Money Online")?** Join my Inner Circle and Learn the secrets of how I went from working online at a loss to making real money every month, consistently on a part-time basis! Enter your full name and email address below now to get started!
 
-[](http://www.thefuturemovement.org/register/)[](http://makemoneyonlineng.com/r/web4africa/)
-
-**Important Info!**
-
-If you have anything to say, ask or you know other money making ideas to share, kindly make use of the comment form below.  
+  
 
 
-You love this information or blog and you don't want to be missing whatever I post here and be getting them right in your inbox, even when you are not online, [**SUBSCRIBE TO MY BLOG HERE**](http://feedburner.google.com/fb/a/mailverify?uri=makemoneyonlineng). With your subscription comes a free eBook on **"The Greatest Money Making Secrets of All Time"**  
+#### What People Are Looking For:
 
-
-Also for you not to miss more quality information and other freebies I do give out to my blog readers and subscribers, kindly [**SUBSCRIBE TO MY BLOG HERE**.](http://feedburner.google.com/fb/a/mailverify?uri=makemoneyonlineng). Enter your email, check your INBOX and SPAM FOLDER for the verification link, Click on it and you will never miss anything again even when you are not online because whatever I post on this blog will automatically be sent to your inbox.  
-
-
-You will also get more information on how to make money online legitimately, how to start and run an online business, how to create wealth get free ebooks and also get discounts to all the products and services we make available on this blog. You can also recommend this blog to your friends, families and associates.
-
-Posted by maven   @   0 comments
-
-Tags : [Privacy Policy](http://makemoneyonlineng.com/tag/privacy-policy/)
+job7 reporter net e submit biz opp main (1)jobnews7 net e submit biz opp main (1)
