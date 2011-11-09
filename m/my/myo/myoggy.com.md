@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the myoggy.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510125443id_/http%3A//www.myoggy.com/page/view/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myoggy.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109230119id_/http%3A//myoggy.com/page/view/privacy-policy) for the most accurate reproduction.*
 
 # MyOggy.Com Submit Create Share and Post your business, articles, website, blogs.
+
+[ ](http://www.dpbolvw.net/click-4072585-10409843)
 
 | 
 
@@ -50,4 +52,8 @@ Guardian Angel Enterprises LLC
 
 Bonney Lake, WA  98391
 
+[](http://affiliates.thelotter.com/aw.aspx?A=1&Task=Click&ml=33622&TargetURL=http://www.thelotter.com/Play.aspx?pageId=8&LotteryID=0&itemid=1)
+
 | 
+
+[](http://www.greensmoke.com/4155-0-1-66.html)
