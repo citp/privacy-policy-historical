@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmomusic.ca privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509155847id_/http%3A//cosmomusic.ca/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmomusic.ca privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109031028id_/http%3A//cosmomusic.ca/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy / Cosmo Music - The Musical Instrument Superstore / Toronto, Canada
 
