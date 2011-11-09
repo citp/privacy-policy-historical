@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianideas.com privacy policy that was archived on 2010-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101116225914id_/http%3A//asianideas.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianideas.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109215037id_/http%3A//asianideas.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Pledge
 
