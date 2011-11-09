@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brits.co.uk privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218193217id_/http%3A//brits.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brits.co.uk privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109090349id_/http%3A//www.brits.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The BRIT Awards 2011
 
