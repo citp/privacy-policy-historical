@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codero.com privacy policy that was archived on 2011-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110411191308id_/http%3A//www.codero.com/legal/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codero.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109225427id_/http%3A//www.codero.com/legal/privacy.pdf) for the most accurate reproduction.*
 
 # Codero Privacy Policy
 
