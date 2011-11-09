@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the softwareadvice.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511165249id_/http%3A//www.softwareadvice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwareadvice.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109095914id_/http%3A//www.softwareadvice.com/privacy) for the most accurate reproduction.*
 
-# Software Advice: ERP Software & Business Systems Experts
+# Software Advice Privacy Policy
 
 [Home](https://web.archive.org/) > Privacy Policy
 
