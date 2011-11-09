@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cyberpowersystem.co.uk privacy policy that was archived on 2010-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100729184834id_/http%3A//www.cyberpowersystem.co.uk/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberpowersystem.co.uk privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109170434id_/http%3A//www.cyberpowersystem.co.uk/company/privacy.aspx) for the most accurate reproduction.*
 
-# : : : CyberPower PC UK : : :
+# Custom Build Gaming PC, Desktop PC, Custom Computers, Gaming Laptops
 
 ### Information
 
