@@ -1,21 +1,20 @@
-> *The following text is extracted and transformed from the odb.org privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623183541id_/http%3A//www.rbc.org/info/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odb.org privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109084745id_/http%3A//rbc.org/policy/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | RBC Ministries
 
-RBC.org ("RBC") values the privacy of our Web site visitors. We have created this privacy statement in order to disclose information gathering and dissemination practices for this Web site. This privacy statement was last updated on 2/1/06 and also applies to other domain names associated with this Web site: (RBC.org/DHP.org and other domain names registered with RBC Ministries).  
+## [Privacy Policy](http://rbc.org/policy/privacy-policy/ "Permalink to Privacy Policy")
 
+RBC.org (“RBC”) values the privacy of our Web site visitors. We have created this privacy statement in order to disclose information gathering and dissemination practices for this Web site. This privacy statement was last updated on 2/1/06 and also applies to other domain names associated with this Web site: (RBC.org/DHP.org and other domain names registered with RBC Ministries).
 
-**PRIVACY STATEMENT**  
+**PRIVACY STATEMENT**
 
-
-Information collected on this site will be used according to the following guidelines:  
-
+Information collected on this site will be used according to the following guidelines:
 
   1. **Personal Information Policy.** RBC.org is an online Web site of RBC Ministries (RBC), publishers of _Our Daily Bread,_ and its affiliates Discovery House Publishers (DHP) and ChristianCourses.com. RBC Ministries maintains a strict ministry-wide policy that we will never sell, rent, or otherwise give your private information to other organizations, commercial or non-profit. The only exception would be to comply with the law, or to protect the rights, property, or safety of RBC Ministries, our users, or others. Any personally identifiable information (name, address, and/or e-mail address) that you submit to us is used only for the purpose for which it was given.
 
   2. **Contact Us.** We use the Contact Us forms located on various areas of the site to allow you to contact us directly with any questions, comments, or requests you may have. This information is used to respond to your questions, comments, and requests. We may also file your comments to improve the site and program, or review and discard the information. We do not provide any information to third parties.
 
-  3. **Logged Files and Cookies.** When you log onto the Internet, your ISP automatically assigns an IP address to your computer. Web servers identify your computer by its IP address, and we use your IP address to help diagnose problems with our servers, to administer our Web site, and to constantly improve the value of the materials available on the Web site. We do not link IP addresses to anything personally identifiable. This means that a user's session will be tracked, but the user will be anonymous.
+  3. **Logged Files and Cookies.** When you log onto the Internet, your ISP automatically assigns an IP address to your computer. Web servers identify your computer by its IP address, and we use your IP address to help diagnose problems with our servers, to administer our Web site, and to constantly improve the value of the materials available on the Web site. We do not link IP addresses to anything personally identifiable. This means that a user’s session will be tracked, but the user will be anonymous.
 
   4. **Information Collected.** When becoming a RBC member, you will provide your e-mail and mailing address. This allows us to send you monthly updates, contact you regarding announcements, system updates, new ministry products and offerings, and other information. RBC may also collect individually identifiable information (such as name, mailing address, e-mail address, and phone number) from all who purchase products offered in connection with RBC.org, RBC Ministries, or any of its publishing divisions. The information is used to (a) deliver products and services; (b) analyze and monitor visitor and customer activity; (c) promote and support the products and services offered; (d) help plan the future development of the site and the products and services offered; and (e) develop a knowledge base regarding Web site users and customers.
 
@@ -35,7 +34,7 @@ Information collected on this site will be used according to the following guide
 
   9. **Message Boards.** Any information that is posted to message boards, chat rooms, or the like on the RBC site becomes public information. RBC is not responsible for any unacceptable language or topics discussed, but we will do everything we can to assure that these areas are monitored and that the appropriate topics are discussed.
 
-  10. **Acceptance.** Use of the site will constitute the user's acceptance of this privacy policy. If you have any questions or complaints about any uses of data, or about this statement in general, you may contact our site coordinator by using the Contact Us form on the Web site or by writing to us at the following address:
+  10. **Acceptance.** Use of the site will constitute the user’s acceptance of this privacy policy. If you have any questions or complaints about any uses of data, or about this statement in general, you may contact our site coordinator by using the Contact Us form on the Web site or by writing to us at the following address:
 
 
 
