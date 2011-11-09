@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radioshackwireless.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617063529id_/http%3A//www.radioshack.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioshackwireless.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109041839id_/http%3A//www.radioshack.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooter_privacy_txt) for the most accurate reproduction.*
 
 # RadioShack.com Helpdesk
 
@@ -22,7 +22,7 @@ For those customers who register for special email offerings, we may use the zip
 We are committed to the protection of the privacy of our customers and visitors. While in the checkout process of our online store, we make use of 128 bit encryption via digital IDs provided and certified by [VeriSign, Inc.](http://www.verisign.com/) These IDs enable our commerce site to conduct authenticated, strongly encrypted online commerce. Customers can submit credit card numbers or other personal information to our site with the assurance that they are doing business with us (not an impostor's "spoof" of our site) and that the information which they are sending to us cannot be intercepted or decrypted by anyone else. 
 
 **Requesting removal of your information**  
-If you have registered for special e-mail offerings, you may unsubscribe from the program, by visiting the [e-mail unsubscribe page](https://web.archive.org/helpdesk/index.jsp?subdisplay=unsubscribe&display=account) or click on the links available at the bottom of any of these special offer e-mails. You may also request the removal of your information by [contacting us via e-mail](https://web.archive.org/helpdesk/index.jsp?stillHaveQuestion=yes&subdisplay=contact&display=store). 
+If you have registered for special e-mail offerings, you may unsubscribe from the program, by visiting the [e-mail unsubscribe page](http://www.radioshack.com/helpdesk/index.jsp?subdisplay=unsubscribe&display=account) or click on the links available at the bottom of any of these special offer e-mails. You may also request the removal of your information by [contacting us via e-mail](http://www.radioshack.com/helpdesk/index.jsp?stillHaveQuestion=yes&subdisplay=contact&display=store). 
 
 If you wish to receive more personalized information from RadioShack or change anything about your profile such as your interests or e-mail format, please click on the links available at the bottom of any of these special offer e-mails or visit the Your Account page. 
 
