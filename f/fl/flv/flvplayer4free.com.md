@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flvplayer4free.com privacy policy that was archived on 2010-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100813034202id_/http%3A//www.flvplayer4free.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flvplayer4free.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109060545id_/http%3A//www.flvplayer4free.com/privacy.htm) for the most accurate reproduction.*
 
 # FLV player Privacy
 
