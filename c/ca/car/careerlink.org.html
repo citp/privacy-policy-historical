@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the careerlink.org privacy policy that was archived on 2011-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110514044713id_/http%3A//careerlink.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the careerlink.org privacy policy that was archived on 2011-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111110000502id_/http%3A//careerlink.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
 <title>
 Careerlink.com | Privacy Policy</title>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
-<meta http-equiv="author" content="Applied Information Management Institute">
+<meta http-equiv="author" content="AIM Institute">
 <link href="/css/reset.css" rel="stylesheet" type="text/css">
 <link href="/css/site.css" rel="stylesheet" type="text/css">
 <link href="/css/table.css" rel="stylesheet" type="text/css">
@@ -31,24 +31,37 @@ pageTracker._trackPageview();
 function toggleLogin( show, user )
 {
     if (show == 'on') {
-        document.getElementById('buttonwrap').style.display = 'none';
-        document.getElementById('login').style.display = 'block';
-        document.getElementById('loginForm').email.focus();
+        if( $('buttonwrap' ) )
+        {
+            $('buttonwrap').style.display = 'none';
+        }
+        if( $('internne_toolbar' ) )
+        {
+            $('internne_toolbar').style.display = 'none';
+        }
+        $('login').style.display = 'block';
+        $('loginForm').email.focus();
         if (user == 'emp') {
-            document.getElementById('identify').innerHTML = "Username";
-            document.getElementById('loginForm').action = "https://secure.careerlink.com/signin/emp";
-            document.getElementById('forgot_password_link').href = "/forgotpwd/emp";
+            $('identify').innerHTML = "Username";
+            $('loginForm').action = "https://secure.careerlink.com/signin/emp";
+            $('forgot_password_link').href = "/forgotpwd/emp";
         } else {
-            document.getElementById('identify').innerHTML = "Email Address";
-            document.getElementById('loginForm').action = "/signin";
-            document.getElementById('forgot_password_link').href = "/forgotpwd";
+            $('identify').innerHTML = "Email Address";
+            $('loginForm').action = "/signin";
+            $('forgot_password_link').href = "/forgotpwd";
         }
     } else {
-        document.getElementById('buttonwrap').style.display = 'block';
-        document.getElementById('login').style.display = 'none';
+        if( $('buttonwrap' ) )
+        {
+            $('buttonwrap').style.display = 'block';
+        }
+        if( $('internne_toolbar' ) )
+        {
+            $('internne_toolbar').style.display = 'block';
+        }
+        $('login').style.display = 'none';
     }
 }
-// $login: 1
 // ]]>
 </script>
 </head>
@@ -62,9 +75,7 @@ function toggleLogin( show, user )
         <span style="padding-left:12px; float:left;">
         <a href="/clickable/redirect/facebook_careerlink"><img src="/images/facebook.png" alt="Facebook" title="Facebook"></a>        </span>
     </div>
-    <div id="top_menu">
-        <div id="pre">I'm a</div>
-      <a href="/" class="on">Job Seeker</a>
+<div id="top_menu" style=""><div id="pre">I'm a</div>      <a href="/" class="on">Job Seeker</a>
       <a href="/employer">Employer</a>
       <a href="/student">Student</a>
       <a href="/educator">Educator</a>
@@ -81,14 +92,14 @@ function toggleLogin( show, user )
     To the region's leading career development resource where job seekers, employers, students, 
     educators and entrepreneurs connect.
 </div>        <div id="intro_ads">
-            <div style="padding:0px; height: 52px; background-color: #FFFFFF; float:left">
-<a href="/clickable/redirect/careerlink_relocate"><img src="/images/spaces/nebraskarelocation.gif" alt="Careerlink Relocation" title="Careerlink Relocation"></a>            </div>
-            <div style="margin-left:10px; height: 52px; background-color: #FFFFFF; float:left">
-<a href="/clickable/redirect/cox17"><img src="/images/spaces/cox14.gif" alt="Cox Tech Support Representatives" title="Cox Tech Support Representatives"></a>            </div>
-        </div>
+                            <div style="padding:0px; height: 52px; background-color: #FFFFFF; float:left">
+                <a href="/clickable/redirect/verizon8"><img src="http://ad.doubleclick.net/ad/N4789.CareerLink/B5136940.2;sz=200x52;ord=[timestamp]?" alt="Verizon Wireless"></a>                </div>
+                                    <div style="margin-left:10px; height: 52px; background-color: #FFFFFF; float:left">
+                    <a href="/clickable/redirect/hayneedle8"><img src="/images/spaces/hayneedle8.gif" alt="Hayneedle" title="Hayneedle"></a>                    </div>
+                                        </div>
     </div>
 </div>
-<div id="tool_bar">
+<div id="tool_bar" style="">
     <div id="buttonwrap">
         <div class="buttons">
             <a href="/employer/pricing"><img class="button" src="/images/emp_su.png" style="width:156px; height:26px" alt="Employer Sign Up"></a>
@@ -103,35 +114,45 @@ function toggleLogin( show, user )
             <a href="javascript:void(0)" onclick="toggleLogin('on','js')"><img class="button" src="/images/js_li.png" style="width:156px; height:26px; margin-right:0px" alt="Job Seeker Login"></a>
         </div>
     </div>
-    <div id="login">
+    <div id="login" style="float:none">
         <a href="javascript:void(0)" onclick="toggleLogin('off')"><img class="close" src="/images/close.png" style="width:22px; height:22px" alt="Close"></a>
-<form name="loginForm" action="//privacy" method="post" id="loginForm">
+<form id="loginForm" action="/privacy" method="post">
 <div class="row">
     <div class="column first">
-        <div class="field"><label id="identify" for="email">Email Address</label>&nbsp;&nbsp; <input id="email" type="text" name="email" size="28" value="" style="width:200px">
+        <div class="field">
+            <label id="identify" for="email">Email Address</label>:&nbsp;
+            <input id="email" type="text" name="email" size="26" value="" style="width:200px">
         </div>
     </div>
     <div class="column">
-        <div class="field"><label for="password">Password</label>&nbsp;&nbsp; <input type="password" id="password" name="password" size="18" value="" style="width:140px">
+        <div class="field">
+            <label for="password">Password</label>:&nbsp;
+            <input type="password" id="password" name="password" size="16" value="" style="width:140px">
+        </div>
+    </div>
+    <div class="column">
+        <div class="field">
+            <input type="checkbox" class="nobox" name="remember_me" value="1" id="remember_me">
+            <label for="remember_me">Remember Me</label>
         </div>
     </div>
     <div class="column">
         <div class="field">
 <input type="submit" name="submit" value="LOGIN" class="submit">        </div>
     </div>
-    <div class="column">
+    <div class="column last">
         <div class="field">
-            <div class="sublink"><a href="/forgotpwd">Forget your password?</a></div>
+            <div class="sublink"><a id="forgot_password_link" href="/forgotpwd">Forgot password?</a></div>
         </div>
     </div>
 <script type="text/javascript">
 // <![CDATA[
 document.write( '    <input type="hidden" name="current_uri" value="' + window.location + '" \/>' );
 // ]]>
-</script>    <input type="hidden" name="current_uri" value="https://web.archive.org/web/20110514044713id_/http%3A//careerlink.com/privacy">
+</script>    <input type="hidden" name="current_uri" value="https://web.archive.org/web/20111110000502id_/http%3A//careerlink.com/privacy">
 </div>
 </form>
-    </div>
+</div>
 </div>
 </div>
 <!-- /header -->
@@ -285,7 +306,8 @@ believe that we have not adhered to it, please contact
             Relocate to Nebraska
         </div>
         <div class="promotext">
-            <center><img src="/images/promo/nebraska.png" alt="Move to Nebraska" style="width:150px; height:62px; margin-bottom:6px"></center>Are you considering opportunities to live and work in Nebraska? The AIM Institute and <a href="/">Careerlink.com</a> want to help! 
+            <div style="text-align:center"><img src="/images/promo/nebraska.png" alt="Move to Nebraska" style="width:150px; height:62px; margin-bottom:6px"></div>
+            Are you considering opportunities to live and work in Nebraska? The AIM Institute and <a href="/">Careerlink.com</a> want to help! 
         </div>
         <div class="promolink">
             <a href="/clickable/redirect/careerlink_relocation"><img src="/images/arrow2.png" alt="Careerlink Relocation Help">&nbsp;More Information</a>        </div>
@@ -293,33 +315,40 @@ believe that we have not adhered to it, please contact
         <div class="promo spaced">
         <div class="promohead">
             <div class="browse"></div>
-            AIM Institute's Innovation Space
+            AIM Achiever Program
         </div>
         <div class="promotext">
-            <img src="/images/promo/laptop.png" alt="Innovators and Entrepreneurs" style="width:84px; height:78px; float:left; padding:2px; padding-right:8px">Are you an entrepreneur looking for space to collaborate with other innovators? AIM's Innovation Space, located on the 8th floor of the Exchange Building in vibrant downtown Omaha, is available for lease and will help you take your business to the next level.
+            <div style="text-align: center;">
+            <img src="/images/promo/aimachiever2011.png" alt="AIM Achiever Program" style="float:left;">
+            </div>
+            <div class="promolink" style="clear: both; text-align: center; font-weight: bold; padding: 10px 0px 5px;">
+                <a href="/clickable/redirect/aimachiever2011"><img src="/images/arrow2.png" alt="DONATE NOW"> DONATE NOW</a>            </div>
+            <div style="text-align: center;">
+            This scholarship awards $4,000 to selected eighth-grade students from Metro middle schools to encourage them to finish high school and pursue a college education.
+            </div>
         </div>
-        <div class="promolink">
-            <a href="/clickable/redirect/innovation"><img src="/images/arrow2.png" alt="Innovators and Entrepreneurs"> Details</a>        </div>
     </div>
     <div class="promo spaced third">
         <div class="promohead">
             <div class="browse"></div>
-             Infotec 2011 - Register Today
+            Now Available on Careerlink.com
         </div>
-        <div class="promotext" style="padding-right: 2px;">            <img src="/images/promo/infotec2011.png" alt="infotec 2011" style="width: 140px; height: 49px; float: left; padding: 0px 5px 0px 0px;"> Don't miss the region's biggest event in IT and Business – Infotec 2011, April 19 &amp; 20 at the Qwest Center Omaha. Hear nationally recognized experts discuss the latest trends on security, mobile, cloud, infrastructure, business intelligence, project management, healthcare IT and innovation.
+        <div class="promotext" style="padding-right: 2px;">            <a href="/clickable/redirect/liveomaha"><img src="/images/live_omaha-small.png" alt="Live Omaha" width="280" height="108" style="float: left; padding: 0px 5px 3px 0px;"></a>
+            LiveOmaha is Careerlink.com's exclusive housing and relocation
+            information service for the benefit of area job seekers.&nbsp;
+        <span class="promolink">
+            <a href="/clickable/redirect/liveomaha"><img src="/images/arrow2.png" alt="Live Omaha"> Learn More</a>        </span>
         </div>
-        <div class="promolink">
-            <a href="/clickable/redirect/infotec2011"><img src="/images/arrow2.png" alt="Register now for infotec 2011!"> Register Now!</a>        </div>
     </div>
 </div>
 <div id="copyright">
-    © Copyright 2011 Applied Information Management Institute, Inc. All Rights Reserved.
+© Copyright 2011 AIM Institute, Inc. All Rights Reserved.
 </div>
 </div>
 <div id="footer">
     <div class="wrapper">
         <div id="aimbar">
-            <div class="aboutaim"><br>
+                    <div class="aboutaim"><br>
                 <h1>AIM Institute</h1>
                 The AIM Institute is a not-for-profit membership organization that provides information technology
                 leadership to Nebraska and the surrounding region. We help our business, educational, and community
@@ -330,15 +359,17 @@ believe that we have not adhered to it, please contact
             <div class="articles">
                 <span class="rss"><a href="http://www.aiminstitute.org/rss/3.html"><img src="/images/rss.png" style="width:23px; height:25px" alt="RSS Subscribe"></a></span>
                 <div class="rssitems">
-                <a href="http://www.aiminstitute.org/aim-news/bryan-middle-school-g2-trio-talent-search-program-wraps-up-2.html">Bryan Middle School G2 TRiO Talent Search Program Wraps Up</a><br><br>
-<a href="http://www.aiminstitute.org/aim-news/may-25-aim-members-forum-how-to-create-a-start-up-within-an-existing-bus-2.html">May 25 AIM Members Forum  How to Create a Start-Up Within an Existing Business</a><br><br>
-<a href="http://www.aiminstitute.org/aim-news/college-access-program-selects-25-incoming-freshmen-for-2011.html">College Access Program Selects 25 Incoming Freshmen for 2011-2012</a><br><br>
+                <a href="http://www.aiminstitute.org/aim-news/welcome-to-aim-institute-2.html">Welcome to AIM Institute</a><br><br>
+<a href="http://www.aiminstitute.org/aim-news/infotec-2012-presentation-proposal-call-2.html">Open Call: Infotec 2012 Presentation &amp; Workshop Proposals! </a><br><br>
+<a href="http://www.aiminstitute.org/aim-news/aim-member-spotlight-peggybank-2.html">AIM Member Spotlight: PeggyBank</a><br><br>
                 </div>
             </div>
-        </div>
+                </div>
         <div id="closer">
 
-<div id="hosted_by"><span class="prefix">Hosted By</span><a href="/clickable/redirect/powered_by"><img src="/images/cosentry.png" alt="Cosentry" onclick="new Ajax.Request('clickable/redirect/1');;"></a></div>
+<div style="float: right;">
+<div id="hosted_by"><span class="prefix">Hosted By</span><a href="/clickable/redirect/powered_by"><img src="/images/cosentry.png" alt="Cosentry" onclick="new Ajax.Request('clickable/redirect/1');;"></a></div></div>
+
             <div id="aimlinks">
                 <div class="block">
                     <a href="/privacy"><img class="arrow" src="/images/arrow.png" alt="Arrow"> Privacy Policy</a><br>
