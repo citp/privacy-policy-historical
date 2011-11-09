@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the widgia.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511114912id_/http%3A//widgia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the widgia.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109095124id_/http%3A//widgia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+## [Privacy Policy](http://widgia.com/privacy-policy/ "Permanent Link to Privacy Policy")
+
+  
+
 
 **Widgia** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
@@ -12,11 +17,11 @@ All web servers track basic information about their visitors. This information i
 
 Where necessary, Widgia uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such [tracking](http://widgia.com/tag/tracking/ "tracking") is done directly by the third parties through their own servers and is subject to their own privacy policies. 
+Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
 ## Controlling Your Privacy
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other [tracking](http://widgia.com/tag/tracking/ "tracking") mechanisms.
+Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
 
 ## Special Note About Google Advertising
 
@@ -24,4 +29,9 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 ## Contact Information
 
-Concerns or [questions](http://widgia.com/tag/questions/ "questions") about this privacy policy can be directed to widgia@gmail.com for further clarification.
+Concerns or questions about this privacy policy can be directed to widgia@gmail.com for further clarification.
+
+Posted in | [No Comments »](http://widgia.com/privacy-policy/#respond "Comment on Privacy Policy")
+
+  
+
