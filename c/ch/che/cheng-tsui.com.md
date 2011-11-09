@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheng-tsui.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527100020id_/http%3A//www.cheng-tsui.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheng-tsui.com privacy policy that was archived on 2011-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111109061309id_/http%3A//www.cheng-tsui.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cheng & Tsui
 
@@ -12,7 +12,7 @@ Our postal address is:
 Boston, MA 02111-1213  
 USA**
 
-You can reach us by visiting our [Contact Us](https://web.archive.org/contact/Customer+Service "Contact Us") page, or by telephone at (800) 554-1963.
+You can reach us by visiting our [Contact Us](https://web.archive.org/contact/Customer+Service "Contact Us") page, or by telephone at 1-800-554-1963.
 
 We collect information on pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, payment information (e.g., credit card number and billing address).
 
@@ -40,4 +40,4 @@ Upon request we offer visitors the ability to have inaccuracies corrected in con
 
 We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The Direct Marketing Association's (DMA) Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org "mgoldberger@the-dma.org"), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at (202) FTC - HELP (382 - 4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The Direct Marketing Association's (DMA) Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org "mgoldberger@the-dma.org"), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 1-202-FTC-HELP (382-4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
