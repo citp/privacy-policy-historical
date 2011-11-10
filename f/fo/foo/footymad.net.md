@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footymad.net privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215065416id_/http%3A//www.footymad.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footymad.net privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110095519id_/http%3A//www.footymad.net/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Footymad
 
