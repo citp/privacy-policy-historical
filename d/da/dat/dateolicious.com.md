@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the dateolicious.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511112123id_/http%3A//dateolicious.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dateolicious.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110130404id_/http%3A//www.dateolicious.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy | Dateolicious
+
+[**Edit Profile**](https://web.archive.org/web/20111110130404id_/http%3A//www.dateolicious.com/Member/EditProfile.aspx) [**New Users**](https://web.archive.org/web/20111110130404id_/http%3A//www.dateolicious.com/Newusers.aspx) [**My City**](https://web.archive.org/web/20111110130404id_/http%3A//www.dateolicious.com/Member/Mycity.aspx) [**Search User**](https://web.archive.org/web/20111110130404id_/http%3A//www.dateolicious.com/Spu.aspx) [**My Matches**](https://web.archive.org/web/20111110130404id_/http%3A//www.dateolicious.com/Member/Compatible.aspx) [**Top Rated**](https://web.archive.org/web/20111110130404id_/http%3A//www.dateolicious.com/Toprated.aspx) |  |  |  |  |  [**Dating Sites**](https://web.archive.org/web/20111110130404id_/http%3A//www.dateolicious.com/Datingsites.aspx) |  [**Quick Dates**](https://web.archive.org/web/20111110130404id_/http%3A//www.dateolicious.com/Member/Quickdates.aspx) |  [**Ice Breaker**](https://web.archive.org/web/20111110130404id_/http%3A//www.dateolicious.com/Member/icebreaker.aspx) |  [**Chat!**](https://web.archive.org/web/20111110130404id_/http%3A//www.dateolicious.com/member/chat.aspx) | 
 
 ##  Privacy Policy Agreement 
 
