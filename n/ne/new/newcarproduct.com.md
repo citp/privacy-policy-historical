@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newcarproduct.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512140511id_/http%3A//www.newcarproduct.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcarproduct.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110125746id_/http%3A//www.newcarproduct.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy New Car Product dot Com | New Car Release Page
+# Privacy Policy - New Car Product
 
 NewCarProduct takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
 
