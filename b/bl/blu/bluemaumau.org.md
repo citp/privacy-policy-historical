@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluemaumau.org privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521090827id_/http%3A//www.bluemaumau.org/node/1367) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluemaumau.org privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110182444id_/http%3A//www.bluemaumau.org/node/1367) for the most accurate reproduction.*
 
 # Blue MauMau's Privacy Policy | BlueMauMau
 
