@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibtimes.co.uk privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512152512id_/http%3A//uk.ibtimes.com/aboutus/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibtimes.co.uk privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110070344id_/http%3A//uk.ibtimes.com/aboutus/policy.htm) for the most accurate reproduction.*
 
 # International Business Times - Policy
 
