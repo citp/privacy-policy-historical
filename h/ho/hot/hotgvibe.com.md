@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotgvibe.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509184343id_/http%3A//www.hotgvibe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotgvibe.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110013109id_/http%3A//www.hotgvibe.com/privacy) for the most accurate reproduction.*
 
-# 
+# Sex Toys, Dildos, and Vibrators at HotGVibe.com
 
 Hot G Vibe wants to help you make the most of your visit to our websites, and that incorporates helping safeguarding your individual privacy. All of the features on our websites are presented without gathering any personal information from you. You can browse the Hot G Vibe websites and view all of our content anonymously. Only when you purchase a product from Hot G Vibe do we require your personal information to process accurately your transcation.
 
