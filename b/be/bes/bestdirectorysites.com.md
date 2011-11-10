@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestdirectorysites.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610084721id_/http%3A//www.bestdirectorysites.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestdirectorysites.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110030939id_/http%3A//www.bestdirectorysites.com/privacy.html) for the most accurate reproduction.*
 
 # Best SEO Friendly Links
 
