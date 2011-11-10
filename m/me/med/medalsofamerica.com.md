@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the medalsofamerica.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513071100id_/http%3A//www.medalsofamerica.com/content--name-Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medalsofamerica.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110215242id_/http%3A//www.medalsofamerica.com/content--name-Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Medals of America
 
-|  |   
----  
-  
 _  
 Effective May, 2010_
 
@@ -143,6 +140,4 @@ Attn: Customer Service
 114 Southchase Blvd  
 Fountain Inn, SC 29644  
 or  
-1-800-611-3707  
-  
-| 
+1-800-611-3707
