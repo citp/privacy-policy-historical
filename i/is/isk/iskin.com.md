@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iskin.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605123116id_/http%3A//www.iskin.com/privacy.tpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iskin.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110200702id_/http%3A//www.iskin.com/privacy.tpl) for the most accurate reproduction.*
 
 # iSkin - Privacy
 
