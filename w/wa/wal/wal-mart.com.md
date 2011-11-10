@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wal-mart.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614014545id_/http%3A//www.walmart.com/catalog/catalog.gsp%3Fcat%3D121240) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wal-mart.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110051757id_/http%3A//www.walmart.com/catalog/catalog.gsp%3Fcat%3D121240) for the most accurate reproduction.*
 
 # Walmartstores.com: Walmart Privacy Policy - Highlights
 
