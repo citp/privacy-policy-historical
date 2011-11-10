@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the vivapersia.com privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915171452id_/http%3A//www.vivapersia.com/terms.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vivapersia.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110112308id_/http%3A//www.vivapersia.com/terms.php%23privacy) for the most accurate reproduction.*
 
-# Viva Persia| Terms of Service and Privacy Policy
-
-Terms of Service 
+# Viva Persia|
 
 **Your Use of the Site**  
 VivaPersia.com hereby grants you a limited license to copy and use the materials, features, and services provided by VivaPersia.com on this Site (collectively the "Materials") solely for your personal, non-commercial use, subject to these Terms. The design and layout of the Site are specifically excluded from the Materials. No other use of the Site or Materials is authorized. You agree that any copy of the Materials (or any portion of the Materials) that you make shall retain all copyright and other proprietary notices contained herein or therein. Framing of the Site or Site Materials or posting of Materials on other Web Sites is strictly prohibited. 
@@ -32,9 +30,6 @@ VivaPersia.com may allow you to create your own greetings by uploading your own 
 
 When you upload material to the Site and use it to create a greeting, your material will be used for the transmission of your digital greeting; however, we may also use such material in the course of performing testing, training and/or archiving of our and our affiliates' systems and hereby expressly reserve the right to do so.
 
-Privacy Policy  
-
-
 **Overview**  
 At VivaPersia.com, protecting our users' privacy and security is a top priority. For this reason, we have adopted the following policy to advise you of your choices regarding the use of your personal information online. This policy describes what types of information we gather about you, how we use it, under what circumstances we disclose it to third-parties, and your rights to update or correct it.
 
@@ -60,4 +55,9 @@ Notwithstanding the above policies, we reserve the right to disclose your person
   * To protect against misuse or unauthorized use of our web site and/or the VivaPersia.com service; or 
   * During emergencies, such as when we believe someone's physical safety is at risk. 
 
+
+
+| 
+
+ADVERTISEMENT  
 
