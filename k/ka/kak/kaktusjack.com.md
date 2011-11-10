@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaktusjack.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625234109id_/http%3A//kaktusjack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaktusjack.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110070827id_/http%3A//kaktusjack.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kaktus Jack
 
