@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sybase.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612113540id_/http%3A//www.sybase.com/detail%3Fid%3D1003649%26rel%3Dnofollow) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sybase.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110191438id_/http%3A//www.sybase.com/detail%3Fid%3D1003649%26rel%3Dnofollow) for the most accurate reproduction.*
 
 # Sybase Inc. Privacy Policy Policy Statement: - Sybase Inc
 
 **Effective December 10, 2010**
 
-This statement discloses the privacy practices that apply to the online collection of data obtained on [www.sybase.com](https://web.archive.org/), owned and operated by Sybase, Inc and your interactions with Sybase off-line.   Sybase, Inc. abides by the principles within the Safe Harbor Program framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
+This statement discloses the privacy practices that apply to the online collection of data obtained on [www.sybase.com](https://web.archive.org/), owned and operated by Sybase, Inc and your interactions with Sybase off-line.   Sybase, Inc. abides by the principles within the Safe Harbor Program framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland.
 
 Sybase is strongly committed to protecting your privacy online. If you have questions or concerns regarding this statement, you should first contact the Sybase Web Marketing team by email at [privacy@sybase.com](mailto:privacy@sybase.com).
 
