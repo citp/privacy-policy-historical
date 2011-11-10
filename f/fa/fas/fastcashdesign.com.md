@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastcashdesign.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504040106id_/http%3A//www.fastcashdesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastcashdesign.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110160033id_/http%3A//www.fastcashdesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Fast Cash Design . com
 
