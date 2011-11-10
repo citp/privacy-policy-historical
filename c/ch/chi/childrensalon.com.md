@@ -1,13 +1,34 @@
-> *The following text is extracted and transformed from the childrensalon.com privacy policy that was archived on 2007-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070404000841id_/http%3A//www.childrensalon.co.uk/information.php%3Finfo_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childrensalon.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110045210id_/http%3A//www.childrensalon.com/privacy) for the most accurate reproduction.*
 
-# Childrens Salon
+# Privacy policy | Childrensalon
 
-Privacy policy for childrenssalon
+**Personal information**
 
-We are committed to protecting your privacy.We collect information about you to process your order and provide you with the best possible service.
+We value our customers, and our priority is to ensure your personal information is secure and your privacy is respected. We collect customer information when you place an order online, in an effort to improve your shopping experience and to communicate with you about our products and promotions. In addition, you may elect to sign up to receive email updates about our products and promotions.
 
-The type of information we collect about you includes your name, address, phone number, email address and credit card details.
+We collect personal information only when you voluntarily submit the information and we most definitely do not sell or rent the information you provide to us to third parties. When you make an online purchase from us, we use your information to process your order. We will also send you emails to confirm your order, and we may need to contact you by telephone, email or regular post if we have other questions regarding your order.
 
-We are committed to protecting your privacy and all of the information you give us is private and secure. We do not disclose buyers information to third parties. All the information we receive is used to process your orders and develop a better online experience. We may from time to time inform you a new products and changes we may make to our website.
+If at any time you would like us to remove you from our email mailing list or registration database, please contact us via email, including your full name and the email address used when accessing or ordering from our site.
 
-If you do not wish to receive future communications from us email us at [privacy@childrenssalon.co.uk](mailto:info@childrenssalon.co.uk)
+We may contain links to other sites that are not under our control. These web sites have their own policies regarding privacy, which you should review before visiting them. We have no responsibility for linked web sites and provide these links solely for the convenience and information of our visitors.
+
+**Payment security**
+
+We use the SagePay Payment Service Provider system. All transaction information passed between merchant sites and the SagePay systems are encrypted using 128-bit SSL certificates. Sounds complicated, we know. You can feel secure in the knowledge that nothing you pass to the SagePay servers can be examined, used or modified by third parties attempting to gain access to sensitive information. Your details are not disclosed to any third parties without your consent. For more information please visit [www.sagepay.com](http://www.sagepay.com/).
+
+**Email Marketing and Newsletters Opt-in and Opt-out**
+
+When you register an account with us, you will be given the option to opt-out of subscribing to newlsetter service. Our newsletter service provides you with email alerts for new products, discounts, sale products, contests, new brands and other items of interest.
+
+We do not sell or otherwise pass your details to third parties for marketing purposes. Marketing communications you subscribe to will only be sent by Childrensalon Ltd.
+
+At all times, we will offer you the opportunity to unsubscribe out of any service or update to which you have subscribed, if you change your mind. Any e-mail we send you will contain an easy automated unsubscribe link so that you can opt-out of that particular mailshot. Simply follow the indications in the e-mail. Alternatively you can change your email preferences or opt out of all emails by logging into My Account.
+
+Alternatively, to opt out of any direct mail service or updates, please contact our customer care team on +44 (0) 1892 779110 or by email to [info@childrensalon.com](mailto:info@childrensalon.com).
+
+* * *
+
+  
+Childrensalon Ltd is a company registered in England & Wales Number: 04997666 Registered Office: 9 High Street, Tunbridge Wells, Kent, England, TN1 1UL
+
+* * *
