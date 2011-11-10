@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the doubleviking.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229085347id_/http%3A//www.doubleviking.com/privacy-policy-6806-p.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubleviking.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110023028id_/http%3A//www.doubleviking.com/privacy-policy-6806-p.html) for the most accurate reproduction.*
 
 # Privacy Policy - 10/17/2007
-
-  
-
 
 **Doubleviking.com Privacy Statement**
 
@@ -48,11 +45,3 @@ Whenever Doubleviking changes our privacy policy, we will post those changes to 
 
 **Contact Information**  
 If you have any questions or suggestions regarding our privacy policy, please contact us at [doubleviking@gmail.com](mailto:doubleviking@gmail.com).
-
-[LINK TO THIS ARTICLE](https://web.archive.org/web/20101229085347id_/http%3A//www.doubleviking.com/privacy-policy-6806-p.html "Privacy Policy")
-
-There are comments so far: 
-
-**Want to write a comment?**
-
-[Login](https://web.archive.org/web/20101229085347id_/http%3A//www.doubleviking.com/login.phtml) or [signup](https://web.archive.org/web/20101229085347id_/http%3A//www.doubleviking.com/signup.phtml)
