@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuone.org privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222233820id_/http%3A//www.cuone.org/about/documents/CreditUnionONE-PrivacyStatement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuone.org privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110061035id_/http%3A//www.cuone.org/about/documents/CreditUnionONE-PrivacyStatement.pdf) for the most accurate reproduction.*
 
 # FACTS
 
