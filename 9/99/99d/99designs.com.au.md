@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the 99designs.com.au privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218043034id_/http%3A//99designs.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99designs.com.au privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110070745id_/http%3A//99designs.com.au/help/privacy) for the most accurate reproduction.*
 
-# 99designs » Privacy Policy
+# Privacy Policy | 99designs
 
 ### What We Collect
 
-We save the details you provide to us in your account profile, including your email address, phone numbers, physical address — you get the idea. The majority of this information is optional, but whatever you provide is safe with us. In fact, we won't disclose it to anyone unless we're forced to by law.
+We save the details you provide to us in your account profile, including your email address, phone numbers, physical address — you get the idea. The majority of this information is optional, but whatever you provide we won't disclose it to anyone else unless you agree to have us do so, or we're required to do so by law.
 
 We also collect the following usage statistics at an aggregate level:
 
   * your IP address
-  * your browser version and it's capabilites
+  * your browser version and its capabilities
   * your operating system
   * the date and time of your visit
 
@@ -26,9 +26,9 @@ Aside from the obvious uses of your details to enable the functionality of the 9
 
 
 
-This information is kept on a secure dedicated servers within the 99designs offices, and with trusted third party hosting providers.
+This information is kept on secure dedicated servers within the 99designs offices, and with trusted third party hosting providers.
 
-The information collected during the registration process for 99designs may be used to:
+The information collected during the registration process by 99designs may be used by 99designs or referring partners to:
 
   * contact members
   * customize content to match your preferences
@@ -37,9 +37,13 @@ The information collected during the registration process for 99designs may be u
 
 
 
-The information we collect in this process can also be used to prevent suspended users from reregistering under a different username. We might also send cookies to your browser to enable automatic logins when you visit in future, as well as for content customization. That's right -- this little site is more complicated than it looks!
+The information we collect in this process can also be used to prevent suspended users from re-registering under a different username. We might send cookies to your browser to enable automatic logins when you visit in the future, as well as for content customization. Our Third party vendors, including Google, may also use cookies to serve ads based on your prior visits to this website.
 
-If you purchase products or credits from 99designs, we'll keep your contact information and a transaction history. We might use your contact details to keep you informed of the status of your order, as well as to let you know about 99designs products and services.
+You have the option to opt out of Google's use of cookies by visiting the Google advertising [opt-out page.](http://www.google.com/privacy_ads.html)
+
+Alternatively you can opt out of cookies by visiting the Network Advertising Initiative [opt-out page.](http://www.networkadvertising.org/managing/opt_out.asp)
+
+If you purchase products, services or credits from 99designs, we'll keep your contact information and a transaction history. We might use your contact details to keep you informed of the status of your business with us, as well as to let you know about 99designs products and services.
 
 Feeling nervous? Don't be! The data we collect about you will only be used by us and our agents. 99designs hereby reserves the right to transfer any data collected in the event of an acquisition, full or partial, of the company or its assets.
 
@@ -53,28 +57,6 @@ Oh, don't forget that you can control which emails you receive from us through y
 
 ### Contact Us
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following addresses:
-
-[99designs Pty Ltd](http://99designs.com/)
-
-Pref
-
-48 Cambridge Street
-
-Collingwood, VIC, 3066
-
-Australia
-
-Intl
-
-410 Townsend Street
-
-Suite 450
-
-San Francisco, CA, 94107
-
-USA
+We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
 
 You may [contact us](https://web.archive.org/contact) by email at contact@99designs.com
-  *[VIC]: Victoria
-  *[CA]: California
