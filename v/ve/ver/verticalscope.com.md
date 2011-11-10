@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verticalscope.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606163135id_/http%3A//www.verticalscope.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verticalscope.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110194202id_/http%3A//www.verticalscope.com/privacy-statement.html) for the most accurate reproduction.*
 
 # VerticalScope : Privacy Statement
 
