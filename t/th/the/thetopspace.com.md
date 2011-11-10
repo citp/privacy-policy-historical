@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetopspace.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513150515id_/http%3A//thetopspace.com/index.php/Table/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetopspace.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111003549id_/http%3A//thetopspace.com/index.php/Table/Privacy-Policy) for the most accurate reproduction.*
 
 # thetopspace - Privacy Policy
 
