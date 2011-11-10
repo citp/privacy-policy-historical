@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imaletyoufinish.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621174417id_/http%3A//imaletyoufinish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imaletyoufinish.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110103827id_/http%3A//imaletyoufinish.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kanye West Will
 
