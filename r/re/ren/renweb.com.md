@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the renweb.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613142650id_/http%3A//www.renweb.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renweb.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110094624id_/http%3A//www.renweb.com/privacy.aspx) for the most accurate reproduction.*
 
-# RenWeb Privacy Policy
+# Privacy Policy
 
 **OUR COMMITMENT TO YOU**
 
 To Our Valued Clients:
 
-The privacy of your information is important to us, and maintaining your trust and confidence is one of our highest priorities. We respect your right to keep your information confidential. We hope that by taking a few minutes to read our Privacy Policy, you will have a better understanding of what we do with the information you provide us and how we keep it private and secure. We appreciate your placing your trust in WilComp Software, L.P. ("WilComp"), the provider of RenWeb School Management Software ™ and RenWeb Donor Connect ™. 
+The privacy of your information is important to us, and maintaining your trust and confidence is one of our highest priorities. We respect your right to keep your information confidential. We hope that by taking a few minutes to read our Privacy Policy, you will have a better understanding of what we do with the information you provide us and how we keep it private and secure. We appreciate your placing your trust in WilComp Software, L.P. ("WilComp"), the provider of RenWeb School Management Software ™ and RenWeb Donor Connect ™.
 
 **PRIVACY STATEMENT**
 
@@ -16,8 +16,8 @@ WilComp respects the privacy of every school and person that entrusts their info
 
 We have developed our privacy policy from industry guidelines and standards, and local, national, and international laws and requirements. All privacy practices and methods described herein only apply insofar as permitted by applicable standards, laws and requirements. The fundamental principles of our privacy policy are:
 
-  1. Data will be processed fairly and lawfully. 
-  2. Data is collected for specified and legitimate purposes and not further processed in a way that is incompatible with those purposes. 
+  1. Data will be processed fairly and lawfully.
+  2. Data is collected for specified and legitimate purposes and not further processed in a way that is incompatible with those purposes.
   3. The data collected will be maintained in a secure manner based on industry standards and best practices for the security and the protection of data.
   4. Data will not be shared with any third party without the consent of the owner of the data unless required in support of the school, or to complete a transaction on behalf of the owner of the data such as a payment transaction, or is required by law, warrant, subpoena or similar legal process.
 
@@ -31,7 +31,7 @@ Given that our services include student information management and fundraising s
 
 **_— School Administration_**
 
-We will respond to requests for Contacts and Sales Demonstration made via our website [www.renweb.com](http://www.renweb.com/) using personal information received from you at the time of the request. To request information about our products and services, we may ask you to provide certain information including but not limited to your name, address, telephone number, email address, school name, school address, total enrollment, grade levels, and referral information. _No information will be collected unless you provide it to us voluntarily. WilComp will not share this information with anyone outside of our company, subject to the limitations described above._
+We will respond to requests for Contacts and Sales Demonstration made via our website [www.renweb.com]() using personal information received from you at the time of the request. To request information about our products and services, we may ask you to provide certain information including but not limited to your name, address, telephone number, email address, school name, school address, total enrollment, grade levels, and referral information. _No information will be collected unless you provide it to us voluntarily. WilComp will not share this information with anyone outside of our company, subject to the limitations described above._
 
 WilComp may use school information to contact appropriate representatives at the school. For example, we may send marketing or promotional materials including emails or other information to school administrators; we may respond to your comments, questions or requests for information; or we may contact you as necessary to provide general customer support. You may update your contact information or opt out of receiving marketing or promotional materials by contacting our Customer Support center by phone at +1 866 800 6593, or via email request sent to [privacy@renweb.com](mailto:privacy@renweb.com).
 
@@ -57,9 +57,9 @@ It is the responsibility of our client schools to utilize our services (e.g. the
 
 **Access to Customer Information:**
 
-The primary goal of WilComp in collecting personal information from our customers is to assist our customers in managing the information they provide utilizing our products and services. We have always safeguarded the confidentiality of information provided to us by our clients and are bound by our professional standards to continue to maintain this vital aspect of our professional relationship. The following individuals may have access to some or all of your information: 
+The primary goal of WilComp in collecting personal information from our customers is to assist our customers in managing the information they provide utilizing our products and services. We have always safeguarded the confidentiality of information provided to us by our clients and are bound by our professional standards to continue to maintain this vital aspect of our professional relationship. The following individuals may have access to some or all of your information:
 
-  1. **Employees of the company** : Employees who need such information to conclude a transaction or provide technical support for which the customer has engaged WilComp 
+  1. **Employees of the company** : Employees who need such information to conclude a transaction or provide technical support for which the customer has engaged WilComp
   2. **Service Providers** : As with any business, other service firms may need access to certain information at very specific times and for very specific reasons. An example might be consultants that must have access to certain client records in order to increase the efficiency of our computer processing systems. We have and will always insist that any such information that needs to be disclosed for any business purpose be considered confidential and not used for any purpose other than the specific business need. That well-understood business policy of confidentiality will be reinforced as needed by contractual agreements with any service provider having access to your data.
 
 
@@ -106,6 +106,6 @@ We reserve the right to modify this privacy policy at any time, so please review
 
 WilComp Software, L.P.  
 101 E. Renfro St. Suite A  
-Burleson, TX USA 76028 
+Burleson, TX USA 76028
 
 This version of the Privacy Policy was last updated on **30-Sep-2010** and replaces all previous versions of our policy.
