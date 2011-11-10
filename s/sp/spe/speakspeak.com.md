@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speakspeak.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628120346id_/http%3A//speakspeak.com/a/html/b2_about_us_privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speakspeak.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110231003id_/http%3A//speakspeak.com/a/html/b2_about_us_privacy_policy.htm) for the most accurate reproduction.*
 
 # Speakspeak: About Us: Privacy Policy
 
