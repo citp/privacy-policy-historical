@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxhome.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505000110id_/http%3A//fxhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxhome.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110122205id_/http%3A//fxhome.com/privacy-policy) for the most accurate reproduction.*
 
 # FXhome.com :: Privacy Policy
 
@@ -45,5 +45,3 @@ FXhome Limited is a company registered in England and Wales with company number 
 **Telephone Number:** 00+44 (0)1603 251741
 
 **Fax Number:** 00+44 (0)1603 251741
-
-Copyright © 2008 - 2011 FXhome Limited. All rights reserved.
