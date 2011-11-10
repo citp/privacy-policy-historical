@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywoodtoysandcostumes.com privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215100017id_/http%3A//www.hollywoodtoysandcostumes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodtoysandcostumes.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110132728id_/http%3A//www.hollywoodtoysandcostumes.com/privacy.php) for the most accurate reproduction.*
 
 # HollywoodToysAndCostumes.com - Privacy / Terms and Conditions - Halloween Costumes - Holiday Costumes - Hollywood Costumes - Accessories
 
@@ -22,17 +22,17 @@ The use of this Site indicates your agreement to the Privacy statement above. Ho
 
 **Returns**
 
-If your purchase is unsatisfactory because of size, defect, or error in shipping, you may return it withinthirty (30) daysfrom receipt of shipment. If it is not returned within thirty (30) days from your receipt of shipment, we will assume that you are satisfied with your purchase. No return will be accepted for merchandise returned after thirty (30) days from your receipt of shipment.
+If your purchase is unsatisfactory because of size, defect, or error in shipping, you may return it within fourteen (14) days from receipt of shipment. If we are not contacted within (14) days from your receipt of shipment, we will assume that you are satisfied with your purchase. No return request will be granted after fourteen (14) days from your receipt of shipment.
 
 _Requirements for Returning Merchandise_
 
-  1. A Return Merchandise Authorization (RMA) must be obtained by email within two weeks of your receipt of shipment, at [cs@hollywoodtoysandcostumes.com](mailto:cs@hollywoodtoysandcostumes.com). Packages will not be accepted without a Return Merchandise Authorization.  The request for an RMA must include: 
+  1. A Return Merchandise Authorization (RMA) must be obtained by email within fourteen (14) days of your receipt of shipment, at [cs@hollywoodtoysandcostumes.com](mailto:cs@hollywoodtoysandcostumes.com). Packages will not be accepted without a Return Merchandise Authorization.  The request for an RMA must include: 
     * The reason for the return
     * The Order Number from your packing slip
     * The date of purchase
   2. All returns must be accompanied by the original packing slip enclosed with your shipment, and a separate note stating the reason for the return.
   3. All merchandise authorized to be returned must be returned to the address specified in the RMA, via a traceable shipping method, such as UPS, with delivery confirmation, and all shipping charges must be prepaid by the sender.
-  4. We must receive all returns within a maximum of forty five (45) days from your receipt of shipment.
+  4. We must receive all returns within a maximum of thirty (30) days from your receipt of shipment.
   5. We do not accept returns on the following items: 
     * Wigs, beards, facial hair or any other artificial hair
     * Fangs or any other fake teeth
