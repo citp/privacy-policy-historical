@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpleplate.net privacy policy that was archived on 2011-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110127081238id_/http%3A//simpleplate.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleplate.net privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110130741id_/http%3A//simpleplate.net/privacy) for the most accurate reproduction.*
 
 # Privacy | Simple Plate
 
