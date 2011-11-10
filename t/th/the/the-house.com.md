@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-house.com privacy policy that was archived on 2011-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110116080400id_/http%3A//helpdesk.the-house.com/index.php%3Fpage%3Dour_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-house.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110110039id_/http%3A//helpdesk.the-house.com/index.php%3Fpage%3Dour_privacy_policy) for the most accurate reproduction.*
 
 # The House Helpdesk - Our Privacy Policy
 
@@ -62,9 +62,9 @@ March-September
 ### STORE HOURS
 
 October-February  
-10AM - 7PM (M-F)  
+10AM - 8PM (M-F)  
 9AM - 5PM (Sat)  
-12PM-4PM (Sun)
+11AM-5PM (Sun)
 
 March-September   
 10AM -7PM (M-F)  
@@ -77,4 +77,4 @@ The House
 200 S. Owasso Blvd E.  
 St. Paul, MN 55117
 
-All times based on Central Time Zone (daytime adjusted)
+All times based on [Central Time Zone](http://www.thetimenow.com/cst/central_standard_time) (daytime adjusted)
