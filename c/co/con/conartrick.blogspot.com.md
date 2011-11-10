@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the conartrick.blogspot.com privacy policy that was archived on 2011-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110205154926id_/http%3A//conartrick.blogspot.com/p/con-artist-trickster-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conartrick.blogspot.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110064536id_/http%3A//conartrick.blogspot.com/p/con-artist-trickster-privacy-policy.html) for the most accurate reproduction.*
 
-# CON ARTIST TRICKSTER: Privacy Policy
+# Privacy Policy | CON ARTIST TRICKSTER
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **burnedbruno@gmail.com**
 
