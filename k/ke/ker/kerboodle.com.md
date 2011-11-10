@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kerboodle.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627170328id_/http%3A//www.kerboodle.com/privacy/Kerboodle-privacy-policy20091124.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kerboodle.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110024204id_/http%3A//www.kerboodle.com/privacy/Kerboodle-privacy-policy20091124.pdf) for the most accurate reproduction.*
 
 # KERBOODLE! PRIVACY POLICYKERBOODLE! PRIVACY POLICYKERBOODLE! PRIVACY POLICYKERBOODLE! PRIVACY POLICY 1.1.1.1.
 
