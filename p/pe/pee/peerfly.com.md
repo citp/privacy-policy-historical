@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the peerfly.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128025720id_/http%3A//peerfly.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peerfly.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110173409id_/http%3A//peerfly.com/privacy.php) for the most accurate reproduction.*
 
-# PeerFly :: We Have an Offer for That. ™
+# PeerFly :: We Have an Offer for That
 
 Your Privacy
 
-PeerFly.com (the "Website") is an Internet property of Avlo Media Inc. ("us" or "we"). We provide this privacy policy ("Privacy Policy") so that we may inform you about how our technology ("Technology") processes information on behalf of the online advertisers, website owners and other businesses that use our services. This Privacy Policy also outlines our privacy practices on our corporate website ("Website") located at [PeerFly.com](http://peerfly.com/). If you have any questions about this Privacy Policy, please feel free to contact us at [privacy@peerfly.com](mailto:privacy@peerfly.com). You agree to this Privacy Policy, in its entirety, when you: (1) access or use the Website; and/or (2) apply for the publisher ("Publisher") and/or advertiser ("Advertiser" and together with the Publishers, "Clients") services available through the Website ("Services"). If you do not agree with the terms and conditions of our Privacy Policy, please do not use or access the Website or apply for the Services.
+PeerFly.com (the "Website") is an Internet property of PeerFly, Inc. ("us" or "we"). We provide this privacy policy ("Privacy Policy") so that we may inform you about how our technology ("Technology") processes information on behalf of the online advertisers, website owners and other businesses that use our services. This Privacy Policy also outlines our privacy practices on our corporate website ("Website") located at [PeerFly.com](http://peerfly.com/). If you have any questions about this Privacy Policy, please feel free to contact us at [privacy@peerfly.com](mailto:privacy@peerfly.com). You agree to this Privacy Policy, in its entirety, when you: (1) access or use the Website; and/or (2) apply for the publisher ("Publisher") and/or advertiser ("Advertiser" and together with the Publishers, "Clients") services available through the Website ("Services"). If you do not agree with the terms and conditions of our Privacy Policy, please do not use or access the Website or apply for the Services.
 
 **Personally Identifiable Information**
 
@@ -48,6 +48,6 @@ If you'd like us to delete any PII that you have provided to us on our Website, 
 
 If you have any questions about this Privacy Policy or the practices of PeerFly, please feel free to contact us at [privacy@peerfly.com](mailto:privacy@peerfly.com), or via postal mail at:
 
-Avlo Media Inc.  
-23245 NW CR 236  
-High Springs, Florida 32643 
+PeerFly, Inc.  
+15202 NW 147th Drive, Suite 600  
+Alachua, Florida 32615 
