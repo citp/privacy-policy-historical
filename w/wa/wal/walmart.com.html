@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the walmart.com privacy policy that was archived on 2011-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110614014545id_/http%3A//www.walmart.com/catalog/catalog.gsp%3Fcat%3D121240) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the walmart.com privacy policy that was archived on 2011-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111110051757id_/http%3A//www.walmart.com/catalog/catalog.gsp%3Fcat%3D121240) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_hdMaster"><meta http-equiv="content-type" content="text/html; charset=utf-8"><meta name="Distribution" content="GLOBAL"><meta id="ctl00_metTitle" name="title" content="Walmart Privacy Policy - Highlights"><meta id="ctl00_metDescription" name="description" content="This policy applies to customer information we collect in the United States and Puerto Rico at Walmart retail stores and through our websites."><meta id="ctl00_metKeywords" name="keywords"><meta id="ctl00_metPubDate" name="pubdate" content="1999-03-08"><meta id="ctl00_metSearch" name="search" content="Privacy &amp; Security,Privacy Policies &amp; Notices"><meta id="ctl00_metBias" name="b" content="4"><title>
 	Walmartstores.com: Walmart Privacy Policy - Highlights
@@ -12,13 +12,13 @@
     <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
 
     <script type="text/javascript">
-        $(document).ready(function() {
+        $(document).ready(function () {
             $.localScroll({
                 lazy: true,
                 hash: true
             });
             // if T2 nav link isn't active and no T3 children are active, hide T3 links
-            $("#ctl00_ulSecondaryNav li:has(ul)").each(function() {
+            $("#ctl00_ulSecondaryNav li:has(ul)").each(function () {
                 var hideT2Nav = true;
                 if ($(this).attr("class") != "active") {
                     $(this).find("ul li").each(function() {
@@ -30,6 +30,12 @@
                 } else { hideT2Nav = false; }
                 if (hideT2Nav == false) $(this).find("ul").css("display", "block");
             });
+            if ($("#ctl00_liCareers").hasClass('active')) {
+                $("#divFollowCareers").css("display", "block");
+            }
+            else {
+                $("#divFollow").css("display", "block");
+            }
         });
     </script>
     <!--[if IE 6]>
@@ -128,9 +134,15 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script><!-- End SiteCata
 		        
                 <div id="ctl00_pnlSidebar" class="sidebar">
 	
-                    <div style="padding-bottom:10px; padding-left:2px; width:200px;">
-                        <a href="http://twitter.com/walmart" class="twitter-follow-button" data-show-count="false">Follow @walmart</a>
-                    </div> 
+                    <div style="padding-bottom:5px;padding-left:2px; width:100px;">
+                        <iframe src="http://www.facebook.com/plugins/like.php?href=facebook.com%2Fwalmart&amp;send=false&amp;layout=button_count&amp;width=80&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
+                    </div>
+                    <div id="divFollow" style="padding-bottom: 10px; padding-left: 2px; width: 200px; display: block;">
+                        <a id="lnkFollow" href="http://twitter.com/walmart" class="twitter-follow-button" data-show-count="false" style="visibility:hidden;">Follow @walmart</a>
+                    </div>
+                    <div id="divFollowCareers" style="padding-bottom:10px; padding-left:2px; width:200px;display:none;">
+                        <a href="http://twitter.com/walmartcareers" class="twitter-follow-button" data-show-count="false">Follow @walmartcareers</a>
+                    </div>
                     <table><tbody><tr><td>
                     
                     
@@ -206,7 +218,7 @@ mso-bidi-font-family:Arial;color:#333333">The policies are provided to you by th
                     <table border="0" cellspacing="0" cellpadding="0">
                         <tbody><tr>
                             <td style="width: 18px; padding-left: 8px; padding-right: 5px;">
-                                <img id="ctl00_cphContent_rfiPageTools_imgPrintPage" title="Print Page" onclick="PrintPage('9243','en');" src="/images/pagetools/icon_print.jpg" alt="Print Page" style="border-width:0px;cursor:pointer;">
+                                <img id="ctl00_cphContent_rfiPageTools_imgPrintPage" title="Print Page" onclick="PrintPage('9243','en');" src="/images/pagetools/icon_print.jpg" alt="Print Page" border="0" style="cursor:pointer;">
                             </td>
                             <td>
                                 <a id="ctl00_cphContent_rfiPageTools_hlPrintPage" title="Print Page" href="javascript:PrintPage('9243','en');">Print</a>
@@ -220,7 +232,7 @@ mso-bidi-font-family:Arial;color:#333333">The policies are provided to you by th
                     <table border="0" cellspacing="0" cellpadding="0">
                         <tbody><tr>
                             <td style="width: 18px; padding-left: 8px; padding-right: 5px;">
-                                <img id="ctl00_cphContent_rfiPageTools_imgSavePdf" title="Save as PDF" onclick="SavePdf('9243','en');" src="/images/icon-pdf20.gif" alt="Save as PDF" style="border-width:0px;cursor:pointer;">
+                                <img id="ctl00_cphContent_rfiPageTools_imgSavePdf" title="Save as PDF" onclick="SavePdf('9243','en');" src="/images/icon-pdf20.gif" alt="Save as PDF" border="0" style="cursor:pointer;">
                             </td>
                             <td>
                                 <a id="ctl00_cphContent_rfiPageTools_hlSavePdf" title="Save as PDF" href="javascript:SavePdf('9243','en');">Save</a>
