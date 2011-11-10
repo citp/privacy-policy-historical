@@ -1,25 +1,63 @@
-> *The following text is extracted and transformed from the indyposted.com privacy policy that was archived on 2010-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101109201135id_/http%3A//www.indyposted.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indyposted.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110013831id_/http%3A//www.indyposted.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Indyposted
+# Privacy Policy | Indyposted
 
-Privacy Policy for **http://indyposted.com**
+Indyposted knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
-The privacy of our visitors to **Indyposted** is important to us.
+This Privacy Policy covers Indyposted’s treatment of personal information that Indyposted gathers when you are on the Indyposted website and when you use Indyposted services. This policy does not apply to the practices of third parties that Indyposted does not own or control, or to individuals that Indyposted does not employ or manage.
 
-At **Indyposted.com** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit **Indyposted.com** , and how we safeguard your information. We never sell your personal information to third parties.
+Information Collected by Indyposted
 
-**Log Files** As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Indyposted users:
 
-**Cookies and Web Beacons** We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+1\. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
 
-We also use third party advertisements on **Indyposted.com** to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+2\. Automatic Information:
 
-**DoubleClick DART cookies** We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (“interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting [http://www.doubleclick.com/privacy/dart_adserving.aspx ](http://www.doubleclick.com/privacy/dart_adserving.aspx)
+  * We receive and store certain types of information whenever you interact with us. Indyposted and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, Indyposted cookie information, and the page you requested. Indyposted uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
+  * Indyposted may collect and, on any page, display the total counts that page has been viewed.
+  * Many companies offer programs that help you to visit websites anonymously. While Indyposted will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-**More Stories From Around The Web:**
+E-mail Communications
 
-**Stories From Around The Web:**
+Indyposted is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the ”Sharing Your Information” section below. Indyposted may send out e-mails with Indyposted-related news, products, offers, surveys or promotions.
+
+Cookies
+
+Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Indyposted cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
+
+The ”help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Indyposted’s coolest features.
+
+Indyposted’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads.  If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page.
+
+Sharing Your Information
+
+Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
+
+Indyposted Personnel: Indyposted personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of Indyposted business.
+
+Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Indyposted, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
+
+Protection of Indyposted and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of Indyposted, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+
+Syndication: Indyposted allows for the RSS syndication of all of its public content within the Indyposted website.
+
+With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
+
+Children Under 18 Years of Age
+
+You must be 13 years and older to register to use the Indyposted website. As a result, Indyposted does not specifically collect information about children. If we learn that Indyposted has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents’ permission before using Indyposted or sending information about themselves or anyone else over the Internet.
+
+Changes to this Privacy Policy
+
+Indyposted may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Indyposted website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
+
+Conditions of Use
+
+If you decide to visit Indyposted website, your visit and any possible dispute over privacy is subject to thisPrivacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
+
+Effective Date of this Privacy Policy
+
+This Privacy Policy is effective as of May 3rd 2011 and last updated May 3rd 2011.
