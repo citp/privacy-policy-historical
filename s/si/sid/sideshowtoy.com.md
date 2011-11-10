@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sideshowtoy.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623180748id_/http%3A//www.sideshowtoy.com%3Fpage_id%3D4492%26ref%3Dfooter%26privacy%26helpdesk) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sideshowtoy.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110111346id_/http%3A//www.sideshowtoy.com%3Fpage_id%3D4492%26ref%3Dfooter%26privacy%26helpdesk) for the most accurate reproduction.*
 
 # Privacy Policy | Sideshow Collectibles
 
