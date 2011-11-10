@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the findlaw.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611180505id_/http%3A//www.findlaw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findlaw.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110213007id_/http%3A//www.findlaw.com/privacy) for the most accurate reproduction.*
 
 # FindLaw | Privacy Policy
 
 ## FindLaw Privacy Statement Highlights
 
-_This statement applies to the online collection of personal information via websites operated by and applications offered by FindLaw, a Thomson Reuters business, and its worldwide affiliated companies and subsidiaries. Highlights of the Privacy Statement follow immediately below, or read the[Full Text](https://web.archive.org/web/20110611180505id_/http://www.findlaw.com/privacy/privacy.html)_
+_This statement applies to the online collection of personal information via websites operated by and applications offered by FindLaw, a Thomson Reuters business, and its worldwide affiliated companies and subsidiaries. Highlights of the Privacy Statement follow immediately below, or read the[Full Text](https://web.archive.org/web/20111110213007id_/http://findlaw.com/privacy/privacy.html)_
 
 * * *
 
@@ -16,7 +16,7 @@ _This statement applies to the online collection of personal information via web
 
 
 
-[More Details](https://web.archive.org/web/20110611180505id_/http://www.findlaw.com/privacy/privacy.html#1)
+[More Details](https://web.archive.org/web/20111110213007id_/http://findlaw.com/privacy/privacy.html#1)
 
 * * *
 
@@ -28,7 +28,7 @@ _This statement applies to the online collection of personal information via web
 
 
 
-[More Details](https://web.archive.org/web/20110611180505id_/http://www.findlaw.com/privacy/privacy.html#2)
+[More Details](https://web.archive.org/web/20111110213007id_/http://findlaw.com/privacy/privacy.html#2)
 
 * * *
 
@@ -40,7 +40,7 @@ _This statement applies to the online collection of personal information via web
 
 
 
-[More Details](https://web.archive.org/web/20110611180505id_/http://www.findlaw.com/privacy/privacy.html#3)
+[More Details](https://web.archive.org/web/20111110213007id_/http://findlaw.com/privacy/privacy.html#3)
 
 * * *
 
@@ -60,8 +60,8 @@ Facsimile +1 651 687 1899
 
 
 
-[More Details](https://web.archive.org/web/20110611180505id_/http://www.findlaw.com/privacy/privacy.html#4)
+[More Details](https://web.archive.org/web/20111110213007id_/http://findlaw.com/privacy/privacy.html#4)
 
 * * *
 
-[Back to top](https://web.archive.org/web/20110611180505id_/http://www.findlaw.com/privacy/index.html#top)
+[Back to top](https://web.archive.org/web/20111110213007id_/http://findlaw.com/privacy/index.html#top)
