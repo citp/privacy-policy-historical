@@ -1,88 +1,72 @@
-> *The following text is extracted and transformed from the yourcause.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624011101id_/http%3A//www.yourcause.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourcause.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110203653id_/http%3A//www.yourcause.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Charity Fundraising through Personal Web Pages – Your Cause
+# CSRconnect | Employee Engagement by YourCause
 
-|  |  |   
----|---|---  
-| 
+This policy covers all websites from within the YourCause.com domain, either through a-record, sub-domain, forwarding, re-directing (collectively "YourCause.com") or any other domains owned by YourCause, LLC ("YourCause"). 
 
-|  | Privacy Policy and Terms of Use  
----|---  
-  
-This Privacy Policy covers the Web site [www.YourCause.com](http://www.yourcause.com/).  
----  
-**Our Commitment to Privacy**  
-YourCause.com is committed to safeguarding your privacy online and has prepared this Privacy Policy to describe our collection, use, and disclosure of your personal information through the online community Web site, [www.YourCause.com](http://www.yourcause.com/) (the “Community”).  
-**Information Collected**  
-We automatically track and collect the following information (“Standard Web Traffic Information”) when you visit our Web site: your IP address, domain server, type of computer, and type of web browser. This information assists us in administering our Web site and diagnosing problems, and in improving your experience in our Community.
+YourCause, LLC ("YourCause") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of YourCause.com (the "Site"; Site and any login service, API, or web service collectively, the "Services"). This Privacy Policy applies only to information that you provide to us through the Services (including that which we may collect on your behalf) when you use the Services.
 
-We also use “Cookies” (described below) to save your password so you do not have to reenter it each time you visit our Web site.
+Your use of this Site indicates your acceptance of this Privacy Policy. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes.
 
-For you to access certain services offered through the Community, we require you to become a member of our Community by providing us with your name, email address, zip code, sex, date of birth and country (“Contact Information”). At your discretion, you may provide us with personal information in addition to your basic Contact Information.
+As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally. 
 
-If you post information on any of our blogs, testimonials, forums, message boards, or any other input method we provide, such information you provide may be available to other members of the Community and other Web site visitors.
+**Information Collection and Use**  
+_Personally Identifiable Information._
 
-If you create your own Cause Page, you may elect either a Basic Service Account, at no charge, or a Premium Service Account for a monthly fee. If you elect a Premium Service Account, we collect additional information consisting of your credit or debit card details, including a card type, a card number and an expiration date (“Credit Card Information”).
+In the course of using the Services (including a Hosted Application), we may ask you to provide us with certain personally identifiable information("Personal Information")that can be used to contact or identify you and administer your account. Personal Information includes, but is not limited to, your name, phone number, credit card or other billing information, email address and home and business postal addresses. 
 
-If you make an online donation, we collect Credit Card Information from you.  
-  
-**Information Use**  
-YourCause.com will make your Contact Information available to the credit card authorization company when necessary to process a donation made by you to your chosen charity. In addition, we will make your Contact Information available to the charity or charities to which you have made donations. We also make your information available to the fundraiser who's Cause Page you have contributed through. When you make a donation to a Cause Page, your name will appear publicly on that page.
+We also collect the other information that you provide as part of registration and the administration and personalization of your profile webpage _(e.g., without limitation, zip code (on its own) and individual preferences)_ ("Non-Identifying Information"). 
 
-We do not share your Credit Card Information. We do not retain your Credit Card Information, except to process payments for Premium Services.
+We use your Personal Information _(in some cases, in conjunction with your Non-Identifying Information)_ to provide the Services, complete your transactions, administer your inquiries, and as further explained below. 
 
-Please note that if you are creating your own Cause Page, we will pass on your name, address and email address to your chosen charity for administrative purposes. Your information may also be made available to the charity’s agent or third-party event organizer specified by your charity. 
+Certain Non-Identifying Information would be considered a part of your Personal Information if it were combined with other identifiers _(for example, combining your zip code with your street address)_ in a way that enables you to be identified. But the same pieces of information are considered Non-Identifying Information when they are taken alone or combined only with other non-identifying information _(for example, your viewing preferences)_. We may combine your Personal Information with Non-Identifying Information and aggregate it with information collected from other YourCause users to attempt to provide you with a better experience, to improve the quality and value of the Services and to analyze and understand how our Site and Services are used. We may also use the combined information without aggregating it to serve you specifically, for instance to deliver a product to you according to your preferences or restrictions. 
 
-When we pass along your Contact Information to charities, YourCause.com cannot control how charities use this information. If you prefer not to receive future communications from the charity (other than any acknowledgment the charity may provide of your donation), please contact the charity directly.
+We also use your Personal Information to contact you with YourCause newsletters, marketing or promotional materials and other information that may be of interest to you. If you decide at any time that you no longer wish to receive such communications from us, please follow the unsubscribe instructions provided in any of the communications or update your "user preferences" information. _(See "Changing or Deleting Information," below.)_
 
-We send emails to the address you provide, including but not limited to confirmation emails, messages from members, and newsletters. We will not share your email address with third parties, except where noted above. 
+YourCause does not sell, rent, lease or disclose your Personal Information. Except as described in this Privacy Policy, your Personal Information will be used only by YourCause and its controlled subsidiaries and affiliates, and your Personal Information will not be disclosed to any other third party without your consent.
 
-We may share aggregate Standard Web Traffic Information (such as statistical, demographic and IP information) with third parties, however, this information does not include your Contact Information.  
-  
-**Tell a Friend**  
-If a member elects to use our “Tell a Friend” function, we ask them for the friend’s email address and automatically send the friend a one-time email inviting them to visit the Cause Page specified by the member. This information is stored temporarily for the sole purpose of sending this one-time email.  
-**Confidentiality and Security of Contact Information**  
-Except as described in this Privacy Policy, we will not share your Contact Information with third parties, unless such disclosure is necessary (as determined in our sole discretion) to comply with a court order or other legal process or protect the rights or property of YourCause.com or its affiliates.
+YourCause will store personal data until account deletion is requested. At that point, personal data will be scheduled for deletion. Some data may not be deleteable, such as activity listings in public activity feeds. These feeds contain a minimum of personal data (First name and Last Initial only).
 
-Although YourCause.com uses reasonable measures to maintain the security of your Contact Information, no company, organization, or online community, including YourCause.com, can fully eliminate security risks associated with personal information.  
-  
+We do not share your Credit Card Information. We do not retain your Credit Card Information, except as needed to process payments.
+
+YourCause.com processes donations through our partner sites. Visit Network For Good (www.networkforgood.com) for more information on tax deductions _(http://www1.networkforgood.org/questions-about-donation)_ , processing fees _(http://support.networkforgood.org/Default.asp?a=4 &q=109)_ and privacy _(http://support.networkforgood.org/?a=4 &q=152)_. Alternatively, visit Global Giving _(http://www.globalgiving.org/aboutus/privacypol.html)_ for information pertaining to donation processing for projects _(international or otherwise)_.
+
+**Log Data**  
+When you use the Services, our servers automatically record information that your browser sends whenever you visit a website or online service ("Log Data"). This Log Data may include information such as your computer's Internet Protocol ("IP") address, browser type or the webpage you were visiting before you came to our Site, pages of our Site that you visit, the time spent on those pages, information you search for on our Site, access times and dates, and other statistics. We use this information to monitor and analyze use of the Site and the Services and for the Site's technical administration, to increase our Site's functionality and user-friendliness, and to better tailor it to our visitors' needs. For example, some of this information is collected so that when you visit the Site again, it will recognize you and serve advertisements and other information appropriate to your interests. We also use this information to verify that visitors to the Site meet the criteria required to process their requests. 
+
 **Cookies**  
-A cookie is a small text file that a Web site places on a site visitor’s computer hard drive. Its purpose is to let the site know when a user visits and to perform certain functions such as saving passwords and personal preferences.
+Like many websites, we use "cookies" to collect information. A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilize persistent cookies to save your registration ID and login password for future logins to the Site. Second, we utilize session ID cookies to enable certain features of the Site, to better understand how you interact with the Site and to monitor aggregate usage by YourCause users and web traffic routing on the Site. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site and Services and then close your browser. Third party advertisers on the Site or Services may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or all functionality of the Services. 
 
-Cookies help evaluate visitors’ use of a Web site, such as what viewers want to see and what they never read. This information allows YourCause.com to better focus online information and to concentrate on information people are using.
+**Phishing**  
+Identity theft and the practice currently known as "phishing" are of great concern to YourCause. Safeguarding information to help protect you from identity theft is a top priority. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission's website.
 
-Your browser is probably set to accept cookies. If you would like to turn this feature off, you will need to change the settings of your Internet browser.
+**Information Sharing and Disclosure**
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information about your visits to this and other Web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you.  
-  
-**Accessing and Updating Contact Information**  
-To ensure that all of your Contact Information is correct and up to date, you may visit your personal profile to review and update your Contact Information that we have already collected.  
-**Other Disclosures**  
-We may share some or all of your Contact Information with our Affiliates, in which case we will require our affiliates to honor this Privacy Policy.  
-**Canceling Your Cause Page**  
-You may cancel your Cause Page at any time by sending a cancellation request to Accounts[at]yourcause.com. If you choose to do this, please know that any information you have already provided will be handled in accordance with this Privacy Policy.  
-**Links to other Web sites**  
-Our Privacy Policy only applies to information collected by the YourCause.com Web site. Our Web site may contain links to other Web sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects your information.  
-**Other Limits to Your Privacy**  
-We also make blogs, testimonials, forums, and message boards available to you on our Web site. Any information you disclose in these areas becomes public information. Because we have no control over the use of information you disclose in these areas, you should exercise caution when deciding to disclose any personal information. Any information you disclose on our Web site may be available to other members and available on third-party Web sites. Accordingly, such information is not subject to this Privacy Policy.  
-**Business Transactions**  
-If YourCause.com goes through a business transaction, such as a merger, being acquired by another company, or a sale of all or a portion of its assets, your information may be among the assets transferred. If any such transaction results in any change to this Privacy Policy, YourCause.com will notify visitors, members and donors by means of an update to this Privacy Policy.  
-**Acceptance of Our Privacy Policy**  
-Your use of the YourCause.com Web site indicates your acceptance of this Privacy Policy. If you disagree with any aspect of this policy, you should immediately discontinue your use of the YourCause.com Web site and the services offered on the Web site.
+**Business Transfers**  
+The YourCause may sell, transfer or otherwise share some or all of its assets, including your Personal Information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. The YourCause will notify you before transferring your information to a new entity as part of a merger, acquisition, reorganization or sale of some or all of its assets if the new entity's processing of your information will materially differ from that set forth in this Privacy Policy.  
 
-YourCause.com may change, modify or update this policy from time to time, without advance notice, by posting such changes, modifications or updates on the Web site. You are deemed to have accepted the then current version each time you use our Web site or one of our services, so please check back periodically.  
-  
-**How to Contact Us**  
-Should you have other questions or concerns about these privacy policies, please email us at Accounts[@]yourcause.com.  
-**Terms of Use**  
-A cause must directly support an official, **IRS–registered, 501(c) (3), tax-exempt organization**. Unfortunately, we cannot accept causes for individual needs or private purposes due to IRS regulations. 
 
-You understand and agree that the Company may, but is not obligated to, review the Site and may delete or remove (without notice) any Site Content or User Content in its sole discretion, for any reason or no reason, including User Content that in the sole judgment of the Company violates this Agreement or which might be offensive, illegal, or that might violate the rights, harm, or threaten the safety of users or others. 
+**Changing or Deleting Your Information**  
+All registered users may review, update, correct or delete the Personal Information in their registration profile by contacting us. If you completely delete all such information, then your account may become deactivated. If you would like us to delete your record in our system, please contact us with a request that we delete your Personal Information from our database. We will use commercially reasonable efforts to honor your request. We may retain an archived copy of your records as required by law or for legitimate business purposes.
 
-In addition, we reserve the right to reject any cause or user content for any reason including, but are not limited to, content that we deem obscene, pornographic or sexually explicit, depicts graphic or gratuitous violence, makes threats of any kind or that intimidates, harasses, or bullies anyone, or is derogatory, demeaning, malicious, defamatory, abusive, offensive or hateful. 
+**Security**  
+The YourCause are very concerned with safeguarding your information. We employ certain physical, technological, and administrative security measures, but they may not be reasonable or applicable under the circumstances and, in any case, no security measures can be guaranteed to protect your data.
 
-This Site is intended solely for users who are thirteen (13) years of age or older, or under 13 only with parental consent. Any registration by, use of or access to the Site by anyone under 13, is unauthorized, unlicensed and in violation of these Terms of Use. By using the Service or the Site, you represent and warrant that you are 13 or older and that you agree to and to abide by all of the terms and conditions of this Agreement.  
-  
-|  |   
-  
-| 
+We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored "personal data" (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+
+**International Transfer**  
+Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to us, YourCause transfers Personal Information to the United States and processes it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. 
+
+**Links to Other Sites**
+
+Our Services contains links to other websites. If you choose to click on another third party link, you will be directed to that third party's website. The fact that we link to a website or present a banner ad or other type of advertisement is not an endorsement, authorization or representation of our affiliation with that third party, nor is it an endorsement of their privacy or information security policies or practices. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. Other sites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit. 
+
+**Our Policy Toward Children**  
+The Site and Services are not directed to children under 13. We do not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us. If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files. 
+
+**Contact**  
+help[@]yourcause.com   
+YourCause, LLC  
+13800 Montfort St. 260  
+Dallas, TX 75240  
+
