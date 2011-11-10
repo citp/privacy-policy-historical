@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xcelenergy.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515185841id_/http%3A//xcelenergy.com/staticfiles/xe/Admin/Xcel%2520Online%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcelenergy.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110064016id_/http%3A//www.xcelenergy.com/staticfiles/xe/Admin/Xcel%2520Online%2520Privacy%2520Policy.pdf) for the most accurate reproduction.*
 
 # Xcel Energy Website Privacy Policy
 
