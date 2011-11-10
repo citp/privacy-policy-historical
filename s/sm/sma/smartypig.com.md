@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the smartypig.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106183748id_/http%3A//www.smartypig.com/disclosures/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartypig.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110201428id_/http%3A//www.smartypig.com/disclosures/privacy-policy) for the most accurate reproduction.*
 
 # SmartyPig®: Privacy Policy
 
+## Privacy Policy
+
 The _Privacy Policy_ can also be downloaded in [ Adobe® PDF](http://get.adobe.com/reader) format. Click the link below to save the Privacy Policy to your hard drive. 
 
-[Download Privacy Policy](https://web.archive.org/web/20110106183748id_/http%3A//www.smartypig.com/render/disclaimer?disclaimerId=a9b2e3ff-d9db-48a2-9cef-28f4e0006c75) (PDF 114k)
+[Download Privacy Policy](https://web.archive.org/web/20111110201428id_/http%3A//www.smartypig.com/render/disclaimer?disclaimerId=a9b2e3ff-d9db-48a2-9cef-28f4e0006c75) (PDF 116k)
 
-Last Updated: September 29, 2010 
+Last Updated: October 18, 2011 
 
 * * *
 
@@ -108,6 +110,8 @@ We collect non-public personal information about you from the following sources:
 
 
 We do, however, disclose non-public, personally identifiable information about you to our service providers without your consent to perform the services on SmartyPig.com. We restrict access to non-public personal information about you to those employees on a "need to know" basis only. We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your non-public personal information. We may provide aggregated data about the usage of our services to third parties for such purposes as we deem, in our sole discretion, to be appropriate. We may segment our users by savings category (i.e. electronics, home improvement). However, no non-public personal information about you will be included in this aggregate data.
+
+To the extent permitted by law, we may disclose personally identifiable information to government authorities or third parties pursuant to a legal request, subpoena, or other legal process. We may also use or disclose your information as permitted by law to perform charge verifications, report or collect debts owed, fight fraud, or protect the rights or property of SmartyPig, LLC, our customers, our website, or our users.
 
 #### Service Providers
 
