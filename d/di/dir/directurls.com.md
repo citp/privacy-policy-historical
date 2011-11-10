@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directurls.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102035332id_/http%3A//www.directurls.com/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directurls.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110154945id_/http%3A//www.directurls.com/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
