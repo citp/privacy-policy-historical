@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianetdataline.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521114917id_/http%3A//www.asianetdataline.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianetdataline.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110060419id_/http%3A//www.asianetdataline.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Asianet DataLine
 
