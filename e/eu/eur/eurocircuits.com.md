@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurocircuits.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627230811id_/http%3A//www.globaltech.hu/ec09_en/images/stories/ec09/ec-privacy-statement-english-1-2010-v3.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocircuits.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110034047id_/http%3A//www.globaltech.hu/ec09_en/images/stories/ec09/ec-privacy-statement-english-1-2010-v3.pdf) for the most accurate reproduction.*
 
 # Privacy statement
 
