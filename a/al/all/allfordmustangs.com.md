@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfordmustangs.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223075310id_/http%3A//www.allfordmustangs.com/forums/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfordmustangs.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110020718id_/http%3A//www.allfordmustangs.com/forums/privacy.php) for the most accurate reproduction.*
 
 # Ford Mustang Forums - Privacy Policy
 
