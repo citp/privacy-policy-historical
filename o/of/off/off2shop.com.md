@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the off2shop.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614141752id_/http%3A//www.off2shop.com/off2shop_cart/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the off2shop.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110105954id_/http%3A//www.off2shop.com/off2shop_cart/Privacy.aspx) for the most accurate reproduction.*
 
-# OFF2SHOP
+# Off2Shop
 
 |    
 ---  
