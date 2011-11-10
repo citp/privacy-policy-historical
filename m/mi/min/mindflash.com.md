@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mindflash.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426031048id_/http%3A//www.mindflash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindflash.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111001950id_/http%3A//www.mindflash.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mindflash
 
-[](http://www.mindflash.com//privacy-policy.truste.com/click-with-confidence/ctv/en/www.mindflash.com/seal_m "Validate TRUSTe privacy certification")
+[](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.mindflash.com/seal_m "Validate TRUSTe privacy certification")
 
 EFFECTIVE DATE: April 7, 2011
 
