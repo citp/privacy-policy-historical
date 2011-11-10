@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dwellstudio.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511150850id_/http%3A//www.dwellstudio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwellstudio.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110070920id_/http%3A//www.dwellstudio.com/privacy-policy) for the most accurate reproduction.*
 
 # DwellStudio | Privacy Policy
 
@@ -15,3 +15,11 @@ Our Web Site may contain helpful links or hyperlinks to our brand partners and o
 ## Update Your Information
 
 Updating your contact and mailing information so that you can receive the latest news, catalogues and promotions from DwellStudio is easy. Just contact customerservice@dwellstudio.com and provide your previous and current full name, mailing address, email address and phone number.
+
+## Security Policy
+
+The security of your information is very important to us. We use 256-bit Secure Socket Layer (SSL) technology to protect the security of your online order information. SSL technology encrypts your order information to protect it from being decoded by anyone other than DwellStudio.
+
+Once you enter the checkout page your computer will begin communicating with our server in secure mode. When you enter a secure portion of a website, an image of a closed lock or a solid key will appear in your browser window. If you click on this image, a small pop-up window displaying website security information will appear. This display indicates that your personal information is transmitted in encrypted form to a DwellStudio web server, not to some unknown or unauthorized server.
+
+While we implement these and other security measures on our sites, please note that 100% security is not always possible. You play a role in protecting your information as well. Because your password permits access to your personal information, please keep your password secret and do not disclose it to others.
