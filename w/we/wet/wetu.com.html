@@ -1,0 +1,315 @@
+<!--The following is the downloaded HTML source of the wetu.com privacy policy that was archived on 2011-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111110062925id_/http%3A//wetu.com/Legal/PrivacyPolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link href="/css/accordion.css" type="text/css" rel="stylesheet" media="screen"><link href="/css/wetu-styles.css" type="text/css" rel="stylesheet" media="screen"><link rel="shortcut icon" href="/favicon.ico"><title>
+	
+    wetu - Privacy Policy
+
+</title>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/Content/js/jquery-1.6.2.min.js"></script>
+    
+    
+    <script type="text/javascript" src="/Content/js/jquery.fancybox.js"></script>
+	<link rel="stylesheet" type="text/css" href="/css/jquery.fancybox-1.3.2.css" media="screen">
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#loginBox").fancybox({
+                'href': '#login',
+                'titlePosition': 'inside',
+                'transitionIn': 'none',
+                'transitionOut': 'none'
+            });
+            $('.login-textbox').keypress(function (e) {
+                if (e.which == 13) {
+                    jQuery(this).blur();
+                    jQuery('#loginForm').submit();
+                }
+            });
+        });
+	</script>
+	<script type="text/javascript" src="/Content/js/input-prompt.js"></script>
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-19661052-1']);
+        _gaq.push(['_setDomainName', '.wetu.com']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+        //**Drop down menu**
+        var menu = function () {
+            var t = 15, z = 50, s = 6, a;
+            function dd(n) { this.n = n; this.h = []; this.c = [] }
+            dd.prototype.init = function (p, c) {
+                a = c; var w = document.getElementById(p), s = w.getElementsByTagName('ul'), l = s.length, i = 0;
+                for (i; i < l; i++) {
+                    var h = s[i].parentNode; this.h[i] = h; this.c[i] = s[i];
+                    h.onmouseover = new Function(this.n + '.st(' + i + ',true)');
+                    h.onmouseout = new Function(this.n + '.st(' + i + ')');
+                }
+            }
+            dd.prototype.st = function (x, f) {
+                var c = this.c[x], h = this.h[x], p = h.getElementsByTagName('a')[0];
+                clearInterval(c.t); c.style.overflow = 'hidden';
+                if (f) {
+                    p.className += ' ' + a;
+                    if (!c.mh) { c.style.display = 'block'; c.style.height = ''; c.mh = c.offsetHeight; c.style.height = 0 }
+                    if (c.mh == c.offsetHeight) { c.style.overflow = 'visible' }
+                    else { c.style.zIndex = z; z++; c.t = setInterval(function () { sl(c, 1) }, t) }
+                } else { p.className = p.className.replace(a, ''); c.t = setInterval(function () { sl(c, -1) }, t) }
+            }
+            function sl(c, f) {
+                var h = c.offsetHeight;
+                if ((h <= 0 && f != 1) || (h >= c.mh && f == 1)) {
+                    if (f == 1) { c.style.filter = ''; c.style.opacity = 1; c.style.overflow = 'visible' }
+                    clearInterval(c.t); return
+                }
+                var d = (f == 1) ? Math.ceil((c.mh - h) / s) : Math.ceil(h / s), o = h / c.mh;
+                c.style.opacity = o; c.style.filter = 'alpha(opacity=' + (o * 100) + ')';
+                c.style.height = h + (d * f) + 'px'
+            }
+            return { dd: dd }
+        } ();
+        //**End Drop down menu**
+    </script>
+</head>
+<body>
+    <div id="bgWrapper">
+        <!-- SITE WRAPPER START -->
+        <div id="siteWrapper">
+            <ul id="menu" class="menu">
+                <li><a href="/Home/Index" class="menulink">Home</a></li>
+                <li><a href="#" class="menulink">About Us</a>
+                    <ul>
+                        <li><a href="/AboutUs/Concept">The Concept</a></li>
+                        <li><a href="/About-Us">About Us</a></li>
+                        <li><a href="/The-Team">The Team</a></li>
+                    </ul>
+                </li>
+                <li><a href="#" class="menulink">Products</a>
+                    <ul>
+                        <li><a href="/Products/interactive-map.html">Interactive Map</a></li>
+                        <li><a href="/Products/virtual-itinerary.html">Virtual Itinerary</a></li>
+                        <li><a href="/Products/ibrochure.html">iBrochure</a></li>
+                        <li><a href="/Products/Rack">Virtual Brochure Rack</a></li>
+                    </ul>
+                </li>
+                <li><a href="#" class="menulink">Clients</a>
+                    <ul>
+                        <li><a href="/Clients/TourOperators">Tour Operators</a></li>
+                        <li><a href="/Clients/Marketers">Marketers</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <script type="text/javascript">
+                var menu = new menu.dd("menu");
+                menu.init("menu", "menuhover");
+            </script>
+            <div class="wetuLogo">
+                <a href="/Home/Index">
+                    <img src="/images/wetu-logo-new.png" alt="wetu Logo">
+                </a>
+            </div>
+            <div class="wetuStrap">
+                <img src="/images/strap-line-top2.gif" alt="Providing the content and tools to sell Africa">
+                <a class="register" href="/Register">Register</a>
+                
+                <div class="login">
+                    
+                        <a href="/Account/LogOn" class="loginButton" id="loginBox">Login</a>
+                    
+                </div>
+            </div>
+            <!-- CONTENT START -->            
+                
+    <div id="contentWrapper">
+        <div class="back">
+            <a href="/Home/Index">« back</a></div>
+        <div class="mainHeaders">
+            <h1>
+                Privacy Policy</h1>
+        </div>
+        <div>
+            <p>
+                <u><b>Purpose</b></u></p>
+            <p>
+                This policy sets out the manner in which WETU handles personal information submitted
+                by or collected from you whilst visiting the WETU site.</p>
+            <p>
+                This Privacy Policy forms part of the Terms and Conditions of Use of this website.
+                Continued use of this website means that you agree to the provisions of this Policy
+                and are bound by them.</p>
+            <p>
+                <u><b>Collection of personal data</b></u></p>
+            <p>
+                WETU collects only what is necessary and we will use it only for the purpose for
+                which it is required.</p>
+            <p>
+                <u><b>Protection of information</b></u></p>
+            <p>
+                WETU will neither sell your personal information to anyone nor otherwise dispose
+                of it to a third party otherwise than as set out in the Policy. We will not attempt
+                to obtain your permission to do so by deceptive means
+            </p>
+            <p>
+                WETU will not disclose your personal information unless acting under a good faith
+                belief that such action is necessary to: (i) conform to legal requirements or comply
+                with legal process; or (ii) to act to protect the interests of its members or others.</p>
+            <p>
+                If we do not require it any longer, we will delete any personal information held</p>
+            <p>
+                We neither store nor retain any credit card information
+            </p>
+            <p>
+                Personal information collected by WETU is stored secure operating environments that
+                are not available to the public.</p>
+            <p>
+                <u><b>Collection of anonymous data</b></u></p>
+            <p>
+                In order to provide the best and most relevant service, we may use technology to
+                collect information about the use of the site . This technology is not able to identify
+                individual users but simply allows the website to collect statistics.</p>
+            <p>
+                In order to do this we use cookies. A cookie is a small file that is placed on your
+                hard drive in order to keep your interaction with this website and will log:</p>
+            <ul>
+                <li>The Internet Protocol (IP) address from which you access our website. An IP address
+                    is the unique number that is automatically assigned to the computer that you are
+                    using whenever you are surfing the web.</li>
+                <li>The type of browser (such as Internet Explorer or Mozilla) and operating system
+                    (such as Windows Vista or MacOS) used to access our site</li>
+                <li>The date and time when the website is accessed, for the purpose of traffic and statistical
+                    monitoring.</li>
+                <li>The pages visited, for the purpose of improving the usefulness of our website by
+                    providing helpful links and removing pages that are not read.</li>
+            </ul>
+            <p>
+                If you do not wish Cookies to be employed it is possible to alter the manner in
+                which your browser handles Cookies. Please note that, if this is done, certain services
+                on this web site may not be available</p>
+            <p>
+                Wetu will not send you any unsolicited information, including e mail, regarding
+                any third party commercial offers or advertisements, unless your prior consent has
+                been received.</p>
+            <p>
+                <b><u>Contacting us</u></b></p>
+            <p>
+                If you have any questions concerning the privacy policies of WETU which are not
+                covered in this statement, please contact us with your questions.</p>
+            <p>
+                This site may contain links to other Web sites and is not responsible for the privacy
+                practices or the content of these Web sites. Furthermore this site uses third-party
+                advertising companies to serve ads when you visit the site.</p>
+        </div>
+        <br>
+    </div>
+
+            <!-- CONTENT WRAPPER END -->
+        </div>
+        <!-- SITE WRAPPER END -->
+    </div>
+    <!-- BG WRAPPER END -->
+    <!-- FOOTER START -->
+    <div id="footerWrapper">
+        <div class="footer">
+            <div class="footerLogo">
+                <img src="/images/footer-logo.jpg" alt="wetu, Powered by SmartGuide"></div>
+            <!-- List Start -->
+            <div class="footerListBlock">
+                <ul>
+                    <div class="footerHeader">
+                        <img src="/images/footer-head-general-info.gif" alt="General Info">
+                    </div>
+                    <li><a href="/About-Us">About Us</a></li>
+                    <li><a href="/AboutUs/Concept">The Concept</a></li>
+                    <li><a href="/The-Team">The Team</a></li>
+                </ul>
+            </div>
+            <!-- List End -->
+            <!-- List Start -->
+            <div class="footerListBlock">
+                <ul>
+                    <div class="footerHeader">
+                        <img src="/images/footer-head-products.gif" alt="Products">
+                    </div>
+                    <li><a href="/Products/interactive-map.html">Interactive Map</a></li>
+                    <li><a href="/Products/virtual-itinerary.html">Virtual Itinerary</a></li>
+                    <li><a href="/Products/ibrochure.html">iBrochure</a></li>
+                    <li><a href="/Products/Rack">Virtual Brochure Rack</a></li>
+                </ul>
+            </div>
+            <!-- List End -->
+            <!-- List Start -->
+            <div class="footerListBlock">
+                <ul>
+                    <div class="footerHeader">
+                        <img src="/images/footer-head-clients.gif" alt="Clients">
+                    </div>
+                    <li><a href="/Clients/TourOperators">Tour Operators</a></li>
+                    <li><a href="/Clients/Marketers">Marketers</a></li>
+                </ul>
+            </div>
+            <!-- List End -->
+            <!-- List Start -->
+            
+            <!-- List End -->
+            <!-- List Start -->
+                <div class="footerListblockCONTACT">
+                    <div style="height: 20px;">
+                    </div>
+                    <div class="footerHeader">
+                        <img src="/images/footer-head-contact.gif" alt="Contact Us">
+                    </div>
+                    Tel: <span class="whiteTxt">+27 (0)21 6745390</span><br>
+                    Email: <a href="mailto:info@wetu.com">info@wetu.com</a>
+                </div>
+                <!-- List End -->
+                <div class="clearLeft"></div>
+                <div class="divFloatLeft" style="color:white;">Copyright © 2011 wetu.com All rights reserved</div>
+                <div class="divFloatRight" style="color:white;"><a href="/Legal/TermsOfUse">Terms of Use</a> | <a href="/Legal/PrivacyPolicy">Privacy Policy</a></div> 
+                    
+        </div>
+    </div>
+    <!-- FOOTER END -->
+    <!--LOGIN BOX-->
+<div style="display:none;">
+    <div id="login" class="popup">
+        <div class="head">
+            <h1>Login</h1>
+        </div>
+        <form action="/Account/LogOn" id="loginForm" method="post">
+        <table cellpadding="0" cellspacing="0" border="0">
+            <tbody><tr>
+                <td colspan="2">
+                    <label>Username</label>
+                    <input class="login-textbox" type="text" name="username" id="username">
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2">
+                    <label>Password</label>
+                    <input class="login-textbox" type="password" name="password">
+                </td>
+            </tr>
+            <tr>
+                <td><a href="/Account/ResetPassword">Forgotten password?</a></td>
+                <td width="120" align="right">
+                    <label for="remember" class="remember">Remember me</label>
+                    <input class="right" type="checkbox" id="remember" name="remember">
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2"><br>
+                    <a href="#" class="small-signup left" onclick="$('#loginForm').submit(); return false;">Log In</a>
+                </td>
+            </tr>
+        </tbody></table>
+        </form>
+    </div>
+</div>
+
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
