@@ -1,0 +1,1201 @@
+<!--The following is the downloaded HTML source of the mlbshop.com privacy policy that was archived on 2011-11-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111110071351id_/http%3A//shop.mlb.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><!--Preview TimeZone = 'null' --><!--Preview TimeZone = 'America/New_York' --><!-- Checking storemanPD --><!-- Checking productPreviewAllowed --><head><link rel="stylesheet" type="text/css" href="http://MLB.imageg.net/include/cardinal.css">
+   
+
+<script language="Javascript">
+function trimString (str) {
+  while (str.charAt(0) == ' ')
+    str = str.substring(1);
+  while (str.charAt(str.length - 1) == ' ')
+    str = str.substring(0, str.length - 1);
+  return str;
+}
+
+
+function emailCheck(type) // not sure if anybody uses this, but just in case i'm leaving it functional
+{
+ var email = trimString(document.emailForm.emailAddress.value);
+
+    if (!validEmail(email))
+	{
+        alert('Please enter a valid e-mail address.');
+        return false;
+    }
+	if(type == 1)
+	{
+        document.emailForm.submit();
+	}
+}
+
+function validEmail(email)
+{
+    var vAtSym    = email.indexOf('@')
+    var vPeriod   = email.lastIndexOf('.')
+    var vSpace    = email.indexOf(' ')
+    var vLength   = email.length - 1   // Array is from 0 to length-1
+
+    if (vAtSym < 1 ||                     // '@' cannot be in first position
+    	vPeriod <= vAtSym + 1 ||          // Must be atleast one valid char btwn '@' and '.'
+    	vPeriod == vLength  ||            // Must be atleast one valid char after '.'
+    	vSpace  != -1)                    // No empty spaces permitted
+	{
+        return false;
+    }
+	return true;
+}
+
+
+
+
+
+function showCustomPopUp(thisUrl,thisName,theseParams)
+{
+	remote = open(thisUrl, thisName, theseParams);
+}
+
+
+//	verisign POP-UP WINDOW
+function popUp(url)
+{
+	sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=500,height=450');
+	self.name = "mainWin";
+}
+
+function jump(url)
+{
+	if (url != "" && url != null)
+	{
+		self.location.href = url;
+	}
+}
+</script>
+
+    <link rel="stylesheet" type="text/css" href="../include/store.css">
+</head><body><a name="pageTop()"><!-- --></a>
+
+	
+	<!-- MLB Refractoring -->
+
+
+
+<!-- MLB Refractoring -->
+
+
+
+
+
+
+
+
+
+
+
+
+<!--You are running on ashprd1_ws_01_4-->
+
+
+
+
+
+
+
+
+
+
+<div style="display:none;">Thank you for visiting Major League Baseball. If you need assistance with shopping on our site, please call us at 866-274-9053 and a customer care representative will be happy to assist you. PLease inform the Customer Service Representative that you require assistance.</div>
+<script>
+	var _akURL = "http://MLB.imageg.net";
+</script>
+<script type="text/javascript" src="http://MLB.imageg.net/js/DF_DFT_main.js"></script>
+<script type="text/javascript" src="http://MLB.imageg.net/js/WIZ_MLB_topNav.js"></script>
+<script type="text/javascript" src="http://MLB.imageg.net/js/LIB_eventObserve.js"></script>
+<script type="text/javascript">
+	//Eliminates multiple onload events stomping each other, needs LIB_eventObserve.js include above.
+	//Event.observe(window,"load",function(){Dom.father(['ul'])});
+	Event.observe(window,"load",function(){initNav()});
+</script>
+
+
+
+
+	
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="http://MLB.imageg.net/css/DF_MLB_main.css">
+
+<link rel="stylesheet" type="text/css" href="http://MLB.imageg.net/css/WIZ_MLB_topNav.css">	
+
+	
+<div id="mlbWrapper">
+	<div id="mlbWrapper2">
+		<div id="mlbHeader">
+			<div id="mlbHeaderSearchBox">
+				<a href="javascript:submitSearchForm();"><i>Submit Form</i></a>
+				<form action="/search/controller.jsp?clickid=topnav_search_txt" method="post" name="search"><input name="kw" type="text" maxlength="150" id="kw" onfocus="this.value=''" value="PRODUCT SEARCH"></form>
+			</div>
+			<div id="mlbHeaderTop">
+				<div id="mlbHeaderTopNav">
+
+					<a class="headNav" href="/home/index.jsp" id="mlbHeaderTopNavFirst"><img src="http://MLB.imageg.net/images/mlb07_topnav_mlbshop.jpg" border="0" alt=""></a>
+					<a class="headNav" href="/category/index.jsp?categoryId=1739120"><img src="http://MLB.imageg.net/images/mlb07_topnav_equipment.jpg" border="0" alt=""></a>
+					<a class="headNav" href="/category/index.jsp?categoryId=1503842"><img src="http://MLB.imageg.net/images/mlb07_topnav_fanshop.jpg" border="0" alt=""></a>
+					<a class="headNav" href="../giftfinder/index.jsp"><img src="http://MLB.imageg.net/images/mlb07_topnav_giftfinder.jpg" border="0" alt=""></a>
+					<a class="headNav" href="/category/index.jsp?categoryId=1503844" onclick="window.location.href='/category/index.jsp?categoryId=1503844&amp;cp=1503844';return false;"><img src="http://MLB.imageg.net/images/mlb07_topnav_clearance.jpg" border="0" alt=""></a>
+				</div>
+				<div id="mlbHeaderSecondNav"><img src="http://MLB.imageg.net/images/mlb07_hsecondnav.jpg" width="422" height="15" border="0" usemap="#secondNav"></div>
+			</div>
+			<div id="mlbHeaderCart"><a href="/cart/index.jsp?an_action=viewCart">(<span id="cartItemCount">0 items</span>)</a></div>
+
+			<!-- mc2007 null -->
+
+
+
+		<div id="mlbHeaderBannerL" style="background:url(http://MLB.imageg.net/graphics/category_images/mlbcom_hdr.jpg) no-repeat;">
+		<img id="mlbHeaderBannerLImg" src="http://MLB.imageg.net/images/pixel.gif" border="0" width="970" height="66" alt="" usemap="#home">
+
+
+
+
+			<div style="clear:both;"></div>
+		</div>
+		<div id="mlbHeaderBannerLogin"></div>	
+	</div>
+	
+
+<div class="mainNavContainer">
+				<ul id="mainNav">
+					<li id="mainNav1"><a href=""><u>Team Shops</u></a>
+						<ul>
+							<li id="navLeagues">
+								<div id="navAL">
+									<ul>
+										<li class="first"><a href="/shop/index.jsp?categoryId=1452341">Angels</a></li>
+										<li><a href="/shop/index.jsp?categoryId=1452361">Athletics</a></li>
+										<li><a href="/shop/index.jsp?categoryId=1452370">Blue Jays</a></li>
+										<li><a href="/shop/index.jsp?categoryId=1452349">Indians</a></li>
+										<li><a href="/shop/index.jsp?categoryId=1452366">Mariners</a></li>
+										<li><a href="/shop/index.jsp?categoryId=1452344">Orioles</a></li>
+										<li><a href="/shop/index.jsp?categoryId=1452369">Rangers</a></li>
+										<li><a href="/shop/index.jsp?categoryId=1452368">Rays</a></li>
+										<li><a href="/shop/index.jsp?categoryId=1452345">Red Sox</a></li>
+										<li><a href="/shop/index.jsp?categoryId=1452354">Royals</a></li>
+										<li><a href="/shop/index.jsp?categoryId=1452351">Tigers</a></li>
+										<li><a href="/shop/index.jsp?categoryId=1452357">Twins</a></li>
+										<li><a href="/shop/index.jsp?categoryId=1452347">White Sox</a></li>
+										<li class="last"><a href="/category/index.jsp?categoryId=1452360">Yankees</a></li>
+									</ul>
+								</div>
+								<div id="navNL">
+									<ul>
+										<li class="first"><a href="/shop/index.jsp?categoryId=1452353">Astros</a></li>
+										<li><a href="/shop/index.jsp?categoryId=1452343">Braves</a></li>
+										<li><a href="/shop/index.jsp?categoryId=1452356">Brewers</a></li>
+										<li><a href="/shop/index.jsp?categoryId=1452367">Cardinals</a></li>
+										<li><a href="/shop/index.jsp?categoryId=1452346">Cubs</a></li>
+										<li><a href="/shop/index.jsp?categoryId=1452342">Diamondbacks</a></li>
+										<li><a href="/shop/index.jsp?categoryId=1452355">Dodgers</a></li>
+										<li><a href="/shop/index.jsp?categoryId=1452365">Giants</a></li>
+										<li><a href="/shop/index.jsp?categoryId=1452352">Marlins</a></li>
+										<li><a href="/shop/index.jsp?categoryId=1452359">Mets</a></li>
+										<li><a href="/shop/index.jsp?categoryId=1895815">Nationals</a></li>
+										<li><a href="/shop/index.jsp?categoryId=1452364">Padres</a></li>
+										<li><a href="/shop/index.jsp?categoryId=1452362">Phillies</a></li>
+										<li><a href="/shop/index.jsp?categoryId=1452363">Pirates</a></li>
+										<li><a href="/shop/index.jsp?categoryId=1452348">Reds</a></li>
+										<li class="last"><a href="/shop/index.jsp?categoryId=1452350">Rockies</a></li>
+									</ul>
+								</div>
+							</li>
+						</ul>
+					</li>
+
+						
+								<li><a id="_header2" href="/category/index.jsp?categoryId=1452620" onclick="window.location.href='/category/index.jsp?categoryId=1452620';return false;">Jerseys</a>
+							
+								
+			               			<i>|</i> </li>
+								
+								<li><a id="_header2" href="/category/index.jsp?categoryId=1452621" onclick="window.location.href='/category/index.jsp?categoryId=1452621';return false;">Caps</a>
+							
+								
+			               			<i>|</i> </li>
+								
+								<li><a id="_header2" href="/category/index.jsp?categoryId=1452622" onclick="window.location.href='/category/index.jsp?categoryId=1452622';return false;">Men's</a>
+							
+								
+			               			<i>|</i> </li>
+								
+								<li><a id="_header2" href="/category/index.jsp?categoryId=1452623" onclick="window.location.href='/category/index.jsp?categoryId=1452623';return false;">Women's</a>
+							
+								
+			               			<i>|</i> </li>
+								
+								<li><a id="_header2" href="/category/index.jsp?categoryId=1452624" onclick="window.location.href='/category/index.jsp?categoryId=1452624';return false;">Kids</a>
+							
+								
+			               			<i>|</i> </li>
+								
+								<li><a id="_header2" href="/category/index.jsp?categoryId=1452625" onclick="window.location.href='/category/index.jsp?categoryId=1452625';return false;">Collectibles</a>
+							
+								
+			               			<i>|</i> </li>
+								
+								<li><a id="_header2" href="/category/index.jsp?categoryId=1452626" onclick="window.location.href='/category/index.jsp?categoryId=1452626';return false;">Memorabilia</a>
+							
+								
+			               			<i>|</i> </li>
+								
+								<li><a id="_header2" href="/category/index.jsp?categoryId=1452627" onclick="window.location.href='/category/index.jsp?categoryId=1452627';return false;">Baseball Cards</a>
+							
+								
+			               			<i>|</i> </li>
+								
+								<li><a id="_header2" href="/category/index.jsp?categoryId=2366583" onclick="window.location.href='/category/index.jsp?categoryId=2366583';return false;">DVDs &amp; Books</a>
+							
+								
+			               			<i>|</i> </li>
+								
+								<li><a id="_header2" href="/category/index.jsp?categoryId=1452629" onclick="window.location.href='/category/index.jsp?categoryId=1452629';return false;">Home &amp; Office</a>
+							
+								
+			               			<i>|</i> </li>
+								
+								<li> <a href="/giftCertificates/index.jsp?categoryId=2955817&amp;clickid=topnav_subnav_txt">GIFT CARDS</a></li>
+
+								
+					
+				</ul>
+			</div>
+
+
+		<div id="expressShop" style="display:none;"></div>
+		<div style="display:none;">	
+		 <!-- Code added to avoid invalid HttpSession Exception  -->
+			
+
+		</div>
+		<map name="mlbHome">
+			<area alt="MLB.com" coords="5,2,99,24" href="http://mlb.mlb.com/NASApp/mlb/index.jsp" target="_blank">
+		</map>
+		<map name="yesshop">
+			<area alt="" coords="0,63,523,0" href="/category/index.jsp?categoryId=2406374">
+		</map>
+		<map name="snyShop">
+			<area alt="" coords="0,63,523,0" href="/category/index.jsp?categoryId=2406375">
+			<area alt="" coords="642,31,734,75" href="http://www.mlb.com" target="_blank">
+		</map>
+		
+		<map name="secondNav">
+			<area alt="" coords="1,2,95,13" href="/helpdesk/index.jsp?clickid=topnav_help_txt">
+			<area alt="" coords="106,2,153,12" href="/cartHandler/index.jsp?action=changeQuantity&amp;wlName=default&amp;clickid=topnav_wishlist_txt">
+			<area alt="" coords="161,3,223,12" href="https://shop.mlb.com/coreg/index.jsp?step=register&amp;clickid=topnav_myacct_txt">
+			<area alt="" coords="233,3,315,12" href="https://shop.mlb.com/coreg/index.jsp?step=ot&amp;clickid=topnav_track_txt">
+			<area alt="" coords="322,2,421,12" href="/requestACatalog/index.jsp?clickid=topnav_catalog_txt">
+		</map>
+		
+		
+		
+		<map name="home">
+		<area alt="" coords="0,63,523,0" href="&#10;&#9;&#9;&#10;&#9;&#9;&#9;&#9;&#9;&#9;&#9;/home/index.jsp?clickid=topnav_teamTab_txt&#10;&#9;&#9;&#10;&#9;&#9;" onclick="window.location.href='/home/index.jsp?clickid=topnav_teamTab_txt';return false;">
+
+		<area alt="" coords="846,9,945,45" href="http://www.mlb.com" target="_blank">
+		</map>	
+		
+		<script>
+			function submitSearchForm() {
+			document.forms['search'].submit();
+		}
+		</script>
+		<script type="text/javascript" src="http://MLB.imageg.net/include/flashobject.js"></script>
+		<script>
+		//onload = function()
+		function initNav(){
+			
+				Wizzle.dropNav($('mainNav'),{})	
+					
+		}
+			var milbOpen = false
+			function toggleMinorLeague() {
+				if (milbOpen==false) {
+					document.getElementById("navMinorLeague").style.display = "block"
+					setTimeout("closeMinorLeague()",20000);
+					milbOpen = true;
+				}
+			}
+			function closeMinorLeague() {
+				document.getElementById("navMinorLeague").style.display = "none"
+				milbOpen = false
+			}
+			/*
+			var milbOpen = 1
+			function toggleMinorLeague() {
+				if (milbOpen==1) {
+					document.getElementById("navMinorLeague").style.display = "block"
+					milbOpen = 0
+				}
+				else {
+					document.getElementById("navMinorLeague").style.display = "none"
+					milbOpen = 1
+				}
+			}
+			*/
+		</script>
+		
+<script>
+	function closeJerseyPopUp() {
+		document.getElementById("jerseyPopUp").style.display = "none";
+	}
+	function openJerseyPopUp() {
+		document.getElementById("jerseyPopUp").style.display = "block";
+	}
+	</script>
+<div id="jerseyPopUp">
+	<div id="jerseyPopUpHeader">
+		<a id="jerseyCloseBtn" href="javascript:closeJerseyPopUp();"></a>
+		<h3>AUTHENTIC vs. REPLICA JERSEYS: What is the difference?</h3>
+		<h4>Copy description giving all information about products, manufacturer, quality, material, etc. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exercitation ulliam corper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem veleum iriure. Dolor in hendrerit in vulputate velit esse molestie consequat, vel willum lunombro dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent olore eu feugiat nulla facilisis at vero ero luptatum zzril delenit. </h4>
+	</div>
+	<div id="jerseyPopUpBody">
+		<div id="jerseyPopUpViews">
+			<div><img src="http://MLB.imageg.net/images/jerseys_views.gif" alt=""></div>
+			<a href="">Front</a>
+			<a href="">Back</a>
+			<a href="">Detail 1</a>
+			<a href="">Detail 2</a>
+			<a href="">Detail 3</a>
+			<a href="">Detail 4</a>
+		</div>
+		<div id="jerseyPopUpAuthentic">
+			<div class="imgBorder"><img src="http://MLB.imageg.net/images/jerseys_authentic.jpg" alt=""></div>
+			<h3>AUTHENTIC</h3>
+			<ul>
+			   <li>Authentic Jersey as worn on-field</li>
+			   <li>100% polyester authentic game jersey</li>
+			   <li>2 color tackle twill letters and numbers</li>
+			   <li>Tapered Athletic Cut</li>
+			   <li>Authentic jock tag</li>
+			   <li>Tackle twill team graphics</li>
+			   <li>Official MLB Batters Logo on Back</li>
+			   <li>Officially licensed</li>
+			</ul>
+		</div>
+		<div id="jerseyPopUpReplica">
+			<div class="imgBorder"><img src="http://MLB.imageg.net/images/jerseys_replica.jpg" alt=""></div>
+			<h3>REPLICA</h3>
+			<ul>
+				<li>100% 12 oz. polyester double-knit construction</li>
+  				<li>Official team colors and logos</li>
+   				<li>Single Color Tackle Twill</li>
+  				<li>Fuller Cut</li>
+ 				<li>Full-button front</li>
+   				<li>Team decoration chest</li>
+   				<li>Jocktag on tail</li>
+			</ul>
+		</div>
+	</div>
+</div>
+		
+		<div id="wrapper2">
+			<div id="frame">
+				<div id="header">
+		
+		
+				</div><!-- end minicart div -->
+			</div><!-- end frame div -->
+		</div><!-- end wrapper div --><!-- end minicart header -->
+		          
+ 
+
+<div style="display:none;">
+ 
+</div>
+
+
+	 
+
+
+
+    <script language="JavaScript" type="text/javascript">
+
+        var srRemoveCookieDate = new Date();
+        srRemoveCookieDate.setTime(srRemoveCookieDate.getTime() + (-1 * 24 * 60 * 60 * 1000));
+        
+        document.cookie = "sr_token=; expires=" + srRemoveCookieDate.toGMTString() + "; path=/;";
+
+        var _shoprunner_com = new Object();
+        _shoprunner_com.enabled = true;
+        _shoprunner_com.loginValidationURL = '/shoprunner/srTokenValidation.jsp';
+        /*
+         * 0 - Development
+         * 1 - Staging
+         * 2 - Production
+         */
+        
+            _shoprunner_com.environmentID = 2;
+        
+
+        _shoprunner_com.checkout = new Object();
+        _shoprunner_com.checkout.enabled = false;
+    </script>
+
+    <script language="JavaScript" type="text/javascript" src="http://MLB.imageg.net/include/shoprunner/js/shoprunner_init.js"></script>
+    
+    <script language="JavaScript" type="text/javascript">
+        function storeSREDID() {
+    var thirtyDays = (60*60*1000*24)*30;
+    var vals = document.location.search;
+    start = vals.indexOf("SREDID=");
+    if (start != -1) {
+        var end = vals.indexOf("&", start);
+        if (end == -1){ end = vals.length }
+        var date = new Date();date.setTime(date.getTime()+ thirtyDays);
+        document.cookie= vals.substring(start,end) + "; expires=" + date.toGMTString() + "; path=/";
+    }
+}
+function getSREDID(){
+   var n = "SREDID=";
+   var cookies = document.cookie;
+   var start = cookies.indexOf(n);
+   if (start == -1){ return null; }
+   start += n.length ;
+   var end = cookies.indexOf(";", start);
+   if (end == -1){ end = cookies.length }
+   return cookies.substring(start, end);
+}
+    </script>
+    
+    <link rel="stylesheet" type="text/css" href="http://MLB.imageg.net/include/shoprunner/css/shoprunner.css">
+
+
+
+<div id="mlbBody">
+<table border="0" width="770" cellpadding="0" cellspacing="0" align="center">
+    <tbody><tr>
+        <td valign="top">
+            <table cellpadding="6" border="0" width="100%">
+    <tbody><tr><td>
+       <a class="breadcrumb" href="/home/index.jsp" onclick="javascript:location.href=&quot;/home/index.jsp&quot;;return false;">
+       Return to shopping</a>&nbsp;
+|&nbsp;
+
+    <a class="breadcrumb" href="/helpdesk/index.jsp">Help Desk</a>
+
+    </td></tr>
+</tbody></table>
+<br>
+
+
+
+
+
+<!-- *********************************** STOREMAN HELPDESK STARTS ************************************** -->
+				 
+					
+				
+							
+
+<table width="100%" border="0">
+	<tbody><tr>
+		<td width="200" valign="top">
+<!-- navigation -->
+			<table width="200" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td height="20" valign="middle" colspan="2" align="left">
+					<font class="header">Safety, Security, and Privacy </font></td>
+				</tr>
+				<tr>
+					<td><img src="../images/pixel.gif" width="5"></td>
+				</tr>
+				
+				<tr>
+							
+								
+								
+					
+									<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td><td valign="top"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=secure" class="hd_pagelink">Secure Shopping Guarantee</a></td>
+						
+					
+				</tr>
+				<tr>
+					<td><img src="../images/pixel.gif" width="5"></td>
+				</tr>
+				
+				<tr>
+							
+								
+								
+					
+									<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td><td valign="top"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" class="hd_pagelink">Terms &amp; Conditions</a></td>
+						
+					
+				</tr>
+				<tr>
+					<td><img src="../images/pixel.gif" width="5"></td>
+				</tr>
+				
+				<tr>
+							
+								
+								
+					
+									<td valign="top"><font class="subheadNumber">&nbsp;&nbsp;&nbsp;»</font></td><td valign="top"><a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy" class="hd_pagelink">Privacy Policy</a></td>
+						
+					
+				</tr>
+				<tr>
+					<td><img src="../images/pixel.gif" width="5"></td>
+				</tr>
+				
+			</tbody></table>
+		</td>
+		<td>
+			<img src="/images/pixel.gif" width="10" height="1">
+		</td>
+		<td valign="top">
+			<table border="0">
+				<tbody><tr>
+					<td><a href="/helpdesk/index.jsp"><img src="http://MLB.imageg.net/images/hd/help_desk.gif" border="0"></a></td>	
+				</tr>
+				<tr>
+				</tr>
+				<tr>
+					<td>
+						<!-- panel -->
+						<!--here is panelId::2000860-->
+<!--here is pd::null-->
+<!--STOREMAN GENERATION - 1 panel(s) found for slot: HelpSlot entryId: 2000860 with pd:null-->
+<!--STOREMAN PANEL: helpdesk/MLB_safetySecurityAndPrivacy_8-3.45398.jsp-->
+
+								
+<smpanel xmlns:sm="http://engineering.gspt.net/storeman/sm-DTDinfo.html">
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td width="100%" valign="top">
+
+<br>
+
+<p><b>Privacy Policy</b></p><br>
+
+<p><b>PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY BEFORE USING THIS WEBSITE OR ANY OTHER 
+MLB ADVANCED MEDIA, L.P. PRODUCT OR SERVICE.</b></p><br>
+
+<p>TABLE OF CONTENTS</p><br>
+
+<ol>
+<li><a href="#1">General</a></li>
+<li><a href="#2">Information Automatically Collected; Cookies; Web Beacons</a></li>
+<li><a href="#3">Our Security Practices</a></li>
+<li><a href="#4">How You Can Review Your Personal Information</a></li>
+<li><a href="#5">Choice</a></li>
+<li><a href="#6">Links</a></li>
+<li><a href="#7">Special Rules for Children</a></li>
+<li><a href="#9">Contact Us; Privacy Administrator</a></li>
+<li><a href="#9">Notification of Changes</a></li>
+</ol>
+
+<p><b><a name="1">General</a></b></p><br>
+
+<p>MLB Advanced Media, L.P. is the organization that produces the Official Website of Major League Baseball, 
+which encompasses MLB.com, the Official Websites of the thirty (30) Major League Baseball ("MLB") Clubs and the
+Official Websites of certain other MLB-related properties (this or our "Website"). We are committed to safeguarding 
+your privacy online. This Privacy Policy is applicable to this Website.</p><br>
+
+<p>You can visit and enjoy our Website without disclosing any personal information about yourself. However, we offer
+some special services, and for these services to work properly we will need you to share with us certain personal
+information about yourself. The personal information we collect may include, but is not limited to, full name, 
+street address, e-mail address, telephone number(s) (e.g., home, work, mobile and/or fax) and birth date. We may
+also collect other personal information that will be identified on applicable page(s) of this Website. If you 
+submit any personal information to us, or to any third parties acting on our behalf, you can be
+assured that we will not sell, lease, or share your personal information with or to anyone else, except as follows: 
+(1) to certain third parties, but only so that they may help us provide services you've requested and/or 
+in certain circumstances to provide you with related offers or content; (2) to one or more MLB Clubs, to the extent that
+you've submitted information that relates specifically to such Club(s) (e.g., you've asked to receive the newsletter 
+of one or more Clubs via email or you've purchased Club-specific merchandise from one of our stores), so that they
+may learn more about fans like you, and provide better services to you; (3) upon notice posted on an applicable 
+location of our Website where we collect your personal information for an economic transaction and notify you that 
+we will be sharing such information with a third party (e.g., ESPN.com), where such third party is clearly 
+identified; and (4) on occasion, we may offer a special promotion (such as a sweepstakes, contest, fantasy baseball 
+game or free subscription to goods and/or services) on this Website in conjunction with a third-party service
+provider, sponsor, or promotional partner, and share your information with that service provider, sponsor, or 
+promotional partner so that it can send you other special promotions it offers, but only if you give us permission
+to do so.</p><br>
+
+<p><i>Special Offers and Promotions.</i> With your permission, we may also send you communications with special offers 
+and promotions. If you don't want to receive these, you may change your preferences by accessing your my MLB.com account.</p><br>
+
+<p><b><a name="2">Information Automatically Collected; Cookies; Web Beacons</a></b></p><br>
+
+<p>We use automatic methods such as cookies (small amounts of data, which often include an anonymous unique 
+identifier that is sent to your browser from a website's computers and stored on your computer's hard drive), 
+single-pixel GIF images ("web beacons") or similar technologies, alone or in combination with personally 
+identifiable information you choose to provide us, to make our Website work better, to understand Website 
+usage and trends, to deliver a more personalized experience and to improve and deliver certain content and offerings. Examples 
+of the information we collect and analyze using such methods include, without limitation, the Internet protocol 
+(IP) address used to connect your computer to the Internet; e-mail address; login name and password; operating 
+system type,  version and computer platform; purchase history, which we may aggregate with similar information 
+from other customers; the full Uniform Resource Locator (URL) clickstream to, on, and from our Website, including 
+date and time; cookie information; and products you viewed or searched for. We may also use software tools to 
+measure and collect session information, including page response times, download errors, length of visits to
+certain pages, page interaction information (such as scrolling, clicks, and mouse-overs) and methods used to 
+browse away from the page.</p><br>
+
+<p>We may also use cookies to enable you to use a "shopping cart" if you want to purchase goods or services 
+while on our Website, to store your preferences associated with video streaming or other content offered from our Website
+and to deliver certain content, products, programs, and/or services based on purchase and Website usage behavior
+that you and/or other customers have exhibited. If you do not want information collected through the use of cookies,
+there is a simple procedure in most browsers that allows the user to accept or reject most cookies. 
+Certain cookies that are set when some video products are accessed on our Website, called "local shared objects: or "Flash cookies," 
+may not be managed using the settings in your web browser.  Information on managing, accepting and rejecting these cookies is available 
+from Adobe on the <a href="www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html">Adobe website</a>. 
+If you set your browser or Adobe Flash options not to accept cookies or local shared objects, you may not be able to take advantage of 
+certain services on our Website.</p><br>
+
+<p>We do not transfer cookies associated with our Website to any other company, nor do we authorize any other
+company to access those cookies for any purpose other than as set forth in this Privacy Policy. We may allow certain third parties, such as 
+those who deliver advertisements, content or provide other services associated with our Website, to set and/or access cookies, web beacons and/or
+similar technologies associated with certain of our pages and/or certain emails sent by us.</p><br>
+
+<p>Third party companies that manage and deliver advertisements on our Website and other websites are commonly referred to as "network advertisers." 
+These network advertisers may use cookies and web beacons to collect information about your visits to our Website in order to tailor certain advertisements 
+and content delivered on our Website and on other websites within such network advertiser's ad network. If you would like to obtain more information about 
+common industry practices of network advertisers and/or make choices about their use of your
+information, please <a href="http://www.networkadvertising.org/managing/opt_out.asp#">click here</a>.</p><br>
+
+<p>We do not install any spyware or adware in connection with our Website, or distribute any commercial message,
+or authorize any third party to distribute any commercial message, by means of spyware or adware. "Spyware" or 
+"adware" is any software which has been downloaded to and/or installed on an Internet user's computer, without 
+the user's actual consent, and facilitates the distribution of any commercial message to the user. If you feel 
+you may have spyware from another company installed on your machine, there are various anti-spyware/adware software
+applications available on the Internet to identify if this has occurred.</p><br>
+
+<p><i>Aggregated Demographic Information.</i> We may share aggregated demographic information with third parties, 
+but this information is not linked to any personal information that can identify you or another individual person.
+Therefore, no personal information is disclosed in this manner.</p><br>
+
+<p><i>Business Transfers.</i> As time passes, MLB Advanced Media, L.P. may be sold along with its assets, or other
+transactions may occur in which customer information is one of the business assets transferred. In such a case, 
+the customer information which we have gathered may be one of the business assets we transfer.</p><br>
+
+<p><i>Disclosure for Legal Purposes.</i> We may be required to share your personal information and non-personal
+information pursuant to judicial or governmental subpoenas, warrants, or orders. If we are required to do so, 
+we will, of course, obey the law. In addition, notwithstanding any term to the contrary in this Privacy Policy,
+we reserve the right to use, disclose, and/or share your personal and non-personal information in order to 
+investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving 
+potential threats to the physical safety of any person, violations of this Website's Terms of Use or as otherwise 
+required by law.</p><br>
+
+<p><b><a name="3">Our Security Practices</a></b></p><br>
+
+<p>Your Website account preferences are password protected for your privacy and security. In certain areas, we 
+use industry-standard SSL encryption to protect data transmissions.</p><br>
+
+
+<p><b><a name="4">How You Can Review Your Personal Information</a></b></p><br>
+
+<p>If you want to review or revise the personal information you provided during registration on this Website,
+and whether you want to receive communications from us, you can either (1)
+<a href="https://secure.mlb.com/account/index.jsp">click here</a> to log in, and then click on 
+the applicable menu option on the left side of the page, or (2) call MLB.com Customer Service at 866-800-1275.
+If you want to close your account with us and have us delete the personal information in it (except for information
+that we keep for record-keeping purposes), you should contact MLB.com Customer Service at 866-800-1275.</p><br>
+
+
+<p><b><a name="5">Choice</a></b></p><br>
+
+<p>Our registration and order forms contain a box for you to indicate whether or not you consent to receive 
+special offers and promotions from us. Unless you give us your consent to use your personal information for 
+these purposes, we and our partners will only use it to complete the transaction or provide the service or 
+product you have requested. If you indicate that you consent to receive communications or solicitations, but 
+you later change your mind, you can revise your preferences by accessing the "My Newsletters" section within 
+your Website account.</p><br>
+
+<p><b><a name="6">Links</a></b></p><br>
+
+<p>Our Website contains links to other websites produced by MLB Advanced Media, L.P. and to websites and/or products operated
+by unrelated third parties. In addition, if you click on an advertisement on our Website, you may be directed 
+to a web page within our Website or to a third-party website or product.  Please note that we are not responsible for the 
+privacy practices of third-party websites or products. We encourage you to be aware of this when your leave our Website and 
+to read the privacy policies of every website and product that collects personally identifiable information from you. 
+This Privacy Policy applies only to this Website, unless you are notified otherwise upon accessing any third party website or product,
+in which case the terms and conditions set forth in such notification will apply.</p><br>
+
+<p><b><a name="7">Special Rules for Children</a></b></p><br>
+
+<p>Because of federal law, we cannot knowingly collect and retain any personal information from a child under the age of 
+thirteen without the consent of that child's parent. The statements in this Privacy Policy generally about our 
+collection and use of personal information also apply to our treatment of personal information from children 
+under the age of thirteen.  
+Some services on our Website (e.g., Shop, Ticketing, Auctions) require the submission of a credit card number 
+along with personal information in connection with a purchase, other services on our Website (e.g., fantasy baseball)
+require the submission of personal information to the Website. Except in certain cases where limited contact information may
+be collected and not retained, these services are not available to children under the age of thirteen. If a child who 
+MLB Advanced Media, L.P. knows to be under the age of thirteen attempts to utilize a service on this Website which is not available 
+to children, he/she will receive a message which relays that he/she is "not eligible" for the service.</p><br>
+
+<p><b><a name="8">Contact Us; Privacy Administrator</a></b></p><br>
+
+<p>If you have questions or concerns about this Privacy Policy, you can contact us at:</p><br>
+
+<p>MLB Advanced Media, L.P.<br>
+Privacy Administrator<br>
+75 Ninth Avenue<br>
+New York, New York 10011<br>
+Phone: (212) 485-6142<br>
+Fax: (212) 485-8111<br> 
+Or send an e-mail to <a href="mailto:privacy@website.mlb.com?subject=Privacy Policy Questions" class="pagelink">privacy@website.mlb.com</a></p><br>
+
+<p><b><a name="9">Notification of Changes</a></b></p><br>
+
+<p>If we make an important change to this Privacy Policy, we will post a notification and link on our homepage
+so that you can review the updated policy.</p><br>
+
+<p>LAST UPDATED AND EFFECTIVE DATE: June 6, 2011</p><br>
+
+<br><br>
+
+</td>
+</tr>
+</tbody></table>
+</smpanel>
+
+<!--END STOREMAN PANEL helpdesk/MLB_safetySecurityAndPrivacy_8-3.45398.jsp-->
+<!--END STOREMAN GENERATION-->
+
+							
+					</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+
+				
+<!-- *********************************** STOREMAN HELPDESK ENDS************************************** -->
+
+		
+		</td>
+    </tr>
+    <tr>
+        <td colspan="2">
+           
+        </td>
+    </tr>
+</tbody></table>
+</div>
+ 
+
+
+
+
+
+
+
+
+
+
+
+<!--You are running on ashprd1_ws_01_4-->
+
+
+
+
+
+
+
+ 
+
+<script type="text/javascript">
+
+
+
+
+
+
+
+</script>
+<script language="javascript" src="https://dsa.csdata1.com/data/js/11139207/csgather.js"></script>
+
+
+
+<script type="text/javascript">
+var date = new Date();
+date.setTime(date.getTime()+(24*60*60*1000*10000));
+var expires = date.toGMTString();
+var enableWishlist="";
+var userId="";
+var username="MLB";
+var userValue=""+",";
+var rewardsUserValue=""+",";
+var flagPage="0";
+if(enableWishlist ==1 && flagPage==1){
+	document.cookie = username+'_Wishlist_clearSaleing='+ userValue+userId +'; expires=' + expires + ';path=/';
+}
+
+var rewardsflagPage="0";
+if(rewardsflagPage==1){
+	document.cookie = 'AceRewards_clearSaleing='+ rewardsUserValue+userId +'; expires=' + expires + ';path=/';
+}
+
+</script>	
+
+
+
+
+
+
+
+
+
+
+<!--You are running on ashprd1_ws_01_4-->
+
+
+
+
+
+
+<!-- Kenshoo Pixel  --->
+
+		
+<!-- Kenshoo Pixel -->
+
+
+
+
+
+
+
+
+
+
+<!--You are running on ashprd1_ws_01_4-->
+
+
+
+
+<!-- trackingPageType getRequestURI() /gsi/mlb/helpdesk/index.jsp  --><!-- trackingPageType finalPage() helpdesk  -->
+						<!-- No Tracking Pixel defined via allTrackingPixelFile -->
+						<!-- No Tracking Pixel defined via allTrackingPixelFile -->
+						<!-- No Tracking Pixel defined via allTrackingPixelFile -->
+						<!-- No Tracking Pixel defined via allTrackingPixelFile -->
+						<!-- No Tracking Pixel defined via allTrackingPixelFile -->
+
+
+
+	
+
+
+
+
+
+
+<!--You are running on ashprd1_ws_01_4-->
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+<!--You are running on ashprd1_ws_01_4-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--You are running on ashprd1_ws_01_4-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+<!--You are running on ashprd1_ws_01_4-->
+
+
+
+
+
+
+
+
+		<div id="trackingPixels" style="visibility:hidden">
+			
+
+
+			<iframe src="http://pixel.fetchback.com/serve/fb/pdj?cat=&amp;name=landing&amp;sid=3504" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
+	
+
+
+ 
+		</div>
+	
+
+
+
+
+
+
+   
+
+
+
+
+
+
+<!--You are running on ashprd1_ws_01_4-->
+
+
+
+
+
+<script src="http://media.gsimedia.net/tg/gsiutt/store125.js"></script>	
+<script>
+    var siteId= '125';
+    var catId = '';
+    var pageType = 'helpdesksafetyprivacy';
+    var browserId = '136493000804';
+    var prodId = '';
+    var pQty = '';
+    var orderId = '';
+    var cartTotal = '';
+    var ordertotal = '';
+    truEffect.measure();
+</script>
+
+
+
+
+
+
+<script language="JavaScript" type="text/javascript">
+function storeSREDID() {
+    var thirtyDays = (60*60*1000*24)*30;
+    var vals = document.location.search;
+    start = vals.indexOf("SREDID=");
+    if (start != -1) {
+        var end = vals.indexOf("&", start);
+        if (end == -1){ end = vals.length }
+        var date = new Date();date.setTime(date.getTime()+ thirtyDays);
+        document.cookie= vals.substring(start,end) + "; expires=" + date.toGMTString() + "; path=/";
+    }
+}
+function getSREDID(){
+   var n = "SREDID=";
+   var cookies = document.cookie;
+   var start = cookies.indexOf(n);
+   if (start == -1){ return null; }
+   start += n.length ;
+   var end = cookies.indexOf(";", start);
+   if (end == -1){ end = cookies.length }
+   return cookies.substring(start, end);
+}
+</script>
+
+
+
+<script><!-- 
+storeSREDID(); 
+//--></script> 
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+<!--You are running on ashprd1_ws_01_4-->
+
+
+
+
+<!-- // End of code of PMO 52759 -->
+
+
+
+         
+	
+
+
+
+
+
+
+
+
+
+
+<!-- Start of New Pixel File -->
+
+
+<!-- End of New Pixel File -->
+
+
+
+		<!-- START FOOTER -->
+		<div id="mlbFooter">
+		  <div>
+		    <img src="http://MLB.imageg.net/images/mlb10_footer.gif" width="970" height="23" border="0" usemap="#footerMap" style="position:relative;z-index:100;">
+		  </div>
+		  <div id="mlbFooterCopy">
+			© 2011 MLB Advanced Media, L.P. All rights reserved. The following are trademarks or service marks of Major League Baseball entities and may be used only with permission of Major League Baseball Properties, Inc. or the relevant Major League Baseball entity: Major League, Major League Baseball, MLB, the silhouetted batter logo, World Series, National League, American League, Division Series, League Championship Series, All-Star Game, and the names, nicknames, logos, uniform designs, color combinations, and slogans designating the Major League Baseball clubs and entities, and their respective mascots, events and exhibitions. Use of the Website signifies your agreement to the <a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms&amp;clickid=botnav_terms_txt">Terms of Use</a> and <a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=botnav_privacy_txt">Privacy Policy</a> (updated 2/11/2011).
+		  </div>
+		</div>
+		<!-- END FOOTER -->
+		
+	</div>
+</div>
+
+<!-- ## GSI Analytics Start ##  -->
+<script language="JAVASCRIPT">
+var s_account = 'mlbglobal08'
+</script>
+<script language="JAVASCRIPT" src="/include/omniture-h.js"></script>
+<script language="JAVASCRIPT">
+s.server='shop.mlb.com';
+s.setLinkInternalFilters(',gspt.net,gsipartners.com,imageg.net,shop.mlb.com');
+s.pageName='Help Desk: Privacy Policy';
+esclt.events='event18';
+esclt.friendlyName='Email Signup';
+s.channel='Help Desk';
+s.prop4='Internal Domain';
+s.prop3='Site Navigation';
+s.prop2='Help Desk: Privacy Policy';
+s.prop1='Help Desk: Privacy Policy';
+s.secAccountName='mlbcom08';
+var s_code=s.t(); if (s_code)document.write(s_code);
+</script>
+<!-- ## GSI Analytics End ##  -->
+
+<!--map name="footerMap">
+<area alt="" coords="170,3,224,16" href="/emailList/index.jsp">
+<area alt="" coords="238,2,288,17" href="/cartHandler/index.jsp?action=changeQuantity&wlName=default&clickid=botnav_wishlist_txt">
+<area alt="" coords="304,2,362,17" href="https://shop.mlb.com/coreg/index.jsp?step=register&clickid=botnav_myacct_txt">
+<area alt="" coords="379,2,442,18" href="/groupsales/index.jsp?clickid=botnav_groupsales_txt">
+<area alt="" coords="460,2,501,18" href="/affiliate/index.jsp?clickid=botnav_affiliate_txt">
+<area alt="" coords="519,2,595,19" href="/helpdesk/index.jsp?display=safety&subdisplay=privacy&clickid=botnav_privacy_txt">
+<area alt="" coords="604,2,705,17" href="/helpdesk/index.jsp?display=safety&subdisplay=terms&clickid=botnav_terms_txt">
+<area alt="" coords="724,2,751,18" href="/helpdesk/index.jsp?clickid=botnav_help_txt">
+<area alt="" coords="765,2,813,16" href="/sitemap/index.jsp?clickid=botnav_help_txt">
+</map -->
+
+<map name="footerMap">
+	<area alt="Email List" shape="rect" coords="12,0,67,20" href="https://secure.mlb.com/mlb/shop/shop_email_pop.jsp" target="_blank">
+	<area alt="Wishlist" shape="rect" coords="75,0,135,20" href="/cartHandler/index.jsp?action=changeQuantity&amp;wlName=default&amp;clickid=botnav_wishlist_txt">
+	<area alt="My Account" shape="rect" coords="140,0,208,20" href="https://shop.mlb.com/coreg/index.jsp?step=register&amp;clickid=botnav_myacct_txt">
+	<area alt="Group Sales" shape="rect" coords="215,0,287,20" href="/groupsales/index.jsp?clickid=botnav_groupsales_txt">
+	<area alt="Affiliate" shape="rect" coords="295,0,348,20" href="/affiliate/index.jsp?clickid=botnav_affiliate_txt">
+	<area alt="Privacy Policy" shape="rect" coords="359,0,436,20" href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=botnav_privacy_txt">
+	<area alt="Terms and Conditions" shape="rect" coords="446,0,549,20" href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms&amp;clickid=botnav_terms_txt">
+	<area alt="Help" shape="rect" coords="560,0,596,20" href="/helpdesk/index.jsp?clickid=botnav_help_txt">
+	<area alt="Site Map" shape="rect" coords="606,0,654,20" href="/sitemap/index.jsp?clickid=botnav_help_txt">
+	<area alt="RSS Alerts" shape="rect" coords="666,0,769,20" href="/productAlerts/index.jsp">
+    <area alt="Become a Fan" shape="rect" coords="779,0,872,20" href="http://www.facebook.com/MLBShop" target="_blank">
+	<area alt="Follow Us" shape="rect" coords="880,0,959,20" href="http://twitter.com/OfficialMLBShop" target="_blank">
+</map>
+
+
+    
+
+
+
+
+
+
+
+
+<!--You are running on ashprd1_ws_01_4-->
+
+
+
+
+
+
+
+<!-- pageOrprocessName finalPage() helpdesk  --> 
+  <script type="text/javascript">
+	   var br_frequency = 30;
+	   var br_percentage = 20;
+	   var br_size = 0;
+	   var br_pos_y = 50;
+	   var br_pos_x = 50;
+	   var br_data = [];
+	   br_data['Q165'] = 'TOR_splashpage';			
+	</script>
+	<script type="text/javascript" src="https://eval.bizrate.com/js/survey_73973_1.js"></script> 
+ 
+
+
+
+
+</body></html>
