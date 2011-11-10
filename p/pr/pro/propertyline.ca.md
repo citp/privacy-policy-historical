@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyline.ca privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613205924id_/http%3A//www.mpac.ca/pages_english/home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyline.ca privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110131702id_/http%3A//www.mpac.ca/pages_english/home/privacy.asp) for the most accurate reproduction.*
 
 # Welcome to MPAC - Privacy Statement
 
@@ -13,7 +13,7 @@ Except as required by law, MPAC does not release personal information, or any ot
 
 Information collected and retained by MPAC is located in a secure, password protected database. Only authorized MPAC employees have access to this information. Any violation of the MPAC Privacy Policy by an employee will result in disciplinary actions against that employee.
 
-If you have any questions regarding the collection, use and disclosure practices of MPAC, please contact our Freedom of Information Coordinator at **905-837-6175**.
+If you have any questions regarding the collection, use and disclosure practices of MPAC, please contact our Freedom of Information Office at 905-837-6188.
 
 External Links Disclaimer
 
@@ -29,4 +29,4 @@ Cookies provide a convenience feature to save you time. They tell the Web server
 
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to access some of the services on our Web site.
 
-© 2010 MPAC All Rights Reserved.
+© 2011 MPAC All Rights Reserved.
