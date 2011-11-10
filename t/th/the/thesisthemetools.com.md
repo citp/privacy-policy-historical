@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesisthemetools.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513010608id_/http%3A//thesisthemetools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesisthemetools.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111001703id_/http%3A//thesisthemetools.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Thesis Theme Tools
 
@@ -18,10 +18,6 @@ If you do not want cookies stored on your computer, you may change your browser 
 
 If you have any questions concerning our privacy policies, please email me using the “Contact” tab at the top of each page.
 
-**Related Articles**
-
 Tags: , [Subdomain](http://thesisthemetools.com/tag/subdomain/)
-
-**Related Articles**
 
 Tagged as: [Subdomain](http://thesisthemetools.com/tag/subdomain/)
