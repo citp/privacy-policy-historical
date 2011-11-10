@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fiverrway.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513014039id_/http%3A//fiverrway.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiverrway.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111003115id_/http%3A//fiverrway.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | FIVERR WAY
-
-If you're new here, go and get your welcome [gift](http://fiverrway.com/simple-guide-to-make-money-online-with-fiverr/). You can also get updates to this site by subscribing to my RSS feed. Finally, this is a DoFollow blog that uses the CommentLuv plug, so if you leave a comment, you'll get a nice link back to your site.Thanks for stopping by! ~Christian
 
 **What information do we collect?**
 
