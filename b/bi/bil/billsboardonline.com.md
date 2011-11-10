@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the billsboardonline.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401182341id_/http%3A//www.billsboardonline.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billsboardonline.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110083154id_/http%3A//www.billsboardonline.com/Privacy_Policy.html) for the most accurate reproduction.*
 
-# BillsBoardOnline - Free Web Directory - Best Web Directory - Business Web Directory - Privacy Policy
+# BillsBoardOnline | Web Directory | Best Web Directory | Business Web Directory - Privacy Policy
 
 Privacy Policy:
 
