@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the letsshop.in privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529100521id_/http%3A//www.letsshop.in/content.aspx%3Fpgid%3D32722) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsshop.in privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110023237id_/http%3A//letsshop.in/index.php/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-### www.letsshop.in : Privacy
 
 **Our Customers Privacy Is Very Important To Us!** We WILL NOT share ANY customer information or database with ANY other company. We do not believe in or practice spamming. Your order with www.letsshop.in is secure, which means that your personal information and credit card number are encrypted with Secure Sockets Layer (SSL) security. Since credit-card and personal information is only entered on the Order Form, only the Order Forms and Shopping Basket are secure. The secured pages will show a secured URL ("https ://") and a lock sign on your browser. When you enter your credit card number into the Order Form, it is transmitted across the Internet in an encrypted (scrambled) form, then decoded when it gets to the server. Additionally, your credit card information is not transmitted via e-mail (which is not encrypted). Our online credit-card processing software does not allow more than one charge to the same credit card number or for the same order number. Should you have any problem with your credit card charge, we will give you our prompt attention and work to resolve the issue. We want our customers and visitors to feel 100% safe and 100% private when surfing our web site.
 
@@ -18,9 +16,11 @@ Any of the information we collect from you may be used in one of the following w
 
 
 
+
 Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. 
 
   * To send periodic emails
+
 
 
 
