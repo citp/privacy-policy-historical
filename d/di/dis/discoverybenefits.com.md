@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoverybenefits.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430160844id_/http%3A//discoverybenefits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverybenefits.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110041134id_/http%3A//discoverybenefits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Discovery Benefits
 
