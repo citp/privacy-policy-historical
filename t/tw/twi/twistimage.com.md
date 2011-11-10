@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the twistimage.com privacy policy that was archived on 2009-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090908033359id_/http%3A//www.twistimage.com/4105/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twistimage.com privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110054947id_/http%3A//www.twistimage.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Twist Image
+# Privacy Policy | Twist Image
+
+﻿ 
 
 Twist Image is the sole owner of the information collected on this site. We will not sell, share, or rent this information in ways other than that disclosed in this statement. Twist Image may collect information from our users at various different points on our website.
 
@@ -14,6 +16,4 @@ This web site contains links to other sites. Please be aware that we, Twist Imag
 
 ## Notification of Changes
 
-If we decide to change our privacy policy, we will post those changes on this page so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we shall notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. Your consent by using our site, you consent to the collection and use of this information by Twist Image. Twist Image welcomes your questions and comments about privacy, please e-mail them to [support@twistimage.com](mailto:support@twistimage.com).
-
-* * *
+If we decide to change our privacy policy, we will post those changes on this page so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we shall notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. Your consent by using our site, you consent to the collection and use of this information by Twist Image. Twist Image welcomes your questions and comments about privacy, please e-mail them to [support@twistimage.com](mailto:support@twistimage.com).
