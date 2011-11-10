@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the labtestsonline.org privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406130937id_/http%3A//www.labtestsonline.org/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labtestsonline.org privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110024028id_/http%3A//labtestsonline.org/site/policies%3Fstart%3D4) for the most accurate reproduction.*
 
-# Privacy
+# Policies
 
 * * *
-
-**[Policies](https://web.archive.org/web/20110406130937id_/http%3A//www.labtestsonline.org/site/policies.html "Policies") | [Code of Conduct](https://web.archive.org/web/20110406130937id_/http%3A//www.labtestsonline.org/site/pb_honcode.html "Code of Conduct") | [Terms of Use](https://web.archive.org/web/20110406130937id_/http%3A//www.labtestsonline.org/site/terms.html "Terms of Use") | [Linking & Licensing](https://web.archive.org/web/20110406130937id_/http%3A//www.labtestsonline.org/site/content_use.html "Linking & Licensing") | [Privacy](https://web.archive.org/web/20110406130937id_/http%3A//www.labtestsonline.org/site/privacy.html "Privacy")**
 
 AACC and its collaborating partners are committed to honoring the privacy of our visitors. We have designed the site to minimize the gathering of personal data; we will not do so without first alerting you to the fact.
 
@@ -17,6 +15,8 @@ We will not send you unsolicited information, commercial offers, and advertiseme
 This site contains links to other sites. AACC and our collaborating partners are not responsible for the privacy practices or the content of such Web sites.
 
 **Removing Your Email Address**  
-If you would no longer like to receive email updates from us, please complete our [Contact Us form](https://web.archive.org/contact/?gc=20) using "unsubscribe" as the Subject. We will delete your name from our mailing list upon receipt of such an email. 
+If you would no longer like to receive email updates from us, please complete our [Contact Us form](http://labtestsonline.org/contact/?gc=20) using "unsubscribe" as the Subject. We will delete your name from our mailing list upon receipt of such an email.
 
-You may also [use this same form](https://web.archive.org/contact/?gc=33) to send us any questions you may have about our privacy policy. It will be helpful if you would select "privacy" as your subject.
+You may also [use this same form](http://labtestsonline.org/contact/?gc=33) to send us any questions you may have about our privacy policy. It will be helpful if you would select "privacy" as your subject.
+
+[« Prev](http://labtestsonline.org/site/policies?start=3 "Prev")
