@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629132454id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111155447id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
 
 # Database management tools for MySQL, Oracle, SQL Server, DB2, SQL Anywhere, PostgreSQL, SQLite, Firebird and MaxDB by SQL Maestro Group
-
-Subscribe to our newsletter 
 
 Partners
 
 Testimonials
 
-**David Boccabella:** "I have really!!!! enjoyed using SQL Maestro for MySQL over the past few months. It has become one of our major development tools for implementing intelligent into MySQL databases".
+**Torstein Krogh:** "Some time ago, I tested all available tools on the market for maintaining MySQL and MySQL Maestro came up on top. My opinion is that MySQL should offer it as a free tool for all paying customers! They have nothing today, and doing MySQL DOS commands is not getting any new customers".
 
-**Marco De Luca:** "I can handle now both version of SQLite Databases, 2.x and 3.x. Your SQLite PHP Generator is among the best tools I have seen".
+**Michael Dunn:** "We're good to go though, thank you again, this is by far the best MySQL interface I've had the opportunity to work with".
 
-[More](http://sqlmaestro.com/products/testimonials/)
+[More](http://www.sqlmaestro.com/products/testimonials/)
 
-[Add your opinion](http://sqlmaestro.com/contacts/)
+[Add your opinion](http://www.sqlmaestro.com/contacts/)
 
 Customers
 
@@ -64,33 +62,33 @@ We also send the user site and service announcement updates. Members are not abl
 **Choice/Opt-out**  
 Our users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our order form has an "opt-out" mechanism so users who buy a product from us, but don't want any marketing material, can keep their E-mail address off of our lists.
 
-Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by sending "[unsubscribe](http://sqlmaestro.com/en/news/subscribe/)" form.
+Users who no longer wish to receive our newsletter or promotional materials from our partners may opt-out of receiving these communications by sending "[unsubscribe](http://www.sqlmaestro.com/en/news/subscribe/)" form.
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our home page so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an E-mail. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
 | 
 
-Company news[](http://sqlmaestro.com/rss.xml)
+Company news[](http://www.sqlmaestro.com/rss.xml)
 
-Jun 7, 2011
+Nov 10, 2011
 
-New version features tools to generate CRUD stored procedures and updatable views, data import from ODBC data sources, updated Data Analysis tool, and other useful things.
+New version introduces Unicode support in SQL editors and viewers, updated code folding appearance, refactoring of database schema with Split Table wizard, viewing BLOB data as PDF and a lot of other useful things.
 
-May 24, 2011
+Oct 12, 2011
 
-The article shows how to implement an AJAX-based one-click editor for a logical column.
+We're pleased to start a new product family and release as many as 9 new tools for the database contents comparison and synchronization!
 
-May 16, 2011
+Sep 28, 2011
 
-Completely redesigned Data Export and Data Import wizards, improved database profile management, updated OLAP viewer and a lot of other improvements.
+New version features Restore Database wizard, Split Table tool, code snippets in SQL Editor, data import from ODBC data sources, and a lot of other new features.
 
 Feature of the day
 
-[](http://sqlmaestro.com/products/sql_anywhere/maestro/help/06_01_02_sql_script_editor_codefolding/)
+[](http://www.sqlmaestro.com/products/maxdb/codefactory/screenshots/getting_started/sql_editor/)
 
-All editors of ASA Maestro provide a customizable ability to divide text into logical parts (regions). Each part can be collapsed and extended.
+MaxDB Code Factory allows you to execute each query in a separate thread in order to continue your work with the software while the query is executing. 
 
-[](http://sqlmaestro.com/products/firebird/codefactory/screenshots/getting_started/data_export/)
+[](http://www.sqlmaestro.com/products/firebird/maestro/help/10_01_00_query_management/)
 
-With Firebird Code Factory you can also export result sets to as many as 14 file formats including Excel, RTF and HTML.
+Firebird Maestro: You can save frequently used queries to the database profile and use them as usual database objects.
