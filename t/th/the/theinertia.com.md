@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theinertia.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514144026id_/http%3A//www.theinertia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinertia.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111192213id_/http%3A//www.theinertia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | TheInertia.com
+# Privacy Policy | The Inertia
 
 **What information do we collect?**
 
