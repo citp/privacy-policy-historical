@@ -1,26 +1,29 @@
-> *The following text is extracted and transformed from the nopaperforms.com privacy policy that was archived on 2010-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100718094441id_/http%3A//www.nopaperforms.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nopaperforms.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111225301id_/https%3A//www.nopaperforms.com/privacy.php) for the most accurate reproduction.*
 
-# No Paper Forms
+# NoPaperForms.com | Admission Management System, Online Admission System, Admission Software
 
-Nopaperforms.com Privacy Policy
+NoPaperForms.com Privacy Policy
 
 Effective Date: December 01, 2009
 
-[www.nopaperforms.com](http://www.nopaperforms.com/) ("website") is an Internet property of THOTMATRIX TECHNOLOGY SOLUTIONS LLP. and its affiliates ("THOTMATRIX," "we," "our," or "us"). This Privacy Policy is given on behalf of THOTMATRIX. We are providing this Privacy Policy to you so that you can learn about our information collection and sharing practices. Data privacy and security is important to us and to our Internet users, so we want to make sure that users of our Website understand our privacy and security practices and policies. You agree to this Privacy Policy, in its entirety, when you: 
+[www.nopaperforms.com](http://www.nopaperforms.com/) ("website") is an Internet property of THOTMATRIX ONLINE SOLUTIONS PVT. LTD. and its affiliates ("THOTMATRIX," "we," "our," or "us"). This Privacy Policy is given on behalf of THOTMATRIX. We are providing this Privacy Policy to you so that you can learn about our information collection and sharing practices. Data privacy and security is important to us and to our Internet users, so we want to make sure that users of our Website understand our privacy and security practices and policies. You agree to this Privacy Policy, in its entirety, when you: 
 
-  1. Access or use our Website or any of the web pages of our Website
-  2. Agree to receive e-mail from us and/or
-  3. Use any of THOTMATRIX’s hosted online solutions
+  * Access or use our Website or any of the web pages of our Website
+  * Agree to receive e-mail from us and/or
+  * Use any of THOTMATRIX's hosted online solutions
 
 
 
 This Privacy Policy will tell you the following: 
 
-  1. What information we collect/track about you. 
-  2. With whom we share the information we collect/track. 
-  3. How we use the information we collect/track.
-  4. Our policy on correcting and updating information you have provided to us.
-  5. Our policy on your right to opt out of some of our information sharing practices.
+  * What information we collect/track about you. 
+  * With whom we share the information we collect/track. 
+  * How we use the information we collect/track.
+
+
+
+  * Our policy on correcting and updating information you have provided to us.
+  * Our policy on your right to opt out of some of our information sharing practices.
 
 
 
@@ -34,16 +37,16 @@ We also may collect information about you from companies that may provide us wit
 
 IP Addresses
 
-We collect IP addresses. Your IP address is used to gather broad and specific demographic information as well as for validation purposes. In addition, we use your IP address to help diagnose problems with our server, and to administer our Website. (Please also see “Web Site Tracking Software,” below.)
+We collect IP addresses. Your IP address is used to gather broad and specific demographic information as well as for validation purposes. In addition, we use your IP address to help diagnose problems with our server, and to administer our Website. (Please also see "Web Site Tracking Software," below.)
 
 Cookies
 
-A "cookie" is a small text file that a website can place on your computer's hard drive in order to collect information about your activities on the website. Most browsers automatically accept cookies, but you have the option to change your browser settings to decline them. We use cookies to deliver content specific to your interests, to save your password so that you do not have to re-enter it each time that you visit our Website (if you choose), and for other purposes. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. (Please also see “Web Site Tracking Software,” below.)
+A "cookie" is a small text file that a website can place on your computer's hard drive in order to collect information about your activities on the website. Most browsers automatically accept cookies, but you have the option to change your browser settings to decline them. We use cookies to deliver content specific to your interests, to save your password so that you do not have to re-enter it each time that you visit our Website (if you choose), and for other purposes. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. (Please also see "Web Site Tracking Software," below.)
 
 Website Tracking Software
 
 Web servers, or those of third-party vendors, utilize certain tracking software to capture your domain name address (the address of your Internet service provider) for purposes of tracking Website statistics. However, we do not capture any personally identifiable information in our website tracking software. The capture of your domain name is a common practice among websites for measuring the number of hits, pages visited, and length of user session. We use this information to measure the effectiveness of the Website offerings in order to service you better.  
-In addition, if you click on certain “banner ads” or other third-party advertisements on our Website that link you to third-party owned and/or operated websites (please also see “Other Websites,” below), we may use tracking software provided by third-party vendors to track your “clicks” and/or your other responses to such third-party advertisements (including whether you make purchases from any such third-party advertiser through the third-party’s website), to help calculate commissions that we may have earned from such third-party advertisers for such “clicks” and other responses to third-party advertisements on our Website. This tracking software may also help us and third-party advertisers measure the effectiveness of third-party advertisements on our Website. This tracking software captures certain information about your IP address and also uses “cookies.” As noted in the “Cookies” section, above, you have the option to adjust your browser settings to decline certain “cookies.” 
+In addition, if you click on certain "banner ads" or other third-party advertisements on our Website that link you to third-party owned and/or operated websites (please also see "Other Websites," below), we may use tracking software provided by third-party vendors to track your "clicks" and/or your other responses to such third-party advertisements (including whether you make purchases from any such third-party advertiser through the third-party's website), to help calculate commissions that we may have earned from such third-party advertisers for such "clicks" and other responses to third-party advertisements on our Website. This tracking software may also help us and third-party advertisers measure the effectiveness of third-party advertisements on our Website. This tracking software captures certain information about your IP address and also uses "cookies." As noted in the "Cookies" section, above, you have the option to adjust your browser settings to decline certain "cookies." 
 
 Information Sharing Practices and Policies
 
@@ -58,13 +61,13 @@ We may share some or all of the information we collect, as described above, with
 
 Your Privacy Choices
 
-We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. If you prefer that we not share information you have provided to us with third parties, you may opt out of some of these types of disclosures.
+We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. If you prefer that we not share information you have provided to us with third parties, you may opt out of some of these types of disclosures.
 
-The types of disclosures you can opt out of are: 
+The types of disclosures you can opt out of are:
 
-  1. Companies with whom we conduct joint marketing campaigns; and
-  2. Companies that provide products and/or services, such as companies engaged in banking, credit cards, consumer finance, consumer computer products, travel, insurance, as well as other direct marketers and retailers. 
-  3. To tell us not to share information you have provided to us with these third parties, write to us at the following address: Thotmatrix LLP, 405 Krushal Commercial Complex, G.M. Road, Chembur (W), Mumbai - 400 077. India.
+  * Companies with whom we conduct joint marketing campaigns; and
+  * Companies that provide products and/or services, such as companies engaged in banking, credit cards, consumer finance, consumer computer products, travel, insurance, as well as other direct marketers and retailers. 
+  * To tell us not to share information you have provided to us with these third parties, write to us at the following address: THOTMATRIX ONLINE SOLUTIONS PVT. LTD., 405 Krushal Commercial Complex, G.M. Road, Chembur (W), Mumbai - 400 077. India.
 
 
 
@@ -84,14 +87,15 @@ Information we maintain about you is stored in a secure manner. We use security 
 
 Unsubscribe 
 
-To stop receiving future communications from us, please send us an email at [support@thotmatrix.com](mailto:support@thotmatrix.com)
+To stop receiving future communications from us, please send us an email at [support@nopaperforms.com](mailto:support@nopaperforms.com)
 
 Changes in Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.   
-The notice will tell you that we've changed our Privacy Policy and it will make available the prior Privacy Policy that applied (including, the dates that it applied). In addition, the updated Privacy Policy will list a new "Effective Date." If you continue to use our website (as described above, i.e., when you: (1) access or use our Website or any of the web pages of our website, (2) agree to receive e-mail from us and/or (3) use any of THOTMATRIX’s hosted online solutions, you are agreeing to be covered by the updated Privacy Policy.  
+The notice will tell you that we've changed our Privacy Policy and it will make available the prior Privacy Policy that applied (including, the dates that it applied). In addition, the updated Privacy Policy will list a new "Effective Date." If you continue to use our website (as described above, i.e., when you: (1) access or use our Website or any of the web pages of our website, (2) agree to receive e-mail from us and/or (3) use any of THOTMATRIX's hosted online solutions, you are agreeing to be covered by the updated Privacy Policy.
+
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
 Contacting the Website
 
-If you have any questions or comments, please don't hesitate to contact us directly. We listen to and read every message sent to us, and we will endeavor to reply promptly to each one. Please email us with your questions or comments about this Privacy Policy at [support@thotmatrix.com](mailto:support@thotmatrix.com), or you may call us at 91-22-4215 6181. Our mailing address is THOTMATRIX LLP Attn: Privacy Policy 903, Krushal Commercial Complex, G.M Road, Chembur (West), Mumbai 400 089, India.
+If you have any questions or comments, please don't hesitate to contact us directly. We listen to and read every message sent to us, and we will endeavor to reply promptly to each one. Please email us with your questions or comments about this Privacy Policy at [support@nopaperforms.com](mailto:support@nopaperforms.com), or you may call us at 1800-22-8011. Our mailing address is THOTMATRIX ONLINE SOLUTIONS PVT. LTD. Attn: Privacy Policy 903, Krushal Commercial Complex, G.M Road, Chembur (West), Mumbai 400 089, India.
