@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the healthspan.co.uk privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609060049id_/http%3A//www.healthspan.co.uk/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthspan.co.uk privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111015651id_/http%3A//www.healthspan.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-You are here: [Home](https://web.archive.org/) / Privacy Policy
 
 **Customer charter**
 
