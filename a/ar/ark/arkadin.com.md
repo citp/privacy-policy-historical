@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arkadin.com privacy policy that was archived on 2010-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101011113355id_/http%3A//www.arkadin.com/documents/en/ArkadinPrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkadin.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111202501id_/http%3A//www.arkadin.com/documents/en/ArkadinPrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # ARKADIN PRIVACY POLICY
 
