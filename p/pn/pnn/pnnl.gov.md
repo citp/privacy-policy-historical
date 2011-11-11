@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pnnl.gov privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608000000id_/http%3A//www.pnl.gov/disclaimer.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pnnl.gov privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111075603id_/http%3A//www.pnnl.gov/disclaimer.asp) for the most accurate reproduction.*
 
 # PNNL: Security & Privacy
 
-Thank you for visiting the Pacific Northwest National Laboratory (PNNL) website (pnl.gov) and reviewing our security and privacy policies.  The following policies apply to all pages and sites in the pnl.gov domain, unless otherwise noted. 
+Thank you for visiting the Pacific Northwest National Laboratory (PNNL) website (pnnl.gov) and reviewing our security and privacy policies.  The following policies apply to all pages and sites in the pnnl.gov domain, unless otherwise noted. 
 
 ## Security Notice 
 
@@ -16,7 +16,7 @@ We collect no personal information about you without your knowledge when you vis
 
 ### Information Collected and Stored Automatically 
 
-When you browse, read pages, or download information in the pnl.gov domain, we automatically gather and store certain technical information about your visit. This information never identifies who you are. The information we collect and store about your visit includes 
+When you browse, read pages, or download information in the pnnl.gov domain, we automatically gather and store certain technical information about your visit. This information never identifies who you are. The information we collect and store about your visit includes 
 
   * the Internet Protocol (IP) address of the domain from which you access the Internet (e.g., 123.456.789.012), whether yours individually or provided as a proxy by your Internet Service Provider (ISP) 
   * the type of browser (e.g., Netscape, Internet Explorer) and operating system (Windows, Unix) used to access our site 
@@ -32,7 +32,7 @@ This information is NOT shared with anyone beyond the support staff for this web
 
 ## Cookies 
 
-Websites in the pnl.gov domain use only non-persistent (per-session) cookies to aid users in setting browsing or navigation preferences. These cookies do not collect personal information on users and are erased as soon as you leave our website. 
+Websites in the pnnl.gov domain use only non-persistent (per-session) cookies to aid users in setting browsing or navigation preferences. These cookies do not collect personal information on users and are erased as soon as you leave our website. 
 
 Per-session cookies serve technical purposes such as providing seamless navigation through PNNL websites. These cookies do not permanently record data and they are not stored on your computer's hard drive. PNNL cookies are stored in memory and are only available during an active browser session. 
 
@@ -48,7 +48,7 @@ Pacific Northwest National Laboratory does NOT collect information for commercia
 
 ## Questions, Comments, and Disputes 
 
-Questions and comments, including disputes and/or complaints, about PNNL's security and privacy policies should be addressed to [p3p@pnl.gov](mailto:p3p@pnl.gov). 
+Questions and comments, including disputes and/or complaints, about PNNL's security and privacy policies should be addressed to [p3p@pnnl.gov](mailto:p3p@pnnl.gov). 
 
 ## Your Rights under the Privacy Act and Other Privacy Laws 
 
