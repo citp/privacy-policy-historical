@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bad-dragon.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523024408id_/http%3A//www.bad-dragon.com/cart.php%3Ftarget%3Dhelp%26mode%3Dprivacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bad-dragon.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111083140id_/http%3A//www.bad-dragon.com/cart.php%3Ftarget%3Dhelp%26mode%3Dprivacy_statement) for the most accurate reproduction.*
 
 # Bad Dragon - Help
 
