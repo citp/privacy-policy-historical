@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gandermountain.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427210734id_/http%3A//www.gandermountain.com/customer_service/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gandermountain.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111201116id_/http%3A//www.gandermountain.com/customer_service/privacy.shtml) for the most accurate reproduction.*
 
 # Gander Mountain™ > Privacy Policy : Customer Service
 
-**Effective date: May 19, 2010**  
+**Effective date: January 1, 2011**  
 
 
 This Privacy Policy (this “Policy”) explains how Gander Mountain, Overton’s, Consumers Marine and other members of the Gander Mountain family of businesses (collectively, “the Gander Mountain family of businesses,” “we,” “us,” and “our”) protect your privacy when you use the following Web sites (our “Sites”):
@@ -99,7 +99,7 @@ to improve our marketing and promotional efforts; and
 
 for any other purpose identified in an applicable Privacy Notice, Country-Specific Notice, or other agreement between you and us.
 
-_Direct Marketing._ Before we use or share your personal information for direct marketing purposes, we may offer you the opportunity to “opt out” or “opt in,” as required by applicable law. To learn more about the choices you have about the ways we use your personal information, please click here. [insert link that jumps to section titled “Your Choices”]
+_Direct Marketing._ Before we use or share your personal information for direct marketing purposes, we may offer you the opportunity to “opt out” or “opt in,” as required by applicable law. To learn more about the choices you have about the ways we use your personal information, please click here.
 
 _Shipping Information_. If you ship an item to another person, we collect the personal information you provide about him or her and will use that information just as we use your personal information, subject to international restrictions on the use of personal information. For example, we may add that person to our catalog mailing list. If that person does not wish to receive catalogs or other promotional communications from us, he or she may contact us using the contact information provided in the catalog, on each electronic communication or on our Sites.
 
@@ -205,12 +205,3 @@ Attention: Customer Service
 Greenville, NC 27858  
 (252) 355-7600  
 FAX (252) 355-2923
-
-**Ordering/ Customer Service Hotline:**
-
-1-800-334-6541
-
-**Exclusive Technical Hotline:**
-
-1-888-683-7866  
-
