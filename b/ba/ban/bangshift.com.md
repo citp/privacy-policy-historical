@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangshift.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427061714id_/http%3A//bangshift.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangshift.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111072341id_/http%3A//www.bangshift.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Bang Shift : Privacy Policy
 
