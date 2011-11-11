@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the selectcomfort.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428183143id_/http%3A//www.selectcomfort.com/eng/customerservice/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selectcomfort.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111222534id_/http%3A//www.sleepnumber.com/eng/customerService/privacyPolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  
-
 
 **OUR PRIVACY COMMITMENT TO OUR CUSTOMERS**
 
@@ -35,22 +32,20 @@ The following privacy policy will cover:
 
 
 
-* * *
-
 **When is information collected?**  
 We receive and may store data when you are: [  
 (Cookies](http://www.selectcomfort.com/customercenter/privacy.cfm#10) policy for further information)
 
-  * Placing an order
-  * Scheduling delivery
-  * Registering with Select Comfort
-  * Participating in a sweepstakes, promotion or survey
-  * Applying for financing
-  * Visiting a Select Comfort® store or Web site. See our
-  * Completing a warranty card
-  * Sending an e-mail
-  * Calling Select Comfort with questions or concerns
-  * Participating in other activities with Select Comfort
+  * Placing an order 
+  * Scheduling delivery 
+  * Registering with Select Comfort 
+  * Participating in a sweepstakes, promotion or survey 
+  * Applying for financing 
+  * Visiting a Select Comfort® store or Web site. See our 
+  * Completing a warranty card 
+  * Sending an e-mail 
+  * Calling Select Comfort with questions or concerns 
+  * Participating in other activities with Select Comfort 
 
 
 
@@ -60,17 +55,17 @@ When submitting personal information online, we will identify which fields are r
 We may collect personal information such as your: [  
 (Cookies](http://www.selectcomfort.com/customercenter/privacy.cfm#10) policy for further information)
 
-  * Name
-  * Mailing address
-  * Shipping address
-  * E-mail address
-  * Phone number
-  * Credit card information
-  * Name and address of the individual you have your purchase shipped to, if other than yourself
-  * Information you provide to us on a financing application
-  * Information you provide to Select Comfort to allow your participation in a partner's loyalty program
-  * Personal preference information you provide to us
-  * Information obtained from cookies. See
+  * Name 
+  * Mailing address 
+  * Shipping address 
+  * E-mail address 
+  * Phone number 
+  * Credit card information 
+  * Name and address of the individual you have your purchase shipped to, if other than yourself 
+  * Information you provide to us on a financing application 
+  * Information you provide to Select Comfort to allow your participation in a partner's loyalty program 
+  * Personal preference information you provide to us 
+  * Information obtained from cookies. See 
 
 
 
@@ -79,15 +74,15 @@ This information may include any personal preference information you provide as 
 **How is this information used?**  
 Any information about our customers is used solely to better serve our customers and may be shared only with our vendors and partner companies. We use the information you provide in order to: 
 
-  * Fulfill requests for products, services or information
-  * Facilitate promotions (loyalty programs, referral programs, sweepstakes, surveys and other promotions)
-  * Provide effective customer service
-  * Develop new and improved products and services
-  * Conduct research and analysis
-  * Send marketing communications
-  * Perform other business activities
-  * Process financing
-  * Allow you, upon your request, to participate in partners' loyalty programs
+  * Fulfill requests for products, services or information 
+  * Facilitate promotions (loyalty programs, referral programs, sweepstakes, surveys and other promotions) 
+  * Provide effective customer service 
+  * Develop new and improved products and services 
+  * Conduct research and analysis 
+  * Send marketing communications 
+  * Perform other business activities 
+  * Process financing 
+  * Allow you, upon your request, to participate in partners' loyalty programs 
 
 
 
@@ -98,14 +93,14 @@ Select Comfort shares information with carefully selected vendors and business p
 
 Most common services performed by vendors and business partners on behalf of Select Comfort include:
 
-  * Sending Select Comfort marketing communications
-  * Delivering packages
-  * Assisting in managing customer information
-  * Fulfilling information requests
-  * Fulfilling promotions
-  * Conducting research, analysis or administering surveys
-  * Processing financing applications
-  * Allowing you, upon your request, to participate in a partners' loyalty program
+  * Sending Select Comfort marketing communications 
+  * Delivering packages 
+  * Assisting in managing customer information 
+  * Fulfilling information requests 
+  * Fulfilling promotions 
+  * Conducting research, analysis or administering surveys 
+  * Processing financing applications 
+  * Allowing you, upon your request, to participate in a partners' loyalty program 
 
 
 
@@ -138,14 +133,14 @@ You will automatically receive e-mail updates from us if we receive your e-mail 
 
 To opt-out or discontinue receiving marketing communications by mail, e-mail or phone from Select Comfort, contact Select Comfort using one of the following options:
 
-  1. Follow the instructions on a marketing e-mail from us. All marketing e-mails from Select Comfort will tell you how to stop receiving them.
-  2. Call 1-888-580-9237
-  3. Send an e-mail to: unsubscribe@selectcomfort.com
+  1. Follow the instructions on a marketing e-mail from us. All marketing e-mails from Select Comfort will tell you how to stop receiving them. 
+  2. Call 1-888-580-9237 
+  3. Send an e-mail to: unsubscribe@selectcomfort.com 
   4. Send a request to:   
 Select Comfort Corporation  
 Attn: DM Sales Support  
 9800 59th Avenue North  
-Minneapolis, MN 55442
+Minneapolis, MN 55442 
 
 
 
@@ -153,9 +148,9 @@ Be sure to include your current contact information, including your full name, a
 
 Select Comfort will take the appropriate steps to implement your request. Please note that due to production, mailing and system timelines, in order to remove you from our marketing lists, it may take up to:
 
-  * 10 business days for e-mail
-  * 30 days for phone calls
-  * 10 weeks for direct mail
+  * 10 business days for e-mail 
+  * 30 days for phone calls 
+  * 10 weeks for direct mail 
 
 
 
