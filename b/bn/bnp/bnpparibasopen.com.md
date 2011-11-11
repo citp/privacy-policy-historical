@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bnpparibasopen.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514095137id_/http%3A//www.bnpparibasopen.com/Terms/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnpparibasopen.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111181256id_/http%3A//www.bnpparibasopen.com/Terms/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # BNP Paribas Open - Privacy Policy
 
@@ -76,7 +76,7 @@ Indian Wells, CA 92210
 [webmaster@iwtg.net](mailto:webmaster@iwtg.net)  
 (760) 200-8407
 
-**© 2010 Desert Champions LLC All Rights Reserved.**
+**© 2011 Desert Champions LLC All Rights Reserved.**
 
   
 
