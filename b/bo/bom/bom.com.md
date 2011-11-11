@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bom.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531074039id_/http%3A//www.arenasolutions.com/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bom.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111051224id_/http%3A//www.arenasolutions.com/footer/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Arena Solutions
 
