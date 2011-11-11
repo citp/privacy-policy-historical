@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eros.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414154819id_/http%3A//www.eros.com/disclaimer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eros.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111234243id_/http%3A//www.eros.com/disclaimer/privacy) for the most accurate reproduction.*
 
 # The Eros Guide Privacy Policy
 
