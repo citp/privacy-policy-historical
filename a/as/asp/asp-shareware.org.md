@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asp-shareware.org privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522145756id_/http%3A//www.asp-software.org/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asp-shareware.org privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111223049id_/http%3A//www.asp-software.org/policy.asp) for the most accurate reproduction.*
 
 # privacy - Association of Software Professionals
 
