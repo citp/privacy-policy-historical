@@ -1,18 +1,17 @@
-> *The following text is extracted and transformed from the billhighway.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629080012id_/http%3A//www.billhighway.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billhighway.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111035723id_/http%3A//billhighway.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Billhighway
 
+Billhighway has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@billhighway.com. If you are not satisfied with our response, you can contact TRUSTe [here](http://www.truste.org/consumers/watchdog_complaint.php). The TRUSTe program covers only information that is collected through this website and does not cover information that may be collected through our applications.   
+
+
 [](http://www.truste.org/ivalidate.php?url=www.Billhighway.com&sealid=101)
-
-Billhighway is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.billhighway.com](http://www.billhighway.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact Steven Robert at [support@billhighway.com](mailto:support@billhighway.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at [www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 All information about you is protected according to established Industry security standards and procedures, including, TRUSTe, VeriSign and Hacker Safe. We are always looking to update and implement the newest online security available. 
 
 In order to use the Web site, you must first complete the registration form and create a user name and password. During registration you are required to give contact information such as name, physical and email address. SSN numbers, Cell phone number, as well as D.O.B may also be collected during registration. We use this information to contact you about the services on our site in which you have expressed interest. 
 
-Billhighway is the sole owner of the information collected on www.billhighway.com. Billhighway collects personally identifiable information from our users at several different points on our Web site and uses it exclusively to provide the services you've requested. 
+Billhighway (Automated Payment Highway) is the sole owner of the information collected on www.billhighway.com. Billhighway collects personally identifiable information from our users at several different points on our Web site and uses it exclusively to provide the services you've requested. 
 
 Billhighway collects third party personally identifiable information such as email addresses, when users create their contacts within their accounts. Billhighway uses this information to fulfill the users' service requests such as emailing groups or requesting payment and not for promotional services within Billhighway.com.
 
@@ -26,25 +25,57 @@ These third parties are prohibited from using your personally identifiable infor
 
 Billhighway will never share, rent, trade, or sell information given to us by you to a third party for marketing purposes. Only information about your account or transfers will be disclosed to third parties or to new billers: a) where it is necessary for opening or maintaining your account, or for completing transfers or payments, b) if lawfully required or, c) if you request or authorize it. 
 
-While going through the registration process at our website you submit personal and financial information that is necessary to begin using the service or process payments. During any exchange of information on our website a "secure session" is established with Secure Sockets Layers (SSL). Using 128-bit encryption SSL technology secretly encodes information that is sent over the Internet between your computer and Billhighway. This is the highest level of security technology commercially available. To make sure the session is secure you will find "https" instead of "http" to the left of the web page address on your browser. That "s" means the session is secure. 
+While going through the registration process at our website you submit personal and financial information that is necessary to begin using the service or process payments. During any exchange of information on our website a "secure session" is established with Secure Sockets Layers (SSL). Using 128-bit encryption SSL technology secretly encodes information that is sent over the Internet between your computer and Billhighway. This is the highest level of security technology commercially available. To make sure the session is secure you will find "https" instead of "http" to the left of the web page address on your browser. That "s" means the session is secure.No method of transmission over the Internet or method of electronic storage is 100% secure. Therefore, we cannot guarantee its absolute security.  
+
 
 If your personally identifiable information changes, or if you no longer desire our service, you may update it by making the change on our member information page, by emailing our Customer Support at [support@billhighway.com](mailto:support@billhighway.com) or by contacting us by telephone or postal mail at the contact information listed below. 
 
-The Billhighway infrastructure is designed to keep records accurate, current and complete. You will have the ability to see your personal information each time you login to the Billhighway website, or, if you would prefer, emailing us at [support@billhighway.com](mailto:support@billhighway.com) during regular business hours. If you see your records are incomplete, inaccurate or not current, please email, write or call us and we will investigate the matter and correct the information. 
+The Billhighway infrastructure is designed to keep records accurate, current and complete. You will have the ability to see your personal information each time you login to the Billhighway website, or, if you would prefer, emailing us at [support@billhighway.com](mailto:support@billhighway.com) during regular business hours. If you see your records are incomplete, inaccurate or not current, please email, write or call us and we will investigate the matter and correct the information.   
+
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.   
+
 
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. Billhighway uses cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
 
 We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you logoff and/or close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. 
 
-We set a persistent cookie to store preference information, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. 
+We set a persistent cookie to store preference information, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.   
+
+
+The use of cookies by our partners and affiliates is not covered by our privacy statement. We do not have access or control over these cookies.   
+
+
+We employ a software technology called clear gifs (aka Web Beacons/ Web Bugs) that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to tract the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of a sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. 
+
+As is trust of most Web sites, we use a third party tracking-utility partner gather certain information automatically and store it in log files. This information included internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp and clickstream data.   
+
+
+We use this information, which does not identify individual users, to analyze trends, administer the site, track users' movements around the site and gather demographic information about our user base as a whole.  
+
 
 Billhighway sends out confirmation emails and critical service updates. The user may not opt out of receiving these types of communications. 
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Billhighway stores this information and uses it for the sole purpose of sending this one-time email and tracking the success of our referral program. 
 
-Your friend may contact us at [support@billhighway.com](mailto:support@billhighway.com) to request that we remove this information from our database. 
+Your friend may contact us at [support@billhighway.com](mailto:support@billhighway.com) to request that we remove this information from our database.
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. 
+We provide our content on the site of select partners through frames. When collecting personal information from you on these site, Billhighway will have the look and feel of our partners' sites. Our privacy policy does not cover the personal information submitted through these pages.   
+
+
+We post customer testimonials on our website, which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you would like to request the removal of your testimonial from our site, contact us at support@billhighway.com.   
+
+
+Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at support@billhighway.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if you are unable to do so and why.
+
+Re-Targeted advertising used information collected on an individual's web browsing behavior such as the pages they have visited or the searched they have made. This information is then used to display ads. The information collected is only linked to an anonymous cookie ID (alphanumeric number); it does not include any information that could be linked back to a particular person, such as their name, address or credit card number. The information used for targeted advertising either come from Billhighway or through third party website publishers. If you would like to opt-out of re-targeted advertising form Billhighway that occurs when visiting our third party advertising publishers, please contact us at support@billhighway.com. Please not this does not opt you out of being served advertising. You will continue to receive generic ads.  
+
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.   
+
+
+In the event Billhighway goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email of any such change in ownership or control of your personal information.   
+
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. 
 
