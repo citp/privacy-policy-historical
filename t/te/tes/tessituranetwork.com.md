@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tessituranetwork.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207050839id_/http%3A//www.tessituranetwork.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tessituranetwork.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111142735id_/http%3A//www.tessituranetwork.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -43,7 +43,7 @@ Tessitura’s website is not directed at children under the age of thirteen, and
 
 ##  Safe Harbor
 
-The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (the "Safe Harbor Principles") to enable U.S. companies to satisfy the requirement under the European Union's data protection regime that adequate protection be given to personal information transferred from the countries in the European Economic Area (“EEA”)  to the United States. The EU has also has recognized the U.S. Safe Harbor as providing adequate data protection. Consistent with its commitment to protect personal privacy, Tessitura Network, Inc. adheres to the Safe Harbor Principles.
+Tessitura Network complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Tessitura Network has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Tessitura Network’s certification, please visit <http://www.export.gov/safeharbor/>
 
 _PRIVACY PRINCIPLES_ :  The privacy principles listed below are based on the Safe Harbor Principles.
 
