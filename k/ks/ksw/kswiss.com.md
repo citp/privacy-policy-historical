@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kswiss.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524122836id_/http%3A//www.kswiss.com/customerservice/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kswiss.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111172852id_/http%3A//www.kswiss.com/customerservice/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | K-Swiss.com
 
