@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sleepnumber.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622204345id_/http%3A//www.sleepnumber.com/eng/customerService/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepnumber.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111222534id_/http%3A//www.sleepnumber.com/eng/customerService/privacyPolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
