@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netpartner.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125114648id_/http%3A//netpartner.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netpartner.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111230606id_/http%3A//netpartner.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - NetPartner
 
