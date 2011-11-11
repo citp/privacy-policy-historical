@@ -1,175 +1,369 @@
-> *The following text is extracted and transformed from the embarq.com privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201203235id_/http%3A//www.embarq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embarq.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111051008id_/http%3A//www.centurylink.com/Pages/AboutUs/Legal/privacyPolicy.jsp) for the most accurate reproduction.*
 
-# EMBARQ
+# CenturyLink | Privacy Policy
 
-### Effective July 2008
+Print this section
 
-## PRIVACY POLICY
+#### Effective August 8, 2011
 
-EMBARQ believes that when you use any EMBARQ product or service, you should understand when and how personal information is collected, used, disclosed and protected. That's why we have provided you with this Privacy Policy (the "Policy").
+Like most companies, we have certain information about our customers and use it to provide our services. We also share it as needed to meet our business goals or fulfill our legal obligations. We protect the information we have about our customers, and we require those we share it with to protect it too.
 
-The Policy applies to all United States EMBARQ business units, and to all EMBARQ traffic originated in the United States, including those providing retail and wholesale wireline, wireless and Internet services. International transactions are protected under applicable laws in the various nations where the transactions take place. The Privacy Policy applies to visits to or transactions with EMBARQ Websites such as [www.embarq.com](http://www.embarq.com/) as well as to Internet services accessed through EMBARQ wireless devices, Internet services, wireless voice services, and wireline voice products. 
+The purpose of this overview is to describe the information we have, how we use and share it, the choices you have about our use and sharing, and the steps we take to protect it. This overview summarizes the relevant sections of our full Privacy Policy and gives you direct links to those sections, which you can find here. To see answers to frequently asked questions (FAQs) about our practices, [click here](https://web.archive.org/web/20111026134221id_/https://www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy/faq.jsp).
 
-## EMBARQ CUSTOMER INFORMATION PRIVACY PRINCIPLES
+  * What information does CenturyLink have?
+  * How does CenturyLink use customer information?
+  * Does CenturyLink share customer information?
+  * What choices do our customers have about the information we gather and how we use it?
+  * What access do customers have to information about themselves?
+  * How long does CenturyLink retain customer information?
+  * How does CenturyLink secure customer information?
+  * Contacting us
 
-This section explains the five principles ("Privacy Principles") of the EMBARQ Privacy Policy.
 
-EMBARQ protects the privacy of its local, long distance and wireless customers consistent with applicable law, such as the Federal Communications Commission's (FCC's) regulations that govern Customer Proprietary Network Information (CPNI). 
 
-CPNI is information EMBARQ obtains or creates when it provides wireline or wireless telecommunications services to a customer. CPNI includes the types of services purchased, how the services are used, and the billing detail for those services. CPNI includes, for example, the number and type of lines, class of service, current charges, calling plans, call detail records, and bill summary. The FCC does not deem a customer's name, service address or telephone number to be CPNI, consistent with the publication of this information in telephone directories. If you are a new customer of EMBARQ, you will receive a notice of your CPNI rights and further information on this topic from EMBARQ. When you have not already given EMBARQ your permission to use CPNI for certain marketing purposes, EMBARQ will give you 33 days after soliciting your consent before using your CPNI and EMBARQ will follow your directions if you choose not to provide your consent.
+[Frequently Asked Questions (FAQs)](https://web.archive.org/web/20111026134221id_/https://www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy/faq.jsp)
 
-EMBARQ does not disclose CPNI outside EMBARQ or its authorized agents without customer consent, except as required or permitted by law. When EMBARQ uses agents, contractors, or other companies to perform services on its behalf, EMBARQ requires that they protect CPNI or other sensitive personal information consistent with these Privacy Principles.
+What information does CenturyLink have?
+    
 
-In the context of these Privacy Principles, personal information is information that is directly associated with a person such as his or her name, address, telephone number, e-mail address, activities and preferences. Nonpublic personal information generally means a subset of personal information, which is sensitive and not publicly available, such as credit card number, social security number, and bank account information. Publicly available information is information that is typically available from governmental records, telephone and other public directories, widely distributed media such as newspapers and radio, and from companies that provide demographic or marketing materials to others as a part of their business. Publicly available information includes contact information, such as name, address, telephone number, email address, activities, and preferences.
+When we provide our services, which include Internet access, local and long distance telephone, Voice over Internet Protocol (VoIP), television, additional voice, broadband and data services such as call routing and cloud computing, and alarm monitoring for your home or business, we necessarily obtain certain information about you. This information may include your name, address, email address, telephone number, date of birth, social security number, driver's license number, credit information, payment information, and contact information. We may also gather information about how you use our services. And some services, like alarm monitoring, require us to obtain additional information about your home or business, and how you would like to use the service.
 
-These principles apply generally within EMBARQ.
+We also gather some information from visitors to our websites and those who click on our Internet ads, such as the user's operating system, location, Internet Protocol (IP) address, and what sites the user visited immediately before or after our site.
 
-  1. EMBARQ creates, obtains, and uses your personal information to provide you the products and services you order, and to present you with product and service offerings that we believe may interest you. 
-  2. EMBARQ provides its customers opportunities to control whether EMBARQ (a) uses CPNI to sell them different categories of communications-related products and services, as well as non-communications related products and services, and (b) contacts them with offers on products and services. 
-  3. EMBARQ does not disclose CPNI and other nonpublic personal information (such as credit card numbers), without your consent or direction, except to business partners involved in providing EMBARQ service to customers, or as required or permitted by law. When EMBARQ discloses CPNI or other nonpublic personal information to business partners, the EMBARQ contract with the business partner protects the nonpublic personal information from uses outside of those necessary to assist in providing EMBARQ service. EMBARQ will disclose CPNI and other nonpublic customer information as specifically directed by customers, such as when a customer has made another company the agent of the customer for purposes of arranging service. 
-  4. EMBARQ endeavors to make CPNI and other nonpublic personal information contained in its records available to customers through its customer service representatives. 
-  5. All EMBARQ associates are covered by a code of conduct, which makes them responsible for ensuring the privacy of CPNI and other nonpublic personal information. 
+**Recording, reviewing or monitoring of your interactions with CenturyLink.** For quality assurance and training, we sometimes review email correspondence and record or listen to calls to or from our customer service and repair personnel, sales offices, and business account managers. We also save the text of "click to chat" sessions with our online sales and service consultants, and may save screen shots when customers give our repair personnel remote access to their computers for technical support.
 
+**Network management.** We use information generated on our networks to manage those networks, to plan for future development, and to keep our services running reliably and efficiently. For example, we monitor data to check for viruses, to control spam, to prevent attacks that might disable our services, to ensure that your traffic does not violate your subscriber agreement or our acceptable use policies, and to guard against other inappropriate or illegal activity. This may involve looking at the characteristics of our network traffic, such as traffic volumes, beginning and ending points of transmissions, and the types of applications being used to send traffic across our network. In limited circumstances, we need to look into the content of the data (such as the specific websites being visited, files being transmitted, or application being used) for the purposes described above, in circumstances when we are concerned about fraud or harassment, to repair a problem we detect or that a customer contacts us about, or when we are providing the content of broadband traffic to law enforcement which we only do as authorized by law. 
 
+You can get more detail about our information gathering practices by clicking here. 
 
-These five Privacy Principles explain EMBARQ's commitment to protecting the privacy of nonpublic personal information. In order to serve customers, EMBARQ must develop, obtain and use sensitive nonpublic personal information and EMBARQ recognizes that its customers are rightfully concerned that their information be used for only appropriate purposes and that their nonpublic personal information be protected from inappropriate use or disclosure. EMBARQ's goal is simple: to balance the interests and concerns of our customers dealing with privacy of their information with their interest in receiving quality service and information about useful new products.
+Top of overview
+How does CenturyLink use customer information?
+    
 
-## INFORMATION WE COLLECT ABOUT YOU
+We may use customer information to provide our services and keep you informed of changes to them, to market our services and sometimes those of others, and to plan improvements to the services we offer and the way we interact with our customers.
 
-We collect personal information about users of our products or services in the normal course of our business. This is how we know where to send you a bill for service, for example, or to ensure you are qualified for the service plan you select, or to identify you when you call for customer assistance. The information we collect also helps us improve and keep you informed of new services and products.
+You can get more detail about our uses of customer information by clicking here.
 
-Personal information is information that is directly associated with a specific person such as his or her name, address, telephone number, e-mail address, activities, and personal preferences. Our definition of personal information does not include de-identified information. This is information that we collect about users, a category of services, or customers and from which any personal information has been removed. This data helps us understand trends and customer needs so that we can better consider new services or tailor existing services to customer desires. De-identified data also might be purchased by or shared with a third party: for example, one interested in locating a business in a particular part of town.
+Top of overview
+    
 
-For our business and government customers, our customer is the business or government entity purchasing the service or product for its employees or other authorized users. If you receive certain pricing, terms or other benefits through a business or government customer's agreement with us, this Policy governs your personal information. If the business or government customer requests information about your account or usage of the services, we may share such information. For example, we may need to provide such information to determine your continued eligibility to receive the services under an agreement or the law, such as in the case of priority access.
+Yes, but we do so responsibly. CenturyLink is made up of a number of companies and we share information among them as permitted by applicable law. We also use other companies to help us market, sell and bill for our services, and we necessarily share information with them. We share information with companies that give us credit evaluations (and let them use the information we give them to provide credit evaluation services for others), collect our unpaid bills, or provide other services to us such as advice on products or services our customers may be interested in. We may also allow companies to match information provided to them by their potential customers with name and address information in our databases to confirm the identity of their potential customers, and the length of time they have had service with us. Our contracts with those companies require them to keep the information safe and confidential. 
 
-Here are some examples of the types of personal and other information we collect and when we collect it. You should refer to the rest of this Policy to see how we use, disclose and protect that information: 
+We may share information with other companies if, for example, we anticipate merging, selling or transferring a portion of our business with or to them, or acquiring all or a portion of their business. Usually this information is about the characteristics of our business and groups of customers, but from time to time it could include information about specific customers. Again, we require those companies to keep the information confidential. 
 
-Information You Give Us: We collect personal information you give us when you purchase an EMBARQ product or use our services. When you purchase phones, accessories, or services, we may request information about you, such as the following types of information:
+Additionally, we give customer information to other carriers and service providers when they need the information to provide their services, bill for them or verify accounts, when they have our customer's consent, or when they have a legal right to the information. And we will also share information with another provider if we suspect fraud, harassment, a threat to their networks, or some other unlawful activity. We may also provide information to government agencies (other than law enforcement) to help with communications assistance programs, or to gain benefits for our company like lower mailing fees and to help ensure that our customers get their bills and other information from us more economically and reliably. And we share information with law enforcement when the law allows us to do so, such as in emergencies or to protect our rights and property, including our network and the networks of others. We also respond to lawful requests for information from both law enforcement and private parties. The law requires us to share names and phone numbers with emergency service providers, whether that information is publicly available in directories or not. 
 
-  * Name
-  * Shipping and/or billing address
-  * Credit card number or account number 
-  * Residential or business phone or fax number 
-  * Email address 
-  * Date of birth 
-  * Social Security Number 
-  * Driver's license number 
+We also must share similar information with directory publishers (who publish white pages, yellow pages and other similar directories) and directory assistance providers (who provide telephone numbers or addresses to those asking for that information). In some cases we limit how this information is used. And in all cases these companies must honor restrictions you have asked for, such as that your information not be published or used for marketing. 
 
+If you have elected to have your name, address and telephone number published in white pages directories (which means that it will be public information), that information may be used by others for their own marketing or to create marketing lists. [**To choose not to be included on lists that may be used by others for marketing, click here**](http://www.qwest.com/privacy/optout.html).
 
+You can get more detail about our sharing of customer information by clicking here.
 
-For corporate accounts, we may ask you for one or more of the following types of information:
+Top of overview
+What choices do our customers have about the information we gather and how we use it?
+    
 
-  * Federal Tax ID 
-  * Company name 
-  * Other information your employer may ask us to collect, such as purchase order number, employee number, and the like 
+You have some choices about what customer information we gather and how we use it.
 
+  * You can choose whether to be included in a published directory or directory assistance services. Under federal law, directory publishers and directory assistance providers must honor restrictions requested by our customers, such as that the information not be published or used for marketing. 
+  * If you have elected to have your name, address and telephone number published in white pages directories (which means that it will be public information), we allow that information to be used by others for their own marketing or to create marketing lists. [**To choose not to be included on lists that may be used by others for marketing, click here**](http://qwest.centurylink.com/privacy/optout.html).
+  * You can choose not to receive telephone, direct mail, or email marketing messages from us. [To do so, please click here](http://qwest.centurylink.com/privacy/optout.html).
 
 
-When you register for any of our services (such as our wireless, wireline, Internet, integrated voice response, or customer service), you may provide us with a user name, password, and/or response to a secret question.
 
-You may provide information in response to surveys we conduct online or offline. If this information is connected directly to your identity, it is personal information under this Policy. Otherwise, it may be used in de-identified (or aggregate) form as described below.
+You can get more detail about what choices our customers have regarding our gathering and use of customer information by clicking here.
 
-You may also provide us with personal information whenever you interact with us, such as when you ask for customer service or technical assistance, or when you submit a job application.
+Top of overview
+What access do customers have to information about themselves?
+    
 
-You may have heard about "customer proprietary network information" or "CPNI." In general, this is information about your phone usage, which is a special category of personal information. A special section below explains your CPNI rights in detail. 
+You may access information about yourself in three ways:
 
-Automatically Collected Information: We automatically receive certain types of information whenever you interact with us through our Website. For example, when you visit a [www.embarq.com](http://www.embarq.com/) Website, our systems automatically collect your IP address, the type of browser you use, and the Website from which your visit originated. When you browse the wireless web or use our high-speed Internet services, our systems log the websites you visit. Similarly, our wireless communications systems know when your wireless device is turned on and approximately where it is located, what device you are using, and how you are using it.
+  * Through your bill, whether you receive it by mail or electronically. 
+  * If you are a residential customer and have an online My Account it shows service information and may provide usage information as well. Business customers may obtain information online through our [](https://www.centurylink.com/MyAccount/)My Account or [Control Center](http://www.qwest.com/business/appmanager/qwest/qcontrol) web portals. 
+  * You can also call us to discuss your account or to authorize someone else to talk with us about your services or other account details. Please see the contact information at the top of this page for the numbers to call.
 
-Information from Other Sources: We may obtain information about you from outside sources and add it to or combine it with your personal information. For example, we may receive credit information when you initially subscribe for service. We also may use commercially available marketing information from third parties to help us better serve you or inform you about products or services that we think will be of interest to you. We sometimes receive updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily. We often receive information from the dealer from whom you purchase your wireless phone or device prior to initiating service with us. We may receive personal information from those application service providers that bring you services through the EMBARQ-provided network and with whom you subscribe. (You should always check the privacy policies of other service providers to ensure you understand your privacy choices before subscribing to any service.) And, we may purchase lists containing your personal information (postal address, phone number(s), and email address(es) from third parties for advertising purposes. Information we purchase from others is not protected as non-public personal information under this Policy. 
 
-## CHILDREN'S ONLINE PRIVACY
 
-EMBARQ understands that parents often purchase our products and services for family use, including for use by minors. You should be aware, however, that our products and services purchased for family use may be used by children under 13 without EMBARQ's knowledge. If that happens, any information collected from the usage will appear to be the personal information of the actual adult subscriber and treated as such under this Policy.
+You can get more detail about accessing customer information by clicking here.
 
-EMBARQ services are not intended for children and EMBARQ does not knowingly collect personal information from children under the age of 13.
+Top of overview
+How long does CenturyLink retain customer information?
+    
 
-## USE OF PERSONAL INFORMATION
+How long we keep different types of information is determined by business requirements and applicable state and federal laws and regulations.
 
-EMBARQ uses the information you provide for the purpose it was provided in the normal course of our business and to provide you with marketing communications, as detailed below. The following explains in more detail how we use personal information.
+Top of overview
+How does CenturyLink secure customer information?
+    
 
-  1. **Internal Business Use.** Your personal information is used in many aspects of our business operations. We use personal information to provide you the services you request, to properly identify you when you contact us, to bill and collect for services, to ensure your creditworthiness for continued service, to determine appropriate state and local payment of taxes, to protect our rights or property, or to enforce the terms of any agreements or terms of service. We use personal information to communicate with you about your account or other matters, our services or products you use, or to respond to your requests. 
-  2. **Marketing Communications.** EMBARQ uses personal information such as your address, telephone number and e-mail address to inform you about new products and services. We may contact you at your wireless, residential or business phone numbers, by email or text message, via fax or automated voice messaging and by direct mail. However, if you are an EMBARQ subscriber and want to change your preferences for receiving marketing communications, you may call us at the customer service number shown on your bill. If you choose not to receive email or telephone marketing information from us, you will continue to receive invoices, customer service-related notifications, technical or network-related notifications and similar information from us electronically or otherwise. 
-  3. **Wireless Commercial Mobile Messages.** EMBARQ does not send mobile-message (i.e., text messages as opposed to SMS messages) advertisements to your wireless device without your prior consent. If you have consented to receive such commercial mobile messages from us, you may change your preference at any time by calling our Customer Care representatives at the number shown on your bill, or by using the opt-out function in the message. The opt-out function will be operational for at least 30 days after you receive it. Remember, you will still receive customer-service or account-related messages from EMBARQ. Finally, if you opted in to receive commercial mobile messages from third parties, you must opt out with them directly. EMBARQ is not responsible for commercial mobile messages sent by unauthorized third parties, including those who purport to be selling EMBARQ products or services. EMBARQ maintains an anti-spam filter in an effort to block as many unwanted messages as possible but inevitably, some unwanted messages will get through the filter. You may report such messages to Customer Care. 
-  4. **Email.** EMBARQ maintains a "do-not-email" list for those recipients of commercial email messages from EMBARQ who have opted out of such communications. You may opt out of email by calling our Customer Care representatives at the number shown on your bill, or by following the opt-out instructions in the email for up to 30 days after receipt. EMBARQ will honor your request within ten (10) business days. Remember, you may still receive customer-service or account-related messages from EMBARQ. EMBARQ is not responsible for commercial email messages sent by unauthorized third parties, including those who purport to be selling EMBARQ products or services but do not have our permission.
+We take the security of our customer information seriously. We do several things to protect it:
 
-EMBARQ or its agents may store e-mail messages for a brief period of time. EMBARQ or its partners may, without legal process, access and disclose the messages to protect both an individual during emergencies, or EMBARQ from unlawful or fraudulent use of its services. Additionally, you may store some information, such as pictures, for longer periods of time. EMBARQ may access and disclose such media without legal process to protect an individual during emergencies, or EMBARQ from unlawful or fraudulent use of its services.
+  * We have administrative, physical and technical controls to safeguard it; 
+  * We train our employees on the importance of protecting it; and 
+  * We require businesses that act on our behalf and have access to our information to keep information about you confidential and secure. 
 
-  5. **Direct Mail.** Personal accountholders may request not to receive promotional direct mail from us by calling our Customer Care representatives at the number shown on your bill. Of course, you will still receive account-related information (such as your invoice) by mail. 
-  6. **Facsimile.** EMBARQ does not send commercial information by fax, unless you request such information to be sent by fax. You may call our Customer Care representatives at the number shown on your bill if you believe you have received an unwanted fax from EMBARQ. Our business and government customers should contact their account representative. EMBARQ is not responsible for commercial fax messages sent by unauthorized third parties, including those who purport to be selling EMBARQ products or services but who do not have our permission. 
-  7. **Customer Proprietary Network Information ("CPNI").** There are special rules related to the access, use and disclosure of customer proprietary network information or "CPNI." This Policy incorporates those rules throughout. You have a right, and EMBARQ has a duty, under the law, to ensure the confidentiality of CPNI. In other circumstances, we may also disclose your CPNI as required or permitted by law. Those circumstances are described in the Disclosure of Personal Information section.
 
 
+You can get more detail about how CenturyLink secures customer information by clicking here.
 
-Your name, address and phone number are not CPNI, but otherwise are covered by this Policy.
+Top of overview
+Contacting us
+    
 
-We may use your CPNI to market additional communications and data products and services similar to the types you currently purchase from us. For example, a wireless customer can be marketed wireless Internet access, new messaging products, video or picture capabilities, or handsets or related equipment. With your opt-out permission we may also market additional products and services we and our partners sell. For example, we may sell long distance to you as a wireless customer. We may also use CPNI to contact former customers when permitted by law. And, to provide your service, we may use and disclose CPNI to our agents, affiliates, joint venture partners and independent contractors, but we restrict their use and limit disclosure of CPNI for purposes or providing service to you or to market products and services as previously described. We will also prohibit the third party from further disclosing the CPNI except as required or permitted by law and require the third party to implement safeguards to protect the confidentiality of the CPNI. If you are a new customer of EMBARQ, you will receive a notice of your CPNI rights and further information on this topic from EMBARQ. When you have not already given EMBARQ your permission to use CPNI for marketing purposes, EMBARQ will give you 33 days after soliciting your consent before using your CPNI and EMBARQ will follow your directions if you choose not to provide your consent.
+If you have questions about this policy or our practices, please email us at [Privacy@CenturyLink.com](mailto:Privacy@CenturyLink.com), or write us at:
 
-## DISCLOSURE OF PERSONAL INFORMATION
+CenturyLink Legal  
+Privacy Group  
+100 CenturyLink Drive  
+Monroe, LA 71203 
 
-This section of the Policy explains when personal information may be disclosed.
+Top of overview
 
-**Vendors.** We may share personal information with a third party to complete a transaction you have requested or to perform a service on our behalf. When the third party acts solely on our behalf, EMBARQ does not allow it to use your information for other purposes. For example, our vendors process and print your billing statement on our behalf. They can only use the personal information we give them to produce the billing statement.
+Print this section
 
-**Your Disclosures to Third Parties Through Our Services.** You may also want to take advantage of services and products offered by other companies through our wireless services. In those cases, you will be providing information to those companies directly, and information about you received by those third parties will be governed by their privacy policies, not this Policy. For example, if you are roaming on the wireless network of another carrier, information about your usage and the numbers you dial will be available to the carrier providing the service. Whenever third parties have a role in any such transaction, you should review their privacy policies as well.
+  * What information does CenturyLink obtain and how do we use customer information?
+    * General practices - gathering
+    * General practices - use
+    * When CenturyLink provides voice service
+    * When CenturyLink is your Internet service provider
+    * When you subscribe to CenturyLink's PRISM television service
+    * When we provide you alarm monitoring services
+    * When you visit a CenturyLink website
+    * When CenturyLink advertises on others' websites
+  * Does CenturyLink share customer information?
+    * General practices
+    * Sharing of customer information with third parties for their use
+    * Disclosure of information through links from CenturyLink websites
+    * When other companies advertise on CenturyLink websites
+    * Sharing of customer information with the government
+  * What choices do our customers have about information we obtain and how we use it?
+    * General practices
+    * Choices regarding directory listings
+    * Choices regarding marketing contacts
+  * What access do customers have to information about themselves?
+  * How does CenturyLink secure customer information?
+  * Changes to this Privacy Policy
+  * Contacting us
 
-**Contests and Promotions.** From time to time, you may be able to participate in contests, giveaways or other similar promotions we sponsor. Participation may require sharing your personal information with a sponsor of the contest, giveaway, or promotion, and you should check the rules to determine how your information will be used and shared with others. Some states also require that contest winners be filed with a state agency.
 
-**Business Transfers.** Information about our users, including personal information, may be disclosed as part of any merger, acquisition, sale of company assets or transition of service to another provider, as well as in the unlikely event of an insolvency, bankruptcy or receivership in which personal information would be transferred as one of the business assets of the company.
 
-**Protection of EMBARQ and Others.** We disclose personal information when we believe release is permitted or required by law (e.g., legal process, E911 information); to enforce or apply our customer agreements; to initiate, render, bill, and collect for services; protect our rights or property, or those of users of our services; to protect other service providers from fraudulent, abusive, or unlawful use of, or subscription to, such services; facilitate or verify the appropriate calculation of taxes, fees, or other obligations due to a local, state, or federal government requirement, or eligibility for government benefits; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay.
+## What information does CenturyLink obtain and how do we use customer information?
 
-## PRESENCE, LOCATION AND TRACKING INFORMATION
+### General practices – gathering
 
-To make wireless communications possible, the EMBARQ-provided network knows the general location of your phone or wireless device whenever it is turned on. Your wireless device sends out a periodic signal to the nearest radio tower/cell site so that our network will know where to route an incoming communication and how to properly bill for the service. This is necessary to make wireless communications possible. Location information derived from providing our voice service, in addition to being covered by this Policy, is CPNI and is protected as described above.
+**Signing up and ordering services.** When customers sign up for service, we ask for their name, street address, email address, how they want their listing to appear in phone directories and directory assistance, and contact information. We may ask for date of birth, social security or driver's license numbers (to confirm identity or determine creditworthiness), billing information including whether bills should be sent by mail or set up for online access, and bank account or credit card information if a customer elects to pay electronically. We also keep notes of contacts we have with our customers.
 
-If you dial 9-1-1 for emergency services, we provide your call location to a public safety answering point, emergency medical service provider or emergency dispatch provider, public safety, fire service, or law enforcement official, or hospital emergency or trauma care facility. The law also permits us to disclose the call location of a device on our network without a user's consent (1) to a user's legal guardian or members of a user's immediate family in an emergency situation that involves the risk of death or serious physical harm, (2) to database management services or information providers solely to assist in delivering emergency services, (3) if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires or justifies disclosure of a device's location on the network without delay, and (4) in "aggregate" form. Aggregate data is collective data that relates to a group or category of services or customers, from which individual customer identities and characteristics have been removed.
+**Recording, reviewing or monitoring of your interactions with CenturyLink.** For quality assurance and training, we sometimes review email correspondence and record or listen to calls made to or from our customer service and repair personnel, sales offices, and business account managers. We also save the text of "click to chat" sessions with our online sales and service consultants, and may save screen shots when customers give our repair personnel remote access to their computers for technical support.
 
-Your wireless Internet service may also be personalized using your zip code or other location identifiers. We use this information to serve you relevant content, and we treat the information like any other personal information under this Policy.
+**Network recording of service usage.** We record information about usage of our networks or systems. For example, we may log dates and times and the telephone numbers of calls to and from our customers, especially when the information is necessary for toll billing. Generally, we do not retain any call information for local landline calls. If a customer activates a "call trace" feature, we will record the number of the calling party. And when we are your Internet service provider (ISP), we maintain logs of the total volume of data a user transmits, and the date, time and length of time that a user accessed the Internet through our services, including the user's IP address at the time. For more about information we gather see the section below entitled When CenturyLink is your Internet Service Provider.
 
-## COOKIES AND WEB BEACONS ON THE WEBSITE
+**Information gathered when visiting CenturyLink websites.** When a user visits a CenturyLink website (such as CenturyLink.com or CenturyLink.net), we receive information about the user's operating system and its browser, the site accessed immediately before accessing our website, pages the user goes to within our website and sometimes the website accessed after leaving it. We also get the user's Internet Protocol (IP) address,* including the city and state of its location. That lets us customize product availability and pricing for that community. We receive most of this information through the normal operation of the web, and generally this information does not identify any specific user. We may also retain information entered by users on our online order pages, even if the customer does not complete an order.
 
-Cookies are small files placed on your computer's hard drive by a Website when you visit. These files identify your computer and record your preferences and other data about your visit so that when you return to the site, the site knows who you are and can personalize your visit. For example, cookies enable a Website shopping cart to function so that you only have to check out once. Consequently, cookies are often tied to the use of personally identifiable information while using our site and some functionality may be lost if you choose not to accept the use of cookies.
+*An IP address is assigned to a user's browser by the user's ISP. The IP address identifies users on the Internet by a number, and part of that number usually identifies the user's city and state. Your IP address stays the same while you're connected to the Internet, but a new one may get assigned between Internet sessions.
 
-In general, we use cookies to collect information so that we can determine how to improve our site by seeing which areas, features and products are most popular; to personalize the site and make recommendations based on products you have liked in the past as well as to improve the site experience; and to complete transactions you have requested. Advertisers that serve ads on our site may also use their own cookies. Such outside cookies are governed by the privacy policies of the entities placing the ads, and are not subject to this Policy.
+**When other companies advertise on CenturyLink websites.** When other companies advertise on our websites like CenturyLink.net, the ad networks and advertisers we work with may put a cookie or web beacon on your computer. The ad networks use these cookies and web beacons to keep track of what ads are displayed and whether users click on the ads (both as required by their relationships with advertisers), and to better understand the ads that users like. We do not allow the ad networks or advertisers who advertise on our sites to place cookies or web beacons in order to gather information that identifies users individually or builds profiles about their web use. And consistent with best practices in Internet advertising, the ad networks we work with enable you to opt-out of their placement of cookies or web beacons. **To learn more** about cookies and web beacons go to our [Frequently Asked Questions](https://web.archive.org/web/20111026134221id_/https://www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy/faq.jsp#advertise).
 
-We also use a session-based cookie that maintains a user's session for continuity of navigation while viewing the site. After closing the browser the session cookie simply terminates.
+**Information obtained when clicking on CenturyLink ads on other websites.** When we place ads on others' websites, the ad networks we work with provide general information about users who click on our ads, including the types of browsers they use and their city and state. The ad networks we work with may use that information to predict what CenturyLink ads may be most effective in a location.
 
-With wireless Internet service, cookies are also used by our suppliers and third party vendors to facilitate the various services and information offered. Depending on the phone or device being used, cookies may be stored locally on the phone or device, or on servers operated by EMBARQ. This Internet cookie-like functionality is in place for the same reasons and designed for the same purposes as cookies placed on your computer when interacting with Internet Websites. Each site you visit while using the wireless Internet service is controlled by a separate company and their individual privacy policies will govern information they receive automatically from the cookie or information you voluntarily provide. 
+**Multiple privacy policies might apply.** In some cases, more than one privacy policy will determine how information about you is obtained and used. For example, when we sell you services either with or through another business (such as an Internet, television or wireless service), their privacy policies will be relevant. This is also true when you access non-CenturyLink websites.
 
-A Web beacon, also known as a Web bug, is a small, graphic image on a Web page, Web-based document or in an e-mail message that is designed to allow the site owner or a third party to monitor the address and other information of the site viewing the item. Web beacons are often invisible to the user because they are typically very small (only 1-by-1 pixel) and the same color as the background of the Web page, document or e-mail message. Web beacons are represented as HTML IMG tags in the Web page; users can click on "view profiles" of the Web page to see whether the page is using a Web beacon. Web beacons collect the IP address of the computer to which the Web beacon is sent, the URL of the page from which the Web beacon comes, and the time it was viewed. Web beacons can also be linked to personal information.
+**Personal information obtained from third parties.** Sometimes, we receive information about our customers from other businesses. This happens, for example, when another business sells our services, or when we bundle our services with services from a television or wireless company. It also happens when we bill for a business, such as a long distance company or other type of service provider. We also obtain information about our customers from businesses that gather it from many sources, including the Census Bureau and public records. Finally, we work with companies that provide us email addresses for our customers.
 
-EMBARQ may place Web beacons on its site in conjunction with cookies to monitor how visitors are navigating and/or interacting with the site. EMBARQ does not link Web beacons to a visitor's personal information and generally does not permit third parties, other than those working on our behalf, to place them on our site. 
+Top of full policy
 
-## EMBARQ PLACEMENT OF BANNER ADS ON OTHER WEBSITES
+### General practices – use
 
-EMBARQ may use third-party advertising companies to place advertisements about our products and services on other Websites. The advertising companies may use cookies and other technology such as Web beacons or tagging to measure the effectiveness of our ads. To measure advertising effectiveness and offer selective ad content, the advertising companies may use anonymous information about your visits to our and other Websites. The use of such cookies is subject to the advertising company's privacy policy, not the policy of EMBARQ.
+**Routine business uses of personal information.** We use information that we obtain from customers or generate while providing our services to set up and maintain accounts, provide and repair our services and equipment, respond to customers' questions and concerns, bill and collect for our services, plan for future development of our network and services, to market our services, and communicate with our customers and others about our services. We also use our customer information, and information we obtain from third parties, to determine our customers' creditworthiness and predict what new services our customers may want. We do not resell customer information that we buy from third parties.
 
-## NETWORK AND INFORMATION SECURITY
+### When CenturyLink provides voice service
 
-We maintain a variety of physical, electronic, and procedural safeguards to guard your personal information. For example, we take a variety of steps to protect against unauthorized access to our systems that store personal information such as policies limiting access to those systems to authorized personnel.
+As a provider of local, long distance, and Voice over Internet Protocol (VoIP) services, we use customer information as outlined above under General Practices.
 
-When you are ordering new services or products through the EMBARQ Website, we employ the Secure Sockets Layer (SSL) protocol for the transmission of the information from you to us. Also, we use encryption technologies to protect your account information when you are viewing your bill on our Website or via email. You should be aware that EMBARQ has no control over the security of other sites on the Internet you might visit, interact with, or from which you buy products or services.
+When we provide VoIP service, we rely on our customers to keep their service addresses current by updating their online customer profile when they change locations. In the event of an emergency, we provide this information to 911 service providers so they can help emergency responders find you.
 
-You should keep your user name, password or other access information safe and confidential to protect against unauthorized access to your account information and services. And you must adopt passwords that others may not guess easily.
+### When CenturyLink is your Internet service provider
 
-## RETENTION OF INFORMATION
+As your ISP, we gather and use information as outlined above under General Practices.
 
-EMBARQ retains all of the information it collects under this Policy for as long as there is a business need for it. In addition, we have a record retention policy that generally implements the broad range of regulatory requirements imposed on service providers for recordkeeping.
+**Information we obtain when CenturyLink provides Internet access.** We gather and use information generated on our networks to manage them, to plan for future development of our network and services, to market our services, and to keep our services running efficiently. For example, we monitor data to check for viruses, to control spam, to prevent attacks that might disable our services, to ensure that your traffic does not violate your subscriber agreement or our acceptable use policies, and to guard against other inappropriate or illegal activity. This involves looking at the characteristics of our network traffic, such as traffic volumes, beginning and ending points of transmissions, and the types of applications being used to send traffic across our network.
 
-## CHECKING ACCOUNT INFORMATION FOR ACCURACY AND ACCESSING YOUR REGISTRATION PROFILE
+Sometimes we need to look into the content of the data (such as the specific websites being visited, files being transmitted, or application being used) for the purposes described above, in circumstances when we are concerned about fraud or harassment, to repair a problem we detect or that a customer contacts us about, or when we are providing the content of broadband traffic to law enforcement which we only do as authorized by law.
 
-To change your contact, phone, account or e-mail preference information, visit the "My Account" section of our Website. Enter your Account Number or User Name as prompted and, when asked, enter your Password. If you have forgotten your User Name or Password, on-line helps are provided.
+Most of the specific information we obtain that is attributable to a user is kept only for a matter of hours or days. We may retain data for longer if, for example, we see patterns in the traffic that give us concerns about potential harm to our network, or if we are doing a specific study on the impact of certain applications used on our networks. We also retain for longer periods logs of the total amounts of data transmitted, and the date, time, and duration of access to the Internet through our services by a user, including the user's IP address at the time.
 
-## UPDATING THIS POLICY
+We will not look into the content of your email, websites visited or other communications for marketing purposes without first informing you and giving you a choice about whether you want us to do so. 
 
-EMBARQ will update this Policy if our practices change or if the law requires changes to it. If at any point we decide to use personally identifiable information in a manner that is materially different from what was stated at the time it was collected, we will notify you via posting on this page for 30 days before the material change is made and give you an opportunity to opt out of the proposed use at any time.
+**Advertising based on the location where we provide you service.** We may let advertisers know whether we provide you Internet access in a geographic area where they want to advertise to web users, and enable them to target ads to you on that basis. You will not see more ads as a result of this service, just ads intended for those in the location where we provide your service. We will not tell them your service address, your physical location, or your web browsing histories, and we will not provide them any information by which they could identify you. In some instances, we may place a cookie on your computer to keep track of what ads have been displayed through this service. If we take part in an advertising service like this, we will provide you information about it at CenturyLink.com and our other web portals and enable you to choose not to receive location-based advertisements in the future. 
 
-## CONTACTING US
+**Children's use of CenturyLink's Internet services.** We understand that children may use our Internet services. We urge you to pay attention to what your children are doing on the Internet and what sites they are visiting. For more information about online safety, please visit [OnGuardOnline.gov](http://www.onguardonline.gov/), the Federal Trade Commission's resource for Internet safety.
 
-If you have any questions about, or complaints that concern, this Policy, please visit Customer Care Online or email us at [privacyeq@embarq.com](mailto:privacyeq@embarq.com) or call Customer Care at the number shown on your bill. If you prefer, you also may write us at Privacy Officer, EMBARQ, 5454 W. 110th Street, Mailstop KSOPKJ0702-708, Overland Park, Kansas 66211. Our representatives will respond to your inquiries or help resolve any dispute concerning this Privacy Policy
+### When you subscribe to CenturyLink's PRISM television service
 
-## YOUR CALIFORNIA PRIVACY RIGHTS
+When we provide you television service over our broadband network, we obtain and use information as outlined above under General Practices. We also obtain and retain for a short period information about programming watched, recorded or accessed through your account, and times at which you turn on and off the television set-top box through which this service is provided. We use this information for billing customers, paying those who provide the content we deliver, product planning, and to understand the network capacity needed to deliver this service.
 
-California residential customers of an EMBARQ company have a right to obtain a list of personal information that EMBARQ may have disclosed to other EMBARQ companies for marketing purposes or to unaffiliated third parties for their own marketing purposes. In California, EMBARQ offers long distance wireline telephone service to consumers through EMBARQ Communications, Inc. EMBARQ, as authorized by the Federal Communications Commission, shares personal information between its affiliates and marketing agents for its own marketing purposes.
+### When we provide you alarm monitoring services 
 
-A California customer may contact EMBARQ and request the general list of information shared and the companies among which it is shared. This request may be sent electronically to [privacyeq@embarq.com](mailto:privacyeq@embarq.com). EMBARQ will respond to these requests for the list within 30 days. Written requests may be sent to Privacy Officer, EMBARQ, 5454 W. 110th Street, Mailstop KSOPKJ0702-708, Overland Park, Kansas 66211. Requests for this information that come to EMBARQ through other channels may result in a delayed response.
+In addition to the information described above under General Practices, if we provide alarm monitoring services for you we need to gather information about your home or business, the alarm set up within it, your alarm access codes, and the code word you will use to confirm false alarms. We may also be able to see whether your alarm is activated (armed) or not, and histories of past alarms. In some instances, we can change your alarm access code from our service center. This information and our access to your system enable us to respond appropriately when your alarm goes off. We also ask you for contact information for those you would like us to call in the event we are unable to reach you when your alarm goes off. 
+
+### When you visit a CenturyLink website
+
+**Cookies and similar technologies.** We maintain a variety of websites, some for general audiences (such as CenturyLink.net) and some for specific customer segments such as large businesses. When a user visits one of these sites, our systems use cookies, or similar tracking files that provide information about the user's operating system and its browser, the site accessed immediately before accessing our website and sometimes the website accessed after leaving it. To learn more about cookies and other Internet information technologies visit our [Frequently Asked Questions](https://web.archive.org/web/20111026134221id_/https://www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy/faq.jsp#cookies).
+
+We also obtain information about users when they interact with our sites, such as which pages they visit and any ads they click on. We use this information to analyze and manage our sites so we can keep making them better. To improve our visitors' experiences, we may store preferences or other information they volunteer to personalize service offerings and ads. For example, we may use a stored telephone number and location to show local product availability and pricing.
+
+We also use information gathered from our sites for security purposes, such as to detect unauthorized intrusions, prevent malicious attacks, and help ensure a safe online experience for our customers.
+
+We may also keep information entered by users on our online order pages, even if the customer does not complete an order. We use this information for marketing purposes.
+
+**Obtaining information from children under 13.** Unless otherwise indicated, our websites are intended for general audiences and not directed to children. We do not knowingly collect personal information from children under 13. Note that other providers' web pages are accessible through links on many of our websites, and those providers may have different practices on collecting and using information from children under 13. If you are concerned about those sites, please review them and their privacy policies.
+
+### When we advertise on others' websites
+
+We work with ad networks to place our ads on other companies' websites. This process could involve the use of cookies or other Internet information technologies by the ad networks. **To learn more** about cookies and other Internet information technologies visit our [Frequently Asked Questions](https://web.archive.org/web/20111026134221id_/https://www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy/faq.jsp#cookies_advertisements). Ad networks also give us feedback about the effectiveness of our ads.
+
+Top of full policy
+
+**Sharing information within CenturyLink.** CenturyLink is made up of a number of companies and we share information among them as permitted by law or with your consent. You benefit when we better understand your interests and needs. And knowing more about how our customers use our services and sharing that information among our companies helps us improve our networks, the services we provide, and our customer service. It also lets us personalize our interactions with you, including your online experience.
+
+**Sharing information with companies who support our services.** We share customer information as needed with companies that help us market, sell, provide, plan, bill and collect for, and otherwise support our services. Often when these companies act on our behalf, they refer to themselves as "CenturyLink." We also share limited customer information with companies that provide our customers with telephone equipment, Internet services, television offerings, and wireless services that we may sell as part of our service packages. We require these companies to use our information only for the purposes we specify and to keep it safe and confidential.
+
+**Providing information when lawfully permitted and necessary.** Like other businesses, we may share customer information: (1) to comply with laws or to respond to lawful demands such as subpoenas or court orders; (2) to assert or defend our legal rights or the rights of our employees, agents, contractors, or customers; (3) to investigate and protect against fraud, harassment, or other types of unlawful activity involving us, other providers we do business with, or our customers; (4) to protect our property, including our networks, or the property or networks of others; or (5) as otherwise permitted by law. 
+
+**Sharing information when merging, selling or transferring part of our business, or acquiring another business.** If we decide to merge, sell or transfer a part of our business to or with another company, or to acquire part or all of another company, we might provide confidential customer information to the company as part of the decision process or as a result of the sale. We might also provide customer information to another company if we decide to stop providing a service. Usually this information is about the characteristics of our business and groups of customers, but from time to time it could include information about specific customers. In all these cases, the companies receiving the information would be required to keep it confidential and use it only for the purposes that would be stated in our agreements with those companies.
+
+**Providing information when customers ask.** We will disclose information about a customer's account to others when the customer asks us to do so in writing. For information on where to send a request go to our [Frequently Asked Questions](https://web.archive.org/web/20111026134221id_/https://www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy/faq.jsp#contact).
+
+**Caller ID.** We disclose customer information through call-identifying products and services like Caller ID. In some instances, you can block that disclosure. For more information about call-identifying features and how to block disclosure of that information go to our [Frequently Asked Questions](https://web.archive.org/web/20111026134221id_/https://www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy/faq.jsp#number).
+
+**Sharing of Customer Proprietary Network Information (CPNI).** CPNI is a subcategory of protected customer information defined by federal law as information about a consumer's account, including usage and billing of telecommunications services. Those services are offered by providers of traditional local, long distance, and wireless services, as well as providers of Voice over Internet Protocol (VoIP) services to consumers. CPNI includes what services you subscribe to, how you use them, and what you are charged for them. It does not include your name, address, telephone number, or other types of information such as information about your telephone equipment or Internet access services. Communications companies are required to treat CPNI confidentially, and we do. The FCC regulates when and how CPNI can be shared and used. To find out more about the FCC's CPNI rules go to our [Frequently Asked Questions](https://web.archive.org/web/20111026134221id_/https://www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy/faq.jsp#FCC).
+
+Subject to the exceptions described below, we share customer information with third parties for their own use only where the law requires it or customers have consented to it. For the most part, federal law covers the release of information in these circumstances.
+
+**Providing information to other carriers and service providers.** In certain circumstances, we share customer information with carriers and other service providers, including competing local and long distance companies, VoIP providers, Internet service providers, and billing companies so that they can accurately provide and bill for their services. This exchange of information is often legally required, and is also consistent with industry standards. In some cases the customer whose information is being provided is a customer of both CenturyLink and the other provider. In other cases, the other provider has told us that it has the customer's permission to receive the information. And we will also share information with another provider if we suspect fraud, harassment, a threat to their networks, or some other unlawful activity.
+
+For example, companies like CenturyLink are legally required to provide customer information to long distance and other service providers (or their billing agents) so they can verify orders, be aware of customer moves, get paid for their services and for other similar non-marketing purposes. We are required to provide such information even if the information is not listed or published, and the law limits these companies in their use of the information.
+
+**Directory publishers.** By law, when CenturyLink accepts a directory listing for publication, we must provide that listing information to all directory publishers - both our official publisher as well as third-party publishers. When we receive listings from other carriers, they tell us what directories (if any) they want their customer information published in. Once publishers have the listing information, they can use, sort, organize or package the information in any manner they wish: arranged by name or by telephone number, for example, or published in paper directories, electronic directories over the Internet, on CDs, or in any future directory format that may be developed.
+
+We are also required to give directory publishers the names and addresses of customers with non-listed and non-published information. These publishers can use this information _only_ to deliver their directories and for no other purpose. 
+
+If you have elected to have your name, address and telephone number published in white pages directories (which means that it will be public information), we allow that information to be used by others for their own marketing or to create marketing lists. [**To choose not to be included on lists that may be used by others for marketing, click here**](http://qwest.centurylink.com/privacy/optout.html).
+
+**Directory assistance providers.** The Federal Communications Commission requires carriers to share customer names, addresses, and telephone numbers with directory assistance providers (including names but not telephone numbers of non-published customers). Some of these providers offer Internet or online directory assistance services. The FCC does not allow us to restrict how these providers use the customer information we give them. But we do require companies that buy our directory assistance information to sign a contract agreeing to honor restrictions you have asked for, such as that it not be published, when they use the information for purposes other than directory assistance.
+
+**Emergency service providers.** Federal law requires us to provide customer names, addresses, and telephone numbers - including information on non-published and non-listed customers - to emergency services providers, including 911 and reverse-911 providers (who notify the public of emergencies). This information is also provided to those responsible for answering 911 calls when they receive such calls.
+
+**Credit reporting businesses.** We may provide information on customers' payment histories to credit evaluation or reporting businesses. We may permit those businesses to incorporate that information into their own databases as part of offering their services.
+
+**Identity confirmation services.** We may also allow companies to match information provided to them by their potential customers with name and address information in our databases to confirm the identity of their potential customers, and the length of their service with us.
+
+**California privacy rights.** California Civil Code Section 1798.83 entitles California customers to request information concerning whether a business has disclosed personal information to any third parties for the third parties' direct marketing uses. California customers who want more information about our compliance with this law or have questions or concerns about our privacy practices and policies may contact us at [Privacy@CenturyLink.com](mailto:Privacy@CenturyLink.com).
+
+Our websites contain links to websites of other businesses. We are not responsible for information those sites collect. If you are concerned about the information collected by these other sites, please review their privacy policies.
+
+When other companies advertise on CenturyLink websites such as CenturyLink.net, the ad networks and advertisers we work with to place ads there may put a cookie or web beacon on your computer. The ad networks use these cookies and web beacons to keep track of what ads are displayed and whether users click on the ads (both as required by their relationships with advertisers), and to better understand the ads that users like. We do not allow the ad networks or advertisers who advertise on our sites to place cookies or web beacons in order to gather information that identifies users individually or builds profiles about their web use. And consistent with best practices in Internet advertising, all of the ad networks we work with enable you to opt-out of their placement of cookies or web beacons. **To learn more** about cookies and web beacons go to our [Frequently Asked Questions](https://web.archive.org/web/20111026134221id_/https://www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy/faq.jsp#advertise).
+
+**Responding to lawful process.** We may provide customer information to the government in response to a subpoena, warrant or court order. Among the information we might be asked to provide are a customer's name, address, telephone number, account number, any Internet Protocol or network address that we assigned to the customer, records of service usage (including interactive session times and durations), how long the customer has subscribed to our services (including start date and the types of services used), and the means and source of customer payment (including any credit card or bank account number used to pay for our services). In response to a search warrant or court order, we may be required to disclose to law enforcement agencies the content of and records relating to telephone calls, email messages (including attachments), Internet usage, and data we may store on your behalf if we provide you cloud computing or managed hosting services. We do not provide notice to our customers of law enforcement demands for information. But our usual policy is to provide notice and the opportunity to object when we receive requests related to civil lawsuits whether from the government or private parties.
+
+**Voluntary release of information in an emergency.** We may provide customer information to the government if we believe in good faith that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure without delay.
+
+**Other voluntary releases of information.** Under certain conditions, we voluntarily share information with governmental agencies: 
+
+  * If we encounter situations where we think our customers or others that we might be in contact with are violating the law, we may contact law enforcement and provide them with the information that led to our belief. 
+  * When customers complain about us to federal and state regulatory authorities, we provide pertinent information (including customer information) in response to those complaints, and may provide pertinent information to other governmental bodies inquiring about such complaints, such as state or federal legislative committees. 
+  * We may share information with the government to protect our rights or property, including information indicating that some portion of our network or the network of another provider is or has been subject to a cyber attack. 
+  * Periodically, we compare our customers' name and address information with the information possessed by the U.S. Postal Service. This lets us mail at reduced rates and helps ensure that our customers get their bills and other information from us more economically and reliably. 
+  * We also share information with federal and state agencies in connection with their programs to fund universal service and other communications assistance programs for low-income or otherwise eligible persons, including persons with disabilities. 
+
+
+
+**Reporting of child pornography.** Like other service providers, we are required to report apparent violations of laws concerning child pornography when we have a reasonable belief of facts or circumstances that warrant a report. In those cases, we contact the National Center for Missing and Exploited Children and may also contact law enforcement directly.
+
+Top of full policy
+
+## What choices do our customers have about information we obtain and how we use it?
+
+### General practices
+
+**Telephone directory treatment.** You can choose whether and how your entry appears in CenturyLink directories and through CenturyLink directory assistance. You can choose not to have your name and address in these directory services at all or opt for full names or initials, or full or partial addresses.
+
+**Product choices.** We provide a number of telephone related services that may help you protect your privacy. For more information about these services, please call as at one of the numbers listed at the top of this page.
+
+**Third party marketing.** If you have elected to have your name, address and telephone number published in white pages directories (which means that it will be public information), we allow that information to be used by others for their own marketing or to create marketing lists. [**To choose not to be included on lists that may be used by others for marketing, click here**](http://qwest.centurylink.com/privacy/optout.html).
+
+**Opting out of marketing communications.** You can ask not to receive our marketing calls, mail and email. You will still receive bills, service related contacts and notices from us even if you choose not to receive marketing contacts. See Choices regarding marketing contacts below.
+
+### Choices regarding directory listings
+
+You can choose not to be published in our directories or listed in our directory assistance service. A non-published status means that a number is unavailable in both places, while a non-listed status means that name and number are not printed in directories but are available through directory assistance. To make one of these choices (for which there is usually a fee), please call us at one of the numbers on the top of this page. 
+
+If you choose to be listed in a directory, you can limit the information provided. For example, you can decide to list only your last name and first initial, or you may use either a community address (such as "Wake Forest," or "Phoenix") or no address at all.
+
+**Please note** that we are required to give non-published and non-listed customer names and addresses to directory publishers for directory deliveries and to directory assistance providers. But we mark the information so that they know our customers' privacy choices and by contract we require them to follow those preferences.
+
+### Choices regarding marketing contacts
+
+**Telephone.** Federal Do Not Call laws allow you to place residential landline and wireless phone numbers on the National Do Not Call Registry to prevent telemarketing calls to those numbers. If you would like to add your numbers to this list, you may do so by calling 1-888-382-1222, or by visiting [www.donotcall.gov](http://www.donotcall.gov/).
+
+**Please note** that being on a federal or state Do Not Call list will not keep customers from getting our marketing calls because we have an established business relationship with our customers.
+
+Residential customers who don't want to receive our marketing telephone calls may ask to be placed on our internal Do Not Call list. If a current CenturyLink customer does not want to receive our marketing calls, the customer must expressly tell us not to call by [getting on our internal Do Not Call list by clicking here](http://qwest.centurylink.com/privacy/optout.html) or calling us at one of the numbers at the top of this page.
+
+**Direct mail.** If you want to stop direct mail marketing, including the receipt of catalogs, from companies other than CenturyLink, you should contact them directly or go to the Direct Marketing Association (DMA) website at <https://www.dmachoice.org/dma/member/home.action> for more information.
+
+[If you do not want to receive our direct mail marketing, you must expressly tell us by clicking here](http://qwest.centurylink.com/privacy/optout.html) or contacting us at the telephone number above. We will stop sending you direct mail marketing for two years from the date of your request.
+
+**Email marketing.** To stop receiving commercial emails from us, follow the "unsubscribe" instructions on the email message, [click here](http://qwest.centurylink.com/privacy/optout.html), or contact us by calling one of the numbers listed on the top of this page.
+
+Customers who use My Account may also go to their account profile to change their email preferences.
+
+**Please note** that it may take up to thirty days for your choices regarding marketing contacts from us to become effective. If you are our customer, you will still receive bills, service related contacts and notices from us even if you choose not to receive marketing contacts. 
+
+Top of full policy
+
+## What access do customers have to information about themselves?
+
+**Access through billing statements.** Your monthly billing statement contains the primary name on your account, the services you subscribe to or use, and the amount billed. A paper billing statement may contain less detailed information about specific services or usage than information available online. Both may contain other information, such as regulatory notices and charges passed on to you from other service providers. If you find a mistake in the information we have or if you have any questions about your account, please call us at one of the numbers listed on the top of this page.
+
+**Telephone and online access.** We will discuss your account with you or with someone you authorize (once the caller is properly authenticated). Information may also be available to an authorized user through your online account profile or through interactive tools on our website such as "click to chat." If you want to authorize someone to talk about your services or other account details, call us at the telephone number on the top of this page.
+
+**Releasing information upon written request.** We will release information about your account to others when you ask us to do so in writing. For information on where to send your request go to our [Frequently Asked Questions](https://web.archive.org/web/20111026134221id_/https://www.centurylink.com/Pages/AboutUs/Legal/PrivacyPolicy/faq.jsp#contact).
+
+Top of full policy
+
+## How does CenturyLink secure customer information?
+
+**Restricted access to information.** Only CenturyLink employees, agents, service providers and other businesses we work and share information with and who have a legitimate business purpose are authorized to access customer information. This access is strictly defined (often involving password controlled access and other security controls) and subject to policies and contracts requiring confidential treatment of the information.
+
+**Securing sensitive information.** We use secure technologies to transfer sensitive information and comply with a variety of industry standards, and federal and state laws regarding the protection of customer information.
+
+**Employee and vendor training.** We require employees to protect customers' information. We train our employees on those policies when they are hired, and we update that training periodically. When necessary, we train vendors on our policies as well.
+
+**Proactively protecting your own information.** We encourage our customers to actively protect their personal information. Don't give identifying information to strangers or others unless you're certain they have a right to or a need for the information. Also, protect the security of personal information you transmit over home networks, wireless routers, WiFi networks, and similar devices by using encryption and other techniques to prevent unauthorized interception.
+
+If you think information about you or others has been disclosed without proper authorization, please contact us at [Privacy@CenturyLink.com](mailto:Privacy@CenturyLink.com), or write us at:
+
+CenturyLink Legal  
+Privacy Group  
+100 CenturyLink Drive  
+Monroe, LA 71203  
+
+
+Top of full policy
+
+## Changes to this Privacy Policy
+
+We update this privacy policy from time to time to reflect evolving technology and other service, process and policy changes. We will notify you of any material changes by posting a notice on our website home page and the privacy policy page for 30 days before making the change.
+
+Top of full policy
+
+For questions about this policy or our practices, please email us at [Privacy@CenturyLInk.com](mailto:Privacy@CenturyLink.com), or write us at:
+
+CenturyLink Legal  
+Privacy Group  
+100 CenturyLink Drive  
+Monroe, LA 71203  
+
+
+Top of full policy
