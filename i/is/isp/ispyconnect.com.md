@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ispyconnect.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513023820id_/http%3A//www.ispyconnect.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ispyconnect.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111074757id_/http%3A//www.ispyconnect.com/privacy.aspx) for the most accurate reproduction.*
 
 # iSpy Privacy Policy
 
@@ -8,7 +8,7 @@ We collect information from you when you register on our site.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or phone number. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
  **What do we use your information for?**
 
@@ -21,7 +21,7 @@ Any of the information we collect from you may be used in one of the following w
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
 ; To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
+(your information helps us to more effectively respond to our customer service requests and support needs)
 
 ; To process transactions
 
