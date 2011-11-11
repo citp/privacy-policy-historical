@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adduparticles.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512213300id_/http%3A//www.adduparticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adduparticles.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111171459id_/http%3A//www.adduparticles.com/privacy.php) for the most accurate reproduction.*
 
 # Add Up Articles Directory | Free Articles | New Articles Daily | Privacy Statement
 
