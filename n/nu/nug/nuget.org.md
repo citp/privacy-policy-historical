@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuget.org privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515122617id_/http%3A//www.nuget.org/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuget.org privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111024517id_/http%3A//www.nuget.org/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - NuGet gallery
 
