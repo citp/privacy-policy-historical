@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the projectnursery.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507232159id_/http%3A//projectnursery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectnursery.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112003842id_/http%3A//projectnursery.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Project Nursery
 
-Welcome to Projectnursery.com [](http://projectnursery.com/wp-content/uploads2/2010/01/logo-lowres-250.jpg), a service provided by Project Nursery, LLC (“PN”). This “Privacy Policy” is our commitment to serve you and to protect your privacy online and applies to this Site, however accessed.
+Welcome to Projectnursery.com, a service provided by Project Nursery, LLC (“PN”). This “Privacy Policy” is our commitment to serve you and to protect your privacy online and applies to this Site, however accessed.
 
 From time to time, PN may change this Privacy Policy. The updated Privacy Policy will be posted on the Site, so that you will always be aware of what information PN collects and how it is used. You should review the Privacy Policy periodically to see if any changes have been made. This Privacy Policy was last modified on July 9, 2010.  This Privacy Policy, together with the [Terms of Use](http://projectnursery.com/terms/) **** posted on this Site, sets forth the general rules and policies governing your use of our Site.  When you access the PN site, you are agreeing to this Privacy Policy.
 
@@ -50,7 +50,7 @@ Some of our business partners (e.g., advertisers, content partners) may use cook
 
 **Your California Privacy Rights**. Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California, a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing at: admin@projectnursery.com
 
-**CHILDEN**
+**CHILDREN**
 
 The Site is not intended for children under the age of 13. PN does not knowingly collect personally identifiable information via the Site from visitors in this age group. PN does, however, collect information about children and babies from users of the Site. PN asks that our users not provide information about a baby or child without first receiving parental consent.  If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us, please contact us at privacy@projectnursery.com. A parent or guardian of a child under the age of 13 may review and request deletion of such child’s personally identifiable information.
 
