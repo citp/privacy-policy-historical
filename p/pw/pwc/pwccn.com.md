@@ -1,102 +1,97 @@
-> *The following text is extracted and transformed from the pwccn.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624072756id_/http%3A//www.pwccn.com/home/eng/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwccn.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111095639id_/http%3A//pwccn.com/home/eng/privacy.html) for the most accurate reproduction.*
 
-# PwC CN: PricewaterhouseCoopers' Privacy Commitment
-
-Introduction
-
-The privacy of information you provide at this site is important to us.  The following Privacy Statement governs the collection and use of personal data submitted to PricewaterhouseCoopers China (pwccn.com) or through the China pages of pwc.com.  PricewaterhouseCoopers' information handling practices are in accordance with generally accepted privacy and data protection in good practices.
-
-  For more information about our recruitment privacy practices, please refer to our [Recruitment Privacy Statement](https://web.archive.org/home/eng/recruitment_privacy.html).
-
- By submitting identifying data, a visitor to our Web site is agreeing to PricewaterhouseCoopers' use of such data as described in this privacy statement.  Personal data collected by PricewaterhouseCoopers may be transferred internationally to other PricewaterhouseCoopers' entities world-wide, where it is necessary (i) to meet the purpose for which the visitor has submitted the information; or (ii) to enable the visitor to be provided with information at a later date which may be of relevance and interest to the visitor based on the nature and purpose of their voluntary requests.  By submitting data on PricewaterhouseCoopers' Web site, the visitor is providing explicit consent to trans-border transmission of data collected on the Web site for the fulfilment of their voluntary requests.
-
- We have created this Privacy Statement to govern our commitment to protecting the privacy of your information.  However, should you have any further questions, please feel free to direct these to our Web Services Team.
+# PwC CN: PricewaterhouseCoopers Privacy Commitment
 
   
-Data Collection Generally, PricewaterhouseCoopers only collects personal data such as contact details and when required credit card details that are specifically and voluntarily provided by visitors to our Web site.  Typically, personal data is collected to: 
+View this page in: [简体中文版](https://web.archive.org/home/chi/privacy_chi.html)
 
-  * Register for certain areas of the Web site (including an event or seminar);
+### Introduction
 
+The privacy of the information you provide on this website is important to us.  The following Privacy Statement governs the collection and use of personal data submitted to PricewaterhouseCoopers in China ("PricewaterhouseCoopers" or "we") through pwccn.com or through the China pages of pwc.com.  PricewaterhouseCoopers' information handling practices are in accordance with generally accepted privacy and data protection good practices.
+
+ For more information about our recruitment privacy practices, please refer to our [Recruitment Privacy Statement](https://web.archive.org/home/eng/recruitment_privacy.html).
+
+ By using this website and submitting personal data, a visitor to our website is agreeing to PricewaterhouseCoopers' use of such data as described in this Privacy Statement.  We have created this Privacy Statement to govern our commitment to protecting the privacy of your information.  However, should you have any further questions, please feel free to direct these to our [Web Services Team](https://web.archive.org/home/eng/emailus.html?XXX=VqO8%2fDdOmassrH9uaA0Ub%2bZ2YSeD8yHeinGICFdn56s%3d&YYY=MEtINX%2f%2fX2myPfad5fO4UMzS60SCeFWX&&ZZZ=JtMetet6IDLemfmRMiPYOQ%3d%3d). 
+
+### Data collection
+
+"Personal data" means information about you and/or third parties you represent.  When you visit this website and in the course of providing services to you/your organisation/your employer, we may collect personal data either: directly where you are asked to provide data (if applicable) e.g. when you use any "Contact Us" features of the website (e.g. name, e-mail address and mailing address); or information we receive with your authorisation from third parties, such as: your employer; or indirectly, such as using cookies (as described below) or customising software to tailor the website to your preferences or to track your use of certain pages of the website (e.g. your internet protocol address) and other technical means to monitor your use of the website, or from third parties who provide us with information about you.
+
+   We will only collect, hold, process, use, communicate and/or disclose such personal data, in accordance with this Privacy Statement.  If you are acting as an intermediary or otherwise on behalf of a third party or supply us with information regarding a third party (such as a friend, another employee, etc), you undertake that you are an authorised representative or agent of such third party and that you have obtained all necessary consents from such third party to the collection, processing, use and disclosure by us of their personal data.  Because we are collecting the third party's data from you, you undertake to make the third party aware of all matters listed in this Privacy Statement, preferably by distributing a copy of this statement to them or by referring them to our website.
+
+  Generally, PricewaterhouseCoopers only collects personal data such as contact details and when required, credit card details that are specifically and voluntarily provided by visitors to our website.  Typically, personal data is collected to: 
+
+  * Register for certain areas of the website (including an event or seminar);
   * Participate in surveys;
-
   * Inquire for further information;
-
   * Request or purchase publication or reference materials;
-
   * Join our email updates, unsubscribe from them, or change subscription details;
-
-  * Apply for a job online or submit resumes. 
-
+  * Apply for a job online or submit resumes.
 
 
 
-Visitors are also able to send email through the site.  Their messages will contain the user's name, email address and phone, as well as any additional information the user may wish to or is requested to include in the message. 
+Visitors may also send email through the website.  Their messages will contain the user's name, email address and phone, as well as any additional information the user may wish to or is requested to include in the message.
 
- PricewaterhouseCoopers' intention is not to seek any sensitive information through our Web site unless legally required.  Sensitive information includes a number of types of data relating to: race or ethnic origin; political opinions; religious or other similar beliefs; trade union membership; physical or mental health; sexual life or criminal record.  We suggest that you do not provide sensitive information of this nature.  If you do wish to provide sensitive information for any reason, PricewaterhouseCoopers accepts your explicit consent to use that information in the ways described in this privacy statement or as described at the point where you choose to disclose this information. 
+ PricewaterhouseCoopers' intention is not to seek any sensitive information through our website unless legally required.  Sensitive information includes a number of types of data relating to: race or ethnic origin; political opinions; religious or other similar beliefs; trade union membership; physical or mental health; sexual life or criminal record.  We suggest that you do not provide sensitive information of this nature.  If you do wish to provide sensitive information for any reason, PricewaterhouseCoopers accepts your explicit consent to use that information in the ways described in this Privacy Statement or as described at the point where you choose to disclose this information. 
 
-  
-Cookies and Log Files 
+### Cookies and log files
 
-Cookies may be used on some areas of our site.  A cookie is a small software application which allows a Web site to recognise a previous user and to observe how a user navigates within a Web site.
+Cookies may be used on some areas of our website.  A cookie is a small software application which allows a website to recognise a previous user and to observe how a user navigates within a website.  Cookies are now used as a standard by many websites to improve users' navigational experience.  If you are concerned about cookies, most browsers permit individuals to decline cookies. In most cases, a visitor may refuse a cookie and still fully navigate our websites, however other functionality in the site may be impaired.  After termination of the visit to our site, you can always delete the cookie from your system if you wish.
 
-    Cookies are now used as a standard by many Web sites to improve users' navigational experience.  If you are concerned about cookies, most browsers now recognise when a cookie is offered, and permits users to opt-out of receiving it.  If you are not sure whether your browser has this capability, you should check with the software manufacturer or your Internet service provider.  It is PricewaterhouseCoopers' policy to use cookies to make the use of our Web site easier for visitors and to facilitate efficient registration procedures.  In most cases, a visitor can refuse a cookie and still fully navigate our Web sites.
+     In order to properly manage our website and related email services, we may anonymously log information on our operating systems about the number and duration of visits to the website and identify categories of visitors by items such as domains and browser types, and to track document identification number by way of email acknowledgement or return receipt.  These statistics are reported in the aggregate to our webmaster and system administrators.  In addition, site statistics are compiled by third parties, and therefore your IP address will be passed to third parties for statistical reporting only.  This is to ensure that our website presents the best web experience for visitors and is an effective information resource.
 
- In order to properly manage our Web site and related email services, we may anonymously log information on our operating systems about the number and duration of visits to the site and identify categories of visitors by items such as domains and browser types, and to track document identification number by way of email acknowledgement or return receipt.  These statistics are reported in the aggregate to our webmaster and system administrators.  This is to ensure that our Web site presents the best web experience for visitors and is an effective information resource.
+ Whenever a registered member visits this website, they must identify themselves in order to gain entry.  This data is logged by PricewaterhouseCoopers primarily to measure website performance and in assisting to resolve any website technical difficulties. 
 
- Whenever a registered member visits this site, they must identify themselves in order to gain entry.  This data is logged by PricewaterhouseCoopers purely for measuring site performance and in assisting to resolve any site technical difficulties. 
+### Use of data
 
-  
-Use of Data 
+Information submitted on this website is used only for the intended purpose stated at the time that the information is collected.  Examples of the types of use are given in the "Data Collection" section above.
 
-Information attained by the site is used only for the intended purpose stated at the time that the information is collected.  Depending on the purpose of the information submitted (e.g., Join our Email Updates), some information may be stored in our Contacts Database system.  Some or all of this information may be available to the Partners and authorised staff of PricewaterhouseCoopers.
+     Where we have obtained your consent we may also send you communications from time to time, for example to advise you of information, technical updates, upcoming events/seminars, or surveys which may be of interest to you.
 
- Where we have obtained your consent we may also send you communications from time to time, for example to advise you of information, technical updates, upcoming events/seminars, or surveys which may be of interest to you. 
+PricewaterhouseCoopers will not use personal data collected from our website to facilitate unsolicited marketing activities. 
 
- PricewaterhouseCoopers will not use personal data collected from our Web site to facilitate unsolicited marketing activities.
+### Disclosure of data to third parties
 
-  
-Disclosure of Data to Third Parties 
+Information will not be disclosed to third parties except when required by law, when we have your explicit consent where requesting such consent is permitted or in cases where we have engaged the third party specifically to assist with our firm's activities.  Any such third parties whom we engage will be bound contractually to keep all information confidential. 
 
-Information will not be disclosed to third parties except when required by law, when we have your explicit consent or in cases where the third party is a contractor or supplier whom we have engaged specifically to assist with our firm's activities, e.g., a supplier engaged to assist with management of a PricewaterhouseCoopers event.  All such contractors will be bound contractually to keep all information confidential.  
+### Data retention
 
-  
-Data Retention 
+Information that is kept by us will be destroyed or permanently de-identified after a reasonable period from the time when it becomes outdated or is no longer required.  We may however, retain copies of such information for internal record keeping purposes and for compliance with applicable law or professional standards.
 
-Information that is kept by us will be destroyed or permanently de-identified after a reasonable period from the time when it becomes outdated or is no longer required.  
+     To request us to delete your personal data submitted through our website, please send your request to our [Web Services Team](https://web.archive.org/home/eng/emailus.html?XXX=VqO8%2fDdOmassrH9uaA0Ub%2bZ2YSeD8yHeinGICFdn56s%3d&YYY=MEtINX%2f%2fX2myPfad5fO4UMzS60SCeFWX&&ZZZ=JtMetet6IDLemfmRMiPYOQ%3d%3d). 
 
-  
-Access Your Information To access your personal data that you have submitted on a request or registration through our Web site, please send your request to our Web Services Team.
+### Access your information
 
- When personal data is retained, PricewaterhouseCoopers assumes responsibility for keeping a record of the information once a visitor has submitted the data.  PricewaterhouseCoopers does not assume responsibility for verifying the ongoing accuracy of the content of personal data.  When practically possible, if PricewaterhouseCoopers is informed that any personal data collected through a Web site is no longer accurate, PricewaterhouseCoopers will make appropriate corrections based on the updated information provided by the authenticated visitor.
+To access your personal data that you have submitted on a request or registration through our website, please send your request to our [Web Services Team](https://web.archive.org/home/eng/emailus.html?XXX=VqO8%2fDdOmassrH9uaA0Ub%2bZ2YSeD8yHeinGICFdn56s%3d&YYY=MEtINX%2f%2fX2myPfad5fO4UMzS60SCeFWX&&ZZZ=JtMetet6IDLemfmRMiPYOQ%3d%3d).
 
-     
-Correction and Concerns  
+    When personal data is retained, PricewaterhouseCoopers assumes responsibility for keeping a record of the information once a visitor has submitted the data.  PricewaterhouseCoopers does not assume responsibility for verifying the ongoing accuracy of the content of personal data.  When practically possible, if PricewaterhouseCoopers is informed that any personal data collected through a website is no longer accurate, PricewaterhouseCoopers will make appropriate corrections based on the updated information provided by the authenticated visitor. 
 
-To update your contact details (e.g. email, company, title/role, address, phone number), please send your request via our [Email Webmaster](https://web.archive.org/home/eng/contactwebmaster.html) form.  If you believe that information we hold about you is incorrect, if you have concerns about how we are handling your personal data, or if you changed your mind about our usage of your data, please [ email us](https://web.archive.org/home/eng/emailus.html?XXX=VqO8%2fDdOmassrH9uaA0Ub%2bZ2YSeD8yHeinGICFdn56s%3d&YYY=uOR3yinbuVjpFepyD0HCOJ%2ftkkixn%2f9n&&ZZZ=myTK6JgBFxpU%2fhKJ4qGx7g%3d%3d) and we will try to resolve those concerns.  
+### Correction and concerns
 
-  
-Security 
+To update your contact details (e.g. email, company, title/role, address, phone number), please send your request to our [Web Services Team](https://web.archive.org/home/eng/emailus.html?XXX=VqO8%2fDdOmassrH9uaA0Ub%2bZ2YSeD8yHeinGICFdn56s%3d&YYY=MEtINX%2f%2fX2myPfad5fO4UMzS60SCeFWX&&ZZZ=JtMetet6IDLemfmRMiPYOQ%3d%3d).  If you believe that information we hold about you is incorrect, if you have concerns about how we are handling your personal data, or if you change your mind about our usage of your data, please inform us and we will try to resolve those concerns. 
 
-The information submitted is stored in either email boxes or databases.  This information is only available to authorised staff and contractors.
+### Security
 
- PricewaterhouseCoopers has implemented generally accepted standards of technology and operational security in order to protect personal data from loss, misuse, alteration or destruction.  All PricewaterhouseCoopers employees follow a firm wide security policy.  Only authorised PricewaterhouseCoopers personnel are provided access to personal data and these employees have agreed to ensure confidentiality of this information.  PricewaterhouseCoopers' policy is to use secure socket layer technology for the protection of credit card information submitted through web forms.  This policy is also required for any fulfilment agents of our firm.
+The information submitted is stored in either email boxes or databases.  PricewaterhouseCoopers has implemented generally accepted standards of technology and operational security in order to protect personal data from loss, misuse, alteration or destruction.  All PricewaterhouseCoopers staff follow a firm wide security policy.  Only authorised PricewaterhouseCoopers personnel are provided access to personal data and they have agreed to ensure confidentiality of this information.  PricewaterhouseCoopers' policy is to use secure socket layer technology for the protection of credit card information submitted through web forms.  This policy is also required for any fulfilment agents of our firm. 
 
-  
-Transfer of Data to Other Countries  
+### Transfer of data to other countries
 
-Personal data collected by PricewaterhouseCoopers may be transferred internationally to other PricewaterhouseCoopers' entities world-wide, where it is necessary (i) to meet the purpose for which the visitor has submitted the information; or (ii) to enable the visitor to be provided with information at a later date which may be of relevance and interest to the visitor based on the nature and purpose of their voluntary requests.  By submitting personal data on PricewaterhouseCoopers' Web site, the visitor is providing explicit consent to trans-border transmission of such data collected on the Web site for the fulfilment of his/her voluntary requests. 
+Personal data collected by PricewaterhouseCoopers may be disclosed to other member firms in the PricewaterhouseCoopers network of firms, where it is necessary (i) to meet the purpose for which the visitor has submitted the information; or (ii) to enable the visitor to be provided with information at a later date which may be of relevance and interest to the visitor based on the nature and purpose of their voluntary requests.  By submitting personal data on PricewaterhouseCoopers' website, the visitor is providing explicit consent to trans-border transmission of such data collected on the website for the fulfilment of his/her voluntary requests. 
 
-  
-Links to Third Party Sites 
+### Links to third party sites
 
-Because PricewaterhouseCoopers wants your Web site experience to be as informative and resourceful as possible, we provide a number of links to third party sites.  PricewaterhouseCoopers assumes no responsibility for the information practices of these third party sites that a user is able to access through ours.  When you link to these sites, PricewaterhouseCoopers' privacy practices no longer apply.  We encourage visitors to review each site's privacy policy before disclosing any personal data.
+Because PricewaterhouseCoopers wants your website experience to be as informative and resourceful as possible, we may provide a number of links to third party websites.  PricewaterhouseCoopers assumes no responsibility for the information practices of these third party websites that a user is able to access through ours.  When you link to these websites, PricewaterhouseCoopers' privacy practices no longer apply.  We encourage visitors to review each website's privacy policy before disclosing any personal data. 
 
-Changes to the PricewaterhouseCoopers Privacy Statement PricewaterhouseCoopers reserves the right to modify or amend this Statement at any time and for any reason.  However, PricewaterhouseCoopers commits to ensure that the privacy rights of individuals are maintained.  Nothing contained in this Statement is intended to create a contract or agreement between PricewaterhouseCoopers and any user visiting the site, or provide personal data in any form.
+### Changes to the PricewaterhouseCoopers Privacy Statement 
 
-     In order to keep visitors informed, PricewaterhouseCoopers will ensure that we notify users of changes to our Privacy Statement by identifying the alteration for a period of not less than two weeks on the our home page and identifying the effective date at the beginning of this statement. 
+PricewaterhouseCoopers reserves the right to modify or amend this Privacy Statement at any time and for any reason.  However, PricewaterhouseCoopers is committed to maintaining the privacy rights of individuals.
 
-  
-Contact our Privacy Office 
+     In order to keep visitors informed, PricewaterhouseCoopers will ensure that we notify users of changes to our Privacy Statement by identifying the alteration for a period of not less than two weeks on our home page and identifying the effective date at the beginning of this statement.  However, nothing contained in this Privacy Statement is intended to create a contract or agreement between PricewaterhouseCoopers and any user visiting the website. 
 
-We welcome your enquiries or comments about our Privacy Statement and any queries or concerns that you may have about this Web site.  
-     
+### Transfer of business
+
+This Privacy Statement discusses PricewaterhouseCoopers' information practices in the ordinary course of its business.  PricewaterhouseCoopers reserves the right to transfer all data in its possession to a successor-in-interest to its business or assets. 
+
+### Contact our privacy office 
+
+We welcome your enquiries or comments about our Privacy Statement and any queries or concerns that you may have about this website, please contact our [Web Services Team](https://web.archive.org/home/eng/emailus.html?XXX=VqO8%2fDdOmassrH9uaA0Ub%2bZ2YSeD8yHeinGICFdn56s%3d&YYY=MEtINX%2f%2fX2myPfad5fO4UMzS60SCeFWX&&ZZZ=JtMetet6IDLemfmRMiPYOQ%3d%3d). 
