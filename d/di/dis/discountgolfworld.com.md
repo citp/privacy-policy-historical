@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the discountgolfworld.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330141632id_/http%3A//www.discountgolfworld.com/service/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountgolfworld.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111181902id_/http%3A//www.discountgolfworld.com/service/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy Statement: Discount Golf World
+# Privacy Statement: Customer Service: Discount Golf World
 
 Discount Golf World has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: **[DiscountGolfWorld.com](http://www.discountgolfworld.com/)**.
 
@@ -36,16 +36,6 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-Customer Service Discount Golf World 2802 Broadway Quincy, IL 62301 (217) 222-8000 [customerservice@DiscountGolfWorld.com](mailto:customerservice@DiscountGolfWorld.com)  
+Customer Service Discount Golf World 2802 Broadway Quincy, IL 62301 (217) 222-8000 [customerservice@DiscountGolfWorld.com](mailto:customerservice@DiscountGolfWorld.com)
 
-
-Questions? Call us toll-free 1-866-411-4349. 
-
-  
-[](https://web.archive.org/brands/taylormade)| [](https://web.archive.org/brands/cleveland)| [](https://web.archive.org/brands/titleist)| [](https://web.archive.org/brands/nike)| [](https://web.archive.org/brands/bagboy)| [](https://web.archive.org/brands/callaway)| [](https://web.archive.org/brands/touredge) | [More...](https://web.archive.org/brand.php)  
----|---|---|---|---|---|---|---  
-  
-[ ](http://www.discountgolfworld.com/service/payment-options.html) |  [ ](http://www.bizrate.com/ratings_guide/cust_reviews__mid--122071.html) |  [ ](http://www.bbbonline.org/cks.asp?id=1060307151215) |  [](https://www.scanalert.com/RatingVerify?ref=www.discountgolfworld.com) |  [ ](http://www.1stinvideomusicworld.com/blog/your-electronic-warehouse-ranks-among-the-top-50-fastest-growing-e-retailers/)  
----|---|---|---|---  
-  
-
+[ ](http://stellaservice.com/profile/792/)
