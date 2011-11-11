@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the youseeu.com privacy policy that was archived on 2011-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110125175847id_/http%3A//www.youseeu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youseeu.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111100330id_/http%3A//www.youseeu.com/privacy) for the most accurate reproduction.*
 
 # YouSeeU Privacy Policy
+
+Privacy Policy 
 
 ### Preamble
 
@@ -43,7 +45,7 @@ Youseeu greatly respects its users’ privacy and takes it seriously. This Priva
 
     * Youseeu does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
     * Youseeu advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies) 
-  * Youseeu works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please contact us at [info@youseeu.com](mailto:info@kaltura.com). 
+  * Youseeu works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please contact us at [info@youseeu.com](mailto:info@youseeu.com). 
 
 
 
