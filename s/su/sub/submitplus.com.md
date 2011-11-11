@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submitplus.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514175114id_/http%3A//www.submitplus.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitplus.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111234433id_/http%3A//www.submitplus.com/privacy.htm) for the most accurate reproduction.*
 
 # Submit Plus Privacy
 
@@ -43,19 +43,3 @@ We do not knowingly collect personal information from children under the age of 
 ### Cookies
 
 The Walkinweb, Inc web site uses cookies. Cookies help us to provide you with targeted information by measuring which Web site areas are of greatest interest. Walkinweb, Inc also uses cookies when you register for certain Web promotions. In this situation, a cookie will store useful information that enables our Web site to remember you when you return. Walkinweb, Inc can only read cookies from Walkinweb, Inc Web sites. If you choose to disable cookies in your browser, you can still access most of our Web sites. Some Web sites will not allow you to complete certain activities if cookies are disabled. For example, our consumer e-commerce site uses session cookies and persistent cookies to process transactions. If you do not accept cookies, the associated shopping bag will not work and you would not be able to order. 
-
-| 
-
-## What's so special about Submit Plus?
-
-**'More than just Talk'**  
-We ' **Deliver** '...   
-With over 12,000 assignments behind us we get the job done! Before you buy, see, test, poke, review our [Live Results](https://web.archive.org/results.htm)
-
-**'We keep SEO affordable'**  
-Google?... That's where you want to be! We get you there for as low as $ **5.00** /day...   
-[See how we do it](https://web.archive.org/getfirstpage.htm)
-
-|  | **Google's Matt Cutts**   
-How to Get Better Visibility on Google  
----|---
