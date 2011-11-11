@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the permissionresearch.com privacy policy that was archived on 2010-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100111075722id_/http%3A//www.permissionresearch.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the permissionresearch.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111085018id_/http%3A//www.permissionresearch.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - PermissionResearch
 
 Your Privacy Matters
 
+About Our Trees for Knowledge Campaign  
 PRIVACY POLICY & USER LICENSE AGREEMENT  
 What information is collected?  
 How is the information collected?  
@@ -15,15 +16,21 @@ What if I wish to stop participating in this program?
 What is the policy regarding children?  
 How will I be notified of changes to this Agreement?  
 What are my obligations as a participant?  
-What is your commitment to participants?  
+What is our commitment to participants?  
 What are the other legal terms and conditions of participating in this program?  
 Whom can I contact if I have additional questions?
 
-An elite research community
+About Us
 
-Our online market research community has millions of participants who are interested in voicing their opinions through surveys and who allow their online browsing and purchasing behavior (including the content of web pages visited) and their general computer hardware and application usage information to be passively tracked. The data collected is used as part of anonymous market research reports that help shape the future of the Internet. The information that you contribute is used by comScore, Inc., a U.S.-based market research company that is a nationally-recognized authority on Internet and general economic trends, whose data are routinely cited by major media outlets such as the New York Times, the Wall Street Journal, and CNBC, and is extensively used by the largest Internet services companies and scores of Fortune 500 companies.
+Our online market research community has millions of participants who are interested in voicing their opinions through surveys and in influencing which products and services are offered on the Internet. Panelists allow their online browsing, hardware and application usage, and purchasing behavior (including content of visited web pages) to be passively collected and used as part of anonymous research reports that pinpoint what is popular with consumers. The information you contribute is used by comScore, Inc., a globally-recognized market research authority on Internet and general economic trends, whose data are routinely cited by major media outlets such as the New York Times, the Wall Street Journal, and CNN. The data are extensively relied upon by the largest Internet services companies and scores of Fortune 500 companies to improve their online offerings.
 
-Be assured that protection of your privacy is one of our top priorities. While participation in our program will allow us to send you periodic surveys and track information about your online activities such as where you surf and the transactions that you make, the personally identifiable information you provide to us will NOT be used by us, or anyone with whom we do business, to advertise or market products or services to you!
+The protection of your privacy is one of our top priorities. While voluntary participation in our program will allow us to send you periodic surveys and track information about your online activities such as where you surf and the transactions that you make, 
+
+_the personally identifiable information you provide to us will NOT be used by us, or anyone with whom we do business, to advertise or market products or services to you!_
+
+About Our Trees for Knowledge Campaign
+
+Worldwide carbon dioxide emissions have more than doubled over the last 10 years, and too much carbon dioxide in the atmosphere may be one of the major causes of global warming. But planting trees can help reduce the effects of carbon dioxide. That’s why comScore has partnered with Trees for the Future to establish our Trees for Knowledge campaign. Since 1988, Trees for the Future has helped thousands of communities in Central America, Africa, and Asia improve their livelihoods and their environment by planting nearly 50 million trees. Working with Trees for the Future, we have donated millions of trees on behalf of members of our research community, so that we are not only improving the Internet, we’re improving the environment as well.
 
 PRIVACY POLICY & USER LICENSE AGREEMENT
 
@@ -36,6 +43,7 @@ In order to participate in this program, you must:
   * Be at least 18 years of age and capable of entering into a binding agreement;
   * Be the parent or legal guardian of anyone under 18 having access to such computer;
   * Own or control the computers that you allow to be configured to use this system;
+  * If your household subscribes to a TV service, be the TV service subscriber for your household, or be authorized to enter into this agreement on behalf of that TV service subscriber;
   * Not be employed or related to an individual employed by an unaffiliated market research company; and
   * Acknowledge and agree to allow the software to operate as described herein, including allowing the software to automatically upgrade provided that any such upgrades do not change the functionality of the software beyond what is described in this privacy policy and user license agreement.
 
@@ -47,13 +55,17 @@ What information is collected?
 
 Basic Demographic Information: When you sign up for this program, we may obtain your contact information and some basic demographic information about you using a questionnaire, information from companies through which you obtained or inquired about this program, or the application that you install onto your computer and allow to track your Internet usage.
 
-Survey response information: Once you agree to participate in this program, we may notify you of survey opportunities through e-mail, pop-ups, toast windows, U.S. mail, and other means. If you elect to participate in a survey, we require that you provide complete and accurate information about yourself and your household. The survey opportunities that we provide to you may be related to other information that that we collect. For example, we may provide you with a survey asking you about the quality of your user experience at a particular website.
+Survey response information: Once you agree to participate in this program, we may notify you of survey opportunities through e-mail, pop-ups, toast windows, U.S. mail, and other means. If you elect to participate in a survey, we require that you provide complete and accurate information about yourself and your household. The survey opportunities that we provide to you may be related to other information that we collect. For example, we may provide you with a survey asking you about the quality of your user experience at a particular website. 
 
-Computer hardware, software, and other configuration information: Our application may collect general hardware, software, computer configuration and application usage information about the computer on which you install our application, including such data as the speed of the computer processor, its memory capacities and Internet connection speed. In addition, our application may report on devices connected to your computer, such as the type of printer or router you may be using.
+Computer hardware, software, and other configuration information: Our application may collect general hardware, software, computer configuration and application usage information about the computer on which you install our application, including such data as the speed of the computer processor, its memory capacities and Internet connection speed. In addition, our application may report on devices connected to your computer and your network, such as the type of printer or router you may be using. 
+
+TV and Mobility Data: Your TV Data includes items such as the channels and programs you watch and record, when the TV and set-top box are turned on and off, the on-demand programming you order, the interactive TV applications you use and other similar information. Your Mobility Data includes information about your use of your mobile device, such as the type and configuration of your mobile phone, the websites you visit on your device, the date and time of those visits and use, as well as other similar information.
+
+Your agreement to participate on this panel includes your agreement that we may collect your TV Data and Mobility Data directly from your TV and Mobility service providers and you expressly authorize those service providers to supply that information to us on your behalf. You also agree that we may integrate that information with the other data you provide us and that we obtain about you as part of this research community.
 
 Internet usage information: Once you install our application, it monitors all of the Internet behavior that occurs on the computer on which you install the application, including both your normal web browsing and the activity that you undertake during secure sessions, such as filling a shopping basket, completing an application form or checking your online accounts. Our application may also collect information regarding the cookies that exist on your computer. We may use the information that we monitor, such as name and address, for the purpose of better understanding your household demographics; however we make commercially viable efforts to automatically filter confidential personally identifiable information such as UserID, password, credit card numbers, and account numbers. Inadvertently, we may collect such information about our panelists; and when this happens, we make commercially viable efforts to purge our database of such information.
 
-Our application will review the content of all web pages to determine the language being used in the web site, and the application may review select e-mail header information from web-based e-mails as a way to verify your contact information and your online usage information.
+Our application will review the content of all web pages you visit and select e-mail header information from web based emails. We may provide our clients with information allowing them to verify the context and location in which their content was displayed on individual web pages. In addition to information collected through our application, we may also collect data about your Internet use from third-parties, including search engines, email providers, social networks and other application service providers whose Internet sites you visit. 
 
 How is the information collected?
 
@@ -61,9 +73,11 @@ This application monitors your Internet usage by transmitting to our servers inf
 
 Consequently, the software may communicate with our servers while you are connected to but not browsing the Internet. Such communications could include the transmission of collected data as outlined in this privacy policy, or it could include incoming instructions for our software. For example, our servers need to tell our software about survey opportunities, so that we can provide you with invitations where you can take a survey in exchange for sweepstake entries, cash, or other prizes. 
 
-In addition, we may ask for information about you using surveys, for which participation is completely voluntary. We may also combine the information that you provide us with information obtained from other sources (such as consumer preference reporting companies, credit reporting agencies and companies that collect TV viewing information) using confidential matching procedures. In these cases, we will: (i) provide a data match processor with only the personal information necessary to perform a match and, infrequently, to assist us performing statistical analyses; (ii) establish procedures and legal obligations that prohibit use of the information received for any other purpose or disclosure of this information to anyone else; and (iii) require destruction of the received information after completion of the match and analysis. The information that we obtain from other sources will not include confidential personally identifiable information such as credit card numbers and account numbers. You further agree that we may use third party service providers to obtain your TV viewing and mobile usage information and that we may integrate such data with the data that you provide us as part of this research community, provided that the acquisition and processing of such information adheres to the privacy principles included in this privacy policy and user license agreement.
+In addition, we may ask for information about you using surveys, for which participation is completely voluntary. We may also combine the information that you provide us with information obtained from other sources (such as consumer preference reporting companies, credit reporting agencies and companies that collect TV viewing information) using confidential matching procedures. In these cases, we will: (i) provide a data match processor with only the personal information necessary to perform a match and, infrequently, to assist us performing statistical analyses; (ii) establish procedures and legal obligations that prohibit use of the information received for any other purpose or disclosure of this information to anyone else; and (iii) require destruction of the received information after completion of the match and analysis. You also agree that we may use the information we have collected from you to identify your use of search engines, email providers, social networks and other application service providers whose Internet sites you visit. Your agreement to this policy shall serve as your consent to allow us to request data about your online activities from these third-parties and to combine that information with the information that you provide us directly or through the software.
 
-The software will collect information on the types of applications you use and general statistics on how you use them. So, for instance, you may open a word processor, and our software would collect information on how the type of word processing software that you are using, and how long the word processor was open, but it would not have any knowledge of what was typed in the word processor.
+You further agree that we may use third party service providers, including your TV or mobile service provider to obtain other on-line data, TV viewing, or mobile usage information and that we may integrate such data with the data that you provide us as part of this research community, provided that the acquisition and processing of such information adheres to the privacy principles included in this privacy policy and user license agreement.
+
+The software will collect information on the types of applications you use and general statistics on how you use them. So, for instance, you may open a word processor, and our software would collect information on what type of word processing software that you are using, and how long the word processor was open, but it would not have any knowledge of what was typed in the word processor.
 
 Your information is stored in the United States where our central database is operated. The data protection and other laws of other countries may differ from those of the United States. Your information may be processed outside of the United States, provided that the data protection laws of such processing location affords similar if not more protections than those afforded in the United States for the processed data.
 
@@ -85,7 +99,7 @@ If you would like to access, modify, and/or request deletion of the personally i
 
 Does the application use cookies?
 
-We do not use our cookies to store or acquire data about you; however, we do use cookies to identify you as you go through any required registration processes on our site, and to assist us in conducting occasional diagnostic tests to ensure that our system is functioning correctly. Our cookie does not contain any personally identifiable information about you. Please note that if you configure your browser not to accept cookies, you may not be able to complete our registration process and enjoy the benefits of being a program participant.
+We do not use our cookies to store or acquire data about you; however, we do use cookies to assist us in conducting occasional diagnostic tests to ensure that our system is functioning correctly.
 
 What privacy commitments are made relating to specific participant benefits?
 
@@ -93,11 +107,11 @@ Please refer to our program’s web site, which lays out the privacy commitments
 
 What if I wish to stop participating in this program?
 
-Resignation: You may resign at any time by contacting us at the support address listed below or by selecting the “[Terminate all PermissionResearch Services](https://web.archive.org/web/20100111075722id_/http%3A//www.permissionresearch.com/Remove.aspx?terminate_services=y)” link from the Members section on your panel’s web page (where applicable). 
+Resignation: You may resign at any time by contacting us at the support address listed below or by selecting the “[Terminate all PermissionResearch Services](https://web.archive.org/web/20111111085018id_/http%3A//www.permissionresearch.com/Remove.aspx?terminate_services=y)” link from the Members section on your panel’s web page (where applicable). 
 
-Removing our Application: You may remove our application using the Windows Add/Remove Programs function (known as "Programs and Features" in Vista). Alternatively, you may e-mail our support staff at the e-mail address provided below and request removal instructions. Please be sure to follow this same removal procedure on all of the computers from which you wish to remove this application. Removing the application will stop tracking of your online browsing and purchasing behavior, but unless you resign from all services in accordance with the procedure stated above, you still may be contacted for administrative purposes or for special participant opportunities. After you remove our application from a computer, all settings we have made to your computer will be deactivated; however, some inactive elements may remain on your machine such as registry entries or DLL files, which is not at all unusual for many types of online services and software.
+Removing our Application: You may remove our application using the Windows Add/Remove Programs function (known as "Programs and Features" in Vista and Windows 7). Alternatively, you may e-mail our support staff at the e-mail address provided below and request removal instructions. Please be sure to follow this same removal procedure on all of the computers from which you wish to remove this application. Removing the application will stop tracking of your online browsing and purchasing behavior, but unless you resign from all services in accordance with the procedure stated above, you still may be contacted for administrative purposes or for special participant opportunities. After you remove our application from a computer, all settings we have made to your computer will be deactivated.
 
-Use of Third Party Programs to Remove our Software: Please note that use of third party programs to remove this application may cause instability in your system and to your Internet connection. We reserve the right to repair any of its settings that are partially removed, to minimize potential instability. In fact, our software will inspect itself and make repairs when necessary. This action is not done to try and stop you from uninstalling our software, it is only done to assure that while our software is operating properly on your computer, it works the way it should and does not cause any technical problems. This ability to upgrade or repair corrupted files in no way impedes your ability to delete the program. Once the program has been has been uninstalled through the Windows Add/Remove Programs function, the application will be removed, so that no updates or repairs may be made. So, should you wish to resign, we ask that you use the instructions provided above.
+Use of Third Party Programs to Remove our Software: Please note that use of third party programs to remove this application may cause instability in your system and to your Internet connection. We reserve the right to repair any of its settings that are partially removed, to minimize potential instability. In fact, our software will inspect itself and make repairs when necessary. This action is not done to try and stop you from uninstalling our software, it is only done to assure that our software is operating properly on your computer and does not cause technical problems. This ability to upgrade or repair corrupted files in no way impedes your ability to delete the program. Once the program has been has been uninstalled through the Windows Add/Remove Programs function, the application will be removed, so that no updates or repairs may be made. So, should you wish to resign, we ask that you use the instructions provided above.
 
 Stop Participating in Surveys: You may contact us at the support address listed below to alter how you receive, or to completely stop receiving, surveys, or you can edit your survey preferences at the Members section on your panel’s web page (where applicable).
 
@@ -116,7 +130,7 @@ What are my obligations as a participant?
 As a participant, you agree to:
 
   * Allow this program to collect and use information obtained from you and related to you and your household's Internet use as described in this agreement;
-  * Make reasonable efforts to ensure that any other person who uses such computers is aware of and agree to the terms of this agreement; 
+  * Make reasonable efforts to ensure that any other person who uses such computers and uses the TV services available to your household is aware of and agrees to the terms of this agreement; 
   * Accept automatic changes to your system settings that are made solely to ensure compatibility between your computer system and this program, and periodic software upgrades;
   * Receive administrative e-mails, including e-mails sent to: (i) inform you about upgrades, or issues related to basic program/application functions or disruptions; (ii) provide notification about awards and special participant opportunities; (iii) request updated demographic information or information regarding usage of the application; and
   * Regularly visit and review the agreement posted on this website, so that you are aware of any changes made to this agreement.
@@ -133,7 +147,7 @@ As a participant, you agree not to:
   
 
 
-What is your commitment to participants?
+What is our commitment to participants?
 
 We commit to making commercially reasonable efforts to do the following:
 
@@ -153,6 +167,8 @@ Notwithstanding the above, we may apply to any court of competent jurisdiction f
 THIS AGREEMENT SHALL BE GOVERNED BY THE LAWS OF THE COMMONWEALTH OF VIRGINIA, WITHOUT REGARD TO CONFLICTS OF LAWS PROVISIONS AND SUCH LAW SHALL BE APPLIED BY THE ARBITRATOR TO THE MERITS OF ANY DISPUTE OR CLAIM. FOR ANY NON-ARBITRAL ACTION OR PROCEEDING ARISING OUT OF OR RELATED TO THIS PROGRAM OR THIS AGREEMENT, SOLE AND EXCLUSIVE JURISDICTION SHALL RESIDE WITH THE APPROPRIATE STATE COURT LOCATED IN FAIRFAX COUNTY, VIRGINIA OR FEDERAL COURT LOCATED IN ALEXANDRIA, VIRGINIA.
 
 While this program is available on the Internet to international users, the program is and remains a U.S. offering and all use of the information collected is and shall remain subject to U.S. law and practice. International users must take this into account and should consult their local laws and independently determine whether participation is desired given these facts.
+
+TMRG, Inc., complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. TMRG, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view TMRG, Inc.’s certification, please visit <http://export.gov/safeharbor/>. 
 
 Fraud: Any attempt by a participant to undermine the legitimate operation of the panel is a violation of criminal and civil laws and should such an attempt be made, TMRG, Inc. reserves the right to seek damages from any such respondent to the fullest extent permitted by law. Multiple accounts are not permitted; participants are limited to signing up for a maximum of one account.
 
@@ -174,7 +190,7 @@ Third Party Products and Services: We neither endorse nor accept responsibility 
 
 ENTIRE AGREEMENT: This Agreement constitutes the entire agreement between sponsor and you with respect to the subject matter contained in the Agreement.
 
-This Agreement is effective as of May 14, 2009.
+This Agreement is effective as of October 13, 2011
 
 Whom can I contact if I have additional questions?
 
@@ -188,9 +204,6 @@ Reston, VA 20190
 
 For any support issues, please contact: support@tmrginc.com.
 
-LP 0920
-
-  
-[](https://web.archive.org/web/20100111075722id_/http%3A//www.permissionresearch.com/signup.aspx)
+LP 1142
 
 [](https://www.scanalert.com/RatingVerify?ref=www.permissionresearch.com)
