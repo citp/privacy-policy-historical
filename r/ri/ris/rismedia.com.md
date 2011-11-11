@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rismedia.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613015923id_/http%3A//rismedia.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rismedia.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111074541id_/http%3A//rismedia.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | RISMedia
 
@@ -45,3 +45,7 @@ RISMedia recognizes the importance of protecting the personal information you pr
 6\. We use a strict Opt-Out policy for sending online notifications regarding services, products and programs. You may opt out of our Daily e-News by selecting the unsubscribe feature at the bottom of the Daily e-News e-mail or by e-mailing online@rismedia.com.
 
 7\. Some of our sites contain advertising placed by advertising networks pursuant to agreements between RISMedia and the advertising network. We do not control these advertising networks, the sites of third parties reached through links on our site or their information collection practices and RISMedia will not be responsible for the activities of these third parties. The advertising network uses cookies to collect certain non-personally identifiable information when you click on the banner ads appearing on our sites. This information is collected by the advertising network for purposes of measuring and reporting on the advertising to advertisers and RISMedia. The advertising network may also aggregate the information for certain other statistical and reporting purposes.
+
+8\. All content submitted to RISMedia for publication is considered proprietary to RISMedia and may be used in any of its product and services, including but not limited to RISMedia’s websites, e-newsletters, content licensing or membership-based network platforms including RISMedia’s Real Estate Information Network® (RREIN), Top 5 in Real Estate Network® and REsource Real Estate Content Solutions.
+
+RISMedia may store, resize, copy, distribute, transmit, display, reproduce, transfer, access the submitted content for any purpose that RISMedia considers necessary, in its sole discretion. RISMedia may use the content as necessary, in the opinion of RISMedia, for the promotion of its websites and services.
