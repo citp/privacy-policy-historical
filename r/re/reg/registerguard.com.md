@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the registerguard.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513234200id_/http%3A//special.registerguard.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the registerguard.com privacy policy that was archived on 2011-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111111073550id_/http%3A//special.registerguard.com/about/privacy-statement) for the most accurate reproduction.*
 
 # Privacy statement | The Register-Guard | Eugene, Oregon
 
@@ -69,10 +69,6 @@ Advertisement
 
 * * *
 
-### Most Popular
-
-* * *
-
 Advertisement
 
 * * *
@@ -94,3 +90,5 @@ Find fun fast with _go Entertainment_. Search our comprehensive listings of conc
 On your smartphone at _[go.registerguard.mobi](http://go.registerguard.mobi/)_
 
 * * *
+
+Advertisement
