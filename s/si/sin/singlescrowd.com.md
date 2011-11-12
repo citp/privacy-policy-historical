@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singlescrowd.com privacy policy that was archived on 2009-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090728102621id_/http%3A//www.singlescrowd.com/static/about_us/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singlescrowd.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112020626id_/http%3A//www.singlescrowd.com/static/about_us/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -62,7 +62,7 @@ Tel +44 (0) 1278 722473
 
 Fax +44 (0) 1278 428049 
 
-Datech Limited is registered under the Data Protection Act 1998 registration number Z9532548 
+Datech Limited is registered under the Data Protection Act 1998 registration number Z2869522 
 
 Further information can be viewed here <http://www.opsi.gov.uk/ACTS/acts1998/19980029.htm>
 
