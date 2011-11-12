@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monsterfollowup.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515080812id_/http%3A//www2.monsterfollowup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsterfollowup.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112204515id_/http%3A//www2.monsterfollowup.com/privacy-policy) for the most accurate reproduction.*
 
 # MonsterFollowUp.com » Privacy Policy
 
