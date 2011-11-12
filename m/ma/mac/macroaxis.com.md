@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the macroaxis.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212021237id_/http%3A//www.macroaxis.com/invest/menu/contactsInfo/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macroaxis.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112134424id_/http%3A//www.macroaxis.com/invest/menu/contactsInfo/privacyPolicy) for the most accurate reproduction.*
 
 # Macroaxis Privacy Policy
-
-##  Privacy Policy
 
 Our goal is to make Macroaxis the most trusted site in investment management. To do this, we need your help, so any suggestions for improvement can be sent to us directly via the [feedback form](https://web.archive.org/?pitch=pitchletHowToGet&mm=contactsInfo). 
 
