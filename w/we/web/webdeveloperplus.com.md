@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdeveloperplus.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515080419id_/http%3A//webdeveloperplus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdeveloperplus.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112142412id_/http%3A//webdeveloperplus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Web Developer Plus
 
