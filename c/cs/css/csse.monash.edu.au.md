@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the csse.monash.edu.au privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625061609id_/http%3A//www.monash.edu.au/legals/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csse.monash.edu.au privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112065909id_/http%3A//www.monash.edu.au/privacy.html) for the most accurate reproduction.*
 
-# Privacy statement (Monash University)
+# Monash University Websites Privacy Statement - Monash University
 
 Monash University is subject to the **Information Privacy Act 2000 (Victoria)**. The University is committed to protecting your privacy. The following sets out how the University will deal with personal information recorded through the use of its web sites.
 
@@ -14,7 +14,7 @@ Information about your visit to a University website may also be logged by Niels
 
 If you are not a Monash student or a University staff member and you send us a message, the University will record your e-mail address.
 
-### Security Information
+### Security information
 
 University sites have security measures in place against the loss, misuse and alteration of information as defined in the University's IT Security Policy.
 
@@ -26,44 +26,44 @@ A cookie is a small message given to your web browser by our web server. The bro
 
 Some University sites are access restricted. These sites may use cookies to deliver content specific to your interest. Cookies may also be used for authentication purposes and to improve security during a visitor's session online.
 
-Cookies may store the following information: session (numbered key) and duration. A numbered key is a unique server generated number used to track your current session. The session key can be linked back to a user's login identification.
+Cookies may store the following information: session (numbered key) and duration. A numbered key is a unique server-generated number used to track your current session. The session key can be linked back to a user's login identification.
 
-Unique identifiers (such as log-in name and password) are collected from web site visitors to verify a user's identity and for use as account numbers in our record system.
+Unique identifiers (such as login name and password) are collected from web site visitors to verify a user's identity and for use as account numbers in our record system.
 
 Unique identifiers are also used to access stored information about a visitor's preferences to enable the dynamic display of the site according to your preferences when you return.
 
-### On-line Surveys
+### On-line surveys
 
-All research surveys conducted on-line by University staff and /or students which involve the collection of personal information, will have received approval from the University's Committee for Human Ethics in Research. A survey might ask visitors for unique identifiers (such as login information).
+All research surveys conducted online by University staff and /or students which involve the collection of personal information, will have received approval from the University's Committee for Human Ethics in Research. A survey might ask visitors for unique identifiers (such as login information).
 
-### Enrolment and Registration forms
+### Enrolment and registration forms
 
 If personal information is collected via a website and held, every effort will be made to ensure that this is done by sufficiently secure means.
 
 A student may elect to enroll in person rather than providing personal information to the University via a website.
 
-For certain applications, our site's enrolment and/ registration forms require users to give contact information (like name and e-mail address) and unique identifiers (like login identification and student number).
+For certain applications, our site's enrolment and registration forms require users to give contact information (like name and e-mail address) and unique identifiers (like login identification and student number).
 
-### External Links
+### External links
 
 Some University sites contain links to other sites. The University is not responsible for the privacy practices or the content of such web sites.
 
 ## 2\. Use of Personal Information
 
-Personal information you supply on-line will be used by the University staff in conducting the business of the University. Such uses include matters related to student administration, provision of services and the dissemination of information to staff, prospective and current students and remaining in contact with graduates. The University may also use your IP address to help diagnose problems with a server and to administer a web site. Your IP address is sometimes used to set up individual sessions to provide secure logins.
+Personal information you supply online will be used by the University staff in conducting the business of the University. Such uses include matters related to student administration, provision of services and the dissemination of information to staff, prospective and current students and remaining in contact with graduates. The University may also use your IP address to help diagnose problems with a server and to administer a web site. Your IP address is sometimes used to set up individual sessions to provide secure logins.
 
 ## 3\. Disclosure of personal information
 
-The University will not disclose personal information concerning you to parties outside the University. However, staff e-mail addresses will be made available in accordance with Monash's **External Access to Staff Contact Details Policy**.
+The University will not disclose personal information concerning you to parties outside the University. However, staff email addresses will be made available in accordance with Monash's **External Access to Staff Contact Details Policy**.
 
-### Public Forums
+### Public forums
 
 Some University sites may have chat rooms, forums, on-line teaching environments, message boards and or/news groups available to their users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-## 4\. Data Quality/Access
+## 4\. Data quality/access
 
 The University will always try to maintain accurate, complete and up-to-date information regarding staff and students. If you think that your personal information retained by the University requires changing please contact Student Services or HR Services as appropriate.
 
 ## 5\. More information
 
-For more information, view the [University's Privacy Policy](http://www.privacy.monash.edu.au/index.html%20). 
+For more information, view the [University's Privacy Policy](http://www.privacy.monash.edu.au/). 
