@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wkowtv.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514160820id_/http%3A//www.wkow.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkowtv.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112024520id_/http%3A//www.wkow.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - WKOW 27: Madison, WI Breaking News, Weather and Sports
 
