@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ourfamilywizard.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515081930id_/http%3A//www.ourfamilywizard.com/ofw/index.cfm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourfamilywizard.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112162750id_/http%3A//www.ourfamilywizard.com/ofw/index.cfm/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - OurFamilyWizard, divorce, custody, parenting time
+# Privacy Policy - OurFamilyWizard | child custody | parenting time
 
 #### OurFamilyWizard believes your privacy is of the utmost importance.
 
