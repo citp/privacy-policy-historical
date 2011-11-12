@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the capitalfm.com privacy policy that was archived on 2011-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110609085401id_/http%3A//www.capitalfm.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the capitalfm.com privacy policy that was archived on 2011-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111112145801id_/http%3A//www.capitalfm.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -14,7 +14,7 @@
 <meta property="og:site_name" content="Capital">
 <meta property="og:type" content="article">
 <meta property="og:image" content="http://assets3.gcstatic.com/u/apps/asset_manager/uploaded/2008/35/computer-keyboard-1220362686-small-pod-0.jpg">
-<meta property="fb:admins" content="551351399,1191061720,661684973,558405462,543288222,626420087">
+<meta property="fb:admins" content="551351399,1191061720,661684973,558405462,543288222,626420087,506268272">
 <meta property="fb:app_id" content="184899318222048">
 <meta property="fb:page_id" content="113220942069573">
 <meta name="robots" content="noodp,noydir"> 
@@ -28,8 +28,16 @@
 <meta name="msapplication-task" content="name=Recently Played;action-uri=/;icon-uri=http://capital.gcstatic.com/d/capitalfm.com/img/favicon.ico">
 <meta name="msapplication-task" content="name=Shows;action-uri=/on-air/;icon-uri=http://capital.gcstatic.com/d/capitalfm.com/img/favicon.ico">
 <meta name="msapplication-task" content="name=Search;action-uri=/search/;icon-uri=http://capital.gcstatic.com/d/capitalfm.com/img/search_icon.ico">
-<link rel="stylesheet" href="http://capital.gcstatic.com/d/capitalfm.com/css/combined/capital-minified__1c8d803b.css" media="screen" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://capital.gcstatic.com/d/capitalfm.com/js/capital-minified__76e5ae5b.js"></script>
+<link rel="stylesheet" href="http://capital.gcstatic.com/d/capitalfm.com/css/combined/capital-minified__11916581.css" media="screen" type="text/css">
+<!--[if !IE]><!-->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://capital.gcstatic.com/d/capitalfm.com/js/combined/capital-minified__bf15d2da.js"></script>
+<!--<![endif]-->
+<!--[if lte IE 6]>
+<script type="text/javascript" src="http://capital.gcstatic.com/d/capitalfm.com/js/combined/capital-ie-lte7-minified__a06e9eab.js"></script>
+<![endif]-->
+<!--[if gte IE 7]>
+<script type="text/javascript" src="http://capital.gcstatic.com/d/capitalfm.com/js/combined/capital-minified__bf15d2da.js"></script>
+<![endif]-->
 <script type="text/javascript" src="http://dsa.musicradio.com/gmediaplayer/js/swfobject.js"></script><script type="text/javascript" src="http://dsa.musicradio.com/gmediaplayer/js/gmediaplayer.min.js"></script><script type="text/javascript" src="http://capital.gcstatic.com/gusto/a/articles/js/seo_badges.js"></script>
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 <script type="text/javascript">
@@ -44,10 +52,19 @@ children: {},
 hide_on_listings: false , location: "UK"};
 gusto.original_station = {name: "Capital", slug: "None", id: "34", just_listen_slug: "london"}; /* The other station attribute can change over time. This shouldn't. */
 gusto.category = 'capitalfm.com';
+gusto.category_full_path = '/';
 gusto.category_allow_locations = true;
 gusto.stations = { eastmids: {name: "Capital East Midlands", location: "East Midlands"}, london: {name: "Capital London", location: "London"}, nottinghamshire: {name: "Capital East Midlands - Notts", location: "Nottinghamshire"}, leicestershire: {name: "Capital East Midlands - Leics", location: "Leicestershire"}, derbyshire: {name: "Capital East Midlands - Derbys", location: "Derbyshire"}, birmingham: {name: "Capital Birmingham", location: "Birmingham"}, yorkshire: {name: "Capital Yorkshire", location: "Yorkshire"}, yorkshiresouthwest: {name: "Capital Yorkshire - South &amp; West", location: "Yorkshire - South &amp; West"}, yorkshireeast: {name: "Capital Yorkshire - East", location: "Yorkshire - East"}, manchester: {name: "Capital Manchester", location: "Manchester"}, northeast: {name: "Capital North East", location: "North East"}, teesside: {name: "Capital North East - Teesside", location: "Teesside"}, tynewear: {name: "Capital North East - Tyne &amp; Wear", location: "Tyne &amp; Wear"}, southwales: {name: "Capital South Wales", location: "South Wales"}, scotland: {name: "Capital Scotland", location: "Scotland"}, edinburgh: {name: "Capital Scotland - Edinburgh", location: "Edinburgh"}, glasgow: {name: "Capital Scotland - Glasgow", location: "Glasgow"}, southcoast: {name: "Capital South Coast", location: "South Coast"}, digital: {name: "Capital UK", location: "Digital Radio &amp; TV"}};
 gusto.site_player_slug = 'capital';
 gusto.twitter_hash_tag = "%23capitalfm";
+// avoid the form submission in the on-air module until JS loads
+if (window.jQuery) {
+$("#on_air_listen_live_btn").ready(function(){
+$("#on_air_listen_live_btn").bind("click.on_air_before_page_loaded", function(){
+return false;
+});
+});
+}
 previewPlayer = window.previewPlayer || {};
 previewPlayer.icon_src = "d/capitalfm.com/img/player_icons.png";
 // used in drawImage method (sx, sy, sw, sh, dx, dy, dw, dh)
@@ -57,8 +74,27 @@ previewPlayer.rect_progress_bar_style = 'rgba(52, 0, 255, 0.2)';
 </head>
 <body class="js">
 <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js' : 'js');</script>
+<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+<script>
+window.fbAsyncInit = function() {
+FB.init({
+appId  : '184899318222048',
+status : true, // check login status
+cookie : true, // enable cookies to allow the server to access the session
+xfbml  : true, // parse XFBML
+channelUrl  : 'http://' + window.location.host + '/channel.html'  // custom channel
+});
+};
+(function() {
+var e = document.createElement('script');
+e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+e.async = true;
+document.getElementById('fb-root').appendChild(e);
+}());
+</script>
 <div id="page">
 <div id="header">
+<div id="header_inner">	
 <div id="site_title">
 <p>
 <a href="/">Capital FM</a>
@@ -69,7 +105,7 @@ previewPlayer.rect_progress_bar_style = 'rgba(52, 0, 255, 0.2)';
 if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
 document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2927506|0|225|ADTECH;loc=100;target=_blank;key=_article++article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 -->
-</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2927506|0|225|ADTECH;loc=100;target=_blank;key=_article++article+key4;grp=183;misc=1580350385627"></script>
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2927506|0|225|ADTECH;loc=100;target=_blank;key=_article++article+key4;grp=456;misc=1580350386367"></script>
 <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2927506|0|225|ADTECH;loc=300;key=_article++article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|2927506|0||ADTECH;loc=300;key=_article++article+key4;" width="1" height="1" alt=""></a></p></noscript></div>
 <!--[if lte IE 7]><div class="shim"></div><![endif]--> 
 
@@ -149,13 +185,13 @@ Events
 </a>
 </li>
 <li>
-<a href="/charity/">
-Charity
+<a href="/webchats/">
+Webchats
 </a>
 </li>
 <li>
-<a href="/summertime-ball/">
-Summertime Ball
+<a href="/jingle-bell-ball/">
+Jingle Bell Ball
 </a>
 </li>
 </ul>
@@ -168,7 +204,10 @@ Summertime Ball
 </form>
 </div>
 </div>
+</div>
 <div id="container">
+<div class="commercial" id="billboard">
+</div>
 <div id="megamodwrapper">
 <div id="left_column">
 <div id="sky1" class="commercial skyscraper">
@@ -177,42 +216,41 @@ Summertime Ball
 if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
 document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2927501|0|168|ADTECH;loc=100;target=_blank;key=_article++article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 -->
-</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2927501|0|168|ADTECH;loc=100;target=_blank;key=_article++article+key4;grp=183;misc=1580350385638"></script>
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2927501|0|168|ADTECH;loc=100;target=_blank;key=_article++article+key4;grp=456;misc=1580350386373"></script>
 <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2927501|0|168|ADTECH;loc=300;key=_article++article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|2927501|0||ADTECH;loc=300;key=_article++article+key4;" width="1" height="1" alt=""></a></p></noscript>
 </div>
 <div class="top5">
 <h2>Top 5</h2>
 <h3 class="chartbeat">Most Read</h3>
 <ul>
-<li class="first"><span class="nochange">1</span><a href="/summertime-ball/summertime-ball-frequently-asked-questions/">Summertime Ball Frequently asked questions</a></li>
-<li class="second"><span class="nochange">2</span><a href="/photos/music-photos/glamour-woman-year-2011/">Jessie J glams up for awards</a></li>
-<li class="third"><span class="up">3</span><a href="/artists/nicole-scherzinger/photos/graham-norton-filming/">Nicole Scherzinger arrives in UK!</a></li>
-<li class="fourth"><span class="up">4</span><a href="/artists/the-wanted/">The Wanted</a></li>
-<li class="fifth"><span class="down">5</span><a href="/artists/rihanna/photos/rihanna-loud-tour/">Rihanna's latest look</a></li>
+<li class="first"><span class="nochange">1</span><a href="/music-news/week-photos/11-11-11/">Photos Of The Week</a></li>
+<li class="second"><span class="up">2</span><a href="/artists/one-direction/videos/gotta-be-you/">One Direction - Gotta Be You</a></li>
+<li class="third"><span class="up">3</span><a href="/jingle-bell-ball/artists/">Jingle Bell Ball Line-Up</a></li>
+<li class="fourth"><span class="down">4</span><a href="/music-news/week-photos/pictures/">Photos Of The Week</a></li>
+<li class="fifth"><span class="down">5</span><a href="/artists/rihanna/news/new-song-you-da-one-listen/">Rihanna's New Song 'You Da One' Debuts - Listen To A Preview</a></li>
 </ul>
 <span class="comments_header"></span>
 <h3 class="comments">Comments</h3>
 <ul>
-<li class="first"><span class="up">1</span><a href="/summertime-ball/summertime-ball-frequently-asked-questions/">Summertime Ball Frequently asked questions</a></li>
-<li class="second"><span class="up">2</span><a href="/photos/red-carpet-photos/mtv-movie-awards/">MTV Movie Awards in pictures</a></li>
-<li class="third"><span class="up">3</span><a href="/photos/music-photos/glamour-woman-year-2011/jessie-j/">Jessie J glams up for awards</a></li>
-<li class="fourth"><span class="up">4</span><a href="/artists/chris-brown/news/teams-justin-bieber-new-vid/">Chris Brown teams up with Justin Bieber in new vid</a></li>
-<li class="fifth"><span class="up">5</span><a href="/artists/lady-gaga/photos/lady-gaga-fashion-icon/">Lady Gaga vamps it up at Fashion Awards</a></li>
+<li class="first"><span class="up">1</span><a href="/artists/the-wanted/videos/warzone/">The Wanted - Warzone</a></li>
+<li class="second"><span class="up">2</span><a href="/artists/the-wanted/photos/best-songs-2011/">The Wanted Present Favourite Songs Of 2011</a></li>
+<li class="third"><span class="down">3</span><a href="/events/mtv-emas/news/winners-list/">MTV EMA 2011: Winners List</a></li>
+<li class="fourth"><span class="up">4</span><a href="/scotland/events/livingston-christmas-switch/">Livingston Christmas Switch On</a></li>
+<li class="fifth"><span class="up">5</span><a href="/artists/one-direction/videos/gotta-be-you/">One Direction - Gotta Be You</a></li>
 </ul>
 <span class="likes_header"></span>
 <h3 class="likes">Likes</h3>
 <ul>
-<li class="first"><span class="up">1</span><a href="/artists/alexandra-stan/videos/mr-saxobeat/">Alexandra Stan - Mr. Saxobeat</a></li>
-<li class="second"><span class="up">2</span><a href="/artists/jls/news/start-rehearsals-capital-summertime-ball/">JLS start rehearsals for Capital Summertime Ball</a></li>
-<li class="third"><span class="up">3</span><a href="/photos/music-photos/glamour-woman-year-2011/">Jessie J glams up for awards</a></li>
-<li class="fourth"><span class="up">4</span><a href="/artists/lady-gaga/photos/lady-gaga-fashion-icon/">Lady Gaga vamps it up at Fashion Awards</a></li>
-<li class="fifth"><span class="up">5</span><a href="/artists/katy-b/news/looking-love-summertime-ball/">Katy B looking for love at Summertime Ball</a></li>
+<li class="first"><span class="up">1</span><a href="/artists/the-wanted/photos/new-album-battleground/">The Wanted Reveal Behind The Scenes Secrets Of New Album 'Battleground'</a></li>
+<li class="second"><span class="up">2</span><a href="/artists/the-wanted/news/thank-fans-extra-special-response-warzone/">The Wanted Thank Fans For "Extra Special" Response To 'Warzone'</a></li>
+<li class="third"><span class="up">3</span><a href="/artists/the-wanted/photos/best-songs-2011/">The Wanted Present Favourite Songs Of 2011</a></li>
+<li class="fourth"><span class="up">4</span><a href="/artists/the-wanted/news/jay-hijacks-james-barr/">The Wanted's Jay Hijacks James Barr's Show!</a></li>
+<li class="fifth"><span class="up">5</span><a href="/artists/the-wanted/videos/warzone/">The Wanted - Warzone</a></li>
 </ul>
 </div>
 </div>
 <div id="centre_column">
 <div id="eyebrow" style="display:none;" class="clearfix"></div>
-<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
 <div class="article">
 <div class="commercial sponsorship" id="sponsorship_advert">
 <script type="text/javascript">
@@ -220,7 +258,7 @@ document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="
 if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
 document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2927498|0|454|ADTECH;loc=100;target=_blank;key=_article++article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 -->
-</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2927498|0|454|ADTECH;loc=100;target=_blank;key=_article++article+key4;grp=183;misc=1580350385642"></script>
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2927498|0|454|ADTECH;loc=100;target=_blank;key=_article++article+key4;grp=456;misc=1580350386375"></script>
 <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2927498|0|454|ADTECH;loc=300;key=_article++article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|2927498|0||ADTECH;loc=300;key=_article++article+key4;" width="1" height="1" alt=""></a></p></noscript>
 </div>
 <h1>Global Radio Privacy Policy</h1>
@@ -368,6 +406,9 @@ We reserve the right to change our privacy policy and all changes will be posted
 <a href="/contact/">Contact Us</a>
 </li>
 <li>
+<a href="/jobs">Jobs at Capital</a>
+</li>
+<li>
 <a href="/about-us/">Company info</a>
 </li>
 <li>
@@ -381,6 +422,12 @@ We reserve the right to change our privacy policy and all changes will be posted
 </li>
 <li>
 <a href="/public-file/">Public File</a>
+</li>
+<li>
+<a href="/support/">Website Support</a>
+</li>
+<li>
+<a href="/accessibility/">Accessibility</a>
 </li>
 </ul>
 </div>
@@ -418,16 +465,7 @@ Discover more
 </h2>
 <ul>
 <li>
-<a href="/article-archive/">Article archive</a>
-</li>
-<li>
-<a href="/how-to-listen/">How to Listen</a>
-</li>
-<li>
-<a href="/support/">Website support</a>
-</li>
-<li>
-<a href="/accessibility/">Accessibility</a>
+<a href="/artists/adele/">Adele</a>
 </li>
 <li>
 <a href="/artists/rihanna/">Rihanna</a>
@@ -436,19 +474,22 @@ Discover more
 <a href="/artists/lady-gaga/">Lady Gaga</a>
 </li>
 <li>
-<a href="/artists/katy-perry/">Katy Perry</a>
-</li>
-<li>
 <a href="/artists/jls/">JLS</a>
 </li>
 <li>
-<a href="/artists/jay-z/">Jay-Z</a>
+<a href="/artists/the-wanted/">The Wanted</a>
 </li>
 <li>
-<a href="/artists/alexandra-burke/">Alexandra Burke</a>
+<a href="/article-archive/">Article Archive</a>
 </li>
 <li>
-<a href="/music-news/">Music News</a>
+<a href="/artists/one-direction/">One Direction</a>
+</li>
+<li>
+<a href="/artists/ed-sheeran/">Ed Sheeran</a>
+</li>
+<li>
+<a href="/artists/cheryl-cole/">Cheryl Cole</a>
 </li>
 </ul>
 </div>
@@ -501,7 +542,7 @@ $(this).attr('src', toReplace);
 if (window.adgroupid == undefined) {window.adgroupid = parseInt(Math.random() * 1000);}
 document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2927499|0|16|ADTECH;loc=100;target=_blank;key=_article++article+key4;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
 -->
-</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2927499|0|16|ADTECH;loc=100;target=_blank;key=_article++article+key4;grp=183;misc=1580350385706"></script>
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2927499|0|16|ADTECH;loc=100;target=_blank;key=_article++article+key4;grp=456;misc=1580350386382"></script>
 <noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2927499|0|16|ADTECH;loc=300;key=_article++article+key4;"><img src="http://adserver.adtech.de/adserv|3.0|646|2927499|0||ADTECH;loc=300;key=_article++article+key4;" width="1" height="1" alt=""></a></p></noscript></div>
 <!--[if gte IE 9]><script type="text/javascript" src="http://capital.gcstatic.com/d/capitalfm.com/js/pinned_site.js"></script><![endif]-->
 <!-- SiteCatalyst code version: H.20.2.
@@ -599,7 +640,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 })();
 </script>
 <script type="text/javascript">
-var _sf_async_config={uid:134,domain:"capitalfm.com"};
+var _sf_async_config={uid:134,domain:"capitalfm.com", 
+authors:"", sections:"capitalfm.com"};
 (function(){
 function loadChartbeat() {
 window._sf_endpt=(new Date()).getTime();
