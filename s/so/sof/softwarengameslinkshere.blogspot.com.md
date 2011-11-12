@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the softwarengameslinkshere.blogspot.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230031648id_/http%3A//softwarengameslinkshere.blogspot.com/2007/07/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwarengameslinkshere.blogspot.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112225102id_/http%3A//www.pcfreedownloadgames.net/2007/07/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Free Full Version Download Games & Buy Games
+# Privacy Policy - Free Full Version Games Download & Demo Games
 
 **Privacy Policy for softwarengameslinkehere.blogspot.com** **  
 **If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at nikhil_gupta5@yahoo.co.in.
