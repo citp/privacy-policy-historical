@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rustoleum.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515092403id_/http%3A//rustoleum.com/CBGCorporate.asp%3Fsn%3Dps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rustoleum.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112154552id_/http%3A//www.rustoleum.com/CBGCorporate.asp%3Fsn%3Dps) for the most accurate reproduction.*
 
 # Corporate
 
@@ -22,7 +22,7 @@ Our site uses cookies for internal reporting and to help keep track of your buyi
 
 Users will find contents on our sites that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. In many cases, the links represent cooperative projects or are mutual links established with persons or entities connected with our sites. Although we initially visit the sites or services that are so linked, we do not control the contents or links that appear on these sites. In addition, these sites or services, including their contents and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies or no policy (policies) at all. We encourage you to review the privacy policies of any third party sites or services before providing any of them with your personal information. 
 
-Rust-Oleum.com has developed an internal process to handle your questions on privacy. Questions can be addressed to Consumer Services Rust-Oleum, Inc., 11 Hawthorn Parkway, Vernon Hills, IL 60061 or you can phone (847) 816-2417. 
+Rust-Oleum.com has developed an internal process to handle your questions on privacy. Questions can be addressed to Consumer Services Rust-Oleum, Inc., 11 Hawthorn Parkway, Vernon Hills, IL 60061 or you can phone (877) 385-8155. 
 
 Rust-Oleum.com supports the work done by on-line industry trade associations in moving this issue forward and the efforts of the Online Privacy Alliance in pulling the business and public interest communities together in a meaningful dialogue. 
 
