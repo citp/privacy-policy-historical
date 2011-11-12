@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxaudit.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514212127id_/http%3A//taxaudit.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxaudit.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112104635id_/http%3A//www.taxaudit.com/privacy-statement) for the most accurate reproduction.*
 
 # TaxResources, Inc. Online Security and Privacy
 
