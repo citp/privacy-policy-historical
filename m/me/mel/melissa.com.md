@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melissa.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526183918id_/http%3A//www.melissadata.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melissa.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112143210id_/http%3A//www.melissa.com/privacy.htm) for the most accurate reproduction.*
 
 # Melissa Data Privacy Policy
 
