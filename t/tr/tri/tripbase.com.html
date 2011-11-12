@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tripbase.com privacy policy that was archived on 2011-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110523052538id_/http%3A//www.tripbase.com/mumboJumbo.do%3Ft%3DprivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tripbase.com privacy policy that was archived on 2011-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111112064700id_/http%3A//www.tripbase.com/mumboJumbo.do%3Ft%3DprivacyPolicy) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xml:lang="en" lang="en"><head>
     	<!--META HTTP-EQUIV="Refresh" CONTENT="0; URL=/triptoe/frame.do"-->
@@ -15,7 +15,7 @@
 
 
 		   
-<script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
 	function noop() {} 
 	
 	function tbencode(val) {
@@ -24,19 +24,19 @@
 	}
 </script> 
 
-<!-- 0.9.9 Production -->
+<!-- 1.0.2 Production -->
 
-<link rel="stylesheet" type="text/css" href="http://css.tripbase.com/triptoe/styles0.9.9/undohtml.css">
-			<link rel="stylesheet" type="text/css" href="http://css.tripbase.com/genlwcss.cssd?v=0.9.9">
-	<link rel="stylesheet" type="text/css" href="http://css.tripbase.com/generalcss.cssd?v=0.9.9">		
+<link rel="stylesheet" type="text/css" href="http://css.tripbase.com/triptoe/styles1.0.2/undohtml.css">
+			<link rel="stylesheet" type="text/css" href="http://css.tripbase.com/genlwcss.cssd?v=1.0.2">
+	<link rel="stylesheet" type="text/css" href="http://css.tripbase.com/generalcss.cssd?v=1.0.2">		
 
-<link rel="stylesheet" type="text/css" href="http://css.tripbase.com/triptoe/styles0.9.9/yui.css">
-<link rel="StyleSheet" href="http://css.tripbase.com/triptoe/styles0.9.9/communityBox.css" type="text/css" media="screen">
+<link rel="stylesheet" type="text/css" href="http://css.tripbase.com/triptoe/styles1.0.2/yui.css">
+<link rel="StyleSheet" href="http://css.tripbase.com/triptoe/styles1.0.2/communityBox.css" type="text/css" media="screen">
 
 
 
 <!--[if IE 7]>
-	<link rel="stylesheet" type="text/css" href="http://css.tripbase.com/triptoe/styles0.9.9/ieHacks-7.css" />
+	<link rel="stylesheet" type="text/css" href="http://css.tripbase.com/triptoe/styles1.0.2/ieHacks-7.css" />
 <![endif]-->
 
 
@@ -46,7 +46,7 @@
 	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
 	<script type="text/javascript" src="http://js.tripbase.com/triptoe/js/jquery/jquery.cookie.js"></script>
 
-        	<script type="text/javascript" src="http://js.tripbase.com/triptoe/js/lightweight/fulljs-cp-0.9.9.js?v=1.15"></script>
+        	<script type="text/javascript" src="http://js.tripbase.com/triptoe/js/lightweight/fulljs-cp-1.0.2.js?v=1.15"></script>
     			
 	
 
@@ -79,6 +79,7 @@
         	<div id="general-header">
 				
 
+
 <div id="header-actual" class="gen-header not-logged-in">
 	<a href="/" class="logo">  
 					<img height="41px" width="143px;" src="/triptoe/images/generator/common/Tripbase-logo-smaller-nb.png" border="0" style="margin-top:10px;cursor:pointer;">
@@ -88,30 +89,28 @@
 	</div>  
 	<div class="right" style="height: 60px;"> 
 		<div style="text-align:right;margin-top:0px;">
-							<a class="headerLink" onclick="dojo.tripbase.getPage('/editSignup.do')">Register for free</a>
-				<span style="padding-left:5px;padding-right:5px;"> | </span> 
-        		<script>
-					
+			        		<script>
+					var url = null;
 					if (location.href.indexOf("j_security_check") > -1)
 					{
-						var url = '/secure/login.do?msg=bm&retUrl='+tbencode("/");
-						document.write("<a onclick='dojo.tripbase.getPage(url)' class='headerLink' >Sign In</a>");
+						url = '/secure/login.do?msg=bm&retUrl='+tbencode("/");						
 					}	
 					else
 					{
 						if (location.href.indexOf("retUrl") > -1)
-							var url = location.href;
+							url = location.href;
 						else
-							var url = '/secure/login.do?msg=bm&retUrl='+tbencode(location.href);
-
-						document.write("<a onclick='dojo.tripbase.getPage(url)' class='headerLink'>Sign In</a>");						
+							url = '/secure/login.do?msg=bm&retUrl='+tbencode(location.href);
 					}	
-        		</script><a onclick="dojo.tripbase.getPage(url)" class="headerLink">Sign In</a>
+					
+					document.write("<a onclick='dojo.tripbase.getPage(url)' class='headerLink' >Register for free</a>");
+					document.write("<span style='padding-left:5px;padding-right:5px;'> | </span>");
+					document.write("<a onclick='dojo.tripbase.getPage(url)' class='headerLink' >Sign In</a>");
+    		</script><a onclick="dojo.tripbase.getPage(url)" class="headerLink">Register for free</a><span style="padding-left:5px;padding-right:5px;"> | </span><a onclick="dojo.tripbase.getPage(url)" class="headerLink">Sign In</a>
 				<span style="padding-left:5px;padding-right:5px;"> | </span>
 				<a class="headerLink" onclick="dojo.tripbase.getPage('/help.do')">Help</a>
-				
-					</div>
-		<div style="width:300px;padding-top:14px;clear:both;float:right;" class="topSeachBox">
+									</div>
+		<div style="width:300px;padding-top:8px;clear:both;float:right;" class="topSeachBox">
 			<div> 
 				<script>
 					var text= "destination search ";
@@ -121,7 +120,7 @@
 						Search
 					</button>
 				</div>
-				<div style="float:right;padding-top:3px;padding-right:5px;">
+				<div style="float:right;padding-top:5px;padding-right:5px;">
 															<input type="text" id="searchBox" value="destination search " style="width:127px;//width:132px;font-size:12px;font-weight:300;color:#999999;height:18px;border:1px solid #999999;" onclick="if (this.value == text){this.value='';this.style.color='#000000';}" onkeyup="if (dojo.tripbase.isEnter(event)){if (dojo.tripbase.searchPage) {dojo.tripbase.genWid.doSearch(dojo.byId('searchBox').value);} else {location.href='/search.do?q='+dojo.byId('searchBox').value;}}; return false;">
 				</div>
 			</div>
@@ -134,7 +133,7 @@
 
  			</div>
 			
-	<div style="width:960px;height:25px;background: #025e91;margin-top:5px;margin-bottom:0px;" class="mainSiteNav">
+	<div id="navigation-tabs-div" style="width:960px;height:25px;background: #025e91;margin-top:5px;margin-bottom:0px;" class="mainSiteNav">
     	<div class="navLeft"></div>
     	
     	    	    	<div class="navElement"><a href="/" class="navElementLink">Home</a> | </div>
@@ -179,7 +178,9 @@
     	<input type="hidden" id="savedJsActionId" value="$jsactionId">
     
     </div>
+
 <div style="clear:both"></div>
+
 		
         	<div id="contents">
 				<h1 style="font-size:20px; font-weight:600; padding-left:30px;">Tripbase.com Privacy Policy</h1>
@@ -510,95 +511,9 @@ embed"><span style="font-size:10.0pt;line-height:150%;font-family:Arial">&nbsp;<
 			
 			<div id="footer" class="footerTank">   			 
 				<div style="clear:both"></div>
-	
-<script type="text/javascript">/*<![CDATA[*/ dojo.tripbase.addEventListener(window, "load", function(){dojo.tripbase.showNewsletter();}); /*]]>*/</script> 
+<!-- 31/08/2011 temporary GOOGLE-CHANGE -->
 
-<link rel="StyleSheet" href="http://css.tripbase.com/triptoe/styles0.9.9/newslettersignup.css" type="text/css" media="screen">
-  
-<script>
-	function changeNewsletter(className)
-	{
-		var tripbase_window = document.getElementById('tripbase_window');
-		
-		if(typeof tripbase_window != "undefined" && tripbase_window != null)
-		{
-			document.getElementById('newsletterSignupContainer').className = className;
-			tripbase_window.className ="newslettersignup"+className; 
-		}	
-	}
-	
-	function closeNewsletter( )
-	{
-		document.getElementById('tripbase_window').style.display ='none';
-		document.getElementById('tripbase_overlay').style.display ='none'; 
-		dojo.tripbase.hideNewsletter(false);
-	}
-	
-	function openNewsletter( )
-	{
-	
-		var width = screen.width
-		
-		var tripbase_window = document.getElementById('tripbase_window');
-		if(typeof tripbase_window != "undefined" && tripbase_window != null)
-		{
-			document.getElementById('tripbase_overlay').style.display='block';
-			document.getElementById('tripbase_overlay').style.width = width+'px';
-			document.getElementById('tripbase_window').style.display='block'; 
-			window.pageTracker._trackPageview('/shownewsletter');
-		}
-		
-	}
-		
-	</script>
-<style>
-#tripbase_window
-{
-	display:none;
-}
-</style>
-	        
-<div id="tripbase_overlay" class="tripbase_overlayBG" style="display:none;"></div>    
-
-<div id="tripbase_window" class="newslettersignuplifestyle">  
- <div class="newslettersignup">
-  <div id="newsletterSignupContainer" class="lifestyle">
-	<div class="newsletterHeaderContainer">
-		<span class="newsletterHeader"> Get The Tripbase Top Deals Newsletter</span>
-		<div class="newsletterCloseBtn" onclick="closeNewsletter()"></div>	  
-	</div>
-	<div class="newsletterInfoContainer">       
-		<div>
-			<span class="newsletterSubHeader">Never miss a great travel deal again!</span> 
-		</div>			
-		<div style="padding-top:15px; width:250px">  
-			<form action="http://tripbase.list-manage.com/subscribe/post" method="POST">
-			<input type="hidden" name="u" value="601d5afd623404742c4994855">
-			<input type="hidden" name="id" value="53a034c7d5">	
-			<div style="padding-bottom:13px;">  
-				<span class="newsletterFormHeaders">Email address:</span><br>
-				<input type="text" name="MERGE0" value="" class="newsletterInputFields">
-			</div>
-			<div>
-				<span class="newsletterFormHeaders">Zip code:</span><br>
-				<input type="text" name="MERGE4" value="" class="newsletterInputFields">
-			</div>	
-			<div style="padding-top:20px; height:28px;"> 
-				<div style="width:170px; float:left;">
-					<input type="submit" value="I want great deals" onclick="dojo.tripbase.hideNewsletter(true);" style="width:153px;font-size:16px;pointer:cursor;">
-				</div>	 
-				<div style="padding-top:5px;//padding-top:3px;">           
-					<a class="noThanks" href="javascript://" onclick="dojo.tripbase.hideNewsletter(true);">No Thanks</a>
-				</div>	
-				<div style="clear:both"></div>	
-			</div>	
-			</form>
-		</div>
-	</div>
-  </div>
- </div>  
-</div>	
- 
+	 
 
  
 <script>
@@ -732,113 +647,8 @@ embed"><span style="font-size:10.0pt;line-height:150%;font-family:Arial">&nbsp;<
 
 		</div>
 		
-			
-					
-<div id="calContainer" style="display:none;position:absolute;left:0px;top:0px;z-index:1000;width:386px;"></div>
- 
-<script type="text/javascript">
-	var currentlyShowingCalInput = null;
-	var dependantDateField = null 
-	var onSelectFn = null
-	function showCal(ielem, title, fromDate, toDateField, fn) {
-		currentlyShowingCalInput = null;
-		dependantDateField = null;
-		onSelectFn = null;
 		
-		if (typeof dojo.tripbase.calendar == "undefined") return; 
-
-		if (typeof title != "undefined" && title != null && title != "")
-			dojo.tripbase.calendar.cfg.setProperty("title", title); 
-		
-		if (typeof fromDate != "undefined" && fromDate != null && fromDate != "" && fromDate.indexOf("mm") == -1) {
-			dojo.tripbase.calendar.cfg.setProperty("mindate", fromDate); 
-			var spl = fromDate.split("/");
-			dojo.tripbase.calendar.cfg.setProperty("pagedate", spl[0]+"/"+spl[2]); 
-		} else { 
-			var now = new Date(); 
-			dojo.tripbase.calendar.cfg.setProperty("mindate", now); 
-			
-   			var pageDate = (now.getMonth() + 1) + "/" + now.getFullYear();   
-			if (ielem.value != "") {
-				var spl = ielem.value.split("/");
-    			pageDate = spl[0]+"/"+spl[2];   
-			}
-			
-   			dojo.tripbase.calendar.cfg.setProperty("pagedate", pageDate); 
-		}
-		
-		if (ielem.value != "") 
-			dojo.tripbase.calendar.select(ielem.value);
-
-		dojo.tripbase.calendar.render();
-		
-		currentlyShowingCalInput = ielem;
-		dependantDateField = toDateField;
-		onSelectFn = fn;
-				
-		var calContainer = dojo.byId("calContainer");
-		
-		var pos = dojo.html.getAbsolutePosition(ielem, true);
 	
-		calContainer.style.left = pos.x + "px";
-		calContainer.style.top = (pos.y + ielem.offsetHeight)+ "px";
-		calContainer.style.display = "";
-	}
-	
-    function handleSelect(type, args, obj) {
-		if (currentlyShowingCalInput == null) return;
-		var dates = args[0];
-		var date = dates[0];
-		var year = date[0], month = date[1], day = date[2];
-		currentlyShowingCalInput.value = month + "/" + day + "/" + year;
-		if (dependantDateField != null) {
-			var fromDate = new Date(); 
-			fromDate.setFullYear(year, Number(month)-1,  day);
-			var millis = fromDate.getTime(); 
-			
-			// Check if its before start date.
-			var toDateStr = dependantDateField.value;
-			var spl = toDateStr.split("/");
-			var currToDate = new Date();
-			currToDate.setFullYear(spl[2], Number(spl[0])-1,  spl[1]);
-			if (currToDate.getTime() <= millis) { 
-    			var toDate = new Date();
-    			toDate.setTime(millis+(7*24*60*60*1000));
-    			dependantDateField.value = (toDate.getMonth()+1) + "/" + toDate.getDate() + "/" + toDate.getFullYear();
-			}
-		}
-		
-		if (onSelectFn != null) {
-			onSelectFn();
-		}
-
-		dojo.html.hide("calContainer");
-		if (typeof currentlyShowingCalInput.onchange == "function"){
-			currentlyShowingCalInput.onchange();
-		}
-	}
-//	YAHOO.namespace("example.calendar");
-
-	calendarInit = function() {
-		dojo.tripbase.calendar = new YAHOO.widget.CalendarGroup("cal","calContainer", 																
-																{title:"Please select a date:", 
-																 close:true,
-																 mindate: new Date(),
-																 PAGES:2});
-																 
-/*
-		YAHOO.example.calendar.cal1.addRenderer("2/1/2008-2/7/2008", YAHOO.example.calendar.cal1.renderCellStyleHighlight1);
-*/
-														 
-		dojo.tripbase.calendar.selectEvent.subscribe(handleSelect, dojo.tripbase.calendar, true);
-		dojo.tripbase.calendar.render();
-
-//		YAHOO.util.Event.addListener(["selMonth","selDay","selYear"], "change", updateCal);
-	}
-
-	YAHOO.util.Event.onDOMReady(calendarInit);
-</script>
-				
 
 			</div> 						
 		</div>
@@ -847,19 +657,35 @@ embed"><span style="font-size:10.0pt;line-height:150%;font-family:Arial">&nbsp;<
 
 	   <!-- RIGHT ADVERTISMENT -->
 		
-		<script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-    <script type="text/javascript">
-    var pageTracker = _gat._getTracker("UA-1800020-1");
-    pageTracker._initData();
-    pageTracker._trackPageview();
-</script>
+		
+
+
+                	
 	
+            	<script type="text/javascript">
+	
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-1800020-1']);
+        _gaq.push(['_trackPageview']);
+        
+        (function() {
+          var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+          ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+	  
+    </script>
 
 
-						
+
+
+
+
+
+
+			
+
+			
 		
 		<input type="hidden" id="lrq_ido_prq" value="">
     
