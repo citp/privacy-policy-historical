@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the communityofsweden.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513210916id_/http%3A//www.communityofsweden.com/footer/editorial/community-of-sweden/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the communityofsweden.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112075831id_/http%3A//www.communityofsweden.com/footer/editorial/community-of-sweden/privacy) for the most accurate reproduction.*
 
 # 
 
