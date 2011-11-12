@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pumaswede.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524212936id_/http%3A//pumaswede.com/MCE/ps/0/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pumaswede.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112120610id_/http%3A//www.pumaswede.com/MCE/ps/0/privacy) for the most accurate reproduction.*
 
 # PumaSwede.com :: Privacy Policy
 
