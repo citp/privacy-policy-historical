@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecommhub.com privacy policy that was archived on 2010-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101017003823id_/http%3A//ecommhub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecommhub.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112143921id_/http%3A//ecommhub.com/privacy) for the most accurate reproduction.*
 
-# Drop-shipping integration with your existing online e-commerce store | eCommHub
+# Privacy Policy | eCommHub
 
 Novus Commerce collects e-mail addresses of people who send us e-mail. We also collect information on what pages users access and information provided to us by users via surveys and site registrations. Such information may contain personal data about you including your address, phone numbers, credit card numbers etc. We are not allowed to disclose such personal information without your written permission. However, certain information collected from you and about you is used within the context of providing the Service. The information we collect is not shared with or sold to others except under the certain circumstances and which your use of the Service is deemed to provide to us a valid consent to disclose the following:
 
