@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the golfgalaxy.com privacy policy that was archived on 2010-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101210193718id_/http%3A//www.golfgalaxy.com/safety_security_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfgalaxy.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112224454id_/http%3A//www.golfgalaxy.com/safety_security_privacy.aspx) for the most accurate reproduction.*
 
-# Safety, Security & Privacy at Golf Galaxy - All Golf, All the Time
+# Safety, Security & Privacy at Golf Galaxy
 
 ## Please Read This Privacy Statement Carefully
 
@@ -62,12 +62,24 @@ This Web site is designed for an adult audience only, and children should not us
 
 You may decide to have promotional text messages sent directly to your mobile device. This program is completely voluntary, and messages will be sent to you only if you have opted in to receive them. Message and data rates may apply. If you have errantly received a marketing text message without opting in to the program, or if you wish to opt out of receiving text messages, you can remove yourself from the program by either:
 
-  * texting "STOP" to 453499; or
-  * contacting Customer Service by email at [customer.service@dcsg.com](mailto:customer.service@dcsg.com) or by phone at 1.877.846.9997
+  * **texting "STOP" to 453499; or**
+  * **contacting Customer Service by email at[customerservice@golfgalaxy.com](mailto:customer.service@dcsg.com) or by phone at 1 (800) 287-9060**
 
 
 
 You will need to provide your mobile phone number in order to be removed from the program. It may take up to 10 days to process your stop request. You may receive additional text messages from Golf Galaxy during this time. Golf Galaxy respects your privacy and your mobile number will only be used in this text message program by Golf Galaxy and its third party marketing partners administering this program on Golf Galaxy’s behalf as set forth above.
+
+## California Privacy Rights
+
+If you are a California resident and Golf Galaxy ("GGXY") customer you have the right to request information from GGXY regarding the manner in which GGXY shares certain categories of your personal information with third parties, for the third parties' direct marketing purposes. California law provides that you have the right to submit a request to GGXY at its designated address and receive the following information:
+
+  1. The categories of information GGXY disclosed to third parties for the third parties' direct marketing purposes during the preceding calendar year;
+  2. The names and addresses of third parties that received such information; and
+  3. If the nature of a third party's business cannot be reasonably determined from the third party's name, examples of the products or services marketed.
+
+
+
+You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. GGXY designated email address for such requests is [caprivacy@dcsg.com](mailto:caprivacy@dcsg.com)
 
 ##  How To Contact Us?
 
