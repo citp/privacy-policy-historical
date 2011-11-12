@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucf.edu privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529123533id_/http%3A//www.ucf.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucf.edu privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113001244id_/http%3A//www.ucf.edu/privacy) for the most accurate reproduction.*
 
 # University of Central Florida: Privacy
 
@@ -14,4 +14,4 @@ If members of the general public choose to share personal information with us by
 
 Under current Florida and Federal law, certain personal student information is made available on the main Web site except for those students who elect to have their information suppressed from this site. Such students should read the instructions on the page ["Privacy of Student Information on the UCF Web Site"](https://web.archive.org/policy/privacy.shtml).
 
-If you have questions about UCF's Internet Privacy Policy, please feel free to email us at [web@mail.ucf.edu](mailto:web@mail.ucf.edu) or contact us by telephone at 407-823-0460.
+If you have questions about UCF's Internet Privacy Policy, please feel free to email us at [web@mail.ucf.edu](mailto:web@mail.ucf.edu) or contact us by telephone at 407-823-5117.
