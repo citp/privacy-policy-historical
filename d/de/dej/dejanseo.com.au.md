@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dejanseo.com.au privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623085040id_/http%3A//dejanseo.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dejanseo.com.au privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112104123id_/http%3A//dejanseo.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Dejan SEO Privacy Policy | DEJAN SEO
 
@@ -75,7 +75,7 @@ This policy was last modified on 10th January 2011
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may [contact us](http://dejanseo.com.au/contact-us/ "contact us") using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 [dejanseo.com.au](http://dejanseo.com.au/)  
 Suite D2, 1 Clunies Ross Court, BTP Conference Centre Building, Brisbane Technology Park  
