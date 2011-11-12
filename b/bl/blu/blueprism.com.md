@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueprism.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315223415id_/http%3A//www.blueprism.com/contact/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueprism.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112185556id_/http%3A//www.blueprism.com/contact/privacy.php) for the most accurate reproduction.*
 
 # Blue Prism - Contact Us - Privacy Policy
 
