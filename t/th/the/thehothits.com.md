@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehothits.com privacy policy that was archived on 2011-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110216094459id_/http%3A//www.thehothits.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehothits.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112153004id_/http%3A//www.thehothits.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - The Hot Hits Live from LA
 
