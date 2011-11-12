@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chapter7.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629182751id_/http%3A//www.chapter7.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chapter7.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112195942id_/http%3A//www.chapter7.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chapter 7 Bankruptcy
 
-## Last Updated: January 2010
+## Last Updated: August 2011
 
-All of the information we obtain about you is stored securely on our servers and we use it only to evaluate your situation and provide the services described in our [Terms and Conditions](http://www.chapter7.com/terms-conditions/) to you, to allow participating lawyers or law firms to evaluate your case and provide legal services to you and to provide ongoing communications to you in furtherance of these legal services, and as set forth below. Except as set forth below, we will not share your personal information with anyone else without your permission. Any third party to whom we provide your information must agree to keep your information confidential and not to share it with any other third party without your permission. We describe our information collection and disclosure practices in greater detail below.
+All of the information we obtain about you is stored securely on our servers and we use it only to identify the sponsoring lawyers or law firms in your geographical area and to connect you with them, as described in our [Terms and Conditions](http://www.chapter7.com/terms-conditions/) to you, to allow sponsoring lawyers or law firms to evaluate your case and provide legal services to you and to provide ongoing communications to you in furtherance of these legal services, and as set forth below. Except as set forth below, we will not share your personal information with anyone else without your permission. Any third party to whom we provide your information must agree to keep your information confidential and not to share it with any other third party without your permission. We describe our information collection and disclosure practices in greater detail below.
 
 As a service to our customers, we may periodically send newsletters and other communications with information and offers we think may interest you. If you do not want to receive these offers, you may opt out at any time by following the Opt-Out Instructions, below.
 
@@ -24,8 +24,11 @@ We collect personal information about you in three principal ways: (1) informati
 
 All of the information we obtain about you is stored securely on our servers and we use it only for the following purposes:
 
-  * to evaluate your situation and provide the services described in our [Terms and Conditions](http://www.chapter7.com/terms-conditions/) to you,
-  * to allow participating lawyers or law firms to evaluate your case and provide legal services to you
+  * to identify the sponsoring lawyers or law firms in your geographical area and to connect you with them, as described in our [Terms and Conditions](http://www.chapter7.com/terms-conditions/)
+  * to allow sponsoring lawyers or law firms to evaluate your case and provide legal services to you
+  * to provide ongoing communications to you in furtherance of these legal services and to share 
+  * information and offers that we think may interest you
+  * to perform research on access to and consumption of legal services, and 
   * to evaluate your experience on our site and make improvements to it.
 
 
@@ -34,7 +37,7 @@ All of the information we obtain about you is stored securely on our servers and
 
 Except as set forth below, we will not share your personal information with any outside parties without your permission. Any third party to whom we provide your information must agree to keep your information confidential and not to share it with any other third party without your permission. These are the outside parties with whom we share your information:
 
-  1. **Participating Lawyers and Law Firms:** To provide the service offered through this Website, we will forward your information to the lawyer or law firm identified when you complete our form and request a consultation in order for them to contact you, to evaluate your needs, and to determine whether to represent you. When you submit your request, you consent to release of your information to that lawyer or law firm. As part of this process, the lawyer or law firm agrees to keep your information confidential and agree not to share it with any third party without your express permission.
+  1. **Participating Lawyers and Law Firms:** To provide the service offered through this Website, we will forward your information to the lawyers or law firms identified when you complete our form and request a consultation in order for them to contact you, to evaluate your needs, and to determine whether to represent you. When you submit your request, you consent to release of your information to those lawyers or law firms. As part of this process, the lawyers and law firms agrees to keep your information confidential and agree not to share it with any third party without your express permission.
   2. **Legal and Government Authorities:** We will disclose your information to proper authorities when we have a good-faith belief that such action is necessary to comply with applicable laws, valid legal process, a court order, a current judicial proceeding, or to protect our rights or property.
   3. **Other Parties:** We may also provide aggregate statistical information that does not personally identify you (such as the city or state you live in) to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes. We will not, however, disclose any personally identifiable information about you to these parties.
 
