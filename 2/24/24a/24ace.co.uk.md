@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 24ace.co.uk privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427184230id_/http%3A//www.24ace.co.uk/ss/help/help.jsp%3Fpage%3Dterms%26part%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24ace.co.uk privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112142221id_/http%3A//www.24ace.co.uk/ss/help/help.jsp%3Fpage%3Dterms%26part%3Dprivacy) for the most accurate reproduction.*
 
 # Ace catalogue home shopping - toys, gifts, games, home & discount clothing
 
@@ -26,7 +26,10 @@
 
 (vii) By using our site you consent to the collection, retention and use of this information by Express Gifts Limited. Any changes to our privacy policy will be notified on this page. 
 
-(viii) We work with third-party data analytics and advertising companies. Some of these companies may use anonymous information (but they do not collect or use any personally identifiable information) about your visits to this and other websites in order to provide advertisements or provide data based on which we may provide advertisements about goods and services of interest to you. Learn more about this practice or about your choice to opt-out of this practice: [Crimtan privacy policy & opt-out](http://www.crimtan.com/uk/privacy.html), [Struq privacy policy & opt-out](http://www.struq.com/privacy_policy.html), [Criteo privacy policy & opt-out](http://www.criteo.com/en/privacy-policy), [Google privacy policy & opt-out](http://www.google.co.uk/intl/en/privacy/), [AddThis privacy policy & opt-out](http://www.addthis.com/privacy), [Coremetrics privacy policy & opt-out](http://coremetrics.com/company/privacy.php). 
+(viii) We work with third-party data analytics and advertising companies. Some of these companies may use anonymous information (but they do not collect or use any personally identifiable information) about your visits to this and other websites in order to provide advertisements or provide data based on which we may provide advertisements about goods and services of interest to you. Learn more about this practice or about your choice to opt-out of this practice: [Struq privacy policy & opt-out](http://www.struq.com/privacy_policy.html), [Criteo privacy policy & opt-out](http://www.criteo.com/en/privacy-policy), [Google privacy policy & opt-out](http://www.google.co.uk/intl/en/privacy/), [AddThis privacy policy & opt-out](http://www.addthis.com/privacy), [Coremetrics privacy policy & opt-out](http://coremetrics.com/company/privacy.php). 
+
+For more information about cookies and how to control which cookies you allow, visit [www.allaboutcookies.org/ new window](http://www.allaboutcookies.org/).   
+For more information about behavioural advertising, visit [www.youronlinechoices.com/uk/ new window](http://www.youronlinechoices.com/uk/). 
 
   
 24ace is a trading style of Express Gifts Ltd.   
