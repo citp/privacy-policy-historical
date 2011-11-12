@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epic.org privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620054830id_/http%3A//epic.org/epic/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epic.org privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112072137id_/http%3A//epic.org/epic/privacy_policy.html) for the most accurate reproduction.*
 
 # EPIC - Privacy Policy
 
