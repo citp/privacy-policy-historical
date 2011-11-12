@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psi.org privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612014854id_/http%3A//www.psi.org/privacy-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psi.org privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112225908id_/http%3A//www.psi.org/privacy-policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PSI
 
