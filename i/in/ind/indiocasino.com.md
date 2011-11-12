@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiocasino.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513072847id_/http%3A//www.indiocasino.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiocasino.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112181224id_/http%3A//www.indiocasino.com/privacy.php) for the most accurate reproduction.*
 
-# Welcome to Indio Casino
+# Indio Casino – Privacy Statement
 
 **Indio Casino** and its subsidiaries are committed to respecting and protecting your privacy. The following statement discloses the information gathered by the Indio Casino.
 
