@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenweddingshoes.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513232401id_/http%3A//greenweddingshoes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenweddingshoes.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112051130id_/http%3A//greenweddingshoes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Green Wedding Shoes Wedding Blog | Wedding Trends for Stylish + Creative Brides
 
