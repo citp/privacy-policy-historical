@@ -1,30 +1,43 @@
-> *The following text is extracted and transformed from the smartsmssolutions.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102005301id_/http%3A//smartsmssolutions.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsmssolutions.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112094937id_/http%3A//smartsmssolutions.com/privacy) for the most accurate reproduction.*
 
-# Smart SMS Solutions
+# Privacy Policy | SmartSMSSolutions
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible)
+At SmartSMSSolutions we recognize that your privacy is important. Our goal is to maintain the trust of our users and others who visit our web sites. This document outlines our practices with respect to **Protection of Database Information** and **Disclosure of Your Information**.
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+Below is information regarding SmartSMSSolutions' commitment to protect the privacy of users:
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes, , disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the Website.
+1\. A user's phonebook, message content and MSISDN's sent to belong exclusively to that user, and will not be disclosed to any third parties without the user's written permission.
 
-With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart.
+2\. Any recipient of any message has the right to know the identity of the sender, and this will be disclosed on request to the recipient should such be requested.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number.
+3\. By using this web site the User consents to the following regarding user contact information: (user contact information refers only to that information supplied when a user registers, and excludes all other information such as phonebook content and message history.):
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
+3.1 SmartSMSSolutions may use a user’s contact information to communicate with the user from time to time. Users may indicate if they do not wish to receive such communications;
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+3.2 SmartSMSSolutions may use user's contact information for non-personal statistical purposes.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address, calling us at the above telephone number.
+### Protection of Database Information
 
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them.  
-Consumers can access this information by e-mail us at the above address, write to us at the above address.
+Any information sent to SmartSMSSolutions for text messaging and or storage purposes will remain the property of the account holder. SmartSMSSolutions will at no time collect, redistribute or sell this information, except where legally required by law to do so. This is with particular reference to any database, numbers and/or recipient details that you may deliver to us, or store on our databases.
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
+### Disclosure of Your Information
 
-Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number.
+We do not sell or rent any personally identifiable information about you to any third party. Except as disclosed in this privacy policy, SmartSMSSolutions does not share your personal information with any outside parties.
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+We may share your personal information with service providers who perform services on our behalf. For example, we may hire other companies to handle the processing of payments, to provide data storage, to host websites, to fulfill orders and shipments, to assist in direct marketing, to conduct audits, etc.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+Those companies will be permitted to obtain only the personal information they need to provide the service. They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose.
+
+Information about our customers, including personal information, may be disclosed as part of any merger, acquisition, or sale of the company and/or its assets, as well as in the unlikely event of insolvency, bankruptcy, or receivership, in which personal information would be transferred as one of the business assets of the company.
+
+We reserve the right to disclose your personal information if required to do so by law, or in the good-faith belief that such action is reasonably necessary to comply with legal process, respond to claims, or protect the rights, property or safety of our company, employees, customers, or the public.
+
+### Limits On Our Abilities
+
+Although your privacy is our top priority, due to the existing statutory, legal and technical environment, we are unable to ensure that personally identifiable information of our Users will not be disclosed to third parties in ways that are not described in this policy.
+
+Additionally, we may (and here you give us authorization to) disclose any private information about you to private entities, law enforcement or other government officials, which we may believe to be necessary at our sole discretion or appropriate to address or to resolve inquiries or problems. We undertake that this will not be done for commercial purposes or for our personal gain.
+
+Though SmartSMSSolutions maintains highest standard of privacy policy, this is independent of third party service provider(s) that may have access to user data such as but not limited to Internet Service Providers (ISP), international SMS Gateway and Routing Provider(s) and local mobile operators.
+
+### Acceptance
