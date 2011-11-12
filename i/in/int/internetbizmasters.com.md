@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetbizmasters.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514175119id_/http%3A//www.internetbizmasters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetbizmasters.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112134016id_/http%3A//www.internetbizmasters.com/privacy-policy) for the most accurate reproduction.*
 
 # Internet Biz Masters Privacy Policy | Internet Biz Masters
 
@@ -35,5 +35,4 @@ _Email: contact@internetbizmasters.com_
 
 **_Changes to this Policy_**
 
-_InternetBizMasters.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected._  
-
+_InternetBizMasters.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected._
