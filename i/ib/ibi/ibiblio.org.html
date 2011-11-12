@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ibiblio.org privacy policy that was archived on 2011-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110629120321id_/http%3A//www.ibiblio.org/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ibiblio.org privacy policy that was archived on 2011-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111112021716id_/http%3A//www.ibiblio.org/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -9,7 +9,10 @@
     <link rel="alternate" type="application/rss+xml" href="http://www.ibiblio.org/feed/" title="ibiblio latest posts">
     <link rel="alternate" type="application/rss+xml" href="http://www.ibiblio.org/comments/feed/" title="ibiblio latest comments">
     <link rel="pingback" href="http://www.ibiblio.org/cms/xmlrpc.php">
-    	<link rel="archives" title="June 2011" href="http://www.ibiblio.org/archive/2011/06/">
+    	<link rel="archives" title="November 2011" href="http://www.ibiblio.org/archive/2011/11/">
+	<link rel="archives" title="October 2011" href="http://www.ibiblio.org/archive/2011/10/">
+	<link rel="archives" title="September 2011" href="http://www.ibiblio.org/archive/2011/09/">
+	<link rel="archives" title="June 2011" href="http://www.ibiblio.org/archive/2011/06/">
 	<link rel="archives" title="May 2011" href="http://www.ibiblio.org/archive/2011/05/">
 	<link rel="archives" title="April 2011" href="http://www.ibiblio.org/archive/2011/04/">
 	<link rel="archives" title="March 2011" href="http://www.ibiblio.org/archive/2011/03/">
@@ -34,8 +37,7 @@
         </script>
     <![endif]-->
 
-    <link rel="alternate" type="application/rss+xml" title="ibiblio » Privacy Policy Comments Feed" href="http://www.ibiblio.org/about/privacy/feed/">
-<link rel="stylesheet" id="contact-form-7-css" href="http://www.ibiblio.org/cms/wp-content/plugins/contact-form-7/styles.css?ver=2.4.5" type="text/css" media="all">
+    <link rel="stylesheet" id="contact-form-7-css" href="http://www.ibiblio.org/cms/wp-content/plugins/contact-form-7/styles.css?ver=2.4.5" type="text/css" media="all">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.ibiblio.org/cms/wp-includes/js/l10n.js?ver=20101110"></script>
 <script type="text/javascript" src="http://www.ibiblio.org/cms/wp-includes/js/jquery/jquery.js?ver=1.4.4"></script>
 <script type="text/javascript" src="http://www.ibiblio.org/cms/wp-content/themes/ibiblio/js/carrington.js?ver=1.0"></script>
@@ -227,7 +229,7 @@ var _wpcf7 = { cached: 1 };
 			*/
 			Event.observe(window,'load',function faq_build_on_load() { faq_build_populate_autofill(); });
 		</script>
-	
+	<link rel="stylesheet" type="text/css" href="http://www.ibiblio.org/cms/wp-content/plugins/wp-recaptcha/recaptcha.css">
 <link rel="stylesheet" type="text/css" media="screen" href="http://www.ibiblio.org/cms/wp-content/themes/ibiblio/carrington-core/lightbox/css/thickbox.css">
         
 <script type="text/javascript">
@@ -389,6 +391,14 @@ window.google_analytics_uacct = "UA-330438-1";
     </div><!--#page-->
     <script type="text/javascript" src="http://www.ibiblio.org/cms/wp-content/plugins/contact-form-7/jquery.form.js?ver=2.52"></script>
 <script type="text/javascript" src="http://www.ibiblio.org/cms/wp-content/plugins/contact-form-7/scripts.js?ver=2.4.5"></script>
-
+                <script type="text/javascript">
+                var sub = document.getElementById('submit');
+                document.getElementById('recaptcha-submit-btn-area').appendChild (sub);
+                document.getElementById('submit').tabIndex = 6;
+                if ( typeof _recaptcha_wordpress_savedcomment != 'undefined') {
+                        document.getElementById('comment').value = _recaptcha_wordpress_savedcomment;
+                }
+                document.getElementById('recaptcha_table').style.direction = 'ltr';
+                </script>
 
 </body></html>
