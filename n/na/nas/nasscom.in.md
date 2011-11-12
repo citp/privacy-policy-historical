@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the nasscom.in privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626185048id_/http%3A//www.nasscom.in/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nasscom.in privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112021935id_/http%3A//www.nasscom.in/Privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy | NASSCOM
 
 The issue of online privacy is extremely crucial for NASSCOM, which is committed to safeguarding the information provided by its members and other visitors logging on to its Web site. As an organization dedicated to creating a secure environment for e-commerce transactions in India, NASSCOM has been actively promoting the concept of privacy and its relevance for organizations with a cyber presence. 
 
 Respecting the privacy of its online visitors, while providing top-of-the-line services to customers has remained the core of NASSCOM’s strategy for the Internet. Our Privacy Policy gives visitors a view of the Privacy Practices followed by NASSCOM and assures them of safe passage through the organization’s Web site. 
 
-At the same time, NASSCOM would like to make it clear that its site provides links to other Web sites that are governed by their own Privacy Policies and does not take responsibility for the security provided by these sites. Visitors to the NASSCOM site are urged to familiarize themselves with its Privacy Policy as well the policies of the sites with links on www.nasscom.org , that collect personally identifiable information. 
+At the same time, NASSCOM would like to make it clear that its site provides links to other Web sites that are governed by their own Privacy Policies and does not take responsibility for the security provided by these sites. Visitors to the NASSCOM site are urged to familiarize themselves with its Privacy Policy as well the policies of the sites with links on [www.nasscom.org](http://www.nasscom.org/ "www.nasscom.org") , that collect personally identifiable information. 
 
 When you provide us with your personal data, you are agreeing to the rules and regulations stipulated under our Privacy Policy and are bound by it. If you do not agree to our Policy please do not use the Site. 
 
@@ -21,7 +21,7 @@ The Privacy Policy covers the following areas:
 
 **Type of information collected through the Web site**
 
- **Personal information**  
+**Personal information**  
 Users registering at the NASSCOM site for specific services are requested to provide some personally identifiable information which become the property of NASSCOM and can be shared, disclosed or distributed to third parties only in accordance with the Privacy Policy. **It must be clarified here that registration is not required for visitors to the site who do not require any specific services.**
 
 The services that need registration include the following: 
@@ -38,7 +38,7 @@ The services that need registration include the following:
 
 NASSCOM will not sell or rent such personally identifiable information collected. The personally identifiable information is supplied voluntarily for some of the following purposes: 
 
-**_Registration Data:_** If you are merely a visitor to our site, NASSCOM does not collect any personal information about you, except to the limited extent through the use of cookies, as described below. If you decide to use certain services offered on the site, you will be asked to register on www.nasscom.org. During registration you will be requested to complete a registration form setting out basic online contact information about yourself. 
+**_Registration Data:_** If you are merely a visitor to our site, NASSCOM does not collect any personal information about you, except to the limited extent through the use of cookies, as described below. If you decide to use certain services offered on the site, you will be asked to register on [www.nasscom.org](http://www.nasscom.org/ "www.nasscom.org"). During registration you will be requested to complete a registration form setting out basic online contact information about yourself. 
 
 **_Other Optional Information:_** If you wish to subscribe to NASSCOM publications, NASSCOM Newsline or BPO Newsline, you will be required to fill up certain personal information related to your email address, name, country, age, choice of password, etc. However, for any of the other services such as registration for membership, etc. filling up the relevant form is mandatory. 
 
@@ -55,7 +55,7 @@ The information contained on cookies is masked to ensure your privacy and is rea
 
 **Third party Websites which are accessible from our Site via links, click-throughs or banner advertising may use Cookies. However, it is important for us to inform you that we have no access or control over such Cookies and do not accept responsibility with regards to them.**
 
- **Choice/opt out**  
+**Choice/opt out**  
 NASSCOM gives you the choice regarding the collection and usage of your personally identifiable information. During registration for “joining our mailing list,” we request for contact information in order to send bulletins and for advertising purposes. Again, it is not necessary for you to register in order to access and use our Site. You may therefore choose to opt out of providing such information. 
 
 Further, once you are registered at the NASSCOM site, you will have the option at any stage to inform us that you no longer wish to receive future e-mails and you may “unsubscribe.” 
