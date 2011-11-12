@@ -1,34 +1,77 @@
-> *The following text is extracted and transformed from the ihi.org privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606043344id_/http%3A//www.ihi.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihi.org privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112142759id_/http%3A//www.ihi.org/pages/privacystatement.aspx) for the most accurate reproduction.*
 
-# IHI - About
+# Privacy Statement
 
-  
+As health care organizations in the US and around the world strive to improve the quality of their care, a credible, easily accessible resource is necessary to provide them with trusted content and a forum to collaborate with their peers. Patients are demanding better care, and clinicians and managers, confronting a system that is under great stress, need to know how to provide it. Among the most important forms of support are access to improvement knowledge, routes to new practices, and ways to connect with experts and colleagues who have led change. IHI.org will help make these interactions possible.
 
-
-#### Privacy Policy
-
-We at the Institute for HealthCare Improvement (IHI), believe that you have the right to know how your personal information may be used or disclosed. You take your privacy seriously, and we respect your concerns. Accordingly, we have created this Privacy Statement in order to describe how we collect information, what we do with it, and what controls you have. Please read it carefully, and if you have any questions or concerns, please send us a comment at [info@ihi.org](mailto:info@ihi.org). Unless otherwise indicated, this Privacy Statement applies only to information collected via the IHI.org website. "Information" means information about you that is personally identifiable such as your name, address, email address, phone number, credit card information, areas of interest data related to your improvement work, and other information about you that is not otherwise publicly available. This policy does not apply to the practices of companies that IHI does not own or control, or to people that IHI does not employ or manage. 
+We at the Institute for Healthcare Improvement (“IHI”), producers of IHI.org, believe that you have the right to know how your personal information may be used or disclosed. You take your privacy seriously, and we respect your concerns. Accordingly, we have created this Privacy Statement in order to describe how we collect information, what we do with it, and what controls you have. Please read it carefully, and if you have any questions or concerns, please send us a comment at [info@ihi.org](mailto:info@ihi.org "E-Mail Information"). Unless otherwise indicated, this Privacy Statement applies to your use of the IHI.org website.  If you receive a communication from IHI indicating that your Information has been collected by IHI or that you have been registered for IHI.org, your use of IHI.org means that you agree to the terms of this Privacy Statement. “Information” means information about you that is personally identifiable like your name, address, email address, phone number, areas of interest or data related to your improvement work or credit card information, and other information about you that is not otherwise publicly available. This policy does not apply to the practices of companies that IHI does not own or control, or to people that IHI does not employ or manage. 
 
 **Gathering of Information**  
-We collect data from you ("Information") in different ways and on many different parts of our website including: when you register for IHI.org; when you download or use articles and information; when you comment on content; when you use the search function; when you share your improvement stories, tools and other resources, or even when you are just perusing the site and reading content. 
+We collect Information and other data from you in different ways and on many different parts of our website including but not limited to: when you register for IHI.org; when you select to be listed in the Find a Colleague Directory or use the Find a Mentor tool; when you participate in Community features including discussion groups; when you download or use interactive tools; when you comment on content; when you use the search function; when you share your improvement stories, tools and other resources; when you rate content on the site; or even when you are just perusing the site and reading content. 
 
-**Use of Information**  
-We may collect Information that you choose to share with us when you register for the website. This Information is only collected with your permission and may be updated or deleted by you at any time. If you choose these options during your registration, we may use your Information to send you a newsletter or email messages with updates and notices concerning new content posted to the site and/or products or services that we think might be of interest to you. Completing the registration information allows us to better understand you, your position, your organization type and interests. If at any time you would like to stop getting this email information you can do so by emailing [info@ihi.org](mailto:info@ihi.org).
+  
+**Registration**  
+We collect Information when you register for IHI.org. This Information may be updated by you at any time. We will not disclose the Information you submit when you register except as provided in this Privacy Policy or the [Terms of Use](https://web.archive.org/pages/termsofuse.aspx "Terms of Use").   
 
-When visiting any website, your browser sends information to the site's hosting server identifying the browser you are using, your Internet Service Provider, the page you last visited, and the page you are currently visiting. We log this Information. We may also track and catalog the search terms that you enter in search forms. We make use of a standard feature of browser software called a "cookie" that helps us recognize you when you visit. We store your email address in a cookie file and place the file on the hard drive of your computer. Most browsers accept cookies. However, if you wish, you can usually set your browser to refuse cookies. If you set your browser to refuse cookies, you will need to log in to the site each time you visit. 
+
+By registering, you agree that we may make certain Information (“Public Contact Information”) visible when you contribute content to IHI.org, and when you use or participate in certain site features and tools, including but not limited to user communities, blogs, wikis, ratings and comments, interactive tools (e.g., FMEA, Trigger Tool, Improvement Tracker), groups, Find a Colleague, and Find a Mentor, as more fully described below.  Public Contact Information includes: Salutation, First Name, Last Name, Photo (if you provide one), Credentials (e.g., MD, MPH, MBA), Job Title, Organization Type, Organization Name, City, Country, State/Province/Region, Topics of Interest, and Areas of Expertise.   
+
+
+If you are a student, you may check a box and give details about your school, which we will use to determine whether you receive free access to the IHI Open School courses and other potential benefits relevant to student users, which may include eligibility for discounts and scholarships to attend IHI programs.  
+
+
+We may use your Information to send you a newsletter or email messages with updates and notices concerning new content posted to the site and/or products or services that might be of interest to you. Completing the registration information allows us to better understand you, your position, your organization type and interests. If at any time you would like to stop getting general email information you can do so by updating your Profile. However, IHI, its contracted faculty, or its employees may still contact you via email with an individual message or about a IHI Offering in which you are participating or enrolled even if you have opted out of receiving email updates from IHI.  
+
+
+**Contributing Content to IHI.org**
+
+IHI.org encourages your participation through submitting content and participating in the interactive functionality on the website including blogs, wikis, discussion boards, search features, interactive tools, rating or commenting on content, and sharing audio and video content, improvement stories, resources, and tools. If you contribute any content to IHI.org, including but not limited to documents, improvement stories, tools, and other resources, or if you comment on or rate content on the site, or otherwise post content to IHI.org, you agree to allow us to make your Public Contact Information publicly available on IHI.org in connection with your activity.  
+
+
+Please remember that the text you submit to IHI.org in a discussion board or as a comment on content is immediately viewable on the site by the general public. 
+
+You should exercise caution when deciding to disclose any sensitive Information on IHI.org. We recommend that you never give out your address, phone number, date of birth or social security number. You may not give out Information about an organization, a patient, or another person or submit other content if you do not have the express authority or permission to share that Information publicly.  
+
+
+**Find a Colleague Directory**  
+If you register to participate in the Find a Colleague Directory you will be able to search the Directory to connect with peers and experts from similar organizations or working in similar areas. Other registered users listed in the Directory will also be able to contact you. If you register for the Colleague Directory, you agree to allow us to share your Public Contact Information with other registered users of the Find a Colleague Directory (“Find a Colleague Users”).  
+
+
+You may send a message to other Find a Colleague Users and/or invite them to connect with you, and may receive similar invitations from other Find a Colleague Users, which you may decline or accept.  If you connect with another user, that user will become one of your Colleagues, and will be listed in the My Colleagues area of your profile. Your activity on IHI.org will be visible to any of your Colleagues. For example, if you post a new tool or comment on another user’s content, that information will be available to your Colleagues. You may discontinue participating in the Find a Colleague Directory at any time by updating your profile.  
+
+
+**Find a Mentor Tool**  
+All registered users of IHI.org may use the Find a Mentor tool to search for professional mentors.  If you opt in to the Find a Mentor tool, your Public Contact Information will be visible when other users search for mentors.  Such users will be able to send you a message and/or ask you to serve as their mentor.  You have the option to accept the request or decline it.  If you agree to mentor a user, your activity on IHI.org will be visible to that user (your “Mentee”).  For example, if you post a new tool or comment on another user’s content, that information will be available to your Mentees.     
+
+
+**Interactive Tools**  
+IHI.org contains a Workspace area that features several tools, including Improvement Tracker, the Failure Modes and Effective Analysis (FMEA) interactive tool, and the interactive Trigger Tool, which allow you to track and improve your processes and projects over time. When you decide to use one of these tools on IHI.org, you will be asked to select from three privacy options. 1) If you select Public, you agree to allow us to make your Public Contact Information and other demographic information, improvement project aim, and graphed data available to all IHI.org registered users. 2) If you select Anonymous, you agree to allow us to make your Public Contact Information and other demographic information (not including your organization name), improvement project aim, and graphed data available to all IHI.org registered users.  3) If you select Private, none of your Information or data will be viewable by other IHI.org registered users.
+
+  
+**IHI Open School**  
+If you enroll in online courses through the IHI Open School on IHI.org, and if your organization has purchased our accompanying administrative tool, we may share information about your participation in the IHI Open School, including your course progress and testing results, with your organization.  If you opt to use the Groups feature in connection with your use of the IHI Open School, we will share certain Information as described in the section of this Privacy Statement on Groups.  
+
+
+**Groups**  
+IHI staff and faculty and registered users of IHI.org may create groups (“Groups”) whereby members of the Group can send emails to the other members of the Group, share documents with the Group, and participate in discussions via a discussion board.  Groups may be public or private.  Public Groups will be publicly listed and open to any registered user who wishes to join.  Private Groups will be available by invitation only.  Once you have joined a Group, your membership in that Group, and your Public Contact Information, will be visible to all members of that Group.
+
+Site Usage Statistics, Cookies, Advertisements and Web Beacons  
+When visiting IHI.org, your browser sends information to the site's hosting server identifying the Internet protocol (“IP”) address of your computer (or the proxy server you use to access the World Wide Web), your computer or mobile device operating system and the browser you are using, email patterns, your Internet Service Provider or mobile carrier, the page you last visited, the page you are currently visiting, and the next page you navigate to. We log this Information. We may also track and catalog the search terms that you enter in search forms. We make use of a standard feature of browser software called a "cookie" (including flash cookies) that helps us recognize you when you visit. We store your email address in a cookie file and place the file on the hard drive of your computer. Most browsers accept cookies. However, if you wish, you can usually set your browser to refuse cookies. If you set your browser to refuse cookies, you will need to login to the site each time you visit, and certain features may not work correctly.  
+
+
+To increase the effectiveness of IHI.org and tailor your experience of IHI.org, we may include a file, called a web beacon, within IHI.org. The web beacon allows IHI.org to provide anonymized, aggregated auditing, research and reporting of use of IHI.org. 
 
 **Access to Information**  
-IHI.org, the Institute for Healthcare Improvement and its employees have access to your Information. We use all of this Information to administer and improve the operations of IHI.org. Aggregate Information or data on visitors to our site and how the site is being used, including the pages users are viewing, will also be logged. Aggregate data does not identify individuals but rather describes data as a whole. We may also share aggregate Information with market analysts, advertisers, business partners, sponsors, and any other third parties. 
+IHI.org, IHI, its contracted faculty, IHI’s interns and other volunteers, third-party consultants and other service providers, and IHI employees may have access to your Information and other data that you submit or that we collect regarding your use of IHI.org, on an as-needed basis, for the purposes of performing their respective duties for IHI. We use all of this Information and data to administer and improve the operations of IHI and IHI.org. 
 
-We may allow third party service providers and consultants access to Information on an as-needed basis. We may also share Information as required by law or to cooperate with legal authorities in a criminal investigation. 
+Aggregate Information or data on visitors to our site and how the site is being used, including the pages users are viewing, will also be logged. Aggregate data does not identify individuals but rather describes data as a whole. We may also share aggregate Information or data with market analysts, advertisers, business partners, sponsors, and any other third parties. 
+
+We may also share Information as required by law or to cooperate with legal authorities in a criminal investigation. 
 
 **Third Parties/Links**  
-IHI.org links to other sites. Please recognize that we cannot control the use or security of your Information once it leaves our hands. If you have any concerns regarding the security or privacy of our affiliates, we encourage you to review their privacy policies or even to contact them directly. IHI.org and the Institute for Healthcare Improvement are not responsible for the privacy practices, data collection, security or content of other websites. We treat any Information we receive from third parties as carefully as the Information you provide to us directly. 
+IHI.org links to other sites. Please recognize that we cannot control the use or security of your Information once it leaves our hands. If you have any concerns regarding the security or privacy of our affiliates, we encourage you to review their privacy policies or even to contact them directly. IHI.org and IHI are not responsible for the privacy practices, data collection, security or content of other websites. We treat any Information we receive from third parties as carefully as the Information you provide to us directly. 
 
-Please remember that when you respond to a classified advertisement by email you are sending information to a third party and not to the Institute for Healthcare Improvement or IHI.org. We cannot control the use or security of any Information that you send to a third party, so please be careful. 
-
-**Extranet Functionality**  
-IHI encourages robust information sharing over the extranet between authorized users. If you use the extranet, please remember that other authorized extranet users can view the information you share. You should exercise caution when disclosing any sensitive information. Never give out personal information such as your name, address, phone number or social security number. Never give out information about an organization, a patient or another person if you do not have the express authority or permission to share that information publicly. 
+Please remember that when you respond to a classified advertisement by email you are sending information to a third party and not to IHI or IHI.org. We cannot control the use or security of any Information that you send to a third party, so please be careful. 
 
 **Security**  
 We use industry-standard SSL (Secure Socket Layer) encryption technology, a secure server, and other physical and procedural safeguards to protect the security of your personal Information. Please understand, however, that no security system is impenetrable. We cannot guarantee the security of our databases, nor can we guarantee that the Information you supply will not be intercepted while being transmitted to us over the Internet. Please keep your password private. We will never ask for it by phone or email, and neither should anyone else. 
@@ -36,9 +79,8 @@ We use industry-standard SSL (Secure Socket Layer) encryption technology, a secu
 You may wish to delete unknown email attachments before opening them as they can contain destructive viruses. Remember that nothing you write on the Web is completely private — including email. 
 
 **Viewing and Updating Your Information**  
-You may view and correct your Information by accessing the "My IHI" link on the left hand of the website. Please note that you must log in with your private user name and password to access your Profile. 
+You may view and correct your Information by accessing the "My IHI" link on the header of the website. Please note that you must login with your private user name and password to access your Profile. 
 
-By using IHI.org, you consent to the collection and use of your Information as we have outlined in this Privacy Statement and our Terms of Use. If you do not agree to our policy, you may not use IHI.org. We may change our policies at any time and without prior notice. If we decide to change this Privacy Statement, we will post the changes to this page so that users may be aware of our actions. Your continued use of IHI.org following a posting of changes to this Privacy Statement will mean that you accept those changes. 
+By using IHI.org, you consent to the collection and use of your Information as we have outlined in this Privacy Statement and our [Terms of Use](https://web.archive.org/pages/termsofuse.aspx "Terms of Use"). If you do not agree to our policy, you may not use IHI.org. We may change our policies at any time and without prior notice. If we decide to change this Privacy Statement, we will post the changes to this page so that users may be aware of our actions. Your continued use of IHI.org following a posting of changes to this Privacy Statement will mean that you accept those changes. 
 
-Revision date: March 8, 2004  
-
+Revision date: April 29, 2011
