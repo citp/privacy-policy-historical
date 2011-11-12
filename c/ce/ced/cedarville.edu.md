@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cedarville.edu privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613000846id_/http%3A//www.cedarville.edu/About/Privacy-Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cedarville.edu privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113000428id_/http%3A//www.cedarville.edu/About/Privacy-Statement.aspx) for the most accurate reproduction.*
 
-# PRIVACY POLICY STATEMENT FOR CEDARVILLE UNIVERSITY WEBSITES - About Cedarville University - Cedarville University - A Top Midwest Christian College in Ohio
+# PRIVACY POLICY STATEMENT FOR CEDARVILLE UNIVERSITY WEBSITES | About Cedarville University | Cedarville University, a Christian College
 
 Cedarville University is committed to honoring the privacy of visitors to its Website. The following discloses our information gathering and dissemination practices for the Cedarville University Web sites (*.cedarville.edu):
 
