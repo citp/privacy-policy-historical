@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getpcmemory.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602013257id_/http%3A//www.getpcmemory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpcmemory.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112190603id_/http%3A//www.getpcmemory.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
