@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supersummary.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514065253id_/http%3A//www.supersummary.com/component/content/article/2-privacy-policy/25-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supersummary.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112113734id_/http%3A//www.supersummary.com/component/content/article/2-privacy-policy/25-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
