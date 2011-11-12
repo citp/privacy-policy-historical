@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the savingwithshellie.com privacy policy that was archived on 2011-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110513232822id_/http%3A//www.savingwithshellie.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the savingwithshellie.com privacy policy that was archived on 2011-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111112051137id_/http%3A//www.savingwithshellie.com/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -14,117 +14,42 @@
 <link rel="alternate" type="application/rss+xml" title="Saving with Shellie™ RSS Feed" href="http://www.savingwithshellie.com/feed/">
 <link rel="pingback" href="http://www.savingwithshellie.com/xmlrpc.php">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.savingwithshellie.com/xmlrpc.php?rsd">
-<link rel="stylesheet" id="sociable-front-css-css" href="http://www.savingwithshellie.com/wp-content/plugins/sociable/sociable.css?ver=3.1.2" type="text/css" media="all">
-<link rel="stylesheet" id="wp-stats-css" href="http://www.savingwithshellie.com/wp-content/plugins/wp-stats/stats-css.css?ver=2.50" type="text/css" media="all">
+<script type="text/javascript" src="//nexus.ensighten.com/aetn/Bootstrap.js"></script>
+<!--This should appear in your <head></head> tag -->
+<script type="text/javascript" src="http://www.googletagservices.com/tag/static/google_services.js">
+</script>
 <script type="text/javascript">
-// Shopping List / Copyright - Travis Killen - http://936webdesign.com 
-
-jQuery(document).ready(function()  {
- var viewport = {
-        o: function() {
-            if (self.innerHeight) {
-    			this.pageYOffset = self.pageYOffset;
-    			this.pageXOffset = self.pageXOffset;
-    			this.innerHeight = self.innerHeight;
-    			this.innerWidth = self.innerWidth;
-    		} else if (document.documentElement && document.documentElement.clientHeight) {
-    			this.pageYOffset = document.documentElement.scrollTop;
-    			this.pageXOffset = document.documentElement.scrollLeft;
-    			this.innerHeight = document.documentElement.clientHeight;
-    			this.innerWidth = document.documentElement.clientWidth;
-    		} else if (document.body) {
-    			this.pageYOffset = document.body.scrollTop;
-    			this.pageXOffset = document.body.scrollLeft;
-    			this.innerHeight = document.body.clientHeight;
-    			this.innerWidth = document.body.clientWidth;
-    		}
-    		return this;
-        },
-        init: function(el) {
-            jQuery(el).css("left",Math.round(viewport.o().innerWidth/2) + viewport.o().pageXOffset - Math.round(jQuery(el).width()/2));
-            jQuery(el).css("top",Math.round(viewport.o().innerHeight/2) + viewport.o().pageYOffset - Math.round(jQuery(el).height()/2));
-        }
-    };
-
-
-
-    jQuery("<input type='checkbox' class='clickable'>").insertBefore("div.category-shoppinglist ul li strong");
-    jQuery("div.category-shoppinglist strong em").parent().replaceWith("<input type='button' value='Create Shopping List' class='createList'/>");
-
-    jQuery("#close").bind("click", function(){
-        jQuery('#printable').fadeOut();
-    });
-
-    jQuery(".createList").bind("click", function(){
-        jQuery('#printable').fadeIn();
-        jQuery('#shoppingList').empty();
-
-        var first = true;
-        var id;
-        var prevId = -1;
-
-        jQuery('input:checkbox:checked').each(function(j) {
-               id = jQuery(this).parent().parent().parent().parent().parent().attr("id");
-
-               if (prevId == -1) {
-		   id = jQuery(this).parent().parent().parent().parent().parent().attr("id");
-	           prevId = id;			         
-               }
-               if (prevId != id) {
-           	   first = true;
-	       }
-
-	       if (first == true) {
-                   jQuery("#"+id + " h2.entry-title").clone().appendTo('#shoppingList');
-		   first = false;
-               }
-
-               jQuery(this).parent().parent().clone().appendTo('#shoppingList');
-               prevId = id;     
-
-        });
-
-        
-        
-        jQuery('#shoppingList input.clickable').replaceWith('<span class="closeList">X</span>');
-        viewport.init("#printable");
-        jQuery(".closeList").bind("click", function(){
-           jQuery(this).parent().parent().slideUp();
-        });
-
-    });
-
-
-});
-
-  function printSelection(node){
-
-  var content=node.innerHTML
-  var pwin=window.open('','print_content','width=100,height=100');
-
-  pwin.document.open();
-  pwin.document.write('<html><head><style>@media screen, print { span.closeList { display: none; }  ul {list-style-type: none;} } </style><body onload="window.print()"><img src="http://www.savingwithshellie.com/wp-content/themes/thesis_18/custom/images/header.gif" alt="Saving With Shellie" />'+content+'<h4>This list was created at <a href="http://www.savingwithshellie.com">www.savingwithshellie.com</a></h4></body></html>');
-  pwin.document.close();
-  setTimeout(function(){pwin.close();},1000);
-  }
-
-
-// End Shopping List
-</script><link rel="stylesheet" href="http://www.savingwithshellie.com/thumbsup/styles.css">
+  googletag.networkAds().set('network_config_path', 'ltv.ltm.savingwithshellie');
+  googletag.enableServices();
+</script>
+<link rel="stylesheet" id="sociable-front-css-css" href="http://www.savingwithshellie.com/wp-content/plugins/sociable/sociable.css?ver=3.2.1" type="text/css" media="all">
+<link rel="stylesheet" id="wp-stats-css" href="http://www.savingwithshellie.com/wp-content/plugins/wp-stats/stats-css.css?ver=2.50" type="text/css" media="all">
+<script type="text/javascript" src="http://www.savingwithshellie.com/wp-includes/js/l10n.js?ver=20101110"></script>
+<script type="text/javascript" src="http://www.savingwithshellie.com/wp-includes/js/jquery/jquery.js?ver=1.6.1"></script>
+<script type="text/javascript" src="http://www.savingwithshellie.com/wp-content/plugins/printable-lists/templates/custom/printable-lists.js?ver=3.2.1"></script>
+<script type="text/javascript" src="http://www.savingwithshellie.com/wp-content/plugins/printable-lists/js/functions.php?token=6c85328a1ac36f8e0ed5649ba2f0d5eb-L2hvbWUvc2hlbGxpZS9kb21haW5zL3NhdmluZ3dpdGhzaGVsbGllLmNvbS9wdWJsaWNfaHRtbC93cC1jb250ZW50L3BsdWdpbnMvcHJpbnRhYmxlLWxpc3RzL3RlbXBsYXRlcy9jdXN0b20vY29uZmlnLmluYy5waHA%3D&amp;ver=3.2.1"></script>
+	<link href="http://www.savingwithshellie.com/wp-content/plugins/printable-lists/templates/custom/printable-lists.css" type="text/css" rel="stylesheet">
+	<!--This should appear in your <head></head> tag -->
+<script type="text/javascript" src="http://www.googletagservices.com/tag/static/google_services.js">
+</script>
+<script type="text/javascript">
+  googletag.networkAds().set('network_config_path', 'ltv.ltm.savingwithshellie');
+  googletag.enableServices();
+</script>
+<link rel="stylesheet" href="http://www.savingwithshellie.com/thumbsup/styles.css">
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script><script src="http://www.savingwithshellie.com/thumbsup/init.min.js.php"></script>
-<script type="text/javascript" src="http://www.savingwithshellie.com/wp-includes/js/jquery/jquery.js?ver=1.4.4"></script>
-<!-- Wordpress Popular Posts v2.1.4 -->
+
+<!-- Wordpress Popular Posts -->
+<link rel="stylesheet" href="http://www.savingwithshellie.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css" type="text/css" media="screen">
+<!-- End Wordpress Popular Posts -->
+<!-- Wordpress Popular Posts v2.1.6 -->
 <script type="text/javascript" charset="utf-8">
     /* <![CDATA[ */				
-	jQuery.post('http://www.savingwithshellie.com/wp-admin/admin-ajax.php', {action: 'wpp_update', token: '8fd46c11bd', id: 8876});
+	jQuery.post('http://www.savingwithshellie.com/wp-admin/admin-ajax.php', {action: 'wpp_update', token: '998c9bf80a', id: 8876});
     /* ]]> */
 </script>
-<!-- End Wordpress Popular Posts v2.1.4 -->
-            
-<!-- Wordpress Popular Posts v2.1.4 -->
-<link rel="stylesheet" href="http://www.savingwithshellie.com/wp-content/plugins/wordpress-popular-posts/style/wpp.css" type="text/css" media="screen">
-<!-- End Wordpress Popular Posts v2.1.4 -->
-</head>
+<!-- End Wordpress Popular Posts v2.1.6 -->
+            <script type="text/javascript" src="http://www.savingwithshellie.com/wp-content/plugins/printable-lists/templates/custom/printable-lists.js"></script></head>
 <body class="custom privacy-policy">
 <div id="container">
 <div id="page">
@@ -158,76 +83,63 @@ jQuery(document).ready(function()  {
 
 
 <div style="clear:both;">	</div>
-<ul class="menu">
-<li class="tab tab-home"><a href="http://www.savingwithshellie.com">Home</a></li>
-<li class="tab tab-1 current-parent"><a href="http://www.savingwithshellie.com/about/" title="About">About<!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-<ul class="submenu submenu-1">
-<li class="item item-1"><a href="http://www.savingwithshellie.com/about/contact/" title="Contact">Contact</a></li>
-<li class="item item-2"><a href="http://www.savingwithshellie.com/about/disclosure-policy/" title="Disclosure Policy">Disclosure Policy</a></li>
-<li class="item item-3 current"><a href="http://www.savingwithshellie.com/about/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li>
+<div class="menu-my-menu-container"><ul id="menu-my-menu" class="menu"><li id="menu-item-34434" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-34434"><a href="http://www.savingwithshellie.com/">Home</a></li>
+<li id="menu-item-34437" class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-34437"><a href="http://www.savingwithshellie.com/about/">About</a>
+<ul class="sub-menu">
+	<li id="menu-item-34438" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34438"><a href="http://www.savingwithshellie.com/about/contact/">Contact</a></li>
+	<li id="menu-item-34435" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34435"><a href="http://www.savingwithshellie.com/about/disclosure-policy/">Disclosure Policy</a></li>
+	<li id="menu-item-34436" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-8876 current_page_item menu-item-34436"><a href="http://www.savingwithshellie.com/about/privacy-policy/">Privacy Policy</a></li>
 </ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="tab tab-2"><a href="http://www.savingwithshellie.com/couponing-101/" title="Couponing 101">Couponing 101<!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-<ul class="submenu submenu-1">
-<li class="item item-4"><a href="http://www.savingwithshellie.com/couponing-101/abbreviations-2/" title="Abbreviations">Abbreviations</a></li>
-<li class="item item-5"><a href="http://www.savingwithshellie.com/couponing-101/organization-tips/" title="Organization Tips">Organization Tips</a></li>
-<li class="item item-6"><a href="http://www.savingwithshellie.com/couponing-101/newspaper-coupons/" title="Newspaper Coupons">Newspaper Coupons</a></li>
-<li class="item item-7"><a href="http://www.savingwithshellie.com/couponing-101/online-coupon-resources/" title="Online Coupon Resources">Online Coupon Resources</a></li>
-<li class="item item-8"><a href="http://www.savingwithshellie.com/couponing-101/other-coupon-sources/" title="Other Coupon Sources">Other Coupon Sources</a></li>
-<li class="item item-9"><a href="http://www.savingwithshellie.com/couponing-101/expired-coupons/" title="Expired Coupons">Expired Coupons</a></li>
+<li id="menu-item-34433" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34433"><a href="http://www.savingwithshellie.com/extreme-couponing-101/">Extreme Couponing</a>
+<ul class="sub-menu">
+	<li id="menu-item-34426" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34426"><a href="http://www.savingwithshellie.com/2011/04/05/how-to-tuesday-extreme-couponing-part-1/">Finding Coupons</a></li>
+	<li id="menu-item-34427" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34427"><a href="http://www.savingwithshellie.com/2011/04/12/how-to-tuesday-extreme-couponing-part-2/">Organizing Coupons</a></li>
+	<li id="menu-item-34428" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34428"><a href="http://www.savingwithshellie.com/2011/04/19/how-to-tuesday-extreme-couponing-part-3/">Coupon Lingo</a></li>
+	<li id="menu-item-34429" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34429"><a href="http://www.savingwithshellie.com/2011/05/10/how-to-tuesday-extreme-couponing-part-4/">Coupon Fine Print</a></li>
+	<li id="menu-item-34430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34430"><a href="http://www.savingwithshellie.com/2011/05/17/how-to-tuesday-extreme-couponing-part-5/">When to Use Your Coupons</a></li>
+	<li id="menu-item-34431" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34431"><a href="http://www.savingwithshellie.com/2011/05/31/how-to-tuesday-extreme-couponing-part-6/">How to Use the Coupon Database</a></li>
+	<li id="menu-item-34432" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34432"><a href="http://www.savingwithshellie.com/2011/06/07/how-to-tuesday-extreme-couponing-part-7/">How to Stack Coupons</a></li>
+	<li id="menu-item-34460" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34460"><a href="http://www.savingwithshellie.com/tag/how-to-tuesday/">How to Tuesday</a></li>
 </ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="tab tab-3"><a href="http://www.savingwithshellie.com/store-deals/" title="Store Deals">Store Deals<!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-<ul class="submenu submenu-1">
-<li class="item item-10"><a href="http://www.savingwithshellie.com/store-deals/cvs/" title="CVS">CVS</a></li>
-<li class="item item-11"><a href="http://www.savingwithshellie.com/store-deals/heb/" title="HEB">HEB</a></li>
-<li class="item item-12"><a href="http://www.savingwithshellie.com/store-deals/kroger/" title="Kroger">Kroger</a></li>
-<li class="item item-13"><a href="http://www.savingwithshellie.com/store-deals/randalls-safeway/" title="Randalls (Safeway)">Randalls (Safeway)</a></li>
-<li class="item item-14"><a href="http://www.savingwithshellie.com/store-deals/target/" title="Target">Target</a></li>
-<li class="item item-15"><a href="http://www.savingwithshellie.com/store-deals/walgreens/" title="Walgreens">Walgreens</a></li>
-<li class="item item-16"><a href="http://www.savingwithshellie.com/store-deals/grocery-grab/" title="Grocery Grab">Grocery Grab</a></li>
+<li id="menu-item-34442" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34442"><a href="http://www.savingwithshellie.com/store-deals/">Store Deals</a>
+<ul class="sub-menu">
+	<li id="menu-item-34445" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34445"><a href="http://www.savingwithshellie.com/category/cvs/">CVS</a></li>
+	<li id="menu-item-34449" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34449"><a href="http://www.savingwithshellie.com/category/heb/">HEB</a></li>
+	<li id="menu-item-34450" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34450"><a href="http://www.savingwithshellie.com/category/kroger/">Kroger</a></li>
+	<li id="menu-item-34451" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34451"><a href="http://www.savingwithshellie.com/category/randalls-safeway/">Randalls (Safeway)</a></li>
+	<li id="menu-item-34452" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34452"><a href="http://www.savingwithshellie.com/category/sunflower-market/">Sunflower Market</a></li>
+	<li id="menu-item-34453" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34453"><a href="http://www.savingwithshellie.com/category/target/">Target</a></li>
+	<li id="menu-item-34454" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34454"><a href="http://www.savingwithshellie.com/category/walgreens/">Walgreens</a></li>
 </ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="tab tab-4"><a href="http://www.savingwithshellie.com/coupons/" title="Coupons">Coupons<!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-<ul class="submenu submenu-1">
-<li class="item item-17"><a href="http://www.savingwithshellie.com/coupons/coupons/" title="Coupons">Coupons</a></li>
-<li class="item item-18"><a href="http://www.savingwithshellie.com/coupons/coupon-database/" title="Coupon Database">Coupon Database</a></li>
+<li id="menu-item-34439" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34439"><a href="http://www.savingwithshellie.com/coupons/">Coupons</a>
+<ul class="sub-menu">
+	<li id="menu-item-34444" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34444"><a href="http://www.savingwithshellie.com/category/printable-coupons/">Coupons</a></li>
+	<li id="menu-item-34455" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34455"><a href="http://www.savingwithshellie.com/coupon-database-2/">Coupon Database</a></li>
 </ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="tab tab-5"><a href="http://www.savingwithshellie.com/freebies-deals/" title="Freebies &amp; Deals">Freebies &amp; Deals<!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-<ul class="submenu submenu-1">
-<li class="item item-19"><a href="http://www.savingwithshellie.com/freebies-deals/freebies/" title="Freebies">Freebies</a></li>
-<li class="item item-20"><a href="http://www.savingwithshellie.com/freebies-deals/cheap-food-finds/" title="Cheap Food Finds">Cheap Food Finds</a></li>
-<li class="item item-21"><a href="http://www.savingwithshellie.com/freebies-deals/deals-town/" title="Deals Around Town">Deals Around Town</a></li>
-<li class="item item-22"><a href="http://www.savingwithshellie.com/freebies-deals/giveaways/" title="Giveaways">Giveaways</a></li>
+<li id="menu-item-34440" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34440"><a href="http://www.savingwithshellie.com/freebies-deals/">Freebies &amp; Deals</a>
+<ul class="sub-menu">
+	<li id="menu-item-40635" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40635"><a href="http://www.savingwithshellie.com/black-friday-2011/">Black Friday 2011</a></li>
+	<li id="menu-item-34447" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34447"><a href="http://www.savingwithshellie.com/category/freebies/">Freebies</a></li>
+	<li id="menu-item-34448" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34448"><a href="http://www.savingwithshellie.com/category/giveaways/">Giveaways</a></li>
+	<li id="menu-item-34456" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34456"><a href="http://www.savingwithshellie.com/tag/amazon/">Amazon Deals</a></li>
+	<li id="menu-item-34458" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34458"><a href="http://www.savingwithshellie.com/tag/diaper-deals/">Diaper Deals</a></li>
+	<li id="menu-item-34457" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34457"><a href="http://www.savingwithshellie.com/tag/magazine-deals/">Magazine Deals</a></li>
+	<li id="menu-item-34461" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34461"><a href="http://www.savingwithshellie.com/tag/organicnatural/">Organic &amp; Natural Coupons and Deals</a></li>
+	<li id="menu-item-34462" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34462"><a href="http://www.savingwithshellie.com/tag/photo-deals/">Photo Deals</a></li>
+	<li id="menu-item-34459" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34459"><a href="http://www.savingwithshellie.com/tag/retail-coupons-2/">Retail Coupons</a></li>
+	<li id="menu-item-34463" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-34463"><a href="http://www.savingwithshellie.com/category/cheap-food-finds/">Restaurant Coupons</a></li>
 </ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="tab tab-6"><a href="http://www.savingwithshellie.com/frugal-living/" title="Frugal Living">Frugal Living<!--[if gte IE 7]><!--></a><!--<![endif]-->
-<!--[if lte IE 6]><table><tr><td><![endif]-->
-<ul class="submenu submenu-1">
-<li class="item item-23"><a href="http://www.savingwithshellie.com/frugal-living/40-challenge/" title="$40 Challenge">$40 Challenge</a></li>
-<li class="item item-24"><a href="http://www.savingwithshellie.com/frugal-living/frugal-home/" title="Frugal at Home">Frugal at Home</a></li>
-<li class="item item-25"><a href="http://www.savingwithshellie.com/frugal-living/frugal-finances/" title="Frugal Finances">Frugal Finances</a></li>
-<li class="item item-26"><a href="http://www.savingwithshellie.com/frugal-living/frugal-tips-tricks/" title="Frugal Tips &amp; Tricks">Frugal Tips &amp; Tricks</a></li>
-</ul>
-<!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-</ul>
+<li id="menu-item-34464" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-34464"><a href="http://www.savingwithshellie.com/tag/today-only">Today Only</a></li>
+</ul></div>
 <div id="menudivider"></div>	<div id="content_box">
 		<div id="content">
 
-<br><br><center>
-<div style="text-align:right;width:468px;"><script type="text/javascript" src="http://as.chango.com/links/ad.js?siteID=Xt5J40cw1ITJZQeU9aGaKNQoe&amp;styleID=468x180&amp;borderColor=CCCCCC&amp;textColor=000000&amp;linkColor=0000FF&amp;backgroundColor=FFFFFF"></script><p style="margin: 0;font-size:10px;font-size:9px;color:#919191;"><a style="font-size:9px;color:#919191;" href="http://www.chango.com?utm_source=SearchSpots&amp;utm_medium=Link&amp;utm_campaign=SearchSpotsSR" target="_blank"></a></p></div></center>			<div class="post_box top" id="post-8876">
+<br><div style="text-align:right;width:468px;"><script type="text/javascript" src="http://as.chango.com/links/ad.js?siteID=Xt5J40cw1ITJZQeU9aGaKNQoe&amp;styleID=468x60&amp;borderColor=CCCCCC&amp;textColor=000000&amp;linkColor=0000FF&amp;backgroundColor=FFFFFF"></script><p style="margin: 0;font-size:10px;font-size:9px;color:#919191;"><a style="font-size:9px;color:#919191;" href="http://www.chango.com?utm_source=SearchSpots&amp;utm_medium=Link&amp;utm_campaign=SearchSpotsSR" target="_blank"></a></p></div>			<div class="post_box top" id="post-8876">
 				<div class="headline_area">
 					<h1>Privacy Policy</h1>
 				</div>
@@ -255,7 +167,10 @@ jQuery(document).ready(function()  {
 		<div id="sidebars">
 			<div id="sidebar_1" class="sidebar">
 				<ul class="sidebar_list">
-<li class="widget widget_text" id="text-394008156">			<div class="textwidget"><script type="text/javascript"><!--
+<li class="widget widget_text" id="text-394008156">			<div class="textwidget"><a href="http://www.savingwithshellie.com/black-friday-2011/" target="_blank"><img src="http://www.savingwithshellie.com/wp-content/uploads/2011/11/BFdeals.jpeg" alt="Black Friday Ad Previews"></a>
+<br>
+
+<script type="text/javascript"><!--
 google_ad_client = "pub-1286202579921828";
 /* 300x250, created 4/28/10 */
 google_ad_slot = "5222550778";
@@ -268,12 +183,8 @@ google_ad_height = 250;
 
 
 <script type="text/javascript">
-if(typeof(cachebuster) == "undefined"){var cachebuster = Math.floor(Math.random()*10000000000)}
-if(typeof(dcopt) == "undefined"){var dcopt = "dcopt=ist;"} else {var dcopt = ""}
-if(typeof(tile) == "undefined"){var tile = 1} else {tile++}
-document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/ltv.ltm.savingwithshellie/ROS;;' + dcopt + ';tile=' + tile + ';sz=300x250;ord=' + cachebuster + '?"></scr'+'ipt>');
-</script><script src="http://ad.doubleclick.net/adj/ltv.ltm.savingwithshellie/ROS;;dcopt=ist;;tile=1;sz=300x250;ord=6839502295?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/ltv.ltm.savingwithshellie/ROS;;sz=300x250;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/ltv.ltm.savingwithshellie/{sectionZoneName;;sz=300x250;ord=123456789?" border="0" alt="" /></a></noscript></div>
+  googletag.networkAds().display('/ROS zone/Big Box', [[300,250]]);
+</script></div>
 		</li><li class="widget widget_text" id="text-394008159">			<div class="textwidget"><div style="margin-bottom: -8px;"><img src="http://www.savingwithshellie.com/wp-content/uploads/2011/01/SWSwelcomeSEARCHTAB.png"></div>
 
 <div id="sidebarsearch" style="background-color: #bed8d8;">
@@ -286,47 +197,36 @@ document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/ltv.ltm.savingwith
 </div>
 
 <div>
-<a href="http://www.savingwithshellie.com/couponing-101/welcome/"><img src="http://www.savingwithshellie.com/wp-content/uploads/2011/01/SWSwelcomeNEW.jpeg"></a>
+<a href="http://www.savingwithshellie.com/extreme-couponing-101/"><img src="http://www.savingwithshellie.com/wp-content/uploads/2011/07/SWSwelcomeExtremeCouponing.jpeg"></a>
 
-<a href="http://www.savingwithshellie.com/couponing-101/"><img src="http://www.savingwithshellie.com/wp-content/uploads/2011/01/SWSwelcomeCOUPON101.jpeg"></a>
+<a href="http://www.savingwithshellie.com/printable-coupons/"><img src="http://www.savingwithshellie.com/wp-content/uploads/2011/07/SWSwelcomeCOUPONS.COM_.new_.jpg"></a>
+
+<a href="http://www.savingwithshellie.com/SmartSource" target="_blank"><img src="http://www.savingwithshellie.com/wp-content/uploads/2011/07/SWSwelcomeSMARTSOURCE.new_.jpg"></a>
+
+<a href="http://www.savingwithshellie.com/RedPlum " target="_blank"><img src="http://www.savingwithshellie.com/wp-content/uploads/2011/07/SWSwelcomeREDPLUM.new_.jpg"></a>
+
+<a href="http://www.savingwithshellie.com/coupon-network/"><img src="http://www.savingwithshellie.com/wp-content/uploads/2011/07/SWSwelcomeCOUPONNETWORK.new_.jpg"></a>
 
 <a href="http://www.savingwithshellie.com/coupon-database-2/"><img src="http://www.savingwithshellie.com/wp-content/uploads/2011/01/SWSwelcomeDatabase.jpeg"></a>
-
-<a href="http://www.savingwithshellie.com/coupons.com5"><img src="http://www.savingwithshellie.com/wp-content/uploads/2011/01/SWSwelcomeCOUPONS.COM_.jpeg"></a>
-
-<a href="http://www.savingwithshellie.com/RedPlum "><img src="http://www.savingwithshellie.com/wp-content/uploads/2011/01/SWSwelcomeREDPLUM.jpeg"></a>
-
-<a href="http://www.savingwithshellie.com/SmartSource"><img src="http://www.savingwithshellie.com/wp-content/uploads/2011/01/SWSwelcomeSMARTSOURCE.jpeg"></a></div>
-
-<div style="text-align:center; width:297px;">
-<img id="Image-Maps_5201101021348286" src="http://www.savingwithshellie.com/wp-content/uploads/2011/01/StoreDeals.jpeg" usemap="#Image-Maps_5201101021348286" border="0" width="297" height="152" alt="">
-<map id="_Image-Maps_5201101021348286" name="Image-Maps_5201101021348286">
-<area shape="rect" coords="3,43,141,77" href="http://www.savingwithshellie.com/category/cvs/" alt="CVS" title="CVS">
-<area shape="rect" coords="147,43,290,77" href="http://www.savingwithshellie.com/category/walgreens/" alt="Walgreens" title="Walgreens">
-<area shape="rect" coords="16,88,74,142" href="http://www.savingwithshellie.com/category/target/" alt="Target" title="Target">
-<area shape="rect" coords="84,99,206,134" href="http://www.savingwithshellie.com/category/randalls-safeway/" alt="Safeway" title="Safeway">
-<area shape="rect" coords="216,84,283,138" href="http://www.savingwithshellie.com/category/kroger/" alt="Kroger" title="Kroger">
-<area shape="rect" coords="295,150,297,152" href="http://www.image-maps.com/index.php?aff=mapped_users_5201101021348286" alt="Image Map" title="Image Map">
+</div>
+<div>
+<img id="Image-Maps_4201106011301447" src="http://www.savingwithshellie.com/wp-content/uploads/2011/06/SWSwelcome.STOREDEALimagemap.jpeg" usemap="#Image-Maps_4201106011301447" border="0" width="297" height="200" alt="">
+<map id="_Image-Maps_4201106011301447" name="Image-Maps_4201106011301447">
+<area shape="rect" coords="3,42,144,74" href="http://www.savingwithshellie.com/category/cvs/" alt="cvs" title="cvs">
+<area shape="rect" coords="149,42,292,74" href="http://www.savingwithshellie.com/category/walgreens/" alt="walgreens" title="walgreens">
+<area shape="rect" coords="19,84,62,138" href="http://www.savingwithshellie.com/category/target/" alt="target" title="target">
+<area shape="rect" coords="85,98,204,130" href="http://www.savingwithshellie.com/category/randalls-safeway/" alt="safeway" title="safeway">
+<area shape="rect" coords="218,86,279,134" href="http://www.savingwithshellie.com/category/kroger/" alt="kroger" title="kroger">
+<area shape="rect" coords="151,139,278,192" href="http://www.savingwithshellie.com/category/heb/" alt="heb" title="heb">
+<area shape="rect" coords="22,144,133,188" href="http://www.savingwithshellie.com/category/sunflower-market/" alt="sunflower" title="sunflower">
 </map>
 </div></div>
-		</li><li class="widget widget_text" id="text-394008164"><h3>More Resources</h3>			<div class="textwidget"><table border="0" width="300"><tbody><tr>
-
-<td><a href="http://www.SheSaved.com" target="_blank" title="SheSaved"><img src="http://www.shesaved.com/wp-content/uploads/2010/11/SheSaved-Button125.png" alt="SheSaved" style="border:none;"></a></td> 
-
-<td><a href="http://www.stockpilingmoms.com" target="_blank" title="Stockpiling Moms"><img src="http://www.stockpilingmoms.com/wp-content/uploads/2010/02/button150x150.png" width="125px" height="125px" alt="Stockpiling Moms" style="border:none;"></a></td>
-
-</tr><tr>
-
- <td><a href="http://survivingthestores.com" target="_blank"><img src="http://www.survivingthestores.com/wp-content/uploads/2009/12/sts_button125.jpg" alt="Surviving the Stores" height="125" width="125"></a></td>
-
-<td><a href="http://www.passionforsavings.com" target="_blank">
-<img border="0" width="125" alt="Passion For Savings" src="http://www.passionforsavings.com/wp-content/uploads/2010/11/PassionForSavingsButton.jpg" height="125"></a></td>
-
-</tr>
-  <tr></tr>
-  </tbody></table>
-<div align="right" style="margin-right: 50px;"><font size="1"><a href="http://www.savingwithshellie.com/about/contact/">Advertise Here</a>    </font></div></div>
 		</li><li class="widget widget_text" id="text-394008157"><h3>Sponsors</h3>			<div class="textwidget"><div style="margin:0 0px;">
+
+<center>
+<div id="lijit_region_126661"></div>
+<script type="text/javascript" src="http://www.lijit.com/delivery/fp?u=savingwithshellie&amp;i=lijit_region_126661&amp;z=126661&amp;n=3"></script>
+</center>
 
 <div style="width:120px;float:left;">
 <script type="text/javascript"><!--
@@ -348,7 +248,7 @@ rnum=Math.round(Math.random() * 100000);
 ts=String.fromCharCode(60);
 if (window.self != window.top) {nf=''} else {nf='NF/'};
 document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad20448a.cgi/v=2.3S/sz=160x600A/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
-</script><script src="http://www.burstnet.com/cgi-bin/ads/ad20448a.cgi/v=2.3S/sz=160x600A/37037/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad20448a-map.cgi/ns/v=2.3S/sz=160x600A/" target="_top">
+</script><script src="http://www.burstnet.com/cgi-bin/ads/ad20448a.cgi/v=2.3S/sz=160x600A/17954/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad20448a-map.cgi/ns/v=2.3S/sz=160x600A/" target="_top">
 <img src="http://www.burstnet.com/cgi-bin/ads/ad20448a.cgi/ns/v=2.3S/sz=160x600A/" border="0" alt="Click Here" /></a>
 </noscript>
 <!-- END Burst Network CODE -->
@@ -363,7 +263,7 @@ rnum=Math.round(Math.random() * 100000);
 ts=String.fromCharCode(60);
 if (window.self != window.top) {nf=''} else {nf='NF/'};
 document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad20448a.cgi/v=2.3S/sz=300x250A/NZ/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
-</script><script src="http://www.burstnet.com/cgi-bin/ads/ad20448a.cgi/v=2.3S/sz=300x250A/NZ/33910/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad20448a-map.cgi/ns/v=2.3S/sz=300x250A/" target="_top">
+</script><script src="http://www.burstnet.com/cgi-bin/ads/ad20448a.cgi/v=2.3S/sz=300x250A/NZ/34543/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad20448a-map.cgi/ns/v=2.3S/sz=300x250A/" target="_top">
 <img src="http://www.burstnet.com/cgi-bin/ads/ad20448a.cgi/ns/v=2.3S/sz=300x250A/" border="0" alt="Click Here" /></a>
 </noscript>
 </center>
@@ -372,12 +272,8 @@ document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad20448a.cgi/
 <div style="margin:0 0px;">
 <div style="width:160px;float:left;">
 <script type="text/javascript">
-if(typeof(cachebuster) == "undefined"){var cachebuster = Math.floor(Math.random()*10000000000)}
-if(typeof(dcopt) == "undefined"){var dcopt = "dcopt=ist;"} else {var dcopt = ""}
-if(typeof(tile) == "undefined"){var tile = 1} else {tile++}
-document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/ltv.ltm.savingwithshellie/ROS;;' + dcopt + ';tile=' + tile + ';sz=160x600;ord=' + cachebuster + '?"></scr'+'ipt>');
-</script><script src="http://ad.doubleclick.net/adj/ltv.ltm.savingwithshellie/ROS;;;tile=2;sz=160x600;ord=6839502295?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/ltv.ltm.savingwithshellie/ROS;;sz=160x600;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/ltv.ltm.savingwithshellie/{sectionZoneName;;sz=160x600;ord=123456789?" border="0" alt="" /></a></noscript>
+  googletag.networkAds().display('/ROS zone/Sky', [[160,600]]);
+</script>
 </div>
 
 <div style="width:120px;float:right;">
@@ -407,11 +303,12 @@ google_ad_height = 600;
 		</li><li class="widget widget_text" id="text-394008153"><h3>Networks</h3>			<div class="textwidget"><div style="margin:0 0px;"><div style="width:125;float:left;"><a href="http://www.lifetimemoms.com/" target="_blank"><img border="0" alt="Lifetime Moms" src="&#10;http://www.savingwithshellie.com/wp-content/uploads/2009/12/125x125_D2.JPG"></a></div>
 
 <div style="width:125px;float:right;">
-<a href="http://www.savings.com/dealpro"><img src="http://cdn.savings.com/ad/dealpro.png" alt="Certified 2009 Savings.com
-DealPro" title="Certified 2009 Savings.com DealPro" width="125" height="125"></a></div><div style="clear:both;"></div>
+<a href="http://www.savings.com/dealpro" target="_blank"><img src="http://cdn.savings.com/img/Savings_DealPro.png" border="0" width="125" height="125" alt="I'm a Savings.com Dealpro!"></a></div><div style="clear:both;"></div>
 </div>
-</div>
-		</li>				</ul>
+
+<div style="margin:0 0px;"><div style="width:125;float:left;">
+<a href="http://www.couponcabin.com/?campaign_id=96001" title="Coupon codes, printable coupons, deals, and more! I'm on Team CouponCabin"><img src="http://cdn.couponcabin.com/badges/Team-CouponCabin.png" width="125" height="125" alt="CouponCabin.com"></a></div></div>
+		</div></li>				</ul>
 			</div>
 		</div>
 	</div>
@@ -420,34 +317,37 @@ DealPro" title="Certified 2009 Savings.com DealPro" width="125" height="125"></a
 		<div id="footerleft" class="footer_items">
   	  		<h3>Resources</h3>
 	<ul class="xoxo blogroll">
-<li><a href="http://www.savingwithshellie.com/category/printable-coupons/">Coupons</a></li>
+<li><a href="http://www.savingwithshellie.com/2011/04/05/how-to-tuesday-extreme-couponing-part-1/">Finding Coupons</a></li>
+<li><a href="http://www.savingwithshellie.com/2011/04/12/how-to-tuesday-extreme-couponing-part-2/">Organizing Coupons</a></li>
+<li><a href="http://www.savingwithshellie.com/2011/04/19/how-to-tuesday-extreme-couponing-part-3/">Coupon Lingo</a></li>
+<li><a href="http://www.savingwithshellie.com/2011/05/31/how-to-tuesday-extreme-couponing-part-6/">How to Use the Coupon Database</a></li>
+<li><a href="http://www.savingwithshellie.com/2011/06/07/how-to-tuesday-extreme-couponing-part-7/">How to Stack Coupons</a></li>
+<li><a href="http://www.savingwithshellie.com/store-deals/">Store Deals</a></li>
 <li><a href="http://www.savingwithshellie.com/category/freebies/">Freebies</a></li>
 <li><a href="http://www.savingwithshellie.com/category/deals-around-town/">Deals Around Town</a></li>
-<li><a href="http://www.savingwithshellie.com/couponing-101/abbreviations-2/">Abbreviations</a></li>
-<li><a href="http://www.savingwithshellie.com/couponing-101/organization-tips/">Organization Tips</a></li>
-<li><a href="http://www.savingwithshellie.com/couponing-101/online-coupon-resources/">Online Coupon Resources</a></li>
-<li><a href="http://www.savingwithshellie.com/2009/11/17/you-asked-all-about-ecoupons/">All About eCoupons</a></li>
+<li><a href="http://www.savingwithshellie.com/category/printable-coupons/">Printable Coupons</a></li>
+<li><a href="http://www.savingwithshellie.com/category/giveaways/">Giveaways</a></li>
 
 	</ul>
 
 		</div>
 
 		<div id="footercenter" class="footer_items">
-    		<!-- Wordpress Popular Posts Plugin v2.1.4 [W] [daily] [regular] -->
+    		<!-- Wordpress Popular Posts Plugin v2.1.6 [W] [daily] [regular] -->
 
 <h3>Popular Deals</h3><ul>
-<li><a href="http://www.savingwithshellie.com/2010/05/21/free-ice-cream-walmart/" title="FREE Ice Cream at Walmart"><span class="wpp-post-title">FREE Ice Cream at Walmart</span></a> </li>
-<li><a href="http://www.savingwithshellie.com/2011/03/04/chipotle-bogo-burritos/" title="Chipotle: BOGO Burritos"><span class="wpp-post-title">Chipotle: BOGO Burritos</span></a> </li>
-<li><a href="http://www.savingwithshellie.com/2011/05/12/hot-old-navy-50-off-coupon/" title="*HOT* Old Navy: 50% Off Coupon"><span class="wpp-post-title">*HOT* Old Navy: 50% Off Coupon</span></a> </li>
-<li><a href="http://www.savingwithshellie.com/2011/05/11/safeway-coupon-deals-511-517/" title="Randalls (Safeway) Coupon Deals (5/11 - 5/17)"><span class="wpp-post-title">Randalls (Safeway) Coupon Deals (5/11 - 5/17)</span></a> </li>
-<li><a href="http://www.savingwithshellie.com/2011/01/07/bogo-vitamin-water-coupon/" title="BOGO Vitamin Water Coupon"><span class="wpp-post-title">BOGO Vitamin Water Coupon</span></a> </li>
-<li><a href="http://www.savingwithshellie.com/2011/04/05/how-to-tuesday-extreme-couponing-part-1/" title="How To Tuesday: Extreme Couponing (Part 1)"><span class="wpp-post-title">How To Tuesday: Extreme Couponing (Part 1)</span></a> </li>
-<li><a href="http://www.savingwithshellie.com/2011/05/13/printable-coupon-roundup-rimmel-gerber-more/" title="Printable Coupon Roundup: Rimmel, Gerber + More"><span class="wpp-post-title">Printable Coupon Roundup: Rimmel, Gerber + More</span></a> </li>
-<li><a href="http://www.savingwithshellie.com/2011/05/13/cinemark-summer-movies-50-each/" title="Cinemark: Summer Movies - $.50 Each"><span class="wpp-post-title">Cinemark: Summer Movies - $.50 Each</span></a> </li>
+<li><a href="http://www.savingwithshellie.com/veterans-day-freebies-2/" title="Veteran's Day FREEBIES"><span class="wpp-post-title">Veteran's Day FREEBIES</span></a> </li>
+<li><a href="http://www.savingwithshellie.com/gap-40-off-coupon-4/" title="Gap: 40% Off Coupon"><span class="wpp-post-title">Gap: 40% Off Coupon</span></a> </li>
+<li><a href="http://www.savingwithshellie.com/randalls-safeway-coupons-and-deals-119-1113/" title="Randalls (Safeway) Coupons and Deals (11/9 - 11/13)"><span class="wpp-post-title">Randalls (Safeway) Coupons and Deals (11/9 - 11/13)</span></a> </li>
+<li><a href="http://www.savingwithshellie.com/how-to-tuesday-extreme-couponing-part-1/" title="How To Tuesday: Extreme Couponing (Part 1)"><span class="wpp-post-title">How To Tuesday: Extreme Couponing (Part 1)</span></a> </li>
+<li><a href="http://www.savingwithshellie.com/toys-r-us-20-off-coupon/" title="Toys R Us: 20% Off Coupon"><span class="wpp-post-title">Toys R Us: 20% Off Coupon</span></a> </li>
+<li><a href="http://www.savingwithshellie.com/heb-coupons-and-deals/" title="HEB Coupons and Deals (11/10 - 11/16)"><span class="wpp-post-title">HEB Coupons and Deals (11/10 - 11/16)</span></a> </li>
+<li><a href="http://www.savingwithshellie.com/hot-6pm-com-deals-from-11/" title="*HOT* 6PM.com: Deals from $11"><span class="wpp-post-title">*HOT* 6PM.com: Deals from $11</span></a> </li>
+<li><a href="http://www.savingwithshellie.com/free-lowes-kids-workshop-1112/" title="FREE Lowe's Kids Workshop (11/12)"><span class="wpp-post-title">FREE Lowe's Kids Workshop (11/12)</span></a> </li>
 
 </ul>
 
-<!-- End Wordpress Popular Posts Plugin v2.1.4 -->
+<!-- End Wordpress Popular Posts Plugin v2.1.6 -->
 		</div>
 
 		<div id="footerright" class="footer_items">
@@ -459,12 +359,8 @@ DealPro" title="Certified 2009 Savings.com DealPro" width="125" height="125"></a
 	</div>
 <center>
 <script type="text/javascript">
-if(typeof(cachebuster) == "undefined"){var cachebuster = Math.floor(Math.random()*10000000000)}
-if(typeof(dcopt) == "undefined"){var dcopt = "dcopt=ist;"} else {var dcopt = ""}
-if(typeof(tile) == "undefined"){var tile = 1} else {tile++}
-document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/ltv.ltm.savingwithshellie/ROS;;' + dcopt + ';tile=' + tile + ';sz=728x90;ord=' + cachebuster + '?"></scr'+'ipt>');
-</script><script src="http://ad.doubleclick.net/adj/ltv.ltm.savingwithshellie/ROS;;;tile=3;sz=728x90;ord=6839502295?"></script>
-<noscript><a href="http://ad.doubleclick.net/jump/ltv.ltm.savingwithshellie/ROS;;sz=728x90;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/ltv.ltm.savingwithshellie/{sectionZoneName;;sz=728x90;ord=123456789?" border="0" alt="" /></a></noscript>
+  googletag.networkAds().display('/ROS zone/Leader Board', [[728,90]]);
+</script>
 </center>
 
 <div id="footercopyright"><p>© 2009–2011 SavingWithShellie.com. All rights reserved. Blog design by <a href="http://fivejsdesign.com/" target="_blank">Joy @ Five J's Design.</a></p></div>
@@ -480,57 +376,32 @@ document.write('<scr'+'ipt src="http://ad.doubleclick.net/adj/ltv.ltm.savingwith
 <a href="http://sm2.sitemeter.com/stats.asp?site=sm2shellie" target="_top">
 <img src="http://sm2.sitemeter.com/meter.asp?site=sm2shellie" alt="Site Meter" border="0"/></a>
 </noscript></div>
-<!-- Copyright (c)2009 Site Meter --></div>		<p><a href="http://www.projecthoneypot.org/faq.php#f" rel="nofollow"><!-- 666082745 --></a></p>
-<script>
- COMSCORE.beacon({
-   c1:2,
-   c2:6035378,
-   c3:"",
-   c4:"",
-   c5:"",
-   c6:"",
-   c15:""
- });
-</script>
+<!-- Copyright (c)2009 Site Meter --></div>		<p><a href="http://www.projecthoneypot.org/faq.php#f" rel="nofollow"><!-- 2083337605 --></a></p>
 
-<noscript>
- <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035378&c3=&c4=&c5=&c6=&c15=&cj=1" />
-</noscript>
-<!-- End comScore Tag -->
+		<script>
+			if(typeof window.mbd_createWrapper != 'function') { var head= document.getElementsByTagName('head')[0]; var script= document.createElement('script'); script.type= 'text/javascript'; script.src= 'http://www.savingwithshellie.com/wp-content/plugins/printable-lists/templates/custom/printable-lists.js'; head.appendChild(script); }
+		</script>
+		<script language="javascript">
+			var global_default_dock_handle_innerhtml = "";
 
+			jQuery(document).ready(function() {
+				mbd_createWrapper();
 
-<!-- Start Google Analytics Tag -->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-9504283-2");
-pageTracker._setDomainName("none");
-pageTracker._setAllowLinker(true);
-pageTracker._trackPageview();
-} catch(err) {}</script>
-<!-- End Google Analytics Tag -->
+				if(document.getElementById('mbd_dynitems_footer')) {
+					document.getElementById('mbd_dynitems_footer').innerHTML = mbd_base64_decode("UHJpbnRhYmxlIExpc3RzICZjb3B5OyAyMDEwIDxhIGhyZWY9Imh0dHA6Ly93d3cubW9yaXR6ZmluZWJsb2dkZXNpZ25zLmNvbSIgdGFyZ2V0PSJfbmV3Ij5Nb3JpdHogRmluZSBCbG9nIERlc2lnbnM8L2E+");
+				}
 
-<!-- Start Quantcast Tag -->
-<script type="text/javascript"> _qoptions={qacct:"p-fdoi6RH1gCcMo",labels:""}; qacct="p-fdoi6RH1gCcMo";</script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<noscript>
-<img src="http://pixel.quantserve.com/pixel/p-fdoi6RH1gCcMo.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
-</noscript>
-<!-- End Quantcast tag -->
-<!--End LT Moms Affiliate Network Tags -->
+				jQuery('.mbd_add').animate({'opacity':'1.0'},400,function () {
+					jQuery(this).css({'opacity':'1'});
+				});
 
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-9356358-1");
-pageTracker._trackPageview();
-} catch(err) {}</script><!--stats_footer_test--><script src="http://stats.wordpress.com/e-201119.js" type="text/javascript"></script>
+				if(document.getElementById('mbd_dynitems_handle'))
+				{
+					global_default_dock_handle_innerhtml  = document.getElementById('mbd_dynitems_handle').innerHTML;
+				}
+			});	
+		</script>
+		<!--stats_footer_test--><script src="http://stats.wordpress.com/e-201145.js" type="text/javascript"></script>
 <script type="text/javascript">
 st_go({blog:'6494239',v:'ext',post:'8876'});
 var load_cmc = function(){linktracker_init(6494239,8876,2);};
