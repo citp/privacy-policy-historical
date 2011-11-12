@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenupgrader.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514151401id_/http%3A//liveoakmedia.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenupgrader.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112143822id_/http%3A//liveoakmedia.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LiveOAK Media
 
