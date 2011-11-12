@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the netcracker.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515012033id_/http%3A//www.netcracker.com/en/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netcracker.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113000447id_/http%3A//www.netcracker.com/en/legal) for the most accurate reproduction.*
 
 # NetCracker. Privacy Statement
 
-[](https://web.archive.org/web/20110515012033id_/http://www.netcracker.com/en/legal/printable.php?print=1)
+[](https://web.archive.org/web/20111113000447id_/http://www.netcracker.com/en/legal/printable.php?print=1)
 
 NetCracker Technology Corporation (“NetCracker”) respects your privacy. This Privacy Statement informs you of our privacy practices and of the choices you can make about the way your information is collected online and how that information is used. This statement is readily available on our home page and at the bottom of every NetCracker web page. 
 
