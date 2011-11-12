@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalparks.org privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512050418id_/http%3A//www.nationalparks.org%3Ffa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalparks.org privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112065409id_/http%3A//www.nationalparks.org%3Ffa%3Dprivacy) for the most accurate reproduction.*
 
 # National Park Foundation | Privacy Policy
 
