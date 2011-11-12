@@ -1,144 +1,158 @@
-> *The following text is extracted and transformed from the priceless.com privacy policy that was archived on 2010-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101114095952id_/http%3A//www.priceless.com/us/personal/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceless.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112072228id_/http%3A//www.mastercard.us/privacy) for the most accurate reproduction.*
 
-# Privacy Notice | priceless.com
+# MasterCard Global Privacy Policy — United States | MasterCard®
 
-**  
-Privacy Notice**  
-We at MasterCard International Incorporated (“we” or “us” or “MasterCard”) respect your privacy and value the relationship we have with you. This Privacy Notice describes the types of information we collect on [www.priceless.com/us](http://www.priceless.com/) (the “Site”) how we may use that information, and with whom we may share it. This Privacy Notice does not include information collection and use practices on other MasterCard Web sites. Please see the respective privacy notices for descriptions of those practices.
+MasterCard International Incorporated (doing business as MasterCard Worldwide) and its affiliates (collectively, "MasterCard") respect your privacy. This Global Privacy Policy describes the types of personal information we collect, how we use the information, with whom we share it, and the choices you can make about our use of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.
 
-This Privacy Notice also describes the measures we take to protect your personal information. We also describe the choices you can make about how we collect and use the personal information you provide to us, as well as personal information that we may share with third parties. We also discuss how you can update your personal information, contact us with questions or comments, inquire about our company and its products and services, or answer any questions you may have about our privacy practices or this Web site.
+Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements.
 
-**Table of Contents** | **Programs**  
----|---  
-Information We Collect | Newsletters and Subscriptions  
-Active Collection of Information | Other Content and Functionality  
-Passive Collection of Information | Tell a Friend  
-How We Use the Information We Collect | Text Messaging  
-How We Share the Information We Collect | MasterCard Unique Experiences  
-Children’s Privacy | Surveys and Questionnaires  
-Security | User Generated Content  
-Your Choices | Contact Us  
-Updates to the Privacy Notice | Sweepstakes and Contests  
-  
-**_Information We Collect:_**  
-Generally, we collect personal information on this Site to provide you the information, product or services you request. This information will consist of your name and contact details. We do not collect full credit card numbers on this Site. Please see the discussion below regarding specific programs.
+Click on one of the links below to jump to the listed section:
 
-Moreover, given that this Site is intended for residents of the United States, we generally collect all of our information on servers located in the United States.
+  * Information We Collect
+  * How We Use The Information We Collect
+  * Information We Share
+  * Your Rights And Choices
+  * Data Transfers
+  * How We Protect Personal Information
+  * Links To Other Websites
+  * Updates To Our Global Privacy Policy
+  * How To Contact Us
 
-**_Active Collection of Information_**  
-_Newsletters and Subscriptions_
 
-You may sign up on the Site to receive our newsletters or subscriptions. In order to fulfill your requests, we may ask you for your information, such as name, zip code, type of MasterCard you have, and e-mail address. For certain programs we may ask you to provide the first six digits of your MasterCard account number so that we can verify that you are a cardholder or what type of MasterCard card you have. 
 
-You may unsubscribe to our newsletters and other e-mail based services at anytime by clicking on the applicable unsubscribe link included in our e-mails to you.
+Information We Collect
 
-_Other Content and Functionality_
+MasterCard may obtain information about you from various sources. We may obtain information about you in our role as a processor of payment card transactions. We also may have a direct relationship with you, and you may choose to provide personal information to us in connection with that relationship.
 
-You may sign up on the Site to receive music downloads, video downloads and other information, functionality or content. In order to fulfill your requests, we may ask you for your personal information, such as name, and postal and e-mail addresses. For certain programs we may ask you to provide the first six digits of your MasterCard account number so that we can verify that you are a cardholder. Additionally, in order for you to obtain some of this content and functionality we may ask you to register on the Site and create a user name and password, as well as potentially, a security question, which may contain personal information.
+As a processor of payment card transactions and provider of related services, we obtain personal information about you from financial institutions and other entities in connection with your payment card transactions. We also may obtain information about you from companies that use MasterCard products or services, publicly available information systems, consumer reporting agencies, and commercial information services.
 
-_Tell A Friend_
+In addition, you may choose to submit information directly to us. You may do so, for example, on our websites, in connection with a MasterCard product or service, when you participate in an offer or promotion, or in connection with an actual or potential business or employment relationship with us.
 
-You may use a Tell a Friend functionality on this Site to send your friends information from MasterCard and its marketing partners. In order to fulfill this request, we will ask you for your and your friends’ names and e-mail addresses. We do not retain this data after the e-mail is sent.
+The types of personal information we may obtain are:
 
-_Text Messaging_
+  * Contact information (such as name, postal or e-mail address, and phone or fax number)
+  * Business contact information (such as job title, department and name of organization)
+  * Username and password
+  * Payment card information
+  * Financial information (such as financial account information and information that may be contained in a consumer report)
+  * PIN or access code (such as a SecurID® or SoftID® code)
+  * Contact information for friends or other people you would like us to contact
+  * Content you provide (such as photographs, articles and comments)
+  * Employment information
+  * Mobile device unique identifier
+  * Social Media identifier (such as Facebook id)
+  * Geo-location data
+  * Other information (such as shopping behavior and preferences, language preference, age, date of birth, gender and family status) 
 
-You may sign up to receive information or offers from us and our merchant partners via text messaging (SMS). In order to fulfill these requests, we or our service provider will ask you for your mobile phone number. We will not retain your mobile phone number after we send you your requested information.
 
-_MasterCard Unique Experiences_
 
-You may use this Site as a gateway to make reservations or purchase unique MasterCard® experiences, including, purchasing Broadway show and airline tickets or making restaurant reservations. If you choose to make a reservation, our vendor may ask for your name, phone number, postal and e-mail addresses and other information about you. If you are purchasing an experience (including theater or airline tickets), our service provider also separately will ask you for your MasterCard account information to pay for the purchase. We do not collect and do not receive full credit card details.
+We collect certain information by automated means, such as cookies and web beacons, when you visit our websites. The information we collect in this manner includes IP address, browser type, operating system, referring URLs, information on actions taken on a website, and dates and times of website visits. A "cookie" is a text file placed on a computer's hard drive or your mobile device's memory by a web server. A "web beacon," also known as an Internet tag, pixel tag or clear GIF, is used to transmit information back to a web server.
 
-_Sweepstakes and Contests_
+Back to top
 
-From time to time we run sweepstakes or contests. When you enter a sweepstake or contest online, we may collect your first and last name, and e-mail addresses. We also may ask you for additional information, such as your interests, product preferences or zip code. If you win a sweepstakes or contest, we may ask you for additional information.
+How We Use The Information We Collect
 
-If you enter a sweepstakes by using your MasterCard card, but not by providing us your personal information, and you win that sweepstakes, our fulfillment service provider may obtain your name and contact information from the financial institution (bank) that issued your MasterCard card in order to contact you regarding your prize, but our service provider does not provide us that information.
+We may use the information we obtain about you to:
 
-_Surveys and Questionnaires_
+  * Process your payment card transactions (including authorization, clearing, settlement, chargebacks and other related dispute resolution activities) 
+  * Protect against and prevent fraud, unauthorized transactions, claims and other liabilities, and manage risk exposure and franchise quality
+  * Create and manage your online account and respond to your inquiries
+  * Provide, administer and communicate with you about products, services and promotions (including contests, sweepstakes, programs and other offers)
+  * Publish business directories (which may include business contact information)
+  * Operate, evaluate and improve our business (including developing new products and services; managing our communications; determining the effectiveness of our advertising; analyzing our products, services and websites; facilitating the functionality of our websites; and performing accounting, auditing, billing, reconciliation and collection activities)
+  * Monitor the use of and improve our interactive assets
+  * Perform data analyses (including anonymization of personal information)
+  * Evaluate your interest in employment and contact you regarding possible employment with MasterCard
+  * Enforce our [Terms of Use](https://web.archive.org/terms-of-use.html)
+  * Comply with applicable legal requirements and industry standards and our policies
+  * We also may use the information in other ways for which we provide specific notice at the time of collection.
 
-We may ask you to complete online surveys and opinion polls on a variety of topics, including your activities, attitudes, and interests as they relate to our products and services. When you complete a survey we or our service provider usually collect your name, zip code, and e-mail addresses. We also may ask you for additional information, such as your age, interests, or product preferences.
 
-_User Generated Content_
 
-We provide tools by which you may share publicly information about yourself, content you have created (such as photographs and essays) and your interests. If you choose to share such information and content, we may ask for your name and contact information, as well as for personal comments, videos and photographs, all of which may be posted publicly. So please consider the items you provide to us before they are published for the world to see.
+Back to top
 
-_"Contact Us"_
+Information We Share
 
-If you contact us with comments or questions, we will have any information you choose to provide.
+We do not sell or otherwise disclose personal information we collect about you, except as described here in or otherwise disclose to you at the time the data is collected.
 
-**Passive Collection of Information**  
-_Site_
+We share information to perform payment card transactions and other activities that you request. We may share the personal information we collect with our affiliates, financial institutions that issue payment cards or process payment card transactions, entities that assist with payment card fraud prevention, and merchants. For example, in this context we provide financial institutions with information about their cardholders' transactions that MasterCard processes. In addition, we may share personal information with other third parties with the consent of the individual to whom the information pertains.
 
-When you visit our Site, your browser automatically may send us certain non-personal information, such as a referring Web site, IP address, operating system in use, information about your computer, browser and browser version. 
+We also may share the information with our service providers who perform services on our behalf. We do not authorize these service providers to use or disclose the information except as necessary to perform certain services on our behalf or comply with legal requirements. We require these service providers by contract to appropriately safeguard the privacy and security of personal information they process on our behalf.
 
-We contract with service providers to provide us with online data collection, reporting and analytical services. This Site’s HTML-formatted Web pages may include electronic image requests (called a "single-pixel gif", “clear-gifs” or "Web beacon" request) to our service providers’ servers. These Web beacons do not collect any personal information. These are just the technique by which our service providers compile anonymous information about your browsing activity on the Site. In connection with the Web beacons our service providers also may use cookies to collect such anonymous information. Our service providers are contractually prohibited from using any of the information obtained in the course of providing these services except on our behalf. 
+On our websites, you may choose to use certain features for which we partner with other entities. These features, which include social networking and geographic location tools, are operated by third parties that are not affiliated with MasterCard. These third parties may use personal information in accordance with their own privacy policies. On sites on which these features are offered, the relevant third parties are identified on the websites. We strongly suggest you review the third parties' privacy policies if you use the relevant features.
 
-By our collecting this information, we learn how to best tailor our Site to our visitors. While generally we examine such anonymous information only in the aggregate, such aggregated information could be linked back to an individual IP addresses or machine access codes (MACs). To find out more about how this information is used, please go to [www.networkadvertising.org](http://www.networkadvertising.org/) or [www.omniture.com/en/privacy/product](http://www.omniture.com/en/privacy/product).
+We also may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraudulent or illegal activity.
 
-A cookie is a small piece of information sent by a Web site that is saved on your hard disk by your computer's browser. It holds information a site may need to interact with you and personalize your experience, such as a unique identifier, but the cookies set by our service providers do not contain personally identifiable information
+We also reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner that is consistent with our Global Privacy Policy. Following such a sale or transfer, you may contact the entity to which we transferred your personal information with any inquiries concerning the processing of that information.
 
-You can set your browser to notify you when you receive a cookie, which gives you the opportunity to decide whether you want to accept it or not. In many instances, the Help button on your browser toolbar will tell you how you can take these steps; however, if you do take such steps, it may impact your ability to interact with this Site and to access information and functionality. Additionally, you may choose to receive an opt-out cookie from some of our service providers, which will allow you to be anonymous relative to them. See [networkadvertising.org/managing/opt_out.asp](http://networkadvertising.org/managing/opt_out.asp) and [www.omniture.com/en/privacy/product#optout](http://www.omniture.com/en/privacy/product#optout) for more information on opt-out cookies.
+Back to top
 
-_E-mail_
+Your Rights And Choices
 
-If your e-mail software is capable of receiving HTML coded e-mails, when we send you e-mails we and our e-mail service provider may collect information via Web beacons regarding the delivery of the e-mail, including, whether the e-mail was delivered, whether it was opened, whether it was opened with HTML capable e-mail software, when it was opened, and which links you click on. This data may be associated with your e-mail address. Our e-mail service provider is contractually prohibited from using the information obtained in the course of providing these services to us except on our behalf. 
+You may have certain rights regarding the personal information we maintain about you. We offer you certain choices about what personal information we collect from you, how we use that information, and how we communicate with you.
 
-_Text Messaging_
+You may choose not to provide personal information to MasterCard by refraining from conducting a payment card transaction using a payment card. You also may refrain from submitting information directly to us.
 
-When our vendor sends you text messages our vendor collects information regarding the delivery of the message, including, that a message was delivered, and the time of delivery. Our text messaging service provider is prohibited contractually from using the information obtained in the course of providing these services to us, except as necessary to process your request.
+You may elect not to have a unique cookie identification number assigned to your computer to avoid aggregation and analysis of data collected on our websites. If you would like to opt-out, [click here](https://web.archive.org/privacy/web-analytics-opt-out.html). Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. Please note, however, that without cookies you may not be able to take full advantage of all our website features.
 
-**_How We Use Personal Information_**  
-Personal information collected through or in connection with our interactive services is used in connection with the purpose for which it was submitted, including: to contact you to answer a question, to send you a newsletter or other information you have requested, for the administration of any contests or sweepstakes, and to arrange for any other services you have requested. 
+You may opt-out of certain uses of information we collect about you by automated means when you visit other websites. Specifically, we may use service providers to post content on third party websites. They may use cookies when they serve ads to you. You may direct our service providers not to use cookies to serve ads to you by clicking [Cookie Opt-out](http://www.networkadvertising.org/managing/opt_out.asp).
 
-We also may use the information we collect to enhance your interactive experience while using our Site or viewing our electronic communications, to improve the content of the Site or to improve the quality or variety of the products, services and promotions we offer.
+You can at any time tell us not to send you marketing communications by e-mail by clicking on the unsubscribe link within the marketing e-mails you receive from us or by contacting us as indicated below. You also may opt-out of receiving marketing e-mails from MasterCard by [clicking here](https://web.archive.org/privacy/email-opt-out.html). You can stop receiving marketing postal mail from MasterCard by following the opt-out instructions that may be included in a particular promotion. You also can opt-out of receiving promotional postal mail from us by contacting us as indicated below. You may receive from other entities promotional postal mail that contains a MasterCard, Maestro or Cirrus logo. Please contact those entities to exercise your choices regarding these communications. As indicated above, we may anonymize personal information to perform data analyses. To opt-out, [click here](https://web.archive.org/privacy/data-analytics-opt-out.html).
 
-We may use the information you provide to us to contact you regarding other promotions, offers, information and items that may interest you. See the discussion of choices if you do not wish to receive such information.
+If your employer provides your personal information to MasterCard, you may have certain choices with respect to MasterCard's use or disclosure of the information. Please contact your employer to learn about and amend your choices.
 
-**How We Share Personal Information**  
-We do not share personal information about you gathered through your interaction with the Site, except as described here. We may share information you provided with service providers we have retained to perform services on our behalf, including Web hosting service providers, e-mail service providers, SMS service providers, advertising agencies and fulfillment houses. 
+You may withdraw any consent you previously provided to us, or object at any time on legitimate grounds, to the processing of your personal information. We will apply your preferences going forward. In some circumstances, withdrawing your consent to MasterCard's use or disclosure of your personal information will mean that you cannot take advantage of certain MasterCard products or services.
 
-In those situations, the service provider is performing work for us, and we take the appropriate steps designed to ensure your information is used only to provide the services specified, and that it is maintained in a confidential manner.
+If you are located in the European Economic Area or Switzerland, you may direct us not to share your personal information with third parties, except (i) with service providers we have retained to perform services on our behalf, (ii) in the event we sell or transfer all or a portion of our business or assets, (iii) if disclosure is required by law or legal process, (iv) with law enforcement authorities or other government officials, or (v) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or in connection with an investigation of suspected or actual fraud or other illegal activity. If you are located in the European Economic Area or Switzerland, we use your personal information only for the purposes indicated in this policy unless we have a legal basis, such as consent, to use it for other purposes. Where required by law, MasterCard obtains your prior opt-in consent at the time of collection for the processing of (i) personal information for marketing purposes and (ii) personal information deemed sensitive pursuant to applicable law.
 
-We also may transfer and disclose personal information in accordance with the terms and conditions of any sweepstakes and contests and any publicity release you may sign in accordance with that sweepstake or contest. We also may obtain information about you, such as from your issuing bank, in accordance with such terms and conditions. Any information you provide in a user generated content context, such as Priceless Picks, may be publicly disclosed and shared accordingly.
+Subject to applicable law, you may have the right to request access to and receive information about the personal data we maintain about you, update and correct inaccuracies in your personal data, and have the information blocked or deleted, as appropriate. The right to access personal information may be limited in some circumstances by local law requirements.
 
-If you answer surveys or questionnaires, we do not share your personal information from such surveys or questionnaires other than with our service providers, but we may share such data on an anonymized basis, without your personal information.
+To update your preferences, ask us to remove your information from our mailing lists or submit a request, please contact us as specified below.
 
-In addition, we may disclose information about you to others (i) if we are required to do so by law, (ii) in response to legal process, (iii) to law enforcement authorities or other government officials, or (iv) when we believe disclosure is necessary or appropriate to prevent harm or loss or in connection with an investigation of suspected or actual fraud or illegal activity.
+Back to top
 
-We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to try to ensure that the transferee uses personal information you have provided through this Site in a manner that is consistent with this Privacy Notice.
+Data Transfers
 
-**Links to Other Web sites**  
-We provide links to other Web sites for your convenience and information, including Web sites of merchants offering a discount or premium offer. These sites operate independently from www.priceless.com, and are not under our control. These sites may have their own privacy notices in place, which we strongly suggest you review if you visit any linked Web site. We are not responsible for the content of these sites, any products or services that may be offered through these Web sites, or the privacy practices of these Web sites.
+We may transfer the personal information we collect about you to countries other than the country in which the information was originally collected. Those countries may not have the same data protection laws as the country in which you initially provided the information. When we transfer your information to other countries, we will protect that information as described in this Global Privacy Policy.
 
-**Children’s Privacy**  
-This Site is intended for an adult audience and is not meant for children. We do not knowingly collect information from children under 13. We want to let you know that it is MasterCard policy not to collect personal information of any person under 13. If we knowingly obtain personally identifiable information in error on a child under the age of 13, we will delete that information from our systems. For this reason, our online sweepstakes are restricted to entrants who, at a minimum, are at least 13 years of age.
+If you are located in the European Economic Area or Switzerland, we comply with applicable legal requirements providing adequate protection for the transfer of personal information to countries outside of the EEA or Switzerland. MasterCard is certified under the Safe Harbor privacy framework as set forth by the U.S. Department of Commerce, European Commission and Switzerland regarding the collection, storage, use, transfer and other processing of personal data transferred from the European Economic Area or Switzerland to the U.S. [Click here](https://web.archive.org/privacy/safe-harbor.html) to view our Safe Harbor Privacy Policy.
 
-**Security**  
-MasterCard is committed to using industry practices to maintain the security of personal information collected on our Site. To try to prevent unauthorized access, maintain data accuracy, and ensure the correct use of personal information, we have put in place technical, physical and administrative methods designed to safeguard the personal information we collect online. We store personal information on a secured server behind a firewall that is not directly connected to the Internet.
+Back to top
 
-Please remember that no data transmission over the Internet, or by other means, can be guaranteed to be 100% secure. Thus, while we strive to protect your personal information, MasterCard cannot ensure or warrant the security of any information you transmit to us. Therefore, you understand, acknowledge, and agree that you transmit your Personal Information over the Internet and through this Site at your own risk. 
+How We Protect Personal Information
 
-If you registered to access a portion of this Site, you should maintain the confidentiality of your user name and password. You should use a password that is not easily guessed. We use secure socket layer (SSL) or secure HTTP (HTTPS) technology to protect your user name and password when you enter that information on the Site. If you believe your user name and password have been compromised, please contact us per the "How To Contact Us" section below.
+We maintain appropriate administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. We use SSL encryption on a number of our websites from which we transfer certain personal information.
 
-**Your Choices**  
-To subscribe or unsubscribe to any of our programs, newsletters or alerts, you should follow the specific directions provided for that specific program, newsletter or alert on the Site. You can "opt-out" of receiving promotional e-mail from us by following the opt-out instructions in our e-mails. To ensure that your opt-out request is honored, you must use the method designated in the e-mails to notify us of your opt-out request, since we cannot guarantee that other methods of notification will be effective or timely.
+Back to top
 
-You can opt-out of receiving text messages by replying to any message with a “STOP” code or as otherwise specified for that particular program.
+Links To Other Websites
 
-Please be aware that we are able to effectuate an opt-out only for a specific e-mail address or mobile phone number respectively. So, if you have more than one e-mail address or mobile phone number or if you have changed your e-mail address or mobile phone number, your opt-out request may not be effectuated properly. If you believe you have opted out, but continue to receive e-mails or text messages from us, please contact us by one of the means listed under “How to Contact Us”, below, and we will try to resolve the issue.
+Our websites may provide links to other websites for your convenience and information. These websites may operate independently from MasterCard. Linked sites may have their own privacy notices or policies, which we strongly suggest you review if you visit any linked websites. To the extent any linked websites you visit are not owned or controlled by MasterCard, we are not responsible for the sites' content, any use of the sites, or the privacy practices of the sites.
 
-Please note that even if you chose to opt-out of MasterCard marketing communications, we will continue to send you important service related communications, including follow-up messages regarding sweepstakes or contests you have entered.
+Back to top
 
-You also have choices with respect to the non-personal information we collect as discussed above in the Passive Collection of Information section.
+Updates To Our Global Privacy Policy
 
-If you cannot determine how to opt-out of a particular program, please contact us as specified in the "How To Contact Us" section below.
+This Global Privacy Policy may be updated periodically and without prior notice to you to reflect changes in our personal information practices. We will post a prominent notice on our websites to notify you of any significant changes to our Global Privacy Policy and indicate at the top of the policy when it was most recently updated.
 
-**Updates to this Privacy Notice**  
-Note that by using the Site and any related interactive services you signify your agreement to this Privacy Notice. This Privacy Notice may change from time to time. Changes to this Privacy Notice will become effective when those changes are posted to the Site. Your continued use of the services and the Site subsequent to any changes to this Privacy Notice constitutes your acceptance of the changes. Please review this Notice periodically to ensure continuing familiarity with its most current provisions, and so you are aware of any changes or updates to this Notice. We indicate above the effective date of the Notice.
+Back to top
 
-**How to Contact Us and Update Information**  
-We regret that we cannot answer any inquiries related to your financial account for which you should contact your financial institution (bank) directly. If you would like to contact us regarding this Notice, your privacy or update or correct your personal information, please write to:  
+How To Contact Us
+
+If you have any questions or comments about this Global Privacy Policy, or if you would like us to update information we have about you or your preferences, please [click here](https://web.archive.org/privacy/contact-us.html). You also may write to:
+
+Global Privacy & Data Usage Officer  
 MasterCard Worldwide  
-c/o priceless.com Webmaster  
 2000 Purchase Street  
-Purchase, NY 10577
+Purchase, New York 10577  
+USA
+
+If you are located in the European Economic Area or Switzerland, MasterCard Europe sprl may be the entity responsible for the processing of your personal information. To exercise your rights of access, rectifications, blocking, or deletion or to object to the processing of your personal information, contact us by [clicking here](https://web.archive.org/privacy/contact-us.html) or writing to us at:
+
+Global Privacy & Data Usage Officer  
+MasterCard Europe sprl  
+Chausee de Tervuren 198A  
+B-1410, Waterloo  
+Belgium
+
+Back to top
