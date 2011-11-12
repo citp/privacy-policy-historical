@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liebertpub.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513232542id_/http%3A//www.liebertpub.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liebertpub.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112012013id_/http%3A//www.liebertpub.com/privacy.aspx) for the most accurate reproduction.*
 
 # Mary Ann Liebert, Inc. – The Leading Publisher in Biotechnology
 
