@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the kseb.in privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514070202id_/http%3A//kseb.in/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D155%26Itemid%3D118) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kseb.in privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112090719id_/http%3A//www.kseb.in/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D155%26Itemid%3D118) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Wednesday, 06 April 2011 20:40 
 
 **Privacy Policy**
 
