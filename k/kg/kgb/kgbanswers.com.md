@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kgbanswers.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513060417id_/http%3A//542542.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kgbanswers.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113000613id_/http%3A//542542.com/privacy) for the most accurate reproduction.*
 
 # 542542 — kgb Privacy Policy
 
