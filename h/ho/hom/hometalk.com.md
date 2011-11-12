@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometalk.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623231601id_/http%3A//hometalk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometalk.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112120532id_/http%3A//www.hometalk.com/privacy) for the most accurate reproduction.*
 
 # Hometalk Privacy Policy :: Hometalk
 
@@ -52,7 +52,7 @@ Hometalk does not share, sell, rent or trade Personal Information with third par
 If you use a blog, or group on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of the website, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit on the website.
 
  **Tell-A-Friend**  
-If you choose to use our referral service to tell a friend about our site, we will ask for your friend's name and E-mail address. We will automatically send your friend a one-time E-mail inviting him or her to visit the site. Networx systems, LLC stores this information for the sole purpose of sending this one-time E-mail and tracking the success of our referral program. Your friend may contact us at info@HomeTalk.com to request that we remove this information from our database.
+If you choose to use our referral service to tell a friend about our site, we will ask for your friend's name and E-mail address. We will automatically send your friend a one-time E-mail inviting him or her to visit the site. Networx Systems, LLC stores this information for the sole purpose of sending this one-time E-mail and tracking the success of our referral program. Your friend may contact us at info@HomeTalk.com to request that we remove this information from our database.
 
  **Feedback**  
 If you choose to submit feedback on any of the sites, we will ask for your name and rating of the company in which you are providing feedback about. Your name will be displayed as you submitted it, if you do not wish to display your last name please just submit your first name or first name and last initial along with your feedback.
