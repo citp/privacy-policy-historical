@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buycheapsoftware.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603231617id_/http%3A//www.buycheapsoftware.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buycheapsoftware.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112235049id_/http%3A//buycheapsoftware.com/privacy.asp) for the most accurate reproduction.*
 
 # BuyCheapSoftware
 
@@ -25,31 +25,7 @@ Simply call our toll free number (888-999-2611) Open Monday to Friday, 7:30 to 6
   
 |  |   
 ---  
-[Trend Micro Titanium Internet Security 2011 3-PC's oem Flat Pack](https://web.archive.org/web/20110603231617id_/http%3A//www.buycheapsoftware.com/details~productID~5168.asp)
-
-Our Price: **$ 9.95**
-
-Retail Price $29.95
-
-  
-  
-[Norton AntiVirus 2011 and AntiSpyware 2011 for 1 PC Full Retail Version](https://web.archive.org/web/20110603231617id_/http%3A//www.buycheapsoftware.com/details~productID~5113.asp)
-
-Our Price: **$ 14.95**
-
-Retail Price $30.95
-
-  
-  
-[Trend Micro Internet Security 2010 with free 2011 update 3-User Download](https://web.archive.org/web/20110603231617id_/http%3A//www.buycheapsoftware.com/details~productID~4641.asp)
-
-Our Price: **$ 10.95**
-
-Retail Price $29.95
-
-  
-  
-[Norton AntiVirus 2011 USA-OEM 1-Pack for PC-Windows ](https://web.archive.org/web/20110603231617id_/http%3A//www.buycheapsoftware.com/details~productID~5089.asp)
+[Norton AntiVirus 2012 with AntiSpyware 2012 Full oem 1-user version](https://web.archive.org/web/20111112235049id_/http%3A//buycheapsoftware.com/details~productID~5378.asp)
 
 Our Price: **$ 13.45**
 
@@ -57,49 +33,73 @@ Retail Price $24.99
 
   
   
-[Trend Micro Titanium Internet Security 2011 Retail Box 3-User NOT OEM](https://web.archive.org/web/20110603231617id_/http%3A//www.buycheapsoftware.com/details~productID~5116.asp)
+[WordPerfect Office X5 Standard Edition OEM](https://web.archive.org/web/20111112235049id_/http%3A//buycheapsoftware.com/details~productID~5185.asp)
 
-Our Price: **$ 18.95**
+Our Price: **$ 17.95**
+
+Retail Price $59.00
+
+  
+  
+[Trend Micro Internet Security 2011 FREE 2012 UPGRADE 3-PC's oem Flat Pack](https://web.archive.org/web/20111112235049id_/http%3A//buycheapsoftware.com/details~productID~5168.asp)
+
+Our Price: **$ 9.45**
+
+Retail Price $29.95
+
+  
+  
+[Trend Micro Titanium Internet Security 2012 (3-User) Download](https://web.archive.org/web/20111112235049id_/http%3A//buycheapsoftware.com/details~productID~5114.asp)
+
+Our Price: **$ 10.95**
+
+Retail Price $33.95
+
+  
+  
+[Norton AntiVirus 2011 and AntiSpyware 2011 for 1 PC Full Retail Version](https://web.archive.org/web/20111112235049id_/http%3A//buycheapsoftware.com/details~productID~5113.asp)
+
+Our Price: **$ 20.95**
 
 Retail Price $39.95
 
   
   
-[Kaspersky Internet Security 2011 Retail Box 3-User](https://web.archive.org/web/20110603231617id_/http%3A//www.buycheapsoftware.com/details~productID~5105.asp)
+[Kaspersky AntiVirus 2012 Full 1-User Retail Box](https://web.archive.org/web/20111112235049id_/http%3A//buycheapsoftware.com/details~productID~5395.asp)
 
-Our Price: **$ 34.95**
+Our Price: **$ 19.95**
 
-Retail Price $79.95
-
-  
-  
-[Norton Internet Security 2011 USA-OEM 1-Pack System Builder](https://web.archive.org/web/20110603231617id_/http%3A//www.buycheapsoftware.com/details~productID~5094.asp)
-
-Our Price: **$ 17.25**
-
-Retail Price $34.95
+Retail Price $37.95
 
   
   
-[Kaspersky AntiVirus 2011 Full Retail Box 1-User](https://web.archive.org/web/20110603231617id_/http%3A//www.buycheapsoftware.com/details~productID~5102.asp)
+[Norton Internet Security 2012 Full 1-PC Retail Flat Pack for Windows](https://web.archive.org/web/20111112235049id_/http%3A//buycheapsoftware.com/details~productID~5404.asp)
 
-Our Price: **$ 24.95**
+Our Price: **$ 19.95**
 
-Retail Price $39.95
-
-  
-  
-[Trend Micro Titanium Internet Security 2011 (3-User) Download](https://web.archive.org/web/20110603231617id_/http%3A//www.buycheapsoftware.com/details~productID~5114.asp)
-
-Our Price: **$ 12.95**
-
-Retail Price $34.95
+Retail Price $39.99
 
   
   
-[Office 2010 Home and Business Full OEM 1-user Version](https://web.archive.org/web/20110603231617id_/http%3A//www.buycheapsoftware.com/details~productID~5004.asp)
+[Acrobat 9 Standard Full oem Older Version](https://web.archive.org/web/20111112235049id_/http%3A//buycheapsoftware.com/details~productID~4386.asp)
 
-Our Price: **$ 165.95**
+Our Price: **$ 95.00**
+
+Retail Price $199.95
+
+  
+  
+[Office 2010 Home and Business for 1 PC Full oem Download Version](https://web.archive.org/web/20111112235049id_/http%3A//buycheapsoftware.com/details~productID~5239.asp)
+
+Our Price: **$ 158.95**
+
+Retail Price $249.95
+
+  
+  
+[Office 2010 Home and Business Full OEM 1-user Version](https://web.archive.org/web/20111112235049id_/http%3A//buycheapsoftware.com/details~productID~5004.asp)
+
+Our Price: **$ 158.00**
 
 Retail Price $249.95
 
