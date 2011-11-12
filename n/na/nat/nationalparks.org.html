@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the nationalparks.org privacy policy that was archived on 2011-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110512050418id_/http%3A//www.nationalparks.org%3Ffa%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nationalparks.org privacy policy that was archived on 2011-11-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111112065409id_/http%3A//www.nationalparks.org%3Ffa%3Dprivacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml" id="npf-org" class="js" dir="ltr" lang="en-US"><head>
+<!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml" id="npf-org" class="js" dir="ltr" lang="en-US"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
+
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
@@ -56,6 +58,96 @@ function popUp(URL) {
 }
 </script>
 
+
+<script type="text/javascript">
+	if (window.ColdFusion) ColdFusion.required['sfname']=true;
+</script>
+
+<script type="text/javascript">
+	if (window.ColdFusion) ColdFusion.required['slname']=true;
+</script>
+
+<script type="text/javascript">
+	if (window.ColdFusion) ColdFusion.required['szipcode']=true;
+</script>
+
+<script type="text/javascript">
+	if (window.ColdFusion) ColdFusion.required['semail']=true;
+</script>
+<script type="text/javascript">
+<!--
+    _CF_checksubscribeParks = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+        //form element sfname required check
+        if( !_CF_hasValue(_CF_this['sfname'], "TEXT", false ) )
+        {
+            _CF_onError(_CF_this, "sfname", _CF_this['sfname'].value, "Please enter your first name");
+            _CF_error_exists = true;
+        }
+
+        //form element slname required check
+        if( !_CF_hasValue(_CF_this['slname'], "TEXT", false ) )
+        {
+            _CF_onError(_CF_this, "slname", _CF_this['slname'].value, "Please enter your last name");
+            _CF_error_exists = true;
+        }
+
+        //form element szipcode required check
+        if( _CF_hasValue(_CF_this['szipcode'], "TEXT", false ) )
+        {
+            //form element szipcode 'ZIPCODE' validation checks
+            if (!_CF_checkzip(_CF_this['szipcode'].value, true))
+            {
+                _CF_onError(_CF_this, "szipcode", _CF_this['szipcode'].value, "Please enter a valid zip code");
+                _CF_error_exists = true;
+            }
+
+        }else {
+            _CF_onError(_CF_this, "szipcode", _CF_this['szipcode'].value, "Please enter a valid zip code");
+            _CF_error_exists = true;
+        }
+
+        //form element semail required check
+        if( _CF_hasValue(_CF_this['semail'], "TEXT", false ) )
+        {
+            //form element semail 'EMAIL' validation checks
+            if (!_CF_checkEmail(_CF_this['semail'].value, true))
+            {
+                _CF_onError(_CF_this, "semail", _CF_this['semail'].value, "Please enter a valid email address");
+                _CF_error_exists = true;
+            }
+
+        }else {
+            _CF_onError(_CF_this, "semail", _CF_this['semail'].value, "Please enter a valid email address");
+            _CF_error_exists = true;
+        }
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
 </head>
 
 
@@ -80,7 +172,7 @@ function popUp(URL) {
 		<img src="/best-idea-images/template/print-logo.png" alt="" id="printLogo" height="90" width="563">
 		
 	</div><!-- /#header -->
-	
+
 	
 		<div class="newsTicker">
 			<h2><a href="/news/">NPF News:</a></h2>
@@ -310,44 +402,6 @@ function popUp(URL) {
 			
 		
 	
-		
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-	
-		
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-			
-		
-	
 	
 
 	
@@ -379,7 +433,7 @@ function popUp(URL) {
 					
 				
 				
-				<strong><a href="/news/?fa=viewArticle&amp;articleID=3166">THE STORY OF 9/11 IS NOT OVER YET</a></strong>
+				<strong><a href="/news/?fa=viewArticle&amp;articleID=3221">NATIONAL CHRISTMAS TREE LIGHTING CEREMONY ON DECEMBER 1</a></strong>
 				
 				
 			</li>
@@ -393,7 +447,7 @@ function popUp(URL) {
 					
 				
 				
-				<strong><a href="/news/?fa=viewArticle&amp;articleID=3165">SAY “THANKS” TO MOM &amp; MOTHER EARTH WITH MACY’S &amp; THE NATIONAL PARK FOUNDATION</a></strong>
+				<strong><a href="/news/?fa=viewArticle&amp;articleID=3220">SECRETARY SALAZAR ANNOUNCES NATIONAL PARK FEE FREE DAYS FOR 2012</a></strong>
 				
 				
 			</li>
@@ -407,7 +461,7 @@ function popUp(URL) {
 					
 				
 				
-				<strong><a href="/news/?fa=viewArticle&amp;articleID=3163">IT’S NATIONAL PARK WEEK! WHAT PARK ARE YOU HEADED TO?</a></strong>
+				<strong><a href="/news/?fa=viewArticle&amp;articleID=3219">MOST INTERACTIVE NATIONAL PARK ELECTRONIC FIELD TRIP EVER!</a></strong>
 				
 				
 			</li>
@@ -421,35 +475,7 @@ function popUp(URL) {
 					
 				
 				
-				<strong><a href="/news/?fa=viewArticle&amp;articleID=3162">TOP 10 WAYS TO CELEBRATE NATIONAL PARK WEEK 2011</a></strong>
-				
-				
-			</li>
-		
-			
-			
-			<li>
-				
-					
-						
-					
-				
-				
-				<strong><a href="/news/?fa=viewArticle&amp;articleID=3161">HISTORY &amp; NPF EMBARK ON FOUR YEAR EDUCATIONAL &amp; FUND-RAISING INITIATIVE</a></strong>
-				
-				
-			</li>
-		
-			
-			
-			<li>
-				
-					
-						
-					
-				
-				
-				<strong><a href="/news/?fa=viewArticle&amp;articleID=3160">NATIONAL PARK FOUNDATION ANNOUNCES “EGG-CELLENT EGG-VENTURE”</a></strong>
+				<strong><a href="/news/?fa=viewArticle&amp;articleID=3217">NPF REVEALS GREAT NATIONAL PARKS FOR FALL FOLIAGE VIEWING</a></strong>
 				
 				
 			</li>
@@ -462,7 +488,7 @@ function popUp(URL) {
 			<a href="http://feeds.feedburner.com/NationalParkFoundation" class="rss">RSS</a>
 		</div>
 	
-	
+
 	<div id="content">
 		
 			<div class="inner">
@@ -480,7 +506,7 @@ function popUp(URL) {
 		
 			
 		
-		
+
 		<h1 class="replaceHeadline sifr"><span style="display:inline;margin:0;padding:0;float:none;width:auto;height:auto;font-weight:inherit;">Privacy Policy</span></h1>
 
 <p><strong>The National Park Foundation, publisher of nationalparks.org and its related content and services, believes that electronic privacy is crucial for the ongoing success of the Internet as a communications medium. On occasion, The National Park Foundation will make available to potential partners aggregated results from research it has conducted on the nationalparks.org visitor base. The National Park Foundation will only provide such demographic information on an aggregated basis and as a policy does not disclose individual visitor information.</strong></p>
@@ -540,6 +566,54 @@ function popUp(URL) {
 		</form>
 
 
+		
+		<div class="module">
+			<div id="actions-newsletter" class="section">
+	<h4>Join the <span>Movement</span></h4>
+	<p>Register to receive our <span class="upper">free</span> monthly GoParks newsletter.</p>
+	<div id="npfnewscontent">
+		<p><input style="border:2px solid #922620; width:98%;" type="text" name="npfemail" id="npfemail"></p>
+		<div style="text-align:right;">
+			<a id="npf-subscribe" href="#"><img src="/best-idea-images/template/npfsubscribe.png" alt="Subscribe"></a>
+			<div id="light" class="white_content">
+				<div><img src="/best-idea-images/template/npfpopupheader.jpg" width="523" height="99" alt="Connect with NPF!"></div>
+				<div style="padding:10px 15px">
+					<p>Sign up with the National Park Foundation and get the latest national park news, travel tips, information on how you can support our parks, and the tools for you to get the most out of your next national park visit.</p>
+					<form name="subscribeParks" id="subscribeParks" action="?fa=subscribe" method="post" onsubmit="return _CF_checksubscribeParks(this)">
+					<table style="margin-top:12px;" align="center" width="400" cellspacing="2" cellpadding="2">
+						<tbody><tr>
+							<td>First Name:</td>
+							<td><input name="sfname" type="text" id="sfname"></td>
+						</tr>
+						<tr>
+							<td>Last Name</td>
+							<td><input name="slname" type="text" id="slname"></td>
+						</tr>
+						<tr>
+							<td>Zip Code:</td>
+							<td><input name="szipcode" type="text" id="szipcode"></td>
+						</tr>
+						<tr>
+							<td>Email:</td>
+							<td><input name="semail" type="text" id="semail"></td>
+						</tr>
+						<tr>
+							<td>&nbsp;</td>
+							<td><input type="Image" src="/best-idea-images/template/npfSubmit.jpg" width="166" height="46" alt="Submit"></td>
+						</tr>
+					</tbody></table>
+					<input type="hidden" name="submitted" value="1">
+					</form>
+
+				</div>
+				<div style="padding:10px 15px; text-align:right;"><a href="javascript:void(0)" onclick="document.getElementById('light').style.display='none';document.getElementById('fade').style.display='none'">X Close</a></div>
+			</div>
+			<div id="fade" class="black_overlay"></div>
+		</div>
+	</div><!-- /#npfnewscontent -->
+</div><!-- /#actions-newsletter -->
+		</div>
+		
 		<ul id="navigation">
 			<li id="exploreNav"><a href="/explore/">Explore<span></span></a>
 				
@@ -557,7 +631,7 @@ function popUp(URL) {
 				
 			</li>
 		</ul><!-- /#navigation -->
-
+		
 
 		
 
@@ -595,13 +669,17 @@ function popUp(URL) {
 </div>
 
 <script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-	var pageTracker = _gat._getTracker("UA-2146018-2");
-	pageTracker._initData();
-	pageTracker._trackPageview();
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2146018-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
 
 <!-- Start Quantcast tag -->
