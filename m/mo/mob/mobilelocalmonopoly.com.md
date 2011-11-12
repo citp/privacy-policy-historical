@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilelocalmonopoly.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521032238id_/http%3A//mobilelocalmonopoly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilelocalmonopoly.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112085004id_/http%3A//mobilelocalmonopoly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Local Mobile Monopoly Bonus
 
