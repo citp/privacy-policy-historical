@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the rewardstoday.co.uk privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127232419id_/http%3A//rewardstoday.co.uk/media/prizesuk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardstoday.co.uk privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112133925id_/http%3A//rewardstoday.co.uk/media/prizesuk/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 If you received an email with an advertisement from Prizes.co.uk and no longer wish to receive offers from us, please click [here](http://www.dnelist.com/u/566f1c928d695e3cf2e9d5892a0e41a9718) and follow the instructions to unsubscribe from our list. 
 
 **Privacy Policy**   
-Last Updated January 15, 2009
+Last Updated October 21, 2011
 
-This Privacy Policy governs your use of this web site and any content, products or services made available from or through this website including any sub domains thereof (“Web Site”). The Website is made available by prizes.co.uk owned by Intela Networks Limited hereafter referred to as (“Company”). We are registered with the Office of the Information Commissioner under the Data Protection Act in the United Kingdom. Our UK Registration number is Z121162X. We adhere to all privacy and prize promotion legislation and practice 100% opt-in marketing. Should you have any concerns at all you can contact Intela Networks Ltd. at 9 Argyll Street, 3rd Floor, London, W1F 7TG.
+This Privacy Policy governs your use of this web site and any content, products or services made available from or through this website including any sub domains thereof (“Web Site”). The Website is made available by prizes.co.uk owned by Intela Networks Limited hereafter referred to as (“Company”). We are registered with the Office of the Information Commissioner under the Data Protection Act in the United Kingdom. Our UK Registration number is Z121162X. We adhere to all privacy and prize promotion legislation and practice 100% opt-in marketing. Should you have any concerns at all you can contact Intela Networks Ltd. at Suite 305, Princess House, 50-60 EastCastle Street, London, W1W 8EA.
 
 By visiting this Web Site and requesting information, products or services offered on or through this Web Site, you agree to the terms of this Privacy Policy, as they may be amended from time to time. As Company updates or expands its Web Site, services or products, this Privacy Policy may change and the changes are effective upon posting. Please check back frequently for updates as it is your sole responsibility to be aware of changes. Company does not provide notice of changes in any manner other than by posting the changes at this Web Site. This Privacy Policy is incorporated into, and part of, the Web Site Terms and Conditions of Use (“Terms of Use”), which governs your use of this Web Site in general. This Web Site is hosted in the United States of America. The Privacy Policy shall be interpreted under the laws of the United Kingdom.
 
