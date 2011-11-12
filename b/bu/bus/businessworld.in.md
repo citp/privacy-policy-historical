@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the businessworld.in privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213161306id_/http%3A//businessworld.in/bw/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessworld.in privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112143621id_/http%3A//businessworld.in/businessworld/businessworld/page/PRIVACY-POLICY.html) for the most accurate reproduction.*
 
-# Privacy Policy
-
-  
-
-
-### PRIVACY POLICY
-
-  
-
+# PRIVACY POLICY | Businessworld
 
 Technical and routing information about the customer's computer is collected when he/she visits Businessworld site. This facilitates use of the site by the customer. For example, the Internet Protocol address of the customer's originating Internet Service Provider may be recorded, to ensure the best possible service and use the customer's IP address to track his/her use of the site. Businessworld also records search requests and results to ensure the accuracy and efficiency of its search engine. 
 
@@ -24,4 +16,4 @@ As the services or offerings evolve, the types of information Businessworld coll
 
 ## With whom the information is shared.
 
-Businessworld does not sell the customer's email address or other identifying information to third parties. Businessworld may provide to others the aggregate statistics about activities taking place on its site or related site activity for purposes of marketing or promotion. Businessworld may disclose information about the customer to others if Businessworld has a good faith and belief that it is required to do so by law or legal process, to respond to claims, or to protect its rights, property or safety. 
+Businessworld does not sell the customer's email address or other identifying information to third parties. Businessworld may provide to others the aggregate statistics about activities taking place on its site or related site activity for purposes of marketing or promotion. Businessworld may disclose information about the customer to others if Businessworld has a good faith and belief that it is required to do so by law or legal process, to respond to claims, or to protect its rights, property or safety.
