@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodogaffiliate.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523150753id_/http%3A//www.bodogaffiliate.com/home/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodogaffiliate.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112234323id_/http%3A//www.bodogaffiliate.com/home/privacy-policy.html) for the most accurate reproduction.*
 
 # Poker, Sportsbook, Casino Affiliate Programs - Bodog Affiliate
 
@@ -22,7 +22,7 @@ To assure the quality of client communications, Bodog Sportsbook, Casino and Pok
 
 It is possible for a client to opt-out of receiving email from Bodog; however, there is a minimum level of communication needed for a client to play effectively, so everyone with a Bodog account will receive a "Welcome" email, containing valuable account information, along with "Service Announcements". 
 
-If at any time a client indicates that he or she no longer wants to receive communications from Bodog, or if he or she wishes to change or correct any previously provided information, the client may send an email outlining the request to [service@bodog.com](mailto:service@bodog.com) or call the customer service center toll-free at 1-888-263-0000.
+If at any time a client indicates that he or she no longer wants to receive communications from Bodog, or if he or she wishes to change or correct any previously provided information, the client may send an email outlining the request to [service@bodog.er](mailto:service@bodog.eu) or call the customer service center toll-free at 1-888-263-0000.
 
 Qualified Bodog Sportsbook, Casino and Poker Room staff have access to account numbers, account holder names, telephone numbers, addresses, and email addresses. Clients can change their password directly on the Bodog Sportsbook, Casino and Poker Room web site (under "Manage Account/Change Password"). 
 
@@ -42,7 +42,7 @@ Bodog Sportsbook, Casino and Poker Room will occasionally update this Privacy Po
 
 **Contact Information**
 
-If you have any questions or comments regarding this Privacy Policy, feel free to contact us at [affiliates@bodog.com](mailto:affiliates@bodog.com). You may also contact Bodog at: 
+If you have any questions or comments regarding this Privacy Policy, feel free to contact us at [affiliates@bodog.eu](mailto:affiliates@bodog.eu). You may also contact Bodog at: 
 
 Bodog Sportsbook, Casino and Poker   
 Oficentro Sabana Sur   
