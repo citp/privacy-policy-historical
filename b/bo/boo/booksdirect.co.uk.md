@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the booksdirect.co.uk privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130123412id_/http%3A//www.member.booksdirect.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the booksdirect.co.uk privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112153923id_/http%3A//www.booksdirect.co.uk/help.aspx/privacy_policy) for the most accurate reproduction.*
 
-# Books Direct | Privacy Statement
+# Books Direct Club :: Books Direct
 
 ## Privacy Statement
 
@@ -12,7 +12,7 @@ We may use the information provided to process any transactions undertaken by yo
 
 We only employ session cookies to store the necessary transaction information during one visit. Cookies are small files that are sent to your browser and stored on your computer's hard disc. Whenever you visit your club website, and unless you have changed the settings in your browser so as not to accept cookies, then your computer will store an identifying code in the cookie which may mean you do not need to type your user_name into the member login box each time you return to the site. Other than this, we store a 'Session ID' which helps us to determine if you have logged into your club website. These IDs are highly encrypted and have no direct correlation with your personal data. We do not store your password or any other information in the cookie, or use it for any other purpose. Our third-party advertisers may place or recognise a unique cookie on your browser. You can at any time set your browser to notify you before you receive a cookie, giving you the opportunity to decide whether to accept it. You can also set your browser to turn off cookies. This may impair your experience of your club website, but will not prevent you from maintaining your account or placing orders.
 
-From time to time we may employ a third party to send out e-mail campaigns that uses cookies and pixels to track the emails that we send you and we may use this information to notify you of products and services that may be of interest to you. The cookies we use for these emails collect information based on your email and purchasing from email behaviour only. If you wish to find out more about the use of cookies and the information-gathering practices and how to opt-out of such tracking please [click here](http://www.doubleclick.com/privacy/index.aspx).
+From time to time we may employ a third party to send out e-mail campaigns that uses cookies and pixels to track the emails that we send you and we may use this information to notify you of products and services that may be of interest to you. The cookies we use for these emails collect information based on your email and purchasing from email behaviour only. If you wish to find out more about the use of cookies and the information-gathering practices and how to opt-out of such tracking please click here.
 
 ## What will you do with my e-mail address?
 
@@ -24,16 +24,16 @@ All subscribers have the option to opt-out of receiving marketing emails from us
 
 ## Do you trade under any other names?
 
-BCA, also known as Books Direct operates a variety of brands. For a listing of our book club and other brands, please see www.bca.co.uk. BCA may also from time to time launch new brands. Upon launch this listing of our brands will be updated. If you have any queries regarding this privacy statement please go to the Contact Us page where you can find several ways of submitting your questions. Alternatively, please e-mail privacypolicy@bca.co.uk.
+BCA, also known as Books Direct operates a variety of brands. For a listing of our book club and other brands, please see [www.bca.co.uk](http://www.bca.co.uk/). BCA may also from time to time launch new brands. Upon launch this listing of our brands will be updated. If you have any queries regarding this privacy statement please go to the Contact Us page where you can find several ways of submitting your questions. Alternatively, please e-mail [privacypolicy@bca.co.uk](mailto:privacypolicy@bca.co.uk).
 
 BCA is registered under the Data Protection Act (Reg no Z1987082) and this shows the purpose, source and disclosure terms of the data held.
 
-Email address: departmentdma@bca.co.uk Visiting from Another Website We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.doubleclick.com/privacy/index.aspx).
+Email address: [departmentdma@bca.co.uk](mailto:departmentdma@bca.co.uk) Visiting from Another Website We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here.](http://www.google.com/intl/en/privacy/)
 
 ## Company Details
 
 Company Name  
-Your book club is owned by Book Club Associates Limited, registered in England number 6997902. England registered office: Hargreaves Road, Swindon, Wiltshire SN25 5BG.
+Your book club is owned by Book Club Associates Limited, registered in England number 6997902. England registered office: Queen Street, Burton upon Trent, Staffordshire, DE14 3LP
 
 Address  
-BCA, Hargreaves Road, Groundwell, Swindon, SN99 9XX, England
+BCA, Queen Street, Burton upon Trent, Staffordshire, DE14 3LP
