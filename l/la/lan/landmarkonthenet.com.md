@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landmarkonthenet.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525204515id_/http%3A//www.landmarkonthenet.com/Business/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landmarkonthenet.com privacy policy that was archived on 2011-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111112122428id_/http%3A//www.landmarkonthenet.com/Business/privacypolicy.aspx) for the most accurate reproduction.*
 
 # landmarkonthenet.com
 
