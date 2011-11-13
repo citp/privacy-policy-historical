@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the depositprotection.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616171054id_/http%3A//www.depositprotection.com/documents/data-protection-notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the depositprotection.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113141917id_/http%3A//www.depositprotection.com/documents/data-protection-notice.pdf) for the most accurate reproduction.*
 
 # Communities and Local Government has appointed
 
