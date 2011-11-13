@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upc.ie privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509022414id_/http%3A//www.upc.ie/termsandconditions/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upc.ie privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113044203id_/http%3A//www.upc.ie/termsandconditions/privacypolicy) for the most accurate reproduction.*
 
 # UPC - Privacy Policy
 
