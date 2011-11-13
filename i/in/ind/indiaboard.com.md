@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaboard.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123014622id_/http%3A//www.indiaboard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaboard.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113035104id_/http%3A//www.indiaboard.com/privacy) for the most accurate reproduction.*
 
 # Free India Classifieds for All Indians Around the World - Forums, Cricket, TV, Everything!
 
