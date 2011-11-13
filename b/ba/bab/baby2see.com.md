@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baby2see.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620071214id_/http%3A//www.baby2see.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baby2see.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113223608id_/http%3A//www.baby2see.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY - Pregnancy and Baby Information Index Baby2see.com
 
@@ -28,8 +28,9 @@ These companies may use information (not including your name, address, email add
 
 Disabling/Enabling Cookies - Users have the ability to accept or disable cookies by modifying the settings in their browser. Disabling cookies however may mean that some functionality may be affected. For further directions on how to disable cookies please click here: [www.allaboutcookies.org/manage-cookies/stop-cookies-installed.html](http://www.allaboutcookies.org/manage-cookies/stop-cookies-installed.html)
 
-  
-**1.3.4** E-mail addresses, contact details and/or other details which users voluntarily provide in order to:
+**1.3.4** Baby2see.com is a participant in the Amazon Europe S.à r.l. Associates Programme, an affiliate advertising programme designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.co.uk/Javari.co.uk/Amazon.de/Amazon.fr/Javari.fr/Amazon.it. 
+
+**1.3.5** E-mail addresses, contact details and/or other details which users voluntarily provide in order to:
 
 **(a)** provide goods and services to you;  
 **(b)** basic profiling purposes (whether undertaken by Baby2see or by third parties on Baby2see's behalf);  
