@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ebuzzing.co.uk privacy policy that was archived on 2011-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110519134228id_/http%3A//ebuzzing.co.uk/mention) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ebuzzing.co.uk privacy policy that was archived on 2011-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111113025206id_/http%3A//www.ebuzzing.co.uk/mention) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
 <meta property="fb:admins" content="100001775184018,100001788355269">
@@ -14,7 +14,7 @@
 	<link rel="stylesheet" type="text/css" href="http://www.ebuzzing.co.uk/css/ie6_v2.css"/>
 <![endif]--> 
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.ebuzzing.co.uk/js/swfobject.js"></script>
+<script type="text/javascript" src="http://www.ebuzzing.co.uk/js/swfobject.js"></script>
 <script type="text/javascript" src="http://www.ebuzzing.co.uk/js/checkform.js"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="http://www.ebuzzing.co.uk/js/lib/jquery/jquery.colorbox-min.js"></script>
@@ -122,7 +122,7 @@ $(document).ready(function(){
     
     /** box inscription **/
     $(document).ready(function(){
-        $('.editeur_inscription').colorbox({href:'/membre/_block/form_preinscription.php'
+        $('.editeur_inscription').colorbox({href:'/membre/_block/form_preinscription.php',height:'640px',width:'1024px'
             //onClosed:function(){ document.location.href='../' }
         }); 
     });
@@ -132,7 +132,7 @@ $(document).ready(function(){
 
 <div class="header">
     <div class="wrap">
-        <a class="logo" href="http://www.ebuzzing.co.uk"> 
+    	        <a class="logo" href="http://www.ebuzzing.co.uk"> 
             <img src="http://www.ebuzzing.co.uk/language/uk/images/logoebuzzing.png" alt="logo">
         </a>
         <div class="menu">
@@ -145,8 +145,12 @@ $(document).ready(function(){
                                     <li><a href="/contact-us/">Contact</a></li>
                             </ul>
         </div>
+                <!-- INSCRIPTION -->
+
+        <div class="subscribe"><a class="editeur_inscription" href="/membre/?inscrit=1&amp;devenez=buzz">Create an account</a></div>
         <!--formulaire de connexion-->            
-                    <div class="connect">
+
+            <div class="connect">
                 <div class="ident-form login ">
                     <span class="door"></span>
                     <div class="cl"></div>
@@ -162,9 +166,10 @@ $(document).ready(function(){
                                 <input class="login-text" type="password" name="pass"> 
                                 <div class="cl"></div>
                             </div>
-                                                        <div class="login-line login-last-line"> 
-                                <p class="login-forgot"><a id="forgot_btn" href="#">Forgotten Password</a><br>
-                                <a class="editeur_inscription" href="/membre/?inscrit=1&amp;devenez=buzz">Register</a></p>
+                                                        <div class="login-line login-last-line">
+                                <p class="login-forgot">
+                                    <input type="checkbox" name="post_autologin" value="true">&nbsp;stay connected                                    <br><a id="forgot_btn" href="#">Forgotten Password</a><br>
+                                </p>
                                 <input class="login-button" type="submit" value="Validate"> 
                                 <div class="cl"></div>
                             </div>
@@ -194,20 +199,20 @@ $(document).ready(function(){
                 <li>
                     <a href="#"><img src="http://www.ebuzzing.co.uk/images/flag/flag-uk.png" alt="uk"></a>
                     <ul class="subnav">
-                        		  
+                                  
                             <li><a href="http://www.ebuzzing.com"><img src="http://www.ebuzzing.co.uk/images/flag/flag-fr.png">France</a></li>
-                               		  
+                                         
                             <li><a href="http://www.ebuzzing.co.uk"><img src="http://www.ebuzzing.co.uk/images/flag/flag-uk.png">United Kingdom</a></li>
-                               		  
+                                         
                             <li><a href="http://www.ebuzzing.co.uk"><img src="http://www.ebuzzing.co.uk/images/flag/flag-us.png">United States</a></li>
-                               		  
+                                         
                             <li><a href="http://www.ebuzzing.it"><img src="http://www.ebuzzing.co.uk/images/flag/flag-it.png">Italia</a></li>
-                               		  
+                                         
                             <li><a href="http://www.buzzeff.com"><img src="http://www.ebuzzing.co.uk/images/flag/flag-ma.png">Maroc</a></li>
-                               		  
-                            <li><a href="http://blogde.ebuzzing.com"><img src="http://www.ebuzzing.co.uk/images/flag/flag-de.png">Deutschland</a></li>
-                               		  
-                            <li><a href="http://bloges.ebuzzing.com"><img src="http://www.ebuzzing.co.uk/images/flag/flag-es.png">España</a></li>
+                                         
+                            <li><a href="http://www.ebuzzing.de"><img src="http://www.ebuzzing.co.uk/images/flag/flag-de.png">Deutschland</a></li>
+                                         
+                            <li><a href="http://www.ebuzzing.es"><img src="http://www.ebuzzing.co.uk/images/flag/flag-es.png">España</a></li>
                                                    </ul>
                 </li>
             </ul>
@@ -266,59 +271,22 @@ Feel free to contact us any time with any questions you may have regarding our p
     
 <!--footer-->
 <div class="footer">
-	<div class="wrap">
-        <p class="left"><a href="http://www.ebuzzing.com">© ebuzzing 2007-2011. </a></p>
+    <div class="wrap">
+        <p class="left"><a href="http://www.ebuzzing.com">© Ebuzzing 2007-2011. </a></p>
             
             <!--copy right mentions legales, contact...-->
         <ul class="right">
             <li><a rel="nofollow" href="http://www.wikiogroup.com" target="_blank">Wikio group</a></li>
             <li><a href="http://www.ebuzzing.co.uk/recrutement/" class="lien1">Recruitment</a></li>
-            <li><a href="http://www.ebuzzing.co.uk/bloggeurs/faq.php" class="lien1">Faq</a></li>
+            <li><a href="http://www.ebuzzing.co.uk/bloggeurs/faq.php" class="lien1">FAQ</a></li>
                                 <li><a href="http://www.ebuzzing.co.uk/contact-us">Contact</a></li>
                     <li><a href="http://www.ebuzzing.co.uk/mention">Privacy Policy</a></li>
-                    </ul>
+                                        <li><a href="http://www.ebuzzing.co.uk/CGV">Terms &amp; Conditions</a></li>                    </ul>
             <!--#copy right mentions legales, contact...-->
+           
             
-                         <!--link shopping uk-->
-            <ul class="center">
-                <li><a href="http://www.wikio.co.uk/guide/homepage-6.html">Car/Motorbike</a></li>
-                <li><a href="http://www.wikio.co.uk/cds/homepage-502.html">CD</a></li>
-                <li><a href="http://www.wikio.co.uk/dvds/homepage-500.html">DVD</a></li>
-                <li><a href="http://www.wikio.co.uk/guide/homepage-18.html">Household Appliances</a></li>
-                <li><a href="http://www.wikio.co.uk/hotels/homepage-600.html">Hotels</a></li>
-                <li><a href="http://www.wikio.co.uk/guide/homepage-4.html">Electronics</a></li>
-                <li><a href="http://www.wikio.co.uk/guide/homepage-2.html">Computers</a></li>
-                <li><a href="http://www.wikio.co.uk/guide/homepage-21.html">Video Games</a></li>
-                <li><a href="http://www.wikio.co.uk/book/homepage-501.html">Books</a></li>
-                <li><a href="http://www.wikio.co.uk/guide/homepage-124.html">Home &amp; Garden</a></li>
-            </ul> 
-                <!--#link shopping-->
-                     
     </div>
 </div>
-<!--#footer-->
-    
-    
-<!--google analytics script-->
-<script type="text/javascript">
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-2652807-1']);
-	_gaq.push(['_setDomainName', 'none']);
-	_gaq.push(['_setAllowLinker', true]);
-	_gaq.push(['_setCustomVar', 1, 'dom_id', '3', 2]);
-	_gaq.push(['_trackPageview']);
-	_gaq.push(['_trackPageLoadTime']);  
-	
-	(function() {
-	  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
-</script>	
-<!--#google analytics script-->
-<!--cedexis_tag-->
-<!--#cedexis_tag-->
-    
-    <!--#footer-->
+<!--#footer-->    <!--#footer-->
 
 </body></html>
