@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the circleup.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625032856id_/http%3A//www.circleup.com/pub/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circleup.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113081711id_/http%3A//circleup.com/pub/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CircleUp
 
