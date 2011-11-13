@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the realtyjuggler.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516144637id_/http%3A//www.realtyjuggler.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtyjuggler.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113193530id_/http%3A//www.realtyjuggler.com/Privacy) for the most accurate reproduction.*
 
-# RealtyJuggler Privacy Policy
+# RealtyJuggler Real Estate Software Privacy Policy
 
-RealOrganized, Inc. respects and is committed to protecting your privacy. This document describes our Privacy Policy. 
+RealOrganized, Inc. respects and is committed to protecting your privacy. This document describes our Privacy Policy.
 
 **Sharing of Information**   
 RealOrganized, Inc. is the sole owner of the information collected on RealOrganized.com and the associated site RealtyJuggler.com.  We will not sell, share, or rent this information.
@@ -26,7 +26,7 @@ Our customers use RealOrganized, Inc. software and services to organize and stor
 All personally identifiable information RealOrganized, Inc. collects on a customer is available for viewing and editing by our customer by accessing their profile. You can edit or delete your Account Information at any time from our web site by signing in and changing your profile.
 
 **Data Retention**  
-RealOrganized, Inc. retains all sales and account information indefinitely. This information is used for accounting and tax purposes. Customer Private Information is retained for a minimum of six months after a subscription has been cancelled or deactivated. This is to permit reactivation of the account by the customer at a later date. Customer Private Information can be explicitly destroyed at any time by the customer by contacting RealOrganized, Inc. and requesting that your acocunt be deleted.
+RealOrganized, Inc. retains all sales and account information indefinitely. This information is used for accounting and tax purposes. Customer Private Information is retained for a minimum of six months after a subscription has been cancelled or deactivated. This is to permit reactivation of the account by the customer at a later date. Customer Private Information can be explicitly destroyed at any time by the customer by contacting RealOrganized, Inc. and requesting that your account be deleted.
 
 **Email**  
 We may send you an email periodically about important upgrades to products that you own or have made enquiries about. Email's which are considered essential for transacting business with RealOrganized, Inc. cannot be unsubscribed to. For example, notification of a purchase will always be sent to a customer. RealOrganized, Inc. does not make available your Email address to third parties, except as required to complete a transaction.
@@ -50,7 +50,7 @@ If a user elects to use our referral service for informing a friend about our si
 RealOrganized, Inc. may update this policy. If it does, it will post changes on its web site.
 
 **Security**  
-The security of your information is important to us. For this reason, we have created an extensive security program to ensure that your information is secure. You can read more about it [here](https://web.archive.org/Secure).
+The security of your information is important to us. For this reason, we have created an extensive security program to ensure that your information is secure. You can read more about it [here](https://web.archive.org/Security).
 
 We invite you to contact us regarding this policy. You may contact us my mail at the following address:
 
@@ -62,10 +62,4 @@ USA
 
 You may contact us via our online HelpDesk or via phone at: (970) 672-3467
 
-Date Last Modified: November 26, 2009 
-
-[Privacy](https://web.archive.org/Privacy) |  [Security](https://web.archive.org/Security) |  [Terms and Conditions](https://web.archive.org/Terms) |  [Links](https://web.archive.org/Links)  
----  
-| © 2006-2011 RealOrganized, Inc. All rights reserved.  
-RealOrganized and RealtyJuggler are trademarks of RealOrganized, Inc. REALTOR® is a registered trademark of the National Association of REALTORS. | [](http://www.bbb.org/northern-colorado/business-reviews/computer-software-services/real-organized-in-windsor-co-46010306)  
----|---
+Date Last Modified: November 26, 2009
