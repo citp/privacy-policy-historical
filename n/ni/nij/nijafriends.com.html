@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the nijafriends.com privacy policy that was archived on 2011-01-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110116061202id_/http%3A//www.nijafriends.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nijafriends.com privacy policy that was archived on 2011-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111113022039id_/http%3A//www.nijafriends.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta name="msvalidate.01" content="621604B7F303001544EFD37D133F1C5E">
 <title>Privacy Policy  | NijaFriends</title>
 <meta name="Description" content="Privacy Policy">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -20,7 +21,7 @@
   // Core
   SocialEngine.Core = new SocialEngineAPI.Core();
   SocialEngine.Core.ImportSettings({"setting_url":false,"setting_username":true});
-  SocialEngine.Core.ImportPlugins(["apps","he_wall","sep_group_integration","socialdev","music","userpoints","video","he_core","imobile","quiz","arcade","link","geo","epayment","business","qa","birthdayEmails","invite","widgets_home","emailer","scheduler","forum","rssfeed","socialmobile","radcodes","album","group","event","classified","poll","chat","plugin_controls"]);
+  SocialEngine.Core.ImportPlugins(["apps","sep_group_integration","socialdev","music","video","he_core","imobile","quiz","arcade","link","geo","business","qa","invite","scheduler","forum","newsfeed_advanced","bookmark","rssfeed","radcodes","album","group","poll","chat","plugin_controls"]);
   SocialEngine.RegisterModule(SocialEngine.Core);
   
   // URL
@@ -80,12 +81,6 @@
 
 
 
-
-<!--[if lt IE 7]>
-<script defer type="text/javascript" src="http://nijafriends.jolohltd.netdna-cdn.com/include/js/pngfix.js"></script>
-<![endif]-->
-
-
 <script type="text/javascript" src="http://nijafriends.jolohltd.netdna-cdn.com/include/js/he_contacts.js"></script>
 <script type="text/javascript" src="http://nijafriends.jolohltd.netdna-cdn.com/include/js/he_functions.js"></script>
 
@@ -123,15 +118,53 @@
 </script>
 
 
-<script type="text/javascript" src="http://nijafriends.jolohltd.netdna-cdn.com/include/js/radcodes.js">
+<script type="text/javascript" src="http://nijafriends.jolohltd.netdna-cdn.com/include/js/newsfeed_advanced.js"></script>
+<link rel="stylesheet" href="http://nijafriends.jolohltd.netdna-cdn.com/templates/styles_bookmark.css" title="stylesheet" type="text/css">
+
+  
+    
+    <script type="text/javascript">
+    <!--
+    var open_menu;
+    var current_timeout = new Array();
+    function showMenu(id1) {
+      if($(id1)) {
+        if($(id1).style.display == 'none') {
+	  if($(open_menu)) { hideMenu($(open_menu)); }
+          $(id1).style.display='inline';
+	  startMenuTimeout($(id1));
+	  $(id1).addEvent('mouseover', function(e) { killMenuTimeout(this); });
+	  $(id1).addEvent('mouseout', function(e) { startMenuTimeout(this); });
+	  open_menu = id1;
+        }
+      }
+    }
+    function killMenuTimeout(divEl) {
+      clearTimeout(current_timeout[divEl.id]);
+      current_timeout[divEl.id] = '';
+    }
+    function startMenuTimeout(divEl) {
+      if(current_timeout[divEl.id] == '') {
+        current_timeout[divEl.id] = setTimeout(function() { hideMenu(divEl); }, 1000);
+      }
+    }
+    function hideMenu(divEl) {
+      divEl.style.display = 'none'; 
+      current_timeout[divEl.id] = '';
+      divEl.removeEvent('mouseover', function(e) { killMenuTimeout(this); });
+      divEl.removeEvent('mouseout', function(e) { startMenuTimeout(this); });
+    }
+    //-->
+    </script>
+    <script type="text/javascript" src="http://nijafriends.jolohltd.netdna-cdn.com/include/js/radcodes.js">
 </script>
 <style type="text/css"></style>
 <meta name="google-site-verification" content="kRJy3-xIDzsp0ujXAilTFjbBnnI40h2yB7x-rReAY3I">
 </head>
 <body><iframe id="ajaxframe" name="ajaxframe" style="display: none;" src="javascript:false;"></iframe>
 
-
 <table cellpadding="0" cellspacing="0" class="body" align="center">
+
 <tbody><tr>
 <td>
 
@@ -173,13 +206,6 @@
       <div class="top_menu_link">
         <a href="browse_music.php" class="top_menu_item">
          <b> Music</b>
-        </a>
-      </div>
-    </div>
-      <div class="top_menu_link_container">
-      <div class="top_menu_link">
-        <a href="topusers.php" class="top_menu_item">
-         <b> Top Users</b>
         </a>
       </div>
     </div>
@@ -227,22 +253,15 @@
     </div>
       <div class="top_menu_link_container">
       <div class="top_menu_link">
+        <a href="browse_bookmark.php" class="top_menu_item">
+         <b> Bookmarks</b>
+        </a>
+      </div>
+    </div>
+      <div class="top_menu_link_container">
+      <div class="top_menu_link">
         <a href="browse_groups.php" class="top_menu_item">
          <b> Groups</b>
-        </a>
-      </div>
-    </div>
-      <div class="top_menu_link_container">
-      <div class="top_menu_link">
-        <a href="browse_events.php" class="top_menu_item">
-         <b> Events</b>
-        </a>
-      </div>
-    </div>
-      <div class="top_menu_link_container">
-      <div class="top_menu_link">
-        <a href="browse_classifieds.php" class="top_menu_item">
-         <b> Classifieds</b>
         </a>
       </div>
     </div>
@@ -508,8 +527,8 @@ div.content_bottom {
         <div class="ad_bottom" style="display: block; visibility: visible;">
       <div onclick="document.getElementById('doclickimage4').src='ad.php?ad_id=4';"><script type="text/javascript"><!--
 google_ad_client = "pub-1072501396476176";
-/* 728x90, created 3/9/09 */
-google_ad_slot = "5767645604";
+/* 728x90, created 2/22/09 */
+google_ad_slot = "3256608805";
 google_ad_width = 728;
 google_ad_height = 90;
 //-->
