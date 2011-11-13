@@ -1,14 +1,10 @@
-<!--The following is the downloaded HTML source of the searchinonestep.com privacy policy that was archived on 2009-09-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090908140826id_/http%3A//www.searchinonestep.com/%3Ftmp%3Dsios_privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the searchinonestep.com privacy policy that was archived on 2011-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111113185005id_/http%3A//www.searchinonestep.com/%3Ftmp%3Dsios_privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Search In One Step! Terms of Use</title>
-<script type="text/javascript" src="http://cdn.firstlook.com/custom/images/jquery.js"></script>
-<script type="text/javascript" src="http://cdn.firstlook.com/custom/images/thickbox.js"></script>
-<link href="http://cdn.firstlook.com/custom/images/thickbox.css" type="text/css" rel="stylesheet">
-
-<script language="javaScript" type="text/javascript">
+<script type="text/javascript">
 <!--
 var u = location.href;
 var idx = u.indexOf('?');
@@ -22,9 +18,31 @@ function StatusMsg(msgStr) {
 
 var tmpCat = "UNKNOWN";
 var tmpSubCat = "UNKNOWN";
+
+function linkclick(cmstag) {
+	var url = cmstag;
+	templatename = (typeof(templatename) != 'undefined') ? templatename : '';
+	currentLink = (typeof(currentLink) != 'undefined') ? currentLink : '';
+	subid = (typeof(subid) != 'undefined') ? subid : '';
+	if (templatename) url += '&tmp=' + templatename;
+	if (currentLink) url += '&type=' + currentLink;
+	if (subid.length > 0) url += "&subid=" + subid;
+	location.href = url;
+}
+
+function staticlink(st, pos) {
+	exit = false;
+	pos = (typeof(pos) != 'undefined') ? pos : '';
+	location.href = u + 'aid=6&fwdId=1200&pos=' + pos + '&ps=DAUSUE&Keywords=' + st + '&';
+	return false;
+}
+
+function googleTrackPage(str) {
+	_gaq.push(['_trackPageview', str]);
+	return;
+}
 //-->
 </script>
-
 <script language="javaScript" type="text/javascript">
 function blankField(fIn) {
 f=document.getElementById(fIn);
@@ -81,10 +99,10 @@ body { margin:10px; }
 #respage { width:100%; text-align:left; }
 #respage form { width:320px; }
 form, form.right { margin-top: 30px; }
-#submit { background:url(/custom/images/graygreen-rollover-go-btn.gif) no-repeat; border:none; height:25px; overflow:hidden; width:50px; }
+#submit { background:url(http://cdn.firstlook.com/custom/images/graygreen-rollover-go-btn.gif) no-repeat; border:none; height:25px; overflow:hidden; width:50px; }
 a:hover #submit { background-position:0 -25px; }
 #homelogo { padding-top:100px; }
-#download { background:url(/custom/images/download-btn.gif) no-repeat; float:left; width:300px; height:300px; margin-left:160px; }
+#download { background:url(http://cdn.firstlook.com/custom/images/download-btn.gif) no-repeat; float:left; width:300px; height:300px; margin-left:160px; }
 #pros { float:right; font-size:.85em; text-align:left; width:130px; margin:90px 0 0 0; }
 #page p, #page h2, #page h3 { margin-left:22px; }
 #page ol { margin-left:100px; font-size:.9em; }
@@ -122,7 +140,7 @@ a:hover { color:00f; }
 
 </head>
 <body>
-<div id="page"> <a href="/"><img src="/custom/images/header-termsofuse.gif" alt="Search In One Step logo - it's easy!"></a>
+<div id="page"> <a href="/"><img src="http://cdn.firstlook.com/custom/images/header-termsofuse.gif" alt="Search In One Step logo - it's easy!"></a>
 	<p>This Privacy Policy applies to your use of SearchInOneStep Desktop,  a software application published and distributed by SearchInOneStep ("SearchInOneStep,"  "we," "us" or "our"). Your privacy is important  to us and this Privacy Policy reflects our concern in safeguarding it. This  Privacy Policy describes our practices regarding the collection, maintenance,  use and sharing of information that we collect. Our Privacy Policy may change  from time to time and those changes will be available for your review on this  web site. Your continued use of SearchInOneStep Desktop after any such changes have  been made will signify your assent to the changed Privacy Policy. To contact SearchInOneStep  about privacy issues, please e-mail us at <a href="mailto:searchinonestep.privacy@searchinonestep.com">searchinonestep.privacy@searchinonestep.com</a>.</p>
 	<h2>Information We Gather:</h2>
 	<p>We do not purposefully collect any personally identifiable  information about you (such as your name, address, email address, or telephone  number). SearchInOneStep Desktop does transmit limited non-personally identifiable  information, such as your IP address, type of browser and operating system,  unique software ID, version of the SearchInOneStep Software, internal software status  indicators (including error codes to determine if the Software has encountered  any internal errors), a tag that identifies any SearchInOneStep distribution partner  from whom you may have downloaded or installed SearchInOneStep Desktop, and keyword and  error search queries entered in your browser address bar. Please note that  search query information collected by SearchInOneStep Desktop is maintained by us on an  aggregated basis (i.e., together with the queries of all of our end-users) for  the purposes of generating statistics regarding the use of our software (such  as the number of queries performed by the average end-user per month, a list of  the most popular query terms, etc.), and is never used in a manner that matches  specific search query information with any particular end-user. To properly  reflect your language, filtering and other preferences, SearchInOneStep Desktop may  also use cookies (i.e., packets of information containing your preferences that  are sent to your browser and sent back by your browser each time your browser  accesses our server). Cookies that we may use may only be read by the server  that placed them there. If you wish to control how and whether cookies will be  accepted by your browser, you should refer to the documentation accompanying  your browser.</p>
@@ -146,6 +164,6 @@ a:hover { color:00f; }
 		</ul>
 	</div>
 </div>
-<img src="http://cms.trafficmp.com/tpix.gif?clid=doma909ca0104194a970f1dfd1e5f045&amp;sid=1b45ad2d-d883-479a-8151-15498bf670fa" width="1" height="1">
+
 
 </body></html>
