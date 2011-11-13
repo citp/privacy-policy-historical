@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustedhousesitters.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514174243id_/http%3A//www.trustedhousesitters.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedhousesitters.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113021646id_/http%3A//www.trustedhousesitters.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | trustedhousesitters.com
 
