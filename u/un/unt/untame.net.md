@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the untame.net privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521000331id_/http%3A//untame.net/wordpress/wp-content/privacy.html%3Fheight%3D360%26width%3D360) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the untame.net privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113200041id_/http%3A//untame.net/wordpress/wp-content/privacy.html%3Fheight%3D360%26width%3D360) for the most accurate reproduction.*
 
 # Privacy Policy
 
