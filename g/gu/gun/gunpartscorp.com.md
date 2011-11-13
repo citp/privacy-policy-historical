@@ -1,55 +1,60 @@
-> *The following text is extracted and transformed from the gunpartscorp.com privacy policy that was archived on 2010-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100705143854id_/http%3A//www.gunpartscorp.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunpartscorp.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113210915id_/http%3A//www.gunpartscorp.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
-## This is the web site of Numrich Gun Parts Corp.
+This is the website of Numrich Gun Parts Corporation. We can be reached in any of the following ways:
 
-_Our postal address is:_  
-**PO Box 299**  
-**West Hurley, NY 12491-0299**   
-_Our street address is:_  
-**226 Williams Ln**  
-**Kingston, NY 12401-7240**   
+**Email:**  
+info@gunpartscorp.com
+
+**Phone:**  
+845-679-2417 (US Toll-free: 866-686-7424)
+
+**Mail:**  
+PO Box 299, West Hurley, NY 12491-0299  
+\--or--  
+226 Williams Lane, Kingston, NY 12401-7240
+
+Your privacy is important to us. Numrich Gun Parts Corporation does not sell, trade, or share your personal information with anybody.
+
+Numrich Gun Parts Corporation is a highly ethical company and requires the highest standard of conduct from our employees and business partners.
+
+When we transfer certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and notify them through a pop-up screen. 
+
+If you are interested in learning what type of personal information we might collect and how we might use it, please read below.
+
+  
+**What Information Does Numrich Gun Parts Corporation Collect?**
+
+  * Information pertaining to your session and visitor’s preferences when you are on our website, such as items added to your shopping cart. We do not partner with or have special relationships with any ad server companies. 
+  * Information necessary to serve your needs. This information is provided by you at the time of placing an order, registering on our website or forum, subscribing to our newsletter etc. It usually consists of your name, address, email address, phone number and payment related information. Due the nature of our business, sometimes we may require a document proving your age, country of residence, driving license and/or Federal Firearms License. We also collect information on the products that you buy through your transactions and other interactions with us. 
+  * Information you voluntarily submit when you participate in one of our various services, promotions, forum treads and surveys. 
+  * Information provided by you from our on-line stores sites listed with eBay, GunBroker and PayPal. Usually such information includes your shipping/mailing address, email, phone number, fax number, user-id and products purchased. 
 
 
-We can be reached via e-mail at [info@gunpartscorp.com](mailto:info@gunpartscorp.com) or you can reach us by telephone at **845-679-2417** or **Toll Free in the US** at **866-686-7424**
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
+**How Does Numrich Gun Parts Corporation Use the Information Collected?**
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, information volunteered by the consumer, such as survey information and/or site registrations.
+  * To process and complete your purchase transactions and provide the services you request. 
+  * To send you catalogs and periodic mailings with information on new products and services or upcoming events via the mail. 
+  * To contact you about the status of your orders by telephone. 
+  * To identify your product and service preferences, so that you can be informed of new or additional products, services, and promotions that might be of interest to you. 
+  * To improve our merchandise selections, customer service, and overall customer shopping experience. 
+  * From time to time we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If such policy change occurs, we will use only data collected from the time of the policy change forward. 
 
-The information we collect is used for internal review and is then discarded, not shared with other organizations for commercial purposes.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
+**What Information Is Shared And With Whom Is It Shared?**
 
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above, e-mailing us at the above address, writing to us at the above address.
+  * We share your email addresses with an outside email marketing company, which handles our newsletter distribution. We never share, sell, or rent your personal account information or subscriber data to any other entities. 
+  * Upon request we provide site visitors with access to unique identifier information such as a customer number or a password. Customers can obtain this information only if they contact us directly and answer some security questions. 
 
-From time to time, we make our customer e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above, e-mailing us at the above address, writing to us at the above address.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, e-mailing us at the above address, writing to us at the above address.
 
-You may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by calling us at the number provided above, e-mailing us at the above address, writing to us at the above address. 
+**Legal Disclosures**
 
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations
+  * Numrich Gun Parts Corporation fully complies with all Federal, State and Municipal legal requirements. In the event that Numrich Gun Parts Corporation receives a subpoena, court order, or law enforcement inquiry we will fully comply with any applicable laws and make any legally required disclosure. 
+  * Numrich Gun Parts Corporation reserves the right to protect itself from fraud and if necessary will share information with legal authorities and other companies for this purpose. 
+  * If the ownership of all or a part of a business within the Numrich Gun Parts Corporation changes hands, any customer information applicable to that business’s operations may be transferred to, or licensed for use by, the new owner. 
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
-
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations.
-
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only data collected from the time of the policy change forward .
-
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above, e-mailing us at the above address, writing us at the above address. 
-
-Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them. Consumers can access this information by e-mail us at the above address, write to us at the above address, writing to us at the above address. 
-
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
-
-Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
-
-With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+If you feel that this site is not following its stated Privacy Policy, please contact us immediately. 
