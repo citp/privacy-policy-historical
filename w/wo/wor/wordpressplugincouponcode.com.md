@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordpressplugincouponcode.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515011921id_/http%3A//www.wordpressplugincouponcode.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordpressplugincouponcode.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113184807id_/http%3A//www.wordpressplugincouponcode.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | wordpressplugincouponcode
 
