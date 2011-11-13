@@ -1,28 +1,18 @@
-> *The following text is extracted and transformed from the 24hourhiphop.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524051008id_/http%3A//24hourhiphop.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24hourhiphop.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113173906id_/http%3A//24hourhiphop.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-## 24hourhiphop.com Website Privacy Statement
-
-This document was last updated on 2009-05-26
+# Privacy Policy « 24HourHipHop.com
 
   1. **ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS**
 
 24hourhiphop.com is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing [Insert Name of Company/ Website Address], you acknowledge and fully understand 24hourhiphop.com’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
-  
-
   2. **PARTICIPATING MERCHANT POLICIES**
 
 Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in 24hourhiphop.com services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
 
-  
-
   3. **INFORMATION WE COLLECT AND HOW WE USE IT**
 
 24hourhiphop.com collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
-
-  
 
     1. **Web Server Logs.**
 
@@ -36,8 +26,6 @@ When you visit our Website, we may track information to administer the site and 
       * Name of your Internet service provider. 
       * Web page you linked to our site from. 
       * Pages you viewed on the site. 
-  
-
     2. **Use of Cookies**
 
 24hourhiphop.com may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. 
@@ -58,8 +46,6 @@ We will not disclose personally identifiable information we collect from you to 
       * To protect ourselves from liability, 
       *       * To respond to legal process or comply with law, or 
       * In connection with a merger, acquisition, or liquidation of the company.
-  
-
   4. **USE OF WEB BEACONS OR GIF FILES**
 
 [Insert Name of Company/Web Address] Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow 24hourhiphop.com to count users who have visited those pages and to deliver co-branded services. 24hourhiphop.com may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
@@ -68,7 +54,7 @@ Some of these Web beacons may be placed by third party service providers to help
 
   5. **ACCESSING WEB ACCOUNT INFORMATION**
 
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant --[insert email address].
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant –[insert email address].
 
   6. **CHANGES TO THIS STATEMENT**
 
@@ -85,5 +71,3 @@ If you have questions regarding our Privacy Statement, its implementation, failu
  **Attention: Privacy Statement Personnel**  
 141 ne 3rd ave. Miami, Fl 33137  
 24hourhiphop.com will use commercially reasonable efforts to promptly respond and resolve any problem or question. 
-
-No events have been posted. Check back soon for updates!
