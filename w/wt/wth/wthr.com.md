@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wthr.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524143036id_/http%3A//www.wthr.com/story/18990/this-web-sites-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wthr.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113072748id_/http%3A//www.wthr.com/story/18990/this) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - 13 WTHR
 
