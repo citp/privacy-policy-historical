@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mymaa.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514193914id_/http%3A//www.maac.com/About-MAA/Informational-pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymaa.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113023630id_/http%3A//www.maac.com/About-MAA/Informational-pages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# MAA - Apartment Communities - Privay Policy
+# MAA - Apartment Communities - Privacy Policy
 
 This Site (this “ 
 
