@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rasamalaysia.com privacy policy that was archived on 2010-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100712061332id_/http%3A//rasamalaysia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rasamalaysia.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113164936id_/http%3A//rasamalaysia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rasa Malaysia: Easy Asian Recipes
 
@@ -33,11 +33,13 @@ As is true of most websites, Rasa Malaysia gathers certain information automatic
 
 **IP Addresses**
 
-Each user’s IP address is logged with each visit and each action performed on Simply Recipes. This information is never provided to the third parties, except as otherwise stated in this Privacy Policy, and is logged only for a temporary period of time. IP address information is linked to personal information and may be used in an effort to block a “banned” user from accessing the Site.
+Each user’s IP address is logged with each visit and each action performed on Rasa Malaysia. This information is never provided to the third parties, except as otherwise stated in this Privacy Policy, and is logged only for a temporary period of time. IP address information is linked to personal information and may be used in an effort to block a “banned” user from accessing the Site.
 
 **Advertising**
 
 If there is advertising on Rasa Malaysia, such advertising may employ the use of cookies or other methods to track hits and click-throughs. We are not responsible for advertiser cookies or how the information gathered through their use might be used.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 **Participation on a Public Website**
 
