@@ -1,200 +1,97 @@
-> *The following text is extracted and transformed from the theprintbar.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206002539id_/http%3A//www.theprintbar.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theprintbar.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113165448id_/http%3A//www.theprintbar.com/home/privacy%3Fma%3D4) for the most accurate reproduction.*
 
-# The Print Bar: Custom Printed T Shirts, Singlets, Hoodies delivered straight to your door!
+# The Print Bar. T Shirt Printing - Privacy policy
 
-**[](https://web.archive.org/web/20101206002539id_/http%3A//www.theprintbar.com/collection.php)**
+**Effective Date: May 1, 2007**  
+The Print Bar. T Shirt Printing values the users of our website www.theprintbar.com (the "Website"). Your privacy and trust are very important to us. We recognize that you may be concerned about our collection, use, and disclosure of the personally identifiable information ("Personal Information") that we collect when you use the Website and the services offered on the Website ("The Print Bar. T Shirt Printing Services"). This Privacy Policy describes the information that we collect from you, how we collect this information, and what we do with it after we collect it. By using the Website you are accepting the practices described in this Privacy Policy. Our policy and security is authorised and managed by deconetwork.com  
+If you have any questions or comments regarding this Privacy Policy, please contact us at jared@theprintbar.com.
 
-THE PRINT BAR & BELLUS FRUX PRIVACY POLICY
+**Does The Print Bar. T Shirt Printing Ever Make Changes to its Privacy Policy?**  
+We may make changes to the Privacy Policy from time to time. We will notify you of any changes by sending you an email, posting a notice on the home page of the Website, or posting a notice in your account when you first login after we have made changes. If you receive notification of a change in our Privacy Policy, you must review the new Privacy Policy carefully to make sure you understand our practices and procedures. You may not be able to receive notices from us if your cookies are not set to accept and/or are disabled.
 
-Ordering THE PRINT BAR products online is designed to be as simple as possible, while allowing maximum security and privacy for all your details.
+**What Types of Information Does The Print Bar. T Shirt Printing Collect?**
 
-  
-Introduction  
-THE PRINT BAR is a company within BELLUS FRUX. And therefore regards customer privacy as an important part of our relationship with our customers. The following privacy policy applies to all Bellus Frux users, and conforms to Internet privacy standards.  
-If you have questions or concerns regarding this statement, you should first contact Jared at  
-+61 4 2171 9712  
+ _Personal Information._
 
+We collect Personal Information that you provide to us, such as your name, mailing address, phone number, email address, credit card number, and financial information. 
 
-Collection of Information  
-In order to use the THE PRINT BAR & BELLUS FRUX website, we may require information from you in order to  
-provide the best service possible.  
-All correspondence may also be collected and stored, particularly in regard to sales, support and  
-accounts, including Email.  
-Any information collected by THE PRINT BAR is collected via correspondence from you or your  
-company. This may be via the telephone, Email, mail, fax or directly through our website.  
+_Non-Personal Information._
 
+We also collect non-personal information from you, such as your browser type, the URL of the previous website you visited, your ISP, operating system, and your Internet protocol (IP) Address Non-Personal Information cannot be easily used to personally identify you.
 
-Use of Collection Information  
-Any details collected from THE PRINT BAR customers is required in order to provide you with our  
-products and/or services, and a high level of customer service.  
-Correspondence is recorded in order to provide service references, and to assist in our staff  
-development.  
+**How and When Does The Print Bar. T Shirt Printing Collect This Information?**
 
+ _Providing Information to Us._
 
-Storage of Collected Information  
-The security of your personal information is important to us. When you enter sensitive information  
-(such as credit card numbers) on our website, we encrypt that information using secure socket layer  
-technology (SSL). When Credit Card details are collected, we simply pass them on in order to be  
-processed as required. We never permanently store complete Credit Card details.  
-We follow generally accepted industry standards to protect the personal information submitted to us,  
-both during transmission and once we receive it.  
-If you have any questions about security on our Website, you can email us at sales@theprintbar.com  
+We collect Personal Information from you when you provide it to us. For example, if you purchase a product sold through an affiliate, we may collect your name, mailing address, telephone number, credit card number, and email address. If you create an account, we may collect your name, tax identification number, mailing address, email address, and other information that we request during the registration process, and any information that you provide to The Print Bar. T Shirt Printing. If you sign up to receive a newsletter, we will collect your email address. 
 
+_Communications With Us._
 
-Access to Collected Information  
-If your personally identifiable information changes, or if you no longer desire our service, you may  
-correct, update, delete or deactivate it by emailing us at sales@theprintbar.com.au.  
+If you communicate with us regarding the Website or the System, we will collect any information that you provide to us in any such communication. 
 
+_Analytic and Reporting Technologies._
 
-Orders  
-If you purchase a product or service from us, we may request certain personally identifiable  
-information from you. You may be required to provide contact information (such as name, Email, and  
-postal address) and financial information (such as credit card number, expiration date).  
-We use this information for billing purposes and to fill your orders. If we have trouble processing an  
-order, we will use this information to contact you.  
+Like the operators of most websites, we use analytic and reporting technologies to record Non-Personal Information such as Internet domain and host names, Internet protocol (IP) addresses, browser software, operating system types, click stream patterns, and the dates and times that the Website and the System are accessed. We also contract with several online partners to help manage, monitor and optimise our Website and the System and to help us measure the effectiveness of our advertising, communications and how visitors use the Website. To do this, we may use web beacons and cookies.
 
+**How Does The Print Bar. T Shirt Printing Use My Information?**
 
-Communications  
-THE PRINT BAR uses personally identifiable information for essential communications, such as  
-Emails, accounts information, and critical service details. We may also use this information for other  
-purposes, including some promotional Emails. If at any time a customer wishes not to receive such  
-correspondence, they can request to be removed from any mailing lists by emailing us at  
-sales@theprintbar.com  
-You will be notified when your personal information is collected by any third party that is not our  
-agent/service provider, so you can make an informed choice as to whether or not to share your  
-information with that party.  
+ _Personal Information_
 
+. We use Personal Information primarily for our own internal purposes, such as providing, maintaining, evaluating, and improving the Website, fulfilling requests for information, producing and shipping the products that you order, and providing customer support. For example, if you create an Account, we will use the information that you provide us to communicate with you and pay you any commissions that you earn. Similarly, if you sign up to receive a The Print Bar. T Shirt Printing newsletter, we will use the email address you provide to send you the newsletters. 
 
-Third Parties  
-THE PRINT BAR & BELLUS FRUX may at its discretion use other third parties to provide essential services on our site  
-or for our business processes. We may share your details as necessary for the third party to provide that  
-service.  
-These third parties are prohibited from using your personally identifiable information for any other  
-THE PRINT BAR does not share any information with third parties for any unknown or unrelated uses.  
+_Non-Personal Information._
 
+We use Non-Personal Information to track the use of the Website and the System and for other internal purposes, such as providing, maintaining, evaluating, and improving the Website.
 
-Legal  
-We reserve the right to disclose your personally identifiable information as required by law and when  
-we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding,  
-court order, or legal process served on our Website.  
+**When Will The Print Bar. T Shirt Printing Disclose My Information to Third Parties?**
 
+ _Disclosure to Successors._
 
-Links  
-Links on the THE PRINT BAR site to external entities are not covered within this policy. The terms  
-and conditions set out in this privacy statement only cover the domain name of www.bellusfrux.com.au.  
+We may disclose your Personal Information to any successor-in-interest of ours, such as a company that acquires us. In the event The Print Bar. T Shirt Printing goes through a business transition, such as a merger or acquisition by or with another company, or sale of all or a portion of our assets, your Personal Information will likely be among the assets transferred. You will be notified via email or by a notice on our Website of any such change in ownership or control of your Personal Information.
 
+ _Disclosure to Unaffiliated Third Parties._
 
-Changes to Privacy Policy  
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the  
-homepage, and other places we deem appropriate so that you are aware of what information we collect,  
-how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this  
-privacy statement at any time, so please review it frequently. If we make material changes to this  
-policy, we will notify you here, by Email, or by means of a notice on our homepage.  
+We may disclose your Personal Information to prevent an emergency, to prevent harm to others, to respond to legal requirements, to protect or enforce our rights and policies, to protect or enforce the rights of a third party, or as required or permitted by law (including, without limitation, to comply with a subpoena or court order). In particular, we may disclose your information to a third party that alleges that you have infringed their intellectual property rights. Similarly, if you allege that someone is infringing upon your intellectual property rights, we may disclose your information to that person.
 
+ _Disclosure to Third Party Service Providers and Online Partners._
 
-The Print Bar Security Policy  
-Bellus Frux & The Print Bar uses the Pay Pal Payment Gateway for its online credit card transactions.  
-Pay Pal processes online credit card transactions for thousands of Australian merchants,  
-providing a safe and secure means of collecting payments via the Internet.  
-All online credit card transactions performed on this site using the Pay Pal gateway are secured  
-payments.  
-• Payments are fully automated with an immediate response.  
-• Your complete credit card number cannot be viewed by Bellus Frux or any outside party.  
-• All transactions are performed under 128 Bit SSL Certificate.  
-• All transaction data is encrypted for storage within Pay Pal’s bank-grade data centre, further  
-protecting your credit card data.  
-• Pay Pal is an authorised third party processor for all the major Australian banks.  
-• Pal Pal at no time touches your funds; all monies are directly transferred from your credit card to the  
-merchant account held by The Print Bar & Bellus Frux.  
-For more information about Pay Pal and online credit card payments, please visit  
-www.paypal.com  
+We may contract with various third parties who help us provide, maintain and improve the Website and the System. For example, we use a third party to process payments made to us, and may subcontract out production, fulfilment, analytics, reporting or other operations. We also contract with several online partners to help manage, monitor and optimise our Website and the System and to help us measure the effectiveness of our advertising, communications and how visitors use the Website. We will use commercially reasonable efforts to prevent such third parties from disclosing your Personal Information, except for the purpose of providing the services in question. We cannot guarantee that such third parties will not disclose your Personal Information.
 
+ _Disclosure to Affiliates._
 
-Delivery Policy  
-The Print Bar & Bellus Frux  
-After ordering online, you will receive an email confirmation from us containing your order  
-details (if you have provided your email address). We will normally confirm receipt of your order  
-within a few minutes of ordering. We will attempt to send your goods via Australia Post within  
-2 working days; however if goods are unavailable delivery will take a little longer.  
-If you wish to query a delivery please contact us at sales@theprintbar.com  
+If you purchase a product, The Print Bar. T Shirt Printing may provide your name, and the city and state information provided by you to an Affiliate. In our Affiliate Agreement, The Print Bar. T Shirt Printing contractually obligates each Affiliate not to use or disclose this information for any purposes other than internal record keeping, and for marketing, only if you have opted in to receive marketing material directly from the Affiliate. We cannot guarantee all Affiliates will comply with this obligation.
 
+ _Disclosure of Non-Personal Information._
 
-The Print Bar Receipt Confirmation  
-After ordering online, you will receive an email confirmation from The Print Bar or Bellus Frux containing your order  
-details (if you have provided your email address). We will normally confirm receipt of your order  
-within a few minutes of ordering. We will attempt to send your products via  
-Australia Post within 2 working days.  
-If you wish to query a delivery please contact us at sales@theprintbar.com  
+We will disclose Non-Personal Information, in aggregate form, to potential strategic partners, advertisers, investors, customers, and others. You may not opt-out of the sharing of this information. However, it cannot be easily used to identify you personally.
 
+**What About Cookies and Web Beacons?**  
+A cookie is a small file placed on the hard drive of your computer. Most websites use cookies. We use cookies to track your use of the Website and the System, provide you with a more personalized user experience, and to allow you to login and begin use of the Website automatically when you visit the Website. A web beacon is an often-transparent graphic image, usually no larger than a 1x1 pixel that is placed on a web page or in an e-mail that is used to monitor the behaviour of the user visiting the Website or receiving the e-mail. Cookies and web beacons used by The Print Bar. T Shirt Printing and our online partners are not linked to Personal Information. Some of our Shopkeepers may use cookies or web beacons on our Website. We have no access to or control over these cookies and web beacons. This Privacy Policy covers the use of cookies and web beacons by The Print Bar. T Shirt Printing and our online partners only and does not cover the use of cookies or web beacons by any other third party.
 
-Refund & Returns Policy  
-If for any reason you are not completely satisfied with your purchase we will give you a  
-14 day money-back guarantee from the time you receive the goods. Please email us at  
-sales@bellusfrux.com.au within that time if you are not satisfied with your purchase so that we can resolve any  
-problems.  
-This refund policy does not apply to goods which have been worn or used, damaged after delivery, or if  
-any attempt has been made to alter the product or if they have been dropped or broken. All products  
-must be returned in their original condition. All postage and insurance costs are to be paid by the buyer.  
-We recommend that you return the product via Registered post and that you pre pay all postage. You  
-assume any risk of lost, theft or damaged goods during transit &amp; therefore advise you take out  
-shipment registration of insurance with your postal carrier. The Print Bar
+**Does The Print Bar. T Shirt Printing Protect My Personal Information?**
 
-Your Choice
+ _Personal Information._
 
-If you do not wish to place your order on the internet, we offer you the option of phoning, faxing or mailing in your order.
+Whenever we obtain your Personal Information, we use commercially reasonable efforts to protect it from unauthorized access or disclosure. However, we are not insurers of the security of your Personal Information. Accordingly, we assume no liability for any disclosure of data due to errors in transmission, unauthorized third party access or other acts of third parties, or acts or omissions beyond our reasonable control. 
 
-The Print Bar  
-Customer Order Centre  
-7 Carbool Close,   
-Keperra QLD 4054  
-Australia  
-Phone: +61 4 2171 9712  
-Fax: +61 7 3851 1828  
+_Website Content_
 
+. The content that you store, post, or transmit on or through the Website, such as message board postings, storefront pages, and images on your Products, may be accessed by other users, including people that you do not know. We are not responsible for the actions of others. Therefore, you should use care in communicating with other users and only disclose your Personal Information to other users that you know to be trustworthy. You should not assume that your content will be kept private.
 
-Email Addresses
+**How Can I Review and Make Changes to My Personal Information?**  
+You can obtain a copy of and request that we correct errors in your Personal Information by emailing us at jared@theprintbar.com. For your protection, you will be required to provide proof of your identity to obtain a copy of your Personal Information. If your Personal Information changes or if you no longer want to use the The Print Bar. T Shirt Printing Services, you may correct, update or deactivate your Personal Information and/or your account through the account management screen. If you would like to deactivate or terminate your account you can also contact our Customer Service.
 
-We will store your email address if you send us a query, place an order or subscribe to an email list. Your email address is used for the purpose you provide it for and statistical information.
+**Tell-A-Friend**  
+If you choose to use our referral service to tell a friend about the Website, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Website. We store this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-They are never disclosed for any other purpose.
+**Security**  
+The security of your Personal Information is important to us. When you enter sensitive information such as a credit card number and/or social security number on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
 
-With your permission, your details will also be used to advise you of The Print Bar special promotions. You may also remove your email address from our subscription service at any stage.
+**Does This Privacy Policy Apply When I Access Third Party Websites?**  
+You may be able to access third party websites directly from the Website. This Privacy Policy does not apply when you access third party websites. We cannot control how third parties may use Personal Information you disclose to them, so you should carefully review the privacy policy of any third party website you visit before using it or disclosing your Personal Information to its provider.
 
-Email Subscription Lists
+**What About Children's Privacy?**  
+Under Thirteen. The Website and the System are intended for users aged 13 and older only. Accordingly, we will not knowingly collect or use any Personal Information from children that we know to be under the age of 13. In addition, we will delete any information in our database that we know originates from a child under the age of 13. Thirteen to Seventeen. Prospective users between the ages of 13 and 17 can only use the Website under their parent's or legal guardian's supervision. If you are between the ages of 13 and 17, you, your parent, or your legal guardian may request that we deactivate any of your Personal Information in our database and/or opt-out from receiving communications from us. If you wish to do so, please contact us at jared@theprintbar.com.
 
-Our email subscription service is an 'opt-in' system. You can unsubscribe or subscribe at any time by emailing sales@theprintbar.com.au
-
-Spam
-
-We will never knowingly send you electronic messages without your consent. For more information on the 'Spam Act 2003' please visit the Australian Government's website:  
-<http://www.dbcde.gov.au/policy_and_legislation/spam>
-
-Australian Law
-
-We comply with the Trade Practices Act 1974, state based Fair Trading Acts and Sale of Goods Acts, the Consumer Credit Code, the Electronic Transactions Act 1999 the Information Privacy Principles set out in the Commonwealth Privacy Act 1988 and the Privacy Amendment (Private Sector) Act 2000 (Cth).
-
-Dispute resolution services are available in each Australian State and Territory.
-
-Feedback and Complaints Handling Procedure
-
-Bellus Frux welcomes [feedback](http://shop.abc.net.au/browse/cataloguepromo.asp?promoid=421) and attends to all complaints promptly. Please email, fax or write to us using the contact information presented on this page.
-
-Peace of Mind
-
-We will only use your details and order information, including mailing addresses, email address, and phone number, to fulfill your order and to advise of the status of the order.
-
-The Print Bar complies with the [Information Privacy Principles set out in the Commonwealth Privacy Act 1988.](http://www.privacy.gov.au/)
-
--
-
-The Print Bar
-
-7 Carbool Close,   
-Keperra QLD 4054  
-Australia  
-Phone: +61 4 2171 9712  
-Fax: +61 7 3851 1828
-
-Email: sales@theprintbar.com
-
-ABN 860 493 440 13
+**Can I Opt-Out From Receiving Communications From The Print Bar. T Shirt Printing?**  
+We provide you the opportunity to opt-out of having your Personal Information used for certain purposes. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form. If you no longer wish to receive our newsletters and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at jared@theprintbar.com. We also offer you an opportunity to opt-out of certain communications through the account management screen. If you need assistance you may contact us at jared@theprintbar.com. If we disclose your Personal Information to a third party in a manner that is not set forth in this Privacy Policy you will be notified so that you can make an informed choice about sharing your Personal Information with that third party.
