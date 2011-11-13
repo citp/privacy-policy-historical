@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibay.com.mv privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515155705id_/http%3A//ibay.com.mv/index.php%3Fpage%3Dextra%26pg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibay.com.mv privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113211017id_/http%3A//www.ibay.com.mv/index.php%3Fpage%3Dextra%26pg%3Dprivacy) for the most accurate reproduction.*
 
 # ibay Buy, Sell, Auction - Privacy Statement
 
