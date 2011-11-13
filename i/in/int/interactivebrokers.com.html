@@ -1,336 +1,714 @@
-<!--The following is the downloaded HTML source of the interactivebrokers.com privacy policy that was archived on 2008-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080630163004id_/http%3A//www.interactivebrokers.com/en/accounts/legalDocuments/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the interactivebrokers.com privacy policy that was archived on 2011-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111113103320id_/http%3A//www.interactivebrokers.com/en/accounts/legalDocuments/privacy.php) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title></title>
 <meta name="description" content="Important privacy, confidentiality and security statement followed at IB">
 <meta name="keywords" content="privacy statement, security information, cookie use, personal information, ib website, trader tools, TWS">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta http-equiv="expires" content="-1">
 <meta name="robots" content="index, follow">
 <meta http-equiv="pragma" content="no-cache">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link href="../../../stylesheet/global.css" rel="stylesheet" type="text/css" media="screen">
-<link href="../../../stylesheet/IBG_main.css" rel="stylesheet" type="text/css" media="screen">
-<link href="../../../stylesheet/print.css" rel="stylesheet" type="text/css" media="print">
-<script language="javascript" type="text/javascript" src="../../../scripts/common/js/swfobject.js"></script>
-<script language="javascript" type="text/javascript" src="../../../scripts/common/flash.js"></script>
-<script language="javascript" type="text/javascript" src="../../../scripts/common/js/lib.js?t=1214843404"></script>
+<link href="/stylesheet/new/global.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/stylesheet/new/IBG_main.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/stylesheet/new/new.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/stylesheet/new/highlights.css" rel="stylesheet" type="text/css" media="screen">
+<link href="/stylesheet/print.css" rel="stylesheet" type="text/css" media="print">
+<script language="javascript" type="text/javascript" src="/scripts/common/js/swfobject.js"></script>
+<script language="javascript" type="text/javascript" src="/scripts/common/js/lib.js?t=1321180400"></script><script src="../../../scripts/common/js/jquery.js" type="text/javascript"></script>
+<script type="text/javascript">
+ $(document).ready(function(){
+   $(".latest_img").fadeTo("slow", 0.3); // This sets the opacity of the thumbs to fade down to 30% when the page loads
+   $(".latest_img").hover(function(){
+     $(this).fadeTo("slow", 1.0); // This should set the opacity to 100% on hover
+   },function(){
+     $(this).fadeTo("slow", 0.3); // This should set the opacity back to 30% on mouseout
+   });
+  });
+
+ $(document).ready(function(){
+   $(".content ul li a").fadeTo("slow", 0.5); // This sets the opacity of the thumbs to fade down to 30% when the page loads
+   $(".content ul li a").hover(function(){
+     $(this).fadeTo("slow", 1.0); // This should set the opacity to 100% on hover
+   },function(){
+     $(this).fadeTo("slow", 0.7); // This should set the opacity back to 30% on mouseout
+   });
+ });
+
+ $(document).ready(function(){
+   $("#div").fadeTo("slow", 1.0); // This sets the opacity of the thumbs to fade down to 30% when the page loads
+   $("#div").hover(function(){
+     $(this).fadeTo("slow", 0.3); // This should set the opacity to 100% on hover
+   },function(){
+     $(this).fadeTo("slow", 1.0); // This should set the opacity back to 30% on mouseout
+   });
+ });
+</script>
+
+<!-- Code for highlights accordian-->
+<script type="text/javascript">
+var hlaccordion={
+	
+	contentclassname:{}, //object to store corresponding contentclass name based on headerclass
+
+	expandone:function(headerclass, selected){ //PUBLIC function to expand a particular header
+		this.toggleone(headerclass, selected, "expand")
+	},
+
+	collapseone:function(headerclass, selected){ //PUBLIC function to collapse a particular header
+		this.toggleone(headerclass, selected, "collapse")
+	},
+
+	expandall:function(headerclass){ //PUBLIC function to expand all headers based on their shared CSS classname
+		var $=jQuery
+		var $headers=$('.'+headerclass)
+		$('.'+this.contentclassname[headerclass]+':hidden').each(function(){
+			$headers.eq(parseInt($(this).attr('contentindex'))).trigger("evt_accordion")
+		})
+	},
+
+	collapseall:function(headerclass){ //PUBLIC function to collapse all headers based on their shared CSS classname
+		var $=jQuery
+		var $headers=$('.'+headerclass)
+		$('.'+this.contentclassname[headerclass]+':visible').each(function(){
+			$headers.eq(parseInt($(this).attr('contentindex'))).trigger("evt_accordion")
+		})
+	},
+
+	toggleone:function(headerclass, selected, optstate){ //PUBLIC function to expand/ collapse a particular header
+		var $=jQuery
+		var $targetHeader=$('.'+headerclass).eq(selected)
+		var $subcontent=$('.'+this.contentclassname[headerclass]).eq(selected)
+		if (typeof optstate=="undefined" || optstate=="expand" && $subcontent.is(":hidden") || optstate=="collapse" && $subcontent.is(":visible"))
+			$targetHeader.trigger("evt_accordion")
+	},
+
+	expandit:function($targetHeader, $targetContent, config, useractivated, directclick){
+		this.transformHeader($targetHeader, config, "expand")
+		$targetContent.slideDown(config.animatespeed, function(){
+			config.onopenclose($targetHeader.get(0), parseInt($targetHeader.attr('headerindex')), $targetContent.css('display'), useractivated)
+			if (config.postreveal=="gotourl" && directclick){ //if revealtype is "Go to Header URL upon click", and this is a direct click on the header
+				var targetLink=($targetHeader.is("a"))? $targetHeader.get(0) : $targetHeader.find('a:eq(0)').get(0)
+				if (targetLink) //if this header is a link
+					setTimeout(function(){location=targetLink.href}, 200) //ignore link target, as window.open(targetLink, targetLink.target) doesn't work in FF if popup blocker enabled
+			}
+		})
+	},
+
+	collapseit:function($targetHeader, $targetContent, config, isuseractivated){
+		this.transformHeader($targetHeader, config, "collapse")
+		$targetContent.slideUp(config.animatespeed, function(){config.onopenclose($targetHeader.get(0), parseInt($targetHeader.attr('headerindex')), $targetContent.css('display'), isuseractivated)})
+	},
+
+	transformHeader:function($targetHeader, config, state){
+		$targetHeader.addClass((state=="expand")? config.cssclass.expand : config.cssclass.collapse) //alternate btw "expand" and "collapse" CSS classes
+		.removeClass((state=="expand")? config.cssclass.collapse : config.cssclass.expand)
+		if (config.htmlsetting.location=='src'){ //Change header image (assuming header is an image)?
+			$targetHeader=($targetHeader.is("img"))? $targetHeader : $targetHeader.find('img').eq(0) //Set target to either header itself, or first image within header
+			$targetHeader.attr('src', (state=="expand")? config.htmlsetting.expand : config.htmlsetting.collapse) //change header image
+		}
+		else if (config.htmlsetting.location=="prefix") //if change "prefix" HTML, locate dynamically added ".accordprefix" span tag and change it
+			$targetHeader.find('.accordprefix').html((state=="expand")? config.htmlsetting.expand : config.htmlsetting.collapse)
+		else if (config.htmlsetting.location=="suffix")
+			$targetHeader.find('.accordsuffix').html((state=="expand")? config.htmlsetting.expand : config.htmlsetting.collapse)
+	},
+
+	urlparamselect:function(headerclass){
+		var result=window.location.search.match(new RegExp(headerclass+"=((\\d+)(,(\\d+))*)", "i")) //check for "?headerclass=2,3,4" in URL
+		if (result!=null)
+			result=RegExp.$1.split(',')
+		return result //returns null, [index], or [index1,index2,etc], where index are the desired selected header indices
+	},
+
+	getCookie:function(Name){ 
+		var re=new RegExp(Name+"=[^;]+", "i") //construct RE to search for target name/value pair
+		if (document.cookie.match(re)) //if cookie found
+			return document.cookie.match(re)[0].split("=")[1] //return its value
+		return null
+	},
+
+	setCookie:function(name, value){
+		document.cookie = name + "=" + value + "; path=/"
+	},
+
+	init:function(config){
+	document.write('<style type="text/css">\n')
+	document.write('.'+config.contentclass+'{display: none}\n') //generate CSS to hide contents
+	document.write('<\/style>')
+	jQuery(document).ready(function($){
+		hlaccordion.urlparamselect(config.headerclass)
+		var persistedheaders=hlaccordion.getCookie(config.headerclass)
+		hlaccordion.contentclassname[config.headerclass]=config.contentclass //remember contentclass name based on headerclass
+		config.cssclass={collapse: config.toggleclass[0], expand: config.toggleclass[1]} //store expand and contract CSS classes as object properties
+		config.revealtype=config.revealtype || "click"
+		config.revealtype=config.revealtype.replace(/mouseover/i, "mouseenter")
+		if (config.revealtype=="clickgo"){
+			config.postreveal="gotourl" //remember added action
+			config.revealtype="click" //overwrite revealtype to "click" keyword
+		}
+		if (typeof config.togglehtml=="undefined")
+			config.htmlsetting={location: "none"}
+		else
+			config.htmlsetting={location: config.togglehtml[0], collapse: config.togglehtml[1], expand: config.togglehtml[2]} //store HTML settings as object properties
+		config.oninit=(typeof config.oninit=="undefined")? function(){} : config.oninit //attach custom "oninit" event handler
+		config.onopenclose=(typeof config.onopenclose=="undefined")? function(){} : config.onopenclose //attach custom "onopenclose" event handler
+		var lastexpanded={} //object to hold reference to last expanded header and content (jquery objects)
+		var expandedindices=hlaccordion.urlparamselect(config.headerclass) || ((config.persiststate && persistedheaders!=null)? persistedheaders : config.defaultexpanded)
+		if (typeof expandedindices=='string') //test for string value (exception is config.defaultexpanded, which is an array)
+			expandedindices=expandedindices.replace(/c/ig, '').split(',') //transform string value to an array (ie: "c1,c2,c3" becomes [1,2,3]
+		var $subcontents=$('.'+config["contentclass"])
+		if (expandedindices.length==1 && expandedindices[0]=="-1") //check for expandedindices value of [-1], indicating persistence is on and no content expanded
+			expandedindices=[]
+		if (config["collapseprev"] && expandedindices.length>1) //only allow one content open?
+			expandedindices=[expandedindices.pop()] //return last array element as an array (for sake of jQuery.inArray())
+		if (config["onemustopen"] && expandedindices.length==0) //if at least one content should be open at all times and none are, open 1st header
+			expandedindices=[0]
+		$('.'+config["headerclass"]).each(function(index){ //loop through all headers
+			if (/(prefix)|(suffix)/i.test(config.htmlsetting.location) && $(this).html()!=""){ //add a SPAN element to header depending on user setting and if header is a container tag
+				$('<span class="accordprefix"></span>').prependTo(this)
+				$('<span class="accordsuffix"></span>').appendTo(this)
+			}
+			$(this).attr('headerindex', index+'h') //store position of this header relative to its peers
+			$subcontents.eq(index).attr('contentindex', index+'c') //store position of this content relative to its peers
+			var $subcontent=$subcontents.eq(index)
+			var needle=(typeof expandedindices[0]=="number")? index : index+'' //check for data type within expandedindices array- index should match that type
+			if (jQuery.inArray(needle, expandedindices)!=-1){ //check for headers that should be expanded automatically (convert index to string first)
+				if (config.animatedefault==false)
+					$subcontent.show()
+				hlaccordion.expandit($(this), $subcontent, config, false) //Last param sets 'isuseractivated' parameter
+				lastexpanded={$header:$(this), $content:$subcontent}
+			}  //end check
+			else{
+				$subcontent.hide()
+				config.onopenclose($(this).get(0), parseInt($(this).attr('headerindex')), $subcontent.css('display'), false) //Last Boolean value sets 'isuseractivated' parameter
+				hlaccordion.transformHeader($(this), config, "collapse")
+			}
+		})
+		$('.'+config["headerclass"]).bind("evt_accordion", function(e, isdirectclick){ //assign custom event handler that expands/ contacts a header
+				var $subcontent=$subcontents.eq(parseInt($(this).attr('headerindex'))) //get subcontent that should be expanded/collapsed
+				if ($subcontent.css('display')=="none"){
+					hlaccordion.expandit($(this), $subcontent, config, true, isdirectclick) //2nd last param sets 'isuseractivated' parameter
+					if (config["collapseprev"] && lastexpanded.$header && $(this).get(0)!=lastexpanded.$header.get(0)){ //collapse previous content?
+						hlaccordion.collapseit(lastexpanded.$header, lastexpanded.$content, config, true) //Last Boolean value sets 'isuseractivated' parameter
+					}
+					lastexpanded={$header:$(this), $content:$subcontent}
+				}
+				else if (!config["onemustopen"] || config["onemustopen"] && lastexpanded.$header && $(this).get(0)!=lastexpanded.$header.get(0)){
+					hlaccordion.collapseit($(this), $subcontent, config, true) //Last Boolean value sets 'isuseractivated' parameter
+				}
+ 		})
+		$('.'+config["headerclass"]).bind(config.revealtype, function(){
+			if (config.revealtype=="mouseenter"){
+				clearTimeout(config.revealdelay)
+				var headerindex=parseInt($(this).attr("headerindex"))
+				config.revealdelay=setTimeout(function(){hlaccordion.expandone(config["headerclass"], headerindex)}, config.mouseoverdelay || 0)
+			}
+			else{
+				$(this).trigger("evt_accordion", [true])
+				return false //cancel default click behavior
+			}
+		})
+		$('.'+config["headerclass"]).bind("mouseleave", function(){
+			clearTimeout(config.revealdelay)
+		})
+		config.oninit($('.'+config["headerclass"]).get(), expandedindices)
+		$(window).bind('unload', function(){ //clean up and persist on page unload
+			$('.'+config["headerclass"]).unbind()
+			var expandedindices=[]
+			$('.'+config["contentclass"]+":visible").each(function(index){ //get indices of expanded headers
+				expandedindices.push($(this).attr('contentindex'))
+			})
+			if (config.persiststate==true && $('.'+config["headerclass"]).length>0){ //persist state?
+				expandedindices=(expandedindices.length==0)? '-1c' : expandedindices //No contents expanded, indicate that with dummy '-1c' value?
+				hlaccordion.setCookie(config.headerclass, expandedindices)
+			}
+		})
+	})
+	}
+}
+</script>
+<script type="text/javascript">
+hlaccordion.init({
+	headerclass: "HLheader", //Shared CSS class name of headers group
+	contentclass: "submenu", //Shared CSS class name of contents group
+	revealtype: "click", //Reveal content when user clicks or onmouseover the header? Valid value: "click", "clickgo", or "mouseover"
+	mouseoverdelay: 200, //if revealtype="mouseover", set delay in milliseconds before header expands onMouseover
+	collapseprev: true, //Collapse previous content (so only one open at any time)? true/false
+	defaultexpanded: [1], //index of content(s) open by default [index1, index2, etc] [] denotes no content [0] opens first
+	onemustopen: false, //Specify whether at least one header should be open always (so never all headers closed)
+	animatedefault: false, //Should contents open by default be animated into view?
+	persiststate: true, //persist state of opened contents within browser session?
+	toggleclass: ["", "selected"], //Two CSS classes to be applied to the header when it's collapsed and expanded, respectively ["class1", "class2"]
+	togglehtml: ["", "", ""], //Additional HTML added to the header when it's collapsed and expanded, respectively  ["position", "html1", "html2"] (see docs)
+	animatespeed: "normal", //speed of animation: integer in milliseconds (ie: 200), or keywords "fast", "normal", or "slow"
+	oninit:function(headers, expandedindices){ //custom code to run when headers have initalized
+		//do nothing
+	},
+	onopenclose:function(header, index, state, isuseractivated){ //custom code to run whenever a header is opened or closed
+		//do nothing
+	}
+})
+</script><style type="text/css">
+.submenu{display: none}
+</style>
+
+<script type="text/javascript">
+ $(document).ready(function(){
+  closetimer = 0;
+  if($("#menu_llc")) {
+    $("#menu_llc b").mouseover(function() {
+       clearTimeout(closetimer);
+       if (this.className.indexOf("clicked") != -1) {
+	  $(this).parent().next().slideUp(300);
+	  $(this).removeClass("clicked");
+       } else {
+	  $("#menu_llc b").removeClass();
+	  $(this).addClass("clicked");
+	  $("#menu_llc ul:visible").slideUp(100);
+	  $(this).parent().next().slideDown(300);
+       }
+       return false;
+    });
+    $("#menu_llc").mouseover(function() {
+       clearTimeout(closetimer);
+    });
+    $("#menu_llc").mouseout(function() {
+       closetimer = window.setTimeout(function(){
+       $("#menu_llc ul:visible").slideUp(100);
+       $("#menu_llc b").removeClass("clicked");
+    }, 300);
+   });
+  }
+ });
+</script>
 </head>
 <body>
 <div id="container">
  <div id="printheader"><img src="../../../images/sitetemplate/printHeader.gif"></div>
 <div id="backtohome">
-<a href="../../../en/main.php"><img width="280" height="50" src="../../../images/common/one_pixel.gif"></a></div> <!-- End backtohome div -->
+<a href="../../../en/main.php"><img width="284" height="43" src="http://www.interactivebrokers.com/images/sitetemplate/new/mnTempLogo_US.png"></a></div> <!-- End backtohome div -->
   <div id="header">
     <div id="signinsearch">
-     <table width="310" cellspacing="5" cellpadding="0" border="0">
- <tbody>
-    <tr valign="top"> 
-    <td colspan="2"><span style="margin-left:25px"><a href="../../../en/main.php"><img src="../../../images/sitetemplate/mnTempFlag_LLC.gif"></a> <a href="http://www.interactivebrokers.co.uk/contract_info/index.php?site=IB&amp;action=Top Search&amp;symbol=&amp;description=" target="_blank">Contract Search</a> | <a href="../../../en/site_map.php?ib_entity=llc">Site Map</a></span></td>
-    </tr>
-    <tr>
-   <form name="loginmenu" target="_blank" method="POST" onsubmit="return showError(this)"></form>
-   <td width="90%" valign="top" align="right">
-   <!-- menu login section --> 
-   <script language="JavaScript" type="text/JavaScript">
-   <!--
-    var is_tws_page = false;
-
-    function submitWebSiteSearch()
-    {
-             if (trim(document.search.q.value) == 'Type Website Search Text'){
-                 document.search.q.value = "";
-             }
-             document.search.submit();
-    }  
-
-    function showError(form)
-    {
-             if (form.login.options[form.login.selectedIndex].value == '')
-	     {
-                 form.login.options[0].text='Please make a selection';
-	         form.login.options[0].style.color='#FF0000';
-	         return false;
-	     }
-	     else {
-		 form.target = "_blank";
-                 if (is_tws_page && (form.login.selectedIndex == 1 || form.login.options[form.login.selectedIndex].value == "twsPluginDisclaimer.php"))
-                 {
-                     form.target = "_self";
-                 }
-
-                 jumpMenuLogin('parent',document.loginmenu.login,0);
-                 return false;
-	     }
-	     
-	     return true;
-    }
-
-    function jumpMenuLogin(targ,selObj,restore){ //v3.0
-        if (selObj.selectedIndex==0) {
-        }
-        else {
-                             if (selObj.selectedIndex==1 || selObj.selectedIndex==2) {
-                              eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
-            }
-             else {
-                  /* restore default values */ 
-		  document.loginmenu.login.options[0].text='Select Trade or Account Login';
-		  document.loginmenu.login.options[0].style.color='#000000';
-		  
-		  document.loginmenu.action=selObj.options[selObj.selectedIndex].value;
-                  document.loginmenu.submit();
+       <script type="text/javascript">
+    var bth = document.getElementById("backtohome");
+    var lnk = bth.lastChild;
+    var img = lnk.lastChild;
+    img.width = 284;
+    img.height = 43;
+    img.src = 'http://www.interactivebrokers.com/images/sitetemplate/new/mnTempLogo_US.png';
+  </script>
+<script type="text/javascript">// controls international menu
+$(document).ready(function(){
+ closetimer = 0;
+ if($("#menu_international")) {
+    $("#menu_international b").mouseover(function() {
+      clearTimeout(closetimer);
+      if(this.className.indexOf("clicked") != -1) 
+      {
+	$(this).parent().next().slideUp(100);
+	$(this).removeClass("clicked");
       }
-  } 
-  if (restore) selObj.selectedIndex=0;
+      else {
+	$("#menu_international b").removeClass();
+	$(this).addClass("clicked");
+	$("#menu_international ul:visible").slideUp(100);
+	$(this).parent().next().slideDown(500);
+      }
+      return false;
+    });
+    $("#menu_international").mouseover(function() {
+      clearTimeout(closetimer);
+    });
+    $("#menu_international").mouseout(function() {
+       closetimer = window.setTimeout(function(){
+       $("#menu_international ul:visible").slideUp(100);
+       $("#menu_international b").removeClass("clicked");
+    }, 300);
+    }); 
   }
-//-->
-</script> 
-   <select name="login" id="login" class="searchBox" style="background-color:#ffffcc;width:230px;" onchange="jumpMenuLogin('parent',this,0)">
-   <option value="" selected="">Select Trade or Account Login</option>
-   <option value="http://individuals.interactivebrokers.com/en/software/twsDisclaimer.php?ib_entity=llc">Trader Workstation</option> 
-      <option value="http://individuals.interactivebrokers.com/en/software/twsPluginDisclaimer.php?ib_entity=llc">Trader Workstation Beta</option>
-      <option value="https://wt1.interactivebrokers.com/webtrader2/servlet/login">WebTrader</option>
-      <option value="https://www.interactivebrokers.com/Universal/servlet/AccountAccess.Login">
-   Account Management</option>
-   <option value="https://www.interactivebrokers.com/Universal/servlet/AccountAccess.Login?c=t">
-   Finish Application</option>
-   <option value="https://www.interactivebrokers.com/Universal/servlet/AccountAccess.Login?forwardTo=1">
-   Statements</option>
-   <option value="https://www.interactivebrokers.com/Universal/servlet/AccountAccess.Login?forwardTo=2">
-   Tax Forms</option>
-   <option value="https://www.interactivebrokers.com/Universal/servlet/AccountAccess.Login?forwardTo=3">
-   Deposits and Transfers</option>
-   <option value="https://www.interactivebrokers.com/Universal/servlet/AccountAccess.Login?forwardTo=4">
-   Withdrawals</option>
-   <option value="https://www.interactivebrokers.com/Universal/servlet/AccountAccess.Login?forwardTo=5">
-   Funds Status</option>
-  </select>
-     </td><td width="10%" valign="middle" align="right"><input type="image" width="37" height="16" alt="" src="../../../images/sitetemplate/mnTempLogin_US.gif"></td>
-   
+});
+</script>
+<script type="text/javascript">// controls help menu
+$(document).ready(function(){
+ closetimer = 0;
+ if($("#menu_help")) {
+    $("#menu_help b").mouseover(function() {
+       clearTimeout(closetimer);
+       if(this.className.indexOf("clicked") != -1) {
+	$(this).parent().next().slideUp(300);
+	$(this).removeClass("clicked");
+       }
+       else {
+	$("#menu_help b").removeClass();
+	$(this).addClass("clicked");
+	$("#menu_help ul:visible").slideUp(50);
+	$(this).parent().next().slideDown(300);
+	}
+	return false;
+  });
+  $("#menu_help").mouseover(function() {
+    clearTimeout(closetimer);
+  });
+  $("#menu_help").mouseout(function() {
+    closetimer = window.setTimeout(function(){
+     $("#menu_help ul:visible").slideUp(50);
+     $("#menu_help b").removeClass("clicked");
+    }, 300);
+  });
+ }
+});
+</script>
+<style>#search_box .s {
+    float: left;
+    padding: 0;
+    margin: 6px 0 0 6px;
+    border: 0;
+    width: 185px;
+    background: none;
+}
+</style>
+<div id="signinsearch_help">
+ <table width="325" cellspacing="5" cellpadding="0" border="0">
+  <tbody>
+   <tr valign="top">
+    <td align="right"> 
+<ul id="menu_help">
+<li class="search"><a href="http://www.interactivebrokers.co.uk/contract_info/index.php?site=IB&amp;action=TopSearch&amp;symbol=&amp;description="><b>Contract Search</b></a>
+</li>
+<li class="sub"><a href="/en/site_map.php?ib_entity=llc"><b>Site Map</b></a>
+</li>
+<li class="help"><a href="/en/pagemap/pagemap_helpcontacts.php"><b>Help &amp; Contacts</b></a>
+<ul class="dd0">
+<li><a href="/en/p.php?f=customerService&amp;ib_entity=llc">Customer Service</a></li>
+<li><a href="http://www.interactivebrokers.co.uk/contract_info/index.php?site=IB&amp;action=TopSearch&amp;symbol=&amp;description=">Contract Search</a></li>
+<li><a href="/en/software/systemStatus.php?ib_entity=llc">System Status</a></li>
+<li><a href="http://ibkb.interactivebrokers.com">IB Knowledge Base</a></li>
+<li><a href="/en/general/notifications/ibchanges.php?ib_entity=llc">IB Web Changes</a></li>
+<li><a href="/en/p.php?f=calendars&amp;ib_entity=llc">Calendars</a></li>
+<li><a href="/en/trading/pdfhighlights/PDF-OptionsDesk.php?ib_entity=llc">Options Trading Desk</a></li>
+</ul>
+</li>
+</ul>
+   </td>
   </tr>
   <tr>
-   <form name="search" action="http://search.interactivebrokers.com/search" method="get"></form>
-     <td valign="top" align="right"><input type="text" maxlength="64" name="q" value="Type Website Search Text" onfocus="this.value=''" size="50">
-     </td>
-     <td valign="middle" align="right">
-      <input width="37" height="16" type="image" src="../../../images/sitetemplate/mnTempSearch_US.gif" onclick="submitWebSiteSearch()">
-     </td>
-     <input type="hidden" name="site" value="ib_en_collection">
-     <input type="hidden" name="client" value="ib_en_frontend">
-     <input type="hidden" name="output" value="xml_no_dtd">
-     <input type="hidden" name="proxystylesheet" value="ib_en_frontend">
-     <input type="hidden" name="ie" value="latin1">
-   
+   <td align="right" valign="top">
+    <script language="javascript" type="text/javascript">
+    searchbox_input_changed = false;
+</script>
+
+
+<div id="search_box" style="margin-right:20px;">
+    <form id="search_form" method="get" action="../../../search/search.php" onsubmit="return searchbox_input_changed;;">
+        <input type="text" autocomplete="off" id="searchField" class="s swap_value" maxlength="64" name="q" value="Type Website Search Text" onchange="searchbox_input_changed=true;" onfocus="this.value='';sayt(this);">
+        <input type="image" src="../../../images/sitetemplate/new/mnTempSearch_v2_US.png" width="48" height="17" id="submit" alt="Search" title="Search">
+        <input type="hidden" name="site" value="ib_en_collection">
+        <input type="hidden" name="client" value="if_en_frontend">
+        <input type="hidden" name="proxystylesheet" value="if_en_frontend">
+        <input type="hidden" name="ie" value="latin1">
+        <input type="hidden" name="ib_entity" value="llc">
+        <input type="hidden" name="output" value="xml_no_dtd">
+    </form>
+            <script src="../../../search/search-as-you-type.js"></script>
+        <script>
+            function sayt(el)
+            {
+                searchAsYouType.initialize(el, true, '../../../search/');
+                searchAsYouTypeConfiguration.ibEntity = 'llc';
+                searchAsYouType.setSearchUrl('ib_en_collection');
+            }
+        </script>
+     </div>   </td>
   </tr>
  </tbody>
-</table>
-<div id="identifier">
-</div>    </div>
+ </table>
+ <div id="identifier"><a href="../../../en/main.php"><img src="../../../images/sitetemplate/mnTempFlag_LLC.gif"></a></div>
+ <div id="menu_international"><a href="/en/ibglobal_sites.php"><img src="../../../images/sitetemplate/new/btn_international.png" alt="Click for International Website" title="Click for International Website"></a></div>
+</div>
+<!-- End front sign in search -->    </div>
     <!-- End front sign in search -->
     <div id="ibmenu">
- <script language="javascript" src="../../../scripts/common/sniffer.js"></script>
- <script language="javascript" src="../../../scripts/common/menus/menu_items_llc.js?t=1214843404"></script>
- <script language="javascript" src="../../../scripts/common/menu.js"></script><script language="javascript1.2" type="text/javascript" src="http://www.interactivebrokers.com/scripts/common/menu_moz.js"></script>
+
+<ul id="menu_llc">
+<li class="home"><a href="/ibg/main.php"><b>Home</b></a>
+<ul class="dd0">
+<li><a href="http://www.interactivebrokers.com/ibg/main.php">Main</a></li>
+<li><a href="http://individuals.interactivebrokers.com/en/main.php">Single Account</a></li>
+<li><a href="http://institutions.interactivebrokers.com/inst/main.php">Institutional Account</a></li>
+<li><a href="http://ibis.interactivebrokers.com/ibis/index.php">IBIS</a></li>
+<li><a href="/en/ibglobal_sites.php">IB Worldwide</a></li>
+<li><a href="http://investors.interactivebrokers.com/ir/main.php">Investor Relations</a></li>
+<li><a href="javascript:addSiteLocationCookie('ibgsite','en',360)">Set Current Site as Default</a></li>
+</ul>
+</li>
+<li class=""><a href="/en/pagemap/pagemap_whyib.php"><b>Why IB?</b></a>
+<ul class="dd8">
+<li><a href="/en/general/education/why_ib.php">Summary</a></li>
+<li><a href="/en/general/whyib/PDF-GlobalOfferings.php">Global Offerings</a></li>
+<li><a href="/en/p.php?f=smartRouting">Best Execution</a></li>
+<li><a href="/en/general/education/comparebrokers.php">Low Cost</a></li>
+<li><a href="/en/general/whyib/PDF-SuperiorTradingTechnology.php">Superior Trading Technology</a></li>
+<li><a href="/en/general/whyib/PDF-RiskManagement.php">Risk Management &amp; Control</a></li>
+<li><a href="/en/software/pdfhighlights/PDF-StatementsandReports.php">Comprehensive Reporting</a></li>
+<li><a href="/en/general/whyib/PDF-Education.php">Education Center</a></li>
+<li><a href="/en/p.php?f=ibgStrength">Strength &amp; Security</a></li>
+<li><a href="/en/general/about/awards.php">Awards</a></li>
+<li style="border-bottom:1px dotted #999;line-height:0px">&nbsp;</li><li></li>
+<li><a href="/en/general/education/highlights.php">Feature Highlights</a></li>
+</ul>
+</li>
+<li class="sub"><a href="/en/pagemap/pagemap_fees.php"><b>Costs</b></a>
+<ul class="dd1">
+<li><a href="/en/p.php?f=commission">Commissions</a></li>
+<li><a href="/en/p.php?f=interest">Interest &amp; Financing</a></li>
+<li><a href="/en/p.php?f=marketData">Information and Market Data</a></li>
+<li><a href="/en/p.php?f=otherFees">Other Fees</a></li>
+<li style="border-bottom:1px dotted #999;line-height:0px">&nbsp;</li><li></li>
+<li><a href="/en/p.php?f=minimumDeposits">Required Minimums</a></li>
+<li><a href="/en/p.php?f=advisorWrapFees">Advisor Client Markups</a></li>
+</ul>
+</li>
+<li class=""><a href="/en/pagemap/pagemap_trading.php"><b>Trading</b></a>
+<ul class="dd4">
+<li><a href="/en/pagemap/pagemap_trading_platforms.php">Trading Platforms</a></li>
+<li><a href="/en/pagemap/pagemap_mobiletrading.php">Mobile Solutions</a></li>
+<li><a href="/en/pagemap/pagemap_APISolutions.php">API Solutions</a></li>
+<li><a href="/en/pagemap/pagemap_demo.php">Platform Demos</a></li>
+<li><a href="/en/p.php?f=tws&amp;p1=papertrader">IB PaperTrader</a></li>
+<li><a href="/en/p.php?f=cam">Customer Activity Monitor</a></li>
+<li style="border-bottom:1px dotted #999;line-height:0px">&nbsp;</li><li></li>
+<li><a href="/en/p.php?f=products">Product Listings</a></li>
+<li><a href="/en/trading/productsupdates.php">New Products</a></li>
+<li><a href="/en/p.php?f=exchanges">Exchange Listings</a></li>
+<li><a href="/en/p.php?f=margin">Margin</a></li>
+<li><a href="/en/p.php?f=orderTypes">Order Types &amp; Algos</a></li>
+<li><a href="/en/p.php?f=smartRouting">SmartRouting</a></li>
+<li><a href="/en/trading/holidayAndExpirationCalendar.php">Trader's Calendar</a></li>
+<li><a href="/en/p.php?f=shortableStocks">Short Sales</a></li>
+<li><a href="/en/p.php?f=deliveryExerciseActions">Delivery, Exercise &amp; Actions</a></li>
+<li><a href="/en/p.php?f=customerService&amp;p1=bust">Erroneous Trade Policy</a></li>
+</ul>
+</li>
+<li class=""><a href="/en/pagemap/pagemap_accounts.php"><b>My Account</b></a>
+<ul class="dd3">
+<li><a href="/en/p.php?f=accountmanagement">Account Management</a></li>
+<li><a href="/en/p.php?f=funding">Funds &amp; Banking</a></li>
+<li><a href="/en/p.php?f=accountConfig">Account Configuration</a></li>
+<li><a href="/en/p.php?f=tradingConfiguration">Trading Configuration</a></li>
+<li><a href="/en/p.php?f=userMgmt">Users &amp; Access Rights</a></li>
+<li><a href="/en/pagemap/pagemap_statements.php">Statements &amp; Reports</a></li>
+<li><a href="/en/p.php?f=tax">Tax Reporting</a></li>
+<li><a href="/en/p.php?f=ibgStrength&amp;p=a">Account Protection</a></li>
+<li><a href="/en/p.php?f=legalDocs">Forms &amp; Disclosures</a></li>
+<li style="border-bottom:1px dotted #999;line-height:0px">&nbsp;</li><li></li>
+<li><a href="/en/pagemap/pagemap_newaccounts.php">New Accounts</a></li>
+<li><a href="https://www.interactivebrokers.com/Universal/servlet/AccountAccess.Login?c=t" target="_blank">Finish Application</a></li>
+<li><a href="/en/accounts/closingAccount.php">Close an Account</a></li>
+</ul>
+</li>
+<li class=""><a href="/en/pagemap/pagemap_education.php"><b>Education</b></a>
+<ul class="dd5">
+<li><a href="/en/p.php?f=daily_analysis">IB Market Briefs</a></li>
+<li><a href="/en/general/education/TradersUniversity.php">Traders' University</a></li>
+<li><a href="/en/pagemap/pagemap_webinars.php">Webinars</a></li>
+<li><a href="/en/software/twsTutorial.php">Interactive Tours</a></li>
+<li><a href="/en/general/education/UserGuides.php">User Documentation</a></li>
+<li style="border-bottom:1px dotted #999;line-height:0px">&nbsp;</li><li></li>
+<li><a href="/en/p.php?f=ibStudentTradingLab">IB Student Trading Lab</a></li>
+<li><a href="/en/p.php?f=ibchat_bb">Chats &amp; Bulletin Boards</a></li>
+<li><a href="/en/general/poll/ibconsultants.php">The Marketplace@IB</a></li>
+<li><a href="/en/pagemap/pagemap_exchanges_around_world.php">Exchanges Around the World</a></li>
+</ul>
+</li>
+<li class=""><a href="/en/pagemap/pagemap_about.php"><b>About IB</b></a>
+<ul class="dd6">
+<li><a href="/en/general/about/about.php">Information and History</a></li>
+<li><a href="http://investors.interactivebrokers.com/ir/main.php">Investor Relations</a></li>
+<li><a href="/en/p.php?f=news">News at IB</a></li>
+<li><a href="/en/p.php?f=media">Media</a></li>
+<li><a href="/en/general/about/commentLetters.php">Comment Letters &amp; Papers</a></li>
+<li><a href="/en/accounts/legalDocuments/brokerPerformanceReports.php">Performance Reports</a></li>
+<li><a href="/en/general/about/financials.php">Financials</a></li>
+<li><a href="/en/general/about/ratingSandP.php">S&amp;P Rating</a></li>
+<li><a href="/en/general/contact/feedbackForm.php">Suggestion Box</a></li>
+<li style="border-bottom:1px dotted #999;line-height:0px">&nbsp;</li><li></li>
+<li><a href="/en/general/poll/poll.php">New Features Poll</a></li>
+<li style="border-bottom:1px dotted #999;line-height:0px">&nbsp;</li><li></li>
+<li><a href="http://interactivebrokers.hrmdirect.com/employment/index.php">Careers</a></li>
+</ul>
+</li>
+<li class=""><a href="/en/pagemap/pagemap_hdi.php"><b>How Do I?</b></a>
+<ul class="dd5">
+<li><a href="/en/general/education/hdi_trade_at_IB.php">Trade at IB</a></li>
+<li><a href="/en/general/education/hdi_bonds.php">Trade Bonds</a></li>
+<li><a href="/en/general/education/hdi_check_my_BAP.php">Monitor my Account</a></li>
+<li><a href="/en/general/education/hdi_Deposit_Withdraw_Transfer.php">Deposit, Withdraw &amp; Transfer</a></li>
+<li><a href="/en/general/education/hdi_Add_Products_Market_Data.php">Add Products &amp; Market Data</a></li>
+<li><a href="/en/general/education/hdi_borrow_lend.php">Borrow and Lend</a></li>
+<li><a href="/en/general/education/hdi_port_margin.php">Upgrade to Portfolio Margin</a></li>
+</ul>
+</li>
+<li class="login"><a href="/en/pagemap/pagemap_login.php" target="_blank"><b>Login</b></a>
+<ul class="dd7">
+<li><a href="/en/software/twsDisclaimer.php">Trader Workstation</a></li>
+<li><a href="/en/software/twsPrevious.php">Trader Workstation Previous</a></li>
+<li><a href="https://cwt1.interactivebrokers.com/webtrader2/servlet/login" target="_blank">WebTrader</a></li>
+<li><a href="https://cwt1.interactivebrokers.com/webtraderbeta/servlet/login" target="_blank">WebTrader Beta</a></li>
+<li><a href="http://www.interactivebrokers.com/java/classes/ibg.jnlp" target="_blank">IB Gateway</a></li>
+<li style="border-bottom:1px dotted #999;line-height:0px">&nbsp;</li><li></li>
+<li><a href="https://www.interactivebrokers.com/sso/Login" target="_blank">Account Management</a></li>
+<li><a href="https://www.interactivebrokers.com/Universal/servlet/AccountAccess.Login?c=t" target="_blank">Finish an Application</a></li>
+<li><a href="https://www.interactivebrokers.com/sso/Login?forwardTo=1" target="_blank">Statements</a></li>
+<li><a href="https://www.interactivebrokers.com/sso/Login?forwardTo=RM_PORTFOLIO_ANALYST" target="_blank">PortfolioAnalyst</a></li>
+<li><a href="https://www.interactivebrokers.com/sso/Login?forwardTo=2" target="_blank">Tax Forms</a></li>
+<li><a href="https://www.interactivebrokers.com/sso/Login?forwardTo=3" target="_blank">Deposits and Transfers</a></li>
+<li><a href="https://www.interactivebrokers.com/sso/Login?forwardTo=4" target="_blank">Withdrawals</a></li>
+<li><a href="https://www.interactivebrokers.com/sso/Login?forwardTo=5" target="_blank">Funds Status</a></li>
+</ul>
+</li>
+<li class="openaccnt"><a href="/en/pagemap/pagemap_newaccounts.php?ib_entity=llc"><b>Open an Account</b></a>
+<ul class="">
+<li><a href="/en/p.php?f=individualAccounts&amp;ib_entity=llc">Individual, Joint, IRA and Trust</a></li>
+<li><a href="/en/p.php?f=friendsFamilyAccounts&amp;ib_entity=llc">Friends and Family Group</a></li>
+<li><a href="/en/p.php?f=smallBusinessAccounts&amp;ib_entity=llc">Small Business</a></li>
+<li style="border-bottom:1px dotted #999;line-height:0px">&nbsp;</li><li></li>
+<li><a href="/en/accounts/advisors/advisorsMain.php?ib_entity=inst">Professional Advisor</a></li>
+<li><a href="/en/accounts/brokers/brokerMain.php?ib_entity=inst">Registered Brokers &amp; FCMs</a></li>
+<li><a href="/en/accounts/institutions/institutionalMain.php?ib_entity=inst">Proprietary Trading Groups</a></li>
+<li><a href="/en/accounts/institutions/fundMain.php?ib_entity=inst">Hedge &amp; Mutual Funds</a></li>
+<li><a href="/en/accounts/advisors/employeeTrackMain.php?ib_entity=inst">Broker Compliance Officers</a></li>
+<li style="border-bottom:1px dotted #999;line-height:0px">&nbsp;</li><li></li>
+<li><a href="https://www.interactivebrokers.com/Universal/servlet/AccountAccess.Login?c=t" target="_blank">Finish an Application</a></li>
+</ul>
+</li>
+</ul>
 </div>
 <!-- End navigation DIV -->  </div> <!-- End front page text Div???????? -->
   <div id="mainBody">
      <script type="text/javascript">
-function isSwitchContent() {
+  function isSwitchContent()
+  {
+  }
 
-      if (typeof sweeptoggle == 'undefined'){ return; } /* only when necessary */
-      for (var i=0; i<document.getElementsByTagName('div').length; i++) {
-            for (var j=0; j<document.getElementsByTagName('div')[i].attributes.length; j++) {
-                  if (document.getElementsByTagName('div')[i].attributes[j].name == "class"  && 
-                        document.getElementsByTagName('div')[i].attributes[j].value == "switchcontent") {
-                        sweeptoggle('expand');
-                        break;
-                  }
-            }
-      }
-}
+ <!--
+  $(function () {
+    $('.bubbleInfo').each(function () {
+       var distance = 10;
+       var time = 250;
+       var hideDelay = 500;
+
+       var hideDelayTimer = null;
+
+       var beingShown = false;
+       var shown = false;
+       var trigger = $('.trigger', this);
+       var info = $('.popup', this).css('opacity', 0);
+
+        $([trigger.get(0), info.get(0)]).mouseover(function () {
+           if (hideDelayTimer) clearTimeout(hideDelayTimer);
+           if (beingShown || shown) {
+           // don't trigger the animation again
+           return;
+        } else {
+           // reset position of info box
+           beingShown = true;
+
+           info.css({
+             top: -43,
+             left: -190,
+             display: 'block'
+            }).animate({
+             top: '-=' + distance + 'px',
+             opacity: 1
+            }, time, 'swing', function() {
+                beingShown = false;
+                shown = true;
+            });
+           }
+
+            return false;
+            }).mouseout(function () {
+                if (hideDelayTimer) clearTimeout(hideDelayTimer);
+                hideDelayTimer = setTimeout(function () {
+                    hideDelayTimer = null;
+                    info.animate({
+                        top: '-=' + distance + 'px',
+                        opacity: 0
+                    }, time, 'swing', function () {
+                        shown = false;
+                        info.css('display', 'none');
+                    });
+
+                }, hideDelay);
+
+                return false;
+            });
+        });
+    });
+ //-->
 </script>
-
-<script type="text/javascript">
-
-/***********************************************
-* Drop Down/ Overlapping Content- &#169; Dynamic Drive (www.dynamicdrive.com)
-* This notice must stay intact for legal use.
-* Visit http://www.dynamicdrive.com/ for full source code
-***********************************************/
-
-function getposOffset(overlay, offsettype){
-var totaloffset=(offsettype=="left")? overlay.offsetLeft : overlay.offsetTop;
-var parentEl=overlay.offsetParent;
-while (parentEl!=null){
-totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
-parentEl=parentEl.offsetParent;
-}
-return totaloffset;
-}
-
-function overlay(curobj, subobjstr, opt_position){
-if (document.getElementById){
-var subobj=document.getElementById(subobjstr)
-subobj.style.display=(subobj.style.display!="block")? "block" : "none"
-//var xpos=getposOffset(curobj, "left")+((typeof opt_position!="undefined" && opt_position.indexOf("right")!=-1)? -(subobj.offsetWidth-curobj.offsetWidth) : 0) 
-//var ypos=getposOffset(curobj, "top")+((typeof opt_position!="undefined" && opt_position.indexOf("bottom")!=-1)? curobj.offsetHeight : 0)
-//subobj.style.left=xpos+"px"
-//subobj.style.top=ypos+"px"
-subobj.style.top=27+"px"
-return false
-}
-else
-return true
-}
-
-function overlayclose(subobj){
-document.getElementById(subobj).style.display="none"
-}
-
-</script>
-
-<div id="rightalign"><img src="../../../images/common/one_pixel.gif" width="195" height="5" alt=""><img src="../../../images/common/one_pixel.gif" width="285" height="5" alt="">
-
-
-<span id="btnprintpdf"><a href="javascript:getPrintPDFLink('/en/accounts/legalDocuments/privacy.php', 1192720103)" onclick="javascript:isSwitchContent()"><img src="../../../images/sitetemplate/btn_PrintPDF.gif" align="absmiddle" class="noprint" title="Click to create PDF of page"></a></span>
-
-<img src="../../../images/common/one_pixel.gif" width="10" height="5" alt="">
-<span id="btnOpenAccount"><a href="../../../en/accounts/individuals/individualMain.php?ib_entity=llc"><img src="../../../images/sitetemplate/mnTempbtnOpenAcct.gif" align="absmiddle" class="noprint" title="Open an Account"></a></span>
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style social_buttons">
+<!-- a class="addthis_button_facebook_like"></a -->
+<!--<a class="addthis_button_tweet"></a>-->
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_linkedin"></a>
+<a class="addthis_button_email"></a>
+<a class="addthis_button_compact"></a>
 </div>
+<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e174c7454ff6cea"></script>
+<!-- AddThis Button END -->
+<div class="bubbleInfo">
+ <div class="pdf_print trigger noprint" id="download">
+<a href="javascript:getPrintPDFLink('/en/accounts/legalDocuments/privacy.php', 1192720103)" onclick="javascript:isSwitchContent()">Print Friendly</a></div>
+ <table border="0" class="popup noprint" id="dpop" style="opacity: 0;">
+                <tbody><tr>
+                        <td id="topleft" class="corner"></td>
+                        <td class="top"></td>
+                        <td id="topright" class="corner"></td>
+                </tr>
 
-<!--Do not remove outer most DIV tag with id="subcontent"-->
-<div id="subcontent" style="position:static; border: 0px; display:none">
+                <tr>
+                        <td class="left"></td>
+                        <td><table class="popup-contents">
+                                <tbody><tr>
+                                        <td>Create a PDF of this page <br>for easy printing or saving.</td>
+                                </tr>
+                        </tbody></table>
 
-<div align="center"><table width="450" border="0" cellspacing="0" cellpadding="0" class="TableOutline">
-  <tbody><tr> 
-    <td class="CellSubTitle">Account Application and Information</td>
-    <td class="CellSubTitle" style="padding-right: 8px"><div align="right"><a href="#" onclick="overlayclose('subcontent'); return false"><img src="../../../images/sitetemplate/btn_close.gif" title="Close Window"></a></div></td>
-  </tr>
-  <tr> 
-    <td width="50%" class="CellOff"><a href="../../../en/accounts/individuals/individualMain.php?ib_entity=llc"><strong>Individuals</strong></a></td>
-    <td width="50%" class="CellOff"><a href="../../../en/accounts/institutions/institutionalMain.php?ib_entity=llc"><strong>Institutions</strong></a></td>
-   
-    </tr>
-    <tr>
-    <td class="CellOff"><a href="../../../en/accounts/advisors/advisorsMain.php?ib_entity=llc"><strong>Advisors</strong></a></td>
-    <td class="CellOff"><a href="../../../en/accounts/brokers/brokerMain.php?ib_entity=llc"><strong>Brokers</strong></a></td>
-    </tr>
-</tbody></table></div></div>
+                        </td>
+                        <td class="right noprint"><img width="19" height="19" alt="popup tail" src="../../../images/sitetemplate/new/bubble-tail-right.png"></td>    
+                </tr>
 
-<!--Do not remove outer most DIV tag with id="flagdropdown"-->
-<div id="flagdropdown" style="position:absolute; z-index:300; display:none; border: 1px solid #999999; width: 170px; height: auto; padding: 0px; margin-left:22px; background: transparent url(../../../images/sitetemplate/mainTemplateBkgrnd.gif) repeat-x;"><div class="CellTitle" style="margin:0px; padding-top:5px; height:22px">IB Worldwide<div align="right" style="margin-right:10px; margin-top: -15px "><a href="#" onclick="overlayclose('flagdropdown'); return false"><img src="../../../images/sitetemplate/btn_close.gif" width="16" height="16" border="0"></a></div> </div>
-<table width="100%" border="0" cellspacing="5" cellpadding="0">
-  <tbody><tr>
-    <td align="center"><a href="http://www.interactivebrokers.com/en/main.php"><img src="../../../images/sitetemplate/mnTempFlag_US.gif" border="0" title="Interactive Brokers LLC"></a></td>
-    <td align="center"><a href="http://www.interactivebrokers.co.uk/en/main.php"><img src="../../../images/sitetemplate/mnTempFlag_UK.gif" border="0" title="Interactive Brokers (UK) Limited"></a></td>
-    <td align="center"><a href="http://www.interactivebrokers.ca/en/main.php"><img src="../../../images/sitetemplate/mnTempFlag_CA.gif" title="Interactive Brokers Canada, Inc."></a></td>
-  </tr>
-</tbody></table>
-<div class="CellTitle" style="margin:0px; padding-top:5px; height:22px">IB Languages</div>
-<table width="100%" border="0" cellspacing="5" cellpadding="3">
-  <tbody><tr>
-    <td align="center"><a href="http://www.interactivebrokers.ca/fr/main.php"><img src="../../../images/sitetemplate/mnTempFlag_CA.gif" title="Interactive Brokers: Français (Canada)"></a></td>
-    <td align="center"><a href="http://www.interactivebrokers.ca/fra/main.php"><img src="../../../images/sitetemplate/mnTempFlag_FR.gif" title="Interactive Brokers: Français"></a></td>
-    <td align="center"><a href="http://www.interactivebrokers.de/de/main.php"><img src="../../../images/sitetemplate/mnTempFlag_DE.gif" title="Interactive Brokers: Deutsch"></a></td>
-    <td align="center"><a href="http://www.interactivebrokers.co.uk/es/main.php"><img src="../../../images/sitetemplate/mnTempFlag_ES.gif" title="Interactive Brokers: Español"></a></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="http://www.interactivebrokers.com/cn/main.php"><img src="../../../images/sitetemplate/mnTempFlag_CN.gif" title="Interactive Brokers: 中文"></a></td>
-    <td align="center"><a href="http://www.interactivebrokers.com/jp/main.php"><img src="../../../images/sitetemplate/mnTempFlag_JP.gif" width="22" height="18" title="Interactive Brokers: 日本語"></a></td>
-    <td align="center"><img src="../../../images/common/one_pixel.gif" alt="" width="22" height="18" border="0"></td>
-	    <td align="center"><img src="../../../images/common/one_pixel.gif" alt="" width="22" height="18" border="0"></td>
-  </tr>
-</tbody></table>
+                <tr>
+                        <td class="corner" id="bottomleft"></td>
+                        <td class="bottom"></td>
+                        <td id="bottomright" class="corner"></td>
+                </tr>
+  </tbody></table>
 </div>   <h1></h1>
-   <div class="CellHeader">Interactive Brokers Group Privacy Statement</div>
-<p>The Interactive Brokers Group
-does not sell or license information about Interactive Brokers
-customers to third parties, nor do we sell customer lists or
-customer e-mail addresses to third-party marketers.
-</p>
-<p>At IB, we understand that the confidentiality and security of the personal
-information that you have shared with us is important to you. That's why we
-have developed specific policies and practices that are designed to protect
-the privacy of your personal information. By opening an account with IB or
-by utilizing the products and services that are available through IB, you have
-consented to the collection and use of your personal information in accordance
-with the privacy policy set forth below. We encourage you to read this privacy
-statement carefully.</p>
-<p>In order to provide brokerage services and in compliance with regulatory requirements,
-IB collects certain personal, non-public information from you. This includes
-information that you provide during the IB account application process (e.g.,
-your name, e-mail address, telephone number, birth date, social security number,
-investment objectives, etc.), and acquired as a result of the transactions
-you conduct through the IB system. We safeguard the confidentiality of your
-information in a number of ways. For example:</p>
+   <h1>Interactive Brokers Group Privacy Statement</h1>
+<p>The Interactive Brokers Group does not sell or license information about Interactive Brokers customers to third parties, nor do we sell customer lists or customer e-mail addresses to third-party marketers.</p>
+<p>At IB, we understand that the confidentiality and security of the personal information that you have shared with us is important to you. That's why we have developed specific policies and practices that are designed to protect the privacy of your personal information. By opening an account with IB or by utilizing the products and services that are available through IB, you have consented to the collection and use of your personal information in accordance with the privacy policy set forth below. We encourage you to read this privacy statement carefully.</p>
+<p>In order to provide brokerage services and in compliance with regulatory requirements, IB collects certain personal, non-public information from you. This includes information that you provide during the IB account application process (e.g.,
+your name, e-mail address, telephone number, birth date, social security number, investment objectives, etc.), and acquired as a result of the transactions you conduct through the IB system. We safeguard the confidentiality of your information in a number of ways. For example:</p>
 <ul>
- <li> We do not sell or license lists of our customers or the
- personal, non-public information that you provide to us.<br>
- <br>
- </li>
- <li> We restrict access to the personal, non-public information
- that you have shared with us to those IB employees, agents,
- and affiliates who need to know such information in connection
- with the services that IB provides to you.<br>
- <br>
- </li>
- <li> We maintain strict employment policies that prohibit employees
- who have access to your personal, non-public information from
- using or disclosing such information except for business purposes.<br>
- <br>
- </li>
- <li> We take substantial precautions to safeguard your personal,
- nonpublic information. For example, the IB system can be accessed
- only by authorized IB personnel via valid user names and passwords.
- In addition, our Internet-based systems include security measures
- such as encryption and firewalls. <br>
- IB uses the personal, nonpublic information that we collect from you to service
- your account (e.g., to qualify you for trading the products and using the
- services available through the IB system and to execute and confirm your
- IB transactions). In doing so, we may share such information with our employees,
- agents, and affiliates.</li>
+  <li>We do not sell or license lists of our customers or the personal, non-public information that you provide to us.</li>
+  <br>
+  <li>We restrict access to the personal, non-public information that you have shared with us to those IB employees, agents, and affiliates who need to know such information in connection with the services that IB provides to you.</li>
+  <br>
+  <li>We maintain strict employment policies that prohibit employees who have access to your personal, non-public information from using or disclosing such information except for business purposes.</li>
+  <br>
+  <li>We take substantial precautions to safeguard your personal, nonpublic information. For example, the IB system can be accessed only by authorized IB personnel via valid user names and passwords. In addition, our Internet-based systems include security measures such as encryption and firewalls.
+  <br>IB uses the personal, nonpublic information that we collect from you to service your account (e.g., to qualify you for trading the products and using the services available through the IB system and to execute and confirm your IB transactions). In doing so, we may share such information with our employees, agents, and affiliates.</li>
 </ul>
-<p>IB also collects and uses information acquired from "cookies." "Cookies" are
-bits of textual information that are sent electronically from
-a web server to your browser and are stored on your computer.
-They do not identify you individually nor do they contain personal
-information about you, unless you have identified yourself or
-provided the information by, for example, opening an account
-or registering for an on-line service. IB may use cookies to
-measure and identify website traffic patterns and to track the
-performance of web features and advertisements. By providing
-IB with a better understanding of how you and others use IB's
-websites and other web services, cookies enable IB to improve
-the navigation and functionality of its websites and to present
-the most useful information and offers to you. IB may share information
-obtained from cookies with its employees, agents and affiliates,
-but does not sell such information to unaffiliated third parties.
-IB may permit other companies or their third party ad servers
-to set cookies on your browser when you visit an IB website.
-Such companies generally use these cookies as we do.</p>
-<p>We do not disclose personal, nonpublic information to individuals
-or entities that are not affiliated with IB, except as provided
-by law. For example, among other reasons we may disclose or report
-such information: where necessary to authorize, effect, administer,
-or enforce transactions that you request or authorize; to maintain
-and administer your account; to provide you with account confirmations,
-statements and records; to maintain appropriate archival records;
-where we believe that disclosure is required by applicable law,
-rules or regulations; to cooperate with law enforcement or regulatory
-or self-regulatory organizations; to enforce our customer and
-other agreements; to meet our obligations, or to protect our
+<p>IB also collects and uses information acquired from "cookies." "Cookies" are bits of textual information that are sent electronically from a web server to your browser and are stored on your computer. They do not identify you individually nor do they contain personal information about you, unless you have identified yourself or provided the information by, for example, opening an account or registering for an on-line service. IB may use cookies to measure and identify website traffic patterns and to track the performance of web features and advertisements. By providing IB with a better understanding of how you and others use IB's websites and other web services, cookies enable IB to improve the navigation and functionality of its websites and to present the most useful information and offers to you. IB may share information obtained from cookies with its employees, agents and affiliates, but does not sell such information to unaffiliated third parties. IB may permit other companies or their third party ad servers to set cookies on your browser when you visit an IB website. Such companies generally use these cookies as we do.</p>
+<p>We do not disclose personal, nonpublic information to individuals or entities that are not affiliated with IB, except as provided by law. For example, among other reasons we may disclose or report such information: where necessary to authorize, effect, administer, or enforce transactions that you request or authorize; to maintain and administer your account; to provide you with account confirmations, statements and records; to maintain appropriate archival records; where we believe that disclosure is required by applicable law, rules or regulations; to cooperate with law enforcement or regulatory or self-regulatory organizations; to enforce our customer and other agreements; to meet our obligations, or to protect our
 rights and property.</p>
-<p>Finally, if you choose to subscribe to any of the Trader's Toolbox
-suite of third-party services that are provided through the IB
-website, we may disclose such information to the service providers
-as necessary for them to provide the services that you have requested.
-IB requires these service providers to enter into confidentiality
-agreements with IB that limit their use of the information that
-they receive. Such agreements prohibit the service provider from
-using IB customer information that they receive other than to
-carry out the purposes for which the information was disclosed. If you have any questions about these policies, please contact IB Customer Service through the IB website at the <a href="http://www.interactivebrokers.com/en/p.php?f=customerService&amp;ib_entity=llc">Customer
-Service Contact Page</a>.</p>  <div id="mainBodyBottom"></div>
+<p>Finally, if you choose to subscribe to any of the Trader's Toolbox suite of third-party services that are provided through the IB website, we may disclose such information to the service providers as necessary for them to provide the services that you have requested. IB requires these service providers to enter into confidentiality agreements with IB that limit their use of the information that they receive. Such agreements prohibit the service provider from using IB customer information that they receive other than to carry out the purposes for which the information was disclosed. If you have any questions about these policies, please contact IB Customer Service through the IB website at the <a href="http://www.interactivebrokers.com/en/p.php?f=customerService&amp;ib_entity=llc">Customer Service Contact Page</a>.</p>  <div id="mainBodyBottom"></div>
   <!-- End Right Column footer Div -->
 </div> <!-- Ending listlinks Div -->
 <p></p><div id="footer">
