@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the up-video.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614095940id_/http%3A//www.up-video.com/page.php%3Fpage%3D5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the up-video.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113215029id_/http%3A//www.up-video.com/page.php%3Fpage%3D5) for the most accurate reproduction.*
 
 # Up-video.com - Just found The best Videos on Internet
 
