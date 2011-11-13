@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intelligencecareers.com privacy policy that was archived on 2010-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100901184434id_/http%3A//www.intelligencecareers.com/_homeroom/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelligencecareers.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113055353id_/http%3A//www.intelligencecareers.com/_homeroom/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - IntelligenceCareers.com aka USADefenseIndustryJobs.com
 
