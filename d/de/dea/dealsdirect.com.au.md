@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsdirect.com.au privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419074752id_/http%3A//www.dealsdirect.com.au/page/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsdirect.com.au privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113085143id_/http%3A//www.dealsdirect.com.au/page/%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - DealsDirect.com.au Australia's #1 Discount Online Department Store
 
