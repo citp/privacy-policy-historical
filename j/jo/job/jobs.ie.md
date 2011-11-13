@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the jobs.ie privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219235320id_/http%3A//jobs.ie/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs.ie privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113010253id_/http%3A//www.jobs.ie/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Jobs.ie - Jobs in Ireland. Irish Jobs.
 
-|  [ ](https://web.archive.org/web/20101219235320id_/http%3A//jobs.ie/)  
+|  [ ](https://web.archive.org/web/20111113010253id_/http%3A//www.jobs.ie/)  
 ---  
-|  | [**Jobseekers**](https://web.archive.org/web/20101219235320id_/http%3A//jobs.ie/) |  |   |  | [**Employers**](https://web.archive.org/web/20101219235320id_/http%3A//jobs.ie/Employ.aspx) |  |   |  | [**Training Courses**](https://web.archive.org/web/20101219235320id_/http%3A//jobs.ie/TrainingCourses/) |  |   |   |   |  [Home](https://web.archive.org/web/20101219235320id_/http%3A//jobs.ie/) | [About](https://web.archive.org/web/20101219235320id_/http%3A//jobs.ie/About.html) | [Help](https://web.archive.org/web/20101219235320id_/http%3A//jobs.ie/Help.aspx)     
+|  | [**Jobseekers**](https://web.archive.org/web/20111113010253id_/http%3A//www.jobs.ie/) |  |   |  | [**Employers**](https://web.archive.org/web/20111113010253id_/http%3A//www.jobs.ie/Employ.aspx) |  |   |  | [**Training Courses**](https://web.archive.org/web/20111113010253id_/http%3A//www.jobs.ie/TrainingCourses/) |  |   |   |   |  [Home](https://web.archive.org/web/20111113010253id_/http%3A//www.jobs.ie/) | [About](https://web.archive.org/web/20111113010253id_/http%3A//www.jobs.ie/About.html) | [Help](https://web.archive.org/web/20111113010253id_/http%3A//www.jobs.ie/Help.aspx)     
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 
