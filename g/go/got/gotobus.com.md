@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the gotobus.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424041543id_/http%3A//www.gotobus.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotobus.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113192725id_/http%3A//www.gotobus.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice - GotoBus
 
 Privacy Notice
 
-* * *
-
-**Privacy Notice**
+ **Privacy Notice**
 
 IvyMedia (and GotoBus.com) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting IvyMedia and GotoBus.com, you are accepting the practices described in this Privacy Notice. 
 
