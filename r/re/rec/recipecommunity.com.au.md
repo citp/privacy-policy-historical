@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the recipecommunity.com.au privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622194109id_/http%3A//www.recipecommunity.com.au/node/10776) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipecommunity.com.au privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113165718id_/http%3A//www.recipecommunity.com.au/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Recipe Community - Thermomix
-
-**Privacy Policy**
+# Privacy Policy | Official Thermomix Recipe Community
 
 Your privacy and the security of your personal information are very important to us. We want you to be as comfortable as possible visiting our website.   
 Thermomix in Australia is committed to ensuring that your personal information is professionally managed in accordance with the Privacy Act 1988 (Cth) and all relevant State legislation **(Privacy Legislation)**. The Privacy Act 1988 contains the National Privacy Principles which, in conjunction with other Privacy Legislation, sets the standards for the way in which private organisations, such as Thermomix in Australia, handle personal information. For further information about the Privacy Legislation, please go to <http://www.comlaw.gov.au/> This Privacy Policy governs the Australian websites operated by us at [http://www.recipecommunity.com.au](http://www.recipecommunity.com.au/) **(Website)** and explains how we collect your personal information on our Website how we protect such information, how we ensure that that information is kept secure, and how you can obtain access to that information. Please read this Privacy Policy carefully. Except as disclosed in this Privacy Policy, we will not sell, share, license, trade, or rent your personal information to others.   
@@ -77,11 +75,11 @@ To access certain parts of our Website such as the forum and the recipe database
 (iii) change your preferences with respect to communications and other information you receive from us, or   
 (iv) you can delete your user profile, as long as you are logged in with your username and password. To do so, just send an e-mail with the subject “Delete profile” to thermomix-moderator@vorwerk.de. In this case, no personal data will be retained.  
 (b) You should be aware that it is not technologically possible to remove each and every record of the information you have provided to us from our systems. However, we will ensure that promptly after receiving your request, all Personally Identifiable Information stored in databases we actively use and other readily searchable media will be updated, corrected, changed or deleted, as appropriate, as soon as reasonably practicable.  
-(c) We will generally not delete uploaded recipes and photos, even if your membership has ended. See the [Terms of Use](http://www.recipecommunity.com.au/node/46) for more information.
+(c) We will generally not delete uploaded recipes and photos, even if your membership has ended. See the [Terms of Use](https://web.archive.org/content/terms-use-thermomix-australia) for more information.
 
 **7\. Revocation of consent**  
 (a) You may revoke your consent to the collection, saving, use and forwarding of your personal information at any time. To do so, send an e-mail to info@thermomix.com.au.  
 (b) Please note where your consent is necessary for the performance of services to you under a contract, any contract or terms shall terminate and that obligation will not apply to us with immediate effect.
 
 **8\. Further information**  
-If you require any further information regarding this policy, please contact Thermomix in Australia at:[info@thermomix.com.au](mailto:info@thermomix.com.au)
+If you require any further information regarding this policy, please contact Thermomix in Australia at: [info@thermomix.com.au](mailto:info@thermomix.com.au)
