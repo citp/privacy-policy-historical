@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adparlor.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627153042id_/http%3A//www.adparlor.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adparlor.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113170631id_/http%3A//www.adparlor.com/privacypolicy.html) for the most accurate reproduction.*
 
 # AdParlor - Optimized Facebook Advertising
 
