@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wescom.org privacy policy that was archived on 2011-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110211172431id_/https%3A//wescom.org/info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wescom.org privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113124910id_/https%3A//www.wescom.org/info/privacypolicy.asp) for the most accurate reproduction.*
 
-# Wescom Credit Union | Privacy Policy
+# Our Privacy Policy | Wescom Credit Union
 
 ## Wescom Credit Union Disclosure of Privacy Policy
 
-[Click here for a printable version of our privacy policy](https://web.archive.org/web/20110211172431id_/https%3A//wescom.org/info/privacypolicy.html).
+[Click here for a printable version of our privacy policy](https://web.archive.org/web/20111113124910id_/https%3A//www.wescom.org/info/privacypolicy.html).
 
 Wescom Credit Union | Privacy Policy | 
 
@@ -12,7 +12,7 @@ FACTS
 
 | 
 
-WHAT DOES WESCOM CENTRAL CREDIT UNION  
+WHAT DOES WESCOM CREDIT UNION  
 DO WITH YOUR PERSONAL INFORMATION?
 
 |   
@@ -40,16 +40,16 @@ How?
 
 | 
 
-All financial companies need to share members' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their members' personal information; the reasons Wescom Central Credit Union chooses to share; and whether you can limit this sharing.  
+All financial companies need to share members' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their members' personal information; the reasons Wescom Credit Union chooses to share; and whether you can limit this sharing.  
   
-|  Reasons we can share your personal information  |  Does Wescom Central Credit Union share?  |  Can you limit this sharing?   
+|  Reasons we can share your personal information  |  Does Wescom Credit Union share?  |  Can you limit this sharing?   
 ---|---|---  
 **For our everyday business purposes–** such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus  |  Yes  |  No   
 **For our marketing purposes–** to offer our products and services to you  |  Yes  |  No   
 **For joint marketing with other financial companies** |  Yes  |  No   
 **For our affiliates' everyday business purposes–** information about your transactions and experiences  |  Yes  |  No   
 **For our affiliates' everyday business purposes–** information about your creditworthiness  |  Yes  |  Yes   
-**For our affiliates to market to you** |  Yes  |  No   
+**For our affiliates to market to you** |  No  |  We don’t share   
 **For nonaffiliates to market to you** |  No  |  We don’t share   
   
 To limit our sharing
@@ -62,7 +62,7 @@ To limit our sharing
 
 
 
-**Please note:** If you are a _new member_ , we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.  
+**Please note:** If you are a _new member_ , we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our member, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.  
   
 Questions?
 
@@ -120,13 +120,13 @@ What we do
   
 ---  
   
-How does Wescom Central Credit Union protect my personal information?
+How does Wescom Credit Union protect my personal information?
 
 | 
 
 To protect your personal information from unauthorized access we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. Where appropriate, we use security encoding techniques to protect against unauthorized access to personal records, ensure accuracy and integrity of data, and protect your confidentiality.  
   
-How does Wescom Central Credit Union collect my personal information?
+How does Wescom Credit Union collect my personal information?
 
 | 
 
@@ -152,7 +152,7 @@ Federal law gives you the right to limit only
 
 
 
-State laws and individual companies may give you additional rights to limit sharing. See below for more on your rights under state law.  
+State laws and individual companies may give you additional rights to limit sharing.  
   
 What happens when I limit sharing for an account I hold jointly with someone else?
 
@@ -172,7 +172,7 @@ Affiliates
 
 Companies related by common ownership or control. They can be financial and nonfinancial companies.
 
-  * Our affiliates include companies with a common corporate identity of Wescom Central Credit Union; financial companies such as Wescom Financial Services, Wescom Insurance Services, and CUSO Mortgage.
+  * Our affiliates include companies with a common corporate identity of Wescom Credit Union; financial companies such as Wescom Financial Services, Wescom Insurance Services, and others such as CUSO Mortgage, Inc.
 
   
   
@@ -182,7 +182,7 @@ Nonaffiliates
 
 Companies not related by common ownership or control. They can be financial and nonfinancial companies.
 
-  * Wescom Central Credit Union does not share with nonaffiliates so they can market to you.
+  * Wescom Credit Union does not share with nonaffiliates so they can market to you.
 
   
   
@@ -201,7 +201,7 @@ Other Important Information
   
 ---  
   
-If you are a California resident, California state law gives you additional rights to limit information sharing even if such sharing is otherwise permitted under federal law. With respect to California residents, Wescom Central Credit Union allows you to limit our sharing your personal information in the following instance
+If you are a California resident, California state law gives you additional rights to limit information sharing even if such sharing is otherwise permitted under federal law. With respect to California residents, Wescom Credit Union allows you to limit our sharing your personal information in the following instance
 
   * You can limit our sharing your nonpublic personal information with affiliates to the extent that such information is not related to either: (1) your transactions or experiences with us; or (2) your creditworthiness.
   * You can limit our sharing your nonpublic personal information under a joint marketing agreement with joint marketing partners.
@@ -210,4 +210,4 @@ If you are a California resident, California state law gives you additional righ
 
 If you are a California resident, please read the form entitled “[Important Privacy Choices for Consumers](https://web.archive.org/bin/pdf/privacypolicy/SB-1_Privacy_Policy.pdf)” which includes details on how you can limit our information sharing under California law.  
   
-[Click here for a printable version of our privacy policy](https://web.archive.org/web/20110211172431id_/https%3A//wescom.org/info/privacypolicy.html).
+[Click here for a printable version of our privacy policy](https://web.archive.org/web/20111113124910id_/https%3A//www.wescom.org/info/privacypolicy.html).
