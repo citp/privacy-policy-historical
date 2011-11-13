@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the act.gov.au privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615132647id_/http%3A//www.act.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the act.gov.au privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113221017id_/http%3A//act.gov.au/privacy) for the most accurate reproduction.*
 
 # Condensed Privacy Statement | ACT Government Entry Point
 
@@ -64,7 +64,7 @@ Security measures have been integrated into the design, implementation and day-t
 
 ### Important Information
 
-This website is bound by the [Information Privacy Principles under the Privacy Act 1988](http://www.privacy.gov.au/publications/ipps.html "Information Privacy Principles under the Privacy Act 1988"). 
+This website is bound by the [Information Privacy Principles under the _Privacy Act 1988_](http://www.privacy.gov.au/publications/ipps.html "Information Privacy Principles under the Privacy Act 1988"). 
 
 Canberra Connect follows the [Guidelines for Federal and ACT Government Websites](http://www.privacy.gov.au/internet/web/index.html "Guidelines for Federal and ACT Government Websites ") issued by the [Office of the Australian Information Commissioner](http://www.privacy.gov.au/ "Office of the Australian Information Commissioner") and ensures that appropriate standards are used when government service provision is outsourced to the private sector. 
 
@@ -76,7 +76,7 @@ Neither the ACT Government, nor any agency, officer nor employee of the ACT Gove
 
 Portions of such information may be incorrect or not current. It is your responsibility to verify all information provided by this web site and/or web sites linked to or from this site. Any person or entity that relies on any information obtained from this system does so at his or her own risk.
 
-For more information, refer to our [full disclaimer statement](https://web.archive.org/disclaimer).
+For more information, refer to our [full disclaimer statement](http://www.act.gov.au/disclaimer).
 
 ### How to contact us
 
@@ -93,4 +93,4 @@ AUSTRALIA
 
 If the issue is not resolved to your satisfaction you may wish to contact the [Office of the Australian Information Commissioner](http://www.privacy.gov.au/ "Office of the Australian Information Commissioner"). 
 
-For more information about our privacy practices, see our [full privacy statement](https://web.archive.org/full-privacy).
+For more information about our privacy practices, see our [full privacy statement](http://www.act.gov.au/full-privacy).
