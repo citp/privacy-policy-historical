@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kinesissurvey.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513042007id_/http%3A//www.kinesissurvey.com/%3Fpage_id%3D735) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinesissurvey.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113123717id_/http%3A//www.kinesissurvey.com/%3Fpage_id%3D735) for the most accurate reproduction.*
 
-# Kinesis - website privacy policy | Kinesis Survey Technologies - advanced online and mobile surveys for market research
+# Kinesis - website privacy policy | Kinesis Survey Technologies - online and mobile survey software for market research
 
 This privacy policy is effective July 1, 2010.
 
