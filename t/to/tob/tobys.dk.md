@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the tobys.dk privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515070055id_/http%3A//www.tobys.dk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tobys.dk privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113172341id_/http%3A//www.tobys.dk/privacy-policy) for the most accurate reproduction.*
 
 # Tobys Privacy Policy
 
-  * [Tobys Minecraft](http://www.tobys.dk/minecraft "Tobys Guide to Minecraft")
-  * [Tobys Games](http://www.tobys.dk/spil "GratisSpil")
-  * [Tobys CS](http://www.tobys.dk/cs "Tobys Counter-Strike")
-  * [CS hacks](http://www.tobys.dk/cs/hack/cs-hack.php "Counter-Strike 1.6 hacks")
-  * [Source hacks](http://www.tobys.dk/cs/hack/cs-hack.php?game=css "Counter-Strike Source hacks")
-  * [The new Cheat DB](http://www.tcheats.com/ "Tcheats.com - CS, Source, MW2 and Black Ops hacks")
-  * [MW2 2 hacks](http://www.tobys.dk/cod/modern-warfare2-hacks "Call of Duty Modern Warfare 2 hacks")
-
+  
 
 
 **What information do we collect?**  
@@ -55,5 +48,3 @@ This policy was last modified on Mar 13, 2011.
 
 **Contact Us**  
 If you wish to contact us, go to our contact page at www.tobys.dk/contact/
-
-Copyright © Tobys.dk, all rights reserved.
