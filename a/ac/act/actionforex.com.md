@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actionforex.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515011437id_/http%3A//www.actionforex.com/general-information/about-us/privacy-policy-2004101165) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actionforex.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113054934id_/http%3A//www.actionforex.com/general-information/about-us/privacy-policy-2004101165) for the most accurate reproduction.*
 
 # Privacy Policy - Forex Analysis, Currency Forecast, FX Trading Signal - Action Forex
 
