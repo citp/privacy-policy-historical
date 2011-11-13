@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitusa.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102165047id_/http%3A//www.visitusa.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitusa.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113064636id_/http%3A//www.visitusa.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Visit USA - Privacy Policy
 
