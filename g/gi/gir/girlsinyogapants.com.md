@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlsinyogapants.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516030220id_/http%3A//girlsinyogapants.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsinyogapants.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113071520id_/http%3A//girlsinyogapants.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Girls In Yoga Pants
 
@@ -16,19 +16,19 @@ This Agreement informs you of Tim Brown’s practices with respect to the online
 
 Tim Brown is the owner of this Website and retains all ownership rights to the information collected at this Website.  Tim Brown reserves the right to change, modify, add, or remove provisions of this Privacy Statement.  Any changes to this Privacy Statement will be posted here, and we encourage you to check back from time to time.
 
-**ARTICLE 1. Personalization**
+ **ARTICLE 1. Personalization**
 
 1.1           We may use the contact information you give us to better tailor your Website experience to your interests, and to send you information about Tim Brown and its services as well as promotional material on behalf of some of our partners.  We may use other information that you provide to us to show you content in which you may be interested and to display the content according to your preferences.  We will also share this information within the Tim Brown family in order to enhance your experience on this and other Tim Brown Websites.
 
 1.2           In addition, we may share this information with advertisers or other third parties that are not part of the Tim Brown family on an aggregate or other basis that does not disclose your identity or contact information.
 
-**ARTICLE 2.   Online Surveys/Contests**
+ **ARTICLE 2.   Online Surveys/Contests**
 
 2.1           From time to time, we may conduct online surveys and contests.  These may ask you for contact information (like name or email address) and demographic information (like zip code or age).
 
 2.2           We may use this contact information from our surveys and contests to provide you with information about our company and promotional material on behalf of some of our partners, and to contact you when necessary.
 
-**ARTICLE 3.   Shopping/Commercial Services**
+ **ARTICLE 3.   Shopping/Commercial Services**
 
 3.1           This Website may offer shopping services, which may be offered by us or by a firm that operates a store under contract with us.  If our Website offers shopping or other commercial services, you will use a customer order form to request information, products, and services.  The order form will ask you to give us contact information (like name or email address), financial information (like account or credit card numbers), and demographic information (like zip code or age).
 
@@ -36,11 +36,11 @@ Tim Brown is the owner of this Website and retains all ownership rights to the 
 
 3.3           We will use contact information from the order form to fulfill your orders.  We may also use contact data to get in touch with you when necessary.  We will not otherwise use or distribute your financial information without your prior approval.
 
-**ARTICLE 4.   public forums**
+ **ARTICLE 4.   public forums**
 
 4.1           This Website may make available chat rooms, blogs, forums, message boards, and news groups.  Please remember that any information that you disclose in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-**ARTICLE 5.   Information Sharing With Third Parties**
+ **ARTICLE 5.   Information Sharing With Third Parties**
 
 5.1           From time to time we may enter into a special relationship with another company that is not owned by Tim Brown to provide additional features at this Website.  These special relationships may include “powered by” partners, business partners, sponsors, and co-branded sites (referred to here as “co-branded pages”).  These might include, for example, pages that share our name and that of another entity.  You should look for a specific privacy statement on any such co-branded page.   Any personal information that you provide when signing up at one of those co-branded pages may be shared with our third party partner.  You should also check our partner’s website for information regarding its privacy policies.
 
@@ -50,11 +50,11 @@ Tim Brown is the owner of this Website and retains all ownership rights to the 
 
 5.4           Finally, we may share any of the information collected from you with these other non-Tim Brown companies in an aggregate basis.  The aggregated information is not linked to any information that can identify you.
 
-**ARTICLE 6.   IP Address and Log Files**
+ **ARTICLE 6.   IP Address and Log Files**
 
 6.1           We may use your IP address to administer our Website, to help diagnose problems with our server, to analyze trends, to track users’ webpage movements, to help identify you and your shopping cart, and to gather broad demographic information for aggregate use.
 
-**ARTICLE 7.   cookies**
+ **ARTICLE 7.   cookies**
 
 7.1           This Website may use a standard technology called a “cookie” to collect information about how you use the Website.  Cookies reside on your computer and help our Website to recognize your computer’s browser as a previous visitor.  This information allows us to customize delivery of information.  For example, our Website may use cookies to save and remember registration information or preferences that you may have set while browsing the Website, to keep track of your shopping cart, to ensure you don’t see the same ad content repeatedly, to deliver content specific to your interests, and to save your password so you do not have to re-enter it each time you visit our site.  We use cookies only to gather information as indicated in this policy.
 
@@ -62,11 +62,11 @@ Tim Brown is the owner of this Website and retains all ownership rights to the 
 
 7.3           Finally, we may also use an ad network provider to help present advertisements on this and other Tim Brown websites.  This ad network provider, like other advertising service vendors, uses cookies, web beacons, or similar technologies on the hard drive of your computer to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, and to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements.  In doing so, the provider collects non-personal data such as your browser type, your operating system, web pages visited, time of visits, content viewed, ads viewed, and other clickstream data.  The use of cookies, web beacons, or similar technologies by these ad network providers is subject to their own privacy policies, not ours.
 
-**ARTICLE 8.   Banner Advertising**
+ **ARTICLE 8.   Banner Advertising**
 
 8.1           We have contracted with an ad-service to place banner advertising on our Website.  All of the data provided and generated by the ad-server software remains in our possession. This feature of our Website may, on occasion, set “cookies” on your computer.  Any information collected or stored by the ad-service or the cookies is treated in the same manner as other information described in this statement.
 
-**ARTICLE 9.   Children’s Personal Information**
+ **ARTICLE 9.   Children’s Personal Information**
 
 9.1           Consistent with the Children’s Online Privacy Protection Act:
 
@@ -76,23 +76,23 @@ Tim Brown is the owner of this Website and retains all ownership rights to the 
 
 9.1.3      In the event that a child posts personal information in a public forum such as a chat room, we will attempt to delete that information once we become aware of it.
 
-**ARTICLE 10.   Security of Your Personal Information**
+ **ARTICLE 10.   Security of Your Personal Information**
 
 10.1        Tim Brown employs reasonable security measures consistent with standard industry practice, for information collected through this Website.  We believe that we have adequate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of the information we collect on our Website.  We also use internal protections to limit access to users’ personal information to only those employees who need the information to perform a specific job.
 
-**ARTICLE 11.   Sale or Merger**
+ **ARTICLE 11.   Sale or Merger**
 
 11.1        If this Website is sold to, or merges with, another company not owned by Tim Brown, you should expect that some or all of the information collected from this Website may be transferred to the buyer/surviving company.  If so, Tim Brown will seek to obligate the acquiring company to use any personal information transferred by this Website in a manner consistent with this statement, but cannot guarantee that it will be able to impose that requirement or that the acquiring company will comply.
 
-**ARTICLE 12.   Legal Process**
+ **ARTICLE 12.   Legal Process**
 
 12.1        You should be aware that Tim Brown may be required to disclose your personal information to the government or third parties under certain circumstances, such as in court or regulatory proceedings.
 
-**ARTICLE 13.   Contacting the Website**
+ **ARTICLE 13.   Contacting the Website**
 
 13.1        If you have any questions about this Privacy Statement, the practices of this Website, or your dealings with this Website, please contact us at [info@girlsinyogapants.com](mailto:info@peopleofwalmart.com).
 
-**ARTICLE 14.   general information**
+ **ARTICLE 14.   general information**
 
 14.1        This Agreement and the Additional Terms shall be governed by, construed and enforced in accordance with the laws of the State of South Carolina, as it is applied to agreements entered into and to be performed entirely within such state, without regard to conflict of law principles.
 
@@ -102,6 +102,6 @@ Tim Brown is the owner of this Website and retains all ownership rights to the 
 
 14.4        If any provision of this Agreement, or the application thereof to any person or circumstances, is held invalid or for any reason, unenforceable including, but not limited to, the warranty disclaimers and liability limitations, then such provision shall be deemed superseded by a valid, enforceable provision that matches, as closely as possible, the original provision, and the other provisions of this Agreement shall remain in full force and effect.  The failure of either party to insist upon strict performance of any provision of this Agreement shall not be construed as a waiver of any provision or right.  Unless expressly provided otherwise, this Agreement is the entire agreement between you and Tim Brown with respect to the use of this Tim Brown Website and shall not be modified except in writing, signed by an authorized representative of Tim Brown.
 
-**ARTICLE 15.   European Union and Other Foreign Nations**
+ **ARTICLE 15.   European Union and Other Foreign Nations**
 
 15.1        This Website is governed by and operated in accordance with the laws of United States of America and is intended for enjoyment of residents of the United States.  Tim Brown makes no representation that this Website is governed by or operated in accordance with the laws of other nations.  By using this Website and submitting any personal information, visitors from outside of the United States acknowledge the this Website is subject to U.S. law, consent to the transfer of personal data to the U.S., and waive any claims that may arise under their own national laws.
