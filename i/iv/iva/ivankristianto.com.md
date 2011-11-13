@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the ivankristianto.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616201929id_/http%3A//www.ivankristianto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivankristianto.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113010255id_/http%3A//www.ivankristianto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ivan Kristianto Blog
 
 You are here: [Home](http://www.ivankristianto.com/) / Privacy Policy
-
-September 4, 2010 by [Ivan](http://www.ivankristianto.com/author/admin/ "Posts by Ivan")  
 
  **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
