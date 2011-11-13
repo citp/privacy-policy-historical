@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freemooviesonline.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624040347id_/http%3A//www.freemooviesonline.com/fmo-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemooviesonline.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113011015id_/http%3A//www.freemooviesonline.com/fmo-privacy-policy.html) for the most accurate reproduction.*
 
 # FMO Privacy Policy
 
@@ -8,7 +8,7 @@ It is very important that you read and understand our Privacy Policy. If you do 
 
 We may update this Privacy Policy from time to time. We will advise you that changes have been made by posting a notice on our website or otherwise. Your use of the FMO Service constitutes your acceptance of the terms of our Privacy Policy, as may be amended or revised by us, and you are advised to consult our Privacy Policy regularly for any changes (revisions will be reflected by the "last update" notation below).
 
-If you have any questions regarding FMO's policies or practices relating to privacy, please direct them to [privacy@freemooviesonline.com](mailto:privacy@freemooviesonline.com).
+If you have any questions regarding FMO's policies or practices relating to privacy, please direct them to [admin@freemooviesonline.com](mailto:admin@freemooviesonline.com).
 
 This Privacy Policy was last updated on _March 12, 2009._
 
@@ -26,7 +26,6 @@ We may collect personally identifiable information from you when you seek access
 
   * If you prefer not to receive information about additional products and services that we think you may be interested in, you can choose not to receive this information by opting-out when given the opportunity at the point we ask you for your contact information.
 
-  
 
 
 ### Security
@@ -48,5 +47,3 @@ We do not knowingly collect any personal information from children under the age
 The FMO Service provides users the opportunity to opt-out of receiving certain communications from us regarding products and services in which you may be interested. You will be given this opportunity at the time we request information about you. If you do not opt-out at the time you provide information, but choose to opt-out later, use the link provided in any message.
 
 **By using the FMO Service, you agree to the level of privacy protection set out in our Privacy Policy.**
-
-{hidetags} 
