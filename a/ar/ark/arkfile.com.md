@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arkfile.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611062051id_/http%3A//www.arkfile.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arkfile.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113234325id_/http%3A//www.arkfile.com/help/privacy.php) for the most accurate reproduction.*
 
-# arkfile.com
+# ArkFile
 
 **Logging IP Addresses**  
 For each visitor to our Web page, our Web server does not recognize any information regarding the domain or e-mail address. IP addresses are logged and used by ArkFile for measuring usage.
