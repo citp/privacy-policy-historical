@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business.govt.nz privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514163523id_/http%3A//www.business.govt.nz/resolveUid/79188347f5fe4c72e9d60be3b4e5df17) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.govt.nz privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113104602id_/http%3A//www.business.govt.nz/resolveUid/79188347f5fe4c72e9d60be3b4e5df17) for the most accurate reproduction.*
 
 # Privacy | Business.govt.nz
 
