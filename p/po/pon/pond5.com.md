@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pond5.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509003204id_/http%3A//www.pond5.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pond5.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113095952id_/http%3A//www.pond5.com/legal/privacy) for the most accurate reproduction.*
 
 # Legal
 
