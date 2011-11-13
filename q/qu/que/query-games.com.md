@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the query-games.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516160033id_/http%3A//www.query-games.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the query-games.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113175425id_/http%3A//www.query-games.com/policy.php) for the most accurate reproduction.*
 
 # Query Games : Free internet games Query Games
 
