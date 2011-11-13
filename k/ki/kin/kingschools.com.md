@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingschools.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626095123id_/http%3A//www.kingschools.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingschools.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113200831id_/http%3A//www.kingschools.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | King Schools
 
@@ -55,11 +55,11 @@ We do not partner with Ad Server companies. Some sites will display 3rd-party ad
 
 Your name, address and telephone number may be provided to a shipping company, such as The United States Postal Service, United Parcel Service or Federal Express. These companies will use this information to ensure your order is delivered.
 
-When you place an order with us online, your email address will be by used to send your order confirmation. Beyond that, and with your permission, we may also send you special offers, learning tips and other notifications that we think will meet your flying and flight training needs. If you do not want to receive e-mail from us, just let us know by sending an e-mail to [listManager@kingschools.com](mailto:listManager@kingschools.com?subject=KingSchools.com%20web%20site) and placing "no email offers" in the subject line. Or, you can click the "Unsubscribe" link at the bottom of the email you received from us.
+When you place an order with us online, your email address will be used by us to send your order confirmation. Beyond that, and with your permission, we may also send you special offers, learning tips and other notifications that we think will meet your flying and flight training needs. If you do not want to receive e-mail from us, just let us know by sending an e-mail to [listManager@kingschools.com](mailto:listManager@kingschools.com?subject=KingSchools.com%20web%20site) and placing "no email offers" in the subject line. Or, you can click the "Unsubscribe" link at the bottom of the email you received from us.
 
 We may use your Postal Address information to send you special offers we think will meet your flying and flight training needs. If you do not wish to receive such mailings, please let us know by sending an email to [listManager@kingschools.com](mailto:listManager@kingschools.com?subject=KingSchools.com%20web%20site) and placing "no postal offers" in the subject line. 
 
-Occasionally, we may share, sell, trade, or rent your name and postal address to other established and reputable companies offering aviation products and services that we think would be of interest to you. The categories of information that we would share, sell, trade, or rent to any other organizations is restricted to your Name, email Address and Postal Address. 
+Occasionally, we may share, sell, trade, or rent your name and postal address to other established and reputable companies offering aviation products and services that we think would be of interest to you. The categories of information that we would share, sell, trade, or rent to any other organizations are restricted to your Name, email Address and Postal Address. 
 
 You may receive mailings for special offers from other reputable companies within the aviation community. You can, however, have your name put on our do-not-share list by emailing us at [listManager@kingschools.com](mailto:listManager@kingschools.com?subject=KingSchools.com%20web%20site) and placing "do-not-share" in the subject line. Please provide us with your exact name and address. We will be sure your name is removed from any list we might share with other organizations. 
 
@@ -69,8 +69,8 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 Upon request, we will provide you with access to all information that we maintain about you. You can receive your stored information by writing to us at the above address.
 
-Upon request, we you the ability to have inaccuracies corrected in your contact information. You can have this information corrected by calling us at the above telephone number.
+Upon request, we provide you with the ability to have inaccuracies corrected in your contact information. You can have this information corrected by calling us at the above telephone number.
 
-If you feel that this site is not following its stated information policy, please contact us at the above addresses or phone number. 
+If you feel that this site is not following its stated information policy, please contact us at the above address or phone number. 
 
 Change of Address, Phone or Email address: If you move, or change your phone number or email address, please notify us, so we can update your records. You can do this easily by emailing us at [listManager@kingschools.com](mailto:listManager@kingschools.com?subject=KingSchools.com%20web%20site%20-%20change%20of%20information%20request) and placing "change of address or phone" in the subject line. 
