@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the caregiverstress.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513233622id_/http%3A//www.caregiverstress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caregiverstress.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113030156id_/http%3A//www.caregiverstress.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CaregiverStress.com
+# Privacy Policy | Caregiver Stress
 
 We at Home Instead, Inc. (”Home Instead” or “we” or “us” or “our”) appreciate your interest in this web site (the “Site”). Your privacy is important and we and are committed to protecting the personally identifiable information (”Personal Information”) that you disclose to us. We want you to understand our practices with respect how we gather and use the information we collect from visitors to the Site.
 
@@ -55,7 +55,7 @@ We are committed to ensuring that your Personal Information is secure. In order 
 You may choose to have your name taken off of our registration list, cease receiving correspondence from us; or you update the Personal Information that you have provided to us, via one of the following methods:
 
   * Using the opt-out option in e-mails you receive from us;
-  * Sending us an e-mail at: info@homeinstead.com;
+  * Sending us an e-mail at: [info@homeinstead.com](mailto:info@homeinstead.com);
   * Writing to us at: Home Instead, Inc., 13330 California Street, Suite 200, Omaha, NE 68154; or
   * Calling us toll free at: 1.888.484.5759
 
@@ -90,3 +90,6 @@ Home Instead, Inc.
 13330 California Street  
 Suite 200  
 Omaha, NE 68154
+
+[Get helpful tips and articles](http://www.caregiverstress.com/wp-content/themes/caregiverstress/newsletter-subscribe.php?loc=article&url=http%3A%2F%2Fwww.caregiverstress.com%2Fprivacy-policy%2F "Get helpful tips and articles") like these delivered to your email.
+  *[NE]: Nebraska
