@@ -1,192 +1,455 @@
-<!--The following is the downloaded HTML source of the ppi2pass.com privacy policy that was archived on 2011-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110524054018id_/http%3A//ppi2pass.com/ppi/PPIInfo_pg_priv.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ppi2pass.com privacy policy that was archived on 2011-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111113211511id_/http%3A//ppi2pass.com/faqs/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="canonical" href="http://ppi2pass.com/ppi/PPIInfo_pg_priv.html">
-<meta name="Description" content="This page explains PPI's privacy policy.">
-<meta name="Keywords" content="ppi2pass.com, Professional Publications, Inc., www.ppi2pass.com, PPI, Engineering, LEED, FE or PE exam">
-<meta name="title" content="PPI, Privacy Policy, ppi2pass.com">
-<title>PPI, Privacy Policy, ppi2pass.com</title>
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+    <title>Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="stylesheet" type="text/css" href="/ppi/css/ppi.css">
-<script>
+<meta name="description" content="PPI gives you the power to pass the PE exams, FE exam, ARE, NCIDQ exam, LEED exam, LARE, and California Seismic and Surveying exams with our industry leading review materials.">
+<meta name="keywords" content="ppi2pass, PPI, Professional Publications, power to pass, ppi to pass, exam prep, exam review, PE Exam, FE exam, engineering exam, professional engineer exam, fundamentals of engineering exam, LEED exam, ARE exam, NCIDQ exam, LARE exam, IDEX exam, California civil surveying exam, California civil seismic exam, NCARB, USGBC, NCEES, CLARB">
+<meta name="robots" content="INDEX,FOLLOW">
+<link rel="icon" href="http://ppi2pass.com/media/favicon/default/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://ppi2pass.com/media/favicon/default/favicon.ico" type="image/x-icon">
+<!--[if lt IE 7]>
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'http://ppi2pass.com/js/blank.html';
+    var BLANK_IMG = 'http://ppi2pass.com/js/spacer.gif';
+//]]>
+</script>
+<![endif]-->
+<link rel="stylesheet" type="text/css" href="http://ppi2pass.com/skin/frontend/default/default/css/styles.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://ppi2pass.com/skin/frontend/base/default/css/widgets.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://ppi2pass.com/skin/frontend/default/ppi/css/main.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://ppi2pass.com/skin/frontend/default/default/css/print.css" media="print">
+<script type="text/javascript" src="http://ppi2pass.com/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="http://ppi2pass.com/js/lib/ccard.js"></script>
+<script type="text/javascript" src="http://ppi2pass.com/js/prototype/validation.js"></script>
+<script type="text/javascript" src="http://ppi2pass.com/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="http://ppi2pass.com/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="http://ppi2pass.com/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="http://ppi2pass.com/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="http://ppi2pass.com/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="http://ppi2pass.com/js/scriptaculous/main.js"></script>
+<script type="text/javascript" src="http://ppi2pass.com/js/varien/js.js"></script>
+<script type="text/javascript" src="http://ppi2pass.com/js/varien/form.js"></script>
+<script type="text/javascript" src="http://ppi2pass.com/js/varien/menu.js"></script>
+<script type="text/javascript" src="http://ppi2pass.com/js/mage/translate.js"></script>
+<script type="text/javascript" src="http://ppi2pass.com/js/mage/cookies.js"></script>
+<script type="text/javascript" src="http://ppi2pass.com/js/ppi/jquery.js"></script>
+<script type="text/javascript" src="http://ppi2pass.com/js/ppi/jquery.tools.min.js"></script>
+<script type="text/javascript" src="http://ppi2pass.com/js/ppi/ppi.js"></script>
+<!--[if gt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://ppi2pass.com/skin/frontend/default/ppi/css/ie9.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://ppi2pass.com/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="http://ppi2pass.com/skin/frontend/default/ppi/js/ie6.js"></script>
+<![endif]-->
 
-var queryFocus = false;
-var durInputFocus = null;
-var entKeySubmitCmd = null;
-
-document.onkeypress = keyEvent;
-
-function keyEvent( e )
-{
-	var Key;
-	if (document.layers)
-		Key = e.which;
-	else
-		Key = window.event.keyCode;
-	if ( Key == 13 )
-	{
-		if ( queryFocus )
-		{
-			doSearch();
-		}
-		else if ( durInputFocus != null )
-		{
-			setDuration( durInputFocus.substring( 0, durInputFocus.indexOf("_duration") ) );
-		}
-		else if ( entKeySubmitCmd != null )
-		{
-			doSubmit( entKeySubmitCmd );
-		}
-	}
-}
-
-function doSearch()
-{
-	document.link.action="Search";
-	doSubmit("processDefault");
-}
-function doSubmit( cm )
-{
-	document.link.cm.value=cm;
-	document.link.submit();
-}
-function addToCart( prodId )
-{
-	document.link.prodId.value=prodId;
-	doSubmit("addToCart");
-}
-function doDisplayCartEdit( cm )
-{
-	document.link.cartEditMode.value="view";
-	doSubmit( cm );
-}
-function doProcessCartEdit( cm )
-{
-	document.link.cartEditMode.value="proc";
-	doSubmit( cm );
-}
-
-
-function popwin( URL )
-{
-    popup2 = window.open( URL ,"info", "toolbar=no,location=no,menubar=no,status=no,scrollbars=yes,height=300,width=600,resizable=yes,screenX=100,screenY=35,left=100,top=35");
-    popup2.focus();
-}
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.ppi2pass.com';
+//]]>
 </script>
 
-<style>
-.bottomMenu2 {
-	font-size: 10px;
-	text-decoration: none;
-}
-.bottomMenu3 {
-	font-size: 10px;
-	font-weight:bold;
-	text-decoration: none;
-}
-</style>
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = [];
+//]]>
+</script>
+<script type="text/javascript">var Translator = new Translate({"Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Please use only letters (a-z or A-Z), numbers (0-9) or underscores (_) in this field, first character must be a letter."});</script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
+<body>
+    <div id="page">
+        <div class="main-frame">
+            <div class="frame-top"></div>
+            <div class="frame-middle">
+                
+                <div id="header">
+    <div class="top-menu">
+    	<div class="right-button">
+    		<!--{CART_SIDEBAR_cc3259efa5eee45907554db09b33c057}--><!--/{CART_SIDEBAR_cc3259efa5eee45907554db09b33c057}-->    		    	</div>
+         
+        <ul>
+                        <li><a href="http://ppi2pass.com/about-ppi/" title="About PPI">About PPI</a></li>
+                        <li>|</li>
+                                            <li><a href="https://ppi2pass.com/customer/account/" title="My Account">My Account</a></li>
+                        <li>|</li>
+                                            <li><a href="http://ppi2pass.com/contact-us/" title="Contact Us">Contact Us</a></li>
+                        <li>|</li>
+                                            <li><a href="http://ppi2pass.com/support/" title="Support">Support</a></li>
+                        <li>|</li>
+                                            <li><a href="http://ppi2pass.com/site-map/" title="Site Map">Site Map</a></li>
+                        <li>|</li>
+                                            <li><a href="https://ppi2pass.com/customer/account/login/" title="Log In">Log In</a></li>
+                        </ul>
+    </div>
+    <div class="relax"></div>
 
-</head>
-<body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
-<form name="link" action="PPIHome" method="post">
-	<input type="hidden" name="cm">
-	<input type="hidden" name="prodId">
-	<input type="hidden" name="ct" value="">
-	<input type="hidden" name="cartEditMode" value="">
+    
+    <a href="http://ppi2pass.com/" class="logo"><img src="http://ppi2pass.com/skin/frontend/default/ppi/images/PPI_logo_trans.png" alt="PPI"></a>
+    <p class="intro"><strong><em>Exam Review Materials for Engineers and Building Professionals </em></strong></p>
 
-	<table cellpadding="0" cellspacing="0" style="background-color: #FFFFFF; border-width: 1px; border-style: solid; border-spacing: 0px; border-color: #3E699D;" align="center" width="840">
-		<tbody><tr>
-			<td>
-				<table width="100%" cellpadding="0" cellspacing="0">
-				<tbody><tr>
-				<td style="padding: 5px">
-					<a href="PPI_pg_ppihome.html"><img src="/img/PPIlogo.jpg" border="0" alt="PPI - The Power to Pass"></a>
-				</td>
-				<td style="padding: 5px" align="right">
-					<div id="searchform">
-						<table cellspacing="0" cellpadding="0" id="welcomeTable">
-							<tbody><tr>
-								<td align="right">
-									<table cellspacing="4" style="font-size: 9px;">
-									<tbody><tr>
-										<td class="welcomeWidget"><table cellspacing="4" style="font-size: 9px;">
-<tbody><tr>
-<td class="welcomeWidget"><a href="PPIHome?cm=displayAccountForm" class="welcomeWidget">Login / Create Account</a></td>
-</tr>
-</tbody></table></td>
-									</tr>
-									</tbody></table>
-								</td>
-							</tr>
-							<tr>
-								<td align="right">
-									<input name="query" type="text" size="15" class="inputField" onfocus="javascript:queryFocus=true;" onblur="javascript:queryFocus=false;">&nbsp;&nbsp;
-									<input type="button" value="Search" class="btSmall" onclick="javascript:doSearch();"></td>
-							</tr>
-							<tr>
-								<td align="right" style="cell-spacing: 4px; font-size: 9px;">
-									<a href="PPIShop?cm=displayOrderTrackingForm" class="welcomeWidget">Order Status</a></td>
-				
-							</tr>
-						</tbody></table>
+    <form id="search_mini_form" action="http://ppi2pass.com/catalogsearch/result/" method="get" class="search">
+    <input id="search" type="text" name="q" value="" class="input-text" title="Search For...">
+    <button type="submit" title="Search" class="button"><img src="http://ppi2pass.com/skin/frontend/default/ppi/images/icons/search.gif" alt="Search"></button>
+    <div id="search_autocomplete" class="search-autocomplete"></div>
+    <script type="text/javascript">
+    //<![CDATA[
+        var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Search entire store here...');
+        searchForm.initAutocomplete('http://ppi2pass.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+    //]]>
+    </script>
+</form>
+    
+    <div class="relax"></div>
+    
+    <div class="main-menu"><div class="main-menu-left">
+
+		
+		
+	    
+    <ul class="main-menu-right">
+        <li class="first"><a href="http://ppi2pass.com/"><strong>Home</strong></a></li>
+        <li class="sep"><span>|</span></li>
+        <li>
+<!--        	<a href="http://ppi2pass.com/catalog/category/view/s/shop/id/2/"><strong>Review Materials</strong></a> -->
+        	<a href="#"><strong>Review Materials</strong></a>
+<!--        	<strong id="active" class="main-menu-linolink">Review Materials</strong>-->
+        	<ul class="sub-menu">
+        		        		<li>
+        											        			<span class="main-menu-sublinolink">FE/EIT Exam</span>
+								        			<ul class="sub-level">
+		            					            			<li><a href="/shop/fe-eit-exam/fe-eit-exam-review-materials">FE/EIT Exam Review Materials</a></li>
+
+
+
+		            					            			<li><a href="/shop/fe-eit-exam/fe-eit-exam-review-courses">FE/EIT Exam Review Courses</a></li>
+
+
+
+		            					            			<li><a href="/shop/fe-eit-exam/fe-eit-exam-online-review-practice">FE/EIT Exam Online Review &amp; Practice</a></li>
+
+
+
+		            					            			<li><a href="/shop/fe-eit-exam/fe-eit-exam-packages">FE/EIT Exam Packages</a></li>
+
+
+
+		            			
+
+
+	        				</ul>
+        			        		</li>
+        		        		<li>
+        											        			<span class="main-menu-sublinolink">PE Exams</span>
+								        			<ul class="sub-level">
+		            					            			<li><a href="/shop/pe-exams/civil-pe-exam">Civil PE Exam</a></li>
+
+
+
+		            					            			<li><a href="/shop/pe-exams/ca-civil-seismic-exam">CA Civil Seismic Exam</a></li>
+
+
+
+		            					            			<li><a href="/shop/pe-exams/ca-civil-surveying-exam">CA Civil Surveying Exam</a></li>
+
+
+
+		            					            			<li><a href="/shop/pe-exams/mechanical-pe-exam">Mechanical PE Exam</a></li>
+
+
+
+		            					            			<li><a href="/shop/pe-exams/electrical-pe-exams">Electrical PE Exams</a></li>
+
+
+
+		            					            			<li><a href="/shop/pe-exams/structural-engineering-se-exam">Structural Engineering (SE) Exam</a></li>
+
+
+
+		            					            			<li><a href="/shop/pe-exams/chemical-pe-exam">Chemical PE Exam</a></li>
+
+
+
+		            					            			<li><a href="/shop/pe-exams/environmental-pe-exam">Environmental PE Exam</a></li>
+
+
+
+		            					            			<li><a href="/shop/pe-exams/fire-protection-pe-exam">Fire Protection PE Exam</a></li>
+
+
+
+		            					            			<li><a href="/shop/pe-exams/industrial-pe-exam">Industrial PE Exam</a></li>
+
+
+
+		            					            			<li><a href="/shop/pe-exams/nuclear-pe-exam">Nuclear PE Exam</a></li>
+
+
+
+		            			
+
+
+	        				</ul>
+        			        		</li>
+        		        		<li>
+        											        			<span class="main-menu-sublinolink">FS &amp; PS Exams</span>
+								        			<ul class="sub-level">
+		            					            			<li><a href="/shop/fs-ps-exams/fs-ps-exam-review-materials">FS &amp; PS Exam Review Materials</a></li>
+
+
+
+		            					            			<li><a href="/shop/fs-ps-exams/fs-ps-exam-packages">FS &amp; PS Exam Packages</a></li>
+
+
+
+		            			
+
+
+	        				</ul>
+        			        		</li>
+        		        		<li>
+        											        			<span class="main-menu-sublinolink">ARE</span>
+								        			<ul class="sub-level">
+		            					            			<li><a href="/shop/are/are-review-materials">ARE Review Materials</a></li>
+
+
+
+		            					            			<li><a href="/shop/are/are-online-review-practice">ARE Online Review &amp; Practice</a></li>
+
+
+
+		            					            			<li><a href="/shop/are/are-packages">ARE Packages</a></li>
+
+
+
+		            			
+
+
+	        				</ul>
+        			        		</li>
+        		        		<li>
+        											        			<span class="main-menu-sublinolink">NCIDQ® Exam</span>
+								        			<ul class="sub-level">
+		            					            			<li><a href="/shop/ncidq-exam/ncidq-exam-review-materials">NCIDQ® Exam Review Materials</a></li>
+
+
+
+		            					            			<li><a href="/shop/ncidq-exam/ncidq-exam-packages">NCIDQ® Exam Packages</a></li>
+
+
+
+		            			
+
+
+	        				</ul>
+        			        		</li>
+        		        		<li>
+        											        			<span class="main-menu-sublinolink">IDEX California® Exam</span>
+								        			<ul class="sub-level">
+		            					            			<li><a href="/shop/idex-california-exam/idex-california-exam-review-materials">IDEX California® Exam Review Materials</a></li>
+
+
+
+		            			
+
+
+	        				</ul>
+        			        		</li>
+        		        		<li>
+        											        			<span class="main-menu-sublinolink">LEED® Exams</span>
+								        			<ul class="sub-level">
+		            					            			<li><a href="/shop/leed-exams/leed-green-associate-ga-exam">LEED® Green Associate (GA) Exam</a></li>
+
+
+
+		            					            			<li><a href="/shop/leed-exams/leed-ap-building-design-construction-bd-c-exam">LEED® AP Building Design &amp; Construction (BD&amp;C) Exam</a></li>
+
+
+
+		            					            			<li><a href="/shop/leed-exams/leed-ap-interior-design-construction-id-c-exam">LEED® AP Interior Design &amp; Construction (ID&amp;C) Exam</a></li>
+
+
+
+		            					            			<li><a href="/shop/leed-exams/leed-ap-homes-exam">LEED® AP Homes Exam</a></li>
+
+
+
+		            					            			<li><a href="/shop/leed-exams/leed-ap-operations-maintenance-o-m-exam">LEED® AP Operations &amp; Maintenance (O&amp;M) Exam</a></li>
+
+
+
+		            			
+
+
+	        				</ul>
+        			        		</li>
+        		        		<li>
+        											        			<span class="main-menu-sublinolink">LARE</span>
+								        			<ul class="sub-level">
+		            					            			<li><a href="/shop/lare/lare-review-materials">LARE Review Materials</a></li>
+
+
+
+		            					            			<li><a href="/shop/lare/lare-packages">LARE Packages</a></li>
+
+
+
+		            			
+
+
+	        				</ul>
+        			        		</li>
+        		        	</ul>
+        </li>
+        <li class="sep"><span>|</span></li>
+		
+		
+        <li><a href="http://ebooks.ppi2pass.com/"><strong>E-Books</strong></a></li>
+        <li class="sep"><span>|</span></li>
+	<li><a href="http://ppi2pass.com/ppi/rcenroll/rcHome.jsf"><strong>Review Courses</strong></a>
+		<ul class="sub-menu">
+			<li><span class="main-menu-sublinolink">FE/EIT</span>
+				 <ul class="sub-level">
+					<li><a href="http://ppi2pass.com/ppi/rcenroll/FEMorn.jsf">Morning Session</a></li>
+					<li class="last"><a href="http://ppi2pass.com/ppi/rcenroll/FECivilAft.jsf">Civil Afternoon Section</a></li>
+
+				</ul>
+			</li>
+			<li><a href="http://ppi2pass.com/ppi/rcenroll/CivilPE.jsf">Civil PE</a></li>
+			<li><a href="http://ppi2pass.com/ppi/rcenroll/CivilSeismic.jsf">CA Civil Seismic</a></li>
+			<li><a href="http://ppi2pass.com/ppi/rcenroll/CivilSurveying.jsf">CA Civil Surveying</a></li>
+			<li><a href="http://ppi2pass.com/ppi/rcenroll/MechanicalPE.jsf">Mechanical PE</a></li>
+
+			<li><a href="http://ppi2pass.com/ppi/rcenroll/ElectricalPEPower.jsf">Electrical PE Power</a></li>
+			<li><a href="http://ppi2pass.com/ppi/rcenroll/ENVPe.jsf">Environmental PE</a></li>
+			<li class="last"><a href="http://ppi2pass.com/ppi/rcenroll/CasioFX.jsf">Calculators</a></li>
+		</ul>
+	</li>
+        <li class="sep"><span>|</span></li>
+	<li><a href="http://ppi2pass.com/ppi/PPIPZ"><strong>Passing Zone</strong></a>
+		<ul class="sub-menu">
+
+			<li><span class="main-menu-sublinolink">FE/EIT</span>
+				 <ul class="sub-level">
+					<li><a href="http://ppi2pass.com/ppi/PPIPZ_pg_PZFEoverview.html">Morning Session</a></li>
+					<li class="last"><a href="http://ppi2pass.com/ppi/PPIPZ_pg_PZFEoverview.html">Afternoon Session</a></li>
+				</ul>
+			</li>
+			<li><a href="http://ppi2pass.com/ppi/PPIPZ_pg_PZCEoverview.html">Civil PE</a></li>
+
+			<li><a href="http://ppi2pass.com/ppi/PPIPZ_pg_PZSIoverview.html">CA Civil Seismic</a></li>
+			<li><a href="http://ppi2pass.com/ppi/PPIPZ_pg_PZMEoverview.html">Mechanical PE</a></li>
+			<li><a href="http://ppi2pass.com/ppi/PPIPZ_pg_PZEEoverview.html">Electrical PE Power</a></li>
+			<li><a href="http://ppi2pass.com/ppi/PPIPZ_pg_PZENoverview.html">Environmental PE</a></li>
+			<li><a href="http://ppi2pass.com/ppi/PPIPZ_pg_PZCHoverview.html">Chemical PE</a></li>
+			<li><a href="http://ppi2pass.com/ppi/PPIPZ_pg_PZARoverview.html">ARE</a></li>
+
+			<li class="last"><span class="main-menu-sublinolink">LEED®</span>
+				 <ul class="sub-level">
+					<li><a href="http://ppi2pass.com/ppi/PPIPZ_pg_PZGAschedule.html">LEED Green Associate (GA)</a></li>
+					<li class="last"><a href="http://ppi2pass.com/ppi/PPIPZ_pg_PZBCoverview.html">LEED Building Design &amp; Construction (BD&amp;C)</a></li>
+				</ul>
+			</li>
+
+		</ul>
+	</li>
+        <li class="sep"><span>|</span></li>
+	<li><a href="http://ppi2pass.com/ppi/ECMain"><strong>Exam Cafe</strong></a>
+		<ul class="sub-menu">
+			<li><a href="http://ppi2pass.com/ppi/ECMain_pg_infoFE.html">FE/EIT</a></li>
+			<li><a href="http://ppi2pass.com/ppi/ECMain_pg_infoCE.html">Civil PE</a></li>
+			<li><a href="http://ppi2pass.com/ppi/ECMain_pg_infoEE.html">Electrical PE</a></li>
+
+			<li><a href="http://ppi2pass.com/ppi/ECMain_pg_infoME.html">Mechanical PE</a></li>
+			<li class="last"><a href="http://ppi2pass.com/ppi/ECMain_pg_infoGA.html">LEED® GA</a></li>
+		</ul>
+	</li>
+        <li class="sep"><span>|</span></li>
+        <li class="last"><a href="http://forums.ppi2pass.com/index.php"><strong>Forums</strong></a></li>
+    </ul>
+</div></div>
+<div class="menu-shadow"></div>    <div class="breadcrumbs">
+	<ul>
+                	            <li class="home">
+            
+        	                                <a href="http://ppi2pass.com/" title="Go to Home Page">Home</a>
+                        </li>
+			                	            <li class="cms_page">
+            
+        	            	                <span>»</span>
+                                <span>Privacy Policy</span>
+                        </li>
+			            </ul>
+</div>
+    <div class="attention-block">
+<p>Free Shipping on Orders Over $250—<a href="/faqs/Free-Shipping">Click Here</a></p>
+</div></div>                
+                <div id="content">
+                	
+                    <div class="col-left sidebar">
+					
+					<div class="links-sidebar" style="position:relative;top:0px;left:0px;">
+<h2>Choose Your Exam:</h2>
+<ul>
+<li><a href="/catalog/category/view/s/fe-eit-exam/id/3/">FE/EIT Exam</a></li>
+<li><b>PE Exams</b></li>
+
+<ul>
+<li><a href="/catalog/category/view/s/civil-pe-exam/id/16/">Civil PE Exam</a></li>
+<li><a href="/catalog/category/view/s/ca-civil-seismic-exam/id/17/">CA Civil Seismic Exam</a></li>
+<li><a href="/catalog/category/view/s/ca-civil-surveying-exam/id/18/">CA Civil Surveying Exam</a></li>
+<li><a href="/catalog/category/view/s/mechanical-pe-exam/id/19/">Mechanical PE Exam</a></li>
+<li><a href="/catalog/category/view/s/electrical-pe-exams/id/20/">Electrical PE Exams</a></li>
+<li><a href="/catalog/category/view/s/structural-engineering-se-exam/id/21/">Structural Engineering (SE) Exam</a></li>
+<li><a href="/catalog/category/view/s/chemical-pe-exam/id/22/">Chemical PE Exam</a></li>
+<li><a href="/catalog/category/view/s/environmental-pe-exam/id/23/">Environmental PE Exam</a></li>
+<li><a href="/catalog/category/view/s/fire-protection-pe-exam/id/24/">Fire Protection PE Exam</a></li>
+<li><a href="/catalog/category/view/s/industrial-pe-exam/id/25/">Industrial PE Exam</a></li>
+<li class=" last"><a href="/catalog/category/view/s/nuclear-pe-exam/id/150/">Nuclear PE Exam</a></li>
+</ul>
+
+
+<li><a href="/catalog/category/view/s/fs-ps-exams/id/15/">FS &amp; PS Exams</a></li>
+
+<li><a href="/catalog/category/view/s/are/id/35/">ARE</a></li>
+<li><a href="/catalog/category/view/s/ncidq-exam/id/44/">NCIDQ® Exam</a></li>
+<li><a href="/catalog/category/view/s/idex-california-exam/id/54/">IDEX California® Exam</a></li>
+<li><b>LEED®  Exams</b></li>
+<ul>
+<li><a href="/catalog/category/view/s/leed-green-associate-ga-exam/id/64/">LEED®  Green Associate (GA) Exam</a></li>
+<li><a href="/catalog/category/view/s/leed-ap-building-design-construction-bd-c-exam/id/302/">LEED® AP Building Design &amp; Construction (BD&amp;C) Exam</a></li>
+<li><a href="/catalog/category/view/s/leed-ap-interior-design-construction-id-c-exam/id/66/">LEED® AP Interior Design &amp; Construction (ID&amp;C) Exam</a></li>
+<li><a href="/catalog/category/view/s/leed-ap-homes-exam/id/67/">LEED® AP Homes Exam</a></li>
+<li><a href="/catalog/category/view/s/leed-ap-operations-maintenance-o-m-exam/id/68/">LEED® AP Operations &amp; Maintenance (O&amp;M) Exam</a></li>
+</ul>
+
+
+<li><a href="/catalog/category/view/s/lare/id/102/">LARE</a></li>
+
+
+<li><b>Other Materials</b></li>
+
+<ul>
+<li><a href="/catalog/category/view/s/exam-references/id/152/">References</a></li>
+<li><a href="/catalog/category/view/s/professional-books/id/154/">Professional Books</a></li>
+<li><a href="/catalog/category/view/s/continuing-education/id/392/">Continuing Education</a></li>
+</ul>
+</ul>
+<ul>
+<li><a href="/support/"><strong>Support</strong></a></li>
+</ul>
+<ul>
+
+<li><a href="/site-map/"><strong>Site Map</strong></a></li>
+</ul>
+</div>
+					
+					
 					</div>
-				</td>
-				</tr>
-				</tbody></table>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<table border="0" cellpadding="0" cellspacing="0" bgcolor="#BDD9E5" width="100%">
-				<tbody><tr>
-					<td valign="top" align="left">
-					<table border="0" cellpadding="0" cellspacing="0" class="dr-toolbar-ext rich-toolbar blue" id="ppiInfo:bar" width="100%">
-                <tbody><tr valign="middle">
-                  <td align="center" width="75" height="15" class="dr-toolbar-int rich-toolbar-item" onmouseover="this.classname='rich-toolbar-item-mouseover'" onmouseout="this.classname='rich-toolbar-item'" onclick="window.location='/'"><a href="/" class="rich-toolbar-link">Home</a></td>
-                  
-                  <td align="center" height="15"><img src="/ppi/img/menuseparator.gif" alt=""></td>
-                  <td align="center" width="75" height="15" class="dr-toolbar-int rich-toolbar-item" onmouseover="this.classname='rich-toolbar-item-mouseover'" onmouseout="this.classname='rich-toolbar-item'" onclick="window.location='PPIShop'"><a href="/ppi/PPIShop" class="rich-toolbar-link">Products</a></td>
-                  <td align="center" height="15"><img src="/ppi/img/menuseparator.gif" alt=""></td>
-                  <td align="center" width="120" height="15" class="dr-toolbar-int rich-toolbar-item" onmouseover="this.classname='rich-toolbar-item-mouseover'" onmouseout="this.classname='rich-toolbar-item'" onclick="window.location='/ppi/rcenroll/rcHome.jsf'"><a href="/ppi/rcenroll/rcHome.jsf" class="rich-toolbar-link">Review Courses</a></td>
-                  <td align="center" height="15"><img src="/ppi/img/menuseparator.gif" alt=""></td>
-                  <td align="center" width="75" height="15" class="dr-toolbar-int rich-toolbar-item" onmouseover="this.classname='rich-toolbar-item-mouseover'" onmouseout="this.classname='rich-toolbar-item'" onclick="window.location='/ppi/PPIPZ'"><a href="/ppi/PPIPZ" class="rich-toolbar-link">Passing Zone</a></td>
-                  <td align="center" height="15"><img src="/ppi/img/menuseparator.gif" alt=""></td>
-                  <td align="center" width="120" height="15" class="dr-toolbar-int rich-toolbar-item" onmouseover="this.classname='rich-toolbar-item-mouseover'" onmouseout="this.classname='rich-toolbar-item'" onclick="window.location='/ppi/ECMain'"><a href="/ppi/ECMain" class="rich-toolbar-link">Exam Cafe</a></td>
-                  <td align="center" height="15"><img src="/ppi/img/menuseparator.gif" alt=""></td>
-                  <td align="center" width="75" height="15" class="dr-toolbar-int rich-toolbar-item" onmouseover="this.classname='rich-toolbar-item-mouseover'" onmouseout="this.classname='rich-toolbar-item'" onclick="window.location='PPIInfo_pg_forums.html'"><a href="/ppi/PPIInfo_pg_forums.html" class="rich-toolbar-link">Forums</a></td>
-                  <td align="center" height="15"><img src="/ppi/img/menuseparator.gif" alt=""></td>
-                  <td align="center" width="75" height="15" class="dr-toolbar-int rich-toolbar-item" onmouseover="this.classname='rich-toolbar-item-mouseover'" onmouseout="this.classname='rich-toolbar-item'" onclick="window.location='PPIInfo_pg_support.html'"><a href="/ppi/PPIInfo_pg_support.html" class="rich-toolbar-link">Support</a></td>
-                  <td align="center" height="15"><img src="/ppi/img/menuseparator.gif" alt=""></td>
-                </tr>
-              </tbody></table>
-					</td>
-				</tr>
-				</tbody></table>
-			</td>
-		</tr>
-		<tr>
-			<!-- main area of body begin -->
-			<td>
-			<table align="left" border="0" cellpadding="0" cellspacing="0" width="100%">
-				<tbody><tr>
-					<!-- left space column start -->
-					<td width="16"></td>
-					<!-- left space column end -->
-					<!-- main column start -->
-					<td>
-						
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="canonical" href="http://ppi2pass.com/ppi/PPIInfo_pg_priv.html">
-<meta name="Description" content="This page explains PPI's privacy policy.">
-<meta name="Keywords" content="ppi2pass.com, Professional Publications, Inc., www.ppi2pass.com, PPI, Engineering, LEED, FE or PE exam">
-<meta name="title" content="PPI, Privacy Policy, ppi2pass.com">
-<title>PPI, Privacy Policy, ppi2pass.com</title>
-
-<h2>Privacy Policy</h2>
+                	<div class="col-main-right">
+                                                <div class="std"><h2>Privacy Policy</h2>
 <p> When you request information, a catalog, or literature, enroll in a course
   or program, or purchase a product from Professional Publications, our order-processing
   software creates a permanent, historical record containing information ("Personal
@@ -200,6 +463,7 @@ function popwin( URL )
   <a href="mailto:info@ppi2pass.com">Customer Care Department.</a> If you haven't
   already given us your e-mail address, we will ask you to do so. This ensures
   that only you can access your information. </p>
+
 <p> Professional Publications occasionally shares Personal Information with an
   affiliated company, the Professional Engineering Institute, which uses the Personal
   Information to offer you live (classroom) engineering examination preparation
@@ -216,6 +480,7 @@ function popwin( URL )
   your Personal Information and honor your choices for its intended use. We have
   policies and procedures to protect your data from loss, misuse, unauthorized
   access or disclosure, alteration, or destruction. </p>
+
 <p> <b>Enforcement:</b> If for some reason you believe Professional Publications
   has not adhered to the principles described herein, please notify us by <a href="mailto:info@ppi2pass.com">email</a>,
   and we will do our best to determine and correct any problem promptly. </p>
@@ -226,93 +491,154 @@ function popwin( URL )
   free software, order free information, and gain access to and use some features
   without having to provide information you've already provided. If your browser
   does not accept cookies, you may not be able to access or use all features of
-  this website. </p>
+  this website. </p></div>                    </div>
+                	
+                    <div class="connect-with-us">
+                        <table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td><a href="http://powertopass.ppi2pass.com/ppi/PPIHome_cm_displayEmailSignup"><img src="http://ppi2pass.com/media//email.gif" alt=""><strong>Receive Email Alerts</strong></a></td>
+<td><a href="http://ppi2pass.com/EMARS/errataLogin.jsf" target="_new"><img src="http://ppi2pass.com/media//updates.gif" alt=""><strong>Receive Product Updates</strong></a></td>
+<td><a href="http://facebook.com/PPI2Pass" target="_new"><img src="http://ppi2pass.com/media//facebook.gif" alt=""><strong>Join Us On Facebook</strong></a></td>
+<td><a href="http://twitter.com/PPI2Pass" target="_new"><img src="http://ppi2pass.com/media//twitter.gif" alt=""><strong>Follow Us On Twitter</strong></a></td>
+<td><a href="http://www.youtube.com/user/ppi2pass" target="_new"><img src="http://ppi2pass.com/media//youtube.gif" alt=""><strong>Watch Us On YouTube</strong></a></td>
+</tr>
+</tbody>
+</table>                    </div>
+                </div>
+            </div>
+            <div class="frame-bottom"><a href="#"><span>Connect With Us</span></a></div>
+        </div>
+        
+        <div id="footer">
+    	
 
-					</td>
-					<!-- main column end -->
-					<td width="16"></td>
-				</tr>
-			</tbody></table>
+<!--<ul>
+	<li><h3><a href="http://ppi2pass.com/catalog/category/view/s/shop/id/2/" class="bottomMenu3">Review Materials</a></h3></li>
+	<li><h3 class="bottomMenu3">Review Materials</h3></li>
+		<li>
+		<a href="http://ppi2pass.com/catalog/category/view/s/fe-eit-exam/id/3/" class="bottomMenu2">FE/EIT Exam</a>
+	</li>
+		<li>
+		<a href="http://ppi2pass.com/catalog/category/view/s/pe-exams/id/14/" class="bottomMenu2">PE Exams</a>
+	</li>
+		<li>
+		<a href="http://ppi2pass.com/catalog/category/view/s/fs-ps-exams/id/15/" class="bottomMenu2">FS & PS Exams</a>
+	</li>
+		<li>
+		<a href="http://ppi2pass.com/catalog/category/view/s/are/id/35/" class="bottomMenu2">ARE</a>
+	</li>
+		<li>
+		<a href="http://ppi2pass.com/catalog/category/view/s/ncidq-exam/id/44/" class="bottomMenu2">NCIDQ® Exam</a>
+	</li>
+		<li>
+		<a href="http://ppi2pass.com/catalog/category/view/s/idex-california-exam/id/54/" class="bottomMenu2">IDEX California® Exam</a>
+	</li>
+		<li>
+		<a href="http://ppi2pass.com/catalog/category/view/s/leed-exams/id/63/" class="bottomMenu2">LEED® Exams</a>
+	</li>
+		<li>
+		<a href="http://ppi2pass.com/catalog/category/view/s/lare/id/102/" class="bottomMenu2">LARE</a>
+	</li>
+	</ul>-->
+
+<div style="display:block;height:205px;width:100%;">
+			<ul>
+			<li><h3 class="bottomMenu3">Review Materials</h3></li>
+			<li><a href="/shop/fe-eit-exam" class="bottomMenu2">FE/EIT Exam</a></li>
+			<li><a href="/shop/pe-exams/civil-pe-exam" class="bottomMenu2">Civil PE Exam</a></li>
+			<li><a href="/shop/pe-exams/mechanical-pe-exam" class="bottomMenu2">Mechanical PE Exam</a></li>
+			<li><a href="/shop/pe-exams/electrical-pe-exams" class="bottomMenu2">Electrical PE Exams</a></li>
+			<li><a href="/shop/pe-exams/structural-engineering-se-exam" class="bottomMenu2">Structural (SE) Exam</a></li>
+			<li><a href="/shop/pe-exams/chemical-pe-exam" class="bottomMenu2">Chemical PE Exam</a></li>
+			<li><a href="/shop/pe-exams/environmental-pe-exam" class="bottomMenu2">Environmental PE Exam</a></li>
+			<li><a href="/shop/fs-ps-exams" class="bottomMenu2">FS &amp; PS Exams</a></li>
+			<li><a href="/shop/are" class="bottomMenu2">ARE</a></li>
+			<li><a href="/shop/ncidq-exam" class="bottomMenu2">NCIDQ</a></li>
+			<li><a href="/shop/idex-california-exam" class="bottomMenu2">IDEX California</a></li>
+			<li><a href="/shop/leed-exams" class="bottomMenu2">LEED Exam</a></li>
+			<li><a href="/shop/lare" class="bottomMenu2">LARE</a></li>
+			</ul>
+			
+			<ul>
+			<li><h3><a href="http://ppi2pass.com/ppi/rcenroll/rcHome.jsf" class="bottomMenu3">Review Courses</a></h3></li>
+			<li><a href="http://ppi2pass.com/ppi/rcenroll/FE.jsf" class="bottomMenu2">FE/EIT Review Courses</a></li>
+			<li><a href="http://ppi2pass.com/ppi/rcenroll/CivilPE.jsf" class="bottomMenu2">Civil PE Review Courses</a></li>
+			<li><a href="http://ppi2pass.com/ppi/rcenroll/MechanicalPE.jsf" class="bottomMenu2">Mechanical PE Review Courses</a></li>
+			<li><a href="http://ppi2pass.com/ppi/rcenroll/ElectricalPEPower.jsf" class="bottomMenu2">Electrical PE Power Review Courses</a></li>
+			<li><a href="http://ppi2pass.com/ppi/rcenroll/ENVPe.jsf " class="bottomMenu2">Environmental PE Review Courses</a><br>
+			<a href="http://ppi2pass.com/ppi/rcenroll/CivilSeismic.jsf" class="bottomMenu2">CA Civil Seismic Review Classes</a></li>
+			<li><a href="http://ppi2pass.com/ppi/rcenroll/CivilSurveying.jsf" class="bottomMenu2">CA Civil Surveying Review Classes</a></li>
+			<li><a href="http://ppi2pass.com/ppi/rcenroll/CasioFX.jsf" class="bottomMenu2">Casio FX-115 Review Classes</a></li>
+			</ul>
+			<ul>
+			<li><h3><a href="http://ppi2pass.com/ppi/PPIPZ" class="bottomMenu3">Passing Zones</a></h3></li>
+			<li><a href="http://ppi2pass.com/ppi/PPIPZ_pg_PZFEoverview.html" class="bottomMenu2">FE/EIT Passing Zones</a></li>
+			<li><a href="http://ppi2pass.com/ppi/PPIPZ_pg_PZCEoverview.html" class="bottomMenu2">Civil PE Exam Passing Zone</a></li>
+			<li><a href="http://ppi2pass.com/ppi/PPIPZ_pg_PZMEoverview.html" class="bottomMenu2">Mechanical PE Exam Passing Zone</a></li>
+			<li><a href="http://ppi2pass.com/ppi/PPIPZ_pg_PZEEoverview.html" class="bottomMenu2">Electrical PE Power Exam Passing Zone</a></li>
+			<li><a href="http://ppi2pass.com/ppi/PPIPZ_pg_PZENoverview.html" class="bottomMenu2">Environmental PE Passing Zone</a></li>
+			<li><a href="http://ppi2pass.com/ppi/PPIPZ_pg_PZCHoverview.html" class="bottomMenu2">Chemical PE Exam Passing Zone</a></li>
+			<li><a href="http://ppi2pass.com/ppi/PPIPZ_pg_PZSIoverview.html" class="bottomMenu2">CA Civil Seismic Exam Passing Zone</a></li>
+			<li><a href="http://ppi2pass.com/ppi/PPIPZ_pg_PZARoverview.html" class="bottomMenu2">ARE Passing Zones</a></li>
+			<li><a href="http://ppi2pass.com/ppi/PPIPZ_pg_PZGAoverview.html" class="bottomMenu2">LEED GA Exam Passing Zone</a></li>
+			<li><a href="http://ppi2pass.com/ppi/PPIPZ_pg_PZBCoverview.html" class="bottomMenu2">LEED AP BD&amp;C Exam Passing Zone</a></li>
+			</ul>
+			<ul>
+			<li><h3><a href="http://ppi2pass.com/ppi/ECMain" class="bottomMenu3">Exam Cafe</a></h3></li>
+			<li><a href="http://ppi2pass.com/ppi/ECMain_pg_infoFE.html" class="bottomMenu2">FE/EIT Exam Cafe</a></li>
+			<li><a href="http://ppi2pass.com/ppi/ECMain_pg_infoCE.html" class="bottomMenu2">Civil PE Exam Cafe</a></li>
+			<li><a href="http://ppi2pass.com/ppi/ECMain_pg_infoME.html" class="bottomMenu2">Mechanical PE Exam Cafe</a></li>
+			<li><a href="http://ppi2pass.com/ppi/ECMain_pg_infoEE.html" class="bottomMenu2">Electrical PE Exam Cafe</a></li>
+			<li><a href="http://ppi2pass.com/ppi/ECMain_pg_infoGA.html" class="bottomMenu2">LEED GA Online Practice Exam</a></li>
+			</ul>
+			<ul>
+			<li><h3><a href="/about-ppi/" class="bottomMenu3">About PPI</a></h3></li>
+			<li><a href="/contact-us/" class="bottomMenu2">Contact Us</a></li>
+			<li><a href="/faqs/privacy-policy" class="bottomMenu2">Privacy Policy</a></li>
+			<li><a href="/site-map/" class="bottomMenu2">Site Map</a></li>
+			<li><a href="http://forums.ppi2pass.com/index.php" class="bottomMenu2">Forums</a></li>
+			</ul>
+</div>
+<p>&nbsp;</p>
+	<table align="center" cellspacing="5" width="850" class="theparenttable" style="margin-left:auto;margin-right:auto;text-align:center;">
+		<tbody><tr>
+			<td height="35" align="center" class="copyright" colspan="5" valign="top" style="margin-left:auto;margin-right:auto;text-align:center;">
+				© 2011 PPI<br>
+				Exam names, organization names, and trademark names are the intellectual property of the respective<br>
+				trademark holders. These trademark holders are not affiliated with PPI, and they did not participate in<br>
+				the development, publication, and/or administration of PPI products, courses, and services.
 			</td>
-			<!-- main area of body end -->
-		</tr>
-	</tbody></table>
-  <table align="center" cellspacing="5" width="850">
-    <tbody><tr>
-      <td height="35" align="left" class="bottomMenu2" valign="top">
-			<a href="/ppi/PPIShop" class="bottomMenu3">Products</a><br>
-			<a href="/ppi/PPIShop_ct_FEEXAM" class="bottomMenu2">FE/EIT Exam</a><br>
-			<a href="/ppi/PPIShop_ct_CIVIL" class="bottomMenu2">Civil PE Exam</a><br>
-			<a href="/ppi/PPIShop_ct_MECHANICAL" class="bottomMenu2">Mechanical PE Exam</a><br>
-			<a href="/ppi/PPIShop_ct_CHEMICAL" class="bottomMenu2">Chemical PE Exam</a><br>
-			<a href="/ppi/PPIShop_ct_ELECTRICAL" class="bottomMenu2">Electrical PE Exam</a><br>
-			<a href="/ppi/PPIShop_ct_LSITEXAM" class="bottomMenu2">FS &amp; PS Exams</a><br>
-			<a href="/ppi/PPIShop_ct_AREEXAM40" class="bottomMenu2">ARE</a><br>
-			<a href="/ppi/PPIShop_ct_NCIDQEXAM" class="bottomMenu2">NCIDQ</a><br>
-			<a href="/ppi/PPIShop_ct_NCIDQEXAM&amp;idx=6" class="bottomMenu2">IDEX California</a><br>
-			<a href="/ppi/PPIShop_ct_LAREEXAM" class="bottomMenu2">LARE</a><br>
-			<a href="/ppi/PPIShop_ct_LEED" class="bottomMenu2">LEED Exam</a>
-      </td>
-      <td height="35" align="left" class="bottomMenu2" valign="top">
-			<a href="/ppi/rcenroll/rcHome.jsf" class="bottomMenu3">Review Courses</a><br>
-			<a href="/ppi/rcenroll/FE.jsf" class="bottomMenu2">FE/EIT Review Courses</a><br>
-			<a href="/ppi/rcenroll/CivilPE.jsf" class="bottomMenu2">Civil PE Review Courses</a><br>
-			<a href="/ppi/rcenroll/MechanicalPE.jsf" class="bottomMenu2">Mechanical PE Review Courses</a><br>
-			<a href="/ppi/rcenroll/ElectricalPEPower.jsf" class="bottomMenu2">Electrical PE Power Review Courses</a><br>
-			<a href="/ppi/rcenroll/CivilSeismic.jsf" class="bottomMenu2">CA Civil Seismic Review Classes</a><br>
-			<a href="/ppi/rcenroll/CivilSurveying.jsf" class="bottomMenu2">CA Civil Surveying Review Classes</a><br>
-			<a href="/ppi/rcenroll/CasioFX.jsf" class="bottomMenu2">Casio FX-115 Review Classes</a>
-      </td>
-      <td height="35" align="left" class="bottomMenu2" valign="top">
-			<a href="/ppi/PPIPZ" class="bottomMenu3">Passing Zones</a><br>
-			<a href="/ppi/PPIPZ_pg_PZFEoverview.html" class="bottomMenu2">FE/EIT Passing Zones</a><br>
-			<a href="/ppi/PPIPZ_pg_PZCEoverview.html" class="bottomMenu2">Civil PE Exam Passing Zone</a><br>
-			<a href="/ppi/PPIPZ_pg_PZMEoverview.html" class="bottomMenu2">Mechanical PE Exam Passing Zone</a><br>
-			<a href="/ppi/PPIPZ_pg_PZEEoverview.html" class="bottomMenu2">Electrical PE Power Exam Passing Zone</a><br>
-			<a href="/ppi/PPIPZ_pg_PZCHoverview.html" class="bottomMenu2">Chemical PE Exam Passing Zone</a><br>
-			<a href="/ppi/PPIPZ_pg_PZSIoverview.html" class="bottomMenu2">CA Civil Seismic Exam Passing Zone</a><br>
-			<a href="/ppi/PPIPZ_pg_PZARoverview.html" class="bottomMenu2">ARE Passing Zones</a><br>
-			<a href="/ppi/PPIPZ_pg_PZGAoverview.html" class="bottomMenu2">LEED GA Exam Passing Zone</a><br>
-			<a href="/ppi/PPIPZ_pg_PZBCoverview.html" class="bottomMenu2">LEED AP BD&amp;C Exam Passing Zone</a>
-      </td>
-      <td height="35" align="left" class="bottomMenu2" valign="top">
-			<a href="/ppi/ECMain" class="bottomMenu3">Exam Cafe</a><br>
-			<a href="/ppi/ECMain_pg_infoFE.html" class="bottomMenu2">FE/EIT Exam Cafe</a><br>
-			<a href="/ppi/ECMain_pg_infoCE.html" class="bottomMenu2">Civil PE Exam Cafe</a><br>
-			<a href="/ppi/ECMain_pg_infoME.html" class="bottomMenu2">Mechanical PE Exam Cafe</a><br>
-			<a href="/ppi/ECMain_pg_infoEE.html" class="bottomMenu2">Electrical PE Exam Cafe</a><br>
-			<a href="/ppi/ECMain_pg_infoGA.html" class="bottomMenu2">LEED GA Online Practice Exam</a>
-      </td>
-      <td height="35" align="left" class="bottomMenu2" valign="top">
-			<a href="/ppi/PPIInfo_pg_aboutppi.html" class="bottomMenu3">About PPI</a><br>
-          <a href="/ppi/PPIInfo_pg_contact.html" class="bottomMenu2">Contact Us</a><br>
-          <a href="/ppi/PPIInfo_pg_priv.html" class="bottomMenu2">Privacy Policy</a><br>
-          <a href="/ppi/PPIInfo_pg_sitemap.html" class="bottomMenu2">Site Map</a>
-      </td>
-    </tr><tr>
-      <td height="35" align="center" class="bottomMenu2" colspan="5" valign="top">
-        <span class="copyright">© 2011 PPI</span><br>
-        <span class="copyright">Exam names, organization names, and trademark names are the intellectual property of the respective<br>
-        trademark holders. These trademark holders are not affiliated with PPI, and they did not participate in<br>
-        the development, publication, and/or administration of PPI products, courses, and services.</span>
-		<p>&nbsp;</p>&nbsp;
-      </td></tr>
-  </tbody></table>
+	</tr></tbody></table>
+</div>
 
-	<img src="https://engage5.silverpop.com/cst?m=&amp;r=&amp;j=&amp;name='PPI Info'&amp;s='http://ppi2pass.com/ppi/PPIInfo?pg=priv.html'" width="0" height="0" border="0" alt="">
-</form>
-
+<div id="overlay"></div>
+<div class="quick-view-popup">
+	<a href="javascript:;" class="close">Close</a>
+	<div class="relax"></div>
+	<div class="popup-container"><!-- CONTENT WILL GO THERE --></div>
+	
+</div>
+        
+<!-- BEGIN GOOGLE ANALYTICS CODE -->
 <script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> 
+//<![CDATA[
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+    })();
 
-<script type="text/javascript">
-	var pageTracker = _gat._getTracker("UA-5552783-1");
-	pageTracker._trackPageview(); pageTracker._trackPageLoadTime();
+    var _gaq = _gaq || [];
+
+_gaq.push(function() {
+    // the global variable is created intentionally
+    pageTracker = _gat._getTracker('UA-5552783-1');
+    pageTracker._trackPageview();
+});
+
+
+//]]>
 </script>
-
-
-
-
-</body></html>
+<!-- END GOOGLE ANALYTICS CODE -->        
+</div></body></html>
