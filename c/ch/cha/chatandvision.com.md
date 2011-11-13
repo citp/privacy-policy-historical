@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatandvision.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508035420id_/http%3A//chatandvision.com/display/ws_view%3Fpage%3Dws_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatandvision.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113104753id_/http%3A//www.chatandvision.com/display/ws_view%3Fpage%3Dws_privacy_policy) for the most accurate reproduction.*
 
 # Buy Skype Certifed Headsets, Phones, Webcams at ChatandVision - Skype Global Merchant Partner
 
