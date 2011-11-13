@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agorics.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515161351id_/http%3A//www.agorics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agorics.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113083803id_/http%3A//www.agorics.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
