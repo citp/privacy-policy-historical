@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openvpn.net privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622233117id_/http%3A//www.openvpn.net/index.php/component/content/article/479.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openvpn.net privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113062714id_/http%3A//www.openvpn.net/index.php/component/content/article/479.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -75,5 +75,5 @@ http://www.openvpn.net
 5980 Stoneridge Dr, Suite 103  
 Pleasanton, California 94588  
 USA  
-[info@openvpn.net](mailto:info@openvpn.net)  
+info@openvpn.net  
 
