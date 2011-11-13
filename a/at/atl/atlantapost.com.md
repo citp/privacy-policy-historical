@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the atlantapost.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520073246id_/http%3A//atlantapost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantapost.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113024339id_/http%3A//atlantapost.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Atlanta Post | African-American News, Business News & Black Politics
+# Privacy Policy | The Atlanta Post
 
 **AtlantaPost.com Privacy Policy**
 
@@ -34,8 +34,8 @@ We have also contracted with a number of advertising network partners to monitor
 
 
   * BET Interactive at [http://www. **bet** adnetwork.com/ **privacy**](http://www.betadnetwork.com/privacy)
-  * Burst Media at[www. **burstmedia**.com/ **privacy**.asp](https://web.archive.org/web/20110520073246id_/http://atlantapost.com/privacy-policy/www.burstmedia.com/privacy.asp)
-  * Tribal Fusion at[www. **tribalfusion**.com/ **TribalFusion** / **privacy**.html](https://web.archive.org/web/20110520073246id_/http://atlantapost.com/privacy-policy/www.tribalfusion.com/TribalFusion/privacy.html)
+  * Burst Media at[www. **burstmedia**.com/ **privacy**.asp](https://web.archive.org/web/20111113024339id_/http://atlantapost.com/privacy-policy/www.burstmedia.com/privacy.asp)
+  * Tribal Fusion at[www. **tribalfusion**.com/ **TribalFusion** / **privacy**.html](https://web.archive.org/web/20111113024339id_/http://atlantapost.com/privacy-policy/www.tribalfusion.com/TribalFusion/privacy.html)
 
 
 
