@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factly.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230141505id_/http%3A//www.factly.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factly.com privacy policy that was archived on 2011-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111113130237id_/http%3A//www.factly.com/privacy.php) for the most accurate reproduction.*
 
 # Factly | Information You Need
 
