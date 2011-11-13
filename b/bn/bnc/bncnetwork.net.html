@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bncnetwork.net privacy policy that was archived on 2011-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110515093722id_/http%3A//www.bncnetwork.net/PGS/Portal/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bncnetwork.net privacy policy that was archived on 2011-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111113010645id_/http%3A//www.bncnetwork.net/PGS/Portal/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
 	bncnetwork.net
@@ -65,8 +65,8 @@
 
             $("select").bgiframe();
             $("button").button(); //button declarations
-        
-      
+
+     
         $("#dvLogIn").dialog({ autoOpen: false, height: 455, modal: true, resizable: false, width: 500, open: function (type, data) { },
             buttons: { 'Cancel': function () { $("#ctl00_txtUserName").val(''); $("#ctl00_txtPassword").val(''); $(this).dialog("close"); }, 'Email my password to me': function () { ServiceData(-4); return false; },
                 'Sign in': function () { CheckSignIN(); }
@@ -116,8 +116,12 @@
             success: OnSuccessService, failure: function (response) {  } 
         });
     }
-   
 
+    function ReplaceQoutes(text) {
+        text = text.replace(/'/g, "\\\'");
+        text = text.replace(/"/g, "\\\"");
+        return text;
+    }
 
  
 
@@ -138,8 +142,8 @@
                $("#ctl00_txtUserName").val(''); $("#ctl00_txtPassword").val(''); $("#ctl00_txtUserName").focus(); break;
            case "ERROR": $("#dvStatus").html(""); $("#dvStatus").dialog("open"); $("#dvStatus").html("Sorry. We encountered an error while processing your request. For additional details please call +971 6 5573138."); break;
            case "False": $("#dvStatus").html(""); $("#dvStatus").dialog("open"); $("#dvStatus").html("This username and password combination is invalid. Please enter a valid username and password to sign in."); $("#ctl00_txtUserName").val(''); $("#ctl00_txtPassword").val(''); $("#ctl00_txtUserName").focus(); break;
-            case "sessoionsuccess":
-                $('#ctl00_hdnLogIn').attr('value', '0');  window.location.reload();break;
+           case "sessoionsuccess":
+               $('#ctl00_hdnLogIn').attr('value', '0'); window.location.reload(); break;
             case "Enter Username": $("#dvStatus").html(""); $("#dvStatus").dialog("open"); $("#dvStatus").html("Please enter your username. This should be your email address."); $('input[name*="txtUserName"]')[0].focus(); break;
             case "Enter Password": $("#dvStatus").html(""); $("#dvStatus").dialog("open"); $("#dvStatus").html("Please enter the password for your account."); break;
             case "Enter username and password":
@@ -160,17 +164,17 @@
 
 <div class="GBbody javascript_required">
     <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCAgEPZBYGAgkPDxYCHglXYXRlcm1hcmsFIiBFbnRlciBhIHByb2plY3QvY2l0eS9jb3VudHJ5IG5hbWVkFgRmD2QWCgINDxYCHglpbm5lcmh0bWwFkwI8YSB0YXJnZXQ9Il9ibGFuayIgIGNsYXNzPSJTQlJlY2VudExpbmsiIGhyZWY9Ii9QR1MvRGlzcGxheS9Qcm9qZWN0RGlzcGxheS5hc3B4P1Byb2plY3RJRD0yNzU3Ij5CdWlsZGluZyBhdCBQbG90IE5vLiBCLTQ1NzwvYT4gPC9icj48YSB0YXJnZXQ9Il9ibGFuayIgIGNsYXNzPSJTQlJlY2VudExpbmsiIGhyZWY9Ii9QR1MvRGlzcGxheS9Qcm9qZWN0RGlzcGxheS5hc3B4P1Byb2plY3RJRD01NzA3MSI+TXVzaGVpcmViIChIZWFydCBvZiBEb2hhKSAtIFBoYXNlIDFFPC9hPiA8L2JyPmQCDw8QZGQWAWZkAhEPDxYEHghDc3NDbGFzcwUPR0JTZWFyY2hUZXh0Ym94HgRfIVNCAgIWCB4Hb25rZXl1cAURdGV4dGJveGNoYW5nZWQoKTseDGF1dG9jb21wbGV0ZQUDb2ZmHgZvbmJsdXIFaWlmICh0aGlzLnZhbHVlID09ICcnKSB7IHRoaXMudmFsdWU9JyBFbnRlciBhIHByb2plY3QvY2l0eS9jb3VudHJ5IG5hbWUnO3RoaXMuY2xhc3NOYW1lPSdHQlNlYXJjaFRleHRib3gnfR4Hb25mb2N1cwVXaWYgKHRoaXMuY2xhc3NOYW1lPT0nR0JTZWFyY2hUZXh0Ym94Jykge3RoaXMudmFsdWU9Jyc7dGhpcy5jbGFzc05hbWU9J0dCU2VhcmNoVGV4dGJveCd9ZAITDw8WAh4LUG9zdEJhY2tVcmwFJn5ccGdzXFNlYXJjaFxQcm9qZWN0U2VhcmNoUmVzdWx0cy5hc3B4ZGQCFQ9kFgYCAQ8WAh8BBVQ8YSBocmVmID0iL1BHUy9Qcm9qZWN0RGlyZWN0b3J5L0EtMS5hc2h4IiBzdHlsZT0iY29sb3I6Izk1ZDExNTsiPjQ0LDU0OCBQcm9qZWN0czwvYT5kAgMPZBYCAgEPFgIfAQVVPGEgaHJlZiA9Ii9QR1MvQ29tcGFueURpcmVjdG9yeS9BLTEuYXNoeCIgc3R5bGU9ImNvbG9yOiM5NWQxMTU7Ij44Nyw2NTMgQ29tcGFuaWVzPC9hPmQCBQ8WAh8BBVQ8YSBocmVmID0iL1BHUy9Qcm9kdWN0RGlyZWN0b3J5L0EtMS5hc2h4IiBzdHlsZT0iY29sb3I6Izk1ZDExNTsiPjIwLDc5MyBQcm9kdWN0czwvYT5kAgEPZBYCAlAPDxYCHwgFJn5ccGdzXFNlYXJjaFxQcm9qZWN0U2VhcmNoUmVzdWx0cy5hc3B4ZGQCCw9kFgJmD2QWAgIBDxYCHgdWaXNpYmxlaBYCAgQPZBYCAgMPEGRkFgBkAg8PZBYCZg9kFgICAQ9kFgICAQ9kFgICAw8QZGQWAGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgcFIWN0bDAwJFNlYXJjaEJhcjEkY2hrUHJvZHVjdEZpbHRlcgUhY3RsMDAkU2VhcmNoQmFyMSRjaGtjdXJyZW50RXZlbnRzBR9jdGwwMCRTZWFyY2hCYXIxJGNoa0V2ZW50VHlwZSQwBR9jdGwwMCRTZWFyY2hCYXIxJGNoa0V2ZW50VHlwZSQxBR9jdGwwMCRTZWFyY2hCYXIxJGNoa0V2ZW50VHlwZSQyBR9jdGwwMCRTZWFyY2hCYXIxJGNoa0V2ZW50VHlwZSQzBR9jdGwwMCRTZWFyY2hCYXIxJGNoa0V2ZW50VHlwZSQzpELjHwwae/adRx4Pk1BiluPPTcxkksxwKU9OgVwLc14=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCAgEPZBYGAgkPDxYCHglXYXRlcm1hcmsFIiBFbnRlciBhIHByb2plY3QvY2l0eS9jb3VudHJ5IG5hbWVkFgRmD2QWCgINDxYCHglpbm5lcmh0bWwFmQI8YSB0YXJnZXQ9Il9ibGFuayIgIGNsYXNzPSJTQlJlY2VudExpbmsiIGhyZWY9Ii9QR1MvRGlzcGxheS9Qcm9qZWN0RGlzcGxheS5hc3B4P1Byb2plY3RJRD00MDE4OCI+VmlsbGEsIEcrMSBhdCBQbG90IE5vLiA0NDc8L2E+IDwvYnI+PGEgdGFyZ2V0PSJfYmxhbmsiICBjbGFzcz0iU0JSZWNlbnRMaW5rIiBocmVmPSIvUEdTL0Rpc3BsYXkvUHJvamVjdERpc3BsYXkuYXNweD9Qcm9qZWN0SUQ9NDkwMjIiPkRldmVsb3BtZW50IG9mIE1haW4gUm9hZHMgLSBCbG9jayAxMzAwLi4uPC9hPiA8L2JyPmQCDw8QZGQWAWZkAhEPDxYEHghDc3NDbGFzcwUPR0JTZWFyY2hUZXh0Ym94HgRfIVNCAgIWCB4Hb25rZXl1cAURdGV4dGJveGNoYW5nZWQoKTseDGF1dG9jb21wbGV0ZQUDb2ZmHgZvbmJsdXIFaWlmICh0aGlzLnZhbHVlID09ICcnKSB7IHRoaXMudmFsdWU9JyBFbnRlciBhIHByb2plY3QvY2l0eS9jb3VudHJ5IG5hbWUnO3RoaXMuY2xhc3NOYW1lPSdHQlNlYXJjaFRleHRib3gnfR4Hb25mb2N1cwVXaWYgKHRoaXMuY2xhc3NOYW1lPT0nR0JTZWFyY2hUZXh0Ym94Jykge3RoaXMudmFsdWU9Jyc7dGhpcy5jbGFzc05hbWU9J0dCU2VhcmNoVGV4dGJveCd9ZAITDw8WBB4HVG9vbFRpcAUGU2VhcmNoHgtQb3N0QmFja1VybAUmflxwZ3NcU2VhcmNoXFByb2plY3RTZWFyY2hSZXN1bHRzLmFzcHhkZAIVD2QWBgIBDxYCHwEFVDxhIGhyZWYgPSIvUEdTL1Byb2plY3REaXJlY3RvcnkvQS0xLmFzaHgiIHN0eWxlPSJjb2xvcjojOTVkMTE1OyI+NDksMTYwIFByb2plY3RzPC9hPmQCAw9kFgICAQ8WAh8BBVU8YSBocmVmID0iL1BHUy9Db21wYW55RGlyZWN0b3J5L0EtMS5hc2h4IiBzdHlsZT0iY29sb3I6Izk1ZDExNTsiPjkxLDg4MSBDb21wYW5pZXM8L2E+ZAIFDxYCHwEFVDxhIGhyZWYgPSIvUEdTL1Byb2R1Y3REaXJlY3RvcnkvQS0xLmFzaHgiIHN0eWxlPSJjb2xvcjojOTVkMTE1OyI+MjEsMTI2IFByb2R1Y3RzPC9hPmQCAQ9kFgICVg8PFgIfCQUmflxwZ3NcU2VhcmNoXFByb2plY3RTZWFyY2hSZXN1bHRzLmFzcHhkZAILD2QWAmYPZBYCAgEPFgIeB1Zpc2libGVoFgICBA9kFgICAw8QZGQWAGQCDw9kFgJmD2QWAgIBD2QWAgIBD2QWAgIDDxBkZBYAZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WCQUjY3RsMDAkU2VhcmNoQmFyMSRjaGtTaG93RmF2UHJvamVjdHMFImN0bDAwJFNlYXJjaEJhcjEkY2hrU2hvd015UHJvamVjdHMFIWN0bDAwJFNlYXJjaEJhcjEkY2hrUHJvZHVjdEZpbHRlcgUhY3RsMDAkU2VhcmNoQmFyMSRjaGtjdXJyZW50RXZlbnRzBR9jdGwwMCRTZWFyY2hCYXIxJGNoa0V2ZW50VHlwZSQwBR9jdGwwMCRTZWFyY2hCYXIxJGNoa0V2ZW50VHlwZSQxBR9jdGwwMCRTZWFyY2hCYXIxJGNoa0V2ZW50VHlwZSQyBR9jdGwwMCRTZWFyY2hCYXIxJGNoa0V2ZW50VHlwZSQzBR9jdGwwMCRTZWFyY2hCYXIxJGNoa0V2ZW50VHlwZSQzIRclEOATUMpQ3tiap7et4R4/i7ugPWJ+jXuCRiWcsrI=">
 
 
-<script src="/ScriptResource.axd?d=I3eHi66TS4dQK5GHuuxRUl_mm8eEuMA_9wnk1vqD-iA56Uz2rGl5YvkS69VhMQEcTFdr864mhvVqKmBY9e5Qx6-f9dH8SHMVY92MJihuv4DxwOmxJv6iOnd2lJzjI05EUDJFe8bg4Hs_ufVdR_19vcMVh2G5FRvTrYKEu8AgjYmppnQDk3y5fNVs1ijvC-b10&amp;t=2610f696" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=mCdMQY_YgsFrIoGepI6T7cXDTL3ZoaF8qe_ybgE5jDD_982A4xF2teGgpZqGKv9ALMxxQwcRliEhCad-Z6ewJPP4gnFYIzxe3TgiwK-CSsW_xcZAJzeyI4Oa4k2OuAXuPBN7zTCE2Ethk872uhGeioQXmb4DmCnvb21b4ehoIK5dPBYeMIyQrNgnbkA3OvpR0&amp;t=4edbeeee" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
 //]]>
 </script>
 
-<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="ROHQN3f8HCGbm2H7XPKkHyeJvp6xImlm09x3YzZncSop3GDCbxnxR66Gqhnkh6nrCtUKZuURywBRC6td-AvE9YsT9UP5wtMuiExxcuh5GjUwC_J3nIBhBFAZ2Fq7_IZl0">   
+<input type="hidden" name="__PREVIOUSPAGE" id="__PREVIOUSPAGE" value="tcoy6wpigkW1zVDQOCrvupODCyAEwoVyaMu-3465F7F2GsK1e_lTfUBekI9FjnGDXIatXCiVx7m1ZJzQhc0sxmhKDminF3s06UnHcEAhzYBKC3pXfpbXbjt-BcdDcxqn0">   
       
         <input type="submit" name="ctl00$hiddenSubmit" value="" id="ctl00_hiddenSubmit" style="display: none">
         <input type="hidden" name="ctl00$hiddenSubmitParameter" id="ctl00_hiddenSubmitParameter">
@@ -180,7 +184,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             <div style="width:970px; margin:0px auto; position:relative; height:92px;">
                 <img src="/IMG/header/Header.gif" alt="The BNC Network" usemap="#hdmap" border="0" id="imgHeader">
                 <map name="hdmap" id="hdmap">
-                    <area shape="rect" coords="0,0,323,92" href="http://www.bncnetwork.net" alt="The BNC Network">
+                    <area shape="rect" coords="0,0,323,92" href="/index.aspx" alt="The BNC Network">
                 </map>
                 <div class="GBHeaderWelcomeMessage">
                 
@@ -264,19 +268,34 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 .ui-datepicker {
     background-color:White;
     }
-
 </style>
 
 <link href="/CSS/jquery.checkboxtree.css" rel="stylesheet" type="text/css">
 <script src="/SCRIPTS/jquery.checkboxtree.js" type="text/javascript"></script>
 
 <script type="text/javascript">
-  
+
     $(function () {
-     $('#btnClose').click(function () { $("#AdvancedSearchForm").dialog('close'); }); //Closing Dialog 
-     $('#btnClear').click(function () { clearForm(); }); //Clear Data 
-     $('#ahrefMore').click( function () {  var ddlvalue = document.getElementById("ctl00_SearchBar1_SearchTypeOptions").value; openModalDiv(ddlvalue); });
-     $("#ctl00_SearchBar1_SearchTypeOptions").change( function () {    disableBtn('Loading..');  });
+
+        $("#mdNotSignedIn").dialog({ autoOpen: false, height: 585, modal: true, resizable: false, width: 590, buttons:
+         { 'Cancel': function () { $(this).dialog("close"); }, 'Create Account': function () { window.location = "/PGS/Portal/Registration.aspx"; }, 'Sign in': function () { $(this).dialog("close"); $('#dvLogIn').dialog('open'); return false; } }
+        });
+
+        $('#btnClose').click(function () { $("#AdvancedSearchForm").dialog('close'); }); //Closing Dialog 
+        $('#btnClear').click(function () { clearForm(); }); //Clear Data 
+        $('#ahrefMore').click(function () {
+            var ddlvalue = document.getElementById("ctl00_SearchBar1_SearchTypeOptions").value;
+            if (ddlvalue = 'Project') {
+
+                if ($('input[id$=hdnLogIn]').val() < 0) {
+                    $('#mdNotSignedIn').dialog('open');
+                    return false;
+                }
+            }
+            openModalDiv(ddlvalue);
+        });
+
+        $("#ctl00_SearchBar1_SearchTypeOptions").change(function () { disableBtn('Loading..'); });
 
     });
 
@@ -322,7 +341,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         });
         $("#dvProjectDisabledWarning").hide();
         if (ddlvalue == "Project") {
-            $("#AdvancedSearchForm").dialog("option", "height", 662);
+            $("#AdvancedSearchForm").dialog("option", "height", 680);
             $("#dvadvProduct,#dvadvEvent,#dvadvCompany").hide(); $('#AdvancedSearchForm').dialog('open'); $("#dvProjectDisabledWarning,#dvadvProject").show();
         }
         else if (ddlvalue == "Company") {
@@ -338,7 +357,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             $("#dvadvProject,#dvadvCompany,#dvadvProduct").hide(); $("#dvadvEvent").show(); $('#AdvancedSearchForm').dialog('open');
         }
         LoadType(ddlvalue);
-        DisableControl();
+       // DisableControl();
 
     }
 
@@ -356,7 +375,6 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         $("#ctl00_SearchBar1_txtAFrom,#ctl00_SearchBar1_txtATo,#ctl00_SearchBar1_txtUFrom,#ctl00_SearchBar1_txtUTo,#ctl00_SearchBar1_txtEventFrom,#ctl00_SearchBar1_txtEventTo").datepicker({ dateFormat: 'yy-mm-dd' });
         $("#ctl00_SearchBar1_txtCFrom,#ctl00_SearchBar1_txtCTo").datepicker({
             changeMonth: true, changeYear: true, showButtonPanel: true, dateFormat: 'MM yy', onClose: function (dateText, inst) {
-
             }
         });
     });
@@ -406,6 +424,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
     function LoadProjectTypeSubType(msg) {                                                                                                //LoadProjectTypeSubType
         $("#dvProjectTypeSubType").html(""); $("#dvProjectTypeSubType").append(msg.d); BindTypeSubType();
+        DisableControl();
     }
 
     function LoadCompanyTypeSubType(msg) {                                                                                                 //LoadCompanyTypeSubType
@@ -650,8 +669,14 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             $("#ctl00_SearchBar1_txtCFrom,#ctl00_SearchBar1_txtCTo,#ctl00_SearchBar1_txtProjectCompany,#ctl00_SearchBar1_txtProjectCompanyScope,#ctl00_SearchBar1_txtProjectNotes,#ctl00_SearchBar1_txtProjectCompany").attr("disabled", true).addClass("GBFormDisabled");
             $("#ctl00_SearchBar1_txtProjectBrand,#ctl00_SearchBar1_txtProjectProduct").attr('disabled', 'disabled').addClass("GBFormDisabled");
             $("#ctl00_SearchBar1_txtProjectDescription,#ctl00_SearchBar1_txtProjectUValue,#ctl00_SearchBar1_txtProjectFValue").attr("disabled", true).addClass("GBFormDisabled");
+            $("#ctl00_SearchBar1_txtProjectNumber,#ctl00_SearchBar1_txtProjectLocation,#ctl00_SearchBar1_txtProjectCity ").attr('disabled', 'disabled').addClass("GBFormDisabled");
+            $('#dvCountry :input').attr('disabled', true).addClass("GBFormDisabled");
+            $('#dvProjectTypeSubType :input').attr('disabled', true).addClass("GBFormDisabled");
             $('#dvConsultantContractor :input').attr('disabled', true).addClass("GBFormDisabled");
-            $('#dvStage :input').attr('disabled', true).addClass("GBFormDisabled"); 
+            $('#dvStage :input').attr('disabled', true).addClass("GBFormDisabled");
+            $("#ctl00_SearchBar1_chkShowMyProjects").attr('checked', false); 
+            $('#dvAccessProjects').hide();
+            $('#dvFilterFavoriteProjects').hide();
 
         }
         if ($('#ctl00_SearchBar1_hdnUser').val() > 0) {
@@ -661,6 +686,9 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
             $("#ctl00_SearchBar1_txtProjectDescription,#ctl00_SearchBar1_txtProjectUValue,#ctl00_SearchBar1_txtProjectFValue").attr("disabled", false).removeClass("GBFormDisabled");
             $('#dvConsultantContractor :input').attr('disabled', false).removeClass("GBFormDisabled"); $("#dvProjectDisabledWarning").hide();
             $('#dvStage :input').attr('disabled', false).removeClass("GBFormDisabled");
+            $("#ctl00_SearchBar1_txtProjectNumber,#ctl00_SearchBar1_txtProjectLocation,#ctl00_SearchBar1_txtProjectCity ").attr('disabled', false).removeClass("GBFormDisabled");
+            $('#dvCountry :input').attr('disabled', false).removeClass("GBFormDisabled");
+            $('#dvProjectTypeSubType :input').attr('disabled', false).removeClass("GBFormDisabled");
         } 
     }
     function GetCountry() {   var currenttext="";
@@ -691,6 +719,17 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
        $("#ctl00_SearchBar1_hdnStage").val(aArray);
 
    }
+
+   function CheckSigninStatus() {
+       if ($('input[id$=hdnLogIn]').val() < 0) {
+           $('#mdNotSignedIn').dialog('open');
+           return false;
+       }
+       else {
+           return true;
+       }
+   }
+
 </script>
 
 
@@ -711,7 +750,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
          
         <div class="GBRecentSearches">
             <span class="GBRecentSearchesTitle">Recently Viewed Projects</span><br>
-            <div id="ctl00_SearchBar1_dvRecent"><a target="_blank" class="SBRecentLink" href="/PGS/Display/ProjectDisplay.aspx?ProjectID=2757">Building at Plot No. B-457</a> <br><a target="_blank" class="SBRecentLink" href="/PGS/Display/ProjectDisplay.aspx?ProjectID=57071">Musheireb (Heart of Doha) - Phase 1E</a> <br></div>
+            <div id="ctl00_SearchBar1_dvRecent"><a target="_blank" class="SBRecentLink" href="/PGS/Display/ProjectDisplay.aspx?ProjectID=40188">Villa, G+1 at Plot No. 447</a> <br><a target="_blank" class="SBRecentLink" href="/PGS/Display/ProjectDisplay.aspx?ProjectID=49022">Development of Main Roads - Block 1300...</a> <br></div>
         </div>
                   
         <div class="GBSearchSectionContainer">
@@ -728,7 +767,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 	</select>                           
          <div style="float:left;">                 
             <input name="ctl00$SearchBar1$tbSearchCriteria" type="text" value=" Enter a project/city/country name" id="ctl00_SearchBar1_tbSearchCriteria" class="GBSearchTextbox" onkeyup="textboxchanged();" autocomplete="off" onblur="if (this.value == '') { this.value=' Enter a project/city/country name';this.className='GBSearchTextbox'}" onfocus="if (this.className=='GBSearchTextbox') {this.value='';this.className='GBSearchTextbox'}"> 
-            <input type="button" name="ctl00$SearchBar1$bnSearch" value="Search" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$SearchBar1$bnSearch&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../Search/ProjectSearchResults.aspx&quot;, false, true))" id="ctl00_SearchBar1_bnSearch" title="Search" class="GBSearchButton">
+            <input type="button" name="ctl00$SearchBar1$bnSearch" value="Search" onclick="JavaScript:return CheckSigninStatus();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$SearchBar1$bnSearch&quot;, &quot;&quot;, false, &quot;&quot;, &quot;../Search/ProjectSearchResults.aspx&quot;, false, true))" id="ctl00_SearchBar1_bnSearch" title="Search" class="GBSearchButton">
         </div>
             
         <div class="GBSearchMore"><a href="#" class="GBSearchMoreText" id="ahrefMore">More Search Options</a></div>
@@ -770,7 +809,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                 <div class="SBModalLabel">Country</div><input type="hidden" name="ctl00$SearchBar1$hdnProjectcountryValue" id="ctl00_SearchBar1_hdnProjectcountryValue"><input type="hidden" name="ctl00$SearchBar1$hdnProjectCountryText" id="ctl00_SearchBar1_hdnProjectCountryText">
                                 <div style="width:235px; float:left; margin-left:15px; margin-bottom:15px;background-color:#f9e98e; padding:5px;" id="dvCountry">
                                
-                                   <input type="checkbox" name="country" value="223" id="chk1"><label for="chk1">UAE</label>
+                                  <input type="checkbox" name="country" value="223" id="chk1"><label for="chk1">UAE</label>
                                   <input type="checkbox" name="country" value="175" id="chk2"><label for="chk2">Qatar</label>
                                   <input type="checkbox" name="country" value="188" id="chk3"><label for="chk3">Saudi Arabia</label><br>
                                   <input type="checkbox" name="country" value="162" id="chk4"><label for="chk4">Oman</label>
@@ -799,13 +838,19 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                 <div class="SBModalLabel">Projects With</div>
                                 <div style="width:235px; float:left; margin-left:15px; margin-bottom:15px;background-color:#f9e98e; padding:5px;" id="dvConsultantContractor"><input type="hidden" name="ctl00$SearchBar1$hdnConsultantValue" id="ctl00_SearchBar1_hdnConsultantValue">
                        
-                                   <input type="checkbox" name="consultant" value="MAIS" id="chkConsultant1"><label for="chkConsultant1">Lead Consultant</label>
+                                  <input type="checkbox" name="consultant" value="MAIS" id="chkConsultant1"><label for="chkConsultant1">Lead Consultant</label>
                                   <input type="checkbox" name="consultant" value="MEPS" id="chkConsultant2"><label for="chkConsultant2">MEP Consultant</label>
                                   <input type="checkbox" name="consultant" value="MAIT" id="chkContractor1"><label for="chkContractor1">Main Contractor</label>
                                   <input type="checkbox" name="consultant" value="MEPT" id="chkContractor2"><label for="chkContractor2">MEP Contractor</label>
                                  
                                  </div>
-                             
+                                <div id="dvFilterFavoriteProjects" style="float:left;">
+                                <div style="float:left;font-size:15px; width:300px">Search for favorite projects</div>
+                                <input id="ctl00_SearchBar1_chkShowFavProjects" type="checkbox" name="ctl00$SearchBar1$chkShowFavProjects"></div>
+
+                                <div id="dvAccessProjects" style="float:left;">
+                                <div style="float:left;font-size:15px; width:300px">Show only projects that I have access to</div>
+                                <input id="ctl00_SearchBar1_chkShowMyProjects" type="checkbox" name="ctl00$SearchBar1$chkShowMyProjects" checked="checked"></div>
                             </div>
                             
                             <div class="SBModalRightContainer">                                
@@ -855,6 +900,8 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                             <input name="ctl00$SearchBar1$txtComProduct" type="text" id="ctl00_SearchBar1_txtComProduct" class="SBModalField">                            
                             <div class="SBModalLabel">City</div>
                             <input name="ctl00$SearchBar1$txtComCity" type="text" id="ctl00_SearchBar1_txtComCity" class="SBModalField">
+                            <div class="SBModalLabel">Profile</div>
+                            <input name="ctl00$SearchBar1$txtComDescription" type="text" id="ctl00_SearchBar1_txtComDescription" class="SBModalField">
                             <div class="SBModalLabel">Country</div>
                             <select name="ctl00$SearchBar1$ddlComCountry" id="ctl00_SearchBar1_ddlComCountry" class="SBModalField">
 
@@ -1196,7 +1243,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
 
 
- 
+
 
 <div style="clear:both; width:940px; display:block; margin:10px auto;">
 
@@ -1326,4 +1373,17 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 
 <div id="ctl00_dvMessage"></div>
 
-</div><div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix"><button type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Cancel</span></button></div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all  ui-draggable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-dvStatus" style="display: none; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix" unselectable="on"><span class="ui-dialog-title" id="ui-dialog-title-dvStatus" unselectable="on">&nbsp;</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button" unselectable="on"><span class="ui-icon ui-icon-closethick" unselectable="on">close</span></a></div><div id="dvStatus" class="ui-dialog-content ui-widget-content"></div><div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix"><button type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Close</span></button></div></div><div id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all ui-helper-hidden-accessible"></div></body></html>
+</div><div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix"><button type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Cancel</span></button></div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all  ui-draggable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-dvStatus" style="display: none; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix" unselectable="on"><span class="ui-dialog-title" id="ui-dialog-title-dvStatus" unselectable="on">&nbsp;</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button" unselectable="on"><span class="ui-icon ui-icon-closethick" unselectable="on">close</span></a></div><div id="dvStatus" class="ui-dialog-content ui-widget-content"></div><div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix"><button type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Close</span></button></div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all  ui-draggable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-mdNotSignedIn" style="display: none; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix" unselectable="on"><span class="ui-dialog-title" id="ui-dialog-title-mdNotSignedIn" unselectable="on">&nbsp;</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button" unselectable="on"><span class="ui-icon ui-icon-closethick" unselectable="on">close</span></a></div><div id="mdNotSignedIn" style="" class="ui-dialog-content ui-widget-content">
+            <div class="GBModalTitle">Access to this section is restricted!</div>
+            <div><p>This functionality is restricted to users that have not signed in. Please click on create an account or sign in.</p></div>
+            <div><ul>
+                <li><p><strong>Access to projects from all countries</strong><br>Get unlimited access to projects in all stages of development across the GCC.</p></li>
+                <li><p><strong>Activate all search fields</strong><br>Get access to all fields including search for all G.C.C. projects by Companies, Project Value, Update and Announcement Dates, Estimated completion, Description and Notes, Stages, types of companies, and many more.</p></li>
+                <li><p><strong>View complete company details</strong><br>See all G.C.C. projects that companies have worked on on their profile pages</p></li>
+                <li><p><strong>Information Requests</strong><br>Initiate requests for additional information on projects from all countries, products and companies</p></li>
+                <li><p><strong>Favorite projects</strong><br>Maintain lists of favorite G.C.C. projects that you can get alerts on when updated</p></li>
+                <li><p><strong>Save your search criteria</strong><br>Save your commonly used search queries and get updated when projects matching the criteria are updated or added.</p></li>                            
+            </ul>
+            Not sure yet? <a href="/PGS/Portal/MembershipTestimonials.aspx" target="_blank">See what our customers have to say</a> about our services or <a href="/PGS/ContactCenter/ContactUs.aspx" target="_blank">have one of our representatives host a live demo for you</a>. 
+            </div>
+</div><div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix"><button type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Cancel</span></button><button type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Create Account</span></button><button type="button" class="ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text">Sign in</span></button></div></div><div id="ui-datepicker-div" class="ui-datepicker ui-widget ui-widget-content ui-helper-clearfix ui-corner-all ui-helper-hidden-accessible"></div></body></html>
