@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gotobus.com privacy policy that was archived on 2011-04-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110424041543id_/http%3A//www.gotobus.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gotobus.com privacy policy that was archived on 2011-11-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111113192725id_/http%3A//www.gotobus.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Pragma" content="no-cache">
@@ -8,9 +8,11 @@
 <title>Privacy Notice  - GotoBus</title>
 <meta name="KEYWORDS" content="Privacy Notice ">
 <meta name="DESCRIPTION" content="GotoBus">
-<link rel="StyleSheet" href="/css/en/style_new_v0926.css" type="text/css" media="screen">
+<link rel="StyleSheet" href="/css/en/style_v1031.css" type="text/css" media="screen">
 <link rel="shortcut icon" href="http://www.gotobus.com/gotobus.ico" type="image/x-icon">
 <script language="javascript" src="/js/jquery/jquery-1.4.2.min.js"></script>
+			<script type="text/javascript" src="/js/zDrag.js"></script>
+			<script type="text/javascript" src="/js/zDialog.js"></script>			
 			<script language="javascript" src="/js/init.js"></script>
 			<script language="javascript" src="/js/init_attr.js"></script>
 			<script type="text/javascript" src="/js/ac/actb.js"></script>
@@ -28,10 +30,17 @@
         <div id="n_head_r_nav_m">
 	        <ul class="no_list_style">
 				<li><span id="welcome_span" class="n_smallnav_span">Welcome - Already a member?</span></li>
-				<li><a id="sign_link" title="Sign In" href="https://www.gotobus.com/cgi-bin/ivyecom.cgi?a=signin" class="n_head_nav" target="_top">Sign In</a>|</li>
-				<li><a title="Register a user" href="http://www.gotobus.com/cgi-bin/ce.cgi?a=signup" class="n_head_nav" target="_top">Sign Up</a>|</li>
+				
+			<li id="facebook_signin">
+			<a title="Sign in with Facebook" href="#" onclick="fb_conn();return false;">
+				<img alt="Sign in with Facebook" src="/images/facebook-signin.gif">
+			</a>
+			</li>
+			
+				<li><a id="sign_link" rel="nofollow" title="Sign In" href="https://www.gotobus.com/cgi-bin/ivyecom.cgi?a=signin" class="n_head_nav" target="_top">Sign In</a>|</li>
+				<li><a title="Register a user" rel="nofollow" href="http://www.gotobus.com/cgi-bin/ce.cgi?a=signup" class="n_head_nav" target="_top">Sign Up</a>|</li>
 	        	
-				<li><a title="Help" href="http://www.gotobus.com/support/" class="n_head_nav" target="_top">Help</a>|</li>
+				<li><a title="Help" rel="nofollow" href="http://www.gotobus.com/support/" class="n_head_nav" target="_top">Help</a>|</li>
 				<li class="n_li_smallnav" id="language_multi">
 			<a href="javascript:void(0)" class="nav_chinese">Language</a>
 			<div class="n_smallnavbox">
@@ -50,29 +59,32 @@
   </div>
   <div class="blank1"></div>
     <script type="text/javascript">
-	var cookie_login = get_cookie("IvyCustomer_LoginCookie");
-	if(cookie_login != null && cookie_login != '')
-	{
-		var cookie_email = get_cookie("IvyCustomer_LoginEmail");
-		var cookie_uid = get_cookie("IvyCustomer_Uid");
-		
-		if(cookie_uid == "" || cookie_uid.indexOf("_auto_") != -1)
-		{
-			document.getElementById('welcome_span').innerHTML = "Welcome - <a style='text-decoration:underline;' title='Account' href='https://www.gotobus.com/cgi-bin/ivyecom.cgi?a=main' target='_top'>" + cookie_email + "</a>";
-		}
-		else
-		{
-			document.getElementById('welcome_span').innerHTML = "Welcome - <a style='text-decoration:underline;' title='Account' href='https://www.gotobus.com/cgi-bin/ivyecom.cgi?a=main' target='_top'>" + cookie_uid + "</a>";
-		}
-		var sign_link = document.getElementById('sign_link');
-		sign_link.innerHTML = "Sign Out";
-		sign_link.href = "http://www.gotobus.com/cgi-bin/ivyecom.cgi?a=signout";
-		sign_link.title = "Sign Out";		
-	}
+	cookie_login("http://www.gotobus.com/cgi-bin/ivyecom.cgi", "https://www.gotobus.com/cgi-bin/ivyecom.cgi")
 		var language_multi =  document.getElementById('language_multi');
 		language_multi.onmouseover=function(){CssClass.add(this,'hover')};
 		language_multi.onmouseout=function(){CssClass.remove(this,'hover')};
 		
+	
+		        function fb_conn(from_shop)
+				{
+					if (from_shop != null)
+					{
+						window.open("https://www.facebook.com/dialog/oauth?client_id=151262871602940&redirect_uri=http://www.gotobus.com/cgi-bin/facebook_s.cgi&scope=email,read_stream,publish_stream,offline_access",
+                                                                'facebook',
+                                                                'scrollbars=no,width=850,height=550,status=no,resizable=yes,left='
+                                                                + (screen.width - 850) / 2 + ',top='
+                                                                + (screen.height - 550) / 2);
+					}
+					else
+				{
+					window.open("https://www.facebook.com/dialog/oauth?client_id=151262871602940&redirect_uri=http://www.gotobus.com/cgi-bin/facebook.cgi&scope=email,read_stream,publish_stream,offline_access",
+								'facebook',
+								'scrollbars=no,width=850,height=550,status=no,resizable=yes,left='
+								+ (screen.width - 850) / 2 + ',top='
+								+ (screen.height - 550) / 2);
+					}
+				}
+			
   </script>
 	
 		<script language="javascript" src="/js/jquery/jquery.tools.min.new.js"></script>
@@ -84,7 +96,7 @@
         <div id="n_nav_m">
           <ul id="navigation" class="no_list_style">
             <li><a href="/"><span>Home</span></a></li>
-            <li><a href="/bus"><span>Bus Tickets</span></a></li>
+            <li class="n_li_active"><a href="/bus"><span>Bus Tickets</span></a></li>
             <li id="n_li_tour"><a href="/tours/"><span>Tours &amp; Vacation<label>&nbsp;</label></span></a>
                 <div class="n_menu_tourbd font12">
                   <div class="n_menu_tourbd_panel" id="toolbar_tours_vacations"><dl><dt><a href="http://www.gotobus.com/cities/">&gt;more</a>By Popular Destination</dt><dd><a href="http://www.gotobus.com/eastcoasttours/">US East Coast</a><a href="http://www.gotobus.com/westcoasttours/">US West Coast</a></dd><dd><a href="http://www.gotobus.com/newyork/">New York</a><a href="http://www.gotobus.com/losangeles/">Los Angeles</a><a href="http://www.gotobus.com/boston/">Boston</a></dd><dd><a href="http://www.gotobus.com/sanfrancisco/">San Francisco</a><a href="http://www.gotobus.com/washingtondc/">Washington D.C.</a></dd><dd><a href="http://www.gotobus.com/lasvegas/">Las Vegas</a><a href="http://www.gotobus.com/hawaii/">Hawaii</a><a href="http://www.gotobus.com/grandcanyon/">Grand Canyon</a></dd><dd><a href="http://www.gotobus.com/yellowstonetours/">Yellowstone</a><a href="http://www.gotobus.com/niagarafalls/">Niagara Falls</a><a href="http://www.gotobus.com/orlando/">Orlando</a></dd><dd><a href="http://www.gotobus.com/florida/">Florida</a><a href="http://www.gotobus.com/paris/">Paris</a><a href="http://www.gotobus.com/london/">London</a><a href="http://www.gotobus.com/shanghai/">Shanghai</a></dd></dl><dl><dt><a href="http://www.gotobus.com/cities/">&gt;more</a>By Country</dt><dd><a href="http://www.gotobus.com/australiatour/">Australia</a><a href="http://www.gotobus.com/canadatours/">Canada</a><a href="http://www.gotobus.com/china/">China</a><a href="http://www.gotobus.com/europe/">Europe</a></dd><dd><a href="http://www.gotobus.com/latinamerica/">Latin America</a><a href="http://www.gotobus.com/mexico/">Mexico</a><a href="http://www.gotobus.com/israel/">Israel</a></dd></dl><dl class="n_last"><dt>By Tour Type</dt><dd><a href="http://www.gotobus.com/adventuretravel/">Adventure Travel</a><a href="http://www.gotobus.com/luxurytravel/">Luxury Travel</a></dd><dd><a href="http://www.gotobus.com/spanishlanguagetours/">en Espanol</a><a href="http://www.gotobus.com/winetours/">Wine Tours</a></dd></dl></div>
@@ -157,24 +169,7 @@
 		change_defalut_value();
 	}).autocomplete(j_attras);
   </script>
-<div id="n_main"><div class="n_statenav"><span class="floatR" style="display:block;width:400px;text-align:right"></span><span>Privacy Notice</span></div><table align="center" width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-  <td height="2" colspan="1" bgcolor="#ffffff"></td>
-</tr>
-<tr>
-  <td width="100%" valign="top" class="ivyAdList">
-<table>
-<tbody><tr>
-  <td width="4">&nbsp;&nbsp;&nbsp;</td>
-  <td align="right" valign="top" width="16"><a href="http://www.gotobus.com/ps/p1/1093.html"><img border="0" src="/images/archive.gif"></a></td>
-  <td class="ivyPostSubject" width="98%"> <a href="http://www.gotobus.com/ps/p1/1093.html">¶©µ¥È¡Ïû¼°ÍË¿îÕþ²ß</a> 
-  </td>
-</tr>
-</tbody></table>
-</td></tr>
-</tbody></table>
-<hr color="#cccccc" size="1">
-<b>Privacy Notice</b>
+<div id="n_main"><div class="n_statenav"><span class="floatR" style="display:block;width:400px;text-align:right"></span><span>Privacy Notice</span></div><b>Privacy Notice</b>
 
 <p>
 IvyMedia (and GotoBus.com) knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting IvyMedia and GotoBus.com, you are accepting the practices described in this Privacy Notice. 
@@ -249,17 +244,23 @@ Conditions of Use, Notices, and Revisions
 If you choose to visit IvyMedia/GotoBus.com, your visit and any dispute over privacy is subject to this Notice and our User Agreement, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about privacy at IvyMedia/GotoBus.com, please send us a thorough description to support@gotobus.com, and we will try to resolve it. Our business changes constantly. This Notice and the User Agreement will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes. 
 </p>
 </div>
-	
+
 	<div id="n_bottom1">
 		<div class="blank1" style="border-bottom:solid #7bace1 4px;"></div>
-		<div id="n_bottom_nav"><a href="http://www.gotobus.com/security/" class="ftbold">Security</a> | <a href="http://www.gotobus.com/useragreement/" class="ftbold">User Agreement</a> | <a href="http://www.gotobus.com/privacy/" class="ftbold">Privacy</a> | <a href="http://www.gotobus.com/points/pointshelp/" class="ftbold">Loyalty Program</a> | <a href="http://www.gotobus.com/aboutus/" class="ftbold">About Us</a> | <a href="http://www.gotobus.com/affiliate/" class="ftbold">Affiliate Program</a> | <a target="blog" href="http://blog.gotobus.com" class="ftbold">Blog</a> | <a href="http://www.gotobus.com/workwithus/" class="ftbold">Add Your Bus</a> | <a href="http://www.gotobus.com/giftcertificate/" class="ftbold">Gift Certificate</a> <br> <a href="http://www.gotobus.com/busschedules/" class="ftbold">All Bus Schdules</a> | <a href="http://www.gotobus.com/travelcompanions/" class="ftbold">Travel Companions</a> | <a href="http://www.gotobus.com/grouptourbuscharter/" class="ftbold">Group Services</a> | <a href="http://www.gotobus.com/travelerphotos/" class="ftbold">All Traveler Photos</a> | <a href="https://www.gotobus.com/reschedulebusticket/" class="ftbold">Reschedule Bus Ticket</a> | <a href="http://www.taketours.com" class="ftbold">Take Tours</a><br>
-		  <span>Copyright © 1998-2011 by <a href="http://www.gotobus.com" target="_top">GotoBus.com</a>. All rights reserved. </span>
-		  <div id="n_bottom_picf"><img src="/images/public/index_27.gif" border="0" usemap="#Map">
-		    <map name="Map" id="Map">
-		      <area shape="rect" coords="3,18,29,45" href="http://www.facebook.com/gotobus">
-		      <area shape="rect" coords="39,17,69,46" href="http://www.twitter.com/gotobus">
-		    </map>
-		  </div>
+		
+		  <div class="con_us">
+	     <ul class="no_list_style fixfloat">
+	         <li class="ftbold" style="width:110px; line-height:32px;">Connect With Us:</li>
+	            <li style="width:100px;padding-left:36px;">
+	             <a class="ab_fb" href="http://www.facebook.com/gotobus"></a>
+			<div id="fb-root"></div>
+	            </li>
+	            <li style="width:110px;"><a class="ab_tw" href="http://www.twitter.com/gotobus">Follow us!</a></li>
+	        </ul> 
+	     </div>
+		<div id="n_bottom_nav"><a href="http://www.gotobus.com/security/" class="ftbold">Security</a> | <a href="http://www.gotobus.com/useragreement/" class="ftbold">User Agreement</a> | <a href="http://www.gotobus.com/privacy/" class="ftbold">Privacy</a> | <a href="http://www.gotobus.com/points/pointshelp/" class="ftbold">Loyalty Program</a> | <a href="http://www.gotobus.com/aboutus/" class="ftbold">About Us</a> | <a href="http://www.gotobus.com/affiliate/" class="ftbold">Affiliate Program</a> | <a target="blog" href="http://blog.gotobus.com" class="ftbold">Blog</a> | <a href="http://www.gotobus.com/workwithus/" class="ftbold">Add Your Bus</a> | <a href="http://www.gotobus.com/giftcertificate/" class="ftbold">Gift Certificate</a> <br> <a href="http://www.gotobus.com/busschedules/" class="ftbold">All Bus Schdules</a> | <a href="http://www.gotobus.com/travelcompanions/" class="ftbold">Travel Companions</a> | <a href="http://www.gotobus.com/grouptourbuscharter/" class="ftbold">Group Services</a> | <a href="http://www.gotobus.com/travelerphotos/" class="ftbold">All Traveler Photos</a> | <a href="http://www.taketours.com" class="ftbold">Take Tours</a><br>
+              <span>Copyright © 1998-2011 by <a href="http://www.gotobus.com" target="_top">GotoBus.com</a>. All rights reserved. </span>
+		
 		</div>
 	</div></div>
 
