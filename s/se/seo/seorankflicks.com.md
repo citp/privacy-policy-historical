@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the seorankflicks.com privacy policy that was archived on 2010-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100219220653id_/http%3A//www.seorankflicks.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seorankflicks.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114222945id_/http%3A//seorankflicks.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - SEORankFlicks.com
+
+#### Privacy Policy
 
 **What information do we obtain?**  
 Information is obtained by use when you sign up for SEO services. When ordering/registering on our site, you may be requested to enter your name, e-mail address, phone number and credit card information as appropriately as possible. You may, however, visit our site anonymously at any time.
@@ -36,3 +38,11 @@ If we decide to alter our privacy policy, we will post those changes on this pag
 
 **Contacting Us**  
 If there are any queries regarding this privacy policy you may contact us using the information below. 
+
+Testimonial
+
+SEORankFlicks has done an impeccable job by helping my company achieve top rankings in search engines for many competitive keywords relevant to my industry . My site now ranks in Google for keywords among millions of competing pages. I am happy that I chose them for my SEO needs!
+
+**Technotalks.com**
+
+#### Awards
