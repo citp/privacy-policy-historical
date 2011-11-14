@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the birst.com privacy policy that was archived on 2011-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110402071730id_/http%3A//www.birst.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birst.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114080045id_/http%3A//www.birst.com/privacy.shtml) for the most accurate reproduction.*
 
 # Birst - On-Demand Business Intelligence that's easy and affordable - Birst Privacy Policy
 
-Last Updated: March 16, 2011. 
+Last Updated: September 14, 2011. 
 
 Birst Inc. is committed to customer privacy. This Privacy Policy communicates our customer information gathering and dissemination practices. We reserve the right to change our Privacy Policy at any time and will provide notification of changes by posting the revised Privacy Policy on our website [www.birst.com.](http://www.birst.com/)
 
 This privacy policy covers the site [www.birst.com.](http://www.birst.com/)
 
-Birst has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at the address below. If you are not satisfied with our response you can contact [TRUSTe here.](http://watchdog.truste.com/pvr.php?page=complaint)
+Birst has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at the address below. If you are not satisfied with our response you can contact [TRUSTe here.](http://watchdog.truste.com/pvr.php?page=complaint) The TRUSTe program only covers information collected through this Web site, prior to the log in feature.
 
-_Birst complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union_
+_Birst complies with the U.S. - E.U. & U.S. - Swiss Safe Harbor frameworks as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland. Information regarding the U.S. - E.U. & U.S. - Swiss Safe Harbor Frameworks can be found at: <http://export.gov/safeharbor>._
 
 ## When Information Is Collected
 
@@ -56,7 +56,7 @@ In order to improve birst.com and provide a more convenient, relevant user exper
 
 We and third parties use local shared objects, also known as Flash cookies. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. 
 
-Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here. 
+Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager04.html). 
 
 ## Legal Disclaimer
 
@@ -68,7 +68,7 @@ The Company does not share, sell, rent, or trade PII with third parties for thei
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the changes taking effect. 
 
 ## Hosted Service
 
