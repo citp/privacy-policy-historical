@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the knitpicks.com privacy policy that was archived on 2011-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110516063835id_/http%3A//www.knitpicks.com/cfhelp/Index.cfm%3Ftype%3Dkp%26CSCatID%3D30%26CSItemID%3D23) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the knitpicks.com privacy policy that was archived on 2011-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111114020327id_/http%3A//www.knitpicks.com/cfhelp/Index.cfm%3Ftype%3Dkp%26CSCatID%3D30%26CSItemID%3D23) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head> 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
+ 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Knit Picks Customer Service Help Index</title>
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
@@ -15,13 +17,13 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="verify-v1" content="jgbZDek/2TdfG6gwDe0ONnonoqTBpT08JtgLYpSsE6E=">
 <meta name="ROBOTS" content="NOODP">
-<link href="/cfCSS/siteMaster.css?version=3" rel="stylesheet" type="text/css">
+<link href="/cfCSS/siteMaster.css?version=4" rel="stylesheet" type="text/css">
 
 
 
 <link href="/cfCSS/safariChromeFixes.css?version=1" rel="stylesheet" type="text/css">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript">
 if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent)){ //test for Firefox/x.x or Firefox x.x (ignoring remaining digits);
   var ffversion=new Number(RegExp.$1); // capture x.x portion and store as a number
   if (ffversion==3.0){
@@ -44,6 +46,23 @@ if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent)){ //test for Firefox/x.x
 	  $("#closeCartQuickView").click(function(){
 		$("#cartQuickView").slideToggle("medium");
 	  });
+	  
+	  $("#loginHdrLink").click(function(){
+	    $("#loginFormContainer").slideToggle("medium");
+		return false;
+	  });
+	  $("#loginFormContainer #ecart_login_form1 input#login_pass").keydown(function(e){
+		if (e.keyCode == 13) {
+            $("#loginFormContainer #ecart_login_form1").submit();
+            return false;
+        }
+	  });
+	  $("#loginFormContainer #ecart_login_form2 input").keydown(function(e){
+		if (e.keyCode == 13) {
+            $("#loginFormContainer #ecart_login_form2").submit();
+            return false;
+        }
+	  });
   });
 </script>
 
@@ -58,6 +77,22 @@ if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent)){ //test for Firefox/x.x
   }
 </script>
 
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3368404-1']);
+  _gaq.push(['_setDomainName', 'knitpicks.com']);
+  _gaq.push(['_setCustomVar',1,'media90','WEB99999',2]); _gaq.push(['_setCustomVar',3,'sourcecode','NoSourceCode',2]); 
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script> 
         
 <!--[if IE 8]>
     <link href="/cfCSS/IE8Fixes.css?version=3" rel="stylesheet" type="text/css" />
@@ -74,22 +109,114 @@ if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent)){ //test for Firefox/x.x
 
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
-
-
+<script type="text/javascript">
+	if (window.ColdFusion) ColdFusion.required['login_email']=true;
+</script>
 
 <script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-3368404-1']);
-  _gaq.push(['_setDomainName', 'knitpicks.com']);
-  _gaq.push(['_setCustomVar',1,'media90','WEB99999',2]); _gaq.push(['_setCustomVar',3,'sourcecode','NoSourceCode',2]); 
-  _gaq.push(['_trackPageview']);
+	if (window.ColdFusion) ColdFusion.required['login_pass']=true;
+</script>
+<script type="text/javascript">
+<!--
+    _CF_checkecart_login_form1 = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script> 
+        //form element login_email required check
+        if( _CF_hasValue(_CF_this['login_email'], "TEXT", true ) )
+        {
+            //form element login_email 'EMAIL' validation checks
+            if (!_CF_checkEmail(_CF_this['login_email'].value, true))
+            {
+                _CF_onError(_CF_this, "login_email", _CF_this['login_email'].value, "Your Email Address is required to log in.");
+                _CF_error_exists = true;
+            }
+
+        }else {
+            _CF_onError(_CF_this, "login_email", _CF_this['login_email'].value, "Your Email Address is required to log in.");
+            _CF_error_exists = true;
+        }
+
+        //form element login_pass required check
+        if( !_CF_hasValue(_CF_this['login_pass'], "PASSWORD", true ) )
+        {
+            _CF_onError(_CF_this, "login_pass", _CF_this['login_pass'].value, "Your Password is required to log in.");
+            _CF_error_exists = true;
+        }
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
+
+<script type="text/javascript">
+	if (window.ColdFusion) ColdFusion.required['create_email']=true;
+</script>
+<script type="text/javascript">
+<!--
+    _CF_checkecart_login_form2 = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+        //form element create_email required check
+        if( _CF_hasValue(_CF_this['create_email'], "TEXT", false ) )
+        {
+            //form element create_email 'EMAIL' validation checks
+            if (!_CF_checkEmail(_CF_this['create_email'].value, true))
+            {
+                _CF_onError(_CF_this, "create_email", _CF_this['create_email'].value, "Your Email Address is required to create a new account.");
+                _CF_error_exists = true;
+            }
+
+        }else {
+            _CF_onError(_CF_this, "create_email", _CF_this['create_email'].value, "Your Email Address is required to create a new account.");
+            _CF_error_exists = true;
+        }
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
 </head>
 
 <body id="SiteBody" class="" runat="server">
@@ -101,7 +228,64 @@ if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent)){ //test for Firefox/x.x
           
           <div id="custInfoBox">
             
-              You are not logged in. <a href="/cfCart/login.cfm">(Login)</a>
+              You are not logged in. <a href="/cfCart/login.cfm" id="loginHdrLink" onclick="return false;">(Login)</a>
+              
+              <div id="loginFormContainer" style="display:none;">
+                
+<div id="loginFormHdr">Log In or Create a New Member Account Below</div><br>
+  
+  <div style="float:left;">
+  <form name="ecart_login_form1" id="ecart_login_form1" action="https://www.knitpicks.com/cfCart/Login_inline_controller.cfm" method="post" onsubmit="return _CF_checkecart_login_form1(this)"><input name="task" id="task" type="hidden" value="login">
+      
+      <div class="loginFormHdr">Returning Customers Log In</div>
+      <table border="0" cellpadding="5" cellspacing="0" class="loginFormTbl" width="265">
+        
+          <tbody><tr>
+              <th><label for="login_email">Email Address:</label></th>
+              <td>
+                <input name="login_email" type="text" id="login_email"></td>
+          </tr>
+          <tr>
+              <th><label for="login_pass">Password:</label></th>
+              <td>
+                <input name="login_pass" type="password" id="login_pass"></td>
+          </tr>
+          <tr>
+              <td colspan="2" id="loginBtn">
+                <input type="image" src="/WA_eCart/Images/Pacifica/login.jpg" align="absmiddle"><br>
+                <a href="/cfCart/ForgotPassword.cfm" id="forgotPW" title="Forgot my Password">
+                  Forgot your password? Click here »
+                </a>
+              </td>
+          </tr>
+      </tbody></table>
+      <input name="returnURL" id="returnURL" type="hidden" value="/cfhelp/Index.cfm?type=kp&amp;CSCatID=30&amp;CSItemID=23"> </form>
+
+  </div>
+  <div style="float:right;">
+  <form name="ecart_login_form2" id="ecart_login_form2" action="https://www.knitpicks.com/cfCart/Login_inline_controller.cfm" method="post" onsubmit="return _CF_checkecart_login_form2(this)"><input name="task" id="task" type="hidden" value="create">
+      
+      <div class="loginFormHdr">Create New Member Account</div>
+      <table border="0" cellpadding="5" cellspacing="0" class="loginFormTbl" width="265">
+        
+          <tbody><tr>
+              <th><label for="login_email">Email Address:</label></th>
+              <td>
+                <input name="create_email" type="text" id="create_email"></td>
+          </tr>
+          <tr>
+              <td colspan="2" id="loginBtn">
+                <input type="image" src="/WA_eCart/Images/Pacifica/createAcct.jpg" align="absmiddle">
+              </td>
+          </tr>
+      </tbody></table>
+      <input name="returnURL" id="returnURL" type="hidden" value="/cfhelp/Index.cfm?type=kp&amp;CSCatID=30&amp;CSItemID=23"> </form>
+
+  </div>
+  <br clear="all">
+  <a href="#" onclick="$('div#loginFormContainer').slideUp();return false;" style="float:right;">(close this window)</a>
+  
+              </div>
             
           </div>
           <br clear="all">
@@ -121,6 +305,9 @@ if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent)){ //test for Firefox/x.x
             
 			
             <img src="/kpimages/structure/cartQuickView_btn.jpg" id="cartQuickViewBtn" style="cursor:pointer;">
+            <br clear="all">
+            
+            
             
 
 <div id="cartQuickViewContainer">
@@ -143,30 +330,36 @@ if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent)){ //test for Firefox/x.x
 </div>
 </div>
 
-            <br clear="all">
-            
-            
-              
-                <span class="cartLinks"><a href="http://www.knitpicks.com/cfcart/cart.cfm?tab=wishList" rel="nofollow">Wish List</a> · 
-                <a href="http://www.knitpicks.com/cfCart/PatternLibrary.cfm" rel="nofollow">Pattern Library</a> ·
-                <a href="http://www.knitpicks.com/cfCart/giftorder.cfm" rel="nofollow">Gift Cards</a> ·
-                <a href="http://www.knitpicks.com/cfhelp/index.cfm" rel="nofollow">Help</a></span>
-              
+              <span class="cartLinks"><a href="http://www.knitpicks.com/cfcart/cart.cfm?tab=wishList" rel="nofollow">Wish List</a> · 
+              <a href="http://www.knitpicks.com/cfCart/PatternLibrary.cfm" rel="nofollow">Pattern Library</a> ·
+              <a href="http://www.knitpicks.com/cfCart/giftorder.cfm" rel="nofollow">Gift Cards</a> ·
+              <a href="http://www.knitpicks.com/cfhelp/index.cfm" rel="nofollow">Help</a></span>
+                        
           </div>
 
-          <a href="http://www.knitpicks.com"><h1 id="logoHeader" title="Knitting Books, Knitting Yarn, Knitting Patterns, Knitting Tools and more"></h1></a>
+		  
+          <a href="http://www.knitpicks.com" style="float:left;margin: 0 9px 0 -23px;">
+          	<img src="/kpimages/Holiday2011/kpLogoPurple.gif" border="0">
+          </a>
+          
+          
+          <a href="http://www.knitpicks.com/Holiday/Holiday_Knitting.html?intmedid=Header-HolidayStore">
+            <h1 id="logoHeader" style="background-image:url('/KPimages/Holiday2011/HomePageHeader.gif');width:419px;margin-left:0px;" title="Knit Picks Customer Service Help Index"></h1>
+          </a>
 			
 		</div> 
 		
-		<div id="logoBlurb" title="Passionately committed to affordable luxury knitting.">
+		<div id="logoBlurb" title="Knit Picks Customer Service Help Index">
 			<b>Knit Picks: Passionately committed to affordable luxury knitting.</b>
 		    
             
             <div id="searchBar">
                 <div id="AllProductSearch" class="clearfix">
 				        <label>Search&nbsp;</label>
-				        <input type="text" id="searchWords" onkeypress="javascript: if (event.keyCode == 13) {siteSearch(document.getElementById('searchWords').value);return false;}" name="searchWords" value="Enter keywords or item #" onfocus="document.getElementById('searchWords').value='';document.getElementById('searchWords').style.color='#660055';"> 
-				        <input type="image" id="keywordOnly" name="keywordOnly" onclick="javascript: siteSearch(document.getElementById('searchWords').value);return false;" alt="FIND" src="/kpimages/structure/goBtn.gif">
+                        <form method="get" action="/cfSearch/Search.cfm" onsubmit="_gaq.push(['_trackEvent', 'Search', 'Search-Spring']);">
+                            <input type="text" name="q" id="searchWords" class="searchspring-query" autocomplete="off" value="" onfocus="document.getElementById('searchWords').value='';document.getElementById('searchWords').style.color='#660055';">
+                            <input type="image" id="keywordOnly" name="keywordOnly" alt="FIND" src="/kpimages/structure/goBtn.gif">
+                        </form>
 		        </div>
 		    </div>
             
@@ -182,22 +375,24 @@ if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent)){ //test for Firefox/x.x
           
             
             <li onmouseover="showDropDownNav('yarnDropDownNav')" onmouseout="hideDropDownNav('yarnDropDownNav')">
-              <a href="http://www.knitpicks.com/yarns/knitting_yarns.html" id="yarn" class="main" title="Knitting Yarns and Knitting Kits">Yarns &amp; Kits</a>
+              <a href="http://www.knitpicks.com/yarns/knitting_yarns.html" id="yarn" class="main" title="Knitting Yarn and Knitting Kits">Yarn &amp; Kits</a>
               
                 <div style="visibility:hidden;" id="yarnDropDownNav" class="dropDownNav">
                   Jump To: <br>
                   
                       <a href="/yarns/New_Knitting_Yarns__L300112.html" title="Newest Yarn Lines">Newest Yarn Lines</a>
                     
-                      <a href="/kits/knitting_kits.html" title="Kits &amp; Samplers">Kits &amp; Samplers</a>
+                      <a href="/kits/knitting_kits.html" title="Exclusive Kits">Exclusive Kits</a>
+                    
+                      <a href="/Kits/Knitting_Yarn_Samplers__L300807.html" title="Yarn Samplers">Yarn Samplers</a>
                     
                       <a href="/cfYarns/yarn_colors_list.cfm?id=300109" title="Sale Yarn">Sale Yarn</a>
                     
-                      <a href="/cfYarns/yarnCats/Sock_Yarn.cfm" title="Sock Yarn">Sock Yarn</a>
+                      <a href="/yarns/Sock_Knitting_Yarn__L300106.html" title="Sock Yarn">Sock Yarn</a>
                     
                       <a href="/yarns/Machine_Washable_Knitting_Yarn__L300104.html" title="Washable">Washable</a>
                     
-                      <a href="/cfYarns/yarnCats/Lace_Yarn.cfm" title="Lace">Lace</a>
+                      <a href="/Yarns/Lace_Weight_Knitting_Yarn__L30010102.html" title="Lace">Lace</a>
                     
                       <a href="/yarns/Fingering_Weight_Knitting_Yarn__L30010103.html" title="Fingering">Fingering</a>
                     
@@ -220,7 +415,7 @@ if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent)){ //test for Firefox/x.x
                     
                       <a href="/patterns/FREE_Knitting_Patterns__L300218.html" title="Free">Free</a>
                     
-                      <a href="/cfPromo/EBooks_Knitting_Patterns.cfm" title="eBooks">eBooks</a>
+                      <a href="/cfPatterns/EBooks_List.cfm" title="eBooks">eBooks</a>
                     
                       <a href="/Patterns/Independent_Designer_Crochet_Patterns-$1.99__L300232.html" title="Crochet">Crochet</a>
                     
@@ -292,6 +487,8 @@ if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent)){ //test for Firefox/x.x
               
             </li>
             
+            <li><a href="http://www.knitpicks.com/clearance/knitting_clearance.html" id="clearance" class="main" title="Clearance Knitting Supplies">Clearance</a></li>
+            
             
             
             <li id="last" onmouseover="showDropDownNav('tutorialsDropDownNav')" onmouseout="hideDropDownNav('tutorialsDropDownNav')">
@@ -300,15 +497,15 @@ if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent)){ //test for Firefox/x.x
                 <div style="visibility:hidden;" id="tutorialsDropDownNav" class="dropDownNav">
                   Jump To: <br>
                   
-                      <a href="/tutorials/Beginner_Tutorials__L1001.html" title="Beginner">Beginner</a>
+                      <a href="/tutorials/Gauge__L10070101.html" title="Getting Started">Getting Started</a>
                     
-                      <a href="/tutorials/Project_Tutorials__L1004.html" title="Projects">Projects</a>
+                      <a href="/tutorials/Knit__L10070201.html" title="The Basics">The Basics</a>
                     
-                      <a href="/tutorials/Technique_Tutorials__L1005.html" title="Techniques">Techniques</a>
+                      <a href="/tutorials/Scarf__L10071201.html" title="Projects">Projects</a>
                     
-                      <a href="/tutorials/Video_Tutorials__L1002.html" title="Videos">Videos</a>
+                      <a href="/tutorials/Reference__L100716.html" title="Reference">Reference</a>
                     
-                      <a href="/tutorials/Glossary_of_Terms__D138.html" title="Glossary">Glossary</a>
+                      <a href="/tutorials/Video_Tutorials__L100719.html" title="Videos">Videos</a>
                     
                 </div>
               
@@ -695,6 +892,7 @@ if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent)){ //test for Firefox/x.x
                 <a href="http://www.knitpicks.com/cfhelp/Index.cfm?type=kp&amp;CSCatID=25">· Shipping Info</a><br>
                 <a href="http://www.knitpicks.com/cfCart/orderstatus.cfm">· Order Tracking</a><br>
                 <a href="http://www.knitpicks.com/cfCart/account.cfm">· My Account</a><br>
+                <a href="http://www.knitpicks.com/cfPromo/Knitting_Yarn_Care_Recommendations.cfm">· Yarn Care<br>&nbsp; Guidelines</a><br>
               </div>
           </div>
   
