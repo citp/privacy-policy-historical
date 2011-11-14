@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the inficon.com privacy policy that was archived on 2011-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110517031735id_/http%3A//www.inficon.com/en/corporate/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the inficon.com privacy policy that was archived on 2011-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111115000045id_/http%3A//www.inficon.com/en/corporate/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -14,8 +14,50 @@
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.inficon.com/en/ema/includes/swfobject.js"></script>
 <script type="text/javascript" src="http://www.inficon.com/en/ema/includes/base16.js"></script>
 <script type="text/javascript" src="http://www.inficon.com/en/shared.js"></script>
+<script type="text/javascript" src="http://www.inficon.com/en/script/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.inficon.com/en/script/videos.js"></script>
 
+
+<style type="text/css">
+.worldwide a {
+    text-transform: uppercase;
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    display: block;
+    text-align: center;
+}
+</style>
 <script type="text/javascript">
+var firstRun = 1;
+$(document).ready( function () {
+    var flyouts = [ 'flyout', 'flyout2', 'flyout3' ];
+    for (var i = 0; i < flyouts.length; i++) {
+        var flyout = $('#' + flyouts[i]);
+        var p = flyout.parent();
+        $(p).hover( function () { 
+            var $this = $(this);
+            var $children = $this.children('div');
+            if ($.browser.msie)
+                $children.addClass('sfhover');
+
+            var offset1 = $this.offset();
+            var offset2 = $children.offset();
+            offset2.left = offset1.left;
+            if ($.browser.msie)
+                offset2.top = offset1.top + 23;
+            $children.show().offset( offset2 );
+        },
+        function () {
+            var $this = $(this);
+            if ($.browser.msie) {
+                var $children = $this.children('div');
+                $children.removeClass('sfhover');
+            }
+        } );
+    }
+} );
+
 <!--
 function MM_jumpMenuGo(objId,targ,restore){ //v9.0
   var selObj = null;  with (document) { 
@@ -26,24 +68,6 @@ function MM_jumpMenuGo(objId,targ,restore){ //v9.0
 //-->
 </script>
 
-<!--[if (gte IE 5.5) & (lte IE 7)]>
-<script type="text/javascript">
-
-sfHover = function() {
-	var sfEls = document.getElementById("nav").getElementsByTagName("LI");
-	for (var i=0; i<sfEls.length; i++) {
-		sfEls[i].onmouseover=function() {
-			this.className+=" sfhover";
-		}
-		sfEls[i].onmouseout=function() {
-			this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
-		}
-	}
-}
-if (window.attachEvent) window.attachEvent("onload", sfHover);
-
-</script>
-<![endif]-->
 
 <!-- Begin Google Analytics -->
 <script type="text/javascript">
@@ -58,11 +82,13 @@ _gaq.push(['_trackPageview']);
 })();
 </script>
 <script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-576131-1");
-pageTracker._initData();
-pageTracker._setDomainName("none");
-pageTracker._setAllowLinker(true); 
-pageTracker._trackPageview("/www.inficon.com/corporate/privacy-policy.html");
+if (typeof(_gat) == 'object') {
+    var pageTracker = _gat._getTracker("UA-576131-1");
+    pageTracker._initData();
+    pageTracker._setDomainName("none");
+    pageTracker._setAllowLinker(true); 
+    pageTracker._trackPageview("/www.inficon.com/corporate/privacy-policy.html");
+}
 </script>
 <!-- End Google Analytics -->
 
@@ -75,14 +101,13 @@ pageTracker._trackPageview("/www.inficon.com/corporate/privacy-policy.html");
       <td bgcolor="#e0e2ed" align="center" valign="top">
         <table width="82" border="0" cellpadding="0" cellspacing="0">
           <tbody><tr>
-            <td align="center" valign="top" bgcolor="#FFFFFF">
-	      <a href="http://www.inficon.com/en/index.html" onclick="pageTracker._link('http://www.inficon.com/en/index.html'); return false;"><img src="http://www.inficon.com/en/images/007/languages/l_english.gif" border="0"></a>
-	      <br><a href="http://www.inficon.com/de/worldwide/index.html" onclick="pageTracker._link('http://www.inficon.com/de/worldwide/index.html'); return false;"><img src="http://www.inficon.com/en/images/007/languages/l_german.gif" border="0"></a>
-	      <br><a href="http://www.inficon.com/zh/worldwide/index.html" onclick="pageTracker._link('http://www.inficon.com/zh/worldwide/index.html'); return false;"><img src="http://www.inficon.com/en/images/007/languages/l_chinese.gif" border="0"></a>
-	      <br><a href="http://www.inficon.com/ko/worldwide/index.html" onclick="pageTracker._link('http://www.inficon.com/ko/worldwide/index.html'); return false;"><img src="http://www.inficon.com/en/images/007/languages/l_korean.gif" border="0"></a>
+            <td align="center" valign="top" bgcolor="#FFFFFF" class="worldwide">
+	      <a href="http://www.inficon.com/en/index.html" onclick="pageTracker._link('http://www.inficon.com/en/index.html'); return false;"><br>English</a>
+	      <br><a href="http://www.inficon.com/de/index.html" onclick="pageTracker._link('http://www.inficon.com/de/index.html'); return false;">Deutsch</a>
+	      <br><a href="http://www.inficon.com/es/index.html" onclick="pageTracker._link('http://www.inficon.com/es/index.html'); return false;">Español</a>
+	      <br><a href="http://www.inficon.com/zh/index.html" onclick="pageTracker._link('http://www.inficon.com/zh/index.html'); return false;"><img src="http://www.inficon.com/en/images/007/languages/l_chinese.gif" border="0"></a>
+	      <br><a href="http://www.inficon.com/ko/index.html" onclick="pageTracker._link('http://www.inficon.com/ko/index.html'); return false;"><img src="http://www.inficon.com/en/images/007/languages/l_korean.gif" border="0"></a>
 	      <br><a href="http://www.inficon.jp/index.html" onclick="pageTracker._link('http://www.inficon.jp/index.html'); return false;"><img src="http://www.inficon.com/en/images/007/languages/l_japanese.gif" border="0"></a>
-	      <br><a href="http://www.inficon.com/zh-tw/worldwide/index.html" onclick="pageTracker._link('http://www.inficon.com/zh-tw/worldwide/index.html'); return false;"><img src="http://www.inficon.com/en/images/007/languages/l_taiwanese.gif" border="0"></a>
-	      <br><a href="http://www.inficon.com/zh-hk/worldwide/index.html" onclick="pageTracker._link('http://www.inficon.com/zh-hk/worldwide/index.html'); return false;"><img src="http://www.inficon.com/en/images/007/languages/l_hongkong.gif" border="0"></a>
             </td>
           </tr>
         </tbody></table>
@@ -213,7 +238,7 @@ pageTracker._trackPageview("/www.inficon.com/corporate/privacy-policy.html");
 																</li>
 																<li><a href="http://www.inficonmilitary.com/en//index.html" onclick="pageTracker._link('http://www.inficonmilitary.com/en//index.html'); return false;" class="utilityNav">Military</a>
 																</li>
-																<li><a href="http://www.inficonpetrochemical.com/en//index.html" onclick="pageTracker._link('http://www.inficonpetrochemical.com/en//index.html'); return false;" class="utilityNav">Petrochemical</a>
+																<li><a href="http://www.inficonpetrochemical.com/en//index.html" onclick="pageTracker._link('http://www.inficonpetrochemical.com/en//index.html'); return false;" class="utilityNav">Alternative Energy and Petrochemical</a>
 																</li>
 																
 													</ul>
@@ -306,6 +331,9 @@ pageTracker._trackPageview("/www.inficon.com/corporate/privacy-policy.html");
 														<li>
 																<a href="http://www.inficon.com/en/newsroom/index.html" onclick="pageTracker._link('http://www.inficon.com/en/newsroom/index.html'); return false;" class="utilityNav">News</a>
 														</li>
+														<li>
+																<a href="http://www.inficon.com/en/corporate/po_terms.html" onclick="pageTracker._link('http://www.inficon.com/en/corporate/po_terms.html'); return false;" class="utilityNav">Purchasing Terms and Conditions</a>
+														</li>
 													</ul>						
 												</div>	
 													
@@ -343,7 +371,7 @@ pageTracker._trackPageview("/www.inficon.com/corporate/privacy-policy.html");
     	<tbody><tr>
         	<td valign="top" colspan="3" style="padding-left: 17px;">
             	<table cellpadding="0" cellspacing="0" border="0" width="918">
-                	<tbody><tr>
+                    <tbody><tr>
                     	<td background="http://www.inficon.com/ema/images/background-tab-secondary-top.gif" width="918" height="37" style="padding-left: 5px;" colspan="2">
                         	<div style="width: 160px; text-align:center" class="subhead">Privacy Policy</div>
                         </td>
@@ -358,7 +386,7 @@ pageTracker._trackPageview("/www.inficon.com/corporate/privacy-policy.html");
                         	<!--LEFT NAV -->
                             <table cellpadding="0" cellspacing="0" border="0">
                             	<tbody><tr>
-                                	<td background="http://www.inficon.com/ema/images/background-tab-secondary-nav.gif" width="201" height="33" style="padding-left: 9px;" colspan="3">
+                                    <td background="http://www.inficon.com/ema/images/background-tab-secondary-nav.gif" width="201" height="33" style="padding-left: 9px;" colspan="3">
                                         <div style="width: 150px; text-align: left" class="subheadNav">Categories:</div>
                                         <img src="http://www.inficon.com/en/ema/images/spacer.gif" width="201" height="1"><br>
                                     </td>
@@ -371,21 +399,22 @@ pageTracker._trackPageview("/www.inficon.com/corporate/privacy-policy.html");
                                        <table cellpadding="0" cellspacing="0" border="0" width="194">
                                        	<tbody><tr>
                                         	<td class="leftNav" valign="top" width="9">&gt;</td>
-                                            <td width="181" valign="top" class="leftNav">
-                                            	<a class="leftNav" href="index.html">About</a>                                            </td>
+                                                <td width="181" valign="top" class="leftNav">
+                                              	  <a class="leftNav" href="index.html">About</a>
+						</td>
                                         </tr>
                                         <tr>
                                         	<td class="leftNav" valign="top" width="9">&gt;</td>
-                                            <td valign="top" class="leftNav">
-                                            	<a class="leftNav" href="locations.html">Locations</a>
-                                            </td>
+                                                <td valign="top" class="leftNav">
+                                            	  <a class="leftNav" href="locations.html">Locations</a>
+                                                </td>
                                         </tr>
                                       
                                         
                                         <tr>
                                         	<td class="leftNav" valign="top" colspan="2">
-                                            	<img src="http://www.inficon.com/en/ema/images/spacer.gif" height="80"><br>
-                                            </td>
+                                            	  <img src="http://www.inficon.com/en/ema/images/spacer.gif" height="80"><br>
+                                            	</td>
                                         </tr>
                                        </tbody></table>
                                     </td>
@@ -403,28 +432,28 @@ pageTracker._trackPageview("/www.inficon.com/corporate/privacy-policy.html");
                             <table cellpadding="0" cellspacing="0" border="0">
                             	<tbody><tr>
                                 	<td background="http://www.inficon.com/ema/images/background-tab-secondary-left.gif" width="201" height="33" style="padding-left: 9px;" colspan="3">
-                                        <div style="width: 150px; text-align: left" class="textFeaturedProductBold"></div>
-                                        <img src="http://www.inficon.com/en/ema/images/spacer.gif" width="201" height="1"><br>
-                                    </td>
+                                          <div style="width: 150px; text-align: left" class="textFeaturedProductBold"></div>
+                                          <img src="http://www.inficon.com/en/ema/images/spacer.gif" width="201" height="1"><br>
+                                    	</td>
                                 </tr>
                                 <tr>
-                                    <td width="1" bgcolor="#cccccc">
-                                        <img src="http://www.inficon.com/en/ema/images/spacer.gif" width="1"><br>
-                                    </td>
-                                    <td bgcolor="#eeeeee" style="padding-left: 7px; padding-right: 7px; padding-top:7px;" valign="top" width="194">
-                                       <table cellpadding="0" cellspacing="0" border="0" width="194">
-                                       	<tbody><tr>
+                                    	<td width="1" bgcolor="#cccccc">
+                                          <img src="http://www.inficon.com/en/ema/images/spacer.gif" width="1"><br>
+                                    	</td>
+                                    	<td bgcolor="#eeeeee" style="padding-left: 7px; padding-right: 7px; padding-top:7px;" valign="top" width="194">
+                                          <table cellpadding="0" cellspacing="0" border="0" width="194">
+                                       	    <tbody><tr>
                                         	<td valign="bottom" width="61"><span class="sidebarFeaturedProducts"><a href="" class="subheadNavGray"></a></span><a href="" class="subheadNav">&nbsp;<img src="http://www.inficon.com/en/ema/images/iconArrow.gif" border="0"></a><br>
                                         	    <br></td>
-                                            <td width="133" valign="top" class="leftNav" align="right">
-						
-				            </td>
-                                        </tr>
-                                       </tbody></table>
-                                    </td>
-                                    <td width="1" bgcolor="#cccccc">
-                                        <img src="http://www.inficon.com/en/ema/images/spacer.gif" width="1"><br>
-                                    </td>
+                                                <td width="133" valign="top" class="leftNav" align="right">
+						    
+				                </td>
+                                            </tr>
+                                           </tbody></table>
+                                        </td>
+                                        <td width="1" bgcolor="#cccccc">
+                                            <img src="http://www.inficon.com/en/ema/images/spacer.gif" width="1"><br>
+                                        </td>
                                 </tr>
                                 <tr>
                                     <td width="1" height="1" bgcolor="#cccccc" colspan="3">
@@ -433,8 +462,8 @@ pageTracker._trackPageview("/www.inficon.com/corporate/privacy-policy.html");
                                 </tr>
                             </tbody></table>
                         </td>
-                        <td width="100%" valign="top" style="padding-top: 4px; padding-left:20px;">
-                        	<table cellpadding="0" cellspacing="0" border="0" width="100%">
+                        <td valign="top" style="padding-top: 4px; padding-left:20px;" bgcolor="white">
+                            <table cellpadding="0" cellspacing="0" border="0" width="100%">
                             	<tbody><tr>
                                 	<td style="padding: 5px;" colspan="2">
 <span class="bodytext">INFICON respects the individual privacy of its employees, vendors, consumers, business partners and others. As a user of this website, your privacy is very important to us and we want you to know how we protect the privacy of our visitors. INFICON aims to collect, use, and disclose the personal information of our sites visitors in a manner consistent with the laws of the countries in which we do business. Please take a moment to read the following policy describing our tactics for collecting and using personally identifiable data on our website, inficon.com. If you do not agree with the following policy, please do not use this website.</span><br>
@@ -484,7 +513,7 @@ pageTracker._trackPageview("/www.inficon.com/corporate/privacy-policy.html");
                     	<td width="645" bgcolor="#d5dee8" class="utilityNav" style=" width: 635px; padding: 5px;">
                          &nbsp;
                            
-						<a href="http://www.inficon.com/en/corporate/contact.html" onclick="pageTracker._link('http://www.inficon.com/en/corporate/contact.html'); return false;" class="utilityNav">Contact&nbsp;Us</a>&nbsp;|&nbsp;&nbsp;
+						<a href="http://www.inficon.com/en/corporate/contact.html" onclick="pageTracker._link('http://www.inficon.com/en/corporate/contact.html'); return false;" class="utilityNav">Contact Us</a>&nbsp;|&nbsp;&nbsp;
                          
                          <a href="http://www.inficon.com/en/corporate/privacy-policy.html" onclick="pageTracker._link('http://www.inficon.com/en/corporate/privacy-policy.html'); return false;" class="utilityNav">Privacy</a>&nbsp;|&nbsp;&nbsp;
                          
@@ -497,7 +526,7 @@ pageTracker._trackPageview("/www.inficon.com/corporate/privacy-policy.html");
         					<img src="http://www.inficon.com/en/ema/images/spacer.gif" width="7"><br>
         				</td>
                         <td bgcolor="#2e598a" class="utilityNav" style=" width: 257px; padding: 5px;">
-                         <span class="utilityNav" style="color:#FFFFFF;">&nbsp;&nbsp;Copyright ©
+                         <span class="utilityNav" style="color:#FFFFFF;">Copyright ©
 2011
           
                         	
