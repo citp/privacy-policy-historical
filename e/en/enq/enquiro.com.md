@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the enquiro.com privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311055312id_/http%3A//www.enquiro.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enquiro.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114063816id_/http%3A//www.enquiro.com/privacy-policy.php) for the most accurate reproduction.*
 
 # B2B Search Engine Marketing | Research | SEO and PPC Management - Enquiro
+
+Privacy Policy 
 
 **Collection:**  
 Contact information will be collected as part of the signup process, such as your e-mail address, name, company name and telephone number. 
@@ -19,5 +21,5 @@ The Privacy Officer is responsible for ensuring Enquiro's compliance with this p
 Clients should direct any complaints, concerns or questions regarding Enquiro's compliance in writing to the Privacy Officer. If the Privacy Officer is unable to resolve the concern, the client may also write to the Information and Privacy Commissioner of British Columbia.
 
 Contact information for Enquiro's Privacy Officer:  
-Barb Newman 250-861-5252  
-[barb@enquiro.com ](mailto:barb@enquiro.com)
+Bill Barnes250-861-5252  
+[bill@enquiro.com ](mailto:bill@enquiro.com)
