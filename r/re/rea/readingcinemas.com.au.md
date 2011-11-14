@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the readingcinemas.com.au privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220222342id_/http%3A//www.readingcinemas.com.au/home/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingcinemas.com.au privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114175405id_/http%3A//reelclub.com.au/privacy_policy) for the most accurate reproduction.*
 
-# Reading Cinemas - Privacy Policy
+# Reading Cinemas
+
+**PRIVACY POLICY**
 
 Reading Entertainment Australia Pty Limited ACN 070 893 908 and its related entities (Reading) are committed to preserving your privacy, and this Privacy Statement reflects our firm commitment to you. It sets out our policies in relation to the way we collect and handle personal information. We encourage you to check our privacy statement regularly as this Privacy Statement may change from time to time.
 
@@ -19,7 +21,7 @@ We collect personal information from you in a variety of ways. For example, we m
 
 
 
-**Information provided by you**
+_Information provided by you_
 
 You provide most of the personal information directly to us and for a specific purpose.
 
@@ -33,11 +35,11 @@ We may also give you the opportunity to be contacted by email or SMS so that we 
 
 We collect financial information (such as credit card information) from you in order to receive payment from you for products and services which you order.
 
-**Competitions**
+_Competitions_
 
 From time to time, we conduct competitions and give you the choice of receiving further contact from us. Unless you make the choice for us to contact you further, the personal information which we collect from your entry into the competition will not be used for any purpose other than for the competition.
 
-**Information provided by "cookies" technology**
+_Information provided by "cookies" technology_
 
 When you visit our web site, "cookies" technology allows us to identify your movements around our site. This information provides us with constructive feedback about our site so that we can identify the most effective areas and improve the less popular ones.
 
@@ -49,9 +51,9 @@ A cookie file can contain information such as your user ID in order to track the
 
 The only personal information a cookie can contain is information you supply yourself.
 
-**Sensitive Information**
+_Sensitive Information_
 
-We do not collect any information about your racial or ethnic origin, political opinions or membership, religious or philosophical beliefs, trade association or union membership, sexual preferences or criminal record, unless: 
+We do not collect any information about your racial or ethnic origin, political opinions or membership, religious or philosophical beliefs, trade association or union membership, sexual preferences or criminal record, unless:
 
   * you have given us specific consent to do so, or 
   * where we are required by law to do so, or 
@@ -66,9 +68,9 @@ We use personal information primarily for the purpose for which it was collected
 
 In relation to our loyalty program, information we collect may be used to invite loyalty program members to special screenings and events as well as to make special ticket and promotional offers.
 
-**Use of the information for a secondary purpose**
+_Use of the information for a secondary purpose_
 
-We may sometimes use the personal information we collect for a secondary purpose, that is, for use in a way different from the original reason for collection. We will only do this in the following circumstances: 
+We may sometimes use the personal information we collect for a secondary purpose, that is, for use in a way different from the original reason for collection. We will only do this in the following circumstances:
 
   * where you have consented,
   * where the secondary purpose is directly related to the primary purpose, and you would  
@@ -79,12 +81,11 @@ We may sometimes use the personal information we collect for a secondary purpose
 
 For example, we may use your contact details for editorial and feedback purposes or to inform you of our products and services. We may also collect personal information so that we can provide information which is of interest to you. You are always given the opportunity to notify us that you do not wish to receive this material.
 
-**Disclosure of the information we collect**
+_Disclosure of the information we collect_
 
 We treat personal information which we collect from you in the same way that we treat our other confidential information. We will not sell to anyone, the information which we collect about you.
 
-We will not disclose to a third party, the information which we collect about you, except where it is necessary to conduct our business, and then only if the third party:  
-
+We will not disclose to a third party, the information which we collect about you, except where it is necessary to conduct our business, and then only if the third party:
 
   * first enters into appropriate confidentiality undertakings with us, or
   * has a privacy policy which is similar to ours. 
@@ -107,11 +108,11 @@ We will take all reasonable steps to ensure that your personal information which
 
 If you wish to access the information we hold about you, you are welcome to contact us and we will respond to your request within 45 days. A handling fee may be payable so that we can obtain the information you require.
 
-**Correcting information**
+_Correcting information_
 
 You can also request that information about you be corrected or deleted. This is part of our commitment to take all reasonable steps to ensure that the information we hold is accurate, complete and up-to-date.
 
-**Right to refuse access or correction**
+_Right to refuse access or correction_
 
 We reserve our right to refuse your request for access or correction if, for example, we consider your request to be frivolous or vexatious, or if we are legally entitled to do so.
 
@@ -131,12 +132,9 @@ By providing your personal information to us or by using our web site, you are i
 
 **7\. CONTACTING US**
 
-  
-
-
 If you have any questions about our privacy statement, please contact our privacy officer at [privacy@readingcinemas.com.au](mailto:privacy@readingcinemas.com.au) or by mail to;
 
 Privacy Officer   
 Reading Entertainment Australia Pty Limited  
-98 York Street  
-South Melbourne, Victoria 3205.
+Level 1, 98 York Street  
+South Melbourne, Victoria 3205
