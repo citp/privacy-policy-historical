@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canada-goose.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515053425id_/http%3A//www.canada-goose.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canada-goose.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114022041id_/http%3A//www.canada-goose.com/privacy) for the most accurate reproduction.*
 
 # Canada Goose » Privacy Policy
 
