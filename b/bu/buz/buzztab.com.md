@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the buzztab.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513233540id_/http%3A//www.buzztab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzztab.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114011541id_/http%3A//www.buzztab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Buzztab.com
 
 The safeguard of your privacy is primary concern at Buzztab.com. Users’ privacy is protected and respected and your personal information is not willfully shared with any third party, prior to your acknowledgement and permission or is laid down in this Privacy Policy.
 
- **Buzztab.com & Cookies**
+**Buzztab.com & Cookies**
 
 As you visit Buzztab.com, a cookie (a smaller data file) enables us to identify you as a unique user. Buzztab.com utilizes these cookies only to improve its service quality and to understand its user base more efficiently.
 
@@ -14,41 +14,41 @@ Most of browsers in the market accept cookies by default. You are free to reset 
 
 However, be informed that there is a possibility of inappropriate functioning of some parts of Buzztab.com in the absence of certain cookies.
 
- **Third Party Cookies**
+**Third Party Cookies**
 
- **In the routine of serving their advertisements to this site (** Buzztab.com), third party advertisers may place or identify a cookie on your browser. ****
+**In the routine of serving their advertisements to this site (** Buzztab.com), third party advertisers may place or identify a cookie on your browser. ****
 
- **What Information Do We Collect?**
+**What Information Do We Collect?**
 
 Your unique information such as your name, email address etc is not collected by Buzztab.com except in cases when you knowingly and willfully provide such information. For example, Buzztab.com COLLECTS such information from users that are registering themselves as Community User or User   Editors. Buzztab.com DOES SAVE necessary information such as time, type of browser, language of browser and IP address for each query. **** This information is collected in order to verify our records and to provide our users with more relevant and efficient service. For example, **** Buzztab.com may use your IP address or browser language for determining the language for showing search results and advertisements. ****
 
- **Links to Other Sites**
+**Links to Other Sites**
 
 Buzztab.com exercises no virtual or physical whatsoever control over people who developed stories/sites displayed and or linked to by Buzztab.com. Other links shown on Buzztab.com are also not controlled by Buzztab.com. These sites may send their cookies to the visitors and may collect data or may solicit personal information. Buzztab.com encourages you to go through the Privacy Policy of all sites you visit.
 
 Buzztab.com may deem it suitable to exhibit its results in the form a ‘URL Redirector’. When Buzztab.com uses a redirector, if you make a click on a URL displayed on Buzztab.com page, information about such click is sent to Buzztab.com and it in turn sends you to the site you have clicked on. Buzztab.com utilizes this URL information for understanding and improving the quality at Buzztab.com.
 
- **With Whom Does** Buzztab.com **Share Information?**
+**With Whom Does** Buzztab.com **Share Information?**
 
 Buzztab.com may share information about you with its business partners, advertisers, sponsors and any third party it may deem fit. However, only aggregated information about our users is shared and any personal information of users is not shared with any third party under any circumstances with out your express consent. For example we may deem it fit to disclose the frequency of the average user’s visits to Buzztab.com or which Buzztab.com pages are used with more frequency. Be informed that we will release specific personal information about a user in compliance with a valid legal process such as court order, warrants, statue and subpoena. Buzztab.com reserves its right of cooperation with legitimate law enforcement requests for information at its sole discretion.
 
- **Children’s Privacy**
+**Children’s Privacy**
 
 We do not knowingly collect information about minors under the age of 13, and if we come to know that we have personal information about a child under age 13, we will delete such information from our systems **.**
 
- **Third Party Advertising**
+**Third Party Advertising**
 
 Third Party advertising companies are used by Buzztab.com **** to serve ads when you visit **** Buzztab.com. These companies may use such information about your visits to Buzztab.com or any other website to provide advertisements on this or other websites about certain goods and services that may be of your interest. ****
 
- **Your consent and changes to the Privacy Policy**
+**Your consent and changes to the Privacy Policy**
 
 By using Buzztab.com **,** you consent to the collection and usage of your information as we have outlined in this policy to our Terms of Service Policy **.** Buzztab.com reserves the right to change this Privacy Policy from time to time. Whenever changes will be made to this Privacy Policy that will be displayed accordingly on this page to keep you always informed about the changes, usage or dissemination of information under special circumstances. ****
 
- **Who can I ask if I have additional questions?**
+**Who can I ask if I have additional questions?**
 
 If you have some additional questions, please feel free to CONACT US and we will answer your additional questions you may have.
 
- **Legal Statement**
+**Legal Statement**
 
 Any information, material and or images are not allowed to be downloaded or reproduced from this website in the absence of explicit written permission of Buzztab.com. In case of any such request for permission, please email to editor at Buzztab.com
 
