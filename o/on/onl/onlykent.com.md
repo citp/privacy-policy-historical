@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the onlykent.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516065959id_/http%3A//www.onlykent.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlykent.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114015112id_/http%3A//www.onlykent.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-Last Updated on Saturday, 28 November 2009 07:41 Written by Daniel Chubb Thursday, 15 May 2008 07:33
-
- **Introduction**  
+**Introduction**  
 This privacy document describes the practices and policies Only Kent adopts in relation to personal data.
 
  **Cookies**  
