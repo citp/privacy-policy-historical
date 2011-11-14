@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the3dstudio.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620123730id_/http%3A//www.the3dstudio.com/legal_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the3dstudio.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114050012id_/http%3A//www.the3dstudio.com/legal_privacy.aspx) for the most accurate reproduction.*
 
 # 3D Models, Stock Photos, Stock Images, Vectors, Textures 3ds max lwo c4d dae obj fbx dxf dwg stp igs ma mb x jpg eps ai
 
