@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rosneft.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516164542id_/http%3A//www.rosneft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosneft.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114115438id_/http%3A//www.rosneft.com/privacy) for the most accurate reproduction.*
 
-# Rosneft - Privacy statement
+# Роснефть - Privacy statement
 
 ## Personal information
 
