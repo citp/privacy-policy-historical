@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cooksillustrated.com privacy policy that was archived on 2011-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110630111821id_/http%3A//www.cooksillustrated.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cooksillustrated.com privacy policy that was archived on 2011-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111114175604id_/http%3A//www.cooksillustrated.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,6 +7,30 @@
 		
 		<link rel="stylesheet" type="text/css" href="http://media.cooksillustrated.com/css/cooks.css">
     <!-- Add Optimost Header Code Here If Needed -->
+
+<!-- Analytics Start -->
+
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'	type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+	try {
+
+
+var pageTracker = _gat._getTracker("UA-6995777-1");
+	
+	pageTracker._setCustomVar(
+		      1,             // This custom var is set to slot #1.  Required parameter.
+		      "User Type",   // The name of the custom varaible.  Required parameter.
+		      "Visitor",      // Sets the value of "User Type" to "Member" or "CIEMember" or "Visitor" depending on status.  Required parameter.
+		       2             // Sets the scope to session-level.  Optional parameter.
+		   );
+	pageTracker._trackPageview();
+	} catch(err) {}
+</script>
+
+<!-- Analytics End -->
 
 <script type="text/javascript" src="https://by.essl.optimost.com/es/352/c/22/u/Optimost.js"></script>
 	</head>
@@ -37,14 +61,14 @@
 		<div id="marketingBannerLinks">
 			<ul>
 			
-				<li><a href="/cds_auth/signup/default/join_step1.asp?incode=M00CHBA00">Online Membership</a></li>
+				<li><a href="https://auth.cooksillustrated.com/signup/membership?incode=M00CHBA00">Online Membership</a></li>
 			
 				<li><a href="https://w1.buysub.com/servlet/GiftsGateway?cds_mag_code=CIO&amp;cds_page_id=41373">Online Gift Membership</a></li>
 			</ul>
 			
 			<ul>
 
-				<li><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=CID&amp;cds_page_id=13331&amp;cds_response_key=ICB10HA00">Magazine Subscription</a></li>
+				<li><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=CID&amp;cds_page_id=102879&amp;cds_response_key=ICT11G010">Magazine Subscription</a></li>
 				<li><a href="https://w1.buysub.com/servlet/GiftsGateway?cds_mag_code=CID&amp;cds_page_id=13523&amp;cds_response_key=IYB10HA00">Magazine Gift Subscription</a></li>
 			</ul>
 		</div>
@@ -55,31 +79,55 @@
 
 
 		</div>
+		
+		<ul id="utilities" class="utilities">
+			
+				<li class="login"><a href="https://auth.cooksillustrated.com/?returnUrl=http%3A%2F%2Fwww%2Ecooksillustrated%2Ecom%2Fcds%5Fauth%2Fauthenticate%2Easp">Login</a></li>
+				<li class="join"><a href="https://auth.cooksillustrated.com/signup/membership?incode=M00CHLA00&amp;returnUrl=http%3A%2F%2Fwww%2Ecooksillustrated%2Ecom%2Fcds%5Fauth%2Fauthenticate%2Easp" class="form_toggle">Become a Member</a> 
+				 <div id="join">
+					<span class="close"><a>Become a Member</a></span>
+					<div class="joinWrapper">
+						<form id="joinOverlay" name="form_email_join" action="https://auth.cooksillustrated.com/signup/membership" method="get">
+							<p>Try CooksIllustrated.com FREE for 14 Days. Become a member today!</p>
+							<input type="text" name="email" id="sCustomerEmail" class="required email dropdown" value="Enter e-mail address">
+							<input type="hidden" name="incode" value="M00CHLA00">
+							<input type="image" src="/images/common/btn_startNow.gif" class="button">
+							<a class="howWeUseEmail" onclick="window.open('/howweuseyouremail.html','window', 'width=450, height=200');" href="javascript:void(0)" id="howWeUseEmailLink">How we use your e-mail address</a>
+	
+					
+						</form>    
+					</div>
+				</div>
+				</li>
+			
+		</ul>
 
 
 
-<div id="searchBox">
-			<form id="searchBoxForm" action="/search/request/" method="GET">
-			<select name="filters" id="rcat">
-					
-							<option value="">Search All</option>
-					
-							<option value="type:Recipe">Recipes</option>
-					
-							<option value="type:Testing">Equipment Reviews</option>
-					
-							<option value="type:Tasting">Taste Tests</option>
-					
-							<option value="type:How To Cook">How To Cook</option>
-					
-							<option value="type:Video">Videos</option>
-					
-				</select>
-				<input type="text" class="shadowedInput" name="query" id="searchBoxFormQuery" maxlength="255">
-				<input type="image" src="http://media.cooksillustrated.com/images/text/btn_search.gif" alt="Search" class="searchButtonInput">
-			</form>
+
+
+
+
+
+			 <form name="searchCIO" id="global_search" method="get" action="/search/request/">
+                <span id="btn_search_filter_select"></span>        
+                <ul id="search_filter_select" style="display:none">
+                    <li id="btn_search_filter_select_on"></li>
+                    <li class="search_filter_option"><a id="search_all">Search All</a></li>
+                    <li class="search_filter_option"><a id="search_recipes">Recipes</a></li>
+                    <li class="search_filter_option"><a id="search_equipment">Equipment Reviews</a></li>
+                    <li class="search_filter_option"><a id="search_tastetests">Taste Tests</a></li>
+                    <li class="search_filter_option"><a id="search_howtocook">How to Cook</a></li>
+                    <li class="search_filter_option"><a id="search_videos">Videos</a></li>
+                </ul>
+        
+                <input type="hidden" name="filters" value="">
+                <input type="text" name="query" id="global_search_query" value="Search All">
+                <input class="hover" type="image" name="search" value="SEARCH" id="btn_submit_global_search" src="http://media.cooksillustrated.com/images/text/btn_search.gif">
+            </form>
+            
 		</div>
-	</div>
+
 
 	<!-- End content header -->
 
@@ -101,6 +149,7 @@
 
 
 <!-- END Masthead Include -->
+
 
 	<h1>PRIVACY POLICY</h1>
 	
@@ -183,60 +232,40 @@ caprivacy@bcpress.com</a>.
 
 		            <!-- iframe src="http://img-cdn.mediaplex.com/0/13386/universal.html?page_name=landing_page_non-logged_in&Landing_Page_Non_Logged_In=1&mpuid=" HEIGHT=1 WIDTH=1 FRAMEBORDER=0></iframe -->
 
-		<script language="javascript">
-		    function GetCookie(fieldID)
-		    {
-                  theField = document.getElementById(fieldID);
-                  var arg = theField.name + "=";
-                  var alen = arg.length;
-                  var clen = document.cookie.length;
+				<script language="javascript">
+					function GetCookie(fieldID)
+					{
+						  theField = document.getElementById(fieldID);
+						  var arg = theField.name + "=";
+						  var alen = arg.length;
+						  var clen = document.cookie.length;
 
-                  cooksWebCookiePosition = document.cookie.indexOf("CooksWebSite")
-                  if (cooksWebCookiePosition != -1)
-                  {
-                      cooksWebCookie = getCookieVal(";", cooksWebCookiePosition, document.cookie)
-                      firstOccurance = cooksWebCookie.indexOf(arg);
-                      if (firstOccurance != -1)
-                      {
-                        if (firstOccurance < clen)
-                        {
-                            cookieValue = getCookieVal("&", firstOccurance+alen, cooksWebCookie);
-                            theField.value = cookieValue
-                        }
-                      }
-                  }
-            }
-            function getCookieVal(symbol, offset, theCookie)
-            {
-                var endstr = theCookie.indexOf(symbol, offset);
-                if (endstr == -1) { endstr = theCookie.length; }
-                return unescape(theCookie.substring(offset, endstr));
-            }
-		</script>
-				<div id="loginSignupBox">
-					<h4>Web Member Login</h4>
-					<form id="loginForm" action="/cds_auth/login_process.asp" method="POST">
-
-						<input type="hidden" name="docid" id="docid" value="">
-
-						<input type="hidden" name="redirectURL" id="redirectURL" value="http://www.cooksillustrated.com/privacy/Default.asp?">
-
-						E-mail
-						<input type="text" name="Email" id="loginEmail" class="shadowedInput"><br>
-						<script>GetCookie("loginEmail")</script>
-						Password
-						<input type="password" name="Password" id="loginPassword" class="shadowedInput"><br>
-						<script>GetCookie("loginPassword")</script>
-						<input type="checkbox" name="rememberme" id="remembermeCheckbox" value="checkbox" checked="">Remember Me<br>
-						<a href="/cds_auth/forgot_password.asp">Forget your password?</a><br>
-						<input type="image" alt="Login" src="http://media.cooksillustrated.com/images/text/btn_login.gif" class="loginButton">
-					</form>
-				</div>
-
+						  cooksWebCookiePosition = document.cookie.indexOf("CooksWebSite")
+						  if (cooksWebCookiePosition != -1)
+						  {
+							  cooksWebCookie = getCookieVal(";", cooksWebCookiePosition, document.cookie)
+							  firstOccurance = cooksWebCookie.indexOf(arg);
+							  if (firstOccurance != -1)
+							  {
+								if (firstOccurance < clen)
+								{
+									cookieValue = getCookieVal("&", firstOccurance+alen, cooksWebCookie);
+									theField.value = cookieValue
+								}
+							  }
+						  }
+					}
+					function getCookieVal(symbol, offset, theCookie)
+					{
+						var endstr = theCookie.indexOf(symbol, offset);
+						if (endstr == -1) { endstr = theCookie.length; }
+						return unescape(theCookie.substring(offset, endstr));
+					}
+				</script>
 				
 <div id="zone29">
-<map name="cioFTMap" id="cioFTMap"><area shape="rect" coords="9,3,130,81" href="/cds_auth/signup/default/join_step1.asp?incode=M00CHLA00"></map>
-<img src="/images/marketing/ads/cio_ft_startNow.gif" width="137" height="84" border="0" usemap="#cioFTMap" style="margin-top: 6px;">
+<map name="cioFTMap" id="cioFTMap"><area shape="rect" coords="9,3,130,81" href="https://auth.cooksillustrated.com/signup/membership?incode=M00CHLA00"></map>
+<img src="/images/marketing/ads/cio_ft_startNow.gif" width="137" height="84" border="0" usemap="#cioFTMap" style="margin: 10px 0;">
 </div>
 
 			</div>
@@ -244,7 +273,7 @@ caprivacy@bcpress.com</a>.
 
 				<ul id="customerServiceLinks">
 
-					<li><a href="http://www.americastestkitchen.com/ibb">Bulletin Board</a></li>
+					<li><a href="http://www.cooksillustrated.com/ibb">Bulletin Board</a></li>
                     <li> 
 
 <div id="zone30">
@@ -253,12 +282,18 @@ caprivacy@bcpress.com</a>.
 </li>
 					<!--<li><a href="/slideshow/default.asp?keepThis=true&TB_iframe=true&height=429&width=812" class="thickbox">Explore Our Site</a></li>-->
 					<li>
-						<span class="connectWithUs">Connect with us</span>
-						<a href="http://www.facebook.com/cooksillustrated"><img src="/images/socialmedia/facebook.png" class="socialMediaImg" alt="Connect with Cook's Illustrated on Facebook" border="0"></a>
-						<a href="http://www.twitter.com/testkitchen"><img src="/images/socialmedia/twitter.png" class="socialMediaImg" alt="Connect with Cook's Illustrated on Twitter" border="0"></a>
+						<a href="http://www.facebook.com/cooksillustrated"><img src="/images/socialmedia/bfacebook.png" class="socialMediaImg" alt="Connect with Cook's Illustrated on Facebook" border="0"></a>
+						<a href="http://www.twitter.com/testkitchen"><img src="/images/socialmedia/btwitter.png" class="socialMediaImg" alt="Connect with Cook's Illustrated on Twitter" border="0"></a>
+						<a href="http://www.youtube.com/user/americastestkitchen"><img src="/images/socialmedia/byoutube.png" class="socialMediaImg" alt="Connect with Cook's Illustrated on Youtube" border="0"></a>
 					</li>		
 				</ul>
 			
+<div id="zone50">
+	<a href="http://www.cooksillustrated.com/features/thanksgiving/">
+		<img src="http://media.cooksillustrated.com/images/ads/cio_thanksgiving_AD.png" alt="Thanksgiving Survival Guide" style="border-bottom: 1px dashed #BBB4A3;">
+	</a>
+</div>
+
 <!-- Related Links for Web FAQ page only -->
 
 
@@ -266,11 +301,15 @@ caprivacy@bcpress.com</a>.
 
 			 
 <div id="zone31">
-	<map name="eciAdMap" id="eciAdMap">
-		<area shape="rect" coords="26,222,100,239" href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=ECI&amp;cds_page_id=60469&amp;cds_response_key=ICH09CLF0">
-		<area shape="rect" coords="21,248,108,270" href="/entertaining/">
-	</map>
-	<img src="/images/ads/eci_ft_left.png" alt="FREE TRIAL issue of Entertaining from Cook's Illustrated" usemap="#eciAdMap">
+
+       
+    <map name="cidAdMap" id="cidAdMap">	
+        <area shape="rect" coords="21,248,108,270" href="https://w1.buysub.com/pubs/BP/CID/updated_gift_donee.jsp?cds_page_id=107183&amp;cds_response_key=IYC11JM10" target="_blank">
+    </map>
+    <img src="/images/ads/cid_gift_left.png" alt="Give the Gift of Cook's Illustrated" usemap="#cidAdMap">
+
+    
+
 </div>
 
          	</div>
@@ -298,10 +337,10 @@ caprivacy@bcpress.com</a>.
 		<a href="http://www.americastestkitchen.com/corp/about-americastestkitchen.asp" class="americasTestKitchenBadge"><img src="http://media.cooksillustrated.com/images/text/americas_test_kitchen_badge.png" alt="America's Test Kitchen"></a>
 		<div>	
 			<ul>
-				<li class="row1"><a href="https://w1.buysub.com/pubs/BP/CID/login.jsp?cds_page_id=32632&amp;cds_mag_code=CID&amp;id=1297088319357&amp;lsid=10380816598033505&amp;vid=3">My Account</a></li>
+				<li class="row1"><a href="https://auth.cooksillustrated.com/webcustomer-service/">My Account</a></li>
 				<li><a href="http://www.americastestkitchen.com/corp/presscontact.asp">Media Contact</a></li>
 				<li><a href="/aboutus/">About Us</a></li>
-				<li><a href="/cds_auth/signup/default/join_step1.asp?incode=M00CHFA00">Join Our Website</a></li>
+				<li><a href="https://auth.cooksillustrated.com/signup/membership?incode=M00CHFA00">Join Our Website</a></li>
 				<li><a href="https://w1.buysub.com/servlet/OrdersGateway?cds_mag_code=CID&amp;cds_page_id=13331&amp;cds_response_key=ICH08LF00">Magazine Subscriptions</a></li>
 				<li><a href="http://www.americastestkitchen.com/corp/events/">News &amp; Events</a></li>
 				<li><a href="http://www.americastestkitchen.com/corp/jobs/">Jobs</a></li>
@@ -332,30 +371,6 @@ caprivacy@bcpress.com</a>.
 
    <!-- AKQA Order Tag Tracking Pixel
    <img src='https://s1.srtk.net/www/delivery/ti.php?trackerid=984&cb=1793543407&_sr_amount=11.42&_sr_orderid=&sr_paramd=&sr_parame=0&sr_paramf=0&sr_paramg=0' width='1' height='1' border='0'/>-->
-
-<!-- Analytics Start -->
-
-<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js'	type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-	try {
-
-
-var pageTracker = _gat._getTracker("UA-6995777-1");
-	
-	pageTracker._setCustomVar(
-		      1,             // This custom var is set to slot #1.  Required parameter.
-		      "User Type",   // The name of the custom varaible.  Required parameter.
-		      "Visitor",      // Sets the value of "User Type" to "Member" or "CIEMember" or "Visitor" depending on status.  Required parameter.
-		       2             // Sets the scope to session-level.  Optional parameter.
-		   );
-	pageTracker._trackPageview();
-	} catch(err) {}
-</script>
-
-<!-- Analytics End -->
 
 
 
