@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the mun.ca privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624125431id_/http%3A//www.mun.ca/marcomm/web/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mun.ca privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114050431id_/http%3A//www.mun.ca/marcomm/web/privacy.php) for the most accurate reproduction.*
 
 # Marketing & Communications | Privacy
 
 ## Version 1.0
-
-Last Updated 2003-10-29
 
 Memorial University of Newfoundland is committed to protecting and respecting the privacy of users. The University supports the protection of privacy and the freedom of information in accordance with all applicable federal and provincial statutes.
 
@@ -32,11 +30,13 @@ This statement may be amended from time to time. Refer to the version number and
 
 ## Contact Information
 
-Inquiries, comments, or complaints concerning this privacy statement may be directed to [webadmin@mun.ca](https://web.archive.org/web/20070624125431id_/http%3A//www.mun.ca/marcomm/web/%22mailto:webadmin@mun.ca%22) or
+Inquiries, comments, or complaints concerning this privacy statement may be directed to [webfeedback@mun.ca](mailto:webfeedback@mun.ca) or
 
 Director, Computing and Communications  
 Memorial University of Newfoundland  
 St. John’s, NL, Canada  
 A1C 5S7  
-(709) 737-8329  
+(709) 737-8329
 
+##   
+Information and Privacy Protection at Memorial
