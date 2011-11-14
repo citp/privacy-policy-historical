@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treasurydirect.gov privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624021851id_/http%3A//treasurydirect.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treasurydirect.gov privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114094725id_/http%3A//www.treasurydirect.gov/privacy.htm) for the most accurate reproduction.*
 
 # Privacy & Legal Notices
 
@@ -44,11 +44,11 @@ Washington, DC 20239
 
 ### 3\. Do we gather information automatically or use "cookies" when you visit our site?
 
-For site security purposes and to help us improve our site, we use software that can monitor network traffic and identify unauthorized attempts to cause damage or upload or change information. As on most websites, when a page is requested we can obtain some [information](https://web.archive.org/lawguide/lawguide_ccstats.htm), about the request, such as the type of browser used and the last site visited by the browser. We use this information for statistical purposes and to make our site more useful to visitors.
+All visitors and account holders that access our site should be aware that, for site security purposes and to help us improve our site, we use software that can monitor network traffic and identify unauthorized attempts to cause damage or upload or change information. As on most websites, when a page is requested, we can obtain some [information](https://web.archive.org/lawguide/lawguide_ccstats.htm) about the request, such as the type of browser used and the last site visited by the browser. We use this information for statistical purposes and to make our site more useful to visitors.  We make no attempt to identify individual users or their usage habits except in cases of authorized investigations by law enforcement agencies.
 
 Some parts of our site use "session cookies", which are very small files placed on your hard drive by a website. These cookies are necessary to streamline navigation and, in some cases, to help you complete a form without entering the same information more than once. Session cookies are automatically erased when you close your browser.
 
-We never use "persistent cookies" - small files that remain on your hard drive once you leave our site - to track your activity over time. We make no attempt to identify individual users or their usage habits except in cases of authorized investigations by law enforcement agencies.
+If you have an account with us, we may use customization technologies, such as persistent cookies, to remember your online interactions with our website in order to customize your experience.  You’ll have the opportunity to register your computer when you access your account.  Registering your computer will authorize the use of persistent cookies and help us recognize you as a valid user.  If you choose not to register your computer, or if you use a public or shared computer, then subsequent log-ins will require a one-time passcode.  Do not register a public or shared computer, such as a library computer. 
 
 ### 4\. What is our legal authority to ask for personal information?
 
@@ -65,7 +65,7 @@ Furnishing personal information is voluntary; however, without the information w
 
 ### 5\. To whom do we release your personal information?
 
-We can disclose information only as authorized under the [Privacy Act of 1974, 5 U.S.C. § 552a](https://web.archive.org/exit.htm?http://www.usdoj.gov/04foia/foiastat.htm). Public Debt's Privacy Act systems of records notices are published in the Federal Register. Systems of records notices can be found at [73 Fed. Reg. 42904](https://web.archive.org/lawguide/lawguide_73FR42904.pdf) (PDF) and [70 Fed. Reg. 31559](https://web.archive.org/lawguide/lawguide_2005_10854_final_pdi_notice.pdf) (PDF). 
+We can disclose information only as authorized under the [Privacy Act of 1974, 5 U.S.C. § 552a](https://web.archive.org/exit.htm?http://www.usdoj.gov/04foia/foiastat.htm). Public Debt's Privacy Act systems of records notices are published in the Federal Register. Systems of records notices can be found at [76 Fed. Reg. 51128](https://web.archive.org/lawguide/lawguide_2011-20949.pdf) (PDF) and [70 Fed. Reg. 31559](https://web.archive.org/lawguide/lawguide_2005_10854_final_pdi_notice.pdf) (PDF). 
 
 ### 6\. Will we send you non-business information?
 
