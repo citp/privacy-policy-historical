@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadtransport.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609204634id_/http%3A//www.roadtransport.com/static-pages/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadtransport.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115002829id_/http%3A//www.roadtransport.com/static-pages/information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Roadtransport.com
 
@@ -38,4 +38,4 @@ Please [click this link](http://www.adtech.info/privacy/) for the Privacy Poli
 
 ### To alter your details
 
-If your personal information changes you can alter the details we hold by accessing your “Account Details” or by logging into one of the login pages of [Roadtransport.com](http://www.roadtransport.com/).
+If your personal information changes, you can alter the details we hold by emailing roadtransport.dataprivacy@quadrantsubs.com.
