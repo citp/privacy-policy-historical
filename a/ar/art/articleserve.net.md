@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articleserve.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211123id_/http%3A//www.articleserve.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleserve.net privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114061808id_/http%3A//www.articleserve.net/privacy.php) for the most accurate reproduction.*
 
-# Free Articles Submission Directory : ArticleServe.net | Privacy Statement
+# Business Articles : ArticleServe.net | Privacy Statement
 
 ArticleServe.net strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period. 
 
