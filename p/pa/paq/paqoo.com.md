@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paqoo.com privacy policy that was archived on 2011-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110112092251id_/http%3A//www.paqoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paqoo.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114190536id_/http%3A//www.paqoo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Home Design | Decorating Ideas | Gardening - Gallery of Home Design, Decorating Ideas and Gardening
 
