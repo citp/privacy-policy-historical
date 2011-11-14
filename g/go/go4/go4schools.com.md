@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go4schools.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619211352id_/http%3A//www.go4schools.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4schools.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114091127id_/http%3A//www.go4schools.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy : GO 4 Schools
 
