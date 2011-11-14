@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetrafficsystem.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516064641id_/http%3A//www.freetrafficsystem.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetrafficsystem.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114021047id_/http%3A//www.freetrafficsystem.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Traffic System
 
@@ -83,5 +83,3 @@ FreeTrafficSystem.com will use reasonable efforts to protect customers’ person
 FreeTrafficSystem.com gives you access to the personal information which is available on the online profile inside FreeTrafficSystem.com members area. You all get access to general information about your 1st and 2nd tier referrals and their posting activity which is relevant to your account in FreeTrafficSystem.com
 
 Once you cancel your membership in FreeTrafficSystem.com you lose the right and access to your personal information inside the members area of FreeTrafficSystem.com
-
-﻿ 
