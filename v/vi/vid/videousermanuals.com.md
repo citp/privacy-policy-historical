@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videousermanuals.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613162445id_/http%3A//www.videousermanuals.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videousermanuals.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114015325id_/http%3A//www.videousermanuals.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Video User Manuals
 
@@ -17,6 +17,8 @@ The information is used to enhance the vistor’s experience when using the webs
 E-mail addresses will not be sold, rented or leased to 3rd parties.
 
 E-mail may be sent to inform you of news of our services or offers by us or our affiliates.
+
+We use Google conversion tracking and Google analytics to help improve our services.
 
 ## Visitor Options
 
@@ -37,3 +39,5 @@ Google, as a third party vendor, uses cookies to serve ads.
 Google’s use of the DART cookie enables it to serve ads to visitors based on their visit to sites they visit on the Internet.
 
 Website visitors may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to improve our offering. You can choose to disable the Service at http://www.clicktale.net/disable.html.
