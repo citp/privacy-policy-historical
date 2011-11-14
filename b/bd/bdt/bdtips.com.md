@@ -1,6 +1,19 @@
-> *The following text is extracted and transformed from the bdtips.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515071550id_/http%3A//www.bdtips.com/Article_Body.php%3FSub_Category_ID%3D16%26Article_ID%3D1395) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdtips.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114020236id_/http%3A//www.bdtips.com/Article_Body.php%3FSub_Category_ID%3D16%26Article_ID%3D1395) for the most accurate reproduction.*
 
 # Privacy Policy of BdTips.com | Bd Tips
+
+  
+Source: A I Sudin| (3.17 by 35 Votes)  |  (Submitted by: Webmaster)   
+---|---|---  
+  
+**PRIVACY NOTICE**   
+This privacy notice discloses the privacy practices for [www.bdtips.com](http://www.bdtips.com/). This privacy notice applies solely to information collected by this web site. It will notify you of the following.: 
+
+1\. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.  
+2\. What choices are available to you regarding the use of your data.   
+3\. The security procedures in place to protect the misuse of your information.   
+4\. How you can correct any inaccuracies in the information.   
+**Information Collection, Use, and Sharing** We are the sole owners of the information collected on this site. We only have access to collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.  «READ MORE»
 
 We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request.
 
@@ -8,11 +21,7 @@ Unless you ask us not to, we may contact you via email in the future to tell you
 
 **Registration** In order to use this website to its full, a user may need to complete the registration form. During registration a user is required to give certain information (such as name and email address). This information is used to contact you about the products/services on our site in which you have expressed interest. At your option, you may also provide other information (such as address, phone number) about yourself, but it is not required. 
 
-**Cookies** We use "cookies" on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site. **DoubleClick DART cookie** We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
-
-  * Google, as a third party vendor, uses cookies to serve ads on www.bdtips.com. 
-  * Google's use of the DART cookie enables it and its partners to serve ads to www.bdtips.com based on their visit to this site and/or other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+**Third Party Links within Text** These links are part of a pay per click advertising program called Infolinks. Infolinks is an In Text advertising service: they take my text and create links within it. If you hover with your mouse over these double underlined links, you will see a small dialog box containing advertisement related to the text marked. You can choose to either move the mouse away and go on with your browsing, or to press on the box and go to the ad page which is relevant to the text.
 
 **Links** This web site contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information. 
 
@@ -31,4 +40,4 @@ Wherever we collect sensitive information (such as your phone number, address), 
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, paying you or publishing your article in our website with your name) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
 
-Please [Contact Us](http://www.bdtips.com/Contact/) for any related queries.
+Please [Contact Us](http://www.bdtips.com/Contact/) for any related queries. 
