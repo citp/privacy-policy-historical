@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hyperxlocal.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517010101id_/http%3A//www.hyperxmedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperxlocal.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115001722id_/http%3A//www.hyperxmedia.com/privacy-policy) for the most accurate reproduction.*
 
-# HyperX Media
+# Privacy Policy| HyperX Media
 
 **Privacy Policy**
 
@@ -55,3 +55,5 @@ HyperX Media fully respects your privacy and security concerns. We reserve the r
 Updated 1/27/2006
 
 Simply fill out the form below to get a customized quote in no time.
+
+Do you have a popular website with a solid local audience? We'll pay you to advertise on it. Just fill out the form below and we'll be in touch.
