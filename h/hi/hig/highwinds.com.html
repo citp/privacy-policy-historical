@@ -1,24 +1,46 @@
-<!--The following is the downloaded HTML source of the highwinds.com privacy policy that was archived on 2011-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110602042026id_/http%3A//www.highwinds.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the highwinds.com privacy policy that was archived on 2011-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111114154022id_/http%3A//www.highwinds.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="description" content="Protecting your privacy is important to Highwinds. Please read the following statement about the information we collect from the Highwinds Site will help you understand how Highwinds collects, uses and safeguards the personal information you provide to us on the Highwinds Site.">
+<meta name="description" content="">
 <title>Highwinds | Privacy Policy</title>
 <link href="../style/main.css" rel="stylesheet" type="text/css">
 <link href="../style/thickbox.css" rel="stylesheet" type="text/css" media="screen">
-<link rel="shortcut icon" href="../images/favicon.ico">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="../scripts/jquery.js" type="text/javascript"></script>
-<script src="../scripts/jquery.min.js" type="text/javascript"></script>
-<script type="text/javascript" src="../scripts/thickbox-compressed.js"></script>
-<script type="text/javascript" src="../scripts/prototype.js"></script>
-<script type="text/javascript" src="../scripts/effects.js"></script>
-<script type="text/javascript" src="../scripts/accordion.js"></script>
+<link href="../style/tab.css" rel="stylesheet" type="text/css">
+<link href="http://tlb.hwcdn.net/z6j5q8y3/cds/10-2011/favicon.ico" rel="shortcut icon">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="../js/jquery.js" type="text/javascript"></script>
+<script src="../js/thickbox-compressed.js" type="text/javascript"></script>
+<script src="../js/tabs/jquery.min.js"></script>
+<script src="../js/tabs/jquery-ui.min.js"></script>
+<script>
+  $(document).ready(function() {
+    $("#tabs").tabs();
+	
+  });
+  </script>
+  
+    <script>
+	$(function(){
+	 $('#tabs').tabs();
+	
+	if(document.location.hash!='') {
+			//get the index from URL hash
+			tabSelect = document.location.hash.substr(1,document.location.hash.length);
+			$("#tabs").tabs('select', tabSelect - 1);
+			$(window).scrollTop($('#tabs').position().top - 15);
+		}
+		
+	  });
+</script>
+
 <script type="text/javascript">
  
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-414579-10']);
-  _gaq.push(['_trackPageview']);
+  _gaq.push(['_setDomainName', '.highwinds.com']);
+  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']); 
  
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -44,135 +66,201 @@
          else if (w.attachEvent) { w.attachEvent('onload', onWindowLoaded ); }
      })(document, window);
 </script>
-<script type="text/javascript">
-		Event.observe(window, 'load', loadAccordions, false);
-		function loadAccordions() {
-						
-			var bottomAccordion = new accordion('vertical_container');
-			
-			var nestedVerticalAccordion = new accordion('vertical_nested_container', {
-			  classNames : {
-					toggle : 'vertical_accordion_toggle',
-					toggleActive : 'vertical_accordion_toggle_active',
-					content : 'vertical_accordion_content'
-				}
-			});
-			
-			bottomAccordion.activate($$('#vertical_container .accordion_toggle')[0]);
-			
-			topAccordion.activate($$('#horizontal_container .horizontal_accordion_toggle')[2]);
-		}
-		
-	</script>
+	
  
+<script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+</script>
 </head>
 
-<body>
 
-<div id="headerWrap">
+<body onload="MM_preloadImages('http://tlb.hwcdn.net/z6j5q8y3/cds/10-2011/banner-bkgrd.png','http://tlb.hwcdn.net/z6j5q8y3/cds/10-2011/favicon.ico','http://tlb.hwcdn.net/z6j5q8y3/cds/10-2011/footer-bkgrd.png','http://tlb.hwcdn.net/z6j5q8y3/cds/10-2011/gold_bkgrd.png','http://tlb.hwcdn.net/z6j5q8y3/cds/10-2011/homepage-bkgrd.png','http://tlb.hwcdn.net/z6j5q8y3/cds/10-2011/icon.png','http://tlb.hwcdn.net/z6j5q8y3/cds/10-2011/interior_bnr_bkgrd.png','http://tlb.hwcdn.net/z6j5q8y3/cds/10-2011/interior-bkgrd.png','http://tlb.hwcdn.net/z6j5q8y3/cds/10-2011/logo.png','http://tlb.hwcdn.net/z6j5q8y3/cds/10-2011/nav-bkgrd.png','http://tlb.hwcdn.net/z6j5q8y3/cds/10-2011/nav.png','http://tlb.hwcdn.net/z6j5q8y3/cds/10-2011/rss.png','http://tlb.hwcdn.net/z6j5q8y3/cds/10-2011/st2.png','http://tlb.hwcdn.net/z6j5q8y3/cds/10-2011/search.png','http://tlb.hwcdn.net/z6j5q8y3/cds/10-2011/sub-footer-bkgrd.png','http://tlb.hwcdn.net/z6j5q8y3/cds/10-2011/twitter.png')">
 
-	<a class="logo" href="../index.php" alt="Highwinds" title="Highwinds"></a>
-    <!--End logo-->
-    
-    <div id="topNav">
-    	<a href="../support/index.php">Support</a>&nbsp;&nbsp;|&nbsp;
-        <a href="https://striketracker.highwinds.com/">StrikeTracker Login</a>&nbsp;&nbsp;|&nbsp;
-        <a href="../company/contact-us.php">Contact Us</a>
+<div id="wrapper">
+
+	<div id="header_wrap">
+    	<div id="header_content">
+        	<a class="logo" href="../index.php"><h2 class="hide">Highwinds</h2></a>
+            <div id="top_nav">
+            <a href="https://striketracker.highwinds.com/" target="_blank">StrikeTracker Login</a>
+            &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="../support">Support</a>
+            &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="../company/contact-us.php">Contact Us</a>
+            &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="../brazil">Brazil</a>
+            </div>
+            <div id="search_wrap">
+            	<div id="cse-search-form" style="width:313px;">Loading</div>
+				<script src="//www.google.com/jsapi" type="text/javascript"></script>
+                <script type="text/javascript"> 
+                  google.load('search', '1', {language : 'en'});
+                  google.setOnLoadCallback(function() {
+                    var customSearchControl = new google.search.CustomSearchControl('006360108607864589262:vq_v6rjov9k');
+                    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+                    var options = new google.search.DrawOptions();
+                    options.enableSearchboxOnly("search.php");
+                    customSearchControl.draw('cse-search-form', options);
+                  }, true);
+                </script>
+            </div>
+        </div>
     </div>
-    <!--End topNav-->
-    
-    <div id="mainNav">
-    	<ul id="navLinks">
-        <li class="systemSuite"><a href="#"></a>
-             <ul>
-              <li><a href="../system-suite/system-suite-overview.php">Overview</a></li>
-              <li><a href="../cdn/cdn-overview.php">CDN</a></li>
-              <li><a href="../network/network-overview.php">Network Services</a></li>
-              <li><a href="../colocation/colocation-overview.php">Colocation</a></li>
-              <li><a href="../system-suite/ip-software.php">IP Software</a></li>
-             </ul>
-        </li>
-        <li class="industries"><a href="#"></a>
-              <ul>
-              <li><a href="../industries/sports-media-entertainment.php">Sports, Media &amp; Entertainment</a></li>
-              <li><a href="../industries/online-marketing.php">Online Marketing</a></li>
-              <li><a href="../industries/gaming.php">Gaming</a></li>
-              <li><a href="../industries/social-media.php">Social Media</a></li>
-              <li><a href="../industries/faith-based.php">Faith-Based</a></li>
-              <li><a href="../industries/enterprise.php">Enterprise</a></li>
-              <li><a href="../industries/software-and-technology.php">Software &amp; Technology</a></li>
-              <li><a href="../industries/education-and-government.php">Education &amp; Government</a></li>
-              <li><a href="../industries/channel-and-resellers.php">Channel &amp; Resellers</a></li>
-             </ul>
-        </li>
-        <li class="cdn"><a href="#"></a>
-        	<ul>
-            <li><a href="../cdn/cdn-overview.php">Overview</a></li>
-            <li><a href="../hd/overview.php">Highwinds HD</a></li>
-            <li><a href="../cdn/http-delivery.php">HTTP Delivery</a></li>
-           	<li><a href="../cdn/on-demand-streaming.php">On-Demand Streaming</a></li>
-       		<li><a href="../cdn/live-streaming.php">Live Streaming</a></li>
-           	<li><a href="../cdn/mobile-delivery.php">Mobile Delivery</a></li>
-         	<li><a href="../cdn/iptv.php">IPTV</a></li>
-           	<li><a href="../cdn/content-storage.php">Content Storage</a></li>
-           	<li><a href="../cdn/content-protection.php">Content Protection</a></li>
-           	<li><a href="../cdn/custom-solutions.php">Custom Solutions</a></li>
-         	<li><a href="../cdn/professional-services.php">Professional Services</a></li>
-         	<li><a href="../striketracker/index.php">StrikeTracker Overview</a></li>
-        	</ul>
-        </li>
-       <li class="network"><a href="#"></a>
-              <ul>
-              <li><a href="../network/network-overview.php">Overview</a></li>
-              <li><a href="../network/ip-transit.php">IP Transit</a></li>
-              <li><a href="../network/peering.php">Peering</a></li>
-              <li><a href="../network/transport.php">Transport</a></li>
-              <li><a href="../network/private-line-ethernet.php">Private Line Ethernet</a></li>
-             </ul>
-        </li>
-        <li class="colocation"><a href="#"></a>        	
-              <ul>
-              <li><a href="../colocation/colocation-overview.php">Overview</a></li>
-              <li><a href="../colocation/managed-hosting.php">Managed Hosting</a></li>
-              <li><a href="../colocation/professional-services.php">Professional Services</a></li>
-              <li><a href="../colocation/colo-partner-program.php">Colo Partner Program</a></li>
-             </ul>
-        </li>
-        <li class="partners"><a href="#"></a>
-              <ul>
-              <li><a href="../partners/partners-overview.php">Overview</a></li>
-              <li><a href="../partners/ecosystem-partners.php">Ecosystem Partners</a></li>
-              <li><a href="../partners/technology-partners.php">Technology Partners</a></li>
-              <li><a href="../partners/channel-partners.php">Channel Partners</a></li>
-              <li><a href="../partners/peering-partners.php">Peering Partners</a></li>
-              <li><a href="../partners/technology-access-program.php">Technology Access Program</a></li>
-             </ul>
-        </li>
-        <li class="headlinkLast company"><a href="#"></a>
-              <ul>
-              <li><a href="../company/about-us.php">About Us</a></li>
-              <li><a href="../news/">Press Releases</a></li>
-              <li><a href="../news/?q=articles-and-videos">Articles and Videos</a></li>
-              <li><a href="../news/?q=blog">Blog</a></li>
-              <li><a href="../company/press-kit.php">Press Kit</a></li>
-              <li><a href="../company/events.php">Events</a></li>
-              <li><a href="../company/executive-team.php">Executive Team</a></li>
-              <li><a href="../company/in-the-community.php">In the Community</a></li>
-              <li><a href="../company/careers.php">Careers</a></li>
-              <li><a href="../company/contact-us.php">Contact Us</a></li>
-             </ul>
-        </li>
-        </ul>
-    </div>
-    <!--End mainNav-->
 
-</div>
-<!--End of headerWrap--><div id="redLine"></div>
-<div id="interiorWrap">
-	<div id="interiorLeft">
-		<div id="textBox">
-       <div class="redTitle">Privacy Policy</div><br>
-       <div class="text">
+	<div id="nav_wrap">
+    	<div id="nav_content">
+	    	<ul id="menu">
+
+                <li><a href="../cdn/index.php" class="cdn menusprite"><h2 class="hide">CDN</h2></a>
+                    <div class="dropdown_3columns">
+                    	<table class="link_holder" border="0" cellspacing="0" cellpadding="0" width="100%">
+                        	<tbody><tr>
+                            	<td width="50%">
+                                	<a href="../cdn/index.php" class="nav_links">CDN Overview</a>
+                                	<a href="../cdn/http-caching.php" class="nav_links">HTTP Caching</a>
+                                	<a href="../cdn/http-streaming.php" class="nav_links">HTTP Streaming</a>
+                                    <a href="../cdn/load-balancing.php" class="nav_links">SelectPath™ Load Balancing</a>
+                                </td>
+                                <td valign="top">
+                                    <a href="../cdn/adaptive-storage.php" class="nav_links">Adaptive Storage™</a>
+                                	<a href="../cdn/licensed-federated-cdn.php" class="nav_links">Licensed/Federated CDN</a>
+                                    <a href="../cdn/striketracker2.php" class="nav_links">StrikeTracker 2</a>
+                                    <a href="../cdn/network-services.php" class="nav_links">Network Services</a>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </div>
+                </li>
+
+                <li><a href="../solutions/hd.php" class="solutions menusprite"><h2 class="hide">SOLUTIONS</h2></a>
+                    <div class="dropdown_1column">
+                    	<table class="link_holder" border="0" cellspacing="0" cellpadding="0" width="100%">
+                        	<tbody><tr>
+                            	<td>
+                                	<a href="../solutions/hd.php" class="nav_links">HD</a>
+                                    <a href="../solutions/iptv.php" class="nav_links">IPTV</a>
+                                    <a href="../solutions/mobile.php" class="nav_links">Mobile</a>
+                                	<a href="../solutions/live-streaming.php" class="nav_links">Live Streaming</a>
+                                    <a href="../solutions/technology-access-program.php" class="nav_links">Technology Access Program (TAP)</a>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    
+                    </div>
+                </li>
+
+                <li><a href="../industries/sports-media-entertainment.php" class="industries menusprite"><h2 class="hide">INDUSTRIES</h2></a>
+                    <div class="dropdown_3columns">
+                    	<table class="link_holder" border="0" cellspacing="0" cellpadding="0" width="100%">
+                        	<tbody><tr>
+                            	<td width="50%">
+                                	<a href="../industries/sports-media-entertainment.php" class="nav_links">Sports, Media &amp; Entertainment</a>
+                                	<a href="../industries/advertising-networks.php" class="nav_links">Advertising Networks</a>
+                                    <a href="../industries/game-delivery-network.php" class="nav_links">Game Delivery Network (GDN™)</a>
+                                    <a href="../industries/isps-carriers-cable-msos-clec.php" class="nav_links">ISPs, Carriers, Cable MSOs, CLEC</a>
+                                	<a href="../industries/iptv.php" class="nav_links">IPTV</a>
+                                    <a href="../industries/social-media.php" class="nav_links">Social Media</a>
+                                </td>
+                                <td valign="top">
+                                    <a href="../industries/faith-based.php" class="nav_links">Faith Based</a>
+                                    <a href="../industries/enterprise.php" class="nav_links">Enterprise</a>
+                                    <a href="../industries/software-technology.php" class="nav_links">Software &amp; Technology</a>
+                                    <a href="../industries/education-and-government.php" class="nav_links">Education &amp; Government</a>
+                                    <a href="../industries/channel-and-resellers.php" class="nav_links">Channel &amp; Resellers</a>
+                                </td>
+                            </tr>
+                        </tbody></table>                    
+                    </div>
+                </li>
+
+                <li><a href="../network/index.php" class="network menusprite"><h2 class="hide">NETWORK</h2></a>
+                    <div class="dropdown_1column">
+                    	<table class="link_holder" border="0" cellspacing="0" cellpadding="0" width="100%">
+                        	<tbody><tr>
+                            	<td>
+                                	<a href="../network/index.php" class="nav_links">Overview</a>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    
+                    </div>
+                </li>
+
+                <li><a href="../partners/index.php" class="partners menusprite"><h2 class="hide">PARTNERS</h2></a>
+                    <div class="dropdown_1column">
+                    	<table class="link_holder" border="0" cellspacing="0" cellpadding="0" width="100%">
+                        	<tbody><tr>
+                            	<td>
+                                	<a href="../partners/index.php" class="nav_links">Overview</a>
+                                	<a href="../partners/ecosystem.php" class="nav_links">Ecosystem</a>
+                                	<a href="../partners/channel.php" class="nav_links">Channel</a>
+                                    <a href="../partners/peering.php" class="nav_links">Peering</a>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    
+                    </div>
+                </li>
+
+                <li><a href="../company/index.php" class="company menusprite"><h2 class="hide">COMPANY</h2></a>
+                    <div class="dropdown_2columns">
+                    	<table class="link_holder" border="0" cellspacing="0" cellpadding="0" width="100%">
+                        	<tbody><tr>
+                            	<td width="50%">
+                                	<a href="../company/index.php" class="nav_links">About Us</a>
+                                	<a href="../company/careers.php" class="nav_links">Careers</a>
+                                    <a href="../company/contact-us.php" class="nav_links">Contact Us</a>
+                                    <a href="../news/?cat=54" class="nav_links">Press Releases</a>
+                                    <a href="../news/?cat=56" class="nav_links">Articles &amp; Videos</a>
+                                	<a href="../news/?cat=55" class="nav_links">Blog</a>
+                                </td>
+                                <td valign="top">
+                                    <a href="https://twitter.com/Highwinds" class="nav_links" target="_blank">Twitter</a>
+                                    <a href="../company/press-kit.php" class="nav_links">Press Kit</a>
+                                    <a href="../company/events.php" class="nav_links">Events</a>
+                                    <a href="../company/executive-team.php" class="nav_links">Executive Team</a>
+                                    <a href="../company/in-the-community.php" class="nav_links">In the Community</a>
+                                </td>
+                            </tr>
+                        </tbody></table>  
+                    </div>
+                </li>
+            
+	        </ul>
+    	</div>
+    </div>
+	<div id="interior_banner_wrap">
+    	<div id="interior_banner_content">
+        	<div id="interior_pg_title">
+            Privacy Policy
+            </div>
+		</div>
+        <!--end of interior_banner_content-->
+	</div>
+	<!--end of interior_banner_wrap-->
+
+	<div id="interior_wrap">
+    	<div id="interior_content">
+        	<div id="interior_left">
+            	<div class="page_title">Privacy Policy</div>
+             <p>   
          Protecting your privacy is important to Highwinds. We hope the following statement about the information we collect from the Highwinds Site will help you understand how Highwinds collects, uses and safeguards the personal information you provide to us on the Highwinds Site.
 <br><br>
 <strong>Collection and Uses of Personal Information:</strong>
@@ -232,94 +320,255 @@ Once a calendar year, California residents who provide personal information in o
 <strong>Contact Us:</strong>
 <br>
 Feel free to contact us at <a href="mailto:support@highwinds.com" class="link">support@highwinds.com</a>.
-  	
-         </div>
-  	
-      </div>
-  </div>
-    <!--End of interiorLeft-->
+             </p>
     
-    <div id="interiorRight">  
+            </div>
+            <!--End of interior_left-->
+            
+            
+            <div id="interior_right">
+            	
+			
+<script type="text/javascript">
+function validation(form) {
+            
+if(form.first_name.value == '') {
+
+alert('Please enter your First Name.');
+form.first_name.focus();
+return false;
+}
+
+if(form.last_name.value == '') {
+
+alert('Please enter your Last Name.');
+form.last_name.focus();
+return false;
+}
+
+if(form.email.value == '') {
+
+alert('Please enter your Email Address.');
+form.email.focus();
+return false;
+}
+
+if(form.company.value == '') {
+
+alert('Please enter your Company.');
+form.company.focus();
+return false;
+}
+
+return true;
+}
+  
+</script>
 
 
-<div id="chatWrap">
-<p><!-- Embedded WhosOn: Insert the script below at the point on your page where you want the Click To Chat link to appear --><script type="text/javascript" src="http://chat.highwinds.com:8080/include.js?domain=www.highwinds.com"></script><script type="text/javascript">
-if(typeof sWOTrackPage=='function')sWOTrackPage();
-</script><!-- End of embedded WhosOn --></p>
-        	
+            
+            <div id="form_wrap">
+            	<div id="form_wrap_content">
+             		<div id="right_hdr" class="logosm">Request a Free Trial</div>    
+                 </div>
+            </div>
+            <form action="https://www.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST" onsubmit="return validation(this);">
+                 
+                <input type="hidden" name="oid" value="00D300000000ZhN">
+                <input type="hidden" id="lead_source" name="lead_source" value="Website">
+                <input type="hidden" id="00N60000001mIAE" name="00N60000001mIAE" title="Lead Source Dropdown" value="StrikeTracker 2">
+                <input type="hidden" name="retURL" value="http://highwinds.com/thankyou.php">
+             			<center>
+                        <table cellspacing="0" cellpadding="0" border="0" class="normal" width="100%">
+                        	<tbody><tr>
+                            	<td colspan="2" style="text-align:left;padding-left:10px;padding-top:8px;">Fill out the Form Below to Request your Free Trial!<br><br></td>
+                            </tr>
+                            <tr>
+                                <td valign="top" style="text-align:left;padding-left:10px;padding-top:8px;" align="left"><strong><label for="first_name"><strong>First Name:*</strong></label></strong></td>
+                                <td valign="top" style="text-align:left;padding-left:8px;padding-top:8px;"><label for="last_name" align="left"><strong>Last Name:*</strong></label></td>
+                            </tr>
+                            <tr>
+                                <td align="left" style="padding-left:10px;"><input class="textbox" id="first_name" maxlength="40" name="first_name" size="14" type="text"></td>
+                                <td align="left" style="padding-left:8px;"><input class="textbox" id="last_name" maxlength="80" name="last_name" size="14" type="text"></td>
+                           </tr>
+                           <tr>
+                                <td valign="top" style="text-align:left;padding-left:10px;padding-top:8px;" align="left"><label for="company"><strong>Company:*</strong></label></td>
+                                <td valign="top" style="text-align:left;padding-left:8px;padding-top:8px;" align="left"><label for="phone"><strong>Phone:</strong></label></td>
+                            </tr>
+                            <tr>
+                                <td align="left" style="padding-left:10px;"><input class="textbox" id="company" maxlength="40" name="company" size="14" type="text"></td>
+                                <td align="left" style="padding-left:8px;"><input class="textbox" id="phone" maxlength="40" name="phone" size="14" type="text"></td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" valign="top" style="text-align:left;padding-left:10px;padding-top:8px;" align="left"><label for="email"><strong>Email:*</strong></label></td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" align="left" style="padding-left:10px;"><input class="textbox" id="email" maxlength="80" name="email" size="32" type="text"></td>
+                            </tr>   
+                            <tr>
+                                <td colspan="2" valign="top" style="text-align:left;padding-left:10px;padding-top:8px;" align="left"><strong>Comments/Questions:*</strong></td>
+                            </tr>
+                            <tr>
+                                <td colspan="2" align="left" style="padding-left:10px;"><textarea class="textbox" id="00N600000020ZB1" name="00N600000020ZB1" rows="5" cols="33" type="text" wrap="soft"></textarea></td>
+                            </tr>
+                            
+                            <tr>
+                            	<td colspan="2" align="center" style="padding-top:15px; padding-bottom:10px;"><input type="submit" name="submit" value="Send Request"></td>
+                            </tr>
+                        </tbody></table>
+                        </center>
+                        <br>
+                 </form>
+                             
+
+                <div id="contact_wrap">
+                	<div id="contact_content">
+	                	<div id="right_hdr" class="logosm"><a href="../company/contact-us.php">Contact Us Today</a></div> 
+                        <table class="contact_table">
+                        	<tbody><tr>
+                            	<td class="bold">Corporate:</td>
+                                <td>+1.866.872.0357</td>
+                            </tr>
+                        	<tr>
+                            	<td class="bold">Amsterdam:</td>
+                                <td>+31.20.2629545</td>
+                            </tr>
+                        	<tr>
+                            	<td class="bold">London:</td>
+                                <td>+44.20.7096.5490</td>
+                            </tr>
+                        	<tr>
+                            	<td class="bold">São Paulo:</td>
+                                <td>+55.11.3711.9307</td>
+                            </tr>
+                        	<tr>
+                            	<td class="bold">Email:</td>
+                                <td><a href="mailto:info@highwinds.com" class="link">info@highwinds.com</a></td>
+                            </tr>
+                        </tbody></table>
+                        	   
+                                 
+  
+                <div id="chat_wrap">
+                <p><!-- Embedded WhosOn: Insert the script below at the point on your page where you want the Click To Chat link to appear --><script type="text/javascript" src="http://chat.highwinds.com:8080/include.js?domain=www.highwinds.com"></script><script type="text/javascript">
+                if(typeof sWOTrackPage=='function')sWOTrackPage();
+                </script><!-- End of embedded WhosOn --></p>
+                            
+                </div>
+                <!--End of chatWrap-->
+	   
+	   
+	   
+                    </div>
+                </div>
+                <!--end of contant_wrap-->            
+            </div>
+            <!--end of interior_right-->
+            <br clear="both">
+        </div>
+        <!--End of interior_content-->
+    </div>
+	<!--End of interior_wrap-->
+
+
+
+
+
+	<div id="push"></div>
 </div>
-<!--End of chatWrap-->
+<!--end of wrapper-->
 
-<div id="contactWrap">
-        	<div id="rightContact">
-        	<table class="text" border="0" cellspacing="0" cellpadding="2">
+<div id="footer">
+	<div id="footer_top">
+    	<div id="footer_top_content">
+        	<table width="100%" class="footer_links">
             	<tbody><tr>
-                	<td colspan="2" class="blackHeading">Contact Us Today</td>
-                </tr>
-            	<tr>
-                	<td class="bold-text">Corporate:</td>
-                	<td>+1.866.872.0357</td>
-                </tr>
-            	<tr>
-                	<td class="bold-text">Amsterdam:</td>
-                	<td>+31.20.2629545</td>
-                </tr>
-            	<tr>
-                	<td class="bold-text">London:</td>
-                	<td>+44.20.7096.5490</td>
-                </tr>
-            	<tr>
-                	<td class="bold-text">São Paulo:</td>
-                	<td>+55.11.3711.9307</td>
-                </tr>
-            	<tr>
-                	<td class="bold-text">Email:</td>
-                	<td><a href="mailto:info@highwinds.com" class="linkblack">info@highwinds.com</a></td>
+                	<td valign="top" width="20%">
+                    	<div class="footer_pad"><a href="../../cdn/index.php" class="footer_title">CDN</a></div>
+                        <a href="../cdn/index.php">CDN Overview</a><br>
+                        <a href="../cdn/http-caching.php">HTTP Caching</a><br>
+                        <a href="../cdn/http-streaming.php">HTTP Streaming</a><br>
+                        <a href="../cdn/load-balancing.php">Load Balancing</a><br>
+                        <a href="../cdn/adaptive-storage.php">Adaptive Storage</a><br>
+                        <a href="../cdn/licensed-federated-cdn.php">Licensed/Federated CDN</a><br>
+                        <a href="../cdn/striketracker2.php">StrikeTracker 2</a><br>
+                        <a href="../cdn/network-services.php">Network Services</a><br>
+                    </td>
+                	<td valign="top" width="20%">
+                    	<div class="footer_pad"><a href="../../solutions/hd.php" class="footer_title">SOLUTIONS</a></div>
+                        <a href="../solutions/hd.php">HD</a><br>
+                        <a href="../solutions/iptv.php">IPTV</a><br>
+                        <a href="../solutions/mobile.php">Mobile</a><br>
+                        <a href="../solutions/live-streaming.php">Live Streaming</a><br>
+                        <a href="../solutions/technology-access-partners.php">Technology Access Partners (TAP)</a>
+                        <br> <br>
+                    	<div class="footer_pad"><a href="../../network/index.php" class="footer_title">NETWORK</a></div>
+                        <a href="../../network/index.php">Overview</a><br>
+                    </td>
+                	<td valign="top" width="25%">
+                    	<div class="footer_pad"><a href="../../industries/sports-media-entertainment.php" class="footer_title">INDUSTRIES</a></div>
+                        <a href="../industries/sports-media-entertainment.php">Sports, Media &amp; Entertainment</a><br>
+                        <a href="../industries/advertising-networks.php">Advertising Networks</a><br>
+                        <a href="../industries/game-delivery-network.php">Game Delivery Network (GND™)</a><br>
+                        <a href="../industries/isps-carriers-cable-msos-clec.php">ISPs, Carriers, Cable MSOs, CLEC</a><br>
+                        <a href="../industries/iptv.php">IPTV</a><br>
+                        <a href="../industries/social-media.php">Social Media</a><br>
+                        <a href="../industries/faith-based.php">Faith Based</a><br>
+                        <a href="../industries/enterprise.php">Enterprise</a><br>
+                        <a href="../industries/software-technology.php">Software &amp; Technology</a><br>
+                        <a href="../industries/education-and-government.php">Education &amp; Government</a><br>
+                        <a href="../industries/channel-and-resellers.php">Channel &amp; Resellers</a>
+                    </td>
+                	<td valign="top" width="20%">
+                    	<div class="footer_pad"><a href="../../partners/index.php" class="footer_title">PARTNERS</a></div>
+                        <a href="../partners/index.php">Overview</a><br>
+                        <a href="../partners/ecosystem.php">Ecosystem Partners</a><br>
+                        <a href="../partners/channel.php">Channel Partners</a><br>
+                        <a href="../partners/peering.php">Peering Partners</a><br>
+                    </td>
+                	<td valign="top" width="10%">
+                    	<div class="footer_pad"><a href="../../company/index.php" class="footer_title">COMPANY</a></div>
+                        <a href="../company/index.php">About Us</a><br>
+                        <a href="../company/careers.php">Careers</a><br>
+                        <a href="../company/contact-us.php">Contact Us</a><br>
+                        <a href="../news/?cat=54">Press Releases</a><br>
+                        <a href="../news/?cat=56">Articles &amp; Videos</a><br>
+                        <a href="../news/?cat=55">Blog</a><br>
+                        <a href="http://twitter.com/highwinds" target="_blank">Twitter</a><br>
+                        <a href="../company/press-kit.php">Press Kit</a><br>
+                        <a href="../company/events.php">Events</a><br>
+                        <a href="../company/executive-team.php">Executive Team</a><br>
+                        <a href="../company/in-the-community.php">In the Community</a>
+                    </td>
                 </tr>
             </tbody></table>
+    	</div>
+    </div>
+   	<div id="footer_bottom">
+        <div id="footer_bottom_content">
+            <div id="bottom_right">
+            Copyright © 2011 Highwinds Network Group, Inc.&nbsp;&nbsp;|&nbsp;
+            <a href="../peering-policy.php">Peering Policy</a> &nbsp;&nbsp;|&nbsp;
+            <a href="../legal.php">Legal</a> &nbsp;&nbsp;|&nbsp;
+            <a href="../company/careers.php">Careers</a> &nbsp;&nbsp;|&nbsp;
+            <a href="../company/contact-us.php">Contact Us</a>
+            </div>
+            <div id="bottom_left">
+            	<table>
+                	<tbody><tr>
+                    	<td>Connect With Us:</td>
+                        <td><a href="../news/?cat=54&amp;feed=rss2"><img src="http://tlb.hwcdn.net/z6j5q8y3/cds/10-2011/rss.png" alt="RSS Feed" border="0"></a></td>
+                        <td><a href="http://twitter.com/highwinds" target="_blank"><img src="http://tlb.hwcdn.net/z6j5q8y3/cds/10-2011/twitter.png" alt="Follow Us on Twitter" border="0"></a></td>
+                        
+                    </tr>
+                </tbody></table>
+                				 <!--69.16.184.153-->
             </div>
         </div>
-        <!--End of contactWrap-->
-        
-
-  	</div>	
-    <!--End of interiorRight-->
-	<br clear="all">
-</div>
-<!--End of interiorWrap-->
-
-
-<br clear="all">
-<div id="footerWrap">
-	<div id="copyright">Copyright © 2011. Highwinds Network Group, Inc. All rights reserved.</div>
-    <div id="footRight">
-        <table>
-        	<tbody><tr>
-            	<td>
-                <a href="../peering-policy.php">Peering Policy</a>&nbsp;&nbsp;|&nbsp;
-                <a href="../privacy-policy.php">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;
-                <a href="../legal.php">Legal</a>&nbsp;&nbsp;|&nbsp;
-                <a href="../company/careers.php">Careers</a>&nbsp;&nbsp;|&nbsp;
-                <a href="mailto:info@highwinds.com?subject=Request for Additional Information from highwinds.com">E-mail Us</a>&nbsp;&nbsp;</td>
-            	<td><a href="../news/?q=rss.xml" target="_blank"><img src="http://tlb.hwcdn.net/z6j5q8y3/cds/images/rss-32x32.png" alt="RSS Feeds" border="0"></a></td>
-            	<td><a href="http://www.twitter.com/highwinds_" target="_blank"><img src="http://tlb.hwcdn.net/z6j5q8y3/cds/images/twitter-32x32.png" alt="Follow Us On Twitter!" border="0"></a></td>
-            </tr>
-        </tbody></table>
     </div>
 </div>
-<!--End of footerWrap-->
-<br clear="all">
+<!--end of footer-->
 
-<script type="text/javascript">
-	var verticalAccordions = $$('.accordion_toggle');
-	verticalAccordions.each(function(accordion) {
-		$(accordion.next(0)).setStyle({
-		  height: '0px'
-		});
-	});
-
-	
-</script>
 
 
 </body></html>
