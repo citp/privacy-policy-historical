@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorfxweb.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517075710id_/http%3A//colorfxweb.com/content/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorfxweb.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114232555id_/http%3A//www.colorfxweb.com/content/privacy-policy.aspx) for the most accurate reproduction.*
 
 # ColorFXweb.com - Privacy Policy
 
