@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the genworth.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217151724id_/http%3A//www.genworth.com/content/genworth/www_genworth_com/web/corporate/en/non_navigable/corp_footer/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genworth.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114150125id_/http%3A//www.genworth.com/content/genworth/www_genworth_com/web/corporate/en/non_navigable/corp_footer/privacy_policy.html) for the most accurate reproduction.*
 
 # Genworth Financial - Corporate Privacy Policy
 
 ## Online Privacy Policy
 
-This Web site is operated by Genworth Financial, Inc., and its affiliated companies ("We"). We are committed to respecting your privacy and value your trust. We **do not** sell information about you. We **do not** share your information for marketing purposes without your consent with anyone other than Genworth Financial and our subsidiary affiliates. This privacy notice tells you what information we collect, how we use it and how we protect it.
+This Web site is operated by Genworth Financial, Inc., and its affiliated companies ("We"), and this Privacy Policy applies to this website. We are committed to respecting your privacy and value your trust. We **do not** sell information about you. We **do not** share your information for marketing purposes without your consent with anyone other than Genworth Financial and our subsidiary affiliates. This privacy notice tells you what information we collect, how we use it and how we protect it.
 
 ## Online Information Collection
 
@@ -56,7 +56,7 @@ The practices and policies contained in this Privacy Policy replace all previous
 
 This Privacy Policy will not apply to your relationships with companies that are not part of Genworth Financial, such as banks and independent insurance agents. Their privacy policies will govern how they collect, use and disclose personal information that you allow them to access.
 
-This Privacy Policy applies only to the information collection practices of this Web site.
+This Privacy Policy applies only to the information collection practices of this Web site.  Certain affiliates may operate their own web sites, and they post for your review more detailed information on how they collect, store, use and protect your personal information. 
 
 ## Our Privacy Policies – Our Commitment to Customers
 
@@ -74,4 +74,10 @@ We are committed to protecting personal information, and to using it or sharing 
 
 We reserve the right to modify or supplement our Privacy Policy at any time. If we make material changes, we will post our current Privacy Policy on our Web site.
 
-April 2006
+## HIPAA Privacy Policy
+
+[Genworth Life Insurance Company HIPAA Privacy Policy](https://web.archive.org/content/etc/medialib/genworth/corp_site/pdfs/HIPAA_Privacy_Policy.Par.64807.File.dat/HIPAA%20NPP%20GLIC.pdf "Genworth Life Insurance Company HIPAA Privacy Policy")  
+[Genworth Life Insurance Company of New York HIPAA Privacy Policy](https://web.archive.org/content/etc/medialib/genworth/corp_site/pdfs/HIPAA_Privacy_Policy.Par.24287.File.dat/HIPAA%20NPP%20GLICNY.pdf "Genworth Life Insurance Company of New York HIPAA Privacy Policy")  
+
+
+May 2009
