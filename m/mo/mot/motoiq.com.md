@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motoiq.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104051200id_/http%3A//motoiq.com/Home/tabid/37/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motoiq.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114070505id_/http%3A//www.motoiq.com/privacy.aspx) for the most accurate reproduction.*
 
-# MotoIQ - Latest Articles, Features, Tech, Projects, Columns, Forum, My Garage
+# MotoIQ - Performance, Automotive Tech, Motorsports & Project Cars
 
 MotoIQ is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the MotoIQ Web site and governs data collection and usage. By using the MotoIQ website, you consent to the data practices described in this statement.
 
