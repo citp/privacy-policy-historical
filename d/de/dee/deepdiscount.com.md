@@ -1,10 +1,21 @@
-> *The following text is extracted and transformed from the deepdiscount.com privacy policy that was archived on 2006-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061013115642id_/http%3A//www.deepdiscount.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepdiscount.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114222231id_/http%3A//www.deepdiscount.com/privacy-policy) for the most accurate reproduction.*
 
-# deepdiscount.com
+# Help Policies Privacy Policy at DeepDiscount.com
 
-**Privacy Policy**
+We respect your right to privacy. At DeepDiscount.com we collect only the information necessary for us to complete your order or to contact you regarding the status of your order. The information we collect includes your name, e-mail address, shipping address, billing address, credit card for payment and a password. 
 
-  * **Our Policy is Very Simple.**
-  * We will not sell, rent, distribute or otherwise give your email address, mailing address, contact information or any other information we collect from you to any other third party. All information that we collect is kept on a secure server and is used for internal billing, tracking or newsletter purposes only. Your personal privacy is a number one concern with us and we take that task very seriously. 
+DeepDiscount.com will not rent, sell or share your name or personal information without your permission. 
+
+DeepDiscount.com does use "cookies" to help recognize you as a repeat visitor and to track traffic patterns on our site. This information is completely anonymous. We use this information to improve the user-friendliness and functionality of DeepDiscount.com. 
+
+On occasion we might send a mailing to your address or send you an e-mail including special promotions or new releases from DeepDiscount.com, our parent company CD Listening Bar Inc., or one of its other subsidiaries, and we might send a mailing to your address co-promoting the products or services of companies whose products or services you might find of interest. If you choose not to receive such communications, you may remove yourself from our mailing list by e-mailing us at cs@deepdiscount.com or you may mail us at: 
+
+DeepDiscount.com  
+ATTN: OPT-OUT  
+900 N. Rohlwing Road  
+Itasca, IL 60143  
 
 
+Please understand that even if you opt out of receiving promotional mailings and communications as described above, on your acceptance of third party company offers on our website, DeepDiscount.com will still share your contact and billing information. 
+
+DeepDiscount.com reserves the right to update this privacy policy at anytime. Updates to our privacy policy will be posted on the DeepDiscount.com website. This policy is not intended to confer, and does not confer, any rights or remedies. 
