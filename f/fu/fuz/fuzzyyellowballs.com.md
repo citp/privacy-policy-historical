@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fuzzyyellowballs.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517092227id_/http%3A//www.fuzzyyellowballs.com/fyb-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuzzyyellowballs.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114232747id_/http%3A//www.fuzzyyellowballs.com/fyb-privacy-policy) for the most accurate reproduction.*
 
 # FuzzyYellowBalls.com Privacy Policy
 
-Fuzzy Yellow Balls is extremely proud of our Privacy Policy. Please read the entire policy below, as it is a reflection of our strong commitment to protecting you and your information while you surf our site. As young adults (and web-2.0 guys) who have grown up in the internet generation, we understand how important and valuable privacy is on the internet. _We firmly believe that when you place your information in the hands of a website, that site is obligated to protect and do no more with that information than they expressly state in the privacy policy._ Keep in mind that while we do reserve the right to change our privacy policy in the future, the overall spirit enshrined below will remain the same.
+Fuzzy Yellow Balls is extremely proud of its Privacy Policy. Please read the entire policy below, as it is a reflection of our strong commitment to protecting you and your information while you surf our site. As young adults (and web-2.0 guys) who have grown up in the internet generation, we understand how important and valuable privacy is on the internet. _We firmly believe that when you place your information in the hands of a website, that site is obligated to protect and do no more with that information than they expressly state in the privacy policy._ Keep in mind that while we do reserve the right to change our privacy policy in the future, the overall spirit enshrined below will remain the same.
 
 **What information do we collect?**  
 Fuzzy Yellow Balls collects information from you when you subscribe to our free newsletter, register as a free member of the site, or become a paying subscriber to the FYB Premium section of the site. When subscribing to our newsletter, we ask for your first name and email address. When registering as a free member of the website, you are asked to create an account using your name (or alias), email address, and you are asked to create a password to protect your account. FYB does not have the ability to see your password, but we can reset it for you on your request. You may also visit fuzzyyellowballs.com completely anonymously.
@@ -41,12 +41,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **This policy was last modified on 9/17/09. If there are any questions regarding this privacy policy you may contact us using the information below:**
 
- **
-
 Fuzzy Yellow Balls, LLC  
 4545 Connecticut Ave. NW #535  
 Washington, DC 20008
 
 adam@fuzzyyellowballs.com
-
-**
