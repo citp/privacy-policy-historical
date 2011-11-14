@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsibaltimore.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513073811id_/http%3A//hsionline.com/privacy-policydisclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsibaltimore.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114014432id_/http%3A//hsionline.com/privacy-policydisclaimer) for the most accurate reproduction.*
 
 # Privacy Policy/Disclaimer
 
@@ -10,9 +10,9 @@ If you opt-in you may receive e-mails from us introducing new products and servi
 
 We reserve the right to use, without identifying you, any questions, comments or other information that is submitted. We guarantee that we will keep your personal identification information confidential if your information is used in books, articles, or promotions.
 
-By using Healthsciencesonline.com you have agreed to accept our privacy policy. We reserve the right to change or modify Healthsciencesonline.com and its policies at anytime. By continuing to use the website you have agreed to any changes that have been made.
+By using HSIonline.com you have agreed to accept our privacy policy. We reserve the right to change or modify HSIonline.com and its policies at anytime. By continuing to use the website you have agreed to any changes that have been made.
 
-If you have any questions or concerns about HSIBaltimore.com privacy policy please send an e-mail to: hsiresearch@healthiernews.com  
+If you have any questions or concerns about HSIonline.com privacy policy please send an e-mail to: hsiresearch@healthiernews.com  
 
 
 Health Disclaimer! The information provided on this site should not be construed as personal medical advice or instruction. No action should be taken based solely on the contents of this site. Readers should consult appropriate health professionals on any matter relating to their health and well-being. The information and opinions provided here are believed to be accurate and sound, based on the best judgment available to the authors, but readers who fail to consult appropriate health authorities assume the risk of any injuries. The publisher is not responsible for errors or omissions.
