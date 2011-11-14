@@ -1,28 +1,46 @@
-<!--The following is the downloaded HTML source of the coursework.info privacy policy that was archived on 2011-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110511222733id_/http%3A//www.coursework.info/content/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coursework.info privacy policy that was archived on 2011-11-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111114040612id_/http%3A//www.coursework.info/content/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <!-- force IE7 compat mode -->
 <meta http-equiv="X-UA-Compatible" content="IE=7">
 <title>Privacy Statement</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link rel="stylesheet" type="text/css" href="http://static2.coursework.info/static/r22_20110511/cwi/css/all.css">
+<link rel="stylesheet" type="text/css" href="http://static1.cwifiles.co.uk/static/r27_4/cwi/css/all.css">
 <!--[if IE 6]>
-<link rel="stylesheet" type="text/css" href="/static/cwi/css/coursework_ie6-min.css" />
+<link rel="stylesheet" type="text/css" href="http://static1.cwifiles.co.uk/static/cwi/css/coursework_ie6-min.css" />
 <![endif]-->
 <!--[if IE 7]>
-<link rel="stylesheet" type="text/css" href="/static/cwi/css/coursework_ie7-min.css" />
+<link rel="stylesheet" type="text/css" href="http://static2.cwifiles.co.uk/static/cwi/css/coursework_ie7-min.css" />
 <![endif]-->
 <!--[if IE 8]>
-<link rel="stylesheet" type="text/css" href="/static/cwi/css/coursework_ie8-min.css" />
+<link rel="stylesheet" type="text/css" href="http://static1.cwifiles.co.uk/static/cwi/css/coursework_ie8-min.css" />
 <![endif]-->
 <!--
 -->
 <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
- var STATIC_FOLDER = 'http://static1.coursework.info/static/r22_20110511/cwi';
+ var STATIC_FOLDER = '/static/r27_4/cwi';
 </script>
-<script type="text/javascript" src="/static/r22_20110511/cwi/js/all.js"></script>
-<script type="text/javascript" src="/static/r22_20110511/cwi/js/jquery.tools.min.js"></script>
+<script type="text/javascript" src="http://static3.cwifiles.co.uk/static/r27_4/cwi/js/all.js"></script>
+<script type="text/javascript" src="http://static2.cwifiles.co.uk/static/r27_4/cwi/js/jquery.tools.min.js"></script>
+<!-- Start Coursework session tracking -->
+<script type="text/javascript">
+ function setsession(cwi_obj){
+ document.cookie = cwi_obj.name + "="+ cwi_obj.value +
+ ((cwi_obj.domain)  ? "; domain="  + cwi_obj.domain  : "" ) +
+ ((cwi_obj.path)    ? "; path="    + cwi_obj.path    : "" ) +
+ ((cwi_obj.expires) ? "; expires=" + cwi_obj.expires : "" );
+ }
+ $(document).ready(function(){
+ $.get("/cgi-bin/cwi_event_track.cgi", {},
+ function(data){
+ if (data.update) { setsession(data);};
+ },
+ "json"
+ );
+ })
+</script>
+<!-- End Coursework session tracking -->
 <script type="text/javascript">
  DD_roundies.addRule('.ad_box', '6px', true);
  DD_roundies.addRule('.category_content_box', '0 0 6px 6px', true);
@@ -66,8 +84,22 @@
  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
  })();
+ function trackPageView(href, trackUrl) {
+ _gaq.push('_trackPageview', trackUrl);
+ setTimeout('document.location = "' + href + '"', 100);
+ return false;
+ }
 </script>
 <!-- End Google Analytics -->
+<script type="text/javascript">
+ $(document).ready(function() {
+ if( !$.cookie('l') || $.cookie('l') != location.pathname || location.pathname == '/content/submission/') {
+ if ( location.pathname.match('cgi-bin') ) return;
+ $.cookie('l', null);
+ $.cookie('l', location.pathname, { domain: '.coursework.info' });
+ }
+ });
+</script>
 <!-- Begin comScore Tag -->
 <script>
  var _comscore = _comscore || [];
@@ -90,7 +122,7 @@
 <div class="main_wrapper clear">
 <div class="search_bar2">
 <div class="header_top white_text">
-<img src="http://static1.coursework.info/static/cwi/images/misc/as_seen_in.png">
+<img src="http://static2.cwifiles.co.uk/static/cwi/images/misc/as_seen_in.png">
 <div class="coursework_search">
 <form class="search_form" name="search" action="/search" method="get">
 <div class="search_options"><span class="search">
@@ -98,7 +130,7 @@
 <span class="advanced_search" style="margin-left:130px"><a href="/content/advanced_search">Advanced search</a></span>
 </span></div>
 <input type="text" id="search-q" size="25&quot;" name="q" value="Search Coursework.info">
-<input type="image" src="http://static3.coursework.info/static/cwi/images/buttons/search.png">
+<input type="image" src="http://static3.cwifiles.co.uk/static/cwi/images/buttons/search.png">
 </form>
 </div>
 </div>
@@ -117,12 +149,12 @@
 </blockquote>
 </div>
 <ul class="navigation_links">
-<li><a href="/" onclick="_gaq.push(['_trackPageview', '/virtual/tab/Home']);"><img src="http://static2.coursework.info/static/cwi/images/buttons/navigation/home_selected.png" alt="Home"></a></li>
-<li><a href="/GCSE/" onclick="_gaq.push(['_trackPageview', '/virtual/tab/GCSEs']);"><img src="http://static3.coursework.info/static/cwi/images/buttons/navigation/gcse.png" alt="GCSEs"></a></li>
-<li><a href="/AS_and_A_Level/" onclick="_gaq.push(['_trackPageview', '/virtual/tab/AS_and_A_Level']);"><img src="http://static3.coursework.info/static/cwi/images/buttons/navigation/a_level.png" alt="A-Level"></a></li>
-<li><a href="/University/" onclick="_gaq.push(['_trackPageview', '/virtual/tab/University']);"><img src="http://static3.coursework.info/static/cwi/images/buttons/navigation/university.png" alt="University"></a></li>
-<li><a href="/content/find_out_more/" onclick="_gaq.push(['_trackPageview', '/virtual/tab/Find_Out_More']);"><img src="http://static2.coursework.info/static/cwi/images/buttons/navigation/find_out_more.png" alt="Find out More"></a></li>
-<li><a href="/content/useful_resources/" onclick="_gaq.push(['_trackPageview', '/virtual/tab/Useful_Resources']);"><img src="http://static1.coursework.info/static/cwi/images/buttons/navigation/useful_resources.png" alt="Useful Resources"></a></li>
+<li><a href="/"><img src="http://static3.cwifiles.co.uk/static/cwi/images/buttons/navigation/home_selected.png" alt="Home"></a></li>
+<li><a href="/GCSE/"><img src="http://static1.cwifiles.co.uk/static/cwi/images/buttons/navigation/gcse.png" alt="GCSEs"></a></li>
+<li><a href="/AS_and_A_Level/"><img src="http://static1.cwifiles.co.uk/static/cwi/images/buttons/navigation/a_level.png" alt="A-Level"></a></li>
+<li><a href="/University/"><img src="http://static1.cwifiles.co.uk/static/cwi/images/buttons/navigation/university.png" alt="University"></a></li>
+<li><a href="/content/find_out_more/"><img src="http://static3.cwifiles.co.uk/static/cwi/images/buttons/navigation/find_out_more.png" alt="Find out More"></a></li>
+<li><a href="/content/useful_resources/"><img src="http://static3.cwifiles.co.uk/static/cwi/images/buttons/navigation/useful_resources.png" alt="Useful Resources"></a></li>
 </ul>
 <div class="hero_bar_top">&nbsp;</div>
 <div class="bread_crumbs">
@@ -131,9 +163,10 @@
 </div>
 <div id="hero_bar"></div>
 <script>
- var number_of_essay = '183,000';
+ var number_of_essay = '182,560';
  var essay_category_uc = '';
  var essay_category = '';
+ var cat_short_name = '';
  $(function() {
  var hideTimer;
  $('.tooltip_box').live('mouseover', function() {
@@ -169,13 +202,15 @@
  }, 200);
  }
  );
- var quote_no = 3;
- $.get('/static/cwi/pages/testimony' + quote_no + '.html', function(data) {
+ var quote_no = 6;
+ $.get('/cgi-bin/static.cgi?p=testimony' + quote_no + '', function(data) {
  $('#header_quote').html(data);
  });
- $.get('/static/cwi/pages/hero_bar2.html', function(data) {
+ if ( $('div#hero_bar').length> 0 ) {
+ $.get('/cgi-bin/static.cgi?p=hero_bar2', function(data) {
  $('#hero_bar').html(data);
  });
+ }
  });
 </script>
 <div class="main_content">
@@ -269,8 +304,9 @@
 <div class="main_shadow_br"></div>
 </div>
 <div class="copyright">
-<strong>Copyright © 2009 Acumen PI</strong>&nbsp;&nbsp;&nbsp;&nbsp; All rights reserved
+<strong>Copyright © 2003 - 2011 Acumen PI</strong>&nbsp;&nbsp;&nbsp;&nbsp; All rights reserved
 </div>
 
 
-<!-- Render Time: 0.311085939407349 seconds --></body></html>
+
+<!-- Render Time: 0.206723928451538 seconds --></body></html>
