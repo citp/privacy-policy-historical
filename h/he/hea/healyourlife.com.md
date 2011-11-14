@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healyourlife.com privacy policy that was archived on 2010-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100712083108id_/http%3A//www.healyourlife.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healyourlife.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114173033id_/http%3A//www.healyourlife.com/index/privacy) for the most accurate reproduction.*
 
 # Privacy - Heal Your Life
 
@@ -21,9 +21,8 @@ Contacting the Web site
 Hay House, Inc.  
 P.O. Box 5100  
 Carlsbad, CA 92018-5100  
-(800) 654-5126
+(800) 654-5126 
 
-  
 [](https://web.archive.org/mylife/login)
 
 [](https://web.archive.org/mylife/begintoday)
