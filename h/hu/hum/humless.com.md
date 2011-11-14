@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the humless.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516150436id_/http%3A//www.humless.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humless.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114021510id_/http%3A//www.humless.com/Privacy_Policy.html) for the most accurate reproduction.*
 
-# Home :: Privacy Policy
+# Portable Quiet Solar Backup Generator
 
 ### What information do we collect?
 
