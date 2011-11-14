@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultcr.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515081901id_/http%3A//adultcr.com/go/page/privacy.html%3Fdcb%3Dadultcr.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultcr.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114044038id_/http%3A//www.adultcr.com/go/page/privacy.html%3Fdcb%3Dadultcr.com) for the most accurate reproduction.*
 
 # AdultCR.com Adult Chatroulette - AdultCR.com Adult Chatroulette PRIVACY POLICY
 
@@ -90,10 +90,7 @@ You have the following choices to modify or delete your PII from our database:
 * Send an email to [privacy@ffn.com](mailto:privacy@ffn.com)  
 * Log in with your password and modify/delete your profile  
 * Send a snail mail to Friendfinder Networks Inc. at 220 Humboldt Ct, Sunnyvale, CA 94089, United States, Attn: Privacy  
-* Call us at (610) 757-1920 
-
-By using the above contact information, you may also receive emails from third party advertisers.
-
+* Call us at (408)702-1040 
 * **13\. Revisions to this Privacy Policy**
 
 FFN reserves its right, in their sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the FFN Websites.
