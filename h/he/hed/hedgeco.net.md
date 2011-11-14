@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the hedgeco.net privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624105146id_/http%3A//www.hedgeco.net/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hedgeco.net privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114212236id_/http%3A//www.hedgeco.net/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
-We appreciate your interest in HedgeCo.Net (“Site”). We at HedgeCo, LLC ("HedgeCo"), recognize and appreciate the importance of respecting the privacy of our customers and are committed to safeguarding against unauthorized disclosure of, or access to, personal information of our customers. This Privacy Policy sets forth HedgeCo's current policies and practices with respect to nonpublic personal information of our customers. **By using this Site, you agree to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the Site.**
+We appreciate your interest in HedgeCo.Net (�Site�). We at HedgeCo, LLC ("HedgeCo"), recognize and appreciate the importance of respecting the privacy of our customers and are committed to safeguarding against unauthorized disclosure of, or access to, personal information of our customers. This Privacy Policy sets forth HedgeCo's current policies and practices with respect to nonpublic personal information of our customers. **By using this Site, you agree to this Privacy Policy. If you do not agree to this Privacy Policy, please do not use the Site.**
 
 **WHAT INFORMATION IS COLLECTED**
 
@@ -61,7 +61,7 @@ Except as described above, we do not reveal information about you to third parti
 **LINKED SITES AND OTHER THIRD PARTIES**  
 This Privacy Policy only addresses the use and disclosure of information we collect from you. The Site, or services on the Site, may contain links to other sites whose information, security, and privacy practices may be different than ours. You should consult the other sites' privacy policies and terms of use since we do not control information that is submitted to, or collected by, these third parties or the content of those linked sites. Once you access another website, you are subject to the privacy policy and terms of use of that site. 
 
-**CHILDREN’S PRIVACY**  
+**CHILDREN�S PRIVACY**  
 The Site and its services are not directed toward children under the age of 13. HedgeCo will not knowingly request personally identifiable information from anyone under the age of 13, and if HedgeCo becomes aware that any such information has been collected, HedgeCo will delete it.
 
 **HOW YOU CAN ACCESS OR CORRECT INFORMATION**  
@@ -75,7 +75,7 @@ From time to time, we may modify this Privacy Policy. We will notify you about m
 We may also share all individual investor information, under joint marketing agreements with nonaffiliated financial services business partners, in order to offer discounts or other special access to products and services. 
 
 **TERMS OF USE**  
-Please note that access to and use of the Site and its services are also subject to HedgeCo’s Website Terms of Use available on the Site. 
+Please note that access to and use of the Site and its services are also subject to HedgeCo�s Website Terms of Use available on the Site. 
 
 **CONTACTING US**
 
