@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the firstb2c.com privacy policy that was archived on 2011-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110410033744id_/http%3A//www.firstb2c.com/page/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstb2c.com privacy policy that was archived on 2011-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111114133853id_/http%3A//www.firstb2c.com/page/security.html) for the most accurate reproduction.*
 
-# Security and Privacy - firstb2c.com
+# Security and Privacy - firstb2c
 
-[Home](https://web.archive.org/) >> Security and Privacy
-
-### Security and Privacy
+[Home](http://www.firstb2c.com/) >> Security and Privacy
 
 This is the Privacy Policy governing your use of the Firstbtob.com and Firstbtob.com sites (each a "Site") and the collection, use, transfer and processing of your Collected Information by Firstbtob.com Hong Kong Limited and those affiliates which provide the relevant Premium Services (collectively referred to as "Firstbtob.com", "we" or "us"). By using this Site, you consent to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the Terms of Use Agreement between you and Firstbtob.com Hong Kong Limited which by use of this Site you agree to accept.
 
@@ -21,5 +19,3 @@ Account Activities Information: We record and retain the records of your Account
 Statistical Information: In addition, we gather aggregate statistical information about our Site and Users, such as IP addresses, browser software, operating system, pages viewed, number of sessions, unique visitors and so forth. ("Statistical Information").
 
 Registration Information: Publishing Information, Payment Information, Account Activities Information, Statistical Information and any information we may collect from you through the use of cookies (see Section 5 below), or any other means, shall collectively be referred to as "Collected Information".
-
-﻿ 
