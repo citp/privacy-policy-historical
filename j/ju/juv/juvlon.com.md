@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the juvlon.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518025412id_/http%3A//www.juvlon.com/legal-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juvlon.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115091303id_/http%3A//www.juvlon.com/legal-info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | juvlon.com
+# Privacy Policy | www.juvlon.com
 
 **Juvlon is a permission-based e-mailing service. You can use your Juvlon-account only to send e-mail newsletters and announcements to people that have given you their permission to e-mail them.**
 
