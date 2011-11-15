@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoomonga.com privacy policy that was archived on 2010-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100825003048id_/http%3A//zoomonga.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomonga.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115064029id_/http%3A//www.zoomonga.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Zoomonga
 
