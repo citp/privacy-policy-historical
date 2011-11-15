@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boltwebhosting.com privacy policy that was archived on 2011-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110316032741id_/http%3A//www.boltwebhosting.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boltwebhosting.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115041428id_/http%3A//www.boltwebhosting.com/policies/privacy) for the most accurate reproduction.*
 
 # Best Cheap Web Hosting, Bolt Web Hosting, Web Host Policy | Bolt Web Hosting, Inc.
 
