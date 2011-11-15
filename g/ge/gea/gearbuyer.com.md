@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gearbuyer.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630005036id_/http%3A//www.gearbuyer.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearbuyer.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115145645id_/http%3A//www.gearbuyer.com/site/privacy.html) for the most accurate reproduction.*
 
 # GearBuyer.com -- Privacy Policy
 
