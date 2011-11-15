@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the scriptech.net privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515204918id_/http%3A//scriptech.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scriptech.net privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115134538id_/http%3A//scriptech.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Scripts, Tips and Software for Webmasters
-
-###  Privacy Policy 
+# Privacy Policy
 
 **Your Privacy**  
 www.scriptech.net is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
