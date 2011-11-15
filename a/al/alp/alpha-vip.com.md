@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpha-vip.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629232247id_/http%3A//www.alpha-vip.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpha-vip.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115211651id_/http%3A//www.alpha-vip.com/privacy.html) for the most accurate reproduction.*
 
 # Alpha VIP - Privacy Policy
 
