@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spaweek.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526215104id_/http%3A//www.spaweek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spaweek.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115044650id_/http%3A//www.spaweek.com/privacy) for the most accurate reproduction.*
 
 # Spa Week Media - Private Policy
 
