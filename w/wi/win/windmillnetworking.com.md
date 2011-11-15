@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windmillnetworking.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518031746id_/http%3A//windmillnetworking.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windmillnetworking.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115090656id_/http%3A//windmillnetworking.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,3 +74,5 @@ If you have any questions about this privacy policy or Windmills Marketing’s t
   * by post to 1280 Bison Ave., B9-373, Newport Beach, CA 92660 USA
 
 
+
+Windmills Marketing, 14271 Jeffrey Rd., Suite 177, Irvine, CA 92620 | (888) 541-3429 | neal@windmillnetworking.com
