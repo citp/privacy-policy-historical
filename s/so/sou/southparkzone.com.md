@@ -1,77 +1,100 @@
-> *The following text is extracted and transformed from the southparkzone.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517204918id_/http%3A//www.viacom.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southparkzone.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115095653id_/http%3A//www.viacom.com/privacypolicy) for the most accurate reproduction.*
 
 # Viacom
 
-This web site (the “Web Site”) is provided by Viacom International Inc.  (“Viacom,” “we,” “our” or “us”). This Privacy Policy discloses our information and privacy practices with regard to the Web Site, such as the types of information we may gather from you and how we may use and share that information. Except if specifically stated otherwise, this Privacy Policy applies only to information collected on the Web Site and does not apply to information collected offline or otherwise outside of the Web Site.    
+**Last Modified: May 31, 2011**
+
+This is the privacy policy (“ _Privacy Policy_ ”) for the Viacom.com website (" _Site_ ," " _we_ ," " _us_ ," or " _our_ "), an Internet website provided by Viacom International Inc. (“ _Viacom_ ”), which, for the purposes hereof, shall include any information submitted through third party websites directly linked from the Site that permit online submission to Viacom, as further discussed herein.  Notwithstanding the foregoing, all information and data submitted through any third party website will also be subject to such third party’s privacy policy.  For purposes of clarity, this Privacy Policy does not apply to information collected offline or otherwise outside of scope of the Site, as set forth above.
+
+By using the Site, you agree to accept the terms of this Privacy Policy. Viacom may amend this Privacy Policy from time to time. If Viacom makes any substantial changes in the types of information Viacom collects or how Viacom uses such information, Viacom will inform you of such changes in accordance with the terms of this Privacy Policy. 
+
+1.      **     ****When This Privacy Policy Applies.**
+
+This Privacy Policy applies whether you are accessing the Site via a personal computer, a mobile device or any other technology or devices now known or hereafter developed or discovered (each, a “ _Device_ ”) and whether you are accessing the Site as a registered user or other user of the Site.  **This Privacy Policy governs only the Personal Information and Other Information (as those terms are defined below) collected by the Site and does not cover any such information collected in any other manner or by any other website offered by Viacom** and/or any subsidiaries and affiliates of Viacom (collectively, “ _Affiliates_ ”) **or collected by any other company, unless specifically stated.   ******
+
+This Privacy Policy, as amended from time-to-time, will remain in full force and effect even if your use of or participation in the Site or any particular service, feature or function offered through the Site terminates, expires, ceases, is suspended or deactivated for any reason.  If you do not agree with this Privacy Policy, please do not access the Site or any features or services offered through the Site. ****
+
+2\.    **       ****U.S. Governing Law** **; Safe Harbor** **.**
+
+The Site is designed and targeted to U.S. audiences and is governed by and operated in accordance with the laws of the U.S.  We make no representation that this Site is operated in accordance with the laws or regulations of, or governed by, other nations. ** ** By using the Site, you certify that you meet the age and other eligibility requirements for this Site as set forth in our _[_Terms of Use_](https://web.archive.org/termsofuse/Pages/default.aspx)_ , as applicable.  If you do not meet the age and other eligibility requirements, if any, please discontinue using the Site immediately as your continued use of the Site indicates that you are agreeing to the collection, use, disclosure, management and storage of your Information as described in this Privacy Policy.
+
+If you are located in the European Economic Area (“ _EEA_ ”) and Switzerland, for detailed information on our privacy policy and practices with respect to personal information transferred from the EEA and Switzerland, please see our Safe Harbor Privacy Policy located at [http://www.viacom.com/privacypolicy/Documents/VIACOM_Viacom_Safe_Harbor_Policy.pdf ](https://web.archive.org/privacypolicy/Documents/VIACOM_Viacom_Safe_Harbor_Policy.pdf)
+
+If you are located outside of the U.S., the EEA and Switzerland, you use this Site at your own risk and initiative and you, not Viacom, are responsible for compliance with any applicable local and national laws.  Please be aware that any Personal Information and Other Information you provide to us or we obtain as a result of your use of this Site will be collected in the U.S. and/or transferred to the U.S. and subject to U.S. law.  By using this Site and/or providing us with your Personal Information and Other Information, you (i) consent to the transfer and/or processing of any Information to and in the U.S., (ii) acknowledge that U.S. law may provide a lower standard of protection for personal data than the laws of your location and (iii) understand that we will collect, transfer, store, process and/or deal with your Information in accordance with this Privacy Policy and U.S. law. Consequently, to the full extent permitted by law, you hereby waive any claims relating to the processing of your Personal Information or Other Information in accordance with this Privacy Policy that may arise under the laws and regulations that apply to you in or of any other country or jurisdiction. 
+
+3.     **      ****Collection and Use of Personal Information and Other Information.**
+
+When we use the term " _Personal Information_ " we mean information that would allow someone to identify you or contact you, such as your full name, postal address, e-mail address or telephone number.   When we use the term “ _Other Information_ ”, we mean any information other than Personal Information that may be collected about you (Personal Information and Other Information, together, the “ _Information_ ”). 
+
+**a.   Information We Collect that You Provide Us.  **
+
+******  i.  User Registration.**  To the extent you wish to register and submit an application through the Site, you     are required to register with the Site by providing an email address and password. 
+
+**ii.**   **Application Information**.  To submit an application to a specific position through the Site, you are required to provide additional Personal Information, including, without limitation, full name, postal address, telephone number, whether you are authorized to work in the United States and current or recent employment information.  Additional Personal Information and Other Information may be requested during the application process (but may not be required). 
+
+**b.   Information Collected Through Use of Cookies and Other Tracking Technologies.  **
+
+"Cookies" (which may be html files, Flash files or other technology) are text files that help store user preferences and activity. The Site and/or third parties may use **“** cookies” and other similar tracking technologies (collectively, “ _Tracking Technologies_ ”) to collect Other Information automatically as you browse the Site and the web. ****
+
+By visiting the Site, whether as a registered user or otherwise, you acknowledge, understand and hereby agree that you are giving us your consent to track your use of the Site through these Tracking Technologies.
+
+**c.    Use of Information.** 
+
+As set forth in this Privacy Policy, we may sell, rent, lease, disclose or otherwise share Information with Affiliates.  We and Affiliates, use the Personal Information we collect from you in a variety of ways, including:
+
+  * Processing your registration with the Site, such as verifying that your e-mail address is active and valid,
+  * Saving your password or other Personal Information, so you don't have to re-enter it each time you visit  the Site,         
+  * Otherwise to maintain and administer the Site and
+  * For other purposes disclosed at the time you provide Personal Information.
 
 
-Please take a moment to review the terms of this Privacy Policy. By using the Web Site, you agree to accept the terms of this Privacy Policy.  If you do not agree to the terms of this Privacy Policy, please do not use the Web Site.  Please also review the [Terms of Use,](https://web.archive.org/termsofuse/Pages/default.aspx) which governs your use of the Web Site.  Please note that certain features or services discussed in this Privacy Policy may not be offered on the Web Site at any particular time.
 
-TYPES OF INFORMATION COLLECTED AND HOW IT IS USED
+4.          **Opting-Out of Certain Uses of** **Information Collected by Tracking Technologies Set By the Site.  **With respect to the Tracking Technologies set by the Site, you have a number of options: ****
 
-This Web Site is primarily informational, but we may, on occasion, ask you to provide us your name, e-mail address and other contact information that could reasonably be used to identify you personally (“PII”). We may collect this information at various places and forms on the Web Site, including when you register for e-mail communications, when you submit information needed to consider you for potential employment opportunities, or when you submit a question or request to the Web Site. We may also collect certain demographic information (such as gender, age or ethnicity) and information about your interests and preferences (collectively, “Demographic Information”).
+  * You can choose to delete most Tracking Technologies (other than Flash cookies) through the “Internet Options” sub-option of the “Tools” menu option of your browser or otherwise as directed by your browser’s support feature.   (See the “help” section of your browser for more information and see below for more information on removing Flash cookies.)
+  * You can choose to disable or turn most Tracking Technologies off (other than Flash cookies).  Additional information on disabling or turning most Tracking Technologies off may be available through your browser’s support feature.  (See the “help” section of your browser for more information and see below for more information on removing Flash cookies.)
+  * You can choose to have the Device you use to access the Site warn you each time a cookie or most other Tracking Technologies is being set (other than Flash cookies), or you can choose to turn off such warnings.  This is done through your browser on the Device you use to access the Site.  Additional information on warnings and removal of warnings may be available through your browser’s support feature.
 
-We retain and use your PII and Demographic Information in order to: (i) send you e-mail communications that you have agreed to receive; (ii) facilitate your job search and prepare governmental and internal statistics reports; (iii) respond to your questions or other requests; (iv) contact you with regard to your use of the Web Site or changes to the Web Site’s Privacy Policy, Terms of Use or other Web Site policies; or (v) for other purposes disclosed at the time you provide your information. We may also use the information you provide to improve the Web Site and its content, features and services; customize your experience on the Web Site; or for other internal business purposes.  We may occasionally receive information about you from third parties. If we combine that information with information we collect through the Web Site, we will apply this Privacy Policy to such information. 
 
-Please note that information submitted to the Web Site via a “contact us” or other similar mechanism will not necessarily receive a response.
 
-The Web Site is a general audience web site. We do not knowingly collect any PII from children under the age of thirteen (13) on the Web Site and we will delete any information later determined to be from a user younger than thirteen (13). 
+5\.     **      ****Sharing and Disclosure of Personal Information and Other Information.**
 
-When you visit this Web Site, our servers automatically collect certain web site usage information.  Web site usage information is non-personally identifiable information about how our visitors use and navigate the Web Site, including the number and frequency of visitors to each web page, the length of their stays, the type of browser each visitor is using (for example, Netscape, Internet Explorer), the type of operating system each visitor is using, (for example, Windows 2000 or Mac OS), the domain name of each visitor’s Internet service provider (for example, America Online, Earthlink) and certain other information (for example, IP address and clickstream data). An IP address is a number that is automatically assigned to your computer whenever you access the Internet, which our web servers use to identify where to send the information your computer requests.  When you request pages from the Web Site, our servers log your IP address.  We may associate your IP address with the PII you provide to the Web Site. We may use IP addresses for a number of purposes, such as system administration, to report aggregate information to our business partners or to audit use of this Web Site.   
+Viacom does not sell, rent, lease, disclose or otherwise share your Personal Information with third parties for those third parties’ marketing purposes.  Viacom may sell, rent, lease, disclose or otherwise share Other Information, such as aggregated user statistics, with third parties. In addition, Viacom may share your Personal Information as set forth in this Privacy Policy or in the following limited circumstances:
 
-Cookies
+a.     When we are compelled to do so by a governmental agency, court or other entity ( _e.g.,_ to respond to subpoenas, court orders or legal process) or if requested by a governmental agency or other authority as part of an investigation; 
 
-To enhance your experience with our site, we may use "cookies." Cookies are small data files we place in your computer's browser when you visit the Web Site. Cookies automatically identify your web browser to the Web Site whenever you visit the Web Site, and may make navigating and using the Web Site easier for you.  Also, by tracking how and when you use the Web Site, cookies help us determine which areas are popular and which are not.  Additionally, accepting cookies may allow you to, among other things, personalize your experience on the Web Site. If you do not wish to allow for use of cookies, you can generally opt-out of providing this information by setting your browser to reject cookies. However, please be aware that some areas of the Web Site may not provide you with an acceptable user experience if you have disabled the use of cookies. 
+b.    If we believe your actions violate any law, rule, regulation and/or the **_[**_Terms of Use_**](https://web.archive.org/termsofuse/Pages/default.aspx)_** , including, without limitation, this Privacy Policy; 
 
-Web Beacons and Similar Technologies
+c.     If, in our sole discretion, we believe such disclosure to be necessary or appropriate: to investigate or resolve possible problems or inquiries; to protect our business and assets or the rights, property or safety of the Site, the Affiliates, or any of its or their licensors, suppliers, customers, users, or any other party; to limit our legal liability; to defend our interests; to enforce this Privacy Policy or the [Terms of Use](https://web.archive.org/termsofuse/Pages/default.aspx) **** and/or to comply with our legal and regulatory obligations or requests by law enforcement agencies or governmental authorities, including, without limitation the Equal Employment Opportunity Commission, the Office of Federal Contract Compliance Programs and similar state and local regulatory agencies; and/or 
 
-Our web pages or e-mail messages may contain a small graphic image called a web beacon, which is sometimes also called a "web bug" or "clear gif", and which allows the party that set the web beacon to monitor and collect certain limited information about the viewer of the web page or e-mail message (such as the type of browser downloading the web beacon, the IP address of the computer that the web beacon is sent to and the time the web beacon was viewed, as well as the URL of the page the web beacon comes from). Web beacons are typically very small (generally 1-by-1 pixel) and invisible to the user, but, in general, any electronic image viewed as part of a web page or e-mail message, including an advertisement or HTML content, can act as a web beacon. We may use web beacons or similar technologies for a number of purposes, such as and without limitation, to count visitors to our web pages or to monitor how our users navigate this Web Site, and we may include web beacons or similar technologies in e-mails in order to count how many e-mails (or particular articles, links, etc.) we sent were actually opened.
+d.    In the event of a bankruptcy, merger, acquisition, sale, transfer of control, joint venture or other business combination or corporate change involving us or our Affiliates. 
 
-WITH WHOM INFORMATION MAY BE SHARED
+6\.         **Reviewing, Updating or Deleting Certain Information.   **
 
-Viacom does not share your PII with third parties for those third parties’ marketing purposes. Viacom may share non-personally identifiable information, such as aggregated user statistics, with third parties. In addition, Viacom may share your PII as set forth in this Privacy Policy or in the following limited circumstances: 
+****To delete all records of your Personal Information from the Site, please send an email to the Privacy Administrator by _[_clicking here_](https://web.archive.org/contact/Pages/default.aspx)_ , and sending a communication to Viacom through the “Contact” Page with the subject of “Privacy” **.**
 
-Third parties providing services on our behalf
+If the burden or expense of providing access to your Information is disproportionate to the risks to your privacy or if the legitimate rights of others would be violated, we may decide not to provide access to such Information. In such cases, we will provide to you an explanation of why access cannot be provided and contact information for further inquiries. 
 
-We may employ other companies and individuals to perform functions on our behalf.  Examples include, without limitation, sending communications on our behalf, analyzing data, providing marketing assistance, creating, hosting and/or providing customer service. These third parties may have access to our users' PII in order to provide these services to us or on our behalf. 
+7.       **    ****Protection of Information.**
 
-Legal Protections and Law Enforcement
+While no data transmission over the Internet is 100% secure from intrusion, we maintain commercially reasonable physical, electronic and procedural safeguards to protect your Information.  However, regardless of our efforts and the Device you use to access the Site, it is possible that third parties may unlawfully intercept or otherwise access transmissions or private communications over an unsecured transmission.  We also limit access to the Site by our own employees to those individuals who are authorized for the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes.  We request that our Operational Service Providers follow similar standards of security and confidentiality. 
 
-We may disclose information about our users, including PII, when legally required to do so, at the request of governmental authorities conducting an audit or investigation, or to verify or enforce compliance with the policies governing this Web Site and applicable laws, rules, and regulations. We may use IP addresses to identify users in cooperation with internet service providers or law enforcement agencies, and may also disclose user information whenever we believe disclosure is necessary to limit our legal liability or to protect or enforce the rights, interests or safety of this Web Site, our users or others.
+**_Phishing_** **.**   Phishing attacks attempt to steal consumers’ personal identity data and financial account credentials.  “Phishers” use ‘spoofed’ e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging Information such as credit card numbers, account usernames, passwords and social security numbers.  **WE DO NOT SEND EMAILS ASKING YOU TO PROVIDE OR CONFIRM CREDIT CARD NUMBERS, SOCIAL SECURITY NUMBERS OR YOUR USERNAME OR PASSWORD!**   If you receive such email communication, please forward it immediately to the Site’s Privacy Administrator by _[_clicking here_](https://web.archive.org/contact/Pages/default.aspx)_ , and sending a communication to Viacom through the “Contact” Page with the subject of “Privacy”, and then immediately delete the fraudulent email from your computer. 
 
-Corporate Change
+8.      **     ****Changes to this Privacy Policy and Notice.**
 
-We may sell, transfer or otherwise disclose user information, including PII, in connection with a corporate merger, consolidation, the sale of substantially all assets or of a business group, or other corporate change.
+We reserve the right to revise this Privacy Policy at any time by posting an updated Privacy Policy without advance notice to you.  Such revisions shall be effective immediately upon posting.  Notice of material changes will be posted on the Site’s homepage and/or will be provided by e-mailing you or notifying you upon login about these changes; the form of such notice is at our discretion.  However, we encourage you to check this Privacy Policy and _[_Terms of Use_](https://web.archive.org/termsofuse/Pages/default.aspx) ****_ often for updates. 
 
-For detailed information on our privacy policy and practices with respect to personal information transferred from the European Economic Area and Switzerland, please see our Safe Harbor Privacy Policy [http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf](https://web.archive.org/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf).
+9.      **     ****Miscellaneous.**
 
-EEOC/Affirmative Action Reporting
+**a.    Accuracy and Confidentiality.   **It is your responsibility to give us current, complete, truthful and accurate information, including Personal Information, and to keep such information up to date.  **We cannot and will not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or complete** **information or Personal Information or you fail to update such information or Personal Information.   **We will reject and delete any entry that we believe in good faith to be false, fraudulent or inconsistent with this Privacy Policy. 
 
-In conjunction with laws and regulations enforced by the Equal Employment Opportunity Commission (“EEOC”), the Office of Federal Contract Compliance Programs (“OFCCP”) and similar state and local regulatory agencies, we may ask you to provide us with self-identifying information (such as veteran status, gender and ethnicity).  Providing such self-identifying information is voluntary, but if you do provide us with such information, we may submit that information, to the EEOC, the OFCCP and similar state and local regulatory agencies for business-related purposes, including, but not limited to responding to information requests, fulfilling regulatory reporting requirements and defending against employment related complaints. 
+You are solely responsible for maintaining the strict confidentiality of your password, if applicable, and for any charges, costs, expenses, damages, liabilities and losses we incur or may suffer as a result of your failure to do so. You, and not Viacom, are solely responsible and liable for the activity, behavior, use and conduct on the Site under your password (whether used by you or any others who use your password), unless and until you notify us that your password may have been compromised, misappropriated or improperly taken or used by another party.   We reserve the right to deny access, use and registration privileges to any user, including without limitation, a registered user, of any services, features or functions of the Site if we believe there is a question about the identity of the person trying to access the user’s account or any services, features or functions. ****
 
-CHANGING YOUR PREFERENCES
+**b.    Questions.** If you have questions about this Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your Personal Information or Other Information, you may contact us directly by _[_clicking here_](https://web.archive.org/contact/Pages/default.aspx)_ , and sending a communication to Viacom through the “Contact” Page with the subject of “Privacy”.
 
-You may cancel or modify your e-mail subscriptions through the Web Site or by following the instructions contained within an e-mail you receive from the Web Site. 
+**c.    Sole Statement:** This document is the sole statement of the Site’s Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, but not limited to, machine-generated, is valid.
 
-SECURITY 
+**d.    Other:**  **Please review** our _[_Terms of Use_](https://web.archive.org/termsofuse/Pages/default.aspx)_ **** which governs your use of the Site.  Any terms that are not defined in this Privacy Policy shall have the meaning given in the _[_Terms of Use_](https://web.archive.org/termsofuse/Pages/default.aspx)_. 
 
-While Viacom strives to secure your personal information, even reasonable security measures do not guarantee the security of any information you transmit via the internet, including to Viacom. Viacom cannot guarantee that information it seeks to protect will be protected under all circumstances, including those beyond its reasonable control.  You agree that you transmit information to Viacom via the Web Site at your own risk.
-
-THIRD PARTY CONTENT
-
-When you are on the Web Site, certain content may be served by a third party. These third parties may also drop their own cookies and/or use web beacons, which may be used to identify some of your preferences or to recognize you if you have previously had contact with those third parties. We do not control the use of such technology by third parties, the information they collect, or how they use such information.
-
-LINKS TO OTHER SITES AND CONTENT ACCESSIBLE THROUGH THIS WEB SITE
-
-Our Web Site contains links to other web sites, including other web sites within the Viacom family, whose information practices may be different from ours.  Visitors should consult the specific privacy policies posted on these sites when linking to them.
-
-CONSENT TO TRANSFER
-
-The Web Site is located in the United States. Your PII will be processed and shared in the United States, where data protection and privacy regulations may provide different levels of protection compared with non-United States jurisdictions.  If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using the Web Site or providing us with your information, you consent to this transfer.
-
-ACCEPTANCE OF TERMS AND CHANGES TO THIS PRIVACY POLICY 
-
-By using this Web Site, you agree to the terms of this Privacy Policy. Viacom may amend this Privacy Policy from time to time. If we make any substantial changes in the types of PII we collect or how we use it, we will inform you of such changes by posting a revised notice at our Web Site.  Of course, unless you consent otherwise, we will use your PII consistent with the Privacy Policy in effect at the time you submitted your PII. 
-
-Effective Date: June 21, 2007  
-
+This Privacy Policy was last modified on the date indicated above and is effective immediately. Copyright © 2011 Viacom International Inc. - All Rights Reserved.
