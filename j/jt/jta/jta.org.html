@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jta.org privacy policy that was archived on 2010-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100626103327id_/http%3A//www.jta.org/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jta.org privacy policy that was archived on 2011-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111115105739id_/http%3A//www.jta.org/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -9,26 +9,62 @@
      
     
     
-	<meta name="verify-v1" content="ryNcNLxjXPt1tPlE6AtmHuXeFGw3bbRHUbAl8V54yRo=">
+        
+    
+    <meta name="verify-v1" content="ryNcNLxjXPt1tPlE6AtmHuXeFGw3bbRHUbAl8V54yRo=">
+
+    <meta property="og:image" content="http://cdn.jta.org/img/layout/logo_print.jpg">
 
     <link rel="icon" href="http://cdn.jta.org/img/layout/favicon.ico" type="image/x-icon">
     <link rel="shortcut icon" href="http://cdn.jta.org/img/layout/favicon.ico" type="image/x-icon">
 
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+    <script type="text/javascript" src="http://cdn.jta.org/js/jquery.cookie.js"></script> 
     
-    <script type="text/javascript" src="http://d1.openx.org/spcjs.php?id=14257&amp;block=1&amp;charset=UTF-8"></script>
+    <script type="text/javascript"> 
+ 
+	$(document).ready(function() {
+	  if (screen.width<=800 && window.location.hostname == 'www.jta.org') {
+	    if($.cookie('jta_mobile') != '1') {
+	      $.cookie('jta_mobile', '1');
+	      window.location.href='http://m.jta.org';
+	    } 
+	  } 
+	});
+
+    </script>  
     
-    <link rel="stylesheet" href="http://cdn.jta.org/css/screen.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="/css/screen.css?20110920" type="text/css" media="screen">
     <link rel="stylesheet" href="http://cdn.jta.org/css/thickbox.css" type="text/css" media="screen">
     <link rel="stylesheet" href="http://cdn.jta.org/css/jquery.Jcrop.css" type="text/css">
+   
     
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+	<!-- Javascript tag  -->
+	<!-- begin ZEDO for channel:  JTA_Toplayer_Homepage , publisher: JTA , Ad Dimension: rich_media_pixle - 1 x 1 -->
+	<script language="JavaScript">
+	var zflag_nid="794"; var zflag_cid="973/35"; var zflag_sid="106"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="73"; 
+	</script>
+	<script language="JavaScript" src="http://d3.zedo.com/jsc/d3/fo.js"></script>
+	 
+	<!-- end ZEDO for channel:  JTA_Toplayer_Homepage , publisher: JTA , Ad Dimension: rich_media_pixle - 1 x 1 -->
+
 </head>
 
 <body>
+
+	<!-- Javascript tag  -->
+	<!-- begin ZEDO for channel:  JTA_Page_Peel_1x1 , publisher: JTA , Ad Dimension: Pixel/Popup - 1 x 1 -->
+	<script language="JavaScript">
+	var zflag_nid="794"; var zflag_cid="1035/35"; var zflag_sid="106"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="15"; 
+	</script>
+	<script language="JavaScript" src="http://d3.zedo.com/jsc/d3/fo.js"></script>
+	 
+	<!-- end ZEDO for channel:  JTA_Page_Peel_1x1 , publisher: JTA , Ad Dimension: Pixel/Popup - 1 x 1 -->
+
 	<!--
-	Web Design and Programming by Purple, Rock, Scissors® - A Web Design Company in Orlando, FL
+	Web Design and Programming by Purple, Rock, Scissors� - A Web Design Company in Orlando, FL
 	100 E Pine St, Ste. 204
 	Orlando, FL 32801
 	(407) 936-1749
@@ -56,30 +92,20 @@
 
 <div class="container_alt">
 
-    <form id="form_search" method="post" action="http://www.jta.org/">
-<div class="hiddenFields">
-<input type="hidden" name="ACT" value="19">
-<input type="hidden" name="XID" value="">
-<input type="hidden" name="RP" value="search/results">
-<input type="hidden" name="NRP" value="">
-<input type="hidden" name="RES" value="">
-<input type="hidden" name="status" value="open">
-<input type="hidden" name="weblog" value="">
-<input type="hidden" name="search_in" value="everywhere">
-<input type="hidden" name="where" value="all">
-<input type="hidden" name="site_id" value="1">
-</div>
-
-
     
-        <input type="hidden" name="RES" value="{jta_search_per_page}">
+   
+    <form action="/search" method="post" id="form_search">
+ 
+        <input type="hidden" name="RES" value="">
         
         <fieldset>
-            <input type="text" class="text_input" name="keywords" id="search_keyword" value="Search JTA">
+            <input type="text" class="text_input" name="search_condensed" id="search_keyword" value="Search JTA">
     	    <input type="image" src="http://cdn.jta.org/img/layout/button_go.gif" value="Go">
     	</fieldset>
         
     </form>
+
+    
 
     <ul id="nav_main">
     	
@@ -110,21 +136,32 @@
 
     
 </ul>
+
     	</li>
 
         <li class="off">
             <a href="http://blogs.jta.org/" title="Blogs">Blogs</a>
             <ul class="nav_sub">
                 
-                <li><a href="http://blogs.jta.org/philanthropy/" title="The Fundermentalist">The Fundermentalist</a></li>
-                
                 <li><a href="http://blogs.jta.org/politics/" title="Capital J">Capital J</a></li>
                 
                 <li><a href="http://blogs.jta.org/telegraph/" title="The Telegraph">The Telegraph</a></li>
                 
+                <li><a href="http://blogs.jta.org/philanthropy/" title="The Fundermentalist">The Fundermentalist</a></li>
+                
                 <li><a href="http://blogs.jta.org/wanderingjew/" title="The Wandering Jew">The Wandering Jew</a></li>
                 
                 <li><a href="http://blogs.jta.org/letters/" title="Quibbles and Kibbitz">Quibbles and Kibbitz</a></li>
+                
+                <li><a href="http://blogs.jta.org/lifecyclist/" title="The Lifecyclist">The Lifecyclist</a></li>
+                
+                <li><a href="http://blogs.jta.org/candko/" title="Food Blog">Food Blog</a></li>
+                
+                <li><a href="http://blogs.jta.org/archive/" title="The Archive Blog">The Archive Blog</a></li>
+                
+                <li><a href="http://blogs.jta.org/transatlantic/" title="Transatlantic">Transatlantic</a></li>
+                
+                <li><a href="http://blogs.jta.org/eulogizer/" title="The Eulogizer">The Eulogizer</a></li>
                 
                 
                 
@@ -136,7 +173,7 @@
         </li>
 <!--
         <li class="off">
-            <a href="{jta_kavod_url}" title="Kavod">Kavod</a>
+            <a href="" title="Kavod">Kavod</a>
         </li>
 -->
         
@@ -162,8 +199,12 @@
         	<a href="http://www.jta.org/advertise" title="Advertise">Advertise</a>
     	</li>
 
-    	<li>
+    	<li class="off">
         	<a href="http://blogs.jta.org/letters" title="Letters to the Editor">Letters</a>
+    	</li>
+    	
+	<li class="off archive">
+        	<a href="http://archive.jta.org/" title="Archive">Archive</a>
     	</li>
         
     	<li class="off special">
@@ -220,7 +261,6 @@ else document.write(unescape(l[i]));
 //]]>
 </script><a href="mailto:webmaster@JTA.org">webmaster@JTA.org</a> <br><br> This Privacy Policy was posted on 2/05/05 <br><br> © 2005 JTA. All rights reserved.
 </p>
-            
         </div>
         </div>
     
@@ -237,13 +277,13 @@ else document.write(unescape(l[i]));
     <div class="white clear">
 
           <div class="bottom_shadow" id="getjtafree">
-            <p>Not registered? Sign up now. It's fast and it's free.</p>
-            <form id="form_getjta" action="http://www.jta.org/user/register" method="POST">
+            <p>Need to know?  Get JTA's free e-newsletters!</p>
+            <form id="form_getjta">
         
                 <fieldset>
 
                     <dl>            
-                        <dd><input type="text" class="text_input" id="ambush_signup_email2" value="Email" name="email"> <input type="image" src="http://www.jta.org/img/layout/button_signup.gif" class="submit"></dd>
+                        <dd><input type="text" class="text_input" id="ambush_signup_email2" value="Email" name="email"> <input id="email_submit" type="image" src="http://www.jta.org/img/layout/button_continue.gif" class="submit"></dd>
                     </dl>
                 </fieldset>
          
@@ -253,7 +293,7 @@ else document.write(unescape(l[i]));
 
           <div class="bottom_shadow" id="getjtafree-extended" style="display:none">
     
-            <form id="form_getjta" action="http://www.jta.org/user/register" method="POST">
+            <form id="form_getjta">
                 <input type="hidden" name="email" id="hidden_signup_email" value="">
                 <fieldset>
                     <p style="border-bottom: 1px solid rgb(102, 102, 102); text-transform: uppercase;">Daily Briefing and News</p>
@@ -263,12 +303,9 @@ else document.write(unescape(l[i]));
                     <dl>
                         <dd><input type="checkbox" id="register_mobile" name="register_mobile"> <strong>Mobile Briefing</strong></dd><dt style="margin-top:5px;"><em>JTA's daily e-mail, specially formatted for your mobile device.</em></dt>
                     </dl>
-                   <p style="border-bottom: 1px solid rgb(102, 102, 102); text-transform: uppercase;">The Fundermentalist</p>
-                    <dl>
-                        <dd><input type="checkbox" id="register_fundermentalist" name="register_fundermentalist"> <strong>Weekly Fundermentalist</strong></dd><dt style="margin-top:5px;"><em>The inside scoop of Jewish philanthropy in a weekly e-mail.</em></dt>
-                    </dl>
+                   
                     <dl style="float:right;">
-                        <input type="image" src="http://www.jta.org/img/layout/button_continue.gif" class="submit">
+                        <input id="email_submit_finish" type="image" src="http://www.jta.org/img/layout/button_signup.gif" class="submit">
                     </dl>
                 </fieldset>
          
@@ -298,7 +335,7 @@ else document.write(unescape(l[i]));
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://ads.dkelseymedia.com/www/delivery/ajs.php?zoneid=64&amp;cb=8914427600&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20100626103327id_/http%3A//www.jta.org/privacy/"></script><noscript><a href='http://ads.dkelseymedia.com/www/delivery/ck.php?n=a59a4c03&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.dkelseymedia.com/www/delivery/avw.php?zoneid=64&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a59a4c03' border='0' alt='' /></a></noscript> </div>
+//]]>--></script><script type="text/javascript" src="https://ads.dkelseymedia.com/www/delivery/ajs.php?zoneid=64&amp;cb=44499656932&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111115105739id_/http%3A//www.jta.org/privacy/"></script><noscript><a href='http://ads.dkelseymedia.com/www/delivery/ck.php?n=a59a4c03&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.dkelseymedia.com/www/delivery/avw.php?zoneid=64&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a59a4c03' border='0' alt='' /></a></noscript> </div>
 
 <!--
 <div>
@@ -308,131 +345,94 @@ else document.write(unescape(l[i]));
 
 </a></div>-->
 
-<div style="margin: 10px 0 10px 0;"><a href="http://twitter.com/jtanews" target="_new"><img src="http://www.jta.org/img/sm2/twitter.png" style="border: 0; margin-right: 4px; width: 32px;"></a><a href="http://facebook.com/jtanews" target="_new"><img src="http://www.jta.org/img/sm2/facebook.png" style="border: 0; margin-right: 4px; width: 32px;"></a><a href="http://www.jta.org/global/rss" target="_new"><img src="http://www.jta.org/img/sm2/rss.png" style="border: 0; width: 32px;"></a></div>
+<div style="margin: 10px 0 10px 0;"><a href="http://twitter.com/jtanews" target="_new"><img src="http://www.jta.org/img/sm2/twitter.png" style="border: 0; margin-right: 4px; width: 32px;"></a><a href="http://facebook.com/jtanews" target="_new"><img src="http://www.jta.org/img/sm2/facebook.png" style="border: 0; margin-right: 4px; width: 32px;"></a><a href="http://www.jta.org/global/rss" target="_new"><img src="http://www.jta.org/img/sm2/rss.png" style="border: 0; width: 32px;"></a><a href="http://kolboalert.com/jta.php" target="_blank"><img src="https://org2.democracyinaction.org/o/5459/images/kolboBTN2.jpg" style="border: 0; margin-left: 4px;"></a></div>
 
-<div id="ads_sidebar_1" class="ad_bar ad_smallrectangle"></div>
+
         
         <div id="ads_sidebar_2" class="ad_bar ad_rectangle ad_mediumrectangle"></div>
                     
         <ul class="tabs">
-    <li><a href="#tabrecent" title="click to view">Most Recent</a></li>
-    <li><a href="#tabviewed" title="click to view">Most Viewed</a></li>
     <li><a href="#tabshared" title="click to view">Most Shared</a></li>
+    <li><a href="#tabrecent" title="click to view">Most Recent</a></li>
 </ul>        
 <div class="white clear">
 <div class="bottom_shadow">
 
-    <ul class="listings_alt" id="tabrecent">
-        
-
-            <li class="first"><a href="http://www.jta.org/news/article/2010/06/25/2739785/barak-israeli-peace-initiative-would-guarantee-security" title="click to read">Barak: Israeli peace initiative would guarantee security</a></li>
-
-        
-
-            <li><a href="http://www.jta.org/news/article/2010/06/25/2739783/house-unanimously-calls-for-shalits-release" title="click to read">House unanimously calls for Shalit’s release</a></li>
-
-        
-
-            <li><a href="http://www.jta.org/news/article/2010/06/25/2739781/strong-majority-rate-israel-important-to-us-interest" title="click to read">Strong majority rate Israel ‘important’ to U.S. interest</a></li>
-
-        
-
-            <li><a href="http://www.jta.org/news/article/2010/06/24/2739779/congress-passes-new-iran-sanctions" title="click to read">Congress passes new Iran sanctions</a></li>
-
-        
-
-            <li><a href="http://www.jta.org/news/article/2010/06/24/2739777/riding-the-french-countryside-in-the-jewish-muslim-friendship-bus" title="click to read">Riding the French countryside in the Jewish-Muslim friendship bus</a></li>
-
-        
-
-            <li><a href="http://www.jta.org/news/article/2010/06/24/2739774/oil-spill-pollutes-red-sea-resorts" title="click to read">Oil spill pollutes Red Sea resorts</a></li>
-
-        
-
-            <li><a href="http://www.jta.org/news/article/2010/06/24/2739776/true-freedom-flotilla-sets-sail" title="click to read">N.Y. flotilla, Italian landmarks draw attention to Shalit’s plight</a></li>
-
-        
-
-            <li><a href="http://www.jta.org/news/article/2010/06/24/2739773/moroccan-police-arrest-would-be-terrorists" title="click to read">Moroccan police arrest would-be terrorists</a></li>
-
-        
-    </ul>
-    
-    <ul class="listings_alt" id="tabviewed">        
-              
-       
-
-           <li class="first"><a href="http://www.jta.org/news/article/2010/05/28/2739354/israel-but-not-just-israel-welcome-to-obamas-jewish-america" title="click to read">Welcome to Obama’s Jewish America</a></li>
-
-       
-
-           <li><a href="http://www.jta.org/news/article/2010/06/03/2739415/us-jewish-student-loses-eye-at-roadblock-protest" title="click to read">U.S. Jewish student loses eye at roadblock protest</a></li>
-
-       
-
-           <li><a href="http://www.jta.org/news/article/2010/06/09/2739538/visiting-the-family-of-the-hamas-terrorist-who-tried-to-kill-my-wife" title="click to read">Visiting the family of the Hamas terrorist who tried to kill my wife</a></li>
-
-       
-
-           <li><a href="http://www.jta.org/news/article/2010/06/02/2739417/biden-defeds-israel-on-flotilla-raid" title="click to read">Biden defends Israel on flotilla raid</a></li>
-
-       
-
-           <li><a href="http://www.jta.org/news/article/2010/05/31/2739383/repercussions-of-gaza-activists-deaths-echo-thoughout-israel-world" title="click to read">Israel grapples with fallout of flotilla violence</a></li>
-
-       
-
-           <li><a href="http://www.jta.org/news/article/2010/06/08/2739513/flotilla-fallout-becomes-rallying-cry-for-us-jews" title="click to read">Flotilla fallout becomes rallying cry for U.S. Jews</a></li>
-
-       
-
-           <li><a href="http://www.jta.org/news/article/2010/06/08/2739500/helen-thomas-enter-the-maverick-exit-the-bigot" title="click to read">Little-known rabbi brings down Helen Thomas</a></li>
-
-       
-
-           <li><a href="http://www.jta.org/news/article/2010/06/08/2739511/israeli-grass-roots-effort-fights-flotilla-fallout" title="click to read">Israelis fight flotilla fallout</a></li>
-
-       
-    </ul>
-    
     <ul class="listings_alt" id="tabshared">
        
 
-           <li class="first"><a href="http://www.jta.org/news/article/2008/12/14/1001530/madoff-scandal-rocks-jewish-philanthropic-world" title="click to read">Madoff scandal rocks Jewish philanthropic world</a></li>
+           <li class="first"><a href="http://www.jta.org/news/article/2011/11/08/3090187/aiming-to-shore-up-principle-of-collective-action-federations-revamp-overseas-aid-policies" title="click to read">At GA, new federation plan for overseas seen as blow to Jewish Agency</a></li>
 
        
 
-           <li><a href="http://www.jta.org/news/article/2009/01/21/1002407/orthodox-group-rabbi-violated-rules-by-joining-national-prayer-service" title="click to read">Orthodox group: Rabbi violated rules by joining National Prayer Service</a></li>
+           <li><a href="http://www.jta.org/news/article/2011/11/13/3090237/argentine-jewish-boxer-to-defend-title-in-buenos-aires" title="click to read">Argentinian Jewish boxer defends her title</a></li>
 
        
 
-           <li><a href="http://www.jta.org/news/article/2008/11/09/1000859/rahm-emanuel-attack-dog-policy-wonk-committed-jew" title="click to read">Rahm Emanuel: attack dog, policy wonk, committed Jew</a></li>
+           <li><a href="http://www.jta.org/news/article/2011/11/13/3090234/amid-recession-newly-minted-rabbis-find-congregational-jobs-harder-to-land" title="click to read">Amid recession, newly minted rabbis find congregational jobs harder to land</a></li>
 
        
 
-           <li><a href="http://www.jta.org/news/article/2009/07/23/1006737/new-jersey-rabbis-arrested-as-part-of-corruption-probe" title="click to read">Rabbis arrested in N.J. sting</a></li>
+           <li><a href="http://www.jta.org/news/article/2011/11/13/3090256/growing-gender-segregation-among-israeli-haredim-seen-as-repressing-women" title="click to read">Growing gender segregation among Israeli haredim seen as repressing women</a></li>
 
        
 
-           <li><a href="http://www.jta.org/news/article/2009/08/28/1007515/on-a-mission-to-save-the-jewish-deli" title="click to read">Man on a mission to save the Jewish deli</a></li>
+           <li><a href="http://www.jta.org/news/article/2011/11/08/3090193/is-jerusalem-in-israel-supreme-court-takes-up-passport-case" title="click to read">Is Jerusalem in Israel? Supreme Court takes up passport case</a></li>
 
        
 
-           <li><a href="http://www.jta.org/news/article/2009/08/05/1007057/the-largest-us-kosher-restaurant-chain-is-subway" title="click to read">Eat fresh, eat kosher: Subway the largest U.S. kosher restaurant chain</a></li>
+           <li><a href="http://www.jta.org/news/article/2011/11/09/3090214/conference-calls-on-romania-to-acknowlege-wwii-war-crimes" title="click to read">Conference calls on Romania to acknowledge WWII war crimes</a></li>
 
        
 
-           <li><a href="http://www.jta.org/news/article/2009/05/22/1005375/shes-jewish-shes-poor-and-her-name-is-rebecca" title="click to read">The new American Girl doll: She’s Jewish, she’s poor and her name is Rebecca</a></li>
+           <li><a href="http://www.jta.org/news/article/2011/11/09/3090216/55-jewish-partisans-honored-for-extraordinary-measures-in-resisting-nazis" title="click to read">55 Jewish partisans honored for ‘extraordinary measures’ in resisting Nazis</a></li>
 
        
 
-           <li><a href="http://www.jta.org/news/article/2009/05/18/1005189/the-secret-jews-of-the-southwest" title="click to read">The secret Jews of the Southwest</a></li>
+           <li><a href="http://www.jta.org/news/article/2011/11/10/3090236/three-american-jewish-baseball-players-to-help-israel-at-wbc" title="click to read">3 ex-major leaguers sign on to help Israel’s World Classic squad</a></li>
 
        
     </ul>
-    
+
+    <ul class="listings_alt" id="tabrecent">
+        
+
+            <li class="first"><a href="http://www.jta.org/news/article/2011/11/14/3090293/orthodox-rabbi-officiates-at-same-sex-wedding" title="click to read">Orthodox rabbi officiates at same sex-wedding in D.C.</a></li>
+
+        
+
+            <li><a href="http://www.jta.org/news/article/2011/11/14/3090292/israeli-dairy-giant-drops-brooklyn-distributor-after-labor-campaign" title="click to read">Tnuva drops Brooklyn distributor following labor campaign</a></li>
+
+        
+
+            <li><a href="http://www.jta.org/news/article/2011/11/14/3090291/ohio-family-sues-school-for-antisemetism-bullying" title="click to read">Ohio family sues school for anti-Semitism, bullying</a></li>
+
+        
+
+            <li><a href="http://www.jta.org/news/article/2011/11/14/3090282/biden-tells-orthodox-coomunity-israel-bond-is-unbreakable" title="click to read">Biden says Israel bond is ‘unbreakable’</a></li>
+
+        
+
+            <li><a href="http://www.jta.org/news/article/2011/11/14/3090281/jewish-woman-magazine-honors-ten-extraordinary-women" title="click to read">JFNA’s Kathy Manning on list of 10 ‘extraordinary’ women</a></li>
+
+        
+
+            <li><a href="http://www.jta.org/news/article/2011/11/14/3090278/obama-talks-iran-with-hu-medvedev" title="click to read">Obama talks Iran with Hu, Medvedev</a></li>
+
+        
+
+            <li><a href="http://www.jta.org/news/article/2011/11/14/3090243/sarko-said-obama-said-but-what-does-it-all-mean" title="click to read">Sarko said, Obama said—but what does it all mean?</a></li>
+
+        
+
+            <li><a href="http://www.jta.org/news/article/2011/11/14/3090276/jewish-agency-gathers-in-buenos-aires" title="click to read">Jewish Agency gathers in Buenos Aires</a></li>
+
+        
+    </ul>
+
 </div><!-- end class="shadow_bottom" -->        
 </div><!-- end class="white clear" -->
+
         
         <div id="ads_sidebar_3" class="ad_bar ad_rectangle ad_mediumrectangle"></div>
 
@@ -465,11 +465,15 @@ else document.write(unescape(l[i]));
    }
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://ads.dkelseymedia.com/www/delivery/ajs.php?zoneid=19&amp;target=_blank&amp;charset=UTF-8&amp;block=1&amp;cb=10563161200&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20100626103327id_/http%3A//www.jta.org/privacy/"></script><noscript><a href='http://ads.dkelseymedia.com/www/delivery/ck.php?n=a4141d0f&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.dkelseymedia.com/www/delivery/avw.php?zoneid=19&amp;charset=UTF-8&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a4141d0f&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://ads.dkelseymedia.com/www/delivery/ajs.php?zoneid=19&amp;target=_blank&amp;charset=UTF-8&amp;block=1&amp;cb=91289363627&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111115105739id_/http%3A//www.jta.org/privacy/"></script><noscript><a href='http://ads.dkelseymedia.com/www/delivery/ck.php?n=a4141d0f&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.dkelseymedia.com/www/delivery/avw.php?zoneid=19&amp;charset=UTF-8&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a4141d0f&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a></noscript>
 </p>
 </div>
 
 <div id="footer" class="container">
+
+    <ul style="float:right">
+	<script type="text/javascript" src="https://sealserver.trustwave.com/seal.js?style=invert&amp;size=65x36&amp;code=7183e7f80ca511e0b34b005056b201e5"></script>
+    </ul>
     
     <ul>
         <li><a href="http://www.jta.org/terms" title="Terms of Use">Terms of Use</a></li>
@@ -494,7 +498,7 @@ else document.write(unescape(l[i]));
 	<script type="text/javascript" src="http://cdn.jta.org/js/jquery.cookie.js"></script>
     <script type="text/javascript" src="http://cdn.jta.org/js/jquery.Jcrop.min.js"></script>
     
-    <script type="text/javascript" src="http://cdn.jta.org/js/jta.js"></script>
+    <script type="text/javascript" src="http://www.jta.org/js/jta.js"></script>
     <script type="text/javascript" src="http://cdn.jta.org/js/ads.js"></script>
 
 <test></test>
@@ -510,7 +514,7 @@ pageTracker._trackPageview();
 
 <!-- Start Quantcast tag -->
 <script type="text/javascript">
-_qoptions={qacct:"p-95xPLcgBdJmTg"};
+_qoptions=;
 </script>
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
 <noscript>
@@ -518,7 +522,7 @@ _qoptions={qacct:"p-95xPLcgBdJmTg"};
 </noscript>
 <!-- End Quantcast tag -->
     <script type="text/javascript">
-var _sf_async_config={uid:4413,domain:"jta.org"};
+var _sf_async_config=;
 (function(){
   function loadChartbeat() {
     window._sf_endpt=(new Date()).getTime();
@@ -537,7 +541,10 @@ var _sf_async_config={uid:4413,domain:"jta.org"};
 
 </script>
 
+<!--<script type='text/javascript' src='http://d1.openx.org/spcjs.php?id=14257&amp;block=1&amp;charset=UTF-8'></script>-->
 
 
 
-<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
+
+
+</body></html>
