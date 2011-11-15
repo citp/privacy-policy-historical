@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tehoopla.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616132641id_/http%3A//tehoopla.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tehoopla.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115092300id_/http%3A//tehoopla.com/policy.htm) for the most accurate reproduction.*
 
 # TEHoopla Privacy Policy
 
