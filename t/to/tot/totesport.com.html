@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the totesport.com privacy policy that was archived on 2010-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101224130156id_/http%3A//www.totesport.com/portal%3Faction%3DStaticLoader%26page%3Dgeneral/SecurityPrivacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the totesport.com privacy policy that was archived on 2011-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111115161027id_/http%3A//www.totesport.com/portal%3Faction%3DStaticLoader%26page%3Dgeneral/SecurityPrivacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en-gb" xml:lang="en-gb" xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>totesport - security and privacy policy</title>
@@ -81,6 +81,15 @@
 
 
 
+<script type="text/javascript" src="https://virtuefusion.totesportbingo.com/pigames/js_api/pigames_api.js"></script>
+
+
+<script type="text/javascript" src="https://virtuefusion.totesportbingo.com/pigames/js_api/pigames_external_api.js"></script>
+
+
+
+
+
 <div class="push-content"></div>
 
 <!-- End Of Top Navigation -->
@@ -97,10 +106,10 @@
 <span id="timeRefresh" name="timeRefresh"></span>
 
 
-<script language="javascript" src="http://www.totesport.com/totesport/ob_scripts/clock.js?78725d857065ec8c3df250a3ecaedc5e" type="text/javascript"></script>
+<script language="javascript" src="https://www.totesport.com/totesport/ob_scripts/clock.js?cd54c84eff9a4255c53fb9320804865a" type="text/javascript"></script>
 
 
-<script language="javascript" type="text/javascript">_StartClock('2010', '12', '24', '13', '01', '57');</script>
+<script language="javascript" type="text/javascript">_StartClock('2011', '11', '15', '16', '10', '28');</script>
 
 	</div>
 
@@ -146,30 +155,6 @@
 		}
 	}
 
-	// Allows two login boxes on same page
-	function go_login2(f) {
-		var n_errs = 0;
-                reset_error();
-                n_errs += ck_mandatory(f.username2.value, "Please check your username",
-                	1, 16, true);
-                n_errs += ck_mandatory(f.pwd2.value, "Please check your password", 1, 16,
-                        true);
-                if(n_errs > 0) {
-                          var err_msg  = MM_findObj("err_msg");
-                          var errorMsg = MM_findObj("errorMsg");
-                          err_msg.innerHTML = error_list;
-                          errorMsg.style.display = "";
-                          window.scrollTo(0,0);
-                }
-                else {
-                	if (LOGIN_pre_login_function != '') {
-                        	eval(LOGIN_pre_login_function);
-			}
-                	submit_ssl_form(f.name,'GoLogin');
-                      	return true;
-             	}
-           }
-
 	// Used to update the login bar in window opener when logging in from a popup without reloading whole page
 	function switch_to_logged_in_bar()
 	{
@@ -193,19 +178,19 @@ util.url = new Object();
 util.url.CGI_URL = 'http://www.totesport.com/portal';
 util.url.SSL_CGI_URL = 'https://www.totesport.com/portal';
 util.url.PAY_CGI_URL = 'https://www.totesport.com/myaccount';
-util.url.GIF_URL = 'http://www.totesport.com/totesport/images';
+util.url.GIF_URL = 'https://www.totesport.com/totesport/images';
 util.cust = new Object();
 
 	util.cust.logged_in = false;
 
 util.misc = new Object();
-util.misc.uid = '1293195717';
-util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
+util.misc.uid = '1321373428';
+util.misc.bet_uid = '007f0100687a3d4ec28ef40e0c5c';
 
 </script>
 
-<script language="javascript" src="http://www.totesport.com/totesport/ob_scripts/util.js?78725d857065ec8c3df250a3ecaedc5e" type="text/javascript"></script>
-<script language="javascript" src="http://www.totesport.com/totesport/ob_scripts/global.js?78725d857065ec8c3df250a3ecaedc5e" type="text/javascript"></script>
+<script language="javascript" src="https://www.totesport.com/totesport/ob_scripts/util.js?cd54c84eff9a4255c53fb9320804865a" type="text/javascript"></script>
+<script language="javascript" src="https://www.totesport.com/totesport/ob_scripts/global.js?cd54c84eff9a4255c53fb9320804865a" type="text/javascript"></script>
 
 
 
@@ -217,7 +202,7 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 				<form id="loginForm" name="login" method="post" action="https://www.totesport.com/portal" onsubmit="javascript:go_login(this); return false">
 					<input type="hidden" name="PREV_QUERY_STRING" value="action%3DStaticLoader%26page%3Dgeneral%2FSecurityPrivacy%2Ehtm">
 					<input type="hidden" name="action" value="GoLogin">
-					<input type="hidden" name="uid" value="1293195717">
+					<input type="hidden" name="uid" value="1321373428">
 					<input type="hidden" name="totepool_checkboxes" value="">
 					<input type="hidden" name="totepool_exacta_layout" value="">
 					<fieldset>
@@ -227,9 +212,9 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 
 						<li><input type="password" value="" id="password" name="pwd" class="text" onfocus="onPasswordFocus()" onblur="onPasswordBlur()">
 						<input type="text" value="Password:" id="password_prompt" name="password_prompt" class="text" onfocus="onPasswordPromptFocus()" readonly="readonly"></li>
-						<li><input title="Login to account" id="btnLogin" name="btnLogin" class="button" type="image" src="http://www.totesport.com/totesport/images/en/buttons/imgBtnLogIn.gif" value="login" alt="login"></li>
+						<li><input title="Login to account" id="btnLogin" name="btnLogin" class="button" type="image" src="https://www.totesport.com/totesport/images/en/buttons/imgBtnLogIn.gif" value="login" alt="login"></li>
 						<li><a id="create" name="create" href="http://www.totesport.com/portal?action=GoRegisterStart"> 
-							<img class="button" title="Open account" src="http://www.totesport.com/totesport/images/en/buttons/imgRegisterOfferHeader.gif" alt="Create Account"></a></li>
+							<img class="button" title="Open account" src="https://www.totesport.com/totesport/images/en/buttons/imgRegisterOfferHeader.gif" alt="Create Account"></a></li>
 					</ul></fieldset>
 				</form>
 		
@@ -241,7 +226,7 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 		<div class="grid_16" id="menusection">
 			<div class="grid_3 alpha">
 				<div id="logo">
-					<a title="totesport Online Sports Betting" href="http://www.totesport.com/portal"><img alt="totesport.com" src="http://www.totesport.com/totesport/images/en/brand/imgHeaderBrand.gif"></a>
+					<a title="totesport Online Sports Betting" href="http://www.totesport.com/portal"><img alt="totesport.com" src="https://www.totesport.com/totesport/images/en/brand/imgHeaderBrand.gif"></a>
 				</div>
 			</div>
 			
@@ -251,7 +236,7 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 	<ul id="menu">
 		
 		<li class="mega" id="sports_mega">
-			<a title="Online Sports Betting" href="http://www.totesport.com/portal?" class="tab">sports</a>
+			<a title="Online Sports Betting" href="http://www.totesport.com/portal?" target="" class="tab">sports</a>
 			<div class="panel">
 				
 				
@@ -299,7 +284,9 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 	
 	<li><a title="Football Betting" href="http://www.totesport.com/portal?action=GoCategory&amp;category=Football&amp;Sports-Betting-Football">Football</a></li>
 	
-	<li><a title="The Ashes Betting" href="http://www.totesport.com/portal?action=GoType&amp;ev_type_id=264">The Ashes</a></li>
+	<li><a title="Golf Betting" href="http://www.totesport.com/portal?action=GoCategory&amp;category=Golf&amp;Sports-Betting-Golf">Golf</a></li>
+	
+	<li><a title="Tennis Betting" href="http://www.totesport.com/portal?action=GoCategory&amp;category=Tennis&amp;Sports-Betting-Tennis">Tennis</a></li>
 	
 </ul>
 
@@ -309,17 +296,15 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 	
 	<li><a title="American Football Betting" href="http://www.totesport.com/portal?action=GoClass&amp;ev_class_id=19&amp;Sports-Betting-American-Football">American Football</a></li>
 	
-	<li><a title="Basketball Betting" href="http://www.totesport.com/portal?action=GoClass&amp;ev_class_id=14&amp;Sports-Betting-Basketball">Basketball</a></li>
-	
 	<li><a title="Boxing Betting" href="http://www.totesport.com/portal?action=GoClass&amp;ev_class_id=10&amp;Sports-Betting-Boxing">Boxing</a></li>
 	
 	<li><a title="Cricket Betting" href="http://www.totesport.com/portal?action=GoCategory&amp;category=Cricket&amp;Sports-Betting-Cricket">Cricket</a></li>
 	
 	<li><a title="Darts Betting" href="http://www.totesport.com/portal?action=GoClass&amp;ev_class_id=35&amp;Sports-Betting-Darts">Darts</a></li>
 	
-	<li><a title="Golf Betting" href="http://www.totesport.com/portal?action=GoCategory&amp;category=Golf&amp;Sports-Betting-Golf">Golf</a></li>
-	
 	<li><a title="Greyhounds Betting" href="http://www.totesport.com/portal?action=GoClass&amp;ev_class_id=3&amp;Sports-Betting-Greyhounds">Greyhounds</a></li>
+	
+	<li><a title="Ice Hockey Betting" href="http://www.totesport.com/portal?action=GoClass&amp;ev_class_id=32&amp;Sports-Betting-Ice-Hockey">Ice Hockey</a></li>
 	
 </ul>
 
@@ -327,7 +312,7 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 
 <ul class="other">
 	
-	<li><a title="Ice Hockey Betting" href="http://www.totesport.com/portal?action=GoClass&amp;ev_class_id=32&amp;Sports-Betting-Ice-Hockey">Ice Hockey</a></li>
+	<li><a title="Motor Sport Betting" href="http://www.totesport.com/portal?action=GoClass&amp;ev_class_id=5&amp;Sports-Betting-Motor-Sport">Motor Sport</a></li>
 	
 	<li><a title="Rugby League Betting" href="http://www.totesport.com/portal?action=GoClass&amp;ev_class_id=21&amp;Sports-Betting-Rugby-League">Rugby League</a></li>
 	
@@ -337,8 +322,6 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 	
 	<li><a title="Specials Betting" href="http://www.totesport.com/portal?action=GoCategory&amp;category=SPECIALS&amp;Sports-Betting-Specials">Specials</a></li>
 	
-	<li><a title="Tennis Betting" href="http://www.totesport.com/portal?action=GoCategory&amp;category=Tennis&amp;Sports-Betting-Tennis">Tennis</a></li>
-	
 </ul>
 
 
@@ -346,7 +329,7 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 		</li>
 		
 		<li class="mega" id="bip_mega">
-			<a title="Live Bet in Play" href="http://www.totesport.com/portal?action=GoBettingInRunning" class="tab">bet in play</a>
+			<a title="Live Bet in Play" href="http://www.totesport.com/portal?action=GoBettingInRunning" target="" class="tab">bet in play</a>
 			<div class="panel">
 				
 				
@@ -391,71 +374,71 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 	
 	
 	<li>
-		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=731997" title="Dallas Cowboys @ Arizona Cardinals">
-			Dallas Cowboys @ Arizona Cardinals
+		<a href="http://www.totesport.com/portal?action=GoBettingInRunning&amp;eventId=916539" title="India v West Indies - 2nd Test">
+			India v West Indies - 2nd Test
 		</a>
 	</li>
 	
 	
 	<li>
-		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=731591" title="Fulham v West Ham Utd">
-			Fulham v West Ham Utd
+		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=922558" title="Croatia v Turkey">
+			Croatia v Turkey
 		</a>
 	</li>
 	
 	
 	<li>
-		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=733062" title="Saracens v Wasps">
-			Saracens v Wasps
+		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=923550" title="van Barneveld R v Winstanley D">
+			van Barneveld R v Winstanley D
 		</a>
 	</li>
 	
 	
 	<li>
-		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=731653" title="Motherwell v Rangers">
-			Motherwell v Rangers
+		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=922559" title="Montenegro v Czech Republic">
+			Montenegro v Czech Republic
 		</a>
 	</li>
 	
 	
 	<li>
-		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=731599" title="Aston Villa v Tottenham Hotspur">
-			Aston Villa v Tottenham Hotspur
+		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=923549" title="Waites S v Walsh M">
+			Waites S v Walsh M
 		</a>
 	</li>
 	
 	
 	<li>
-		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=732507" title="San Francisco 49ers @ St Louis Rams">
-			San Francisco 49ers @ St Louis Rams
+		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=922561" title="Rep Ireland v Estonia">
+			Rep Ireland v Estonia
 		</a>
 	</li>
 	
 	
 	<li>
-		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=732502" title="Indianapolis Colts @ Oakland Raiders">
-			Indianapolis Colts @ Oakland Raiders
+		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=922565" title="England v Sweden">
+			England v Sweden
 		</a>
 	</li>
 	
 	
 	<li>
-		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=732506" title="Seattle Seahawks @ Tampa Bay Buccaneers">
-			Seattle Seahawks @ Tampa Bay Buccaneers
+		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=923548" title="Dolan B v Heydon N">
+			Dolan B v Heydon N
 		</a>
 	</li>
 	
 	
 	<li>
-		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=733042" title="New York Giants @ Green Bay Packers">
-			New York Giants @ Green Bay Packers
+		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=923547" title="Pipe J v Chisnall D">
+			Pipe J v Chisnall D
 		</a>
 	</li>
 	
 	
 	<li>
-		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=733043" title="Minnesota Vikings @ Philadelphia Eagles">
-			Minnesota Vikings @ Philadelphia Eagles
+		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=922576" title="Colombia v Argentina">
+			Colombia v Argentina
 		</a>
 	</li>
 	
@@ -464,71 +447,71 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 	
 	
 	<li>
-		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=732527" title="Webster M v Baxter R">
-			Webster M v Baxter R
+		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=922577" title="Ecuador v Peru">
+			Ecuador v Peru
 		</a>
 	</li>
 	
 	
 	<li>
-		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=732526" title="Nicholson P v Wright P">
-			Nicholson P v Wright P
+		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=922560" title="Portugal v Bosnia-Herzegovina">
+			Portugal v Bosnia-Herzegovina
 		</a>
 	</li>
 	
 	
 	<li>
-		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=732525" title="Hamilton A v Thornton R">
-			Hamilton A v Thornton R
+		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=923546" title="van Gerwen M v O'Shea T">
+			van Gerwen M v O'Shea T
 		</a>
 	</li>
 	
 	
 	<li>
-		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=732524" title="Lloyd C v Hylton M">
-			Lloyd C v Hylton M
+		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=923545" title="Wade J v Jenkins T">
+			Wade J v Jenkins T
 		</a>
 	</li>
 	
 	
 	<li>
-		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=731666" title="Arsenal v Chelsea">
-			Arsenal v Chelsea
+		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=923544" title="Hankey T v White I">
+			Hankey T v White I
 		</a>
 	</li>
 	
 	
 	<li>
-		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=732499" title="New Orleans Saints @ Atlanta Falcons">
-			New Orleans Saints @ Atlanta Falcons
+		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=923543" title="Anderson G v Jones W">
+			Anderson G v Jones W
 		</a>
 	</li>
 	
 	
 	<li>
-		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=733072" title="Walsh M v Tabern A">
-			Walsh M v Tabern A
+		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=909407" title="South Africa v Australia - 2nd Test">
+			South Africa v Australia - 2nd Test
 		</a>
 	</li>
 	
 	
 	<li>
-		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=733071" title="Jones W v van der Voort V">
-			Jones W v van der Voort V
+		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=922529" title="Trump J v Murphy S">
+			Trump J v Murphy S
 		</a>
 	</li>
 	
 	
 	<li>
-		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=733070" title="Jenkins T v Brown S">
-			Jenkins T v Brown S
+		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=922528" title="O Sullivan R v White J">
+			O Sullivan R v White J
 		</a>
 	</li>
 	
 	
 	<li>
-		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=733069" title="Newton W v Dolan B">
-			Newton W v Dolan B
+		<a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=923676" title="Gold Coast United vs Melbourne Heart">
+			Gold Coast United vs Melbourne Heart
 		</a>
 	</li>
 	
@@ -539,7 +522,7 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 		</li>
 		
 		<li class="mega" id="racing_mega">
-			<a title="Online Horse Racing Betting" href="http://www.totesport.com/portal?action=GoClass&amp;ev_class_id=2&amp;Sports-Betting-racing" class="tab">racing</a>
+			<a title="Online Horse Racing Betting" href="http://www.totesport.com/portal?action=GoClass&amp;ev_class_id=2&amp;Sports-Betting-racing" target="" class="tab">racing</a>
 			<div class="panel">
 				
 				
@@ -585,11 +568,11 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 <ul class="main">
 	
 	<li>
-		<a title="Chepstow Betting" href="http://www.totesport.com/portal?action=GoType&amp;ev_type_id=423">
-			<strong>Chepstow</strong>
+		<a title="Newbury Betting" href="http://www.totesport.com/portal?action=GoType&amp;ev_type_id=637">
+			<strong>Newbury</strong>
 		</a> | 
 		
-		<a title="Chepstow Coral Welsh National" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=723404">Coral Welsh National</a>
+		<a title="Newbury Hennessy Gold Cup" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=918859">Hennessy Gold Cup</a>
 		
 	</li>
 	
@@ -598,23 +581,36 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 			<strong>Cheltenham</strong>
 		</a> | 
 		
-		<a title="Cheltenham 2011 Stan James Champion Hurdle" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=590536">2011 Stan James Champion Hurdle</a>, 
+		<a title="Cheltenham 2012 Queen Mother Champion Chase" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=774896">2012 Queen Mother Champion Chase</a>, 
 		
-		<a title="Cheltenham 2011 Ladbrokes World Hurdle" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=591736">2011 Ladbrokes World Hurdle</a>, 
+		<a title="Cheltenham 2012 Champion Hurdle" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=775055">2012 Champion Hurdle</a>, 
 		
-		<a title="Cheltenham 2011 totesport Gold Cup" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=592203">2011 totesport Gold Cup</a>, 
+		<a title="Cheltenham 2012 Betfred Cheltenham Gold Cup" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=776054">2012 Betfred Cheltenham Gold Cup</a>, 
 		
-		<a title="Cheltenham 2011 Queen Mother Champion Chase" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=592205">2011 Queen Mother Champion Chase</a>, 
+		<a title="Cheltenham 2012 World Hurdle" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=783723">2012 World Hurdle</a>, 
 		
-		<a title="Cheltenham 2011 JCB Triumph Hurdle" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=684192">2011 JCB Triumph Hurdle</a>, 
+		<a title="Cheltenham 2012 Arkle Chase" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=896135">2012 Arkle Chase</a>, 
 		
-		<a title="Cheltenham 2011 Irish Independent Arkle Trophy" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=684195">2011 Irish Independent Arkle Trophy</a>, 
+		<a title="Cheltenham 2012 RSA Chase" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=896140">2012 RSA Chase</a>, 
 		
-		<a title="Cheltenham 2011 RSA Chase" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=684197">2011 RSA Chase</a>, 
+		<a title="Cheltenham 2012 Ryanair Chase" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=896143">2012 Ryanair Chase</a>, 
 		
-		<a title="Cheltenham 2011 Supreme Novices Hurdle" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=713629">2011 Supreme Novices Hurdle</a>, 
+		<a title="Cheltenham 2012 Supreme Novices Hurdle" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=922134">2012 Supreme Novices Hurdle</a>, 
 		
-		<a title="Cheltenham 2011 Neptune Investment Management Hurdle" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=713632">2011 Neptune Investment Management Hurdle</a>
+		<a title="Cheltenham 2012 Neptune Novices Hurdle" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=922135">2012 Neptune Novices Hurdle</a>, 
+		
+		<a title="Cheltenham 2012 JCB Triumph Hurdle" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=922145">2012 JCB Triumph Hurdle</a>
+		
+	</li>
+	
+	<li>
+		<a title="Haydock Betting" href="http://www.totesport.com/portal?action=GoType&amp;ev_type_id=683">
+			<strong>Haydock</strong>
+		</a> | 
+		
+		<a title="Haydock Betfair Chase" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=917364">Betfair Chase</a>, 
+		
+		<a title="Haydock Betfair Chase Specials" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=923671">Betfair Chase Specials</a>
 		
 	</li>
 	
@@ -623,13 +619,7 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 			<strong>Kempton</strong>
 		</a> | 
 		
-		<a title="Kempton William Hill King George VI Chase DOR" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=732846">William Hill King George VI Chase DOR</a>, 
-		
-		<a title="Kempton King George Betting WITHOUT Kauto Star" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=732847">King George Betting WITHOUT Kauto Star</a>, 
-		
-		<a title="Kempton Kauto Star Winning Distance" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=732848">Kauto Star Winning Distance</a>, 
-		
-		<a title="Kempton William Hill Christmas Hurdle DOR" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=732849">William Hill Christmas Hurdle DOR</a>
+		<a title="Kempton King George VI Chase" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=801364">King George VI Chase</a>
 		
 	</li>
 	
@@ -638,7 +628,7 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 			<strong>Aintree</strong>
 		</a> | 
 		
-		<a title="Aintree 2011 Grand National" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=602726">2011 Grand National</a>
+		<a title="Aintree 2012 John Smith's Grand National" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=788275">2012 John Smith's Grand National</a>
 		
 	</li>
 	
@@ -647,9 +637,9 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 			<strong>Newmarket</strong>
 		</a> | 
 		
-		<a title="Newmarket 2011 2000 Guineas" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=636465">2011 2000 Guineas</a>, 
+		<a title="Newmarket 2012 1000 Guineas" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=824715">2012 1000 Guineas</a>, 
 		
-		<a title="Newmarket 2011 1000 Guineas" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=640572">2011 1000 Guineas</a>
+		<a title="Newmarket 2012 2000 Guineas" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=828297">2012 2000 Guineas</a>
 		
 	</li>
 	
@@ -658,9 +648,9 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 			<strong>Epsom Downs</strong>
 		</a> | 
 		
-		<a title="Epsom Downs 2011 Oaks" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=682320">2011 Oaks</a>, 
+		<a title="Epsom Downs 2012 Investec Oaks" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=861563">2012 Investec Oaks</a>, 
 		
-		<a title="Epsom Downs 2011 Derby" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=682321">2011 Derby</a>
+		<a title="Epsom Downs 2012 Investec Derby" href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=861566">2012 Investec Derby</a>
 		
 	</li>
 	
@@ -687,7 +677,7 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 		</li>
 		
 		<li class="mega" id="totepool_mega">
-			<a title="Online totepool Betting" href="http://www.totesport.com/portal?action=GoClass&amp;ev_class_id=45745&amp;Sports-Betting-totepool" class="tab">totepool</a>
+			<a title="Online totepool Betting" href="?action=GoPage&amp;page=POOL&amp;ev_class_id=45745" target="" class="tab">totepool</a>
 			<div class="panel">
 				
 				
@@ -740,45 +730,8 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 		</h2>
 	</li>
 	
-	<li>
-		<a title="Next winandplace Betting" href="http://www.totesport.com/portal?action=GoTotePool&amp;selected=UWIN&amp;type=racecard">
-			Next winandplace
-		</a>
-	</li>
-	
-	<li>
-		<a title="Next exacta Betting" href="http://www.totesport.com/portal?action=GoTotePool&amp;selected=UEXA&amp;type=racecard">
-			Next exacta
-		</a>
-	</li>
-	
-	<li>
-		<a title="Next swinger Betting" href="http://www.totesport.com/portal?action=GoTotePool&amp;selected=USW&amp;type=racecard">
-			Next swinger
-		</a>
-	</li>
-	
 </ul>
 <div class="secondary">
-	
-	
-	<div class="other">
-		<h2><a title="Arlington Pool Betting" href="http://www.totesport.com/portal?action=GoType&amp;ev_type_id=1663">Arlington</a></h2>
-		<ul>
-			
-			<li><a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=733057&amp;pool_type_id=UWIN">winandplace</a></li>
-			
-			<li><a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=733057&amp;pool_type_id=UEXA">exacta</a></li>
-			
-			<li><a href="http://www.totesport.com/portal?action=GoEvent&amp;ev_id=733057&amp;pool_type_id=USW">swinger</a></li>
-			
-		</ul>
-	</div>
-	<!--Check if it is a second column and add a new clear div if so-->
-	
-	 
-	
-	
 	
 	
 	
@@ -790,16 +743,16 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 		</li>
 		
 		<li class="mega" id="casino_mega">
-			<a title="Online Casino" href="http://www.totesport.com/portal?action=StaticLoader&amp;page=casinoNew/casino-home.htm&amp;tab=CA" class="tab">casino</a>
+			<a title="Online Casino" href="http://www.totesport.com/portal?action=StaticLoader&amp;page=casinoNew/casino-home.htm&amp;tab=CA" target="" class="tab">casino</a>
 			<div class="panel">
 				
 				
 
 <div class="content">
-	<p>25 days of advent, 25 promos - Check out our '<a href="http://www.totesportchristmascountdown.com/" target="_blank">Christmas Crackers</a>' advent calendar to reveal the offer of the day!</p>
+	<p>Claim a 100% bonus (up to £100) on your first deposit!</p>
 </div>
 <ul class="main">
-	<li><strong><a title="Download the totesport casino" href="http://banner.totesport.com/cgi-bin/SetupCasino.exe">Download totesport Casino</a></strong></li>
+	<li><strong><a title="Download the totesport casino" href="http://banner.totesport.com/cgi-bin/SetupCasino.exe">Click here to download &gt;&gt;</a></strong></li>
 <li><a title="100% Welcome Bonus" href="http://www.totesport.com/portal?action=StaticLoader&amp;page=casinoNew/casino-promotions-cash-match.htm&amp;tab=CA">100% Welcome Bonus</a></li>
 <li><a title="Online Casino Promotions" href="http://www.totesport.com/portal?action=StaticLoader&amp;page=casinoNew/casino-promotions.htm&amp;tab=CA">Promotions</a></li>
 <li><a title="Emerald Club VIP Casino" href="http://www.totesport.com/portal?action=StaticLoader&amp;page=casinoNew/casino-emerald-club.htm&amp;tab=CA">Emerald Club</a></li>
@@ -807,13 +760,17 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 <li><a title="Contact Us" href="http://www.totesport.com/portal?action=StaticLoader&amp;page=casinoNew/casino-contact-us.htm&amp;tab=CA">Contact Us</a></li>
 <li>&nbsp;</li>
 
-<li><strong>New Games (Download Only)</strong></li>
-<li><a title="Incredible Hulk" href="http://www.totesport.com/portal?action=StaticLoader&amp;page=casinoNew/casino-new-games.htm&amp;tab=CA">Incredible Hulk</a></li>
-<li><a title="Iron Man" href="http://www.totesport.com/portal?action=StaticLoader&amp;page=casinoNew/casino-new-games.htm&amp;tab=CA">Iron Man</a></li>
-<li><a title="Fantastic Four" href="http://www.totesport.com/portal?action=StaticLoader&amp;page=casinoNew/casino-new-games.htm&amp;tab=CA">Fantastic Four</a></li>
-<li><a title="Blade" href="http://www.totesport.com/portal?action=StaticLoader&amp;page=casinoNew/casino-new-games.htm&amp;tab=CA">Blade</a></li>
-<li><a title="Elektra" href="http://www.totesport.com/portal?action=StaticLoader&amp;page=casinoNew/casino-new-games.htm&amp;tab=CA">Elektra</a></li>
-<li><a title="Daredevil" href="http://www.totesport.com/portal?action=StaticLoader&amp;page=casinoNew/casino-new-games.htm&amp;tab=CA">Daredevil</a></li>
+<li><strong>New Games</strong></li>
+<li><a title="Frankie Dettori Slot" href="http://www.totesport.com/portal?action=GoFIMPlaytechGame&amp;game=fdt" class="launchGame">Frankie Dettori Slot</a></li>
+<li><a title="Incredible Hulk" href="http://www.totesport.com/portal?action=GoFIMPlaytechGame&amp;game=hlk2" class="launchGame">Incredible Hulk</a></li>
+<li><a title="Pink Panther" href="http://www.totesport.com/portal?action=GoFIMPlaytechGame&amp;game=pnp" class="launchGame">Pink Panther</a></li>
+<li><a title="Iron Man" href="http://www.totesport.com/portal?action=GoFIMPlaytechGame&amp;game=irm2" class="launchGame">Iron Man</a></li>
+<li><a title="X-Men" href="http://www.totesport.com/portal?action=GoFIMPlaytechGame&amp;game=xmn" class="launchGame">X-Men</a></li>
+<li><a title="Blade" href="http://www.totesport.com/portal?action=GoFIMPlaytechGame&amp;game=bld" class="launchGame">Blade</a></li>
+
+<li><a title="Rocky" href="http://www.totesport.com/portal?action=StaticLoader&amp;page=casinoNew/casino-new-games.htm&amp;tab=CA">Rocky (Download Only)</a></li>
+<li><a title="Fantastic Four" href="http://www.totesport.com/portal?action=StaticLoader&amp;page=casinoNew/casino-new-games.htm&amp;tab=CA">Fantastic 4 (Download Only)</a></li>
+
 	
 </ul>
 <div class="first other">
@@ -824,11 +781,11 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 <li><a title="Play Online Gladiator" href="http://www.totesport.com/portal?action=GoFIMPlaytechGame&amp;game=glr" class="launchGame">Gladiator</a></li>
 		<li><a title="Play Online Jacks or Better (4 Line)" href="http://www.totesport.com/portal?action=GoFIMPlaytechGame&amp;game=jb4" class="launchGame">Jacks or Better (4 Line)</a></li>
 		<li><a title="Play Online Gold Rally (P)" href="http://www.totesport.com/portal?action=GoFIMPlaytechGame&amp;game=grel" class="launchGame">Gold Rally (P)</a></li>
-		<li><a title="Play Online Blackjack Surrender" href="http://www.totesport.com/portal?action=GoFIMPlaytechGame&amp;game=bjsd_mh5" class="launchGame">Blackjack Surrender</a></li>
+		<li><a title="Iron Man" href="http://www.totesport.com/portal?action=GoFIMPlaytechGame&amp;game=irm2" class="launchGame">Iron Man</a></li>
 		<li><a title="Play Online Caribbean Stud Poker(P)" href="http://www.totesport.com/portal?action=GoFIMPlaytechGame&amp;game=car" class="launchGame">Caribbean Stud Poker(P)</a></li>
 		<li><a title="Play Online Beach Life" href="http://www.totesport.com/portal?action=GoFIMPlaytechGame&amp;game=bl" class="launchGame">Beach Life (P)</a></li>
-		<li><a title="Play Online Top Trumps World Football Stars" href="http://www.totesport.com/portal?action=GoFIMPlaytechGame&amp;game=tfs" class="launchGame">Top Trumps World Football Stars</a></li>
-		<li><a title="Play Online Top Trumps Football Legends" href="http://www.totesport.com/portal?action=GoFIMPlaytechGame&amp;game=ttl" class="launchGame">Top Trumps Football Legends</a></li> 
+		<li><a title="Incredible Hulk" href="http://www.totesport.com/portal?action=GoFIMPlaytechGame&amp;game=hlk2" class="launchGame">Incredible Hulk</a></li>
+                <li><a title="Pink Panther" href="http://www.totesport.com/portal?action=GoFIMPlaytechGame&amp;game=pnp" class="launchGame">Pink Panther</a></li> 
 	</ul>
 </div>
 
@@ -869,7 +826,7 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 		</li>
 		
 		<li class="mega" id="games_mega">
-			<a title="Online Games" href="http://www.totesport.com/portal?action=StaticLoader&amp;page=instant-games/instant-games-home.htm&amp;tab=GA" class="tab">games</a>
+			<a title="Online Games" href="http://www.totesport.com/portal?action=StaticLoader&amp;page=instant-games/instant-games-home.htm&amp;tab=GA" target="" class="tab">games</a>
 			<div class="panel">
 				
 				
@@ -888,7 +845,7 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 <div class="first other">
 	<h2>Top 10 Games</h2>
 	<ul>
-		<li><a title="Play Online European Roulette" href="https://www.totesport.com/portal?action=GoGamesLaunch&amp;game=elec:RouletteEuroEC" class="launchGame">European Roulette</a></li>
+		<li><a title="Play Online European Roulette" href="https://www.totesport.com/portal?action=GoGamesLaunch&amp;game=RouletteSingleEuroSL" class="launchGame">European Roulette</a></li>
 
                 <li><a title="Play Online Monopoly" href="https://www.totesport.com/portal?action=GoGamesLaunch&amp;game=wagerworks:MonopolySlot" class="launchGame">Monopoly</a></li>
 
@@ -951,7 +908,7 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 		</li>
 		
 		<li class="mega" id="bingo_mega">
-			<a title="Online Bingo" href="http://www.totesport.com/portal?action=StaticLoader&amp;page=bingo/bingo-home.htm&amp;tab=BI" class="tab">bingo</a>
+			<a title="Online Bingo" href="http://www.totesport.com/portal?action=StaticLoader&amp;page=bingo/bingo-home.htm&amp;tab=BI" target="" class="tab">bingo</a>
 			<div class="panel">
 				
 				
@@ -961,7 +918,7 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 </div>
 <ul class="main">
 <li><a title="Online Bingo - PLAY NOW!" onclick="openFullscreenGameWindow('Bingo','','','','','','',''); return false" href="#"><strong>PLAY BINGO NOW!</strong></a></li>
-<li><a title="Online Bingo - £15 FREE for New Players" href="http://www.totesport.com/portal/?action=StaticLoader&amp;page=promotions/bingo/october10/sign-up.htm">£15 FREE for New Players</a></li>
+<li><a title="Online Bingo - £25 FREE for New Players" href="http://www.totesport.com/portal/?action=StaticLoader&amp;page=promotions/bingo/february11/sign-upbonus.htm ">£25 FREE for New Players</a></li>
 <li><a title="Online Bingo Promotions" href="http://www.totesport.com/portal/?action=StaticLoader&amp;page=bingo/bingo-promotions.htm&amp;tab=BI">Promotions</a></li>
 <li><a title="Online Bingo Getting Started" href="http://www.totesport.com/portal/?action=StaticLoader&amp;page=bingo/bingo-getting-started.htm&amp;tab=BI">Getting Started</a></li>
 <li><a title="Contact us" href="http://www.totesport.com/portal/?action=StaticLoader&amp;page=bingo/bingo-contact-us.htm&amp;tab=BI">Contact Us</a></li>
@@ -1019,6 +976,56 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 			</div>
 		</li>
 		
+		<li class="mega" id="poker_mega">
+			<a title="Online Poker" href="http://www.tspoker.com" target="_blank" class="tab">poker</a>
+			<div class="panel">
+				
+				
+
+<div class="content">
+	<h2><a href="http://www.tspoker.com/" target="http://www.tspoker.com">Join our new poker partner today</a></h2>
+        <p><a href="http://www.tspoker.com/" target="http://www.tspoker.com">PLAY TS POKER &amp; CLAIM A 200% BONUS UP TO ¬1000!</a></p>
+</div>
+<ul class="main">
+	<li><a href="http://www.tspoker.com/siteinfo/terms-conditions//" target="_blank">T&amp;Cs apply</a></li>
+</ul>
+
+
+
+	<div id="" style="
+		
+		 ">
+		
+		
+				
+
+				
+					<!-- main_content-->
+					
+					
+						
+						<div id="content_PokerMegaMenu_main_content" style="
+								
+								
+								
+								
+								
+								">
+							
+								
+							
+						</div>
+
+					
+				
+		
+	</div>
+
+<!-- End of Canvas PokerMegaMenu -->
+
+			</div>
+		</li>
+		
 	</ul>
 </div>
 
@@ -1044,172 +1051,68 @@ util.misc.bet_uid = '007f010066cbfd4d1499c504a814';
 	<!-- This file holds all code relating to loading and calling the -->
 <!-- Playtech FIM module -->
 
-<!-- $Id: playtech_fim.html,v 1.7 2010-07-12 02:31:47 sbakkeby Exp $ -->
-
-<script type="text/javascript" src="http://www.totesport.com/totesport/scripts/AC_RunActiveContent.js"></script>
+<!-- $Id: playtech_fim.html,v 1.8 2011-01-31 10:38:22 sbakkeby Exp $ -->
 
 <!-- This call populates xmlstring -->
 
+	<script language="javascript" type="text/javascript">
 
-<script language="JavaScript" src="http://banner.totesport.com/fimversion.conf.php"></script>
+		
 
-
-
-<script language="JavaScript">
-
-if ( 'http' != 'https' ) {
-	var fimDir = xmlstring;
-}
-var fimName = "fim";
-var fimObj = null;
-var casinoSwf = "http://download.totesport.com/flashcasino.php";
-var casinoMode = null;
-var casinoMiniMode = null;
-
-var uname_hash = "";
-var pword_hash = "";
-var login_hash = "";
-var logged_in  = "0";
-var game_code  = "";
-
-function fimReady()
-{
-	if ( 'http' != 'https' ) {
-		initFim();
-	}
-}
-
-function getFim()
-{
-	if ( 'http' != 'https' ) {
-		return getSWF(fimName);
-	}
-}
-
-function getSWF(swfId)
-{
-	if (window[swfId]) {
-		return window[swfId];
-	}
-	return document[swfId];
-}
-
-function initFim()
-{
-	if ( 'http' != 'https' ) {
-		getFim().initClient("casino", casinoSwf);
-		if ( logged_in == 1 ) {
-			loginFim();
+		function fimReady()
+		{
 		}
-		getFim(fimName).setCallout("cashier", "openCashier");
-		getFim(fimName).setCallout("playforreal","calloutPlayForReal");
-	}
-}
 
-function setFIMLoginStatus(uname,pword,logged)
-{
-	uname_hash = uname;
-	pword_hash = pword;
-	logged_in = logged;
-	if ( 'http' != 'https' ) {
-		initFim();
-	}
-}
-
-function setFIMLoginStatus(uname,pword,login,logged)
-{
-	uname_hash = uname;
-	pword_hash = pword;
-	login_hash = login;
-	logged_in = logged;
-	if ( 'http' != 'https' ) {
-		initFim();
-	}
-}
-
-function loginFim()
-{
-	if ( 'http' != 'https' ) {
-		getFim().initUser(login_hash);
-	}
-}
-
-function launchCasino(module)
-{
-	if ( 'http' != 'https' ) {
-		getFim().launchClient("casino", module, casinoMode);
-		game_code = module;
-	}
-}
-
-function launchMiniCasino(module)
-{
-	if ( 'http' != 'https' ) {
-		getFim().launchClient("casino_mini", module, casinoMiniMode);
-	}
-}
-function closeCasino()
-{
-	if ( 'http' != 'https' ) {
-		getFim().close("casino");
-	}
-}
-
-function closeMiniCasino()
-{
-	if ( 'http' != 'https' ) {
-		getFim().close("casino_mini");
-	}
-}
-
-function closeAll()
-{
-	if ( 'http' != 'https' ) {
-		getFim().close();
-	}
-}
-
-function setCasinoMode(value)
-{
-	casinoMode = value;
-}
-
-function calloutPlayForReal()
-{
-	window.open("http://www.totesport.com/portal?action=GoFIMPlaytechGame&game="+game_code,"_blank","height=600,width=752,status=no,top=25,left=25");
-}
-
-</script>
-
-<div id="fim_div">
-	<script language="javascript">
-		if ( 'http' != 'https' ) {
-			AC_FL_RunContent(
-				'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0',
-				'width', '0',
-				'height', '0',
-				'src', fimName,
-				'quality', 'high',
-				'pluginspage', 'http://www.macromedia.com/go/getflashplayer',
-				'align', 'middle',
-				'play', 'true',
-				'loop', 'true',
-				'scale', 'showall',
-				'wmode', 'window',
-				'devicefont', 'false',
-				'id', fimName,
-				'bgcolor', '#F5F5F5',
-				'name', fimName,
-				'menu', 'true',
-				'allowFullScreen', 'false',
-				'allowScriptAccess','always',
-				'movie', fimDir + fimName,
-				'base', fimDir,
-				'salign', ''
-  			); //end AC code
+		function getFim()
+		{
 		}
+
+		function getSWF(swfId)
+		{
+		}
+
+		function initFim()
+		{
+		}
+
+		function setFIMLoginStatus(login,logged)
+		{
+		}
+
+		function loginFim()
+		{
+		}
+
+		function launchCasino(module)
+		{
+		}
+
+		function launchMiniCasino(module)
+		{
+		}
+
+		function closeCasino()
+		{
+		}
+
+		function closeMiniCasino()
+		{
+		}
+
+		function closeAll()
+		{
+		}
+
+		function setCasinoMode(value)
+		{
+		}
+
+		function calloutPlayForReal()
+		{
+		}
+
 	</script>
-</div>
+
 
 	<div id="mainContent" class="clearfix">
 	<div id="mainContentMembrane" class="legacyMembrane">
