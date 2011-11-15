@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zapya.com privacy policy that was archived on 2011-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110219210819id_/http%3A//clips4sale.com/do/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zapya.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115223151id_/http%3A//clips4sale.com/do/PrivacyPolicy) for the most accurate reproduction.*
 
 # Clips4Sale.com
 
@@ -34,7 +34,7 @@ FURTHER QUESTIONS.Further Customer Service questions? Contact us at our email ad
 |  |   
 ---  
    
-[About Us](https://web.archive.org/do/about) | [Title 2257](https://web.archive.org/do/2257) | [Contact Us](https://web.archive.org/do/support) | [Privacy Policy](https://web.archive.org/do/PrivacyPolicy) **[  
+[About Us](https://web.archive.org/do/about) | [Title 2257](https://web.archive.org/do/2257) | [Contact Us](http://support.clips4sale.com/) | [Privacy Policy](https://web.archive.org/do/PrivacyPolicy) **[  
 ](https://web.archive.org/do/privacy) PARENTS! USE THESE SITES TO FILTER ADULT CONTENT!**  
 [RSAC](http://www.rsac.org/) | [Cyber Patrol](http://www.cyberpatrol.com/) | [Safesurf](http://www.safesurf.com/) | [NetNanny](http://www.netnanny.com/) | [CyberSitter](http://www.cybersitter.com/) |   
   
