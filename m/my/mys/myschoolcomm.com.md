@@ -1,13 +1,9 @@
-> *The following text is extracted and transformed from the myschoolcomm.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230131055id_/http%3A//www.myschoolcomm.com/school/docs/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myschoolcomm.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115184240id_/http%3A//www.myschoolcomm.com/school/docs/privacy-policy) for the most accurate reproduction.*
 
-# Terms Of Use And Privacy Policy Documents | Myschoolcomm | My School Community
+# Privacy Policy Document | My School Community
 
-| **Site News »** |   
----|---|---  
   
-myschoolcomm.com Privacy Policy  
-  
-Effective February, 2006:   
+Effective: February, 2010 | Last Modified: April, 2011   
   
 About myschoolcomm.com
 
@@ -38,11 +34,14 @@ myschoolcomm.com users may modify or remove any of their personal information at
 Third Party Advertising   
 Ads appearing on this Web site may be delivered to users by myschoolcomm.com or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy statement covers the use of cookies by myschoolcomm.com and does not cover the use of cookies by any advertisers. 
 
+Special Note About Google Advertising  
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google's cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own [privacy policies](http://www.google.com/privacy.html). About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
 Security   
 myschoolcomm.com member accounts are secured by member-created passwords. myschoolcomm.com takes precautions to insure that member account information is kept private by making the passwords encrypted so nobody can view them (not even the administrator). We use reasonable measures to protect other member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time For any additional information about the security measures we use on myschoolcomm.com, please contact us a support@myschoolcomm.com   
   
 Sharing and Disclosure of Information myschoolcomm.com Collects   
-Except as otherwise described in this privacy statement, Futocomm will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by myschoolcomm.com, whether or not a response is required by applicable law; (2) to enforce the myschoolcomm.com Terms of Use Agreement or to protect our rights; or (3) to protect the safety of members of the public and users of the service. myschoolcomm.com reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of myschoolcomm.com or substantially all of its assets to that successor in interest For more information see the "Changes in Our Privacy Policy" section below. 
+Except as otherwise described in this privacy statement, myschoolcomm will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by myschoolcomm.com, whether or not a response is required by applicable law; (2) to enforce the myschoolcomm.com Terms of Use Agreement or to protect our rights; or (3) to protect the safety of members of the public and users of the service. myschoolcomm.com reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of myschoolcomm.com or substantially all of its assets to that successor in interest For more information see the "Changes in Our Privacy Policy" section below. 
 
 Changes in Our Privacy Policy   
 From time to time we may make changes to our privacy policy If we make changes, we will post them on our site to make users aware of what the changes are so users will always be aware of what information we collect, how we use it, and when we may disclose it. A User is bound by any minor changes to the policy when she or he uses the site after those changes have been posted If, however, we are going to use users' personally identifiable information in a manner materially different from that stated at the time of collection we will notify by posting a notice on our Web site for 30 days. 
