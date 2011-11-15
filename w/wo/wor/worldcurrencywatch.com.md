@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the worldcurrencywatch.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611063609id_/http%3A//worldcurrencywatch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcurrencywatch.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115040705id_/http%3A//www.worldcurrencywatch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | World Currency Watch
-
-## Privacy Policy
 
 **PRIVACY POLICY — IMPORTANT — PLEASE READ**  
 We at World Currency Watch take your privacy very seriously.
