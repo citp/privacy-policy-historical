@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the hwcompare.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511221841id_/http%3A//www.hwcompare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hwcompare.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115125918id_/http%3A//www.hwcompare.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Hardware Compare - www.hwcompare.com
+# Privacy Policy & Compensation Disclosure – Hardware Compare - www.hwcompare.com
 
-## Privacy Policy
+## Privacy Policy & Compensation Disclosure
+
+## Privacy
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -22,3 +24,8 @@ We have included links on this site for your use and reference. We are not respo
 
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion.
+
+## Compensation Disclosure
+
+**Amazon Associates Program**  
+Hardware Compare is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com
