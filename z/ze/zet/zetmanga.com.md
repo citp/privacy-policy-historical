@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zetmanga.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620074423id_/http%3A//www.zetmanga.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zetmanga.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115203518id_/http%3A//www.zetmanga.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Naruto 543, One Piece 628, Bleach 451, Spoiler and Manga Chapter
+# Privacy Policy | Naruto 555, One Piece 639, Bleach 464, Spoiler and Manga Chapter
 
 ****If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at eyeshield009@gmail.com.
 
