@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meltwaternews.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614225339id_/http%3A//www.meltwater.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meltwaternews.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115134103id_/http%3A//www.meltwater.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Meltwater Group Privacy Policy
 
