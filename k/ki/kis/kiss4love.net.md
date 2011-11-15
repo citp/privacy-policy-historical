@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kiss4love.net privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528210012id_/http%3A//www.kiss4love.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kiss4love.net privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115121632id_/http%3A//www.kiss4love.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | KISS4LOVE.NET
 
