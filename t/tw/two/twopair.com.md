@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the twopair.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521090505id_/http%3A//www.twopair.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twopair.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115041826id_/http%3A//www.twopair.com/privacy-policy) for the most accurate reproduction.*
 
 # America’s Best eyeglasses, optometrists and quality eyewear—your privacy is our priority.
-
-Text Size:  A  |  A  |  A  |  A 
 
 At America's Best, we respect our customers and understand that they are concerned about privacy, so we have instituted policies intended to ensure that your personal information is handled safely and responsibly. This Privacy Policy explains what America's Best does with your information and what you can expect from America's Best. You should review this Privacy Policy periodically as we may update it from time to time. This policy was last revised on May 6, 2010.
 
