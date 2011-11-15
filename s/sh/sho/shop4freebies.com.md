@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shop4freebies.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524234916id_/http%3A//www.shop4freebies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop4freebies.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115140638id_/http%3A//www.shop4freebies.com/privacy) for the most accurate reproduction.*
 
 # Shop4Freebies.com
 
