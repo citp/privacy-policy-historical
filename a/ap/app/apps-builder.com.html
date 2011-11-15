@@ -1,0 +1,464 @@
+<!--The following is the downloaded HTML source of the apps-builder.com privacy policy that was archived on 2011-11-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111115234516id_/http%3A//www.apps-builder.com/pag/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
+<title>PRIVACY | APPS BUILDER </title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="keywords" content="app mobile, application iphone, application android,applications smartphone, app tablets , ios">
+<meta name="description" content="Crea la tua applicazione mobile personalizzata in soli 3 semplici passaggi. Per Android, Iphone, Ipad e Tablet mobile. Account Free. In 5 minuti su Apple Store e Market Android.">
+<meta name="generator" content="gEdit">
+<meta name="copyright" content="Apps-Builder.Com">
+<meta name="author" content="APPSBUILDER SRL">
+<base href="http://www.apps-builder.com//system/application/views/pagine/">
+<link type="text/css" rel="stylesheet" charset="UTF-8" href="/css/smoothness/jquery-ui.css">
+<link type="text/css" rel="stylesheet" charset="UTF-8" href="popup/common/default.css">
+<link type="text/css" rel="stylesheet" charset="UTF-8" href="./css/default.css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans+Narrow" rel="stylesheet" type="text/css">
+<link href="http://fonts.googleapis.com/css?family=PT+Sans+Caption" rel="stylesheet" type="text/css">
+<!--[if lt IE 8]>
+	<link rel="stylesheet" type="text/css" media="screen" href="./css/ie.css" />
+<![endif]-->
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/jquery-ui.js"></script>
+<script type="text/javascript" src="helpers.js"></script>
+<script type="text/javascript" src="popup/popup.js"></script>
+
+</head>
+
+<body>
+
+<div id="top">
+        <div id="lang"><a href="/user/switchLanguage/italian"> ITA </a> | <a href="/user/switchLanguage/english"> ENG </a></div>
+</div>
+<div id="wrapper">
+        <div id="header">
+        <link type="text/css" rel="stylesheet" charset="UTF-8" href="popup/boxlogin/css/default.css"> 
+	<link type="text/css" rel="stylesheet" charset="UTF-8" href="http://www.apps-builder.com//system/application/views/common.css"> 
+	<script type="text/javascript" src="popup/boxlogin/popup.js"></script>
+<div id="boxlogin" class="popup">
+	<div class="topheader"><img class="close" src="popup/boxloginapp/img/close.png"></div>
+	<div class="left">
+		<div class="box">
+			<div class="regheader"></div>
+			<h2>LOGIN</h2>
+			<form action="/auth/login" method="POST" class="flogin">
+			<div class="row">
+				<span></span>
+				<input type="text" name="username">
+			</div>
+			<div class="row">
+				<span></span>
+				<input type="password" name="password">
+			</div>	
+			<div class="rowcheck2">
+				<span><a class="link" href="/auth/forgot_password" target="_blank"></a></span>
+				<span class="login"><input type="submit" class="btnlogin" value="">
+				<input type="checkbox" name="remember" checked=""></span>
+			</div>
+			</form>
+			<div style="clear:both"></div>					
+			<div class="message1" style="display:none"></div>
+
+		</div>
+	</div>
+	<div class="right">
+		<div class="box">
+			<div class="header"></div>
+			<br>
+			<form action="/auth/register" method="POST" class="fregister">
+			<div class="row">
+				<span></span>
+				<input type="text" name="username">
+			</div>
+			<div class="row">
+				<span></span>
+				<input type="password" name="password">
+			</div>
+			<div class="row">
+				<span></span>
+				<input type="password" name="password2">
+			</div>
+			<div class="row">
+				<span></span>
+				<input type="text" name="email">
+			</div>
+			<div class="rowcheck">
+				<span><input type="checkbox" name="terms"><a target="_blank" href="/pag/terms">
+								</a></span>
+				<input type="submit" class="register" value="">
+			</div>
+			<div style="clear:both"></div>			
+
+			</form>
+			<div class="message2" style="display:none"></div>
+
+		</div>
+	</div>
+	<div style="clear:both"></div>					
+</div>
+	<script type="text/javascript">
+		$(document).ready(function(){
+
+	        	$("#login2").children(".login").bind("click",function(){
+				showPopup("boxlogin");
+			});
+
+	        	$("#login").children(".logout").bind("click",function(){
+				$.post("/auth/logout",{},function(){
+					window.location="/";
+				});
+			});
+
+			var path = window.location.pathname.split("/");
+			var regexp = new RegExp(path[2],"i");
+			$("#header").find("div.nav").find("li a").each(function(){
+				var t = $(this).text();
+				if(regexp.test(t)){
+					$(this).addClass("selected");
+				}else{
+					if(t=="B2B" && (path[2]=="affiliazione" || path[2]=="affiliate")){
+						$(this).addClass("selected");
+					}
+				}
+			});
+		});
+	</script>
+	<div id="logo"><a href="/"><img border="0" src="img/logo.png"></a></div>
+        <div id="righthead">
+
+ 	        <div id="login2"><span class="login"> Log in </span>  
+		<!--
+			|
+			<img class="fb" src="img/fb.png">
+			<img class="tw" src="img/tw.png">
+		-->
+		</div>
+        	<div class="nav">
+	        	<ul>
+        	        	<li><a href="">Home</a></li>
+	                        <li><a href=""></a></li>
+        	                <li><a href=""></a></li>
+        	                <li><a href="">Store</a></li>
+                	        <li><a href="">B2B</a></li>
+                        	<li><a href="">FAQS</a></li>
+                                <li><a target="_blank" href="http://wordpress.apps-builder.com/">Plugin</a></li>
+	                        <li><a href=""></a></li>
+        	        </ul>
+	        </div>
+	</div>
+ </div>
+<div style="clear:both"></div>
+	<div id="box">
+		<div id="steps">
+			<div><span class="high">PRIVACY</span></div>
+			<div style="clear:both"></div>
+			<img src="img/riga.png">
+		</div>
+
+		<div id="content">
+			<div id="text2">
+				<div class="grid_halfcol">
+            
+       
+
+    <div class="copy">
+        AppsBuilder Srl ("AppsBuilder," "we," or "us") knows that you care how information about you 
+        is used and shared. This Privacy Policy explains what information of yours will be collected by 
+        AppsBuilder when you use Apps-Builder.com and/or related AppsBuilder software and services (the "Service"), 
+        how the information will be used, and how you can control the collection, correction and/or deletion 
+        of information. We will not use or share your information with anyone except as described in this Privacy Policy. 
+    </div> 
+
+    <div class="title_parag">Information We Collect</div> 
+    <div class="copy">
+        <p><strong>User-Provided Information:</strong> As part of using the Service, you may be required to provide certain information 
+        in order to register and set up an account (including billing and credit card information), or at your option for 
+        certain free Services (Registration Data). If you correspond with us by email, we may retain the content of your 
+        email messages, your email address and our responses. If you invite a friend to try AppsBuilder, we will use that friend's 
+        email address for the sole purpose of sending your invitation.</p>
+        <br>
+        <p><strong>Cookies Information:</strong> When you visit Apps-Builder.com, we may send one or more cookies - a small text file 
+        containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. A cookie does 
+        not collect personal information about you. AppsBuilder uses both session cookies and persistent cookies. A persistent cookie 
+        remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent 
+        visits to the site. Persistent cookies can be removed by following your web browser's directions. A session cookie is 
+        temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate 
+        when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept 
+        cookies is disabled.</p>
+        <br>
+        <p><strong>File Information:</strong> Log file information is automatically reported by your browser each time you 
+        access a web page. When you view Apps-Builder.com, our servers automatically record certain information that your web browser 
+        sends whenever you visit any website. These server logs may include information such as your web request, Internet 
+        Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, 
+        pages viewed, and other such information.</p>
+        <br>
+        <p><strong>Clear Gifs Information:</strong> When you use the Service, we may employ clear gifs (a.k.a. Web Beacons)
+        which are used to track the online usage patterns of our users anonymously. No personally identifiable information 
+        from your AppsBuilder account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based 
+        emails sent to our users to track which emails are opened by recipients. The information is used to enable more 
+        accurate reporting, improve the effectiveness of our marketing, and make AppsBuilder better for our users.</p>
+        <br>
+    </div> 
+
+    <div class="title_parag">How We Use Your Information</div> 
+    <div class="copy">
+        <p><strong>Automatically Recorded Information:</strong> AppsBuilder does not claim any ownership in any 
+        of the content, including any text, data, information, images, photographs, music, sound, video or 
+        other material that you upload, transmit, store or otherwise make available in connection with the 
+        Service. Such content will remain your private information. AppsBuilder's servers will automatically 
+        scan and record certain information regarding your use of the Service, such as basic log information, 
+        your email address, and your IP address. Such automatically recorded information shall remain your 
+        private information and will not be made available to the public.</p>
+        <br>
+        <p><strong>User-Provided Information:</strong> By providing AppsBuilder your email address you consent 
+        to our using the email address to send you Service-related notices, including any notices required 
+        by law, in lieu of communication by postal mail. You may opt out or change the frequency of many 
+        Service-related communications by clicking an email preferences link provided at the end of every 
+        email AppsBuilder sends. As part of our registration process we may also ask your permission to use 
+        your email address to send you other messages, such as newsletters, changes to features of the Service, 
+        or special offers. If you do not want to receive such email messages, you may unsubscribe or change your 
+        mailing preferences by clicking a link that will appear at the end of all email communications. Opting 
+        out may prevent you from receiving email messages regarding updates, improvements, or offers.<br>
+        AppsBuilder may use certain information about you without identifying you as an individual to third parties. 
+        We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, 
+        and maintaining security.<br>
+        We use cookies, clear gifs, and log file information to: (a) remember information so that you will not 
+        have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized 
+        content and information; (c) monitor the effectiveness of our service; (d) monitor aggregate metrics such 
+        as total number of visitors and traffic; and (e) diagnose or fix technology problems reported by our users 
+        or engineers that are associated with the IP addresses controlled by a specific web company or ISP.</p>
+    </div>
+
+    <div class="title_parag">How We Share Your Information</div> 
+    <div class="copy">
+        <p><strong>Personally Identifiable Information:</strong> AppsBuilder will not rent or sell your personally identifiable 
+        information to others and will not share it with others except as provided herein. AppsBuilder may share your personally
+        identifiable information with third parties solely for the purpose of providing services to you. If we do this, such 
+        third parties' use of your information will be bound by this Privacy Policy. We may store personal information in 
+        locations outside the direct control of AppsBuilder (for instance, on servers or databases co-located with hosting providers).</p>
+        <p>As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information 
+        is generally one of the transferred business assets in these types of transactions. We may also transfer such information 
+        in the course of corporate divestitures, mergers, or dissolution.</p>
+        <p>Except as otherwise described in this Privacy Policy, AppsBuilder will not disclose personal information to any third 
+        party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the 
+        law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected 
+        or actual illegal activities; (b) to enforce our License (http://www.Apps-Builder.com/legal/license), take precautions against 
+        liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement 
+        agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal 
+        safety of AppsBuilder, our users or others.</p>
+        <br>
+        <p><strong>Non-Personally Identifiable Information:</strong> We may share non-personally identifiable information (such as anonymous 
+        usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help 
+        them understand the usage patterns for certain AppsBuilder services.</p>
+    </div>
+
+    <div class="title_parag">How We Protect Your Information</div> 
+    <div class="copy">
+        AppsBuilder uses commercially reasonable physical, managerial, and technical safeguards to preserve 
+        the integrity and security of your personal information. We cannot, however, ensure or warrant 
+        the security of any information you transmit to AppsBuilder and you do so at your own risk. Once we 
+        receive your transmission of information, AppsBuilder makes commercially reasonable efforts to ensure 
+        the security of our systems. However, please note that this is not a guarantee that such information 
+        may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, 
+        or managerial safeguards.
+    </div>
+
+    <div class="title_parag">Compromise of Personal Information</div> 
+    <div class="copy">
+        In the event that personal information is compromised as a result of a breach of security, 
+        AppsBuilder will promptly notify those persons whose personal information has been compromised, 
+        in accordance with the notification procedures set forth in this Privacy Policy, 
+        or as otherwise required by applicable law.
+    </div>
+
+    <div class="title_parag">Your Choices About Your Information</div> 
+    <div class="copy">
+        You may, of course, decline to submit personally identifiable information to AppsBuilder, 
+        in which case AppsBuilder will not be able to provide the Service to you. You can review 
+        and correct the information about you that AppsBuilder keeps on file by contacting us directly 
+        at <a href="mailto:privacy@Apps-Builder.com">privacy@Apps-Builder.com</a>. 
+    </div>
+
+    <div class="title_parag">Children's Privacy</div> 
+    <div class="copy">
+        Protecting the privacy of young children is especially important. For that reason, AppsBuilder 
+        does not knowingly collect or solicit personal information from anyone under the age of 13 
+        or knowingly allow such persons to register. If you are under 13, please do not send any 
+        information about yourself to us, including your name, address, telephone number, or email 
+        address. No one under age 13 is allowed to provide any personal information to or on AppsBuilder. 
+        In the event that we learn that we have collected personal information from a child under age 
+        13 without verification of parental consent, we will delete that information as quickly as possible. 
+        If you believe that we might have any information from or about a child under 13, 
+        please contact us at <a href="mailto:privacy@Apps-Builder.com">privacy@Apps-Builder.com</a>. 
+    </div>
+
+    <div class="title_parag">Links to Other Web Sites</div> 
+    <div class="copy">
+        We are not responsible for the practices employed by Web sites linked to or from our Web site 
+        nor the information or content contained therein. Please remember that when you use a link 
+        to go from our Web site to another Web site, our Privacy Policy is no longer in effect. 
+        Your browsing and interaction on any other Web site, including those that have a link on 
+        our Web site, is subject to that Web site's own rules and policies. Please read over those 
+        rules and policies before proceeding. 
+    </div>
+
+    <div class="title_parag">Notification Procedures</div> 
+    <div class="copy">
+        It is our policy to provide notifications, whether such notifications are required by law or are 
+        for marketing or other business related purposes, to you via email notice or through conspicuous 
+        posting of such notice on our Website page, as determined by AppsBuilder in its sole discretion. 
+        We reserve the right to determine the form and means of providing notifications to you, provided 
+        that you may opt out of certain means of notification as described in this Privacy Policy. 
+    </div>
+
+    <div class="title_parag">Italian Based Service</div> 
+    <div class="copy">
+        Our center of operation is in Italy. Your data is held in Italy and transactions 
+        are processed in Euros on servers in Italy. As such, all data is held in accordance 
+        with Italian laws and procedures which differ from those in other regions of the world. By using this service, you acknowledge that you understand and agree to these data policies. 
+    </div>
+
+    <div class="title_parag">Changes to Our Privacy Policy</div> 
+    <div class="copy">
+        If we change our privacy policies and procedures, we will post those changes on our website to keep you aware 
+        of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this 
+        Privacy Policy are effective when they are posted on this page. 
+    </div>
+
+    <div class="copy">
+        <p>If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, 
+        please contact us at <a href="mailto:privacy@Apps-Builder.com">privacy@Apps-Builder.com</a>, or send mail to:</p>
+        <br>
+        <p>AppsBuilder Srl<br>
+        Largo Francesco Richini, 2A<br>
+        Milan, Italy</p>
+    </div>
+
+
+            
+        </div>			</div>
+		</div>
+	</div>
+
+	<div style="clear:both"></div>
+		<div id="social">
+		<div id="middle"></div>
+		<div id="box_social">
+			<div class="social" id="facebook">
+				<a title="facebook appsbuilder" href="http://www.facebook.com/AppsBuilderCom/"><img border="0" src="/images/like_fb.png" alt="Facebook AppsBuilder"></a>
+			</div>
+			<div class="social" id="share" style="margin-top:18px;">
+				<a title="Pubblica su Twitter" href="#" onclick="window.open('http://twitter.com/share?via=Apps-Builder&amp;related=AppsBuilderApps&amp;url=http://www.apps-builder.com/&amp;lang=it&amp;text=I+like+Apps Builder ','_blank','menubar=0,resizable=1,width=750,height=400');return false;"><span><img src="img/tw.png" border="0"></span></a>
+				<a title="Pubblica su Facebook" href="#" onclick="window.open('http://www.facebook.com/sharer.php?u=http://www.apps-builder.com/','_blank','menubar=0,resizable=1,width=750,height=400');return false;"><span><img border="0" src="img/fb.png"></span></a>
+                                <g:plusone size="small" count="false" href="http://www.apps-builder.com/"></g:plusone>
+                                <script type="text/javascript" src="http://apis.google.com/js/plusone.js">{parsetags: 'explicit'}</script>
+                                <script type="text/javascript">gapi.plusone.go();</script>
+			</div>
+			<div class="social" id="twitter" style="margin-top: 6px;">
+				<a title="appsbuilder twitter follow us" href="http://twitter.com/appsbuilder"><img border="0" src="img/twitter_follow.png"></a>
+			</div>
+		</div>
+	</div>
+
+<script type="text/javascript">var _kiq = _kiq || [];</script>
+<script type="text/javascript" src="//s3.amazonaws.com/ki.js/20771/44F.js" async="true"></script>
+	<div style="clear:both"></div>
+	
+</div>
+
+
+
+<!-- Google Code for EN appsbuilder Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 973197790;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "U0BuCMLA1wIQ3qOH0AM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/973197790/?label=U0BuCMLA1wIQ3qOH0AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+<div id="footer">
+        <div id="footer_menu">
+                <div class="nav">
+                        <ul>
+
+				<li><a href="">Home</a></li>
+                                <li>|</li>
+	                        <li><a href=""></a></li>
+                                <li>|</li>
+        	                <li><a href=""></a></li>
+                                <li>|</li>
+                	        <li><a href="">API</a></li>
+                                <li>|</li>
+                                <li><a href="/en/about"></a></li>
+                                <li>|</li>
+                                <li><a href=""></a></li>
+                                <li>|</li>                             
+        	                <li><a href="">Store</a></li>
+                                <li>|</li>
+                        	<li><a href="/blog">Blog</a></li>
+                                <li>|</li>
+                                <li><a href="http://wordpress.apps-builder.com/">Plugin</a></li>
+                                <li>|</li>
+                                <li><a href="">FaQs</a></li>
+                                <li>|</li>
+                                <li><a href="http://appsbuilder.zendesk.com/forums" target="_blank">Forum</a></li>
+                                <li>|</li>
+	                        <li><a href="" "=""></a></li>
+
+                        </ul>
+                </div>
+        </div>
+
+        <div id="credits">
+                <div id="text">Copyright 2010 - 2012. All rights reserved | Apps Builder Srl | P.iva 07363990966 | <a href="http://www.youtube.com/user/appsbuildercom">Youtube Channel</a> | <a href="http://www.flickr.com/photos/appsbuilder/">Flickr Album</a> | <a href="http://www.slideshare.net/AppsBuilder">Slides</a> | <a href="/pag/terms">Terms of Service</a> | <a href="/pag/privacy">Privacy</a></div>
+        </div>
+</div>
+<script type="text/javascript">
+	var aurl = false;
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-19479911-1']);
+	if(aurl){
+		_gaq.push(['_trackPageview',aurl]);
+	}else{
+		_gaq.push(['_trackPageview']);
+	}
+	_gaq.push(['_trackPageLoadTime']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src=('https:' == document.location.protocol ? 'https://ssl' : 'http://www')+'.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  	})();
+</script>
+
+<script type="text/javascript" src="//asset0.zendesk.com/external/zenbox/v2.1/zenbox.js"></script>
+<style type="text/css" media="screen, projection">
+  @import url(//asset0.zendesk.com/external/zenbox/v2.1/zenbox.css);
+</style>
+<script type="text/javascript">
+  if (typeof(Zenbox) !== "undefined") {
+    Zenbox.init({
+      dropboxID:   "20009243",
+      url:         "https://appsbuilder.zendesk.com",
+      tabID:       "support",
+      tabColor:    "#0E3E5B",
+      tabPosition: "Left"
+    });
+  }
+</script>
+
+
+</body></html>
