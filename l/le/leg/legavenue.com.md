@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legavenue.com privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625025451id_/http%3A//legavenue.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legavenue.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115093043id_/http%3A//www.legavenue.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy - Leg Avenue Inc
 
