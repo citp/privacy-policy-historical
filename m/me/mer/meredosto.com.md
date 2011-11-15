@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meredosto.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516005847id_/http%3A//meredosto.com/pg/expages/read/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meredosto.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115204208id_/http%3A//meredosto.com/pg/expages/read/Privacy) for the most accurate reproduction.*
 
 # Meredosto
 
