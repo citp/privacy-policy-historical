@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the a-dec.com privacy policy that was archived on 2011-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110401135652id_/http%3A//www.a-dec.com/html/LegalDisclaimers/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a-dec.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115142345id_/http%3A//us.a-dec.com/en/sitecore/content/Adec/Home/Legal-Disclaimers/Privacy-Policy) for the most accurate reproduction.*
 
-# A-dec, Inc. - A Dental Equipment Company
-
-## A-dec Privacy Policy
+# A-dec Inc. - Dental Equipment Solutions
 
 A‑dec takes your privacy very seriously and this privacy policy documents our commitment to protecting the privacy of all our website users and customers. By visiting a‑dec.com and providing any personal information to A‑dec, you are accepting the practices described in this privacy policy.
 
