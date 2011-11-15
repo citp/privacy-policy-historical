@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gayperv.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628163249id_/http%3A//www.gayperv.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayperv.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115205742id_/http%3A//www.gayperv.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy at Gay Perv
+# Privacy at Free Gay Tube
 
 AE Media Group recognizes that its customers, visitors, users, and others who use Gay Perv value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the Gay Perv site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site. 
 
