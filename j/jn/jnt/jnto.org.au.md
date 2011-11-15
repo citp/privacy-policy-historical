@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jnto.org.au privacy policy that was archived on 2011-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110316071544id_/http%3A//jnto.org.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jnto.org.au privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115215307id_/http%3A//www.jnto.org.au/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Japan National Tourism Organization (JNTO)
 
