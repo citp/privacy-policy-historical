@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the theleesshop.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518050825id_/http%3A//theleesshop.com/infodesk/protection_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theleesshop.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115143951id_/http%3A//theleesshop.com/infodesk/protection_policy.php) for the most accurate reproduction.*
 
-# ::::Thelessshop:::: All mens slim & luxury items
+# ::::Theleessshop:::: All mens slim & luxury items
 
 ---  
-|  |  |  |  |    
-
+|  |   
+     [Home](https://web.archive.org/) > Privacy Policy |     
+---|---  
+|  | 
 
 Sample  
 | **1\. Shopping Mall Privacy Policy**  
@@ -44,10 +46,11 @@ New services and new laws may generate a need to amend this privacy policy. You 
 **6\. Privacy Support**  
 If you have any questions about our Privacy Policy, please contact us  
   
-[Shopping Guide](https://web.archive.org/web/20110518050825id_/http%3A//theleesshop.com/infodesk/shopguide.php)   [Privacy Policy](https://web.archive.org/web/20110518050825id_/http%3A//theleesshop.com/infodesk/protection_policy.php)   [Sell Your Product](https://web.archive.org/web/20110518050825id_/http%3A//theleesshop.com/infodesk/join_mall.php)   [C/S center](https://web.archive.org/web/20110518050825id_/http%3A//theleesshop.com/infodesk/custom_center.php)   [Terms and Conditons](https://web.archive.org/web/20110518050825id_/http%3A//theleesshop.com/infodesk/company_coop.php)    
+[Shopping Guide](https://web.archive.org/web/20111115143951id_/http%3A//theleesshop.com/infodesk/shopguide.php)   [Privacy Policy](https://web.archive.org/web/20111115143951id_/http%3A//theleesshop.com/infodesk/protection_policy.php)   [C/S center](https://web.archive.org/web/20111115143951id_/http%3A//theleesshop.com/infodesk/custom_center.php)   [Terms and Conditons](https://web.archive.org/web/20111115143951id_/http%3A//theleesshop.com/infodesk/company_coop.php)    
   
 **C/S Center** : Tel 82-10-5177-3242  
- **Hours :** Monday - Friday 10:00 a.m.~ 5:00 p.m.  
- **Address** : 36-1 BF1, Songgang-dong, Yuseong-gu, Daejeon, South Korea   
+**Hours :** Monday - Friday 10:00 a.m.~ 5:00 p.m.  
+**Business License Number:** 314-22-49321   
+**Address** : 36-1 BF1, Songgang-dong, Yuseong-gu, Daejeon, South Korea   
 Copyright ⓒ 2011 theleesshop.com All right reserved.  
-If you have question mailto: thelees.cs@gmail.com
+If you have any questions, please send an E-mail to: thelees.cs@gmail.com
