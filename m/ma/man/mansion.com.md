@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mansion.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624193957id_/http%3A//www.mansion.com/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mansion.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115113345id_/http%3A//www.mansion.com/security-and-privacy) for the most accurate reproduction.*
 
 # Mansion Casino Security & Privacy - www.Mansion.com
 
@@ -6,7 +6,7 @@
 
 MANSION.COM is a duly authorised branded casino of Mansion Online Casino Limited, (referred to as "MANSION.COM", "we", "our" or "us" as the context requires). We are incorporated in Gibraltar and duly licensed to provide online casino services in and from Gibraltar, (collectively referred to as "the Group").
 
-We have provided this privacy policy to help you understand how we collect, use and safeguard your information for the purpose of operating our online casino and poker services. You should read this notice in conjunction with our [terms and conditions](http://www.mansion.com/about/terms.html) for use of this site or any other sites operated by us.
+We have provided this privacy policy to help you understand how we collect, use and safeguard your information for the purpose of operating our online casino and poker services. You should read this notice in conjunction with our [terms and conditions](http://www.mansion.com/terms-and-conditions/) for use of this site or any other sites operated by us.
 
 **Personal information**
 
