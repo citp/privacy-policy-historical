@@ -1,13 +1,71 @@
-> *The following text is extracted and transformed from the diyprojects.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212185436id_/http%3A//www.cornerhardware.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyprojects.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115181911id_/http%3A//www.diyflooring.com/Help-Customer-Service/Privacy-Policy_3) for the most accurate reproduction.*
 
-# CornerHardware.com - CornerHardware Privacy Policy
+# DIY Flooring Privacy Policy
 
-#### CornerHardware.com's Privacy Policy
+  
+|  |  |  |   
+  
+| 
 
-Your privacy is important to us, so our pledge to you is ironclad: We will not sell, rent, loan or otherwise make available your personal information, such as your name, e-mail address, shipping address or credit card number, to any third party. 
+HELP CENTER:  Privacy Policy
 
-We may ask you for certain types of information (your address and credit card number, for example) because we need it to process your transaction. We also want to know if our site works for you. So we record your IP address (your computer's location on the Internet), which allows us to tell how easily you're able to navigate through our site and whether you can find what you're looking for. IP addresses also give us a sense of general traffic flow, for example, whether you came to us from AOL or Yahoo. But, and this is important, we record IP addresses in what's called aggregate form only, in other words, as general patterns. Your IP address is never linked to any personal information. 
+|   
+---  
+  
+At DIYFlooring.com, we are committed to protecting your privacy. We use information we collect from you to process orders and to provide a more personalized shopping experience. We do not sell, trade, or rent your personal information to outside parties. 
 
-To remember your preferences, just as a local shop owner remembers your individual likes and "druthers", we use "cookies" to customize portions of our site. Cookies are small data files that are stored on your Internet browser. When you visit our site, a cookie tells us, for example, whether you've bought something from us before. If you have, you don't have to type in your personal information all over again if you want to make a purchase or take part in a discussion group. A cookie doesn't tell us (or anyone else) anything personal about you. You give us that information when you register, and only CornerHardware.com has access to it. To learn more about cookies, visit [Cookie Central](http://www.cookiecentral.com/) or the [World Wide Web Security FAQ](http://www.w3.org/Security/Faq/wwwsf7.html#Q66). 
+  
 
-From time to time, we work with carefully chosen partners like iFLOOR.com to sponsor co-branded sites. You'll know if you're on one of our co-branded sites because at the top of the page you'll see our logo as well as our partner's. In that case, we may share with that partner some of the data we receive. Rest assured, however, that our partners fully subscribe to the stringent privacy and security policies spelled out here, or they wouldn't be our partners. 
+
+### What information do we collect? How do we use it?
+
+  
+
+  * When you order, we need to know your name, e-mail address, mailing address, shipping address, and payment information like your credit account number and expiration date. This allows us to process and fulfill your order and to notify you of your order status.
+  
+
+  * When you sign up for one of our SALE NOTIFICATION SERVICES, we only need an e-mail address, which we use to send the information you request.
+  
+
+  * When you enter a contest or other promotional feature, we may ask for your name, address, e-mail address, and phone number so we can administer the contest and notify winners.
+  
+
+  * We personalize your shopping experience by using your purchases to shape our recommendations about the merchandise that might be of interest to you. We also monitor customer traffic patterns and site usage to help us develop the design and layout of the website.
+  
+
+  * We may also use the information we collect to occasionally notify you about important functionality changes to the web site, new DIYFlooring.com services, and special offers we think you'll find valuable. If you would rather not receive this information, visit the [MY ACCOUNT link](https://checkout.netsuite.com/app/center/nlvisitor.nl/c.924241/n.6/sc.6/.f?gc=clear)in the header to change your preferences. Make sure to change your preferences for each account or e-mail address you have registered.
+  
+
+  
+
+
+### How does DIYFlooring.com protect customer information?
+
+When you place orders or access your account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, all of the customer data we collect is protected against unauthorized access.
+
+  
+
+
+### What about "cookies"?
+
+"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies enable us to provide shopping features and to store items in your shopping cart between visits. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that.
+
+  
+
+
+### Will DIYFlooring.com disclose the information it collects to outside parties?
+
+DIYFlooring.com does not sell, trade, or rent your personal information to outside parties. We do share some customer information with our trusted partners for transactions that begin at a partner site. These are trusted parties who will not sell your information to outside sources.
+
+Also, DIYFlooring.com may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. 
+
+  
+
+
+### In summary: 
+
+We are committed to protecting your privacy. We use the information we collect on the site to make shopping at DIYFlooring.com possible and to enhance your overall shopping experience. We do not sell, trade, or rent your personal information to others. If you never want to receive any announcements or special offers from us, visit the [MY ACCOUNT link](https://checkout.netsuite.com/app/center/nlvisitor.nl/c.924241/n.6/sc.6/.f?gc=clear) in the header to change your preferences. Remember to change your preferences for each of the e-mail accounts you have given us.
+
+Your consent: By using our web site, you give consent to the collection and use of this information by DIYFlooring.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.  
+  
+---
