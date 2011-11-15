@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the yoogiscloset.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619022918id_/http%3A//www.yoogiscloset.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoogiscloset.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115125504id_/http%3A//www.yoogiscloset.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Yoogi's Closet - Privacy Policy
-
-|  [ ](https://web.archive.org/sell.aspx) | 
-
-[Home](https://web.archive.org/) > Privacy Policy
-
-| | |   
----|---|---  
-| 
 
 Yoogi’s Closet, Inc. (" ** _Yoogi’s Closet_** ") takes the safeguarding of your security and personal information seriously. Please read the following to learn more about our Privacy Policy. If you have any questions about Yoogi’s Closet's information collection practices, email us at [privacy@yoogiscloset.com](mailto:privacy@yoogiscloset.com). 
 
@@ -87,6 +79,3 @@ Yoogi’s Closet, Inc. (" ** _Yoogi’s Closet_** ") takes the safeguarding of y
   * Yoogi’s Closet may amend this Privacy Policy from time to time. If we make any substantial changes to this policy, we will notify you by posting an announcement on the Yoogi’s Closet website, sending you an email, by including an item in the Yoogi’s Closet newsletter, or by any other means reasonably calculated to provide you with actual notice.
 
 
-
-|   
-| | 
