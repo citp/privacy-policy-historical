@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the loginhelper.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620153814id_/http%3A//loginhelper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loginhelper.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115155321id_/http%3A//loginhelper.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Login Helper
+# Privacy Policy - Login Helper
 
-Below is information regarding [Login](http://loginhelper.com/tag/login/ "Login") Helper’s commitment to protect the privacy of users and to ensure the integrity of the [Internet](http://loginhelper.com/category/internet/ "Internet"). (This Privacy Policy was last revised on May 22, 2008.)
+Below is information regarding Login Helper’s commitment to protect the privacy of users and to ensure the integrity of the [Internet](http://loginhelper.com/category/internet/ "Internet"). (This Privacy Policy was last revised on May 22, 2008.)
 
-[Internet](http://loginhelper.com/tag/internet/ "Internet") user privacy is of paramount importance to Loginhelper.com The success of our business depends upon our ability to maintain the trust of our users. If for any reason you have concerns about our software or website’s privacy policies, please contact us. We are committed to ensuring that every user’s needs are addressed.
+Internet user privacy is of paramount importance to Loginhelper.com The success of our business depends upon our ability to maintain the trust of our users. If for any reason you have concerns about our software or website’s privacy policies, please contact us. We are committed to ensuring that every user’s needs are addressed.
 
 Collection of Personal Information
 
 In the course of delivering this site to you, Loginhelper.com does NOT collect any personally-identifiable information about you, such as your name, address, phone number or [email](http://loginhelper.com/category/email/ "email") address from users of this web site without your knowledge, and are taking measures to protect your privacy.
 
-You can send [email](http://loginhelper.com/tag/email/ "email") requesting help and your email will NOT be shared in any way with any third party(ies), and will only be used to send replies to you.
+You can send email requesting help and your email will NOT be shared in any way with any third party(ies), and will only be used to send replies to you.
 
 Ads used on this website can use cookies and/or web beacons to collect data in the ad serving process. You can remove them at any time using your browser tools.
 
