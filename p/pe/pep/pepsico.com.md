@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pepsico.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221161738id_/http%3A//www.pepsico.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pepsico.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115040612id_/http%3A//www.pepsico.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # PepsiCo Privacy Policy | PepsiCo.com
 
@@ -23,6 +23,8 @@ Personal Information - You may choose to provide personal information (such as y
   * **Contact Us** \- If you email us through the “Contact Us” link on this site, we ask you for information such as your name and email address so we can respond to your questions and comments. You may choose to provide additional information as well.
 
   * **Investor Relations Alerts** \- If you would like to receive company financial news from PepsiCo’s Investor Relations team, we ask for your name and email address so we can send you the news alerts.
+
+  * **News Alerts** \- If you would like to receive company press releases from PepsiCo’s Media team, we ask for your name and email address so we can send you the news alerts.
 
   * **Send Content to a Friend** \- You can send certain content to your friends. To do so, we ask you to provide your name and your friend’s email address. We use this information to send the content to your friend. 
 
