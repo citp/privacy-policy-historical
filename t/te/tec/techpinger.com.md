@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the techpinger.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507232102id_/http%3A//techpinger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techpinger.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115072156id_/http%3A//techpinger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tech Pinger
 
-## September 10, 2009
+September 10, 2009 By [Leave a Comment](http://techpinger.com/2009/09/privacy-policy/#comments)
 
 [TechPinger.com](http://techpinger.com/) takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
@@ -37,13 +37,3 @@ Note that you can change your browser settings to disable cookies if you have pr
 #### Contact Information
 
 If you have any questions or concerns about this privacy policy you can contact us from [Contact Page](http://techpinger.com/contact/) for further clarification.
-
-\- Join us on [Facebook](http://www.facebook.com/pages/TechPingercom/160172194039455) and [Twitter](http://twitter.com/TechPinger) today! 
-
-**Written by** : [Admin](http://techpinger.com/author/admin/ "Posts by Admin")
-
-**Filed Under** : [Software](http://techpinger.com/category/software/ "View all posts in Software")
-
-**Trackback URL** : http://techpinger.com/2009/09/privacy-policy/trackback/
-
-﻿
