@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goldenchennai.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518035816id_/http%3A//www.goldenchennai.com/chennai/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenchennai.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115193353id_/http%3A//www.goldenchennai.com/chennai/privacy-policy.php) for the most accurate reproduction.*
 
-# Golden Chennai | Privacy Policy
+# Golden Mumbai | Privacy Policy
 
 At Golden Chennai, we are keenly aware of the trust you place in us and our responsibility to protect your privacy. As part of this responsibility, we let you know what information we collect when you use our products and services, why we collect it and how we use it to improve your experience. Golden Chennai Privacy Policy describes how we treat personal information when you use Golden Chennai’s products and services. At Golden Chennai we recognize that privacy is important. This Privacy Policy applies to all of the products, services and websites offered by Golden Chennai or its subsidiaries or affiliated companies. If you have any questions about this Privacy Policy, please feel free to contact us through our website or write to us at   
 Privacy Matters   
