@@ -1,52 +1,37 @@
-> *The following text is extracted and transformed from the creativetimes.co.uk privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629171428id_/http%3A//www.creativetimes.co.uk/legals/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativetimes.co.uk privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115210140id_/http%3A//www.creativetimes.co.uk/statics/privacy) for the most accurate reproduction.*
 
-# Creative industries news, events and articles brought to you by CIDS - CREATIVE Times
+# Privacy Policy | Creative Times
 
 ## Privacy Policy
 
-  * Privacy commitment
-  * Information we collect and why
-  * How we use your personal data 
-  * Correcting and updating information
-  * Correcting and updating information
-  * Further information
+#### Creative Times is committed to protecting your privacy.
 
+The text below describes the ways in which we collect information from you when you use the service, and what we may use it for. Our privacy policy forms part of the terms and conditionsfor use of this website. By agreeing to these terms and conditions, you are consenting to our use of your personal data in accordance with this privacy policy.
 
+Creative Times is a Community Interest Companhy. The registered offices are located at 165E Burton Road, West Didsbury, Manchester, M20 2LN. If you have any other questions about this policy you can write to us at our head office for the attention of Phil Birchenall - or by email to [birchenall@thewhiteroomcec.com](mailto:birchenall@thewhiteroomcec.com)
 
-### Privacy commitment
+#### What data do we collect from you?
 
-**1.1** The creativetimes.co.uk website is owned and operated by the Creative Industries Development Service (CIDS). We are committed to safeguarding your privacy online and to this end have developed the following Privacy Policy. This policy may change from time to time so please check it periodically.
+We collect data from you ('user data') when you register to use this website and to receive newsletters, resources and information about events and opportunities.
 
-### Information we collect and why
+This data can sometimes comprise personal data about individuals, to which UK data protection laws apply. These terms and conditions and the privacy protection policy describe Creative Times’s approach to fulfilling their obligations under those data protection laws.
 
-**2.1** When you register with CREATIVE Times, we ask for information such as your name, e-mail address, contact details, local authority area and information about your business, so that we can best identify what services and/or information is appropriate for you and your business.
+#### The information we collect
 
-**2.2** We keep a record of your details in order to fulfil our role as a provider of information, support and guidance for creative sector businesses in Greater Manchester. This is necessary in order for us to be able to contact you with current and future information about opportunities that may be of interest to you. This information is recorded whether you register with us in person, by phone or online.
+We may use "cookies" to store certain types of information each time you interact with our website. Cookies enable us to recognise your computer and allow us to see how you use our website. For example, we may track the areas of the website you visit to see what interests you in particular, and which sites you accessed the website from, and leave to visit next. It is normally possible to alter the settings of your computer so that cookies cannot be used in this way, but this may affect the way in which you can use our website. We also note, and save, information such as time of day, browser type and content requested. That information is used to provide more relevant services to our users.
 
-### How we use your personal data
+When you register as a user of our website, you will need to provide us with some of your personal data.
 
-**3.1** All the information we hold about you is used for four main reasons:
+#### How we may use this information
 
-  * Firstly, we use it to contact you with information from ourselves and our partners that we think may be of relevance and/or interest to you. 
-  * Secondly we use it to analyse, identify and report on the size and nature of the creative industry sector in Greater Manchester, data that helps us make the case for greater industry support from government bodies like the DTI.
-  * Thirdly, where the support or advice provided to you has been as a direct result of a European, national, regional or local government funding scheme which requires us to keep records on businesses and individuals that have received this support.
-  * Lastly, we may use technology to track the patterns of behaviour of visitors to our sites. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings. We also track click-through links in emails sent as part of our e-newsletter subscription service.
+Your personal data is stored and processed on computers in the United Kingdom.
 
+We may use your personal data to communicate with you on any matter relating to our website. We may also use your personal data for various administrative functions connected with the website. Otherwise, we will only use your personal data for the purposes for which it was collected, unless you give us or have given us permission to use it for other purposes. (e.g display on the directory section of this website) We will not disclose your personal data to any third party without your permission, other than in the circumstances set out in this privacy policy or where such disclosure is required or permitted by law.
 
+We may collect and analyse data from the personal data provided by you to help us to understand our users as a group so that we can provide a better service. We may share aggregated data with selected third parties, without disclosing individual names or personally identifying information.
 
-We are committed to using your personal information for these reasons only.
+From time to time Creative Times may wish to send you information about other services which we offer and believe you may be interested in. We may use user data for this purpose. If you decide now, or at any later time, that you do not wish to receive this information, please inform us by email at info@creativetimes.co.uk
 
-**3.2** The only circumstances where we may share some of your data with third parties is where, in our judgement, these third parties have a product, service, event or scheme that will be advantageous to you as an individual or business within the Greater Manchester creative sector. When joining one of our mailing lists you are given the opportunity to opt in to receiving information from third parties. CIDS will only pass on your Personal Information if the relevant box has been ticked. In these instances, we supply your Personal Information for one-off use by the third party. 
+We may change this privacy policy from time to time. Any changes will be displayed on our website. You are deemed to have agreed to any changes when you next use our website following any such change.
 
-### Correcting and updating information
-
-**4.1** If you do not wish to receive information of this nature, please either advise us when registering, email [info@cids.co.uk](mailto:info@cids.co.uk) or call 0800 169 1143.
-
-### Further information
-
-**5.1** If you have questions about your personal data or our privacy policy, please contact us at [info@cids.co.uk](mailto:info@cids.co.uk). To get a copy of all the information we have about you, and to correct any inaccuracies, please write to:   
-CIDS 1st Floor   
-The Department Store   
-5 Oak St   
-Manchester   
-M4 5JD
+We will answer any additional questions you may have. Our e-mail address is: [info@creativetimes.co.uk](mailto:info@creativetimes.co.uk)
