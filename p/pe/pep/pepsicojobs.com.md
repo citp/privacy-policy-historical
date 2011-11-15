@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pepsicojobs.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616020458id_/http%3A//www.pepsico.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pepsicojobs.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115040612id_/http%3A//pepsico.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # PepsiCo Privacy Policy | PepsiCo.com
 
