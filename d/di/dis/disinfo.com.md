@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disinfo.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627045127id_/http%3A//www.disinfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disinfo.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115034220id_/http%3A//www.disinfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Disinformation
 
