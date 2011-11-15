@@ -1,13 +1,11 @@
-> *The following text is extracted and transformed from the bangkokair.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119085849id_/http%3A//www.bangkokair.com/privacy-security/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangkokair.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115193503id_/http%3A//www.bangkokair.com/en/privacy-and-security/index.php) for the most accurate reproduction.*
 
-# Bangkok Airways - Fly different, to feel extraordinary
+# Privacy and Security
 
 ### Introduction
 
-Bangkok Airways Co., Ltd. is committed to protecting your privacy.
-
-You are encouraged to know all your rights about using the services of this web-site, provided by Bangkok Airways Co., Ltd. (hereinafter ‘We’ or ‘PG’). Following are the guidelines we use for protecting the information you provide us during a visit to our website.
-
+Bangkok Airways Co., Ltd. is committed to protecting your privacy.  
+You are encouraged to know all your rights about using the services of this web-site, provided by Bangkok Airways Co., Ltd. (hereinafter 'We' or 'PG'). Following are the guidelines we use for protecting the information you provide us during a visit to our website.  
 This Privacy Statement will also apply to any information about you that is provided to us by someone else such as a travel agent.
 
 ### Collection of personal information
@@ -16,7 +14,7 @@ The types of personal information that we collect from you will depend on the ci
 
 ### Purpose for collection and Disclosure of personal information
 
-We generally collect your personal information for the following purposes:
+We generally collect your personal information for the following purposes: 
 
   1. To process your travel and freight arrangements and other transactions.
   2. To conduct marketing activities and to conduct market research.
@@ -59,4 +57,31 @@ PG assumes no responsibility for your any inconvenience, resulting from any unex
 
 When you book flights a secure server is used. Secure Server Layer (SSL) encrypts the information you send through this web site. PG makes no warranty in respect of the strength or effectiveness of that encryption and PG is not responsible for events arising from unauthorized access of the information you provide.
 
-[หน้าหลัก](https://web.archive.org/web/20101119085849id_/http%3A//www.bangkokair.com/index.php) > ข้อมูลส่วนบุคคลและความปลอดภัย
+  * [Flight Schedule](https://web.archive.org/en/plan-your-trip/flight-schedule.php)
+  * [Promotion](https://web.archive.org/en/plan-your-trip/promotion.php)
+  * [Hotels](https://web.archive.org/hotels/index.php)
+  * [Travel Insurance](https://web.archive.org/travel-insurance/index.php)
+  * [](https://web.archive.org/btc/index.php)
+  * [Route Map](https://web.archive.org/en/plan-your-trip/route-map.php)
+
+
+  * [Our Fleet](https://web.archive.org/en/at-the-airport/our-fleet.php)
+  * [Airport & Lounge](https://web.archive.org/en/at-the-airport/airport/suvarnabhumi.php)
+  * [Cargo Service](https://web.archive.org/en/at-the-airport/cargo-service.php)
+  * [Charter Service](https://web.archive.org/en/at-the-airport/charter-service.php)
+
+
+  * [Check-in Service](https://web.archive.org/en/passenger-services/check-in-airport.php)
+  * [Web Check-in Service](https://web.archive.org/en/passenger-services/web-check-in.php)
+  * [Announcement](https://web.archive.org/en/passenger-services/credit-card-restrictions.php)
+  * [Baggage](https://web.archive.org/en/passenger-services/baggage.php)
+  * [Inquiries & Feedback](https://web.archive.org/en/passenger-services/inquiries-and-feedback.php)
+  * [Refund](https://web.archive.org/en/passenger-services/refund.php)
+  * [FlyerBonus](https://web.archive.org/flyerbonus/flyerbonus.php)
+
+
+  * [Company Profile](https://web.archive.org/en/about-us/company-profile.php)
+  * [Contact Us / Address](https://web.archive.org/en/about-us/contact-us.php)
+  * [Job Opportunities](https://web.archive.org/en/about-us/work-with-us.php)
+
+
