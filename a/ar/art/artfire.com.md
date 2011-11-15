@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the artfire.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516081810id_/http%3A//www.artfire.com/modules.php%3Fname%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artfire.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115040529id_/http%3A//artfire.com/modules.php%3Fname%3Dprivacy_policy) for the most accurate reproduction.*
 
-# 
+# ArtFire.com
 
 What information do we collect?
 
