@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whipitoutcomedy.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602104516id_/http%3A//comedy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whipitoutcomedy.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115040508id_/http%3A//comedy.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Comedy.com
+# Privacy Policy – Comedy.com
 
 **We will not sell or give out your email address or other personal information to other companies or websites. We understand that you have put your trust in us by providing this information. We will only use your email address as you agree or allow when you sign-up and/or opt in to receive bulletins from Comedy.com.**
 
