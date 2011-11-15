@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploadorb.com privacy policy that was archived on 2010-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101117000317id_/http%3A//uploadorb.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadorb.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115091247id_/http%3A//uploadorb.com/privacy.html) for the most accurate reproduction.*
 
 # UploadOrb.com Hosting
 
@@ -23,4 +23,4 @@ UploadOrb.com will not distribute or sell any of your personal information to th
 Cookies  
 There is a technology called "cookies" which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. Some UploadOrb.com pages use cookies so that we can better serve you when you visit and then return to our site. We use cookies to deliver information specific to your interests and to save your password so you don't have to re-enter it each time you visit certain areas of our Web site.
 
-(c) 2010 UploadOrb.com All Rights Reserved. 
+(c) 2010 UploadOrb.com - All Rights Reserved. 
