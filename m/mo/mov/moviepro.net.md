@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviepro.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613163808id_/http%3A//www.moviepro.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviepro.net privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115204433id_/http%3A//www.moviepro.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
