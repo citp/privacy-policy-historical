@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bundle.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619025923id_/http%3A//money.bundle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bundle.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115214918id_/http%3A//money.bundle.com/privacy-policy) for the most accurate reproduction.*
 
 # Bundle: The No. 1 Source for How People Spend and Save Money -- Personal Finance Data, Money Advice, Trends, News and Community
 
