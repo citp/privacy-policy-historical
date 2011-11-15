@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tas.edu.tw privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624204410id_/http%3A//www.tas.edu.tw/page.cfm%3Fp%3D272) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tas.edu.tw privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115161731id_/http%3A//www.tas.edu.tw/page.cfm%3Fp%3D272) for the most accurate reproduction.*
 
 # Taipei American School: Privacy Policy
 
