@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zavers.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603172430id_/http%3A//zavers.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zavers.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115212907id_/https%3A//www.zavers.com/privacy_policy) for the most accurate reproduction.*
 
 # Zavers • Privacy Policy
 
