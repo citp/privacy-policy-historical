@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cablestogo.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512070942id_/http%3A//www.cablestogo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cablestogo.com privacy policy that was archived on 2011-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111115200904id_/http%3A//www.cablestogo.com/privacy.asp) for the most accurate reproduction.*
 
 # Cables To Go - Privacy Statement
 
