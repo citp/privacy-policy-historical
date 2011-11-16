@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmr.qld.gov.au privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624040716id_/http%3A//www.tmr.qld.gov.au/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmr.qld.gov.au privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116190251id_/http%3A//www.tmr.qld.gov.au/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy (Department of Transport and Main Roads)
 
@@ -31,7 +31,7 @@ No attempt will be made to identify users or their browsing activities except in
 
 ### Cookies
 
-The Main Roads website may use cookies to retain preferences during your visit to our website, so they can be used next time you visit the site. Cookies used on this website are non-harmful and do not attempt to identify individual users. 
+The Transport and Main Roads website may use cookies to retain preferences during your visit to our website, so they can be used next time you visit the site. Cookies used on this website are non-harmful and do not attempt to identify individual users. 
 
 ### Your e-mails
 
