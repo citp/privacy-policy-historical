@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the joyofkosher.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606041330id_/http%3A//joyof.kosher.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joyofkosher.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116223041id_/http%3A//www.joyofkosher.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JoyOfKosher
-
-#### _March 21 st 2011By [ joyofkosher1](http://joyof.kosher.com/author/joyofkosher1/)_
 
 **Privacy Policy**
 
