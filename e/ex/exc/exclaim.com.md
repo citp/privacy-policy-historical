@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the exclaim.com privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305021829id_/http%3A//exclaim.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclaim.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116073233id_/http%3A//www.exclaim.com/privacy.php) for the most accurate reproduction.*
 
-# Exclaim Mobility - About Us
-
-## Privacy Policy
+# Snap! :: Home - Privacy Policy
 
 ### 1\. Introduction
 
