@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betaclassifieds.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602015111id_/http%3A//www.betaclassifieds.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betaclassifieds.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116170059id_/http%3A//www.betaclassifieds.com/privacy.php) for the most accurate reproduction.*
 
 # Victoria -VIC, Australia - betaclassifieds.com
 
