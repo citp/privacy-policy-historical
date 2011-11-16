@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postarticles.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105003328id_/http%3A//www.postarticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postarticles.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116144231id_/http%3A//www.postarticles.com/privacy.php) for the most accurate reproduction.*
 
 # Post Articles Directory | Privacy Statement
 
