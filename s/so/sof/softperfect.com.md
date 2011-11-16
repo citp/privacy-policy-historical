@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softperfect.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520150226id_/http%3A//www.softperfect.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softperfect.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116175123id_/http%3A//www.softperfect.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
