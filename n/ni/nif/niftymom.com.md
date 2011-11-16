@@ -1,49 +1,48 @@
-> *The following text is extracted and transformed from the niftymom.com privacy policy that was archived on 2008-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080415191545id_/http%3A//niftymom.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niftymom.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116175830id_/http%3A//niftymom.com/privacy-policy) for the most accurate reproduction.*
 
-# Nifty Mom!
+# Privacy Policy | Nifty Mom
 
-Nifty Mom is dedicated to privacy issues and has established a policy that respects the privacy and security of your personal information. We recognize that we must protect and use customer information responsibly. We will never use your information in ways other than explicitly specified on our website. 
+**What information do we collect?**
 
-If you have any questions or concerns about your privacy or how we use the information we collect, please feel free to contact  [support@niftymom.com](mailto:support@niftymom.com)
+We collect information from you when you register on our site, subscribe to our newsletter or respond to a survey.  
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-Nifty Mom collects personal information in the following ways: 
+**What do we use your information for?**
 
-  * a user registers as a user of our site 
-  * a user submits a comment to one of our articles 
-  * a visitor contacts us via our [contact page](https://web.archive.org/web/20080415191545id_/http%3A//niftymom.com/contact.cfm)
+Any of the information we collect from you may be used in one of the following ways:  
+• To personalize your experience  
+(your information helps us to better respond to your individual needs)  
+• To process transactions
 
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
+• To administer a contest, promotion, survey or other site feature  
+• To send periodic emails
 
-This information, collected and maintained in our secure database, may include name, email addresses and comments or concerns. Nifty Mom may use this information to send you electronic (via email) communications. We will never intentionally publish your personal details on our site. Comments made publicly via the article commenting system will appear on our website for internet users to view. If you would like to have a comment removed, please contact us via our [contact page](https://web.archive.org/web/20080415191545id_/http%3A//niftymom.com/contact.cfm). 
+> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-By using our website, you consent to the collection and use of information as indicated above unless you notify us otherwise. Should we make future changes to this policy, we will post those changes on this page.
+If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.  
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-### Recent Toy, Infant and Child Product Recalls
+**Do we use cookies?**  
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-  * Mon, 14 Apr 2008 15:00:00 GMT
+**Do we disclose any information to outside parties?**  
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Hobby-Lobby Int'l Recalls Battery Chargers Used with Helicopters Due to Fire Hazard**   
-[Detail](https://web.archive.org/web/20080415191545id_/http%3A//niftymom.com/product_recall_detail.cfm?ID=3128)
-  * Thu, 10 Apr 2008 15:30:00 GMT
+**Third party links**  
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**FUNTASTIC Recalls Fake Teeth Due To Violation of Lead Paint Standard**   
-[Detail](https://web.archive.org/web/20080415191545id_/http%3A//niftymom.com/product_recall_detail.cfm?ID=3127)
-  * Thu, 10 Apr 2008 15:30:00 GMT
+**Childrens Online Privacy Protection Act Compliance**  
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-**Michaels Stores Recalls Seasonal Writing Pens Due to Violation of Lead Paint Standard**   
-[Detail](https://web.archive.org/web/20080415191545id_/http%3A//niftymom.com/product_recall_detail.cfm?ID=3126)
-  * Wed, 09 Apr 2008 14:45:00 GMT
+**Online Privacy Policy Only**  
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-**OKK Trading Recalls Toy Robots Due to Violation of Lead Paint Standard**   
-[Detail](https://web.archive.org/web/20080415191545id_/http%3A//niftymom.com/product_recall_detail.cfm?ID=3125)
-  * Tue, 08 Apr 2008 13:00:00 GMT
+**Your Consent**  
+By using our site, you consent to our web site privacy policy.
 
-**Magnetic Dart Boards Recalled By Henry Gordy Int'l; Ingested Magnets Pose Aspiration and Intestinal Hazards**   
-[Detail](https://web.archive.org/web/20080415191545id_/http%3A//niftymom.com/product_recall_detail.cfm?ID=3124)
-  * Tue, 08 Apr 2008 15:00:00 GMT
+**Changes to our Privacy Policy**  
+If we decide to change our privacy policy, we will post those changes on this page.
 
-**Children's Board Book Sets Recalled By Dalmatian Press Due to Choking Hazard**   
-[Detail](https://web.archive.org/web/20080415191545id_/http%3A//niftymom.com/product_recall_detail.cfm?ID=3123)
-  * [[More](https://web.archive.org/web/20080415191545id_/http%3A//niftymom.com/product_recall_all.cfm?start=16)] 
-
-
+http://www.niftymom.com
