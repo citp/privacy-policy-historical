@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cisecurity.org privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517082123id_/http%3A//www.cisecurity.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cisecurity.org privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116013910id_/http%3A//www.cisecurity.org/privacy-policy) for the most accurate reproduction.*
 
 # Center for Internet Security
 
