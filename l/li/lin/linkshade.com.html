@@ -1,0 +1,280 @@
+<!--The following is the downloaded HTML source of the linkshade.com privacy policy that was archived on 2011-11-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111116011306id_/http%3A//www.linkshade.com/Privacy_Policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>LinkShade Directory&nbsp;- Privacy Policy  </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="/templates/Chrome/style/main.css">
+<meta name="keywords" content="privacy policy">
+<meta name="description" content="privacy policy">
+<meta name="author" content="LinkShade Directory,SEO Friendly Link &amp; Article Directory">
+<meta name="copyright" content="Copyright (c) 2010 by Linkshade.com. All rights reserved!">
+<meta name="robots" content="all">
+<meta name="generator" content="PHP Link Directory 4.0.0">
+<!--  
+<script type="text/javascript" src="/libs/moodalbox/js/mootools.js"></script>
+<script type="text/javascript" src="/libs/moodalbox/js/moodalbox.js"></script>
+<link rel="stylesheet" href="/libs/moodalbox/css/moodalbox.css" type="text/css" media="screen" />
+-->
+<!--[if IE]>
+<link rel="stylesheet" href="/templates/Chrome/style/ie.css" type="text/css" media="all" />
+<![endif]-->
+<!--[if IE 8.000]><!-->
+<link rel="stylesheet" href="/templates/Chrome/style/ie8.css" type="text/css" media="all">
+<!--<![endif]-->
+</head>
+<body><script type="text/javascript">
+
+
+function increase_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height<110) {
+      document.getElementById('slide').style.marginTop = eval(height+7)+"px";
+      setTimeout("increase_height()",0.0001);
+   } else {
+      document.getElementById('panel').style.zIndex = 200;
+   }
+}
+
+function decrease_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   document.getElementById('panel').style.zIndex = -1;
+   if (height>0) {
+      document.getElementById('slide').style.marginTop = eval(height-7)+"px";
+      setTimeout("decrease_height()",0.0001);
+   }
+}
+
+function show_panel() {
+  
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height>0) {
+      decrease_height();
+   } else {
+      increase_height();
+   }
+   return false;
+}
+
+function ajaxFunction()
+{
+
+var xmlHttp;
+
+try
+  {
+  // Firefox, Opera 8.0+, Safari
+  xmlHttp=new XMLHttpRequest();
+  }
+catch (e)
+  {
+  // Internet Explorer
+  try
+    {
+    xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+    }
+  catch (e)
+    {
+    try
+      {
+      xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+    catch (e)
+      {
+      alert("Your browser does not support AJAX!");
+      return false;
+      }
+    }
+  }
+  xmlHttp.onreadystatechange=function()
+    {
+    if(xmlHttp.readyState==4)
+      {
+      }
+    }
+   var url = "http://www.linkshade.com/update_session.php";
+
+   xmlHttp.open("POST", url, false);
+   xmlHttp.setRequestHeader( 
+    'Content-Type', 
+    'application/x-www-form-urlencoded; charset=UTF-8' 
+); 
+   xmlHttp.send('url='+window.location);
+  }
+</script>
+
+<div id="wrapperall">
+<div id="panel" style="z-index: -1;">
+<form method="post" action="/login.php" onsubmit="ajaxFunction();">
+<table border="0" align="center" width="40%" style="padding-top: 10px; padding-bottom: 10px; z-index: -1;height: 0px;" id="panel_table">
+<tbody><tr>
+</tr>
+<tr>
+<td>User:</td>
+<td>
+<input type="text" name="user" value="" size="20" maxlength="25" class="text">
+</td>
+<td>Password:</td>
+<td>
+<input type="password" name="pass" value="" size="20" maxlength="25" class="text">
+</td>
+<td><input type="submit" name="submit" value="Login" class="btn"></td>
+</tr>
+<tr>
+<td colspan="5" style="text-align: left;">
+<input type="checkbox" name="rememberMe">&nbsp;&nbsp; Keep me logged in.
+</td>        
+</tr>
+<tr>
+<td colspan="5" style="text-align: right;">
+<a href="/profile.php?mode=register" title="Register">Register</a>
+&nbsp;|&nbsp;
+<a href="/profile.php?mode=sendpassword" title="Recover your password">I forgot my password</a>
+</td>
+</tr>
+</tbody></table>
+</form>
+</div>            	</div>
+<div id="wrapperall">
+<div id="wrapperBg">
+<div id="wrapperBottom">
+<div id="wrapperTop">
+<div id="wrapperLeft">
+<div id="wrapperRight">
+<div id="slide" class="slide" style="z-idex: 100; margin-top: 0px;">
+<div id="search">
+<label>Search: </label>
+<form action="/index.php" method="get" style="float: left; margin: 0px; padding: 0px">
+<div id="inputleft"></div><input type="text" value="" name="search"><div id="inputright"></div>
+<button type="submit"></button>
+</form>
+<a href="/search.php?type=advanced" title="Go to advanced search page" accesskey="4" rel="nofollow">Advanced<br>Search</a>
+<div id="loginsplit"></div>
+<a href="" class="btn-slide" onclick="show_panel(); return false;"><img src="/templates/Chrome/images/login.jpg" alt=""></a>
+<a href="/profile.php?mode=register"><img src="/templates/Chrome/images/register.jpg" alt=""></a>
+</div>
+</div>
+<div id="header">
+<a href="/"><img src="/templates/Chrome/images/logo.gif" alt=""></a>
+</div>
+<script type="text/javascript">
+
+var view1 = 0;
+var view2 = 0;
+
+</script><div id="menu"><ul><li><div class="split"></div></li><li><a href="" onclick="return false;" onmouseover="document.getElementById('bar1').style.display='block';" onmouseout="if(view1==0) document.getElementById('bar1').style.display='none';"><span class="dropdown">Submit</span></a><div id="bar1" style="display: none;" onmouseover="this.style.display='block'; view1++;" onmouseout="this.style.display='none';  view1--;"><a href="/submit.php">»&nbsp;&nbsp;Link</a><br><a href="/submit_article.php" style="border-top: 1px dotted #A4A4A4;">»&nbsp;&nbsp;Article</a></div></li><li><div class="split"></div></li><li><a href="" onclick="return false;" onmouseover="document.getElementById('bar2').style.display='block';" onmouseout="if(view2==0) document.getElementById('bar2').style.display='none';"><span class="dropdown">Latest</span></a><div id="bar2" style="display: none;" onmouseover="this.style.display='block'; view1++;" onmouseout="this.style.display='none';  view1--;"><a href="/latest-links.html">»&nbsp;&nbsp;Latest Links</a><a href="/latest-articles.html" style="border-top: 1px dotted #A4A4A4;">»&nbsp;&nbsp;Latest Articles</a></div></li><li><div class="split"></div></li><li><a href="/top-hits.html" title="Browse most popular links"><span>Top Hits</span></a></li><li><div class="split"></div></li><li><a href="/contact.php">Contact</a></li><li><div class="split"></div></li><li><a href="/rss.php?c=">RSS</a></li><li><div class="split"></div></li></ul></div><div id="content"><div id="sideleft" style="width: 215px;">
+<div class="title">
+<div class="titleLeft"></div>
+<div class="titleBgside">
+<div class="titleIcon1">My Account</div>
+</div>
+<div class="titleRight"></div>
+</div>
+<div style="clear: both;"></div>
+<div class="sidecateg">
+<ul class="boxPopCats">   <li>   <a href="/login.php" title="Log In to your account">Login</a>   </li> 
+<li>     <a href="/profile.php?mode=register" title="Register new user">Register</a> </li> 
+</ul>
+</div>				<div class="title">
+<div class="titleLeft"></div>
+<div class="titleBgside">
+<div class="titleIcon1">Pages</div>
+</div>
+<div class="titleRight"></div>
+</div>
+<div style="clear: both;"></div>
+<div class="sidecateg">
+<ul class="boxPopCats">
+<li>
+<a href="/Privacy_Policy.html" title="Privacy Policy">Privacy Policy</a> 
+</li>
+<li>
+<a href="/Submission_Guidelines.html" title="Submission Guidelines">Submission Guidelines</a> 
+</li>
+</ul>
+</div>				<div class="title">
+<div class="titleLeft"></div>
+<div class="titleBgside">
+<div class="titleIcon1">Statistics</div>
+</div>
+<div class="titleRight"></div>
+</div>
+<div style="clear: both;"></div>
+<div class="sidecateg">
+<ul class="boxStats">
+<li><strong>Active Links:</strong> 5895</li>
+<li><strong>Pending Links:</strong> 35</li>
+<li><strong>Todays Links:</strong> 14</li>
+<li><strong>Active Articles:</strong> 418</li>
+<li><strong>Pending Articles:</strong> 6</li>
+<li><strong>Todays Articles:</strong> 1</li>
+<li><strong>Total Categories:</strong> 13</li>
+<li><strong>Sub Categories:</strong> 688</li>
+</ul>
+
+</div>				<div class="title">
+<div class="titleLeft"></div>
+<div class="titleBgside">
+<div class="titleIcon1">Check This Out!</div>
+</div>
+<div class="titleRight"></div>
+</div>
+<div style="clear: both;"></div>
+<div class="sidecateg">
+<div id="advertising_rotator" align="center">
+<center>
+<p><a href="http://c522fpb939o92xd7jazgnevbw0.hop.clickbank.net/?tid=LINKSHADE" target="_top"><img src="http://i968.photobucket.com/albums/ae163/janomegirl/Clickbank%20Products/DeepLnkPro-180x180.gif" border="0" alt="DeepLnkPro 180x180"></a></p>
+</center>
+</div>
+</div>		</div>
+<div id="main"><div class="path"><a href="/" id="firstPath">LinkShade Directory</a><span>Privacy Policy</span></div><table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc"><div style="float: right; text-align: center; padding-bottom: 15px; padding-left: 15px; padding-right: 13px;"><br><br><br> <a style="color: gray; text-decoration: none; cursor: default;" href="http://www.trust-guard.com/Online-Security-s/97.htm" target="_blank"><br></a></div>
+<div style="font-family: verdana;"><strong>What information do we collect?</strong> <br><br>We  collect information from you when you register on our site, place an  order, subscribe to our newsletter, respond to a survey, fill out a form  or submit a website or article to the directory.  <br><br>When ordering  or registering on our site, as appropriate, you may be asked to enter  your: name or e-mail address. You may, however, visit our site  anonymously.<br><br>Google, as a third party vendor, uses cookies to  serve ads on your site.  Google's use of the DART cookie enables it to  serve ads to your users based on their visit to your sites and other  sites on the Internet.  Users may opt out of the use of the DART cookie  by visiting the Google ad and content network privacy policy..<br><br><strong>What do we use your information for?</strong> <br><br>Any of the information we collect from you may be used in one of the following ways: <br><br>• To personalize your experience<br>(your information helps us to better respond to your individual needs)<br><br>• To improve our website<br>(we continually strive to improve our website offerings based on the information and feedback we receive from you)<br><br>• To improve customer service<br>(your information helps us to more effectively respond to your customer service requests and support needs)<br><br>• To process transactions<br>
+<blockquote>Your information, whether public or private, will not be  sold, exchanged, transferred, or given to any other company for any  reason whatsoever, without your consent, other than for the express  purpose of delivering the purchased product or service requested.</blockquote>
+<br>• To send periodic emails<br>
+<blockquote>The email address you provide for order processing, may be  used to send you information and updates pertaining to your order, in  addition to receiving occasional company news, updates, related product  or service information, etc.</blockquote>
+<br><br>Note: If at any time you would like to unsubscribe from  receiving future emails, you can opt out of receiving our newsletter by  clicking the "unsubscribe" link at the bottom of the newsletter email.   If you no longer wish to receive ANY emails relating to websites or  articles that you have submitted to our directory, your submissions must  be removed from our directory and your account closed. If you wish to  remove your submissions and close your account, please send an email to  admin@dc-studioweb.com.  You must state clearly which website and  article submission you want us to remove (or state that "ALL submissions  are to be removed"). If you want your account closed you must state  this clearly.  Upon receiving your email we will immediately remove the  submissions you specify and close your account. PLEASE NOTE: submissions  that have been removed CANNOT be reactivated - they are deleted from  the system. If you wish, you could register and re-submit, and then your  submissions would go through the normal approval process again before  they would become active.  You also have the option to request that your  submission(s) be set to "inactive" (for example, if you are working on a  website and do not wish it to show up in the directory until the work  is complete). Please email admin@dc-studioweb.com and let us know which  submission(s) you wish to deactivate.  We will set them to "inactive"  until you send another email to request that they be reset to "active"..<br><br><br><br><strong>How do we protect your information?</strong> <br><br>We implement a variety of security measures to maintain the safety of your personal information when you place an order<br><br><strong>Do we use cookies?</strong> <br><br>Yes  (Cookies are small files that a site or its service provider transfers  to your computers hard drive through your Web browser (if you allow)  that enables the sites or service providers systems to recognize your  browser and capture and remember certain information<br><br> We use  cookies to help us remember and process the items in your shopping cart,  understand and save your preferences for future visits, keep track of  advertisements and compile aggregate data about site traffic and site  interaction so that we can offer better site experiences and tools in  the future. We may contract with third-party service providers to assist  us in better understanding our site visitors. These service providers  are not permitted to use the information collected on our behalf except  to help us conduct and improve our business.<br><br>If you prefer, you  can choose to have your computer warn you each time a cookie is being  sent, or you can choose to turn off all cookies via your browser  settings. Like most websites, if you turn your cookies off, some of our  services may not function properly. However, you can still place orders  by contacting customer service.<br><br><strong>Do we disclose any information to outside parties?</strong> <br><br>We  do not sell, trade, or otherwise transfer to outside parties your  personally identifiable information. This does not include trusted third  parties who assist us in operating our website, conducting our  business, or servicing you, so long as those parties agree to keep this  information confidential. We may also release your information when we  believe release is appropriate to comply with the law, enforce our site  policies, or protect ours or others rights, property, or safety.  However, non-personally identifiable visitor information may be provided  to other parties for marketing, advertising, or other uses.<br><br><strong>Third party links</strong> <br><br> Occasionally, at our discretion, we may include or offer third party  products or services on our website. These third party sites have  separate and independent privacy policies. We therefore have no  responsibility or liability for the content and activities of these  linked sites. Nonetheless, we seek to protect the integrity of our site  and welcome any feedback about these sites.<br><br><strong>California Online Privacy Protection Act Compliance</strong><br><br>Because  we value your privacy we have taken the necessary precautions to be in  compliance with the California Online Privacy Protection Act. We  therefore will not distribute your personal information to outside  parties without your consent.<br><br>As part of the California Online  Privacy Protection Act, all users of our site may make any changes to  their information at anytime by logging into their control panel and  going to the 'Edit Profile' page.<br><br><strong>Childrens Online Privacy Protection Act Compliance</strong> <br><br>We  are in compliance with the requirements of COPPA (Childrens Online  Privacy Protection Act), we do not collect any information from anyone  under 13 years of age. Our website, products and services are all  directed to people who are at least 13 years old or older.<br><br><strong>Submission Guidelines Disclaimer</strong><br><br>The  submission guidelines for this site clearly state the type of content  that will not be approved for inclusion on this site. You can view that  information by looking at the submission guidelines.  All submissions  are human-reviewed. However, we cannot and do not guarantee that content  which fails to meet our submission guidelines will never show up on the  site. It is not possible to review every page of every website  submitted to the directory, nor can we control the changes to website  content that may be made after they have been approved for this  directory. If you come across any submissions that you consider to be in  contravention of our submissions guidelines, please inform us by  emailing the details to admin[AT]linkshade.com. We appreciate your  assistance in maintaining a high standard for the content of this  directory.<br><br><strong>Online Privacy Policy Only</strong> <br><br>This online privacy policy applies only to information collected through our website and not to information collected offline.<br><br><strong>Your Consent</strong> <br><br>By using our site, you consent to our <a style="text-decoration: none; color: black; cursor: default;" href="http://www.freeprivacypolicy.com/" target="_blank">web site privacy policy</a>.<br><br><strong>Changes to our Privacy Policy</strong> <br><br>If we decide to change our privacy policy, we will post those changes on this page. <br><br><strong>Contacting Us</strong> <br><br>If there are any questions regarding this privacy policy you may contact us using the information below. <br><br>http://www.linkshade.com/contact.php<br>admin[AT]linkshade.com<br>
+<div style="font-size: 7pt; font-family: Arial; color: gray; text-decoration: none;">Privacy Policy Created by <a style="color: gray; text-decoration: none; cursor: default;" href="http://www.dc-studioweb.com/admin/undefined" target="_blank">Free Privacy Policy</a></div>
+</div></td></tr><tr><td></td></tr></tbody></table>
+<div style="clear: both"></div></div><div id="sideright" style="width: 215px;">
+<div class="title">
+<div class="titleLeft"></div>
+<div class="titleBgside">
+<div class="titleIcon1">Latest links</div>
+</div>
+<div class="titleRight"></div>
+</div>
+<div style="clear: both;"></div>
+<div class="sidecateg">
+<ul class="boxPopCats">
+<li>
+<a href="                                            /detail/t-shirt-store-76287.htm" title="Read more about: T-Shirt Store">T-Shirt Store</a>
+</li>
+<li>
+<a href="                                            /detail/find-flat-in-tel-aviv-israel-76286.htm" title="Read more about: Find flat in Tel Aviv, Israel">Find flat in Tel Aviv, Israel</a>
+</li>
+<li>
+<a href="                                            /detail/host-76285.htm" title="Read more about: host">host</a>
+</li>
+<li>
+<a href="                                            /detail/hcg-drops-76284.htm" title="Read more about: hcg drops">hcg drops</a>
+</li>
+<li>
+<a href="                                            /detail/phlebotomy-certification-76283.htm" title="Read more about: phlebotomy certification">phlebotomy certification</a>
+</li>
+</ul>
+</div>				<div class="title">
+<div class="titleLeft"></div>
+<div class="titleBgside">
+<div class="titleIcon1">Check This Out!</div>
+</div>
+<div class="titleRight"></div>
+</div>
+<div style="clear: both;"></div>
+<div class="sidecateg">
+<div id="advertising_rotator" align="center">
+<center>
+<p><a href="http://c522fpb939o92xd7jazgnevbw0.hop.clickbank.net/?tid=LINKSHADE" target="_top"><img src="http://i968.photobucket.com/albums/ae163/janomegirl/Clickbank%20Products/DeepLnkPro-180x180.gif" border="0" alt="DeepLnkPro 180x180"></a></p>
+</center>
+</div>
+</div>		</div>
+</div><div id="footer" style="margin-top: 20px;"><div id="footercontent"><a href="http://www.phplinkdirectory.com" title="PHP Link Directory">PHP Link Directory</a></div></div></div></div></div></div></div>&nbsp;</div></body></html>
