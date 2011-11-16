@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lxcenter.org privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519004129id_/http%3A//lxcenter.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lxcenter.org privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116045321id_/http%3A//lxcenter.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LxCenter
 
