@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latest-price.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518142851id_/http%3A//www.latest-price.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latest-price.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116093930id_/http%3A//www.latest-price.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
