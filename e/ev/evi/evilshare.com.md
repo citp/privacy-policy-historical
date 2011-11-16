@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evilshare.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520154621id_/http%3A//evilshare.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evilshare.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116192353id_/http%3A//evilshare.com/privacy.html) for the most accurate reproduction.*
 
 # EvilShare Privacy Policy
 
