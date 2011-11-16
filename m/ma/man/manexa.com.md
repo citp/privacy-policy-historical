@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manexa.com privacy policy that was archived on 2011-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110210203326id_/http%3A//www.inreachce.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manexa.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116184752id_/http%3A//www.inreachce.com/privacy) for the most accurate reproduction.*
 
 # InReach Privacy Statement | CE Online and In Reach
 
