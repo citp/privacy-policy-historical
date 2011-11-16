@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the givology.org privacy policy that was archived on 2010-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100625121838id_/http%3A//www.givology.org/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givology.org privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116062813id_/http%3A//www.givology.org/policy) for the most accurate reproduction.*
 
 # 
 
