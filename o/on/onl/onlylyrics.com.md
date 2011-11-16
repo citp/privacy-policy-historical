@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlylyrics.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617052018id_/http%3A//www.onlylyrics.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlylyrics.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116101051id_/http%3A//www.onlylyrics.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,5 +13,5 @@ We partner with ValueClick to serve ads and/or collect certain information when 
 **External Links**   
 This site contains links to other sites. OnlyLyrics.com is not responsible for the privacy practices or the content of such Web sites.
 
-**Contacting the Web Site**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20110617052018id_/http%3A//www.onlylyrics.com/contact.php)
+ **Contacting the Web Site**   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20111116101051id_/http%3A//www.onlylyrics.com/contact.php)
