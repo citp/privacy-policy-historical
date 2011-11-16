@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seolinksubmission.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518100056id_/http%3A//www.seolinksubmission.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seolinksubmission.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116013133id_/http%3A//www.seolinksubmission.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Free Classifieds Directories,Submit Link Directory,Post Free Classified Ads,Add Your Web Site,Free Local Classified Advertising,Web Classified
 
