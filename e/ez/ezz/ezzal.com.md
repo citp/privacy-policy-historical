@@ -1,38 +1,39 @@
-> *The following text is extracted and transformed from the ezzal.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515131654id_/http%3A//www.ezzal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezzal.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116031457id_/http%3A//www.ezzal.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Play Free Games At Ezzal - Free Games Online
+# Privacy Policy
 
-### Privacy Policy For www.ezzal.com
+Ezzal is committed to providing an entertaining, fun and educational service. Ezzal.com is a property of Ezzal "Ezzal". Ezzal respects the privacy concerns of visitors to Ezzal.com. Ezzal does not target its website or services to under 13 year olds, but does take measures to help protect those that happen to be under 13. We take measures to help children protect their privacy while online. For example, we do not ask children to disclose more personal information than is necessary for them to participate in a particular activity. 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@ezzal.com At www.ezzal.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.ezzal.com and how it is used.
+## Information we collect
 
-### Log Files
+We may log IP addresses and/or drop cookies and/or flash cookies to prevent abuse of our website and or to provide and or to enhance services. Email addresses of persons under 13 are not stored. They are encrypted into an unrecoverable format using a one way hash. Of those users who choose to register we collect date of birth, username, password and email address of users 13 years and older. For registered users non personal information may be collected related to use of the website and website services and activities such as high scores, game rankings, league rankings, game challenges, avatars, etc. 
 
-Like most standard Web site servers, www.ezzal.com use log files. This includes internet protocol ( IP ) addresses, browser type, internet service provider ( ISP ),referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+## Information that is reasonably necessary
 
-### Advertising Cookies
+Ezzal does not require persons under 13 years of age to disclose any more information than is reasonably necessary to participate in the activity as a condition of participation. 
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/) or <http://www.valueclickmedia.com/webuser_privacy.shtml>
+## How we use the information
 
-### Guests
+We do not retain any personal information beyond the time it is needed. We may use information to ensure that users are in compliance with our terms. Persons over 13 years of age authorize us to send them email notifications related to Ezzal products and services including the Ezzal Newsletter. Ezzal may disclose information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with Ezzal's property, visitors, or anyone else that could be harmed by such activities. 
 
-We will never collect sensitive information about you without your explicit consent..However, our web server logs some visitor information and we use this for statistical purposes.
+We may sometimes use non-personally identifiable information that we collect to improve the design and content of our website, to personalize our visitors' experience or to offer products, programs and services. We may also use this information in the aggregate to analyze website usage, as well as to offer products, programs, or services. 
 
-### Members & Subscribers
+## Collection of Information and Third-Parties and Sponsors
 
-Your profile information will be available to anyone who chooses to view it. Do not put sensitive personal information in your profile.We will not share your e-mail address or any sensitive information about you with anyone. It will be used to send you site news and newsletters. You may opt-out of these at any time once you’ve logged into the site.
+We do not disclose personally identifiable information of users under 13 years of age to third parties. We use DoubleClick and other third-party advertising companies to serve ads when you visit our website. These companies and Ezzal may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on this website and other websites about goods and services that may be of interest to you. Third parties and or Ezzal may be placing and reading standard and or flash cookies on your browser and machine, or using web beacons to collect information on the website and in the course of ads being served. We may also share the anonymous information that we collect from you with our business partners or clients so that they may improve their services. Third parties such as advertisers, games companies and or developers may ask for information from you which would be governed by the privacy policy of those other companies in which case they should provide adequate disclosure of their privacy policies to you. We may use anonymous information that we collect from you to improve our services and or to help serve advertising to you. You may manage or opt out of your flash cookies here. You may manage or opt out of your standard cookies via your web browser and if you would like more information about this practice and to know your choices about not having this information used by these companies, please click here 
 
-### The Games / Other Media
+## Security
 
-To minimise the risk of infringement on any copyright of the games, we have taken a number of measures. Through this page we want to inform our users, or everyone having an interest in this.
+We have implemented appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
 
-  1. We requested and obtained permission for a number of the games from the copyright holders known to us.
-  2. Many of the games may be included on any Internet site without any (prerequisite) constraints. For some we could not find any copyright information or due to general use on the Internet, this information can no longer be obtained.
-  3. Some games may be used under special conditions, considering a number of prerequisite constraints. These prerequisite constraints are, as far as we could determine, met by ezzal.com.
-  4. We do not change anything in the source code of the games. For example, credit holders, brand names, or references to websites remain unchanged.
+## Parental Review
 
+Parents, if you would like to review your child's personal information, ask to have it deleted, and refuse to allow any further collection or use of the child's information then please send a letter to our Privacy Manager at Ezzal (admin@ezzal.com). Please be sure to include your email address and a telephone number where we can reach you. Our phone number is 0094 77 917 46 26. To protect your child's privacy and security, we will take reasonable steps to help verify your identity before granting you access to the personal information that we collect and maintain about your child. 
 
+## Changes to this Privacy Policy
 
-The legislation around Internet developments and applications is still in full swing, and whatever is/is not allowed is not always obvious and there is room for subjective interpretations. It is therefore possible that, despite our careful and genuine intentions, a copyright holder may still feel that his/her interests are damaged. In such case, we request that you contact us. This can be done via an e-mail to the editors.
+This Privacy Policy is part of Ezzal’s main Terms and Conditions which you agree to by accessing the Ezzal.com website and/or services. You agree that Ezzal may change this Privacy Policy and the main Ezzal Terms and Conditions at any time. 
 
-If your objection is reasonable i.e. comprehensible, the relevant game will immediately be removed from ezzal.com. Our experience has indicated that this approach works very well.
+## Internet Safety
+
+Internet is a strange place! Ezzal recommends that Parents take time to communicate and educate their children about Internet Safety.
