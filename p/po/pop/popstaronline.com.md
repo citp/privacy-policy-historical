@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popstaronline.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217045214id_/http%3A//www.popstaronline.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popstaronline.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116073454id_/http%3A//www.popstaronline.com/privacypolicy) for the most accurate reproduction.*
 
 # Popstar! Online
 
