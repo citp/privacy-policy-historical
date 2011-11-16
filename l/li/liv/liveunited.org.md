@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveunited.org privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620185725id_/http%3A//liveunited.org/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveunited.org privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117002636id_/http%3A//liveunited.org/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | United Way
 
