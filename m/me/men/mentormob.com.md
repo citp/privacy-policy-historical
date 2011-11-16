@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mentormob.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518115927id_/http%3A//www.mentormob.com/index.php/splash/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mentormob.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116030027id_/http%3A//www.mentormob.com/index.php/splash/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MentorMob
+
+## Privacy Policy
 
 At MentorMob, we are keenly aware of the trust you place in us and our responsibility to protect your privacy. As part of this responsibility, we let you know what information we collect when you use our products and services, why we collect it and how we use it to improve your experience. By visiting the MentorMob website, you are accepting the practices outlined in this Privacy Policy.
 
