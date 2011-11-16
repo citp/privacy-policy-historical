@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the danscomp.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521092100id_/http%3A//www.danscomp.com/serve.php%3Fserve%3Dtext%26html%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danscomp.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116055545id_/http%3A//www.danscomp.com/serve/text/privacy.htm) for the most accurate reproduction.*
 
-# DAN'S COMP - Bmx Bikes, Bmx Parts, Bmx Clothing, Bmx Shoes and Bmx Accessories!
+# Help Privacy at Danscomp
 
   | 
 
