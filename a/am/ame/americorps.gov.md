@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americorps.gov privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515221544id_/http%3A//www.americorps.gov/home/security_and_privacy_policy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americorps.gov privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116021125id_/http%3A//www.americorps.gov/home/security_and_privacy_policy/index.asp) for the most accurate reproduction.*
 
 # NationalService.gov > Security and Privacy Policy
 
