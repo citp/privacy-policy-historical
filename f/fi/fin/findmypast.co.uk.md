@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the findmypast.co.uk privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518025656id_/http%3A//www.findmypast.co.uk/content/using-the-site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmypast.co.uk privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116115736id_/http%3A//www.findmypast.co.uk/content/using-the-site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Findmypast.co.uk
+
+## Privacy Policy
 
 This Privacy Policy explains how we use information that you provide us with when you use the website and how we make sure it is stored and managed safely and legally.
 
@@ -37,7 +39,7 @@ This Privacy Policy is part of the [Terms & Conditions of using this website](ht
 
 **Information stored in your family tree** : Information stored in your family tree will, in almost all cases, include personal information about other people that are still alive. As with all information in your family tree, your information may be searchable by findmypast users (together with users of other websites) and may appear on internet searches, but all of the information will not be viewable unless you explicitly give them permission to view your tree. You should always seek permission from people who are living before you make their personal information available in your tree, or anywhere else online. We have provided you with privacy controls to manage your family tree and control who can see the information in it. You should familiarise yourself with how they work as you're responsible for using them to protect the information you have provided.
 
-**Emails we send you** : We try only to send you emails which are relevant and help you with your family history or tell you important things about the website. There are some emails which we send you only if we have your permission (marketing emails). There are some emails which we send you even if we don't have your permission (service emails) – we send these to administer the service. Each is explained below.
+**Emails we send you** : We try only to send you emails which are relevant and help you with your family history or tell you important things about the website. There are some emails which we send you only if we have your permission (marketing emails). There are some emails which we send you even if we don't have your permission (service emails) - we send these to administer the service. Each is explained below.
 
 **Marketing emails** : These emails include our regular newsletter, emails which help you with your family history, special offers and market research emails. They also include product updates: announcements of new features or historical records on the website. Very occasionally, we might tell you about a service offered by another company within our group, or even outside it, but this is rare. We make it very easy to stop receiving these emails. 
 
@@ -57,10 +59,8 @@ This Privacy Policy is part of the [Terms & Conditions of using this website](ht
 
 **If we change hands** : If findmypast's business transfers to anyone else, you agree that we can pass your information to that person, so they can continue to provide you with the service. 
 
-**Changes to this policy** : We might make changes to this policy from time to time – check back here to stay up to date. If we make a major change to it, we'll send you a service email describing the change and what it means for you.
+**Changes to this policy** : We might make changes to this policy from time to time - check back here to stay up to date. If we make a major change to it, we'll send you a service email describing the change and what it means for you.
 
 **Contact us** : We hope that's clear. If it isn't or you have another question that isn't covered, [please contact us](https://web.archive.org/content/using-the-site/contact-us).
 
 Last updated: 5 April 2011 
-
-top
