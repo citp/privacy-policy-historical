@@ -1,65 +1,88 @@
-> *The following text is extracted and transformed from the startups.com privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311180446id_/http%3A//startups.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startups.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117005232id_/http%3A//startups.com/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Startups.com
+# Startups.com | Privacy Policy
 
-## Summary
+## Privacy Policy
 
-If you only read the Startups.com website, no information out of the ordinary is collected about you than that which is already collected by other websites.
+Startups Network LLP (“Startups” or “we”, “our” or “us”), operates www.startups.com website (the “Site”), through which Startups offers a service which connects buyers of services and goods (“Buyers” “you” or “User”) with sellers of services and goods (“Merchants”). This Startups privacy policy (the "Privacy Policy") is intended to inform the User of our policies and practices regarding the collection, use and disclosure of any information you submit to us through www.startups.com.  
 
-If you contribute to the Startups.com site, you are making every word you write public. If you write something, assume that it will be kept forever. This includes questions, answers, and comments. Some limited exceptions are described below.
+**Section 1. User Consent**
 
-## Publishing on Startups.com and public data
+ **1.1.** The User of Startups agrees to the terms and conditions of this Privacy Policy, which is incorporated into and forms a part of the Startups Terms and Conditions of Service.  
+ ****
 
-Using the web site does not expose your identity publicly (see private logging below) unless you identify yourself by name or other identifying information, like an email address.
+**1.2.** The User expressly consents to the processing of the User´s Personal Information according to this Privacy Policy.
 
-## Identification of an author
+ **Section 2. Children**
 
-When you publish a question, answer, or comment in the site, you may be logged in or not.
+Children under the age of 13 are not permitted to use Startups and Startups does not intentionally collect or maintain Personal Information from those who are under 13 years old. Protecting the privacy of children is very important to us. Thus, if we obtain actual knowledge that a user is under 13, we will take steps to remove that User's Personal Information permanently from our databases. We recommend that children between the ages of 13 and 18 obtain their parent’s permission before submitting information over the internet. By using Startups, you are representing that you are at least 18 years old, or that you are at least 13 years old and have a parent’s or guardian’s permission to use Startups.
 
-If you are logged in, you will be identified by your user name. This may be your real name if you so choose or you may choose to publish under a pseudonym, whatever user name you selected when you created your account. By default this is "unknown (Provider)" where "Provider" would be your OpenID provider, such as Google.
+**Section 3. Use of Your Private Information**
 
-If you have not logged in, you will not be identified unless you ask or answer a question. In that case, you will only be identified publicly by the pseudonym you choose to use, and a "Gravatar" image that is tied to your supplied email address if you have chosen to set that up. However, you may also be traceable by your IP address. Depending on your connection, this number may be traceable only to a large internet service provider, or specifically to your school, place of business, or home. It may be possible that the origin of this IP address could be used in conjunction with any interests you express implicitly or explicitly by contributing to identify you even by private individuals. The site lots your IP address and it is visible to administrators, moderators, developers, and anyone with private access to the Startups.com database.
+ **3.1.** Email Address. The User shall provide a valid email address when the User signs up for Startups mailing lists, a Startups account, or other service or promotion that requires registration. Startups will only use this email address to contact the User as part of the transaction process, to send the User periodic emails that the User have subscribed to, or for purposes that are intended to enhance the User´s experience. We may also occasionally contact the User to obtain feedback on a specific merchant deal in which the User have participated. We will not share the User´s contact information with third parties, except as provided in Section 6. Startups will generally ask the User to indicate whether or not the User wants to receive certain types of email communication from us, and we will adhere to the User´s  preferences unless we consider a particular communication to be absolutely necessary. Emails will generally contain a link at the bottom to be removed from our mailing list.   
+****
 
-## Cookies
+**3.2.** Name. When purchasing a Promo Code, the User may be required to provide the full name of the person who will use it, whether that will be the User or the person to whom the User plans to transfer the Promo Code. We will only share this name with the merchant listed on that Promo Code. Your full name may be used by the merchant for the purposes of verifying that the Promo Code is valid. We will also collect the User´s full name during the checkout process to verify the User´s credit card payment information. When signing up for our mailing lists, a Startups account, or other services or promotions that require registration, the User may also be asked to provide the User´s name at that time so that we can personalize all communications the User receives from us.   
+****
 
-The site will set a temporary session cookie whenever you visit the site. You may deny this cookie, but your pseudonym from one question to another can't be tracked without it.
+**3.3.** Financial Information. For certain services, such as our merchant deals, we also request credit card or other payment account information which are maintained by our payment processor in encrypted form on secure servers. We do not share this information with any third party except the companies responsible for processing our credit card transactions.
 
-More cookies may be set when you log in, to associate your OpenID with your Startups.com account. You may clear these cookies after use if you are using a public machine and don't wish to expose your username to future users of the machine. (If so, clear the browser cache as well.)
+ **3.4.** Demographic Information. Startups will occasionally collect demographic data, such as zip code, gender, and occupation. The provision of this information is optional but helps us bring you better deals. We use this data to help determine which deals our users would most appreciate. We may also share this data with third parties, such as merchants featured on our site; however, no third party will be able to trace your personal demographic information back to you unless you have separately given your permission to do so. 
 
-## Passwords
+**3.5.** Information Collected from Third Parties. We may combine information you submit under your account with information from other Startups services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we will give you the opportunity to opt out of combining such information.
 
-Thanks to the OpenID technology, the Startups.com site does not store your password.
+ **Section 4. The Ability of Others to View Your Information**
 
-## Private logging
+ **4.1.** Startups is mainly focused on helping you to protect your information. It is up to you to make sure you are comfortable with the information you choose to provide us and the information you choose to publish. You understand that when you use Startups, certain information you post or provide through Startups, such as your name, profile, comments, collections and reviews, may be shared with other users and posted on publicly available portions of Startups, including without limitation, social media applications and other public fora in which you choose to participate.
 
-Every time you visit a web page, you send a lot of information to the web server. Most web servers routinely maintain access logs with a portion of this information, which can be used to get an overall picture of what pages are popular, what other sites link to this one, and what web browsers people are using. It is not the intention of the Startups.com site to use this information to keep track of legitimate users. However, Startups.com is hosted by a company called [Fog Creek Software](http://www.fogcreek.com/). Ultimately they run the servers and you should visit their site and read their privacy policy for more information.
+ **4.2.** If you choose to disclose Personal Information when posting comments or other information or content through Startups, this information may become publicly available and may be collected and used by others, including people outside the Startups community. We will not have any obligations with respect to any information that you post to parts of Startups available to others, and recommend that you use caution when giving out Personal Information to others through social media networks or otherwise.
 
-Startups.com uses a service called Google Analytics to track aggregate usage of the site. This is performed by placing a small javascript program in the bottom of each page which instructs your browser to send a small amount of information to the Google Analytics service each time a page is loaded. You can turn it off by disabling javascript or blocking Google.com/Analytics.
+ **Section 5. Cookies, GIF Images and Unique URLs**
 
-## Sharing information with 3rd parties
+ **5.1.** Cookies. Startups makes use of browser “cookies.” Cookies are small text files placed on your computer’s hard disk by our server. They allow us to quickly check your status as a subscriber and facilitate access to your preferences. Startups does not use cookies to retrieve or track information that is unrelated to the Site or services.
 
-Except where otherwise specified, all text contributed to the Startups.com site is available for reuse under the terms of the CC-BY-SA License.
+**5.2.** GIF Images. Startups may also use transparent GIF images in emails we send to you. We use these images to track the viewership of emails we send.
 
-Startups.com Network, Inc. will not sell or share private information, such as email addresses, with third parties, unless you agree to release this information, or it is required by law to release the information.
+**5.3.** Unique URLs. Startups may also create unique links in emails that enable us to track on which emails you click. 
 
-## Security of information
+**Section 6. Use and Disclosure of Information**
 
-Startups.com Network, Inc. makes no guarantee against unauthorized access to any information you provide. This information will be available to all developers with access to the servers, and those developers do not work directly for us.
+ **6.1.** Except as otherwise stated in this Privacy Policy, we do not sell, trade, rent, or otherwise share for marketing purposes the Personal Information that we collect with third parties, unless you ask or authorize us to do so.
 
-## User data
+ **6.2.** In general, Personal Information you submit to us is used by us to provide you access to Startups, to improve Startups, to better tailor the features, performance, and support of Startups and to offer you additional information, opportunities, promotions and functionality from us, our partners or our advertisers at your request. Additionally, we do share your content preferences and other information with the social network with which you have connected to Startups, along with those companies and persons you have asked us to share your information with.
 
-Data on users, such as the times at which they edited and the number of edits they have made are publicly available through the site along with the contributions themselves, and occasionally in aggregated forms.
+ **6.3.** We may provide Personal Information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing Personal Information on our behalf.
 
-The IP address of a user is available to moderators and administrators of the site. We use this information to detect if one user is misusing the system by logging in under multiple accounts from the same computer.
+ **6.4.** We reserve the right to transfer or assign the Personal Information we have collected from you in the event Startups is acquired by, or mergers into, a third party and/or an affiliate or subsidiary of Startups, or in the event we undergo any other form of reorganization. In certain limited circumstances, our business partners may have a contractual right to obtain a copy of your contact information and to contact you if Startups is unable to fulfill our contractual obligations to those parties.
 
-## Removal of accounts
+ **6.5.** We may share your Personal Information when we believe in good faith that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms and Conditions of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of Startups, its users or the public as required or permitted by law.
 
-User accounts can be suspended (for misuse) by a moderator or deleted completely.
+**Section 7. Updating and Correcting Information**
 
-## Deletion of content
+ **7.1.** The User may change any of the User´s  Personal Information by logging into the User´s account or sending us an email at www.startups.com/contact. Please indicate your name, address and email address, and what information you would like to update when you contact us.
 
-Deleting text from Startups.com does not necessarily delete it. Anyone can look at a previous version and see what was there. If a question is "deleted", any administrator or moderator, meaning almost anyone trusted not to abuse the deletion capability, can see what was deleted. Even in the case of an accidental deletion, there are backups.
+The User should promptly update the User´s Personal Information if it changes. The User may ask to have the information on the User´s account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on the Website. Please keep in mind that as we periodically backup information, in certain occasions, it may be impossible for us to completely delete all of the User´s information.
 
-This privacy policy was based on the [Wikipedia Privacy Policy](http://simple.wikipedia.org/wiki/Wikipedia:Privacy_policy), and the [Moms4Mom Privacy Policy](http://moms4mom.com/privacy) which are available under the [CC-BY-SA license](http://creativecommons.org/licenses/by-sa/3.0/), and therefore so is the text of this privacy policy.
+ **7.2.** If you choose to store credit card information on the site, this is stored on a secure page and you may delete your credit card information at any time by logging into your account.
 
-Startups.com Network, Inc.
+**Section 8. Third Party Sites and Advertising**
+
+ **8.1.** Startups may contain links to other websites. Please be aware that Startups is not responsible for the privacy practices or the content of such other websites. The Users should read the privacy statements of each and every website the User visits.
+
+ **8.2.** This Privacy Policy applies solely to information collected by us through Startups and does not apply to these third-party websites. The ability to access information of third-parties from Startups, or links to other websites or locations, is for your convenience and does not signify our endorsement of such third-parties, their products, their services, other websites, locations or their content.
+
+**Section 9. Security**
+
+ **9.1.** As Startups is focused on protecting the security of your Personal Information, Startups use a variety of industry-standard security technologies and procedures to help protect the User´s Personal Information from unauthorized access, use, or disclosure.
+
+ **9.2.** Even though Startups has taken significant steps to protect the User´s Personal Information, no company, including us, can fully eliminate security risks associated with Personal Information.
+
+ **Section 10. Assignment**
+
+Startups may at any time transfer or assign this Agreement in the event Startups is acquired by, or mergers into, a third party and/or an affiliate or subsidiary of Startups, or in the event Startups undergo any other form of reorganization.
+
+**Section 11. Contacting Us**
+
+If you have questions or concerns about our Privacy Policy, please contact us at: [help.startups.com](http://help.startups.com/)
+
+This Privacy Policy is subject to occasional revision at our discretion, and if we make any substantial changes in the way we use your Personal Information, we will post an alert on this. Startups shall not be liable for any modification and/or amendment made to this Privacy Policy. If you object to any such changes, you must cease using Startups. Continued use of Startups following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
