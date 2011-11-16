@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americaslibrary.gov privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607011125id_/http%3A//www.americaslibrary.gov/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americaslibrary.gov privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116134527id_/http%3A//www.americaslibrary.gov/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
