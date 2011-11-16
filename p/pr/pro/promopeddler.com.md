@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the promopeddler.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217142748id_/http%3A//www.promopeddler.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promopeddler.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116154044id_/http%3A//www.promopeddler.com/company/privacy) for the most accurate reproduction.*
 
-# Privacy - Promopeddler.com Branding Done Right!
+# Promopeddler.com
 
-Dear Valued Customer,
+| 
+
+## Privacy Notice
+
+### Dear Valued Customer,
 
 Promopeddler.com understands, respects and shares your concerns about privacy. We will not sell, rent or loan your information to third parties.
 
@@ -25,6 +29,10 @@ If you have any comments or questions, please contact us at 'sales at promopeddl
 Your business is important to us. We will not do anything to jeopardize the trust you have placed in us. We appreciate your business. We look forward to helping you with all of your Promotional Product needs.
 
 Sincerely,  
-Monte Baumgartner  
-President and Co-founder  
-Promopeddler.com
+
+
+### Don McBride  
+General Manager  
+Promopeddler.com  
+  
+---|---
