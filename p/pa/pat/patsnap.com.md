@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the patsnap.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103121759id_/http%3A//www.patsnap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patsnap.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116015645id_/http%3A//www.patsnap.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Patsanp
+# Privacy Policy - Patsnap
 
 PatSnap (“PatSnap”) operates patsnap.com. It is PatSnap's policy to respect your privacy regarding any information we may collect while operating our websites.
 
@@ -26,4 +26,4 @@ A cookie is a string of information that a website stores on a visitor’s compu
 
 ## Privacy Policy Changes
 
-Although most changes are likely to be minor, PatSnap may change its Privacy Policy from time to time, and in PatSnap’s sole discretion. PatSnap encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change. 
+Although most changes are likely to be minor, PatSnap may change its Privacy Policy from time to time, and in PatSnap’s sole discretion. PatSnap encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
