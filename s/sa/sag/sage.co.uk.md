@@ -1,122 +1,101 @@
-> *The following text is extracted and transformed from the sage.co.uk privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529130307id_/http%3A//www.sage.co.uk/footlinks/privacy%2520policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sage.co.uk privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117004702id_/http%3A//www.sage.co.uk/generic-pages-temporary/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
-Privacy & Cookie Policy
+##  Sage Privacy Policy 
 
-**1.  About this policy**
+This is the privacy policy for Sage (UK) Limited ("we" or "us" or "our"), please read it carefully because it explains how we collect and use information about you in the scenarios that are described in paragraph 2 below. By taking any of the actions referred to in paragraph 2 below, you agree that we may collect and use your information in the ways described in this privacy policy. 
 
-This is the privacy policy of Sage (UK) Limited (“Sage”). It applies only to personal data as defined in s.1 of the 1998 Data Protection Act (“personal information” or “information”) and not other types of business or general information. The policy tells you who we are, how we collect personal information about you through this website, what we intend to use that information for, with whom we intend to share it, how we keep it secure, and how we transfer your information outside the European Economic Area (‘EEA’).
+**1\. Who we are**
 
-Please read the policy carefully. By accessing or using this web site you are deemed to agree to the terms of this privacy policy, and if you do not agree with it, then you must not send us any personal information.
+We are a limited company registered in England and Wales under company number 01045967. Our registered office is at North Park, Newcastle upon Tyne, NE13 9AA.  
 
-  
-Note that if you follow a link from this site to another site, this policy will no longer apply. We are not responsible for other sites’ information handling practices. Use of your information by the owner of the linked site will normally be governed by that site’s privacy policy, which we encourage you to read.
+We are registered on the Information Commissioner's Office Register of Data Controllers under registration number Z6439956.  This registration covers all of our different business divisions.
 
-Further information about privacy and data protection issues including the online Register of Data Controllers can be found on the Information Commissioner’s website at <http://www.informationcommissioner.gov.uk/>.
+We are part of the Sage group of companies which includes The Sage Group Plc. The Sage Group plc is registered separately with the Information Commissioner (see [www.ico.gov.uk](http://www.ico.gov.uk/)).
 
-**2.  Who we are**
+For details of how to contact us, please refer to the [Contact Us page](https://web.archive.org/contact-us/buying.html).
 
-We are Sage (UK) Limited, a company registered in England and Wales with company registration number 01045967. Our registered office is at North Park, Newcastle upon Tyne, NE13 9AA. Please see our contact section for more information.   If you have any queries about the information we hold on you, please contact our Data Protection Compliance Officer, who you may write to at the address above, or email at [privacy@sage.com](mailto:privacy@sage.com) or telephone on **0191 294 3000**.
+**2.  How we collect information**
 
-We are entered in the Register of Data Controllers with registration no. Z6439956. Our entry includes the processing of our TAS and Sage Enterprise Solutions divisions.
+We will collect information from you if you:
 
-**3.  How we collect information from you**
+  * register to use our website; this will include your name, address, email address and telephone number. We may ask you to provide additional information about your business and preferences on a voluntary basis;
+  * place an order for products or services on this site, this will include your name (including business name), address, contact details (including telephone number and email address) and your payment details;
+  * complete online forms (including callback requests), take part in surveys, write posts on any message boards, post any blogs, enter any competitions or prize draws, download information such as white papers or other publications, or participate in any other interactive areas that appear on our website from time to time; and
+  * contact us offline for example by telephone, fax, email or post.
 
-**3.1.  By the use of “cookies” and “web beacons”.**
 
-Cookies
 
-3.2. A cookie is a small text file which is transferred from a website and stored on your computer’s hard drive. It enables a website to “remember” who you are.
+We also collect information about your visit to our website using cookies (as described in paragraph 6 below).
 
-3.3. Most browsers are automatically set to accept cookies but if you are using Microsoft’s Internet Explorer or Netscape Navigator, you should be able to configure your browser to restrict cookies or block all cookies if you wish. This will however, affect your ability to log into and use our shopping channel, community areas and other restricted areas of our website. Browser-specific instructions on how to restrict or block cookies may be found on the Interactive Advertising Bureau’s website at <http://www.allaboutcookies.org/>.
+**3.  What we use your information for**
 
-3.4. We use session cookies (which are temporary cookies) in the products and services and communities sections of our website to verify your identity when you log in, to keep track of which pages you visit and what is in your shopping basket, to personalise our service to you, including sending you or your business any marketing information you have indicated you would be happy to receive and to improve our website. Our session cookies currently contain your customer account number and company name. From approximately March 2004, our session cookies will contain your email address. Session cookies are deleted when you close your browser (i.e. the software program you use for searching and viewing various kinds of Internet resources such as information on a web site).
+We will use your information to provide any information and services that you have requested or any products that you have ordered.  We may also contact you for feedback on your use of our products, services or our website.
 
-3.5. This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google requires us to reproduce the following statement. You can find out more about this service at http://www.google.com/analytics. Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address which we do not link to any personally identifiable information) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for us and providing other services to us relating to website activity and internet usage.  Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.  You may refuse the use of cookies by selecting the appropriate settings on your browser.  By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
+We may use your information for marketing purposes as described in paragraph 5 below.
 
-**Web beacons**
+We may also use and analyse the information that we collect so that we can administer, support, improve and develop our website and the products and services we offer.
 
-3.7. Some of our web pages contain electronic images known as web beacons (sometimes known as web bugs, clear gifs, or trackers) that allow us to count users who have visited these pages after clicking through from an advertisement for our products or services from a third party site. They also tell us whether someone has bought a product from our site and its cost after clicking through from an advertisement, but not in a way that identifies any particular individual. Web beacons collect only limited information which includes a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. We do not carry web beacons placed by third party advertisers but we do use a third party to aggregate this data for us.
+**4.  Sharing your information **
 
-3.8. Because web beacons are the same as any other content request included in the recipe for a web page, it is not possible for you to opt out or refuse them. However, as we use web beacons in conjunction with cookies they can be rendered ineffective by either opting out of cookies or by changing the cookie settings in your browser.
+We may share your information with:
 
-**Further information**
+  * our suppliers, business partners and group companies from time to time so they can provide you with any information, products or services that you have requested. We may also share your information with our business partners for marketing purposes as described in paragraph 5 below. 
+  * third parties which supply services to us or which process information on our behalf (for example, payment providers and website hosts where relevant). These third parties may have incidental access to your information, but we will ensure that they keep your information secure and do not use it for their own purposes.
+  * another organisation if we sell or buy (or negotiate to sell or buy) any business or assets. 
+  * another organisation to whom we transfer our agreement with you. 
 
-3.9. More information on cookies and web beacons can be found at <http://www.allaboutcookies.org/>.
 
-3.10. By registration
 
-3.10.1. We collect information about you that you provide when you register to use the community areas or other restricted areas of our site.
+We may pass collective information about the use of our website to third parties but this will not include information that can be used to identify you.
 
-3.11. Through completion of online forms
+We will disclose your information if we are required to by law. We may disclose your information to enforcement authorities if they ask us to, or to a third party in the context of actual or threatened legal proceedings, provided we can do so without breaching data protection laws.
 
-3.11.1. We collect information about you if complete any of the various forms on our site to contact us, make enquiries, order products and services, apply to us and give us feedback.
+**5.  Marketing**
 
-3.11.2. We need you to give us certain information, which will be indicated on the form you are required to complete in order to place an order. It would help us if you give us any other information that you think will be relevant but you are under no obligation to do so.
+From time to time, we may use your information to contact you with details about our products and services which we feel may be of interest to you.  We may also share your information with our group companies, business partners and other carefully selected third parties so that they (or we) can contact you with information about their products or services which we feel may be of interest to you.  We or they may wish to contact you for this purpose by telephone, post or email.
 
-3.12. Through traffic data and site statistics3.12.1. We do keep a record of traffic data which is logged automatically by our server, such as your IP address, the URL you visited before ours, the URL you visit after leaving our site and which pages you visit.
+You have the right at any time to stop us from contacting you for marketing purposes.  You may also request at any time that we do not share your information with any of the third parties referred to in this paragraph.  If you wish to exercise these rights you can do so by selecting your contact preferences on our Website at the point where you provide us with your details or [updating your preferences through your account on My Sage](https://my.sage.co.uk/) or by sending us an email to [digital@sage.com](mailto:digital@sage.com).
 
-3.12.2. We also collect some site statistics such as page hits and page views.
+**6.  Cookies and Traffic Data**
 
-3.12.3. We are not readily able to identify any individual from traffic data or site statistics.
+The law on cookies and similar technologies changed in May 2011 and we are currently looking at what this means for how we operate our website. We will update this policy as soon as we know what changes we need to make, so please check back here for updates.
 
-3.13. By you contacting us by other methods other than the website
+Cookies are small text files which are transferred from our website and stored on your computer's hard drive. They enable our website to "remember" who you are. We use session cookies on our websites to identify and track users of our website, to store information about your preferences and to remember what is in your shopping basket.  Our session cookies currently contain your customer account number, company name and email address.  These session cookies are deleted when you close your browser.  You can disable these cookies by changing the settings on your browser but this may affect your ability to use our website.
 
-3.13.1. The website provides various telephone and fax numbers and email addresses for you to contact us. We will collect information from you that you provide through any of these methods.
+You may be able to configure your browser to restrict cookies or block all cookies if you wish, however if you disable cookies you may find this affects your ability to use certain parts of our website.  For more information about cookies and instructions on how to adjust your browser settings to accept, delete or reject cookies, see the Internet Advertising Bureau website [www.youronlinechoices.co.uk](http://www.youronlinechoices.co.uk/).
 
-3.13.2. We may also collect other information you supply to us after your initial contact with us.
+We also use cookies and similar software known as web beacons to count users who have visited our website after clicking through from one of our advertisements on another website and to collect details of any products purchased.  These web beacons collect limited information which does not identify particular individuals.  It is not possible to refuse the use of web beacons.  However, because they are used in conjunction with cookies, you can effectively disable them by setting your browser to restrict or block cookies.
 
-**4.  Security and storage of information**
+This website also uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google requires us to reproduce the following statement.  "Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.  Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.  You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.  By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above." You can find out more about this service at <http://www.google.com/analytics>.
 
-4.1. We will keep your information secure by taking appropriate technical and organisational measures against its unauthorised or unlawful processing and against its accidental loss, destruction or damage.
+We keep a record of traffic data which is logged automatically by our server, such as your Internet Protocol (IP) address, the website that you visited before ours, the website you visit after leaving our site. We also collect some site statistics such as page hits and page views. We are not able to identify any individual from traffic data or site statistics.
 
-4.2. Please remember that normal Internet email is insecure. We do however, use secure connections in our shopping channel.
+**6.  Your information**
 
-4.3. We will store your information at least for the duration of any customer relationship we have with you, or as otherwise required by law (normally up to a maximum of 7 years for legal and tax reasons).
+If we hold any information about you which is incorrect or if there are any changes to your details please let us know by so that we can keep our records accurate and up to date. If you would like to update your records or see a copy of the information that we hold about you, you can contact us at Data Protection Officer, Sage (UK) Ltd, North Park, Newcastle-upon-Tyne, NE13 9AA or by email to [digital@sage.com](mailto:digital@sage.com). If you request a copy of your information you will need to pay a statutory fee which is currently £10. 
 
-**5.  What your information is used for**
+**7.  Changes to our privacy policy**
 
-5.1. If you buy software or services from us, we will use your information to fulfil your order and to provide you with the software or service you have requested.
+We may change our privacy policy from time to time. We will always update the privacy policy on our website, so please try to read it when you visit the website.
 
-5.2. If you register to use one of the community areas or other restricted areas on our website, we will use your information to provide those membership services to you.
+**8.  Security and storage of information**
 
-5.3. If you agree when you register with us or buy from us, we will also use your information for marketing purposes. If you do not want the information we hold on you to be used in this manner, you must first contact us either by writing to our Data Protection Compliance Officer, or by e-mailing us at [support@sage.com](http://www.sage.co.uk/support@sage.com "Email support@sage.com") and establish your preferences.
+We will keep your information secure by taking appropriate technical and organisational measures against its unauthorised or unlawful processing and against its accidental loss, destruction or damage.  Unfortunately, the internet is not always secure therefore, although we will do our best to protect your personal data, we cannot guarantee the security of your data which is transmitted to our website and any transmission will be at your own risk.
 
-5.4. If you do not object, we will use the information we hold on you to contact you for feedback on your use of our software and/or services and/or website.
+If we have given you (or you have chosen) a password to access certain areas of our website please keep this password safe - we will not share this password with anyone.
 
-5.5. We may use aggregated data about users of our site, sales patterns and other statistical data to improve our site, but it will not be possible to identify individuals from that aggregated data.
+**9.  Transfers outside Europe**
 
-**6.  With whom we may share your information**
+Personal data in the European Union is protected by data protection laws but other countries do not necessarily protect your personal data in the same way.  Our website or parts of it may be hosted in the United States and this means that we may transfer any information which is submitted by you through the website outside the European Economic Area (which means all the EU countries plus Norway, Iceland and Liechtenstein) ("EEA") to the United States. When you send an email to us, this will also be stored on our email servers which are hosted in the United States.  We have taken steps to ensure that our hosting provider uses the necessary level of protection for your information but if you do not want your information to be transferred outside the EEA you should not use our website or contact us via email
 
-6.1. We will not share your information with any other organisation except in the following circumstances.
+**10.  Other Sites**
 
-6.1.1. We will share your information with another organisation to which we transfer, or are in discussions to transfer, our rights and obligations under our agreement with you.
+If you follow a link from our website to another site, this policy will no longer apply. We are not responsible for the information handling practices of third party sites and we encourage you to read the privacy policies appearing on those sites.
 
-6.1.2. We may share your information with another organisation that buys our company or our assets, or with another organisation from which we acquire a company or business, and in the course of any preceding negotiations with that organisation, which may or may not lead to a sale.
+**11.  Further Information**
 
-6.1.3. We may share your information with our funders or potential funders, such as our bank and with our professional advisers who have a reasonable need to see it.
+If you would like further information about data protection, or if you would like to view the register of Data Controllers, you can visit the Information Commissioner's site at [www.ico.gov.uk](http://www.ico.gov.uk/).
 
-6.1.4. We may share your information with any group companies of ours so that they can provide any products and services to you that you request.
-
-6.1.5.  We may, on occasion share your information with carefully selected businesses so that they can send you details of other software-related products and services. Alternatively, we may on occasion use your information to send you details of the products and services of carefully selected businesses which are complementary to our own products and services. If you do not want the information we hold on you to be used in this manner, you must contact us either by writing to our Data Protection Compliance Officer, or by emailing us at [support@sage.com](mailto:support@sage.com "support@sage.com").
-
-6.1.6. We may provide anonymous aggregated data to reputable third parties on a commercial basis.
-
-6.1.7. We will give third party providers who supply services to us, or who process information on our behalf, incidental access to your information but will always take steps to ensure their security measures are adequate to protect your information. Any credit or debit card details are passed to our payment provider and your card issuer.
-
-6.1.8. We will disclose your information to enforcement authorities if asked to do so, or to a third party in the context of actual or threatened legal proceedings or if otherwise required to do so by law.
-
-**7.  Your rights**
-
-7.1. You have a right to rectify any errors in information we hold about you, and to change or correct any details you have already given us. Please inform us about changes to your details so that we can keep our records accurate and up to date.
-
-7.2. You also have a right to be removed from any mailing list we hold at any time, but you must first contact us either by writing to our Data Protection Compliance Officer, or e-mailing us at [support@sage.com](http://www.sage.co.uk/support@sage.com "Email support@sage.com").
-
-7.3. You have a right to see a copy of the information we hold about you on payment of a statutory fee, which is currently £10. Before we agree to this, you must provide with sufficient evidence of your identity and sufficient details of the information you wish to see to enable us to locate it.
-
-**8.  Transfers outside Europe**
-
-8.1. We are obliged to satisfy ourselves before transferring your information to a country outside the EEA that it provides adequate protection for your data protection rights. The EEA comprises the EU countries and Norway, Iceland and Liechtenstein. Countries outside the EEA may not give the same level of protection to your information as those within the EEA.
-
-8.2. Our website is hosted in the US and therefore we do transfer any information submitted by you through the site outside the EEA which is stored in the US. We have taken steps to ensure that our host provides the necessary level of protection for your information, and by using this site, you are agreeing to such a transfer.
+**  Thank you for visiting our website.**
