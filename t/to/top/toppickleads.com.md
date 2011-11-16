@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toppickleads.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608215435id_/http%3A//www.toppickleads.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toppickleads.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116021601id_/http%3A//www.toppickleads.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Group Health Insurance Leads | Group Health Leads | Health Insurance Leads
+# TopPickLeads.com - Privacy Policy
 
 TopPickLeads.com values the privacy of our visitors. This Privacy Policy is intended to explain what TopPickLeads.com does with your information, and what you can expect from TopPickLeads.com. If you have additional questions or would like further information on this topic, please contact us. TopPickLeads.com may update this policy from time to time. Please check the policy periodically for changes.
 
