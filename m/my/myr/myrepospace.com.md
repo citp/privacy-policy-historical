@@ -1,22 +1,31 @@
-> *The following text is extracted and transformed from the myrepospace.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519083037id_/http%3A//www.myrepospace.com/more/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myrepospace.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116204903id_/http%3A//www.myrepospace.com/more/privacy.php) for the most accurate reproduction.*
 
-# MyRepoSpace.com - Privacy Policy
+# MyRepoSpace.com - Terms of Service
 
-**  
-MyRepoSpace.com** \- Privacy Policy: July 19, 2010
+The Privacy Policy, in conjunction with the [Terms of Service](https://web.archive.org/web/20111116204903id_/http%3A//www.myrepospace.com/more/tos.php), is collectively known as the "Agreement". 
 
-MyRepoSpace: MYREPOSPACE does not support the distribution of sensitive information and will never sell users personal information to 3rd parties.  
+MyRepoSpace will modify the Agreement which will become effective immediately upon posting on the website. Your continued use of the website and any associated services indicates your acceptance of the most recently posted Agreement. 
 
- **Cookies:** Cookies are used to store Login information and are also used by our Advertisers to collect information.  
+Any Content uploaded by you to MyRepoSpace becomes published Content and is not considered personally identifiable information subject to this Privacy Policy. 
 
- **Log information:** When you logon information is sent to the server such as, time of login and IP.
+MyRepoSpace will collect and store your IP Address to identify trends and provide functionility to the website. 
 
-**Database Information** : As part of the webservice of MYREPOSPACE.COM, MYREPOSPACE collects and uses data that collected via web technologies in order to complete these web services. As part of our strick privacy policy, this collected data is not shared with 3rd parties, and are strictly used by the web technologies created and licenced by MYREPOSPACE.
+We reserve the right to send emails and notifications to your registered email address when seen fit.   
+MyRepoSpace will never send spam or advertisements via email. 
 
- **Other sites -** This Privacy Policy applies to web sites and services that are owned and operated by MyRepoSpace. We do not exercise control over the sites displayed as search results or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you.  
+MyRepoSpace will never sell content submitted to MyRepoSpace. 
 
- **Similar Website:** Myrepospace.com does not hold any connection with sites that claim to be 'running same technologies' or offer similiar services. MYREPOSPACE will officially list any affliating sites within the Terms and Conditions found [here](https://web.archive.org/web/20110519083037id_/http%3A//www.myrepospace.com/more/tos.php). MyRepoSpace does not share any information with websites offering similar services, nor claim to be affiliated with MYREPOSPACE. MyRepoSpace is not liable for anything related to, but not not limited it: Damages and privacy breach from these other web services.
+A cookie is a piece of data stored on your hard drive which contains data used for the MyRepoSpace website. Cookies will be used on MyRepoSpace to enhance the website's experience. Cookies contain such information login information that is used to store your session. 
 
-**Information:** MyrepoSpace requires, on register, to know your email address, username and chosen password. Any other information inputted to MyRepoSpace.com is completely voluntary. 
+You can choose not to use Cookies to store your login information by unchecking "Keep me Logged" on login.   
+Cookies contain sensitive data, and can result in misuse. Cookies are encrypted, however do not gaurentee that your login information is safe. You agree to take the risk when using cookies to store your login information. 
 
-MyRepoSpace reserves the right to update this policy at anytime without prior warnings. **I HAVE READ THIS AGREEMENT AND AGREE TO ALL CONTAINED ABOVE.    **
+Cookies may be collected from Advertisers to further enhance your web browser experience 
+
+We will NEVER rent, sell or share your information with third parties. However, we may disclose your personal information or any of its log file information when required by law or in the good-faith belief that such actions are necessary to: conform to the edicts of the law or comply with a legal process served on us; protect and defend the rights or property of MyRepoSpace, or visitors of MyRepoSpace; identify persons who may be violating the law, the legal notice, or the rights of third parties; co-operate with the investigations of purported unlawful activities. 
+
+Third-party websites or services linked to MyRepoSpace are not covered by this Privacy Policy. These websites may collect personally or non-personally identifiable information about you and place a cookie on your browser. MyRepoSpace is not responsible for the privacy practices of the third-party websites and companies. 
+
+MyRepoSpace is not responsible if you volunteer personal information online that is accessible to the public. You may receive unsolicited messages from other parties or it may be used in a manner that violates the law, your personal privacy or your safety. By submitting such information, you assume the risks and sole liability arising as a result of such information being displayed. 
+
+Although we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. We do not ensure or warrant the security of databases that store your personal information. 
