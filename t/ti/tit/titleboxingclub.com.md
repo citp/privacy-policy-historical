@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titleboxingclub.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517010141id_/http%3A//www.titleboxingclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titleboxingclub.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116042522id_/http%3A//www.titleboxingclub.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Title Boxing Club | Boxing + Kickboxing + MMA Workouts | Kansas City/St. Louis/Ohio Boxing Gyms
 
@@ -16,4 +16,7 @@ TITLE Boxing Club and TITLE Boxing collects the domain name of each visitor to o
 
 The information we collect is used to improve the content and layout of our website. For example, information may be used to customize the content of our websites, to notify consumers about updates, or to contact consumers for marketing purposes directly related to TITLE Boxing Club and TITLE Boxing.
 
-[Print PDF](http://www.titleboxingclub.com/privacy/?output=pdf)
+**[DOWNLOAD AS PDF](http://www.titleboxingclub.com/wordpress/wp-content/plugins/kalins-pdf-creation-station/kalins_pdf_create.php?singlepost=pg_844)**
+
+  
+
