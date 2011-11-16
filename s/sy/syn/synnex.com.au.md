@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synnex.com.au privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518043301id_/http%3A//www.synnex.com.au/Default.aspx%3Ftabid%3D1%26def%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synnex.com.au privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116211744id_/http%3A//www.synnex.com.au/Default.aspx%3Ftabid%3D1%26def%3DPrivacy) for the most accurate reproduction.*
 
 # Synnex Australia Pty Ltd : Home |
 
@@ -26,6 +26,10 @@ Synnex Australia Pty Ltd keeps track of the Web sites and pages our customers vi
 
 Synnex Australia Pty Ltd Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Synnex Australia Pty Ltd or the site; (b) protect and defend the rights or property of Synnex Australia Pty Ltd; and, (c) act under exigent circumstances to protect the personal safety of users of Synnex Australia Pty Ltd, or the public.
 
+Use of Intellectual Property
+
+All rights, including copyright and database rights, in Synnex's websites and its contents, are owned by Synnex, or otherwise used by Synnex as permitted by applicable law. All images, logos, or other third-party products or services, belong exclusively to Synnex or such third-party, as applicable, or their respective owners, and are protected from reproduction, imitation, dilution or confusing or misleading uses under national laws. No act of downloading or otherwise copying or reproducing from the site will transfer title to you to any software or material on the site, unless express statements are communicated to you by Synnex to the contrary.
+
 Use of Cookies
 
 The Synnex Australia Pty Ltd Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
@@ -44,4 +48,4 @@ Synnex Australia Pty Ltd will occasionally update this Statement of Privacy to r
 
 Contact Information
 
-Synnex Australia Pty Ltd welcomes your comments regarding this Statement of Privacy. If you believe that Synnex Australia Pty Ltd has not adhered to this Statement, please contact Synnex Australia Pty Ltd at [damon.fowler@day3.com.au](mailto:damon.fowler@day3.com.au). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+Synnex Australia Pty Ltd welcomes your comments regarding this Statement of Privacy. If you believe that Synnex Australia Pty Ltd has not adhered to this Statement, please contact Synnex Australia Pty Ltd at [webmaster@synnex.com.au](mailto:webmaster@synnex.com.au). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
