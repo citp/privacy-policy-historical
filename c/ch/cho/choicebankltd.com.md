@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the choicebankltd.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212192251id_/http%3A//www.choicebankltd.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choicebankltd.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116160626id_/http%3A//www.choicebankltd.com/about/privacy.php) for the most accurate reproduction.*
 
 # Choice Bank Ltd. :: About Choice :: Privacy Policy
 
