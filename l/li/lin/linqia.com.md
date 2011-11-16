@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the linqia.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506205854id_/http%3A//www.linqia.com/m/about-linqia/your-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linqia.com privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116174514id_/http%3A//linqia.com/m/about-linqia/your-privacy) for the most accurate reproduction.*
 
 # About Linqia
 
 Linqia is committed to protecting the privacy of our users. Linqia does not share users' personal data with third parties or non-affiliated companies without users' prior consent. Only under extraordinary circumstances, Linqia may be required to disclose personally identifiable information, such as to comply with legal requirements or to exercise its legal rights. 
 
-By using the website www.Linqia.com (the Website), owned and managed by Starfish Community Groups S.L. ('Linqia'), you ('User') accept the following privacy policy (the 'Privacy Policy'), which governs the data processing undertaken through the Website and concerning the services found thereon (the 'Services'). 
+By using the website www.Linqia.com (the Website), owned and managed by Linqia, Inc., you ('User') accept the following privacy policy (the 'Privacy Policy'), which governs the data processing undertaken through the Website and concerning the services found thereon (the 'Services'). 
 
 Users are also aware of Linqia's Terms and Conditions governing the Services offered on the Website. In the event of inconsistency between this Privacy Policy and the Terms and Conditions, the Terms and Conditions shall prevail. 
 
-Linqia is committed to protecting User’s privacy. This Privacy Policy describes how Linqia collects, receives, uses, processes, and shares information concerning the User, including but not limited to User’s name, address, email address, or phone number ('Personal Data'). When User registers with Linqia, User’s Personal Data and other data will be stored and processed in Spain and in the United States, and this information will be subject to the laws of Spain. In order to use the Services and provide User’s Personal Data, User must be of legal age or have User’s parent's permission in accordance with applicable law. 
+Linqia is committed to protecting User’s privacy. This Privacy Policy describes how Linqia collects, receives, uses, processes, and shares information concerning the User, including but not limited to User’s name, address, email address, or phone number ('Personal Data'). When User registers with Linqia, User’s Personal Data and other data will be stored and processed in the United States, and this information will be subject to the laws of the United States. In order to use the Services and provide User’s Personal Data, User must be of legal age or have User’s parent's permission in accordance with applicable law. 
 
 ##  How we collect and use User’s Personal Data 
 
@@ -57,7 +57,7 @@ On the Website, Linqia offers social networks to present information about their
 
 Linqia shows the profile of social network that was created by the User associated with the social network and technically inserted into the Linqia Platform. The social network profile shows the URL address and other information about the social network that will be displayed on the Website. These are visible to any person visiting the website. 
 
-###  Group Leaders 
+###  Gruppengründer 
 
 On the Website, Linqia offers Social Networks the opportunity to present information about their groups and the Group Leader to prospective Advertisers. Until such time when the Group Leader opts in to the Linqia Platform, Linqia will not have access to the contact details of the Group Leader including the email address. Upon opting in to the Linqia Platform, the Group Leader will provide Linqia with additional private and public information such as phone number, address and banking details. 
 
@@ -102,13 +102,15 @@ Linqia only processes personal information for the purposes described in this Pr
 
 User understands that Linqia is continuously developing the features and the functionality of the Services, the Website, and the related software. Consequently, we also reserve the right to modify this Privacy Policy at any time in our sole discretion. User agrees that such alteration shall be effective upon posting on the Website and User will be bound to any alterations when User uses the Services after such alteration is posted. It is therefore important that User review this Privacy Policy regularly on the Website to ensure that User is updated regarding any alterations. User’s sole remedy should User not agree with the altered Privacy Policy shall be to close User’s account and to cease using the Services. 
 
-ORGANIZATION COLLECTING INFORMATION. Starfish Community Group S.L. owns and operates the Website and other domains. User may contact Starfish Community Group S.L. at info [at] Linqia.com 
+ORGANIZATION COLLECTING INFORMATION. Linqia, Inc owns and operates the Website and other domains. User may contact Linqia, Inc at info [at] Linqia.com 
 
-If User has any questions or suggestions regarding our Privacy Policy, please contact us at: 
+Wenn du Fragen in Bezug auf unsere Datenschutzrichtlinien hast, kontaktiere uns: 
     
     
-          Starfish Community Group S.L.
-          Major de Sarria 11, 2-1
-          08017 Barcelona Spain 
+          Linqia, Inc
+          857 Filbert Street
+          San Francisco CA
+          94133 United States
+    
           or info [at] Linqia.com
         
