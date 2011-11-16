@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cabelas.ca privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515001044id_/http%3A//www.cabelas.ca/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cabelas.ca privacy policy that was archived on 2011-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111116075954id_/http%3A//www.cabelas.ca/privacy_policy) for the most accurate reproduction.*
 
 # Cabelas Canada - Privacy Policy
 
@@ -9,6 +9,8 @@
 Save on Overstocks, Special Buys and Discounted Items
 
 [](https://web.archive.org/bargain_cave/ "Bargain Cave")
+
+[](https://www.bbb.org/online/consumer/cks.aspx?id=110120111743&utm_source=site&utm_medium=hpl&utm_campaign=bbb)
 
 [](https://www.mcafeesecure.com/RatingVerify?ref=67.192.190.207 "McAfee Secure Site")
 
@@ -53,7 +55,7 @@ In general, you can visit the Cabela’s Canada website without telling us who y
 
 If you use a credit or debit card to purchase a product online, in-store, or through our catalogue, your payment card related information and your signature will be collected for the purposes of processing your payment. If you pay for a purchase by money order, cheque or C.O.D, the name, address, e-mail address and telephone number of the purchaser will be collected in order to identify you and contact you regarding your payment, if necessary.
 
-If you request to receive our catalogues, e-mails, newsletters, or other marketing materials we may collect your name, address, telephone number and e-mail address. If you wish to stop receiving any of these materials, you may contact us at  **1.800.265.6245** , send us an e-mail at [ **privacyofficer@cabelas.ca**](mailto:privacyofficer@cabelas.ca), or write us at the postal address provided above.  e-Mail recipients can also opt-out of receiving future emails by using the opt-out link in each e-mail.
+If you request to receive our catalogues, e-mails, newsletters, or other marketing materials we may collect your name, address, telephone number and e-mail address. If you wish to stop receiving any of these materials, you may contact us at  **1.800.265.6245** , send us an e-mail at [ **privacyofficer@cabelas.ca**](mailto:privacyofficer@cabelas.ca), or write us at the postal address provided above.  E-mail recipients can also opt-out from receiving future emails by using the opt-out link in each e-mail.
 
 If you request, we may make your postal mailing address information available to subsidiaries and affiliated companies that are part of the Cabela's family of companies, or to other direct mail companies who we believe may have products and services of interest to our customers, for the marketing purposes of those companies. If you wish to stop receiving any of these materials, you may contact us at **1.800.265.6245** , send us an e-mail at [**privacyofficer@cabelas.ca**](mailto:privacyofficer@cabelas.ca), or write us at the postal address provided above.
 
@@ -103,7 +105,7 @@ _**What choices are available to you regarding the collection, use and disclosur
 
 If you do not want to receive mail from us in the future, please let us know by calling **1.800.265.6245** , send an e-mail to [**privacyofficer@cabelas.ca**](mailto:privacyofficer@cabelas.ca), or write to us at the above postal address and telling us that you do not want to receive mail from our company.
 
-With your consent you may also receive e-mails from us containing information about new products and services or upcoming events. You may modify your e-mail preferences by calling **1.800.265.6245** or, if you have established a Profile at www.Cabelas.ca, you may change your email preferences in the "Your Account" section by clicking there.  If you receive e-mail from Cabela’s Canada and do not wish to receive future e-mails you may also utilize the opt-out link provided within our e-mails to remove your name from our e-mail list.
+With your consent you may also receive e-mails from us containing information about new products and services or upcoming events. You may modify your e-mail preferences by calling **1.800.265.6245** or, if you have established a Profile at www.Cabelas.ca, you may change your email preferences in the " **My Profile** " section by clicking there.  If you receive e-mail from Cabela’s Canada and do not wish to you may unsubscribe using the the opt-out link provided within our e-mails.
 
 On occasion, we may make our postal mailing address lists available to subsidiaries and affiliated companies that are part of the Cabela's family of companies, or to other direct mail companies who we believe may have products and services of interest to our customers, for the marketing purposes of those companies. We will only share your personal information with those companies for such purposes if we have received your prior consent. If we obtained your consent and you no longer wish to receive postal mailings from Cabela's Canada, its affiliated companies, or third-party organizations, please let us know by calling, sending an e-mail to info@cabelas.ca, or writing to us at the above postal address. Please provide us with your exact name, postal address and the list you wish to be removed from, so that we can be sure your information is removed from future mailings.
 
@@ -145,7 +147,7 @@ We reserve the right to modify this Privacy Statement at any time, so please rev
 
 [](https://web.archive.org/signupforemail/)
 
-[ ](https://web.archive.org/36245/110524/110524.html)
+[](https://web.archive.org/36245/111101/111101.html)
 
 Since 1961, it has been our ongoing mission to provide outdoor enthusiasts with the finest quality gear and the highest level of customer service in the industry.   
 
@@ -157,5 +159,9 @@ Not sure what to buy? Many outdoor enthusiasts prefer to select their own equipm
 Cabela's Canada Gift Cards are available in various card styles and denominations.  Order yours today!
 
 [](https://web.archive.org/gift_certificates/)
+
+[](http://www.facebook.com/pages/Cabelas-Canada/166727514458?utm_source=site&utm_medium=hpl&utm_campaign=facebook)
+
+[ ](http://twitter.com/cabelascanada?utm_source=site&utm_medium=hpl&utm_campaign=twitter)
 
 |  
