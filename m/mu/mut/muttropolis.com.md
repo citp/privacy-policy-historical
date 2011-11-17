@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muttropolis.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218113537id_/http%3A//www.muttropolis.com/content/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muttropolis.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117151908id_/http%3A//www.muttropolis.com/content/privacy.cfm) for the most accurate reproduction.*
 
 # About Muttropolis
 
@@ -14,11 +14,11 @@ In order to process your order efficiently, we collect the following information
 
 ## Use of Information that You Provide
 
-At Muttropolis we collect Personal Information only for the purposes of fulfilling orders, providing a high level of customer service, gaining knowledge internally regarding what our customers want and mailing circulars and special offers from Muttropolis. We do not give or sell Personal Information to any other party. If at any time you do not want to receive offers and/or circulars from us, you can always remove yourself from our mailing list by sending an e-mail to [bark@muttropolis.com](mailto:bark@muttropolis.com). 
+At Muttropolis we collect Personal Information only for the purposes of fulfilling orders, providing a high level of customer service, gaining knowledge internally regarding what our customers want and mailing circulars and special offers from Muttropolis. We do not give or sell Personal Information to any other party. If at any time you do not want to receive offers and/or circulars from us, you can always remove yourself from our mailing list by clicking the "unsubscribe" link at the bottom of every email. 
 
 ## Opt-out Email policy
 
-We ask that you tell us when you do not wish to receive periodic emails from us. We will only send email for customer service purposes and to those visitors who have indicated that they wish to receive other types of email from us. If at any time you wish to stop receiving email from us at any time, you can always remove your name from our mailing list by sending an email to [bark@muttropolis.com](mailto:bark@muttropolis.com) stating that you wish to unsubscribe. 
+We ask that you tell us when you do not wish to receive periodic emails from us. We will only send email for customer service purposes and to those visitors who have indicated that they wish to receive other types of email from us. If at any time you wish to stop receiving email from us at any time, you can always remove your name from our mailing list by clicking the "unsubscribe" link at the bottom of every email. 
 
 ## Security of the Information You Provide
 
