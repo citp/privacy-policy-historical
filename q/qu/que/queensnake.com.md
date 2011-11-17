@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the queensnake.com privacy policy that was archived on 2011-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110228054414id_/http%3A//queensnake.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the queensnake.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117025703id_/http%3A//queensnake.com/privacy) for the most accurate reproduction.*
 
-# Queensnake BDSM
+# Queensnake.com - Privacy
 
 Privacy Policy for Queensnake.com
 
