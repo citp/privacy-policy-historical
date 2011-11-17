@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bccresearch.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518134341id_/http%3A//bccresearch.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bccresearch.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117032657id_/http%3A//www.bccresearch.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Our postal address is 35 Walnut St., Suite 100, Wellesley, MA 02481. We can be reached via e-mail at [**sales@bccresearch.com**](mailto:sales@bccresearch.com), by **phone** at **866-285-7215** and by **fax** at **781-489-7308**
+Our postal address is BCC Research LLC, 49 Walnut Park, Building 2, Wellesley, MA 02481. We can be reached via e-mail at [**sales@bccresearch.com**](mailto:sales@bccresearch.com), by **phone** at **866-285-7215** and by **fax** at **781-489-7308**
 
 The information we collect is used to improve the content of our Web site, used to notify consumers about updates to our Web site, shared with other reputable organizations to help them contact consumers for marketing purposes, and used by us to contact consumers for marketing purposes. 
 
