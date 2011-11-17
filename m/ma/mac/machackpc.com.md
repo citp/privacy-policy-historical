@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the machackpc.com privacy policy that was archived on 2010-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100224071112id_/http%3A//www.machackpc.com/machackpcs-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machackpc.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117091947id_/http%3A//www.machackpc.com/machackpcs-privacy-policy) for the most accurate reproduction.*
 
-# MacHackPC’s Privacy Policy | Mac Hack PC - Hack it all you can...
+# MacHackPC’s Privacy Policy | MacHackPC
 
 **What information do we collect?**
 
