@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the analyticsseo.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518031044id_/http%3A//www.analyticsseo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analyticsseo.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117030014id_/http%3A//www.analyticsseo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Analytics SEO
 
@@ -19,6 +19,12 @@ This notice applies to all information collected or submitted on the Analytics S
   * Credit/Debit Card Information for Billing
 
 
+
+### Analytics Data
+
+Analytics SEO also collect anonymous web analytics data to help improve user experience on the website. This is a common practice used by a vast majority of websites owned by online businesses.
+
+This data is collected using first party cookies and covers visitor information such as the number of visitors to our website, the amount of time spent on site and whether a visitor has visited our website before.
 
 ### **The Way We Use Information**
 
