@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewedding.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225214039id_/http%3A//ewedding.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewedding.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117213217id_/http%3A//www.ewedding.com/privacy.php) for the most accurate reproduction.*
 
 # eWedding.com | Privacy Policy
 
@@ -25,7 +25,7 @@ eWedding.com registration and website setup forms may require users to give us c
 
 You can safely and securely enter your credit card number via our secure server, which encrypts all submitted information.
 
-To view the Privacy policy and Terms of Use of our payment processor: [Terms of Use](http://internetsecure.com/privacy.html) | [Privacy policy](http://internetsecure.com/termsofuse.html)
+We trust the privacy and security of our payment processor Chase Paymentech. [Visit website](http://www.chasepaymentech.com/)
 
 ### Access to Your Information
 
@@ -57,12 +57,10 @@ You may opt out of any eWedding.com e-mails containg newly added features, news 
 
 If you have any questions, comments or concerns with the privacy of your information collected by Launchpad Web Development, please contact us with the info at the top of this page.
 
-> The ewedding website has assisted us with so many options for preparation of our wedding on May 31, 2008. The information that was provided made making our own website to share with family and friends so easy and understanding. This was the most effective way to share our wedding information with all of our guests on a daily basis, if needed which many of them are many miles away. After the completion of each step, you can ensure that everything has been taken care of and it will help you enjoy your special day.
+> As someone who does web design for a living this is by far the perfect solution to not only organizing your wedding for your guest but also sharing your story. 
 > 
-> Thank you very much!
-> 
-> Denise and Scott  
-> NC, USA
+> Julie & Christopher  
+> Atlanta, Georgia
 
   
 [Start your free wedding website](https://web.archive.org/setup/signup.php)
