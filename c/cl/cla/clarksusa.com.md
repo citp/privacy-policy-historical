@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarksusa.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318082100id_/http%3A//www.clarksusa.com/eng/customerservice/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarksusa.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117092418id_/http%3A//www.clarksusa.com/eng/customerservice/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,6 +45,14 @@ If you choose to communicate using the "Contact Us" feature, we will ask for you
 
 **Surveys and Contests**  
 Clarks may, on occasion, request information from you using surveys, sweepstakes, or other like contests. Your participation is never required. If you choose to participate, we may ask for your name, mailing address, email address, and/or telephone number. We use this information to administer the relevant survey or contest and for award notification purposes, as applicable. Clarks may also use the information to provide you with direct and/or email marketing communications about our products and promotions.  
+   
+  
+ •
+
+| 
+
+**Product Ratings and Reviews**  
+Users of our Sites may provide ratings and reviews about our products. To submit a review, you must first create and/or access your clarksusa.com account. Because we are able to associate you with the review you are submitting, we may use information in your review to personalize your site experience and tailor our product offerings to meet your interests.   
    
   
  •
@@ -148,4 +156,4 @@ Newton Upper Falls, MA 02464
   
 This Privacy Policy applies only to the information collected by www.clarksusa.com and www.bostonianshoe.com
 
-Date Posted: January 12, 2011 
+Date Posted: September 26, 2011 
