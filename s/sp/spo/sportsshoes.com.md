@@ -1,28 +1,43 @@
-> *The following text is extracted and transformed from the sportsshoes.com privacy policy that was archived on 2007-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070610015244id_/http%3A//www.sportsshoes.com/misc.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsshoes.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117092022id_/http%3A//www.sportsshoes.com/support/Privacy) for the most accurate reproduction.*
 
-# sportswear and sporting footwear - sportsshoes unlimited
+# Privacy - SportsShoes.com Support
 
-  
-We are committed to protecting your privacy and will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998.) 
+### From SportsShoes.com Support
 
-**Privacy Policy**  
-We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service. 
+At SportsShoes.com we respect your privacy and are committed to maintaining it. Our privacy policy statement is given below. If we make changes to this policy, we will notify you by updating this statement on our website. 
 
-We will not e-mail you in the future unless you have given us your consent. 
+We comply with the standards, procedures and requirements laid down in the Data Protection Act 1998 to ensure that the personal information you give us is kept secure and processed fairly and lawfully. 
 
-We will give you the chance to refuse any marketing email from us or from another trader in the future. 
+###  What information will we collect and how will we use it?
+
+We collect information about you to enable us to fulfill your order and secondly to provide you with the best possible service. 
 
 The type of information we will collect about you includes: 
 
-  * your name 
-  * address 
-  * phone number 
-  * email address 
-  * credit/debit card details 
+  * Your name 
+  * Your address 
+  * Phone number 
+  * Email address 
+  * Credit/debit card details 
 
-  
-We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly. 
 
-The personal information which we hold will be held securely in accordance with our internal security policy and the the law. 
 
-We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. We do not store any information in cookies which could be used to identify you personally, nor are any sensitive details stored in the cookie. 
+We will never collect sensitive information about you without your explicit consent. The information we hold will be accurate and up to date. You can check the information we hold by emailing us. If you find any inaccuracies we will delete or correct it promptly. 
+
+The personal information we hold will be held securely in accordance with our internal security policy and the law. 
+
+We may send you from time to time (by email or post) information about products and services and details of promotions and special offers from SportsShoes.com. We will not contact you in this way unless you have given us your consent. 
+
+###  Cookies
+
+A cookie is a piece of information our website will place on your computer's hard drive that can track your movements while you are on the website. It will also recognise you when you visit our website again. 
+
+We use cookies for the following reasons: 
+
+  * To ensure that items are placed into your Shopping Basket and orders are processed correctly. 
+  * To us to help you navigate around the site. 
+  * To provide site usage information, which together with purchase information, will further help us improve and develop the products and services we offer to you. 
+
+
+
+We do not store any information in cookies which could be used to identify you personally, nor are any sensitive details stored in the cookie. 
