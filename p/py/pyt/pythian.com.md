@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pythian.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526041208id_/http%3A//www.pythian.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pythian.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117170034id_/http%3A//www.pythian.com/privacy_policy) for the most accurate reproduction.*
 
 # pythian.com website privacy policy
 
