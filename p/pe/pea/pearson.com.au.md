@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearson.com.au privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504013604id_/http%3A//www.pearson.com.au/General/Privacy/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearson.com.au privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117224522id_/http%3A//www.pearson.com.au/General/Privacy/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -8,7 +8,7 @@
 
 ## Privacy Policy 
 
-This Policy will be reviewed from time to time to take account of new or amended laws, new technology and/or changes to our operations and practices and the changing business environment. The most current version of this Policy is located at [www.pearsonaustraliagroup.com.au/pages.cfm](https://web.archive.org/web/20110504013604id_/http%3A//www.pearson.com.au/General/Privacy/pages.cfm) and can be obtained by contacting our Privacy Officer. All personal information held by us will be governed by the most recently updated policy.
+This Policy will be reviewed from time to time to take account of new or amended laws, new technology and/or changes to our operations and practices and the changing business environment. The most current version of this Policy is located at [www.pearsonaustraliagroup.com.au](http://www.pearsonaustraliagroup.com.au/privacy_policy.cfm) and can be obtained by contacting our Privacy Officer. All personal information held by us will be governed by the most recently updated policy.
 
 This policy sets out: 
 
