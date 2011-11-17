@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the bccresearch.com privacy policy that was archived on 2011-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110518134341id_/http%3A//bccresearch.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bccresearch.com privacy policy that was archived on 2011-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111117032657id_/http%3A//www.bccresearch.com/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml" class="js"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="verify-v1" content="vvVMlX1J9TQwOckemzZ0qRQtKnsBbxzzBiMKbpeASyE=">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="description" content="Privacy Policy">
@@ -16,7 +16,10 @@
 					<script src="/public/js/drupal.js" type="text/javascript"></script>
 					<script src="/public/js/calender.js" type="text/javascript"></script>
 					<script src="/public/js/pop-cal.js" type="text/javascript"></script>
-					<script src="/public/js/common.js" type="text/javascript"></script><link href="/public/css/common.css" rel="stylesheet" type="text/css">
+					<script src="/public/js/common.js" type="text/javascript"></script>
+
+
+<link href="/public/css/common.css" rel="stylesheet" type="text/css">
 <link rel="shortcut icon" href="/public/images/logo.ico" type="image/x-icon">
 
 <script type="text/javascript">
@@ -27,16 +30,56 @@ function noError(){return true;}
 </script>
 </head>
 <body onload="">
+
 <noscript><div style="height:30px; width:100%; padding-top:0px; margin-top:0px; border: 1px solid #000000; background-color: #FFFF66;">This page uses JavaScript. Your browser either
 doesn't support JavaScript or you have it turned off.
 To see this page as it is meant to appear, please use
-a JavaScript enabled browser.</div></noscript><script type="text/javascript" src="/public/js/common.js"></script>
+a JavaScript enabled browser.</div></noscript>
+<!-- Added by sunil to print the flash messanger on 02-09-2011  -->
+<script type="text/javascript">
+
+/*
+ * added by deepak
+ * added ajax for getting dropdown category
+*/
+
+	$(document).ready(function() {	
+			
+	/*
+	 * added by deepak
+	 *	check if upcoming checkbox is checked then disable publish date
+	 */
+	 
+	$("input[@name='upcoming']").click(function(){
+		if($('#upcoming').is(':checked')){
+			 $("#fromdate").val('');
+			 $("#todate").val('');
+			 $("#upcoming_div").show();
+			 $("#publish_div").hide();
+			 
+			 
+		}else{
+			  $("#upcoming_div").hide();
+			  $("#publish_div").show();
+			   $("#upcoming_fromdate").val('');
+			 $("#upcoming_todate").val('');
+			 
+		}
+	});
+	
+});
+
+
+</script>
+
+
+<script type="text/javascript" src="/public/js/common.js"></script>
 <div align="center" style="width:100%;">
 <div id="container">
 <!--STARTS: Header Container -->
      <div id="top_hdr_container">
    	  	<div class="left">
-        	<a href="/index" title="BCC Research"><img src="/public/images/logo.jpg" alt="" class="hdr_logo"></a>
+        	<a href="/" title="BCC Research"><img src="/public/images/logo.jpg" alt="" class="hdr_logo"></a>
             <div class="hdr_call_sales_lt"></div>
 			<div class="hdr_call_sales">
             	<div class="floatlt"><img src="/public/images/callsales_lt.gif" alt="" width="7"></div>
@@ -46,21 +89,31 @@ a JavaScript enabled browser.</div></noscript><script type="text/javascript" src
                 <div class="floatlt"><img src="/public/images/callsales_rt.gif" alt="" width="7"></div>
             </div>
         </div>
+        
+		
 		<div class="right">
         	<a href="/subs/index" title="Sign Up for email updates">Sign Up for email updates</a>
 			<div class="carticon"><img src="/public/images/icon_cart.gif" alt=""></div>
 			<a href="/cart/index/detail/">View Cart</a>
-			<form name="search" method="post" action="/search/">
+						<form name="search" method="post" action="/index/advancedsearch"> 
+			<!--<form name="search" method="post" action="/search/">-->
             <div class="header_srch">
             	<div class="floatlt"><img src="/public/images/icon_srch.gif" alt="" width="30" height="26"></div>
-              	<input id="search_keyword_header" name="search_keyword_header" type="text" value="Search...." onfocus="blank(this)" onblur="unblank(this)" class="txtfld">
+              	<!--<input id="search_keyword_header" name="search_keyword_header" type="text" value="Search...."  onfocus="blank(this)" onblur="unblank(this)" class="txtfld"/> -->
+			<input id="search_keyword_header" name="search_keyword" type="text" value="Search...." onfocus="blank(this)" onblur="unblank(this)" class="txtfld" style="height:26px; *height:26.5px;">
+		 <input type="hidden" name="word" id="word" value="2">
+		  <input type="hidden" name="all" id="all" value="yes">
                 <div class="floatlt">
 					<a href="javascript:searchText();"><img src="/public/images/btn_srch_go.gif" alt="" border="0"></a>
+					
+			
 				</div>
-				<div class="floatrt"><a href="/index/advancedsearch/" title="Advanced Search">Advanced Search</a></div>
-             </div>
+				</div>
 			 </form>
-        </div>
+			         </div>
+					<!--  <div class="floatrt"><a name="modal" href="#dialog1" title="Advanced Search">Advanced Search</a></div>-->
+					<div class="floatrt"></div>
+			 
 	</div>
     <!--END: Header Container -->
 
@@ -76,6 +129,7 @@ a JavaScript enabled browser.</div></noscript><script type="text/javascript" src
 		<a title="Testimonials" href="/aboutus/testimonials">Testimonials</a>
 		<!-- | <a title="Careers" href="/careers/">Careers</a> --> |
 		<a title="Contact Us" href="/aboutus/contactus/">Contact Us</a> |
+
 					<a title="Library Login" href="/epublish/" class="logout">Login</a>
 					</div>
 	</div>
@@ -91,7 +145,7 @@ a JavaScript enabled browser.</div></noscript><script type="text/javascript" src
             <li class=""><a title="Custom Research" href="/index/customresearch/">Custom Research</a></li>
             <li class=""><a title="Newslettters" href="/aboutus/newsletters/">Newsletters</a> </li>
             <li class=""><a title="Conferences" href="/conference/">Conferences</a></li>
-	    
+
         </ul>
     </div>
 	</div>
@@ -103,7 +157,7 @@ a JavaScript enabled browser.</div></noscript><script type="text/javascript" src
 
 <!--STARTS: Content Div -->
 <div class="report_top_div">
-	 <p>Our postal address is 35 Walnut St., Suite 100, Wellesley, MA 02481. We can be reached via e-mail at <a href="mailto:sales@bccresearch.com"><b>
+	 <p>Our postal address is BCC Research LLC, 49 Walnut Park, Building 2, Wellesley, MA 02481. We can be reached via e-mail at <a href="mailto:sales@bccresearch.com"><b>
 	 sales@bccresearch.com</b></a>, by <b>phone</b> at <b>866-285-7215</b> and by <b>fax</b> at <b>781-489-7308</b></p>
 
 	 <p>The information we collect is used to improve the content of our Web site, used to notify consumers about updates to our Web site, shared with other reputable organizations to help them contact consumers for marketing purposes, and used by us to contact consumers for marketing purposes.  </p>
@@ -140,8 +194,8 @@ a JavaScript enabled browser.</div></noscript><script type="text/javascript" src
 
 <!--footer start New-->
 <div id="footer">
-	<div class="lt">
-	All transactions on our web site are conducted on a Secure SSL Server.<br>
+	<div class="lt"> 
+	All transactions on our website are conducted on a Secure SSL Server.<br>
 	<a href="/about.php" title="About Us">About us</a> | <a href="/pressroom/" title="Press Room">
 	Press Room</a> | <a title="View Analysts Profiles" href="/aboutus/bccanalysts">View Analysts Profiles</a> |
 	<a href="/careers/" title="Careers">Careers</a> | <a href="/aboutus/contactus/" title="Contact Us">
@@ -174,4 +228,4 @@ pageTracker._initData();
 pageTracker._trackPageview();
 </script>
 
-<div id="calendar_div"></div></body></html>
+</body></html>
