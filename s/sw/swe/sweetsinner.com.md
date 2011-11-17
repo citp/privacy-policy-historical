@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sweetsinner.com privacy policy that was archived on 2011-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110202003056id_/http%3A//theater.aebn.net/dispatcher/helpPrivacyPolicy%3FtheaterId%3D62681) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetsinner.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117041837id_/http%3A//theater.aebn.net/dispatcher/helpPrivacyPolicy%3FtheaterId%3D62681) for the most accurate reproduction.*
 
 # Privacy | sweetsinner.com
 
