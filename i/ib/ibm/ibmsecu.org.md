@@ -1,86 +1,97 @@
-> *The following text is extracted and transformed from the ibmsecu.org privacy policy that was archived on 2005-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051219043758id_/http%3A//ibmsecu.org/htm/disclosures/231824_Privacy_Brochure.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibmsecu.org privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117171938id_/https%3A//www.ibmsecu.org/content/download/365/1924/Privacy%2BPolicy.pdf) for the most accurate reproduction.*
 
-# Your Rights toConfidentiality
+# FACTS
 
-   Authorized Sharing –
-   Outside Marketing Services
-   We may disclose the following information to companies
-   that perform marketing services on our behalf:
-   ♦ Information about your transactions with us, such as:
-         – Name
-         – Address
-         – Account balances
-         – Types of accounts
-         – Credit card usage
-   We disclose the information listed above with companies
-   that perform marketing services on our behalf. You do not
-   have a right to opt out of the disclosure of this information.
-   We may also disclose information about you to other
-   outside marketing services as permitted by law.
-   Types of Businesses
-   Here are the types of businesses with whom we may
-   disclose information for outside marketing purposes:
-   ♦ Service providers that perform marketing
-     services for us, such as:
-         – Marketing Research companies
-   Reasons For Disclosing
-   We may disclose information about you to companies that
-   perform marketing services on our behalf to provide you
-   with information about additional products and services.
-                     www.ibmsecu.org                              Your Rights to
-                                                                  Confidentiality
-          P.O. Box 5090, Boca Raton, FL 33431-0890
-                       For more information:
-                        www.ibmsecu.org
-              (800) 873-5100 or (561) 982-4700
-                    serviceplus@ibmsecu.org
-A1192 1/04
+                                                                                                                                     Rev. 12/2010
+                               WHAT DOES IBM SOUTHEAST EFCU DO WITH YOUR PERSONAL
+ FACTS                         INFORMATION?
+ Why?                          Financial companies choose how they share your personal information. Federal law gives consumers
+                               the right to limit some but not all sharing. Federal law also requires us to tell you how we collect,
+                               share, and protect your personal information. Please read this notice carefully to understand what we
+                               do.
+ What?                         The types of personal information we collect and share depend on the product or service you have
+                               with us. This information can include:
+                                 l Social Security number                                    l Transaction or loss history
+                                 l Account balances                                          l Credit card or other debt
+                                 l Payment history                                           l Wire transfer instructions
+ How?                          All financial companies need to share Members' personal information to run their everyday business.
+                               In the section below, we list the reasons financial companies can share their Members' personal
+                               information; the reasons IBM Southeast EFCU chooses to share; and whether you can limit this
+                               sharing.
+    Reasons we can share your personal information                           Does IBM Southeast EFCU              Can you limit this sharing?
+                                                                                            share?
+ For our everyday business purposes -                                                          Yes                           No
+ such as to process your transactions, maintain your
+ account(s), respond to court orders and legal
+ investigations, or report to credit bureaus
+ For our marketing purposes -                                                                  Yes                           Yes
+ to offer our products and services to you
+ For joint marketing with other financial companies                                             No                       We don't share
+ For our affiliates' everyday business purposes -                                              Yes                           No
+ information about your transactions and experiences
+ For our affiliates' everyday business purposes -                                              Yes                           Yes
+ information about your creditworthiness
+ For our affiliates to market to you                                                           Yes                           Yes
+ For nonaffiliates to market to you                                                             No                       We don't share
+ To limit our                    l Call (800) 873-5100 or (561) 982-4700 - our menu will prompt you through your choice(s)
+ sharing                         l Email us at: serviceplus@ibmsecu.org
+                               Please note:
+                               If you are a new Member, we can begin sharing your information 30 days from the date we sent this
+                               notice. When you are no longer a Member, we continue to share your information as described in this
+                               notice.
+                               However, you can contact us at any time to limit our sharing.
+ Questions?                    Call (800) 873-5100 or (561) 982-4700 or email serviceplus@ibmsecu.org
+Privacy Model Disclosure                                                                                                         PRIV-MODEL 8/1/2010
+VMP® Bankers Systems™
+Wolters Kluwer Financial Services © 2010                               2010.3/2905 2658137-010 Custom EPRV2905                           Page 1 of 2
 
 
-Notice of Your Financial Privacy Rights                          The Confidentiality, Security,
-We, our, and us, when used in this notice, mean                  and Integrity of Your Information
-IBM Southeast Employees’ Federal Credit Union.                   We restrict access to information about you to those employees
-This is our privacy notice for our Members. When we              who need to know that information to provide products
-use the words “you” and “your” we mean the following             or services to you. We maintain physical, electronic, and
-types of Members:                                                procedural safeguards to protect this information.
-♦ Our Consumer Members who have a continuing                     Your Information and Our Affiliates
-  relationship by purchasing or holding financial                We may disclose information about you to our affiliates. Here
-  products or services such as a(n):                             are the kinds of information and the source of that information:
-      – Share account
-                                                                 Transaction and experience information from
-      – Loan account
-                                                                 our account records:
-      – Credit card account
-      – Safe deposit box                                         ♦ Information about your transactions
-      – Automobile lease we service                                and experience with us, such as:
-      – Financial, investment, or economic advisory services           – Name
-      – Mortgage brokerage services                                    – Address
-We will tell you the sources of the information we               Federal law allows us to disclose the information listed above
-collect about you. We will tell you what measures                with our affiliates. You do not have a right to opt out of the
-we take to secure that information.                              disclosure of this information.
-                                                                 Types Of Affiliates
-We First Define Some Terms.                                      We may disclose information about you to the
-Nonpublic personal information means information about you       following types of affiliates:
-that we collect in connection with providing a financial product
-                                                                 ♦ Financial service providers, such as:
-or service to you. Nonpublic personal information does not
-                                                                       – Credit Union Service Organization (CUSO)
-include information that is available from public sources, such
-as telephone directories or government records. Hereafter, we    Reasons For Disclosure
-will use the term “information” to mean nonpublic personal       We may disclose information about you to our affiliates
-information as defined in this section.                          to provide you with information about additional products
-                                                                 and services.
-An affiliate is a company we own or control.
-A nonaffiliated third party is a person we do not employ or a    Your Information and Other Parties
-company that is not an affiliate of ours. This is also known as  We will not disclose information about you to anyone
-nonaffiliated third party, or simply, an “other party.”          except as disclosed in this policy or as permitted by law.
-                                                                 Examples of this might include disclosures necessary to
-The Information We Collect                                       service your account or prevent unauthorized transactions.
-We collect information about you from the following sources:
-♦ Information you give us on applications or other forms         Information About Former Members
-♦ Information about your transactions with us                    We do not disclose information about former members,
-♦ Information about your transactions with our affiliates        except as permitted by law.
-♦ Information about your transactions with other parties
-♦ Information from a consumer reporting agency
-♦ Information we receive through our Customer
-  Identification Program (CIP)
+ Page 2
+ Who We Are
+ Who is providing this notice?           IBM Southeast EFCU means IBM Southeast Employees' Federal Credit Union.
+ What We Do
+ How does IBM Southeast EFCU To protect your personal information from unauthorized access and use, we use
+ protect my personal                     security measures that comply with federal law. These measures include computer
+ information?                            safeguards and secured files and buildings.
+ How does IBM Southeast EFCU We collect your personal information, for example, when you
+ collect my personal information? l Open an account                                              l Make a wire transfer
+                                           l Apply for a loan                                    l Show your government-issued ID
+                                           l Give us your income information
+                                         We also collect your personal information from others, such as credit bureaus,
+                                         affiliates, or other companies.
+ Why can't I limit all sharing?          Federal law gives you the right to limit only
+                                           l sharing for affiliates' everyday business purposes - information about your
+                                              creditworthiness
+                                           l affiliates from using your information to market to you
+                                           l sharing for nonaffiliates to market to you
+                                         State laws and individual companies may give you additional rights to limit sharing.
+                                         See below for more on your rights under state law.
+ What happens when I limit               Your choices will apply to everyone on your account.
+ sharing for an account I hold
+ jointly with someone else?
+ Definitions
+ Affiliates                              Companies related by common ownership or control. They can be financial and
+                                         non-financial companies.
+                                           l Our affiliates include: Southeast Services Organization, Inc. (SESO)
+                                               l Financial, insurance and survey companies
+ Nonaffiliates                           Companies not related by common ownership or control. They can be financial and
+                                         non-financial companies.
+                                           l IBM Southeast EFCU does not share with nonaffiliates so they can market to
+                                              you.
+ Joint Marketing                         A formal agreement between nonaffiliated financial companies that together market
+                                         financial products or services to you.
+                                           l IBM Southeast EFCU doesn't jointly market.
+ Other Important Information
+ For Alaska, Illinois, Maryland and North Dakota Members. We will not share personal information with
+ nonaffiliates either for them to market to you or for joint marketing - without your authorization.
+ For California Members. We will not share personal information with nonaffiliates either for them to market to you or
+ for joint marketing - without your authorization. We will also limit our sharing of personal information about you with
+ our affiliates to comply with all California privacy laws that apply to us.
+ For Massachusetts, Mississippi and New Jersey Members. We will not share personal information from deposit or
+ share relationships with nonaffiliates either for them to market to you or for joint marketing - without your authorization.
+ For Vermont Members. We will not share personal information with nonaffiliates either for them to market to you or
+ for joint marketing - without your authorization, and we will not share personal information with affiliates about your
+ creditworthiness without your authorization.
+Privacy Model Disclosure                                                                                                 PRIV-MODEL 8/1/2010
+VMP® Bankers Systems™
+Wolters Kluwer Financial Services © 2010                       2010.3/2905 2658137-010 Custom EPRV2905                           Page 2 of 2
