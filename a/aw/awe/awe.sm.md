@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awe.sm privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616022443id_/http%3A//totally.awe.sm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awe.sm privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117042103id_/http%3A//totally.awe.sm/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Analytics For Social Media - awe.sm
 
