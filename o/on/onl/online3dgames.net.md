@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the online3dgames.net privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608051630id_/http%3A//www.online3dgames.net/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online3dgames.net privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117231924id_/http%3A//www.online3dgames.net/pages/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Online3DGames.net
 
 **Privacy Policy – online3dgames.net -**  
-If you require any more information about our privacy policy, please feel free to contact us at sam.player@ymail.com. The privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.online3dgames.net and how it is used. 
+If you require any more information about our privacy policy, please feel free to contact us at sam.player@ymail.com. The privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.online3dgames.net and how it is used.
 
-**Cookies –**  
+ **Cookies –**  
 Our site use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 **DoubleClick DART Cookie –**  
@@ -19,3 +19,6 @@ Our website has links to partners and other sites. When you visit another site, 
 
 **Security –**  
 We protect personal information against such risks as loss or theft, unauthorized access, disclosure, copying, use, modification or destruction, through appropriate security measures. 
+
+  
+
