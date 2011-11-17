@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inthepowderroom.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511231301id_/http%3A//www.inthepowderroom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inthepowderroom.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117143332id_/http%3A//www.inthepowderroom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Women's Online Community | In the Powder Room
 
