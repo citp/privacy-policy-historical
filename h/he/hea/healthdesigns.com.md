@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthdesigns.com privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419160702id_/http%3A//www.healthdesigns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthdesigns.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117133955id_/http%3A//www.healthdesigns.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | healthdesigns.com - Your Health Is Here
 
 HealthDesigns International is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. HealthDesigns International collects information from our users at several different points on our website.
 
