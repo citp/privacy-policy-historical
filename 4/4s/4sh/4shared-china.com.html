@@ -1,12 +1,13 @@
-<!--The following is the downloaded HTML source of the 4shared-china.com privacy policy that was archived on 2011-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110522021815id_/http%3A//www.4shared-china.com/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 4shared-china.com privacy policy that was archived on 2011-11-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111117041236id_/http%3A//www.4shared-china.com/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>4shared.com - free file sharing and storage - Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="Description" content="Online file sharing and storage - 10 GB free web space. Easy registration. File upload progressor. Multiple file transfer. Fast download.">
 <meta name="Keywords" content="file sharing, free web space, online storage, share files, photo image music mp3 video sharing, dedicated hosting, enterprise sharing, file transfer, file hosting">
-<link rel="stylesheet" type="text/css" href="http://static.4shared-china.com/css/main.css?ver=3571">
+<script type="text/javascript" src="/js/jquery-1.4.4.min.js"></script>
+<link rel="stylesheet" type="text/css" href="http://static.4shared-china.com/css/main.css?ver=8753">
 </head>
 <body>
 
@@ -19,6 +20,7 @@
 
 
 
+<script type="text/javascript" src="http://static.4shared-china.com/js/jquery-1.4.4.min.js"></script>
 
 
 <link rel="stylesheet" type="text/css" media="screen" href="http://static.4shared.com/bundles/css/630963420/css/openid.css">
@@ -37,17 +39,155 @@
 
 
 
-<script type="text/javascript" src="http://static.4shared.com/bundles/js/2094842698/bundles/js/global.js"></script>
+<script src="http://static.4shared-china.com/js/json2.js" type="text/javascript"></script>
+<script src="http://static.4shared-china.com/js/plugins/jquery.caps.js" type="text/javascript"></script>
+<script src="http://static.4shared-china.com/js/plugins/jquery.openid.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://static.4shared.com/bundles/js/1972285700/bundles/js/global.js"></script>
 
+<script type="text/javascript" src="http://static.4shared.com/bundles/js/N984828520/js/Events.js"></script>
 
+<link rel="stylesheet" type="text/css" href="/auth-popup.css">
 
 <script type="text/javascript">
+  var eventObj;
+  var paramsObj;
+
+  var authBox;
+
   var loginBox;
   var signUpBox;
-  var eventObj;
   var df;
   var sd = '';
   var su;
+  var sn = 'www.4shared-china.com';
+
+  function authenticate(e, params){
+    eventObj = {};
+    for (var i in e) eventObj[i] = e[i];
+
+    paramsObj = {};
+    for (var p in params) paramsObj[p] = params[p];
+
+    var sp = escape(JSON.stringify(params));
+
+    document.body.style.cursor = 'wait';
+    $('#authBoxDiv').load('/authPopup.jsp',
+        {login : '', password : '', params: sp},
+        function(){
+          $('body').css('cursor', '');
+          writeDrag.hide();
+          authBox = new WriteDrag('authBoxDiv');
+          authBox.set(eventObj, undefined, 522, 'c', 'c');
+          $('#authBoxDiv').show();
+          $('form.openid:eq(0)').openid();
+        }
+    );
+    return false;
+  }
+
+  function authSaveParams(params){
+    $('#authBoxDiv').hide();
+    var sp = escape(JSON.stringify(params));
+    Cookies.create('jsParams', sp, -1, '/', '.4shared-china.com', false);
+    if(params.returnTo){
+      Cookies.create('returnTo', params.returnTo, -1, '/', '.4shared-china.com', false);
+    }
+  }
+
+  function authLogin(){
+    var login = $('#loginfield').val();
+    var password = $('#passfield').val();
+    var err = '';
+
+    if(login == ''){
+      err = loginFnc.msgEmptyEmail;
+    }else if (password == ''){
+      err = loginFnc.msgEmptyPassword;
+    }
+
+    $('#authBoxDiv #signupErrorMsg').html('').hide();
+    $('#authBoxDiv #loginErrorMsg').html(err);
+    if(err){
+      $('#authBoxDiv #loginErrorMsg').show();
+      return false;
+    }else{
+      $('#authBoxDiv #loginErrorMsg').hide();
+    }
+
+    var params = {
+        login: login,
+        password: password,
+        remember: false,
+        doNotRedirect: 1
+    };
+    document.body.style.cursor = 'wait';
+    $.get('http://www.4shared-china.com/login?callback=?',
+      params,
+      function(data){
+        $("body").css("cursor", "auto");
+        if(data.ok){
+          authSaveParams(paramsObj);
+          loginFnc.redirect(data.redirectUrl || loginFnc.getLocation());
+        }else{
+          $('#authBoxDiv #loginErrorMsg').html(data.rejectReason).show();
+        }
+      },
+      "jsonp"
+    );
+    return false;
+  }
+
+  function authSignUp(){
+    var login = $('#signupEmailField').val();
+    var password = $('#signupPassField').val();
+    var password2 = $('#signupPassFieldRepeat').val();
+    var err = '';
+
+    if(login == ''){
+      err = loginFnc.msgEmptyEmail;
+    }else if (password == ''){
+      err = loginFnc.msgEmptyPassword;
+    }else if (password2 == ''){
+      err = loginFnc.msgEmptyPassword2;
+    }else if (password != password2){
+      err = loginFnc.msgPasswordsDontMatch;
+    }else if (!loginFnc.checkEmail(trim(login))){
+      err = loginFnc.msgIncorrectEmail + ' ' + loginFnc.msgTryAgain;
+    }
+
+    $('#authBoxDiv #loginErrorMsg').html('').hide();
+    $('#authBoxDiv #signupErrorMsg').html(err);
+    if(err){
+      $('#authBoxDiv #signupErrorMsg').show();
+      return false;
+    }else{
+      $('#authBoxDiv #signupErrorMsg').hide();
+    }
+
+    var params = {
+      login: login,
+      password: password,
+      password2: password2,
+      successUrl: unescape(paramsObj.returnTo)
+    };
+
+    $("body").css("cursor", "progress");
+    $.get('http://www.4shared-china.com/signup?callback=?',
+      params,
+      function(data){
+        $("body").css("cursor", "auto");
+        if(data.ok){
+          authSaveParams(paramsObj);
+          loginFnc.redirect(data.redirectUrl || loginFnc.getLocation());
+        }else{
+          $('#authBoxDiv #signupErrorMsg').html(data.rejectReason).show();
+        }
+      },
+      "jsonp"
+    );
+    return false;
+  }
+
   function loadAndShowSignUpBox(e, dfp, sup){
     var signUpInDiv = true;
     if(!signUpInDiv){
@@ -81,16 +221,20 @@
     }
     if(typeof dragObj == 'undefined'){
       $lab = $LAB
-              .script('http://static.4shared-china.com/js/dw_event.js?ver=3572')
-              .script('http://static.4shared-china.com/js/dw_viewport.js?ver=3572')
-              .script('http://static.4shared-china.com/js/dw_writedrag.js?ver=3572')
-              .script('http://static.4shared-china.com/js/dw_drag.js?ver=3572')
+              .script('http://static.4shared-china.com/js/dw_event.js?ver=8753')
+              .script('http://static.4shared-china.com/js/dw_viewport.js?ver=8753')
+              .script('http://static.4shared-china.com/js/dw_writedrag.js?ver=8753')
+              .script('http://static.4shared-china.com/js/dw_drag.js?ver=8753')
+              .wait();
+    }
+    if(typeof $.openid == 'undefined'){
+      $lab = $LAB
+              .script('http://static.4shared-china.com/js/plugins/jquery.openid.js?ver=8753')
               .wait();
     }
     if(typeof loginFnc == 'undefined'){
       $lab = $LAB
-              .script('http://static.4shared-china.com/js/plugins/jquery.openid.js?ver=3572')
-              .script('http://static.4shared-china.com/js/login_fnc.js?ver=3572')
+              .script('http://static.4shared-china.com/js/login_fnc.js?ver=8753')
               .wait(function(){
                 loginFnc.msgEmail = 'your e-mail';
                 loginFnc.msgOpenIdAccount = 'your OpenID account';
@@ -189,12 +333,18 @@
     }
     if(typeof loginFnc == 'undefined'){
       $lab = $LAB
-        .script('http://static.4shared-china.com/js/login_fnc.js?ver=3572')
+        .script('http://static.4shared-china.com/js/login_fnc.js?ver=8753')
         .wait(function(){
           loginFnc.signOut(serverURL);
+          if(serverURL != sn){
+            loginFnc.signOut('/');
+          }
         });
     }else{
       loginFnc.signOut(serverURL);
+      if(serverURL != sn){
+        loginFnc.signOut('/');
+      }
     }
     return false;
   }
@@ -208,7 +358,7 @@
     }
     if(typeof loginFnc == 'undefined'){
       $lab = $LAB
-        .script('http://static.4shared-china.com/js/login_fnc.js?ver=3572')
+        .script('http://static.4shared-china.com/js/login_fnc.js?ver=8753')
         .wait(function(){
           loginFnc.goToAccount();
         });
@@ -228,9 +378,33 @@
 </script>
 
 <script type="text/javascript">
-  $(function() {
-    addCapsChecking();
+  $(function(){
+    if(Cookies['jsParams']){
+      var p = JSON.parse(unescape(Cookies['jsParams']));
+      if(p.after){
+        if(!event){
+          var event = {length: 0};
+        }
+        eval(p.after);
+      }
+      Cookies.erase('jsParams', '/', '.4shared-china.com');
+    }
   });
+</script>
+
+<script type="text/javascript">
+  $(function() {
+    if(typeof jQuery != 'undefined'){
+      addCapsChecking();
+    }
+    $('#loginfield, #passfield').keypress(function(event) {
+      if (event.which != '13') return true;
+
+      var form = $(this).parents('form:first');
+      $('input[type=submit]', form).click();
+      return false
+    })
+  })
 </script>
 
 
@@ -403,18 +577,26 @@
     </div>
     <div id="signUpBoxDiv" style="visibility:hidden;">
     </div>
+    <div id="authBoxDiv" style="visibility:hidden;">
+    </div>
 
 
           <div class="large green" style="padding-left:20px">4shared Privacy Policy</div>
             <div style="padding-top:20px;margin-right:20px;margin-left:20px;text-align:justify;">
                 <br>
-                4shared is the official trademark of pmStation. Your use of the www.4shared.com site is governed by 4shared Terms of Use and this Privacy Policy. The purpose of this Privacy Policy is to disclose what services we provide, how the information you store at 4shared may be used, and how such information is both protected and made available on our Web site.
+                4shared is the official trademark of New IT Solutions LTD. Your use of www.4shared.com site is governed by 4shared
+                Terms of Use and this Privacy Policy. The purpose of this Privacy Policy is to disclose what services we
+                provide, how the information you store at the 4shared may be used, and how such information is both
+                protected and made available on our Web site.
                 <br><br>
-                This privacy policy may change from time to time, so you are encouraged to check the page regularly. pmStation will operate this Web site according to the Privacy Policy that is posted at the time.
+                This privacy policy may change from time to time, so you are encouraged to check the page regularly.
+                New IT Solutions LTD will operate this Web site according to the Privacy Policy that is posted at the time.
                 <br><br>
 
                 <b>Information we Receive When you Register</b><br><br>
-                pmStation stores your E-mail and Password you create for yourself when you register with 4shared and First and Last Names if they are indicated in the User Profile. We also use your IP address for internal purposes (for covering the download limitation and user sessions).
+                New IT Solutions LTD stores your E-mail and Password you create for yourself when you register with 4shared and
+                First and Last Names if they are indicated in User Profile. We also use your IP address for internal
+                purposes (for covering the download limitation and user sessions).
                 <br><br>
 
                 <b>Your Virtual Drive</b><br><br>
@@ -424,7 +606,11 @@
                 <br><br>
 
                 <b>Web-Server Log and Cookies</b><br><br>
-                pmStation collects information about the areas and pages of the 4shared website you visit. We also collect information such as your operating system, browser version and the size of your screen. We analyze this data to determine what is of interest to our users as a group, and thereby improve our website. This information is collected in the form of the usual web server logs and cookies. 4shared also collects this information to make the website viewable and useful for the majority of our clients.
+                New IT Solutions LTD Company collects information about the areas and pages of the 4shared website you visit. We
+                also collect information such as your operating system, browser version and the size of your screen. We
+                analyze this data to determine what is of interest to our users as a group, and thereby improve our
+                website. This information is collected in the form of the usual web server logs and cookies. 4shared
+                also collects this information to make the website viewable and useful for the majority of our clients.
                 <br><br>
                 Our website utilizes a non-persistent cookie to track your session with our web site. This is an encrypted number, generated when you visit any site that supports sessions. This is a session cookie. It helps 4shared track your sessions and store persistent information to make your visit to our site smoother. This cookie is saved permanently on your PC. This data does not contain any secure information (just an encrypted string). Additionally, we set a cookie when you log in to make further logging into our system a little easier. At no time are cookies used to track where you have been either before or after your visit to our website. No other website can access any information about you from the cookies we may store on your local computer. We do not share cookies or any other type of information with any other companies.
                 <br><br>
@@ -438,7 +624,13 @@
                 <br><br>
 
                 <b>How we protect your information</b><br><br>
-                Any information collected and processed with pmStation is treated with the utmost confidentiality. pmStation will not sell or rent out any personal information gathered from clients. We will make no public release of any personal information that is collected through our proprietary file sharing tool. All client-specific information gathered through pmStation will be the property of the user. To prevent unauthorized access or disclosure, to maintain data accuracy and to ensure the appropriate use of information, we have put into place physical, electronic and managerial procedures to safeguard the information that we collect online. We use encryption when collecting or transferring data.
+                Any information collected and processed with New IT Solutions LTD is treated with the utmost confidentiality.
+                New IT Solutions LTD will not sell or rent out any personal information gathered from clients. We will make no
+                public release of any personal information that is collected through our proprietary file sharing tool.
+                All client-specific information gathered through New IT Solutions LTD will be the property of the user. To
+                prevent unauthorized access or disclosure, to maintain data accuracy and to ensure the appropriate use
+                of information, we have put into place physical, electronic and managerial procedures to safeguard the
+                information that we collect online. We use encryption when collecting or transferring data.
                 <br><br>
                 Automated and scheduled backups for premium users make the service considerably more reliable. Daily copying of the information will help you avoid any unpleasant consequences.
                 <br><br>
@@ -464,7 +656,12 @@
                 <br><br>
 
                 <b>Third Party Web Sites</b><br><br>
-                The 4shared website may contain links to Internet sites and services that are maintained by third parties. These sites may have privacy and security policies that are different from those followed by pmStation. pmStation has no control over these sites and is not responsible or liable for the policies and practices followed by such third parties. When you visit any site outside www.4shared.com this Privacy Policy is no longer valid, while the Privacy Policy of the current site you are visiting comes into force.
+                4shared website may contain links to Internet sites and services that are maintained by third parties.
+                Those sites may have privacy and security policies that are different from those followed by New IT Solutions LTD.
+                The New IT Solutions LTD has no control over those sites and is not responsible or liable for the policies and
+                practices followed by such third parties. When you visit any site outside www.4shared.com this Privacy
+                Policy is no longer valid, while the Privacy Policy of the current site you are visiting comes into
+                force.
                 <br><br>
 
                 <b>The Feedback Form</b><br><br>
@@ -513,9 +710,9 @@
     <a href="http://blog.4shared.com/" target="_blank">Blog</a>
 </div>
 <div class="copy">
-    Copyright <span title="dc329, rev=3571">©</span> 2005-2011 4shared.com 
+    Copyright <span title="dc330, rev=8753">©</span> 2005-2011 4shared.com 
 </div>
-<!-- www.currDcID=329 -->
+<!-- www.currDcID=330 -->
 </td>
 </tr>
 </tbody></table>
@@ -550,7 +747,7 @@ escape(document.referrer)+((typeof(screen)=="undefined")?"":
 ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
 screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
 ";"+Math.random()+
-"' width=1 height=1 alt='' style='display:none'>")//--></script><img src="http://counter.yadro.ru/hit?r;s800*600*24;uhttps%3A//web.archive.org/web/20110522021815id_/http%253A//www.4shared-china.com/privacy.jsp;0.5784171007385173" width="1" height="1" alt="" style="display:none"><!--/LiveInternet-->
+"' width=1 height=1 alt='' style='display:none'>")//--></script><img src="http://counter.yadro.ru/hit?r;s800*600*24;uhttps%3A//web.archive.org/web/20111117041236id_/http%253A//www.4shared-china.com/privacy.jsp;0.2122644078966187" width="1" height="1" alt="" style="display:none"><!--/LiveInternet-->
 
 <!-- Start Quantcast tag -->
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
