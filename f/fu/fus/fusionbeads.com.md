@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fusionbeads.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511224313id_/http%3A//www.fusionbeads.com/shop/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fusionbeads.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117195640id_/http%3A//www.fusionbeads.com/shop/privacypolicy.php) for the most accurate reproduction.*
 
 # Fusion Beads, bead, beading, sterling, seed beads, charm, swarovski, lampwork, glass, jewelry, pearls - FusionBeads.com
 
