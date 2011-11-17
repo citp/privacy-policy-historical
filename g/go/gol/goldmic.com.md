@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldmic.com privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003045746id_/http%3A//www.goldmic.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldmic.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117160117id_/http%3A//goldmic.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Goldmic: The Hip-Hop Network: Privacy Policy
 
