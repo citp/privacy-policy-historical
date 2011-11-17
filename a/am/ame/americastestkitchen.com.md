@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the americastestkitchen.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612053256id_/http%3A//www.americastestkitchen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americastestkitchen.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117013512id_/http%3A//www.americastestkitchen.com/privacy) for the most accurate reproduction.*
 
 # America’s Test Kitchen :: Privacy
 
-We at America’s Test Kitchen (and related brands including _Cook’s Illustrated_ and _Cook’s Country_ ) are committed to respecting your privacy. We recognize the need for appropriate protection of personally identifiable information (any information by which you can be identified, including name, address, e-mail address, or credit card information). The purpose of this privacy policy is to inform you of what personally identifiable information or personal information we may collect from you when you visit our websites, and how we use such information. This policy applies only to users accessing our websites from the United States. To protect your privacy, we have adopted the following principles, and assure you that we take reasonable steps to see that it is followed within our company:
+We at America’s Test Kitchen (and related brands including _Cook’s Illustrated_ and _Cook’s Country_ ) are committed to respecting your privacy. We recognize the need for appropriate protection of personally identifiable information (any information by which you can be identified, including name, address, e-mail address, or credit card information). The purpose of this privacy policy is to inform you of what personally identifiable information or personal information we may collect from you when you visit our websites, and how we use such information. This policy applies only to users accessing our websites from the United States.
+
+To protect your privacy, we have adopted the following principles, and assure you that we take reasonable steps to see that it is followed within our company:
 
 ##### Information About You
 
-There are times when we may collect personal information from you. For example, when you register with America’s Test Kitchen for one of our websites, electronic newsletters, product giveaways, surveys, or other services, personal information is requested. If you choose not to provide the information we request, you can still visit parts of our websites, but you may be unable to access certain content, offers, and services.
+There are times when we may collect personal information from you. For example, when you register with America’s Test Kitchen for one of our websites, cooking courses, wine program, electronic newsletters, product giveaways, surveys, or other services, personal information is requested. If you choose not to provide the information we request, you can still visit parts of our websites, but you may be unable to access certain content, offers, and services.
 
 ##### Use of Information About You
 
-From time to time, we are approached by companies or organizations that have a product or service that we believe might be of interest to you. We may share some your information with these companies so that they can communicate their products or services to you (we never share telephone or credit card numbers with any third party).
+From time to time, we are approached by companies or organizations that have a product or service that we believe might be of interest to you. We may share some your information with these companies so that they can communicate their products or services to you (we never share telephone or credit card numbers with any third party). You may receive a telemarketing sales call although your number is listed on the state or national ‘Do Not Call’ list. Please note the law allows contact if the two parties already do business or have done business in the recent past.
 
 Your e-mail address is added to our electronic mailing list so that, from time to time, we can send you our newsletter or information about additions and special promotions from America’s Test Kitchen.
 
-E-mail addresses registered to our TV show websites are sometimes shared with third party underwriters of our television shows. Registrants have the opportunity to opt-out of these third party communications at the time that they register. E-mail addresses submitted to CooksIllustrated.com or CooksCountry.com are not shared with third parties.
+E-mail addresses registered to our TV show websites are sometimes shared with third party underwriters of our television shows. Registrants have the opportunity to opt-out of these third party communications at the time that they register. E-mail addresses registered to CooksIllustrated.com or CooksCountry.com are not shared with third parties.
 
 ##### Accuracy
 
@@ -37,7 +39,7 @@ If you have any questions about this privacy statement, the practices of this si
 America’s Test Kitchen  
 Customer Service  
 17 Station St.  
-Brookline, MA 02143  
+Brookline, MA 02445  
 617-232-1000 
 
 ##### Your California Privacy Rights
