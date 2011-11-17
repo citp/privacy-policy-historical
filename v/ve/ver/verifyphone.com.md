@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verifyphone.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519221903id_/http%3A//www.verifyphone.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verifyphone.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117095924id_/http%3A//www.verifyphone.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | VerifyPhone.com
 
