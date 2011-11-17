@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 47brand.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519093350id_/http%3A//www.nineteen47.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 47brand.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117021032id_/http%3A//www.nineteen47.com/privacy) for the most accurate reproduction.*
 
 # '47 - Privacy Policy
 
