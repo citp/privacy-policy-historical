@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the aveva.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422204424id_/http%3A//aveva.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aveva.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117093501id_/http%3A//www.aveva.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - AVEVA
-
-(Revised 2 January 2011) 
+# AVEVA | Privacy Policy
 
 This website is operated by AVEVA Group plc and the AVEVA group of companies, some of which are located in countries outside the European Economic Area. AVEVA and its associated companies will use the information we collect from you in accordance with this policy. A list of our associated companies is available on request.
 
@@ -18,7 +16,7 @@ Any changes to this privacy policy will be clearly notified on this website.
 
 ## Contact
 
-If at any time you would like us to stop sending you information about AVEVA’s products and services, or you have any comments, queries or requests relating to our use of your information, please let us know by using the [Contact Us](https://web.archive.org/web/20110422204424id_/http%3A//aveva.com/contact_us.php) page on this website.
+If at any time you would like us to stop sending you information about AVEVA’s products and services, or you have any comments, queries or requests relating to our use of your information, please let us know by using the [Contact Us](https://web.archive.org/Contact.aspx "Contact AVEVA") page on this website.
 
 ## AVEVA's use of cookies
 
@@ -32,4 +30,4 @@ Google will use this information for the purpose of evaluating your use of the w
 
 By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
- 
+_(Revised 2 January 2011)_
