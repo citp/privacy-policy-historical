@@ -1,56 +1,62 @@
-> *The following text is extracted and transformed from the activeevents.com privacy policy that was archived on 2009-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090707094424id_/http%3A//www.activenetwork.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activeevents.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117052003id_/http%3A//www.activeevents.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - The Active Network
+# 
 
-Active recognizes that privacy is important. This Privacy Policy applies to all of the websites and products owned and/or operated by The Active Network, Inc. and its subsidiary and affiliated companies (collectively “Active”) unless expressly noted otherwise. The majority of Active’s websites are intended for a general audience and this policy describes our general use of information. For Active’s websites that may be used by a younger audience, more specific policies applicable to children under the age of 13 will be located on each such site.
+Last Updated 12/07/10
 
-**Collection and Use of Information**
+[The Active Network, Inc.](http://www.activenetwork.com/) and our subsidiaries and affiliates ("Active" or "we") respect your preferences concerning the treatment of personal information that we may collect from your use of the Active products that link to this privacy statement and your interactions with the following named Active Web sites [ActiveEvents.com](http://www.activeevents.com/), [ WingateWeb.com](http://www.wingateweb.com/) (collectively “Web site”) and its associated products Conference, Leads, Console, Mobile and Connect but excluding RegOnline. This statement lets you know how we collect and use your personal information, and how you can control its use. This policy describes the broadest potential use of personal information throughout the named Active Web sites and products that link to this policy and in services that we provide that is consistent with the terms of this statement; however, we may make far less use of your personal information.
 
-Some of Active’s websites permit users, subject further to Active’s online terms of use, to register for events or programs, request information, enter contests, vote in polls or otherwise express opinions or submit comments. As part of such use, you may be asked to register for a free ID and password and to provide certain personally identifying information such as name, address, phone number, email address, birth date, ZIP code, gender, personal interests and credit card information for transactions. Active uses your information to perform transactions, deliver services or information you have requested, and offer you products and services from Active and our trusted partners, programs or services that we believe may be of interest to you. Active also uses your information to contact you when necessary for customer service purposes. We may combine your information that we have with information we obtain from business partners or third parties to provide you with a better product or Active experience. Active may use information relating to your visit or use of our websites, or information you provide to us, for market research purposes in order to continually improve the product and services that Active delivers to you.
+[ ](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.activeevents.com)
 
-If you choose to submit content for publication we may publish your screen name and other information as provided by you or to personalize your user experience. If you register for a competitive event, your name, event entry identification, and interim and final event time results may be made publicly available on any Active website. 
+Active has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@active.com](mailto:privacy@active.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-Active receives and records information on our server logs from your browser, including your IP address, Active cookies (small pieces of information stored by your browser), and the page(s) you request. Active uses this information to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+Active has created this privacy statement to inform you of the information collection practices for this Web site, including what type of information is gathered, how the information is used, and with whom the information is shared. In addition, we explain how Active provides services for our clients as described in “Customer Information and Services Data Privacy” below.
 
-When Active does share your information with our subsidiaries, affiliated companies and trusted businesses or persons, we require that these parties agree to process such information based on our direction and in compliance with appropriate confidentiality and security measures. 
+Active products include services for our clients where our applications collect user data from our business partners, suppliers, clients, their customers/partners, and/or employees to register for events or programs, and request information. Information may include name, address, phone, email, credit card information and other information required to complete the registration or an order. All of these services are expressly provided to the users and data processed on behalf of our clients.
 
-Active also displays targeted advertisements based on personal information. Third party advertisers (including ad-serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria. However, Active does not provide any personal information to the advertiser when you interact with or view a targeted advertisement.
+Active will process the data received on behalf of our clients and use it to fulfill the services requested. Such services include event registration, conference RFID scanning registration, and event reporting.
 
-Except as otherwise described in this Privacy Policy, it is Active's policy not to distribute to third parties any personally identifying information about you without your consent (usually communicated through either an “opt-out” or “opt-in” notification or mechanism). Upon obtaining your consent, Active may provide access to or otherwise disclose your personally identifying information to third parties. However, we may aggregate certain personally identifying information - meaning that the information from many Active users is grouped together in a way that does not disclose the personal information of any particular user – without your consent. 
+When a user is on an application provided by Active and it is privately branded, please note that the information provided on these applications are governed by the third parties’ privacy statement. We encourage you to review the policies of these third parties. The third party’s privacy statement will be linked from our application. To correct, edit or delete information provided through a branded application you must contact the third party. Active operates globally and has hosting centers that may store and process your data in various locations in the United States. Please be assured that Active takes reasonable precautions to protect personal data in these centers and in other locations in the United States from loss, misuse and unauthorized access, disclosure, alteration, and destruction.
 
-You may choose not to submit certain personal information while on our websites, in such instances Active may not be able to provide you with certain services.
+In general, you can visit our Web site without identifying yourself or revealing any personally identifiable information. There are times, however, that you may choose to give us personally identifiable information, such as your name, address, phone number, e-mail address and other information about yourself. For example, if you would like to receive information about Active, our products, or to schedule a demo of one of our products, you will need to provide us with your name, address, phone, email and fax number.
 
-If you are using our services to register for an event, program or to purchase a third party product, Active shares the personal information you provide to applicable third party(ies) to fulfill your request. Each such party operates independently from Active and maintains its own privacy and security policy. Active bears no responsibility from the activities of any such third party to whom Active provides information to process your request and you should contact those third parties directly regarding your preferences for the use of your personal information.
+We allow users to provide us with testimonials. In all cases where personal information is posted to any site, we receive permission to post such information. If you sign up for our e-mail updates, you will need to provide us with your e-mail address when applicable. If you choose to unsubscribe from promotional emails, please click unsubscribe in any promotional email message. We also provide you with the opportunity to e-mail us questions or comments about this Web site and our Company at [ privacy@active.com](mailto:privacy@active.com).
 
-**Legal Disclosures**
+We only use the personally identifiable information which is provided by you through our Web sites to help us improve our services to you, to provide you with the information you have requested, to respond to your questions, and for other internal purposes.
 
-Active may release your personal information to third parties: (a) in order to comply with a valid legal requirement such as in compliance with any law, regulation, search warrant subpoena or court order; or (b) in special cases, when we believe it is necessary to share information in order to investigate, prevent or take action regarding any illegal or unauthorized activities, suspected fraud, situations involving potential threats to the physical safety of any person or violations of our Terms of Use. 
+Active will not sell, rent, or lease your personally identifiable information to third parties unless we have your permission or as described in this privacy policy (see “Business Transitions”). We will only share the personally identifiable information you provide online with other Active entities and/or business partners who are acting on our behalf as service providers (such as marketing partners) for the uses described in this Privacy Statement. Our service providers are prohibited from using your personally identifiable information for their own promotional purposes.
 
-**Information Security**
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web sites. All Active entities and/or business partners having access to your personally identifiable information are subject to this privacy statement with respect to the use of your personally identifiable information.
 
-Active has established and maintains reasonable security procedures to protect the confidentiality, security and integrity of your personally identifiable information, including the use of secure socket layer (SSL) and encryption methods. We regularly evaluate our data collection, storage and processing practices and security to guard against unauthorized access to our systems. You can help to protect your information by safeguarding your Active password and using caution and discretion when posting information on public areas of the sites. 
+In the event Active goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email or prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information. 
 
-Although Active uses commercially reasonable efforts to safeguard your information, transmissions made by means of the Internet cannot be fully secure in all instances and we cannot guarantee that personally identifiable information that we collect will never be disclosed in a manner that is not consistent with this Privacy Policy.
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
 
-More information on Active’s security can be found at: <http://www.activenetwork.com/security.htm>.
+We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-**Unsubscribe**
+If you have any questions about security on our Web site, you can email us at [privacy@active.com](mailto:privacy@active.com)
 
-If addition, if at anytime, you no longer want us to send you any regular communications, you may “opt-out” of such future communications, clicking on the “unsubscribe” link at the bottom of the newsletter or email. To “opt-out” of products, programs, services, or offers from our trusted partners, please contact [privacy@activenetwork.com](mailto:privacy@activenetwork.com). 
+We will respond in a timely manner to your requests to correct inaccuracies in your personal information. To correct inaccuracies or to delete the personal information Active has collected from you send us an e-mail at [ sales@wingateweb.com](mailto:sales@wingateweb.com) with “Remove” in the subject line. We will respond to your request within 30 days.
 
-**Contact Us**
+To correct, edit or delete information provided through a branded application you must contact the third party. Please see “Customer Information and Services Data Privacy” above.
 
-Active regularly reviews its practices regarding personally identifiable information and this Privacy Policy. If you have any questions, comments or concerns, please contact us at:
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
 
-Attn: Privacy Officer  
-The Active Network, Inc.  
+We do not link this automatically-collected data to personally identifiable information. We use a third-party tracking service that uses tracking technologies to track non-personally identifiable information about visitors to our site in the aggregate in order capture usage and volume statistics. We use this information to improve our Web site. 
+
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to your personally identifiable information you submit while on our site. 
+
+Some of our business partners (such as a tracking utility company) use cookies and Web beacons on our sites. We have no access or control of these third party tracking utilities.
+
+From time to time, our Web sites may contain links to other Web sites. If you use these links, you will leave our Web sites. The privacy policies of such other Web sites govern the information collection and dissemination practices occurring on such Web sites. We encourage you to review the policies of these third party sites. 
+
+Questions regarding this Privacy Statement should be directed to Active at [ privacy@active.com](mailto:privacy@active.com).
+
+If we decide to change our privacy statement, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you by means of a notice on our home page. 
+
+The Active Network, Inc.   
 10182 Telesis Court  
-San Diego, CA 92121
-
-[](mailto:privacy@activenetwork.com)[privacy@activenetwork.com](mailto:privacy@activenetwork.com) ****
-
-**Changes**
-
-Active may transfer the personal information collected under this Privacy Policy to a third party in the event of a transfer of ownership such as a merger, acquisition or any form of sale of the majority of the assets of Active. 
-
-Active reserves the right to modify or supplement this privacy policy at anytime without any prior notice to you. If we make any changes, we will update the Active websites and this Privacy Policy to include such change. Please regularly review this Privacy Policy to keep up to date with any changes that may affect your use of the Active Websites. Your continued use of the Active websites once the revised privacy policy has been posted on the websites affirms your agreement to such changes.
+San Diego, CA 92121  
+Attn: ActiveEvents/Privacy Officer
