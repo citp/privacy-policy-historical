@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripmama.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520220657id_/http%3A//www.tripmama.com/default.aspx%3Ftabid%3D62) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripmama.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117175702id_/http%3A//www.tripmama.com/default.aspx%3Ftabid%3D62) for the most accurate reproduction.*
 
 # TripMama Privacy Policy
 
@@ -43,5 +43,4 @@ top
 | Choice/Opt-out  
 ---  
 If you no longer wish to receive our newsletter you may opt-out of receiving them by following the instructions included in each newsletteor by contacting us at the address below. You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.  
-top  
-Privacy Policy last updated on 13 August 2007
+top
