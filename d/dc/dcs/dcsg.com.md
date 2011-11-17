@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dcsg.com privacy policy that was archived on 2010-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100508074304id_/http%3A//www.dickssportinggoods.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcsg.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117151914id_/http%3A//www.dickssportinggoods.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Dick's Sporting Goods
 
@@ -42,7 +42,7 @@ From time to time, we may use the purchases you make to customize our product re
 
 We require your name, billing address, shipping address, email address and telephone number to open an account for you. We may also ask some additional optional questions to help us better serve you. Except as provided in this privacy policy, this account data is never shared with anyone in any way without your consent. (However, we will cooperate fully should a situation arise where we are required by law or requested by a law enforcement agency to provide information about a customer.) You can correct account data by clicking on "Manage My Account" within the Help Desk area of the Web Store.
 
-From time to time, we may contact you about sales, special offers and new site features if you agreed to be included in our email lists when you completed a purchase transaction with us. To customize the information you want to receive from us, simply sign on and select the specific information you wish to receive. To cancel our free emails, you can unclick the "I would like to receive emails about special promotions" box each time you make a purchase. You can also respond to any promotional email we send you or send an email to www.dickssportinggoods.com or call us toll-free at 1.877.846.9997 and inform us that you want to unsubscribe from our email list. 
+We may contact you about sales, special discount offers and new site features. If at any time you decide you do not want to receive email updates, you can unsubscribe from any promotional email we send you, send an email to [customersupport@dickssportinggoods.com](mailto:customersupport@dickssportinggoods.com) or call us toll-free at 1.877.846.9997 and inform us that you want to unsubscribe from our email list.
 
 **Customer Service**
 
@@ -93,9 +93,9 @@ _Effective January 2009_
 
 **PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THE SPORTSPACE COMMUNITY AREA OF THIS WEB SITE.**
 
-The SportSpace Community area of this Web site (the "SportSpace Web Site") is provided by Dick's Sporting Goods, Inc. ("DSG"). By using the SportSpace Web Site, you (or "User") are agreeing to comply with and be bound by the following privacy policy terms and conditions (the "Privacy Policy"). If you do not wish to accept these terms, you should not review information or obtain services from the SportSpace Web Site. DSG has created this privacy policy to inform you of the information gathering and dissemination practices for the SportSpace Web Site. DSG hereby notifies you of the following:
+The SportSpace Community area of this Web site (the "SportSpace Community Web Site") is provided by Dick's Sporting Goods, Inc. ("DSG"). By using the SportSpace Community Web Site, you (or "User") are agreeing to comply with and be bound by the following privacy policy terms and conditions (the "Privacy Policy"). If you do not wish to accept these terms, you should not review information or obtain services from the SportSpace Community Web Site. DSG has created this privacy policy to inform you of the information gathering and dissemination practices for the SportSpace Community Web Site. DSG hereby notifies you of the following:
 
-  1. What personally identifiable information is collected through the SportSpace Web Site; 
+  1. What personally identifiable information is collected through the SportSpace Community Web Site; 
   2. The organization collecting the information; 
   3. How the information is used; 
   4. With whom the information may be shared; 
@@ -105,19 +105,19 @@ The SportSpace Community area of this Web site (the "SportSpace Web Site") is pr
 
 
 
-**Visiting the SportSpace Web Site**
+**Visiting the SportSpace Community Web Site**
 
-Your IP address, browser and reference site domain name are logged every time you visit the SportSpace Web Site. This data is used strictly for the analysis of load information and maximizing the efficiency of our servers. Except as provided in this privacy policy, we will not share this data with anyone in any way.
+Your IP address, browser and reference site domain name are logged every time you visit the SportSpace Community Web Site. This data is used strictly for the analysis of load information and maximizing the efficiency of our servers. Except as provided in this privacy policy, we will not share this data with anyone in any way.
 
 **Using Cookies**
 
-"Cookies" are files stored on your computer's hard drive by your browser. These cookies help us identify our account holders and optimize their SportSpace Web Site experience. They do not include any data that will identify you personally. They will, however, allow you to use some specialized features of the SportSpace Web Site. Most browsers accept cookies automatically, but allow you to disable them if you wish.
+"Cookies" are files stored on your computer's hard drive by your browser. These cookies help us identify our account holders and optimize their SportSpace Community Web Site experience. They do not include any data that will identify you personally. They will, however, allow you to use some specialized features of the SportSpace Community Web Site. Most browsers accept cookies automatically, but allow you to disable them if you wish.
 
 We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous.
 
-**Opening a SportSpace account**
+**Opening a SportSpace Community account**
 
-To obtain a User account for the SportSpace Web Site, you will be asked to provide certain personally identifiable information such as your name, email address, mailing address, time zone, date of birth, phone number, etc. DSG reserves the right to sell this information to third parties, in its sole discretion (including, without limitation, in the context of any merger, acquisition or reorganization). From time to time, DSG will establish different categories of Users (for example, Organizers, Coaches, Teams, etc.) and the functionality of the SportSpace Web Site will vary for the different classifications of the Users, as determined by DSG. Some Users may be provided with account information and passwords for accessing various pages on the SportSpace Web Site. In such cases, you are responsible for maintaining the confidentiality of your account information and password and for restricting access to such information and to your computer. You agree to accept responsibility for all activities that occur under your account or password, even if such password or account is shared among more than one User, as in the case of Team accounts. We require personal information to open an account for you. Except as provided in this Privacy Policy, this account data is never shared with anyone in any way without your consent. (However, we will cooperate fully should a situation arise where we are required by law or requested by a law enforcement agency to provide information about a User.) 
+To obtain a User account for the SportSpace Community Web Site, you will be asked to provide certain personally identifiable information such as your name, email address, mailing address, time zone, date of birth, phone number, etc. DSG reserves the right to sell this information to third parties, in its sole discretion (including, without limitation, in the context of any merger, acquisition or reorganization). From time to time, DSG will establish different categories of Users (for example, Organizers, Coaches, Teams, etc.) and the functionality of the SportSpace Community Web Site will vary for the different classifications of the Users, as determined by DSG. Some Users may be provided with account information and passwords for accessing various pages on the SportSpace Community Web Site. In such cases, you are responsible for maintaining the confidentiality of your account information and password and for restricting access to such information and to your computer. You agree to accept responsibility for all activities that occur under your account or password, even if such password or account is shared among more than one User, as in the case of Team accounts. We require personal information to open an account for you. Except as provided in this Privacy Policy, this account data is never shared with anyone in any way without your consent. (However, we will cooperate fully should a situation arise where we are required by law or requested by a law enforcement agency to provide information about a User.) 
 
 **Marketing and Promotions**
 
@@ -125,7 +125,7 @@ DSG may contact Users about promotional offers in its land-based stores. In addi
 
 From time to time, DSG may engage certain third parties to assist in providing marketing and promotional offers to our Users. These third parties will only have access to information to the extent necessary and will be required to not use any personal information for any purpose other than providing such services including but not limited to in-store events, activities, sponsorships, promotions and programs. Additionally, we may share non-personal, non-individual statistical information with our marketing partners, advertisers or other third parties for research purposes. We have established several relationships with third parties vendors to best serve our customers. 
 
-In addition, from time to time DSG may establish an affiliate program. An affiliate program allows other Web sites to earn money by linking customers to the SportSpace Web Site from their sites. We have entered into certain agreements with certain third parties for the purpose of helping to administer the affiliate programs. Such third parties may have access to certain of your information but is restricted to only use such information in connection with its administration of the affiliate programs.
+In addition, from time to time DSG may establish an affiliate program. An affiliate program allows other Web sites to earn money by linking customers to the SportSpace Community Web Site from their sites. We have entered into certain agreements with certain third parties for the purpose of helping to administer the affiliate programs. Such third parties may have access to certain of your information but is restricted to only use such information in connection with its administration of the affiliate programs.
 
 Also, you permit us to share your personal information in response to a court order, subpoena, government investigation, or as otherwise required by law. And, we may transfer your personal information in the event of a corporate sale, merger, acquisition, dissolution or similar event.
 
@@ -135,11 +135,11 @@ We use Secure Socket Layer (SSL) encryption technology to protect your personal 
 
 **Collection and Use of Children's Personal Information**
 
-Many DSG sites and services are intended for general audiences and do not knowingly collect and personal information from children. When the SportSpace Web Site does collect age information, and Users identify themselves as under the age of 13, the site will either block such users from providing general information, or will seek to obtain consent from parents for the collection, use and sharing of their children's personal information. We will not knowingly ask children under the age of 13 to provide more information than is reasonably necessary to provide our services.
+Many DSG sites and services are intended for general audiences and do not knowingly collect and personal information from children. When the SportSpace Community Web Site does collect age information, and Users identify themselves as under the age of 13, the site will either block such users from providing general information, or will seek to obtain consent from parents for the collection, use and sharing of their children's personal information. We will not knowingly ask children under the age of 13 to provide more information than is reasonably necessary to provide our services.
 
 **Changes to Privacy Policy**
 
-If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on the SportSpace Web Site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
+If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on the SportSpace Community Web Site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
 
 **Questions about our Policies**
 
@@ -147,9 +147,9 @@ If you have any questions regarding your privacy or any of our policies, please 
 
 **_MOBILE ALERTS (TEXT MESSAGES) PRIVACY POLICY_**
 
-You may decide to have promotional text messages sent directly to your mobile device. This program is completely voluntary, and messages will be sent to you only if you have opted in to receive them. Message and data rates may apply. If you have errantly received a marketing text message without opting in to the program, or if you wish to opt out of receiving text messages, you can remove yourself from the program by either:
+You may decide to have promotional text messages sent directly to your mobile device. This program is completely voluntary, and messages will be sent to you only if you have opted in to receive them. Message and data rates may apply. If you have errantly received a marketing text message without opting in to the program, or if you wish to opt out of receiving text messages, you can cancel the program by either:
 
-  * texting "STOP" to 34257; or
+  * replying "STOP" to 34257; or
   * contacting Customer Service by email at [customer.service@dcsg.com](mailto:customer.service@dcsg.com) or by phone at 1.877.846.9997. 
 
 
