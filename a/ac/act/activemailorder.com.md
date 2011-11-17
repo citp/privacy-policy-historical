@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activemailorder.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202165831id_/http%3A//www.activerideshop.com/c/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activemailorder.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117032915id_/http%3A//www.activerideshop.com/c/Privacy.htm) for the most accurate reproduction.*
 
 # Active Ride Shop - Privacy Policy
 
@@ -34,7 +34,7 @@ Active Ride Shop does not knowingly collect information from children under the 
 
 The security of the information regarding your order is very important to us. We use the 128-bit Secure Socket Layer protocol to protect the security of your online order information. You can be assured that all sensitive information will be handled with the utmost discretion and security. SSL technology encrypts your order information to protect it from being decoded by anyone other than Active Ride Shop.
 
-[Click here](https://web.archive.org/web/20101202165831id_/http%3A//www.activerideshop.com/c/Security.htm) to visit our Security section of our website which further explains how you are protected on activerideshop.com
+[Click here](https://web.archive.org/web/20111117032915id_/http%3A//www.activerideshop.com/c/Security.htm) to visit our Security section of our website which further explains how you are protected on activerideshop.com
 
 ### Questions and Concerns
 
