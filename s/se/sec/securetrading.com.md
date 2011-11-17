@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the securetrading.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520221451id_/http%3A//www.securetrading.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securetrading.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117174800id_/http%3A//www.securetrading.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SecureTrading - Privacy Policy
 
-\-------------------------------------------------------------------------------------------------------------
+\-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Terms and Conditions**
 
@@ -81,8 +81,6 @@ If you are not satisfied with our response to your concern you may wish to conta
 
 **3.0 Standard merchant agreement**
 
-A copy of SecureTrading's standard terms and conditions for merchants can be downloaded in the following:
+A copy of SecureTrading's standard terms and conditions for merchants can be downloaded at the following location:
 
-For merchants using SecureTrading Merchant Account please download from [here](http://www.securetrading.com/download/SecureTrading%20Merchant%20Account%20Service%20Standard%20Agreement.pdf).
-
-For merchants using SecureTrading Payment Gateway please download from [here](http://www.securetrading.com/download/SecureTrading%20Payment%20Gateway%20Standard%20Merchant%20Agreement.pdf).
+For merchants using SecureTrading Merchant Account or Payment Gateway, please download from [here](https://web.archive.org/web/20111117174800id_/http%3A//www.securetrading.com/standard-merchant-agreement.html).
