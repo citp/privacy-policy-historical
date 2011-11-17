@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sport.co.uk privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125145748id_/http%3A//www.sport.co.uk/corporative/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sport.co.uk privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117181825id_/http%3A//www.sport.co.uk/corporative/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Sport.co.uk
 
@@ -87,30 +87,19 @@ E-mail: info@sport.co.uk
 
 Advertising
 
-Back the Bid Now
-
 [](http://tickets.onthebox.com/sport-tickets/)
 
 Hot Sport Babe of the Week
 
-[](https://web.archive.org/news/Hot_Babe_at_Sportcouk/47206/Land_of_Hope_and_Glory.aspx) **[Land of Hope and Glory](https://web.archive.org/news/Hot_Babe_at_Sportcouk/47206/Land_of_Hope_and_Glory.aspx)**  
-Earlier this year esteemed gentlemen’s monthly publication Playboy – you may have heard of it – selected the delightful Hope Dworaczyk...  
+[](https://web.archive.org/news/Hot_Babe_at_Sportcouk/53379/One_Elle_of_a_girl.aspx) **[One Elle of a girl](https://web.archive.org/news/Hot_Babe_at_Sportcouk/53379/One_Elle_of_a_girl.aspx)**  
+This new kid on the block in the world of modeling Elle Liberachi has already got tails wagging and heads nodding...  
 
 Latest Poll 
 
-Who was the Premier League star of the weekend?
+Will Schumacher really carry on racing in 2012
 
-Kevin Davies (Bolton Wanderers)   
-Johann Elmander (Bolton Wanderers)   
-Ben Foster (Birmingham City)   
-William Gallas (Tottenham Hotspur)   
-Patrice Evra (Manchester United)   
-Raul Meireles (Liverpool)   
-Carlos Tevez (Manchester City)   
-Yaya Toure (Manchester City)   
-Jon Walters (Stoke City)   
-Luke Varney (Blackpool)   
-Morten Gamst Pedersen (Blackburn Rovers) 
+Yes  
+No
 
 Cartoon
 
