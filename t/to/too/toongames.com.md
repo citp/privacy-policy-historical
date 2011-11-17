@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toongames.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518143453id_/http%3A//www.toongames.com/index.php%3Ftask%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toongames.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117013058id_/http%3A//www.toongames.com/index.php%3Ftask%3Dpp) for the most accurate reproduction.*
 
 # ToonGames.com - Page not found
 
