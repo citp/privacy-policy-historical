@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womenontheirway.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517074521id_/http%3A//www.womenontheirway.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenontheirway.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117061324id_/http%3A//www.womenontheirway.com/privacy-and-security) for the most accurate reproduction.*
 
 # WOMEN ON THEIR WAY | Privacy & Security
 
@@ -6,7 +6,7 @@
 
 **Wyndham Worldwide Corporation** (" **Wyndham** ") recognizes the importance of protecting the privacy of certain Information collected about the users and visitors (" **user** ," " **you** " **or** " **your** ") of Wyndham's Web site (" **Web Site** "). The following privacy and information practices policy discloses and describes what Information Wyndham may gather about you, how Wyndham may use such Information, and how you can correct or change such Information (" **Privacy Policy** "). This Privacy Policy is designed to give you an understanding about how Wyndham collects your Information and the uses Wyndham may make of such Information during the course of Wyndham's business and in providing you with access to the information, products and services that may be available at this Web Site.
 
-You should print a copy of this Privacy Policy for your records. Please note, however, that Wyndham may update and amend this Privacy Policy from time to time as Wyndham deems necessary in its sole discretion. Certain capitalized terms used in this Privacy Policy may be defined in Wyndham's separate [Web Site Terms of Use](http://womenontheirway.wyndhamworldwide.com/mt/mt-static/terms-and-conditions "Web Site Terms of Use").
+You should print a copy of this Privacy Policy for your records. Please note, however, that Wyndham may update and amend this Privacy Policy from time to time as Wyndham deems necessary in its sole discretion. Certain capitalized terms used in this Privacy Policy may be defined in Wyndham's separate [Web Site Terms of Use](https://web.archive.org/terms-and-conditions "Web Site Terms of Use").
 
 ### Purpose
 
@@ -102,3 +102,6 @@ The security of all Information associated with users of this Web Site is an imp
 By using this Web Site, you signify your agreement to the terms of Wyndham's Internet Privacy Policy. **IF YOU DO NOT AGREE WITH THIS PRIVACY POLICY, PLEASE DO NOT USE THIS WEB SITE**. Your continued use of Wyndham's Web Site following the posting of any changes or updates to the terms of this Privacy Policy will signify your acceptance of those changes and updates.
 
 Effective date: This policy was last updated on August 1, 2006.
+
+  
+
