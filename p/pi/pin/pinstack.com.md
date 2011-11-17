@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinstack.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318003521id_/http%3A//forums.pinstack.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinstack.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117165916id_/http%3A//forums.pinstack.com/privacy.php) for the most accurate reproduction.*
 
 # Smartphones: PinStack.com - Please read our privacy statement...
 
@@ -14,6 +14,8 @@ This Privacy Policy may be modified from time to time; the date of the most rece
 
 **General**  
 We collect personal information when you register, when you use our Website or the pages of some of our partners. We may combine information about you that we have with information we obtain from business partners or other companies. Once you register and sign in to our service, you are not anonymous to us. We collect information about your transactions with us and with some of our business partners. We automatically receive and record information on our server logs from your browser (cookies) for a seamless website experience.
+
+We use third-party companies to serve ads and collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp) (link to the NAI universal user opt-out).
 
 **Information Sharing and Disclosure**  
 We do no rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
