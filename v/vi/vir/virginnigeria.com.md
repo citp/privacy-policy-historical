@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginnigeria.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606021233id_/http%3A//www.virgin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginnigeria.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117095844id_/http%3A//www.virgin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Virgin.com
 
@@ -120,7 +120,7 @@ Protecting the online privacy of children is especially important. If you are un
 
 ## What are cookies?
 
-We use "cookies" to store and collect information regarding your use of our site. Cookies are small pieces of information stored by the browser on your computer's hard drive. They send information stored on them back to our web server when you access our site. These cookies do not contain any personally identifying information, but they do enable us to put in place personal settings and load your personal preferences. This makes it a better experience for you. You can find out more about cookies at [www.allaboutcookies.org](https://web.archive.org/web/20110606021233id_/http%3A//www.virgin.com/www.allaboutcookies.org "www.allaboutcookies.org").
+We use "cookies" to store and collect information regarding your use of our site. Cookies are small pieces of information stored by the browser on your computer's hard drive. They send information stored on them back to our web server when you access our site. These cookies do not contain any personally identifying information, but they do enable us to put in place personal settings and load your personal preferences. This makes it a better experience for you. You can find out more about cookies at [www.allaboutcookies.org](https://web.archive.org/web/20111117095844id_/http%3A//www.virgin.com/www.allaboutcookies.org "www.allaboutcookies.org").
 
 ## Are you protected by this policy outside www.virgin.com?
 
