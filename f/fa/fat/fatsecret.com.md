@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fatsecret.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513225209id_/http%3A//www.fatsecret.com/Default.aspx%3Fpa%3Dpriv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatsecret.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117072103id_/http%3A//www.fatsecret.com/Default.aspx%3Fpa%3Dpriv) for the most accurate reproduction.*
 
 # Privacy Policy
 
-  |  **22 July 2009**  
+  |  **11 October 2011**  
 
 
   1. **About FatSecret.com**
