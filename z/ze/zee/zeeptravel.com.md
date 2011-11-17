@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeeptravel.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519032403id_/http%3A//www.zeeptravel.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeeptravel.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117164157id_/http%3A//www.zeeptravel.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
