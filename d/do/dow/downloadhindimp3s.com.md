@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadhindimp3s.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624214915id_/http%3A//www.downloadhindimp3s.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadhindimp3s.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117203924id_/http%3A//downloadhindimp3s.com/privacy) for the most accurate reproduction.*
 
 # Download Hindi Mp3s Privacy Policy
 
