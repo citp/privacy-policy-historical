@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eriksbikeshop.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519203202id_/http%3A//www.eriksbikeshop.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eriksbikeshop.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118004729id_/http%3A//www.eriksbikeshop.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
