@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fitnessanddefense.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519082450id_/http%3A//fitnessanddefense.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessanddefense.com privacy policy that was archived on 2011-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111117044852id_/http%3A//fitnessanddefense.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fitnessanddefense.com
-
-## Privacy Policy
 
 **Your Privacy:**
 
@@ -26,4 +24,5 @@ We have included links on this site for your use and reference. We are not respo
 
 **Contact Information:**
 
-Concerns or questions about this privacy policy can be directed to **jasjot2207** _ **@gmail.com**_ for further clarification.
+Concerns or questions about this privacy policy can be directed to **jasjot2207** _ **@gmail.com**_ for further clarification.  
+
