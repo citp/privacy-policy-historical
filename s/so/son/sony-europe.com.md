@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sony-europe.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521085424id_/http%3A//www.sony.co.uk/pages/privacy/Privacy_statement_en_EU.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sony-europe.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118125856id_/http%3A//www.sony.co.uk/pages/privacy/Privacy_statement_en_EU.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
