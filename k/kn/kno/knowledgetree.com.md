@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowledgetree.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520234812id_/http%3A//www.knowledgetree.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgetree.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118020729id_/http%3A//www.knowledgetree.com/privacy) for the most accurate reproduction.*
 
 # KnowledgeTree Privacy Policy | Online Document Management Software | Hosted Document Management
 
@@ -84,6 +84,6 @@ We may update this privacy statement to reflect changes to our information pract
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with KT software or services, you can contact KT at:
 
 [privacy@knowledgetree.com](mailto:privacy@knowledgetree.com)  
-1130 Situs Ct., Suite 234  
-Raleigh, NC USA 27606  
+510 Glenwood Ave., Suite 309  
+Raleigh, NC USA 27603  
 1 877.900.0350 (US).  
