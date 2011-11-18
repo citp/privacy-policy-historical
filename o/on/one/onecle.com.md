@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the onecle.com privacy policy that was archived on 2009-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090720044114id_/http%3A//www.onecle.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onecle.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118043224id_/http%3A//www.onecle.com/info/privacy.shtml) for the most accurate reproduction.*
 
 # California MCLE - Privacy Policy
 
-### Resources
-
 ### Business Contracts
-
-### MCLE Courses
 
 ### Projects
 
 ### Friends
 
 | 
+
+Loading
 
 [Home](https://web.archive.org/): Privacy Policy
 
@@ -66,4 +64,6 @@ When you sign up for OneCLE's products and service, we may send you an e-mail co
 
 We welcome your comments or questions.
 
-| 
+#### Sponsored Links  
+  
+---|---
