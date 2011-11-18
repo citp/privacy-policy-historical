@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twonky.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529221653id_/http%3A//twonky.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twonky.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118082903id_/http%3A//www.twonky.com/privacy.aspx) for the most accurate reproduction.*
 
 # Twonky Suite Media Manager :: Connected Home ::Privacy
 
@@ -36,7 +36,7 @@ PacketVideo may host discussion lists or other moderated forums for users of Pac
 
 PacketVideo will not send you any marketing communications unless you request PacketVideo to do so. We provide users the opportunity to opt-in to receiveing communications from us and/or our partners at the point where we request your information. Additionally, you may use one of the following options to request removal of your information from our databases. Please include the exact contact information you'd like removed and some detail about the type of communication you received from us.
 
-You can send email to: [webmaster@pv.com](mailto:webmaster@pv.com)
+You can send email to: [webmaster@twonky.com](mailto:webmaster@twonky.com)
 
 You can send mail to the following postal address:
 
@@ -50,7 +50,7 @@ Attn: Internet Marketing
 
 To change or modify information previously provided, we recommend that you reply or contact that list source directly. If no instructions were provided for updating your contact information, you can submit a request containing your old contact information and your new contact information.
 
-You can send email to: [webmaster@pv.com](mailto:webmaster@pv.com)
+You can send email to: [webmaster@twonky.com](mailto:webmaster@twonky.com)
 
 You can send mail to the following postal address:
 
@@ -81,4 +81,4 @@ PacketVideo Corporation
 10350 Science Center Drive, San Diego, CA 92121  
 (858) 731-5300  
 Fax: (858) 731-5303  
-webmaster@pv.com
+[webmaster@twonky.com](mailto:webmaster@twonky.com)
