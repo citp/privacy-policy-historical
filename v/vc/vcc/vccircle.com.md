@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vccircle.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520233244id_/http%3A//www.vccircle.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vccircle.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118082940id_/http%3A//www.vccircle.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VCCircle
 
@@ -22,4 +22,4 @@ However the internet is an ever evolving medium. We may change our privacy polic
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
 
 Any questions or clarifications with respect to this Policy can be sent to :   
-[editor@vccircle.com](mailto:privacypolicy@vccircle.com) or by snail mail addressed to 5M, Jungi House, 1st Floor, Shahpur Jaat, New Delhi –or by calling our number at (011) 26490323
+[editor@vccircle.com](mailto:privacypolicy@vccircle.com) or by snail mail addressed to Mosaic Media Ventures Pvt. Ltd., B-128, First floor, Sector 5, Noida - 201301 or by calling our number at (0120) 4171111
