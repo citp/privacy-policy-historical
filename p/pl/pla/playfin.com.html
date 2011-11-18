@@ -1,19 +1,17 @@
-<!--The following is the downloaded HTML source of the playfin.com privacy policy that was archived on 2011-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110520214028id_/http%3A//www.playfin.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playfin.com privacy policy that was archived on 2011-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111118120346id_/http%3A//www.playfin.com/privacypolicy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
-        <meta http-equiv="Content-Type" content="text/html; charset=" utf-8"="">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US"><head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         
         <!-- 4a8ea0a8d202e4e11b07d959e1ca862bmochiads.com -->	<!-- mochi leaderboard -->
                     <meta name="description" content="Playfin is the place to play free online games, including puzzle games, word games, and card games! Download free and trial games for PC and Mac too!">
             <meta name="keywords" content="free online games, online games, games online, free games, downloadable games, internet games, puzzle games, card games, solitaire">
         	<title>Playfin.com - Thousands of free online games for PC and Mac!</title>
-                
+                <link rel="apple-touch-icon" href="http://www.playfin.com/theme/Smarty/playfin/catmenu/images/touch-icon-iphone.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="http://www.playfin.com/theme/Smarty/playfin/catmenu/images/touch-icon-ipad.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="http://www.playfin.com/theme/Smarty/playfin/catmenu/images/touch-icon-iphone4.png">       
         <script type="text/javascript" src="/theme/Smarty/playfin/lib/jquery/jquery-1.3.2.min.js"></script>
-        <script type="text/javascript" src="/theme/Smarty/playfin/lib/facebooklogin_compact.js"></script>
-        <script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php"></script>
-        <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script>
-
 
         <!--[if lt IE 7]><script type="text/javascript" src="http://www.playfin.com/theme/Smarty/playfin/lib/unitpngfix.js"></script><![endif]-->
         
@@ -48,63 +46,106 @@
 		
         		<link rel="stylesheet" href="/blog/wp-content/plugins/slidedeck/skins/ribbons/skin.css" type="text/css" media="screen">
     	<link rel="stylesheet" href="/blog/wp-content/plugins/slidedeck/skins/dark/skin.css?v=1.1" type="text/css" media="screen">
-
+	<link rel="stylesheet" href="http://games.playfin.com/dev/temp/styles.css" type="text/css" media="screen, projection">
 		<script type="text/javascript" src="/blog/wp-content/plugins/slidedeck/lib/slidedeck.jquery.lite.js"></script>
 		<script type="text/javascript" src="/blog/wp-content/plugins/slidedeck/skins/dark/skin.js"></script>
+    <script type="text/javascript" src="http://cdn.gigya.com/js/socialize.js?apiKey=2_gEluCO3z52w6vpbDxqcm7nKscM5VCVQt-Uyzy80SzOOO_mhoQivJ-fQMHWyDIIT9"></script>
+<script type="text/javascript" src="/theme/Smarty/playfin/lib/gigya_wrapper.js"></script>
+<script type="text/javascript">
+var conf=
+{
+  APIKey: '2_gEluCO3z52w6vpbDxqcm7nKscM5VCVQt-Uyzy80SzOOO_mhoQivJ-fQMHWyDIIT9'
+  ,enabledProviders: 'facebook,twitter,yahoo,messenger,google,myspace,aol'
+}
+
+var login_params=
+  {
+    showTermsLink: 'false'
+    ,hideGigyaLink : true
+    ,height: 92
+    ,width: 300
+    ,containerID: 'componentDiv'
+    ,UIConfig: '<config><body><captions background-color="#60FF76" color="#E4BBFF"></captions><controls><snbuttons buttonsize="35"></snbuttons></controls><background background-color="#fdd16e"></background></body></config>'
+    ,redirectURL: 'http://www.playfin.com/gigya_login?redirect_url=http%3A%2F%2Fwww.playfin.com%2Fprivacypolicy%2F'
+}
+
+var login_params2=
+  {
+  showTermsLink: 'false'
+  ,hideGigyaLink : true
+  ,height: 120
+  ,width: 500
+  ,UIConfig: '<config><body><controls><snbuttons buttonsize="35"></snbuttons></controls></body></config>'
+  ,autoDetectUserProviders: ''
+  ,redirectURL: 'http://www.playfin.com/gigya_login?redirect_url=http%3A%2F%2Fwww.playfin.com%2Fprivacypolicy%2F'
+  ,facepilePosition: 'none'
+}
+
+
+var userLoggedIn = false;
+function checkLogin(response) {
+   
+    
+    server_logged_in = false;
+  
+    
+  if ( response.errorCode == 0 ) {             
+    var u = response['user'];
+    if (u['isConnected']) {
+      userLoggedIn = true;
+    }
+    //alert(u['isConnected'] + ' ' + server_logged_in + ' ' + u['UID']);
+    if (u['isConnected'] != server_logged_in) {
+      $.ajax({
+            type: 'POST',
+            data: {ajax:1, g_uid:u['UID']},
+            url: 'http://www.playfin.com/gigya_logout'
+            //success : function() {window.location.reload()}
+      });
+    }
+  }
+}
+
+function promptLogin() {
+  gigya.services.socialize.showLoginUI(conf,login_params2);
+}
+
+gigya.services.socialize.getUserInfo(conf,{callback:checkLogin});
+gigya.services.socialize.addEventHandlers(conf,
+  {
+    onLogout: function(eventObj) {
+      window.location.replace('http://www.playfin.com/gigya_logout?redirect_url=http%3A%2F%2Fwww.playfin.com%2Fprivacypolicy%2F');
+    }
+  }
+);
+</script>
     </head>
-        <body onload="initFB();">
+
+          <body>
             <div id="sun"></div>
         <div id="clouds"></div>
         <div id="menubar-container"></div>
         <div class="container">
 	        
             <div id="icons">
-            	                <div id="disclaimer" style="display:none;">
-					<a href="#" class="close-button small float-right">Close</a>
-                    <h2><a href="#">Free To Use!</a></h2>
-                    <ul>
-                        <li>All games are tested and spyware free! See our <a href="/privacypolicy/">Privacy Policy</a></li>
-                        <li>Play all of our games free! Visit the <a href="/termofuse/">Terms of Use.</a>.</li>
-                        <li>Still have questions? <a href="/contactus/">Contact us.</a>.</li>
-                    </ul>
-                </div>
-                                    <div id="login" style="display:none;">
-                					<a href="#" class="close-button small float-right">Close</a>
-                    <h2><a href="#">Sign In</a></h2>
-                    <span style="color:red;"></span>
-                    <ul>
-                        <li>Don't have an account? <a href="/register/">Sign up now!</a></li>
-                        <li>Having problems logging in? <a href="/contactus/">Get help here</a>.</li>
-                    </ul>
-                                        <div id="login-form">
-                        <form id="loginForm" action="/forum/ucp.php?mode=login" method="post">
-                            <!--<input type="hidden" name="asfsagrg4" value="d76fghhjda">-->
-                            <input type="text" name="username" id="login-username" value="Username" onfocus="this.value=''"> <br>
-                            <input type="password" name="password" id="login-password" value="Password" onfocus="this.value=''"> <br>
-                            <input type="hidden" name="redirect" value="/account/">
-                            <input type="hidden" name="external_login" value="1">
-                            <input type="hidden" value="d76fghhjd" name="asfsagrg4">
-                            <input type="submit" value="Go!" id="login-button" name="login">           
-                        </form>  
-                    </div> <!--login-form ends-->
-                    <div id="forgotpassword">
-                    	<a href="/forgotpassword/">Forgot your password?</a>
-                    </div>
-                    <div id="forgotusername">
-                    	<a href="/forgotusername/">Forgot your username?</a>
-                    </div>
-                </div>
-                <div class="clear" style="width:350px">              
-											<div id="button-nospyware">
-						<iframe src="/fb_button.php" width="107px" height="25px" frameborder="0" vspace="0" hspace="0" marginwidth="0" marginheight="0" noresize="" scrolling="no">
-							<p>Your browser does not support iframes.</p>
-						</iframe>
-						</div>
-										
-											<img id="button-signin" src="/theme/Smarty/playfin/img/login.png" alt="Sign in" style="CURSOR:pointer;">
-						<a href="/register/"><img id="button-reg" src="/theme/Smarty/playfin/img/reglogin.png" alt="Register" style="CURSOR:pointer; margin-left:-3px;"></a>
-					
-                </div>     
+            <!-- gigya header here -->
+                
+  <div id="header_glogin">
+    <div id="login" style="display:none;">
+      Sign In
+      <div id="login-form">
+        Click on an icon to login to Playfin with any of these websites
+        <div id="componentDiv"></div>
+      </div> <!--login-form ends-->
+    </div>
+    <div class="clear" style="width: 350px;"> 
+      <img id="button-signin" src="/theme/Smarty/playfin/img/signincrab.png" alt="Sign in" style="CURSOR:pointer;">
+    </div>
+  </div>
+  <script type="text/javascript">
+     gigya.services.socialize.showLoginUI(conf,login_params);
+  </script>
+  
             </div>
         
             <div id="header" class="span-24 last">
@@ -115,32 +156,23 @@
                     <div id="menubar" style="margin-left: 20px; width: 80px; display: block;"><span></span></div>
                     <ul id="menu">
                                                                             <!-- if is an account and not log in, won't show account tab -->
-                            	
-                            								<li class="active">
+                                                        	
+                                                        								<li class="active">
 								<a href="/index/">Home</a>
 								</li>
 											
                                                     <!-- if is an account and not log in, won't show account tab -->
-                            	
-                            								<li>
-								<a href="/topchatrooms/">Chat</a>
-								</li>
-											
-                                                    <!-- if is an account and not log in, won't show account tab -->
-                            	
-                            								<li>
+                                                                                     <!-- if is an account and not log in, won't show account tab -->
+                                                        	
+                                                        								<li>
 								<a href="/blogs/">Blog</a>
 								</li>
 											
                                                     <!-- if is an account and not log in, won't show account tab -->
-                            	
-                            								<li>
-								<a href="/forum/">Forum</a>
-								</li>
-											
-                                                    <!-- if is an account and not log in, won't show account tab -->
-                            	
-                            								<li>
+                                                        	
+                                                         <!-- if is an account and not log in, won't show account tab -->
+                                                        	
+                                                        								<li>
 								<a href="/premiumgames/"><img src="http://i.playfin.com/cms/cmsimages/free-games/pregamez.png"></a>
 								</li>
 											
@@ -292,7 +324,6 @@ google_ad_height = 600;
 
                
 <div style="padding-bottom:10px"></div>
-<iframe src="http://www.facebook.com/plugins/likebox.php?id=122159134479335&amp;width=150&amp;connections=10&amp;stream=true&amp;header=false&amp;height=830" scrolling="no" frameborder="0" style="background-color: white; border:none; overflow:hidden; width:150px; height:830px;" allowtransparency="true"></iframe>
 
                     </div><!--/left side bar-->
                 </div><!-- /body-left -->                <!--*************right body***************-->
@@ -370,7 +401,7 @@ google_ad_height = 600;
 						<img id="fillustration" src="http://games.playfin.com/cms/cmsimages/junk/footer/crabisland.png">
 						<img id="fillustrationa" src="http://games.playfin.com/cms/cmsimages/junk/footer/pfanchor.png">
 						<div class="span-4 last">
-							<h5 style="padding-top: 20px;">© playfin 2010</h5>
+							<h5 style="padding-top: 20px;">&nbsp;</h5>
 							<ul>
 								<li><a href="/aboutus/">about</a></li>
 								<li><a href="/contactus/">contact</a></li>
@@ -380,9 +411,6 @@ google_ad_height = 600;
 								<li><a target="_blank" href="http://www.downloadadmin.com/consumers/general-uninstallation-instructions">uninstall</a></li>
 							</ul>
 			
-							<h5 style="padding-top: 15px; clear:left;">keep in touch!</h5>
-							<span style="padding-right: 15px; display:inline-block" target="_blank"><a href="http://www.facebook.com/pages/Playfin-Games/122159134479335"><img src="http://games.playfin.com/cms/cmsimages/junk/footer/pffacebook.png"></a></span>
-							<span><a href="http://twitter.com/PlayfinGames" target="_blank"><img src="http://games.playfin.com/cms/cmsimages/junk/footer/pftwitter.png"></a></span>
 						</div><!--/span-4 last-->
 			
 						<div class="premargin bordleft span-4 last">
@@ -434,30 +462,30 @@ google_ad_height = 600;
 								<h5>featured premium game</h5>
 																<div id="footpre-game">
 									<div class="span-2">
-										<a href="/premium-game/apache-ah-64-air-assault/shooter/1781/"><img style="height: 70px; width: 70px;" src="/realgames/images/img/1781_ApacheAirAssault_146x110.jpg"></a>
+										<a href="/premium-game/code-head:-x-treme-culture/kids/584/"><img style="height: 70px; width: 70px;" src="/realgames/images/img/584_code_146x110.jpg"></a>
 									</div>
 									<div class="span-6 last">
-										<p class="prehead"><b><a href="/premium-game/apache-ah-64-air-assault/shooter/1781/">Apache AH-64 Air Assault</a></b></p>
-										<p>You're in control of the world's most advanced, most lethal multi-mission attack helicopter ever built....</p>
-										<a href="/premium-game/apache-ah-64-air-assault/shooter/1781/"><u>Play Now!</u></a>
+										<p class="prehead"><b><a href="/premium-game/code-head:-x-treme-culture/kids/584/">Code Head: X-Treme Culture</a></b></p>
+										<p>Test your knowledge of history, spelling, literature and more in this offbeat quiz game....</p>
+										<a href="/premium-game/code-head:-x-treme-culture/kids/584/"><u>Play Now!</u></a>
 									</div>
 								</div><!--/footpre-game-->
-
+								<!--
 								<div class="span-8 last">
 									<script src="http://www.search.us.com/adWStyle.php?k=downloads%252C+free%252C+games&amp;a_n=1&amp;w=hotspotwidget" type="text/javascript" language="javascript"></script>
 								</div>
+								-->
 								<br>
-								<script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=Playfin.com&amp;size=L&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en "></script><br>
-								<a href="http://www.verisign.com/verisign-trust-seal " target="_blank" style="text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT TRUST ONLINE</a>
-
+                <script type="text/javascript" src="https://seal.verisign.com/getseal?host_name=Playfin.com&amp;size=L&amp;use_flash=NO&amp;use_transparent=NO&amp;lang=en "></script><br>   
+                <a href="http://www.verisign.com/verisign-trust-seal " target="_blank" style="text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">ABOUT TRUST ONLINE</a>
 							</div><!--/inpad-->
 						</div><!--/premargin bordleft span-9a last-->
 					</div><!--/container-->
 				</div><!--/infoot-->
 			</div><!-- /footer -->
-			
+
 		        <script type="text/javascript" src="/theme/Smarty/playfin/lib/script_compact.js"></script>
-        <script type="text/javascript">
+                  <script type="text/javascript">
     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
     document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
@@ -467,9 +495,11 @@ google_ad_height = 600;
     pageTracker._trackPageview();
     pageTracker._trackPageLoadTime();
     } catch(err) {;}
-</script>        <script type="text/javascript" src="http://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/0241.js"> </script>
-        <script src="http://www.adreadytractions.com/rt/316301?p=17172"></script>
+</script>                <script type="text/javascript" src="http://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/0241.js"> </script>
+		
+		    <iframe src="http://pixels.playfin.net/p/" height="1" width="1"></iframe>
     
     
 
+<!-- Script Execution Time: 0.21878-->
 <!--  --></body></html>
