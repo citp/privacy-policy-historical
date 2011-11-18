@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tda.gov.uk privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620182235id_/http%3A//www.tda.gov.uk/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tda.gov.uk privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118080257id_/http%3A//www.tda.gov.uk/about/privacy.aspx) for the most accurate reproduction.*
 
 # TDA - Privacy Statement
 
@@ -107,4 +107,9 @@ Data Protection Officer
     MANCHESTER
     M1 2WD
 
+## 10\. Transfer to the Teaching Agency
+
+On 31 March 2012 the TDA will cease to exist in its current form as a non-departmental public body (NDPB) of the Department for Education (DfE). From 1 April 2012 some of the functions of the TDA will be undertaken by the new Teaching Agency, which will be an executive agency of the DfE. This will mean the transfer of relevant personal data gathered and held by the TDA to the new Teaching Agency, which will become the data owner (under the terms of the Data Protection Act 1998 the DfE will be the Data Controller for this information). This will not affect your rights under the Data Protection Act 1998 or the way that your data is used. Where your consent was given in gathering this data, the right to withdraw your consent will still apply. 
+
 **This policy applies to personal information held about individuals. It does not apply to information we hold about companies and other organisations.**
+  *[DfE]: Department for Education
