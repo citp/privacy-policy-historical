@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lockerpulse.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520231925id_/http%3A//www.lockerpulse.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lockerpulse.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118155548id_/http%3A//www.lockerpulse.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - LockerPulse
 
