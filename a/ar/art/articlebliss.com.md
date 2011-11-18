@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlebliss.com privacy policy that was archived on 2008-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080723203524id_/http%3A//www.articlebliss.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlebliss.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118125706id_/http%3A//www.articlebliss.com/privacy.php) for the most accurate reproduction.*
 
 # Articlebliss | Privacy Statement
 
@@ -8,7 +8,14 @@ ArticleBliss.com strives to offer its visitors the many advantages of Internet t
 
 How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, ArticleBliss.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences. 
 
-**What we do with the information we collect**
+  
+**Banners and Other Advertising:**
+
+Google ads presented on this site may employ the Double Click “cookie” technology that tracks your internet usage and preferences. Clicking on certain ads may release certain information as to your browsing history. This usage history will then be used to provide more targeted advertising. Be advised that ArticleBliss.com does not control or store this information for any purpose.
+
+You may read more about this service or opt-out of Google’s tracking system at the [**Privacy Center**](http://www.google.com/privacy_ads.html), this will only be required once. If you have already opted-out, then it is no longer necessary.
+
+ **What we do with the information we collect**
 
 Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone. 
 
@@ -40,8 +47,8 @@ ArticleBliss.com reserves the right to change this policy at any time. Please ch
 
 **Governing law**
 
-This policy and the use of this Site are governed by Washington State law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Seattle. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. 
+This policy and the use of this Site are governed by United Kingdom law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: United Kingdom. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. 
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Seattle, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
+If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: West Midlands, United Kingdom, under the rules of the Local West Midlands, United Kingdom legal system. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
 
 This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
