@@ -1,53 +1,69 @@
-> *The following text is extracted and transformed from the rockstaruproar.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128123209id_/http%3A//www.rockstaruproar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockstaruproar.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118010928id_/http%3A//rockstaruproar.com/privacy-policy) for the most accurate reproduction.*
 
-# Rockstar Energy Drink UPROAR Festival - Privacy Policy
+# Privacy Policy | Rockstar Energy Drink Uproar Festival
 
-At [www.rockstaruproar.com](http://rockstaruproar.com/) we are committed to protecting your privacy. Please read on for more details about our privacy policy.
+## 1\. INTRODUCTION
 
-  
+1.1 Protecting your privacy as a user of the Website is important to us and we strive to keep all information relating to you confidential in accordance with this statement. As part of the normal operation of our services you may voluntarily provide us with information about yourself (“Personal Data”). The purpose of this Privacy Statement is to explain what Personal Data we collect about you, how that Personal Data might be used and how we protect your Personal Data and privacy.
 
+1.2 We will be happy to answer any enquiries from you regarding this Privacy Statement, the Personal Data we hold about you or the use we make of it. 
 
-### What information do we collect? How do we use it?
+## 2\. WHAT DATA DO WE COLLECT AND HOW?
 
-  1. We ask for your e-mail address, if you dont want to receive emails from us either don't sign up for our email newsletter or [opt out!](http://rockstaruproar.us1.list-manage.com/unsubscribe?u=4ed2b3c4372a52ebdbcd78b29&id=d99ff5242c) (We are nice guys who only want to email you if you want to be emailed from us!)
-  2. When you enter a contest or other promotional feature, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners. (Believe it or not we have run contests in the past and some one wins but they don't respond to our email notifing them that they won so we end up giving the prize to someone else!)
-  3. We monitor customer traffic patterns and site usage to help us develop the design and layout of the site. 
-  4. We may also use the information we collect to occasionally notify you about important functionality changes to our web site, new [www.rockstaruproar.com](http://rockstaruproar.com/) services, and special offers we think you might find valuable. If you would rather not receive this information, [please unsubscribe here](http://rockstaruproar.us1.list-manage.com/unsubscribe?u=4ed2b3c4372a52ebdbcd78b29&id=d99ff5242c).
+### Non-members
 
-  
+2.1 If you are merely visiting the public areas of the Website, we do not collect any Personal Data about you. However, we may automatically collect information about your visits, such as browsing patterns. Information collected in this way does not reveal your contact details or any type of Personal Data. This information is only used in aggregate form to analyze, manage and develop the Website and is not linked to any individual. 
 
+### Members
 
-### How do we keep your customer information safe?
+2.2 If you are a member of the Website we will collect and hold Personal Data about you when you apply to become a member. The Personal Data collected by us will include your full name, password, e-mail address, date of birth, gender, country of residence, postcode and your mobile telephone number. From time to time you may also provide other Personal Data which we need to provide you with the service you request, such as your credit card details, other information about yourself, your preferences or your experiences. 
 
-When you sign up for our email newsletter, enter a contest, or give us information of any kind we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, all of the customer data we collect is protected against unauthorized access.
+## 3\. HOW DO WE USE MEMBERS’ PERSONAL DATA?
 
-  
+### Services
 
+3.1 We will use all Personal Data for the purpose of providing you with the services you have requested in accordance with the Conditions.
 
-### Does www.rockstaruproar.com use "cookies"?
+### Marketing
 
-Yes we do! "Cookies" are the small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that. Even without a cookie, you can still use most of the features on our site. 
+3.2 From time to time, we may use your Personal Data to let you know about other services and products that we or our associated companies provide, special offers and also to provide news about our business. 
 
-  
+### Legal requirements
 
+3.3 We reserve the right to access and disclose Personal Data to comply with applicable laws and lawful government requests or requests by the police investigating suspected illegal activities, to operate our systems properly or to protect ourselves or other the Website users. We also reserve the right to disclose Personal Data to third parties if a complaint arises concerning your use of the Website, and that use is deemed by us to be inconsistent with the Conditions. 
 
-### Will www.rockstaruproar.com disclose the information it collects to outside parties?
+### Public Forums
 
-NO! [www.rockstaruproar.com](http://rockstaruproar.com/) does not sell, trade, or rent your personal information to others. [www.rockstaruproar.com](http://rockstaruproar.com/) may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information.
+3.4 The Website may make available chat rooms, forums, message boards, and news groups. Please remember that any Personal Data that you disclose in these areas of the Website becomes public information and you should exercise caution when deciding to disclose any information on them. 
 
-  
+## 4\. HOW DO WE PROTECT MEMBERS’ PERSONAL DATA?
 
+4.1 When you input any Personal Data into the Website or request services from us, we use appropriate physical, electronic and managerial security measures to try to prevent that Personal Data from being accessed by unauthorized persons and to ensure that you may input Personal Data safely. This means that sometimes we may ask for proof of identity before we disclose Personal Data to you. 
 
-### Summary
+## 5\. COOKIES
 
-We are committed to protecting your privacy. We use the information we collect on the site to enhance your overall experience. We do not sell, trade, or rent your personal information others. Remember to change your preferences for each of the e-mail accounts you have given us.
+5.1 The Website makes use of cookies which are files placed on your computer that enable us to track certain information relating to your use of the Website. You may be able to configure your web browser to prevent the use of cookies although some functions or services may not be available. We also allow third party advertisers to advertise on the Website and such advertisers may also use cookies to record information about your use of the advertisement which you have seen and the types of things you appear interested in. For more information on the use of cookies and how to disable them, we recommend www.allaboutcookies.org. 
 
-  
+## 6\. SALE OR MERGER
 
+6.1 If the Website is sold to or merges with, or if our business is sold to, merges with or enters a joint venture with another company, you should expect that some or all of the Personal Data collected from the Website may be transferred to the buyer/surviving company. If so, we will seek to obligate the other company to use any Personal Data transferred by the Website in a manner consistent with this statement, but we cannot guarantee that we will be able to impose that requirement or that the acquiring company will comply.
 
-### Your Consent
+## 7\. THIRD PARTIES
 
-By using this web site you consent to the collection and use of the information you provide to [www.rockstaruproar.com](http://rockstaruproar.com/), and its affiliates. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we always collect, how we use it, and under what circumstances we disclose it.
+7.1 From time to time we may enter into a special relationship with another company that is not owned by us to provide additional features on the Website. As a result of these special relationships, the Website may sometimes feature co-branded micro sites or webpages, for example, a page with our name and TicketMaster’s name. 
 
-  
+7.2 You should look for a specific privacy statement on any such co-branded page. Any Personal Data that you provide when signing up on one of these co-branded pages may be shared with our third party partner in accordance with the privacy statement on that page.
 
+## 8\. CONSENT
+
+8.1 By accepting the Conditions or by using the services on the Website, you consent to the collection and use of your Personal Data by us for the purposes outlined above and for any other purpose which is reasonably necessary for the provision or proper administration of the Website service in accordance with the Conditions. 
+
+8.2 You agree that your Personal Data may be transferred to countries outside the U.S. Economic Area for the purposes described above to countries which may not provide legal protection of Personal Data equivalent to the level of protection within the United States. 
+
+8.3 If you do not wish your Personal Data to be used in the manner set out in this Privacy Statement or the Conditions please do not use the Website. 
+
+## 9\. CHANGES TO OUR POLICY
+
+9.1 This Privacy Statement is subject to change at any time. We encourage you to review the Privacy Statement regularly for any changes. We will use Personal Data in accordance with the Privacy Statement under which that Personal Data was collected. 
+
+9.2 This Privacy Statement is part of the Website Terms and Conditions (the “Conditions”) and all defined terms shall have the same meaning as those in the Conditions. We welcome your questions and comments about privacy issues and the design of the Website. Should you have any comments or a complaint about how we are using your Personal Data, please use Help.
