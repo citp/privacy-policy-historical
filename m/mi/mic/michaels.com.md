@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michaels.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520224910id_/http%3A//www.michaels.com/Privacy-Policy/privacyPolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaels.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118022303id_/http%3A//www.michaels.com/Privacy-Policy/privacyPolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -92,7 +92,7 @@ _Electronic and Mobile Communications._ We only send you promotional mobile or e
 
 _Postal Mail._ Where permitted by law, we may mail you unsolicited offers or product information that we believe is of interest to you. You can stop receiving promotional postal mail from Michaels. Promotional postal mail may contain opt out instructions, and you can stop receiving promotional postal mail from us by following those instructions.
 
-_Access._ You can view, correct or update the personal contact information you provide us by navigating to “My Michaels” logging in with your username and password. If you have registered with [midesign.michaels.com/invitations](https://web.archive.org/web/20110520224910id_/http%3A//www.michaels.com/Privacy-Policy/midesign.michaels.com/invitations) and/or with [midesign.michaels.com/digitalphoto](http://midesign.michaels.com/digitalphoto), you will need to log in to each account separately to update your information. At this time, changing or updating your account on michaels.com will not automatically update your information with midesign.michaels.com/invitations or /digitalphoto, and vice versa.
+_Access._ You can view, correct or update the personal contact information you provide us by navigating to “My Michaels” logging in with your username and password. If you have registered with [midesign.michaels.com/invitations](https://web.archive.org/web/20111118022303id_/http%3A//www.michaels.com/Privacy-Policy/midesign.michaels.com/invitations) and/or with [midesign.michaels.com/digitalphoto](http://midesign.michaels.com/digitalphoto), you will need to log in to each account separately to update your information. At this time, changing or updating your account on michaels.com will not automatically update your information with midesign.michaels.com/invitations or /digitalphoto, and vice versa.
 
 Top
 
@@ -116,7 +116,7 @@ Top
 
 Cookies. A cookie is a small file placed on your computer when you visit a site that can be understood by the site that issued the cookie. We use cookies to monitor how our sites are used and to help personalize your online experience. For example, when you register on our sites, we may store a unique code in a cookie on your computer. The next time you come back to the site from that computer, our servers use the cookie to recognize you. We can then use the information you provided when you registered combined with your activities on our sites to provide you advertising and offers of interest. You can accept or decline cookies. Most browsers automatically accept cookies. We do not store any personal information about you in the cookie.
 
-Third-Party Advertising. We may allow third parties, including business partners and ad networks, to display advertising on our sites. Some of these companies may place a cookie on your computer to recognize your computer each time they send you an online advertisement. This enables them to understand where you, or others who are using your computer, saw their advertisement and deliver ads that they believe are of interest to you. We do not control these companies’ use of cookies.
+Third-Party Advertising. We may allow third parties, including business partners and ad networks, to display advertising on our sites. Some of these companies may place a cookie on your computer to recognize your computer each time they send you an online advertisement. This enables them to understand where you, or others who are using your computer, saw their advertisement and deliver ads that they believe are of interest to you. We do not control these companies' use of cookies.
 
 Web Beacons. Web beacons are small bits of code embedded in web pages or in emails. We may use web beacons to deliver or communicate with cookies, to count users who have visited a web page, and to understand usage patterns. We also may include web beacons in e-mails to learn if messages have been opened, acted on, or forwarded. You can disable the ability of Web beacons to capture information by declining cookies.
 
@@ -198,9 +198,9 @@ Top
 
 We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to participate in and monitor their online activity.
 
-We do not intend to collect personal information from children under 13 online. When we do collect personal information from children, we do so in compliance with applicable country children’s data protection laws.
+We do not intend to collect personal information from children under 13 online. When we do collect personal information from children, we do so in compliance with applicable country children's data protection laws.
 
-U.S. sites that collect information from children under the age of 13 are covered by a privacy statement that meets the requirements of the U.S. Children’s Online Privacy Protection Act. [Click here](http://www.beinggirl.com/en_US/privacy.jsp) to read that Privacy Statement.
+U.S. sites that collect information from children under the age of 13 are covered by a privacy statement that meets the requirements of the U.S. Children's Online Privacy Protection Act. [Click here](http://www.beinggirl.com/en_US/privacy.jsp) to read that Privacy Statement.
 
 [Click here](http://www.pg.com/privacy/contact_us/privacy_country_list.html) to find out how to obtain a copy of the information your child has provided to Michaels, to update the information or instruct us to no longer contact your child.
 
@@ -219,7 +219,7 @@ If you have questions or concerns regarding your privacy, please contact Michael
 >  (1-800-642-4235)   
 >  Monday – Saturday: 8 AM to 8 PM Central  
 >  Sunday: 9 AM to 6 PM Central   
-> Contact Us by Email: | [Send Us a Message](http://staging.michaels.com/on/demandware.store/Sites-Michaels-Site/default/CustomerService-ContactUs)  
+> Contact Us by Email: | [Send Us a Message](https://web.archive.org/on/demandware.store/Sites-Michaels-Site/default/CustomerService-ContactUs)  
   
 Top
 
@@ -233,7 +233,7 @@ Top
 
 CALIFORNIA
 
-Under California Civil Code Section 1798.83, also known as Senate Bill 27, if you are a California resident and Michaels has an established business relationship with you, you have the right to request information from Michaels, free of charge, regarding the manner in which Michaels shares certain categories of your personal information with third parties (whether collected online or offline), for the third parties’ direct marketing purposes. California law provides that you have the right to submit a request to Michaels at its designated address and receive the following information: 1. The categories of information Michaels disclosed to third parties for the third parties’ direct marketing purposes during the preceding calendar year; 2. The names and addresses of third parties that received such information; and 3. If the nature of a third party’s business cannot be reasonably determined from the third party’s name, examples of the products or services marketed, subject to certain exceptions. You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. 
+Under California Civil Code Section 1798.83, also known as Senate Bill 27, if you are a California resident and Michaels has an established business relationship with you, you have the right to request information from Michaels, free of charge, regarding the manner in which Michaels shares certain categories of your personal information with third parties (whether collected online or offline), for the third parties' direct marketing purposes. California law provides that you have the right to submit a request to Michaels at its designated address and receive the following information: 1. The categories of information Michaels disclosed to third parties for the third parties' direct marketing purposes during the preceding calendar year; 2. The names and addresses of third parties that received such information; and 3. If the nature of a third party's business cannot be reasonably determined from the third party's name, examples of the products or services marketed, subject to certain exceptions. You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. 
 
 For purposes of this paragraph, “Michaels” means Michaels stores and the site. “Third Party” means a business that is outside the Michaels family, and affiliates of Michaels Stores, Inc. You will notice that the “Third Parties” listed in this notice are Michaels affiliates. These affiliates are listed as “Third Parties” because, under Senate Bill 27, any business that is a separate legal entity must be listed as a “Third Party.”
 
@@ -282,7 +282,13 @@ Michaels complies with Canadian Federal and Provincial privacy laws and regulati
 
 Michaels will only use your personal information for the purposes intended and as detailed in this Privacy Statement unless we have obtained your consent to use it for other purposes. 
 
-Residents of Canada are notified that the personal information they provide to Michaels is stored in the company’s databases outside of Canada including in the United States and may be subject to disclosure to authorized law enforcement or government agencies in response to lawful demand pursuant to the laws of that country.
+Residents of Canada are notified that the personal information they provide to Michaels is stored in the company's databases outside of Canada including in the United States and may be subject to disclosure to authorized law enforcement or government agencies in response to lawful demand pursuant to the laws of that country.
+
+Top
+
+* * *
+
+We are committed to world-class service for all of our guests. In compliance with the Americans With Disabilities Act As Amended and other state, local and provincial laws, we provide effective communication with our hearing-impaired customers and assistance for customers with any special need. Please let us know how we can accommodate you!
 
 Top
 
