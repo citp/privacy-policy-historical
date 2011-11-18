@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imobile.pk privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520232740id_/http%3A//www.imobile.pk/index.php%3Fmod%3Dcms%26func%3DdisplayPage%26id%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imobile.pk privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118023019id_/http%3A//www.imobile.pk/index.php%3Fmod%3Dcms%26func%3DdisplayPage%26id%3D1) for the most accurate reproduction.*
 
 # Privacy Policy - iMobile.pk
 
