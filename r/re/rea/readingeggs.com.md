@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the readingeggs.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520221557id_/http%3A//readingeggs.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readingeggs.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118211633id_/http%3A//readingeggs.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy | ABC Reading Eggs
+# Privacy | Reading Eggs
 
 ## Privacy Policy
 
@@ -42,9 +42,7 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include Blake Education. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others’ rights, property, or safety.
 
-However, non-personally identifiable visitor information may be provided to other parties such as Pascal Press, 3P Learning, VEA and Clickview for marketing, advertising, or other uses.
-
-Finally, we do not give the Australian Broadcasting Corporation your personally identifiable information except as follows. The ABC Shop may contact you with its regular email newsletter if you ticked the box entitled “I would like to receive information on new releases from the ABC Shop (includes ABC For Kids)” when you registered for a Reading Eggs subscription. You can unsubscribe at any time from a link in this email. Personal information collected by the Australian Broadcasting Corporation is governed by the ABC’s own privacy policy.
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 ### How can you opt-out, remove or modify information you have provided to us?
 
@@ -58,7 +56,7 @@ In an attempt to provide you with increased value, we may include third party li
 
 #### Changes to our policy
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on January 9, 2007.
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on June 6, 2011.
 
 #### Questions and feedback
 
@@ -76,7 +74,7 @@ Please also visit our Terms and Conditions section establishing the use, disclai
 
 By using our site, you consent to our privacy policy.
 
-This website is published by Blake Publishing.  
+This website is published by Blake Publishing, with support from 3P Learning.  
 The ABC Connect trade mark is used under license by the Australian Broadcasting Corporation.
 
-We have created this privacy policy in accordance with the Commonwealth Privacy Act 1988 (Cth).
+This Privacy Statement has been developed in accordance with the Australian Privacy Act 1988 (Cth), the United Kingdom Privacy Protection Act 1998 and the United States Children’s Online Privacy Protection Act and Rule as administered by the Federal Trade Commission.
