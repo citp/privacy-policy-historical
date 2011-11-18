@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the onestepahead.com privacy policy that was archived on 2011-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110520221729id_/http%3A//www.onestepahead.com/custserv/custserv.jsp%3FpageName%3DPrivacy_Security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onestepahead.com privacy policy that was archived on 2011-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111119000522id_/http%3A//www.onestepahead.com/custserv/custserv.jsp%3FpageName%3DPrivacy_Security) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 
@@ -16,6 +16,13 @@
 
 
 <script src="/js/utility_javascript.jsp" type="text/javascript"></script>
+
+
+
+
+
+
+
 <script src="http://content.onestepahead.com/js/jquery_mini.jsp" type="text/javascript"></script>
 <script src="http://content.onestepahead.com/js/jquery_jcarousel_min.jsp" type="text/javascript"></script>
 <script src="http://content.onestepahead.com/js/jquery_countdown_min.jsp" type="text/javascript"></script>
@@ -24,50 +31,54 @@
 <link href="/css/dynamic_styles.jsp?siteId=117" rel="stylesheet" type="text/css">
 <link href="http://content.onestepahead.com/css/tango_skin.css" rel="stylesheet" type="text/css">
 
-    <script type="text/javascript">
-    jQuery(document).ready(function(){
+<script type="text/javascript">
+jQuery(document).ready(function(){
 
-    //	$("ul.subnav").parent().append("&lt;span&gt;&lt;/span&gt;"); //Only shows drop down trigger when js is enabled (Adds empty span tag after ul.subnav*)
+//	$("ul.subnav").parent().append("&lt;span&gt;&lt;/span&gt;"); //Only shows drop down trigger when js is enabled (Adds empty span tag after ul.subnav*)
 
-        $("ul.topnav li").hover(function() { //When trigger is clicked...
+    $("ul.topnav li").hover(function() { //When trigger is clicked...
 
-            //Following events are applied to the subnav itself (moving subnav up and down)
-            $(this).find("ul.subnav").show(); //Drop down the subnav on click
+        //Following events are applied to the subnav itself (moving subnav up and down)
+        $(this).find("ul.subnav").show(); //Drop down the subnav on click
 
-            $(this).hover(function() {
-            }, function(){
-                $(this).find("ul.subnav").hide();//slideUp('fast'); //When the mouse hovers out of the subnav, move it back up
-            });
+        $(this).hover(function() {
+        }, function(){
+            $(this).find("ul.subnav").hide();//slideUp('fast'); //When the mouse hovers out of the subnav, move it back up
+        });
 
-            //Following events are applied to the trigger (Hover events for the trigger)
-            }).hover(function() {
-                $(this).addClass("subhover"); //On hover over, add class "subhover"
-            }, function(){	//On Hover Out
-                $(this).removeClass("subhover"); //On hover out, remove class "subhover"
-        });
-        $("div#contentTopRated ul").addClass("simpleCarousel_1");
-        $("div#contentHighlyRec ul").addClass("simpleCarousel_2");
-        $("div#contentAwardWinning ul").addClass("simpleCarousel_3");
-        $("div#contentTopSellers ul").addClass("simpleCarousel_4");
-        jQuery('.simpleCarousel_1').jcarousel({
-            visible: 3
-        });
-        jQuery('.simpleCarousel_2').jcarousel({
-            visible: 3
-        });
-        jQuery('.simpleCarousel_3').jcarousel({
-            visible: 3
-        });
-        jQuery('.simpleCarousel_4').jcarousel({
-            visible: 3
-        });
-        $("#contentTopRated").hide();
-        $("#contentHighlyRec").hide();
-        $("#contentAwardWinning").hide();
-        $("#contentTopSellers").hide();
-        $(".firstTab").show();
+        //Following events are applied to the trigger (Hover events for the trigger)
+        }).hover(function() {
+            $(this).addClass("subhover"); //On hover over, add class "subhover"
+        }, function(){	//On Hover Out
+            $(this).removeClass("subhover"); //On hover out, remove class "subhover"
     });
-    </script>
+    $("div#contentTopRated ul").addClass("simpleCarousel_1");
+    $("div#contentHighlyRec ul").addClass("simpleCarousel_2");
+    $("div#contentAwardWinning ul").addClass("simpleCarousel_3");
+    $("div#contentTopSellers ul").addClass("simpleCarousel_4");
+    jQuery('.simpleCarousel_1').jcarousel({
+        visible: 3
+    });
+    jQuery('.simpleCarousel_2').jcarousel({
+        visible: 3
+    });
+    jQuery('.simpleCarousel_3').jcarousel({
+        visible: 3
+    });
+    jQuery('.simpleCarousel_4').jcarousel({
+        visible: 3
+    });
+    $("#contentTopRated").hide();
+    $("#contentHighlyRec").hide();
+    $("#contentAwardWinning").hide();
+    $("#contentTopSellers").hide();
+    $(".firstTab").show();
+});
+</script>
+
+
+
+
 
     <!-- our IE6 fixes -->
 <!--[if IE]>
@@ -91,10 +102,16 @@
 
 <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'08c572cf-e718-4c7f-9dea-274b87a272c4'});</script>
 
+
 </head>
 <body id="body_Privacy_Security">
+
 <div id="avsPopup" style="position:absolute;width:612px; height:360px; border:#000000 1px solid; background-color:#FFFFFF; text-align:left; display:none;">
 </div>
+<div id="mask" style="left:0;"></div>
+<div id="modal"></div>
+
+
 <!-- adding width to container inline to try to fix ie6 problem on pages with large images -->
 <div id="cntr_outer">
     <div id="above_header">
@@ -114,21 +131,22 @@
 
 
 
+
+
 <div id="head_left">
     <div id="head_right">
+        <div id="referFriend"><a href="http://www.onestepahead.com/content.jsp?pageName=Refer-a-Friend"><img src="http://images.onestepahead.com/assets/images/osa/header/refer-a-freind.jpg" alt="Refer A Friend"></a></div>
         <div id="personalization">
-            <a href="http://www.onestepahead.com/checkout/basket.jsp" id="basket_image_link"><img src="http://images.onestepahead.com/assets/images/osa/header/shopping-basket.gif" alt="Shopping Basket"></a>
+            <a href="http://www.onestepahead.com/checkout/basket.jsp" id="basket_image_link"><img src="http://images.onestepahead.com/assets/images/osa/header/basket-2011.jpg" alt="Shopping Basket">
+                
+                    <div id="head_basket_image">
+                    
+                        0
+                    </div>
+                
+            </a>
         </div>
-        
-            <div id="head_basket_image">
-            
-            
-                <a href="http://www.onestepahead.com/checkout/basket.jsp"><font size="2px">Basket</font>&nbsp;&nbsp;No Items</a>
-            
-            
-            
-            </div>
-        
+
 
 
 
@@ -144,7 +162,7 @@
 </div><!-- /head_logo -->
             <div id="head_links">
                 
-                <div style="float:right;width:122px;height:18px;">
+                <div style="float:right;width:120px;height:18px;">
                     <div id="stealOfTheDay"><a onclick="javascript:pageTracker._trackEvent('OneDayDeal','Click','Header_Click');showHideStealOfTheDay('stealOfTheDay'); return false;" href="http://www.onestepahead.com/#"><img src="http://images.onestepahead.com/assets/images/osa/header/steal-of-the-day-new.gif" alt="One Day Deal"></a></div>
                 </div>
                 
@@ -206,11 +224,11 @@
              <ul class="subnav">
                  <li class="featured"><a href="http://www.onestepahead.com/osa/clothesandshoes.html">Clothes &amp; Shoes Favorites</a></li>
                   
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85179&amp;categoryId=117271&amp;N=117271">Sun Smarties Apparel</a></li>
+                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85179&amp;categoryId=97179&amp;N=97179">Costumes</a></li>
                   
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85179&amp;categoryId=117679&amp;N=117679">Swimwear</a></li>
+                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85179&amp;categoryId=117279&amp;N=117279">Cozy Cub Collection</a></li>
                   
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85179&amp;categoryId=117682&amp;N=117682">Activewear</a></li>
+                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85179&amp;categoryId=86180&amp;N=86180">Winter Apparel</a></li>
                   
                       <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85179&amp;categoryId=86179&amp;N=86179">Footwear</a></li>
                   
@@ -222,9 +240,9 @@
                   
                       <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85179&amp;categoryId=117295&amp;N=117295">Preemie</a></li>
                   
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85179&amp;categoryId=86180&amp;N=86180">Winter Apparel</a></li>
+                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85179&amp;categoryId=117271&amp;N=117271">Sun Smarties Apparel</a></li>
                   
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85179&amp;categoryId=97179&amp;N=97179">Costumes</a></li>
+                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85179&amp;categoryId=117682&amp;N=117682">Activewear</a></li>
                   
               </ul>
              
@@ -392,21 +410,38 @@
                   
                       <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85185&amp;categoryId=117221&amp;N=117221">Outdoor Toys</a></li>
                   
+                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85185&amp;categoryId=117619&amp;N=117619">Classic Toys</a></li>
+                  
+                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85185&amp;categoryId=117471&amp;N=117471">Energy Busters</a></li>
+                  
                       <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85185&amp;categoryId=85227&amp;N=85227">Ride-On Toys</a></li>
                   
                       <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85185&amp;categoryId=85230&amp;N=85230">Books &amp; Media</a></li>
                   
                       <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85185&amp;categoryId=85226&amp;N=85226">Crib, Stroller &amp; Car Seat Toys</a></li>
                   
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85185&amp;categoryId=85224&amp;N=85224">Bouncers, Swings, Playyards</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85185&amp;categoryId=117471&amp;N=117471">Energy Busters</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85185&amp;categoryId=117619&amp;N=117619">Classic Toys</a></li>
+                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85185&amp;categoryId=85224&amp;N=85224">Bouncers, Swings, Play yards</a></li>
                   
                       <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=85185&amp;categoryId=117607&amp;N=117607">Special Needs Toys by AblePlay</a></li>
                   
               </ul>
+             
+             </li>
+         
+    
+
+        
+		 
+		 
+    
+
+        
+                <li><img src="http://images.onestepahead.com/assets/images/topnav/tnav_dot.gif" alt=""></li>
+        
+		 
+		 
+             
+                  <li><a href="http://www.onestepahead.com/osa/holiday.html"><img src="http://images.onestepahead.com/assets/images/topnav/tnav_holiday-2011.gif" alt="Holiday"></a>
              
              </li>
          
@@ -418,20 +453,16 @@
 		 
 		 
              
-                  <li><a href="http://www.onestepahead.com/osa/seasonal.html"><img src="http://images.onestepahead.com/assets/images/topnav/tnav_summer.gif" alt="Seasonal"></a>
+                  <li><a href="http://www.onestepahead.com/osa/seasonal.html"><img src="http://images.onestepahead.com/assets/images/topnav/tnav_winter-2011.gif" alt="Seasonal"></a>
              
              <ul class="subnav">
                  <li class="featured"><a href="http://www.onestepahead.com/osa/seasonal.html">Seasonal Favorites</a></li>
                   
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=100180&amp;categoryId=100182&amp;N=100182">Clothes &amp; Shoes</a></li>
+                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=100180&amp;categoryId=100181&amp;N=100181">Cozy Cub Collection</a></li>
                   
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=100180&amp;categoryId=117685&amp;N=117685">Gear</a></li>
+                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=100180&amp;categoryId=100186&amp;N=100186">Cold Weather Apparel</a></li>
                   
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=100180&amp;categoryId=105179&amp;N=105179">Beach &amp; Pool Toys</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=100180&amp;categoryId=117293&amp;N=117293">Sun Protection</a></li>
-                  
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=100180&amp;categoryId=117691&amp;N=117691">Bug Protection</a></li>
+                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=100180&amp;categoryId=100185&amp;N=100185">Cold Weather Toys</a></li>
                   
               </ul>
              
@@ -468,26 +499,26 @@
 		 
 		 
              
-                  <li><a href="http://www.onestepahead.com/osa/more.html"><img src="http://images.onestepahead.com/assets/images/topnav/tnav_more.gif" alt="More"></a>
+                  <li><a href="http://www.onestepahead.com/osa/more.html"><img src="http://images.onestepahead.com/assets/images/topnav/tnav_moreways-shorter.gif" alt="More"></a>
              
              <ul class="subnav">
-                 <li class="featured"><a href="http://www.onestepahead.com/osa/more.html">More Favorites</a></li>
+                 <li class="featured"><a href="http://www.onestepahead.com/osa/more.html">See All</a></li>
                   
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=117660&amp;categoryId=117669&amp;N=117669">Phases</a></li>
+                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=117660&amp;categoryId=117669&amp;N=117669">Life's Little Hurdles</a></li>
                   
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=117660&amp;categoryId=117670&amp;N=117670">Developmental Stages</a></li>
+                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=117660&amp;categoryId=117670&amp;N=117670">Stages &amp; Transitions</a></li>
                   
                       <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=117660&amp;categoryId=117671&amp;N=117671">Browse by Catalog</a></li>
                   
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=117660&amp;categoryId=117674&amp;N=117674">Expecting</a></li>
+                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=117660&amp;categoryId=117674&amp;N=117674">Prenatal</a></li>
                   
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=117660&amp;categoryId=117672&amp;N=117672">Small Spaces</a></li>
+                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=117660&amp;categoryId=117672&amp;N=117672">Urban Living</a></li>
                   
                       <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=117660&amp;categoryId=117668&amp;N=117668">Special Needs</a></li>
                   
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=117660&amp;categoryId=117662&amp;N=117662">Multiples</a></li>
+                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=117660&amp;categoryId=117662&amp;N=117662">Twins &amp; Triplets</a></li>
                   
-                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=117660&amp;categoryId=117663&amp;N=117663">Preemie</a></li>
+                      <li><a href="http://www.onestepahead.com/catalog/thumbnail.jsp?siteId=117&amp;parentCategoryId=117660&amp;categoryId=117663&amp;N=117663">Preemies</a></li>
                   
               </ul>
              
@@ -529,53 +560,48 @@
     </div>
 </div>
 
-<div id="stealOfTheDayPopup"><style>
-a#close {
-display:block;
-height:24px;
-left:314px;
-position:absolute;
-top:23px;
-width:24px;
-}
-#dealImage {
-float: left; margin-top: 10px; width:88px; height:88px;
-}
-#dealInfo {
-float: left; margin-top: 20px; margin-left: 16px; width: 200px;  font-family: arial; font-size: 13px;
-}
-#dealPrice {
-font-size: 18px; font-weight: bold; color: rgb(155, 20, 33); margin:0; padding:0;
-}
-#dealWas{
-text-decoration: line-through; margin:0; padding:0;
-}
-#dealItem{
-margin-top:4px; width: 180px; font-weight:bold; padding:0;
-}
-.dealCopy  {font-family:Verdana; font-size:12px; font-weight:500; margin-top:8px; padding:0;
-}
-#dealButton{
-float: right;
-}
-</style>
+<div id="stealOfTheDayPopup">
+    
 
-<div style="margin: 25px 16px 10px; width: 333px; height: 132px; text-align: left;">
-    <div style="margin-left: 10px; margin-top: 10px;">
-        <div id="dealImage"><img src="http://content.onestepahead.com/assets/images/product/thumbnail/20943_1.gif" alt="Sun Smarties™ White Sun Bonnet"></div>
-        <div id="dealInfo">
-            <span id="dealPrice"> Now: $6.95</span><br>
-            <span id="dealWas">Was: $14.95</span> (53% OFF!)<br>
-            <div id="dealItem">Sun Smarties™ White Sun Bonnet</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    <div style="margin: 25px 16px 10px; width: 333px; height: 132px; text-align: left;">
+        <div style="margin-left: 10px; margin-top: 10px;">
+            <div id="dealImage"><img src="http://products.onestepahead.com/assets/images/product/thumbnail/21333.gif" alt="Girls Tabletop Vanity "></div>
+            <div id="dealInfo">
+                
+                <span id="dealPrice"> Now: $29.95</span><br><span id="dealWas">Was: $49.95</span> (40% OFF!)<br>
+                
+                
+                <div id="dealItem">Girls Tabletop Vanity </div>
+            </div>
+        </div><br>
+        <div style="margin-left: 10px; margin-top: 5px; margin-right: 17px;">
+            <div style="float: left;"><p class="dealCopy">Find a new deal every day!</p></div>
+            <div id="dealButton"><a onclick="javascript:pageTracker._trackEvent('OneDayDeal','Click','Shop Now');" href="/catalog/product.jsp?productId=537547"><img src="http://content.onestepahead.com/assets/images/osa/header/deal-shopnow.gif" alt="shop now"></a></div>
         </div>
-    </div><br>
-    <div style="margin-left: 10px; margin-top: 5px; margin-right: 17px;">
-        <div style="float: left;">
-    		<p class="dealCopy">Find a new deal every day!</p>
     </div>
-    <div id="dealButton"><a href="/catalog/product.jsp?productId=537157" onclick="javascript:pageTracker._trackEvent('OneDayDeal','Click','Shop Now');"><img alt="shop now" src="http://content.onestepahead.com/assets/images/osa/header/deal-shopnow.gif"></a></div>
-</div>
-</div>
+
+
+
+
     <style>
     a#close {
     display:block;
@@ -669,6 +695,7 @@ p.inBetween_Space {
          padding-top:10px;
          padding-bottom:10px;
  }
+
 </style>
 <h1>Privacy &amp; Security</h1>
 
@@ -690,7 +717,8 @@ p.inBetween_Space {
 <br>Cookies, pixel tags, log files and links tell us how you use our site, but are not used to collect or store personally identifiable information.<p></p>
 
 <p class="csPage_Space"></p><h6>Email Updates</h6>
-<br>Email updates provide users with the ability to receive information on new products and services, sales and special promotions. We ask for your email address, name, and zip code. You may also answer a few optional, more personal questions (such as whether or not you are expecting or if you are a grandparent) for the purpose of receiving information and promotions that are specifically designed for you. We also work with a reputable third party company, for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics, where we share with our third party company site usage information about visitors to our site who have received targeted emails from us. For this purpose, we and our third party company note some of the pages you visit on our web site through the use of pixel tags (also called clear gifs). For more information about our third party company, please click here <a href="http://www.cheetahmail.com/corp/privacy.html" target="blank">http://www.cheetahmail.com/corp/privacy.html</a><p></p>
+<br>Email updates provide users with the ability to receive information on new products and services, sales and special promotions. We ask for your email address, name, and zip code. You may also answer a few optional, more personal questions (such as whether or not you are expecting or if you are a grandparent) for the purpose of receiving information and promotions that are specifically designed for you. We also work with a reputable third party company, for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics, where we share with our third party company site usage information about visitors to our site who have received targeted emails from us. For this purpose, we and our third party company note some of the pages you visit on our web site through the use of pixel tags (also called clear gifs). For more information about our third party company, please <a href="http://www.cheetahmail.com/corp/privacy.html" target="blank">click here</a><p></p>
+ 
 <p class="inBetween_Space"> </p>
 <h5>How information is used</h5>
 
@@ -700,11 +728,11 @@ p.inBetween_Space {
 <script src="https://seal.verisign.com/getseal?host_name=www.onestepahead.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en"></script>
 
 </p><p class="csPage_Space"></p><h6>By Others</h6>
-<br>We use third party companies to help us provide our products and services to you. Some of these companies are given access to some, or all, of the information you provide to us and may use cookies on our behalf. These companies are contractually restricted from using your information in any manner, other than in helping us to provide you with the products and services available on our site. For more information, including how to opt out, please go to: <a href="http://www.coremetrics.com/info_eluminate2.html" target="blank">http://www.coremetrics.com/info_eluminate2.html</a>. Occasionally, we allow other carefully screened companies to mail their catalog to our customers' physical addresses. If you do not wish to be included, please let us know by email at <a href="mailto:customerservice@onestepahead.com">customerservice@onestepahead.com</a>.<p></p>
+<br>We use third party companies to help us provide our products and services to you. Some of these companies are given access to some, or all, of the information you provide to us and may use cookies on our behalf. These companies are contractually restricted from using your information in any manner, other than in helping us to provide you with the products and services available on our site. For more information, including how to opt out, please go to: <a href="http://www.coremetrics.com/info_eluminate2.html" target="blank">http://www.coremetrics.com</a>. Occasionally, we allow other carefully screened companies to mail their catalog to our customers' physical addresses. If you do not wish to be included, please let us know by email at <a href="mailto:customerservice@onestepahead.com">customerservice@onestepahead.com</a>.<p></p>
 
 <p>Our web site and our email updates may contain links to other sites. Please be aware that we are not responsible for the privacy and security practices of such other sites. We encourage you to read the privacy and security policies of these other sites.</p>
 
-<p>Chelsea &amp; Scott LTD has arranged with Power Reviews, Inc. (d/b/a) ("PR") (<a href="http://www.buzzillions.com">http://www.buzzillions.com</a>) to facilitate customer reviews of products sold by Chelsea &amp; Scott LTD.  When you submit a product review to PR, you will be subject to PR's terms of use and privacy policies.  The reviews you submit may be posted on both PR's site (<a href="http://www.buzzillions.com/cz_4294967210_baby_reviews">http://www.buzzillions.com/cz_4294967210_baby_reviews</a>) and our site.</p>
+<p>Chelsea &amp; Scott LTD has arranged with Power Reviews, Inc. (d/b/a) ("PR") (<a href="http://www.buzzillions.com">http://www.buzzillions.com</a>) to facilitate customer reviews of products sold by Chelsea &amp; Scott LTD.  When you submit a product review to PR, you will be subject to PR's terms of use and privacy policies.  The reviews you submit may be posted on both PR's site (<a href="http://www.buzzillions.com/cz_4294967210_baby_reviews">http://www.buzzillions.com</a>) and our site.</p>
 
 <p>We use a third-party service provider to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank">click here</a>.</p>
 
@@ -715,7 +743,7 @@ p.inBetween_Space {
 </p><p class="csPage_Space"></p><h5>A final note</h5>
 <br>We encourage you to review our Privacy and Security Statement periodically as we may update it from time to time. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of email. Users will then have a choice as to whether or not we use their information in this different manner or whether we may only use the information in accordance with the Privacy and Security Statement under which the information was collected. If you have any questions about our Privacy and Security Statement, please email us at <a href="mailto:customerservice@onestepahead.com">customerservice@onestepahead.com</a>.<p></p>
 
-<p>Thank you for visiting onestepahead.com and leapsandboundscatalog.com.</p>
+<p>Thank you for visiting onestepahead.com and leapsandbounds.com.</p>
 		</div>
 	</div>
 
@@ -733,7 +761,6 @@ p.inBetween_Space {
  </script>
  <!-- CoreMetrics Page View End -->
 			</div><!-- /body_content_cntr -->
-
             
             <div class="clear"><!-- --></div>
         </div><!-- /cntr_body -->
@@ -820,8 +847,8 @@ div#content_bottom{
 margin-top: -13px;
 }
 
-ul.topnav li div{
-    width:31px;
+ul.topnav li div {
+    width: 7px;
 }
 </style>
 
@@ -913,6 +940,8 @@ function trim(s) {
 
 	</div><!-- /cntr_foot -->
 </div><!-- /cntr_outer -->
+
+
 
 <script type="text/javascript">
     <!--
