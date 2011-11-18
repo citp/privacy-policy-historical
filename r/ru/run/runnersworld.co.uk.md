@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runnersworld.co.uk privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521085438id_/http%3A//www.runnersworld.co.uk/members/privacy.asp%3Fsp%3D%26v%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runnersworld.co.uk privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118125808id_/http%3A//www.runnersworld.co.uk/members/privacy.asp%3Fsp%3D%26v%3D6) for the most accurate reproduction.*
 
 # Runner's World - Privacy Policy
 
@@ -88,5 +88,7 @@ We do not store sensitive information such as account numbers or passwords in "p
 Please contact us at [members@runnersworld.co.uk](mailto:members@runnersworld.co.uk) in relation to the matters to which this point 8 relates, or if you have any questions or concerns regarding our privacy policy.   
   
 This Privacy Policy has been prepared to meet the requirements of the UK's Data Protection Act 1998, and that Act only relates to the collection, protection, disclosure and use of personal data belonging to living individuals. It does not relate to data regarding companies and other non-living entities, although the general principles regarding our collection and use of data is broadly the same irrespective of whether the users of our website are living individuals or not.
+
+[](http://www.runnersworld.co.uk/cl.asp?cn=5691)
 
 [](http://www.runnersworld.co.uk/cl.asp?cn=3995)
