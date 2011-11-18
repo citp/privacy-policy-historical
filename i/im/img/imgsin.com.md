@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the imgsin.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520221557id_/http%3A//imgsin.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgsin.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118021601id_/http%3A//imgsin.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Sinfully Good
 
+  
+  
+  
   
 Image Sin policy is to respect and protect the privacy of our users. Image Sin will not disclose your personal information to third parties without your consent.
 
