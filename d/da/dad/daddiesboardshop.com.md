@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the daddiesboardshop.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229070246id_/http%3A//www.daddiesboardshop.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daddiesboardshop.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118133339id_/http%3A//www.daddiesboardshop.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Longboard Skateboard & Snowboard Shop - Daddies Board Shop - Since 1995 - Privacy Policy
+# Daddies Board Shop - Earth's Largest Longboard Skateboard Store - - Privacy Policy
 
 |  | | |   
 ---|---|---  
@@ -24,16 +24,4 @@ We reserve the right to monitor, and disclose to, government officials or law en
 |   
 ---  
   
-[](https://web.archive.org/search.aspx?find=sector+9)
 
-[](https://web.archive.org/search.aspx?find=landyachtz)
-
-[](https://web.archive.org/search.aspx?find=rayne+longboards)
-
-[](https://web.archive.org/search.aspx?find=burton)
-
-[](https://web.archive.org/search.aspx?manufacturer=41)
-
-[](https://web.archive.org/search.aspx?find=never+summer%2c)
-
-[](https://web.archive.org/search.aspx?find=santa%20cruz)
