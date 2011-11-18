@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the networkblazer.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521085410id_/http%3A//www.networkblazer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkblazer.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118125753id_/http%3A//networkblazer.com/privacy) for the most accurate reproduction.*
 
 # Network Blazer / Privacy Policy
 
