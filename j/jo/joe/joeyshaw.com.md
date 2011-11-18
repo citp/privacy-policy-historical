@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joeyshaw.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521101828id_/http%3A//www.joeyshaw.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joeyshaw.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118153651id_/http%3A//www.joeyshaw.com/privacy.html) for the most accurate reproduction.*
 
 # JOEY SHAW - FASHION AND CELEBRITY PHOTOGRAPHER
 
