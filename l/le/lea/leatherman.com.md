@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leatherman.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520224038id_/http%3A//www.leatherman.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leatherman.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118021927id_/http%3A//www.leatherman.com/about/privacy) for the most accurate reproduction.*
 
 # Leatherman Privacy and Security
 
