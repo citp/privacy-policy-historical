@@ -1,73 +1,71 @@
-> *The following text is extracted and transformed from the planetfitness.com privacy policy that was archived on 2008-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080807175515id_/http%3A//www.planetfitness.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetfitness.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118161427id_/http%3A//www.planetfitness.com/privacy.aspx) for the most accurate reproduction.*
 
 # Planet Fitness® -- The Judgment Free Zone®
 
-[](https://web.archive.org/)  
-  
-  
+Thank you for visiting PlanetFitness.com (the "Site"). This Site is operated by PFIP, LLC a New Hampshire limited liability company ("PLANET FITNESS"). Your access to and use of this Site is subject to the following Privacy Policy ("Privacy Policy") and all applicable laws. We understand your concerns about privacy and we want to assure you that PLANET FITNESS takes privacy matters seriously. Therefore, we are providing this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
+BY SUBMITTING YOUR PERSONAL INFORMATION TO US THROUGH THIS SITE, YOU ARE CONSENTING TO THE PROCESSING OF YOUR PERSONAL INFORMATION AS DESCRIBED IN THIS PRIVACY POLICY. If you do not consent to the collection, use, and disclosure of your personal information as set forth in this Privacy Policy you may not use the Site.
 
-11/14/2006
+## PRIVACY POLICY UPDATES
 
-**PRIVACY POLICY UPDATES**  
-The date listed at the top of this privacy page indicates the last change or update to our privacy policy. This policy can and will change on occasion.
+The date listed at the top of this privacy page indicates the last change or update to our Privacy Policy. We reserve the right to update or modify this Privacy Policy, at any time and without prior notice, by posting the revised version of this Privacy Policy on the Site. Your use of the Site following any such change constitutes your agreement that all personal information collected from or about you through the Site after the revised Privacy Policy is posted will be subject to the terms of the revised Privacy Policy.
 
-### CHILDREN
+## WHAT TYPE OF INFORMATION DOES PLANET FITNESS COLLECT?
 
-If you are under the age of 18, use of this site requires the permission and supervision of your parents. Additionally, children under the age of 18 should refrain from submitting any personal information through this site.
+When you use this Site, we may collect information about you in the following ways:  
+Information You Actively Provide. We collect the personal information you actively provide (using your mouse or keyboard) when you use this Site. You may choose to provide certain personal information in order to access or use certain features or services of the Site, such as making a purchase, joining one of our clubs, paying your membership fees, requesting information, filling out an employment or franchise application, entering a sweepstakes, or otherwise contacting us. Such information may include your name, phone number, e-mail, mailing address, credit card number, or other information depending on the purpose for which you provided the information. You can always choose not to provide information, but you may not be able to use a particular service or feature on the Site. 
 
-### NON-PERSONALLY IDENTIFIABLE INFORMATION 
+We use personal information you submit to us for the purposes for which it was collected, such as to process your membership application, payment, order, employment or franchise application, sweepstakes entry, or request for information, as applicable. If you provide us with your e-mail address as part of a purchase transaction on our Site, or if you opt-in to receive communications from PLANET FITNESS, we may periodically send you newsletters or e-mails featuring sales and promotions, informing you about new PLANET FITNESS products and services, requesting your feedback, or providing other information we think may be of interest to you. In addition, if you make a purchase on our Site, we will send you order and shipping confirmation emails. You can remove your e-mail from our e-mail list at any time by e-mailing opt-out@planetfitness.com and requesting that it be removed. However, if you opt-out from our e-mail list, you will not automatically become opted-out from the e-mail list of the franchisee owner of the PLANET FITNESS club you joined or to which your e-mail address has been provided as described in this Privacy Policy. Each PLANET FITNESS club is a franchise of PLANET FITNESS, and we do not control how individual PLANET FITNESS clubs may use your e-mail address. We will attempt to notify any PLANET FITNESS club with which we have shared your e-mail address that it should remove you from that club’s e-mail list. However, if the club does not remove you from its e-mail list, you should contact that club directly. Please let us know if you need the contact information for any particular PLANET FITNESS club, and we will be happy to provide it to you.
 
-Planet Fitness servers collect various non-identifiable pieces of information about site visitors through standard web cookie technology. Included, but not limited to, is visitor browser type, pages visited, visit duration and search engine referrers. See COOKIES section below for more information.
+Information Sent to Us by Your Web Browser. We collect information that is sent to us automatically by your web browser. This information typically includes your computer’s IP address, the address of the web page you were visiting when you accessed our Site, the name of the operating system installed on your computer, the name and version of the browser you are using, the URL of the page from which you linked to our Site, and the date and time of your visit. The information we receive depends on the settings on your web browser. Please check with the developer of your browser if you want to learn what information the browser sends or how to change your settings. The information provided by your browser does not identify you personally. We use this non-personal information primarily to create statistics that help us improve our Site and make it more compatible with the technology used by our visitors. We may link this non-personal information with your personal information as we deem necessary for our business purposes. If we suspect criminal activity, we might share our server logs -- which contain visitors’ IP addresses -- with the appropriate investigative authorities who could use that information to trace and identify individuals.
 
-### COOKIES
-
-A "cookie" is temporary text data stored by all browsers on your computers hard drive. PlanetFitness.com uses this temporary data in order to customize content for visitors or for authentication. Uses include, but are not limited to:
+Information Collected Using "Cookies" and Other Web Technologies. We use "cookies", and similar technologies to collect information and support the functionality of this Site. A cookie is a small text file that is placed on your computer’s hard disk by a web server. Cookies cannot be used to install computer programs or deliver viruses to your computer. We may use cookies to collect or store information including without limitation:
 
   * Determine how many visitors the site is receiving, and how many visitors are repeat visitors
   * Store which locations you are inquiring about so that we can provide you with better content
   * Maintain customer order and shopping cart information
+  * Learn about the ways visitors use our Site - which pages they visit, which links they use, and how long they stay on each page.
+  * We may link the information collected by our cookies to information that identifies you personally and store it with other information we have collected from or about you. You have the ability to set your browser to reject cookies, however, if you set your browser to reject cookies, you may not be able to use certain features and functionality of this Site.
 
 
 
-Browsers allow users to set the level of access to cookies. You may accept all cookies, receive notification if a cookie is set, or refuse to accept cookies. Areas of PlanetFitness.com will not function correctly without access to cookies.  
-Web logs are collected on Planet Fitness web servers and third party web hosts with compiled information summarizing site visits are used to improve the user experience.
+## SHARING OF INFORMATION
 
-### PERSONALLY IDENTIFIABLE INFORMATION
+The following describes some of the ways that your information may be disclosed to third parties:  
+Our Related Companies and Franchisees. We may share personal information collected through our Site with our parent company, subsidiaries, or affiliates for our or their applicable business purposes. In addition, if you join one of our clubs or express an interest in one of our clubs, we will share your information with that club, which may be a franchise of PLANET FITNESS. Information we collect about you on this Site may be combined with information you provide at your PLANET FITNESS club. 
 
-Various pieces of personal data is collected by PlanetFitness.com voluntary submission of data through contact inquiries, email contacts, online enrollments, balance payments and any additional form submitted to PlanetFitness.com. This information is used for:
+Our Service Providers. We may share certain personal information collected through our Site with companies and organizations that perform services on our behalf. Our online store is hosted and provided by a third party, so we will share all information necessary to process and fulfill your order with that third party service provider. In addition, we may share your information as necessary with other service providers such as companies providing data storage, web hosting services, customer service, and other service providers, for purposes such as customer and member management, completing online orders and information requests. These companies and organizations are required to use the personal information we share with them only to perform services on our behalf (and not for their own purposes) and to protect its confidentiality.
 
-  * Order processing
-  * Response to customer service requests
-  * Site promotional material and testimonials content
-  * Personalize site content
-  * When required by law or regulations
-  * In accordance with Terms and Conditions found on this site
+Our Sweepstakes Providers. Sweepstakes, contests, games and other promotions featured on this Site may require you to provide some personally identifiable information such as full name, address, e-mail address, and phone number, in order to participate. PLANET FITNESS may use a reputable third party to manage and administer some or all of its sweepstakes and/or contests. This third party may have access to some or all of the personally identifiable information that is provided by the visitor in order to participate in the sweepstakes and/or contest. In those instances, the third party will be instructed by PLANET FITNESS to use the personally identifiable information only for the specific sweepstakes and/or contest related purpose for which it was requested, and in compliance with this Privacy Policy. Most often this information is used only to select and contact winners of the sweepstakes and/or contests. Any other use of the personally identifiable information by the third party is strictly prohibited.
 
+Our Successors. We may transfer the personal information we collect through the Site to another company (either an affiliate or an unrelated third party) that has acquired the assets of PLANET FITNESS, for example, as the result of a sale, merger, reorganization, dissolution or liquidation. If such a transfer occurs, the acquiring company will "step into our shoes" and collect, use and share your personal information in accordance with this Privacy Policy.
 
+Other Limited Circumstances. There are other limited circumstances in which we may share the personal information in our databases with unrelated third parties. For example, we may disclose the personal information we collect through the Site when we, in good faith, believe disclosure is appropriate to comply with the law or a regulatory requirement or to comply with a subpoena or court order; to prevent or investigate a possible crime, such as fraud or identity theft; to enforce a contract; to protect the rights, property or safety of PLANET FITNESS, our members, customers, and visitors to our Site, or to protect the vital interests of our customers or visitors.
 
-  
-Personally identifiable data is shared with third party servicers for the sole purpose of customer and member management, completing online orders and web requests. At no time does Planet Fitness sell personal data, for any reason.
+Marketing Purposes. We may occasionally share your personal information with third parties to use for their own marketing purposes if we think the products or services they offer would be of interest to you. You may opt-out of receiving such communications at any time by e-mailing opt-out@planetfitness.com and request that you be removed. However, if you opt-out from our marketing, you will not automatically become opted-out from the marketing of the franchisee owner of the PLANET FITNESS club you joined or to which your e-mail address has been provided as described in this Privacy Policy. Each PLANET FITNESS club is a franchise of PLANET FITNESS, and we do not control how individual PLANET FITNESS clubs may use your e-mail address. We will attempt to notify any PLANET FITNESS club with which we have shared your e-mail address that it should remove you from that club’s marketing list. However, if the club does not remove you from its marketing list, you should contact that club directly. Please let us know if you need the contact information for any particular PLANET FITNESS club, and we will be happy to provide it to you.
 
-E-mail addresses are collected only from those who initiate communications with Planet Fitness through PlanetFitness.com or by stand alone email applications.
+Third Party Sites. You may visit other websites, through links on our Site, which may collect, use and share your information in accordance with their own privacy policies. The information practices of those websites linking from or to our Site are not covered by this Privacy Policy, and we encourage you to be very cautious before you disclose your information to others.
 
-### MERCHANT SERVICES
+## SITE SECURITY
 
-In an effort to provide site visitors with safe and secure credit card processing, Planet Fitness uses 128bit encryption of data content and crypto-based storage of credit data. These processing services may be handled by third party vendors.  
-The personal shopping data provided voluntarily by you is used only to complete the specific product or subscription purchase. Billing requirements will be detailed in order forms, which may include monthly and annual fees.  
-Purchase and Credit Card information provided by you is transmitted using high level data encryption provided by your browser. If your browser does not support data encryption, purchases will not be permitted over our secure servers. No means of online credit card processing is 100% guaranteed secure and a such, we cannot guarantee the security of your purchase. However, Planet Fitness and our third party servicers use industry standard e-commerce technology in an effort to provide the safest environment possible.  
-The information practices of sites linked to PlanetFitness.com are not covered by this privacy policy. 
+Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, PLANET FITNESS cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk.
 
-### **SITE SECURITY**
+Information you provide when you make a purchase in our online store, when you make a payment to your account, or when you apply to become a member of one of our clubs or a franchisee, is encrypted using 256 bit encryption. Transmission of credit card account information is encrypted using 256 bit encryption and all other account information such as expiration date, name and address is encrypted using PGP public key. All communication between you and PLANET FITNESS through our Site utilizes SSL encryption. Three levels of security are used in a combination of symmetrical and asymmetrical encryption.
 
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, PlanetFitness.com cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we use reasonable efforts to ensure that collected personally identifiable information is secure and not readily accessible to unapproved individuals or third parties. PlanetFitness.com has limited the number of people who have physical access to our database servers and has implemented electronic security systems and password protections which help further guard against unauthorized access.
+In addition, once we receive your transmission, we use reasonable efforts to ensure that collected personally identifiable information is secure and not readily accessible to unapproved individuals or third parties. PlanetFitness.com has limited the number of people who have physical access to our database servers and has implemented electronic security systems and password protections which help further guard against unauthorized access.
 
-Due to the existing regulatory environment, we cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose personal information to the government or third parties under certain circumstances, third parties may unlawfully intercept or access transmissions or private communications, or users may abuse or misuse your personal information that they collect from the Site. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. 
+## ACCESSING AND UPDATING YOUR INFORMATION
 
-**CONTACT INFORMATION**
+You may change the information you provide to us by completing the File Maintenance Form at the club you joined. You may ask to have your account information removed from our active databases by sending an e-mail to info@planetfitness.com with a request that your information be deleted in its entirety. We keep your personal information only as long as we need it for the purposes for which it was originally collected (or to which you have subsequently consented) or for other legitimate purposes (such as regulatory compliance), or as permitted by applicable law.
 
-If you have any questions, comments or concerns regarding Planet Fitness privacy policy and/or practices, write us at
+## CHILDREN
+
+This is a commercial website and is intended for individuals over the age of 18. If you are under 18, use of this site requires the permission and supervision of your parents. Additionally, children under the age of 18 should refrain from submitting any personal information through this Site.
+
+## CONTACT INFORMATION
+
+If you have any questions, comments or concerns regarding Planet Fitness privacy policy and/or practices, you may e-mail us at info@planetfitness.com or write us at
 
 Planet Fitness  
-113 Crosby Rd  
-Dover, NH  03820 
+26 Fox Run Rd.   
+Newington, NH 03801 
