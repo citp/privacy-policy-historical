@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unratedperez.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519070359id_/http%3A//unratedperez.com/%3Fpage_id%3D93080) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unratedperez.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119001427id_/http%3A//unratedperez.com/%3Fpage_id%3D93080) for the most accurate reproduction.*
 
 # privacy notice | UnratedPerez.com
 
