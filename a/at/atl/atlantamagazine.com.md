@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the atlantamagazine.com privacy policy that was archived on 2011-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110212224356id_/http%3A//www.atlantamagazine.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantamagazine.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119002954id_/http%3A//www.atlantamagazine.com/privacy/default.aspx) for the most accurate reproduction.*
 
-# 
-
-Privacy Policy
+# Privacy Policy - Atlanta Magazine
 
 This privacy policy ("Privacy Policy") describes _Atlanta_ magazine privacy practices for our website located at www.atlantamagazine.com (our "Site"), including what types of information we gather and track, how we use the information, and with whom we share the information. By using the Site, you agree to be bound by the terms of this Privacy Policy and by the Terms of Use. We may change this Privacy Policy at any time by posting revisions to the Site, and your continued use of the Site indicates your agreement to the revised terms. Accordingly, we urge you to frequently review this Privacy Policy, and if you do not agree to the terms of this or any revised policy, please exit the Site immediately.
 
@@ -49,4 +47,4 @@ If you have any concerns about privacy procedures at our website or wish to acce
 
 Please make any communications as complete and descriptive as possible, and we will attempt to respond promptly to your concerns.
 
-Effective May 5, 2005. 
+Effective May 5, 2005.
