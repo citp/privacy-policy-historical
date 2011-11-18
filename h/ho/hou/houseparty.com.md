@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the houseparty.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503230950id_/http%3A//houseparty.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseparty.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118043454id_/http%3A//www.houseparty.com/pages/dynamic/slug%3Aprivacy-policy) for the most accurate reproduction.*
 
 # House Party > Privacy Policy
 
-Updated effective August 12, 2010.
+Updated effective July 12, 2011.
 
-Welcome to www.houseparty.com.  This website (this “Website”) is owned and operated by House Party, Inc., a Delaware corporation with offices at One Bridge Street, Suite 105, Irvington, NY, U.S.A. 10533 (“House Party”, “we”, “our”, or “us”).     
+Welcome to www.houseparty.com.  This website (this “Website”) is owned and operated by House Party, Inc., a Delaware corporation with offices at One Bridge Street, Suite 3, Irvington, NY, U.S.A. 10533 (“House Party”, “we”, “our”, or “us”).     
 **  
 Our Commitment to Privacy**
 
@@ -12,7 +12,7 @@ House Party knows that your privacy is important to you, and we work hard to ear
 
 This Privacy Policy.  We have created this Online Privacy Policy (this “Privacy Policy”) to let you know what “personal information” we collect when you and others use this Website, how we use and share the personal information we collect, and some of the steps we take to protect your privacy.  “Personal information” is information that identifies you personally, either alone or in combination with other information available to us.  Examples of personal information include your name, address, and email address.
 
-Our Commitment to Transparency.  House Party is committed to providing the information you need to make informed choices about the ways you use this Website and the personal information you share with us.  If you have any questions about this Privacy Policy or our privacy practices, please contact us by email at privacy@houseparty.com or by writing us at Privacy Officer, House Party, Inc., One Bridge Street, Suite 105, Irvington, NY, U.S.A. 10533.   
+Our Commitment to Transparency.  House Party is committed to providing the information you need to make informed choices about the ways you use this Website and the personal information you share with us.  If you have any questions about this Privacy Policy or our privacy practices, please contact us by email at privacy@houseparty.com or by writing us at Privacy Officer, House Party, Inc., One Bridge Street, Suite 3, Irvington, NY, U.S.A. 10533.   
 
 **Your Consent to This Privacy Policy**
 
@@ -22,7 +22,7 @@ Our Participation in the U.S./EU Safe Harbor Program.**
 
 As part of our commitment to privacy, House Party adheres to the US Safe Harbor Privacy Principles and the guidelines provided in the U.S. Safe Harbor Frequently Asked Questions (together, the “U.S. Safe Harbor Framework”).  To learn more about the U.S. Safe Harbor Program, please visit the U.S. Department of Commerce’s Website at <http://www.export.gov/safeharbor/>.
 
-As part of our participation in the Safe Harbor Program, we participate in the Safe Harbor Privacy Dispute Resolution Program administered by the Direct Marketing Association (“DMA”).  If you have any concerns regarding our compliance with the Safe Harbor Privacy Framework, you should contact us by email at privacy@houseparty.com or by writing us at Privacy Officer, House Party, Inc., One Bridge Street, Suite 105, Irvington, NY, U.S.A. 10533.  If your concern is not addressed to your satisfaction, then, at your request, the DMA will review your complaint and work with us to resolve the dispute.  To learn more about the DMA Safe Harbor Privacy Dispute Resolution Program, click here.    
+As part of our participation in the Safe Harbor Program, we participate in the Safe Harbor Privacy Dispute Resolution Program administered by the Direct Marketing Association (“DMA”).  If you have any concerns regarding our compliance with the Safe Harbor Privacy Framework, you should contact us by email at privacy@houseparty.com or by writing us at Privacy Officer, House Party, Inc., One Bridge Street, Suite 3, Irvington, NY, U.S.A. 10533.  If your concern is not addressed to your satisfaction, then, at your request, the DMA will review your complaint and work with us to resolve the dispute.  To learn more about the DMA Safe Harbor Privacy Dispute Resolution Program, please visit <http://www.export.gov/safeharbor/>.    
 
 **This Privacy Policy is Part of Our Terms of Service.**
 
@@ -40,7 +40,7 @@ This Privacy Policy may be supplemented or amended from time to time by “priva
 
 **Country-Specific Notices**
 
-Privacy requirements vary from country to country.  To meet these requirements we have included certain “country-specific notices” as part of this Privacy Policy.  To see if there is one for your country, click here.  If any of the terms of a country-specific notice are different than the general terms of this policy, the terms of the country-specific notice will supplement or amend this policy, but only to the extent that the laws of that country apply to the collection of personal information through this Website.  
+Privacy requirements vary from country to country.  To meet these requirements we have included certain “country-specific notices” as part of this Privacy Policy.  If any of the terms of a country-specific notice are different than the general terms of this policy, the terms of the country-specific notice will supplement or amend this policy, but only to the extent that the laws of that country apply to the collection of personal information through this Website.  
 
 **Other Agreements**
 
@@ -52,11 +52,9 @@ Release, Waiver of Liability and Indemnity Agreement.  When you apply to host a
 
 We collect three types of personal information through this Website:  the personal information you knowingly choose to provide or post when you use this Website; personal information collected from your browser or using standard Web technologies, such as cookies; and the personal information others may provide about you when they post User Generated Content on this Website.
 
-Information You Provide. We collect the personal information you knowingly provide (using your mouse and keyboard) when you use this Website. The information we collect depends on how you use this Website. For example, if you apply to host a party, we collect the information you provide as part of the online application process. If you post photographs, comments or other User Generated Content on a party page, we collect that information also.  All postings must comply with the requirements for User Generated Content as set forth in our Terms of Service.  For more information about User Generated Content, click here.
+Information You Provide. We collect the personal information you knowingly provide (using your mouse and keyboard) when you use this Website. The information we collect depends on how you use this Website. For example, if you apply to host a party, we collect the information you provide as part of the online application process. If you post photographs, comments or other User Generated Content on a party page, we collect that information also.  All postings must comply with the requirements for User Generated Content as set forth in our Terms of Service. 
 
-House Party Store.  The House Party Store is operated by Amazon.com.  When you make a purchase at the House Party Store, the information you provide, including your credit card information, goes directly from your computer to a server operated by Amazon.com. To learn how Amazon.com uses the information you provide, please review Amazon.com’s Privacy Notice.  Amazon.com does not share your personal information with us.  Amazon.com does share certain aggregate data with us, such as statistics regarding the number of transactions or average dollar amount of transactions generated by referrals from this Website.  The House Party Store is only availably on the English-language version of this Website.
-
-Information Others Post on This Website.  The User Generated Content others post on this Website may contain your personal information.  For example, if you attend a party, someone may post photographs of you and others that were taken at the party.  All postings must comply with the requirements for User Generated Content as set forth in our Terms of Service.  For more information about User Generated Content, click here.
+Information Others Post on This Website.  The User Generated Content others post on this Website may contain your personal information.  For example, if you attend a party, someone may post photographs of you and others that were taken at the party.  All postings must comply with the requirements for User Generated Content as set forth in our Terms of Service. 
 
 Information Sent to Us by Your Web Browser.  We collect information that is sent to us automatically by your Web browser.  This information typically includes your IP address, the identity of your Internet service provider, the name and version of your operating system, the name and version of your browser, the date and time of your visit, and the pages you visit.  Please check your browser if you want to learn what information your browser sends or how to change your settings.  Generally, we do not link the information provided by your browser to information that identifies you by name.  You should know, however, that when you access this Website by clicking on a link in an email or other electronic communication you receive from us, your browser tells us that someone has clicked on a particular link in a communication addressed to you.  We collect that information to improve the effectiveness of our marketing efforts.
 
@@ -102,7 +100,7 @@ Generally.  We use the personal information we collect through this Website
 
 Invitations.  If you use this Website to invite a friend to a party you are hosting, we may send a separate e-mail to your friend explaining what the invitation and House Party are all about, and we may send follow-up e-mails regarding the party you are hosting . We will not add your friend’s contact information to our general mailing list unless your friend decides to register on this Website.
 
-Direct Marketing.  Before we use your personal information for direct marketing purposes, we will offer you the opportunity to opt-in or opt-out, as required by applicable law.  To learn more about the choices you have about the ways we use your personal information, please click here.
+Direct Marketing.  Before we use your personal information for direct marketing purposes, we will offer you the opportunity to opt-in or opt-out, as required by applicable law.  To learn more about the choices you have about the ways we use your personal information, see below.
 
 **How Does House Party Share My Personal Information?**
 
@@ -138,7 +136,7 @@ In General
 We respect your right to make choices about the ways we collect, use and disclose your personal information. In most cases, we will ask you to indicate your choices at the time we collect your personal information. If you have registered on this Website, you may update some of your privacy choices by changing your account settings.
 
 Direct Marketing  
-Before we use your personal information for direct marketing purposes we will offer you the opportunity to choose (by opting out or opting in, depending on applicable law) whether to have your information used in this way. We will also include an "opt-out" link in any promotional email we send you, so that you can inform us that you do not wish to receive such communications from us in the future. If at any time you wish to be taken off our mailing lists, please send an email us at privacy@houseparty.com or by writing us at Privacy Officer, House Party, Inc., One Bridge Street, Suite 105, Irvington, NY, U.S.A. 10533.  Please provide your full name, address and email address so that we can find you on our direct marketing mailing lists. Once we have the information we need, we will remove you from our mailing lists. Please give us a reasonable amount of time to honor your request.
+Before we use your personal information for direct marketing purposes we will offer you the opportunity to choose (by opting out or opting in, depending on applicable law) whether to have your information used in this way. We will also include an "opt-out" link in any promotional email we send you, so that you can inform us that you do not wish to receive such communications from us in the future. If at any time you wish to be taken off our mailing lists, please send an email us at privacy@houseparty.com or by writing us at Privacy Officer, House Party, Inc., One Bridge Street, Suite 3, Irvington, NY, U.S.A. 10533.  Please provide your full name, address and email address so that we can find you on our direct marketing mailing lists. Once we have the information we need, we will remove you from our mailing lists. Please give us a reasonable amount of time to honor your request.
 
 Sharing Your Personal Information.    
 Please review the section entitled “How Does House Party Share My Personal Information?” to learn how we may share your personal information with third parties and the general public and what choices you have about purposes for which we may share your personal information with third parties and the general public.   
@@ -147,7 +145,7 @@ Please review the section entitled “How Does House Party Share My Personal Inf
 
 If you have created an account or a personal profile on this Website, you may update your account information, including your contact information and privacy preferences, by logging into your account.
 
-In other cases, you will need our help to access and update your personal information.  If you wish to know what personal information about you we have stored in our databases or if you wish to update or correct your personal information, please send us an email at privacy@houseparty.com or by writing us at Privacy Officer, House Party, Inc., One Bridge Street, Suite 105, Irvington, NY, U.S.A. 10533.  We will respond to you within a reasonable time and within the time limits established by applicable law.  We may ask you for additional information to verify your identity.  In most cases, we will provide information about the personal information stored in our databases and correct or delete any inaccurate information you discover.  In some cases, however, we may limit or deny your request if the law permits or requires us to do so or if we are unable to verify your identify.  Although generally we do not charge for these services, we reserve the right, at our discretion, to charge a reasonable fee as permitted by applicable law. We will notify you if a fee will apply in your case.
+In other cases, you will need our help to access and update your personal information.  If you wish to know what personal information about you we have stored in our databases or if you wish to update or correct your personal information, please send us an email at privacy@houseparty.com or by writing us at Privacy Officer, House Party, Inc., One Bridge Street, Suite 3, Irvington, NY, U.S.A. 10533.  We will respond to you within a reasonable time and within the time limits established by applicable law.  We may ask you for additional information to verify your identity.  In most cases, we will provide information about the personal information stored in our databases and correct or delete any inaccurate information you discover.  In some cases, however, we may limit or deny your request if the law permits or requires us to do so or if we are unable to verify your identify.  Although generally we do not charge for these services, we reserve the right, at our discretion, to charge a reasonable fee as permitted by applicable law. We will notify you if a fee will apply in your case.
 
 **How do we protect your personal information?**
 
@@ -169,9 +167,9 @@ This Website may also contain links to websites operated by other companies, inc
 
 **What Personal Information Do We Collect From Children?**
 
-House Party does not knowingly collect personal information from anyone under fourteen (14) years of age. If you are under 14, do not use this Website to provide personal information to us.  If you believe that a child under the age of 14 has provided personal information through this Website, please contact us by email at privacy@houseparty.com or by writing us at Privacy Officer, House Party, Inc., One Bridge Street, Suite 105, Irvington, NY, U.S.A. 10533.  We will work with you to identify and delete information provided by children under the age of 14.
+House Party does not knowingly collect personal information from anyone under fourteen (14) years of age. If you are under 14, do not use this Website to provide personal information to us.  If you believe that a child under the age of 14 has provided personal information through this Website, please contact us by email at privacy@houseparty.com or by writing us at Privacy Officer, House Party, Inc., One Bridge Street, Suite 3, Irvington, NY, U.S.A. 10533.  We will work with you to identify and delete information provided by children under the age of 14.
 
-House Party does not knowingly collect personal information from anyone under eighteen (18) years of age without first obtaining verifiable parental consent if required to do so by applicable law.  If you believe we have collecting information from anyone under 18 in violation of applicable law, please contact us by email at privacy@houseparty.com or by writing us at Privacy Officer, House Party, Inc., One Bridge Street, Suite 105, Irvington, NY, U.S.A. 10533.  We will work with you to identify and delete information collected from minors under the age of 18 in violation of applicable law.
+House Party does not knowingly collect personal information from anyone under eighteen (18) years of age without first obtaining verifiable parental consent if required to do so by applicable law.  If you believe we have collecting information from anyone under 18 in violation of applicable law, please contact us by email at privacy@houseparty.com or by writing us at Privacy Officer, House Party, Inc., One Bridge Street, Suite 3, Irvington, NY, U.S.A. 10533.  We will work with you to identify and delete information collected from minors under the age of 18 in violation of applicable law.
 
 **Governing Law**
 
