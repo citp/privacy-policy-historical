@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uniteddomains.com privacy policy that was archived on 2011-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110112152223id_/https%3A//www.uniteddomains.com/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniteddomains.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118062033id_/https%3A//www.uniteddomains.com/service/privacy) for the most accurate reproduction.*
 
-# Domain Registration / New Top Level Domains
+# United Domains - Domain Registration
 
 This Privacy Policy governs the manner in which United Domains (UD) uses, maintains and discloses information collected from its customers and users of its website.
 
