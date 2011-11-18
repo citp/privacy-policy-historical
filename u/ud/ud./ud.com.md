@@ -1,33 +1,75 @@
-> *The following text is extracted and transformed from the ud.com privacy policy that was archived on 2008-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080614201520id_/http%3A//www.univaud.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ud.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118062033id_/https%3A//www.uniteddomains.com/service/privacy) for the most accurate reproduction.*
 
-# Univa UD, Inc.™ - Industrial Strength Open Source
+# United Domains - Domain Registration
 
-Univa UD is committed to respecting and protecting your right to privacy and we take your privacy seriously. We have a strictly enforced privacy policy and will keep your personal information secure. To communicate this, we have created this privacy policy to disclose and describe our information gathering and dissemination practices for our online communications. 
+This Privacy Policy governs the manner in which United Domains (UD) uses, maintains and discloses information collected from its customers and users of its website.
 
-## Collection of your Personal Information
+By using our website and services, you agree, without limitation or qualification, to be bound by this Privacy Policy. This policy may be updated as needed on occasion, so please return to this page periodically to check for any updates. Privacy
 
-Most pages on this site can be viewed without providing any information about yourself. However, for some content we will request information that makes you personally identifiable. 
+We are committed to building long-lasting relationships with our customers, and those relationships are built on a foundation of trust. We will do everything in our power to ensure that your right to privacy is maintained and protected.
 
-  * Your personal information is collected for internal use by Univa UD for site traffic analysis, response to requests and occasional marketing communications. 
-  * All personal information submitted to Univa UD is done so voluntarily and with your consent. 
-  * We pledge to hold all information you provide to us in absolute privacy. 
-  * We will never sell or rent your name or personal information to any third party without your express permission. 
-  * Only authorized employees may access your information.
+## Why Do We Collect Your Information?
+
+UD may use the personally identifiable information collected by UD to contact customers regarding products and services offered by UD and, to the extent that the user has agreed to it, by its trusted affiliates, independent contractors and business partners. We may also use this information for research purposes regarding the effectiveness of our website services, marketing, advertising and sales efforts. UD will not share this information in any way with a third party either for free or by selling it, unless such is necessary for the execution of your contract with UD or unless you specifically authorize such disclosures.
+
+## What Information Do We Collect?
+
+UD may request or collect personal information from online users in a variety of ways, including through online forms for ordering products and services, and other instances where users have opted to volunteer such information. This personal information is strictly confidential, and we will keep this information completely secure.
+
+The data we collect is information that identifies you personally, such as:
+
+  * Your name
+  * E-mail address
+  * Postal address
+  * Telephone and fax numbers
+  * URL
+  * Credit card information
+  * Other billing information
 
 
 
-## Subscription Status
+UD may also collect information about how users access the website using a tracking ID unique to each user through the use of cookies.
 
-We will occasionally send out information on our solutions, announcements and special offers. You can sign up for these emails from us on our home page. 
+## What are Cookies?
 
-If you no longer wish to receive such communications, you may opt-out of receiving them by emailing us at [unsubscribe@univaud.com](mailto:unsubscribe@univaud.com). 
+A cookie is a piece of data stored on a user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For session ID cookies, once you close your browser or log out, the cookie terminates and is erased. A persistent cookie is a small text file stored on your computer's hard drive for an extended period of time. Your browser's help file contains information and instructions for removing persistent cookies. Session ID cookies may be used by UD to track user preferences while the user is visiting the website. They also help to minimize load times and save on server processing. Persistent cookies may be used by UD to store, for example, whether you want your browser to store your password or not, and other long-term preference information. Cookies used on the UD website do not contain personally identifiable information.
 
-## Changes to this Privacy Policy
+## Log Files
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Univa UD reserves the right to modify this privacy statement at any time, so please review it frequently. 
+Like most standard websites, we use log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. However, none of the information stored in our log files, including but not limited to IP addresses, is linked to personally identifiable information.
 
-## Enforcement of this Privacy Policy and Contact Information
+## Disclosure of Information
 
-The Univa UD web site contains links to other web sites, this privacy statement applies only to the Univa UD web site. Please review the privacy statement of any site before submitting your personally identifiable information. 
+UD may also disclose aggregate, anonymous data based on information collected from users to investors and potential partners. In such cases, only statistical information will be disclosed and personally identifiable data will be kept strictly confidential. In the event that UD is sold, the information collected from users may be transferred to the new owners.
 
-If you have questions or concerns regarding our policy, or if you want to request the individual information Univa UD has collected about you via the Internet, contact us at [webmaster@univaud.com](mailto:webmaster@univaud.com).
+UD may occasionally engage third parties, including its own subsidiaries and affiliated companies, to preserve, analyze or otherwise store or analyze data received by UD from its customers. In all such cases, third party service providers will be required to treat all such data with the same degree of care as UD does, and they will be prohibited from disclosing such data to any other person or party, except as provided for in this Privacy Policy.
+
+## Special Offers and Updates
+
+Our customers and users will occasionally receive newsletters or e-mails with information on products, services, or special offers. Out of respect for the privacy of our users, UD gives them the opportunity to opt-out from receiving these types of communications.
+
+## Service Announcements
+
+On rare occasions, it is necessary to send out a strictly service-related announcement, for instance, if our service is temporarily suspended for maintenance. Generally, users may not opt-out of these communications, although they can deactivate their accounts. However, these communications are not promotional in nature, and are only intended for informational purposes.
+
+## Legal Disclaimer
+
+This website is not intended for use by children under 13 years of age.
+
+Though we make every effort to protect your privacy, we may need to disclose personal information when required by law, if we have a good-faith belief that such action is necessary and required to comply with a current judicial proceeding, a court order, subpoena or other legal process served on UD.
+
+The UD website contains links to other sites. Please be aware that UD is not responsible for the privacy practices of such other sites. We encourage you to read the privacy statements of each and every website that collects personally identifiable information. The UD Privacy Policy as described herein applies solely to information collected by UD.
+
+## Maintenance of Information
+
+The information provided to UD is saved indefinitely and may be stored on one or more databases directly or indirectly maintained by UD. UD employs industry-standard security measures to protect the confidentiality of the information. While we cannot guarantee that loss, misuse or alteration of data will not occur; we make every effort to prevent such occurrences. Any other particularly sensitive information, such as credit card numbers collected for commercial transactions, is encrypted prior to transmission from you to UD.
+
+## Your Responsibility
+
+You are responsible for the security of your Customer ID and passwords. Make sure you keep them in a safe place and do not share them with others. Always remember to log out after your session ends to ensure that others cannot access your private personal information. You should take this precaution especially if you are using a public computer, such as at a library or Internet cafe, but also when using a personal computer in your private home or office.
+
+## Questions
+
+Any questions concerning this Privacy Policy may be directed by e-mail to [privacypolicy@ud.com](mailto:privacypolicy@ud.com).
+
+To report abuse of this policy, please direct e-mail to [abuse@ud.com](mailto:abuse@ud.com).
