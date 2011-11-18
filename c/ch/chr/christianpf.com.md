@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianpf.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518214138id_/http%3A//christianpf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianpf.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118153408id_/http%3A//christianpf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -54,6 +54,6 @@ The web site contains links to other websites not owned by the owner of this web
 
 ### Privacy Contact Information
 
-### If you have any questions, concerns, or comments about our privacy policy you may [contact us](http://christianpf.com/christanpfcom-how-to-contact-me/).
+### If you have any questions, concerns, or comments about our privacy policy or [terms and conditions](http://christianpf.com/terms-and-conditions/) you may [contact us](http://christianpf.com/christanpfcom-how-to-contact-me/).
 
 We reserve the right to make changes to this policy. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
