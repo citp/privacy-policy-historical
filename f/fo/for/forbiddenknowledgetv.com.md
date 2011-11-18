@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forbiddenknowledgetv.com privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320111129id_/http%3A//www.forbiddenknowledgetv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forbiddenknowledgetv.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118122009id_/http%3A//www.forbiddenknowledgetv.com/privacy.html) for the most accurate reproduction.*
 
 # Forbidden Knowledge TV
 
@@ -78,4 +78,4 @@ a new video every day - free
 
 Return to the [forbidden knowledge tv](https://web.archive.org/) home page 
 
-[About Us](https://web.archive.org/about.html) | [Privacy Policy](https://web.archive.org/privacy.html)
+[About Us](https://web.archive.org/about.html) | [Privacy Policy](https://web.archive.org/privacy.html) | [Contact](https://web.archive.org/contact.html)
