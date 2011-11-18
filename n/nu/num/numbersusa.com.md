@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the numbersusa.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629023923id_/http%3A//www.numbersusa.com/content/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numbersusa.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118134211id_/https%3A//www.numbersusa.com/content/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | NumbersUSA - For Lower Immigration Levels
 
