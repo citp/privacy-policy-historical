@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangatraders.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516103000id_/http%3A//www.mangatraders.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangatraders.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119003042id_/http%3A//www.mangatraders.com/privacy_policy) for the most accurate reproduction.*
 
 # Manga Traders - Free Manga Downloads
 
