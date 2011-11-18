@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the norman.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102181525id_/http%3A//norman.com/about_norman/privacy_policy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norman.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118083212id_/http%3A//norman.com/about_norman/privacy_policy/en) for the most accurate reproduction.*
 
-# Norman | Privacy policy
+# Privacy policy | Norman — Proactive IT security
+
+**_Published 2008.02.15_**
 
 This privacy policy sets out how Norman uses and protects any information that you give Norman when you use this website.
 
@@ -71,7 +73,7 @@ The information is not provided to these organizations for marketing purposes.
 You may choose to restrict the collection or use of your personal information in the following ways: 
 
   * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes. If no such box is available on a form, the information you provide will not be used for direct marketing purposes.
-  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [web@norman.no](mailto:web@norman.no). You may also [unsubscribe to our mailing lists](http://norman.com/about_norman/subscribe_to_newsletter/) that you have previously subscribed to.
+  * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [web@norman.no](mailto:web@norman.no). You may also [unsubscribe to our mailing lists](http://www.norman.com/about_norman/subscribe_to_newsletter/) that you have previously subscribed to.
 
 
 
