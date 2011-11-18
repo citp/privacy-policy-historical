@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the janetjackson.com privacy policy that was archived on 2010-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101225071443id_/http%3A//www.janetjackson.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the janetjackson.com privacy policy that was archived on 2011-11-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111118040510id_/http%3A//www.janetjackson.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -13,15 +13,19 @@
 		<meta name="description" content="The Official Site of five-time Grammy award-winning recording artist and actress , Janet Jackson. Watch videos, see photos, get lyrics, and much more.">
 	
 
+	<!-- FACEBOOK OPEN GRAPH -->
+	
+
 	<!-- ICONS -->
 	<link rel="icon" type="image/gif" href="http://cdn.sparkart.net/janetjackson/images/icon.gif">
 	
-	<link rel="image_src" href="http://cdn.sparkart.net/janetjackson/images/preview.jpg">
+	<link rel="image_src" href="http://cdn.sparkart.net/janetjackson/images/content/lifestyle-lists/facebook.jpg">
 	
 
 	<!-- VARIABLE BRIDGE -->
-	<script type="text/javascript">
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 
+        var signed_in = false;   
 		var site_host = "http://www.janetjackson.com";
 		var asset_host = "http://cdn.sparkart.net/janetjackson";
 		var title = "Privacy Policy";
@@ -30,6 +34,9 @@
 		
 		
 		var ie6 = (navigator.userAgent.match('MSIE 6') ? true : false);
+		
+		var redirect = "false"
+		
 
 	</script>
 
@@ -42,19 +49,26 @@
 	
 	<script src="http://s7.addthis.com/js/250/addthis_widget.js#username=janetjackson" type="text/javascript"></script>
 	
+
+	<!-- FACEBOOK -->
+	
 	
 	<!-- CUFON -->
-	<script src="http://cdn.sparkart.net/janetjackson/clique/javascripts/cufon.js" type="text/javascript"></script>
+	<script src="http://cdn.sparkart.net/janetjackson/clique/javascripts/cufon-1.09.js" type="text/javascript"></script>
 	<script src="http://cdn.sparkart.net/janetjackson/fonts/futura-book.js" type="text/javascript"></script>
+	<script src="http://cdn.sparkart.net/janetjackson/fonts/futura-bold.js" type="text/javascript"></script>
+	
 	
 
 	<!-- PATTERNS -->
 	
 
+<script src="http://cdn.sparkart.net/janetjackson/clique/patterns/clique/signin.js" type="text/javascript"></script>
 <script src="http://cdn.sparkart.net/janetjackson/clique/patterns/actions/jquery-actions.js" type="text/javascript"></script>
 <script src="http://cdn.sparkart.net/janetjackson/clique/patterns/forms/jquery-forms.js" type="text/javascript"></script>
 <link href="http://cdn.sparkart.net/janetjackson/clique/patterns/formatting/forms.css" media="screen" rel="Stylesheet" type="text/css">
 <link href="http://cdn.sparkart.net/janetjackson/clique/patterns/formatting/markup.css" media="screen" rel="Stylesheet" type="text/css">
+<link href="http://cdn.sparkart.net/janetjackson/clique/patterns/clique/signin.css" media="screen" rel="Stylesheet" type="text/css">
 
 
 
@@ -64,9 +78,10 @@
 
 	<!-- JAVASCRIPT FUNCTIONS -->
 	<script src="http://cdn.sparkart.net/janetjackson/javascripts/functions.js" type="text/javascript"></script>
-	
+
 	<!-- MASTER STYLESHEET -->
 	<link href="http://cdn.sparkart.net/janetjackson/stylesheets/master.css" media="screen" rel="Stylesheet" type="text/css">
+	<link href="http://cdn.sparkart.net/janetjackson/stylesheets/signin-overlay.css" media="screen" rel="Stylesheet" type="text/css">
 
 	<!-- SKINS -->
 	
@@ -77,6 +92,8 @@
 	
 		<link href="http://cdn.sparkart.net/janetjackson/stylesheets/section-legal.css" media="screen" rel="stylesheet" type="text/css">
 	
+	
+
 
 	<!-- INTERNET EXPLORER EXCEPTIONS -->
 	<!--[if lt IE 7.]><link href="http://cdn.sparkart.net/janetjackson/stylesheets/ie6.css" media="screen" rel="Stylesheet" type="text/css" /><![endif]-->
@@ -87,17 +104,102 @@
 	<link rel="alternate" type="application/atom+xml" title="JanetJackson.com News" href="http://www.janetjackson.com/feeds/news.xml">
 
 </head>
-<body id="page-privacy" class="section-legal  ">
+<body id="page-privacy" class="section-legal    ">
+
+
+<!-- SIGN IN OVERLAY -->
+<div id="signin-overlay">
+
+	<div class="content">
+
+		<div id="signin">
+
+			<a class="close" href="#">Close</a>
+
+			
+				  <!-- WIDGET: ACCOUNT / SIGN IN MODE -->
+  <form action="https://janetjackson-secure.sparkart.net/process/login?page=tour" method="post">
+  <input name="reset_page" type="hidden" value="login">
+  <input name="alert_page" type="hidden" value="privacy">
+  <input name="redirect_to" type="hidden" value="">
+  <input name="remote_login" type="hidden" value="true">
+  <div class="widget-account signin">
+
+    <h3>Already a Member? Sign In With Your Clique ID™</h3>
+
+    <label><em class="email">E-mail Address</em><input id="account_email" name="account[email]" type="text"></label><br>
+    <label><em class="password">Password</em><input id="account_password" name="account[password]" type="password"></label><br>
+
+    <!-- Actions -->
+    <ul class="actions">
+      <li><input class="action save" type="submit" name="submit" value="Submit"></li>
+        <li><a class="action join" href="/login">Join</a></li>
+        <li><a class="action help" href="/help">Need Help?</a></li>
+        <li><a class="action reset" href="/login">Forgot Your Password?</a></li>
+    </ul>
+
+  </div>
+
+  </form>
+  <!-- / WIDGET -->
+
+						
+
+			<!-- WIDGET: ACCOUNT / PASSWORD RESET MODE -->
+<form action="http://www.janetjackson.com/process/account/password_reset?page=privacy" method="post">
+<input id="account_success_page" name="account[success_page]" type="hidden" value="/tour">
+<div class="widget-account password">
+
+  <h3>Reset Your Password</h3>
+
+  <p>Please enter the e-mail address associated with your Clique ID to have a new password created and sent to that address.</p>
+
+  <label class="email"><em>E-mail Address</em><input id="account_email" maxlength="128" name="account[email]" size="30" type="text" value=""></label><br>
+
+  <!-- Actions -->
+  <ul class="actions">
+
+    <li><input class="action reset" type="submit" name="submit" value="Reset Password"></li>
+
+  </ul>
+
+</div>
+</form>
+<!-- / WIDGET -->
+
+
+			
+
+
+		</div>
+		
+		<div id="membership" class="bordered">
+			
+			<h3>Not a Member?</h3>
+			
+			<ul class="actions">
+			<li><a class="action join" href="https://janetjackson-secure.sparkart.net/checkout/process_index?plan_id=272">Join JanetJackson.com For Free</a></li>
+			</ul>
+			
+		</div>
+
+	</div>
+
+</div>
+<!-- END: SIGN IN OVERLAY -->
+
+
+	
 
 	
 	<div id="layout" class="grid two_thirds">
 
-<div id="flashbackground">
+<div id="flashbackground" class="flash">
 
 	<script type="text/javascript">
 
-		var so = new SWFObject(asset_host+"/flash/janet_shards.swf", "_swf", "800", "1140", "10", "#ffffff");
-	  	so.useExpressInstall(asset_host+'/flash/expressinstall.swf');
+		var so = new SWFObject("http://cdn.sparkart.net/janetjackson/flash/janet_shards.swf", "_swf", "800", "1140", "10", "#ffffff");
+	  	so.useExpressInstall('http://cdn.sparkart.net/janetjackson/flash/expressinstall.swf');
 		so.addParam("quality", "high");
 		so.addParam("AllowScriptAccess", "always");
 		so.addParam("wmode", "opaque");
@@ -126,7 +228,7 @@
 		<!--li class="twitter"><a class="two" href="http://twitter.com/JanetJackson" target="_blank">Twitter</a></li-->
 		<li class="myspace"><a class="three" href="http://www.myspace.com/janetjackson" target="_blank">Myspace</a></li>
 		<li class="facebook"><a class="four" href="http://www.facebook.com/JanetJackson" target="_blank">Facebook</a></li>
-		<li class="thebest france"><a href="http://www.janetjacksonthebest.fr" target="_blank">The Best - France</a></li>
+		<!--li class="thebest france"><a href="http://www.janetjacksonthebest.fr" target="_blank">The Best - France</a></li-->
 		<li class="thebest uk"><a href="http://janetjackson-thebest.s04.pre.umguk.vvhp.net" target="_blank">The Best - UK</a></li>
 		
 	</ul>
@@ -136,7 +238,7 @@
 		<!-- TWITTER TICKER -->
 		<div id="ticker">
 
-			<a href="http://twitter.com/JanetJackson" target="_blank" class="follow">Follow Janet on Twitter</a>	
+			<a href="http://twitter.com/#!/JanetJackson" target="_blank" class="follow">Follow Janet on Twitter</a>	
 			<div class="tweets"></div>
 
 			<!-- script type="text/javascript" src="http://www.janetjackson.com/feeds/external/twitter"></script -->
@@ -146,19 +248,42 @@
 
 	
 
+	<!-- 20 UNDER 20 NOMINATIONS -->
+	<div id="nominations">
+
+		<h3><a href="/20_under_20_nominations"><strong>Enter extraordinary young people into Janet's</strong> 20 Under 20 Nominations.</a></h3>
+
+	</div>
+
+	<!-- CLIQUE ID -->
+	
+	<div id="id">
+
+		<h3>Clique ID</h3>
+
+		
+
+			<a class="signin" href="http://www.janetjackson.com/login" target="_top">Sign in</a>
+
+		
+
+	</div>
+	
+
 </div>
 <div id="header">
 
 	<!-- JANET JACKSON -->
 	<h1><a href="/index">Janet Jackson</a></h1>
+	
 
 		
-		<div id="header_flash">
+		<div id="header_flash" class="flash">
 
 			<script type="text/javascript">
 
 				var so = new SWFObject("http://cdn.sparkart.net/janetjackson/flash/logo.swf", "_swf", "100%", "100%", "9", "#FFFFFF");
-	  			so.useExpressInstall('expressinstall.swf');
+	  			so.useExpressInstall('http://cdn.sparkart.net/janetjackson/flash/expressinstall.swf');
 				so.addParam("quality", "high");
 				so.addParam("AllowScriptAccess", "always");
 				so.addParam("wmode", "transparent");
@@ -176,10 +301,11 @@
 		
 		<li class="home"><a href="/index">Home</a></li>
 		<li class="janet"><a href="/janet">Janet</a></li>
+		<li class="tour"><a href="/tour">Tour</a></li>
 		<li class="music"><a href="/music">Music</a></li>
 		<li class="photos"><a href="/photos">Photos</a></li>
 		<li class="videos"><a href="/videos">Videos</a></li>
-		<li class="store"><a href="http://janetjackson.fanfire.com" target="_blank">Store</a></li>
+		<li class="store"><a href="/comingsoon">Store</a></li>
 	
 	</ul>
 
@@ -191,25 +317,22 @@
 	<div id="legals" class="privacy">
 
 		<h2>Privacy Policy</h2>
-		
-	
-
-<div class="markup story">
+		<div class="markup story">
 
 	
-	
+
 		<!-- INTRODUCTION -->
 		<h3>Introduction</h3>
 		<p>Sparkart Group, Inc. (“Sparkart”) cares deeply about your privacy and the protection of your personal information, and we have devised this Privacy Policy so you are informed about the use and protection of your personal information. By using the Sparkart Services, you consent to the data practices described in this policy statement. Defined terms designated in the <a href="/terms">Terms of Service</a> shall have the same definitions in this Privacy Policy.</p>
-		
+
 		<!-- PERSONAL INFO -->
 		<h3>Collection of Personal Information</h3>
 		<p>When you register for the Sparkart Services, you may be asked to provide certain personal information that may be stored as part of your registration data. The registration data contains various personal information which may include, but not be limited to, the following: (1) e-mail address, (2) first and last name, (3) country or region, (4) state or territory, (5) city, (6) zip code or postal code, (7) street address, (8) time zone, (9) gender, (10) language, (11) birth date and age, and (12) occupation. In addition to the above information, Sparkart may also collect and store the IP address of your computer or other networking device, which may be needed to operate various features and functionality of the Sparkart Services. We may also collect data pertaining to your online transactions, purchase history, and Sparkart Site and Sparkart Services usage patterns. Further, when you register for the Sparkart Services, you may be asked to create a password for your account. You may also be requested to provide secret questions and secret answers. You use your secret questions and answers, if applicable, to help verify your identity to Sparkart when there are account issues, such as needing to reset your password. You may also be requested to answer various questions and/or surveys about your consumer preferences or other information. Finally, we and some participating sites may require added security. In these cases, you may be asked to create a Clique ID security key. Sparkart may store the information described in this paragraph in its Clique ID system.</p>
-		
+
 		<!-- CLIQUE ID -->
 		<h3>Clique ID</h3>
 		<p>Clique ID, which is owned and operated by Sparkart and is a part of the Sparkart Services, is a common account system that makes it possible for you to use your e-mail address and a single password to easily register, sign in, interact and conduct various transactions on the various websites, services and systems participating in the Clique ID system.</p>
-		
+
 		<!-- USE OF INFO -->
 		<h3>Use of Your Personal Information</h3>
 		<p>Sparkart will not use or share your personal information in a manner that differs from what is described in this Privacy Policy without your prior consent.</p>
@@ -222,7 +345,7 @@
 		<h3>Disclosure of Personal Information</h3>
 		<p>Sparkart occasionally hires other companies to provide limited services on our behalf or to fulfill a service or transaction you may have requested, such as answering customer support inquiries, fulfilling merchandise orders, selling concert tickets, etc. Sparkart will only provide these companies with those pieces of your personal information needed to deliver the services.</p>
 		<p>Sparkart may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process served on Sparkart; (b) protect and defend the rights or property of Sparkart; or (c) act under exigent circumstances to protect the personal safety of users of the Sparkart Service, or the public.</p>
-		
+
 		<!-- DISCLOSURE TO CLIQUE ID SITES -->
 		<h3>Disclosure of Personal Information to Clique ID Participating Sites</h3>
 		<p>The information about you stored in the Clique ID system is not shared with a Clique ID participating site, service or system unless you explicitly choose to use your Clique ID to register or sign in with the participating site When you use your Clique ID to register or sign in with the participating site, service or system, the participating site will receive some or all of the information about you stored in the Clique ID system It is important for you to read the privacy statement for each Clique ID participating site, service or system that you visit before you register or sign in, so that you understand how that site may use your personal information Also, if you registered for a Clique ID through a participating site, service or system, then that registering site will receive the profile information at the time of registration.</p>
@@ -235,7 +358,7 @@
 
 		<!-- MANAGING -->
 		<h3>Managing Your Personal Information</h3>
-		<p>You can always add, update, or make other changes to the registration information stored in relation to your Clique ID. This is accessible by signing in to any Clique ID site in which you are registered. If you have a Clique ID, you may close your Clique ID account by <a href="mailto:contact@sparkart.com">contacting Customer Service</a>.</p>
+		<p>You can always add, update, or make other changes to the registration information stored in relation to your Clique ID. This is accessible by signing in to any Clique ID site in which you are registered. If you have a Clique ID, you may close your Clique ID account by <a href="mailto:janetjacksonvip@support.sparkart.com">contacting Customer Service</a>.</p>
 
 		<!-- SHARING -->
 		<h3>Sharing Your Personal Information</h3>
@@ -246,7 +369,7 @@
 		<p>Sparkart is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access and located in controlled facilities.</p>
 		<p>You must type the correct password to access your information. It is your responsibility to ensure the security of your Sparkart account password and not to reveal this information to others.</p>
 		<p>Personal information collected by Sparkart may be stored and processed in the United States or any other country in which Sparkart or its affiliates, subsidiaries, or agents maintain facilities. By using the Sparkart Service, you consent to any such transfer of information outside of your country.</p>
-		
+
 		<!-- OPERATIONAL INFO -->
 		<h3>Operational Information</h3>
 		<p>Some “operational” information is used by Sparkart in order to operate your account properly and provide the Sparkart Services. This operational information does not include the personal information that you provide as part of your Sparkart registration data, but may include, for example, the following:  the date on which your registration data was last updated, whether your e-mail address has been verified, whether your account has been deactivated, what browser you are using, the IP address of your computer or other networking device, and other similar types of information. Operational information may be shared with third parties to the extent necessary to provide the Sparkart Services.</p>
@@ -264,26 +387,26 @@
 		<p>A cookie is a very small text file that a website saves to your computer’s hard disk to store information that you provide about yourself or to store your preferences. The Sparkart Services may use cookies when you sign in to or access a Sparkart Site or Service. The Sparkart Services store your unique identifier, the time you signed in, and Sparkart registration data in an encrypted cookie on your hard disk. The cookie allows you to move from page to page at the participating site without having to sign in again on each page.</p>
 		<p>The Sparkart Services may also use cookies to improve the sign in experience. For example, the Sparkart Services may store your user name in a cookie that will remain on your computer after you sign out. This cookie allows your user name to be entered automatically, so that you will only need to type your password the next time you sign in.</p>
 		<p>You may have the ability to accept or decline cookies using the settings on your browser. However, if you choose to decline cookies, you may not be able to sign in or use the Sparkart Services.</p>
-		
+
 		<!-- CHANGES -->
 		<h3>Changes to This Privacy Policy</h3>
 		<p>Sparkart may occasionally update this Privacy Policy. When we do, Sparkart will endeavor to provide notice to users in one or more of the following ways: (1) Sparkart will update the “last updated” date at the bottom of the Privacy Policy; (2) Sparkart may post notice of the update as a news post on the Sparkart Site; and (3) Sparkart may email notice of the update to all registered users. Sparkart will obtain your consent to any updates to this Privacy Policy in which there is an expansion of the sharing or use of your personal information.</p>
 
 		<!-- CONTACT US -->
 		<h3>Contact Us</h3>
-		<p>If you have questions regarding this Privacy Policy, please <a href="mailto:contact@sparkart.com">contact Customer Service</a>.</p>
+		<p>If you have questions regarding this Privacy Policy, please <a href="mailto:janetjacksonvip@support.sparkart.com">contact Customer Service</a>.</p>
 
 		<!-- CONSUMER NOTICE -->
 		<h3>Consumer Notice</h3>
-		<p>Sparkart Group, Inc. is a California corporation. Pursuant to California Civil Code § 1789.3, Sparkart Group, Inc. sets forth the following: (a) Sparkart Group, Inc. is located at 1714 Franklin Street, 2nd Floor, Oakland, CA 94612; (b) the fees and charges imposed on consumers of Sparkart Group, Inc. vary depending on the services you choose; and (c) if you have any complaints about Sparkart Group, Inc. or wish to receive further information about Sparkart Group, Inc., please <a href="mailto:contact@sparkart.com">contact Customer Service</a>. For complaints against Sparkart Group, Inc., you may also contact the Complaint Assistance Unit of the Division of Consumer Services of the Department of Consumer Affairs by (1) visiting www.dca.ca.gov/about_dca/contactus.shtml; (2) sending an email to dca@dca.ca.gov; (3) calling (800) 952-5210; or (4) writing to Department of Consumer Affairs, Consumer Information Division,</p>
+		<p>Sparkart Group, Inc. is a California corporation. Pursuant to California Civil Code § 1789.3, Sparkart Group, Inc. sets forth the following: (a) Sparkart Group, Inc. is located at 1714 Franklin Street, 2nd Floor, Oakland, CA 94612; (b) the fees and charges imposed on consumers of Sparkart Group, Inc. vary depending on the services you choose; and (c) if you have any complaints about Sparkart Group, Inc. or wish to receive further information about Sparkart Group, Inc., please <a href="mailto:janetjacksonvip@support.sparkart.com">contact Customer Service</a>. For complaints against Sparkart Group, Inc., you may also contact the Complaint Assistance Unit of the Division of Consumer Services of the Department of Consumer Affairs by (1) visiting www.dca.ca.gov/about_dca/contactus.shtml; (2) sending an email to dca@dca.ca.gov; (3) calling (800) 952-5210; or (4) writing to Department of Consumer Affairs, Consumer Information Division,</p>
 		<p>1625 North Market Blvd., Suite N, 112<br>
 		Sacramento, CA 95834.</p>
 
 		<!-- LAST UPDATED -->
 		<p><strong>Last Updated: June 30, 2010</strong></p>
-		
+
 	
-	
+
 </div>
 
 
@@ -305,7 +428,7 @@
 
 		</li>
 
-		<li><p>Software and Design: Copyright © 2009 Sparkart Group, Inc., its suppliers or licensors. All rights reserved.<br>Content: Copyright © 2009 Janet Jackson, its suppliers or licensors. All rights reserved.<br><a class="privacy" href="/privacy">Privacy Policy</a> / <a class="terms" href="/terms">Terms of Use</a></p></li>
+		<li><p>Software and Design: Copyright © 2011 Sparkart Group, Inc., its suppliers or licensors. All rights reserved.<br>Content: Copyright © 2011 Janet Jackson, its suppliers or licensors. All rights reserved.<br>Read our <a class="privacy" href="/privacy">Privacy Policy</a> / <a class="terms" href="/terms">Terms of Use</a>. For site-related questions, please visit our <a href="/help">Help</a> section.</p></li>
 
 	</ul>
 			
@@ -316,12 +439,19 @@
 <a id="cliquetools" class="janetjackson" href="http://www.cliquetools.com"><em>Powered by Clique Tools</em></a>
 
 <!-- GOOGLE ANALYTICS -->
-        <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
         <script type="text/javascript">
-          var pageTracker = _gat._getTracker("UA-5298832-19"); 
-          pageTracker._setDomainName(".janetjackson.com");
-          pageTracker._trackPageview();
+
+          var _gaq = _gaq || [];
+          _gaq.push(['_setAccount', 'UA-5298832-19']);
+          _gaq.push(['_setDomainName', '.janetjackson.com']);
+          _gaq.push(['_trackPageview']);
           
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+
         </script>
 
 
