@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shawcable.net privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512055854id_/http%3A//www.shawcable.net/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shawcable.net privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118174236id_/http%3A//www.shawcable.net/Privacy-Policy) for the most accurate reproduction.*
 
 # Shaw Privacy Policy — The principles, definitions and commitment to your privacy - Shaw.ca
 
