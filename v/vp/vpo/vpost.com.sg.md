@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vpost.com.sg privacy policy that was archived on 2011-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110121193704id_/https%3A//www.vpost.com.sg/vpost/welcome.jsp%3Fpage%3Dprivacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpost.com.sg privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118152818id_/http%3A//www.vpost.com.sg/vpost/welcome.jsp%3Fpage%3Dprivacypolicy.html) for the most accurate reproduction.*
 
 # vPOST :- Shopping | Shipping | Bill Payment
 
