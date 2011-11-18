@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsindubai.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521083105id_/https%3A//www.jobsindubai.com/terms.asp%3FqType%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsindubai.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118232804id_/https%3A//www.jobsindubai.com/terms.asp%3FqType%3D1) for the most accurate reproduction.*
 
 # Jobs in Dubai
 
@@ -8,7 +8,10 @@ This Privacy Policy applies to your use of the Jobs In Dubai . Com Inc. (JID) we
 Unit 104, Bldg 5   
 Mississauga, L4W 5B2, ON   
 Canada   
-Telephone : 1.905.625.2716   
+Tel: 
+
+(00) 1-866-852-5772   
+(00) 1-905-625-2716   
 Email : Privacy.Terms@jobsindubai.com
 
 At JID your privacy is of paramount importance. As the custodians of your personal information, we have developed this policy to ensure that your privacy is always protected while you are using the JID website.
