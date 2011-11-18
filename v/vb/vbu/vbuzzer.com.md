@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vbuzzer.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523081838id_/http%3A//www.vbuzzer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbuzzer.com privacy policy that was archived on 2011-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111118161928id_/http%3A//www.vbuzzer.com/privacy.php) for the most accurate reproduction.*
 
 # Vbuzzer Privacy Policy
 
