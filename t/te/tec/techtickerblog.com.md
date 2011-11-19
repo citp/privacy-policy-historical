@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techtickerblog.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522081921id_/http%3A//www.techtickerblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techtickerblog.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119085133id_/http%3A//www.techtickerblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Tech Ticker | Privacy Policy
 
