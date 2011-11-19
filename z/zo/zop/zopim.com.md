@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zopim.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514234933id_/http%3A//www.zopim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zopim.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119235321id_/http%3A//www.zopim.com/privacy) for the most accurate reproduction.*
 
 # Zopim - Privacy Policy
 
