@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getharvest.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617052403id_/http%3A//www.getharvest.com/services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getharvest.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119223400id_/http%3A//www.getharvest.com/services/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Harvest
 
