@@ -1,78 +1,53 @@
-> *The following text is extracted and transformed from the teachingideas.co.uk privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522083822id_/http%3A//www.teachingideas.co.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachingideas.co.uk privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119175557id_/http%3A//www.teachingideas.co.uk/privacypolicy.htm) for the most accurate reproduction.*
 
-# Teaching Ideas - Privacy Policy
+# Privacy Policy
 
-This privacy policy relates to the Teaching Ideas network of sites, which includes:
+**Introduction** :
 
-  * Teaching Ideas - www.teachingideas.co.uk
-  * Teaching Photos - www.teachingphotos.co.uk
-  * Teaching Forum - www.teachingforum.co.uk (now closed)
-  * Teaching News - www.teachingnews.co.uk
-  * Teaching Videos - www.teachingvideos.co.uk
-  * Teaching Events - www.teachingevents.co.uk
-  * Welcome to the Web - www.teachingideas.co.uk/welcome
-  * Ideas to Inspire - www.ideastoinspire.co.uk
+This Privacy Policy relates to Teaching Ideas, a website which shares lesson ideas and educational resources, at www.teachingideas.co.uk. This includes all subject / topic pages on the site, as well as the 'Teaching Themes' area at www.teachingideas.co.uk/themes/.
 
+We are committed to safeguarding the privacy of users of Teaching Ideas. We encourage all users to act responsibly and with care when it comes to their personal information and that of others. Please read the following Privacy Policy to understand how the information you provide to us is used and protected. If you have any queries or concerns regarding these practices, please [get in touch](mailto:mark@teachingideas.com). 
 
+Please note that by visiting and using the Teaching Ideas site, you are agreeing to the use of your personal information as described in this Privacy Policy.
 
-This privacy policy sets out how Teaching Ideas uses and protects any information that you give Teaching Ideas when you use these websites.
+**Changes** :
 
-Teaching Ideas is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using these websites, then you can be assured that it will only be used in accordance with this privacy statement.
+We may change this policy from time to time by updating this page. You should check this page occasionally to ensure that you are happy with any changes. This policy was last updated in July 2011.
 
-Teaching Ideas may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
+**The information that we collect and how we use it** :
 
-**What we collect:**
+The Teaching Ideas site does not collect any personal information from visitors who visit the site, read the ideas or download resources. However, visitors may share their personal information by interacting with the site in other ways:
 
-We may collect the following information:
-
-  * name
-  * profession 
-  * contact information including email address
-  * demographic information such as location, preferences and interests
-  * other information relevant to the use of these sites. 
+  * **Mailing List** \- Visitors to Teaching Ideas can register for a monthly email newsletter. This Teaching Ideas Update mailing list is managed by [ymlp.com](http://www.ymlp.com/). All personal information provided when registering for our mailing list is saved in YMLP's database. Teaching Ideas sends out one email newsletter per month to registered users and personal information is only used to send out these monthly emails. No personal information is sold or shared with others. You can subscribe and unsubscribe from the Teaching Ideas Update mailing list [here](http://www.teachingideas.co.uk/mailinglist.htm). You can also read YMLP's [Privacy Policy](http://www.yourmailinglistprovider.com/privacy_policy.html) and [Anti-Spam Policy](http://www.yourmailinglistprovider.com/antispam_policy.html). 
+  * **Email Contributions** \- We encourage teachers to share their lesson ideas and resources with Teaching Ideas. Any contributions sent to Teaching Ideas[ via email](mailto:mark@teachingideas.com) will be saved and archived in a Google Mail account (see [Google's Privacy Policy](http://www.google.com/privacy/privacy-policy.html)). Contributors will receive email from us in relation to their contribution but emails will not be sent for any other reason. Email will be saved in case we need to contact you about your contribution again in the future. If your contribution is used on Teaching Ideas, your name will be published alongside it, unless you tell us that you would not like this information to be published.
+  * **File Uploads** \- Teachers and educators can upload resources to the site using the [Share Your Ideas form](http://www.teachingideas.co.uk/share.htm). Any personal information and file uploads will be stored on the Teaching Ideas server (hosted by [RM](http://www.rm.com/)) and will be deleted once the contributions have been reviewed. Personal information / file uploads will also be automatically forwarded to our Google Mail account (see information relating to 'Email Contributions' above). If your contribution is used on Teaching Ideas, your name will be published alongside it, unless you tell us that you would not like this information to be published.
 
 
 
-**What we do with the information we gather:**  
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+**The information that others collect:**
 
-  * Internal record keeping.
-  * We may use the information to improve our products and services.
-  * We may periodically send emails about new ideas, resources or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email. We may use the information to customise the website according to your interests.
-  * Security.
-  * We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+Teaching Ideas uses a number of third party services to provide additional functionality to the site and its users. These services may use cookies. Find out more about cookies at [All About Cookies](http://www.allaboutcookies.org/). The third party services used on Teaching Ideas are:
 
-
-
-**How we use cookies:**  
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree (and your computer may be set up to do this automatically for you), the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
-
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
-
-We also use cookies to collect data as part of the advertising displayed on these sites, and to support the commenting / forum functions within the site. 
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
-
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
-
-**Advertising:**
-
-We use third-party advertising companies to serve ads when you visit our website. These companies may use anonymous information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. These companies may use cookies to record your visits to this site.
-
-  * Visitors may opt out of the use of the Google DART cookie by visiting the [Google Privacy Centre](http://www.google.co.uk/privacy_ads.html).
-  * Visitors may opt out of the Specific Media targetted advertising by visiting [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp).
+  * **Google Analytics** \- Teaching Ideas uses Google Analytics to track and monitor statistics about visitors to the site. You can read the [Google Analytics Privacy Overview here](http://www.google.com/intl/en/analytics/privacyoverview.html). To opt out of being tracked by Google Analytics across all websites, Google provide [this browser add-on](http://tools.google.com/dlpage/gaoptout) which you can install on your computers.
+  * **Advertisers** \- In order to provide free lesson ideas and educational resources, Teaching Ideas shows advertising, which are provided by the following services: 
+    * Google Adsense - Read Google's Privacy information and opt out of targeted advertising [here](http://www.google.com/privacy/ads/).
+    * Specific Media - Read Specific Media's Privacy policy and opt out of their user interest targeting cookie [here](http://www.specificmedia.com/privacy).
+    * Amazon.co.uk Affiliates - Read Amazon.co.uk's Privacy Notice [here](http://www.amazon.co.uk/gp/help/customer/display.html?nodeId=502584).
+    * OpenX - You can read OpenX's Privacy Overview and opt out of targeted advertising [here](http://www.openx.org/about/privacy-policy).
+  * **Disqus Comments** \- Teaching Ideas uses a service from Disqus to allow visitors to comment on lesson ideas and share their own ideas / opinions. Comments are moderated and may be deleted if inappropriate / unsuitable for use on the site. Read Disqus' privacy policy [here](http://docs.disqus.com/help/30/).
+  * **RSS / Email subscriptions** \- Visitors may subscribe to the site (for free) and receive information about the latest additions to Teaching Ideas by RSS and / or email. This service is provided by Google Feedburner. Find out more about Google's privacy principles at the [Google Privacy Center](http://www.google.com/intl/en/privacy/).
+  * **Outbrain** \- Teaching Ideas uses Outbrain to provide users with links to relevant articles and resources across the site. Read Outbrain's privacy policy [here](http://www.outbrain.com/privacy).
+  * **AddThis** \- Teaching Ideas uses AddThis to allow users to save and share information that they find on the site. Read about Addthis' Privacy and Data Practices [here](http://www.addthis.com/privacy).
+  * **Social Media** \- Teaching Ideas uses a number of social networks to share ideas / information and to promote our resources. Each of these networks have their own privacy policies (i.e. [Twitter](https://twitter.com/privacy), [Facebook](http://www.facebook.com/policy.php) and [LinkedIn](http://www.linkedin.com/static?key=privacy_policy)).
+  * **Embedded resources** \- A number of the resources on Teaching Ideas may be embedded, with permission, from other third party services. Each of these services have their own privacy policies (i.e. [Google Docs](http://www.google.com/privacy/privacy-policy.html), [Youtube](http://www.youtube.com/t/privacy), [Vimeo](http://vimeo.com/privacy) and [Slideshare](http://www.slideshare.net/privacy)). 
 
 
 
 **Links to other websites:**  
-Our websites may contain links to other websites of interest. However, once you have used these links to leave our sites, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+Teaching Ideas contains links to other websites of interest. However, once you have used these links to leave our sites, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy policy. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-**Controlling your personal information:**  
-If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by emailing us at [mark@teachingideas.co.uk](mailto:mark@teachingideas.co.uk).
+**Controlling your personal information:**
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please contact [mark@teachingideas.co.uk](mailto:mark@teachingideas.co.uk). 
+You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please contact [mark@teachingideas.com](mailto:mark@teachingideas.com). 
 
 If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible, at the above email address. We will promptly correct any information found to be incorrect.
