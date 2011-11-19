@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the escardio.org privacy policy that was archived on 2008-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080613203109id_/http%3A//www.escardio.org/bodies/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escardio.org privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119114624id_/http%3A//www.escardio.org/about/how/policies/Pages/privacy.aspx) for the most accurate reproduction.*
 
-# About the ESC - Privacy Policy
+# ESC | About the ESC | How we work | ESC Policies | ESC Privacy and Data Security Policy
 
-The ESC respects your privacy and is committed to protecting the confidentiality of your personal information. This policy explains how the ESC collects and uses Member and customer information, and how the ESC protects your privacy. It also explains how you can manage your own personal information held in the ESC system through ‘My ESC’ on the ESC Web Site ([www.escardio.org](http://www.escardio.org/))
+The ESC respects your privacy and is committed to protecting the confidentiality of your personal information. This policy explains how the ESC collects and uses Member and customer information, and how the ESC protects your privacy. It also explains how you can manage your own personal information held in the ESC system through ‘My ESC’ on the ESC Web Site.
 
 This policy applies to personal information held about individuals. It does not apply to information the ESC holds about companies and other organisations.
 
@@ -16,7 +16,7 @@ The ESC is an association which combines a wide range of activities in the field
 
   * Provision of Membership Services 
   * Collection and dissemination of scientific information 
-  * Provision of Products and Services
+  * Provision of Products and Services 
 
 
 
@@ -26,7 +26,7 @@ The sources of personal information received by the ESC are:
 
   * The individuals themselves 
   * Third parties acting on behalf of individuals (eg an agent arranging registration or hotel accommodation for an ESC organised Congress) 
-  * Affiliated Associations providing details of their Members (Note: Members of National Cardiology Societies and Councils for Cardiology Practice are also members of the ESC by virtue of their association’s affiliation to the ESC).
+  * Affiliated Associations providing details of their Members (Note: Members of National Cardiology Societies and Councils for Cardiology Practice are also members of the ESC by virtue of their association’s affiliation to the ESC). 
 
 
 
@@ -36,7 +36,7 @@ The ways in which the ESC collects personal information are:
   * When you, or an agent on your behalf, enter personal details on a form requesting an ESC product or service (eg when registering for an ESC organised Congress) 
   * When you, or someone on your behalf, submits proposals or content in connection with scientific sessions at an ESC organised Congress or meeting (eg Abstracts submission) 
   * When you enter personal details on a form applying to become a Fellow of the ESC, or Member of one of the ESC constituent bodies (such as ESC Associations and Working Groups) 
-  * When an association affiliated to the ESC supplies the ESC with details of their Members’ personal information
+  * When an association affiliated to the ESC supplies the ESC with details of their Members’ personal information 
 
 
 
@@ -73,7 +73,7 @@ The personal information which you supply may be specifically used to:
 
   * Enable the ESC to provide you with the products or services you request 
   * Enable the ESC to communicate with you about specific matters 
-  * Enable the ESC to send you information about ESC activities which it believes may interest you
+  * Enable the ESC to send you information about ESC activities which it believes may interest you 
 
 
 
@@ -98,7 +98,7 @@ The ESC respects the privacy of personal email addresses and complies with the c
 Without your specific ‘Opt In’ to receive emailings from the ESC you may receive emails concerning:
 
   * Products and services similar to those you have already received from the ESC 
-  * If you are a Member of an ESC Association or Working Group (whose benefits to Members include email newsletters, etc), activities or scientific information specifically concerning the Association or Working Group of which you are a Member
+  * If you are a Member of an ESC Association or Working Group (whose benefits to Members include email newsletters, etc), activities or scientific information specifically concerning the Association or Working Group of which you are a Member 
 
 
 
@@ -124,17 +124,17 @@ When you visit ‘My ESC’ you have direct control over the information in your
 
 If you want to know exactly what personal information the ESC holds on you, you can obtain it. If it transpires that the information is inaccurate, or you wish to oppose its use in future, the ESC will make the necessary amendments and confirm that these have been made. Please contact the ESC in either of the following ways:
 
-  * [Online through ‘Contact Us’ ](http://www.escardio.org/Contact.htm)
-  * In writing to:
+  * [Online through ‘Contact Us’ ](https://web.archive.org/pages/contactus.aspx?categoryid=26)
+  * In writing to: 
 
 
 
 > > European Society of Cardiology - Data Privacy  
-> 2035 route des Colles  
-> Les Templiers  
-> BP179  
-> 06903 Sophia Antipolis Cedex  
-> France
+>  2035 route des Colles  
+>  Les Templiers  
+>  BP179  
+>  06903 Sophia Antipolis Cedex  
+>  France
 
 ### Data security
 
@@ -165,7 +165,7 @@ The details you supply the ESC may be combined with information from other ESC r
   * provide you with online services like Abstract Submission, Registration for Congresses, etc. 
   * save you having to keep giving the same information for different ESC services 
   * allow you to access specific web content reserved for ‘My ESC’ users 
-  * help you to get more out of the ESC by keeping you up to date about ESC activities, scientific developments, and products and services by email. (Note: This is an ‘Opt-In’ service only – for more information, please go to the section Email Addresses)
+  * help you to get more out of the ESC by keeping you up to date about ESC activities, scientific developments, and products and services by email. (Note: This is an ‘Opt-In’ service only – for more information, please go to the section Email Addresses) 
 
 
 
@@ -176,7 +176,7 @@ The details you supply the ESC may be combined with information from other ESC r
   * use of your existing login details (username and password), if you have already used the ESC online services (‘My ESC’) during the last three years 
   * the ‘Retrieve your Login’ feature which, if your email address is recognised, will automatically send details of your username and a newly generated password (for your protection) to the email address given 
   * using special alternative login functionality available for limited periods for Congress delegates, which uses information on the Congress badges 
-  * requesting your login details to be sent to you [through ‘Contact Us’](http://www.escardio.org/Contact.htm)
+  * requesting your login details to be sent to you through [‘Contact Us’](https://web.archive.org/pages/contactus.aspx?categoryid=26 "Contact the ESC")
 
 
 
@@ -192,4 +192,4 @@ Additionally, you can manage whether or not you wish to be kept informed by emai
 
 ### Your Comments
 
-If you any further questions about the ESC Privacy and Security Policy or its implementation, or if at any time you believe that the ESC has not adhered to the principles stated in this Policy, please fill in the [‘Contact Us’ form](http://www.escardio.org/Contact.htm).
+If you any further questions about the ESC Privacy and Security Policy or its implementation, or if at any time you believe that the ESC has not adhered to the principles stated in this Policy, please [Contact Us](https://web.archive.org/pages/contactus.aspx?categoryid=26)
