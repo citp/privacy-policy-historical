@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinemarketingmuscle.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522041649id_/http%3A//www.onlinemarketingmuscle.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinemarketingmuscle.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119184732id_/http%3A//www.onlinemarketingmuscle.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -77,7 +77,7 @@ By using our site, you consent to our online _privacy policy_.
 
 If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
-This policy was last modified on 11-02-2010
+This policy was last modified on 06-20-2011
 
 ### Contacting Us
 
@@ -85,8 +85,7 @@ If there are any questions regarding this privacy policy you may [contact us](ht
 
 http://www.OnlineMarketingMuscle.com
 
-19 Willowbend Lane, Suite 101  
-Holtsville, NY 11742  
+200 Motor Parkway, Suite B13, Hauppauge, NY 11788  
 USA  
 Info@OnlineMarketingMuscle.com  
 (631) 730-8285
