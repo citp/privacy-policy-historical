@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wacotrib.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628210246id_/http%3A//www.wacotrib.com/services/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wacotrib.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119192952id_/http%3A//www.wacotrib.com/services/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Wacotrib.com
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 * * *
 
-**LAST UPDATED: February 1, 2010**
+**LAST UPDATED: July 26, 2010**
 
 We care about your privacy. We will not sell your name or e-mail address to any third party advertisers without your permission. **Please read our Privacy Policy below for further details.**
 
@@ -18,11 +18,11 @@ STORAGE OF INFORMATION | CHANGES TO THIS PRIVACY POLICY
 
 WacoTrib.com respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by Robinson Media Company, LLC, d/b/a _Waco Tribune-Herald_ (“we” or “us”) through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to our Content Director:
 
-Carlos Sanchez  
+Bruce Kabat  
 _Waco Tribune-Herald_  
 P.O. Box 2588  
 Waco, TX 76702-2588  
-E-mail: csanchez@wacotrib.com
+E-mail: bkabat@wacotrib.com
 
 ### CHILDREN’S PRIVACY
 
