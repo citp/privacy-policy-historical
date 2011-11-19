@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the bdm.vic.gov.au privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511200935id_/https%3A//online.justice.vic.gov.au/CA2574F700805DE7/page/Listing-Footer%2BLinks-Privacy%3FOpenDocument%261%3D0-Listing%7E%262%3D0-Footer%2BLinks%7E%263%3D0-Privacy%7E) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdm.vic.gov.au privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119153630id_/http%3A//online.justice.vic.gov.au/CA2574F700805DE7/page/Listing-Footer%2BLinks-Privacy%3FOpenDocument%261%3D10-Listing%7E%262%3D0-Footer%2BLinks%7E%263%3D0-Privacy%7E) for the most accurate reproduction.*
 
 # Victorian Registry of Births, Deaths and Marriages - Privacy
 
 | 
 
-  
+This page contains BDM's Website Privacy Statement. You can also read BDM's [Privacy policy](https://web.archive.org/CA2574F700805DE7/page/About+us-Legislation+and+policies-Privacy+policy?OpenDocument&1=70-About+us~&2=30-Legislation+and+policies~&3=20-Privacy+policy~).
 
+* * *
 
 The Victorian Registry of Births, Deaths and Marriages ('the Registry') is committed to upholding the privacy requirements of the _Births Deaths and Marriages Registration Act 1996_ and other relevant legislation.
 
