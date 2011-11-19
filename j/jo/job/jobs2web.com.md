@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the jobs2web.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520224048id_/http%3A//www.jobs2web.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs2web.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119151431id_/http%3A//www.jobs2web.com/privacy-policy) for the most accurate reproduction.*
 
 # Jobs2Web - Career Website Optimization & Job SEO
 
+Effective Date: June 6, 2011
+
 Access to and use of Jobs2Web-powered sites (including all sites owned or operated by Jobs2Web, collectively called the "Site") and the services provided by Jobs2Web (collectively, the "Service") will be subject to Jobs2Web's Privacy Policy as set forth below.
 
-For any questions or concerns regarding this statement, please first [contact Jobs2Web](mailto:privacy@jobs2web.com?subject=Jobs2Web%20Privacy%20Policy) or send mail to:
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.jobs2web.com&sealid=102)Jobs2Web Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please email [privacy@jobs2web.com](mailto:privacy@jobs2web.com) or send mail to:
 
 Jobs2Web Inc.  
 Subject: Privacy Policy  
@@ -12,45 +14,86 @@ Subject: Privacy Policy
 Suite 200  
 Minnetonka, MN 55343
 
+If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint)
+
+Jobs2Web, Inc. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Jobs2Web has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, please visit <http://www.export.gov/safeharbor/>.
+
+The TRUSTe program covers only information that is collected through the Web site Jobs2Web.com, Recruitment Marketing Platform sites we host on behalf of our clients and information behind the log in for our Service.
+
 **About Jobs2Web and the information Jobs2Web collects**
 
-Jobs2Web is committed to protecting your privacy and has created this Privacy Policy to protect your personal information and to inform you about how Jobs2Web handles it.  This Privacy Policy only applies to transactions and activities in which you engage, and data gathered, on websites owned or operated by Jobs2Web ("Jobs2Web", "Jobs2Web.com", the "site" or "website", the "Jobs2Web Service", or "Service") through an opt-in registration process conducted on behalf of Jobs2Web customers (the "Site") but does not apply to any website not owned or operated by Jobs2Web or offline point of contact between Jobs2Web, or any other company, and consumers.  Please review this Privacy Policy periodically as Jobs2Web may modify it from time to time.  You acknowledge and agree that it is your responsibility to review this Privacy Policy periodically and become aware of the modifications.  Each time you visit the site or provide Jobs2Web with information, by doing so you are accepting the practices described in the then current Privacy Policy.
+Jobs2Web is committed to protecting your privacy and has created this Privacy Policy to protect your personal information and to inform you about how Jobs2Web handles it. This Privacy Policy only applies to transactions and activities in which you engage, and data gathered, on websites owned or operated by Jobs2Web ("Jobs2Web", "Jobs2Web.com", the "Site" or "Website", the "Jobs2Web Service", or "Service") through an opt-in registration process conducted on behalf of Jobs2Web customers but does not apply to any website not owned or operated by Jobs2Web or offline point of contact between Jobs2Web, or any other company, and consumers.
 
 **Your Personally Identifiable Information Collected by Jobs2Web**
 
-The opt-in subscribe form collects certain information you voluntarily choose to share with Jobs2Web, such as your name, email address, and phone number (“Personally Identifiable Information” or “PII”).  You may always choose not to provide such Personally Identifiable Information; however, this may limit Jobs2Web’s ability to provide you with a specific service or particular content.  Jobs2Web may also collect other data, which may include Personally Identifiable Information.  
+The opt-in subscribe form collects certain information you voluntarily choose to share with Jobs2Web, such as your name, email address, and phone number ("Personally Identifiable Information" or "PII").  You may always choose not to provide such Personally Identifiable Information; however, this may limit Jobs2Web’s ability to provide you with a specific service or particular content.  Jobs2Web may also collect other data, which may include Personally Identifiable Information.  
 
 **Personally Identifiable Information Used by Jobs2Web Clients**
 
-Jobs2Web works with employers and other companies ("Clients") to provide the Jobs2Web Service.  Information about your use of the Service and visits to the Site may be used by Jobs2Web and Clients.  Your Personally Identifiable Information is only shared with the specific Client for which you visited and to which you subscribed.  Jobs2Web disclaims all liability for the privacy policies and procedures on all Clients’ websites.
+Jobs2Web works with employers and other companies ("Clients") to provide the Jobs2Web Service.  Information about your use of the Service and visits to the Site may be used by Jobs2Web and Clients.  Your Personally Identifiable Information is only shared with the specific Client for which you visited and to which you subscribed.
+
+**Log Files**
+
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
+
+We do not link this automatically-collected data to personally identifiable information.
+
+We use a third-party tracking service called Google Analytics that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate (browser version, geographic region, click path, and bounce rates) toimprove the end user experience.
 
 **Cookies**
 
-Jobs2Web uses cookies to expedite and improve your experience while using the Site.  Cookies are strings of text and numbers that can identify your computer to Jobs2Web when you visit the Site, and which may be correlated with your Personally Identifiable Information in Jobs2Web’s log files.  Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issues the Cookie to you.  One of the primary purposes of cookies is to provide a convenience feature to save you time.  For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits.  Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We link the information we store in cookies to personally identifiable information you submit while on our site.
 
-The type of information that may be stored in a cookie includes non-Personally Identifiable Information about you such as a randomly assigned user or session identification number.  Jobs2Web reserves the right to share aggregated site statistics with third parties, but will not allow other companies to place cookies on a Jobs2Web Site unless there is a temporary, overriding customer value (such as merging another site that relies on third-party cookies).
+We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s "help" file. More information on cookies is available [here](http://en.wikipedia.org/wiki/HTTP_cookie).
 
-You have the ability to accept or decline cookies.  Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may affect the functionality of the Site.
+We set a persistent cookie to store your password, so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
 
-**IP Address**
+If you reject cookies, you may still use our site, but your ability to use some areas of our site, will be limited. For example, you cannot register for the Talent Community to receive future email alerts when jobs of interest to you become available.
 
-Jobs2Web logs standard information such as your IP address along with the URL from which you came to the Site and the URLs visited on the Site, which may or may not contain some Personally Identifiable Information.  When Jobs2Web sends messages to you or others, Jobs2Web may provide a URL link to the Site that contains an alphanumeric identifier, which allows Jobs2Web to identify the person to whom the message was sent so that the content can be personalized for that individual.
+**Third Party Cookies and Other Tracking Technologies**
+
+The use of cookies by our partners and service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our partners, and service providers may use session ID cookies to anonymously track page interactions, which improves your site experience.
+
+Our third party partners employ images and scripts, that help them better manage content on our site. They do not tie the information gathered to our users personally identifiable information.
+
+Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information.
+
+Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html>
+
+**IP Adress**
+
+As is true of most Web sites, we gather and store certain information automatically. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
+
+We link this automatically-collected data to personally identifiable information. IP addresses are tied to personally identifiable information to determine the approximate geographic region of site visitors and measure effectiveness of referring sites.
+
+When Jobs2Web sends messages to you or others, Jobs2Web may provide a URL link to the Site that contains an alphanumeric identifier, which allows Jobs2Web to identify the person to whom the message was sent so that the content can be personalized for that individual.
 
 **Use of Personally Identifiable Information by Jobs2Web**
 
-Jobs2Web uses the collected Personally Identifiable Information to verify your identity and to contact you in connection with your use of the Service.  If you opt-into a Service that generates communication to you from Jobs2Web (other than communications sent to you for the sole purpose of addressing a technical or operational issue regarding the Jobs2Web Service), you will be given the opportunity to opt-out of receiving further such communications from Jobs2Web. Except as provided in this Privacy Policy, Jobs2Web does not sell, share or otherwise provide any "Personally Identifiable Information" you give to us with any third party other than Clients.   
+Jobs2Web uses the collected Personally Identifiable Information to verify your identity and to contact you in connection with your use of the Service.  If you opt-into a Service that generates communication to you from Jobs2Web (other than communications sent to you for the sole purpose of addressing a technical or operational issue regarding the Jobs2Web Service), you will be given the opportunity to opt-out of receiving further such communications from Jobs2Web. Except as provided in this Privacy Policy, Jobs2Web does not sell, share or otherwise provide any "Personally Identifiable Information" you give to us with any third party other than Clients.
 
 **Use of Your Personally Identifiable Information by Jobs2Web Clients**
 
-Contracted employers using Jobs2Web Services may receive or access your Personally Identifiable Information in conjunction with their use of the Services.  You may at any time choose to opt out of receiving further communication from Jobs2Web.  However, even if Jobs2Web blocks further use of your contact information, Jobs2Web cannot prevent employers who have obtained previously your Personally Identifiable Information from Jobs2Web from contacting you directly.  Jobs2Web recommends contacting the employer directly if you wish to opt-out of further communication.  PLEASE NOTE:  The privacy practices of Clients who use the Services or the Site are not covered by this Privacy Policy. Please contact those organizations directly for more information about their privacy practices.
+Contracted employers using Jobs2Web Services may receive or access your Personally Identifiable Information in conjunction with their use of the Services.  You may at any time choose to opt out of receiving further communication from Jobs2Web.  However, even if Jobs2Web blocks further use of your contact information, Jobs2Web cannot prevent employers who have obtained previously your Personally Identifiable Information from Jobs2Web from contacting you directly.  Jobs2Web recommends contacting the employer directly if you wish to opt-out of further communication.
+
+Jobs2Web works with its Clients to help them provide notice about their use personal information, including (1) the purposes for which personal information is collected and used; (2) a contact person whom enquiries or complaints may be directed; (3) the types of third parties to whom personal information is disclosed; and (4) the choices and means that individuals are offered for limiting use and disclosure of personal information. The privacy practices of Clients who use the Services or the Site are not covered by this Privacy Policy. Please contact those organizations directly for more information about their privacy practices.
 
 **Disclosure of Your Personally Identifiable Information, Jobs2Web Communications Content, Data and Information**
 
-Jobs2Web may disclose your Personally Identifiable Information or the contents of your private communications if required to do so by law or court order.  Your Personally Identifiable Information may also be disclosed to a Client using the Services.  Jobs2Web will in no way disclose the contents of your Jobs2Web communications other than to the intended recipient(s) unless required (1) by law or court order, (2) to protect Jobs2Web's rights and property, (3) to protect against unauthorized use of the Site, and (4) during emergencies such as when Jobs2Web believes someone's physical safety is at risk.
+  * We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties. 
+    * We may provide your personal information to companies that provide services to help us with our business activities such as a live help feature or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
+    * We may provide your personal information 
+      * as required by law, such as to comply with a subpoena, or similar legal process
+      * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request
+      * if Jobs2Web Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, to any other third party with your prior consent to do so.
 
-Also, certain technical processing of messages and their content may be required to: (1) send and receive messages; (2) conform to connecting networks' technical requirements; (3) conform to the limitations of the Service; or (4) conform to other similar requirements.  It is possible that as Jobs2Web continues to develop its Service and business, Jobs2Web and/or related assets may be acquired.  In such a transaction, Personally Identifiable Information may be transferred to the acquiring entity.
 
-Jobs2Web reserves the right to report to law enforcement agencies any activities that in good faith Jobs2Web believes to be unlawful.
+
+Also, certain technical processing of messages and their content may be required to: (1) send and receive messages; (2) conform to connecting networks' technical requirements; (3) conform to the limitations of the Service; or (4) conform to other similar requirements.
 
 **Security**
 
@@ -62,6 +105,10 @@ The security of the PII collected is of the utmost importance to Jobs2Web.  Job
 
 In the event that personal information is compromised as a result of a breach of security, Jobs2Web will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
 
+**Customer Testimonials**
+
+We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial.
+
 **Other Websites or Links**
 
 This Website contains links to other websites. Jobs2Web is not responsible for the privacy practices or the content of such websites.
@@ -70,20 +117,16 @@ This Website contains links to other websites. Jobs2Web is not responsible for t
 
 You may elect not to receive future communications from Jobs2Web. If you are a registered User, please open the email you received from Jobs2Web and click on the unsubscribe link. If you prefer to have your account removed permanently, please email your request to [removeme@jobs2web.com](mailto:removeme@jobs2web.com).
 
-**Notification Procedures**
+**Access to Personally Identifiable Information**
 
-It is Jobs2Web’s policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to Clients or Site users, via e-mail notice, written or hard copy notice, or through conspicuous posting of such notice on the relevant Jobs2Web website or as determined at Jobs2Web’s sole discretion.  Notwithstanding the foregoing, Jobs2Web reserves the right to determine the form and means of providing notifications to Clients or Site users.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove or deactivate it by making the change on our Talent Community member information page or by contacting us by telephone or postal mail at the contact information listed above.
+
+We will respond to your request to access within 30 days.
+
+**Data Retention**
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [removeme@jobs2web.com](mailto:removeme@jobs2web.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **Changes to this Policy**
 
-Jobs2Web reserves the right to amend this Privacy Policy at its sole discretion at any time.  If Jobs2Web makes any substantive changes to the policy with regard to the use of your information, Jobs2Web will notify you as described above.
-
-**Contacting the Web Site**
-
-Jobs2Web strives to do everything possible to protect the privacy of Site users. Please feel free to share any comments and concerns.  If you have any questions about this Privacy Policy, the practices of the Jobs2Web Site or Service, or your dealings with this website, you can [contact Jobs2Web](mailto:privacy@jobs2web.com?subject=Jobs2Web%20Privacy%20Policy) or you may write to:
-
-Jobs2Web Inc.  
-Subject: Privacy Policy  
-10901 Red Circle Drive  
-Suite 200  
-Minnetonka, MN 55343
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
