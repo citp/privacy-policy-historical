@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the centredaily.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225203904id_/http%3A//www.centredaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centredaily.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119103106id_/http%3A//www.centredaily.com/privacy_policy%23navlinks%3D%2AHome%3Ami_footer) for the most accurate reproduction.*
 
-# Privacy Policy | Centre Daily Times - State College, PA | Penn State, Nittany Lions, weather, news, jobs, homes, apartments, real estate
+# CentreDaily.com State College, PA
 
-##### Effective Date: 11-03-09
+##### Effective Date: 9-4-09
 
 CentreDaily.com ("CentreDaily.com", "we", "our") has a firm commitment to privacy. We take your privacy concerns seriously and want to make reasonable efforts to address them as we strive to offer our site visitors a high quality, interactive and personalized experience. This Privacy Policy explains our position on information gathering and how we intend to use and share any information we collect. This Privacy Policy applies only to information collected by CentreDaily.com and does not apply to information obtained or used by Centre Daily Times or its affiliates through other means.
 
@@ -14,7 +14,7 @@ This Privacy Policy is subject to change from time to time by CentreDaily.com an
 
 ### Information we collect
 
-Access to certain special content, services and features on CentreDaily.com requires users to be subscribers to Centre Daily Times and/or to become registered members at CentreDaily.com. Member registration may require you to provide certain personally identifiable information, such as your name, e-mail address, street address, telephone number, gender, and date of birth. If you choose to purchase a print subscription to Centre Daily Times or a classified ad when you register, we also require credit card and billing information. For more information about how we use your credit card and billing information, see the Section below titled "Electronic commerce". You will be asked to select a member name and password so that you have access to this information and can revise it in the future. To complete the registration process, we will send you a validation e-mail message. You must click the link in the e-mail to fully activate your membership account. At registration you will have the opportunity to Opt out of subscribing to e-mail newsletters and alerts sent to you on behalf of CentreDaily.com and its advertisers.
+Access to certain special content, services and features on CentreDaily.com requires users to be subscribers to Centre Daily Times and/or to become registered members at CentreDaily.com. Member registration may require you to provide certain personally identifiable information, such as your name, e-mail address, street address, telephone number, gender, and date of birth. If you choose to purchase a print subscription to Centre Daily Times or a classified ad when you register, we also require credit card and billing information. For more information about how we use your credit card and billing information, see the Section below titled "Electronic commerce". You will be asked to select a member name and password so that you have access to this information and can revise it in the future. To complete the registration process, we will send you a validation e-mail message. You must click the link in the e-mail to fully activate your membership account. At registration you will have the opportunity to Opt in of subscribing to e-mail newsletters and alerts sent to you on behalf of CentreDaily.com and its advertisers.
 
 Some features and services of CentreDaily.com may require additional personally identifiable information or other demographic information. We may collect other personally identifiable information when you provide feedback, comments, engage in chat, message boards, interactive forums or participate in surveys, or if you contact us offline. For example, when you enter contests you will be asked to also provide your phone number so that we can reach you in the event you have won a prize. All users may decline to share such information with us, by choosing not to register on CentreDaily.com or not to use our services. Only registered members, however, may access certain content, services and features.
 
@@ -34,11 +34,13 @@ Some of CentreDaily.com's third-party content providers also may place a cookie 
 
 We use services provided by Yahoo! to display advertising on CentreDaily.com, and we may use cookies in conjunction with displaying those ads. Please refer to Yahoo!'s privacy policy at <http://privacy.yahoo.com/> for further information concerning Yahoo!'s use of cookies.
 
-We participate in Tacoda Audience Networks (TAN), through which Tacoda Systems, a division of AOL, places a cookie on the user's computer to gather non-personal information about the user, such as the user's browsing behavior and demographic information. This non-personal information is aggregated into audience segments, allowing Tacoda to display relevant advertising to users who visit the websites of other members of TAN. Users' personally identifiable information is not shared with Tacoda or with third-party members of TAN. For more information about how Tacoda uses the information collected by these cookies, please review Tacoda's privacy policy at <http://www.platform-a.com/privacy/tacoda>. We are not responsible for any actions or policies of Tacoda or of any third-party members of TAN.
+We participate in Tacoda Audience Networks (TAN), through which Tacoda Systems, a division of AOL, places a cookie on the user's computer to gather non-personal information about the user, such as the user's browsing behavior and demographic information. This non-personal information is aggregated into audience segments, allowing Tacoda to display relevant advertising to users who visit the websites of other members of TAN. Users' personally identifiable information is not shared with Tacoda or with third-party members of TAN. For more information about how Tacoda uses the information collected by these cookies, please review Tacoda's privacy policy at <http://www.platform-a.com/privacy>. We are not responsible for any actions or policies of Tacoda or of any third-party members of TAN.
 
 In addition, advertisers may elect to use other advertising companies to serve their ads on CentreDaily.com, and advertisers themselves may also place a cookie on a user's computer. We do not have access to the cookies or their contents that are placed by advertisers or by third-party advertising companies. We, therefore, recommend that you read the privacy policy of each and every Web site you visit or with which you interact.
 
 Users may elect to be excluded from these and other targeted-advertising networks by following this link: <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+Also, CentreDaily.com uses services provided by the the News Licensing Groups's News Registry ("News Registry"). News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of CentreDaily.com means you accept the privacy policy of News Registry. Please refer to the News Registry privacy policy at <http://www.newsregistry.com/privacycenter/servicepolicy.aspx> for further information.
 
 Pages on CentreDaily.com may contain tiny electronic images known as web beacons. We use web beacons to assist us in delivering cookies on CentreDaily.com and to allow us to count users who have visited those pages. We may include web beacons in promotional e-mail messages in order to determine whether messages have been opened and acted upon. Many of our web beacons are provided by Omniture, which uses the domain 2o7.net. Please refer to Omniture's privacy policy at <http://www.omniture.com/en/privacy> for more information concerning the use of web beacons. Users may elect to opt out of Omniture cookie tracking by following this link <http://www.omniture.com/en/privacy/2o7> and clicking on the "Click Here To Opt-Out of 2o7.net Cookie Tracking Now" link at the bottom of the page.
 
@@ -68,7 +70,7 @@ To describe our services to prospective partners, advertisers and others, we may
 
 CentreDaily.com is particularly concerned with providing a safe online environment for children. Children under the age 13 will not be allowed to register and become a member of CentreDaily.com in order to access general CentreDaily.com content, features and services. We do not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this Privacy Policy, we will delete that information immediately. If you believe we have any information from or about anyone under 13, please contact us at the address listed below.
 
-CentreDaily.com, 3400 East College Avenue, State College, Pennsylvania 16801, or 814-238-5000, or [cdtonline@centredaily.com](mailto:cdtonline@centredaily.com)
+CentreDaily.com, 3400 East College Avenue, State College, PA, 16801, or 814-238-5000, or [cdtonline@centredaily.com](mailto:cdtonline@centredaily.com)
 
 ### Member mail and e-mail offers
 
@@ -76,7 +78,7 @@ CentreDaily.com does not rent, sell, barter or give away its user or member list
 
 All registered users will receive periodic Member Mail e-mail related to their membership account or various features and services on the Centre Daily Times Web sites to which their membership entitles them access. Because Member Mail is an integral part of our service to you, users cannot opt-out of receiving Member Mail. If you do not want to receive Member Mail, your only option is to terminate your membership by following the directions in the Member Center.
 
-Separate from CentreDaily.com Member Mail, Centre Daily Times may send you information via e-mail about various products or services that we believe may be of interest to you, including e-mails that may contain content provided by third-party advertisers. If you do not want to receive this information, you can Opt out by changing your permission setting for Centre Daily Times Promotions e-mail in the Member Center. The Member Center also allows you to select which categories of e-mail Offers might interest you. You can also change your Opt out preferences in the Member Center.
+Separate from CentreDaily.com Member Mail, Centre Daily Times may send you information via e-mail about various products or services that we believe may be of interest to you, including e-mails that may contain content provided by third-party advertisers. If you do not want to receive this information, you can Opt in by changing your permission setting for Centre Daily Times Promotions e-mail in the Member Center. The Member Center also allows you to select which categories of e-mail Offers might interest you. You can also change your Opt in preferences in the Member Center.
 
 When a user specifically authorizes e-mail solicitations we make available the user names and other Personally Identifiable Information in accordance with the applicable license.
 
@@ -102,6 +104,10 @@ You should know that when you voluntarily disclose personal information on the C
 
 In addition, our advertisers, content providers, partners and other Internet sites or services that may be accessible through CentreDaily.com have separate data and privacy practices that are independent of us, and we disclaim any responsibility or liability for their policies or actions. Please contact those sites directly if you have questions about their privacy policies.
 
+### Notice to California Residents - Your California Privacy Rights:
+
+If you are a California resident, you have the right to receive: a) information identifying any third-party company(ies) to whom CentreDaily.com may have disclosed, within the past year, personal information pertaining to you and your family for that company's direct marketing purposes; and b) a description of the categories of personal information disclosed. To obtain such information, please e-mail your request to [cdtonline@centredaily.com](https://web.archive.org/web/20111119103106id_/http%3A//www.centredaily.com/cdtonline@centredaily.com).
+
 ### International users
 
 If you are an international user, by using CentreDaily.com or by registering for any of its services, you agree that CentreDaily.com may collect, use and transfer your personal information as described in this privacy policy, including transfers outside the country where you live. If you reside in a country in the European Union or other jurisdiction that provides access rights under law, you may access your personal information or have it corrected or updated by going to your account information page in the Member Center and personally updating the information in accordance with applicable law or by contacting us at the address or e-mail set forth below. In some jurisdictions, you may be charged a reasonable fee for access to information.
@@ -112,4 +118,4 @@ CentreDaily.com supports P3P, the Platform for Privacy Preferences, which allows
 
 ### Contact Information
 
-If you have any questions or comments about our policies, we may be reached at CentreDaily.com, 3400 East College Avenue, State College, Pennsylvania 16801, at 814-238-5000 or at [cdtonline@centredaily.com](mailto:cdtonline@centredaily.com).
+If you have any questions or comments about our policies, we may be reached at CentreDaily.com, 3400 East College Avenue, State College, PA, 16801, at 814-238-5000 or at [cdtonline@centredaily.com](mailto:cdtonline@centredaily.com).
