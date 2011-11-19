@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the michiganradio.org privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507042337id_/http%3A//www.michiganradio.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michiganradio.org privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119164216id_/http%3A//info.michiganradio.org/privacy.html) for the most accurate reproduction.*
 
-# Michigan Radio - Privacy Policy
+# Michigan Radio: Privacy Policy
 
 Michigan Public Media is committed to the privacy of any information you provide us. We've produced this policy to disclose the information gathering and dissemination practices for this website, as well as all the websites owned or operated by Michigan Public Media.
 
@@ -15,7 +15,8 @@ Information we may gather:
   * The IP address of the computer accessing our sites. We use the IP address to help diagnose problems with our servers and to administer our web site. 
   * Any errors you encounter while visiting the site. 
 
-   
+ 
+
 We will not collect any information that personally identifies you to us, other than what you supply to us on a voluntary basis. However, in order to participate in some activities, you might be asked to provide some personally identifiable information. This might be in connection with a contest registration, a subscription to email newsletters, requests for membership information, fulfillment of membership and thank you gifts, gathering editorial comments and feedback, content submissions like comments and suggestions or votes, or online surveys. In the case of surveys, the information you provide would be used only in aggregate to describe our audience and to assist us in better serving you. 
 
 Michigan Public Media will not willfully disclose your personal information received online to any third party. 
@@ -26,7 +27,7 @@ If you do not want personal information which you voluntarily supply used by us 
 
 When you engage in financial transactions at our websites, you may be asked for a credit card number. Our server is secure and your credit card number will be encrypted as it passes through the Internet. Such information is saved in an encrypted format or in internal systems that are protected by an internal firewall system. 
 
-You should also know:
+**You should also know:**
 
 This site contains links to other sites. Michigan Public Media is not responsible for the privacy practices or the content of such other web sites.
 
@@ -38,7 +39,7 @@ If you have any questions or concerns about this policy, please contact us: [inf
 
 * * *
 
-**List Exchange Policy**
+### List Exchange Policy
 
 Long-term support from our individual members is critical to fulfilling Michigan Public Media's mission of service to the community. Maintaining and preserving a strong, trusting relationship with our members is key to this vital source of support.
 
@@ -53,8 +54,10 @@ In acquiring lists, the following principles will always apply:
   * We will maintain complete and accurate records of the origins of membership and potential donor lists for at least such time as required by law.
   * We may enter into agreements with outside companies in fulfillment of member premiums or an "affinity" program, such as the Membercard. We will only enter into an "affinity" program which would offer our members a quality product at or below market price.
 
+
+
 We will not rent lists from any organization if we believe doing so may endanger the trust between Michigan Public Media and its members. 
 
 We will comply with the laws and regulations of the Internal Revenue Service, the State of Michigan, the University of Michigan, the United States Postal Service, and the certification requirements of the Corporation for Public Broadcasting. 
 
-If you have questions regarding this policy, please contact us: [info@michiganpublicmedia.org](mailto:info@michiganpublicmedia.org) or write us at 535 W William St., Ann Arbor, MI 48103.
+If you have questions regarding this policy, please contact us: [info@michiganpublicmedia.org](mailto:info@michiganpublicmedia.org) or write us at 535 W William St., Ann Arbor, MI 48103. 
