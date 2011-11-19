@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lipitor.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520225917id_/http%3A//pfizer.com/pfizer/privacy/mn_privacy_truste.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipitor.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119175428id_/http%3A//pfizer.com/pfizer/privacy/mn_privacy_truste.jsp) for the most accurate reproduction.*
 
 # Pfizer Privacy | Pfizer: the world's largest research-based pharmaceutical company
 
@@ -21,7 +21,7 @@ When we refer to ourselves as "we" or "Pfizer," we mean our entire company, incl
 
 You should read the Privacy Policy at each Web site that you visit after you leave one of our sites. Pfizer is not responsible for how other Web sites treat your privacy once you leave a Pfizer site.
 
-  * To review definitions of keywords, click here: [Glossary](https://web.archive.org/web/20110520225917id_/http://pfizer.com/general/glossary.jsp)
+  * To review definitions of keywords, click here: [Glossary](https://web.archive.org/web/20111119175428id_/http://pfizer.com/general/glossary.jsp)
 
 
 
@@ -148,7 +148,7 @@ Top
 
 ### Children's policy
 
-We are committed to protecting the privacy of children. We do not collect personally identifiable information from any person we actually know is a child under the age of 13. See also our [Terms of Use](https://web.archive.org/web/20110520225917id_/http://pfizer.com/general/terms.jsp) for more information.
+We are committed to protecting the privacy of children. We do not collect personally identifiable information from any person we actually know is a child under the age of 13. See also our [Terms of Use](https://web.archive.org/web/20111119175428id_/http://pfizer.com/general/terms.jsp) for more information.
 
 Pfizer Inc. Privacy Policy updated April 4, 2011.
 
