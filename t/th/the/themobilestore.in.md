@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themobilestore.in privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520224941id_/http%3A//themobilestore.in/mobilestore/faces/jsp/privacyPolicy.jsp%3FcatalogueID%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themobilestore.in privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119103342id_/http%3A//www.themobilestore.in/mobilestore/faces/jsp/privacyPolicy.jsp%3FcatalogueID%3D3) for the most accurate reproduction.*
 
 # 
 
