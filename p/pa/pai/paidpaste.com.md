@@ -1,33 +1,76 @@
-> *The following text is extracted and transformed from the paidpaste.com privacy policy that was archived on 2010-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100203211044id_/http%3A//www.paidpaste.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidpaste.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119071533id_/http%3A//en.paidpaste.com/documents/privacy-policy) for the most accurate reproduction.*
 
-# PaidPaste - The best pastebin - paste and share service - Earn to Paste
+# paidpaste.com - privacy-policy
 
-We can be reached via e-mail at [support@sysmesh.com](mailto:support@sysmesh.com) or by using our support system.
+## What information do we collect?
 
-For each visitor to our Web page, our Web server automatically recognizes the consumers domain name, IP address and general identifying information like user name, etc. (where possible).
+We collect information from you when you register on our site.
 
-We collect aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as poll information and/or site registrations.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address or PayPal address. You may, however, visit our site anonymously.
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site.
+Google, as a third party vendor, uses cookies to serve ads and gather statistics on our site. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, customize Web page content based on visitors' browser type or other information that the visitor sends.
+## What do we use your information for?
 
-With respect to polls and surveys: We store the poll results on our database and do not provide access to any 3rd party to that data. In some cases we also use cookies to store poll preferences and protect against fraud. Although we do our best to keep our data and the poll results safe and secure, in no case should PaidPaste, it's operators or owners be held responsible for any case of data loss or data theft that may occur.
+Any of the information we collect from you may be used in one of the following ways: 
 
-If you do not want to receive e-mail from us in the future, please let us know by using the options on your user profile or sending us e-mail at the above address.
+  * #### To personalize your experience
 
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
+(your information helps us to better respond to your individual needs) 
+  * #### To improve our website
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of our advertisers.
+(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+  * #### To improve customer service
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+(your information helps us to more effectively respond to your customer service requests and support needs) 
+  * #### To process transactions
 
-Upon request we provide site visitors with access to a description of information that we maintain about them, you may also see and update it under your profile area on our website. Consumers can have this information corrected by sending us e-mail at the above address or updating their user profile.
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
+  * #### To send periodic emails
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. 
 
-We urge you to read our Privacy Policy, Terms of Use and DMCA policies before joining and using our site. By using our site you are agreeing to comply with these policies and take full and sole responsibility for your action and postings.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above email address or by using the feedback form.
 
-By using our website and/or services you hereby agree to our privacy policy. If you do not agree to our policies we ask that you do not use our site.
+## How do we protect your information?
+
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+
+## Do we use cookies?
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+## Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+## Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+## California Online Privacy Protection Act Compliance
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Account Management' page.
+
+## Online Privacy Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline. 
+
+## Your Consent
+
+By using our site, you consent to our privacy policy.
+
+## Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+## Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+http://paidpaste.com  
+support@paidpaste.com 
