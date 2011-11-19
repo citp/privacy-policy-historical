@@ -1,73 +1,87 @@
-> *The following text is extracted and transformed from the nintendo.com.au privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526031713id_/http%3A//www.nintendo.com.au/index.php%3FpageID%3D29) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nintendo.com.au privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119142056id_/http%3A//www.nintendo.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Nintendo.com.au
 
 ## Nintendo Australia Pty Ltd Web Site Privacy Policy 
 
-Nintendo Australia Pty Ltd (Nintendo) respects the privacy of online visitors and regards the security of their personal information as being of the highest priority. 
+Nintendo Australia Pty Ltd ACN 060 566 083 (Nintendo) is committed to preserving and respecting the privacy of visitors to this website. 
 
-Nintendo is not a party to an approved privacy code, but complies with the National Privacy Principles (NPP’s) in the Privacy Act 1988 (Act) in relation to the collection, use, security of and access to personal information. 
+Nintendo is not a party to an approved privacy code, but complies with the Privacy Act 1982 (the Act) and the National Privacy Principles (NPP’s) in relation to the collection, use, security of and access to Personal Information. In this Policy, 'Personal Information' has the same meaning as in the Act. 
 
-There are no exemptions under the Act which apply to collection of personal information on this web site. Please read this policy carefully before you use this website or provide any personal information. This policy complies with the Act. However, it does not necessarily comply with all of the requirements of the laws of other countries. Accordingly, if you are a visitor from outside Australia it is recommended that you not provide personal information to this site. 
+There are no exemptions under the Act which apply to collection of Personal Information on this web site.   
+This policy only relates to Personal Information collected on this website. 
+
+**Please read this policy carefully before you use this website or provide any Personal Information.**
 
 ## What information is collected? 
 
-When you register on this website you will be asked to provide personal information (as defined in the Act). 
+Nintendo will only collect Personal Information from our online visitors to the website for (1) contest registration; (2) newsletter registration; (3) surveys; (4) registration for games or special game-specific promotion participation; (5) and to enable you to join specific groups such as Club Nintendo. Personal Information collected may include your name, nickname, e-mail address, mobile phone number and birth date. We do not generally require this information to allow access to this website; however, there may be some areas of the site that you will not be able to access unless you register. For example, "Members Only" areas will require you to register before you can access them. 
 
-Nintendo only collects personal information from our online visitors on a voluntary basis and only during (1) contest registration; (2) newsletter registration; (3) surveys; (4) registration for games or special game-specific promotion participation. Personal information collected may include your name, nickname, e-mail address, mobile phone number, and birth date. We do not generally require this information to obtain access to our site; however, there may be some areas of the site that you will not be able to access unless you register. For example, "Members Only" areas will require you to register before you can access these areas. 
+Nintendo also may collect demographic information from visitors, such as age, gender, geographic location, game genre interests, what platforms you own and stores you usually purchase Nintendo products from. This information helps us improve our online offerings and allows us to tailor information to your preferences. 
 
-Nintendo also may collect demographic information from visitors, such as age, gender, geographic location, game genre interests, what platforms you own and store you usually purchase from. This information helps us improve our Online offerings and allows us to tailor information to your preferences. 
-
-Nintendo does not collect “sensitive information” (as defined in the Act). 
-
-Back to top
+Normally, Nintendo does not collect Sensitive Information (as defined in the Act). If Nintendo does collect Sensitive Information, it will only do so as specifically permitted by NPP 10.1. 
 
 ## What happens to the information provided? 
 
-The information you provide will allow us to alert you to new products, features and enhancements; special offers; upgrade opportunities; and contests and events of interest. Such announcements are delivered via e-mail if you opt-in to this service. Nintendo does not sell personal information that we collect. However, from time to time, we are approached by companies and organizations that provide products or services that we believe may be of interest to you, and we may send out notices on behalf of these companies. We see this as a value-added service helping you to find useful products or services. We strive to limit use of the information you provide to those offers that we think you would appreciate receiving. You may opt out if you do not wish to receive such information. 
+The Personal Information you provide will allow us to alert you to new products, features and enhancements; special offers; upgrade opportunities; and contests and events of interest. 
 
-We may use your personal information for internal demographic studies, so we can improve our web sites and products to better meet our visitors' needs. In some cases, we may enhance and / or merge your personal information with data collected from other sources. In the event we enhance and/or merge your personal information with data collected from other sources, we will take reasonable steps to maintain the integrity and quality of that personal information.Nintendo occasionally uses outside agencies for market research, and may provide these companies with your personal information. These companies will be directed to follow Nintendo's privacy practices in handling this information. 
+From time to time, Nintendo is approached by companies and organizations that provide products or services that we believe may be of interest to you, and we may send out notices on behalf of these companies. We see this as a value-added service helping you to find useful products or services. We strive to limit use of the information you provide to those offers that we think you would appreciate receiving.  You may opt out if you do not wish to receive such material. 
+
+We may use your Personal Information for internal demographic studies, so we can improve our web sites and products to better meet our visitors' needs. In some cases, we may merge your Personal Information with data collected from other sources. 
+
+Nintendo occasionally uses outside agencies for market research, and may provide these companies with your Personal Information. These companies will be required to comply with Nintendo's privacy practices, the Act and the NPP's in handling this information. 
+
+Nintendo may also disclose Personal Information to other organisations with which Nintendo has a business relationship (including other companies within the Nintendo Group where such organisations have agreed to treat the Personal Information in accordance with the Act and the NPP's.
 
 Back to top
 
 ## A special note about children 13 years old and under 
 
-Nintendo encourages parents and guardians to spend time online with their children. We urge parents to instruct their children to never give out their real names, addresses or phone numbers, without permission, when using the Internet. We recognise a special obligation to protect personal information obtained from young children. In order for children 13 years old and under to participate in online activities that require registration, we require prior permission from a parent or guardian (opt-in). If consent is not received after 30 days (and a follow up e-mail after 20 days) then information provided by the child be deleted and the child will be advised accordingly. 
+Nintendo encourages parents and guardians to spend time online with their children. We urge parents to instruct their children to never give out their real names, addresses or phone numbers, without permission, when using the Internet. We recognise a special obligation to protect Personal Information obtained from young children. In order for children 13 years old and under to participate in online activities that require registration, we require prior permission from a parent or guardian. 
 
 Back to top
 
 ## What about cookies? 
 
-This web site may use cookies to keep track of your choices, or to keep track of the fact that you have signed in so you don't have to continually enter your username and password. Also, we use cookies to deliver content specific to your interest and for other purposes. (Cookies are small files downloaded to your computer to track movements within web sites.) Most browsers are automatically set to accept cookies. You can disable cookies or set your browser to alert you when cookies are being sent. However some areas will not function properly if you do so. There are many sources for additional information about Internet cookies, and we encourage anyone concerned about the use of cookies to do more research on the topic so you can make an informed decision about accepting them from any site. 
+Cookies are files downloaded to your computer to track movements to within web sites. 
 
-## What about web beacons? 
+This web site may use cookies to keep track of your choices, or to keep track of the fact that you have signed in so you don't have to continually enter your username and password. Also, we use cookies to deliver content specific to your interest and for other purposes. 
 
-In addition to cookies, Nintendo uses a common Internet technology called "Web beacons" (a.k.a. "Web bugs," "action tags," "pixel trackers," or "clear GIFs") on some of its sites. Web beacons are small graphic images placed on a Web page, Web-based document, or in an e-mail message that are designed to allow us or a third party to collect certain information and monitor user activity on our sites. Web beacons are invisible to the user because they are typically very small (only 1-by-1 pixel) and the same color as the background of the Web page, document or e-mail message. We do not use Web beacons to collect or to link to personal information. We may use Web beacons to collect non-personal information such as the IP address of the computer that the Web beacon is sent to, the URL of the page the Web user comes from, and the time the Web beacon is activated (such as when you view the Web page, advertisement, or e-mail that contains the Web beacon). We may also use Web beacons to display e-mails in the appropriate HTML or text format. From time to time, we may permit third parties to place Web beacons on our sites or in e-mails sent on our behalf for purposes of collecting the same types of information specified above, but these Web beacons do not collect and are not linked to personal information either. 
+Back to top   
 
-Back to top
 
 ## E-mail correspondence to Nintendo 
 
-Nintendo will respond to e-mail correspondence if such correspondence includes a return e-mail address. Because an e-mail address is personal identifying information, Nintendo protects the privacy of the sender by limiting access to these e-mail messages and keeping them in a secure e-mail system. Most e-mail messages are deleted after they are responded to, however in certain cases hard copies or data from certain e-mail correspondence may be kept on file. Any such copies will also be stored in a secure location, and information from these messages will not be used for marketing purposes. In the event that Nintendo becomes legally obligated to disclose information obtained from consumers on its web site to another pursuant to legal or administrative process, Nintendo will take all reasonable steps to redact personal information from the data where possible. 
+Nintendo may respond to e-mail correspondence if such correspondence includes a return e-mail address. It will retain your email address and other Personal Information contained in any email you send, for that purpose. 
 
-## Removal from Nintendo's e-mail list 
+Back to top
 
-If you do not want Nintendo to send you e-mail you can unsubscribe via selecting the unsubscribe option when you receive an email from Nintendo or by unsubscribing via the unsubscribe option in the registration section. If you have opted-in and at a later date you choose to have your name removed from our e-mail database, you can do so from the Members section. 
+## Access to and correction of Personal Information 
 
-Nintendo reserves the right to unsubscribe details when an email address supplied is invalid. 
+Nintendo will take all reasonable steps to ensure that your Personal Information which Nintendo collects, uses or discloses is accurate, complete and up-to-date. 
+
+You can obtain details of the Personal Information (such as contact details) that Nintendo hold about you by contacting the numbers below.  If you wish to access the information Nintendo holds about you, please send an email or write to our privacy compliance officer (see contact details below) and Nintendo will respond to you within 30 days. 
+
+You can also request that Nintendo correct or delete Personal Information which it holds about you and in some cases you may be able to change contact details yourself on the website. 
+
+You can also request details about the way in which Nintendo manages Personal Information. 
 
 Back to top
 
 ## Safeguarding your personally identifiable information 
 
-We will only collect personally identifiable information to the extent deemed reasonably necessary to serve our legitimate business purposes, and we will maintain appropriate safeguards to ensure the security, integrity and privacy of the information you have provided. In addition, we will take reasonable steps to assure that third parties to whom we transfer any data will provide sufficient protection of that personal information. 
+Nintendo will take reasonable steps to ensure the security, integrity and privacy of the Personal Information which it collects. This includes appropriate measures to protect electronic materials and materials in hard copy. 
 
-## Review and correction of information 
+Nintendo will take reasonable steps to ensure that third parties to whom Nintendo transfers any Personal Information will provide sufficient protection of that Personal Information. 
 
-If for any reason you are concerned that the personal information maintained by Nintendo is not correct, or would like access to your information please change contact details yourself on the site or call Nintendo on (03) 9730 9900 and we will review or update your information as appropriate. 
+Back to top   
 
-By using this site, you signify your assent to that Policy. If you do not agree to this policy, please do not use this site. We reserve the right to make changes in this policy. Please check back from time to time to ensure you are aware of any changes in our privacy practices. Your continued use of our site will signify your acceptance of these changes. 
 
-If you would like a copy of this policy or have any questions, complaints or comments regarding it, please contact Nintendo at 804 Stud Road, Scoresby, Victoria, 3179, ph (03) 9730 9900. 
+## Changes to this Policy
+
+Nintendo reserves the right to make changes in or to update this Policy at any time to reflect changes in its business requirements, changes in the law or technological developments. 
+
+If you would like a copy of this policy, have any questions, complaints or comments regarding it, or wish to take any of the steps listed in Section 7, please contact Privacy Compliance Officer, Nintendo Australia, 804 Stud Road, Scoresby, Victoria, 3179, ph +61 3 9730 9900   
+
 
 Back to top
