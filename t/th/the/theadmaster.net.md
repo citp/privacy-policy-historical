@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theadmaster.net privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522051740id_/http%3A//theadmaster.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theadmaster.net privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119190931id_/http%3A//theadmaster.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Ad Master - Advertise Everywhere
 
