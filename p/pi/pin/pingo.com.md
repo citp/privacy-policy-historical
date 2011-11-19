@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pingo.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630172315id_/http%3A//www.pingo.com/en/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingo.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119225150id_/http%3A//www.pingo.com/en/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,11 +52,17 @@ We also collect feedback information via feedback forms located on the Website. 
 
 Pingo may collect and use your IP address to improve Pingo's service and administer Pingo's Website. Your IP address may be used to identify You and to gather demographic information. IP addresses are also used to investigate alleged violations of Pingo's Terms and Conditions, spamming, improper use of the Website, or other improper or illegal activities.
 
-"Cookies" and "action tags" (action tags are also known as single pixel gifs or web beacons) are information that a website transfers to your computer's hard disk for record-keeping purposes. Cookies and action tags do not personally identify users, although they do identify a user's computer. Pingo uses cookies and action tags to deliver content specific to Customer's interests, maintain Customer preferences, and for other site functionality. We also have a retargeting program, which is explained below, that relies on action tags, and is directed at Visitors only, not Customers. Many Internet browsers are set up to accept cookies and action tags. If Customers or Visitors prefer, they can set their browser to refuse cookies and action tags. However, You may not be able to take full advantage of the Website if you do so. Advertisers who display ads on the Website also may use cookies and action tags to measure advertising effectiveness. Pingo does not have access to any information collected by cookies or action tags used by advertisers on the Website.
+"Cookies" and "action tags" (action tags are also known as single pixel gifs or web beacons) are information that a website transfers to your computer's hard disk for record-keeping purposes. Cookies and action tags do not personally identify users, although they do identify a user's computer. Pingo uses cookies and action tags to deliver content specific to Customers interests, maintain Customer preferences, and for other site functionality. We also have a retargeting program, which is explained below, that relies on action tags, and is directed at Visitors only, not Customers. Many Internet browsers are set up to accept cookies and action tags. If Customers or Visitors prefer, they can set their browser to refuse cookies and action tags. However, You may not be able to take full advantage of the Website if you do so. Advertisers who display ads on the Website also may use cookies and action tags to measure advertising effectiveness. Pingo does not have access to any information collected by cookies or action tags used by advertisers on the Website.
 
-Visitor Retargeting Program - We work with a company called Fetchback to display retargeted ads to Visitors on our behalf, across the Internet, using action tags. These action tags, an industry standard technology, collect Non-Personally Identifiable Information about Visitors' visits to the Website and enable Fetchback to deliver targeted advertisements on other Internet sites. If Visitors do not want Fetchback to collect this information to deliver targeted advertisements, Visitors may opt out of their services by clicking on the following link and scrolling down to the Fetchback opt out section. <http://www.networkadvertising.org/managing/opt_out.asp>
+<http://www.networkadvertising.org/managing/opt_out.asp>
 
-Please note we have the ability to retain data that you provide on the sign up page even if you do not complete your registration. Such contact details and data may be used to contact you to enquire why you did not complete your transaction. For full details see Privacy Policy.
+[Media6: http://media6degrees.com/about/privacy-policy/](http://media6degrees.com/about/privacy-policy/)
+
+[ValueClick: http://www.valueclickmedia.com/about/privacy/display-member](http://www.valueclickmedia.com/about/privacy/display-member)
+
+[Google: http://www.google.com/privacy/ads/](http://www.google.com/privacy/ads/)
+
+We work with a company called Ve Interactive who may retain some of Visitor's Personal Information who do not complete the Pingo customer registration process. This information is only retained after a Visitor enters the data into Pingo's registration page fields. The Personal Information retained only includes the Visitor's first and last name as well as the Visitor's corresponding email address. No financial information is retained in this practice. The purpose of retaining this limited Personal Information is to follow up via e-mail with Visitors who did not complete the registration process, offer assistance in completing the process and offer Visitor promotional deals for Pingo's services. If Visitors do not want to receive such messages, Visitors may opt out of this practice by clicking on the link provided in the follow up email sent to Visitor and complying with the appropriate opt out instructions.
 
 **_Protection of Your Personal Information_**
 
@@ -144,4 +150,4 @@ U.S. Toll Free: 1-888-878-8838
 
 **_Effective Date_**
 
-This Privacy Statement is effective as of October 23, 2009.
+This Privacy Statement is effective as of July 29, 2011.
