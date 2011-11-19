@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgatoursuperstore.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521201221id_/http%3A//shop.pgatoursuperstore.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgatoursuperstore.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119150141id_/http%3A//shop.pgatoursuperstore.com/company/privacy.aspx) for the most accurate reproduction.*
 
 # PGA TOUR Superstore - Privacy Policy
 
