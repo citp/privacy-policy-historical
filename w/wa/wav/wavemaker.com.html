@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wavemaker.com privacy policy that was archived on 2011-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110522083950id_/http%3A//www.wavemaker.com/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wavemaker.com privacy policy that was archived on 2011-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111119210903id_/http%3A//www.wavemaker.com/legal/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/main.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -30,11 +30,23 @@
     
     <div id="header">
         <div id="headerRight">
-            <p><a href="/downloads/">Download</a> | <!--<a href="/product/cloud.html">Cloud</a> |--> <a href="/about/contact.html">Contact</a></p>
-            <form id="search" action="/search/" method="post">
-                <input id="searchButton" type="submit" value="Go">
-                <input type="text" name="query" value="Search" onfocus="value=''" onchange="Search" maxlength="255">
-            </form>
+            <p><a href="/downloads/">Download</a> | <!--<a href="/product/cloud.html">Cloud</a> |--> <a href="http://www.wavemaker.com/blog">Subscribe</a></p>
+
+
+				<form id="search" action="/search/index.php" method="get">
+			<input id="searchButton" type="submit" value="Go">
+
+			<input type="text" name="query" id="query" maxlength="255" value="Search" onfocus="value=''" onchange="Search" action="/search/include/js_suggest/suggest.php" columns="2" autocomplete="off" delay="1500">
+
+
+
+
+
+
+
+				<input type="hidden" name="search" value="1">
+				</form>
+
             <div class="clearer"></div>
         </div>
         <div id="mainLogo"><a href="/"><span>WaveMaker</span></a></div>
@@ -48,9 +60,9 @@
         <li><a id="aCompany" href="/about/"><span id="nCompany"><strong>Company</strong></span></a></li>
         <li><a id="aNews" href="/news/"><span id="nNews"><strong>News &amp; Events</strong></span></a></li>
         <li><a href="http://dev.wavemaker.com/" target="_blank" id="aCommunity"><span id="nCommunity"><strong>Community</strong></span></a></li>
-    </ul>       
+    </ul>
 
-    <hr> 
+    <hr>
 
     <div id="contentWrap">
         <div id="subnav">
@@ -118,7 +130,7 @@
         <br><a href="/product/resources.html">Resources</a>
         <!--<br /><a href="/product/pricing.html">Pricing</a>-->
        <!-- <br /><a href="/product/community_vs_enterprise.html">Community vs Enterprise</a>-->
-        <br><a href="/product/professional_services.html">Services &amp; Training</a>
+        <!--<br /><a href="/product/professional_services.html">Services & Training</a>-->
          <!--<br /><a href="/cloud/">Cloud Edition</a>-->
          <br> <a href="/downloads/">Download</a></p>
 
@@ -136,7 +148,7 @@
         <a href="/customers/government.html">Government</a>
 
         </p><p style="width: 105px;"><a href="/partners/"><strong>Partners</strong></a><br>
-         <a href="/partners/partner_program.html">Become a Partner</a><br></p>
+        <!-- <a href="/partners/partner_program.html">Become a Partner</a><br />--> </p>
 
 
         <p style="width: 80px;"><a href="/about/"><strong>About Us</strong></a>
@@ -164,21 +176,23 @@
 
     <div id="footer">
         <div id="footerLt">
-            <h5>Newsletter</h5>
+           <!-- <h5>Newsletter</h5>
             <form action="/news/newsletter.html" method="post" id="signUp" name="signUp" onsubmit="return checkEmail(this)">
-                <input type="text" name="email" id="email" value="email address" onfocus="this.value='';" maxlength="255">
-                <input class="submitButton" type="image" src="/_media/signup.gif">
-            </form>
+                <input type="text" name="email" id="email" value="email address" onfocus="this.value='';" maxlength="255" />
+                <input class="submitButton" type="image" src="/_media/signup.gif"/>
+            </form> -->
             <p>
-            © 2011 WaveMaker Software™, Inc. <a href="/legal/trademarks.html">All Rights Reserved</a>. </p>
+            © 2011 VMware, Inc. All Rights Reserved. </p>
         </div>
-        <div id="footerRt">1 (415) 357-0210  | <a href="/legal/privacy.html">Privacy</a> | <a href="mailto:feedback@wavemaker.com">Feedback</a> | <a href="/about/contact.html">Contact</a>
+        <div id="footerRt"><table><tbody><tr><td valign="top">1 (415) 357-0210  | <a href="http://www.vmware.com/help/legal.html" target="_blank">Terms of Use</a> | <a href="http://www.vmware.com/help/privacy.html" target="_blank">Privacy</a> | <!--<a href="mailto:feedback@wavemaker.com">Feedback</a> | --><a href="/about/contact.html">Contact</a></td></tr></tbody></table> <!-- <div align="right"><a href="http://www.facebook.com/pages/WaveMaker-Software/72945538644?created" target="_blank"><img src="/_media/logo_facebook_16.png" /></a>&nbsp;<a href="http://twitter.com/WaveMakerDev" target="_blank"><img src="/_media/logo_twitter_16.png" /></a></div> -->
+
         </div>
-        &nbsp;&nbsp;&nbsp;
-           <a href="http://www.facebook.com/pages/WaveMaker-Software/72945538644?created" target="_blank"><img src="/_media/logo_facebook_16.png"></a>&nbsp;<a href="http://twitter.com/WaveMakerDev" target="_blank"><img src="/_media/logo_twitter_16.png"></a>
+
+<p>
 
 
-    </div>
+
+    </p></div>
 
 </div>
 
