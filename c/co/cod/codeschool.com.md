@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the codeschool.com privacy policy that was archived on 2011-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110326190055id_/http%3A//www.codeschool.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeschool.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120005118id_/http%3A//www.codeschool.com/pages/privacy_policy) for the most accurate reproduction.*
 
-# Code School
+# Privacy Policy - Code School
 
 This Privacy Policy applies to all products and services offered through Code School.
 
 ### What We Collect and How It's Used
 
-**Information you provide** \- When you sign up for or use our products, we may request personal information from you. We will not sell this information to others, but may use it to offer you additional products, promotions, or for future development ideas. 
+  * **Information you provide** — When you sign up for or use our products, we may request personal information from you. We will not sell this information to others, but may use it to offer you additional products, promotions, or for future development ideas. 
+  * **Communications** — When you communicate with Code School, through email or other means, we may retain copies or transcripts. These will be used for such things as internal training, responses to your inquiries, suggestions, or ways to improve the quality of our product. 
 
-**Communications** \- When you communicate with Code School, through email or other means, we may retain copies or transcripts. These will be used for such things as internal training, responses to your inquiries, suggestions, or ways to improve the quality of our product. 
+
 
 ### Sharing Your Information
 
