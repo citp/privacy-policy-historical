@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncronline.org privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522074152id_/http%3A//ncronline.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncronline.org privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119232317id_/http%3A//www.ncronline.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National Catholic Reporter
 
