@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midflorida.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521222118id_/http%3A//www.midflorida.com/support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midflorida.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119142223id_/http%3A//www.midflorida.com/support/privacy.asp) for the most accurate reproduction.*
 
 # MIDFLORIDA - Support - Privacy
 
