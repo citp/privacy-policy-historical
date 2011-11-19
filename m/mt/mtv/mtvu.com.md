@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtvu.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520224834id_/http%3A//www.mtvu.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvu.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119162049id_/http%3A//www.mtvu.com/about/privacy_policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY AND YOUR CALIFORNIA PRIVACY RIGHTS | mtvU
 
@@ -144,7 +144,7 @@ In the event that we, or our Affiliates, unknowingly sends an email or text mess
 
 **i. Tracking Technologies Set By Third Party Advertising Service Providers and Advertisers.** With respect to the Tracking Technologies set by Third Party Advertising Service Providers and Advertisers, you have a number of options:
 
-·         With respect to the serving of ads by DoubleClick to you, please visit [**www.google.com/privacy_ads.html**](https://web.archive.org/web/20110520224834id_/http://www.mtvu.com/about/privacy_policy/www.google.com/privacy_ads.html)for your options (other than for Flash cookies) and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. 
+·         With respect to the serving of ads by DoubleClick to you, please visit [**www.google.com/privacy_ads.html**](https://web.archive.org/web/20111119162049id_/http://www.mtvu.com/about/privacy_policy/www.google.com/privacy_ads.html)for your options (other than for Flash cookies) and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. 
 
 See below for more information on removing Flash cookies.
 
