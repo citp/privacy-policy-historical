@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the starthealthystayhealthy.in privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617152043id_/http%3A//www.starthealthystayhealthy.in/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starthealthystayhealthy.in privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119175720id_/http%3A//www.starthealthystayhealthy.in/PrivacyPolicy) for the most accurate reproduction.*
 
 # Nestle Start Healthy Stay Healthy
 
-“Nestlé" and "Nestlé Group" in this Privacy Policy refer to Nestlé S.A. and any of its affiliated companies as appropriate to the context. 
+“Nestlé” and ”Nestlé Group” in this Privacy Policy refer to Nestlé S.A. and any of its affiliated companies as appropriate to the context. 
 
-“Third Parties" for the purposes of this Privacy Policy means any company other than Nestlé S.A. and its affiliated companies. 
+“Third Parties” for the purposes of this Privacy Policy means any company other than Nestlé S.A. and its affiliated companies. 
 
 At this website, we only collect personal information that YOU want to provide to Nestlé or that is needed to provide to and improve Nestlé’s service to you. We collect direct personal information such as name, telephone number and e-mail address as well as indirect information such as “cookies” or connection or system information or the settings you have on your web browser. We however do not actively seek to identify any individual visitor, with the exception of investigating security breaches or cooperating with authorities pursuant to a legal matter. 
 
