@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caymanchem.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510092101id_/https%3A//www.caymanchem.com/app/template/Privacy.vm%3Bjsessionid%3D002C9CB7AE59352A0A31BAE43270B142) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caymanchem.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119231650id_/http%3A//www.caymanchem.com/app/template/Privacy.vm) for the most accurate reproduction.*
 
 # Privacy Statement || Cayman Chemical
 
@@ -36,7 +36,7 @@ The key points of this policy are:
 
 
 
-If users have questions or concerns regarding this statement, they should contact Cayman staff: [Website Feedback](https://web.archive.org/web/20110510092101id_/https%3A//www.caymanchem.com/app/template/Webmaster.vm;jsessionid=8F98ACD1BB3D98B2D532A46DEE17EFE9). 
+If users have questions or concerns regarding this statement, they should contact Cayman staff: [Website Feedback](https://web.archive.org/web/20111119231650id_/http%3A//www.caymanchem.com/app/template/Webmaster.vm). 
 
 ## Information Collection and Use
 
@@ -139,11 +139,11 @@ Cayman's internal network is protected by reasonable security systems and practi
 
 While we use SSL and VPN technology to protect sensitive information online, we also take precautions to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is stored in facilities with restricted access. 
 
-If users have any questions about the security at our site, users can contact Cayman staff: [Website Feedback](https://web.archive.org/web/20110510092101id_/https%3A//www.caymanchem.com/app/template/Webmaster.vm;jsessionid=8F98ACD1BB3D98B2D532A46DEE17EFE9)
+If users have any questions about the security at our site, users can contact Cayman staff: [Website Feedback](https://web.archive.org/web/20111119231650id_/http%3A//www.caymanchem.com/app/template/Webmaster.vm)
 
 ## Correcting, Updating, Deleting, or Deactivating Personal Information
 
-If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done by contacting [customer service](https://web.archive.org/web/20110510092101id_/https%3A//www.caymanchem.com/app/template/Marketing.vm/mode/customerservice;jsessionid=8F98ACD1BB3D98B2D532A46DEE17EFE9). 
+If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done by contacting [customer service](https://web.archive.org/web/20111119231650id_/http%3A//www.caymanchem.com/app/template/Marketing.vm/mode/customerservice). 
 
 ## Notification of Changes
 
@@ -151,4 +151,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 ## Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, please contact us: [Website Feedback](https://web.archive.org/web/20110510092101id_/https%3A//www.caymanchem.com/app/template/Webmaster.vm;jsessionid=8F98ACD1BB3D98B2D532A46DEE17EFE9). 
+If users have any questions or suggestions regarding our privacy policy, please contact us: [Website Feedback](https://web.archive.org/web/20111119231650id_/http%3A//www.caymanchem.com/app/template/Webmaster.vm). 
