@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coolspotters.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521123646id_/http%3A//fanzter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolspotters.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120000724id_/http%3A//fanzter.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fanzter
 
-_Last updated June 30, 2009_
+_Last updated June 13, 2011_
 
 [Fanzter Inc.](http://fanzter.com/ "Fanzter Inc. - A New Media Development Company") (the parent company of this service; hereafter "Fanzter") respects and appreciates your interest in the privacy of your personal information. As such, we take the policies and practices covered below very seriously. In order to fully understand how your information is used and shared, we recommend that you read this policy (“The Fanzter Privacy Policy”) in its entirety. 
 
@@ -36,7 +36,7 @@ We neither rent nor sell your personal information to anyone. We share your info
   * Agents – Fanzter employs other companies and people to perform tasks on our behalf and may need to share your information with them to provide products or services to you. Some examples of this include providing customer service, removing illicit or indecent content, analyzing data, or providing marketing assistance.
   * Promotions – We may send promotional offers to registered users on behalf of other businesses. Although we will not give them your address or phone number, you can cancel the receipt of these offers by emailing us at [legal@fanzter.com](mailto:legal@fanzter.com).
   * Business Transfers – In the case of Fanzter buying or selling assets, personal customer information will be considered a business asset and as such, we retain the right to transfer this information as part of any such transaction.
-  * Corporate Responsibility – We retain the right to release personal information when it is reasonably believed that release is necessary to comply with the law. We may also do so in the case of enforcing our [Terms of Service](https://web.archive.org/web/20110521123646id_/http%3A//fanzter.com/terms) (or other agreements), or protecting the rights, property, or safety of Fanzter, the users of any Fanzter Sites or Services, our employees, or others.
+  * Corporate Responsibility – We retain the right to release personal information when it is reasonably believed that release is necessary to comply with the law. We may also do so in the case of enforcing our [Terms of Service](https://web.archive.org/web/20111120000724id_/http%3A//fanzter.com/terms) (or other agreements), or protecting the rights, property, or safety of Fanzter, the users of any Fanzter Sites or Services, our employees, or others.
 
 
 
@@ -44,16 +44,15 @@ We neither rent nor sell your personal information to anyone. We share your info
 
 We recommend you always keep your password private and secure. It is also recommended that, when using a shared computer, you completely log off from our site in order to prevent unauthorized access to your password. 
 
-#### Related Links
+### Policy Toward Children
 
-#### Contact Information
+Our Sites and Services are not directed to people under the age of 13. If you become aware that your child has registered to use one of our Sites or Service without your consent, please contact us at [legal@fanzter.com](mailto:legal@fanzter.com). We do not knowingly collect personal information from people under the age of 13. If we become aware that a person under the age of 13 has provided us with personal information, we take steps to remove such information and terminate the person's account. 
 
-If you have any questions about this Privacy Policy, please contact us at the following addresses: 
+### Modification of the Privacy Policy
 
-[legal@fanzter.com](mailto:legal@fanzter.com)
+  * Fanzter reserves the right, in its sole discretion, at any time to modify, discontinue or terminate its Services or Services, or modify this Privacy Policy without notice.
+  * All modified terms and conditions will be effective after they are posted on the Sites and Services (unless a longer notice period is required by applicable law).
+  * If any changes we make to this policy are not acceptable to you, your sole remedy is to cease using the Sites or Services, and if applicable, cancel your related account.
+  * By continuing to access or use the Sites or Services after Fanzter makes any such revision, you agree to be bound by the revised Privacy Policy.
 
-**Fanzter Inc.**  
-75 Crown Street, 2nd Floor  
-Box 348  
-Collinsville, CT 06022  
 
