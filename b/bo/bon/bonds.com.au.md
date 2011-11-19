@@ -1,60 +1,34 @@
-> *The following text is extracted and transformed from the bonds.com.au privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608013035id_/http%3A//www.bonds.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonds.com.au privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119193915id_/http%3A//www.bonds.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Bonds Privacy Policy
+# Privacy Policy
 
-Bonds is committed to protecting your privacy. This privacy policy explains how your personal information will be treated as you access and interact with the website. This policy concerns personal information which:
+Your privacy is very important to us and we will always act to protect your information. We take this responsibility seriously and are very careful about how and when your personal information is collected, used and shared.  
+This statement outlines what our commitment is, why we need to collect personal information, who we may share that information with and how you may access the information that we hold.
 
-  * You provide to Bonds when you communicate with us through the website; and
-  * Bonds collects from you when you access the website.
+**Our Commitment to Privacy**
 
+We will always handle your personal information securely and carefully. We will only use your personal information when it is necessary for us to deliver you a service or perform other necessary business functions and activities. We will not use your information for purposes unrelated to the services we provide, unless first obtaining your consent. We will always use fair and lawful means of collecting personal information. In most circumstances, we will collect personal information directly from you.
 
+**What we collect**
 
-## Collection of website usage information
+The type of information we collect is dependent on the type of service or interaction you wish to receive. Information we collect can include: your name, address, phone and other contact details (fax, email etc), date of birth, gender, merchandise information (purchases, orders etc), method of payment. Sometimes we will also collect other information, such as where you shop or what your interests are, so that we can improve our service and product offering to you.  
+We do not store your credit card details in any way; they are secured by 128-bit SSL encryption and transmitted to our payment processing provider.
 
-Bonds uses cookies to enable us to track information about your visits to the website and analyse this data for trends and statistics.
+**How we collect it**
 
-When you access the website Bonds' system will record:
+The information we collect is supplied directly by you at our website. For example, the details you provide us when you place an order, open an account, subscribe to our emails, join a mailing list, enter a competition, submit an enquiry, or provide feedback to us. Where we wish to collect personal information about you via the internet, we will expressly ask you for that personal information and explain the purpose for which we are requesting the information (e.g. to add you to a mailing list).  
+Outside of information that you enter at our website, we also receive and store certain types of information through the use of 'Cookies', when you interact with Bonds via the Internet. Cookies are alphanumeric identifiers that are placed on your computer's hard drive through your web browser. Most Internet browsers are pre-set to accept cookies. If you prefer not to receive cookies, you can adjust your Internet browser to disable or to warn you when cookies are used. We recommend that you leave your Cookies enabled as they allow our systems to recognise your browser and provide quicker and easier use of our website.
 
-  * The time and date of your visit to the website;
-  * What parts of the website you visit;
-  * How long you spend on any page of the website;
-  * How many times you visit the website; and
-  * Which domain (country) you are visiting from.
+**Why we collect it**
 
+We collect information for a number of reasons, including to: deliver and improve the products and services that we offer you, to complete other transactions with you or on your behalf, to protect against fraud or theft, to provide offers and promotions that are of interest or benefit to you, and to generally provide you with a premium customer experience. We will only collect personal information that is necessary for our functions and activities.  
+We will generally only use your personal information for purposes related to the main purpose for which the information was collected, or where you have consented to the use.
 
+**Who we share it with**
 
-This information does not identify you personally [and will not be matched with any information which does identify you personally].
-
-Bonds do NOT use cookies to track:
-
-  * Where you go when you leave the website; or
-  * Your personal information
-
-
-
-You can configure your browser to reject cookies. Rejecting cookies will not restrict your access to the website unless specifically stated on a page within the website.
-
-Bonds uses and discloses aggregated non-personally identifying information collected through the website as part of the process of improving the website.
-
-## Collection of Personal Information
-
-You can visit the website without revealing any personal information. Bonds may request personal information from you when you:
-
-  * Provide feedback on the website
-  * Enter a competition from the website
-  * Contact Bonds through the website;
-  * Join a Bonds mailing list
-
-
-
-Where Bonds wishes to collect personal information about you (such as your name, contact information or other personal information) via the internet, bonds will expressly ask you for that personal information and explain the purpose for which Bonds is requesting the information (eg. to add you to Bonds' mailing list).
-
-## Data Security
-
-Safeguards will be maintained to protect personal information against unauthorised access, alteration, destruction, use or disclosure and against accidental loss. Any personal information that you submit to our website is held with the strictest confidence. Pacific Brands uses and implements industry standards for the security and protection of information collected from its users. Once your personal information comes into Bonds' possession, we will take all reasonable steps to protect that information as described.
-
-## Contact Details
-
-If you have any questions or feedback about privacy, or who wish to make a complaint, please contact Pacific Brands as set out below:
-
-Address: GPO Box 2370, Hawthorn LPO, Hawthorn Victoria 3122
+We do not intend to sell your personal information to other parties. However, we will often need to pass your personal details, such as your name and address, to companies who perform part of our service delivery – for example, organisations such as Australia Post or other agencies who assist us in the conduct of competitions.  
+We may otherwise use or disclose your personal information where required or authorised by law, which may include emergency situations and assisting law enforcement agencies.  
+Accessing and updating your personal information  
+If you need to access or correct any personal information we hold about you, please contact us using the Contact Details set out below. We request that you provide as much detail as you can about the particular information you seek, in order to help us retrieve it. An access fee may be charged to cover our costs of providing that information to you. In certain circumstances, we may not be required by law to provide you with access or to correct your personal information. If that is the case, we will give you our reasons for that decision.  
+We take reasonable steps to make sure that the personal information we collect, use and disclose is accurate, complete and up-to-date.  
+If you have any questions or feedback about privacy, or wish to make a complaint, please contact us at GPO Box 2370 Hawthorn LPO Hawthorn Victoria 3122 or at [privacyofficer@pacbrands.com.au](mailto:privacyofficer@pacbrands.com.au)
