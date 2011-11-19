@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orfonline.org privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623020555id_/http%3A//orfonline.org/cms/sites/orfonline/html/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orfonline.org privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119043535id_/http%3A//www.orfonline.org/cms/sites/orfonline/html/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
