@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the industrysearch.com.au privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525202332id_/http%3A//www.industrysearch.com.au/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the industrysearch.com.au privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119075524id_/http%3A//www.industrysearch.com.au/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -109,6 +109,6 @@ If you have any questions please contact Industracom:
 
 PHONE: +61 (02) 9925 4000  
 FAX: +61 (02) 9925 4099  
-Address: Level 1, 83 Mount Street, North Sydney, Australia  
-Postal: PO Box 1597, North Sydney, NSW 2059, Australia  
-Last updated: March 3, 2011 
+Address: Level 11, 117 York Street, Sydney, Australia  
+Postal: PO Box Q909, QVB Sydney, NSW 1230, Australia  
+Last updated: August 18, 2011 
