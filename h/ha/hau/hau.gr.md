@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the hau.gr privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521090337id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hau.gr privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119173152id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms) for the most accurate reproduction.*
 
 # Privacy Policy | Hellenic American Union
 
-You are at:  [Home](https://web.archive.org/web/20110521090337id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms?i=hau.en.home) / Privacy Policy 
+You are at:  [Home](https://web.archive.org/web/20111119173152id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms?i=hau.en.home) / Privacy Policy 
 
   * [Google](http://www.google.com/bookmarks/mark?op=edit&bkmk=http%3A%2F%2Fwww.hau.gr%2F%3Fi%3Dhau.en.terms&title=Privacy%20Policy%20|%20Hellenic%20American%20Union)
   * [del.icio.us](http://del.icio.us/post?url=http%3A%2F%2Fwww.hau.gr%2F%3Fi%3Dhau.en.terms&title=Privacy%20Policy%20|%20Hellenic%20American%20Union)
   * [Stumbleupon](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.hau.gr%2F%3Fi%3Dhau.en.terms&title=Privacy%20Policy%20|%20Hellenic%20American%20Union)
   * [Facebook](http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.hau.gr%2F%3Fi%3Dhau.en.terms&t=Privacy%20Policy%20|%20Hellenic%20American%20Union)
-  * [Twitter](http://twitter.com/home?status=http%3A%2F%2Fwww.hau.gr%2F%3Fi%3Dhau.en.terms)
+  * [Twitter](http://twitter.com/intent/tweet?text=http%3A%2F%2Fwww.hau.gr%2F%3Fi%3Dhau.en.terms)
   * [Buzz](http://buzz.reality-tape.com/submit.php?url=http%3A%2F%2Fwww.hau.gr%2F%3Fi%3Dhau.en.terms)
 
 
@@ -30,4 +30,4 @@ This information helps us assess our information services and is used only for t
 
 The only information collected that is used to identify you is information you give voluntarily, when you submit a question or comment, or register for a course, order a book or book a place at an event. This information is only used to process and respond to your question or comment, or to provide the service. This information is not disclosed except to authorized personnel who need it to process your request.
 
-**Last Update At:** 2009/03/16 - 18:44:01 
+**Last Update At:** 2011/09/22 - 11:23:15 
