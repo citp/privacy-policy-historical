@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the dekhona.com privacy policy that was archived on 2010-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229080425id_/http%3A//www.dekhona.com/help/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dekhona.com privacy policy that was archived on 2011-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111119191416id_/http%3A//www.dekhona.com/help/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
 <title>Privacy policy - dekhona.com</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
@@ -194,7 +195,64 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 var pageTracker = _gat._getTracker("UA-707268-6");
 pageTracker._trackPageview();
 </script> 
-    <!--bottom bar ends -->
-  
+<!--bottom bar ends -->
+<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+
+<script type="text/javascript">
+  window.fbAsyncInit = function() {
+    FB.init({appId: '173135829401421', status: true, cookie: true,
+             xfbml: true});
+  };
+  (function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol +
+      '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+  }());
+</script>
+<script type="text/javascript">var facebooklink=document.location.href;
+					function callPublish(msg, attachment) {					
+					FB.ui(
+					   {
+					     method: 'stream.publish',
+					     message: msg,
+					     attachment: {
+						  media: [{
+			                        type: "image",
+			                        href: facebooklink,
+			                        src: fb_Img
+					             }],
+					       name: facebookktitle,
+					       caption: 'dekhona.com',
+					       description: facebooksyn,
+					       href: facebooklink
+					     },
+					     user_message_prompt: "What's on your mind?"
+					   },
+					   function(response) {
+					     if (response && response.post_id) {
+       
+					     } else {
+       
+					     }
+					   }
+					 );
+ 
+
+					}
+
+					var share = {
+					   method: 'stream.share',
+					   u: 'http://www.dekhona.com'
+					 };
+
+					// FB.ui(share, function(response) { console.log(response); });
+
+					</script>
+
+
+
+
+ 
 
 </body></html>
