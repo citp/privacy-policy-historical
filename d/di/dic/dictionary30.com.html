@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the dictionary30.com privacy policy that was archived on 2011-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110521144515id_/http%3A//www.dictionary30.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dictionary30.com privacy policy that was archived on 2011-11-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111119222754id_/http%3A//www.dictionary30.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
   <meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
   <title>Privacy Policy</title>
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.dictionary30.com/chromejs/chrome.js">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=113869865329722"></script><script type="text/javascript" src="http://www.dictionary30.com/chromejs/chrome.js">
 
 /***********************************************
 * Chrome CSS Drop Down Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
@@ -18,8 +18,6 @@
 <script src="http://www.dictionary30.com/dictionary30.js"></script>
 
 <style type="text/css" media="screen">@import "http://www.dictionary30.com/default_css.php";</style> 
-
-<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'f34e88aa-48ab-410b-a7f8-2272fabf3905'});</script>
 
 <style type="text/css" media="screen">
 
@@ -45,100 +43,22 @@ color:black;background-color:#FFFF99;
       }
 </style>
 
-<style type="text/css">
-#fade {
-	display: none;
-	background: #000; 
-	position: fixed; left: 0; top: 0; 
-	z-index: 10;
-	width: 100%; height: 100%;
-	opacity: .80;
-	z-index: 9999;
-}
-.popup_block{
-	display: none;
-	background: #fff;
-	padding: 20px; 	
-	border: 20px solid #ddd;
-	float: left;
-	font-size: 1.2em;
-	position: fixed;
-	top: 50%; left: 50%;
-	z-index: 99999;
-	-webkit-box-shadow: 0px 0px 20px #000;
-	-moz-box-shadow: 0px 0px 20px #000;
-	box-shadow: 0px 0px 20px #000;
-	-webkit-border-radius: 10px;
-	-moz-border-radius: 10px;
-	border-radius: 10px;
-}
-img.btn_close {
-	float: right; 
-	margin: -55px -55px 0 0;
-}
-.popup p {
-	padding: 5px 10px;
-	margin: 5px 0;
-}
-/*--Making IE6 Understand Fixed Positioning--*/
-*html #fade {
-	position: absolute;
-}
-*html .popup_block {
-	position: absolute;
-}
-</style>
+<!-- Place this tag in your head or just before your close body tag -->
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 
 </head>
 <body ondblclick="dictionary30()">
 <!-- start header -->
 
-<script type="text/javascript"> 
-$(document).ready(function(){
-						   		   
-	//When you click on a link with class of poplight and the href starts with a # 
-	$('a.poplight[href^=#]').click(function() {
-		var popID = $(this).attr('rel'); //Get Popup Name
-		var popURL = $(this).attr('href'); //Get Popup href to define size
-				
-		//Pull Query & Variables from href URL
-		var query= popURL.split('?');
-		var dim= query[1].split('&');
-		var popWidth = dim[0].split('=')[1]; //Gets the first query string value
- 
-		//Fade in the Popup and add close button
-		$('#' + popID).fadeIn().css({ 'width': Number( popWidth ) }).prepend('<a href="#" class="close"><img src="http://www.dictionary30.com/images/close_pop.png" class="btn_close" title="Close Window" alt="Close" /></a>');
-		
-		//Define margin for center alignment (vertical + horizontal) - we add 80 to the height/width to accomodate for the padding + border width defined in the css
-		var popMargTop = ($('#' + popID).height() + 80) / 2;
-		var popMargLeft = ($('#' + popID).width() + 80) / 2;
-		
-		//Apply Margin to Popup
-		$('#' + popID).css({ 
-			'margin-top' : -popMargTop,
-			'margin-left' : -popMargLeft
-		});
-		
-		//Fade in Background
-		$('body').append('<div id="fade"></div>'); //Add the fade layer to bottom of the body tag.
-		$('#fade').css({'filter' : 'alpha(opacity=80)'}).fadeIn(); //Fade in the fade layer 
-		
-		return false;
-	});
-	
-	
-	//Close Popups and Fade Layer
-	$('a.close, #fade').live('click', function() { //When clicking on the close or fade layer...
-	  	$('#fade , .popup_block').fadeOut(function() {
-			$('#fade, a.close').remove();  
-	}); //fade them both out
-		
-		return false;
-	});
- 
-	
-});
-</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=113869865329722";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
 
 <div id="wrap">
 <div id="over_header2">
@@ -158,10 +78,9 @@ $(document).ready(function(){
   </form> 
 <br>
 
-  <a href="http://www.dictionary30.com/">Home</a>
-  <a href="http://www.dictionary30.com/portal.php">My Vocabulary</a>
-
-<span class="st_email"></span><span class="st_facebook"></span><span class="st_twitter"></span>
+<!-- Place this tag where you want the +1 button to render -->
+<g:plusone count="false" href="http://www.dictionary30.com"></g:plusone>
+<div class="fb-like" data-href="http://www.dictionary30.com" data-send="true" data-layout="button_count" data-width="200" data-show-faces="true" data-action="recommend"></div>
 
   
   </div>
@@ -172,12 +91,12 @@ $(document).ready(function(){
 
 <div class="chromestyle" id="chromemenu">
 <ul>
-<li><a href="#" rel="dropmenu1">Reference</a></li>
-<li><a href="#" rel="dropmenu2">Flashcards</a></li>
-<li><a href="#" rel="dropmenu6">Grammar</a></li>		
-<li><a href="#" rel="dropmenu3">Tools</a></li>	
-<li><a href="#" rel="dropmenu5">News &amp; Blogs</a></li>	
-<li><a href="#" rel="dropmenu4">Learning</a></li>	
+<li><a href="#" rel="dropmenu1">REFERENCE</a></li>
+<li><a href="#" rel="dropmenu2">FLASHCARD</a></li>
+<li><a href="#" rel="dropmenu6">GRAMMAR</a></li>		
+<li><a href="#" rel="dropmenu3">TOOLS</a></li>	<li><a href="#" rel="dropmenu7">FREE COURSES</a></li>	
+<li><a href="#" rel="dropmenu4">SCHOOL SEARCH</a></li>
+<li><a href="http://www.dictionary30.com/portal.php">MY VOCABULARY</a></li>	
 </ul>
 </div>
 
@@ -190,12 +109,11 @@ $(document).ready(function(){
 
 <!--2nd drop down menu -->                                                
 <div id="dropmenu2" class="dropmenudiv" style="width: 180px;">
-<a href="http://www.dictionary30.com/flashcard/voa_vocabulary_flashcard_0.php">VOA Vocabulary</a>
-<a href="http://www.dictionary30.com/flashcard/toefl_vocabulary_flashcard_0.php">TOEFL Vocabulary</a>
 <a href="http://www.dictionary30.com/flashcard/sat_vocabulary_flashcard_0.php">SAT Vocabulary</a>
 <a href="http://www.dictionary30.com/flashcard/gre_vocabulary_flashcard_0.php">GRE Vocabulary</a>
 <a href="http://www.dictionary30.com/flashcard/gmat_vocabulary_flashcard_0.php">GMAT Vocabulary</a>
-<a href="http://www.dictionary30.com/flashcard/logic_vocabulary_flashcard_0.php">Logic Vocabulary</a>
+<a href="http://www.dictionary30.com/flashcard/toefl_vocabulary_flashcard_0.php">TOEFL Vocabulary</a>
+<a href="http://www.dictionary30.com/flashcard/voa_vocabulary_flashcard_0.php">VOA Vocabulary</a>
 <a href="http://www.dictionary30.com/flashcard/legal_vocabulary_flashcard_0.php">Legal Vocabulary</a>
 <a href="http://www.dictionary30.com/flashcard/finance_vocabulary_flashcard_0.php">Financial Vocabulary</a>
 <a href="http://www.dictionary30.com/flashcard/medical_vocabulary_flashcard_0.php">Medical Vocabulary</a>
@@ -209,18 +127,6 @@ $(document).ready(function(){
 <a href="http://www.dictionary30.com/translate.php">Translator</a>
 <a href="http://www.dictionary30.com/quotation.php">Quotation</a>
 <a href="http://www.dictionary30.com/history.php">Day in History</a>
-<a href="http://www.dictionary30.com/books.php">Books</a>
-</div>
-
-<!--5th drop down menu -->                                                   
-<div id="dropmenu5" class="dropmenudiv" style="width: 180px;">
-<a href="http://www.dictionary30.com/news.php?subject=Language">English Language</a>
-<a href="http://www.dictionary30.com/news.php?subject=Writing">English Writing</a>
-<a href="http://www.dictionary30.com/news.php?subject=TOEFL">TOEFL News</a>
-<a href="http://www.dictionary30.com/news.php?subject=SAT">SAT News</a>
-<a href="http://www.dictionary30.com/news.php?subject=GRE">GRE News</a>
-<a href="http://www.dictionary30.com/news.php?subject=GMAT">GMAT News</a>
-<a href="http://www.dictionary30.com/news.php?subject=Education">Education News</a>
 </div>
 
 <!--6th drop down menu -->                                                   
@@ -236,12 +142,13 @@ $(document).ready(function(){
 <a href="http://www.dictionary30.com/grammar/guide/tense">Tense</a>
 <a href="http://www.dictionary30.com/grammar/guide/honorific">Honorific</a>
 <a href="http://www.dictionary30.com/grammar/guide/contraction">Contraction</a>
-</div>
+</div><!--6th drop down menu -->                                                   <div id="dropmenu7" class="dropmenudiv" style="width: 180px;"><a href="http://www.edumojo.com/elearning/search_open_course.php?source=Massachusetts+Institute+of+Technology">MIT</a><a href="http://www.edumojo.com/elearning/search_open_course.php?source=University+of+Michigan">Univ of Michigan</a><a href="http://www.edumojo.com/elearning/search_open_course.php?source=University+of+California">Univ of California</a><a href="http://www.edumojo.com/elearning/search_open_course.php?source=The+University+of+Nottingham">Univ of Nottingham</a><a href="http://www.edumojo.com/elearning/search_open_course.php?source=Tufts+University">Tufts University</a><a href="http://www.edumojo.com/elearning/search_open_course.php?source=University+of+Cape+Town">Univ of Cape Town</a><a href="http://www.edumojo.com/elearning/search_open_course.php?source=The+Open+University">Open University</a><a href="http://www.edumojo.com/elearning/">More Online Courses</a></div>
 
 <!--6th drop down menu -->                                                   
 <div id="dropmenu4" class="dropmenudiv" style="width: 180px;">
-<a href="http://www.edumojo.com/">USA School Search</a>
-<a href="http://www.edumojo.com/elearning/">Free Online Courses</a>
+<a href="http://www.edumojo.com/college/">College Search</a>
+<a href="http://www.edumojo.com/publicschool/">Public School Search</a>
+<a href="http://www.edumojo.com/privateschool/">Private School Search</a>
 </div>
 
 
@@ -264,68 +171,193 @@ cssdropdown.startchrome("chromemenu")
 
 <div id="page">
       <!-- start sidebar -->
+
+
 	<div id="sidebar">
 
-<div id="banner">
-<h3><img src="http://www.dictionary30.com/images/word_of_day_icon.jpg" alt="word of the day" width="40" height="40" valign="middle">
-Word of the Day</h3>
-<br><b>INFREQUENT</b><a href="http://www.gstatic.com/dictionary/static/sounds/de/0/infrequent.mp3" rel="nofollow"><img src="http://www.dictionary30.com/images/speaker.png" width="16" height="16" border="0"></a><blockquote></blockquote>adj. Uncommon.<blockquote></blockquote><a href="http://www.dictionary30.com/meaning/Infrequent"><b>See more meaning and usage</b></a></div>
-
-<blockquote></blockquote>
-
 <script type="text/javascript"><!--
+
+
 google_ad_client = "ca-pub-7325528017486033";
+
+
 /* 300x250, created 9/16/10 */
+
+
 google_ad_slot = "6838764987";
+
+
 google_ad_width = 300;
+
+
 google_ad_height = 250;
+
+
 //-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+
+
 </script>
 
-<blockquote></blockquote>
+
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+
+
+</script>
+
+
+
+
+<br>
+
+<div id="banner">
+
+<h3><img src="http://www.dictionary30.com/images/word_of_day_icon.jpg" alt="word of the day" width="40" height="40" valign="middle">
+
+Word of the Day</h3>
+
+<br><b>OVERWEIGHT</b> <a href="http://www.gstatic.com/dictionary/static/sounds/de/0/overweight.mp3" rel="nofollow"><img src="http://www.dictionary30.com/images/audio.gif" width="16" height="16" border="0"></a><blockquote></blockquote>n. Preponderance.<blockquote></blockquote><a href="http://www.dictionary30.com/meaning/Overweight"><b>See more meaning and usage</b></a>
+</div>
+
 
 <style type="text/css">
+
+
 table.sample {
+
+
         border-width: 1px;
+
+
         border-spacing: 5px ;
+
+
         border-style: dashed;
+
+
         border-color: black;
+
+
         width: 300px;
+
+
 }
+
+
 </style>
 
+
+<blockquote></blockquote>
+
 <table class="sample"><tbody><tr><td>
+<font size="+1">Vocabulary Learning</font><br>
+<ul>
+<a href="http://www.dictionary30.com/flashcard/sat_vocabulary_flashcard_0.php">SAT Vocabulary Flashcard</a><br>
+
+		<a href="http://www.dictionary30.com/flashcard/gre_vocabulary_flashcard_0.php">GRE Vocabulary Flashcard</a><br>
+		
+				<a href="http://www.dictionary30.com/flashcard/gmat_vocabulary_flashcard_0.php">GMAT Vocabulary Flashcard</a><br>
+				
+						<a href="http://www.dictionary30.com/flashcard/toefl_vocabulary_flashcard_0.php">TOEFL Vocabulary Flashcard</a><br>
+		
+</ul>
+</td></tr></tbody></table>
+
+<blockquote></blockquote>
+
+
+<table class="sample"><tbody><tr><td>
+
+
 <font size="+1">Get More</font>
+
+
 <form method="get" action="http://www.dictionary30.com/reference.php">
+
+
 <select name="reference">
+
+
 <option value="dictionary">Dictionary</option>
+
+
 <option value="thesaurus">Thesaurus</option>
+
+
 <option value="quotation">Quotation</option>
+
+
 <option value="crossword">Crossword Helper</option>
+
+
 <option value="scramble">Scramble Solver</option>
+
+
 </select>
+
+
 <input name="word" size="10">
+
+
 <input type="submit" name="action" value="Discover">
+
+
 <input type="BUTTON" value="Get this tool" onclick="window.location.href='http://www.dictionary30.com/tools.php'"> 
+
+
 </form>
+
+
 </td></tr>
+
+
 <tr><td></td></tr>
+
+
 <tr><td></td></tr>
+
+
 <tr><td>
+
+
 <font size="+1">Translate this page</font>
+
+
 <div id="google_translate_element"></div><script>
+
+
 function googleTranslateElementInit() {
+
+
   new google.translate.TranslateElement({
+
+
     pageLanguage: 'en'
+
+
   }, 'google_translate_element');
+
+
 }
+
+
 </script><script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+
 </td></tr></tbody></table>
 
 
+
+
+
 </div>
+
+
+
+
+
+
+
+
 
 
 
@@ -428,7 +460,7 @@ The public portions of our site are not encrypted or password-protected. We do u
 <div id="footer_top">
 <div id="footer_menu_text">
 
-<a href="http://www.dictionary30.com/">Home</a>  <span id="divider">|</span>  <a href="http://www.dictionary30.com/tools.php">Goodies</a> <span id="divider">|</span>  <a href="http://www.dictionary30.com/browse/">Browse</a> <span id="divider">|</span> <a href="http://www.dictionary30.com/resources.php">Resources</a>  <span id="divider">|</span>  <a href="http://www.dictionary30.com/privacy.php">Privacy</a>  <span id="divider">|</span>  <a href="http://www.dictionary30.com/contact.php">Contact us</a>
+<a href="http://www.dictionary30.com/">Home</a>  <span id="divider">|</span>  <a href="http://www.dictionary30.com/tools.php">Goodies</a> <span id="divider">|</span>  <a href="http://www.dictionary30.com/browse/">Browse</a> <span id="divider">|</span>  <a href="http://www.dictionary30.com/privacy.php">Privacy</a>  <span id="divider">|</span>  <a href="http://www.dictionary30.com/contact.php">Contact us</a>
 
 </div>
 <div id="footer_copyright_text">Copyrights 2010 all rights reserved dictionary30.com</div>
