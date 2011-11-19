@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bloo.com.au privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522073154id_/http%3A//bloo.com.au/_/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloo.com.au privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119231954id_/http%3A//bloo.com.au/_/pages/privacy) for the most accurate reproduction.*
 
-# Your privacy & bloo | Perth Online Business Directory
+# Privacy Policy
 
 ### Overview
 
@@ -56,7 +56,4 @@ Remember to close your browser when you have finished your user session. This is
 
 ### For further information
 
-Please contact our Privacy Officer by email: [privacy@bloo.com.au](mailto:privacy@bloo.com.au) to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy. 
-
-  
-
+Please contact our Privacy Officer by email to ask for access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy. 
