@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripsta.co.uk privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519113440id_/http%3A//www.tripsta.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripsta.co.uk privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119044807id_/http%3A//www.tripsta.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | tripsta.co.uk
 
@@ -18,4 +18,4 @@ We note, however, that under present technical means and capabilities, it is not
 
 To improve the use of the tripsta.co.uk website, we use cookies as do most companies providing internet services. Cookies are part of the browser program and store up data in order for your hard disk to process our website. This allows us to recognize your IP address the next time you use the tripsta.co.uk website. You can use our website without cookies, but the website is easier to use with cookies enabled. Most browsers automatically accept cookies. You can certainly remove all cookies any time from your hard disk. You can also modify the settings of your browser to not accept cookies without your consent. Enabling cookies is not linked to your personal information in any way. 
 
-Third party vendors, including Google, also use cookies to show ads based on a user's previous visit to our website. The user may choose to not receive cookie files from Google through their ad opt page http://www.google.com/privacy/ads.
+Third party vendors, including Google, also use cookies to show ads based on a user's previous visit to our website. The user may choose to not receive cookie files from Google through their ad opt page[ http://www.google.com/privacy/ads.](http://www.google.com/privacy/ads "title")
