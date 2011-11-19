@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motorsportmagazine.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626185025id_/http%3A//www.motorsportmagazine.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorsportmagazine.com privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119184116id_/http%3A//www.motorsportmagazine.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Motor Sport Magazine
+# Privacy policy - Motor Sport Magazine
 
 Motor Sport Magazine is determined to protect your privacy. It is very important to us that you should be able to use and enjoy our website without having to reveal more information than is necessary.However, knowing some information about our users is necessary to ensure that our service is continually improved. To be able to communicate with you we need to build an accurate picture of the needs and wishes of our users. This enables us to offer a service that is relevant and interactive.
 
@@ -50,4 +50,4 @@ If you tell us that you do not want us to use your details, then data about your
 
 You should be aware that by using the website your personal data may be processed in or transferred to other countries and you agree to your personal data being transferred or processed in this way.
 
-Further information about the Data Protection Act can be found at [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/)
+Further information about the Data Protection Act can be found [here](http://www.direct.gov.uk/en/Governmentcitizensandrights/Yourrightsandresponsibilities/Freedomofinformationanddataprotection/DG_10031451 "Data Protection")
