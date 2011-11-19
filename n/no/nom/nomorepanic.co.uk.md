@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nomorepanic.co.uk privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521080415id_/http%3A//www.nomorepanic.co.uk/articles/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomorepanic.co.uk privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119232257id_/http%3A//www.nomorepanic.co.uk/articles/privacy) for the most accurate reproduction.*
 
 # No More Panic - Privacy
 
-Last Modified 2009-08-24 15:39:26
+Last Modified 2011-09-22 18:55:01
 
 > At No More Panic we take the privacy of our members and supporters very seriously and we are committed to protecting your privacy online..
 
@@ -54,7 +54,7 @@ In simple terms a cookie is a small piece of information sent from our website t
 
 Cookies are pieces of information that a website transfers to your hard drive to store and sometimes track information about you. Most web browsers automatically accept cookies, but if you prefer, you should be able to change your browser to prevent that. You should read the information that came with your browser software to see how you can set up your browser to notify you when you receive a cookie, this should then give you the opportunity to decide whether to accept it. However, you may not be able to take full advantage of a website if you do so. Cookies are specific to the server that created them and cannot be accessed by other servers, which means they cannot be used to track your movements around the web.
 
-Cookies can be used for a variety of purposes, such as providing personalised pages, but at present, we use them only to work out how many people visit our sites.
+Cookies can be used for a variety of purposes, such as providing personalised pages, but at present, we use them only to track people visiting our sites and the pages they view on the site.
 
 Further information about cookies can be found at the Interactive Advertising Bureau's website[www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org").
 
