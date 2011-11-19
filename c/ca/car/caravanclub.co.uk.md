@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caravanclub.co.uk privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522172255id_/http%3A//www.caravanclub.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caravanclub.co.uk privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119232502id_/http%3A//www.caravanclub.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | The Caravan Club
 
@@ -37,7 +37,7 @@ We also use software to analyse how you interact with our website.  Any informa
 
 ### Cookies
 
-**We use "cookies" on this site to enable our system to recognise your computer and allow us to see how you use our site.** Most browsers allow you to stop receiving cookies via option / settings.  However, you should be aware that if you do disable cookies, you will not be able to login into member-only areas and some services will not work.
+**We use "cookies" on this site to enable our system to recognise your computer, making our website easier for you to use,  and allow us to see how you use our site so we can plan improvements to our website.** Most browsers allow you to stop receiving or control cookies via option / settings.  However, you should be aware that if you do disable cookies, you will not be able to login into member-only areas and some services will not work.
 
 We need you to accept cookies for the following services to work:
 
@@ -48,7 +48,7 @@ We need you to accept cookies for the following services to work:
 
 
 
-The Club will continue to monitor EU changes regarding the use of cookies.
+The Club will continue to review ICO guidance, following changes in EU law regarding the use of cookies, and will develop a plan to ensure this website is compliant.
 
 ## Sensitive personal information
 
