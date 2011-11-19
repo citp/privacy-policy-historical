@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the montgomerycollege.edu privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520235804id_/http%3A//cms.montgomerycollege.edu/EDU/Plain.aspx%3Fid%3D15742) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montgomerycollege.edu privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119155551id_/http%3A//cms.montgomerycollege.edu/EDU/Plain.aspx%3Fid%3D15742) for the most accurate reproduction.*
 
 # Montgomery College Web Privacy Statement
 
