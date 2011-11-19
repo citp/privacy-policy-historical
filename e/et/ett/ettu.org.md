@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ettu.org privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522072935id_/http%3A//www.ettu.org/others.php%3Fid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ettu.org privacy policy that was archived on 2011-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111119225219id_/http%3A//www.ettu.org/others.php%3Fid%3D2) for the most accurate reproduction.*
 
 # ETTU - European Table Tennis Union
 
@@ -18,8 +18,8 @@ We may use personal information collected about you to let you know about functi
 Sometimes (and only in accordance with preferences selected by you) we or our affiliated companies might use the personal information collected about you to let you know about, new goods, services or offers that you might find interesting. If you do not wish to receive such information please email us using our feedback form.
 
 **Traffic Data**  
-We may provide aggregate statistics about our sales, customers, traffic patterns and other site information to third parties, but these statistics will not include any information that could personally identify you.
-
+We may provide aggregate statistics about our sales, customers, traffic patterns and other site information to third parties, but these statistics will not include any information that could personally identify you.  
+  
 **Other Disclosures**  
 We reserve the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users.
 
