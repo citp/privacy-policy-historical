@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techstartups.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523143953id_/http%3A//www.techstartups.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techstartups.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120140109id_/http%3A//www.techstartups.com/privacy-policy) for the most accurate reproduction.*
 
 # » Privacy Policy | Tech Startups
 
@@ -60,6 +60,6 @@ Whenever TechStartups handles your personal information, we take steps to ensure
 Children under the age of 18 are not authorized to use the Site and we ask that children do not submit any personal information to us. We do not share personal information about users under the age of 18 with third parties and we do not sell or rent personal information about any of our users, regardless of age.
 
 **Additional Information**  
-Any questions regarding this statement should be directed to info@NetworkMediaHoldings.com (TechStartups.com is a subsidiary of [Network Media Holding](http://networkmediaholdings.com/).
+Any questions regarding this statement should be directed to [info@TechStartups.com](mailto:info@TechStartups.com).
 
 This Policy is the sole authorized statement of TechStartups’s practices with respect to the online collection of personally identifiable information and the usage of such information.
