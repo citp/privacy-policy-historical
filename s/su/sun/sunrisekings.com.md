@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunrisekings.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613093035id_/http%3A//www.sunrisekings.com/privacy.php%3Fnats%3DMC4wLjEuMS4wLjAuMC4wLjA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunrisekings.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120023028id_/http%3A//www.sunrisekings.com/privacy.php%3Fnats%3DMC4wLjEuMS4wLjAuMC4wLjA) for the most accurate reproduction.*
 
 # SunriseKings.com | HD Porn | Worlds Best High Definition Porn Movies
 
@@ -62,4 +62,22 @@ This privacy policy may be changed, modified or edited at any time. It is the su
 
 **TERMS AND CONDITIONS OF MEMBERSHIP**
 
+a) Rights
+
 Each subscriber should carefully read each of the terms and conditions of membership for the site. By accepting membership to this site, you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this site to use information that it has gathered from subscribers.
+
+b) Member Account, Password and Security
+
+As part of the registration process, you will select a unique user name and password which you must provide in order to gain access to the non-public portion of a Site. You represent and warrant that you will not disclose to any other person your unique user name and password and that you will not provide access to any Site to anyone who is below the age of majority in your jurisdiction. You are solely responsible for maintaining the confidentiality of your user name and password and are fully responsible for all activities that occur under your user name and password. You agree to (1) immediately notify SunriseKings of any unauthorized use of your user name and password or any other breach of security, and (2) ensure that you exit from your account at the end of each session.
+
+c) Fees
+
+You agree to pay all membership fees when due. SunriseKings posts the current membership fees for each Site as part of the registration process. SunriseKings reserves the right to change any Site's membership fees at any time, with or without prior notice to you. At the time of registration, you must select a payment method. SunriseKings reserves the right to contract with a third party to process all payments. Such third party may impose additional terms and conditions governing payment processing. Your account will be deemed past due if it is not paid in full by the payment due date. If your account become past due, you agree to pay interest on the past due amount at a monthly rate of 1.5%, or the highest amount allowed by law, whichever is lower, compounded daily, plus any additional collection costs, credits, charge backs and attorneys fees. Your card issuer agreement may contain additional terms with respect to your rights and liabilities as a card holder. You are responsible for reimbursing SunriseKings for all credit card charge backs, dishonored checks and any related charges.
+
+d) Refund Policy
+
+SunriseKings does not provide cash refunds. We may, however, grant credits in the form of free monthly memberships to resolve customer service issues. The billing system used by SunriseKings or our authorized agents provides extensive credit card fraud protection measures and our Sites include many features to protect users from accidental charges. Therefore, refunds to your credit card will be provided only under the rarest of circumstances such as persistent technical problems originating with our equipment.
+
+**INDEMNITY**
+
+You agree to indemnify SunriseKings against any and all claims, liabilities, and costs, including reasonable attorneys’ fees, reasonably incurred in the defense of any claim or suit arising out of or otherwise related to these Terms and Conditions, including without limitation, any breach by you of this Agreement. SUnriseKings shall promptly notify you by electronic mail of any such claim or suit, and cooperate fully (at your expense) in the defense of such claim or suit. SUnriseKings may participate in the defense of such claim or defense at its own expense, and choose its own legal counsel, but is not obligated to do so
