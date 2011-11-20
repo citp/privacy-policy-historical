@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the datasprings.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420030357id_/http%3A//www.datasprings.com/Home/tabid/1/ctl/Privacy/language/en-US/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datasprings.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120014920id_/http%3A//www.datasprings.com/privacy) for the most accurate reproduction.*
 
-# Data Springs - DotNetNuke Modules
+# Data Springs - DotNetNuke Modules, SharePoint Web Parts, and Mobile Applications!
 
 Data Springs Inc. - DotNetNuke Modules is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Data Springs Inc. - DotNetNuke Modules Web site and governs data collection and usage. By using the Data Springs Inc. - DotNetNuke Modules website, you consent to the data practices described in this statement.
 
