@@ -1,45 +1,49 @@
-> *The following text is extracted and transformed from the arvato.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523034330id_/http%3A//arvato.com/wms/arvato/index.php%3Fci%3D40) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arvato.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120104103id_/http%3A//www.arvato.com/en/privacy.html) for the most accurate reproduction.*
 
-# Privacy - arvato
+# arvato: Privacy
 
-## Privacy Policy Statement for the arvato AG Web site
+**Privacy Policy Statement**  
+arvato AG welcomes you to our homepage, and likewise welcomes your interest in our company and our products. The protection of your privacy is important to us. arvato AG’s web activities comply with all applicable laws to protect personal information and guarantee data security. This privacy protection statement tells you how arvato AG treats the information generated during your visit to the arvato AG website. 
 
-Protecting our users’ personal data is an important concern for our company. All of arvato AG’s web activities comply with European legislation and the [GBDe Recommendations](http://www.gbde.org/) issued in September 2001. This privacy policy governs the treatment of the information arvato AG gathers on you when you visit this Web site  
- **  
-Collection and Processing of Personal Data**  
-Personal data is information that identifies you, e.g. your name, your address, e-mail or postal addresses. arvato AG does not collect personal data from you except when you specifically provide it, e.g. when ordering information material.   
-**  
-Use and Divulgence of Personal Data**  
-arvato AG will use your personal data exclusively for purposes of technical Web site administration, to give you access to special information, or for general communication with you. arvato AG will neither sell your personal data to third parties nor market it elsewhere. The employees of arvato AG are duty-bound to respect the confidentiality of your data and abide by Bertelsmann’s Codes of Conduct.  
- **  
-Freedom of Choice**  
-You control the information you provide arvato AG about yourself. If your personal information changes (e.g. zip code, e-mail, postal address), please e-mail the changes to arvato AG in order to correct or update your personal data (our address: info@arvato.de).   
-Automatically recorded information (non-personal data)  
-When you access the arvato AG Web site, general non-personal information (Internet browser used, number of visits, average time spent on site, pages viewed) is recorded automatically (not as part of registration). This information is used to gauge our Web site's appeal and to improve its content and functionality. Your data is not processed any further nor is it transmitted to third parties.  
- **  
-Cookies**  
-Cookies are tiny files that are temporarily stored on your hard disk, enabling our site to recognize your computer the next time you visit the arvato AG Web site. arvato AG uses Cookies exclusively to collect information concerning the use of our Web site.   
-Cookies contain no personally identifiable data, so the protection of your privacy is ensured. Depending on your settings, your Internet browser will automatically accept Cookies. However, you may change your browser settings at any time and choose to access arvato AG’s Web site without accepting Cookies. 
+**Collection and Processing of Personal Data**  
+Personal data is information that identifies you, such as your name, your address, e-mail or postal addresses. arvato AG does not collect personal data from you except when you specifically provide it, for example when ordering information or subscribing to newsletters. 
+
+**Use and Divulgence of Personal Data**  
+arvato AG will use your personal data exclusively for purposes of technical Web site administration, to give you access to special information or for general communication with you. arvato AG will neither sell your personal data to third parties nor market it elsewhere. The employees of arvato AG are duty-bound to respect the confidentiality of your data and abide by arvato's Codes of Conduct. 
+
+**Freedom of Choice**  
+You control the information you provide arvato AG about yourself. However, if you choose not to share your information with arvato AG, please be aware that you may be unable to access some of the areas of the Web site. If your personal information changes (e.g. zip code, e-mail, postal address), please e-mail the changes to arvato AG in order to correct or update your personal data (our address: info@arvato.de). 
+
+**Automatically recorded information (non-personal data)**  
+When you access the arvato AG Web site, general non-personal information (Internet browser used, number of visits, average time spent on site, pages viewed) is recorded automatically (not as part of registration). This information is used to gauge our Web site's appeal and to improve its content and functionality. Your data is not processed any further nor is it transmitted to third parties. 
+
+**Cookies**  
+This website uses Google Analytics, a web analysis service from Google Inc. ("Google"). Google Analytics uses so-called Cookies, which are text files that are saved on your computer and which make it possible to analyze your use of the website. The information generated by the cookie about your use of this website (including your IP address) is sent to a Google server in the U.S. where it is saved. In addition, on this website Google Analytics is supplemented by the code "gat._anonymizeIp();” which is provided by Google in order to ensure that IP addresses are captured in anonymized form. Before transfer the last two digits of the IP address are shortened to make it impossible to identify the user.   
+Google will use this information to evaluate your use of the website in order to compile reports about the website activities for the operators of the website and to provide further services related to the use of the website and the internet usage. Google will also send this information to third parties if this is stipulated by law or if third parties process this data on behalf of Google. Under no circumstances will Google link your IP address to any other data that is saved by Google. 
+
+You can block cookies simply by adjusting your browser software settings.   
+You may at any time ask Google Analytics to refrain from any future recording and use of your IP address. It is also possible to install a browser plug-in provided by Google. You can download the plug-in and find more information from the Google website at: [http://tools.google.com/dlpage/gaoptout?hl=de](http://tools.google.com/dlpage/gaoptout?hl=de). 
 
 **Security**  
-The arvato AG takes great care to ensure the security of personal data. Your data is conscientiously protected from loss, destruction, distortion/falsification, manipulation and unauthorized access or unauthorized disclosure.  
- **  
-Minors**  
-arvato AG strongly advises all parents and guardians to teach their children safe and responsible handling of personal data on the Internet. Minors should not transmit any personal data to arvato AG Web sites without the permission of their parents or guardians. arvato AG will never knowingly collect personal data from minors, or use it in any way, or disclose it to third parties without permission. 
+arvato AG takes great care to ensure the security of personal data. Your data is conscientiously protected from loss, destruction, distortion/falsification, manipulation and unauthorized access or unauthorized disclosure. 
+
+**Minors**  
+arvato AG strongly advises all parents and guardians to teach their children safe and responsible handling of personal data on the Internet. Minors should not transmit any personal data to arvato AG Web sites without the permission of their parents or guardians. arvato AG will never knowingly collect personal data from minors or use it in any way or disclose it to third parties without permission. 
 
 **Links to other Web sites**  
-This statement on privacy protection applies for the www.bertelsmann.com homepage hosted by arvato AG. The Web pages in this homepage may contain links to other providers within and outside the Bertelsmann group, to which this privacy protection statement does not extend. When you leave arvato AG’s Web site, please be aware of and read the privacy statements of each and every Web site that collects personally identifiable information. 
+This statement on privacy protection applies to the www.bertelsmann.com homepage hosted by arvato AG. The Web pages in this homepage may contain links to other providers within and outside arvato group, to which this privacy protection statement does not extend. When you leave arvato AG's Web site, please be aware of and read the privacy statements of each Web site that collects personally identifiable information. 
 
 **Right to information**  
-If you have questions concerning our privacy protection policy or how your personal data is processed, please feel free to contact our Privacy Protection representative.   
-arvato AG  
-Data Protection Department  
-Norbert Brinkschneider  
-Carl-Bertelsmann-Str. 270  
-D-33311 Gütersloh  
-Germany  
-E-Mail: [norbert.brinkschneider@bertelsmann.de ](mailto:norbert.brinkschneider@bertelsmann.de%20)
+If you have questions concerning our privacy protection policy or how your personal data is processed, please feel free to contact our Privacy Protection representative. 
 
-Upon request, you will promptly be informed – in writing and pursuant to applicable legislation – which of your personal data, if any, was collected during your visits to arvato AG Web sites.   
-Notification of changes   
+Bertelsmann AG / arvato AG  
+Data Protection Department   
+Carl-Bertelsmann-Str. 270   
+D-33311 Gütersloh   
+Germany   
+E-Mail: datenschutz@bertelsmann.de 
+
+Upon request, you will promptly be informed - in writing and pursuant to applicable legislation - which of your personal data, if any, was collected during your visits to arvato AG Web sites. 
+
+**Notification of changes**  
 Any changes to our privacy policy will be posted to this privacy statement, the homepage, and any other places we deem appropriate.
