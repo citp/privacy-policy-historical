@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twentyfeet.com privacy policy that was archived on 2011-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110131104413id_/http%3A//www.twentyfeet.com/wiki/display/TF/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twentyfeet.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120205557id_/http%3A//www.twentyfeet.com/wiki/display/TF/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - TwentyFeet - TwentyFeet Wiki
 
@@ -53,6 +53,6 @@ TwentyFeet may update this policy from time to time. We will notify you about si
 Any questions about this Privacy Policy should be addressed to support@twentyfeet.com or by mail at:
 
 TwentyFeet GmbH  
-Söhnleinstraße 8  
-65201 Wiesbaden  
+Kirchgasse 6  
+65185 Wiesbaden  
 Germany
