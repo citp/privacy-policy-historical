@@ -1,226 +1,231 @@
-<!--The following is the downloaded HTML source of the payzone.ie privacy policy that was archived on 2010-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100603170355id_/http%3A//www.payzone.ie/pages/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the payzone.ie privacy policy that was archived on 2011-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111120030622id_/http%3A//www.payzone.ie/pages/about-us/privacy-policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Payzone - Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" content="">
-<meta name="keywords" content="">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="cufon-active cufon-ready"><head>
+  <title>Payzone IE - Privacy Policy</title>
+  
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    
+  <meta name="description" content="">
+  <meta name="keywords" content="">
 
-<link href="http://www.payzone.ie/templates/static_files/css/styles.css" rel="stylesheet" type="text/css">
-<!--[if IE 7]>
-<link href="http://www.payzone.ie/templates/static_files/css/stylesie7.css" rel="stylesheet" type="text/css" />
-<![endif]-->
-<link href="http://www.payzone.ie/templates/static_files/css/subnav.css" rel="stylesheet" type="text/css">
-
-<script type="text/javascript" src="http://www.payzone.ie/templates/static_files/js/swfobject.js"></script>
-<script type="text/javascript" src="http://www.payzone.ie/templates/static_files/js/functions.js"></script>
-
-<script language="JavaScript">
-//here you place the ids of every element you want.
-var ids=new Array('a0', 'a1','a2','a3','a4','a5','a6','a7','a8');
-
-function switchid(id){	
-	hideallids();
-	showdiv(id);
-}
-
-function hideallids(){
-	//loop through the array and hide each element by id
-	for (var i=0;i<ids.length;i++){
-		hidediv(ids[i]);
-	} 
-}
-
-function hidediv(id) {
-	//safe function to hide an element with a specified id
-	if (document.getElementById) { // DOM3 = IE5, NS6
-		document.getElementById(id).style.display = 'none';
-	}
-	else {
-		if (document.layers) { // Netscape 4
-			document.id.display = 'none';
-		}
-		else { // IE 4
-			document.all.id.style.display = 'none';
-		}
-	}
-}
-
-function showdiv(id) {
-	//safe function to show an element with a specified id
-		  
-	if (document.getElementById) { // DOM3 = IE5, NS6
-		document.getElementById(id).style.display = 'block';
-	}
-	else {
-		if (document.layers) { // Netscape 4
-			document.id.display = 'block';
-		}
-		else { // IE 4
-			document.all.id.style.display = 'block';
-		}
-	}
-}
-
-</script>
+  <link href="/templates/static_files/css/styles.css" rel="stylesheet" type="text/css">
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/templates/static_files/js/jquery-1.4.2.min.js" type="text/javascript"></script>
+  <script src="/templates/static_files/js/cufon-yui.js" type="text/javascript"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
+  <script src="/templates/static_files/js/Caecilia_LT_Bold_400-Caecilia_LT_Heavy_400.font.js" type="text/javascript"></script>
+  <script type="text/javascript">
+    Cufon.replace('h1, h2, h3, h4, h5, h6'); // Works without a selector engine
+    
+    var headline_count;
+    var headline_interval;
+    var old_headline = 0;
+    var current_headline = 0;
+   
+     $(document).ready(function(){
+       headline_count = $("div.headline").size();
+       $("div.headline:eq("+current_headline+")").css('top','3px');
+     
+       headline_interval = setInterval(headline_rotate,5000); //time in milliseconds
+       $('#scrollup').hover(function() {
+       clearInterval(headline_interval);
+       }, function() {
+       headline_interval = setInterval(headline_rotate,5000); //time in milliseconds
+       headline_rotate();
+       });
+     });
+   
+     function headline_rotate() {
+       current_headline = (old_headline + 1) % headline_count; 
+       $("div.headline:eq(" + old_headline + ")").animate({top: -20},"slow", function() {
+       $(this).css('top','20px');
+       });
+       $("div.headline:eq(" + current_headline + ")").show().animate({top: 3},"slow");  
+       old_headline = current_headline;
+     }
+  
+  $(document).ready(function () {
+  
+  $('img.menu_head').click(function () {
+  $('ul.menu_body').slideToggle('fast');
+  });
+  
+  $("#menu ul li a span:contains('Products')").parent().parent().addClass('tworows');
+  
+  
+  });
+  
+  </script>
+  <!--[if lte IE 6]>
+  <link type="text/css" href="/templates/static_files/css/ie6.css" rel="stylesheet">
+  <![endif]-->
 
 </head>
+
 <body>
+<a name="TOP"></a>
+  <div id="top">
+    <div class="wrapper">
+    <div id="business">
+          <img src="/templates/static_files/images/business.gif" alt="Select Business" width="147" height="24" class="menu_head">
+          <ul class="menu_body">
+            <!--<li><a href="#">Payzone Ireland</a></li>-->
+            <li><a href="http://www.payzone.co.uk/">Payzone UK</a></li>
+            <li><a href="http://www.cashzone.co.uk/">Cashzone UK</a></li>
+			<li><a href="http://www.payzonegroup.com/">Payzone Group</a></li>
+          </ul>
+        </div>
+      <div id="logo">
+        <img src="/templates/static_files/images/logo.gif" alt="Payzone Ireland">
+      </div>
+      <div id="payzone"><img src="/templates/static_files/images/payzone.gif" alt="Payzone" width="81" height="105"></div>
+      <div id="head">
+      
+<!-- ******************************** MENU ******************************** -->
+        <div id="menu">
+            <ul class="menu-top"><li class="menu-first"><a href="http://www.payzone.ie" target="_top"><span>Home</span></a></li><li class="tworows"><a href="http://www.payzone.ie/pages/products-services.php" target="_top"><span>Products &amp; Services</span></a></li><li class=""><a href="http://www.payzone.ie/pages/solutions.php" target="_top"><span>Solutions</span></a></li><li class="menu-expand menu-parent"><a href="http://www.payzone.ie/pages/about-us.php" target="_top"><span>About Us</span></a></li><li class="menu-expand"><a href="http://www.payzone.ie/pages/news.php" target="_top"><span>News</span></a></li><li class="menu-last"><a href="http://www.payzone.ie/pages/contact-us.php" target="_top"><span>Contact Us</span></a></li></ul>                                         
+             
+          <!--<ul>            
+            <li class="first"><a href="#">Home</a></li>
+            <li class="tworows"><a href="#">Products<br />
+                &amp; Services</a></li>
+            <li><a href="#">Solutions</a></li>
+            <li><a href="#">About Us</a></li>
+            <li><a href="#">News</a></li>
+            <li class="tworows"><a href="#">Contact<br />
+                Us</a></li>
+          </ul>-->                
+                
 
-<div id="bkgdtop"><!-- start bkgdtop -->
-<div id="top">
-<script language="javascript">
-function pzRedir() {
-	o = document.getElementById('pz_redir_drop');
-	if (o.value) {
-		window.location=o.value;
-	}
-}
-</script>
-<div id="countries">
-	<form name="pz_redir">
-	<select id="pz_redir_drop" name="Select Country" onchange="javascript:pzRedir();">
-	  <option value="" selected="selected">Select Website</option>
-	  <!-- <option value="http://www.payzoneplc.com">Payzone PLC</option> -->
-	  <option value="http://www.payzone.co.uk">Payzone UK</option>
-      <!-- <option value="http://www.payzone.de">Payzone GER</option> -->
-	<!-- <option value="http://www.payzone.com.pl">Payzone PL</option>-->
-	</select>
-	</form>
+        </div>
+<!-- ******************************** MENU END **************************** -->
+
+        <div id="login">
+		
+		<a href="https://invoice.payzone.ie/PayzoneUserDeployment/PayzoneWebPortal/PayzoneLogin.aspx" class="login"></a>
+		
+          <!--<form action="" method="get">
+            <input type="text" class="textfield" value="User Name" />
+            <input type="password" class="textfield" value="Password" />
+            <input name="" type="image" src="/templates/static_files/images/blank.gif" class="button" />
+          </form>-->
+        </div>
+        
+      </div>
+	  <div id="breadcrumb">You are in: <a href="/">Payzone Ireland</a> &gt; <span class="menu-expand menu-parent"><a href="http://www.payzone.ie/pages/about-us.php" target="_top">About Us</a><span class="menu-current"> &gt; <a href="http://www.payzone.ie/pages/about-us/privacy-policy.php" target="_top">Privacy Policy</a></span></span></div>
+      <!--<div id="breadcrumb">You are in: <a href="#">Payzone Ireland</a> > home</div>-->
+    </div>
+  </div>
+  
+  <div id="main">
+    <!-- 
+    <div id="welcome">
+      <h1>Welcome to Payzone Ireland</h1>
+      <p>With Payzone Ireland you have access to the largest independent fully branded network of payment
+      agents. Combined with our virtual channel technologies which include SMS, IVR and the internet,
+      Payzone guarantees a tailored channel solution which best serves the needs of clients.</p>
+    </div>-->
+    <div id="content">
+      <a class="section_anchor" id="wb_24" name="wb_24"></a><h1><cufon class="cufon cufon-canvas" alt="Privacy " style="width: 135px; height: 34px;"><canvas width="169" height="39" style="width: 169px; height: 39px; top: -2px; left: -3px;"></canvas><cufontext>Privacy </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Policy" style="width: 101px; height: 34px;"><canvas width="124" height="39" style="width: 124px; height: 39px; top: -2px; left: -3px;"></canvas><cufontext>Policy</cufontext></cufon></h1>
+<p style="font-family: arial, helvetica, sans-serif">Payzone Group (hereinafter referred to as "Payzone" "us" "we" or "our") is committed to respecting your privacy and to complying with applicable data protection and privacy laws. You can visit <a href="http://www.payzone.ie"><font color="#c73a85">www.payzone.ie</font></a> ("Site") without disclosing any personally identifiable information about yourself. <br>
+We have provided this Privacy Policy Statement to help you understand how we collect, use and protect your information when you visit the Site. We wish to help you make informed decisions, so please take a few moments to read the sections below and learn how we may use your personal information.</p>
+<p style="font-family: arial, helvetica, sans-serif">For the purposes of this Privacy Policy Statement "Payzone" means Payzone Group and any company or other entity within the group.</p>
+<p style="font-family: arial, helvetica, sans-serif">You should read this notice in conjunction with the Terms and Conditions of use for the Site.</p>
+<p style="font-family: arial, helvetica, sans-serif"><strong><font color="#c73a85">Personal Information Collection</font></strong></p>
+<p style="font-family: arial, helvetica, sans-serif">We endeavour to collect and use your personal information only with your knowledge and consent and typically when you use services, make customer enquiries, register for information or other services, or when you respond to communications from us (such as questionnaires or surveys).</p>
+<p style="font-family: arial, helvetica, sans-serif">The type of personal information we may collect could include, for example, your name and postal address, date of birth, gender, telephone and fax numbers, email address, and lifestyle and other information collected on registration or through surveys. If you choose to provide us with personal information it will be used in support of the intended purposes stated at the time at which it was collected, and subject to any preferences indicated to you.</p>
+<p style="font-family: arial, helvetica, sans-serif">You acknowledge that by providing data to us, you consent to the processing of your data in accordance with this Privacy Policy Statement.</p>
+<p style="font-family: arial, helvetica, sans-serif"><strong><font color="#c73a85">Access to your Information</font></strong></p>
+<p style="font-family: arial, helvetica, sans-serif">You can write to us at any time to obtain details of the personal information we may hold about you.*</p>
+<p style="font-family: arial, helvetica, sans-serif">The Data Protection Manager<br>
+Payzone Group<br>
+Payzone House<br>
+Heather Road<br>
+Sandyford Ind Est<br>
+Dublin 18<br>
+Republic of Ireland</p>
+<p style="font-family: arial, helvetica, sans-serif">Please quote your name and address. We would be grateful if you could also provide brief details of what information you want a copy (this helps us to more readily locate your data).</p>
+<p style="font-family: arial, helvetica, sans-serif">We will take all reasonable steps to confirm your identity before providing you with details of any personal information we may hold about you. <br>
+*we may charge Euro15.00 to cover the administration costs involved.</p>
+<p style="font-family: arial, helvetica, sans-serif"><strong><font color="#c73a85">Information Security</font></strong></p>
+<p style="font-family: arial, helvetica, sans-serif">Please be aware that communications over the Internet, such as emails/webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered - this is the nature of the World Wide Web/Intranet. Payzone cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control. <br>
+Privacy Support<br>
+Payzone reserves the right to amend or modify this Privacy Policy Statement at any time and in response to changes in applicable data protection and privacy legislation. <br>
+If you have any enquiry about Payzone's data protection and privacy policy or practices, please write to:</p>
+<p style="font-family: arial, helvetica, sans-serif">The Data Protection Manager<br>
+Payzone Group <br>
+Payzone House<br>
+Heather Road<br>
+Sandyford Ind Est<br>
+Dublin 18<br>
+Republic of Ireland</p>
+<p>&nbsp;</p>    
+      <!-- 
+      <div class="post">
+        <h3><img src="/templates/static_files/images/o2.jpg" alt="O2" width="240" height="140" />Mobile Top Up</h3>
+          <p>Payzone has been leading the way in the electronic distribution of mobile top up for several years. We pioneered the first ever electronic distribution of prepaid
+          mobile top-up for <a href="http://www.o2.ie" target="_blank">O2</a> in Ireland. Processing over 50 million mobile top-up
+          transactions in Ireland each year, Payzone is the market leader in the electronic
+          delivery of mobile top-up services to consumers. We distribute top ups for all the Irish mobile phone operators through our Payzone Agents.</p>
+      
+      </div>
+      <div class="post">
+      <h3><img src="/templates/static_files/images/m50.jpg" alt="M50" width="240" height="140" />M50 Toll Payments</h3>
+      <p>In August 2008 the National Roads Authority (NRA) implemented a new Barrier-Free Tolling system called eFlow on the M50. Payzone exclusively provides online
+          and retail toll payment processing services for users of the M50 motorway. Online
+          payment processing services provided by Payzone include online through <a href="http://www.eflow.ie" target="_blank">www.eflow.ie</a> and call centre facilities. Payzone facilitates M50 toll payments and eflow
+          bills for consumers nationwide across Payzone’s network of Agents.
+          If consumers have any questions about the tolls they have paid or amounts owing
+          please contact the eFlow Consumer Careline on Locall 1890 50 10 50 or log on to
+          <a href="http://www.eflow.ie" target="_blank">www.eflow.ie</a></p>
+      </div>
+      -->
+    </div>
 </div>
-<div id="search">
-<form name="search" action="http://www.payzone.ie/search/index.php" method="get">
-    <input type="text" class="box" name="string" value="Site Search" onblur="if(this.value=='') this.value='Site Search';" onfocus="if(this.value=='Site Search') this.value='';">
-  <label>
-    <input type="submit" class="button" name="button" id="button" value="Search">
-  </label>
-</form>
-</div>
-</div><!-- end top -->
-<div id="curve">&nbsp;</div>
-
-
-</div><!-- end bkgdtop -->
-
-<div id="bkgd"><!-- start bkgd -->
-
-<div id="wrapperHome">
-
-
-<div id="logonav"><!-- start logonav -->
-
-  <a href="/pages/index.php"><img src="http://www.payzone.ie/templates/static_files/images/logo.gif" alt="Payzone" width="110" height="136" border="0" class="logo"></a>
-
-<div id="navigation">
-<ul id="nav">
-<!--
-	<li><a href="/"  class="active">Home</a></li>
-	<li><a href="/pages/consumer.php">Consumer</a></li>
-	<li><a href="/pages/retailers.php">Retailers</a></li>
-	<li><a href="/pages/partners.php" >Partners</a></li>
-	<li><a href="/pages/about-us/corporate-profile.php">About Us</a></li>
-	<li><a href="/pages/news.php"  class="news">News &amp; Events</a></li>
-        <li><a href="/pages/about-us/contact-us.php"  class="contact">Contact Payzone</a></li>
--->
-	<li><a href="/pages/index.php" class="home">Home</a></li>
-	<li><a href="/pages/retailers/payzone-services.php">Retailers</a></li>
-	<li><a href="/pages/consumer/payzone-products.php">Consumer</a></li>
-	<li><a href="/pages/partners.php">Partners</a></li>
-	<li><a href="/pages/about-us/corporate-profile.php" class="active">About Us</a></li>
-	<li><a href="/pages/news.php" class="news">News &amp; Events</a></li>
-         <li><a href="/pages/about-us/contact-us.php" class="contact">Contact Payzone</a></li>
-
-</ul>
-
-</div>
-
-</div><!-- logonav -->
-
-<!--<div id="hompageFlash"></div>-->
-
-<div id="flash"><!-- flash -->
-<!--<img src="flash/noflash.gif" height="184" width="664" alt="" class="noflash"/>-->
-<script language="javascript" type="text/javascript">
-		var so = new SWFObject("http://www.payzone.ie/templates/static_files/flash/version-4.swf", "Payzone", "655", "185", "6");
-		so.addParam("quality","high");
-		so.write("flash"); 
-	</script>
-	
-</div>
-<!-- end flash -->
-
-<div id="main">
-
-<div id="subnav">
-<div id="navTitle"><a href="/pages/about-us/corporate-profile.php">About Us</a></div>
-    
-<!-- show_menu2 -->
- <ul class="menu-top menu-1">
-    <li class="menu-1 menu-expand menu-first"><a href="http://www.payzone.ie/pages/about-us/corporate-profile.php" target="_top"><div>Corporate Profile</div></a>    </li>
-    <li class="menu-1 menu-expand"><a href="http://www.payzone.ie/pages/about-us/careers.php" target="_top"><div>Careers</div></a>    </li>
-    <li class="menu-1"><a href="http://www.payzone.ie/pages/about-us/contact-us.php" target="_top"><div>Contact Us</div></a>    </li>
-    <li class="menu-1 menu-last"><a href="http://www.payzone.ie/pages/about-us/contact-us-form.php" target="_top"><div>Contact Us Form</div></a>    </li>
- </ul>
-
-</div>
-<!-- end subnav -->
-
-<div id="container">
-
-<div id="sections">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td valign="top">
-<h1>Privacy Policy</h1><p style="font-family: arial,helvetica,sans-serif;">Payzone plc (hereinafter referred to as "Payzone" "us" "we" or "our") is committed to respecting your privacy and to complying with applicable data protection and privacy laws. You can visit <a href="http://www.payzoneplc.com">www.payzoneplc.com</a> ("Site") without disclosing any personally identifiable information about yourself. <br>We have provided this Privacy Policy Statement to help you understand how we collect, use and protect your information when you visit the Site. We wish to help you make informed decisions, so please take a few moments to read the sections below and learn how we may use your personal information. </p><p style="font-family: arial,helvetica,sans-serif;">For the purposes of this Privacy Policy Statement "Payzone" means Payzone plc and any company or other entity within the group. </p><p style="font-family: arial,helvetica,sans-serif;">You should read this notice in conjunction with the Terms and Conditions of use for the Site. </p><p style="font-family: arial,helvetica,sans-serif;"><strong>Personal Information Collection</strong> </p><p style="font-family: arial,helvetica,sans-serif;">We endeavour to collect and use your personal information only with your knowledge and consent and typically when you use services, make customer enquiries, register for information or other services, or when you respond to communications from us (such as questionnaires or surveys). </p><p style="font-family: arial,helvetica,sans-serif;">The type of personal information we may collect could include, for example, your name and postal address, date of birth, gender, telephone and fax numbers, email address, and lifestyle and other information collected on registration or through surveys. If you choose to provide us with personal information it will be used in support of the intended purposes stated at the time at which it was collected, and subject to any preferences indicated to you. </p><p style="font-family: arial,helvetica,sans-serif;">You acknowledge that by providing data to us, you consent to the processing of your data in accordance with this Privacy Policy Statement. </p><p style="font-family: arial,helvetica,sans-serif;"><strong>Access to your Information</strong> </p><p style="font-family: arial,helvetica,sans-serif;">You can write to us at any time to obtain details of the personal information we may hold about you.* </p><p style="font-family: arial,helvetica,sans-serif;">The Data Protection Manager<br>Payzone plc <br>Payzone House<br>4 Heather Road<br>Sandyford Industrial Estate<br>Dublin 18<br>Republic of Ireland</p><p style="font-family: arial,helvetica,sans-serif;">Please quote your name and address. We would be grateful if you could also provide brief details of what information you want a copy (this helps us to more readily locate your data). </p><p style="font-family: arial,helvetica,sans-serif;">We will take all reasonable steps to confirm your identity before providing you with details of any personal information we may hold about you. <br>*we may charge Euro15.00 to cover the administration costs involved. <br><strong></strong></p><p style="font-family: arial,helvetica,sans-serif;"><strong>Information Security</strong></p><p style="font-family: arial,helvetica,sans-serif;">Please be aware that communications over the Internet, such as emails/webmails, are not secure unless they have been encrypted. Your communications may route through a number of countries before being delivered - this is the nature of the World Wide Web/Intranet. Payzone cannot accept responsibility for any unauthorised access or loss of personal information that is beyond our control. <br>Privacy Support<br>Payzone reserves the right to amend or modify this Privacy Policy Statement at any time and in response to changes in applicable data protection and privacy legislation. <br>If you have any enquiry about Payzone's data protection and privacy policy or practices, please write to:</p><p style="font-family: arial,helvetica,sans-serif;">The Data Protection Manager<br>Payzone plc <br>Payzone House<br>4 Heather Road<br>Sandyford Industrial Estate<br>Dublin 18<br>Republic of Ireland</p><p><br></p><p></p></td>
-    </tr>
-</tbody></table>
-
-</div><!-- end sections -->
-
-
-
-</div><!-- end container -->
-
-</div><!-- end main -->
-
-
-</div>
-
-<div class="clear"></div>
-
-<div id="footer">
-
-<p style="padding:15px 30px 0 0;" class="floatRight"><a href="/pages/about-us/careers.php">Careers</a>  |  <a href="/pages/sitemap.php">Site Map</a>  |  <a href="/pages/legal-disclaimer.php">Legal Disclaimer</a>  |  <a href="/pages/privacy-policy.php">Privacy Policy</a><br>
-<a href="http://www.netaffinity.com" target="_blank">Website Design &amp; Development</a> by Net Affinity</p>
-<p>Copyright © 2007 Payzone, 4 Heather Road, Sandyford Industrial Estate, Dublin 18, Ireland</p>
-
-<p class="tel">T:  +353 1 207 6000    F:  +353 1 2076039    E: <a href="mailto:info@payzone.ie" class="mail">info@payzone.ie</a></p>
-
-</div><!-- e footer -->
-
-
-</div><!-- end bkgd -->
-
-
-<script language="JavaScript">
-var urlD = getURLVar('d');
-
-if (urlD != '') {
-    hideallids();
-    showdiv(urlD);
-}
-</script>
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+  <div id="bottom">
+    <div class="wrapper">
+      <div id="headlines">
+        <div id="news">
+          <div id="title">Hot News Headlines</div>
+          <div id="scrollup">
+             
+                            <div class="headline" style="top: 3px;"><a href="http://www.payzone.ie/pages/posts/mace-has-teamed-up-with-concern-and-payzone-to-raise-funds-for-the-horn-of-africa-drought-emergency-33.php">MACE has teamed up with Concern and Payzone to raise funds for the Horn of Africa Drought emergency.</a></div> 
+                            <div class="headline"><a href="http://www.payzone.ie/pages/posts/payzone-incomm-bring-gifts-to-retailers-in-time-for-xmas-shoppers-32.php">Payzone &amp; InComm bring gifts to retailers in time for xmas shoppers</a></div> 
+                            <div class="headline"><a href="http://www.payzone.ie/pages/posts/payzone-to-sponsor-rgdata-economic-report-on-lsquothe-true-value-of-local-shopsrsquo-31.php">Payzone to Sponsor RGDATA Economic Report on ‘The True Value of Local Shops’</a></div> 
+                            <div class="headline"><a href="http://www.payzone.ie/pages/posts/postfone-links-up-with-payzone-to-provide-top-up-service-30.php">postfone links up with Payzone to provide top-up service</a></div> 
+                            <div class="headline"><a href="http://www.payzone.ie/pages/posts/payzone-to-provide-top-up-service-for-new-o2-money-card-29.php">Payzone To Provide Top-up Service For New O2 Money Card</a></div> 
+                       </div>
+        </div>
+        <div id="social">
+          <a href="/modules/na_news/rss.php?page_id=6"><img src="/templates/static_files/images/icon-rss.gif" alt="RSS"></a>
+		  <a href="http://www.facebook.com/pages/Payzone-Ireland/194325787244278" target="_blank"><img src="/templates/static_files/images/icon-blue.gif" alt="Facebook" border="0"></a></div>
+      </div>
+      <div id="footer">
+        <div class="left">
+          Copyright © 2011 Payzone, 4 Heather Road, Sandyford Industrial Estate, Dublin 18, Ireland.<br>
+			T: +353 1 207 6000 F: +353 1 2076039 E: <a href="mailto:info@payzone.ie">info@payzone.ie</a>
+        </div>
+        <div class="right">
+          <a href="/pages/about-us/careers.php">Careers</a> <!--| <a href="/pages/about-us/sitemap.php">Site Map</a>--> | <a href="/pages/about-us/legal-disclaimer.php">Legal Disclaimer</a> | <a href="/pages/about-us/privacy-policy.php">Privacy Policy</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  
 <script type="text/javascript">
-_uacct = "UA-3157883-1";
-_udn="payzone.ie";
-urchinTracker();
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3157883-1']);
+  _gaq.push(['_setDomainName', '.payzone.ie']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
-
-
+  
 
 
 </body></html>
