@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the dailycaller.com privacy policy that was archived on 2011-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110610143511id_/http%3A//dailycaller.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dailycaller.com privacy policy that was archived on 2011-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111120025801id_/http%3A//dailycaller.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://static.woopra.com/js/woopra.js" async=""></script><script type="text/javascript">
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 
 function createCookie(name,value,days) {
 	if (days) {
@@ -54,6 +54,24 @@ if (navigator.cookieEnabled) {
 			}
 		}
 	}
+	
+	if (readCookie('android_redirect2')) {
+		
+	} else {
+		if (navigator.userAgent.match(/Android/i)) {
+			if (readCookie('android_count')) {
+				createCookie('android_count', (parseInt(readCookie('android_count'))+1), 1000);
+			} else {
+				createCookie('android_count', 1, 1000);
+			}
+			
+			createCookie('android_redirect2', true, 14);
+			
+			if ((readCookie('android_count')) < 5) {
+				window.location = 'http://dailycaller.com/android/?desturl=http://dailycaller.com/footer/privacy-policy/';
+			}
+		}
+	}
 }
 
 </script>
@@ -63,21 +81,19 @@ if (navigator.cookieEnabled) {
 
 <title>Privacy Policy | The Daily Caller</title>
 
-<link rel="stylesheet" href="http://dc-cdn.virtacore.com/wp-content/themes/default/style731.css?v=7.31" type="text/css" media="screen">
+<link rel="stylesheet" href="http://dc-cdn.virtacore.com/wp-content/themes/default/style741.css?v=7.41" type="text/css" media="screen">
 <!--[if lt IE 8]>
-<link rel="stylesheet" href="http://dc-cdn.virtacore.com/wp-content/themes/default/style-ie7.css?v=7.31" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://dc-cdn.virtacore.com/wp-content/themes/default/style-ie7.css?v=7.41" type="text/css" media="screen" />
 <![endif]-->
 
 <link rel="alternate" type="application/rss+xml" title="The Daily Caller" href="http://feeds.dailycaller.com/dailycaller">
 <link rel="alternate" type="application/rss+xml" title="The Daily Caller - Politics" href="http://feeds.dailycaller.com/dailycaller-politics">
 <link rel="alternate" type="application/rss+xml" title="The Daily Caller - U.S." href="http://feeds.dailycaller.com/dailycaller-us">
 <link rel="alternate" type="application/rss+xml" title="The Daily Caller - Entertainment" href="http://feeds.dailycaller.com/dailycaller-entertainment">
-<link rel="alternate" type="application/rss+xml" title="The Daily Caller - Crime" href="http://feeds.dailycaller.com/dailycaller-crime">
 <link rel="alternate" type="application/rss+xml" title="The Daily Caller - World" href="http://feeds.dailycaller.com/dailycaller-world">
 <link rel="alternate" type="application/rss+xml" title="The Daily Caller - Sports" href="http://feeds.dailycaller.com/dailycaller-sports">
 <link rel="alternate" type="application/rss+xml" title="The Daily Caller - Business" href="http://feeds.dailycaller.com/dailycaller-business">
 <link rel="alternate" type="application/rss+xml" title="The Daily Caller - Tech" href="http://feeds.dailycaller.com/dailycaller-tech">
-<link rel="alternate" type="application/rss+xml" title="The Daily Caller - Life" href="http://feeds.dailycaller.com/dailycaller-life">
 <link rel="alternate" type="application/rss+xml" title="The Daily Caller - Video" href="http://feeds.dailycaller.com/dailycaller-video">
 <link rel="alternate" type="application/rss+xml" title="The Daily Caller - Opinion" href="http://feeds.dailycaller.com/dailycaller-opinion">
 <link rel="alternate" type="application/rss+xml" title="The Daily Caller - KausFiles" href="http://feeds.dailycaller.com/dailycaller-kausfiles">
@@ -93,28 +109,43 @@ if (navigator.cookieEnabled) {
 <link rel="alternate" type="application/rss+xml" title="The Daily Caller » Feed" href="http://dailycaller.com/feed/">
 <link rel="alternate" type="application/rss+xml" title="The Daily Caller » Comments Feed" href="http://dailycaller.com/comments/feed/">
 <link rel="alternate" type="application/rss+xml" title="The Daily Caller » Privacy Policy Comments Feed" href="http://dailycaller.com/footer/privacy-policy/feed/">
+<link rel="stylesheet" id="fancybox-css" href="http://dc-cdn.virtacore.com/wp-content/themes/default/js/fancybox/jquery.fancybox-1.3.4.css?ver=1.3.4" type="text/css" media="all">
 <link rel="stylesheet" id="wp-postratings-css" href="http://dc-cdn.virtacore.com/wp-content/plugins/wp-postratings/postratings-css.css?ver=1.50" type="text/css" media="all">
-<link rel="stylesheet" id="fancybox-css" href="http://dc-cdn.virtacore.com/wp-content/themes/default/js/fancybox/jquery.fancybox-1.3.4.css?ver=1.3.4" type="text/css" media="">
-<script type="text/javascript" src="http://dailycaller.com/wp-includes/js/swfobject.js?ver=2.1"></script>
+<script type="text/javascript" src="http://dailycaller.com/wp-includes/js/l10n.js?ver=20101110"></script>
+<script type="text/javascript" src="http://dailycaller.com/wp-includes/js/swfobject.js?ver=2.2"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js?ver=1.5.2"></script>
 <script type="text/javascript" src="http://dc-cdn.virtacore.com/wp-content/themes/default/js/fancybox/jquery.fancybox-1.3.4.pack.js?ver=1.3.4"></script>
+<script type="text/javascript" src="http://dc-cdn.virtacore.com/wp-content/themes/default/js/bxslider/jquery.bxSlider.min.js?ver=3.0"></script>
 <script type="text/javascript" src="http://apis.google.com/js/plusone.js?ver=1.0"></script>
+<script type="text/javascript" src="http://ox-d.dailycaller.com/w/1.0/jstag?ver=0.1"></script>
 <style type="text/css">img.nothumb{border:0;margin:0 0 0 2px !important;}</style>
-<link rel="shortlink" href="http://dailycaller.com/?p=5485">
-<!-- Tweet This v1.8.2 b036 mode alpha -->
+<!-- Tweet This v1.8.3 b037 mode alpha -->
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://dailycaller.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://dailycaller.com/wp-includes/wlwmanifest.xml"> 
-<link rel="index" title="The Daily Caller" href="http://dailycaller.com">
+<link rel="index" title="The Daily Caller" href="http://dailycaller.com/">
 <link rel="up" title="Footer" href="http://dailycaller.com/footer/">
-<meta name="generator" content="WordPress 2.9.2">
+<link rel="prev" title="Contact Us" href="http://dailycaller.com/footer/contact-us/">
+<link rel="next" title="Terms of Use" href="http://dailycaller.com/footer/terms-of-use/">
+<meta name="generator" content="WordPress 3.2.1">
+<link rel="shortlink" href="http://dailycaller.com/?p=5485">
 
-<!-- All in One SEO Pack 1.6.13.2 by Michael Torbert of Semper Fi Web Design[1583,1630] -->
+<!-- All in One SEO Pack 1.6.13.3 by Michael Torbert of Semper Fi Web Design[2091,2138] -->
 <meta name="description" content="THE DAILY CALLER PRIVACY POLICY The Daily Caller (THE DC or we) is the owner and operator of DailyCaller.com {the Website), a comprehensive news website">
 <link rel="canonical" href="http://dailycaller.com/footer/privacy-policy/">
 <!-- /all in one seo pack -->
 <script type="text/javascript" src="http://dc-cdn.virtacore.com/wp-content/plugins/audio-player/assets/audio-player.js?ver=2.0.4.1"></script>
 <script type="text/javascript">AudioPlayer.setup("http://dc-cdn.virtacore.com/wp-content/plugins/audio-player/assets/player.swf?ver=2.0.4.1", {width:"290",animation:"yes",encode:"yes",initialvolume:"60",remaining:"no",noinfo:"no",buffer:"5",checkpolicy:"no",rtl:"no",bg:"E5E5E5",text:"333333",leftbg:"eeeeee",lefticon:"333333",volslider:"5d5e5e",voltrack:"ffffff",rightbg:"B4B4B4",rightbghover:"999999",righticon:"333333",righticonhover:"FFFFFF",track:"FFFFFF",loader:"009900",border:"CCCCCC",tracker:"cd2b2b",skip:"666666",pagebg:"FFFFFF",transparentpagebg:"yes"});</script>
+	<script type="text/javascript">
 	
+	jQuery(document).ready(function(){
+		jQuery('#more-slider').bxSlider({
+			prevText: '&laquo; Previous',
+			nextText: 'Next &raquo;'   
+		});
+	});
+
+	</script>
+		
 	<!-- Start Facebook Opengraph -->
 	
 	<meta property="fb:app_id" content="143489452702">
@@ -193,86 +224,16 @@ function doPics(dir, max){
 </script>
 
 
-
-
-
-
-
-<!------ OAS SETUP begin ------>
-
-<script type="text/javascript" src="http://oascentral.dailycaller.com/Scripts/oas_analytics.js"></script>
-
-<script type="text/javascript">
-<!--
-    //configuration
-    var OAS_url = 'http://oascentral.dailycaller.com/RealMedia/ads/';
-    var OAS_sitepage = 'dailycaller/category/articles';
-	
-	
-	
-	    
-		var OAS_listpos = 'Top,Right1,Right2,Right3,Bottom';
-        
-        
-    
-    
-    	var OAS_query = '';
-    var OAS_taxonomy='';
-		
-    var OAS_target = '_blank';
-    //end of configuration
-    
-    var OAS_version = 10;
-
-    var OAS_rn = new String(Math.random());
-    var OAS_rns = OAS_rn.substring(2, 11);
-
-    function OAS_NORMAL(pos) {
-        document.write('<a href="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" target="' + OAS_target + '">');
-        document.write('<img src="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + '" border="0" />');
-        document.write('</a>');
-    }
-//-->
-</script>
-
-<script type="text/javascript">
-<!--
-    OAS_version = 11;
-    if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.indexOf('Mozilla/4.0 webTV') != -1)) {
-        OAS_version = 10;
-    }
-    if (OAS_version >= 11) {
-    document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
-    }
-//-->
-</script><script language="JavaScript1.1" src="http://oascentral.dailycaller.com/RealMedia/ads/adstream_mjx.ads/dailycaller/category/articles/1996097609@Top,Right1,Right2,Right3,Bottom?"></script>
-
-<script type="text/javascript">
-<!--
-    document.write('');
-    function OAS_AD(pos) {
-        if (OAS_version >= 11) {
-            OAS_RICH(pos);
-        }
-        else {
-            OAS_NORMAL(pos);
-        }
-    }
-
-//-->
-</script>
-
-
-
-
-
-<!------ OAS SETUP end ------>
-
-<script src="https://c.compete.com/bootstrap/f79605b5076c6cb89c3ab20a16faf54a/bootstrap.js" type="text/javascript" async=""></script></head>
+<script async="" type="text/javascript" src="http://disqus.com/forums/thedailycaller/count.js"></script><script src="https://c.compete.com/bootstrap/f79605b5076c6cb89c3ab20a16faf54a/bootstrap.js" type="text/javascript" async=""></script></head>
 
 <body>
 
-
+	<div id="fb-root"></div>
+	<script src="http://connect.facebook.net/en_US/all.js"></script>
+	<script>
+	FB.init({ appId:'143489452702', channelUrl: 'http://dailycaller.com/channel.html', cookie:true, status:true, xfbml:true });
+	</script>
+	
   <!--[if lt IE 7]>
   <div style='border: 1px solid #F7941D; background: #FEEFDA; text-align: center; clear: both; height: 75px; position: relative;'>
     <div style='position: absolute; right: 3px; top: 3px; font-family: courier new; font-weight: bold;'><a href='#' onclick='javascript:this.parentNode.parentNode.style.display="none"; return false;'><img src='http://www.ie6nomore.com/files/theme/ie6nomore-cornerx.jpg' style='border: none;' alt='Close this notice'/></a></div>
@@ -292,16 +253,7 @@ function doPics(dir, max){
 
 
 <div id="leaderboard-ad" style="width:900px;">
-		
-	<!------ OAS AD 'Top1' begin ------>
-	<script type="text/javascript">
-	<!--
-			OAS_AD('Top');
-		//-->
-	</script>
-	<!------ OAS AD 'Top1' end ------>
-	
-</div>
+<!-- OPENX_LOC[_default:Top] --><script type="text/javascript">OX.requestAd({"auid":"92720"});</script></div>
 
 
 
@@ -320,10 +272,10 @@ function doPics(dir, max){
 								
 				<div class="search alignright">
 					
-					<form id="searchform" action="http://dailycaller.com/" method="get" role="search">
+					<form id="searchform" action="http://topics.dailycaller.com/search" method="get" role="search">
 					<table border="0" cellpadding="0" cellspacing="0">
 						<tbody><tr>
-							<td valign="bottom"><input id="s" type="text" name="s" value="Search" class="header-field" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}"></td>
+							<td valign="bottom"><input id="q" type="text" name="q" value="Search" class="header-field" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}"></td>
 							<td><input id="searchsubmit" type="image" src="http://dc-cdn.virtacore.com/wp-content/themes/default/images/search-btn.gif" value="Search"></td>
 						</tr>
 					</tbody></table>
@@ -338,15 +290,9 @@ function doPics(dir, max){
 							<a href="http://dailycaller.com/wp-login.php">Log In</a> | <a href="http://dailycaller.com/wp-login.php?action=register">Register</a>
 						</div>
 						
-																		
-						<div id="facebook-login" style="display:none;">
-						<fb:login-button size="small" v="2" background="white" length="short">Connect</fb:login-button>
-						</div>
-						
-						<div id="twitter"><a href="http://www.twitter.com/dailycaller"><img src="http://dc-cdn.virtacore.com/wp-content/themes/default/images/twitter.gif" alt="Follow Daily Caller on Twitter" border="0"></a></div>
-						
 						<div id="logged-in"></div>
 						
+						<div id="twitter"><a href="http://www.twitter.com/dailycaller"><img src="http://dc-cdn.virtacore.com/wp-content/themes/default/images/twitter.gif" alt="Follow Daily Caller on Twitter" border="0"></a></div>
 						
 				</div>
 				
@@ -360,74 +306,63 @@ function doPics(dir, max){
 				
 			<div id="nav">
 				<ul>
-				<li class="static" style="border-left:0;"><a href="http://dailycaller.com" title="Home" style="width:53px;">HOME</a></li>					
+				<li class="static" style="border-left:0;"><a href="http://dailycaller.com" title="Home" style="width:51px;">HOME</a></li>					
 					<li class="static">
-						<a href="http://dailycaller.com/section/politics/" title="Politics" style="width:68px;">POLITICS</a>
+						<a href="http://dailycaller.com/section/politics/" title="Politics" style="width:76px;">POLITICS</a>
 					</li>
 				
 		
 									
 					<li class="static">
-						<a href="http://dailycaller.com/section/us/" title="US" style="width:29px;">US</a>
+						<a href="http://dailycaller.com/section/us/" title="US" style="width:40px;">US</a>
 					</li>
 				
 		
 									
 					<li class="static">
-						<a href="http://dailycaller.com/section/entertainment/" title="Entertainment" style="width:107px;">ENTERTAINMENT</a>
+						<a href="http://dailycaller.com/section/entertainment/" title="Entertainment" style="width:116px;">ENTERTAINMENT</a>
 					</li>
 				
 		
 									
 					<li class="static">
-						<a href="http://dailycaller.com/section/crime/" title="Crime" style="width:56px;">CRIME</a>
+						<a href="http://dailycaller.com/section/world/" title="World" style="width:70px;">WORLD</a>
 					</li>
 				
 		
 									
 					<li class="static">
-						<a href="http://dailycaller.com/section/world/" title="World" style="width:59px;">WORLD</a>
+						<a href="http://dailycaller.com/section/sports/" title="Sports" style="width:74px;">SPORTS</a>
 					</li>
 				
 		
 									
 					<li class="static">
-						<a href="http://dailycaller.com/section/sports/" title="Sports" style="width:65px;">SPORTS</a>
+						<a href="http://dailycaller.com/section/business/" title="Business" style="width:82px;">BUSINESS</a>
 					</li>
 				
 		
 									
 					<li class="static">
-						<a href="http://dailycaller.com/section/business/" title="Business" style="width:74px;">BUSINESS</a>
+						<a href="http://dailycaller.com/section/tech/" title="Tech" style="width:62px;">TECH</a>
 					</li>
 				
 		
 									
 					<li class="static">
-						<a href="http://dailycaller.com/section/tech/" title="Tech" style="width:50px;">TECH</a>
+						<a href="http://dailycaller.com/section/video/" title="Video" style="width:64px;">VIDEO</a>
 					</li>
 				
 		
 									
 					<li class="static">
-						<a href="http://dailycaller.com/section/life/" title="Life" style="width:45px;">LIFE</a>
+						<a href="http://dailycaller.com/section/opinion/" title="Opinion" style="width:72px;">OPINION</a>
 					</li>
 				
 		
-									
-					<li class="static">
-						<a href="http://dailycaller.com/section/video/" title="Video" style="width:56px;">VIDEO</a>
-					</li>
 				
-		
-									
-					<li class="static">
-						<a href="http://dailycaller.com/section/opinion/" title="Opinion" style="width:65px;">OPINION</a>
-					</li>
 				
-		
-								
-				<li class="static dctrawler"><a href="http://dailycaller.com/blogs/" style="width:64px;">BLOGS</a>
+				<li class="static dctrawler"><a href="http://dailycaller.com/blogs/" style="width:62px;">BLOGS</a>
 					<ul class="sub-menu">
 						<li style="border-top: 1px solid #ccc;"><a href="http://dailycaller.com/kausfiles/">KausFiles</a></li>
 						<li><a href="http://dailycaller.com/mattlewis/">Matt Lewis</a></li>
@@ -436,8 +371,9 @@ function doPics(dir, max){
 						<li><a href="http://dailycaller.com/author/mlabash/">Ask Matt Labash</a></li>
 					</ul>
 				</li>
-				<li class="static store" style="border-right:0;"><a href="https://store.dailycaller.com" style="width:62px;">STORE</a></li>
-				<li class="static tips" style="border-right:0; border-left:1px solid #999;"><a href="http://dailycaller.com/contact-form/?type=sendtip" class="popup_box_sendtips" title="Send A Tip" style="width:78px;">SEND TIPS</a></li>
+				<li class="static store" style="border-right:0;"><a href="http://jobs.dailycaller.com" style="width:65px;">JOBS</a></li>
+				
+				<li class="static tips" style="border-right:0; border-left:1px solid #999;"><a href="http://dailycaller.com/contact-form/?type=sendtip" class="popup_box_sendtips" title="Send A Tip" style="width:101px;">SEND TIPS</a></li>
 			</ul>
 			
 			<div class="break"></div>
@@ -445,12 +381,12 @@ function doPics(dir, max){
 		
 				
 		<div id="header-bottom">
-		
+								<div class="sub-nav clearingfix">
 						
 						
-						
-			<div class="date">
-				June 10, 2011			</div>
+							<div class="date">
+				November 19, 2011			</div>
+			</div>
 			
 			<div class="break"></div>
 		</div>
@@ -461,24 +397,24 @@ function doPics(dir, max){
 	<div id="content" class="narrowcolumn" role="main">
 
 				<div class="post" id="post-5485">
-		<h2>Privacy Policy</h2>
-			<div class="entry">
+		<h2>Privacy Policy</h2>			<div class="entry">
 				<a href="http://dailycaller.com/footer/privacy-policy/printpage/" title="Print This Page" rel="nofollow"><img class="WP-PrintIcon" src="http://dc-cdn.virtacore.com/wp-content/plugins/wp-print/images/print2.gif" alt="Print This Page" title="Print This Page" style="border: 0px;"></a>
 <p>THE DAILY CALLER PRIVACY POLICY</p>
 <p>The Daily Caller (THE DC or we) is the owner and operator of DailyCaller.com {the Website), a comprehensive news website providing original reporting, updated links to the latest news, analysis of current events, satire, research on current policy issues, columns from thought leaders, and Congressional Member reviews.</p>
-<p>This Privacy Policy (Policy) is about the information that THE DC collects, uses, and stores in operating the Website and making content available to you.  This Policy applies to information that is collected on or through DailyCaller.com, as well as information that we collect offline.</p>
-<p>DailyCaller.com is operated entirely within the United States.  If you are located outside of the United States, please note that any information – including personal data – you provide to us will be transferred to and processed in the United States.  You hereby consent to these transfers.</p>
+<p>This Privacy Policy (Policy) is about the information that THE DC collects, uses, and stores in operating the Website and making content available to you. This Policy applies to information that is collected on or through DailyCaller.com, as well as information that we collect offline.</p>
+<p>DailyCaller.com is operated entirely within the United States. If you are located outside of the United States, please note that any information – including personal data – you provide to us will be transferred to and processed in the United States. You hereby consent to these transfers.</p>
 <p>This Policy is incorporated by reference into our <a href="http://dailycaller.com/terms-of-use/">Terms of Use Agreement</a>.</p>
-<p><strong>I.     WHAT TYPES OF INFORMATION DO WE COLLECT?</strong></p>
-<p><strong>A.     Non-Personally Identifiable Information Collected When Using Our Services</strong></p>
+<p><strong>I. WHAT TYPES OF INFORMATION DO WE COLLECT?</strong></p>
+<p><strong>A. Non-Personally Identifiable Information Collected When Using Our Services</strong></p>
 <p>THE DC collects non-personally identifiable information automatically through the use of electronic tools such as web beacons, “cookies”, and clickstream data that are deployed on the Website.</p>
+<p>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:</p>
 <ul>
-<li><strong>Web Beacons</strong> – A web beacon is a type of picture file used on the Internet.  Web beacons are used in     combination with cookies to help monitor traffic at DailyCaller.com and understand     the ways in which users interact with content on the website.</li>
-<li><strong>Cookies</strong> – Cookies help provide a customized Web experience by enabling us to identify web users, but not specific individuals, who visit our website.  You may choose not to provide such information by adjusting your Internet browser security settings to refuse cookies.  Refusing cookies, however, may limit your ability to access certain pages and feature available on the website.</li>
-<li><strong>Clickstream Data</strong> – In addition, THE DC may use third-party software to analyze the Web pages that your computer visits while visiting the website.  This information, called “clickstream data,” is     associated with your computer’s Internet protocol (IP) address and includes other     information such as the type of browser your computer uses to access the Internet. We collect clickstream data to optimize search engine results and may also use     clickstream data to analyze which portions of our website draw the most traffic so we can     improve performance of our websites.  This clickstream data may be shared with third     party advertisers and marketing companies.</li>
+<li><strong>Web Beacons</strong> – A web beacon is a type of picture file used on the Internet. Web beacons are used in combination with cookies to help monitor traffic at DailyCaller.com and understand the ways in which users interact with content on the website.</li>
+<li><strong>Cookies</strong> – Cookies help provide a customized Web experience by enabling us to identify web users, but not specific individuals, who visit our website. You may choose not to provide such information by adjusting your Internet browser security settings to refuse cookies. Refusing cookies, however, may limit your ability to access certain pages and feature available on the website.</li>
+<li><strong>Clickstream Data</strong> – In addition, THE DC may use third-party software to analyze the Web pages that your computer visits while visiting the website. This information, called “clickstream data,” is associated with your computer’s Internet protocol (IP) address and includes other information such as the type of browser your computer uses to access the Internet. We collect clickstream data to optimize search engine results and may also use clickstream data to analyze which portions of our website draw the most traffic so we can improve performance of our websites. This clickstream data may be shared with third party advertisers and marketing companies.</li>
 <li><strong>IP Addresses</strong> – Although THE DC usually does not use IP addresses as a means to identify specific individuals, we may use IP addresses to help identify you or the computer you are using when we feel it is necessary to enforce compliance with our Terms of Use, this Privacy Policy, other THE DC policies, or to protect our services, website, systems, information, employees, business partners, providers, users, customers or others.</li>
 </ul>
-<p><strong>B.     Personally Identifiable Information Collected When Using our Services</strong></p>
+<p><strong>B. Personally Identifiable Information Collected When Using our Services</strong></p>
 <p>THE DC may collect certain types of personally identifiable information — that is, information that can identify an individual — including but not limited to:</p>
 <ul>
 <li>name;</li>
@@ -500,7 +436,7 @@ register on DailyCaller.com;</li>
 <li>share personal information when you provide tips, comments or questions to our news department; or</li>
 <li>provide it to us when contacting us about this Privacy Policy.</li>
 </ul>
-<p><strong>II.    HOW DO WE USE YOUR PERSONALLY IDENTIFIABLE INFORMATION?</strong></p>
+<p><strong>II. HOW DO WE USE YOUR PERSONALLY IDENTIFIABLE INFORMATION?</strong></p>
 <p>We use your personally identifiable information for various reasons, including:</p>
 <ul>
 <li>to deliver content that you have requested from the website;</li>
@@ -509,7 +445,7 @@ register on DailyCaller.com;</li>
 <li><strong></strong>we may from time to time send you special offers and advertisements for products or services offered by third parties. We will not disclose any of your personal information to such third parties when we do this; and</li>
 <li>in response to inquiries that you initiate with us about any aspect of the website.</li>
 </ul>
-<p><strong>III.     WITH WHOM DO WE SHARE THE INFORMATION WE COLLECT?</strong></p>
+<p><strong>III. WITH WHOM DO WE SHARE THE INFORMATION WE COLLECT?</strong></p>
 <p>THE DC may share personally identifiable information with others, such as:</p>
 <ul>
 <li>third-party service providers who provide technical support for the operation of the website;</li>
@@ -522,27 +458,28 @@ register on DailyCaller.com;</li>
 </ul>
 </li>
 <li>another business, in the course of a sale to or merger with such business; or</li>
-<li> a court, another business, or other interested party in the event of a bankruptcy proceeding, in which case the information about you would be among the many assets shared or transferred.</li>
+<li>a court, another business, or other interested party in the event of a bankruptcy proceeding, in which case the information about you would be among the many assets shared or transferred.</li>
 <li>Third-party merchants with from whom you choose to make a purchase through the Website</li>
 </ul>
-<p><strong>IV.    HOW CAN YOU MAKE CHOICES ABOUT THE INFORMATION WE     COLLECT ABOUT YOU?</strong></p>
+<p><strong>IV. HOW CAN YOU MAKE CHOICES ABOUT THE INFORMATION WE COLLECT ABOUT YOU?</strong></p>
 <p>You can always choose not to submit any personally identifiable information to THE DC.</p>
-<p>If you do not wish to receive communications from THE DC, you can unsubscribe to our e-mails.   will include an opt-out link or reply address in each such e-mail.  After unsubscribing, you will be removed from our database.  Please allow us up to 10 business days to process your request.  After unsubscribing, you may still receive messages about the status of your account, to resolve technical issues, or to confirm a new registration with us.</p>
+<p>If you do not wish to receive communications from THE DC, you can unsubscribe to our e-mails. will include an opt-out link or reply address in each such e-mail. After unsubscribing, you will be removed from our database. Please allow us up to 10 business days to process your request. After unsubscribing, you may still receive messages about the status of your account, to resolve technical issues, or to confirm a new registration with us.</p>
 <p>If you wish to make changes to any personally identifiable information that you have provided us, or if you have any questions about what we do with your personally identifiable information, please send an e-mail to privacy@dailycaller.com.</p>
-<p><strong>V.    LINKS TO OTHER (THIRD PARTY) WEBSITES</strong></p>
-<p>THE DC may provide links to content or advertisements created, offered, sponsored, or available at third party websites.  Your interactions with these third party websites are not governed by this Privacy Policy, but rather the privacy policies posted on those linked websites.  THE DC is not responsible for your access to and use of these websites or any information you may share with them.</p>
-<p><strong>VI.    HOW DO WE SECURE YOUR PERSONALLY IDENTIFIABLE     INFORMATION?</strong></p>
-<p>To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of the personally identifiable information we collect, we have implemented physical, electronic, and administrative procedures.  These measures are based on commercially reasonable standards that similar companies use.</p>
+<p>If you would like to opt-out of having non-personally identifiable information collected during your visits to this or other sites, click <a target="_blank" href="http://www.aboutads.info/choices/">here</a>.</p>
+<p><strong>V. LINKS TO OTHER (THIRD PARTY) WEBSITES</strong></p>
+<p>THE DC may provide links to content or advertisements created, offered, sponsored, or available at third party websites. Your interactions with these third party websites are not governed by this Privacy Policy, but rather the privacy policies posted on those linked websites. THE DC is not responsible for your access to and use of these websites or any information you may share with them.</p>
+<p><strong>VI. HOW DO WE SECURE YOUR PERSONALLY IDENTIFIABLE INFORMATION?</strong></p>
+<p>To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of the personally identifiable information we collect, we have implemented physical, electronic, and administrative procedures. These measures are based on commercially reasonable standards that similar companies use.</p>
 <p><strong>NO DATA TRANSMITTED OVER THE INTERNET, HOWEVER, CAN BE GUARANTEED TO BE 100% SECURE AT ALL TIMES.</strong> Although we have implemented security measures to protect your personal information, we cannot guarantee the security of such information.</p>
-<p><strong>VII.     CHILDREN</strong></p>
-<p>This website is not directed to children.  THE DC does not knowingly collect or solicit personally identifiable information from or about children under 13, except as permitted by law.  If we discover that we have received any personally identifiable information from a child under 13, we will delete such information from our servers and records promptly.</p>
-<p><strong>VIII.     CHANGES TO THIS PRIVACY POLICY</strong></p>
-<p>THE DC reserves the right to change this Privacy Policy at any time.  Please check this page periodically for changes.  We will post a notice on this website if and when this policy changes to alert visitors that a new policy is in place.</p>
+<p><strong>VII. CHILDREN</strong></p>
+<p>This website is not directed to children. THE DC does not knowingly collect or solicit personally identifiable information from or about children under 13, except as permitted by law. If we discover that we have received any personally identifiable information from a child under 13, we will delete such information from our servers and records promptly.</p>
+<p><strong>VIII. CHANGES TO THIS PRIVACY POLICY</strong></p>
+<p>THE DC reserves the right to change this Privacy Policy at any time. Please check this page periodically for changes. We will post a notice on this website if and when this policy changes to alert visitors that a new policy is in place.</p>
 <p>Any <strong>material</strong> – that is, really important – changes to the way we use or disclose personally identifiable information will only apply on a going-forward basis, unless we have your express consent to change the way we use or disclose the personally identifiable information we collected when the earlier version of this Privacy Policy was in effect.</p>
-<p><strong>IX.     GOVERNING LAW</strong></p>
+<p><strong>IX. GOVERNING LAW</strong></p>
 <p>This Privacy Policy shall be governed by and construed in accordance with the laws of Delaware without giving effect to any principles of conflicts of law.</p>
-<p>You agree that any action at law or in equity arising out of or relating to this Privacy Policy shall be filed only in the state or federal courts in Delaware, and you hereby consent and submit exclusively to the personal jurisdiction of such courts for the purposes of litigating any such action.  Either THE DC or you may demand that any dispute or claim between THE DC and you must be settled by arbitration utilizing the dispute resolution procedures of the American Arbitration Association (“AAA”) in Delaware.  Both parties hereby acknowledge and agree to submit exclusively to the jurisdiction of the AAA in Delaware to resolve the applicable dispute or claim if arbitration is demanded.  An arbitration demand, however, shall not prevent either party from seeking injunctive relief in a court of competent jurisdiction.</p>
-<p><strong>X.    HOW TO CONTACT US</strong></p>
+<p>You agree that any action at law or in equity arising out of or relating to this Privacy Policy shall be filed only in the state or federal courts in Delaware, and you hereby consent and submit exclusively to the personal jurisdiction of such courts for the purposes of litigating any such action. Either THE DC or you may demand that any dispute or claim between THE DC and you must be settled by arbitration utilizing the dispute resolution procedures of the American Arbitration Association (“AAA”) in Delaware. Both parties hereby acknowledge and agree to submit exclusively to the jurisdiction of the AAA in Delaware to resolve the applicable dispute or claim if arbitration is demanded. An arbitration demand, however, shall not prevent either party from seeking injunctive relief in a court of competent jurisdiction.</p>
+<p><strong>X. HOW TO CONTACT US</strong></p>
 <p>Questions and comments regarding this Privacy Policy should be directed to <a href="mailto:privacy@dailycaller.com">privacy@dailycaller.com</a>.</p>
 <p>Copyright (c) 2009, The Daily Caller, Inc.</p>
 
@@ -553,166 +490,237 @@ register on DailyCaller.com;</li>
 
 	<div id="sidebar">
 
-				<div class="ad">
-				<!------ OAS AD 'Right1' begin ------>
-		<script type="text/javascript">
-		<!--
-			OAS_AD('Right1');
-		//-->
-		</script>
-		<!------ OAS AD 'Right1' end ------>
-		</div>
-		
+		<div class="ad"><!-- OPENX_LOC[_default:Right1] --><script type="text/javascript">OX.requestAd({"auid":"92721"});</script></div>
 
-		<div class="box">		
-		<a href="http://dailycaller.com/section/thedc-morning/"><img border="none" src="http://dc-cdn.virtacore.com/wp-content/themes/default/images/signup-header.gif"></a>
-		
-		<div class="subscribe_form">
-			<form action="http://madmimi.com/signups/subscribe/8710" method="post">
-				<div class="subscribe_input">
-					<input name="signup[email]" type="text" class="textarea" value="Email Address" onfocus="if (this.value == 'Email Address') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Email Address';}">
-				</div>
-				<div class="subscribe_bottom_left">
-					<input name="lists[]" value="72904" type="checkbox" checked="checked"> TheDC Links &nbsp; 
-					<input name="lists[]" value="48763" type="checkbox" checked="checked"> TheDC Morning
-				</div>
-				<div class="subscribe_bottom_right">
-					<input name="commit" class="button" type="submit" value="">
-				</div>
-				<div class="break"></div>
-			</form>
-		</div>
-		
-				</div>
+		<div class="box">			
+			<a href="http://dailycaller.com/section/thedc-morning/"><img border="none" src="http://dc-cdn.virtacore.com/wp-content/themes/default/images/signup-header.gif"></a>
+			
+			<div class="subscribe_form">
+				<form action="http://madmimi.com/signups/subscribe/8710" method="post">
+					<div class="subscribe_input">
+						<input name="signup[email]" type="text" class="textarea" value="Email Address" onfocus="if (this.value == 'Email Address') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Email Address';}">
+					</div>
+					<div class="subscribe_bottom_left">
+						<input name="lists[]" value="72904" type="checkbox" checked="checked"> TheDC Links &nbsp; 
+						<input name="lists[]" value="48763" type="checkbox" checked="checked"> TheDC Morning
+					</div>
+					<div class="subscribe_bottom_right">
+						<input name="commit" class="button" type="submit" value="">
+					</div>
+					<div class="break"></div>
+				</form>
+			</div>
+			
+					</div>
 
 		<div class="box">
 		<h2>Video</h2>
-			<div class="textwidget"><iframe src="http://widget.newsinc.com/_fw/dailycaller/toppicks_dailycallerarticle_oth.html" height="225" width="300" frameborder="0" scrolling="no"></iframe></div>
-				</div>		<div class="ad">
-				<!------ OAS AD 'Right2' begin ------>
-		<script type="text/javascript">
-		<!--
-			OAS_AD('Right2');
-		//-->
-		</script>
-		<!------ OAS AD 'Right2' end ------>
-		</div>
-		
+			<div class="textwidget"><div class="textwidget" id="ndn_sliding_launcher">
+               <script type="text/javascript" src="http://embed.newsinc.com/TopPicks/embed.js?&amp;wid=2333&amp;cid=507&amp;freewheel=90046&amp;sitesection=dailycaller_top_non_sty&amp;parent=ndn_sliding_launcher&amp;frameborder=0&amp;scrolling=no&amp;width=298&amp;height=250">
+               </script>
+</div>
+<iframe src="http://widget.newsinc.com/_fw/dailycaller/thumb_dailycaller_top.html" frameborder="0" scrolling="no" width="298" height="135"></iframe></div>
+				</div><div class="ad"><!-- OPENX_LOC[_default:Right2] --><script type="text/javascript">OX.requestAd({"auid":"92730"});</script></div>
 
 		<div class="box headline-box">
 		<h2>Most Popular</h2>
-		
+			
+			<div id="widget-popular">
 				
-		
-		<!-- LIVE START -->
-		
-				
-		
-		<div id="widget-popular-0">
-			<div id="widget-most-viewed-all" class="popular-box">
-				<div class="widget-most-viewed-buttons">
-					<div class="widget-most-viewed-button-left widget-most-viewed-button-hilite">Most Popular</div>
-					<div class="widget-most-viewed-button-right"><a href="Javascript:doToggle('widget-most-viewed-all', 'none');doToggle('widget-most-emailed-all', '');">Most Emailed</a></div>
-					<div class="break"></div>
-				</div>
-									<div class="category-headline">
-						<div class="pic">
-		<a href="http://dailycaller.com/has-chris-matthews-lost-his-mind"><img src="http://dc-cdn.virtacore.com/2010/11/Chris-Matthews-180x160.jpg" alt="" width="50"></a>		<div class="break"></div>
+				<div id="widget-most-popular" class="popular-box">
+					<div class="widget-most-viewed-buttons">
+						<div class="widget-most-viewed-button-left widget-most-viewed-button-hilite">Most Popular</div>
+						<div class="widget-most-viewed-button-right"><a href="Javascript:doToggle('widget-most-popular', 'none');doToggle('widget-most-emailed', '');">Most Emailed</a></div>
+						<div class="break"></div>
+					</div>
+					
+															<div class="category-headline">
+												<div class="pic">
+		<a href="http://dailycaller.com/2011/11/17/early-video-of-obama-surfaces-from-harvard-law-school-era/"><img src="http://dc-cdn.virtacore.com/2011/11/barack-obama-e1321637968323.jpg" alt="" width="50"></a>		<div class="break"></div>
 	</div>
-						<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/has-chris-matthews-lost-his-mind">Has Chris Matthews lost his mind?</a></div><div class="break"></div></div>
-										<div class="category-headline">
-						<div class="pic">
-		<a href="http://dailycaller.com/msnbcs-harris-perry-weinergate-politics-unfair-compares-to-bristol-palin-out-of-wedlock-birth"><img src="http://dc-cdn.virtacore.com/2011/06/HarrisPerry69-e1307633517751-180x145.png" alt="" width="50"></a>		<div class="break"></div>
+												<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/2011/11/17/early-video-of-obama-surfaces-from-harvard-law-school-era/">
+											Early Video of Obama Surfaces</a></div>
+											<div class="break"></div>
+										</div>
+																				<div class="category-headline">
+												<div class="pic">
+		<a href="http://dailycaller.com/2011/11/18/chris-matthews-spanked-by-kabc-radios-larry-elder/"><img src="http://dc-cdn.virtacore.com/2011/11/MatthewsElder-e1321631358818-180x160.png" alt="" width="50"></a>		<div class="break"></div>
 	</div>
-						<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/msnbcs-harris-perry-weinergate-politics-unfair-compares-to-bristol-palin-out-of-wedlock-birth">Harris-Perry compares Weinergate to Bristol Palin's out-of-wedlock pregnancy </a></div><div class="break"></div></div>
-										<div class="category-headline">
-						<div class="pic">
-		<a href="http://dailycaller.com/as-staffers-resign-gingrich-has-nothing-to-say"><img src="http://dc-cdn.virtacore.com/2011/06/f992d54000db46dbb91ef3fab78812ac-150x150.jpg" alt="" width="50"></a>		<div class="break"></div>
+												<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/2011/11/18/chris-matthews-spanked-by-kabc-radios-larry-elder/">
+											Chris Matthews spanked by KABC radio's Larry Elder</a></div>
+											<div class="break"></div>
+										</div>
+																				<div class="category-headline">
+												<div class="pic">
+		<a href="http://dailycaller.com/2011/11/19/david-brooks-we-are-going-to-be-greece/"><img src="http://dc-cdn.virtacore.com/2011/10/7a2993d3052040808a7890922f1684e0-e1321737381597-180x160.jpg" alt="" width="50"></a>		<div class="break"></div>
 	</div>
-						<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/as-staffers-resign-gingrich-has-nothing-to-say">Gingrich far from cruising toward nomination as top crew jumps ship</a></div><div class="break"></div></div>
-										<div class="category-headline">
-						<div class="pic">
-		<a href="http://dailycaller.com/federal-data-shows-troubling-unemployment-underemployment-trends"><img src="http://dc-cdn.virtacore.com/2011/05/88254e157a724103805ba522ee8b726c-150x150.jpg" alt="" width="50"></a>		<div class="break"></div>
+												<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/2011/11/19/david-brooks-we-are-going-to-be-greece/">
+											Greecing The Way</a></div>
+											<div class="break"></div>
+										</div>
+																				<div class="category-headline">
+												<div class="pic">
+		<a href="http://dailycaller.com/2011/11/17/patriotic-millionaires-demand-higher-taxes-but-unwilling-to-pay-up-video/"><img src="http://dc-cdn.virtacore.com/2011/11/patriotic-millionaires1-180x160.jpg" alt="" width="50"></a>		<div class="break"></div>
 	</div>
-						<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/federal-data-shows-troubling-unemployment-underemployment-trends">50 Percent Unemployment?</a></div><div class="break"></div></div>
-										<div class="category-headline">
-						<div class="pic">
-		<a href="http://dailycaller.com/sources-rick-perry-is-running"><img src="http://dc-cdn.virtacore.com/2011/06/Rick-Perry2-e1307626395622-180x160.jpg" alt="" width="50"></a>		<div class="break"></div>
+												<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/2011/11/17/patriotic-millionaires-demand-higher-taxes-but-unwilling-to-pay-up-video/">
+											'Patriotic millionaires' demand higher taxes, but unwilling to pay up [VIDEO]</a></div>
+											<div class="break"></div>
+										</div>
+																				<div class="category-headline">
+												<div class="pic">
+		<a href="http://dailycaller.com/2011/11/18/occupy-wall-street-takes-over-nyc-video/"><img src="http://dc-cdn.virtacore.com/2011/11/Picture-21-180x160.jpg" alt="" width="50"></a>		<div class="break"></div>
 	</div>
-						<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/sources-rick-perry-is-running">Sources: Rick Perry is running</a></div><div class="break"></div></div>
-										<div class="category-headline">
-						<div class="pic">
-		<a href="http://dailycaller.com/freedomworks-tea-party-may-stay-home-if-romney-nominated"><img src="http://dc-cdn.virtacore.com/2011/06/105223482-180x160.jpg" alt="" width="50"></a>		<div class="break"></div>
+												<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/2011/11/18/occupy-wall-street-takes-over-nyc-video/">
+											Occupy Wall Street takes over NYC [VIDEO]</a></div>
+											<div class="break"></div>
+										</div>
+																				<div class="category-headline">
+												<div class="pic">
+		<a href="http://dailycaller.com/2011/11/18/rice-my-role-models-are-actually-white-men-as-a-matter-of-fact-old-white-men/"><img src="http://dc-cdn.virtacore.com/2011/11/large_Condoleezza-Rice_Nov26-08-Meye-180x160.jpg" alt="" width="50"></a>		<div class="break"></div>
 	</div>
-						<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/freedomworks-tea-party-may-stay-home-if-romney-nominated">FreedomWorks: Tea Party may stay home if Romney nominated</a></div><div class="break"></div></div>
-										<div class="category-headline">
-						<div class="pic">
-		<a href="http://dailycaller.com/new-york-times-mixes-message-on-call-for-reader-help-with-palin-email-investigation-now-denies-request"><img src="http://dc-cdn.virtacore.com/2011/06/091110_newyorktimes_ap_392_regular-180x160.jpg" alt="" width="50"></a>		<div class="break"></div>
+												<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/2011/11/18/rice-my-role-models-are-actually-white-men-as-a-matter-of-fact-old-white-men/">
+											Condoleezza Rice: My role models are 'old white men'</a></div>
+											<div class="break"></div>
+										</div>
+																				<div class="category-headline">
+												<div class="pic">
+		<a href="http://dailycaller.com/2011/11/16/dennis-miller-admits-he-fantasized-about-attacking-an-islamic-kid-on-flight/"><img src="http://dc-cdn.virtacore.com/2011/11/Miller1116-e1321499523230-180x160.png" alt="" width="50"></a>		<div class="break"></div>
 	</div>
-						<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/new-york-times-mixes-message-on-call-for-reader-help-with-palin-email-investigation-now-denies-request">Times mixes message on call for reader help with Palin email investigation</a></div><div class="break"></div></div>
-										<div class="category-headline">
-						<div class="pic">
-		<a href="http://dailycaller.com/gary-johnson-continues-debate-objections-with-new-video"><img src="http://dc-cdn.virtacore.com/2011/06/johnson_0-e1307619433670-180x160.jpg" alt="" width="50"></a>		<div class="break"></div>
+												<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/2011/11/16/dennis-miller-admits-he-fantasized-about-attacking-an-islamic-kid-on-flight/">
+											Dennis Miller says he was ready to hit Muslim man on plane</a></div>
+											<div class="break"></div>
+										</div>
+																				<div class="category-headline">
+												<div class="pic">
+		<a href="http://dailycaller.com/2011/11/18/obama-takes-credit-for-boeing-deal/"><img src="http://dc-cdn.virtacore.com/2011/11/9c4ce7d7cfad4b26bfcb181d5432ebc9-150x150.jpg" alt="" width="50"></a>		<div class="break"></div>
 	</div>
-						<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/gary-johnson-continues-debate-objections-with-new-video">Excluded from CNN debate, Gary Johnson takes to YouTube</a></div><div class="break"></div></div>
-										<div class="category-headline">
-							<div class="pic" id="pic-1">
-			<a href="http://dailycaller.com/islamic-group-ad-campaign-targets-houston" title="Privacy Policy" alt="Privacy Policy">						
-						<img src="http://dc-cdn.virtacore.com/2011/06/HoustonSkyline11-e1307643389652-180x160.jpg" border="0" alt="" width="50">
+												<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/2011/11/18/obama-takes-credit-for-boeing-deal/">
+											Obama takes credit for Boeing deal</a></div>
+											<div class="break"></div>
+										</div>
+																				<div class="category-headline">
+													<div class="pic" id="pic-1">
+			<a href="http://dailycaller.com/2011/11/18/newt-handles-occupy-jacksonville-hecklers/" title="Privacy Policy" alt="Privacy Policy">						
+						<img src="http://dc-cdn.virtacore.com/2011/11/Picture-24-180x160.png" border="0" alt="" width="50">
 						
 			</a>					</div>
-							<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/islamic-group-ad-campaign-targets-houston">Islamic group ad campaign targets Houston</a></div><div class="break"></div></div>
-										<div class="category-headline">
-						<div class="pic">
-		<a href="http://dailycaller.com/alec-baldwin-a-lot-of-sanctimonious-d-bags-on-huffpo"><img src="http://dc-cdn.virtacore.com/2011/06/111870626-e1307304250280-180x160.jpg" alt="" width="50"></a>		<div class="break"></div>
+													<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/2011/11/18/newt-handles-occupy-jacksonville-hecklers/">
+											Newt handles ‘Occupy Jacksonville’ hecklers</a></div>
+											<div class="break"></div>
+										</div>
+																				<div class="category-headline">
+												<div class="pic">
+		<a href="http://dailycaller.com/2011/11/06/rediscovered-2004-senate-ad-shows-obama-pitching-similar-rhetorical-themes/"><img src="http://dc-cdn.virtacore.com/2011/04/6f49eabe-de68-4d95-aac5-4ea0969ef9ad-e1320598006379-180x160.jpg" alt="" width="50"></a>		<div class="break"></div>
 	</div>
-						<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/alec-baldwin-a-lot-of-sanctimonious-d-bags-on-huffpo">Alec Baldwin: A lot of 'sanctimonious d-bags on HuffPo'</a></div><div class="break"></div></div>
-								</div>
-			
+												<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/2011/11/06/rediscovered-2004-senate-ad-shows-obama-pitching-similar-rhetorical-themes/">
+											Rediscovered 2004 Senate ad shows Obama pitching similar rhetorical themes</a></div>
+											<div class="break"></div>
+										</div>
+														</div>
 				
-			<div id="widget-most-emailed-all" class="popular-box" style="display:none;">
-				<div class="widget-most-viewed-buttons">
-					<div class="widget-most-viewed-button-left"><a href="Javascript:doToggle('widget-most-viewed-all', '');doToggle('widget-most-emailed-all', 'none');">Most Viewed</a></div>
-					<div class="widget-most-viewed-button-right widget-most-viewed-button-hilite">Most Emailed</div>
-					<div class="break"></div>
+				<div id="widget-most-emailed" class="popular-box" style="display:none;">
+					<div class="widget-most-viewed-buttons">
+						<div class="widget-most-viewed-button-left"><a href="Javascript:doToggle('widget-most-popular', '');doToggle('widget-most-emailed', 'none');">Most Popular</a></div>
+						<div class="widget-most-viewed-button-right widget-most-viewed-button-hilite">Most Emailed</div>
+						<div class="break"></div>
+					</div>
+					
+												<div class="category-headline">
+									<div class="pic">
+		<a href="http://dailycaller.com/2011/10/11/michelle-obamas-warning-to-gun-owners/"><img src="http://dc-cdn.virtacore.com/2011/09/8c2089c395f64df1abddd8da757fe1e4-150x150.jpg" alt="" width="50"></a>		<div class="break"></div>
+	</div>
+									<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/2011/10/11/michelle-obamas-warning-to-gun-owners/">
+								Michelle Obama's warning to gun owners</a></div>
+								<div class="break"></div>
+							</div>
+														<div class="category-headline">
+									<div class="pic">
+		<a href="http://dailycaller.com/2011/11/07/correcting-the-fairy-tale-a-seals-account-of-how-osama-bin-laden-really-died/"><img src="http://dc-cdn.virtacore.com/2011/11/113399224-180x160.jpg" alt="" width="50"></a>		<div class="break"></div>
+	</div>
+									<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/2011/11/07/correcting-the-fairy-tale-a-seals-account-of-how-osama-bin-laden-really-died/">
+								Correcting the 'fairy tale': A SEAL's account of how Osama bin Laden really died</a></div>
+								<div class="break"></div>
+							</div>
+														<div class="category-headline">
+									<div class="pic">
+		<a href="http://dailycaller.com/2011/10/14/114-year-old-electric-car-gets-same-40-miles-to-the-charge-as-chevy-volt/"><img src="http://dc-cdn.virtacore.com/2011/10/photo-with-top-180x160.jpg" alt="" width="50"></a>		<div class="break"></div>
+	</div>
+									<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/2011/10/14/114-year-old-electric-car-gets-same-40-miles-to-the-charge-as-chevy-volt/">
+								Electric the 'future?' 115-year-old car begs to differ</a></div>
+								<div class="break"></div>
+							</div>
+														<div class="category-headline">
+									<div class="pic">
+		<a href="http://dailycaller.com/2011/08/12/democratic-hill-staffers-head-to-maui-on-taxpayers-dime-for-senate-indian-affairs-committee-field-hearing/"><img src="http://dc-cdn.virtacore.com/2011/08/070720_maui_hmed_1230p.grid-6x2-180x160.jpg" alt="" width="50"></a>		<div class="break"></div>
+	</div>
+									<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/2011/08/12/democratic-hill-staffers-head-to-maui-on-taxpayers-dime-for-senate-indian-affairs-committee-field-hearing/">
+								Dem. Hill staffers head to Maui on taxpayers' dime for Senate hearing</a></div>
+								<div class="break"></div>
+							</div>
+														<div class="category-headline">
+									<div class="pic">
+		<a href="http://dailycaller.com/2011/09/25/obama-gaffe-president-says-billionaires-should-pay-the-jew-tax-rate/"><img src="http://dc-cdn.virtacore.com/2011/09/418ac41c5c23474dac3f1aa5aec69e4c-150x150.jpg" alt="" width="50"></a>		<div class="break"></div>
+	</div>
+									<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/2011/09/25/obama-gaffe-president-says-billionaires-should-pay-the-jew-tax-rate/">
+								Obama gaffe: President says billionaires should pay 'Jew' tax rate [VIDEO]</a></div>
+								<div class="break"></div>
+							</div>
+														<div class="category-headline">
+									<div class="pic">
+		<a href="http://dailycaller.com/2011/09/27/nc-governor-recommends-suspending-democracy-to-focus-on-jobs/"><img src="http://dc-cdn.virtacore.com/2011/08/242f88cd8c4a48a3aaeb839dcaf7e6b5-e1318273003336-180x160.jpg" alt="" width="50"></a>		<div class="break"></div>
+	</div>
+									<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/2011/09/27/nc-governor-recommends-suspending-democracy-to-focus-on-jobs/">
+								NC governor calls for suspending elections to focus on jobs</a></div>
+								<div class="break"></div>
+							</div>
+														<div class="category-headline">
+									<div class="pic">
+		<a href="http://dailycaller.com/2011/08/21/maxine-waters-the-tea-party-can-go-straight-to-hell/"><img src="http://dc-cdn.virtacore.com/2010/08/0e68992830fc4e20a97418aca820783e-150x150.jpg" alt="" width="50"></a>		<div class="break"></div>
+	</div>
+									<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/2011/08/21/maxine-waters-the-tea-party-can-go-straight-to-hell/">
+								Rep. Maxine Waters: 'The tea party can go straight to hell'</a></div>
+								<div class="break"></div>
+							</div>
+														<div class="category-headline">
+										<div class="pic" id="pic-1">
+			<a href="http://dailycaller.com/2011/09/01/bankrupt-solar-company-with-fed-backing-has-cozy-ties-to-obama-admin/" title="Privacy Policy" alt="Privacy Policy">						
+						<img src="http://dc-cdn.virtacore.com/2011/09/Solyndra-Obama-180x160.jpg" border="0" alt="" width="50">
+						
+			</a>					</div>
+										<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/2011/09/01/bankrupt-solar-company-with-fed-backing-has-cozy-ties-to-obama-admin/">
+								Bankrupt solar tech company produced at least $137,000 for Obama in '08</a></div>
+								<div class="break"></div>
+							</div>
+														<div class="category-headline">
+									<div class="pic">
+		<a href="http://dailycaller.com/2011/09/08/solyndra-officials-made-numerous-trips-to-the-white-house-logs-show/"><img src="http://dc-cdn.virtacore.com/2011/09/100967382-180x160.jpg" alt="" width="50"></a>		<div class="break"></div>
+	</div>
+									<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/2011/09/08/solyndra-officials-made-numerous-trips-to-the-white-house-logs-show/">
+								Solyndra reps made numerous trips to White House</a></div>
+								<div class="break"></div>
+							</div>
+														<div class="category-headline">
+									<div class="pic">
+		<a href="http://dailycaller.com/2011/08/28/gore-global-warming-skeptics-are-this-generations-racists/"><img src="http://dc-cdn.virtacore.com/2011/08/104579471-e1314548933647-180x160.jpg" alt="" width="50"></a>		<div class="break"></div>
+	</div>
+									<div class="blue" style="margin-left: 65px;"><a href="http://dailycaller.com/2011/08/28/gore-global-warming-skeptics-are-this-generations-racists/">
+								Al Gore: Global warming skeptics this generation's racists</a></div>
+								<div class="break"></div>
+							</div>
+												</div>
+					
 				</div>
-								
-								
+				
 			</div>
-		</div>
-		
-				
-				
-		</div>
-		
-		<!-- LIVE END -->
-		
-				<div class="ad">
-				<!------ OAS AD 'Right3' begin ------>
-		<script type="text/javascript">
-		<!--
-			OAS_AD('Right3');
-		//-->
-		</script>
-		<!------ OAS AD 'Right3' end ------>
-		</div>
-		
+					
+			<div class="ad"><!-- OPENX_LOC[_default:Right3] --><script type="text/javascript">OX.requestAd({"auid":"92731"});</script></div>
 	</div>
 	
 	  	
-  	<div style="padding: 0 0 10px 0;margin:0;text-align:center;">
-		<!------ OAS AD 'Bottom' begin ------>
-		<script type="text/javascript">
-		<!--
-		OAS_AD('Bottom');
-		//-->
-		</script>
-		<!------ OAS AD 'Bottom' end ------>
-		
-		<div class="break">
+  	<div style="padding: 0 0 10px 0;margin:0;text-align:center; clear:both; ">
+  		<!-- OPENX_LOC[_default:Bottom] --><script type="text/javascript">OX.requestAd({"auid":"92734"});</script>		<div class="break"></div>
 	</div>
-	
-	<div class="break">
+	<div class="break"></div>
   	
 	<div id="stay-connected">
 		<h2>STAY CONNECTED TO <img src="http://dc-cdn.virtacore.com/wp-content/themes/default/images/connect/logo.gif" alt=""></h2>
@@ -730,7 +738,29 @@ register on DailyCaller.com;</li>
 				 | 				<li><a href="http://dailycaller.com/terms-of-use">Terms of Use</a></li>
 				 | 				<li><a href="http://dailycaller.com/advertise-with-us">Advertise With Us</a></li>
 				 | 				<li><a href="http://dailycaller.com/make-homepage">Make The Daily Caller Your Homepage</a></li>
-				
+				    <script type="text/javascript">
+    // <![CDATA[
+        var disqus_shortname = 'thedailycaller';
+        var disqus_domain = 'disqus.com';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('rel'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+            s.src = 'http://' + disqus_domain + '/forums/' + disqus_shortname + '/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    //]]>
+    </script>
+
 		</ul>
 		
 		Copyright © 2009 The Daily Caller
@@ -757,31 +787,6 @@ var ratings_mouseover_image=new Image();ratings_mouseover_image.src=ratingsL10n.
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://dc-cdn.virtacore.com/wp-content/plugins/wp-postratings/postratings-js.js?ver=1.50"></script>
-	<div id="fb-root"></div>
-	<script src="http://connect.facebook.net/en_US/all.js"></script>
-	
-	<script>
-	FB.init({ appId:'143489452702', cookie:true, status:true, xfbml:true });
-	FB.api('/me', function(user) {
-		if(user != null) {
-			var txt = "Logged in as: <a href=\"http://dailycaller.com/my-account/\">" + user.name + "</a> <small>(<a href=\"http://dailycaller.com/my-account/\">My Account</a> | <a href=\"http://dailycaller.com/my-account/?action=logout\">logout</a>)</small>";
-			jQuery('#logged-in').append(txt);
-		}
-	});
-	</script>
-	
-<!-- Woopra Analytics Code -->
-<script type="text/javascript">
-(function(){
-var wsc=document.createElement('script');
-wsc.type='text/javascript';
-wsc.src=document.location.protocol+'//static.woopra.com/js/woopra.js';
-wsc.async=true;
-var ssc = document.getElementsByTagName('script')[0];
-ssc.parentNode.insertBefore(wsc, ssc);})();
-</script>
-<!-- End of Woopra Analytics Code -->
-
 	<script type="text/javascript">
 	
 	jQuery("a.grouped_elements").fancybox({
@@ -818,14 +823,23 @@ ssc.parentNode.insertBefore(wsc, ssc);})();
 
 	</script>
 		<script type="text/javascript" src="http://platform.twitter.com/widgets.js?ver=3.0.5"></script>
+		<script type="text/javascript">
+	jQuery(document).ready(function(){
+		if (readCookie('dailycaller_uname')) {
+			var txt = "Logged in as: <a href=\"http://dailycaller.com/my-account/\">" + readCookie('dailycaller_uname') + "</a> <small>(<a href=\"http://dailycaller.com/my-account/\">My Account</a> | <a href=\"http://dailycaller.com/my-account/?action=logout\">logout</a>)</small>";
+			jQuery('#logged-in').append(txt);
+		} else {
+			jQuery('#login-register').css("display","");
+		};
+	});
+	</script>
 	
-
 <!-- Google Analytics -->
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-12159302-1']);
-  _gaq.push(['_trackPageview']);
+    _gaq.push(['_trackPageview']);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -835,6 +849,9 @@ ssc.parentNode.insertBefore(wsc, ssc);})();
 
 </script>
 <!-- Google Analytics -->
+
+
+
 
 
 
@@ -868,27 +885,30 @@ qacct:"p-8ckCzGybQyMFc"
    }());
 </script>
 
-
 <script type="text/javascript">
-var _sf_async_config={uid:5927,domain:"dailycaller.com"};
-(function(){
- function loadChartbeat() {
-   window._sf_endpt=(new Date()).getTime();
-   var e = document.createElement('script');
-   e.setAttribute('language', 'javascript');
-   e.setAttribute('type', 'text/javascript');
-   e.setAttribute('src',
-      (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
-      "static.chartbeat.com/js/chartbeat.js");
-   document.body.appendChild(e);
- }
- var oldonload = window.onload;
- window.onload = (typeof window.onload != 'function') ?
-    loadChartbeat : function() { oldonload(); loadChartbeat(); };
-})();
-
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 5927;
+    _sf_async_config.domain = 'dailycaller.com';
+    _sf_async_config.sections = '';
+    _sf_async_config.authors = 'admin';
+    /** CONFIGURATION END **/
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src',
+           (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+           'js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
 </script>
-
 
 
 
@@ -913,8 +933,24 @@ var _sf_async_config={uid:5927,domain:"dailycaller.com"};
 
 
 
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "10110104" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=10110104&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
 
-<!-- This is: 10.10.10.103 -->
 
 
-</div></div><script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
+<!-- This is: 10.10.100.101 -->
+
+
+<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
