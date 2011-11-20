@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elkodates.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522075348id_/http%3A//www.elkodates.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elkodates.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120165452id_/http%3A//www.elkodates.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
