@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citibank.com.my privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522183512id_/http%3A//www.citibank.com.my/english/docs/privacy-policy.htm%3Futm_source%3Dcbolhm%26utm_medium%3DfootrPrivacy%26utm_campaign%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citibank.com.my privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120160757id_/http%3A//www.citibank.com.my/english/docs/privacy-policy.htm%3Futm_source%3Dcbolhm%26utm_medium%3DfootrPrivacy%26utm_campaign%3DPrivacy) for the most accurate reproduction.*
 
 # Citibank Malaysia - Privacy Policy
 
