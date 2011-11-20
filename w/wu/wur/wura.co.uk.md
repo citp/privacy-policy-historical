@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wura.co.uk privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520223559id_/http%3A//www.wura.co.uk/p/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wura.co.uk privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120012551id_/http%3A//www.wura.co.uk/p/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
