@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textmarks.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606131357id_/http%3A//www.textmarks.com/front/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textmarks.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120072751id_/http%3A//www.textmarks.com/front/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TextMarks | SMS and Text Alerts Made Easy | SMS API
 
@@ -70,9 +70,3 @@ If you have any questions, concerns, or comments about this Privacy Policy, you 
 _support  
 @   
 textmarks.com_
-
-Alternatively, you may contact us at:  
-TextMarks, Inc.  
-Pier 38, The Embarcadero  
-San Francisco, CA 94107  
-
