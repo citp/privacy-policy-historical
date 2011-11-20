@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reliancemutual.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523061314id_/http%3A//www.reliancemutual.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliancemutual.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120074220id_/http%3A//www.reliancemutual.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # - PrivacyPolicy
 
