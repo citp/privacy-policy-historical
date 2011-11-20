@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myth-weavers.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522182549id_/http%3A//www.myth-weavers.com/wiki/index.php/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myth-weavers.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120072632id_/http%3A//www.myth-weavers.com/wiki/index.php/Privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Myth-Wiki
 
@@ -10,12 +10,18 @@ At www.myth-weavers.com, the privacy of our visitors is of extreme importance to
 
 ## Contents
 
-  * 1 Log Files
-  * 2 Cookies and Web Beacons
-  * 3 DoubleClick DART Cookie
-  * 4 Advertising
+  * 1 The Public and Collaborative Nature of the Projects
+  * 2 Log Files
+  * 3 Cookies and Web Beacons
+  * 4 DoubleClick DART Cookie
+  * 5 Advertising
+  * 6 Disclaimer
 
 
+
+###  The Public and Collaborative Nature of the Projects 
+
+All Projects of the Myth-Weavers are collaboratively developed by its users using the MediaWiki software. Anyone with Internet access (and not otherwise restricted from doing so) may edit the publicly editable pages of these sites with or without logging in as a registered user. By doing this, editors create a published document, and a public record of every word added, subtracted, or changed. This is a public act, and editors are identified publicly as the author of such changes. All contributions made to a Project, and all publicly available information about those contributions, are irrevocably licensed and may be freely copied, quoted, reused and adapted by third parties with few restrictions. 
 
 ###  Log Files
 
@@ -46,6 +52,10 @@ www.myth-weavers.com has no access to or control over the cookies that are used 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.myth-weavers.com's privacy policy does not apply to such other advertisers or web sites, as we cannot control their activities. 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+
+##  Disclaimer 
+
+Myth-Weavers believes that maintaining and preserving the privacy of user data is an important value. This Privacy Policy, together with other policies, resolutions, and actions by Myth-Weavers, represents a committed effort to safeguard the security of the limited user information that is collected and retained on our servers. Nevertheless, Myth-Weavers cannot guarantee that user information will remain private. We acknowledge that, in spite of our committed effort to protect private user information, determined individuals may still develop data-mining and other methods to uncover such information and disclose it. For this reason, Myth-Weavers can make no guarantee against unauthorized access to information provided in the course of participating in Myth-Weavers projects or related communities. 
     
     
     If you would like to request a change to this page, please contact a staff member.
