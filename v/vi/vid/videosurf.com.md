@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the videosurf.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315002305id_/http%3A//www.videosurf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videosurf.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120072609id_/http%3A//www.videosurf.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - VideoSurf Video Search
 
-This Privacy Policy describes how we handle your personal information for our services on the VideoSurf website ("the Site").
-
-By accepting the Privacy Policy in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new users and is otherwise effective on April 1st, 2007.
+By accepting the Privacy Policy in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance.
 
 You can browse some pages of the Site without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to provide us with personal information, you consent to the transfer and storage of that information to our servers located in the United States.
 
@@ -12,13 +10,19 @@ We may collect and store the following personal information:
 
   * email address, physical contact information;
   * computer sign-on data, statistics on page views, traffic to and from the Site, and ad data;
-  * other information, including IP address and standard web log information.
+  * other information, including IP address and standard web log information
+  * if you choose to register with the Site, your profile information, including your likes and news feeds
+  * if you choose to use the video identification feature to identify a program or actor/celebrity, and you are registered with the Site, the fact that you viewed the program.
 
 
 
-We don't sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies (such as demographic data) to improve and personalize our services. If you don't wish to receive marketing communications from us, simply indicate your preference on the email unsubsribe page, similar account status page, or by following the directions within the email.
+We don't sell or rent your personal information to third parties for their marketing purposes without your explicit consent. We may combine your information with information we collect from other companies (such as demographic data) to improve and personalize our services.
 
-Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. You agree that we may use your personal information to:
+We may aggregate your information to determine the most popular portions of our site, and may sell that aggregate (non-identifiable) information to third parties, who may purchase "sponsored links" on our site. If you click on a "sponsored link," we may be compensated by a third party and you may be transmitting personal information to the third party such as your IP address and standard web log information.
+
+If you don't wish to receive marketing communications from us, simply indicate your preference on the email unsubscribe page, similar account status page, or by following the directions within the email.
+
+Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. We may aggregate the data to make recommendations to you, e.g., "People who searched for this program, also searched for this one." You agree that we may use your personal information to:
 
   * provide the services and customer support you request;
   * customize, measure, and improve our services and the Site's content and layout;
@@ -27,7 +31,7 @@ Our primary purpose in collecting personal information is to provide you with a 
 
 
 
-We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that content violates the rights of others, or protect anyone's rights, property, or safety.
+We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims that content violates the rights of others, or protect anyone's rights, property, or safety. Your profile page is public, unless you opt out. Your viewing habits are private, unless you opt-in to sharing them.
 
 We may also share your personal information with:
 
@@ -58,7 +62,9 @@ Your password is the key to your account. Use unique numbers, letters, and speci
 
 You can see, review and change most of your personal information by logging into the Site. Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate. Once you make a public posting, you may not be able to change or remove it. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, based on your account activity and in accordance with applicable law. We do retain personal information from closed accounts in order to comply with law, troubleshoot problems, assist with any investigations, and take other actions otherwise permitted by law.
 
-Your information is stored on our servers located in the United States. We treat data as an asset that must be protected and use lots of tools (encryption, passwords, physical security, etc.) to protect your personal information against unauthorized access and disclosure. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from the Site. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
+VideoSurf makes no active effort to collect personal information from individuals under the age of 18.
+
+Your information is stored on our servers located in the United States. We use lots of tools (encryption, passwords, physical security, etc.) designed to protect your personal information against unauthorized access and disclosure. However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from the Site. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
 
 Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information we collect from you. If you disclose your information to others on our Site or other sites throughout the Internet, different rules may apply to their use or disclosure of the information you disclose to them. Since we do not control the privacy policies of third parties, you are subject to the privacy policies of those third parties. We encourage you to ask questions before you disclose your personal information to others.
 
