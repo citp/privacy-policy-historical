@@ -1,66 +1,63 @@
-<!--The following is the downloaded HTML source of the koolred.com privacy policy that was archived on 2011-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110522195928id_/http%3A//www.koolred.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the koolred.com privacy policy that was archived on 2011-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111120073231id_/http%3A//www.koolred.com/privacy_policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html><html><head>
 
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Koolred - Connect, Meet and Discover</title><link type="application/opensearchdescription+xml" rel="search" href="/koolred-osdd.xml">
-<link rel="stylesheet" type="text/css" href="/css/main.css">
-<link rel="stylesheet" type="text/css" href="/css/jquery/jquery-ui.css">
+<link rel="stylesheet" href="/css/main.css">
+<link rel="stylesheet" href="/css/jquery/jquery-ui.css">
 <script src="/js/main.js"></script>
- 
-<script src="/js/menucontents.php"></script>
+<script>
+var anylinkmenu1={divclass:'anylinkmenu', inlinestyle:'', linktarget:''}
+anylinkmenu1.items=[
+	["Contests", "/contest"],
+        ["Chat", "javascript:startChat();"]
+]
+
+function startChat() {
+
+        if (typeof openMainChat === "function")
+                openMainChat();
+        else
+                window.location = "/login.php";
+
+}
+</script>
 <script>
 
 var $jQ = jQuery.noConflict();
 anylinkmenu.init("menuanchorclass");
 
-function textCounter(field,cntfield,maxlimit) {
-
-        if (field.value.length > maxlimit)
-                field.value = field.value.substring(0, maxlimit);
-        else
-                cntfield.value = maxlimit - field.value.length;
-
-}
-
-function defaultText(field,deftext) {
-
-        if(field.value == deftext)
-                field.value = '';
-
-}
-
-function clearField(field) {
-
-        var text1 = 'Write on your own wall or see what your friends scribble here...Just remember everyone can see what\'s on your wall!';
-        var text2 = 'Write something on my wall..';
-
-        if(field.value == text1 || field.value == text2)
-                field.value = '';
-
-}
-
-function MM_jumpMenu(targ,selObj,restore){ //v3.0
-
-        eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
-
-        if (restore)
-                selObj.selectedIndex=0;
-
-}
-
 </script>
-</head>
 
+<!-- Google Analytics Social Button Tracking -->
+<script src="/js/ga_social_tracking.js"></script>
+
+<!-- Load Twitter JS-API asynchronously -->
+  <script>
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript'; 
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+
+      // Setup a callback to track once the script loads.
+      twitterWidgets.onload = _ga.trackTwitter;
+
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+</head>
 <body onload="load_all()">
 <div id="signup-modal" class="modal"></div>
-<div id="signup-box" class="modalBox" style="display: none;">
-	<div class="modalBoxTop"></div><a href="#"><div class="closeModal" id="signup-later"></div></a>
+<div id="signup-box" class="modalBox modalSignup" style="display: none;">
+	<div class="modalBoxTop modalSignupCorner"></div><a href="#"><div class="closeModal" id="signup-later"></div></a>
 	<div id="signup-body" class="modalBody">
 		
-			<img src="/images/logo_signup.gif">
+		<img alt="Signup" src="http://cdn0.koolred.com/images/2011081801/logo_signup.gif">
             <div class="clear"></div>
             <div id="signupCol" style="">
             <h3>Sign Up</h3>
@@ -69,7 +66,6 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 		<div class="clear"></div>
 		
 		<div class="modalLoader">
-			<img src="/images/loading.gif" border="0" width="48" height="48">
 			<br>
 			Please wait while loading...
 		</div>
@@ -97,7 +93,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 			The Twitter account <a href="http://twitter.com/" target="_blank">@</a> has been added to your Koolred account. You may login via your Koolred account password or Twitter in the future.
 			<br>
 			<div class="clear padT10 alignCenter"> 
-				<input type="button" class="button" id="signup-success-close" value="Continue">
+				<input type="button" class="button" id="signup-twitter-success-close" value="Continue">
 			</div>
 		</div>
 		
@@ -106,7 +102,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 			The <a href="http://facebook.com/profile.php?id=" target="_blank">Facebook account</a> has been added to your Koolred account. You may login via your Koolred account password or Facebook in the future.
 			<br>
 			<div class="clear padT10 alignCenter"> 
-				<input type="button" class="button" id="signup-success-close" value="Continue">
+				<input type="button" class="button" id="signup-facebook-success-close" value="Continue">
 			</div>
 		</div>
 		
@@ -130,12 +126,9 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 		<div id="signup-twitter-merge" style="display: none;">
 			<br>
 			<div class="thumbnail">
-								<img border="0">
 							</div>
 			<div class="confirmationText">
-				<strong>
-					<h3>Would you like to add your Twitter account <a href="http://twitter.com/" target="_blank">@</a> to your Koolred account?</h3>
-				</strong>
+				<h3>Would you like to add your Twitter account <a href="http://twitter.com/" target="_blank">@</a> to your Koolred account?</h3>
 			</div>
 			<p></p>
 			You have already used this email address to sign up on Koolred.
@@ -144,9 +137,9 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 			
 			Just enter your Koolred password to login.
 			<div class="clear padT10"></div>
-			<form action="javascript:return false;" onsubmit="javascript:return false;" method="POST" autocomplete="on" required="required">
+			<form action="javascript:return false;" onsubmit="javascript:return false;" method="POST" autocomplete="on">
 				
-				<input name="email_address" type="hidden" class="emailField" readonly="">
+				<input name="email_address" type="hidden" class="emailField">
 				
 				<div class="clear"></div>
 				
@@ -155,7 +148,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 				<input name="password" type="password" value="" autofocus="">&nbsp;&nbsp;
 				<a href="/forgot_password.php" target="_blank" class="font10">Forgot password?</a>
 				
-				<div class="clear padT10" id="merge-msg">
+				<div class="clear padT10" id="merge-msg-twitter">
 				</div> 
 				<div class="clear padT10 alignCenter"> 
 					<input type="submit" class="button" value="Login">
@@ -166,12 +159,9 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 		<div id="signup-facebook-merge" style="display: none;">
 			<br>
 			<div class="thumbnail">
-								<img border="0">
 							</div>
 			<div class="confirmationText">
-				<strong>
-					<h3>Would you like to add your Facebook <a href="http://facebook.com/profile.php?id=" target="_blank">account</a> to your Koolred account?</h3>
-				</strong>
+				<h3>Would you like to add your Facebook <a href="http://facebook.com/profile.php?id=" target="_blank">account</a> to your Koolred account?</h3>
 			</div>
 			<p></p>
 			You have already used this email address to sign up on Koolred.
@@ -180,9 +170,9 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 			
 			Just enter your Koolred password to login.
 			<div class="clear padT10"></div>
-			<form action="javascript:return false;" onsubmit="javascript:return false;" method="POST" autocomplete="on" required="required">
+			<form action="javascript:return false;" onsubmit="javascript:return false;" method="POST" autocomplete="on">
 				
-				<input name="email_address" type="hidden" class="emailField" readonly="">
+				<input name="email_address" type="hidden" class="emailField">
 				
 				<div class="clear"></div>
 				
@@ -191,7 +181,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 				<input name="password" type="password" value="" autofocus="">&nbsp;&nbsp;
 				<a href="/forgot_password.php" target="_blank" class="font10">Forgot password?</a>
 				
-				<div class="clear padT10" id="merge-msg">
+				<div class="clear padT10" id="merge-msg-facebook">
 				</div> 
 				<div class="clear padT10 alignCenter"> 
 					<input type="submit" class="button" value="Login">
@@ -206,10 +196,9 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 		</div>
 			
 		<div id="signup-form">		
-		<form action="javascript:return false;" onsubmit="javascript:return false;" method="POST" autocomplete="on" required="required">
+		<form action="javascript:return false;" onsubmit="javascript:return false;" method="POST" autocomplete="on">
 			
 			<div id="avatar-container" style="display:none;">
-			<img id="avatar" border="0" title="Profile Picture">
 			</div>
 			
 			<div class="col1">
@@ -242,7 +231,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 			<div class="clear"></div>
 			<div class="col1">
             	Gender
-				<ul id="inline">
+				<ul class="inline">
 				<li><input type="radio" name="gender" value="M"></li>
 				<li class="gender"><span id="gender_male">Male</span>&nbsp;</li>
 				<li><input type="radio" name="gender" value="F"></li>
@@ -258,15 +247,15 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 				
 			Country<br>
 			<select name="country">
-				<option value="A130525881_1_1_1_1_1">Afghanistan</option><option value="A130525882_1_1_1_1_1">Albania</option><option value="B130524725_1_1_1_1_1">Algeria</option><option value="A130525883_1_1_1_1_1">American Samoa</option><option value="A130525884_1_1_1_1_1">Andorra</option><option value="A130525885_1_1_1_1_1">Angola</option><option value="A130525886_1_1_1_1_1">Anguilla</option><option value="B130524727_1_1_1_1_1">Antigua and Barbuda</option><option value="A130525887_1_1_1_1_1">Argentina</option><option value="B130524728_1_1_1_1_1">Armenia</option><option value="B130524729_1_1_1_1_1">Aruba</option><option value="B130524730_1_1_1_1_1">Australia</option><option value="A130525888_1_1_1_1_1">Austria</option><option value="A130525889_1_1_1_1_1">Azerbaijan</option><option value="A130525890_1_1_1_1_1">Bahamas</option><option value="B130524731_1_1_1_1_1">Bahrain</option><option value="B130524732_1_1_1_1_1">Bangladesh</option><option value="B130524733_1_1_1_1_1">Barbados</option><option value="B130524734_1_1_1_1_1">Belarus</option><option value="B130524735_1_1_1_1_1">Belgium</option><option value="B130524736_1_1_1_1_1">Belize</option><option value="A130525891_1_1_1_1_1">Benin</option><option value="B130524737_1_1_1_1_1">Bermuda</option><option value="A130525892_1_1_1_1_1">Bhutan</option><option value="B130524738_1_1_1_1_1">Bolivia</option><option value="A130525893_1_1_1_1_1">Bosnia and Herzegovina</option><option value="A130525894_1_1_1_1_1">Botswana</option><option value="B130524740_1_1_1_1_1">Brazil</option><option value="A130525895_1_1_1_1_1">British Indian Ocean Territory</option><option value="B130524741_1_1_1_1_1">Brunei Darussalam</option><option value="B130524742_1_1_1_1_1">Bulgaria</option><option value="A130525896_1_1_1_1_1">Burkina Faso</option><option value="A130525897_1_1_1_1_1">Burundi</option><option value="A130525898_1_1_1_1_1">Cambodia</option><option value="A130525899_1_1_1_1_1">Cameroon</option><option value="B130524743_1_1_1_1_1">Canada</option><option value="B130524744_1_1_1_1_1">Cape Verde</option><option value="B130524745_1_1_1_1_1">Cayman Islands</option><option value="B130524746_1_1_1_1_1">Central African Republic</option><option value="A130525900_1_1_1_1_1">Chad</option><option value="B130524747_1_1_1_1_1">Chile</option><option value="B130505357_1_1_1_1_1">China</option><option value="B130524748_1_1_1_1_1">Christmas Island</option><option value="A130525902_1_1_1_1_1">Cocos (Keeling) Islands</option><option value="B130524749_1_1_1_1_1">Colombia</option><option value="B130524750_1_1_1_1_1">Comoros</option><option value="B130524751_1_1_1_1_1">Congo</option><option value="B130524752_1_1_1_1_1">Cook Islands</option><option value="A130525903_1_1_1_1_1">Costa Rica</option><option value="B130524753_1_1_1_1_1">Cote D'Ivoire (Ivory Coast)</option><option value="A130525904_1_1_1_1_1">Croatia (Hrvatska)</option><option value="B130524754_1_1_1_1_1">Cuba</option><option value="B130524755_1_1_1_1_1">Cyprus</option><option value="A130525906_1_1_1_1_1">Czech Republic</option><option value="A130525907_1_1_1_1_1">Denmark</option><option value="B130524756_1_1_1_1_1">Djibouti</option><option value="A130525908_1_1_1_1_1">Dominica</option><option value="B130524757_1_1_1_1_1">Dominican Republic</option><option value="A130525909_1_1_1_1_1">East Timor</option><option value="B130524758_1_1_1_1_1">Ecuador</option><option value="A130525910_1_1_1_1_1">Egypt</option><option value="B130524759_1_1_1_1_1">El Salvador</option><option value="A130525922_1_1_1_1_1">England</option><option value="A130525911_1_1_1_1_1">Equatorial Guinea</option><option value="A130525912_1_1_1_1_1">Eritrea</option><option value="A130525913_1_1_1_1_1">Estonia</option><option value="A130525914_1_1_1_1_1">Ethiopia</option><option value="B130524760_1_1_1_1_1">Falkland Islands (Malvinas)</option><option value="B130524761_1_1_1_1_1">Faroe Islands</option><option value="B130524762_1_1_1_1_1">Fiji</option><option value="B130524763_1_1_1_1_1">Finland</option><option value="A130525915_1_1_1_1_1">France</option><option value="A130525916_1_1_1_1_1">France, Metropolitan</option><option value="A130525917_1_1_1_1_1">French Guiana</option><option value="A130525918_1_1_1_1_1">French Polynesia</option><option value="A130525919_1_1_1_1_1">French Southern Territories</option><option value="B130524764_1_1_1_1_1">Gabon</option><option value="B130524765_1_1_1_1_1">Gambia</option><option value="B130524766_1_1_1_1_1">Georgia</option><option value="B130524767_1_1_1_1_1">Germany</option><option value="A130525920_1_1_1_1_1">Ghana</option><option value="A130525921_1_1_1_1_1">Gibraltar</option><option value="B130524768_1_1_1_1_1">Greece</option><option value="B130524769_1_1_1_1_1">Greenland</option><option value="A130525923_1_1_1_1_1">Grenada</option><option value="B130524770_1_1_1_1_1">Guadeloupe</option><option value="B130524771_1_1_1_1_1">Guam</option><option value="A130525924_1_1_1_1_1">Guatemala</option><option value="A130525925_1_1_1_1_1">Guinea</option><option value="A130525926_1_1_1_1_1">Guinea-Bissau</option><option value="A130525927_1_1_1_1_1">Guyana</option><option value="A130525928_1_1_1_1_1">Haiti</option><option value="A130525929_1_1_1_1_1">Heard and McDonald Islands</option><option value="A130525930_1_1_1_1_1">Honduras</option><option value="A130525931_1_1_1_1_1">Hong Kong</option><option value="A130525932_1_1_1_1_1">Hungary</option><option value="B130524772_1_1_1_1_1">Iceland</option><option value="B130524773_1_1_1_1_1">India</option><option value="A130525933_1_1_1_1_1">Indonesia</option><option value="B130524774_1_1_1_1_1">Iran</option><option value="B130524775_1_1_1_1_1">Iraq</option><option value="B130524776_1_1_1_1_1">Ireland</option><option value="B130524777_1_1_1_1_1">Israel</option><option value="B130524778_1_1_1_1_1">Italy</option><option value="A130525934_1_1_1_1_1">Jamaica</option><option value="A132968718_1_1_1_1_1">Japan</option><option value="B130524780_1_1_1_1_1">Jordan</option><option value="A130525935_1_1_1_1_1">Kazakhstan</option><option value="B130524781_1_1_1_1_1">Kenya</option><option value="B130524782_1_1_1_1_1">Kiribati</option><option value="A130525936_1_1_1_1_1">Korea, North</option><option value="A130525937_1_1_1_1_1">Korea, South</option><option value="B130524783_1_1_1_1_1">Kuwait</option><option value="B130524784_1_1_1_1_1">Kyrgyzstan</option><option value="A130525938_1_1_1_1_1">Laos</option><option value="B130524785_1_1_1_1_1">Latvia</option><option value="B130524786_1_1_1_1_1">Lebanon</option><option value="A130525939_1_1_1_1_1">Lesotho</option><option value="A130525940_1_1_1_1_1">Liberia</option><option value="B130524787_1_1_1_1_1">Libya</option><option value="B130524788_1_1_1_1_1">Liechtenstein</option><option value="B130524789_1_1_1_1_1">Lithuania</option><option value="B130524790_1_1_1_1_1">Luxembourg</option><option value="B130524791_1_1_1_1_1">Macau</option><option value="B130524792_1_1_1_1_1">Macedonia</option><option value="B130524793_1_1_1_1_1">Madagascar</option><option value="A130525941_1_1_1_1_1">Malawi</option><option value="B130524794_1_1_1_1_1" selected="selected">Malaysia</option><option value="B130524795_1_1_1_1_1">Maldives</option><option value="B130524796_1_1_1_1_1">Mali</option><option value="B130524797_1_1_1_1_1">Malta</option><option value="B130524798_1_1_1_1_1">Marshall Islands</option><option value="A130525942_1_1_1_1_1">Martinique</option><option value="A130525943_1_1_1_1_1">Mauritania</option><option value="B130524799_1_1_1_1_1">Mauritius</option><option value="B130524800_1_1_1_1_1">Mayotte</option><option value="B130524801_1_1_1_1_1">Mexico</option><option value="A130525944_1_1_1_1_1">Micronesia</option><option value="B130524802_1_1_1_1_1">Moldova</option><option value="B130524803_1_1_1_1_1">Monaco</option><option value="A130525945_1_1_1_1_1">Mongolia</option><option value="B130524804_1_1_1_1_1">Montserrat</option><option value="B130524805_1_1_1_1_1">Morocco</option><option value="B130524806_1_1_1_1_1">Mozambique</option><option value="A130525946_1_1_1_1_1">Myanmar</option><option value="B130524807_1_1_1_1_1">Namibia</option><option value="B130524808_1_1_1_1_1">Nauru</option><option value="B130524809_1_1_1_1_1">Nepal</option><option value="A130525947_1_1_1_1_1">Netherlands</option><option value="A130525948_1_1_1_1_1">Netherlands Antilles</option><option value="B130524811_1_1_1_1_1">New Caledonia</option><option value="A130525949_1_1_1_1_1">New Zealand</option><option value="B130524812_1_1_1_1_1">Nicaragua</option><option value="A130525950_1_1_1_1_1">Niger</option><option value="A130525951_1_1_1_1_1">Nigeria</option><option value="A130525952_1_1_1_1_1">Niue</option><option value="B130524813_1_1_1_1_1">Norfolk Island</option><option value="A130515712_1_1_1_1_1">Northern Ireland</option><option value="B130524814_1_1_1_1_1">Northern Mariana Islands</option><option value="A130525953_1_1_1_1_1">Norway</option><option value="A130525954_1_1_1_1_1">Oman</option><option value="A130525955_1_1_1_1_1">Pakistan</option><option value="B130524815_1_1_1_1_1">Palau</option><option value="B130524816_1_1_1_1_1">Panama</option><option value="B130524817_1_1_1_1_1">Papua New Guinea</option><option value="B130524818_1_1_1_1_1">Paraguay</option><option value="A130525956_1_1_1_1_1">Peru</option><option value="A130525957_1_1_1_1_1">Philippines</option><option value="B130524819_1_1_1_1_1">Pitcairn</option><option value="B130524820_1_1_1_1_1">Poland</option><option value="A130525958_1_1_1_1_1">Portugal</option><option value="B130524821_1_1_1_1_1">Puerto Rico</option><option value="A130525959_1_1_1_1_1">Qatar</option><option value="B130524822_1_1_1_1_1">Reunion</option><option value="B130524823_1_1_1_1_1">Romania</option><option value="B130524824_1_1_1_1_1">Russia</option><option value="B130524825_1_1_1_1_1">Rwanda</option><option value="B130524826_1_1_1_1_1">Saint Kitts and Nevis</option><option value="A130525960_1_1_1_1_1">Saint Lucia</option><option value="B130524827_1_1_1_1_1">Saint Vincent and the Grenadin ...</option><option value="A130525961_1_1_1_1_1">Samoa</option><option value="A130525962_1_1_1_1_1">San Marino</option><option value="B130524828_1_1_1_1_1">Sao Tome and Principe</option><option value="B130524829_1_1_1_1_1">Saudi Arabia</option><option value="A130515205_1_1_1_1_1">Scotland</option><option value="A130525963_1_1_1_1_1">Senegal</option><option value="A130525964_1_1_1_1_1">Seychelles</option><option value="A130525966_1_1_1_1_1">Sierra Leone</option><option value="B130524830_1_1_1_1_1">Singapore</option><option value="A130525967_1_1_1_1_1">Slovakia</option><option value="B130524831_1_1_1_1_1">Slovenia</option><option value="A130525968_1_1_1_1_1">Solomon Islands</option><option value="A130525969_1_1_1_1_1">Somalia</option><option value="B130524832_1_1_1_1_1">South Africa</option><option value="A130525965_1_1_1_1_1">South Georgia and the South Sa ...</option><option value="A130525970_1_1_1_1_1">Spain</option><option value="A130525971_1_1_1_1_1">Sri Lanka</option><option value="A130525972_1_1_1_1_1">St. Helena</option><option value="A130525973_1_1_1_1_1">St. Pierre and Miquelon</option><option value="B130524833_1_1_1_1_1">Sudan</option><option value="A130525974_1_1_1_1_1">Suriname</option><option value="A130525975_1_1_1_1_1">Svalbard and Jan Mayen Islands</option><option value="B130524834_1_1_1_1_1">Swaziland</option><option value="B130524835_1_1_1_1_1">Sweden</option><option value="A130525976_1_1_1_1_1">Switzerland</option><option value="B130524836_1_1_1_1_1">Syria</option><option value="A130525977_1_1_1_1_1">Taiwan</option><option value="A130525978_1_1_1_1_1">Tajikistan</option><option value="B130524837_1_1_1_1_1">Tanzania</option><option value="B130524838_1_1_1_1_1">Thailand</option><option value="B130524839_1_1_1_1_1">Togo</option><option value="B130524840_1_1_1_1_1">Tokelau</option><option value="A130525979_1_1_1_1_1">Tonga</option><option value="B130524841_1_1_1_1_1">Trinidad and Tobago</option><option value="B130524842_1_1_1_1_1">Tunisia</option><option value="A130525980_1_1_1_1_1">Turkey</option><option value="B130524843_1_1_1_1_1">Turkmenistan</option><option value="A130525981_1_1_1_1_1">Turks and Caicos Islands</option><option value="A130525982_1_1_1_1_1">Tuvalu</option><option value="B130524844_1_1_1_1_1">Uganda</option><option value="B130524845_1_1_1_1_1">Ukraine</option><option value="A130525983_1_1_1_1_1">United Arab Emirates</option><option value="B130524846_1_1_1_1_1" selected="selected">United States</option><option value="A130525985_1_1_1_1_1">Uruguay</option><option value="A130525986_1_1_1_1_1">US Minor Outlying Islands</option><option value="B130524848_1_1_1_1_1">Uzbekistan</option><option value="B130524849_1_1_1_1_1">Vanuatu</option><option value="B130524850_1_1_1_1_1">Vatican City State (Holy Sea)</option><option value="A130525987_1_1_1_1_1">Venezuela</option><option value="B130524851_1_1_1_1_1">Vietnam</option><option value="A130525988_1_1_1_1_1">Virgin Islands (British)</option><option value="B130524852_1_1_1_1_1">Virgin Islands (U.S.)</option><option value="A130515711_1_1_1_1_1">Wales</option><option value="B130524853_1_1_1_1_1">Wallis and Futuna Islands</option><option value="A130525989_1_1_1_1_1">Western Sahara</option><option value="A130525990_1_1_1_1_1">Yemen</option><option value="A130525991_1_1_1_1_1">Yugoslavia</option><option value="B130524854_1_1_1_1_1">Zaire</option><option value="A130525992_1_1_1_1_1">Zambia</option><option value="B130524855_1_1_1_1_1">Zimbabwe</option>			</select>
+				<option value="A130525881_1_1_1_1_1">Afghanistan</option><option value="A130525882_1_1_1_1_1">Albania</option><option value="B130524725_1_1_1_1_1">Algeria</option><option value="A130525883_1_1_1_1_1">American Samoa</option><option value="A130525884_1_1_1_1_1">Andorra</option><option value="A130525885_1_1_1_1_1">Angola</option><option value="A130525886_1_1_1_1_1">Anguilla</option><option value="B130524727_1_1_1_1_1">Antigua and Barbuda</option><option value="A130525887_1_1_1_1_1">Argentina</option><option value="B130524728_1_1_1_1_1">Armenia</option><option value="B130524729_1_1_1_1_1">Aruba</option><option value="B130524730_1_1_1_1_1">Australia</option><option value="A130525888_1_1_1_1_1">Austria</option><option value="A130525889_1_1_1_1_1">Azerbaijan</option><option value="A130525890_1_1_1_1_1">Bahamas</option><option value="B130524731_1_1_1_1_1">Bahrain</option><option value="B130524732_1_1_1_1_1">Bangladesh</option><option value="B130524733_1_1_1_1_1">Barbados</option><option value="B130524734_1_1_1_1_1">Belarus</option><option value="B130524735_1_1_1_1_1">Belgium</option><option value="B130524736_1_1_1_1_1">Belize</option><option value="A130525891_1_1_1_1_1">Benin</option><option value="B130524737_1_1_1_1_1">Bermuda</option><option value="A130525892_1_1_1_1_1">Bhutan</option><option value="B130524738_1_1_1_1_1">Bolivia</option><option value="A130525893_1_1_1_1_1">Bosnia and Herzegovina</option><option value="A130525894_1_1_1_1_1">Botswana</option><option value="B130524740_1_1_1_1_1">Brazil</option><option value="A130525895_1_1_1_1_1">British Indian Ocean Territory</option><option value="B130524741_1_1_1_1_1">Brunei Darussalam</option><option value="B130524742_1_1_1_1_1">Bulgaria</option><option value="A130525896_1_1_1_1_1">Burkina Faso</option><option value="A130525897_1_1_1_1_1">Burundi</option><option value="A130525898_1_1_1_1_1">Cambodia</option><option value="A130525899_1_1_1_1_1">Cameroon</option><option value="B130524743_1_1_1_1_1">Canada</option><option value="B130524744_1_1_1_1_1">Cape Verde</option><option value="B130524745_1_1_1_1_1">Cayman Islands</option><option value="B130524746_1_1_1_1_1">Central African Republic</option><option value="A130525900_1_1_1_1_1">Chad</option><option value="B130524747_1_1_1_1_1">Chile</option><option value="B130505357_1_1_1_1_1">China</option><option value="B130524748_1_1_1_1_1">Christmas Island</option><option value="A130525902_1_1_1_1_1">Cocos (Keeling) Islands</option><option value="B130524749_1_1_1_1_1">Colombia</option><option value="B130524750_1_1_1_1_1">Comoros</option><option value="B130524751_1_1_1_1_1">Congo</option><option value="B130524752_1_1_1_1_1">Cook Islands</option><option value="A130525903_1_1_1_1_1">Costa Rica</option><option value="B130524753_1_1_1_1_1">Cote D'Ivoire (Ivory Coast)</option><option value="A130525904_1_1_1_1_1">Croatia (Hrvatska)</option><option value="B130524754_1_1_1_1_1">Cuba</option><option value="B130524755_1_1_1_1_1">Cyprus</option><option value="A130525906_1_1_1_1_1">Czech Republic</option><option value="A130525907_1_1_1_1_1">Denmark</option><option value="B130524756_1_1_1_1_1">Djibouti</option><option value="A130525908_1_1_1_1_1">Dominica</option><option value="B130524757_1_1_1_1_1">Dominican Republic</option><option value="A130525909_1_1_1_1_1">East Timor</option><option value="B130524758_1_1_1_1_1">Ecuador</option><option value="A130525910_1_1_1_1_1">Egypt</option><option value="B130524759_1_1_1_1_1">El Salvador</option><option value="A130525922_1_1_1_1_1">England</option><option value="A130525911_1_1_1_1_1">Equatorial Guinea</option><option value="A130525912_1_1_1_1_1">Eritrea</option><option value="A130525913_1_1_1_1_1">Estonia</option><option value="A130525914_1_1_1_1_1">Ethiopia</option><option value="B130524760_1_1_1_1_1">Falkland Islands (Malvinas)</option><option value="B130524761_1_1_1_1_1">Faroe Islands</option><option value="B130524762_1_1_1_1_1">Fiji</option><option value="B130524763_1_1_1_1_1">Finland</option><option value="A130525915_1_1_1_1_1">France</option><option value="A130525916_1_1_1_1_1">France, Metropolitan</option><option value="A130525917_1_1_1_1_1">French Guiana</option><option value="A130525918_1_1_1_1_1">French Polynesia</option><option value="A130525919_1_1_1_1_1">French Southern Territories</option><option value="B130524764_1_1_1_1_1">Gabon</option><option value="B130524765_1_1_1_1_1">Gambia</option><option value="B130524766_1_1_1_1_1">Georgia</option><option value="B130524767_1_1_1_1_1">Germany</option><option value="A130525920_1_1_1_1_1">Ghana</option><option value="A130525921_1_1_1_1_1">Gibraltar</option><option value="B130524768_1_1_1_1_1">Greece</option><option value="B130524769_1_1_1_1_1">Greenland</option><option value="A130525923_1_1_1_1_1">Grenada</option><option value="B130524770_1_1_1_1_1">Guadeloupe</option><option value="B130524771_1_1_1_1_1">Guam</option><option value="A130525924_1_1_1_1_1">Guatemala</option><option value="A130525925_1_1_1_1_1">Guinea</option><option value="A130525926_1_1_1_1_1">Guinea-Bissau</option><option value="A130525927_1_1_1_1_1">Guyana</option><option value="A130525928_1_1_1_1_1">Haiti</option><option value="A130525929_1_1_1_1_1">Heard and McDonald Islands</option><option value="A130525930_1_1_1_1_1">Honduras</option><option value="A130525931_1_1_1_1_1">Hong Kong</option><option value="A130525932_1_1_1_1_1">Hungary</option><option value="B130524772_1_1_1_1_1">Iceland</option><option value="B130524773_1_1_1_1_1">India</option><option value="A130525933_1_1_1_1_1">Indonesia</option><option value="B130524774_1_1_1_1_1">Iran</option><option value="B130524775_1_1_1_1_1">Iraq</option><option value="B130524776_1_1_1_1_1">Ireland</option><option value="B130524777_1_1_1_1_1">Israel</option><option value="B130524778_1_1_1_1_1">Italy</option><option value="A130525934_1_1_1_1_1">Jamaica</option><option value="A132968718_1_1_1_1_1">Japan</option><option value="B130524780_1_1_1_1_1">Jordan</option><option value="A130525935_1_1_1_1_1">Kazakhstan</option><option value="B130524781_1_1_1_1_1">Kenya</option><option value="B130524782_1_1_1_1_1">Kiribati</option><option value="A130525936_1_1_1_1_1">Korea, North</option><option value="A130525937_1_1_1_1_1">Korea, South</option><option value="B130524783_1_1_1_1_1">Kuwait</option><option value="B130524784_1_1_1_1_1">Kyrgyzstan</option><option value="A130525938_1_1_1_1_1">Laos</option><option value="B130524785_1_1_1_1_1">Latvia</option><option value="B130524786_1_1_1_1_1">Lebanon</option><option value="A130525939_1_1_1_1_1">Lesotho</option><option value="A130525940_1_1_1_1_1">Liberia</option><option value="B130524787_1_1_1_1_1">Libya</option><option value="B130524788_1_1_1_1_1">Liechtenstein</option><option value="B130524789_1_1_1_1_1">Lithuania</option><option value="B130524790_1_1_1_1_1">Luxembourg</option><option value="B130524791_1_1_1_1_1">Macau</option><option value="B130524792_1_1_1_1_1">Macedonia</option><option value="B130524793_1_1_1_1_1">Madagascar</option><option value="A130525941_1_1_1_1_1">Malawi</option><option value="B130524794_1_1_1_1_1" selected="selected">Malaysia</option><option value="B130524795_1_1_1_1_1">Maldives</option><option value="B130524796_1_1_1_1_1">Mali</option><option value="B130524797_1_1_1_1_1">Malta</option><option value="B130524798_1_1_1_1_1">Marshall Islands</option><option value="A130525942_1_1_1_1_1">Martinique</option><option value="A130525943_1_1_1_1_1">Mauritania</option><option value="B130524799_1_1_1_1_1">Mauritius</option><option value="B130524800_1_1_1_1_1">Mayotte</option><option value="B130524801_1_1_1_1_1">Mexico</option><option value="A130525944_1_1_1_1_1">Micronesia</option><option value="B130524802_1_1_1_1_1">Moldova</option><option value="B130524803_1_1_1_1_1">Monaco</option><option value="A130525945_1_1_1_1_1">Mongolia</option><option value="B130524804_1_1_1_1_1">Montserrat</option><option value="B130524805_1_1_1_1_1">Morocco</option><option value="B130524806_1_1_1_1_1">Mozambique</option><option value="A130525946_1_1_1_1_1">Myanmar</option><option value="B130524807_1_1_1_1_1">Namibia</option><option value="B130524808_1_1_1_1_1">Nauru</option><option value="B130524809_1_1_1_1_1">Nepal</option><option value="A130525947_1_1_1_1_1">Netherlands</option><option value="A130525948_1_1_1_1_1">Netherlands Antilles</option><option value="B130524811_1_1_1_1_1">New Caledonia</option><option value="A130525949_1_1_1_1_1">New Zealand</option><option value="B130524812_1_1_1_1_1">Nicaragua</option><option value="A130525950_1_1_1_1_1">Niger</option><option value="A130525951_1_1_1_1_1">Nigeria</option><option value="A130525952_1_1_1_1_1">Niue</option><option value="B130524813_1_1_1_1_1">Norfolk Island</option><option value="A130515712_1_1_1_1_1">Northern Ireland</option><option value="B130524814_1_1_1_1_1">Northern Mariana Islands</option><option value="A130525953_1_1_1_1_1">Norway</option><option value="A130525954_1_1_1_1_1">Oman</option><option value="A130525955_1_1_1_1_1">Pakistan</option><option value="B130524815_1_1_1_1_1">Palau</option><option value="B130524816_1_1_1_1_1">Panama</option><option value="B130524817_1_1_1_1_1">Papua New Guinea</option><option value="B130524818_1_1_1_1_1">Paraguay</option><option value="A130525956_1_1_1_1_1">Peru</option><option value="A130525957_1_1_1_1_1">Philippines</option><option value="B130524819_1_1_1_1_1">Pitcairn</option><option value="B130524820_1_1_1_1_1">Poland</option><option value="A130525958_1_1_1_1_1">Portugal</option><option value="B130524821_1_1_1_1_1">Puerto Rico</option><option value="A130525959_1_1_1_1_1">Qatar</option><option value="B130524822_1_1_1_1_1">Reunion</option><option value="B130524823_1_1_1_1_1">Romania</option><option value="B130524824_1_1_1_1_1">Russia</option><option value="B130524825_1_1_1_1_1">Rwanda</option><option value="B130524826_1_1_1_1_1">Saint Kitts and Nevis</option><option value="A130525960_1_1_1_1_1">Saint Lucia</option><option value="B130524827_1_1_1_1_1">Saint Vincent and the Grenadin ...</option><option value="A130525961_1_1_1_1_1">Samoa</option><option value="A130525962_1_1_1_1_1">San Marino</option><option value="B130524828_1_1_1_1_1">Sao Tome and Principe</option><option value="B130524829_1_1_1_1_1">Saudi Arabia</option><option value="A130515205_1_1_1_1_1">Scotland</option><option value="A130525963_1_1_1_1_1">Senegal</option><option value="A130525964_1_1_1_1_1">Seychelles</option><option value="A130525966_1_1_1_1_1">Sierra Leone</option><option value="B130524830_1_1_1_1_1">Singapore</option><option value="A130525967_1_1_1_1_1">Slovakia</option><option value="B130524831_1_1_1_1_1">Slovenia</option><option value="A130525968_1_1_1_1_1">Solomon Islands</option><option value="A130525969_1_1_1_1_1">Somalia</option><option value="B130524832_1_1_1_1_1">South Africa</option><option value="A130525965_1_1_1_1_1">South Georgia and the South Sa ...</option><option value="A130525970_1_1_1_1_1">Spain</option><option value="A130525971_1_1_1_1_1">Sri Lanka</option><option value="A130525972_1_1_1_1_1">St. Helena</option><option value="A130525973_1_1_1_1_1">St. Pierre and Miquelon</option><option value="B130524833_1_1_1_1_1">Sudan</option><option value="A130525974_1_1_1_1_1">Suriname</option><option value="A130525975_1_1_1_1_1">Svalbard and Jan Mayen Islands</option><option value="B130524834_1_1_1_1_1">Swaziland</option><option value="B130524835_1_1_1_1_1">Sweden</option><option value="A130525976_1_1_1_1_1">Switzerland</option><option value="B130524836_1_1_1_1_1">Syria</option><option value="A130525977_1_1_1_1_1">Taiwan</option><option value="A130525978_1_1_1_1_1">Tajikistan</option><option value="B130524837_1_1_1_1_1">Tanzania</option><option value="B130524838_1_1_1_1_1">Thailand</option><option value="B130524839_1_1_1_1_1">Togo</option><option value="B130524840_1_1_1_1_1">Tokelau</option><option value="A130525979_1_1_1_1_1">Tonga</option><option value="B130524841_1_1_1_1_1">Trinidad and Tobago</option><option value="B130524842_1_1_1_1_1">Tunisia</option><option value="A130525980_1_1_1_1_1">Turkey</option><option value="B130524843_1_1_1_1_1">Turkmenistan</option><option value="A130525981_1_1_1_1_1">Turks and Caicos Islands</option><option value="A130525982_1_1_1_1_1">Tuvalu</option><option value="B130524844_1_1_1_1_1">Uganda</option><option value="B130524845_1_1_1_1_1">Ukraine</option><option value="A130525983_1_1_1_1_1">United Arab Emirates</option><option value="B130524846_1_1_1_1_1">United States</option><option value="A130525985_1_1_1_1_1">Uruguay</option><option value="A130525986_1_1_1_1_1">US Minor Outlying Islands</option><option value="B130524848_1_1_1_1_1">Uzbekistan</option><option value="B130524849_1_1_1_1_1">Vanuatu</option><option value="B130524850_1_1_1_1_1">Vatican City State (Holy Sea)</option><option value="A130525987_1_1_1_1_1">Venezuela</option><option value="B130524851_1_1_1_1_1">Vietnam</option><option value="A130525988_1_1_1_1_1">Virgin Islands (British)</option><option value="B130524852_1_1_1_1_1">Virgin Islands (U.S.)</option><option value="A130515711_1_1_1_1_1">Wales</option><option value="B130524853_1_1_1_1_1">Wallis and Futuna Islands</option><option value="A130525989_1_1_1_1_1">Western Sahara</option><option value="A130525990_1_1_1_1_1">Yemen</option><option value="A130525991_1_1_1_1_1">Yugoslavia</option><option value="B130524854_1_1_1_1_1">Zaire</option><option value="A130525992_1_1_1_1_1">Zambia</option><option value="B130524855_1_1_1_1_1">Zimbabwe</option>			</select>
 		
 			
 			<div class="clear padT10"> 
 				By signing up you acknowledge you have read and agreed to our <a href="http://www.koolred.com/terms.php" target="_blank">Terms of Use</a> and <a href="http://www.koolred.com/privacy_policy.php" target="_blank">Privacy Policy</a>.
 			</div> 
 			<div class="clear padT10 alignCenter"> 
-				<input type="submit" class="button" id="signup-submit" value="Sign Up">&nbsp;&nbsp;
-				<input type="button" class="button" id="signup-later" value="Cancel">
+				<input type="submit" class="button" value="Sign Up">&nbsp;&nbsp;
+				<input type="button" class="button" id="signup-cancel" value="Cancel">
 			</div>
 		</form>	
         </div>
@@ -291,25 +280,24 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
         <div class="clear"></div>
         
             <div class="col1">
-            	<ul id="inline" class="actionCont">
-        		<li><input type="checkbox" class="radiobtn" name="remember_me" id="remember_me" value="1">&nbsp;</li>
-                <li class="font10"><label for="remember_me">Remember me</label>&nbsp;&nbsp;</li>       
-     			 </ul>  	
-	        </div>
+            	<ul class="inline actionCont">
+        		<li><input type="checkbox" class="radiobtn" name="remember_me" id="signup-remember-me" checked="checked">&nbsp;</li>
+			<li class="font10"><label for="signup-remember-me">Remember me</label>&nbsp;&nbsp;</li>
+		</ul>  	
+	    </div>
             
             <div class="col2">
             <input name="Login" type="submit" class="button btn50" value="Login">
 			<input type="hidden" name="redirect" value="/privacy_policy.php">
-        	
-	        	<!--<input type="submit" class="button" id="signup-submit" value="Login" />-->
+			<input type="hidden" name="this-is-kool-p" id="this-is-kool-p" value="">
 	        </div>
         </form>
 	</div>
 		
 		<div id="signup-merge-form" style="display: none;">		
-		<form action="javascript:return false;" onsubmit="javascript:return false;" method="POST" autocomplete="on" required="required">
+		<form action="javascript:return false;" onsubmit="javascript:return false;" method="POST" autocomplete="on">
 			
-			<input name="email_address" type="hidden" id="email_address" class="emailField" readonly="">
+			<input name="email_address" type="hidden" class="emailField">
 			
 			<div class="clear"></div>
 			
@@ -318,10 +306,10 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 			<input name="password" type="password" value="" autofocus="">&nbsp;&nbsp;
 			<a href="/forgot_password.php" target="_blank" class="font10">Forgot password?</a>
 			
-			<div class="clear padT10" id="merge-msg">
+			<div class="clear padT10" id="merge-msg-general">
 			</div> 
 			<div class="clear padT10 alignCenter"> 
-				<input type="submit" class="button" id="signup-submit" value="Login">
+				<input type="submit" class="button" value="Login">
 			</div>
 		</form>
 		</div>
@@ -329,29 +317,18 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 	
 	
         
-	<div id="divider"><img src="/images/but_or3.gif"></div>
+	<div id="divider"><img alt="" src="http://cdn1.koolred.com/images/2011081801/but_or3.gif"></div>
     
     <div id="connectCol"><h3>Connect to Koolred via:</h3>
-    <ul id="inline">
+    <ul class="inline">
     <li class="marLR10">
-     <a href="#" onclick="return popNewWindow('/mod/twitter/connect')" alt="Connect with Twitter" class="nobg">
-	 <img src="/images/but_twitterconnect.gif" title="Connect with Twitter">
+     <a href="#" onclick="return popNewWindow('/mod/twitter/connect')" class="nobg">
+	 <img src="http://cdn0.koolred.com/images/2011081801/but_twitterconnect.gif" alt="Connect with Twitter" title="Connect with Twitter">
 	 </a>
 	</li>
 	<li class="nobg">
-          <div id="fb-root">
-              <script src="http://connect.facebook.net/en_US/all.js"></script>
-              <script>
-                   var $jQ = jQuery.noConflict();
-                      FB.init({
-                      appId:'111181778906456',
-                      cookie:true,
-                      xfbml:true
-                      });
-              </script>
-
-              <fb:login-button perms="email, user_birthday, offline_access" size="small" onlogin="window.location.href='http://www.koolred.com/mod/facebook/connect'">Connect</fb:login-button>
-         </div>
+		<div id="fb-root-quick-signup"></div>
+		<fb:login-button perms="email, user_birthday, offline_access" size="small" onlogin="window.location.href='http://www.koolred.com/mod/facebook/connect'">Connect</fb:login-button>
 	</li>
     </ul>
     <div class="clear"></div>
@@ -368,7 +345,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
     
     <div class="clear"></div>
 	</div>
-    <div class="modalBoxBottom clear"></div>
+    <div class="modalBoxBottom  modalSignupCorner clear"></div>
 </div>
 
 <script>
@@ -377,9 +354,32 @@ $jQ(document).ready(function(){
 
 	var dividerHeight = $jQ("#divider").css('height');
 	var dividerPaddingTop = $jQ("#divider").css('padding-top');
+
+	function getPos(idNAME,type){
+
+		var winWidth = $jQ(window).width();
+		var winHeight = $jQ(window).height();
+		var alertWidth = $jQ('#'+idNAME).width();
+		var alertHeight = $jQ('#'+idNAME).height();
+
+		if(type=='x'){
+			val = ($jQ(document).scrollLeft()-(winWidth/2)) + ((winWidth/2)-(alertWidth/2));
+		}
+		else if(type=='y'){
+                        val = ($jQ(document).scrollTop()-(winHeight/2)) + ((winHeight/2)-(alertHeight/2));
+                }
+		return val;
+	}
+
+
 	$jQ("a#quick-signup").click(function(e){
 		e.preventDefault();
-		$jQ("#signup-box").slideDown();
+                var x,y;
+                x = getPos('signup-box','x');
+                y = getPos('signup-box','y');
+                $jQ('#signup-box').css('margin-top',y);
+                $jQ('#signup-box').css('margin-left',x);
+		$jQ("#signup-box").show();
 		$jQ("#sub-link-login").show();
 		$jQ("#sub-link-signup").hide();
 		$jQ("#loginCol").hide();//div for login n process login
@@ -393,7 +393,7 @@ $jQ(document).ready(function(){
 
 	$jQ("a#quick-signup2").click(function(e){
 		e.preventDefault();
-		$jQ("#signup-box").slideDown();
+		$jQ("#signup-box").show();
 		$jQ("#sub-link-login").show();
 		$jQ("#sub-link-signup").hide();
 		$jQ("#loginCol").hide();//div for login n process login
@@ -440,19 +440,25 @@ $jQ(document).ready(function(){
 		$jQ("#signupCol").hide();
 		$jQ("#loginCol").show();
 		$jQ("#signup-modal").height($jQ(document).height());
+		var x,y;
+                x = getPos('signup-box','x');
+                y = getPos('signup-box','y');
+                $jQ('#signup-box').css('margin-top',y);
+                $jQ('#signup-box').css('margin-left',x);
 		$jQ("#divider").height(100);
 		$jQ("#divider").css('vertical-align','top');
 		$jQ("#divider").css('padding-top','75px');
 		$jQ("#sub-link-signup").show();
 		$jQ("#sub-link-login").hide();
-		$jQ("#signup-box").slideDown();
-		$jQ("#signup-modal").fadeIn(function(){});
+		$jQ("#signup-box").show();
+		$jQ("#signup-modal").fadeIn();
 		$jQ("#useremail").focus();
 
         });
 		
-	$jQ("#signup-modal, #signup-later").click(function(){
-		$jQ("#signup-box").slideUp();
+	$jQ("#signup-modal, #signup-later, #signup-cancel").click(function(e){
+		e.preventDefault();
+		$jQ("#signup-box").hide();
 		$jQ("#signup-modal").fadeOut();
 	});
 	
@@ -509,7 +515,7 @@ $jQ(document).ready(function(){
 				$jQ("#signup-form, #signup-twitter").hide();
 				$jQ("span#signup-form-title").html("Login");
 				$jQ("#signup-twitter-merge, #signup-merge-form").fadeIn();
-				$jQ("div#merge-msg").html("Once you click Login, you acknowledge that your Twitter account will be added to your Koolred account.");
+				$jQ("div#merge-msg-twitter").html("Once you click Login, you acknowledge that your Twitter account will be added to your Koolred account.");
 				$jQ("#signup-twitter-merge form input[name=email_address]").val($jQ("#signup-form form input[name=email_address]").val());
 				$jQ("#signup-twitter-merge .email").html($jQ("#signup-form form input[name=email_address]").val());
 				
@@ -519,7 +525,7 @@ $jQ(document).ready(function(){
 				$jQ("#signup-form, #signup-facebook").hide();
 				$jQ("span#signup-form-title").html("Login");
 				$jQ("#signup-facebook-merge, #signup-merge-form").fadeIn();
-				$jQ("div#merge-msg").html("Once you click Login, you acknowledge that your Facebook account will be added to your Koolred account.");
+				$jQ("div#merge-msg-facebook").html("Once you click Login, you acknowledge that your Facebook account will be added to your Koolred account.");
 				$jQ("#signup-facebook-merge form input[name=email_address]").val($jQ("#signup-form form input[name=email_address]").val());
 				$jQ("#signup-facebook-merge .email").html($jQ("#signup-form form input[name=email_address]").val());
 				
@@ -572,7 +578,7 @@ $jQ(document).ready(function(){
 				$jQ("#signup-facebook, #signup-twitter, #signup-merge-form, #signup-twitter-merge, #signup-form-return").hide();
 				$jQ("#signup-success-merge-twitter").fadeIn();
 				
-				$jQ("#signup-success-merge-twitter #signup-success-close").click(function(){
+				$jQ("#signup-success-merge-twitter #signup-twitter-success-close").click(function(){
 					$jQ("#signup-modal").fadeOut();
 					$jQ("#signup-box").slideUp();
 					window.location.href = "/me";
@@ -583,7 +589,7 @@ $jQ(document).ready(function(){
 				$jQ("#signup-facebook, #signup-twitter, #signup-merge-form, #signup-facebook-merge, #signup-form-return").hide();
 				$jQ("#signup-success-merge-facebook").fadeIn();
 				
-				$jQ("#signup-success-merge-facebook #signup-success-close").click(function(){
+				$jQ("#signup-success-merge-facebook #signup-facebook-success-close").click(function(){
 					$jQ("#signup-modal").fadeOut();
 					$jQ("#signup-box").slideUp();
 					window.location.href = "/me";
@@ -604,37 +610,56 @@ $jQ(document).ready(function(){
 });
 </script>
 <div id="container">
+	
 	<div id="secondaryLink">
 
-		<ul id="inline">
+		<ul class="inline">
 			<li>
-			<a href="/mobile/mobile.php">Mobile</a> | 			<a id="quick-signup" href="#">Sign Up</a> | <a id="quick-login" href="#">Login</a>
+			<a href="/mobile/mobile.php">Mobile</a> | 
+			<a id="quick-signup" href="#">Sign Up</a> | <a id="quick-login" href="#">Login</a>
 
 			</li>
 			<li class="marLR10">
-                                <a href="#" onclick="return popNewWindow('/mod/twitter/connect')" alt="Connect with Twitter">
-					<img src="/images/but_twitterconnect.gif" title="Connect with Twitter">
+                                <a href="#" onclick="return popNewWindow('/mod/twitter/connect')">
+					<img src="http://cdn0.koolred.com/images/2011081801/but_twitterconnect.gif" alt="Connect with Twitter" title="Connect with Twitter">
 				</a>
 			</li>
 			<li>
-                                <div id="fb-root">
-                                        <script src="http://connect.facebook.net/en_US/all.js"></script>
-                                        <script>
-                                                var $jQ = jQuery.noConflict();
-                                                FB.init({
-                                                        appId:'111181778906456',
-                                                        cookie:true,
-                                                        xfbml:true
-                                                });
-                                        </script>
+                                <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+				<fb:login-button perms="email, user_birthday, offline_access" size="small" onlogin="window.location.href='http://www.koolred.com/mod/facebook/connect'">Connect</fb:login-button>
+				<script>
+					window.fbAsyncInit = function() {
+						FB.init({
+							appId:'111181778906456',
+							cookie:true,
+							xfbml:true
+						});
+					};
 
-                                        <fb:login-button perms="email, user_birthday, offline_access" size="small" onlogin="window.location.href='http://www.koolred.com/mod/facebook/connect'">Connect</fb:login-button>
-                                </div>
+					(function() {
+						 var e = document.createElement('script');
+						 e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+						 e.async = true;
+						 document.getElementById('fb-root').appendChild(e);
+					 }());
+				</script>
 			</li>
+            
+            <li>
+            	<div class="twitter">
+                <a href="http://twitter.com/koolred" class="twitter-follow-button" data-show-count="false">Follow @twitter</a>
+            	<script src="http://platform.twitter.com/widgets.js" type="text/javascript" defer="defer"></script>
+              </div>
+            </li>
+
+
 		</ul>
 
 </div>
-<div id="logo"><a href="http://www.koolred.com"><img src="/images/logo.gif" alt="Koolred"></a></div>
+<div id="logo"><a href="http://www.koolred.com"><img src="http://cdn0.koolred.com/images/2011081801/logo.gif" alt="Koolred"></a></div>
+	<div id="contestCont" style="display:none;">
+    	<a href="http://www.koolred.com/contest/travel_video_contest.php"><img src="http://cdn1.koolred.com/images/2011081801/icon_contest.gif" title="Travel Video Contest"></a>
+    </div>
 <div class="clear"></div>
 <div id="nav">
 
@@ -642,69 +667,36 @@ $jQ(document).ready(function(){
 <li class="home"><a href="/">Home</a></li>
 
 <li class=""><a href="/me">Me!</a></li>
-<li class="dividerNav"></li><li class=""><a href="/travel">Travel</a></li>
-<li class="dividerNav"></li><li class=""><a href="/photos">Photos</a></li>
-<li class="dividerNav"></li><li class=""><a href="/videos">Videos</a></li>
-<li class="dividerNav"></li><li class=""><a href="/events">Events</a></li>
-<li class="dividerNav"></li><li class=""><a href="/forum">Forum</a></li>
-<li class="dividerNav"></li><li class=""><a href="/redsters">Redsters</a></li>
-<li class="dividerNav"></li><li class=""><a href="#more" class="menuanchorclass" rel="anylinkmenu1">More&nbsp;<img src="/images/arrow_nav2.gif"></a></li>
+<li class="dividerNav"></li>
+<li class=""><a href="/travel">Travel</a></li>
+<li class="dividerNav"></li>
+<li class=""><a href="/photos">Photos</a></li>
+<li class="dividerNav"></li>
+<li class=""><a href="/videos">Videos</a></li>
+<li class="dividerNav"></li>
+<li class=""><a href="/groups">Groups</a></li>
+<li class="dividerNav"></li>
+<li class=""><a href="/events">Events</a></li>
+<li class="dividerNav"></li>
+<li class=""><a href="/blog">Blogs</a></li>
+<li class="dividerNav"></li>
+<li class=""><a href="/forum">Forum</a></li>
+<li class="dividerNav"></li>
+<li class=""><a href="/redsters">Redsters</a></li>
+<li class="dividerNav"></li>
+<li class=""><a href="#more" class="menuanchorclass" data-rel="anylinkmenu1">More&nbsp;<img src="http://cdn1.koolred.com/images/2011081801/arrow_nav2.gif" alt=""></a></li>
 
 </ul>
 
-
 <form id="searchBox" method="get" action="/search/index.php">
 <div class="searchCont">
-	<ul id="inline"><li><input id="search" name="search" value="Search" size="20" onfocus="if(this.form.search.value=='Search'){this.form.search.value=''}" onblur="if(this.form.search.value==''){this.form.search.value='Search'}"></li>
-	 <li><input type="image" src="/images/icon_search.gif" alt="Search" id="searchButton"></li>
+	<ul class="inline"><li><input id="search" name="search" value="Search" size="20" onfocus="if(this.form.search.value=='Search'){this.form.search.value=''}" onblur="if(this.form.search.value==''){this.form.search.value='Search'}"></li>
+	 <li><input type="image" src="http://cdn0.koolred.com/images/2011081801/icon_search.gif" alt="Search" id="searchButton"></li>
     </ul>
 </div>
 </form>
 
 </div>
-
-
-<form name="loginForm" id="loginForm" method="post" action="/process/process_login.php">
-<div id="login">
-	<div class="loginCont">
-	<ul id="inline">
-	<li class="padT2">Email Address &nbsp;</li>
-        <li><input name="useremail" type="text" size="18" class="loginInput">&nbsp;&nbsp;&nbsp;</li>
-        <li class="padT2">Password&nbsp; </li><li class="left"><input name="userpassword" type="password" size="10" maxlength="20" class="loginInput">&nbsp;&nbsp;&nbsp;</li>
-        <li class="padT2 font10"><a href="/forgot_password.php">Forgot password?</a></li>
-    </ul>
-    <div class="clear"></div>
-    <ul id="inline" class="actionCont">
-        <li><input type="checkbox" class="radiobtn" name="remember_me" id="remember_me" value="1">&nbsp;</li>
-               <li class="font10"><label for="remember_me">Remember me</label>&nbsp;&nbsp;</li>
-
-        <li><input name="Login" type="submit" class="button btn50" value="Login">
-		<input type="hidden" name="redirect" value="/privacy_policy.php">
-        &nbsp;&nbsp;</li>        
-      </ul>
-    </div><div class="clear"></div>
-</div>
-<script>
-
-	$jQ("#login").hide();
-	$jQ("#login_link").click(function() {
-
-		if ($jQ("#login").is(':hidden')) {
-
-			$jQ("#login").show("blind");
-
-		}
-	});
-
-        function popNewWindow(url) {
-                var left = (screen.width/2)-(800/2);
-                var top = (screen.height/2)-(420/2);
-                var newwindow=window.open(url,'login-popup','width=800,height=420,top='+top+',left='+left+',scrollbars=no,status=no,titlebar=no,toolbar=no,menubar=no,location=no');
-        }
-
-</script>
-</form>
-
 
 <div class="clear padT5"></div>
 <div id="holder770"><div class="padT5"></div></div>
@@ -907,15 +899,10 @@ Users with questions about this Privacy Policy and any of the abovementioned sta
 </div>
 
 <!--footer-->
-<script>
-	var myuserid="";
-	var myfirstlastname="";
-</script>
-
-<div id="footer">
+<div class="footer">
 	<div class="container">
 
-  <ul id="inline">
+  <ul class="inline">
   <li><a href="/">Home</a> </li>
   <li class="divider"></li>
   <li><a href="/mobile/mobile.php">Mobile</a></li>
@@ -924,11 +911,7 @@ Users with questions about this Privacy Policy and any of the abovementioned sta
   <li class="divider"></li>
   <li><a href="http://www.koolred.com/blog/viewblog.php?blog=A130515089_1_1_1_1_1">Blog</a></li>
   <li class="divider"></li>
-  <li><a href="/careers">Careers</a></li>
-  <li class="divider"></li>
-  <li><a href="/faqs/faqs.php">FAQs</a></li>
-  <li class="divider"></li>
-  <li><a href="/contest/index.php">Contests</a></li>
+  <li><a href="/faqs/">FAQs</a></li>
   <li class="divider"></li>
   <li><a href="/site_tour.php">Take A Tour</a></li>
   <li class="divider"></li>
@@ -940,16 +923,43 @@ Users with questions about this Privacy Policy and any of the abovementioned sta
   <li class="divider"></li>
   <li><a href="/terms.php">Terms of Use</a></li>
   </ul>
-  <div class="twitter">
-  	<ul id="inline"><li>Follow us on&nbsp;</li><li><a href="http://www.twitter.com/koolred" target="_blank"><img src="/images/icon_twitter.gif"></a></li></ul>
-  </div>
-  <img src="/images/spacer.gif">
+  
+  <img alt="" src="http://cdn0.koolred.com/images/2011081801/spacer.gif">
   <div class="clear"></div>
       Copyright © 2011 Koolred Sdn. Bhd. All rights reserved.</div>  		
   <div class="clear"></div>
 
 </div>
+
 <script>
+
+	var myfirstlastname = '';
+
+	// Helper functions
+	function textCounter(field,cntfield,maxlimit) {
+
+		if (field.value.length > maxlimit)
+			field.value = field.value.substring(0, maxlimit);
+		else
+			cntfield.value = maxlimit - field.value.length;
+
+	}
+
+	function defaultText(field,deftext) {
+
+		if(field.value == deftext)
+			field.value = '';
+
+	}
+
+	function MM_jumpMenu(targ,selObj,restore){
+
+		eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+
+		if (restore)
+			selObj.selectedIndex=0;
+
+	}
 
 	function showUnsupportedBrowserMsg() {
 
@@ -958,62 +968,47 @@ Users with questions about this Privacy Policy and any of the abovementioned sta
 
 	}
 
-	var browser = BrowserDetect.browser;
-	var version = BrowserDetect.version;
+        $jQ(document).ready(function(){
 
-	if (browser === "Chrome") {
+		var myfirstlastname="";
+		soundManager.url="http://www.koolred.com/talk/sounds/";
 
-		if (version < 3) {
+		var browser = BrowserDetect.browser;
+		var version = BrowserDetect.version;
 
+		if (browser === "Chrome" && version < 3)
 			showUnsupportedBrowserMsg();
 
-		}
-	}
-
-	if (browser === "Safari") {
-
-		if (version < 3) {
-
+		if (browser === "Safari" && version < 3)
 			showUnsupportedBrowserMsg();
 
-		}
-	}
-
-	if (browser === "Mozilla") {
-
-		if (version < 1.9) {
-
+		if (browser === "Mozilla" && version < 1.9)
 			showUnsupportedBrowserMsg();
 
-		}
-	}
-
-	if (browser === "Firefox") {
-
-		if (version < 3) {
-
+		if (browser === "Firefox" && version < 3)
 			showUnsupportedBrowserMsg();
 
-		}
-	}
-
-	if (browser === "Explorer") {
-
-		if (version < 6) {
-
+		if (browser === "Explorer" && version < 6)
 			showUnsupportedBrowserMsg();
 
-		}
-	}
-
-	if (browser === "Opera") {
-
-		if (version < 9.8) {
-
+		if (browser === "Opera" && version < 9.8)
 			showUnsupportedBrowserMsg();
 
-		}
-	}
+		$jQ("#login").hide();
+
+		$jQ(".thisIsKool").live("click", function(e){
+
+			e.preventDefault();
+			var koolsection = $jQ(this).data('kool-section');
+			var koolcontent = $jQ(this).data('kool-content');
+			var koolreverse = $jQ(this).data('kool-reverse');
+
+			$jQ("input#this-is-kool-p").val(koolsection + "|" + koolcontent + "|" + koolreverse)
+                        $jQ("a#quick-login").trigger("click");
+
+
+		});
+	});
 
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', 'UA-12443106-1']);
@@ -1024,15 +1019,30 @@ Users with questions about this Privacy Policy and any of the abovementioned sta
 		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	})();
-
-var addthis_config = {
-	username: "koolred",
-	data_track_clickback: true,
-	data_track_linkback: true
-};
 </script>
-<script src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
+
+				<div id="fb-root"></div>
+                                <script>
+                                        window.fbAsyncInit = function() {
+                                                FB.init({
+                                                        appId:'111181778906456',
+                                                        cookie:true,
+                                                        xfbml:true
+                                                });
+
+						_ga.trackFacebook();
+                                        };
+
+                                        (function() {
+                                                 var e = document.createElement('script');
+                                                 e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+                                                 e.async = true;
+						document.getElementById('fb-root').appendChild(e);
+                                         }());
+                                </script>
+
 <!--end footer-->
+
 
 
 </body></html>
