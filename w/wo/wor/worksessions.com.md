@@ -1,35 +1,6 @@
-> *The following text is extracted and transformed from the worksessions.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329174907id_/http%3A//www.worksessions.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worksessions.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120165713id_/http%3A//www.worksessions.com/privacy_policy.html) for the most accurate reproduction.*
 
-# WorkSessions - Privacy Policy
-
-|  |  [H   O   M   E](http://www.worksessions.com/)  
----  
-  
-## [**Songs**](http://www.worksessions.com/songs/)
-
-  
-Browse new music being promoted in real-time.   
-  
-## [**DJs**](http://www.worksessions.com/djs.html)
-
-  
-Apply now to download new and exclusive songs.   
-  
-## [**Record Labels**](http://www.worksessions.com/record_labels/upload.cgi)
-
-  
-Upload songs and instantly achieve worldwide airplay.   
-  
-## [**Search**](http://www.worksessions.com/search/)
-
-  
-Find songs by artist, title, genre, BPM and more.   
-  
-## [**Contact Us**](http://www.worksessions.com/contact/)
-
-  
-Submit questions, comments and feedback.   
-| 
+# WorkSessions Record Pool - Privacy Policy
 
 This is the website of the WorkSessions Digital Record Pool located online at http://www.worksessions.com. WorkSessions is abbreviated as "we" and "us" in the following privacy policy. 
 
@@ -65,4 +36,4 @@ We always use industry-standard encryption technologies when transferring and re
 
 Thank you for taking the time to read this privacy policy. We intend to abide by this policy at all times. 
 
-|  | 
+[**Unlimited website design and programming for only $40 per month.**](http://www.websiteretainer.com/)
