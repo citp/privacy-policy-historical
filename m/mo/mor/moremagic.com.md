@@ -1,18 +1,17 @@
-> *The following text is extracted and transformed from the moremagic.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605161156id_/http%3A//moremagic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moremagic.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120031117id_/http%3A//www.moremagic.com/index.php%3FcID%3D252) for the most accurate reproduction.*
 
-# More Magic Solutions, Inc.
+# More Magic :: Privacy Policy
 
-**Data Protection and Privacy Statement**  
-We respect your privacy and are committed to protecting it. We recognize your need for appropriate protection and management of the personal information we learn about you while you visit our site. This privacy policy lets you know how we will use and protect that information. The information that we receive depends on what you do during your visit, and what service(s) you request.
+MoreMagic Solultions, Inc. believes strongly in protecting your privacy and the confidentiality of personal information collected from you through the use of this website.
 
-**Non-Identifying Information**  
-We may collect information about our customers, sales, traffic patterns and related site information. This information helps us evaluate and improve our site and is sometimes useful for marketing and investment analysis. We may share this information with reputable third parties, but only in aggregate statistical form that includes no personally identifying information.
+**Collection, Use and Disclosure of Personal Information**
 
-**Personal Information**  
-Throughout this website you may have an opportunity to send us information relating to you such as through the "contact us" pages or any other area where you may send e-mails, submit your CV, request newsletters or provide feedback. By choosing to participate in these, you will be providing us with some level of personal information relating to you. This information will only be used by MoreMagic for the purposes for which it was provided by you.
+We may ask you to submit personal details when requesting a service or information, or participating in a forum or survey. This personal information, which you voluntarily submit, will be used to contact you, or send you information you have requested or that we feel will be of interest to you. We may contact you via phone, email or post. If we send you a promotional or marketing based email, we will include an option to unsubscribe in the email.
 
-**Use of "Cookies"**  
-Cookies are small files Web sites place on your hard drive that allow sites to identify you. The use of cookies is a common practice on many Web sites. For example, if you allow a site to remember your login name or password, the site places a cookie on your computer. Cookies cannot read any other information on your hard drive. We may place cookies on your computer to allow us to identify you. We may use cookies to measure Web traffic, to offer you certain services and to customize your visit. However, if you do not wish to receive cookies, or want to be notified of when they are placed, your browser may permit you to do so.
+**Disclosure of Information**
 
-**Security**  
-We will take reasonable steps to protect the information you share with us from unauthorized access or disclosure.
+MoreMagic does not sell or otherwise market personal or confidential information to third parties. We do however use third parties (including contractors and service providers) to help with certain aspects of our business, which may require disclosure of your personal information to them. MoreMagic requires these third parties to use your personal information only to the extent necessary to accomplish the purpose for which your information was submitted. Third parties to whom we disclose information are required to keep your personal information confidential and secure.
+
+**Linked Sites**
+
+Some hyperlinks may be posted on this website that link to other websites not under our control. We are not responsible for, and this Privacy Policy does not apply to, the privacy practices of those websites. We encourage you to seek out and read the privacy policy of each website that you visit.
