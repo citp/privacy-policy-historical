@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myadsclassified.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523055611id_/http%3A//www.myadsclassified.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myadsclassified.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120073527id_/http%3A//www.myadsclassified.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Myadsclassified.com
 
