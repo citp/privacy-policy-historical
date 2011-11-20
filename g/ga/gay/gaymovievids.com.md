@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gaymovievids.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501121636id_/http%3A//www.gaymovievids.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaymovievids.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120100402id_/http%3A//gaymovievids.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy at Gay Movie Vids
+# Privacy at Gay Movie Tube
 
 AE Media Group recognizes that its customers, visitors, users, and others who use Gay Movie Vids value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the Gay Movie Vids site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site. 
 
