@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telegram.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522201133id_/http%3A//www.telegram.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telegram.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120020211id_/http%3A//www.telegram.com/privacypolicy) for the most accurate reproduction.*
 
 # Worcester Telegram & Gazette - telegram.com - Privacy policy
 
@@ -65,6 +65,3 @@ You have choices about the collection of information by third parties on our Sit
 2) If you would like to opt-out of having interest-based information collected during your visits to this or other sites, [click here.](http://www.aboutads.info/choices/)
 
 Your access to telegram.com will not be affected if you do not accept cookies served by third parties. 
-
-  
-
