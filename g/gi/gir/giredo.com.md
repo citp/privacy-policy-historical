@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giredo.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514181723id_/http%3A//giredo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giredo.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120093004id_/http%3A//giredo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Giredo.com
 
