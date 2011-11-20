@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the targetsportsusa.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522184524id_/http%3A//www.targetsportsusa.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the targetsportsusa.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120143026id_/http%3A//www.targetsportsusa.com/t-privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy at ProAmmo.com
+# Privacy Policy Details | Target Sports USA.com
 
 ###  TargetSportsUSA.com Privacy Policy
 
@@ -14,7 +14,7 @@ This Privacy Policy applies to website operated by Delmic Enterprise LLC and its
 
 ### Information We Collect and How We Use It
 
-TargetSportsUSA.com collects information, including personal information, which you provide to us when you visit our website. Personal information includes information that can identify you such as your full name, your e-mail address or postal address, birth date, payment details, product references and purchasing history.
+TargetSportsUSA.com collects information, including personal information, which you provide to us when you visit our website. Personal information includes information that can identify you such as your full name, your e-mail address or postal address, birth date, payment details, product references and purchasing history. 
 
 TargetSportsUSA.com collects and uses your personal information to conduct business with you and to improve your experience with us. Some examples include: 
 
@@ -103,6 +103,6 @@ Telephone: 1-800-511-8220
 
 **Popular Ammunition Manufacturers**
 
- **[Black Hills Ammunition](http://targetsportsusa.com/m-30-black-hills-ammunition.aspx) | [Brenneke USA Ammo](http://targetsportsusa.com/m-34-brenneke-usa.aspx) | [Buffalo Bore Ammo](http://targetsportsusa.com/m-35-buffalo-bore.aspx) | [CCI Ammunition](http://targetsportsusa.com/m-29-cci-ammunition.aspx) | [Cor-Bon Ammo](http://targetsportsusa.com/m-26-cor-bon-ammunition.aspx)**
+**[Black Hills Ammunition](http://targetsportsusa.com/m-30-black-hills-ammunition.aspx) | [Brenneke USA Ammo](http://targetsportsusa.com/m-34-brenneke-usa.aspx) | [Buffalo Bore Ammo](http://targetsportsusa.com/m-35-buffalo-bore.aspx) | [CCI Ammunition](http://targetsportsusa.com/m-29-cci-ammunition.aspx) | [Cor-Bon Ammo](http://targetsportsusa.com/m-26-cor-bon-ammunition.aspx)**
 
- **[Estate Cartridge Ammo](http://targetsportsusa.com/m-61-estate-cartridge.aspx) | [Federal Ammunition](http://targetsportsusa.com/m-38-federal-ammunition.aspx) | [Hornady Ammo](http://targetsportsusa.com/m-31-hornady-ammo.aspx) | [Independence Ammo](http://targetsportsusa.com/m-39-independence-ammunition.aspx) | [Magtech Ammo](http://targetsportsusa.com/m-82-magtech-ammo.aspx)**
+**[Estate Cartridge Ammo](http://targetsportsusa.com/m-61-estate-cartridge.aspx) | [Federal Ammunition](http://targetsportsusa.com/m-38-federal-ammunition.aspx) | [Hornady Ammo](http://targetsportsusa.com/m-31-hornady-ammo.aspx) | [Independence Ammo](http://targetsportsusa.com/m-39-independence-ammunition.aspx) | [Magtech Ammo](http://targetsportsusa.com/m-82-magtech-ammo.aspx)**
