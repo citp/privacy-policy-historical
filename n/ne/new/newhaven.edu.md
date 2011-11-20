@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newhaven.edu privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523055520id_/http%3A//www.newhaven.edu/4027) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newhaven.edu privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120073757id_/http%3A//www.newhaven.edu/4027) for the most accurate reproduction.*
 
 # University of New Haven : Privacy Statement
 
