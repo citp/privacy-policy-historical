@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaroncute.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519091844id_/http%3A//www.aaroncute.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaroncute.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120151228id_/http%3A//aaroncute.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
