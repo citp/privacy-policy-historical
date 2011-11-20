@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the badimg.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523100245id_/http%3A//badimg.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the badimg.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120235225id_/http%3A//badimg.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Bad IMG » More Information » Privacy Policy
 
