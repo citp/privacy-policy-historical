@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lindtusa.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523062648id_/http%3A//www.lindtusa.com/info-exec/display/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lindtusa.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120080636id_/http%3A//www.lindtusa.com/info-exec/display/privacy_policy) for the most accurate reproduction.*
 
 # Lindt
 
