@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drleonards.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523063637id_/http%3A//www.drleonards.com/content/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drleonards.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120183340id_/http%3A//www.drleonards.com/content/index.cfm%3Ffuseaction%3Dprivacy) for the most accurate reproduction.*
 
 # DrLeonards.com | Privacy Policy
 
