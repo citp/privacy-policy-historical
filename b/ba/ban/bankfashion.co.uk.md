@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankfashion.co.uk privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630220111id_/http%3A//www.bankfashion.co.uk/customer-service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankfashion.co.uk privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120120849id_/http%3A//www.bankfashion.co.uk/customer-service/privacy/%3Fcm_re%3DGlobal-_-Footer-_-privacy) for the most accurate reproduction.*
 
 # Privacy - BANK Fashion
 
