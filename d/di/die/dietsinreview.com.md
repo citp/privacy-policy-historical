@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dietsinreview.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623220302id_/http%3A//www.dietsinreview.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietsinreview.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120022534id_/http%3A//www.dietsinreview.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DietsInReview.com
 
@@ -52,7 +52,7 @@ We provide a service that allows users to add their own ratings and reviews to o
 
 DietsInReview.com owns the rights to this content and reserves the right to publish such reviews in other media formats, in its sole discretion. These user-submitted reviews are not the opinion of DietsInReview.com. 
 
-## Community Moderation 
+## Community Moderation
 
 DietsInReview.com moderates each comment and rating posted by a user on the Site to uphold the integrity of the site and ensure the safety of our users. Comments are edited to remove foul language, Web URLs and email addresses. HTML links are not permitted in comments on the Site. All comments posted on the site become the property of DietsInReview.com.
 
@@ -68,21 +68,21 @@ DietsInReview.com accepts advertisements from direct relationships, third-party 
 
 It is the policy of DietsInReview.com not to share your personally identifiable information with these advertisers without prior consent. Once you've engaged with one of these advertisers, you'll need to consult their individual privacy policies to learn about their practices. 
 
-## Cobranded and Other Affiliated Sites 
+## Cobranded and Other Affiliated Sites
 
 Certain information or services offered or provided on or through the Site from time to time may be provided on or through other sites operated by or in conjunction with third party providers (“Partners”). These sites may have the same “look and feel” of the Site, and are often cobranded, such that a Partner’s logo or name may appear on the site, or the Partner’s name may appear in the URL. Aggregate or personally identifiable information collected about you on these sites may be shared by DietsInReview.com with that Partner. A Partner will not rent, sell, or disclose any of your personally identifiable information to third parties unless you consent to its doing so, for example, by opting-in while on a particular site to receive information or offers from a Partner’s affiliates, partners, or other third parties. 
 
-## Third Party Links and Member Websites 
+## Third Party Links and Member Websites
 
 You acknowledge that we do not monitor, control or endorse the information collection or privacy practices of any third parties, any cobranded or other affiliated sites which may or may not be owned or operated by or in conjunction with DietsInReview.com, or any credit card order processors, product shippers or other third parties who provide services throughout the Site. Accordingly, DietsInReview.com assumes no liability or responsibility for the information collection and privacy practices of any third party. In addition, DietsInReview.com is not responsible for the content of any third party websites, including a third party’s use of any cookies or any other information (such as IP address, browser type or operating system) collected when you "click-through" links to their sites or view advertisements served by them. Even though certain information collected by such third parties might not identify you personally, we strongly encourage you to become familiar with their privacy practices, and to contact such third parties if you have any questions about their respective privacy policies. 
 
 In addition, the Site may provide links to other Internet websites or resources ("Linked Sites"). DietsInReview.com neither controls nor endorses such Linked Sites nor have we reviewed or approved any content that appears on such Linked Sites. You acknowledge and agree that DietsInReview.com is not responsible for the legality, accuracy or inappropriate nature of any content, advertising, products or other materials on or available from such Linked Sites. You further acknowledge and agree that DietsInReview.com shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods, and services available on or through any such Linked Site. 
 
-## Review Process 
+## Review Process
 
 DietsInReview.com employs a team of health and nutrition professionals to conduct each review published on the Site. These reviews are written in good faith that all information is accurate to the best of our knowledge. When physical reviews cannot be completed, extensive research is conducted to capture a thorough representation of the product, its benefits and disadvantages. The reviews published on the Site are the unbiased, objective opinion of DietsInReview.com. Our reviews are never influenced by third parties or advertisers, and we do not publish sponsored reviews. We aim to present the facts about a product or service and allow the user to form their own opinion. 
 
-## Security 
+## Security
 
 The Site uses reasonable security methods to protect the data that resides on our servers. However, no security system is impenetrable. DietsInReview.com cannot warrant or guarantee the security of its servers, nor can it guarantee that information that users supply will not be intercepted while being transmitted to DietsInReview.com over the Internet. If we ever ask users to enter credit card numbers, that information shall always be encrypted. 
 
