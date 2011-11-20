@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panasianbiz.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523061624id_/http%3A//www.panasianbiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panasianbiz.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120074217id_/http%3A//www.panasianbiz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PanAsianBiz
 
@@ -10,9 +10,9 @@ Our postal address is
 
  **Sunnyvale, CA 94085**
 
-We can be reached via e-mail at [Parasshuram@hotmail.com](mailto:wcbelew@gmail.com)
+We can be reached via e-mail at [wcbelew@hotmail.com](mailto:wcbelew@hotmail.com)
 
-Contact Person : Parasshuram Shalgar
+Contact Person : Bill Belew
 
 or you can reach us by telephone at 1-408-712-3268
 
