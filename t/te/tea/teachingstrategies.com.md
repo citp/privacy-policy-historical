@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachingstrategies.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522223645id_/http%3A//www.teachingstrategies.com/page/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachingstrategies.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120023111id_/http%3A//teachingstrategies.com/page/privacyPolicy.cfm) for the most accurate reproduction.*
 
 # Teaching Strategies, Inc. - Security and Privacy Policies
 
@@ -45,7 +45,7 @@ It's easy to unsubscribe from our newsletter and e-mail list, and each e-mail yo
 
 **Does Teaching Strategies Share the Information It Receives?**
 
-Information about our customers is an important part of our business. We will not sell or disclose any of the information with we collect from you to any third parties except in the following limited circumstances:
+Information about our customers is an important part of our business. We will not sell or disclose any of the information which we collect from you to any third parties except in the following limited circumstances:
 
   * We will disclose the data we collect if required to do so by law or in the good-faith belief that disclosure is necessary (a) to obey the law or comply with legal process served on us or our affiliates; (b) to protect and defend our rights or property or the rights or property of other users of our website; or (c) to act in an emergency to protect the personal safety of users of our website or the public. 
   * If we sell our company or its assets, we may transfer the data we collect to the purchaser so that the purchaser can continue to provide services to you.  The purchaser will be bound by this Privacy Policy.
