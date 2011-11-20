@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crowdflower.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518211524id_/http%3A//crowdflower.com/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdflower.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120175348id_/http%3A//crowdflower.com/general/privacy.html) for the most accurate reproduction.*
 
-# CrowdFlower
+# CML - Documentation — CrowdFlower
 
 CrowdFlower knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting the CrowdFlower site, you are accepting the practices described in this Privacy Notice.
 
