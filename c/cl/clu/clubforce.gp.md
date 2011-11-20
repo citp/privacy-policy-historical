@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubforce.gp privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121050701id_/http%3A//clubforce.gp/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubforce.gp privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120140646id_/http%3A//clubforce.gp/privacy.php) for the most accurate reproduction.*
 
 # Club Force - The F1 India Network | Force India, Formula 1, Formula One, GP, Sports, Social Network, Fans - Terms of Service
 
