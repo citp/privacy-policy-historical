@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netaxle.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521104904id_/http%3A//www.netaxle.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netaxle.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120082911id_/http%3A//www.netaxle.com/privacy.aspx) for the most accurate reproduction.*
 
 # NetAxle - Privacy Policy
 
@@ -21,6 +21,8 @@ Website Email: [info@UnderPay.biz](mailto:info@underpay.biz)
 **Cookies** \- Cookies are small bits of electronic information that a website can transfer to a visitor’s hard drive to help tailor and keep of visits to our Website.  The use of cookies is standard on the internet and many websites use them.  Cookies allow website operators to better customize visits to the site.  Although, **UnderPay** does not currently utilize cookies on our Website, our third party advertising companies may, in fact, use them from time to time. 
 
 Although most Web browsers automatically accept cookies, You can usually change Your browser to prevent that or to notify You when You are sent a cookie.  This gives You the option to accept or not accept cookies. If You would like more information on cookies, we suggest You visit <http://www.cookiecentral.com/>.
+
+**Third Party Advertising** \- UnderPay uses third-party advertising companies and advertising networks to serve ads and collect information when you visit our Website. These companies may use information about your visits to this and other websites in order to provide advertisements on this Website, other sites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 ##### Part II. Compliance with Service or Process or Law Enforcement
 
