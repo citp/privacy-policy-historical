@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coloradolottery.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522171857id_/http%3A//www.colorado.gov/cs/Satellite%3Fc%3DPage%26cid%3D1205189519981%26pagename%3DCO-Portal%252FPage%252FCXPNoCallOutLayout) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coloradolottery.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120134901id_/http%3A//www.colorado.gov/cs/Satellite%3Fc%3DPage%26cid%3D1205189519981%26pagename%3DCO-Portal%252FPage%252FCXPNoCallOutLayout) for the most accurate reproduction.*
 
 # Colorado.gov: The Official State Web Portal: Privacy Statement
 
@@ -46,9 +46,9 @@
   * STATE NEWS
     * STATE NEWS
 
-    * [Gov. Hickenlooper requests assistance for Tiffany Hartley(May 20, 2011)](https://web.archive.org/cs/Satellite?c=Page&childpagename=GovHickenlooper%2FCBONLayout&cid=1251593096009&p=1251593096009&pagename=GOVHWrapper)
-    * [Gov. Hickenlooper signs several bills(May 19, 2011)](https://web.archive.org/cs/Satellite?c=Page&childpagename=GovHickenlooper%2FCBONLayout&cid=1251593082143&p=1251593082143&pagename=GOVHWrapper)
-    * [Gov. Hickenlooper to present Governor's award for excellence in exporting to CO companies tomorrow at World Trade Day(May 17, 2011)](https://web.archive.org/cs/Satellite?c=Page&childpagename=GovHickenlooper%2FCBONLayout&cid=1251593017800&p=1251593017800&pagename=GOVHWrapper)
+    * [Gov. Hickenlooper appoints University of Colorado Regent(November 18, 2011)](https://web.archive.org/cs/Satellite?c=Page&childpagename=GovHickenlooper%2FCBONLayout&cid=1251609996072&p=1251609996072&pagename=GOVHWrapper)
+    * [Gov. Hickenlooper and Lt. Gov. Garcia's schedules for the week of Nov. 20(November 18, 2011)](https://web.archive.org/cs/Satellite?c=Page&childpagename=LtGovGarcia%2FCBONLayout&cid=1251599879863&p=1251599879863&pagename=LGGARWrapper)
+    * [Lt. Gov. Garcia wraps up Literacy Matters Tour on Colorado's Eastern Plains(November 18, 2011)](https://web.archive.org/cs/Satellite?c=Page&childpagename=LtGovGarcia%2FCBONLayout&cid=1251609990596&p=1251609990596&pagename=LGGARWrapper)
     * [View All](https://web.archive.org/cs/Satellite/CO-Portal/CXP/1201542329107)
   * ALERTS
     * ALERTS
@@ -60,10 +60,10 @@
     * [Cyber Security News](http://www.colorado.gov/cybersecurity)
     *  
   * COMMUNITY HIGHLIGHT
-    * **Description:** Scratch the veneer of the new-West look of urban Denver and you'll get a glimpse of the Old West, too. Sitting at 5,280 feet (one mile) above sea level...  
+    * **Description:** Could there be a more fitting segue from the Front Range to the Colorado Rocky Mountains than Estes Park...  
 
 
-[More Information](http://www.colorado.com/city.php?id=10)
+[More Information](http://www.colorado.com/city40)
 
   * media center
     * VIDEOS
@@ -96,9 +96,9 @@
     * WEATHER
 
     * Denver/Centennial, CO  
-Partly Cloudy  
-Temp 63.0 F (17.2 C)  
-Humidity 33% 
+A Few Clouds  
+Temp 48.0 F (8.9 C)  
+Humidity 41% 
 
   
 
@@ -116,9 +116,9 @@ Humidity 33%
 
     * Send ePostcard
 
-[Fly Fishing the creek](https://web.archive.org/cs/Satellite?c=Media_C&cid=1206123397567&p=1205189519981&pagename=CO-Portal%2FMedia_C%2FCXPDisplay)
+[Mueller State Park](https://web.archive.org/cs/Satellite?c=Media_C&cid=1201542668678&p=1205189519981&pagename=CO-Portal%2FMedia_C%2FCXPDisplay)
 
-Eldorado Canyon State Park, Colorado State Parks
+Divide, CO, Colorado State Parks
 
 
 
