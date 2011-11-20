@@ -1,39 +1,38 @@
-> *The following text is extracted and transformed from the payzone.ie privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603170355id_/http%3A//www.payzone.ie/pages/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payzone.ie privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120030622id_/http%3A//www.payzone.ie/pages/about-us/privacy-policy.php) for the most accurate reproduction.*
 
-# Payzone - Privacy Policy
+# Payzone IE - Privacy Policy
 
-Payzone plc (hereinafter referred to as "Payzone" "us" "we" or "our") is committed to respecting your privacy and to complying with applicable data protection and privacy laws. You can visit [www.payzoneplc.com](http://www.payzoneplc.com/) ("Site") without disclosing any personally identifiable information about yourself.   
-We have provided this Privacy Policy Statement to help you understand how we collect, use and protect your information when you visit the Site. We wish to help you make informed decisions, so please take a few moments to read the sections below and learn how we may use your personal information. 
+Payzone Group (hereinafter referred to as "Payzone" "us" "we" or "our") is committed to respecting your privacy and to complying with applicable data protection and privacy laws. You can visit [www.payzone.ie](http://www.payzone.ie/) ("Site") without disclosing any personally identifiable information about yourself.   
+We have provided this Privacy Policy Statement to help you understand how we collect, use and protect your information when you visit the Site. We wish to help you make informed decisions, so please take a few moments to read the sections below and learn how we may use your personal information.
 
-For the purposes of this Privacy Policy Statement "Payzone" means Payzone plc and any company or other entity within the group. 
+For the purposes of this Privacy Policy Statement "Payzone" means Payzone Group and any company or other entity within the group.
 
-You should read this notice in conjunction with the Terms and Conditions of use for the Site. 
+You should read this notice in conjunction with the Terms and Conditions of use for the Site.
 
 **Personal Information Collection**
 
-We endeavour to collect and use your personal information only with your knowledge and consent and typically when you use services, make customer enquiries, register for information or other services, or when you respond to communications from us (such as questionnaires or surveys). 
+We endeavour to collect and use your personal information only with your knowledge and consent and typically when you use services, make customer enquiries, register for information or other services, or when you respond to communications from us (such as questionnaires or surveys).
 
-The type of personal information we may collect could include, for example, your name and postal address, date of birth, gender, telephone and fax numbers, email address, and lifestyle and other information collected on registration or through surveys. If you choose to provide us with personal information it will be used in support of the intended purposes stated at the time at which it was collected, and subject to any preferences indicated to you. 
+The type of personal information we may collect could include, for example, your name and postal address, date of birth, gender, telephone and fax numbers, email address, and lifestyle and other information collected on registration or through surveys. If you choose to provide us with personal information it will be used in support of the intended purposes stated at the time at which it was collected, and subject to any preferences indicated to you.
 
-You acknowledge that by providing data to us, you consent to the processing of your data in accordance with this Privacy Policy Statement. 
+You acknowledge that by providing data to us, you consent to the processing of your data in accordance with this Privacy Policy Statement.
 
 **Access to your Information**
 
-You can write to us at any time to obtain details of the personal information we may hold about you.* 
+You can write to us at any time to obtain details of the personal information we may hold about you.*
 
 The Data Protection Manager  
-Payzone plc   
+Payzone Group  
 Payzone House  
-4 Heather Road  
-Sandyford Industrial Estate  
+Heather Road  
+Sandyford Ind Est  
 Dublin 18  
 Republic of Ireland
 
-Please quote your name and address. We would be grateful if you could also provide brief details of what information you want a copy (this helps us to more readily locate your data). 
+Please quote your name and address. We would be grateful if you could also provide brief details of what information you want a copy (this helps us to more readily locate your data).
 
 We will take all reasonable steps to confirm your identity before providing you with details of any personal information we may hold about you.   
-*we may charge Euro15.00 to cover the administration costs involved.   
-****
+*we may charge Euro15.00 to cover the administration costs involved.
 
 **Information Security**
 
@@ -43,9 +42,9 @@ Payzone reserves the right to amend or modify this Privacy Policy Statement at a
 If you have any enquiry about Payzone's data protection and privacy policy or practices, please write to:
 
 The Data Protection Manager  
-Payzone plc   
+Payzone Group   
 Payzone House  
-4 Heather Road  
-Sandyford Industrial Estate  
+Heather Road  
+Sandyford Ind Est  
 Dublin 18  
 Republic of Ireland
