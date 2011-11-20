@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shiftplanning.com privacy policy that was archived on 2011-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110522094302id_/http%3A//www.shiftplanning.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shiftplanning.com privacy policy that was archived on 2011-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111120224652id_/http%3A//www.shiftplanning.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -19,7 +19,7 @@
 
 	<!-- SITE CSS & FONTS -->
 		<link href="http://fonts.googleapis.com/css?family=Droid+Serif:regular,italic,bold,bolditalic&amp;subset=latin" rel="stylesheet" type="text/css">
-		<link href="http://cdn.shiftplanning.com/layout/css/compressed.css" rel="stylesheet" type="text/css">
+		<link href="http://static.shiftplanning.com/layout/css/site.css" rel="stylesheet" type="text/css">
 		<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
 	<!-- ANALYTICS JS -->
@@ -28,7 +28,6 @@
 		
 	<!-- FACEBOOK -->
 		</head><body id="index" class="home"><div id="fb-root"></div>
-		<script src="http://connect.facebook.net/en_US/all.js"></script>
 
 	<!-- RSS FEEDS! -->
 	    <link rel="alternate" type="application/atom+xml" title="Posts on 'ShiftPlanning' (Atom)" href="http://www.shiftplanning.com/posts/atom.xml">
@@ -36,17 +35,13 @@
 		<link rel="alternate" type="application/rss+xml" title="Posts on 'ShiftPlanning' (RSS 2.0)" href="http://www.shiftplanning.com/posts/rss.xml">
 
 	<!-- FAVICON -->
-		<link rel="icon" href="http://cdn.shiftplanning.com/layout/2/images/favicon.ico" type="image/x-icon">
-		<link rel="shortcut icon" href="http://cdn.shiftplanning.com/layout/2/images/favicon.ico" type="image/x-icon">
-
-	<!-- GOOGLE JS -->
-		<script type="text/javascript" src="http://www.google.com/jsapi"></script>
-		<script type="text/javascript"> google.load("swfobject", "2.2"); </script>
-		<script type="text/javascript"> google.load("jquery", "1.4.2"); </script>
-		<script type="text/javascript"> google.load("jqueryui", "1.8.5"); </script>
+		<link rel="icon" href="http://static.shiftplanning.com/layout/images/favicon.ico" type="image/x-icon">
+		<link rel="shortcut icon" href="http://static.shiftplanning.com/layout/images/favicon.ico" type="image/x-icon">
 
 	<!-- SITE JS -->
-		<script type="text/javascript" src="http://cdn.shiftplanning.com/layout/static/79site.js"></script>
+		<script type="text/javascript" src="http://static.shiftplanning.com/layout/hithere/97ext.js"></script>
+		<script type="text/javascript" src="http://static.shiftplanning.com/layout/hithere/97home.js"></script>
+		
 
 
 
@@ -55,19 +50,100 @@
 	<div id="darkBackgroundLayer" class="darkenBackground" style="display: none;"></div>
 	<iframe name="hiframe" id="hiframe" style="visibility:hidden; width: 1px; height: 1px; position: absolute; left: -999px; top: -999px;"></iframe>
 
+
+	<style>
+		#header-section{
+			width: 100%;
+			height: 93px;
+			background:url(/layout/images/header_bg_n.png) top left repeat-x;
+		}
+
+		/*  ------------------  */
+
+		#main-nav{
+			clear: right;
+			width: 690px;
+			float:right;
+			white-space: nowrap;
+			margin: 25px 0 0 0;
+			height: 30px;
+		}
+
+		#main-nav ul.menu{
+			width: 690px;
+			float:right;
+			white-space: nowrap;
+			padding:0 0 0 12px;
+		}
+
+		#main-nav ul.menu li{
+			display:block;
+			float: right;
+			list-style: none;
+			padding: 0 0 0 35px;
+		}
+
+		#main-nav ul.menu li a{
+			display:block;
+			font: normal 16px 'ColaborateRegular', Arial, sans-serif;
+			text-align:left;
+			height: 30px;
+			text-decoration:none;
+			color:#870000;
+			text-shadow: 0 1px 1px #FFF;
+
+			-webkit-transition: box-shadow,color 0.2s ease;
+			-moz-transition: box-shadow,color 0.2s ease;
+			-o-transition: box-shadow,color 0.2s ease;
+			transition: box-shadow,color 0.2s ease;
+
+		}
+
+		#main-nav ul.menu li a:hover, #main-nav ul.menu li a.cur{
+			color: #4f4f4f;
+			background:url(/layout/images/menu_hover_09.png) bottom center no-repeat;
+		}
+
+		#main-nav ul.menu li em {
+			margin-left: 4px;
+		}
+		#main-nav ul.menu li a:active{
+			color :#4f4f4f;
+			background: url(/layout/images/menu_hover_09.png) bottom center no-repeat;
+		}
+
+		#main-nav ul.menu li a.try {
+			color :#ffffff;
+			background: url(/layout/images/try_sp_green_bg.png) top left repeat-x;
+			border: 1px solid #687028;
+			padding: 5px 11px 0 11px;
+			height: 23px;
+			margin-top: -7px;
+			font: normal 16px 'ColaborateRegular', Arial, sans-serif;
+			-moz-border-radius: 2px;
+		    border-radius: 2px; /* future proofing */
+		    -khtml-border-radius: 2px; /* for old Konqueror browsers */
+		    text-shadow: 0 1px 1px #687028;
+		    -moz-box-shadow: 0px 0px 1px #888; -webkit-box-shadow: 0px 0px 2px #888; box-shadow: 0px 0px 2px #888;
+		}
+
+		#main-nav ul.menu li a.try:hover {
+			-moz-box-shadow: 0px 0px 5px #888; -webkit-box-shadow: 0px 0px 5px #888; box-shadow: 0px 0px 5px #888;
+		}
+
+	</style>
+
 		<section id="header-section">
 		<header class="body">
-			<a href="http://www.shiftplanning.com/"><img src="http://cdn.shiftplanning.com/layout/images/logo_img_05.png" width="241" height="49" alt="ShiftPlanning - Employee Scheduling Software" title="ShiftPlanning - Employee Scheduling Software" class="logo" style="margin-left:5px;"></a>
+			<a href="http://www.shiftplanning.com/"><img src="http://static.shiftplanning.com/layout/images/logo.png" width="239" height="51" alt="ShiftPlanning - Online Employee Scheduling Software" title="ShiftPlanning - Online Employee Scheduling Software" class="logo" style="margin: 8px 0 0 2px;"></a>
 			<nav id="upper-navigation">
-				<ul class="group1">
+								<ul class="group1">
 					<li><a href="http://www.shiftplanning.com/blog/"><b>Blog</b><em class="blog"></em></a></li>
 					<li><a href="http://www.shiftplanning.com/api/"><b>Api</b><em class="api"></em></a></li>
 				</ul>
-
-				<ul class="group2">
-
-											<li><a href="http://www.shiftplanning.com/support/"><b>Support</b><em class="support"></em></a></li>
-						<li><a href="#" onclick="livechat();"><b>Live Chat</b><em class="livechat"></em></a></li>
+								<ul class="group2">
+																	<li><a href="http://www.shiftplanning.com/contact/"><b>Contact Us</b><em class="support"></em></a></li>
+						<!--<li><script type="text/javascript" src="//www.shiftplanning.com/support/chat/js/phplive.js.php?d=2&base_url=%2F%2Fwww.shiftplanning.com%2Fsupport%2Fchat&text=Live Chat"></script><a href="javascript://"><em class="livechat"></em></a></li>-->
 										</ul>
 
 				<ul class="group3">
@@ -76,13 +152,55 @@
 			</nav>
 			<nav id="main-nav">
 				<ul class="menu">
-					<li class="noMar"><a href="http://www.shiftplanning.com/signup/">PRICING &amp; SIGNUP</a></li>
-					<li><a href="http://www.shiftplanning.com/tour/">TAKE THE TOUR</a></li>
-					<li><a href="http://www.shiftplanning.com/">WELCOME</a></li>
+					<li><a href="http://www.shiftplanning.com/signup/" class="try">Try ShiftPlanning Free</a></li>
+					<li><a href="http://www.shiftplanning.com/signup/">Learn About Pricing</a></li>
+					<li><a href="http://www.shiftplanning.com/tour/">Take the Tour</a></li>
 				</ul>
 			</nav>
 		</header>
 	</section>
+
+	<script type="text/javascript">
+		$(document).ready(function() {
+
+			$('#launch_lc').bind('mouseenter', function(){
+
+			    if(typeof OtimeoutID == "number") {
+					window.clearTimeout(OtimeoutID);
+					delete OtimeoutID;
+			    }
+			    if(typeof CtimeoutID == "number") {
+					window.clearTimeout(CtimeoutID);
+					delete CtimeoutID;
+			    }
+				$(this).animate({'width': '288px'});
+
+			}).bind('mouseleave', function(){
+
+				CtimeoutID = window.setTimeout(function(){ $('#launch_lc').animate({'width': '32px'}); }, 1500);
+
+			}).bind('click', function(){
+
+				livechat('2');
+
+			});
+
+			$('#launch_loc_cl').bind('click', function(event){
+
+				event.stopPropagation();
+				$('#launch_lc').animate({'width': '32px'});
+
+			});
+									OtimeoutID = window.setTimeout(function(){ $('#launch_lc').animate({'width': '288px'}); $.get("/index.php?lc_opened_u=1"); }, 7500);
+					});
+
+	</script>
+	<style>
+		#launch_lc { position: fixed; top: 160px; left: 0px; background: url(http://static.shiftplanning.com/layout/images/launch_sales_chat.png) top right; width: 32px; height: 221px; cursor: pointer; z-index: 99999;}
+		#launch_loc_cl { bottom: 0px; float: right; margin-top: 184px; margin-right: 44px; width: 25px; height: 25px; }
+	</style>
+	<div id="launch_lc"><div id="launch_loc_cl"></div></div>
+
 	<section id="inner-main-content">
 	<section class="body">
 		<nav class="inner-menu">
@@ -209,6 +327,10 @@
 
 <b>Last Revised: July 23rd, 2010</b>	</section>
 </section>
+		<div style="display: none;">
+			<script type="text/javascript"> var google_conversion_id = 1034760016; var google_conversion_language = "en"; var google_conversion_format = "3"; var google_conversion_color = "666666"; var google_conversion_label = "eJGTCJj9hAIQ0N607QM"; var google_conversion_value = 0; </script>
+			<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"></script>
+		</div>
 
 		
 			<footer id="footer-main">
@@ -216,7 +338,7 @@
 				<section class="body">
 
 					<ul class="footer-logo">
-						<li><a href="http://www.shiftplanning.com/" title="ShiftPlanning Homepage"><img src="http://cdn.shiftplanning.com/layout/2/images/footer_logo_35.png" width="156" height="33" alt="Shift Planning" class="footerLogo"></a></li>
+						<li><a href="http://www.shiftplanning.com/" title="ShiftPlanning Homepage"><img src="http://static.shiftplanning.com/layout/images/footer_logo_35.png" width="156" height="33" alt="Shift Planning" class="footerLogo"></a></li>
 					</ul>
 
 					<ul class="shift-planning-footer">
@@ -225,41 +347,35 @@
 						<li><a href="http://www.shiftplanning.com/signup/" title="Pricing &amp; Sign-up">Pricing</a></li>
 						<li><a href="http://www.shiftplanning.com/support/" title="ShiftPlanning Support">Support</a></li>
 						<li><a href="http://www.shiftplanning.com/contact/" title="Contact ShiftPlanning">Contact US</a></li>
-						<li><a href="http://www.shiftplanning.com/free/" title="Free online employee scheduling">Free</a> &nbsp;·&nbsp; <a href="http://www.shiftplanning.com/sitemap/" class="noPad">Site Map</a></li>
+						<li><a href="http://www.shiftplanning.com/free/" title="Free online employee scheduling">Account Setup</a></li>
+						<li><a href="http://www.shiftplanning.com/sitemap/" class="noPad">Site Map</a></li>
 					</ul>
 
 					<ul class="shift-planning-footer">
 						<li><h3>Quick Links</h3></li>
-						<li><a href="http://www.shiftplanning.com/about/">About US</a></li>
 						<li><a href="http://www.shiftplanning.com/blog/">Company Blog</a></li>
+						<li><a href="http://www.shiftplanning.com/about/">About Us</a></li>
 						<li><a href="http://www.shiftplanning.com/roadmap/">Road Map</a></li>
-						<li><a href="http://www.shiftplanning.com/api/">Api</a></li>
+						<li><a href="http://www.shiftplanning.com/api/">Data Api</a></li>
 						<li><a href="http://www.spgrab.com" target="_blank" title="Screenshot Sharing">Screenshot Sharing</a></li>
 					</ul>
 
+					<style> ul.shift-planning-footer li img.iphone { margin: 0 0 9px 0; } </style>
 					<ul class="shift-planning-footer">
-						<li><h3>Mobile</h3></li>
-						<li><a href="/iphone/" title="ShiftPlanning iPhone App"><img src="http://cdn.shiftplanning.com/layout/2/images/iPhone_img_22.png" width="162" height="62" alt="Iphone" class="iphone"></a></li>
-						<li><a href="https://market.android.com/details?id=com.ShiftPlanning&amp;feature=search_result"><img src="http://cdn.shiftplanning.com/layout/2/images/android_img_22.png" width="162" height="62" alt="Android" class="iphone"></a></li>
+						<li><a href="/iphone/" title="ShiftPlanning iPhone App"><img src="http://static.shiftplanning.com/layout/images/shiftplanning_for_iphone.png" width="163" height="58" alt="Iphone Employee Scheduling" class="iphone"></a></li>
+						<li><a href="http://appworld.blackberry.com/webstore/content/44192?lang=en" title="ShiftPlanning BlackBerry App"><img src="http://static.shiftplanning.com/layout/images/shiftplanning_for_blackberry.png" alt="BlackBerry Employee Scheduling" width="163" height="57" class="iphone"></a></li>
+						<li><a title="ShiftPlanning Android App" href="https://market.android.com/details?id=com.ShiftPlanning&amp;feature=search_result"><img src="http://static.shiftplanning.com/layout/images/shiftplanning_for_android.png" width="163" height="57" alt="Android Employee Scheduling" class="iphone"></a></li>
 					</ul>
 
-					<!--<ul class="shift-planning-footer">
-						<li><h3>Legal</h3></li>
-						<li><a href="http://www.shiftplanning.com/terms/">Terms of Use</a></li>
-						<li><a href="http://www.shiftplanning.com/privacy/">Privacy Policy</a></li>
-						<li><a href="http://www.shiftplanning.com/sitemap/">Site Map</a></li>
-						<li><a href="/iphone/" title="ShiftPlanning iPhone App"><img src="http://cdn.shiftplanning.com/layout/2/images/iPhone_img_22.png" width="162" height="62" alt="iPhone App" class="iphone" style="margin-top: 0px;"></a></li>
-					</ul>-->
-
 					<ul class="extras">
-						<li><a href="http://www.shiftplanning.com/signup/"><img src="http://cdn.shiftplanning.com/layout/2/images/tryit_img_16.png" width="177" height="62" alt="Prices &amp; Sign Up - Free"></a></li>
+						<li><a href="http://www.shiftplanning.com/signup/"><img src="http://static.shiftplanning.com/layout/images/tryit_img_16.png" width="177" height="62" alt="Prices &amp; Sign Up - Free"></a></li>
 						<li>
 							<ul class="social-connects">
-								<li><a href="http://www.facebook.com/shiftplanning"><img src="http://cdn.shiftplanning.com/layout/2/images/faceBook_icon_25.png" width="32" height="32" alt="facebook"></a></li>
-								<li><a href="http://www.twitter.com/shiftplanning"><img src="http://cdn.shiftplanning.com/layout/2/images/twitter_icon_27.png" width="32" height="32" alt="twitter"></a></li>
-								<li><a href=""><img src="http://cdn.shiftplanning.com/layout/2/images/flicker_icon_29.png" width="32" height="32" alt="flicker"></a></li>
-								<li><a href="http://www.youtube.com/watch?v=rD0dTAT-4jo&amp;feature=player_embedded"><img src="http://cdn.shiftplanning.com/layout/2/images/youtube_icon_31.png" width="32" height="32" alt="you tube"></a></li>
-								<li class="noMar"><a href="http://feeds.feedburner.com/shiftplanning"><img src="http://cdn.shiftplanning.com/layout/2/images/rss_icon_33.png" width="32" height="32" alt="rss feed"></a></li>
+								<li><a href="http://www.facebook.com/shiftplanning"><img src="http://static.shiftplanning.com/layout/images/faceBook_icon_25.png" width="32" height="32" alt="facebook"></a></li>
+								<li><a href="http://www.twitter.com/shiftplanning"><img src="http://static.shiftplanning.com/layout/images/twitter_icon_27.png" width="32" height="32" alt="twitter"></a></li>
+								<li><a href=""><img src="http://static.shiftplanning.com/layout/images/flicker_icon_29.png" width="32" height="32" alt="flicker"></a></li>
+								<li><a href="http://www.youtube.com/watch?v=rD0dTAT-4jo&amp;feature=player_embedded"><img src="http://static.shiftplanning.com/layout/images/youtube_icon_31.png" width="32" height="32" alt="you tube"></a></li>
+								<li class="noMar"><a href="http://feeds.feedburner.com/shiftplanning"><img src="http://static.shiftplanning.com/layout/images/rss_icon_33.png" width="32" height="32" alt="rss feed"></a></li>
 							</ul>
 						</li>
 						<li>
@@ -268,7 +384,7 @@
 								<li class="noMar"><a href="http://www.shiftplanning.com/privacy/" class="noPad">Privacy Policy</a></li>
 							</ul>
 							<ul class="rights">
-								<li>© 2010 ShiftPlanning.com <br>All Rights Reserved</li>
+								<li>© 2011 ShiftPlanning.com <br>All Rights Reserved</li>
 							</ul>
 						</li>
 					</ul>
@@ -277,5 +393,6 @@
 
 			</footer>
 
-			
+		
+	
 </body></html>
