@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aussiepages.com.au privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521220128id_/http%3A//www.aussiepages.com.au/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aussiepages.com.au privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120034156id_/http%3A//www.aussiepages.com.au/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Classifieds Directory Australia | Business Directory Listings Australia
 
@@ -106,46 +106,46 @@ We regularly monitor the quality and accuracy of Personal Information that we ma
   
 | 
 
-[**iFixo PC Optimization Troubleshooting Services | Remote PC Maintenance Support Service**](http://www.aussiepages.com.au/iFixo-PC-Optimization-Troubleshooting-Services--7C-Remote-PC-Maintenance-Support-Service.html)  
-iFixo is an online tech support, computer troubleshooting, remote PC maintenance Support service company, based in the Australia.  
+[**teany brits**](http://www.aussiepages.com.au/teany-brits.html)  
+Hand selected British designer and UK branded baby and toddler apparel, gifts and toys on sale in Australia.  
   
   
 ---  
   
-[**Credit Rating Australia**](http://www.aussiepages.com.au/Credit-Rating-Australia.html)  
-Credit rating Australia provides a wealth of information on performing a credit rating check as well as helpful tips and guides on how to repair a bad credit history on your credit file in Australia.  
+[**Skinz Spray Tanning**](http://www.aussiepages.com.au/Skinz-Spray-Tanning.html)  
+Professional Spray Tanning. Servicing the Central Coast for Over 8 Years  
   
   
-[**Furniture Removalists Sydney, Moving From Sydney**](http://www.aussiepages.com.au/Furniture-Removalists-Sydney-Moving-From-Sydney.html)  
-We are the specilized in Sydney Removals, Removalist Sydney, Furniture Removals Sydney, Sydney Removalists,Sydney Furniture Removals.  
+[**The Unselfish Marketer**](http://www.aussiepages.com.au/The-Unselfish-Marketer.html)  
+The Unselfish Marketer is a company based in Paradise Point, Queensland that provides access to all the products you want to sell referred to as the VAULT.  
   
   
-[**Ki Fitness Personal Training**](http://www.aussiepages.com.au/Ki-Fitness-Personal-Training.html)  
-PERSONAL TRAINING SERVICES  
+[**Accountants Melbourne**](http://www.aussiepages.com.au/Accountants-Melbourne.html)  
+Committed to providing innovative solutions dedicated to guiding our clients towards achieving their goals of Wealth Creation, Wealth Preservation and compliance with Statutory Obligations.  
   
   
-[**Bounce Fitness- New Boutique Gym in Nth Syd**](http://www.aussiepages.com.au/Bounce-Fitness--New-Boutique-Gym-in-Nth-Syd.html)  
-Bounce Fitness is a new boutique gym aimed at Corporate’s seeking a professional service with a comfortable atmosphere to training. How a Gym should be – For the results You Deserve  
+[**ChinoLatino 3D perspectives**](http://www.aussiepages.com.au/ChinoLatino-3D-perspectives.html)  
+3D architectural drawings and models based on architectural plans.  
   
   
-[**Shop Front Business Signs**](http://www.aussiepages.com.au/Shop-Front-Business-Signs.html)  
-Shop Front - A frames for business signs and real estate signs with good quality across the Canberra.  
+[**Your eftpos Stories**](http://www.aussiepages.com.au/Your-eftpos-Stories.html)  
+Watch real stories from eftpos users. Discover how you can benefit from using eftpos. Learn more.  
   
   
-[**Revbook**](http://www.aussiepages.com.au/Revbook.html)  
-Online Automotive Sales  
+[**Office Furniture Deals**](http://www.aussiepages.com.au/Office-Furniture-Deals.html)  
+Looking for great value Office Furniture Products for any budget year round Melbourne? Visit http://www.officefurnituredeals.com.au/ and you'll get guaranteed Ergonomic Office Chairs, drafting ch  
   
   
-[**Sassy Red PR**](http://www.aussiepages.com.au/Sassy-Red-PR.html)  
-Sassy Red PR - creative and cost effective PR and marketing solutions.  
+[**Eden-Lea Ragdoll Kittens**](http://www.aussiepages.com.au/Eden-Lea-Ragdoll-Kittens.html)  
+Holistic breeder of the fabulous Ragdoll Cat. We only breed from true Ragdoll bloodlines. Kittens raised in our home, and are sometimes available to approved naturally inclined homes.  
   
   
-[**BitDefender Antivirus Software**](http://www.aussiepages.com.au/BitDefender-Antivirus-Software.html)  
-Antivirus Software BitDefender - award winning virus protection software for your computer security. Protect your business and secure your PC from the latest viruses now!  
+[**consortio**](http://www.aussiepages.com.au/consortio.html)  
+Consortio offers a comprehensive suite of services to the professional contractor. Consortio specialises in providing a legally compliant engagement structure, contract facilitation, payroll solutions  
   
   
-[**New Media Services Pty Ltd**](http://www.aussiepages.com.au/New-Media-Services-Pty-Ltd.html)  
-New Media Services is in the forefront of bringing real people, who give live interactive support services, catering for both the Web and Mobile industries.  
+[**Mobile Personal Training Perth**](http://www.aussiepages.com.au/Mobile-Personal-Training-Perth.html)  
+I am a Mobile Personal Trainer servicing the coastal suburbs west of the city of Perth to Burns Beach. I provide Mobile Personal Training services across Perth with a range of ages and goals.  
   
   
    
