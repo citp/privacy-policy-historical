@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetbasedbusinessarticles.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521201159id_/http%3A//internetbasedbusinessarticles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetbasedbusinessarticles.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120014405id_/http%3A//internetbasedbusinessarticles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Internet Based Business Articles
 
