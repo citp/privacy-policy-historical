@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the n95users.com privacy policy that was archived on 2011-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110322125413id_/http%3A//www.nokiausers.net/About/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n95users.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120072824id_/http%3A//www.nokiausers.net/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ We do use cookies to store information, such as your personal preferences when y
 
   * Google, as a third party vendor, uses cookies to serve ads on your site. 
 
-  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
 
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
@@ -24,6 +24,4 @@ We do use cookies to store information, such as your personal preferences when y
 
 
 **Site Goals  **  
-NokiaUsers.net was designed to give all Nokia owners a chance to collaborate and share information regarding their mobile, while also offering numerous other services (software sales, tips and tricks, etc.) for your phone. If you have any questions regarding the site, feel free to [contact us](http://www.nokiausers.net/Contact-Us/) . 
-
-* * *
+NokiaUsers.net was designed to give all Nokia owners a chance to collaborate and share information regarding their mobile, while also offering numerous other services (software sales, tips and tricks, etc.) for your phone. If you have any questions regarding the site, feel free to [contact us](https://web.archive.org/web/20111120072824id_/http://www.nokiausers.net/about/privacy-policy/Contact-Us/) . 
