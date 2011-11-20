@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the carboncopypro.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426194736id_/http%3A//carboncopypro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carboncopypro.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120133910id_/http%3A//www.proelite.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy
+# PRO Elite » Privacy Policy
 
-  | 
-
-Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence.
+Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
 
 This privacy policy (the “Privacy Policy”) discloses the information gathering and dissemination practices for this website. We will notify you of changes to our Privacy Policy by posting the new policy on this website. Review our Privacy Policy regularly so that you can stay informed of our practices, as they may change in the future.
 
@@ -12,7 +10,7 @@ By visiting our site or sending us information, you are accepting the practices 
 
 The personal information we collect includes your name and e-mail address. Other personal information that you submit is clearly labeled at the time you submit it. We use the information that we collect to provide our services, fulfill any purchase you may have made, send you our newsletter, contact you regarding new promotions, and to improve our site. We also use this information—directly, indirectly, and in combination with data we exchange with other parties—to introduce you to informational, service, and/or product offerings from us, our subsidiaries, affiliated companies, partners, select unaffiliated companies, assigns, and/or brands that are owned by, licensed by, and/or partnering with us (collectively, the “PRO Companies”). We do this by transferring, licensing, and/or sharing your personal information with the PRO Companies and hope you will be interested in their marketing materials and/or promotions. The PRO Companies may subsequently transfer, and/or share your personal information. Once a third-party obtains your personal information, its subsequent use is controlled by the business practices of the third party, which is beyond our control. Note, however, that your payment information is used only for order processing purposes.
 
-When submitting any information on our website you expressly authorize us to use your personal information as explained in this privacy policy, and you consent to receiving commercial email from us, CarbonCopyPRO, and all of the PRO Companies. You can expect to receive newsletters, promotions, and other similar offers. Should you wish to discontinue receiving these e-mailings simply unsubscribe using the link in the email you receive.
+When submitting any information on our website you expressly authorize us to use your personal information as explained in this privacy policy, and you consent to receiving commercial email from us, PRO Elite, and all of the PRO Companies. You can expect to receive newsletters, promotions, and other similar offers. Should you wish to discontinue receiving these e-mailings simply unsubscribe using the link in the email you receive.
 
 We automatically collect certain information from visitors to, the site, such as Internet addresses, browser type, Internet Service Provider (ISP), referring and exit page, operating system, timestamps, and clickstream data. We also track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers. This information is logged to help diagnose technical problems, and to administer our site so that we can constantly improve it.
 
@@ -26,10 +24,6 @@ We do not knowingly collect personally identifiable information from children un
 
 Contact us at the address below if you want us to change or delete any information that we have about you. We will respond to your request to access, update, or delete your information within ten (10) business days. Before we are able to provide you with any information, correct any inaccuracies, or delete any information, however, we may ask you to verify your identity.
 
-This website is owned and operated, or operated under agreement, by:  
-CarbonCopyPRO, 2300 Candelaria Rd. Suite 107, Albuquerque, NM 87107
+This website is owned and operated, or operated under agreement, by: PRO U, LLC, 12 Broad Street, Suite 403, Red Bank, NJ 07701
 
 This privacy policy is effective as of July 13, 2009.
-
-|    
----|---|---
