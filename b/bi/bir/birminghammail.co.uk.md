@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the birminghammail.co.uk privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617065952id_/http%3A//www.birminghammail.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birminghammail.co.uk privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120174112id_/http%3A//www.birminghammail.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Statement
-
-PRIVACY POLICY 
 
 ## IN RELATION TO ALL WEB SITE SERVICES OFFERED BY TRINITY MIRROR MIDLANDS LIMITED HERE ON THIS WEB SITE
 
