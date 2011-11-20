@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exalead.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523215410id_/http%3A//www.exalead.com/software/company/privacy-statement/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exalead.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120182424id_/http%3A//www.exalead.com/software/company/privacy-statement/index.php) for the most accurate reproduction.*
 
 # Exalead Privacy Statement
 
