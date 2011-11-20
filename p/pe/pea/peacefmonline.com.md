@@ -1,27 +1,32 @@
-> *The following text is extracted and transformed from the peacefmonline.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614211359id_/http%3A//www.peacefmonline.com/services/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peacefmonline.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120135235id_/http%3A//www.peacefmonline.com/services/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy statement is applicable to all Peace FM web-sites.  
+Peace FM Online and its advertisers are committed to protecting the privacy of Internet users. 
 
+Collection of personally identifiable information for memberships   
+Unless you register yourself Peace FM Online does not collect personally identifiable information about you, such as your email address, name, age, etc. To register yourself is optional. You can access most of the content of Peace FM Online anonymously without registering yourself. 
 
-The Peace FM respects the privacy of its Internet users and will protect that privacy as vigorously as possible.
+You must be 18 years or older before you can register yourself. Your personally identifiable information is not sold to third parties. 
 
-Peace FM does not collect information that personally identifies individuals except when individuals provide such specific information on a voluntary basis. There may be occasions where specific personal information is requested before an individual can enter certain sections of a Peace FM site. 
+Your personally identifiable information will be used to facilitate the communication between you and other members of Peace FM Online. You can determine yourself how if and how much personal information you want to share with the other visitors of Peace FM Online. 
 
-For example, registration is needed to enter the Fantasy Pool of the Hockey Night in Canada site or to participate in any Peace FM online forum. This kind of registration helps us to ensure that content standards on these sections of the site are rigorously upheld or that contact can be made with prize winners. Information requested in order to personalize the Peace FM homepage or any other Peace FM site section would be a similar example.
+Collection of non-personally identifiable information   
+Peace FM Online does obtain some types of non-personally identifiable information such as the ip-address you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). This information is used to improve the website by - for example - analyzing which pages are popular and which pages need to be improved. The collected information is not sold to third-parties.
 
-In all such cases, Peace FM will collect only information that is voluntarily provided by the user and undertakes that such information will be kept strictly confidential. Individual information provided to the Peace FM to gain access to any Peace FM site will not be sold or made available to a third party.  
+Usage of cookies by Peace FM Online  
+Peace FM Online uses[ **cookies**](http://www.cookiecentral.com/faq/) to store information about the country and city from which you are surfing. This information is used to customise the website - content as well as advertisements - according to your geo-graphical location. 
 
+Peace FM Online uses cookies to remember you screen name when commenting on news articles and when joining the chartroom. Without these cookies you would need to re-type your screen name all the time. 
 
-Peace FM does reserve the right, however, to perform statistical analyses of user behaviour and characteristics, in order to measure interest in and use of the various sections of its sites so as to improve design and navigation and to gather marketing information. Only aggregated data from these analyses, not individual data, will be used for this purpose.  
+In all cases you can stop this usage of cookies by Peace FM Online by disabling cookies in your browser. In the help section of your browser you will also find information about how to remove existing cookies from Peace FM Online from your computer. 
 
+In general you can use Peace FM Online without cookies although it might reduce the user-friendliness of the website. 
 
-As well, users should be aware that certain non-personal information and data may be automatically collected by the Peace FM through the operation of what are called "cookies". "Cookies" are small text files that identify an individual computer's browser entering a web site. They allow the site to track that browser's movement through the site over several sessions. Through cookies, a web site can recognize repeat users, facilitate the user's access to and use of the site and allow a site to track usage behaviour that will allow content improvements. 
+**Behavioral advertising (“OBA”)**  
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [**networkadvertising.org**](http://www.networkadvertising.org/). 
 
-The Peace FM uses cookies only for the above-mentioned purposes and will not use them to identify users or to track non-Peace FM usage.
+Usage of cookies by Advertisers   
+Peace FM Online runs advertisements from various renowned advertising networks, such as [**Value Click Media**](http://www.valueclickmedia.com/) and [**Googl** e](http://www.google.com/). Their usage of cookies is governed by the individual privacy policy of the advertising network in question. 
 
-If you do not want a cookie placed on your computer by the Peace FM, you may disable cookies altogether by modifying the Preferences section of your Netscape or Internet Explorer browser (under Edit/Preferences/Advanced). Note that it is possible that some aspects of Peace FM sites may be unavailable to you if you choose this option.  
-
-
-If you have no problem accepting cookies, but wish to be informed of their appearance, you may turn on a warning prompt by modifying the cookie warning section in Edit/Preferences/Advanced.
+A good resource to learn more about your consumer privacy in relation to these advertising networks is the **[Network Advertising Initiative](http://www.networkadvertising.org/)** (NAI). On this website you can opt out from Behavioral Advertising for all the advertising networks which are member of the NAI. 
