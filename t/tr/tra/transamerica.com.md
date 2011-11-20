@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transamerica.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430124705id_/http%3A//transamerica.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transamerica.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120101218id_/http%3A//www.transamerica.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Transamerica
 
@@ -28,14 +28,14 @@ What Information We Disclose and to Whom We Disclose It
 
 Depending upon the product or service offered, we may disclose nonpublic personal information we collect to:
 
-  * Persons or companies that perform services on our behalf. 
-  * Other financial institutions with which we have joint marketing agreements as permitted by law. In Vermont this includes only your name, contact information, policy coverage and information about your transactions with us or our affiliates. 
-  * A medical professional for the purpose of disclosing a medical problem of which you may not be aware. 
-  * Other insurance support organizations for use in connection with an insurance transaction or to prevent fraud. 
-  * An insurance regulatory authority. 
-  * A law enforcement or other government authority to prevent or prosecute fraud or other unlawful activities. 
-  * Organizations conducting actuarial research studies. 
-  * If applicable, a group policyholder for reporting claims experience or conducting an audit. We do not disclose any nonpublic personal information about you to either our affiliates or non-affiliates, except as permitted by law. Our affiliates are companies with which we share common ownership. They offer life and health insurance and pension and savings products. 
+  * Persons or companies that perform services on our behalf.
+  * Other financial institutions with which we have joint marketing agreements as permitted by law. In Vermont this includes only your name, contact information, policy coverage and information about your transactions with us or our affiliates.
+  * A medical professional for the purpose of disclosing a medical problem of which you may not be aware.
+  * Other insurance support organizations for use in connection with an insurance transaction or to prevent fraud.
+  * An insurance regulatory authority.
+  * A law enforcement or other government authority to prevent or prosecute fraud or other unlawful activities.
+  * Organizations conducting actuarial research studies.
+  * If applicable, a group policyholder for reporting claims experience or conducting an audit. We do not disclose any nonpublic personal information about you to either our affiliates or non-affiliates, except as permitted by law. Our affiliates are companies with which we share common ownership. They offer life and health insurance and pension and savings products.
 
 
 
@@ -62,8 +62,6 @@ Transamerica Life Insurance Company
 Western Reserve Life Assurance Co. of Ohio 
 
 Effective as of August 2010.
-
-EBM 399 0810
 
 Top of Page
 
