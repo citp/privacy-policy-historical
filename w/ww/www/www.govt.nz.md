@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.govt.nz privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627202801id_/http%3A//newzealand.govt.nz/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.govt.nz privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120082314id_/http%3A//newzealand.govt.nz/about/privacy) for the most accurate reproduction.*
 
 # Privacy information — Search newzealand.govt.nz
 
