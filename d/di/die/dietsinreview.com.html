@@ -1,17 +1,17 @@
-<!--The following is the downloaded HTML source of the dietsinreview.com privacy policy that was archived on 2011-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110623220302id_/http%3A//www.dietsinreview.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dietsinreview.com privacy policy that was archived on 2011-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111120022534id_/http%3A//www.dietsinreview.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 			<title>Privacy Policy - DietsInReview.com</title>
 
 	<link href="http://www.dietsinreview.com/Pages/privacy/type=icon" type="application/rss+xml" rel="alternate" title="/favicon.ico">	
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">	
-	<link rel="stylesheet" type="text/css" href="/css/master.css?1304707481">	
+	<link rel="stylesheet" type="text/css" href="/css/master.css?1318878183">	
 	
-	<link rel="stylesheet" type="text/css" href="/css/pages.css?1292970667" media="screen">
-	<link rel="stylesheet" type="text/css" href="/css/widgets.css?1303494422" media="screen">
-	<link rel="stylesheet" type="text/css" href="/css/lightwindow.css?1292970667" media="screen">
-	<link rel="stylesheet" type="text/css" href="/css/print.css?1292970667" media="print">	
+	<link rel="stylesheet" type="text/css" href="/css/pages.css?1318878183" media="screen">
+	<link rel="stylesheet" type="text/css" href="/css/widgets.css?1318878183" media="screen">
+	<link rel="stylesheet" type="text/css" href="/css/lightwindow.css?1318878183" media="screen">
+	<link rel="stylesheet" type="text/css" href="/css/print.css?1318878183" media="print">	
 	<!-- google ad manager -->
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
@@ -41,8 +41,9 @@ GA_googleAddSlot("ca-pub-5301193347489978", "Resources-Top-300x250");GA_googleAd
 
 	
 		
-		
-		
+	
+	
+				
  	
 
 	<script type="text/javascript">
@@ -75,15 +76,16 @@ GA_googleAddSlot("ca-pub-5301193347489978", "Resources-Top-300x250");GA_googleAd
 
 document.observe("dom:loaded", function() {
 	var fb_login_image = new Element('img', { 'id': 'fb_login_image','src': 'http://dietsinreview.s3.amazonaws.com/images/header_tiny_fb_connect.gif' });
-	$('fb_login_wrapper').appendChild(fb_login_image);
 
-	var fb_login_text = new Element('a', { 'id': 'fb_login_text' }).update("Sign In Using Facebook");
-	$('fb_login_wrapper').appendChild(fb_login_text);
+	if ($('fb_login_wrapper')!==undefined) {
+		$('fb_login_wrapper').appendChild(fb_login_image);
 
+		var fb_login_text = new Element('a', { 'id': 'fb_login_text' }).update("Sign In Using Facebook");
+		$('fb_login_wrapper').appendChild(fb_login_text);
 
-	Event.observe('fb_login_text', 'click', fb_login_handler);
-
-	Event.observe('fb_login_image', 'click', fb_login_handler);
+		Event.observe('fb_login_text', 'click', fb_login_handler);
+		Event.observe('fb_login_image', 'click', fb_login_handler);		
+	};
 
 
 });
@@ -156,21 +158,25 @@ document.observe("dom:loaded", function() {
 	
 	<h1 class="section_header">Privacy Notice</h1>
 
-
+	<a name="mission"></a>
 	<h2>Mission </h2>
 
 	<p>To provide constructive information and education by health professionals that the public can use to implement healthy changes, support weight loss efforts and inspire to live a healthier life. </p>
-
+	
+	<a name="privacy-policy"></a>
 	<h2>Privacy Policy </h2>
 
 	<p>The purpose of this DietsInReview.com ("the Site") privacy policy (the Policy) is to help you understand what kinds of information we may collect about you when you visit the Site, how we may use that information, whether we will disclose it, and how you can correct the information. Please note that by using the Site, you signify your agreement with the Policy. If you do not agree to the terms of the Policy, please do not use the Site. Your continued use of the Site after any changes to the Policy will mean that you have accepted the changes; therefore please bookmark this page and review it frequently. If we decide to change the Policy, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it. </p>
 
 	<p>Please note that the Policy applies only to the Site, and not to other websites to which we link, or to advertisers on the Site. Your use of the Site is governed by DietsInReview.com’s Terms of Service and by other published rules pertaining to particular products and services offered throughout the Site. </p>
 
+
+	<a name="childrens-information"></a>
 	<h2>Children’s Information </h2>
 
 	<p>The Site is not directed toward children under thirteen years of age. DietsInReview.com does not knowingly collect personally identifiable information from children under thirteen years of age. If you are under thirteen years of age, you should not provide any personally identifiable information through the Site. </p>
-
+	
+	<a name="information-gather"></a>
 	<h2>The Information We Gather </h2>
 
 	<p>DietsInReview.com collects information from you at several different points on the Site in the manner set forth below. Whenever we collect personal information, we will make an effort to include a link to the Policy on that page. </p>
@@ -186,10 +192,14 @@ document.observe("dom:loaded", function() {
 	<p></p>
 	<p>To manage how DietsInReview.com can communicate with you, please visit <a href="http://www.DietsInReview.com/users/account_settings">http://www.DietsInReview.com/users/account_settings</a> </p>
 
+
+	<a name="disclosure"></a>
 	<h2>Disclosure of Personal Information in the Event of Merger or Sale of Assets  </h2>
 
 	<p>DietsInReview.com, or its related entites, could merge with or be acquired by another business entity, or all or substantially all of their respective assets could be acquired. Should such a combination, acquisition or transaction occur, you should expect that DietsInReview.com would share some or all of your personal information with the acquiring or merged entity to continue serving you and other users of the Site. </p>
 
+
+	<a name="mydir"></a>
 	<h2>MyDIR Community</h2>
 
 	<p>In order to complete a user profile for MyDIR, the DietsInReview.com user community, or the MyDIR Weight Loss Tracker, a user must provide a limited amount of personal information. This includes, but is not limited to, your height, weight, desired weight goals, gender, age, first and last names, mailing address, Twitter account, personal Web site URL, e-mail address. Users have the option to make some of this information public and private. </p>
@@ -198,22 +208,26 @@ document.observe("dom:loaded", function() {
 
 	<p>The Site offers weekly giveaways to its MyDIR members. These names are selected randomly and the prize is mailed to the address included in the MyDIR profile.</p>
 
+	<a name="send-to-a-friend"></a>
 	<h2>Send-To-A-Friend </h2>
 
 	<p>If you elect to use the "Send-To-A-Friend" service on the Site, we will ask for your friend’s name(s) and e-mail address(es). DietsInReview.com will automatically send a one-time e-mail inviting your friend(s) to visit the Site. We will store this information for the sole purpose of sending this one-time e-mail. </p>
 
+	<a name="user-ratings-and-reviews"></a>
 	<h2>User Ratings and Reviews </h2>
 
 	<p>We provide a service that allows users to add their own ratings and reviews to our content. Please note that the reviews or any other information you provide that is placed on the Site will be available for any user to read, and is therefore no longer private. By selecting the thumbs-up or thumbs-down rating buttons a percentage of preference is calculated. This rating number is completely driven by user input and is not editable or influenced by any other source.  </p>
 
 	<p>DietsInReview.com owns the rights to this content and reserves the right to publish such reviews in other media formats, in its sole discretion. These user-submitted reviews are not the opinion of DietsInReview.com. </p>
 
-	<h2>Community Moderation </h2>
+	<a name="community-moderation"></a>
+	<h2>Community Moderation</h2>
 
 	<p>DietsInReview.com moderates each comment and rating posted by a user on the Site to uphold the integrity of the site and ensure the safety of our users. Comments are edited to remove foul language, Web URLs and email addresses. HTML links are not permitted in comments on the Site. All comments posted on the site become the property of DietsInReview.com.</p>  
 
 	<p><a href="http://www.dietsinreview.com/community_guidelines/">Learn more about our community guidelines.</a>
 
+	<a name="advertising-policy"></a>
 	</p><h2>Advertising Policy </h2>
 
 	<p>DietsInReview.com is funded by advertisers. It is the policy of DietsInReview.com to accept and place these advertisements via banners and text links throughout the Web site. DietsInReview.com maintains a constructive and unbiased position and does not allow advertisers to have any editorial influence. Advertisements on DietsInReview.com are clearly indicated with an "advertisement" message. </p>
@@ -224,24 +238,29 @@ document.observe("dom:loaded", function() {
 
 	<p>It is the policy of DietsInReview.com not to share your personally identifiable information with these advertisers without prior consent. Once you've engaged with one of these advertisers, you'll need to consult their individual privacy policies to learn about their practices. </p>
 
-	<h2>Cobranded and Other Affiliated Sites </h2>
+	<a name="cobranded-and-other-affiliated-sites"></a>
+	<h2>Cobranded and Other Affiliated Sites</h2>
 
 	<p>Certain information or services offered or provided on or through the Site from time to time may be provided on or through other sites operated by or in conjunction with third party providers (“Partners”). These sites may have the same “look and feel” of the Site, and are often cobranded, such that a Partner’s logo or name may appear on the site, or the Partner’s name may appear in the URL. Aggregate or personally identifiable information collected about you on these sites may be shared by DietsInReview.com with that Partner. A Partner will not rent, sell, or disclose any of your personally identifiable information to third parties unless you consent to its doing so, for example, by opting-in while on a particular site to receive information or offers from a Partner’s affiliates, partners, or other third parties. </p>
 
-	<h2>Third Party Links and Member Websites </h2>
+	<a name="third-party-links-and-member-websites"></a>
+	<h2>Third Party Links and Member Websites</h2>
 
 	<p>You acknowledge that we do not monitor, control or endorse the information collection or privacy practices of any third parties, any cobranded or other affiliated sites which may or may not be owned or operated by or in conjunction with DietsInReview.com, or any credit card order processors, product shippers or other third parties who provide services throughout the Site. Accordingly, DietsInReview.com assumes no liability or responsibility for the information collection and privacy practices of any third party. In addition, DietsInReview.com is not responsible for the content of any third party websites, including a third party’s use of any cookies or any other information (such as IP address, browser type or operating system) collected when you "click-through" links to their sites or view advertisements served by them. Even though certain information collected by such third parties might not identify you personally, we strongly encourage you to become familiar with their privacy practices, and to contact such third parties if you have any questions about their respective privacy policies. </p>
 
 	<p>In addition, the Site may provide links to other Internet websites or resources ("Linked Sites"). DietsInReview.com neither controls nor endorses such Linked Sites nor have we reviewed or approved any content that appears on such Linked Sites. You acknowledge and agree that DietsInReview.com is not responsible for the legality, accuracy or inappropriate nature of any content, advertising, products or other materials on or available from such Linked Sites. You further acknowledge and agree that DietsInReview.com shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods, and services available on or through any such Linked Site. </p>
 
-	<h2>Review Process </h2>
+	<a name="review-process"></a>
+	<h2>Review Process</h2>
 
 	<p>DietsInReview.com employs a team of health and nutrition professionals to conduct each review published on the Site. These reviews are written in good faith that all information is accurate to the best of our knowledge. When physical reviews cannot be completed, extensive research is conducted to capture a thorough representation of the product, its benefits and disadvantages. The reviews published on the Site are the unbiased, objective opinion of DietsInReview.com. Our reviews are never influenced by third parties or advertisers, and we do not publish sponsored reviews. We aim to present the facts about a product or service and allow the user to form their own opinion.  </p>
 
-	<h2>Security </h2>
+	<a name="security"></a>
+	<h2>Security</h2>
 
 	<p>The Site uses reasonable security methods to protect the data that resides on our servers. However, no security system is impenetrable. DietsInReview.com cannot warrant or guarantee the security of its servers, nor can it guarantee that information that users supply will not be intercepted while being transmitted to DietsInReview.com over the Internet. If we ever ask users to enter credit card numbers, that information shall always be encrypted. </p>
 
+<a name="how-to-contact-us"></a>
 <h2>How To Contact Us</h2>
 
 <p>	Should you have any questions or concerns about the Policy, please send an e-mail to <a href="mailto:help@dietsinreview.com">help@dietsinreview.com</a>.</p>
@@ -347,27 +366,15 @@ document.observe("dom:loaded", function() {
   GA_googleFillSlot("Right-Promo-Unit-1");
 </script>
 </div>
-												<div class="module_300 with_header">
-		<span class="module_300_border_top"></span>
+											        <div class="module_300 with_header">
+                <span class="module_300_border_top"></span>
 
-					<span class="module_300_header">Featured Blog Posts</span>
-				<ul class="related_blog_posts">
-								
-											<li style="clear:both">
-															<span style="float:left;width:220px">
-								
-								<a style="float:left" href="http://www.dietsinreview.com/diet_column/?p=11802">The Biggest Loser Diet at Home</a>								<p style="float:left;clear:left;width:300px"> It's almost time for another season of The Biggest Loser. One of the things I think makes this show unique is that more people watch it for inspiration rather than entertainment. As a nutrition and fitness expert who tunes in religiously, I get tons of questions about my impressions of the show. My favorite is the epiphanies and... </p><br class="clear">
-
-								</span>
-														<br class="clear">							
-
-						</li>		
-			 												
-												
-											<li class="alt" style="clear:both">
-															<span style="float:left;width:220px">
-								
-								<a style="float:left" href="http://www.dietsinreview.com/diet_column/?p=6924">Understanding the Food Exchange List</a>								<p style="float:left;clear:left;width:300px"> 
+                                        <span class="module_300_header">Featured Blog Posts</span>
+                                <ul class="related_blog_posts">
+                        
+                                                                                        <li style="clear:both">
+                                                                                                                        <img src="/images/cache/60x60_healthy-breakfast.gif" class="blog_thumb" alt="thumb">                                                                <span style="float:left;width:220px">
+                                                                        <a style="float:left" href="http://www.dietsinreview.com/diet_column/?p=6924">Understanding the Food Exchange List</a>                                                                        <p style="float:left;clear:left;width:220px"> 
 
 
 	Each list is a group of measured or weighed foods of approximately the same nutritional value.
@@ -376,105 +383,119 @@ document.observe("dom:loaded", function() {
 	Foods are grouped into basic types — starches, fruits, milk, meat, vegetables, fats, etc.
 
 
-	Within each group, you'll see how much you can eat of various foods for the same amount of calories, carbohydrates and other... </p><br class="clear">
+	Within each group, you'll see how much you can eat of various foods for the same amount of calories, carbohydrates and other... </p>
 
-								</span>
-														<br class="clear">							
+                                                                </span>
+                                                                                                                <br class="clear">
 
-						</li>		
-			 												
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-												
-																	
-									</ul><br class="clear">
-		<span class="module_300_border_bottom"></span></div>
+                                                </li>
+                         
+                                                        
+                                                                                        <li class="alt" style="clear:both">
+                                                                                                                        <img src="/images/cache/60x60_sack-lunch.jpg" class="blog_thumb" alt="thumb">                                                                <span style="float:left;width:220px">
+                                                                        <a style="float:left" href="http://www.dietsinreview.com/diet_column/?p=10860">Healthy Lunch Box Swaps that are Good for Your Kids</a>                                                                        <p style="float:left;clear:left;width:220px"> The week of August 10 is Healthy Back to School Week at DietsInReview.com.
+
+Even at my age, I can't help but get the back to school butterflies. I have always loved this time of year. I no longer have a need for fresh packs of pencils, new backpacks or new notebooks, but that doesn't stop me from wandering down the aisles.
+
+One... </p>
+
+                                                                </span>
+                                                                                                                <br class="clear">
+
+                                                </li>
+                         
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                        
+                                        
+                                                                        </ul><br class="clear">
+                <span class="module_300_border_bottom"></span></div>
 <br class="clear">
 
 
@@ -487,18 +508,18 @@ document.observe("dom:loaded", function() {
 		
 <span class="video_thumb_index">
 
-		<a href="http://www.dietsinreview.com/videos/dietsinreview.com-launches-mydir/" title="DietsInReview.com Launches MyDIR"><img src="http://i.ytimg.com/vi/4129bYDw6lo/2.jpg" alt="DietsInReview.com Launches MyDIR" height="97" width="130"></a>					
+		<a href="http://www.dietsinreview.com/videos/yoga-for-breast-cancer-survivors/" title="Yoga for Breast Cancer Survivors"><img src="http://i.ytimg.com/vi/VSCaTIl9nh8/2.jpg" alt="Yoga for Breast Cancer Survivors" height="97" width="130"></a>					
 			
-		<a href="http://www.dietsinreview.com/videos/dietsinreview.com-launches-mydir/" title="DietsInReview.com Launches MyDIR"><h3>DietsInReview.com Launches MyDIR</h3></a>					
+		<a href="http://www.dietsinreview.com/videos/yoga-for-breast-cancer-survivors/" title="Yoga for Breast Cancer Survivors"><h3>Yoga for Breast Cancer Survivors</h3></a>					
 
 
 
 </span>
 <span class="video_thumb_index">
 
-		<a href="http://www.dietsinreview.com/videos/married-couple-has-gastric-surgery-together/" title="Married Couple Has Gastric Surgery Together"><img src="http://www.dietsinreview.com/diet_column/wp-content/uploads/2009/02/married-couple-gastric-bypass.jpg" alt="Married Couple Has Gastric Surgery Together" height="97" width="130"></a>					
+		<a href="http://www.dietsinreview.com/videos/how-to-make-a-healthy-smoothie/" title="How to Make a Healthy Smoothie"><img src="http://i.ytimg.com/vi/-R1WWSiA3G8/2.jpg" alt="How to Make a Healthy Smoothie" height="97" width="130"></a>					
 			
-		<a href="http://www.dietsinreview.com/videos/married-couple-has-gastric-surgery-together/" title="Married Couple Has Gastric Surgery Together"><h3>Married Couple Has Gastric Surgery Together</h3></a>					
+		<a href="http://www.dietsinreview.com/videos/how-to-make-a-healthy-smoothie/" title="How to Make a Healthy Smoothie"><h3>How to Make a Healthy Smoothie</h3></a>					
 
 
 
@@ -513,26 +534,26 @@ document.observe("dom:loaded", function() {
 
 		<ul class="related_recipes">
 								
-						<li><a href="http://www.dietsinreview.com/recipes/rosemary-skewered-chicken-with-orange-glaze/" title="Rosemary Skewered Chicken with Orange Glaze">Rosemary Skewered Chicken with Orange Glaze</a>							
-									<p>Curtis Stone showed Biggest Loser how to make Superbowl appetizers that are rich in flavor and appearance. These chicken skewers are cooked on rosemary stems and drizzled with a sweet guiltless glaze.</p>
+						<li><a href="http://www.dietsinreview.com/recipes/grilled-salmon-burger/" title="Grilled Salmon Burger">Grilled Salmon Burger</a>							
+									<p>From the Biggest Loser 30-Day Jump Start comes a fresh recipe just in time for Spring grilling. Salmon, cilantro, ginger and lime make a juicy and flavorful salmon burger.</p>
 							
 									</li>	
 								
 													
-						<li class="alt"><a href="http://www.dietsinreview.com/recipes/chocolate-zucchini-snack-cake/" title="Chocolate Zucchini Snack Cake">Chocolate Zucchini Snack Cake</a>							
-									<p>Chocolate Zucchini Snack Cake</p>
+						<li class="alt"><a href="http://www.dietsinreview.com/recipes/old-fashioned-macaroni-and-cheese/" title="Old Fashioned Macaroni and Cheese">Old Fashioned Macaroni and Cheese</a>							
+									<p>Just a good 'ole macaroni and cheese recipe. A serious feel-good food that won't make you feel bad.</p>
 							
 									</li>	
 								
 													
-						<li><a href="http://www.dietsinreview.com/recipes/delicious-lentil-salad/" title="Delicious Lentil Salad">Delicious Lentil Salad</a>							
-									<p>Shannon Marentette submitted this recipe to DietsInReview.com as part of our vegetarian recipe challenge. It's a hearty, protein-filled meal made of lentils, sundried tomatoes, fresh peppers and parsley.</p>
+						<li><a href="http://www.dietsinreview.com/recipes/sweet-n-spicy-pork-tenderloin/" title="Sweet 'n Spicy Pork Tenderloin">Sweet 'n Spicy Pork Tenderloin</a>							
+									<p>From the Biggest Loser kitchens comes a truly American meal that you can feel good about serving your family. A perfect blend of spices and honey give this pork tenderloin an irresistible flavor that cooks until juicy and tender.</p>
 							
 									</li>	
 								
 													
-						<li class="alt"><a href="http://www.dietsinreview.com/recipes/frosty-pumpkin-smoothie/" title="Frosty Pumpkin Smoothie">Frosty Pumpkin Smoothie</a>							
-									<p>Satisfy your craving for pumpkin pie by cooling off with a Frosty Pumpkin Smoothie. This irresistible creation is from the Biggest Loser 30 Day Jump Start.</p>
+						<li class="alt"><a href="http://www.dietsinreview.com/recipes/summer-fruit-salad/" title="Summer Fruit Salad">Summer Fruit Salad</a>							
+									<p>Make a stop by the farmer's market before you make this fresh Summer Fruit Salad. This recipe is packed with fresh fruits like mangos, blueberries, strawberries and bananas- and rather than coat it in whipped cream you'll drizzle with a honey orange sauce.</p>
 							
 									</li>	
 								
@@ -557,7 +578,7 @@ document.observe("dom:loaded", function() {
 				
 			</div><!-- /content_wrapper --></div>
 
-			<div id="footer" style="clear:both"><img src="http://dietsinreview.s3.amazonaws.com/images/footer_top.png" style="margin:0 auto;"><div class="content">
+			<div id="footer" style="clear:both"><img src="http://dietsinreview.s3.amazonaws.com/images/footer_top.png"><div class="content">
 	
 		<div style="text-align:center;padding-bottom:12px">
 			<!-- PUT THIS TAG IN DESIRED LOCATION OF SLOT Resources-Bottom-728x90
@@ -601,7 +622,6 @@ document.observe("dom:loaded", function() {
 
 
 		<form method="post" action="/newsletters/subscribe/" accept-charset="UTF-8">
-		
 	
 		<div id="newsletterWrapper">
 			
@@ -663,7 +683,7 @@ document.observe("dom:loaded", function() {
 		<br class="clear">
 	
 		
-		<p class="copyright_block" style="clear:both">©2010 Diets in Review</p>
+		<p class="copyright_block" style="clear:both">©2011 Diets in Review</p>
 		
 		<p class="disclaimer_block">The content of this site is for informational purposes only and is not to be perceived as 
 providing medical advice, diagnosis or treatment. The information provided on this site should complement, not replace, the advice and 
@@ -689,14 +709,14 @@ COMSCORE.beacon({
 c1: 2,
 c2 : '6035818',
 c3 : '' ,
-c4 : 'http://www.dietsinreview.com/privacy',
+c4 : 'http://www.dietsinreview.com/privacy/',
 c5 : '' ,
 c6 : '' ,
 c15: ''
 });
 </script>
 <noscript>
-<img src="http://b.scorecardresearch.com/b?c1=2&c2=6035818&c3=&c4=http%3A%2F%2Fwww.dietsinreview.com%2Fprivacy&c5=&c6=&c15=&cv=1.3&cj=1"
+<img src="http://b.scorecardresearch.com/b?c1=2&c2=6035818&c3=&c4=http%3A%2F%2Fwww.dietsinreview.com%2Fprivacy%2F&c5=&c6=&c15=&cv=1.3&cj=1"
 style="display:none" width="0" height="0" alt="" />
 </noscript>
 <!-- End comScore Tag -->
