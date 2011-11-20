@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixelmill.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523062104id_/http%3A//www.pixelmill.com/pixelmill/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixelmill.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120074511id_/http%3A//www.pixelmill.com/pixelmill/privacy.aspx) for the most accurate reproduction.*
 
 # PixelMill: Privacy Policy
 
@@ -22,7 +22,7 @@ Our site provides users the opportunity to OPT-IN to receive future communicatio
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-  1. You can send email to [support@pixelmill.com](mailto:support@pixelmill.com)
+  1. You can send email to support@pixelmill.com
   2. You can send mail to the following postal address:  
 1477 Drew Ave, Suite 103, Davis, CA 95618  
 
@@ -33,7 +33,7 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided.
 
-  1. email [support@pixelmill.com](mailto:support@pixelmill.com)
+  1. email support@pixelmill.com
   2. send mail to the following postal address:  
 1477 Drew Ave, Suite 103, Davis, CA 95618
 
@@ -48,6 +48,6 @@ Attn: Support
 1477 Drew Ave, Suite 103  
 Davis, CA 95618
 
-or email: [support@pixelmill.com](mailto:support@pixelmill.com)
+or email: support@pixelmill.com
 
 Back to top
