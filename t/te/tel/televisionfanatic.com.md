@@ -1,119 +1,70 @@
-> *The following text is extracted and transformed from the televisionfanatic.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208034302id_/http%3A//helpint.mywebsearch.com/intlinfo/privacy/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the televisionfanatic.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120081617id_/http%3A//www.priceblink.com/webcpns/page.php%3Fsp_id%3D7) for the most accurate reproduction.*
 
-# Privacy Policy Summary
+# PriceBlink
 
-### CONSUMER PRIVACY AND THE FUNWEBPRODUCTS™ SUITE OF WEBSITES AND RELATED SERVICES
+**PriceBlink Privacy Policy  
+**   
+**Last Updated:   December 2, 2009 **   
+**General**   
+This is the Privacy Policy of PriceBlink ("us", or "we").  By accessing the PriceBlink.com website or using the PriceBlink add-on (collectively known as "PriceBlink"), you agree that you have read and understand the following privacy policy, which describes how we use your personal information, and what options you have to make changes to or request the deletion of information submitted to us via the PriceBlink service.  
 
-Mindspark Interactive Network, Inc. (MINDSPARK) is a part of the IAC family of businesses ([www.iac.com](http://www.iac.com/)), which includes Ask.com, iWon.com, Girlsense.com, Life123.com, Vimeo.com, Citysearch, Evite, Match.com, ServiceMagic, Gifts.com, Pronto, Shoebuy, College Humor, and many others.
+Please read the [Terms of Use](https://web.archive.org/web/20111120081617id_/http%3A//www.priceblink.com/webcpns/page.php?sp_id=6) and this Privacy Policy carefully. Our [Terms of Use](https://web.archive.org/web/20111120081617id_/http%3A//www.priceblink.com/webcpns/page.php?sp_id=6) and Privacy Policy may be modified by us from time to time, and will become effective immediately upon posting to PriceBlink.com.  It is your responsibility to regularly check PriceBlink.com to determine if there have been changes to the [Terms of Use](https://web.archive.org/web/20111120081617id_/http%3A//www.priceblink.com/webcpns/page.php?sp_id=6) or the Privacy Policy and to review the changes.  If you do not agree with either the [Terms of Use](https://web.archive.org/web/20111120081617id_/http%3A//www.priceblink.com/webcpns/page.php?sp_id=6) or this Privacy Policy, do not use the PriceBlink.com website or the PriceBlink add-on.
 
-At MINDSPARK, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on the Webfetti.com, SmileyCentral.com, CursorMania.com, Kazulah.com, PopularScreensavers.com and MyFunCards.com websites and related applications/services (each, an “FWP Product” and collectively, the “FWP Products”). To read the entire Privacy Policy applicable to the FWP Products, please [click here](http://helpint.mywebsearch.com/intlinfo/privacy-policy/privacy-policy.jhtml). The Privacy Policy applicable to Zwinky may be found [here](http://info.zwinky.com/zwinkyinfo/privacy.jhtml). The Privacy Policy applicable to IWon may be found [here](http://www.iwon.com/home/modules/pages/support/privacypolicy.jhtml).
+**No Use Of PriceBlink By Persons Under The Age Of 13**
 
-### The FWP Products′ Privacy Policy was last updated on: January 22, 2009.
+The PriceBlink service is not intended for use by anyone under 18, except with the explicit permission and under the supervision of a parent or guardian who accepts full legal responsibility for the minor's use.  PriceBlink does not  knowingly collect or use personally identifiable information from children under 13. If a child under 13 has provided us with personally identifiable information without parental or guardian consent, the parent or guardian should contact us to remove the minor's information.
 
-### INFORMATION WE MAY COLLECT[[Read more]](http://helpint.mywebsearch.com/intlinfo/privacy-policy/privacy-policy.jhtml#section1)
+**What information is collected by PriceBlink?**
 
-We may collect information that can identify you (“personal information”), such as your name and email address, (i) when you (or other users) provide it to us when using any FWP Product or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources.
+PriceBlink collects two types of data:  1) User Submitted Data, and 2) Passive Data.
 
-We also may collect other types of information in the following ways when you visit any FWP Product website:
+ _User Submitted Data_
 
-  * Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users′ movements around our site and understand trends.
-  * We may assign your computer one or more cookies which may collect information to facilitate access to a FWP Product website and to personalize your online experience.
-  * We may use standard Internet tools, such web beacons, which collect information that tracks your use of our FWP Product websites and enables us to customize our services and advertisements.
+PriceBlink collects personal information that you provide to us for the purposes of site updates, newsletters, notifications, and additional PriceBlink functionalities.   Examples of User Submitted Data that you have the option of providing might include email, zip code, phone numbers.  We will not use this data to provide any services or marketing that you have not requested.  We may share User Submitted Data with persons we employ directly, or as contractors or agents at our direction, for purposes of administering our business activities, or providing customer services such as support.
 
+**_You are not required to provide any User Submitted Data to use PriceBlink._** _  _By providing additional information, PriceBlink might be able to provide additional functionality to users, but there is no requirement that users provide personal information to use PriceBlink.
 
+ _  
+Passive Data_
 
-We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children′s Online Privacy Protection Act.
+PriceBlink Add-on
 
-### INFORMATION OTHERS MAY COLLECT[[Read more]](http://helpint.mywebsearch.com/intlinfo/privacy-policy/privacy-policy.jhtml#section1)
+When you use your browser to navigate the web, the PriceBlink add-on enables you to find additional pricing and coupon information.  In order to provide these services the PriceBlink add-on collects the following information: the characteristics of the item, the retailer page, the url of the page you are on, and other anonymous technical data such as IP address.
 
-We may allow third-party advertising companies or ad networks to display advertisements or place ad tags on our FWP Products′ websites.
+Cookies
 
-  * We do not provide any personal information to these companies.
-  * These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements.
-  * Some of these companies may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/), which offers consumers the ability to opt out of ad targeting by all member companies.
+PriceBlink utilizes an industry standard technology called "cookies" to collect information about how PriceBlink is used. Passive Data collected may include your browser type, operating system, ISP, the date / time of visits, PriceBlink.com pages viewed, and the referring site to PriceBlink.com and any third party site PriceBlink links to. Passive Data is collected on an aggregate basis without any association to your personal information so that you remain anonymous.
 
+We may also allow third parties, such as advertisers on our PriceBlink, to place cookies on PriceBlink in order to improve your online experience after you leave PriceBlink. The third party cookies used on PriceBlink are designed to improve your online experience by facilitating the receipt of targeted advertisements while on PriceBlink and while you are viewing other websites. These third parties may use information about your visits to PriceBlink and other web sites obtained through their cookie only to provide advertisements for goods and services of interest to you. Other companies use of these cookies is subject to their own privacy policies and not ours.  **_We do not provide these third parties with any personally identifiable information_** _._
 
+If you do not wish to transmit cookie information about yourself, you may choose to turn off the cookie function in your web browser.  If you do choose to turn off cookies, certain features of PriceBlink might be affected and not work properly.
 
-If you post information about yourself or others, or communicate with others using any FWP Product, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information.
+**How PriceBlink Uses The Information Collected**
 
-### HOW WE MAY USE INFORMATION WE COLLECT[[Read more]](http://helpint.mywebsearch.com/intlinfo/privacy-policy/privacy-policy.jhtml#section2)
+PriceBlink uses the User Submitted Data collected to deliver the content, features, notifications, and services that you have requested.   **_You are not required to provide any User Submitted Data to use PriceBlink, however we do not guarantee that all features of the PriceBlink service will work properly without User Submitted Data.   _**We will not use the information you provide to send unsolicited marketing to you.  The purpose of collecting User Submitted Data is to make additional features, information and services available to you.  PriceBlink shall give users the option to remove themselves from any further messaging at any time by [contacting us](https://web.archive.org/web/20111120081617id_/http%3A//www.priceblink.com/webcpns/page.php?sp_id=5).  
 
-We may use information to:
+If you contact us via email, we may retain the information included the original email, along with any response to your email, in order to facilitate future customer support.  We will not use this information to contact you for any other purpose.
 
-  * Fulfill your requests for products and services;
-  * Offer products and services that may be of interest to you;
-  * Process payment for products or services you order via a FWP Product website;
-  * Customize the advertising and content that you see on any FWP Product website;
-  * Facilitate use of our FWP Product websites;
-  * Manage your account and your preferences;
-  * Analyze use of and improve our websites, products and services;
-  * Identify and protect against fraudulent transactions and other misuses of our websites; and
-  * Enforce any EULA, terms of use, terms of service or other terms/policies governing your use of the FWP Products.
+If a user elects to use our "Share this Page" referral service for informing another user PriceBlink, we ask for both the users name and email and the recieptient's name and emial.  We will automatically send the recipient a one-time email inviting them to visit PriceBlink.com.  Subsequent to transmission, both the user's and the recipient's infomation shall be deleted.
 
+Passive Data shall be used to optimize the performance, improve the usability, enhance the experience on PriceBlink.com and the PriceBlink add-on.  We may share with third parties, such as advertisers or other website operators, aggregate information about site usage, demographics or other characteristics.  Any data shared shall be aggregated and anonymous, and not contain user specific information.
 
+We may use data collected to manage PriceBlink service, help diagnose problems with servers, and optimize the design of the PriceBlink service.
 
-### WITH WHOM WE MAY SHARE INFORMATION WE COLLECT[[Read more]](http://helpint.mywebsearch.com/intlinfo/privacy-policy/privacy-policy.jhtml#section3)
+**Links to Third Party Websites**
 
-We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with:
+PriceBlink is a directory of offers at third party sites.  You will be transferred to online merchants or other third party sites through links on PriceBlink.  PriceBlink is not responsible for the content or privacy practices of those sites, and our Privacy Policy does not apply to information collected by those sites.  Before using third party sites, you should read and understand those sites' privacy policies to ensure you agree to their terms.
 
-  * Service providers, such as credit-card payment processors, performing services on our behalf;
-  * Other IAC businesses;
-  * Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our FWP Products or offline; and
-  * Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
+**Sharing Information with the Government or As Otherwise Required by Law**
 
-
-
-We may share aggregated, non-personal information in any of the above situations and also with advertisers and others.
-
-### YOUR CHOICES[[Read more]](http://helpint.mywebsearch.com/intlinfo/privacy-policy/privacy-policy.jhtml#section8)
-
-You may choose:
-
-  * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of the FWP Products;
-  * To stop receiving promotional emails or newsletters from us by sending an email to the contact address at the bottom of this policy or by clicking [here](http://www.mailunsubscribe.com/optout.jsp?pid=FWP001);
-  * To delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of the FWP Products may not function properly;
-  * To review and update your personal information by contacting us at the email address below or, if you have an online account on any FWP Product website, by logging into that account.
-
-
-
-### SECURITY[[Read more]](http://helpint.mywebsearch.com/intlinfo/privacy-policy/privacy-policy.jhtml#section9)
-
-We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.
-
-### CHANGES TO OUR PRIVACY POLICY
-
-We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our FWP Products′ websites.
-
-### HOW TO CONTACT US
-
-If you have any questions about this summary, our [Privacy Policy](http://helpint.mywebsearch.com/intlinfo/privacy-policy/privacy-policy.jhtml), or our information practices, please contact us by email or postal mail below:
-
-Mindspark Interactive Network, Inc.  
-One North Lexington, 9th Floor  
-White Plains, NY, 10601  
-ATTN: Privacy Officer/Legal Dept.  
-[privacy[at]mindspark.com](mailto:privacy@mindspark.com)
-
-END OF DOCUMENT.
-
-© 2010 Mindspark Interactive Network, Inc. All rights reserved.
-
-### GLOSSARY:
-
-Cookies:
-    
-
-A cookie is a small text file that is stored on a user′s computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time.
-
-Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. When you sign in to your account on our website, we will record your user or member ID and the name on your user or member account in the cookie file on your computer. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. For security purposes, we will encrypt any usernames, passwords, and other user or member account-related data that we store in such cookies. In the case of sites and services that do not use a user or member ID, the cookie will contain a unique identifier. We may allow our authorized service providers to serve cookies from our website to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising.
-
-You may delete or decline cookies by changing your browser settings. (Click “Help” in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly.
-
-We may allow third-parties, including IAC companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party′s privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the [Network Advertising Initiative](http://www.networkadvertising.org/), which offers consumers the ability to opt out of ad targeting by all member companies.
-
-Web Beacons:
-    
-
-Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user′s computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence.
-
-Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may include web beacons in promotional [or other] e-mail messages or newsletters to determine whether messages have been opened and acted upon. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.
+We may disclose information when we believe in good faith that the law requires it, or if we consider it necessary to maintain service and improve our products and services.  
+**  
+Sale or Transfer of Information**   
+In the event of a sale, merger, liquidation, dissolution, or transfer of the PriceBlink business or assets, all information collected may be sold, assigned, or transferred to the acquiring party. Should you object to the transfer of your User Submitted Information, you have the option to have your User Submitted Information removed from our database.    
+**Security**   
+PriceBlink has security measures in place to protect the loss, misuse and alteration of the data under our control.  Although we take reasonable steps to safeguard your personally identifiable information, we can not be responsible for the acts of those who gain unauthorized access, and we make no warranty, express, implied or otherwise, that we will prevent such access.   
+**Opt Out / Removal of User Submitted Information**   
+PriceBlink provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request User Submitted Information from you.   
+You may also request that we remove your User Submitted Information from our database, or stop sending you future communications by [contacting us](mailto:contact@priceblink.com?body=%0A%0A%0A%0A%0A%0AIf%20you%20are%20reporting%20a%20technical%20problem,%20the%20following%20information%20will%20assist%20our%20troubleshooting:%0A204.236.226.210%0AMozilla/5.0%20\(X11;%20Linux%20x86_64\)%20AppleWebKit/537.36%20\(KHTML,%20like%20Gecko\)%20HeadlessChrome/69.0.3494.0%20Safari/537.36).    
+**Corrections**   
+Users may submit requests to PriceBlink for changing, deleting, and modifying User Submitted Information, by [contacting us](mailto:contact@priceblink.com?body=%0A%0A%0A%0A%0A%0AIf%20you%20are%20reporting%20a%20technical%20problem,%20the%20following%20information%20will%20assist%20our%20troubleshooting:%0A204.236.226.210%0AMozilla/5.0%20\(X11;%20Linux%20x86_64\)%20AppleWebKit/537.36%20\(KHTML,%20like%20Gecko\)%20HeadlessChrome/69.0.3494.0%20Safari/537.36). 
