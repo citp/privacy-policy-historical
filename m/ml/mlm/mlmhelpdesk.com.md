@@ -1,27 +1,86 @@
-> *The following text is extracted and transformed from the mlmhelpdesk.com privacy policy that was archived on 2007-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070614124515id_/http%3A//www.mlmhelpdesk.com/7.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmhelpdesk.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120152411id_/http%3A//mlmhelpdesk.com/privacy-statement) for the most accurate reproduction.*
 
-# MLM HELP DESK - Testimonials
+# MLM Help Desk | Privacy Statement
 
-### PRIVACY POLICY
+Privacy Policy  
+MLMHelpDesk.com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website. 
 
-Last Updated: August 1st, 2006
+“You” or “Your” means you as a participant in or as a user of the MLMHelpDesk.com website. “We” or “Our” or “Us” means TheNetworkMarketingAdvocates.com. “Our site” means TheNetworkMarketingAdvocates.com. 
 
-D.B.R. Marketing Group, Inc. and MLMHelpDesk.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. 
+All information transmitted, printed or otherwise submitted to MLMHelpDesk.com via this website shall be deemed to be the property of MLMHelpDesk.com and MLMHelpDesk.com shall be free to use such information for any lawful purpose as detailed herein. 
 
-**  
-How we gather information from users**
+This site contains links to other sites and we are not responsible for the privacy practices or the content of such sites. 
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, D.B.R. Marketing Group, Inc. and MLMHelpDesk.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the siteâ€™s features according to your preferences.  
-**  
-What we do with the information we collect** Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. Contact information may be shared between D.B.R. Marketing Group, Inc. and registered affiliates of D.B.R. Marketing Group, Inc. and MLMHelpDesk.   
+We reserve the right to release such information to law enforcement or other governmental officials as we, in our sole and absolute discretion, deem necessary to comply with the law. 
 
+**Section 1 – Collected Information**
 
-Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+We automatically collect and/or track the following:  
+1\. Web page http headers (home server domain names, IP address, type of client computer, and type of Web browser);  
+2\. information knowingly provided by you through on-line forms, registration forms, surveys, and/or other entries, such as email addresses, personal, financial or demographic information;  
+3\. information, user specific or aggregate, on what pages our visitors access; and  
+4\. E-mail addresses of visitors that communicate with MLMHelpDesk.com via e-mail.
 
-We may use Personally Identifiable Information collected on MLMHelpDesk.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by MLMHelpDesk.com and other topics we think you might find of interest.Personally Identifiable Information collected by D.B.R. Marketing Group, Inc. and MLMHelpDesk.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, offers, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases. **Affiliated sites, linked sites and advertisements** D.B.R. Marketing Group, Inc. and MLMHelpDesk.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a D.B.R. Marketing Group, Inc. or MLMHelpDesk.com page, certain content that is actually created or hosted by a third party. Also, through D.B.R. Marketing Group, Inc. and MLMHelpDesk.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. D.B.R. Marketing Group, Inc. and MLMHelpDesk.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. D.B.R. Marketing Group, Inc. and MLMHelpDesk.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of D.B.R. Marketing Group, Inc. and MLMHelpDesk.com and this policy.  
-**  
-Children** D.B.R. Marketing Group, Inc. and MLMHelpDesk.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe MLMHelpDesk.com has any information from or about anyone under 13, please contact us at the address listed below.Contacting Us.We can be reached by contacting:D.B.R. Marketing Group, Inc. Email: Info@DBRMarketingGroup.com Changes to this PolicyD.B.R. Marketing Group, Inc. and MLMHelpDesk.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. **Governing law** This policy and the use of this Site are governed by Florida law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Destin, Florida. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: San Antonio, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
+**Section 2 – Use of Data Collected**
 
-D.B.R. Marketing Group, Inc. and MLMHelpDesk.com is controlled, operated and administered entirely within Florida. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes, and for editorial or feedback purposes for our advertisers. Information collected by us may be added to our databases and used for future telemarketing, SMS text-messaging, e-mails or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online. By using this site, you agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry. 
 
-—————————————————————————————————————————
+**Section 3 – Disclosure of Data to Third Parties**
+
+If you choose to provide personal information, it will be used for the following purposes:  
+1\. considering you for a MLMHelpDesk.com product;  
+2\. as required by law; and  
+3\. for marketing products and services which we determine, in our sole judgment, that you might find of interest. We reserve the right to share, rent, sell, or otherwise disclose data we collect to third parties. Any third party we share, rent, sell, or otherwise disclose data to will be prescreened by us, determined by us to be reputable, and will use the personal data for marketing products and services which we determine, in our sole judgment, that you might find of interest.
+
+**Section 4 – Your Opt-Out Rights**
+
+You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the “Unsubscribe” link at the bottom of every email we send you, or by sending your request, in writing, via email to: MarketingATMLMHelpDeskDOTcom (Please replace “AT” with @ and “DOT” with .) 
+
+**Section 5 – We Do Not Intend to Collect Data from Children**
+
+The information and services provided to us or our affiliates, sponsors, and advertisers are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside MLMHelpDesk.com. No part of MLMHelpDesk.com’s web site is structured to attract anyone under the age of 18. 
+
+**Section 6 – Our Right to Contact You**
+
+We reserve the right to contact you regarding your account status and changes to subscriber agreements, privacy policy, or any other policies or agreements relevant to you. 
+
+**Section 7 – Our Right to Change**
+
+We reserve the right to change this policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our site. 
+
+**Section 8 – Our Contact Information**
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to: MarketingATMLMHelpDeskDOTcom (Please replace “AT” with @ and “DOT” with .) 
+
+**Section 9 – Anti Spam Policy. Can-Spam Act Compliance**
+
+MLMHelpDesk.com is dedicated to ensuring compliance with the ‘Can-Spam Act’, which took effect January 1, 2004. You may receive email from MLMHelpDesk.com in the following circumstances:  
+1\. Acknowledging your application has been received and requesting additional action  
+2\. Requests for additional information to support your current application  
+3\. Response to your inquiries regarding the status of your transactional requests  
+4\. Thanking you for your valued business  
+5\. Advertisements for our products, services, changes in services, new product availability  
+6\. Advertisements for third party products and services where we have determined that such product or service may be of interest to our customers
+
+To ensure compliance with the Can-Spam Act, MLMHelpDesk.com has implemented the following guidelines for email delivery:  
+1\. All emails sent to you by MLMHelpDesk.com will clearly identify MLMHelpDesk.com as the sender. FROM / SENDER: someone@MLMHelpDesk.com (NOTE: The actual sender will alter from department to department, but all from addresses will end with @MLMHelpDesk.com.  
+2\. The Subject Line of any email you receive will always accurately describe the subject matter of the email.  
+3\. Any email from MLMHelpDesk.com will include the ability to unsubscribe from future email messages.  
+4\. Unsubscribing will ensure the customer is removed from ALL lists at MLMHelpDesk.com; this excludes customer service emails regarding the processing and status of a current product.  
+5\. All emails sent to you directly by MLMHelpDesk.com include valid postal address information in the footer.  
+6\. All third party marketing partners are required to comply with the Can-Spam Act.  
+7\. Emails sent to you directly by MLMHelpDesk.com will include an email address and physical address where you can send suggestions, complaints or other correspondence.
+
+**Section 13 – Information for ISPs**
+
+Web site: BlogSuccess.com  
+Email Address: MarketingATMLMHelpDeskDOTcom  
+(Please replace “AT” with @ and “DOT” with .)
+
+MLMHelpDesk.com understands consumers’ concerns over the use of their personal information. We hope this information will relieve any concerns your company may have regarding our email policies. MLMHelpDesk.com and its affiliated sites use only an “opt-in or opt out” method of obtaining customer information, and it is not our policy or desire to send unsolicited email. We obtain email addresses and personal information from third parties that follow the same set of policies. MLMHelpDesk.com email messages sent always include information about the origin of the emails and instructions on how recipients can unsubscribe from receiving future email messages. 
+
+From time to time, MLMHelpDesk.com will enter into an arrangement with a third party website to allow individuals to opt into our marketing program on those third party websites. In each case the third party websites have represented and warranted to us, among other things,  
+1\. that the data was collected voluntarily from individuals on website registrations and co-registrations,  
+2\. that the sellers have a right, under any applicable privacy statements, to transfer the data to us, and  
+3\. that MLMHelpDesk.com has the right to send marketing offers to the individuals.  
+We hope this information satisfies any questions or concerns you may have regarding the email practices of TheNetworkMarketingAdvocates.com. If you have additional questions or wish to discuss this matter further, please contact us at: supportATMLMHelpDeskDOTcom (Please replace “AT” with @ and “DOT” with .)
