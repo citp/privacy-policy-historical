@@ -1,12 +1,18 @@
-<!--The following is the downloaded HTML source of the theadvertiser.com privacy policy that was archived on 2011-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110522094845id_/http%3A//www.theadvertiser.com/section/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theadvertiser.com privacy policy that was archived on 2011-11-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111120135533id_/http%3A//www.theadvertiser.com/section/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:meebo="http://www.meebo.com" lang="en"><head>
 							<title>PRIVACY | The Advertiser | theadvertiser.com </title>
+			<meta property="og:title" content="The Advertiser PRIVACY Section">
+			<meta property="og:type" content="website">
+			<meta property="og:description" content="PRIVACY news from The Advertiser.">
 <meta name="keywords" content="theadvertiser.com,Lafayette,LA,News,local news,headlines,stories,world news">
 <meta name="description" content="Lafayette LA News - theadvertiser.com is the home page of Lafayette LA with in depth and updated Lafayette local news. Stay informed with both Lafayette LA news as well as headlines and stories from around the world.">
+<meta property="og:site_name" content="The Advertiser">
+<meta property="og:url" content="http://www.theadvertiser.com/section/PRIVACY">
+		<meta property="og:image" content="http://m.theadvertiser.com/images/bookmark/n_theadvertiser/apple-touch-icon.png">
 <meta name="category" content="PRIVACY">
-<link rel="canonical" href="http://www.theadvertiser.com/section/PRIVACY">
+	<link rel="canonical" href="http://www.theadvertiser.com/section/PRIVACY">
 <meta name="robots" content="noodp">
 <meta name="robots" content="noydir">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -15,6 +21,8 @@
 <meta http-equiv="cache-control" content="no-cache">
 <link href="/includes/css/ody/ody-local.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="/odygci/p5/ody-styles-min.css">
+<meta property="fb:admins" content="127254939822,1312205295">
+<meta property="fb:app_id" content="150147415035780">
 <script src="/odygel/lib/core/core.js"></script>
 <script type="text/javascript"> 
 /*Subsite Redirect*/
@@ -34,17 +42,20 @@ GEL.thepage.pageinfo = {
 	categoryname:"PRIVACY",
 	categoryid:"PRIVACY",
 	pluckpage: 0,
+	commenttype:"facebook",
 	url: { 
 		hostname: "www.theadvertiser.com",
 		domainname: "theadvertiser.com",
 		domainroot: "theadvertiser"
 	},
 	pic: {
-		ptpid: "627"		
+		mycapture: "enabled",
+		enablecategory:  "on",
+		domainname: "theadvertiser.mycapture.com"
 	},
 	date: { 
 		rollover:"03:45",
-		timeoffset: "-05"
+		timeoffset: "-06"
 	},
 	ssts:{
 		adsiteid:"la-lafayette.theadvertiser.com",
@@ -70,6 +81,16 @@ GEL.thepage.pageinfo = {
 };
 GEL.thepage.pageinfo.siteinstance="";
 GEL.thepage.pageinfo.videooverlays="on";
+GEL.thepage.pageinfo.admail={
+	firsttime: false,
+	enable: "on",
+	show: false,
+	currentsubscriber: false
+};
+if(GEL.thepage.pageinfo.admail.enable.toLowerCase() == "on"){
+	GEL.thepage.pageinfo.admail.show= true;
+}
+GEL.thepage.pageinfo.sessiontime=0;
 (function(){
 	var _i = GEL.thepage.pageinfo;
 	GEL.register("social.pluck.api", { 
@@ -86,18 +107,6 @@ GEL.thepage.pageinfo.videooverlays="on";
 	);
 })();
 /*GO4 Faster Semantics*/
-	GEL.thepage.pageinfo.semantics={
-	response:{"Url":"http://www.theadvertiser.com/section/PRIVACY","ContentLength":0,"FetchDuration":3015,"ContentType":"","Id":0,"PathIds":0,"LanguageId":"","Channels":[{}],"UnconStatus":6},
-	source:'CW',
-	enabled:true,
-	status:'6',
-	url:'http://cx.contextweb.com/ctx/?cwurl=http%3A//www.theadvertiser.com/section/PRIVACY',
-	uniqueids:[],
-	uniqueidsdesc:[],
-	allids: [],
-	calltime:'3031',
-	cached:true
-};
 /* Banner configuration and Initialization */
 (function(){
 var 
@@ -165,9 +174,9 @@ var _c= GEL.config.userauth={
 		return _enable.toLowerCase() != 'no' ? true : false; 
 	})(), 
 	app_name: "acadia",
-	host: "newspaper.app40.ur.gcion.com",
+	host: "npapp40ssl.gcion.com",
 	site_name: "theadvertiser.com",
-	enable_ssl: window.location.protocol === 'https:' ? true : false, 
+	enable_ssl: true,
 	enable_reg_help: true, 
 	enable_search: true, 
 	enable_links: false, 
@@ -192,7 +201,8 @@ var _c= GEL.config.userauth={
 	saxotech_site_code: "DG", 
 	site_url:"www.theadvertiser.com",
 	default_avatar: "/odygci/p5/avatar.gif",
-	auto_refresh:false
+	auto_refresh:false,
+	enable_premium: false 
 }, 
 _ur= GEL.config.userreg= {
 	zag_form_url: "/apps/pbcs.dll/section?Category=zagform", 
@@ -245,7 +255,7 @@ GEL.thepage.initializer.addInitRoutine({
 GEL.thepage.initializer.addInitRoutine({ 
 	name: "userauthpostload",
 	namespace: ["legacy.GDNpostload"],
-	priority: 120, 
+	priority: 120,
 	callback: function(){ 
 		/* 
 		The wonders of UA never cease. 
@@ -290,20 +300,21 @@ GEL.thepage.initializer.addInitRoutine({
 	name: "userauthlateload",
 	priority: 300, 
 	callback: function(){
-	if ( GEL.thepage.pageinfo.categoryid.toUpperCase()!="PLUCK_REGISTER"  &&
+		if ( GEL.config.userauth.enable_premium == false &&
+		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="PLUCK_REGISTER"  &&
 		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="PLUCK_SIGNIN"  &&
 		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="NLETTERREGISTER" &&
 		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="GETPUBLISHED01" &&
 		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="NLETTERSIGNIN") {
 			GEL.util.uautil.MakeRemoteCallsilently("signup","socialprovider","signup.html");
 			GEL.util.uautil.MakeRemoteCallsilently("userauthlogin","socialprovider","login.html");
+		}
 		/*	Adding another div for Newsletter sample page */
 		if(GEL.util.uautil.isnlettersubscribe()){
 			var el = document.createElement("div");
 			el.setAttribute('id', 'NLSampleModalcontainer');
 			var temp_elem = document.getElementById("UAModalcontainerwrapper");
 			temp_elem.appendChild(el);
-			}
 		}
 	}
 });
@@ -352,7 +363,7 @@ GEL.thepage.initializer.addInitRoutine({
 		trackExternalLinks: false,
 		trackInlineStats: true,
 		linkDownloadFileTypes: "exe,zip,wav,mp3,mp4,m4v,mov,mpg,avi,wmv,doc,pdf,xls",
-		linkInternalFilters: "javascript:apartments,careerbuilder,cars,customcoupon,customwire.ap.org,eharmony,gannett,gbahn,highschoolsports,homefinder,homescape,infi,job,network,newsbank,newslibrary,pictopia,salary,topix,ur.gcion.com,usatoday,traffic,planetdiscover,metromix,mom",
+		linkInternalFilters: "javascript:apartments,careerbuilder,cars,customcoupon,customwire.ap.org,eharmony,gannett,gbahn,highschoolsports,homefinder,homescape,infi,job,network,newsbank,newslibrary,mycapture,salary,topix,ur.gcion.com,usatoday,traffic,planetdiscover,metromix,mom",
 		linkLeaveQueryString: false,
 		linkTrackVars: "None",
 		usePlugins: true, 
@@ -649,6 +660,7 @@ Combination= category-PRIVACY&type-section-->
 <script id="__gel_nsscript_dateutil" src="https://web.archive.org/odygel/lib/dateutil/dateutil.js"></script>
 </head>
 <body class="ody-skin"><script type="text/javascript" src="https://pix04.revsci.net/J06575/a4/0/0/pcx.js?csid=J06575"></script><script type="text/javascript" src="https://pix04.revsci.net/F09828/a4/0/0/0.js"></script>
+	
 	<script type="text/javascript">
   window['checkCookie']=(function(){ 
 var _={};
@@ -714,7 +726,7 @@ function interMgr(){
 <center class="go4-custom"> 
  <div class="header-container"><div class="header-main"> <div class="header-wrap">
   <div class="header-logo"><a href="#"></a></div> 
-  <a href="#" class="gel-hidden skip">Skip this ad&nbsp;»</a> 
+  <a href="#" class="gel-hidden skip">Continue Reading&nbsp;»</a> 
  </div></div></div> 
  <div class="aggit">Advertisement</div> 
  <div class="ad"> 
@@ -743,9 +755,11 @@ function interMgr(){
 
 	<div class="ody-custom">
 		<div id="modalouter" class="modal-outer-inactive"></div>
+		
 		<div class="main-container">
 			<!-- HEADER -->
-				<!-- @ody_adposnavbar:  -->
+				<!-- ody_topnavigationmenu.pbo -->
+<!-- @ody_adposnavbar:  -->
 <div class="header-container">
 	<div class="header-classified"> 
 		<div class="header-wrap">
@@ -776,34 +790,37 @@ function interMgr(){
 		<div class="column1">
 			<div class="sectionTop">
 				<ul class="clear">
-				<li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/news01">Local News</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="http://content.usatoday.com/dist/custom/gci/topicpage.aspx?cid=theadvertiser">Nation &amp; World</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/7daysarchives">Archives</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="http://theadvertiser.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;city=Lafayette&amp;state=LA">Weather</a></li>
+				<li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/news01">Local News</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="http://content.usatoday.com/dist/custom/gci/topicpage.aspx?cid=theadvertiser">Nation &amp; World</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/7daysarchives">Archives</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="http://theadvertiser.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;city=Lafayette&amp;state=LA">Weather</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/database">Data Central</a></li>
 				</ul>
 			</div>
 		</div>
 		<div class="column2Mega">
 			<div class="latestHeadlines">LATEST HEADLINES</div>
-<div class="section ">
+<div class="section photo">
+	<div class="photoFrame"><a href="/article/20111120/NEWS01/111200339/Pierre-unseats-Hardy-District-44?odyssey=nav|head"><img src="http://cmsimg.theadvertiser.com/apps/pbcsi.dll/bilde?Avis=DG&amp;Dato=20111120&amp;Kategori=NEWS01&amp;Lopenr=111200339&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=30&amp;Pierre-unseats-Hardy-District-44" alt="Vincent Pierre defeated Rickey Hardy 53% to 47% in the District 44 race Saturday, November 19, 2011. Pierre thanks his family and supporters for his win on TV.
+Photo by P.C. Piazza "></a>
+	</div>
 	<div class="headline">
-		<a href="/article/20110522/NEWS01/105220350/Block-schedules-Controversial-vote-has-many-stomping-mad?odyssey=nav|head">Block schedules: Controversial vote has many stomping mad</a>
+		<a href="/article/20111120/NEWS01/111200339/Pierre-unseats-Hardy-District-44?odyssey=nav|head">Pierre unseats Hardy in District 44</a>
 	</div>
 	<div class="summary">
-			Enraged parents, teachers and students crowded into the Lafayette Parish School Board's meeting...<span class="timestamp">- 11:00 pm</span>
+			The heated race for House District 44 ended in an upset Saturday with political newcomer Vincent...<span class="timestamp">- 11:00 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110522/NEWS01/105220354/Miss-residents-eager-return?odyssey=nav|head">Miss. residents eager to return</a>
+		<a href="/article/20111120/NEWS01/111200345/Guillory-re-elected-after-bitter-battle?odyssey=nav|head">Guillory re-elected  after bitter battle</a>
 	</div>
 	<div class="summary">
-		VICKSBURG, Miss.<span class="timestamp">- 11:00 pm</span>
+		OPELOUSAS — After a season of bitter rhetoric and a decisively vicious campaign cycle, state Sen.<span class="timestamp">- 11:00 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110522/NEWS01/105220352/A-Board-divided?odyssey=nav|head">A Board divided</a>
+		<a href="/article/20111120/NEWS01/111200343/Naquin-holds-off-Durel-backed-Doise?odyssey=nav|head">Naquin holds off Durel-backed Doise</a>
 	</div>
 	<div class="summary">
-		It started off like any other School Board meeting.<span class="timestamp">- 11:00 pm</span>
+		Conservative members of the Lafayette City-Parish Council will have a likely ally during the next...<span class="timestamp">- 11:00 pm</span>
 	</div>
 </div>
 		</div>
@@ -820,30 +837,28 @@ function interMgr(){
 		</div>
 		<div class="column2Mega">
 			<div class="latestHeadlines">LATEST HEADLINES</div>
-<div class="section photo">
-	<div class="photoFrame"><a href="/article/20110522/SPORTS/105220360/UL-ousts-Texas?odyssey=nav|head"><img src="http://cmsimg.theadvertiser.com/apps/pbcsi.dll/bilde?Avis=DG&amp;Dato=20110522&amp;Kategori=SPORTS&amp;Lopenr=105220360&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=30" alt=" "></a>
-	</div>
+<div class="section ">
 	<div class="headline">
-		<a href="/article/20110522/SPORTS/105220360/UL-ousts-Texas?odyssey=nav|head">UL ousts Texas</a>
+		<a href="/article/20111120/SPORTS/111200359/Cajuns-set-bowl-invitation-Monday?odyssey=nav|head">Cajuns set for bowl invitation Monday</a>
 	</div>
 	<div class="summary">
-			AUSTIN, Texas — Before advancing to Championship Sunday of the NCAA Austin regional, UL had to...<span class="timestamp">- 11:00 pm</span>
+			Make that email.<span class="timestamp">- 11:00 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110522/SPORTS/105220359/Warhawks-escape-UL-sweep?odyssey=nav|head">Warhawks escape UL sweep</a>
+		<a href="/article/20111120/SPORTS/111200358/BCS-picture-unclear?odyssey=nav|head">BCS picture unclear</a>
 	</div>
 	<div class="summary">
-		MONROE — Drew Granier's string of double-figure batters retired changed the complexion of the game...<span class="timestamp">- 11:00 pm</span>
+		OXFORD, Miss.<span class="timestamp">- 11:00 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110522/SPORTS/105220366/LSU-s-baseball-mom?odyssey=nav|head">LSU's baseball mom</a>
+		<a href="/article/20111120/SPORTS/111200360/Fullerton-downs-Cajuns-69-63?odyssey=nav|head">Fullerton downs Cajuns, 69-63</a>
 	</div>
 	<div class="summary">
-		BATON ROUGE — Like any good baseball mom, Mary Ann Mahtook waited until after the game to tell her...<span class="timestamp">- 11:00 pm</span>
+		Tied at 52 with just more than six-and-a-half minutes remaining, Kadeem Coleby and Elfrid Payton —...<span class="timestamp">- 11:00 pm</span>
 	</div>
 </div>
 		</div>
@@ -860,28 +875,31 @@ function interMgr(){
 		</div>
 		<div class="column2Mega">
 			<div class="latestHeadlines">LATEST HEADLINES</div>
-<div class="section ">
+<div class="section photo">
+	<div class="photoFrame"><a href="/article/20111120/BUSINESS/111200325/Seeing-red-from-Cajuns-sales?odyssey=nav|head"><img src="http://cmsimg.theadvertiser.com/apps/pbcsi.dll/bilde?Avis=DG&amp;Dato=20111120&amp;Kategori=BUSINESS&amp;Lopenr=111200325&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=30&amp;Seeing-red-from-Cajuns-sales" alt="Customer Seth Humble looks over a Ragin Cajun sweatshirt to purchase at bell's Sporting Goods on Johnston Street Friday, Nov. 18, 2011, in Lafayette. 
+(Photo by Brad Kemp/ bkemp@theadvertiser.com) "></a>
+	</div>
 	<div class="headline">
-		<a href="/article/20110522/BUSINESS/105220349/Antebellum-sale-along-Vermilion-River?odyssey=nav|head">Antebellum for sale along the Vermilion River</a>
+		<a href="/article/20111120/BUSINESS/111200325/Seeing-red-from-Cajuns-sales?odyssey=nav|head">Seeing red from Cajuns' sales</a>
 	</div>
 	<div class="summary">
-			The most expensive home on the Lafayette real estate market is going for $2.8 million.<span class="timestamp">- 3:10 am</span>
+			There's a renewed buzz around the UL Ragin' Cajuns football team this fall as first-year head coach...<span class="timestamp">- 11:00 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110522/BUSINESS/105220348/Bankruptcies?odyssey=nav|head">Bankruptcies</a>
+		<a href="/article/20111120/BUSINESS/111200322/Banks-close-La-Iowa?odyssey=nav|head">Banks close in La., Iowa</a>
 	</div>
 	<div class="summary">
-		<span class="timestamp">- 3:03 am</span>
+		WASHINGTON — Regulators on Friday closed small banks in Iowa and Louisiana, lifting to 90 the...<span class="timestamp">- 11:00 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110522/BUSINESS/105220347/Permits?odyssey=nav|head">Permits</a>
+		<a href="/article/20111120/BUSINESS/111200326/People-Business?odyssey=nav|head">People in Business</a>
 	</div>
 	<div class="summary">
-		DR Horton Inc. Gulf Coast, 214 Lakefront Drive, Country Lakes Subdivision, $196,000.<span class="timestamp">- 3:03 am</span>
+		» Aimee Smallwood has been named CEO of the Louisiana Cultural Economy Foundation.<span class="timestamp">- 3:49 am</span>
 	</div>
 </div>
 		</div>
@@ -900,26 +918,26 @@ function interMgr(){
 			<div class="latestHeadlines">LATEST HEADLINES</div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110513/OPINION/105130312/Declare-spillway-opening-natural-disaster?odyssey=nav|head">Declare spillway opening natural disaster</a>
+		<a href="/article/20111120/OPINION02/111200329/Crazy-lazy-politics-Context-very-important?odyssey=nav|head">Crazy, lazy politics: Context is very important</a>
 	</div>
 	<div class="summary">
-			State Agriculture Commissioner Mike Strain says he's afraid that if the opening of the Morganza...<span class="timestamp">- 11:00 pm</span>
+			First, President Obama accused Americans of being "soft." Then, he said we're "lazy." How dare he!<span class="timestamp">- 11:00 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110513/OPINION/105130311/On-bin-Laden-s-death-Justice-aids-forgiveness?odyssey=nav|head">On bin Laden's death: Justice aids forgiveness</a>
+		<a href="/article/20111120/OPINION02/111200331/Time-spent-Girard-not-walk-park?odyssey=nav|head">Time spent in Girard is not a walk in the park</a>
 	</div>
 	<div class="summary">
-		In the aftermath of the bin Laden killing, cries of indignation have been heard insisting it is...<span class="timestamp">- 11:00 pm</span>
+		Every day, my dog Max and I take a walk in the park.<span class="timestamp">- 11:00 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110513/OPINION/105130314/Nobody-responds-debt-reduction-plan?odyssey=nav|head">Nobody responds to debt reduction plan</a>
+		<a href="/article/20111120/OPINION02/111200330/Getting-ready-Turkey-Holocaust-Day-2011?odyssey=nav|head">Getting ready for Turkey Holocaust Day 2011</a>
 	</div>
 	<div class="summary">
-		I recently checked via the Internet and found out Japan holds several billion dollars of U.S. debt.<span class="timestamp">- 11:00 pm</span>
+		Let me be among the first 40-foot, helium-filled balloons to kick-start our national parade of...<span class="timestamp">- 11:00 pm</span>
 	</div>
 </div>
 		</div>
@@ -938,26 +956,26 @@ function interMgr(){
 			<div class="latestHeadlines">LATEST HEADLINES</div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110513/LIFESTYLE/105130326/ACA-displays-local-talent?odyssey=nav|head">ACA displays local talent</a>
+		<a href="/article/20111120/LIFESTYLE/111200353/Holy-water-not-needed-bless-your-house?odyssey=nav|head">Holy water not needed to bless your house</a>
 	</div>
 	<div class="summary">
-			Documentarians and feature filmmakers were given a chance to show off their latest flicks at The...<span class="timestamp">- 11:00 pm</span>
+			"You need a house blessing," my dear friend and college roommate told me over the phone a few weeks...<span class="timestamp">- 11:00 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110513/LIFESTYLE/105130336/Laugh-Out-Loud-Women-Bridesmaids-rock-buddy-comedy?odyssey=nav|head">Laugh Out Loud: Women of 'Bridesmaids' rock in buddy comedy</a>
+		<a href="/article/20111120/LIFESTYLE/111200352/Holiday-flicks?odyssey=nav|head">Holiday flicks</a>
 	</div>
 	<div class="summary">
-		This takes the typically cliched wedding movie genre and completely upends it and reinvents it into...<span class="timestamp">- 11:00 pm</span>
+		<span class="timestamp">- 11:00 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110513/LIFESTYLE/105130327/Local-musician-earns-international-respect?odyssey=nav|head">Local musician earns international respect</a>
+		<a href="/article/20111120/LIFESTYLE/111200351/Hit-gym-before-hitting-slopes?odyssey=nav|head">Hit the gym before hitting the slopes</a>
 	</div>
 	<div class="summary">
-		Earl Sally is the best kept musical secret in Opelousas.<span class="timestamp">- 11:00 pm</span>
+		NEW YORK — Hold out your poles and sway your hips side to side.<span class="timestamp">- 11:00 pm</span>
 	</div>
 </div>
 		</div>
@@ -993,8 +1011,9 @@ function interMgr(){
 	<div class="header-featured">
 		<div class="header-wrap">
 			<ul id="login-container" class="login-container"><li class="signup">      <a href="javascript:GEL.util.uautil.UASignup();">Sign up</a></li><li class="first">      <a href="javascript:GEL.util.uautil.LoginProvider();">Log in</a> </li>      <span id="CustomLinks" style="display:none;visibility:hidden"></span></ul>
-			<ul>
-				<li><strong>FEATURED:</strong></li><li><a href="http://acadiana.momslikeme.com">Acadiana MomsLikeMe</a></li><li><a href="/section/ACADIANA&amp;template=cover">Times of Acadiana</a></li><li><a href="/crime">Crime Corner</a></li><li><a href="http://www.theadvertiser.com/ads/">Media Kit</a></li>
+			<ul class="ody-navfeatured">
+				<!-- ody_navfeatured.pbo -->
+<li><strong>FEATURED:</strong></li><li><a href="/section/ACADIANA&amp;template=cover">Times of Acadiana</a></li><li><a href="http://www.theadvertiser.com/ads/">Media Kit</a></li><li><a href="http://www.dealchicken.com/acadiana-la?source=IP|nav|dealchickenfeatured">DealChicken</a></li>
 			</ul>
 			<div class="pd-search">
 				<div class="searchbox-shift">
@@ -1124,7 +1143,7 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 			<div class="leaderboard-container-top">
 				<div>
 	<div class="ad_launchpad_SF">
-	<div id="adcontainer___gelement_adbanner_0"><div id="__gelement_3" class=" gel-hidden"><script id="__gelement_4" src="https://gannett.gcion.com/addyn/3.0/5111.1/896088/0/-1/ADTECH;alias=la-lafayette.theadvertiser.com/news/front.htm_launchpad_SF;cookie=info;loc=100;target=_blank;grp=93447;misc=1580368012923;size=728x90;noperf=1;key=PRIVACY;kvcw=;kvtitle=PRIVACY"></script>
+	<div id="adcontainer___gelement_adbanner_0"><div id="__gelement_3" class=" gel-hidden"><script id="__gelement_4" src="https://gannett.gcion.com/addyn/3.0/5111.1/896088/0/-1/ADTECH;alias=la-lafayette.theadvertiser.com/news/front.htm_launchpad_SF;cookie=info;loc=100;target=_blank;grp=53656;misc=1580368012974;size=728x90;noperf=1;key=PRIVACY;kvcw=;kvtitle=PRIVACY"></script>
 </div>
 </div><banner position="launchpad_SF" id="__gelement_adbanner_0"></banner>
 		<div class="advertisement">ADVERTISEMENT</div>
@@ -1138,7 +1157,7 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 				<div class="container">
 								<div class="glegal">
 				<h1>Privacy Notice</h1>
-<p>Last Updated: December 30, 2010</p>
+<p>Last Updated: November 9, 2011</p>
 <p>We take seriously your interest in how your information is collected and used.  Please read the following to learn about our Privacy Notice.</p>
 <p>This Privacy Notice discloses the privacy practices of this website (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).</p>
 <p>Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our <a href="http://www.theadvertiser.com/section/terms">Terms of Service</a>. Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified.</p>
@@ -1154,7 +1173,7 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 <h3>How We Collect and Use Information</h3>
 <p>We may collect and store information, including personally identifiable information (such as your name, postal address or email address) or other information, that you voluntarily supply to us while on our Site.  Some examples of this type of information include information that you electronically submit when you contact us with questions, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site.  We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.</p>
 <p>We also collect, through a variety of technologies and practices, and store non-personally identifiable information that is generated automatically as you navigate through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.</p>
-<p>If you want to limit the non-personally identifiable information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting.  For example, to disable cookies using Internet Explorer, select "Internet Options" under the Tools menu and click on "Privacy."  Select "High" or "Block All Cookies."  To disable cookies using Mozilla Firefox, select "Options" under the "Tools" menu.  If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site.</p>
+<p>If you want to limit the non-personally identifiable information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting.  For example, to disable cookies using Internet Explorer, select "Internet Options" under the Tools menu and click on "Privacy."  Select "High" or "Block All Cookies."  To disable cookies using Mozilla Firefox, select "Options" under the "Tools" menu.  To disable Adobe flash cookies, you can use the flash management tools on Adobe’s website  <a href="http://www.adobe.com">www.adobe.com</a>. If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site.</p>
 <p>The information we collect may be collected directly by us, or it may be collected by a third-party website hosting provider, or another third-party service provider, on our behalf.</p>
 <p>We use the information we collect from you while you are using the Site in a variety of ways, including, for example, to process your registration request, provide you with services and communications that you have requested, send you email updates and other communications, customize features and advertising that appear on the Site, deliver our Site content to you, measure Site traffic, measure user interests and traffic patterns, and improve the Site and the services and features offered via the Site.</p>
 <p>In addition, we may use any information submitted by or collected from you via the Site for any purpose related to the Site, including to contact you for customer service purposes, to inform you of important changes or additions to our Site or the services offered over our Site, and to send you administrative notices and any other communications that we believe may be of interest to you.</p>
@@ -1166,10 +1185,12 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 <p>Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our <a href="http://www.theadvertiser.com/section/terms">Terms of Service</a>; or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.</p>
 <p>Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our Site users may be among the transferred assets.</p>
 <h3><a name="adchoices"></a>Data Collected in Connection with Ad Serving and Targeting</h3>
+<p>We operate in compliance with the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising, www.aboutads.info.</p>
 <p>We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to collect non-personally identifiable information about site users and site activity, and we may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.</p>
 <p>We also may use third-party service providers, including Yahoo!, to target and serve some of the advertisements you see on the pages of our Site.  We may share non-personally identifiable information, such as type of pages viewed and categories of interest, from our Site with these service providers for their use in displaying ads on our Site.  These providers may use their own cookies, web beacons and similar technologies to collect non-personally identifiable information from our Site. These service providers may use that information, sometimes in conjunction with similar non-personally identifiable information gathered through other websites, to deliver advertisements on this Site, and on other websites that participate in our service providers’ advertising networks, that are tailored to match the perceived interests of consumers. In addition, Yahoo!, which is one of our third-party advertising service providers, may use information regarding its own users to select which ads to display on this Site. The non-personally identifiable information obtained by our third-party service providers also may be used to help measure and research an advertisement’s effectiveness, or for other purposes.</p>
 <p>The data collected in connection with the ad serving and ad targeting on our Site does not identify you personally and does not include your name, address, email address or telephone number, but it may include the IP address of your computer.</p>
 <p>The use and collection of information by third-party advertising service providers is governed by the relevant third party’s Privacy Notice and is not covered by our Privacy Notice.  If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider’s information collection practices, please <a href="http://www.theadvertiser.com/section/adnetwork">click here</a>.</p>
+<p>If you would like more information on how to opt out of information collection practices, go to <a href="http://www.aboutads.info">www.aboutads.info</a>.</p>
 <h3>Information You Post to Blogs, Discussion Forums and Other Community Posting or Social Networking Areas</h3>
 <p>Please keep in mind that whenever you voluntarily make your personal information or other private information available for viewing by third parties online - for example on blogs, discussion forums, or other community posting or social networking areas of our Site - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.</p>
 <h3>Children's Privacy Statement</h3>
@@ -1198,6 +1219,7 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 				</div>				
 			</div>
 			</div>
+			
 			<div class="footer-container">
 	<!-- ody custom content macro -->
 	<div class="ody-wrapper">
@@ -1223,7 +1245,7 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 <div class="footer-main">
 	<div class="footer-wrap">
 		<div class="left">
-			<ul><li><h4><a href="/section/news01">NEWS</a></h4></li><li><a href="/section/news01">Local News</a></li><li><a href="http://content.usatoday.com/dist/custom/gci/topicpage.aspx?cid=theadvertiser">Nation &amp; World</a></li><li><a href="/section/7daysarchives">Archives</a></li><li><a href="http://theadvertiser.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;city=Lafayette&amp;state=LA">Weather</a></li><li><h4><a href="/section/opinion">OPINION</a></h4></li><li><a href="/section/opinion">Opinion Page</a></li><li><a href="/section/PluckForum&amp;plckForumPage=ForumCategories">Forums</a></li><li><a href="/section/blogs">Blogs</a></li></ul><ul><li><h4><a href="/section/sports">SPORTS</a></h4></li><li><a href="/section/SPORTS">Local Sports</a></li><li><a href="/section/HSSPORTS&amp;template=hssportal">High School Sports</a></li><li><h4><a href="/section/lifestyle">ACCENT</a></h4></li><li><a href="/section/LIFESTYLE">Lifestyle</a></li><li><a href="/section/ENTERTAINMENT">Entertainment</a></li><li><a href="/section/lifestyle10">Weddings &amp; Engagements</a></li><li><a href="http://acadiana.momslikeme.com/members/exploregroups.aspx?p=142">MomsLikeMe.com</a></li><li><a href="http://www.cozi.com/go/?a=campaign&amp;b=COZI_GANNETT&amp;c=LAFAYETTE_LA&amp;l=/landing/signup.aspx%3flink_loc%3deditpromo%3fmarket%3dLAFAYETTE_LA">My Cozi Calendar</a></li><li><a href="http://gannett.eharmony.com/dating&amp;cid=1136&amp;aid=3310&amp;cmd=registration-profile-opt">Dating</a></li><li><a href="http://search.theadvertiser.com/sp?skin=&amp;aff=1109&amp;keywords=Health%20Source">Your Health Source Guide 2011</a></li></ul><ul><li><h4><a href="/section/BUSINESS">BUSINESS</a></h4></li><li><a href="/section/BUSINESS">Business Page</a></li><li><a href="http://lafay.planetdiscover.com/sp?aff=1109&amp;skin=100&amp;keywords=&amp;catId=100000000&amp;address=70501&amp;maxDistance=&amp;submit=Search">Dial-A-Pro Directory</a></li><li><h4><a href="/section/VIDEONETWORK">MULTIMEDIA</a></h4></li><li><a href="/section/galleriessectionfront">Photo Galleries</a></li><li><a href="/section/VIDEONETWORK">Videos</a></li><li><a href="http://gallery.pictopia.com/dailyadv/">Buy a Photo</a></li><li><a href="/section/SMS">Mobile Text Alerts</a></li><li><a href="/extras/web/traffic/ambassador.html">Traffic Central</a></li><li><a href="/extras/web/losingla/">Losing Louisiana</a></li></ul><ul><li><h4><a href="http://www.legacy.com/obituaries/theadvertiser/">OBITUARIES</a></h4></li></ul>
+			<ul><li><h4><a href="/section/news01">NEWS</a></h4></li><li><a href="/section/news01">Local News</a></li><li><a href="http://content.usatoday.com/dist/custom/gci/topicpage.aspx?cid=theadvertiser">Nation &amp; World</a></li><li><a href="/section/7daysarchives">Archives</a></li><li><a href="http://theadvertiser.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;city=Lafayette&amp;state=LA">Weather</a></li><li><a href="/section/database">Data Central</a></li><li><h4><a href="/section/opinion">OPINION</a></h4></li><li><a href="/section/opinion">Opinion Page</a></li><li><a href="/section/PluckForum&amp;plckForumPage=ForumCategories">Forums</a></li><li><a href="/section/blogs">Blogs</a></li></ul><ul><li><h4><a href="/section/sports">SPORTS</a></h4></li><li><a href="/section/SPORTS">Local Sports</a></li><li><a href="/section/HSSPORTS&amp;template=hssportal">High School Sports</a></li><li><h4><a href="/section/lifestyle">ACCENT</a></h4></li><li><a href="/section/LIFESTYLE">Lifestyle</a></li><li><a href="/section/ENTERTAINMENT">Entertainment</a></li><li><a href="/section/lifestyle10">Weddings &amp; Engagements</a></li><li><a href="http://acadiana.momslikeme.com/members/exploregroups.aspx?p=142">MomsLikeMe.com</a></li><li><a href="http://www.cozi.com/go/?a=campaign&amp;b=COZI_GANNETT&amp;c=LAFAYETTE_LA&amp;l=/landing/signup.aspx%3flink_loc%3deditpromo%3fmarket%3dLAFAYETTE_LA">My Cozi Calendar</a></li><li><a href="http://gannett.eharmony.com/dating&amp;cid=1136&amp;aid=3310&amp;cmd=registration-profile-opt">Dating</a></li><li><a href="http://search.theadvertiser.com/sp?skin=&amp;aff=1109&amp;keywords=Health%20Source">Your Health Source Guide 2011</a></li></ul><ul><li><h4><a href="/section/BUSINESS">BUSINESS</a></h4></li><li><a href="/section/BUSINESS">Business Page</a></li><li><a href="http://lafay.planetdiscover.com/sp?aff=1109&amp;skin=100&amp;keywords=&amp;catId=100000000&amp;address=70501&amp;maxDistance=&amp;submit=Search">Dial-A-Pro Directory</a></li><li><h4><a href="/section/VIDEONETWORK">MULTIMEDIA</a></h4></li><li><a href="/section/galleriessectionfront">Photo Galleries</a></li><li><a href="/section/VIDEONETWORK">Videos</a></li><li><a href="http://gallery.pictopia.com/dailyadv/">Buy a Photo</a></li><li><a href="/section/SMS">Mobile Text Alerts</a></li><li><a href="/extras/web/traffic/ambassador.html">Traffic Central</a></li><li><a href="/extras/web/losingla/">Losing Louisiana</a></li></ul><ul><li><h4><a href="http://www.legacy.com/obituaries/theadvertiser/">OBITUARIES</a></h4></li></ul>
 		</div>
 		<div class="right">
 			<ul>
@@ -1259,8 +1281,6 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 			<li><a target="_blank" href="http://www.homegain.com">Real Estate</a></li>
 			<li>|</li>
 			<li><a target="_blank" href="http://www.shoplocal.com">Shopping</a></li>
-			<li>|</li>
-			<li><a target="_blank" href="http://www.momslikeme.com">Mom Groups</a></li>
 		</ul>
 	</div>
 </div>
@@ -1273,7 +1293,6 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 			<li><a class="footer-apts" href="http://www.apartments.com/" target="_blank"></a></li>
 			<li><a class="footer-homegain" href="http://www.homegain.com" target="_blank"></a></li>
 			<li><a class="footer-shop" href="http://www.shoplocal.com" target="_blank"></a></li>
-			<li><a class="footer-moms" href="http://www.momslikeme.com" target="_blank"></a></li>
 			<li><a class="footer-career" href="http://www.careerbuilder.com" target="_blank"></a></li>
 			<li><a class="footer-eharmony" href="http://www.eharmony.com" target="_blank"></a></li>			
 		</ul>
@@ -1410,7 +1429,7 @@ GEL.thepage.initializer.addInitRoutine({
 		method of inserting the image.  Once this is implemented, 
 		the inline attachment of the s_code here can be removed 
 	*/
-	var _s = GEL.ement("SCRIPT", { src: "/odygel/lib/vendor/omniture/sitecatalyst.js" }); 
+		var _s = GEL.ement("SCRIPT", { src: "/odygel/lib/vendor/omniture/sitecatalyst.js" }); 
 	_s.setAttacher("inline"); 
 	_s.attach(); 
 })(); 
@@ -1422,22 +1441,6 @@ GEL.thepage.initializer.addInitRoutine({
 <!--Semantics Agency Trading Desk-->
 <div id="adsdaq"></div>
 <script type="text/javascript">
-(function(){
-	GEL.thepage.initializer.addInitRoutine({ 
-		name: "ADSDAQ",
-		namespace: "remoting",
-		callback: function (){ 
-			var 
-				_jscntr= GEL.ement("adsdaq"), 
-				_u= "http://atd.agencytradingdesk.net/WatsonTracker/IMP/A1000138/C1000187/P1003016/cw.jsx?t=1"
-			;
-			_jscntr.setContentUrl(_u, 'script');
-			_jscntr.updateRemoteContent(); 
-			return; 
-		}, 
-		priority: 250
-	});
-})()	
 </script>
 <script type="text/javascript">
 (function(){ 
@@ -1470,6 +1473,71 @@ GEL.thepage.initializer.addInitRoutine({
 	};
 })(); 
 </script>
+<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js#xfbml=1" async=""></script></div>
+<div style="display: none;" id="fbLike">
+	<fb:like show_faces="true" width="450" action="recommend" ref="recommend"></fb:like>
+</div>
+<script>
+window.fbAsyncInit = function() {
+	FB.init({
+		appId  : 'MY APP ID',
+		status : true, // check login status
+		cookie : true, // enable cookies to allow the server to access the session
+		xfbml  : true,  // parse XFBML
+		channelUrl  : 'http://www.theadvertiser.com/odygel/lib/vendor/meebo/channel.html' // custom channel
+	});   
+};
+(function() {
+	var e = document.createElement('script');
+	e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js#xfbml=1';
+	e.async = true;
+	document.getElementById('fb-root').appendChild(e);
+	}());
+</script>
+<div>
+	<div class="ad_Meebo">
+	<div id="adcontainer___gelement_adbanner_2"></div><banner position="Meebo" loadoninit="false" sitepage="la-lafayette.theadvertiser.com/news/meebo.htm" id="__gelement_adbanner_2"></banner>
+		<div class="advertisement">ADVERTISEMENT</div>
+	</div>
+</div>
+<div id="meebobar" class="ody-meebobar"></div>
+<script type="text/javascript">
+(function(){
+	var 
+		_i = GEL.thepage.pageinfo,
+		_spath= "http://sitelife"+_i.siteinstance+"."+_i.url.domainname+"/ver1.0/Direct/DirectProxy"
+	; 
+	GEL.config.meebo={
+		url:"www.theadvertiser.com",
+		icons:{
+			recommend:"/odygci/p5/recommend_icon.gif",
+			recentActivity:"/odygci/p5/recentactivity_icon.gif"
+		}
+	};
+	GEL.thepage.initializer.addInitRoutine({ 
+		name: "Meebo",
+		namespace: ["remoting","widget.AdBanner"],
+		callback: function (){ 
+			var 
+				_jscntr= GEL.ement("meebobar"), 
+				_u= "http://www.theadvertiser.com/odygel/lib/vendor/meebo/meebo.js"
+			;
+			_jscntr.setContentUrl(_u, 'script');
+			_jscntr.updateRemoteContent(); 
+			var
+				_bl = new GEL.widget.AdBanner.Locator(),
+				_b = _bl.findBanners(),
+				_l = _bl.findBanners().length
+			;
+			for(var i =0 ; i<_l; i++)
+				if(_b[i].position=='Meebo')
+					_b[i].loadBanner()
+			return; 
+		}, 
+		priority: 200
+	});
+})()
+</script>
 <script type="text/javascript">
 setTimeout(function(){ GEL.thepage.initializer.init();}, 100); 
 </script> 
@@ -1478,81 +1546,6 @@ setTimeout(function(){ GEL.thepage.initializer.init();}, 100);
 	</div><!-- end ody-custom -->
 
 
-<!-- General Info
-Current page request (after SAXOTECH translation): /apps/pbcs.dll/section?Category=PRIVACY
-Canonical Link: http://www.theadvertiser.com/section/PRIVACY
-Build date and time: 2011-05-22 04:48:45
--->
-<!-- Cache Build Time
-Time used: 6250 ms<br>
-<b>Starting first parse</b><br>
-.Parsing macro ody_Initialize<br>
-..Build 0: 0 ms (Misc)<br>
-..Parsing macro ody_Initialize_All<br>
-...Parsing macro ody_SetSSTS<br>
-....Build 9: 31 ms (Content)<br>
-...Completed macro ody_SetSSTS<br>
-...Build 9: 203 ms (Content)<br>
-..Completed macro ody_Initialize_All<br>
-..Parsing macro ody_GetTimeOffset<br>
-...Build 9: 15 ms (Content)<br>
-..Completed macro ody_GetTimeOffset<br>
-...Build 0: 0 ms (Misc)<br>
-...Build 0: 0 ms (Misc)<br>
-...Build 0: 0 ms (Misc)<br>
-...Build 0: 0 ms (Misc)<br>
-...Build 0: 0 ms (Misc)<br>
-..Parsing macro ody_Initialize_Request<br>
-...Parsing macro ody_Initialize_Section<br>
-....Build 9: 47 ms (Content)<br>
-...Completed macro ody_Initialize_Section<br>
-...Build 9: 94 ms (Content)<br>
-..Completed macro ody_Initialize_Request<br>
-..Build 9: 672 ms (Content)<br>
-.Completed macro ody_Initialize<br>
-.Parsing macro ody_addecision<br>
-..Build 9: 219 ms (Content)<br>
-.Completed macro ody_addecision<br>
-.Parsing macro ody_Header<br>
-..Parsing macro ody_HeaderRequest<br>
-...Parsing macro ody_Header_Sections<br>
-....Parsing macro ody_seo<br>
-.....Build 0: 0 ms (Misc)<br>
-....Completed macro ody_seo<br>
-....Build 9: 125 ms (Content)<br>
-...Completed macro ody_Header_Sections<br>
-...Build 9: 204 ms (Content)<br>
-..Completed macro ody_HeaderRequest<br>
-..Parsing macro ody_pageinfo_script<br>
-...Build 9: 47 ms (Content)<br>
-..Completed macro ody_pageinfo_script<br>
-..Parsing macro ody_semantics_wrapper<br>
-...Parsing macro ody_semantics<br>
-....Build 9: 3047 ms (Content)<br>
-...Completed macro ody_semantics<br>
-...Build 9: 3094 ms (Content)<br>
-..Completed macro ody_semantics_wrapper<br>
-..Build 9: 3968 ms (Content)<br>
-.Completed macro ody_Header<br>
-.Parsing macro ody_interstitial<br>
-..Build 9: 47 ms (Content)<br>
-.Completed macro ody_interstitial<br>
-.Parsing macro ody_nav<br>
-.Completed macro ody_nav<br>
-.Parsing macro ody_gen3_content<br>
-..Parsing macro ody_getPrivacy<br>
-...Build 0: 469 ms (Misc)<br>
-..Completed macro ody_getPrivacy<br>
-..Build 9: 531 ms (Content)<br>
-.Completed macro ody_gen3_content<br>
-.Parsing macro ody_Footer<br>
-..Parsing macro ody_analytics<br>
-...Build 9: 79 ms (Content)<br>
-..Completed macro ody_analytics<br>
-..Build 9: 391 ms (Content)<br>
-.Completed macro ody_Footer<br>
-.Parsing macro ody_DebugInfo<br>
--->
 
 
 
