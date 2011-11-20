@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the centerpointenergy.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527181041id_/http%3A//www.centerpointenergy.com/about/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerpointenergy.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120020653id_/http%3A//www.centerpointenergy.com/about/legal/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+﻿ 
 
 **Our pledge to you  
 **CenterPoint Energy cares about our customers. Protecting your privacy is important, so we take great precautions to safeguard your personal information. Throughout our more than 130-year history, we've built our reputation on delivering safe, dependable service. You can trust us to handle your confidential information responsibly. This document will help you understand more about our policies concerning customer information in the online environment of our Web site. It explains the following:
@@ -42,7 +44,7 @@ registered account services, and purchased products or services.
 **When you visit our Web site, you can do so anonymously. We may collect basic information such as your Internet service provider, computer operating system and browser, as well as the date, time and length of your visit and the pages you view. This information will be used to help us improve our site's usefulness. By understanding more about our customers' preferences, we can continue to improve the content, navigation and function of our Web site. For some requests or account transactions, we will ask for more detailed personal information, such as your name, address and/or telephone number, password and e-mail address (User ID).
 
 **How we use your information  
-**We use the information you provide us only to deliver the products, services, or information you have specifically requested online. We try to respond to all online requests and transactions within one business day. Requests may include access to My Account Online, where you can review your bill, pay it online or change your account information; enrollment in account services such as Online Billing, Automatic Bank Draft, Budget Plan/Average Monthly Billing, No Surprise Bill or Energy Information Online; start/stop/transfer service requests;
+**We use the information you provide us to deliver products and services we think you may find valuable.  We try to respond to all online requests and transactions within one business day. Requests may include access to My Account Online, where you can review your bill, pay it online or change your account information, as well as enroll for account services such as Online Billing, Automatic Bank Draft and Budget Plan/Average Monthly Billing.
 
 We may periodically send you information about new products and services or upcoming events. You may request that we not send you such information by contacting us as noted below. In other cases, we release customer information only when:
 
