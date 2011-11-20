@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpharooms.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628184114id_/http%3A//www.alpharooms.com/webpages/cobrand/0/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpharooms.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121002314id_/http%3A//www.alpharooms.com/webpages/cobrand/0/privacy.aspx) for the most accurate reproduction.*
 
 # Alpharooms.com privacy policy
 
@@ -34,7 +34,7 @@ Your information is only shared with certain third parties, our selected busines
 
 ## How we protect your information
 
-Any sensitive information you give us (such as credit card details) is protected by SSL technology - the industry standard to securely send information across the Internet. For more information [view our Security page](https://web.archive.org/web/20110628184114id_/http%3A//www.alpharooms.com/webpages/cobrand/0/security.aspx).
+Any sensitive information you give us (such as credit card details) is protected by SSL technology - the industry standard to securely send information across the Internet. For more information [view our Security page](https://web.archive.org/web/20111121002314id_/http%3A//www.alpharooms.com/webpages/cobrand/0/security.aspx).
 
 ##  Direct Marketing
 
