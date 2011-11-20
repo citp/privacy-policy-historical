@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the littleburgundyshoes.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526022850id_/http%3A//www.littleburgundyshoes.com/ca-eng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littleburgundyshoes.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120201352id_/http%3A//www.littleburgundyshoes.com/ca-eng/privacy) for the most accurate reproduction.*
 
-# Shop Little Burgundy Shoes, Boots, Sandals, & Accessories for women & Men.
+# Shop Little Burgundy Shoes, Boots, Sandals, Handbags & Accessories
 
 **Little Burgundy Privacy Policy**
 
@@ -35,7 +35,7 @@ If you visit or purchase products on the [www.littleburgundyshoes.com](http://ww
 
 **How do I exercise my choices about receiving promotional communications?**
 
-We want to communicate with you only if you want to hear from us. If you prefer not to receive promotional information from us or other ALDO GROUP Affiliates, or if you do not want us to use your information to enhance your online experience, please let us know by calling us at 1-800-246-9405 or writing us at ALDO GROUP Customer Services, 2300 Émile-Bélanger, Montreal, Quebec, Canada, H4R 3J4. Please be sure to include your full name and the email address you used when you signed up for our email newsletter. It may take up to 2 weeks to process your postal mail request, during which period you may continue to receive communications from ALDO GROUP or other ALDO GROUP Affiliates. You may also unsubscribe from ALDO Email services by using the unsubscribe link situated at the bottom of any promotional message you receive from ALDO. 
+We want to communicate with you only if you want to hear from us. If you prefer not to receive promotional information from us or other ALDO GROUP Affiliates, or if you do not want us to use your information to enhance your online experience, please let us know by calling us at 1-800-246-9405 or writing us at ALDO GROUP Customer Services, 2300 Émile-Bélanger, Montreal, Quebec, Canada, H4R 3J4. Please be sure to include your full name and the email address you used when you signed up for our email newsletter. It may take up to 2 weeks to process your postal mail request, during which period you may continue to receive communications from ALDO GROUP or other ALDO GROUP Affiliates. You may also unsubscribe from LITTLE BURGUNDY Email services by using the unsubscribe link situated at the bottom of any promotional message you receive from LITTLE BURGUNDY. 
 
 **What are cookies and how does ALDO GROUP use cookies on its site?**
 
