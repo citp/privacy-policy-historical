@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lushusa.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205072247id_/http%3A//www.lushusa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lushusa.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120014431id_/http%3A//www.lushusa.com/privacy) for the most accurate reproduction.*
 
-# LUSH Cosmetics: Customer Care > Privacy Policy
+# LUSH Fresh Handmade Cosmetics | USA
 
 This statement discloses the privacy practices and policies for LUSH’s website. If you have any questions about these practices and policies, please email us at **info@lush.com**.
 
@@ -81,3 +81,5 @@ This page will be updated if information about the collection and use of your pe
 ## Changes to this Privacy Policy
 
 LUSH may update this privacy policy in the future. We will notify you about material changes to this privacy policy by placing a prominent notice on our website. All changes will remain in compliance with federal and provincial privacy legislation.
+
+* Only one e-gift card will be issued per order. Offer for $10 e-gift card is valid from November 1 - December 24th. All qualifying orders must be placed by 11.59 pm PST on December 24th to be eligible for the $10 LUSH e-gift card. The e-gift card can only be redeemed between February 1, 2012 - May 31, 2012. On February 1, 2012 you will receive the e-gift card via email at the address you used when you placed your order. E-gift cards can be redeemed online or in store, void at all LUSH Macy's locations. Gift cards, shipping and taxes do not count towards order total for offer eligibility.
