@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the public-records-now.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627053211id_/http%3A//www.public-records-now.com/Privacy/Privacy.aspx%3Ffrom%3Dhys0389796898%26piid%3D46) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the public-records-now.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120034042id_/http%3A//www.public-records-now.com/static/view/privacy) for the most accurate reproduction.*
 
-# PublicRecordsNow.com | Privacy Policy
+# PublicRecordsNow.com | People Search & People Finder Search Engine
 
 PublicRecordsNow.com respects the privacy of our users and we have developed this Privacy Policy to demonstrate our commitment to protecting your privacy. This Privacy Policy is intended to describe for you our treatment of personally identifiable information that you provide to us as a user of PublicRecordsNow.com for our services, or otherwise provide to us through other means such as e-mail marketing from us or our partner web sites, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
 
