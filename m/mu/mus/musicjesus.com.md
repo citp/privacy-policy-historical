@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicjesus.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626093105id_/http%3A//musicjesus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicjesus.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120190154id_/http%3A//musicjesus.com/privacy.php) for the most accurate reproduction.*
 
 # MusicJesus.com - Music Video Codes
 
