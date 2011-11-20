@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the itthing.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521155452id_/http%3A//itthing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itthing.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120024554id_/http%3A//itthing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | It Thing!
-
-[Home](http://itthing.com/) » Privacy Policy 
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
