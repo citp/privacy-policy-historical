@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostingcontroller.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630015145id_/http%3A//hostingcontroller.com/english/abouthc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostingcontroller.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120042929id_/http%3A//hostingcontroller.com/english/abouthc/privacy.html) for the most accurate reproduction.*
 
 # Hosting Controller - Privacy Policy - Server Control panel - Dedicated Server Control Panel - Hosting Management Solution - Windows Automation tool
 
