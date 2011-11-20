@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailycaller.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610143511id_/http%3A//dailycaller.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycaller.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120025801id_/http%3A//dailycaller.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Daily Caller
 
@@ -19,6 +19,8 @@ This Policy is incorporated by reference into our [Terms of Use Agreement](http:
 **A. Non-Personally Identifiable Information Collected When Using Our Services**
 
 THE DC collects non-personally identifiable information automatically through the use of electronic tools such as web beacons, “cookies”, and clickstream data that are deployed on the Website.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:
 
   * **Web Beacons** – A web beacon is a type of picture file used on the Internet. Web beacons are used in combination with cookies to help monitor traffic at DailyCaller.com and understand the ways in which users interact with content on the website.
   * **Cookies** – Cookies help provide a customized Web experience by enabling us to identify web users, but not specific individuals, who visit our website. You may choose not to provide such information by adjusting your Internet browser security settings to refuse cookies. Refusing cookies, however, may limit your ability to access certain pages and feature available on the website.
@@ -89,6 +91,8 @@ You can always choose not to submit any personally identifiable information to T
 If you do not wish to receive communications from THE DC, you can unsubscribe to our e-mails. will include an opt-out link or reply address in each such e-mail. After unsubscribing, you will be removed from our database. Please allow us up to 10 business days to process your request. After unsubscribing, you may still receive messages about the status of your account, to resolve technical issues, or to confirm a new registration with us.
 
 If you wish to make changes to any personally identifiable information that you have provided us, or if you have any questions about what we do with your personally identifiable information, please send an e-mail to privacy@dailycaller.com.
+
+If you would like to opt-out of having non-personally identifiable information collected during your visits to this or other sites, click [here](http://www.aboutads.info/choices/).
 
 **V. LINKS TO OTHER (THIRD PARTY) WEBSITES**
 
