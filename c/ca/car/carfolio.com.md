@@ -1,6 +1,30 @@
-> *The following text is extracted and transformed from the carfolio.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625095632id_/http%3A//www.carfolio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carfolio.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120173657id_/http%3A//www.carfolio.com/privacy) for the most accurate reproduction.*
 
 # Carfolio.com Privacy Policy
+
+## BMW reveals latest 3 Series
+
+Today BMW released information on their latest 3 Series range, which carries the model designation F30. Initially available as a 4 door saloon with 4 engine choices, the range is sure to be expanded with more diesel and petrol engine choices, all-wheel drive variants, and of course, the obligatory station wagon (likely to still be called Touring), coupé and convertible versions, as well as the usual raft of powerful M-badged range-toppers. 
+
+[More...](https://web.archive.org/article/?id=256 "BMW reveals latest 3 Series")
+
+## 2011 Kia Rio
+
+Details of [Kia](http://www.carfolio.com/specifications/models/?man=3303)'s latest 5 door Rio hatchbacks have been released ahead of the launch of the 3 door Kia Rio models which will take place in September of 2011, at the IAA in Frankfurt. Kia's revised Rio has been styled by a team led by Peter Schreyer. 
+
+[More...](https://web.archive.org/article/?id=255 "2011 Kia Rio")
+
+## Ginetta Cars Launches G40R
+
+Ginetta Cars have been producing racing cars and light, agile sports cars for decades. Started by the Walklett brothers, Bob, Douglas, Ivor and Trevor in the 1950s, the company has survived and have launched their most recent road car - the [Ginetta G40R](http://www.carfolio.com/specifications/models/car/?car=250910). 
+
+[More...](https://web.archive.org/article/?id=254 "Ginetta Cars Launches G40R")
+
+## The 2012 Chevrolet Camaro ZL1 - Most powerful Camaro ever
+
+_All the following information and specifications are preliminary, as Chevrolet have not yet released complete and final specifications._ [Chevrolet](http://www.carfolio.com/specifications/models/?man=1276)'s 2012 model year [**Camaro ZL1**](http://www.carfolio.com/specifications/models/car/?car=233068) is the most powerful [Chevrolet Camaro](http://www.carfolio.com/search/results/?terms=chevrolet+camaro&num=250) yet. The 2+2 seater coupé features a 6.2 litre **supercharged** V8 (LSA) engine, powering the rear wheels via a 6 speed manual transmission. 
+
+[More...](https://web.archive.org/article/?id=253 "The 2012 Chevrolet Camaro ZL1 - Most powerful Camaro ever")
 
 ## 2011 F10 BMW M5 specifications released
 
@@ -31,30 +55,6 @@ McLaren have amended the published technical specifications of their latest mode
 Nissan have updated their "Godzilla" - the [R35 Nissan GT-R](http://www.carfolio.com/specifications/models/car/?car=220319). Available in Japan from 17 November 2010, the 2011 model year R35 Nissan GT-R features _more power_. 
 
 [More...](https://web.archive.org/article/?id=247 "Nissan beefs up GT-R for 2011")
-
-## Rogues, rapscallions and rascals
-
-Carfolio.com has been collecting and collating automotive technical data for many years, before actually having a website or even an internet-connected computer. Realising that there would be interest in this database, I decided to put my data up online in a very useful and functional way. 
-
-[More...](https://web.archive.org/article/?id=246 "Rogues, rapscallions and rascals")
-
-## 100 Years of Alfa Romeo
-
-[Alfa Romeo](http://www.carfolio.com/specifications/models/?man=257) turns 100 years old today, the 24th of June 2010. The Alfa factory in Milan's first model was the Alfa 24 HP A, designed by Giuseppi Merosi. 
-
-[More...](https://web.archive.org/article/?id=245 "100 Years of Alfa Romeo")
-
-## Four generations of racing-inspired BMW M3 special editions
-
-The [BMW M3](http://www.carfolio.com/search/results/?terms=bmw+m3&num=50) has been the pinnacle of the BMW 3-series range for 4 model series: the [E30](http://www.carfolio.com/search/results/?mf=E30), [E36](http://www.carfolio.com/search/results/?mf=E36), [E46](http://www.carfolio.com/search/results/?mf=E46) and [E90](http://www.carfolio.com/search/results/?mf=E90)/[E92](http://www.carfolio.com/search/results/?mf=E92)/[E93](http://www.carfolio.com/search/results/?mf=E93). Although any BMW M3 is special in its own right, in each of these model series BMW has produced limited edition M3 models that borrow heavily from racing traditions. 
-
-[More...](https://web.archive.org/article/?id=244 "Four generations of racing-inspired BMW M3 special editions")
-
-## Audi's A1 Luxury Baby - Full Details
-
-The long-awaited [2010 Audi A1](http://www.carfolio.com/search/results/?terms=2010+audi+a1) is about to hit the markets, Audi have recently released the specifications of the A1 range at launch date. Sitting on a 2469 mm wheelbase and with an overall length of just 3954 mm, the Audi A1 is the smallest Audi models since the [Audi A2](http://www.carfolio.com/search/results/?terms=audi+a2). 
-
-[More...](https://web.archive.org/article/?id=243 "Audi's A1 Luxury Baby - Full Details")
 
 [See all articles](https://web.archive.org/article/ "List of all articles")
 
