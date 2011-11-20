@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ciena.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214195309id_/http%3A//ciena.com/corporate/corpinfo_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ciena.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120201357id_/http%3A//www.ciena.com/corporate/corporate-responsibility/corp-governance/privacy-policy) for the most accurate reproduction.*
 
-# Ciena - www.Ciena.com privacy policy
+# Ciena - Privacy policy - Company Information for Optical, Ethernet & Network Automation
 
 ## Privacy policy
 
@@ -41,6 +41,3 @@ Linthicum, MD 21090
 If you wish to update your information, discontinue or to unsubscribe from any newsletter or other materials, please contact us by email at [privacypolicy@ciena.com](mailto:privacypolicy@ciena.com) or at the contact information above
 
 Effective Date April 11, 2005
-
-  
-
