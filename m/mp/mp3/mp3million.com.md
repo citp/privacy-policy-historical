@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mp3million.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606000101id_/http%3A//www.mp3million.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3million.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120081334id_/http%3A//www.mp3million.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,11 +7,16 @@ Overview
 What Information We Collect
      Site has several features that automatically collect information from users of our service (i.e. cookies, action tags, and other data collection methods), and place where customer fills his personal data by himself (first and last name, age, gender, country etc.) - customer account area. 
 Why We Collect Personal Information
-     In addition to providing you with a more personalized online experience and facilitating your downloads, Site uses your personal information to present a wider range of products and services with convenient access to you. Site may occasionally include information from other companies concerning products and services that would be beneficial to your Site products. As well, Site uses your personal information to keep you abreast of new products, promotions, offers, contests, and any other information.
+     In addition to providing you with a more personalized online experience and facilitating your downloads, Site uses your personal information to present a wider range of products and services with convenient access to you. Site may occasionally include information from other companies concerning products and services that would be beneficial to your Site products. As well, Site uses your personal information to keep you abreast of new products, promotions, offers, contests, and any other information. 
 
-Site believes might better serve you. From time to time, Site may use your personal information to contact you to request your participation in a market research survey.
+Site believes might better serve you. From time to time, Site may use your personal information to contact you to request your participation in a market research survey. 
+
+We will not rent or sell your personal information to third parties for marketing purposes.  
+We will not share your personal information without your written agreement. 
 
 Maintaining your right to privacy is important to Site. Site will not sell your personal information to commercial entities, advertisers, etc. Site is not in the business of exploiting its Users. 
+
+The User has the right to delete and/or modify his personal information on our web site. 
 
 How We Protect Your Personal Information
      Your personal information is safeguarded through the use of Site's managerial procedures, as well as physical and electronic procedures to protect security. 
