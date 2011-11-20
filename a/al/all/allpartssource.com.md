@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allpartssource.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611000259id_/http%3A//www.allpartssource.com/index.php/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allpartssource.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120193006id_/http%3A//www.allpartssource.com/our-privacy-policy) for the most accurate reproduction.*
 
-# OUR PRIVACY POLICY Hard Drives, Memory, Tape Drives, Power Supply, Processor, Server, System Board, Networking
+# OUR PRIVACY POLICY
 
 Your privacy is important, so we'd like to explain what information we collect when you visit All Parts Source ([http://www.allpartssource.com](http://www.allpartssource.com/)), why we collect it and how it is used. We'd also like to explain your options to access and control your information, our data security practices and other matters. This Policy is governed by our Terms of Service. 
 
