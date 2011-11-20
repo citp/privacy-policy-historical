@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kintera.org privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523055551id_/http%3A//internet.blackbaud.com/site/c.owL8JoO7KzE/b.5059223/k.9F45/Privacy_Policy/apps/s/link.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kintera.org privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120165647id_/http%3A//internet.blackbaud.com/site/c.owL8JoO7KzE/b.5059223/k.9F45/Privacy_Policy/apps/s/link.asp) for the most accurate reproduction.*
 
 # Blackbaud Privacy Policy
 
