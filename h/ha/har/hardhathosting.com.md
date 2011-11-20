@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hardhathosting.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523062512id_/http%3A//www.hardhathosting.com/about/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardhathosting.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120181948id_/http%3A//www.hardhathosting.com/about/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement : Hard Hat Hosting
+# Privacy Statement : Hard Hat Hosting – Managed VPS Hosting | Managed Dedicated Servers
 
 **HardHat, Inc. complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. We will respond to your request for access to modify or delete your information within thirty (30) days.**
 
