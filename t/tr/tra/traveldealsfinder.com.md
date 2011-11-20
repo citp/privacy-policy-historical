@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the traveldealsfinder.com privacy policy that was archived on 2010-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100130204519id_/http%3A//www.traveldealsfinder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveldealsfinder.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120215616id_/http%3A//www.traveldealsfinder.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - India Travel Packages Offers
+# Privacy Policy - 2012 Travel Deals
 
-* Your Privacy  
+Your Privacy  
 We give our site visitors the opportunity to provide Traveldealsfinder.com with their personal information in response to specific services or tasks (e.g., signing up for our newsletters). In order to receive additional services, visitors may be required to provide personal information such as an email address.
 
 Email Privacy  
@@ -24,3 +24,5 @@ Please do not send to Traveldealsfinder.com or post on Traveldealsfinder.com any
 
 Revisions  
 Traveldealsfinder.com may at any time revise the terms and conditions herein by updating this legal page. You are bound by any such revisions and should therefore periodically visit this page to review the current terms and conditions.
+
+2012 Travel Deals2012 Travel Deals 
