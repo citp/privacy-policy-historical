@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the i2list.com privacy policy that was archived on 2010-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101101094502id_/http%3A//www.i2list.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i2list.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120174035id_/http%3A//www.i2list.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
-# 
+# Free Classifieds & Coupons Site - i2List.com classified ads
 
-PRIVACY STATEMENT 
+**PRIVACY STATEMENT**
 
 Welcome to i2List.com. 
 
@@ -40,4 +40,4 @@ Changes to this Agreement.
 
 We reserve the right, at our sole discretion, to change, modify or otherwise alter these terms and conditions at any time. Such modifications shall become effective immediately upon the posting thereof. We ask that you review this agreement on a regular basis to keep yourself apprised of any changes. 
 
-Created by, i2List 
+Created by, **i2List Team**
