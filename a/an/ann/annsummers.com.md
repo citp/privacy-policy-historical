@@ -1,74 +1,134 @@
-> *The following text is extracted and transformed from the annsummers.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529034822id_/http%3A//www.annsummers.com/webapp/wcs/stores/servlet/StaticPage_40151_PRIVACY_-1_10001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annsummers.com privacy policy that was archived on 2011-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111120080247id_/http%3A//www.annsummers.com/page/PrivacyPolicy) for the most accurate reproduction.*
 
-# Ann Summers - ANN SUMMERS PRIVACY POLICY
+# Your Privacy - Ann Summers Privacy Policy
 
-## 
+Ann Summers is committed to respecting the privacy rights of visitors and customers of our website. This privacy policy explains how we collect, store and use personal data about you when you browse www.annsummers.com (the "Website"), shop with us or otherwise provide your personal data to us. It provides you with details about the types of personal data that we collect from you, how we use your personal data and the rights you have to control our use of your personal data.
 
-Buy With Confidence
+You must read this privacy policy carefully and we recommend that you print and retain a copy for your future reference. By accessing, browsing or otherwise using this Website, you confirm that you have read, understood and agree to this privacy policy in its entirety. If you do not agree to this privacy policy in its entirety, you must not use this Website.
 
-As part of our high security standards, when you enter this website we will use cookies.
+### Who We Are
 
-Cookies are small pieces of information which are stored by your web browser on your computer's hard drive.
+This website is owned and operated by Ann Summers Ltd. Ann Summers Ltd is a company registered in England and Wales (company registration number 1034349) whose registered office is at Gold Group House, Godstone Road, Whyteleafe, Surrey, CR3 0GG. Our registered VAT number is 210 551 810, Please note our VAT rate is 20%. Unless we say otherwise, we use the terms "Ann Summers", "AnnSummers.com", "Knickerbox", "we", "us" and "our" on this page to refer to Ann Summers Ltd (including throughout the Website Privacy Policy and Website Terms & Conditions).
 
-Ann Summers has relationships with carefully selected and monitored suppliers to assist in the delivery of a high quality website. Some of these suppliers may also set cookies during your visit in order to meet contractual obligations with Ann Summers.
+If you want to ask us anything (whether about our privacy policy, our products and services, this website, any of our terms and conditions or otherwise), then please [click here ](http://www.annsummers.com/ContactUs) to contact us
 
-The information these cookies collect is anonymous and not personally identifiable. It does not store any personal details relating to you or your credit cards.  
-If you do not wish to receive cookies you will not be able to use this website. We also use JavaScript to speed up your online shopping experience. If you disable either cookies or JavaScript, you will not be able to use this site.
+### Over 18s Only
 
-**1\. When you register and use this site:**
+We do not and will not knowingly collect information from any person under the age of 18. If you are under the age of 18, you must not use this Website or submit any personal data. Due to the nature of some of our products, you must be over 18 to use and shop on our website.
 
-You will be asked to provide certain information such as your contact details. We will store this data and hold it on computers or otherwise. We will use this data to fulfil our agreement with you. 
+### The Personal Data We Collect About You
 
-2\. We may use information that you provide or that is obtained by us: 
+When you make purchases from Ann Summers (including purchases made in-store, over the phone, via our catalogue order forms, at an Ann Summers party or this Website) we may collect the following personal data about you:
 
-(a) To register you with our web site and to administer our web site services;  
-(b) for assessment and analysis (e.g. market, customer and product analysis) to enable us to review, develop and improve the services which we offer and to enable us to provide you and other customers with relevant information through our marketing programme. We may use your information to make decisions about you using computerised technology, for example automatically selecting products or services which we think will interest you from the information we have. We may keep you informed of such products and services (including special offers, discounts, offers, competitions and so on by any of the following methods:) 
+  * your name, age and sex; 
+  * your billing and delivery postal addresses, phone, and e-mail details; 
+  * where you have registered with us, your user name and password; 
+  * where you place an order with us, your payment card details; 
+  * your communication and shopping preferences; 
+  * your browsing and online shopping activities; and 
+  * your date of birth.
 
-\- Email   
-\- Telephone (including automated calls)   
-\- SMS text message and other electronic messages such as picture messaging   
-\- Post   
-\- Fax 
 
-or otherwise 
 
-(including products and services of other companies and organisations) which we consider may be of interest to you. If you do not wish Ann Summers to receive information of such products and services, please tick the opt-out box provided when registering on this website. 
+We may also collect some or all of the above personal data about you when you access and browse this Website or any third party microsite (as described below), including when you sign up to receive Ann Summers newsletters. We may also collect some or all of this personal data from third parties who have your consent to pass your details to us.
 
-3\. We may supplement the information that you provide to us with information that we receive from third parties. 
+We do not sell or pass any of your data to any third parties for marketing purposes.
 
-4\. In order to protect our customers and us from fraud and theft, we may pass on information that we obtain from making identity checks and other information in our customer records to other Group companies, other retailers and to financial and other organisations (including law enforcement agencies) involved in fraud prevention and detection, to use in the same way.
+### How We May Store And Use Your Information
 
-5\. We may give information about you to the following, who may use it for the same purposes as set out above:
+Ann Summers (and third party data processors/services acting on our behalf) may collect, store and process your personal data:
 
-(a) to other companies in the Group;  
-(b) to employees and agents of the Group to administer any accounts, products and services provided to you by the Group now or in the future;  
-(c) agents who (on our behalf) profile your data so that we may tailor the goods/services we offer to your specific needs;  
-(d) to other organisations for the administration of prize draws or competitions.  
-(e) to anyone to whom we transfer or may transfer our rights and duties under our agreement with you;  
-(f) if we have a duty to do so or if the law allows us to do so. 
+  * To make this Website available to you and to provide you with content which is tailored to your individual tastes; 
+  * To maintain any registered account that you hold with us 
+  * With your agreement, to contact you (including by e-mail and SMS) about promotional offers and products and services which we think may interest you and for customer satisfaction and market research purposes;
+  * To provide our goods and services to you and for associate purposes, including verifying your identity; 
+  * For research, analysis, testing, monitoring, risk management and administrative purposes; 
+  * For any related purposes, or where we have a legal right or duty to use or disclose your information (including for crime and fraud prevention and related purposes). 
 
-6\. In carrying out the activities specified in this section, we may transfer data to reputable companies outside the European Economic Area. We take steps to ensure that your information will be afforded the same level of protection as that required of us under applicable UK data protection legislation. 
 
-7\. New technologies are emerging on the Internet that helps us to deliver customised visitor experiences. In particular, there is a technology called "cookies" which may be used by us to provide you with, for example, customised information from our web site. A cookie is an element of data that a web site can send to your browser, which may then store it on your system. Cookies allow us to understand who has seen particular pages and advertisements, to determine how frequently particular pages are visited and to determine the most popular areas of our web site. Depending on the type of cookie we use, cookies also allow us to make our web site more user friendly, for example, permanent cookies allow us to save your password so that you do not have to re-enter it every time you visit our web site.  
-If you wish, you can usually adjust your browser so that your computer does not accept cookies. If you do this, you will still be able to browse around the site but the functions that allow you to add items to your trolley, set up a new account or access an existing account will not be available. Alternatively you can adjust your browser to tell you when a website tries to put a cookie on your computer. How you adjust your browser to stop it accepting cookies or to notify you of them, will depend on the type of internet browser programme your computer uses. If your computer uses Microsoft Internet Explorer or Netscape Navigator, you will need to follow these instructions after clicking onto this link www.aboutcookies.org (Ann Summers is not responsible for the content of external websites. This link will open a new window.) Go to the heading "Manage Cookies". Click onto the option you prefer, either stopping cookies being installed, or notifying you of them. From the list provided, click onto the programme which your computer uses. If this is not shown on the list, click on the "help" heading on the bar at the top of this page, search for information on "cookies" - an explanation of how to delete cookies will appear, then follow these instructions.
 
-8\. Please remember, cookies do not contain confidential information such as your home address, telephone number or credit card details. We do not exchange cookies with any third party websites or external data suppliers.
+We also process your payment card details in order to complete any purchase that you make through this Website and, in certain instances, disclose your personal data to third party credit reference agencies to perform credit checks against you. 
 
-9\. Your browser also generates other information, including which language the site is displayed in, and your Internet Protocol address ("IP address"). An IP address is a set of numbers which is assigned to your computer during a browsing session whenever you log on to the Internet via your internet service provider or your network (if you access the Internet from, for example, a computer at work). Your IP address is automatically logged by our servers and used to collect traffic data about visitors to our web sites. We do not use your IP address to identify you personally.
+In addition, we may collect anonymous details about visitors to our Website for the purposes of aggregate statistics or reporting purposes. However, no single individual will be identifiable from the anonymous details that we collect for these purposes.
 
-10\. We only keep cookies for the duration of your visit to our website, except where you save your login name as referred to above. 
+### Microsites
 
-11\. We endeavour to take all reasonable steps to protect your personal information. However, we cannot guarantee the security of any data you disclose on-line. You accept the inherent security risks of providing information and dealing on-line over the Internet and will not hold us responsible for any breach of security unless this is due to our negligence or wilful default. 
+Ann Summers has partnered with certain trusted third parties to make available certain additional third party products, services and information to you, including:
 
-12\. For further information about the steps we take to protect your information and make online shopping as secure as possible, please see information on Secure online shopping. 
+[www.sexyuncovered.com](http://www.sexyuncovered.com/)
 
-13\. You have the right to see personal data (as defined in the Data Protection Act) that we keep about you, upon receipt of a written request and payment of a fee. If you are concerned that any of the information we hold on you is incorrect please contact us (see details below). 
+[www.davidgold.co.uk](http://www.davidgold.co.uk/)
 
-14\. Please be aware that our site may link to other web sites which may be accessed through our site. We are not responsible for the data policies or procedures or the content of these linked web sites. 
+[www.jacquelinegold.com](http://www.jacquelinegold.com/)
 
-If you want to be removed from our mailing list, you simply log into your account on annsummers.com website and change your preferences to where you will be removed from our database. Please note that it may take up to 28 days to action your request. In addition, each electronic mailing we send you will contain details of how you can un-subscribe. 
+[www.facebook.com/AnnSummersOfficial](http://www.facebook.com/AnnSummersOfficial)
 
-To change any of your registered details on annsummers.com, click on [ Log in page ](https://web.archive.org/webapp/wcs/stores/servlet/Logoff?langId=-1&storeId=10001&catalogId=40151&state=forgetpassword_40151_-1_10001)  
-and enter your login name and password. Once logged in change any of the details shown and click ‘update my details'. 
+<http://twitter.com/#!/ann_summers>
 
-For further information about shopping on annsummers.com please read our [Terms and Conditions ](https://web.archive.org/webapp/wcs/stores/servlet/StaticPage_40151_TAC_-1_10001) and [Delivery Information](https://web.archive.org/webapp/wcs/stores/servlet/StaticPage_40151_OFFERS_-1_10001)
+Each of these third party products and services can be accessed online through the relevant third party's "microsite". A microsite is a website that is owned and operated by Ann Summers or a third party but and can be accessed from links on the main Ann Summers Website. Alternatively, you can visit a microsite by clicking on the links above.
+
+Please note that, although Ann Summers' third party partners display Ann Summers branding on their respective microsites, Ann Summers does not own or operate any microsite and each microsite is governed by its own terms and conditions and privacy policy. Personal data that you provide or which are collected about you through a microsite will be used by the relevant third party in accordance with that microsite's terms and conditions and privacy policy. In some cases, third party microsite operators may disclose your personal data to us so that we may use them in accordance with this Privacy Policy.
+
+If you have any questions or concerns about the collection or use of your personal data collected through any microsite, you should contact the relevant third party microsite operator using the contact information specified in their privacy policy.
+
+Please note that there are a number of Ann Summers imitators and resellers online. Please do not buy from these websites. They are not official stockists and not governed by our Terms and Conditions and Privacy Policy. We can also not guarantee they are selling genuine Ann Summers products or have gone through our stringent testing policy and quality assurance. 
+
+### Email Newsletters
+
+You can subscribe to our newsletter where you will receive emails about products, offers, competitions, news, Ann Summers Parties and much more. 
+
+### Targeted Updates and Marketing
+
+If you have agreed that we can contact you for marketing purposes we may send you emails and other communications relating to products and services which we think will be of interest and relevance to you as an individual. We do this by monitoring the browsing and online shopping habits of customers and providing them with information on products they have viewed and related products.
+
+### Cookies
+
+This Website uses cookies to collect information about you. Cookies are small data files which are placed on your computer or other device by this Website and which collect certain personal data about you. This enables us to tailor our service offering (including the Website) to provide you with products and services which are more relevant to your individual tastes. You may change your website browser settings to reject cookies, although please note that if you do this it may impair the functionality of the Ann Summers website. Ann Summers has relationships with carefully selected and monitored suppliers to assist in the delivery of a high quality website. Some of these suppliers may also set cookies during your visit in order to meet contractual obligations with Ann Summers (Supplier Cookies). Both Ann Summers and Supplier cookies do not store any personal information relating to you or your credit cards. We also use JavaScript to speed up your online shopping experience. For further information about cookies, including how to refuse cookies, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+
+### Changes in Laws Regarding Cookies
+
+From May 2011, the laws regarding the use of cookies changed to prevent the storing of cookies without the user's permission. Ann Summers fully supports this ruling, and have worked to bring this use in line. By using this site you are accepting our use of cookies unless you choose to reject them as stated above.
+
+For more information about cookies, please visit this independent site. (Ann Summers is not responsible for the content of external sites.)
+
+### Security
+
+We use Internet standard encryption technology ("SSL" or "Secure Socket Layer" technology) to encode personal data that you send to us when placing an order through the Website. To check that you are in a secure area of the Website before sending personal data to us, please look at the bottom right of your website browser and check that it displays an image of a closed padlock or an unbroken key However, please note that whilst we take appropriate technical and organisational measures to safeguard the personal data that you provide to us, no transmission over the Internet can ever be guaranteed secure. Consequently, please note that we cannot guarantee the security of any personal data that you transfer over the Internet to us.
+
+If you are using a computer or terminal in a public location, we recommend that you always log out and close the website browser when you complete an online session for your security. In addition we recommend that you take the following security measures to enhance your online safety:
+
+  * Keep your account passwords private. Remember, anybody who knows your password may access your account. 
+  * When creating a password, we recommend use at least 8 characters. A combination of letters and numbers is best. We recommend you do not use dictionary words, your name, email address, or other personal data that can be easily obtained. We also recommend that you frequently change your password. You can do this by going to 'My Account' and clicking 'Change name, email or password', 
+  * Avoid using the same password for multiple online accounts.
+
+  
+
+
+### Spoof/false Emails
+
+We will never ask you to confirm any account or credit card details via email. If you receive an email claiming to be from annsummers.com asking you to do so, please ignore it and do not respond.
+
+  
+
+
+### You have the following rights:
+
+  * the right to ask what personal data that we hold about you at any time, subject to a fee specified by law (currently Â£10);
+  * the right to ask us to update and correct any out-of-date or incorrect personal data that we hold about you free of charge; and 
+  * the right to opt out of any marketing communications that we may send you.
+
+
+
+If you wish to exercise any of the above rights, please contact our customer services department. However, if you wish to unsubscribe from e-mail marketing communications that we send you, you can most easily do this by clicking on the unsubscribe link at the bottom of any e-mail newsletter we have sent to you.
+
+### Third Party Sites
+
+This Website contains links to other websites operated by third parties (including microsites, described above). Please note that this privacy policy applies only to the personal data that we collect through this Website and we cannot be responsible for personal data that third parties may collect, store and use through their website (including microsites). You should always read the privacy policy of each website you visit carefully.
+
+### Internet Shopping Is Safe Accredited Retailer
+
+Ann Summers is an ISIS accredited retailer and annsummers.com is verified as an ISIS compliant website.
+
+### Updates to this Policy
+
+This privacy policy was last updated in November 2011. Please check back regularly to keep informed of updates to this privacy policy.
