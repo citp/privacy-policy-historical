@@ -1,49 +1,51 @@
-> *The following text is extracted and transformed from the momentive.com privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527215853id_/http%3A//www.ge.com/en/ge/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momentive.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121163931id_/http%3A//www.momentive.com/about_us.aspx%3Fid%3D302) for the most accurate reproduction.*
 
-# General Electric : Privacy Policy
+# Momentive.com - Momentive Specialty Chemicals Privacy Policy
 
-#### Information Collected
+Revised July 7, 2011
 
-In general, you can visit this Web site without telling us who you are or revealing any information about yourself. Our web servers collect the domain names, not the e-mail addresses, of visitors. Our web servers also seek (as many Web sites do) to place a "cookie" (a small data file) on your computer's hard drive which allows the server to determine the computer when it visits again, in order to track statistical information about navigation to and throughout certain areas of our site, and to GE promotions on other sites. This cookie is not used to obtain your name or any personal data, and the information that is tracked is used only for internal purposes, such as to improve site navigation and to measure the effectiveness of our promotional placements, and is not shared with anyone other than GE affiliates and contractors who assist GE in these efforts and are bound to confidentiality. However, if you prefer not to accept cookies, you can set your browser to reject them or to alert you before one is placed.
+## WHAT INFORMATION DO WE COLLECT?
 
-In addition, there are portions of this Web site where we may need to collect personal information from you for a specific purpose, such as to provide you with certain information you request. The information collected from you may include your name, address, telephone, fax number, or e-mail address. For electronic access to annual reports and proxy statements, we collect your tax identification number to verify your shareholder status. For our supplier diversity site, we necessarily collect information about gender and ethnicity, such as whether your business is female-owned.
+**Anonymous Browsing**
 
-We use a third-party technology to place our advertisements on other Web sites. This technology will install a small "cookie" file on your computer when you view our ad. These cookies will not contain any information that personally identifies you (such as your name or e-mail address) but they will contain a randomly generated number that is unique to your browser and can be recognized by a "Web beacon" (transparent GIF file) on our site if you click through to our site from one of our ads. This allows us to keep track of how many unique visitors we have to our site and from what ads they entered, so that we can measure the effectiveness of our ads and ad placements. The privacy policies of the Web sites on which we advertise, and through which the cookies are installed should inform you about the cookie, and you may of course set your browser to reject cookies. To learn more about the third-party ad-serving technology that we use, cookies, and how to "opt-out," please [click here to learn more about the third-party ad-serving technology... External site. (Opens new window) ](https://web.archive.org/r/r?http://www.doubleclick.com/us/corporate/privacy "External site \(Opens new window\)"). 
+In general, you can visit this web Site without revealing who you are or any information about you. Momentive’s web servers collect the domain names, not the e-mail addresses or other personally identifying information of visitors. In this case, our web servers may collect the name of the domain you used to access the Internet and the web site you came from and visit next. This information is aggregated to measure the number of visits, average time spent, page views, and other statistics about visitors to this Site.
 
-This Web site is not intended for persons under 13 years of age. We do not knowingly solicit or collect personal information from or about children, and we do not knowingly market our products or services to children.
+To gather general statistics, our servers will seek (as many web sites do) to place a "cookie" or “client cookie” (a small data file typically made up of a string of text and numbers, which assigns the visitor a unique identifier) on your computer's hard drive. Furthermore, Momentive maintains a "server cookie" on its own system in order to recognize a returning visitor, and to track statistical information about the visitor’s navigation to and throughout certain areas of this Site, as well as to Momentive promotions on other sites. This information allows better administration of the Site, and provides a more tailored and user-friendly service to you. Again, these cookies are not used to obtain your name or any personal data, and the information that is tracked is used only for internal purposes, such as to improve Site navigation and to measure the effectiveness of our promotional placements, and is not shared with anyone other than Momentive affiliates and contractors who assist Momentive in these efforts and are bound to confidentiality. If you prefer not to accept cookies, you can set your browser to reject them or to alert you before one is placed. However, rejection of a cookie may limit the functionality that is available to you when you visit this Site.
 
-Return to top
+This Site is not intended for persons under 13 years of age. Momentive does not knowingly solicit or collect personal information from or about children, and does not knowingly market its products or services to children.
 
-#### Use of Collected Information
+**Personal Information Collection**
 
-Domain name information that we collect is not used to personally identify you and instead is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. We use this information to measure the use of our site and to improve the content of our site.
+For some services or areas on the Site, you will be asked to register if you have not already done so, and may also be asked to provide information about you and/or your company such as name, job title, email address, and other information that will enable Momentive to provide services and information to you. Once you provide information about yourself and/or your company, your browsing on this Site will no longer be anonymous. If you order product or use certain services available through this Site, you may be asked to provide further information, including, but not limited to, financial information (such as credit card and billing information), product information, and other personal information. Momentive may also collect other information from you when you provide comments or participate in surveys. When such personal information is collected, you are generally notified at the time of collection as to how this personal information is used. In most cases, personal information is used only to respond to your inquiry or to process your request.
 
-When other information is collected from you, such as your name and e-mail address, we generally let you know at the time of collection how we will use the personal information. Usually, we use the personal information you provide only to respond to your inquiry or to process your request (such as to receive electronic annual reports or to be added to our supplier diversity database). This information may be shared with other GE businesses, but only if necessary to fulfill your request or for related purposes.
+When registering with this Site, certain technical and routing information about your computer is collected to facilitate your use of the Site. For example, environmental variables are logged, such as browser type, operating system and CPU speed, and the Internet Protocol (“IP”) address of your originating Internet Service Provider. Momentive also records search requests and results to try to ensure the accuracy and efficiency of the search engine. Your IP address is also used to track your use of the Site. This "click Stream" data may be matched with the registration data you provide.
 
-We may share the personal information you provide with other companies we have hired to provide services for us. These companies - our vendors - are contractually bound to use personal information we share with them only to perform the services we have hired them to provide. We do not share, sell, or lease personal information about you to any third-parties for their marketing use. We will release information about you if you direct us to do so, if we are required by law to do so, or in other legally limited circumstances (for example, to protect your account from fraud).
+If you use the online job search program, members of the Human Resources staff will review and process your application. If no opportunities are available at the time, the information you provided may be kept on file for purposes of identifying future employment opportunities for you at Momentive.
 
-If you register with one of GE's business units online, they may use this information to provide you with custom information about GE's offerings in support of your business needs. They may also seek to place a "cookie" (small data file) as discussed above in order to provide you with tailored information. You should review the privacy policy associated with that GE business' Web site for further information about that GE business' privacy practices.
+If you are providing personal data about other individuals, please ensure that they are aware of this Privacy Policy.
 
-Return to top
+Momentive strives to have in place an appropriate means to protect your information. Momentive maintains strict physical, electronic, and administrative safeguards to protect your personal information from unauthorized or inappropriate access. Access to information about you is restricted to those Momentive workers who need to know the information to respond to your inquiry or request. Workers who misuse personal information are subject to disciplinary action.
 
-#### Links to Other Sites
+## LINKS
 
-GE's Web site may contain links to other sites such as GE distributors and sales affiliates. While we try to link only to sites that share our high standards and respect for privacy, we are not responsible for the content, security, or privacy practices employed by other sites.
+Other companies that provide services on this Site, that provide a co-branded version of this Site, or that advertise or link on this Site, may use cookies or collect other information about you when you go to their web site. While Momentive tries to link only to sites that share its high standards and respect for privacy, Momentive is not responsible for the content, security, or privacy practices employed by other sites. You should contact these companies directly if you have any questions about their collection or use of information about you.
 
-#### Security of Collected Information
+Momentive's web Site may contain links to other sites such as those belonging to Momentive distributors and sales affiliates.
 
-We maintain strict physical, electronic, and administrative safeguards to protect your personal information from unauthorized or inappropriate access. We restrict access to information about you to those GE workers who need to know the information to respond to your inquiry or request. Workers who misuse personal information are subject to disciplinary action.
+## SHARING OF INFORMATION
 
-#### Access to Collected Information
+When you provide information to Momentive, it may be shared with other companies as necessary to achieve the purposes identified in this Privacy Policy, as well as those identified in other communications with you or on this Site including, but not limited to, fulfilling your requests and offering you other products and services that may be of interest to you. These companies - Momentive’s vendors - are contractually bound to use the personal information that is shared with them only to perform the services they have been hired to provide. Momentive does not share, sell, or lease personal information about you to any third parties for their marketing use. Momentive may disclose information about you to others if there exists a good faith belief that it is required by law or legal process to respond to claims, or to protect the rights, property or safety of Momentive or others, or in other legally limited circumstances (for example, to protect your account from fraud). In addition, the information you provide may be shared with Momentive operating units or departments located in the United States or in other parts of the world.
 
-You may review and update the information that you provide to us through this Web site by contacting us as described below.
+## SPECIAL PROVISIONS FOR OUR EUROPEAN USERS
 
-#### Contacting Us
+By providing data to Momentive, you acknowledge and agree that due to the international dimension of this company, personal data collected in the course of the relationship may be collected, used, and disclosed for commercial and marketing purposes, or provided in accordance with this Privacy Policy to other Momentive operating units or departments, and selected third parties, which may be outside your resident jurisdiction. In addition, such data may be stored on servers located in other jurisdictions. Further, you consent to the transfer of such data outside of the European Union as described in this Privacy Policy. If you do not consent to the terms of this Privacy Policy, please do not use this Site and, if you have already provided personally identifying data, please contact Momentive about how you would like your data to be handled.
 
-If you have any questions about this privacy policy, please use the [Contact Us](https://web.archive.org/en/ge/contact.htm) page. We welcome your questions and suggestions about our privacy policy.
+## HOW DO YOU ACCESS AND UPDATE YOUR INFORMATION?
 
-#### Changes to this Policy
+Please contact Momentive if you wish to modify or verify personal identifying information that you have submitted or if you have questions about the information that is maintained.
 
-Please check this privacy policy periodically to inform yourself of any changes. Although we reserve the right to modify or supplement this privacy policy, we will provide notice to you on this Web site of any major changes for at least 30 days following the change.
+If you have any questions or concerns about this Privacy Policy, please contact us at [webprivacy@momentive.com](mailto:webprivacy@momentive.com).
 
-Return to top
+## PRIVACY POLICY REVISIONS
+
+Momentive reserves the right to modify or supplement this Privacy Policy at any time. Any future modifications or supplements to this Privacy Policy will be posted on this page at the Site. 
