@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the liweddings.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612103020id_/http%3A//www.liweddings.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liweddings.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121235952id_/http%3A//liweddings.com/pages/privacy.aspx) for the most accurate reproduction.*
 
 # LIWeddings.com Internet Privacy Policy
-
-| 
 
 | 
 
@@ -60,18 +58,3 @@ LIWeddings.com reserves the right to contact site visitors regarding account sta
 9\. LIWeddings.com's Right to Change Privacy Policy
 
 The foregoing policy is effective as of December 11, 1995. LIWeddings.com reserves the right to change this policy at any time by notifying visitors of the existence and location of the new or revised privacy policy. By entering the LIWeddings.com website you are accepting all terms and conditions outlined in the above Long Island Weddings ™, Inc Internet Privacy Policy.
-
-| 
-
-[](http://www.liweddings.com/scripts/tracking/static.aspx?ID=156) [](http://www.liweddings.com/scripts/tracking/static.aspx?ID=140) [](http://www.liweddings.com/scripts/tracking/static.aspx?ID=106) [](http://www.liweddings.com/scripts/tracking/static.aspx?ID=231)
-
-[](http://www.liweddings.com/vendors/banners/?ID=669) [](http://www.liweddings.com/vendors/banners/?ID=1596) [](http://www.liweddings.com/vendors/banners/?ID=1709)
-
-  
-       [](http://www.facebook.com/home.php?#!/pages/LIWeddingscom/36075121673)
-
-        [](http://www.twitter.com/LIWeddings)
-
-       [](http://www.youtube.com/LIWeddings)  
-  
----|---|---
