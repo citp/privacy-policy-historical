@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadaces.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524045255id_/http%3A//www.downloadaces.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadaces.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121213040id_/http%3A//www.downloadaces.com/privacy.php) for the most accurate reproduction.*
 
 # DownloadAces.com Privacy Policy
 
