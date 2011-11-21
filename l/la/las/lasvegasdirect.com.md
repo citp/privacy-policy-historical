@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasvegasdirect.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030155557id_/http%3A//www.lasvegasdirect.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasvegasdirect.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121022417id_/http%3A//www.lasvegasdirect.com/privacy.html) for the most accurate reproduction.*
 
 # Las Vegas Direct Privacy Policy
 
@@ -53,7 +53,9 @@ LasVegasDirect only provides information about travel, either reserved or purcha
 
 There may be pages throughout LasVegasDirect.com that link to other Web sites that do not operate under LasVegasDirect's privacy policy. Once you leave the LasVegasDirect.com domain, our privacy policy no longer applies. We recommend that you examine the privacy policies for all third party Web sites to understand their procedures for obtaining, using, and sharing your information.
 
-LasVegasDirect may be required by law to disclose information you have provided in purchasing travel products and services. LasVegasDirect may also disclose information against someone who may pose as a threat to LasVegasDirect's interests or whose activities could bring harm to others.
+LasVegasDirect may be required by law to disclose information you have provided in purchasing travel products and services. LasVegasDirect may also disclose information against someone who may pose as a threat to LasVegasDirect's interests or whose activities could bring harm to others. 
+
+By booking with us, you may receive occasional promotional emails from us with the ability to opt-out at any time if you choose not to receive them.
 
 Our Partners
 
