@@ -1,12 +1,15 @@
-> *The following text is extracted and transformed from the tagvillage.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613115205id_/http%3A//www.tagvillage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tagvillage.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121024621id_/http%3A//www.tagvillage.com/privacy-policy) for the most accurate reproduction.*
 
-# - tagvillage » Connect. Earn. Share.
+# Privacy Policy | tagvillage | a Tithing Corporation
 
-#### tagvillage’s Privacy Policy.
+Nov. 4, 2011 
 
-Date of last revision: December 19, 2010. 
+Date of last revision: December 19, 2010.
 
-This policy contains nine sections: 
+**General / Overview**  
+The following Privacy Policy shall apply to the relationship between tagvillage, inc., all subsidiaries of tagvillage, inc., and www.tagvillage.com ("tagvillage"), and the end user ("You" or "Your"). By using tagvillage.com You accept this Privacy Policy, as well as the manner in which tagvillage.com operates. 
+
+This Privacy Policy contains nine sections: 
 
 _Introduction_  
 _Information We Receive_  
@@ -134,8 +137,8 @@ We don’t share your information with advertisers without your consent. (An exa
 **D. To serve social ads**  
 We occasionally pair advertisements we serve with relevant information we have about you and your friends to make advertisements more interesting and more tailored to you and your friends. For example, if you connect with your favorite band’s page, we may display your name and profile photo next to an advertisement for that page that is displayed to your friends. We only share the personally identifiable information visible in the social ad with the friend who can see the ad. You can opt out of having your information used in social ads on your Account page.
 
-**E. To supplement your profile**  
-. We may use information about you that we collect from other tagvillage users to supplement your profile (such as when you are tagged in a photo or mentioned in a status update). In such cases we generally give you the ability to remove the content (such as allowing you to remove a photo tag of you) or limit its visibility on your profile.
+**E. To supplement your profile.**  
+We may use information about you that we collect from other tagvillage users to supplement your profile (such as when you are tagged in a photo or mentioned in a status update). In such cases we generally give you the ability to remove the content (such as allowing you to remove a photo tag of you) or limit its visibility on your profile.
 
 **F. To make suggestions**  
 We use your profile information, the addresses you import through our contact importers, and other relevant information, to help you connect with your friends, including making suggestions to you and other users that you connect with on tagvillage. For example, if another user imports the same email address as you do, we may suggest that you connect with each other. If you want to limit your visibility in suggestions we make to other people, you can adjust your search visibility privacy setting, as you will only be visible in our suggestions to the extent you choose to be visible in public search listings. You may also block specific individual users from being suggested to you and you from being suggested to them.
@@ -232,10 +235,11 @@ By using tagvillage, you consent to having your personal data transferred to and
 
 #### Other Pages You May Want to Review:
 
-[Mission & Principles](https://web.archive.org/principles/)  
-[Privacy Policy](https://web.archive.org/privacy-policy/)  
-[Statement of Rights & Responsibilities](https://web.archive.org/rights-responsibilities/)  
-[Payment Terms](https://web.archive.org/payment-terms/)  
-[Refund Policy](https://web.archive.org/refund-policy/)  
-[Compensation Plan](https://web.archive.org/compensation-plan/)  
+[Mission & Principles](https://web.archive.org/web/20111210170529/http://www.tagvillage.com/flatcontent/principles/)  
+[Privacy Policy](https://web.archive.org/web/20111210170529/http://www.tagvillage.com/flatcontent/privacy-policy/)  
+[Statement of Rights & Responsibilities](https://web.archive.org/web/20111210170529/http://www.tagvillage.com/flatcontent/rights-responsibilities/)  
+[Payment Terms](https://web.archive.org/web/20111210170529/http://www.tagvillage.com/flatcontent/payment-terms/)  
+[Refund Policy](https://web.archive.org/web/20111210170529/http://www.tagvillage.com/flatcontent/refund-policy/)  
+[Compensation Plan](https://web.archive.org/web/20111210170529/http://www.tagvillage.com/flatcontent/compensation-plan/)
 
+Please Note: We are looking for help translating this page. If this page is not available in your language, or the current translation is not accurate, we would love your help. Please send an email to admin@tagvillage.com and let us know what language you can translate into. Thank you! 
