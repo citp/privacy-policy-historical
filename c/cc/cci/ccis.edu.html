@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ccis.edu privacy policy that was archived on 2011-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110504161952id_/http%3A//www.ccis.edu/policies/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ccis.edu privacy policy that was archived on 2011-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111121123937id_/http%3A//www.ccis.edu/policies/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Columbia College Privacy Policy</title>
@@ -9,108 +9,42 @@
 <meta name="language" content="en">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 <meta http-equiv="Content-Style-Type" content="text/css">
+
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/jsfunctions.js" language="Javascript"></script>
-<link rel="icon" type="image/png" href="/images/favicon.png">
-<link rel="stylesheet" href="/css/interior.css" type="text/css">
 <script type="text/javascript" src="/includes/jquery.js"></script>
 <script type="text/javascript" src="/includes/jquery_plugins/bgiframe/jquery.bgiframe.pack.js"></script>
 <script type="text/javascript" src="/includes/jquery_plugins/ui/jquery-ui.js"></script>
 <script type="text/javascript" src="/jsfunctions.js"></script>
+<script type="text/javascript" src="/includes/calendar.js?t=Main"></script>
+<script type="text/javascript" src="/includes/searchbox.js"></script>
 
-<!--[if (lte IE 7)]> <link rel="stylesheet" type="text/css" href="/css/ie-interior.css" media="screen" /> <![endif]-->
-<!--[if IE 6]> <link rel="stylesheet" type="text/css" href="/css/ie6-interior.css" media="screen" /> <![endif]-->
-
-
-<style type="text/css">
-<!--
-	#banner-campuses h1 a, #banner-campuses h1 {background-image:url(/img/collegewidelogo.png);}
-
--->
-</style>
-<!--[if IE 6]>
-<style>
-	#banner-campuses h1 a, #banner-campuses h1 {background-image:url(/img/banners/collegewidelogo.gif);}
-</style>
-<![endif]-->
+<link rel="icon" type="image/png" href="/images/favicon.png">
+<link rel="stylesheet" href="/css/interior.css?v=2011" type="text/css">
 
 
 
-
-
-
-<script type="text/javascript">
-<!--
-	var calendarLoaded = 0;
-
-	$(document).ready(function(){
-		// show the Calendar when the Calendar link is clicked.
-		$("#calendar_link").click(function(event){
-			$("#calendar").show('blind');
-			event.preventDefault();
-
-			// load the calendar events
-			if (calendarLoaded == 0)
-			{
-				$.ajax({
-					type:"POST",
-					url:"/calendar_feeder.asp",
-					data:"eventType=Academic&numberRequested=5&campusType=Main",
-					dataType:"html",
-					async:false,
-					success: function(msg){ if (msg != "") {$("#academic_calendar_links").html(msg);}}
-				});
-				$.ajax({
-					type:"POST",
-					url:"/calendar_feeder.asp",
-					data:"eventType=Event&numberRequested=4&campusType=Main",
-					dataType:"html",
-					async:false,
-					success: function(msg){ if (msg != "") {$("#event_calendar_links").html(msg);}}
-				});
-				calendarLoaded = 1;
-			}
-		});
-
-		// create the Calendar dialog (pop-up) and keep it hidden for now.
-		$("#calendar").bgiframe();
-
-		// Blank out the word 'Search' when the user clicks inside the textbox.
-		$("#search_box").focus(function(event){
-			this.value = "";
-		});
-
-		// Put the word 'Search' when the user clicks off the textbox if and there is no text.
-		$("#search_box").blur(function(event){
-			if (this.value == "") {this.value = "Search"};
-		});
-
-		$("#close_calendar").click(function(event){
-			event.preventDefault();
-			$("#calendar").hide('blind');
-		});
-	});
--->
-</script>
 </head>
 <body>
 <a href="#maincontent" id="skip-nav">Skip to Main Content</a>
-<div id="container" class="clearfix">
+
+<div id="container">
 
 <div id="calendar" style="display:none;z-index:999 !important;position:absolute">
 <h2>Calendars</h2>
 <a href="/" class="close" id="close_calendar">Close Calendar</a>
      <div class="shell" id="events">
         <h3>Events</h3>
-         <ul id="event_calendar_links" class="calendar-links"><li>No events scheduled.</li></ul>
+         <ul id="event_calendar_links" class="calendar-links"><li class="no-events">No events scheduled.</li></ul>
          <div class="rule"><hr></div>
           <ul class="calendar-links">    
              <li><a href="/cougarlink">CougarLink</a></li>
              <li><a href="http://www.columbiacougars.com/">Cougar athletics schedule</a></li>
+			 <li><a href="newsroom/events.asp">Event Calendar</a></li>
          </ul>
     </div><!--end events shell-->
 	<div class="shell" id="academics">
       <h3>Academic Calendar</h3>
-          <ul id="academic_calendar_links" class="calendar-links"><li>Nothing on the academic calendar at this time.</li></ul>
+          <ul id="academic_calendar_links" class="calendar-links"><li class="no-events">Nothing on the academic calendar at this time.</li></ul>
           <div class="rule"><hr></div>
        <ul class="calendar-links2" style="float:left;">
           <li><a href="/day/newsroom/academic.asp">Day Campus calendar</a></li>
@@ -123,44 +57,52 @@
         </ul>    
     </div><!--end academics shell-->
 </div><!--end calender-->
-  
-<ul id="topNav_interior" class="clearfix">
-<li id="eServices"><a href="/eServices" title="eServices" name="top">eServices</a></li>
-<li id="cougarMail"><a href="https://mail.google.com/a/cougars.ccis.edu" title="CougarMail">CougarMail</a></li>
-<li id="calender"><a id="calendar_link" href="/newsroom/academic.asp" title="Calender">Calendar</a></li>
+
+ 
+
+ <ul id="iconNav">
+    <li class="day"><a href="/day/" title="Day Campus">Day Campus</a></li>
+    <li class="evening"><a href="/evening/" title="Evening Campus">Evening Campus</a></li>
+    <li class="online"><a href="/online/" title="Online Campus">Online Campus</a></li>
+    <li class="nation"><a href="/nationwide/" title="Nationwide Campuses">Nationwide Campuses</a></li>
 </ul>
+<ul id="topNav_interior" class="clearfix">
+  
+  	<li id="cchome"><a href="/" title="Home" name="top">Columbia College Home</a></li>
+  
+  <li id="eServices"><a href="/eServices" title="eServices">eServices</a></li>
+  <li id="cougarMail"><a href="https://mail.google.com/a/cougars.ccis.edu" title="CougarMail">CougarMail</a></li>
+  <li id="calender"><a id="calendar_link" href="/newsroom/academic.asp" title="Calendar">Calendar</a></li>
+</ul>
+      
 
 <div id="banner-campuses">
 	<h1><a href="/" title="Columbia College">Columbia College</a></h1>
-    
-</div>
-<!--end banner-->
 
-<ul id="search-links">
-<li><a href="/directory/siteindex.asp" title="Site Index">A-Z Index</a>&nbsp;|</li>
-<li><a href="/directory" title="Directories">Directories</a>&nbsp;|</li>
-<li><a href="/contact/" title="Contact">Contact</a></li>
-</ul>
-<!--end search links-->
-
+<!-- BEGIN SEARCH  -->
 <div id="searchform">
-	
-<form method="get" action="/sitesearch.asp">
-<input id="search_box" class="box" type="text" name="q" value="Search" title="Search box">
-<input type="hidden" name="cx" value="000278345938292922905:6h6wwg7gcse">
-<input type="hidden" name="cof" value="FORID:11">
-<input class="btn" type="image" name="sa" value="" title="Search" src="/img/search-box-btn.png" alt="Search button">
-</form>
+  <form method="get" action="/sitesearch.asp" id="srch">
+    <input id="search_box" class="box" type="text" name="q" value="Search" title="Search box">
+    <input type="hidden" name="cx" value="000278345938292922905:6h6wwg7gcse">
+    <input type="hidden" name="cof" value="FORID:11">
+    <input class="btn" type="image" name="sa" value="" title="Search" src="/img/framework/searchbutton2.png" alt="Search button">
+  </form>
 </div>
 
-<ul id="iconNav" class="clearfix">
-<li class="day"><a href="/day" title="Day">Day</a></li>
-<li class="evening"><a href="/evening" title="Evening">Evening</a></li>
-<li class="online"><a href="/online" title="Online">Online</a></li>
-<li class="nation"><a href="/nationwide" title="Nationwide">Nationwide</a></li>
-</ul>
-
-<!--begin google analytics tracking code-->
+<!--  END SEARCH -->
+    
+    <ul id="search-links">
+      <li><a href="/directory/siteindex.asp" title="Site Index">A-Z Index</a></li>
+      <li><a href="/directory" title="Directories">Directories</a></li>
+      <li><a href="/contact/" title="Contact">Contact</a></li>
+    </ul>
+    <!--end #search links-->    
+        
+</div>
+<!--end banner-campuses-->
+   
+ 
+  <!--begin google analytics tracking code-->
 	<script type="text/javascript">
 
 		var _gaq = _gaq || [];
@@ -268,43 +210,38 @@
 	</div> <!-- end #maincontent -->
 </div> <!-- end #topwrapper -->
 
-<div id="bottom"></div>
-</div>
+  <div id="bottom"></div>
+</div><!-- end #container -->
 
 <div id="footer">
-<div id="footer-wrap">
+   <div id="footer-wrap">
 
-<div class="license">
-<ul>
-<li><a href="/">Home</a></li>
-<li><a href="http://www.choosecc.org/">Give To CC</a></li>
-<li><a href="/offices/humanresources/vacancies.asp">Employment</a></li>
-<li><a href="/apply/requestcampus.asp">Request Admissions Info</a></li>
-<li><a href="/newsroom">Newsroom</a></li>
-<li><a href="/offices/campuslife/ada/">Disability Services</a></li>
-<li><a href="/emergency/">Emergency Info</a></li>
-<li><a href="/help">Help</a></li>
-</ul>
-</div>
+    <div class="license">
+         <ul>
+         <li><a href="/">Home</a></li>
+         <li><a href="/apply/requestcampus.asp">Request Admissions info</a></li>
+         <li><a href="/offices/humanresources/vacancies.asp">Employment</a></li>
+         <li><a href="/newsroom/">Newsroom</a></li>
+         <li><a href="http://www.choosecc.org/">Give To CC</a></li>
+      </ul>
+         <ul>
+         <li><a href="/offices/studentaffairs/ada/">Disability Services</a></li>
+         <li><a href="/emergency/">Emergency Info</a></li>
+         <li><a href="/contact/">Contact</a></li>
+         <li><a href="/help">Help</a></li>
+      </ul>
+    </div><!-- end .license -->
 
-<p>
-Main campus: 1001 Rogers Street • Columbia MO 65216
-</p>
-<!--end section-->
+ 
+    <p>Main campus: 1001 Rogers Street • Columbia MO 65216
+    • Tel: (573) 875-8700 or (800) 231-2391<br>
+    <a href="/policies/copyright.asp">©1999-2011 Copyright information</a>
+    • <a href="/policies/privacy.asp">Privacy Policy</a>
+    • <a href="/policies/nondiscrimination.asp">Statement of Nondiscrimination</a></p>
+    
+  </div><!--end #footer-wrap-->
+</div><!--end #footer-->
 
-<p>
-Tel: (573) 875-8700 or (800) 231-2391
-</p>
-
-<p>
-<a href="/policies/copyright.asp">©1999-2011 Copyright information</a>
-• <a href="/policies/privacy.asp">Privacy Policy</a>
-• <a href="/policies/nondiscrimination.asp">Statement of Nondiscrimination</a>
-</p>
-<!--end section-->
-
-</div><!--end footer-wrap-->
-</div><!--end footer-->
 
 
 
