@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interaktonline.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630080229id_/http%3A//www.interaktonline.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interaktonline.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121234341id_/http%3A//www.interaktonline.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
