@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamatemodels.com privacy policy that was archived on 2011-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110302130535id_/http%3A//streamatemodels.com/docs.php%3Fdoc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamatemodels.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121075231id_/http%3A//streamatemodels.com/docs.php%3Fdoc%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | Streamate Limited
 
@@ -16,7 +16,7 @@ Streamate will not collect any personal identifying information about you (inclu
 
 If you do not want your personal identifying information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us at the email address listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.
 
-When you do provide us with personal identifying information, such information will be gathered solely by Streamate, and is for use solely by Streamate. At any point where personal identifying information is requested, any information that is optional to provide, rather than mandatory, will be clearly marked as such. We may use personal identifying information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; and we may use that information to contact you. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services.
+When you do provide us with personal identifying information, such information will be gathered solely by Streamate, and is for use solely by Streamate and trusted partners. At any point where personal identifying information is requested, any information that is optional to provide, rather than mandatory, will be clearly marked as such. We may use personal identifying information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; and we may use that information to contact you. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services.
 
 Streamate may utilize electronic newsletters to reach all or a subset of all registered users, using the email address collected. Users may remove themselves from such mailing lists at any time by following the instructions that shall be sent as part of any of such mailings.
 
@@ -51,9 +51,9 @@ Members areas of Streamate may contain content considered offensive to some, and
 
 #### Unsolicited Email Received by You
 
-Streamate does not send unsolicited email to non-public addresses or to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from Streamate, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to smsupport@streamatemodels.com.
+Streamate does not send unsolicited email to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from Streamate, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to smsupport@streamatemodels.com.
 
-Streamate also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Further, according to our published policy, if Streamate becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, Streamate reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the Streamate program, termination of Streamate services, and forfeiture of all commissions.
+Streamate also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Some trusted partners may email a member to present special offers to our members. Further, according to our published policy, if Streamate becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, Streamate reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the Streamate program, termination of Streamate services, and forfeiture of all commissions.
 
 #### Contact
 
