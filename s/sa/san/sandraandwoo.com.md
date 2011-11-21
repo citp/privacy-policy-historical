@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandraandwoo.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524053348id_/http%3A//www.sandraandwoo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandraandwoo.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121234544id_/http%3A//www.sandraandwoo.com/privacy-policy) for the most accurate reproduction.*
 
 # Sandra and Woo | Webcomic Online Comic Strip | » Privacy Policy
 
@@ -69,14 +69,23 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
   * http://www.sandraandwoo.com/
-  * Virchowstr. 32
-  * Ulm, Baden-Württemberg 89075
+  * Mayenner Str. 48
+  * Waiblingen, Baden-Württemberg 71332
   * Germany
   * novil@gmx.de
 
 
 
 Privacy Policy Created by [Free Privacy Policy](http://www.freeprivacypolicy.com/)
+
+## Opt out
+
+Opt out of from behavioral advertising:
+
+  * [Digital Advertising Alliance](http://www.aboutads.info/choices/ "Opt Out From Online Behavioral Advertising By Participating Companies \(BETA\)")
+  * [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp "Network Advertising Initiative")
+
+
 
 ## Six Apart Privacy Policy
 
