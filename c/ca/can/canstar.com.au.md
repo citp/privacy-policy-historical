@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canstar.com.au privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523174935id_/http%3A//www.canstar.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canstar.com.au privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121115836id_/http%3A//canstar.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CANSTAR CANNEX
 
@@ -74,8 +74,8 @@ Correction of information
 
 We try to ensure that all information we hold about you which we collect, use or disclose is accurate, complete and up to date. You must promptly notify us if there are any changes to your personal information. You may ask us at any time to correct personal information held by us about you, which you believe is incorrect or out of date. We will deal with your request within a reasonable time.
 
-In this policy, reference to "we/us" means CANSTAR CANNEX Pty Limited A.C.N. 053 646 165, AFSL 312804. If you have any questions, concerns or complaints about our privacy policy or practices please contact us on 07 3837 4100, 9am - 5pm on business days in Brisbane, Qld.
+In this policy, reference to "we/us" means CANSTAR Pty Limited A.C.N. 053 646 165, AFSL 312804. If you have any questions, concerns or complaints about our privacy policy or practices please contact us on 07 3837 4100, 9am - 5pm on business days in Brisbane, Qld.
 
 We will try to answer any questions you may have, correct any error on our part or resolve any complaint that you may have about our information handling practices. If we do not resolve a complaint to your satisfaction, you also have the right to complain to the Privacy Commissioner. 
 
-You acknowledge and accept that your use of the CANSTAR CANNEX website indicates your acceptance of the CANSTAR CANNEX website Terms of Use and Privacy Statement. 
+You acknowledge and accept that your use of the CANSTAR website indicates your acceptance of the CANSTAR website Terms of Use and Privacy Statement. 
