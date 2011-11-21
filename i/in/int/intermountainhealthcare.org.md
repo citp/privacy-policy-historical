@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intermountainhealthcare.org privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522182245id_/http%3A//intermountainhealthcare.org/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intermountainhealthcare.org privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121112002id_/http%3A//intermountainhealthcare.org/info/privacy) for the most accurate reproduction.*
 
 # Intermountain Healthcare Notice of Privacy Practices - Salt Lake City, Utah
 
@@ -10,7 +10,7 @@
 
 * * *
 
-##### NOTE: Effective Nov 2004; updated Jan 2011 
+##### NOTE: Effective Nov 2004; updated June 2011 
 
 This notice describes how medical information about you may be used and disclosed and how you can get access to this information. Please review it carefully. 
 
@@ -128,7 +128,19 @@ We will investigate all complaints and will not penalize or treat you any differ
 
 ## Privacy Practices on IntermountainHealthcare.org 
 
-**Public Information** – This site offers access to information on Intermountain services and facilities, affiliated physicians, and other health-related content to anyone who accepts the [Terms of Use](https://web.archive.org/info/terms). Intermountain Healthcare, through [intermountainhealthcare.org](https://web.archive.org/), makes this information publicly available without the need for the user to disclose any personally identifiable information. 
+**Public Information** – This online service (the “Service”)  offers access to information on Intermountain services and facilities, affiliated physicians, and other health-related content to anyone who accepts the [Terms of Use](https://web.archive.org/info/terms). Intermountain Healthcare, through [intermountainhealthcare.org](https://web.archive.org/), makes this information publicly available without the need for the user to disclose any personally identifiable information. 
+
+This online Service also offers you access to your personal clinical and insurance-related information. To access that information, you’ll need to register for those specific services by following the instructions in our [Terms of Use ](https://web.archive.org/info/terms)in the section called "Terms of Use for Personalized Information." 
+
+Intermountain Healthcare offers you this Service on these conditions: 
+
+  1. that you are 18 years of age or older; 
+  2. that you have the right and ability to agree to the [Terms of Use](https://web.archive.org/info/terms); 
+  3. that you agree to the [Terms of Use](https://web.archive.org/info/terms)
+
+
+
+This Service is intended for use by adults and, in some cases, teenagers over thirteen. Some areas of this Service may, however, be attractive to children, such as the “LIVE” site and SelectHealth’s STEP Express web pages. Consistent with the Children’s Online Privacy Protection Act of 1998, we will never knowingly request personal information from anyone less than 13 years of age without prior verifiable parental consent. If you become aware that your child who is less than 13 years of age has provided us with personal information without prior verifiable parental consent, please contact us at [webmaster@imail.org ](mailto:webmaster@imail.org)and we will use our best efforts to promptly remove such information from our files.
 
 **Proprietary Information** – In addition to the publicly available information, [intermountainhealthcare.org](https://web.archive.org/) also provides access to personal health-related information to those who provide the necessary information to make that possible. For example, in the "My Health" section on intermountainhealthcare.org, a user can view his or her personal online health records, provided that they have registered and logged in a user name and password. 
 
