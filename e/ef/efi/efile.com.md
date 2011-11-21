@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efile.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523181010id_/http%3A//www.efile.com/efile/efile-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efile.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121230823id_/http%3A//www.efile.com/efile/efile-privacy) for the most accurate reproduction.*
 
 # Tax Information Privacy, Tax Data Security, Tax Laws | efile
 
@@ -113,15 +113,15 @@ In addition, we may provide you with promotional messages. You will have the opt
 
 ## Third Party Services
 
-For the purpose of providing you with additional information or services, our web site  also provides links or references to our other web sites or to third party web sites of online information providers, advertisers, and other business partners. When offering partner services the partner who will be receiving your information will be clearly identified.
+For the purpose of providing you with additional information or services, our web site also provides links or references to our other web sites or to third party web sites of online information providers, advertisers, and other business partners. When offering partner services the partner who will be receiving your information will be clearly identified.
 
 We are not responsible for information gathered by third party web sites. You should review any third party sites' Privacy Policy for details regarding their policies concerning information they gather. Any time you are preparing to navigate to a site that is not covered by this Privacy Policy, we will indicate at the bottom of the page that you are leaving our site.
 
-When you select to have your tax refund transferred to your bank account, your refund will be processed on behalf of EFILE by U.S. Treasury.  You authorize us to disclose your relevant bank information to Republic Bank & Trust Company. Your indication within the program that you wish to either deduct your tax preparation fee from your refund or have your refund transferred to your bank account as your authorization.. When you select the option within our program for a bank product (e-collect or Deduct Free From Refund - DFFR), once your return has qualified for electronic filing we share your name, address, Social Security number, phone number and other tax related information necessary for Bancorp and EPS Financial Services to provide the requested service. Bancorp and EPS Financial Services uses the personally identifiable information for the purpose of providing your bank product. You may [view their Privacy Policy here](https://www.epsfinancial.net/site/CheckApplicationStatus.aspx).
+When you select to have your [tax refund](https://web.archive.org/tax-refund/tax-refund/) transferred to your bank account, your [refund](https://web.archive.org/tax-refund/where-is-my-refund/) will be processed on behalf of EFILE by U.S. Treasury.  You authorize us to disclose your relevant bank information to Republic Bank & Trust Company. Your indication within the program that you wish to either deduct your tax preparation fee from your [tax refund](https://web.archive.org/tax-refund/where-is-my-refund/) or have your refund transferred to your bank account as your authorization. When you select the option within our program for a bank product (e-collect or Deduct Fee From Refund - DFFR), once your return has qualified for electronic filing we share your name, address, Social Security number, phone number, and other tax related information necessary for Bancorp and EPS Financial Services to provide the requested service. Bancorp and EPS Financial Services uses the personally identifiable information for the purpose of providing your bank product. You may [view their Privacy Policy here](https://www.epsfinancial.net/site/CheckApplicationStatus.aspx).
 
 Through a third party partnership with Official Payments Corporation®, you may request to pay your balance due via credit or debit card. When you make this request, you authorize us to disclose your relevant credit card and tax return information to Official Payments Corporation. When you select the option within our program to pay your balance due via credit or debit card, and your return has qualified for electronic filing, we then share your name, address, Social Security number, phone number, and other tax related information necessary for Official Payments Corporation to provide the requested service. In addition, you will be asked to disclose your card information to Official Payments. Official Payments uses the personally identifiable information for the purpose of providing the payment of your tax via credit or debit card as requested. You may visit the site at www.officialpayments.com to view their Privacy Policy.
 
-Information entered into the Tax Calculators (through Time Value Software) is used solely to provide you with estimates of various tax situations. The information used in these calculations is not saved. You may visit the site at www.tvalue.com to view their Privacy Policy.
+Information entered into the [Tax Calculators](https://web.archive.org/tax-service/tax-calculator/) (through Time Value Software) is used solely to provide you with estimates of various tax situations. The information used in these calculations is not saved. You may visit the site at www.tvalue.com to view their Privacy Policy.
 
 top
 
@@ -146,3 +146,11 @@ Should you have other questions or concerns about this Privacy Policy, please su
 >  Web site: <http://www.efile.com/>
 
 top
+
+  
+
+
+> "Wow, this was so easy and not time consuming either."  
+>  Lisa in Portland
+
+> "Awesome! Another easy tax year!" Kay in Ohio
