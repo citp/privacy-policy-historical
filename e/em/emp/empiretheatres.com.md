@@ -1,24 +1,18 @@
-> *The following text is extracted and transformed from the empiretheatres.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629063745id_/http%3A//www.empiretheatres.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empiretheatres.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121012602id_/http%3A//www.empiretheatres.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Empire Theatres
 
 **PRIVACY POLICY  
 EMPIRE THEATRES LIMITED**
 
-Empire Theatres Limited (referred to in this Privacy Policy as the "Company") is  
-committed to protecting the privacy and confidentiality of your personal information.  
-You should familiarize yourself with this Policy, prior to using this website or  
-supplying personal information to the Company. When you provide us with personal  
-information, you are consenting to the collection, use and disclosure of the information listed below for the purposes set out in this Policy.
+Empire Theatres Limited (referred to in this Privacy Policy as the "Company") is committed to protecting the privacy and confidentiality of your personal information.  
+You should familiarize yourself with this Policy, prior to using this website or supplying personal information to the Company. When you provide us with personal information, you are consenting to the collection, use and disclosure of the information listed below for the purposes set out in this Policy.
 
-In this Policy, "personal information" means any information about an identifiable  
-individual, but does not include business contact information including the name, title, business address or business telephone number of an employee of any organization.
+In this Policy, "personal information" means any information about an identifiable individual, but does not include business contact information including the name, title, business address or business telephone number of an employee of any organization.
 
-The Company collects personal information about our customers, including without  
-limitation Empire Insider and/or Reel Babies members, including without limitation name, address, email address, telephone number, language preference, credit card information, and certain of our customers' preferences and opinions regarding our products and services. Such personal information is gathered as a result of customers' purchases of online tickets, gift cards and other purchases or dealings that customers may have with us.
+The Company collects personal information about our customers, including without limitation Empire Insider and/or Reel Babies members, including without limitation name, address, email address, telephone number, language preference, credit card information, and certain of our customers' preferences and opinions regarding our products and services. Such personal information is gathered as a result of customers' purchases of online tickets, gift cards and other purchases or dealings that customers may have with us.
 
-The Company may use and disclose personal information for the following  
-purposes:
+The Company may use and disclose personal information for the following purposes:
 
   *  To enable customers to make online purchases of tickets, bookings, gift cards or other offerings. Any credit card specific personal information collected in this process is used and disclosed only for processing transactions, unless customers are informed otherwise and provide consent;
 
@@ -91,8 +85,7 @@ Protecting children’s privacy is also important to us. We request that our web
 
 Our site may contain links to other sites, including sites of affiliated companies. We do not endorse or otherwise accept responsibility for the content or privacy policies of these sites. You should carefully review the privacy policies and other terms of use for such sites, and such sites may collect, use and disclose personal information in a very different manner from this site.
 
-The security of your personal information is important to us, and we use various  
-technical, contractual, administrative and physical security measures to protect personal information that you provide to us. We may retain your personal information as long as your relationship or transaction continues with us, and as long as reasonably necessary to address any issues and satisfy any potential legal obligations that we may have.
+The security of your personal information is important to us, and we use various technical, contractual, administrative and physical security measures to protect personal information that you provide to us. We may retain your personal information as long as your relationship or transaction continues with us, and as long as reasonably necessary to address any issues and satisfy any potential legal obligations that we may have.
 
 You should always be aware that e-mail and the internet are not secure media, and you should consider this when sending personal or confidential information to us.
 
