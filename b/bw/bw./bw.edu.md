@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bw.edu privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523174439id_/http%3A//www.bw.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bw.edu privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121113621id_/http%3A//www.bw.edu/privacy) for the most accurate reproduction.*
 
 # B-W: Privacy Policy
 
