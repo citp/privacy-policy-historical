@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibsgroup.org privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620153936id_/http%3A//www.ibsgroup.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibsgroup.org privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121203555id_/http%3A//www.ibsgroup.org/privacy) for the most accurate reproduction.*
 
 # The Irritable Bowel Syndrome Self Help and Support Group Respects Your Privacy | IBSgroup.org
 
@@ -20,7 +20,9 @@ P.O. Box 94074
 Toronto, Ontario M4N 3R1  
 CANADA 
 
-**Or Via E-mail:** [_ibs@ibsgroup.org_](mailto:ibs@ibsgroup.org)
+**Or Via E-mail:**
+
+[ _ibs@ibsgroup.org_](mailto:ibs@ibsgroup.org)
 
 **Types of Information We Collect**  
 Generally, you are free to browse the IBSGroup.org site without submitting any personal information. We do not collect any of your personal information (such as a name, address or e-mail address) when you visit the IBS Group site, unless you register or have registered to use one of our services, complete one of our evaluations, or otherwise agree to submit to us such information. As part of such processes, you have the opportunity to decline further promotional materials or other notifications from us regarding special offers and information from IBS Group. Types of information collected on specific services on the IBSGroup.org site are described in more detail below. 
@@ -33,7 +35,11 @@ When you register, you have the option of providing some additional information 
 **IF YOU ARE UNDER 13 YEARS OF AGE you are not allowed to participate in the IBS Group support forums or to provide any personal information on our site.**
 
 **Forums Newsletter Subscription**  
-IBS Group offers an option to subscribe to a periodic newsletter regarding our organization's activities, promotions, product announcements and news items. The only piece of information required is the user's e-mail address, which is only used to distribute the requested newsletter. You can "unsubscribe" to the newsletter at any time by e-mailing [_ibsbb@ibsgroup.org_](mailto:ibsbb@ibsgroup.org?subject=Newsletter%20Unsubscribe) with the subject line "Newsletter Unsubscribe." 
+IBS Group offers an option to subscribe to a periodic newsletter regarding our organization's activities, promotions, product announcements and news items. The only piece of information required is the user's e-mail address, which is only used to distribute the requested newsletter. You can "unsubscribe" to the newsletter at any time by e-mailing 
+
+[_ibsbb@ibsgroup.org_](mailto:ibsbb@ibsgroup.org?subject=Newsletter%20Unsubscribe)
+
+with the subject line "Newsletter Unsubscribe." 
 
 **Cookies**  
 IBS Group uses browser cookies to facilitate your experience with our bulletin board, services and sponsors. These cookies are small sections of code that our server sends to your browser which it can then store on your hard drive. If you choose to accept these cookies, they enable us, or our sponsors, to recognize that your browser has previously visited and used our site, bulletin board or services and, based on your browser's previous visits, assist us with tailoring the information and content, banners and promotions you view. These cookies also enable us to recognize when you access and use IBS Group's bulletin board. An example of the customization allowed by the use of such cookies is to retain your username and password as part of the bulletin board forums on our site so you don't have to re-enter them each time you visit. These cookies do not collect, store or maintain your private, personally identifiable information. You do not have to accept these cookies to visit or use the IBS Group site or our bulletin board and services, and you can choose to refuse our cookie, delete our cookie from your hard drive or turn off the IBS Group cookie at any time by updating your user profile preferences.
@@ -44,15 +50,7 @@ The IBS Group uses, in part, Google Adsense to deliver relevant advertising. Goo
 Any personal information you provide to us in the course of obtaining technical support, or asking other questions about IBS Group will be used only for the purposes for which it was submitted. We may store the information, but we will not use it for any other purposes or disclose it to any third parties. 
 
 **Use and Disclosure of Your Information**  
-IBS Group uses the personal information it collects from registration forms you fill out on our site to:   
- 
-
-  * Allow users to access and use our bulletin board and/or services;
-  * Supply users with installation instructions, download, access or use information, and technical support information;
-  * Provide users of our bulletin board and/or services on our site with information about special offers and promotions; and
-  * Improve our bulletin board and services by using statistical analysis and evaluation of user data.
-
-
+IBS Group uses the personal information it collects from registration forms you fill out on our site to: 
 
 We use the anonymous information we collect from the other methods described above, such as cookie information, to collect broad demographic information about user trends, count the number of users of our bulletin board and/or services, to provide advertising services and to continue to enhance and improve our bulletin board and services. 
 
@@ -61,11 +59,23 @@ We do not and will not disclose your private, personally identifiable informatio
 All reasonable care is taken by our staff in handling your personal information to ensure its security both offline and online. It is our policy to destroy server access and any personal information provided during the technical support process upon completion of the technical support incident. 
 
 **Changing or Updating Personal Information**  
-If you would like to update or change your user profile on our message boards, [_click here_](http://www.ibsgroup.org/forums/index.php?act=UserCP&CODE=00). 
+If you would like to update or change your user profile on our message boards, 
 
-To unsubscribe to our IBS Group Forums newsletter, please e-mail [_ibsbb@ibsgroup.org_](mailto:ibsbb@ibsgroup.org?subject=Newsletter%20Unsubscribe) with the subject line "Newsletter Unsubscribe". 
+[_click here_](http://www.ibsgroup.org/forums/index.php?act=UserCP&CODE=00)
 
-If you have questions regarding your information, you can contact us via our [_Contact_](http://www.ibsgroup.org/contact) page. 
+. 
+
+To unsubscribe to our IBS Group Forums newsletter, please e-mail 
+
+[_ibsbb@ibsgroup.org_](mailto:ibsbb@ibsgroup.org?subject=Newsletter%20Unsubscribe)
+
+with the subject line "Newsletter Unsubscribe". 
+
+If you have questions regarding your information, you can contact us via our 
+
+[_Contact_](http://www.ibsgroup.org/contact)
+
+page. 
 
 **Postings on Forums**  
 It is important for you to remain aware that when you provide personal information (e.g., last name, address, phone number) in a posting on any message board, that information is available to any other person or user having access and use of that message board, and may be used by someone in a manner unintended by you. For that reason, we discourage you from offering any personally identifying information within a posting to any message board.
