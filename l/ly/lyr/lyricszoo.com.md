@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricszoo.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524051513id_/http%3A//www.lyricszoo.com/i/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricszoo.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121231332id_/http%3A//www.lyricszoo.com/i/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Lyricszoo
 
@@ -28,53 +28,53 @@ Custom Search
 
 * * *
 
-  * ## Basic Features
+  * ### Basic Features
 
     * [Home](https://web.archive.org/)
     * [Artists/albums/songs missing?](https://web.archive.org/a/request-songs/)
     * [Contact](https://web.archive.org/i/contact/)
     * [Privacy Policy](https://web.archive.org/i/privacy-policy/)
-  * ## Artists A-Z
+  * ### All Artists A-Z
 
-    * [1](https://web.archive.org/artists/1/)
-    * [2](https://web.archive.org/artists/2/)
-    * [3](https://web.archive.org/artists/3/)
-    * [4](https://web.archive.org/artists/4/)
-    * [5](https://web.archive.org/artists/5/)
-    * [6](https://web.archive.org/artists/6/)
-    * [7](https://web.archive.org/artists/7/)
-    * [8](https://web.archive.org/artists/8/)
-    * [9](https://web.archive.org/artists/9/)
-    * [A](https://web.archive.org/artists/a/)
-    * [B](https://web.archive.org/artists/b/)
-    * [C](https://web.archive.org/artists/c/)
-    * [D](https://web.archive.org/artists/d/)
-    * [E](https://web.archive.org/artists/e/)
-    * [F](https://web.archive.org/artists/f/)
-    * [G](https://web.archive.org/artists/g/)
-    * [H](https://web.archive.org/artists/h/)
-    * [I](https://web.archive.org/artists/i/)
-    * [J](https://web.archive.org/artists/j/)
-    * [K](https://web.archive.org/artists/k/)
-    * [L](https://web.archive.org/artists/l/)
-    * [M](https://web.archive.org/artists/m/)
-    * [N](https://web.archive.org/artists/n/)
-    * [O](https://web.archive.org/artists/o/)
-    * [P](https://web.archive.org/artists/p/)
-    * [Q](https://web.archive.org/artists/q/)
-    * [R](https://web.archive.org/artists/r/)
-    * [S](https://web.archive.org/artists/s/)
-    * [T](https://web.archive.org/artists/t/)
-    * [U](https://web.archive.org/artists/u/)
-    * [V](https://web.archive.org/artists/v/)
-    * [W](https://web.archive.org/artists/w/)
-    * [X](https://web.archive.org/artists/x/)
-    * [Y](https://web.archive.org/artists/y/)
-    * [Z](https://web.archive.org/artists/z/)
-  * ## Elsewhere
+    * [1](https://web.archive.org/artists/1/ "Lyrics for Sara Bareilles")
+    * [2](https://web.archive.org/artists/2/ "Lyrics for Sara Bareilles")
+    * [3](https://web.archive.org/artists/3/ "Lyrics for Sara Bareilles")
+    * [4](https://web.archive.org/artists/4/ "Lyrics for Sara Bareilles")
+    * [5](https://web.archive.org/artists/5/ "Lyrics for Sara Bareilles")
+    * [6](https://web.archive.org/artists/6/ "Lyrics for Sara Bareilles")
+    * [7](https://web.archive.org/artists/7/ "Lyrics for Sara Bareilles")
+    * [8](https://web.archive.org/artists/8/ "Lyrics for Sara Bareilles")
+    * [9](https://web.archive.org/artists/9/ "Lyrics for Sara Bareilles")
+    * [A](https://web.archive.org/artists/a/ "Lyrics for Sara Bareilles")
+    * [B](https://web.archive.org/artists/b/ "Lyrics for Sara Bareilles")
+    * [C](https://web.archive.org/artists/c/ "Lyrics for Sara Bareilles")
+    * [D](https://web.archive.org/artists/d/ "Lyrics for Sara Bareilles")
+    * [E](https://web.archive.org/artists/e/ "Lyrics for Sara Bareilles")
+    * [F](https://web.archive.org/artists/f/ "Lyrics for Sara Bareilles")
+    * [G](https://web.archive.org/artists/g/ "Lyrics for Sara Bareilles")
+    * [H](https://web.archive.org/artists/h/ "Lyrics for Sara Bareilles")
+    * [I](https://web.archive.org/artists/i/ "Lyrics for Sara Bareilles")
+    * [J](https://web.archive.org/artists/j/ "Lyrics for Sara Bareilles")
+    * [K](https://web.archive.org/artists/k/ "Lyrics for Sara Bareilles")
+    * [L](https://web.archive.org/artists/l/ "Lyrics for Sara Bareilles")
+    * [M](https://web.archive.org/artists/m/ "Lyrics for Sara Bareilles")
+    * [N](https://web.archive.org/artists/n/ "Lyrics for Sara Bareilles")
+    * [O](https://web.archive.org/artists/o/ "Lyrics for Sara Bareilles")
+    * [P](https://web.archive.org/artists/p/ "Lyrics for Sara Bareilles")
+    * [Q](https://web.archive.org/artists/q/ "Lyrics for Sara Bareilles")
+    * [R](https://web.archive.org/artists/r/ "Lyrics for Sara Bareilles")
+    * [S](https://web.archive.org/artists/s/ "Lyrics for Sara Bareilles")
+    * [T](https://web.archive.org/artists/t/ "Lyrics for Sara Bareilles")
+    * [U](https://web.archive.org/artists/u/ "Lyrics for Sara Bareilles")
+    * [V](https://web.archive.org/artists/v/ "Lyrics for Sara Bareilles")
+    * [W](https://web.archive.org/artists/w/ "Lyrics for Sara Bareilles")
+    * [X](https://web.archive.org/artists/x/ "Lyrics for Sara Bareilles")
+    * [Y](https://web.archive.org/artists/y/ "Lyrics for Sara Bareilles")
+    * [Z](https://web.archive.org/artists/z/ "Lyrics for Sara Bareilles")
+  * ### Elsewhere
 
-    * [Twitter](http://twitter.com/lyricszoo)
-    * [Facebook](http://www.facebook.com/lyricszoo)
+    * [Twitter](http://twitter.com/lyricszoo "Lyricszoo on Twitter")
+    * [Facebook](http://www.facebook.com/lyricszoo "Lyricszoo on Facebook")
 
 
 
