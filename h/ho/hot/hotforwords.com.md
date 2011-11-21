@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotforwords.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523183347id_/http%3A//www.hotforwords.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotforwords.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121023944id_/http%3A//hotforwords.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ HotForWords, LLC is the sole owner of the information collected on the HotForWor
 
 ### **Mailing List**
 
-HotForWords, LLC offers a free subscription to the HotForWords website. When you sign up to the HotForWords website, you will be notified of new videos and posts to the website as well as notifications of replies to comments you make on the website.  In order to sign up to receive regular emails from any website, users must submit information including a valid email address.
+HotForWords, LLC offers a free subscription to the HotForWords website. When you sign up to the HotForWords website, you will be notified of new videos and posts to the website as well as notifications of replies to comments you make on the website.   In order to sign up to receive regular emails from any website, users must submit information including a valid email address.
 
 If you do not wish to receive emails from HotForWords, you can [unsubscribe at any time.](http://www.hotforwords.com/subscribe/ "Subscription")
 
@@ -18,7 +18,7 @@ Some of our advertisers and commenting systems may use cookies on our site, such
 
 ### **Third Party Advertising**
 
-We use third-party advertising companies to serve ads when you visit the HotForWords website. These companies may use information (which DOES NOT include your name or email address) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+We use third-party advertising companies to serve ads when you visit the HotForWords website. These companies may use information (which DOES NOT include your name or email address) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,  [click here](http://www.google.com/privacy_ads.html).
 
 ### **Log Files**
 
