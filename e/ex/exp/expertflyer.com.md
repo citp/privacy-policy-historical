@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the expertflyer.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523183344id_/http%3A//www.expertflyer.com/popup/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertflyer.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121234301id_/http%3A//www.expertflyer.com/popup/privacy.jsp) for the most accurate reproduction.*
 
 # ExpertFlyer.com
 
-**ExpertFlyer.com® Privacy Policy**
+**ExpertFlyer.com ® Privacy Policy**
 
 We at Expert Travel Services, LLC. ("we" or "ExpertFlyer.com") have created this privacy policy to demonstrate our firm commitment to protecting your personal information and informing you about how we handle it. This privacy policy only applies to transactions and activities in which you engage, and data gathered, on the ExpertFlyer.com Website, but does not apply to any other Website or offline point of contact between ExpertFlyer.com, or any other company, and consumers. Please review this privacy policy periodically as we may modify it from time to time, and is subject to change without notice. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time. 
 
@@ -16,7 +16,7 @@ Like most Websites, the Site uses cookies to keep track of your purchases and ot
 
 **Information We Collect From You**
 
-In order to operate the Site and to provide you with information about products or services that may be of interest to you, we may collect "personal information" (i.e. information that could be used to contact you directly (without using the Site) such as full name, postal address, phone number or email address), "financial information" (i.e. credit card numbers or passwords) or "demographic information" (i.e. information that you submit, or that we collect, that is neither personal information nor financial information; this may include, but is not limited to, zip code, postal code, hometown, username, purchase history information, browsing history information, searching history information, and registration history information), subject to the rest of this paragraph. Demographic information is divided into two categories: 1) "non-public information", which consists of purchase history information and one-on-one communications between you and other users of the Site; and 2) "public information", which consists of all other demographic information. 
+In order to operate the Site and to provide you with information about products or services that may be of interest to you, we may collect "personal information" (i.e. information that could be used to contact you directly (without using the Site) such as full name, postal address, phone number or email address), "financial information" (i.e. credit card numbers or passwords) or "demographic information" (i.e. information that you submit, or that we collect, that is neither personal information nor financial information; this may include, but is not limited to, zip code, postal code, hometown, purchase history information, browsing history information, searching history information, and registration history information), subject to the rest of this paragraph. Demographic information is divided into two categories: 1) "non-public information", which consists of purchase history information and one-on-one communications between you and other users of the Site; and 2) "public information", which consists of all other demographic information. 
 
 **Information Other Websites Collect From You**
 
@@ -58,4 +58,4 @@ If at any point we decide to use particular personally identifiable information 
 
 If you have any questions or concerns about this privacy policy, the practices of the Site, or your dealings with the Site, you can contact us at . You can also send us mail to: Privacy Officer, ExpertFlyer.com, 414 West Sunrise Hwy, #311, Patchogue, NY 11772.
 
-ExpertFlyer®, ExpertFlyer.com®, Empowering the Frequent Flyer® and the ExpertFlyer.com logo are registered trademarks of Expert Travel Services, LLC.
+ExpertFlyer®, ExpertFlyer.com®, Empowering the Frequent Flyer®, Seat Alerts® and the ExpertFlyer.com logo are registered trademarks of Expert Travel Services, LLC.
