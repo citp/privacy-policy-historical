@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the computerworld.com.au privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607164726id_/http%3A//www.computerworld.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computerworld.com.au privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121234236id_/http%3A//www.computerworld.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Computerworld
-
-**Privacy Statement for IDG Communications Pty Ltd**
+# Privacy - Computerworld
 
 This website is owned and operated by IDG Communications Pty Ltd. (“IDG Australia”).
 
