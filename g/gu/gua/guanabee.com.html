@@ -1,13 +1,17 @@
-<!--The following is the downloaded HTML source of the guanabee.com privacy policy that was archived on 2011-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110523183259id_/http%3A//guanabee.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the guanabee.com privacy policy that was archived on 2011-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111121234002id_/http%3A//guanabee.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+	
 	<title> | Privacy Policy</title>
 	
 	<meta name="description" content="Guanabee.com – daily intelligence for Latinos – reports on Hispanic culture, Latino news, celebrity pictures and video, Hispanic media, Latino politics and US immigration.">
 	<meta name="keywords" content="Hispanic News, Latino Culture, Celebrities, Celebrity Photos, Celebrity Video, Latin America News, Spain News, US Immigration, Latino Politics, Hispanic Women, Latino Hispanic, White Hispanic, Latina, Mexico News">
     <meta name="author" content="Guanabee">
+
+	
 	<meta name="google-site-verification" content="0h6aCCflhcoiwuT2P2Ry3IalR5tLcNbGYZ2F_lJjnnQ">
 	<link rel="shortcut icon" href="http://guanabee.com/media/img/guanabee/guanabee.ico">
 	
@@ -87,7 +91,7 @@
 	
 	
 	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-	<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+	
 
 	
 	<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
@@ -143,6 +147,20 @@ function hideCompanionBanners(banners) {
 </head>
 
 <body class="branding_1 ">
+ 
+ 
+    <div id="fb-root"></div>
+      <script src="http://connect.facebook.net/en_US/all.js"></script> 
+      <script>
+         FB.init({ 
+            appId:'139351543701', cookie:true, 
+            status:true, xfbml:true 
+         });
+      </script>      
+      
+      
+
+
 	
 <div class="wrapper">
 <div class="activeHeader">
@@ -153,8 +171,6 @@ function hideCompanionBanners(banners) {
 				GA_googleFillSlot("Guanabee_ROS_728x90");
 				GA_googleFillSlot("Guanabee_ROS_995x400");
 			</script>
-		
-
 		
 
 		
@@ -234,7 +250,19 @@ function hideCompanionBanners(banners) {
         <li><a class="mnuReelteve-Interviews" href="http://reelteve.guanabee.com/entries/category/interviews/page/1/">Interviews</a></li>
         <li><a class="mnuReelteve-Horror" href="http://reelteve.guanabee.com/entries/category/horror/page/1/">Horror</a></li>
     </ul>
+    <div class="articleSubmission">
+	<form action="/user_article_upload/" method="post">
+		<p><span>Share a link</span> <input type="text" name="UserSubmitText" size="40"> <input type="submit" name="UserSubmitButton"></p>
+	</form>
+	<a class="arrowLink" href="/user_article_upload/">LEARN MORE</a>
 	
+
+</div>
+<script type="text/javascript">
+	$('.articleSubmission input:text').click(function() {
+    $('.articleSubmission span').hide();
+});
+</script>
 </div>
 <script type="text/javascript">
 	main_menu = "mnuHome";
@@ -310,7 +338,32 @@ function hideCompanionBanners(banners) {
 		<p class="small">Have you seen, heard or read something interesting lately?</p>
 		<a title="Increase your Karma. Send us your tips." href="/tips/" class="linkButton linkButtonTip">Tip your editors</a>
 	</div>
-	
+	<div class="subColPod interestingSubColPod">
+	<h2>Interesting Links</h2>
+	<div class="subColPodContent">
+		<!-- MGID News Widget Start -->
+		<div id="MarketGid3245">
+			<a href="http://mgid.com/" target="_blank">Loading...</a>
+		</div>
+		<!-- MGID News Widget End -->
+	</div>
+    </div>
+    
+    <div class="subColPod buzzfeedSubColPod">
+	<h2>Viral</h2>
+	<div class="subColPodContent">
+	<div class="bf-widget" style="width:300px" id="BF_WIDGET_1"><script type="text/javascript" src="http://ct.buzzfeed.com/wd/UserWidget?u=guanabee&amp;amp;site=guanabee.com&amp;amp;tr=1&amp;amp;or=v&amp;amp;wid=1&amp;amp;cb=1580352133650"></script></div>
+	<script type="text/javascript">
+	BF_BUZZ_COUNTS = {'1': 3};
+	(function( ){
+		BF_WIDGET_JS=document.createElement('script'); BF_WIDGET_JS.type="text/javascript";
+		BF_WIDGET_SRC="http://ct.buzzfeed.com/wd/UserWidget?u=guanabee&amp;site=guanabee.com&amp;tr=1&amp;or=v&amp;wid=1&amp;cb=" + (new Date()).getTime();
+		setTimeout(function() {document.getElementById('BF_WIDGET_1').appendChild(BF_WIDGET_JS);BF_WIDGET_JS.src=BF_WIDGET_SRC},1);
+	})();
+	</script>
+	<!-- / BuzzFeed code ends -->
+	</div>
+	</div>
 	
 	
 	</div>
@@ -359,12 +412,13 @@ For each visitor to our Web page, our Web server automatically recognizes no inf
 <div class="subCol">
 
 	<div class="subColPod searchSubColPod">
-	<form action="http://guanabee.com/search/">
+	<form action="http://guanabee.com/search/" method="get">
 		<input type="text" name="q">
 		<input type="image" src="http://guanabee.com/media/css/guanabee/assets/search_btn.png">
-    	<input type="hidden" name="cx" value="partner-pub-3301334873427570:zdgs2k-sulm">
-	    <input type="hidden" name="cof" value="FORID:10">
-	    <input type="hidden" name="ie" value="UTF-8">
+<!--     	<input type="hidden" name="cx" value="partner-pub-3301334873427570:zdgs2k-sulm" />
+	    <input type="hidden" name="cof" value="FORID:10" />
+	    <input type="hidden" name="ie" value="UTF-8" /></li>
+--> 
 	</form>
 </div>
 <div class="subColPod adSubColPod">
@@ -390,6 +444,13 @@ For each visitor to our Web page, our Web server automatically recognizes no inf
     <a href="http://reelteve.guanabee.com" class="linkSubColExtra">Click for more videos</a>
     
     
+
+
+
+
+
+
+
     
 </div>
 
@@ -423,49 +484,49 @@ For each visitor to our Web page, our Web server automatically recognizes no inf
 		
 			
 				<li>
-					<span class="imgContainer"><a href="/gallery/photos-mildred-baena-arnold-schwarzeneggers-baby-m/mildred-baena-02/" title="Photos: Mildred Baena, Arnold Schwarzenegger's Baby Mama"><img src="http://guanabee.com/media/gallery/photos/Milded Baena/cache/Mildred_Baena_schwarzenegger_gallery_medium_thumb.jpg" width="124" height="91" alt="Mildred Baena 02"></a></span>
+					<span class="imgContainer"><a href="/gallery/selena-gomez-amas-pictures-photos/selena-gomez-amas-pictures-photos-01/" title="Pictures Of Selena Gomez &amp; Justin Bieber At AMAs"><img src="http://guanabee.com/media/gallery/photos/justin bieber selena gomez amas/cache/111120A1_GOMEZ_S_B-GR_03_gallery_medium_thumb.jpg" width="124" height="91" alt="selena gomez amas pictures photos 01"></a></span>
 				</li>
 			
 		
 			
 				<li>
-					<span class="imgContainer"><a href="/gallery/jessica-alba-bikini-photos/ja-01/" title="Jessica Alba Pregnant Bikini Photos From Mexico"><img src="http://guanabee.com/media/gallery/photos/Jessica Alba/cache/Jessica_Alba_pregnant_bikini_gallery_medium_thumb.jpg" width="124" height="91" alt="JA 01"></a></span>
+					<span class="imgContainer"><a href="/gallery/non-human-peruvian-alien-mummy-pictures/non-human-peruvian-alien-mummy-pictures-01/" title="Pictures Of Peruvian &quot;Non-Human&quot; Mummy"><img src="http://guanabee.com/media/gallery/photos/non human peruvian mummy/cache/asdf (2)_gallery_medium_thumb.jpg" width="124" height="91" alt="non human peruvian alien mummy pictures 01"></a></span>
 				</li>
 			
 		
 			
 				<li>
-					<span class="imgContainer"><a href="/gallery/william-levy-elizabeth-guitierrez/william-levy-elizabeth-guitierrez-01/" title="Pictures Of William Levy &amp; Elizabeth Guitierrez"><img src="http://guanabee.com/media/gallery/photos/william levy elizabeth guitierrez/cache/0_gallery_medium_thumb.jpg" width="124" height="91" alt="William Levy Elizabeth Guitierrez 01"></a></span>
+					<span class="imgContainer"><a href="/gallery/angelica-marie-cecora-pictures-fotos/angelica-marie-cecora-pictures-fotos-01/" title="Pictures Of Angelica Marie Cecora"><img src="http://guanabee.com/media/gallery/photos/angelica marie cecora pictures fotos/cache/11.1n008.delahoya1.C.TA--300x300_gallery_medium_thumb.jpg" width="124" height="91" alt="angelica-marie-cecora-pictures-fotos 01"></a></span>
 				</li>
 			
 		
 			
 				<li>
-					<span class="imgContainer"><a href="/gallery/salma-hayek-antonio-banderas-puss-boots/salma-hayek-antonio-banderas-01/" title="Salma Hayek &amp; Antonio Banderas Promote &quot;Puss In Boots&quot;"><img src="http://guanabee.com/media/gallery/photos/salma hayek  antonio banderas cannes puss boots pictures/cache/Salma+Hayek+Antonio+Banderas+hit+Cannes+Puss+HGze4LNEcSZl_gallery_medium_thumb.jpg" width="124" height="91" alt="Salma Hayek Antonio Banderas  01"></a></span>
+					<span class="imgContainer"><a href="/gallery/casper-smart-jlo-jennifer-lopez-pictures/casper-smart-jlo-jennifer-lopez-pictures-01/" title="Pictures Of Casper Smart, Jennifer Lopez's Supposed New Fling"><img src="http://guanabee.com/media/gallery/photos/carsper smart jlo pictures fotos/cache/1301641596a06432549ce727004845de63848cc924_gallery_medium_thumb.jpg" width="124" height="91" alt="casper smart jlo jennifer lopez pictures 01"></a></span>
 				</li>
 			
 		
 			
 				<li>
-					<span class="imgContainer"><a href="/gallery/4-26-2011/antonio-banderas/" title="Antonio Banderas &amp; Melanie Griffith Greet Spanish Royal Family "><img src="http://guanabee.com/media/gallery/photos/cache/spanish gala dinner for qatar_gallery_medium_thumb.jpg" width="124" height="91" alt="Antonio Banderas"></a></span>
+					<span class="imgContainer"><a href="/gallery/moda-2011-fotos/ladies-fashion-of-the-2011-latin-grammys-01/" title="Ladies Fashion Of The 2011 Latin Grammys "><img src="http://guanabee.com/media/gallery/photos/Latin Grammy Fashion/cache/Adrienne Bailon side_gallery_medium_thumb.jpg" width="124" height="91" alt="Ladies Fashion Of The 2011 Latin Grammys  01"></a></span>
 				</li>
 			
 		
 			
 				<li>
-					<span class="imgContainer"><a href="/gallery/unusual-easter-eggs/unusual-easter-eggs-05/" title="Unusual Easter Eggs"><img src="http://guanabee.com/media/gallery/photos/Best Easter Eggs/cache/creative-eggs16_gallery_medium_thumb.jpg" width="124" height="91" alt="Unusual Easter Eggs "></a></span>
+					<span class="imgContainer"><a href="/gallery/justin-bieber-selena-gomez-london/justin-bieber-pretends-selena-gomez-isnt-mad-in-london-01/" title="Justin Bieber And Selena Gomez Pretend All Is Well (Gallery)"><img src="http://guanabee.com/media/gallery/photos/Selena Biebs/cache/justin selena 08nov11 01_gallery_medium_thumb.jpg" width="124" height="91" alt="Justin Bieber Pretends Selena Gomez Isn't Mad In London 01"></a></span>
 				</li>
 			
 		
 			
 				<li>
-					<span class="imgContainer"><a href="/gallery/peoples-most-beautiful-2011/peoples-most-beautiful-2011-01/" title="People's Most Beautiful 2011"><img src="http://guanabee.com/media/gallery/photos/Most Beautiful 2011/cache/01 jennifer-lopez-435_gallery_medium_thumb.jpg" width="124" height="91" alt="People's Most Beautiful 2011 01"></a></span>
+					<span class="imgContainer"><a href="/gallery/christina-aguilera-elder-scrolls-v-launch-party/christina-aguilera-the-elder-scrolls-v-skyrim-launch-01/" title="Christina Aguilera The Elder Scrolls V Skyrim Launch Party"><img src="http://guanabee.com/media/gallery/photos/Christina Aguilera Vegas/cache/spl333362_001_gallery_medium_thumb.jpg" width="124" height="91" alt="Christina Aguilera The Elder Scrolls V Skyrim Launch 01"></a></span>
 				</li>
 			
 		
 			
 				<li>
-					<span class="imgContainer"><a href="/gallery/gisele-tom-brady-mansion/gisele-tom-brady-mansion-01/" title="Gisele Tom Brady Mansion"><img src="http://guanabee.com/media/gallery/photos/Gisele House/cache/article-1373651-0B7C216600000578-85_634x421_gallery_medium_thumb.jpg" width="124" height="91" alt="Gisele Tom Brady Mansion 01"></a></span>
+					<span class="imgContainer"><a href="/gallery/somaya-reece-vh1-love-hip-hop-pictures/somaya-reece-vh1-love-hip-hop-pictures-01/" title="Pictures of Somaya Reece, Salvadoran Rapper From Vh1's Love And Hip Hop"><img src="http://guanabee.com/media/gallery/photos/somayareecesalvadorenlatinarapperfromvh1sloveandh/cache/photo 1-1_gallery_medium_thumb.JPG" width="124" height="91" alt="somaya reece vh1 love hip hop pictures 01"></a></span>
 				</li>
 			
 		
@@ -516,37 +577,37 @@ GA_googleFillSlot("Guanabee_ROS_300x250_2");
 
 	
 	<li>
-		<a href="http://reelteve.guanabee.com/2011/05/pirates-caribbean-stranger-tides-opening-friday-may-20-2011/" title="View: Judging Movies By The Poster: Pirates Of The Caribbean: On Stranger Tides Edition">
-			<span class="subColListTitle">Judging Movies By The Poster: Pirates Of The Caribbean: On Stranger Tides Edition</span>
-			<span class="imgContainer"><img alt="Judging Movies By The Poster: Pirates Of The Caribbean: On Stranger Tides Edition" src="http://guanabee.com/media/cache/uploads/entries/Pirates_4_thumb_entry_thumbnail_image.jpg" width="72" height="54"></span>
+		<a href="/2011/11/jennifer-lopez-amas-performace-video/" title="View: Watch Jennifer Lopez's AMAs Performace [Video]">
+			<span class="subColListTitle">Watch Jennifer Lopez's AMAs Performace [Video]</span>
+			<span class="imgContainer"><img alt="Watch Jennifer Lopez's AMAs Performace [Video]" src="http://guanabee.com/media/cache/uploads/entries/jennifer_lopez_american_music_awards_video_entry_thumbnail_image.png" width="72" height="54"></span>
 		</a>
 	</li>
 	
 	<li>
-		<a href="/2011/05/your-morning-squeeze-wendy-sulca-covers-virgin/" title="View: Your Morning Squeeze: Wendy Sulca Covers &quot;Like A Virgin&quot;">
-			<span class="subColListTitle">Your Morning Squeeze: Wendy Sulca Covers "Like A Virgin"</span>
-			<span class="imgContainer"><img alt="Your Morning Squeeze: Wendy Sulca Covers &quot;Like A Virgin&quot;" src="http://guanabee.com/media/cache/uploads/entries/wendy_sulca_like_a_virgin_entry_thumbnail_image.png" width="72" height="54"></span>
+		<a href="/2011/11/peruvian-non-human-alien-mummy-video/" title="View: More Details About The Peruvian &quot;Non-Human&quot; Mummy Emerge [Video]">
+			<span class="subColListTitle">More Details About The Peruvian "Non-Human" Mummy Emerge [Video]</span>
+			<span class="imgContainer"><img alt="More Details About The Peruvian &quot;Non-Human&quot; Mummy Emerge [Video]" src="http://guanabee.com/media/cache/uploads/entries/non_human_mummy_video_details_entry_thumbnail_image.png" width="72" height="54"></span>
 		</a>
 	</li>
 	
 	<li>
-		<a href="http://anyguey.guanabee.com/2011/05/oscar-de-la-hoya-checks-rehab-retweets-tequila-pictures/" title="View: Oscar De La Hoya Checks Into Rehab, Retweets Tequila Pictures">
-			<span class="subColListTitle">Oscar De La Hoya Checks Into Rehab, Retweets Tequila Pictures</span>
-			<span class="imgContainer"><img alt="Oscar De La Hoya Checks Into Rehab, Retweets Tequila Pictures" src="http://guanabee.com/media/cache/uploads/entries/delahoyastool_entry_thumbnail_image.jpg" width="72" height="54"></span>
+		<a href="/2011/11/i-love-jenni-season-two/" title="View: Long Beach's Hardest Chola Is Back">
+			<span class="subColListTitle">Long Beach's Hardest Chola Is Back</span>
+			<span class="imgContainer"><img alt="Long Beach's Hardest Chola Is Back" src="http://guanabee.com/media/cache/uploads/entries/jenni_rivera_i_love_jenni_season_two_entry_thumbnail_image.png" width="72" height="54"></span>
 		</a>
 	</li>
 	
 	<li>
-		<a href="/2011/05/daiana-talks-about-kalimbas-latest-scandal-video/" title="View: Daiana Talks About Kalimba's Latest Scandal [Video]">
-			<span class="subColListTitle">Daiana Talks About Kalimba's Latest Scandal [Video]</span>
-			<span class="imgContainer"><img alt="Daiana Talks About Kalimba's Latest Scandal [Video]" src="http://guanabee.com/media/cache/uploads/entries/daiana-guzman-kalimba-twitter_entry_thumbnail_image.jpg" width="72" height="54"></span>
+		<a href="/2011/11/chapo-guzmans-ex-cellmates-hes-well-read-peasant/" title="View: Chapo Guzman's Ex-Cellmates: &quot;He's Like A Well-Read Peasant&quot;">
+			<span class="subColListTitle">Chapo Guzman's Ex-Cellmates: "He's Like A Well-Read Peasant"</span>
+			<span class="imgContainer"><img alt="Chapo Guzman's Ex-Cellmates: &quot;He's Like A Well-Read Peasant&quot;" src="http://guanabee.com/media/cache/uploads/entries/el-chapo-450x315_entry_thumbnail_image.jpg" width="72" height="54"></span>
 		</a>
 	</li>
 	
 	<li>
-		<a href="http://barbara.guanabee.com/2011/05/justin-bieber-kisses-selena-gomez-billboard-pictures/" title="View: Justin Bieber Kisses Selena Gomez At Billboard Awards">
-			<span class="subColListTitle">Justin Bieber Kisses Selena Gomez At Billboard Awards</span>
-			<span class="imgContainer"><img alt="Justin Bieber Kisses Selena Gomez At Billboard Awards" src="http://guanabee.com/media/cache/uploads/entries/justin_bieber_selena_gomez_kiss_billboards_picture_entry_thumbnail_image.jpg" width="72" height="54"></span>
+		<a href="/2011/11/selena-gomez-justin-bieber-amas-pictures/" title="View: Pictures Of Selena Gomez &amp; Justin Bieber At AMAs">
+			<span class="subColListTitle">Pictures Of Selena Gomez &amp; Justin Bieber At AMAs</span>
+			<span class="imgContainer"><img alt="Pictures Of Selena Gomez &amp; Justin Bieber At AMAs" src="http://guanabee.com/media/cache/uploads/entries/Pictures_Of_Selena_Gomez_Justin_Bieber_At_AMAs_2_entry_thumbnail_image.jpg" width="72" height="54"></span>
 		</a>
 	</li>
 	
@@ -556,68 +617,43 @@ GA_googleFillSlot("Guanabee_ROS_300x250_2");
 
 </ul>
 </div>
-<div class="subColPod buzzfeedSubColPod">
-	<div class="subColPodContent">
-	<!-- BF -->
-	<script type="text/javascript">
-	// Custom background image
-	
-		BF_BB_BACKGROUND = 'http://guanabee.com/media/img/guanabee/buzzbox-guanabee-new.png';
-	
-	
-	
-	
-	
-
-	BF_BB_DATA = null;
-	(function( ){
-	    document.write('<div id="BF_BUZZBOX" style="height:180px;width:300px;"> </div>');
-	    var sid="74K4E7"; var c=""; var b="";
-		BF_BB_SCRIPT=document.createElement('script'); BF_BB_SCRIPT.type="text/javascript";
-		BF_BB_SRC="http://buzzbox.buzzfeed.com/wd/BuzzBox?sid=" + sid + c + b + '&wide=1&cb=' + (new Date()).getTime();					
-		setTimeout(function() { document.getElementById('BF_BUZZBOX').appendChild(BF_BB_SCRIPT); BF_BB_SCRIPT.src=BF_BB_SRC; },1);
-	})();
-	</script><div id="BF_BUZZBOX" style="height:180px;width:300px;"> <script type="text/javascript" src="http://buzzbox.buzzfeed.com/wd/BuzzBox?sid=74K4E7&amp;wide=1&amp;cb=1580352133528"></script></div>
-	<!-- BF -->
-	</div>
-</div>
 <div class="subColPod networkSubColPod">
 	<h2>Buzzing on the Network</h2>
 	<a href="/partners/" class="linkSubColExtra">Interested in Partnering?</a>
 	<ul class="subColList">
 	
 	<li>
-		<a target="_blank" href="http://www.latingossip.com/paulina-rubio/paulina-rubio-promotes-tequila-in-mexico.html" title="View: Paulina Rubio Launches Tequila">
-			<span class="subColListTitle">Paulina Rubio Launches Tequila</span>
-			<span class="imgContainer"><img alt="Paulina Rubio Launches Tequila" src="http://guanabee.com/media/cache/uploads/entries/paulina_rubo_tequila_h_entry_thumbnail_image.jpg" width="72" height="54"></span>
+		<a target="_blank" href="http://latino.foxnews.com/latino/entertainment/2011/11/18/salma-hayeks-disgusting-beauty-secret/" title="View: Salma Hayek's Disgusting Beauty Secret">
+			<span class="subColListTitle">Salma Hayek's Disgusting Beauty Secret</span>
+			<span class="imgContainer"><img alt="Salma Hayek's Disgusting Beauty Secret" src="http://guanabee.com/media/cache/uploads/entries/salma_hayeks_beauty_secret_entry_thumbnail_image.jpg" width="72" height="54"></span>
 		</a>
 	</li>
 	
 	<li>
-		<a target="_blank" href="http://www.batanga.com/es/videos/maria-jose-la-ocasion-para-amarnos-video" title="View: Watch Maria Jose's New Video &quot;La Ocasion Para Amarnos&quot;">
-			<span class="subColListTitle">Watch Maria Jose's New Video "La Ocasion Para Amarnos"</span>
-			<span class="imgContainer"><img alt="Watch Maria Jose's New Video &quot;La Ocasion Para Amarnos&quot;" src="http://guanabee.com/media/cache/uploads/entries/maria_jose_2_entry_thumbnail_image.JPG" width="72" height="54"></span>
+		<a target="_blank" href="http://www.latingossip.com/jennifer-lopez/jennifer-lopez-dodges-dating-dancer-question.html" title="View: Jennifer Lopez Dodges Dating Dancer Question">
+			<span class="subColListTitle">Jennifer Lopez Dodges Dating Dancer Question</span>
+			<span class="imgContainer"><img alt="Jennifer Lopez Dodges Dating Dancer Question" src="http://guanabee.com/media/cache/uploads/entries/jennifer_lopez_casper_smart_entry_thumbnail_image.jpg" width="72" height="54"></span>
 		</a>
 	</li>
 	
 	<li>
-		<a target="_blank" href="http://www.latingossip.com/rip/daniel-sanchez-of-operacion-triunfo-was-killed.html" title="View: Daniel Sanchez Piloto Of Operation Triunfo Was Killed">
-			<span class="subColListTitle">Daniel Sanchez Piloto Of Operation Triunfo Was Killed</span>
-			<span class="imgContainer"><img alt="Daniel Sanchez Piloto Of Operation Triunfo Was Killed" src="http://guanabee.com/media/cache/uploads/entries/daniel_sanchez_killed_entry_thumbnail_image.jpg" width="72" height="54"></span>
+		<a target="_blank" href="http://www.latingossip.com/diego-luna/diego-luna-in-katy-perrys-new-music-video.html" title="View: Watch Katy Perry's Video &quot;The One That Got Away&quot; Feat. Diego Luna">
+			<span class="subColListTitle">Watch Katy Perry's Video "The One That Got Away" Feat. Diego Luna</span>
+			<span class="imgContainer"><img alt="Watch Katy Perry's Video &quot;The One That Got Away&quot; Feat. Diego Luna" src="http://guanabee.com/media/cache/uploads/entries/diego_luna_katty_perry_video_2_entry_thumbnail_image.png" width="72" height="54"></span>
 		</a>
 	</li>
 	
 	<li>
-		<a target="_blank" href="http://www.latingossip.com/jorge-ramos/chiquinquira-delgado-jorge-ramos-a-couple.html" title="View: Chiquinquira Delgado &amp; Jorge Ramos May Be Doing It">
-			<span class="subColListTitle">Chiquinquira Delgado &amp; Jorge Ramos May Be Doing It</span>
-			<span class="imgContainer"><img alt="Chiquinquira Delgado &amp; Jorge Ramos May Be Doing It" src="http://guanabee.com/media/cache/uploads/entries/chiquinquirajorge_entry_thumbnail_image.jpg" width="72" height="54"></span>
+		<a target="_blank" href="http://latino.foxnews.com/latino/entertainment/2011/11/14/zoe-saldana-does-hollywood-style-awards-splits-from-fiance-keith-britton/#ixzz1diCYbiKA" title="View: Zoe Saldana Splits From Husband, Does Hollywood Style Awards">
+			<span class="subColListTitle">Zoe Saldana Splits From Husband, Does Hollywood Style Awards</span>
+			<span class="imgContainer"><img alt="Zoe Saldana Splits From Husband, Does Hollywood Style Awards" src="http://guanabee.com/media/cache/uploads/entries/Zoe_Saldana_Splits_from_Fiance_entry_thumbnail_image.JPG" width="72" height="54"></span>
 		</a>
 	</li>
 	
 	<li>
-		<a target="_blank" href="http://www.latingossip.com/awards-shows/premios-juventud-2011-nominees.html" title="View: Premios Juventud 2011 Nominees Are *Drumroll*">
-			<span class="subColListTitle">Premios Juventud 2011 Nominees Are *Drumroll*</span>
-			<span class="imgContainer"><img alt="Premios Juventud 2011 Nominees Are *Drumroll*" src="http://guanabee.com/media/cache/uploads/entries/pj_entry_thumbnail_image.jpg" width="72" height="54"></span>
+		<a target="_blank" href="http://www.latingossip.com/shakira/shakira-person-of-year-and-star-in-hollywood.html" title="View: Shakira Person of Year and Star in Hollywood">
+			<span class="subColListTitle">Shakira Person of Year and Star in Hollywood</span>
+			<span class="imgContainer"><img alt="Shakira Person of Year and Star in Hollywood" src="http://guanabee.com/media/cache/uploads/entries/shakira-estrella-1-z_entry_thumbnail_image.jpg" width="72" height="54"></span>
 		</a>
 	</li>
 	
@@ -684,51 +720,52 @@ GA_googleFillSlot("Guanabee_ROS_300x250_2");
 		<div>
 			<ul>
 			
-				<li><a title="View Guanabee articles tagged gossip" href="http://guanabee.com/tag/gossip/page/1/">Gossip</a></li>
+				<li><a title="View Guanabee articles tagged gossip" href="http://guanabee.com/tag/gossip/page/1/">gossip</a></li>
 			
-				<li><a title="View Guanabee articles tagged media" href="http://guanabee.com/tag/media/page/1/">Media</a></li>
+				<li><a title="View Guanabee articles tagged music" href="http://guanabee.com/tag/music/page/1/">music</a></li>
 			
-				<li><a title="View Guanabee articles tagged music" href="http://guanabee.com/tag/music/page/1/">Music</a></li>
+				<li><a title="View Guanabee articles tagged soccer" href="http://guanabee.com/tag/soccer/page/1/">soccer</a></li>
 			
-				<li><a title="View Guanabee articles tagged video" href="http://guanabee.com/tag/video/page/1/">Video</a></li>
+				<li><a title="View Guanabee articles tagged dance" href="http://guanabee.com/tag/dance/page/1/">dance</a></li>
 			
-				<li><a title="View Guanabee articles tagged celebrities" href="http://guanabee.com/tag/celebrities/page/1/">Celebrities</a></li>
+				<li><a title="View Guanabee articles tagged naked" href="http://guanabee.com/tag/naked/page/1/">naked</a></li>
 			
-				<li><a title="View Guanabee articles tagged pictures" href="http://guanabee.com/tag/pictures/page/1/">Pictures</a></li>
-			
-			</ul>
-			<ul>
-			
-				<li><a title="View Anyguey articles tagged sports" href="http://anyguey.guanabee.com/tag/sports/page/1/">Sports</a></li>
-			
-				<li><a title="View Anyguey articles tagged girls" href="http://anyguey.guanabee.com/tag/girls/page/1/">Girls</a></li>
-			
-				<li><a title="View Anyguey articles tagged soccer" href="http://anyguey.guanabee.com/tag/soccer/page/1/">Soccer</a></li>
-			
-				<li><a title="View Anyguey articles tagged pictures" href="http://anyguey.guanabee.com/tag/pictures/page/1/">Pictures</a></li>
-			
-				<li><a title="View Anyguey articles tagged sexy" href="http://anyguey.guanabee.com/tag/sexy/page/1/">Sexy</a></li>
-			
-				<li><a title="View Anyguey articles tagged world cup 2010" href="http://anyguey.guanabee.com/tag/world-cup-2010/page/1/">World cup 2010</a></li>
+				<li><a title="View Guanabee articles tagged spanish" href="http://guanabee.com/tag/spanish/page/1/">spanish</a></li>
 			
 			</ul>
 			<ul>
 			
-				<li><a title="View Barbara articles tagged fashion" href="http://barbara.guanabee.com/tag/fashion/page/1/">Fashion</a></li>
+				<li><a title="View Anyguey articles tagged gossip" href="http://anyguey.guanabee.com/tag/gossip/page/1/">gossip</a></li>
 			
-				<li><a title="View Barbara articles tagged lifestyle" href="http://barbara.guanabee.com/tag/lifestyle/page/1/">Lifestyle</a></li>
+				<li><a title="View Anyguey articles tagged music" href="http://anyguey.guanabee.com/tag/music/page/1/">music</a></li>
 			
-				<li><a title="View Barbara articles tagged beauty" href="http://barbara.guanabee.com/tag/beauty/page/1/">Beauty</a></li>
+				<li><a title="View Anyguey articles tagged soccer" href="http://anyguey.guanabee.com/tag/soccer/page/1/">soccer</a></li>
 			
-				<li><a title="View Barbara articles tagged pictures" href="http://barbara.guanabee.com/tag/pictures/page/1/">Pictures</a></li>
+				<li><a title="View Anyguey articles tagged dance" href="http://anyguey.guanabee.com/tag/dance/page/1/">dance</a></li>
 			
-				<li><a title="View Barbara articles tagged gossip" href="http://barbara.guanabee.com/tag/gossip/page/1/">Gossip</a></li>
+				<li><a title="View Anyguey articles tagged naked" href="http://anyguey.guanabee.com/tag/naked/page/1/">naked</a></li>
 			
-				<li><a title="View Barbara articles tagged photos" href="http://barbara.guanabee.com/tag/photos/page/1/">Photos</a></li>
+				<li><a title="View Anyguey articles tagged spanish" href="http://anyguey.guanabee.com/tag/spanish/page/1/">spanish</a></li>
+			
+			</ul>
+			<ul>
+			
+				<li><a title="View Barbara articles tagged gossip" href="http://barbara.guanabee.com/tag/gossip/page/1/">gossip</a></li>
+			
+				<li><a title="View Barbara articles tagged music" href="http://barbara.guanabee.com/tag/music/page/1/">music</a></li>
+			
+				<li><a title="View Barbara articles tagged soccer" href="http://barbara.guanabee.com/tag/soccer/page/1/">soccer</a></li>
+			
+				<li><a title="View Barbara articles tagged dance" href="http://barbara.guanabee.com/tag/dance/page/1/">dance</a></li>
+			
+				<li><a title="View Barbara articles tagged naked" href="http://barbara.guanabee.com/tag/naked/page/1/">naked</a></li>
+			
+				<li><a title="View Barbara articles tagged spanish" href="http://barbara.guanabee.com/tag/spanish/page/1/">spanish</a></li>
 			
 			</ul>
 			<div class="clr"></div>
 		</div>
+		 
 	</div>
 	
 	<div class="footerSitesWeLike">
@@ -816,7 +853,8 @@ GA_googleFillSlot("Guanabee_ROS_300x250_2");
 	
 
 
-	<script type="text/javascript">
+	<!--
+<script type="text/javascript">
     FB_RequireFeatures(["XFBML"], function() {FB.Facebook.init("28ff9536977f3fc052aa4ab58188fa38", "/facebook/xd_receiver.htm")});
 
     function facebookConnect(loginForm) {
@@ -860,7 +898,7 @@ GA_googleFillSlot("Guanabee_ROS_300x250_2");
         );
     }
 </script>
-
+-->
 	<script type="text/javascript" src="http://guanabee.com/media/js/maillist.js"></script>
 
 
@@ -901,10 +939,7 @@ qacct:"p-59HlyyTSMvPuM"
 	+'src="http://jsn.dt07.net/g/u/guanabee.com.3245.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()
 	+ '" charset="utf-8" ></scr'+'ipt>');
 </script><script type="text/javascript" src="http://jsn.dt07.net/g/u/guanabee.com.3245.js?t=1200" charset="utf-8"></script>
-<script language="javascript">
-var x = new Date().getTime();
-document.write('<div><img src="http://guanabee.com:8888/?x='+ x +'" height="1" width="1" border="0" /></div>');
-</script><div><img src="http://guanabee.com:8888/?x=1580352133598" height="1" width="1" border="0"></div>
+
 <script type="text/javascript"><!--//<![CDATA[
    var m3_u = (location.protocol=='https:'?'https://optimize.indieclick.com/www/delivery/ajs.php':'http://optimize.indieclick.com/www/delivery/ajs.php');
    var m3_r = Math.floor(Math.random()*99999999999);
@@ -919,7 +954,14 @@ document.write('<div><img src="http://guanabee.com:8888/?x='+ x +'" height="1" w
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://optimize.indieclick.com/www/delivery/ajs.php?zoneid=532102&amp;cb=88780816547&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20110523183259id_/http%3A//guanabee.com/privacy-policy/"></script><noscript><a href='http://optimize.indieclick.com/www/delivery/ck.php?n=ad278d2b&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://optimize.indieclick.com/www/delivery/avw.php?zoneid=532102&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ad278d2b' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://optimize.indieclick.com/www/delivery/ajs.php?zoneid=532102&amp;cb=63309267831&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111121234002id_/http%3A//www.guanabee.com/privacy-policy/"></script><noscript><a href='http://optimize.indieclick.com/www/delivery/ck.php?n=ad278d2b&amp;cb=%%CACHEBUSTER%%' target='_blank'><img src='http://optimize.indieclick.com/www/delivery/avw.php?zoneid=532102&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ad278d2b' border='0' alt='' /></a></noscript>
+<script type="text/javascript">
+	var MarketGidDate = new Date();
+	document.write('<scr'+'ipt type="text/javascript" '
+	+'src="http://jsn.dt07.net/g/u/guanabee.com.3245.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()
+	+ '" charset="utf-8" ></scr'+'ipt>');
+</script><script type="text/javascript" src="http://jsn.dt07.net/g/u/guanabee.com.3245.js?t=1200" charset="utf-8"></script>
+
 
 
 
