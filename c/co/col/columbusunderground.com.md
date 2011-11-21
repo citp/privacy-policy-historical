@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the columbusunderground.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523174907id_/http%3A//columbusunderground.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbusunderground.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121225129id_/http%3A//www.columbusunderground.com/privacy) for the most accurate reproduction.*
 
-# ColumbusUnderground.com Privacy Policy | ColumbusUnderground.com
+# ColumbusUnderground.com Privacy Policy — ColumbusUnderground.com
 
 ColumbusUnderground.com has provided this privacy policy because we value your right to privacy. This policy is effective as of November 1, 2001 and governs the collection of personal information through this website on or after this date.
 
