@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vision-net.ie privacy policy that was archived on 2011-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110524153005id_/http%3A//www.vision-net.ie/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vision-net.ie privacy policy that was archived on 2011-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111121210312id_/http%3A//www.vision-net.ie/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -38,6 +38,7 @@ function capLockTop(e){
 		sk = e.shiftKey?e.shiftKey:((kc == 16)?true:false);
 		if(((kc >= 65 && kc <= 90) && !sk)||((kc >= 97 && kc <= 122) && sk)) {
 			document.getElementById('capsTop').style.visibility = 'visible';
+			document.getElementById('capsTop').innerHTML = 'WARNING: Caps Lock is On!';
 		} else {
 		document.getElementById('capsTop').style.visibility = 'hidden';
 		}
@@ -58,7 +59,7 @@ function fixForIETop(e){
 //-->
 </script>
 <link rel="alternate" type="application/rss+xml" title="RSS" href="rss.jsp">
-<link href="/vision-net-styles2.css" rel="stylesheet" type="text/css" media="all">
+<link href="/vision-net-styles.css" rel="stylesheet" type="text/css" media="all">
 </head>
 <body>
 <div id="container">
@@ -89,7 +90,7 @@ try { document.write("<input type=\"hidden\" name=\"screenHeight\" value=\"" + s
 	</tbody></table>
 	</form>
 
-	<div id="capsTop" style="visibility: hidden; position: absolute; bottom:26px; right:90px; width:180px; height:20px; padding:0; margin:0; color: red; font-weight: bold; float: right;">WARNING: Caps Lock is On!</div>
+	<div id="capsTop" style="visibility: hidden; position: absolute; bottom:26px; right:90px; width:180px; height:20px; padding:0; margin:0; color: red; font-weight: bold; float: right;"></div>
 
 	<div id="topnav">
 	 <ul>
@@ -170,7 +171,7 @@ try { document.write("<input type=\"hidden\" name=\"screenHeight\" value=\"" + s
 		<li><a href="/whyVision-netLong.jsp">Why Us</a></li>
 		<li style="border-right:0;padding:0 4px;"><a href="http://twitter.com/VisionNetLtd" title="Follow Us On Twitter"><img src="images/twitter.gif" width="20px" height="14px" alt="Follow us on Twitter" border="0"></a></li>
 		<li class="copyright">© Vision-net.ie 2011</li>
-		<li class="copyright">Data Updated: 24 May 2011</li>
+		<li class="copyright">Data Updated: 21 Nov 2011</li>
 </ul>
 	</div>
 
@@ -184,6 +185,5 @@ try {
 var pageTracker = _gat._getTracker("UA-6603293-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
-
 
 </body></html>
