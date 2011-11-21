@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the naked.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621071532id_/http%3A//www.naked.com/support/privacy.htm%3Fck%3Dsc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naked.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121034432id_/http%3A//www.naked.com/support/privacy.htm%3Fck%3Dsc) for the most accurate reproduction.*
 
 # Naked Live Girls on home web cams. The best live cam site for amateur girls and housewives
 
-Last Updated :: April 13, 2010
+Last Updated :: October 25, 2011
 
 **Privacy Policy**  
-Your privacy is of utmost importance to us. This Privacy Policy governs your use of this website, Naked.com (the “Site”, “we” or “us”).   
+Your privacy is of utmost importance to us. This Privacy Policy governs your use of this website, Naked.com (the “Site”, “we” or “us”). This Privacy Policy solely relates to how the Site may use your information and does not relate to how any members or models/performers on the Site may use information you disclose to them. Members and models/performers are not in anyway governed by this policy and you should exercise caution in sharing any information with them.   
 **Adults Only Service**  
 THIS IS AN ADULTS ONLY SERVICE. We will suspend or terminate any accounts which we believe are being used by anyone under the age of eighteen (18) years old or the age of majority in the jurisdiction in which you view the Site; additionally, we reserve the right to report such person to the proper authorities along with all information provided to us by or with respect to such person.   
 **Disclosures Made as Necessitated by Law or Safety**  
