@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sdcard.org privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521201038id_/http%3A//www.sdcard.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdcard.org privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121065711id_/https%3A//www.sdcard.org/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - SD Association
 
-[Home](http://www.sdcard.org/) » **Privacy  Statement**
+[Home](https://www.sdcard.org/) » **Privacy  Statement**
 
 The SD Association is committed to protecting any personal information that you may provide to us. In particular, we believe it is important for you to know how we treat information about you that we may receive from this Web site.
 
