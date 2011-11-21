@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vitelwireless.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121121201id_/http%3A//vitelwireless.com/fru/pg/38608/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitelwireless.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121065747id_/http%3A//vitelwireless.com/fru/pg/38608/default.aspx) for the most accurate reproduction.*
 
-# Vi-Tel Wireless : Privacy Policy : Vi-Tel Wireless A Direct sales compay offering Clear4G, Sprint, Tmobile, At&t, Verizon, and more!
+# Vi-Tel Wireless : Privacy Policy : The Vi-Tel Wireless business opportunity enables you to make money on the Internet with NO investment. Top Network marketing companies
 
 1. Vi-Tel Wireless is the only operator collecting or maintaining personal information through the www.vitelwireless.com website.
 
@@ -48,7 +48,7 @@ Fax: 800-906-8136
 
 I do / do not consent (circle one) to the collection and use of my child's personal information by Vi-Tel Wireless, subject to the terms of the privacy policy printed above.
 
-Date:| _____________________________________________  
+| Date:| _____________________________________________  
 ---|---  
 Parent's Signature:  
 (or Legal Guardian)| _____________________________________________  
@@ -64,3 +64,5 @@ United States
 
 Email: support@vitelwireless.com  
 Phone: 877-778-8997
+
+ 
