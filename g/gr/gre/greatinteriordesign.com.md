@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greatinteriordesign.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625131515id_/http%3A//www.greatinteriordesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatinteriordesign.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121234212id_/http%3A//www.greatinteriordesign.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Great Interior Design - Living Room,Bedroom,Kitchen,Bathroom,Furniture,Wall Design,Flooring,Lighting,Eco-friendly Interior,Car Interior,Apartment Interior,Villa Interior,Hotel Interior,Bar Interior,Cafe Interior, etc.
+# Privacy Policy - Great Interior Design - Greats interior design inspirations for House, Apartment, Villa, Hotel, Restaurant, Office, Store, Car, Yacht, etc.
 
 [www.greatinteriordesign.com](http://www.greatinteriordesign.com/) respect your privacy and committed to safeguarding your privacy while online at http://www.greatinteriordesign.com. The following discloses the information gathering and dissemination practices for this blog/site.
 
@@ -11,7 +11,15 @@ E-mail Subscription
 A user can subscribe to this blog posts via e-mail (powered by [Feedburner](http://www.feedburner.com/)), www.greatinteriordesign.com ask for contact information such as name and email address. Out of respect for users’ privacy, a way to opt-out of these communications is provided.
 
 Cookies and Web Beacons  
-A cookie is a piece of data stored on the user’s computer tied to information about the user. www.greatinteriordesign.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitorsâ€™ browser type or other information that the visitor sends.
+A cookie is a piece of data stored on the user’s computer tied to information about the user. www.greatinteriordesign.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends.
+
+Advertisers  
+www.greatinteriordesign.com use outside ad companies to display ads on this blog/site. These ads may contain cookies and are collected by the ad companies, and www.greatinteriordesign.com do not have access to these information. www.greatinteriordesign.com work with the ad companies like [Google Adsense](http://www.google.com/). Please check their websites for respective privacy policies.
+
+DoubleClick DART Cookie  
+.:: [Google](http://www.google.com/), as a third party vendor, uses cookies to serve ads on www.greatinteriordesign.com.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.greatinteriordesign.com and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
 
 These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on www.greatinteriordesign.com. They automatically receive your IP address when this happens. They may also use other technologies ( such as cookies, JavaScript, or Web Beacons ) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
 
@@ -24,8 +32,5 @@ If you wish to disable cookies, you may do so through your individual browser op
 Links  
 This blog contains links to other sites. Please be aware that www.greatinteriordesign.com do not responsible for the privacy practices of such other sites. This privacy statement applies solely to information collected by this blog/website.
 
-Advertisers  
-www.greatinteriordesign.com use outside ad companies to display ads on this blog/site. These ads may contain cookies and are collected by the ad companies, and www.greatinteriordesign.com do not have access to these information. www.greatinteriordesign.com work with the ad companies like [Google Adsense](http://www.google.com/). Please check their websites for respective privacy policies.
-
 Contact Information  
-If users have any questions or suggestions regarding my privacy policy, please contact me by sending your email at Contact
+If users have any questions or suggestions regarding my privacy policy, please contact me by sending your email at the Contact
