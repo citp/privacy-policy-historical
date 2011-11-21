@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the websaver.ca privacy policy that was archived on 2011-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110403014823id_/http%3A//websaver.ca/en_ca/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the websaver.ca privacy policy that was archived on 2011-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111121023936id_/https%3A//www.websaver.ca/en_ca/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	<meta type="keywords" content="Coupon, coupons, copoun, copon, cupon, online coupons, grocery coupons, dog food coupons, pampers coupons, online grocery coupons, deals, deal, best deals, deal of the day, online deals, websaver, tide, Spanish, advil, coffee, mellita, coupon newsletter, Baby,Foods, Household Pet care, Beverages">
 	<meta type="description" content="webSaver.ca | It’s worth the click! Welcome to webSaver.ca’s Privacy Policy.">	
 	<title>webSaver.ca - Privacy Policy</title>
-    <link type="text/css" href="/en_ca/includes/css/global.css" rel="stylesheet"><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="/js/mootools-1.2.5-core.js"></script><script type="text/javascript" src="/js/mootools-1.2.4.2-more.js"></script>
+    <link type="text/css" href="/en_ca/includes/css/global.css" rel="stylesheet"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="/js/mootools-1.2.5-core.js"></script><script type="text/javascript" src="/js/mootools-1.2.4.2-more.js"></script>
 	<!-- Begin comScore Tag -->
 <script>
   var _comscore = _comscore || [];
@@ -18,7 +18,7 @@
   })();
 </script>
 <noscript>
-  <img src="http://b.scorecardresearch.com/p?c1=2&c2=8563972&cv=2.0&cj=1" />
+	<img src="http://b.scorecardresearch.com/p?c1=2&c2=8563972&cv=2.0&cj=1" />
 </noscript>
 <!-- End comScore Tag -->
  
@@ -40,7 +40,64 @@
 
 
 <body>
-	<div id="main_top">
+	<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<script> 
+	user = false;
+	userLoggedInViaFacebook = false; 
+	window.fbAsyncInit = function() {
+		FB.init({appId: '122979641112640', status: true, cookie: true});
+		if (!user){ // User is not logged in PHP side
+			FB.getLoginStatus(function(response) {
+				if (response.session) {	
+					// User is logged into Facebook, reload page so he will be logged into PHP side				
+					window.location.href = window.location.href;
+				} 
+			});
+		} else if ( user && userLoggedInViaFacebook ){
+			FB.getLoginStatus(function(response) {
+				if (!response.session) {
+					// User is logged in on PHP side, but not on Facebook. Log user out
+					logout();
+				}
+			});
+		} 	
+	};
+	(function() {
+		var e = document.createElement('script'); e.async = true;
+		e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+		document.getElementById('fb-root').appendChild(e);
+	}());
+
+	function FBLogin(URL) {
+		defaultURL = "/en_ca/coupons/";
+		if (URL != null){
+			defaultURL = URL;
+		}
+		FB.login(function(response) {
+			if (response.session) {
+				if (response.perms) {
+					window.location.href = defaultURL;
+					// user is logged in and granted some permissions.
+					// perms is a comma separated list of granted permissions
+				} 
+			} 
+		}, {perms:'email'});
+	}
+	
+	function logout(){
+		FB.getLoginStatus(function(response) {
+			if (response.session) {
+				FB.logout(function(response){
+					window.location.href = "/php/actions/logout-action.php?locale=en_ca";
+				});
+			} else {
+				window.location.href = "/php/actions/logout-action.php?locale=en_ca";
+			}
+		});
+	}
+	  
+</script> 
+<div id="main_top">
 	<div class="join">
 		<div class="social_icon">
 			<a href="http://www.facebook.com/websaver" target="_blank">
@@ -64,9 +121,9 @@
 	</div>
 </div>	<div id="main_container_top"></div>
 	<div id="main_container">
-		<script type="text/javascript" src="/js/login.js"></script>
+		<script type="text/javascript" src="/js/login.js?version=1"></script>
 <div id="header">
-	<a name="top" href="/en_ca/coupons/"><img id="logo" src="/en_ca/includes/images/img_wsLogo.gif"></a>
+	<a name="top" href="/en_ca/coupons/"><img id="logo" src="/en_ca/includes/images/img_wsLogo.gif"></a>	
     <div id="log_in_box">
         <div id="log_in" style="display:block">	
             <div id="box1">
@@ -88,7 +145,9 @@
             </div>
             <div id="box2">
                 Not a member?<br>
-                <a href="/en_ca/registration/">REGISTER NOW</a>
+                <a href="/en_ca/registration/">REGISTER NOW</a><br>
+                or<br>
+                <a href="javascript:FBLogin();"><img src="/images/fconnect_btn.jpg" alt="facebook connect"></a>
             </div>
 		</div>
         
@@ -100,7 +159,8 @@
             <a id="sign_out" href="/en_ca/editprofile/">
             	<img src="/en_ca/includes/images/btn_modifyProfile.jpg" alt="modify profile">
             </a>
-            <a href="/php/actions/logout-action.php?locale=en_ca">
+<!--            <a href="/php/actions/logout-action.php?locale=en_ca">-->
+            <a href="javascript:logout();">
             	<img src="/en_ca/includes/images/btn_signOut.jpg" alt="sign out">
             </a>
 	    </div>
@@ -178,19 +238,30 @@
 		</div>
 		 <div id="footer">
 <span id="rights">©2011 webSaver.ca. All Rights Reserved</span> <br>
-<a href="/fr_ca/privacypolicy.php">Français</a> | <a href="/en_ca/termsandconditions.php">Terms &amp; Conditions</a> | <a href="/en_ca/privacypolicy.php">Privacy Statement</a> | <a href="/en_ca/sitemap.php">Site Map</a> | <a href="/unsubscribe/">Unsubscribe</a> | <a href="/en_ca/newsletters/">Newsletters</a> | <a href="/en_ca/faq.php">FAQ</a>
+<a href="/fr_ca/privacypolicy.php">Français</a> | <a href="/en_ca/termsandconditions.php">Terms &amp; Conditions</a> | <a href="/en_ca/privacypolicy.php">Privacy Statement</a> | <a href="/en_ca/sitemap.php">Site Map</a> | <a href="/unsubscribe/">Unsubscribe</a> | <a href="/en_ca/newsletters/">Newsletters</a> | <a href="/en_ca/faq.php">FAQ</a> | <a href="/en_ca/winners.php">Contest Winners</a> | <a target="_blank" href="http://corporate.websaver.ca">Corporate Site</a>
 
 </div>
 
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-10302159-31");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+
+	var pageTracker = {}
+	pageTracker[ '_trackPageview' ] = function( tracker )
+	{
+		_gaq.push( [ '_trackPageview', tracker ] );
+	}
+
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-10302159-31']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 
 
 	<!--[if IE 6]>
