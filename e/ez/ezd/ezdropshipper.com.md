@@ -1,19 +1,6 @@
-> *The following text is extracted and transformed from the ezdropshipper.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623153547id_/http%3A//www.ezdropshipper.com/Terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezdropshipper.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121063735id_/http%3A//www.ezdropshipper.com/Terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
-
-### LESS THAN CASE (LTC) "DROPSHIPABLE PRODUCTS"
-
-### PRODUCT SOLD   
-BY THE CASE (BTC)
-
-  
-
-
-### HELPFUL LINKS & TOOLS
-
-  
-
 
 **Privacy Policy**
 
@@ -78,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20110623153547id_/http%3A//www.ezdropshipper.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20111121063735id_/http%3A//www.ezdropshipper.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
