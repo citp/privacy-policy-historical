@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the usconcealedcarry.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502053934id_/http%3A//www.usconcealedcarry.com/uscca-privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usconcealedcarry.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121234718id_/https%3A//www.usconcealedcarry.com/policies/privacy) for the most accurate reproduction.*
 
-# Concealed Carry Information & News | U.S. Concealed Carry Association
+# Privacy Policy | USConcealedCarry.com
 
-**Overview**
+#### Overview
 
 We are strongly committed to safeguarding consumer privacy on our Web site. We operate under the following set of strict privacy principles:
 
@@ -10,21 +10,23 @@ The only information we obtain about our members, is information we need to proc
 
 Personally identifiable information provided by members (name, e-mail or home address, etc.) is never disclosed to anyone.
 
-**Cookies**
+#### Cookies
 
-Each time a member logs into our site, we store a temporary "cookie" in the browser files of the member computer. This cookie is used during your online session to allow you free access to the member's area, without repeatedly requiring you to re-enter your user name and password.
+Each time a member logs into our site, we store a temporary “cookie” in the browser files of the member computer. This cookie is used during your online session to allow you free access to the member’s area, without repeatedly requiring you to re-enter your user name and password.
 
 When ever you log off or leave the site, the cookies file is automatically removed.
 
-**External Links**
+**Please also note:  **Third party vendors, including Google, use cookies to serve ads based on your prior visits to this website. You have the option to opt out of Google’s use of cookies by visiting the Google advertising opt-out page. ([http://www.google.com/privacy_ads.html](http://www.google.com/privacy_ads.html\)Alternatively)) Alternatively you can opt-out of cookies by visiting the Network Advertising Initiative op out page.
+
+#### External Links
 
 In order to provide visitors with greater value, some of our pages may provide links to various third party Web sites.
 
-In no case, is member information or 'cookies' provided to the third party sites. However, keep in mind that many sites do attempt to capture visitor information when you browse those sites.
+In no case, is member information or ‘cookies’ provided to the third party sites. However, keep in mind that many sites do attempt to capture visitor information when you browse those sites.
 
 Once you leave our site, we are not able to alert you should another site attempt to gather information from your browser.
 
-**Private Forums**
+#### Private Forums
 
 We provide our members with with a multi-tiered message board that makes sharing information with other members easy.
 
@@ -32,18 +34,21 @@ To protect your privacy when posting or replying to messages in the message boar
 
 However, remember that any information that you disclose in the message board areas can be read by all other members, so exercise caution when deciding to disclose your personal information.
 
-**Security**
+#### Security
 
 Our Web site has security measures in place to protect the loss, misuse and alteration of the information under our control. We employ strict security measures to safeguard online transactions; personal information is stored in a secured database and always sent via an encrypted Internet channel.
 
-**Choice/Opt-In**
+#### Choice/Opt-In
 
 Our site gives users the opportunity to opt-in to receive communications from us. You can be assured that we never reveal, sell, or make available your email address to anyone for any purpose.
 
 This site also gives users the following options for removing their information from our database in order to stop receiving communications or our service.
 
-**Other**
+#### Other
 
-If you have questions regarding our privacy policy, feel free to let us know, using our [Contact](https://web.archive.org/web/20110502053934id_/http%3A//www.usconcealedcarry.com/contact_uscca.htm) Page
+If you have questions regarding our privacy policy, feel free to let us know, using our [Customer Service](https://web.archive.org/contact/) Page
 
-Thanks-
+Thanks!  
+
+
+Tim Schmidt President and CEO USConcealedCarry.com
