@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the doyoubuzz.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525142649id_/http%3A//www.doyoubuzz.com/us/content/charter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doyoubuzz.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121205047id_/http%3A//www.doyoubuzz.com/us/content/charter) for the most accurate reproduction.*
 
 # DoYouBuzz: Privacy Policy
 
-This policy applies to the protection of personal information on www.doyoubuzz.com. 
+This policy applies to the protection of personal information on www.doyoubuzz.com.
 
 **Updated: June 23, 2010.**
 
