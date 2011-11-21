@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chromebagsstore.com privacy policy that was archived on 2011-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110525025755id_/http%3A//www.chromebagsstore.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chromebagsstore.com privacy policy that was archived on 2011-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111121235801id_/http%3A//www.chromebagsstore.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <title> Privacy Policy  | CHROME | Official Site</title>
@@ -35,163 +35,172 @@
 <![endif]-->
 <script type="text/javascript">var Translator = new Translate([]);</script></head>
 <body class="body-bg-1  cms-page-view cms-privacy-policy">
+    <div id="top-banner">
+        <div class="shell"><a href="http://www.chromebagsstore.com/shoes.html"><img width="940" height="20" alt="" src="/media/ucontent/TopBanner_940x20_Sept2011.png"></a></div>    </div>
     <div id="header" class="shell">
         <script type="text/javascript">
 function forgotPasswordSubmit() {
-		var requestData = {'username' : $j('#header-forgot-password-email').val()};
-		$j.post('http://www.chromebagsstore.com/customer/account/ajaxForgotPassword',
-				 requestData,
-				 function(data) {
-					//$j('#header-signin-animation').toggle();
-					$j('#forgot-password-form').remove();
-					$j('#accountnav').css({'padding-bottom': 0, 'margin-bottom': 14});
-					if (data.Message != 'Success') {
-						//$j('#header-signin-response').html(data.Message);
-						//$j('#header-signin-response').show();
-					} else {
-						///$j('#header-signin-response').html('You have Logged in successfully.<br>Click <a href="https://www.chromebagsstore.com/customer/account/">here</a> to go to your account page.' );
-						//$j('#accountnav a.main').addClass('loggedin');
-						//$j('#header-signin-response').show();
-					}
-				},
-				"json");
+    var requestData = {'username' : $j('#header-forgot-password-email').val()};
+    $j.post('http://www.chromebagsstore.com/customer/account/ajaxForgotPassword',
+             requestData,
+             function(data) {
+                //$j('#header-signin-animation').toggle();
+                //$j('#forgot-password-form').remove();
+                $j('#accountnav').css({'padding-bottom': 0, 'margin-bottom': 14});
+                if (!data.error) {
+                    $j('#fp_msg').text(data.message);
+                    $j('#fp_fields').hide();
+                } else {
+                    $j('#fp_msg').text(data.message);
+                }
+            },
+            "json");
 }
 
 function showPasswordForm() {
 
 	$j('#signin-form').hide();
 	$j('#forgot-password-form').show();
-
 }
 </script>
+
 <span id="logo"><a href="/"><img src="http://www.chromebagsstore.com/skin/frontend/default/chrome/images/logo.gif" alt="Chrome"></a></span><!--/#logo-->
 <div class="cl"><!-- --></div>
-<div id="accountnav">
+<div class="right-side">
+    <div class="nav">
+        <!-- BEGIN ProvideSupport.com Custom Images Chat Button Code -->
+        <div id="ciEXZB" style="z-index:100;position:absolute"></div>
+        <div id="scEXZB" style="display:inline"></div>
+        <div id="sdEXZB" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/chrome1086/safe-standard.js?ps_h=EXZB&amp;ps_t=1580439885312"></script></div>
+        <script type="text/javascript">
+            var seEXZB=document.createElement("script");
+            seEXZB.type="text/javascript";
+            var seEXZBs=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/chrome1086/safe-standard.js?ps_h=EXZB&ps_t="+new Date().getTime();
+            setTimeout("seEXZB.src=seEXZBs;document.getElementById('sdEXZB').appendChild(seEXZB)",1);
+            /**
+            $j(document).ready(function(){ // update chat link text since providesupport sets an image by default..
+                $j('a', $j('#scEXZB')).text('Chat');
+            });
+            */
+        </script>
+        <noscript>
+            <a href="http://www.providesupport.com?messenger=chrome1086">Chat</a>
+        </noscript>
+        <!-- END ProvideSupport.com Custom Images Chat Button Code -->
+        | 415-503-1221 |
+        <a href="http://www.chromebagsstore.com/retaillocations/">Shop Locator</a> |
+        <div id="accountnav">
+                                <a class="main" href="https://www.chromebagsstore.com/customer/account/">Login</a>
+            
+            <div id="signin-form-container">
 
+                <div id="forgot-password-form" style="display:none;">
+                    <a href="#" class="close">close</a>
+                    <h2>GET PASSWORD</h2>
+                    <div class="divider divider-black">&nbsp;</div>
+                    <form action="#https://www.chromebagsstore.com/customer/account/loginPost/" method="post">
+                        <div id="fp_msg"></div>
+                        <div id="fp_fields">
+                            <fieldset>
+                                <ol>
+                                    <li>
+                                        <label>E-mail:</label>
+                                        <input type="text" class="text" name="login[username]" id="header-forgot-password-email">
+                                        <div class="cl"><!-- --></div>
+                                    </li>
+                                </ol>
+                            </fieldset>
+                            <fieldset class="submit">
+                                <input type="image" class="button-signin" src="http://www.chromebagsstore.com/skin/frontend/default/chrome/images/button-submit.gif" onclick="forgotPasswordSubmit(); return false;">
+                            </fieldset>
+                        </div>
+                    </form>
+                </div>
 
-	    <a class="main" href="https://www.chromebagsstore.com/customer/account/">login:</a>
-    
-    <div id="signin-form-container">
+                <div id="signin-form" style="display:none;">
 
-		<div id="forgot-password-form" style="display:none;">
-			<a href="#" class="close">close</a>
-			<h2>GET PASSWORD</h2>
-			<div class="divider divider-black">&nbsp;</div>
-				<form action="#https://www.chromebagsstore.com/customer/account/loginPost/" method="post">
-					<fieldset>
-						<ol>
-						    <li>
-						    	<label>E-mail:</label>
-						    	<input type="text" class="text" name="login[username]" id="header-forgot-password-email">
-							<div class="cl"><!-- --></div>
-						    </li>
-						</ol>
-					</fieldset>
-					<fieldset class="submit">
-						<input type="image" class="button-signin" src="http://www.chromebagsstore.com/skin/frontend/default/chrome/css/images/button-submit.gif" onclick="forgotPasswordSubmit(); return false;">
-					</fieldset>
-				</form>
-		</div>
+                    <a href="#" class="close">close</a>
+                    <h2>LOG IN</h2>
+                    <div class="divider divider-black">&nbsp;</div>
+                    <form action="https://www.chromebagsstore.com/customer/account/loginPost/" method="post">
+                        <input type="hidden" value="http://www.chromebagsstore.com/privacy-policy" name="current_page">
+                        <fieldset>
+                            <ol>
+                                <li>
+                                    <label>E-mail:</label>
+                                    <input type="text" class="text" name="login[username]" id="header-login-username">
+                                    <div class="cl"><!-- --></div>
+                                </li>
+                                <li>
+                                    <label>Password:</label>
+                                    <input type="password" class="text" name="login[password]" id="header-login-password">
+                                    <div class="cl">&nbsp;</div>
+                                </li>
+                            </ol>
+                        </fieldset>
+                        <fieldset class="submit">
+                            <p><a href="#" onclick="showPasswordForm();">Forgot Your Password?</a></p>
+                            <input type="image" class="button-signin" src="http://www.chromebagsstore.com/skin/frontend/default/chrome/css/images/login.gif" onclick="signInHeader(); return false;">
+                            <img id="header-signin-animation" src="http://www.chromebagsstore.com/skin/frontend/default/chrome/images/loading.gif" style="margin-bottom:25px;display:none;">
+                            <div id="header-signin-response" style="margin-bottom:15px;display:none;">FAIL</div>
+                            <p><strong>Don’t have an account? <a href="https://www.chromebagsstore.com/customer/account/login/">Sign Up!</a></strong></p>
+                        </fieldset>
+                    </form>
+                </div>
 
-
-		<div id="signin-form" style="display:none;">
-
-			<a href="#" class="close">close</a>
-			<h2>SIGN IN</h2>
-			<div class="divider divider-black">&nbsp;</div>
-			<form action="https://www.chromebagsstore.com/customer/account/loginPost/" method="post">
-				<input type="hidden" value="http://www.chromebagsstore.com/privacy-policy" name="current_page">
-				<fieldset>
-					<ol>
-					    <li>
-					    	<label>E-mail:</label>
-					    	<input type="text" class="text" name="login[username]" id="header-login-username">
-					    	<div class="cl"><!-- --></div>
-					    </li>
-					    <li>
-					    	<label>Password:</label>
-					    	<input type="password" class="text" name="login[password]" id="header-login-password">
-					    	<div class="cl">&nbsp;</div>
-					    </li>
-					</ol>
-
-				</fieldset>
-				<fieldset class="submit">
-					<p><a href="#" onclick="showPasswordForm();">Forgot Your Password?</a></p>
-
-
-					<input type="image" class="button-signin" src="http://www.chromebagsstore.com/skin/frontend/default/chrome/css/images/signin.gif" onclick="signInHeader(); return false;">
-					<img id="header-signin-animation" src="http://www.chromebagsstore.com/skin/frontend/default/chrome/images/loading.gif" style="margin-bottom:25px;display:none;">
-					<div id="header-signin-response" style="margin-bottom:15px;display:none;">FAIL</div>
-					<p><strong>Don’t have an account? <a href="https://www.chromebagsstore.com/customer/account/login/">Sign Up!</a></strong></p>
-				</fieldset>
-			</form>
-		</div>
-
-
-		<div id="account-options" style="display:none;">
-
-			<div id="nav-account" style="height:0px;">
-			<div id="nested-option" class="dropdown" style="height:0px;display:none;">
-			<ul id="account-list" style="list-style-type:none;margin-top:48px;display:none;">
-				<li>
-					<a href="https://www.chromebagsstore.com/customer/account/">My Account</a>
-				</li>
-				<li>
-					<a href="https://www.chromebagsstore.com/customer/account/list/">View Orders</a>
-				</li>
-				<li>
-					<a href="http://www.chromebagsstore.com/wishlist/" class="nav_wishlist"><img src="http://www.chromebagsstore.com/skin/frontend/default/chrome/images/wishlist.png">Wishlist</a>
-				</li>
-				<li>
-					<a href="https://www.chromebagsstore.com/customer/address/">Addresses</a>
-				</li>
-				<li>
-					<a href="https://www.chromebagsstore.com/customer/account/email/">Edit Email</a>
-				</li>
-				<li>
-					<a href="https://www.chromebagsstore.com/customer/account/edit/">Edit Password</a>
-				</li>
-				<li>
-					<a href="https://www.chromebagsstore.com/customer/account/logout/">Sign Out</a>
-				</li>
-			</ul>
-			</div>
-			</div>
-		</div>
+                <div id="account-options" style="display:none;">
+                    <div id="nav-account">
+                        <div id="nested-option" class="dropdown" style="display: none">
+                            <ul id="account-list">
+                                <li>
+                                    <a href="https://www.chromebagsstore.com/customer/account/">My Account</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.chromebagsstore.com/customer/account/list/">View Orders</a>
+                                </li>
+                                <li>
+                                    <a href="http://www.chromebagsstore.com/wishlist/" class="nav_wishlist"><img src="http://www.chromebagsstore.com/skin/frontend/default/chrome/images/wishlist.png">Wishlist</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.chromebagsstore.com/customer/address/">Addresses</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.chromebagsstore.com/customer/account/email/">Edit Email</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.chromebagsstore.com/customer/account/edit/">Edit Password</a>
+                                </li>
+                                <li>
+                                    <a href="https://www.chromebagsstore.com/customer/account/logout/">Sign Out</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-</div>
-
-<form id="searchbar" action="http://www.chromebagsstore.com/catalogsearch/result/" method="get">
+    <p class="shipping">$8 Shipping within 24HRS</p>    
+<form method="get" action="http://www.chromebagsstore.com/catalogsearch/result/" id="searchbar">
     <div class="cl">&nbsp;</div>
     <fieldset>
         <ol>
             <li>
                 <label for="search-term">Search Chrome</label>
-                
-                <input type="text" id="search-term" name="q" class="text" value="" title="Search Chrome">
-
-				<script type="text/javascript">
-					$j(document).ready(function () {
-
-						$j('#search-term').focus();
-						$j('#search-term').blur();
-
-					});				
-                                </script>
-
+                <input type="text" class="text" name="q" value="" id="search-term">
             </li>
         </ol>
     </fieldset>
     <fieldset class="submit">
-        <input type="image" src="http://www.chromebagsstore.com/skin/frontend/default/chrome/css/images/btn-search.png"> <!-- searchbar-submit.gif -->
+        <input type="image" src="http://www.chromebagsstore.com/skin/frontend/default/chrome/images/btn-search-new.png"> <!-- searchbar-submit.gif -->
     </fieldset>
     <div class="cl">&nbsp;</div>
-</form><!--/#searchbar-->
+</form>    <div class="cl"></div>
+    <a href="http://www.chromebagsstore.com/checkout/cart/" class="btn-checkout-grey">checkout</a>
+    <p id="cart-icon" class="cart" onmouseover="displayCartPopup()">CART (0)</p>
+    <div class="cl"></div>
+</div>
 
-
-
-<div class="cl"><!-- --></div>
 
 <div id="navcontainer">
     <ul id="nav">
@@ -201,14 +210,12 @@ function showPasswordForm() {
             <a href="http://www.chromebagsstore.com/bags.html">bags</a>
             <div class="dropdown">
                 <ul style="list-style-type:none;">
-                    <li><a href="http://www.chromebagsstore.com/bags.html">View All</a></li>
-                    <li><a href="http://www.chromebagsstore.com/bags/messenger-bags.html">Messenger Bags</a></li>
-                    <li><a href="http://www.chromebagsstore.com/bags/laptop-bags.html">Laptop Bags</a></li>
-                    <li><a href="http://www.chromebagsstore.com/bags/packs.html">Backpacks</a></li>
-                    <li><a href="http://www.chromebagsstore.com/bags/utility-bags.html">Utility Bags</a></li>
-                  
-                    <li><a href="http://www.chromebagsstore.com/bags/pro-series.html">Pro Series</a></li>
-                    <li><a href="http://www.chromebagsstore.com/bags/accessories.html">Accessories</a></li>
+									<li><a href="http://www.chromebagsstore.com/bags.html">View All</a></li>
+									<li><a href="http://www.chromebagsstore.com/bags/messenger-bags.html">Messenger Bags</a></li>
+									<li><a href="http://www.chromebagsstore.com/bags/laptop-bags.html">Laptop Bags</a></li>
+									<li><a href="http://www.chromebagsstore.com/bags/packs.html">Backpacks</a></li>
+									<li><a href="http://www.chromebagsstore.com/bags/utility-bags.html">Utility Bags</a></li>
+									<li><a href="http://www.chromebagsstore.com/bags/accessories.html">Accessories</a></li>
                 </ul>
             </div>
         </li>
@@ -216,40 +223,31 @@ function showPasswordForm() {
             <a href="http://www.chromebagsstore.com/apparel.html">apparel</a>
             <div class="dropdown">
                 <ul style="list-style-type:none;">
-                    <li><a href="http://www.chromebagsstore.com/apparel.html">View All</a></li>
-                    <li><a href="http://www.chromebagsstore.com/apparel/mens-apparel.html">Men's Apparel</a></li>
-                    <li><a href="http://www.chromebagsstore.com/apparel/womens-apparel.html">Women's Apparel</a></li>
-                </ul>
+ 									<li><a href="http://www.chromebagsstore.com/apparel.html">View All</a></li>
+ 									<li><a href="http://www.chromebagsstore.com/apparel/mens-apparel.html">Men's Apparel</a></li>
+ 									<li><a href="http://www.chromebagsstore.com/apparel/womens-apparel.html">Women's Apparel</a></li>
+ 									<li><a href="http://www.chromebagsstore.com/apparel/tees.html">Tees</a></li>
+ 									<li><a href="http://www.chromebagsstore.com/apparel/socks.html">Socks</a></li>
+ 									<li><a href="http://www.chromebagsstore.com/apparel/accessories.html">Accessories</a></li>
+ 		</ul>
             </div>
         </li>
         <li id="nav3" class="tr">
             <a href="http://www.chromebagsstore.com/shoes.html">shoes</a>
             <div class="dropdown">
                 <ul style="list-style-type:none;">
-                    <li><a href="http://www.chromebagsstore.com/shoes.html">View All</a></li>
+									<li><a href="http://www.chromebagsstore.com/shoes.html">View All</a></li>
+									<li><a href="http://www.chromebagsstore.com/shoes/pro.html">Pro</a></li>
+									<li><a href="http://www.chromebagsstore.com/shoes/pedal.html">Pedal</a></li>
+									<li><a href="http://www.chromebagsstore.com/shoes/all-city.html">All City</a></li>
                 </ul>
             </div>
         </li>
-        <!-- <li class="separator">&nbsp;</li> -->
         <li><a href="http://www.chromebagsstore.com/familia/">familia</a></li>
         <li><a href="http://www.chromebagsstore.com/events/">events</a></li>
         <li><a href="http://www.chromebagsstore.com/about-us/">about</a></li>
     </ul>
-</div><div id="cart-checkout">
-
-    <p class="equal"><a href="#" onmouseover="displayCartPopup()"><img src="http://www.chromebagsstore.com/skin/frontend/default/chrome/css/images/cart-ico-2.png" class="cart-icon" id="cart-icon"></a> <span class="uline"></span><span id="cart-qty">0</span> Items <span>=</span> $<span id="cart-total">0.00</span></p>
-
-    <a href="http://www.chromebagsstore.com/checkout/cart/" class="btn-checkout-grey">Checkout</a>
-
-    <div class="cl"><!-- --></div>
-    <!--
-    <div class="chat_now">
-        < BEGIN ProvideSupport.com Custom Images Chat Button Code >
-        <div id="ciEXZB" style="z-index:100;position:absolute"></div><div id="scEXZB" style="display:inline"></div><div id="sdEXZB" style="display:none"></div><script type="text/javascript">var seEXZB=document.createElement("script");seEXZB.type="text/javascript";var seEXZBs=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/chrome1086/safe-standard.js?ps_h=EXZB&ps_t="+new Date().getTime();setTimeout("seEXZB.src=seEXZBs;document.getElementById('sdEXZB').appendChild(seEXZB)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=chrome1086">Customer Support Chat</a></div></noscript>
-        < END ProvideSupport.com Custom Images Chat Button Code >
-    </div>
-    -->
-</div><!--/#cart-checkout-->    </div>
+</div>    </div>
     <div class="main-promo ">
     <div class="shell">
         <div class="cl">&nbsp;</div>
@@ -267,9 +265,9 @@ function showPasswordForm() {
     </div><!--/.main-promo-->    <div class="shell">
                 <div class="cl"><!-- --></div>
                 <div class="content">
-            <div id="main" class="shell">
+            <div class="shell" id="main">
 <div class="cl">&nbsp;</div>
-<div id="simple-page" class="content">
+<div class="content" id="simple-page">
 <h3>PRIVACY POLICY</h3>
 <div class="text">
 <p>At Chrome ("CHROME," "we," or "us"), we are committed to the privacy of our customers. This Privacy Policy ("Policy") describes how personal information is collected from users of the CHROME website at <a href="http://www.chromebagsstore.com">www.chromebagsstore.com</a> (the "Site"), and how that information is used and disclosed. By using our Site, you consent to the terms of this Policy.</p>
@@ -395,22 +393,18 @@ Email:<a href="mailto:chrome@chromebags.com"> chrome@chromebags.com</a></p>
         <div class="cl"><!-- --></div>
         <ul>
             <li>» <a href="https://www.chromebagsstore.com/customer/service/">Customer Service</a></li>
-            <li>» <a href="http://www.chromebagsstore.com/retaillocations/">Find a Store</a></li>
+            <li>» <a href="http://www.chromebagsstore.com/retaillocations/">Chrome Shops</a></li>
             <li>» <a href="https://www.chromebagsstore.com/customer/service/">Contact Us</a></li>
-
             <li>» <a href="http://www.chromebagsstore.com/dealer-app/">Become a Dealer</a></li>
         </ul>
         <ul>
-        	<li>» <a href="http://www.chromebagsstore.com/about-us/">About Chrome</a></li>
-        	<li>» <a href="http://www.chromebagsstore.com/jobs/">Jobs</a></li>
-           <!-- <li>&raquo; <a href="">Share Chrome</a></li> -->
-           <li>» <a href="http://www.chromebagsstore.com/gift-cards/chrome-gift-card.html/">Gift Cards</a></li>
+            <li>» <a href="http://www.chromebagsstore.com/about-us/">About Chrome</a></li>
+            <li>» <a href="http://www.chromebagsstore.com/jobs/">Jobs</a></li>
+            <li>» <a href="http://www.chromebagsstore.com/gift-cards/chrome-gift-card.html/">Gift Cards</a></li>
         </ul>
         <ul>
-
-            <!--<li>&raquo; <a href="http://www.chromebagsstore.com/terms-and-conditions/">Terms &amp; Conditions</a></li> -->
             <li>» <a href="http://www.chromebagsstore.com/privacy-policy/">Privacy and Terms</a></li>
-            <li>» <a href="http://www.chromebagsstore.com/sitemap/">Site Map</a></li>
+            <li>» <a href="http://www.chromeindustries.ca/">Chrome Canada</a></li>            <li>» <a href="http://www.chromebagsstore.com/sitemap/">Site Map</a></li>
         </ul>
         <div class="cl"><!-- --></div>
     </div><!--/.nav-->
@@ -455,10 +449,10 @@ Email:<a href="mailto:chrome@chromebags.com"> chrome@chromebags.com</a></p>
 	</script>
 
     <ol class="socials">
-        <li><a href="http://twitter.com/ChromeBagsSF" target="_blank"><img src="http://www.chromebagsstore.com/skin/frontend/default/chrome/css/images/ico-twitter.gif" alt=""></a></li>
-        <li><a href="http://www.facebook.com/home.php#/chromebags.sf?ref=ts" target="_blank"><img src="http://www.chromebagsstore.com/skin/frontend/default/chrome/css/images/ico-facebook.gif" alt=""></a></li>
-        <li><a href="http://www.youtube.com/user/chromebags" target="_blank"><img src="http://www.chromebagsstore.com/skin/frontend/default/chrome/css/images/ico-youtube.gif" alt=""></a></li>
-        <li><a href="http://www.flickr.com/photos/8350795@N03/" target="_blank"><img src="http://www.chromebagsstore.com/skin/frontend/default/chrome/css/images/ico-flickr.gif" alt=""></a></li>
+        <li><a href="http://twitter.com/#!/ChromeBagsSF" target="_blank"><img src="http://www.chromebagsstore.com/skin/frontend/default/chrome/css/images/ico-twitter.gif" alt="Twitter logo"></a></li>
+        <li><a href="http://www.facebook.com/chromebags.sf" target="_blank"><img src="http://www.chromebagsstore.com/skin/frontend/default/chrome/css/images/ico-facebook.gif" alt="Facebook logo"></a></li>
+        <li><a href="http://www.youtube.com/user/chromebags" target="_blank"><img src="http://www.chromebagsstore.com/skin/frontend/default/chrome/css/images/ico-youtube.gif" alt="YouTube logo"></a></li>
+        <li><a href="http://www.flickr.com/photos/8350795@N03/" target="_blank"><img src="http://www.chromebagsstore.com/skin/frontend/default/chrome/css/images/ico-flickr.gif" alt="Flickr logo"></a></li>
     </ol>
     <div class="cl"><!-- --></div>
 </div>
@@ -472,7 +466,7 @@ Email:<a href="mailto:chrome@chromebags.com"> chrome@chromebags.com</a></p>
 
     <script>
     if (window.location.toString().indexOf('https') == -1) {
-	document.write ('<li><p><a href="http://www.yelp.com/biz/chrome-retail-sf-san-francisco"><img src="https://images.yelp.com/extimg/rrc/sdMNrzyVPmwl_C14cTSh6w.png" width="125" height="55" alt="Chrome Retail SF"  style="float:right" /></a></p></li>');
+	document.write ('<li><p><a href="http://www.yelp.com/biz/chrome-retail-sf-san-francisco"><img src="https://images.yelp.com/extimg/rrc/sdMNrzyVPmwl_C14cTSh6w.png" alt="Chrome Retail SF"  style="float:right" /></a></p></li>');
     }
     </script>
 </ul>
@@ -487,6 +481,7 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 try {
 var pageTracker = _gat._getTracker("UA-912930-1");
 pageTracker._trackPageview();
+pageTracker._trackPageLoadTime();
 } catch(err) {}</script>
 
 <script language="JavaScript" type="text/javascript">
