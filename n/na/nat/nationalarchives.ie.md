@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalarchives.ie privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609131944id_/http%3A//www.nationalarchives.ie/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalarchives.ie privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121125914id_/http%3A//www.nationalarchives.ie/privacy.html) for the most accurate reproduction.*
 
 # National Archives of Ireland: Privacy statement
 
@@ -28,4 +28,4 @@ When you use the internet, you are assigned a unique address known as an IP addr
 
 ## Notification of changes to our privacy policy
 
-The National Archives reserves the right in its sole discretion to amend this privacy statement at any time, and you should regularly check this privacy statement for any amendments.
+The National Archives reserves the right in its sole discretion to amend this privacy statement at any time and you should regularly check this privacy statement for any amendments.
