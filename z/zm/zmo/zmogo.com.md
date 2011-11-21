@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zmogo.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523193130id_/http%3A//www.zmogo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zmogo.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121015444id_/http%3A//www.zmogo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
