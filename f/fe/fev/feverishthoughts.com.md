@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feverishthoughts.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528005041id_/http%3A//www.feverishthoughts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feverishthoughts.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121153329id_/http%3A//www.feverishthoughts.com/privacy-policy) for the most accurate reproduction.*
 
 # Tricia's Musings - Privacy Policy
 
