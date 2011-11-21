@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jootix.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619044355id_/http%3A//jootix.com/Pages/25/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jootix.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121213849id_/http%3A//jootix.com/Pages/25/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy : Jootix wallpapers
 
