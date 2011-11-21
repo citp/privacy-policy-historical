@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tractorsupply.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428162524id_/http%3A//www.tractorsupply.com/content/home/privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tractorsupply.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121055757id_/http%3A//www.tractorsupply.com/content/home/privacy%2520policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -154,4 +154,4 @@ We may change this Privacy Policy at any time in our sole discretion. Any update
 
 Last update: February 14, 2011
 
-Copyright © 2007 Tractor Supply Company, Inc. All Rights Reserved.
+Copyright © 2011 Tractor Supply Company, Inc. All Rights Reserved.
