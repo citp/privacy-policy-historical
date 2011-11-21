@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the troostwijkauctions.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523184549id_/http%3A//www.troostwijkauctions.com/uk/privacy-statement/92-312) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the troostwijkauctions.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121024454id_/http%3A//www.troostwijkauctions.com/uk/privacy-statement/92-312) for the most accurate reproduction.*
 
 # Privacy statement - Website Troostwijk Auctions
 
