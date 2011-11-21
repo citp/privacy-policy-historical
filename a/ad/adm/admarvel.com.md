@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admarvel.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627210034id_/http%3A//admarvel.com/AdMarvel_Privacy_Policy_2011.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admarvel.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121122609id_/http%3A//www.admarvel.com/AdMarvel_Privacy_Policy_2011.pdf) for the most accurate reproduction.*
 
 # AdMarvel Privacy Policy
 
