@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funny.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523182506id_/http%3A//www.funny.com/cgi-bin/WebObjects/Funny.woa/wa/StaticPageA/page%3Fname%3DsupportPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funny.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121020538id_/http%3A//www.funny.com/cgi-bin/WebObjects/Funny.woa/wa/StaticPageA/page%3Fname%3DsupportPrivacyPolicy) for the most accurate reproduction.*
 
 # Funny.com: Privacy Policy
 
