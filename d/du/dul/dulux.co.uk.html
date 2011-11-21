@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dulux.co.uk privacy policy that was archived on 2011-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110523175027id_/http%3A//www.dulux.co.uk/home/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dulux.co.uk privacy policy that was archived on 2011-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111121120359id_/http%3A//www.dulux.co.uk/home/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -10,7 +10,7 @@
 
 	
 
-		<link href="/web/styles/base-1.1.50-min.css" rel="stylesheet" type="text/css" media="all">
+		<link href="/web/styles/base-1.1.52-min.css" rel="stylesheet" type="text/css" media="all">
 		<link href="/web/styles/print/base-min.css" rel="stylesheet" type="text/css" media="print">
 
 		
@@ -25,6 +25,11 @@
 
 	
 <script type="text/javascript" src="/web/scripts/swfobject.js"></script>
+<script type="text/javascript" language="JavaScript">
+//<[CDATA[
+function ns_onclick(i,b,c,h,j){var e="";if(typeof ns_pixelUrl=="string"){e=ns_pixelUrl.substring(0,ns_pixelUrl.indexOf("?")+1)}e+=c;e+="&ns_type="+h+"&ns_action=view";e+="&ns__t="+(new Date()).getTime();if(!b){b=i.href}var d=document.referrer;if(d.lastIndexOf("/")==d.length-1){d=d.substring(d.lastIndexOf("/"),0)}if(d.length>0){e+="&amp;ns_referrer="+escape(d)}j=j||"";var f=(i&&i.target&&i.target!="")?(i.target.substring(0,1)=="_")?i.target.substring(1):i.target:"self";var g=new Image();if(f&&b){if(window[f]){window.ns_softclick_timer=function(k,a){return function(){if(window.ns_softclick_timeout){window.clearTimeout(window.ns_softclick_timeout)}g.onload=g.onerror=function(){return};window[((window[k])?k:"self")].location.href=a}}(f,b);ns_softclick_timeout=window.setTimeout("ns_softclick_timer()",5000);g.onload=g.onerror=window.ns_softclick_timer}else{window.open(b,f,j)}}g.src=e;return false};
+// ]]>
+</script>
 <!-- START SEARCH DATA -->
 <meta name="documenttype" content="article">
 <!-- END SEARCH DATA -->
@@ -58,6 +63,11 @@
 				if (form.searchString.value.length<3) { form.searchString.focus(); alert("Please enter a search term of 3 or more characters."); return false; }
 			return true;
 			}
+			function doClear(thisText){
+				if(thisText.value == thisText.defaultValue){
+					thisText.value == ""
+				}				
+			}
 		</script>
 		<div class="gSearch">
 			<form action="http://www.dulux.co.uk/servlet/SiteAdvancedSearchHandler" method="post" onsubmit="return prepareSearch(this);">
@@ -66,8 +76,10 @@
 				<input type="hidden" name="successURL" value="/search/search_results.jsp">
 				<input type="hidden" name="failURL" value="/search/index.jsp">
 				<label for="search">Search</label>
-				<input name="searchString" id="search" type="text" maxlength="300" class="searchInput">
-				<input type="image" src="/web/images/furniture/btn_search_go_0.gif" alt="Go" name="btn_search" onfocus="rollBtn(this)" onblur="rollBtn(this)" onmouseover="rollBtn(this)" onmouseout="rollBtn(this)">
+				<p>
+					<input name="searchString" id="search" type="text" maxlength="300" class="searchInput" onfocus="doClear(this)" value="">
+					<input type="image" src="/web/images/buttons/search.gif" alt="Go" name="btn_search">
+				</p>
 			</form>
 		</div>
 	</div>
@@ -81,42 +93,51 @@
 <div id="nav">
 	<ul>
 		<li id="nav-inspiration">
-			<a href="http://www.dulux.co.uk/inspiration/index.jsp">Inspiration</a>
+			<a href="http://www.dulux.co.uk/inspiration/index.jsp" onclick="ns_onclick (this,'','nav.onclick.inspiration.landing','clickin');return false">Inspiration</a>
 			<ul>
-				<li><a href="http://www.dulux.co.uk/inspiration/latest_trends/index.jsp">Latest trends</a></li>
-				<li><a href="http://www.dulux.co.uk/inspiration/get_the_look/index.jsp">Room ideas</a></li>
-				<li><a href="http://www.dulux.co.uk/inspiration/colour_inspiration/index.jsp">Colour inspiration</a></li>
-				<li><a href="http://www.dulux.co.uk/video/category_tv_ads.jsp">Our TV ads</a></li>
+				<li><a href="http://www.dulux.co.uk/inspiration/latest_trends/index.jsp" onclick="ns_onclick (this,'','nav.onclick.inspiration.latest_trends','clickin');return false">Latest trends</a></li>
+				<li><a href="http://www.dulux.co.uk/inspiration/get_the_look/index.jsp" onclick="ns_onclick (this,'','nav.onclick.inspiration.room_ideas','clickin');return false">Room ideas</a></li>
+				<li><a href="http://www.dulux.co.uk/inspiration/colour_inspiration/index.jsp" onclick="ns_onclick (this,'','nav.onclick.inspiration.colour_inspiration','clickin');return false">Colour inspiration</a></li>
 			</ul>
 		</li>
 
 		<li id="nav-colours">
-			<a href="http://www.dulux.co.uk/colours/index.jsp">Colours</a>
+			<a href="http://www.dulux.co.uk/colours/index.jsp" onclick="ns_onclick (this,'','nav.onclick.colours.landing','clickin');return false">Colours</a>
 			<ul>
-				<li><a href="http://www.dulux.co.uk/colours/index.jsp">Our colours</a></li>
-				<li><a href="http://www.dulux.co.uk/colours/experts/index.jsp">Expert colour advice</a></li>
-				<li><a href="http://www.dulux.co.uk/colours/samples/index.jsp">Dulux colour testers</a></li>
-				<li><a href="http://www.dulux.co.uk/colours/samples/guide.jsp">FREE Dulux colour guide</a></li>
+				<li><a href="http://www.dulux.co.uk/colours/index.jsp" onclick="ns_onclick (this,'','nav.onclick.colours.our_colours','clickin');return false">Our colours</a></li>
+				<li><a href="http://www.dulux.co.uk/colours/samples/index.jsp" onclick="ns_onclick (this,'','nav.onclick.colours.testers','clickin');return false">Dulux colour testers</a></li>
 			</ul>
 		</li>
-
-		<li id="nav-products">
-			<a href="http://www.dulux.co.uk/products/index.jsp">Products</a>
+		<li id="nav-colour-tools">
+			<a href="/studio/index.jsp" onclick="ns_onclick (this,'','nav.onclick.colour_help_tools.landing','clickin');return false">Colour help tools</a>
 			<ul>
-				<li><a href="http://www.dulux.co.uk/products/index.jsp">Our products</a></li>
+				<li><a href="http://www.dulux.co.uk/studio/colour_guide/index.jsp" onclick="ns_onclick (this,'','nav.onclick.colour_help_tools.colour_guide','clickin');return false">Colour Guide</a></li>
+				<li><a href="http://www.dulux.co.uk/studio/colour_click/index.jsp" onclick="ns_onclick (this,'','nav.onclick.colour_help_tools.colour_click','clickin');return false">Colour Click</a></li>
+				<li><a href="http://www.dulux.co.uk/studio/iphone_app/index.jsp" onclick="ns_onclick (this,'','nav.onclick.colour_help_tools.iphone','clickin');return false">iPhone App</a></li>
+				<li><a href="http://www.dulux.co.uk/studio/mousepainter/index.jsp" onclick="ns_onclick (this,'','nav.onclick.colour_help_tools.mouse_painter','clickin');return false">MousePainter</a></li>
+			
+				<li><a href="http://www.dulux.co.uk/colours/samples/index.jsp" onclick="ns_onclick (this,'','nav.onclick.colours.testers','clickin');return false">Colour Testers</a></li>
+				<li><a href="http://www.dulux.co.uk/advice/paint_calculator/index.jsp" onclick="ns_onclick (this,'','nav.onclick.colour_help_tools.paint_calculator','clickin');return false">Paint calculator</a></li>
+				<li><a href="http://www.dulux.co.uk/studio/masterclasses/index.jsp" onclick="ns_onclick (this,'','nav.onclick.colour_help_tools.master_classes','clickin');return false">Master Classes</a></li>
+				<li><a href="http://www.dulux.co.uk/design_service/index.jsp" onclick="ns_onclick (this,'','nav.onclick.colour_help_tools.design_service','clickin');return false">Design Service</a></li>
+				<li><a href="http://www.dulux.co.uk/advice/decorators/index.jsp" onclick="ns_onclick (this,'','nav.onclick.colour_help_tools.select_decorators','clickin');return false">Select Decorators</a></li>
+			</ul>
+		</li>
+		<li id="nav-products">
+			<a href="http://www.dulux.co.uk/products/index.jsp" onclick="ns_onclick (this,'','nav.onclick.products.landing','clickin');return false">Products</a>
+			<ul>
+				<li><a href="http://www.dulux.co.uk/products/index.jsp" onclick="ns_onclick (this,'','nav.onclick.products.products','clickin');return false">Our products</a></li>
 			</ul>
 		</li>
 
 		<li id="nav-help">
-			<a href="/advice/index.jsp">Help &amp; advice</a>
+			<a href="/advice/index.jsp" onclick="ns_onclick (this,'','nav.onclick.advice.landing','clickin');return false">Help &amp; advice</a>
 			<ul>
-				<li><a href="http://www.dulux.co.uk/video/category_decorating_advice.jsp">Decorating advice</a></li>
-				<li><a href="http://www.dulux.co.uk/advice/questions/index.jsp">Your questions answered</a></li>
-				<li><a href="http://www.dulux.co.uk/advice/environment/index.jsp">Paint and the environment</a></li>
-				<li><a href="http://www.dulux.co.uk/advice/decorators/index.jsp">Find a decorator</a></li>
-				<li><a href="http://www.dulux.co.uk/design_service/index.jsp">Find an interior designer</a></li>
-				<li><a href="http://www.dulux.co.uk/advice/paint_calculator/index.jsp">Paint calculator</a></li>			
-				<li><a href="http://www.dulux.co.uk/advice/stockists/index.jsp">Find a stockist</a></li>
+				<li><a href="http://www.dulux.co.uk/advice/questions/index.jsp" onclick="ns_onclick (this,'','nav.onclick.advice.your_questions_answered','clickin');return false">Your questions answered</a></li>
+				<li><a href="http://www.dulux.co.uk/advice/environment/index.jsp" onclick="ns_onclick (this,'','nav.onclick.advice.paint_environment','clickin');return false">Paint and the environment</a></li>
+				<li><a href="http://www.dulux.co.uk/advice/decorators/index.jsp" onclick="ns_onclick (this,'','nav.onclick.advice.find_a_decorator','clickin');return false">Find a decorator</a></li>
+				<li><a href="http://www.dulux.co.uk/design_service/index.jsp" onclick="ns_onclick (this,'','nav.onclick.advice.find_a_designer','clickin');return false">Find an interior designer</a></li>
+				<li><a href="http://www.dulux.co.uk/advice/stockists/index.jsp" onclick="ns_onclick (this,'','nav.onclick.advice.find_stockist','clickin');return false">Find a stockist</a></li>
 			</ul>
 		</li>
 	</ul>
@@ -152,10 +173,11 @@ We use cookies to make your experience on our website as smooth and efficient as
 
 
 <div id="gFooter">
+	<p class="colophon"><a href="http://www.akzonobel.com" target="_blank"><img src="/web/images/canvas/colophon.gif" alt="A brand by AkzoNobel"></a></p>
 	<div class="fLinks">
 		<ul>
 			<li><a href="http://www.dulux.co.uk/advice/questions/index.jsp">Contact us</a></li>
-			<li><a href="http://www.icipaints.co.uk" target="_blank">ICI Trade Paints</a></li>
+			
 			<li><a href="http://www.dulux.co.uk/home/other_sites.jsp">Other AkzoNobel sites</a></li>
 			<li><a href="http://www.dulux.co.uk/home/accessibility.jsp">Accessibility statement</a></li>
 			<li><a href="http://www.dulux.co.uk/home/colour_accuracy.jsp">Colour accuracy</a></li>
@@ -164,9 +186,8 @@ We use cookies to make your experience on our website as smooth and efficient as
            		<li><a href="http://www.dulux.co.uk/sitemap.jsp">Sitemap</a></li>
 		</ul>
 	</div>
-	<div class="Copyright">© Copyright 2010 Imperial Chemical Industries Ltd </div>
+	<div class="Copyright">© Copyright 2011 Imperial Chemical Industries Ltd </div>
 </div>
-
 </div>
 <!-- START SCRAPBOOK -->
 
@@ -174,23 +195,80 @@ We use cookies to make your experience on our website as smooth and efficient as
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div id="scrapbook">
-<div class="fsProjects">
-  <div class="fsMenu"><ul><li><a href="https://www.dulux.co.uk/projects/index.jsp" class="menuLnk scta" onfocus="roll(this)" onblur="roll(this)" onmouseover="roll(this)" onmouseout="roll(this)">My projects <img src="/web/images/shared/arrow_0.gif" width="7" height="7" border="0" alt=""></a></li>
-<li><a href="http://www.dulux.co.uk/servlet/ScrapbookHandler?scrapaction=view" class="menuLnk scta" onfocus="roll(this)" onblur="roll(this)" onmouseover="roll(this)" onmouseout="roll(this)">My scrapbook <img src="/web/images/shared/arrow_0.gif" width="7" height="7" border="0" alt=""></a></li>
-<li><a href="http://www.dulux.co.uk/servlet/ShoppingListHandler?listaction=view" class="menuLnk scta" onfocus="roll(this)" onblur="roll(this)" onmouseover="roll(this)" onmouseout="roll(this)">My shopping list <img src="/web/images/shared/arrow_0.gif" width="7" height="7" border="0" alt=""></a></li></ul>
-</div></div>
-<div class="fsScrapbook" id="fsScrapbook">
-  <img style="visibility:hidden" width="16" height="16" alt="" id="indicator" src="/web/images/furniture/scrapbook/indicator_white.gif">
-  <div id="adding"></div>
-  <div id="message">Browse our <br>colour range &amp; drag<br>your favourites here</div>
-</div>
+	<div class="fsSocial">
+		<p>Find us on:</p>
+
+
+		<ul>
+			<li id="fsFacebook"><a href="http://int.sitestat.com/ici-paints/dulux-uk/s?clickout.facebook&amp;ns_type=clickout" target="_blank">Facebook</a></li>
+			<li id="fsYoutube"><a href="http://int.sitestat.com/ici-paints/dulux-uk/s?clickout.youtube&amp;ns_type=clickout" target="_blank">YouTube</a></li>
+		<ul>
+	</ul></ul></div>
+	<div class="fsProjects">
+		<div class="fsMenu">
+			<ul>
+				<li>
+					<a href="https://www.dulux.co.uk/projects/index.jsp" class="menuLnk scta" onfocus="roll(this)" onblur="roll(this)" onmouseover="roll(this)" onmouseout="roll(this)">My projects <img src="/web/images/shared/arrow_0.gif" width="7" height="7" border="0" alt=""></a>
+				</li>
+				<li>
+					<a href="http://www.dulux.co.uk/servlet/ScrapbookHandler?scrapaction=view" class="menuLnk scta" onfocus="roll(this)" onblur="roll(this)" onmouseover="roll(this)" onmouseout="roll(this)">My scrapbook <img src="/web/images/shared/arrow_0.gif" width="7" height="7" border="0" alt=""></a>
+				</li>
+				<li>
+					<a href="http://www.dulux.co.uk/servlet/ShoppingListHandler?listaction=view" class="menuLnk scta" onfocus="roll(this)" onblur="roll(this)" onmouseover="roll(this)" onmouseout="roll(this)">My shopping list <img src="/web/images/shared/arrow_0.gif" width="7" height="7" border="0" alt=""></a>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="fsScrapbook" id="fsScrapbook">
+		<img style="visibility:hidden" width="16" height="16" alt="" id="indicator" src="/web/images/furniture/scrapbook/indicator_white.gif">
+		<div id="adding"></div>
+		<div id="message">Browse our <br>colour range &amp; drag<br>your favourites here</div>
+	</div>
+
+		
+
+		
+		
+	
+		
+		<div id="fsTesterOrder">
+			<a href="http://int.sitestat.com/ici-paints/dulux-uk/s?clickout.own_a_colour&amp;ns_type=clickout" target="_blank" class="menuLnk scta" onfocus="roll(this)" onblur="roll(this)" onmouseover="roll(this)" onmouseout="roll(this)"><img src="/web/images/furniture/own_a_colour.gif" border="0" alt="Own a colour"></a>
+		</div>
+	
+	
 </div>
 <div id="dragColour" style="position:absolute;left:800px;top:5px;visibility:hidden;z-index:999; height:13px;width:31px;"></div>
 <div id="dragPicture" style="position:absolute;left:800px;top:5px;visibility:hidden;z-index:999; height:31px;width:31px;"></div>
 <div id="rollovers" style="position:absolute;left:800px;top:5px;z-index:4;"></div>
-<div id="otesters-dialog" style="visibility:hidden;"><div class="hd">&nbsp;</div><div class="bd" style="min-height:246px"><p>&nbsp;</p></div><div class="ft"></div></div>
-
+<div id="otesters-dialog" style="visibility:hidden;">
+	<div class="hd">&nbsp;</div>
+	<div class="bd" style="min-height:246px"><p>&nbsp;</p></div>
+	<div class="ft"></div>
+</div>
 <script type="text/javascript">
 	//make the scrapbook a target for pictures
 	var dd1 = new YAHOO.util.DDTarget("scrapbook","pictures");
