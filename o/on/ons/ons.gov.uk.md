@@ -1,42 +1,76 @@
-> *The following text is extracted and transformed from the ons.gov.uk privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629064939id_/http%3A//www.statistics.gov.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ons.gov.uk privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121175223id_/http%3A//www.ons.gov.uk/ons/site-information/information/privacy-statement/index.html) for the most accurate reproduction.*
 
-# National Statistics Online - privacy - copyright statement
+# Privacy
 
-**National Statistics** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: 
+##  **Office for National Statistics Privacy Statement**
 
-**Provision of E-mail Addresses**
+ONS has created this privacy statement in order to demonstrate our firm commitment to privacy. 
 
-National Statistics uses email addresses for the following reasons:
+The following is a description of what data is collected when you use this website and what it is used for.
 
-  1. To provide a customised view of the Web Site for each customer and, 
-  2. To gather statistical information regarding the use of the Web Site for internal use only.
+###  **User information**
+
+This website uses cookies and JavaScript tracking code to gather anonymous information about visitors' usage patterns, in order to improve the navigation of the site, the presentation of its content, and the quality of its services. 
+
+The information collected does not include personal details such as your name, age, telephone number, postal address or email address, nor does it allow personal identification of a user. 
+
+###  **Cookies**
+
+When we provide services, we want to make them easy, useful and reliable. 
+
+Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. 
+
+These include small files known as cookies. They cannot be used to identify you personally.
+
+These pieces of information are used to improve services for you through, for example:
+
+  * enabling a service to recognise your device so you don't have to give the same information several times during one task
+
+  * recognising that you may already have given a username and password so you don't need to do it for every web page requested
+
+  * measuring how many people are using services, so they can be made easier to use and there's enough capacity to ensure they are fast
 
 
 
-National Statistics will not disclose your e-mail address to any third parties without first obtaining your permission.
 
-**User information**
+You can manage these small files yourself and learn more about them through [Internet browser cookies - what they are and how to manage them](https://web.archive.org/ons/external-links/other-government-departments/directgov--internet-browser-cookies.html "Directgov: Internet browser cookies")
 
-This website uses cookies, 'web bugs' and Javascript tracking code to gather anonymous information about visitors' usage patterns, in order to improve the navigation of the site, the presentation of its content, and the quality of its services. The information collected does not include personal details such as your name, age, phone number, postal address or email address, nor does it allow personal identification of a user.
+#### Our use of cookies
 
-**Cookies**
+#####  **Important information about this list of cookies**
 
-When we provide services, we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally.
+This list may not always be complete. It will be regularly updated as further information is gathered from other companies and organisations that we work with.
 
-In the next few months ONS will be declaring all cookies as part of a new government initiative.
+#####  **Cookies for measuring use of services**
 
-We use cookies to help you find what you’re looking for and get you to your previously visited pages quickly. We also use them to help us gauge user traffic and make further site improvements.
+By understanding how people use our website, we can improve the information provided. We gather this data using the following companies:
 
-In-depth information about each cookie we use will follow. In the meantime further reading regarding cookies and their uses can be found at [**All About Cookies**](http://allaboutcookies.org/).
+######  **Webtrends Analytics**  
 
-**External Links**
+Name: BCSI-CS-5099528575ce4d5c   
+Typical content: randomly generated number   
+Expires: when user exits browser
 
-This site contains links to other sites. National Statistics is not responsible for the privacy practices or the content of such Web sites. 
+Name: WT_FPC   
+Typical content: randomly generated number   
+Expires: 10 years
 
-**Security**
+Name: notified-New_ONS_Notify_Page   
+Typical content: randomly generated number   
+Expires: 24 hours
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. 
+Further information on Webtrends Analytics and its cookies can be found by using the search functions in their [Webtrends support area](https://web.archive.org/ons/external-links/other/webtrends-support.html "Webtrends Support").
 
-**Contacting the Web Site**
+###  **External links**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [**contact us**](https://web.archive.org/email.asp).
+This site contains links to other sites. 
+
+ONS is not responsible for the privacy practices or the content of such websites.
+
+###  **Security**
+
+This website has security measures in place to protect the loss, misuse, and alteration of the information under our control.
+
+###  **Contacting the website**
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can [contact us](https://web.archive.org/ons/site-information/information/contact-us/index.html "Contact the Office for National Statistics").
