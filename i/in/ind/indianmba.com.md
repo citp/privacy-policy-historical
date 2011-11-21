@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianmba.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523061728id_/http%3A//www.indianmba.com/Privacy_Policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianmba.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121021448id_/http%3A//www.indianmba.com/Privacy_Policy/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
