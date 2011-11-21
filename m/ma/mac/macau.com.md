@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macau.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524052519id_/http%3A//www2.macau.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D79%26Itemid%3D316) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macau.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121233829id_/http%3A//www2.macau.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D79%26Itemid%3D316) for the most accurate reproduction.*
 
 # Macau.com
 
