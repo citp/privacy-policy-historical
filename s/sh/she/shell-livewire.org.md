@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shell-livewire.org privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523182916id_/http%3A//www.shell-livewire.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shell-livewire.org privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121231952id_/http%3A//www.shell-livewire.org/privacy) for the most accurate reproduction.*
 
 # Home - Privacy Policy
 
@@ -75,12 +75,3 @@ If at any time you would like to contact us about our privacy policy, you can do
 
    
 [  _enquiries@shell-livewire.org_ ](mailto:enquiries@shellspringboard.org)
-
-  * Websites (0)
-  * Discussions (10)
-  * Tools (0)
-  * Downloads (0)
-
-
-
-Sorry, no websites found.
