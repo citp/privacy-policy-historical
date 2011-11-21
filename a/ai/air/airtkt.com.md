@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airtkt.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523012454id_/http%3A//www.airtkt.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtkt.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121031622id_/http%3A//www.airtkt.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: AirTkt.com
 
@@ -17,7 +17,7 @@ Your privacy is very important to us at airtkt.com we have established and imple
 
 This privacy policy describes the practices that apply to our site, including, specifically, the information we collect about you, when and how we collect that information and what may happen to that information. We have prepared a detailed privacy policy because we believe you should know as much as possible about our practices so that you can make an informed decision about the extent of your use of our website. We use the information collected about our visitors to improve our site content and ease of use. 
 
-[Top  ](https://web.archive.org/web/20110523012454id_/http%3A//www.airtkt.com/privacy_policy.php#1)
+[Top  ](https://web.archive.org/web/20111121031622id_/http%3A//www.airtkt.com/privacy_policy.php#1)
 
   
 
@@ -44,7 +44,7 @@ The third - party advertising companies may also employ technology that is used 
 
 Most Internet browsers automatically accept cookies. However, you can instruct your browser, by editing its options, to stop accepting cookies or prompt you before accepting a cookie from the sites you visit. If you decide not to accept our cookies, your ability to use some features on our site may be impaired. 
 
-[Top  ](https://web.archive.org/web/20110523012454id_/http%3A//www.airtkt.com/privacy_policy.php#1)
+[Top  ](https://web.archive.org/web/20111121031622id_/http%3A//www.airtkt.com/privacy_policy.php#1)
 
   
 
@@ -69,7 +69,7 @@ c. We need your e-mail address to confirm each reservation you transact on our w
 
 In addition, as our business changes, we may buy or sell various assets. In the event all or a portion of the assets owned or controlled by Service Provider, its parent or any subsidiary or affiliated entity are sold, assigned, transferred or acquired by another company, the information from and about our website users may be among the transferred assets. 
 
-[Top  ](https://web.archive.org/web/20110523012454id_/http%3A//www.airtkt.com/privacy_policy.php#1)
+[Top  ](https://web.archive.org/web/20111121031622id_/http%3A//www.airtkt.com/privacy_policy.php#1)
 
   
 
@@ -90,7 +90,7 @@ When purchasing airline tickets or paying for hotel booking for someone other th
 
 We also advise all customers, please confirm your flights at least 24 hours before each departure by calling the airline directly. Airlines will occasionally change flight schedules and it is the travelers' responsibility to be aware of these changes.Click here for airline contact information. 
 
-[Top  ](https://web.archive.org/web/20110523012454id_/http%3A//www.airtkt.com/privacy_policy.php#1)
+[Top  ](https://web.archive.org/web/20111121031622id_/http%3A//www.airtkt.com/privacy_policy.php#1)
 
   
 
@@ -109,14 +109,14 @@ If you become a registered member of Airtkt.com, you must provide your name, e-m
 
 Most Important tip for buying tickets on our website is to become Member of (MY Eros Family). Our membership is free and members can get the Special Sale fare from our website and save more on their travel. Those special fares are only available to members only; our advice is please sign in as a member before you search. To become a registered member of airtkt.com, you must provide your name, e-mail address, country, member login password. 
 
-[Top  ](https://web.archive.org/web/20110523012454id_/http%3A//www.airtkt.com/privacy_policy.php#1)
+[Top  ](https://web.archive.org/web/20111121031622id_/http%3A//www.airtkt.com/privacy_policy.php#1)
 
   
 
 
 We do not send out any newsletters for special sales or online promotions. You may choose to subscribe to some that keep you up to date with the latest special travel deals and low airfares in the most rewarding online travel portal. 
 
-[Top  ](https://web.archive.org/web/20110523012454id_/http%3A//www.airtkt.com/privacy_policy.php#1)
+[Top  ](https://web.archive.org/web/20111121031622id_/http%3A//www.airtkt.com/privacy_policy.php#1)
 
   
 
@@ -152,4 +152,4 @@ If you have questions or concerns about our privacy policy (or your travel progr
 9.00 AM to 1.00 PM Saturday (Pacific Time)  
 Customer support 24x7 
 
-[Top  ](https://web.archive.org/web/20110523012454id_/http%3A//www.airtkt.com/privacy_policy.php#1)
+[Top  ](https://web.archive.org/web/20111121031622id_/http%3A//www.airtkt.com/privacy_policy.php#1)
