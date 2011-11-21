@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theaterseatstore.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523182853id_/http%3A//www.theaterseatstore.com/s.nl/c.880740/sc.23/category.6609/.f) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaterseatstore.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121022346id_/http%3A//www.theaterseatstore.com/s.nl/c.880740/sc.23/category.6609/.f) for the most accurate reproduction.*
 
 # Privacy Policy - Theater Seat Store
 
@@ -10,7 +10,7 @@ Neither TheaterSeatStore.com nor InteriorMark, LLC (its parent) will ever sell o
 
 **Collected Information**
 
-Through the use of order form, we collect your contact information, including, but not limited to, addresses, email addresses, phone numbers, and financial information. This information is used solely for our purposes and we may use it for sales, billing and contact purposes and may send information about your orders, about our company, and additional promotional material from some of our partners. We use your IP address to help prevent fraud, and diagnose server problems. We use cookies (including session cookies) to maintain integrity in your shopping cart as you travel from page to page on CurioCabinetSpot.com. Demographic and profile data is also collected and is used to tailor your experience and to show you what we think you might be interested in. This information is an asset of InteriorMark and may be transferred amongst the divisions for this purpose.
+Through the use of order form, we collect your contact information, including, but not limited to, addresses, email addresses, phone numbers, and financial information. This information is used solely for our purposes and we may use it for sales, billing and contact purposes and may send information about your orders, about our company, and additional promotional material from some of our partners. We use your IP address to help prevent fraud, and diagnose server problems. We use cookies (including session cookies) to maintain integrity in your shopping cart as you travel from page to page on TheaterSeatStore.com. Demographic and profile data is also collected and is used to tailor your experience and to show you what we think you might be interested in. This information is an asset of InteriorMark and may be transferred amongst the divisions for this purpose.
 
 **Additional Disclosures**
 
