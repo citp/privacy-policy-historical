@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uua.org privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523182659id_/http%3A//www.uua.org/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uua.org privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121021449id_/http%3A//www.uua.org/privacypolicy.shtml) for the most accurate reproduction.*
 
 # UUA: UUA Privacy and Data Security Policy
 
@@ -63,7 +63,7 @@ This policy addresses the collection, use, and safeguarding of data about indivi
   7. What about mailing lists and email addresses?  
  
     * UUA departments and Districts use postal addresses and email addresses to stay in contact with constituents for a variety of purposes, including periodical mailings, email newsletters, and fund raising appeals, for example.
-    * Mailing lists, but NOT email addresses, are occasionally shared with qualified organizations such as the UUSC and with Announced Candidates for President of the UUA under [strict guidelines](https://web.archive.org/leaders/dataservices/18489.shtml) for one-time use only. No one outside the UUA can get those mailing addresses for individual congregation members other than those in leadership positions without first obtaining the permission of each congregation to which those members belong.  
+    * Mailing lists, but NOT email addresses, are occasionally shared with qualified organizations such as the UUSC and with Announced Candidates for President of the UUA under [strict guidelines](https://web.archive.org/directory/data/18489.shtml) for one-time use only. No one outside the UUA can get those mailing addresses for individual congregation members other than those in leadership positions without first obtaining the permission of each congregation to which those members belong.  
  
   8. What do we use the data for?  
  
@@ -117,6 +117,6 @@ This policy addresses the collection, use, and safeguarding of data about indivi
 
 This work is made possible by the generosity of individual donors. Please consider [making a donation](http://www.kintera.org/site/lookup.asp?c=kkLRJ7MQKtH&b=5099485) today.
 
-Last updated on Tuesday, June 1, 2010. 
+Last updated on Thursday, June 2, 2011. 
 
 Sidebar Content, Page Navigation
