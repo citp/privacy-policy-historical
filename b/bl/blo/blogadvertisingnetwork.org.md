@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogadvertisingnetwork.org privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519082452id_/http%3A//blogadvertisingnetwork.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogadvertisingnetwork.org privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121123154id_/http%3A//blogadvertisingnetwork.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « blogadvertisingnetwork.org
+# Blog Advertising Network - Earn Money From Your Blog
 
 ## **Privacy Policy**
 
