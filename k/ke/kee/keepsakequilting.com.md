@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the keepsakequilting.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521085327id_/http%3A//www.keepsakequilting.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepsakequilting.com privacy policy that was archived on 2011-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111121231930id_/http%3A//www.keepsakequilting.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy and Security
 
-|  |  [](https://web.archive.org/web/20110521085327id_/http%3A//www.keepsakequilting.com/default.aspx)  
+|  |  [](https://web.archive.org/web/20111121231930id_/http%3A//www.keepsakequilting.com/default.aspx)  
 ---  
   
   * [Fabrics](http://www.keepsakequilting.com/fabrics.aspx)
@@ -24,6 +24,7 @@
       * [Animals](http://www.keepsakequilting.com/products/U3/U5/U5.L3/Animals.htm)
       * [Applique Textures](http://www.keepsakequilting.com/products/U3/U5/U5.L4/Applique-Textures.htm)
       * [Bali](http://www.keepsakequilting.com/products/U3/U5/U5.L5/Bali.htm)
+      * [Batik Color Spectrum](http://www.keepsakequilting.com/products/U3/U5/U5.L31/Batik%20Color%20Spectrum%20Medleys.htm)
       * [Circa 1930's](http://www.keepsakequilting.com/products/U3/U5/U5.L2/Circa-1930's.htm)
       * [1930's Color Palettes](http://www.keepsakequilting.com/products/U3/U5/U5.L20/1930%27s%20Color%20Palette%20Medleys.htm)
       * [Color Essentials](http://www.keepsakequilting.com/products/U3/U5/U5.L27/Color%20Essentials%20Medleys.htm)
@@ -43,7 +44,6 @@
       * [Bali Blenders](http://www.keepsakequilting.com/products/U3/U6/U6.L6/Bali-Blenders.htm)
       * [Color Collections](http://www.keepsakequilting.com/products/U3/U6/U6.L7/Color_Collections.htm)
       * [Hoffman Bali Pops](http://www.keepsakequilting.com/products/U3/U6/U16.L7/Hoffman_Bali_Pops.htm)
-      * [KQ Cupboard Collections](http://www.keepsakequilting.com/products/U3/U6/U6.L11/Keepsake%20Cupboard%20Collections.htm)
       * [Medley Collections](http://www.keepsakequilting.com/products/U3/U6/U6.L3/Medley-Collections.htm)
       * [Scrapbags](http://www.keepsakequilting.com/products/U6/U6.L8/Scrapbags.htm)
       * [Tonga Treats Strip Coll](http://www.keepsakequilting.com/products/U3/U6/U6.L10/Tonga%20Treats%20Strip%20Collections.htm)
@@ -58,9 +58,11 @@
       * [2 / 4 / 6 Inch Square Coll](http://www.keepsakequilting.com/products/U3/U16/U16.L5/2-4-6-Inch-Sq-Coll.htm)
   * [Kits](http://www.keepsakequilting.com/quilt-kits.aspx)
     * [Keepsake Quilt Kits](http://www.keepsakequilting.com/products/U8/U8.L1/Keepsake-Quilt-Kits.htm)
+    * [Bali Kits & Backings](http://www.keepsakequilting.com/products/U8/U8/U8.L7/Bali%20Kits%20and%20Backing.htm)
     * [Panel Kits](http://www.keepsakequilting.com/products/U8/U17.L1/Panel-Kits.htm)
     * [PatternPlus](http://www.keepsakequilting.com/products/U8/U8.L2/PatternPlus.htm)
     * [Wholecloth Kits](http://www.keepsakequilting.com/products/U8/U8.L6/Wholecloth-Kits.htm)
+    * [Block of the Month Kits](http://www.keepsakequilting.com/products/U8/U8.L3/Block-of-the-Month-Kits.htm)
   * [Books](http://www.keepsakequilting.com/products/U11/Books.htm)
     * [Americana Country Theme](http://www.keepsakequilting.com/products/U11/U11.L1/Americana-Country-Theme.htm)
     * [Animal](http://www.keepsakequilting.com/products/U11/U11.L2/Animal.htm)
