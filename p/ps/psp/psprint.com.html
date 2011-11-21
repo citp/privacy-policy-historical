@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the psprint.com privacy policy that was archived on 2011-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110524231807id_/http%3A//www.psprint.com/legal/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the psprint.com privacy policy that was archived on 2011-11-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111121083509id_/http%3A//www.psprint.com/legal/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Printing Services- Mailing, Die Cutting &amp; Foil Stamping</title>
@@ -45,7 +45,20 @@
                 var reloadurl;
                 var spathArray =currenturl.split(".com");
                 reloadurl =spathArray[0] + ".com" + '/searchresults.aspx?q=' + text;        
-                window.location.href = reloadurl;
+                //window.location.href = reloadurl;
+                
+                var chkurl = '/searchresults.aspx' + '?q=' + text;
+
+            var fakeLink = document.createElement("a");
+//            alert("results:" + typeof (fakeLink.click));
+            if (typeof (fakeLink.click) == 'undefined')
+                location.href = chkurl; // sends referrer in FF, not in IE 
+            else {
+                fakeLink.href = chkurl;
+                document.body.appendChild(fakeLink);
+                fakeLink.click(); // click() method defined in IE only 
+            }    
+            
             }
        }
        function EmptyText()
@@ -86,7 +99,21 @@
                 var reloadurl;
                 var spathArray =currenturl.split(".com");
                 reloadurl =spathArray[0] + ".com" + '/searchresults.aspx?q=' + text ;       
-                window.location.href = reloadurl;
+                
+                 var chkurl = '/searchresults.aspx' + '?q=' + text;
+
+            var fakeLink = document.createElement("a");
+//            alert("results:" + typeof (fakeLink.click));
+            if (typeof (fakeLink.click) == 'undefined')
+                location.href = chkurl; // sends referrer in FF, not in IE 
+            else {
+                fakeLink.href = chkurl;
+                document.body.appendChild(fakeLink);
+                fakeLink.click(); // click() method defined in IE only 
+            }    
+            
+                //window.location.href = reloadurl;
+                
                 return false;   
                        
                        
@@ -123,9 +150,24 @@
 		<td>
 			<div id="new-home-header">
 				<div style="height:64px">
-					<div id="new-home-header-logo"><a href="http://www.psprint.com" title="Print Custom Business Cards, Stickers, Postcards, Brochures with up to 60% off"><img src="/images/Logo-new.jpg" alt="PsPrint - Better Printing, Better Service, Guaranteed"></a></div>
+					<div id="new-home-header-logo">
+						<a href="http://www.psprint.com" title="PsPrint">
+					   <!-- 
+					 		<img  src="/images/Logo-new.jpg" alt="PsPrint - Better Printing, Better Service, Guaranteed" />
+					 		 -->
+					 		
+					 		    <img src="/images/Logo-new.jpg" alt="PsPrint - Better Printing, Better Service, Guaranteed">
+					 		
+					 		
+					 					 	
+					 	</a>
+					 	</div>
 					<div align="right" id="new-home-header-section-right">
-						<div><a href="http://www.psprint.com/about/index.asp" title="Online Digital Color Printing - PsPrint" class="copy_10px" target="_top">New to PsPrint?</a><span class="header-top-sec-sep">&nbsp;&nbsp;|&nbsp;&nbsp; </span><span class="copy_12_boldpx"><b>800-511-2009</b></span></div>
+						<div>
+						<a href="/about/index.asp" title="Online Digital Color Printing - PsPrint" class="copy_10px" target="_top">New to PsPrint ?</a>
+								
+								
+							<span class="header-top-sec-sep">&nbsp;&nbsp;|&nbsp;&nbsp; </span><span class="copy_12_boldpx"><b>800.511.2009</b></span></div>
 						<div id="header-mid-container">						
 							
 							<div class="login-container"><span><span class="login-colon">:&nbsp;</span>
@@ -139,13 +181,17 @@
 							</div>
 							<div id="sc-container">
 							<div class="fl">
-							<a href="http://www.psprint.com/shoppingcart/shoppingcart.asp?" rel="nofollow">
+							<a href="http://www.psprint.com/shoppingcart/shoppingcart.asp?&amp;scView=scView" rel="nofollow">
 							<img src="/images/cart-icon.jpg" class="cart-icon" alt="Shopping Cart" width="21" height="16" id="ShoppingCart"></a>
 							</div>
-								<div id="sc-text"><a class="cart-text" title="Shopping cart" href="http://www.psprint.com/shoppingcart/shoppingcart.asp?" rel="nofollow">Cart</a></div>
+								<div id="sc-text"><a class="cart-text" title="Shopping cart" href="http://www.psprint.com/shoppingcart/shoppingcart.asp?&amp;scView=scView" rel="nofollow">Cart</a></div>
 							</div>
 							<div id="search-container">
-								<div class="fl"><input id="TextBoxSearch" name="TextBoxSearch" onkeypress="return CheckEnterSearch(this,event);" style="font-size:11px;width:215px;height:20px;margin-right:4px;color:#888888;" runat="server" value="Search PsPrint" onclick="EmptyText()" type="text"></div>
+								<div class="fl">
+								
+									<input id="Text1" name="TextBoxSearch" onkeypress="return CheckEnterSearch(this,event);" style="font-size:11px;width:215px;height:20px;margin-right:4px;color:#888888;" runat="server" value="Search Psprint" onclick="EmptyText()" type="text">	
+										
+										</div>
 								<div class="fl chcp"><img cssclass="search-button" src="/images/Search-button.gif" id="searchButton" tooltip="Search" runat="server" alt="" onclick="LoadSearch()"></div>
 							</div>
 						</div>
@@ -173,9 +219,9 @@
 					</a>
 					<div class="end-online-help-header"></div>
 					<div class="fl deals-container">
-						<a class="txdnone chcp" href="http://www.psprint.com/printing-discount/" title="Deals">
+						<a class="txdnone chcp" href="/printing-discount/" title="Deals">
 							<div class="fl deals-section">DEALS</div>
-						</a><a class="txdnone chcp" href="http://www.psprint.com/samples1005/index.asp" title="Free Sample Kit">
+						</a><a class="txdnone chcp" href="/samples1005/index.asp" title="Free Sample Kit">
 							<div class="fl sample-kit-section">FREE SAMPLE KIT</div>
 						</a>
 					</div>
@@ -328,6 +374,7 @@
     <td width="8" rowspan="2" background="/SITE_GRAPHICS/HEADER_FOOTER/border_left.gif"><img src="/SITE_GRAPHICS/HEADER_FOOTER/border_left.gif" width="8" height="50"></td>
     <td align="left" bgcolor="eef5fe" class="legacy-asp-footer"><link href="/Skins/footer.psprinthome.css" rel="stylesheet" type="text/css">
 <script language="javascript" src="/js/footerdllscript.js" type="text/javascript"></script>
+              
 
           <div id="legacy-asp-footer">
             <div>
@@ -483,9 +530,12 @@
                 </a>
               </div>
               </div>
-          </div></td>
+          </div>
+          </td>
     <td width="8" rowspan="2" background="/SITE_GRAPHICS/HEADER_FOOTER/border_right.gif"><img src="/SITE_GRAPHICS/HEADER_FOOTER/border_right.gif" width="8" height="50"></td>
   </tr>
+  
+  
   <tr>    
     <td>      
        <div class="new-home-footer-copyright-main-home">
@@ -495,6 +545,7 @@
           </div>
     </td>    
   </tr> 
+  
   <tr>
     <td width="8" height="8" background="/SITE_GRAPHICS/HEADER_FOOTER/border_bottomleft.gif"></td>
     <td height="8" background="/SITE_GRAPHICS/HEADER_FOOTER/border_bottom.gif"></td>
@@ -628,6 +679,34 @@ _tag.dcsCollect();
 </noscript>
 <!-- END OF SmartSource Data Collector TAG -->
 <!-- Web Trends End -->
+
+
+<!-- SiteCatalyst code version: H.23.3.
+Copyright 1996-2010 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="/js/psprint_s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+	
+
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName ="PsP: legal"
+
+s.channel = "legal"
+//s.pageType = ""
+s.prop1 = "legal"
+s.prop2 = "legal"
+//s.prop3 = ""
+s.prop4 = "Category"
+//s.prop5 = ""
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code = s.t(); if (s_code) document.write(s_code)//-->
+</script>
+<script language="JavaScript" type="text/javascript"><!--
+if (navigator.appVersion.indexOf('MSIE') >= 0) document.write(unescape('%3C') + '\!-' + '-')
+//-->
+</script>
+<!-- End SiteCatalyst code version: H.23.3. -->
 
 
 
