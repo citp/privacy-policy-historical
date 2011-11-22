@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebizq.net privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525040818id_/http%3A//www.ebizq.net/membership/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebizq.net privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123005556id_/http%3A//www.ebizq.net/membership/privacy.html) for the most accurate reproduction.*
 
-# TechTarget, The IT Media ROI Experts
+# TechTarget Privacy Policy
 
 TechTarget, Inc. Privacy Policy
 
@@ -10,7 +10,7 @@ TechTarget, Inc. and its affiliates (collectively, “TechTarget”) are committ
 
 TechTarget has certified to the United States Department of Commerce that it adheres to the Safe Harbor framework developed by the United States Department of Commerce in coordination with the European Union. The European Union’s Directive on Data Protection prohibits the transfer of personal data to non-EU countries that do not provide an “adequate” level of privacy protection. Safe Harbor certification permits a “certified” entity to transfer personal data from the EU to the United States in accordance with the EU Directive. 
 
-[](https://safeharbor.export.gov/list.aspx) [TechTarget’s EU Safe Harbor Privacy Policy](https://web.archive.org/web/20110425154747id_/http://www.techtarget.com/downloads/clientresources/ttgt_eu_safeharbor_privacy_policy.pdf) describes the manner in which TechTarget adheres to the seven Safe Harbor principles of Notice, Choice, Onward Transfer, Access, Security, Data Integrity and Enforcement. 
+[](https://safeharbor.export.gov/list.aspx) [TechTarget’s EU Safe Harbor Privacy Policy](https://web.archive.org/web/20111125160014id_/http://www.techtarget.com/downloads/clientresources/ttgt_eu_safeharbor_privacy_policy.pdf) describes the manner in which TechTarget adheres to the seven Safe Harbor principles of Notice, Choice, Onward Transfer, Access, Security, Data Integrity and Enforcement. 
 
 Privacy Policy Details
 
@@ -37,7 +37,7 @@ In this Privacy Policy, we use the following key definitions (other terms are de
 “Content Sponsor” means a third party that owns or sponsors Content on the Site(s).  
 
 
-“Member” means a User that (i) registers on one of the Sites to become a member of that Site, (ii) subscribes to a newsletter on one of the Sites or (iii) registers to requests demos, brochures or other product information on or from a Site.   
+“Member” means a User that (i) registers on one of the Sites to become a member of that Site, (ii) subscribes to a newsletter on one of the Sites or (iii) registers to requests demos, brochures or other product information on or from a Site.  
 
 
 “Member Information” means information which you provide which may include, but shall not be limited to: your name and corporate title, the name of your company and the department in which you work, your industry group, country, zip code, telephone number, information about software or hardware your company is using, plans your company may have to purchase additional information technology, as well as (i) any Supplemental Information (as defined below) and (ii) Clickstream Data (as defined below) which the Company collects.   
@@ -96,18 +96,19 @@ What Information Do We Collect?
 Use and Disclosure of Information We Collect  
 
 
-**Member Information:** The Content Sponsors make the Sponsored Content available through TechTarget in return for receiving the Member Information of Users who request their Sponsored Content. Accordingly, if you request Sponsored Content, TechTarget may disclose your Member Information to the Content Sponsor, as set forth in more detail below. **If you do not want this information disclosed to a Content Sponsor, do not request Sponsored Content.** TechTarget’s customer agreements with the Content Sponsors: (a) provide that the Content Sponsor may use this information to contact you via common methods of communication; and (b) prohibit disclosure of the information to any third party other than agents of the Content Sponsor for the permitted marketing purposes set forth above. You should contact the Content Sponsor directly if you have any questions about their use of this information. We use Member Information to deliver email newsletters on topics of interest to Members who have requested those services. We may also send general promotional and marketing materials to our Members, including marketing research surveys. TechTarget, in some cases utilizing a third party provider, deploys surveys and incentives. We use Member Information in aggregated form to understand our customer base and to market our services to our customers.  
+**Member Information:** The Content Sponsors make the Sponsored Content available through TechTarget in return for receiving the Member Information of Users who request their Sponsored Content, as well as, in certain cases, Clickstream Data from Users. Accordingly, if you request Sponsored Content, TechTarget may disclose your Member Information to the Content Sponsor, as set forth in more detail below. **If you do not want this information disclosed to a Content Sponsor, do not request Sponsored Content**. TechTarget’s customer agreements with the Content Sponsors: (a) provide that the Content Sponsor may use this information to contact you via common methods of communication; and (b) prohibit disclosure of the information to any third party other than agents of the Content Sponsor for the permitted marketing purposes set forth above. You should contact the Content Sponsor directly if you have any questions about their use of this information. We use Member Information to deliver email newsletters on topics of interest to Members who have requested those services. We may also send general promotional and marketing materials to our Members, including marketing research surveys. TechTarget, in some cases utilizing a third party provider, deploys surveys and incentives. We use Member Information in aggregated form to understand our customer base and to market our services to our customers.  
 
 
 Except as set forth in this Privacy Policy, TechTarget will not disclose Member Information to any third parties, unless we are required to do so by law, regulation or court order.  
 
 
-**Clickstream Data:** TechTarget uses Cookies to link Members to their Member Information, which allows our system to confirm a user's identity on the Sites and save and recognize Member log-in information so that Members do not have to log in each time they visit the Sites or request Sponsored Content. Also, TechTarget uses Cookies to collect Clickstream Data on the Sites. We use Tracking Technologies for a variety of purposes, including, but not limited to:
+**Clickstream Data:** TechTarget uses Cookies to collect Clickstream Data on the Sites. TechTarget uses Cookies to link Members and their activity to their Member Information. Linking Members to their Member Information allows our system to confirm a user's identity on the Sites and to save and recognize Member log-in information so that Members do not have to log in each time they visit the Sites or request Sponsored Content. We use Tracking Technologies for a variety of purposes, including, but not limited to:
 
   * Help us recognize your computer as a previous visitor, and save and remember any preferences that may have been set while you were visiting one of our Web Sites or a Co-Branded Site.
   * Track, accumulate and report information on our Sites and Content usage to our partners and customers so that they can measure the effectiveness of advertisements and content viewed on the Web Sites;
   * Help us customize the content and advertisements you are shown while visiting our Web Sites and potentially other web sites online; 
   * Determine which features Users like best to help us improve our Content and Sites, personalize your user experience, and measure overall Site effectiveness; and
+  * Disclose Activity Intelligence information as detailed below.
   * Disclose aggregated information as detailed below.
 
 
@@ -116,7 +117,10 @@ Except as set forth in this Privacy Policy, TechTarget will not disclose Member 
 **Co-Branded Websites:** Member Information collected when you register or log in on a Co-Branded Site, and Clickstream Data collected when on the Co-Branded Site, are generally available both to TechTarget and that partner. However, each partner's use of that Member Information is governed by that partner's privacy policy and may be used for follow up by telephone, email or other common methods. You should contact these partners directly if you have any questions about their use of this information.   
 
 
-**Disclosure of Aggregated Information:** We provide summary reports to our Content Sponsors, based on our analysis of Clickstream Data, which may include a description of your level of activity on our Sites related to a Sponsor’s Content or campaign. An example of the type of information included in a summary report is "3000 people looked at your white paper this week and, of those 3,000 people, 60% clicked through to read the full white paper." This information is aggregated and does not disclose any Member Information to the Content Sponsors. TechTarget also discloses aggregated user statistics (for example, 25% of our users are interested in Networking) in order to describe our services to prospective customers and partners and other third parties, and for other lawful purposes.  
+**Disclosure of Activity Intelligence Information:** Certain Content Sponsors receive or are granted access to reports that may include your Member Information linked to Clickstream Data derived from your activity on the Sites.  
+
+
+**Disclosure of Aggregated Information:** We provide summary reports to our Content Sponsors, based on our analysis of Clickstream Data, which may include a description of your level of activity on our Sites related to a Sponsor’s Content or campaign, as well as activity related to editorial and vendor content. An example of the type of information included in a summary report is "3000 people looked at your white paper this week and, of those 3,000 people, 60% clicked through to read the full white paper." This information is aggregated and does not disclose any Member Information to the Content Sponsors. TechTarget also discloses aggregated user statistics (for example, 25% of our users are interested in Networking) in order to describe our services to prospective customers and partners and other third parties, and for other lawful purposes.  
 
 
 **TechTarget Event Registration Information:** When you register to attend a vendor-sponsored TechTarget in person event (including Conferences, Custom Media events and Editorial events), your contact information is used to confirm registrations and send product information and promotional material from TechTarget and the event sponsors (information may also be used to compile broad demographic information). TechTarget may disclose your Event Registration Information to those vendors sponsoring the event. Such vendor’s use of your Event Registration Information is governed by that vendor’s privacy policy.   
