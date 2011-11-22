@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flutterscape.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523061844id_/http%3A//www.flutterscape.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flutterscape.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122161402id_/http%3A//www.flutterscape.com/index/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Japan Shopping at FlutterScape
 
@@ -31,7 +31,7 @@ netprice Ltd. (“the Company”) has established the following Privacy Policy. 
 
 #### 1.Definition of personal information
 
-As used in this Privacy Policy, personal information denotes information that can be used to identify an individual, either on its own or in combination with other information held by the Company. Personal information includes member IDs, name, genders, email address, telephone number, mailing address, nickname, pen name, birth date, occupation, job title, credit card information, and purchase history. 
+As used in this Privacy Policy, personal information denotes information that can be used to identify an individual, either on its own or in combination with other information held by the Company. Personal information includes member IDs, name, genders, email address, telephone number, mailing address, username, pen name, birth date, occupation, job title, credit card information, and purchase history. 
 
 #### 2.Purposes of use of personal information
 
