@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adsfarm.co.uk privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524053820id_/http%3A//www.adsfarm.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsfarm.co.uk privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122021506id_/http%3A//www.adsfarm.co.uk/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy, Free Ads UK
 
 ## Privacy
 
@@ -53,4 +53,4 @@ To protect your privacy and security, we will also take some steps to verify you
 
 ###  How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please[ contact us](http://www.adsfarm.co.uk/contact.php) at **info [at] adsfarm [dot] co [dot] uk**.
+Should you have other questions or concerns about these privacy policies, please[ contact us](http://www.adsfarm.co.uk/page/contact.html) at **info [at] adsfarm [dot] co [dot] uk**.
