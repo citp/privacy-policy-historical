@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixpackfactory.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523081338id_/http%3A//www.sixpackfactory.com/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixpackfactory.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122124658id_/http%3A//www.sixpackfactory.com/general/privacy-policy) for the most accurate reproduction.*
 
 # Abs Nutrition, Abs Workout Diet, Diet For Six Pack Abs | SixPackFactory.com
 
