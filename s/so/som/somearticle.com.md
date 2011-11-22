@@ -1,72 +1,38 @@
-> *The following text is extracted and transformed from the somearticle.com privacy policy that was archived on 2008-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080402005430id_/http%3A//www.somearticle.com/01privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somearticle.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122072956id_/http%3A//www.somearticle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy | Some Article - Your Article Submission Website Directory
 
-  | 
+SomeArticle.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.
 
-**Somearticle Privacy Policy**  
-[Last Updated jun 14, 2007]
+**How we gather information from users**
 
-Your privacy is important to Somearticle.com and we take our responsibility seriously to protect the data that you provide us in the normal course of interacting with our site. Therefore, we have developed the comprehensive privacy policy below to help you better understand what data we collect and how we use it.
+How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, SomeArticle.com also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site’s features according to your preferences.
 
-**Customer and Membership Information:**  
-Customer account information and Membership account information that you provide (such as your email address, address, phone number, passwords, credit card or payment information, etc.) is held in strict confidence and will not be sold or rented to 3rd parties, but will be used for the purposes of providing services described on this website.
+**What we do with the information we collect**
 
-**Email Privacy:**
+Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.
 
-  * **Email Newsletter & Email Alert Subscription Forms**  
-Somearticle.com uses subscription forms for individuals to request information by subscribing to email newsletters and/or email alerts based on their categories of interest. We collect contact information (like your name and/or email address amoung other data) to provide you with the information that you requested. We do not sell or rent email addresses to any 3rd parties.
-  * **Confirm OPT-IN**  
-We provide confirm opt-in opportunities for any email list(s) that you choose to receive. We use your email address to confirm your subscription and validity of the provided email address. Your reply to this email is necessary for completing your subscription to any Somearticle email list or newsletter. You can change the email address that you have subscribed by using our Manage Your Subscriptions form or you can unsubscribe with the email address you're currently subscribed with and then subscribe again with a new email address.
-  * **Unsubscribe**  
-You can unsubscribe/opt-out for any or all email lists that you previously chose to receive. Emails sent to you includes the information necessary for removal from the list.
-  * **User/Member/Client Communications**  
-When you send email or other communications to us, we may retain those communications in order to process your requests and improve the quality of our services.
-  * **Transactional Relationships**  
-Customers, Members, and/or Users are considered to be engaged in a transactional relationship with Somearticle.comand as such, we may need to email or communicate with you from time to time in order to deliver our services. 
+Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
 
+We may use Personally Identifiable Information collected on www.SomeArticle.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by www.SomeArticle.com and other topics we think you might find of interest.
 
+Personally Identifiable Information collected by SomeArticle.com may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.
 
-**Personal Information and Other Data We Collect:**
+**Affiliated sites, linked sites and advertisements**
 
-  * Somearticle collects personal information such as your name, email address, postal address, phone numbers, etc. when you register for various services we provide (example: Creating a membership account). We may combine this data with other Somearticle services or 3rd party data to provide a better user experience for you.
-  * Somearticle uses cookies (a piece of data stored on the user's computer) and other technologies to provide you with a quality experience and to learn how you use our services so that we can continually innovate to improve our services.
-  * Somearticle servers may record/log information automatically any time you interact with our site or use any of our products & services. This may include information such as your IP address, URL, browser type, domain name(s), access dates & times, operating system, country of origin, language type, page views and user sessions to help diagnose problems and/or deliver our services to you. 
+SomeArticle.com expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a www.SomeArticle.com page, certain content that is actually created or hosted by a third party. Also, through SomeArticle.com you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. SomeArticle.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.
 
+While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. SomeArticle.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
 
+You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of SomeArticle.com and this policy.
 
-**Uses:**
+**Children**
 
-  * We may use the personal information you provided to provide the services you requested and for our own research and analysis to operate and improve on the services and products that we deliver, as well as develop new services and products.
-  * We may share the aggregated non-personal information with 3rd parties outside of Somearticle.com.
-  * When we use 3rd parties to assist us in the processing of your personal information (example: shopping cart service provider), we require that they comply with our Privacy Policies, confidentiality and security measures.
-  * We may share information with 3rd parties in limited circumstances when complying with legal process, preventing suspected fraud or imminent harm, and ensuring the security of our network and services. 
-  * We may use your postal and electronic address to send you items and/or information relevant to your use of our services.
-  * We may conduct member and/or user survey's in order to improve our services. 
+SomeArticle.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe SomeArticle.com has any information from or about anyone under 13, please contact us at the address listed below.
 
+**Changes to this Policy**
 
+SomeArticle.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
-**Links:**
+  
 
-  * This site contains links to other 3rd party sites and these sites are not covered under our privacy policy. We have made attempts to make sure these links are currently active but do not assure any responsibility for the content of these websites. We highly recommend that you review the privacy policies of these websites as well.
-  * Somearticle may present links in a way that allows us to track whether these links have been followed. We use this information to improve the quality of our services. 
-
-
-
-**Advertising Specific Terms & Conditions:**  
-We use a combination of internal and 3rd party advertising companies to serve our ads on our website and in our emails, based on personal information. To track the effectiveness of the ads and provide a better user experience, these companies use information about your web visits to our website to serve relevant ads. Information collected and used may include IP address, geographical location, their cookie and and historical data previously collected. We will not provide any personal information to our advertisers when you interact with or view a targeted ad, however, by viewing or interacting with an ad, you are consenting to the possibility that the advertiser will assume you meet the targeting criteria used to display the ad(s).
-
-**Security Management and Data Security:**  
-The Somearticle.com web site has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control, including management procedures and specialized training for those who work directly with our databases. We take measures to protect against the unauthorized access of personal data, including physical security considerations of the stored data. We restrict access to personal data to Somearticle.comem ployees, contractors and agents who need to know that information in order to operate, innovate, and deliver our services.
-
-**Somearticle Affiliate Partner Information:**  
-All Somearticle affiliate information including address, phone number, email addresses, and tax id numbers are held in strict confidence. This information is collected for the purpose of generating commission payments, meeting United States federal tax laws, and managing our services.
-
-**Notification of Changes:**  
-From time to time, Somearticle.comwill occasionally update our Privacy Policy. If there are any material changes to how we use your personal information, we will notify via email and provide you the opportunity to opt-out prior to any substantial change that has been taken. However, if you have opted out of all communication from Somearticle.comyou will not be contacted, nor will your personal information be used in this new manner. Somearticle.comencourages you to periodically review our privacy policy to be informed of how we are committed to protecting your privacy.
-
-**Your Choice:**  
-You can decline to submit personal information for any of our services, in which case Somearticle.com may not be able to provide services to you.
-
-**Legal Disclaimer:**  
-Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our web site or to establish or exercise our legal rights or defend against legal claims.
