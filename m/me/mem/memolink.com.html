@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the memolink.com privacy policy that was archived on 2011-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110605085449id_/http%3A//www.memolink.com/index.cfm/beacon/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the memolink.com privacy policy that was archived on 2011-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111122042305id_/http%3A//www.memolink.com/index.cfm/beacon/privacy_policy) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -52,10 +52,10 @@
 	}
 
 	function disableButton(submitTypImage) {
-		if (search_form.keywords.value == '')
+		if (search_form.keywords.value == '' || search_form.keywords.value == 'Search Products or Stores')
 		{  return false; }
-		submitTypImage.disabled = true;
-		submitTypImage.form.submit();
+		else
+		{submitTypImage.form.submit(); }
 	}
 
 
@@ -64,9 +64,15 @@ function stopRKey(evt) {
 	var node = (evt.target) ? evt.target : ((evt.srcElement) ? evt.srcElement : null);
 	if ((evt.keyCode == 13) && (node.type=="text")) { return false; }
 	}
-
-
-
+	
+function checkOnFocus(formField) {
+	if(formField.value == formField.defaultValue){
+		formField.value = '';
+	} else if (formField.value == '')
+	{	
+		formField.value = formField.defaultValue;
+	}
+}	
 </script><style type="text/css">
 .submenu{display: none}
 </style>
@@ -417,7 +423,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 				<a href="http://www.memolink.com/" title="memolink.com Home"><img src="/images/standard/logo.gif" border="0"></a>
 			
 		</td>
-		<td class="promo_cell"> <a href="http://www.memolink.com/index.cfm/beacon/toolbar_install/display_method_id/6/"><img src="/images/content/ToolbarBanner392x72_nocoupons.jpg" border="0"></a><br> </td>
+		<td class="promo_cell"> <a href="http://www.memolink.com/index.cfm/beacon/earn_points.shopping/offer/1800Flowers.com-646884/display_method_id/6/"><img src="/images/content/1800Flowers_doubleDayBanner.jpg" border="0"></a><br> </td>
 		<td valign="top" class="user_info_cell">
 			
 		</td>
@@ -462,18 +468,11 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 	<tr>
 		<td class="top_bar_cell" width="35%">
 			<table cellpadding="2" cellspacing="0" border="0">
-				<form action="/index.cfm/beacon/earn_points.search/" method="GET" name="search_form" onsubmit="if (search_form.keywords.value == ''){ alert('Please enter a search term'); return false; }  document.onkeypress = stopRKey; "></form>
+				<form action="/index.cfm/beacon/earn_points.search/design/search/" method="GET" name="search_form" onsubmit="if (search_form.keywords.value == 'Search Products or Stores'){ alert('Please enter a search term'); return false; } document.onkeypress = stopRKey; "></form>
 				<tbody><tr>
 					<td style="font-weight: bold; color: #FFFFFF; font-size: 12px;"><img src="/images/text_merch_search.gif"></td>
-					<td valign="bottom">
-						<select name="search_category" class="body">
-							<option value="1">Store&nbsp;&nbsp;</option>
-							<option value="3">eBay&nbsp;&nbsp;</option>
-							<option value="0">Product&nbsp;&nbsp;</option>
-							<option value="2">Reward&nbsp;&nbsp;</option>
-						</select>
-					</td>
-					<td><input type="text" name="keywords" style="border: 1px solid #999999; width: 130px;" value="" maxlength="255"></td>
+					
+					<td><input type="text" name="keywords" style="border: 1px solid #999999; width: 175px;" value="Search Products or Stores" maxlength="255" onfocus="checkOnFocus(this)" onblur="checkOnFocus(this)"></td>
 					<td><input type="image" src="/images/go_btn.gif" onclick="disableButton(this)" name="Button1" border="0"></td>
 				</tr>
 					<input type="Hidden" name="original_search" value="1">
@@ -512,6 +511,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646411">
+
+								1-800-Got-Junk
+
+						</option>
+					
 						<option value="638127">
 
 								1-800-PetMeds
@@ -536,7 +541,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="644900">
+						<option value="646884">
 
 								1800Flowers.com
 
@@ -566,6 +571,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="42739">
+
+								3balls Golf
+
+						</option>
+					
 						<option value="644813">
 
 								3D Laser Gifts
@@ -584,7 +595,13 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="643361">
+						<option value="645774">
+
+								4Imprint Canada
+
+						</option>
+					
+						<option value="647083">
 
 								4inkjets
 
@@ -608,12 +625,6 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="54821">
-
-								7 For All Mankind
-
-						</option>
-					
 						<option value="638206">
 
 								77kids
@@ -632,9 +643,21 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="645913">
+
+								Ab Rocket
+
+						</option>
+					
 						<option value="641974">
 
 								Abacus 24-7
+
+						</option>
+					
+						<option value="646413">
+
+								ABCmouse.com
 
 						</option>
 					
@@ -674,13 +697,13 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="645380">
+						<option value="646179">
 
 								Account Now - Gold Visa
 
 						</option>
 					
-						<option value="645379">
+						<option value="646180">
 
 								Account Now Prepaid Visa
 
@@ -698,9 +721,21 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646656">
+
+								AdditionElle
+
+						</option>
+					
 						<option value="14311">
 
 								Adidas
+
+						</option>
+					
+						<option value="646368">
+
+								Admired Opinions
 
 						</option>
 					
@@ -740,9 +775,21 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646864">
+
+								Air &amp; Water
+
+						</option>
+					
 						<option value="635466">
 
 								Air France
+
+						</option>
+					
+						<option value="645798">
+
+								Air France Canada
 
 						</option>
 					
@@ -770,6 +817,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646518">
+
+								All About Dance
+
+						</option>
+					
 						<option value="645195">
 
 								AllergySuperStore.com
@@ -785,12 +838,6 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="641151">
 
 								AllPosters.com
-
-						</option>
-					
-						<option value="50123">
-
-								AllState Motor Club 
 
 						</option>
 					
@@ -812,9 +859,9 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="643130">
+						<option value="646106">
 
-								American Express Gift Car
+								American Express Travel
 
 						</option>
 					
@@ -833,6 +880,18 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="645039">
 
 								Angie's List
+
+						</option>
+					
+						<option value="645035">
+
+								Ann Taylor
+
+						</option>
+					
+						<option value="28722">
+
+								Ann Taylor Loft
 
 						</option>
 					
@@ -860,15 +919,27 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646989">
+
+								Apple iPad 2
+
+						</option>
+					
 						<option value="44435">
 
 								Apple Store
 
 						</option>
 					
-						<option value="645199">
+						<option value="645805">
 
-								Aqua Globes
+								Apple Store Canada
+
+						</option>
+					
+						<option value="645889">
+
+								Appleseeds
 
 						</option>
 					
@@ -887,12 +958,6 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="645314">
 
 								ArcaMax - Recipes
-
-						</option>
-					
-						<option value="43104">
-
-								Arden B
 
 						</option>
 					
@@ -980,9 +1045,21 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646166">
+
+								Avis Rent-a-Car
+
+						</option>
+					
 						<option value="645605">
 
 								Avon
+
+						</option>
+					
+						<option value="645775">
+
+								Avon Canada
 
 						</option>
 					
@@ -998,7 +1075,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="14319">
+						<option value="646169">
 
 								Baby Age
 
@@ -1034,6 +1111,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646408">
+
+								Back to School Survey
+
+						</option>
+					
 						<option value="32021">
 
 								Backcountry.com
@@ -1046,9 +1129,21 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="643790">
+						<option value="646869">
 
 								BagsBuy.com
+
+						</option>
+					
+						<option value="646810">
+
+								Bake Pops
+
+						</option>
+					
+						<option value="646190">
+
+								Bally Total Fitness
 
 						</option>
 					
@@ -1058,7 +1153,13 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="645625">
+						<option value="645837">
+
+								Banana Republic Canada
+
+						</option>
+					
+						<option value="647030">
 
 								Bare Lifts
 
@@ -1076,13 +1177,13 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="645626">
+						<option value="645978">
 
 								Bark Off
 
 						</option>
 					
-						<option value="635728">
+						<option value="646966">
 
 								Barnes &amp; Noble
 
@@ -1091,12 +1192,6 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="643973">
 
 								Barney's New York
-
-						</option>
-					
-						<option value="21470">
-
-								Baseball Savings
 
 						</option>
 					
@@ -1154,13 +1249,19 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646860">
+
+								BedBathStore.com
+
+						</option>
+					
 						<option value="644905">
 
 								BeddingStyle.com 
 
 						</option>
 					
-						<option value="644450">
+						<option value="646845">
 
 								BedHead Pajamas
 
@@ -1172,15 +1273,15 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="641435">
-
-								Ben Sherman
-
-						</option>
-					
 						<option value="54121">
 
 								Benefit Cosmetics
+
+						</option>
+					
+						<option value="646230">
+
+								Bergners
 
 						</option>
 					
@@ -1238,9 +1339,21 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646252">
+
+								BiggerBooks.com
+
+						</option>
+					
 						<option value="35582">
 
 								BikeBandit.com
+
+						</option>
+					
+						<option value="647016">
+
+								Billy Blanks
 
 						</option>
 					
@@ -1262,6 +1375,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646167">
+
+								BJ's Wholesale Club
+
+						</option>
+					
 						<option value="637630">
 
 								Blair
@@ -1271,6 +1390,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="634842">
 
 								Bliss 
+
+						</option>
+					
+						<option value="647078">
+
+								Blockbuster Online
 
 						</option>
 					
@@ -1298,6 +1423,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="645932">
+
+								Bobby Jones
+
+						</option>
+					
 						<option value="641797">
 
 								Boden
@@ -1310,15 +1441,33 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="645795">
+
+								Body Shop Canada, The
+
+						</option>
+					
+						<option value="19134">
+
+								Body Shop, The
+
+						</option>
+					
 						<option value="642043">
 
 								Bodybuilding.com
 
 						</option>
 					
-						<option value="644843">
+						<option value="646220">
 
-								Bonobos
+								Bon-Ton Department Stores
+
+						</option>
+					
+						<option value="646526">
+
+								Bonktown
 
 						</option>
 					
@@ -1352,18 +1501,6 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="636212">
-
-								Borders
-
-						</option>
-					
-						<option value="50462">
-
-								Borders Gift Card
-
-						</option>
-					
 						<option value="1724">
 
 								Boscov's 
@@ -1382,9 +1519,21 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646233">
+
+								Bostonstore.com
+
+						</option>
+					
 						<option value="643115">
 
 								Botanic Choice
+
+						</option>
+					
+						<option value="33776">
+
+								Bowflex
 
 						</option>
 					
@@ -1400,9 +1549,21 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="645880">
+
+								Brazilian Keratin Hair Tr
+
+						</option>
+					
 						<option value="22803">
 
 								Brooks Brothers
+
+						</option>
+					
+						<option value="646260">
+
+								Brooks Running 
 
 						</option>
 					
@@ -1430,9 +1591,15 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="645504">
+						<option value="646968">
 
 								Build-A-Bear Workshop
+
+						</option>
+					
+						<option value="647055">
+
+								Burpee
 
 						</option>
 					
@@ -1442,13 +1609,25 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="643592">
+						<option value="646972">
 
 								Buy.com
 
 						</option>
 					
-						<option value="636947">
+						<option value="645776">
+
+								Buy.com Canada
+
+						</option>
+					
+						<option value="646485">
+
+								BuyBuy Baby
+
+						</option>
+					
+						<option value="646730">
 
 								BuyCostumes.com
 
@@ -1466,6 +1645,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646736">
+
+								Cafe Press
+
+						</option>
+					
 						<option value="50074">
 
 								Calendars.com
@@ -1475,24 +1660,6 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="38438">
 
 								Calumet Photographic Equi
-
-						</option>
-					
-						<option value="641808">
-
-								Calvin Klein
-
-						</option>
-					
-						<option value="641811">
-
-								Calvin Klein Underwear
-
-						</option>
-					
-						<option value="643434">
-
-								Cambria Cove
 
 						</option>
 					
@@ -1508,7 +1675,13 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="54025">
+						<option value="646638">
+
+								Cancer Defeated
+
+						</option>
+					
+						<option value="646098">
 
 								Candlewood Suites
 
@@ -1562,21 +1735,27 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646221">
+
+								Carson's
+
+						</option>
+					
 						<option value="645751">
 
 								Carter's
 
 						</option>
 					
-						<option value="20874">
-
-								Casual Male XL
-
-						</option>
-					
 						<option value="645120">
 
 								Catherines
+
+						</option>
+					
+						<option value="646637">
+
+								CB2 Canada
 
 						</option>
 					
@@ -1616,9 +1795,27 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="46690">
+						<option value="646528">
+
+								ChainLove
+
+						</option>
+					
+						<option value="646854">
 
 								Champion Catalog
+
+						</option>
+					
+						<option value="646237">
+
+								Charlotte Russe
+
+						</option>
+					
+						<option value="645900">
+
+								CheapOAir
 
 						</option>
 					
@@ -1724,7 +1921,13 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="645045">
+						<option value="645933">
+
+								Christopher Blue
+
+						</option>
+					
+						<option value="646965">
 
 								Circuit City
 
@@ -1766,6 +1969,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646042">
+
+								Click Fun Casino
+
+						</option>
+					
 						<option value="643511">
 
 								Clickinks.com
@@ -1784,7 +1993,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="645405">
+						<option value="646871">
 
 								Clothesbuy
 
@@ -1838,6 +2047,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646176">
+
+								Columbia House TV on DVD
+
+						</option>
+					
 						<option value="641860">
 
 								Columbia Sportswear
@@ -1874,6 +2089,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646747">
+
+								Consumer Opinion Campaign
+
+						</option>
+					
 						<option value="638759">
 
 								Container Store, The
@@ -1883,12 +2104,6 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="637432">
 
 								CookiesKids.com
-
-						</option>
-					
-						<option value="645172">
-
-								Cooking Club
 
 						</option>
 					
@@ -1910,15 +2125,15 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="644715">
-
-								CortiSlim
-
-						</option>
-					
 						<option value="645632">
 
 								Cortislim
+
+						</option>
+					
+						<option value="644715">
+
+								CortiSlim
 
 						</option>
 					
@@ -1940,7 +2155,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="636543">
+						<option value="646604">
 
 								Costume Discounters
 
@@ -1970,9 +2185,27 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646668">
+
+								Crafter's Choice Club
+
+						</option>
+					
 						<option value="641310">
 
 								Crate &amp; Barrel
+
+						</option>
+					
+						<option value="646994">
+
+								Crate and Barrel Canada
+
+						</option>
+					
+						<option value="645979">
+
+								Crazy Critters
 
 						</option>
 					
@@ -1982,13 +2215,19 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="645777">
+
+								Crocs Canada
+
+						</option>
+					
 						<option value="639699">
 
 								Crocs.com
 
 						</option>
 					
-						<option value="54009">
+						<option value="646097">
 
 								Crowne Plaza Hotels &amp; Res
 
@@ -2012,12 +2251,6 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="645306">
-
-								Cucumber Vine
-
-						</option>
-					
 						<option value="636449">
 
 								Current Catalog
@@ -2036,6 +2269,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646888">
+
+								Dale and Thomas Popcorn
+
+						</option>
+					
 						<option value="46262">
 
 								Dancing Deer Baking Compa
@@ -2045,6 +2284,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="26750">
 
 								Danskin
+
+						</option>
+					
+						<option value="646781">
+
+								Darphin
 
 						</option>
 					
@@ -2060,15 +2305,21 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="644928">
+						<option value="646642">
 
 								Day-Timer
 
 						</option>
 					
-						<option value="645494">
+						<option value="646118">
 
-								DealOn
+								Deal of the Day Canada
+
+						</option>
+					
+						<option value="645901">
+
+								Debt Goal
 
 						</option>
 					
@@ -2078,7 +2329,13 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="641184">
+						<option value="645778">
+
+								Dell Canada
+
+						</option>
+					
+						<option value="646555">
 
 								Dell Home &amp; Home Office
 
@@ -2087,6 +2344,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="46541">
 
 								Dell Small Business
+
+						</option>
+					
+						<option value="646046">
+
+								Department of Goods
 
 						</option>
 					
@@ -2138,6 +2401,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="645779">
+
+								Dino Direct Canada
+
+						</option>
+					
 						<option value="645198">
 
 								DirectGardening.com
@@ -2147,6 +2416,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="645336">
 
 								DIRECTV
+
+						</option>
+					
+						<option value="647023">
+
+								Discount Tire
 
 						</option>
 					
@@ -2192,9 +2467,9 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="643008">
+						<option value="646417">
 
-								Disney Movie Club
+								DisneyGames
 
 						</option>
 					
@@ -2216,7 +2491,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="44951">
+						<option value="646792">
 
 								Domestications
 
@@ -2234,6 +2509,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646939">
+
+								Dr. Siegal's Cookie Diet
+
+						</option>
+					
 						<option value="637787">
 
 								drugstore.com
@@ -2246,21 +2527,33 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646044">
+
+								Dual Power Saw
+
+						</option>
+					
+						<option value="646720">
+
+								Duncraft
+
+						</option>
+					
 						<option value="643594">
 
 								Dyson
 
 						</option>
 					
-						<option value="636564">
+						<option value="645781">
 
-								e.l.f. Cosmetics
+								Dyson Canada
 
 						</option>
 					
-						<option value="642832">
+						<option value="636564">
 
-								EA Store
+								e.l.f. Cosmetics
 
 						</option>
 					
@@ -2288,15 +2581,15 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="638243">
+						<option value="645907">
 
-								eBags.com
+								Easy Reach
 
 						</option>
 					
-						<option value="635501">
+						<option value="638243">
 
-								eBay
+								eBags.com
 
 						</option>
 					
@@ -2366,6 +2659,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646798">
+
+								Eggies
+
+						</option>
+					
 						<option value="645639">
 
 								Egyptian Comfort Sheet Se
@@ -2384,6 +2683,24 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646231">
+
+								Elder Beerman
+
+						</option>
+					
+						<option value="646760">
+
+								Elite Asian Singles
+
+						</option>
+					
+						<option value="646759">
+
+								Elite Black Singles
+
+						</option>
+					
 						<option value="642079">
 
 								Elizabeth Arden
@@ -2396,7 +2713,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="638047">
+						<option value="646241">
 
 								eMusic Audiobooks
 
@@ -2462,12 +2779,6 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="645752">
-
-								Exclusive Women's Discoun
-
-						</option>
-					
 						<option value="642862">
 
 								Executive Gift Shoppe
@@ -2477,6 +2788,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="643120">
 
 								Expedia.com
+
+						</option>
+					
+						<option value="645806">
+
+								Expedia.com Canada
 
 						</option>
 					
@@ -2498,6 +2815,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646331">
+
+								EyeBuyDirect.com
+
+						</option>
+					
 						<option value="54005">
 
 								Fabric.com
@@ -2510,13 +2833,19 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646911">
+
+								Famous Footwear
+
+						</option>
+					
 						<option value="53841">
 
 								Fandango
 
 						</option>
 					
-						<option value="14682">
+						<option value="646690">
 
 								Fannie May Candies
 
@@ -2525,6 +2854,30 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="22220">
 
 								FansEdge
+
+						</option>
+					
+						<option value="646245">
+
+								Fantapper
+
+						</option>
+					
+						<option value="646942">
+
+								Fantapper
+
+						</option>
+					
+						<option value="646255">
+
+								Fare Buzz
+
+						</option>
+					
+						<option value="646855">
+
+								Fast Brite
 
 						</option>
 					
@@ -2576,6 +2929,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646999">
+
+								FirmA-Face
+
+						</option>
+					
 						<option value="641631">
 
 								FitOrbit
@@ -2585,6 +2944,24 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="642284">
 
 								Flavia
+
+						</option>
+					
+						<option value="646057">
+
+								Flex Belt, The
+
+						</option>
+					
+						<option value="646802">
+
+								Flex Seal
+
+						</option>
+					
+						<option value="646872">
+
+								Flora Flora
 
 						</option>
 					
@@ -2612,6 +2989,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646205">
+
+								Folli Follie
+
+						</option>
+					
 						<option value="643197">
 
 								Foot Locker
@@ -2630,6 +3013,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646748">
+
+								Forever Lazy
+
+						</option>
+					
 						<option value="642486">
 
 								Forzieri
@@ -2642,15 +3031,15 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="14388">
+						<option value="645990">
 
 								FragranceNet.com
 
 						</option>
 					
-						<option value="641410">
+						<option value="645807">
 
-								Frederick's Of Hollywood
+								Franklin Covey Canada
 
 						</option>
 					
@@ -2660,9 +3049,27 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646937">
+
+								FreeShipping.com
+
+						</option>
+					
 						<option value="638778">
 
 								FreeTaxUsa
+
+						</option>
+					
+						<option value="646996">
+
+								French Connection
+
+						</option>
+					
+						<option value="645784">
+
+								French Connection Canada
 
 						</option>
 					
@@ -2714,13 +3121,25 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646211">
+
+								Gaiam Yoga Club
+
+						</option>
+					
 						<option value="48861">
 
 								Gallery Collection, The
 
 						</option>
 					
-						<option value="645629">
+						<option value="645832">
+
+								Game Wrangler
+
+						</option>
+					
+						<option value="647034">
 
 								Gamefly
 
@@ -2729,6 +3148,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="14392">
 
 								GameStop
+
+						</option>
+					
+						<option value="646199">
+
+								GamesUnite
 
 						</option>
 					
@@ -2741,6 +3166,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="4219">
 
 								Gap
+
+						</option>
+					
+						<option value="645835">
+
+								Gap Canada
 
 						</option>
 					
@@ -2768,6 +3199,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="645916">
+
+								Geek Squad
+
+						</option>
+					
 						<option value="33280">
 
 								Geeks.com
@@ -2780,15 +3217,9 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="641209">
+						<option value="646848">
 
 								Get Organized!
-
-						</option>
-					
-						<option value="644985">
-
-								Gevalia
 
 						</option>
 					
@@ -2834,6 +3265,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646288">
+
+								Global Medical Cosmetic S
+
+						</option>
+					
 						<option value="644313">
 
 								Global Survey Group
@@ -2861,12 +3298,6 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="15441">
 
 								Golfsmith
-
-						</option>
-					
-						<option value="645466">
-
-								Goodwill Too
 
 						</option>
 					
@@ -2906,15 +3337,27 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="644022">
+						<option value="646846">
 
 								Groupon
+
+						</option>
+					
+						<option value="646975">
+
+								Groupon Getaways
 
 						</option>
 					
 						<option value="643731">
 
 								Guard Dog ID
+
+						</option>
+					
+						<option value="646987">
+
+								Gyro Bowl
 
 						</option>
 					
@@ -2930,13 +3373,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="634841">
-
-								Half.com
-
-						</option>
-					
-						<option value="643563">
+						<option value="646602">
 
 								Halloween Express
 
@@ -2948,15 +3385,9 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="50902">
+						<option value="646849">
 
 								Hanes.com
-
-						</option>
-					
-						<option value="645438">
-
-								Hanging Strawberries
 
 						</option>
 					
@@ -2966,21 +3397,33 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646204">
+
+								Harmon Face Values
+
+						</option>
+					
 						<option value="643140">
 
 								Harry and David
 
 						</option>
 					
-						<option value="637361">
+						<option value="645935">
 
-								Hatley
+								Hart Schaffner Marx
 
 						</option>
 					
-						<option value="645048">
+						<option value="645878">
 
-								HauteLook
+								Hartstrings.com &amp; little 
+
+						</option>
+					
+						<option value="646655">
+
+								Hatley
 
 						</option>
 					
@@ -3008,9 +3451,21 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646232">
+
+								Herberger's
+
+						</option>
+					
 						<option value="49422">
 
 								HerRoom
+
+						</option>
+					
+						<option value="645936">
+
+								Hickey Freeman
 
 						</option>
 					
@@ -3044,9 +3499,15 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="54008">
+						<option value="646096">
 
 								Holiday Inn
+
+						</option>
+					
+						<option value="646092">
+
+								Holiday Inn Express
 
 						</option>
 					
@@ -3068,15 +3529,15 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="641354">
+						<option value="646827">
 
-								Home Depot Gift Cards
+								Home Depot - Garden Club
 
 						</option>
 					
-						<option value="45375">
+						<option value="645808">
 
-								Home Marketplace, The
+								Home Depot Canada
 
 						</option>
 					
@@ -3104,6 +3565,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646217">
+
+								Honest Insite - Male Only
+
+						</option>
+					
 						<option value="645334">
 
 								Hooked on Phonics
@@ -3113,6 +3580,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="642196">
 
 								Hot Topic
+
+						</option>
+					
+						<option value="646093">
+
+								Hotel Indigo
 
 						</option>
 					
@@ -3152,6 +3625,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646567">
+
+								Hydroxatone
+
+						</option>
+					
 						<option value="641621">
 
 								I See Me
@@ -3170,7 +3649,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="644296">
+						<option value="646844">
 
 								ICE.com
 
@@ -3212,6 +3691,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646105">
+
+								Infinity Shoes
+
+						</option>
+					
 						<option value="643414">
 
 								InhabitNY
@@ -3224,15 +3709,33 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646818">
+
+								Inkgrabber
+
+						</option>
+					
 						<option value="645051">
 
 								InkSmile .com
 
 						</option>
 					
+						<option value="646312">
+
+								Insight Express - For Men
+
+						</option>
+					
 						<option value="645157">
 
 								Insure My Car 4 less
+
+						</option>
+					
+						<option value="646094">
+
+								Intercontinental Hotels &amp;
 
 						</option>
 					
@@ -3260,6 +3763,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="645785">
+
+								Invitations by Dawn Canad
+
+						</option>
+					
 						<option value="641462">
 
 								iPage
@@ -3284,9 +3793,27 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="645786">
+
+								Isabella Oliver Canada
+
+						</option>
+					
+						<option value="645881">
+
+								iSave.com
+
+						</option>
+					
 						<option value="14317">
 
 								iTunes
+
+						</option>
+					
+						<option value="647035">
+
+								iWin
 
 						</option>
 					
@@ -3314,7 +3841,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="643132">
+						<option value="646973">
 
 								JCPenney
 
@@ -3323,6 +3850,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="644073">
 
 								JeffersPet.com
+
+						</option>
+					
+						<option value="646881">
+
+								Jelly Belly
 
 						</option>
 					
@@ -3340,17 +3873,17 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 					
 						<option value="642523">
 
-								jetBlue
+								JetBlue Getaways
 
 						</option>
 					
-						<option value="645613">
+						<option value="645980">
 
 								Joan Rivers Great Hair Da
 
 						</option>
 					
-						<option value="645618">
+						<option value="645955">
 
 								Joan Rivers' Right to Bar
 
@@ -3392,7 +3925,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="637814">
+						<option value="646851">
 
 								Just My Size
 
@@ -3425,12 +3958,6 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="642408">
 
 								Kate Spade
-
-						</option>
-					
-						<option value="643895">
-
-								Kazoo and Company
 
 						</option>
 					
@@ -3506,13 +4033,13 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="645622">
+						<option value="645981">
 
 								Kymaro Curve Control Jean
 
 						</option>
 					
-						<option value="645621">
+						<option value="645982">
 
 								Kymaro New Body Shaper
 
@@ -3548,9 +4075,15 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="645767">
+						<option value="646970">
 
 								Lancome
+
+						</option>
+					
+						<option value="645787">
+
+								Lancome Canada
 
 						</option>
 					
@@ -3566,15 +4099,27 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="645623">
+						<option value="645983">
 
 								Law of Success
+
+						</option>
+					
+						<option value="646060">
+
+								Le Meridien
 
 						</option>
 					
 						<option value="53831">
 
 								LeapFrog
+
+						</option>
+					
+						<option value="645788">
+
+								LeapFrog Canada
 
 						</option>
 					
@@ -3590,13 +4135,25 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="645790">
+
+								LEGO Shop at Home Canada
+
+						</option>
+					
+						<option value="646826">
+
+								Leiberts Appliance Center
+
+						</option>
+					
 						<option value="29812">
 
 								Lenovo
 
 						</option>
 					
-						<option value="37058">
+						<option value="646670">
 
 								Lenox
 
@@ -3626,9 +4183,15 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="645503">
+						<option value="647032">
 
-								Lifesta
+								Life is good
+
+						</option>
+					
+						<option value="646865">
+
+								LifeQB
 
 						</option>
 					
@@ -3698,21 +4261,15 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="637563">
+						<option value="646689">
 
 								Lord &amp; Taylor
 
 						</option>
 					
-						<option value="644326">
+						<option value="646558">
 
 								Lowe's 
-
-						</option>
-					
-						<option value="642023">
-
-								Lucky Brand Jeans
 
 						</option>
 					
@@ -3725,12 +4282,6 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="14433">
 
 								Luggage Online
-
-						</option>
-					
-						<option value="645160">
-
-								Lulu's
 
 						</option>
 					
@@ -3752,7 +4303,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="645056">
+						<option value="646967">
 
 								Macy's
 
@@ -3770,7 +4321,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="14435">
+						<option value="647085">
 
 								Magazines.com
 
@@ -3788,6 +4339,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646801">
+
+								Magic Mesh 
+
+						</option>
+					
 						<option value="635621">
 
 								MainStay Suites
@@ -3796,7 +4353,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 					
 						<option value="644869">
 
-								Mamapedia
+								MamaSource
 
 						</option>
 					
@@ -3836,6 +4393,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="647022">
+
+								Mattel Shop
+
+						</option>
+					
 						<option value="645418">
 
 								Maxim Magazine
@@ -3872,6 +4435,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646430">
+
+								Memolink Games
+
+						</option>
+					
 						<option value="645485">
 
 								Memolink Points Express
@@ -3890,9 +4459,27 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="644569">
+
+								Memolink Toolbar
+
+						</option>
+					
 						<option value="644246">
 
 								Metrostyle
+
+						</option>
+					
+						<option value="646669">
+
+								Micro Wallet
+
+						</option>
+					
+						<option value="645792">
+
+								Microsoft Canada
 
 						</option>
 					
@@ -3932,6 +4519,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="645931">
+
+								Misook
+
+						</option>
+					
 						<option value="642484">
 
 								MLB.com
@@ -3956,9 +4549,21 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="645617">
+						<option value="646917">
 
-								Montel Williams HealthMas
+								Modnique
+
+						</option>
+					
+						<option value="646841">
+
+								momAgenda
+
+						</option>
+					
+						<option value="646110">
+
+								Monarchy
 
 						</option>
 					
@@ -4058,9 +4663,27 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="49653">
+						<option value="647036">
 
 								myDaVinci.com
+
+						</option>
+					
+						<option value="646109">
+
+								MyPetDMV
+
+						</option>
+					
+						<option value="646036">
+
+								MyPublisher
+
+						</option>
+					
+						<option value="646665">
+
+								Mystery Guild Book Club
 
 						</option>
 					
@@ -4070,15 +4693,15 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="645341">
+						<option value="647045">
 
-								Napster
+								Nail Perfect
 
 						</option>
 					
-						<option value="638275">
+						<option value="645341">
 
-								Nars
+								Napster
 
 						</option>
 					
@@ -4106,6 +4729,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="645813">
+
+								Naturalizer Canada
+
+						</option>
+					
 						<option value="644768">
 
 								Nautica
@@ -4118,7 +4747,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="644957">
+						<option value="643818">
 
 								Netflix
 
@@ -4139,6 +4768,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="644507">
 
 								New York Times Home Deliv
+
+						</option>
+					
+						<option value="647006">
+
+								Newegg Canada
 
 						</option>
 					
@@ -4232,9 +4867,21 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646058">
+
+								NuWaveOven
+
+						</option>
+					
 						<option value="642422">
 
 								Oakley
+
+						</option>
+					
+						<option value="646158">
+
+								Oasis
 
 						</option>
 					
@@ -4256,9 +4903,21 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="645836">
+
+								Old Navy Canada
+
+						</option>
+					
 						<option value="54475">
 
 								Olive Nation
+
+						</option>
+					
+						<option value="646517">
+
+								Olly Shoes
 
 						</option>
 					
@@ -4274,7 +4933,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="637840">
+						<option value="646850">
 
 								OneHanesPlace
 
@@ -4307,6 +4966,18 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="14797">
 
 								Only Natural Pet Store
+
+						</option>
+					
+						<option value="646853">
+
+								ooVoo
+
+						</option>
+					
+						<option value="646234">
+
+								OpenSky
 
 						</option>
 					
@@ -4346,6 +5017,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="642832">
+
+								Origin by EA Store
+
+						</option>
+					
 						<option value="641274">
 
 								Origins
@@ -4376,7 +5053,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="641165">
+						<option value="646870">
 
 								Outletbuy
 
@@ -4388,9 +5065,15 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="645167">
+						<option value="647080">
 
 								Overstock.com
+
+						</option>
+					
+						<option value="646858">
+
+								P90X
 
 						</option>
 					
@@ -4424,7 +5107,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="645628">
+						<option value="645985">
 
 								Pasta Boat
 
@@ -4454,7 +5137,19 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="10046">
+						<option value="645922">
+
+								PCRush
+
+						</option>
+					
+						<option value="645745">
+
+								Peanut Labs 
+
+						</option>
+					
+						<option value="646874">
 
 								Peapod
 
@@ -4463,6 +5158,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="642527">
 
 								Peet's Coffee &amp; Tea
+
+						</option>
+					
+						<option value="646657">
+
+								Penningtons
 
 						</option>
 					
@@ -4520,7 +5221,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="636328">
+						<option value="647077">
 
 								PETCO
 
@@ -4532,9 +5233,9 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="14469">
+						<option value="645997">
 
-								Petscriptions
+								PetSmart
 
 						</option>
 					
@@ -4592,15 +5293,33 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="644308">
+						<option value="647021">
 
-								Pillow Pets 
+								Pink Ice
 
 						</option>
 					
 						<option value="636681">
 
 								Piperlime
+
+						</option>
+					
+						<option value="646454">
+
+								Piperlime Men
+
+						</option>
+					
+						<option value="646121">
+
+								PlanetShoes.com
+
+						</option>
+					
+						<option value="646878">
+
+								Plaque Blast
 
 						</option>
 					
@@ -4613,6 +5332,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="645789">
 
 								Pocket Chair
+
+						</option>
+					
+						<option value="645970">
+
+								Pocket Traveler
 
 						</option>
 					
@@ -4634,13 +5359,13 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="54482">
+						<option value="646651">
 
 								Prescriptives
 
 						</option>
 					
-						<option value="643991">
+						<option value="647082">
 
 								Priceline.com
 
@@ -4664,6 +5389,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="645817">
+
+								Proactiv Canada
+
+						</option>
+					
 						<option value="642472">
 
 								Proactiv Solution
@@ -4676,9 +5407,27 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646873">
+
+								Product Express
+
+						</option>
+					
+						<option value="646743">
+
+								Profinity Shopper's Club 
+
+						</option>
+					
 						<option value="640382">
 
 								ProFlowers
+
+						</option>
+					
+						<option value="645814">
+
+								ProFlowers.com Canada
 
 						</option>
 					
@@ -4703,6 +5452,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="54782">
 
 								Puppet.com
+
+						</option>
+					
+						<option value="645882">
+
+								Purina Care Pet Insurance
 
 						</option>
 					
@@ -4736,7 +5491,13 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="14476">
+						<option value="646677">
+
+								Quote Ranger
+
+						</option>
+					
+						<option value="646883">
 
 								QVC.com
 
@@ -4799,6 +5560,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="17127">
 
 								REI
+
+						</option>
+					
+						<option value="646182">
+
+								REISS Ltd
 
 						</option>
 					
@@ -4910,6 +5677,18 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="645793">
+
+								Roots Canada 
+
+						</option>
+					
+						<option value="646141">
+
+								Roozt
+
+						</option>
+					
 						<option value="53377">
 
 								Ross-Simons
@@ -4952,6 +5731,24 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646127">
+
+								Saveology Deals
+
+						</option>
+					
+						<option value="646725">
+
+								Savings Circle
+
+						</option>
+					
+						<option value="647024">
+
+								SavingStar
+
+						</option>
+					
 						<option value="643125">
 
 								Scholastic Store Online, 
@@ -4988,15 +5785,33 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="645879">
+
+								Sears PartsDirect
+
+						</option>
+					
 						<option value="642549">
 
 								Sears.com
 
 						</option>
 					
+						<option value="645821">
+
+								Sears.com Canada
+
+						</option>
+					
 						<option value="641625">
 
 								Second Life
+
+						</option>
+					
+						<option value="646353">
+
+								Secondipity
 
 						</option>
 					
@@ -5024,13 +5839,13 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="645615">
+						<option value="645959">
 
 								Shake Weight for Men
 
 						</option>
 					
-						<option value="645616">
+						<option value="645986">
 
 								Shake Weight for Women
 
@@ -5054,19 +5869,19 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646799">
+
+								Shed Pal
+
+						</option>
+					
 						<option value="643890">
 
 								Sheer Cover
 
 						</option>
 					
-						<option value="20351">
-
-								Sheraton
-
-						</option>
-					
-						<option value="51977">
+						<option value="646603">
 
 								ShindigZ
 
@@ -5084,7 +5899,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="643789">
+						<option value="646971">
 
 								Shoebuy.com
 
@@ -5138,12 +5953,6 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="24553">
-
-								Shop4Tech
-
-						</option>
-					
 						<option value="36641">
 
 								Shopbop.com
@@ -5156,9 +5965,21 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="647025">
+
+								Shopko
+
+						</option>
+					
 						<option value="642280">
 
 								ShopNHL.com
+
+						</option>
+					
+						<option value="646170">
+
+								ShopRunner
 
 						</option>
 					
@@ -5168,7 +5989,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="54113">
+						<option value="646859">
 
 								Shutterfly
 
@@ -5204,12 +6025,6 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="643194">
-
-								Sizzix
-
-						</option>
-					
 						<option value="51371">
 
 								Skechers
@@ -5231,6 +6046,18 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="635613">
 
 								Sleep Inn
+
+						</option>
+					
+						<option value="646749">
+
+								Slice O Matic
+
+						</option>
+					
+						<option value="646418">
+
+								Slim Away
 
 						</option>
 					
@@ -5258,9 +6085,21 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646750">
+
+								Snap On Feathers
+
+						</option>
+					
 						<option value="636658">
 
 								Snapfish
+
+						</option>
+					
+						<option value="646803">
+
+								Snuggie
 
 						</option>
 					
@@ -5291,6 +6130,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="640026">
 
 								Sounds True
+
+						</option>
+					
+						<option value="646210">
+
+								South Beach Diet
 
 						</option>
 					
@@ -5327,6 +6172,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="642331">
 
 								Speedy Cash
+
+						</option>
+					
+						<option value="646721">
+
+								Spencers
 
 						</option>
 					
@@ -5372,15 +6223,27 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="17151">
+						<option value="646951">
 
 								Starbucks
 
 						</option>
 					
-						<option value="54031">
+						<option value="646952">
+
+								Starbucks Gift Card
+
+						</option>
+					
+						<option value="646095">
 
 								Staybridge Suites
+
+						</option>
+					
+						<option value="646524">
+
+								Steep And Cheap
 
 						</option>
 					
@@ -5414,7 +6277,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="642327">
+						<option value="646519">
 
 								Sundance Catalog
 
@@ -5444,6 +6307,18 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646212">
+
+								Suzanne Somers Sexy Forev
+
+						</option>
+					
+						<option value="646511">
+
+								Swell
+
+						</option>
+					
 						<option value="636646">
 
 								Swiss Colony, The
@@ -5456,7 +6331,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="645620">
+						<option value="645987">
 
 								T-Core For Men
 
@@ -5468,13 +6343,25 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="52631">
+						<option value="646693">
+
+								Tara Great Autumn Psychic
+
+						</option>
+					
+						<option value="647084">
 
 								Target
 
 						</option>
 					
-						<option value="54361">
+						<option value="645914">
+
+								Tastiwave
+
+						</option>
+					
+						<option value="646847">
 
 								Taylor Gifts
 
@@ -5483,6 +6370,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="642281">
 
 								Teamstore
+
+						</option>
+					
+						<option value="647060">
+
+								Teavana
 
 						</option>
 					
@@ -5501,12 +6394,6 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="642230">
 
 								The-House
-
-						</option>
-					
-						<option value="641941">
-
-								TheNaturalStore.com
 
 						</option>
 					
@@ -5534,15 +6421,27 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646856">
+
+								Ticketliquidator
+
+						</option>
+					
 						<option value="641315">
 
 								TicketsNow
 
 						</option>
 					
-						<option value="45623">
+						<option value="646964">
 
 								Tiger Direct
+
+						</option>
+					
+						<option value="645796">
+
+								Tiger Direct Canada
 
 						</option>
 					
@@ -5570,7 +6469,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="642884">
+						<option value="646643">
 
 								Timetospa
 
@@ -5594,6 +6493,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646037">
+
+								Tirebuyer.com
+
+						</option>
+					
 						<option value="25477">
 
 								TiVo
@@ -5612,13 +6517,25 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="645890">
+
+								Tog Shop
+
+						</option>
+					
 						<option value="645455">
 
 								Tomato Factory
 
 						</option>
 					
-						<option value="642426">
+						<option value="647013">
+
+								Tommy Hilfiger
+
+						</option>
+					
+						<option value="645869">
 
 								TOMS Shoes
 
@@ -5684,12 +6601,6 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="644767">
-
-								Tracy Porter
-
-						</option>
-					
 						<option value="637020">
 
 								Travelocity
@@ -5708,6 +6619,18 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646286">
+
+								Tropicana Las Vegas
+
+						</option>
+					
+						<option value="646742">
+
+								True American Savings
+
+						</option>
+					
 						<option value="645196">
 
 								Tumi
@@ -5720,9 +6643,33 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="645809">
+
+								TurboTax Canada 
+
+						</option>
+					
 						<option value="645059">
 
 								ULTA Beauty 
+
+						</option>
+					
+						<option value="646889">
+
+								Ultimate Thanksgiving Din
+
+						</option>
+					
+						<option value="645969">
+
+								Ultimate Weekend Traveler
+
+						</option>
+					
+						<option value="46492">
+
+								Unbeatable Sale
 
 						</option>
 					
@@ -5738,9 +6685,9 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="637948">
+						<option value="645815">
 
-								United Airlines
+								Under Armour Canada
 
 						</option>
 					
@@ -5771,6 +6718,18 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="644717">
 
 								US Toy Company
+
+						</option>
+					
+						<option value="646120">
+
+								USA Today
+
+						</option>
+					
+						<option value="646414">
+
+								VacationRentals.com
 
 						</option>
 					
@@ -5822,7 +6781,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="54594">
+						<option value="647081">
 
 								Victoria's Secret
 
@@ -5840,7 +6799,13 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="645002">
+						<option value="646175">
+
+								Virgin Mobile USA
+
+						</option>
+					
+						<option value="646107">
 
 								Visa Black Card
 
@@ -5861,6 +6826,24 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="643126">
 
 								Vistaprint
+
+						</option>
+					
+						<option value="645810">
+
+								VistaPrint Canada
+
+						</option>
+					
+						<option value="646358">
+
+								Vita Cost
+
+						</option>
+					
+						<option value="645886">
+
+								Vital Savings by Aetna
 
 						</option>
 					
@@ -5894,12 +6877,6 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="635162">
-
-								W Hotels
-
-						</option>
-					
 						<option value="40284">
 
 								Wai Lana Yoga
@@ -5912,7 +6889,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="645624">
+						<option value="645988">
 
 								WalkFit Platinum
 
@@ -5930,7 +6907,7 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="53851">
+						<option value="645899">
 
 								Water.com
 
@@ -5948,9 +6925,21 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="647003">
+
+								Wedding Channel Store
+
+						</option>
+					
 						<option value="38442">
 
 								WeightWatchers.com
+
+						</option>
+					
+						<option value="645812">
+
+								WeightWatchers.com Canada
 
 						</option>
 					
@@ -5966,9 +6955,15 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="50982">
+						<option value="646178">
 
-								Wet Seal
+								WhereHotDealsAre.com
+
+						</option>
+					
+						<option value="646525">
+
+								Whiskey Militia 
 
 						</option>
 					
@@ -5984,21 +6979,15 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646514">
+
+								WildTangent Games
+
+						</option>
+					
 						<option value="644762">
 
 								William Rast
-
-						</option>
-					
-						<option value="645255">
-
-								Win $1,500 - Featured Dea
-
-						</option>
-					
-						<option value="645254">
-
-								Win Lunch for a Year at W
 
 						</option>
 					
@@ -6008,9 +6997,9 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
-						<option value="645333">
+						<option value="646258">
 
-								Windshield Wonder
+								WinCash247
 
 						</option>
 					
@@ -6050,6 +7039,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646242">
+
+								Wolfermans
+
+						</option>
+					
 						<option value="637756">
 
 								Woman Within
@@ -6068,15 +7063,27 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646879">
+
+								World Market
+
+						</option>
+					
 						<option value="34856">
 
 								World Wrestling Entertain
 
 						</option>
 					
-						<option value="49593">
+						<option value="646111">
 
-								X-treme Geek
+								Worn
+
+						</option>
+					
+						<option value="646188">
+
+								Wysong
 
 						</option>
 					
@@ -6116,6 +7123,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 
 						</option>
 					
+						<option value="646227">
+
+								Younkers
+
+						</option>
+					
 						<option value="639141">
 
 								YourCover
@@ -6131,6 +7144,12 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="181680">
 
 								Yves Rocher
+
+						</option>
+					
+						<option value="645816">
+
+								Yves Rocher Canada
 
 						</option>
 					
@@ -6161,6 +7180,18 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<option value="643849">
 
 								ZShock
+
+						</option>
+					
+						<option value="646639">
+
+								Zuma Office Supply
+
+						</option>
+					
+						<option value="646672">
+
+								Zumbox
 
 						</option>
 					
@@ -6223,6 +7254,8 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 										<div class="submenu" contentindex="1c">
 											<ul>
 												
+												<li><a href="/index.cfm/beacon/earn_points.holiday_points_increase/">Holiday Pts Increas...</a></li>
+											
 												<li><a href="/index.cfm/beacon/earn_points.new_offers/">New Stores &amp; Offers</a></li>
 											
 												<li><a href="/index.cfm/beacon/earn_points.all_points/">All Stores &amp; Offers</a></li>
@@ -6240,6 +7273,8 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 												linkset[1] = "<a href='/index.cfm/beacon/earn_points.books_movies.books'>Books & Magazines</a><a href='/index.cfm/beacon/earn_points.books_movies.movies'>Movies & TV</a><a href='/index.cfm/beacon/earn_points.books_movies.music'>Music</a>";
 											</script>
 											<li><a href="/index.cfm/beacon/earn_points.books_movies/" onmouseover="showmenu(event, linkset[1])" onmouseout="delayhidemenu()">Books, Movies &amp; Music</a></li>
+											
+												<li><a href="/index.cfm/beacon/earn_points.canada_stores/">Canada Stores</a></li>
 											
 											<script type="text/javascript">
 												linkset[2] = "<a href='/index.cfm/beacon/earn_points.clothing.womens_clothes'>Women's Clothes</a><a href='/index.cfm/beacon/earn_points.clothing.mens_clothes'>Men's Clothes</a><a href='/index.cfm/beacon/earn_points.clothing.shoes_handbags'>Shoes & Handbags</a><a href='/index.cfm/beacon/earn_points.clothing.intimates'>Intimates & Accessories</a><a href='/index.cfm/beacon/earn_points.clothing.plus_size'>Plus Size</a><a href='/index.cfm/beacon/earn_points.clothing.maternity'>Maternity</a><a href='/index.cfm/beacon/earn_points.clothing.designer_clothes'>Designer Clothing</a>";
@@ -6272,9 +7307,11 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 												<li><a href="/index.cfm/beacon/earn_points.finance/">Finance</a></li>
 											
 											<script type="text/javascript">
-												linkset[6] = "<a href='/index.cfm/beacon/earn_points.flowers_gifts.flowers'>Flowers</a><a href='/index.cfm/beacon/earn_points.flowers_gifts.food'>Gourmet Food</a><a href='/index.cfm/beacon/earn_points.flowers_gifts.drink'>Wine, Coffee & Tea</a><a href='/index.cfm/beacon/earn_points.flowers_gifts.cards'>Gift Cards</a><a href='/index.cfm/beacon/earn_points.flowers_gifts.more'>More Gifts</a>";
+												linkset[6] = "<a href='/index.cfm/beacon/earn_points.flowers_gifts.flowers'>Flowers</a><a href='/index.cfm/beacon/earn_points.flowers_gifts.food'>Gourmet Food</a><a href='/index.cfm/beacon/earn_points.flowers_gifts.drink'>Wine, Coffee & Tea</a><a href='/index.cfm/beacon/earn_points.flowers_gifts.more'>More Gifts</a>";
 											</script>
 											<li><a href="/index.cfm/beacon/earn_points.flowers_gifts/" onmouseover="showmenu(event, linkset[6])" onmouseout="delayhidemenu()">Flowers, Food &amp; Gifts</a></li>
+											
+												<li><a href="/index.cfm/beacon/earn_points.gift_cards/">Gift Cards</a></li>
 											
 												<li><a href="/index.cfm/beacon/grocery_coupons/design/null/" target="grocery_coupons">Grocery Coupons</a></li>
 											
@@ -6293,9 +7330,11 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 											</script>
 											<li><a href="/index.cfm/beacon/earn_points.jewelry/" onmouseover="showmenu(event, linkset[9])" onmouseout="delayhidemenu()">Jewelry</a></li>
 											
-												<li><a href="/index.cfm/beacon/memolink.tasks/"><b>Memolink Tasks<!--...</a--></b></a></li><a href="/index.cfm/beacon/memolink.tasks/"><b>
+												<li><a href="/index.cfm/beacon/earn_points.gameTreat/design/tabs/">Memolink Games</a></li>
 											
-												</b></a><b><li><a href="/index.cfm/beacon/memolink.tasks/"></a><a href="/index.cfm/beacon/earn_points.pets/">Pets</a></li>
+												<li><a href="/index.cfm/beacon/memolink.tasks/design/tabs/">Memolink Tasks</a></li>
+											
+												<li><a href="/index.cfm/beacon/earn_points.pets/">Pets</a></li>
 											
 											<script type="text/javascript">
 												linkset[10] = "<a href='/index.cfm/beacon/earn_points.surveys'>Memolink Survey Panel</a>";
@@ -6312,13 +7351,24 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 											</script>
 											<li><a href="/index.cfm/beacon/earn_points.vacation/" onmouseover="showmenu(event, linkset[12])" onmouseout="delayhidemenu()">Travel &amp; Vacation</a></li>
 											
-											</b></ul><b>
-											</b></div><b>
+											</ul>
+											</div>
 										
 
-										<a class="menuitem submenuheader" headerindex="2h"><span class="accordprefix"></span>My Account<span class="accordsuffix"><img src="/assets/images/www/menu/plus.gif" class="statusicon"></span></a>
+										<a class="menuitem submenuheader" headerindex="2h"><span class="accordprefix"></span>Daily Deals!<span class="accordsuffix"><img src="/assets/images/www/menu/plus.gif" class="statusicon"></span></a>
 
 										<div class="submenu" contentindex="2c">
+											<ul>
+												
+												<li><a href="/index.cfm/beacon/deal_map/design/tabs/">Daily Deals!</a></li>
+											
+											</ul>
+											</div>
+										
+
+										<a class="menuitem submenuheader" headerindex="3h"><span class="accordprefix"></span>My Account<span class="accordsuffix"><img src="/assets/images/www/menu/plus.gif" class="statusicon"></span></a>
+
+										<div class="submenu" contentindex="3c">
 											<ul>
 												
 												<li><a href="/index.cfm/beacon/account.my_account/">Member Profile</a></li>
@@ -6343,13 +7393,15 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 											
 												<li><a href="/index.cfm/beacon/web_browser_info/">Consumer Protection...</a></li>
 											
+												<li><a href="/index.cfm/beacon/earn_points.refer_friends/">Refer Friends</a></li>
+											
 											</ul>
 											</div>
 										
 
-										<a class="menuitem submenuheader" headerindex="3h"><span class="accordprefix"></span>Redeem for Rewards<span class="accordsuffix"><img src="/assets/images/www/menu/plus.gif" class="statusicon"></span></a>
+										<a class="menuitem submenuheader" headerindex="4h"><span class="accordprefix"></span>Redeem for Rewards<span class="accordsuffix"><img src="/assets/images/www/menu/plus.gif" class="statusicon"></span></a>
 
-										<div class="submenu" contentindex="3c">
+										<div class="submenu" contentindex="4c">
 											<ul>
 												
 												<li><a href="/index.cfm/beacon/rewards.all_prizes/">All Rewards</a></li>
@@ -6357,6 +7409,8 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 												<li><a href="/index.cfm/beacon/rewards.apparel/">Apparel &amp; Access.</a></li>
 											
 												<li><a href="/index.cfm/beacon/rewards.books/">Books</a></li>
+											
+												<li><a href="/index.cfm/beacon/rewards.canada/">Canada Rewards</a></li>
 											
 												<li><a href="/index.cfm/beacon/rewards.cash/">Cash</a></li>
 											
@@ -6369,6 +7423,8 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 												<li><a href="/index.cfm/beacon/rewards.gas/">Gas Cards</a></li>
 											
 												<li><a href="/index.cfm/beacon/rewards.gifts/">Gifts</a></li>
+											
+												<li><a href="/index.cfm/beacon/rewards.memolink-cards/">Memolink Cards</a></li>
 											
 												<li><a href="/index.cfm/beacon/rewards.movies/">Movies</a></li>
 											
@@ -6391,9 +7447,9 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 											</div>
 										
 
-										<a class="menuitem submenuheader" headerindex="4h"><span class="accordprefix"></span>Help<span class="accordsuffix"><img src="/assets/images/www/menu/plus.gif" class="statusicon"></span></a>
+										<a class="menuitem submenuheader" headerindex="5h"><span class="accordprefix"></span>Help<span class="accordsuffix"><img src="/assets/images/www/menu/plus.gif" class="statusicon"></span></a>
 
-										<div class="submenu" contentindex="4c">
+										<div class="submenu" contentindex="5c">
 											<ul>
 												
 												<li><a href="/index.cfm/beacon/help.frequently_asked_questions/">Frequently Asked Qu...</a></li>
@@ -6413,8 +7469,8 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 							<script type="text/javascript">
 								gradualFader.init() //activate gradual fader
 							</script>
-						</b></div><b>
-					</b></div></td>
+						</div>
+					</div></td>
 				</tr>
 				
 
@@ -6431,7 +7487,17 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 						<input type="submit" value="Go" style="width: 30px; height: 22px;">
 					</form><br>
 					<center>
-						<style type="text/css">
+						<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr><td align="center" td="" width="132"><a href="http://www.memolink.com/index.cfm/beacon/earn_points.verify/offer/JCPenney-646973/display_method_id/6/foreign_id/475/" target="new"><img src="http://www.memolink.com/images/content/JCPenney_BFpreview.jpg" border="0" alt="JC Penney"></a></td></tr><tr></tr><tr><td width="132"><font size="2" color="ffffff" face="Verdana, Arial, sans-serif">  20 Points/$</font></td></tr></tbody></table><br> <img src="/images/spacer.gif" height="8" width="1"><br> <table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr><td align="center" td="" width="132"><a href="http://www.memolink.com/index.cfm/beacon/earn_points.verify/offer/Staples-44950/display_method_id/6/foreign_id/475/" target="new"><img src="http://www.memolink.com/images/content/staples_holiday.gif" border="0" alt="Staples"></a></td></tr><tr></tr><tr><td width="132"><font size="2" color="ffffff" face="Verdana, Arial, sans-serif"> 32 points/$  </font></td></tr></tbody></table>
+
+
+
+
+<br> <img src="/images/spacer.gif" height="8" width="1"><br> <table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr><td align="center" td="" width="132"><a href="http://blog.memolink.com" target="new"><img src="http://www.memolink.com/images/content/homepage_banners/125x40Blogv2.png" height="40" width="125" border="0" alt="ML Blog"></a></td></tr><tr></tr><tr><td width="132"><font size="2" color="ffffff" face="Verdana, Arial, sans-serif"></font></td></tr></tbody></table><br> <img src="/images/spacer.gif" height="8" width="1"><br> <table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr><td align="center" td="" width="132"><a href="http://www.facebook.com/apps/application.php?id=27646027498" target="new"><img src="http://www.memolink.com/images/content/homepage_banners/125x40Facebookv2.png" height="40" width="125" border="0" alt="Facebook"></a></td></tr><tr></tr><tr><td width="132"><font size="2" color="ffffff" face="Verdana, Arial, sans-serif"></font></td></tr></tbody></table><br> <img src="/images/spacer.gif" height="8" width="1"><br> <table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr><td align="center" td="" width="132"><a href="http://twitter.com/memolink" target="new"><img src="http://www.memolink.com/images/content/homepage_banners/125x40Twitterv2.png" height="40" width="125" border="0" alt="Twitter"></a></td></tr><tr></tr><tr><td width="132"><font size="2" color="ffffff" face="Verdana, Arial, sans-serif"></font></td></tr></tbody></table><br> <img src="/images/spacer.gif" height="8" width="1"><br> <style type="text/css">
 	  a.top_ten {
 			color: #ffffff;
 			font-size: 10px; 
@@ -6461,10 +7527,45 @@ Get rewarded for shopping online, taking surveys and more. Points are redeemed f
 - <a href="http://www.memolink.com/index.cfm/beacon/privacy_policy/" class="top_ten" target="new">Privacy Statement</a><br>
 - <a href="http://www.memolink.com/index.cfm/beacon/site_map/" class="top_ten" target="new">Site Map</a><br>
 </td></tr></tbody></table>
-<br> <img src="/images/spacer.gif" height="8" width="1"><br> <table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr><td align="center" td="" width="132"><a href="http://blog.memolink.com" target="new"><img src="http://www.memolink.com/images/content/homepage_banners/125x40Blogv2.png" height="40" width="125" border="0" alt="ML Blog"></a></td></tr><tr></tr><tr><td width="132"><font size="2" color="ffffff" face="Verdana, Arial, sans-serif"></font></td></tr></tbody></table><br> <img src="/images/spacer.gif" height="8" width="1"><br> <table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr><td align="center" td="" width="132"><a href="http://www.facebook.com/apps/application.php?id=27646027498" target="new"><img src="http://www.memolink.com/images/content/homepage_banners/125x40Facebookv2.png" height="40" width="125" border="0" alt="Facebook"></a></td></tr><tr></tr><tr><td width="132"><font size="2" color="ffffff" face="Verdana, Arial, sans-serif"></font></td></tr></tbody></table><br> <img src="/images/spacer.gif" height="8" width="1"><br> <table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr><td align="center" td="" width="132"><a href="http://twitter.com/memolink" target="new"><img src="http://www.memolink.com/images/content/homepage_banners/125x40Twitterv2.png" height="40" width="125" border="0" alt="Twitter"></a></td></tr><tr></tr><tr><td width="132"><font size="2" color="ffffff" face="Verdana, Arial, sans-serif"></font></td></tr></tbody></table><br> 
+<br> <img src="/images/spacer.gif" height="8" width="1"><br> <style type="text/css">
+	  a.top_ten {
+			color: #ffffff;
+			font-size: 10px; 
+      color: #ffffff;
+		  font-family: Arial, sans-serif;
+		  line-height: 14px;
+		}
+		td.top_ten{
+			font-size: 10px; 
+			color: #ffffff;
+			font-family: Arial, sans-serif;
+			line-height: 14px;
+		}
+		h1.top_ten { 
+			display: inline;
+      font-size: 11px;
+      color: #ffffff; 
+		  line-height: 14px;
+		  font-family: Arial, sans-serif;
+		}
+</style>
+<table cellpadding="0" cellspacing="0" border="0" bgcolor="003366">
+	<tbody><tr><td width="132" class="top_ten"><img src="http://www.memolink.com/images/content/topsearches/more_icon.gif" width="16" height="16"><h1 class="top_ten">&nbsp;More at Memolink</h1><br>
+- <a href="http://www.memolink.com/index.cfm/beacon/deal_map/design/tabs/display_method_id/6/foreign_id/13/" class="top_ten" target="new">*NEW Daily Deals!</a><br>
+- <a href="http://www.memolink.com/index.cfm/beacon/earn_points.verify/offer/644506/display_method_id/6/foreign_id/13/" class="top_ten" target="new">Pick Six - 80 pts once</a><br>
+- <a href="http://www.memolink.com/lucky11_sweepstakes/display_method_id/6/foreign_id/13/" class="top_ten" target="new">Lucky 11 Sweepstakes</a><br>
+- <a href="http://www.memolink.com/index.cfm/beacon/earn_points.lrt/" class="top_ten" target="new">Lightning Round Trivia*</a><br>
+- <a href="http://www.memolink.com/index.cfm/beacon/earn_points.trivia/" class="top_ten" target="new">Trivia</a><br>*Memogold members only
+</td></tr></tbody></table>
+<br> <img src="/images/spacer.gif" height="8" width="1"><br> <table cellpadding="0" cellspacing="0" border="0" bgcolor="003366">
+	<tbody><tr><td width="132" class="top_ten"><img src="http://www.memolink.com/images/icon_tinbu.gif" width="16" height="16"><h1 class="top_ten">&nbsp;For Your Info</h1><br>1 point to visit any page<br>
+-<a href="http://www.memolink.com/index.cfm/beacon/daily_entertainment" class="top_ten" target="new">Entertainment</a><br>
+-<a href="http://www.memolink.com/index.cfm/beacon/daily_gas_prices" class="top_ten" target="new">Gas Prices</a><br>
+-<a href="http://www.memolink.com/index.cfm/beacon/daily_horoscope" class="top_ten" target="new">Horoscope</a><br>
+-<a href="http://www.memolink.com/index.cfm/beacon/daily_lottery" class="top_ten" target="new">Lottery</a><br>
+-<a href="http://www.memolink.com/index.cfm/beacon/daily_recipes" class="top_ten" target="new">Recipes</a><br>
+-<a href="http://www.memolink.com/index.cfm/beacon/daily_weather" class="top_ten" target="new">Weather</a><br>
+</td></tr></tbody></table><br> 
 					</center>
 
 					
