@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slutwifetraining.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430190349id_/http%3A//thestall.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slutwifetraining.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122182513id_/http%3A//thestall.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
