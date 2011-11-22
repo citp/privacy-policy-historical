@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the espnshop.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524024124id_/http%3A//www.espnshop.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the espnshop.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122054253id_/http%3A//www.espnshop.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.*
 
 # ESPN Shop
 
 Privacy Policy
 
-This Web site, _[www.espnshop.com](http://www.espnshop.com/)_ (this "Site"), is hosted, maintained and operated on behalf of ESPN Shop ("ESPNShop", "we" or "us") by GSI Commerce Solutions, Inc. We recognize that the users and customers ("you") of this Site care how information about them is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web Site.
+This Web site, _[www.espnshop.com](http://www.espnshop.com/)_ (this "Site"), is hosted, maintained and operated on behalf of ESPN Shop ("ESPNShop", "we" or "us") by Teamstore, Inc. We recognize that the users and customers ("you") of this Site care how information about them is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web Site.
 
 Please be advised that the practices described in this Privacy Policy apply only to information gathered through this Site and, where applicable, through this Site's Customer Service Department in connection with this Site, and do not necessarily reflect our practices with respect to information gathered through other Web sites that we operate or through other off-line means.
 
