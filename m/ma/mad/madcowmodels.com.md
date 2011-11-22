@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the madcowmodels.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523123516id_/http%3A//www.madcowmodels.co.uk/index.php%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madcowmodels.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122220552id_/http%3A//www.madcowmodels.co.uk/index.php%3Fcontent%3Dprivacy) for the most accurate reproduction.*
 
-# Madcow Models | The Free Online Resource & Networking Website for the Modeling Industry
+# MadcowModels | The Free Online Networking Website for the Modeling and Photographic Industry
 
 **Effective date: 1st February 2010.**
 
