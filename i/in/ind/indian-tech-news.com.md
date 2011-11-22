@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the indian-tech-news.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612084248id_/http%3A//www.indian-tech-news.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indian-tech-news.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122122537id_/http%3A//www.indian-tech-news.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Indian Tech News
+
+**Indian Tech News Privacy Policy**
 
 By visiting this web site you agree to be bound by the terms and conditions of this Privacy Policy.
 
@@ -8,9 +10,9 @@ If you do not agree please do not use or access our services.
 
 On a simple note India-tech-news.com runs with the backend of the following partners policies
 
-•    For Advertisements appearing on the India-tech-news.com you can refer to [Google Adsense privacy policies](https://www.google.com/adsense/localized-terms).  
-•    For Visitor tracking you can refer to WordPress.com privacy policies and [GOOGLE ANALYTICS TERMS OF SERVICE](http://www.google.com/analytics/tos.html).  
-•    For E-mail/RSS updates you can refer to [Google Feedburner Privacy Statement](http://www.google.com/privacy.html).
+•    For Advertisements appearing on the India-tech-news.com you can refer to **[Google Adsense privacy policies](https://www.google.com/adsense/localized-terms).**  
+•    For Visitor tracking you can refer to WordPress.com privacy policies and **[GOOGLE ANALYTICS TERMS OF SERVICE](http://www.google.com/analytics/tos.html).**  
+•    For E-mail/RSS updates you can refer to **[Google Feedburner Privacy Statement](http://www.google.com/privacy.html).**
 
 _Some common definition of Cookies and Log Files described above are as follows:_  
 **Log Files:**  
@@ -25,7 +27,7 @@ We also use third party advertisements on India-tech-news.com to support our sit
 A “cookie” is a small text file containing a string of alphanumeric characters. There are two types of cookies: a persistent cookie and a session cookie. A persistent cookie gets entered by your Web browser into the cookie folder on your computer’s hard drive. A persistent cookie remains in that cookie folder, which is maintained and governed by your Web browser, after you close your browser program. A session cookie is temporary and disappears after you close your browser.
 
 **DoubleClick DART cookies**  
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements).  This cookie is used to serve ads specific to you and your interests (”interest based targeting”).  The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey).  DART uses “non personally identifiable information”.  It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.  You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>
+We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements).  This cookie is used to serve ads specific to you and your interests (”interest based targeting”).  The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey).  DART uses “non personally identifiable information”.  It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers.  You can opt-out of this ad serving on all sites using this advertising by visiting **<http://www.doubleclick.com/privacy/dart_adserving.aspx>**
 
 At India-tech-news.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by India-tech-news.com and how it is used.
 
@@ -37,11 +39,11 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 India-tech-news.com has no access to or control over these cookies that are used by third-party advertisers.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.India-tech-news.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.Indian-tech-news.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **admin[@]India-tech-news.com**.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **admin[@]Indian-tech-news.com**.
 
 **_This work is licensed under a Creative Commons 3.0 ._ _Copying the blog content is allowed BUT the link-back MUST be given to respective post as a source._**
 
