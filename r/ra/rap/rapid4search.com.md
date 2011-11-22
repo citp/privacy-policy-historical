@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapid4search.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524043816id_/http%3A//www.rapid4search.com/privacy.php%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapid4search.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122134341id_/http%3A//www.rapid4search.com/privacy.php%3Flang%3Den) for the most accurate reproduction.*
 
 # Privacy Policy - Rapidshare Search - Rapid4search.com
 
