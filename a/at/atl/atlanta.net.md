@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlanta.net privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524072230id_/http%3A//www.atlanta.net/ACVB/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlanta.net privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122012006id_/http%3A//www.atlanta.net/ACVB/privacy.html) for the most accurate reproduction.*
 
 # Atlanta.net - ACVB Privacy Policy
 
