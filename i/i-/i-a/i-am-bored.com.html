@@ -1,16 +1,17 @@
-<!--The following is the downloaded HTML source of the i-am-bored.com privacy policy that was archived on 2011-04-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110422031627id_/http%3A//www.i-am-bored.com/im_bored_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the i-am-bored.com privacy policy that was archived on 2011-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111122040417id_/http%3A//www.i-am-bored.com/im_bored_privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 		<title>I Am Bored - Sites for when you're bored.</title>
 		<meta name="Keywords" content="movies,humor,games,personality tests,videos,quizzes,funny,t-shirts,entertainment,news,technology">
 		<meta name="Description" content="Are you bored? I-Am-Bored.com lists places to go when you are feeling bored.">
 		<meta name="verify-v1" content="u0gBZcMFi8omKL0n0QD1O9SOUDYBtrdT/FJ9yUqVJM4=">
+		<meta name="msvalidate.01" content="129B5DE6FF8DD0ECBDD457C93FF101E3">
 		<meta name="y_key" content="a1d1c90c2b039d0d">
 		
 
 		<link rel="icon" href="http://cdn-www.i-am-bored.com/favicon3.ico" type="image/ico">
-		<link rel="stylesheet" href="http://cdn-www.i-am-bored.com/iab.css?v=2" type="text/css">
+		<link rel="stylesheet" href="http://cdn-www.i-am-bored.com/iab.css?v=5" type="text/css">
 		<link href="http://cdn-www.i-am-bored.com/rss_latest.xml" rel="alternate" type="application/rss+xml" title="I-Am-Bored.com Latest Links">
 		<link href="http://cdn-www.i-am-bored.com/rss_games20.xml" rel="alternate" type="application/rss+xml" title="I-Am-Bored.com Latest Games">
 		<link href="http://cdn-www.i-am-bored.com/rss_funny20.xml" rel="alternate" type="application/rss+xml" title="I-Am-Bored.com Latest Funny Sites">
@@ -23,11 +24,20 @@
 
 			#objAdminMessage { display: none; }
 		</style>
-
+	
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 		<script type="text/javascript" src="http://cdn-www.i-am-bored.com/iab2.js?v=4"></script>
+		
+		<!-- // BEGIN: GOES BEFORE HTML HEADER FOR SEARCH SUGGESTION WIDGET -->
+		<link rel="stylesheet" type="text/css" media="screen, print" href="http://cdn-www.i-am-bored.com/ui/stylesheets/search-suggestion.css?v=1">
+		<script src="http://cdn-www.i-am-bored.com/ui/scripts/jquery.tools.min.js"></script>
+		<script src="http://cdn-www.i-am-bored.com/ui/scripts/template.js"></script>
+		<script src="http://cdn-www.i-am-bored.com/ui/scripts/search-suggestion.js?v=2"></script>
+		<!-- // END: GOES BEFORE HTML HEADER FOR SEARCH SUGGESTION WIDGET -->
+		
+		<script src="//cdn.optimizely.com/js/1617017.js"></script> 
 
 		
-		<script type="text/javascript" src="http://cdn-www.i-am-bored.com/ui/scripts/jquery.js"></script> 
 		<script type="text/javascript"> 
 			$(document).ready(function(){
 				$("#objAdminMessage").load("bored_link_message.cfm");
@@ -36,25 +46,21 @@
 		</script>
 		
 
-		<!-- AUDIENCESCIENCE AD TAG CODE --> 
 		<script type="text/javascript"> 
-			var rsi_segs = [];
-			var segs_beg=document.cookie.indexOf('rsi_segs=');
-			if (segs_beg>=0){ segs_beg=document.cookie.indexOf('=',segs_beg)+1;
-				if(segs_beg>0){var segs_end=document.cookie.indexOf(';',segs_beg);
-					if(segs_end==-1) segs_end=document.cookie.length;
-					rsi_segs=document.cookie.substring(segs_beg,segs_end).split('|');
+			(function($) {
+				$.fn.noFollow = function() {
+				return this.each(function() {
+					var $this = $(this);
+					$this.attr("href", $this.attr('rel'));
+				});
 				}
-			}
-			var segLen=20;
-			var segQS="";
-			if (rsi_segs.length<segLen){segLen=rsi_segs.length}
-			for (var i=0;i<segLen;i++){
-				segQS+=("rsi"+"="+rsi_segs[i]+";")
-			}
-		</script> 
-		<!-- END AUDIENCESCIENCE AD TAG CODE --> 
-        
+			})(jQuery);
+
+			$(document).ready(function(){
+				$('a.jsNoFollow').noFollow();
+			});
+		</script>
+
         <!-- Demdex Tag Insertion Manager -->
         <script type="text/javascript">
         var dexBaseURL=(("https:"==document.location.protocol) ? 
@@ -66,42 +72,27 @@
         <!-- End Demdex Tag Insertion Manager -->
 	</head>
 
-<body bgcolor="#000000" link="#D1D1FE" vlink="#D1D1FE" alink="#D1D1FE" text="#FFFFFF" onload="MM_preloadImages('http://cdn-www.i-am-bored.com/art/bored_star.gif','http://cdn-www.i-am-bored.com/art/bored_star_gray.gif')"><div id="meebo" style="display: none;"><m><iframe frameborder="0" id="meebo-iframe"></iframe></m></div>
+<body bgcolor="#000000" link="#D1D1FE" vlink="#D1D1FE" alink="#D1D1FE" text="#FFFFFF" onload="MM_preloadImages('http://cdn-www.i-am-bored.com/art/bored_star.gif','http://cdn-www.i-am-bored.com/art/bored_star_gray.gif')"><div id="meebo" style="display: none;"><m><iframe frameborder="0" id="meebo-iframe" name="meebo-iframe"></iframe></m></div>
+
+<!-- Begin Meebo -->
 <script type="text/javascript">
 window.Meebo||function(c){function p(){return["<",i,' onload="var d=',g,";d.getElementsByTagName('head')[0].",
 j,"(d.",h,"('script')).",k,"='//cim.meebo.com/cim?iv=",a.v,"&",q,"=",c[q],c[l]?
 "&"+l+"="+c[l]:"",c[e]?"&"+e+"="+c[e]:"","'\"></",i,">"].join("")}var f=window,
 a=f.Meebo=f.Meebo||function(){(a._=a._||[]).push(arguments)},d=document,i="body",
 m=d[i],r;if(!m){r=arguments.callee;return setTimeout(function(){r(c)},100)}a.$=
-{0:+new Date};a.T=function(u){a.$[u]=new Date-a.$[0]};a.v=4;var j="appendChild",
+{0:+new Date};a.T=function(u){a.$[u]=new Date-a.$[0]};a.v=5;var j="appendChild",
 h="createElement",k="src",l="lang",q="network",e="domain",n=d[h]("div"),v=n[j](d[h]("m")),
 b=d[h]("iframe"),g="document",o,s=function(){a.T("load");a("load")};f.addEventListener?
 f.addEventListener("load",s,false):f.attachEvent("onload",s);n.style.display="none";
-m.insertBefore(n,m.firstChild).id="meebo";b.frameBorder="0";b.id="meebo-iframe";
+m.insertBefore(n,m.firstChild).id="meebo";b.frameBorder="0";b.name=b.id="meebo-iframe";
 b.allowTransparency="true";v[j](b);try{b.contentWindow[g].open()}catch(w){c[e]=
 d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{var t=
 b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replace(/"/g,
 '\\"')+'");d.close();'}a.T(1)}({network:"iambored"});
-Meebo("makeEverythingSharable");
-Meebo( 'addButton', {
-    type:'action',
-    id:'twitter_share',
-    icon: "http://s.meebocdn.net/cim/skin_v87_cim_9_3_1/img/buttons/twitter.gif",
-    label: "Tweet This",
-    onClick: function() {
-        Meebo('share', {
-            url:document.URL,
-            tweet:document.title,
-            via:'twitter',
-            thumbnail:'',
-            thumbnailHeight:265,
-            thumbnailWidth:265
-        });
-    }
-});
-
+Meebo('makeEverythingSharable');
 </script>
-
+<!-- End Meebo -->
 
 <!-- Begin comScore Tag --> 
 <script> document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E")); </script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
@@ -127,17 +118,26 @@ COMSCORE.beacon({
 		</td>
 		<td align="center">
 			
+		<div class="AdModule">
 		<!-- Begin: DartAdTag -->
 		<script language="JavaScript" type="text/javascript">
 		if (typeof intOrd=="undefined")
 		{
 			var intOrd = Math.random() * 10000000000000000;
 		}
-		var strTag = '<scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.iambored/community;sz=728x90;cat=;ctype=;rating=;aff=;%RSI%envr=;dcopt=ist;tile=1;ord=' + intOrd + '?" type="text/javascript"></scr' + 'ipt>';
-		strTag = strTag.replace('%RSI%', segQS);
+		var strTag = '<scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.iambored/community;sz=728x90;cat=;ctype=;rating=;aff=;%dx%;envr=;dcopt=ist;tile=1;ord=' + intOrd + '?" type="text/javascript"></scr' + 'ipt>';
+        if (typeof dexQS !== "undefined" && dexQS.length > 0)
+        {
+            strTag = strTag.replace('%dx%', dexQS);
+        }
+        else
+        {
+            strTag = strTag.replace('%dx%', "");
+        }
 		document.write(strTag);
-		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.iambored/community;sz=728x90;cat=;ctype=;rating=;aff=;envr=;dcopt=ist;tile=1;ord=8219180660375978?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/dmd.iambored/community;sz=728x90;cat=;ctype=;rating=;aff=;envr=;tile=1;ord=2011421201628?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.iambored/community;sz=728x90;cat=;ctype=;rating=;aff=;envr=;tile=1;ord=2011421201628?" width="728" height="90" border="0" alt=""></a></noscript>
+		</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.iambored/community;sz=728x90;cat=;ctype=;rating=;aff=;;envr=;dcopt=ist;tile=1;ord=1082814186355933.8?" type="text/javascript"></script><noscript><a href="http://ad.doubleclick.net/jump/dmd.iambored/community;sz=728x90;cat=;ctype=;rating=;aff=;envr=;tile=1;ord=2011112120418?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.iambored/community;sz=728x90;cat=;ctype=;rating=;aff=;envr=;tile=1;ord=2011112120418?" width="728" height="90" border="0" alt=""></a></noscript>
 		<!-- End: DartAdTag -->
+		</div>
 
 		</td>
 	</tr>
@@ -229,11 +229,18 @@ COMSCORE.beacon({
 			var intOrd = Math.random() * 10000000000000000;
 		}
 		
-		var strTag = '<iframe src="http://ad.doubleclick.net/adi/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;%RSI%envr=;loc=atf;tile=2;ord=' + intOrd + '?" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;%RSI%envr=;loc=atf;abr=!ie;tile=2;ord=' + intOrd + '?" type="text/javascript"></scr' + 'ipt></iframe>';
-		strTag = strTag.replace('%RSI%', segQS);
+		var strTag = '<iframe class="AdModule" src="http://ad.doubleclick.net/adi/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;%dx%;envr=;loc=atf;tile=2;ord=' + intOrd + '?" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;%dx%;envr=;loc=atf;abr=!ie;tile=2;ord=' + intOrd + '?" type="text/javascript"></scr' + 'ipt></iframe>';
+        if (typeof dexQS !== "undefined" && dexQS.length > 0)
+        {
+            strTag = strTag.replace('%dx%', dexQS);
+        }
+        else
+        {
+            strTag = strTag.replace('%dx%', "");
+        }
 		document.write(strTag);
-		</script><iframe src="http://ad.doubleclick.net/adi/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;envr=;loc=atf;tile=2;ord=8219180660375978?" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;%RSI%envr=;loc=atf;abr=!ie;tile=2;ord=8219180660375978?" type="text/javascript"></script></iframe>
-		<noscript><a href="http://ad.doubleclick.net/jump/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;envr=;loc=atf;abr=!ie4;abr=!ie5;abr=!ie6;tile=2;ord=2011421201628?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;envr=;loc=atf;abr=!ie4;abr=!ie5;abr=!ie6;tile=2;ord=2011421201628?" width="300" height="250" border="0" alt=""></a></noscript>
+		</script><iframe class="AdModule" src="http://ad.doubleclick.net/adi/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;;envr=;loc=atf;tile=2;ord=1082814186355933.8?" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;%dx%;envr=;loc=atf;abr=!ie;tile=2;ord=1082814186355933.8?" type="text/javascript"></script></iframe>
+		<noscript><a href="http://ad.doubleclick.net/jump/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;envr=;loc=atf;abr=!ie4;abr=!ie5;abr=!ie6;tile=2;ord=2011112120418?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;envr=;loc=atf;abr=!ie4;abr=!ie5;abr=!ie6;tile=2;ord=2011112120418?" width="300" height="250" border="0" alt=""></a></noscript>
 		<!-- End: DartAdTag -->
 
 
@@ -244,13 +251,10 @@ COMSCORE.beacon({
 
 	<iframe src="http://www.i-am-bored.com/top_links.html" allowtransparency="1" width="300" height="310" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
-<br><br>
 
-<!-- survey -->
-<iframe src="http://www.i-am-bored.com/daily_email.html" allowtransparency="1" width="300" height="120" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-<!--end survey -->
 
-<br><br>
+<br>
+<br>
 <table width="100%" class="right_col_box" style="padding-left:5px; padding-top:7px; padding-bottom:7px"><tbody><tr>
 	<td class="copy_small" width="100%">
 	<div style="margin:0px 20px 0px 35px;float:left;">
@@ -268,30 +272,12 @@ COMSCORE.beacon({
 	<div style="clear:both;"></div>
 	</td>
 </tr></tbody></table>
+
 <br>
 
-<!-- i-am-bored widgets -->
-<table width="100%" class="right_col_header"><tbody><tr>
-  <td>widgets and things </td>
-</tr></tbody></table>
-<table width="100%" class="right_col_box" style="padding-left:5px; padding-top:7px; padding-bottom:7px">
-<tbody><tr>
-  <td class="copy_small">
-<img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"><b> <a rel="nofollow" target="_new" href="http://www.widgetbox.com/widget/sites-for-when-youre-bored" onclick="javascript:urchinTracker('/iab_out_clicks/widgetbox.com');">put i-am-bored on your blog<br>
-</a></b>
-<img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"><b> <a rel="nofollow" target="_new" href="http://www.google.com/ig/adde?moduleurl=http://hosting.gmodules.com/ig/gadgets/file/108129654554210768257/iab_google_gadget.xml&amp;source=imag" onclick="javascript:urchinTracker('/iab_out_clicks/googlegadget');">i-a-b on your Google homepage<br></a></b>
-<img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"><b> <a rel="nofollow" target="_new" href="http://e.my.yahoo.com/config/cstore?.opt=content&amp;.sid=467768" onclick="javascript:urchinTracker('/iab_out_clicks/yahoowidget');">i-a-b on your Yahoo! homepage<br>
-</a></b>
-<img border="0" width="6" height="7" src="http://cdn-www.i-am-bored.com/art/tinyarrow.gif"><b> <a target="_new" href="im_bored_rss.asp" onclick="javascript:urchinTracker('/iab_out_clicks/rsstextlink.com');">i-a-b rss feed
-</a></b>
+<a href="http://www.shirtcrave.com/" target="_blank"><img src="/ui/images/iab-sc-full.gif"></a>
+
 <br>
-</td>
-<td width="4" height="4"><img src="http://cdn-www.i-am-bored.com/art/pix.gif" width="4" height="2"></td>
-
-</tr>
-
-</tbody></table>
-<!-- end widgets -->
 <br>
 
 <table width="100%" class="right_col_header"><tbody><tr><td>friends</td><td align="right"><a class="right_col_header_link" href="im_bored_friends.asp">more friends</a> | <a class="right_col_header_link" href="im_bored_friends_contact.asp">add your site</a></td></tr></tbody></table>
@@ -302,15 +288,9 @@ COMSCORE.beacon({
 
 <br>
 
-<!-- t-shirt store ad -->
 
-<table border="0" width="300" bgcolor="#D1D1FE">
-	<tbody><tr>
-		<td><a rel="nofollow" href="http://www.cafepress.com/i_am_bored"><img border="0" src="http://cdn-www.i-am-bored.com/store/shirtpromo.gif"></a></td>
-		<td class="header"><a rel="nofollow" href="http://www.cafepress.com/i_am_bored"><font color="black">I-A-B T-Shirts</font></a></td>
-	</tr>
-</tbody></table>
-<br>
+
+
 
 
 
@@ -321,11 +301,18 @@ COMSCORE.beacon({
 			var intOrd = Math.random() * 10000000000000000;
 		}
 		
-		var strTag = '<iframe src="http://ad.doubleclick.net/adi/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;%RSI%envr=;loc=btf;tile=3;ord=' + intOrd + '?" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;%RSI%envr=;loc=btf;abr=!ie;tile=3;ord=' + intOrd + '?" type="text/javascript"></scr' + 'ipt></iframe>';
-		strTag = strTag.replace('%RSI%', segQS);
+		var strTag = '<iframe class="AdModule" src="http://ad.doubleclick.net/adi/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;%dx%;envr=;loc=btf;tile=3;ord=' + intOrd + '?" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><scr' + 'ipt language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;%dx%;envr=;loc=btf;abr=!ie;tile=3;ord=' + intOrd + '?" type="text/javascript"></scr' + 'ipt></iframe>';
+        if (typeof dexQS !== "undefined" && dexQS.length > 0)
+        {
+            strTag = strTag.replace('%dx%', dexQS);
+        }
+        else
+        {
+            strTag = strTag.replace('%dx%', "");
+        }
 		document.write(strTag);
-		</script><iframe src="http://ad.doubleclick.net/adi/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;envr=;loc=btf;tile=3;ord=8219180660375978?" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;%RSI%envr=;loc=btf;abr=!ie;tile=3;ord=8219180660375978?" type="text/javascript"></script></iframe>
-		<noscript><a href="http://ad.doubleclick.net/jump/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;envr=;loc=btf;abr=!ie4;abr=!ie5;abr=!ie6;tile=3;ord=2011421201628?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;envr=;loc=btf;abr=!ie4;abr=!ie5;abr=!ie6;tile=3;ord=2011421201628?" width="300" height="250" border="0" alt=""></a></noscript>
+		</script><iframe class="AdModule" src="http://ad.doubleclick.net/adi/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;;envr=;loc=btf;tile=3;ord=1082814186355933.8?" width="300" height="250" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"><script language="JavaScript" src="http://ad.doubleclick.net/adj/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;%dx%;envr=;loc=btf;abr=!ie;tile=3;ord=1082814186355933.8?" type="text/javascript"></script></iframe>
+		<noscript><a href="http://ad.doubleclick.net/jump/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;envr=;loc=btf;abr=!ie4;abr=!ie5;abr=!ie6;tile=3;ord=2011112120418?" target="_blank"><img src="http://ad.doubleclick.net/ad/dmd.iambored/community;sz=300x250;cat=;ctype=;rating=;aff=;envr=;loc=btf;abr=!ie4;abr=!ie5;abr=!ie6;tile=3;ord=2011112120418?" width="300" height="250" border="0" alt=""></a></noscript>
 		<!-- End: DartAdTag -->
 
 
@@ -427,7 +414,7 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 <p>
 </p><center>
-<hr size="1" color="D1D1FE" noshade="" width="100%">
+<hr size="1" color="#D1D1FE" noshade="" width="100%">
 <span class="copy_small">
 	<a href="http://www.i-am-bored.com">Bored</a> | 
 	<a href="http://www.i-am-bored.com/im_bored_add_site.asp">Suggest a Link</a> | 
@@ -435,7 +422,9 @@ In the course of serving advertisements to this site, our third-party advertiser
 	<a href="http://www.i-am-bored.com/im_bored_contact.asp">Contact I Am Bored</a> | 
 	<a href="http://www.i-am-bored.com/im_bored_about.asp">About I Am Bored</a> | 
 	<a href="http://www.i-am-bored.com/im_bored_link.asp">Link to I Am Bored</a> | 
+	<a href="http://www.i-am-bored.com/live_submission.cfm">Live Submission</a> | 
 	<a href="http://www.i-am-bored.com/im_bored_privacy.asp">Privacy</a>  | 
+	<a id="_bapw-link" style="cursor:pointer !important"><img id="_bapw-icon" style="display:inline !important;vertical-align:middle !important" src="https://info.evidon.com/c/betrad/pub/icon1.png"> <span style="vertical-align:middle !important; text-decoration: underline;color:##d1d1fe;">Ad Choices</span></a><script>(function(){var e=document,b,a=(e.location.protocol=="https:"?"https":"http"),c=(a=="https"?"https://info.evidon.com/c/betrad/pub/":"http://cdn.betrad.com/pub/");e.getElementById("_bapw-icon").src=c+"icon1.png";e.getElementById("_bapw-link").onclick=function(){var f=this;function d(i,l){var j=e.getElementsByTagName("head")[0]||e.documentElement,h=false,g=e.createElement("script");function k(){g.onload=g.onreadystatechange=null;j.removeChild(g);l()}g.src=i;g.onreadystatechange=function(){if(!h&&(this.readyState=="loaded"||this.readyState=="complete")){h=true;k()}};g.onload=k;j.insertBefore(g,j.firstChild)}this.onclick="return false";d(a+"://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js",function(){d(c+"pub1.js",function(){BAPW.i(f,{pid:46,ocid:374},false)})});return false};b=new Image();b.src=a+"://l.betrad.com/pub/p.gif?pid=46&ocid=374&ii=1&r="+Math.random()}());</script> |
 	<a href="http://www.i-am-bored.com/im_bored_copyright.asp">Copyright Policy</a> | 
 	<a href="http://www.i-am-bored.com/im_bored_rss.asp"><img align="absmiddle" src="http://cdn-www.i-am-bored.com/art/rss.gif" border="0"></a>
 	<br>
@@ -444,6 +433,35 @@ In the course of serving advertisements to this site, our third-party advertiser
 </span>
 </center>
 <p>
+
+<script type="text/html" id="template_search_suggestion">
+<div class="searchSuggestions">
+
+	<div class="module_header">
+		<div class="logo"></div>
+	</div>
+
+	<h2 class="header flc"><span class="more_on">I-A-B&#8217;s Top 5 Links In The Last 24 Hours.</h2>
+
+	<div class="articleList">
+	[!  
+        for(var i=0; ((i<result.length) && i<4); i++) {
+            result[i].link_url = result[i].link_url + "&utm_source=popup&utm_medium=" + (i+1);
+    !]
+
+		<div class="article flc">
+			<a href="[!=result[i].link_url !]"><div class="image_container">
+			<img src="[!=result[i].file_name_thumbnail !]" class="image" />
+			</div></a>
+			<h2 class="title"><a href="[!=result[i].link_url !]">[!=result[i].link_name.replace("`", "&#8217;") !]</a></h2>
+			<div class="description">[!=result[i].description.replace("`", "&#8217;") !]</div>
+		</div>
+
+	[! } !]
+	</div>
+
+</div>
+</script>
 
 <iframe name="ifexec" id="ifexec" src="http://cdn-www.i-am-bored.com/blank.html" width="1" height="1" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
 
@@ -463,17 +481,36 @@ _uacct = "UA-356751-1";
 urchinTracker();
 </script>
 
-<!-- START REVENUE SCIENCE PIXELLING CODE -->
-<script src="http://js.revsci.net/gateway/gw.js?csid=F08747"></script>
-<script>
-DM_tag();
-</script>
-<!-- END REVENUE SCIENCE PIXELLING CODE -->
 
+
+<script type="text/javascript">
+	var myHandle = GetCookie('handle');
+
+	if (!myHandle)
+	{
+		myHandle = GetCookie('HANDLE');
+	}
+</script>
+
+<!-- Casale Media: Pop Under -->
+<script type="text/javascript"><!--
+var casaleD=new Date();var casaleR=(casaleD.getTime()%8673806982)+Math.random();
+var casaleU=escape(window.location.href);
+var casaleHost=' type="text/javascript" src="http://as.casalemedia.com/s?s=';
+
+if (!myHandle)
+{
+    document.write('<scr'+'ipt'+casaleHost+'109543&amp;u=');
+    document.write(casaleU+'&amp;f=1&amp;id='+casaleR+'"><\/scr'+'ipt>');
+}
+
+//--></script><script type="text/javascript" src="http://as.casalemedia.com/s?s=109543&amp;u=https%3A//web.archive.org/web/20111122040417id_/http%253A//www.i-am-bored.com/im_bored_privacy.asp&amp;f=1&amp;id=1749508781.7408624"></script>
+<!-- DO NOT MODIFY -->
 
 <script type="text/javascript">
     Meebo('domReady');
 </script>
+
 
 
 
