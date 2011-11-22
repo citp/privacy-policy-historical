@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bistasolutions.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521022431id_/http%3A//www.bistasolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bistasolutions.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122091713id_/http%3A//www.bistasolutions.com/privacy-policy) for the most accurate reproduction.*
 
-# Bista Solutions - Privacy Policy
+# Bista Solutions - Privacy Policy erp open erp open source erp software erp for manufacturing industries vtiger crm vtiger customization vtiger implementation sugarcrm customization processmaker implementation open source erp software and support
+
+[Private Policy](http://www.bistasolutions.com/business-solutions/erp/overview)
 
 This privacy policy sets out how Bista Solutions uses and protects any information that you give Bista Solutions when you use this website.
 
@@ -63,3 +65,7 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+**Our Offerings :**
+
+**** We offer implementations of erp, enterprise resource planning software, erp software, business software, workflow software, work flow management, bpm, business process management, vtiger crm, sales force automation tool, sugar crm customizations, customer relationship management, ecommerce development magento website development ecommerce integration with open erp, open source software, open source erp software, processmaker, education crm for schools colleges universities and institutes. 
