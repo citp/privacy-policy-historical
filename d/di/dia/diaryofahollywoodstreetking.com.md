@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the diaryofahollywoodstreetking.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523184608id_/http%3A//diaryofahollywoodstreetking.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diaryofahollywoodstreetking.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122045315id_/http%3A//diaryofahollywoodstreetking.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice | Hollywood Street King
-
-[](http://twitter.com/share?url=http://diaryofahollywoodstreetking.com/privacy-notice/&text=Privacy+Notice&via=jackyjasper&related=hwoodstreetking%2Caoneent "Post to Twitter")
+# Privacy Notice | Exclusive Celebrity Gossip and News
 
 Last updated: January 21, 2011
 
