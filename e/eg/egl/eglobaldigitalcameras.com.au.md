@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eglobaldigitalcameras.com.au privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524045145id_/http%3A//www.eglobaldigitalcameras.com.au/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglobaldigitalcameras.com.au privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122122721id_/http%3A//www.eglobaldigitalcameras.com.au/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - eGlobaL Store Co.
 
