@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the millsandboon.co.uk privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221124841id_/http%3A//millsandboon.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millsandboon.co.uk privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123000535id_/http%3A//www.millsandboon.co.uk/privacy.asp) for the most accurate reproduction.*
 
-# Mills and Boon
+# Romance, fiction books and ebooks from Mills & Boon
 
-Harlequin Mills & Boon Limited and [www.millsandboon.co.uk](http://www.millsandboon.co.uk/) are totally committed to the very highest level of customer service and this includes protecting your privacy and treating your personal information with the utmost confidentiality. We use the information we collect about you to process orders and to provide an individual and personalised experience and shopping area for you at [www.millsandboon.co.uk](http://www.millsandboon.co.uk/).
+Harlequin (UK) Ltd and [www.millsandboon.co.uk](http://www.millsandboon.co.uk/) are totally committed to the very highest level of customer service and this includes protecting your privacy and treating your personal information with the utmost confidentiality. We use the information we collect about you to process orders and to provide an individual and personalised experience and shopping area for you at [www.millsandboon.co.uk](http://www.millsandboon.co.uk/).
 
 ## Information we collect and why?
 
@@ -10,7 +10,7 @@ Harlequin Mills & Boon Limited and [www.millsandboon.co.uk](http://www.millsandb
   * We also ask for your telephone number which enables us to contact you urgently if there are any problems with your order.
   * When you enter a contest or other promotional feature, we may ask for your name, address and e-mail address so we can administer the contest and notify winners.
   * We personalise your shopping service by using your purchases to shape our recommendations about other books that might be of interest to you. We also monitor customer traffic patterns and site usage to help us develop the design and layout of our site.
-  * We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new services and special offers that we think you'll find useful. If you would rather not receive this information, please send an e-mail to [customer.relations@hmb.co.uk](mailto:customer.relations@hmb.co.uk) or [dataman@hmb.co.uk](mailto:dataman@hmb.co.uk).
+  * We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new services and special offers that we think you'll find useful. If you would rather not receive this information, please send an e-mail to [customer.relations@hqnuk.co.uk ](mailto:customer.relations@hmb.co.uk) or [dataman@hqnuk.co.uk ](mailto:dataman@hmb.co.uk).
 
 
 
@@ -20,13 +20,22 @@ When you place orders or access your account information, we offer the use of a 
 
 ## Apart from being sweet treats, what do you need to know about "cookies"?
 
-Cookies are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but they do enable us to relate your use of our site to information that you have specifically and knowingly provided to us. Most browsers automatically accept cookies, but you can usually change your browser to prevent that. Even without a cookie, you can still use most of the features on our site, including placing items in your shopping basket and purchasing them.
+Cookies are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain any personally identifying information, but they do enable us to relate your use of our site to information that you have specifically and knowingly provided to us. 
+
+Most browsers automatically accept cookies, but you can usually change your browser to prevent that. Even without a cookie, you can still use most of the features on our site, including placing items in your shopping basket and purchasing them.
+
+Opt in / Opt out
+
+As a customer of Mills & Boon, you can receive our free email messages and get exclusive, tailored product offers and deals based on your preferences, browsing behaviour and the purchases you make from Mills & Boon.
+
+If you do not wish to receive these emails you have the option to opt out at any time by clicking on the unsubscribe link found at the bottom of our emails and/or send a blank e-mail message to [customer.relations@hqnuk.co.uk](mailto:customer.relations@hqnuk.co.uk) or [dataman@hqnuk.co.uk](mailto:dataman@hqnuk.co.uk) to change your preferences. Remember to change your preferences for each of the e-mail accounts you have given us.
+
+  
+
 
 ## Will we disclose the information we collect to outside parties?
 
-[www.millsandboon.co.uk](http://www.millsandboon.co.uk/) may choose to sell, trade or rent your personal information to trustworthy third parties, but should you wish us not to do so then send a blank e-mail message to [customer.relations@hmb.co.uk](mailto:customer.relations@hmb.co.uk) or [dataman@hmb.co.uk](mailto:dataman@hmb.co.uk). (If you use more than one e-mail address to access us, send this message from each e-mail account you use.) Also, we may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will not include any personal identifying information.
-
-Should you never want to receive any announcements or special offers from us, please send a blank e-mail message to [customer.relations@hmb.co.uk](mailto:customer.relations@hmb.co.uk) or [dataman@hmb.co.uk](mailto:dataman@hmb.co.uk) to change your preferences. Remember to change your preferences for each of the e-mail accounts you have given us.
+[www.millsandboon.co.uk](http://www.millsandboon.co.uk/) may choose to sell, trade or rent your personal information to trustworthy third parties, but should you wish us not to do so then send a blank e-mail message to [customer.relations@hqnuk.co.uk ](mailto:customer.relations@hmb.co.uk) or [dataman@hqnuk.co.uk ](mailto:dataman@hmb.co.uk). (If you use more than one e-mail address to access us, send this message from each e-mail account you use.) Also, we may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will not include any personal identifying information.
 
 ## In Summary
 
@@ -38,4 +47,4 @@ By using our site, you consent to the collection and use of this information by 
 
 [](http://www.dma.org.uk/)
 
-[Back to help menu](https://web.archive.org/web/20101221124841id_/http%3A//millsandboon.co.uk/faqs.asp)
+[Back to help menu](https://web.archive.org/web/20111123000535id_/http%3A//www.millsandboon.co.uk/faqs.asp)
