@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinesocialmedia.net privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525040735id_/http%3A//www.onlinesocialmedia.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinesocialmedia.net privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122134723id_/http%3A//www.onlinesocialmedia.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Online Social Media
+# Privacy Policy : Online Social Media - Online Social Media
 
 **Advertisers**  
 Third-party companies serve our advertisements, and these companies may use information – not including your email address, name, or telephone number – about visits you make to this and other websites. This is used to provide advertisements about goods and services you may find interesting. [Click here](http://www.networkadvertising.org/managing/opt_out.asp) to find out more about this practice, and to learn about your choices in not having companies use this information.
