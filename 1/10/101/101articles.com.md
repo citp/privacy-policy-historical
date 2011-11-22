@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the 101articles.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523165334id_/http%3A//jingerjarrett.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101articles.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122032204id_/http%3A//jingerjarrett.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Internet Marketing and Copywriting
-
-
-
 
 Your privacy is important to jingerjarrett.com. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on these pages and at every point where personally identifiable information may be requested.
 
@@ -51,10 +48,3 @@ Protecting the privacy of the very young is especially important to us at jinger
 Also, if we hear of, are informed of, or are witness to any illegal activity with, to, or directed at children, we will promptly report such parties to the proper authorities for prosecution. 
 
 _jingerjarrett.com_
-
-  
-
-
-
-  
-
