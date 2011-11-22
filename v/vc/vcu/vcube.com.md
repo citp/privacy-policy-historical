@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vcube.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201042934id_/http%3A//vcube.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcube.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122021054id_/http%3A//vcube.com/privacy_policy) for the most accurate reproduction.*
 
-# V-Cube - Web Based Technology for Visial Learning and Video Communication
+# V-Cube - Web Based Technology for Visual Learning and Video Communication
 
 V-cube Privacy Policy
 
