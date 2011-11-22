@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the phoenix.gov privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611123624id_/http%3A//phoenix.gov/ESERVICES/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenix.gov privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122170800id_/http%3A//phoenix.gov/ESERVICES/privacy.html) for the most accurate reproduction.*
 
-# PHOENIX.GOV SECURITY AND PRIVACY STATEMENTS
+# Official Site of the City of Phoenix - Phoenix.Gov Security and Privacy Statements
 
-Phoenix.Gov Security and Privacy Statements
-
-## Phoenix.Gov Security Statement
+### Phoenix.Gov Security Statement
 
 Thank you for visiting phoenix.gov and reviewing our security statement. The purpose of this statement is to let you know how we protect information you may choose to provide to us.
 
@@ -12,11 +10,11 @@ The City has taken several steps to safeguard the integrity of its data and prev
 
 The City recognizes that there is no such thing as "perfect security," so this information should not be construed in any way as giving business, legal, or other advice, or warranting the security of information provided via the City's Website as fail proof.
 
-## Phoenix.Gov Privacy Statement
+### Phoenix.Gov Privacy Statement
 
 Thank you for visiting phoenix.gov and reviewing our privacy policy. The purpose of our policy is to inform you of the types of information we gather when you visit our site, how we may use that information, whether we disclose it to anyone, and who to contact with questions.
 
-### Information We Collect
+##### Information We Collect
 
 When you visit our site, we do not collect your personal information, like your name or address, unless you choose to provide it to us. We do collect some technical information that's used to improve your visit to our site, to help us make the site more useful for you, and to learn about the number of visitors to our site and the types of technology our visitors use.
 
@@ -26,7 +24,7 @@ When you browse, read pages, or download information on phoenix.gov, we automati
   * The type of browser used to access our site (such as Firefox or Internet Explorer)
   * The date and time you access our site
   * The pages you visit, and
-  * If you linked to phoenix.gov from another Website, the address of that Website.
+  * If you linked to phoenix.gov from another Website, the address of that Website
 
 
 
@@ -38,7 +36,7 @@ You may choose to provide us with personal information, such as by filling out a
 
 Browser-based "cookies" are simple text files stored on your computer by your Web browser. There are basically two types of these cookies, persistent and non-persistent.
 
-Persistent cookies stay on your computer even after you navigate away from phoenix.gov. With your permission, we may use persistent cookies to increase the ease-of-use of our site. 
+Persistent cookies stay on your computer even after you navigate away from phoenix.gov. With your permission, we may use persistent cookies to increase the ease-of-use of our site.
 
 Non-persistent cookies are automatically destroyed when you close your Web browser. We use non-persistent cookies in applications (such as the online job application) that keep track of your online session and make it possible for you to complete a form or use a function.
 
@@ -46,16 +44,14 @@ Non-persistent cookies are automatically destroyed when you close your Web brows
 
 As a governmental agency, we are governed by public records laws. Any information that we receive through the use of our site is subject to the same provisions as information provided on paper.
 
-If you send us e-mail, we may redirect your message to another governmental agency or person who is in a better position to answer your question or handle your message. We only share the information you provide with another agency if your inquiry relates to that agency or as otherwise required by law. Your e-mail and information contained within it could also be released to a media outlet through a formal public records request. This may include your name and e-mail address. Therefore, before you submit e-mail to the city of Phoenix, you should understand it is not private or confidential. 
+If you send us e-mail, we may redirect your message to another governmental agency or person who is in a better position to answer your question or handle your message. We only share the information you provide with another agency if your inquiry relates to that agency or as otherwise required by law. Your e-mail and information contained within it could also be released to a media outlet through a formal public records request. This may include your name and e-mail address. Therefore, before you submit e-mail to the city of Phoenix, you should understand it is not private or confidential.
 
 Otherwise, we do not share personal identifying information with any third party without your permission. We disclose only in aggregate form our statistical analyses or demographics of users to third parties. This information is not reported or used in any manner that would reveal personally identifying information and is not released to any outside parties unless we are legally required to do so in connection with law enforcement investigations or other legal proceedings.
 
 ### Linking to Other Sites
 
-The City's site has many links to other Websites, such as those operated by other governmental agencies, nonprofit organizations, and private businesses. When you link to another site, you are no longer on the City's site and this privacy policy does not apply. When you link to another Website, you are subject to that site's privacy policy which we encourage you to review. 
+The City's site has many links to other Websites, such as those operated by other governmental agencies, nonprofit organizations, and private businesses. When you link to another site, you are no longer on the City's site and this privacy policy does not apply. When you link to another Website, you are subject to that site's privacy policy which we encourage you to review.
 
 ### For More Information
 
-If you have questions about this privacy policy, or if you believe that the City of Phoenix is using your personally identifying information for a purpose other than described here, please contact the City's [Information Security & Privacy Office](https://web.archive.org/email/emprvcy.html).
-
-_Last modified on 09/04/2010 08:05:16_
+If you have questions about this privacy policy, or if you believe that the City of Phoenix is using your personally identifying information for a purpose other than described here, please contact the City's Information Security & Privacy Office.
