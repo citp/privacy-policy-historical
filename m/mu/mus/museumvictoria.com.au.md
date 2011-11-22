@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the museumvictoria.com.au privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523185909id_/http%3A//museumvictoria.com.au/footer-links/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museumvictoria.com.au privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122044021id_/http%3A//museumvictoria.com.au/footer-links/privacy) for the most accurate reproduction.*
 
-# Museum Victoria: Privacy
+# Privacy: Museum Victoria
 
 ### Museum Victoria Website Privacy Statement
 
@@ -97,7 +97,7 @@ Museum Victoria websites may, from time to time, contain links to the websites o
 
 ### 1.1.8 Web Measurement Service used by Museum Victoria
 
-Pages on the site are coded with Google Analytics software. This software stores a cookie in your browser, which contains a unique identifier, and sends information to Google Analytics. In common with many websites we may also collect information which tells us about visitors to the Museum Victoria website. For example, we may collect information about the date, time and duration of visits, and which pages of the Museum Victoria website are most commonly accessed. We do not and will not marry any data collected by Google Analytics with any personal information.  Please refer to [Google's Privacy Policy](http://www.google.com/intl/en_all/privacy.html) for more information.
+Pages on the site are coded with Google Analytics software. This software stores a cookie in your browser, which contains a unique identifier, and sends information to Google Analytics. In common with many websites we may also collect information which tells us about visitors to the Museum Victoria website. For example, we may collect information about the date, time and duration of visits, and which pages of the Museum Victoria website are most commonly accessed. We do not and will not marry any data collected by Google Analytics with any personal information.  Please refer to [Google's Privacy Policy](http://www.google.com/intl/en_ALL/privacy.html) for more information.
 
 ### 1.1.9 Cookies
 
