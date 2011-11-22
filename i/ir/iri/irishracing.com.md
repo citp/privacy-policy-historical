@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishracing.com privacy policy that was archived on 2006-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060616110535id_/http%3A//www.irish-racing.com/v3privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishracing.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122112258id_/http%3A//www.irishracing.com/v5privacypolicy.htm) for the most accurate reproduction.*
 
 # Irish Racing - Privacy Policy
 
@@ -7,7 +7,7 @@
     * Option Sign Ups 
     * Polling 
     * Cookies 
-    * “E-mail this story” service 
+    * �E-mail this story� service 
     * Information Automatically Logged 
     * Auditing our traffic figures 
     * Irish Data Protection Commissioner 
