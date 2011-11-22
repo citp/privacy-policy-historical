@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batfa.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505130108id_/http%3A//www.batfa.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batfa.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122162815id_/http%3A//www.batfa.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy policy of Batfa Japan Inc.
 
