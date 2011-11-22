@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comsuper.gov.au privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623060805id_/http%3A//comsuper.gov.au/footer/index_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comsuper.gov.au privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122162106id_/http%3A//www.comsuper.gov.au/footer/index_privacy.shtml) for the most accurate reproduction.*
 
 # ComSuper > Privacy and security statements
 
@@ -90,7 +90,7 @@ Back to top
 
 ### General principles
 
-We will disclose your personal information under the following circumstances:
+Your personal information will be kept confidential unless we disclose your personal information under the following circumstances:
 
   * with your consent
   * when it is reasonably expected that you are aware that the information is usually passed to that person, body or agency
@@ -126,7 +126,7 @@ Family law matters are also covered by the usual Privacy legislation requirement
 
 ### Surveys
 
-ComSuper monitors and evaluates its performance against the standards set out in the [Service Charter](https://web.archive.org/web/20110623060805id_/http%3A//comsuper.gov.au/about_comsuper/service-charter.html).
+ComSuper monitors and evaluates its performance against the standards set out in the [Service Charter](https://web.archive.org/web/20111122162106id_/http%3A//www.comsuper.gov.au/about_comsuper/service-charter.shtml).
 
 To continually improve our service we have commissioned an independent firm, ORIMA, to assess our performance against those standards.
 
@@ -160,7 +160,7 @@ In most circumstances, no charge will be incurred for releasing your personal in
 
 Your request to access information will be dealt with in a reasonable time.
 
-If we refuse to provide you with access to information, we will provide you with reasons for the refusal and details of your appeal rights. Requests for the release of information should be sent to the Freedom of Information Officer. See ['Contact us'](https://web.archive.org/web/20110623060805id_/http%3A//comsuper.gov.au/contact/index_contact.html)
+If we refuse to provide you with access to information, we will provide you with reasons for the refusal and details of your appeal rights. Requests for the release of information should be sent to the Freedom of Information Officer. See ['Contact us'](https://web.archive.org/web/20111122162106id_/http%3A//www.comsuper.gov.au/contact/index_contact.shtml)
 
 Back to top
 
@@ -174,13 +174,13 @@ Back to top
 
 ## Use and disclosure of information
 
-Personal information provided to ComSuper when you send us a message will only be used for the purpose for which you have provided it. Your details will not be added to a general mailing list. Unless required or authorised by law, ComSuper will not disclose this information without consent.
+Personal information provided to ComSuper when you send us a message will only be used for the purpose for which you have provided it. Your details will not be added to a general mailing list. Unless required or authorised by law, ComSuper will not disclose this information without consent. In accordance with the Archives Act and the nature of ComSuper’s business, records are presently stored securely for an indefinite period, this may change with agreement from National Archives of Australia.
 
 Back to top
 
 ## Resolving your concerns
 
-If you wish to gain access to your personal information, have a complaint about a privacy issue or wish to query how your personal information is collected or used, please forward your request, complaint or query to the relevant contact. [See 'Contact us'](https://web.archive.org/web/20110623060805id_/http%3A//comsuper.gov.au/contact/index_contact.html).
+If you wish to gain access to your personal information, have a complaint about a privacy issue or wish to query how your personal information is collected or used, please forward your request, complaint or query to the relevant contact. [See 'Contact us'](https://web.archive.org/web/20111122162106id_/http%3A//www.comsuper.gov.au/contact/index_contact.shtml).
 
 Back to top
 
@@ -239,8 +239,8 @@ Commonwealth laws protect your personal information. These laws prohibit any per
 
 When using online services all information passing between your personal computer and the secure section of our website is encrypted using Secure Socket Layer (SSL).
 
-While we endeavour to provide a secure Internet environment, users should note that there are inherent risks associated with the transmission of information via the Internet. We provide alternative means of communication including direct contact via telephone, facsimile, post or face-to-face meetings. [See 'Contact us'](https://web.archive.org/web/20110623060805id_/http%3A//comsuper.gov.au/contact/index_contact.html)
+While we endeavour to provide a secure Internet environment, users should note that there are inherent risks associated with the transmission of information via the Internet. We provide alternative means of communication including direct contact via telephone, facsimile, post or face-to-face meetings. [See 'Contact us'](https://web.archive.org/web/20111122162106id_/http%3A//www.comsuper.gov.au/contact/index_contact.shtml)
 
 Back to top
 
-Last updated January 28, 2010
+Last updated October 18, 2011
