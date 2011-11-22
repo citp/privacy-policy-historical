@@ -1,0 +1,369 @@
+<!--The following is the downloaded HTML source of the printland.in privacy policy that was archived on 2011-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111122092654id_/http%3A//www.printland.in/cms/privacy_policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Printland - Privacy Policy</title>
+<meta name="Keywords" content="Business card, postcard, flyer, flier, free design, free business card design, business card designer, online designer, free postcard, free postcard design, club flyers, brochure, cards, door hanger">
+<meta name="description" content="Free Business Card Design, Business card printing, Postcard, Flyer, Door Hanger, Brochure, Realty Printing, Marketing Material, Order Forms, Rip Business card, Magnet, Free online designer">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-language" content="EN">
+<meta name="robots" content="index,follow">
+<meta name="googlebot" content="index,follow">
+<meta name="revisit-after" content="1 days">
+<meta name="google-site-verification" content="B9g08flAjXQ6VT9OvcD7ObgJpsJtBpFe6L-V_lGm7QU">
+<meta name="y_key" content="67daeefa22a62b92">
+<link href="http://www.printland.in/templates/printland/css/structure.css" rel="stylesheet" media="screen" type="text/css">
+<link href="http://www.printland.in/templates/printland/css/style.css" rel="stylesheet" media="screen" type="text/css">
+<link href="http://www.printland.in/css/common.css" rel="stylesheet" media="screen" type="text/css">
+<link href="http://www.printland.in/templates/printland/css/breadcrumbs.css" rel="stylesheet" media="screen" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.printland.in/jscript/common.js" language="javascript"></script>
+<script src="http://www.printland.in/jscript/jquery.js" language="javascript"></script>
+<script src="http://www.printland.in/jscript/ddaccordion.js" language="javascript"></script>
+<script language="javascript" type="text/javascript">
+var userPath = 'printland';
+var userLanguage = 'english';
+var http_tm_tmpl_path = 'http://www.printland.in/templates/printland/images/english/';
+
+function getEmail() {
+	var errorflag = false;
+	var email = trim(document.getElementById('subemail_address').value);
+	document.getElementById("sub_emailAddress").className= 'requiredInformation';
+	if(email == '' || email == 'Enter email ID') {
+		document.getElementById("sub_emailAddress").innerHTML = "Email ID is required";
+		document.getElementById('subemail_address').focus();
+		errorflag = true;
+	} else if (emailValidate(email) == 'error') {
+		document.getElementById("sub_emailAddress").innerHTML = "Invalid email ID";
+		document.getElementById('subemail_address').focus();
+		errorflag = true;
+	} else {
+		document.getElementById("sub_emailAddress").innerHTML = "&nbsp;";
+		document.getElementById('subemail_address').focus();
+	}
+	if(errorflag == true)
+		return false;
+	
+	xmlHttp=GetXmlHttpObject(newsletter)
+	xmlHttp.open("GET", "/subscription_action.php?email="+email, true)
+	xmlHttp.send(null)
+	return false;
+}
+function newsletter() {
+	if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete") {
+		if(xmlHttp.responseText == 1) {
+			document.getElementById("sub_emailAddress").innerHTML="Email ID added successfully";
+			document.getElementById("sub_emailAddress").className= 'message_success';
+		} else {
+			document.getElementById("sub_emailAddress").innerHTML=xmlHttp.responseText;
+		}
+    	document.getElementById('subemail_address').value = "";
+		document.getElementById('subemail_address').focus();
+	}
+}
+function validate_login_details(objform, display_type) {
+	var errorflag = false;
+	var iChars = "!@#$%^&*()+=-[]\\\';,./{}|\":<>?0123456789";
+	email = objform.left_email_signup.value;
+	if(email == '') {
+		objform.getElementById("UserNameError").innerHTML = "Email ID is required";
+		errorflag = true;
+	} else if (emailValidate(email) == 'error') {
+		objform.getElementById("UserNameError").innerHTML = "Invalid email ID";
+		errorflag = true;
+	} else {
+		document.getElementById("UserNameError").innerHTML = "&nbsp;";
+	}
+	
+	if(trim(document.login_signin.left_password_signup.value) == "") {
+		document.getElementById("UserPassError").innerHTML = "Password is required";
+		errorflag = true;
+	} else {
+		document.getElementById("UserPassError").innerHTML = "&nbsp;";
+	}
+	if(errorflag == true) {
+		return false;
+	} else{
+		return true;
+	}
+}
+function Validate_login_details()
+{
+	
+	var errorflag = false;
+	var iChars = "!@#$%^&*()+=-[]\\\';,./{}|\":<>?0123456789";
+	email = document.login_signin.left_email_signup.value;
+	if(email == '') {
+		document.getElementById("UserNameError").innerHTML = "Email ID is required";
+		errorflag = true;
+	} else if (emailValidate(email) == 'error') {
+		document.getElementById("UserNameError").innerHTML = "Invalid email ID";
+		errorflag = true;
+	} else {
+		document.getElementById("UserNameError").innerHTML = "&nbsp;";
+	}
+	
+	if(trim(document.login_signin.left_password_signup.value) == "") {
+		document.getElementById("UserPassError").innerHTML = "Password is required";
+		errorflag = true;
+	} else {
+		document.getElementById("UserPassError").innerHTML = "&nbsp;";
+	}
+	if(errorflag == true) {
+		return false;
+	} else{
+		return true;
+	}
+}
+
+function Validate_login_header_details() {
+	var iChars = "!@#$%^&*()+=-[]\\\';,./{}|\":<>?0123456789";
+	var email = document.header_login_signin.email_signup.value;
+   if(email == '') {
+		alert("Email ID is required")
+		document.header_login_signin.email_signup.focus();
+		return false;
+	} else if (emailValidate(email) == 'error') {
+		alert("Invalid email ID")
+		email = '';
+		document.header_login_signin.email_signup.focus();
+		return false;
+	} else {
+		email = "";
+	}
+	
+	if(trim(document.header_login_signin.password_signup.value) == "") {
+		alert("Password is required");
+		document.header_login_signin.password_signup.value = "";
+		document.header_login_signin.password_signup.focus();
+		return false;
+	} 
+}
+/** when button typer is css then ues this function for clear cart **/
+function clearCart() {
+	if(confirm('SHOPPING_CART_REMOVE_CONFIRMATION')) {
+		window.location.href= "http://www.printland.in/shoppingcart.php?action=rem";		
+		return true;		
+	}
+	return false;
+}
+</script>
+<script src="http://www.printland.in/jscript/mootools.js" language="javascript"></script>
+<script src="http://www.printland.in/jscript/sliding-tabs.js" language="javascript"></script>
+</head>
+<body>
+<script type="text/javascript">
+				ddaccordion.init( {
+					headerclass: "headerbar", 
+					contentclass: "submenu", 
+					revealtype: "click", 
+					mouseoverdelay: 200, 
+					collapseprev: true, 
+					defaultexpanded: [0], 
+					onemustopen: false, 
+					animatedefault: false, 
+					persiststate: true, 
+					toggleclass: ["", "selected"], 
+					togglehtml: ["", "", ""], 
+					animatespeed: "normal", 
+					oninit:function(headers, expandedindices){ 
+						ddaccordion.collapseall('headerbar');
+					},
+					onopenclose:function(header, index, state, isuseractivated){ 
+					}
+				})
+			  </script><!-- Main Start -->
+<div id="container">
+	<!--header-start-->
+  	<div id="header">
+	    <div id="top_menu">	
+	<p class="top_menu_userinfo">	
+	</p>
+	<p>		
+		</p><ul>
+<li><a href="http://www.printland.in/user_registration.php" target="_self"><span>Sign In</span></a></li>
+<li>|</li>
+<li><a href="http://www.printland.in/shoppingcart.php" target="_self"><span>Shopping Cart [Items : 0]</span></a> </li>
+<li>|</li>
+<li><a href="http://www.printland.in/cms/contact_us.html" target="_self"><span>Contact Us</span></a></li>
+</ul>
+	<p></p>	
+</div>
+<div id="logocontainer">
+	<div id="logo">
+    	<a href="/"><img src="http://printland.onprintshop.com/images/contentimages/images/logo.png" alt="logo" border="0"></a>
+	</div>
+    <div id="main_menu">
+    	<ul id="menumain">
+<li><a href="http://www.printland.in/" target="_self"><span>Home</span></a></li>
+<li><a href="http://www.printland.in/cms/Products_Menu.html" target="_self"><span>Products</span></a></li>
+<li><a href="http://www.printland.in/cms/Ser_vice.html" target="_self"><span>Services</span></a></li>
+<li><a href="http://www.printland.in/cms/Printland%20for%20Business_menu1.html" target="_self"><span>Printland for Business</span></a></li>
+<li><a href="http://www.printland.in/cms/Printland for Home.html" target="_self"><span>Printland for Home</span></a></li>
+<li><a href="http://www.printland.in/print_now.php" target="_self"><span>Print Now</span></a></li>
+</ul>
+	</div>
+</div>  	</div>
+	<!--header-end-->
+	<noscript>
+	<div id="noscript-warning">Currently Javascript is disabled in your browser, so please enable it. Check it out <a target="_blank" href="http://www.activatejavascript.org/">how to enable javascript</a> in various browsers.</div>
+</noscript>	
+	<!--middleconte-start-->
+	<div id="middlecontent">
+				<div id="leftpanel">
+		<div id="left_top_bg"></div>
+		<div id="left_inner_bg">
+							<div class="left_block">
+						
+					<div class="left_block_title">
+			           	<h1>Product Category</h1>
+					</div>
+				
+			        <div class="left_block_content">
+						<div class="urbangreymenu"><ul class="headerbar" headerindex="0_h"><li><a class="act">Corporate Identity</a></li></ul><ul class="submenu"><li><a href="http://www.printland.in/p77/Business-Cards/product_info.html">Business Cards</a></li><li><a href="http://www.printland.in/p74/Letterheads/product_info.html">Letterheads</a></li><li><a href="http://www.printland.in/p5/Envelopes/product_info.html">Envelopes</a></li><li><a href="http://www.printland.in/p80/Flyers-(Single-Side)/product_info.html">Flyers (Single Side)</a></li><li><a href="http://www.printland.in/p81/Flyers-(Double-Side)/product_info.html">Flyers (Double Side)</a></li><li><a href="http://www.printland.in/p137/Danglers/product_info.html">Danglers</a></li><li><a href="http://www.printland.in/p138/Certificates/product_info.html">Certificates</a></li><li><a href="http://www.printland.in/p136/Appointment-Cards/product_info.html">Appointment Cards</a></li></ul></div><div class="urbangreymenu"><ul class="headerbar" headerindex="1_h"><li><a class="act">Business Documents</a></li></ul><ul class="submenu"><li><a href="http://www.printland.in/p108/Manuals-(Single-Side-pages)/product_info.html">Manuals (Single Side pages)</a></li><li><a href="http://www.printland.in/p109/Manuals-(Double-Side-pages)/product_info.html">Manuals (Double Side pages)</a></li><li><a href="http://www.printland.in/p124/Project-Reports-(Single-Side-pages)/product_info.html">Project Reports (Single Side pages)</a></li><li><a href="http://www.printland.in/p125/Project-Reports-(Double-Side-pages)/product_info.html">Project Reports (Double Side pages)</a></li><li><a href="http://www.printland.in/p123/Presentations-(Single-Side-pages)/product_info.html">Presentations (Single Side pages)</a></li><li><a href="http://www.printland.in/p126/Presentations-(Double-Side-pages)/product_info.html">Presentations (Double Side pages)</a></li><li><a href="http://www.printland.in/p66/Rubber-Stamp/product_info.html">Rubber Stamp</a></li><li><a href="http://www.printland.in/p65/Brochures/product_info.html">Brochures</a></li><li><a href="http://www.printland.in/p140/Bookmarks/product_info.html">Bookmarks</a></li></ul></div><div class="urbangreymenu"><ul class="headerbar" headerindex="2_h"><li><a class="act">Events and Celebrations</a></li></ul><ul class="submenu"><li><a href="http://www.printland.in/p68/Posters/product_info.html">Posters</a></li><li><a href="http://www.printland.in/p90/Collage/product_info.html">Collage</a></li><li><a href="http://www.printland.in/p149/Postcards/product_info.html">Postcards</a></li><li><a href="http://www.printland.in/p151/Invitation-Cards/product_info.html">Invitation Cards</a></li><li><a href="http://www.printland.in/p139/Event-Tickets/product_info.html">Event Tickets</a></li></ul></div><div class="urbangreymenu"><ul class="headerbar" headerindex="3_h"><li><a class="act">Customized Merchandise</a></li></ul><ul class="submenu"><li><a href="http://www.printland.in/p135/Mug-Printing/product_info.html">Mug Printing</a></li><li><a href="http://www.printland.in/p94/CD%2BDVD-Duplication/product_info.html">CD/DVD Duplication</a></li><li><a href="http://www.printland.in/p141/Flash-Drives/product_info.html">Flash Drives</a></li><li><a href="http://www.printland.in/p152/Notepad/product_info.html">Notepad</a></li></ul></div>					</div>
+				</div>
+							</div>
+		<div id="left_bottom_bg"></div>
+		</div>
+                <div id="middlepanelwithleft">         <div class="middle_top_bg"></div>			
+			<div id="middle_inner_bg">
+				<div class="page_heading"><h1>Privacy Policy</h1></div>
+<div class="middle_inner_section">
+	<div class="content_text">
+		<p style="text-align: justify;">
+	Printland recognizes the importance of maintaining your privacy. We value your privacy and appreciate your trust in us. This Privacy Policy applies to current and former visitors to our website and to our online customers. By visiting and/or using our website, you agree to this Privacy Policy.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	This Privacy Policy explains the information practices that apply to personally identifiable information that we collect about you as an individual when you visit and/or use our website. Any information that we collect about you while you are visiting or using our website will be handled in accordance with this Printland Privacy Policy and will not be shared except in accordance with this Printland Privacy Policy. This Privacy Policy does not apply to information about you collected by our affiliates or third party websites that may post links or advertisements on or otherwise be accessible from the Printland website. The information collected by these affiliates or third party websites is subject to their own privacy policies.</p>
+<p style="text-align: justify;">
+	<br>
+	<strong>Information We Collect</strong></p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	This section of our Privacy Policy describes the categories of information collected by Printland. All data that we collect is processed and stored in Delhi, India. You have the option not to provide information, however, withholding information may prevent you from being able to use some of our website features.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	<u>Information Collected Automatically</u>: Whenever you visit our website, we automatically collect some information about your transactions with us, and your use of our website. For example, we automatically collect your IP address, for Printland internal use only, such as to help us diagnose problems with our server and administer our website. We also automatically track certain information about your activities on our website such as the type of web browser you are using and click stream data. If you are a registered Printland customer, we link this automatically-collected data to the personally identifiable information we collect about you described below. We use this information to do internal research on your interests and to help us better understand and serve you.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	<u>Information You Send To Us</u>: If you choose to provide us with personal information, such as by sending us an e-mail or by filling out a form with your personal information and submitting it to us through our website, we collect the personal information that you provide to us. For example, if you register or sign up for an account with us, we collect your name, e-mail address, and password. If you place an order with us, we collect the personally identifiable information that you provide to us such as your shipping, billing, and payment information.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	From time-to-time Printland may give you the opportunity to participate in contests or surveys on our website. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information.</p>
+<p style="text-align: justify;">
+	<u>Information About Your Transactions With Us:</u>In addition, we collect your order information and purchase and payment history.</p>
+<p style="text-align: justify;">
+	<br>
+	<strong>Cookies and Similar Files</strong></p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Our website uses “cookies” and files that are similar to cookies. Cookies are alphanumeric identifiers created by your browser at our request and stored in an approved and standardized place on your computer. By transferring these cookies, Printland assigns you a unique customer code and record locater. Information about your activity on our website can then be included in your customer record, which is stored within the Printland firewall. When you visit or return to our website, we read the cookie to identify you as one of our customers and help recall orders or preferences you have selected. The cookie also enables us to recall your past activities, post your account data, and tailor site elements and special offers to you. No personally identifiable information about you is stored on the cookie.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Most Web browsers accept cookies by default, but allow users to reject cookies by changing the browser preferences. If you have set up your browser to reject cookies, some aspects of our website, including our Shopping Cart, will not work properly.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	This Privacy Policy covers the use of cookies and similar files by Printland only and does not cover the use of cookies and similar files by any third party advertisers or websites linked to the Printland website.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	We use third-party advertising companies to serve ads on our behalf. These companies may use a cookie or an action tag, also known as a Web Beacon or a 1 pixel .gif file, to track your response to their advertisement and to measure the effectiveness of their advertising or to award incentives or points to their members who respond to their advertisements. Printland has no access to or control over cookies or action tags used by these third party companies. Printland does not receive any personally identifiable information collected by these advertisers using action tags or cookies nor does Printland share any of your personally identifiable information such as your name, telephone number or address with these companies except in accordance with this Printland Privacy Policy.</p>
+<p style="text-align: justify;">
+	<br>
+	<strong>Links To Third Party Products and Services</strong></p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	While you are visiting or using the Printland website, you may be presented with an opportunity to purchase third party products or services. These products and services are offered and supplied by independent companies not owned or operated by Printland. If you click on one of the presented offers, you will be redirected to the site of the third party, and any information you provide in response to the offer will be collected and used by the third party and not by Printland. Information you provide to the third party and any dealings you have with the third party will be governed by the privacy and other policies of that third party.</p>
+<p style="text-align: justify;">
+	<br>
+	<strong>Your Choices</strong></p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	We offer you a variety of choices with respect to how we use and share your personal information.</p>
+<p style="text-align: justify;">
+	<u>Sharing Information With Others</u>: We will not share your personally identifiable information, such as your e-mail address or name, with unaffiliated organizations for them to use to inform you about their or other companies’ products and services unless you consent to this sharing on registration or in updating your account preferences. You may opt in by checking the appropriate box during registration or, following registration, by logging into “My Account,” selecting “Account Update,” and checking the applicable box. You may also opt-in by sending a written request to the address below. If you send a written request, please be sure to include your exact name, mailing address and telephone number(s) and a statement that you would like us to share your personal information with other organizations that may have special offers, products or services that may be of interest to you. Even if you do not opt in to this sharing, we may still share personally identifiable information about you with other companies as permitted or required by law.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	<u>Communications from Printland</u>: If you do not want to receive e-mails from Printland about products and services that may be of interest to you, simply indicate this preference by removing the applicable check mark during registration. If you wish to change your preference after you have registered, you can do so by logging into “My Account,” selecting “Account Update, and updating your preference.</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	<u>Deactivation of Your Account</u>: You may also request deactivation of your Printland account by contacting Customer Care at info@printland.in or by writing to the address below and requesting account deactivation. Please note that some information may remain in our archived records after your account has been deactivated.</p>
+<p style="text-align: justify;">
+	<br>
+	<strong>Website Security</strong></p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	We maintain physical, electronic, and procedural safeguards designed to help us protect your nonpublic personal information. For example, we use Secure Socket Layer (SSL) technology to encrypt your credit card information when you purchase products through our website. When you establish an account at Printland, you choose a password to help protect your account information. A password is only as strong as you make it: you should select a unique password and keep it safe. You may change the password as often as you wish by going to “My Account” and selecting "Account Update."</p>
+<p style="text-align: justify;">
+	&nbsp;</p>
+<p style="text-align: justify;">
+	Printland authorizes only those persons who need to know personal information to administer your account, to provide or inform you about products and services, or to maintain, improve or administer our website to access your personal information.</p>
+	</div>
+</div>
+<div class="middle_inner_section">
+	<div class="content_text">
+		</div>
+</div>
+            </div>
+			<div id="middle_bottom_bg"></div>
+		</div>
+            </div>
+</div>
+<!--footer-start-->
+<div id="footer">
+	<div id="footer_link">
+    <ul>
+<li><a href="http://www.printland.in/cms/about_us.html" target="_self"><span>About Us</span></a></li>
+<li> | </li>
+<li><a href="http://www.printland.in/cms/privacy_policy.html" target="_self" class="act"><span>Privacy Policy</span></a></li>
+<li> | </li>
+<li><a href="http://www.printland.in/cms/terms_of_use.html" target="_self"><span>Terms of Use</span></a></li>
+<li> | </li>
+<li><a href="http://www.printland.in/cms/Refund_Policy.html" target="_self"><span>Refund Policy</span></a></li>
+<li> | </li>
+<li><a href="http://www.printland.in/cms/Printland Business Functions.html" target="_self"><span>Printland Business Functions</span></a></li>
+<li> | </li>
+<li><a href="http://www.printland.in/cms/sitemap.html" target="_self"><span>Site Map</span></a></li>
+<li> | </li>
+<li><a href="http://www.printland.in/cms/Support_footer.html" target="_self"><span>Work With Us</span></a></li>
+<li> | </li>
+<li><a href="http://www.printland.in/cms/Printland_Industry_Solutions.html" target="_self"><span>Industry Solution</span></a></li>
+</ul>
+</div>
+<div id="footer_copyright">
+	Copyright ©2011 Printland.in All Rights Reserved.</div>	
+</div>
+<!--footer-end-->
+<!-- Main End -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26679206-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 
+
+'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 
+
+'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; 
+
+s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body></html>
