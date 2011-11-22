@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curlynikki.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524060332id_/http%3A//www.curlynikki.com/2009/12/spiral-set-for-natural-hair.html%3FshowComment%3D1279397951352) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curlynikki.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122044856id_/http%3A//www.curlynikki.com/2009/12/spiral-set-for-natural-hair.html%3FshowComment%3D1279397951352) for the most accurate reproduction.*
 
 # Privacy Policy | Curly Nikki | Natural Hair Styles and Curly Hair Care
 
