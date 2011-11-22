@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hrblock.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524155502id_/http%3A//www.hrblock.com/bank/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrblock.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122170146id_/http%3A//www.hrblock.com/bank/privacy_statement.html) for the most accurate reproduction.*
 
-# Bank - Privacy Statement - H&R Block
+# Bank - Privacy Statement - H&R Block - H&R Block®
 
 **FACTS:** | WHAT DOES **H &R BLOCK BANK**  
 DO WITH YOUR PERSONAL INFORMATION? 
@@ -35,7 +35,7 @@ Information about your creditworthiness | Yes | Yes
 **To limit our sharing:** | 
 
   * Call 800-472-5625 - our menu will prompt you through your choices(s) **or**
-  * Complete the **[Information Sharing Opt-Out Notice](https://web.archive.org/bank/pdfs/HRBB_information_sharing_optout_notice.pdf)**
+  * View us Online: [www.hrbbank.com](http://www.hrbbank.com/)
   
 **Please Note:**  
 If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice.  
@@ -44,7 +44,7 @@ However, you can contact us at anytime to limit our sharing.
 ---|---  
 **Questions?:** | 
 
-  * Call 800-472-5625
+  * Call 800-472-5625 or go to [www.hrbbank.com](http://www.hrbbank.com/)
 
   
   
@@ -75,7 +75,7 @@ What happens when I limit sharing for an account I hold jointly with someone els
 ---  
 Affiliates | Companies related by common ownership or control 
 
-  * Our affiliates include companies with a common corporate identity or name; financial companies such as H&R Block, Inc.; and nonfinancial companies such as RSM McGladrey, Inc.
+  * Our affiliates include companies with a common corporate identity or name; financial companies such as H&R Block, Inc.; and nonfinancial companies such as HRB Digital, LLC.
 
   
 Nonaffiliates | Companies non related by common ownership or control. They can be financial and nonfinancial companies. 
@@ -91,10 +91,9 @@ Joint marketing | A formal agreement between nonaffiliated financial companies t
   
 **Other important information**  
 ---  
-You may have privacy rights under various state laws including Vermont, California, and Nevada. H&R Block bank will comply with these laws to the extent they apply. We may telephone existing customers with offers for additional financial products. You have the right to opt-out of this contact by calling 800-472-5625 to add your name to our do-not-call/contact list. Nevada residents may also contact the Nevada Attorney General for opt out information by phone (775-684-1100); email ([bcpinfo@ag.state.nv.us](mailto:bcpinfo@ag.state.nv.us)); or mail (100 N Carson St., Carson City, NV 89701).  
+You may have privacy rights under various state laws including Vermont, California, and Nevada. H&R Block bank will comply with these laws to the extent they apply. We may telephone existing customers with offers for additional financial products. You have the right to opt-out of this contact by calling 800-472-5625 to add your name to our do-not-call/contact list. Nevada residents may also contact the Nevada Attorney General for opt out information by phone (775-684-1100); email ([bcpinfo@ag.state.nv.us](mailto:bcpinfo@ag.state.nv.us)); or mail (100 N Carson St., Carson City, NV 89701). We may share your personal information with offshore service providers, for the limited purpose of providing a customer service call center for certain of the bank's products and services.  
   
 
 
 Emerald Card  
-Online Banking  
-Mortgage
+Online Banking
