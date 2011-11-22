@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the pornbanana.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523230707id_/http%3A//www88.pornbanana.com/staticpages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornbanana.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122013902id_/http%3A//www.pornbanana.com/staticpages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# 
+# Free Porn Videos | PornBanana, Your Top Porn Sex Tube
+
+[ ](http://twitter.com/#!/pornbanana)
+
+[ ](https://web.archive.org/)
 
 Privacy Policy - PornBanana 
 
@@ -11,7 +15,7 @@ When you visit the site, we may (like many other websites) also collect your IP 
 
 How may we use the information held by us? 
 
-• We may use this information to improve our marketing and products/services including customizing our site to your needs and interests. • We may also use information about you to deliver information to you that, in some cases, is targeted to your interests whether on the site or via email. • We may use this information to answer your questions, troubleshoot problems and enforce our Terms and Conditions. • We will use your email address to contact you. When may we disclose your information? We may disclose your information to our affiliated companies and sites and to our service providers who are authorized to use the information only for purposes of providing services to you and us and our affiliated companies. Information may be presented to third parties in statistical form but this shall not be personally identifiable. Our business and the internet world in general are very dynamic and we may arrive at a situation in which we sell a part of our business or all of our business. In such a case we may transfer information collected by us to such third party. Obviously, in case we are required by law enforcement agencies and/or in case we find it necessary in order to enforce intellectual property or other rights, we may disclose your information. 
+* We may use this information to improve our marketing and products/services including customizing our site to your needs and interests. * We may also use information about you to deliver information to you that, in some cases, is targeted to your interests whether on the site or via email. * We may use this information to answer your questions, troubleshoot problems and enforce our Terms and Conditions. * We will use your email address to contact you. When may we disclose your information? We may disclose your information to our affiliated companies and sites and to our service providers who are authorized to use the information only for purposes of providing services to you and us and our affiliated companies. Information may be presented to third parties in statistical form but this shall not be personally identifiable. Our business and the internet world in general are very dynamic and we may arrive at a situation in which we sell a part of our business or all of our business. In such a case we may transfer information collected by us to such third party. Obviously, in case we are required by law enforcement agencies and/or in case we find it necessary in order to enforce intellectual property or other rights, we may disclose your information. 
 
 Third party collection of information 
 
