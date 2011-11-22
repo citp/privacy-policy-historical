@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ift.org privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525044425id_/http%3A//www.ift.org/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ift.org privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122150915id_/http%3A//www.ift.org/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - IFT.org
 
@@ -20,19 +20,19 @@ Some cookies are "persistent" cookies which are stored on your computer and may 
 
 Be advised that while using IFT websites, the website will query visitors' browsers for certain information, such as:
 
-  * the domain from which you are accessing our site
-  * the type of PC operating system you use
+  * the domain from which you are accessing our site 
+  * the type of PC operating system you use 
   * the type of browser you use
 
 
 
 This data is collected for the sole purpose of improving our online offerings. No individual data is saved. IFT only uses aggregate statistical data to compile usage reports. The data types IFT reports on include:
 
-  * Unique user sessions
-  * Most/least popular pages
-  * Most/least downloaded documents
-  * Statistics on errors experienced
-  * Average duration of site visit
+  * Unique user sessions 
+  * Most/least popular pages 
+  * Most/least downloaded documents 
+  * Statistics on errors experienced 
+  * Average duration of site visit 
   * Geographical location
 
 
@@ -41,8 +41,8 @@ This data is collected for the sole purpose of improving our online offerings. N
 
 Personal, identifying information is not collected from visitors to our site unless this information has been voluntarily provided. All sensitive information sent to IFT is kept confidential. Personal, identifying information is captured to help IFT keep our accounts accurate. Information collected (on a volunteer basis) includes:
 
-  * Changes in password and username
-  * Changes in contact information
+  * Changes in password and username 
+  * Changes in contact information 
   * Subscription and community activation
 
 
@@ -51,7 +51,8 @@ Personal, identifying information is not collected from visitors to our site unl
 
 Information about our members, customers, and visitors to our website is critical to IFT’s operations. We are not in the business of selling this information to others. This type of information is shared only as described below, and with subsidiaries which IFT controls that are either subject to this privacy policy or follow practices at least as protective as those described in this privacy policy.
 
-  * Protection of IFT and Others: We release account and other personal information when we believe its release is appropriate to comply with the law; enforce or apply our IFT Community Terms of Service and other agreements; or protect the rights, property, or safety of IFT, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from members, customers, or visitors for commercial purposes in violation of the commitments set forth in this privacy policy. 
+  * Protection of IFT and Others: We release account and other personal information when we believe its release is appropriate to comply with the law; enforce or apply our IFT Community Terms of Service and other agreements; or protect the rights, property, or safety of IFT, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from members, customers, or visitors for commercial purposes in violation of the commitments set forth in this privacy policy.
+  * IFT Annual Meeting & Food Expo:  We  periodically share basic attendee data on a one-time-only usage basis with exhibitors of the IFT Food Expo, for the purposes of exhibit-related promotion. Only mailing information is shared, and only data from that particular year’s event is made available to exhibitors at that event.  For the protection of attendees, email addresses are not shared with exhibitors.
   * With Your Consent: Other than as set out above, you will receive notice when information about you might be shared with third parties, and you will have an opportunity to choose not to share that information.
 
 
