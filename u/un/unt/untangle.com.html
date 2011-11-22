@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the untangle.com privacy policy that was archived on 2011-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110606000151id_/http%3A//www.untangle.com/Footer/Our-Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the untangle.com privacy policy that was archived on 2011-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111122044356id_/http%3A//www.untangle.com/Footer/Our-Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<meta content="IE=7.0000" http-equiv="X-UA-Compatible">
@@ -17,7 +17,7 @@
 	<link rel="shortcut icon" href="http://www.untangle.com/images/favicon.ico">
 				       <link rel="stylesheet" href="/templates/untangle_networks_template_950px/css/b.css" type="text/css" title="default" media="all">
         
-		                
+		        <script src="/templates/homepage/public/js/jquery-1.4.2.min.js" type="text/javascript" mce_src="/templates/homepage/public/js/jquery-1.4.2.min.js"><!-- --></script><script src="/templates/homepage/public/js/jquery.validate.js" type="text/javascript" mce_src="/templates/homepage/public/js/jquery.validate.js"><!-- --></script><script src="/mini-cart/js/jquery-ui-1.8.1.custom.min.js" type="text/javascript" mce_src="/mini-cart/js/jquery-ui-1.8.1.custom.min.js"></script><link href="/mini-cart/css/untangle-theme/jquery-ui-1.8.1.custom.css" type="text/css" mce_href="/mini-cart/css/untangle-theme/jquery-ui-1.8.1.custom.css" rel="stylesheet"><script type="text/javascript">$(document).ready(function(){     try{        if(loadMenu){            loadMenu();        }     }catch(e){          }     var loc = escape(window.location.href),     r = Math.random() * 51212,     src="'.$productURL.'?___store=test&loc="+loc+"&rand="+r;     r = Math.random() * 51212;     src="//store.untangle.com/checkout/cart/?___store=test&mycart=1&rand="+r+"&loc="+loc;    $("#your-cart").bind("click",function(event){       event.preventDefault();        openDlg();        return false;    });    openDlg = function() {        $("#buy-dialog").dialog({                disabled: true,                draggable : false,                width : 740,                height : 450,                modal : true,                position : "center",                resizable : false,                title : "Shopping Cart",                open : function (event,ui) {                   this.dlg = false;                   $("#buy-dialog").html("<iframe frameborder=\"0\" id=\"ifr-shopping-cart\" style=\"width:100%;height:98%;display:none;\" src=\""+src+"\">");                   $("#ifr-shopping-cart")[0].style.display = "";                },                beforeclose : function(event,ui) {                    if(this.dlg==false) {                        $("#buy-dialog").dialog("widget").animate({opacity:0},100,"linear",function() {                            this.dlg = true;                            $("#buy-dialog")[0].innerHTML = "";                            $("#buy-dialog").dialog("destroy");                            if($("#your-cart").length == 1){                                $("#your-cart")[0].style.display = "";                                $("#your-cart").html("My Cart");                                $("#your-cart").animate({"backgroundColor":"#FFF","color":"#444"},1500).animate({"backgroundColor":"#65C61B","color":"#FFF"},1300);                            }                        });                        return false;                    }                }        }        );      };    if(window.location.hash=='#shoppingcart'){        r = Math.random() * 51212;        loc = escape(window.location.href.replace('#shoppingcart',''));        src = '//store.untangle.com/checkout/cart/?___store=test&mycart=1&rand='+r+'&loc='+loc;        openDlg();    }         });</script>        
 
         <style type="text/css" media="screen">
             @import url("/templates/homepage/header-menu/public/css/main.css");
@@ -121,7 +121,7 @@
                         </ul>
                     </div>
                     <div class="col paid">
-                        <h3><span>Paid Apps</span></h3>
+                        <h3><span>Apps</span></h3>
                         <ul>
                             <li><a href="/web-filter">Web Filter</a></li>
                             <li><a href="/Kasperksy">Kasperksy Virus Blocker</a></li>
@@ -134,11 +134,13 @@
                             <li><a href="/WAN-Failover">WAN Failover</a></li>
                             <li><a href="/bandwidth-control">Bandwidth Control</a></li>
 			    <li><a href="/web-cache">Web Cache</a></li>
+                            <li><a href="/ipsec">IPsec</a></li>
                         </ul>
                     </div>
                     <div class="col free">
-                        <h3><span>Free Apps</span></h3>
+                        <!--<h3><span>Apps</span></h3>-->
                         <ul>
+                            <li>&nbsp;</li>
                             <li><a href="/web-filter-lite">Web Filter Lite</a></li>
                             <li><a href="/virus-blocker">Virus Blocker</a></li>
                             <li><a href="/spam-blocker">Spam Blocker</a></li>
@@ -285,30 +287,8 @@
             <div class="relax"></div>
         </div>
     </li>
-    <li onclick="menuSelection('downloads')" id="downloads">
-        <a href="/Downloads/Download-ISO"><span class="left">&nbsp;</span><span class="text">Downloads</span><span class="right">&nbsp;</span></a>
-        <div class="submenu downloads">
-            <div class="top"></div>
-            <div class="sub-main">
-                <div class="lists">
-                    <div class="col part-one">
-                        <ul>
-                            <li><a href="/Downloads/Download-ISO">Untangle ISO (32bit)</a></li>
-                            <li><a href="/Downloads/Download-ISO">Untangle ISO (64bit)</a></li>
-                        </ul>
-                    </div>
-                    <div class="col trial-type">
-                        <h3><span>14-day Free Trials</span></h3>
-                        <ul>
-                            <li><a href="/How-to-Start-Your-14-Day-Free-Trial?sku=UN-82-PRM-0000-1YEAR">Untangle Premium</a></li>
-                            <li><a href="/How-to-Start-Your-14-Day-Free-Trial?sku=UN-82-SND-0000-1YEAR">Untangle Standard</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-            <div class="bottom"></div>
-            <div class="relax"></div>
-        </div>
+    <li id="pricing" onclick="menuSelection('pricing')"><a href="/Pricing/Value-Packages">
+<span class="left">&nbsp;</span><span class="text">Pricing</span><span class="right">&nbsp;</span></a>
     </li>
     <li id="company" onclick="menuSelection('company')">
         <a href="/About-Us"><span class="left">&nbsp;</span><span class="text">Company</span><span class="right">&nbsp;</span></a>
@@ -378,7 +358,7 @@ setAndCheck("");
 </div>
 <div id="content">
 <h3 class="contentheading">Our Privacy Policy</h3>
-<p><em>Last Updated 12/11/2006</em>&nbsp;</p><p><strong>General Information</strong><br>Untangle, Inc. respects the privacy of our customers, business partners and employees. Untangle has therefore established the Untangle Online Privacy Policy (the "Privacy Policy") that covers the collection and use of personal information that may be collected by Untangle anytime you interact with Untangle, such as when you visit our website, when you use our products and services, or when you contact us by phone, e-mail or online.&nbsp; Please read the following to assist you in understanding what information we collect, how that information is used and how we safeguard it. </p><strong>Entities Collecting Personal Information</strong><br><p>Personal information on this Site is collected by Untangle, Inc. Untangle's address is:<br>2800 Campus Drive, Suite 100<br>San Mateo, CA 94403<br>and its telephone is: <br>+1.650.425.3300</p><p><strong>What Personal Information We Collect</strong><br>Untangle may ask you to register and provide information when you place orders on the site for products or services, register products, request information, subscribe to marketing or support materials, download software or online documents, or apply for jobs at Untangle. The types of personal information we collect may include name, address, phone number, e-mail address, user IDs and passwords, contact preferences, educational and employment background, job interest data and the IP Internet address and the URL of the web site that sent you to the Untangle site.&nbsp; Providing much of this information is voluntary, however please note that we do not allow you to opt out of information that is required for the functionality of our products and services.</p><p><strong>How We Use Your Personal Information</strong><br>Specifically, we use your information to deliver products/services to you, to bill you for products/services you purchased, to communicate with you concerning your account or customer services issues, and to auto-update <font class="textbg">downloaded Untangle products. </font>Occasionally we may use your information to contact you to complete surveys that we use for marketing and quality assurance purposes. Personal information collected online may be combined with information you provide to Untangle through other sources such as trade shows or seminars. In addition, we may use your information to improve the content of our web site, products and services; to alert you to product upgrades, updates and renewal information regarding your product; and to share special offers, product announcements and other new services from Untangle. <br></p><p>Untangle may collect information about the use of the Site; such as the types of services used and how many users we receive daily. This information is collected in aggregate form, without identifying any user individually. Untangle may use this aggregate, non-identifying statistical data for statistical analysis, marketing or similar promotional purposes.</p><p><strong>With Whom We Share Personal Information</strong><br>We may share the information you provide with our business partners acting on our behalf for the uses described above. Untangle may share personal information with our business partners for the sole purpose, and only to the extent needed, to support you.&nbsp; Business partners are required to keep confidential the personal information received from Untangle and may not use it for any purpose other than as originally intended. We will NOT provide your information to any third party.</p><p><strong>Security of Personal Information</strong><br>Untangle is committed to taking reasonable efforts to secure the personal data you choose to provide us. To protect the privacy of any personal information you may have provided, Untangle employs industry-standard controls including physical access controls, Internet firewalls, intrusion detection, and network monitoring. In addition, access to sensitive data as defined in this Privacy Policy is limited to those individuals and agents having a need to know.</p><p><strong>Links to Non-Untangle Web Sites and Third Parties</strong><br>The Untangle web site may provide links to third-party web sites for your convenience and information. If you access those links, you will leave the Untangle web site. Untangle does not control those sites or their privacy practices, nor endorse or make any representations about third party web sites. We encourage you to review the privacy policy of any company before submitting your personal information.</p><p><strong>Updating Your Personal Information and Privacy Preferences</strong><br>You have the right to access and correct your personal information and privacy preferences at any time. You may access and correct your personal information and privacy preferences (such as whether you wish to receive promotional communications from Untangle) by contacting us at:</p><p>Untangle, Inc.<br>2800 Campus Drive, Suite 100<br>San Mateo, CA 94403<br>USA</p><p>Telephone: +1.650.425.3300 </p><p>Please include your name, address, and/or e-mail address when you contact us. In your correspondence, please indicate with as much detail as possible the location on this Site where you provided your personal information.</p><p><strong>Changes to This Privacy Policy</strong><br>Untangle will review and update this Privacy Policy periodically. Untangle reserves the right to change our privacy policy at any time and for any reason.</p><p>&nbsp;</p>
+<p><i>Last Updated 12/11/2006</i>&nbsp;</p><p><b>General Information</b><br>Untangle, Inc. respects the privacy of our customers, business partners and employees. Untangle has therefore established the Untangle Online Privacy Policy (the "Privacy Policy") that covers the collection and use of personal information that may be collected by Untangle anytime you interact with Untangle, such as when you visit our website, when you use our products and services, or when you contact us by phone, e-mail or online.&nbsp; Please read the following to assist you in understanding what information we collect, how that information is used and how we safeguard it. </p><b>Entities Collecting Personal Information</b><br><p>Personal information on this Site is collected by Untangle, Inc. Untangle's address is:<br>298 S. Sunnyvale Ave., Ste. 210<br>Sunnyvale, CA 94086<br>and its telephone is: <br>+1 (408) 598-4299<br></p><p><b>What Personal Information We Collect</b><br>Untangle may ask you to register and provide information when you place orders on the site for products or services, register products, request information, subscribe to marketing or support materials, download software or online documents, or apply for jobs at Untangle. The types of personal information we collect may include name, address, phone number, e-mail address, user IDs and passwords, contact preferences, educational and employment background, job interest data and the IP Internet address and the URL of the web site that sent you to the Untangle site.&nbsp; Providing much of this information is voluntary, however please note that we do not allow you to opt out of information that is required for the functionality of our products and services.</p><p><b>How We Use Your Personal Information</b><br>Specifically, we use your information to deliver products/services to you, to bill you for products/services you purchased, to communicate with you concerning your account or customer services issues, and to auto-update <font class="textbg">downloaded Untangle products. </font>Occasionally we may use your information to contact you to complete surveys that we use for marketing and quality assurance purposes. Personal information collected online may be combined with information you provide to Untangle through other sources such as trade shows or seminars. In addition, we may use your information to improve the content of our web site, products and services; to alert you to product upgrades, updates and renewal information regarding your product; and to share special offers, product announcements and other new services from Untangle. <br></p><p>Untangle may collect information about the use of the Site; such as the types of services used and how many users we receive daily. This information is collected in aggregate form, without identifying any user individually. Untangle may use this aggregate, non-identifying statistical data for statistical analysis, marketing or similar promotional purposes.</p><p><b>With Whom We Share Personal Information</b><br>We may share the information you provide with our business partners acting on our behalf for the uses described above. Untangle may share personal information with our business partners for the sole purpose, and only to the extent needed, to support you.&nbsp; Business partners are required to keep confidential the personal information received from Untangle and may not use it for any purpose other than as originally intended. We will NOT provide your information to any third party.</p><p><b>Security of Personal Information</b><br>Untangle is committed to taking reasonable efforts to secure the personal data you choose to provide us. To protect the privacy of any personal information you may have provided, Untangle employs industry-standard controls including physical access controls, Internet firewalls, intrusion detection, and network monitoring. In addition, access to sensitive data as defined in this Privacy Policy is limited to those individuals and agents having a need to know.</p><p><b>Links to Non-Untangle Web Sites and Third Parties</b><br>The Untangle web site may provide links to third-party web sites for your convenience and information. If you access those links, you will leave the Untangle web site. Untangle does not control those sites or their privacy practices, nor endorse or make any representations about third party web sites. We encourage you to review the privacy policy of any company before submitting your personal information.</p><p><b>Updating Your Personal Information and Privacy Preferences</b><br>You have the right to access and correct your personal information and privacy preferences at any time. You may access and correct your personal information and privacy preferences (such as whether you wish to receive promotional communications from Untangle) by contacting us at:</p><p>Untangle, Inc.<br>298 S. Sunnyvale Ave., Ste. 210<br>Sunnyvale, CA 94086<br>USA</p><p>Telephone: +1 (408) 598-4299<br></p><p>Please include your name, address, and/or e-mail address when you contact us. In your correspondence, please indicate with as much detail as possible the location on this Site where you provided your personal information.</p><p><b>Changes to This Privacy Policy</b><br>Untangle will review and update this Privacy Policy periodically. Untangle reserves the right to change our privacy policy at any time and for any reason.</p><p>&nbsp;</p>
 
 </div>
 
@@ -439,22 +419,6 @@ if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+
 //--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
 src="http://metrics.untangle.com/b/ss/untangledev/1/H.19.3--NS/0"
 height="1" width="1" border="0" alt="" /></a></noscript>
-<!-- START Activa Live Chat Deployment Code: -->
-<script type="text/javascript">
-var __ALC_Deployment = 5954;
-document.write(unescape("%3Cscript src='"+document.location.protocol+"//www.activalive.com/app/js/lt.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://www.activalive.com/app/js/lt.js" type="text/javascript"></script>
-<script type="text/javascript">
-
-
-    var _in = Unm.getCompanyInfo();
-   _alc.addDetail("Industry", _in.Industry);
-   _alc.addDetail("Size",_in.Size);
-   _alc.addDetail("Employee Count",_in.EmployeeCount);
-   _alc.addDetail("Company Name",_in.CompanyName);
-
-</script>
-<!-- END Activa Live Chat Deployment Code -->
 			</div><div class="bottom-corners">
 		</div>
 
@@ -473,5 +437,4 @@ document.write(unescape("%3Cscript src='"+document.location.protocol+"//www.acti
 		else { window.addEventListener('load', async_load, false); }
 	})();
 </script>	
-
-<!-- 1307318511 --></div></body></html>
+</div></body></html>
