@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the becanada.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601220146id_/http%3A//www.becanada.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the becanada.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123000554id_/http%3A//www.becanada.com/privacy.html) for the most accurate reproduction.*
 
 # Becanada : Privacy Policy
 
 **Becanada Privacy Policy: **
 
-Becanada has been in business now for over 15 years and has 1000s of satisfied clients worldwide; Becanada is committed to creating and selling quality products and services and supporting said products and services with prompt support service via phone and/or email response as quickly as is humanly possible in all circumstances. 
-
-These policies apply to ALL Becanada products and services; including all sites/services owned by or sold by Becanada directly. If you are having problems installing, using or learning to use a product / service ; please let us know - we are here to help you succeed. 
-
-If you have ANY questions about these policies and/or any other questions ; including questions about our products/services - please [contact us](http://www.becanada.com/internet/1306497608/email.htm). 
-
-These policies have been in place since we began our business and are standard in the industry. 
+Becanada has been in business now for over 15 years and has 1000s of clients worldwide. Becanada is committed to creating and selling quality products and services and supporting said products and services with prompt support service. These policies apply to ALL Becanada products and services; including all sites/services owned by or sold by Becanada directly. If you have ANY questions about these policies and/or any other questions ; including questions about our products/services - please [contact us](http://www.becanada.com/internet/1322006098/email.htm). 
 
 **What information do we collect?**
 
@@ -78,7 +72,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [terms of service](http://www.becanada.com/internet/1306497608/tos.html)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [terms of service](http://www.becanada.com/internet/1322006098/tos.html)
 
 **Your Consent**
 
