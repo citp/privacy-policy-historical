@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beernbikes.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515101603id_/http%3A//www.beernbikes.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beernbikes.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122070547id_/http%3A//www.beernbikes.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Beer 'N Bikes Internet Web Directory - Privacy Policy
 
