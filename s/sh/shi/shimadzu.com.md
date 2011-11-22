@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the shimadzu.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616202244id_/http%3A//www.shimadzu.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shimadzu.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122043648id_/http%3A//www.shimadzu.com/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy : SHIMADZU (Shimadzu Corporation)
 
 **Published:** July 27, 2004  
 **Revised:** April 19, 2005  
-**Revised:** July 13, 2005
+**Revised:** July 13, 2005  
+**Revised:** Oct 14, 2011
 
 #### Personal Information Protection Policy
 
@@ -93,6 +94,9 @@ Inquiries will be limited to the individual in question only, or an authorized r
 
 **A.**  
 There are specifics areas of our website(s) that use a programming function known as 'cookies', which record information about your visit to our website on your hard drive. This is NOT considered a security risk, and only records information that you provide us. This information is NOT available to other websites. It is uniquely yours and can only be read by the server that gave it to you.
+
+**B.** This website uses Google Analytics, a website statistics service provided by Google, Inc.  
+Shimadzu only uses the information to help improve the site and will not be used otherwise.
 
 #### Changes to the Privacy Statement
 
