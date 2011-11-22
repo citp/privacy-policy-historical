@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spifftv.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607200515id_/http%3A//www.spifftv.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spifftv.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123005720id_/http%3A//www.spifftv.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
