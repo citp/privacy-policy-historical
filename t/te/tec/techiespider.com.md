@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techiespider.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321113809id_/http%3A//www.techiespider.com/%3Fpage_id%3D278) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techiespider.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122152926id_/http%3A//www.techiespider.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | TechieSpider
 
 This Privacy Policy governs the manner in which Techiespider collects, uses, maintains and discloses information collected from users (each, a “User”) of the www.techiespider.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Techiespider.  
 Personal identification information  
