@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brac.net privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108124348id_/http%3A//www.brac.net/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brac.net privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122210758id_/http%3A//www.brac.net/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BRAC-Privacy Policy
 
@@ -42,6 +42,11 @@ BRAC welcomes children to learn more about our organization and about the issues
 
 We work to process and maintain accurately the information that you share with us. If you have donated to us and would like to correct or update your personal data or to adjust your mail preferences, you can do so by emailing us at Michelle@bracusa.org, calling us at 212-808-5615, or by sending us the update via postal mail sent to BRAC, 11 East 44th Street, Suite 1600 New York, NY 10017, United States.
 
+ **Photo Copyrights  
+**
+
+Photo copyright: BRAC/Shehzad Noorani/Jake Lyell/Saiful Huq Omi
+
 **Changes to this Privacy Policy**
 
 We may, from time to time, make changes to our Privacy Policy, based on your comments and our need to reflect accurately our data collection and disclosure practices. If we make any substantial changes in the way we use your personal information, we will notify you by posting an announcement on our website.
@@ -51,3 +56,10 @@ We may, from time to time, make changes to our Privacy Policy, based on your com
 You agree that your use of this Privacy Policy and any disputes relating thereto shall be governed in all respects by the laws of the State of New York. Any dispute relating to this Privacy Policy shall be resolved solely in the state or federal courts located in Manhattan, New York.
 
 This Privacy Policy was last updated on August 25, 2009. BRAC® and BRAC® and other marks used on this website are trademarks of BRAC or its affiliates and may not be used without permission.
+
+  
+
+
+  * [](http://www.addthis.com/bookmark.php)
+
+
