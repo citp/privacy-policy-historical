@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the airtricity.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220223545id_/http%3A//www.airtricity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtricity.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122163222id_/http%3A//www.airtricity.com/ie/privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy | Greener and Cheaper Energy from Airtricity
 
 Airtricity is the trading name of Airtricity Energy Supply (Northern Ireland) Limited and Airtricity Limited, members of the Scottish and Southern Energy Group (referred to in this privacy statement as the ‘Scottish and Southern Energy Group’ or ‘we’ or “us”).
 
-We are committed to protecting and respecting your privacy. This statement (together with our [terms of use](http://www.airtricity.com/roi-domestic/terms-and-conditions/) and any other documents referred to therein) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. 
+We are committed to protecting and respecting your privacy. This statement (together with our [terms of use](http://www.airtricity.com/ie/terms-of-use/) and any other documents referred to therein) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. 
 
 By submitting any information, you consent to the use of that information as set out in the above documents, therefore please ensure that you read all of them carefully to understand our views and practices regarding your personal data and how we will treat it.
 
@@ -72,7 +72,7 @@ We may disclose your personal information to third parties:
 
   * In the event of any proposal to obtain or transfer any business or assets, in which case we may disclose your personal data to the prospective third parties to such transaction(s) and any relevant advisors.
   * If any or all our assets are obtained from or transferred to a third party, where personal data held about customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal or regulatory obligation, or in order to enforce or apply our [terms of use](http://www.airtricity.com/roi-domestic/terms-and-conditions/supply-of-electricity-and-or-gas/) or our [terms and conditions of supply](http://www.airtricity.com/roi-domestic/terms-and-conditions/supply-of-electricity-and-or-gas/) and other agreements; or to protect the rights, property, or safety of any part of the Scottish and Southern Energy Group, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal or regulatory obligation, or in order to enforce or apply our [terms of use](http://www.airtricity.com/ie/terms-of-use/) or our [terms and conditions of supply](http://www.airtricity.com/ie/home/products/supply-of-electricity-and-or-gas/) and other agreements; or to protect the rights, property, or safety of any part of the Scottish and Southern Energy Group, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
   * In accordance with any of our terms and conditions of supply as amended from time to time [insert link to terms and conditions of supply]. 
 
 
