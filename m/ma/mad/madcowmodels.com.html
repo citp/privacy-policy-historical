@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the madcowmodels.com privacy policy that was archived on 2011-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110523123516id_/http%3A//www.madcowmodels.co.uk/index.php%3Fcontent%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the madcowmodels.com privacy policy that was archived on 2011-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111122220552id_/http%3A//www.madcowmodels.co.uk/index.php%3Fcontent%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><head><meta name="Description" content="Madcow Models is an online resource and networking website for newcomer and professional models, photographers, studios, modeling agencies, make up artists and clients.">
 	<meta name="keywords" content="Madcow, Models, modeling,fashion catwalk, fitness, stock photography, editorial, hair, body part modeling, swimwear, lingerie, glamour, topless, gothic, fetish, classic nude, artistic nude, adult, become a model, learn to model, online portfolio, modeling portfolio, model photos, modeling photos, modeling gallery, modeling in scotland, modeling in england">
     <link rel="shortcut icon" href="http://www.madcowmodels.co.uk/images/favicon.ico">
-	<meta property="og:image" content="http://www.madcowmodels.co.uk/webimages/MadcowFacebook.jpg">
+	<meta name="searchimage" property="og:image" content="http://www.madcowmodels.co.uk/webimages/MadcowFacebook.jpg">
 	<meta name="google-site-verification" content="TKu436Z67s5gj6FRVZHSLXNo55hGY9o7jkjIA9HX-lc">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.madcowmodels.co.uk/ajax/jquery.js"></script>
 <script type="text/javascript" src="http://www.madcowmodels.co.uk/tiptip/jquery.tipTip.minified.js"></script>
@@ -21,15 +21,66 @@ $("#"+user).load("http://www.madcowmodels.co.uk/ajax/HoverOver.php?id="+user);
 }
 function Hoverclose(id) {
 $("#"+id).fadeOut();
-}	  	  							
-						</script>
+}	  	  						
+
+function SiteShow(div) {
+          $('#'+div).fadeIn('slow');
+          return false;
+        }	
+		
+function SiteHide(div) {
+          $('#'+div).fadeOut('slow');
+          return false;
+        }	
+		
+		function Toggles(div) {
+          $('#'+div).toggle('slow');
+          return false;
+        }
+		</script>
 <script type="text/javascript">
  var RecaptchaOptions = {
     theme : 'clean'
  };
  </script>
+ <script type="text/javascript" src="http://www.madcowmodels.co.uk/ajax/timeago.js"></script>
+<script type="text/javascript">
+jQuery(document).ready(function() {
+  jQuery("abbr.timeago").timeago();
+});
+		</script>
 <link href="http://www.madcowmodels.co.uk/tiptip/tipTip.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="http://www.madcowmodels.co.uk/ajax/textareaexpander.js"></script><script type="text/javascript" src="poll.js"></script>
+<script type="text/javascript" src="http://www.madcowmodels.co.uk/ajax/textareaexpander.js"></script>
+<script src="http://www.madcowmodels.co.uk/ajax/popup/popup.js" type="text/javascript"></script>
+<link rel="stylesheet" href="http://www.madcowmodels.co.uk/ajax/popup/general.css" type="text/css" media="screen">
+  <script src="http://www.madcowmodels.co.uk/ajax/lazyload.js" type="text/javascript" charset="utf-8"></script> 
+  <script type="text/javascript" charset="utf-8"> 
+      $(function() {          
+          $(".slowImage").lazyload({
+             effect      : "fadeIn",
+			 threshold : 200
+          });
+      });
+
+function ApproveComment(commentid) {
+ $('#ApproveText-'+commentid).load("http://www.madcowmodels.co.uk/common/functions.php?type=approvecomment&comment="+commentid);
+ $('#ApproveText-'+commentid).html('');
+ setTimeout( function() { jQuery('#ApproveText-'+commentid).html('<span style="font-size:11px;">This comment has been approved and is now visible on your profile</span>');}, 1500 );
+ $('#ApproveText-'+commentid).fadeIn('slow');
+ setTimeout( function() { jQuery('#ApproveText-'+commentid).fadeOut('slow');}, 1500 );
+ }
+
+ function DeleteComment(commentid) {
+ $('#ApproveText-'+commentid).html('');
+ $('#ApproveText-'+commentid).html('<span style="font-size:11px;">This comment has been deleted</span>');
+ $('#ApproveText-'+commentid).fadeIn('slow');
+ setTimeout( function() { jQuery('#ApproveText-'+commentid).fadeOut('slow');}, 2000 );
+ setTimeout( function() { jQuery('#SiteComment-'+commentid).load("http://www.madcowmodels.co.uk/common/functions.php?type=deletecomment&comment="+commentid);}, 1000 );
+  setTimeout( function() { jQuery('#SiteComment-'+commentid).fadeOut('slow');}, 1000 );
+ }
+</script>
+<script src="/ajax/jquery.jgrowl.js"></script>
+<link rel="stylesheet" type="text/css" href="/ajax/jquery.jgrowl.css">
 <script language="JavaScript" type="text/JavaScript">
 <!--
 function MM_jumpMenu(targ,selObj,restore){ //v3.0
@@ -70,17 +121,14 @@ window.onload=startList;
 
 <title>
 
-Madcow Models | The Free Online Resource &amp; Networking Website for the Modeling Industry</title>
+MadcowModels | The Free Online Networking Website for the Modeling and Photographic Industry</title>
 <link href="newstyle.css" rel="stylesheet" type="text/css">
 </head>
-<body><div id="WzTtDiV" style="visibility: hidden; position: absolute; overflow: hidden; padding: 0px; width: 0px; left: 0px; top: 0px;"></div>
-<script type="text/javascript" src="tip/wz_tooltip.js"></script>
-<script type="text/javascript" src="tip/tip_balloon.js"></script>
+<body>
 <!--[if lt IE 7.]>
 <script defer type="text/javascript" src="http://www.madcowmodels.co.uk/ajax/pngfix.js"></script>
 <![endif]-->
 
-<div id="HeaderOutside">
 <div id="HeaderGradient">
 <style>
 #searchwrapper {
@@ -215,7 +263,7 @@ height:21px;
 			
 
 </style>
-<table width="100%" height="131px" border="0" style="border-collapse:collapse;">
+<table width="100%" height="121px" border="0" style="border-collapse:collapse;">
 <tbody><tr>
 	<td>
 	
@@ -226,8 +274,8 @@ height:21px;
 	    
         <li style="padding-left: 10px;"><a href="/">Home</a>
         </li><li style="padding-left: 10px;"><a href="/forum/">Forum</a>
-        </li><li style="padding-left: 10px;"><a href="#">Members</a>
-          <ul id="ModelsD">
+        </li><li style="padding-left: 10px;"><a href="/AllUsers/0/All-Users.html">Members</a>
+          <ul id="ModelsD" style="border:1px solid #000000;">
             <li id="menutitle"><a class="a12">Models</a></li>
             <li><a href="/models/newcomer/0/">Newcomers</a></li>
             <li><a href="/models/novice/0/">Novices</a></li>
@@ -252,9 +300,10 @@ height:21px;
           </ul>
         </li>
 		<li style="padding-left: 10px;"><a href="/articles">Articles</a></li>
-		<li style="padding-left: 10px;"><a href="/index.php?content=contact">Contact</a></li>
+		<li style="padding-left: 10px;"><a href="/blog">Blog</a></li>
+		<li style="padding-left: 10px;"><a href="/contact">Contact</a></li>
 		
-				<li style="padding-left: 10px;"><a href="/index.php?content=join">Signup</a></li>
+				<li style="padding-left: 10px;"><a href="/join">Signup</a></li>
  <li style="padding-left: 10px;"><a href="/UserLogin.php">Login</a></li>
       	  </ul>
 
@@ -263,11 +312,11 @@ height:21px;
 </div>
 	
 	</td>
-	<td rowspan="3" height="6px"><img src="/webimages/Header/VerticalRule.png" width="5px" height="115px"></td>
+	<td rowspan="3" height="6px"></td>
 	<td align="right">
 <div style="font-size:13px; color:#ffffff;">
 <div id="searchwrapper"><form name="HeaderSearch" action="/search" onsubmit="this.submit();return false;">
-<input type="text" class="searchbox" name="q" value="" placeholder="Search..">
+<input type="text" class="searchbox ac_search" name="q" value="" placeholder="Search..">
 <button type="submit" value="" class="searchbox_submit">
 <input type="image" src="/webimages/SearchBoxMagnifyOverlay.png" class="searchbox_submit" value="">
 </button>
@@ -278,24 +327,21 @@ height:21px;
 	</td>
 </tr>
 
-<tr>
-	<td align="center" height="5px"><img src="/webimages/Header/HorizontalRule.png" width="551px" height="4px"></td>
-	<td></td>
-</tr>
+
   <tr>
-    <td valign="bottom" align="left" width="627px"><div style="padding-left: 5px;"><a href="http://www.madcowmodels.co.uk"><img style="border:0;" src="http://www.madcowmodels.co.uk/webimages/Header/MadcowModelsLogo.png" alt="Madcow Models | The Online Resource Website for The Modeling and Promotional Industry" width="627px" height="59px"></a></div></td>
+    <td valign="bottom" align="left" width="627px"><div style="padding-left: 5px;"><a href="http://www.madcowmodels.co.uk"><img style="border:0;" src="http://www.madcowmodels.co.uk/webimages/MadcowModelsMainLogo.png" alt="Madcow Models | The Online Resource Website for The Modeling and Promotional Industry" width="607px" height="68px"></a></div></td>
 	<td valign="bottom" align="left"><span style="font-size:12px;">
-	<div style="float:right; width:80px; color:#ffffff; font-size:13px; line-height:120%; padding-right:3px;" align="right"><br>
-<a href="http://www.facebook.com/madcowmodels"><img alt="Madcow Models Facebook" title="Check out our Facebook page!" style="border:0;" width="20px" height="20px" src="/webimages/social/small/facebook.png"></a>
-<a href="http://www.twitter.com/madcowmodels"><img alt="Madcow Models Twitter" title="Check out our Twitter page!" style="border:0;" width="20px" height="20px" src="/webimages/social/small/twitter.png"></a>
-<a href="http://www.myspace.com/madcowmodels"><img alt="Madcow Models Myspace" title="Check out our Myspace page!" style="border:0;" width="20px" height="20px" src="/webimages/social/small/myspace.png"></a>
-</div><div style="float:left; width:220px;color:#ffffff; font-size:13px;"><div align="left" style="padding-left:5px;"><a href="/index.php?content=safemode" class="a12">Work Safe Mode</a>:  <a rel="nofollow" href="/worksafe.php?mode=on&amp;url=http%3A%2F%2Fwww.madcowmodels.co.uk%2Findex.php%3Fcontent%3Dprivacy" class="a12 tip" title="Work Safe Mode is currently off, click here to turn it on">On</a>/<b class="tip" title="Work safe mode is currently off">Off</b><br>Not a member?
-<a href="/index.php?content=join" class="a12">Sign up today!</a></div></div><div class="divClear;"></div></span>
+	<div style="float:right; width:100px; color:#ffffff; font-size:13px; line-height:120%; padding-right:3px;" align="right"><br>
+<a href="http://www.facebook.com/madcowmodels"><img alt="Madcow Models Facebook" title="Check out our Facebook page!" style="border:0;" width="20px" height="20px" src="/webimages/social/facebook_32.png"></a>
+<a href="http://www.twitter.com/madcowmodels"><img alt="Madcow Models Twitter" title="Check out our Twitter page!" style="border:0;" width="20px" height="20px" src="/webimages/social/twitter_32.png"></a>
+<a href="http://www.myspace.com/madcowmodels"><img alt="Madcow Models Myspace" title="Check out our Myspace page!" style="border:0;" width="20px" height="20px" src="/webimages/social/myspace_32.png"></a>
+<a rel="nofollow" target="_blank" href="http://www.linkedin.com/company/madcowmodels" class="a12"><img style="border:0;" src="/webimages/social/linkedin_32.png" width="20px" height="20px" alt="Connect with us on LinkedIn"></a>	
+</div><div style="float:left; width:220px;color:#ffffff; font-size:13px;"><div align="left" style="padding-left:5px;"><br>Not a member?
+<a href="/index.php?content=join" class="a12">Join today!</a></div></div><div class="divClear;"></div></span>
 </td>
   </tr>
 </tbody></table>
 </div>
-<!--ENDS ABOVE HERE--></div>
 <div id="middle">
 <div id="mcontent" style="padding-left: 45px; padding-right: 45px;"><b>Effective date: 1st February 2010.</b>
 <br><br>
@@ -433,14 +479,32 @@ If we are required to disclose to provide notice of invasion of certain security
 </div>
 </div>
 <div align="center">
-<div style="width: 996px;  margin: 0 auto;  background-image: url('/webimages/newlayout/midbg.jpg'); background-repeat: repeat-y;">
+<div style="width: 996px;margin: 0 auto;background-color:#ffffff;border-left: 1px solid #B0B0B0;border-right: 1px solid #B0B0B0;">
 <div id="check"></div>
+
 <br>		
-<a rel="nofollow" href="http://www.madcowmodels.co.uk/affiliate.php?durl=Http%3A%2F%2Fwww.paidonresults.net%2Fc%2F26015%2F6%2F595%2F0&amp;affiliateid=10&amp;rurl=http%3A%2F%2Fwww.madcowmodels.co.uk%2Findex.php%3Fcontent%3Dprivacy"><img src="http://images.uk.paidonresults.net/26015/595/0/6" style="border:0;"></a><br>
+<!--<iframe frameborder="0" marginheight="50" src="http://www.homeapprove.co.uk/AdServe.php" width="750px" height="190px"></iframe>-->
+<!--<SCRIPT type="text/javascript" LANGUAGE="javascript" src="http://www.qksz.net/1e-jveo"> </SCRIPT>-->
+<!--
+<script type="text/javascript">
+adsflip_acc_id = 'adsflip-i7493';
+adsflip_width = 728;
+adsflip_height = 90;
+adsflip_display = 'text_image';
+adsflip_tag = '';
+adsflip_col_border = 'FFFFFF';
+adsflip_col_bg = 'FFFFFF';
+adsflip_col_title = '9900CC';
+adsflip_col_text = '777777';
+adsflip_col_url = '555555';
+</script>
+<script type="text/javascript" src="http://jsad1.adsflip.com/ads_out.js"></script>
+-->
 <br>
-<div align="center"><img src="/webimages/ArrowBlack.gif"> <span style="font-size:11px;"><a href="/advertising" class="a4">Advertise Here!</a></span> <img src="/webimages/ArrowBlack.gif"></div>
+<br>
+<div align="center"><img src="/webimages/ArrowBlack.gif"> <span style="font-size:11px;"><a href="/index.php?content=join" class="a4">Fed up of adverts? Sign up!</a></span> <img src="/webimages/ArrowBlack.gif"></div>
 </div>
-<div style="width:100%; min-height: 130px; background-color:#000000;">
+<div style="width:100%; min-height: 130px; background-color:#2c2c2c;border-top: 5px solid #8F8F8F;">
 <div style="padding-left: 20px; padding-right: 20px; padding-top: 20px;">
 
 <table border="0" align="center" width="990px" style="font-size:11px;color:#ffffff;">
@@ -449,16 +513,21 @@ If we are required to disclose to provide notice of invasion of certain security
 		
 			<a href="/" class="a12">Home</a>
 		<br><a href="/UserLogin.php" class="a12">Log in</a>
-		<br><a href="/index.php?content=join" class="a12">Sign Up</a>
-		<br><a href="/index.php?content=membershipdetails" class="a12">Membership Details</a>
+		<br><a href="/join" class="a12">Sign Up</a>
+		<br><a href="/linktous" class="a12">Link to Us</a>
+		<br><a href="/upgrade" class="a12">Membership Details</a>
+		<br><a href="/index.php?content=refer" class="a12">Refer-a-Friend</a>
 		<br><a href="/faq.php" class="a12">FAQ</a>
-		<br><a href="/index.php?content=feedback" class="a12">Feedback</a>
-		<br><a href="/index.php?content=safemode" class="a12">Work Safe Mode</a>
-		<br><a href="/index.php?content=contact" class="a12">Contact Us</a>
+		<br><a href="/feedback" class="a12">Feedback</a>
+		<br><a href="/safemode" class="a12">Work Safe Mode</a>
+		<br><a href="/contact" class="a12">Contact Us</a>
+		<br><a href="/rules" class="a12">Rules</a>
 		<br><a href="/index.php?content=tc" class="a12">Terms &amp; Conditions</a>
 		<br><a href="/index.php?content=privacy" class="a12">Privacy Policy</a>
 		
 		</td>
+		<td width="2px" style="border-right:1px #A3A3A3 solid;"></td>
+		<td width="18px"></td>
 		<td valign="top" align="left"> 
 			<a href="/models/newcomer/0/" class="a12">Newcomer Models</a>
 		<br><a href="/models/novice/0/" class="a12">Novice Models</a>
@@ -470,71 +539,57 @@ If we are required to disclose to provide notice of invasion of certain security
 		<br><a href="/muas/0/Make-Up-Artists.html" class="a12">Make up Artists</a>
 		<br><a href="/clients/0/Clients.html" class="a12">Clients</a>
 		<br><a href="/agencies/0/Modeling-Agencies.html" class="a12">Agencies</a>
-		
-		</td><td valign="top" align="left">
+		</td>
+		<td width="2px" style="border-right:1px #A3A3A3 solid;"></td>
+		<td width="18px"></td>
+		<td valign="top" align="left">
 			<a href="/about" class="a12">About us</a>
 		<br><a href="/articles" class="a12">Articles</a>
 		<br><a href="/advertising" class="a12">Advertising</a>
+		<br><a href="/darkroom/about" class="a12">The Darkroom</a>
 		<br><a href="/search" class="a12">Search</a>		
 		<br><a href="/forum" class="a12">Forum</a>
 		<br><a href="/modeling_work" class="a12">Castings &amp; Postings</a>		
 		<br><a href="/modeling_work/Add-New-Assignment" class="a12">Add a Casting</a>			
-		<br><a href="/index.php?content=editorschoice" class="a12">Editors Choice</a>
-		<br><a href="/index.php?content=newmembers" class="a12">Newest Members</a>
+		<br><a href="/editorschoice" class="a12">Editors Choice</a>
+		<br><a href="/newmembers" class="a12">Newest Members</a>
 		<br><a href="/blog" class="a12">Blog</a>
 		<br><a href="/glossary" class="a12">Glossary</a>
 		</td>
-		<td width="150px" valign="top" align="left"> 
-<a rel="nofollow" target="_blank" href="http://www.facebook.com/madcowmodels" class="a12"><img style="border:0;" src="/webimages/social/small/facebook.png" alt="Find us on Facebook"> Find us on Facebook</a>
-<br><a rel="nofollow" target="_blank" href="http://www.twitter.com/madcowmodels" class="a12"><img style="border:0;" src="/webimages/social/small/twitter.png" alt="Follow us on Twitter"> Follow us on Twitter</a>
-<br><a rel="nofollow" target="_blank" href="http://www.myspace.com/madcowmodels" class="a12"><img style="border:0;" src="/webimages/social/small/myspace.png" alt="Friend us on Myspace"> Find us on Myspace</a>
+		<td width="170px" valign="top" align="left"> 
+<span style="font-size:14px;">
+		<a rel="nofollow" href="/worksafe.php?mode=on&amp;url=http%3A%2F%2Fwww.madcowmodels.co.uk%2Findex.php%3Fcontent%3Dprivacy" class="a12">Turn work safe mode on</a><br><a href="/safemode" class="a12">More Info</a></span><br>			
+<br>			
+<div align="center">
+<a rel="nofollow" target="_blank" href="http://www.facebook.com/madcowmodels" class="a12"><img style="border:0;" src="/webimages/social/facebook_32.png" alt="Find us on Facebook"></a> <a rel="nofollow" target="_blank" href="http://www.twitter.com/madcowmodels" class="a12"><img style="border:0;" src="/webimages/social/twitter_32.png" alt="Follow us on Twitter"></a> <a rel="nofollow" target="_blank" href="http://www.myspace.com/madcowmodels" class="a12"><img style="border:0;" src="/webimages/social/myspace_32.png" alt="Friend us on Myspace"></a>	
+<a rel="nofollow" target="_blank" href="http://www.linkedin.com/company/madcowmodels" class="a12"><img style="border:0;" src="/webimages/social/linkedin_32.png" alt="Connect with us on LinkedIn"></a>	
+</div>		
 		</td>
 		<td width="348px" valign="top" align="center">
-		<a href="/"><img style="border:0;" src="/webimages/newlayout/MadcowFooterLogo.png" alt="Madcow Models | The online resource and networking site"></a>
+		<a href="/"><img style="border:0;" src="/webimages/MadcowModelsMainLogo.png" alt="Madcow Models | The online resource and networking site" height="37px" width="348px"></a>
 		<br>
-		Madcow Models is a Free online portfolio hosting website for anyone in the modeling industry
+		The Free Online Networking Website for the Modeling and Photographic Industry
 		<br>
-		<br><span style="font-size:14px;">
-		<a rel="nofollow" href="/worksafe.php?mode=on&amp;url=http%3A%2F%2Fwww.madcowmodels.co.uk%2Findex.php%3Fcontent%3Dprivacy" class="a12">Turn work safe mode on</a></span><br><a href="/index.php?content=safemode" class="a12">More Info</a>		
+		<br>
+		<div align="left">
+<span style="font-size:15px;"><a href="/blog" class="a12">Latest Blog</a></span>
+<br>
+<a class="a12" href="/blog/2011/11/Photo-policy-updates.html">Photo policy updates</a><br>
+<br>
+<span style="font-size:15px;"><a href="/articles" class="a12">Latest Article</a></span>
+<br>
+<a class="a12" href="/articles/Marketing-and-promoting-yourself-as-a-model.html">Marketing and promoting yourself as a model</a></div>
 		</td>
 	</tr>
 </tbody></table>
 <br>
-		<style>
-.links a:link  {
-	color: #ffffff;
-	padding: 5;
-	text-decoration:none;
-}
-
-.links a:visited {
-	color:#ffffff;
-	padding: 5;
-	text-decoration:none;
-}
-
-.links a:hover {
-	color:#FFFFFF;
-	padding: 5;
-	text-decoration:none;}
-
-</style>
-<span class="links" style="color:#ffffff;"><script type="text/javascript" language="javascript" src="http://www.qksz.net/1e-jvew"> </script></span>
-<br>
-<div align="center"><img src="/webimages/ArrowBlack.gif"> <span style="font-size:11px;"><a href="/advertising" class="a12">Advertisement</a></span> <img src="/webimages/ArrowBlack.gif"></div>
-
-<br>
-<br>
 </div>
 </div>
 </div>
-<div style="height:35px; background-color:#000000;">
+<div style="height:35px; background-color:#2c2c2c;">
 <span style="font-size:10px; color: #999999;">
 ©Copyright 2011 Madcow Models. <br> All Rights Reserved. Any photos contained on this page are copyright of their respective owners. All Rights Reserved. All Trademarks are the property of their respective owners.
 </span>
-
-</div><a class="a10" href="#"><img border="0" src="http://www.madcowmodels.co.uk/autositemap/autositemap.php?sitemaptype=general"></a>
-
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -548,4 +603,70 @@ If we are required to disclose to provide notice of invasion of certain security
   })();
 
 </script>
+<script type="text/javascript" src="http://www.madcowmodels.co.uk/dropdown/jquery.autocomplete.js"></script>
+<script type="text/javascript">
+  function findValue(li) {
+  	if( !!li.extra ) var sValue = li.extra[0];
+  }
+  function selectItem(li) {
+    	findValue(li);
+  }
+  function formatItem(row) {
+    	return '<table border="0"><tr><td width="40px"><img src="/images/thumbs/'+row[2]+'.jpg" width="40px"></td><td align="left" valign="top">'+row[0]+'<br><span style="font-size:10px;">'+row[3]+'</span><br><span style="font-size:10px;">'+row[4]+'</span></td></tr></table>';
+  }
+    $(".ac_input").autocomplete(
+      "http://www.madcowmodels.co.uk/dropdown/autocompleteMembers.php",
+      {
+  			delay:10,
+  			minChars:1,
+  			matchSubset:1,
+  			matchContains:1,
+  			cacheLength:10,
+  			onItemSelect:selectItem,
+  			onFindValue:findValue,
+  			formatItem:formatItem,
+  			autoFill:false
+  		}
+    );
+  
+  
+  function formatsearchItem(row) {
+    	return '<div align="left" onclick="location.href=\'/'+row[2]+'\';"><table border="0"><tr><td width="40px"><img src="/images/thumbs/'+row[2]+'.jpg" width="40px"></td><td align="left" valign="top">'+row[0]+'<br><span style="font-size:10px;">'+row[3]+'</span><br><span style="font-size:10px;">'+row[4]+'</span></td></tr></table></div>';
+  }
+    $(".ac_search").autocomplete(
+      "http://www.madcowmodels.co.uk/dropdown/autocompleteMembers.php",
+      {
+  			delay:10,
+  			minChars:1,
+  			matchSubset:1,
+  			matchContains:3,
+  			cacheLength:10,
+  			onItemSelect:selectItem,
+  			onFindValue:findValue,
+  			formatItem:formatsearchItem,
+  			autoFill:false
+  		}
+    );
+	
+ function formatpostcodeItem(row) {
+    	return '<div align="left">'+row[0]+'<br></div>';
+  }
+    $(".ac_postcode").autocomplete(
+      "http://www.madcowmodels.co.uk/dropdown/autocompletePostcode.php",
+      {
+  			delay:10,
+  			minChars:1,
+  			matchSubset:1,
+  			matchContains:3,
+  			cacheLength:10,
+  			onItemSelect:selectItem,
+  			onFindValue:findValue,
+  			formatItem:formatpostcodeItem,
+  			autoFill:false
+  		}
+    );	
+	
+</script></div>
+<div id="one" class="jGrowl bottom-right"></div>
+
 </body></html>
