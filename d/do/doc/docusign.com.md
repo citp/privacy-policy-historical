@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the docusign.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601234818id_/http%3A//www.docusign.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D394%26Itemid%3D238) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docusign.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122024122id_/http%3A//www.docusign.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Terms of Use
+# Privacy Policy | Electronic Signature, e-Sign, and Digital Signatures from DocuSign
 
 [We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)
 
@@ -11,6 +11,10 @@ The privacy practices of this statement apply to our services available under th
 This Privacy Policy describes the information, as part of the normal operation of our services, we collect from you and what may happen to that information. Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about DocuSign's practices so that you can make informed decisions.
 
 By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the DocuSign Terms of Use Agreement. This Privacy Policy is effective upon acceptance in registration for new registering users, and is otherwise effective on November 24th, 2003 for all users.
+
+DocuSign complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  DocuSign has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view DocuSign’s certification, please visit <http://www.export.gov/safeharbor/>
+
+DocuSign, Inc. participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in safe harbor, we have agreed to the  [TRUSTe Dispute Resolution Requirements](http://www.truste.com/why_TRUSTe_privacy_services/online-privacy-watchdog.html%20) for disputes relating to our compliance with the Safe Harbor Privacy Framework.  If you have complaints regarding our compliance with the Safe Harbor you should first contact us [COMPANY CONTACT INFORMATION]. If contacting us does not resolve your complaint, you may raise your complaint by contacting [TRUSTe here](https://web.archive.org/web/20111122024122id_/http%3A//www.docusign.com/company/%20http://watchdog.truste.com/pvr.php?page=complaint), by fax at 415-520-3420, or mail at Watchdog Complaints, TRUSTe, 55 2nd Street, 2nd Floor, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaints shared with the company.  For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, please visit [TRUSTe ](https://web.archive.org/web/20111122024122id_/http%3A//www.docusign.com/company/%20http://watchdog.truste.com/pvr.php?page=complaint)or request this information from TRUSTe at any of the addresses listed above.  The TRUSTe dispute resolution process shall be conducted in English
 
 #### 1\. Information We Collect.
 
@@ -28,7 +32,7 @@ Additionally, the DocuSign Web client or DocuSign Professional client is loaded 
 
 If you establish a credit account with us to pay the fees we charge, we collect some additional information, such as a billing address, a credit card number and a credit card expiration date and tracking information from checks or money orders.
 
-If you use DocuSign to send documents we will encrypt and store these documents in an account and make the contents available only to those whom you invite to view or sign these files. DocuSign employees do not have access to this information, nor can they access your signature file or other data, but it is stored in our system. 
+If you use DocuSign to send documents we will encrypt and store these documents in an account and make the contents available only to those whom you invite to view or sign these files. DocuSign employees do not have access to this information, nor can they access your signature file or other data, but it is stored in our system.
 
 If you send us personal correspondence, such as emails or letters, we may collect such information into a file specific to you.
 
@@ -39,6 +43,8 @@ If you register for DocuSign on another web site or use a web site providing a s
 We use your personal information to facilitate the services you request. We use your personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site to: resolve disputes; troubleshoot problems; help promote safe exchange of documents for signature and delivery; collect fees owed; authenticate users, inform you about online and offline offers, products, services, and updates; customize your experience; detect and protect us against error, fraud and other criminal activity; enforce our User Agreement; and as otherwise described to you at the time of collection. At times, we may look across multiple users to identify problems or resolve disputes, and in particular we may examine your personal information to identify users using multiple User IDs or aliases. We may compare and review your personal information for errors, omissions and for accuracy.
 
 If you choose to use our service and pay with credit card or corporate invoice, we use your address and billing information to bill you and provide associated support.
+
+We use third-party advertising companies to serve ads when you visit our Website.  These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](https://web.archive.org/web/20111122024122id_/http%3A//www.docusign.com/company/aboutads.info). 
 
 #### 3\. Our Disclosure of Your Information.
 
