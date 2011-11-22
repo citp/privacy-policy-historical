@@ -1,29 +1,99 @@
-> *The following text is extracted and transformed from the ccbg.com privacy policy that was archived on 2008-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080424130307id_/http%3A//www.ccbg.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccbg.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122161139id_/https%3A//www.ccbg.com/view/downloads/RegPNoticePrivacy_06172010.pdf) for the most accurate reproduction.*
 
-# Capital City Bank - Your Personal and Business Banking Solution.
+# 
 
-| 
+                                                                                                                    Rev. June 2010
+                          WHAT DOES CAPITAL CITY BANK GROUP DO WITH YOUR PERSONAL
+ FACTS                    INFORMATION?
+                          Financial companies choose how they share your personal information. Federal law gives
+ Why?                     consumers the right to limit some but not all sharing. Federal law also requires us to tell you how
+                          we collect, share, and protect your personal information. Please read this notice carefully to
+                          understand what we do.
+ What?                    The types of personal information we collect and share depend on the product or service you
+                          have with us. This information can include:
+                               Social Security number, income, credit history and credit scores
+                               Account balances and payment history
+                          When you are no longer our customer, we continue to share your information as described in this
+                          notice.
+ How?                     All financial companies need to share customers’ personal information to run their everyday
+                          business. In the section below, we list the reasons financial companies can share their
+                          customers’ personal information; the reasons Capital City Bank Group chooses to share; and
+                          whether you can limit this sharing.
+                                                                   Does Capital City Bank
+ Reasons we can share your personal information                                                Can you limit this sharing?
+                                                                        Group share?
+ For our everyday business purposes—
+ such as to process your transactions, maintain
+                                                                            Yes                              No
+ your account(s), respond to court orders and legal
+ investigations, or report to credit bureaus
+ For our marketing purposes—
+                                                                            Yes                              Yes
+ to offer our products and services to you
+ For joint marketing with other financial companies                         Yes                              Yes
+ For our affiliates’ everyday business purposes—
+ information about your transactions and experiences
+                                                                                                            *Yes
+                                                                            Yes
+  *Sharing of information cannot be limited to our
+  affiliate Capital City Services Company.
+ For our affiliates’ everyday business purposes—
+                                                                            Yes                              Yes
+ information about your creditworthiness
+ For our affiliates to market to you                                        Yes                              Yes
+ For nonaffiliates to market to you                                         Yes                              Yes
+                               Visit any Capital City Bank office or
+ To limit
+                               Call our Client Service Center at 888.671.0400
+ our sharing
+                           Please note: If you are a new customer, we can begin sharing your information 30 days from
+                           the date we provide this notice. When you are no longer our customer, we continue to share
+                           your information as described in this notice. You can contact us at any time to limit our sharing.
+Questions?                Visit any Capital City Bank office, call 888.671.0400 or go to www.ccbg.com.
 
-An Important Notice About Your Privacy
 
-At Capital City Bank Group, Inc., we are committed to protecting your privacy. The following policy applies to Capital City Bank Group, Inc., which presently includes Capital City Bank, Capital City Trust Company and Capital City Services Company. Another subsidiary, Capital City Banc Investments, is governed by a separate privacy policy issued by INVEST Financial Corporation under a joint marketing agreement. It provides the same level of consumer and customer privacy and security as does this policy. Please take a moment to read this information, and you may call us at 1.888.671.0400 if you have any questions.
-
-  
-**Information We Collect About You**  
-We collect nonpublic personal information about you from the following sources: (1) information we receive from you on applications or other forms; (2) information about your transactions with us, our affiliates, or others; and (3) information we receive from a consumer reporting agency.
-
-**Sharing of Your Information Outside Capital City Bank Group**  
-Unlike many financial institutions, we do not currently share your information with outside or non-affiliated companies for purposes other than allowable under the regulation. If we ever change our policy to allow us to disclose your information to non-affiliated third parties for marketing purposes not covered by a regulatory exception, we will provide you with advance notice of such change and you will have a reasonable opportunity to opt-out of such information sharing. Any optout election you make in advance will be honored at that time.
-
-Non-public personal information may be revealed to groups or entities outside our company when (1) it is necessary to provide services required to maintain your accounts or complete transactions you have initiated or (2) when mandated or permitted by law, or (3) as necessary in the event of a national emergency. We may disclose all of the information we collect, as described above, to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements.
-
-**Sharing of Your Information Within Capital City Bank Group**  
-To help us provide the best possible service to our clients, under some circumstances, your information may be shared within the Capital City Bank Group. The types of information shared with affiliates may include internally-generated information (such as account balances, payment and transaction history, etc) about your accounts with our company or externally-generated information (such as information on your credit report or loan application). If you prefer not to have this information used for marketing purposes by affiliates of Capital City Bank, you may request that we not do so by writing to us at: Capital City Bank, Information Security Department, P. O. Box 900, Tallahassee, FL 32302-0900, or by calling Capital City Bank Direct toll-free at 1.888.671.0400. Reporting of Your Information to Credit Reporting Agencies Late payments, missed payments, or other defaults on your account may be reflected in your credit report. 
-
-**Accuracy of Your Information**  
-Every effort is made to ensure our records of your information are complete and correct. If an error is noted on your statement or in any other communication from us, please contact us at the number listed on your account materials or call Capital City Bank Direct at 850.671.0400 or toll-free at 1.888.671.0400.
-
-**Security of Your Information**  
-We restrict access to nonpublic personal information about you to those employees who need to know that information to provide existing or proposed products and services to you. We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your nonpublic information.
-
-Revised 08.06
+Page 2
+Who we are
+Who is providing this              Capital City Bank Group includes Capital City Bank, Capital City Services Company,
+notice?                            Capital City Trust Company and Capital City Banc Investments.
+What we do
+How does Capital City Bank         We restrict access to nonpublic information about you to those employees who need
+Group protect my personal          to know that information to provide products and services to you. We also maintain
+information?                       physical, electronic and procedural safeguards that comply with federal laws to
+                                   guard your information.
+How does Capital City Bank         We collect your personal information, for example, when you
+Group collect my personal               Open an account, deposit money, use your debit card or credit card
+information?                            Pay your bills or apply for a loan
+                                  We also collect your personal information from others, such as credit bureaus,
+                                  affiliates or other companies.
+                                   Federal law gives you the right to limit only
+Why can’t I limit
+all sharing?                            sharing for affiliates’ business purposes—information about your
+                                         creditworthiness
+                                        affiliates from using your information to market to you
+                                        sharing for nonaffiliates to market to you
+                                   State laws and individual companies may give you additional rights to limit sharing.
+                                  Your preference will apply to any account on which you have sole signature authority.
+What happens when I
+limit sharing for an              Your opt-out preference will remain in effect until revoked by you.
+account I hold jointly with
+someone else?
+Definitions
+Affiliates            Companies related by common ownership or control. They can be financial and nonfinancial
+                      companies.
+                         Capital City Bank
+                         Capital City Services Company
+                         Capital City Trust Company
+                         Capital City Banc Investments
+Nonaffiliates         Companies not related by common ownership or control. They can be financial and nonfinancial
+                      companies.
+                         Nonaffiliates we share with can include companies such as mortgage companies, insurance
+                          companies, check printing companies and others.
+                    Information is shared with nonaffiliates only when:
+                         1. Necessary to provide services required to maintain your accounts or complete
+                             transactions you have initiated or
+                         2. Mandated or permitted by law or
+                         3. Required in the event of a national emergency.
+Joint marketing       A formal agreement between nonaffiliated financial companies that together market financial
+                      products or services to you.
+                         Our joint marketing partners include Elan, Elavon and Invest Financial Corporation.
