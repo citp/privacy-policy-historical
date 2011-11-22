@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidethegames.biz privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524050811id_/http%3A//www.insidethegames.biz/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidethegames.biz privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122125202id_/http%3A//www.insidethegames.biz/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Legal | insidethegames.biz
 
@@ -80,7 +80,7 @@ We may disclose your personal information to third parties:
 
 ### **YOUR RIGHTS**
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [ ](http://%20%3Cscript%20language%3D%27javascript%27%20type%3D%27text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy49255%20=%20'contact'%20+%20'@';%20addy49255%20=%20addy49255%20+%20'insidethegames'%20+%20'.'%20+%20'biz';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'/''%20+%20prefix%20+%20addy49255%20+%20suffix%20+%20'/''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy49255%20\);%20document.write\(%20'%3C//a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=/'display:%20none;/'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[contact@insidethegames.biz](mailto:contact@insidethegames.biz).
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [ ](http://%20%3Cscript%20language%3D%27javascript%27%20type%3D%27text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy78519%20=%20'contact'%20+%20'@';%20addy78519%20=%20addy78519%20+%20'insidethegames'%20+%20'.'%20+%20'biz';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'/''%20+%20prefix%20+%20addy78519%20+%20suffix%20+%20'/''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy78519%20\);%20document.write\(%20'%3C//a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=/'display:%20none;/'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[contact@insidethegames.biz](mailto:contact@insidethegames.biz).
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.
 
@@ -94,25 +94,6 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ### **CONTACT**
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [ ](http://%20%3Cscript%20language%3D%27javascript%27%20type%3D%27text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy32533%20=%20'contact'%20+%20'@';%20addy32533%20=%20addy32533%20+%20'insidethegames'%20+%20'.'%20+%20'biz';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'/''%20+%20prefix%20+%20addy32533%20+%20suffix%20+%20'/''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy32533%20\);%20document.write\(%20'%3C//a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=/'display:%20none;/'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[contact@insidethegames.biz](mailto:contact@insidethegames.biz).
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [ ](http://%20%3Cscript%20language%3D%27javascript%27%20type%3D%27text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy93215%20=%20'contact'%20+%20'@';%20addy93215%20=%20addy93215%20+%20'insidethegames'%20+%20'.'%20+%20'biz';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'/''%20+%20prefix%20+%20addy93215%20+%20suffix%20+%20'/''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy93215%20\);%20document.write\(%20'%3C//a%3E'%20\);%20//--%3E%20%3C/script%3E%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=/'display:%20none;/'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[contact@insidethegames.biz](mailto:contact@insidethegames.biz).
 
 Thank you for visiting our site.
-
-##  Additional Information 
-
-Lilleshall is where Sir Alf Ramsey prepared England's footballers for World Cup glory in 1966 and it is where Britain's gymnasts are seeking vital information about their London 2012 potential. Mike Rowbottom visited there to hear the plan from Beth Tweddle, Sam Oldham and Dan Purvis about how they hope to emulate Bobby Moore, Bobby Charlton and Geoff Hurst 
-
-[Read more](http://www.insidethegames.biz/bigread/12948-british-gymnasts-looking-to-learn-as-they-gear-up-for-london-2012)   
-[Big Read Archive](http://www.insidethegames.biz/bigread/)
-
-### Poll
-
-Do you think that Peter Vidmar should have stepped down as Chef de Mission of the USA team for London 2012 because of his views on same-sex marriage?
-
-[](http://www.facebook.com/pages/Inside-The-Games/123052189231?ref=ts)[](http://twitter.com/insidethegames)
-
-[](http://www.insidethegames.biz/privacy-statement/8167-about-us) [](http://www.insidethegames.biz/links)
-
-### Hosted by
-
-[](http://www.rackspace.com/)
