@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbooks.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626192329id_/http%3A//redbooks.com/Nonsub/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbooks.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122204436id_/http%3A//redbooks.com/Nonsub/Privacy.aspx) for the most accurate reproduction.*
 
 # Red Books Privacy Policy: Advertising Redbooks.com™
 
@@ -56,6 +56,6 @@ We do not collect or maintain information from anyone known by us to be under th
 
 We may change this Privacy Policy at any time.  The revised Privacy Policy will be effective immediately when posted on the Site.  It is the responsibility of each user to review the Site and the Privacy Policy periodically to learn of any revisions to this Privacy Policy.  Your continued use of the Site after the effectiveness of such revisions will constitute your acknowledgment and acceptance of the terms of the revised Privacy Policy.
 
-If you have any comments or questions regarding our Privacy Policy, please email us at [legal@redbooks.com](mailto:legal@redbooks.com) or contact us at Red Books LLC, 630 Central Avenue, New Providence, NJ 07974.  For more information about protecting your privacy, you may wish to visit: [http://www.ftc.gov](http://www.ftc.gov/).
+If you have any comments or questions regarding our Privacy Policy, please email us at [legal@redbooks.com](mailto:legal@redbooks.com) or contact us at Red Books LLC, PO Box 1514, Summit, NJ 07902.  For more information about protecting your privacy, you may wish to visit: [http://www.ftc.gov](http://www.ftc.gov/).
 
 Initial Version Posted: December 9, 2010
