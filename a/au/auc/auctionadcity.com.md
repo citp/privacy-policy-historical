@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the auctionadcity.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525040954id_/http%3A//auctionadcity.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionadcity.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122231523id_/http%3A//www.auctionadcity.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
-# Buy/Sell Auction/Classified
+# Buy Auction Classified
+
+[[Stores](http://www.auctionadcity.com/stores/buy/)] Welcome  Guest  click here to [Register](http://www.auctionadcity.com/register.php) or [Login](http://www.auctionadcity.com/index.php?a=10) to buy products or post free auctions and free classifieds! 
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
