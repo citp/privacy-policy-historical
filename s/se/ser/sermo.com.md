@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sermo.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516145804id_/http%3A//www.sermo.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sermo.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123002330id_/http%3A//sermo.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Sermo.com
 
@@ -24,7 +24,7 @@ Sermo is the sole owner of the information collected on this Site. We will not s
 
 #### b. Registration
 
-During the collection of information at the Profile pages on the Site, You are required to give your contact information (such as name, address, birth date, physician license information, medical school, institutional affiliations, e-mail address and the like). An e-mail address and birth date is used to confirm Your identity. An email address is also used to contact You about the materials and information on the Site. When the Site requests Your identity, the Site will clearly indicate the purpose of the inquiry before the information is requested. All of your professional information will be authenticated against a third party provider.
+During the collection of information at the Profile pages on the Site, You are required to give your contact information (such as name, address, birth date, physician license information, medical school, institutional affiliations, e-mail address and the like). An e-mail address and birth date is used to confirm Your identity. An email address and birth date is used to confirm Your identity. An email address is also used to contact You about the materials and information on the Site. When the Site requests Your identity, the Site will clearly indicate the purpose of the inquiry before the information is requested. All of your professional information will be authenticated against a third party provider.
 
 #### c. Personal Profile
 
@@ -44,7 +44,7 @@ For the purposes of inviting and introducing third parties to Sermo, You will be
 
 Sermo strongly encourages parents and guardians to supervise the online activities of their minor children and consider using parental control tools available from online services and software manufacturers to help provide a child-friendly online environment. These tools also can prevent minors from disclosing their name, address, and other personally identifiable information online without parental permission. Although the Site is not intended for use by minors, Sermo respects the privacy of minors who may inadvertently use the Internet.
 
-#### g. Opt Out Procedures
+#### g.Opt Out Procedures
 
 Upon initial communication from Sermo, You may opt-out of receiving further communications from Sermo. To be completely removed from the Sermo mailing list, You may contact [admin@sermo.com](mailto:admin@sermo.com). If You are using an e-mail forwarding service or other similar service please make sure to include the correct e-mail address or addresses.
 
