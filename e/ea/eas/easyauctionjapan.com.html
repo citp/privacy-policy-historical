@@ -1,18 +1,18 @@
-<!--The following is the downloaded HTML source of the easyauctionjapan.com privacy policy that was archived on 2010-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101219130156id_/http%3A//www.easyauctionjapan.com/Privacy_Policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the easyauctionjapan.com privacy policy that was archived on 2011-11-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111122050420id_/http%3A//www.easyauctionjapan.com/Privacy_Policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
         <meta name="verify-v1" content="pKphm41FOdpwOlwkNJfcCYy/tnT2dhP3CGRpbmmqCNg=">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<link href="themes/default/css/index_css.css" rel="stylesheet" type="text/css">
-		<meta name="Keywords" content="Easy Auction Japan, yahoo japan auction, japan shopping, japan shipping, japan motorcycle part, japan anime, cool japanese toys, japan shops online">
+		<meta name="Keywords" content="Easy Auction Japan, yahoo japan auction, japan shopping, japan shipping, japan motorcycle part, japan anime, cool japanese toys, japan shops online, 日本雅虎拍賣, 日本雅虎拍卖, 日本购物, 日本購物, 日本代標, 日本代購, 代買、淘宝日本">
 		<meta name="Description" content="Bid in English! Get door to door delivery of your Japanease auction and Online shopping purchases with just one click - Easyauctionjapan.com">
 		<meta http-equiv="content-style-type" content="text/css">
 		<meta http-equiv="content-script-type" content="text/javascript">
         <meta name="msvalidate.01" content="8A005F6598B7F995AC0DA9610943CACE">
-
-		<title>ebay japan, Japan Auctions and Japanese Shopping - Real time Bidding  - </title>
-		<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<meta name="google-site-verification" content="aC-E3cwbymHhIGTrj4UuwAt-uONt9TTQ2xKvCkn--ns">
+		<title>Japan Auctions and Japanese Shopping - Real time Bidding  - </title>
+		<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="http://www.google.com/jsapi"></script>
         <script type="text/javascript" src="js/jquery/jquery-1.2.6.js"></script><script type="text/javascript" src="js/jquery/autolist/jquery.autolist.js"></script>		<script type="text/javascript">	
             var str="";
 			google.load("language", "1");
@@ -72,6 +72,7 @@
 				var site = document.getElementById("site").value;
 				var category_id = document.getElementById("category_id").value;
 				var amazon_searchindex = document.getElementById("amazon_searchindex").value;
+				var mbok_searchindex = document.getElementById("mbok_searchindex").value;
 				var languagejp = document.getElementById("languagejp");
 				var languageen = document.getElementById("languageen");
 				
@@ -80,16 +81,17 @@
 				} else {
 					language="en";
 				}
-
-				if(site == "C")
-					window.location="shopping_yahoo.php?key="+searchstrvalue+"&category_id="+category_id;
-				else if(site == "D")
-					window.location="amazon_search.php?key="+searchstrvalue+"&category_id="+amazon_searchindex;
-				else
-					window.location="search.php?key="+searchstrvalue+"&new="+newvalue+"&typeofshop="+typeofshopvalue+"&site="+site+"&rakuten="+rakuten+"&signenglish="+signenglishvalue+"&jte="+jtevalue + "&language="+language ;
-
-				}		
-
+				if (site == "E"){
+					window.location = "./mbokCategory.php?desc=" + searchstrvalue + "&catId=" + mbok_searchindex;
+				}else{
+					if(site == "C")
+						window.location="shopping_yahoo.php?key="+searchstrvalue+"&category_id="+category_id;
+					else if(site == "D")
+						window.location="amazon_search.php?key="+searchstrvalue+"&category_id="+amazon_searchindex;
+					else 
+						window.location="search.php?key="+searchstrvalue+"&new="+newvalue+"&typeofshop="+typeofshopvalue+"&site="+site+"&rakuten="+rakuten+"&signenglish="+signenglishvalue+"&jte="+jtevalue + "&language="+language ;
+					}		
+				}
 		</script>
 <link rel="stylesheet" type="text/css" href="js/jquery/autolist/css/jquery.autolist.css"></head>
 	<body>
@@ -228,7 +230,7 @@
             <li id="menu07"><a href="news.php" title="News&amp;Events">News&amp;Events </a></li>
 
 
-            <li id="menu08"><a href="book.php?act=list" title="FAQ">FAQ</a></li>
+            <!--<li id="menu08"><a href="book.php?act=list" title="FAQ">FAQ</a></li>-->
 
 
             <li id="menu09"><a href="sitemap.php" title="Sitemap">Sitemap</a></li>
@@ -241,60 +243,9 @@
 
 
  	<div class="shallow" style="width:900px;">
-    <script language="JavaScript">
-	var onecount;
-	var catecount;
-	subcat = new Array();
-	subcat[0] = new Array("1","A","Key words Search");
-	subcat[1] = new Array("0","A","Auction ID Search");
-	subcat[2] = new Array("2","A","Seller ID Search");
-	subcat[3] = new Array("1","B","Key words Search");
-	subcat[4] = new Array("1","C","Key words Search");
-	subcat[5] = new Array("1","D","Key words Search");
-	onecount=6;
-	function changelocations(locationid)
-	{
-	   document.getElementById("new").length = 0;
-	   var locationid=locationid;
-	   var i;
-	   for (i=0;i < onecount; i++)
-	   {
-		   if (subcat[i][1] == locationid)
-		   {
-			   document.getElementById("new").options[document.getElementById("new").length] = new Option(subcat[i][2], subcat[i][0]);
-		   }        
-	   }
-	   if(locationid == "A")
-	   {
-		   document.getElementById("typeofshop").style.display = "";
-		   document.getElementById("rakuten").style.display = "none";
-		   document.getElementById("category_id").style.display = "none";
-		   document.getElementById("amazon_searchindex").style.display = "none";
-	   }
-	   else if(locationid == "B")
-	   {
-		   document.getElementById("typeofshop").style.display = "none";
-		   document.getElementById("rakuten").style.display = "";
-		   document.getElementById("category_id").style.display = "none";
-		   document.getElementById("amazon_searchindex").style.display = "none";
-	   }
-	   else if(locationid == "C"){
-		   document.getElementById("typeofshop").style.display = "none";
-		   document.getElementById("rakuten").style.display = "none";
-		   document.getElementById("category_id").style.display = "";
-		   document.getElementById("amazon_searchindex").style.display = "none";
-	   }else{
-		   document.getElementById("typeofshop").style.display = "none";
-		   document.getElementById("rakuten").style.display = "none";
-		   document.getElementById("category_id").style.display = "none";
-		   document.getElementById("amazon_searchindex").style.display = "";
-	   }
-	}  
-	</script>
-
-
    		<select name="site" id="site" onchange="changelocations(this.value)">
         <option value="A">yahoo auction</option>
+        <option value="E">Mbok auction</option>
         <option value="C">yahoo shopping</option>
         <option value="B">rakuten</option>
         <option value="D">amazon</option>
@@ -307,7 +258,7 @@
    		<script type="text/javascript" src="getcategory.php"></script>
    		<select name="typeofshop" id="typeofshop">
      		<option value="0">Yahoo JP Auctions</option>
-                 		<script language="javascript">getcategoryforselect();</script><option value="23336">Computers</option><option value="23632">Home electronics, cameras</option><option value="22152">Music</option><option value="21600">Books, magazines</option><option value="21964">Movies, videos</option><option value="25464">Toys, games</option><option value="24242">Hobbies, culture</option><option value="20000">Antique goods and collection</option><option value="24698">Sports, leisure</option><option value="26318">Automobiles, motorbikes</option><option value="23000">Fashion</option><option value="23140">Accessories, watches</option><option value="42177">Beauty, health care</option><option value="23976">Food, beverage</option><option value="24198">Home, interior</option><option value="22896">Office and shop supplies</option><option value="26086">Flowers, gardening</option><option value="2084043920">Tickets , cash voucher</option><option value="24202">Baby goods</option><option value="2084032594">Celebrity memorabilia</option><option value="20060">Comics, animation items</option><option value="2084217893">Charity</option><option value="26084">Other</option>
+                 		<script language="javascript">getcategoryforselect();</script>
    		</select>
         <select name="category_id" id="category_id" style="display:none;"> <option selected="" value=""> all categories </option> <option value="13457"> Fashion </option> <option value="2498"> Food </option>  <option value="2500"> Diet and Health </option> <option value="2501"> cosmetics, perfume </option> <option value="2502"> PC Peripherals </option> <option value="2504"> AV equipment, cameras </option> <option value="2505"> Consumer Electronics </option> <option value="2506"> furniture, interior </option> <option value="2507"> Flowers gardening </option> <option value="2508"> Kitchen, miscellaneous life </option> <option value="2503"> DIY, tools, stationery </option> <option value="2509"> Pets Supplies, Animals </option> <option value="2510"> instruments, hobbies, learning </option> <option value="2511"> Games, Toys </option> <option value="2497"> Baby, Kids Maternity </option> <option value="2512"> Sports </option> <option value="2513"> Leisure, Outdoors </option> <option value="2514"> bike, car, motorcycle </option>  <option value="2516"> CD, music software </option> <option value="2517"> DVD, video software </option> <option value="10002"> books, magazines, comic </option> </select>
         <select name="rakuten" id="rakuten" style=" display:none;">
@@ -338,6 +289,34 @@
             <option value="101114">Cars</option>
             <option value="510915">Alcohol</option>
             <option value="200162">Books</option>
+        </select>
+        <select name="mbok_searchindex" id="mbok_searchindex" style="display:none;">
+        	 <option value="0" selected="selected">Mbok Auctions</option>
+			 <option value="100000001">Brand</option>
+			 <option value="200000001">Women's fashion</option>
+			 <option value="200000438">Men's fashion</option>
+			 <option value="300000001">Clock access / female</option>
+			 <option value="300000171">Clock access / man</option>
+			 <option value="300000172">/ Cosmetics / perfume nail</option>
+			 <option value="400000001">Kids / Baby</option>
+			 <option value="800000163">Automobile</option>
+			 <option value="800000191">Bike</option>
+			 <option value="1100000001">CD / DVD / Video</option>
+			 <option value="900000030">/ Soft Body Game</option>
+			 <option value="700000071">Trading cards</option>
+			 <option value="900000223">Anime / Manga / Anime</option>
+			 <option value="900000000">Toy</option>
+			 <option value="500000000">appliances/AV</option>
+			 <option value="500000650">Peripherals / PC body</option>
+			 <option value="1200000001">Interior / Life</option>
+			 <option value="1400000001">Health / Beauty</option>
+			 <option value="1500000001">Food / Drinks</option>
+			 <option value="700000000">Hobby</option>
+			 <option value="800000001">Gardening / Handicraft/ pet</option>
+			 <option value="800000702">Leisure / Sport</option>
+			 <option value="1000000001">Magazines / Books</option>
+			 <option value="1300000001">Talent goods</option>
+			 <option value="600000001">Tickets /金券</option>
         </select>
         <select name="amazon_searchindex" id="amazon_searchindex" style="display:none;">
             <option selected="selected" value="All">All categories</option>
@@ -379,7 +358,67 @@
 
 
  	</form>
-
+ <script language="JavaScript">
+	var onecount;
+	var catecount;
+	subcat = new Array();
+	subcat[0] = new Array("1","A","Key words Search");
+	subcat[1] = new Array("0","A","Auction ID Search");
+	subcat[2] = new Array("2","A","Seller ID Search");
+	subcat[3] = new Array("1","B","Key words Search");
+	subcat[4] = new Array("1","C","Key words Search");
+	subcat[5] = new Array("1","D","Key words Search");
+	subcat[6] = new Array("1","E","Key words Search");
+	onecount=7;
+	function changelocations(locationid)
+	{
+	   document.getElementById("new").length = 0;
+	   var locationid=locationid;
+	   var i;
+	   for (i=0;i < onecount; i++)
+	   {
+		   if (subcat[i][1] == locationid)
+		   {
+			   document.getElementById("new").options[document.getElementById("new").length] = new Option(subcat[i][2], subcat[i][0]);
+		   }        
+	   }
+	   if(locationid == "A")
+	   {
+		   document.getElementById("typeofshop").style.display = "";
+		   document.getElementById("mbok_searchindex").style.display = "none";
+		   document.getElementById("rakuten").style.display = "none";
+		   document.getElementById("category_id").style.display = "none";
+		   document.getElementById("amazon_searchindex").style.display = "none";
+	   }
+	   else if(locationid == "B")
+	   {
+		   document.getElementById("typeofshop").style.display = "none";
+		   document.getElementById("mbok_searchindex").style.display = "none";
+		   document.getElementById("rakuten").style.display = "";
+		   document.getElementById("category_id").style.display = "none";
+		   document.getElementById("amazon_searchindex").style.display = "none";
+	   }
+	   else if(locationid == "C"){
+		   document.getElementById("typeofshop").style.display = "none";
+		   document.getElementById("mbok_searchindex").style.display = "none";
+		   document.getElementById("rakuten").style.display = "none";
+		   document.getElementById("category_id").style.display = "";
+		   document.getElementById("amazon_searchindex").style.display = "none";
+	   }else if(locationid == "D"){
+		   document.getElementById("typeofshop").style.display = "none";
+		   document.getElementById("rakuten").style.display = "none";
+		   document.getElementById("category_id").style.display = "none";
+		   document.getElementById("mbok_searchindex").style.display = "none";
+		   document.getElementById("amazon_searchindex").style.display = "";
+	   }else if (locationid == "E"){
+	   	   document.getElementById("mbok_searchindex").style.display = "";
+	   	   document.getElementById("typeofshop").style.display = "none";
+		   document.getElementById("rakuten").style.display = "none";
+		   document.getElementById("category_id").style.display = "none";
+		   document.getElementById("amazon_searchindex").style.display = "none";
+	   }
+	}
+	</script>
 
  	
 <script language="javascript" type="text/javascript">
@@ -393,7 +432,6 @@ var cot_loc0=(window.location.protocol == "https:")? "https://secure.comodo.net/
 <script language="JavaScript" type="text/javascript">
 COT("themes/default/images/cornertrust.gif", "SC2", "none");
 </script>
-
 
 <script type="text/javascript" src="./js/controlImg.js"></script>
 <script type="text/javascript" src="./js/usercontact.js"></script>
@@ -613,12 +651,19 @@ padding:2px 0;
  <br clear="all">
 
  
-	  <div id="footer">      
-
-        <div class="fmenu">
-
-       
-
+	 	  <script>
+	  (function() {
+	    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+	    po.src = 'https://apis.google.com/js/plusone.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	  })();
+	  </script>
+	  	  <div id="footer"> 
+       <div style="margin:20px 0 5px 350px;">
+         <a href="http://www.easyauctionjapan.com" target="_blank" class="fontsize11">http://www.easyauctionjapan.com</a>
+                 <span style="padding-left:55px;"> <g:plusone size="small"></g:plusone></span>
+                </div>
+        <div class="fmenu" style="text-align:center;">
           <a href="http://www.easyauctionjapan.com/sub_Aboutus.php" title="About Us" hidefocus="true">About Us</a> | 
 
           <a href="mypage.php?act=Transactionlist&amp;Steps=Run/Outbid/Canseled auction, Purchase Order" title="Your Account " hidefocus="true">Your Account </a> | 
@@ -633,21 +678,14 @@ padding:2px 0;
 
           <a href="#" title="Search">Search  </a> | 
 
-          <a href="http://www.easyauctionjapan.com/sub_links.php" title=" Link"> Link  </a>         </div>
-
-	   
-
-	    
-
+          <a href="http://www.easyauctionjapan.com/sub_links.php" title=" Link"> Link  </a>         
+          </div>
 	  </div>
 
-      <br clear="all">
-
-      <div style="line-height:11px;"><a href="http://www.easyauctionjapan.com" target="_blank" class="fontsize11">http://www.easyauctionjapan.com</a>
-
-        <img src="themes/default/images/copyright.gif" style="margin-left:150px;">
-
-        </div>
+      <br clear="all">  <br>  
+     <div style="text-align:center;">
+     <img src="themes/default/images/copyright.gif" style="margin-bottom:30px;">
+     </div> 
 
 	  </div>
 
