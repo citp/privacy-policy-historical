@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoeskitchen.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616153730id_/http%3A//www.zoeskitchen.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoeskitchen.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122015104id_/http%3A//zoeskitchen.com/privacy.asp) for the most accurate reproduction.*
 
 # Zoës Kitchen
 
