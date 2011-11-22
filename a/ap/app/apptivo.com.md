@@ -1,106 +1,122 @@
-> *The following text is extracted and transformed from the apptivo.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123115906id_/http%3A//www.apptivo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apptivo.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122033915id_/http%3A//privacy-policy.truste.com/verified-policy/www.apptivo.com) for the most accurate reproduction.*
 
-# Privacy | Apptivo
+# Privacy Policy for www.apptivo.com
 
-Apptivo.com (“Apptivo”) will not sell‚ share‚ or rent this information to others in ways different from what is disclosed in this statement. This policy will be reassessed on an ongoing basis against new technologies‚ business practices‚ and our customer needs. We reserve the right to change‚ modify‚ or amend this policy at any time. This privacy policy is incorporated into and subject to Apptivo’s usage Terms & Conditions governing the use of Apptivo‚ available at <http://www.apptivo.com/terms-conditions>
+Effective on November 29, 2010 
 
-Apptivo has designed and runs this software as a service application (“Apptivo SaaS”) to comply with US-based data protection rights laws. If you are unsure whether this privacy statement is in conflict with applicable local rules‚ you should not submit your information. Customers located in countries outside of the United States of America who submit personal information do thereby consent to the general use of such information as provided in this Privacy Statement and to its transfer to and/or storage in the United States of America.
+This privacy statement describes how APPTIVO, INC. collects and uses the personal information you provide on our Web site: [www.apptivo.com ](https://www.apptivo.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-**Children’s Privacy**
+**TRUSTe**
 
-Apptivo SaaS is not intended for children under the age of 13. Children at least 13 years of age and under the age of 18 may use the Apptivo SaaS pursuant to the Apptivo Terms and Conditions of Use. If you do not agree to (or cannot comply with) any of Apptivo’s Terms and Conditions of Use‚ do not use Apptivo SaaS.
+APPTIVO, INC. is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
 
-**What Information Do We Collect?**
+If you have questions or concerns regarding this policy, you should first contact us at [privacy@apptivo.com ](mailto:privacy@apptivo.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
-Apptivo’s goal is to provide you with the complete SaaS platform‚ information‚ products‚ and services that are most relevant to running and managing your business. To achieve this goal‚ we collect the following types of information from you when you use the service:
+## Collection and Use of Personal Information
 
-  * Personally identifiable information you voluntarily choose to disclose
-  * Information about your business identity
-  * Information about your customers‚ vendors and employees
-  * Information about your products and services
+We collect the following personal information from you
 
-
-
-**Personal Information You Choose to Provide**
-
-Personally identifiable information refers to information that tells us specifically who you are. We collect personal information from you when you voluntarily choose to provide it. In this connection‚ you may be asked to provide information such as your name‚ mailing and current email address‚ credit card information‚ and user name and password. You also may provide additional personal information at your option‚ such as your marital status‚ government ids‚ data of birth‚ sex‚ etc. We may ask you to confirm your personal information when you contact our Customer Service department. This will allow us to protect your confidentiality by verifying your identity. Further‚ if you choose to correspond with us through email‚ we may retain the content of your email messages together with your email address and our responses.
-
-**How We Use Your Personal Information**
-
-Your personal information is used to help us customize the content and layout of Apptivo SaaS so that we may provide you with a smooth and efficient usage of the application. We also use personal information for purposes of administering our business activities‚ providing customer service‚ and making available other products and services to our customers and prospective customers. We also may use the information we collect to notify you about important changes to our web site‚ new services‚ and special offers we think you will find valuable.
-
-**When and With Whom We Share Your Personal Information**
-
-We do not sell or rent your personal information to any third parties. We will share personal customer information only with our agents‚ representatives‚ service providers‚ and contractors for limited purposes‚ including:
-
-  * Without limitation providing our customers with services
-  * Offering certain products and services in connection with this Apptivo SaaS
-  * Communicating with customers
-  * Providing customer service
-  * Enhancing and improving customer’s Apptivo SaaS experience
-  * Enabling access to our partner’s web sites
-  * Providing a personalized experience
-  * Preventing fraud and
-  * Completing payment method processing.
+  * Contact Information such as name, email address, mailing address, phone number
+  * Billing Information such as credit card number, and billing address
+  * Unique Identifiers such as user name, account number, password
+  * Preferences Information such as product wish lists, order history, marketing preferences
 
 
 
-Apptivo may offer a number of third party services from our Apptivo SaaS. If you choose to use these optional services‚ we may provide some of your personally identifiable information to the service provider offering such services in order for them to provide you with the most appropriate service. Conversely‚ the service provider may provide Apptivo with personal program information about the products you qualify for.
+We also collect the following information from you
 
-We also may enter into strategic marketing alliances with third parties‚ such as strategic partners and affiliates‚ who may be given access to personal information‚ including your name‚ address‚ and email‚ for the purpose of providing you with information about products and services that may be of interest to you. We evaluate such partners to identify products and services that serve the needs of our members well. We cannot and do not‚ however‚ make any representations about the practices and policies of these companies.
-
-Aside from the purposes described above‚ we will not share your personal information with any other third parties unless we have your express permission or under special circumstances‚ such as when we believe in good faith that the disclosure is required to prevent harm or injury (such as product recalls‚ fraud‚ claims or other liability) or to comply with valid legal processes (subpoenas‚ warrants) or as required by law. We also may disclose your personal information in order to investigate network abuse or a violation of any of our Terms and Conditions of Use or other published guidelines‚ or if you engage in (or are reasonably suspected of engaging in) any illegal activities. We reserve the right to report any suspected illegal activity to law enforcement for investigation or prosecution. We also reserve the right to disclose your information to other parties in the context of a business transaction or contemplated business transaction involving a merger‚ consolidation‚ change in management and acquisition by another company‚ sale of company stock or assets‚ or similar event. We may share aggregated demographic and statistical information with our partners. This is not linked to any personal information that can identify any individual person.
-
-**Aggregate Information**
-
-Aggregate information refers to information your computer automatically provides to us and that is not tied back to you as a specific individual. Examples include referral data (the web sites you visited just before and just after our site)‚ the pages viewed‚ time spent at our Apptivo SaaS and IP (Internet Protocol) addresses. An IP address is a number that is automatically assigned to your computer whenever you surf the Internet. When you request a page from our Apptivo SaaS‚ our servers log your IP address to create aggregate reports on user demographics and traffic patterns for advertisers and partners‚ and for purposes of system administration. We use this aggregated information to determine consumer trends and needs‚ which allows both Apptivo and our partners to advertise more effectively‚ and allows you to receive advertisements that are less duplicative and more relevant to your interests.
-
-**Log Files**
-
-Apptivo uses IP addresses to analyze trends‚ administer the site‚ track users‚ movements‚ and gather broad demographic information for aggregate use. We do not link your IP address to other personally identifiable information about you.
-
-**Cookies**
-
-Our Apptivo SaaS uses a feature of your browser to set a “cookie” on your computer. Cookies are small packets of information that a website’s computer stores on your computer. Apptivo SaaS can then read the cookies whenever you visit our site. We use cookies in a number of ways‚ such as to save your password so you don’t have to re-enter it each time you visit our site‚ to deliver content specific to your interests‚ to track the pages you’ve visited and to make sure you don’t see the same ads repeatedly. These cookies allow us to use the information we collect to customize your Apptivo experience so that your visit to our Apptivo SaaS is as relevant and as valuable to you as possible.
-
-Most browser software can be set up to deal with cookies. You may modify your browser preference to provide you with choices relating to cookies. You have the choice to accept all cookies‚ to be notified when a cookie is set or to reject all cookies. If you choose to reject cookies‚ some of the functions and conveniences of our Apptivo SaaS may not work properly‚ and you may be unable to use those Apptivo services that require registration in order to participate‚ or you will have to re–register each time you visit our site. Most browsers offer instructions on how to reset the browser to reject cookies in the “Help” section of the toolbar. We do not link non-personal information from cookies to personally identifiable information without your permission.
-
-**Web Beacons**
-
-Apptivo also may use web beacons to collect non-personal information about your use of our service and the services of selected sponsors and advertisers‚ and your use of special promotions or newsletters. The information collected by web beacons allows us to statistically monitor:
-
-  * How many people are using our Apptivo SaaS and selected sponsor’s and advertiser’s sites
-  * How many people open our emails and
-  * For what purposes these actions are being taken.
+  * Information about your business such as company name, company size, business type
 
 
 
-Our web beacons are not used to track your activity outside of our Apptivo SaaS or those of our sponsors. Apptivo does not link non−personal information from web beacons to personally identifiable information without your permission.
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
-**Information Collected In Ad Delivery**
+We use this information to
 
-We may use a third-party advertising company to serve ads to you when you visit our Apptivo SaaS. This company may use information (not including your name‚ address‚ email address or telephone number) about your visit to our site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site‚ our third-party advertiser may place or recognize a unique “cookie” on your browser.
+  * Fulfill your order
+  * Send you an order confirmation
+  * Assess the needs of your business to determine suitable products
+  * Send you requested product or service information
+  * Send product updates or warranty information
+  * Respond to customer service requests
+  * Administer your account
+  * Send you a catalog
+  * Send you a newsletter
+  * Send you marketing communications
+  * Respond to your questions and concerns
+  * Improve our Web site and marketing efforts
+  * Conduct research and analysis
+  * Display content based upon your interests
 
-**Notice of New Services and Changes**
 
-Occasionally‚ we also may use the information we collect to notify you about important changes to our Apptivo SaaS‚ new services‚ and special offers we think you will find valuable. If you would not like to receive these notifications‚ you can unsubscribe from receiving these notices at from your preferences page.
 
-**Controlling the Use of Your Information**
+**Choice/Opt-Out**
 
-You may review‚ correct‚ update‚ change or delete personal information you have submitted at any time by accessing your information on the “preferences” or “firm details” or “employee details” or “customer details” or “vendor details” pages of our web site.
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [privacy@apptivo.com ](mailto:privacy@apptivo.com).
 
-**Links to Other Web Sites**
+## Information Sharing
 
-Apptivo SaaS contains links to advertiser and partner services. We cannot be responsible for the privacy practices or the content of these third-party services‚ and we do not control the practices of any of our advertisers or partners to whom we are linked. Please note that we provide these links to you only as a convenience‚ and our inclusion of any link does not imply that Apptivo endorses a product or service. Please read the rules and policies of these linked sites before proceeding. If you have additional questions about how one of our advertisers‚ partners‚ or sponsors use information about you‚ we urge you to contact them directly.
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
 
-**Notification of Changes**
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
 
-If we decide to change our privacy policy‚ we will post those changes on our site so you will always be aware of our latest policy. It is your obligation to periodically check our site for our current privacy policy. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected‚ we would notify users by way of email.
+We may also disclose your personal information
 
-**Security**
+  * as required by law such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
+  * if APPTIVO, INC. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+  * to any other third party with your prior consent to do so.
 
-Our web site takes reasonable precautions to protect our user’s information by utilizing advanced security measures designed to maintain data security and integrity. When you submit sensitive information‚ including financial information‚ your information is protected both online and off-line. However‚ no system is 100% secure‚ and you should use caution whenever submitting important information over the Internet.
 
-**Contact Us**
 
-If you have any questions about our privacy policy or Apptivo SaaS‚ or wish to modify or delete any personally identifiable information that you have provided to us‚ please send an email to [privacy@apptivo.com](mailto:privacy@apptivo.com)
+_GoogleCheckout_
+
+If you choose to use GoogleCheckout to finalize and pay for your order, you will provide your credit card number directly to GoogleCheckout. Google's privacy policy will apply to the information you provide on the GoogleCheckout Web site. 
+
+_PayPal_
+
+If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site.
+
+_Third Party E-Commerce Solutions Provider_
+
+Our shopping cart is hosted by our e-commerce solutions provider. They host our ordering system, and collect your billing information directly from you for the purpose of processing your order. This company does not use this information for any other purpose. 
+
+## Cookies and Other Tracking Technologies
+
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+
+_Web beacons_
+
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+
+We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
+
+_Links to Other Web Sites_
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of APPTIVO, INC.. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+
+## Security
+
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [privacy@apptivo.com ](mailto:privacy@apptivo.com)
+
+We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
+
+## Additional Policy Information
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+
+**Correcting and Updating Your Personal Information**
+
+To review and update your personal information to ensure it is accurate, contact us at [privacy@apptivo.com ](mailto:privacy@apptivo.com).
+
+**Notification of Privacy Statement Changes**
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+You can contact us about this privacy statement by writing or email us at the address below:
+
+APPTIVO, INC. 
+
+1417 Wycliffe 
+
+Irvine, CA, United States 92602
