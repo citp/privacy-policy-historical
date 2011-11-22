@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the funvblog.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604025554id_/http%3A//www.funvblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funvblog.com privacy policy that was archived on 2011-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111122163018id_/http%3A//www.funvblog.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy - FunvBlog
 
 ## Privacy Policy
 
-**Our commitment to privacy**
+ **Our commitment to privacy**
 
 FunvBlog.com (“FunvBlog”, “we” or “our”) has created this privacy policy in order to demonstrate our firm commitment to protecting the privacy of personally identifiable information about users of FunvBlog. Our commitment to you is that we will not disclose information collected from you other than as described in this policy. The following discloses in detail our information collection, utilization and dissemination practices of information collected through our Site.
 
-**Our privacy policy in short**
+ **Our privacy policy in short**
 
   * We will only use personal information you provide us according to the terms outlined in this document.
   * In order to utilize the features and services offered through this Site, you must provide a limited amount of information.
@@ -16,7 +16,7 @@ FunvBlog.com (“FunvBlog”, “we” or “our”) has created this privacy po
 
 
 
-**What information do we collect?**
+ **What information do we collect?**
 
 During general use of the Site, services offered on the Site or as otherwise identified below, we collect personal, demographic and preference information, email address and other personally identifiable information (“Personal Data”) from all users or visitors to the Site. All users must agree to the applicable [Terms of Service](http://www.funvblog.com/tos/) posted on the Site.
 
@@ -26,7 +26,7 @@ You may refuse the use of cookies by selecting the appropriate settings on your 
 
 Any user providing personal data is certifying that he/she is over the age of 13. As such, we do not collect or maintain personal data from individuals we actually know are under 13 years of age, and no part of our Site is designed to attract people under 13. Protecting the privacy of children is very important to us. Thus, if we ever obtain knowledge that that a user is under 13, we will take steps to remove that user’s personal data from our databases and to prevent the user from utilizing the Site.
 
-**How do we use and disclose collected information?**
+ **How do we use and disclose collected information?**
 
 FunvBlog, like most other sites, uses cookies to provide you with a more personalized and user-friendly experience. We may also use cookies to help us deliver content or advertising specific to your interests, and to save your preferences or passwords so you don’t have to re-enter them each time you visit our site. Most browsers allow you to reject all cookies, but then your preferences, passwords and other information will not be saved, and you may have to re-enter information to use certain features of our Site.
 
@@ -34,7 +34,7 @@ We may also log IP addresses for the purposes of systems administration or to re
 
 In general, we will not disclose your personal information to third parties except to the extent necessary to provide you with a requested service, or under circumstances required by law. We will disclose your personal information when we believe in good faith that any applicable law, regulation, or legal process requires it, or where we believe disclosure is necessary to protect or enforce our rights or the rights of another user. We also disclose aggregated user statistics in order to describe our services and reach to prospective partners, advertisers, and other third parties. However, aggregate data is not traceable to you specifically. We may use contractors to help us with our operations. Some or all of these contractors may access our databases of user information. These contractors will enter into an agreement with us that places restrictive provisions on their use and disclosure of all information they obtain through the relationship.
 
-**Information from Other Sites**
+ **Information from Other Sites**
 
 We use Google Adsense and DoubleClick to display Ads on our website. Google may display Interest-based advertisements on your computer which will allow advertisers to show ads based on a user’s previous interactions with them, such as visits to advertiser website and also to reach users based on their interests (e.g. “sports enthusiast”). To develop interest categories, Google Adsense will recognize the types of web pages users visit throughout the Google content network. As an example, if they visit a number of sports pages, Google Adsense will add them to the “sports enthusiast” interest category.
 
@@ -46,24 +46,24 @@ FunvBlog uses third party sites for hosting images. These sites may gather data 
 
 FunvBlog contains links and advertisements to other sites. If you click-through a banner ad or link and submit your information to that advertiser or site, you will be subject to their own privacy practices. FunvBlog is not responsible for the privacy practices or the content of such other sites.
 
-**Security Precautions**
+ **Security Precautions**
 
 FunvBlog makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and that if you disclose personal contact information in these areas, others may use it to send you unsolicited messages. We do not control the actions of our guests and registered members. FunvBlog encourages our users to be smart about choosing when, and to whom to release information online.
 
 Of course there are many other ways we conceivably could get information from or about you that are not described elsewhere in this Statement. For example, you might email us through one of our customer service email addresses, or we may get a complaint about you from a third party. Our practices with respect to such information are pretty much as you’d expect — we use and disclose this information in a commercially reasonable business manner.
 
-**Our commitment to data security**
+ **Our commitment to data security**
 
 This site has industry consistent security measures in place to protect the loss, misuse, and alteration of the information under our control. But since the Internet cannot be made absolutely secure, FunvBlog assumes no liability for disclosure of data due to errors in transmission or unauthorized third parties.
 
-**Mailing list subscriptions**
+ **Mailing list subscriptions**
 
 FunvBlog provides instructions for how to unsubscribe to future mailings at the bottom of each communication. Please remember to check the registration screens applicable to the service or promotion for which you are signing up for specific instructions from our partners on how to update your user profile and/or opt out of receiving offers and mailings.
 
-**Acceptance of Privacy Policy**
+ **Acceptance of Privacy Policy**
 
 By using FunvBlog, you signify your acceptance of this Privacy Statement. If you are not comfortable with any policy described in this Privacy Statement, you may feel free to e-mail us with questions or concerns, but your only remedy is to discontinue use of the Site. We reserve the right to modify this Privacy Statement at any time.
 
-**How to Contact Us**
+ **How to Contact Us**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can reach us through email **admin.funvblog@gmail.com**
