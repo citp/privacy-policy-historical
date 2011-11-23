@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pictureline.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515024236id_/http%3A//www.pictureline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pictureline.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123162016id_/http%3A//www.pictureline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
