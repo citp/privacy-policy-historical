@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pakpoint.com privacy policy that was archived on 2011-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110324065105id_/http%3A//www.pakpoint.com/useronline) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakpoint.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123153334id_/http%3A//www.pakpoint.org/useronline) for the most accurate reproduction.*
 
 # Privacy
 
-This privacy policy is applicable to pakpoint.com
+This privacy policy is applicable to pakpoint.com, pakpoint.net and pakpoint.org
 
 We do not collect personally identifiable information about individuals except when such individuals specifically provide such information on a voluntary basis. For example, such personally identifiable information will be gathered from the registration process for a web site or other services we may offer. Personally identifiable information on individual users will not be sold or otherwise transferred to unaffiliated third parties. Further, we reserves the right to contact a subscriber regarding account status, changes to the subscriber agreement and other matters relevant to the underlying service and/or the information collected.
 
