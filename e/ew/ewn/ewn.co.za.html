@@ -1,226 +1,442 @@
-<!--The following is the downloaded HTML source of the ewn.co.za privacy policy that was archived on 2009-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090628223144id_/http%3A//www.ewn.co.za/contentprog.aspx%3Fid%3D2) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ewn.co.za privacy policy that was archived on 2011-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123030504id_/http%3A//www.ewn.co.za/PolicyAndPrivacy.aspx%3FId%3D2) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/"><head><title>
 	Eyewitness News: In Touch, In Tune and Independent
-</title>
-<script type="text/javascript" src="Scripts/jquery.js"></script>
-<script type="text/javascript" src="Scripts/funcs.js"></script>
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
-<script type="text/javascript">
- $(document).ready(function() {
+</title><link id="ctl00_EWNStyleSheet" type="text/css" href="App_Themes/Default/Default.css" rel="Stylesheet"><link id="ctl00_StoryStyleSheet" type="text/css" href="App_Themes/Default/StoryPage.css" rel="Stylesheet">
 
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://za-ssl.effectivemeasure.net/em.js"></script><script type="text/javascript" src="../Scripts/jquery.js"></script>
+    <script type="text/javascript" src="../Scripts/funcs.js"></script>
+    <script type="text/javascript">
+    
+ $(document).ready(function() {
+ 
+ 	var isOpenWitness = true;
+ 	var isOpenMedia = true;
+	var isOpenToolbox = true;
+	var isOpenRelated = true;
 	var isOpenHeadlines = true;
+	
+   $(".headingMultimedia").click(function() {
+     $("#mediaList").slideToggle(500);
+	 if ( isOpenMedia ) {
+	$(this).css("background","url(Assets/Images/multimedia-heading-closed.gif)") 
+	isOpenMedia = false;
+	} else {
+	$(this).css("background","url(Assets/Images/multimedia-heading-open.gif)")
+	isOpenMedia = true;
+	}
+
+   });
+   
+   $(".toolboxHeading").click(function() {
+     $(".toolboxRollup").slideToggle(500);
+	 
+	if ( isOpenToolbox ) {
+	$(this).css("background","url(Assets/Images/toolbox-heading-closed.gif)") 
+	isOpenToolbox = false;
+	} else {
+	$(this).css("background","url(Assets/Images/toolbox-heading-open.gif)")
+	isOpenToolbox = true;
+	}
+	 
+   });
+   
+      $(".relatedHeading").click(function() {
+     $(".relatedRollup").slideToggle(500);
+	 
+	if ( isOpenRelated ) {
+	$(this).css("background","url(Assets/Images/relatedstories-heading-closed.gif)") 
+	isOpenRelated = false;
+	} else {
+	$(this).css("background","url(Assets/Images/relatedstories-heading-open.gif)")
+	isOpenRelated = true;
+	}
+	 
+   });
    
       $(".inheadlinesHeading").click(function() {
      $(".inheadlinesRollup").slideToggle(500);
 	 
 	if ( isOpenHeadlines ) {
-	$(this).css("background","url(images/inheadlines-heading-closed.gif)") 
+	$(this).css("background","url(Assets/Images/inheadlines-heading-closed.gif)") 
 	isOpenHeadlines = false;
 	} else {
-	$(this).css("background","url(images/inheadlines-heading-open.gif)")
+	$(this).css("background","url(Assets/Images/inheadlines-heading-open.gif)")
 	isOpenHeadlines = true;
 	}
 	 
    });
-  
- <!-- end query -->  
- });
+   
+     $(".relatediwitnessheading").click(function() {
+     $(".relatediwitnessRollup").slideToggle(500);
+	 
+	if ( isOpenWitness ) {
+	$(this).css("background","url(Assets/Images/relatedwitness-heading-closed.gif)") 
+	isOpenWitness = false;
+	} else {
+	$(this).css("background","url(Assets/Images/relatedwitness-heading-open.gif)")
+	isOpenWitness = true;
+	}
+	 
+   });
+   
+   $(".videoLink").click(function() {
+     $("#mediaPlayer").animate({height:"300px"}, 500);
+   });
+      $(".audioLink").click(function() {
+     $("#mediaPlayer").animate({height:"85px"}, 500);
+   });
+
+});
+
+function findTheID() {
+    var getBack = String(document.location.href).split('?')[1];
+    var justID = getBack.substring(3);
+    //window.alert(justID);
+    return justID;
+}
+function getFlashMovieObject(movieName) {
+    if (navigator.appName.indexOf("Microsoft Internet") == -1) {
+        return document.embeds[movieName];
+    }
+    else // if (navigator.appName.indexOf("Microsoft Internet")!=-1)
+    {
+        return document.getElementById(movieName);
+    }
+}
+function sspLoadStory(storyID) {
+    getFlashMovieObject("thePics").sspLoadStory(storyID);
+}
+
+function playAudio(audioName) {
+    $("#mediaPlayer").animate({ height: "85px" }, 500);
+    getFlashMovieObject("theAudio").playAudio(audioName);
+}
+function playVideo(videoName) {
+    $("#mediaPlayer").animate({ height: "300px" }, 500);
+    getFlashMovieObject("theAudio").playVideo(videoName);
+}
+function MM_preloadImages() { //v3.0
+    var d = document; if (d.images) {
+        if (!d.MM_p) d.MM_p = new Array();
+        var i, j = d.MM_p.length, a = MM_preloadImages.arguments; for (i = 0; i < a.length; i++)
+            if (a[i].indexOf("#") != 0) { d.MM_p[j] = new Image; d.MM_p[j++].src = a[i]; } 
+    }
+}
+
 </script>
+    <link rel="alternate" type="application/rss+xml" title="Local News RSS Feed for Eyewitness News" href="Feeds/Local.aspx"><link rel="alternate" type="application/rss+xml" title="Latest News RSS Feed for Eyewitness News" href="Feeds/LatestNews.aspx"><link rel="alternate" type="application/rss+xml" title="World News RSS Feed for Eyewitness News" href="Feeds/World.aspx"><link rel="alternate" type="application/rss+xml" title="Sports News RSS Feed for Eyewitness News" href="Feeds/Sport.aspx"><link rel="alternate" type="application/rss+xml" title="Entertainment News RSS Feed for Eyewitness News" href="Feeds/Entertainment.aspx">
+    <script type="text/javascript" src="../Scripts/AC_RunActiveContent.js"></script>
+    
+    
+    <meta property="og:image" content="http://www.ewn.co.za/version02/assets/images/facebook-share.jpg" <link="" href="/WebResource.axd?d=5ODrJylFkqeus_mgYfPgx5JJdBSANTizuNI2LzFZxfZrBBlYkBfZ3YrxQFrqVbVfucs5cmdGR4kqEnyOUQ767uxROJ-cHUxxFVhfoZAcB-U7WUTyBV81NLFP74z89jr-gdGWvw2&amp;t=634459978760000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="/WebResource.axd?d=npn28B67eK3MKFrAJ4F8PRtWUavAKxwW2WHebPop3fmlQoLWfyb9EzgOWT6wFbUNb9UA3U-E3GCMQlIODRaGmXklKSsp040IGlcNM01t_83lvYb0rcIaan6YliN4_LbtT7CNmBGvs1kBv63FBBTcg6RfzUg1&amp;t=634459978760000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="/WebResource.axd?d=NKVRkcidO4LRW7ia9Bhx0EFJvbjLcoA_0LP3OtFFy_fRSIIDUtM_CLtcFDI0v3V5pRfBiV67tiKeoZJaOl6N11tDeD-9cQQbCmL1W7ghtBMj9xBt2N8PZ-w-x2bK1xdmsXQnPg2&amp;t=634459978760000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="/WebResource.axd?d=sJ1rGtz_03Ra5vtDbJyZICSrwOLfYhEX5m_gYHoFf1a8oEQ9qqBfHoNjhGwLdjZfZwD3yqLQQohULnYdh-vh6iY2ld9b6yXnpXT-eN777mWBh8PznEJZmhD-9GFa6decxyUpfhFKIysbZqwmi8q_9iRGvLQ1&amp;t=634459978760000000" type="text/css" rel="stylesheet" class="Telerik_stylesheet"></head>
 
-<link href="ewn.css" rel="stylesheet" type="text/css"><link href="storyPage.css" rel="stylesheet" type="text/css"><link href="contact.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-<!--
-.style1 {font-weight: bold}
--->
-</style>
-
-<link rel="alternate" type="application/rss+xml" title="Local News RSS Feed for Eyewitness News" href="/feeds/local.aspx"><link rel="alternate" type="application/rss+xml" title="Latest News RSS Feed for Eyewitness News" href="/feeds/latestnews.aspx"><link rel="alternate" type="application/rss+xml" title="World News RSS Feed for Eyewitness News" href="/feeds/world.aspx"><link rel="alternate" type="application/rss+xml" title="Sports News RSS Feed for Eyewitness News" href="/feeds/sport.aspx"><link rel="alternate" type="application/rss+xml" title="Entertainment News RSS Feed for Eyewitness News" href="/feeds/Entertainment.aspx"><link rel="alternate" type="application/rss+xml" title="South African Elections 2009 RSS Feed for Eyewitness News" href="/feeds/SAelctions2009.aspx"></head>
 <body>
-    <form name="form1" method="post" action="contentpage.aspx?id=2" id="form1">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE4MjEyMDgxMjIPZBYCAgMPZBYWZg8PFgIeBFRleHQFBk1vbmRheWRkAgEPDxYCHwAFAjI5ZGQCAg8PFgIfAAUCdGhkZAIDDw8WAh8ABQRKdW5lZGQCBA8PFgIfAAUBMGRkAgUPDxYCHwAFAjMxZGQCBg8PFgIfAAWEBjxVTD4NCjxMST48QSBocmVmPSIvZGVmYXVsdC5hc3B4IiB0YXJnZXQ9X3NlbGY+SG9tZTwvQT48L0xJPg0KPExJPjxBIGhyZWY9Ii9sb2NhbG5ld3MuYXNweD90eXBlPWxhdGVzdCZhbXA7Y2F0aWQ9MSIgdGFyZ2V0PV9zZWxmPkxvY2FsPC9BPjwvTEk+DQo8TEk+PEEgaHJlZj0iL3dvcmxkbmV3cy5hc3B4P3R5cGU9bGF0ZXN0JmFtcDtjYXRpZD0zIiB0YXJnZXQ9X3NlbGY+V29ybGQ8L0E+PC9MST4NCjxMST48QSBocmVmPSIvc3BvcnRzLmFzcHg/dHlwZT1sYXRlc3QmYW1wO2NhdGlkPTIiIHRhcmdldD1fc2VsZj5TcG9ydDwvQT48L0xJPg0KPExJPjxBIGhyZWY9Ii9CdXNpbmVzcy5hc3B4IiB0YXJnZXQ9X3NlbGY+QnVzaW5lc3M8L0E+PC9MST4NCjxMST48QSBocmVmPSIvZmVhdHByb2cuYXNweD9pZD00MSIgdGFyZ2V0PV9zZWxmPkZlYXR1cmVzPC9BPjwvTEk+DQo8TEk+PEEgaHJlZj0iL2l3aXRuZXNzLmFzcHgiIHRhcmdldD1fc2VsZj5pV2l0bmVzczwvQT48L0xJPg0KPExJPjxBIGhyZWY9Ii90cmFmZmljZXduLmFzcCIgdGFyZ2V0PV9ibGFuaz5UcmFmZmljPC9BPjwvTEk+DQo8TEk+PEEgaHJlZj0iL2NvbnRlbnRwcm9nLmFzcHg/aWQ9OCIgdGFyZ2V0PV9zZWxmPlNNUyBBbGVydHM8L0E+PC9MST4NCjxMST48QSBocmVmPSIvY29udGVudHByb2cuYXNweD9pZD0xMCIgdGFyZ2V0PV9zZWxmPlJTUyBGZWVkczwvQT48L0xJPg0KPExJPjxBIGhyZWY9Ii9jb250ZW50cHJvZy5hc3B4P2lkPTMiIHRhcmdldD1fc2VsZj5Db250YWN0PC9BPjwvTEk+PC9VTD5kZAIHDxYCHgtfIUl0ZW1Db3VudAIFFgpmD2QWAmYPFQIHWkFSL0FVRAY2LjM3NzJkAgEPZBYCZg8VAgdaQVIvRVVSBzExLjEyOTVkAgIPZBYCZg8VAgdaQVIvR0JQBzEzLjA4OTBkAgMPZBYCZg8VAgdaQVIvSlBZBjAuMDgzMWQCBA9kFgJmDxUCB1pBUi9VU0QGNy45MjA1ZAIKDw8WAh8ABbAKPGRpdiBjbGFzcz0ibGVmdGNvbHVtbiI+DQogICAgICA8ZGl2Pg0KICAgICAgICA8ZGl2IGNsYXNzPSJjb250YWN0aGVhZGluZyI+UHJpdmFjeSBQb2xpY3kgPC9kaXY+DQogICAgICAgIDxkaXY+DQogICAgICAgICAgPHA+DQogICAgICAgICAgICA8IS0tICB2YXIgc1VSTCA9IHVuZXNjYXBlKHdpbmRvdy5sb2NhdGlvbi5wYXRobmFtZSk7ICAgIGZ1bmN0aW9uIHJlZnJlc2goKSAgeyAgICAgIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gc1VSTDsgIH0gIC8vLS0+DQogICAgICAgICAgICBQcmltZWRpYSBCcm9hZGNhc3RpbmcgaXMgZGVkaWNhdGVkIHRvIG1haW50YWluaW5nIHRoZSBwcml2YWN5IG9mIGl0cyBvbmxpbmUgIHZpc2l0b3JzLiBPbiB0aGlzIHNpdGUsIFByaW1lZGlhIEJyb2FkY2FzdGluZyBkb2VzIG5vdCBjb2xsZWN0IHBlcnNvbmFsbHkgIGlkZW50aWZpYWJsZSBpbmZvcm1hdGlvbiBmcm9tIGluZGl2aWR1YWxzIHVubGVzcyB0aGV5IHByb3ZpZGUgaXQgdG8gdXMgIHZvbHVudGFyaWx5IGFuZCBrbm93aW5nbHkuIFRoaXMgbWVhbnMgdGhhdCBpdCBpcyBub3QgcmVxdWlyZWQgZnJvbSB5b3UgdG8gIHJlZ2lzdGVyIG9yIHByb3ZpZGUgaW5mb3JtYXRpb24gdG8gUHJpbWVkaWEgQnJvYWRjYXN0aW5nIGluIG9yZGVyIHRvIHZpZXcgb3VyICBzaXRlLiA8L3A+DQogICAgICAgICAgPHA+IFByaW1lZGlhIEJyb2FkY2FzdGluZyBvbmx5IGdhdGhlcnMgcGVyc29uYWxseSBpZGVudGlmaWFibGUgZGF0YSwgc3VjaCBhcyAgbmFtZXMsIGFkZHJlc3NlcywgcG9zdGFsIGNvZGVzLCBlLW1haWwgYWRkcmVzc2VzLCBldGMuLCB3aGVuIHZvbHVudGFyaWx5ICBzdWJtaXR0ZWQgYnkgYSB2aXNpdG9yLiBUaGlzIGluZm9ybWF0aW9uIGlzIHVzZWQgc29sZWx5IGJ5IFByaW1lZGlhICBCcm9hZGNhc3RpbmcgYW5kIGl0cyBidXNpbmVzcyBwYXJ0bmVycyB3aG8gYXJlIGludm9sdmVkIGluIHRoZSBvcGVyYXRpb24gb2YgIHRoaXMgc2l0ZSBmb3IgaW50ZXJuYWwgcHVycG9zZXMuIFByaW1lZGlhIEJyb2FkY2FzdGluZyBjbGllbnQgbGlzdHMgYXJlIG5ldmVyICBzb2xkIHRvIHRoaXJkIHBhcnRpZXMuIFByaW1lZGlhIEJyb2FkY2FzdGluZyB3aWxsIG5vdCBzaGFyZSBwZXJzb25hbGx5ICBpZGVudGlmaWFibGUgaW5mb3JtYXRpb24gd2l0aCB0aGlyZCBwYXJ0aWVzIHVubGVzcyB0aGUgcGVyc29uIHdobyBoYXMgc3VibWl0dGVkICB0aGUgaW5mb3JtYXRpb24gaGFzIGF1dGhvcml6ZWQgdXMgdG8gZG8gc28sIG9yIGlmIHdlIGFyZSByZXF1aXJlZCB0byBieSBsYXcuIDwvcD4NCiAgICAgICAgPC9kaXY+DQogICAgICA8L2Rpdj4NCiAgICA8L2Rpdj5kZAILDxYCHwECBRYKZg9kFgJmDxUDBTE2MzM5MFJpZ2h0cyB2aW9sYXRpb24gcHJvYmUgaW4gWmltYmFid2UgZGlhbW9uZCBmaWVsZAgwNToyNCBQTWQCAQ9kFgJmDxUDBTE2MzM4F1RlYWNoZXIgbmFiYmVkIGZvciByYXBlCDA0OjM0IFBNZAICD2QWAmYPFQMFMTYzMjcuQmFmYW5hIHRha2Ugb24gU3BhaW4gaW4gdGhpcmQgcGxhY2UgcGxheS1vZmYgIAgwMTo1NSBQTWQCAw9kFgJmDxUDBTE2MzM3Jk1vdGhlciBtb3VybnMgZGVhdGggb2YgbXVyZGVyZWQgY2hpbGQgCDAxOjU0IFBNZAIED2QWAmYPFQMFMTYzMjgVR29vc2VuIG1haW50YWlucyBsZWFkCDAxOjM4IFBNZAIMDw8WAh8ABfcBPERJViBpZD10c2FuZGNzPjxBIGhyZWY9Im1haWx0bzp3ZWJtYXN0ZXJAZXduLmNvLnphIj5FbWFpbCBXZWJtYXN0ZXI8L0E+IHwgwqkgUHJpbWVkaWEgQnJvYWRjYXN0aW5nIHwgPEEgaHJlZj0iL2NvbnRlbnRwcm9nLmFzcHg/aWQ9NCIgdGFyZ2V0PV9zZWxmPlRlcm1zICZhbXA7IENvbmRpdGlvbnM8L0E+IHwgPEEgaHJlZj0iL2NvbnRlbnRwcm9nLmFzcHg/aWQ9MiIgdGFyZ2V0PV9zZWxmPlByaXZhY3kgUG9saWN5PC9BPjwvRElWPmRkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBQxzZWFyY2hib3R0b25mhuYdmaMcW/292E++T3OxKlyx0Q==">
-
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwK3htOrDQKhh/nFCALRvZCWDtpMXUC3WUPBNnsSVAEuLLFiqcGo">
-    <div id="contentHolder">
-    <div id="header">
-      <div id="logoTime">
-        <div id="logo">
-          <script type="text/javascript">
-AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0','width','250','height','84','src','flash/logotime','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','flash/logotime','wmode','transparent' ); //end AC code
-</script><embed width="250" height="84" src="flash/logotime.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" wmode="transparent" type="application/x-shockwave-flash"> 
-          <noscript>
-          <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="250" height="84">
-            <param name="movie" value="flash/logotime.swf" />
-            <param name="quality" value="high" />
-			<param name="wmode" value="transparent" />
-            <embed src="flash/logotime.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="250" height="84"></embed>
-          </object>
-          </noscript></div>
-        <div id="time"><span id="theday">Monday</span>, <span id="thedate">29</span><span id="thesuffix">th</span> <span id="themonth">June</span><br>
-          <span id="thehour">0</span>:<span id="theminutes">31</span> CAT<br>
-        </div>
-      </div>
-      <div id="PoP">
-        <script type="text/javascript">
-AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0','width','695','height','150','src','flash/PoP','quality','high','pluginspage','http://www.macromedia.com/go/getflashplayer','movie','flash/PoP','wmode','transparent' ); //end AC code
-        </script><embed width="695" height="150" src="flash/PoP.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" wmode="transparent" type="application/x-shockwave-flash"> 
-        <noscript>
-        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="695" height="150">
-          <param name="movie" value="flash/PoP.swf" />
-          <param name="quality" value="high" />
-          <param name="wmode" value="transparent" />
-          <embed src="flash/PoP.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="695" height="150"></embed>
-        </object>
-        </noscript></div>
-    </div>
-    <div id="mainNav">
-      <div id="navButtons">
-        <span id="navcontent"><ul>
-<li><a href="/default.aspx" target="_self">Home</a></li>
-<li><a href="/localnews.aspx?type=latest&amp;catid=1" target="_self">Local</a></li>
-<li><a href="/worldnews.aspx?type=latest&amp;catid=3" target="_self">World</a></li>
-<li><a href="/sports.aspx?type=latest&amp;catid=2" target="_self">Sport</a></li>
-<li><a href="/Business.aspx" target="_self">Business</a></li>
-<li><a href="/featprog.aspx?id=41" target="_self">Features</a></li>
-<li><a href="/iwitness.aspx" target="_self">iWitness</a></li>
-<li><a href="/trafficewn.asp" target="_blank">Traffic</a></li>
-<li><a href="/contentprog.aspx?id=8" target="_self">SMS Alerts</a></li>
-<li><a href="/contentprog.aspx?id=10" target="_self">RSS Feeds</a></li>
-<li><a href="/contentprog.aspx?id=3" target="_self">Contact</a></li></ul></span>
-      </div>
-      <div id="secondNav">
-        <div class="glanceBox">
-        <ul>
-          <li>AT A GLANCE &gt; </li>
-          <!--<li>R/$: 7.77</li>
-          <li>R/&pound;: 15.55</li>
-          <li>R/&euro;: 12.22</li>-->
-          
-           
-                <li>ZAR/AUD : 6.3772</li>
-            
-                <li>ZAR/EUR : 11.1295</li>
-            
-                <li>ZAR/GBP : 13.0890</li>
-            
-                <li>ZAR/JPY : 0.0831</li>
-            
-                <li>ZAR/USD : 7.9205</li>
-            
-          
-          
-          <!--<li>Oil: $124.56</li>
-          <li>Gold: $883.57</li>
-          <li>Plat: $1592.00</li>-->
-        </ul>
-      </div>
-       <div class="searchbox">
-          <div><strong>Search for</strong></div>
-           <div>
-              <input name="serchtext" type="text" maxlength="30" id="serchtext">
-            
-          </div>
-        <!--  <div><strong>in</strong></div>
-          <div>
-            <select name="">
-              <option>Articles</option>
-              <option>Features</option>
-              <option>iWitness</option>
-              <option>Pictures</option>
-            </select>
-          </div>-->
-          <div style="width:20px;"><a href="#"><input type="image" name="searchbotton" id="searchbotton" src="images/search_glass.gif" border="0"></a></div>
-        </div>
-      </div>
-    </div>
-    <span id="pagecontent"><div class="leftcolumn">
-      <div>
-        <div class="contactheading">Privacy Policy </div>
-        <div>
-          <p>
-            <!--  var sURL = unescape(window.location.pathname);    function refresh()  {      window.location.href = sURL;  }  //-->
-            Primedia Broadcasting is dedicated to maintaining the privacy of its online  visitors. On this site, Primedia Broadcasting does not collect personally  identifiable information from individuals unless they provide it to us  voluntarily and knowingly. This means that it is not required from you to  register or provide information to Primedia Broadcasting in order to view our  site. </p>
-          <p> Primedia Broadcasting only gathers personally identifiable data, such as  names, addresses, postal codes, e-mail addresses, etc., when voluntarily  submitted by a visitor. This information is used solely by Primedia  Broadcasting and its business partners who are involved in the operation of  this site for internal purposes. Primedia Broadcasting client lists are never  sold to third parties. Primedia Broadcasting will not share personally  identifiable information with third parties unless the person who has submitted  the information has authorized us to do so, or if we are required to by law. </p>
-        </div>
-      </div>
-    </div></span>
-	
-    <div class="rightcolumn">
-      <div id="inheadlines" style="margin-top:0px">
-        <div class="inheadlinesHeading">&nbsp;</div>
-        <div class="inheadlinesRollup">
-          <ul>
-              
-              
-            <li><a href="articleprog.aspx?id=16339">Rights violation probe in Zimbabwe diamond field</a><span class="timeadded">05:24 PM</span></li>
-            
-          
-              
-            <li><a href="articleprog.aspx?id=16338">Teacher nabbed for rape</a><span class="timeadded">04:34 PM</span></li>
-            
-          
-              
-            <li><a href="articleprog.aspx?id=16327">Bafana take on Spain in third place play-off  </a><span class="timeadded">01:55 PM</span></li>
-            
-          
-              
-            <li><a href="articleprog.aspx?id=16337">Mother mourns death of murdered child </a><span class="timeadded">01:54 PM</span></li>
-            
-          
-              
-            <li><a href="articleprog.aspx?id=16328">Goosen maintains lead</a><span class="timeadded">01:38 PM</span></li>
-            
-          
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-  <div style="clear:both"></div>
-  <div id="tsandcs">
-      <span id="footercontent"><div id="tsandcs"><a href="mailto:webmaster@ewn.co.za">Email Webmaster</a> | © Primedia Broadcasting | <a href="/contentprog.aspx?id=4" target="_self">Terms &amp; Conditions</a> | <a href="/contentprog.aspx?id=2" target="_self">Privacy Policy</a></div></span>
-      </div>
-      <!-- START Nielsen//NetRatings SiteCensus V5.3 -->
-<!-- COPYRIGHT 2007 Nielsen//NetRatings -->
+<!-- BEGIN EFFECTIVE MEASURE CODE -->
+<!-- COPYRIGHT EFFECTIVE MEASURE -->
 <script type="text/javascript">
-                var _rsCI="za-iafrica";
-                var _rsCG="0";
-                var _rsDN="//secure-za.imrworldwide.com/";
-                var _rsCC=0;
-                var _rsSE=1;
-                var _rsSM=1.0;
+    (function () {
+        var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+        em.src = ('https:' == document.location.protocol ? 'https://za-ssl' : 'http://za-cdn') + '.effectivemeasure.net/em.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+    })();
 </script>
-<script type="text/javascript" src="//secure-za.imrworldwide.com/v53.js"></script>
 <noscript>
-                <div><img src="//secure-za.imrworldwide.com/cgi-bin/m?ci=za-iafrica&amp;cg=0" alt=""/></div>
+<img src="//za.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
 </noscript>
+<!--END EFFECTIVE MEASURE CODE -->
+    <form name="aspnetForm" method="post" action="PolicyAndPrivacy.aspx?Id=2" id="aspnetForm">
+<input type="hidden" name="ctl00_RadScriptManager1_TSM" id="ctl00_RadScriptManager1_TSM" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEyODQ3MTM1MzUPZBYCZg9kFgICAw9kFgwCAw8PFgIeF0VuYWJsZUFqYXhTa2luUmVuZGVyaW5naBYCHgVzdHlsZQUNZGlzcGxheTpub25lO2QCBQ9kFgICAQ8PFgIeBFRleHQFIzA1OjA0IENBVCAvIFdlZG5lc2RheSwgIDIzIE5vdmVtYmVyZGQCCQ9kFgJmDxYCHgtfIUl0ZW1Db3VudAIFFgpmD2QWAmYPFQIHWkFSL0FVRAY4LjIxNjhkAgEPZBYCZg8VAgdaQVIvRVVSBzExLjMyMTZkAgIPZBYCZg8VAgdaQVIvR0JQBzEzLjEzMDNkAgMPZBYCZg8VAgdaQVIvSlBZBjAuMTA5MmQCBA9kFgJmDxUCB1pBUi9VU0QGOC40MTc1ZAILD2QWAgIBDxQrAAgPFgQfAGgeDUxhYmVsQ3NzQ2xhc3MFB3JpTGFiZWxkFgoeCUZvbnRfU2l6ZSgqIlN5c3RlbS5XZWIuVUkuV2ViQ29udHJvbHMuRm9udFVuaXQHWC1TbWFsbB4GSGVpZ2h0GwAAAAAAAChAAQAAAB4FV2lkdGgbAAAAAADAYkABAAAAHghDc3NDbGFzcwURcmlUZXh0Qm94IHJpSG92ZXIeBF8hU0ICggsWCh8FKCsEB1gtU21hbGwfBhsAAAAAAAAoQAEAAAAfBxsAAAAAAMBiQAEAAAAfCAURcmlUZXh0Qm94IHJpRXJyb3IfCQKCCxYKHwUoKwQHWC1TbWFsbB8GGwAAAAAAAChAAQAAAB8HGwAAAAAAwGJAAQAAAB8IBRNyaVRleHRCb3ggcmlGb2N1c2VkHwkCggsWCh8FKCsEB1gtU21hbGwfBhsAAAAAAAAoQAEAAAAfBxsAAAAAAMBiQAEAAAAfCAUTcmlUZXh0Qm94IHJpRW5hYmxlZB8JAoILFgofBSgrBAdYLVNtYWxsHwYbAAAAAAAAKEABAAAAHwcbAAAAAADAYkABAAAAHwgFFHJpVGV4dEJveCByaURpc2FibGVkHwkCggsWCh8FKCsEB1gtU21hbGwfBhsAAAAAAAAoQAEAAAAfBxsAAAAAAMBiQAEAAAAfCAURcmlUZXh0Qm94IHJpRW1wdHkfCQKCCxYKHwUoKwQHWC1TbWFsbB8GGwAAAAAAAChAAQAAAB8HGwAAAAAAwGJAAQAAAB8IBRByaVRleHRCb3ggcmlSZWFkHwkCggtkAg0PZBYCAgEPFgIfAgWpCTxkaXY+DQo8ZGl2IGNsYXNzPSJjb250YWN0aGVhZGluZyI+UHJpdmFjeSBQb2xpY3kgPC9kaXY+DQo8ZGl2Pg0KPHA+PCEtLSAgdmFyIHNVUkwgPSB1bmVzY2FwZSh3aW5kb3cubG9jYXRpb24ucGF0aG5hbWUpOyAgICBmdW5jdGlvbiByZWZyZXNoKCkgIHsgICAgICB3aW5kb3cubG9jYXRpb24uaHJlZiA9IHNVUkw7ICB9ICAvLy0tPlByaW1lZGlhIEJyb2FkY2FzdGluZyBpcyBkZWRpY2F0ZWQgdG8gbWFpbnRhaW5pbmcgdGhlIHByaXZhY3kgb2YgaXRzIG9ubGluZSB2aXNpdG9ycy4gT24gdGhpcyBzaXRlLCBQcmltZWRpYSBCcm9hZGNhc3RpbmcgZG9lcyBub3QgY29sbGVjdCBwZXJzb25hbGx5IGlkZW50aWZpYWJsZSBpbmZvcm1hdGlvbiBmcm9tIGluZGl2aWR1YWxzIHVubGVzcyB0aGV5IHByb3ZpZGUgaXQgdG8gdXMgdm9sdW50YXJpbHkgYW5kIGtub3dpbmdseS4gVGhpcyBtZWFucyB0aGF0IGl0IGlzIG5vdCByZXF1aXJlZCBmcm9tIHlvdSB0byByZWdpc3RlciBvciBwcm92aWRlIGluZm9ybWF0aW9uIHRvIFByaW1lZGlhIEJyb2FkY2FzdGluZyBpbiBvcmRlciB0byB2aWV3IG91ciBzaXRlLiA8L3A+DQo8cD5QcmltZWRpYSBCcm9hZGNhc3Rpbmcgb25seSBnYXRoZXJzIHBlcnNvbmFsbHkgaWRlbnRpZmlhYmxlIGRhdGEsIHN1Y2ggYXMgbmFtZXMsIGFkZHJlc3NlcywgcG9zdGFsIGNvZGVzLCBlLW1haWwgYWRkcmVzc2VzLCBldGMuLCB3aGVuIHZvbHVudGFyaWx5IHN1Ym1pdHRlZCBieSBhIHZpc2l0b3IuIFRoaXMgaW5mb3JtYXRpb24gaXMgdXNlZCBzb2xlbHkgYnkgUHJpbWVkaWEgQnJvYWRjYXN0aW5nIGFuZCBpdHMgYnVzaW5lc3MgcGFydG5lcnMgd2hvIGFyZSBpbnZvbHZlZCBpbiB0aGUgb3BlcmF0aW9uIG9mIHRoaXMgc2l0ZSBmb3IgaW50ZXJuYWwgcHVycG9zZXMuIFByaW1lZGlhIEJyb2FkY2FzdGluZyBjbGllbnQgbGlzdHMgYXJlIG5ldmVyIHNvbGQgdG8gdGhpcmQgcGFydGllcy4gUHJpbWVkaWEgQnJvYWRjYXN0aW5nIHdpbGwgbm90IHNoYXJlIHBlcnNvbmFsbHkgaWRlbnRpZmlhYmxlIGluZm9ybWF0aW9uIHdpdGggdGhpcmQgcGFydGllcyB1bmxlc3MgdGhlIHBlcnNvbiB3aG8gaGFzIHN1Ym1pdHRlZCB0aGUgaW5mb3JtYXRpb24gaGFzIGF1dGhvcml6ZWQgdXMgdG8gZG8gc28sIG9yIGlmIHdlIGFyZSByZXF1aXJlZCB0byBieSBsYXcuIDwvcD4NCjwvZGl2Pg0KPC9kaXY+ZAIPD2QWAgIBD2QWBAIBDxYCHwMCARYCZg9kFgJmDxUDBTc3OTA3GVNlY3JlY3kgQmlsbCBnZXRzIHRoZSBub2QOMTUgSG91cihzKSBBZ29kAgMPFgIfAwIFFgpmD2QWAmYPFQMFNzc5MzAiVHVya2V5IGNhbGxzIG9uIEFzc2FkIHRvIHN0ZXAgZG93bg4xMCBIb3VyKHMpIEFnb2QCAQ9kFgJmDxUDBTc3OTI5KU9wcGVuaGVpbWVycyBjb25zaWduIGRpYW1vbmRzIHRvIHRoZSBwYXN0DjEwIEhvdXIocykgQWdvZAICD2QWAmYPFQMFNzc5MjgfVmFuIFBlcnNpZSB0byBzdGFydCBmb3IgQXJzZW5hbA4xMCBIb3VyKHMpIEFnb2QCAw9kFgJmDxUDBTc3OTI3KUJ1dHRvbiBleHBlY3RzIHRpZ2h0ZXIgc2VjdXJpdHkgaW4gQnJhemlsDjEwIEhvdXIocykgQWdvZAIED2QWAmYPFQMFNzc5MjYgRWd5cHQgYXJteSB0byBzcGVlZCB1cCBoYW5kb3ZlciAOMTAgSG91cihzKSBBZ29kGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBRdjdGwwMCRSYWRGb3JtRGVjb3JhdG9yMQUxY3RsMDAkU2VhcmNoVXNlckNvbnRyb2wkQWR2YW5jZWRTZWFyY2hJbWFnZUJ1dHRvbkswnCrNXBcoEIFgXZZ2qc8hU72h">
 
-<!-- END Nielsen//NetRatings SiteCensus V5.3 -->
 
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl00_RadScriptManager1_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d3.5.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3a111e8464-2436-44db-9b34-0d84ed5253c8%3aea597d4b%3bTelerik.Web.UI%2c+Version%3d2011.2.712.35%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen-US%3a326e32e2-cd52-462c-ba2c-db5128e4371b%3a16e4e7cd%3a86526ba7%3a874f8ea2%3ab7778d6c" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
 
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLVg81/AsG8ysYJAtvv4rIOVX4EqdpUlsGANMpJSC8trBUzVNw=">
+        
+        <div id="ctl00_RadFormDecorator1" class="RadFormDecorator" style="display:none;">
+	<!-- 2011.2.712.35 --><script type="text/javascript">
+//<![CDATA[
+if (typeof(WebForm_AutoFocus) != 'undefined')
+{
+	var old_WebForm_AutoFocus = WebForm_AutoFocus;
+	WebForm_AutoFocus = function(arg)
+	{
+		Sys.Application.add_load(function()
+		{
+			old_WebForm_AutoFocus(arg);
+			WebForm_AutoFocus = old_WebForm_AutoFocus;
+		});
+	}
+}
+if (typeof(Telerik) != 'undefined')
+{
+	if (Telerik.Web.UI.RadFormDecorator)
+	{
+		Telerik.Web.UI.RadFormDecorator.initializePage("ctl00_RadFormDecorator1", "", "Default", 65535);
+	}
+}
+//]]>
+</script><input id="ctl00_RadFormDecorator1_ClientState" name="ctl00_RadFormDecorator1_ClientState" type="hidden">
+</div>
+
+        <!-- Begin Content Wrapper -->
+        <div id="contentHolder">
+
+             <!-- Flash Banner, Logo, and Time -->
+            <div id="header">
+                
+<div id="logoTime">
+    <div id="logo">
+        <a href="/">
+            <img src="Assets/Images/logo-noflash.gif" border="0px" alt="EWN Logo" width="250" height="84">
+        </a>
+    </div>
+    <div id="time"><span id="ctl00_FlashHeaderUserControl_currentDateTimeLabel">05:04 CAT / Wednesday,  23 November</span><br></div>
+</div>
+<div id="PoP">
+ 
+   
+    <script type="text/javascript">
+        var imgs1 = new Array("Assets/Images/banner_alerts.jpg", "Assets/Images/banner_facebook.jpg", "Assets/Images//banner_iWitness.jpg");
+        var lnks1 = new Array("http://www.ewn.co.za/SMSAlerts.aspx", "http://www.facebook.com/pages/Eyewitness-News/168892509821961 ", "http://www.ewn.co.za/IWitness.aspx ");
+        var alt1 = new Array();
+        var currentAd1 = 0;
+        var imgCt1 = 3;
+        function cycle1() {
+            if (currentAd1 == imgCt1) {
+                currentAd1 = 0;
+            }
+            var banner1 = document.getElementById('adBanner1');
+            var link1 = document.getElementById('adLink1');
+            banner1.src = imgs1[currentAd1]
+            banner1.alt = alt1[currentAd1]
+            document.getElementById('adLink1').href = lnks1[currentAd1]
+            currentAd1++;
+        }
+        window.setInterval("cycle1()", 10000);
+</script>
+<a href="" http:="" www.ewn.co.za="" smsalerts.aspx""="" id="adLink1" target="_top">
+<img src="Assets/Images/banner_facebook.jpg" id="adBanner1" border="0" width="695" height="150"></a>
+
+</div>
+            </div>
+
+            <!-- EWN Navigation, Currencies, and Search -->
+            <div id="mainNav">
+
+                <!-- Begin Navigation Menu -->
+                <div id="navButtons">
+                    
+    <ul>
+        <li><a href="/Default.aspx" target="_self">Home</a></li>
+        <li><a href="/Default.aspx?CatId=1" target="_self">Local</a></li>
+        <li><a href="/Default.aspx?CatId=3" target="_self">World</a></li>
+        <li><a href="/Default.aspx?CatId=2" target="_self">Sport</a></li>
+        <li><a href="/Business.aspx" target="_self">Business</a></li>
+        <li><a href="/Weather.aspx" target="_self">Weather</a></li>
+        <li><a href="/Features.aspx" target="_self">Features</a></li>
+        <li><a href="/Multimedia.aspx" target="_self">Multimedia</a></li>
+        <li><a href="/IWitness.aspx" target="_self">iWitness</a></li>
+        <li><a href="/traffic" target="_blank">Traffic</a></li>
+        <li><a href="/SMSAlerts.aspx" target="_self">SMS Alerts</a></li>
+        <li><a href="/RSSFeeds.aspx" target="_self">RSS Feeds</a></li>
+        <li><a href="/ContactUs.aspx" target="_self">Contact</a></li>        
+    </ul>
+                </div>
+                <!-- End Navigation Menu -->
+
+                <!-- Begin At A Glance -->
+                <div id="secondNav">
+                    <!-- Begin Currencies -->
+                    <div class="glanceBox">
+                        <ul>
+                            <li>AT A GLANCE &gt; </li>
+                            
+        <li>ZAR/AUD : 8.2168</li>
+    
+        <li>ZAR/EUR : 11.3216</li>
+    
+        <li>ZAR/GBP : 13.1303</li>
+    
+        <li>ZAR/JPY : 0.1092</li>
+    
+        <li>ZAR/USD : 8.4175</li>
+    
+                        </ul>
+                    </div>
+                    <!-- End Currencies -->
+
+                    <!-- Begin Search -->
+                    <div class="searchbox">
+                        
+
+<div><strong>Search for</strong></div>
+<div>
+    <span id="ctl00_SearchUserControl_SearchRadTextBox_wrapper" class="RadInput RadInput_Sunset"><input value="Search EWN Content..." type="text" maxlength="300" size="20" id="ctl00_SearchUserControl_SearchRadTextBox_text" name="ctl00_SearchUserControl_SearchRadTextBox_text" class="riTextBox riEmpty"><input id="ctl00_SearchUserControl_SearchRadTextBox" name="ctl00$SearchUserControl$SearchRadTextBox" class="rdfd_" title="" style="visibility:hidden;margin:-18px 0 0 -1px;width:1px;height:1px;overflow:hidden;border:0;padding:0;" type="text" value=""><input id="ctl00_SearchUserControl_SearchRadTextBox_ClientState" name="ctl00_SearchUserControl_SearchRadTextBox_ClientState" type="hidden"></span>
+</div>
+<div align="left" style="Width:25px;">
+    <input type="image" name="ctl00$SearchUserControl$AdvancedSearchImageButton" id="ctl00_SearchUserControl_AdvancedSearchImageButton" src="Assets/Images/search_glass.gif" border="0" style="height: auto; margin:0; margin-top: -2px">
+</div>
+<div><a href="../AdvancedSearch.aspx">Advanced Search</a></div>
+                    </div>
+                    <!-- End Search -->
+
+                </div>
+                <!-- End At A Glance -->
+
+            </div>
+            <!-- End Navigation, Currencies, and Search -->
+
+        <!-- Begin Our Left Column -->
+        <div class="leftcolumn">
+            
+    <div>
+<div class="contactheading">Privacy Policy </div>
+<div>
+<p><!--  var sURL = unescape(window.location.pathname);    function refresh()  {      window.location.href = sURL;  }  //-->Primedia Broadcasting is dedicated to maintaining the privacy of its online visitors. On this site, Primedia Broadcasting does not collect personally identifiable information from individuals unless they provide it to us voluntarily and knowingly. This means that it is not required from you to register or provide information to Primedia Broadcasting in order to view our site. </p>
+<p>Primedia Broadcasting only gathers personally identifiable data, such as names, addresses, postal codes, e-mail addresses, etc., when voluntarily submitted by a visitor. This information is used solely by Primedia Broadcasting and its business partners who are involved in the operation of this site for internal purposes. Primedia Broadcasting client lists are never sold to third parties. Primedia Broadcasting will not share personally identifiable information with third parties unless the person who has submitted the information has authorized us to do so, or if we are required to by law. </p>
+</div>
+</div>
+
+        </div>
+        <!-- End Our Left Column -->
+
+        <!-- Our Right Column for Features, Multimedia, etc., etc. -->
+        <div class="rightcolumn">
+            
+            
+    <table width="250" border="0" align="center">
+        <tbody><tr>
+            <td>
+                <div align="center">
+                    <!--JavaScript Tag // Tag for network 567: 365 Digital / Primedia Online // Website: EWN // Page: ROS // Placement: ROS-CB-250 x 250 (2124008) // created at: Jun 24, 2009 1:37:12 PM-->
+                    <script type="text/javascript" language="javascript">
+                    <!--
+                        if (window.adgroupid == undefined) {
+                            window.adgroupid = Math.round(Math.random() * 1000);
+                        }
+                        document.write('<scr' + 'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|567|2124008|0|165|ADTECH;loc=100;target=_blank;grp=' + window.adgroupid + ';misc=' + new Date().getTime() + '"></scri' + 'pt>');
+                    //-->
+                    </script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|567|2124008|0|165|ADTECH;loc=100;target=_blank;grp=594;misc=1580391427073"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|567|2124008|0|165|ADTECH;loc=300" target="_blank"><img alt="" src="http://adserver.adtech.de/adserv|3.0|567|2124008|0|165|ADTECH;loc=300" border="0" width="250" height="250"></a></noscript>
+                    <!-- End of JavaScript Tag -->
+                </div>
+            </td>
+        </tr>
+    </tbody></table>
+    <p></p>
+    
+<div id="inheadlines">
+    <div class="inheadlinesHeading">&nbsp;</div>
+    <div class="inheadlinesRollup">
+        <ul>
+            
+                    <li>
+                        <a href="Story.aspx?Id=77907">Secrecy Bill gets the nod</a>
+                            <span class="timeadded">15 Hour(s) Ago</span>
+                    </li>
+                
+            
+                    <li>
+                        <a href="Story.aspx?Id=77930">Turkey calls on Assad to step down</a>
+                            <span class="timeadded">10 Hour(s) Ago</span>
+                    </li>
+                
+                    <li>
+                        <a href="Story.aspx?Id=77929">Oppenheimers consign diamonds to the past</a>
+                            <span class="timeadded">10 Hour(s) Ago</span>
+                    </li>
+                
+                    <li>
+                        <a href="Story.aspx?Id=77928">Van Persie to start for Arsenal</a>
+                            <span class="timeadded">10 Hour(s) Ago</span>
+                    </li>
+                
+                    <li>
+                        <a href="Story.aspx?Id=77927">Button expects tighter security in Brazil</a>
+                            <span class="timeadded">10 Hour(s) Ago</span>
+                    </li>
+                
+                    <li>
+                        <a href="Story.aspx?Id=77926">Egypt army to speed up handover </a>
+                            <span class="timeadded">10 Hour(s) Ago</span>
+                    </li>
+                
+        </ul>
+    </div>
+</div>
+
+        </div>
+        <!-- End Right Column -->
+
+        </div>
+        <!-- End Content Wrapper -->
+
+        <!-- Begin Main Footer -->
+        <div style="clear:both"></div>
+        <div id="tsandcs">
+            <a href="mailto:webmaster@ewn.co.za">Email Webmaster</a> | © Primedia Broadcasting | <a href="/PolicyAndPrivacy.aspx?Id=4" target="_self">Terms &amp; Conditions</a> | <a href="/PolicyAndPrivacy.aspx?Id=2" target="_self">Privacy Policy</a>
+        </div>
+        <!-- End Main Footer -->
 <script type="text/javascript">
 
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-4633773-8']);
+    _gaq.push(['_trackPageview']);
 
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
 
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+</script>
+        
+
+        <!-- Google-analytics -->
+            <script type="text/javascript">
+
+                var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+                document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+            </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+                            <script type="text/javascript">
+
+                                try {
+
+                                    var pageTracker = _gat._getTracker("UA-4633773-8");
+
+                                    pageTracker._trackPageview();
+
+                                } catch (err) { }</script>
+
+            <script src="http://www.highveld.co.za/scripts/gatag.js" type="text/javascript"></script>    
+
+        <!-- END GOOGLE_ANALYTICS-->
+
+
+    
 
 <script type="text/javascript">
-
-try {
-
-var pageTracker = _gat._getTracker("UA-4633773-8");
-
-pageTracker._trackPageview();
-
-} catch(err) {}</script>
-
-<script src="http://www.highveld.co.za/scripts/gatag.js" type="text/javascript"></script>    
-
-      
-    </form>
+//<![CDATA[
+Sys.Application.initialize();
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadFormDecorator, {"clientStateFieldID":"ctl00_RadFormDecorator1_ClientState","decoratedControls":65535,"enabled":true,"skin":"Default"}, null, null, $get("ctl00_RadFormDecorator1"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadTextBox, {"_focused":false,"_postBackEventReferenceScript":"setTimeout(\"__doPostBack(\\\u0027ctl00$SearchUserControl$SearchRadTextBox\\\u0027,\\\u0027\\\u0027)\", 0)","_skin":"Sunset","clientStateFieldID":"ctl00_SearchUserControl_SearchRadTextBox_ClientState","emptyMessage":"Search EWN Content...","enabled":true,"styles":{HoveredStyle: ["font-size:X-Small;height:12px;width:150px;", "riTextBox riHover"],InvalidStyle: ["font-size:X-Small;height:12px;width:150px;", "riTextBox riError"],DisabledStyle: ["font-size:X-Small;height:12px;width:150px;", "riTextBox riDisabled"],FocusedStyle: ["font-size:X-Small;height:12px;width:150px;", "riTextBox riFocused"],EmptyMessageStyle: ["font-size:X-Small;height:12px;width:150px;", "riTextBox riEmpty"],ReadOnlyStyle: ["font-size:X-Small;height:12px;width:150px;", "riTextBox riRead"],EnabledStyle: ["font-size:X-Small;height:12px;width:150px;", "riTextBox riEnabled"]}}, null, null, $get("ctl00_SearchUserControl_SearchRadTextBox"));
+});
+//]]>
+</script>
+</form>
 
 
 </body></html>
