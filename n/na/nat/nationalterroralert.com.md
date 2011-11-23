@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the nationalterroralert.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616125121id_/http%3A//www.nationalterroralert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalterroralert.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123104213id_/http%3A//www.nationalterroralert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Homeland Security News
-
-If this is your first time visiting National Terror Alert you may want to subscribe to our [RSS feed. The National terror Alert feed features breaking news, alerts and bulletins on demand and it's free of charge.](http://www.nationalterroralert.com/feed/).   
-You will only see this message on your first visit to the site. Thanks for visiting!
 
 At National Terror Alert we work hard to protect the privacy of our web site visitors. Some of our site’s registration forms may require visitors to disclose information such as name, address, e-mail addresses, etc. This information is used solely by National Terror Alert to respond to your requests and to occasionally notify you about important changes to our site, new products and services, and information we think you’ll find valuable. We do not sell or transfer this information to third parties. You may may opt-out from receiving any promotional material from National Terror Alert at any time
 
