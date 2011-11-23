@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigwords.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526023544id_/http%3A//www.bigwords.com/help/index.php%3Fz%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigwords.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123183620id_/http%3A//www.bigwords.com/help/index.php%3Fz%3Dprivacy) for the most accurate reproduction.*
 
 # BIGWORDS.com | Buy Textbooks | Sell Textbooks | Cheap Textbooks | Cheapest Textbooks | Compare Textbook Prices | Used College Textbooks | New College Textbooks | Textbook Price Comparison | Textbook Buyback | Textbook Price Bot | New and Used Music | Compare CD Prices | Compare DVD Prices | Compare Video Game Prices | New and Used DVDs | New and Used Video Games
 
