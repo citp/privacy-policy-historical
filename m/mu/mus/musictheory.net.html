@@ -1,0 +1,314 @@
+<!--The following is the downloaded HTML source of the musictheory.net privacy policy that was archived on 2011-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123153345id_/http%3A//www.musictheory.net/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+    <meta charset="utf-8">
+
+    <!--[if lt IE 7]>
+        <meta http-equiv="refresh" content="0;url=/browser">
+        <script type="text/javascript">window.top.location="/browser";</script>
+    <![endif]-->
+
+    <link rel="apple-touch-icon-precomposed" href="/v2c/1ec219b6ed9d1f1e23f1a46e8d5f60c9f9cae029/v2/images/touch.png">
+    <script type="text/javascript" src="/v2c/aa251be8480cf11aaefa6d52bbf8bba0757e1755/v2/js/core.js"></script>
+
+    <!--[if IE 8]>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <![endif]-->
+
+    <!--[if lt IE 9]>
+        <script type="text/javascript">Util.installIECompatibility();</script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="/v2c/9300f72b5d684d39c0dfadccefd1d40d8bf12f82/v2/css/core.css">
+
+    <script type="text/javascript">
+    var gSections={home:["/",""],lessons:["/lessons","Lessons"],exercises:["/exercises","Exercises"],tools:["/tools","Tools"],contact:["/contact","Contact"],donate:["/donate","Donate"],ios:["/ios","iPhone"]};
+function SetSectionVisible(b,f){var e=$("nav-"+b),c=$("section-"+b);
+if(e){var a="nav-selected",d="nav-normal";
+Dom.removeClassName(e,(f?d:a));Dom.addClassName(e,(f?a:d))
+}if(c){Dom.writeAttribute(c,"style","display: "+(f?"block":"none"))
+}}function SelectSection(m,g){var c=window.gSelectedSection,f=gSections[m],n=f?f[0]:null,k=f?f[1]:null;
+if(m==c){return false}if(!g){if(!gSectionIsStandalone&&window.history&&window.history.pushState){window.history.pushState({name:m},k,n);
+if(n){Common.trackPageView(n,true)}}else{window.location=n;
+return false}}if(c!=m){if(c){SetSectionVisible(c,false)
+}SetSectionVisible(m,true);window.gSelectedSection=m
+}if(m=="contact"){if(!Browser.isMobileWebKit()){try{$("contact-first-responder").select()
+}catch(h){}}var l=$("contact-submit-input");
+if(l){Dom.remove(l);Dom.writeAttribute($("contact-submit-span"),"style","display:inline-block");
+new Button($("contact-submit-span"),function(){$("contact-form").submit()
+})}}else{if(m=="donate"){if(!Browser.isMobileWebKit()){try{$("donate-first-responder").select()
+}catch(h){}}var l=$("donate-submit-input");
+if(l){Dom.remove($("donate-submit-input"));
+Dom.writeAttribute($("donate-submit-span"),"style","display:inline-block");
+Dom.addClassName($("donate-table"),"jsok");
+Clickable.install($("donate-right-td"),HandleDonateFormSubmit,{down:function(o,e){Dom.addClassName($("donate-tr"),"donate-down")
+},up:function(o,e){Dom.removeClassName($("donate-tr"),"donate-down")
+}});var b=$("row-donate-text");var d=Dom.createElement("img",{src:"/v2c/1246c323448bad5745941c81f2f779638694da0c/v2/images/me.jpg"});
+Dom.prependChild(b,d)}}else{if(m=="exercises"){if(!$("ss-script")){var a=Dom.createElement("script",{type:"text/javascript",src:"/v2c/d05e34238ca184d3a6ea2ac3c4fb1f746b3162c9/v2/js/stageselect.js",id:"ss-script"}),j=Dom.getElementsByTagName(document,"HEAD")[0];
+Dom.appendChild(j,a)}}}}return false}function HandleNavDown(c,b,a){Dom.addClassName(b,"clickable-highlight")
+}function HandleNavUp(c,b,a){Dom.removeClassName(b,"clickable-highlight")
+}function HandleNavClick(c,b,a){SelectSection(a)
+}function HandleLinkClick(e,b,a){var d=Dom.getElementsByTagName(b,"A"),c;
+if(d.length){c=d[0];if(a){a()}else{if(c.onclick){c.onclick(e)
+}else{location.href=Dom.readAttribute(c,"HREF")
+}}}}function HandleDonateFormSubmit(){Common.trackPageView("/.goal/donate-click");
+setTimeout(function(){$("donate-form").submit()
+},50);return false}function FormatCurrency(b,c){var a;
+if(window.event){a=window.event.keyCode;c=window.event
+}else{if(c){a=c.which}}if(c.ctrlKey==true||c.metaKey==true||c.altKey==true){return
+}var d=a?String.fromCharCode(a):null;if(!d){return true
+}if((a==8)||(a==9)||(a==13)||(a==27)){return true
+}else{if((("0123456789.").indexOf(d)>-1)){return true
+}}return false}function HandleLoad(d){if(Browser.isApplePad()){Browser.useNativeResolution(true)
+}else{if(Browser.isMobileWebKit()){Browser.setViewport("width=640")
+}}if(Browser.prefersTouchEvents()){Dom.addClassName(document.body,"hover-touch");
+var f=$("logo");f.onclick=null;Clickable.install(f,HandleNavClick,{tag:"home"})
+}else{Dom.addClassName(document.body,"hover-mouse")
+}var n=["home","lessons","exercises","tools","ios","contact"];
+for(i=0;i<n.length;i++){var c=$("nav-"+n[i]),l=c.getElementsByTagName("A"),m=l.length?l[0]:null,j;
+if(m){var j=Dom.update(Dom.createElement("SPAN"),m.innerHTML,true);
+Dom.remove(m);Dom.appendChild(c,j)}Clickable.install(c,HandleNavClick,{tag:n[i],down:HandleNavDown,up:HandleNavUp})
+}if(!Browser.isWebKit()||!Browser.supportsCSSGradients()){var k=$("gradient");
+Dom.removeAllChildren(k);Dom.appendChildren(k,[Dom.createElement("img",{id:"gradient-left",src:"/v2c/70fbe22644df743e2a3a473f88b12450ab56dd26/v2/images/site_gradient_left.png"}),Dom.createElement("img",{id:"gradient-right",src:"/v2c/f36b8173c6b62552e06c4271ff2e9e218ed2299e/v2/images/site_gradient_right.png"})]);
+Dom.addClassName(k,"gradient-use-image")}try{var h=swfobject.getFlashPlayerVersion();
+if(h){$("contact-form-f").value=h.major+"."+h.minor+"."+h.release
+}$("contact-form-j").value="true"}catch(g){}if(!gSectionIsStandalone&&window.history.pushState){window.onpopstate=function(a){if(a.state){SelectSection(a.state.name,true)
+}else{SelectSection(gSectionToLoad,true)}}
+}SelectSection(gSectionToLoad,true);Common.installTracker()
+}function HandleRowClick(a){var b=Dom.getElementsByTagName(a,"A");
+if(b.length){location.href=Dom.readAttribute(b[0],"HREF")
+}}Dom.observeLoad(HandleLoad);
+    var gSectionToLoad       = "privacy";
+    var gSectionIsStandalone = true;
+    </script>
+    <style type="text/css">
+    #ss-question-custom-range td:hover{background-color:inherit!important;}.CustomRange-small,.CustomRange-large{margin:8px 24px 8px 24px;position:relative;top:0;left:0;-webkit-user-select:none;-khtml-user-select:none;-moz-user-select:none;}
+.CustomRange-small div,.CustomRange-large div,.CustomRange-image{position:absolute;}.CustomRange-small .CustomRange-image{background-image:url(/v2c/0f3c0438a94b284b2549f532bf4bcaa8b6c87959/v2/images/customrange.png);}
+.CustomRange-large .CustomRange-image{background-image:url(/v2c/382bf3a5eaa1e3568e98fb79916ccfd9f87e45f0/v2/images/customrange_large.png);}.CustomRange-small{width:146px;height:129px;}
+.CustomRange-small .CustomRange-left-stepper{left:0;top:46px;}.CustomRange-small .CustomRange-right-stepper{left:129px;top:46px;}
+.CustomRange-small .CustomRange-up-normal{width:17px;height:16px;background-position:0 0;}.CustomRange-small .CustomRange-up-pressed{width:17px;height:16px;background-position:-18px 0;}
+.CustomRange-small .CustomRange-down-normal{top:16px;width:17px;height:17px;background-position:0 -16px;}.CustomRange-small .CustomRange-down-pressed{top:16px;width:17px;height:17px;background-position:-18px -16px;}
+.CustomRange-small .CustomRange-staff-area{left:25px;}.CustomRange-small .CustomRange-staff{left:0;top:46px;width:96px;height:33px;background-position:0 -35px;}
+.CustomRange-small .CustomRange-left-stripe{left:17px;top:0;width:20px;height:125px;}.CustomRange-small .CustomRange-right-stripe{left:60px;top:0;width:20px;height:125px;}
+.CustomRange-small .CustomRange-note{left:4px;width:12px;height:9px;background-position:-24px -182px;margin-top:-4px;}.CustomRange-small .CustomRange-ledger{left:0;width:20px;height:1px;background-position:0 -35px;}
+.CustomRange-small .CustomRange-treble{left:1px;top:35px;width:22px;height:57px;background-position:0 -70px;}.CustomRange-small .CustomRange-bass{left:1px;top:46px;width:24px;height:28px;background-position:0 -129px;}
+.CustomRange-small .CustomRange-alto{left:0;top:46px;width:22px;height:33px;background-position:0 -159px;}.CustomRange-small .CustomRange-tenor{left:0;top:38px;width:22px;height:33px;background-position:0 -159px;}
+.CustomRange-small .CustomRange-has-clef .CustomRange-left-stripe{left:28px;}.CustomRange-small .CustomRange-has-clef .CustomRange-right-stripe{left:62px;}
+.CustomRange-large{width:308px;height:229px;}.CustomRange-large .CustomRange-left-stepper{left:0;top:73px;}.CustomRange-large .CustomRange-right-stepper{left:266px;top:73px;}
+.CustomRange-large .CustomRange-up-normal{width:42px;height:41px;background-position:0 0;}.CustomRange-large .CustomRange-up-pressed{width:42px;height:41px;background-position:-44px 0;}
+.CustomRange-large .CustomRange-down-normal{top:41px;width:42px;height:42px;background-position:0 -41px;}.CustomRange-large .CustomRange-down-pressed{top:41px;width:42px;height:42px;background-position:-44px -41px;}
+.CustomRange-large .CustomRange-staff-area{left:74px;}.CustomRange-large .CustomRange-staff{left:0;top:90px;width:160px;height:49px;background-position:0 -87px;}
+.CustomRange-large .CustomRange-left-stripe{left:32px;top:0;width:36px;height:192px;}.CustomRange-large .CustomRange-right-stripe{left:96px;top:0;width:36px;height:192px;}
+.CustomRange-large .CustomRange-note{left:6px;width:20px;height:12px;background-position:0 -227px;margin-top:-6px;}.CustomRange-large .CustomRange-ledger{left:0;width:32px;height:1px;background-position:0 -87px;}
+.CustomRange-large .CustomRange-treble{left:2px;top:74px;width:33px;height:85px;background-position:0 -138px;}.CustomRange-large .CustomRange-bass{left:2px;top:90px;width:34px;height:38px;background-position:-36px -191px;}
+.CustomRange-large .CustomRange-alto{left:0;top:90px;width:34px;height:49px;background-position:-37px -138px;}.CustomRange-large .CustomRange-tenor{left:0;top:78px;width:34px;height:49px;background-position:-37px -138px;}
+.CustomRange-large .CustomRange-has-clef .CustomRange-left-stripe{left:56px;}.CustomRange-large .CustomRange-has-clef .CustomRange-right-stripe{left:112px;}
+thead{display:none;}#ss-container-row{padding-bottom:23px;}.ss-question td{padding:8px;border:solid 1px #ccc;}.ss-divider td{border:none!important;padding:4px;}
+.ss-question .ss-selected .ss-td-container{position:relative;top:0;left:0;z-index:10;}.ss-question table{margin-top:2px;border-collapse:collapse;}
+#ss-footer{position:relative;top:0;left:0;padding:16px 23px 16px 23px;}#ss-footer-text{display:inline-block;vertical-align:middle;padding-left:23px;line-height:16px;}
+#ss-footer h2{color:#666;}#ss-url{color:#333;font-weight:bold;text-decoration:none;}#ss-start{color:black;display:inline-block;vertical-align:middle;width:128px;}
+#ss-start,#ss-footer-text{.display:inline;.zoom:1;}.ss-question{margin-top:23px;}.ss-control,.ss-label{display:inline-block;vertical-align:middle;}
+.ss-control{top:50%;left:0;width:15px;height:15px;background-image:url(/v2c/7ec75b9b96934bca67c091c1e1b45a5a979c4398/v2/images/stageselect.png);}.ss-label{display:inline-block;margin-left:8px;margin-right:8px;}
+#ss-question-range .ss-label{margin-left:8px;margin-right:6px;}.ss-text{line-height:31px;}#ss-question-exercise{margin-top:12px;}
+#ss-question-exercise .ss-text{line-height:13px;}.ss-exercise-title{font-size:13px;line-height:13px;font-weight:bold;}.ss-exercise-description{font-size:11px;line-height:11px;.line-height:16px;}
+.ss-clickable{cursor:pointer;}.ss-clickable:hover{background-color:#ffd;}.ss-pressed{background-color:#ffc;}.ss-selected,.ss-selected-pressed{background-color:#ff9!important;}
+.ss-radio .ss-control{background-position:-265px -13px;}.ss-radio .ss-pressed .ss-control{background-position:-281px -13px;}
+.ss-radio .ss-selected .ss-control{background-position:-297px -13px;}.ss-radio .ss-pressed[class~="ss-selected"] .ss-control{background-position:-313px -13px;}
+.ss-checkbox .ss-control{background-position:-265px -31px;}.ss-checkbox .ss-pressed .ss-control{background-position:-281px -31px;}
+.ss-checkbox .ss-selected .ss-control{background-position:-297px -31px;}.ss-checkbox .ss-pressed[class~="ss-selected"] .ss-control{background-position:-313px -31px;}
+.icon{background-image:url(/v2c/7ec75b9b96934bca67c091c1e1b45a5a979c4398/v2/images/stageselect.png);}.icon-clef-treble{background-position:0 0;width:64px;height:61px;}
+.icon-clef-bass{background-position:-66px 0;width:64px;height:61px;}.icon-clef-alto{background-position:-132px 0;width:64px;height:61px;}
+.icon-clef-tenor{background-position:-198px 0;width:64px;height:61px;}.icon-range0{background-position:0 -61px;width:64px;height:109px;}
+.icon-range1{background-position:-66px -61px;width:64px;height:109px;}.icon-range2{background-position:-132px -61px;width:64px;height:109px;}
+.icon-range3{background-position:-198px -61px;width:64px;height:109px;}.icon-range4{background-position:-264px -61px;width:64px;height:109px;}
+.icon-flats1{background-position:-128px -268px;width:7px;height:27px;margin-left:11px;margin-right:54px;}.icon-flats2{background-position:-128px -252px;width:15px;height:41px;margin-left:11px;margin-right:45px;}
+.icon-flats3{background-position:-128px -252px;width:24px;height:41px;margin-left:11px;margin-right:37px;}.icon-flats4{background-position:-128px -252px;width:32px;height:41px;margin-left:11px;margin-right:29px;}
+.icon-flats5{background-position:-128px -252px;width:41px;height:41px;margin-left:11px;margin-right:20px;}.icon-flats6{background-position:-128px -252px;width:49px;height:41px;margin-left:11px;margin-right:12px;}
+.icon-flats7{background-position:-128px -252px;width:58px;height:41px;margin-left:11px;margin-right:3px;}.icon-sharps1{background-position:-66px -254px;width:7px;height:26px;margin-left:11px;margin-right:54px;}
+.icon-sharps2{background-position:-66px -252px;width:15px;height:41px;margin-left:11px;margin-right:45px;}.icon-sharps3{background-position:-66px -252px;width:24px;height:41px;margin-left:11px;margin-right:37px;}
+.icon-sharps4{background-position:-66px -252px;width:32px;height:41px;margin-left:11px;margin-right:29px;}.icon-sharps5{background-position:-66px -252px;width:41px;height:41px;margin-left:11px;margin-right:20px;}
+.icon-sharps6{background-position:-66px -252px;width:49px;height:41px;margin-left:11px;margin-right:12px;}.icon-sharps7{background-position:-66px -252px;width:58px;height:41px;margin-left:11px;margin-right:3px;}
+.icon-interval-playmode0{background-position:0 -170px;width:64px;height:41px;}.icon-interval-playmode1{background-position:0 -211px;width:64px;height:41px;}
+.icon-interval-playmode2{background-position:0 -252px;width:64px;height:41px;}.icon-interval-playmode3{background-position:-66px -170px;width:120px;height:41px;}
+.icon-interval-playmode4{background-position:-66px -211px;width:120px;height:41px;}.icon-chord-playmode0{background-position:-188px -170px;width:120px;height:41px;}
+.icon-chord-playmode1{background-position:-188px -211px;width:120px;height:41px;}.icon-chord-playmode2{background-position:-188px -252px;width:120px;height:41px;}
+.icon-chord-playmode3{background-position:-188px -293px;width:120px;height:41px;}.icon-chord-playmode4{background-position:-188px -334px;width:120px;height:41px;}
+.icon-scale-playmode0{background-position:0 -293px;width:166px;height:41px;}.icon-scale-playmode1{background-position:0 -334px;width:166px;height:41px;}
+.icon-scale-playmode2{background-position:0 -375px;width:308px;height:41px;}html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,code,del,dfn,em,img,q,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,hr{margin:0;padding:0;border:0;font-weight:inherit;font-style:inherit;font-size:100%;font-family:inherit;vertical-align:baseline;}
+table{border-collapse:separate;border-spacing:0;}caption,th,td{text-align:left;font-weight:normal;}table,td,th{vertical-align:middle;}
+blockquote:before,blockquote:after,q:before,q:after{content:"";}blockquote,q{quotes:"" "";}a img{border:none;}body{background-color:#001541;font-family:Helvetica,Arial,sans;font-size:10px;min-width:620px;overflow-y:scroll;.overflow-y:inherit;}
+.body-content{position:relative;top:0;left:0;max-width:960px;padding:100px 46px 0 46px;margin-left:auto;margin-right:auto;}
+#gradient{position:absolute;left:0;top:0;width:100%;height:100px;background:-webkit-gradient(linear,0% 0,40% 0,from(rgba(0,20,65,1.0)),to(rgba(0,20,65,0.0))),-webkit-gradient(linear,100% 0,60% 0,from(rgba(0,20,65,1.0)),to(rgba(0,20,65,0.0))),-webkit-gradient(linear,50% 0,50% 100,from(#005EF4),to(#001541));}
+.gradient-use-image{background-image:url(/v2c/8599f6d67879c9ba053cb13d29e1434dd2cd9e99/v2/images/site_gradient.png);}#gradient-left,#gradient-right{position:absolute;top:0;width:35%;height:100px;}
+.gradient-use-image #gradient-left{left:0;}.gradient-use-image #gradient-right{right:0;}#logo{background-image:url(/v2c/6776153a07b7d3bb9f64b6ad553be6722768bcb9/v2/images/site.png);cursor:pointer;position:absolute;top:8px;left:40px;width:420px;height:82px;-webkit-tap-highlight-color:transparent;}
+#outer-container{position:relative;border:solid 66px transparent;margin:-30px;height:100%;.border:none;.margin:0;-webkit-border-image:url(/v2c/ad2f28bb2dc8344a34a320fa23d2f9d48af90a8d/v2/images/site_shadow.png) 64 64 64 64 stretch stretch;-moz-border-image:url(/v2c/ad2f28bb2dc8344a34a320fa23d2f9d48af90a8d/v2/images/site_shadow.png) 64 64 64 64 stretch stretch;}
+#inner-container{position:relative;top:0;left:0;background-color:white;margin:-36px;.margin:0;-webkit-border-radius:6px;-moz-border-radius:6px;-webkit-border-top-left-radius:8px;-webkit-border-top-right-radius:8px;-webkit-border-bottom-left-radius:4px;-webkit-border-bottom-right-radius:4px;-moz-border-radius-topright:8px;-moz-border-radius-topleft:8px;-moz-border-radius-bottomright:4px;-moz-border-radius-bottomleft:4px;}
+#logo,#gradient,nav{user-select:none;-moz-user-select:none;-khtml-user-select:none;-webkit-user-select:none;}nav{position:relative;top:0;left:0;padding:0;font-weight:bold;white-space:nowrap;line-height:2.8em;overflow:hidden;}
+nav td{color:#000;height:2.8em;text-align:center;width:18%;}nav td#nav-home{width:10%;}nav td+td{border-left:1px solid #a0a0a0;}
+nav .nav-normal{background:-webkit-gradient(linear,left 0,left 100%,from(#fff),to(#c8c8c8),color-stop(0.92,#e8e8e8));background:-moz-linear-gradient(-90deg,#fff,#e8e8e8 92%,#c8c8c8);background-color:#f0f0f0;border-bottom:solid #999 1px;}
+nav .clickable-highlight{background:-webkit-gradient(linear,left 0,left 100%,from(#d8d8d8),to(#c8c8c8),color-stop(0.92,#e0e0e0));background:-moz-linear-gradient(-90deg,#d8d8d8,#e0e0e0 92%,#c8c8c8);background-color:#e0e0e0;}
+nav .nav-selected{border-bottom:1px solid white;background-color:white;background:-webkit-gradient(linear,left top,left bottom,from(#f8f8f8),to(#fff));background:-moz-linear-gradient(-90deg,#f8f8f8,#fff);}
+nav a,nav b,nav span{color:#404040;font-size:1.2em;text-shadow:0 1px 0 white;text-decoration:none;-webkit-tap-highlight-color:transparent;}
+.nav-selected a,.nav-selected b,.nav-selected span{color:#000!important;}.hover-mouse nav .nav-normal{cursor:pointer;}nav table{width:100%;text-align:center;}
+#nav-home{-moz-border-radius-topleft:4px;-webkit-border-top-left-radius:4px;min-width:3.2em;}#nav-donate{-moz-border-radius-topright:4px;-webkit-border-top-right-radius:4px;}
+#nav-home-icon{display:inline-block;position:relative;top:2px;width:12px;height:13px;background:url("/v2c/6776153a07b7d3bb9f64b6ad553be6722768bcb9/v2/images/site.png") repeat-x;background-position:-420px 0;.position:float;}
+section{font-size:13px;}.classic-notice{color:#666!important;text-align:center;}.license-text{font-size:10px;color:#666;}
+.line{border-top:1px solid #bbb;border-bottom:none;border-left:none;border-right:none;margin-top:1.0em;}.row-group{padding:26px 0 0 0;}
+.row-group-last{padding-bottom:23px;}p{margin-bottom:1.0em;}.row{padding:8px 23px 8px 23px;border-top:1px solid #e0e0e0;min-height:30px;}
+.row-first{border-top:none;}.row-last{-webkit-border-bottom-left-radius:4px;-webkit-border-bottom-right-radius:4px;-moz-border-radius-bottomright:4px;-moz-border-radius-bottomleft:4px;}
+.row-home-link{padding:32px 23px 32px 146px;min-height:28px;}.row-thankyou{padding-top:23px;}.row-footer{line-height:30px;border-bottom:none;color:#333;}
+.row-empty{min-height:7px;border-bottom:none;}.row-solutions{line-height:17px;}.hover-mouse .row-link{cursor:pointer;}.hover-mouse .row-link:hover{background-color:#ffd;}
+.row-header,.row-home-link{position:relative;top:0;left:0;}.row-header h1{position:absolute;bottom:8px;color:#666;font-size:14px;}
+.row h1{font-weight:bold;}.row h1 a{text-decoration:none;color:#000;-webkit-tap-highlight-color:transparent;}.bold-a{font-weight:bold;text-decoration:none;}
+.row h1 a:hover,.row h1 a:hover{text-decoration:none;}.row h1+p{margin-top:1em;}.row h2{color:#666;margin-bottom:0;}.row-link{-webkit-tap-highlight-color:rgba(255,255,0,0.15);}
+.hover-mouse .row-link:hover h2,.row-highlight h2{color:#666658;}.row-header h2{color:#333;position:absolute;bottom:8px;}
+.row-footer h2{color:#333;}.home-icon{background:url("/v2c/f2b6ed89555a916ba9078bd0fe7db609013511b4/v2/images/home.png");position:absolute;top:8px;left:23px;width:100px;height:76px;}
+#home-icon-lessons{background-position:0 -1px;}#home-icon-exercises{background-position:0 -79px;}#home-icon-tools{background-position:0 -157px;}
+#classic-notice *{text-align:center;color:#555;}#classic-notice a{color:#444;}section a{color:black;}#contact-form p{padding-bottom:0!important;margin-bottom:0!important;font-weight:bold;padding-left:2px;}
+#contact-form input,#contact-form textarea{margin-bottom:12px;font-family:Helvetica,Arial,sans;font-size:13px;}#contact-submit-span{width:128px;margin-left:3px;}
+.tenuto-banner{position:relative;top:0;left:0;width:528px;height:214px;margin-top:13px;margin-left:auto;margin-right:auto;}
+.tenuto-banner>div{position:absolute;cursor:pointer;}.tenuto-title{top:24px;background-image:url(/v2c/43ac84d36cbea4c64b745f7620f0cfce8a4006ae/v2/images/tenuto_title.png);width:204px;height:90px;}
+.tenuto-appstore:hover{opacity:1.0;}.tenuto-appstore{top:129px;display:inline-block;background-image:url(/v2c/43ac84d36cbea4c64b745f7620f0cfce8a4006ae/v2/images/tenuto_title.png);background-position:0 -90px;width:204px;height:69px;opacity:.5;-webkit-transition:opacity .5s ease-in-out;}
+.tenuto-ss{top:0;right:0;background-image:url(/v2c/f43c445933ecb50b8f2c48bb64da5fabc03f98e2/v2/images/tenuto_ss.jpg);padding:0 -8px 0 -8px;width:292px;height:220px;white-space:nowrap;}
+#row-donate-text{position:relative;top:0;left:0;padding-left:248px;}#row-donate-text img{position:absolute;top:8px;left:24px;}
+#donate-table{margin:16px auto;border-collapse:collapse;}#donate-left-td{background:white!important;border-right:1px solid #a0a0a0;padding-left:4px;height:100%;}
+#donate-right-td *{vertical-align:middle;}#donate-table tr{font-family:Helvetica,Arial,sans;display:inline-block;border:1px solid #fff;-webkit-border-top-right-radius:4px;-webkit-border-bottom-right-radius:4px;-moz-border-radius-topright:4px;-moz-border-radius-bottomright:4px;}
+#donate-table.jsok tr{border:1px solid #a0a0a0;background:#e8e8e8;background:-webkit-gradient(linear,left 0,left 100%,from(#f8f8f8),to(#d8d8d8));background:-moz-linear-gradient(-90deg,#f8f8f8,#d8d8d8);}
+#donate-table tr.donate-down{background:-webkit-gradient(linear,left 0,left 100%,from(#d8d8d8),to(#e8e8e8));background:-moz-linear-gradient(-90deg,#d8d8d8,#e8e8e8);}
+#donate-table td{padding-top:6px;padding-bottom:4px;}#donate-table.jsok #donate-right-td{padding-left:8px;padding-right:8px;font-size:16px;cursor:pointer;}
+#donate-image-container{display:inline-block;vertical-align:baseline;position:relative;top:0;left:0;height:0;width:74px;}
+#donate-image{position:absolute;display:inline-block;top:-13px;left:0;width:74px;height:18px;background-image:url(/v2c/c854650bdf4ca81830a19b1d8c15e6ae5fe53c71/v2/images/paypal.png);}
+#donate-left-td label,#donate-left-td input{font-size:24px;}#donate-table.jsok #donate-first-responder{border:0;padding:0;height:100%;}
+#donate-first-responder:focus{-webkit-box-shadow:0 4px 16px rgba(0,0,0,0.25);}.webkit #contact-form input[type="text"],.webkit #contact-form textarea{border:1px solid #a0a0a0;padding:2px 4px 2px 4px;background:-webkit-gradient(linear,0 0,0 6,from(#e8e8e8),to(#fff));margin-bottom:12px;}
+.webkit #contact-form input[type="text"]:focus,.webkit #contact-form textarea:focus{border:1px solid #666;-webkit-box-shadow:0 4px 16px rgba(0,0,0,0.25);}
+.footer-link+.footer-link{margin-left:32px;}footer{display:block;margin:31px 12px 24px 12px;text-align:center;color:#828B9D;font-size:12px;}
+footer a{color:#c0c5ce;text-decoration:none;}#noscript{position:relative;top:.5em;color:#666;text-align:center;}.mobile-webkit{-webkit-text-size-adjust:none;}
+.mobile-webkit #nav-home{-webkit-border-top-left-radius:6px;}.mobile-webkit #nav-donate{-webkit-border-top-right-radius:6px;}
+.mobile-webkit .row-header h1{font-size:16px;bottom:4px;}.mobile-webkit section{font-size:16px;}.mobile-webkit #copyright{font-size:13px;}
+.mobile-webkit nav td{height:36px;}.mobile-webkit nav a,.mobile-webkit nav span,.mobile-webkit nav b{font-size:14px;}.mobile-webkit .nav-normal:hover{text-decoration:none;}
+    </style>
+
+    <title>Ricci Adams' Musictheory.net</title>
+</head>
+<body>
+<div class="body-content">
+<header>
+    <div id="gradient"><div id="gradient-left"></div><div id="gradient-right"></div></div>
+    <div onclick="return SelectSection('home')" id="logo"></div>
+</header>
+
+<div id="outer-container">
+<div id="inner-container">
+    <nav>
+        <table><!--[if lt IE 9]></table><table cellspacing="0"><![endif]-->
+        <tbody><tr>
+            <td id="nav-home" class="nav-normal"><b><span id="nav-home-icon"></span></b></td>
+            <td id="nav-lessons" class="nav-normal"><a href="/lessons">Lessons</a></td>
+            <td id="nav-exercises" class="nav-normal"><a href="/exercises">Exercises</a></td>
+            <td id="nav-tools" class="nav-normal"><a href="/tools">Tools</a></td>
+            <td id="nav-ios" class="nav-normal"><a href="/ios">iPhone</a></td>
+            <td id="nav-contact" class="nav-normal"><a href="/contact">Contact</a></td>
+        </tr>
+        </tbody></table>
+    </nav>
+
+
+    <section>
+
+<div class="row row-first row-header">
+    <h1>Privacy Policy</h1>
+</div>
+
+<div class="row">
+    <h1>What information do we collect and how do we use it?</h1>
+    <p>
+        We do not collect personally identifiable information about you, except when you provide it to us via the
+        <a href="/contact">contact form</a>.  We use this information to reply to you.
+    </p>
+
+    <p>
+        Like many other websites, we use <a href="http://analytics.google.com/">Google Analytics</a>
+        in addition to basic web server logs.  Both of these collect non-personally-identifiable information about your
+        web browser and computer.  We use this information to determine which web browsers and operating systems to support.
+    </p>
+
+    <p>
+        We also collect non-personally-identifiable information about your exercise answers.
+        We use this information to analyze which questions and topics students have difficulty understanding.
+    </p>
+</div>
+
+<div class="row">
+    <h1>Do we use cookies?</h1>
+    <p>
+        We use cookies to persist information such as: lesson view mode, exercise scores, and calculator settings.
+        In addition, Google Analytics uses cookies as part of its data collection process.
+    </p>
+</div>
+
+
+<div class="row">
+    <h1>Do we disclose any information to outside parties?</h1>
+
+    <p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information.
+    This does not include trusted third parties who assist us in operating our website, conducting our business, or
+    servicing you, so long as those parties agree to keep this information confidential. We may also release your
+    information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours
+    or others rights, property, or safety. However, non-personally-identifiable visitor information may be provided to other
+    parties for marketing, advertising, or other uses.</p>
+</div>
+
+<div class="row">
+    <h1>Third party links</h1>
+    <p>
+        Occasionally, at our discretion, we may include links to third party products or services on our website.
+        These third party sites have separate and independent privacy policies. We therefore have no responsibility or
+        liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity
+        of our site and welcome any feedback about these sites.
+    </p>
+</div>
+
+<div class="row">
+    <h1>California Online Privacy Protection Act Compliance</h1>
+
+    <p>
+        Because we value your privacy we have taken the necessary precautions to be in compliance with the California
+        Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties
+        without your consent.
+    </p>
+</div>
+
+<div class="row">
+    <h1>Childrens Online Privacy Protection Act Compliance</h1>
+
+    <p>
+        We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any
+        information from anyone under 13 years of age.  Our website, products and services are all directed to people who are at
+        least 13 years old or older.
+    </p>
+</div>
+
+<div class="row">
+    <h1>Your Consent</h1>
+    <p>By using our site, you consent to our web site privacy policy.</p>
+</div>
+
+<div class="row">
+    <h1>Changes to our Privacy Policy</h1>
+    <p>If we decide to change our privacy policy, we will post those changes on this page.</p>
+</div>
+
+</section>
+
+</div>
+</div>
+
+<footer>
+    <p><a class="footer-link" href="/legal">Legal</a> <a class="footer-link" href="/privacy">Privacy</a> <a class="footer-link" href="/donate">Donate</a></p>
+    <span id="copyright" class="copyright">Copyright © 2000-2011 musictheory.net, LLC</span><br>
+    <a href="/legal">Some content</a> licensed under the <a href="http://creativecommons.org/licenses/by/3.0/" rel="license">Creative Commons Attribution 3.0 License</a>.<br>
+</footer>
+</div>
+
+</body></html>
