@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the talksport.co.uk privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230020353id_/http%3A//www.talksport.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talksport.co.uk privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123163614id_/http%3A//www.talksport.co.uk/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | talkSPORT
+# About: Privacy Policy | Radio talkSPORT
 
 At talkSPORT, we respect your privacy. Here's our promise (dated July 2010):
 
