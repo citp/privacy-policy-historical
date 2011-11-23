@@ -1,17 +1,21 @@
-<!--The following is the downloaded HTML source of the fightarthritispain.org privacy policy that was archived on 2011-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110520211338id_/http%3A//www.fightarthritispain.org/index.asp%3FL1%3D8) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fightarthritispain.org privacy policy that was archived on 2011-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124003748id_/http%3A//www.fightarthritispain.org/index.asp%3FL1%3D31) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
-	<title>Privacy Policy | Fight Arthritis Pain</title>
+	<title>Fight Arthritis Pain</title>
 	<meta name="description" content="">
 	<meta name="keywords" content="">
 
+    <link rel="stylesheet" href="css/skin.css" type="text/css">
 	<link rel="stylesheet" href="css/StyleSheet.css" type="text/css">
 	<link rel="stylesheet" href="css/StyleSheet1.css" type="text/css">
 
+    
+
  	<link type="text/css" media="screen" rel="stylesheet" href="/colorbox/colorbox.css">
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+	<!--script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"-->
+    <script type="text/javascript" src="/jquery/jquery-1.4.2.min.js"></script>
 	<script type="text/javascript" src="/colorbox/jquery.colorbox.js"></script>
 	<script type="text/javascript">
 	    $(document).ready(function () {
@@ -29,7 +33,7 @@
 	        }
 	    }
 	</script>
- 
+
  
 	<script language="JavaScript" type="text/JavaScript">
 	<!--
@@ -120,17 +124,7 @@
 	}
 	//-->
 	</script>
-	
-	<script type="text/javascript">
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
-	try {
-	var pageTracker = _gat._getTracker("UA-2804709-24");
-	pageTracker._trackPageview();
-	} catch(err) {}
-	</script>
+
 
     <script type="text/javascript">
         // this only works for aug - oct
@@ -179,17 +173,222 @@
             var miles = document.getElementById('miles');
             var tenthmiles = document.getElementById('tenthmiles');
 
-            if (miles.value == '0' && tenthmiles.value == '0') {
-                alert('Please enter the number of miles you walked.');
-                return false;
+            var hours = document.getElementById('hours');
+            var minutes = document.getElementById('minutes');
+
+            switch (document.getElementById('activity').value) {
+                case 'a_walking':
+                case 'a_running':
+                    {
+                        if (miles.value == '0' && tenthmiles.value == '0') {
+                            alert('Please enter the number of miles that you covered.');
+                            return false;
+                        }
+                        break;
+                    }
+                default:
+                    {
+                        if (hours.value == '0' && minutes.value == '0') {
+                            alert('Please enter the time that you participated in this activity.');
+                            return false;
+                        }
+                        break;
+                    }
             }
+
 
             return true;
         }
     </script>
+    
+    <link rel="stylesheet" type="text/css" href="/css/anylinkmenu.css">
+    <script type="text/javascript" src="/js/anylinkmenu.js">
+    /***********************************************
+    * AnyLink JS Drop Down Menu v2.0- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+    * This notice MUST stay intact for legal use
+    * Visit Project Page at http://www.dynamicdrive.com/dynamicindex1/dropmenuindex.htm for full source code
+    ***********************************************/
+    </script>
+    
+    <script type="text/javascript">
+    //anylinkmenu.init("menu_anchors_class") //Pass in the CSS class of anchor links (that contain a sub menu)
+    anylinkmenu.init("menuanchorclass")
+    
+    var anylinkmenu1={divclass:'anylinkmenu1', inlinestyle:'width:303px; background:#009999', linktarget:''} //Second menu variable. Same precaution.
+    anylinkmenu1.items=[
+    
+    ["Get Facts on Exercise", "/index.asp?L1=1&L2=4"],
+    ["Plan for Success", "/index.asp?L1=1&L2=7"],
+    ["Move It: Choose an Active Life", "/index.asp?L1=1&L2=8"],
+    ["Learn about OA: Common Questions", "/index.asp?L1=1&L2=12"],
+    ]
+    
+    var anylinkmenu2={divclass:'anylinkmenu2', inlinestyle:'width:334px; background:#00458a', linktarget:''} //Second menu variable. Same precaution.
+    anylinkmenu2.items=[
+    
+    ["Online Community", "/index.asp?L1=2&L2=57"],
+    ["Find Your Local Office", "/index.asp?L1=2&L2=56"],
+    ["The Campaign", "/index.asp?L1=2&L2=25"],
+    ]
+    
+    var anylinkmenu3={divclass:'anylinkmenu3', inlinestyle:'width:303px; background:#660066', linktarget:''} //Second menu variable. Same precaution.
+    anylinkmenu3.items=[
+    
+    ["Tools", "/index.asp?L1=3&L2=55"],
+    ["Websites", "/index.asp?L1=3&L2=59"],
+    ["Books, DVDs & More", "/index.asp?L1=3&L2=64"],
+    ["Newsletters", "/index.asp?L1=3&L2=65"],
+    ]
+    </script>
+    
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-2804709-24");
+	pageTracker._trackPageview();
+	} catch(err) {}
+	</script>
+    
+    <script type="text/javascript" src="jquery/jquery.jcarousel.min.js"></script>
+     <script type="text/javascript">
+
+         jQuery(document).ready(function () {
+             jQuery('#mycarousel').jcarousel({ wrap: 'both', buttonNextHTML: '<div>next</div>', buttonPrevHTML: '<div>previous</div>' });
+         });
+ 
+    </script>
+
+    <link rel="stylesheet" type="text/css" href="jquery/tipsy-0.1.7/src/stylesheets/tipsy.css">
+    <script type="text/javascript" src="jquery/tipsy-0.1.7/src/javascripts/jquery.tipsy.js"></script>
+
+    <script type="text/javascript">
+        $(function () {
+            $('#a_walking').tipsy({ gravity: 's' });
+            $('#a_baseball').tipsy({ gravity: 's' });
+            $('#a_biking').tipsy({ gravity: 's' });
+            $('#a_canoeing').tipsy({ gravity: 's' });
+            $('#a_golf').tipsy({ gravity: 's' });
+            $('#a_running').tipsy({ gravity: 's' });
+            $('#a_swimming').tipsy({ gravity: 's' });
+            $('#a_tennis').tipsy({ gravity: 's' });
+            $('#a_volleyball').tipsy({ gravity: 's' });
+            $('#a_weightlifting').tipsy({ gravity: 's' });
+            $('#a_yoga').tipsy({ gravity: 's' });
+        });
+    </script>
+
+
+    <script type="text/javascript">
+        function setActivity(id) {
+            if (id != 'a_walking')
+                document.getElementById('a_walking').childNodes[0].className = '';
+            if (id != 'a_baseball')
+                document.getElementById('a_baseball').childNodes[0].className = '';
+            if (id != 'a_biking')
+                document.getElementById('a_biking').childNodes[0].className = '';
+            if (id != 'a_canoeing')
+                document.getElementById('a_canoeing').childNodes[0].className = '';
+            if (id != 'a_golf')
+                document.getElementById('a_golf').childNodes[0].className = '';
+            if (id != 'a_running')
+                document.getElementById('a_running').childNodes[0].className = '';
+            if (id != 'a_swimming')
+                document.getElementById('a_swimming').childNodes[0].className = '';
+            if (id != 'a_tennis')
+                document.getElementById('a_tennis').childNodes[0].className = '';
+            if (id != 'a_volleyball')
+                document.getElementById('a_volleyball').childNodes[0].className = '';
+            if (id != 'a_weightlifting')
+                document.getElementById('a_weightlifting').childNodes[0].className = '';
+            if (id != 'a_yoga')
+                document.getElementById('a_yoga').childNodes[0].className = '';
+
+            var e = document.getElementById(id);
+            e.childNodes[0].className = 'active';
+
+            document.getElementById('activity').value = id;
+
+            switch (id) {
+                case 'a_walking':
+                case 'a_running':
+                    {
+                        document.getElementById('lblTime').style['display'] = 'none';
+                        document.getElementById('lblMiles').style['display'] = '';
+                        break;
+                    }
+                default:
+                    {
+                        document.getElementById('lblMiles').style['display'] = 'none';
+                        document.getElementById('lblTime').style['display'] = '';
+                        break;
+                    }
+            }
+        }
+    </script>
+    
+	<script type="text/javascript">
+    
+    function theRotator() {
+        //Set the opacity of all images to 0
+        $('div.rotator ul li').css({opacity: 0.0});
+        
+        //Get the first image and display it (gets set to full opacity)
+        $('div.rotator ul li:first').css({opacity: 1.0});
+            
+        //Call the rotator function to run the slideshow, 6000 = change to next image after 6 seconds
+        
+        setInterval('rotate()',6000);
+        
+    }
+    
+    function rotate() {	
+        //Get the first image
+        var current = ($('div.rotator ul li.show')?  $('div.rotator ul li.show') : $('div.rotator ul li:first'));
+    
+        if ( current.length == 0 ) current = $('div.rotator ul li:first');
+    
+        //Get next image, when it reaches the end, rotate it back to the first image
+        var next = ((current.next().length) ? ((current.next().hasClass('show')) ? $('div.rotator ul li:first') :current.next()) : $('div.rotator ul li:first'));
+        
+        //Un-comment the 3 lines below to get the images in random order
+        
+        //var sibs = current.siblings();
+            //var rndNum = Math.floor(Math.random() * sibs.length );
+            //var next = $( sibs[ rndNum ] );
+                
+    
+        //Set the fade in effect for the next image, the show class has higher z-index
+        next.css({opacity: 0.0})
+        .addClass('show')
+        .animate({opacity: 1.0}, 1000);
+    
+        //Hide the current image
+        current.animate({opacity: 0.0}, 1000)
+        .removeClass('show');
+        
+    };
+    
+    
+    
+    $(document).ready(function() {		
+        //Load the slideshow
+        theRotator();
+        $('div.rotator').fadeIn(1000);
+        $('div.rotator ul li').fadeIn(1000); // tweek for IE
+    });
+    
+    </script>
+    
+    
+    
+    
+    
 </head>
 
-<body link="#999999" alink="#999999" vlink="#999999">
+<body link="#999999" alink="#999999" vlink="#999999"><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px;"></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; top:0; left:0; width:9999px; height:0;"></div></div>
 <div id="fb-root"></div>
                         <script src="http://connect.facebook.net/en_US/all.js"></script>
                         <script>
@@ -203,89 +402,111 @@
                             
 
 
-                        </script>
+</script>
+
 <center>
 
 <table width="950" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
+	
 	<td style="background-image:url(/images/bg_main.gif);background-repeat:no-repeat">
 	<table width="950" cellpadding="0" cellspacing="0" border="0" id="Table1">
 	<tbody><tr>
 		<td>
 		<table width="100%" cellpadding="0" cellspacing="0" border="0" id="Table14">
 		<tbody><tr>
-			
-				<td align="left">
-				<table cellpadding="0" cellspacing="0" border="0" id="Table32">
-				<tbody><tr>
-					<td><img src="images/dot.gif" width="20" height="41" border="0" alt=""></td>
-					<td><a href="/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav_home','','images/nav_home-over.gif',1)"><img name="nav_home" src="images/nav_home-off.gif" width="97" height="13" border="0" alt="Link to Homepage"></a></td>
-				</tr>
-				</tbody></table></td>
-				
-			<td align="right">
+			<td align="left">
 			<table cellpadding="0" cellspacing="0" border="0" id="Table29">
 			<tbody><tr>
-				<td class="size">
-				Change Font Size:
-				<a href="resize.asp?L1=8&amp;L2=&amp;L3=&amp;size=1" class="size1">A</a>
-				<a href="resize.asp?L1=8&amp;L2=&amp;L3=&amp;size=2" class="size2">A</a>
-				<a href="resize.asp?L1=8&amp;L2=&amp;L3=&amp;size=3" class="size3">A</a>
-				</td>
-				<td><img src="images/dot.gif" width="20" height="41" border="0" alt=""></td>
-				<td><a tabindex="1000" class="addthis_button" href="http://addthis.com/bookmark.php?v=250&amp;username=xa-4b4bd4397c4f0c91"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4b4bd4397c4f0c91"></script></td>
-				<td><img src="images/dot.gif" width="20" height="41" border="0" alt=""></td>
+			
+                <td><a href="/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav_home','','images/nav_home-over.gif',1)"><img name="nav_home" src="images/nav_home-off.gif" width="140" height="30" border="0" alt="Link to Homepage"></a></td>
+                
+			</tr>
+            <tr>
+            	<td><a href="/"><img src="images/logo.gif" width="540" height="50" border="0" alt="FightArthritisPain.org"></a></td>
+            </tr>
+            </tbody></table></td>
+            
+			<td align="right" valign="top">
+            
+			<table cellpadding="0" cellspacing="0" border="0" id="Table29">
+			<tbody><tr>
+            	<td><img src="images/dot.gif" width="1" height="12" border="0" alt=""></td>
+            </tr>
+            <tr>
+				<td align="right">
+                <table cellpadding="0" cellspacing="0" border="0" id="Table23">
+                <tbody><tr>
+                    <td><a href="http://community.arthritis.org/" target="_blank"><img src="images/icon_social_af.png" width="30" height="30" border="0" alt="Link to Arthritis Foundation Community"></a></td>
+                    <td><img src="images/dot.gif" width="5" height="1" border="0" alt=""></td>
+                    <td><a href="http://www.facebook.com/pages/Arthritis-Foundation/25986728672" target="_blank"><img src="images/icon_social_fb.png" width="30" height="30" border="0" alt="Link to Facebook"></a></td>
+                    <td><img src="images/dot.gif" width="5" height="1" border="0" alt=""></td>
+                    <td><a href="http://www.myspace.com/thearthritisfoundation" target="_blank"><img src="images/icon_social_ms.png" width="30" height="30" border="0" alt="Link to MySpace"></a></td>
+                	<td><img src="images/dot.gif" width="20" height="1" border="0" alt=""></td>
+                </tr>
+                </tbody></table></td>
+			</tr>
+			<tr>
+            	<td><img src="images/dot.gif" width="1" height="10" border="0" alt=""></td>
+            </tr>
+            <tr>
+				<td align="right">
+                <table cellpadding="0" cellspacing="0" border="0" id="Table29">
+                <tbody><tr>
+                    <td class="size">
+                    Change Font Size:
+                    <a href="resize.asp?L1=31&amp;L2=&amp;L3=&amp;size=1" class="size1">A</a>
+                    <a href="resize.asp?L1=31&amp;L2=&amp;L3=&amp;size=2" class="size2">A</a>
+                    <a href="resize.asp?L1=31&amp;L2=&amp;L3=&amp;size=3" class="size3">A</a>
+                    </td>
+                    <td><img src="images/dot.gif" width="20" height="1" border="0" alt=""></td>
+                    <td><a tabindex="1000" class="addthis_button" href="http://addthis.com/bookmark.php?v=250&amp;username=xa-4b4bd4397c4f0c91"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4b4bd4397c4f0c91"></script></td>
+                    <td><img src="images/dot.gif" width="20" height="1" border="0" alt=""></td>
+                </tr>
+                </tbody></table></td>
 			</tr>
 			</tbody></table></td>
 		</tr>
 		</tbody></table></td>
 	</tr>
+    <tr>
+        <td><img src="images/dot.gif" width="1" height="5" border="0" alt=""></td>
+    </tr>
 	<tr>
 		<td>
-		<table cellpadding="0" cellspacing="0" border="0" id="Table15">
-		<tbody><tr>
-			<td><a tabindex="1" href="index.asp?L1=2" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav_2','','images/nav_2-over.gif',1)" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('nav_2','','images/nav_2-over.gif',1)"><img name="nav_2" src="images/nav_2-off.gif" width="101" height="39" border="0" alt="Link to Fight Osteoarthritis"></a></td>
-			<td><img src="images/nav_divider.gif" width="1" height="39" border="0" alt=""></td>
-			<td><a tabindex="2" href="index.asp?L1=1" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav_1','','images/nav_1-over.gif',1)" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('nav_1','','images/nav_1-over.gif',1)"><img name="nav_1" src="images/nav_1-off.gif" width="201" height="39" border="0" alt="Link to Osteoarthritis Basics"></a></td>
-			<td><img src="images/nav_divider.gif" width="1" height="39" border="0" alt=""></td>
-			<td><a tabindex="3" href="index.asp?L1=3" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav_3','','images/nav_3-over.gif',1)" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('nav_3','','images/nav_3-over.gif',1)"><img name="nav_3" src="images/nav_3-off.gif" width="168" height="39" border="0" alt="Link to Online Support"></a></td>
-			<td><img src="images/nav_divider.gif" width="1" height="39" border="0" alt=""></td>
-			<td><a tabindex="4" href="index.asp?L1=4" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav_4','','images/nav_4-over.gif',1)" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('nav_4','','images/nav_4-over.gif',1)"><img name="nav_4" src="images/nav_4-off.gif" width="226" height="39" border="0" alt="Link to Local Events and Programs"></a></td>
-			<td><img src="images/nav_divider.gif" width="1" height="39" border="0" alt=""></td>
-			<td><a tabindex="5" href="index.asp?L1=5" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav_5','','images/nav_5-over.gif',1)" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('nav_5','','images/nav_5-over.gif',1)"><img name="nav_5" src="images/nav_5-off.gif" width="111" height="39" border="0" alt="Link to Resources"></a></td>
-			<td><img src="images/nav_divider.gif" width="1" height="39" border="0" alt=""></td>
-			<td><a tabindex="6" href="index.asp?L1=6" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('nav_6','','images/nav_6-over.gif',1)" onblur="MM_swapImgRestore()" onfocus="MM_swapImage('nav_6','','images/nav_6-over.gif',1)"><img name="nav_6" src="images/nav_6-off.gif" width="138" height="39" border="0" alt="Link to Media Spotlight"></a></td>
-		</tr>
-		</tbody></table></td>
+        <table cellpadding="0" cellspacing="0" border="0" id="Table15">
+        <tbody><tr>
+            <td align="left"><a href="/index.asp?L1=1" tabindex="1" class="menuanchorclass" rel="anylinkmenu1" data-image="/images/nav_1-off.gif" data-overimage="/images/nav_1-over.gif"><img src="/images/nav_1-off.gif" width="303" height="70" border="0" alt="Link to Take Action"></a></td>
+            <td><img src="images/dot.gif" width="5" height="70" border="0" alt=""></td>
+            <td align="left"><a href="/index.asp?L1=2" tabindex="2" class="menuanchorclass" rel="anylinkmenu2" data-image="/images/nav_2-off.gif" data-overimage="/images/nav_2-over.gif"><img src="/images/nav_2-off.gif" width="334" height="70" border="0" alt="Link to Get Involved"></a></td>
+            <td><img src="images/dot.gif" width="5" height="70" border="0" alt=""></td>
+            <td align="left"><a href="/index.asp?L1=3" tabindex="3" class="menuanchorclass" rel="anylinkmenu3" data-image="/images/nav_3-off.gif" data-overimage="/images/nav_3-over.gif"><img src="/images/nav_3-off.gif" width="303" height="70" border="0" alt="Link to Tools"></a></td>
+        </tr>
+        </tbody></table></td>
 	</tr>
+    <tr>
+        <td><img src="images/dot.gif" width="1" height="5" border="0" alt=""></td>
+    </tr>
+	
 	<tr>
 		<td>
-		
+        
 			<table width="950" cellpadding="0" cellspacing="0" border="0">
 			<tbody><tr>
 				<td valign="top" width="183">
 				<table width="183" cellpadding="0" cellspacing="0" border="0" id="Table5">
 				<tbody><tr>
-					<td><img src="images/dot.gif" width="183" height="45" border="0" alt=""></td>
-				</tr>
-				<tr>
-					<td><a href="/"><img src="images/logo_internal.gif" width="183" height="40" border="0" alt="Arthritis Foundation logo : Link to Homepage"></a></td>
-				</tr>
-				<tr>
-					<td><img src="images/dot.gif" width="183" height="25" border="0" alt=""></td>
-				</tr>
-				<tr>
 					<td>
 					<table width="183" cellpadding="0" cellspacing="0" border="0" id="Table2">
 					<tbody><tr>
-						<td align="right">
+						<td align="left">
 						<table cellpadding="0" cellspacing="0" border="0" id="Table8">
 						<tbody><tr>
-							<td align="right" valign="middle">
+                            <td valign="middle">
                             <table cellpadding="0" cellspacing="0" border="0" id="Table8">
 							
                             </table></td>
-							<td><img src="images/dot.gif" alt="" width="17" height="180" border="0"></td>
+                            <td><img src="images/dot.gif" alt="" width="5" height="182" border="0"></td>
 						</tr>
 						</tbody></table></td>
 					</tr>
@@ -304,29 +525,36 @@
 				<!--note: 750 max width-->
 				<table width="100%" cellpadding="0" cellspacing="0" border="0" id="Table4">
 				<tbody><tr>
-					<td><img src="images/dot.gif" alt="" width="1" height="45" border="0"></td>
+					<td><img src="images/dot.gif" alt="" width="1" height="10" border="0"></td>
 				</tr>
 				<tr>
 					<td>
 					<table width="100%" cellpadding="0" cellspacing="0" border="0" id="Table11">
-					<tbody><tr>
-						<td width="25"><img src="images/corner_tl.png" alt="" width="25" height="25" border="0"></td>
-						<td background="images/side_t.png"><img src="images/dot.gif" alt="" width="1" height="25" border="0"></td>
-						<td width="25"><img src="images/corner_tr.png" alt="" width="25" height="25" border="0"></td>
-					</tr>
-					<tr>
-						<td background="images/side_l.png" valign="top"><img src="images/dot.gif" alt="" width="25" height="500" border="0"></td>
-						<td bgcolor="#ffffff" valign="top">
-						<table width="100%" cellpadding="0" cellspacing="0" border="0">
+                    
 						<tbody><tr>
-							<td valign="top">
-							
-								<h1>Privacy Policy</h1>
-								
-							</td>
-							<td valign="top" align="right"><a href="/print.asp?L1=8&amp;L2=&amp;L3=" target="_blank"><img src="/images/but_print.gif" border="0" alt="Print Page"></a></td>
+							<td width="25"><img src="images/corner_tl.png" alt="" width="25" height="25" border="0"></td>
+							<td background="images/side_t.png"><img src="images/dot.gif" alt="" width="1" height="25" border="0"></td>
+							<td width="25"><img src="images/corner_tr.png" alt="" width="25" height="25" border="0"></td>
 						</tr>
-						</tbody></table>
+						
+                    <tr>
+						<td background="images/side_l.png" valign="top"><img src="images/dot.gif" alt="" width="25" height="500" border="0"></td>
+                        <td bgcolor="#ffffff" valign="top">
+						
+                        
+							<table width="100%" cellpadding="0" cellspacing="0" border="0">
+							<tbody><tr>
+								<td valign="top">
+								
+									<h1>Privacy</h1>
+									
+								</td>
+								<td valign="top" align="right"><a href="/print.asp?L1=31&amp;L2=&amp;L3=" target="_blank"><img src="/images/but_print.gif" border="0" alt="Print Page"></a></td>
+							</tr>
+							</tbody></table>
+							
+                        
+                        
 						<p>
 						</p><table cellpadding="0" cellspacing="0" border="0" id="Table12">
 						<tbody><tr>
@@ -388,11 +616,20 @@
 						<td background="images/side_b.png" valign="top"><img src="images/dot.gif" alt="" width="1" height="25" border="0"></td>
 						<td><img src="images/corner_br.png" alt="" width="25" height="25" border="0"></td>
 					</tr>
-					</tbody></table></td>	
-					
+					</tbody></table></td>
 				</tr>
 				</tbody></table></td>
-				<td valign="top"><img src="images/dot.gif" width="17" height="110" border="0" alt=""></td>
+				
+                    <td valign="top">
+                    <table cellpadding="0" cellspacing="0" border="0" id="Table7">
+                    
+                    <tbody><tr>
+                        <td valign="top"><a href="/index.asp?L1=3&amp;L2=55&amp;L3=29"><img src="/images/callouts/right_onlineassessment.gif" alt="Online Assessment Tool" width="180" border="0"></a></td>
+                    </tr>
+                    
+                    </tbody></table></td>
+                    
+				<td valign="top"><img src="images/dot.gif" width="17" height="1" border="0" alt=""></td>
 			</tr>
 			</tbody></table>
 			
@@ -411,34 +648,22 @@
 		<td>
 		<table width="100%" cellpadding="0" cellspacing="0" border="0" id="Table6">
 		<tbody><tr>
-			<td valign="top" class="footer">
-			<table cellpadding="0" cellspacing="0" border="0" id="Table23">
-			<tbody><tr>
-				<td><a href="http://community.arthritis.org/" target="_blank"><img src="images/icon_social_af.png" width="30" height="30" border="0" alt="Link to Arthritis Foundation Community"></a></td>
-				<td><img src="images/dot.gif" width="5" height="1" border="0" alt=""></td>
-                <!--
-				<td><a href="http://twitter.com/FightOAPain" target="_blank"><img src="images/icon_social_tw.png" width="30" height="30" border="0" alt="Link to Twitter"></a></td>
-				<td><img src="images/dot.gif" width="5" height="1" border="0" alt=""></td>
-                -->
-				<td><a href="http://www.facebook.com/pages/Arthritis-Foundation/25986728672" target="_blank"><img src="images/icon_social_fb.png" width="30" height="30" border="0" alt="Link to Facebook"></a></td>
-				<td><img src="images/dot.gif" width="5" height="1" border="0" alt=""></td>
-				<td><a href="http://www.myspace.com/thearthritisfoundation" target="_blank"><img src="images/icon_social_ms.png" width="30" height="30" border="0" alt="Link to MySpace"></a></td>
-			</tr>
-			</tbody></table>
-			<br>
-			Copyright © 2011 Arthritis Foundation. All Rights Reserved.<br>
-			<a href="index.asp?L1=6&amp;L2=30">About the Arthritis Foundation</a> -
-			<a href="index.asp?L1=6&amp;L2=31">Partners</a> -
-			<a href="index.asp?L1=7">Terms of Service</a> -
-			<a href="index.asp?L1=8">Privacy Policy</a> -
-			<a href="index.asp?L1=9">Contact Us</a>
+			<td valign="bottom" class="footer">
+			Copyright © 2011 Arthritis Foundation. All Rights Reserved.<br><br>
+			<a href="/index.asp?L1=24">About the Arthritis Foundation</a> -
+            <a href="/index.asp?L1=2&amp;L2=56">Find Your Local Office</a> -
+            <a href="/index.asp?L1=2&amp;L2=25">The Campaign</a> -
+			<a href="/index.asp?L1=26">Partners</a> -
+			<a href="/index.asp?L1=27">Terms of Use</a> -
+			<a href="/index.asp?L1=31">Privacy</a> -
+			<a href="/index.asp?L1=28">Contact Us</a>
 			</td>
             
-			<td valign="top" align="right">
+			<td valign="bottom" align="right">
 			<table cellpadding="0" cellspacing="0" border="0" id="Table27">
 			<tbody><tr>
 				<td><a href="http://www.adcouncil.org" target="_blank" onclick="javascript:pageTracker._trackPageview('http://www.adcouncil.org');"><img src="images/logo_ac.gif" width="55" height="40" border="0" alt="Link to the Ad Council"></a></td>
-				<td><a href="http://www.fightarthritispain.org/index.asp?L1=6&amp;L2=30"><img src="images/logo_af.gif" width="156" height="40" border="0" alt="Link to the Arthritis Foundation"></a></td>
+				<td><a href="/index.asp?L1=6&amp;L2=30"><img src="images/logo_af.gif" width="156" height="40" border="0" alt="Link to the Arthritis Foundation"></a></td>
 			</tr>
 			</tbody></table></td>
             
@@ -493,4 +718,21 @@ _tag.dcsCollect();
 <!-- END OF SmartSource Data Collector TAG -->
 
 
-</body></html>
+<div class="anylinkmenu1" style="width: 303px; background: rgb(0, 153, 153);"><ul>
+<li><a href="/index.asp?L1=1&amp;L2=4" target="">Get Facts on Exercise</a></li>
+<li><a href="/index.asp?L1=1&amp;L2=7" target="">Plan for Success</a></li>
+<li><a href="/index.asp?L1=1&amp;L2=8" target="">Move It: Choose an Active Life</a></li>
+<li><a href="/index.asp?L1=1&amp;L2=12" target="">Learn about OA: Common Questions</a></li>
+
+</ul></div><div class="anylinkshadow" style="width: 303px; height: 164px; opacity: 0.3;"></div><div class="anylinkmenu2" style="width: 334px; background: rgb(0, 69, 138);"><ul>
+<li><a href="/index.asp?L1=2&amp;L2=57" target="">Online Community</a></li>
+<li><a href="/index.asp?L1=2&amp;L2=56" target="">Find Your Local Office</a></li>
+<li><a href="/index.asp?L1=2&amp;L2=25" target="">The Campaign</a></li>
+
+</ul></div><div class="anylinkshadow" style="width: 334px; height: 123px; opacity: 0.3;"></div><div class="anylinkmenu3" style="width: 303px; background: rgb(102, 0, 102);"><ul>
+<li><a href="/index.asp?L1=3&amp;L2=55" target="">Tools</a></li>
+<li><a href="/index.asp?L1=3&amp;L2=59" target="">Websites</a></li>
+<li><a href="/index.asp?L1=3&amp;L2=64" target="">Books, DVDs &amp; More</a></li>
+<li><a href="/index.asp?L1=3&amp;L2=65" target="">Newsletters</a></li>
+
+</ul></div><div class="anylinkshadow" style="width: 303px; height: 164px; opacity: 0.3;"></div></body></html>
