@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellplayed.org privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502154958id_/http%3A//wellplayed.org/forum/113/thread/120/show) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellplayed.org privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123083740id_/http%3A//wellplayed.org//forum/announcements/thread/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Announcements - WellPlayed.org: Where eSports Lives
 
