@@ -1,22 +1,6 @@
-> *The following text is extracted and transformed from the runyourpool.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525214124id_/http%3A//www.runyourpool.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runyourpool.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123052051id_/http%3A//www.runyourpool.com/privacy.cfm) for the most accurate reproduction.*
 
-# Run your March Madness Pool at runyourpool.com
-
-  
-
-
-**  Pool Login**
-
-for existing members
-
-  
-  
-  
-  
-|   |    
-
-
-### Privacy Statement
+# Run your NFL Football Pool at runyourpool.com
 
 It is the policy of runyourpool.com that personal information, such as your name and email address, is private and confidential. Because your privacy is important to us, runyourpool.com maintains this website privacy statement to protect your personal information. By using this site, you consent to the terms of our privacy policy for the collection, use and disclosure of your personal information for the purposes set out below. We do not collect, use or disclose your personal information for any purpose other than those identified below, except with your consent or as required by law. 
 
