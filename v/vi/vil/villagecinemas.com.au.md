@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the villagecinemas.com.au privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629142119id_/http%3A//villagecinemas.com.au/About-Village-Cinemas/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villagecinemas.com.au privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123165021id_/http%3A//villagecinemas.com.au/About-Village-Cinemas/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Village Cinemas
 
@@ -152,14 +152,22 @@ If Village withholds access to Personal Information, Village will consider wheth
 
 Village may from time to time employ subcontractors to provide services to it. In these situations, Personal Information may be collected about those subcontractors. This Privacy Policy applies equally to those subcontractors.
 
-### 10\. WHO TO CONTACT
+**
+
+### 10\. BEHAVIOURAL TARGETING
+
+**
+
+Telstra's digital advertising network is responsible for placing some of the advertising on this site. To make this advertising more relevant to you, anonymous information about the previous web browsing activity of your computer on sites within Telstra's network is collected and used to associate your computer with one or more pre-defined interest categories. Advertising that matches those interest categories may then be served to your computer. This interest based advertising does not change the amount of advertising you receive, it just makes it more relevant. You can learn more about the interest based advertising conducted by Telstra [here](http://www.telstra.com.au/privacy/interest-based-advertising/). General information about interest based advertising is available from the industry website [www.youronlinechoices.com.au](http://www.youronlinechoices.com.au/), and you can also opt out of some or all interest based advertising [here](http://www.youronlinechoices.com.au/opt-out).
+
+### 11\. WHO TO CONTACT
 
 If you have any queries with respect to this Privacy Policy please contact our Privacy Officer at Village Roadshow Limited, Level 1/500 Chapel Street, South Yarra, Victoria, 3141 or by email at privacy@roadshow.com.au.
 
-### 11\. MODIFICATIONS TO THIS DOCUMENT
+### 12\. MODIFICATIONS TO THIS DOCUMENT
 
 Village may modify this Privacy Policy and the way it handles Personal Information at any time in its sole discretion.
 
-### 12\. FURTHER INFORMATION
+### 13\. FURTHER INFORMATION
 
-Further information on privacy can be obtained from the Privacy Commissioner at [www.privacy.gov.au](https://web.archive.org/web/20110629142119id_/http%3A//villagecinemas.com.au/About-Village-Cinemas/www.privacy.gov.au).
+Further information on privacy can be obtained from the Privacy Commissioner at [www.privacy.gov.au](https://web.archive.org/web/20111123165021id_/http%3A//villagecinemas.com.au/About-Village-Cinemas/www.privacy.gov.au).
