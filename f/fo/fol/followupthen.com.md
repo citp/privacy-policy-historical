@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the followupthen.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230122555id_/http%3A//www.followupthen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followupthen.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123213910id_/http%3A//www.followupthen.com/privacy) for the most accurate reproduction.*
 
-# FollowUpThen: Free, Fast and Simple Email Reminder
+# Privacy Policy | FollowUpThen
 
 ##  Privacy Policy 
 
 Your privacy is very important to us. We have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
-**We automatically delete your email contents once the followup has been sent, as well as your recipient's email address.**
+**We automatically delete your email contents after the followup has been sent, as well as your recipient's email address. To provide for the ability to reschedule a followup that has been sent, deletion may occur several days or weeks following the completion of the followup.**
 
   * We will not sell your email address or other personal information to 3rd party entities for marketing purposes.
   * You can unsubscribe from all mailings at any time by emailing us at info@followupthen.com
