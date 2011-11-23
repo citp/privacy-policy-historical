@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the installmonetizer.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518141612id_/http%3A//www.installmonetizer.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the installmonetizer.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123152824id_/http%3A//www.installmonetizer.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Make Money With Installs - InstallMonetizer.com
 
@@ -25,10 +25,10 @@ INFORMATION SECURITY:
 We endeavor to take security measures to guard against unauthorized access to the systems where we store your data. This includes internal reviews of our data collection, storage, and processing practices and security measures and physical security measures. However, despite the measures we take we cannot warrant the security of any information provided to us. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.
 
 UPDATING YOUR INFORMATION:  
-You may update your information by logging into your account and updating the information. You may request deletion of your InstallMonetizer account by sending an e-mail to [support@installmonetizer.com](https://web.archive.org/web/20110518141612id_/http%3A//www.installmonetizer.com/ContactUs.php) Please include your account logins for verification. Please note that some information may remain in our records after deletion of your account.
+You may update your information by logging into your account and updating the information. You may request deletion of your InstallMonetizer account by sending an e-mail to [support@installmonetizer.com](https://web.archive.org/web/20111123152824id_/http%3A//www.installmonetizer.com/ContactUs.php) Please include your account logins for verification. Please note that some information may remain in our records after deletion of your account.
 
 POLICY CHANGES: We may make changes to this policy from time to time. It is your responsibility to review this policy periodically.
 
 Feedback, or questions, please contact us:  
-Email: [support@installmonetizer.com](https://web.archive.org/web/20110518141612id_/http%3A//www.installmonetizer.com/ContactUs.php)  
+Email: [support@installmonetizer.com](https://web.archive.org/web/20111123152824id_/http%3A//www.installmonetizer.com/ContactUs.php)  
 Address: InstallMonetizer 5655 Silver Creek Vly Rd 615 San Jose, CA 95138 
