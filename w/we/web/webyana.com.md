@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webyana.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514153351id_/http%3A//www.webyana.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webyana.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123115958id_/http%3A//www.webyana.com/privacy) for the most accurate reproduction.*
 
 # Webyana - Affordable Solutions for Small Businesses
 
