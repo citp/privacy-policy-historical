@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stitcher.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529160409id_/http%3A//stitcher.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stitcher.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123121355id_/http%3A//stitcher.com/privacy.php) for the most accurate reproduction.*
 
 # Stitcher.com - Privacy
 
@@ -28,6 +28,6 @@ Our sites contain hyperlinks and pointers to Internet sites maintained by third 
 
 We may make changes in our privacy policy from time to time. When we do so, we will post the revised privacy policy on our sites with a link at the bottom of our home page. Our home page will also contain a statement notifying readers that the policy has change d and the effective date of that change. 
 
-We would like to receive your comments and questions about this Privacy Policy and any other matter you have regarding our sites. Please address comments or questions to us via e-mail or postal mail. You can send e-mails to: support@stitcher.com You may also contact us by mail: Stitcher, Inc., Pier 9, Building 116, San Francisco, CA 94109 
+We would like to receive your comments and questions about this Privacy Policy and any other matter you have regarding our sites. Please address comments or questions to us via e-mail or postal mail. You can send e-mails to: support@stitcher.com You may also contact us by mail: Stitcher, Inc., 121 2nd St., Suite 600, San Francisco, CA 94105 
 
 Your use of our sites is subject to this Privacy Policy. BY USING OUR SITE, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY POLICY. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the policy has been modified since you last reviewed it. Your continued use of any portion of our sites following posting of the updated Privacy Policy will constitute your acceptance of the changes. 
