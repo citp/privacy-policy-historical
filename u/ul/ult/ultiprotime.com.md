@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultiprotime.com privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225010751id_/http%3A//www.ultimatesoftware.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultiprotime.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123080159id_/http%3A//www.ultimatesoftware.com/privacy.asp) for the most accurate reproduction.*
 
 # Ultimate Software Privacy Policy
 
