@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kmart.com.au privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525060820id_/http%3A//shop.kmart.com.au/webapp/wcs/stores/servlet/ContentDisplay%3FstoreId%3D10701%26catalogId%3D10051%26langId%3D-1%26t%3DfooterContent%26c%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmart.com.au privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123104112id_/http%3A//shop.kmart.com.au/webapp/wcs/stores/servlet/ContentDisplay%3FstoreId%3D10701%26catalogId%3D10051%26langId%3D-1%26t%3DfooterContent%26c%3DPrivacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kmart Online Retail
 
@@ -45,7 +45,7 @@ To access your information please write to our customer service department at: 6
 
 ### Direct Marketing
 
-If you do not wish to be contacted by Kmart (about special offers, discounts or other promotional events) write to Kmart customer relations at 690 Springvale Road, Mulgrave 3170 VIC, email at [onlineshop@kmart.com.au](mailto:onlineshop@kmart.com.au) or call on 1800 051 800. 
+If you do not wish to be contacted by Kmart (about special offers, discounts, other promotional events or to participate in any surveys) write to Kmart customer relations at 690 Springvale Road, Mulgrave 3170 VIC, email at [onlineshop@kmart.com.au](mailto:onlineshop@kmart.com.au) or call on 1800 051 800. 
 
 ### Cookies and how they work
 
