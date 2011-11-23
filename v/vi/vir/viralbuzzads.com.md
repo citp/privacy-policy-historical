@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the viralbuzzads.com privacy policy that was archived on 2011-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110208211146id_/http%3A//viralbuzzads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralbuzzads.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123092217id_/http%3A//viralbuzzads.com/privacy.php) for the most accurate reproduction.*
 
-# Viral Buzz Ads!
+# ViralBuzzAds | Social Media Marketing & Daily Pay
 
-[](http://viralbuzzads.com/bannerclick2.php?id=1)  
+[](http://viralbuzzads.com/bannerclick.php?id=136)  
 
 
 Viral Buzz Ads Privacy Policy
