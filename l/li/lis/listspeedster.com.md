@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listspeedster.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506053926id_/http%3A//listspeedster.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listspeedster.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123213050id_/http%3A//listspeedster.com/privacy.php) for the most accurate reproduction.*
 
 # List Speedster! List Builder and Mailer :: Email Advertising
 
@@ -35,4 +35,4 @@ Links: This web site contains links to other web sites. Please note that when yo
   
 Copyright (c) 2009-2010 ListSpeedster All Rights Reserved 
 
-[Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php)| 
+[Terms and Conditions](https://web.archive.org/web/20111123213050id_/http%3A//terms.php) | [Earnings Disclaimer](https://web.archive.org/web/20111123213050id_/http%3A//earnings.php) | [ Spam Policy](https://web.archive.org/web/20111123213050id_/http%3A//spam.php) | [ Privacy Policy](https://web.archive.org/web/20111123213050id_/http%3A//privacy.php)
