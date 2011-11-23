@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the motherdaughterfuck.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528095725id_/http%3A//secure.motherdaughterfuck.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherdaughterfuck.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123163515id_/http%3A//track.motherdaughterfuck.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 **Mother Daughter Fuck**
 
 **PRIVACY POLICY STATEMENT**  
+  
   
 
 
