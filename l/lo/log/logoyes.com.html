@@ -1,0 +1,497 @@
+<!--The following is the downloaded HTML source of the logoyes.com privacy policy that was archived on 2011-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123162654id_/http%3A//logoyes.com/privacy-policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<title>Privacy Policy | LogoYes</title>
+	<meta name="description" content="The LogoYes Privacy Policy">
+	<meta name="keywords" content="LogoYes logo privacy policy">
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">	
+	
+	<link rel="stylesheet" type="text/css" href="style/style.css">
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/jquery.tools.min.js"></script>
+	<script type="text/javascript" src="js/scrollable.js"></script>
+	<script type="text/javascript" src="js/AC_RunActiveContent.js"></script>
+	<!-- Begin: Google Analytics code -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-442479-34']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  
+</script>
+<!-- End: Google Analytics code -->
+</head>
+<body class="homepage">
+	<div class="header">		
+	<div class="container_16">
+		<div class="grid_5">
+			<a href="http://logoyes.com"><img class="logo" src="image/logo.gif" alt="DIY Logo Design with LogoYes"></a>
+		</div>
+		<div class="grid_11">
+			<ul class="menu">
+				<li><a class="" href="/">Home</a></li>
+				<li><a class="" href="/logocreator.php" onclick="_gaq.push(['_trackPageview','/topmenu/app-link']);">Logo Creator</a></li>
+				<li><a class="" href="/custom_logo.php">Custom Logo Design</a></li>
+				<li><a class="" href="/articles/">Logo Blog</a></li>
+				<li><a class="" href="/faq.php">FAQ</a></li>
+				<li class="last"><a class="login" href="login.php" rel="#login_container"></a></li>
+			</ul>									
+		</div>
+		<span class="clear"></span>
+	</div>	
+</div>
+<div id="login_container">
+	<a class="close">X</a>
+	<div class="login_container"><h2>Sign In</h2><script type="text/javascript" src="js/jquery.validate.min.js"></script>
+<script src="includes/logoyes_scripts.js" type="text/javascript"></script>
+<form method="post" id="loginForm" action="loginpost.php" class="login_form">
+  <input type="hidden" name="act" value="login">
+	<div class="login_controls">
+		<div class="form_row">
+			<label for="username">E-mail Address</label>
+			<div class="input"><input name="username" id="username" type="text"></div>
+		</div>
+		<div class="form_row">
+			<label for="password">Password</label>
+			<div class="input"><input name="password" id="password" type="password"></div>
+		</div>
+		<div class="form_row">
+			<a href="javascript:OpenBrWindow('forgotpassword.php','winPassword','toolbar=no,location=no,status=no,menubar=no,scrollbars=no,resizable=no','425','205','true')" class="forgot">Forgot Your Password?</a>
+		</div>
+		<div class="form_row buttonrow">
+			<input type="submit" name="butnLogin" alt="Login" class="button" width="76" height="39">
+		</div>
+	</div>
+</form>
+<script type="text/javascript">
+$(function() {
+	$("#loginForm").validate({
+		rules: {
+			username: {required: true},
+			password: {required: true}
+		},
+		messages: {
+			username: "Required.",
+			password: "Required."
+		}
+	});
+	$('#loginForm').submit(function() {
+		var loginFailed = function() {
+			alert("Login failed");
+		};
+		$.ajax({
+			url: '/loginpost.php',
+			async: false,
+			type: "POST",
+			data: $(this).serialize(),
+			success: function(data) {
+				var rs = eval('('+data+')');
+				if (rs[0] == 1) {
+					window.location.href = rs[1];
+				} else {
+					loginFailed();
+				}
+			},
+			error: loginFailed
+		});
+		return false;
+	});
+}); 
+</script>
+</div>
+</div>
+<script type="text/javascript">
+$(function() {
+	$(".login a[rel]").overlay({
+		mask: '#000000'
+	});
+}); 
+</script>
+	<div class="body">		
+		<div class="container_16">
+			<div class="grid_16">
+<h1>LogoYes.com Privacy Policy</h1>
+
+		<p>(Updated December 15, 2010)</p>
+
+        <p>Web.com Group, Inc., owner and operator of LogoYes ("Web.com") respects the privacy of its customers and the visitors and users of its <a href="http://www.web.com">websites</a>.</p>
+
+
+
+        <p>This Privacy Policy ("Privacy Policy") is intended to inform you of our policies and practices regarding the collection, use and disclosure of any personal information we obtain about you based upon your use of our website, products or services. "Personal Information" is information about you that is personally identifiable to you such as your name, address, e-mail address, phone number, any transactions you conduct on our websites or offline with us, as well as other non-public information that is associated with the foregoing.</p>
+
+
+
+        <p>We pay close attention to how Personal Information is used and shared, and we use Personal Information sensibly.</p>
+
+
+
+        <p>We act as a service provider to our customers and may process and store on behalf of our customers Personal Information that our customers collect about third parties. We do not own that Personal Information.</p>
+
+		
+
+        <h2>User Consent</h2>
+
+        
+
+		<p>By visiting our website or using our products or services, you agree to the terms of this Privacy Policy.</p>
+
+        
+
+		<p>You expressly consent to the processing of your Personal Information according to this Privacy Policy. Personal Information may be processed by Web.com or Web.com’s trusted vendors or other third parties in the country where it was collected as well as other countries (including the United States) where laws regarding processing of Personal Information may be less stringent.</p>
+
+
+
+        <h2>Collection of Personal Information</h2>
+
+
+
+        <p>The Personal Information we gather from you helps us learn about our customers and potential customers. We use this information to better tailor the features, performance and support of our solutions, products and services, and to contact you from time to time with information and offers about our or a third party’s products and services.</p>
+
+
+
+        <h2>Personal Information You Provide to Us</h2>
+
+        
+
+		<p>We collect Personal Information that you submit to us voluntarily. The Personal Information we collect includes, but is not limited to, the following: name, mailing address, Web address, telephone number, e-mail address, and information contained in any e-mail or other communication you send to us or information you give to us in any other way. </p>
+
+		
+
+		<h2>Personal Information Collected via Technology</h2>
+
+		
+
+		<p>As you navigate our website, certain passive information may also be collected, including your Internet Protocol address, browser type, and operating system. We also use cookies, a small file stored by your web browser on your computer, and navigational data like Uniform Resource Locators (URLs) to gather information regarding the date and time of your visit and the solutions and information for which you searched and viewed. This type of information is collected to make our solutions and services more useful to you by understanding what pages you click on during your visit to our websites.  Such information will allow us to improve and personalize your experience   </p>
+
+		
+
+		<p>Accepting cookies through your web browser is your personal choice.  You can set your browser to disable cookies.  However, if you choose not to accept cookies, we may not be able to provide you with as good of an experience as one that is specifically tailored to your needs by utilizing the cookie. </p>
+
+		
+
+		<h2>Personal Information We Receive from Other Sources</h2>
+
+		
+
+        <p>We may receive Personal Information about you from other sources like telephone or telefax. We may add this information to the information we have already collected about you in order to improve the solutions and services we provide.</p>
+
+
+
+        <h2>Use of Information</h2>
+
+
+
+        <p>In general, Personal Information you submit to us is used either to set up solutions or purchase website marketing services, respond to requests that you make, to process transactions, to facilitate your request for a quote from a third party service provider or to aid us in serving you better. We may share your Personal Information with other businesses to offer you products, services, and promotions. In addition, we may share your Personal Information with other businesses that may contact you regarding requests for service. We may also use your Personal Information to provide you with electronic newsletters or promotional e-mails as well as information and offers about our products and services.</p>
+
+
+
+		<p>We may use third-party advertising partners and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites.  They will collect anonymous information about your visits to our site, and your interaction with our products and services. They may also use information about your visits to this and other Websites to target advertisements for goods and services and may be used to keep track of user response to each advertisement. These targeted advertisements may appear on our site or on other sites that you visit.  The anonymous information may be collected through the use of a pixel tag or cookies, which are industry standard technologies used by most major websites. No personally identifiable information is collected in this process. </p>
+
+		
+
+		<p>If you do not want such companies to collect this information you may opt-out. Opting-out will not in any way affect your use of our site. To learn more about the use of this information or choose not to have this information used by certain third-party advertising partners by opting out please click <a href="http://www.omniture.com/en/privacy/policy#optout">here</a>  or visit the Network Advertising Initiative by clicking <a href="http://www.networkadvertising.org/managing/opt_out.asp">here</a> .  Please note that if you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice.</p>
+
+		
+
+        <h2>Disclosure of Personal Information</h2>
+
+
+
+        <p>Except as otherwise stated in this Privacy Policy, we do not generally sell your Personal Information to third parties. In order to build the solutions for you, we may engage third parties to assist us, and, in connection with such assistance, we may provide them with Personal Information that you have provided and that is necessary for them to assist us. We may also share your Personal Information with trusted vendors or other third parties in order for them to provide you with offers that we think you will find valuable. </p>
+
+
+
+        <p>To drive traffic to your website and to make your website easier to find, we will disclose keywords about your business, your business name, general and specific description about your business, information about your location, and information about your products and services to third-party services and to the general public.</p>
+
+
+
+        <p>We also use third parties to maintain and store your Personal Information and to process any payment you make to us. Generally, these third parties are required not to use your Personal Information other than to provide the services requested by Web.com.</p>
+
+
+
+        <p>We currently have subsidiaries and other companies under a common control (collectively, "affiliates"). We may share some or all of your Personal Information with these affiliates, in which case we will require our affiliates to honor this Privacy Policy.</p>
+
+
+
+        <p>If our company or our assets are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.</p>
+
+
+
+        <p>We may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on Web.com; or (b) to protect and defend the rights or property of Web.com or users of our websites or our customers' websites.</p>
+
+
+
+        <h2>Your Choices Regarding Your Personal Information</h2>
+
+
+
+        <p>Should you decide to stop receiving e-mail communications or newsletters from us, you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail. If at any time you wish to subscribe to any communications from us, you may do so by contacting us at <a href="" mailto:info@web.com"="">info@web.com</a>. Despite your indicated e-mail preferences, we may send you e-mail regarding updates to legal notices applicable to the account you created with us. From time to time, we may contact you by telephone to offer you products or services which we believe may be valuable to you. Should you prefer not to receive such calls, please advise the representative who contacts you or contact customer care.</p>
+
+
+
+        <h2>Regarding Minors</h2>
+
+        
+
+		<p>Our websites are not designed for minors under the age of 18. We do not intentionally gather Personal Information about visitors who are under the age of 18.</p>
+
+
+
+        <h2>Links to Other Sites</h2>
+
+		
+
+        <p>Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. We have no control over, do not review, and cannot be responsible for these outside websites or their content. Please be aware that the terms of our Privacy Policy do not apply to these outside websites.</p>
+
+
+
+        <h2>Security</h2>
+
+
+
+        <p>We use reasonable measures to maintain the security of your Personal Information. Even so, technical mistakes are possible. No company, including Web.com, can fully eliminate security risks associated with Personal Information.</p>
+
+        
+
+		<h2>Contact Us</h2>
+
+		
+
+        <p>
+
+            Should you have any questions or concerns regarding this Privacy Statement, please
+
+            contact us:<br>
+
+            Web.com Group, Inc.<br>
+
+			Privacy Officer<br>
+
+			12808 Gran Bay Parkway, West<br>
+
+            Jacksonville, FL 32258<br> 
+
+            Phone: 904-680-6600</p>
+
+			
+
+        <h2>Privacy Statement Updates</h2>
+
+		
+
+        <p>This Privacy Policy is subject to occasional revision, and if we make any changes in the way we use your Personal Information, we shall notify you by posting an updated Private Policy at <a href="http://www.web.com/legal">www.web.com/legal</a>. If you object to any such changes, you must cease using our website, products or services. Continued use of our website, products or services following notice of any such changes shall indicate your acknowledgment of such changes and agreement to be bound by the terms and conditions of such changes. </p>
+
+        
+
+		<p><strong>Choice of Law</strong></p>
+
+        
+
+		<p>If you choose to visit Web.com's website or use our products or services, any dispute over privacy is subject to this Privacy Policy as governed by the laws of the State of Florida.</p>
+
+		
+
+		<p style="text-align: right;">v.12.10</p>
+			
+			
+			</div>		
+		<span class="clear"></span>
+	</div>
+	<div class="footer-shadow"></div>
+<div class="footer">
+	<div class="container_16">
+		<div class="grid grid_16">
+	<h2>Check Out These Great DIY Logos!</h2>
+	<!-- "previous page" action -->
+	<a class="prev browse left"></a>
+
+	<!-- root element for scrollable -->
+	<div class="scrollable">   
+	   
+	   <!-- root element for the items -->
+			<ul class="items gallery" style="left: -156px;"><li class="cloned"><div class="gallerypic pic16"></div></li>
+				<li><div class="gallerypic pic1"></div></li>
+				<li><div class="gallerypic pic2"></div></li>
+				<li><div class="gallerypic pic3"></div></li>
+				<li><div class="gallerypic pic4"></div></li>
+				<li><div class="gallerypic pic5"></div></li>
+				<li><div class="gallerypic pic6"></div></li>
+				<li><div class="gallerypic pic7"></div></li>
+				<li><div class="gallerypic pic8"></div></li>
+				<li><div class="gallerypic pic9"></div></li>
+				<li><div class="gallerypic pic10"></div></li>
+				<li><div class="gallerypic pic11"></div></li>
+				<li><div class="gallerypic pic12"></div></li>
+				<li><div class="gallerypic pic13"></div></li>
+				<li><div class="gallerypic pic14"></div></li>
+				<li><div class="gallerypic pic15"></div></li>
+				<li><div class="gallerypic pic16"></div></li>
+			<li class="cloned"><div class="gallerypic pic1"></div></li><li class="cloned"><div class="gallerypic pic2"></div></li><li class="cloned"><div class="gallerypic pic3"></div></li><li class="cloned"><div class="gallerypic pic4"></div></li></ul>
+	</div>
+	<!-- "next page" action -->
+	<a class="next browse right"></a>
+</div>
+<script type="text/javascript">
+// execute your scripts when the DOM is ready. this is mostly a good habit
+$(function() {
+	// initialize scrollable
+	$(".scrollable").scrollable({circular: 'true'});
+	$("a[rel]").overlay({mask: '#000'});
+});
+</script>		<div class="grid grid_16">			
+	<div class="footer-links">
+		<span><a href="comparision.php">SmartBrand Comparison™</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="resources.php">Resources</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="aboutus.php">About Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="legal.php">Legal</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="privacy-policy.php">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="branded-sign-up.php">Affiliates</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="customer_contact_us.php">Contact</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="site-map.php">Site Map</a></span>
+		<span>800.940.5646&nbsp;&nbsp;|&nbsp;&nbsp; © Copyright 2011 LogoYes. All Rights Reserved</span>
+	</div>
+</div>
+	</div>
+</div>		<div id="demo-video">
+	<a class="close">X</a>
+	<div class="video_player">
+   <script type="text/javascript">
+		AC_FL_RunContent(
+			'codebase', 'http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0',
+			'width', '680',
+			'height', '335',
+			'src', 'demo',
+			'quality', 'high',
+			'pluginspage', 'http://www.adobe.com/go/getflashplayer',
+			'align', 'middle',
+			'play', 'true',
+			'loop', 'true',
+			'scale', 'showall',
+			'wmode', 'transparent',
+			'devicefont', 'false',
+			'id', 'demo',
+			'bgcolor', '#ffffff',
+			'name', 'demo',
+			'menu', 'true',
+			'allowFullScreen', 'false',
+			'allowScriptAccess','sameDomain',
+			'movie', 'demo',
+			'salign', ''
+			); //end AC code
+	</script><embed width="680" height="335" src="demo.swf" quality="high" pluginspage="http://www.adobe.com/go/getflashplayer" align="middle" play="true" loop="true" scale="showall" wmode="transparent" devicefont="false" bgcolor="#ffffff" name="demo" menu="true" allowfullscreen="false" allowscriptaccess="sameDomain" salign="" type="application/x-shockwave-flash"> 
+	<noscript>
+		<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=10,0,0,0" width="919" height="319" id="demo" align="middle">
+		<param name="allowScriptAccess" value="sameDomain" />
+		<param name="allowFullScreen" value="false" />
+		<param name="movie" value="demo.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" />	<embed src="demo.swf" quality="high" bgcolor="#ffffff" wmode="transparent" width="680" height="335" name="demo" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer" />
+		</object>
+	</noscript>
+	</div>
+</div>
+<script type="text/javascript">
+$(function() {
+	$(".demoTrigger").overlay({mask: '#000'});
+});
+</script>	
+	<script type="text/javascript" src="wdcmktg.php"></script>
+<!-- Google Code for LOGO_Site_General Remarketing List --> 
+<script type="text/javascript"> 
+/* <![CDATA[ */ 
+var google_conversion_id = 974081568; 
+var google_conversion_language = "en"; 
+var google_conversion_format = "3"; 
+var google_conversion_color = "666666"; 
+var google_conversion_label = "LfARCJDFsgIQoJy90AM"; 
+var google_conversion_value = 0; 
+/* ]]> */ 
+</script> 
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"> 
+</script> 
+<noscript> 
+<div style="display:inline;"> 
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/974081568/?label=LfARCJDFsgIQoJy90AM&amp;guid=ON&amp;script=0"/> 
+</div> 
+</noscript> 
+<!-- Google Code for LOGO_Site_General_30Days Remarketing List --> 
+<script type="text/javascript"> 
+/* <![CDATA[ */ 
+var google_conversion_id = 974081568; 
+var google_conversion_language = "en"; 
+var google_conversion_format = "3"; 
+var google_conversion_color = "666666"; 
+var google_conversion_label = "_qc0CMC9tgIQoJy90AM"; 
+var google_conversion_value = 0; 
+/* ]]> */ 
+</script> 
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"> 
+</script> 
+<noscript> 
+<div style="display:inline;"> 
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/974081568/?label=_qc0CMC9tgIQoJy90AM&amp;guid=ON&amp;script=0"/> 
+</div> 
+</noscript>
+<!-- Start Dotomi Tag -->
+<script type="text/javascript">
+<!--
+var dtmSrc = window.location.protocol + "//login.dotomi.com/ucm/UCMController?"+
+	"dtm_com=28&dtm_fid=101&dtm_cid=2378&dtm_cmagic=3837a4&dtm_format=5";
+
+var dtmTag = new Array();
+/* custom fields SUBSTITUTE DYNAMIC VALUES ONLY IN THIS BLOCK */
+dtmTag.cli_promo_id = "21";
+/* custom fields end */
+
+dtmTag.dtmc_ref = document.referrer;
+dtmTag.dtmc_loc = document.location.href;
+for (var item in dtmTag){
+	if(typeof dtmTag[item] != "function" && typeof dtmTag[item] != "object")
+		dtmSrc += "&" + item + "=" + escape(dtmTag[item]);
+}   
+setTimeout('timeOutDotomi()',2000);
+document.write('<div id="dtmdiv" style="display:none;">' +
+'<iframe name="response_frame" src="' + dtmSrc + '"></iframe></div>');
+ 
+function timeOutDotomi() { document.getElementById("dtmdiv").innerHTML = "";}
+//-->
+</script><div id="dtmdiv" style="display:none;"><iframe name="response_frame" src="https://login.dotomi.com/ucm/UCMController?dtm_com=28&amp;dtm_fid=101&amp;dtm_cid=2378&amp;dtm_cmagic=3837a4&amp;dtm_format=5&amp;cli_promo_id=21&amp;dtmc_ref=&amp;dtmc_loc=https%3A//web.archive.org/web/20111123162654id_/http%253A//logoyes.com/privacy-policy.php"></iframe></div>
+<!-- End Dotomi Tag -->
+<img src="http://www.web.com/Track.aspx?" style="display:none" height="1" width="1">
+<!-- SiteCatalyst code version: H.23.3.
+Copyright 1996-2011 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="/include/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName=""
+s.server=""
+s.channel=""
+s.pageType=""
+s.prop1=""
+s.prop2=""
+s.prop3=""
+s.prop4=""
+s.prop5=""
+/* Conversion Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src="http://registercom.122.2o7.net/b/ss/registergrouplogoyes/1/H.23.3--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.23.3. -->
+	
+
+</div></body></html>
