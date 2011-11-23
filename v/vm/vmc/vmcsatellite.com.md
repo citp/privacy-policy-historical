@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vmcsatellite.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303200318id_/http%3A//www.vmcsatellite.com/terms_conditions/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vmcsatellite.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123110901id_/http%3A//www.homesavingsshop.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -12,12 +12,9 @@
 
 ·                     We will never use your personal information for the purpose of spam. 
 
-|   
----|---  
-  
 **Protecting Your Privacy and Security**
 
-·                     _TRUSTe Certified_
+·                     _Introduction_
 
 ·                     What Information We Collect and How We Use It
 
@@ -38,8 +35,8 @@
       * Supplementation of Information
       * _Affiliate Sign-Up Process_
       * Live Help and Chat Function
-      * _Social Media_ __
-      * _Surveys_ __
+      * _Social Media_
+      * _Surveys_
 
 
 
@@ -67,15 +64,13 @@
 ·                     _Acceptance of this Privacy Policy_
 
   
-**TRUSTe Certified**
+**Introduction**
 
 We value the relationship we have with our users and customers and are committed to responsible information-handling practices. We take great care in safeguarding your personal information and exceeding our own internal standards and best practices.
 
-The [Partner Description] store is operated by Simplexity, LLC ("Simplexity"). We provide this notice explaining our online information practices and the choices you can make about the way your information is used by our site. This Privacy Policy covers the site www.VMCSatellite.com.
+The [Partner Description] store is operated by Simplexity, LLC ("Simplexity"). We provide this notice explaining our online information practices and the choices you can make about the way your information is used by our site. This Privacy Policy covers the site [PLD Name].
 
-Simplexity is a participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world.  Simplexity wants to demonstrate its commitment to your privacy so we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe.
-
-By displaying the TRUSTe trustmark, Simplexity has agreed to notify you of: 
+Simplexity will notify you of: 
 
 ·                     What personally identifiable information is collected from you through the Web site; 
 
@@ -89,7 +84,7 @@ By displaying the TRUSTe trustmark, Simplexity has agreed to notify you of:
 
 ·                     How you can correct or update your information.
 
-If you have questions or concerns regarding this Privacy Policy, or complaints arising from our use of your personal information, please contact us via certified mail at: Simplexity, LLC, c/o Privacy Administration, 10790 Parkridge Boulevard, Suite 200, Reston, VA 20191 or via e-mail at privacypolicy@simplexity.com. If you do not receive acknowledgment of your inquiry, or your inquiry has not been satisfactorily addressed, you may contact TRUSTe through the TRUSTe WatchDog Dispute Resolution Process ([www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php)). TRUSTe will then serve as a liaison with Simplexity to resolve your concerns. 
+If you have questions or concerns regarding this Privacy Policy, or complaints arising from our use of your personal information, please contact us via certified mail at: Simplexity, LLC, c/o Privacy Administration, 10790 Parkridge Boulevard, Suite 200, Reston, VA 20191 or via e-mail at privacypolicy@simplexity.com. 
 
 **What Information We Collect and How We Use It**
 
@@ -153,7 +148,7 @@ During and/or after your visit to our Web site, we may ask you questions about o
 
 **Sharing of Your Information**
 
-**Trusted Third Parties** ****
+**Trusted Third Parties**
 
 Please be assured that any third parties who have access to the information you provide, including our marketing partners, agents, contractors and business affiliates, have agreed to protect it in a manner that is consistent with this Privacy Policy. To fulfill your requests for products and services, we may need to share some of your personally identifiable information with the service provider from which you have requested service. More specifically, when you place an order, we will share contact and ID verification information required by the service provider. The service provider may use this information for credit approval, service activation, and from time to time, its own marketing purposes in accordance with its privacy policy. You should consult the service providers' privacy policy, as this Privacy Policy does not cover their use of your information. We may need to share your personally identifiable information with other third party service providers that assist us with online chat services, credit card processing, fraud screening and shipping in connection with your order and/or use of our site.  We also work closely with and may share your contact information with trusted third party business affiliates to provide you with information on products and services that may be of interest to you. 
 
@@ -181,7 +176,7 @@ We have put in place multiple levels of physical and electronic security to safe
 
 If you would like to review, update and/or correct the personally identifiable information that we have collected from you online, simply send your request via certified mail to: Simplexity, LLC, c/o Privacy Administration, 10790 Parkridge Boulevard, Suite 200, Reston, VA 20191 or via e-mail to privacypolicy@simplexity.com. For wireless service customers, you may also send your request via the Customer Support feedback section in our [customer service center](http://www.whereismyorder.com/). To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections to your personal information. 
 
-**_Choices/Opt Out_** __
+**_Choices/Opt Out_**
 
 If you prefer not to receive marketing information, including emails, from us, or wish to deactivate your account information if you are no longer an active customer, simply send your request via certified mail to: Simplexity, LLC, c/o Privacy Administration, 10790 Parkridge Boulevard, Suite 200, Reston, VA 20191 or via e-mail to privacypolicy@simplexity.com. Please note that if you choose to opt out of marketing programs, you will continue to receive important service-related communications (e.g., order confirmation or product safety information) which is not promotional in nature. 
 
