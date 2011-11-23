@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesecretofdeliberatecreation.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515143357id_/http%3A//www.thesecretofdeliberatecreation.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesecretofdeliberatecreation.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123110639id_/http%3A//www.thesecretofdeliberatecreation.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,19 +63,19 @@ If you are concerned about the topic covered by this policy, you should read it 
 You may also mail your concerns to us at the following address:
 
 Little e, Inc.  
-209 S. Doheny Dr.  
-Beverly Hills, CA 90211  
-USA 
+935 Westbourne Dr.  
+West Hollywood, CA  90069  
+USA
 
 **CALIFORNIA PRIVACY RIGHTS**
 
 If you are a California resident and our customer, Cal. Civ. Code § 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to support[at]thesecretofdeliberatecreation.com or write us at the following address:
 
 Little e, Inc.  
-209 S. Doheny Dr.  
-Beverly Hills, CA 90211  
+935 Westbourne Dr.  
+West Hollywood, CA  90069  
 USA 
 
 This privacy policy was last updated on 3-01-2010.
 
-Copyright © 2008-2010 [Law Office of Michael E. Young PLLC](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at http://www.thesecretofdeliberatecreation.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
+Copyright © 2020 [Law Office of Michael E. Young PLLC](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at http://www.thesecretofdeliberatecreation.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
