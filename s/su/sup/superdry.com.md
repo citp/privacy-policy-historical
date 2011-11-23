@@ -1,30 +1,32 @@
-> *The following text is extracted and transformed from the superdry.com privacy policy that was archived on 2010-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100505134700id_/http%3A//www.superdry.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superdry.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123163748id_/http%3A//www.superdry.com/privacy-policy) for the most accurate reproduction.*
 
-# Superdry - Jackets, T Shirts, Hoodies, Mens & Womens Clothing
+# Privacy Policy Superdry - Jackets, T Shirts, Hoodies, Shorts, Mens & Womens Clothing
 
-### privacy policy
+### Privacy policy
 
-superdry.com take your privacy very seriously and treat all your personal information as confidential. Our privacy policy statement is given below. 
+superdry.com take your privacy very seriously and treat all your personal information as confidential. To find out more please click on the links to the left.
 
-### information about us
+### Information about us
 
 For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is SuperGroup Internet Limited (we, our, us). We are registered in England and Wales under company number 07139044. Our registered office is at Unit 60, The Runnings, Cheltenham, Gloucestershire GL51 9NW.
 
 superdry.com is an online trading entity of SuperGroup Internet Limited, which is itself a trading company of SuperGroup Plc, (these companies, together with C-Retail Limited (Trading as Cult Retail); DKH Retail Limited (Trading as Laundry Athletics); Supergroup Retail Ireland Limited; Supergroup Concessions Limited and SuperGroup International Limited comprise the “Group”).
 
-### your information
+### Your information
 
-We will only use information about you in accordance with this Privacy Policy. By using our site, you consent to such use. 
+We will only use information about you in accordance with this Privacy Policy. By using our site or blog, you consent to such processing.
 
-### information collected
+### Information collected
 
 When setting up an account, you will be asked to provide us with your name, billing address and delivery address details, your email address, telephone number and a password. We will also require your credit/debit card details, when you are placing an order.
+
+When commenting on our blog, you will be asked to provide your name and email address. We may also collect any information (e.g. your age) that you publish on our blog.
 
 We may also collect information about you such as your name, address and contact details where you enter a competition or prize-draw we are operating.
 
 We may obtain information about your usage of our site to help us develop and improve it further.
 
-### what do we use your information for?
+### What do we use your information for?
 
 We use your information for the following purposes:
 
@@ -33,14 +35,15 @@ We use your information for the following purposes:
   * To communicate with you about your orders
   * To update our records and generally maintain your account with us
   * If you contact us, we may keep a record of that correspondence and your contact details
-  * For our statistical or survey purposes to improve our site and its services to you
+  * For our statistical or survey purposes to improve our site and blog and our services to you.
   * To prevent or detect fraud or abuses of our site and enable third parties to carry out technical, logistical or other functions on our behalf
   * To contact you by email, post, or telephone, to ask you for feedback and comments on our services
   * If you consent, to notify you by email of Group products, promotions, competitions and special offers that may be of interest to you.
+  * Provide our blog to you and other users and to allow you to use and comment on our blog. 
 
 
 
-### disclosure of your information
+### Disclosure of your information
 
 We may disclose your information to members of our Group for the purposes listed above. 
 
@@ -62,40 +65,40 @@ We do not hold your credit card details. Financial transactions take place direc
 
 If you believe your details are incorrect you can amend your details by logging onto your ‘My Account’ on our site.
 
-### direct marketing and newsletter
+### Direct marketing and newsletter
 
 You may sign up to our Newsletter by ticking the appropriate box during registration, or separately on our Newsletter sign up page if you do not wish to establish an account yet. If you wish to unsubscribe from our Newsletter contact list, you should:
 
-  * e-mail us at care@superdry.com with the word "unsubscribe" in the subject line.
+  * e-mail us at [care@superdry.com](mailto:care@superdry.com) with the word "unsubscribe" in the subject line.
   * click on "unsubscribe" at the bottom of the email
   * log into "My Account" on the website and edit your account details
 
 
 
-### protecting your information
+### Protecting your information
 
 Our site uses up-to-date industry procedures to protect your personal information. We also protect the security of your data during transmission using Secure Sockets Layer (SSL) encryption software. Further information on our security practices can be found by clicking on the following link: [information page](http://www.superdry.com/en/information).
 
 We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you via our site.
 
-### access to information
+### Access to information
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. You can exercise this right at any time by contacting us at care@superdry.com.
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. You can exercise this right at any time by contacting us at [care@superdry.com](mailto:care@superdry.com).
 
-### cookies
+### Cookies
 
 A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information from the browser. We use cookies to keep track of your current shopping session, to personalise your experience and to store items in your shopping bag.
 
 Most browsers allow you to turn off cookies. If you want to know how to do this please look at the help menu on your browser. However, if you do not accept cookies your user experience on our site may be affected and you will be unable to purchase products from our site.
 
-### third party services
+### Third party services
 
 We may from time to time make available through our site certain services provided by third parties. To gain access to these services, you must register with these third parties and deal with them direct. Please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-### changes to our privacy policy
+### Changes to our privacy policy
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. 
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
-### contact
+### Contact
 
-If you have any questions, comments or requests regarding this Privacy Policy, we will be happy to answer them - care@superdry.com. 
+If you have any questions, comments or requests regarding this Privacy Policy, we will be happy to answer them - [care@superdry.com](mailto:care@superdry.com).
