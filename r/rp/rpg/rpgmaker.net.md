@@ -1,17 +1,43 @@
-> *The following text is extracted and transformed from the rpgmaker.net privacy policy that was archived on 2000-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000817213601id_/http%3A//www.rpgmaker.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgmaker.net privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123180144id_/http%3A//rpgmaker.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# rpgmaker.net
 
-There are some features at RPGmaker.net that ask you for personal information such as:
+### Privacy Guidelines
 
-  * E-mail address
-  * Home address
-  * Phone number
-  * Real name
-  * etc...
+This privacy policy covers the information provided to and gathered by RPG Maker Network.
+
+### Personal Information
+
+We gather the following types of information:
+
+  * Information provided by you - Some sections of rpgmaker.net allow you to enter publicly displayed personal information, including but not limited to your name and email address. You can choose not to provide this information.
+  * Information gathered automatically - Certain types of information can be gathered automatically when you visit, including your IP address.
 
 
 
-Any information provided to RPGmaker.net will be used for internal purposes only. We will never, under any circumstance, sell or give any of your personal information to a third party- personal, commercial, charitable, or otherwise- unless required to do so by law.
+The site and its services are intended for adult audiences, and rpgmaker.net does not knowingly collect any personal information from anyone under 13 years of age.
 
-RPGmaker.net will use information collected from you for the purpose it was collected, and that purpose will clearly be stated on any page/form that collects information from you. This privacy policy only applies to pages/forms that are maintained by us. We are not responsible for any information given to an external site that was linked to by us.
+### Disclosure
+
+Your information may be available to administrators of rpgmaker.net. We will not disclose your personal information to any third parties, except:
+
+  * when required by law to do so;
+  * in connection with any legal proceedings;
+  * in order to establish, exercise or defend our legal rights
+
+
+
+### Security of your personal information
+
+No sensitive personal information is handled directly by this website. All credit card and other financial transactions are processed entirely by a secure third party (in this case, PayPal), and your financial details are not made available to rpgmaker.net.
+
+### Your rights
+
+You can choose not to provide the voluntary information requested by this site, and your browser has options to prevent the use of cookies.
+
+### Third-party websites
+
+rpgmaker.net may provide links to third-party websites. We do not provide any identifiable or sensitive information to these sites.
+
+  
+
