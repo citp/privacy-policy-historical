@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supermanstamina.com privacy policy that was archived on 2011-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110306125841id_/http%3A//www.supermanstamina.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supermanstamina.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123115015id_/http%3A//supermanstamina.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Superman Stamina - Privacy Policy
 
@@ -18,7 +18,7 @@ We may also use that information to let you know of additional products and serv
 
 Tracking Information:
 
-2GTS will collect and store only the following nonpersonally-identifying information from you: the name of the domain name from which you access the Internet; the date and time you access our site; and the Internet address of the Website from which you linked directly to our site. We also track your order and billing history so you can access your 2GTS and immediately determine which DVDs you've purchased and how you paid for them. This information is password-protected. No one has access to it but you.
+2GTS will collect and store only the following nonpersonally-identifying information from you: the name of the domain name from which you access the Internet; the date and time you access our site; and the Internet address of the Website from which you linked directly to our site. We also track your order and billing history so you can access your 2GTS and immediately determine which Videos you've purchased and how you paid for them. This information is password-protected. No one has access to it but you.
 
 As you browse the 2GTS website, cookies are placed on your computer's hard drive. Cookies allow us to track the items you select as you shop, and help us match your address and credit card information with your order so you don't need to retype the information each time you visit our site. Cookies also allow us to gather information to provide you with the best service. It tells us the number and frequency of visitors to our site and its various pages. Third parties may serve some of these cookies. We analyze this data to determine which parts of our site customers like and which parts need improvement. Automatically logged information is also used to analyze trends and to administer the site.
 
