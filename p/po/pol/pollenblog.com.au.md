@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pollenblog.com.au privacy policy that was archived on 2011-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110418044028id_/http%3A//www.pollenblog.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pollenblog.com.au privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123120154id_/http%3A//www.pollenblog.com.au/privacy) for the most accurate reproduction.*
 
 # {title}
 
