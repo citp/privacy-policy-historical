@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loopmasters.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429222019id_/http%3A//www.loopmasters.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopmasters.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123161135id_/http%3A//www.loopmasters.com/privacy_policy) for the most accurate reproduction.*
 
 # Loopmasters Pro Sample Cds, Sound Libraries, Rex Files, Reason Samples
 
@@ -38,7 +38,37 @@ In addition to the uses identified elsewhere in this privacy policy, we may use 
 
 We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing. 
 
-**(4) Other disclosures**
+Newsletter Subscriber
+
+A registered user is added to our Newsletter Subscribers database when he/she leaves the "Yes. I want to subscribe to the Loopmasters newsletter" option ON, on our registration page. After completing our registration process which involves clicking an activation link sent to his/her email account the user becomes a Newsletter Subscriber. Our email communications with our Newsletter Subscribers is based solely on their permission. 
+
+What Is Spam?
+
+Spam is unsolicited email also known as Unsolicited Commercial Email (UCE). It involves emails sent to users who:  
+\- Have no association with the sender  
+\- Have registered an account but not opted in to receive commercial emails  
+\- Have previously opted in but then opted out of receiving commercial emails  
+It is also email communications without a valid reply-to address. 
+
+Email Communications
+
+Loopmasters do not send spam - ever. The goal of our existing email communications is to inform our Newsletter Subscribers of the new audioware releases which are published on a weekly basis. Our Newsletters include the links to our new products, information about promotions and latest news from our industry.
+
+We cooperate with other businesses that target similar audiences as ours - they send our newsletters to their opted-in subscriber base. We are very careful about the antispam practices of these businesses and never cooperate with companies that are outside the scope of our audience or our industry or which have an unclear Antispam Policy. On rare occasions we also send selected partners' eflyers to our subscriber base.
+
+We do not sell or distribute (for financial gain or for free) or otherwise disclose any partner or customer e-mail addresses to any third parties except when legally required.
+
+Every newsletter contains an Unsubscribe link at the top of the message. 
+
+Necessary Communication
+
+There are situations which by their own nature require us to send you emails. These include:  
+\- Sending a message to your emailbox with the link to activate your account at Loopmasters  
+\- Sending you invoices for each completed transaction on our website.  
+\- Sending you emails concerning technical, legal and support matters.  
+Please make sure you do not flag Loopmasters as 'Spam' or 'Unsolicited' in your email application. When you register and do not find an activation email in your inbox, check your spam folder. 
+
+**(5) Other disclosures**
 
 In addition to the disclosures reasonably necessary for the purposes identified elsewhere in this privacy policy, we may disclose information about you: 
 
@@ -50,11 +80,11 @@ In addition to the disclosures reasonably necessary for the purposes identified 
 
 Except as provided in this privacy policy, we will not provide your information to third parties. 
 
-**(5) International data transfers**
+**(6) International data transfers**
 
 Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to use the information in accordance with this privacy policy. 
 
-**(6) Security of your personal data**
+**(7) Security of your personal data**
 
 We will take reasonable precautions to prevent the loss, misuse or alteration of your personal information. Of course, data transmission over the Internet is inherently insecure, and we cannot guarantee the security of data sent over the Internet. 
 
@@ -62,25 +92,25 @@ We will store all the personal information you provide on our secure servers. Al
 
 You are responsible for keeping your passwords confidential. We will not ask you for your passwords. 
 
-**(7) Policy amendments**
+**(8) Policy amendments**
 
 We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes. 
 
-**(8) Your rights**
+**(9) Your rights**
 
 You may instruct us to provide you with any personal information we hold about you. 
 
 You may instruct us not to process your personal data for marketing purposes. In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes. You can also instruct us not to use your personal data for marketing purposes by email (to [info@loopmasters.com](mailto:info@loopmasters.com)) at any time. 
 
-**(9) Third party websites**
+**(10) Third party websites**
 
 The website contains links to other websites. We are not responsible for the privacy policies of third party websites. 
 
-**(10) Financial Information**
+**(11) Financial Information**
 
 The website does not store your credit card and payment details on our server. The website retains details of your purchases and purchased products in your profile, but no sensitive details relating to your payment methods are stored or handled by Loopmasters. 
 
-**(11) Contact**
+**(12) Contact**
 
 If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to [info@loopmasters.com](mailto:info@loopmasters.com) or by post to: 
 
