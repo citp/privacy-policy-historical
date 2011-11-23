@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eros-atlanta.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527084754id_/http%3A//www.eros-atlanta.com/disclaimer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eros-atlanta.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123075303id_/http%3A//www.eros-atlanta.com/disclaimer/privacy) for the most accurate reproduction.*
 
 # The Eros Guide Privacy Policy
 
