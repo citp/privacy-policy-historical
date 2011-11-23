@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogzonline.com.au privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523174005id_/http%3A//www.dogzonline.com.au/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogzonline.com.au privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123034629id_/http%3A//www.dogzonline.com.au/privacy-policy.asp) for the most accurate reproduction.*
 
 # Dogz Online - The Pure Breed Dog Community of Australia
 
@@ -8,6 +8,9 @@
 At Dogz Online, we respect your privacy. We want to maintain your confidence in our handling of any data and information that is collected during your visit to our web site. We have developed and provided this Privacy Policy to inform you of our practices and policies regarding the collection, use, maintenance, and disclosure of your personal data and information. 
 
 We are committed to providing you with adequate information so you can make an informed decision whether to visit our web site and whether you wish to voluntarily provide any personal data or information, e.g., your name, e-mail address, telephone number, etc. Our Privacy Policy is described in the following sections.
+
+**Placing Advertisements**  
+By placing an advertisement on our site (including but not limited to Breeder Listings, Puppy Listings, Classified Ads etc), you give us explicit permission to display that information publicly on our site for the purposes of promoting your ad. You also give us permission to reply to any requests for information about your ad or membership that is currently publicly available on our site (or has been previously publicly available).
 
 **Log Files**  
 We review data and information contained in log files located on our web server, which record the date and time of each visit to our web site, the user's IP (internet protocol) address, the referring IP address or domain (the prior web site visited), and the files viewed on our web site (including HTML pages, graphics, etc.). We use log file information to analyze data in the aggregate to determine the trends and usage of our site. We can not correlate the log data to identify specific users. 
