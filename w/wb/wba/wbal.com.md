@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wbal.com privacy policy that was archived on 2011-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110421185922id_/http%3A//www.wbal.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wbal.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123115500id_/http%3A//www.wbal.com/about/privacy.asp) for the most accurate reproduction.*
 
 # WBAL - Maryland's News, Talk, Sports Station AM1090
 
