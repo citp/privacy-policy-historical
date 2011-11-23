@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arunii.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525073350id_/http%3A//www.arunii.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arunii.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123090555id_/http%3A//www.arunii.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ Arunii.com is not responsible for the content of external Internet sites. You ar
 
 **Cookies**
 
-A “cookie” is a small data text file that is placed in your browser and allows Arunii.com to recognize you each time you visit this site(customization etc). Cookies themselves do not contain any personal information, and Arunii.com does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as news feeds. 
+A “cookie” is a small data text file that is placed in your browser and allows Arunii.com to recognize you each time you visit this site(customization etc). Cookies themselves do not contain any personal information, and Arunii.com does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as news feeds.
 
 **Google and DoubleClick DART Cookies**
 
