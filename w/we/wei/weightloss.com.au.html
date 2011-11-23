@@ -1,40 +1,25 @@
-<!--The following is the downloaded HTML source of the weightloss.com.au privacy policy that was archived on 2010-07-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100723071729id_/http%3A//www.weightloss.com.au/privacy-policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the weightloss.com.au privacy policy that was archived on 2011-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123173748id_/http%3A//weightloss.com.au/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/advertising-template.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/master-template-css.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!-- InstanceBeginEditable name="doctitle" -->
-<title>Privacy Policy of Weightloss.com.au - Australia's premier weight loss website</title>
+<title>PRIVACY POLICY WEIGHTLOSS.COM.AU | WEIGHTLOSS.COM.AU PRIVACY POLICY | AUSTRALIA'S LEADING WEIGHT LOSS WEBSITE</title>
 <!-- InstanceEndEditable -->
 
 <!-- InstanceBeginEditable name="EditRegion6" -->
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="Keywords" content="privacy policy, privacy policy of weightloss.com.au, weight loss, diets, exercise, lose weight, weight loss forum, food, recipes, tips, services, ultimate weightloss">
-<meta name="Description" content="Privacy Policy of Weightloss.com.au : This page outlines the privacy policy of Australia's premier weight loss website, weightloss.com.au.">
+<meta name="Keywords" content="disclaimer, terms of use, weight loss, diets, exercise, lose weight, weight loss forum, weight loss food, weight loss recipes, weight loss tips, weight loss services, weight loss directory, personal trainers sydney, personal trainers melbourne, personal trainers brisbane, personal trainers adelaide, personal trainers perth, personal trainers hobart, personal trainers canberra, melbourne gyms, sydney gyms, brisbane gyms, adelaide gyms, perth gyms, canberra gyms, hobart gyms, weight loss dietitians, weight loss programs, home gyms, yoga sydney, yoga melbourne, yoga brisbane, yoga adelaide, yoga perth, yoga canberra, yoga hobart, melbourne pilates, sydney pilates, brisbane pilates, adelaide pilates, perth pilates, canberra pilates">
+<meta name="Description" content="PRIVACY POLICY WEIGHTLOSS.COM.AU : weightloss.com.au is Australia's leading weight loss website and is dedicated to helping you to lose weight but there are conditions of use that are detailed on this privacy policy page.">
 <!-- InstanceEndEditable -->
+
 
 <link href="css/style.css" rel="stylesheet" type="text/css">
 <!-- ACCORDIAN FILES -->
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
 <script type="text/javascript">
-$(document).ready(function() {
+  $(document).ready(function() {
   });
-function MM_validateForm() { //v4.0
-  if (document.getElementById){
-    var i,p,q,nm,test,num,min,max,errors='',args=MM_validateForm.arguments;
-    for (i=0; i<(args.length-2); i+=3) { test=args[i+2]; val=document.getElementById(args[i]);
-      if (val) { nm=val.name; if ((val=val.value)!="") {
-        if (test.indexOf('isEmail')!=-1) { p=val.indexOf('@');
-          if (p<1 || p==(val.length-1)) errors+='- '+nm+' must contain an e-mail address.\n';
-        } else if (test!='R') { num = parseFloat(val);
-          if (isNaN(val)) errors+='- '+nm+' must contain a number.\n';
-          if (test.indexOf('inRange') != -1) { p=test.indexOf(':');
-            min=test.substring(8,p); max=test.substring(p+1);
-            if (num<min || max<num) errors+='- '+nm+' must contain a number between '+min+' and '+max+'.\n';
-      } } } else if (test.charAt(0) == 'R') errors += '- '+nm+' is required.\n'; }
-    } if (errors) alert('The following error(s) occurred:\n'+errors);
-    document.MM_returnValue = (errors == '');
-} }
 </script>
 
 <!-- START FEATURED CONTENT SLIDER -->
@@ -48,64 +33,189 @@ function MM_validateForm() { //v4.0
         
 <script type="text/javascript" src="featuredContent/js/jquery-easing-1.3.pack.js"></script>
 <script type="text/javascript" src="featuredContent/js/jquery-easing-compatibility.1.2.pack.js"></script>
+<script type="text/javascript" src="featuredContent/js/coda-slider.1.1.1.pack.js"></script>
+	
+<script type="text/javascript">
+	
+		var theInt = null;
+		var $crosslink, $navthumb;
+		var curclicked = 0;
+		
+		theInterval = function(cur){
+			clearInterval(theInt);
+			
+			if( typeof cur != 'undefined' )
+				curclicked = cur;
+			
+			$crosslink.removeClass("active-thumb");
+			$navthumb.eq(curclicked).parent().addClass("active-thumb");
+				$(".stripNav ul li a").eq(curclicked).trigger('click');
+			
+			theInt = setInterval(function(){
+				$crosslink.removeClass("active-thumb");
+				$navthumb.eq(curclicked).parent().addClass("active-thumb");
+				$(".stripNav ul li a").eq(curclicked).trigger('click');
+				curclicked++;
+				if( 6 == curclicked )
+					curclicked = 0;
+				
+			}, 3000);
+		};
+		
+		$(function(){
+			
+			$("#main-photo-slider").codaSlider();
+			
+			$navthumb = $(".nav-thumb");
+			$crosslink = $(".cross-link");
+			
+			$navthumb
+			.click(function() {
+				var $this = $(this);
+				theInterval($this.parent().attr('href').slice(1) - 1);
+				return false;
+			});
+			
+			theInterval();
+		});
+	</script>
 
-<!--[if IE 7]>
-<link rel="stylesheet" type="text/css" href="../../css/ie7.css" /><![endif]-->
-    
-    <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+    <link rel="stylesheet" href="http://www.weightloss.com.au/sifr/sifr.css" type="text/css">
+  <script src="http://www.weightloss.com.au/sifr/sifr.js" type="text/javascript"></script>
+  <script src="http://www.weightloss.com.au/sifr/sifr-debug.js" type="text/javascript"></script>
+  <script src="http://www.weightloss.com.au/sifr/sifr-config-Main.js" type="text/javascript"></script>
+
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
 </head>
- 
-<body>
-<div id="wrapper">
+
+<body><!-- #BeginLibraryItem "/Library/ie7link.lbi" -->
+
+    <!--[if IE 7]>
+
+<style>
+
+#lefCol { float:left; width:178px;  margin: 0; display:inline; margin:-12px 10px 13px 0 ;}
+
+  ul#navlistSide li a.second {background:url(http://www.weightloss.com.au/images/images-reflow/tab.gif) top left no-repeat; width:178px; height:24px; padding:11px 0 0 12px; border-bottom:none; color:#fff; font-weight:bold; margin-left:-15px; }
+
+  ul#navlistSide li ul li a {background:none; width:178px; color:#330066; font-weight:normal; line-height:25px; padding:2px 0 2px 12px; margin-left:-15px;}
+
+</style>
+
+
+
+<![endif]--><!-- #EndLibraryItem --><div id="wrapper">
+
+
 <div id="header">
-<img src="images/images-reflow/logo.jpg" alt="Weightloss.com.au logo" class="logo"><!-- #BeginLibraryItem "/Library/LEADERBOARD.lbi" --><span class="leaderBoard"> <script language="JavaScript" type="text/javascript" src="http://weightloss.com.au/adserver/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://weightloss.com.au/adserver/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:15");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://weightloss.com.au/adserver/adjs.php?n=650865442&amp;what=zone:15&amp;exclude=,"></script><noscript><a href='http://weightloss.com.au/adserver/adclick.php?n=a7de3620' target='_blank'><img src='http://weightloss.com.au/adserver/adview.php?what=zone:15&amp;n=a7de3620' border='0' alt=''></a></noscript>
+
+
+
+
+
+<img src="images/images-reflow/logo.jpg" alt="Weightloss.com.au logo" class="logo"><!-- #BeginLibraryItem "/Library/LEADERBOARD.lbi" --><span class="leaderBoard"> 
+
+<!--/* OpenX Javascript Tag v2.8.7 */-->
+
+<!--/*
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'http://www.weightloss.com.au/adserver/www/delivery/...'
+  * to
+  *   'https://www.weightloss.com.au/adserver/www/delivery/...'
+  *
+  * This noscript section of this tag only shows image banners. There
+  * is no width or height in these banners, so if you want these tags to
+  * allocate space for the ad before it shows, you will need to add this
+  * information to the <img> tag.
+  *
+  * If you do not want to deal with the intricities of the noscript
+  * section, delete the tag (from <noscript>... to </noscript>). On
+  * average, the noscript tag is called from less than 1% of internet
+  * users.
+  */-->
+
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://www.weightloss.com.au/adserver/www/delivery/ajs.php':'http://www.weightloss.com.au/adserver/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://www.weightloss.com.au/adserver/www/delivery/ajs.php?zoneid=1&amp;cb=54559728064&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111123173748id_/http%253A//weightloss.com.au/privacy-policy.html"></script><noscript><a href='http://www.weightloss.com.au/adserver/www/delivery/ck.php?n=ae8343e2&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.weightloss.com.au/adserver/www/delivery/avw.php?zoneid=1&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=ae8343e2' border='0' alt='' /></a></noscript>
+
+
 </span><!-- #EndLibraryItem --></div>
 
 <div id="mainNav" class="menu"><!-- #BeginLibraryItem "/library/MAIN-MENU.lbi" -->
 
+
+
 <!--[if IE 7]>
+
 <style>
+
 #lefCol { float:left; width:178px;  margin: 0; display:inline; margin:-12px 10px 13px 0 ;}
+
   ul#navlistSide li a.second {background:url(http://www.healthyweight.net.au/dev/images-reflow/tab.gif) top left no-repeat; width:178px; height:24px; padding:11px 0 0 12px; border-bottom:none; color:#fff; font-weight:bold; margin-left:-15px; }
+
   ul#navlistSide li ul li a {background:none; width:178px; color:#330066; font-weight:normal; line-height:25px; padding:2px 0 2px 12px; margin-left:-15px;}
 
+
+
 #footerLinks ul li a {
+
 color:#005FA8;
+
 font-size:11px;
+
 line-height:1.2em;
+
 margin:0 0 0 -17px;
+
 text-decoration:none;
+
 }
 
+
+
 </style>
+
 <![endif]-->
 
 
+
+
+
 <ul>
+
 <li><a href="index.html">Home</a></li>
+
 <li><a href="diets.html">Diet</a></li>
+
 <li><a href="directory.html">Directory</a></li>
+
 <li><a href="exercise.html">Exercise</a></li>
+
 <li><a href="http://www.weightloss.com.au/forum/">Forum</a></li>
+
 <li><a href="lifestyle.html">Lifestyle</a></li>
+
 <li><a href="healthy-recipes.html">Recipes</a></li>
-<li><a href="lose_weight.html">Weight loss</a></li>
+
+<li><a href="lose-weight.html">Weight loss</a></li>
+
 <li><a href="advertising.html">Advertising</a></li>
+
 <li><a href="contact.html">Contact Us</a></li>
+
 </ul><!-- #EndLibraryItem --></div>
 
 <div id="contentWrapper">
@@ -113,497 +223,834 @@ text-decoration:none;
 
 
 
+
+
+
+
 <ul id="navlistSide">
 
 
+
+
+
 <!--START CATEGORY TOP LEVEL -->
+
 <li> <a href="#">Diet</a>
+
 <ul>
-<li><a href="articles/healthy-diet-articles.htm">Diet Articles</a></li>
+
+<li><a href="articles-healthy-diet.html">Diet Articles</a></li>
+
 <li><a href="diets.html">Dieting Page</a></li>
-<li><a href="weight-loss-quizzes/diets-quiz.htm">Diet Quiz</a></li>
+
+<li><a href="weight-loss-quizzes/diets-quiz.html">Diet Quiz</a></li>
+
 <li><a href="healthy-recipes.html">Diet Recipes</a></li>
-<li><a href="resources/diet-resources.htm">Diet Resources</a></li>
+
+<li><a href="resources/diet-resources.html">Diet Resources</a></li>
+
 <li><a href="weight-loss-tools.html">Diet Tools</a></li>
+
+<li><a href="diet-plans.html">Everyday Diets</a></li>
+
 <li><a href="food-tables.html">Food Tables</a></li>
+
 <li><a href="shop/weight-loss-shop-recipe-books.html">Recipe Books</a></li>
+
 </ul>
+
 </li>
+
         
+
         
+
        
+
 <!-- START SECOND/DIERCTORY CATEGORY -->
+
 <li>
+
 			<a href="#" class="second">Directory</a>
+
 			<ul>
+
 		<li><a href="body-sculpting.html">Body Sculpting</a></li>
+
 			  <li><a href="boot-camps.html">Boot Camps</a></li>
+
 			  <li><a href="cellulite-treatment.html">Cellulite Treatments</a></li>
+
 			  <li><a href="dietitians.html">Dietitians</a></li>
+
 			  <li><a href="special-offers.html">Discounts</a></li>
+
 			  <li><a href="exercise-equipment.html">Fitness Equipment</a></li>
-			  <li><a href="health-retreats.html">Health Retreats</a></li>
-              <li><a href="life-coaches.html">Life Coaches</a></li>
+
+			  <li><a href="life-coaches.html">Life Coaches</a></li>
+
 			  <li><a href="mums-n-bubs.html">Mums n Bubs</a></li>
+
 			  <li><a href="naturopaths.html">Naturopaths</a></li>
+
 			  <li><a href="personal-trainers.html">Personal Trainers</a></li>
+
 			  <li><a href="pilates.html">Pilates Classes</a></li>
+
               <li><a href="weight-loss-programs.html">Weight loss Programs</a></li>
+              
+               <li><a href="weight-loss-retreats.html">Weight loss Retreats</a></li>
+
 			  <li><a href="surgical-weight-loss.html">Weight loss Surgery</a></li>
+
 			  <li><a href="yoga-centres.html">Yoga Classes</a></li>
+
 	</ul>
+
 </li>
+
         
+
           
+
           
+
             <!-- START THIRD/DIERCTORY CATEGORY -->
+
 	
+
 <li><a href="#" class="second">Exercise</a>
+
 			<ul>
-<li><a href="articles/exercise-articles.htm">Exercise Articles</a></li>
-			  <li><a href="shop/weight-loss-shop-exercise-dvd.htm">Exercise DVDs</a></li>
+
+<li><a href="articles-exercise.html">Exercise Articles</a></li>
+
+			  <li><a href="shop/weight-loss-shop-exercise-dvd.html">Exercise DVDs</a></li>
+
 			  <li><a href="exercise.html">Exercise Page</a></li>
-			  <li><a href="weight-loss-quizzes/exercise-quiz.htm">Exercise Quiz</a></li>
+
+			  <li><a href="weight-loss-quizzes/exercise-quiz.html">Exercise Quiz</a></li>
+
                 
-              <li><a href="resources/exercise-resources.htm">Exercise Resources</a></li>
+
+              <li><a href="resources/exercise-resources.html">Exercise Resources</a></li>
+
 			  <li><a href="weight-loss-tools.html">Exercise Tools</a></li>
-			  <li><a href="shop/weight-loss-shop-swiss-ball.htm">Swiss Balls</a></li>
+
+			  <li><a href="shop/weight-loss-shop-swiss-ball.html">Swiss Balls</a></li>
+
 			  <li><a href="events.html">Fun Runs</a></li>
+
                 
+
            	  <li><a href="home-workouts.html">Home Workouts</a></li>
+
 			  <li><a href="events.html">Walking Events</a></li>
+
 			  <li><a href="walks.html">Walking Paths</a></li>
+
                 
+
                 
+
 	</ul>
+
 		</li>
+
         
+
  <!-- END THIRD/EXERCISES CATEGORY -->
+
         <li class="topLevel"><a href="http://www.weightloss.com.au/forum/" class="second">Forum</a></li>
+
         
+
        
+
        
+
        
+
 <!-- START 6TH/HEALTHY RECIPES CATEGORY --> 
+
 <li>
+
 <a href="#" class="second">Healthy Recipes</a>
+
 			<ul>
-				<li><a href="healthy-breakfast-recipes.html">Breakfast Recipes</a></li>
+            
+            <li><a href="recipes-index.html">Recipes Index</a></li>
+
+			  <li><a href="healthy-breakfast-recipes.html">Breakfast Recipes</a></li>
+
 			  <li><a href="healthy-lunch-recipes.html">Lunch Recipes</a></li>
+
 			  <li><a href="healthy-dinner-recipes.html">Dinner Recipes</a></li>
+              
+              <li><a href="healthy-dessert-recipes.html">Dessert Recipes</a></li>
+
 			  <li><a href="healthy-snack-recipes.html">Snack Recipes</a></li>
+              
+               <li><a href="healthy-entertaining-recipes.html">Entertaining Recipes</a></li>
+              
+              <li><a href="healthy-drink-recipes.html">Drink Recipes</a></li>
+
               <li><a href="shop/weight-loss-shop-recipe-books.html">Recipe Books</a> </li>
-</ul>
-</li>
-        
-          
-          
-          
-<!-- START 7TH/LIFESTYLE CATEGORY --> 
-<li>
-<a href="#" class="second">Lifestyle</a>
-<ul>
-<li><a href="articles/healthy-lifestyle-articles.htm">Lifestyle Articles</a></li>
-<li><a href="weight-loss-quizzes/healthy-lifestyle-quiz.htm">Lifestyle Quiz</a></li>
-<li><a href="resources/lifestyle-resources.htm">Lifestyle Resources</a></li>
 
 </ul>
+
 </li>
+
+        
+
+          
+
+          
+
+          
+
+<!-- START 7TH/LIFESTYLE CATEGORY --> 
+
+<li>
+
+<a href="#" class="second">Lifestyle</a>
+
+<ul>
+
+<li><a href="articles-healthy-lifestyle.html">Lifestyle Articles</a></li>
+
+<li><a href="weight-loss-quizzes/healthy-lifestyle-quiz.html">Lifestyle Quiz</a></li>
+
+<li><a href="resources/lifestyle-resources.html">Lifestyle Resources</a></li>
+
+
+
+</ul>
+
+</li>
+
+
+
+
 
 
 
 	
+
     
+
 <!-- START 8TH/WEIGHTLOSS CATEGORY --> 
+
 <li>
+
 <a href="#" class="second">Weightloss</a>
+
 <ul>
-<li><a href="articles/weight-loss-articles.htm">Weight loss Articles</a></li>
+
+<li><a href="diy-weight-loss-program.html">DIY Weight loss Program</a></li>
+
+<li><a href="articles-weight-loss.html">Weight loss Articles</a></li>
+
+<li><a href="diet-plans.html">Weight loss Diets</a></li>
+
 <li><a href="http://www.weightloss.com.au/forum/">Weight loss Forum</a></li>
-<li><a href="weight-loss-quizzes/weight-loss-quiz.htm">Weight loss Quizs</a></li>
+
+<li><a href="weight-loss-quizzes/weight-loss-quiz.html">Weight loss Quizs</a></li>
+
 <li><a href="new-products.html">Weight loss Products</a></li>
-<li><a href="resources/weight-loss-resources.htm">Weight loss Resources</a></li>
+
+<li><a href="resources/weight-loss-resources.html">Weight loss Resources</a></li>
+
 <li><a href="weight-loss-shop.html">Weight loss Shop</a></li>
+
 <li><a href="weight-loss-success.html">Weight loss Successes</a></li>
+
 <li><a href="weight-loss-tips.html">Weight loss Tips</a></li>
+
 <li><a href="weight-loss-tools.html">Weight loss Tools</a></li>
 
+
+
 </ul>
+
 </li>
+
+
+
 
 
 </ul>  
+
     
+
+
 
 <script src="js/menu.js" type="text/javascript"></script>
 
-<!-- #EndLibraryItem --><!-- ADVERTISING BANNERS --><!-- #BeginLibraryItem "/Library/LHS BANNERS.lbi" -->
+
+
+<!-- #EndLibraryItem --><!-- #BeginLibraryItem "/library/LHS BANNERS.lbi" -->
+
+
+
 
 
 <div class="lhsBannerAdverts lhsbanner1"> 
+
    <!-- START 1ST LHS BANNER -->
-  <script language="JavaScript" type="text/javascript" src="http://weightloss.com.au/adserver/adx.js"></script>
-  <script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://weightloss.com.au/adserver/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:17");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-  </script><script language="JavaScript" type="text/javascript" src="http://weightloss.com.au/adserver/adjs.php?n=404944837&amp;what=zone:17&amp;exclude=,"></script>
-  <noscript>
-  <a href='http://weightloss.com.au/adserver/adclick.php?n=a0963b61' target='_blank'><img src='http://weightloss.com.au/adserver/adview.php?what=zone:17&amp;n=a0963b61' border='0' alt=''></a>
-  </noscript>
-  
-  
+
+  <!--/* OpenX Javascript Tag v2.8.7 */-->
+
+<!--/*
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'http://www.weightloss.com.au/adserver/www/delivery/...'
+  * to
+  *   'https://www.weightloss.com.au/adserver/www/delivery/...'
+  *
+  * This noscript section of this tag only shows image banners. There
+  * is no width or height in these banners, so if you want these tags to
+  * allocate space for the ad before it shows, you will need to add this
+  * information to the <img> tag.
+  *
+  * If you do not want to deal with the intricities of the noscript
+  * section, delete the tag (from <noscript>... to </noscript>). On
+  * average, the noscript tag is called from less than 1% of internet
+  * users.
+  */-->
+
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://www.weightloss.com.au/adserver/www/delivery/ajs.php':'http://www.weightloss.com.au/adserver/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=5");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://www.weightloss.com.au/adserver/www/delivery/ajs.php?zoneid=5&amp;cb=47247747489&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111123173748id_/http%253A//weightloss.com.au/privacy-policy.html"></script><noscript><a href='http://www.weightloss.com.au/adserver/www/delivery/ck.php?n=a5fe6f59&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.weightloss.com.au/adserver/www/delivery/avw.php?zoneid=5&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a5fe6f59' border='0' alt='' /></a></noscript>
+
+
    </div>
+
    
-   <div class="lhsBannerAdverts lhsbanner2"> 
+
+<div class="lhsBannerAdverts lhsbanner2"> 
+
   <!-- START 2ND LHS BANNER -->
-  <img src="http://images.hitwise.com/awards/top10/top10_award_jul_dec_2009_white.gif" width="100" height="100" border="0" title="Hitwise Award Winner" alt="Loading..." usemap="#hitwise_award_200904">
-  <map name="hitwise_award_200904">
-    <area shape="poly" alt="" coords="32,14, 51,3, 91,26, 91,48, 95,48, 95,68, 91,68, 91,73, 50,97, 10,73, 10,68, 5,68, 5,48, 10,48, 10,26" href="#" onclick="javascript:window.open('http://www.hitwise.com/awards/popup.html?market=au&amp;sDomain=www.weightloss.com.au&amp;iDate=200904&amp;iCatnum=280&amp;Cal=&amp;semi=2', 'info', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=yes,copyhistory=no,width=480,height=420');">
-  </map>
+
+ 
+
+
 
   </div>
+
+<!-- END 2ND LHS BANNER -->
 
 <!-- #EndLibraryItem --></div>
 
 <!--END LEFT NAVIGATION -->
 
-<div id="mainContent">
+<div id="mainContentHome">
 	
-    
-    
+    <!-- INSERT BANNER HERE -->
+<!-- InstanceBeginEditable name="content" --> 
 
-   
-   
+<div align="center">
+  <a href="../diet-plans.html"><img src="../images/banners/550x100B.jpg" alt="Weight loss Diets for Everyday People"></a>
+  </div>
+
+  
+  
+  <!-- START SECTION HEADER -->
+           <h2 class="sectionHeaderInternal">Privacy Policy</h2>
+      
     
-  										
-  <table width="543" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td>&nbsp;
+            
+         <div class="subContents">   
+            
+           <p>Your  privacy is important to us. That's why we invest in some of the latest security  systems and commit to maintaining industry standards relating to your privacy.<br>
+<br>
+It  is important that you fully understand the way we obtain and use your personal  information and also the limited circumstances in which we may disclose it.  This privacy statement details the information we gather, how we may use it,  and how you can correct or change it if necessary.<br>
+<br>
+Our  web site has areas where you can provide personal information to identify  yourself or the company you represent. We have developed this Privacy Policy to  inform you of our policies and practices regarding such information.<br>
+<br>
+This  document is the Privacy Policy of Ultimate Weightloss. It relates to the web  pages and services available at Ultimate Weightloss Sites, including  www.weightloss.com.au. <br>
+<br>
+<strong>Information  Collection and Use. </strong><br>
+<br>
+Ultimate  Weightloss is the sole owner of the information collected on this site. We will  not sell, share, or rent this information to others in ways different from what  is disclosed in this statement. Ultimate Weightloss collects information from  our users at several different points on our website.<br>
+<br>
+<strong>Online  Enquiry Forms.</strong> <br>
+<br>
+In  order to submit an enquiry form, you are required to provide your contact  details (name and email address). This information is used to contact you only  about the services on our site that you have expressed interest in.<br>
+<br>
+<strong>Opt-In  or Opt-Out. </strong><br>
+<br>
+It  is our anti-spamming policy that as much as we'd love to send you helpful  information to assist with your weight loss needs; we simply do not unless you  tell us to, through the use of an opt-in check box.<br>
+<br>
+You  are able to opt-out of receiving communications from the site by checking the  unsubscribe option of the Newsletter page along with your email confirmation.<br>
+<br>
+<strong>Newsletter. </strong><br>
+<br>
+At  some points on our site we provide an opt-in option that you can decidedly  check if you'd like to request periodic issues of our popular Weightloss  Newsletter. If you wish to subscribe to our newsletter, we ask for contact  information such as name and email address.<br>
+<br>
+You  can choose to unsubscribe at any time to our Newsletter either by using the  unsubscribe links detailed in the Weightloss Newsletter, or by typing your  email address and checking the unsubscribe option of the Newsletter page. <br>
+<br>
+<strong>Credit  Card Information. </strong><br>
+<br>
+Your  credit card number will only be used to charge you for the products and  services which you buy or subscribe to.<br>
+<br>
+<strong>Communication. </strong><br>
+<br>
+You  can expect email from us in response to:<br>
+<br>
+<em>Solicited email enquiries.</em> We like to  think that we are a responsible business and therefore promptly respond to  enquiries, comments, and any other feedback.<br>
+<br>
+<em>Newsletters</em>. By checking the opt-in box  on our contact page or typing your email address and subscribing in the  newsletter window clearly interprets your consent to receive newsletters.  Newsletters are issued once every month.<br>
+<br>
+<em>Message board response notices</em>. You will  be posted an email indicating when someone has responded to your message board  posting. Upon use of our message board, you are granted the choice to opt-in  for this reply service by checking the opt-in box.<br>
+<br>
+If  you believe that you are a recipient of any other information not specified  above which may or may not be interpreted as spam mail, please email  security@weightloss.com.au immediately.<br>
+<strong><br>
+Log  Files. </strong><br>
+<br>
+We  use IP addresses to analyse trends, administer the site, track user's movement,  and gather broad demographic information for aggregate use. IP addresses are  NOT linked to personally identifiable information.<br>
+<br>
+<strong>Sharing  information. </strong><br>
+<br>
+We  may share aggregated demographic information with our clients, content  providers, partners and advertisers. This information is NOT linked to any  personal data that can identify you as an individual person, nor do we  distribute or sell personally identifiable information to third parties like  direct marketers.<br>
+<br>
+<strong>Hyper  Links. </strong><br>
+<br>
+Naturally,  this web site contains links to other sites. Ultimate Weightloss is not  responsible for the privacy practices of any other sites. We encourage our  users to read [if available] the privacy statements of each web site that  collects personally identifiable information as this privacy statement applies  solely to information collected by this site.<br>
+<br>
+<strong>Use  of Chat Rooms, Forums, and Message Boards. </strong><br>
+<br>
+When  disclosing personally identifiable information online through Chat Rooms,  Forums, and Message Boards the information is considered submitted public  information. So, when posting public information you are at risk of receiving  unsolicited email and therefore we urge you to be extra careful and to use  discretion when disclosing information online, especially your email address.<br>
+<br>
+<strong>Security. </strong><br>
+<br>
+The  open nature of the Internet means no data transmission can be guaranteed 100%  secure. While we strive to protect your information, we cannot guarantee the  security of any information you transmit to us or receive from our online  products or services. Therefore these activities are conducted at your own  risk. Once we receive your information, we will use our best efforts to ensure  its security. <br>
+<br>
+<strong>Respecting  the rights of others. </strong><br>
+<br>
+In  reference to any weightloss.com.au forum you agree not to post, transmit,  distribute or link to content that is unlawful, harassing, abusive,  threatening, harmful, indecent, obscene, tortuous, libellous, defamatory,  invasive of one's privacy or otherwise liable to be viewed as objectionable or  threatening physical harm to any person or group.<br>
+<br>
+<strong>Correcting  and updating your details. </strong><br>
+<br>
+The  information we receive from you is kept in a secure environment accessed only  by authorised Ultimate Weightloss staff and service providers.<br>
+<br>
+You  have access to the personal information you provide to us and you can easily  update that information.<br>
+<br>
+Access  to your personal information can be gained from the administration area and  you'll need your username and password in order to modify your personal  details. <br>
+<br>
+<strong>Contact  us. </strong><br>
+<br>
+If  you have any questions about this policy statement, the practices of our Sites,  or your dealings with Ultimate Weightloss, please contact us.<br>
+<br>
+Click here to view our <a href="/contact.html"><strong>contact details</strong></a>.<br>
+<br>
+<br>
+           </p>
+
+
  
-   
-      <!-- InstanceBeginEditable name="content" --> 
 
-						<table width="100%" border="0" cellpadding="0" cellspacing="0" class="bordered">
-                          <tbody><tr>
-                            <td><table width="466" align="center" border="0" cellspacing="0" cellpadding="0">
-                              <tbody><tr>
-                                <td><img src="/images/spacer.gif" alt="" width="8" height="15"></td>
-                                </tr>
-								<tr><td align="center" bgcolor="#ffffff"><table width="450" align="center" cellpadding="0" cellspacing="0">
-<tbody><tr><td colspan="3" align="center" bgcolor="#ffffff"><script language="JavaScript" type="text/javascript" src="http://weightloss.com.au/adserver/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://weightloss.com.au/adserver/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:3");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://weightloss.com.au/adserver/adjs.php?n=265498697&amp;what=zone:3&amp;exclude=,"></script><noscript><a href='http://weightloss.com.au/adserver/adclick.php?n=a4f80b19' target='_blank'><img src='http://weightloss.com.au/adserver/adview.php?what=zone:3&amp;n=a4f80b19' border='0' alt=''></a></noscript></td>
-</tr>
-</tbody></table></td></tr>
-<tr><td><img src="http://www.weightloss.com.au/images/spacer.gif" alt="" width="100%" height="15"></td>
-  </tr>
-                              <tr>
-                                <td><span class="BlockHeadingNew">The weightloss.com.au
-                                    Privacy Policy.</span>
-                                  <p align="justify" class="bodyText">Your privacy is important to us. That's why we invest in some of the latest security systems and commit to maintaining industry standards relating to your privacy.</p>
-                                  <p align="justify" class="bodyText">It is important that you fully understand the way we obtain and use your personal information and also the limited circumstances in which we may disclose it. This privacy statement details the information we gather, how we may use it, and how you can correct or change it if necessary.</p>
-                                  <p align="justify" class="bodyText">Our web site has areas where you can provide personal information to identify yourself or the company you represent. We have developed this Privacy Policy to inform you of our policies and practices regarding such information.</p>
-                                  <p align="justify" class="bodyText">This document
-                                    is the Privacy Policy of Ultimate Weightloss.
-                                    It relates to the web pages and services
-                                    available at Ultimate Weightloss Sites, including
-                                    www.weightloss.com.au. </p>
-                                  <span class="BlockHeadingNew">Information Collection and Use.</span>
-                                  <p align="justify" class="bodyText">Ultimate Weightloss is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Ultimate Weightloss collects information from our users at several different points on our website.</p>
-                                  <span class="BlockHeadingNew">Online Enquiry Forms.</span>
-                                  <p align="justify" class="bodyText">In order to submit an enquiry form, you are required to provide your contact details (name and email address). This information is used to contact you only about the services on our site that you have expressed interest in.</p>
-                                  <span class="BlockHeadingNew">Opt-In or Opt-Out.</span>
-                                  <p align="justify" class="bodyText">It is our anti-spamming policy that as much as we'd love to send you helpful information to assist with your weight loss needs; we simply do not unless you tell us to, through the use of an opt-in check box.</p>
-                                  <p align="justify" class="bodyText">You are able to opt-out of receiving communications from the site by checking the unsubscribe option of the Newsletter page along with your email confirmation.</p>
-                                  <span class="BlockHeadingNew">Newsletter.</span>
-                                  <p align="justify" class="bodyText">At some
-                                    points on our site we provide an opt-in option
-                                    that you can decidedly check if you'd like
-                                    to request periodic issues of our popular
-                                    Weightloss Newsletter. If you wish to subscribe
-                                    to our newsletter, we ask for contact information
-                                    such as name and email address.</p>
-                                  <p align="justify" class="bodyText">You can
-                                    choose to unsubscribe at any time to our
-                                    Newsletter either by using the unsubscribe
-                                    links detailed in the Weightloss Newsletter,
-                                    or by typing your email address and checking
-                                    the unsubscribe option of the Newsletter
-                                    page. </p>
-                                  <span class="BlockHeadingNew">Credit Card Information.</span>
-                                  <p align="justify" class="bodyText">Your credit card number will only be used to charge you for the products and services which you buy or subscribe to.</p>
-                                  <span class="BlockHeadingNew">Communication.</span>
-                                  <p align="justify" class="bodyText">You can expect email from us in response to:</p>
-                                  
-                                  <ul><li class="bodyText"><p align="justify">Solicited email enquiries. We like to think that we are a responsible business and therefore promptly respond to enquiries, comments, and any other feedback.</p>
-                                    </li>
-                                  </ul>
-                                  
-                                  <ul><li class="bodyText">
-                                    <p align="justify">Newsletters.
-                                        By checking the opt-in box on our contact
-                                        page or typing your email address and
-                                        subscribing in the newsletter window
-                                        clearly interprets your consent to receive
-                                        newsletters. Newsletters are issued once
-                                        every month.</p>
-                                    </li>
-                                  </ul>
-                                  
-                                  <ul><li class="bodyText"><p align="justify">Message board response notices. You will be posted an email indicating when someone has responded to your message board posting. Upon use of our message board, you are granted the choice to opt-in for this reply service by checking the opt-in box.</p>
-                                    </li>
-                                  </ul>
-                                  <p align="justify" class="bodyText">If you believe that you are a recipient of any other information not specified above which may or may not be interpreted as spam mail, please email security@weightloss.com.au immediately.</p>
-                                  <span class="BlockHeadingNew">Log Files.</span>
-                                  <p align="justify" class="bodyText">We use IP addresses to analyse trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are NOT linked to personally identifiable information.</p>
-                                  <span class="BlockHeadingNew">Sharing information.</span>
-                                  <p align="justify" class="bodyText">We may share aggregated demographic information with our clients, content providers, partners and advertisers. This information is NOT linked to any personal data that can identify you as an individual person, nor do we distribute or sell personally identifiable information to third parties like direct marketers.</p>
-                                  <span class="BlockHeadingNew">Hyper Links.</span>
-                                  <p align="justify" class="bodyText">Naturally, this web site contains links to other sites. Ultimate Weightloss is not responsible for the privacy practices of any other sites. We encourage our users to read [if available] the privacy statements of each web site that collects personally identifiable information as this privacy statement applies solely to information collected by this site.</p>
-                                  <span class="BlockHeadingNew">Use of Chat Rooms, Forums, and Message Boards.</span>
-                                  <p align="justify" class="bodyText">When disclosing personally identifiable information online through Chat Rooms, Forums, and Message Boards the information is considered submitted public information. So, when posting public information you are at risk of receiving unsolicited email and therefore we urge you to be extra careful and to use discretion when disclosing information online, especially your email address.</p>
-                                  <span class="BlockHeadingNew">Security.</span>
-                                  <p align="justify" class="bodyText">The open nature of the Internet means no data transmission can be guaranteed 100% secure. While we strive to protect your information, we cannot guarantee the security of any information you transmit to us or receive from our online products or services. Therefore these activities are conducted at your own risk. Once we receive your information, we will use our best efforts to ensure its security.&nbsp; </p>
-                                  <span class="BlockHeadingNew">Respecting the rights of others.</span>
-                                  <p align="justify" class="bodyText">In reference to any weightloss.com.au forum you agree not to post, transmit, distribute or link to content that is unlawful, harassing, abusive, threatening, harmful, indecent, obscene, tortuous, libellous, defamatory, invasive of one's privacy or otherwise liable to be viewed as objectionable or threatening physical harm to any person or group.</p>
-                                  <span class="BlockHeadingNew">Correcting and updating your details.</span>
-                                  <p align="justify" class="bodyText">The information we receive from you is kept in a secure environment accessed only by authorised Ultimate Weightloss staff and service providers.</p>
-                                  <p align="justify" class="bodyText">You have access to the personal information you provide to us and you can easily update that information.</p>
-                                  <p align="justify" class="bodyText">Access to your personal information can be gained from the administration area and you'll need your username and password in order to modify your personal details.&nbsp; </p>
-                                  <span class="BlockHeadingNew">Contact us.</span>
-                                  <p align="justify" class="bodyText">If you have any questions about this policy statement, the practices of our Sites, or your dealings with Ultimate Weightloss, please contact us Email: scott@weightloss.com.au</p>
-                                  <p class="bodyText">Click <a href="/contact.html">here to contact us</a></p>    
-								  <p class="bodyText">Thank you for visiting weightloss.com.au.</p>                              
-                                  
-                                  </td>
-                                </tr>
-                            </tbody></table></td>
-                          </tr>
-						  <tr>
-                          </tr>
-                          <tr>
-                            <td><!-- #BeginLibraryItem "/Library/directory_bottom.lbi" --><p>&nbsp;</p>
-<p>&nbsp;</p>
-<!-- #EndLibraryItem --></td>
-                          </tr>
-                        </tbody></table>
-                        <!-- InstanceEndEditable -->
-        
+ 
+ 
+ </div>
+
+      <!-- END SECTION HEADER -->
+      
+      
+      <h2 class="sectionHeaderInternal">&nbsp;</h2>
+       
+       
+ <!-- InstanceEndEditable -->
 <p><!--!--></p><p><!--!--></p>
 
-    </td>
-  </tr>
-</tbody></table>
-
+   
 
 </div>
 <!--RIGHT COLUMN -->
 <div id="rightCol"><!-- #BeginLibraryItem "/library/SKYSCRAPER RHS.lbi" -->
-<a href="http://www.weightloss.com.au/newsletter/index.htm"> 
-<img src="images/home-page-images/mailing-list.gif" alt="Join Mailing List">
-</a>
+
+<div id="email-form">
+	<form action="http://email.mailbuzz.com.au/t/r/s/hypjd/" method="post">
+    <span class="emailhd">Free Newsletter</span><br>
+    <input name="cm-name" type="text" id="name" onfocus="this.select()" value="Name" size="16" class="emailinput">
+    <input name="cm-hypjd-hypjd" type="text" id="hypjd-hypjd" onfocus="this.select()" value="Email Address" size="16" class="emailinput">
+    <input type="submit" value="Subscribe"></form>
+</div>
+
+
+
+<!--/* OpenX Javascript Tag v2.8.7 */-->
+
+<!--/*
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'http://www.weightloss.com.au/adserver/www/delivery/...'
+  * to
+  *   'https://www.weightloss.com.au/adserver/www/delivery/...'
+  *
+  * This noscript section of this tag only shows image banners. There
+  * is no width or height in these banners, so if you want these tags to
+  * allocate space for the ad before it shows, you will need to add this
+  * information to the <img> tag.
+  *
+  * If you do not want to deal with the intricities of the noscript
+  * section, delete the tag (from <noscript>... to </noscript>). On
+  * average, the noscript tag is called from less than 1% of internet
+  * users.
+  */-->
+
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://www.weightloss.com.au/adserver/www/delivery/ajs.php':'http://www.weightloss.com.au/adserver/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=2");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://www.weightloss.com.au/adserver/www/delivery/ajs.php?zoneid=2&amp;cb=22890468625&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111123173748id_/http%253A//weightloss.com.au/privacy-policy.html"></script><noscript><a href='http://www.weightloss.com.au/adserver/www/delivery/ck.php?n=a06ae0ac&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.weightloss.com.au/adserver/www/delivery/avw.php?zoneid=2&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a06ae0ac' border='0' alt='' /></a></noscript>
+
 <p></p>
-<script language="JavaScript" type="text/javascript" src="http://weightloss.com.au/adserver/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://weightloss.com.au/adserver/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:18");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://weightloss.com.au/adserver/adjs.php?n=418715889&amp;what=zone:18&amp;exclude=,"></script><noscript><a href='http://weightloss.com.au/adserver/adclick.php?n=aceeade2' target='_blank'><img src='http://weightloss.com.au/adserver/adview.php?what=zone:18&amp;n=aceeade2' border='0' alt=''></a></noscript>
+
 <!-- #EndLibraryItem --></div>
 
 <div style="clear:both;"></div>
 
 <!--ADVERTISING AREA FOOTER -->
-<div id="advertisingArea"><!-- #BeginLibraryItem "/Library/RECTANGLE ADVERTISING FOOTER.lbi" -->
-
-<div class="advertisement">
-<script language="JavaScript" type="text/javascript" src="http://weightloss.com.au/adserver/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://weightloss.com.au/adserver/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:16");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://weightloss.com.au/adserver/adjs.php?n=802666014&amp;what=zone:16&amp;exclude=,"></script><noscript><a href='http://weightloss.com.au/adserver/adclick.php?n=a055b0e3' target='_blank'><img src='http://weightloss.com.au/adserver/adview.php?what=zone:16&amp;n=a055b0e3' border='0' alt=''></a></noscript>
-</div>
-
+<div id="advertisingArea"><!-- #BeginLibraryItem "/library/RECTANGLE ADVERTISING FOOTER.lbi" -->
 
 
 
 <div class="advertisement">
-
-<script language="JavaScript" type="text/javascript" src="http://weightloss.com.au/adserver/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://weightloss.com.au/adserver/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:25");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://weightloss.com.au/adserver/adjs.php?n=278533712&amp;what=zone:25&amp;exclude=,"></script><noscript><a href='http://weightloss.com.au/adserver/adclick.php?n=aeecc1ae' target='_blank'><img src='http://weightloss.com.au/adserver/adview.php?what=zone:25&amp;n=aeecc1ae' border='0' alt=''></a></noscript>
-
-</div>
-
-
-<div class="advertisement">
-
-<script language="JavaScript" type="text/javascript" src="http://weightloss.com.au/adserver/adx.js"></script>
-<script language="JavaScript" type="text/javascript">
-<!--
-   if (!document.phpAds_used) document.phpAds_used = ',';
-   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
-   
-   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
-   document.write ("http://weightloss.com.au/adserver/adjs.php?n=" + phpAds_random);
-   document.write ("&amp;what=zone:26");
-   document.write ("&amp;exclude=" + document.phpAds_used);
-   if (document.referrer)
-      document.write ("&amp;referer=" + escape(document.referrer));
-   document.write ("'><" + "/script>");
-//-->
-</script><script language="JavaScript" type="text/javascript" src="http://weightloss.com.au/adserver/adjs.php?n=775182881&amp;what=zone:26&amp;exclude=,"></script><noscript><a href='http://weightloss.com.au/adserver/adclick.php?n=a105f983' target='_blank'><img src='http://weightloss.com.au/adserver/adview.php?what=zone:26&amp;n=a105f983' border='0' alt=''></a></noscript>
-
-
-</div>
-<!-- #EndLibraryItem --></div>
-
 
   
+  <!--/* OpenX Javascript Tag v2.8.7 */-->
+
+<!--/*
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'http://www.weightloss.com.au/adserver/www/delivery/...'
+  * to
+  *   'https://www.weightloss.com.au/adserver/www/delivery/...'
+  *
+  * This noscript section of this tag only shows image banners. There
+  * is no width or height in these banners, so if you want these tags to
+  * allocate space for the ad before it shows, you will need to add this
+  * information to the <img> tag.
+  *
+  * If you do not want to deal with the intricities of the noscript
+  * section, delete the tag (from <noscript>... to </noscript>). On
+  * average, the noscript tag is called from less than 1% of internet
+  * users.
+  */-->
+
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://www.weightloss.com.au/adserver/www/delivery/ajs.php':'http://www.weightloss.com.au/adserver/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=6");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://www.weightloss.com.au/adserver/www/delivery/ajs.php?zoneid=6&amp;cb=81506716191&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111123173748id_/http%253A//weightloss.com.au/privacy-policy.html"></script><noscript><a href='http://www.weightloss.com.au/adserver/www/delivery/ck.php?n=a48955b8&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.weightloss.com.au/adserver/www/delivery/avw.php?zoneid=6&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a48955b8' border='0' alt='' /></a></noscript>
+
+  
+  
+  </div>
 
 
-<!-- #BeginLibraryItem "/library/FOOTER.lbi" --><div id="footerLinks">
+ 
+
+<div class="advertisement">
+
+
+  <!--/* OpenX Javascript Tag v2.8.7 */-->
+
+<!--/*
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'http://www.weightloss.com.au/adserver/www/delivery/...'
+  * to
+  *   'https://www.weightloss.com.au/adserver/www/delivery/...'
+  *
+  * This noscript section of this tag only shows image banners. There
+  * is no width or height in these banners, so if you want these tags to
+  * allocate space for the ad before it shows, you will need to add this
+  * information to the <img> tag.
+  *
+  * If you do not want to deal with the intricities of the noscript
+  * section, delete the tag (from <noscript>... to </noscript>). On
+  * average, the noscript tag is called from less than 1% of internet
+  * users.
+  */-->
+
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://www.weightloss.com.au/adserver/www/delivery/ajs.php':'http://www.weightloss.com.au/adserver/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=8");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://www.weightloss.com.au/adserver/www/delivery/ajs.php?zoneid=8&amp;cb=74512364678&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111123173748id_/http%253A//weightloss.com.au/privacy-policy.html"></script><noscript><a href='http://www.weightloss.com.au/adserver/www/delivery/ck.php?n=a532f2f1&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.weightloss.com.au/adserver/www/delivery/avw.php?zoneid=8&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a532f2f1' border='0' alt='' /></a></noscript>
+
+  
+  </div>
+
+<div class="advertisement">
+
+
+ <!--/* OpenX Javascript Tag v2.8.7 */-->
+
+<!--/*
+  * The backup image section of this tag has been generated for use on a
+  * non-SSL page. If this tag is to be placed on an SSL page, change the
+  *   'http://www.weightloss.com.au/adserver/www/delivery/...'
+  * to
+  *   'https://www.weightloss.com.au/adserver/www/delivery/...'
+  *
+  * This noscript section of this tag only shows image banners. There
+  * is no width or height in these banners, so if you want these tags to
+  * allocate space for the ad before it shows, you will need to add this
+  * information to the <img> tag.
+  *
+  * If you do not want to deal with the intricities of the noscript
+  * section, delete the tag (from <noscript>... to </noscript>). On
+  * average, the noscript tag is called from less than 1% of internet
+  * users.
+  */-->
+
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://www.weightloss.com.au/adserver/www/delivery/ajs.php':'http://www.weightloss.com.au/adserver/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=4");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://www.weightloss.com.au/adserver/www/delivery/ajs.php?zoneid=4&amp;cb=88533175441&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111123173748id_/http%253A//weightloss.com.au/privacy-policy.html"></script><noscript><a href='http://www.weightloss.com.au/adserver/www/delivery/ck.php?n=a0582d9f&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://www.weightloss.com.au/adserver/www/delivery/avw.php?zoneid=4&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a0582d9f' border='0' alt='' /></a></noscript>
+
+  
+  
+  
+  
+  
+  </div><!-- #EndLibraryItem --></div>
+
+<!--FOOTER LINKS --><!-- #BeginLibraryItem "/library/FOOTER.lbi" --><div id="footerLinks">
+
+
 
 <h2>Weight Loss Directory</h2>
 
 
+
+
+
 <div class="navLinks"><ul class="innerNavigation first">
+
 <li><a href="body-sculpting.html">Body Sculpting</a></li>
+
 </ul></div>
 
+
+
 <div class="navLinks"><ul class="innerNavigation">
+
 <li><a href="dietitians.html">Dietitians</a></li>
+
 </ul>
+
 </div>
 
+
+
 <div class="navLinks"><ul class="innerNavigation">
+
 <li><a href="life-coaches.html">Life Coaches</a></li>
+
    
+
 </ul></div>
 
+
+
 <div class="navLinks"><ul class="innerNavigation">
+
 <li><a href="personal-trainers.html">Personal Trainers</a></li>
+
    
+
 </ul></div>
 
 
+
+
+
 <div class="navLinks"><ul class="innerNavigation">
+
 <li><a href="weight-loss-programs.html">Weight loss Programs</a></li>
+
     
+
 </ul></div>
+
+
 
 <br class="clear">
 
+
+
 <div class="navLinks"><ul class="innerNavigation first">
+
 <li><a href="boot-camps.html">Boot Camps</a></li>
+
    
+
 </ul></div>
 
 
+
+
+
 <div class="navLinks"><ul class="innerNavigation">
+
 <li><a href="exercise-equipment.html">Fitness Equipment</a></li>
+
     
+
 </ul></div>
 
 
+
+
+
 <div class="navLinks"><ul class="innerNavigation">
+
 <li><a href="mums-n-bubs.html">Mums n Bubs Group Fitness</a></li>
+
   
+
 </ul></div>
 
+
+
 <div class="navLinks"><ul class="innerNavigation">
+
 <li><a href="pilates.html">Pilates Classes</a></li>
+
     
+
 </ul></div>
+
+
+
 
 
 <div class="navLinks"><ul class="innerNavigation">
+
 <li><a href="yoga-centres.html">Yoga Classes</a></li>
+
    
+
 </ul></div>
+
+
 
 <br class="clear">
+
+
 
 <div class="navLinks"><ul class="innerNavigation first">
+
 <li><a href="cellulite-treatment.html">Cellulite Treatment</a></li>
+
     
+
 </ul></div>
 
 
+
+
+
 <div class="navLinks"><ul class="innerNavigation">
-<li><a href="health-retreats.html">Health Retreats</a></li>
+
+<li><a href="weight-loss-retreats.html">Weight loss Retreats</a></li>
+
    
+
 </ul></div>
 
 
 
+
+
+
+
 <div class="navLinks"><ul class="innerNavigation">
+
 <li><a href="naturopaths.html">Naturopaths</a></li>
+
    
+
 </ul></div>
 
+
+
 <div class="navLinks"><ul class="innerNavigation">
+
 <li><a href="surgical-weight-loss.html">Weight loss Surgery</a></li>
+
    
+
 </ul></div>
+
+
+
 
 
 <br class="clear">
+
+
 
 <img src="images/images-reflow/divider_footer.gif" alt="Divider" class="dividerThin">
+
+
 
 <!--END FIRST LEVEL FOOTER NAV -->
 
@@ -611,188 +1058,381 @@ text-decoration:none;
 
 
 
+
+
+
+
+
+
 <div class="navLinks">
+
   <ul class="innerNavigation first">
+
     <h3>WEIGHT LOSS</h3>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
+
     <h3>EXERCISE</h3>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
+
     <h3>DIET</h3>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
+
     <h3>LIFESTYLE</h3>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
+
     <h3>SITE</h3>
+
   </ul>
+
 </div>
+
 <br class="clear">
+
 <div class="navLinks">
+
   <ul class="innerNavigation first">
+
     <li><a href="new-products.html">Weight loss Products</a></li>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
-    <li><a href="weight-loss-tools/exercise-energy-charts.htm">Energy Charts</a></li>
+
+    <li><a href="weight-loss-tools/exercise-energy-charts.html">Energy Charts</a></li>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
+
     <li><a href="healthy-recipes.html">Healthy Recipes</a></li>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
-    <li><a href="articles/healthy-lifestyle-articles.htm">Lifestyle Articles</a></li>
+
+    <li><a href="articles/healthy-lifestyle-articles.html">Lifestyle Articles</a></li>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
+
     <li><a href="advertising.html">Advertising</a></li>
+
   </ul>
+
 </div>
+
 <br class="clear">
+
 <div class="navLinks">
+
   <ul class="innerNavigation first">
+
     <li><a href="weight-loss-tips.html">Weight loss Tips</a></li>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
-    <li><a href="weight-loss-tools/target-heart-rate-calculator.htm">Target Heart Rates</a></li>
+
+    <li><a href="weight-loss-tools/target-heart-rate-calculator.html">Target Heart Rates</a></li>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
+
     <li><a href="food-tables.html">Food Tables</a></li>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
-    <li><a href="shop/weight-loss-shop-exercise-dvd.htm">Exercise DVDs</a></li>
+
+    <li><a href="shop/weight-loss-shop-exercise-dvd.html">Exercise DVDs</a></li>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
+
     <li><a href="contact.html">Contact Us</a></li>
+
   </ul>
+
 </div>
+
 <br class="clear">
+
 <div class="navLinks">
+
   <ul class="innerNavigation first">
-    <li><a href="weight-loss-tools/body-mass-index.htm">BMI Calculator</a></li>
+
+    <li><a href="weight-loss-tools/body-mass-index.html">BMI Calculator</a></li>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
+
     <li><a href="weight-loss-tools/exercise-diary.html">Exercise Diaries</a></li>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
+
     <li><a href="shop/weight-loss-shop-recipe-books.html">Recipe Books</a></li>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
+
     <li><a href="healthy-recipes.html">Weight loss Recipes</a></li>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
-    <li><a href="privacy-policy.htm">Privacy Policy</a></li>
+
+    <li><a href="privacy-policy.html">Privacy Policy</a></li>
+
   </ul>
+
 </div>
+
 <br class="clear">
+
 <div class="navLinks">
+
   <ul class="innerNavigation first">
-    <li><a href="weight-loss-tools/energy-needs-calculator.htm">Energy Needs Calculator</a></li>
+
+    <li><a href="weight-loss-tools/energy-needs-calculator.html">Energy Needs Calculator</a></li>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
+
     <li><a href="home-workouts.html">Home Workouts</a></li>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
-    <li><a href="weight-loss-tools/food-diary.htm">Food Diaries</a></li>
+
+    <li><a href="weight-loss-tools/food-diary.html">Food Diaries</a></li>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
-    <li><a href="articles/weight-loss-articles.htm">Weight loss Articles</a></li>
+
+    <li><a href="articles/weight-loss-articles.html">Weight loss Articles</a></li>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
+
     <li><a href="disclaimer.html">Disclaimer</a></li>
+
   </ul>
+
 </div>
+
 <br class="clear">
+
 <div class="navLinks">
+
   <ul class="innerNavigation first">
-    <li><a href="weight-loss-tools/waist-to-hip-ratio.htm">Waist to Hip Ratio</a></li>
+
+    <li><a href="weight-loss-tools/waist-to-hip-ratio.html">Waist to Hip Ratio</a></li>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
+
     <li><a href="events.html">Fun Runs</a></li>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
-    <li><a href="resources/diet-resources.htm">Diet Resources</a></li>
+
+    <li><a href="resources/diet-resources.html">Diet Resources</a></li>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
-    <li><a href="articles/exercise-articles.htm">Exercise Articles</a></li>
+
+    <li><a href="articles/exercise-articles.html">Exercise Articles</a></li>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
+
     <li><a href="links.html">Reciprocal Links</a></li>
+
   </ul>
+
 </div>
+
 <br class="clear">
+
 <div class="navLinks">
+
   <ul class="innerNavigation first">
+
     <li><a href="http://www.weightloss.com.au/forum">Weight loss Forum</a></li>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
+
     <li><a href="walks.html">Walking Paths</a></li>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
-    <li><a href="articles/healthy-diet-articles.htm">Diet Articles</a></li>
+
+    <li><a href="articles/healthy-diet-articles.html">Diet Articles</a></li>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
-    <li><a href="weight-loss-quizzes/healthy-lifestyle-quiz.htm">Healthy Lifestyle Quiz</a></li>
+
+    <li><a href="weight-loss-quizzes/healthy-lifestyle-quiz.html">Healthy Lifestyle Quiz</a></li>
+
   </ul>
+
 </div>
+
 <div class="navLinks">
+
   <ul class="innerNavigation">
-    <li><a href="terms-of-use.htm">Terms of Use</a></li>
+
+    <li><a href="terms-of-use.html">Terms of Use</a></li>
+
   </ul>
+
 </div>
+
 <br class="clear">
+
+
+
+
+
+
 
 
 
@@ -801,41 +1441,73 @@ text-decoration:none;
 <img src="images/images-reflow/divider_footer.gif" alt="Divider" class="dividerThin">
 
 
+
+
+
   <table width="690" border="0" align="left" cellpadding="0" cellspacing="0">
+
       <tbody><tr>
-        <td><p class="quickLinks"><strong>The best place to find</strong> <a href="new-products.html">Australian Weight loss Products</a>, <a href="weight-loss-programs.html">Weight loss Programs</a>, <a href="personal-trainers.html">Personal Trainers</a>, <a href="dietitians.html">Dietitians</a>, <a href="" yoga-centres.html"="">Yoga Classes</a>, <a href="pilates.html">Pilates Classes</a>, <a href="boot-camps.html">Boot Camps</a>, <a href="health-retreats.html">Health Retreats</a>, <a href="http://www.weightloss.com.au/forum/">Weight loss Forums</a> more. </p></td>
+
+        <td><p class="quickLinks"><strong>The best place to find</strong> <a href="new-products.html">Australian Weight loss Products</a>, <a href="weight-loss-programs.html">Weight loss Programs</a>, <a href="personal-trainers.html">Personal Trainers</a>, <a href="dietitians.html">Dietitians</a>, <a href="" yoga-centres.html"="">Yoga Classes</a>, <a href="pilates.html">Pilates Classes</a>, <a href="boot-camps.html">Boot Camps</a>, <a href="weight-loss-retreats.html">Weight loss Retreats</a>, <a href="http://www.weightloss.com.au/forum/">Weight loss Forums</a> more. </p></td>
+
         <td align="left"><img src="images/images-reflow/socialLinks.jpg" alt="Social Links" border="0" usemap="#Map" style="margin-left:6px;"></td>
+
     </tr>
+
       <tr>
-        <td><p class="quickLinks"> <a href="disclaimer.html">Disclaimer</a>&nbsp;|&nbsp;<a href="terms-of-use.htm">Terms of Use</a>&nbsp;|&nbsp;<a href="privacy-policy.htm">Privacy Policy</a><br>
+
+        <td><p class="quickLinks"> <a href="disclaimer.html">Disclaimer</a>&nbsp;|&nbsp;<a href="terms-of-use.html">Terms of Use</a>&nbsp;|&nbsp;<a href="privacy-policy.html">Privacy Policy</a><br>
+
             <strong>Ultimate Weightloss hottest topics:</strong><br>
+
             <a href="diets.html">Diet</a>&nbsp;|&nbsp;<a href="exercise.html">Exercise</a>&nbsp;|&nbsp;<a href="healthy-recipes.html">Healthy Recipes</a>&nbsp;|&nbsp;<a href="lose-weight.html">Lose Weight</a>&nbsp;|&nbsp;<a href="new-products.html">Weight loss Products</a><br>
+
         </p></td>
+
         <td><p class="quickLinks"> <strong>Webmasters:</strong><br>
+
             <a href="links.html">Useful Links</a><br>
+
          <a href="resources01.html">Resources01</a> | <a href="resources02.html">Resources02</a> | <a href="resources03.html">Resources03</a> <br>
+
            
+
            
+
            
+
             <strong>About Us</strong><br>
+
             <a href="advertising.html">Advertising</a>&nbsp;|&nbsp;<a href="contact.html">Contact Us</a>&nbsp;|&nbsp;<a href="sitemap.html">Site Map</a><br>
+
           </p>        </td>
+
       </tr>
+
     </tbody></table>
 
 
+
+
+
   </div>
+
 <map name="Map">
+
 <area shape="rect" coords="11,7,46,42" href="http://twitter.com/weightloss_au">
+
 <area shape="rect" coords="49,7,90,39" href="http://www.facebook.com/pages/weightlosscomau/104604082913387">
+
 </map><!-- #EndLibraryItem --></div>
 
 
 </div>
 
 
-<!-- #BeginLibraryItem "/library/FOOTERB.lbi" --><div id="footer"><p class="copyright">© Copyright 2001-2010 Ultimate Weightloss. All rights reserved.  |  Developed by Pique Communications.
+<!-- #BeginLibraryItem "/library/FOOTERB.lbi" --><div id="footer"><p class="copyright">© Copyright 2001-2011 Ultimate Weightloss. All rights reserved.  |  Developed by Pique Communications.
+
 </p>
+
 </div><!-- #EndLibraryItem -->
 <!-- InstanceEnd -->
 </body></html>
