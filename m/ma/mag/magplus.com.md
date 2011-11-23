@@ -1,116 +1,76 @@
-> *The following text is extracted and transformed from the magplus.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211132426id_/http%3A//www.magplus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magplus.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123080428id_/http%3A//www.magplus.com/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy | Magplus
 
-**Bonnier Corporation Privacy Policy**
+**[www.magplus.com](http://www.magplus.com/)** ** **
 
-At Bonnier Corporation, your privacy is important to us.  This Privacy Policy applies to all of the products, services, and websites offered by Bonnier Corporation and its subsidiaries or affiliated companies (collectively, “Bonnier”).
+**Privacy Notice**
 
-To better protect your privacy, we provide this notice explaining our privacy practices and the choices you can make about the way your information is collected and used by Bonnier.
+**Last updated:** September 7, 2011
 
-Bonnier adheres to the U.S. Department of Commerce Safe Harbor framework and the privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement.  For more information on the framework, please visit the [Safe Harbor web site](http://www.export.gov/safeharbor/doc_safeharbor_index.asp).
+Mag+ AB (the owner of www.magplus.com) understands that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy.
 
-If you have any questions about this Privacy Policy, please write to us [via email](mailto:privacy@bonniercorp.com), or via postal mail at:
+**By visiting www.magplus.com, you are accepting the practices described in this Privacy Notice.**
 
-Privacy Department  
-Bonnier Corporation  
-460 N. Orlando Avenue, Suite 200  
-Winter Park, FL 32789
+**What Personal Information About Customers Does www.magplus.com Gather?**
 
-**An overview of the information that Bonnier may collect:**
+The information we learn from customers helps us personalize and continually improve your shopping experience at www.magplus.com. Here are the types of information we gather.
 
-You are able to take advantage of many Bonnier products, services, and websites without providing any information that personally identifies you.  We only collect personally-identifying information when you voluntarily submit it to us.
-
-Sometimes, we need personally-identifying information in order to provide you with the products and services that you request.  Depending upon the product or service, we may ask you for a variety of personally-identifying information.  This might include, for example, your name, address, e-mail address, telephone number, gender, and birth date.  We may also ask for other information about you, such as your credit card information (when you are making a purchase), interests, income, or education level.  We consider certain identifying information “sensitive.”  This includes your credit card number, income level, or any other information that would normally be considered confidential.
-
-You may choose not to provide us with any personally-identifying information.  In that case, you can still access and use many portions of our websites; however, you will not be able to access and use those portions of any Bonnier website that require your personal information.
-
-Many Bonnier websites include community features, such as online forums and message boards.  Information that is posted in these areas becomes public information and the use that any third party makes of this information is beyond our ability to control.  You should exercise caution before disclosing any personally-identifying information in these public venues. If you elect to submit content that includes information that can be used to identify you, you must assume that the content can and will be displayed on any website on the Internet.
-
-At some Bonnier sites and through certain promotions, you can submit personally-identifying information about other people.  For example, you might submit a person’s name and e-mail address to send an electronic greeting card; or, if you order a gift online or offline and want it sent directly to the recipient, you might submit the recipient’s name and address.  Some Bonnier websites also provide referral services to help you inform a friend about our websites, products, or services.  The types of personally-identifying information that we collect about other people at pages like these may include the person’s name, address, e-mail address, or telephone number.  We will only ask you for the information about your friend that we need in order to do what you request.
-
-In some circumstances, we also collect non-personally-identifying information.  When you visit a Bonnier website, we may collect information such as the type of browser you use, your operating system, your IP address, and the domain name of your Internet Service Provider.  This information, by itself, does not permit individual identification, meaning that you will remain anonymous.  However, if you elect to provide us with personally-identifying information during your visit, that information may be linked to your IP address.
-
-When you visit our websites, we may send one or more cookies—small, removable data files—to your computer.  We use cookies to uniquely identify your browser, which allows us to enhance and personalize your online experience at Bonnier websites.  For example, cookies allow us to recognize you when you return to a website and present relevant content to you when you visit. Most browsers are initially set up to accept cookies, but you can configure your browser to warn you when cookies are sent, or to refuse all cookies. Some of the features and services of Bonnier websites may not operate properly if your cookies are disabled.
-
-Cookies, by themselves, do not provide us with any personally-identifying information.  However, if you elect to provide us with personally-identifying information during your visit, that information may be linked to the data stored in the cookie.
-
-On our websites, we may also use tiny graphic images called pixel tags, web beacons, or clear gifs.  These tiny images help us to analyze our users’ online behavior and collect other data, such as page views or advertising responses.  Pixel tags also allow us to send you e-mail in a format that you can read, and let us know when you have opened an e-mail message from us. Pixel tags may also be used to deliver cookies.
-
-We work with reputable third parties that provide data tracking and collection technologies in order to:
-
-  * Present or serve the advertisements you may see at Bonnier websites;
-  * Deliver and track e-mail communications;
-  * Process purchase orders through e-commerce transactions;
-  * Fulfill print and digital subscription orders; and
-  * Provide marketing leads to third-party organizations (where you have agreed to allow us to do so).
+  * **Information You Give Us:** We receive and may store any information you enter on our Website or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features and/or offerings. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our offerings, and communicating with you.
+  * **Automatic Information:** We receive and may store certain types of information whenever you interact with us. For example, like many Websites, we may use “cookies,” and we obtain certain types of information when your Webbrowser accesses www.magplus.com or advertisements and other content served by or on behalf of www.magplus.com on other Websites.
+  * **E-mail Communications:** To help us make e-mails more useful and interesting, we may receive a confirmation when you open e-mail from www.magplus.com if your computer supports such capabilities. We may also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please contact us and inform us of your preference.
+  * **  Information from Other Sources:** We might receive information about you from other sources and add it to our account information.
 
 
 
-These companies may collect information about you on our behalf.  We require that these parties agree to process any such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+** ** **Does www.magplus.com Share the Information It Receives?**
 
-Bonnier websites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties.  By virtue of their sponsorship, these third parties may obtain personally-identifying information that visitors voluntarily submit to them in order to participate in the contest, sweepstakes, or promotion.  Bonnier has no control over the third-party sponsors’ use of this information.  If a third-party sponsor beyond our control will obtain information that you supply us, we will notify you at the time we collect the information from you.  For certain promotions, only those who provide us with the requested personally-identifying information will be able to order products, programs, and services, or otherwise participate in the promotion’s activities and offerings.
+Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with affiliates of Mag+ AB that are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
 
-Some of our websites contain links to other sites.  By clicking on these links, you will leave the website operated by Bonnier and this Privacy Policy will no longer apply.  These other sites’ information practices may be different than ours.  You should consult the other sites’ privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
+  * **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples may include fulfilling orders, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
+  * **Promotional Offers:** We may send offers to selected groups of www.magplus.com customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please notify Mag+ accordingly.
+  * **Business Transfers:** As we continue to develop our business, we might sell or buy other corporations or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the event that www.magplus.com or substantially all of its assets are acquired, customer information will of course be one of the transferred assets.
 
-**How we use the information we collect:**
 
-We use the personally-identifying information that you provide us to fulfill your requests for our products, programs, and services, to respond to your inquiries about offerings, and to offer you other products, programs, or services that we believe may be of interest to you.  We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests, when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us.
-
-We may syndicate the publicly available content of our community areas to unaffiliated third-party websites, using RSS or other technologies.
-
-We will use the personally-identifying information that you provide about others only as necessary to provide the products or services that you have requested; for example, to enable us to send them your gifts or cards.  If you provide us someone else’s personally-identifying information for referral purposes, we may use that information to invite them to visit our websites or to provide them information about our products or services.
-
-If you provide us with your e-mail and/or postal address, we may include that address in e-mail and/or postal address lists that we sell, trade, or rent to third parties.  Before sharing your e-mail or postal address with companies not owned by Bonnier who want to market products or services to you, we will provide you with an opportunity to opt out.  You may also opt out of the receipt of any marketing materials from Bonnier as detailed below.
-
-We may transfer your sensitive personally-identifying information to other Bonnier offices for internal management and administrative purposes.  In addition, your personal data will be transferred to other Bonnier offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit.  Transfers of personally-identifying information may also be made where necessary for the establishment, exercise, or defense of legal claims.
-
-Bonnier will only share your sensitive personal information with outside companies or individuals in any of the following limited circumstances:
-
-  * When we use trusted businesses or persons to process personal information on our behalf.  Before sharing any personal information with outside parties, we require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
-  * When we have a good faith belief that access, use, preservation, or disclosure is necessary to (a) comply with applicable law, regulation, or legal process; (b) enforce the applicable Terms of Service or other agreements and policies on the Company’s Websites; (c) detect, prevent, or otherwise address fraud, security, or technical issues; or (d) protect against imminent harm to the rights, property, or safety or Bonnier, its users, or the public as required or permitted by law.
-  * When you consent.  Before we share your sensitive personal information outside of the previously listed circumstances, we will ask you for permission first.  Please note that this only applies to sensitive information, as defined above.
+  * **Protection of www.magplus.com and Others:** We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our [Conditions of Use](http://www.amazon.com/gp/browse.html/?node=508088) and other agreements; or protect the rights, property, or safety of Mag+, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Notice.
+  * **With Your Consent:** Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.
 
 
 
-We may also use, transfer, sell, and share aggregated, anonymous data about our users for any legal purpose, such as analyzing usage trends and seeking compatible advertisers and partners.  In no event will this aggregated data contain any information that could be used to identify individual users of our products or services.
+**How Secure Is Information About Me?**
 
-**How we protect the safety and integrity of the information we collect:**
+  * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
+  * We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
+  * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
-We take appropriate physical, electronic, and procedural measures to safeguard and protect your personal information.  We use a variety of security measures, including encryption and authentication, to maintain the confidentiality of your personal information.  We store your personal information on systems behind firewalls that are only accessible to a limited number of persons, each of whom is required to keep the information confidential.  We also take appropriate measures to secure the transmission of sensitive personal information from your computer to the Company’s computers.  When you transmit sensitive personal information to us, like credit card information, we offer the use of a secure connection to our servers.  To the extent you select the secure connection method or your browser supports such functionality, all credit card account information that you supply is transmitted via Secure Socket Layer (SSL) technology. Regardless of these measures, no system connected to the Internet or data transmission sent over the Internet can be guaranteed to be 100% secure.  We will provide notice if we become aware of any security breach that may affect any sensitive personal information pertaining to you that we have stored on our systems.
 
-Bonnier employees, agents, and contractors who have access to personally-identifying information are required to protect this information in a manner that is consistent with this Privacy Policy and may not use the information for any purpose other than to carry out the services they are performing for Bonnier.  These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
-Bonnier only collects personal information that is relevant to the purposes for which it will be used.  Though we do take appropriate steps to review and update the information that we store to ensure that it is accurate, complete, and current, we also depend on you to update or correct your personal information when necessary.
+**What About Third-Party Advertisers and Links to Other Websites?**
 
-You may correct or delete any or all of the personal information you have provided to us at any time.  Many of our websites provide means to review and update the personal information that you have provided on that website.  To inquire about personally identifiable information that Bonnier has collected about you, or about other ways to correct factual errors in that information, please [e-mail us](mailto:privacy@bonniercorp.com). To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.  We will decline to process requests where we cannot verify the identity of the requester.  We may also decline to process requests that are automated, repetitive, systematic, or impractical, or that might jeopardize the privacy of others.
+Our site may include third-party advertising and links to other Websites. We do not provide any personally identifiable customer information to these advertisers or third-party Websites.
 
-In some limited circumstances, such as to resolve disputes, troubleshoot problems, and enforce our policies, we may retain some of information that you have requested us to remove.  Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests.
+These third-party Websites and advertisers, or Internet advertising companies working on their behalf, may use technology to send (or “serve”) the advertisements that appear on our Website directly to your browser. They would automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalize advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party Websites are not covered by this Privacy Notice. Please contact them directly for more information about their privacy practices.
 
-We only use the information we collect for purposes consistent with this policy.  If we propose to use your personal information for purposes beyond that explained in this policy, we will provide appropriate notice before doing so and we will provide you with the means to opt out of those uses. We will not use your sensitive personal information for any purposes other than those described in this Policy unless we have obtained your consent.
+**What Choices Do I Have?**
 
-**Your privacy options:**
+  * As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such www.magplus.com features and or offerings.
+  * You can add or update certain information by contacting support@magplus.com. When you update information, we may keep a copy of the prior version for our records.
+  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on’s settings or visiting the Web site of its manufacturer.
 
-If you prefer not to receive communications from other companies, you may choose to remove yourself from any lists that we provide to third parties for marketing purposes by [emailing us](mailto:emailoptout@bonniercorp.com). You will still receive information from Bonnier and its various brands, but we will not share your address information with anyone else.
 
-We only want to communicate with you if you want to hear from us.  If you prefer not to be contacted at all, you may opt out of receiving any communications from us at any time by notifying us at [emailoptout@bonniercorp.com](mailto:emailoptout@bonniercorp.com). You may also notify us by sending mail to the following address:
 
-Online Marketing Department  
-Bonnier Corporation  
-460 North Orlando Avenue, Suite 200  
-Winter Park, FL  32789
+**Conditions of Use, Notices, and Revisions**
 
-In your request, please tell us what communications you would like to opt out of, what means we have been using to contact you (such as your e-mail or postal address), the date of your request, and a way to contact you in case we need to personally contact you in an effort to comply with your request.  We reserve the right to send you certain communications, such as technical alerts, without offering you the opportunity to opt out of receiving them.
+If you choose to visit www.magplus.com, your visit and any dispute over privacy is subject to this Privacy Notice and our [Conditions of Use](http://www.amazon.com/gp/browse.html/?node=508088), including limitations on damages, resolution of disputes, and application of the law of the country of Sweden, giving no effect to any conflict of laws provisions. If you have any concern about privacy at www.magplus.com, please [contact us](http://www.amazon.com/gp/help/contact-us/features-and-services.html/) with a thorough description, and we will try to resolve the issue. Our business evolves continually, and our Privacy Notice and the [Conditions of Use](http://www.amazon.com/gp/browse.html/?node=508088) will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Website frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
-**Enforcement and Compliance with this Privacy Policy  
-**  
-We take our Privacy Policy seriously and we regularly review our own compliance with this Policy.  If you have any questions or concerns about this Policy, or if you think that we have used your personal information in a manner inconsistent with this Policy, please contact us at:
+**OUR ADDRESS**
 
-Privacy Department  
-Bonnier Corporation  
-460 North Orlando Ave., Suite 200  
-Winter Park, FL 32789
+Mag+ AB
 
-If we receive a complaint from you, we will contact you in an attempt to address your concerns.  If we are not able to resolve a complaint, we will participate in the appropriate independent recourse mechanism as necessary.
+Rådmansgatan 49
 
-_This policy was last updated on March 18, 2008._
+113 60 Stockholm
+
+Sweden
+
+[http://www.magplus.com](http://www.magplus.com/)
