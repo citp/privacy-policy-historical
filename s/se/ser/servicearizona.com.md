@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the servicearizona.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518031433id_/http%3A//servicearizona.com/content.jsp%3FdocName%3DSAZHomePrivacy%26h%3D1600) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servicearizona.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123153724id_/http%3A//servicearizona.com/content.jsp%3FdocName%3DSAZHomePrivacy%26h%3D1600) for the most accurate reproduction.*
 
 # ServiceArizona - Privacy Policy
 
 ##  ServiceArizona Privacy Policy
 
-[Online Customer Service and Alternatives](http://servicearizona.com/content.jsp?docName=SAZHomePrivacy&h=1600#2online)  
-[Collection and Use of Information](http://servicearizona.com/content.jsp?docName=SAZHomePrivacy&h=1600#3collection)  
-[Information You Choose to Provide](http://servicearizona.com/content.jsp?docName=SAZHomePrivacy&h=1600#4choose)  
+[Online Customer Service and Alternatives](https://servicearizona.com/content.jsp?docName=SAZHomePrivacy&h=1600#2online)  
+[Collection and Use of Information](https://servicearizona.com/content.jsp?docName=SAZHomePrivacy&h=1600#3collection)  
+[Information You Choose to Provide](https://servicearizona.com/content.jsp?docName=SAZHomePrivacy&h=1600#4choose)  
 [Information Collected through our "User Survey" and "Contact Us" feature  
-](http://servicearizona.com/content.jsp?docName=SAZHomePrivacy&h=1600#5survey) [Security](http://servicearizona.com/content.jsp?docName=SAZHomePrivacy&h=1600#6security)  
-[External Links Disclaimer](http://servicearizona.com/content.jsp?docName=SAZHomePrivacy&h=1600#7external)  
-[Privacy Policy Is Subject To Change](http://servicearizona.com/content.jsp?docName=SAZHomePrivacy&h=1600#8change)  
-[Contact Information](http://servicearizona.com/content.jsp?docName=SAZHomePrivacy&h=1600#9contact)
+](https://servicearizona.com/content.jsp?docName=SAZHomePrivacy&h=1600#5survey) [Security](https://servicearizona.com/content.jsp?docName=SAZHomePrivacy&h=1600#6security)  
+[External Links Disclaimer](https://servicearizona.com/content.jsp?docName=SAZHomePrivacy&h=1600#7external)  
+[Privacy Policy Is Subject To Change](https://servicearizona.com/content.jsp?docName=SAZHomePrivacy&h=1600#8change)  
+[Contact Information](https://servicearizona.com/content.jsp?docName=SAZHomePrivacy&h=1600#9contact)
 
 Thank you for visiting ServiceArizona and reviewing our Privacy Policy. This policy is designed to inform our customers about the services that are available through ServiceArizona, how certain information may be collected and/or used as a result of you visiting our web site or requesting services online, and what steps we are taking to ensure the security of customer data. 
 
