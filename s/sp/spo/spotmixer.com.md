@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the spotmixer.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224042153id_/http%3A//www.spotmixer.com/create_video/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotmixer.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123201741id_/http%3A//www.spotmixer.com/create_video/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - SpotMixer - Create Video Ads for Online Video and TV Advertising
 
 | 
-
-[](http://www.truste.org/ivalidate.php?url=www.onetruemedia.com&sealid=101)
 
 _Last updated March 29, 2010_
 
@@ -14,9 +12,7 @@ To protect your privacy we provide this statement to explain our information pra
 
 This policy applies to the [SpotMixer.com](http://www.spotmixer.com/) website (the "Site"). The Site is owned and operated by SpotMixer, Inc., a company incorporated under the laws of the State of Delaware whose principal business address is SpotMixer, Inc., 2694-A Middlefield Road, Redwood City, CA 94063. 
 
-SpotMixer, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. Because this Site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe
-
-If you have questions or concerns regarding this policy, you should first contact our Privacy Officer at Support@SpotMixer.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this policy, contact our Privacy Officer at Support@SpotMixer.com.
 
 By using this Site and the SpotMixer service (the "Service"), you agree to the collection and use of information in the manner described below. If we make material changes to this policy, we will notify you at this Site, by email, by means of a notice the next time you log in to the Site, or by means of a notice on our homepage. To make our privacy policy easy to find, we have placed it on our homepage and at the bottom of each web page. You are responsible for reviewing the Site periodically for any modification to this Privacy Policy. Any access or use of the Site by you after notice of revisions or additions to this Privacy Policy shall constitute and be deemed to be your agreement to such revisions or additions.
 
