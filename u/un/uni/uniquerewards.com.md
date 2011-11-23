@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128235858id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123193649id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
 
 # UniqueRewards
 
@@ -93,24 +93,16 @@ By registering to use the UniqueRewards service, you agree to accept this privac
 
 |  | 
 
-[](https://web.archive.org/cgi-bin/click.cgi?mid=6836)
+[](https://web.archive.org/cgi-bin/click.cgi?mid=464)
 
-**Children's Book-of-the-Month**
+**JustFlowers.com**
 
-Join Children's Book-of-the-Month and get 6 books for $2 plus a free gift with membership!
+JustFlowers.com is one of the largest online florists and delivers the same day to the USA and Canada!
 
-[](https://web.archive.org/cgi-bin/click.cgi?mid=6828)
+[](https://web.archive.org/cgi-bin/click.cgi?mid=3914)
 
-**Harris (Male Panel, 18+)**
+**UniqueRewards Profile Survey**
 
-Join one of the world's most dynamic research panel and enter for a chance to win $10,000!  
-This offer is only for males.
-
-[](https://web.archive.org/cgi-bin/click.cgi?mid=4278)
-
-**Homestead.com**
-
-Build, Make & Create Your Own Website!  
-Sign up for a FREE Trial and GET PAID!
+UniqueRewards Profile Survey!
 
 | 
