@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the seositecheckup.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103133342id_/http%3A//www.seositecheckup.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seositecheckup.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123121113id_/http%3A//www.seositecheckup.com/policy.php) for the most accurate reproduction.*
 
 # Private Policy - SEO Site Checkup
-
-[](https://web.archive.org/index.php)
-
-
-
 
 1\. WHAT THIS PRIVACY POLICY COVERS
 
@@ -27,6 +22,3 @@ Personal information can be used to customize content and enhance user experienc
 All personal information is stored on our secure servers only accessible by SEO Site Checkup employees. Under no circumstance is personal identifiable information released to the public or site partners without explicit consent of our users.
 
 Account information and deletion of personal identifiable information will be executed upon user request.
-
-  
-
