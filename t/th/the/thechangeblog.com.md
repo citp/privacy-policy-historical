@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thechangeblog.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522003409id_/http%3A//www.thechangeblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechangeblog.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123174457id_/http%3A//www.thechangeblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,5 +25,3 @@ While we do our best to protect your personal information, we cannot guarantee t
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
 For any other information email [Peter Clemens](mailto:peter@thechangeblog.com)
-
-Join my newsletter and get my ebook 'A Year Of Change' free as a gift.
