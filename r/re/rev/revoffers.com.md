@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revoffers.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606074915id_/http%3A//www.revnet.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revoffers.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123112802id_/http%3A//www.revnet.com/privacy.aspx) for the most accurate reproduction.*
 
 # Revnet.com | Privacy Policy
 
@@ -50,7 +50,7 @@ In addition, "Revnet.com" has security measures in place to protect the loss, mi
 
 **Unsubscribe:**
 
-To stop receiving future communications from "Revnet.com" , please send an e-mail to unsubscribe@revnet.com. To unsubscribe from a third party service, you must contact that third party directly.
+To stop receiving future communications from "Revnet.com" , please enter your email address here <http://www.revnet.com/unsubscribe.asp>. To unsubscribe from a third party service, you must contact that third party directly.
 
 **Changes:**
 
