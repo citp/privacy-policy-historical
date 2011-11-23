@@ -1,55 +1,75 @@
-> *The following text is extracted and transformed from the sailorjerry.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614211621id_/http%3A//www.sailorjerry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailorjerry.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123182821id_/http%3A//sailorjerry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sailor Jerry
 
-This Privacy Statement sets forth the information gathering, use, and dissemination practices of Sailor Jerry Ltd. (“SJ”) in connection with the World Wide Web site located at www.sailorjerry.com (the “Site”). This Privacy Statement addresses SJ’s practices regarding information collected only directly through or from the Site. It does not address or govern any information gathering, use, or dissemination practices related to information collected other than directly through or from the Site, including, without limitation, from or via telephone, facsimile, postal mail, personal delivery, or other or additional offline means or media. SJ can be contacted by mail at 421 N. 7th Street Suite 416 Philadelphia, PA 19123, by phone at 215.625.2561, by facsimile at 215.625.2773, or by e-mail at [customerservice@sailorjerry.com](mailto:customerservice@sailorjerry.com)
+This Privacy Policy (together with our Website [Terms & Conditions](https://web.archive.org/Terms-and-Conditions/ "Terms &amp; Conditions") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following information carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
-## 1\. Collection of Personal Information from Site Visitors
+Whilst this Privacy Policy sets out our general policy on how we collect and use your personal data, in some circumstances we may inform you that different terms apply to the collection and use of your personal data. 
 
-SJ may collect or track (1) the home server domain names, e-mail addresses, type of client computer, files downloaded, search engine used, operating system, and type of Web browser of visitors to the Site, (2) the e-mail addresses of visitors that communicate with SJ via e-mail, (3) information knowingly provided by the visitor in online forms, registration forms, surveys, e-mail, contest entries, and other online avenues (including, without limitation, demographic and personal profile data), and (4) aggregate and user-specific information regarding which pages Site visitors access.
+For the purpose of the Data Protection Act 1998 (Act), the data controller is William Grant & Sons Limited, registered in Scotland with company number 131772 and registered address at The Glenfiddich Distillery, Dufftown, Banffshire, AB55 4DH. 
 
-SJ may place Internet “cookies” on visitors’ hard drives. Internet cookies save data about individual visitors, such as the visitor’s name, password, user-name, shopping cart, screen preferences, and the pages of a site viewed by the visitor. When the visitor revisits the Site, SJ may recognize the visitor by the Internet cookie and customize the visitor’s experience accordingly. Visitors may decline Internet cookies, if any, by using the appropriate feature of their Web client software, if available.
+**INFORMATION WE MAY COLLECT FROM YOU**
 
-When a visitor performs a search within the Site, SJ may record information identifying the visitor or linking the visitor to the search performed. SJ may also record limited information for every search request and use that information to solve technical problems with the services available directly or indirectly in connection with the Site and to calculate overall usage statistics.
+1\. We may collect and process the following data about you:  a. Information that you provide by filling in forms on the Sailor Jerry website at [www.sailorjerry.com](http://www.sailorjerry.com/) (Website). We may also ask you for information when you enter a competition or promotion sponsored by us, and when you report a problem with the Website.   
+b. Records of correspondence between us.   
+c. Information you provide if you agree to complete any surveys we may use for market research purposes.   
+d. Details of purchases of products you buy from us through our online shop and of the fulfillment of your orders.   
+e. Details of your visits to the Website including, but not limited to: traffic data; location data; web server logs; and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.  2\. By providing any personal information to us, you fully understand and clearly consent to the transfer of such personal information to, and the collection and processing of such information in, other countries or territories. Any such transfer and processing by us will be in accordance with this privacy policy. 
 
-## 2\. Use of Personal Data Collected
 
-Personal data collected by SJ may be used by SJ for many reasons, for example, for editorial and feedback purposes, for marketing and promotional purposes, for a statistical analysis of users’ behavior, for product development, for content improvement, for fulfillment of a requested transaction or recordkeeping, or to customize the content and layout of the Site. Aggregate data on visitors’ home servers may be used for internal purposes, and individually identifying information, such as names, postal and e-mail addresses, phone numbers, and other personal information which visitors voluntarily provide to SJ may be added to SJ’s databases and used for future calls and mailings regarding Site updates, new products and services, and upcoming events.
+**IP ADDRESSES AND COOKIES**
 
-SJ also may use Site visitor data to contact the Site visitors regarding account status and changes to the submissions agreement, privacy statement, and any other policies or agreements relevant to Site visitors.
+3\. We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.   
+4\. For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve the Website and to deliver a better and more personalised service. They enable us:  a. To estimate our audience size and usage pattern. b. To recognise you when you return to the Website.  5\. You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies (visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) for assistance with adjusting your browser settings). However, if you select this setting you may be unable to access certain parts of the Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Website. 
 
-## 3\. Disclosure of Personal Data to Third Parties
 
-SJ shall not disclose any of your personally identifiable information to third parties. Notwithstanding the foregoing, SJ may disclose or distribute identifiable or non-identifiable data to a third party with which SJ enters or reasonably may enter into a corporate transaction, such as, for example, a merger, consolidation, acquisition, or asset purchase, or to a third party pursuant to a subpoena, court order, or other form of legal process, in response to a request by or on behalf of any local, state, federal, or other government agency, department, or body, whether or not pursuant to a subpoena, court order, or other form of legal process, or if determined by SJ in its sole judgment that such disclosure or distribution is appropriate to protect the life, health, or property of SJ or any other person or entity. While SJ may undertake efforts to see that such third party is under a contractual obligation to use the personal data solely for the purposes for which the data was disclosed, such third parties may be independent third parties over which SJ may not exercise control, and SJ is not responsible for their conduct, actions, omissions, or information handling or dissemination practices and SJ will not be liable therefore.
+**WHERE WE STORE YOUR PERSONAL DATA**
 
-This Site may contain links to other World Wide Web sites or advertisements for or placed by third parties. SJ is not responsible for the privacy practices of such Web sites, advertisers, or third parties, or for the content of such sites or advertisements. It is possible that these links or advertisements, themselves, may be used by third parties or others to collect personal or other information about Site visitors. It is solely the visitors’ obligation to review and understand the privacy practices and policies of these other Web sites and of these advertisers and third parties.
+6\. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. All information you provide to us is stored in secure managed servers. Any payment transactions are encrypted using SSL technology, and payment details are not kept following completion of the transaction. Where we have given you (or where you have chosen) a password which enables you to access certain parts of the Website, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.   
+7\. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to the Website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
 
-## 4\. Security Measures
 
-SJ has implemented numerous security features to prevent the unauthorized release of or access to personal information. For example, credit and debit card details are sent by secure SSL encrypted means to process the payment of any and all orders. Please be advised, however, that the confidentiality of any communication or material transmitted to or from SJ via this Site or e-mail cannot be guaranteed. Accordingly, SJ is not responsible for the security of information transmitted via the Internet. Instead of communicating with SJ via e-mail or the Internet, visitors can contact SJ by mail at 421 N. 7th Street Suite 416 Philadelphia, PA 19123, by phone at 215.625.2561, by facsimile at 215.625.2773.
+**USES MADE OF THE INFORMATION**
 
-## 5\. Opt-Out Right
+8\. We use information held about you in the following ways:  a. To ensure that content from the Website is presented in the most effective manner for you and for your computer.   
+b. To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.   
+c. To allow you to participate in interactive features of the Website, when you choose to do so.   
+d. To notify you about changes to our service.  9\. We may also use your data, or permit selected third parties we appoint to help us, to contact you with information about Sailor Jerry, and other goods and services we provide which may be of interest to you if you have consented to us contacting you. Such contact may be by post, email or telephone. 
 
-Except as necessary for SJ to provide the services, information, or products requested by a visitor, the visitor may opt out of having his or her personally identifiable information, which has been voluntarily provided to SJ through an account registration, customer order, or electronic news or information subscription, prospectively retained by SJ, used by SJ for secondary purposes, or disclosed by SJ to third parties by contacting SJ via postal mail, e-mail, or telephone at the addresses set out above. (This does not apply to collection of the type of Web browser of the visitor to the Site or to information provided or collected that does not meet the above description.)
 
-## 6\. Access to and Ability to Correct Personal Data
+**DISCLOSURE OF YOUR INFORMATION**
 
-Upon a visitor’s request via postal mail, e-mail, or phone, SJ will provide to the visitor a summary of any personally identifiable information retained by SJ regarding the visitor, which information has been voluntarily provided to SJ through an account registration, customer order, or electronic news or information subscription. A visitor may modify, correct, change or update their personally identifiable information by contacting SJ via postal mail, e-mail, or telephone at the addresses or numbers above.
+10\. We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.   
+11\. We may disclose your personal information to our suppliers, distributors (wholly or partly owned) and other contractors who are engaged by us to assist in the provision of products and services to you, including delivery of products ordered by you and the conduct of market research which you have agreed to participate in.   
+12\. We may disclose your personal information to third parties:  a. In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.   
+b. If the Company, or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.   
+c. If we are under a duty to disclose or share your personal data in order to comply with any legal obligation; or to protect the rights, property, or safety of the Company, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.  
 
-## 7\. Collection of Personal Data from Children
 
-To the extent that SJ is able to determine the age of users by their submissions to or communications with the Site, SJ will not knowingly collect, use, or disclose personally identifiable information from individuals under the age of eighteen (“children”) without their parent’s or guardian’s consent, which information has been voluntarily provided to SJ through an account registration, customer order, or electronic news or information subscription.
+**YOUR RIGHTS**
 
-Upon request from a parent or guardian of a child who has provided such personally identifiable information to the Site, SJ will (i) provide to the parent or guardian a description of the specific types of information collected from the child, (ii) provide to the parent or guardian a means and stated procedures to review such information and to halt future disclosure, use, and maintenance of such information (e.g., the parent or guardian has the option to consent to the collection and use of their child’s personally identifiable information without consenting to the disclosure of that information to third parties), as applicable, (iii) cease collection in the future of such information from the child, or (iv) provide any combination of the foregoing.
+13\. You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at [info@sailorjerry.com](mailto:info@sailorjerry.com).   
+14\. he Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
 
-SJ is prohibited from conditioning a child’s participation in an activity on the child’s disclosing more personally identifiable information than is reasonably necessary to participate in such activity.
 
-If there are no age restrictions on a contest which requires registration, and if a child wins, notification and prizes will be sent to the parent(s) or guardian(s) identified in the initial registration process.
+**ACCESS TO INFORMATION**
 
-## 8\. SJ’s Right to Contact User
+15\. The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 (UK Sterling) to meet our costs in providing you with details of the information we hold about you. 
 
-SJ reserves the right to contact Site visitors regarding account status and changes to the subscriber agreement, privacy statement, and any other policies or agreements relevant to Site visitors.
 
-## 9\. Right to Change Privacy Statement
+**CHANGES TO OUR PRIVACY POLICY**
 
-SJ may change this Privacy Statement at any time. It is the obligation of users visiting the Site to familiarize themselves with this Privacy Statement. Any change to this Privacy Statement shall be effective as to any visitor who has visited the Site before any change was made.
+16\. Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. 
+
+
+**CONTACT**
+
+17\. Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [info@sailorjerry.com](mailto:info@sailorjerry.com). 
+
+
+**GOVERNING LAW AND JURISDICTION**
+
+18\. This Privacy Policy shall be governed by and construed in accordance with the laws of Scotland. Disputes arising in connection with these [Terms and Conditions](https://web.archive.org/Terms-and-Conditions/ "Terms &amp; Conditions") shall be subject to the exclusive jurisdiction of the Scottish courts although the Company retains the right to bring proceedings against you for breach of these [Terms and Conditions](https://web.archive.org/Terms-and-Conditions/ "Terms &amp; Conditions") in your country of residence or any other relevant country. 
+
+
+Issue Date: July 2011 
