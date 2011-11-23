@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the line6.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525184100id_/http%3A//line6.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the line6.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123164926id_/http%3A//line6.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Line 6 - Privacy Policy
 
@@ -70,6 +70,7 @@ Line 6 undertakes practical and reasonable steps to protect Personal Information
 
   * We work to protect the security of your information during transmission by using OpenSSL software (see www.openssl.org for more information). 
   * We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. 
+  * We receive credit card information using industry standard SSL encryption and store the credit cards using two-way encryption. This information is stored until you choose delete the card or change your billing information. 
   * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer. 
 
 
