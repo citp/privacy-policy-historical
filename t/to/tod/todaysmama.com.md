@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the todaysmama.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525233641id_/http%3A//todaysmama.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todaysmama.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123091602id_/http%3A//todaysmama.com/privacy-policy) for the most accurate reproduction.*
 
-# TodaysMama | Privacy Policy
+# Privacy Policy « « TodaysMama TodaysMama
 
 This Privacy Policy explains TodaysMama.com’s policy regarding the privacy of information supplied by users or collected by us from users of TodaysMama.com’s web site. We are committed to protecting your privacy.
 
