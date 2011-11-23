@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the climbing.com privacy policy that was archived on 2011-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110525172222id_/http%3A//www.climbing.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the climbing.com privacy policy that was archived on 2011-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123052146id_/http%3A//www.climbing.com/privacy) for the most accurate reproduction.-->
 
 <html><head>
  <title>Privacy Statement</title>
@@ -157,7 +157,7 @@
 
 <div id="menu3" class="dropmenudiv">
 	<div class="menuItemli">&nbsp;&gt; <a href="/exclusive/above" class="subnav">ABOVE &amp; BEYOND</a></div>   
-    <div class="menuItemli">&nbsp;&gt; <a href="/exclusive/nosejobblog" class="subnav">NOSE JOB BLOG</a></div>	
+    <div class="menuItemli">&nbsp;&gt; <a href="/exclusive/basecamp_blog" class="subnav">BASE CAMP BLOG</a></div>	
     <div class="menuItemli">&nbsp;&gt; <a href="/exclusive/problog" class="subnav">PRO BLOGS</a></div>
     <div class="menuItemli">&nbsp;&gt; <a href="/exclusive/readerblogs" class="subnav">READER BLOGS</a></div>
     <div class="menuItemli">&nbsp;&gt; <a href="http://www.climbing.com/travel" class="subnav">TRAVEL</a></div>
@@ -234,7 +234,7 @@ cssdropdown.startchrome("chromemenu");
     <td valign="top" width="562" class="content">
 
 
-<div class="title">Privacy Statement</div>
+<h1><div class="title">Privacy Statement</div></h1>
 <div class="deck"></div>
 <div class="byline"></div><p>
 
@@ -868,10 +868,23 @@ If I like it and decide to continue, I'll pay just <span style="font-weight:bold
 </form>
 </div>
 <div style="clear:both;">&nbsp;</div>
+
 <script type="text/javascript"> 
 $(document).ready(function() {
-$("#so_container").SubDialog({btnClose: '.subpopup_close'});
+$("#so_container").SubDialog({btnClose: '.subpopup_close', whichClick:2});
 });
+function choose_survey()
+{
+if(Math.floor(Math.random()*2) > 0)
+{
+window.open("http://deploy.ztelligence.com/start/index.jsp?PIN=163FTWDHN7BY4");
+}
+else
+{
+window.open("http://deploy.ztelligence.com/start/index.jsp?PIN=163FTWDJ4WJP9");
+}
+$.cookie("survey_expire", "1", { expires: 6 * 7 * 23 * 60 * 60 });
+}
 </script> 
 
 
