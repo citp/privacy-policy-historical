@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the systemrequirementslab.com privacy policy that was archived on 2011-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110325071051id_/http%3A//www.systemrequirementslab.com/marketing/PrivacyN.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the systemrequirementslab.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123162319id_/http%3A//www.systemrequirementslab.com/marketing/PrivacyN.html) for the most accurate reproduction.*
 
 # System Requirements Lab Privacy Policy
 
