@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hdsentinel.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227022444id_/http%3A//www.hdsentinel.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdsentinel.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123153838id_/http%3A//www.hdsentinel.com/privacy.php) for the most accurate reproduction.*
 
-# Hard Disk Sentinel - HDD health and temperature monitoring
+# Privacy policy and information use
 
 ## Introduction
 
