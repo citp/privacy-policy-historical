@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotnessmeter.com privacy policy that was archived on 2011-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110204035710id_/http%3A//hotnessmeter.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotnessmeter.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124004017id_/http%3A//hotnessmeter.com/privacy.shtml) for the most accurate reproduction.*
 
 # Hotness Meter.com - Privacy Policy
 
