@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the illyriad.co.uk privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609072628id_/http%3A//uk1.illyriad.co.uk/External/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illyriad.co.uk privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123154655id_/http%3A//www.illyriad.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
-
-[](http://www.illyriad.co.uk/ "Illyriad -  free to play, strategy MMO")
+# Privacy Policy - Illyriad
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. 
 
@@ -85,7 +83,3 @@ We are committed to safeguarding the privacy of our website visitors; this polic
     * The data controller responsible in respect of the information collected on this website is Illyriad Games Limited.
 
 
-
-© Illyriad Games Ltd 2009 - 2011
-
-Illyriad® and the Illyriad Logo are trademarks of Illyriad Games Ltd, registered in the United Kingdom
