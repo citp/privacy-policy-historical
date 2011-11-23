@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kennedyspacecenter.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624063334id_/http%3A//kennedyspacecenter.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kennedyspacecenter.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123010642id_/http%3A//www.kennedyspacecenter.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Kennedy Space Center
+# Privacy Policy
 
 #### [Click here to view our California Privacy Rights. ](http://kennedyspacecenter.com/california-privacy-rights.aspx "California Privacy Rights")
 
