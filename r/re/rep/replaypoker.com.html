@@ -1,77 +1,56 @@
-<!--The following is the downloaded HTML source of the replaypoker.com privacy policy that was archived on 2011-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110523062821id_/http%3A//www.replaypoker.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the replaypoker.com privacy policy that was archived on 2011-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123074209id_/http%3A//www.replaypoker.com/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <title>Play money — Learn How To Play Poker — ReplayPoker</title>
 <meta name="keywords" content="ReplayPoker.com">
 <meta name="description" content="ReplayPoker.com">
 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <link href="/stylesheets/replaypoker/screen_rp.css?1305722930" media="screen" rel="stylesheet" type="text/css">
+    <link href="/stylesheets/replaypoker/screen_rp.css?1317937892" media="screen" rel="stylesheet" type="text/css">
 	<!--[if IE 6]>
 		<link href="/stylesheets/replaypoker/screen_rp_ie6.css?1243338596" media="screen" rel="stylesheet" type="text/css" />
 	<![endif]-->
 	<!--[if IE 7]>
-		<link href="/stylesheets/replaypoker/screen_rp_ie7.css?1243338596" media="screen" rel="stylesheet" type="text/css" />
+		<link href="/stylesheets/replaypoker/screen_rp_ie7.css?1307467605" media="screen" rel="stylesheet" type="text/css" />
 	<![endif]-->
-    <script type="text/javascript" async="" src="https://static.olark.com/jsclient/loader1.js?ts=1580391159508"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.signifyd.com/sa.js"></script><script src="/javascripts/jquery.js?1229943279" type="text/javascript"></script>
+    <script type="text/javascript" async="" src="https://static.olark.com/jsclient/loader1.js?ts=1580391155984"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/javascripts/jquery.js?1229943279" type="text/javascript"></script>
 <script src="/javascripts/jquery-ui.js?1229943279" type="text/javascript"></script>
 <script src="/javascripts/jrails.js?1229943279" type="text/javascript"></script>
 <script src="/javascripts/jquery.inplace.pack.js?1294943997" type="text/javascript"></script>
-<script src="/javascripts/application.js?1304683635" type="text/javascript"></script>
+<script src="/javascripts/application.js?1310028275" type="text/javascript"></script>
     <script src="/javascripts/base.js?1304683635" type="text/javascript"></script>
     
   <link rel="alternate" type="application/atom+xml" title="Replay Poker - News" href="/home/atom">
   <script type="text/javascript">
+  
+  var _sav = _sav || [];
 
   function signifydEvent(data) {
-    var sEvent = ['_addEvent', data.event_type, data.user_login, ''];
-    switch(data.event_type) {
-      case "joingame":
-        sEvent.push('', '', data.target);
-        break;
-      case "addfriend":
-        sEvent.push('', '', data.target);
-        break;
-      case "viewprofile":
-        sEvent.push('', '', data.target);
-        break;
-      case "signup":
-        sEvent.push(
-          data.user_name, // Name - required
-          data.user_email, // Email - required
-          '', // Phone - required
-          '', // Address Line 1 - required
-          '', // Address Line 2 - optional
-          '', // City - required
-          '', // State or province - required
-          '', // Zip - required
-          ''  // country - required
-        );
-        break;
-      case "payment":
-        sEvent.push((parseFloat(data.amount) > 0 ? "from" : "to"), Math.abs(data.amount), data.currency, data.product, data.target);
-        break;
+    var events = _sav[2] || [],
+        eventPropName;
+
+    _sav[2] = events;
+    
+    events.push('_addEvent', data.event_type);
+    if (! data.hasOwnProperty('deviceID')) { data.deviceID = ''; }
+    for(eventPropName in data) {
+      if (data.hasOwnProperty(eventPropName) && eventPropName != 'event_type') {
+        events.push(eventPropName);
+        events.push(data[eventPropName]);
+      }
     }
-    _sav.push(sEvent);
-    _sav.push(['_trackEvent']);
   }
 
-  var _sav = _sav || [];
   _sav.push(['_setAccount', 'SIG-60213181-1']);
-  _sav.push(['_trackPageview']);
-
+  _sav.push(['_setVersion', '2.0']);
+  //_sav.push(['_trackPageview']);
   
 
-  (function()  {
-     var sa = document.createElement('script');
-     sa.type = 'text/javascript';
-     sa.async = true;
-     sa.src = ('https:' == document.location.protocol ? 'https://ssl' :
-       'http://www') + '.signifyd.com/sa.js';
-     var s = document.getElementsByTagName('script')[0];
-     s.parentNode.insertBefore(sa, s);
-   })();
+  _sav.push(['_trackEvent']);
+  
+
+  
 
 </script></head>
   
@@ -92,17 +71,17 @@
         <div id="login-wrapper">
           
 
-  <form action="http://www.replaypoker.com/login" method="post"><div style="margin:0;padding:0"><input name="authenticity_token" type="hidden" value="5f9462c3b79491625a1e09a1229a72a5131984aa"></div>    <h3>Start playing now!</h3>
+  <form action="http://www.replaypoker.com/login" id="login-form" method="post"><div style="margin:0;padding:0"><input name="authenticity_token" type="hidden" value="0861702488715a2e5f932ae2ae1b9c6e94d040ab" class="placeholder"></div>    <h3>Start playing now!</h3>
     <small></small>
 
     <div id="login-details">
 
-      <input id="login" name="login" style="margin-right: 7px;" type="text" value="Username">
-      <input id="password" name="password" type="password" value="password">
-      <input class="submit" name="commit" type="submit" value="Login">
+      <input id="login" name="login" placeholder="Username" style="margin-right: 7px;" type="text" class="placeholder">
+      <input id="password" name="password" placeholder="Password" type="password" class="placeholder">
+      <input class="submit placeholder" name="commit" type="submit" value="Login">
 
       <ul>
-        <li><input id="remember_me" name="remember_me" type="checkbox" value="1"><label for="remember_me">Remember me</label></li>
+        <li><input id="remember_me" name="remember_me" type="checkbox" value="1" class="placeholder"><label for="remember_me">Remember me</label></li>
         <li>
         <a href="http://www.replaypoker.com/signup" onclick="mpmetrics.track('Click signup', {'source': 'site_header', 'referrer': ''}, function() { window.location = 'http://www.replaypoker.com/signup'; }); return false;">Sign up now!</a>
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -113,8 +92,14 @@
   </form>
 
   <script type="text/javascript" charset="utf-8">
-    $("#login").defaultValueActsAsHint();
-    $("#password").defaultValueActsAsHint();
+    $(function() {
+      $('#login-form').submit(function(e) {
+        if (! $('#login').val() || ! $('#password').val()) {
+          alert('Please enter a username and password');
+          e.preventDefault();
+        }
+      });
+    });
   </script>
 
   
@@ -271,7 +256,7 @@
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://d1.openx.org/ajs.php?zoneid=117063&amp;cb=6170105874&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20110523062821id_/http%253A//www.replaypoker.com/privacy_policy"></script><noscript><a href='http://d1.openx.org/ck.php?n=a0594952&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://d1.openx.org/avw.php?zoneid=117063&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a0594952' border='0' alt='' /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://d1.openx.org/ajs.php?zoneid=117063&amp;cb=98945027320&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111123074209id_/http%253A//www.replaypoker.com/privacy_policy"></script><noscript><a href='http://d1.openx.org/ck.php?n=a0594952&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://d1.openx.org/avw.php?zoneid=117063&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a0594952' border='0' alt='' /></a></noscript>
 </div>
 
 
@@ -279,41 +264,47 @@
         <div id="footer-left">
 	<h4>Player Statistics</h4>
     <ul>
-    <li><span>Seated</span>: 5</li>
-    <li><span>Online</span>: 40</li>
-    <li><span>Members</span>: 99,316</li>
+    <li><span>Seated</span>: 24</li>
+    <li><span>Online</span>: 75</li>
+    <li><span>Members</span>: 104,879</li>
   </ul>
 </div>
 <div id="footer-center">
 	<h4>Contact</h4>
     <ul>
-    <li><span>General info</span>: <a href="mailto:info@replaypoker.com">info@replaypoker.com</a></li>
     <li><span>Game support</span>: <a href="mailto:support@replaypoker.com">support@replaypoker.com</a></li>
     <li><span>Legal</span>: <a href="mailto:legal@replaypoker.com">legal@replaypoker.com</a></li>
   </ul>
 </div>
 <div id="footer-right">
-  <ul>
-    <li id="socials">
-      <a href="http://www.facebook.com/pages/ReplayPoker/155500677836059" class="facebook">Facebook</a>
-      <a href="http://twitter.com/replay_poker" class="twitter">Twitter</a>
-      <a class="age"><img src="/images/footer-age-notice.png" alt=""></a>
-    </li>
-    <li>
-    <small>Copyright 2011 <a href="http://www.replaygaming.com/" target="_blank">Replay Gaming</a> |
+  <div id="footer-right-left">
+    <a href="http://www.facebook.com/ReplayPoker" class="facebook">Facebook</a>
+    <div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#appId=225093167518644&amp;xfbml=1"></script><fb:like href="http://www.facebook.com/ReplayPoker" ;="" send="false" layout="button_count" width="100" show_faces="true" font=""></fb:like>
+
+    <a href="http://twitter.com/replay_poker" class="twitter">Twitter</a>
+    <a href="http://twitter.com/share" class="twitter-share-button" data-text="Play free texas hold'em at the leading play money poker site: ReplayPoker http://www.replaypoker.com" data-count="none" data-url="replaypoker" data-via="replaypoker">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+    <a class="age"><img src="/images/footer-age-notice.png" alt=""></a>
+    <div id="replay_games"><small>
+      <a href="/mini" target="_blank">Mini Poker</a> |
       <a href="/PokerBotGame">Single Player Poker</a>
-      </small>
-    </li>
-    <small>
-      <li><a href="/terms_and_conditions">Terms and Conditions</a> | <a href="/privacy_policy">Privacy Policy</a></li>
-    </small>
-  </ul>
+    </small></div>
+    <div id="copyright_toc_pp"><small>
+      Copyright 2011 Replay Gaming |
+      <a href="/terms_and_conditions">Terms and Conditions</a> |
+      <a href="/privacy_policy">Privacy Policy</a>
+    </small></div>
+  </div>
+  <div id="footer-right-right">
+    <a href="http://mixpanel.com/f/partner"><img class="mixpanel-logo" src="http://mixpanel.com/site_media/images/partner/badge_light.png" alt="Web Analytics"></a>
+  </div>
 </div>
+<div class="clearer"></div>
 
       </div>
     </div>
 
-    <script type="text/javascript" charset="utf-8" src="http://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js">
+    <div id="third-part">
+      <script type="text/javascript" charset="utf-8" src="http://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js">
 </script>
 
 <script type="text/javascript" charset="utf-8">
@@ -335,7 +326,7 @@
   })();
 </script>
 
-    <!-- Clicky analytics -->
+      <!-- Clicky analytics -->
 <script src="http://static.getclicky.com/84687.js" type="text/javascript"></script>
 <noscript><p><img alt="Clicky" width="1" height="1" src="http://static.getclicky.com/84687-db10.gif" /></p></noscript>
 
@@ -346,6 +337,7 @@
   _gaq.push(['_setAccount', 'UA-85550-1']);
   _gaq.push(['_setDomainName', '.replaypoker.com']);
   _gaq.push(['_trackPageview']);
+  _gaq.push(['_setCustomVar', 1, 'logged_in', 'true', 1]);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -355,11 +347,11 @@
 
 </script>
 
-    
+      
 
-    <script type="text/javascript">document.write(unescape('%3Cscript type="text/javascript" src="'+document.location.protocol+'//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/4528.js"%3E%3C%2Fscript%3E'))</script><script type="text/javascript" src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/4528.js"></script>
+      <script type="text/javascript">document.write(unescape('%3Cscript type="text/javascript" src="'+document.location.protocol+'//dnn506yrbagrg.cloudfront.net/pages/scripts/0011/4528.js"%3E%3C%2Fscript%3E'))</script><script type="text/javascript" src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/4528.js"></script>
 
-    <!-- // begin mixpanel code -->
+      <!-- // begin mixpanel code -->
 <script type="text/javascript">
 var mp_protocol = (("https:" == document.location.protocol) ? "https://" : "http://");
 document.write(unescape("%3Cscript src='" + mp_protocol + "api.mixpanel.com/site_media/js/api/mixpanel.js' type='text/javascript'%3E%3C/script%3E"));
@@ -368,6 +360,9 @@ document.write(unescape("%3Cscript src='" + mp_protocol + "api.mixpanel.com/site
 <script type="text/javascript">
   try {
     var mpmetrics = new MixpanelLib( "29a0f5cc727f5484790b9d4b626b68b0" );
+    
+      mpmetrics.identify('7997fc64a541063c3abfe0c00dd9abdc9f932787');
+    
     
     
   } catch(err) {
@@ -385,8 +380,10 @@ document.write(unescape("%3Cscript src='" + mp_protocol + "api.mixpanel.com/site
 </script>
 <!-- // end mixpanel code -->
 
+      
 
-    <!-- begin olark code --> <script type="text/javascript">/*<![CDATA[*/ window.olark||(function(k){var g=window,j=document,a=g.location.protocol=="https:"?"https:":"http:",i=k.name,b="load",h="addEventListener";(function(){g[i]=function(){(c.s=c.s||[]).push(arguments)};var c=g[i]._={},f=k.methods.length;while(f--){(function(l){g[i][l]=function(){g[i]("call",l,arguments)}})(k.methods[f])}c.l=k.loader;c.i=arguments.callee;c.p={0:+new Date};c.P=function(l){c.p[l]=new Date-c.p[0]};function e(){c.P(b);g[i](b)}g[h]?g[h](b,e,false):g.attachEvent("on"+b,e);c.P(1);var d=j.createElement("script"),m=document.getElementsByTagName("script")[0];d.type="text/javascript";d.async=true;d.src=a+"//"+c.l;m.parentNode.insertBefore(d,m);c.P(2)})()})({loader:(function(a){return "static.olark.com/jsclient/loader1.js?ts="+(a?a[1]:(+new Date))})(document.cookie.match(/olarkld=([0-9]+)/)),name:"olark",methods:["configure","extend","declare","identify"]}); olark.identify('8203-394-10-4514');/*]]>*/</script> <!-- end olark code -->
+      <!-- begin olark code --> <script type="text/javascript">/*<![CDATA[*/ window.olark||(function(k){var g=window,j=document,a=g.location.protocol=="https:"?"https:":"http:",i=k.name,b="load",h="addEventListener";(function(){g[i]=function(){(c.s=c.s||[]).push(arguments)};var c=g[i]._={},f=k.methods.length;while(f--){(function(l){g[i][l]=function(){g[i]("call",l,arguments)}})(k.methods[f])}c.l=k.loader;c.i=arguments.callee;c.p={0:+new Date};c.P=function(l){c.p[l]=new Date-c.p[0]};function e(){c.P(b);g[i](b)}g[h]?g[h](b,e,false):g.attachEvent("on"+b,e);c.P(1);var d=j.createElement("script"),m=document.getElementsByTagName("script")[0];d.type="text/javascript";d.async=true;d.src=a+"//"+c.l;m.parentNode.insertBefore(d,m);c.P(2)})()})({loader:(function(a){return "static.olark.com/jsclient/loader1.js?ts="+(a?a[1]:(+new Date))})(document.cookie.match(/olarkld=([0-9]+)/)),name:"olark",methods:["configure","extend","declare","identify"]}); olark.identify('8203-394-10-4514');/*]]>*/</script> <!-- end olark code -->
+    </div>
 
   
 
