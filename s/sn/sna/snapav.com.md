@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapav.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526090634id_/http%3A//www.snapav.com/t-privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapav.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123192506id_/http%3A//www.snapav.com/t-privacypolicy.aspx) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
