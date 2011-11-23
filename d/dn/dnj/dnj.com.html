@@ -1,12 +1,18 @@
-<!--The following is the downloaded HTML source of the dnj.com privacy policy that was archived on 2011-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110525184039id_/http%3A//www.dnj.com/section/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dnj.com privacy policy that was archived on 2011-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123174337id_/http%3A//www.dnj.com/section/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:meebo="http://www.meebo.com" lang="en"><head>
 							<title>privacy | The Daily News Journal | dnj.com </title>
+			<meta property="og:title" content="The Daily News Journal privacy Section">
+			<meta property="og:type" content="website">
+			<meta property="og:description" content="privacy news from The Daily News Journal.">
 <meta name="keywords" content="dnj.com,Murfreesboro,TN,News,local news,headlines,stories,world news">
 <meta name="description" content="Murfreesboro TN News - dnj.com is the home page of Murfreesboro TN with in depth and updated Murfreesboro local news. Stay informed with both Murfreesboro TN news as well as headlines and stories from around the world.">
+<meta property="og:site_name" content="The Daily News Journal">
+<meta property="og:url" content="http://www.dnj.com/section/PRIVACY">
+		<meta property="og:image" content="http://m.dnj.com/images/bookmark/n_dnj/apple-touch-icon.png">
 <meta name="category" content="privacy">
-<link rel="canonical" href="http://www.dnj.com/section/PRIVACY">
+	<link rel="canonical" href="http://www.dnj.com/section/PRIVACY">
 <meta name="robots" content="noodp">
 <meta name="robots" content="noydir">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -15,6 +21,8 @@
 <meta http-equiv="cache-control" content="no-cache">
 <link href="/includes/css/ody/ody-local.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="/odygci/p2/ody-styles-min.css">
+<meta property="fb:admins" content="118427210363,1312205295">
+<meta property="fb:app_id" content="184474251565027">
 <script src="/odygel/lib/core/core.js"></script>
 <script type="text/javascript"> 
 /*Subsite Redirect*/
@@ -34,17 +42,20 @@ GEL.thepage.pageinfo = {
 	categoryname:"privacy",
 	categoryid:"PRIVACY",
 	pluckpage: 0,
+	commenttype:"facebook",
 	url: { 
 		hostname: "www.dnj.com",
 		domainname: "dnj.com",
 		domainroot: "dnj"
 	},
 	pic: {
-		ptpid: "364"		
+		mycapture: "enabled",
+		enablecategory:  "on",
+		domainname: "dnj.mycapture.com"
 	},
 	date: { 
 		rollover:"03:45",
-		timeoffset: "-05"
+		timeoffset: "-06"
 	},
 	ssts:{
 		adsiteid:"PRIVACYsection",
@@ -72,13 +83,14 @@ GEL.thepage.pageinfo.siteinstance="";
 GEL.thepage.pageinfo.videooverlays="on";
 GEL.thepage.pageinfo.admail={
 	firsttime: false,
-	enable: "",
+	enable: "on",
 	show: false,
 	currentsubscriber: false
 };
 if(GEL.thepage.pageinfo.admail.enable.toLowerCase() == "on"){
 	GEL.thepage.pageinfo.admail.show= true;
 }
+GEL.thepage.pageinfo.sessiontime=0;
 (function(){
 	var _i = GEL.thepage.pageinfo;
 	GEL.register("social.pluck.api", { 
@@ -95,18 +107,6 @@ if(GEL.thepage.pageinfo.admail.enable.toLowerCase() == "on"){
 	);
 })();
 /*GO4 Faster Semantics*/
-	GEL.thepage.pageinfo.semantics={
-	response:{},
-	source:'DB',
-	enabled:true,
-	status:'',
-	url:'http://cx.contextweb.com/ctx/?cwurl=http%3A//www.dnj.com/section/PRIVACY',
-	uniqueids:[],
-	uniqueidsdesc:[],
-	allids: [],
-	calltime:'0',
-	cached:true
-};
 /* Banner configuration and Initialization */
 (function(){
 var 
@@ -174,9 +174,9 @@ var _c= GEL.config.userauth={
 		return _enable.toLowerCase() != 'no' ? true : false; 
 	})(), 
 	app_name: "dnj",
-	host: "newspaper.app40.ur.gcion.com",
+	host: "npapp40ssl.gcion.com",
 	site_name: "dnj.com",
-	enable_ssl: window.location.protocol === 'https:' ? true : false, 
+	enable_ssl: true,
 	enable_reg_help: true, 
 	enable_search: true, 
 	enable_links: false, 
@@ -201,7 +201,8 @@ var _c= GEL.config.userauth={
 	saxotech_site_code: "D4", 
 	site_url:"www.dnj.com",
 	default_avatar: "/odygci/p2/avatar.gif",
-	auto_refresh:false
+	auto_refresh:false,
+	enable_premium: false 
 }, 
 _ur= GEL.config.userreg= {
 	zag_form_url: "/apps/pbcs.dll/section?Category=zagform", 
@@ -254,7 +255,7 @@ GEL.thepage.initializer.addInitRoutine({
 GEL.thepage.initializer.addInitRoutine({ 
 	name: "userauthpostload",
 	namespace: ["legacy.GDNpostload"],
-	priority: 120, 
+	priority: 120,
 	callback: function(){ 
 		/* 
 		The wonders of UA never cease. 
@@ -299,20 +300,21 @@ GEL.thepage.initializer.addInitRoutine({
 	name: "userauthlateload",
 	priority: 300, 
 	callback: function(){
-	if ( GEL.thepage.pageinfo.categoryid.toUpperCase()!="PLUCK_REGISTER"  &&
+		if ( GEL.config.userauth.enable_premium == false &&
+		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="PLUCK_REGISTER"  &&
 		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="PLUCK_SIGNIN"  &&
 		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="NLETTERREGISTER" &&
 		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="GETPUBLISHED01" &&
 		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="NLETTERSIGNIN") {
 			GEL.util.uautil.MakeRemoteCallsilently("signup","socialprovider","signup.html");
 			GEL.util.uautil.MakeRemoteCallsilently("userauthlogin","socialprovider","login.html");
+		}
 		/*	Adding another div for Newsletter sample page */
 		if(GEL.util.uautil.isnlettersubscribe()){
 			var el = document.createElement("div");
 			el.setAttribute('id', 'NLSampleModalcontainer');
 			var temp_elem = document.getElementById("UAModalcontainerwrapper");
 			temp_elem.appendChild(el);
-			}
 		}
 	}
 });
@@ -350,7 +352,7 @@ GEL.thepage.initializer.addInitRoutine({
 		trackExternalLinks: false,
 		trackInlineStats: true,
 		linkDownloadFileTypes: "exe,zip,wav,mp3,mp4,m4v,mov,mpg,avi,wmv,doc,pdf,xls",
-		linkInternalFilters: "javascript:apartments,careerbuilder,cars,customcoupon,customwire.ap.org,eharmony,gannett,gbahn,highschoolsports,homefinder,homescape,infi,job,network,newsbank,newslibrary,pictopia,salary,topix,ur.gcion.com,usatoday,traffic,planetdiscover,metromix,mom",
+		linkInternalFilters: "javascript:apartments,careerbuilder,cars,customcoupon,customwire.ap.org,eharmony,gannett,gbahn,highschoolsports,homefinder,homescape,infi,job,network,newsbank,newslibrary,mycapture,salary,topix,ur.gcion.com,usatoday,traffic,planetdiscover,metromix,mom",
 		linkLeaveQueryString: false,
 		linkTrackVars: "None",
 		usePlugins: true, 
@@ -536,20 +538,7 @@ for(var i=0; i<importFromINI.length; i++)
 		break;
 	}
 }
-GEL.config.AdService= 1;
-	GEL.config.apt=	{
-			publisherid: "21092394746",
-			sitename: "C1137_dnj",
-			container: "js",
-			zip: "99999",
-			disableSendZip: "0",
-			topics: contentTopics,
-			keywords: contentType,
-			customcontentcat: customContentCat,
-			sections: customSection,
-			ageGender: "0"
-		}
-	GEL.config.apt.reqtype="ac";
+GEL.config.AdService= 2;
 </script> 
 <!--
 category = category-PRIVACY<br>
@@ -647,18 +636,21 @@ Combination= category-PRIVACY&type-section-->
 <script id="__gel_nsscript_legacy__GDN__GDNpreload.js" src="https://web.archive.org/odygel/lib/legacy/GDN/GDNpreload.js"></script>
 <script id="__gel_nsscript_legacy__GDN__GDNpostload.js" src="https://web.archive.org/odygel/lib/legacy/GDN/GDNpostload.js"></script>
 <script id="__gel_nsscript_widgets__time__time.js" src="https://web.archive.org/odygel/lib/widgets/time/time.js"></script>
-<script id="__gelement_2" src="https://web.archive.org/web/20130928171238/http://js.revsci.net/gateway/gw.js?csid=J06575"></script>
+<script id="__gelement_1" src="https://web.archive.org/web/20130928171238/http://js.revsci.net/gateway/gw.js?csid=J06575"></script>
 <script id="__gel_nsscript_widgets__navigation__navController.js" src="https://web.archive.org/odygel/lib/widgets/navigation/navController.js"></script>
 <script id="__gel_nsscript_userauth__userauth.js" src="https://web.archive.org/odygel/lib/userauth/userauth.js"></script>
 <script language="javascript" type="text/javascript" src="https://web.archive.org/odygel/lib/legacy/GDN//UI.js"></script><script language="javascript" type="text/javascript" src="https://web.archive.org/odygel/lib/legacy/GDN/UREvents/ZagUser.js"></script><script id="__gel_nsscript_3rdparty__gigya__gigya.js" src="https://web.archive.org/odygel/lib/3rdparty/gigya/gigya.js"></script>
 <script language="javascript" type="text/javascript" src="https://web.archive.org/odygel/lib/legacy/GDN/UAWidgets/LoggedOut.js"></script></head>
 <body class="ody-skin"><script type="text/javascript" src="https://pix04.revsci.net/J06575/a4/0/0/pcx.js?csid=J06575"></script>
 	
+	
 	<div class="ody-custom">
 		<div id="modalouter" class="modal-outer-inactive"></div>
+		
 		<div class="main-container">
 			<!-- HEADER -->
-				<!-- @ody_adposnavbar:  -->
+				<!-- ody_topnavigationmenu.pbo -->
+<!-- @ody_adposnavbar:  -->
 <div class="header-container">
 	<div class="header-classified"> 
 		<div class="header-wrap">
@@ -670,6 +662,7 @@ Combination= category-PRIVACY&type-section-->
 <li><a href="http://www.dnj.com/apartments">APARTMENTS</a></li>
 <li><a href="http://www.dnj.com/dating">DATING</a></li>
 <li><a href="/section/classifieds">CLASSIFIEDS</a></li>
+<li><a href="http://www.dnj.com/customerservice/placead.html">PLACE A CLASSIFIED AD</a></li>
 				<!-- @NAVADPROMO= off -->
 			</ul>
 		</div>
@@ -680,7 +673,7 @@ Combination= category-PRIVACY&type-section-->
 				<a name="top" href="http://www.dnj.com/" title="dnj.com Home" alt="dnj.com Home"></a>
 			</div>		
 			<div id="Nav">
-				<ul class="nav-tabs" id="__gelement_3">
+				<ul class="nav-tabs" id="__gelement_2">
 					<li id="tab0" class="mega tab 0"><a href="/section/news01" class="first">News</a></li><li id="tab1" class="mega tab 1"><a href="/section/neighborhoods">Communities</a></li><li id="tab2" class="mega tab 2"><a href="/section/sports">Sports</a></li><li id="tab3" class="mega tab 3"><a href="/section/opinion">Opinion</a></li><li id="tab4" class="mega tab 4"><a href="http://www.legacy.com/obituaries/dnj/">Obituaries</a></li><li id="tab5" class="mega tab 5"><a href="/section/lifestyle">Lifestyles</a></li><li id="tab6" class="mega tab 6"><a href="/section/VIDEONETWORK">Multimedia</a></li><li id="tab7" class="mega tab 7"><a class="special" href="/section/CUSTOMERSERVICE">Help</a></li>
 				</ul>
 				<div style="clear:both"></div>
@@ -696,29 +689,29 @@ Combination= category-PRIVACY&type-section-->
 		<div class="column2Mega">
 			<div class="latestHeadlines">LATEST HEADLINES</div>
 <div class="section photo">
-	<div class="photoFrame"><a href="/article/20110525/NEWS01/110525013/Alexander-Automotive-sells-15-dealerships-Florida-company?odyssey=nav|head"><img src="http://cmsimg.dnj.com/apps/pbcsi.dll/bilde?Avis=D4&amp;Dato=20110525&amp;Kategori=NEWS01&amp;Lopenr=110525013&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=30" alt="Alexander Ford is now called Ford of Murfreesboro. It was made official Wednesday, May 25, 2011 Jim Davis/DNJ"></a>
+	<div class="photoFrame"><a href="/article/20111123/NEWS05/111230323/City-holds-pre-construction-meeting-Amazon-project?odyssey=nav|head"><img src="http://cmsimg.dnj.com/apps/pbcsi.dll/bilde?Avis=D4&amp;Dato=20111123&amp;Kategori=NEWS05&amp;Lopenr=111230323&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=30&amp;City-holds-pre-construction-meeting-Amazon-project" alt="Construction equipment seen parked along Joe B. Jackson Parkway on Tuesday is ready to roll on construction of a distribution center for Amazon.com, as soon as a land deal closes on the property. John A. Gillis/DNJ"></a>
 	</div>
 	<div class="headline">
-		<a href="/article/20110525/NEWS01/110525013/Alexander-Automotive-sells-15-dealerships-Florida-company?odyssey=nav|head">Alexander Automotive sells 15 dealerships to Florida company</a>
+		<a href="/article/20111123/NEWS05/111230323/City-holds-pre-construction-meeting-Amazon-project?odyssey=nav|head">City holds pre-construction meeting on Amazon project</a>
 	</div>
 	<div class="summary">
-			Alexander Automotive sold three Murfreesboro stores today as part of a 15-dealership deal to a...<span class="timestamp">- 11:59 am</span>
+			MURFREESBORO — City officials held a pre-construction meeting Tuesday and took steps toward...<span class="timestamp">- 11:00 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110525/NEWS01/105250318/Council-may-reconsider-VA-Golf-course-funding-?odyssey=nav|head">Council may reconsider VA Golf course funding  </a>
+		<a href="/article/20111123/NEWS01/111230320/Thanks-prayers-fill-breakfast-gathering?odyssey=nav|head">Thanks, prayers fill breakfast gathering</a>
 	</div>
 	<div class="summary">
-		MURFREESBORO — City Council members appear ready to take a mulligan on funding the VA Golf Course...<span class="timestamp">- 11:19 pm</span>
+		MURFREESBORO — Even though it was two days before Thanksgiving, prayers of thanksgiving and...<span class="timestamp">- 11:00 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110525/NEWS05/105250304/Proposed-tax-hike-angers-resident-?odyssey=nav|head">Proposed tax hike angers resident  </a>
+		<a href="/article/20111123/NEWS06/111230313/Woman-testifies-pastor-stole-pills?odyssey=nav|head">Woman testifies pastor stole pills</a>
 	</div>
 	<div class="summary">
-		LA VERGNE — A local woman is planning a protest of the La Vergne Board of Mayor and Alderman's plan...<span class="timestamp">- 11:28 pm</span>
+		SMYRNA — One woman who caught her pastor on video allegedly trying to break into her home to steal...<span class="timestamp">- 11:00 pm</span>
 	</div>
 </div>
 		</div>
@@ -729,34 +722,36 @@ Combination= category-PRIVACY&type-section-->
 		<div class="column1">
 			<div class="sectionTop">
 				<ul class="clear">
-				<li class="link 2"><span class="arrow">&nbsp;</span><a href="/section/SPORTS">Local Sports</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="http://www.blueraiders.com">MTSU</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="/section/SPORTS08">High School Sports</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="http://www.tennessean.com/section/SPORTS01">Titans</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="http://www.tennessean.com/section/SPORTS02">Predators</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="http://www.tennessean.com/section/sports0601">UT</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="http://www.tennessean.com/section/sports0602">Vandy</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="/section/springfling&amp;template=cover">Spring Fling</a></li>
+				<li class="link 2"><span class="arrow">&nbsp;</span><a href="/section/SPORTS">Local Sports</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="http://www.blueraiders.com">MTSU</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="/section/SPORTS08">High School Sports</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="http://www.tennessean.com/section/SPORTS01">Titans</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="http://www.tennessean.com/section/SPORTS02">Predators</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="http://www.tennessean.com/section/sports0601">UT</a></li><li class="link 2"><span class="arrow">&nbsp;</span><a href="http://www.tennessean.com/section/sports0602">Vandy</a></li>
 				</ul>
 			</div>
 		</div>
 		<div class="column2Mega">
 			<div class="latestHeadlines">LATEST HEADLINES</div>
-<div class="section ">
+<div class="section photo">
+	<div class="photoFrame"><a href="/article/20111123/SPORTS08/111122016/Experience-helps-Odom?odyssey=nav|head"><img src="http://cmsimg.dnj.com/apps/pbcsi.dll/bilde?Avis=D4&amp;Dato=20111123&amp;Kategori=SPORTS08&amp;Lopenr=111122016&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=30&amp;Experience-helps-Odom" alt=" "></a>
+	</div>
 	<div class="headline">
-		<a href="/article/20110525/SPORTS/110525016/Alabama-beats-Arkansas-SEC-tourney?odyssey=nav|head">Alabama beats Arkansas in SEC tourney</a>
+		<a href="/article/20111123/SPORTS08/111122016/Experience-helps-Odom?odyssey=nav|head">Experience helps Odom</a>
 	</div>
 	<div class="summary">
-			HOOVER, Ala.<span class="timestamp">- 12:51 pm</span>
+			MURFREESBORO — Marcelous Odom has seen just about everything since he put on a football jersey at...<span class="timestamp">- 11:20 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110525/SPORTS08/105250328/Eagleville-smacks-South-Pittsburg?odyssey=nav|head">Eagleville smacks South Pittsburg</a>
+		<a href="/article/20111123/SPORTS08/111122017/Roundup-MTCS-girls-rout-Aaron-Academy-remain-unbeaten?odyssey=nav|head">Roundup: MTCS girls rout Aaron Academy to remain unbeaten</a>
 	</div>
 	<div class="summary">
-		MURFREESBORO — Eagleville had an inning to remember, while South Pittsburg had plenty to forget on...<span class="timestamp">- 1:38 am</span>
+		Megan Smith poured in a game-high 21 points to lead MTCS to a 60-27 win over Aaron Academy on...<span class="timestamp">- 11:16 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110525/SPORTS/110525010/Kyle-Busch-caught-speeding-128-mph?odyssey=nav|head">Kyle Busch caught speeding at 128 mph</a>
+		<a href="/article/20111123/SPORTS/111230322/SEC-West-teams-lead-nation-create-crazy-scenarios?odyssey=nav|head">SEC West teams lead nation, create crazy scenarios</a>
 	</div>
 	<div class="summary">
-		STATESVILLE, N.C.<span class="timestamp">- 8:03 am</span>
+		Mississippi State's Dan Mullen said two months ago that whoever wins the SEC West is "the best in...<span class="timestamp">- 11:23 pm</span>
 	</div>
 </div>
 		</div>
@@ -775,26 +770,26 @@ Combination= category-PRIVACY&type-section-->
 			<div class="latestHeadlines">LATEST HEADLINES</div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110525/OPINION01/105250305/Editorial-RCSO-must-stabilize-stable-work-contract?odyssey=nav|head">Editorial: RCSO must stabilize stable work with contract</a>
+		<a href="/article/20111123/OPINION01/111230326/EDITORIAL-careful-keep-turkey-cooking-from-going-pot?odyssey=nav|head">EDITORIAL: Be careful, keep turkey cooking from going to pot</a>
 	</div>
 	<div class="summary">
-			Rutherford County Sheriff Robert Arnold made the right decision to suspend jail inmate labor at a...<span class="timestamp">- 11:34 pm</span>
+			Cook your turkey, not your home.<span class="timestamp">- 11:00 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110525/OPINION02/105250313/Leonhirth-Don-t-Say-Gay-bill-ironic-light-debates-sexuality?odyssey=nav|head">Leonhirth: 'Don't Say Gay' bill ironic in light of debates on sexuality</a>
+		<a href="/article/20111123/OPINION02/111230310/LEONHIRTH-Thanksgiving-2011-offers-full-plate-possibilities?odyssey=nav|head">LEONHIRTH: Thanksgiving 2011 offers full plate of possibilities</a>
 	</div>
 	<div class="summary">
-		Legislative mandates in regard to course content and curriculum do not have a particularly...<span class="timestamp">- 11:24 pm</span>
+		Economic uncertainty continues to put a cloud over the nation for Thanksgiving 2011, although the...<span class="timestamp">- 11:00 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110525/OPINION02/105250306/Guest-column-Pols-going-too-easy-charter-schools?odyssey=nav|head">Guest column: Pols going too easy on charter schools</a>
+		<a href="/article/20111123/OPINION02/111230311/GUEST-COLUMN-Cake-science-building-MTSU-?odyssey=nav|head">GUEST COLUMN: Cake or science building at MTSU?</a>
 	</div>
 	<div class="summary">
-		I am a concerned educator. I have taught in public high schools for 14 years.<span class="timestamp">- 11:00 pm</span>
+		This past May, I wrote an Op-Ed that outlined research-based evidence on why MTSU's name change was...<span class="timestamp">- 11:00 pm</span>
 	</div>
 </div>
 		</div>
@@ -805,36 +800,36 @@ Combination= category-PRIVACY&type-section-->
 		<div class="column1">
 			<div class="sectionTop">
 				<ul class="clear">
-				<li class="link 5"><span class="arrow">&nbsp;</span><a href="/section/livingwell">Living Well</a></li><li class="link 5"><span class="arrow">&nbsp;</span><a href="/section/society&amp;template=cover">Murfreesboro Society</a></li><li class="link 5"><span class="arrow">&nbsp;</span><a href="/section/weekend">Rutherford Weekend</a></li><li class="link 5"><span class="arrow">&nbsp;</span><a href="http://nashville.momslikeme.com/members/exploregroups.aspx?p=129">MomsLikeMe.com</a></li><li class="link 5"><span class="arrow">&nbsp;</span><a href="/section/CUSTOMERSERVICE17">Submit a Birth Announcement</a></li><li class="link 5"><span class="arrow">&nbsp;</span><a href="/apps/pbcs.dll/article?AID=/20090602/CUSTOMERSERVICE10/90602029&amp;template=artinteractive">Submit an Engagement Announcement</a></li><li class="link 5"><span class="arrow">&nbsp;</span><a href="/apps/pbcs.dll/article?AID=/20090602/CUSTOMERSERVICE07/90602030&amp;template=artinteractive">Submit a Wedding Announcement</a></li>
+				<li class="link 5"><span class="arrow">&nbsp;</span><a href="/section/livingwell">Living Well</a></li><li class="link 5"><span class="arrow">&nbsp;</span><a href="/section/society&amp;template=cover">Murfreesboro Society</a></li><li class="link 5"><span class="arrow">&nbsp;</span><a href="/section/weekend">Rutherford Weekend</a></li><li class="link 5"><span class="arrow">&nbsp;</span><a href="/section/CUSTOMERSERVICE17">Submit a Birth Announcement</a></li><li class="link 5"><span class="arrow">&nbsp;</span><a href="http://dnj.com/celebrations">Submit an Engagement Announcement</a></li><li class="link 5"><span class="arrow">&nbsp;</span><a href="http://dnj.com/celebrations">Submit a Wedding Announcement</a></li>
 				</ul>
 			</div>
 		</div>
 		<div class="column2Mega">
 			<div class="latestHeadlines">LATEST HEADLINES</div>
 <div class="section photo">
-	<div class="photoFrame"><a href="/article/20110525/LIFESTYLE/105250301/Roast-apples-carrots-bring-out-flavors?odyssey=nav|head"><img src="http://cmsimg.dnj.com/apps/pbcsi.dll/bilde?Avis=D4&amp;Dato=20110525&amp;Kategori=LIFESTYLE&amp;Lopenr=105250301&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=30" alt="For deeper flavors when making this roasted apple and blue cheese salad, briefly roast the apples and carrots before adding them to the dish. AP photo"></a>
+	<div class="photoFrame"><a href="/article/20111123/LIFESTYLE/111230307/Go-little-nutty-pecans?odyssey=nav|head"><img src="http://cmsimg.dnj.com/apps/pbcsi.dll/bilde?Avis=D4&amp;Dato=20111123&amp;Kategori=LIFESTYLE&amp;Lopenr=111230307&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=30&amp;Go-little-nutty-pecans" alt="Dress up chicken salad with pecans and cranberries for a simply lovely holiday appetizer. Serve in tart cups or with crackers or sliced breads on the side. GNS photo"></a>
 	</div>
 	<div class="headline">
-		<a href="/article/20110525/LIFESTYLE/105250301/Roast-apples-carrots-bring-out-flavors?odyssey=nav|head">Roast apples and carrots to bring out the flavors</a>
+		<a href="/article/20111123/LIFESTYLE/111230307/Go-little-nutty-pecans?odyssey=nav|head">Go a little nutty with pecans</a>
 	</div>
 	<div class="summary">
-			When it comes to salads, I'm not big fan of the composed variety.<span class="timestamp">- 3:55 pm</span>
+			Time is running out. Life is speeding up. That holiday party you thought was months away is looming.<span class="timestamp">- 5:31 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110525/LIFESTYLE/110525008/Today-s-calendar?odyssey=nav|head">Today's calendar</a>
+		<a href="/article/20111123/LIFESTYLE/111123005/Small-spaces-big-living?odyssey=nav|head">Small spaces, big living</a>
 	</div>
 	<div class="summary">
-		• Walkie-Talkies moderate-paced walk: 9 a.m., Old Fort Park Pavilion No. 3. Free.<span class="timestamp">- 7:42 am</span>
+		Have you transformed your small apartment or condo into a trendy spot?<span class="timestamp">- 11:33 am</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110525/LIFESTYLE/105250302/Turn-your-salad-into-meal?odyssey=nav|head">Turn your salad into a meal</a>
+		<a href="/article/20111123/LIFESTYLE/111123003/Holiday-lights-?odyssey=nav|head">Holiday lights!</a>
 	</div>
 	<div class="summary">
-		Never before have I run across a more appropriate or interesting cookbook.<span class="timestamp">- 11:33 pm</span>
+		The Daily News Journal is looking for the best and brightest holiday lights displays to let the...<span class="timestamp">- 10:42 am</span>
 	</div>
 </div>
 		</div>
@@ -870,8 +865,9 @@ Combination= category-PRIVACY&type-section-->
 	<div class="header-featured">
 		<div class="header-wrap">
 			<ul id="login-container" class="login-container"></ul>
-			<ul>
-				<li><strong>FEATURED:</strong></li><li><a href="/section/blueraiders&amp;template=cover">Blue Raiders</a></li><li><a href="/section/spotlight&amp;template=cover">Spotlight</a></li><li><a href="http://boroparty.dnj.com/section/boroparty">BoroParty.com</a></li><li><a href="/section/springfling&amp;template=cover">Spring Fling</a></li><li><a href="/askanexpert">Ask An Expert</a></li>
+			<ul class="ody-navfeatured">
+				<!-- ody_navfeatured.pbo -->
+<li><strong>FEATURED:</strong></li><li><a href="/section/blueraiders&amp;template=cover">Blue Raiders</a></li><li><a href="/section/spotlight&amp;template=cover">Spotlight</a></li><li><a href="http://ruthiesawards.com">Ruthies Awards</a></li><li><a href="/askanexpert">Ask An Expert</a></li><li><a href="http://boroparty.dnj.com/section/boroparty&amp;template=cover">BoroParty.com</a></li>
 			</ul>
 			<div class="pd-search">
 				<div class="searchbox-shift">
@@ -1001,7 +997,7 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 			<div class="leaderboard-container-top">
 				<div>
 	<div class="ad_launchpad_SF">
-	<div id="adcontainer___gelement_adbanner_0_0"><div id="__gelement_4" class=" gel-hidden"><script id="__gelement_5" src="https://gannett.gcion.com/addyn/3.0/5111.1/896049/0/-1/ADTECH;alias=PRIVACYsection_launchpad_SF;cookie=info;loc=100;target=_blank;grp=78025;misc=1580448678312;size=728x90;noperf=1;key=privacy;kvcw=;kvtitle=privacy"></script>
+	<div id="adcontainer___gelement_adbanner_0_0"><div id="__gelement_3" class=" gel-hidden"><script id="__gelement_4" src="https://gannett.gcion.com/addyn/3.0/5111.1/896049/0/-1/ADTECH;alias=PRIVACYsection_launchpad_SF;cookie=info;loc=100;target=_blank;grp=83820;misc=1580448677898;size=728x90;noperf=1;key=privacy;kvcw=;kvtitle=privacy"></script>
 </div>
 </div><div id="adcontainer___gelement_adbanner_0_0"></div><banner position="launchpad_SF" id="__gelement_adbanner_0"></banner>
 		<div class="advertisement">ADVERTISEMENT</div>
@@ -1015,7 +1011,7 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 				<div class="container">
 								<div class="glegal">
 				<h1>Privacy Notice</h1>
-<p>Last Updated: December 30, 2010</p>
+<p>Last Updated: November 9, 2011</p>
 <p>We take seriously your interest in how your information is collected and used.  Please read the following to learn about our Privacy Notice.</p>
 <p>This Privacy Notice discloses the privacy practices of this website (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).</p>
 <p>Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our <a href="http://www.dnj.com/section/terms">Terms of Service</a>. Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified.</p>
@@ -1031,7 +1027,7 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 <h3>How We Collect and Use Information</h3>
 <p>We may collect and store information, including personally identifiable information (such as your name, postal address or email address) or other information, that you voluntarily supply to us while on our Site.  Some examples of this type of information include information that you electronically submit when you contact us with questions, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site.  We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.</p>
 <p>We also collect, through a variety of technologies and practices, and store non-personally identifiable information that is generated automatically as you navigate through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.</p>
-<p>If you want to limit the non-personally identifiable information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting.  For example, to disable cookies using Internet Explorer, select "Internet Options" under the Tools menu and click on "Privacy."  Select "High" or "Block All Cookies."  To disable cookies using Mozilla Firefox, select "Options" under the "Tools" menu.  If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site.</p>
+<p>If you want to limit the non-personally identifiable information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting.  For example, to disable cookies using Internet Explorer, select "Internet Options" under the Tools menu and click on "Privacy."  Select "High" or "Block All Cookies."  To disable cookies using Mozilla Firefox, select "Options" under the "Tools" menu.  To disable Adobe flash cookies, you can use the flash management tools on Adobe’s website  <a href="http://www.adobe.com">www.adobe.com</a>. If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site.</p>
 <p>The information we collect may be collected directly by us, or it may be collected by a third-party website hosting provider, or another third-party service provider, on our behalf.</p>
 <p>We use the information we collect from you while you are using the Site in a variety of ways, including, for example, to process your registration request, provide you with services and communications that you have requested, send you email updates and other communications, customize features and advertising that appear on the Site, deliver our Site content to you, measure Site traffic, measure user interests and traffic patterns, and improve the Site and the services and features offered via the Site.</p>
 <p>In addition, we may use any information submitted by or collected from you via the Site for any purpose related to the Site, including to contact you for customer service purposes, to inform you of important changes or additions to our Site or the services offered over our Site, and to send you administrative notices and any other communications that we believe may be of interest to you.</p>
@@ -1043,10 +1039,12 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 <p>Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our <a href="http://www.dnj.com/section/terms">Terms of Service</a>; or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.</p>
 <p>Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our Site users may be among the transferred assets.</p>
 <h3><a name="adchoices"></a>Data Collected in Connection with Ad Serving and Targeting</h3>
+<p>We operate in compliance with the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising, www.aboutads.info.</p>
 <p>We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to collect non-personally identifiable information about site users and site activity, and we may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.</p>
 <p>We also may use third-party service providers, including Yahoo!, to target and serve some of the advertisements you see on the pages of our Site.  We may share non-personally identifiable information, such as type of pages viewed and categories of interest, from our Site with these service providers for their use in displaying ads on our Site.  These providers may use their own cookies, web beacons and similar technologies to collect non-personally identifiable information from our Site. These service providers may use that information, sometimes in conjunction with similar non-personally identifiable information gathered through other websites, to deliver advertisements on this Site, and on other websites that participate in our service providers’ advertising networks, that are tailored to match the perceived interests of consumers. In addition, Yahoo!, which is one of our third-party advertising service providers, may use information regarding its own users to select which ads to display on this Site. The non-personally identifiable information obtained by our third-party service providers also may be used to help measure and research an advertisement’s effectiveness, or for other purposes.</p>
 <p>The data collected in connection with the ad serving and ad targeting on our Site does not identify you personally and does not include your name, address, email address or telephone number, but it may include the IP address of your computer.</p>
 <p>The use and collection of information by third-party advertising service providers is governed by the relevant third party’s Privacy Notice and is not covered by our Privacy Notice.  If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider’s information collection practices, please <a href="http://www.dnj.com/section/adnetwork">click here</a>.</p>
+<p>If you would like more information on how to opt out of information collection practices, go to <a href="http://www.aboutads.info">www.aboutads.info</a>.</p>
 <h3>Information You Post to Blogs, Discussion Forums and Other Community Posting or Social Networking Areas</h3>
 <p>Please keep in mind that whenever you voluntarily make your personal information or other private information available for viewing by third parties online - for example on blogs, discussion forums, or other community posting or social networking areas of our Site - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.</p>
 <h3>Children's Privacy Statement</h3>
@@ -1075,6 +1073,7 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 				</div>				
 			</div>
 			</div>
+			
 			<div class="footer-container">
 	<!-- ody custom content macro -->
 	<div class="ody-wrapper">
@@ -1100,7 +1099,7 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 <div class="footer-main">
 	<div class="footer-wrap">
 		<div class="left">
-			<ul><li><h4><a href="/section/news01">NEWS</a></h4></li><li><a href="/section/news01">Local News</a></li><li><a href="/section/news05">Government</a></li><li><a href="/section/MICRO0501">Smyrna</a></li><li><a href="/section/NEWS06">Crime and Courts</a></li><li><a href="/section/business">Business</a></li><li><a href="/section/news07">Education</a></li><li><a href="http://content.usatoday.com/dist/custom/gci/topicpage.aspx?cid=dnj">Nation &amp; World</a></li><li><a href="/section/7daysarchives">Archives</a></li><li><h4><a href="/section/VIDEONETWORK">MULTIMEDIA</a></h4></li><li><a href="/section/galleriessectionfront">Photo Galleries</a></li><li><a href="/section/VIDEONETWORK">Videos</a></li></ul><ul><li><h4><a href="/section/neighborhoods">COMMUNITIES</a></h4></li><li><a href="/section/PluckPublicPhotoGalleries">Submit Your Photos</a></li><li><a href="http://www.dnj.com/apps/pbcs.dll/section?category=GETPUBLISHED01&amp;nav=1">Submit an Article</a></li><li><a href="http://search.dnj.com/sp?skin=&amp;aff=1000&amp;nav=1">Submit Events</a></li><li><a href="http://search.dnj.com/localevents">See All Events</a></li></ul><ul><li><h4><a href="/section/sports">SPORTS</a></h4></li><li><a href="/section/SPORTS">Local Sports</a></li><li><a href="http://www.blueraiders.com">MTSU</a></li><li><a href="/section/SPORTS08">High School Sports</a></li><li><a href="http://www.tennessean.com/section/SPORTS01">Titans</a></li><li><a href="http://www.tennessean.com/section/SPORTS02">Predators</a></li><li><a href="http://www.tennessean.com/section/sports0601">UT</a></li><li><a href="http://www.tennessean.com/section/sports0602">Vandy</a></li><li><a href="/section/springfling&amp;template=cover">Spring Fling</a></li><li><h4><a href="http://www.legacy.com/obituaries/dnj/">OBITUARIES</a></h4></li></ul><ul><li><h4><a href="/section/opinion">OPINION</a></h4></li><li><a href="/section/opinion">Opinion Page</a></li><li><a href="/section/opinion01">Editorial</a></li><li><a href="/section/opinion02">Columnists</a></li><li><a href="/section/opinion03">Letters</a></li><li><a href="/section/blogs">Blogs</a></li><li><a href="/section/PluckForum&amp;plckForumPage=ForumCategories">Forums</a></li><li><a href="/section/OPINION09">Submit a Letter to the Editor</a></li><li><h4><a href="/section/lifestyle">LIFESTYLES</a></h4></li><li><a href="/section/livingwell">Living Well</a></li><li><a href="/section/society&amp;template=cover">Murfreesboro Society</a></li><li><a href="/section/weekend">Rutherford Weekend</a></li><li><a href="http://nashville.momslikeme.com/members/exploregroups.aspx?p=129">MomsLikeMe.com</a></li><li><a href="/section/CUSTOMERSERVICE17">Submit a Birth Announcement</a></li><li><a href="/apps/pbcs.dll/article?AID=/20090602/CUSTOMERSERVICE10/90602029&amp;template=artinteractive">Submit an Engagement Announcement</a></li><li><a href="/apps/pbcs.dll/article?AID=/20090602/CUSTOMERSERVICE07/90602030&amp;template=artinteractive">Submit a Wedding Announcement</a></li></ul>
+			<ul><li><h4><a href="/section/news01">NEWS</a></h4></li><li><a href="/section/news01">Local News</a></li><li><a href="/section/news05">Government</a></li><li><a href="/section/MICRO0501">Smyrna</a></li><li><a href="/section/NEWS06">Crime and Courts</a></li><li><a href="/section/business">Business</a></li><li><a href="/section/news07">Education</a></li><li><a href="http://content.usatoday.com/dist/custom/gci/topicpage.aspx?cid=dnj">Nation &amp; World</a></li><li><a href="/section/7daysarchives">Archives</a></li><li><h4><a href="http://www.legacy.com/obituaries/dnj/">OBITUARIES</a></h4></li></ul><ul><li><h4><a href="/section/neighborhoods">COMMUNITIES</a></h4></li><li><a href="/section/PluckPublicPhotoGalleries">Submit Your Photos</a></li><li><a href="http://www.dnj.com/apps/pbcs.dll/section?category=GETPUBLISHED01&amp;nav=1">Submit an Article</a></li><li><a href="http://search.dnj.com/sp?skin=&amp;aff=1000&amp;nav=1">Submit Events</a></li><li><a href="http://search.dnj.com/localevents">See All Events</a></li></ul><ul><li><h4><a href="/section/sports">SPORTS</a></h4></li><li><a href="/section/SPORTS">Local Sports</a></li><li><a href="http://www.blueraiders.com">MTSU</a></li><li><a href="/section/SPORTS08">High School Sports</a></li><li><a href="http://www.tennessean.com/section/SPORTS01">Titans</a></li><li><a href="http://www.tennessean.com/section/SPORTS02">Predators</a></li><li><a href="http://www.tennessean.com/section/sports0601">UT</a></li><li><a href="http://www.tennessean.com/section/sports0602">Vandy</a></li><li><h4><a href="/section/lifestyle">LIFESTYLES</a></h4></li><li><a href="/section/livingwell">Living Well</a></li><li><a href="/section/society&amp;template=cover">Murfreesboro Society</a></li><li><a href="/section/weekend">Rutherford Weekend</a></li><li><a href="/section/CUSTOMERSERVICE17">Submit a Birth Announcement</a></li><li><a href="http://dnj.com/celebrations">Submit an Engagement Announcement</a></li><li><a href="http://dnj.com/celebrations">Submit a Wedding Announcement</a></li></ul><ul><li><h4><a href="/section/opinion">OPINION</a></h4></li><li><a href="/section/opinion">Opinion Page</a></li><li><a href="/section/opinion01">Editorial</a></li><li><a href="/section/opinion02">Columnists</a></li><li><a href="/section/opinion03">Letters</a></li><li><a href="/section/blogs">Blogs</a></li><li><a href="/section/PluckForum&amp;plckForumPage=ForumCategories">Forums</a></li><li><a href="/section/OPINION09">Submit a Letter to the Editor</a></li><li><h4><a href="/section/VIDEONETWORK">MULTIMEDIA</a></h4></li><li><a href="/section/galleriessectionfront">Photo Galleries</a></li><li><a href="/section/VIDEONETWORK">Videos</a></li></ul>
 		</div>
 		<div class="right">
 			<ul>
@@ -1136,8 +1135,6 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 			<li><a target="_blank" href="http://www.homegain.com">Real Estate</a></li>
 			<li>|</li>
 			<li><a target="_blank" href="http://www.shoplocal.com">Shopping</a></li>
-			<li>|</li>
-			<li><a target="_blank" href="http://www.momslikeme.com">Mom Groups</a></li>
 		</ul>
 	</div>
 </div>
@@ -1150,7 +1147,6 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 			<li><a class="footer-apts" href="http://www.apartments.com/" target="_blank"></a></li>
 			<li><a class="footer-homegain" href="http://www.homegain.com" target="_blank"></a></li>
 			<li><a class="footer-shop" href="http://www.shoplocal.com" target="_blank"></a></li>
-			<li><a class="footer-moms" href="http://www.momslikeme.com" target="_blank"></a></li>
 			<li><a class="footer-career" href="http://www.careerbuilder.com" target="_blank"></a></li>
 			<li><a class="footer-eharmony" href="http://www.eharmony.com" target="_blank"></a></li>			
 		</ul>
@@ -1287,7 +1283,7 @@ GEL.thepage.initializer.addInitRoutine({
 		method of inserting the image.  Once this is implemented, 
 		the inline attachment of the s_code here can be removed 
 	*/
-	var _s = GEL.ement("SCRIPT", { src: "/odygel/lib/vendor/omniture/sitecatalyst.js" }); 
+		var _s = GEL.ement("SCRIPT", { src: "/odygel/lib/vendor/omniture/sitecatalyst.js" }); 
 	_s.setAttacher("inline"); 
 	_s.attach(); 
 })(); 
@@ -1299,22 +1295,6 @@ GEL.thepage.initializer.addInitRoutine({
 <!--Semantics Agency Trading Desk-->
 <div id="adsdaq"></div>
 <script type="text/javascript">
-(function(){
-	GEL.thepage.initializer.addInitRoutine({ 
-		name: "ADSDAQ",
-		namespace: "remoting",
-		callback: function (){ 
-			var 
-				_jscntr= GEL.ement("adsdaq"), 
-				_u= "http://atd.agencytradingdesk.net/WatsonTracker/IMP/A1000138/C1000187/P1003016/cw.jsx?t=1"
-			;
-			_jscntr.setContentUrl(_u, 'script');
-			_jscntr.updateRemoteContent(); 
-			return; 
-		}, 
-		priority: 250
-	});
-})()	
 </script>
 <script type="text/javascript">
 (function(){ 
@@ -1388,11 +1368,6 @@ window.fbAsyncInit = function() {
 			recentActivity:"/odygci/p2/recentactivity_icon.gif"
 		}
 	};
-	var 
-		_s = GEL.ement("SCRIPT", { src: _spath })
-	; 
-	_s.setAttacher("inline"); 
-	_s.attach(); 
 	GEL.thepage.initializer.addInitRoutine({ 
 		name: "Meebo",
 		namespace: ["remoting","widget.AdBanner"],
@@ -1416,8 +1391,7 @@ window.fbAsyncInit = function() {
 		priority: 200
 	});
 })()
-</script><script id="__gelement_1" src="http://sitelife.dnj.com/ver1.0/Direct/DirectProxy"></script>
-
+</script>
 <script type="text/javascript">
 setTimeout(function(){ GEL.thepage.initializer.init();}, 100); 
 </script> 
@@ -1429,34 +1403,34 @@ setTimeout(function(){ GEL.thepage.initializer.init();}, 100);
 <!-- General Info
 Current page request (after SAXOTECH translation): http://www.dnj.com/apps/pbcs.dll/section?Category=privacy
 Canonical Link: http://www.dnj.com/section/PRIVACY
-Build date and time: 2011-05-25 13:40:39
+Build date and time: 2011-11-23 10:35:36
 -->
 <!-- Cache Build Time
-Time used: 10422 ms Wait: 16 ms<br>
+Time used: 1875 ms<br>
 <b>Starting first parse</b><br>
 .Parsing macro ody_Initialize<br>
 ..Build 0: 0 ms (Misc)<br>
 ..Parsing macro ody_Initialize_All<br>
-...Build 9: 109 ms (Content)<br>
+...Build 9: 63 ms (Content)<br>
 ..Completed macro ody_Initialize_All<br>
 ..Parsing macro ody_GetTimeOffset<br>
-...Build 9: 15 ms (Content)<br>
+...Build 9: 0 ms (Content)<br>
 ..Completed macro ody_GetTimeOffset<br>
 ...Build 0: 0 ms (Misc)<br>
 ...Build 0: 0 ms (Misc)<br>
-...Build 0: 16 ms (Misc)<br>
+...Build 0: 0 ms (Misc)<br>
 ...Build 0: 0 ms (Misc)<br>
 ...Build 0: 0 ms (Misc)<br>
 ..Parsing macro ody_Initialize_Request<br>
 ...Parsing macro ody_Initialize_Section<br>
-....Build 9: 47 ms (Content)<br>
+....Build 9: 16 ms (Content)<br>
 ...Completed macro ody_Initialize_Section<br>
-...Build 9: 78 ms (Content)<br>
+...Build 9: 31 ms (Content)<br>
 ..Completed macro ody_Initialize_Request<br>
-..Build 9: 407 ms (Content)<br>
+..Build 9: 188 ms (Content)<br>
 .Completed macro ody_Initialize<br>
 .Parsing macro ody_addecision<br>
-..Build 9: 109 ms (Content)<br>
+..Build 9: 188 ms (Content)<br>
 .Completed macro ody_addecision<br>
 .Parsing macro ody_Header<br>
 ..Parsing macro ody_HeaderRequest<br>
@@ -1464,40 +1438,34 @@ Time used: 10422 ms Wait: 16 ms<br>
 ....Parsing macro ody_seo<br>
 .....Build 0: 0 ms (Misc)<br>
 ....Completed macro ody_seo<br>
-....Build 9: 63 ms (Content)<br>
+....Build 9: 31 ms (Content)<br>
 ...Completed macro ody_Header_Sections<br>
-...Build 9: 78 ms (Content)<br>
+...Build 9: 47 ms (Content)<br>
 ..Completed macro ody_HeaderRequest<br>
 ..Parsing macro ody_pageinfo_script<br>
-...Build 9: 32 ms (Content)<br>
+...Build 9: 16 ms (Content)<br>
 ..Completed macro ody_pageinfo_script<br>
-..Parsing macro ody_semantics_wrapper<br>
-...Parsing macro ody_semantics<br>
-....Build 9: 8313 ms (Content)<br>
-...Completed macro ody_semantics<br>
-...Build 9: 8344 ms (Content)<br>
-..Completed macro ody_semantics_wrapper<br>
-..Build 9: 8781 ms (Content)<br>
+..Build 9: 234 ms (Content)<br>
 .Completed macro ody_Header<br>
 .Parsing macro ody_nav<br>
 .Completed macro ody_nav<br>
 .Parsing macro ody_gen3_content<br>
 ..Parsing macro ody_getPrivacy<br>
-...Build 0: 281 ms (Misc)<br>
+...Build 0: 641 ms (Misc)<br>
 ..Completed macro ody_getPrivacy<br>
-..Build 9: 328 ms (Content)<br>
+..Build 9: 672 ms (Content)<br>
 .Completed macro ody_gen3_content<br>
 .Parsing macro ody_Footer<br>
 ..Parsing macro ody_analytics<br>
-...Build 9: 63 ms (Content)<br>
+...Build 9: 47 ms (Content)<br>
 ..Completed macro ody_analytics<br>
 ..Parsing macro ody_meebobar<br>
 ...Parsing macro ody_meebo_adcall<br>
-....Build 9: 16 ms (Content)<br>
+....Build 9: 15 ms (Content)<br>
 ...Completed macro ody_meebo_adcall<br>
 ...Build 9: 31 ms (Content)<br>
 ..Completed macro ody_meebobar<br>
-..Build 9: 438 ms (Content)<br>
+..Build 9: 359 ms (Content)<br>
 .Completed macro ody_Footer<br>
 .Parsing macro ody_DebugInfo<br>
 -->
