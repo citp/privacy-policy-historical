@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pwinsider.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128101746id_/http%3A//pwinsider.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pwinsider.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123121622id_/http%3A//www.pwinsider.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | PWInsider.com
 
@@ -12,3 +12,6 @@ Personally identifiable information that visitors submit to this Site is used on
 
 **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+
+**IP Tracking**  
+Please note that we have a feature enabled that will allow us to deny the ability to view the page to specific IP addresses. This feature is enabled due to so many websites copying and pasting our work, stealing it and passing it off as their own. If we can get the IP address of someone who we know steals our work, we can then block that person from being able to read the site. It started due to a person named Bixenspan. Unfortunately, there are some seriously deranged wrestling fans out there. Please note that IP addresses are not collected or stored by PWInsider.com.
