@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineretailer.net privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524052606id_/http%3A//nationalmedia.com.au/%3Fpage_id%3D64) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineretailer.net privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123030542id_/http%3A//nationalmedia.com.au/%3Fpage_id%3D64) for the most accurate reproduction.*
 
 # Privacy Policy | National Media
 
