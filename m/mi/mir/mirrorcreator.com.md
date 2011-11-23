@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirrorcreator.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607203259id_/http%3A//www.mirrorcreator.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirrorcreator.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123185024id_/http%3A//www.mirrorcreator.com/p/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Mirrorcreator.com - Upload Your files to multiple hosts
 
