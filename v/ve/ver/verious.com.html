@@ -1,0 +1,390 @@
+<!--The following is the downloaded HTML source of the verious.com privacy policy that was archived on 2011-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123115817id_/http%3A//verious.com/privacy/index.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Verious - Serious Software for Mobile Apps!</title>
+<meta name="description" content="content here">
+<meta name="keywords" content="keywords here">
+<meta name="robots" content="noodp"> 
+    
+  <link rel="shortcut icon" type="image/ico" href="/favicon.ico">
+  <link type="text/css" href="/global/ui01/css/reset.css" media="screen" rel="Stylesheet">
+  <link type="text/css" href="/global/css/grid16.css" media="screen" rel="Stylesheet">
+  <link type="text/css" href="/global/ui01/css/main.css" media="screen" rel="Stylesheet">
+  <link type="text/css" href="/global/css/jquery.fancybox-1.3.4.css" rel="stylesheet">
+  <link type="text/css" href="/global/ui01/css/ui-lightness/jquery-ui-1.8.16.custom.css" rel="stylesheet">
+  
+  <script type="text/javascript" async="" src="https://web.archive.org/web/20111122084528/https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e0c9e623c4a9f06"></script><script type="text/javascript" src="/global/js/jquery-1.6.2.min.js"></script>
+  <script type="text/javascript" src="/global/js/jquery-ui-1.8.16.custom.min.js"></script>
+  <script type="text/javascript" src="/global/ui01/js/jquery.main.js"></script>
+  <script type="text/javascript" src="/global/js/jquery.validate.min.js"></script>
+  <script type="text/javascript" src="/global/js/jquery.fancybox-1.3.4.pack.js"></script>
+  <script type="text/javascript" src="/global/js/jquery.easing-1.3.pack.js"></script>
+  <script type="text/javascript" src="/global/js/jquery.mousewheel-3.0.4.pack.js"></script>
+  <script type="text/javascript" src="/global/js/jquery.jcarousel.js"></script>
+  <script type="text/javascript" src="/global/ui01/js/main.js"></script>
+  <script type="text/javascript" src="/global/js/xhr.js"></script>
+  <script type="text/javascript">
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 's7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e0c9e623c4a9f06';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+     var addthis_config = {
+        data_ga_property: 'UA-23311508-1',
+		data_ga_social : true
+     };
+  </script>
+  <script>
+  function login() {
+    if ($('#pass')) {
+      $('#login').submit();
+      }
+    }
+  function updateField(isBlur) {
+    if (isBlur) {
+      if ($("#email").val() == "") {
+        $("#email").val("");
+      }
+    } else {
+      if ($("#email").val() == "") {
+        $("#email").val("");
+      }
+    }
+  }
+  function enter(event) {
+    if (event && event.which==13) {
+      login();
+        return false;
+      }
+  }
+  </script>
+  <script>
+  function validateEmail(event) {
+      if (event && event.which==13) {
+          submit();
+          return false;
+      }
+  }
+  function submit() {
+      $('.error').fadeOut();
+      $('.success').fadeOut();
+      var reg = /^([A-Za-z0-9_\-\.])+\@([A-Za-z0-9_\-\.])+\.([A-Za-z]{2,4})$/;
+      var email = $('#email').val();
+      if (!reg.test(email)) {
+          $('.error').html('Please enter a valid email address');
+          $('.error').fadeIn();
+      } else {
+          $.ajax({
+              url : 'cmd_register.php',
+              type : 'POST',
+              data : ({
+                  'e' : escape(email)
+              }),
+              error : function() {
+                
+              },
+              success : function(result) {
+                  $('.success').html(result);
+                  $('.success').fadeIn();
+              }
+          });
+        
+          // var xhr = new XMLHttpRequest();
+          // xhr.open("POST", "cmd_register.php", true);
+          // xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+          // xhr.onreadystatechange = function () {
+          //     if (xhr.readyState==4 && xhr.status==200) {
+          //         $("error").innerHTML = xhr.responseText;
+          //     }
+          // };
+          // xhr.send("e=" + escape(email));
+      }
+  }
+  </script>
+  <script type="text/javascript">
+			$(function(){
+				// Accordion
+				$("#accordion").accordion({ header: "h3" });
+	
+				// Tabs
+				$('#tabs').tabs();
+			});
+		</script>
+  <script>
+  function next() {
+      $('#register').submit();
+      return false;
+  }
+  $(document).ready(function() {
+      $('#register').validate({
+          errorClass : "validate-error",
+          validClass : "validate-success"
+      });
+  })
+  </script>
+
+<script type="text/javascript" src="/global/js/ga.verious.com.js"></script>
+</head>
+<body>
+<script type="text/javascript">
+$(document).ready(
+    $('#pass').keypress(function(event) {
+        enter(event);
+    });)
+</script>
+<!--Start Header-->
+<!--Begin Primary Menu-->
+<div id="menu-primary">
+  <div class="container_16">
+    <div class="grid_6 alpha">&nbsp;</div>
+    <div class="grid_10 omega">
+      <ul>
+	              <li><strong>Welcome, Guest</strong></li>
+          <li><a href="/cart/index.php">My Cart</a></li>
+          <li><a href="/account/register.php">Register</a></li>
+          <li class="marker-none"><a href="/account/login.php">Login</a></li>
+          <li class="contact-link"><a href="/about/career/index.php"><b>We're Hiring!</b></a></li>
+		      </ul>
+    </div>
+  </div>
+</div>
+<!--End Primary Menu-->
+<!--Begin Global Menu-->
+<div id="menu-global">
+  <div class="container_16">
+    <div class="grid_4 logo alpha"><a href="/index.php"><img src="/global/ui01/css/img/verious-logo.png" alt="Verious"></a></div>
+    <div class="grid_12 nav omega">
+       <ul>
+         <li><a href="/marketplace/index.php?o=iOS">iOS</a></li>
+         <li><a href="/marketplace/index.php?o=Android">Android</a></li>
+         <li><a href="/services/index.php?tn=Mobile+SDKs">Mobile SDKs</a></li>
+         <li><a href="/services/index.php?tn=APIs">APIs</a></li>
+         <li><a href="/developer/index.php">Contractors</a></li>
+       </ul>
+    </div>
+  </div>
+</div>
+<!--End Global Menu-->
+<!--End Header-->
+<!--Begin Page Banner-->
+<div id="banner">
+  <div class="container_16">
+	<div class="grid_16 alpha omega">
+	  <h1>Legal</h1>
+	</div>
+  </div>
+</div>
+<!--End Page Banner-->
+<!--Begin Body Content-->
+<div id="content">
+  <!--Begin Wrapper-->
+  <div class="container_16">
+    <!--Begin Breadcrumb-->
+    <div id="breadcrumb" class="grid_16 alpha omega">
+      <ul>
+        <li><a href="/index.php">Home</a></li>
+        <li class="marker-none">Privacy Policy</li>
+      </ul>
+    </div>
+    <!--Begin Left Hand Column-->
+    <div class="grid_12 alpha">
+    <!--Begin Legal-->
+      <div class="legal">
+        <h2>Privacy Policy</h2>
+        <p>Verious, Inc. (“Verious”) knows that you care about how your personal information is used and shared, and we take your privacy seriously.  Please read the following to learn more about our privacy policy.  By visiting the www.verious.com website and domain name, and any other linked pages, features, content, or application services offered from time to time by Verious in connection therewith (collectively, the "Website"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.</p>
+        <h3>WHAT DOES THIS PRIVACY POLICY COVER?</h3>
+        <p>This Privacy Policy covers Verious’s treatment of personally identifiable information ("Personal Information") that Verious gathers when you access the Website and when you use Verious’s services.  This policy does not apply to the practices of companies that Verious does not own or control, or to individuals that Verious does not employ or manage.</p>
+        <h3>WHAT PERSONAL INFORMATION DOES VERIOUS COLLECT?</h3>
+        <p>The information we gather from customers enables us to personalize and improve our services. We collect the following types of information from our customers:</p>
+        <h4>Personal Information You Provide to Us:</h4>
+        <p>We receive and store any information you enter on our Website or provide to us in any other way.  The types of Personal Information collected include your full name, company name, email address, website, mobile phone number, skype ID, credit card and/or other payment information, IP address, browser information, username, password, browsing history, transactions, listings created, comments and reviews posted, and any other information necessary for us to provide our services as well as credentials you provide us to link your Verious account with third party services such as Twitter, LinkedIn and Facebook. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.  The Personal Information you provide is used for such purposes as answering questions, sending product updates, and communicating with you about Verious’s products and services, including specials and new features.</p>
+        <h4>Personal Information Collected Automatically:</h4>
+        <ul>
+          <li>We receive and store certain types of information whenever you interact with our Website or use our services.  Verious automatically receives and records information on our server logs from your browser including your IP address, cookie information, and the page you requested.</li>
+          <li>Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our Website and its components, similar to TV ratings that indicate how many people watched a particular show.  Verious only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally.  This type of aggregate data enables us to figure out how often customers use parts of the Website or services so that we can make the Website appealing to as many customers as possible, and improve those services.  As part of this use of information, we may provide aggregate information to our partners about how our customers, collectively, use our Website or services.  We share this type of statistical data so that our partners also understand how often people use the Website or services, so that they, too, may provide you with an optimal online experience. Again, Verious never discloses aggregate information to a partner in a manner that would identify you personally.</li>
+        </ul>
+        <h4>E-mail Communications:</h4>
+        <p>We often receive a confirmation when you open an email from Verious if your computer supports this type of program. Verious uses this confirmation to help us make emails more interesting and helpful.  We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers.  When you receive e-mail from Verious, you can opt out of receiving further e-mails by following the included instructions to unsubscribe.</p>
+        <h4>What About Cookies?</h4>
+        <p>Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people.  We use cookies to enhance visitors’ experiences, to learn more about their use of the Website and to improve quality.</p>
+        <p>Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways.  We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of our Website’s most attractive features.</p>
+        <p>Ads appearing on the Website may be delivered to users by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Verious and does not cover the use of cookies by any advertisers.</p>
+        <h3>WILL VERIOUS SHARE ANY OF THE PERSONAL INFORMATION IT RECEIVES?</h3>
+        <p>Personal Information about our customers is an integral part of our business.  We neither rent nor sell your Personal Information to anyone.  We share your Personal Information only as described below.</p>
+        <p><i>Affiliated Businesses We Do Not Control:</i> We anticipate that we may become affiliated with a variety of businesses and work closely with them.  In certain situations, these businesses may sell items to you through the Website.  In other situations, Verious may provide services, or sell products jointly with affiliated businesses.  You can easily recognize when an affiliated business is associated with your transaction, and we will share your Personal Information that is related to such transactions with that affiliated business.</p>
+        <p><i>Agents:</i> We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Verious’s agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.</p>
+        <p><i>User profiles:</i> User profile information including users’ name, email address, and other information you enter (“User Submissions”) may be displayed to other users to facilitate user interaction within the Website. Email addresses are used to add new User Submissions to user profiles and to communicate through User Submissions. Users’ email addresses will not be directly revealed to other users by Verious, except, when the user is "connected" to another user via a shared group membership, or an invitation, or if the user has chosen to include their email address in their User Profile.</p>
+        <p><i>Communication in response to User Submissions:</i> As part of the Website and services, you will receive from Verious email and other communication relating to your User Submissions. You acknowledge and agree that by posting such User Submissions, Verious may send you email and other communication that it determines in its sole discretion relate to your User Submissions.</p>
+        <p><i>Promotional Offers:</i> We may send offers to you on behalf of other businesses.  However, when we do so, we do not give the other business your name and address.  If you do not wish to receive these offers, please send an email with your request to privacy@verious.com.</p>
+        <p><i>Business Transfers:</i> In some cases, we may choose to buy or sell assets.  In these types of transactions, customer information is typically one of the business assets that are transferred.  Moreover, if Verious, or substantially all of its assets were acquired, or in the unlikely event that Verious goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Verious may continue to use your Personal Information as set forth in this policy.</p>
+        <p><i>Protection of Verious and Others:</i> We may release Personal Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Verious, our employees, our users, or others.  This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.</p>
+        <p><i>With Your Consent:</i> Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.</p>
+        <h4>IS PERSONAL INFORMATION ABOUT ME SECURE?</h4>
+        <p>Your Verious account Personal Information is protected by a password for your privacy and security.  You need to ensure that there is no unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.</p>
+        <p>Verious endeavors to protect user information to ensure that user account information is kept private, however, Verious cannot guarantee the security of user account information.  Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time.</p>
+        <p>The Website contains links to other sites. Verious is not responsible for the privacy policies and/or practices on other sites. When linking to another site you should read the privacy policy stated on that site.  This Privacy Policy only governs information collected on the Website.</p>
+        <h4>WHAT PERSONAL INFORMATION CAN I ACCESS?</h4>
+        <p>Verious allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information. This list will change as the Website changes.</p>
+        <ul>
+          <li>Real name</li>
+          <li>Company name and information</li>
+          <li>Account and user profile information</li>
+          <li>Credit card and/or other payment information</li>
+          <li>Website</li>
+          <li>User e-mail address</li>
+          <li>User mobile phone number</li>
+          <li>User skype ID</li>
+          <li>Username and password</li>
+          <li>User preferences</li>
+          <li>User social network credentials (e.g., Facebook, Twitter, LinkedIn)</li>
+        </ul>
+        <h4>WHAT CHOICES DO I HAVE?</h4>
+        <ul>
+          <li>As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain features of the Website and services.</li>
+          <li>You are able to add or update certain information on pages, such as those listed in the “What Personal Information Can I Access” section above.  When you update information, however, we often maintain a copy of the unrevised information in our records.</li>
+          <li>You may request deletion of your Verious account by sending an e-mail to privacy@verious.com.  Please note that some information may remain in our records after deletion of your account.</li>  
+          <li>If you do not wish to receive email or other mail from us, please indicate this preference during the registration process.  Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes.</li>
+        </ul>
+        <h4>CHANGES TO THIS PRIVACY POLICY</h4>
+        <p>Verious may amend this Privacy Policy from time to time.  Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used.  If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email.  Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.</p>
+        <h4>QUESTIONS OR CONCERNS</h4>
+        <p>If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at privacy@verious.com.  We will make every effort to resolve your concerns.</p>
+        <p>Effective Date: September 12, 2011</p>
+        <p>Verious, Inc.<br>
+        1271 Laurel Street<br>
+        San Carlos, CA 94070</p>
+      </div>
+      <!--End Legal-->
+    </div>
+    <!--End Left Hand Column-->
+    <!--Begin Right Hand Column (Sidebar)-->
+    <div id="sidebar" class="grid_4 omega">
+      <p>&nbsp;</p>
+    </div>
+    <!--End Right Hand Column (Sidebar)-->
+  </div>
+  <!--End Wrapper-->
+</div>
+<!--End Body Content-->
+<!--Begin Footer-->
+<div id="footer">
+  <div class="container_16">
+    <div id="social-bar" class="grid_16 alpha omega">
+      <!--Begin AddThis Buttons-->
+      <div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+        <a class="addthis_button_preferred_1"></a>
+        <a class="addthis_button_preferred_2"></a>
+        <a class="addthis_button_preferred_3"></a>
+        <a class="addthis_button_preferred_4"></a>
+        <a class="addthis_button_compact"></a>
+        <a class="addthis_counter addthis_bubble_style"></a>
+      </div>
+      <!--End AddThis Buttons-->
+            
+            
+            
+            
+    </div>
+  </div>
+  <div class="container_16">
+    <!--Begin Footer Columns-->
+    <div id="footer-columns" class="grid_16">
+      <div class="grid_3 alpha">
+        <h4>Browse by Category</h4>
+        <ul>
+          <li><a href="/search/index.php?q=Advertising">Advertising &amp; Monetization</a></li>
+          <li><a href="/search/index.php?q=Business Productivity">Business Productivity</a></li>
+          <li><a href="/search/index.php?q=Data Services">Data Services</a></li>
+          <li><a href="/search/index.php?q=Gaming">Gaming</a></li>
+          <li><a href="/search/index.php?q=Geolocation">Geolocation</a></li>
+          <li><a href="/search/index.php?q=local">Local</a></li>
+          <li><a href="/search/index.php?q=Media">Media &amp; Entertainment</a></li>
+          <li><a href="/search/index.php?q=Payments">Payments</a></li>
+          <li><a href="/search/index.php?q=Programing">Programing</a></li>
+          <li><a href="/search/index.php?q=Security">Security</a></li>
+          <li><a href="/search/index.php?q=Sensors">Sensors</a></li>
+          <li><a href="/search/index.php?q=ui">UI &amp; Graphics</a></li>
+          <li><a href="/search/index.php?q=Utility">Utility</a></li>
+        </ul>
+      </div>
+      <div class="grid_3">
+        <h4>View Top Listings</h4>
+        <ul>
+          <li><a href="/marketplace/index.php">Mobile Components</a></li>
+          <li><a href="/services/index.php?tn=SDK">Mobile SDKs</a></li>
+          <li><a href="/services/index.php?tn=Services">App Development Services</a></li>
+          <li><a href="/services/index.php?tn=Tools">App Development Tools</a></li>
+          <li><a href="/services/index.php?o=&amp;t=4e53ee2713ddab32090000cc&amp;c=">Mobile Open Source</a></li>
+        </ul>
+      </div>
+      <div class="grid_3">
+        <h4>Getting Started</h4>
+        <h5>Buyer</h5>
+        <ul>
+          <li><a href="/account/register.php">Register Now!</a></li>
+          <li><a href="/marketplace/index.php">Browse Marketplace</a></li>
+          <li><a href="/marketplace/request/index.php">Request a Component</a></li>
+        </ul>
+        <div class="spacer20"></div>
+        <h5>Seller</h5>
+        <ul>
+          <li><a href="/account/register.php">Register</a></li>
+          <li><a href="/account/profile.php">Create a Profile</a></li>
+          <li><a href="/account/components/index.php">Create a Listing</a></li>
+          <li><a href="/resources/ios/index.php">iOS Components</a></li>
+          <li><a href="/resources/android/index.php">Android Components</a></li>
+          <li><a href="/resources/faq.php">Component FAQ</a></li>
+          <li><a href="/legal/standard-license-agreement/index.php">License Agreement</a></li>
+        </ul>
+      </div>
+      <div class="grid_3">
+        <h4>About Verious</h4>
+        <ul>
+          <li><a href="/about/contact-us.php">Contact Us</a></li>
+          <li><a href="/about/index.php">Team</a></li>
+          <li><a href="/about/investors.php">Investors &amp; Advisors</a></li>
+          <li><a href="/about/press/index.php">Latest News</a></li>
+          <li><a href="/about/career/index.php">Careers</a></li>
+        </ul>
+      </div>  
+      <div class="grid_4 omega">
+        <div class="spacer140"></div>
+        <h2>Very Curious?</h2>
+        <p>Not a developer but still Very Curious? Join our mailing list.</p>
+        <form id="subscribe" method="POST" action="/account/register.php">
+        <div class="email-box">
+          <input type="hidden" name="context" value="subscribe">
+          <input size="30" type="text" id="email" name="email" value="Enter your Email" onfocus="updateField(false)" onblur="updateField(true)">
+          <input type="image" src="/global/ui01/css/img/btn-submit.png" value="email" onclick="document.getElementById('subscribe').submit()">
+        
+                                    </div>
+        </form>
+        
+                
+      </div> 
+    </div>
+	<!--End Footer Columns-->
+	<div id="copyright" class="grid_16 alpha omega">
+      <div class="grid_9 alpha">
+	    <img src="/global/ui01/css/img/verious-logo.png" width="155px" align="left"> <p>Copyright © 2011 Verious Inc. All rights reserved.</p>
+      </div>
+      <div class="grid_7 omega">
+        <div class="breadcrumb">
+          <ul>
+            <li><a href="/privacy/index.php">Privacy Policy</a></li>
+            <li class="marker-none"><a href="/legal/terms-of-use/index.php">Terms of Use</a></li>
+          </ul>
+        </div>
+      </div>
+	</div>
+  </div>
+</div>
+
+
+
+<!--End Footer-->
+
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
