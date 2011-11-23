@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vertafore.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523083804id_/http%3A//www.vertafore.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertafore.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123015022id_/http%3A//www.vertafore.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vertafore
 
-Updated: May 2, 2011
+Updated: November 3, 2011
 
-This policy covers Vertafore.com (the "Site"). Other Vertafore web properties may have site specific privacy policies.
+This policy covers Vertafore.com (the "Site"). Other Vertafore web properties may reference this policy or have site specific privacy policies.
 
 **Notice Regarding Collection and Use of your Personal Information**
 
