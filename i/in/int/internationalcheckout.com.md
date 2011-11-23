@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationalcheckout.com privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311115540id_/http%3A//internationalcheckout.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalcheckout.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123114640id_/http%3A//www.internationalcheckout.com/privacy.php) for the most accurate reproduction.*
 
 # :: International Checkout :: Delivering products from America to your doorstep, worldwide ::
 
