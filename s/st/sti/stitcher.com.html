@@ -1,19 +1,22 @@
-<!--The following is the downloaded HTML source of the stitcher.com privacy policy that was archived on 2010-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100529160409id_/http%3A//stitcher.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stitcher.com privacy policy that was archived on 2011-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123121355id_/http%3A//stitcher.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 <title>Stitcher.com - Privacy</title>
 
+<!-- Combo-handled YUI CSS files: -->
+<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?2.8.1/build/container/assets/skins/sam/container.css">
+<!-- Combo-handled YUI JS files: -->
+<script type="text/javascript" src="http://yui.yahooapis.com/combo?2.8.1/build/yahoo-dom-event/yahoo-dom-event.js&amp;2.8.1/build/container/container-min.js"></script>
 
-<link rel="stylesheet" type="text/css" href="css/new_website.css">
-<script type="text/javascript" src="js/new_website_min.js"></script>
-
+    <link rel="stylesheet" type="text/css" href="css/new_website.css">
+    <script type="text/javascript" src="js/new_website_min.js"></script>
 
 </head>
 
-<body style="background-color:#fbfbfb;;">
+<body style="background-color:#fbfbfb;" class="yui-skin-sam">
 
 <div id="main-bg"></div>
 
@@ -23,31 +26,20 @@
 
 <!-- this is the start of the header -->
 <div id="header">
-<div id="header-logo">
-<a id="top-anchor" name="top" href="home.php"></a>
+    <div id="header-logo"><a id="top-anchor" name="top" href="home.php"></a></div>
+
+    <a id="home-unselected" class="header-anchor" href="home.php"></a>
+    <a id="explore-unselected" class="header-anchor" href="explore.php"></a>
+    <a id="listen-unselected" class="header-anchor" href="listen.php"></a>
+    <a id="learn-more-selected" class="header-anchor" href="about_us.php"></a>
 </div>
 
-<div onclick="javascript:document.location.href='home.php';" onmouseover="ShowHomeTooltip('LEARN-MORE'); this.style.cursor='pointer'; this.style.cursor='hand';" onmouseout="HideHomeTooltip('LEARN-MORE'); this.style.cursor='default'" id="home-unselected">
-<a class="header-anchor" href="home.php"></a>
-</div>
-
-<div onclick="javascript:document.location.href='explore.php';" onmouseover="ShowExploreTooltip('LEARN-MORE'); this.style.cursor='pointer'; this.style.cursor='hand';" onmouseout="HideExploreTooltip('LEARN-MORE'); this.style.cursor='default'" id="explore-unselected">
-<a class="header-anchor" href="explore.php"></a>
-</div>
-
-<div id="LEARN-MORE-home-tooltip"></div>
-<div id="LEARN-MORE-explore-tooltip"></div>
-<div id="LEARN-MORE-listen-tooltip"></div>
-
-<div onclick="javascript:document.location.href='listen.php';" onmouseover="ShowListenTooltip('LEARN-MORE'); this.style.cursor='pointer'; this.style.cursor='hand';" onmouseout="HideListenTooltip('LEARN-MORE'); this.style.cursor='default'" id="listen-unselected">
-<a class="header-anchor" href="listen.php"></a>
-</div>
-
-<div onclick="javascript:document.location.href='about_us.php';" onmouseover="this.style.cursor='pointer'; this.style.cursor='hand';" onmouseout="this.style.cursor='default'" id="learn-more-selected">
-<a class="header-anchor" href="about_us.php"></a>
-</div>
-
-</div>
+<script type="text/javascript">
+    //var downloadTooltip = new YAHOO.widget.Tooltip("home-tt", {context:"home-selected", text:"Download Stitcher for<br>your Smart Phone."}); 
+    var exploreTooltip = new YAHOO.widget.Tooltip("explore-tt", {context:"explore-unselected", text:"See how we are changing the<br>way people listen to audio."});
+    var listenTooltip = new YAHOO.widget.Tooltip("listen-tt", {context:"listen-unselected", text:"Hear Stitcher on your<br>Desktop computer."});
+    var learnMoreTooltip = new YAHOO.widget.Tooltip("learn-more-tt", {context:"learn-more-selected", text:"Find information about the<br>company, and working with us."});
+</script>
 <!-- this is the end of the header -->
 
 <div id="sub-bg">
@@ -97,7 +89,7 @@ We may make changes in our privacy policy from time to time. When we do so, we w
 <span id="terms-box-text-header">Contacting Stitcher</span>
 <br><br>
 We would like to receive your comments and questions about this Privacy Policy and any other matter you have regarding our sites. Please address comments or questions to us via e-mail or postal mail. You can send e-mails to: support@stitcher.com You may also contact us by mail:
-Stitcher, Inc., Pier 9, Building 116, San Francisco, CA 94109
+Stitcher, Inc., 121 2nd St., Suite 600, San Francisco, CA 94105
 <br><br>
 <span id="terms-box-text-header">Acceptance of privacy policy</span>
 <br><br>
@@ -149,7 +141,7 @@ Contact Us
 <div id="advertisers-menu-item-unselected" onclick="javascript:document.location.href='advertisers.php';" onmouseover="this.style.cursor='pointer'; this.style.cursor='hand';" onmouseout="this.style.cursor='default'"></div>
 <div class="clear-left"></div>
 <div class="closed-arrow"></div>
-<div id="providers-menu-item-unselected" onclick="javascript:document.location.href='content_providers.php';" onmouseover="this.style.cursor='pointer'; this.style.cursor='hand';" onmouseout="this.style.cursor='default'"></div>
+<div id="providers-menu-item-unselected" onclick="javascript:document.location.href='contentProviders.php';" onmouseover="this.style.cursor='pointer'; this.style.cursor='hand';" onmouseout="this.style.cursor='default'"></div>
 
 </div>
 
@@ -164,26 +156,31 @@ Contact Us
 
 <div id="footer">
     <div id="footer-left">
-        <a href="about_us.php">About Us</a>
-        <span class="footer-link-divider">&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;</span>
-        <a href="http://blog.stitcher.com" target="_blank">Stitcher Blog</a>
-        <span class="footer-link-divider">&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;</span>
+       <a href="TopFeeds.php">Top 100</a>
+         <span class="footer-link-divider">&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;</span>
+       <a href="about_us.php">About Us</a>
+         <span class="footer-link-divider">&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;</span>
+        <a href="http://blog.stitcher.com" target="_blank">Blog</a>
+         <span class="footer-link-divider">&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;</span>
         <a href="faqs.php">FAQs</a>
-        <span class="footer-link-divider">&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;</span>
+         <span class="footer-link-divider">&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;</span>
         <a href="jobs.php">Jobs</a>
-        <span class="footer-link-divider">&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;</span>
+         <span class="footer-link-divider">&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;</span>
         <a href="contact_us.php">Contact Us</a>
-        <span class="footer-link-divider">&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;</span>
+         <span class="footer-link-divider">&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;</span>
         <a href="privacy.php">Privacy</a>
-        <span class="footer-link-divider">&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;</span>
+         <span class="footer-link-divider">&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;</span>
         <a href="terms.php">Terms of Use</a>
         <!--
         <span class='footer-link-divider'>&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;</span>
         <a  style='color:#e32733;' href='webby.php'>Webby Awards</a>
         -->
     </div>
+    <div id="footer-center">
+    <a target="_blank" href="http://twitter.com/StitcherRadio"><img src="/images/blank.gif" border="0" width="193" height="25" alt="follow us on twitter"></a>
+    </div>
     <div id="footer-right">
-        <a href="content_providers.php">For Content Providers</a>
+        <a href="contentProviders.php">For Content Providers</a>
         <span class="footer-link-divider">&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;</span>
         <a href="advertisers.php">For Advertisers</a>
     </div>
@@ -209,7 +206,7 @@ pageTracker._trackPageview();
 
 
 
-    <img style="display:none;" src="http://c36.statcounter.com/t.php?sc_project=3240895&amp;resolution=1024&amp; camefrom=&amp;u=http%3A%2F%2Fstitcher.com%2Fprivacy.php&amp;t=page_title&amp;java=1&amp;security=9d41581f&amp;invisible=1&amp;sc_random=635822894" width="0" height="0">
+    <img style="display:none;" src="http://c36.statcounter.com/t.php?sc_project=3240895&amp;resolution=1024&amp; camefrom=&amp;u=http%3A%2F%2Fstitcher.com%2Fprivacy.php&amp;t=page_title&amp;java=1&amp;security=9d41581f&amp;invisible=1&amp;sc_random=1059580592" width="0" height="0">
 	
 <!-- ends mainBody -->
 
