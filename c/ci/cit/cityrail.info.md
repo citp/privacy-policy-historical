@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityrail.info privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422070454id_/http%3A//www.cityrail.info/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityrail.info privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123155826id_/http%3A//www.cityrail.info/general/privacy) for the most accurate reproduction.*
 
 # Privacy - CityRail
 
@@ -6,7 +6,7 @@ Under the Privacy and Personal Information Protection Act 1998 (NSW), you have t
 
 ## Site visit data
 
-CityRail maintains site visit data to help us improve our site and provide better train services. When you access the CityRail website, CityRail logs your IP address (which indicates the location of your computer on the Internet), the date and time of your visit and the pages accessed. CityRail may also perform analysis of the user behaviour of its website in order to measure interest in various areas of the website. CityRail does not identify users or their browsing activites.
+CityRail maintains site visit data to help us improve our site and provide better train services. When you access the CityRail website, CityRail logs your IP address (which indicates the location of your computer on the Internet), the date and time of your visit and the pages accessed. CityRail may also perform analysis of the user behaviour of its website in order to measure interest in various areas of the website. CityRail does not identify users or their browsing activities.
 
 ## Feedback
 
