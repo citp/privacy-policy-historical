@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nymgo.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328143608id_/http%3A//www.nymgo.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nymgo.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123153213id_/http%3A//www.nymgo.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Nymgo
+# Nymgo Privacy
 
 This privacy policy sets out how NYMGO uses and protects any information that you give NYMGO when you use [www.nymgo.com](http://www.nymgo.com/) or NYMGO's software. 
 
@@ -64,7 +64,7 @@ Suite 328, Linen Hall, 162-168 Regent Street, London W1B 5TD
 United Kingdom  
 Attn: NYMGO - Legal Department  
 Telephone: +44 203 3553209  
-Fax: +44 20 7038 3707 
+Fax: +44 207 6812632 
 
 E-mail: support@nymgo.com 
 
