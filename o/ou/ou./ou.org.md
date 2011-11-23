@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ou.org privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608125913id_/http%3A//www.ou.org/general_article/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ou.org privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123182617id_/http%3A//www.ou.org/general_article/privacy_policy) for the most accurate reproduction.*
 
 # Orthodox Union Web Site Privacy Policy | Orthodox Union
 
