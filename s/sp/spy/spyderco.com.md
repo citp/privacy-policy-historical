@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the spyderco.com privacy policy that was archived on 2010-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100905194831id_/http%3A//www.spyderco.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spyderco.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123033233id_/http%3A//spyderco.com/about/privacy.php) for the most accurate reproduction.*
 
 # :: Spyderco Privacy, Security and Return Policy ::
+
+[](https://web.archive.org/edge-u-cation/) |  | | |   
+---|---|---  
+| 
 
 ### Privacy, Security and Return/Refund Policies
 
@@ -12,3 +16,13 @@ Your payment and personal information is always safe. Our Secure Sockets Layer (
 
 **RETURN / REFUND POLICY:**  
 Return request must be made within 30 days of delivery. All returns require a Return Authorization (RA) to be processed. Please contact the Spyderco Factory Outlet (SFO) at 800/828-1925 x 4 (or 303/279-8383 x 4) to obtain your RA. All returns must be received in original condition. We do not accept returns of used merchandise. Returns may incur a restocking fee of 20%, and freight charges both ways. YOU MAY CANCEL AN ORDER ANYTIME AS LONG AS IT HAS NOT SHIPPED. Refunds are provided as a credit to the credit card used at the time of purchase. We may require that you supply us with the full credit card number in order to process your refund. 
+
+|   
+| |   
+[Home](https://web.archive.org/index.php) [Catalog](https://web.archive.org/catalog/) [Shopping Cart](https://web.archive.org/catalog/cart2.php) [Find Dealers](https://web.archive.org/dealers/) [Forums](https://web.archive.org/forums/) [Edge-U-Cation](https://web.archive.org/edge-u-cation/)  
+[News](https://web.archive.org/news/) [About Spyderco](https://web.archive.org/about/) [Contact Us](https://web.archive.org/contact/) [Privacy, Security and Returns](https://web.archive.org/about/privacy.php) [Warranty Information](https://web.archive.org/edge-u-cation/index.php?item=10)
+
+Copyright © 2011. All rights reserved. All product names, art and text herein are the property of Spyderco, Inc. and may not be reproduced in part or whole without the sole written permission of Spyderco, Inc.  
+  
+Please note, images shown on Spyderco.com may be of Production Prototypes.  
+Modification of products, materials, measurements, technical specifications and availability can occur. 
