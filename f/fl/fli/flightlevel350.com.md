@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightlevel350.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525060131id_/http%3A//www.flightlevel350.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightlevel350.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123100008id_/http%3A//www.flightlevel350.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
