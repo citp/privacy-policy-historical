@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidaycars.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519153841id_/http%3A//holidaycars.com/static.aspx%3Fsource%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaycars.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123201617id_/http%3A//www.holidaycars.com/static.aspx%3Fsource%3Dprivacy-policy) for the most accurate reproduction.*
 
 # 
 
@@ -6,7 +6,7 @@ Privacy Statement
 
 Your privacy is important to us
 
-Privacy Policy
+Personvern
 
 All personal information collected is used only for our purposes as outlined below to improve the services offered to you and similar clients.
 
