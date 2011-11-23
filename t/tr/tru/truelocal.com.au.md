@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truelocal.com.au privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519185307id_/http%3A//www.truelocal.com.au/cms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truelocal.com.au privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123133829id_/http%3A//www.truelocal.com.au/cms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Local Business Directory - TrueLocal.com.au
 
@@ -78,9 +78,8 @@ Whenever you voluntarily disclose personal information over the internet this in
 
 ### Who can I contact for more information about privacy?
 
-If you want access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy, please contact our Privacy Officer on 1300 133 774.
+If you want access to your information or if you have a complaint concerning your information privacy or if you would like more information about our approach to privacy, please contact our Privacy Officer
 
-Or you can write to:  
 Privacy Officer  
 TrueLocal  
 Level 23/175 Liverpool Street  
