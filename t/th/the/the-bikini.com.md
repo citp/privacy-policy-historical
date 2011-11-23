@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2011-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110222142926id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-bikini.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123214308id_/http%3A//www.the-bikini.com/information/%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Extreme micro and mini bikinis. The-Bikini.com sexy micro bikinis, thongs and strings for women and men
 
+  
   
   
 
@@ -17,7 +18,7 @@ Bikini Fashion Show
 
 Latest Comment
 
-Thanks for that message Pat,very thoughtful of you,,we now have 3 peekaboo string briefs each,,and must say how we both enjoy the feeling that they give,,it is a good feeling..I will check out your stock and see what else could be of interest before Christmas,,cheers Terry.   
+I have to say the range of quality of your thongs and g-strings is so much better than any other online stores. I went looking for a micro g-string bikini for my fiance and a g-string and thong for myself and I ended up coming back to the-bikini. The mens thong fits and feels better than any thong i've ever worn and my fiance loves her single string g-string, mini g-string and Radikal g-string. Thank you for providing amazing outfits that we keep buying from you everytime, no reason to look anywhere else. Todd.   
 [more comments...](https://web.archive.org/information/?action=comments)
 
   
@@ -116,4 +117,4 @@ If you have any questions about this privacy statement, the practices of this si
   United States of America  
 
 
-Alternatively, you can [contact us by email](https://web.archive.org/web/20110222142926id_/http%3A//www.the-bikini.com/contact/). 
+Alternatively, you can [contact us by email](https://web.archive.org/web/20111123214308id_/http%3A//www.the-bikini.com/contact/). 
