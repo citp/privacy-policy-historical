@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the desiplaza.us privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611022607id_/http%3A//www.desiplaza.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desiplaza.us privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123141543id_/http%3A//www.desiplaza.us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-﻿ 
-
-[](http://www.addthis.com/bookmark.php?v=250)
 
 We have established this privacy policy to explain to you how your information is protected, collected and used, which may be updated by us from time to time. We will provide notice of materially significant changes to this privacy policy by posting notice on the site.
 
