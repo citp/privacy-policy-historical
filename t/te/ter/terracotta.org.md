@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the terracotta.org privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620094613id_/http%3A//terracotta.org/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terracotta.org privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123151825id_/http%3A//terracotta.org/legal) for the most accurate reproduction.*
 
-# Copyright Notice and Privacy Policy
+# Terracotta | Legal | Copyright & Privacy
 
-[](https://web.archive.org/legal "Legal") | 
+### Copyright Notice & Privacy Policy
 
 #### All contents copyright Terracotta, Inc. All rights reserved.
 
 "Terracotta" and the "Terracotta" insignia, as well as all other distinct logos and graphic symbols signifying Terracotta on this web site are trademarks of Terracotta, Inc. All other trademarks referenced are those of their respective owners.
 
-## Privacy Policy
+##### Privacy Policy
 
 This Privacy Policy explains our practices with respect to our use and collection of personally-identifiable information that we collect from you (a) in the course of your use of the Terracotta web site accessible at URL [http://www.terracotta.org](http://www.terracotta.org/) (the "Site"); (b) during any registration process that may be required for Terracotta software access. Please note that this Privacy Statement is limited only to your browsing and operation of the Site, and to your registration.
 
@@ -52,6 +52,4 @@ We will use reasonable efforts to comply with your request within five (5) busin
 
 **What We Do to Secure Your Information.** We store data on servers located behind our firewall, in order to protect against the unauthorized access to or compromise of information contained on our servers, such as your Personal Information. However, you should know that in the present technological environment, no security measures are perfect, and that neither we nor any other Internet site can fully eliminate these security risks.
 
-**Further Questions?** Our mailing address is 650 Townsend Street, Suite 325; San Francisco, California 94103; USA. We may be reached by telephone at 415.738.4000. If you have any questions about this Privacy Statement or the data privacy practices described in it, please feel free to contact us at privacy@terracotta.org or at the address or telephone number listed above.  
-  
----|---
+**Further Questions?** Our mailing address is 575 Florida Street, Suite 100; San Francisco, California 94110; USA. We may be reached by telephone at 415.738.4000. If you have any questions about this Privacy Statement or the data privacy practices described in it, please feel free to contact us at privacy@terracotta.org or at the address or telephone number listed above.
