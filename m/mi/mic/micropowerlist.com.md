@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the micropowerlist.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518203609id_/http%3A//micropowerlist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micropowerlist.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123154906id_/http%3A//micropowerlist.com/privacy.php) for the most accurate reproduction.*
 
 # Micro Power List Building!
 
-[](http://micropowerlist.com/bannerclick.php?id=17820)  
+[](http://micropowerlist.com/bannerclick.php?id=15215)  
 
 
-MicroPowerList Privacy Policy
+Micro Power List Privacy Policy
 
   
-Welcome to MicroPowerList (the "Site"). 
+Welcome to Micro Power List (the "Site"). 
 
-We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by MicroPowerList (collectively, "Services") ("Authorized Customers"). 
+We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by Micro Power List (collectively, "Services") ("Authorized Customers"). 
 
 "Personally Identifiable Information" refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information not connected to an identified individual. 
 
@@ -18,13 +18,13 @@ What Personally Identifiable Information is collected? We may collect basic user
 
 How does the Site use Personally Identifiable Information? We use Personally Identifiable Information to customize the Site, to make appropriate service offerings, and to fulfill buying and selling requests on the Site. We may email Visitors and Authorized Customers about research or purchase and selling opportunities on the Site or information related to the subject matter of the Site. We may also use Personally Identifiable Information to contact Visitors and Authorized Customers in response to specific inquiries, or to provide requested information. 
 
-How is Personally Identifiable Information stored? Personally Identifiable Information collected by MicroPowerList is securely stored and is not accessible to third parties. 
+How is Personally Identifiable Information stored? Personally Identifiable Information collected by Micro Power List is securely stored and is not accessible to third parties. 
 
 What choices are available to Visitors regarding collection, use and distribution of the information? Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at bounce@micropowerlist.com 
 
 Are Cookies Used on the Site? Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. 
 
-How does MicroPowerList use login information? MicroPowerList uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information. 
+How does Micro Power List use login information? Micro Power List uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user's movement and use, and gather broad demographic information. 
 
 How can Visitors correct any inaccuracies in Personally Identifiable Information? Visitors and Authorized Customers may contact us to update Personally Identifiable Information about them or to correct any inaccuracies by emailing us at bounce@micropowerlist.com 
 
@@ -35,7 +35,9 @@ What happens if the Privacy Policy Changes? We will let our Visitors and Authori
 Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
   
-Copyright (c) 2010 MicroPowerList All Rights Reserved 
+Copyright (c) 2010 Micro Power List All Rights Reserved 
 
-[Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [ Recommended Site Of The Day](https://web.archive.org/recommends.php)|   
+[Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [ Recommended Site Of The Day](https://web.archive.org/recommends.php)
+
+  
 
