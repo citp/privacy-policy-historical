@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamasandpapas.co.uk privacy policy that was archived on 2010-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100718064154id_/http%3A//us.mamasandpapas.com/en-US/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamasandpapas.co.uk privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123153549id_/http%3A//us.mamasandpapas.com/en-US/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Mamas & Papas
 
@@ -147,8 +147,6 @@ When opt-in to communications from Mamas & Papas, you are consenting to the coll
 
 Our website may contain links to other websites. When you use a link to go from this website to another, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including sites that have a link on or to our website, are subject to the privacy policy of that site.  Be sure to read over that privacy policy before proceeding, as Mama & Papas is not responsible for the privacy practices of such Web sites.
 
-If you wish to contact us for any matter related to our Privacy Policy, please e-mail us at [insert applicable e-mail address] or write to us at [insert applicable department] Mamas & Papas Ltd, Colne Bridge Road, Huddersfield HD5 0RH
-
-©Mamas & Papas Ltd 2010
+If you wish to contact us for any matter related to our Privacy Policy, please e-mail us at [customercare.america@mamasandpapas.com](mailto:customercare.america@mamasandpapas.com) .
 
 12495622v.1
