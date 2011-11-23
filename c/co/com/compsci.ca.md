@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compsci.ca privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525142502id_/http%3A//compsci.ca/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compsci.ca privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123080012id_/http%3A//compsci.ca/Privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -33,7 +33,7 @@ We receive and store any information you enter on our website or provide to us i
 
 
 
-  3. Computer Science Canada may also add on any page display the total counts that page has been viewed. This includes member profile pages. 
+  3. Computer Science Canada may also add on any page and display the total counts that page has been viewed. This includes member profile pages and individual user views. 
 
   4. Social sharing of data: Computer Science Canada allows other users to browse topics, posts and comments that you have submitted or commented on. This information is made available via your member profile, or within the permalink URL of the topic or artical in which you performed the action on. Computer Science Canada may choose to post this data on other site features in the future. 
 
@@ -41,7 +41,7 @@ We receive and store any information you enter on our website or provide to us i
 
   6. Syndication: Computer Science Canada allows for the RSS syndication of most of its public content within the website 
 
-  7. Computer Science Canada will allow 3rd parties access to all Computer Science Canada data this is already publicly available. Computer Science Canada will forever keep private passwords and settings. 
+  7. Computer Science Canada will allow 3rd parties access to all Computer Science Canada data this is already publicly available. Computer Science Canada will forever keep private passwords hashs. 
 
   8. Many companies offer programs that help you to visit websites anonymously. While Computer Science Canada will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available. 
 
@@ -66,6 +66,8 @@ We receive and store any information you enter on our website or provide to us i
   18. Computer Science Canada runs 3rd party ads and scripts that may record user statics. Computer Science Canada is not responsible for what information these 3rd partys maybe collecting and has no control over there privacy polices.
 
   19. Donations to Computer Science Canada maybe publically reported, including name of the donator, the amount and the time of donation.
+
+  20. All content and posts upload or submited to our service should be considered public. Theses posts and submissions make up the content of our sites and should be considered a matter of public record.
 
 
 
@@ -120,11 +122,24 @@ You can access your personal information on our website and correct, amend, or d
 
   * As stated previously, you can always opt not to disclose information, but then you may be unable to use certain features on our website, such as posting new topics. 
 
-  * You are able to add or update certain information on pages, such as those listed in the "What Personal Information About Users Does Computer Science Canada Collect?" section above. When you update information, however, we often maintain a copy of the unrevised information in our records. 
+  * In some cases you may be able to add or update certain information on pages, such as those listed in the "What Personal Information About Users Does Computer Science Canada Collect?" section above. When you update information, however, we often maintain a copy of the unrevised information in our records. 
 
-  * You may request deletion of your Computer Science Canada account by emailing us at support@compsci.ca however your submisted content will remain. 
+  * You may request deletion of your Computer Science Canada account by emailing us at support@compsci.ca however your submitted content will remain. In some cases this may remove your username from posts, however this is not gratined. Poof that you own the account and a small administrative fee may be required. 
 
   * As explained earlier, the "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. Please note, however, that if your browser does not accept cookies, you will not be able to take advantage of some of our attractive features. 
+
+  * By uploading any content or submitting any posts to our service you grant us all rights necessary to use and publish your content/submissions (as outlined in our ToU). Posts and submissions should be considered a matter of public record (as they are viewable by anyone) and permanent in most cases. Post may be removed at a staff members discretion, for violation of the ToU, violation of laws, copyright infringement, or in special cases user request for removal of their own content. Users may request removal of their posts by contacting an admin, however proof of ownership of the account and a small administrative fee per post maybe required.
+
+
+
+
+### Administrative Fees
+
+Due to a large number of requests for post and account removals, we are forced to charge a small administrative fee for our staff to manually process personal removal requests (note that theses fees do not apply to ToU or copyright violations). Theses fees maybe waved at the staff members discretion but may not be more then the amounts listed. Users must prove that they are owners of the account before a removal request maybe processed. 
+
+  * **Account Removal:** $10 per account. Note that this does not include removal of any posts and simply disables the account and removes the username from posts.
+
+  * **Post Removal:** $5 per post. Note that the post will be removed and replaced with a notice detailing that the post was removed by the user and a small description of what was removed. Other user's posts quoting your removed post may not be removed.
 
 
 
@@ -135,7 +150,7 @@ You must be 13 years and older to register to use the Computer Science Canada we
 
 ### Changes to this Privacy Policy
 
-Computer Science Canada may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Computer Science Canada website or e-mailing you so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
+Computer Science Canada may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the current Privacy Policy. If we make changes to the Privacy Policy, a new copy of the policy will be uploaded in it's place and we may notify you by posting an announcement on the Computer Science Canada website or e-mailing you so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed. It is the user's responsibility to stay apprised of changes to the privacy policy and ToU and contact the staff of any objections or their information will be dealt with under the new policy
 
 ### Conditions of Use
 
@@ -145,4 +160,4 @@ If you decide to visit Computer Science Canada websites, your visit and any poss
 
 This Privacy Policy is effective as of May 7, 2007
 
-Last updated on May 18th, 2010
+Last updated on November 12th, 2011
