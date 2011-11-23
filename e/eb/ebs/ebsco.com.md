@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebsco.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603101546id_/http%3A//www2.ebsco.com/en-us/app/Pages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebsco.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123214432id_/http%3A//www2.ebsco.com/en-us/app/Pages/privacypolicy.aspx) for the most accurate reproduction.*
 
 # EBSCO Information Services Privacy Policy
 
