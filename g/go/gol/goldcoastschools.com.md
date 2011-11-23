@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the goldcoastschools.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625152718id_/http%3A//goldcoastschools.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldcoastschools.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123185032id_/http%3A//goldcoastschools.com/privacy.php) for the most accurate reproduction.*
 
-# Gold Coast Schools - Free Real Estate Quiz
+# Gold Coast Professional Schools Respects Your Privacy
+
+| 
+
+[Home](https://web.archive.org/web/20111123185032id_/http%3A//goldcoastschools.com/index.php) » Privacy Policy
 
 **Information Collection and Use**  
 Gold Coast Professional Schools,inc. is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Gold Coast Professional Schools collects information from our users at several different points on our website.
