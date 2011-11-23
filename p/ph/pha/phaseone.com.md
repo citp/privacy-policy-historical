@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phaseone.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525214233id_/http%3A//www.phaseone.com/Phase%2520One/Find-PhaseOne/About%2520us/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phaseone.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123183524id_/http%3A//www.phaseone.com/Phase%2520One/Find-PhaseOne/About-us/Privacy.aspx) for the most accurate reproduction.*
 
 # About Phase One
 
