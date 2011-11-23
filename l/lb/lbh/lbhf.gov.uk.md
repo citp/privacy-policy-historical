@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lbhf.gov.uk privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608214926id_/http%3A//www.lbhf.gov.uk/Directory/Links/40888_Privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbhf.gov.uk privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123011859id_/http%3A//www.lbhf.gov.uk/Directory/Links/40888_Privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Hammersmith & Fulham
 
@@ -37,6 +37,15 @@ By doing that. we are able to:
 **(3)** For other functions of the Council (see below) we will seek to ensure that your name, address, date of birth etc., is used intelligently, in order that we treat you as our customer and minimise inefficiency.
 
 It is important to us that we properly coordinate what we do for you. As a result, when you tell us that you are moving address or changing your name, we will try and make it as easy as we can for you. We will try and keep all of our records up to date with your name and address details.
+
+**Bi-borough and Tri-borough partnership**
+
+As you are aware the London Borough of Hammersmith and Fulham (H&F), Westminster City Council (WCC) and the Royal Borough of Kensington and Chelsea (RBK&C) have announced plans for shared working across some service areas. This will be on a Bi-borough (with two of the above councils) or on a Tri-borough basis (with all of three of the above councils). On 20 June 2011, a [Tri-borough Implementation Plan](http://www.lbhf.gov.uk//Directory/Council_and_Democracy/Committee_reports_minutes_and_agendas/Committee_and_Cabinet_member_decisions/homepage.asp?mgpage=ieDecisionDetails.aspx%26amp%3BID%3D1098) was agreed by Cabinet. 
+
+To enable the partnership to work effectively and efficiently whilst maintaining a high standard of customer service, some of your personal information will be shared across the councils. The partnership is committed to abiding with legislation and will collect, use, share, protect and dispose of your personal data in full compliance with the Data Protection Act as cited above.  You will be notified or requested to provide consent, where appropriate, as the shared services are developed.
+
+For further information on how this may affect you, please contact the departments directly: [Search A to Z of services](http://www.lbhf.gov.uk/AZofServices/Search.asp).   
+
 
 **_IP (internet protocol) addresses_ **   
 We monitor the number of visitors to our website and collect IP addresses through our system of continuous review. However, this information is not used to identify individuals.
