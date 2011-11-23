@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pleaserusa.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525183924id_/http%3A//www.pleaserusa.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pleaserusa.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123151940id_/http%3A//www.pleaserusa.com/policy.asp) for the most accurate reproduction.*
 
 # www.pleaserusa.com - Privacy Policy
 
