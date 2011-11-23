@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ylcomputing.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523173838id_/http%3A//www.ylcomputing.com/content/view/4/7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ylcomputing.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123170142id_/http%3A//www.ylcomputing.com/content/view/4/7) for the most accurate reproduction.*
 
 # YL Software - Privacy Policy
 
