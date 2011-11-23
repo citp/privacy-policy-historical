@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voguemagnet.com privacy policy that was archived on 2011-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110205135035id_/http%3A//www.voguemagnet.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voguemagnet.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123121646id_/http%3A//www.voguemagnet.com/content/privacy) for the most accurate reproduction.*
 
 # Online Shopping | Shopping Websites in India | Online Store | Designers Men's Wears | Designers Women's Wears| Online Shop – Vogue Magnet
 
