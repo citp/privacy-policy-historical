@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shipmentlink.com privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304235613id_/http%3A//www.shipmentlink.com/tuf1/jsp/TUF1_DisclaimerClause.jsp%3Fclause%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shipmentlink.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124005855id_/http%3A//www.shipmentlink.com/tuf1/jsp/TUF1_DisclaimerClause.jsp%3Fclause%3Dprivacy) for the most accurate reproduction.*
 
 # ShipmentLink - Legal Disclaimer - Privacy and Security Statement
 
