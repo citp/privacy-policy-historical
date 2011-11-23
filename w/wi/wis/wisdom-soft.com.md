@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisdom-soft.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201142222id_/http%3A//www.wisdom-soft.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisdom-soft.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123162519id_/http%3A//wisdom-soft.com/info/privacy.htm) for the most accurate reproduction.*
 
 # Wisdom-soft
 
