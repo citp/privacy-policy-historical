@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transparent.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106164449id_/http%3A//www.transparent.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transparent.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123162140id_/http%3A//www.transparent.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Transparent Language
 
@@ -22,11 +22,13 @@ Our system may also identify which browser and Internet Provider you use to acce
 
 **3\. How do we collect this information?**
 
-When you register with TL, we compile the personal information you give us about yourself into an individual profile. We add other personal information about you to that profile as you give it to us. We also collect information about your purchases and other uses of our site as they are made. We gather other information through the use of “cookies”. 
+When you register with TL, we compile the personal information you give us about yourself into an individual profile. We add other personal information about you to that profile as you give it to us. We also collect information about your purchases and other uses of our site as they are made. We gather other information through the use of “cookies” and Flash local shared objects (LSOs) or "Flash cookies". 
 
 **4\. What are “cookies” and how do we use them? What are “web beacons”?**
 
 Cookies are small text files that allow a website to store on a computer an identification code associated with you which can later be retrieved and associated with your visit to the site. There are two types. Session cookies terminate shortly after you close your Internet browser. Persistent cookies are stored on your hard drive until they expire or are deleted. Both types of cookies enhance our ability to serve you by recalling information about you such as your password, shopping preferences and shopping cart information. 
+
+Local shared objects (LSO), commonly called Flash cookies, are collections of cookie-like data stored as a file on a user's computer. A local shared object is exactly like a browser cookie, except that it can also store data more complex than simple text. 
 
 We understand that not everyone wants to permit the use of cookies. The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting cookies and how to disable cookies 
 
