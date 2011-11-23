@@ -1,69 +1,75 @@
-> *The following text is extracted and transformed from the onlyeducation.com privacy policy that was archived on 2009-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090127051914id_/http%3A//onlyeducation.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlyeducation.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123171224id_/http%3A//www.onlyeducation.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# only Education
 
-**OnlyEducation.com Web Privacy Statement**  
- _This privacy policy was last updated on June 19, 2007_
+## Privacy Policy
 
-OnlyEducationis committed to protecting your privacy when you visit our Websites, so we want you to know what information we collect when you visit one of our sites, how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time, so please re-visit this page occasionally to check for updates. 
+This Privacy Policy covers the OnlyEducation.com Web site ("We," "Us," or "Our"). Before you submit any information to Our Web site, please read this Privacy Policy for an explanation of how We will handle your information. By using any part of Our Web site, you agree, without limitation or qualification, to be bound by this Privacy Policy. If you do not agree with this Privacy Policy, please do not use Our Web site.
 
-**Information We Collect**  
-We collect various types of information from our visitors so we can adjust our site to meet our users' needs and expectations. Some of this information is collected automatically through cookies and other information is collected when you register for any of our online services or when you request information from one of our partners. 
+**WHAT IS OUR COMMITMENT TO YOU?**  
+We are sensitive to your privacy concerns, and are committed to letting you know what Information is being collected on Our Web site, how the Information is being used and what choices you have regarding the collection and use of the Information.
 
-**Information Collected Automatically**  
-The types of information your browser or Internet session automatically sends us each time you visit one of our sites, which we automatically collect, includes: 
-
-  * Your browser, e.g., Internet Explorer, Netscape Navigator. 
-  * Your Internet domain, e.g., AOL, Netcom, Earthlink, etc. 
-  * You computer's operating system, e.g., Windows, Macintosh, UNIX, Linux. 
-  * Your navigation path, i.e., the URLs of where you come to our site from, which of our pages you visit, and where you go as you leave. 
-  * Your IP address. 
-
-
+**PRIVACY POLICY CHANGES**  
+We reserve the right to change this Privacy Policy at any time. You agree to this Privacy Policy, and any changes to the same, by visiting this Web site. Therefore, We encourage you to review this Web site from time to time to review changes to Our Privacy Policy. 
 
   
-This information lets us see how users are finding our sites, and it tells us which pages are visited the most often so we can make our Websites more useful. 
 
-**Information You Provide to Us**  
-In addition to the information automatically collected by your browser, we also collect information that you provide to us when you request information about a particular school or educational program. 
 
-Our websites provide users the opportunity to request information from schools, and to learn about various education opportunities. These information request sites require users to provide us with contact information (name, address, phone number, email address, gender, age, work experience, etc.) as well as information about their interest in one of our educational partners (universities, colleges, test prep companies, etc.) We collect this information that you provide, and may use it to make your future requests from our websites easier by pre-populating contact forms with the information that you have provided. We provide this contact information that you provide to the educational partner that you requested information from. Customer interest information is collected to determine what information the customer wishes to be sent. 
+**WHAT TYPES OF INFORMATION DO WE COLLECT ABOUT YOU AND WHY?**  
+We gather personally identifiable information that you expressly provide when you enter information into a form on Our Web site including, without limitation, your name, mailing address, e-mail address, and other unique personal identifiers (e.g., date of birth) ("Personal Information"). If you choose not to provide the requested Personal Information, We may not be able to offer you personalized services that require such information.   
+We also collect anonymous information, which includes any information that is not tied to your Personal Information, such as your IP address ("Anonymous Information"). You are not required to register on Our Web site in order for Us to collect Anonymous Information about you. In addition, We may receive information about you from other sources including, but not limited to, service providers for tracking and marketing purposes ("Source Information"). Source Information may consist of referral data or the Web site you were previously visiting prior to visiting Our Web site; and information related to the browser and/or platform you are using to access Our Web site. Personal Information, Anonymous Information, and Source Information are collectively referred hereinafter as "Information." 
 
-**How We Use This Information**  
-We use the information we automatically collect to help us better plan our Website to meet your Internet needs. Information you provide to us is used for marketing purposes, and may result in follow-up communications. 
+In addition to the Information that you provide to Us or that We obtain about you, We will also collect certain information arising out of your use of Our Web site, or augment the data We collect with other information from other online or offline sources. We use "cookies" and the Information to enhance your experience and present you with personalized offers. Likewise, We may use third-party advertising companies to serve and track advertisements appearing on Our Web site. Such third-party companies may employ cookies and action tags to measure advertising effectiveness. To learn more about "cookies," please see the section below titled "Cookies and Web Bugs." 
 
-OnlyEducationmay share personally identifiable information with third party businesses for the purpose of direct marketing, specifically email marketing. All third parties are bound by the CAN SPAM Act (s.877) of 2003, and are required to be in full compliance of all consumer opt-out rules and regulations. 
+We collect Information about you to (a) provide products, programs, and services that you have requested; (b) operate and improve the features, offerings and content presented to you by Us and Our affiliated companies, successors, and assigns; (c) personalize the content and advertisements provided to you; (d) communicate with you and respond to your inquiries; (e) conduct research about your use of the features, offerings and content from Us, Our parent or sister companies and partners; (f) provide product improvement; (g) "pre-populate" forms; (h) provide you with advertising targeted to your preferences; and (i) help offer you other products, programs, or services that may be of interest to you. We also reserve the right to collect and reuse Information about you for marketing purposes. 
 
-**Your Rights Our Obligations**  
-The company respects the privacy of users visiting our sites and will abide by all applicable laws concerning the release of personal information. On an occasion we may use certain directory information that we have collected to send you information about products and services, or updates and other information we think may be of interest to you. We may share this information with our educational partners to bring similar information to your attention. If you tell us that you do not wish to have this information used as a basis for further contact with you, we will respect your wishes. Please contact us to request your name and address be removed from our lists. 
+We reserve the right to collect Information about you and store it in connection with other online or offline information We may possess or obtain about you. Such information may include, without limitation, information about the different sites that you visit on the Internet, the time and frequency at which you visit them, and the content that you transmit or post on other Web sites. 
 
-Other than directory information, data you provide to us as you use the Website will be held in strict confidence by the company and will be used for company purposes only. 
+**WITH WHOM WILL THE INFORMATION BE SHARED?**  
+We may share Information about you with other people or nonaffiliated companies or for particular purposes including, without limitation, the purposes described below. In all cases, you may opt-out of sharing your Information with such providers by choosing not to use or register for that service or content. Please see "Offering You Choices-Marketing Options" below for information on how to opt-out of sharing your Information. 
 
-**Our Security Measures**  
-Our Websites have security measures in place to protect against the loss, misuse, and alteration of the information under our control. 
+  
 
-**Why We Use "Cookies"**  
-When you visit some of our sites, we use cookies to keep track of your information. This small piece of program code resides on your computer and stores your contact information for all of our request information sites. We do this so you are not required to re-enter your contact information as you move from one site to another. 
 
-**Links From Our Site To Other Sites**  
-Some of our sites may contain links to other sites external to our sites. When you access these external Websites, the providers of the sites will have access to certain information about you. OnlyEducationis not responsible for the privacy practices or the content of any Websites which we do not directly control. 
+  * Products or Service Requests - If you submit a request for a product or service on Our Web site, We will share Information about you contained in the request form with Our business partners to process and fulfill your request. Our business partners may contact you by telephone (including, by autodialer, where applicable), e-mail, or mail based on the Information you provided to Us, even if you have opted into the National Do Not Call List administered by the Federal Trade Commission, any state equivalent Do Not Call List, or the Do Not Call List of a specific company. If one of Our business partners contacts you by telephone and you wish not to be contacted again by that business partner with respect to your inquiry, then you should specifically make a request to that partner not to contact you again. 
+  * Service Providers - We may disclose Information about you to companies that host certain services for Us, such as marketing distribution or call centers. Our service providers use the Information received from Us solely for the purposes of providing you with the products you requested. In select circumstances, We may also share aggregate order information with third parties and business partners. 
+  * Sweepstakes or Promotions: We may run promotions and/or sweepstakes. Such promotions and sweepstakes may be sponsored or co-sponsored by third-party companies. Information about you collected during a promotion or sweepstakes is shared with the sponsor or co-sponsor unless you opt-out of sharing Information with such parties. Please see "Offering You Choices-Marketing Options" below for information on how to opt-out of sharing your Information. 
+  * Subsidiaries, Parent, or Sister Companies: We may share Information about you with Our subsidiaries, sister companies, parent company, successors, and assigns unless you opt-out of sharing Information with such parties. 
+  * Non-Affiliated Companies: From time to time, We may sell or share your Personal Information with non-affiliated third parties.. For example, We share your Personal Information to provide a product or service that We feel may be of interest to you. We may also sell your Personal Information to a business partner that will use your Personal Information for their own marketing purposes. 
+  * Required by Law: We may also share Information about you as permitted or required by law including, without limitation, inquires by law enforcement or to comply with Federal laws including, without limitation, the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 ("CAN-SPAM Act of 2003"). 
+  * Business Transfer: As with any other business, it is possible that Our Web Site and all information collected through this Web Site could be merged with or acquired by another company. If such acquisition, purchase or transfer of information should occur, the successor company would have access to the information maintained by Us, including your Personal Information, customer and business account information, but would continue to be bound by this Privacy Policy unless you consent otherwise. 
 
-**Definitions**  
- **Cookies**  
-Data created by a Web server that is stored on a user's computer. It provides a way for the Website to keep track of a user's patterns and preferences and, with the cooperation of the Web browser, to store them on the user's own hard disk. 
 
-The cookies contain a range of URLs (Web addresses) for which they are valid. When the browser encounters those URLs again, it sends those specific cookies to the Web server. For example, if a user's ID were stored as a cookie, it would save that person from typing in the same information all over again when accessing that service for the second and subsequent time during the same browser session. 
 
-You can opt out of the use of cookies by having your browser disable cookies or warn you before accepting a cookie. Look for the cookie options in your browser in the Options or Preferences menu. 
+**OFFERING YOU CHOICES**
 
-**IP (Internet Protocol) Address**  
-This is the address of a computer attached to a TCP/IP network. Every client and server station must have a unique IP address. Client workstations have either a permanent address or one that is dynamically assigned for each dial-up session. IP addresses are written as four sets of numbers separated by periods; for example, 204.171.64.2. 
+  
 
-**Browser Session**  
-A browser session is defined as the period of time a browser is in consecutive use. The session begins when you open the browser and ends when you close it. When you reopen the browser, you begin a new session. 
 
-**SSL Encryption (Secure Sockets Layer)**  
-The leading security protocol on the Internet. When an SSL session is started, the browser sends its public key to the server so that the server can securely send a secret key to the browser. The browser and server exchange data via secret key encryption during that session. We also use SSL encryption whenever we display your personal information (e.g., name and address, scheduled courses, grades). 
+  * Marketing Email Options - You may register to receive communications from us directly on our website or through a third party. Upon registering, we will periodically send you newsletters and other e-mails with offers and promotions. If you no longer wish to receive these communications, please click here to unsubscribe.
+  * Refusing Cookies - We utilize reputable third-party vendors to serve advertisements. If, however, you are not comfortable with cookies, you can adjust the settings within your browser to further prohibit being served a cookie. Please see your specific browser's instructions to perform this task. 
 
-**URL (Uniform Resource Locator)**  
-An Internet address. URLs are used to locate sites on the Internet and to navigate between sites and pages within sites. The URL for OnlyEducationis www.Free-College-Info.com. 
+
+
+**COOKIES AND WEB BUGS**  
+A cookie is a small piece of information that many Web sites use to help make shopping online easier. The information is stored on your computer's hard drive and provides a number of conveniences for you. We may set and access cookies on your computer to provide you with customized content and to assist in providing the services that you have requested. Most cookies are "session cookies," which automatically delete themselves from your hard drive after each session. Like many Web sites, We may automatically track information based upon your behavior on Our Web sites. We may combine information that We obtain through the use of cookies with Personal Information, other aggregate or anonymous data, including a unique ID We may assign you. As described above, We use this information for research purposes to better understand, protect and service Our customers. The information We track may include such information as browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, IP address and number of clicks to analyze trends, administer Our Web sites, track user's movement in the aggregate, and gather broad demographic information for aggregate use. 
+
+**DOES THIS PRIVACY POLICY APPLY TO OTHER WEB SITES?**  
+Our Web site may contain links to other Web sites. We believe such other Web sites share a similar commitment to consumer privacy and urge you to review their privacy policy when visiting their Web sites. We are not responsible for the privacy policies of other Web sites. 
+
+**HOW DO WE PROTECT YOUR INFORMATION?**  
+We maintain electronic and procedural safeguards designed to protect your Information. We protect Information about you over the Internet by using a secure web server, which allows web browser programs (such as Netscape or Microsoft Internet Explorer) to interact with Our web server via an encrypted session. We employ a Secure Sockets Layer (SSL) connection that provides an encrypted connection between your computer and Us. The 128 bit encrypted connection scrambles ordinary text or data into cyphertext to safeguard sensitive information during its journey across the Internet. The information is decrypted, or put back into a readable format, when it reaches its intended destination. Depending on which browser you use, you will know you are in secured area by "https" or a lock appearing in the lower right hand corner of your browser window. When you visit Our Web site, you may move in and out of secured areas. 
+
+**DATA TRANSFER**  
+We may store, process and/or transfer personal data to countries outside of the United States of America and, by using Our products and services, you consent to such transfer. For example, if you elect to submit your Personal Information to a Canadian school, We may transfer your Personal Information across borders to the Canadian schools that you selected. 
+
+**A SPECIAL NOTE REGARDING PEOPLE UNDER 18 YEARS OLD**  
+Individuals under the age of eighteen (18) should not send any Information to Us. Each time you access Our Web site or purchase a product or service from Us, or provide Information about yourself or anyone else, you are representing to Us that you are eighteen (18) years or older. 
+
+**CONCERNS, QUESTIONS OR COMPLAINTS**  
+If you have privacy concerns, questions, or complaints, please contact us at: 
+
+Privacy Officer  
+OnlyEducation.com  
+3053 Freeport Blvd Suite 209  
+Sacramento, CA 95818 
