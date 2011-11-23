@@ -1,6 +1,22 @@
-> *The following text is extracted and transformed from the max2shop.com privacy policy that was archived on 2009-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091024120720id_/http%3A//www.max2shop.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the max2shop.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123115709id_/http%3A//www.max2shop.com/privacy.html) for the most accurate reproduction.*
 
-# Top10brand.com
+# Privacy Policy - max2shop.com
+
+Customer Service
+
+  * [Why Buy from Us?](https://web.archive.org/web/20111123115709id_/http%3A//www.max2shop.com/why.html)
+  * [FAQ](https://web.archive.org/web/20111123115709id_/http%3A//www.max2shop.com/faq.html)
+  * [Contact Us](https://web.archive.org/web/20111123115709id_/http%3A//www.max2shop.com/contact_us.php)
+  * [Disclaimer](https://web.archive.org/web/20111123115709id_/http%3A//www.max2shop.com/disclaimer.html)
+  * [Privacy Policy](https://web.archive.org/web/20111123115709id_/http%3A//www.max2shop.com/privacy.html)
+  * [Shipping Information](https://web.archive.org/web/20111123115709id_/http%3A//www.max2shop.com/shipping.html)
+  * [Returns & Exchange](https://web.archive.org/web/20111123115709id_/http%3A//www.max2shop.com/re.html)
+  * [Warranty](https://web.archive.org/web/20111123115709id_/http%3A//www.max2shop.com/warranty.html)
+  * [Payment Methods](https://web.archive.org/web/20111123115709id_/http%3A//www.max2shop.com/payment.html)
+  * [Order Confirmation](https://web.archive.org/web/20111123115709id_/http%3A//www.max2shop.com/confirmation.html)
+  * [Order Tracking](https://web.archive.org/web/20111123115709id_/http%3A//www.max2shop.com/tracking.html)
+
+| 
 
 Privacy Policy
 
@@ -22,7 +38,7 @@ Information You Give Us: We receive and store any information you enter on our W
 
 #### 2.3
 
-Automatic Information: We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses max2shop.com, such as your IP address, your web browser type, operating system, URL clickstreams and similar. We use cookies for a number of purposes, for instance, to enable us to simplify the logging on process for registered users, to help ensure the security and authenticity of registered users, to provide the mechanisms for online shopping and to enable traffic monitoring,
+Automatic Information: We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses max2shop.com, such as your IP address, your web browser type, operating system, URL clickstreams and similar. We use cookies for a number of purposes, for instance, to enable us to simplify the logging on process for registered users, to help ensure the security and authenticity of registered users, to provide the mechanisms for online shopping and to enable traffic monitoring, 
 
 ### 3\. Minors 
 
@@ -34,4 +50,6 @@ We may amend this Privacy Policy from time to time so that it accurately reflect
 
 ### We want to hear from you
 
-Your opinion truly counts. Our Site was designed to serve the needs of our Members. Please contact us with any questions or comments. You may do this by sending an email to the [support@max2shop.com](mailto:support@max2shop.com)
+Your opinion truly counts. Our Site was designed to serve the needs of our Members. Please contact us with any questions or comments. You may do this by sending an email to the [sales@max2shop.com](mailto:sales@max2shop.com)  
+  
+---|---
