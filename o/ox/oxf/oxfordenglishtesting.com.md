@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfordenglishtesting.com privacy policy that was archived on 2011-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110115004329id_/http%3A//www.oxfordenglishtesting.com/showContent.aspx%3FmenuId%3D5%26id%3D116) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordenglishtesting.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123162204id_/http%3A//www.oxfordenglishtesting.com/showContent.aspx%3FmenuId%3D5%26id%3D116) for the most accurate reproduction.*
 
 # Oxford Online Placement Test | Exam Practice Tests for KET, PET, FCE, CAE, IELTS, TOEIC, TOEFL iBT
 
@@ -6,13 +6,13 @@
 
 This privacy policy and legal notice is specific to the Oxford English Testing web site and in the event of any conflict arising overrides any other privacy policy or legal notice appearing elsewhere on Oxford University Press web sites.
 
-**Privacy Policy**
+ **Privacy Policy**
 
 Oxford University Press (“OUP”) is committed to protecting your privacy online.  Our policy explains how we will do this.  We will review this policy in the light of comments we receive so please check the latest version.  If you have any questions please contact us.
 
 By using the Oxford English Testing website, you are accepting the practices described in this statement.
 
-**What information do we collect?**
+ **What information do we collect?**
 
 When you register to the website we may ask for your name, email address, postal address, and other relevant personal information.  Personal information submitted in this way is added to our access control database, hosted by a third party hosting company, and to our customer database at OUP and OUP, Inc. premises.  This information will be updated if you inform us of any changes.
 
@@ -26,17 +26,19 @@ You may notify us either in writing or by telephone, fax or e-mail that you obje
 
 We will only keep personal information for so long as is required to perform our obligations to you after which time we shall delete and destroy it. 
 
-**When do we share information?**
+ **When do we share information?**
 
 We do not sell your personal information to others.
 
 We share your information within OUP and with OUP, Inc. in the USA and Oxford Publishing Limited.
 
+Where schools have agreed to form a chain, the schools and their authorised users (teachers and students) should be aware that a school in the chain will have the right (for proper purposes related to the management of their English testing resources) to view, process and amend the personal data in OUP’s learning management system relating to authorised users belonging to its school and any schools lower down that chain of schools. 
+
 The Oxford English Testing web site has been developed by and hosted by third parties but we have agreed with those third parties that they will keep your information secure and not use it for other purposes.
 
 If we believe that your use of the web site is unlawful or damaging to others, we reserve the right to disclose the information we have obtained through the site about you to the extent that it is reasonably necessary in our opinion to prevent, remedy or take action in relation to such conduct.
 
-**Use of cookies**
+ **Use of cookies**
 
 Cookies are small files that we create to store information on your computer.
 
