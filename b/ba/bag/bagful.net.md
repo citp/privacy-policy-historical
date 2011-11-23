@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the bagful.net privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524210206id_/http%3A//www.bagfull.net/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagful.net privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123164036id_/http%3A//www.bagful.net/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy Statement - Details of how customer's information is protected | Bagfull
+# Privacy Statement - Details of how customer's information is protected | Bagful
 
-Bagfull knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. For question on the Privacy Notice please contact the [Bagfull Help Desk](https://www.bagfull.net/supporttickets.php).  
+Bagful knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. For question on the Privacy Notice please contact the [Bagful Help Desk](http://www.bagful.net/supporttickets.php).  
 .
 
 * * *
 
-### What personal information about customers does Bagfull gather?
+### What personal information about customers does Bagful gather?
 
   * **Information You Give Us:**
 
@@ -22,14 +22,14 @@ We receive and store certain types of information whenever you interact with us.
 
 ### What about cookies?
 
-  * Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser. Besides using the information as described above, Bagfull utilizes cookies to control the flow of the ordering processes by maintaining the state of your online transactions.
+  * Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser. Besides using the information as described above, Bagful utilizes cookies to control the flow of the ordering processes by maintaining the state of your online transactions.
 
 Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
 
 
 
 
-### Does Bagfull share the information it receives?
+### Does Bagful share the information it receives?
 
 Yes, we do share information but only as described below. Otherwise we will not provide your personal information without your consent.
 
@@ -47,13 +47,13 @@ We will share aggregated demographic information with our partners and advertise
 
   * **Business Transfer:**
 
-As we continue to develop our business, we might sell or buy businesses or their assets. In such transactions, customer information generally is one of the transferred business assets. Also, if Bagfull or all or substantially all of its assets were ever to be acquired, customer information will of course be one of the transferred assets.
+As we continue to develop our business, we might sell or buy businesses or their assets. In such transactions, customer information generally is one of the transferred business assets. Also, if Bagful or all or substantially all of its assets were ever to be acquired, customer information will of course be one of the transferred assets.
 
 
 
   * **Compliance:**
 
-We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Services Agreement and other agreements; or protect the rights, property, or safety of Bagfull, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Services Agreement and other agreements; or protect the rights, property, or safety of Bagful, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
 
 
@@ -62,7 +62,7 @@ We release account and other personal information when we believe release is app
 
   * We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input and the information we may send to our agents.
 
-  * Bagfull has gone to great lengths to ensure your information is securely obtained and held in compliance with the Card Holder Information Security Program. For example, we redirect you to the payment gateway to make the credit card payments and do not store your credit card information with us.
+  * Bagful has gone to great lengths to ensure your information is securely obtained and held in compliance with the Card Holder Information Security Program. For example, we redirect you to the payment gateway to make the credit card payments and do not store your credit card information with us.
 
   * It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.
 
@@ -71,24 +71,24 @@ We release account and other personal information when we believe release is app
 
 ### What information can I access?
 
-  * Bagfull gives you access to certain information about you for the limited purpose of viewing and, in certain cases, updating that information. To view or change this information, log-in to your account. When you update information, we usually keep a copy of the prior version for our records.
+  * Bagful gives you access to certain information about you for the limited purpose of viewing and, in certain cases, updating that information. To view or change this information, log-in to your account. When you update information, we usually keep a copy of the prior version for our records.
 
 
 
 ### Links
 
-  * Sites provided by Bagfull contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+  * Sites provided by Bagful contain links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 
 
 ### Children
 
-  * Bagfull does not sell services for purchase by children. If you are under 18, you may use our services only with involvement of a parent or guardian.
+  * Bagful does not sell services for purchase by children. If you are under 18, you may use our services only with involvement of a parent or guardian.
 
 
 
 ### Conditions of use, notices and revisions
 
-  * If you choose to visit Bagfull, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. Our business changes constantly. This Notice and the Terms and Conditions will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.
+  * If you choose to visit Bagful, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. Our business changes constantly. This Notice and the Terms and Conditions will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.
 
 
