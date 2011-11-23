@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guns.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525184824id_/http%3A//www.guns.com/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guns.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123012707id_/http%3A//www.guns.com/site/privacy.html) for the most accurate reproduction.*
 
-# Privacy - Guns.com
+# Privacy - Guns News and Guns Reviews at Guns.com
 
 At Guns.com, we have created this statement in order to demonstrate our firm commitment to privacy.
 
@@ -26,11 +26,11 @@ Personal information is submitted using high security 128bit encryption. All per
 
 ### Choice/Opt-Out of Guns.com
 
-You can opt out of any marketing emails at any time by clicking on the opt out link on the bottom of the email messages. You can also delete your guns.com account at anytime via [your profile account settings page](https://web.archive.org/user/posts.html).
+You can opt out of any marketing emails at any time by clicking on the opt out link on the bottom of the email messages. You can also delete your guns.com account at anytime via [your profile account settings page](https://web.archive.org/user.html).
 
 ### Correcting or Updating Personal Information
 
-Guns.com provides members with the secure My Account area for changing and modifying information previously provided. This can be accessed anytime on [your profile account settings page](https://web.archive.org/user/posts.html).
+Guns.com provides members with the secure My Account area for changing and modifying information previously provided. This can be accessed anytime on [your profile account settings page](https://web.archive.org/user.html).
 
 ### Contacting the Web Site
 
