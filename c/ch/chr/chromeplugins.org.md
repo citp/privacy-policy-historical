@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the chromeplugins.org privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524141112id_/http%3A//www.chromeplugins.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chromeplugins.org privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123171149id_/http%3A//www.chromeplugins.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Chrome Plugins
+
+  * [Chrome Plugins](http://www.chromeplugins.org/ "Chrome Plugins")
+  * [Chrome Forums](http://www.chromeplugins.org/google/)
+  * [About](http://www.chromeplugins.org/about/)
+  * [Contact](http://www.chromeplugins.org/contact/)
+
+
 
 Chrome Plugins understands the concerns people have about privacy and safety while using the Internet. This Privacy Policy explains what information we gather from visitors, how we use that information, and the steps we take to protect your privacy.
 
@@ -14,3 +21,11 @@ Chrome Plugins understands the concerns people have about privacy and safety whi
 
 If you have any questions at all about our Privacy Policy or our Web site, [please send us a message.](mailto:info@chromeplugins.org)  
 Thank you for visiting our site.
+
+﻿
+
+[](http://www.buzzifymedia.com/)
+
+Google Chrome and Google™ is a Trademark of [Google Inc](http://www.google.com/) \- [Google Chrome](http://www.chromeplugins.org/). - [Sitemap](http://www.chromeplugins.org/sitemap/) \- [Privacy Policy](http://www.chromeplugins.org/privacy-policy/) \- [SEO](http://www.tareeinternet.com/ "SEO") Enhanced  
+This site chromeplugins.org is not affiliated with or sponsored by Google Inc.  
+Coming Soon [Chrome Themes](http://www.chromethemes.org/) and [Chrome Extensions](http://www.chromeextensions.org/)
