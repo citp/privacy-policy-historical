@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gongos.com privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310062358id_/http%3A//gongos.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gongos.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123161816id_/http%3A//gongos.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Gongos Research: Privacy Policy
+
+Gongos Research, Inc. Privacy Policy
 
 Gongos Research, Inc. (the “Company,” “we,” or “us”) respects the privacy of the individuals who visit its site and participate in its panels. This Privacy Policy outlines the information we will collect and how we will use that information. This Policy will also tell you how you can verify the accuracy of your Personal Information (defined below) submitted to us and how you can request that we delete or update your Personal Information.
 
