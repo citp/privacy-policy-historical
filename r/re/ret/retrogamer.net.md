@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retrogamer.net privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422035850id_/http%3A//www.imagine-publishing.co.uk/privacy_policy.html%3Futm_source%3Dretrogamer.net%26utm_medium%3Dlink%26utm_campaign%3DGlobal%252BFooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retrogamer.net privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123080058id_/http%3A//www.imagine-publishing.co.uk/privacy_policy.html%3Futm_source%3Dretrogamer.net%26utm_medium%3Dlink%26utm_campaign%3DGlobal%252BFooter) for the most accurate reproduction.*
 
 # Imagine Publishing - Just imagine...
 
