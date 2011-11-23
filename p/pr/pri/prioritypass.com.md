@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prioritypass.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105155300id_/http%3A//www.prioritypass.com/Privacy-Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prioritypass.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123160432id_/http%3A//www.prioritypass.com/Privacy-Policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy | Priority Pass
 
@@ -12,15 +12,14 @@ UK - London
 P O Box 120, Croydon CR9 4NU England  
 Tel: UK +44 (0)20 8680 1338  
 Fax: UK +44 (0)20 8688 6191  
-Hours of operation: 08.00 – 20.00 hrs Mon - Fri  
-09.00 – 17.00 hrs Sat  
+Hours of operation: 24 hours a day, seven days a week  
 email: info@prioritypass.co.uk
 
 Hong Kong  
 GPO Box 9411, Hong Kong  
 Tel: Hong Kong +852 2866 1964  
 Fax: Hong Kong +852 2865 6850  
-Hours of operation: 08.30 – 19.00 Mon - Fri  
+Hours of operation: 24 hours a day, seven days a week  
 email: pp@prioritypass.com.hk
 
 USA - Dallas  
@@ -29,7 +28,7 @@ Tel Toll-Free in USA/CANADA/MEXICO: 800 352 2834
 Tel Elsewhere: USA +1 972 735 0536  
 Fax Toll-Free in USA/CANADA/MEXICO: 800 352 2863  
 Fax Elsewhere: USA +1 972 380 8808  
-Hours of operation: 08.00 – 18.00 hrs Mon - Fri  
+Hours of operation: 24 hours a day, seven days a week   
 e-mail: ppass@prioritypassusa.com
 
 Priority Pass is part of Priority Travel Group, a division of the Collinson Group, specialising in the international travel clubs and services sector, which also includes the following companies: IAPA (International Airline Passengers Association), TravelPlan, Columbus Insurance, Expat Network, Lounge Pass, Golfing Elite and Priority Traveller.
