@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockto.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525033439id_/http%3A//www.rockto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockto.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123121009id_/http%3A//www.rockto.com/privacy) for the most accurate reproduction.*
 
 # ROCKTO - Privacy Policy
 
@@ -41,9 +41,9 @@ This Privacy Policy covers ROCKTO's treatment of personal information that we ga
 
 #### Information Collected Via Technology
 
-An â€œInternet protocol addressâ€ or â€œIP Addressâ€ is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP Address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP Address probably varies from session to session. We track IP Addresses solely in conjunction with session cookies to analyze our web page flow.
+An “Internet protocol address” or “IP Address” is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP Address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP Address probably varies from session to session. We track IP Addresses solely in conjunction with session cookies to analyze our web page flow.
 
-"Cookies" are small pieces of information that a website sends to your computer's hard drive while you are viewing a website. Cookies can identify you as a unique user of the Website. Upon your first use of the Toolbar, ROCKTO sends a Cookie to your computer. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Website. Persistent Cookies can be removed by following Internet browser help file directions. If you choose to disable Cookies, some areas of the Website may not work properly.
+“Cookies” are small pieces of information that a website sends to your computer's hard drive while you are viewing a website. Cookies can identify you as a unique user of the Website. Upon your first use of the Toolbar, ROCKTO sends a Cookie to your computer. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Website. Persistent Cookies can be removed by following Internet browser help file directions. If you choose to disable Cookies, some areas of the Website may not work properly.
 
 #### Use of Information
 
