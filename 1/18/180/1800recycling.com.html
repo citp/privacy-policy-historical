@@ -1,33 +1,69 @@
-<!--The following is the downloaded HTML source of the 1800recycling.com privacy policy that was archived on 2011-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110625051028id_/http%3A//1800recycling.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 1800recycling.com privacy policy that was archived on 2011-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123021902id_/http%3A//1800recycling.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+<link href="http://fonts.googleapis.com/css?family=Droid+Sans:400,700&amp;v2" rel="stylesheet" type="text/css">
+
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0010/6414.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Droid+Sans:400,700:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })();
+</script>
+
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	<meta name="blogcatalog" content="9BC9640310"> 
+
 	<title>Privacy Policy - 1-800-Recycling</title>
+
 	<link rel="stylesheet" href="http://yui.yahooapis.com/2.7.0/build/reset-fonts-grids/reset-fonts-grids.css" type="text/css" media="screen"> 
-	<link rel="stylesheet" href="http://1800recycling.com/wp-content/themes/1800recycling/styles/master.css?100903" type="text/css" media="screen">
-	<link rel="stylesheet" href="http://1800recycling.com/wp-content/themes/1800recycling/styles/print.css?100903" type="text/css" media="print">
+	<link rel="stylesheet" href="http://1800recycling.com/wp-content/themes/1800recycling2011/styles/master.css?100903" type="text/css" media="screen">
+	<link rel="stylesheet" href="http://1800recycling.com/wp-content/themes/1800recycling2011/styles/print.css?100903" type="text/css" media="print">
+	<link rel="stylesheet" href="http://1800recycling.com/wp-content/themes/1800recycling2011/js/ui/jquery-ui-1.8.14.custom.css" type="text/css" media="screen">
 	<link rel="alternate" type="application/rss+xml" title="1-800-Recycling RSS Feed" href="http://1800recycling.com/feed/">
 	<link rel="pingback" href="http://1800recycling.com/xmlrpc.php">
 
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://1800recycling.com/wp-content/themes/1800recycling/js/jquery-1.4.2.min.js"></script>
-	<script type="text/javascript" src="http://1800recycling.com/wp-content/themes/1800recycling/js/ui.core.js"></script>
-	<script type="text/javascript" src="http://1800recycling.com/wp-content/themes/1800recycling/js/ui.tabs.js"></script>
-	<script type="text/javascript" src="http://1800recycling.com/wp-content/themes/1800recycling/js/jquery.cycle.min.js"></script>
-	<script type="text/javascript" src="http://1800recycling.com/wp-content/themes/1800recycling/js/thickbox-compressed.js"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+	<script type="text/javascript" src="http://1800recycling.com/wp-content/themes/1800recycling2011/js/ui/jquery-ui-1.8.14.custom.min.js"></script>
+	<script type="text/javascript" src="http://malsup.github.com/jquery.cycle.all.js"></script>
 	<script type="text/javascript" src="http://1800recycling.com/wp-content/themes/1800recycling/js/swfobject/swfobject.js"></script>
+
+	<script type="text/javascript" src="http://1800recycling.com/wp-content/themes/1800recycling2011/js/chosen/chosen.jquery.min.js"></script>
+	<link rel="stylesheet" href="http://1800recycling.com/wp-content/themes/1800recycling2011/js/chosen/chosen.css" type="text/css" media="screen">
+
+	<script type="text/javascript" src="http://1800recycling.com/wp-content/themes/1800recycling2011/js/geo.js?151"></script>
 
 	<script type="text/javascript">
 	swfobject.embedSWF("/wp-content/themes/1800recycling/waiting-to-recycle.swf", "recycle-sidebar", "300", "266", "9.0.0");
 	swfobject.embedSWF("/wp-content/themes/1800recycling/state-map.swf", "state-map", "950", "500", "9.0.0","","",{wmode: "transparent"});
 	</script>
 
-
 	<script type="text/javascript">
+
 		$(document).ready(function() {
 
-			$("#social-media-tabs").tabs();
+			//$("#social-media-tabs").tabs();
+
+			$('select[id=search_recycle]').chosen();
+			$('.chzn-drop').css('width', '418px');
+			$('.chzn-search input').css('width', '383px');
+			$('.chzn-results').css('clear', 'both');
+			$('.chzn-drop').css('border-top', '1px solid #aaa');
+
+			$('#recycle-search-text-form').change(function(){
+				var selected_family = $("option:selected", this);
+				var family = (selected_family.parent()[0].id);
+				$(this).attr("action", "/find/recycling-locations/" + family + "/");
+				$(this).submit();
+			});
 
 			$("#category-menu-list li").click(function(){
 			    $("#category-menu-list li.current").removeClass("current");
@@ -80,38 +116,36 @@
 	</script>
 
 	<!--[if ! IE 7]>
+
 	<script type="text/javascript">
 		$(document).ready(function() {
-			
+
 			$('#category-menu-list').children().hover(function() {
 				$(this).siblings().stop().fadeTo(300,0.7);
 			}, function() {
 				$(this).siblings().stop().fadeTo(300,1);
 			});
-			
 		});
 	</script>
+
 	<![endif]-->
 
 	<link rel="alternate" type="application/rss+xml" title="1-800-Recycling » Privacy Policy Comments Feed" href="http://1800recycling.com/privacy-policy/feed/">
 <script type="text/javascript" src="http://1800recycling.com/wp-includes/js/l10n.js?ver=20101110"></script>
-<script type="text/javascript" src="http://1800recycling.com/wp-includes/js/jquery/jquery.js?ver=1.4.4"></script>
-<script type="text/javascript" src="http://1800recycling.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.1.3"></script>
-<style type="text/css">img.nothumb{border:0;margin:0 0 0 2px !important;}</style>
-<!-- Tweet This v1.8.2 b036 mode alpha -->
+<script type="text/javascript" src="http://1800recycling.com/wp-includes/js/jquery/jquery.js?ver=1.6.1"></script>
+<script type="text/javascript" src="http://1800recycling.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.2"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://1800recycling.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://1800recycling.com/wp-includes/wlwmanifest.xml"> 
 <link rel="index" title="1-800-Recycling" href="http://1800recycling.com/">
 <link rel="prev" title="Terms of Use" href="http://1800recycling.com/terms-of-use/">
 <link rel="next" title="What do those numbers mean on my plastic containers?" href="http://1800recycling.com/recycling-101/what-do-those-numbers-mean-on-my-plastic-containers/">
-<meta name="generator" content="WordPress 3.1.3">
-<link rel="shortlink" href="http://1800recycling.com/?p=51">
+<meta name="generator" content="WordPress 3.2.1">
 
-<!-- All in One SEO Pack 1.6.13.2 by Michael Torbert of Semper Fi Web Design[359,405] -->
+<!-- All in One SEO Pack 1.6.13.3 by Michael Torbert of Semper Fi Web Design[946,992] -->
 <meta name="description" content="Last Updated: March 23, 2010 1.	INTRODUCTION AGREEMENT AND PARTIES. Electronic Recyclers International, Inc., a Delaware corporation (“Company,”">
 <link rel="canonical" href="http://1800recycling.com/privacy-policy/">
 <!-- /all in one seo pack -->
-<script type="text/javascript" src="http://1800recycling.com/wp-content/plugins/lifestream/lifestream.js"></script><link rel="stylesheet" type="text/css" media="screen" href="http://1800recycling.com/wp-content/plugins/lifestream/themes/default/media/lifestream.css"><!-- Google Analytics Tracking by Google Analyticator 6.1.3: http://ronaldheft.com/code/analyticator/ -->
+<script type="text/javascript" src="http://1800recycling.com/wp-content/plugins/lifestream/lifestream.js"></script><link rel="stylesheet" type="text/css" media="screen" href="http://1800recycling.com/wp-content/plugins/lifestream/themes/default/media/lifestream.css"><!-- Google Analytics Tracking by Google Analyticator 6.2: http://ronaldheft.com/code/analyticator/ -->
 <script type="text/javascript">
 	var analyticsFileTypes = [''];
 	var analyticsEventTracking = 'enabled';
@@ -120,6 +154,7 @@
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', 'UA-8316646-1']);
 	_gaq.push(['_trackPageview']);
+	_gaq.push(['_trackPageLoadTime']);
 
 	(function() {
 		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -127,26 +162,169 @@
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	})();
 </script>
+
 </head>
 
 <body class="normal">
 
-	<div id="doc4" class=" wrapper">
-
-	<div id="hd">
 		<div id="header-container">
-						<a href="http://1800recycling.com/" id="header-logo"><img src="http://1800recycling.com/wp-content/themes/1800recycling/images/1800recycling-web-header-logo.png" alt="1-800-Recycling"><span class="replace">1-800-Recycling</span></a>
-
-						<span id="beta-tag" style="font-size:11px;color:#666;text-transform:uppercase;">beta</span>
-
-			<ul id="general-options">
-				<li id="about-link" class="item"><a href="/about/">About</a></li>
-				<li id="faq-link" class="item"><a href="/faq/">FAQ</a></li>
-				<li id="contact-link" class="item"><a href="/contact/">Contact</a></li>
-				<li id="sitemap-link" class="last item"><a href="/site-map/">Site Map</a></li>
-			</ul>
-
-<script type="text/javascript">
+			
+			<a href="http://1800recycling.com/" id="header-logo">1-800-Recycling</a>
+						
+			<div id="header_search" class="head_tab">
+				<label for="search_recycle">What do you want to recycle?</label>
+				<form id="recycle-search-text-form" method="GET" action="/find/recycling-locations">
+					<!--<input type="text" name="search_recycle" value="ex: plastic, tv, cardboard" />-->
+					<div class="material-select-container">						
+						<select id="search_recycle" name="materials[]" title="ex: plastic, tv, cardboard">
+<option value="61"></option>
+<optgroup label="Plastic" id="plastic">
+<option value="196">Gift Cards</option>
+<option value="131">Packing Peanut (Reuse)</option>
+<option value="1">Plastic #1 (PETE)</option>
+<option value="2">Plastic #2 (Clear HDPE)</option>
+<option value="3">Plastic #2 (Color HDPE)</option>
+<option value="4">Plastic #3</option>
+<option value="5">Plastic #4 (LDPE)</option>
+<option value="6">Plastic #5 (Polypropylene)</option>
+<option value="7">Plastic #6 (Polystyrene)</option>
+<option value="8">Plastic #7</option>
+<option value="144">Plastic Shopping Bags</option>
+<option value="130">Plastics (Other)</option>
+</optgroup>
+<optgroup label="Electronics" id="electronics">
+<option value="154">Batteries (Rechargeable)</option>
+<option value="160">Batteries (Single-use)</option>
+<option value="44">CD's</option>
+<option value="49">Computer (Recycling)</option>
+<option value="46">Computer (Reuse)</option>
+<option value="70">Computer Disks</option>
+<option value="47">Computer Monitor (CRT)</option>
+<option value="61">Electronics</option>
+<option value="92">Inkjet Printer Cartridge Refilling</option>
+<option value="93">Inkjet Printer Cartridges</option>
+<option value="173">Laser Toner Cartridges</option>
+<option value="172">Laser Toner Refilling</option>
+<option value="328">Memory (RAM), Flash Card/Drive</option>
+<option value="38">Mobile Phones</option>
+<option value="118">Ni-Cad Batteries</option>
+<option value="121">Office Equipment</option>
+<option value="198">Printers</option>
+<option value="195">Stereo Systems</option>
+<option value="169">Telephones</option>
+<option value="170">Televisions</option>
+<option value="185">VHS Cassette Tapes</option>
+<option value="74">Video Game Console (Reuse)</option>
+</optgroup>
+<optgroup label="Paper" id="paper">
+<option value="26">Book Recycling</option>
+<option value="30">Brown Paper-Bags</option>
+<option value="33">Cardboard</option>
+<option value="36">Catalogs</option>
+<option value="40">Chip board</option>
+<option value="57">Drink Boxes</option>
+<option value="102">Magazines</option>
+<option value="111">Milk Cartons</option>
+<option value="117">Newspapers</option>
+<option value="189">Office Paper</option>
+<option value="112">Paper (Mixed)</option>
+<option value="138">Paperboard</option>
+<option value="142">Phone books</option>
+</optgroup>
+<optgroup label="Glass" id="glass">
+<option value="24">Blue Glass</option>
+<option value="29">Glass (Brown)</option>
+<option value="42">Glass (Clear)</option>
+<option value="81">Glass (Green)</option>
+<option value="128">Glass (Other)</option>
+</optgroup>
+<optgroup label="Metal" id="metal"> 
+<option value="10">Aerosol Spray Cans</option>
+<option value="14">Aluminum Cans</option>
+<option value="15">Aluminum Foil</option>
+<option value="110">Clothes Hangers (Metal)</option>
+<option value="66">Ferrous Metals (Steel or Iron)</option>
+<option value="97">Large Household Appliances</option>
+<option value="119">Non-ferrous (Copper/Brass/Tin)</option>
+<option value="171">Tin or Steel Cans</option>
+</optgroup>
+<optgroup label="Automotive" id="automotive">
+<option value="17">Anti-freeze</option>
+<option value="32">Automobile Batteries</option>
+<option value="21">Automobile Parts</option>
+<option value="27">Brake Fluids</option>
+<option value="183">Car Donation</option>
+<option value="20">Cars</option>
+<option value="94">Inner Tubes</option>
+<option value="174">Miscellaneous Tools</option>
+<option value="181">Oil Filters</option>
+<option value="176">Transmission Fluid</option>
+<option value="179">Used Motor Oil</option>
+<option value="180">Used Oil Filters</option>
+<option value="182">Used Tires</option>
+</optgroup>
+<optgroup label="Yard" id="yard">
+<option value="80">Lawn Clippings</option>
+<option value="98">Lawn Equipment</option>
+<option value="194">Lawn Waste</option>
+<option value="99">Leaves</option>
+<option value="56">Soil</option>
+<option value="177">Tree Trimmings</option>
+<option value="187">Weeds</option>
+<option value="192">Wood Chips</option>
+</optgroup>
+<optgroup label="Household" id="household">
+<option value="105">Bed Mattresses</option>
+<option value="22">Bikes</option>
+<option value="34">Carpet</option>
+<option value="175">Children's Toys</option>
+<option value="110">Clothes Hangers (Metal)</option>
+<option value="43">Clothing and Shoes</option>
+<option value="53">Cooking Oil</option>
+<option value="79">Eye Glasses</option>
+<option value="88">Furniture</option>
+<option value="9">Glue</option>
+<option value="89">Household Goods</option>
+<option value="97">Large Household Appliances</option>
+<option value="174">Miscellaneous Tools</option>
+<option value="113">Musical Instruments</option>
+<option value="129">Packing Materials</option>
+<option value="133">Paint Donation</option>
+<option value="134">Paint Recycling</option>
+<option value="165">Sporting Goods</option>
+<option value="132">Unused Paint</option>
+</optgroup>
+<optgroup label="Hazardous" id="hazardous">
+<option value="18">Asbestos</option>
+<option value="45">Compact Fluorescent Lights</option>
+<option value="67">Fertilizer</option>
+<option value="68">Fire Extinguishers</option>
+<option value="71">Fluorescent Light-Bulbs</option>
+<option value="95">Insecticides</option>
+<option value="109">Mercury / Mercury Thermostats</option>
+<option value="107">Needles / Medical Sharps</option>
+<option value="178">Outdated Medications</option>
+<option value="135">Paint Thinner</option>
+<option value="141">Pesticides</option>
+<option value="143">Photography Chemicals</option>
+<option value="161">Smoke Detectors</option>
+<option value="163">Solvents</option>
+</optgroup>
+<optgroup label="Other" id="other">
+<option value="133">Paint Donation</option>
+<option value="134">Paint Recycling</option>
+<option value="135">Paint Thinner</option>
+<option value="132">Unused Paint</option>
+</optgroup>
+</select>
+					</div>
+					<div class="material-submit-container">
+						<input type="submit" name="go" value="search">
+					</div>
+				</form>
+			</div>
+			
+			<script type="text/javascript">
 
 $(document).ready(function() {
 
@@ -166,13 +344,20 @@ $(document).ready(function() {
 
 </script>
 
-<div id="newsletter-signup" style="margin: 12px 10px 0 0; float: right; color: #999;">
+<div id="newsletter-signup" class="head_tab">
 <form id="newsletter-form" method="post" action="#">
-<span id="newsletter-message" style="color: #648D96;">Newsletter: <input id="nlemail" name="nlemail" style="font-size: 10px; width: 100px;" type="text" value="enter email address"><input style="font-size: 10px;" type="submit" value="Go"></span>
+
+	<span id="newsletter-message">
+		<label>Recycling Newsletter Signup</label> 
+		<input id="nlemail" name="nlemail" type="text" value="enter email address">
+		<input type="submit" value="Go">
+	</span>
+
 </form>
 </div>
-		</div>
-	</div>
+		</div> <!--/header-container-->
+
+<div id="doc4" class=" wrapper">
 
 <div id="main-nav">
 	<ul id="main-nav-list">
@@ -240,123 +425,19 @@ $(document).ready(function() {
 <p>CHANGING YOUR INFORMATION. You may cancel your registration at any time, and you may opt out of receiving any e-mails from Company. Additionally, you can choose to have all your personal information deleted from our database. You may opt out, or delete or modify your personal information, by visiting our website registration page at [hyperlink to registration page] and following the instructions provided. We encourage you promptly to update your personal information when it changes.</p>
 <p><strong>13. QUESTIONS OR COMMENTS</strong></p>
 <p>CONTACT INFORMATION. If you have any questions or comments relating to our website or the privacy policy, send an e-mail to privacy@1800recycling.com or write Attn: Privacy Compliance Officer, P.O. Box 2428, Fresno, California 93745.</p>
-     					</div>
+					</div>
 				</div>
 						</div>
 
 			<div class="yui-u">
 
-				<div id="ad-page-300x250">
-	<a href="/contact/"><img src="http://1800recycling.com/wp-content/themes/1800recycling/images/ads/list-for-free-300x250.jpg" alt=""></a>
+				<div>
+<div id="ad-page-300x250">
+	<a href="/contact/"><img src="http://1800recycling.com/wp-content/themes/1800recycling2011/images/ads/24-hour-recycling-300x250.jpg" alt=""></a>
+</div>
 </div>
 
-				<div id="social-media-tabs">
-
-	<h2 id="social-media-heading"><span class="replace">Let's keep in touch</span></h2>
-
-	<ul>
-		<li><a id="email-ui-tab" href="#social-media-section-4"><span class="replace">E-Mail</span></a></li>
-		<li><a id="facebook-ui-tab" href="#social-media-section-2"><span class="replace">Facebook</span></a></li>
-		<li><a id="twitter-ui-tab" href="#social-media-section-1"><span class="replace">Twitter</span></a></li>
-		<li><a id="rss-ui-tab" href="#social-media-section-3"><span class="replace">RSS</span></a></li>
-		<li><a id="podcast-ui-tab" href="#social-media-section-5"><span class="replace">Podcast</span></a></li>
-	</ul>
-
-	<div id="social-media-section-4">
-		<div id="mailing-list-signup">
-			<p class="mailing-list-title">Join our mailing list</p>
-			<form id="mailing-list-signup-form" method="post" action="http://visitor.constantcontact.com/manage/optin/ea?v=001RmASHJDEZJY6wPTzQmK1Fg%3D%3D">
-				<label>Your Name
-				<span class="message">First and last name please</span>
-				<input id="mailing-list-name" class="mailing-list-input" type="text">
-				</label>
-
-				<label>E-Mail Address
-				<span class="message">Required</span>
-				<input id="mailing-list-email" name="emailAddr" class="mailing-list-input" type="text">
-				</label>
-
-				<button type="submit" class="submit" value="Sign Up"><span>Sign Up</span></button>
-			</form>
-		</div><!-- mailing-list-signup -->
-	</div>
-
-	<div id="social-media-section-1">
-				<div id="twitter-updates">
-			<p class="twitter-name"><a href="http://twitter.com/1800Recycling">@1800Recycling</a></p>
-			<p class="tweet-time">7h ago</p>
-			<p class="tweet-content">An all-new <a class="user" href="http://www.twitter.com/GreenisGoodFM">@GreenisGoodFM</a> show up for download now with <a class="user" href="http://www.twitter.com/OnEarthMag">@OnEarthMag</a> &amp; Ohio Mattress Recovery and Recycling! <a href="http://is.gd/iBXLGT">http://is.gd/iBXLGT</a></p>
-			<a href="http://twitter.com/1800Recycling" class="forward-button"><span>Follow Us</span></a>
-		</div><!-- #twitter-updates -->
-	</div>
-
-	<div id="social-media-section-2">
-								<div id="facebook-status">
-			<p class="fb-name"><a href="http://facebook.com/1800Recycling">1800Recycling</a></p>
-			<p class="fb-time">7h ago</p>
-			<p class="fb-title"><a href="http://www.facebook.com/1800Recycling/posts/10150222767165528">Learn about household chemicals and recyclable mattress components in an all-new Green is Good. Download and listen now! http://is.gd/iBXLGT</a></p>
-			<p class="fb-desc">Learn about household chemicals and recyclable mattress components in an all-new Green is Good. Download and listen now! <a href="http://is.gd/iBXLGT" &hellip;="" <a="">continue</a></p>
-			<br class="clear">
-			<a href="http://facebook.com/1800Recycling" class="forward-button"><span>Become a Fan</span></a>
-		</div><!-- facebook-status -->
-
-	</div>
-
-	<div id="social-media-section-3">
-
-		<div id="rss-feed-builder">
-			<p class="rss-title">Choose your feed</p>
-			<ul>
-				<li><a href="/feed/">All Topics</a></li>
-				<li><a href="/category/air-quality/feed/">Air Quality</a></li>
-				<li><a href="/category/climate-change/feed/">Climate Change</a></li>
-				<li><a href="/category/energy/feed/">Energy</a></li>
-				<li><a href="/category/home-garden/feed/">Home and Garden</a></li>
-				<li><a href="/category/lifestyle/feed/">Lifestyle</a></li>
-				<li><a href="/category/local-focus/feed/">Local Focus</a></li>
-				<li><a href="/category/mixed-greens/feed/">Mixed Greens</a></li>
-				<li><a href="/category/recycling/feed/">Recycling</a></li>
-
-			</ul>
-
-			<ul>
-				<li><a href="/category/reuse/feed/">Reuse</a></li>
-				<li><a href="/category/water-conservation/feed/">Water Conservation</a></li>
-				<li><a href="/category/workplace/feed/">Workplace</a></li>
-				<li><a href="/tag/featured/feed/">Featured Articles</a></li>
-				<li><a href="/tag/news/feed/">Current News</a></li>
-				<li><a href="/tag/guest/feed/">Guest Authors</a></li>
-				<li><a href="/tag/how-to/feed/">How-To</a></li>
-				<li><a href="/tag/interview/feed/">Interviews</a></li>
-			</ul>
-		</div>
-		<br class="clear">
-	</div>
-
-
-	<div id="social-media-section-5">
-		
-		<div id="podcast-feed">
-			<p class="podcast-title">Green is Good</p>
-			<p class="feed-url">greenisgood.fm</p>
-
-			<ul>
-							<li>
-					<p class="podcast-link"><a href="http://greenisgood.fm/2011/06/onearth-laura-wright-treadway-ohio-mattress-recovery-recycling-chuck-brickman/">OnEarth’s Laura Wright-Treadway and Ohio Mattress Recovery and Recycling’s Chuck Brickman</a></p>
-					<p class="podcast-desc">Laura Wright-Treadway joins “Green is Good” to discuss her recently published OnEarth article, “Pure Chemistry.” The genesis of the …</p>
-				</li>
-
-							<li>
-					<p class="podcast-link"><a href="http://greenisgood.fm/2011/06/travelocity-alison-presley-simple-living-wanda-urbanska/">Travelocity’s Alison Presley and Simple Living’s Wanda Urbanska</a></p>
-					<p class="podcast-desc">Alison Presley manages Travelocity’s Travel for Good program, an employee-founded program aimed at decreasing environmental travel concern…</p>
-				</li>
-
-						</ul>
-			<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=329073102" class="forward-button"><span>iTunes Podcast</span></a>
-		</div><!-- podcast-feed -->
-	</div>
-</div><!-- #social-media-tabs -->
-
+				
 				<div id="page-sidebar" class="sidebar">
 
 				</div>
@@ -372,14 +453,17 @@ $(document).ready(function() {
 
 <div id="ft">
 	<div id="footer-container">
-	<a href="http://www.GreenAmericaToday.org/go/sealofapproval" target="_blank" rel="nofollow"><img src="/wp-content/themes/1800recycling/images/green-america.png" style="float: right;" alt="Green America"></a>
+	<div style="float:right;width:76px;"><script type="text/javascript">
+document.write('<iframe style="border: 0; margin: 0; overflow: hidden; padding: 0;" src="http://www.greengaintool.org/front/fronts/myseal/2090"></iframe>');</script><iframe style="border: 0; margin: 0; overflow: hidden; padding: 0;" src="http://www.greengaintool.org/front/fronts/myseal/2090"></iframe></div>
 		<ul id="footer-nav-list">
 			<li class="current item"><a href="/">Home</a></li>
+			<li class="item"><a href="/about/">About</a></li>
 			<li class="item"><a href="/faq/">FAQ</a></li>
-			<li class="item"><a href="/site-map/">Site Map</a></li>
 			<li class="item"><a href="/contact/">Contact</a></li>
 			<li class="item"><a href="/partners/">Partners</a></li>
 			<li class="item"><a href="/widget/">Recycling Widget</a></li>
+			<li class="item"><a href="/green-leaders/">Green Leaders</a></li>
+			<li class="item"><a href="/site-map/">Site Map</a></li>
 			<li class="item"><a href="/terms-of-use/" rel="nofollow">Terms of Use</a></li>
 			<li class="item"><a href="/privacy-policy/" rel="nofollow">Privacy Policy</a></li>
 		</ul>
@@ -389,8 +473,22 @@ Site Created and Maintained by <a href="http://electronicrecyclers.com/">Electro
 	</div>
 </div>
 
-<script type="text/javascript" src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0010/6414.js"> </script>
-<script type="text/javascript" src="http://track4.mybloglog.com/js/jsserv.php?mblID=2010011122152462"></script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+	    var pageTracker = _gat._getTracker("UA-8316646-1");
+		    pageTracker._trackPageview();
+		} catch(err) {}
+</script>
+<script type="text/javascript">
+setTimeout(function(){var a=document.createElement("script");
+var b=document.getElementsByTagName('script')[0];
+a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0010/6414.js";
+a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
 
 
 </body></html>
