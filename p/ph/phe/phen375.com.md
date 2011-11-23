@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phen375.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612131644id_/http%3A//phen375.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phen375.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124004544id_/http%3A//phen375.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Phentermine Fat Burner Privacy Policy | Phen375
 
