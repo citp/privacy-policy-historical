@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefanmachine.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501004131id_/http%3A//www.thefanmachine.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefanmachine.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123154658id_/http%3A//www.thefanmachine.com/privacy.php) for the most accurate reproduction.*
 
 # the Fan Machine
 
