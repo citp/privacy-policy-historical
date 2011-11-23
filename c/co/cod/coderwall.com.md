@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the coderwall.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525013529id_/http%3A//coderwall.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coderwall.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123042313id_/http%3A//coderwall.com/privacy_policy) for the most accurate reproduction.*
 
-# coderwall
+# 
 
 ## Privacy Policy
 
-#### UPDATED May 20th, 2011
+#### UPDATED August 15th 2011
+
+Appdillo, Inc. (“Appdillo”, “our”, “us” or “we”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of coderwall.com (this “Site”).
 
 ### Website Visitors
 
@@ -26,10 +28,10 @@ A cookie is a string of information that a website stores on a visitor’s compu
 
 ### Business Transfers
 
-If Coderwall, or substantially all of its assets were acquired, or in the unlikely event that Coderwall goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of Coderwall may continue to use your personal information as set forth in this policy.
+If Appdillo, or substantially all of its assets were acquired, or in the unlikely event that Appdillo goes out of business or enters bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquiror of Appdillo may continue to use your personal information as set forth in this policy.
 
 ### Privacy Policy Changes
 
-Although most changes are likely to be minor, Coderwall may change its Privacy Policy from time to time, and in Coderwall’s sole discretion. Coderwall encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+Although most changes are likely to be minor, we may change our Privacy Policy from time to time, and in our sole discretion. We encourage visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
 This Privacy Policy was crafted from Wordpress.com's version, which is available under a Creative Commons Sharealike license.
