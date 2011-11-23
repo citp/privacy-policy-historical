@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercatornet.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523062259id_/http%3A//www.mercatornet.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercatornet.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123185140id_/http%3A//www.mercatornet.com/info/privacy) for the most accurate reproduction.*
 
 # MercatorNet’s Privacy Policy
 
@@ -30,4 +30,4 @@ Our privacy policy may change, so please check back from time to time.
 
 #### Comments and queries
 
-If you have any questions or comments about this privacy statement, [contact us](http://www.mercatornet.com/info/contact_us/). 
+If you have any questions or comments about this privacy statement, [contact us](http://www.mercatornet.com/info/contact_us). 
