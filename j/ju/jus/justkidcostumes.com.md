@@ -1,46 +1,76 @@
-> *The following text is extracted and transformed from the justkidcostumes.com privacy policy that was archived on 2006-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060811225058id_/http%3A//justkidcostumes.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justkidcostumes.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123161333id_/http%3A//www.justkidcostumes.com/privacy-policy) for the most accurate reproduction.*
 
-# Halloween Costumes for your Infant, Toddler, Kids and Children
+# Privacy Policy
 
-**We take your Privacy & Security VERY Seriously!**
+**Dedicated to your privacy**
 
-**Security**  
-We understand that shopping online can feel risky and uncertain. Where does your information go? How can you be sure that someone out there with a computer can't intercept your credit card numbers? Because your credit card security is our highest priority, JustKidCostumes.com has taken several steps to ensure that your payment information is processed confidentially and accurately.
+JustKidCostumes.com is committed to protecting your privacy when you visit JustKidCostumes.com or use its services ("Services") as further outlined in this policy. As a condition of using the Services of JustKidCostumes.com, you agree to provide JustKidCostumes.com with certain personal information. This information includes, but is not limited to: full name, postal address, phone number and email address as well as your computer's unique IP address (if any), financial information (credit card number, etc., for orders placed with JustKidCostumes.com) and demographic information (e.g., zip code, postal code, hometown, purchase history information as well as IP addresses that are not unique to your computer). Please note that nowhere on the Site do we knowingly collect contact information or financial information from children under the age of 14. Please review this privacy policy periodically as we may update it from time to time. This privacy policy was last revised on July 13, 2011.
 
-JustKidCostumes.com servers use Secure Sockets Layer (SSL) issued by [Thawte](http://www.thawte.com/), an advanced encryption technology that works with Netscape Navigator (versions 2.0 and above), Microsoft Internet Explorer (version 3.0 and above), and AOL (AOL 3.0 and above). This encryption makes it absolutely impossible for unauthorized parties to read any information that you send us.
+Each time you visit JustKidCostumes.com, use the Services, or provide us with information, you are accepting the practices described in this privacy policy at that time. You agree that by using the Site you are expressly and affirmatively consenting to our use and disclosure of the information that you provide, and consenting to receive order confirmation, order shipment, and newsletter emails, as described below in this privacy policy.
 
-So, there's no risk! In fact, shopping online at JustKidCostumes.com is statistically safer than using your credit card at a restaurant or department store. Give it a try and see for yourself. We're sure you'll change your mind about the security of Internet shopping, and find yourself appreciating the fun and convenience of shopping at home. This site also has security measures in place to protect the loss, misuse and alteration of the information under our control. We use a secure server for orders and any application type forms to protect your privacy. This information is not sold or given to any third parties.
+**Changes to Privacy Policy**
 
-**Privacy**  
-JustKidCostumes.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
+We reserve the right to modify our Privacy Policy at any time. If our Privacy Policy changes, the revised policy will be posted on the Site and we will change the 'Last Updated' date at the top of this page to reflect the date of the modification. Please check back periodically. Any changes to our Privacy Policy will become effective upon our posting of the revised Privacy Policy on the Services. Use of the Services following such changes constitutes your acceptance of the revised Privacy Policy then in effect.
 
-**Personal Information**  
-We only request personal information (such as your name, address, and e-mail address) if you choose to purchase one of our products. We do not request, collect or store personal information if you merely browse our Web site.
+**How Your Information is Used**
 
-If you choose to purchase a product and supply the requested information, we never sell, trade, or otherwise share any of this information with any other company or organization.
+Order and Payment Processing, Customer Service, Credit Card Issuers and Quality Assurance:
 
-Instead, the information you supply is used only for two purposes:
+We use contact information to help us efficiently perform transactions, to deliver the services you have requested, to perform quality assurance, sales analyses and other business analyses, and to contact you in connection with any orders that you have placed with us. We may also provide your contact information to your credit card issuer or to credit card processors for their purposes. No other use of your financial information will be made except to satisfy any law, regulation, governmental request, or judicial order. When you make a purchase through the Site, or register with the Site, you will provide us with an email address where we, or these service providers, may contact you for the purposes described in this paragraph.
 
-If you order with a credit card, your address information is supplied to your credit card company to verify that it matches the cardholder billing address.
+**Contacting You for Offers and Promotions:**
 
-If you sign up for one of our contest or mailing lists your email will be used to send you our weekly newsletter.  You may unsubscribe at any time by clicking on the remove me link included in every email.
+You agree, in consideration for the use of the Services provided by JustKidCostumes.com, to allow JustKidCostumes.com to use your personal information to send you marketing and promotional materials. ** ** These materials may include, but are not limited to: newsletters providing you with additional information on how to use the Services, and promotional offers for goods and services from JustKidCostumes.com or third parties.  You may opt out of our marketing mailings at any time.  **JustKidCostumes.com will not rent or sell your personal information for use by third parties.**
 
-**Cookies**  
-Our secure ordering Web site uses "cookies". A cookie is a unique number generated by our server that allows us to track your progress from page to page as you order, and allows you to resume ordering where you left off if you are disconnected.
+**Use of Demographic Information:**
 
-Cookies cannot be used to reference any personal information unless you supply it yourself by typing it, and cookies cannot track you once you leave the secure ordering section of our Web site.
+JustKidCostumes.com may use your demographic information to perform business analyses or to tailor the Site and communications to your interests. We may share anonymous, aggregated demographic information with advertisers and other third parties so that they can tailor their advertisements and communications to the appropriate audience. Any time that we are allowed under this privacy policy to share your contact information, we may also share your demographic information along with it.
 
-You can use our secure Web site with cookies disabled in your browser if you wish, although you will have to start from scratch if you are disconnected while ordering.
+**Disclosure to Governmental Entities**
 
-**Encryption**  
-In order to further protect customer information, certain forms on our web site are run on a secure server, utilizing encryption technology to safeguard all credit card transactions from unauthorized viewing. We use industry-standard SSL encryption issued by [Thawte](http://www.thawte.com/).
+JustKidCostumes.com may disclose specific contact information when we determine that such disclosure is necessary to comply with law, to cooperate with or seek assistance from law enforcement or to protect the interests or safety of JustKidCostumes.com or other visitors to the site or users of the Services. Also, your contact information may be passed on to a third party in the event of a merger, acquisition, consolidation, divestiture, or a bankruptcy of JustKidCostumes.com.
 
-**Summary**  
-These measures, along with our belief that it is up to the individual to determine who receives and what may be done with their personal information, ensure that any information submitted on our site will be kept confidential.
+**Use of Cookies and Other Site Tracking Data**
 
-Questions, Suggestions, Comments - We love to hear from our customers and we want to provide you with the best service possible.
+Cookies:
 
-Our goal, mission and policy, is to provide you with the best products, at a great price and to offer you a secure, private - yet easy and positive shopping experience.
+A "cookie" is a small file that we save on your computer's hard drive that contains non-personal information. These cookies help to give you faster access to pages you have already visited. They also allow you to personalize your pages, and optimize your experience at our sites. We also use cookies to help us figure out how many people visit our sites, which of our web pages they visit, and how long they stay there. This information helps us figure out which of our web features are highly successful and which might need improvement. You can disable cookies on your computer by indicating this in the preferences or options menus in your browser. Most browsers accept cookies automatically, but allow you to disable them. Disabling cookies may prevent you from properly using the Services or accessing the site.
 
-Thank you again for your interest and your business. We hope to hear from you soon - The JustKidCostumes.com Team!  
+Session IDs:
 
+"Session IDs" allow us to identify a particular user across multiple web page requests. This Session ID is maintained within your cookie file, where possible. If cookies are not enabled, or if The user's internet browser program does not support cookies then JustKidCostumes.com will place the Session ID in the requested web page. This allows the end user to avoid having to continually re-enter Certain information such as account name and password for every web page request. This Session ID expires whenever the user closes their internet browser.
+
+Web Site Tracking, Reporting:
+
+Many of our web pages also contain special electronic images (called a "single-pixel gif" or "gifs") that allow us to gather only non-personally identifiable traffic statistics and other aggregate information about visitors to our sites. JustKidCostumes.com (through itself or third parties) uses this technology to collect and accumulate anonymous data that helps us understand and analyze the experience of people visiting our web sites and, along with other information you provide, customize your future visits and improve our web sites. For example, we capture data on the type of browser used, operating system software (e.g. Windows 95 vs. 98 or Macintosh), cookie preferences (whether the user has them turned on or off), and search engine keywords (what key words did a visitor use to get to our site). We also record number of visits, paths taken, and time spent on sites and pages within JustKidCostumes.com's web sites. Please keep in mind that none of this information is personally identifiable and that we only distribute this information to internal staff at JustKidCostumes.com
+
+IP Address:
+
+Each time you visit the Site, we automatically collect your IP address and the web page from which you came. In order to administer and optimize the Site for you and to diagnose problems with our Site, we use your IP address to help identify you and to gather broad demographic information about you.
+
+Banner Ads:
+
+The Services may include the use of ad banner partners for the serving and/or targeting of ads, promotions, and other marketing messages. These ads may be provided, in some cases, by a third party ad service provider. The ad service provider may place or utilize their own unique cookie on your browser, and may use non-personally identifiable information about your visit to our sites, such as the number of times you have viewed the ad. JustKidCostumes.com is not responsible for the collection of these cookies and is not responsible for the actions of the ad service providers. JustKidCostumes.com does not sponsor, endorse or guarantee any products or services advertised by third parties on its site. 
+
+These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here:  
+<http://networkadvertising.org/consumer/opt_out.asp>
+
+**Information from Other Sites**
+
+JustKidCostumes.com may place links to other web sites operated by other parties and from time to time may include information and links to third party web sites in our promotional email. Some of these other web sites contain our brand names and trademarks and other intellectual property that we own; others do not. When you click on these links and visit these other web sites, regardless of whether or not they contain our brand names, trademarks and other intellectual property, you need to be aware that we do not control these other web sites or these other web sites' business practices, and that this privacy policy does not apply to these other web sites. Consequently, the operators of these other web sites may collect different kinds of information about you, and may use and disclose that information in different ways than we would if it were collected on the Site. We encourage you to review their privacy policies and remind you that we will not be responsible for their actions.
+
+**Non-US Users**
+
+If you are not a resident of the United States, you understand and agree that JustKidCostumes.com stores and processes your information on computers located in the United States, and by providing any data to JustKidCostumes.com, you consent to the transfer of such information to the United States.
+
+**Security Precautions**
+
+JustKidCostumes.com has security measures in place to help protect against the loss, misuse and alteration of the information under our control. We use secure socket layer (SSL) technology to help protect the security of commerce transactions. We encrypt your contact information and financial information as it travels over the Internet and we store your financial information on our servers in encrypted form. Your information may be transferred to and maintained in whole or in part on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and may be stored on equipment or in facilities leased or licensed from third parties. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information and make all commercially reasonable efforts to do so, JustKidCostumes.com cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. However, once we receive your transmission, we make our best effort to ensure its security on our systems. This privacy policy does not apply to any information, including such photographs, that you submit for use in publicly available areas.
+
+**Fraud**
+
+It is the intention of JustKidCostumes to prosecute credit card fraud to the fullest extent of all state, federal, and international laws. We will provide any and all transactional information, including (but not limited to) all trace information to the purchasing computer, to State, Federal and International Authorities, including the FBI, The Department of Justice, The Federal Trade Commission, and the National White Collar Crime Center.
+
+**How to Contact Us**
+
+If you have any questions regarding this privacy policy or information that you have submitted to us you can contact us at:  [service@justkidcostumes.com](mailto:service@justkidcostumes.com)  subject:  Privacy Policy
