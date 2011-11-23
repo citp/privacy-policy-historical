@@ -1,0 +1,751 @@
+<!--The following is the downloaded HTML source of the songsvibe.in privacy policy that was archived on 2011-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123113959id_/http%3A//www.songsvibe.in/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xml:lang="en-US"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Privacy - SongsVibe - Download Free Hindi MP3 Songs - Listen - Play &gt;&gt;</title> 
+
+<meta name="description" content="">
+
+<meta name="keywords" content="">
+
+	<link rel="stylesheet" href="http://www.songsvibe.in/wp-content/themes/songsvibe/style.css" type="text/css" media="screen">
+
+    <link rel="shortcut icon" href="http://www.songsvibe.in/favicon.ico">
+
+    <link rel="shortcut icon" href="http://www.songsvibe.in/favicon.ico" type="image/x-icon">
+
+    <meta name="generator" content="Magazine3 Framework Version 3.0">
+
+	<!--[if IE]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+
+
+	<link rel="alternate" type="application/rss+xml" title="SongsVibe – Download Free Hindi MP3 Songs – Listen – Play >> RSS Feed" href="http://www.songsvibe.in/feed/">
+
+
+	<link rel="pingback" href="http://www.songsvibe.in/xmlrpc.php">
+
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.songsvibe.in/wp-content/themes/songsvibe/js/jquery-1.4.4.min.js"></script>
+
+	<script type="text/javascript" src="http://www.songsvibe.in/wp-content/themes/songsvibe/js/ddsmoothmenu.js"></script> 
+
+    <script type="text/javascript" src="http://www.songsvibe.in/wp-content/themes/songsvibe/js/jquery.tools.min.js"></script>
+
+ <script type="text/javascript">
+
+var $ = jQuery.noConflict();
+
+$(document).ready(function() {
+
+
+
+	//When page loads...
+
+	$(".tab_content").hide(); //Hide all content
+
+	$("ul.tabs li:first").addClass("active").show(); //Activate first tab
+
+	$(".tab_content:first").show(); //Show first tab content
+
+
+
+	//On Click Event
+
+	$("ul.tabs li").click(function() {
+
+
+
+		$("ul.tabs li").removeClass("active"); //Remove any "active" class
+
+		$(this).addClass("active"); //Add "active" class to selected tab
+
+		$(".tab_content").hide(); //Hide all tab content
+
+
+
+		var activeTab = $(this).find("a").attr("href"); //Find the href attribute value to identify the active tab + content
+
+		$(activeTab).fadeIn(); //Fade in the active ID content
+
+		return false;
+
+	});
+
+
+
+});
+
+</script>
+
+ <script type="text/javascript">
+
+$(document).ready(function() {
+
+	//Tooltips
+
+	$(".tip_trigger").hover(function(){
+
+		tip = $(this).find('.tip');
+
+		tip.show(); //Show tooltip
+
+	}, function() {
+
+		tip.hide(); //Hide tooltip		  
+
+	}).mousemove(function(e) {
+
+		var mousex = e.pageX + 20; //Get X coodrinates
+
+		var mousey = e.pageY + 20; //Get Y coordinates
+
+		var tipWidth = tip.width(); //Find width of tooltip
+
+		var tipHeight = tip.height(); //Find height of tooltip
+
+		
+
+		//Distance of element from the right edge of viewport
+
+		var tipVisX = $(window).width() - (mousex + tipWidth);
+
+		//Distance of element from the bottom of viewport
+
+		var tipVisY = $(window).height() - (mousey + tipHeight);
+
+		  
+
+		if ( tipVisX < 20 ) { //If tooltip exceeds the X coordinate of viewport
+
+			mousex = e.pageX - tipWidth - 20;
+
+		} if ( tipVisY < 20 ) { //If tooltip exceeds the Y coordinate of viewport
+
+			mousey = e.pageY - tipHeight - 20;
+
+		} 
+
+		tip.css({  top: mousey, left: mousex });
+
+	});
+
+});
+
+
+
+</script>
+
+	 <script type="text/javascript">
+
+ $(document).ready(function() {
+
+
+
+ $("div.scrollable").scrollable({
+
+
+
+		size: 3,
+
+		items: '#thumbs',   
+
+		hoverClass: 'hover',
+
+		speed: 400,
+
+		keyboard: false,
+
+		clickable: false
+
+
+
+	}).navigator();	
+
+	  
+
+  		
+
+});
+
+</script>
+
+  
+
+ <script type="text/javascript">   
+
+
+
+  // when the DOM is ready...        
+
+
+
+$(document).ready(function () {      
+
+
+
+  // load the ticker                 
+
+
+
+	createTicker();                    
+
+
+
+});                                  
+
+
+
+function createTicker(){             
+
+
+
+	// put all list elements within #ticker-area into array   
+
+
+
+	var tickerLIs = $("#ticker-area ul").children();          
+
+
+
+	tickerItems = new Array();                                
+
+
+
+	tickerLIs.each(function(el) {                             
+
+
+
+		tickerItems.push( jQuery(this).html() );                
+
+
+
+	});                                                       
+
+
+
+	i = 0                                                     
+
+
+
+	rotateTicker();                                           
+
+
+
+}                                                           
+
+
+
+function rotateTicker(){                                    
+
+
+
+	if( i == tickerItems.length ){                            
+
+
+
+	  i = 0;                                                  
+
+
+
+	}                                                         
+
+
+
+  tickerText = tickerItems[i];                              
+
+
+
+	c = 0;                                                    
+
+
+
+	typetext();                                               
+
+
+
+	setTimeout( "rotateTicker()", 5000 );                     
+
+
+
+	i++;                                                      
+
+
+
+}                                                           
+
+
+
+var isInTag = false;                                        
+
+
+
+function typetext() {	                                      
+
+
+
+	var thisChar = tickerText.substr(c, 1);                   
+
+
+
+	if( thisChar == '<' ){ isInTag = true; }                  
+
+
+
+	if( thisChar == '>' ){ isInTag = false; }                 
+
+
+
+	$('#ticker-area').html("&nbsp;" + tickerText.substr(0, c++));   
+
+
+
+	if(c < tickerText.length+1)                                     
+
+
+
+		if( isInTag ){                                                
+
+
+
+			typetext();                                                 
+
+
+
+		}else{                                                        
+
+
+
+			setTimeout("typetext()", 28);                               
+
+
+
+		}                                                             
+
+
+
+	else {                                                          
+
+
+
+		c = 1;                                                        
+
+
+
+		tickerText = "";                                              
+
+
+
+	}	                                                              
+
+
+
+}                                                                 
+
+
+
+  </script> 
+
+<script type="text/javascript" src="http://www.google.com/cse/query_renderer.js"></script>
+</head><body><div id="queries"></div>
+<script src="http://www.google.com/cse/api/partner-pub-6945913973620009/cse/9001584757/queries/js?oe=UTF-8&amp;callback=(new+PopularQueryRenderer(document.getElementById(%22queries%22))).render"></script>
+			
+
+	
+ 
+  	<link rel="alternate" type="application/rss+xml" title="SongsVibe - Download Free Hindi MP3 Songs - Listen - Play >> » Privacy Comments Feed" href="http://www.songsvibe.in/privacy/feed/">
+<link rel="stylesheet" id="wp-postratings-css" href="http://www.songsvibe.in/wp-content/plugins/wp-postratings/postratings-css.css?ver=1.50" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://www.songsvibe.in/wp-content/plugins/contact-form-7/styles.css?ver=3.0.1" type="text/css" media="all">
+<script type="text/javascript" src="http://www.songsvibe.in/wp-includes/js/l10n.js?ver=20101110"></script>
+<script type="text/javascript" src="http://www.songsvibe.in/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<script type="text/javascript" src="http://www.songsvibe.in/wp-includes/js/jquery/jquery.js?ver=1.6.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.songsvibe.in/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.songsvibe.in/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="SongsVibe – Download Free Hindi MP3 Songs – Listen – Play >>" href="http://www.songsvibe.in/">
+<link rel="prev" title="Disclaimer" href="http://www.songsvibe.in/disclaimer/">
+<link rel="next" title="0 – 9" href="http://www.songsvibe.in/0-9/">
+<meta name="generator" content="WordPress 3.2.1">
+
+<!-- All in One SEO Pack 1.6.13.4 by Michael Torbert of Semper Fi Web Design[219,326] -->
+<meta name="description" content="Privacy Policy Of Songsvibe.in What information do we collect? We collect information from you when you register on our site or subscribe to our feeds ,">
+<link rel="canonical" href="http://www.songsvibe.in/privacy/">
+<!-- /all in one seo pack -->
+<script type="text/javascript">
+	//<![CDATA[
+	jQuery(document).ready(function(){
+	jQuery(".fb_share_no_count .fb_share_count_inner").text("9");
+	jQuery(".fb_share_no_count").removeClass("fb_share_no_count");
+	});
+	//]]>
+</script>
+<meta property="fb:admins" content="816334590">
+<meta property="fb:page_id" content="107477609311706">
+<meta property="og:site_name" content="SongsVibe - Download Free Hindi MP3 Songs - Listen - Play &amp;gt;&amp;gt;">
+<meta property="og:type" content="website">
+<meta property="og:image" content="">
+<meta property="og:title" content="Privacy">
+<meta property="og:url" content="http://www.songsvibe.in/privacy/">
+  
+
+      <link href="http://fonts.googleapis.com/css?family=Arvo" rel="stylesheet" type="text/css">
+
+       <link href="http://fonts.googleapis.com/css?family=Molengo" rel="stylesheet" type="text/css">
+
+       <link href="http://fonts.googleapis.com/css?family=Droid+Serif:regular,bold&amp;subset=latin" rel="stylesheet" type="text/css">
+
+       <link href="http://fonts.googleapis.com/css?family=Droid+Sans" rel="stylesheet" type="text/css">
+
+ 
+
+
+
+
+<link rel="canonical" href="http://www.songsvibe.in/privacy/">
+
+
+
+
+
+
+
+
+
+
+<div id="wrapper">
+
+
+
+	<header><div id="topmenu">
+
+<div id="topmenuleft">
+
+			<div id="topMenu" class="ddsmoothmenu"><ul id="menu-pages" class="menu"><li id="menu-item-11593" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11593"><a href="http://www.songsvibe.in/">Home</a></li>
+<li id="menu-item-11965" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11965"><a href="http://www.songsvibe.in/get-in/">Get In</a></li>
+<li id="menu-item-11594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11594"><a href="http://www.songsvibe.in/disclaimer/">Disclaimer</a></li>
+<li id="menu-item-11596" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-9703 current_page_item menu-item-11596"><a href="http://www.songsvibe.in/privacy/">Privacy</a></li>
+<li id="menu-item-11597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11597"><a href="http://www.songsvibe.in/tos/">TOS</a></li>
+<li id="menu-item-12620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12620"><a href="http://www.songsvibe.in/register/">Register</a></li>
+<li id="menu-item-11969" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11969"><a href="http://www.songsvibe.in/contact/">Contact Us</a></li>
+</ul></div>
+</div>
+
+<div id="topmenuright">
+
+ <ul>
+ <li>
+<form action="http://www.google.co.in/cse" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-6945913973620009:9001584757">
+    <input type="hidden" name="ie" value="UTF-8">
+    <input type="text" name="q" size="32">
+    <input type="submit" name="sa" value="Search">
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">google.load("elements", "1", {packages: "transliteration"});</script>
+<script type="text/javascript" src="http://www.google.com/cse/t13n?form=cse-search-box&amp;t13n_langs=hi%2Cen"></script>
+
+<script type="text/javascript" src="http://www.google.co.in/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+
+
+      
+
+
+</li>
+
+
+</ul>
+</div>
+</div>
+
+
+
+
+
+
+
+
+ 
+
+     <div id="logowrap">
+
+     <div id="logo"><a href="http://www.songsvibe.in"><img src="http://www.songsvibe.in/logomain.png" alt="Songsvibe"></a></div>
+
+     <div id="logohead">
+<script type="text/javascript"><!--
+google_ad_client = "pub-9906183129434713";
+/* 728x90, created 11/15/11 */
+google_ad_slot = "4457985692";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+     </div>
+
+     </div>
+
+		<nav>
+
+	<div id="navigation">
+			<div id="nav" class="ddsmoothmenu1"><ul id="menu-main-1" class="menu"><li id="menu-item-13177" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13177"><a href="http://www.songsvibe.in/alphabetical/">Alphabetical</a></li>
+<li id="menu-item-13178" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13178"><a href="http://www.songsvibe.in/download/hindi-songs/category/bollywood-movies/">Bollywood</a></li>
+<li id="menu-item-13179" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13179"><a href="http://www.songsvibe.in/album/">Album</a></li>
+<li id="menu-item-13180" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13180"><a href="http://www.songsvibe.in/remixes/">Remixes</a></li>
+<li id="menu-item-13181" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13181"><a href="http://www.songsvibe.in/punjabi-songs/">Punjabi</a></li>
+<li id="menu-item-13182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13182"><a href="http://www.songsvibe.in/old-songs/">Old Songs</a></li>
+<li id="menu-item-13184" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13184"><a href="http://www.songsvibe.in/ghazals/">Ghazals</a></li>
+<li id="menu-item-13183" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13183"><a href="http://www.songsvibe.in/bhajan-kirtan/">Bhajan</a></li>
+<li id="menu-item-13185" class="menu-item menu-item-type-taxonomy menu-item-object-category arrow menu-item-13185"><a href="http://www.songsvibe.in/download/hindi-songs/category/year-wise/">Year Wise</a>
+<ul class="sub-menu">
+	<li id="menu-item-13186" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13186"><a href="http://www.songsvibe.in/download/hindi-songs/category/year-wise/1900-1940/">1900-1940</a></li>
+	<li id="menu-item-13187" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13187"><a href="http://www.songsvibe.in/download/hindi-songs/category/year-wise/1941-1950/">1941-1950</a></li>
+	<li id="menu-item-13188" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13188"><a href="http://www.songsvibe.in/download/hindi-songs/category/year-wise/1951-1970/">1951-1970</a></li>
+	<li id="menu-item-13189" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13189"><a href="http://www.songsvibe.in/download/hindi-songs/category/year-wise/1971-1980/">1971-1980</a></li>
+	<li id="menu-item-13190" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13190"><a href="http://www.songsvibe.in/download/hindi-songs/category/year-wise/1981-2000/">1981-2000</a></li>
+	<li id="menu-item-13191" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13191"><a href="http://www.songsvibe.in/download/hindi-songs/category/year-wise/2001-2010/">2001-2010</a></li>
+	<li id="menu-item-13192" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13192"><a href="http://www.songsvibe.in/download/hindi-songs/category/year-wise/2011-2020/">2011-2020</a></li>
+</ul>
+</li>
+</ul></div>
+</div>
+
+		</nav>
+</header>
+<section>    
+
+  <div id="headgal">
+
+ <div id="content">	
+
+	
+
+
+		<article class="post">
+
+	<center>	<h2>  Privacy</h2></center>
+
+		<div class="entry">
+
+			  <p><span style="text-decoration: underline;"><strong>Privacy Policy Of Songsvibe.in</strong></span></p>
+<p><strong>What information do we collect?</strong></p>
+<p>We collect information from you when you register on our site or subscribe to our feeds , RSS or Feedburner Feeds or giving a comment on any of the article..<br>
+When registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously. We will also ask you e-mail address while you get subscribed to our RSS Email Feed or Via Feedburner Feed provided at http://feeds.feedburner.in/songsvibe/ . While if you don’t wish to continue with our daily e-mail updates you can unsubscribe via link given below in the given e-mail.<br>
+Google, as a third party vendor, uses cookies to serve ads on your site.<br>
+Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.<br>
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..</p>
+<p><strong>What do we use your information for?</strong></p>
+<p>Any of the information we collect from you may be used in one of the following ways:</p>
+<p>To send periodic emails when our site gets updated. Mails are sent once a day only and we do not spam in anyway as we oppose spam. Mails will be sent from official Google FeedBurner mail Servers</p>
+<p>Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.</p>
+<p><strong>Do we use cookies?</strong></p>
+<p>Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.</p>
+<p><strong>Do we disclose any information to outside parties?</strong></p>
+<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.<br>
+Third party links</p>
+<p>Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>
+<p><strong>Online Privacy Policy Only</strong></p>
+<p>This online privacy policy applies only to information collected through our website and not to information collected offline.</p>
+<p><strong>Terms and Conditions</strong></p>
+<p>Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.songsvibe.in/tos/. We also encourage you to go through our disclaimer page also which can be found here http://www.songsvibe.in/disclaimer/</p>
+<p><strong>Your Consent</strong></p>
+<p>By using our site, you consent to our privacy policy.</p>
+<p><strong>Changes to our Privacy Policy</strong></p>
+<p>If we decide to change our privacy policy, we will update the Privacy Policy modification date below.</p>
+<p><strong>Contacting Us</strong></p>
+<p>If there are any questions regarding this privacy policy you may contact us using the information below.</p>
+<p><em>www.songsvibe.in<br>
+songsvibe(@)gmail(dot)com</em></p>
+
+			</div>
+
+
+			
+
+
+			<div class="ptags"></div>
+
+
+		</article>
+
+	
+
+<div id="related" class="clearfix">
+
+	<div id="sharemark">
+
+	<div id="cb"></div>
+
+</div>
+
+</div> <div id="cb"></div>
+
+</div>
+ 
+
+
+     </div><!-- end #content -->
+
+
+  <aside>
+<div id="sidebar">
+
+
+
+<div class="adspace-widget widget">
+		<script type="text/javascript"><!--
+google_ad_client = "pub-9906183129434713";
+/* 300x250, created 11/15/11 */
+google_ad_slot = "4290114533";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>		
+
+		<br><br></div><div class="section widget_text"><div id="sidebartitlewrapper"><h3>Songsvibe on Facebook</h3></div><div class="sectioncont">			<div class="textwidget"><iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fsongsvibe&amp;width=298&amp;colorscheme=light&amp;show_faces=true&amp;border_color=629&amp;stream=false&amp;header=false&amp;height=260" style="border: medium none; overflow: hidden; width: 298px; height: 260px;" allowtransparency="true" frameborder="0" scrolling="no"></iframe></div>
+		</div></div>		<div class="section widget_recent_entries">		<div id="sidebartitlewrapper"><h3>Latest Additions</h3></div><div class="sectioncont">		<ul>
+				<li><a href="http://www.songsvibe.in/download/hindi-songs/bollywood-movies/bas-ek-tamanna-2011/" title="Bas Ek Tamanna (2011)">Bas Ek Tamanna (2011)</a></li>
+				<li><a href="http://www.songsvibe.in/download/hindi-songs/bollywood-movies/don-2-2011/" title="Don 2 (2011)">Don 2 (2011)</a></li>
+				<li><a href="http://www.songsvibe.in/download/hindi-songs/bollywood-movies/ghost-2011/" title="Ghost (2011)">Ghost (2011)</a></li>
+				<li><a href="http://www.songsvibe.in/download/hindi-songs/punjabi-songs-2/international-village-yo-yo-honey-singh-2011/" title="International Village – Yo Yo Honey Singh (2011)">International Village – Yo Yo Honey Singh (2011)</a></li>
+				<li><a href="http://www.songsvibe.in/download/hindi-songs/remixes/everybody-on-dance-floor-13-2011/" title="Everybody On Dance Floor 13 (2011)">Everybody On Dance Floor 13 (2011)</a></li>
+				<li><a href="http://www.songsvibe.in/download/hindi-songs/bollywood-movies/jo-hum-chahein-2011/" title="Jo Hum Chahein (2011)">Jo Hum Chahein (2011)</a></li>
+				<li><a href="http://www.songsvibe.in/download/hindi-songs/bollywood-movies/ladies-vs-ricky-bahl-2011/" title="Ladies V/s Ricky Bahl (2011)">Ladies V/s Ricky Bahl (2011)</a></li>
+				<li><a href="http://www.songsvibe.in/download/hindi-songs/alphabetical-order/e/ek-ishara-hans-raj-hans-2011/" title="Ek Ishara – Hans Raj Hans (2011)">Ek Ishara – Hans Raj Hans (2011)</a></li>
+				<li><a href="http://www.songsvibe.in/download/hindi-songs/bollywood-movies/i-am-singh-2011/" title="I Am Singh (2011)">I Am Singh (2011)</a></li>
+				<li><a href="http://www.songsvibe.in/download/hindi-songs/bollywood-movies/the-dirty-picture-2011/" title="The Dirty Picture (2011)">The Dirty Picture (2011)</a></li>
+				</ul>
+		</div></div><div class="section widget_text"><div id="sidebartitlewrapper"><h3>Live Cricket Score</h3></div><div class="sectioncont">			<div class="textwidget"><center><b><script type="text/javascript">eval("document.write('<div id=\"oc-wdg-score\"><p><span id=\"oc-wdg-score-show\"><\/span><br /><small>Refresh Score >> <a href=\"http:\/\/songsvibe.in\/\" title=\"Songsvibe Cricket\">Songsvibe Cricket<\/a><\/small><\/p><\/div><script type=\"text\/javascript\">o={s:function(data){document.getElementById(\"oc-wdg-score-show\").innerHTML=data.match + \"<br \/>\" + data.score + \"<br \/>\" + data.summary;}};<\/script><script type=\"text\/javascript\" src=\"http:\/\/json-cricket.appspot.com\/score.json?callback=o.s\"><\/script>');\n");</script><div id="oc-wdg-score"><p><span id="oc-wdg-score-show"></span><br><small>Refresh Score &gt;&gt; <a href="http://songsvibe.in/" title="Songsvibe Cricket">Songsvibe Cricket</a></small></p></div><script type="text/javascript">o={s:function(data){document.getElementById("oc-wdg-score-show").innerHTML=data.match + "<br />" + data.score + "<br />" + data.summary;}};</script><script type="text/javascript" src="http://json-cricket.appspot.com/score.json?callback=o.s"></script><b></b></b></center></div><b><b>
+		</b></b></div></div><b><b>
+
+			</b></b></div><!-- end #r-sidebar --><b><b>
+
+
+		</b></b></aside><b><b>  
+
+	</b></b></section><b><b>
+
+</b></b></div><!-- #wrapper --><b><b>
+
+	<footer>
+
+   
+
+ <div id="footer2">  <div id="footerwrapper2"> 
+
+<div id="fotnav">
+
+		 	<ul id="fnav">  <center> 
+
+
+      </center>	</ul> 
+
+         	</div> 
+
+      <div id="fotbot">
+
+      <div class="fotlogoleft"> 
+
+        <div class="fotcopy">
+
+   © 2010 All Rights Reserved - All Rights Reserved 
+
+        </div>     
+
+		  </div>
+
+	   	<div class="fotlogoright">
+
+	   	 <ul id="skyline"> 
+
+<li id="pad1">  <a href="http://www.facebook.com/songsvibe"><img src="http://www.songsvibe.in/wp-content/themes/songsvibe/images/fot-fb.png" alt="Become a Fan!"></a></li>
+
+<li id="pad1">  <a href="http://twitter.com/songsvibe"><img src="http://www.songsvibe.in/wp-content/themes/songsvibe/images/fot-twitter.png" alt="Follow On Twitter"></a></li>
+
+<li id="pad1"> <a href="http://feeds.feedburner.com/songsvibe"><img src="http://www.songsvibe.in/wp-content/themes/songsvibe/images/fot-feed.png" alt="Subcribe to Our RSS Feed"></a></li>
+
+<li>
+
+      	<form method="get" id="footersearch" action="http://www.songsvibe.in/">
+
+			           <input type="text" name="s" value="Search News - Enter Keyword" onblur="if(this.value=='') this.value='Search News - Enter Keyword';" onfocus="if(this.value=='Search News - Enter Keyword') this.value='';" id="s">
+
+			<input type="submit" value=" " id="searchsubmit">
+
+		   </form> 
+
+</li>  
+
+     
+
+       </ul>
+
+	   	</div>
+    	<div id="cb"></div>
+
+   </div>
+
+  </div>   
+
+	</div></footer>
+
+<div>
+<center><a href="http://www.songsvibe.in/?iphone">Switch to mobile site</a></center>
+</div>
+
+<div align="CENTER">
+<!-- Histats.com  START  (standard)-->
+<script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script><script src="http://s10.histats.com/js15.js" type="text/javascript"></script>
+<a href="http://www.histats.com" target="_blank" title="counter hit xanga"><script type="text/javascript">
+try {Histats.start(1,1615092,4,601,110,30,"00011111");
+Histats.framed_page();
+Histats.track_hits();} catch(err){};
+</script></a>
+<noscript><a href="http://www.histats.com" target="_blank"><img  src="http://sstatic1.histats.com/0.gif?1615092&101" alt="counter hit xanga" border="0"></a></noscript>
+<!-- Histats.com  END  --></div>
+
+<script type="text/javascript" src="http://www.songsvibe.in/wp-content/plugins/contact-form-7/jquery.form.js?ver=2.52"></script>
+<script type="text/javascript" src="http://www.songsvibe.in/wp-content/plugins/contact-form-7/scripts.js?ver=3.0.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ratingsL10n = {
+	plugin_url: "http://www.songsvibe.in/wp-content/plugins/wp-postratings",
+	ajax_url: "http://www.songsvibe.in/wp-content/plugins/wp-postratings/wp-postratings.php",
+	text_wait: "Please rate only 1 post at a time.",
+	image: "stars_crystal",
+	image_ext: "gif",
+	max: "5",
+	show_loading: "1",
+	show_fading: "1",
+	custom: "0"
+};
+var ratings_mouseover_image=new Image();ratings_mouseover_image.src=ratingsL10n.plugin_url+"/images/"+ratingsL10n.image+"/rating_over."+ratingsL10n.image_ext;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.songsvibe.in/wp-content/plugins/wp-postratings/postratings-js.js?ver=1.50"></script>
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23188450-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</b></b></body></html>
