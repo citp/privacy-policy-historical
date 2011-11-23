@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the caplay.com privacy policy that was archived on 2010-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101003213504id_/http%3A//www.caplay.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caplay.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124004050id_/http%3A//www.caplay.com/index.php/About/index/id/3) for the most accurate reproduction.*
 
-# Privacy Policy
+# PrivacyAbout -Caplay | Play it Immediately
 
-**Privacy Policy**
-
-  
 Welcome to CAPLAY.com!  
 
 
@@ -26,7 +23,7 @@ There are two kinds of information that CAPLAY.com can obtain about you: “Anon
 When we collect Personally Identifiable Information from you, you will have the opportunity to “opt in” to receive email or other digital communications from us and/or our business partners.
 
   
-If you have submitted your personal information to **CAPLAY**.com, you may correct, amend or delete the Personally Identifiable Information maintained on file about you if it is incorrect.
+If you have submitted your personal information to **  CAPLAY**.com, you may correct, amend or delete the Personally Identifiable Information maintained on file about you if it is incorrect.
 
   
 In all cases, we will only use your information as permitted by law. Notwithstanding any other provision of this Privacy Policy, however, we may disclose Personally Identifiable Information to others if we are required to do so by law or we in good faith believe that such action is necessary to (a) comply with the law or with legal process; (b) protect and defend our rights and property; (c) protect against misuse or unauthorized use of the Site; or (d) protect the personal safety or property of our users or the public. Please note that we may not provide you with notice prior to disclosure in such cases.
@@ -45,7 +42,7 @@ As we continue to develop our business, we may buy, merge or partner with other 
   
 **Third Party Web Sites**
 
-**CAPLAY**.com contains links to third-party Web sites not owned or controlled by **CAPLAY**.com. **CAPLAY**.com is not responsible for the privacy practices or the content of such third-party Web sites. Inclusion of any linked Web site on CAPLAY.com does not imply or express an approval or endorsement of the linked Web site by us, or of any of the content, opinions, products or services provided on these Web sites. Even if an affiliation exists between CAPLAY.com and a third-party Web site, we exercise no control over linked sites. Each of these linked sites maintains its own independent privacy and data collection policies and procedures. If you visit a Web site via a link from one of our Sites, we encourage you to consult that Web site's privacy policy before providing any personal information, and whenever interacting with any such Web site.
+**CAPLAY**.com contains links to third-party Web sites not owned or controlled by  **CAPLAY**.com. **  CAPLAY**.com is not responsible for the privacy practices or the content of such third-party Web sites. Inclusion of any linked Web site on CAPLAY.com does not imply or express an approval or endorsement of the linked Web site by us, or of any of the content, opinions, products or services provided on these Web sites. Even if an affiliation exists between CAPLAY.com and a third-party Web site, we exercise no control over linked sites. Each of these linked sites maintains its own independent privacy and data collection policies and procedures. If you visit a Web site via a link from one of our Sites, we encourage you to consult that Web site's privacy policy before providing any personal information, and whenever interacting with any such Web site.
 
   
 **Security**
@@ -63,8 +60,9 @@ CAPLAY.com abides by the Children Online Privacy Protection Act. In the event th
   
 **Limitation of Liability**
 
-  
-**CAPLAY.com** PROVIDES THE INFORMATION, SERVICES AND PRODUCTS ON THIS WEB SITES “AS IS” WITHOUT WARRANTIES OF ANY KIND. YOU AGREE THAT CAPLAY.com SHALL NOT BE RESPONSIBLE FOR ANY CONTENT FOUND ON OUR FORUMS, THAT ANY DOWNLOADING OF MATERIALS FOUND ON OR THROUGH **CAPLAY.com** FORUMS IS DONE AT YOUR OWN RISK, AND THAT **CAPLAY.com** IS NOT RESPONSIBLE FOR UNSOLICITED COMMUNICATIONS THAT ARISE FROM YOUR POSTINGS. **CAPLAY.com** SHALL NOT BE RESPONSIBLE IN ANY MANNER FOR THE ACTS OF ANY THIRD PARTY, INCLUDING WITOUT LIMITATION, ANY THIRD PARTY AD NETWORK.
+****CAPLAY.com**  provides the information, services and products on this web sites “as is” without warranties of any kind. you agree that CAPLAY.com shall not be responsible for any content found on our forums, that any downloading of materials found on or through  **CAPLAY.com**  forums is done at your own risk, and that  **CAPLAY.com**  is not responsible for unsolicited communications that arise from your postings.  **CAPLAY.com**  shall not be responsible in any manner for the acts of any third party, including witout limitation, any third party ad network.**
+
+ ****
 
   
 **Consent and Modifications to this Privacy Statement**
@@ -85,6 +83,8 @@ This Privacy Policy may change from time to time and we will post all changes on
 
 **Contacting CAPLAY.com**
 
-If you have any questions about this Privacy Statement you may contact us at: (NEEDS LINK)
-
+  
+If you have any questions about this Privacy Statement you may contact us at: (NEEDS LINK)  
+  
+  
 **This Privacy Policy is effective as of September 1, 2010 and supersedes all earlier versions of our Privacy Policy**
