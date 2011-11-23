@@ -1,15 +1,145 @@
-<!--The following is the downloaded HTML source of the centrepoint.com privacy policy that was archived on 2011-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110527062533id_/http%3A//www.centrepoint.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the centrepoint.com privacy policy that was archived on 2011-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123174108id_/http%3A//www.centrepoint.com/policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctl00_Head1"><title>
-	Privacy policy
-</title><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><link href="PageUI/Css/style.css" rel="stylesheet" type="text/css"><link href="PageUI/Css/content.css" rel="stylesheet" type="text/css"><link href="PageUI/CSS/StyleSheet.css" rel="stylesheet" type="text/css"><link rel="stylesheet" href="PageUI/Css/modal.css" type="text/css"><link rel="stylesheet" href="PageUI/Css/dhtmlwindow.css" type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=8">
+    <link rel="shortcut icon" href="/images/favicon.ico">
+    <link href="/index.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/nivo-slider/nivo-slider.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="/nivo-slider/demo/style.css" type="text/css" media="screen">
+
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="/js/jsLibrary.js"></script>
+
+    <script type="text/javascript" src="/nivo-slider/demo/scripts/jquery-1.4.3.min.js"></script>
+
+    <script type="text/javascript" src="/datepicker/Jquery-ui/jquery-ui-1.7.3.custom/js/jquery-ui-1.7.3.custom.min.js"></script>
+
+    <script type="text/javascript" src="/nivo-slider/jquery.nivo.slider.pack.js"></script>
+
+    <link type="text/css" href="/datepicker/Jquery-ui/jquery-ui-1.7.3.custom/css/custom-theme/jquery-ui-1.7.3.custom.css" rel="stylesheet">
+    <style type="text/css">
+        .ui-datepicker
+        {
+            width: 150px;
+            font-family: tahoma;
+            font-size: 11px;
+            text-align: center;
+            z-index: 1102px;
+        }
+        #ui-datepicker-div
+        {
+            z-index: 1102;
+        }
+    </style>
+
+    <script type="text/javascript">
+
+        $(window).load(function() {
+            $('#slider').nivoSlider();
+
+
+        });
+
+
+
+        $(function() {
+            var date = new Date();
+            var currentMonth = date.getMonth();
+            var currentDate = date.getDate();
+            var currentYear = date.getFullYear();
+
+            var dates = $("#ctl00_wucSearchbox1_cldCheckIn, #ctl00_wucSearchbox1_cldCheckOut").datepicker({
+                defaultDate: "null", dateFormat: "dd/mm/yy",
+                changeMonth: true,
+                changeYear: true,
+                numberOfMonths: 2,
+                showButtonPanel: true,
+                showOn: "button",
+                buttonImage: '/images/calendar.jpg',                
+                buttonImageOnly: true,
+                minDate: new Date(currentYear, currentMonth, currentDate),
+                onSelect: function(selectedDate) {
+                    var option = this.id == "ctl00_wucSearchbox1_cldCheckIn" ? "minDate" : "maxDate", instance = $(this).data("datepicker");
+                    date = $.datepicker.parseDate(instance.settings.dateFormat || $.datepicker._defaults.dateFormat, selectedDate, instance.settings);
+
+                    if (this.id == 'ctl00_wucSearchbox1_cldCheckIn') {
+                        var month2 = date.getMonth();
+                        var day2 = date.getDate() + 1;
+                        var year2 = date.getFullYear();
+                        var date2 = new Date(year2, month2, day2);
+                        dates.not(this).datepicker("option", option, date2);
+
+                    }
+
+                    var checkin = $("#ctl00_wucSearchbox1_cldCheckIn").datepicker("getDate");
+                    var checkout = $("#ctl00_wucSearchbox1_cldCheckOut").datepicker("getDate");
+
+                    //alert(checkin);
+                    //alert(checkout);
+                    var night = f_dateDiff("d", checkin, checkout)
+                    $("#ctl00_wucSearchbox1_txtNight").val(night);
+                }
+
+            });
+
+        });
+        function TextChange2() {
+
+            var checkin = $("#ctl00_wucSearchbox1_cldCheckIn").datepicker("getDate");
+            var checkout = $("#ctl00_wucSearchbox1_cldCheckOut").datepicker("getDate");
+            var night = $("#ctl00_wucSearchbox1_txtNight").val();
+            var date2 = fDateAdd("d", night, checkin);
+            $('#ctl00_wucSearchbox1_cldCheckOut').datepicker("setDate", date2);
+            
+            var hidden = getControl("hCheckIn");
+            var hidden2 = getControl("hCheckOut");
+            hidden.value = $("#cldCheckIn").val();
+            hidden2.value = $("#cldCheckOut").val();
+
+        }
+
+
+        
+        function isNumber(n) {
+            return !isNaN(parseFloat(n)) && isFinite(n);
+        }
+
+    </script>
+      <!-- Start google analytics-->
+
+    <script type="text/javascript">
+
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-23450408-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+
+    </script>
+
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-15799362-2']);
+        _gaq.push(['_trackPageview']);
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+    <!-- End google analytics-->
+
     
-    
-<link href="/WebResource.axd?d=miykGdK7LayCSLBIFGv03-gLmcUMx_GEX37VCCSir5aV-299PX26xqHTrCp9AC-4IJhyJ8AkDZJuGbD86ah37P3lEe2OjLZg6eSI0yhAL5RRXAIr-4ys2o_Z_T9IzmXPs1zaTSYOURR53ER52UvUpTOpvMg1&amp;t=633524472540000000" type="text/css" rel="stylesheet"></head>
+    <title>
+
+</title></head>
 <body>
-    <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTI2MTE3MDY0Nw9kFgJmD2QWAmYPZBYCAgMPZBYkAgQPZBYCZg8WBh4EaHJlZgUBLx4FdGl0bGUFBEhPTUUeBWNsYXNzBQphX3RvcF9tZW51FgJmDw8WAh4EVGV4dAUESE9NRWRkAgUPZBYCZg8WBh8ABQ4vbG9jYXRpb24uYXNweB8BBQlMT0NBVElPTlMfAgUKYV90b3BfbWVudRYCZg8PFgIfAwUJTE9DQVRJT05TZGQCBg9kFgJmDxYGHwAFGy9ob3RlbHMtc3BlY2lhbC1vZmZlcnMuYXNweB8BBQ5TUEVDSUFMIE9GRkVSUx8CBQphX3RvcF9tZW51FgJmDw8WAh8DBQ5TUEVDSUFMIE9GRkVSU2RkAgcPZBYCZg8WBh8ABREvdmlydHVhbHRvdXIuYXNweB8BBQtUQUtFIEEgVE9VUh8CBQphX3RvcF9tZW51FgJmDw8WAh8DBQtUQUtFIEEgVE9VUmRkAggPZBYCZg8WBh8ABQovbmV3cy5hc3B4HwEFEU5FV1MgJmFtcDsgRVZFTlRTHwIFCmFfdG9wX21lbnUWAmYPDxYCHwMFEU5FV1MgJmFtcDsgRVZFTlRTZGQCCQ9kFgJmDxYGHwAFDi9yZWdpc3Rlci5hc3B4HwEFFENFTlRSRSBQT0lOVCBSRVdBUkRTHwIFCmFfdG9wX21lbnUWAmYPDxYCHwMFFENFTlRSRSBQT0lOVCBSRVdBUkRTZGQCCg9kFgJmDxYGHwAFDS9iYW5na29rLmFzcHgfAQURTElWSU5HIElOIEJBTkdLT0sfAgUKYV90b3BfbWVudRYCZg8PFgIfAwURTElWSU5HIElOIEJBTkdLT0tkZAILD2QWAmYPFgYfAAUVL2NvbnRhY3QvY29udGFjdC5hc3B4HwEFCkNPTlRBQ1QgVVMfAgUKYV90b3BfbWVudRYCZg8PFgIfAwUKQ09OVEFDVCBVU2RkAgwPZBYEAgIPZBYCZg9kFg4CAQ8QDxYCHgtfIURhdGFCb3VuZGdkEBUJG1BsZWFzZSBzZWxlY3QgeW91ciBsb2NhdGlvbgxQRVRDSEJVUkkgMTUMU1VLSFVNVklUIDEwBVNJTE9NCExBTkdTVUFODVdJUkVMRVNTIFJPQUQJU0FMQURBRU5HElNVS0hVTVZJVC1USE9ORyBMTwtSQVRDSEFEQU1SSRUJAAI4NwI4OAI4OQI5MAI5MQI5MgI5MwI5NBQrAwlnZ2dnZ2dnZ2cWAWZkAgUPEGQQFQoBMQEyATMBNAE1ATYBNwE4ATkCMTAVCgExATIBMwE0ATUBNgE3ATgBOQIxMBQrAwpnZ2dnZ2dnZ2dnZGQCBw8QZBAVCgExATIBMwE0ATUBNgE3ATgBOQIxMBUKATEBMgEzATQBNQE2ATcBOAE5AjEwFCsDCmdnZ2dnZ2dnZ2dkZAIJDxBkEBUGATABMQEyATMBNAE1FQYBMAExATIBMwE0ATUUKwMGZ2dnZ2dnZGQCCw9kFghmDw8WAh4JTWF4TGVuZ3RoZhYCHgZvbmJsdXIFX3JldHVybiBjdGwwMF9jdGwwMF9DUEhfVE9QX0RFVEFJTF90eHRDaGtJbl9DaGVja0RhdGUoJ2N0bDAwX2N0bDAwX0NQSF9UT1BfREVUQUlMX3R4dENoa0luX1VjJyk7ZAICDw8WAh4HVmlzaWJsZWhkZAIDDxYCHhxPbkNsaWVudERhdGVTZWxlY3Rpb25DaGFuZ2VkBQ9vblNlbGVjdGVkQ2hrSW5kAgQPFhgeDklucHV0RGlyZWN0aW9uCymKAUFqYXhDb250cm9sVG9vbGtpdC5NYXNrZWRFZGl0SW5wdXREaXJlY3Rpb24sIEFqYXhDb250cm9sVG9vbGtpdCwgVmVyc2lvbj0zLjAuMTExMTkuMjg5NTMsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49MjhmMDFiMGU4NGI2ZDUzZQAeIEN1bHR1cmVDdXJyZW5jeVN5bWJvbFBsYWNlaG9sZGVyBQEkHg5BY2NlcHROZWdhdGl2ZQsphgFBamF4Q29udHJvbFRvb2xraXQuTWFza2VkRWRpdFNob3dTeW1ib2wsIEFqYXhDb250cm9sVG9vbGtpdCwgVmVyc2lvbj0zLjAuMTExMTkuMjg5NTMsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49MjhmMDFiMGU4NGI2ZDUzZQAeFkN1bHR1cmVUaW1lUGxhY2Vob2xkZXIFAToeDERpc3BsYXlNb25leQsrBQAeEUN1bHR1cmVEYXRlRm9ybWF0BQNNRFkeFkN1bHR1cmVEYXRlUGxhY2Vob2xkZXIFAS8eC0N1bHR1cmVOYW1lBQVlbi1VUx4bQ3VsdHVyZVRob3VzYW5kc1BsYWNlaG9sZGVyBQEsHhZDdWx0dXJlQU1QTVBsYWNlaG9sZGVyBQVBTTtQTR4KQWNjZXB0QW1QbWgeGUN1bHR1cmVEZWNpbWFsUGxhY2Vob2xkZXIFAS5kAg0PZBYIZg8PFgIfBWYWAh8GBWFyZXR1cm4gY3RsMDBfY3RsMDBfQ1BIX1RPUF9ERVRBSUxfdHh0Q2hrT3V0X0NoZWNrRGF0ZSgnY3RsMDBfY3RsMDBfQ1BIX1RPUF9ERVRBSUxfdHh0Q2hrT3V0X1VjJyk7ZAICDw8WAh8HaGRkAgMPFgIeCkJlaGF2aW9ySUQFCENoZWNrT3V0ZAIEDxYYHwkLKwQAHwoFASQfCwsrBQAfDAUBOh8NCysFAB8OBQNNRFkfDwUBLx8QBQVlbi1VUx8RBQEsHxIFBUFNO1BNHxNoHxQFAS5kAg8PD2QWAh4Hb25jbGljawURcmV0dXJuIENoa1ZhbGlkKClkAgMPZBYCZg9kFgICAw8PFgIfB2dkFgQCBw9kFgJmDxYIHwAFFS9mb3JnZXQtcGFzc3dvcmQuYXNweB8BBQ9Gb3JnZXQgUGFzc3dvcmQfAmUfFgUVcmV0dXJuIEZvcmdvdENsaWNrKCk7FgJmDw8WAh8DBQ9Gb3JnZXQgUGFzc3dvcmRkZAIJD2QWAmYPFgYfAAUQL1JlZ2lzdGVyLmFzcHgjMR8BBQhKb2luIE5vdx8CZRYCZg8PFgIfAwUISm9pbiBOb3dkZAITD2QWAmYPFgYfAAUfL2Jhbmdrb2stYXBhcnRtZW50cy9wZXRjaGFidXJpLx8BBRlDZW50cmUgUG9pbnQgUGV0Y2hidXJpIDE1HwJlFgJmDw8WAh8DBRlDZW50cmUgUG9pbnQgUGV0Y2hidXJpIDE1ZGQCFA9kFgJmDxYGHwAFHi9iYW5na29rLWFwYXJ0bWVudHMvc3VraHVtdml0Lx8BBRlDZW50cmUgUG9pbnQgU3VraHVtdml0IDEwHwJlFgJmDw8WAh8DBRlDZW50cmUgUG9pbnQgU3VraHVtdml0IDEwZGQCFQ9kFgJmDxYGHwAFGi9iYW5na29rLWFwYXJ0bWVudHMvc2lsb20vHwEFEkNlbnRyZSBQb2ludCBTaWxvbR8CZRYCZg8PFgIfAwUSQ2VudHJlIFBvaW50IFNpbG9tZGQCFg9kFgJmDxYGHwAFHS9iYW5na29rLWFwYXJ0bWVudHMvbGFuZ3N1YW4vHwEFFUNlbnRyZSBQb2ludCBMYW5nc3Vhbh8CZRYCZg8PFgIfAwUVQ2VudHJlIFBvaW50IExhbmdzdWFuZGQCFw9kFgJmDxYGHwAFHi9iYW5na29rLWhvdGVscy93aXJlbGVzcy1yb2FkLx8BBRpDZW50cmUgUG9pbnQgV2lyZWxlc3MgUm9hZB8CZRYCZg8PFgIfAwUaQ2VudHJlIFBvaW50IFdpcmVsZXNzIFJvYWRkZAIYD2QWAmYPFgYfAAUeL2Jhbmdrb2stYXBhcnRtZW50cy9zYWxhZGFlbmcvHwEFFkNlbnRyZSBQb2ludCBTYWxhZGFlbmcfAmUWAmYPDxYCHwMFFkNlbnRyZSBQb2ludCBTYWxhZGFlbmdkZAIZD2QWAmYPFgYfAAUnL2Jhbmdrb2stYXBhcnRtZW50cy9zdWtodW12aXQtdGhvbmctbG8vHwEFH0NlbnRyZSBQb2ludCBTdWtodW12aXQtVGhvbmcgTG8fAmUWAmYPDxYCHwMFH0NlbnRyZSBQb2ludCBTdWtodW12aXQtVGhvbmcgTG9kZAIaD2QWAmYPFgYfAAUbL2Jhbmdrb2staG90ZWxzL3JhY2hhZGFtcmkvHwEFGENlbnRyZSBQb2ludCBSYXRjaGFkYW1yaR8CZRYCZg8PFgIfAwUYQ2VudHJlIFBvaW50IFJhdGNoYWRhbXJpZGQCGw9kFgJmD2QWAmYPZBYCZg8WBh8ABSgvYmFuZ2tvay1hcGFydG1lbnRzL2hvdGVsLWFwYXJ0bWVudC5hc3B4HwEFCEFCT1VUIFVTHwJlFgJmDw8WAh8DBQhBQk9VVCBVU2RkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYIBRZjdGwwMCRjdGwwMCRfYnRuU2VhcmNoBSVjdGwwMCRjdGwwMCRDUEhfVE9QX0RFVEFJTCRidG5SZXNlcnZlBSRjdGwwMCRjdGwwMCRDUEhfVE9QX0RFVEFJTCRidG5TaWduSW4FF2N0bDAwJGN0bDAwJGltZ2ZhY2Vib29rBRZjdGwwMCRjdGwwMCRpbWdUd2l0dGVyBRZjdGwwMCRjdGwwMCRpbWdZb3V0dWJlBRVjdGwwMCRjdGwwMCRpbWdUcmlwYWQFE2N0bDAwJGN0bDAwJGltZ0JHSkZS5tq8WOnQ2n1CubqYIcRqvau0dQ==">
+    <form name="aspnetForm" method="post" action="policy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUIMTQyNTM3NzIPZBYCZg9kFgICAw9kFghmD2QWAgIBDw8WAh4HVmlzaWJsZWhkZAIBD2QWDAIBD2QWAmYPZBYCAgEPEGQQFQojLS0tIFBsZWFzZSBzZWxlY3QgeW91ciBsb2NhdGlvbiAtLS0WQ2VudHJlIFBvaW50IFBldGNoYnVyaRZDZW50cmUgUG9pbnQgU3VraHVtdml0EkNlbnRyZSBQb2ludCBTaWxvbRVDZW50cmUgUG9pbnQgTGFuZ3N1YW4WQ2VudHJlIFBvaW50IFNhbGFkYWVuZxpDZW50cmUgUG9pbnQgV2lyZWxlc3MgUm9hZB9DZW50cmUgUG9pbnQgU3VraHVtdml0IFRob25nLUxvH0dyYW5kZSBDZW50cmUgUG9pbnQgUmF0Y2hhZGFtcmkpR3JhbmRlIENlbnRyZSBQb2ludCBTdWtodW12aXQtVGVybWluYWwgMjEVCiMtLS0gUGxlYXNlIHNlbGVjdCB5b3VyIGxvY2F0aW9uIC0tLQExATIBMwE0ATUBNgE3ATgBORQrAwpnZ2dnZ2dnZ2dnFgFmZAICDw9kFgIeB29uZm9jdXMFDHRoaXMuYmx1cigpO2QCAw8PZBYCHwEFDHRoaXMuYmx1cigpO2QCBA8PZBYGHgdvbmtleXVwBRVyZXR1cm4gVGV4dENoYW5nZTIoKTseCm9ua2V5cHJlc3MFInJldHVybiBpc051bWJlcktleTIod2luZG93LmV2ZW50KTseBm9uYmx1cgVHaWYoKHRoaXMudmFsdWU9PScnKXx8KCh0aGlzLnZhbHVlPT0nMCcpKSl7dGhpcy52YWx1ZT0xO1RleHRDaGFuZ2UyKCk7fTtkAgUPZBYCZg9kFgYCAQ8QZGQWAWZkAgMPEGRkFgFmZAIFDxBkZBYBZmQCBg8PFgIeCEltYWdlVXJsBThodHRwOi8vd3d3LmNlbnRyZXBvaW50LmNvbS9pbWFnZXMvY2hlY2stYXZhaWxhYmlsaXR5LnBuZxYCHgdvbmNsaWNrBTNyZXR1cm4gY2hrbG9jYXRpb24oJ2N0bDAwX3d1Y1NlYXJjaGJveDFfZGRsQnJhbmNoJylkAgMPZBYCZg8PFgIfBQUzaHR0cDovL3d3dy5jZW50cmVwb2ludC5jb20vSW1hZ2VQcm9kdWN0L21lbWJlcjIuanBnFgQeC29ubW91c2VvdmVyBT50aGlzLnNyYz0naHR0cDovL3d3dy5jZW50cmVwb2ludC5jb20vSW1hZ2VQcm9kdWN0L21lbWJlcjEuanBnJx4Kb25tb3VzZW91dAU+dGhpcy5zcmM9J2h0dHA6Ly93d3cuY2VudHJlcG9pbnQuY29tL0ltYWdlUHJvZHVjdC9tZW1iZXIyLmpwZydkAgUPZBYOZg8PFgIfBQUxaHR0cDovL3d3dy5jZW50cmVwb2ludC5jb20vaW1hZ2VzL3RyaXBhZHZpc29yLmdpZhYCHwYFOHdpbmRvdy5vcGVuKCdodHRwOi8vdGgudHJpcGFkdmlzb3IuY29tLycpOyByZXR1cm4gZmFsc2U7ZAICDw8WAh8FBS5odHRwOi8vd3d3LmNlbnRyZXBvaW50LmNvbS9pbWFnZXMvZmFjZWJvb2suZ2lmFgIfBgVId2luZG93Lm9wZW4oJ2h0dHA6Ly93d3cuZmFjZWJvb2suY29tL0NlbnRyZVBvaW50QmFuZ2tvaycpOyByZXR1cm4gZmFsc2U7ZAIDDw8WAh8FBS1odHRwOi8vd3d3LmNlbnRyZXBvaW50LmNvbS9pbWFnZXMveW91dHViZS5naWYWAh8GBUh3aW5kb3cub3BlbignaHR0cDovL3d3dy55b3V0dWJlLmNvbS91c2VyL0NQSG9zcGl0YWxpdHkvJyk7IHJldHVybiBmYWxzZTtkAgQPDxYCHwUFLWh0dHA6Ly93d3cuY2VudHJlcG9pbnQuY29tL2ltYWdlcy90d2l0dGVyLmdpZhYCHwYFP3dpbmRvdy5vcGVuKCdodHRwOi8vdHdpdHRlci5jb20vQ1BIb3NwaXRhbGl0eS8nKTsgcmV0dXJuIGZhbHNlO2QCBQ8PZBYCHwYFSndpbmRvdy5vcGVuKCdodHRwOi8vY2VudHJlcG9pbnRob3NwaXRhbGl0eS53b3JkcHJlc3MuY29tLycpOyByZXR1cm4gZmFsc2U7ZAIGDw8WAh8FBTBodHRwOi8vd3d3LmNlbnRyZXBvaW50LmNvbS9pbWFnZXMvaW1nLXFobG9nby5qcGcWAh8GBTF3aW5kb3cub3BlbignaHR0cDovL3d3dy5xaC5jby50aCcpOyByZXR1cm4gZmFsc2U7ZAIHDw8WAh8FBTJodHRwOi8vd3d3LmNlbnRyZXBvaW50LmNvbS9pbWFnZXMvaW1nLWNzc3Nsb2dvLmpwZxYCHwYFOHdpbmRvdy5vcGVuKCdodHRwOi8vd3d3LmNhc2FzZWFzaWRlLmNvbScpOyByZXR1cm4gZmFsc2U7ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WCQUdY3RsMDAkd3VjU2VhcmNoYm94MSRidG5TZWFyY2gFHWN0bDAwJHd1Y21lbnUxJGJ0bk1lbWJlckxvZ2luBRtjdGwwMCR3dWNmb290ZXIxJGJ0bkFkdmlzb3IFHGN0bDAwJHd1Y2Zvb3RlcjEkYnRuZmFjZWJvb2sFG2N0bDAwJHd1Y2Zvb3RlcjEkYnRuWW91dHViZQUbY3RsMDAkd3VjZm9vdGVyMSRidG50d2l0dGVyBRhjdGwwMCR3dWNmb290ZXIxJGJ0bmJsb2cFGmN0bDAwJHd1Y2Zvb3RlcjEkYnRuUUhMb2dvBRxjdGwwMCR3dWNmb290ZXIxJGJ0bkNTU1NMb2dvVqKR3kZnAr579TH8VV8vw/Cr1oM=">
 
 
 <script src="/ScriptResource.axd?d=ShNaFJrIfuLZZhyIlO1XFRPMKzNyhziVuEGcP6AZaRLdDCxlPsP0gJ2fNBZ6AW3LnFSzKLtxKlNtYSSWdAjFSzl_tCynArhAImbhIKZomHT8cwiX3k5fCJHm1__y-5JuSs9Ve5Xt7nu6SMmb3CkCWTh3IDsaGypYiZe_PeTiLsMYbpDl0&amp;t=fffffffffbeed726" type="text/javascript"></script>
@@ -19,1033 +149,527 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 //]]>
 </script>
 
-<script src="/ScriptResource.axd?d=5z_g0p3B-iOyiQEArpAnxhBR5I2nRaZP41_l-iRjgara-ybBIRgq93NUqobR52i6TQ_xgDLKjjR_g_cJrwISlCz-eJM4FbMPORD-zo_aBFUM5V0LRoeZY1gt1tQvpwZfJl0MM8hSo8LLTXitak3J0cen3xY1&amp;t=ffffffffbe8b6183" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=TgTBZyMT-c7USQYcURUJhVA4zJxERDzCGKlZs7NTXnW4PqBelPRRgMfxbH642lLbwl21Y8OlTwAzs-qrwKkeKAvuTFwKvUeo1QYmBWrrs-o7B78p8XVggayQkV3A1jpaJTk7hm_sfL5CoU6rMiVNYcHJ5o81&amp;t=ffffffffbe8b6183" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=c-VrT8uD2xF6NIv7UFYvYKEhsctuDDK2LOPpBhcNTTmvTSkAPtI6T85dkO7CvjzqOWLWC-wveqbR2t4Nniiiie8uw_crFjsN09-kGvKBQna9FgSi6wprpkCE5RI4wc9oZkb9cx5K4I1JhmvHLUsD7xDF3zA1&amp;t=ffffffffbe8b6183" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=v8TYL52t9UIx_sPbjeJc8UXueZbIdfCtAxU1qibV2F525e9UQMsIjp_-IBJ_-ynHU4UACekTjOdODEzspp7VagP0qHTbp_T-ufNCr6fMMUl24fSxBm9jzrMj89G5SZ6sWX4P5yLht5ck8avTSCdeOxXvnvo1&amp;t=ffffffffbe8b6183" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=WKFTWGaO1MNopBcERbdD9ohVzV2a5ZegpUkKa13gTQJlEZsKyet22sxj4TNdJnQG4-bg0MnAor5ulYxm1NAJQEDCQ_gw35A9gJm_9D16TSlTMiWq2Xk-bdBDXKc4q0pkZw-FChT6A4yGpn_ZCXLtDtTqte81&amp;t=ffffffffbe8b6183" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=-3SGg2a_bbaI1327YHqCIN6-jflQaHPUtKH_afAu_OuGDYGWfWrx3eiFjxo4fliXkyIaw7yZg83xvMmy-wLjtofqDKSrKFm0G88sNIQwROJ3ok13tx_azTcULus9u03ovOAvsn9-7anIaLtcvjYpjuwMveE1&amp;t=ffffffffbe8b6183" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=fwDwzlR5Omsa9eY0UtNoWYqEa5Kc4IhlfKSKT27uw7aaLfOwMjrluwtJnP4twB4G3zLAP7qQrxtO6mZUQtN8hBHwcbwhY9BE8o3xHsZQjNgGZAFoisbfLZzbecEwDvX2D8FDzSgvk82iVjJpqdUE11mM60c1&amp;t=ffffffffbe8b6183" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=arugJcJYMuUY1y3Zbt90sSbsH8EdE_S4WnT6L9yb1qnAQkyC2D3GLxk-q9fRV_LvgnZ84acQm0YtfVzEdEIAjYfB876lET6fOS_-l5A6vS3DrwjuLNqtQLv7NCAMVtSodJiFbu1siGrp2EnkKeB8fhB2L241&amp;t=ffffffffbe8b6183" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=x1vKpjiJpekP36DDNYdeOf4J8Hpk327eFM4uwGK0AIESD-0IK83Mr7FNyGK9PPuuNp6bKtYNKVZYPcXqcVA4lk5XxEcwpBryf7KD9eX08oZfZsgbnJGLvi4eghqVQSSJqp0_On8NIotV2tSIiy0BYY3MuIg1&amp;t=ffffffffbe8b6183" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=ySmM9d44apnNMkm-XL48RNavIB3N-UDk-NCRJA1vfTryPBJPW_840metM27mWpesqt9rdHdKDqh0RQ32Q8RgFPbcwMZbl-WdxQ7QB30YBSlHldaQwm2oM6WWbKAZPFDiqbaKYNvcqx9NgurQSYT204eKHxNX4n7XKCTpVjrP4T6ZVQGg0&amp;t=ffffffffbe8b6183" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=ULxg4CiBsODnJCQAelHeRW_d-jo1ayjU--sES4-rWBTGA3aly8sR8tCA_BpWwQcdMezfGeV2PPRU7aexnaX_vXaQZQfGPbGX1nQWKRXYLEOD_7XeBPD9UjOqXTh-yNqpSFEVOUtzdkZmTwIs30mQSJpNmcfdneidifCN0H2tQOJ_KTdx0&amp;t=ffffffffbe8b6183" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=yRuXwowjoSMlQHcezYCrUa7Bs-jea9I2LoZjDc43pv9VPRUh-rlJ3fbaQEco9RYgBHr9B-rXJzQShtWpbekL2D8aTvFp0efEMhoJH8iHTB6Eg688Zd2NwlnCytddddQ4yE9IzVza99mAL6hv34N9I56U5m9BH5WuECwtgqaN41zXWqy10&amp;t=ffffffffbe8b6183" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=rat6jvporpKMNPkV8dGeDC51mW3N__o7h0kBeBZqPEjsuMb1TPN24_d9kUUrkk6eXm3skUtJZWetwTAvm5Rc-WOsBKAoebZAooiIuDftswqy_W1lgklW6-hTzd21yeH092XfnoOBncQq9Jqb2M8kZ2i9SIYBpLrJj59bx4qrB5hQ1KaL0&amp;t=ffffffffbe8b6183" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=BximTfmcLyXD7wqTZHWm99UTvlU5DEsF0ZU3rcw_kz1Ouo2VXazfO06XznlZB6Xj2dKywSFvqpl-3YiSCHCh5-JfXviyACezCC7hbCMWtmJfVAhA8-X3qGWcsn-uzSy78cOGFNP-ABDbhv-jaqUed0-OB35g667ma9tW6FQJ985o31Hi0&amp;t=ffffffffbe8b6183" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=s51JlcgE1EWwIQTU3OTsgSz7AMqur5LYZOg1TxXxrvBH-fq1jIblLb-sZPR-cuvRoF7kaV1Y_7BueYp2OXyVwcJLPdGDUMvq1vKcP7vRhEoJSElL0rhGYwRTWx_3v4Ah-6KiGoojRGD7YUywAn5hc2Y3E73WZiHotOwqJEf1Zu1lIb1a0&amp;t=ffffffffbe8b6183" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=42ntATLCBHDYt9WEjJ4MG00OCmXW_xeHjRTX5gE413ypjSw8Sj-s9cmybavg3M8NBUbuk3jiMH6XkJMEYYimIradfnVu1MdvkKzS-B1jerU1Fz61_31Lk7Aymt0eEUdRwVGCAQcrVsHoH0092oLj-cjdoZo1&amp;t=ffffffffbe8b6183" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=FXkCWVn_v4taF--U3EzwHtOahJiGMFdZUntKmrAjHOfKs1z53jQYMOn8DLFQ5S6180RPWymZVTQnlyfnqfEqBHy83d15jBaa_UKJl5bZQqcWidfJ4mj2LIaa4mjSGw-U2vgT18_Pm8ydUGNP6Piv618yDYduE7pQbQdjg0AcGsqqCQjj0&amp;t=ffffffffbe8b6183" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWQQLalfXKBQKN0vWUBwLHy9eJAQKu56jsCAK9lel4AqX6p5UMAqX645YMAqX675YMAqr6g5UMAqr6j5UMAqr6i5UMAqr6t5UMAqr6s5UMApTvjeQCAqbXkbUDAqfXkbUDAqTXkbUDAqXXkbUDAqLXkbUDAqPXkbUDAqDXkbUDArHXkbUDAr7XkbUDAqbX0bYDAuPg85AJAuLg85AJAuHg85AJAuDg85AJAufg85AJAubg85AJAuXg85AJAvTg85AJAvvg85AJAuPgs5MJArKJv7ALAq2Jv7ALAqyJv7ALAq+Jv7ALAq6Jv7ALAqmJv7ALAuzQpowLAp2xnJoKAtfthOYDAte+w8oDAqP9xqoIArDmkLcKAq+8lf4CAvfGl+wHAqGuyOkHAsrDgpcHAv+R/ccPAuW7tOoDAuW7uOoDAuW7vOoDAuW7oOoDAuW7pOoDApCctq8LAtHIkdoBApPFlJkDAqLZ7esOAvOW4MIFArmVk9MCApibj5IMAou5zoUKAqHc1agBIm+1fU5s59OL/KptPjIXzsAWC2E=">
-    
-    <script src="/PageUI/js/dhtmlwindow.js" type="text/javascript"></script><div id="dhtmlwindowholder"><span style="display:none">.</span></div>    
-    <script src="/PageUI/js/modal.js" type="text/javascript"></script><div id="interVeil"></div>        
-    <script src="/Script/AC_RunActiveContent.js" type="text/javascript"></script>
-    <script src="/Script/SetCombo.js" type="text/javascript"></script>
-    <script type="text/javascript">
-            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-    <script type="text/javascript">
-        try {
-            var pageTracker = _gat._getTracker("UA-12184970-1");
-            pageTracker._trackPageview();
-        } catch (err) { }</script>
-    <!-- START OF SmartSource Data Collector TAG -->
-    <!-- Copyright (c) 1996-2009 WebTrends Inc.  All rights reserved. -->
-    <!-- Version: 8.6.2 -->
-    <!-- Tag Builder Version: 3.0  -->
-    <!-- Created: 12/14/2009 -->
-    <script src="/PageUI/js/webtrends.js" type="text/javascript"></script>
-    <!-- ----------------------------------------------------------------------------------- -->
-    <!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
-    <!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
-    <!-- ----------------------------------------------------------------------------------- -->
-    <script type="text/javascript">
-        //<![CDATA[
-        var _tag = new WebTrends();
-        _tag.dcsGetId();
-        //]]>>
-    </script><script type="text/javascript" src="https://sdc.inetasia.com/dcs47cuxoticfvq8argco5by0_1l9e/wtid.js"></script>
-    <script type="text/javascript">
-        //<![CDATA[
-        // Add custom parameters here.
-        //_tag.DCSext.param_name=param_value;
-        _tag.dcsCollect();
-        //]]>>
-    </script>
-    <noscript>
-    <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://sdc.inetasia.com/dcs47cuxoticfvq8argco5by0_1l9e/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.2"/></div>
-    </noscript>
-    <!-- END OF SmartSource Data Collector TAG --> 
-    <script language="javascript" type="text/javascript">
-        function ChkEmailSend()
-        {
-            var tmpReturn;
-            tmpReturn = true;
-                           
-            if ($get('ctl00_ctl00_txtFromEmail').value == "") 
-            {
-                alert('Please type From Email');
-                $get('ctl00_ctl00_txtFromEmail').focus();
-                return false;
-            }          
-        
-
-            if ($get('ctl00_ctl00_txtTo1').value == "")
-            {
-                alert('Please type To Email');
-                $get('ctl00_ctl00_txtTo1').focus();
-                return false;
-            } 
-         
-            if (tmpReturn == true)
-            {
-                return true;
-            }   
-        }
-    </script>
-
-    <div>
-        <div class="mainpage_center">
-            <!--HEADER BEGIN -->
-            <div class="main_header">
-                <div class="content2colum">
-                    <table width="100%" cellpadding="0" cellspacing="0" border="0">                        
-                        <tbody><tr>
-                            <td>
-                                    <div class="logo_header">
-                                        <img src="PageUI/Images/MasterImage/logo.gif" id="ctl00_ctl00_Img1" onmousemove="this.style.cursor='hand'" alt="The Leader in Serviced Residences and Hotels" onclick="window.location.replace('http://www.centrepoint.com')">                        
-                                    </div>
-                            </td>
-                            <td valign="bottom">
-                                <p>
-                                    <font size="3">The Leader in Serviced Residences and Hotels </font>
-                               </p>
-                            </td>
-                            <td> 
-                                <table width="100%" cellpadding="0" cellspacing="0">
-                                    <tbody><tr><td align="right" style="margin-top:15px"><img src="PageUI/Images/jap_flag_gif.jpg" id="ctl00_ctl00_Img3" onmousemove="this.style.cursor='hand'" onclick="window.location.replace('http://www.centrepoint.com/japan/')">&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
-                                    <tr><td align="right" style="margin-top:15px">Local time :May 27, 13:25:30&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
-                                    <tr><td align="right" style="margin-top:15px"><a href="/Tripadvisor.aspx">Guest comment powered by Tripadvisor</a>&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
-                                </tbody></table>                                  
-                            </td>
-                        </tr>
-                    </tbody></table>
-                </div>
-                <div style="clear: both">
-                </div>
-                <div id="ctl00_ctl00_pnlSearch">
-	
-                    <div class="search_header" align="right">
-                        SEARCH
-                        <input name="ctl00$ctl00$q" type="text" maxlength="512" id="ctl00_ctl00_q" class="txtsearch">
-                        <input type="image" name="ctl00$ctl00$_btnSearch" id="ctl00_ctl00__btnSearch" border="0" align="absmiddle" src="PageUI/Images/MasterImage/btn_search.gif">
-                    </div>
-                    <!-- Emulated Google CSE Search Box Begins -->
-                    <input type="hidden" name="ctl00$ctl00$cof" id="ctl00_ctl00_cof" value="FORID:9">
-                    <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_014373149466545347614%3Adygl7dqicp4"></script>
-                    <input name="dummyHidden" value="" style="visibility: hidden; display: none;">
-                    <!-- Emulated Google CSE Search Box Ends -->
-                
-</div>
-            </div>
-            <!--HEADER END -->
-            <!--MENU BEGIN -->
-            <div class="top_menu" align="center">
-                <a href="/" id="ctl00_ctl00_lnkHome_Uc" onmouseover="this.style.cursor='hand'" title="HOME" class="a_top_menu"><span id="ctl00_ctl00_lnkHome_lblAhref" style="display:inline-block;">HOME</span></a>
-
-                <a href="/location.aspx" id="ctl00_ctl00_lnkLocation_Uc" onmouseover="this.style.cursor='hand'" title="LOCATIONS" class="a_top_menu"><span id="ctl00_ctl00_lnkLocation_lblAhref" style="display:inline-block;">LOCATIONS</span></a>
-
-                <a href="/hotels-special-offers.aspx" id="ctl00_ctl00_lnkSpecial_Uc" onmouseover="this.style.cursor='hand'" title="SPECIAL OFFERS" class="a_top_menu"><span id="ctl00_ctl00_lnkSpecial_lblAhref" style="display:inline-block;">SPECIAL OFFERS</span></a>
-
-                <a href="/virtualtour.aspx" id="ctl00_ctl00_lnkVirtualTours_Uc" onmouseover="this.style.cursor='hand'" title="TAKE A TOUR" class="a_top_menu"><span id="ctl00_ctl00_lnkVirtualTours_lblAhref" style="display:inline-block;">TAKE A TOUR</span></a>
-
-                <a href="/news.aspx" id="ctl00_ctl00_lnkNews_Uc" onmouseover="this.style.cursor='hand'" title="NEWS &amp;amp; EVENTS" class="a_top_menu"><span id="ctl00_ctl00_lnkNews_lblAhref" style="display:inline-block;">NEWS &amp; EVENTS</span></a>
-
-                <a href="/register.aspx" id="ctl00_ctl00_lnkRewards_Uc" onmouseover="this.style.cursor='hand'" title="CENTRE POINT REWARDS" class="a_top_menu"><span id="ctl00_ctl00_lnkRewards_lblAhref" style="display:inline-block;">CENTRE POINT REWARDS</span></a>
-
-                <a href="/bangkok.aspx" id="ctl00_ctl00_lnkLiveBangkok_Uc" onmouseover="this.style.cursor='hand'" title="LIVING IN BANGKOK" class="a_top_menu"><span id="ctl00_ctl00_lnkLiveBangkok_lblAhref" style="display:inline-block;">LIVING IN BANGKOK</span></a>
-
-                <a href="/contact/contact.aspx" id="ctl00_ctl00_lnkContact_Uc" onmouseover="this.style.cursor='hand'" title="CONTACT US" class="a_top_menu"><span id="ctl00_ctl00_lnkContact_lblAhref" style="display:inline-block;">CONTACT US</span></a>
-                
-            </div>
-            <!--MENU END -->
-            <!--CONTENT BEGIN -->
-            
-
-    <script language="javascript" type="text/javascript">   
-        function ChkValid() {
-            var tmpReturn;
-            tmpReturn = true;
-                           
-            if ($get('ctl00_ctl00_CPH_TOP_DETAIL_cboProperty').value == "") 
-            {
-                alert('Please select Properties Name');
-                $get('ctl00_ctl00_CPH_TOP_DETAIL_cboProperty').focus();
-                return false;
-            }
-            
-            if ($get('ctl00_ctl00_CPH_TOP_DETAIL_txtChkIn' + '_Uc').value == "") 
-            {
-                alert('Please insert Check In Date');
-                $get('ctl00_ctl00_CPH_TOP_DETAIL_txtChkIn' + '_Uc').focus();
-                return false;
-            }
-            
-            if ($get('ctl00_ctl00_CPH_TOP_DETAIL_txtChkOut' + '_Uc').value == "") 
-            {
-                alert('Please insert Check Out Date');
-                $get('ctl00_ctl00_CPH_TOP_DETAIL_txtChkOut' + '_Uc').focus();
-                return false;
-            }
-            
-            var sDate;
-            var eDate;
-            
-            sDate = $get('ctl00_ctl00_CPH_TOP_DETAIL_txtChkIn' + '_Uc').value;     
-            sDate = GetToken(sDate,3,"/") + GetToken(sDate,2,"/")+ GetToken(sDate,1,"/");
-            
-            eDate = $get('ctl00_ctl00_CPH_TOP_DETAIL_txtChkOut' + '_Uc').value;
-            eDate = GetToken(eDate,3,"/") + GetToken(eDate,2,"/")+ GetToken(eDate,1,"/");
-            
-            if (Number(sDate) > Number(eDate))
-            {
-                alert('Check In Date is not greater than Check Out Date');
-                $get('ctl00_ctl00_CPH_TOP_DETAIL_txtChkIn' + '_Uc').focus();
-                return false;
-            }
-            
-            if ($get('ctl00_ctl00_CPH_TOP_DETAIL_cboRoom').value == "") 
-            {
-                alert('Please select Room');
-                $get('ctl00_ctl00_CPH_TOP_DETAIL_cboRoom').focus();
-                return false;
-            }
-            
-            if ($get('ctl00_ctl00_CPH_TOP_DETAIL_cboNoRoom').value == "0") 
-            {
-                alert('Please select No. of room');
-                $get('ctl00_ctl00_CPH_TOP_DETAIL_cboNoRoom').focus();
-                return false;
-            }
-           
-            if ($get('ctl00_ctl00_CPH_TOP_DETAIL_cboAdults') == "0" &&  $get('ctl00_ctl00_CPH_TOP_DETAIL_cboChildren').value == "0" ) 
-            {
-                alert('Please select No. of Adults or No. of Children ');
-                $get('ctl00_ctl00_CPH_TOP_DETAIL_cboAdults').focus();
-                return false;
-            }
-            
-                      
-            if (tmpReturn == true)
-            {
-                return true;
-            }   
-        }
-    </script>
-
-    <script language="javascript" type="text/javascript">
-        function ChkValidLogin() {
-                var tmpReturn;
-                tmpReturn = true;      
-                
-                
-               if ($get('ctl00_ctl00_CPH_TOP_DETAIL_txtUserName').value == "") {
-                    alert('Please type User Name');
-                    $get('ctl00_ctl00_CPH_TOP_DETAIL_txtUserName').focus();
-                    return false;
-               }            
-               
-               if ($get('ctl00_ctl00_CPH_TOP_DETAIL_txtPwd').value == "") {
-                    alert('Please type password');
-                    $get('ctl00_ctl00_CPH_TOP_DETAIL_txtPwd').focus();
-                    return false;
-               }              
-                
-                if(tmpReturn == true){                
-                    return true;
-                }  
-        }  
-    
-        function onSelectedChkIn(sender,args)
-            {        
-                var tmpDate = sender.get_selectedDate();
-                tmpDate.setDate(tmpDate.getDate()+3);     
-                 $find('CheckOut').set_selectedDate(tmpDate);
-            }
-        function ForgotClick()
-            {
-                var tmpReturn;
-                tmpReturn = false;
-            
-                window.open ('/forget-password.aspx',"mywindow","menubar=0,resizable=0,scrollbars=1,width=430,height=210"); 
-                return tmpReturn;
-            }
-    </script>
-
-    <div class="main_content">
-        <div class="content_left">   
-            
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="672" height="326"> 
-<param name="WMode" value="Transparent"> 
-<param name="movie" value="/PageUI/Images/MasterImage/Hender.swf"> 
-<param name="quality" value="high"> 
-<embed src="/PageUI/Images/MasterImage/Hender.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="672" height="326">
- 
-</object>
-        
-        </div>
-        <div class="content_right">
-            
-            <div id="ctl00_ctl00_CPH_TOP_DETAIL_updgManage" style="display:none;">
-	
-                    <div style="position: absolute; z-index: 10; left: expression((this.offsetParent.clientWidth/2)-(this.clientWidth/2)+this.offsetParent.scrollLeft);
-                        top: expression((this.offsetParent.clientHeight/2)-(this.clientHeight/2)+this.offsetParent.scrollTop);">
-                        <table cellpadding="1" cellspacing="0" width="200" bgcolor="gray">
-                            <tbody><tr>
-                                <td>
-                                    <table cellpadding="0" cellspacing="0" bgcolor="white" width="100%">
-                                        <tbody><tr>
-                                            <td align="center">
-                                                <br>
-                                                <img id="ctl00_ctl00_CPH_TOP_DETAIL_imgLoadEdit" src="PageUI/Images/Loading.gif" align="absmiddle" border="0">
-                                                &nbsp;&nbsp;&nbsp;Loading...
-                                                <br>
-                                                <br>
-                                            </td>
-                                        </tr>
-                                    </tbody></table>
-                                </td>
-                            </tr>
-                        </tbody></table>
-                        <br>
-                    </div>
-                
-</div>
-            <div id="ctl00_ctl00_CPH_TOP_DETAIL_updProp">
-	
-                    <div style="padding-left: 15px; margin-top: 5px;">    
-                        <div style="margin-top: 9px;">
-                            <select name="ctl00$ctl00$CPH_TOP_DETAIL$cboProperty" id="ctl00_ctl00_CPH_TOP_DETAIL_cboProperty" class="textnormal">
-		<option selected="selected" value="">Please select your location</option>
-		<option value="87">PETCHBURI 15</option>
-		<option value="88">SUKHUMVIT 10</option>
-		<option value="89">SILOM</option>
-		<option value="90">LANGSUAN</option>
-		<option value="91">WIRELESS ROAD</option>
-		<option value="92">SALADAENG</option>
-		<option value="93">SUKHUMVIT-THONG LO</option>
-		<option value="94">RATCHADAMRI</option>
-
-	</select>
-                        </div>
-                        <div style="margin-top: 9px;">Room Type</div>
-                        <div style="margin-top: 3px;">                            
-                            <select name="ctl00$ctl00$CPH_TOP_DETAIL$cboRoom" id="ctl00_ctl00_CPH_TOP_DETAIL_cboRoom" class="textnormal">
-		<option value="">Please select your room type</option>
-
-	</select>
-                        </div>
-                        <div style="margin-top: 9px;">
-                            <span style="padding-left: 3px; padding-right: 25px;">No. of room</span> <span style="padding-right: 35px;">
-                                Adult</span> <span style="">Children</span>
-                        </div>
-                        <div style="margin-top: 3px;">
-                            <select name="ctl00$ctl00$CPH_TOP_DETAIL$cboNoRoom" id="ctl00_ctl00_CPH_TOP_DETAIL_cboNoRoom" class="textnormal">
-		<option value="1">1</option>
-		<option value="2">2</option>
-		<option value="3">3</option>
-		<option value="4">4</option>
-		<option value="5">5</option>
-		<option value="6">6</option>
-		<option value="7">7</option>
-		<option value="8">8</option>
-		<option value="9">9</option>
-		<option value="10">10</option>
-
-	</select>
-                            <select name="ctl00$ctl00$CPH_TOP_DETAIL$cboAdults" id="ctl00_ctl00_CPH_TOP_DETAIL_cboAdults" class="textnormal">
-		<option value="1">1</option>
-		<option value="2">2</option>
-		<option value="3">3</option>
-		<option value="4">4</option>
-		<option value="5">5</option>
-		<option value="6">6</option>
-		<option value="7">7</option>
-		<option value="8">8</option>
-		<option value="9">9</option>
-		<option value="10">10</option>
-
-	</select>
-                            <select name="ctl00$ctl00$CPH_TOP_DETAIL$cboChildren" id="ctl00_ctl00_CPH_TOP_DETAIL_cboChildren" class="textnormal">
-		<option value="0">0</option>
-		<option value="1">1</option>
-		<option value="2">2</option>
-		<option value="3">3</option>
-		<option value="4">4</option>
-		<option value="5">5</option>
-
-	</select>
-                        </div>
-                        <div style="margin-top: 9px;">
-                            <span style="padding-left: 3px; padding-right: 20px;">Check In &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-                            <span style="padding-right: 20px;">Check Out</span>
-                        </div>
-                        <div style="margin-top: 3px;">
-                            
-<script language="javascript" type="text/javascript">
-    function ctl00_ctl00_CPH_TOP_DETAIL_txtChkIn_ValidDate(strValue)
-    {
-            /************************************************
-            DESCRIPTION: Validates that a string contains only
-                valid dates with 2 digit month, 2 digit day,
-                4 digit year. Date separator can be ., -, or /.
-                Uses combination of regular expressions and
-                string parsing to validate date.
-                Ex. mm/dd/yyyy or mm-dd-yyyy or mm.dd.yyyy
-
-            PARAMETERS:
-               strValue - String to be tested for validity
-
-            RETURNS:
-               True if valid, otherwise false.
-
-            REMARKS:
-               Avoids some of the limitations of the Date.parse()
-               method such as the date separator character.
-            *************************************************/
-              var objRegExp = /^\d{1,2}(\-|\/|\.)\d{1,2}\1\d{4}$/
-             
-              //check to see if in correct format
-              if(!objRegExp.test(strValue))
-                return false; //doesn't match pattern, bad date
-              else{
-                var strSeparator = strValue.substring(2,3) 
-                var arrayDate = strValue.split(strSeparator); 
-                //create a lookup for months not equal to Feb.
-                var arrayLookup = { '01' : 31,'03' : 31, 
-                                    '04' : 30,'05' : 31,
-                                    '06' : 30,'07' : 31,
-                                    '08' : 31,'09' : 30,
-                                    '10' : 31,'11' : 30,'12' : 31}
-                var intDay = parseInt(arrayDate[0],10); 
-
-                //check if month value and day value agree
-                if(arrayLookup[arrayDate[1]] != null) {
-                  if(intDay <= arrayLookup[arrayDate[1]] && intDay != 0)
-                    return true; //found in lookup table, good date
-                }
-                
-                //check for February (bugfix 20050322)
-                //bugfix  for parseInt kevin
-                //bugfix  biss year  O.Jp Voutat
-                var intMonth = parseInt(arrayDate[1],10);
-                if (intMonth == 2) { 
-                   var intYear = parseInt(arrayDate[2]);
-                   if (intDay > 0 && intDay < 29) {
-                       return true;
-                   }
-                   else if (intDay == 29) {
-                     if ((intYear % 4 == 0) && (intYear % 100 != 0) || 
-                         (intYear % 400 == 0)) {
-                          // year div by 4 and ((not div by 100) or div by 400) ->ok
-                         return true;
-                     }   
-                   }
-                }
-              }  
-              return false; //any other values, bad dat    
-    }
-    
-    function ctl00_ctl00_CPH_TOP_DETAIL_txtChkIn_CheckDate(str)
-        { 
-            if($get('ctl00_ctl00_CPH_TOP_DETAIL_txtChkIn_Uc').value == "__/__/____")
-                return true;
-                
-            if(ctl00_ctl00_CPH_TOP_DETAIL_txtChkIn_ValidDate($get('ctl00_ctl00_CPH_TOP_DETAIL_txtChkIn_Uc').value) == false)
-            {
-                alert('Date is not valid !!!');
-                $get('ctl00_ctl00_CPH_TOP_DETAIL_txtChkIn_Uc').focus();
-                return false;
-            } 
-            
-            return true;   
-        }
-
-</script>
-<input name="ctl00$ctl00$CPH_TOP_DETAIL$txtChkIn$Uc" type="text" value="27/05/2011" id="ctl00_ctl00_CPH_TOP_DETAIL_txtChkIn_Uc" onblur="return ctl00_ctl00_CPH_TOP_DETAIL_txtChkIn_CheckDate('ctl00_ctl00_CPH_TOP_DETAIL_txtChkIn_Uc');">&nbsp;
-<img id="ctl00_ctl00_CPH_TOP_DETAIL_txtChkIn_DateImage" src="PageUI/Images/MasterImage/icon_cal.gif" border="0">&nbsp;
-
-<input type="hidden" name="ctl00$ctl00$CPH_TOP_DETAIL$txtChkIn$MaskCalen_ClientState" id="ctl00_ctl00_CPH_TOP_DETAIL_txtChkIn_MaskCalen_ClientState">
-                            
-                            
-<script language="javascript" type="text/javascript">
-    function ctl00_ctl00_CPH_TOP_DETAIL_txtChkOut_ValidDate(strValue)
-    {
-            /************************************************
-            DESCRIPTION: Validates that a string contains only
-                valid dates with 2 digit month, 2 digit day,
-                4 digit year. Date separator can be ., -, or /.
-                Uses combination of regular expressions and
-                string parsing to validate date.
-                Ex. mm/dd/yyyy or mm-dd-yyyy or mm.dd.yyyy
-
-            PARAMETERS:
-               strValue - String to be tested for validity
-
-            RETURNS:
-               True if valid, otherwise false.
-
-            REMARKS:
-               Avoids some of the limitations of the Date.parse()
-               method such as the date separator character.
-            *************************************************/
-              var objRegExp = /^\d{1,2}(\-|\/|\.)\d{1,2}\1\d{4}$/
-             
-              //check to see if in correct format
-              if(!objRegExp.test(strValue))
-                return false; //doesn't match pattern, bad date
-              else{
-                var strSeparator = strValue.substring(2,3) 
-                var arrayDate = strValue.split(strSeparator); 
-                //create a lookup for months not equal to Feb.
-                var arrayLookup = { '01' : 31,'03' : 31, 
-                                    '04' : 30,'05' : 31,
-                                    '06' : 30,'07' : 31,
-                                    '08' : 31,'09' : 30,
-                                    '10' : 31,'11' : 30,'12' : 31}
-                var intDay = parseInt(arrayDate[0],10); 
-
-                //check if month value and day value agree
-                if(arrayLookup[arrayDate[1]] != null) {
-                  if(intDay <= arrayLookup[arrayDate[1]] && intDay != 0)
-                    return true; //found in lookup table, good date
-                }
-                
-                //check for February (bugfix 20050322)
-                //bugfix  for parseInt kevin
-                //bugfix  biss year  O.Jp Voutat
-                var intMonth = parseInt(arrayDate[1],10);
-                if (intMonth == 2) { 
-                   var intYear = parseInt(arrayDate[2]);
-                   if (intDay > 0 && intDay < 29) {
-                       return true;
-                   }
-                   else if (intDay == 29) {
-                     if ((intYear % 4 == 0) && (intYear % 100 != 0) || 
-                         (intYear % 400 == 0)) {
-                          // year div by 4 and ((not div by 100) or div by 400) ->ok
-                         return true;
-                     }   
-                   }
-                }
-              }  
-              return false; //any other values, bad dat    
-    }
-    
-    function ctl00_ctl00_CPH_TOP_DETAIL_txtChkOut_CheckDate(str)
-        { 
-            if($get('ctl00_ctl00_CPH_TOP_DETAIL_txtChkOut_Uc').value == "__/__/____")
-                return true;
-                
-            if(ctl00_ctl00_CPH_TOP_DETAIL_txtChkOut_ValidDate($get('ctl00_ctl00_CPH_TOP_DETAIL_txtChkOut_Uc').value) == false)
-            {
-                alert('Date is not valid !!!');
-                $get('ctl00_ctl00_CPH_TOP_DETAIL_txtChkOut_Uc').focus();
-                return false;
-            } 
-            
-            return true;   
-        }
-
-</script>
-<input name="ctl00$ctl00$CPH_TOP_DETAIL$txtChkOut$Uc" type="text" value="30/05/2011" id="ctl00_ctl00_CPH_TOP_DETAIL_txtChkOut_Uc" onblur="return ctl00_ctl00_CPH_TOP_DETAIL_txtChkOut_CheckDate('ctl00_ctl00_CPH_TOP_DETAIL_txtChkOut_Uc');">&nbsp;
-<img id="ctl00_ctl00_CPH_TOP_DETAIL_txtChkOut_DateImage" src="PageUI/Images/MasterImage/icon_cal.gif" border="0">&nbsp;
-
-<input type="hidden" name="ctl00$ctl00$CPH_TOP_DETAIL$txtChkOut$MaskCalen_ClientState" id="ctl00_ctl00_CPH_TOP_DETAIL_txtChkOut_MaskCalen_ClientState">
-
-                        </div>
-                        <div style="margin-top: 9px;">
-                            <input type="image" name="ctl00$ctl00$CPH_TOP_DETAIL$btnReserve" id="ctl00_ctl00_CPH_TOP_DETAIL_btnReserve" src="PageUI/Images/MasterImage/btn_reserve_room.gif" onclick="return ChkValid();" border="0">
-                        </div>
-                    </div>
-                
-</div>
-            <div id="ctl00_ctl00_CPH_TOP_DETAIL_updSingIn">
-	
-            <div style="background-image: url(/PageUI/Images/MasterImage/bg_box.gif);
-                background-repeat: no-repeat; width: 280px; height: 122px; margin-top: 9px; color: #8F3B1B;">
-                <div style="height: 36px; margin-top: 5px;">
-                    <img src="PageUI/Images/MasterImage/rewards.gif" id="ctl00_ctl00_CPH_TOP_DETAIL_Img1" width="82" height="20" style="margin-top: 11px; padding-left: 45px;"><img src="PageUI/Images/MasterImage/batterfly.gif" id="ctl00_ctl00_CPH_TOP_DETAIL_Img2" width="24" height="22" style="padding-bottom: 13px;"></div>
-                <div id="ctl00_ctl00_CPH_TOP_DETAIL_pnlSignIn">
-		
-                    <div style="margin-top: 2px; padding-left: 40px;">
-                        Email/Username&nbsp;
-                        <input name="ctl00$ctl00$CPH_TOP_DETAIL$txtUserName" type="text" id="ctl00_ctl00_CPH_TOP_DETAIL_txtUserName" style="font-size: 9px; border: 0px;
-                            width: 78px;"></div>
-                    <div style="margin-top: 2px; padding-left: 80px;">
-                        Password
-                        <input name="ctl00$ctl00$CPH_TOP_DETAIL$txtPwd" type="password" id="ctl00_ctl00_CPH_TOP_DETAIL_txtPwd" style="font-size: 9px;
-                            border: 0px; width: 78px; margin-left: 6px;"></div>
-                    <div style="margin-top: 2px; padding-left: 141px;">
-                        <input type="image" name="ctl00$ctl00$CPH_TOP_DETAIL$btnSignIn" id="ctl00_ctl00_CPH_TOP_DETAIL_btnSignIn" src="PageUI/Images/MasterImage/btn_signin.gif" onclick="return ChkValidLogin();" border="0">
-                    </div>
-                    <div style="margin-top: 2px; padding-left: 40px;">
-                        <span><a href="/forget-password.aspx" id="ctl00_ctl00_CPH_TOP_DETAIL_lnkForgot_Uc" onmouseover="this.style.cursor='hand'" title="Forget Password" class="" onclick="return ForgotClick();"><span id="ctl00_ctl00_CPH_TOP_DETAIL_lnkForgot_lblAhref" style="display:inline-block;">Forget Password</span></a>
-</span><span style="padding-left: 50px;">                                                  
-                            <a href="/Register.aspx#1" id="ctl00_ctl00_CPH_TOP_DETAIL_lnkJoin_Uc" onmouseover="this.style.cursor='hand'" title="Join Now" class=""><span id="ctl00_ctl00_CPH_TOP_DETAIL_lnkJoin_lblAhref" style="display:inline-block;">Join Now</span></a>
-</span></div>
-                
-	</div>
-                
-            </div>
-            <div style="margin-top: 2px;font-size:9px">* Username will be applied only pre-stay 
-                member only.</div>
-            
-</div>
-        </div>
-        <div style="clear: both">
-        </div>
-    </div>
-    
-    
-    
-
-            <div style="height: 2px; background-color: #7E5B00;">
-            </div>
-            <table width="100%" cellpadding="0" cellspacing="0" border="0">
-            <tbody><tr><td align="center">
-            <div id="ctl00_ctl00_pnlGoogle">
-	
-                <!-- Google Search Result Snippet Begins -->
-                <div id="results_014373149466545347614:dygl7dqicp4" style="width: 900px">
-                </div>
-
-                <script type="text/javascript">
-                    var googleSearchIframeName = "results_014373149466545347614:dygl7dqicp4";
-                    var googleSearchFormName = "searchbox_014373149466545347614:dygl7dqicp4";
-                    var googleSearchFrameWidth = 900;
-                    var googleSearchFrameborder = 0;
-                    var googleSearchDomain = "www.google.com";
-                    var googleSearchPath = "/cse";
-                </script>
-
-                <script type="text/javascript" src="http://www.google.com/afsonline/show_afs_search.js"></script>
-
-                <!-- Google Search Result Snippet Ends -->
-            
-</div>
-            </td></tr>
-            </tbody></table>
-            
-            
-    
-    <table cellspacing="0" cellpadding="15" width="100%" bgcolor="#ffffff" background="/PageUI/Images/template/content-bg.jpg" border="0">
-        <tbody>
-            <tr>
-                <td class="header20" valign="center" align="left">
-                    <!--MENU Property BEGIN -->
-                    <p align="left">
-                        <span class="header16">Privacy Policy</span></p>
-                    <table cellspacing="0" cellpadding="10" width="100%" border="0">
-                        <tbody>
-                            <tr>
-                                <td valign="top" align="left">
-                                    
-                                    <table border="0" cellpadding="3" cellspacing="0" width="850">
-                                        <tbody><tr valign="baseline">
-                                            <td width="20" align="left">
-                                                &nbsp;
-                                            </td>
-                                            <td class="textnormal" width="560" align="left">
-                                               
-                                               &nbsp;
-                                            </td>
-                                        </tr>
-                                        <tr valign="baseline">
-                                            <td align="left">
-                                                &nbsp;
-                                            </td>
-                                            <td class="textnormal" align="left">
-                                                Centre Point Hospitality would like to express our gratitude to everybody who is interested 
-                                                in using the services provided in www.centrepoint.com.<br><br>
-                                                In order to serve and satisfy your needs 
-                                                better, we will use your personal information given through this website as well as in other ways 
-                                                to enhance the benefits and services provided to you. The privacy of your personal information is 
-                                                kept strictly confidential as we understand your concern for the security of your information. However, 
-                                                by visiting our website, you are accepting the following practices: 
-
-                                            </td>
-                                        </tr>
-                                        <tr><td colspan="2">&nbsp;</td></tr>
-                                        <tr valign="baseline">
-                                            <td width="20" align="left">
-                                                &nbsp;
-                                            </td>
-                                            <td class="textnormal" width="560" align="left">
-                                                <b><a name="1"></a>Allowing us to collect your personal information</b>
-                                               &nbsp;
-                                            </td>
-                                        </tr>
-                                        <tr valign="baseline">
-                                            <td align="left">
-                                                &nbsp;
-                                            </td>
-                                            <td class="textnormal" align="left">
-                                                In using the services from this website, you will be requested to fill in certain personal information, 
-                                                provide user ID and password and/or other necessary information. This information will be stored in our 
-                                                database system and will provide you with the following benefits: 
-                                                <br>
-                                                <ul>
-                                                <li>Make an online booking through our website.</li>
-                                                <li>Receive an automatic e-mail confirmation when making a reservation on the Internet, 
-                                                and e-mail replies to inquiries related to a booking you have made for any of our services 
-                                                and products from our reservation sales agents. </li>
-                                                <li>Receive free PR news and information i.e. public announcements regarding products or 
-                                                services and special promotions. The news and information will be provided to you 
-                                                via e-mail but if you do not wish to receive any news and information, we provide you 
-                                                with the option to unsubscribe. </li>
-                                                </ul>
-                                            </td>
-                                        </tr>
-                                        <tr><td colspan="2">&nbsp;</td></tr>
-                                        <tr valign="baseline">
-                                            <td width="20" align="left">
-                                                &nbsp;
-                                            </td>
-                                            <td class="textnormal" width="560" align="left">
-                                                <b><a name="1"></a>Accept our security system in protecting your information</b>
-                                               &nbsp;
-                                            </td>
-                                        </tr>
-                                        <tr valign="baseline">
-                                            <td align="left">
-                                                &nbsp;
-                                            </td>
-                                            <td class="textnormal" align="left">
-                                                <ul>
-                                                <li>The information that you provide in the form of documents and electronic data as well as in other 
-                                                process of information transfer will be kept strictly confidential. It will be stored in the database 
-                                                server to protect from any losses, damages, changes and prevent other people from taking advantages of 
-                                                your personal information without permission. </li>
-                                                <li>Centre Point has no policy to provide or disclose any personal information of the users to third 
-                                                parties including even name, address, e-mail address, statistics of website usage, and other personal 
-                                                information. Neither will Centre Point use the information for commercial benefits. An exception will be 
-                                                in case the third person is involved in the transaction or as a service provider for any particular service 
-                                                on the website. Additionally, an exception is made if the disclosure of information is in response to a law 
-                                                enforcement request.  For example, personal information will be disclosed in order to halt argumentation with 
-                                                users or for verifying the credit card information. </li>
-                                                <li>The system operator or the customer service providers under Centre Point's contract are not allowed to acquire 
-                                                users' information for personal benefits. They are required to keep the information confidential as stated in the contract, 
-                                                except for disclosure requested by Centre Point. </li>
-                                                <li>Centre Point permits only Centre Point's officers and Siam Commercial Bank's authorized officers to access users' 
-                                                information. Anyway, these officers have to be well-trained and have to totally understand the importance of the privacy policy. </li>
-                                                <li>In case Centre Point has to disclose users' personal information, with the reason being one of those mentioned above, 
-                                                Centre Point will contact the users for permission. However, users have the right to decide whether he/she wants to disclose the information. </li>
-                                                </ul>
-                                                * If the users discover the inaccuracy of personal information, please contact the officer immediately.
-                                            </td>
-                                        </tr>
-                                        <tr><td colspan="2">&nbsp;</td></tr>
-                                        <tr valign="baseline">
-                                            <td width="20" align="left">
-                                                &nbsp;
-                                            </td>
-                                            <td class="textnormal" width="560" align="left">
-                                                <b><a name="1"></a>Links to other websites</b>
-                                               &nbsp;
-                                            </td>
-                                        </tr>
-                                        <tr valign="baseline">
-                                            <td align="left">
-                                                &nbsp;
-                                            </td>
-                                            <td class="textnormal" align="left">
-                                                The privacy and security policy of this website does not cover the usage of 
-                                                content in websites that are linked to Centre Point's website. Therefore, you 
-                                                should follow strictly the rules and regulation of that other website/websites 
-                                                because Centre Point will not take on any responsibilities for any losses and 
-                                                damages which might occur from using services of other websites.
-                                            </td>
-                                        </tr>
-                                        <tr><td colspan="2">&nbsp;</td></tr>
-                                        <tr valign="baseline">
-                                            <td width="20" align="left">
-                                                &nbsp;
-                                            </td>
-                                            <td class="textnormal" width="560" align="left">
-                                                <b><a name="1"></a>Changes of Policy</b>
-                                               &nbsp;
-                                            </td>
-                                        </tr>
-                                        <tr valign="baseline">
-                                            <td align="left">
-                                                &nbsp;
-                                            </td>
-                                            <td class="textnormal" align="left">
-                                                Centre Point reserves the right to change the policy of keeping users’ information 
-                                                without prior notice. However, if there are any changes to the privacy policy, 
-                                                Centre Point will inform you via e-mail or other suitable methods to ensure that you are well 
-                                                aware about the changes of the policy.<br><br>
-                                                For more information about this website, please contact
-                                                Marketing Department, Centre Point Hospitality, at (66 2) 630-6345-9
-                                            </td>
-                                        </tr>
-                                        <tr><td colspan="2">&nbsp;</td></tr>
-                                         <tr valign="baseline">
-                                            <td width="20" align="left">
-                                                &nbsp;
-                                            </td>
-                                            <td class="textnormal" width="560" align="left">
-                                                <b><a name="1"></a>Copyright</b>
-                                               &nbsp;
-                                            </td>
-                                        </tr>
-                                        <tr valign="baseline">
-                                            <td align="left">
-                                                &nbsp;
-                                            </td>
-                                            <td class="textnormal" align="left">
-                                                All copyrights and intellectual property rights in all text, images, sound, software and 
-                                                other materials on this website are owned by Centre Point, or are included with permission 
-                                                from the relevant owners. <br><br>
-                                                You are welcome to browse this site and to reproduce extracts from it, for non-commercial 
-                                                and personal purposes only. The material on this website may not be modified or incorporated 
-                                                in any other works, publications or websites without prior written agreement from Centre 
-                                                Point.
-                                            </td>
-                                        </tr>
-                                    </tbody></table>
-                                </td>
-                            </tr>
-                    </tbody></table>
-                    <p class="textnormal" align="justify">
-                        &nbsp;</p>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-
-
-            <!--CONTENT END -->
-            <!--FOOTER BEGIN -->
-            <div class="main_footer">
-                <input type="submit" name="ctl00$ctl00$btnShowPopUp" value="" id="ctl00_ctl00_btnShowPopUp" style="display: none">
-                
-                <div id="ctl00_ctl00_pnlShowPopUp" class="modalPopup">
-	
-                    <table width="400px" bgcolor="#F0D073">
-                        <tbody><tr>
-                            <td valign="top">
-                                <table width="400px" cellpadding="0" cellspacing="0">
-                                    <tbody><tr>
-                                        <td bgcolor="#CCCCCC" height="25px" valign="bottom" class="HeaderTextBigger">
-                                            &nbsp;&nbsp;<strong>Email a Friend</strong>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td bgcolor="#FFFFFF">
-                                            &nbsp;
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td bgcolor="#FFFFFF">
-                                            &nbsp;&nbsp;Sender:
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td bgcolor="#FFFFFF">
-                                            &nbsp;&nbsp;<input name="ctl00$ctl00$txtSender" type="text" id="ctl00_ctl00_txtSender">
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td bgcolor="#FFFFFF">
-                                            &nbsp;&nbsp;From:(email address)
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td bgcolor="#FFFFFF">
-                                            &nbsp;&nbsp;<input name="ctl00$ctl00$txtFromEmail" type="text" id="ctl00_ctl00_txtFromEmail">
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td bgcolor="#FFFFFF">
-                                            &nbsp;
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td bgcolor="#FFFFFF">
-                                            &nbsp;&nbsp;To:(email address)
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td bgcolor="#FFFFFF">
-                                            &nbsp;&nbsp;1: <input name="ctl00$ctl00$txtTo1" type="text" id="ctl00_ctl00_txtTo1"><br>
-                                            &nbsp;&nbsp;2: <input name="ctl00$ctl00$txtTo2" type="text" id="ctl00_ctl00_txtTo2"><br>
-                                            &nbsp;&nbsp;3: <input name="ctl00$ctl00$txtTo3" type="text" id="ctl00_ctl00_txtTo3"><br>
-                                            &nbsp;&nbsp;4: <input name="ctl00$ctl00$txtTo4" type="text" id="ctl00_ctl00_txtTo4"><br>
-                                            &nbsp;&nbsp;5: <input name="ctl00$ctl00$txtTo5" type="text" id="ctl00_ctl00_txtTo5">
-                                                
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td bgcolor="#FFFFFF">
-                                            &nbsp;
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td bgcolor="#FFFFFF">
-                                            &nbsp;&nbsp;<strong>Note</strong>:(optional)
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td bgcolor="#FFFFFF">
-                                            &nbsp;&nbsp;<textarea name="ctl00$ctl00$txtNote" rows="5" cols="60" id="ctl00_ctl00_txtNote"></textarea>
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td bgcolor="#FFFFFF">
-                                            &nbsp;
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td bgcolor="#FFFFFF">
-                                            &nbsp;&nbsp;<input type="submit" name="ctl00$ctl00$btnSend" value="Send" onclick="return ChkEmailSend();" id="ctl00_ctl00_btnSend">&nbsp;<input type="submit" name="ctl00$ctl00$btnClose" value="Cancel" id="ctl00_ctl00_btnClose">
-                                        </td>
-                                    </tr>
-                                    <tr>
-                                        <td bgcolor="#FFFFFF">
-                                            &nbsp;
-                                        </td>
-                                    </tr>
-                                </tbody></table>
-                            </td>
-                            <td align="right" valign="top">
-                                <div style="height: 100px">
-                                    &nbsp;</div>
-                                <div class="verticaltext" style="height: 100px">
-                                    P O I N T</div>
-                                <div class="verticaltext" style="height: 100px">
-                                    C E N T R E</div>
-                            </td>
-                        </tr>
-                    </tbody></table>
-                
-</div>
-                <div id="ctl00_ctl00_updgManage" style="display:none;">
-	
-                        <div style="position: absolute; z-index: 10; left: expression((this.offsetParent.clientWidth/2)-(this.clientWidth/2)+this.offsetParent.scrollLeft);
-                            top: expression((this.offsetParent.clientHeight/2)-(this.clientHeight/2)+this.offsetParent.scrollTop);">
-                            <table cellpadding="1" cellspacing="0" width="200" bgcolor="gray">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWLgK/7di4CAK/jNDuAwLQ1YDMDgLR1YDMDgLS1YDMDgLT1YDMDgLU1YDMDgLV1YDMDgLW1YDMDgLH1YDMDgLI1YDMDgLyv+fzBgLi3Nj5AgLk66LyDgLltpq6AQLktpq6AQLntpq6AQLmtpq6AQLhtpq6AQLgtpq6AQLjtpq6AQLytpq6AQL9tpq6AQLs18C5CwLt18C5CwLu18C5CwLv18C5CwLo18C5CwL316iZCgLo16iZCgLp16iZCgLq16iZCgLr16iZCgKOoPWRDgL11IqJCAK/w6K9AgLJzYnKDwKOzbXABwKAt7rYBQLH6qjJCgLlsJDlAgKVi8L8CAL0/dzvDwKU7v6YCwLx8L+1DgKC8YCVBODKS7IkBtW7yNIhu5aYbnkb1Wun">
+    <div id="main">
+        <table border="0" cellpadding="0" cellspacing="0" align="center">
+            <tbody><tr>
+                <td>
+                    <div id="shadowleft" style="background: url(/images/left-shadow.png) repeat-y top left;
+                        width: 996px;">
+                        <div id="shadowright" style="background: url(/images/right-shadow.png) repeat-y top right;
+                            width: 983px; margin-left: 13px;">
+                            <table width="970" height="960" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
                                 <tbody><tr>
-                                    <td>
-                                        <table cellpadding="0" cellspacing="0" bgcolor="white" width="100%">
+                                    <td width="970" height="115">
+                                        
+
+
+    <script type="text/javascript">
+        function search_keypress(e) {
+            var code;
+            code = (e.keyCode ? e.keyCode : e.which);
+            if (code == 13) {
+                setTimeout(function() {
+                    $("#welSBtn").click();
+                }, 0);
+                return false;
+            } else {
+            return true; 
+            }
+        }
+       
+    </script>
+<table border="0" cellpadding="0" cellspacing="0" width="970">
+    <tbody><tr>
+        <td width="291" valign="middle">
+        
+            <a href="/default.aspx">
+                <img src="/images/logo.jpg" width="291" height="115"></a>
+        </td>
+        <td class="txt_wuc_head">
+            <table border="0" cellpadding="0" cellspacing="0" width="678">
+                <tbody><tr>
+                    <td>
+                        <div id="welPanel">
+                            <div id="welSearch">
+                                <div id="srcImg">
+                                    <img id="welSBtn" src="/images/search-go.png" onclick="javascript:CheckQuickSearch5('/');" alt="Search"></div>
+                                <div id="srcText">
+                                    <input id="txtsearch" type="text" size="10" class="txt_input_wuc_head" value="Search" onclick="this.value=''" onkeydown="return search_keypress(event);"></div>
+                            </div>
+                            <div id="welFlag">
+                                <a href="/">
+                                <img src="/images/eng.png" alt="English" title="English"></a>
+                                <a href="/japan">
+                                <img src="/images/japan.png" alt="Japan" title="Japan"></a>
+                            </div>
+                            <div id="welMem">
+                                <div id="usrText">
+                                    <a href="/default.aspx" size="10">:: HOME :: </a>
+                                </div>                            
+                                <div id="usrText">
+                                    Welcome :</div>
+                                <div id="usrIBox">
+                                    <input id="Text1" type="text" readonly="readonly" size="10" class="txt_input_wuc_head" value=""></div>
+                                <div id="usrText">
+                                    
+                                </div>
+                                <div id="usrIBox">
+                                    
+                                </div>                                  
+                             
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div id="welTime">Local time 24/11/2011 00:40:29 </div>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+</tbody></table>
+
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td height="340px">
+                                        <div style="float: left;">
+                                            
+
+<script language="javascript" type="text/javascript" src="/js/jsImage.js"></script>
+
+<script language="javascript" type="text/javascript" src="/js/jsCalendar.js"></script>
+
+<script language="javascript" type="text/javascript" src="/js/jsLibrary.js"></script>
+
+<script language="javascript" type="text/javascript" src="/js/jsSearchBox.js"></script>
+
+<script language="javascript" type="text/javascript" src="/js/jsDate.js"></script>
+
+<div id="search_box">
+    <table border="0" cellpadding="0" cellspacing="0" style="text-align: left; background-repeat: no-repeat;" height="340px">
+        <tbody><tr>
+            <td height="26px">
+                <img src="/images/find-hotel.jpg"><a href="/member/mybooking.aspx"><img src="/images/reservation.jpg"></a>
+            </td>
+        </tr>
+        <tr>
+            <td style="background: url(/images/search-bg.jpg) no-repeat top left;
+                vertical-align: top;" height="314px">
+                <div style="padding: 14px 5px 0px 5px;">
+                    <table border="0" cellpadding="0" cellspacing="0" height="300px">
+                        <tbody><tr>
+                            <td colspan="2">
+                                <div id="ctl00_wucSearchbox1_upd1">
+	
+                                        <label>
+                                            <select name="ctl00$wucSearchbox1$ddlBranch" id="ctl00_wucSearchbox1_ddlBranch" class="ddl">
+		<option selected="selected" value="--- Please select your location ---">--- Please select your location ---</option>
+		<option value="1">Centre Point Petchburi</option>
+		<option value="2">Centre Point Sukhumvit</option>
+		<option value="3">Centre Point Silom</option>
+		<option value="4">Centre Point Langsuan</option>
+		<option value="5">Centre Point Saladaeng</option>
+		<option value="6">Centre Point Wireless Road</option>
+		<option value="7">Centre Point Sukhumvit Thong-Lo</option>
+		<option value="8">Grande Centre Point Ratchadamri</option>
+		<option value="9">Grande Centre Point Sukhumvit-Terminal 21</option>
+
+	</select>
+                                        </label>
+                                    
+</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <b>Check-in </b>
+                            </td>
+                            <td>
+                                <input name="ctl00$wucSearchbox1$cldCheckIn" type="text" value="27/11/2011" id="ctl00_wucSearchbox1_cldCheckIn" class="txt_checkin_out" onfocus="this.blur();">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <b>Check-out </b>
+                            </td>
+                            <td>
+                                <input name="ctl00$wucSearchbox1$cldCheckOut" type="text" value="28/11/2011" id="ctl00_wucSearchbox1_cldCheckOut" class="txt_checkin_out" onfocus="this.blur();">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                            </td>
+                            <td>
+                                <input name="ctl00$wucSearchbox1$txtNight" type="text" value="1" maxlength="3" id="ctl00_wucSearchbox1_txtNight" onkeyup="return TextChange2();" onkeypress="return isNumberKey2(window.event);" onblur="if((this.value=='')||((this.value=='0'))){this.value=1;TextChange2();};">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                <div id="ctl00_wucSearchbox1_UpdatePanel1">
+	
+                                        <table border="0" width="100%">
                                             <tbody><tr>
-                                                <td align="center">
-                                                    <br>
-                                                    <img id="ctl00_ctl00_imgLoadEdit" src="PageUI/Images/Loading.gif" align="absmiddle" border="0">
-                                                    &nbsp;&nbsp;&nbsp;Loading...
-                                                    <br>
-                                                    <br>
+                                                <td>
+                                                    <strong>Rooms</strong>
+                                                </td>
+                                                <td>
+                                                    <strong>Adult</strong>
+                                                </td>
+                                                <td>
+                                                    <strong>Child (2-11)</strong>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <select name="ctl00$wucSearchbox1$ddlRoomNo" id="ctl00_wucSearchbox1_ddlRoomNo" tabindex="7" class="ddl">
+		<option selected="selected" value="1">1</option>
+		<option value="2">2</option>
+		<option value="3">3</option>
+		<option value="4">4</option>
+		<option value="5">5</option>
+		<option value="6">6</option>
+		<option value="7">7</option>
+		<option value="8">8</option>
+		<option value="9">9</option>
+
+	</select>
+                                                </td>
+                                                <td>
+                                                    <select name="ctl00$wucSearchbox1$ddlAdult" id="ctl00_wucSearchbox1_ddlAdult" tabindex="7" class="ddl">
+		<option selected="selected" value="1">1</option>
+		<option value="2">2</option>
+		<option value="3">3</option>
+		<option value="4">4</option>
+		<option value="5">5</option>
+
+	</select>
+                                                </td>
+                                                <td>
+                                                    <select name="ctl00$wucSearchbox1$ddlChild" id="ctl00_wucSearchbox1_ddlChild" tabindex="7" class="ddl">
+		<option selected="selected" value="0">0</option>
+		<option value="1">1</option>
+		<option value="2">2</option>
+		<option value="3">3</option>
+		<option value="4">4</option>
+
+	</select>
                                                 </td>
                                             </tr>
                                         </tbody></table>
+                                    
+</div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" align="center">
+                                <input type="image" name="ctl00$wucSearchbox1$btnSearch" id="ctl00_wucSearchbox1_btnSearch" src="http://www.centrepoint.com/images/check-availability.png" onclick="return chklocation('ctl00_wucSearchbox1_ddlBranch');" border="0">
+                            </td>
+                        </tr>
+                    </tbody></table>
+                </div>
+            </td>
+        </tr>
+    </tbody></table>
+    <input name="ctl00$wucSearchbox1$hidMode" type="hidden" id="ctl00_wucSearchbox1_hidMode" class="txt" style="width: 35px">
+    <input name="ctl00$wucSearchbox1$txtRefer" type="hidden" id="ctl00_wucSearchbox1_txtRefer" class="txt" style="width: 85px">
+    <input type="hidden" name="ctl00$wucSearchbox1$hCheckIn" id="ctl00_wucSearchbox1_hCheckIn" value="27/11/2011">
+    <input type="hidden" name="ctl00$wucSearchbox1$hCheckOut" id="ctl00_wucSearchbox1_hCheckOut" value="28/11/2011">
+</div>
+
+                                        </div>
+                                        <div style="float: right;">
+                                            <div id="slider-wrapper">
+                                                <div id="slider" class="nivoSlider">
+                                                    <img src="http://www.centrepoint.com/ImageProduct/p1.jpg" title="Grande Centre Point Ratchadamri is truly heavenly"><img src="http://www.centrepoint.com/ImageProduct/p2.jpg" title="Every moment of happiness... you can reach"><img src="http://www.centrepoint.com/ImageProduct/p3.jpg" title="Immerse yourself in the truly vibrant lifestyle."><img src="http://www.centrepoint.com/ImageProduct/rescp9.jpg" title="World Class Complex Facilities"><img src="http://www.centrepoint.com/ImageProduct/01) LOBBY.JPG" title="The best and most convenient location in Bangkok">
+                                                </div>
+                                                <div id="htmlcaption" class="nivo-html-caption">
+                                                    <span style="font-size: 15px;">You will call it home.</span>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td height="43px" valign="middle">
+                                        
+<div id="menu">
+    <table border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+            <td>
+                <a href="http://www.centrepoint.com/default.aspx">
+                    <img src="/images/home2.jpg" width="67" height="43" onmouseover="this.src='/images/home1.jpg'" onmouseout="this.src='/images/home2.jpg'"></a>
+            </td>
+            <td>
+                <a href="http://www.centrepoint.com/special.aspx">
+                    <img src="/images/special-deal2.jpg" width="121" height="43" onmouseover="this.src='/images/special-deal1.jpg'" onmouseout="this.src='/images/special-deal2.jpg'"></a>
+            </td>
+            <td>
+                <a href="http://www.centrepoint.com/reward.aspx">
+                    <img src="/images/reward2.jpg" width="140" height="43" onmouseover="this.src='/images/reward1.jpg'" onmouseout="this.src='/images/reward2.jpg'"></a>
+            </td>
+            <td>
+                <a href="http://www.centrepoint.com/virtualtour.aspx">
+                    <img src="/images/take-tour2.jpg" width="79" height="43" onmouseover="this.src='/images/take-tour1.jpg'" onmouseout="this.src='/images/take-tour2.jpg'"></a>
+            </td>
+            <td>
+                <a href="http://www.centrepoint.com/Experience.aspx">
+                    <img src="/images/experience2.jpg" width="187" height="43" onmouseover="this.src='/images/experience1.jpg'" onmouseout="this.src='/images/experience2.jpg'"></a>
+            </td>
+            <td>
+                <a href="http://www.centrepoint.com/contact.aspx">
+                    <img src="/images/contatc2.jpg" width="100" height="43" onmouseover="this.src='/images/contatc1.jpg'" onmouseout="this.src='/images/contatc2.jpg'"></a>
+            </td>
+            <td>
+                <a href="http://www.centrepoint.com/news.aspx">
+                    <img src="/images/news2.jpg" width="129" height="43" onmouseover="this.src='/images/news1.jpg'" onmouseout="this.src='/images/news2.jpg'"></a>
+            </td>
+            <td>
+                <input type="image" name="ctl00$wucmenu1$btnMemberLogin" id="ctl00_wucmenu1_btnMemberLogin" onmouseover="this.src='http://www.centrepoint.com/ImageProduct/member1.jpg'" onmouseout="this.src='http://www.centrepoint.com/ImageProduct/member2.jpg'" src="http://www.centrepoint.com/ImageProduct/member2.jpg" border="0">
+                
+            </td>
+        </tr>
+    </tbody></table>
+</div>
+
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td valign="top" style="padding: 5px 5px 5px 5px; height: 500px;" width="100%">
+                                        
+    <link href="index.css" rel="stylesheet" type="text/css">
+   <link rel="shortcut icon" href="images/favicon.ico">
+    <table border="0" cellspacing="0" cellpadding="0" width="100%" style="padding: 10px 20px 5px 20px;">
+        <tbody><tr>
+            <td style="padding: 20px 5px 5px 20px;">
+                <h3>
+                    Privacy Policy</h3>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <div id="yello_bg" class="yello_bg" style="height: auto;">
+                    <div class="yello_bg_l" style="height: auto;">
+                        <div class="yello_bg_r" style="height: auto; padding: 20px 0 0 0;">
+                            <table>
+                                <tbody><tr>
+                                    <td>
+                                        entre Point Hospitality would like to express our gratitude to everybody who is
+                                        interested in using the services provided in www.centrepoint.com.
+                                        <br>
+                                        <br>
+                                        In order to serve and satisfy your needs better, we will use your personal information
+                                        given through this website as well as in other ways to enhance the benefits and
+                                        services provided to you. The privacy of your personal information is kept strictly
+                                        confidential as we understand your concern for the security of your information.
+                                        However, by visiting our website, you are accepting the following practices:
+                                        <br>
+                                        <br>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <h3>
+                                            <span id="ctl00_ContentPlaceHolder1_Label3" class="q_size_bold">Allowing us to collect your personal information</span></h3>
+                                        In using the services from this website, you will be requested to fill in certain
+                                        personal information, provide user ID and password and/or other necessary information.
+                                        This information will be stored in our database system and will provide you with
+                                        the following benefits:
+                                        <ul>
+                                            <li>Make an online booking through our website.</li>
+                                            <li>Receive an automatic e-mail confirmation when making a reservation on the Internet,
+                                                and e-mail replies to inquiries related to a booking you have made for any of our
+                                                services and products from our reservation sales agents.</li>
+                                            <li>Receive free PR news and information i.e. public announcements regarding products
+                                                or services and special promotions. The news and information will be provided to
+                                                you via e-mail but if you do not wish to receive any news and information, we provide
+                                                you with the option to unsubscribe.</li>
+                                        </ul>
+                                        
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <h3>
+                                            <span id="ctl00_ContentPlaceHolder1_Label4" class="q_size_bold">Accept our security system in protecting your information</span></h3>
+                                        <ul>
+                                            <li>The information that you provide in the form of documents and electronic data as
+                                            well as in other process of information transfer will be kept strictly confidential.
+                                            It will be stored in the database server to protect from any losses, damages, changes
+                                            and prevent other people from taking advantages of your personal information without
+                                            permission.
+                                            </li>
+                                            <li>Centre Point has no policy to provide or disclose any personal information
+                                            of the users to third parties including even name, address, e-mail address, statistics
+                                            of website usage, and other personal information. Neither will Centre Point use
+                                            the information for commercial benefits. An exception will be in case the third
+                                            person is involved in the transaction or as a service provider for any particular
+                                            service on the website. Additionally, an exception is made if the disclosure of
+                                            information is in response to a law enforcement request. For example, personal information
+                                            will be disclosed in order to halt argumentation with users or for verifying the
+                                            credit card information.
+                                            </li>
+                                            <li>The system operator or the customer service providers
+                                            under Centre Point's contract are not allowed to acquire users' information for
+                                            personal benefits. They are required to keep the information confidential as stated
+                                            in the contract, except for disclosure requested by Centre Point.
+                                            </li>
+                                            <li>Centre Point
+                                            permits only Centre Point's officers and Siam Commercial Bank's authorized officers
+                                            to access users' information. Anyway, these officers have to be well-trained and
+                                            have to totally understand the importance of the privacy policy.
+                                            </li>
+                                            <li>In case Centre
+                                            Point has to disclose users' personal information, with the reason being one of
+                                            those mentioned above, Centre Point will contact the users for permission. However,
+                                            users have the right to decide whether he/she wants to disclose the information.
+                                            </li>
+                                        </ul>
+                                        * If the users discover the inaccuracy of personal information, please contact the
+                                        officer immediately.                                        
+                                        <br><br>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <h3>
+                                        <span id="ctl00_ContentPlaceHolder1_Label2" class="q_size_bold">Links to other websites</span></h3>
+                                        The privacy and security policy of this website does not cover the usage of content
+                                        in websites that are linked to Centre Point's website. Therefore, you should follow
+                                        strictly the rules and regulation of that other website/websites because Centre
+                                        Point will not take on any responsibilities for any losses and damages which might
+                                        occur from using services of other websites.
+                                        <br><br>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <h3>
+                                            <span id="ctl00_ContentPlaceHolder1_Label1" class="q_size_bold">Changes of Policy</span></h3>
+                                        Centre Point reserves the right to change the policy of keeping users’ information
+                                        without prior notice. However, if there are any changes to the privacy policy, Centre
+                                        Point will inform you via e-mail or other suitable methods to ensure that you are
+                                        well aware about the changes of the policy.
+                                        <br>
+                                        <br>
+                                        For more information about this website, please contact Marketing Department, Centre
+                                        Point Hospitality, at (66 2) 630-6345-9
+                                        <br><br>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <h3>
+                                            <span class="q_size_bold">Copyright</span></h3>
+                                        All copyrights and intellectual property rights in all text, images, sound, software
+                                        and other materials on this website are owned by Centre Point, or are included with
+                                        permission from the relevant owners.
+                                        <br>
+                                        <br>
+                                        You are welcome to browse this site and to reproduce extracts from it, for non-commercial
+                                        and personal purposes only. The material on this website may not be modified or
+                                        incorporated in any other works, publications or websites without prior written
+                                        agreement from Centre Point.
+                                        <br><br>
                                     </td>
                                 </tr>
                             </tbody></table>
-                            <br>
                         </div>
-                    
-</div>  
-                <table width="100%">
-                        <tbody><tr>
-                            <td align="left" width="300px" valign="top">Our Serviced Apartments and Hotels in Bangkok :</td>
-                            <td align="left">
-                            <a href="/bangkok-apartments/petchaburi/" id="ctl00_ctl00_lnkFoorterPetchburi_Uc" onmouseover="this.style.cursor='hand'" title="Centre Point Petchburi 15" class=""><span id="ctl00_ctl00_lnkFoorterPetchburi_lblAhref" style="display:inline-block;">Centre Point Petchburi 15</span></a>
- |
-                            <a href="/bangkok-apartments/sukhumvit/" id="ctl00_ctl00_lnkFooterSukhumvit_Uc" onmouseover="this.style.cursor='hand'" title="Centre Point Sukhumvit 10" class=""><span id="ctl00_ctl00_lnkFooterSukhumvit_lblAhref" style="display:inline-block;">Centre Point Sukhumvit 10</span></a>
- |
-                            <a href="/bangkok-apartments/silom/" id="ctl00_ctl00_lnkFooterSilom_Uc" onmouseover="this.style.cursor='hand'" title="Centre Point Silom" class=""><span id="ctl00_ctl00_lnkFooterSilom_lblAhref" style="display:inline-block;">Centre Point Silom</span></a>
- |
-                            <a href="/bangkok-apartments/langsuan/" id="ctl00_ctl00_lnkFooterLangsuan_Uc" onmouseover="this.style.cursor='hand'" title="Centre Point Langsuan" class=""><span id="ctl00_ctl00_lnkFooterLangsuan_lblAhref" style="display:inline-block;">Centre Point Langsuan</span></a>
- |
-                            <a href="/bangkok-hotels/wireless-road/" id="ctl00_ctl00_lnkFooterWireless_Uc" onmouseover="this.style.cursor='hand'" title="Centre Point Wireless Road" class=""><span id="ctl00_ctl00_lnkFooterWireless_lblAhref" style="display:inline-block;">Centre Point Wireless Road</span></a>
- |
-                            <a href="/bangkok-apartments/saladaeng/" id="ctl00_ctl00_lnkFooterSaladeng_Uc" onmouseover="this.style.cursor='hand'" title="Centre Point Saladaeng" class=""><span id="ctl00_ctl00_lnkFooterSaladeng_lblAhref" style="display:inline-block;">Centre Point Saladaeng</span></a>
- |
-                            <a href="/bangkok-apartments/sukhumvit-thong-lo/" id="ctl00_ctl00_lnkFooterThonglo_Uc" onmouseover="this.style.cursor='hand'" title="Centre Point Sukhumvit-Thong Lo" class=""><span id="ctl00_ctl00_lnkFooterThonglo_lblAhref" style="display:inline-block;">Centre Point Sukhumvit-Thong Lo</span></a>
- |
-                            <a href="/bangkok-hotels/rachadamri/" id="ctl00_ctl00_lnkFooterRatchadamri_Uc" onmouseover="this.style.cursor='hand'" title="Centre Point Ratchadamri" class=""><span id="ctl00_ctl00_lnkFooterRatchadamri_lblAhref" style="display:inline-block;">Centre Point Ratchadamri</span></a>
-                             
-                            </td>
-                            
-                        </tr>
-                </tbody></table>          
-                <div id="ctl00_ctl00_updLink">
-	
+                    </div>
+                </div>
+            </td>
+        </tr>
+    </tbody></table>
+
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td height="102">
+                                        
+<div id="footer">
+    <table width="970" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+            <td class="footer_bg">
+                <div class="footer_left_1">
+                    <div class="banner1">
+                        <input type="image" name="ctl00$wucfooter1$btnAdvisor" id="ctl00_wucfooter1_btnAdvisor" src="http://www.centrepoint.com/images/tripadvisor.gif" onclick="window.open('http://th.tripadvisor.com/'); return false;" border="0">
+                    </div>
+                    <div class="head">
+                        Find Centre Point Properties:
+                    </div>
+                    <div class="location">
+                        
+                        <ul><li><a href="http://www.centrepoint.com/hotel/products.aspx?branch_id=1">Centre Point Petchburi</a></li><li><a href="http://www.centrepoint.com/hotel/products.aspx?branch_id=2">Centre Point Sukhumvit</a></li><li><a href="http://www.centrepoint.com/hotel/products.aspx?branch_id=3">Centre Point Silom</a></li><li><a href="http://www.centrepoint.com/hotel/products.aspx?branch_id=4">Centre Point Langsuan</a></li><li><a href="http://www.centrepoint.com/hotel/products.aspx?branch_id=5">Centre Point Saladaeng</a></li><li><a href="http://www.centrepoint.com/hotel/products.aspx?branch_id=6">Centre Point Wireless Road</a></li><li><a href="http://www.centrepoint.com/hotel/products.aspx?branch_id=7">Centre Point Sukhumvit Thong-Lo</a></li><li><a href="http://www.centrepoint.com/hotel/products.aspx?branch_id=8">Grande Centre Point Ratchadamri</a></li><li><a href="http://www.centrepoint.com/hotel/products.aspx?branch_id=9">Grande Centre Point Sukhumvit-Terminal 21</a></li></ul>
+                    </div>
+                    <div class="copyright">
+                        © 2011 CentrePoint.com</div>
+                </div>
+                <div class="footer_right_1">
+                    <div class="banner2">
+                        <input type="image" name="ctl00$wucfooter1$btnfacebook" id="ctl00_wucfooter1_btnfacebook" src="http://www.centrepoint.com/images/facebook.gif" onclick="window.open('http://www.facebook.com/CentrePointBangkok'); return false;" border="0">
+                        <input type="image" name="ctl00$wucfooter1$btnYoutube" id="ctl00_wucfooter1_btnYoutube" src="http://www.centrepoint.com/images/youtube.gif" onclick="window.open('http://www.youtube.com/user/CPHospitality/'); return false;" border="0">
+                        <input type="image" name="ctl00$wucfooter1$btntwitter" id="ctl00_wucfooter1_btntwitter" src="http://www.centrepoint.com/images/twitter.gif" onclick="window.open('http://twitter.com/CPHospitality/'); return false;" border="0">
+                        <input type="image" name="ctl00$wucfooter1$btnblog" id="ctl00_wucfooter1_btnblog" src="images/blog.png" onclick="window.open('http://centrepointhospitality.wordpress.com/'); return false;" border="0">
+                    </div>
+                    <div class="head">
+                        Sales and Marketing Office
+                    </div>
+                    <div class="address">
+                        1522/2 Charoenkrung 50 Rd.,Bangrak,
                         <br>
-                        <div align="right" style="padding-right: 10px;">
-                            <a href="/bangkok-apartments/hotel-apartment.aspx" id="ctl00_ctl00_lnkAbout_Uc" onmouseover="this.style.cursor='hand'" title="ABOUT US" class=""><span id="ctl00_ctl00_lnkAbout_lblAhref" style="display:inline-block;">ABOUT US</span></a>
- 
-                            l <a href="/contact/contact.aspx">CONTACT US</a> l <a href="/faq.aspx">          
-                                FAQ</a> l <a href="/Sitemap.aspx">SITE MAP</a> l
-                            <a id="ctl00_ctl00_lnkTellYourFriend" href="javascript:__doPostBack('ctl00$ctl00$lnkTellYourFriend','')">TELL YOUR FRIEND</a>
-                            l <a href="/PrivacyPolicy.aspx">PRIVACY POLICY</a>l <a href="/Term_And_Condition.aspx">TERMS&amp;CONDITIONS</a></div> 
-                        <table width="100%" cellpadding="0" cellspacing="0" border="0">
-                            <tbody><tr>
-                                <td valign="top">
-                                    <div align="left" style="margin-top: 2px; padding-left: 10px; vertical-align:top">
-                                        <input type="image" name="ctl00$ctl00$imgfacebook" id="ctl00_ctl00_imgfacebook" title="Facebook" src="PageUI/Images/icon_facebook.gif" align="top" onclick="window.open('http://www.facebook.com/pages/Centre-Point/181795789539');return false;" border="0">
-                                        &nbsp;
-                                        <input type="image" name="ctl00$ctl00$imgTwitter" id="ctl00_ctl00_imgTwitter" title="Twitter" src="PageUI/Images/icon_Twitter.gif" align="top" onclick="window.open('http://twitter.com/CentrePoint_TH');return false;" border="0">
-                                        &nbsp;
-                                        <input type="image" name="ctl00$ctl00$imgYoutube" id="ctl00_ctl00_imgYoutube" title="Youtube" src="PageUI/Images/icon_youtube.gif" align="top" onclick="window.open('http://www.youtube.com/user/CentrePointBangkok#p/a');return false;" border="0">
-                                        &nbsp;
-                                        <input type="image" name="ctl00$ctl00$imgTripad" id="ctl00_ctl00_imgTripad" title="Trip Advisor" src="PageUI/Images/icon_tripadvisor.gif" align="top" onclick="window.open('http://www.centrepoint.com/Tripadvisor.aspx');return false;" border="0">
-                                        &nbsp;  
-                                        <input type="image" name="ctl00$ctl00$imgBGJF" id="ctl00_ctl00_imgBGJF" src="PageUI/Images/BGJF-Logo.jpg" align="top" onclick="window.open('http://www.bangkokgemsfair.com');return false;" border="0">
-                                        &nbsp;                                        
-                                    </div> 
-                                </td>
-                                <td valign="top">
-                                    <div align="right" style="margin-top: 5px; padding-right: 10px;">
-                                        Copyright 2005-2011 Centre Point. All 
-                                        right reserved.
-                                    </div>
-                                </td>
-                            </tr>
-                        </tbody></table>                             
-                    
-</div>                                         
-            </div>    
-            <br>        
-            <!--FOOTER END -->
-        </div>
-    </div>    
+                        10500 Thailand<br>
+                        Tel. +66 2 630 6345<br>
+                        Fax. +66 2 630 6354<br>
+                        E-mail:<a href="mailto:reservations@centrepoint.com?">reservations@centrepoint.com</a>
+                    </div>
+                    <!-- tuta add on 09/08/2011 -->
+                    <br>      
+                    <div class="banner2">
+                        <input type="image" name="ctl00$wucfooter1$btnQHLogo" id="ctl00_wucfooter1_btnQHLogo" src="http://www.centrepoint.com/images/img-qhlogo.jpg" onclick="window.open('http://www.qh.co.th'); return false;" border="0">
+                        <input type="image" name="ctl00$wucfooter1$btnCSSSLogo" id="ctl00_wucfooter1_btnCSSSLogo" src="http://www.centrepoint.com/images/img-cssslogo.jpg" onclick="window.open('http://www.casaseaside.com'); return false;" border="0">
+                    </div>                                 
+                    <!-- end add -->                    
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td class="footer_bg_link" align="center">
+                <div style="text-align: center; width: 500px; margin: auto;">
+                    <ul>
+                        <li><a href="/aboutus.aspx">About Us</a></li>
+                        <li><a href="/contact.aspx">Contact Us</a></li>
+                        <li><a href="/faq.aspx">FAQ</a></li>
+                        <li><a href="/sitemap.aspx">Sitemap</a></li>
+                        <li><a href="/policy.aspx">Privacy Policy</a></li>
+                        <li style="background-image: none;"><a href="/term_condition.aspx">
+                            Terms &amp; Conditions</a></li>
+                    </ul>
+                </div>
+            </td>
+        </tr>
+    </tbody></table>
+</div>
+
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </tbody></table>
+    </div>
     
 
 <script type="text/javascript">
 //<![CDATA[
 Sys.Application.initialize();
-Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.CalendarBehavior, {"button":$get("ctl00_ctl00_CPH_TOP_DETAIL_txtChkIn_DateImage"),"format":"dd/MM/yyyy","id":"ctl00_ctl00_CPH_TOP_DETAIL_txtChkIn_CExten"}, {"dateSelectionChanged":onSelectedChkIn}, null, $get("ctl00_ctl00_CPH_TOP_DETAIL_txtChkIn_Uc"));
-});
-Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.MaskedEditBehavior, {"ClientStateFieldID":"ctl00_ctl00_CPH_TOP_DETAIL_txtChkIn_MaskCalen_ClientState","CultureAMPMPlaceholder":"AM;PM","CultureCurrencySymbolPlaceholder":"$","CultureDateFormat":"MDY","CultureDatePlaceholder":"/","CultureDecimalPlaceholder":".","CultureName":"en-US","CultureThousandsPlaceholder":",","CultureTimePlaceholder":":","Mask":"99/99/9999","MaskType":1,"id":"ctl00_ctl00_CPH_TOP_DETAIL_txtChkIn_MaskCalen"}, null, null, $get("ctl00_ctl00_CPH_TOP_DETAIL_txtChkIn_Uc"));
-});
-Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.CalendarBehavior, {"button":$get("ctl00_ctl00_CPH_TOP_DETAIL_txtChkOut_DateImage"),"format":"dd/MM/yyyy","id":"CheckOut"}, null, null, $get("ctl00_ctl00_CPH_TOP_DETAIL_txtChkOut_Uc"));
-});
-Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.MaskedEditBehavior, {"ClientStateFieldID":"ctl00_ctl00_CPH_TOP_DETAIL_txtChkOut_MaskCalen_ClientState","CultureAMPMPlaceholder":"AM;PM","CultureCurrencySymbolPlaceholder":"$","CultureDateFormat":"MDY","CultureDatePlaceholder":"/","CultureDecimalPlaceholder":".","CultureName":"en-US","CultureThousandsPlaceholder":",","CultureTimePlaceholder":":","Mask":"99/99/9999","MaskType":1,"id":"ctl00_ctl00_CPH_TOP_DETAIL_txtChkOut_MaskCalen"}, null, null, $get("ctl00_ctl00_CPH_TOP_DETAIL_txtChkOut_Uc"));
-});
-Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.ModalPopupBehavior, {"BackgroundCssClass":"modalBackground","CancelControlID":"ctl00_ctl00_btnClose","PopupControlID":"ctl00_ctl00_pnlShowPopUp","dynamicServicePath":"/PrivacyPolicy.aspx","id":"ctl00_ctl00_mdlShowPopUp"}, null, null, $get("ctl00_ctl00_btnShowPopUp"));
-});
 //]]>
 </script>
-</form>    
+</form>
 
 
 </body></html>
