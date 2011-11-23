@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thetrafficgoldrush.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303155013id_/http%3A//www.thetrafficgoldrush.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetrafficgoldrush.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123162309id_/http%3A//thetrafficgoldrush.com/privacy.php) for the most accurate reproduction.*
 
-# The Traffic Goldrush - Free Viral List Builder
+# The Traffic Goldrush | Web Traffic Targeted | Free Marketing Email | Email Marketing Direct
 
-[](http://thetrafficgoldrush.com/bannerclick.php?id=1506)  
+[](http://thetrafficgoldrush.com/bannerclick.php?id=4891)  
 
 
 The Traffic Goldrush Privacy Policy
