@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the need-an-article.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605014610id_/http%3A//needanarticle.com/index2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the need-an-article.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123161416id_/http%3A//needanarticle.com/index2/privacy-policy) for the most accurate reproduction.*
 
-# NAA PRivacy Policy
+# Need An Article – Article Writing Service: Privacy Policy
+
+**
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -29,3 +31,5 @@ The contents of this statement may be altered at any time, at our discretion.
 If you have any questions regarding the privacy policy of Need An Article then you may contact us at naasupport@gmail.com
 
 Last updated Fri, 30 Jul 2010 23:35
+
+**
