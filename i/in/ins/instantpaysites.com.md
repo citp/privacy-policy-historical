@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantpaysites.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425161558id_/http%3A//www.instantpaysites.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantpaysites.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123160158id_/http%3A//www.instantpaysites.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Instant Home Business Pays Directly to your PayPal Account
 
