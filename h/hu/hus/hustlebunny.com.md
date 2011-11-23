@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hustlebunny.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525043235id_/http%3A//hustlebunny.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hustlebunny.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123053650id_/http%3A//hustlebunny.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Hustlebunny - The Perfect Blend of Sexy
+# Privacy Policy | HustleBunny - The Perfect Blend of Sexy
 
 Updated on: July 21, 2010
 
