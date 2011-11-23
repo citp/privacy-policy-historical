@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinkcherry.ca privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618075339id_/http%3A//www.pinkcherry.ca/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkcherry.ca privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124002518id_/http%3A//www.pinkcherry.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ Privacy & Security
 
 At PinkCherry.ca Canada (a division of TBMBM, Inc.), we know that your privacy and security while shopping online is very important. Below, please find the top privacy and security-related questions and answers.
 
-What do you do with the information that you collect from me when I purchase a product? 
+What do you do with the information that you collect from me when I purchase a product?
 
 All sales information is kept confidential and is used only for reporting purposes at PinkCherry.ca Canada. We DO NOT sell or distribute this information in any form to 3rd parties.
 
@@ -20,7 +20,7 @@ Cookies are a method used to track a customer through their sales process for st
 
 How do you make sure my credit card information is secure?
 
-We use SSL (Secured Socket Layer) which encrypts the information that you input. This is the same level of protection used by the banks and financial institutions to ensure that your bank account information can be viewed online. 
+We use SSL (Secured Socket Layer) which encrypts the information that you input. This is the same level of protection used by the banks and financial institutions to ensure that your bank account information can be viewed online.
 
 How do you keep my information discreet on my credit card statement and shipping box?
 
