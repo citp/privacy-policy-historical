@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordmark.it privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525021742id_/http%3A//wordmark.it/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordmark.it privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123193433id_/http%3A//www.wordmark.it/privacy.html) for the most accurate reproduction.*
 
 # wordmark.it - privacy policy
 
@@ -6,7 +6,7 @@
 
 Thanks for using Wordmark.it. We care about your privacy and only collect a minimum of information that we think is necessary for the smooth running of the website.
 
-You can browse the site without signing-up but certain activities (saving selections, modifying preview tracking, setting custom font size, ordering selections, zooming into selections, changing preview letter case) do require you to sign-up. The sign-up process involves the submission of a valid email address.
+You can browse the site without signing-up but certain activities (saving selections) do require you to sign-up. The sign-up process involves the submission of a valid email address.
 
 We do not spam, and will not share your email address with any third-party without your explicit consent.
 
@@ -18,7 +18,7 @@ By accessing or using this Site, you agree to the terms of Wordmark.it’s Priva
 
 ## Collection of personal information
 
-In order you engage in certain activities on this Site, such as saving selections, modifying preview tracking, setting custom font size, ordering selections, zooming into selections and changing preview letter case, Wordmark.it may ask you to provide certain information about yourself by filling out and submitting an online form and pay for these services. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, Wordmark.it will ask that you provide us with personal information, such as: your e-mail address.
+In order you engage in certain activities on this Site, such as saving selections, Wordmark.it may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, Wordmark.it will ask that you provide us with personal information, such as your e-mail address.
 
 ## How your personal information is used
 
