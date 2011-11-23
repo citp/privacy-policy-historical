@@ -1,36 +1,10 @@
-> *The following text is extracted and transformed from the ezwingame.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520160930id_/http%3A//ezwingame.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezwingame.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123162434id_/http%3A//www.ezwingame.com/privacy) for the most accurate reproduction.*
 
 # Win Free, Win Big, Free Prizes, Free Giveaway Contests - EZWinGame
-
-**EZ WIN GAME**
-
-_[**WWW.EZWINGAME.COM**](http://www.ezwingame.com/)_
-
-**PRIVACY POLICY**
-
-**Updated February 11, 2010**
 
 We are committed to keeping your personal information private. Please review our Terms and Conditions (“T&Cs”), any other rules, which also govern your visit and use of our website(s), including but not limited to any Sweepstakes or Game Rules. 
 
 Please read the following general website Privacy Policy carefully before accessing the www.ezwingame.com website (the “Site”), uploading any content or comments or entering any service, audition, competition, or promotion at the Site, so that you are aware of your legal rights and obligations with respect to the Site or EZWin Game LLC and its sponsors, advertisers, affiliates, parents and subsidiaries (individually and collectively, "we," "us," “our,” or "EZWin"). 
-
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.ezwingame.com/seal_m "Validate TRUSTe privacy certification")
-
-Ezwingame has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with  
-<http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html>
-
-including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at:
-
-EZWin Game LLC
-
-6400 N. Andrews Avenue, Suite #320
-
-Ft. Lauderdale, FL 33309
-
-info@ezwingame.com
-
-If you are not satisfied with our response you can contact   
-<http://watchdog.truste.com/pvr.php?page=complaint>
 
 Visitor access to this Site and the Services (as defined below) is void and unauthorized where prohibited by applicable law or regulation.
 
