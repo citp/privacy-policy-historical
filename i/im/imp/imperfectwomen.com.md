@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imperfectwomen.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525061206id_/http%3A//www.imperfectwomen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imperfectwomen.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123104300id_/http%3A//www.imperfectwomen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Imperfect Women | Celebrity, Style, Women's Health, Relationships, Career, Parenting, Women, Book Reviews and Politics
 
