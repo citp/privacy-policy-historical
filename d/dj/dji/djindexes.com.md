@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the djindexes.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525021734id_/http%3A//www.djindexes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djindexes.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123110629id_/http%3A//www.djindexes.com/privacy) for the most accurate reproduction.*
 
-# Dow Jones Indexes » » Privacy Policy
+# Dow Jones Indexes » Privacy Policy
 
 Sites Subject to this Privacy Policy
 
