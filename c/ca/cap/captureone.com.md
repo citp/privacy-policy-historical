@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the captureone.com privacy policy that was archived on 2011-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110216011740id_/http%3A//www.phaseone.com/Phase%2520One/Find-PhaseOne/About-Us/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the captureone.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123183524id_/http%3A//www.phaseone.com/Phase%2520One/Find-PhaseOne/About-us/Privacy.aspx) for the most accurate reproduction.*
 
-# Find Phase One
+# About Phase One
 
 **Privacy Statement**
 
