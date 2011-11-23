@@ -1,65 +1,62 @@
-> *The following text is extracted and transformed from the klicknews.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126025655id_/http%3A//klicknews.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klicknews.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123173428id_/http%3A//www.klicknews.com/static/privacy) for the most accurate reproduction.*
 
-# KlickNewsPrivacy Policy
+# Privacy Policy | klicknews
 
-  * [Published News](http://www.klicknews.com/)
-  * [Upcoming News](https://web.archive.org/upcoming.php)
-  * [Submit Story](https://web.archive.org/submit.php)
+[ ]()
 
+Our Commitment To Privacy 
 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
-**_Privacy Policy_**  
-This privacy policy sets out how Klicknews uses and protects any information that you give Klicknews when you use this website.  
-Klicknews is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
-Klicknews may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 2009  
-**What we collect**   
-We may collect the following information:
+The Information We Collect:  
+This notice applies to all information collected or submitted on klicknews. On some pages, you can order services and make requests. The types of personal information collected at these pages are:
 
-  * name and job title
-  * contact information including email address
-  * demographic information such as postcode, preferences and interests
-  * other information relevant to customer surveys and/or offers
+Name  
+Address  
+Email address  
+Phone number  
+IP Address  
+(etc.)
 
+The Way We Use Information:  
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
 
+We use the information you provide about someone else when referring our services only to sell our service and maintain the customer. We do not share this information with outside parties except to the extent necessary to deliver our service.
 
-**What we do with the information we gather**  
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-  * Internal record keeping. 
-  * We may use the information to improve our products and services. 
-  * We may periodically send promotional emails **** about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+You can register with our web site if you would like to receive updates on our new products and services. We use non-identifying and aggregate information to better design our web site and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our web site, but we would not disclose anything that could be used to identify those individuals.
 
+Tell-A-Friend  
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. klicknews will automatically send the friend a one-time email inviting them to visit the site. Klicknews stores this information for the sole purpose of sending this one-time email.
 
+Links  
+This web site contains links to other sites. Please be aware that we klicknews are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
-**Security**   
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, **** we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.   
-**How we use cookies**   
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.   
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.   
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.   
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.  
-**Links to other websites**  
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.  
-**Controlling your personal information**  
-You may choose to restrict the collection or use of your personal information in the following ways:
+How We Use Cookies:  
+"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. Cookies can help a web site recognize a previous visitor and remember any preferences that may have been set during earlier visits. Cookies can securely store a user's profile, personalize your use of our services and help us understand the types of resources you're interested in. klicknews use cookies on our sites to track visitor practices and determine which site features and services are most important to users. A cookie makes it possible for the user to access the site without requiring entry of a user name or password, allows the user to view different restricted areas of the site without reregistering, and allows the user to personalize the site for future use. Most web browsers automatically accept cookies, but you can usually change your browser to prevent acceptance of cookies.
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [email address]
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Commission Junction, Kontera. Google, as a third party vendor, uses cookies to serve ads on this webite. Google's use of the DART cookie enables it to serve ads to klicknews's users based on their visits to this website and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.klicknews.com send directly to your browsers. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. These third-party ad servers automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or Web Beacons may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
+Klicknews has no access to or control over these cookies that are used by third-party advertisers.
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.  
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.klicknews.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-### What is KlickNews
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-KlickNews is a social bookmarking site, you can share all the interesting articles, news, stories, blogs that are on web 
+Our Commitment To Data Security  
+This web site takes every precaution to protect our users’ information. When users submit sensitive information via the web site, your information is protected both online and off-line.
 
-  * [read more](https://web.archive.org/faq-en.php)
+If you have any questions about the security at our web site, you can send an email to security at www.klicknews.com. 
 
+Our Commitment To Children's Privacy:  
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our web site from those we actually know are under 13, and no part of our web site is structured to attract anyone under 13.
 
+How To Contact Us
 
-### Subscribe For Newsletter
+Should you have other questions or concerns about these privacy policies, please contact us support at klicknews.com
 
-Subscribe for our weekly newsletter, we will send you most popular news/articles of the week directly to your inbox: 
+Notification of Changes  
+If we decide to change our privacy policy, we will post those changes on our Home page so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
