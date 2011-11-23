@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gethealthyharlem.org privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515012703id_/http%3A//www.gethealthyharlem.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gethealthyharlem.org privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123204420id_/http%3A//www.gethealthyharlem.org/privacy) for the most accurate reproduction.*
 
 # Privacy | GetHealthyHarlem.org
 
@@ -20,7 +20,7 @@ www.GetHealthyHarlem.org
 
 
 
-**1.   About GetHealthyHarlem.org**  
+ **1.   About GetHealthyHarlem.org**  
 GetHealthyHarlem.org is an online service that allows our members to set up unique personal profiles and connect with other people in the Harlem community who are interested in health and wellness. GetHealthyHarlem.org members can view each others' profiles, meet and communicate with other members through blogs and forums. The site will allow members to make new friends and contacts or invite people they already know who share their health and wellness interests to join the site. They can also learn from community health experts who blog, contribute articles or are profiled on the site. GetHealthyHarlem.org members can change their profile information at any time and can control how the members and the service communicate with them.
 
 GetHealthyHarlem.org cares deeply about online privacy. If you have any questions concerning this privacy policy, please [Contact Us](https://web.archive.org/contact).
@@ -52,7 +52,7 @@ GetHealthyHarlem.org uses cookies to store visitor's preferences, to customize n
 
 Top of page
 
-**5.   Links**  
+ **5.   Links**  
 GetHealthyHarlem.org contains links to sites. GetHealthyHarlem.org is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy polity stated on that site. Our privacy policy only governs information collected on GetHealthyHarlem.org.
 
 Top of page
