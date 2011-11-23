@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nzte.govt.nz privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102003850id_/http%3A//www.nzte.govt.nz/about-this-site/pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzte.govt.nz privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123102304id_/http%3A//www.nzte.govt.nz/about-this-site/pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
