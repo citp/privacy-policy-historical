@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metalsdepot.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525075524id_/http%3A//www.metalsdepot.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metalsdepot.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123174658id_/http%3A//www.metalsdepot.com/privacy.phtml) for the most accurate reproduction.*
 
 # MetalsDepot® - America's Metal Superstore! Buy Small Quantity Metals Online!
 
