@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swiftappraisal.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221144454id_/http%3A//swiftappraisal.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swiftappraisal.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123121531id_/http%3A//www.swiftappraisal.com/privacypolicy.php) for the most accurate reproduction.*
 
 # SwiftAppraisal.com | Privacy Policy
 
@@ -35,4 +35,4 @@ This website contains links to websites not owned or controlled by SwiftAppraisa
 SwiftAppraisal.com reserves the right to change, modify, add or remove portions of this Privacy Policy at any time without prior notice.
 
   
-Should you have other questions or concerns about this privacy policy, please [contact us](https://web.archive.org/web/20101221144454id_/http%3A//swiftappraisal.com/contactform.php).
+Should you have other questions or concerns about this privacy policy, please [contact us](https://web.archive.org/web/20111123121531id_/http%3A//www.swiftappraisal.com/contactform.php).
