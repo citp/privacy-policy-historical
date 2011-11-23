@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pulso.org privacy policy that was archived on 2010-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101110122153id_/http%3A//www.pulso.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulso.org privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123180842id_/http%3A//www.pulso.org/privacy.php) for the most accurate reproduction.*
 
 # Pulso Web Directory
 
@@ -12,20 +12,18 @@ Pulso Directory may change this policy from time to time by updating this page. 
 
 We may collect the following information:
 
-• name
-
-• contact information including email address
-
-• demographic information such as IP
+* name
+* contact information including email address
+* demographic information such as IP
 
 **What we do with the information we gather**
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-• We may use the information to improve our products and services.   
-• We may periodically send promotional emails about new products, special offers or other information which we think • you may find interesting using the email address which you have provided.   
-• From time to time, we may also use your information to contact you for market research purposes. We may contact you by email.   
-• We may use the information to customise the website according to your interests.
+* We may use the information to improve our products and services.
+* We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+* From time to time, we may also use your information to contact you for market research purposes. We may contact you by email.
+* We may use the information to customise the website according to your interests.
 
 **Security**
 
@@ -47,10 +45,12 @@ Our website may contain links to other websites of interest. However, once you h
 
 **Controlling your personal information**
 
-You may choose to restrict the collection or use of your personal information in the following ways
+You may choose to restrict the collection or use of your personal information in the following ways:  
 
-• If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us.
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+* If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us.
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.   
+
 
 If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible. We will promptly correct any information found to be incorrect.
