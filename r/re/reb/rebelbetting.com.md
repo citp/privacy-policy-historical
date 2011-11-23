@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rebelbetting.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303231333id_/http%3A//rebelbetting.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rebelbetting.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124004119id_/http%3A//rebelbetting.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security | Sports Arbitrage (Surebet) Software - RebelBetting
 
