@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tophits4u.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623215134id_/http%3A//www.tophits4u.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tophits4u.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123045029id_/http%3A//www.tophits4u.com/privacy.php) for the most accurate reproduction.*
 
 # TopHits4U
 
@@ -26,6 +26,6 @@ If we decide to change our Privacy Policy we will notify users by way of an emai
 
 **TopHits4U Member Advertisments:**
 
-[](http://www.tophits4u.com/click.php?banid=1255)
+[](http://www.tophits4u.com/click.php?banid=1951)
 
-Feature Link: [**Are You Building a List?**](http://www.tophits4u.com/click.php?linkid=11)
+Feature Link: [**Finish FIRST with TJP !**](http://www.tophits4u.com/click.php?linkid=446)
