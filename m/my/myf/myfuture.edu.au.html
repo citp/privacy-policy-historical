@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the myfuture.edu.au privacy policy that was archived on 2011-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110407153314id_/http%3A//www.myfuture.edu.au/Footer%2520Items/General/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myfuture.edu.au privacy policy that was archived on 2011-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123185314id_/http%3A//www.myfuture.edu.au/en/Footer%2520Items/General/Privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><title>
 	myfuture: Australia's career information service
@@ -12,19 +12,28 @@
     
 <link href="/css/search.css" type="text/css" rel="stylesheet" media="screen">
 
+
+
 <script type="text/javascript" src="/js/jquery/jquery-1.3.2.min.js"></script>
+
 <script type="text/javascript">
     jQuery.noConflict();
 </script>
+
 <script type="text/javascript" src="/js/jquery/jquery-ui-1.7.2.custom.min.js"></script>
-<script type="text/javascript" src="/js/jquery/browserDetect-min.js"></script>
+
+
 <script type="text/javascript" src="/js/min/myfuture.js"></script>
 
+<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=true">
+</script>
 
 
 
-<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=true"></script>
-<link href="/sitecore/shell/applications/analytics/visitor.css.aspx" rel="stylesheet" type="text/css">
+
+
+
+<link href="/layouts/System/VisitorIdentification.aspx" rel="stylesheet" type="text/css">
 
     <script type="text/javascript">
         //<![CDATA[
@@ -41,12 +50,12 @@
 
 </head>
 <body class="MyFuture">
-    <form name="mainform" method="post" action="/Footer Items/General/Privacy.aspx" id="mainform">
+    <form name="mainform" method="post" action="/en/Footer Items/General/Privacy.aspx" id="mainform">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzA1NDk5NDY5D2QWAgIDEGRkFgJmDxUBEE1vemlsbGEgTW96aWxsYTVkZE9YCKXuq/1F7UtfDGZP+INEPd0Q">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzA1NDk5NDY5D2QWAgIDEGRkFgJmDxUBEFVua25vd24gVW5rbm93bjBkZCkAypjQpYMi27pqsXE8NTCOCsMu">
 </div>
 
-    <div id="mainWrapper" class="Mozilla Mozilla5">
+    <div id="mainWrapper" class="Unknown Unknown0">
         <a name="top"></a><a href="/">
             <img width="160" height="170" class="img_man altText" src="/images/myguide/man.jpg?w=160&amp;h=170&amp;as=1" alt="my future logo" id="imgLogo">
         </a>
@@ -59,15 +68,16 @@
                 <div id="search-site" name="search-site" class="headerForm">
 	<label id="sitecontentLabel" for="sitecontent"></label><input id="sitecontent_input" type="text" class="selectbox" autocomplete="off" readonly="" tabindex="2"><div id="sitecontent_container" class="selectbox-wrapper" style="display: none; width: 169px;"><ul><li id="sitecontent_input_all" class="selected">All</li><li id="sitecontent_input_Article">Articles</li><li id="sitecontent_input_Industry">Industries</li><li id="sitecontent_input_Occupation">Occupations</li><li id="sitecontent_input_Provider">Education and Training Providers</li><li id="sitecontent_input_Course">Courses and programs</li><li id="sitecontent_input_Scholarship">Awards and Scholarships</li><li id="sitecontent_input_Organisation">Contact organisations</li></ul></div><select id="sitecontent" name="sitecontent" class="selectWrapper" tabindex="2" style="display: none;">
 		<option text="All" value="all" selected="true">All</option><option text="Articles" value="Article">Articles</option><option text="Industries" value="Industry">Industries</option><option text="Occupations" value="Occupation">Occupations</option><option text="Education and Training Providers" value="Provider">Education and Training Providers</option><option text="Courses and programs" value="Course">Courses and programs</option><option text="Awards and Scholarships" value="Scholarship">Awards and Scholarships</option><option text="Contact organisations" value="Organisation">Contact organisations</option>
-	</select><label id="txtKeywordLabel" for="txtKeyword"></label><input type="text" id="txtKeyword" name="txtKeyword" class="searchWrapper" title="Keyword Search" value="Keyword Search..." maxlength="250" onfocus="if(this.value=='Keyword Search...')this.value='';"><input type="image" id="btnHomeSearch" name="btnHomeSearch" class="search_submitIcon" alt="Search" src="/images/myguide/search_submitIcon.jpg" onclick="__doPostBack('headerrightsearch_0','Home')"><br><span class="advancedSearchButton"><a name="" href="/Search.aspx">Advanced Search</a><br></span>
+	</select><label id="txtKeywordLabel" for="txtKeyword"></label><input type="text" id="txtKeyword" name="txtKeyword" class="searchWrapper" title="Keyword Search" value="Keyword Search..." maxlength="250" onkeydown="onSearchHomeKeydown()" onfocus="if(this.value=='Keyword Search...')this.value='';"><input type="image" id="btnHomeSearch" name="btnHomeSearch" class="search_submitIcon" alt="Search" src="/images/myguide/search_submitIcon.jpg" onclick="__doPostBack('headerrightsearch_0','Home')"><br><span class="advancedSearchButton"><a name="" href="/Search.aspx">Advanced Search</a><br></span>
 </div>
+                <h2> ... Australia's career information &amp; exploration service</h2>
             </div>
         </div>
         <div id="MyGuideNavigation">
             <div class="right">
                 <div id="navMain">
                     <ul class="myFutureNav">
-	<li class="home"><a href="/" style="width: 158px;"><span>home</span></a></li><li><a href="/MyGuide.aspx" style="width: 177px;"><span>My Guide</span></a></li><li><a href="/Home/The Facts.aspx" style="width: 179px;"><span>The Facts</span></a></li><li><a href="/Home/Assist Others.aspx" style="width: 195px;"><span>Assist Others</span></a></li><li><a href="/Home/Events.aspx" style="width: 164px;"><span>Events</span></a></li><li><a href="/Home/Help/Frequently Asked Questions.aspx" style="width: 152px;"><span>FAQ</span></a></li><li><a href="/Home/Help.aspx" style="width: 153px;"><span>Help</span></a></li><li class="last"><a href="/Home/Contact Us/Give Feedback.aspx" style="width: 188px;"><span>Contact Us</span></a></li>
+	<li class="home"><a href="/en.aspx" style="width: 152px;"><span>Home</span></a></li><li><a href="/en/MyGuide.aspx" style="width: 170px;"><span>My Guide</span></a></li><li><a href="/en/The Facts.aspx" style="width: 172px;"><span>The Facts</span></a></li><li><a href="/en/Assist Others.aspx" style="width: 188px;"><span>Assist Others</span></a></li><li><a href="/en/Events.aspx" style="width: 209px;"><span>News and Events</span></a></li><li><a href="/en/Help/Frequently Asked Questions.aspx" style="width: 145px;"><span>FAQ</span></a></li><li><a href="/en/Help.aspx" style="width: 146px;"><span>Help</span></a></li><li class="last"><a href="/en/Contact Us/Give Feedback.aspx" style="width: 184px;"><span>Contact Us</span></a></li>
 </ul>
                 </div>
                 
@@ -79,7 +89,7 @@
 
 <div id="breadCrumb">
     <div class="link">
-        <a href="/" title=" Home">Home</a> &gt; privacy policy
+        <a href="/en.aspx" title=" Home">Home</a> &gt; privacy policy
         
     </div>
 </div>
@@ -244,38 +254,38 @@
     <div class="copyrightAndInfo">
         <span class="footerLinks">
             
-                    <a href="/">
+                    <a href="/en/sitecore/content.aspx">
                         home
                     </a>
                 
                     <span class="separator">|</span>
                 
-                    <a href="/Home/Contact Us/Give Feedback.aspx">
+                    <a href="/en/Contact Us/Give Feedback.aspx">
                         contact us
                     </a>
                 
                     <span class="separator">|</span>
                 
-                    <a href="/Footer Items/General/Terms and Conditions.aspx">
+                    <a href="/en/Footer Items/General/Terms and Conditions.aspx">
                         terms &amp; conditions
                     </a>
                 
                     <span class="separator">|</span>
                 
-                    <a href="/Footer Items/General/Privacy.aspx">
+                    <a href="/en/Footer Items/General/Privacy.aspx">
                         privacy policy
                     </a>
                 
                     <span class="separator">|</span>
                 
-                    <a href="/Footer Items/General/Credits.aspx">
+                    <a href="/en/Footer Items/General/Credits.aspx">
                         credits
                     </a>
                 
                     <span class="separator">|</span>
                 
-                    <a href="/Footer Items/General/Historical Credits.aspx">
-                        historical credits
+                    <a href="/en/Footer Items/General/Historical Credits.aspx">
+                        Historical credits
                     </a>
                 
                     <a class="topLink" href="#top">&nbsp;</a>
