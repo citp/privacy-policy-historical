@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quantumjumping.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629000711id_/http%3A//www.quantumjumping.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantumjumping.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123142056id_/http%3A//www.quantumjumping.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Quantum Jumping
 
@@ -11,6 +11,12 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
 ### Introduction
 
 Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process (or at any other time) is used primarily to provide a customized experience as you use our Products and Services. Your information will never be licensed or sold to any third party. However, we may make limited disclosure of personal information under the specific circumstances described in the “Disclosure” section below.
+
+### How do I to stop receiving emails from you in the future?
+
+If you wish to stop receiving emails from us, you may unsubscribe at any time using the link provided at the bottom of all our emails. But if you’re still receiving emails from us, don’t worry, our Customer Happiness Manager will be there to assist you!
+
+All you have to do is drop our Customer Happiness Manager an email at [support@quantumjumping.com](mailto:support@quantumjumping.com) or [send one from our ‘Contact’ page here »](https://web.archive.org/contact)
 
 ### Disclosure
 
