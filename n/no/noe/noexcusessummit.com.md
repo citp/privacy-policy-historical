@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noexcusessummit.com privacy policy that was archived on 2011-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110227215945id_/http%3A//www.noexcusessummit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noexcusessummit.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123162542id_/http%3A//www.noexcusessummit.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | SEO Networker
 
