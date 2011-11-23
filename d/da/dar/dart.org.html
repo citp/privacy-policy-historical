@@ -1,0 +1,378 @@
+<!--The following is the downloaded HTML source of the dart.org privacy policy that was archived on 2011-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123184446id_/http%3A//www.dart.org/about/privacypolicy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>DART.org - Privacy Policy</title>
+<link rel="stylesheet" type="text/css" href="/css/screen.css">
+<link rel="stylesheet" type="text/css" href="/css/locations.css">
+<!--[if IE 6]><link rel="stylesheet" type="text/css" href="/css/ie6.css" /><![endif]-->
+<script type="text/javascript" src="/js/jquery-1.6.1.min.js"></script>
+<!--[if IE 6]><script type="text/javascript" src="/js/DD_belatedPNG_0.0.8a-min.js"></script>
+<script type="text/javascript">
+	DD_belatedPNG.fix('img');
+	$(document).ready(function(){
+		$('.buttonlink').hover(
+			function() {$(this).addClass('buttonlinkhover');},
+			function() {$(this).removeClass('buttonlinkhover');}
+		);
+	});
+</script><![endif]-->
+<script type="text/javascript">
+	$(document).ready(function(){
+		//-- FORM FIELD FOCUS FUNCTIONS
+		$('input:text').focus(function() {
+			if ($(this).hasClass('fieldhint')) {
+				$['originalValueOfField'+$(this).attr('id')] = $(this).val();
+				$(this).val('');
+				$(this).removeClass('fieldhint');
+			}
+		});
+		$('input:text').blur(function() {
+			if ($(this).val() == '') {
+				$(this).val($['originalValueOfField'+$(this).attr('id')]);
+				$(this).addClass('fieldhint');
+			}
+		});
+		//-- TRIP PLANNER / GOOGLE TRANSIT FUNCTIONS
+		$('#googletransit').hide();
+		$('#tabtripplanner').addClass('on');
+		$('#tabtripplanner a').click(function() {
+			$('#tripplanner').slideDown('slow');
+			$('#googletransit').slideUp('slow');
+			$('#tabgoogletransit').removeClass('on');
+			$('#tabtripplanner').addClass('on');
+		});
+		$('#tabgoogletransit a').click(function() {
+			$('#tripplanner').slideUp('slow');
+			$('#googletransit').slideDown('slow');
+			$('#tabtripplanner').removeClass('on');
+			$('#tabgoogletransit').addClass('on');
+		});
+		//-- HIDE/SHOW BOTTOM DIV FUNCTIONS
+		$('#hideshowhide').click(function() {
+			$('#bottom .container').slideUp(400, function() {
+				$('#hideshowhide').addClass('hide');
+				$('#hideshowshow').removeClass('hide');
+			});
+		});
+		$('#hideshowshow').click(function() {
+			$('#bottom .container').slideDown(400, function() {
+				$('#hideshowshow').addClass('hide');
+				$('#hideshowhide').removeClass('hide');
+			});
+		});
+	});
+</script>
+</head>
+<body>
+
+<p class="hide"><a href="#content">Skip to Content</a></p>
+
+
+<div class="header" id="top"><div id="stripes"></div><div class="container">
+
+	<h2 id="logo"><a href="/"><img src="/images/dart-logo.gif" alt="Home Page" title="Home Page"></a></h2>
+	<h3 id="tagline">DART – It's All Connected <sup>®</sup></h3>
+
+	<div class="aside" id="sitesearch">
+		<form method="post" action="/webapps/DARTSearch/searchResult.asp" name="" id="">
+			<div class="text"><input type="text" name="searchText" id="" value="" class="fieldhint"></div>
+			<div class="button"><input type="image" name="" id="" src="/images/searchbutton.gif" alt="Go" value="Go"></div>
+		</form>
+	</div><!-- /#sitesearch -->
+
+	<ul class="nav" id="nav">
+		<li><a href="/schedules/schedules.asp"><strong>Schedules</strong> &amp; Maps</a></li>
+		<li><a href="/fares/fares.asp"><strong>Fares</strong> &amp; Passes</a></li>
+		<li><a href="/riding/riding.asp"><strong>How</strong> to Ride</a></li>
+		<li><a href="/news/newsevents.asp"><strong>News</strong> &amp; Events</a></li>
+		<li class="on"><a href="/about/aboutdart.asp"><strong>About</strong> DART</a></li>
+	</ul><!-- /#nav -->
+
+	<ul class="nav" id="eyebrow">
+		<li><a href="/riding/accessibility.asp">Accessibility</a></li>
+		<li><a href="http://m.dart.org" target="_mobile" title="Opens in a new window">Mobile</a></li>
+		<li><a href="/espanol/defaultespanol.asp">Español</a></li>
+	</ul><!-- /#eyebrow -->
+
+	<ul class="nav" id="social">
+		<li>Follow Us:</li>
+		<li><a href="/rss/rsshome.asp" title="RSS Feeds"><img src="/images/social/rss.gif" alt="RSS Feeds"></a></li>
+		<li><a href="http://www.facebook.com/dartdallas" target="_facebook" title="Go to Facebook in a new window"><img src="/images/social/facebook.gif" alt="Go to Facebook in a new window"></a></li>
+		<li><a href="http://www.twitter.com/dartmedia" target="_twitter" title="Go to Twitter in a new window"><img src="/images/social/twitter.gif" alt="Go to Twitter in a new window"></a></li>
+		<li><a href="http://www.youtube.com/dartdallas" target="_youtube" title="Go to YouTube in a new window"><img src="/images/social/youtube.gif" alt="Go to YouTube in a new window"></a></li>
+		<li><a href="https://public.govdelivery.com/accounts/TXDART/subscriber/topics?qsp=CODE_RED" target="_govdel" title="My DART Updates Email Sign Up opens in a new window"><img src="/images/social/email.gif" alt="Sign up for My DART Updates. Opens in a new window."></a></li>
+	</ul><!-- /#social -->
+
+</div><!-- /.container --></div><!-- /#top -->
+
+
+<div id="main"><div class="container">
+
+	<div class="nav" id="leftsidebar">
+
+		<div class="box">
+
+			<h4 class="header">About DART</h4>
+			<ul class="nav">
+				<li><a href="/about/aboutdart.asp">About DART</a>
+					<ul>
+						<li><a href="/about/missionstatement.asp">Mission Statement</a></li>					
+						<li><a href="/about/servicearea.asp">Service Area</a></li>
+					</ul>
+				</li>
+				<li><a href="/about/board/boardagendas/boardagendas.asp">DART Board Information</a>
+					<ul>
+						<li><a href="/about/board/boardagendas/boardagendas.asp">Agendas</a></li>
+						<li><a href="/about/board/boardbios/boardbios.asp">Board Biographies</a></li>
+						<li><a href="/about/board/boardminutes/boardminutes.asp">Board Minutes</a></li>
+						<li><a href="/meetings/boardcalendar.asp">Board Calendar</a></li>
+						<li><a href="/about/board/DARTBoardBylaws.pdf">Board Bylaws (PDF file)</a></li>
+						<li><a href="/about/board/DARTBoardRulesOfProcedure.pdf">Board Rules of Procedure (PDF file)</a></li>
+					</ul>
+				</li>
+				<li><a href="/about/executivestaff/staffbios.asp">DART Executive Staff</a></li>
+				<li><a href="/about/dartfacts.asp">DART Facts</a>
+					<ul>
+						<li><a href="/about/dartreferencebookmar11.pdf">DART Reference Book (PDF file)</a></li>
+						<li><a href="/about/economicimpact.asp">Economic Impact</a></li>
+						<li><a href="/about/history.asp">History</a></li>
+					</ul>
+				</li>
+				<li><a href="/about/publications.asp">DART Publications</a>
+					<ul>
+						<li><a href="/about/inmotion/summer11/index.htm">Annual Report</a></li>
+						<li><a href="/about/publications.asp#inmotion">Inmotion</a></li>
+						<li><a href="/poetry/poetryinmotion.asp">Poetry in Motion</a></li>
+						<li><a href="/about/riderinsider/specialevents.asp">Rider Insider Calendar</a></li>
+					</ul>
+				</li>
+				<li><a href="/about/publicart/publicartindex.asp">Station Art &amp; Design</a></li>
+				<li><a href="/about/dartvideo.asp">Video</a></li>
+				<div class="hrthin"></div>
+				<li><a href="/about/contactdart.asp">Contact DART</a>
+					<ul>
+						<li><a href="/about/contactdart.asp">Customer Information</a></li>
+
+						<li><a href="/newsroom/photographypolicy.asp">Filming on DART</a></li>
+						<li><a href="/about/publicinformationact.asp">Public Information Act</a></li>
+					</ul>
+				</li>
+				<li><a href="/about/dartpolice/dartpolice.asp">DART Police</a>
+					<ul>
+						<li><a href="/riding/passengerguidetosafety.asp?zeon=dartpolice">Passenger Guide to Safety &amp; Security</a></li>
+						<li><a href="/about/dartpolice/dartpoliceemployment.asp">Employment Opportunities</a></li>
+						<li><a href="/about/dartpolice/dartpolice.asp">About DART Police</a></li>
+						<li><a href="/about/dartpolice/fareevasion.asp">Fare Evasion Citation Information</a></li>
+						<li><a href="/about/dartpolice/dartpolicestaff.asp">Staff and Department Structure</a></li>
+						<li><a href="/about/dartpolice/dartpolicecommunityoutreach.asp">Community Outreach</a></li>
+						<li><a href="/about/dartpolice/dartpolicefaq.asp">Frequently Asked Questions (FAQ)</a></li>
+						<li><a href="/about/dartpolice/dartpolicelinks.asp">Links and Resources</a></li>
+						<li><a href="/about/dartpolice/dartpolicecontact.asp">Contact Information</a></li>
+					</ul>
+				</li>
+				<li><a href="/about/deo/deo.asp">Economic Opportunity</a></li>
+				<li><a href="/hr/humanresources.asp">Employment</a></li>
+				<li><a href="/debtdocuments/investorinformation.asp">Financial Information</a></li>
+				<li><a href="/about/internalaudit/internalaudit.asp">Internal Audit</a></li>
+				<li><a href="/procurement">Procurement</a></li>
+				<li><a href="/about/advertisewithdart.asp">Transit Advertising</a></li>
+				<li><a href="/transiteducation/transiteducation.asp">Transit Education</a></li>
+				<li><a href="/about/tod.asp">Transit-Oriented Development and Planning</a></li>
+				<div class="hrthin"></div>
+				<li><a href="/dartarra/default.asp">DART &amp; Recovery Act</a>
+					<ul>
+						<li><a href="http://www.recovery.gov">Recovery.gov</a></li>
+					</ul>
+				</li>
+				<li class="on"><a href="/about/legalnotices.asp">Legal Notices</a>
+					<ul>
+						<li><a href="/about/legalnotices.asp">Legal Notices</a></li>
+						<li class="on"><a href="/about/privacypolicy.asp">Privacy Policy</a></li>
+						<li><a href="/about/publicinformationact.asp">The Public Information Act</a></li>
+						<li><a href="/about/legallandownersbillofrights.asp">Texas Landowner's Bill of Rights</a></li>
+						<li><a href="/about/dartpolice/dartpolicenotice.asp">Filing a Complaint with the DART Police Department</a></li>
+					</ul>
+				</li>
+			</ul>
+
+			<div class="hr"></div>
+			
+			
+			<h4>ADDITIONAL LINKS</h4>
+			<ul>
+				<li><a href="/riding/paratransit.asp">Paratransit Services</a></li>
+				<li><a href="/riding/accessibility.asp">Accessibility</a></li>
+				<li><a href="/schedules/effectivedates.asp">Route Effective Dates</a></li>
+				<li><a href="/schedules/holidayschedules.asp">Holiday Schedule Information</a></li>
+				<li><a href="/meetings/meetings.asp">Meetings</a></li>
+				<li><a href="/newsroom/newsroom.asp">Newsroom</a></li>
+				<li><a href="/about/darttospecialevents.asp">Special Events</a></li>
+			</ul>
+			
+		</div><!-- /.box -->
+
+		<p class="promo"><a href="/riding/traveltoolsandapps.asp"><img src="/images/leftsidebar/on-the-go-in-the-know.jpg" alt="On the Go. In the Know.SM : Travel Tools &amp; Apps" border="0"></a></p>
+		<p class="promo"><a href="/webapps/wmds/"><img src="/images/leftsidebar/wheres-my-dart-stop.jpg" alt="Where's My DART Stop? : DART Stop Locator" border="0"></a></p>
+		<p class="promo"><a href="/webapps/wmb/default.asp"><img src="/images/leftsidebar/wheres-my-bus.jpg" alt="Where's My Bus? : Next Bus at Specific Stop" border="0"></a></p>
+
+	</div><!-- /#leftsidebar -->
+
+	<div class="article" id="content1col">
+		<a name="content"></a>
+		<!--=====================-->
+		<!--=== BEGIN CONTENT ===-->
+		<!--=====================-->
+
+
+
+		
+		<a name="pageTop"></a>
+		
+		<h1>Privacy Policy</h1>
+
+		<div class="hr"></div>
+		
+<div align="center"><strong>Privacy and Security Policy</strong></div><br>
+
+The Dallas Area Rapid Transit (DART), a Texas Regional Transportation Authority, maintains this site (<a href="http://www.DART.org/">http://www.DART.org/</a>) as a public service. This policy describes DART's privacy practices regarding information collected from visitors to the site. It contains information about what information is collected and how that information may be used. This policy may be changed by DART at any time and without notice. Nothing contained in this policy statement shall be construed as specific legal advice.  <strong>Please note that, with certain exceptions, the majority of information collected or maintained by DART may be subject to the provisions of the Texas Public Information Act (Chapter 552, Texas Government Code) for disclosure to the public upon request.</strong>  One potential exception to disclosure is contained in §552.137 of the Texas Government Code, both of which state that an "e-mail address of a member of the public that is provided for the purpose of communicating electronically with a governmental body is confidential and not subject to disclosure ... [unless] the member of the public affirmatively consents to its release." <strong>Please note that using the DART Store Online and/or DART's "Solicitations Online" shall constitute affirmative consent to release your e-mail address.</strong> If you have questions or comments about the agency's privacy policy, please send e-mail to <a href="mailto:eelam@DART.org">eelam@DART.org</a>.<br>
+<br>
+The following is the privacy and security policy for this site (all pages starting with www.DART.org):<br>
+<br>
+<strong>Information Collected and Stored Automatically</strong><br>
+In the course of operating a web site, certain information may be collected automatically in logs or by cookies. A cookie is an electronic file that contains unique information a web site can use to track such things as passwords, lists of pages you've visited, and the date when you last looked at a specific page. It can be used to identify your session at a particular web site. A cookie is often used to identify the items selected for a specific shopping cart application or to verify that you have registered for use of particular portions of a web site. A cookie may also be used for site management functions. As a part of site management, information is collected for analysis and statistical purposes. This information is not reported or used in any manner that would reveal personally identifiable information. It will not be released to any outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings, or pursuant to any other legal or statutory request. Please note that this web site uses cookies for all of the, part of the, or for similar reason to the ones listed above.<br>
+<br>
+The following information is collected as part of this site's management for analysis and statistical purposes:<br>
+<ul>
+<li><strong>User Client hostname</strong> - The hostname (or IP address if Domain Name Server is disabled) of the user/client requesting access.</li>
+<li><strong>HTTP header, "user-agent"</strong> - The user-agent information includes the type of browser, its version, and the operating system it's using.</li>
+<li><strong>HTTP header, "referrer"</strong> - The referrer specifies the page from which the client accessed the current page.</li>
+<li><strong>System date</strong> - The date and time of the user/client request.</li>
+<li><strong>Full request</strong> - The exact request made by the user/client.</li>
+<li><strong>Status</strong> - The status code the server returned to the user/client.</li>
+<li><strong>Content length</strong> - The content length, in bytes, of the document sent to the user/client.</li>
+<li><strong>Method</strong> - The request method used.</li>
+<li><strong>Universal Resource Identifier (URI)</strong> - The location of a resource on the server.</li>
+<li><strong>Query string of the URI</strong> - Anything after the question mark in a URI.</li>
+<li><strong>Protocol</strong> - The transport protocol and version used.</li>
+</ul>
+<strong>Information Collected from E-mails and Web Forms</strong><br>
+If you send us an electronic mail message with a question or comment that contains personally identifying information, or fill out a form that e-mails DART this information, the personally identifiable information will only be used to respond to your request and analyze trends. We may redirect your message to another government agency that is in a better position to answer your question. Unless required by law, court order, or as legally required to do so in connection with law enforcement investigations or other legal proceedings, we will not sell or release your e-mail address unless you affirmatively consent to the sale or release of the information. <strong>Please note that using the DART Store Online and/or DART's "Solicitations Online" shall constitute an affirmative consent to release your e-mail address.</strong><br>
+<br>
+<strong>Security, Intrusion, Detection Language</strong><br>
+For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Except for authorized law enforcement investigations, court order, or other legal proceedings, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with the Texas State Library and Archives Commission. <strong>Please note that, with certain exceptions, the majority information collected or maintained by DART may be subject to the provisions of the Texas Public Information Act (Chapter 552, Texas Government Code) for disclosure to the public upon request.</strong>  Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under, but not limited to, the Texas Penal Code Chapters 33 (Computer Crimes) or 33A (Telecommunications Crimes), and all applicable federal laws.<br>
+<br>
+<strong>Use/Release of Information</strong><br>
+All information collected from the DART web site, including the summary server log information, e-mails sent to the web site, and information collected from web-based forms, may be subject to the Texas Public Information Act. One potential exception to disclosure is contained in Â§552.137 of the Texas Government Code, both of which state that an "e-mail address of a member of the public that is provided for the purpose of communicating electronically with a governmental body is confidential and not subject to disclosure ... [unless] the member of the public affirmatively consents to its release." <strong>Please note that use of the DART Store Online and/or DART's "Solicitations Online" shall constitute an affirmative consent to release of your e-mail address.</strong>
+
+<br><br>
+
+Produced and Maintained by the Dallas Area Rapid Transit.<br> Copyright,
+<script type="text/javascript">
+document.write(new Date().getFullYear());
+</script>2020 
+Dallas Area Rapid Transit. All Rights Reserved.<br>
+<br>
+
+<p><a href="#pageTop">Back to Top</a></p>
+
+		
+					<div class="hr"></div>
+
+		<!--===================-->
+		<!--=== END CONTENT ===-->
+		<!--===================-->
+	</div><!-- /#content -->
+
+	
+	
+	<div id="hideshow"><span id="hideshowhide">hide</span><span id="hideshowshow" class="hide">show</span></div>
+</div><!-- /.container --></div><!-- /#main -->
+
+<div id="bottom"><div class="container">
+
+	<div class="footer" id="contactdart">
+		<p><img src="/images/contact-dart.gif" alt="DART"></p>
+		<p id="contactaddress"><span id="contactheader">Customer Information</span><br>1401 Pacific Ave.<br>Dallas, TX 75202</p>
+		<p id="contactphone">214-979-1111</p>
+	</div><!-- /#contactdart -->
+
+	<div id="bottomcolumns">
+
+		<div class="bottomcolumn">
+			<h4>Travel Info</h4>
+			<ul class="nav">
+				<li><a href="/schedules/schedules.asp">Schedules &amp; Maps</a></li>
+				<li><a href="/fares/fares.asp">Fares &amp; Passes</a></li>
+				<li><a href="/riding/riding.asp">How to Ride</a></li>
+				<li><a href="/travelagent/darttravelagent.asp">DART Travel Agent</a></li>
+				<li><a href="/maps/hov.asp">HOV</a></li>
+				<li><a href="/about/rideshare.asp">Vanpool / Carpool</a></li>
+				<li><a href="/riding/bike.asp">Bike Information</a></li>
+			</ul><!-- /.nav -->
+		</div><!-- /.bottomcolumn -->
+
+		<div class="bottomcolumn">
+			<h4>Customer Service</h4>
+			<ul class="nav">
+				<li><a href="/about/contactdart.asp">Contact Us</a></li>
+				<li><a href="/rideralerts/fullra.asp">Rider Alerts</a></li>
+				<li><a href="/about/privacypolicy.asp">Privacy Policy</a></li>
+				<li><a href="/sitemap.asp">Site Map</a></li>
+				<div class="hr"></div>
+				<li><a href="/espanol/defaultespanol.asp">Español</a></li>
+			</ul><!-- /.nav -->
+		</div><!-- /.bottomcolumn -->
+
+		<div class="bottomcolumn">
+			<h4>About DART</h4>
+			<ul class="nav">
+				<li><a href="/about/aboutdart.asp">About Us</a></li>
+				<li><a href="/about/expansion/otherprojects.asp">Expansion / Construction</a></li>
+				<li><a href="/riding/securityinitiatives.asp">Security</a></li>
+				<li><a href="/hr/humanresources.asp">Employment</a></li>
+				<li><a href="/procurement">Procurement</a></li>
+				<li><a href="/about/deo/deo.asp">Economic Opportunity</a></li>
+				<li><a href="/debtdocuments/investorinformation.asp">Financial Information</a></li>
+				<li><a href="/dartarra/default.asp">DART &amp; Recovery Act</a></li>
+			</ul><!-- /.nav -->
+		</div><!-- /.bottomcolumn -->
+
+	</div><!-- /#bottomcolumns -->
+
+	<div id="bottomfeatures">
+		<ul class="nav">
+			<li><a href="/fares/wheretobuy.asp"><img src="/images/bottomfeatures/where-to-buy.png" alt=""> Where To Buy <strong>Fares &amp; Passes</strong></a></li>
+			<li><a href="/fares/commutecost.asp"><img src="/images/bottomfeatures/commute-calendar.png" alt=""> Ride DART, Save Money. <strong>Commute Calculator</strong></a></li>
+			<li><a href="http://www.facebook.com/dartdallas" target="_new" title="Go to Facebook in a new window"><img src="/images/bottomfeatures/facebook.png" alt="Go to Facebook in a new window"> Find Us On <strong>Facebook</strong></a></li>
+			<li><a href="http://www.twitter.com/dartmedia" target="_new" title="Go to Twitter in a new window"><img src="/images/bottomfeatures/twitter.png" alt="Go to Twitter in a new window"> Follow Us On <strong>Twitter</strong></a></li>
+		</ul><!-- /.nav -->
+	</div><!-- /#bottomfeatures -->
+
+</div><!-- /.container --></div><!-- /#bottom -->
+
+
+<div class="footer" id="footer"><div class="container">
+
+	<p id="copyright">©
+	<script type="text/javascript">
+    document.write(new Date().getFullYear());
+	</script>2020
+	Dallas Area Rapid Transit. All rights reserved. &nbsp; <a href="/about/privacypolicy.asp">Privacy</a> | <a href="/about/legalnotices.asp">Legal</a> | <a href="/sitemap.asp">Site Map</a></p>
+	<p id="siteby">Website Design by <a href="http://www.valiantmedia.com/" target="_blank">Valiant Media</a></p>
+
+</div><!-- /.container --></div><!-- /#footer -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1420251-1");
+pageTracker._setDomainName(".dart.org");
+pageTracker._trackPageview();
+</script>
+
+
+</body></html>
