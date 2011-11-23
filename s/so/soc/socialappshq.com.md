@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialappshq.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101135653id_/http%3A//www.socialappshq.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialappshq.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123210126id_/http%3A//www.socialappshq.com/home/privacy) for the most accurate reproduction.*
 
 # SocialAppsHQ - Use our apps to make your Facebook Page stand out
 
