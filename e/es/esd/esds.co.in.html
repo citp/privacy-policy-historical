@@ -1,0 +1,423 @@
+<!--The following is the downloaded HTML source of the esds.co.in privacy policy that was archived on 2011-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123101823id_/http%3A//www.esds.co.in/privacy_policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>ESDS - Privacy Policy </title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="ESDS - Terms of Service">
+<meta name="keywords" content="ESDS - Terms of Service">
+<meta name="author" content="ESDS">
+<meta name="Classification" content="Terms of Service">
+<meta name="resource-type" content="document">
+<meta name="rating" content="General">
+<link href="http://www.esds.co.in/css/stylesheet.css" rel="stylesheet" type="text/css">
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="http://www.esds.co.in/css/iefix.css" />
+<![endif]-->
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.esds.co.in/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.esds.co.in/js/jquery.colorbox.js"></script>
+<!--Menuscript -->
+<script type="text/javascript" src="http://www.esds.co.in/js/menu.js"></script>
+<!--Menuscript -->
+
+<!--Flashscript -->
+<script src="http://www.esds.co.in/Scripts/swfobject_modified.js" type="text/javascript"></script>
+<!--Flashscript -->
+
+<!--Footerscript -->
+<script type="text/javascript" src="http://www.esds.co.in/js/crawler.js"></script>
+<!--Footerscript-->
+
+<!--Side bar script -->
+<script type="text/javascript" src="http://www.esds.co.in/js/jquery.easing.js"></script>
+<script type="text/javascript" src="http://www.esds.co.in/js/jquery.dimensions.js"></script>
+<script type="text/javascript" src="http://www.esds.co.in/js/jquery.accordion.js"></script>
+<!--Side bar script -->
+
+<script type="text/javascript">
+  <!--sliding gallery start here-->
+  function slideSwitch() {
+  var jQueryactive = jQuery('#slideshow IMG.active');
+  if ( jQueryactive.length == 0 ) jQueryactive = jQuery('#slideshow IMG:last');
+  // use this to pull the images in the order they appear in the markup
+  var jQuerynext =  jQueryactive.next().length ? jQueryactive.next()
+  : jQuery('#slideshow IMG:first');
+  // uncomment the 3 lines below to pull the images in random order
+  // var jQuerysibs  = jQueryactive.siblings();
+  // var rndNum = Math.floor(Math.random() * jQuerysibs.length );
+  // var jQuerynext  = jQuery( jQuerysibs[ rndNum ] );
+  jQueryactive.addClass('last-active');
+  jQuerynext.css({opacity: 0.0})
+  .addClass('active')
+  .animate({opacity: 1.0}, 1000, function() {
+  jQueryactive.removeClass('active last-active');
+  });
+  }
+  jQuery(function() {
+  setInterval( "slideSwitch()", 5000 );
+  });
+  <!--sliding gallery ends here-->
+  
+  <!--livechat start here-->
+function openchat() 
+  {
+	 window.open('https://server.iad.liveperson.net/hc/59448507/?cmd=file&amp;file=visitorWantsToChat&amp;site=59448507&amp;imageUrl=https://server.iad.liveperson.net/hcp/Gallery/ChatButton-Gallery/English/General/1a&amp;referrer='+escape(document.location),'chat59448507','width=475,height=400,resizable=yes');
+  }
+  <!--livechat ends here-->
+  
+  <!--form start here-->
+function openform(URL) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=332,height=619');");
+}
+
+function openrequest(URL) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=630,height=500');");
+}
+
+  <!--form ends here-->
+  
+  <!--sidebar start here-->
+jQuery().ready(function(){
+	// second simple accordion with special markup
+	jQuery('#navigation').accordion({
+		active: false,
+		header: '.head',
+		navigation: true,
+		event: 'click',
+		fillSpace: true,
+		animated: 'easeslide'
+	});
+	
+	
+	// bind to change event of select to control first and seconds accordion
+	// similar to tab's plugin triggerTab(), without an extra method
+	var accordions = jQuery('#navigation');
+	
+	jQuery('#switch select').change(function() {
+		accordions.accordion("activate", this.selectedIndex-1 );
+	});
+	jQuery('#close').click(function() {
+		accordions.accordion("activate", -1);
+	});
+	jQuery('#switch2').change(function() {
+		accordions.accordion("activate", this.value);
+	});
+	jQuery('#enable').click(function() {
+		accordions.accordion("enable");
+	});
+	jQuery('#disable').click(function() {
+		accordions.accordion("disable");
+	});
+	jQuery('#remove').click(function() {
+		accordions.accordion("destroy");
+		wizardButtons.unbind("click");
+	});
+});
+  <!--sidebar end here-->
+		jQuery(document).ready(function(){
+			//Examples of how to assign the ColorBox event to elements
+			jQuery(".example6").colorbox({iframe:true, innerWidth:332, innerHeight:550});
+			jQuery(".example7").colorbox({iframe:true, innerWidth:630, innerHeight:500});
+			jQuery(".example8").colorbox({iframe:true, innerWidth:780, innerHeight:500});
+			//Example of preserving a JavaScript event for inline calls.
+			jQuery("#click").click(function(){ 
+				jQuery('#click').css({"background-color":"#000", "color":"#fff", "cursor":"inherit"}).text("Open this window again and this message will still be here.");
+				return false;
+			});
+		});
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-25690583-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script><script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=59448507"></script></head>
+
+<body>
+<div class="wrapper_common clearfix">
+  <div class="container clearfix">
+        <div class="logo_header">
+      <div class="logo"><a href="http://www.esds.co.in/"><img src="http://www.esds.co.in/images/logo.jpg" width="431" height="52" alt="logo"></a><!--<br /><br /><center><img src="images/accredition.png" width="158" height="50" alt="" /></center>--></div><!--logo-->
+      <div class="live_support"><a href="Javascript:openchat();"><img src="http://www.esds.co.in/images/live_support_header.jpg" width="251" height="50"></a></div><!--live_support-->
+      <div class="toll_free"><span>Toll Free :</span> <strong>1800 209 3006</strong><br><span>Phone :</span> <strong>+91 253 6636500</strong></div><!--toll_free-->
+    </div><!--logo_header-->
+    
+    <div class="menu_search">
+      <div class="myMenu">
+      <ul id="nav">
+      <li class="top splits"><a href="http://www.esds.co.in/" class="top_link">Home</a></li>
+      <li class="top splits"><a href="javascript: void(0);" class="top_link">About Us</a>
+        <ul class="sub">
+          <li class="linesb"><a href="http://www.esds.co.in/about-esds-data-centers.php">About ESDS</a></li>
+          <li class="linesb"><a href="http://www.esds.co.in/datacenter/">Data Center</a></li>
+          <li class="linesb"><a href="http://www.esds.co.in/data-centers-tour.php">DC Tour</a></li>
+          <li class="linesb"><a href="http://www.esds.co.in/testimonials.php">Customer Testimonials</a></li>
+          <li class="linesb"><a href="http://www.esds.co.in/awards-accolades.php">Awards &amp; Accolades</a></li>
+          <li class="linesb"><a href="http://www.esds.co.in/management.php">Management Team</a></li>
+          <li class="linesb"><a href="http://www.esds.co.in/social-responsibility.php">Corporate Social Responsibility</a></li>
+          <li class="linesb"><a href="http://www.esds.co.in/green-data-centers-india.php">Project Green Connect</a></li>
+          <li class="linesb"><a href="http://www.esds.co.in/events.php">Gallery</a></li>
+          <li><a class="fly"><span>Careers</span></a>
+            <ul>
+              <li class="linesb"><a href="http://www.esds.co.in/work-culture.php">Work Culture</a></li>
+              <li><a href="http://www.esds.co.in/careers.php">Apply Now</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li class="top splits"><a href="javascript: void(0);" class="top_link">Services</a>
+        <ul class="sub">
+          <li class="linesb"><a href="http://www.esds.co.in/dedicated-servers-hosting-india.php">Dedicated Servers</a></li>
+          <li class="linesb"><a href="http://www.esds.co.in/cloud-servers-hosting.php">Cloud Hosting</a></li>
+          <li class="linesb"><a href="http://www.esds.co.in/colocation-services-india.php">Colocation Services</a></li>
+          <li class="linesb"><a href="http://www.esds.co.in/dras/">DR as a Service</a></li>
+          <li class="linesb"><a href="http://www.esds.co.in/sap-erp/">SAP / ERP</a></li>
+          <li class="linesb"><a href="http://www.esds.co.in/backup/">Backup Service</a></li>
+          <li class="linesb"><a href="http://www.esds.co.in/email-hosting/">Email Hosting</a></li>
+          <li class="linesb"><a href="http://www.host.co.in/cpanel-shared-web-hosting.php" target="_blank">Shared Hosting</a></li>
+          <li class="linesb"><a href="http://www.esds.co.in/turn-key-data-centers.php">Turnkey Solutions</a></li>
+          <li class="linesb"><a href="http://www.esds.co.in/egovernance/">E-Governance</a></li>
+          <li class="linesb"><a href="http://www.esds.co.in/corebanking/">Core Banking</a></li>
+          <li><a href="http://www.esds.co.in/gis/">Geo-Spatial Information System</a></li>
+        </ul>
+      </li>
+      <li class="top splits"><a href="javascript: void(0);" class="top_link">Products</a>
+        <ul class="boxsub">
+          <table style="border:0;">
+            <tbody><tr>
+              <td>
+                <div style="height:130px"><a href="http://www.esds.co.in/enlight/"><img src="http://www.esds.co.in/images/eNlight-Logo.png" width="153" alt="eNlight"></a></div>
+                <a href="http://www.esds.co.in/enlight/">Details</a>
+                <!--<a href="#" target="_blank">Demo page</a>
+                <a href="#" target="_blank">About eNlight</a>
+                <a href="#" target="_blank">Sign up</a>-->
+              </td>
+              <td>
+                <div style="height:130px;"><a href="http://www.esds.co.in/emagic/"><img src="http://www.esds.co.in/images/emagic-logo.png" alt="emagic" width="200" style="padding-top:30px"></a></div>
+                <a href="http://www.esds.co.in/emagic/">Details</a>
+                <!--<a href="#" target="_blank">Details</a>
+                <a href="#" target="_blank">About emagic</a>
+                <a href="#" target="_blank">Sign up</a>-->
+              </td>
+              <td>
+                <div style="height:130px"><a href="http://www.esds.co.in/epds/"><img src="http://www.esds.co.in/images/ePDS.png" alt="ePDS" width="153"></a></div>
+                <a href="http://www.esds.co.in/epds/">Details</a>
+                <!--<a href="#" target="_blank">Details</a>
+                <a href="#" target="_blank">About ePDS</a>
+                <a href="#" target="_blank">Sign up</a>-->
+              </td>
+            </tr>
+          </tbody></table>
+        </ul>
+      </li>
+      <li class="top splits"><a href="javascript: void(0);" class="top_link">Partners</a>
+        <ul class="sub">
+          <li class="linesb"><a href="http://www.esds.co.in/partners.php">ESDS Partners</a></li>
+          <li class="linesb"><a href="http://www.esds.co.in/become_partner.php">Become a Partner</a></li>
+          <li><a href="http://www.esds.co.in/affiliate.php">Affiliates</a></li>
+        </ul>
+      </li>
+      <li class="top splits"><a href="javascript: void(0);" class="top_link">Resources</a>
+        <ul class="sub">
+          <li class="linesb"><a target="_blank" href="https://www.esds.co.in/billing/accountdetails.php">Customer Billing</a></li>
+          <li class="linesb"><a href="http://www.esds.co.in/blog/" target="_blank">Blog</a></li>
+          <li class="linesb"><a href="http://www.esds.co.in/forum" target="_blank">Forum</a></li>
+          <li class="linesb"><a href="http://www.esds.co.in/data-centers/kb" target="_blank">Knowledge Base</a></li>
+          <li><a href="http://support.esds.co.in">Support</a></li>
+        </ul>
+      </li>
+      <li class="top splits"><a href="javascript: void(0);" class="top_link">News &amp; Events</a>
+        <ul class="sub">
+          <li class="linesb"><a href="http://www.esds.co.in/press-release.php">Press Release</a></li>
+          <li class="linesb"><a href="http://www.esds.co.in/videos.php">Videos</a></li>
+          <li><a href="http://www.esds.co.in/events.php">Events</a></li>
+        </ul>
+      </li>
+      <li class="top"><a href="http://www.esds.co.in/contact_us.php" class="top_link">Contact Us</a></li>
+      </ul>
+      </div>
+        
+  
+        <div class="search_box">
+        <form id="searchForm2" method="post" action="http://www.esds.co.in/search.php">
+          <input name="s2" type="text" id="s2" value="Site Search" class="text_field" onblur="if (this.value == '') {this.value = 'Site Search';}" onfocus="if(this.value == 'Site Search') {this.value = '';}">
+          <input type="submit" value="" id="submitButton2" class="buttons">
+          <input type="hidden" name="check" value="site" id="searchSite" checked="">
+        </form>
+      </div><!--search_box-->
+    </div><!--menu_search-->
+    
+        <div class="slider_header_common">
+    <img src="images/common1_big_banner.jpg" width="980" height="255" alt="">
+    </div><!--slider_header_common-->
+    
+    <div class="content clearfix">
+      <div class="common_cont clearfix">
+        <h1><span>Privacy Policy</span></h1>
+        <p><strong class="subline">Privacy Policy Statement</strong></p>
+        <p>ESDS.co.in would always be zealous &amp; devoted towards safeguarding your complete privacy &amp; the information you provide us while subscribing to our services. All possible measures, steps &amp; procedures are adopted to stay-put towards the Data Protection Legislation. The below stated policy applies to all types of data &amp; information collected by ESDS.co.in. We use the information so collected to communicate with you, our client, about our services, update our records and generally maintain your account with us.</p>
+        <p><strong class="subline">Electronic Communication</strong></p>
+        <p>We ask you to provide your email address to us during the signup process to be able to communicate with you. We normally send all our notifications through emails which we have for your account on our record. </p>
+        <p><strong class="subline">Traditional Communication Means</strong></p>
+        <p>We ask you to provide us with your actual postal address, telephone number &amp; fax number in order to check and verify the distance between the address mentioned &amp; the location of signup. This is an important part of the verification process we follow for each signup which we receive. Only our internal staff has access to your contact details.</p>
+        <p><strong class="subline">Duration</strong></p>
+        <p>The information so provided by you during registration is kept in our records till the time you are our active client.</p>
+        <p><strong class="subline">Information Protection</strong></p>
+        <p>We do not provide the information collected from you to any third party for any reason what-so-ever. However, we do have to co-operate with law enforcement agencies authorized by the government if they do ask us about the contact details we have for you.</p>
+        <p>We also use the contact information on records for you to inform you about the improvements, updations &amp; any such relevant information to the services you have subscribed for. We never use or share the personally identifiable information provided to us online in ways or for reasons unrelated to the ones described above without also providing an opportunity to opt-out or otherwise prohibit such unrelated uses.</p>
+        <p>To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures reasonably designed to safeguard and secure the information we collect online. We use SSL (Secure Socket Layer) encryption to secure personal identification. In addition, personnel who have access to our database are trained to maintain and secure all information. To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections to your information.</p>
+        
+        </div><!--common_cont-->
+          <div class="clr"></div>
+     <div class="footer">
+      <div class="footer_con clearfix">
+      
+        <div class="request"> <!--<a href="javascript:openchat();"><img src="images/request_call_back.png" /></a>-->
+        <!--<div class="clr"></div>-->
+        <b>Stay connected with us</b>
+        <div class="clr"></div>
+        <center>
+        <a href="http://twitter.com/#!/esdsdatacenter"><img src="http://www.esds.co.in/images/tw.png" width="32" height="32" alt=""></a>
+        <a href="http://www.facebook.com/ESDSdc"><img src="http://www.esds.co.in/images/fb.png" width="32" height="32" alt=""></a>
+        <a href="http://www.esds.co.in/blog/feed/rss/"><img src="http://www.esds.co.in/images/rss.png" width="32" height="32" alt=""></a>
+        <a href="http://support.esds.co.in"><img src="http://www.esds.co.in/images/mail.png" width="32" height="32" alt=""></a><br><br>
+        <img src="http://www.esds.co.in/images/accredition.png" width="158" height="50" alt="">
+        </center>
+        </div><!--request-->
+        
+        <ul>
+          <li>
+            <strong>Partners</strong><br>
+            <a href="http://www.esds.co.in/partners.php">ESDS Partners</a>
+            <a href="http://www.esds.co.in/become_partner.php">Become a Partner</a>
+            <a href="http://www.esds.co.in/affiliate.php">Affiliates</a>
+          </li>
+          
+          <li>
+            <strong>News &amp; Events</strong><br>
+            <a href="http://www.esds.co.in/press-release.php">Press Release</a>
+            <a href="http://www.esds.co.in/videos.php">Videos</a>
+            <a href="http://www.esds.co.in/events.php">Events</a>
+            <a href="http://www.esds.co.in/sitemap.php">Sitemap</a>
+          </li>
+          
+          <li>
+            <strong>Resources</strong><br>
+            <a href="http://www.esds.co.in/blog/">Blog</a>
+            <a href="http://www.esds.co.in/forum">Forum</a>
+            <a href="http://www.esds.co.in/data-centers/kb">Knowledgebase</a>
+            <a href="https://support.esds.co.in/">Support</a>
+          </li>
+          <li>
+            <strong>Terms Of Service</strong><br>
+            <a href="http://www.esds.co.in/terms.php">Terms Of Service</a>
+            <a href="http://www.esds.co.in/service-level-agreement.php">Service Level Agreement</a>
+            <a href="http://www.esds.co.in/privacy_policy.php">Privacy Policy</a>
+            <a href="http://www.esds.co.in/billing-policies.php">Billing Policies</a>
+          </li>
+        </ul>
+        
+        <div class="marquees">
+        <a href="http://www.esds.co.in/our_esteemed_customers.php"></a>
+          <div class="marquee" id="mycrawler2">
+            <img src="http://www.esds.co.in/images/maha-logo.png">
+            <img src="http://www.esds.co.in/images/hcl-logo.png">
+            <img src="http://www.esds.co.in/images/ram-bandhu.png">
+            <img src="http://www.esds.co.in/images/ur-story.png">
+            <img src="http://www.esds.co.in/images/dlink-logo.png">
+            <img src="http://www.esds.co.in/images/nhsrc-logo.png">
+            <img src="http://www.esds.co.in/images/aicte-logo.png">
+            <img src="http://www.esds.co.in/images/mpsc-logo.png">
+            <img src="http://www.esds.co.in/images/iiht-logo.png">
+            <img src="http://www.esds.co.in/images/iitf-logo.png">
+            <img src="http://www.esds.co.in/images/meda-logo.png">
+          </div>
+        </div>
+
+      </div><!--footer_con-->
+     <div class="clr"></div>
+       <marquee onmouseout="this.start();" onmouseover="this.stop();" scrollamount="3" scrolldelay="1">
+      
+        <a href="http://www.esds.co.in/esds_biggest_order.php">ESDS bags India's biggest cloud hosting order from IIHT Ltd.!!!</a>
+        
+        <a href="http://www.esds.co.in/launch-of-enlight.php">ESDS Announces the Launch of eNlight - The Dynamic Cloud Computing Platform</a>
+        
+        <a href="http://www.esds.co.in/esds_sky_limit.php">ESDS : Sky's the limit</a>
+        
+        <a href="http://www.esds.co.in/esds_ growth.php">Nashik’s growth catching all attention !</a>
+        
+        <a href="http://www.esds.co.in/e-magic-Portal.php">E-Magic - Server Deployment Portal </a>
+        
+        <a href="http://www.esds.co.in/geospatial-techologies.php">ESDS takes a step ahead in Geospatial Techologies </a>
+        
+        <a href="http://www.esds.co.in/network-connectivity.php">ESDS takes a step ahead with it's Network Connectivity</a>
+        
+        <a href="http://www.esds.co.in/esds-national-television.php">ESDS on National Television </a>
+        
+        <a href="http://www.esds.co.in/esds-green-dedicated-servers.php">ESDS Takes a Step Ahead with Green Dedicated Servers </a>
+        
+        <a href="http://www.esds.co.in/launch-of-cloud.php">ESDS Announces it's launch of cloud server hosting solutions</a>
+        
+        <a href="http://www.esds.co.in/esds-data-center-inaugrated.php">ESDS - Data Center Facility inaugrated on 3rd February 2010 in Nashik, Maharashtra </a>
+      
+      </marquee>
+      <br><br>
+      <div class="clr"></div>
+    <div class="footer_name">© 2011 ESDS Software Solution Private Limited.  All Rights Reserved </div><!--footer_name-->
+    <br>
+   </div><!--footer-->
+  </div><!--container-->
+<div class="fixed-position fixed-s">
+<div class="foobox">
+<a href="http://www.esds.co.in/images/ebrochure.pdf" class="cp" target="_blank"></a>
+</div>
+</div>
+<script type="text/javascript">
+marqueeInit({
+	uniqueid: 'mycrawler2',
+	style: {
+		'padding': '2px',
+		'width': '156px',
+		'height': '80px'
+	},
+	inc: 5, //speed - pixel increment for each iteration of this marquee's movement
+	mouse: 'cursor driven', //mouseover behavior ('pause' 'cursor driven' or false)
+	moveatleast: 2,
+	neutral: 150,
+	savedirection: true,
+	random: true
+});
+</script>
+
+<!-- BEGIN Invitation Positioning -->
+<script language="javascript" type="text/javascript">
+var lpPosY = 100;
+</script>
+<!-- END Invitation Positioning -->
+<!-- BEGIN LivePerson Monitor. -->
+<script type="text/javascript" language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "59448507",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&amp;';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script>
+<!-- END LivePerson Monitor. -->
+<!-- BEGIN Monitor Tracking Variables -->
+<script language="JavaScript1.2" type="text/javascript">
+if (typeof(lpMTagConfig.sessionVar) == "undefined"){ lpMTagConfig.sessionVar = new Array();}
+lpMTagConfig.sessionVar[lpMTagConfig.sessionVar.length] = 'skill=Sales Team';
+</script>
+<!-- End Monitor Tracking Variables -->
+    </div><!--content-->
+    
+    
+</div><!--wrapper-->
+
+</body></html>
