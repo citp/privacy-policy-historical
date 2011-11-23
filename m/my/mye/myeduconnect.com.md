@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myeduconnect.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102005404id_/http%3A//myeduconnect.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myeduconnect.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123220004id_/http%3A//www.myeduconnect.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - myEduConnect.com
 
@@ -85,4 +85,4 @@ Vast Interactive may amend this Privacy Policy from time to time. If we make mat
 
 #### Questions or Concerns
 
-If you have any questions or concerns regarding privacy at Vast Interactive Sites, please send us a detailed message to contact@myeduconnect.com or to Attn: Privacy Officer, My EDU Connect, 650 Castro St, Ste 105, Mountain View, CA 94104, United States. We will make every effort to resolve your concerns.
+If you have any questions or concerns regarding privacy at Vast Interactive Sites, please send us a detailed message to info@myeduconnect.com or to Attn: Privacy Officer, My EDU Connect, 650 Castro St, Ste 105, Mountain View, CA 94104, United States. We will make every effort to resolve your concerns.
