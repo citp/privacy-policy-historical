@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the mylocalforums.com privacy policy that was archived on 2009-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091022082003id_/http%3A//www.mylocalservices.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylocalforums.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123120106id_/http%3A//www.mylocalservices.co.uk/privacy.php) for the most accurate reproduction.*
 
 # My Local Services - Privacy Policy
 
 My Local Services Privacy Policy
 
-  * My Local Services is part of Lowi Ltd(Lowi). Lowi will never share your e-mail address or any personal details supplied with any third party. Listings placed here using the free advertising option record only information generally available in the public domain. 
-  * Advertisers who choose to buy a Premium or National listing on My Local Services by doing so, agree once the information is submitted, it will be displayed for an agreed period of time as public accessible information.
-  * My Local Services electronically cloaks your e-mail address in order to avoid internet spam robots spidering your address.
-  * My Local Services may use your e-mail address to share news or important information relating to My Local Services. My Local Services undertake to limit such contact to a maximum of 12 e-mails in any one year. You may at any time inform us that you do not want to receive any correspondence from My Local Services by selecting the contact tab and telephoning us or sending an email. So that we can verify your request, if emailed, please be sure to include your Business Name in the subject of your message.
+  * My Local Services is part of Lowi Ltd (Lowi). Lowi will never share your e-mail address or any personal details with any third party. Free Basic Listings placed on this site display only information that is generally available in the public domain.
+  * Advertisers who choose to buy paid advertising on My Local Services agree that once the information is submitted, it will be displayed as public accessible information.
+  * My Local Services electronically cloaks your e-mail address by default in order to avoid internet spam robots spidering your address. We can not be held responsible and advise against advertisers who choose to display their email address in the clear on their business listing.
+  * My Local Services may use your e-mail address to share news or important information relating to My Local Services. You may at any time inform us that you do not want to receive any correspondence from My Local Services by selecting the unsubscribe link in any email or you contact us and request no further communications, other than system generated emails that will enable the correct function of your business listing, such as password retrieval.
   * Children under 13 years of age are required to present the expressed permission of their parent or legal guardian prior to disclosing any personal information or entering a competition.
   * My Local Services collects information to identify how people arrived at the web site, which pages they visited, and how long they stayed. Using web analysis software My Local Services are able to ascertain this information. Please note that this report does not identify any of the user's personal information.
   * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
@@ -16,5 +16,3 @@ My Local Services Privacy Policy
   * My Local Services reserve the right to change this statement at any time. We are not responsible for any breach of security or for any actions of any third parties that receive your personal information.
 
 
-
-[](http://www.addthis.com/bookmark.php)
