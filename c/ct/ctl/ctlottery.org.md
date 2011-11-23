@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctlottery.org privacy policy that was archived on 2011-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110120183139id_/http%3A//ctlottery.org/Content/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctlottery.org privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123162429id_/http%3A//www.ctlottery.org/Content/privacy_policy.aspx) for the most accurate reproduction.*
 
 # CT Lottery Official Web Site - Privacy Policy
 
@@ -44,7 +44,7 @@ Voluntarily-Provided Personal Information
   
 When you participate in an activity on our website that asks for your personal information, and you voluntarily choose to provide such information you are voluntarily consenting to identify yourself.   For example, if you choose to send us an e-mail, or register for a second chance drawing promotion, or fill out an on-line form, or participate in a player survey, you are voluntarily providing personal information to the CLC and by providing such information to the CLC you acknowledge and agree that you are voluntarily giving us your consent to collect, use and disclose such information as set forth in this Privacy Policy.  If you prefer that we not collect such information, please do not provide it or participate in those activities of our website that request it.   Participation is strictly your choice.  While it may limit your ability to take full advantage of the website, it will not impair your ability to access important Lottery player information. 
 
-**How This Information Is Used**  
+**How This Information is Used**  
 The CLC may use voluntarily-provided personal information to communicate directly with you on a one-to-one basis. 
 
 _**Sending E-mail**_   
