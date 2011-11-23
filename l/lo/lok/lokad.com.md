@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lokad.com privacy policy that was archived on 2010-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100330100043id_/http%3A//www.lokad.com/Privacy.ashx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lokad.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123175831id_/http%3A//www.lokad.com/privacy.ashx) for the most accurate reproduction.*
 
 # Privacy Policy - Lokad
 
@@ -26,14 +26,18 @@ Each Lokad customer can store time-series data in their Lokad account. We consid
 
 However, you should be aware that your data may be anonymously used to improve the forecasts of other Lokad customers. **This process is entirely secure** , as this forecast refinement is a very indirect process that cannot be reverse engineered. No other Lokad customer can access your data, not even an obfuscated version of your data.
 
-If you believe that your data are too sensitive to be entrusted to Lokad's care, then we suggest that you [obfuscate](https://web.archive.org/web/20100330100043id_/http%3A//www.lokad.com/Obfuscation.ashx "Obfuscation - Protecting your data") your data before sending it to us. 
+If you believe that your data are too sensitive to be entrusted to Lokad's care, then we suggest that you [obfuscate](https://web.archive.org/web/20111123175831id_/http%3A//www.lokad.com/obfuscation.ashx "Obfuscation - Protecting your data") your data before sending it to us. 
 
-### Overview
+**Languages:** [English](https://web.archive.org/web/20111123175831id_/http%3A//www.lokad.com/home.ashx "Sales forecasting software, demand planning and call centre forecasting") [Français](https://web.archive.org/web/20111123175831id_/http%3A//www.lokad.com/fr.accueil.ashx "Logiciels de prévision de la demande et des ventes") [Deutsch](https://web.archive.org/web/20111123175831id_/http%3A//www.lokad.com/de.startseite.ashx "Startseite") [Español](https://web.archive.org/web/20111123175831id_/http%3A//www.lokad.com/es.inicio.ashx "Software de pronóstico de ventas, planificación de demanda y pronóstico de centro de llamadas") [Русский](https://web.archive.org/web/20111123175831id_/http%3A//www.lokad.com/ru.%d0%b3%d0%bb%d0%b0%d0%b2%d0%bd%d0%b0%d1%8f.ashx "Программное обеспечение для прогнозирования продаж, планирования спроса, прогнозирования работы контактного центра-Lokad") [日本語](https://web.archive.org/web/20111123175831id_/http%3A//www.lokad.com/jp.%e3%83%9b%e3%83%bc%e3%83%a0.ashx "ホーム")   
+[](http://blog.lokad.com/journal/2010/6/23/honored-by-the-windows-azure-partner-award-of-2010.html "Lokad awarded Partner of the Year on Windows Azure by Microsoft")
+
+  
+
 
 ### What people say
 
-In the past we had to take the time to calculate by hand or using excel, which is very inaccurate. We now can do it very quickly with Lokad. **Patrick Lamastus, owner of Geisha Coffee Roaster**
+Classical solutions require too much manpower and don't scale correctly over hundreds of thousands of products. Lokad and Windows Azure were exactly the solution my business needed. **Pierre-Noël Luiggi, CEO of Oscaro**
 
-Lokad can help us by seeing our seasonal changes and helping to predict required stock levels. We have run dry of certain products at a crucial time and then found our suppliers have done the same - we lost sales. **Chris Cooper, Director of Busy Outdoors Ltd**
+The Lokad forecasting solution allows us to precisely forecast our sales and to optimize our inventory accordingly. The result is there: we are maintaining a 99% customer satisfaction level and deliver food that is often fresher than what can be found at local pet stores. **Anthony Holloway, CEO at k9cuisine**
 
-More [success stories](https://web.archive.org/web/20100330100043id_/http%3A//www.lokad.com/customer-references.ashx "Who is using Lokad - Customer References").
+More [success stories](https://web.archive.org/web/20111123175831id_/http%3A//www.lokad.com/customer-references.ashx "Who is using Lokad - Customer References").
