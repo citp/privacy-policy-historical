@@ -1,18 +1,36 @@
-<!--The following is the downloaded HTML source of the life.com privacy policy that was archived on 2011-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110611152425id_/http%3A//www.life.com/service/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the life.com privacy policy that was archived on 2011-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123121316id_/http%3A//www.life.com/service/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xml:lang="en" lang="en"><head>
      	    <title>Privacy Policy - LIFE</title>    <meta name="description" content="LIFE.com represents the most amazing collection of professional photography on the Web. With over 10 million photos from the legendary archives of LIFE magazine and thousands more added every day.">
-<meta name="keywords" content="online photo gallery,life,life magazine,photo search,photos,photography,news,celebrities,sports,animals,travel">    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
+<meta name="keywords" content="Privacy Policy,online photo gallery,life,life magazine,photo search,photos,photography,news,celebrities,sports,animals,travel">    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width">
     <link rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" href="/images/life-mobile-icon.png">
 
-    <link href="/styles/lifeGlobal.css?v=22924" media="screen, print" rel="stylesheet" type="text/css">        
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/dojo/1.6.0/dojo/dojo.xd.js"></script>
+    <link href="/styles/lifeGlobal.css?v=24905" media="screen, print" rel="stylesheet" type="text/css">        
+    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/dojo/1.6.0/dojo/dojo.xd.js"></script>
     <script type="text/javascript" src="http://img.timeinc.net/shared/static/js/tii_ads.js"></script>
-	<script type="text/javascript" src="/js/lifeGlobal.js?v=22924"></script>
-	
+	<script type="text/javascript" src="/js/lifeGlobal.js?v=24905"></script>
+	<script type="text/javascript">
+	     WebFontConfig = {
+	       custom: { families: ['NewsGothBTRoman', 'NewsGothBTBold'],
+	         urls: [ 'http://www.life.com/styles/fontface.css'] }
+	     };
+	     (function() {
+	       var wf = document.createElement('script');
+	       wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+	           '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+	       wf.type = 'text/javascript';
+	       wf.async = 'true';
+	       var s = document.getElementsByTagName('script')[0];
+	       s.parentNode.insertBefore(wf, s);
+	     })();
+	 </script>
+
+	 <!-- chartbeat -->
+	 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
     
 <script type="text/javascript"><!--
 
@@ -26,7 +44,6 @@ var adFactory = new TiiAdFactory(adConfig);
 adFactory.setZone('service');
 
 --></script>
-
     
     
     <meta name="medium" content="image">
@@ -36,22 +53,54 @@ adFactory.setZone('service');
     <meta property="og:title" content="Privacy Policy - LIFE">
     <meta property="og:type" content="article">
     <meta property="og:site_name" content="LIFE">
+    <meta property="og:description" content="">
         <meta property="og:url" content="http://www.life.com/service/privacy">
 
             <meta property="og:image" content="http://www.life.com/images/printable-logo.gif">
         <link rel="image_src" href="/images/printable-logo.gif">
         <!-- End of Facebook Metatags -->
-     	        <script type="text/javascript">var s_account="timelifenew";</script>
+
+        	<!-- Mobile detection -->
+    	<script type="text/javascript" src="/js/checkMobile.js?v=24905"></script>
+        <script type="text/javascript"><!--
+        	LM.mobileRedirect("http://m.life.com");
+        	dojo.addOnLoad(function(){siteController.checkMobile("http://m.life.com");});
+        --></script>
+	    	<script type="text/javascript"><!--
+    		dojo.addOnLoad(function(){Survey.showSurvey('http://www.surveygizmo.com/s3/620700/LIFE-com-Visitor-Survey');});
+    	--></script>
+         	        <script type="text/javascript">var s_account="timelifenew";</script>
 <script type="text/javascript" src="http://img.timeinc.net/tii/omniture/h/common.js"></script>
 <script type="text/javascript" src="http://img.timeinc.net/tii/omniture/h/config/life.js"></script>
 
 <script type="text/javascript">
-s_time.channel  = 'life';
-s_time.pageName = 'Life|service|privacy'; //omniturePage
+	s_time.channel  = 'life';
 
-s_time.prop14 = s_time.pageName;
-s_time.prop16 = 'service|privacy'; //omnitureChannel
-s_time.prop17 = location.href;
+s_time.pageName = 'Life|service|privacy';
+
+
+
+s_time.prop7  = 'other';
+
+
+
+s_time.prop16 = 'other';
+
+//no hash
+if (location.href.indexOf("?") != -1) {
+	s_time.prop17 = location.href.substring(0, location.href.indexOf("?"));
+} else if (location.href.indexOf("#") != -1) {
+	s_time.prop17 = location.href.substring(0, location.href.indexOf("#"));
+} else {
+	s_time.prop17 = location.href;
+}
+
+	s_time.prop27 = "";
+var searchTerm = siteController.getReferrerSearchTerm();
+if (searchTerm) {
+	s_time.eVar38 = searchTerm;
+	s_time.eVar39 = siteController.getSearchReferrer();
+}
 
 var s_code=s_time.t();if(s_code)document.write(s_code)
 </script>    </head>
@@ -77,23 +126,26 @@ var s_code=s_time.t();if(s_code)document.write(s_code)
 <div id="header">
     <div id="headerLogo" class="headerLogo" style="background-color: #e90000;"><a onclick="omniTracking('MAIN', 'ACTION', null, 'header-topics ');" href="/"><img width="160" height="80" src="/images/logo.png" alt="LIFE.com"></a></div>
     <div class="headerSpecial">
-        <div class="specialHead">Our 2011 photo blog award winners!</div>
+        <div class="specialHead">LIFE Celebrates 75 Years!</div>
         <div class="specialLinks">
             <span class="specialFlag"></span>
-            <a onclick="omniTracking('MAIN', 'ACTION', null, 'header-Honoring the Web’s Best, Most Compelling, Most Exciting Photo Blogs ');" href="http://www.life.com/gallery/57551/lifecoms-2011-photo-blog-awards">Honoring the Web's Best, Most Compelling, Most Exciting Photo Blogs</a>
+            <a onclick="omniTracking('MAIN', 'ACTION', null, 'header-75 Best Pictures Ever ');" href="http://www.life.com/gallery/67131/the-75-best-life-photos">75 Best Pictures Ever</a>
+                |
+            <span class="specialFlag"></span>
+            <a onclick="omniTracking('MAIN', 'ACTION', null, 'header-Photographers Look Back ');" href="http://www.life.com/gallery/67341/life-photographers-look-back">Photographers Look Back</a>
         </div>
     </div>
 
 
-    <div class="headerSearch">
+    <div class="headerSearch ">
 
         <div class="topNavigation">
-            <a onclick="omniTracking('MAIN', 'ACTION', null, 'header-topics ');" href="/topic">Topics</a> |
+                	<a onclick="omniTracking('MAIN', 'ACTION', null, 'header-topics ');" href="/topic">Topics</a> |
             <a onclick="omniTracking('MAIN', 'ACTION', null, 'header-lifemobile ');" href="/mobile/ipad">LIFE Mobile</a> |
             <a onclick="omniTracking('MAIN', 'ACTION', null, 'header-newsletter ');" href="/service/newsletter?iid=newsletterheader">Newsletters</a> |
             <a onclick="omniTracking('MAIN', 'ACTION', null, 'header-rss ');" href="/service/rss">RSS Feeds</a> |
             <a onclick="omniTracking('MAIN', 'ACTION', null, 'header-fb-like ');" href="http://www.facebook.com/LIFE">LIFE on Facebook</a>
-        </div>
+                </div>
 
         <form id="searchForm" action="/search/" onsubmit="return siteController.headerSearchSubmit(this,'large');">
             <div class="searchForm">
@@ -116,7 +168,9 @@ var s_code=s_time.t();if(s_code)document.write(s_code)
     </div>
 
     <ul id="headerNav">
-        <li class="home"><a onclick="omniTracking('MAIN', 'ACTION', null, 'header-home ');" href="/"><span class="link"><strong>HOME</strong></span></a></li>
+        <li class="home">
+            <a onclick="omniTracking('MAIN', 'ACTION', null, 'header-home ');" href="/"><span class="link"><strong>HOME</strong></span></a>
+        </li>
         <li class="divider"></li>
         <li class="news">
             <a class="" onclick="omniTracking('MAIN', 'ACTION', null, 'header-news ');" href="/channel/news"><span class="link"><strong>News</strong></span></a>
@@ -138,12 +192,24 @@ var s_code=s_time.t();if(s_code)document.write(s_code)
             <a class="" onclick="omniTracking('MAIN', 'ACTION', null, 'header-sports ');" href="/channel/sports"><span class="link"><strong>Sports</strong></span></a>
         </li>
         <li class="divider"></li>
-        <li class="timelines"><a class="" onclick="omniTracking('MAIN', 'ACTION', null, 'header-timelines ');" href="/timeline"><span class="link"><strong>Timelines</strong></span></a></li>
+        <li class="legends">
+            <a class="" onclick="omniTracking('MAIN', 'ACTION', null, 'header-legends ');" href="/channel/legends"><span class="link"><strong>LIFE Legends</strong></span></a>
+        </li>
+<!--        <li class="divider"></li>-->
+<!--        <li class="timelines">-->
+<!--            <a class="" onclick="omniTracking('MAIN', 'ACTION', null, 'header-timelines ');" href="/timeline"><span class="link"><strong>Timelines</strong></span></a>-->
+<!--        </li>-->
+        <li class="divider"></li>
+        <li class="life75">
+            <a class="" onclick="omniTracking('MAIN', 'ACTION', null, 'header-life75 ');" href="/channel/life75"><span class="link"></span></a>
+        </li>
         <li class="divider"></li>
         <li class="generic">
-            <a class="" onclick="omniTracking('MAIN', 'ACTION', null, 'header-store ');" href="/service/shop">
-                <span class="store"></span>
-            </a>
+            <a class="" onclick="omniTracking('MAIN', 'ACTION', null, 'header-holidays ');" href="/channel/holiday"><span class="holidays"></span></a>
+        </li>
+        <li class="divider"></li>
+        <li class="generic">
+            <a class="" onclick="omniTracking('MAIN', 'ACTION', null, 'header-store ');" href="http://store.life.com"><span class="store"></span></a>
         </li>
         <li class="divider"></li>
                 <li class="generic hidden">
@@ -151,14 +217,22 @@ var s_code=s_time.t();if(s_code)document.write(s_code)
                 <span class="topic"><strong>TOPICS</strong></span>
             </a>
         </li>
-        <li class="divider hidden"></li>
     </ul>
-</div>
+            <div id="subnav">
+            <div class="features">Features</div>
+                        <a href="http://www.life.com/gallery/67431/holiday-photo-tips-get-creative" onclick="omniTracking('MAIN', 'ACTION', null, 'subnav-Holiday Photo Tips');">Holiday Photo Tips</a>
+                        <a href="http://www.life.com/gallery/66351/life-at-75-stars-at-home" onclick="omniTracking('MAIN', 'ACTION', null, 'subnav-LIFE Visits the Stars at Home');">LIFE Visits the Stars at Home</a>
+                        <a href="http://www.life.com/channel/life75" onclick="omniTracking('MAIN', 'ACTION', null, 'subnav-75 Years of LIFE: The Best of the Best');">75 Years of LIFE: The Best of the Best</a>
+                        <a href="http://www.life.com/gallery/46182/rare-marlon-brandos-method-1950" onclick="omniTracking('MAIN', 'ACTION', null, 'subnav-Rare Marlon Brando Pics');">Rare Marlon Brando Pics</a>
+                        <a href="http://www.life.com/channel/war" onclick="omniTracking('MAIN', 'ACTION', null, 'subnav-Powerful War Photos');">Powerful War Photos</a>
+                    </div>
+    </div>
 
 <script type="text/javascript"><!--
-	if(location.pathname == '/'
+	if((location.pathname == '/'
 	   || location.pathname.indexOf('/channel/') == 0
-	   || location.pathname == '/timeline') {
+	   || location.pathname == '/timeline')
+	   && dojo.isIE != 8 && navigator.userAgent.indexOf('Windows NT 5.') == -1) {
         magicLogo = new MagicLogo();
         magicLogo.start('headerLogo');
 	}
@@ -166,25 +240,26 @@ var s_code=s_time.t();if(s_code)document.write(s_code)
 
 
 	        <div align="center" class="spaceBelowHeader">
-	    		    	<div class="advertisement101x1" id="adTag101">
+	    		    	<div class="advertisement101x1" id="adTag101_1">
     	<script type="text/javascript">
-    	var sizes = new Array("101x1", "728x90");
-    	var adMulti101 = adFactory.getMultiAd(sizes);
+    	adFactory.setParam('pos', 1);
+    	    	var sizes = new Array("101x1", "728x90");
+    	    	var adMulti101 = adFactory.getMultiAd(sizes);
     	</script>
-	    	<div id="advertisement101x1">
+	    	<div id="advertisement101x1_1">
 	    	<script type="text/javascript">
 	    	adMulti101.write();
 	    	</script>
 	    	</div>
     	<script type="text/javascript">
 
-    	if(dojo.byId("advertisement101x1").innerHTML.indexOf("Template Name = HTML Blank Ad") != -1) {
-    		dojo.removeClass(dojo.byId("adTag101"), "advertisement101x1");
-    	} else {
-        	dojo.addClass(dojo.byId("adTag101"), "headerAd");
+    	if (dojo.byId("advertisement101x1_1").innerHTML.indexOf("Template Name = HTML Blank Ad") != -1) {
+    		dojo.removeClass(dojo.byId("adTag101_1"), "advertisement101x1");
+    	} else if (0 === 1 || 1 === 1){
+        	dojo.addClass(dojo.byId("adTag101_1"), "headerAd");
     	}
 
-    	dojo.connect(window, "onload", function(){
+    	dojo.connect(window, "onload", function() {
         	if (typeof adid != 'undefined' && adid != '' && adid != null) {
         		adFactory.setParam('srnd', adid);
         	}
@@ -202,12 +277,12 @@ var s_code=s_time.t();if(s_code)document.write(s_code)
 
 							    							<a class="serviceItem" href="/">Home</a>
 								    							<a class="serviceItem" href="/service/aboutus">About Us</a>
-								    							<a class="serviceItem" href="/service/contributors">Featured Contributors</a>
 								    							<a class="serviceItem" href="http://www.life.com/mediakit">Advertise With Us</a>
 								    							<a class="serviceItem" href="/service/contact">Contact</a>
+								    							<a class="serviceItem" href="/service/staff">Staff</a>
 								    							<a class="serviceItem" href="/service/faq">FAQ</a>
 								    							<a class="serviceItem" href="/service/newsletter">Newsletters</a>
-								    							<a class="serviceItem" href="/service/shop">LIFE Store</a>
+								    							<a class="serviceItem" href="http://store.life.com">LIFE Store</a>
 								    							<a class="serviceItem" href="/service/terms">Terms of Use</a>
 								    							<a class="serviceItem selected" href="/service/privacy">Privacy Policy</a>
 								    							<a class="serviceItem" href="/service/sitemap">Sitemap</a>
@@ -229,398 +304,434 @@ var s_code=s_time.t();if(s_code)document.write(s_code)
 
 			
 				<div class="sliderpage" style="height: 490px;">
-    				<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--61241');" href="http://www.life.com/gallery/61241/the-weeks-best-photos-61011" class="herospan" style="background: url(http://www.life.com/static/hero/721/90721/thumb.jpg) top left no-repeat;">
-							<img alt="The Week's Best Photos: 6.10.11" src="/images/blank.gif" width="130" height="80">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--61241');" href="http://www.life.com/gallery/61241/the-weeks-best-photos-61011" class="text">
-			The Week's Best Photos: 6.10.11		</a>
-	</div>
+    				
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/59851/lifes-37-best-ever-science-photos?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/161/113161/thumb.jpg) top left no-repeat;">
+                                <img alt="LIFE's 37 Best-Ever Science Photos" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/59851/lifes-37-best-ever-science-photos?iid=other|editorspicks" class="text">
+                LIFE's 37 Best-Ever Science Photos            </a>
+    </div>
 
-<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--54441');" href="http://www.life.com/gallery/54441/in-the-words-of-sarah-palin" class="herospan" style="background: url(http://www.life.com/static/hero/341/76341/thumb.jpg) top left no-repeat;">
-							<img alt="In the Words of Sarah Palin" src="/images/blank.gif" width="130" height="80">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--54441');" href="http://www.life.com/gallery/54441/in-the-words-of-sarah-palin" class="text">
-			In the Words of Sarah Palin		</a>
-	</div>
 
-<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--57551');" href="http://www.life.com/gallery/57551/lifecoms-2011-photo-blog-awards" class="herospan" style="background: url(http://www.life.com/static/hero/371/90371/thumb.jpg) top left no-repeat;">
-							<img alt="LIFE.com's 2011 Photo Blog Awards" src="/images/blank.gif" width="130" height="80">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--57551');" href="http://www.life.com/gallery/57551/lifecoms-2011-photo-blog-awards" class="text">
-			LIFE.com's 2011 Photo Blog Awards		</a>
-	</div>
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/67341/life-photographers-look-back?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/941/112941/thumb.jpg) top left no-repeat;">
+                                <img alt="LIFE Photographers Look Back" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/67341/life-photographers-look-back?iid=other|editorspicks" class="text">
+                LIFE Photographers Look Back            </a>
+    </div>
 
-				</div>
-			
-				<div class="sliderpage" style="height: 490px;">
-    				<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--61251');" href="http://www.life.com/gallery/61251/world-in-flames-major-wildfires" class="herospan" style="background: url(http://www.life.com/static/hero/631/90631/thumb.jpg) top left no-repeat;">
-							<img alt="World in Flames: Major Wildfires" src="/images/blank.gif" width="130" height="80">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--61251');" href="http://www.life.com/gallery/61251/world-in-flames-major-wildfires" class="text">
-			World in Flames: Major Wildfires		</a>
-	</div>
 
-<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--60791');" href="http://www.life.com/gallery/60791/great-looking-gifts-grads-and-dads" class="herospan" style="background: url(http://www.life.com/static/hero/821/88821/thumb.jpg) top left no-repeat;">
-							<img alt="Great-Looking Gifts: Grads and Dads" src="/images/blank.gif" width="130" height="80">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--60791');" href="http://www.life.com/gallery/60791/great-looking-gifts-grads-and-dads" class="text">
-			Great-Looking Gifts: Grads and Dads		</a>
-	</div>
-
-<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--60221');" href="http://www.life.com/gallery/60221/duchess-catherine-latest-photos" class="herospan" style="background: url(http://www.life.com/static/hero/581/90581/thumb.jpg) top left no-repeat;">
-							<img alt="Duchess Catherine: Latest Photos" src="/images/blank.gif" width="130" height="80">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--60221');" href="http://www.life.com/gallery/60221/duchess-catherine-latest-photos" class="text">
-			Duchess Catherine: Latest Photos		</a>
-	</div>
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/67441/i-was-in-life-stars-look-back?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/591/112591/thumb.jpg) top left no-repeat;">
+                                <img alt="I Was in LIFE: Stars Look Back" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/67441/i-was-in-life-stars-look-back?iid=other|editorspicks" class="text">
+                I Was in LIFE: Stars Look Back            </a>
+    </div>
 
 				</div>
 			
 				<div class="sliderpage" style="height: 490px;">
-    				<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--47161');" href="http://www.life.com/gallery/47161/solar-flares-looking-into-the-sun" class="herospan" style="background: url(http://www.life.com/static/hero/631/62631/thumb.jpg) top left no-repeat;">
-							<img alt="Solar Flares: Looking Into the Sun" src="/images/blank.gif" width="130" height="80">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--47161');" href="http://www.life.com/gallery/47161/solar-flares-looking-into-the-sun" class="text">
-			Solar Flares: Looking Into the Sun		</a>
-	</div>
+    				
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/67351/great-looking-gifts-ideas-for-2011?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/041/113041/thumb.jpg) top left no-repeat;">
+                                <img alt="Great-Looking Gifts: Ideas for 2011" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/67351/great-looking-gifts-ideas-for-2011?iid=other|editorspicks" class="text">
+                Great-Looking Gifts: Ideas for 2011            </a>
+    </div>
 
-<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--61321');" href="http://www.life.com/gallery/61321/heidi-the-cross-eyed-opossum" class="herospan" style="background: url(http://www.life.com/static/hero/711/90711/thumb.jpg) top left no-repeat;">
-							<img alt="Heidi, the Cross-Eyed Opossum" src="/images/blank.gif" width="130" height="80">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--61321');" href="http://www.life.com/gallery/61321/heidi-the-cross-eyed-opossum" class="text">
-			Heidi, the Cross-Eyed Opossum		</a>
-	</div>
 
-<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--52961');" href="http://www.life.com/gallery/52961/anne-hathaway-at-her-hottest" class="herospan" style="background: url(http://www.life.com/static/hero/331/73331/thumb.jpg) top left no-repeat;">
-							<img alt="Anne Hathaway at Her Hottest" src="/images/blank.gif" width="130" height="80">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--52961');" href="http://www.life.com/gallery/52961/anne-hathaway-at-her-hottest" class="text">
-			Anne Hathaway at Her Hottest		</a>
-	</div>
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/65481/kim-novak-i-was-in-life?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/111/113111/thumb.jpg) top left no-repeat;">
+                                <img alt="Kim Novak: I Was in LIFE" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/65481/kim-novak-i-was-in-life?iid=other|editorspicks" class="text">
+                Kim Novak: I Was in LIFE            </a>
+    </div>
 
-				</div>
-			
-				<div class="sliderpage" style="height: 490px;">
-    				<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--47581');" href="http://www.life.com/gallery/47581/new-york-city-summer-of-69" class="herospan" style="background: url(http://www.life.com/static/hero/811/63811/thumb.jpg) top left no-repeat;">
-							<img alt="New York City, Summer of '69" src="/images/gallerythumb-flag-lifeclassic.png">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--47581');" href="http://www.life.com/gallery/47581/new-york-city-summer-of-69" class="text">
-			New York City, Summer of '69		</a>
-	</div>
 
-<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--60211');" href="http://www.life.com/gallery/60211/pippa-middleton-the-latest-photos" class="herospan" style="background: url(http://www.life.com/static/hero/741/90741/thumb.jpg) top left no-repeat;">
-							<img alt="Pippa Middleton: The Latest Photos" src="/images/blank.gif" width="130" height="80">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--60211');" href="http://www.life.com/gallery/60211/pippa-middleton-the-latest-photos" class="text">
-			Pippa Middleton: The Latest Photos		</a>
-	</div>
-
-<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--61311');" href="http://www.life.com/gallery/61311/before-super-8-movies-by-numbers" class="herospan" style="background: url(http://www.life.com/static/hero/701/90701/thumb.jpg) top left no-repeat;">
-							<img alt="Before 'Super 8': Movies by Numbers" src="/images/blank.gif" width="130" height="80">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--61311');" href="http://www.life.com/gallery/61311/before-super-8-movies-by-numbers" class="text">
-			Before 'Super 8': Movies by Numbers		</a>
-	</div>
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/67061/holiday-meals-feast-your-eyes?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/641/112641/thumb.jpg) top left no-repeat;">
+                                <img alt="Holiday Meals: Feast Your Eyes..." src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/67061/holiday-meals-feast-your-eyes?iid=other|editorspicks" class="text">
+                Holiday Meals: Feast Your Eyes...            </a>
+    </div>
 
 				</div>
 			
 				<div class="sliderpage" style="height: 490px;">
-    				<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--54021');" href="http://www.life.com/gallery/54021/sexiest-women-of-science-fiction" class="herospan" style="background: url(http://www.life.com/static/hero/121/90121/thumb.jpg) top left no-repeat;">
-							<img alt="Sexiest Women of Science Fiction" src="/images/blank.gif" width="130" height="80">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--54021');" href="http://www.life.com/gallery/54021/sexiest-women-of-science-fiction" class="text">
-			Sexiest Women of Science Fiction		</a>
-	</div>
+    				
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/67131/the-75-best-life-photos?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/071/113071/thumb.jpg) top left no-repeat;">
+                                <img alt="The 75 Best LIFE Photos" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/67131/the-75-best-life-photos?iid=other|editorspicks" class="text">
+                The 75 Best LIFE Photos            </a>
+    </div>
 
-<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--60321');" href="http://www.life.com/gallery/60321/conjoined-twins" class="herospan" style="background: url(http://www.life.com/static/hero/621/87621/thumb.jpg) top left no-repeat;">
-							<img alt="Conjoined Twins" src="/images/blank.gif" width="130" height="80">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--60321');" href="http://www.life.com/gallery/60321/conjoined-twins" class="text">
-			Conjoined Twins		</a>
-	</div>
 
-<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--54741');" href="http://www.life.com/gallery/54741/catwoman-through-the-years" class="herospan" style="background: url(http://www.life.com/static/hero/931/76931/thumb.jpg) top left no-repeat;">
-							<img alt="Catwoman Through the Years" src="/images/blank.gif" width="130" height="80">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--54741');" href="http://www.life.com/gallery/54741/catwoman-through-the-years" class="text">
-			Catwoman Through the Years		</a>
-	</div>
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/51881/jfk-unpublished-never-seen-photos?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/311/70311/thumb.jpg) top left no-repeat;">
+                                <img alt="JFK: Unpublished, Never-Seen Photos" src="/images/gallerythumb-flag-exclusive.png">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/51881/jfk-unpublished-never-seen-photos?iid=other|editorspicks" class="text">
+                JFK: Unpublished, Never-Seen Photos            </a>
+    </div>
 
-				</div>
-			
-				<div class="sliderpage" style="height: 490px;">
-    				<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--61061');" href="http://www.life.com/gallery/61061/men-in-the-kitchen" class="herospan" style="background: url(http://www.life.com/static/hero/601/90601/thumb.jpg) top left no-repeat;">
-							<img alt="Men. In the Kitchen" src="/images/blank.gif" width="130" height="80">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--61061');" href="http://www.life.com/gallery/61061/men-in-the-kitchen" class="text">
-			Men. In the Kitchen		</a>
-	</div>
 
-<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--42032');" href="http://www.life.com/gallery/42032/wwii-inside-hitlers-bunker" class="herospan" style="background: url(http://www.life.com/static/hero/192/57192/thumb.jpg) top left no-repeat;">
-							<img alt="WWII: Inside Hitler's Bunker" src="/images/gallerythumb-flag-exclusive.png">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--42032');" href="http://www.life.com/gallery/42032/wwii-inside-hitlers-bunker" class="text">
-			WWII: Inside Hitler's Bunker		</a>
-	</div>
-
-<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--61261');" href="http://www.life.com/gallery/61261/elle-fanning-super-8-cutie-pie" class="herospan" style="background: url(http://www.life.com/static/hero/641/90641/thumb.jpg) top left no-repeat;">
-							<img alt="Elle Fanning: 'Super 8' Cutie Pie" src="/images/gallerythumb-flag-stylespecial.png">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--61261');" href="http://www.life.com/gallery/61261/elle-fanning-super-8-cutie-pie" class="text">
-			Elle Fanning: 'Super 8' Cutie Pie		</a>
-	</div>
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/57801/the-sexiest-life-photos-of-all-time?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/131/111131/thumb.jpg) top left no-repeat;">
+                                <img alt="The Sexiest LIFE Photos of All Time" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/57801/the-sexiest-life-photos-of-all-time?iid=other|editorspicks" class="text">
+                The Sexiest LIFE Photos of All Time            </a>
+    </div>
 
 				</div>
 			
 				<div class="sliderpage" style="height: 490px;">
-    				<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--61191');" href="http://www.life.com/gallery/61191/revealed-birth-names-of-the-stars" class="herospan" style="background: url(http://www.life.com/static/hero/381/90381/thumb.jpg) top left no-repeat;">
-							<img alt="Revealed! Birth Names of the Stars" src="/images/blank.gif" width="130" height="80">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--61191');" href="http://www.life.com/gallery/61191/revealed-birth-names-of-the-stars" class="text">
-			Revealed! Birth Names of the Stars		</a>
-	</div>
+    				
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/67461/gothamatic-112111?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/921/112921/thumb.jpg) top left no-repeat;">
+                                <img alt="Gothamatic: 11.21.11" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/67461/gothamatic-112111?iid=other|editorspicks" class="text">
+                Gothamatic: 11.21.11            </a>
+    </div>
 
-<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--59111');" href="http://www.life.com/gallery/59111/banned-in-china" class="herospan" style="background: url(http://www.life.com/static/hero/681/87681/thumb.jpg) top left no-repeat;">
-							<img alt="Banned in China!" src="/images/blank.gif" width="130" height="80">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--59111');" href="http://www.life.com/gallery/59111/banned-in-china" class="text">
-			Banned in China!		</a>
-	</div>
 
-<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--39992');" href="http://www.life.com/gallery/39992/inside-a-serial-killers-house" class="herospan" style="background: url(http://www.life.com/static/hero/942/54942/thumb.jpg) top left no-repeat;">
-							<img alt="Inside a Serial Killer's House" src="/images/gallerythumb-flag-lifeclassic.png">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--39992');" href="http://www.life.com/gallery/39992/inside-a-serial-killers-house" class="text">
-			Inside a Serial Killer's House		</a>
-	</div>
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/67411/the-weeks-best-photos-111811?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/821/112821/thumb.jpg) top left no-repeat;">
+                                <img alt="The Week's Best Photos: 11.18.11" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/67411/the-weeks-best-photos-111811?iid=other|editorspicks" class="text">
+                The Week's Best Photos: 11.18.11            </a>
+    </div>
 
-				</div>
-			
-				<div class="sliderpage" style="height: 490px;">
-    				<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--60111');" href="http://www.life.com/gallery/60111/most-famous-faked-photos" class="herospan" style="background: url(http://www.life.com/static/hero/261/87261/thumb.jpg) top left no-repeat;">
-							<img alt="Most Famous Faked Photos" src="/images/blank.gif" width="130" height="80">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--60111');" href="http://www.life.com/gallery/60111/most-famous-faked-photos" class="text">
-			Most Famous Faked Photos		</a>
-	</div>
 
-<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--61161');" href="http://www.life.com/gallery/61161/only-in-america-roadside-scenes" class="herospan" style="background: url(http://www.life.com/static/hero/221/90221/thumb.jpg) top left no-repeat;">
-							<img alt="Only in America: Roadside Scenes" src="/images/blank.gif" width="130" height="80">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--61161');" href="http://www.life.com/gallery/61161/only-in-america-roadside-scenes" class="text">
-			Only in America: Roadside Scenes		</a>
-	</div>
-
-<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--61201');" href="http://www.life.com/gallery/61201/chiles-volcano-erupts-crazy-skies" class="herospan" style="background: url(http://www.life.com/static/hero/431/90431/thumb.jpg) top left no-repeat;">
-							<img alt="Chile's Volcano Erupts: Crazy Skies" src="/images/blank.gif" width="130" height="80">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--61201');" href="http://www.life.com/gallery/61201/chiles-volcano-erupts-crazy-skies" class="text">
-			Chile's Volcano Erupts: Crazy Skies		</a>
-	</div>
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/67471/american-music-awards-2011?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/021/113021/thumb.jpg) top left no-repeat;">
+                                <img alt="American Music Awards 2011" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/67471/american-music-awards-2011?iid=other|editorspicks" class="text">
+                American Music Awards 2011            </a>
+    </div>
 
 				</div>
 			
 				<div class="sliderpage" style="height: 490px;">
-    				<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--22808');" href="http://www.life.com/gallery/22808/sordid-political-sex-scandals" class="herospan" style="background: url(http://www.life.com/static/hero/531/90531/thumb.jpg) top left no-repeat;">
-							<img alt="Sordid Political Sex Scandals" src="/images/gallerythumb-flag-shocking.png">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--22808');" href="http://www.life.com/gallery/22808/sordid-political-sex-scandals" class="text">
-			Sordid Political Sex Scandals		</a>
-	</div>
+    				
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/67041/thanksgiving-then-and-now?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/731/110731/thumb.jpg) top left no-repeat;">
+                                <img alt="Thanksgiving Then and Now" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/67041/thanksgiving-then-and-now?iid=other|editorspicks" class="text">
+                Thanksgiving Then and Now            </a>
+    </div>
 
-<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--47471');" href="http://www.life.com/gallery/47471/never-seen-hells-angels-1965" class="herospan" style="background: url(http://www.life.com/static/hero/441/65441/thumb.jpg) top left no-repeat;">
-							<img alt="Never-Seen: Hells Angels, 1965" src="/images/gallerythumb-flag-exclusive.png">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--47471');" href="http://www.life.com/gallery/47471/never-seen-hells-angels-1965" class="text">
-			Never-Seen: Hells Angels, 1965		</a>
-	</div>
 
-<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--61231');" href="http://www.life.com/gallery/61231/cfda-awards-2011-gaga-for-fashion" class="herospan" style="background: url(http://www.life.com/static/hero/481/90481/thumb.jpg) top left no-repeat;">
-							<img alt="CFDA Awards 2011: Gaga for Fashion" src="/images/gallerythumb-flag-stylespecial.png">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--61231');" href="http://www.life.com/gallery/61231/cfda-awards-2011-gaga-for-fashion" class="text">
-			CFDA Awards 2011: Gaga for Fashion		</a>
-	</div>
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/22516/people-falling-down-hard?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/541/2541/thumb.jpg) top left no-repeat;">
+                                <img alt="People Falling Down. Hard." src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/22516/people-falling-down-hard?iid=other|editorspicks" class="text">
+                People Falling Down. Hard.            </a>
+    </div>
 
-				</div>
-			
-				<div class="sliderpage" style="height: 490px;">
-    				<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--59491');" href="http://www.life.com/gallery/59491/inside-mexicos-drug-wars" class="herospan" style="background: url(http://www.life.com/static/hero/161/90161/thumb.jpg) top left no-repeat;">
-							<img alt="Inside Mexico's Drug Wars" src="/images/gallerythumb-flag-shocking.png">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--59491');" href="http://www.life.com/gallery/59491/inside-mexicos-drug-wars" class="text">
-			Inside Mexico's Drug Wars		</a>
-	</div>
 
-<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--52491');" href="http://www.life.com/gallery/52491/2010-pictures-of-the-year" class="herospan" style="background: url(http://www.life.com/static/hero/361/72361/thumb.jpg) top left no-repeat;">
-							<img alt="2010 Pictures of the Year" src="/images/blank.gif" width="130" height="80">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--52491');" href="http://www.life.com/gallery/52491/2010-pictures-of-the-year" class="text">
-			2010 Pictures of the Year		</a>
-	</div>
-
-<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--39632');" href="http://www.life.com/gallery/39632/at-war-photographers-best-shots" class="herospan" style="background: url(http://www.life.com/static/hero/642/54642/thumb.jpg) top left no-repeat;">
-							<img alt="At War: Photographers' Best Shots" src="/images/blank.gif" width="130" height="80">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--39632');" href="http://www.life.com/gallery/39632/at-war-photographers-best-shots" class="text">
-			At War: Photographers' Best Shots		</a>
-	</div>
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/46971/jennifer-lopez-at-her-sexiest?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/201/63201/thumb.jpg) top left no-repeat;">
+                                <img alt="Jennifer Lopez at Her Sexiest" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/46971/jennifer-lopez-at-her-sexiest?iid=other|editorspicks" class="text">
+                Jennifer Lopez at Her Sexiest            </a>
+    </div>
 
 				</div>
 			
 				<div class="sliderpage" style="height: 490px;">
-    				<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--60801');" href="http://www.life.com/gallery/60801/rare-photos-marilyn-in-training" class="herospan" style="background: url(http://www.life.com/static/hero/851/89851/thumb.jpg) top left no-repeat;">
-							<img alt="RARE PHOTOS: Marilyn in Training" src="/images/gallerythumb-flag-exclusive.png">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--60801');" href="http://www.life.com/gallery/60801/rare-photos-marilyn-in-training" class="text">
-			RARE PHOTOS: Marilyn in Training		</a>
-	</div>
+    				
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/66671/unseen-photos-from-classic-shoots?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/991/107991/thumb.jpg) top left no-repeat;">
+                                <img alt="Unseen Photos From Classic Shoots" src="/images/gallerythumb-flag-exclusive.png">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/66671/unseen-photos-from-classic-shoots?iid=other|editorspicks" class="text">
+                Unseen Photos From Classic Shoots            </a>
+    </div>
 
-<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--61141');" href="http://www.life.com/gallery/61141/taboo-then-typical-now" class="herospan" style="background: url(http://www.life.com/static/hero/151/90151/thumb.jpg) top left no-repeat;">
-							<img alt="Taboo Then, Typical Now" src="/images/blank.gif" width="130" height="80">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--61141');" href="http://www.life.com/gallery/61141/taboo-then-typical-now" class="text">
-			Taboo Then, Typical Now		</a>
-	</div>
 
-<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--27022');" href="http://www.life.com/gallery/27022/adolf-hitler-up-close" class="herospan" style="background: url(http://www.life.com/static/hero/572/12572/thumb.jpg) top left no-repeat;">
-							<img alt="Adolf Hitler: Up Close" src="/images/gallerythumb-flag-exclusive.png">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--27022');" href="http://www.life.com/gallery/27022/adolf-hitler-up-close" class="text">
-			Adolf Hitler: Up Close		</a>
-	</div>
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/25371/30-dumb-inventions?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/691/7691/thumb.jpg) top left no-repeat;">
+                                <img alt="30 Dumb Inventions" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/25371/30-dumb-inventions?iid=other|editorspicks" class="text">
+                30 Dumb Inventions            </a>
+    </div>
+
+
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/65921/natalie-wood-25-unpublished-photos?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/201/107201/thumb.jpg) top left no-repeat;">
+                                <img alt="Natalie Wood: 25 Unpublished Photos" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/65921/natalie-wood-25-unpublished-photos?iid=other|editorspicks" class="text">
+                Natalie Wood: 25 Unpublished Photos            </a>
+    </div>
 
 				</div>
 			
 				<div class="sliderpage" style="height: 490px;">
-    				<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--54111');" href="http://www.life.com/gallery/54111/gone-too-soon-2011-passings" class="herospan" style="background: url(http://www.life.com/static/hero/581/75581/thumb.jpg) top left no-repeat;">
-							<img alt="Gone Too Soon: 2011 Passings" src="/images/blank.gif" width="130" height="80">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--54111');" href="http://www.life.com/gallery/54111/gone-too-soon-2011-passings" class="text">
-			Gone Too Soon: 2011 Passings		</a>
-	</div>
+    				
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/48851/beautiful-old-school-beer-ads?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/971/65971/thumb.jpg) top left no-repeat;">
+                                <img alt="Beautiful Old-School Beer Ads " src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/48851/beautiful-old-school-beer-ads?iid=other|editorspicks" class="text">
+                Beautiful Old-School Beer Ads             </a>
+    </div>
 
-<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--59711');" href="http://www.life.com/gallery/59711/kate--william-best-wedding-photos" class="herospan" style="background: url(http://www.life.com/static/hero/491/86491/thumb.jpg) top left no-repeat;">
-							<img alt="Kate &amp; William: Best Wedding Photos" src="/images/blank.gif" width="130" height="80">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--59711');" href="http://www.life.com/gallery/59711/kate--william-best-wedding-photos" class="text">
-			Kate &amp; William: Best Wedding Photos		</a>
-	</div>
 
-<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--59191');" href="http://www.life.com/gallery/59191/wwii-children-where-are-they" class="herospan" style="background: url(http://www.life.com/static/hero/411/87411/thumb.jpg) top left no-repeat;">
-							<img alt="WWII Children: Where Are They?" src="/images/blank.gif" width="130" height="80">
-					</a>
-	</div>
-			<a onclick="omniTracking('MAIN','ACTION',null,'editorspick--59191');" href="http://www.life.com/gallery/59191/wwii-children-where-are-they" class="text">
-			WWII Children: Where Are They?		</a>
-	</div>
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/66901/2006-life-covers?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/141/112141/thumb.jpg) top left no-repeat;">
+                                <img alt="2006 LIFE Covers" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/66901/2006-life-covers?iid=other|editorspicks" class="text">
+                2006 LIFE Covers            </a>
+    </div>
+
+
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/66721/lifes-20-worst-covers?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/761/108761/thumb.jpg) top left no-repeat;">
+                                <img alt="LIFE's 20 Worst Covers" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/66721/lifes-20-worst-covers?iid=other|editorspicks" class="text">
+                LIFE's 20 Worst Covers            </a>
+    </div>
+
+				</div>
+			
+				<div class="sliderpage" style="height: 490px;">
+    				
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/65981/occupy-wall-street-the-photos?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/871/112871/thumb.jpg) top left no-repeat;">
+                                <img alt="Occupy Wall Street: The Photos" src="/images/gallerythumb-flag-updated.png">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/65981/occupy-wall-street-the-photos?iid=other|editorspicks" class="text">
+                Occupy Wall Street: The Photos            </a>
+    </div>
+
+
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/67431/holiday-photo-tips-get-creative?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/621/112621/thumb.jpg) top left no-repeat;">
+                                <img alt="Holiday Photo Tips: Get Creative!" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/67431/holiday-photo-tips-get-creative?iid=other|editorspicks" class="text">
+                Holiday Photo Tips: Get Creative!            </a>
+    </div>
+
+
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/45271/kristen-stewarts-changing-style?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/051/60051/thumb.jpg) top left no-repeat;">
+                                <img alt="Kristen Stewart's Changing Style" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/45271/kristen-stewarts-changing-style?iid=other|editorspicks" class="text">
+                Kristen Stewart's Changing Style            </a>
+    </div>
+
+				</div>
+			
+				<div class="sliderpage" style="height: 490px;">
+    				
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/66711/the-75-best-life-covers-of-all-time?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/731/111731/thumb.jpg) top left no-repeat;">
+                                <img alt="The 75 Best LIFE Covers of All Time" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/66711/the-75-best-life-covers-of-all-time?iid=other|editorspicks" class="text">
+                The 75 Best LIFE Covers of All Time            </a>
+    </div>
+
+
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/65891/west-side-story-a-look-back?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/001/106001/thumb.jpg) top left no-repeat;">
+                                <img alt="'West Side Story': A Look Back" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/65891/west-side-story-a-look-back?iid=other|editorspicks" class="text">
+                'West Side Story': A Look Back            </a>
+    </div>
+
+
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/66351/life-at-75-stars-at-home?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/301/111301/thumb.jpg) top left no-repeat;">
+                                <img alt="LIFE at 75: Stars at Home" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/66351/life-at-75-stars-at-home?iid=other|editorspicks" class="text">
+                LIFE at 75: Stars at Home            </a>
+    </div>
+
+				</div>
+			
+				<div class="sliderpage" style="height: 490px;">
+    				
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/64741/1969-life-covers?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/861/111861/thumb.jpg) top left no-repeat;">
+                                <img alt="1969 LIFE Covers" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/64741/1969-life-covers?iid=other|editorspicks" class="text">
+                1969 LIFE Covers            </a>
+    </div>
+
+
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/63391/1938-life-covers?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/881/111881/thumb.jpg) top left no-repeat;">
+                                <img alt="1938 LIFE Covers" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/63391/1938-life-covers?iid=other|editorspicks" class="text">
+                1938 LIFE Covers            </a>
+    </div>
+
+
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/39632/at-war-photographers-best-shots?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/181/108181/thumb.jpg) top left no-repeat;">
+                                <img alt="At War: Photographers' Best Shots" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/39632/at-war-photographers-best-shots?iid=other|editorspicks" class="text">
+                At War: Photographers' Best Shots            </a>
+    </div>
+
+				</div>
+			
+				<div class="sliderpage" style="height: 490px;">
+    				
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/64361/1958-life-covers?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/111/112111/thumb.jpg) top left no-repeat;">
+                                <img alt="1958 LIFE Covers" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/64361/1958-life-covers?iid=other|editorspicks" class="text">
+                1958 LIFE Covers            </a>
+    </div>
+
+
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/47471/never-seen-hells-angels-1965?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/311/107311/thumb.jpg) top left no-repeat;">
+                                <img alt="Never-Seen: Hells Angels, 1965" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/47471/never-seen-hells-angels-1965?iid=other|editorspicks" class="text">
+                Never-Seen: Hells Angels, 1965            </a>
+    </div>
+
+
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/58451/life-at-75-classic-sports-shots?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/471/83471/thumb.jpg) top left no-repeat;">
+                                <img alt="LIFE at 75: Classic Sports Shots" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/58451/life-at-75-classic-sports-shots?iid=other|editorspicks" class="text">
+                LIFE at 75: Classic Sports Shots            </a>
+    </div>
+
+				</div>
+			
+				<div class="sliderpage" style="height: 490px;">
+    				
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/66401/20-legends-who-shook-the-world?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/901/106901/thumb.jpg) top left no-repeat;">
+                                <img alt="20 Legends Who Shook the World" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/66401/20-legends-who-shook-the-world?iid=other|editorspicks" class="text">
+                20 Legends Who Shook the World            </a>
+    </div>
+
+
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/66681/50-photos-that-brought-the-war-home?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/781/109781/thumb.jpg) top left no-repeat;">
+                                <img alt="50 Photos That Brought the War Home" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/66681/50-photos-that-brought-the-war-home?iid=other|editorspicks" class="text">
+                50 Photos That Brought the War Home            </a>
+    </div>
+
+
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/41322/taking-great-pictures-lighting?iid=other|editorspicks" class="herospan" style="background: url(http://static.life.com/hero/612/56612/thumb.jpg) top left no-repeat;">
+                                <img alt="Taking Great Pictures: Lighting" src="/images/blank.gif" width="130" height="80">
+                    </a>
+    </div>
+                <a href="http://www.life.com/gallery/41322/taking-great-pictures-lighting?iid=other|editorspicks" class="text">
+                Taking Great Pictures: Lighting            </a>
+    </div>
 
 				</div>
 			
@@ -749,7 +860,7 @@ For more information about Time's use of this information pursuant to its privac
         <div align="center">
             <div class="advertisement300x250">
 		    	<script type="text/javascript">
-		    	var sizes = new Array("300x250", "300x600", "336x280");
+		    	var sizes = new Array("300x250", "300x600", "336x280", "300x1050");
 		    	var adMulti300 = adFactory.getMultiAd(sizes);
 		    	adMulti300.write();
 
@@ -762,88 +873,87 @@ For more information about Time's use of this information pursuant to its privac
 	    	</div>
     	</div>
     	</div>
-<!-- Container service_sidebar Module didyoumissthis --><div class="sidebarItem">
-    <div class="bigTitle">
-		<img alt="Did You Miss This?" src="/images/newsgoth-did-you-miss-this.gif" height="31">
+<!-- Container service_sidebar Module didyoumissthis --><div class="sidebarItem"><div class="moduleTitle">
+	<h4>Did You Miss This?</h4>
+</div>
+<div class="moduleBox padLeft">
+	<div class="managedSingleGallery">
+		<div class="column left">
+			
+<div class="gallery  ">
+    <div class="image">
+        <a href="http://www.life.com/gallery/34312/twilight-zone-guess-who-guested?iid=didyoumissthis" class="herospan" style="background: url(http://static.life.com/hero/742/40742/thumb.jpg) top left no-repeat;">
+                                <img alt="'Twilight Zone': Guess Who Guested" src="/images/gallerythumb-flag-guiltypleasure.png">
+                    </a>
     </div>
-    <div class="widgetBox didyoumissthis">
+    </div>
 
-		<div class="gallery">
-	<div class="image">
-	   	<a onclick="omniTracking('MAIN','ACTION',null,'didyoumissthis--26432');" href="http://www.life.com/gallery/26432/american-classic-lady-liberty" class="herospan" style="background: url(http://www.life.com/static/hero/822/10822/thumb.jpg) top left no-repeat;">
-							<img alt="American Classic: Lady Liberty" src="/images/blank.gif" width="130" height="80">
-					</a>
+		</div>
+		<div class="column right">
+			<h3><a href="http://www.life.com/gallery/34312/twilight-zone-guess-who-guested?iid=didyoumissthis">'Twilight Zone': Guess Who Guested</a></h3>
+			<a href="http://www.life.com/gallery/34312/twilight-zone-guess-who-guested?iid=didyoumissthis" class="blueButton"><strong>18 Images</strong></a>
+		</div>
+		<div class="clearboth"></div>
 	</div>
+</div>
+</div>
+<!-- Container service_sidebar Module partner --><div class="sidebarItem"><div class="moduleTitle">
+	<h4>Did You See...</h4>
+</div>
+<div class="moduleBox">
+	<div class="partnerContent">
+	
+            <div class="partnerModule">
+                <div class="inside">
+                    <div class="partnerText">
+                       	<a onclick="omniTracking('MAIN','ACTION',null,'partner-BBC Travel');" href="http://www.bbc.com/travel/blog/20111118-forms-of-identification-ellie-cobb" target="_blank">Forms of ID: Ellie Cobb</a>
+
+                       	<a href="http://www.bbc.com/travel" target="_blank">See more</a> from BBC Travel                    </div>
+
+                    <div class="partnerLogo">
+                        <a onclick="omniTracking('MAIN','ACTION',null,'partner-BBC Travel');" href="http://www.bbc.com/travel" target="_blank"><img src="/images/partner/logo-bbctravel.gif"></a>
+                    </div>
+
+                    <div class="clearboth"></div>
+                </div>
+            </div>
+            <br>
+
+
+            <div class="partnerModule">
+                <div class="inside">
+                    <div class="partnerText">
+                       	<a onclick="omniTracking('MAIN','ACTION',null,'partner-Boing Boing');" href="http://feeds.boingboing.net/~r/boingboing/iBag/~3/R_UhviR744o/psychology-of-pepper-spray.html" target="_blank">Psychology of pepper spray</a>
+
+                       	<a href="http://www.boingboing.net" target="_blank">See more</a> from Boing Boing                    </div>
+
+                    <div class="partnerLogo">
+                        <a onclick="omniTracking('MAIN','ACTION',null,'partner-Boing Boing');" href="http://www.boingboing.net" target="_blank"><img src="/images/partner/logo-boingboing.gif"></a>
+                    </div>
+
+                    <div class="clearboth"></div>
+                </div>
+            </div>
+            <br>
+
+
+            <div class="partnerModule">
+                <div class="inside">
+                    <div class="partnerText">
+                       	<a onclick="omniTracking('MAIN','ACTION',null,'partner-Rotton Tomatoes');" href="http://www.rottentomatoes.com/m/1924007/news/1924007/" target="_blank">Critics Consensus: The Muppets is Certified Fresh</a>
+
+                       	<a href="http://www.rottentomatoes.com" target="_blank">See more</a> from Rotton Tomatoes                    </div>
+
+                    <div class="partnerLogo">
+                        <a onclick="omniTracking('MAIN','ACTION',null,'partner-Rotton Tomatoes');" href="http://www.rottentomatoes.com" target="_blank"><img src="/images/partner/logo-rottentomatoes.gif"></a>
+                    </div>
+
+                    <div class="clearboth"></div>
+                </div>
+            </div>
+            <br>
+
 	</div>
-
-
-    	<div class="blurb">
-        	<h3><a onclick="omniTracking('MAIN','ACTION',null,'didyoumissthis-26432');" href="http://www.life.com/gallery/26432/american-classic-lady-liberty">American Classic: Lady Liberty</a></h3>
-    		<a onclick="omniTracking('MAIN','ACTION',null,'didyoumissthis-26432');" href="http://www.life.com/gallery/26432/american-classic-lady-liberty" class="blueButton"><strong>31 Images</strong></a>
-    	</div>
-
-    </div>
-
-    <div class="clearboth"></div>
-
-</div>
-<!-- Container service_sidebar Module partner --><div class="sidebarItem">
-<div class="bigTitle">
-	<img alt="Did You See..." src="/images/newsgoth-did-you-see.gif" height="31">
-</div>
-<div class="widgetBox">
-
-
-<div class="partnerModule">
-    <div class="inside">
-        <div class="partnerText">
-           	<h3><a onclick="omniTracking('MAIN','ACTION',null,'partner-photo.net');" href="http://photo.net/canon-eos-digital-camera-forum/00YrMh" target="_blank">Canon Thursday Photo 2011: #23</a></h3>
-
-           	<a href="http://photo.net" target="_blank">See more</a> from photo.net        </div>
-
-        <div class="partnerLogo">
-            <a onclick="omniTracking('MAIN','ACTION',null,'partner-photo.net');" href="http://photo.net" target="_blank"><img src="/images/partner/logo-photonet.gif"></a>
-        </div>
-
-        <div class="clearboth"></div>
-    </div>
-</div>
-<br>
-
-
-<div class="partnerModule">
-    <div class="inside">
-        <div class="partnerText">
-           	<h3><a onclick="omniTracking('MAIN','ACTION',null,'partner-Rotton Tomatoes');" href="http://www.rottentomatoes.com/m/1922964/news/1922964/" target="_blank">Weekly Ketchup: Is Naomie Harris the Next Bond Girl?</a></h3>
-
-           	<a href="http://www.rottentomatoes.com" target="_blank">See more</a> from Rotton Tomatoes        </div>
-
-        <div class="partnerLogo">
-            <a onclick="omniTracking('MAIN','ACTION',null,'partner-Rotton Tomatoes');" href="http://www.rottentomatoes.com" target="_blank"><img src="/images/partner/logo-rottentomatoes.gif"></a>
-        </div>
-
-        <div class="clearboth"></div>
-    </div>
-</div>
-<br>
-
-
-<div class="partnerModule">
-    <div class="inside">
-        <div class="partnerText">
-           	<h3><a onclick="omniTracking('MAIN','ACTION',null,'partner-BBC Travel');" href="http://www.bbc.com/travel/blog/20110610-travelwise-touring-the-cities-of-olympics-past" target="_blank">Touring past Olympics’cities</a></h3>
-
-           	<a href="http://www.bbc.com/travel" target="_blank">See more</a> from BBC Travel        </div>
-
-        <div class="partnerLogo">
-            <a onclick="omniTracking('MAIN','ACTION',null,'partner-BBC Travel');" href="http://www.bbc.com/travel" target="_blank"><img src="/images/partner/logo-bbctravel.gif"></a>
-        </div>
-
-        <div class="clearboth"></div>
-    </div>
-</div>
-<br>
-
 </div>
 </div>
 <!-- Container service_sidebar Module newsletter --><div class="sidebarItem"><div class="newsletter">
@@ -851,7 +961,7 @@ For more information about Time's use of this information pursuant to its privac
 	
 	<div class="errorResponse" id="response"></div>
 	
-	<form class="newsletterform" id="widgetNewsletterForm" method="POST" action="/widget/newsletter/subscribe">
+	<form class="newsletterform" id="widgetNewsletterForm" method="post" action="/widget/newsletter/subscribe">
 	    <div class="checkbox">
 	        <input type="checkbox" name="weeklypicks" id="weeklyPicks" checked="checked">
             <label for="weeklyPicks">Picks of the Week</label>
@@ -863,79 +973,72 @@ For more information about Time's use of this information pursuant to its privac
 		<div class="textarea">
 			<input id="newsletterforminput" name="email" value="Email Address" onclick="siteController.widgetNewsletterBoxClick(this);">
 		</div>
-		
-        <a class="button" href="Javascript:siteController.widgetNewsletterFormSubmission();"><img alt="Sign Up" src="/images/newsletter-button.gif"></a>
+		<div>
+                    <a class="button" href="Javascript:siteController.widgetNewsletterFormSubmission();"><img alt="Sign Up" src="/images/newsletter-button.gif"></a>
+                </div>
 	</form>
 	
 	<div class="bottom"></div>
-</div></div>	   			</div>
+</div><div class="clearboth"></div></div>	   			</div>
     		</div>
 
             <div class="footer">
-
 	<div class="footerHeadlines">
-
-		
-    		<div class="column">
+		    		<div class="column">
         		<strong class="news"><a href="/channel/news">NEWS</a></strong>
         		<ul>
-    				    	        		<li><a href="http://www.life.com/gallery/58221/in-the-words-of-prince-philip">In the Words of Prince Philip</a></li>
-    				    	        		<li><a href="http://www.life.com/gallery/48401/aboard-a-wwii-aircraft-carrier">Aboard a WWII Aircraft Carrier</a></li>
-    				    	        		<li><a href="http://www.life.com/gallery/61241/the-weeks-best-photos-61011">The Week's Best Photos: 6.10.11</a></li>
+    				    	        		<li><a href="http://www.life.com/gallery/67141/life-at-75-civil-rights-photos">LIFE at 75: Civil Rights Photos</a></li>
+    				    	        		<li><a href="http://www.life.com/gallery/53481/where-holiday-traditions-come-from">Where Holiday Traditions Come From</a></li>
+    				    	        		<li><a href="http://www.life.com/gallery/59851/lifes-37-best-ever-science-photos">LIFE's 37 Best-Ever Science Photos</a></li>
     				        		</ul>
     		</div>
 
-		
-    		<div class="column">
+		    		<div class="column">
         		<strong class="celebrity"><a href="/channel/celebrity">CELEBRITY</a></strong>
         		<ul>
-    				    	        		<li><a href="http://www.life.com/gallery/60211/pippa-middleton-the-latest-photos">Pippa Middleton: The Latest Photos</a></li>
-    				    	        		<li><a href="http://www.life.com/gallery/58221/in-the-words-of-prince-philip">In the Words of Prince Philip</a></li>
-    				    	        		<li><a href="http://www.life.com/gallery/60221/duchess-catherine-latest-photos">Duchess Catherine: Latest Photos</a></li>
+    				    	        		<li><a href="http://www.life.com/gallery/42512/rare-the-night-marilyn-sang-to-jfk">RARE: The Night Marilyn Sang to JFK</a></li>
+    				    	        		<li><a href="http://www.life.com/gallery/65481/kim-novak-i-was-in-life">Kim Novak: I Was in LIFE</a></li>
+    				    	        		<li><a href="http://www.life.com/gallery/62351/real-faces-behind-hacker-cases">Real Faces Behind Hacker Cases</a></li>
     				        		</ul>
     		</div>
 
-		
-    		<div class="column">
+		    		<div class="column">
         		<strong class="travel"><a href="/channel/travel">TRAVEL</a></strong>
         		<ul>
-    				    	        		<li><a href="http://www.life.com/gallery/61241/the-weeks-best-photos-61011">The Week's Best Photos: 6.10.11</a></li>
-    				    	        		<li><a href="http://www.life.com/gallery/61161/only-in-america-roadside-scenes">Only in America: Roadside Scenes</a></li>
-    				    	        		<li><a href="http://www.life.com/gallery/57551/lifecoms-2011-photo-blog-awards">LIFE.com's 2011 Photo Blog Awards</a></li>
+    				    	        		<li><a href="http://www.life.com/gallery/53481/where-holiday-traditions-come-from">Where Holiday Traditions Come From</a></li>
+    				    	        		<li><a href="http://www.life.com/gallery/25482/beautiful-sunsets">Beautiful Sunsets</a></li>
+    				    	        		<li><a href="http://www.life.com/gallery/67131/the-75-best-life-photos">The 75 Best LIFE Photos</a></li>
     				        		</ul>
     		</div>
 
-		
-    		<div class="column">
+		    		<div class="column">
         		<strong class="animals"><a href="/channel/animals">ANIMALS</a></strong>
         		<ul>
-    				    	        		<li><a href="http://www.life.com/gallery/54451/weird-wonderful-horse-names">Weird, Wonderful Horse Names</a></li>
-    				    	        		<li><a href="http://www.life.com/gallery/61241/the-weeks-best-photos-61011">The Week's Best Photos: 6.10.11</a></li>
-    				    	        		<li><a href="http://www.life.com/gallery/61321/heidi-the-cross-eyed-opossum">Heidi, the Cross-Eyed Opossum</a></li>
+    				    	        		<li><a href="http://www.life.com/gallery/31762/turkey-feather-gown-a-plucky-bride">Turkey Feather Gown? A Plucky Bride</a></li>
+    				    	        		<li><a href="http://www.life.com/gallery/53481/where-holiday-traditions-come-from">Where Holiday Traditions Come From</a></li>
+    				    	        		<li><a href="http://www.life.com/gallery/67131/the-75-best-life-photos">The 75 Best LIFE Photos</a></li>
     				        		</ul>
     		</div>
 
-		
-    		<div class="column">
+		    		<div class="column">
         		<strong class="sports"><a href="/channel/sports">SPORTS</a></strong>
         		<ul>
-    				    	        		<li><a href="http://www.life.com/gallery/54451/weird-wonderful-horse-names">Weird, Wonderful Horse Names</a></li>
-    				    	        		<li><a href="http://www.life.com/gallery/61241/the-weeks-best-photos-61011">The Week's Best Photos: 6.10.11</a></li>
-    				    	        		<li><a href="http://www.life.com/gallery/57551/lifecoms-2011-photo-blog-awards">LIFE.com's 2011 Photo Blog Awards</a></li>
+    				    	        		<li><a href="http://www.life.com/gallery/53481/where-holiday-traditions-come-from">Where Holiday Traditions Come From</a></li>
+    				    	        		<li><a href="http://www.life.com/gallery/67341/life-photographers-look-back">LIFE Photographers Look Back</a></li>
+    				    	        		<li><a href="http://www.life.com/gallery/67131/the-75-best-life-photos">The 75 Best LIFE Photos</a></li>
     				        		</ul>
     		</div>
 
 		
 		<div class="clearboth"></div>
-
 	</div>
 
 	<div class="footerPhotoFun">
 		<div class="footerFanlinks">
 			<strong>BECOME A FAN:</strong><br>
-			<a class="footerFacebook" onclick="omniTracking('MAIN','ACTION',null,'facebook');" href="http://www.facebook.com/pages/LIFEcom/39308306599">LIFE.com on Facebook</a><br>
-			<a class="footerTwitter" onclick="omniTracking('MAIN','ACTION',null,'twitter');" href="http://www.twitter.com/life">LIFE.com on Twitter</a><br>
-			<a class="footerTumblr" onclick="omniTracking('MAIN','ACTION',null,'tumblr');" href="http://life.tumblr.com/">LIFE.com on Tumblr</a>
+			<a class="footerFacebook" href="http://www.facebook.com/pages/LIFEcom/39308306599">LIFE.com on Facebook</a><br>
+			<a class="footerTwitter" href="http://www.twitter.com/life">LIFE.com on Twitter</a><br>
+			<a class="footerTumblr" href="http://life.tumblr.com/">LIFE.com on Tumblr</a>
 		</div>
 		<strong>PHOTO FUN:</strong>
 		<a href="/archive/realfake">Real or Fake?</a>
@@ -970,42 +1073,78 @@ For more information about Time's use of this information pursuant to its privac
 
         <br>
 
-		
-		<strong>OUR PARTNERS:</strong>
-		<a target="_blank" href="http://www.cnn.com/" onclick="omniTracking('MAIN','ACTION',null,'footerpartner-cnn');">CNN.com</a>
-		 |
-		<a target="_blank" href="http://sportsillustrated.cnn.com/" onclick="omniTracking('MAIN','ACTION',null,'footerpartner-si');">SI.com</a>
-		 |
-		<a target="_blank" href="http://www.people.com/" onclick="omniTracking('MAIN','ACTION',null,'footerpartner-people');">People.com</a>
-		 |
-		<a target="_blank" href="http://www.time.com/" onclick="omniTracking('MAIN','ACTION',null,'footerpartner-time');">TIME.com</a>
-         |
-        <a target="_blank" href="http://www.fark.com/" onclick="omniTracking('MAIN','ACTION',null,'footerpartner-fark');">Fark.com</a>
-         |
-        <a target="_blank" href="http://photo.net/" onclick="omniTracking('MAIN','ACTION',null,'footerpartner-photonet');">photo.net</a>
-<!--         |
-        <a target="_blank" href="http://www.rottentomatoes.com/" onclick="omniTracking('MAIN','ACTION',null,'footerpartner-rottentomatoes');">RottenTomatoes.com</a>-->
+		        		<strong>OUR PARTNERS:</strong>
+        		<a target="_blank" href="http://www.cnn.com/">CNN.com</a>
+        		 |
+        		<a target="_blank" href="http://sportsillustrated.cnn.com/">SI.com</a>
+        		 |
+        		<a target="_blank" href="http://www.people.com/">People.com</a>
+        		 |
+        		<a target="_blank" href="http://www.time.com/">TIME.com</a>
+                 |
+                <a target="_blank" href="http://www.fark.com/">Fark.com</a>
+                 |
+                <a target="_blank" href="http://photo.net/">photo.net</a>
+			</div>
 
-		
-	</div>
+	<hr>    	<div class="advertisement101x1" id="adTag101_2">
+    	<script type="text/javascript">
+    	adFactory.setParam('pos', 2);
+    	        var sizes = new Array("728x90");
+            	var adMulti101 = adFactory.getMultiAd(sizes);
+    	</script>
+	    	<div id="advertisement101x1_2">
+	    	<script type="text/javascript">
+	    	adMulti101.write();
+	    	</script>
+	    	</div>
+    	<script type="text/javascript">
 
-	
+    	if (dojo.byId("advertisement101x1_2").innerHTML.indexOf("Template Name = HTML Blank Ad") != -1) {
+    		dojo.removeClass(dojo.byId("adTag101_2"), "advertisement101x1");
+    	} else if (0 === 2 || 1 === 2){
+        	dojo.addClass(dojo.byId("adTag101_2"), "headerAd");
+    	}
+
+    	dojo.connect(window, "onload", function() {
+        	if (typeof adid != 'undefined' && adid != '' && adid != null) {
+        		adFactory.setParam('srnd', adid);
+        	}
+    	});
+        </script>
+        </div>
+    	
 	<div class="footerLinks">
-	     <a href="/">Home</a>
-		 | <a href="/service/aboutus">About Us</a>
-		 | <a href="/service/contributors">Featured Contributors</a>
+	     <a href="http://www.life.com">Home</a>
+		 | <a href="http://www.life.com/service/aboutus">About Us</a>
 		 | <a href="http://www.life.com/mediakit">Advertise With Us</a>
-		 | <a href="/service/contact">Contact</a>
-		 | <a href="/service/faq">FAQ</a>
-		 | <a href="/service/newsletter?iid=newsletterfooter">Newsletters</a>
-		 | <a href="/service/shop">LIFE Store</a>
-		 | <a href="/service/terms">Terms of Use</a>
-		 | <a href="/service/privacy">Privacy Policy</a>
-		 | <a href="/service/sitemap">Sitemap</a>
-		 | <a href="/mobile/ipad">LIFE Mobile</a>
-		 | <a href="/service/rss"><img alt="RSS Logo" width="12" height="12" src="/images/footer-rss.gif"> RSS</a>
+		 | <a href="http://www.life.com/service/contact">Contact</a>
+		 | <a href="http://www.life.com/service/faq">FAQ</a>
+		 | <a href="http://www.life.com/service/newsletter?iid=newsletterfooter">Newsletters</a>
+		 | <a href="http://store.life.com">LIFE Store</a>
+		 | <a href="http://www.life.com/service/terms">Terms of Use</a>
+		 | <a href="http://www.life.com/service/privacy">Privacy Policy</a>
+		 | <a href="http://www.life.com/service/sitemap">Sitemap</a>
+		 | <a href="http://www.life.com/mobile/ipad">LIFE Mobile</a>
+		 | <a href="http://www.life.com/service/rss"><img alt="RSS Logo" width="12" height="12" src="/images/footer-rss.gif"> RSS</a>
+		 | <a href="http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/ti-corp-behavioral.html" target="_blank"><img alt="Ad Choices" src="/images/adchoices.png" style="margin-bottom: -2.1px;"></a>
 	</div>
-
+	<div class="mobileFooterLinks">
+	 	<ul class="hidden">
+    		<li>View LIFE in:</li>
+    		<li><span>Standard</span></li>
+    		<li class="divider"><a href="http://m.life.com" id="mobileUrl">Mobile</a></li>
+    	</ul>
+    	 <script type="text/javascript"><!--
+    	 dojo.addOnLoad(function(){
+    	 	if ((screen.width * screen.height < 800 * 600)
+   	 			 && navigator.userAgent.toLowerCase().indexOf('mobile') != -1
+	 			 || (navigator.userAgent.toLowerCase().indexOf('android') != -1 && screen.width <= 900)) {
+  				dojo.query('.mobileFooterLinks ul').removeClass('hidden');
+          	}
+       	 });
+    	 --></script>
+	</div>
 	<div class="footerCopyright">
 		© 2011 See Your World LLC. All rights reserved
 	</div>
@@ -1018,9 +1157,7 @@ dojo.addOnLoad(function(){
 	toolbarController.init("243871413206");
 });
 </script>
-<div id="mylifeToolbarWrapper">
-    
-</div>
+<div id="mylifeToolbarWrapper"></div> 
             <!-- Yahoo Autocomplete  -->
 
 <!-- AUTOCOMPLETE YUI START -->
@@ -1030,47 +1167,95 @@ acItemSelectEventHandler = function(sType,sArgs){
 	siteController.headerSearchButtonClick(dojo.byId("searchForm"), "large");
 }
 
-YAHOO.example.BasicRemote = function() {
-    // Use an XHRDataSource
-    var oDS = new YAHOO.util.XHRDataSource("/search/autocomplete");
-    // Set the responseType
-    oDS.responseType = YAHOO.util.XHRDataSource.TYPE_TEXT;
-    // Define the schema of the delimited results
-    oDS.responseSchema = {
-        recordDelim: "\n",
-        fieldDelim: "\t"
-    };
-    // Enable caching
-    oDS.maxCacheEntries = 10;
-    
-    // Instantiate the AutoComplete
-    var oAC = new YAHOO.widget.AutoComplete("ACFieldlarge", "ACContainerlarge", oDS);
-	// Require user to type at least 3 characters before triggering a query 
-    oAC.minQueryLength = 3; 
-	// Key input events will trigger queries ASAP... 
-    oAC.queryDelay = 0.1;
-	// Do not automatically highlight the first result item in the container 
-    oAC.autoHighlight = false;    
+if (dojo.byId("ACFieldlarge")) {
+    YAHOO.example.BasicRemote = function() {
+        // Use an XHRDataSource
+        var oDS = new YAHOO.util.XHRDataSource("/search/autocomplete");
+        // Set the responseType
+        oDS.responseType = YAHOO.util.XHRDataSource.TYPE_TEXT;
+        // Define the schema of the delimited results
+        oDS.responseSchema = {
+            recordDelim: "\n",
+            fieldDelim: "\t"
+        };
+        // Enable caching
+        oDS.maxCacheEntries = 10;
 
-	oAC.itemSelectEvent.subscribe(acItemSelectEventHandler);
-    
-    return {
-        oDS: oDS,
-        oAC: oAC
-    };
-}();
+        // Instantiate the AutoComplete
+        var oAC = new YAHOO.widget.AutoComplete("ACFieldlarge", "ACContainerlarge", oDS);
+    	// Require user to type at least 3 characters before triggering a query
+        oAC.minQueryLength = 3;
+    	// Key input events will trigger queries ASAP...
+        oAC.queryDelay = 0.1;
+    	// Do not automatically highlight the first result item in the container
+        oAC.autoHighlight = false;
+
+    	oAC.itemSelectEvent.subscribe(acItemSelectEventHandler);
+
+        return {
+            oDS: oDS,
+            oAC: oAC
+        };
+    }();
+}
 </script>
 
 <!-- AUTOCOMPLETE YUI END -->
-<!-- Quantcast tag -->
-<script type="text/javascript"> _qoptions={ qacct:"p-5dyPa639IrgIw" }; </script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<noscript><img src="http://pixel.quantserve.com/pixel/p-5dyPa639IrgIw.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></noscript>
-<!-- End Quantcast tag -->
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+    var _qevents = _qevents || [];
+
+    (function() {
+        var elem = document.createElement('script');
+
+        elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+        elem.async = true;
+        elem.type = "text/javascript";
+        var scpt = document.getElementsByTagName('script')[0];
+        scpt.parentNode.insertBefore(elem, scpt);
+    })();
+</script>
+<script type="text/javascript">
+    _qevents.push({
+    qacct:"p-5dyPa639IrgIw",
+    labels:"Life.Service"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-5dyPa639IrgIw.gif?labels=Life.Service" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast Tag -->
+
+<!-- CHARTBEAT -->
+<script type="text/javascript">
+var _sf_async_config={uid:25603,domain:location.host,sections:"life"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
+<!-- End CHARTBEAT -->
+
 <!-- RevSci Tag -->
 <script src="http://js.revsci.net/gateway/gw.js?csid=H07710" type="text/javascript"></script>
 <script type="text/javascript"> TiiAdTrackRevSci(); </script>
 <!-- End RevSci Tag -->
+
 		</div>
     
-</body></html>
+<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
