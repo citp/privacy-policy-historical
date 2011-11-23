@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisestep.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630012401id_/http%3A//www.wisestep.com/PrivacyPolicy.aspx%3FTB_iframe%3Dtrue%26height%3D450%26width%3D900) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisestep.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124002527id_/http%3A//www.wisestep.com/PrivacyPolicy.aspx%3FTB_iframe%3Dtrue%26height%3D450%26width%3D900) for the most accurate reproduction.*
 
 # Privacy Policy
 
