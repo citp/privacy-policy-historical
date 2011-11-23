@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nps.org.au privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525214121id_/http%3A//www.nps.org.au/about_this_website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nps.org.au privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123051937id_/http%3A//www.nps.org.au/about_this_website/privacy) for the most accurate reproduction.*
 
 # Privacy policy: NPS - Better choices, Better health
 
@@ -186,14 +186,11 @@ If you are not satisfied with the resolution of your complaint by NPS you may co
 
 ## Further information
 
-For enquiries or feedback about this policy, or for complaints about NPS’ handling of personal information, please contact the Privacy Officer:
+For enquiries or feedback about this policy, or for complaints about NPS’s handling of personal information, please [email the privacy officer](mailto:privacy@nps.org.au) or phone 02 8217 8798. You can also fax your enquiry to 02 9211 7578 or mail to:
 
-Email: [privacy@nps.org.au](mailto:privacy@nps.org.au)  
-Telephone: 02 8217 8798  
-Facsimile: 02 9211 7578
-
-Mail: The Privacy Officer  
-National Prescribing Service Ltd  
+NPS privacy officer  
+NPS: Better choices, Better health  
 PO Box 1147  
 Strawberry Hills  
-NSW 2012
+NSW 2012  
+
