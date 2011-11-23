@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ipipeline.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516033938id_/http%3A//www.ipipeline.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipipeline.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123104027id_/http%3A//ipipeline.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Insurance Software Systems, CRM, Data Services, Sales Distribution, Agency Management - iPipeline
+# iPipeline - integrated solutions for the Insurance & Financial Services Industry
 
 ## Privacy Policy
 
