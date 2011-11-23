@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentcaboodle.com privacy policy that was archived on 2010-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100223013807id_/http%3A//www.contentcaboodle.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentcaboodle.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123162018id_/http%3A//www.contentcaboodle.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Content Caboodle Privacy Policy - Content Caboodle
 
@@ -29,6 +29,3 @@ Pittsburgh, PA 15204
 [admin@contentcaboodle.com](mailto:admin@contentcaboodle.com)
 
 _Last updated: April, 2009_
-
-  
-
