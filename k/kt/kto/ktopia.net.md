@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktopia.net privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609061017id_/http%3A//www.ktopia.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktopia.net privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123203753id_/http%3A//www.ktopia.net/privacy.php) for the most accurate reproduction.*
 
 # Ktopia - Our Privacy Policy
 
@@ -32,7 +32,7 @@ Our website, at times, may contain third party links to other web sites. If you 
 
 #### Terms and Conditions
 
-Please also visit our Terms and Conditions section which will outline the uses, any disclaimers, and limitations of liability governing our web site at [http://www.ktopia.net/terms.php](https://web.archive.org/web/20110609061017id_/http%3A//www.ktopia.net/terms.php)
+Please also visit our Terms and Conditions section which will outline the uses, any disclaimers, and limitations of liability governing our web site at [http://www.ktopia.net/terms.php](https://web.archive.org/web/20111123203753id_/http%3A//www.ktopia.net/terms.php)
 
 #### Changes
 
