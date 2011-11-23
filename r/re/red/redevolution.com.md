@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redevolution.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223111923id_/http%3A//www.redevolution.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redevolution.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123162648id_/http%3A//www.redevolution.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
