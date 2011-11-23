@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the mealtrain.com privacy policy that was archived on 2011-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110205232603id_/http%3A//mealtrain.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mealtrain.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123162600id_/http%3A//mealtrain.com/privacy.aspx) for the most accurate reproduction.*
 
 # meal Train | Privacy Policy
 
-## MEALTRAIN.COM PRIVACY POLICY
-
-Last Updated: January 1st, 2010
+Last Updated: April 16th, 2011
 
 Meal Train LLC ("Meal Train," "we" or "us") respects the privacy of its users. This Privacy Policy is intended to describe for you, as an individual who is a user of our website, www.mealtrain.com,
 
@@ -15,7 +13,7 @@ Meal Train LLC ("Meal Train," "we" or "us") respects the privacy of its users. T
 
 
 
-We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy. If you have any questions about our privacy practices, please contact us at [contact@mealtrain.com](mailto:contact@mealtrain.com), through the [Contact Us](https://web.archive.org/Contact.aspx) page, or by writing to us at:
+We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy. If you have any questions about our privacy practices, please contact us at [contact@mealtrain.com](mailto:contact@mealtrain.com), through the [Contact Us](https://web.archive.org/help/contactus/) page, or by writing to us at:
 
 Meal Train LLC  
 47 Caroline Street  
@@ -48,20 +46,19 @@ We may collect personal information that can identify you, such as your name and
 
 #### Registered Users
 
-  * While Meal Train does not give you the opportunity to remove your information from our database, you may remove your registration information from your My Profile page.
   * Account Changes 
     * **Profile Changes** (except for account closure) may be done at any time through mealTrain.com. Click on the "My Profile" link, and change the desired information.
     * **Account Closure:** If you have an online profile with us, you may choose to close your account at any time by submitting a request via the "Contact Us" link on the home page of the Meal Train website. After you close your account, you will not be able to sign in to our website, access any of your personal information, and all future events that you have created or scheduled will be cancelled. You can open a new account at any time. 
       * If you close your account, we may still retain certain information associated with your account for analytical purposes and record keeping integrity, as well as to prevent fraud, collect any fees owed, enforce our Terms of Service, take actions we deem necessary to protect the integrity of our web site or our users, or take other actions otherwise permitted by law. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties’ policies.
-  * We may send you other types of transactional and relationship email communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them
+  * We may send you other types of transactional and relationship email communications, such as service announcements, administrative notices, and surveys.
   * Please note that changing information in your profile, or otherwise opting out of receipt of promotional email communications will only affect future activities or communications from us. If we have already provided your information to a third party before you have changed your preferences or updated your information, you may have to change your preferences directly with that third party.
 
 
 
 #### Removing personal information from a specific meal train
 
-  * **Delete your name from an invitation list:** You may delete your name from the invitation list by requesting to be removed from the invitee list on the invitation page. Once your name is removed from the invitation list, it will no longer be accessible to other invitees (unless you are subsequently re-invited to participate in the meal train by the organizer or the recipient). You must individually remove your name from each meal train you do not wish to participate in.
-  * **Cancel a meal train:** You, or the organizer can cancel a previously created meal train by logging into your account and proceeding to the "My Meal Trains" tab and selecting the "Cancel this meal train" function. All affected Meal Train users will be notified. 
+  * **Delete your name from an invitation list:** You may delete your name from a meal train invitation list by logging into your account and proceeding to the "My Meal Trains" tab and selecting the "Remove me from this meal train" function. Once your name is removed from the invitation list, it will no longer be accessible to other invitees (unless you are subsequently re-invited to participate in the meal train by the organizer or the recipient). You must individually remove your name from each meal train you do not wish to participate in.
+  * **Cancel a meal train:** You, or the organizer can cancel a previously created meal train by logging into your account and proceeding to the "My Meal Trains" tab and selecting the "Delete this meal train" function. All affected Meal Train users will be notified. 
 
 
 
