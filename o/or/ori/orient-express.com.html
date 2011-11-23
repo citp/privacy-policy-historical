@@ -1,0 +1,1325 @@
+<!--The following is the downloaded HTML source of the orient-express.com privacy policy that was archived on 2011-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123154909id_/http%3A//www.orient-express.com/security.jsp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+	
+	
+	<title>Orient-Express - Security
+</title>
+	
+	<link href="http://static.orient-express.com/web/styles/orex/default.css" rel="stylesheet" type="text/css">
+	
+	<link href="http://static.orient-express.com/web/styles/orex/sifr.css" rel="stylesheet" type="text/css">
+                <!-- Jquery start -->
+    <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="http://static.orient-express.com/js/jquery.min.1.4.2.js" type="text/javascript"></script>
+<!-- Jquery end -->
+
+	<script language="javascript" src="http://static.orient-express.com/orex/js/functions.js"></script>
+	<script language="javascript" src="http://static.orient-express.com/orex/js/sifr.js"></script>
+	<script language="javascript" src="http://static.orient-express.com/orex/js/sifr-config.js"></script>
+	<script language="javascript" src="http://static.orient-express.com/orex/js/swfobject.js"></script>
+                <script language="JavaScript" src="http://static.orient-express.com/js/functions.js" type="text/javascript"></script>
+
+	<!--[if lte IE 6]>
+	<script type="text/javascript" src="http://static.orient-express.com/orex/js/supersleight-min.js"></script>
+	<![endif]-->
+	
+
+
+
+
+
+<script language="javascript">
+function leadZero(s) {
+        var x = "" + s;
+        if (x.length == 1) {
+                x = "0" + x;
+        }
+        return x;
+}
+
+	function smartPopup(sPage, sQS, iWidth, iHeight, bNoScrollBars) {
+		//var tQS = "&";
+		var tQS = "?";
+		var sLink = '/' + sPage;
+        if (sQS != null && sQS != "") { sLink += tQS + sQS; }
+		var iUseWidth = 476;
+        var iUseHeight = 390;
+		if (iWidth) { iUseWidth = iWidth; }
+		if (iHeight) { iUseHeight = iHeight; }
+        var sScrollBars = "yes";
+        if (bNoScrollBars) { sScrollBars = "no"; }
+		var sParams = "height=" + iUseHeight + ",width=" + iUseWidth + ",left=50,top=50,scrollbars=" + sScrollBars + ",statusbar=yes,titlebar=yes";
+		window.open(sLink, "smartpopup", sParams);
+		return;
+	}
+
+function changeToOeDomain(sUrl) {
+	var sQS = "";
+if (sUrl.indexOf("?")>-1) {
+	sQS = "";
+} else {
+	sQS = "?r=a";
+	
+}
+
+
+
+	var sLoc = "http://www.orient-express.com/" + sUrl;
+
+
+
+			__utmLinker(sLoc + sQS);
+
+}
+   
+    function startGift2009(sHid,sStoreName,sCustom) {
+        var sQS = "?r=a";
+		bAutoAlt = false;
+
+		if (sCustom != null && sCustom != "") { sQS += sCustom; }		
+		if (sStoreName != null && sStoreName != "") { sQS += "&store=_" + sStoreName.replace(/ /g, "_").toLowerCase(); } else { sQS += "&store=_gift_cert"; }
+		var sSys = "";
+		var sHidString = sHid.toLowerCase();
+		if (sHidString.indexOf('_') > -1) {
+			sQS += '&language=' + sHidString.substr(sHidString.indexOf('_')+1,sHidString.length)+ '&homelanguage=' + sHidString.substr(sHidString.indexOf('_')+1,sHidString.length);
+			sHidString = sHidString.substr(0,sHidString.indexOf('_'));
+		} else {
+			sQS += '&language=en&homelanguage=en';
+		}
+		sQS += "&hid="+ sHidString;
+
+		
+
+		var domain = "";
+		
+			domain = "www.orient-express.com";
+ 		
+
+			var sLoc = "http://" + domain + "/web/" + sHid + "/start_gift.jsp";
+
+			document.location = sLoc + sQS;
+		
+    }
+
+
+function startBooking(sHid,sCode,sArr,sDep,iAd,iCh,bTunnel,bAutoAlt,sCustom) {
+		if (sHid == "ocar"||sHid == "ocar_fr") {
+			var sLocale = "";
+			if (sHid == "ocar_fr") {
+				sLocale = '&locale=fr-FR';
+			}
+			document.location = 'https://gc.synxis.com/rez.aspx?Hotel=16764&Chain=13373&arrive=' + sArr + '&nights=' + sDep + '&adult=' + document.fAvailability.adults[document.fAvailability.adults.selectedIndex].value + '&child=0' + '&rate=' + sCode + sLocale;
+		return;
+		}
+                                var sQS = "?";
+		sQS += "hid="+ sHid;
+		var useElephant = false;
+		useElephant = false;    
+		//bAutoAlt = false;
+		if (sCode != null && sCode != "") { sQS += "&ratecode=" + sCode; }
+		if (sArr != null && sArr != "") { sQS += "&arrival=" + sArr; }
+		if (sDep != null && sDep != "") { sQS += "&departure=" + sDep; }
+		if (iAd != null && iAd != "") { sQS += "&adults=" + iAd; }
+		if (iCh != null && iCh != "") { sQS += "&children=" + iCh; }
+		if (sCustom != null && sCustom != "") { sQS += sCustom; }		
+		if (bTunnel) { sQS += "&tunnel=true"; }
+		if (bAutoAlt) { sQS += "&autoalt=true"; }
+
+		var sHidString = sHid.toLowerCase();
+		if (sHidString.indexOf('_') > -1) {
+			//sQS += '&language=' + sHidString.substr(sHidString.indexOf('_')+1,sHidString.length)+ '&homelanguage=' + sHidString.substr(sHidString.indexOf('_')+1,sHidString.length);
+			sQS += '&language=' + sHidString.substr(sHidString.indexOf('_')+1,sHidString.length);
+			sHidString = sHidString.substr(0,sHidString.indexOf('_'));
+		} else {
+			//sQS += '&language=en&homelanguage=en';
+			sQS += '&language=en';
+
+		}
+		if (sHid == "opet") {
+	    	       sHid = "stpetersburg";
+	    	       sHidString = "stpetersburg";
+		}
+		if (sHid == "opet_ru") {
+	    	       sHid = "stpetersburg_ru";
+	    	       sHidString = "stpetersburg";
+		}
+		var domain = "";
+		
+			//domain = "www.orient-express.com";
+
+			domain = "www.orient-express.com";
+ 		
+                //go to EN reservations page, if full version in relevant lang, it will redirect.
+		var sLoc = "https://" + domain + "/web/" + sHidString + "/reservations.jsp";
+		
+		if ('null'!='null') {
+			document.location = "http://agents.orient-express.com/web/agents/null.jsp";
+		} else {
+			
+					document.location = sLoc + sQS;
+			
+		}
+    }
+
+
+	
+	function startBookingEle(sHid,sCode,sArr,sDep,iAd,iCh,bTunnel,bAutoAlt,sCustom) {
+    		startBooking(sHid,sCode,sArr,sDep,iAd,iCh,bTunnel,bAutoAlt,sCustom);
+		return;
+	}
+
+function startBookingWithLanguage(sHid,sCode,sArr,sDep,iAd,iCh,bTunnel,bAutoAlt,sLang,sCustom) {
+		if (sHid == "ocar"||sHid == "ocar_fr") {
+			var sLocale = "";
+			if (sHid == "ocar_fr") {
+				sLocale = '&locale=fr-FR';
+			}
+			document.location = 'https://gc.synxis.com/rez.aspx?Hotel=16764&arrive=' + sArr + '&nights=' + sDep + '&adult=' + document.fAvailability.adults[document.fAvailability.adults.selectedIndex].value + '&child=0' + '&rate=' + sCode + sLocale;
+		return;
+		}
+
+		var sQS = "?";
+		sQS += "hid="+ sHid;
+		var useElephant = false;
+		useElephant = false;    
+		//bAutoAlt = false;
+		if (sCode != null && sCode != "") { sQS += "&ratecode=" + sCode; }
+		if (sArr != null && sArr != "") { sQS += "&arrival=" + sArr; }
+		if (sDep != null && sDep != "") { sQS += "&departure=" + sDep; }
+		if (iAd != null && iAd != "") { sQS += "&adults=" + iAd; }
+		if (iCh != null && iCh != "") { sQS += "&children=" + iCh; }
+		if (sLang != null && sLang != "") { sQS += "&language=" + sLang; }
+		if (sCustom != null && sCustom != "") { sQS += sCustom; }		
+		if (bTunnel) { sQS += "&tunnel=true"; }
+		if (bAutoAlt) { sQS += "&autoalt=true"; }
+
+		var sHidString = sHid.toLowerCase();
+		if (sHidString.indexOf('_') > -1) {
+			sHidString = sHidString.substr(0,sHidString.indexOf('_'));
+		} 
+		if (sHid == "opet") {
+	    	       sHid = "stpetersburg";
+	    	       sHidString = "stpetersburg";
+
+		}
+		if (sHid == "opet_ru") {
+	    	       sHid = "stpetersburg_ru";
+	    	       sHidString = "stpetersburg";
+		}
+		var domain = "";
+
+			domain = "www.orient-express.com";
+ 
+		if (useElephant) {
+			//var sLoc = "http://" + domain + "/web/" + sHid + "/start_reservations.jsp";
+			var sLoc = "https://" + domain + "/web/" + sHid + "/reservations.jsp";
+		} else {
+			//var sLoc = "http://www.orient-express.com/web/hotelres/requirements.jsp";
+			//If minisite, go to EN reservations page with pegs layer on top, in relevant language.
+			var sLoc = "https://" + domain + "/web/" + sHidString + "/reservations.jsp";
+		}
+
+		if ('null'!='null') {
+			document.location = "http://agents.orient-express.com/web/agents/null.jsp";
+		} else {
+
+			//Just get it working, and sort tracking later, EB/RA
+			document.location = sLoc + sQS;
+
+		}
+    }
+
+
+
+	function startCancel(sHid,sPath) {
+		var sHidString = sHid.toLowerCase();
+		sHidString = sHidString.substr(0,4);
+		if (sPath != null && sPath != "") { sPath = sPath.toLowerCase() } else { sPath = sHidString }		
+		if (sHidString == 'opet') { sPath = 'stpetersburg' }
+		//var sLoc = "http://www.orient-express.com/web/hotelres/requirements.jsp?hid="+ sHidString;
+		var sLoc = "http://www.orient-express.com/web/hotelres/cancel.jsp?hid="+ sHidString;
+		sQS = "";
+		window.open(sLoc + sQS,'book' + sHid);
+    }
+	
+                function startTable(sHid,sQS) {
+		sHid = sHid.toLowerCase();
+				
+		if (sQS == null || sQS == "undefined") {sQS = ""};
+		           if (sHid == "olem" ) { 
+		                  var sLoc = 'http://www.orient-express.com/web/' + sHid + '/' + sHid + '_t12a_table.jsp'; 
+                                           } else { 
+		                  var sLoc = '/' + 'table_request_restaurant.jsp'; 
+                                           } 
+		sQS = "?r=a";
+
+		
+
+		 if (sHid == "olem") { 	
+                                                     window.open(sLoc + sQS,'table' + sHid,'height=600,width=600,left=10,top=10,scrollbars,resizable=yes,status');
+                                 } else {   		
+			     document.location = sLoc + sQS;                                                                         
+                                 } 
+
+    }
+	
+	function startGift(sHid) {
+		sHid = sHid.toLowerCase();
+		var sLoc = 'http://www.orient-express.com/web/' + sHid + '/cert_t1a_home.jsp'; 
+		var sQS = "?r=a";
+
+		
+
+		
+
+			__utmLinker(sLoc + sQS);
+		
+	}
+
+	function startGiftShop(sHid,sPage) {
+		sHid = sHid.toLowerCase();
+		if (sPage != null && sPage != "undefined") {
+			sLoc = 'http://www.orient-express.com/web/' + sHid + '/gifts/' + sPage;
+		} else {
+			var sLoc = 'http://www.orient-express.com/web/' + sHid + '/gift_t1a_home.jsp';
+			sPage = ""; 
+		}
+		var sQS = "?r=a";
+
+		
+        
+
+
+			__utmLinker(sLoc + sQS);
+
+    }
+		
+	function startExtras(sHid) {
+		sHid = sHid.toLowerCase();	
+		var sLoc = '/' + sHid + '/' + sHid + '_t13a_extras.jsp'; 
+        window.open(sLoc,'table' + sHid,'height=520,width=566,left=50,top=50,scrollbars,resizable=no,status');
+    }
+	
+	function internalLink(sPage, sQS, bSecure, sAnchor) {
+		var sRE = /_page_/gi;
+		var sLink = "/" + sPage;
+		if ((sQS!="")&&(sQS!=null)) { 
+			sLink = sLink + "&" + sQS.replace(sREQS, "%26").replace(sREQS2, "&");
+		}
+		if ((sAnchor!="")&&(sAnchor!=null)) { sLink = sLink + "#" + sAnchor; }
+		document.location = sLink;
+		return;
+	}
+
+function externalLink(sPage, sTarget, sQS) {
+	var sLink;
+        if (sQS) {sLink = "/web/" + sPage + "?" + sQS;} else {sLink = "/web/" + sPage}
+        if (sTarget) { if (sTarget == "new") { window.open(sLink, "oe","toolbar=1,location=1,status=1,scrollbars=1,resizable=1"); } else { document.location = sLink; }
+        } else { document.location = sLink; }
+        return;        
+}
+
+function webLink(sUrl, sTarget) {
+    if (sUrl.indexOf("http://") == -1) { sUrl = "http://" + sUrl; }
+    if (sTarget == null || sTarget == "") { document.location = sUrl; return;
+    } else if (sTarget == "new") { var oWin = window.open(sUrl, "new"); return;
+    } else { return; }
+} 
+
+function hotelTour(iJumpTo) {
+    var sUrl = '/orex_c1d1_tour1.jsp';
+    if (iJumpTo) { sUrl += "?jumpto=" + iJumpTo; }
+	window.open(sUrl, "tour", "height=381,width=586,left=50,top=50,scrollbars=no,statusbar=no,titlebar=yes");
+}
+
+function hotelTour2(iJumpTo) {
+	var sUrl = '/orex_c1d1_tour1.jsp?nav=photo';
+	if (iJumpTo) {
+		sUrl += "&jumpto=" + iJumpTo;
+	}
+	window.open(sUrl, "tour", "height==405,width=586,left=50,top=50,scrollbars=no,statusbar=no,titlebar=yes");
+}
+
+function trainTour(iJumpTo) {
+           var sUrl = '/orex_c3c1_tour1.jsp?nav=photo';
+           if (iJumpTo) {
+                   sUrl += "&jumpto=" + iJumpTo;
+}
+           window.open(sUrl, "tour", "height==405,width=586,left=50,top=50,scrollbars=no,statusbar=no,titlebar=yes");
+}
+
+function pano(sPano) {
+           var sUrl = '/orex_z5b_pano_viewer.jsp?pano=' + sPano;
+           window.open(sUrl, "pano", "height=280,width=330,left=50,top=50,scrollbars=no,statusbar=no,titlebar=yes");
+}
+function panoLarge(sPano) {
+           var sUrl = "/orex_z5b_pano_viewer_large.jsp";
+           sUrl += "?" + "pano=" + sPano;
+           window.open(sUrl, "pano", "height=490,width=600,left=50,top=50,scrollbars=no,statusbar=no,titlebar=yes");
+}
+
+function openPDF(sPDF) {
+           var sUrl = 'http://static.orient-express.com/orex/images/pdf/' + sPDF;
+           window.open(sUrl, "pdf", "left=50,top=50");
+}
+
+
+function currencyConverter(sFrom,iAmount) {
+    var sURL = 'http://www.orient-express.com/web/orex/t16a_currency.jsp?1=1';
+    if (iAmount != null) {
+        sURL += "&amount=" + iAmount;
+    }
+    if (sFrom != null) {
+        sURL += "&from=" + sFrom;
+    }
+    window.open(sURL, "currencyconverter", "height=390,width=460,left=50,top=50,scrollbars=no,statusbar=no,titlebar=yes");
+    return;
+}
+
+function loadMeetings(sUrl){
+	var sLink = '/web/meetings/' + sUrl;
+	window.open(sLink,'meetings','height=450,width=680,left=50,top=50,scrollbars=yes,statusbar=yes,titlebar=yes');	
+}
+
+function carriagesPopup() {
+	var iId;
+	iId = document.fCarriages.carriagesList[document.fCarriages.carriagesList.selectedIndex].value;
+	//popUp("/orex_p1a_carriages.jsp?id=" + iId);
+	var oView = window.open("/orex_p1a_carriages.jsp?id=" + iId, "carriages", "height=419,width=486,left=150,top=100,scrollbars=yes,statusbar=no,titlebar=yes");
+}
+
+function cardSecurity() {
+		var oView = window.open("http://www.orient-express.com/web/luxury/oe_c0a_card_security.jsp", "security", "height=560,width=620,left=150,top=100,scrollbars=yes,statusbar=no,titlebar=yes");
+	}
+	
+function cardSecurityGerman() {
+		var oView = window.open("http://www.orient-express.com/web/luxury/german_credit_card_security.jsp", "security", "height=560,width=620,left=150,top=100,scrollbars=yes,statusbar=no,titlebar=yes");
+	}
+	
+function cardSecurityFrench() {
+		var oView = window.open("http://www.orient-express.com/web/luxury/french_credit_card_security.jsp", "security", "height=560,width=620,left=150,top=100,scrollbars=yes,statusbar=no,titlebar=yes");
+	}
+
+function factSheet() {
+        window.open("/web/oe/hotelfacts/c13a_facts_popup_orex.jsp","facts","height=490,width=476,left=50,top=50,scrollbars=yes,statusbar=yes,titlebar=yes")
+        return;
+    }
+function startSafariBooking() {
+	var sLoc = "https://www.orient-express.com/web/ogam/ogam_t6a1_book.jsp";
+	document.location = sLoc;
+}
+
+function loadMeetingsPopup() {
+		var sRegion="none";
+		var iPeople = 0;
+		var iRooms = 0;
+		var	iPeople=0;
+		var	iRooms=0;
+		window.open('/web/meetings/popup_meetings_events.jsp?source=search&region=' + sRegion + '&people=' + iPeople + '&rooms=' + iRooms,'meetings','height=450,width=680,left=50,top=50,scrollbars=yes,statusbar=yes,titlebar=yes');	
+		return;
+	}
+
+function doExtrasCheck(id) {
+	var objMainCheck = document.getElementById(id);
+	if (objMainCheck.checked) {
+		showExtrasQuantity(id);
+	} else {
+		hideExtrasQuantity(id);
+	}
+}
+function showExtrasQuantity(id) {
+	var o = document.getElementById("quantity" + id);
+	o.style.display = "block";
+}
+function hideExtrasQuantity(id) {
+	var o = document.getElementById("quantity" + id);
+	o.style.display = "none";
+}
+</script>
+
+	</head>
+	<body>
+		<div id="container">
+
+              		
+
+
+
+<div id="banner">
+	<div id="logo"><a href="http://www.orient-express.com/home.jsp"><img src="http://static.orient-express.com/orex/images/logo.gif" border="0"></a></div>
+	<div id="topNavigation">
+		<div id="primaryNavigation">
+			<a id="navHome" href="http://www.orient-express.com/home.jsp">HOME</a>
+			<a id="navExplore" href="http://www.orient-express.com/explore/explore.jsp">EXPLORE</a>
+			<a id="navOurCollection" href="http://www.orient-express.com/collection/map.jsp">OUR COLLECTION</a>
+			<div style="clear:both;"><!-- --></div>
+		</div>
+	</div>
+	
+	
+	<div id="search"><a href="javascript:{};" onclick="javascript:trackEvents(&quot;Search&quot;, &quot;Search Open&quot;);showSearch();"><img src="http://static.orient-express.com/orex/images/nav/orex_nav3_search.gif" border="0"></a></div>
+
+	<!-- SOCIAL MEDIA BUTTONS -->
+	<div id="social">
+		    <!-- GOOGLE +1 -->	
+		    <div class="google">
+			<g:plusone size="medium" count="false" href="http://www.orient-express.com"></g:plusone>
+			<script type="text/javascript">
+				(function() {
+					var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+					po.src = 'https://apis.google.com/js/plusone.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+				})();
+			</script>
+		   </div>
+		   <!-- GOOGLE +1 -->				
+												  
+		     <!-- TWITTER -->
+			<div class="twitter">					
+				<a href="http://bit.ly/p3eIL0 " target="_blank"><img src="https://twitter-badges.s3.amazonaws.com/t_small-a.png" alt="Follow OrientExpress on Twitter" border="0"></a>			
+		                </div>
+		   <!-- END TWITTER -->
+			
+		    <!-- FACEBOOK -->
+			<div class="facebookLike">	
+				<div id="fb-root"></div>
+				<script src="//connect.facebook.net/en_US/all.js#appId=130682477022689&amp;xfbml=1"></script>
+				<fb:like href="//www.facebook.com/orientexpress" send="false" width="77" show_faces="false" layout="button_count" font="arial"></fb:like>
+		                </div>	
+		   <!-- END FACEBOOK -->
+	</div>
+	<!-- END SOCIAL MEDIA BUTTONS -->
+
+</div>
+		
+		<span id="_SE_CP" _se_c="tcm:4-126198" _se_cp="tcm:4-126198" _se_ct="tcm:4-125911-32" _se_cpt="1"><script language="JavaScript" src="http://static.orient-express.com/js/layers.js" type="text/javascript"></script><table cellpadding="0" cellspacing="0" border="0" style="width:720px;">
+<tbody><tr><td colspan="3" valign="top"><span id="_SE_FLD" _se_fld="tcm:Content/custom:Content/custom:text1[1]"><p><strong><a name="top" id="top"></a>Privacy Policy</strong></p><br>
+Last Updated: 14 September 2011
+<br><br>
+The Orient-Express Group* respects the privacy of every individual who visits our hotels, trains, cruises or websites and protecting the privacy and personal data of our visitors is of the utmost importance to us. This policy establishes how we handle the information that (i) you provide to us when you stay or travel with us and (ii) we collect from you when you visit our websites.
+<br><br>
+You have the right as an individual to find out what information we hold about you and make corrections if necessary; you also have the right to ask us to not use the information for certain purposes. We will make all practical efforts to respect your wishes (subject to any overriding legal obligations).
+<br><br>
+In order to provide multiple access points to the services and products we offer, the Orient-Express Group operates directly, or through its affiliates or service providers, many websites, including www.orient-express.com, www.orient-expresstrains.com, www.orient-expresshotels.com, www.orient-expressgifts.com, www.orient-express.fr, www.orient-express.co.jp, www.orient-express.co.ru, www.21club.com, www.keswick.com, www.perrycabin.com, www.charlestonplace.com, www.maromahotel.com, www.lasamanna.com, www.casadesierranevada.com, www.peru-tour.com, www.copacabanapalace.com.br, www.hoteldascataratas.com, www.mira-park.com, www.machupicchu.orient-express.com, www.monasteriohotel.com, www.mesa18restaurant.com, www.mesa18restaurante.com, www.mesa18restaurante.com.pe, www.lascasitasdelcolca.com, www.riosagrado.com, www.grand-hotel-europe.com&nbsp; www.ritz.es, www.ritzmadrid.com, www.hotellaresidencia.com, www.hotelsplendido.com, www.villasanmichele.com, www.hotelcaruso.com, www.hotelcipriani.com, www.hotelvillasantandrea.com, www.grandhoteltimeo.com, www.manoir.com, www.reidspalace.com, www.eagleislandcamp.com, www.khwairiverlodge.com, www.savuteelephantcamp.com, www.alouettebarge.com, www.amaryllisbarge.com, www.hirondellebarge.com, www.napoleonbarge.com, www.fleurdelysbarge.com, www.jimbaranpuribali.com, www.ubudhanginggardens.com, www.residencedangkor.com, www.residencephouvao.com, www.napasai.com, www.governorsresidence.com, www.roadtomandalay.net, www.vsoe.co.uk, www.perurail.com, www.royalscotsman.com, www.observatoryhotel.co.au, www.mountnelson.co.za, www.orient-express-safaris.co.za, www.westcliff.co.za, www.keswickestate.com, www.portocupecoy.com, www.portocupecoyvillas.com, www.romanticgetaways.orient-express.com, and www.afloatinfrance.com. Any one of these websites may ask for and collect personally identifiable information in order to enhance your experience and provide you with relevant information.
+<br><br>
+If you have any specific questions that are not covered in the FAQ section below, please contact:
+<br><br>
+ECommerce
+<br>
+Orient-Express Services Limited
+<br>
+20 Upper Ground
+<br>
+London SE1 9PF
+<br>
+email: privacy@orient-express.com
+<br><br>
+The terms of this privacy policy may be changed by the Orient-Express Group from time to time. Changes will be displayed on www.orient-express.com.
+<br><br>
+*in the context of this Privacy Policy, the Orient-Express Group includes Orient-Express Hotels Ltd. (based in Bermuda) (“OEHL”) and each of those companies where OEHL owns from time to time (directly or indirectly) at least 25% of the company and, in each case, (i) any assignees, transferees or replacements of any such companies from time to time and (ii) any properties, trains or cruises managed or operated from time to time by any such entities. References in this Policy to “we” “us” and “our” shall be construed accordingly.
+<br><br>
+Frequently Asked Questions
+<br><br><a href="#Q1">Q1. Why does the Orient-Express Group collect information about me?</a><br><br><a href="#Q2">Q2. What information might be collected about me by the Orient-Express Group?</a><br><br><a href="#Q3">Q3. What are cookies?</a><br><br><a href="#Q4">Q4.&nbsp; Which cookies does the Orient-Express Group use?</a><br><br><a href="#Q5">Q5.&nbsp; How can I turn cookies off?</a><br><br><a href="#Q6">Q6.&nbsp; Do you disclose to or share with any third parties any of the personal information you hold about me?</a><br><br><a href="#Q7">Q7. Can I see or update the personal information you hold about me?</a><br><br><a href="#Q8">Q8. Where do you transfer, process and store information about me?</a><br><br><a href="#Q9">Q9. How long is personal information kept for?</a><br><br><a href="#Q10">Q10. What security arrangements are in place to protect my personal information?</a><br><br><a href="#Q11">Q11. Do you have a policy for protecting the privacy of children using your websites?</a><br><br><a href="#Q12">Q12. Do Orient-Express Group websites link to other websites?</a><br><br><a href="#Q13">Q13. Are there any additional privacy provisions for non-UK websites?</a><br><br>
+Answers:
+<br><br><a name="Q1" id="Q1"></a>Q1. Why does the Orient-Express Group collect information about me?
+<br><br>
+A. We collect information to:
+<br><br>
+•&nbsp;&nbsp;&nbsp; help us create content that is relevant to our visitors;
+<br>
+•&nbsp;&nbsp;&nbsp; make improvements to our websites and ensure that content on our websites is presented in the most effective manner for you and computer;
+<br>
+•&nbsp;&nbsp;&nbsp; provide you with information, products or services that you request from us or which we feel may interest you (where you have consented to be contacted for such purposes);
+<br>
+•&nbsp;&nbsp;&nbsp; assess and help us understand general trends and patterns relating to our business;
+<br>
+•&nbsp;&nbsp;&nbsp; provide for the safety and security of our guests and visitors;
+<br>
+•&nbsp;&nbsp;&nbsp; manage general record keeping;
+<br>
+•&nbsp;&nbsp;&nbsp; enable us to compile anonymous, aggregated statistics that allow us to understand how users use our websites and to help us improve the structure of our websites;
+<br>
+•&nbsp;&nbsp;&nbsp; enable you to make reservations and payments (whether for stays, travel, gift certificates purchases or otherwise) on-line; and
+<br>
+•&nbsp;&nbsp;&nbsp; meet any legal and/or regulatory requirements.
+<br><br><a href="#top">Back to top</a><br><br><a name="Q2" id="Q2"></a>Q2. What information might be collected about me by the Orient-Express Group?
+<br><br>
+A. Visitors to Websites:
+<br><br>
+In general, you can browse any Orient-Express Group website without disclosing any personally identifiable information about yourself. If you visit an Orient-Express Group Website to read or download information, we collect and store only the following information that is automatically recognised (via cookies). <a href="#Q3">What are cookies?</a><br><br>
+•&nbsp;&nbsp;&nbsp; Date and time;
+<br>
+•&nbsp;&nbsp;&nbsp; Originating IP address;
+<br>
+•&nbsp;&nbsp;&nbsp; Domain name;
+<br>
+•&nbsp;&nbsp;&nbsp; Type of browser and operating system used (if provided by the browser);
+<br>
+•&nbsp;&nbsp;&nbsp; URL of the referring page (if provided by the browser);
+<br>
+•&nbsp;&nbsp;&nbsp; Object requested;
+<br>
+•&nbsp;&nbsp;&nbsp; Completion status of the request.
+<br><br>
+In addition, we will collect and process the information you provide to us in connection with the following:
+<br><br>
+•&nbsp;&nbsp;&nbsp; filling in a form on any of our websites
+<br>
+•&nbsp;&nbsp;&nbsp; subscribing to receive a service from us (for example, a newsletter)
+<br>
+•&nbsp;&nbsp;&nbsp; requesting promotional (or other) information from us
+<br>
+•&nbsp;&nbsp;&nbsp; participating in a survey, competition or prize draw
+<br>
+•&nbsp;&nbsp;&nbsp; contributing content to us (for display on an Orient-Express Group blog, <a href="http://www.orient-express.com/travellers">Orient-Express Travellers' Lounge</a> site or similar)
+<br><br>
+Our Hotel, Train and Cruise Guests:
+<br><br>
+We may collect and process information about you as a result of your stay/travel with us, including:
+<br><br>
+•&nbsp;&nbsp;&nbsp; the information you provide in a registration card (which may include your name, gender, home and work contact details, business title, date and place of birth, nationality and passport and visa information);
+<br><br>
+•&nbsp;&nbsp;&nbsp; the information we receive about you from any third parties you have booked your arrangements with us through (including but not limited to travel agents and tour operators);
+<br><br>
+•&nbsp;&nbsp;&nbsp; members of the Orient-Express Group at which you have been a guest and information about those stays (which may include arrival/departure dates, goods and services purchased during those stays, food allergies, special requests made and room preferences and details of payments made to us);
+<br><br><a href="#top">Back to top</a><br><br><a name="Q3" id="Q3"></a>Q3. What are cookies?
+<br><br>
+A. A “cookie” is an element of data that a website can send to your browser which may then be stored on your system.
+<br><br>
+We use cookies to gather anonymous information about the visitors to our websites (as they enable us to improve our websites and deliver a better and more personalised service). <a href="#Q1">Why does the Orient-Express Group collect information about me?</a><br><br>
+We do not associate the information in a website visitor’s cookie with any other personal information about that visitor.
+<br><br>
+Further information about cookies and how they work is available at www.allaboutcookies.org
+<br><br><a name="Q4" id="Q4"></a>Q4. Which cookies does the Orient-Express Group use?
+<br><br>
+The main cookies we use on our Orient-Express websites are:
+<br><br><table class="embeddedTable" style="border-collapse: collapse;" cellspacing="1" cellpadding="1" border="1"><tbody><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;">Cookie Name
+<br></td><td style="text-align: left; vertical-align: middle;">Function
+<br></td></tr><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;">ARPT
+<br></td><td style="text-align: left; vertical-align: middle;">Ensures that the user stays on the same server throughout their visit, ensuring consistent functionality throughout a visit.&nbsp; This cookie is destroyed at the end of the user’s visit
+<br></td></tr><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;">JSESSIONID
+<br></td><td style="text-align: left; vertical-align: middle;">Ensures that the user’s session is maintained and works in conjunction with ARRPT to ensure consistent functionality throughout a visit.&nbsp; This cookie is destroyed at the end of the user’s visit
+<br></td></tr><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;">sifrFetch
+<br></td><td style="text-align: left; vertical-align: middle;">Allows use of flash to improve display of text (if the user's browser supports it).&nbsp; This cookie is destroyed at the end of the user’s visit
+<br></td></tr><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;">user_countrycode
+<br>
+lounge_user_countrycode
+<br>
+user_lang_pref
+<br><br></td><td style="text-align: left; vertical-align: middle;">These three cookies allow us to keep track of the users' geographic location and language preferences in order to display them relevant targeted and localised content as applicable.
+<br></td></tr><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;">user_campaign
+<br>
+user_creative
+<br>
+user_placement
+<br>
+internal_user_campaign
+<br>
+internal_user_creative
+<br>
+internal_user_placement
+<br><br></td><td style="text-align: left; vertical-align: middle;">These six cookies allow us to identify which of our marketing campaigns or internal promotions a user has come from as well as measure their effectiveness
+<br></td></tr><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;" rowspan="1">user_id
+<br>
+lounge_user_id
+<br><br></td><td style="text-align: left; vertical-align: middle;" rowspan="1">These two cookie allows us to identify the user and customise their experience as appropriate as well as helping with form entry and the like by pre-populating fields containing name and address information.
+<br></td></tr></tbody></table><br>
+In addition, the following are the main third party cookies we use (which are each subject to their own privacy policies):
+<br><br><table class="embeddedTable" style="border-collapse: collapse;" cellspacing="1" cellpadding="1" border="1"><tbody><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;"><strong>Third Party Cookie</strong><br></td><td style="text-align: left; vertical-align: middle;"><strong>Function</strong><br></td></tr><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;">Google Analytics
+<br></td><td style="text-align: left; vertical-align: middle;">Monitors usage of site (using non-personally identifiable data).&nbsp; Privacy policy available at <a target="_blank" href="http://www.google.com/intl/en/analytics/privacyoverview.html">www.google.com/intl/en/analytics/privacyoverview.html</a><br></td></tr><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;">Facebook Like Button
+<br></td><td style="text-align: left; vertical-align: middle;">Allows users to choose to show Orient-Express websites on their Facebook site.&nbsp; Privacy policy available at <a href="http://www.facebook.com/about/privacy/">www.facebook.com/about/privacy/</a><br></td></tr><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;">Google +1 Button
+<br></td><td style="text-align: left; vertical-align: middle;">Allows users to choose to show Orient-Express websites on their Google + account.&nbsp; Privacy policy available at <a href="http://www.google.com/intl/en/+/policy/+1button.html">www.google.com/intl/en/+/policy/+1button.html</a><br><br><br></td></tr><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;">DoubleClick Advertising
+<br>
+and Google Adwords
+<br><br></td><td style="text-align: left; vertical-align: middle;">Allows the Orient-Express Group to monitor (using non-personally identifiable data) the number and type of relevant searches made for it on Google.&nbsp; Privacy policy available at <a target="_blank" href="http://www.google.com/intl/en/privacy/ads/">www.google.com/intl/en/privacy/ads/</a><br></td></tr><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;">Yahoo Advertising and Campaign Tags
+<br></td><td style="text-align: left; vertical-align: middle;">Allows the Orient-Express Group to monitor (using non-personally identifiable data) the number and type of relevant searches made for it on Yahoo.&nbsp; Privacy policy available at <a target="_blank" href="http://info.yahoo.com/privacy/us/yahoo/details.html">info.yahoo.com/privacy/us/yahoo/details.html</a><br></td></tr><tr style="text-align: left; vertical-align: middle;"><td style="text-align: left; vertical-align: middle;" rowspan="1">Yandex
+<br></td><td style="text-align: left; vertical-align: middle;" rowspan="1">Allows users to search for Orient-Express Group websites Allows users to search for Orient-Express Group websites in the Russian language. Privacy policy available at <a target="_blank" href="http://company.yandex.ru/legal/en/confidential/">company.yandex.ru/legal/en/confidential/</a><br></td></tr></tbody></table><br>
+Unless you have adjusted your browser setting so that it will refuse cookies (<a href="#Q5">Q5 How can I turn cookies off?</a>), our system will issue cookies when you log on to any of our websites.
+<br><br><a name="Q5" id="Q5"></a>Q5.&nbsp; How can I turn cookies off?
+<br><br>
+You can set your internet browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it.&nbsp; Please note however that if you choose to reject cookies, you may be unable to access certain parts of our websites.&nbsp;
+<br><br><a href="#top">Back to top</a><br><br><a name="Q6" id="Q6"></a>Q6.&nbsp; Do you disclose to or share with any third parties any of the personal information you hold about me?
+<br><br>
+We may disclose or share your information within the Orient-Express Group and, in the following circumstances, with third parties:
+<br><br>
+•&nbsp;&nbsp;&nbsp; where we outsource certain functions of our business to third parties such as agents, service providers and/or suppliers who assist us in either providing a product or service to you or with quality assurance or the hosting of databases, such third parties may have access to your information.&nbsp; Where this is the case, we oblige those third parties to process the information only in accordance with our strict instructions, to adopt technical and organisational security measures to protect your information and not to disclose your information to others;&nbsp;&nbsp;
+<br><br>
+•&nbsp;&nbsp;&nbsp; if we are under a duty to disclose or share your information in order to comply with any legal obligation, or in order to enforce or apply our Terms of Use or to protect (i) the rights or property and/or (ii) the personal safety of (in each case) us, our staff, guests and visitors;
+<br><br>
+•&nbsp;&nbsp;&nbsp; to meet any legal and/or regulatory requirements;
+<br><br>
+•&nbsp;&nbsp;&nbsp; in the event that we sell (or propose to sell) any Orient-Express Group business or assets, we may disclose your information to the prospective buyer.
+<br><br>
+We will usually inform you (before collecting your information) if we intend to use your information (or disclose it to a third party) for marketing purposes (for more about marketing, see <a href="#Q7">Q7. Can I see or update the personal information you hold about me</a>?)
+<br><br><a href="#top">Back to top</a><br><br><a name="Q7" id="Q7"></a><span style="">Q7. Can I see or update the personal information you hold about me?</span><br><br>
+A. You can ask us whether we are keeping personal information about you and you can ask to receive a copy of that personal information.
+<br><br>
+Before sending you any personal data, we will ask you to provide proof of your identity. If you are not able to provide proof of your identity, we reserve the right to refuse to send you any personal data.
+<br><br>
+We will respond as quickly as we can to your requests for details of personal information we hold about you.
+<br><br>
+To contact is with any questions, comments, corrections, requests regarding this Policy or to exercise your right at any time to update, delete or access the information we hold about you, please contact us at:
+<br><br>
+ECommerce
+<br>
+Orient-Express Services Limited
+<br>
+20 Upper Ground
+<br>
+London SE1 9PF
+<br>
+email: privacy@orient-express.com
+<br><br>
+You have the right to ask us not to process your personal information for marketing purposes by (i) checking the applicable box(es) on the registration form we use to collect information from guests to our properties or (ii) by clicking the unsubscribe link displayed in any of our marketing e-mails and in the <a href="http://www.orient-express.com?epc=on">Orient-Express Group website on-line e-mail preference centre.&nbsp;</a><br><br><a href="#top">Back to top</a><br><br><a name="Q8" id="Q8"></a>Q8. Where do you transfer, process and store information about me?
+<br><br>
+A.&nbsp;&nbsp;&nbsp; The information that we collect from you may be transferred to and stored in the USA or another destination outside the European Economic Area (“EEA”).&nbsp; It may also be processed by staff operating outside the EEA who work for us or for one of our agents, service providers or suppliers.&nbsp; Such staff may be engaged in, amongst other things, the fulfilment of your order or in providing a service to you, the processing of your payment details and/or the provisions of support services.
+<br><br>
+By submitting your information to us, you agree to this transfer, storing and processing.&nbsp; The Orient-Express Group will take all commercially reasonable steps necessary to ensure that your information is treated securely and in accordance with this Policy.
+<br><br><a href="#top">Back to top</a><br><br><a name="Q9" id="Q9"></a>Q9. How long is personal information kept for?
+<br><br>
+A. The Orient-Express Group holds information for as long as we believe it will help us to achieve our aims of understanding how we can better serve you. Subject to any legislation which might, from time to time, oblige us to store the information for a certain period of time, we will respect your wishes to correct inaccurate information or delete information. How do I correct personal information you hold about me?
+<br><br><a href="#top">Back to top</a><br><br><a name="Q10" id="Q10"></a>Q10. What security arrangements are in place to protect my personal information?
+<br><br>
+A. We intend to protect the quality and integrity of your personal information. The Orient-Express Group stores personal information in a secure environment protected by a combination of physical and technical measures. We will continue to enhance our security procedures, as new technology becomes available. There is no general public access to visitor’s personal information.
+<br><br>
+The personal information you give to us when making a payment on-line to us in encrypted before you conduct your transaction, using appropriate secure technology. However please note that:
+<br><br>
+•&nbsp;&nbsp;&nbsp; transmission of information via the internet is not completely secure and although we will endeavour to protect your information, we cannot guarantee the security of your information transmitted to one of our websites; any transmission is therefore at your own risk.&nbsp; Once we have received your information, we will use procedures and security features to try to prevent unauthorised access;
+<br><br>
+•&nbsp;&nbsp;&nbsp; you are responsible for keeping any password you have to access certain parts of any of our websites confidential and we ask you not to share a password with anyone.
+<br><br><a href="#top">Back to top</a><br><br><a name="Q11" id="Q11"></a>Q11. Do you have a policy for protecting the privacy of children using your websites?
+<br><br>
+A. The Orient-Express Group websites are not aimed at children. We never collect or maintain information from those visitors to our websites who we actually know are under the age of 14 without first obtaining verifiable consent from a parent or legal guardian. Upon written request (with supporting proof of identity), parents (or legal guardians) may ask to review their child’s information or request that it be deleted.
+<br><br><a href="#top">Back to top</a><br><br><a name="Q12" id="Q12"></a>Q12. Do Orient-Express Group Websites link to Other Websites?
+<br><br>
+Our websites may, from time to time, contain links to and from the websites of our partner networks, advertisers, social media sites and affiliates.&nbsp; If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.&nbsp; Please check these policies before you submit any personal information to these websites.&nbsp;
+<br><br><a href="item.aspx?tcm=16#top">Back to top</a><br><br><br><a name="Q13" id="Q13"></a>Q13. Are there any additional privacy provisions for non-UK websites?
+<br><br>
+A. Yes, for www.ritzmadrid.com and www.ritz.es, in addition to the Orient-Express Group Privacy Policy, please note that for the purposes of the Spanish Data Protection Act (LO 15/1999 of 13 December), personal information gained from visitors to those websites is provided to:
+<br><br>
+Hotel Ritz Madrid S.A.
+<br>
+Plaza de la Lealtad
+<br>
+5-28014 Madrid
+<br>
+CIF A28011286
+<br>
+e-mail: lopd@ritz.es
+<br><br>
+Registered in the Mercantile record of Madrid 20-08-1908, to the volume the 55th, I foliate aheet 2345, inscription 1.
+<br><a href="item.aspx?tcm=16#top">Back to top</a><br>
+&nbsp;
+<br><br><br>
+Copyright © Orient-Express Hotels Ltd. (for itself and on behalf of its corporate group) 1995-2011. All rights reserved. <a target="_blank" href="copyright.jsp">Full Copyright Notice</a><br><br><br></span></td></tr>
+<tr style="height:20px;"><td style="height:20px;">&nbsp;</td></tr>
+</tbody></table></span>
+
+	
+              		
+
+
+
+
+
+<div id="footer">
+		<span id="_SE_CP" _se_c="tcm:4-125920" _se_cp="tcm:4-125920" _se_ct="tcm:4-125921-32" _se_cpt="1"><a href="https://www.orient-express.com/contact_us.jsp">Contact us</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.orient-expresshotelsltd.com" target="_blank">Corporate &amp; Investors</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.orient-express.com/press_hotels.jsp">Media</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="javascript:void(0);" id="newsletterLink">Newsletter</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.orient-express.com/security.jsp">Privacy</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.orient-express.com/site_help.jsp">Help</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.oeh.com/jobs/" target="_blank">Careers</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.orient-express.com/web/travellers/home.jsp" target="_blank">Travellers' Lounge</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.orient-express.com/journeylikenoother" target="_blank" '="">A Journey Like No Other</a></span>
+
+<br><br><br><div align="right" style="font-size:7pt; text-align:right;">Copyright ©  Orient-Express Hotels Ltd. (for itself and on behalf of its corporate group) 1995-2011. All rights reserved.  <a style="text-decoration:underline;" href='javascript:popUp("http://www.orient-express.com/copyright.jsp");'>Full Copyright Notice</a><br><br></div><script type="text/javascript">
+var gaJsHost = (('https:' == document.location.protocol) ? 'https://ssl.' : 'http://www.');
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker('UA-787560-51');
+pageTracker._setDomainName('none');
+pageTracker._setAllowLinker(true);
+pageTracker._trackPageview();
+</script>
+
+
+<script type="text/javascript">
+// Adding creation of object outside of trackEvents object
+var pageTrackerEvents = _gat._getTracker("UA-8807138-1");
+
+function trackEvents($cat, $act, $lab){
+	try {
+		// Removing creation of object from function to prevent unnecessary repeated creations        
+		// var pageTrackerEvents = _gat._getTracker("UA-8807138-1");
+		
+		if ($lab == null) {
+			pageTrackerEvents._trackEvent($cat, $act);
+			pageTrackerEvents._trackPageview("/" + $cat + "/" + $act + "/");
+		} else {
+			pageTrackerEvents._trackEvent($cat, $act, $lab);
+			pageTrackerEvents._trackPageview("/" + $cat + "/" + $act + "/" + $lab + "/");
+		}
+	} catch(err) {}
+}
+</script>
+</div>
+              		
+
+
+
+<script language="javascript" type="text/javascript">
+function getProduct(prod, type) {
+	aProducts = new Array()
+	
+	//Trains
+	aProducts['bp'] = "http://www.orient-express.com/collection/trains/british_pullman.jsp";
+	aProducts['eoe'] = "http://www.orient-express.com/collection/trains/eastern_oriental_express.jsp";
+	aProducts['tper'] = "http://www.orient-express.com/collection/trains/hiram_bingham.jsp";
+	aProducts['nb'] = "http://www.orient-express.com/collection/trains/northern_belle.jsp";
+	aProducts['rs'] = "http://www.orient-express.com/collection/trains/the_royal_scotsman.jsp";
+	aProducts['vsoe'] = "http://www.orient-express.com/collection/trains/venice_simplon_orient_express.jsp";
+	
+	//River Boats
+	aProducts['taif'] = "http://www.orient-express.com/collection/riverboats/afloat_in_france.jsp";
+	aProducts['rtm'] = "http://www.orient-express.com/collection/riverboats/road_to_mandalay.jsp";
+	
+	//Restaurants
+	aProducts['onyc'] = "http://www.orient-express.com/collection/restaurants/21_club.jsp";
+	aProducts['rcab'] = "http://www.orient-express.com/collection/restaurants/la_cabana.jsp";
+	
+	//Safaris
+	aProducts['oeic'] = "http://www.orient-express.com/collection/safaris/safaris_eagle_island_camp.jsp";
+	aProducts['okrl'] = "http://www.orient-express.com/collection/safaris/safaris_khwai_river_lodge.jsp";
+	aProducts['osec'] = "http://www.orient-express.com/collection/safaris/safaris_savute_elephant_camp.jsp";
+	
+	//Hotels
+	//aProducts['obor'] = "http://www.orient-express.com/collection/hotels/bora_bora_lagoon_resort.jsp";
+	aProducts['omig'] = "http://www.orient-express.com/collection/hotels/casa_de_sierra_nevada.jsp";
+	aProducts['ocha'] = "http://www.orient-express.com/collection/hotels/charleston_place_hotel.jsp";
+	aProducts['orio'] = "http://www.orient-express.com/collection/hotels/copacabana_palace_hotel.jsp";
+	aProducts['osba'] = "http://www.orient-express.com/collection/hotels/el_encanto.jsp";
+	aProducts['opet'] = "http://www.orient-express.com/collection/hotels/grand_hotel_europe.jsp";
+                aProducts['oght'] = "http://www.orient-express.com/collection/hotels/grand_hotel_timeo.jsp";
+	aProducts['orav'] = "http://www.orient-express.com/collection/hotels/hotel_caruso_belvedere.jsp";
+	aProducts['ocip'] = "http://www.orient-express.com/collection/hotels/hotel_cipriani.jsp";
+	//aProducts['ocar'] = "http://www.orient-express.com/collection/hotels/hotel_de_la_cite.jsp";
+	aProducts['ocus'] = "http://www.orient-express.com/collection/hotels/hotel_monasterio.jsp";
+	aProducts['orit'] = "http://www.orient-express.com/collection/hotels/hotel_ritz.jsp";
+	aProducts['ospl'] = "http://www.orient-express.com/collection/hotels/hotel_splendido.jsp";
+	aProducts['omic'] = "http://www.orient-express.com/collection/hotels/inn_at_perry_cabin.jsp";
+	aProducts['pbal'] = "http://www.orient-express.com/collection/hotels/jimbaran_puri_bali.jsp";
+	aProducts['okes'] = "http://www.orient-express.com/collection/hotels/keswick_hall.jsp";
+	aProducts['plua'] = "http://www.orient-express.com/collection/hotels/la_residence_phou_vao.jsp";
+	aProducts['pang'] = "http://www.orient-express.com/collection/hotels/la_residence_d_angkor.jsp";
+	aProducts['olar'] = "http://www.orient-express.com/collection/hotels/la_residencia.jsp";
+	aProducts['omar'] = "http://www.orient-express.com/collection/hotels/la_samanna.jsp";
+	// aProducts['olis'] = "http://www.orient-express.com/collection/hotels/lapa_palace.jsp";
+	aProducts['ocol'] = "http://www.orient-express.com/collection/hotels/las_casitas_del_colca.jsp";
+	aProducts['olem'] = "http://www.orient-express.com/collection/hotels/le_manoir_aux_quat_saisons.jsp";
+	//aProducts['okat'] = "http://www.orient-express.com/collection/hotels/lilianfels.jsp";
+	aProducts['omac'] = "http://www.orient-express.com/collection/hotels/machu_picchu_sanctuary_lodge.jsp";
+	aProducts['ocan'] = "http://www.orient-express.com/collection/hotels/maroma_resort.jsp";
+	aProducts['olim'] = "http://www.orient-express.com/collection/hotels/miraflores_park_hotel.jsp";
+	aProducts['ocap'] = "http://www.orient-express.com/collection/hotels/mount_nelson_hotel.jsp";
+	aProducts['psam'] = "http://www.orient-express.com/collection/hotels/napasai.jsp";
+                aProducts['onaz'] = "http://www.orient-express.com/collection/hotels/palacio_nazarenas.jsp";
+	aProducts['omad'] = "http://www.orient-express.com/collection/hotels/reids_palace.jsp";
+	aProducts['pyan'] = "http://www.orient-express.com/collection/hotels/governors_residence.jsp";
+	aProducts['osyd'] = "http://www.orient-express.com/collection/hotels/the_observatory_hotel.jsp";
+	aProducts['ojnb'] = "http://www.orient-express.com/collection/hotels/the_westcliff.jsp";
+	aProducts['pubu'] = "http://www.orient-express.com/collection/hotels/ubud_hanging_gardens.jsp";
+	aProducts['ovil'] = "http://www.orient-express.com/collection/hotels/villa_san_michele.jsp";
+	aProducts['ovsa'] = "http://www.orient-express.com/collection/hotels/villa_sant_andrea.jsp";
+	//aProducts['onor'] = "http://www.orient-express.com/collection/hotels/windsor_court_hotel.jsp";
+	aProducts['ogua'] = "http://www.orient-express.com/collection/hotels/hotel_das_cataratas.jsp";
+	aProducts['ouru'] = "http://www.orient-express.com/collection/hotels/hotel_rio_sagrado.jsp";
+                // Add a page for Cuzco hotels
+//commenting out cuzco page until onaz palacio nazarenas launch
+	//aProducts['cuzco'] = "http://www.orient-express.com/collection/hotels/cuzco_hotels.jsp";
+//LC wants cuzco page to only go to monasterio until you can book nazarenas 10.06.2011
+aProducts['cuzco'] = "http://www.orient-express.com/collection/hotels/hotel_monasterio.jsp";
+
+
+	
+	if (prod==''||prod==null) {
+		alert("Please specify a " + type + " first.");
+		return;
+	} else {
+		if (type=="property") {
+			trackEvents("Search", "Search Property",document.fSearch.property[document.fSearch.property.selectedIndex].text);
+		} else {
+			trackEvents("Search", "Search Destination",document.fSearch.destination[document.fSearch.destination.selectedIndex].text);
+		}
+		window.location.href = aProducts[prod];
+	}
+	
+}
+
+function goToPage(prod) {
+	aPage = new Array()
+	
+	aPage['journeys'] = "http://www.orient-express.com/exclusives/journeys.jsp";
+	aPage['masterclasses'] = "http://www.orient-express.com/exclusives/masterclasses.jsp";
+	aPage['celebrations'] = "http://www.orient-express.com/exclusives/celebrations_gifts.jsp";
+	aPage['business'] = "http://www.orient-express.com/exclusives/business.jsp";
+	aPage['family'] = "http://www.orient-express.com/exclusives/family_friends.jsp";
+	
+	if (prod==''||prod==null) {
+		alert("Please specify an experience first.");
+		return;
+	} else {
+		trackEvents("Search", "Search Experience",document.fSearch.experience[document.fSearch.experience.selectedIndex].text);
+		window.location.href = aPage[prod];
+	}
+	trackEvents
+}
+
+function goToReservation(prod) {
+	if (prod==''||prod==null) {
+		alert("Please specify a property first.");
+		return;
+	} else {	
+		trackEvents("Search", "Search Book",prod);	
+	                switch(prod)
+			{
+			case "onyc":
+				window.open("http://www.21club.com/web/onyc/table_request_restaurant.jsp","_blank");
+				break;
+			case "rtm":
+				window.open("http://www.orient-express.com/web/rtm/journeys.jsp","_blank");
+				break;
+			case "taif":
+				window.open("http://www.afloatinfrance.com/web/taif/contact_us.jsp","_blank");
+				break;
+			case "vsoe":
+				window.open("http://www.orient-express.com/web/vsoe/journeys.jsp","_blank");
+				break;
+			case "bp":
+				window.open("http://www.orient-express.com/web/uktr/journey_search.jsp","_blank");
+				break;
+			case "nb":
+				window.open("http://www.orient-express.com/web/uktr/journey_search.jsp","_blank");
+				break;
+			case "rs":
+				window.open("http://www.royalscotsman.com/web/rs/departures_prices.jsp","_blank");
+				break;
+			case "eoe":
+				window.open("http://www.orient-express.com/web/eoe/journeys.jsp","_blank");
+				break;
+			case "hb":
+				window.open("http://www.perurail.com/web/tper/tper_luxurytravel_introduction.html","_blank");
+				break;
+			case "okrl":
+				window.open("http://www.khwairiverlodge.com/web/okrl/contact_us.jsp","_blank");
+				break;
+			case "oeic":
+				window.open("http://www.eagleislandcamp.com/web/oeic/contact_us.jsp","_blank");
+				break;
+			case "osec":
+				window.open("http://www.savuteelephantcamp.com/web/osec/contact_us.jsp","_blank");
+				break;
+			default: //reset all
+				window.open("https://www.orient-express.com/web/hotelres/requirements.jsp?r=a&language=en&homelanguage=en&hid="+prod,"_blank"); 
+				break;
+			}
+                }
+}
+
+function resetOthers(current) {
+	switch(current)
+	{
+		case "property":
+			document.fSearch.experience.selectedIndex = 0;
+			document.fSearch.destination.selectedIndex = 0;
+			document.fSearch.reservation.selectedIndex = 0;
+			break;
+		case "experience":
+			document.fSearch.property.selectedIndex = 0;
+			document.fSearch.destination.selectedIndex = 0;
+			document.fSearch.reservation.selectedIndex = 0;
+			break;
+		case "destination":
+			document.fSearch.property.selectedIndex = 0;
+			document.fSearch.experience.selectedIndex = 0;
+			document.fSearch.reservation.selectedIndex = 0;
+			break;
+		case "reservation":
+			document.fSearch.property.selectedIndex = 0;
+			document.fSearch.destination.selectedIndex = 0;
+			document.fSearch.experience.selectedIndex = 0;
+			break;
+		default: //reset all
+			break;
+	}
+}
+</script>
+
+<form name="fSearch">
+<div id="searchPanel">
+	<div id="searchBackground"></div>
+	<div id="searchContents">
+		<div style="float:right; padding-top:7px;"><a href="javascript:void(0);" onclick="trackEvents(&quot;Search&quot;, &quot;Search Close&quot;);javascript:showSearch();"><img src="http://static.orient-express.com/orex/images/nav/orex_nav3_search_close.gif" border="0"></a></div>
+		
+		
+		<div style="padding-top:13px;">
+			<div>I know what I'm looking for:</div>
+			<div style="margin:4px 0px 11px 0px">
+				<select name="property" onchange="javascript:resetOthers('property');" style="width:305px">
+					
+					<option value="">Choose from our collection...</option>
+
+					<optgroup label="Trains">
+					<option value="bp">British Pullman</option>
+
+					<option value="eoe">Eastern &amp; Oriental Express</option>
+					<option value="tper">Hiram Bingham</option>
+					<option value="nb">Northern Belle</option>
+					<option value="rs">The Royal Scotsman</option>
+					<option value="vsoe">Venice Simplon-Orient-Express</option>
+
+					</optgroup><optgroup label="River Boats">
+					<option value="taif">Afloat in France</option>
+					<option value="rtm">Road To Mandalay</option>
+					
+					</optgroup><optgroup label="Restaurants">
+					<option value="onyc">'21'</option>
+					<!--<option value='rcab'>La Cabana</option>-->
+					<option value="olem">Le Manoir aux Quat'Saisons</option>
+					
+					</optgroup><optgroup label="Safaris">
+					<option value="oeic">Eagle Island Camp</option>
+					<option value="okrl">Khwai River Lodge</option>
+					<option value="osec">Savute Elephant Camp</option>
+					
+					</optgroup><optgroup label="Hotels">
+					<!--<option value='obor'>Bora Bora Lagoon Resort</option>-->
+					<option value="omig">Casa de Sierra Nevada</option>
+					<option value="ocha">Charleston Place</option>
+					<option value="orio">Copacabana Palace</option>
+					<!--<option value='osba'>El Encanto</option>-->
+					<option value="opet">Grand Hotel Europe</option>
+					<option value="oght">Grand Hotel Timeo</option>
+
+					<!--<option value='orav'>Hotel Caruso Belvedere</option> Remove Belvedere again LC support 28.04.2010-->
+					<option value="orav">Hotel Caruso</option>
+					<option value="ocip">Hotel Cipriani</option>
+					<option value="ogua">Hotel das Cataratas</option>
+					<!--<option value='ocar'>Hotel de la Cit&eacute;</option>-->
+					<option value="ocus">Hotel Monasterio</option>
+					<option value="ouru">Hotel Rio Sagrado</option>
+					<!--<option value='orit'>Ritz Madrid</option> Change to Hotel Ritz LC support 28.04.2010 -->
+					<option value="orit">Hotel Ritz</option>
+					<option value="ospl">Hotel Splendido</option>
+
+
+					<option value="pbal">Jimbaran Puri Bali</option>
+					<option value="okes">Keswick Hall</option>
+					<option value="pang">La Résidence d'Angkor</option>
+					<option value="plua">La Résidence Phou Vao</option>
+					<option value="olar">La Residencia</option>
+					<option value="omar">La Samanna</option>
+					
+					<option value="ocol">Las Casitas del Colca</option>
+					<option value="olem">Le Manoir aux Quat'Saisons</option>
+					<!--<option value='okat'>Lilianfels Blue Mountains</option>-->
+					<option value="omac">Machu Picchu Sanctuary Lodge</option>
+					<option value="ocan">Maroma Resort and Spa</option>
+
+					<option value="olim">Miraflores Park Hotel</option>
+					<option value="ocap">Mount Nelson Hotel</option>
+					<option value="psam">Napasai</option>
+					<option value="onaz">Palacio Nazarenas</option>
+					<option value="omad">Reid's Palace</option>
+
+
+					<option value="pyan">The Governor's Residence</option>
+					<option value="omic">The Inn at Perry Cabin</option>
+					<option value="osyd">The Observatory Hotel</option>
+					<option value="ojnb">The Westcliff</option>
+					<option value="pubu">Ubud Hanging Gardens</option>
+					<option value="ovil">Villa San Michele</option>
+					<option value="ovsa">Villa Sant'Andrea</option>
+
+					<!--<option value='onor'>Windsor Court Hotel</option>-->
+				</optgroup></select>
+				<a href="javascript:void(0);" onclick="javascript:getProduct(document.fSearch.property[document.fSearch.property.selectedIndex].value,&quot;property&quot;); return false;" class="purple">Go &gt;</a>
+			</div>
+
+
+			<div><b>OR</b> I have an experience in mind:</div>
+			<div style="margin:5px 0px 11px 0px">
+				<select name="experience" onchange="javascript:resetOthers('experience');" style="width:305px">
+					<option value="">Choose an experience...</option>
+
+					<option value="journeys">Journeys</option>
+					<option value="masterclasses">Masterclasses</option>
+					<option value="celebrations">Celebrations &amp; Gifts</option>
+					<option value="business">Business</option>
+					<option value="family">Family &amp; Friends</option>				
+				</select>
+				<a href="javascript:void(0);" onclick="javascript:goToPage(document.fSearch.experience[document.fSearch.experience.selectedIndex].value); return false;" class="purple">Go &gt;</a>
+			</div>
+
+			<div><b>OR</b> I want to stay in:</div>
+			<div style="margin:5px 0px 11px 0px">
+				<select name="destination" onchange="javascript:resetOthers('destination');" style="width:305px">
+					<option value="">Choose a destination...</option>
+
+					<optgroup label="Africa">
+					<option value="osec">Botswana - Chobe</option>
+					<option value="oeic">Botswana - Okavango Delta</option>
+					<option value="okrl">Botswana - Khwai</option>
+					<option value="ocap">South Africa - Cape Town</option>
+					<option value="ojnb">South Africa - Johannesburg</option>
+
+					</optgroup><optgroup label="Asia">
+					<option value="pbal">Bali - Jimbaran Beach</option>
+					<option value="pubu">Bali - Ubud</option>
+					<option value="pang">Cambodia - Siem Reap</option>
+					<option value="plua">Laos - Luang Prabang</option>
+					<option value="pyan">Myanmar - Yangon</option>
+					<option value="psam">Thailand - Koh Samui</option>
+
+					</optgroup><optgroup label="Caribbean &amp; Pacific">
+					<option value="omar">French West Indies</option>
+					<option value="ocan">Mexico - Riviera Maya</option>
+					<option value="omig">Mexico - San Miguel de Allende</option>
+
+					</optgroup><optgroup label="Europe">
+					<!--<option value='ocar'>France - Carcassonne</option>-->
+					<option value="orav">Italy - Amalfi Coast</option>
+					<option value="ovil">Italy - Florence</option>
+					<option value="ospl">Italy - Portofino</option>
+					<option value="oght">Italy - Taormina, Sicily</option>
+					<option value="ovsa">Italy - Taormina Mare, Sicily</option>
+					<option value="ocip">Italy - Venice</option>
+					<option value="omad">Portugal - Madeira</option>
+					<option value="opet">Russia - St Petersburg</option>
+					<option value="orit">Spain - Madrid</option>
+					<option value="olar">Spain - Mallorca</option>
+					<option value="olem">United Kingdom - Oxfordshire</option>
+
+					</optgroup><optgroup label="North America">
+					<option value="ocha">USA - Charleston, SC</option>
+					<option value="okes">USA - Charlottesville, VA</option>
+					<!--<option value='onor'>USA - New Orleans, LA</option>-->
+					<!--<option value='osba'>USA - Santa Barbara, CA</option>-->
+					<option value="omic">USA - St Michaels, MD</option>
+
+					</optgroup><optgroup label="Australia">
+					<!--<option value='okat'>Australia - Blue Mountains</option>-->
+					<option value="osyd">Australia - Sydney</option>
+					<!--<option value='obor'>French Polynesia - Bora Bora</option>-->
+
+					</optgroup><optgroup label="South America">
+                                                                                <option value="ogua">Brazil - Iguassu</option>
+					<option value="orio">Brazil - Rio de Janeiro</option>
+					<option value="ocol">Peru - Colca Canyon</option>
+
+					<option value="cuzco">Peru - Cuzco</option>
+					<option value="olim">Peru - Lima</option>
+					<option value="omac">Peru - Machu Picchu</option>
+					<option value="ouru">Peru - Urubamba, Sacred Valley</option>
+
+				</optgroup></select>
+				<a href="javascript:void(0);" onclick="javascript:getProduct(document.fSearch.destination[document.fSearch.destination.selectedIndex].value,&quot;destination&quot;); return false;" class="purple">Go &gt;</a>
+			</div>
+
+			<div><b>OR</b> I would like to make a reservation:</div>
+			<div style="margin:5px 0px 11px 0px">
+				<select name="reservation" onchange="javascript:resetOthers('reservation');" style="width:305px">
+					<option value="">Select a specific property...</option>
+
+
+					<optgroup label="Africa">
+					</optgroup><optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;Botswana">
+					<option value="oeic">Eagle Island Camp, Okavango Delta</option>
+					<option value="okrl">Khwai River Lodge, Moremi Reserve</option>
+					<option value="osec">Savute Elephant Camp, Chobe National Park</option>
+
+					</optgroup><optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;South Africa">
+					<option value="ocap">Mount Nelson Hotel, Cape Town</option>
+					<option value="ojnb">The Westcliff, Johannesburg</option>
+
+
+					</optgroup><optgroup label="Asia">
+					<option value="eoe">Eastern &amp; Oriental Express, South East Asia</option>
+
+					</optgroup><optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;Cambodia">
+					<option value="pang">La Résidence d'Angkor, Siem Reap</option>
+
+					</optgroup><optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;Indonesia">
+					<option value="pbal">Jimbaran Puri Bali, Bali</option>
+					<option value="pubu">Ubud Hanging Gardens, Bali</option>
+
+					</optgroup><optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;Laos">
+					<option value="plua">La Résidence Phou Vao, Luang Prabang</option>
+
+					</optgroup><optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;Myanmar">
+					<option value="rtm">Road To Mandalay</option>
+					<option value="pyan">The Governor's Residence, Yangon</option>
+
+					</optgroup><optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;Thailand">
+					<option value="psam">Napasai, Koh Samui</option>
+
+
+					</optgroup><optgroup label="Caribbean &amp; Pacific">
+					</optgroup><optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;Caribbean">
+					<option value="omar">La Samanna, St Martin, French West Indies</option>
+
+					</optgroup><optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;Mexico">
+					<option value="omig">Casa de Sierra Nevada, San Miguel de Allende</option>
+					<option value="ocan">Maroma Resort and Spa, Riviera Maya</option>
+
+
+					</optgroup><optgroup label="Europe">
+					<option value="vsoe">Venice Simplon-Orient-Express, Europe</option>
+					</optgroup><optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;France">
+					<option value="taif">Afloat in France</option>
+					<!--<option value='ocar'>Hotel de la Cit&eacute;, Carcassonne</option>-->
+
+					</optgroup><optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;Italy">
+					<option value="oght">Grand Hotel Timeo, Taormina, Sicily</option>
+					<!--<option value='orav'>Hotel Caruso Belvedere, Amalfi Coast</option> Remove Belvedere again LC support 28.04.2010 -->
+					<option value="orav">Hotel Caruso, Amalfi Coast</option>
+					<option value="ocip">Hotel Cipriani, Venice</option>
+					<option value="ospl">Hotel Splendido, Portofino</option>
+					<option value="ovil">Villa San Michele, Florence</option>
+					<option value="ovsa">Villa Sant'Andrea, Taormina Mare, Sicily</option>
+
+					</optgroup><optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;Portugal">
+					<option value="omad">Reid's Palace, Madeira</option>
+
+					</optgroup><optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;Scotland">
+					<option value="rs">The Royal Scotsman</option>
+
+					</optgroup><optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;Spain">
+					<!--<option value='orit'>Ritz Madrid, Madrid</option> change to Hotel Ritz  LC support 28.04.2010 -->
+					<option value="orit">Hotel Ritz, Madrid</option>
+					<option value="olar">La Residencia, Mallorca</option>
+
+					</optgroup><optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;Russia">
+					<option value="stpetersburg">Grand Hotel Europe, St Petersburg</option>
+
+					</optgroup><optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;United Kingdom">
+					<option value="bp">British Pullman</option>
+					<option value="olem">Le Manoir aux Quat'Saisons, Oxfordshire</option>
+					<option value="nb">Northern Belle</option>
+
+
+					</optgroup><optgroup label="North America">
+					</optgroup><optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;USA">
+					<option value="onyc">'21', Manhattan, New York, </option>
+					<option value="ocha">Charleston Place, Charleston, SC</option>
+					<option value="okes">Keswick Hall, Charlottesville, VA</option>
+					<option value="omic">The Inn at Perry Cabin, St Michaels, MD</option>
+
+
+
+
+
+
+					</optgroup><optgroup label="Australia">
+					<!--<optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;French Polynesia" />-->
+					<!--<option value='obor'>Bora Bora Lagoon Resort, Bora Bora</option>-->
+
+					<!--<optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;Australia" />-->
+					<option value="osyd">The Observatory Hotel, Sydney</option>
+
+
+					</optgroup><optgroup label="South America">
+					</optgroup><optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;Brazil">
+					<option value="orio">Copacabana Palace, Rio de Janeiro</option>
+					<option value="ogua">Hotel das Cataratas, Iguassu</option>
+
+					</optgroup><optgroup label="&nbsp;&nbsp;&nbsp;&nbsp;Peru">
+					<option value="hb">Hiram Bingham, Cuzco-Machu Picchu</option>
+					<option value="ocus">Hotel Monasterio, Cuzco</option>
+					<option value="ouru">Hotel Rio Sagrado, Urubamba, Sacred Valley</option>
+					<option value="ocol">Las Casitas del Colca, Colca Canyon</option>
+					<option value="omac">Machu Picchu Sanctuary Lodge, Machu Picchu</option>
+					<option value="olim">Miraflores Park Hotel, Lima</option>
+
+
+
+
+
+
+				</optgroup></select>
+				<a href="javascript:void(0);" onclick="javascript:goToReservation(document.fSearch.reservation[document.fSearch.reservation.selectedIndex].value); return false;" class="purple">Go &gt;</a>
+			</div>
+		</div>
+
+		
+	</div>
+</div>
+</form>
+	</div> 
+
+<!-- Tridion page name: Security-->
+
+
+
+
+
+
+
+
+<!-- EPC start -->
+
+    <script src="http://www.orient-express.com/js/jquery.tools.min.1.2.5.js" type="text/javascript"></script>
+
+	<style>
+    #epc { 
+        background-color:transparent; 
+        display:none; 
+        width:100%; 
+        opacity:0.95; 
+        filter:alpha(opacity=95); 
+    } 
+    #epcFrame {
+        position:relative;background-color:transparent;margin:auto;width:100%;min-height:1000px;height:auto !important;height:800px;
+    }
+    </style>
+<div id="epc">
+	<iframe allowtransparency="true" id="epcFrame" scrolling="no" frameborder="0"></iframe>
+</div>
+<script> 
+
+
+
+$(function() {
+	$('#newsletterLink,').click(function() {
+
+		$('#epcFrame').attr('src','http://www.orient-express.com/web/epc/login.jsp?hid=orex&parentdomain=www.orient-express.com&secure=n');
+
+		$('#epc').overlay({          
+			expose: { 
+				color: '#999999', 
+				loadSpeed: 500, 
+				opacity: 0.5 
+			}, 
+			closeOnClick: false, 
+			api: true 
+		}).load();
+		pageTracker._trackPageview('/web/orex/newsletter_preferences_load');
+	});
+}); 
+function closeEpc() {
+	$('#epc').overlay().close();
+}
+</script>
+<!-- EPC end -->
+
+
+
+
+
+<!-- site edit -->
+
+<!-- end of site edit --></body></html>
