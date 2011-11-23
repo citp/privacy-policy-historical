@@ -1,72 +1,68 @@
-> *The following text is extracted and transformed from the travelstart.co.za privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101175154id_/http%3A//www.travelstart.co.za/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelstart.co.za privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123113308id_/http%3A//www.travelstart.co.za/privacyPolicy.jsp) for the most accurate reproduction.*
 
-# >>>Travelstart. Book your cheap flight, hotels, cars and packages on Travelstart today! | Privacy Policy<<<
+# Privacy Policy
 
-In addition to reviewing this privacy policy, please read our [Terms and Conditions](https://web.archive.org/termsAndConditions.jsp). Your use of Travelstart.co.za constitutes agreement to our terms and conditions.
+In addition to reviewing this privacy policy (‘Privacy Policy’), please read our [Terms and Conditions](https://web.archive.org/termsAndConditions.jsp) as presented on the website [www.travelstart.co.za](http://www.travelstart.co.za/) (‘Travelstart.co.za’ or ’Website’). Your use of Travelstart.co.za constitutes agreement to our Terms and Conditions.
 
-Travelstart.co.za takes the privacy of its customers' data very seriously. Please read the following policy to understand how we will treat your personal data after it has been collected by us through our web site.
+**Travelstart.co.za** takes the privacy of its customers' data very seriously. Please read this Privacy Policy in full to understand how we will treat your entered personal data after it has been collected by us through this Website.
 
-If this policy changes then we will let you know via our homepage but we assure you that we only use your data as specified here and for legitimate business reasons. Continued access of Travelstart.co.za by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
+In the unlikely event of this Privacy Policy changing, we will inform you via our homepage. However, we assure you that we only use your data, as entered by you on this Website, for legitimate business reasons and as specified in this Privacy Policy. Continued access and use of **Travelstart.co.za** by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
 
-One of the goals of Travelstart.co.za is to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. The following is a summary of the various ways we treat the information you provide us while using our site.
+One of the goals of **Travelstart.co.za** is to bring you information that is tailored to your individual needs and, at the same time, to protect your privacy. The information set out below is a summary of the various ways in which we treat the information you provide us with whilst using our site.
 
-## The type of information Travelstart.co.za collects
+## The Type of Information Travelstart.co.za collects
 
-**Travelstart.co.za** generally collects personally identifying information with your specific knowledge and consent. We can collect data on you from a variety of different sources these include:
+**Travelstart.co.za** generally collects personally identifying information with your specific knowledge and consent. We can collect data on you from a variety of different sources. These include:
 
-1\. When you purchase products or services from the site.
+1\. When you purchase products or services from the site and knowingly provide us with your personal details;
 
-2\. When you become a subscriber;
+2\. When you become a subscriber to our newsletter;
 
-3\. When you activate an account
+3\. When you activate an account;
 
-4\. When you speak to our travel desk personnel;
+4\. When you speak to our travel desk personnel and provide them telephonically or by email with your personal information (e.g. name, contact details, including e-mail address, credit card details etc);
 
-5\. Via explicit data capture measures, for example by entering competitions and completing surveys;
+5\. Via explicit data capture measures, for example by entering competitions and/or completing surveys; and
 
-6\. Via implicit data capture measures such as studying which pages you read the most and the use of cookies.
+6\. Via implicit data capture measures such as studying which pages you read the most via the use of cookies.
 
-In any of the above cases the data we collect could be personal data, such as your e-mail address, name or phone number. Optional information such as your age, location or gender may also be requested.
+In any of the above cases the data we collect could be personal data (such as your e-mail address, name or phone number). Optional information such as your age, location or gender may also be requested.
 
-## How Travelstart.co.za uses information provided by you
+## How Travelstart.co.za uses Information provided by You
 
-When you buy anything via our website or give us any personal data as indicated above, we may need to collect information about you to process the transaction, fulfill your order and provide you with the services you expect then, and in the future. This information may include, but is not limited to, details such as your name, your address, your phone number and your credit card details. 
+When you make a booking via our Website or give us any personal data as indicated above, we may need to collect information about you to complete and/or process a specific transaction (such as a flight booking with a specific airline), fulfill your order and provide you with the services you expect then, and in the future. This information may include, but is not limited to, details such as your name, your address, your phone number and your credit card details.
 
-Unless we have your express consent we will only disclose personal data to third parties if this is required for the purpose of completing your transaction with us. This is of course subject to the proviso that we may disclose your data to certain permitted third parties, such as members of our own group, our own professional advisers who are bound by confidentiality codes, and when we are legally obliged to disclose your data. 
+Unless we have your express consent, we will only disclose personal data to third parties if this is required for the purpose of completing your transaction with us. This is subject to the proviso that we may disclose your data to certain permitted third parties, such as members of our own group, our own professional advisers who are bound by confidentiality codes, and when we are legally obliged to disclose your data. There may be occasions when we are legally required to provide access to our database in order to cooperate with police investigations or other legal proceedings. In those instances, the information is provided solely for that purpose.
 
 **Travelstart.co.za** retains and uses your personal information to provide you with the best remote commerce experience by providing you with a personalised service and to give you details of offers which we think will be of interest to you. We may also use the information to process any transactions you undertake with us and for internal administration and analysis.
 
 We do not sell, rent or trade your personal information to third parties for marketing purposes without your express consent.
 
-There may also be occasion when we are legally required to provide access to our database in order to cooperate with police investigations or other legal proceedings. In those instances, the information is provided only for that purpose. 
-
 ## Cookies
 
-**Travelstart.co.za** uses cookies. A cookie is a small text file of which there are three types:
+**Travelstart.co.za** uses cookies. A cookie is a piece of text stored on a user's computer by their web browser. Below we describe two types of cookies:
 
-**Session cookies:** These are used to maintain something called session state. If you consider your journey through the site to be a conversation with us and this cookie just reminds the site where we were in that conversation (for instance if at some point in the conversation you asked us to add a hotel to your basket, next time you click on the basket it is still there). These are required for the site to function but are not used in any way to identify you personally.
+**Session cookies:** These are used to maintain something called session state and only last for the duration of users using the Website. A session cookie expires when a user closes his/her browser, or if a user has not visited the server for a certain period of time i.e. if you consider your journey through the site to be a conversation with us, this cookie reminds the site where we were in that conversation (for instance if at some point in the conversation you asked us to add a hotel to your basket, next time you click on the basket it will still be there). These are required for the site to function effectively but are not used in any way to identify you personally.
 
-**Permanent cookies:** These store a few numbers on your hard drive. You can view them by looking in the cookies directory of your browser installation if you are interested. They last for a long time and each time you come to our site you send us a copy of them. We use them to identify you between visits. For instance if you were looking at hotels in Cape Town last time you were on the site and we have a great hotel deal we may use this cookie to recognise you and show you our great deal. They are not required for the site to work but may enhance your experience. We do not store any personal data in these cookies, just a unique number that identifies you to us. 
-
-Although you cannot block "session" cookies as they are required for our site to function correctly you can configure your internet browser so that it can reject "permanent" cookies. How you do this will depend upon the internet browser you use. It is therefore impractical for us to detail here how you can reject those cookies. Please refer to the relevant internet browser manufacturer's website where you should be able to receive all the information you need.
+**Permanent cookies:** These cookies outlast user sessions and store a unique number on your hard drive in order to identify you as an individual user. No personal data is stored in these cookies. You can view these by looking in the cookies directory of your browser installation. We use these cookies to identify you between website visits. For example, if you were browsing Cape Town hotels last time you were on the site and we have a great hotel deal, we may use this cookie to recognise you and show you this deal. These permanent cookies are not required for the site to work but may enhance your browsing experience. Although you cannot block ‘session’ cookies as they are required for our site to function correctly, your internet browser can be configured to reject ‘permanent’ cookies and is dependent on the type of internet browser you use. Please refer to the relevant internet browser manufacturer's website where you should be able to view the steps in rejecting these cookies if you wish to do so.
 
 ## IP Address
 
-Your Internet Protocol ("IP") address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. We may use your IP address to help diagnose problems with our server, gather broad demographic information, and administer our Web site.
+Your Internet Protocol (‘IP’) address is usually associated with the place from where you access the internet, like your Internet Service Provider, your company or your university. We may use your IP address to help diagnose problems with our server, gather broad demographic information, and administer our Website.
 
-## Data
+## Data Protection Legislation
 
-In South Africa we operate in accordance with applicable data protection legislation.
+Because **Travelstart.co.za’s** head office and operations are based in South Africa, we operate in accordance with applicable South African data protection legislation.
 
 ## Consent
 
-By disclosing your personal information to us using this website or over the telephone, you consent to the collection, storage and processing of your personal information by Travelstart.co.za in the manner set out in this Privacy Policy. Some information and e-mails sent to **Travelstart.co.za** may be used as testimonials but no e-mail address or contact details will be displayed.
+By disclosing your personal information to us using this Website or over the telephone, you consent to the collection, storage and processing of your personal information by **Travelstart.co.za** in the manner set out in this Privacy Policy. Some information and e-mails sent to **Travelstart.co.za** , via direct email or in response to our feedback system, may be used as testimonials on our communication channels (e.g. social media pages) or our Website. In this event, no e-mail addresses or contact details will be displayed.
 
 ## Opt-Out Policy
 
-**Travelstart.co.za** Newsletter subscribers have the option to opt-out of receiving further information from us. [Click here to unsubscribe](https://web.archive.org/newsletter.jsp). If you are registered on any part of **Travelstart.co.za** , you may also change or update your member preferences or information with any section of the site where you have signed up, registered or created any type of account. You may also delete your account at any time.
+**Travelstart.co.za** newsletter subscribers have the option to opt-out of receiving further information from us. [Click here to unsubscribe](https://web.archive.org/newsletter.jsp). If you are registered on any part of **Travelstart.co.za** , you may also change or update your member preferences or information with any section of the site where you have signed up, registered or created any type of account. You may also delete your account at any time.
 
-## Change/ Modify E-mail Details
+## Change/ Modification of E-mail Details
 
 To change your e-mail address details, send an e-mail with your correct details to: [info@travelstart.com](mailto:info@travelstart.com)
 
