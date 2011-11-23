@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bigwords.com privacy policy that was archived on 2011-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110526023544id_/http%3A//www.bigwords.com/help/index.php%3Fz%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bigwords.com privacy policy that was archived on 2011-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123183620id_/http%3A//www.bigwords.com/help/index.php%3Fz%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
@@ -28,14 +28,15 @@ intereactor_DoFSCommand(command, args);
 <link rel="image_src" href="http://www.bigwords.com/images/characters/bigwords-flying-uber-bot-320x320.png">
 <meta property="og:site_name" content="BIGWORDS.com">
 <meta property="og:image" content="http://www.bigwords.com/images/characters/bigwords-flying-uber-bot-320x320.png">
-<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<meta property="fb:admins" content="516060894">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.6/jquery-ui.min.js"></script>
 <script src="http://www.bigwords.com/global/javascript/tooltip.js?v1" type="text/javascript" charset="ISO-8859-1"></script>
 <script src="http://www.bigwords.com/global/javascript/tooltip.slide.js" type="text/javascript" charset="ISO-8859-1"></script>
 <script src="http://www.bigwords.com/global/javascript/jquery-helper.js" type="text/javascript" charset="ISO-8859-1"></script>
 
-<script src="http://www.bigwords.com/global/javascript/protoculous-1.0.2.js" type="text/javascript" charset="ISO-8859-1"></script>
-<script src="http://www.bigwords.com/global/javascript/bwcomplete-1.0.3.js?v1.2" type="text/javascript" charset="ISO-8859-1"></script>
+
+<script src="http://www.bigwords.com/global/javascript/bwcomplete-1.0.3.js?v1.4" type="text/javascript" charset="ISO-8859-1"></script>
 <script>var bigCookie = unescape('');</script>
 </head>
 
@@ -54,14 +55,14 @@ intereactor_DoFSCommand(command, args);
 		<span>&nbsp;&nbsp;&nbsp;Search for</span>
 		<span class="fontorange"><a href="http://www.bigwords.com/book/" title="cheap textbooks" alt="Cheap Textbooks">CHEAP TEXTBOOKS</a></span>
 		<span>,</span>
+		<span class="fontorange"><a href="http://www.bigwords.com/student_loans/" title="compare student loans" alt="Student Loans">student loans</a></span>
+		<span>,</span>
 		<span class="fontorange"><a href="http://www.bigwords.com/dvd/" title="price compare DVD prices" alt="price compare DVD prices">DVDs</a></span>
 		<span>, </span>
-		<span class="fontorange"><a href="http://www.bigwords.com/music/" title="price compare CD prices" alt="price compare CD prices">MUSIC</a></span>
+		<span class="fontorange"><a href="http://www.bigwords.com/music/" title="price compare CD prices" alt="price compare CD prices">music</a></span>
 		<span>, </span>
-		<span class="fontorange"><a href="http://www.bigwords.com/game/" title="price compare game prices" alt="price compare game prices">GAMES</a></span>
+		<span class="fontorange"><a href="http://www.bigwords.com/game/" title="price compare game prices" alt="price compare game prices">games</a></span>
 	</td>
-	<td align="center">
-		<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.bigwords.com%2Fhelp%2Findex.php%3Fz%3Dprivacy&amp;layout=button_count&amp;show_faces=false&amp;width=125&amp;action=recommend&amp;font=trebuchet+ms&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:125px; height:21px;" allowtransparency="true"></iframe>	</td>
 	<td align="right">
 			<a href="http://www.bigwords.com/">home</a> |
 			<a href="http://www.bigwords.com/help/">help!</a> |
@@ -82,26 +83,35 @@ intereactor_DoFSCommand(command, args);
 				<td align="right" valign="top">
 					<a href="http://www.bigwords.com/" onclick="return false;" class="nohover"><img src="/images/logos/bigwords-2d-290x60.png" id="flyinglogo" border="0" width="290" height="60" style="margin-top: 30px; z-index:50;"></a>
 					<script type="text/javascript">
-					var flDragging=false;
-					new Draggable('flyinglogo',{revert:true,onStart:function(){flDragging=true;},onEnd:function(){flDragging=false;}});
-					Event.observe('flyinglogo','mouseup',function(){if(!flDragging){location.href="http://www.bigwords.com/";}});
+				var flDragging=false;
+									jQuery(document).ready(function($) {
+			jQuery( "#flyinglogo" ).draggable({ revert: true,opacity: 0.5,zIndex: 1000,start:function(event, ui){flDragging=true;},stop:function(event, ui){flDragging=false;} });
+	});
+
+		jQuery('#flyinglogo').mouseup(function($) {
+if(!flDragging){location.href="http://www.bigwords.com/";}	});
+
 					</script>
 				</td>
 				<td valign="top">
 					<script type="text/javascript">
-var easySearch554668Enabled=true;
-switchEasySearch554668To = function(which,newProd,actionType){
+var easySearch504127Enabled=true;
+switchEasySearch504127To = function(which,newProd,actionType){
 	if(actionType=='c'){
-		easySearch554668Enabled=false;
+		easySearch504127Enabled=false;
 	}
-	if(actionType=='m' && easySearch554668Enabled==false) return; //we have already clicked, this can be commented out to disable this option
+	if(actionType=='m' && easySearch504127Enabled==false) return; //we have already clicked, this can be commented out to disable this option
 	for(var e=0; e<5; e++){
 		if(e==which){
-			$('easysearch554668_'+e).show();
-			$('tab_554668_'+e).className='easy_tab_active';
+			//$('easysearch504127_'+e).show();
+			//$('tab_504127_'+e).className='easy_tab_active';
+			jQuery('#easysearch504127_'+e).show();
+			jQuery('#tab_504127_'+e).addClass('easy_tab_active');
 		} else {
-			$('easysearch554668_'+e).hide();
-			$('tab_554668_'+e).className='easy_tab';
+		//	$('easysearch504127_'+e).hide();
+		//	$('tab_504127_'+e).className='easy_tab';
+			jQuery('#easysearch504127_'+e).hide();
+			jQuery('#tab_504127_'+e).addClass("easy_tab");
 		}
 	}
 }
@@ -110,8 +120,8 @@ switchEasySearch554668To = function(which,newProd,actionType){
 <tbody><tr>
 <td width="10%"></td>
 <td>
-<div id="easysearch554668_all" style="text-align:left; margin-top: 4px;">
-<ul class="easy_tab"><li id="tab_554668_0" onclick="switchEasySearch554668To(0,'book','c');" style="cursor:pointer;">books</li><li id="tab_554668_1" onclick="switchEasySearch554668To(1,'loans','c');" style="cursor:pointer;">loans</li><li id="tab_554668_2" onclick="switchEasySearch554668To(2,'dvd','c');" style="cursor:pointer;">DVDs</li><li id="tab_554668_3" onclick="switchEasySearch554668To(3,'music','c');" style="cursor:pointer;">music</li><li id="tab_554668_4" onclick="switchEasySearch554668To(4,'game','c');" style="cursor:pointer;">games</li></ul><div id="easysearch554668_0" style="display: none;"><div id="easysearch_book" class="easy_holder">
+<div id="easysearch504127_all" style="position: relative; text-align:left; margin-top: 4px;">
+<ul class="easy_tab"><li id="tab_504127_0" onclick="switchEasySearch504127To(0,'book','c');" style="cursor:pointer;">books</li><li id="tab_504127_1" onclick="switchEasySearch504127To(1,'loans','c');" style="cursor:pointer;">loans</li><li id="tab_504127_2" onclick="switchEasySearch504127To(2,'dvd','c');" style="cursor:pointer;">DVDs</li><li id="tab_504127_3" onclick="switchEasySearch504127To(3,'music','c');" style="cursor:pointer;">music</li><li id="tab_504127_4" onclick="switchEasySearch504127To(4,'game','c');" style="cursor:pointer;">games</li></ul><div id="easysearch504127_0" style="display: none;"><div id="easysearch_book" class="easy_holder">
 <form action="http://www.bigwords.com/search/index.php" method="GET" style="margin: 0px; padding: 0px; " name="easysearch_book_form">
 <input type="HIDDEN" name="z" value="searchbalance">
 <input type="HIDDEN" name="reloc-z" value="easysearch">
@@ -125,8 +135,8 @@ switchEasySearch554668To = function(which,newProd,actionType){
 	<span class="fineprint">
 	<a href="#" onclick="window.open('http://www.bigwords.com/index.php?z=q&amp;q=isbn','q','width=400,height=500,scrollbars=1');">what's an ISBN?</a>
 	| <a href="http://www.bigwords.com/book/">browse all books</a>
-	 | </span></nobr><nobr><a href="http://www.bigwords.com/search/index.php?z=advanced&amp;mode=privacy" onclick="toggleAS('advancedSearch554668');return false;">advanced search</a></nobr><br>
-	Somebody saved $205.53 on <nobr>1 textbook</nobr> <nobr>44 seconds ago.</nobr>	
+	 | </span></nobr><nobr><a href="http://www.bigwords.com/search/index.php?z=advanced&amp;mode=privacy" onclick="toggleAS('advancedSearch504127');return false;">advanced search</a></nobr><br>
+	Somebody saved $214.57 on <nobr>3 textbooks</nobr>  moments ago.	
 	
 </div>
 </form>
@@ -137,13 +147,13 @@ switchEasySearch554668To = function(which,newProd,actionType){
 <div class="clear"></div>
 
 </div>
-<div id="easysearch554668_1" style="display: none;">	<div id="easysearch_loans" class="easy_holder">
+<div id="easysearch504127_1" style="display: none;">	<div id="easysearch_loans" class="easy_holder">
 <form class="form" action="/bounce.php" target="_blank" id="short_form" method="get" name="form1">
 	<input type="hidden" name="store" value="simpletuition">
 	<input type="hidden" name="link" value="http://www.simpletuition.com/partner_landing">
 	<input type="hidden" value="undergrad">
 	<input type="hidden" name="brnd" value="bigwords">
-    
+
     <div class="easysearch_loans_form">
     	<div class="box_first">
         	<b>I'm a...</b>
@@ -159,12 +169,13 @@ switchEasySearch554668To = function(which,newProd,actionType){
         	<b>seeking...</b>
         </div>
         <div class="box_two">
-        	
+
 								<input style="margin-bottom: 7px;" type="text" name="amt" id="amt" value="$10,000" size="10" onfocus="if(this.value=='$10,000') this.value='';" onblur="if(this.value=='') this.value='$10,000';">
         </div>
         <div class="box_three">
-        	<input type="submit" name="buySell" value="" class="button-buy">
-        </div>
+        	<input type="submit" name="buySell" value="" class="button-buy"> <small>
+        		        			(<a href="http://www.bigwords.com/student_loans/">more about student loans</a>)</small>
+        		        </div>
         <div class="clear"></div>
     </div>
 </form>
@@ -177,7 +188,7 @@ switchEasySearch554668To = function(which,newProd,actionType){
 
 	</div>
 </div>
-<div id="easysearch554668_2" style="display: none;">	<div id="easysearch_dvd" class="easy_holder">
+<div id="easysearch504127_2" style="display: none;">	<div id="easysearch_dvd" class="easy_holder">
 <div class="searchboxContainer">
 <form action="http://www.bigwords.com/search/index.php" method="GET">
 <input type="HIDDEN" name="z" value="easysearch_dvd">
@@ -191,7 +202,7 @@ switchEasySearch554668To = function(which,newProd,actionType){
 <img src="/images/bigshim.gif" width="10" height="1"></form></div>
 	</div>
 </div>
-<div id="easysearch554668_3" style="display: none;">
+<div id="easysearch504127_3" style="display: none;">
 	<div id="easysearch_music" class="easy_holder">
 
 
@@ -219,7 +230,7 @@ switchEasySearch554668To = function(which,newProd,actionType){
 	</div>
 
 </div>
-<div id="easysearch554668_4" style="display: none;">
+<div id="easysearch504127_4" style="display: none;">
 	<div id="easysearch_game" class="easy_holder">
 
 
@@ -276,26 +287,29 @@ switchEasySearch554668To = function(which,newProd,actionType){
 </div>
 
 <script type="text/javascript">
-switchEasySearch554668To('0','book');
+switchEasySearch504127To('0','book');
 </script>
 <script>
 function toggleAS(asw){
-	if($(asw).visible())
-		$(asw).hide();
-	else
-		$(asw).show();
+	if(jQuery("#"+asw).is(':visible')){
+		//$(asw).hide();
+		jQuery("#"+asw).hide();
+	}else{
+		//$(asw).show();
+		jQuery("#"+asw).show();
+	}
 }
 </script>
-<div id="advancedSearch554668" style="float:none;display:none;position:relative;top:-70px;left:40px;z-index:1;">
+<div id="advancedSearch504127" style="width: 500px; float:none;display:none;position:relative;top:-70px;left:40px;z-index:1;">
 <form action="/search/index.php" method="post" style="display:inline;">
 <input type="HIDDEN" name="z" value="advanced_post">
 
-<input type="HIDDEN" name="easyz" value="easysearch"><input type="HIDDEN" name="searchtype" value="power"><div class="displayDiv"> 
+<input type="HIDDEN" name="easyz" value="easysearch"><input type="HIDDEN" name="searchtype" value="power"><div> 
      <div class="displayDivTop"><div></div></div> 
-<table border="0" class="displayTable">
+<table border="0" class="displayTable ieDisplayTableFix">
 <tbody><tr>
 	<th colspan="3">advanced search </th>
-	<th align="right" style="text-align:right;"><a href="javascript://" onclick="toggleAS('advancedSearch554668');"><img src="/images/icons/closex.gif" width="10" height="10" border="0"></a></th>
+	<th align="right" style="text-align:right;"><a href="javascript://" onclick="toggleAS('advancedSearch504127');"><img src="/images/icons/closex.gif" width="10" height="10" border="0"></a></th>
 </tr>
 <tr><td>Title:</td><td><input name="is[title]" value=""></td><td>Author:</td><td><input name="is[author]" value=""></td></tr><tr><td>Subject:</td><td><input name="is[subject]" value=""></td><td>Keywords:</td><td><input name="is[keywords]" value=""></td></tr><tr><td>Publisher:</td><td><input name="is[publisher]" value=""></td><td>Publication Year:</td><td><input name="is[pubdate]" value=""></td></tr><tr>
 <td class="footer" colspan="4" align="right">
@@ -304,7 +318,37 @@ function toggleAS(asw){
 <div class="displayDivBottom"><div></div></div>
 </div>
 </form>
-</div></div>
+</div><style type="text/css"><!--
+#shareBox{
+	position: absolute;
+	top: 3px;
+	right: 0px;
+	width: 190px;
+	height: 20px;
+}
+--></style>
+<div id="shareBox">
+	<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td>
+				<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.bigwords.com%2F&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=trebuchet+ms&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowtransparency="true"></iframe>			</td>
+			<td>
+				<!-- Place this tag where you want the +1 button to render -->
+				<g:plusone size="medium" href="http://www.bigwords.com/"></g:plusone>
+
+				<!--  Place this tag after the last plusone tag -->
+				<script type="text/javascript">
+				  (function() {
+					var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+					po.src = 'https://apis.google.com/js/plusone.js';
+					var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+				  })();
+				</script>
+			</td>
+		</tr>
+	</tbody></table>
+</div>
+</div>
 </td>
 <td width="10%"></td>
 </tr>
@@ -591,7 +635,7 @@ For more information, see the P3P deployment guide at <a href="http://www.w3.org
 <br clear="all">
 <p align="CENTER">	
 	</p><div style="padding: 5px;">
-     <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.bigwords.com%2Fhelp%2Findex.php%3Fz%3Dprivacy&amp;layout=button_count&amp;show_faces=false&amp;width=125&amp;action=recommend&amp;font=trebuchet+ms&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:125px; height:21px;" allowtransparency="true"></iframe>	<!-- AddThis Bookmark Button BEGIN -->
+     <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.bigwords.com%2F&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=trebuchet+ms&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowtransparency="true"></iframe>	<!-- AddThis Bookmark Button BEGIN -->
 	<script type="text/javascript">
 	  addthis_url    = 'http://www.bigwords.com/help/index.php?z=privacy';
 	  addthis_title  = 'BIGWORDS.com: Locates the Cheapest Textbooks, Books, DVDs, CDs, and Games.';
