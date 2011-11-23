@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pacyber.org privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501235411id_/http%3A//www.pacyber.org/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacyber.org privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123215904id_/http%3A//www.pacyber.org/privacy.jsp) for the most accurate reproduction.*
 
 # The Pennsylvania Charter Cyber School - Privacy Policy
 
@@ -36,4 +36,4 @@ By using this site you accept PA Cyber’s Privacy Policy and the conditions pos
 
 #### CONTACTING US
 
-If there are any questions regarding this privacy policy you may contact us [here](https://web.archive.org/web/20110501235411id_/http%3A//www.pacyber.org/contact.jsp).
+If there are any questions regarding this privacy policy you may contact us [here](https://web.archive.org/web/20111123215904id_/http%3A//www.pacyber.org/contact.jsp).
