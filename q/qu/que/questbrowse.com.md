@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the questbrowse.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518165734id_/http%3A//www.questbrowse.com%3Ftmp%3Dnemo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the questbrowse.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123110535id_/http%3A//www.questbrowse.com%3Ftmp%3Dnemo_privacy) for the most accurate reproduction.*
 
 # QuestBrowse - Privacy Policy
 
