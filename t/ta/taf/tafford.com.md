@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tafford.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625025711id_/http%3A//www.tafford.com/privacy.htm%3Fp%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tafford.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123121715id_/http%3A//www.tafford.com/privacy.htm%3Fp%3D1) for the most accurate reproduction.*
 
 # Scrubs - Nursing Scrubs, Nursing Uniforms & Medical Scrubs - Tafford
 
