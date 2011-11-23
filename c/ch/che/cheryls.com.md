@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cheryls.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528133144id_/http%3A//www.cheryls.com/webapp/wcs/stores/servlet/ContentDisplay%3Fc%3D1010%26t%3DA%26storeId%3D10202%26catalogId%3D10102) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheryls.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123184019id_/http%3A//www.cheryls.com/webapp/wcs/stores/servlet/ContentDisplay%3Fc%3DPrivacy%26t%3DA%26storeId%3D10202%26catalogId%3D10102) for the most accurate reproduction.*
 
-# Privacy - Cheryls
+# Your Privacy - Cheryls
 
-Cheryl&Co.®, recognizes and respects the importance of maintaining the privacy of our customers, registered members ("Members") and users, and has established this Privacy Policy as a result. The purpose of this Privacy Policy is to inform you of:                  &nb sp;   
+Cheryl&Co.®, recognizes and respects the importance of maintaining the privacy of our customers, registered members ("Members") and users, and has established this Privacy Policy as a result. The purpose of this Privacy Policy is to inform you of:
 
-  * the personal information we may collect from you when you visit our Web Site, respond to our emails, place orders via mail or fax, or otherwise contact us via telephone, email, fax or mail,                  & nbsp;  
+  * the personal information we may collect from you when you visit our Web Site, respond to our emails, place orders via mail or fax, or otherwise contact us via telephone, email, fax or mail, 
   * why we gather information from you,
   * how we collect it,
   * how we use it, and
@@ -12,9 +12,9 @@ Cheryl&Co.®, recognizes and respects the importance of maintaining the privacy 
 
 
 
-This Privacy Policy is part of the [Terms of Use](http://www.cherylandco.com/webapp/wcs/stores/servlet/ContentDisplay?c=1015&t=A&storeId=10202&cat%20alogId=10102), which governs your use of our Web Site located at [www.cheryls.com](http://www.cheryls.com/) (Cheryl&Co.® or the "Web Site"). The Web Site is owned by Cheryl&Co. (the "Company"). This Privacy Policy does not cover information provided to our Company-owned or franchised retail stores.
+This Privacy Policy is part of the [Terms of Use](https://web.archive.org/webapp/wcs/stores/servlet/ContentDisplay?c=Terms%20of%20Use&t=A&storeId=10202&catalogId=10102), which governs your use of our Web Site located at [www.cheryls.com](http://www.cheryls.com/) (Cheryl&Co.® or the "Web Site"). The Web Site is owned by Cheryl&Co. (the "Company"). This Privacy Policy does not cover information provided to our Company-owned or franchised retail stores.
 
-Note: _You must_ _be 21 years or older_ to use, subscribe or register as a member of Cheryl&Co.®. The Web Site is a general audience site and we do not knowingly collect, maintain or disclose personal information from or about children.
+Note: _You must be 21 years or older_ to use, subscribe or register as a member of Cheryl&Co.®. The Web Site is a general audience site and we do not knowingly collect, maintain or disclose personal information from or about children.
 
 **Why do we gather information?**
 
@@ -38,7 +38,7 @@ Depending on how you are interact with us, we collect some or all of the followi
   * products purchased and occasion type (for example, Mother's Day),
   * any promotion or gift card code and related information (for example, if you are claiming frequent flyer miles),
   * Message and gift recipients' names, addresses, telephone numbers and email addresses, and
-  *  other information you provide to us, including User Submissions (defined in the [Terms of Use](http://www.cherylandco.com/webapp/wcs/stores/servlet/ContentDisplay?c=1015&t=A&storeId=10202&cat%20alogId=10102)).
+  * other information you provide to us, including User Submissions (defined in the [Terms of Use](https://web.archive.org/webapp/wcs/stores/servlet/ContentDisplay?c=Terms%20of%20Use&t=A&storeId=10202&catalogId=10102)).
 
 
 
@@ -64,9 +64,9 @@ We may combine information we receive from you via our Web Site, emails, mail, f
 
 We reserve the right to disclose information you provide to us as required by law, in response to legal process and law enforcement requests and as necessary or appropriate, in our view, to operate the Web Site, process orders or registrations, to conduct promotions, contests, and sweepstakes you participate in, and to protect the rights or property of the Company, its Affiliates, users, customers, recipients, Members, Sponsors, Providers, Licensors, Merchants and Associates (as these terms are defined in the 
 
-[Terms of Use](http://www.cherylandco.com/webapp/wcs/stores/servlet/ContentDisplay?c=1015&t=A&storeId=10202&cat%20alogId=10102)).
+[Terms of Use](https://web.archive.org/webapp/wcs/stores/servlet/ContentDisplay?c=Terms%20of%20Use&t=A&storeId=10202&catalogId=10102)).
 
-**Please note that any personal information you reveal or post on one our public forums (as defined in the[ Terms of Use](http://www.cherylandco.com/webapp/wcs/stores/servlet/ContentDisplay?c=1015&t=A&storeId=10202&cat%20alogId=10102)), such as a message board, chat room, discussion group, folder, survey, contest, sweepstakes, user review and rate forum, and all User Submissions, are not protected by this Privacy Policy and may be collected, shared and used by us or with third parties, including to contact you. Information you give out or post on our public forums you disclose at your own risk.**
+**Please note that any personal information you reveal or post on one our public forums (as defined in the[ Terms of Use](https://web.archive.org/webapp/wcs/stores/servlet/ContentDisplay?c=Terms%20of%20Use&t=A&storeId=10202&catalogId=10102)), such as a message board, chat room, discussion group, folder, survey, contest, sweepstakes, user review and rate forum, and all User Submissions, are not protected by this Privacy Policy and may be collected, shared and used by us or with third parties, including to contact you. Information you give out or post on our public forums you disclose at your own risk.**
 
 **Consent to Transfer and Submission**
 
@@ -92,7 +92,7 @@ We want to communicate with you only to the extent you want to hear from us. If 
 
 We do not share emails addresses you provide with third parties without your consent. In addition, if you prefer that other personal information provided by you not be shared with third parties, please let us know by emailing, writing or calling us as described below. Your instructions will be processed as soon as reasonably practicable and in accordance with law.
 
-Emailing us at: [Customerservice@cheryls.com](mailto:Customerservice@cheryls.com)  from the email address which you wish to have removed (i.e. not shared with third parties), and include your postal mailing address in the message; or
+Emailing us at: [Customerservice@cheryls.com](mailto:Customerservice@cheryls.com) from the email address which you wish to have removed (i.e. not shared with third parties), and include your postal mailing address in the message; or
 
 Writing us at:  
 Cheryl's  
@@ -128,7 +128,7 @@ Members can modify and update their membership information (including name, mail
 
 Subject to the above provisions, by using our Web Site, you consent to the terms of this Privacy Policy and the Terms of Use, of which this policy is a part. We may change our Privacy Policy and Terms of Use from time to time as new features or services are added, suggestions from our customers are incorporated or other changes are made. We will endeavor to post the revised Privacy Policy and/or Terms of Use on our Web Site at least 30 days prior to their effective date - unless we believe changes must take effect sooner to comply with law or to protect the Company or our customers, users, Members, recipients, Sponsors, Providers, Licensors, Merchants, Associates and Affiliates, in which case the changes will be effective upon posting or as otherwise specified. To see a revised Privacy Policy and/or Terms of Use prior to its effective date (unless it is effective upon posting), click on the following link:
 
-[Pending Revised Privacy Policy/Terms of Use](http://www.cherylandco.com/webapp/wcs/stores/servlet/ContentDisplay?c=1060&t=A&storeId=10202&c%20atalogId=10102).
+[Pending Revised Privacy Policy/Terms of Use](https://web.archive.org/webapp/wcs/stores/servlet/ContentDisplay?c=Previous%20Privacy&t=A&storeId=10202&catalogId=10102).
 
 The date on which the current Privacy Policy and overall Terms of Use took effect is listed at the top of the Privacy Policy and Terms of Use (see "Last Updated" at the top of each).
 
