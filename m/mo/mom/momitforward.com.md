@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momitforward.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621053925id_/http%3A//momitforward.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momitforward.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123162550id_/http%3A//momitforward.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Mom it Forward
 
