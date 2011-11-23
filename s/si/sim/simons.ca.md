@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simons.ca privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525055635id_/http%3A//www.simons.ca/eng/customerService/policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simons.ca privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123104311id_/http%3A//www.simons.ca/eng/customerService/policy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement | Simons
 
