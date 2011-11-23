@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleplayer.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122212021id_/http%3A//articleplayer.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleplayer.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123013357id_/http%3A//articleplayer.com/privacy.php) for the most accurate reproduction.*
 
 # Article Directory | Submit Articles | Free Articles Content
 
