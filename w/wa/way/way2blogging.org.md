@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the way2blogging.org privacy policy that was archived on 2011-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110417154533id_/http%3A//www.way2blogging.org/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the way2blogging.org privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123162606id_/http%3A//www.way2blogging.org/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Way2Blogging
 
