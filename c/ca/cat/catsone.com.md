@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the catsone.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525075054id_/http%3A//www.catsone.com/operations/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catsone.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123100055id_/http%3A//www.catsone.com/operations/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | $39/Month. No Contracts. Period.
+# Privacy Policy | Easy to use. Feature-rich ATS.
 
 We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
 
@@ -41,5 +41,5 @@ CATS Software, Inc. may periodically update this policy. We will notify you abou
 Any questions about this Privacy Policy should be addressed to [CATS Support](https://web.archive.org/support/contact-us), or by postal mail to:
 
 > CATS Software, Inc.  
->  5275 Edina Industrial Blvd., Suite 250  
->  Edina, MN 55439 USA
+>  12 South 6th Street, Suite 614  
+>  Minneapolis, MN 55402 USA
