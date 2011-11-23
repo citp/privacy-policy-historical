@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the astrocenter.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625034434id_/http%3A//www.astrocenter.com/us/Privacy.aspx%3FAf%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrocenter.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123200318id_/http%3A//www.astrocenter.com/us/privacy.aspx%3FAf%3D0) for the most accurate reproduction.*
 
-# Privacy Policy - Astrocenter.com
+# Privacy Policy | Astrocenter.com
 
 Horoscope.com, Inc. (" **we** " or " **Horoscope.com** ") has created this privacy policy (" **Privacy Policy** ") to demonstrate our commitment to privacy. We realize the importance of feeling safe online and want you to feel comfortable using our personalized products and services (collectively, " **Offerings** ") and exchanging information on our web sites located at **Horoscope.com, AstroCenter.com and PsychicCenter.com** (" **Sites** "). This Privacy Policy outlines the privacy practices for the Sites and is incorporated into and subject to the terms and conditions of our Terms of Service for the Sites (the " **Terms of Service** "). If any term of this Privacy Policy is inconsistent or conflicts with any term of the Terms of Service, this Privacy Policy will control with respect to the subject matter of this Privacy Policy. Any capitalized term used but not defined in this Privacy Policy has the meaning set forth in the Terms of Service.
 
@@ -12,7 +12,7 @@ Horoscope.com, Inc.
 126 South Park   
 San Francisco CA 94107-1809   
 U.S.A.   
-Email: privacy@horoscope.com   
+Email: [privacy@horoscope.com](mailto:privacy@horoscope.com)   
 Phone: 415 615 9028 
 
 If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). Horoscope.com complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. Information regarding the E.U. Safe Harbor Framework can be found at: <http://export.gov/safeharbor>. 
@@ -62,7 +62,7 @@ Our third party advertising partner employs a software technology called clear g
 
 **G. Facebook Connect or other OpenID provider.** You can log in to some of our sites using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on our Web site to your profile page to share with others within your network.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at privacy@horoscope.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacy@horoscope.com](mailto:privacy@horoscope.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **IV. DISCLOSURE OF YOUR DATA**
 
@@ -84,7 +84,7 @@ The security of your personal information is important to us. When you enter sen
 
 We have implemented and follow reasonable industry standard technical and procedural measures to protect against unauthorized access and use of your personal information. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web sites, you can email us at privacy@horoscope.com.
+If you have any questions about security on our Web sites, you can email us at [privacy@horoscope.com](mailto:%3Ca%20href=).
 
 **VI. OTHER WEB SITES LINKS**
 
@@ -102,7 +102,7 @@ Despite your indicated e-mail preferences, we may send you service-related annou
 
 **IX. DISPUTE RESOLUTION.**
 
-If you believe that we have not adhered to this Privacy Policy, please contact us by e-mail at privacy@horoscope.com. We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation. If you and Company are unable to reach a resolution to the dispute, you and Company will settle the dispute exclusively under the rules of the American Arbitration Association (www.adr.org).
+If you believe that we have not adhered to this Privacy Policy, please contact us by e-mail at [privacy@horoscope.com](mailto:privacy@horoscope.com). We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation. If you and Company are unable to reach a resolution to the dispute, you and Company will settle the dispute exclusively under the rules of the American Arbitration Association (www.adr.org).
 
 **X. CHANGES TO THIS PRIVACY POLICY**
 
@@ -116,5 +116,3 @@ Horoscope.com, Inc.
 126 South Park  
 San Francisco CA 94107-1809  
 U.S.A.
-
-This Privacy Policy was last revised on March 8 2011.
