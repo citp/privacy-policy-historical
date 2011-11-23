@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the rentasignal.com privacy policy that was archived on 2011-02-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110208070430id_/http%3A//rentasignal.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rentasignal.com privacy policy that was archived on 2011-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123200535id_/http%3A//www.rentasignal.com/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="js"><head>
 
  
-
+ 
 
 
 <!--CSS DEL MENU-->
@@ -29,15 +29,15 @@
 
 
 
-  <link type="text/css" rel="stylesheet" media="all" href="/modules/book/book.css?W">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?W">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?W">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?W">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?W">
-<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?W">
-<link type="text/css" rel="stylesheet" media="all" href="/themes/pluralism/reset.css?W">
-<link type="text/css" rel="stylesheet" media="all" href="/themes/pluralism/style.css?W">
-<link type="text/css" rel="stylesheet" media="print" href="/themes/pluralism/print.css?W">
+  <link type="text/css" rel="stylesheet" media="all" href="/modules/book/book.css?f">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?f">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?f">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?f">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?f">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?f">
+<link type="text/css" rel="stylesheet" media="all" href="/themes/pluralism/reset.css?f">
+<link type="text/css" rel="stylesheet" media="all" href="/themes/pluralism/style.css?f">
+<link type="text/css" rel="stylesheet" media="print" href="/themes/pluralism/print.css?f">
 
 <link type="text/css" rel="stylesheet" media="all" href="/themes/pluralism/style.css">
 
@@ -65,15 +65,15 @@
 
 
  
-  <script type="text/javascript" src="/misc/jquery.js?W"></script>
-<script type="text/javascript" src="/misc/drupal.js?W"></script>
-<script type="text/javascript" src="/misc/collapse.js?W"></script>
-<script type="text/javascript" src="/themes/pluralism/script.js?W"></script>
+  <script type="text/javascript" src="/misc/jquery.js?f"></script>
+<script type="text/javascript" src="/misc/drupal.js?f"></script>
+<script type="text/javascript" src="/misc/collapse.js?f"></script>
+<script type="text/javascript" src="/themes/pluralism/script.js?f"></script>
 <script type="text/javascript">jQuery.extend(Drupal.settings, { "basePath": "/" });</script>
 
 
 
-  <script type="text/javascript"> 
+ <script type="text/javascript"> 
   
   
    function check(id){$("#"+id).attr("checked", true);}
@@ -94,33 +94,92 @@
        	   $("#balance_info").show();
        }
    }
+
+   function hypotetical_results_text_show() {
+	   var width = 700;
+	   var height = 500;
+	   var left = parseInt(($(window).width() - width) /2);
+	   var top  = parseInt(($(window).height() - height) /2);
+	   if (left < 0) left = 0;
+	   if (top < 0) top = 0;
+	   $.blockUI({ message: $('#hypotetical_results'), css:{left:  left + "px", top: top + "px" , width: width + "px", height: height + "px"}});
+   }
      
+   function hypotetical_results_text_close() {
+	   $.unblockUI();
+	   if ($.cookie("isaw_hypotetical_warning") != 1 &&  typeof hyp_war_text_show != 'undefined'&& hyp_war_text_show == 1) {
+		   hypotetical_warning_text_show();
+	   }
+   }
+     
+   function hypotetical_warning_text_show() {
+	   var width = 700;
+	   var height = 500;
+	   var left = parseInt(($(window).width() - width) /2);
+	   var top  = parseInt(($(window).height() - height) /2);
+	   if (left < 0) left = 0;
+	   if (top < 0) top = 0;
+	 	    
+	    var divTag = document.createElement("div");
+	    divTag.setAttribute("align", "left");
+        divTag.className ="hypotetical_results";
+        divTag.innerHTML =
+           '<div class="hypotetical_results_close"><a href="javascript:hypotetical_warning_text_close()"><img src="/themes/pluralism/images/close.png" alt="Close" /></a></div>' +
+           '<div style="clear:both;"></div>' +
+           '<div class="content_hypotetical_results">' +
+           $('#footer_copyright').html() + $("#hypotetical_warning").html()
+           + '</div>';
+        $.blockUI({ message: $(divTag) , css:{left:left + "px", top:top + "px" , width: width + "px", height: height + "px"}});
+   }
+
+
+   function hypotetical_warning_text_close() {
+	   $.cookie("isaw_hypotetical_warning", 1, {path: '/'});
+	   $.unblockUI();
+   }   
   </script>
+ 
+
+
+
+<script type="text/javascript" src="/themes/pluralism/javascript/ver1/jquery.blockUI.js"></script> 
 
 
 
 <script type="text/javascript" src="/themes/pluralism/javascript/ver1/jquery.cookie.js"></script> 
 
- 
-
-
-
+  
 
 <link rel="shortcut icon" href="/themes/pluralism/images/favicon.ico" type="image/x-icon">
 
 
-
-
-
-
-
+ 
 <script type="text/javascript" src="/themes/pluralism/embed.js"></script> 
 
  
 
-  
+<style>
+.hypotetical_results {
+	padding: 0 10px 0px 0;	
+	height: 480px;
+	margin-bottom:0px;
+	clear:both; 
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	border-radius:5px;
+	filter:progid:DXImageTransform.Microsoft.gradient(GradientType=0,startColorstr='#F0F0F0',endColorstr='#FEFEFE');
+	background:-webkit-gradient(linear,0% 0,0% 100%,from(#F0F0F0),to(#FEFEFE));
+	background:-moz-linear-gradient(270deg,#F0F0F0,#FEFEFE);
+	-webkit-box-shadow:0 1px 3px rgba(0, 0, 0, 0.45);
+	-moz-box-shadow:0 1px 1px rgba(0,0,0,0.4);box-shadow:0 1px 3px rgba(0, 0, 0, 0.45);
+	border: 1px solid #e7e7e7;
+}
+.hypotetical_results img { border:0}
+.hypotetical_results_close { width:18px; height:18px; float:right; margin-right:0px; margin-top:5px }
+.content_hypotetical_results { padding:10px 20px 20px 20px ; overflow: auto; height: 400px; }
 
-
+	
+</style>  
 
 
 
@@ -156,7 +215,7 @@
 
 
 
-    
+    <div class="header-message">Autotrade the Forex market by automatically mirroring worldwide FX traders' trades.</div>
 
 
 
@@ -167,15 +226,26 @@
 	<div class="flags">
 
 
-
+    <div class="floating">
     
 
 
 
-	  <a href="/ar/privacy_policy" title="العربية"><img src="/themes/pluralism/images/lang/ar.jpg"></a><a href="/zh-hans/privacy_policy" title="简体中文"><img src="/themes/pluralism/images/lang/zh-hans.jpg"></a><a href="/en-uk/node/21014" title="English"><img src="/themes/pluralism/images/lang/en-uk.jpg"></a><a href="/privacy_policy" title="English  (United States)"><img src="/themes/pluralism/images/lang/en.jpg"></a><a href="/fr/privacy_policy" title="Français"><img src="/themes/pluralism/images/lang/fr.jpg"></a><a href="/de/privacy_policy" title="Deutsch"><img src="/themes/pluralism/images/lang/de.jpg"></a><a href="/hi/privacy_policy" title="हिन्दी"><img src="/themes/pluralism/images/lang/hi.jpg"></a><a href="/id/privacy_policy" title="Bahasa Indonesia"><img src="/themes/pluralism/images/lang/id.jpg"></a><a href="/it/privacy_policy" title="Italiano"><img src="/themes/pluralism/images/lang/it.jpg"></a><a href="/ja/privacy_policy" title="日本語"><img src="/themes/pluralism/images/lang/ja.jpg"></a><a href="/ms/privacy_policy" title="Bahasa Melayu"><img src="/themes/pluralism/images/lang/ms.jpg"></a><a href="/pt-br/privacy_policy" title="Português Brasileiro"><img src="/themes/pluralism/images/lang/pt-br.jpg"></a><a href="/pt/node/21021" title="Português"><img src="/themes/pluralism/images/lang/pt.jpg"></a><a href="/ru/privacy_policy" title="Русский"><img src="/themes/pluralism/images/lang/ru.jpg"></a><a href="/es/privacy_policy" title="Español"><img src="/themes/pluralism/images/lang/es.jpg"></a><a href="/sv/privacy_policy" title="Svenska"><img src="/themes/pluralism/images/lang/sv.jpg"></a>
+	  	
+  <!-- <table class="choose_lang" cellspacing="0" cellpadding="0">
+  <thead>
+  <tr><td class="colored1 last"><img class="choose_btn" onclick="$('.rest').toggle(0);" src="/themes/pluralism/images/lang/en.jpg" /></td><td class="colored2 last" align="left"><a onclick="$('.rest').toggle(0);">English  (United States)</a></td></tr>
+  </thead>
+  <tbody class="rest">
+  <tr><td class="colored1 "><a href="/privacy_policy" title="العربية"  ><img src="/themes/pluralism/images/lang/ar.jpg" /></a></td><td class="colored2  " align="left"><a href="/privacy_policy" title="العربية">العربية</a></td></tr><tr><td class="colored1 "><a href="/privacy_policy" title="简体中文"  ><img src="/themes/pluralism/images/lang/zh-hans.jpg" /></a></td><td class="colored2  " align="left"><a href="/privacy_policy" title="简体中文">简体中文</a></td></tr><tr><td class="colored1 "><a href="/node/21014" title="English"  ><img src="/themes/pluralism/images/lang/en-uk.jpg" /></a></td><td class="colored2  " align="left"><a href="/node/21014" title="English">English</a></td></tr><tr><td class="colored1 "><a href="/privacy_policy" title="Français"  ><img src="/themes/pluralism/images/lang/fr.jpg" /></a></td><td class="colored2  " align="left"><a href="/privacy_policy" title="Français">Français</a></td></tr><tr><td class="colored1 "><a href="/privacy_policy" title="Deutsch"  ><img src="/themes/pluralism/images/lang/de.jpg" /></a></td><td class="colored2  " align="left"><a href="/privacy_policy" title="Deutsch">Deutsch</a></td></tr><tr><td class="colored1 "><a href="/privacy_policy" title="हिन्दी"  ><img src="/themes/pluralism/images/lang/hi.jpg" /></a></td><td class="colored2  " align="left"><a href="/privacy_policy" title="हिन्दी">हिन्दी</a></td></tr><tr><td class="colored1 "><a href="/privacy_policy" title="Bahasa Indonesia"  ><img src="/themes/pluralism/images/lang/id.jpg" /></a></td><td class="colored2  " align="left"><a href="/privacy_policy" title="Bahasa Indonesia">Bahasa Indonesia</a></td></tr><tr><td class="colored1 "><a href="/privacy_policy" title="Italiano"  ><img src="/themes/pluralism/images/lang/it.jpg" /></a></td><td class="colored2  " align="left"><a href="/privacy_policy" title="Italiano">Italiano</a></td></tr><tr><td class="colored1 "><a href="/privacy_policy" title="日本語"  ><img src="/themes/pluralism/images/lang/ja.jpg" /></a></td><td class="colored2  " align="left"><a href="/privacy_policy" title="日本語">日本語</a></td></tr><tr><td class="colored1 "><a href="/privacy_policy" title="Bahasa Melayu"  ><img src="/themes/pluralism/images/lang/ms.jpg" /></a></td><td class="colored2  " align="left"><a href="/privacy_policy" title="Bahasa Melayu">Bahasa Melayu</a></td></tr><tr><td class="colored1 "><a href="/privacy_policy" title="Português Brasileiro"  ><img src="/themes/pluralism/images/lang/pt-br.jpg" /></a></td><td class="colored2  " align="left"><a href="/privacy_policy" title="Português Brasileiro">Português Brasileiro</a></td></tr><tr><td class="colored1 "><a href="/node/21021" title="Português"  ><img src="/themes/pluralism/images/lang/pt.jpg" /></a></td><td class="colored2  " align="left"><a href="/node/21021" title="Português">Português</a></td></tr><tr><td class="colored1 "><a href="/privacy_policy" title="Русский"  ><img src="/themes/pluralism/images/lang/ru.jpg" /></a></td><td class="colored2  " align="left"><a href="/privacy_policy" title="Русский">Русский</a></td></tr><tr><td class="colored1 "><a href="http://es.rentasignal.com/privacy_policy" title="Español"  ><img src="/themes/pluralism/images/lang/es.jpg" /></a></td><td class="colored2  " align="left"><a href="http://es.rentasignal.com/privacy_policy" title="Español">Español</a></td></tr><tr><td class="colored1  last"><a href="/privacy_policy" title="Svenska"  ><img src="/themes/pluralism/images/lang/sv.jpg" /></a></td><td class="colored2   last" align="left"><a href="/privacy_policy" title="Svenska">Svenska</a></td></tr>  </tbody>
+  </table> -->
 
 
-	
+  
+  
+
+
+	</div>
 
 
 
@@ -190,21 +260,25 @@
       <form class="login" action="/privacy_policy?destination=node%2F1018" method="post">
             <input type="hidden" name="op" value="Log in">
              <input type="hidden" name="form_id" value="user_login_block">
-			 <div class="login-label">USER</div>
-            <input type="text" name="name" class="login-input" value="">
-            <div class="login-label">PASSWORD</div>
-			<input type="password" name="pass" class="login-input">
-            <input type="image" src="/themes/pluralism/images/submit.png" class="login-submit">
+			
+			 <input type="image" src="/themes/pluralism/images/submit.png" class="login-submit">
+           <input type="password" name="pass" class="login-input">
+		    <input type="text" name="name" class="login-input" value="">
+            
+			
+			
+            
         </form>
         <div class="login-options">
 		
 		
-		<div class="livechat-on"><script language="javascript" src="http://support.rentasignal.com/visitor/index.php?_m=livesupport&amp;_a=htmlcode&amp;departmentid=0&amp;ras=3&amp;fullname=&amp;email=&amp;lch_text=Live+Chat+Support&amp;lch_offline=Live+Chat+%28Offline%29"></script></div>
+	  <div class="livechat-on"><a href="/contact_us"><img src="/themes/pluralism/images/support.png"></a></div>  
+	  
 		
+		<div class="division">
 		<div class="btn"><a href="/user/register">New Account</a></div>
-        <div class="division"></div>
         <div class="btn"><a href="/user/password">Forgot your password?</a></div>
-		
+		</div>
 
 		
 		</div>
@@ -277,25 +351,16 @@ embedFlash("","/images/bannerRAS.swf?var1=&var2=&var3=&var4=",230,28);
  <!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="top"><a href="/user/register/new_account" id="telmex" class="top_link"><span class="down">New Account</span>
  <!--[if gte IE 7]><!--></a><!--<![endif]-->
   <!--[if lte IE 6]><table><tr><td><![endif]-->
- <!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="top"><a href="/why_rent_a_signal" id="telmex" class="top_link"><span class="down">Why Rent a Signal?</span>
+ <!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="top"><a href="/signal" id="telmex" class="top_link"><span class="down">Signal Search</span>
  <!--[if gte IE 7]><!--></a><!--<![endif]-->
   <!--[if lte IE 6]><table><tr><td><![endif]-->
- <!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="top"><a href="/how_does_it_work" id="telmex" class="top_link"><span class="down">How does it Work?</span>
+ <!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="top"><a href="/sell_your_signal" id="telmex" class="top_link"><span class="down">Signal Providers</span>
  <!--[if gte IE 7]><!--></a><!--<![endif]-->
   <!--[if lte IE 6]><table><tr><td><![endif]-->
- <!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="top"><a href="/signal" id="telmex" class="top_link"><span class="down">Find a Signal</span>
+ <!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="top"><a href="/affiliates" id="telmex" class="top_link"><span class="down">Affiliates program</span>
  <!--[if gte IE 7]><!--></a><!--<![endif]-->
   <!--[if lte IE 6]><table><tr><td><![endif]-->
- <!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="top"><a href="/sell_your_signal" id="telmex" class="top_link"><span class="down">Sell your Signals</span>
- <!--[if gte IE 7]><!--></a><!--<![endif]-->
-  <!--[if lte IE 6]><table><tr><td><![endif]-->
- <!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="top"><a href="/affiliates" id="telmex" class="top_link"><span class="down">Affiliates</span>
- <!--[if gte IE 7]><!--></a><!--<![endif]-->
-  <!--[if lte IE 6]><table><tr><td><![endif]-->
- <!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="top"><a href="/download" id="telmex" class="top_link"><span class="down">Downloads</span>
- <!--[if gte IE 7]><!--></a><!--<![endif]-->
-  <!--[if lte IE 6]><table><tr><td><![endif]-->
- <!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="top"><a href="/contact_us" id="telmex" class="top_link"><span class="down">Contact Us</span>
+ <!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li class="top"><a href="/contact_us" id="telmex" class="top_link"><span class="down">Support</span>
  <!--[if gte IE 7]><!--></a><!--<![endif]-->
   <!--[if lte IE 6]><table><tr><td><![endif]-->
  <!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul>
@@ -434,14 +499,13 @@ Cookies are typically classified as either “session” cookies or “persisten
 <p>In addition, Rent a Signal uses web beacons in conjunction with cookies to understand user behavior. A web beacon is an electronic image, found on a website or HTML-formatted email, and is called a single-pixel (1x1) or clear GIF. The web beacon is one of the ingredients of the page, just like other images and text, except it is so small and clear that it is effectively invisible. Web beacons can recognize certain types of information on a user’s computer, such as cookies, time and date of a page view and a description of the page where the web beacon is placed. They are simply a convenient way of gathering basic statistics and managing cookies, and do not give away any extra information from your computer. Turning off your browser's cookies will prevent web beacons from tracking your specific activity. The web beacon may still record an anonymous visit from your IP address, but unique information will not be recorded.</p>
 <p>Rent a Signal may also use customized links or other similar technologies to track email links that you click. We may associate that information with your Personal Information in order to provide you with more focused e-mail communications or purchase information. Each e-mail communication includes an unsubscribe link that allows you to stop delivery of that type of communication.</p>
 <p>If you prefer not to receive cookies while browsing our website or via HTML-formatted emails, you can set your browser to warn you before it accepts cookies or refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser.</p>
-<p>For additional information about cookies and other tracking technologies, including instructions for blocking their use, see <a href="http://privacy.getnetwise.org/browsing/tools" target="_blank">http://privacy.getnetwise.org/browsing/tools</a>.</p>
 <h1>Your Ability to Change, Correct and Update Your Information</h1>
-<p>If you are a registered user, you may change your Personal Information at any time by visiting <a href="http://www.rentasignal.com">www.Rent a Signal.com</a>. You may request deactivation of your Rent a Signal account or any of your Personal Information held by us by sending an email to <a href="mailto:info@rentasignal.com">info@rentasignal.com</a><br>
+<p>If you are a registered user, you may change your Personal Information at any time by visiting <a href="http://www.rentasignal.com">www.Rent a Signal.com</a>. You may request deactivation of your Rent a Signal account or any of your Personal Information held by us by sending an email to <a href="mailto:support@cc.rentasignal.com">support@cc.rentasignal.com</a><br>
 If you choose to deactivate your account, where permitted by law we will retain in our files some of your Personal Information to prevent fraud, resolve disputes, troubleshoot problems, enforce our Terms of Use, respect your opt-out preferences, and comply with legal requirements.</p>
 <h1>How We Protect Your Personal Information</h1>
 <p>Rent a Signal safeguards the security of the data you send us with industry-standard physical, electronic, and managerial procedures. When appropriate, Rent a Signal websites use SSL-encryption to enhance the security of sensitive data transmissions. Inside Rent a Signal, data is stored in controlled servers with limited access. Your information may be stored and processed in the United States or any other country where Rent a Signal, its subsidiaries, affiliates or agents are located.</p>
 <p>While we strive to protect your personal information, we cannot ensure the security of the information you transmit to us over an unsecured Internet connection. Therefore, we  urge you to take every precaution to protect your personal data when you are on the Internet.</p>
-<p>Some ways to protect your personal data may include changing your passwords often, using a combination of letters and numbers in passwords, and making sure you use a secure browser. In addition, please be aware of phishing attacks, which attempt to steal consumers' personal identity data and financial account credentials. “Phishers ” use 'spoofed' e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging sensitive personal information such as credit card numbers, account usernames, passwords and social security numbers. Rent a Signal will never send an email asking you to provide or confirm Sensitive Personal Information. If you receive a communication such as this, please immediately forward it to <a href="mailto:info@rentasignal.com">info@rentasignal.com</a> and immediately delete it from your computer.</p>
+<p>Some ways to protect your personal data may include changing your passwords often, using a combination of letters and numbers in passwords, and making sure you use a secure browser. In addition, please be aware of phishing attacks, which attempt to steal consumers' personal identity data and financial account credentials. “Phishers ” use 'spoofed' e-mails to lead consumers to counterfeit websites designed to trick recipients into divulging sensitive personal information such as credit card numbers, account usernames, passwords and social security numbers. Rent a Signal will never send an email asking you to provide or confirm Sensitive Personal Information. If you receive a communication such as this, please immediately forward it to <a href="mailto:support@cc.rentasignal.com">support@cc.rentasignal.com</a> and immediately delete it from your computer.</p>
 <p>Our websites do not target and are not intended to attract children under the age of 13. Rent a Signal does not knowingly solicit personal information from children under the age of 13 or send them requests for Personal Information.</p>
 <h1>Third Party Sites</h1>
 <p>Rent a Signal website contains links to third party websites, some of which may be co-branded with the Rent a Signal logo. However, these websites are not operated or maintained by Rent a Signal. Rent a Signal does not share your Personal Information with these websites and is not responsible for their privacy practices. Your use of any third party website is at your own risk.</p>
@@ -451,12 +515,14 @@ If you choose to deactivate your account, where permitted by law we will retain 
 <h1>Disclaimer</h1>
 <p>We do not guarantee error-free performance under this Privacy Statement. We may not always catch an unintended privacy issue, despite our efforts to do so. Accordingly, we welcome your feedback regarding any privacy concerns that you may have, including how we can improve our products and services. We will use reasonable efforts to comply with this Privacy Statement and will take prompt corrective action when we discover of any failure to comply with it. We will not be liable for any incidental, consequential, or punitive damages, whatsoever, relating to this Privacy Statement.</p>
 <h1>Questions or Suggestions</h1>
-<p>If you have questions or concerns about our collection, use, or disclosure of your Personal Information, please email us at <a href="mailto:info@rentasignal.com">info@rentasignal.com</a></p>
+<p>If you have questions or concerns about our collection, use, or disclosure of your Personal Information, please email us at <a href="mailto:support@cc.rentasignal.com">support@cc.rentasignal.com</a></p>
 <h1>Product-Specific Guidelines</h1>
 <p>Certain products collect Non-Personal Information about Rent a Signal products and network devices. This information about the status and health of products and the network is transmitted back to us so we can determine how users are interacting with our products, to assist us in improving our products, and to alert you to available upgrades. We may share this information with select third parties in an anonymous aggregated form. In addition, products may regularly check for updates to help keep your network running at a peak performance and provide alerts as to the latest firmware. The information is associated with you only when you opt-in to receive communications from Rent a Signal for the identified purpose. You may opt-out of the collection of this information at any time by changing the settings or uninstalling software from your computer.</p>
 <p>Personal Information is collected when a "store account" is created. To save you time and make our Web services easier to use, the store allows you to create an account using your Personal Information. This information includes your name, address, and email address and helps streamline future purchases.</p>
 <p>By setting up the reports feature of certain products, you give Rent a Signal permission to collect network information (including network traffic, application usage and internet history) that is linked to your email address, and therefore is Personal Information. The network information is summarized into a report and e-mailed to the identified e-mail address. This feature is available on an opt-in basis, and you must proactively enable the feature for it to collect data.</p>
 <p>The support services feature of certain Rent a Signal products collects and stores information about your network configuration and usage. As a result, Rent a Signal may collect and store detailed information regarding your network for the purpose of providing you technical networking support. The information is associated with you only when you provide your unique ID number to the support representative while you are receiving assistance.</p>
+<h1> </h1>
+<p><b>Silicom Internet S.L. will use the services of entities and / or professionals located in the United States, for this purpose Silicom Internet S.L. should allow them to access to your data. The sole purpose of such access is to deliver their services of housing, hosting, management and / or user support, Web services management and / or advice or task development  regarding communication and marketing matters. In particular, Silicom Internet S.L. uses the services of US-based companies and providers located in the Philippines, both for marketing activities. By accepting this Privacy Policy you agree to the processing described.</b></p>
 </div>
     <div class="meta">
         <a name="links"></a>
@@ -519,8 +585,7 @@ If you choose to deactivate your account, where permitted by law we will retain 
 
 
 
-
-     <div class="pay-methods"></div>
+     <!--<div class="pay-methods"></div>-->
 
 
 
@@ -548,36 +613,49 @@ If you choose to deactivate your account, where permitted by law we will retain 
 
 
 
-   
 
+     <div class="footer-copyright" id="footer_copyright">
+ALL RESULTS ON THIS WEB SITE MUST BE REGARDED AS HYPOTHETICAL. HYPOTHETICAL PERFORMANCE RESULTS HAVE MANY INHERENT LIMITATIONS, SOME OF WHICH ARE DESCRIBED BELOW. 
+<br><br> 
+NO REPRESENTATION IS BEING MADE THAT ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PROFITS OR LOSSES SIMILAR TO THOSE SHOWN. IN FACT, THERE ARE FREQUENTLY SHARP DIFFERENCES BETWEEN HYPOTHETICAL PERFORMANCE RESULTS AND THE ACTUAL RESULTS SUBSEQUENTLY ACHIEVED BY ANY PARTICULAR TRADING PROGRAM.
+<br><br>
+ONE OF THE LIMITATIONS OF HYPOTHETICAL PERFORMANCE RESULTS IS THAT THEY ARE GENERALLY PREPARED WITH THE BENEFIT OF HINDSIGHT. IN ADDITION, HYPOTHETICAL TRADING DOES NOT INVOLVE FINANCIAL RISK, AND NO HYPOTHETICAL TRADING RECORD CAN COMPLETELY ACCOUNT FOR THE IMPACT OF FINANCIAL RISK IN ACTUAL TRADING. FOR EXAMPLE, THE ABILITY TO WITHSTAND LOSSES OR TO ADHERE TO A PARTICULAR TRADING PROGRAM IN SPITE OF TRADING LOSSES ARE MATERIAL POINTS WHICH CAN ALSO ADVERSELY AFFECT ACTUAL TRADING RESULTS. THERE ARE NUMEROUS OTHER FACTORS RELATED TO THE MARKETS IN GENERAL OR TO THE IMPLEMENTATION OF ANY SPECIFIC TRADING PROGRAM WHICH CANNOT BE FULLY ACCOUNTED FOR IN THE PREPARATION OF HYPOTHETICAL PERFORMANCE RESULTS AND ALL OF WHICH CAN ADVERSELY AFFECT ACTUAL TRADING RESULTS.
+<br><br>
+HYPOTHETICAL PERFORMANCE RESULTS ARE CALCULATED TAKING INTO CONSIDERATION THE INITIAL DEPOSIT INDICATED BY THE SIGNAL PROVIDER FOR THE SIGNAL AND GETTING AUTOMATICALLY THE TYPE OF TRADE, SYMBOL AND SIZE TRADED BY THE SIGNAL PROVIDER. THEN RENT A SIGNAL ASSIGNS THROUGH THE FCM'S QUOTES FEED, THE OPEN AND CLOSE PRICE ACCORDINGLY TO THE OPEN AND CLOSE TIME OF EACH TRADE RECEIVED IN RENT A SIGNAL SERVER , CALCULATING AUTOMATICALLY THE USD AND PIPS PERFORMANCE OF EACH TRADE. ACCORDINGLY ALL SIGNAL PROVIDERS MUST BE TAKEN INTO CONSIDERATION AS IF THEY WERE TRADING THROUGH A DEMO ACCOUNT. ANY REINVESTMENT OR DISTRIBUTION OF PROFITS, COMMISSION CHARGES OR MANAGEMENT AND INCENTIVE FEES ARE NOT TAKEN INTO CONSIDERATION, AND ALL HYPOTHETICAL RESULTS ARE CALCULATED ACCORDINGLY TO CFTC'S PART 4 REGULATION.
+<br><br> 
+SEE ALSO <a href="javascript:hypotetical_results_text_show()">FURTHER MATERIAL ASSUMPTIONS THAT ARE MADE IN PREPARING THE HYPOTHETICAL RESULTS</a> AND BE SURE THAT YOU FURTHER UNDERSTAND ALL OF THEM.
+<br><br> 
+PAST RESULTS ARE NOT NECESSARILY INDICATIVE OF FUTURE RESULTS.
+<br><br>
+TRADING FOREIGN EXCHANGE ON MARGIN CARRIES A HIGH LEVEL OF RISK, AND MAY NOT BE SUITABLE FOR ALL INVESTORS. THE HIGH DEGREE OF LEVERAGE CAN EITHER WORK AGAINST YOU OR ON YOUR BEHALF. BEFORE DECIDING TO INVEST IN FOREIGN EXCHANGE YOU SHOULD CAREFULLY CONSIDER YOUR INVESTMENT OBJECTIVES, LEVEL OF EXPERIENCE, AND RISK APPETITE. THE POSSIBILITY EXISTS THAT YOU COULD SUSTAIN A LOSS OF SOME OR ALL OF YOUR INITIAL INVESTMENT AND THEREFORE YOU SHOULD NOT INVEST MONEY THAT YOU CANNOT AFFORD TO LOSE. YOU SHOULD BE AWARE OF ALL THE RISKS ASSOCIATED WITH FOREIGN EXCHANGE TRADING, AND SEEK ADVICE FROM AN INDEPENDENT FINANCIAL ADVISOR IF YOU HAVE ANY DOUBTS.
+<br><br>
+RENT A SIGNAL HAS HAD LITTLE OR NO EXPERIENCE IN TRADING ACTUAL ACCOUNTS FOR ITSELF OR FOR CUSTOMERS. BECAUSE THERE ARE NO ACTUAL TRADING RESULTS TO COMPARE TO THE HYPOTHETICAL PERFORMANCE RESULTS, CUSTOMERS SHOULD BE PARTICULARLY WARY OF PLACING UNDUE RELIANCE ON THESE HYPOTHETICAL PERFORMANCE RESULTS.
+<br><br>
+FCM AND RENT A SIGNAL ARE COMPENSATED FOR THEIR SERVICES THROUGH THE SPREAD BETWEEN THE BID/ASK PRICES.<br><br>
 
+    </div>   
+
+<div class="bottom-line">
 
  <ul class="links" id="navlist">
 
- <li class="menu-302 first"><a href="/trading_risk">Trading Risk</a></li>
+ <li class="menu-302 first"><a href="/risk_disclaimer">Risk Disclaimer</a></li>
 
  <li class="menu-302"><a href="/terms_and_conditions">Terms &amp; Conditions</a></li>
 
  <li class="menu-302"><a href="/privacy_policy">Privacy Policy</a></li> 
 
-
-
 </ul>
 
 
+<div class="footer-icons">
+<a href="http://www.facebook.com/rentasignal"><img src="/themes/pluralism/images/footer-facebook.jpg"></a>
+<a href="http://twitter.com/RentaSignal"><img src="/themes/pluralism/images/footer-twitter.jpg"></a>
+<a href="/" style="margin-left:30px; margin-top:-5px;"><img src="/themes/pluralism/images/footer-logo.jpg"></a>
+</div>
 
 
-
-    
-
-
-
-    <div class="footer-copyright">
-
-    All the information provided in RENTASIGNAL must be regarded as hypothetical and do not reflect actual results. Use of this web site indicates that you have acknowledged and agreed to our Terms &amp; Conditions and understand the Trading Risks involved with investing in Forex. Neither RENTASIGNAL nor any of its suppliers shall be held liable for any errors or for any action taken in reliance thereon. The brokerage company that you select is solely responsible for its services to you. RENTASIGNAL shall not be held liable for any use of brokerage services by you.
-    </div>
-
-
+</div>
 
   </div>
 
@@ -626,6 +704,56 @@ pageTracker._trackPageview();
 
         
 
+ <div id="hypotetical_results" class="hypotetical_results" style="display: none;">
+ 
+ <div class="hypotetical_results_close"><a href="javascript:hypotetical_results_text_close()"><img src="/themes/pluralism/images/close.png" alt="Close"></a></div>
+ <div style="clear:both;"></div>
+ 
+    <div class="content_hypotetical_results" align="left">       
+ 
+<br><br>
+<b>HYPOTHETICAL PERFOMANCE RESULTS</b>
+ <br><br> 
+ALL RESULTS ON THIS WEB SITE MUST BE REGARDED AS HYPOTHETICAL. HYPOTHETICAL PERFORMANCE RESULTS HAVE MANY INHERENT LIMITATIONS, SOME OF WHICH ARE DESCRIBED BELOW. 
+ <br><br> 
+NO REPRESENTATION IS BEING MADE THAT ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PROFITS OR LOSSES SIMILAR TO THOSE SHOWN. IN FACT, THERE ARE FREQUENTLY SHARP DIFFERENCES BETWEEN HYPOTHETICAL PERFORMANCE RESULTS AND THE ACTUAL RESULTS SUBSEQUENTLY ACHIEVED BY ANY PARTICULAR TRADING PROGRAM.
+<br><br> 
+ONE OF THE LIMITATIONS OF HYPOTHETICAL PERFORMANCE RESULTS IS THAT THEY ARE GENERALLY PREPARED WITH THE BENEFIT OF HINDSIGHT. IN ADDITION, HYPOTHETICAL TRADING DOES NOT INVOLVE FINANCIAL RISK, AND NO HYPOTHETICAL TRADING RECORD CAN COMPLETELY ACCOUNT FOR THE IMPACT OF FINANCIAL RISK IN ACTUAL TRADING. FOR EXAMPLE, THE ABILITY TO WITHSTAND LOSSES OR TO ADHERE TO A PARTICULAR TRADING PROGRAM IN SPITE OF TRADING LOSSES ARE MATERIAL POINTS WHICH CAN ALSO ADVERSELY AFFECT ACTUAL TRADING RESULTS. THERE ARE NUMEROUS OTHER FACTORS RELATED TO THE MARKETS IN GENERAL OR TO THE IMPLEMENTATION OF ANY SPECIFIC TRADING PROGRAM WHICH CANNOT BE FULLY ACCOUNTED FOR IN THE PREPARATION OF HYPOTHETICAL PERFORMANCE RESULTS AND ALL OF WHICH CAN ADVERSELY AFFECT ACTUAL TRADING RESULTS.
+<br><br> 
+HYPOTHETICAL PERFORMANCE RESULTS ARE CALCULATED TAKING INTO CONSIDERATION THE INITIAL DEPOSIT INDICATED BY THE SIGNAL PROVIDER FOR THE SIGNAL AND GETTING AUTOMATICALLY THE TYPE OF TRADE, SYMBOL AND SIZE TRADED BY THE SIGNAL PROVIDER. THEN RENT A SIGNAL ASSIGNS THROUGH THE FCM'S QUOTES FEED, THE OPEN AND CLOSE PRICE ACCORDINGLY TO THE OPEN AND CLOSE TIME OF EACH TRADE RECEIVED IN RENT A SIGNAL SERVER , CALCULATING AUTOMATICALLY THE USD AND PIPS PERFORMANCE OF EACH TRADE. ACCORDINGLY ALL SIGNAL PROVIDERS MUST BE TAKEN INTO CONSIDERATION AS IF THEY WERE TRADING THROUGH A DEMO ACCOUNT. ANY REINVESTMENT OR DISTRIBUTION OF PROFITS, COMMISSION CHARGES OR MANAGEMENT AND INCENTIVE FEES ARE NOT TAKEN INTO CONSIDERATION, AND ALL HYPOTHETICAL RESULTS ARE CALCULATED ACCORDINGLY TO CFTC'S PART 4 REGULATION.
+ <br><br> 
+<b>FURTHER MATERIAL ASSUMPTIONS THAT ARE MADE IN PREPARING THE HYPOTHETICAL RESULTS</b> 
+<br><br> 
+<ul> 
+<li>THE HYPOTHETICAL RESULTS DO NOT INCLUDE ANY ADDITIONAL MARK-UPS OR COMMISSIONS WHICH MAY BE CHARGED BY A CUSTOMER'S FOREX BROKER AND ARE BASED ON A ONE LOT TRADE SIZE. </li>
+<li>TRADES PLACED IN DEMO ACCOUNTS ARE BASED ON A SIGNAL PROVIDER HAVING ACCESS TO AN UNLIMITED AMOUNT OF FUNDS. AS A RESULT, DEMO ACCOUNTS ARE NOT SUBJECT TO MARGIN CALLS AND HAVE THE ABILITY TO WITHSTAND LARGE, SUSTAINED DRAWDOWNS WHICH A CUSTOMER ACCOUNT MAY NOT BE ABLE TO AFFORD.</li> 
+<li>TRADES PLACED IN DEMO ACCOUNTS ARE NOT SUBJECT TO PRICE SLIPPAGE WHICH MAY OCCUR WHEN A SIGNAL IS ACTUALLY TRADED IN A CUSTOMER ACCOUNT. </li>
+<li>THE NUMBER OF PIPS GAINED OR LOST BY EACH SIGNAL PROVIDER MAY BE BASED ON THE TRADING OF MINI, MICRO OR STANDARD LOTS. THE PERFORMANCE OF CUSTOMERS ELECTING TO TRADE A DIFFERENT LOT SIZE FROM THOSE USED BY A SIGNAL PROVIDER WILL THEREFORE VARY. FURTHER, CUSTOMERS MAY PLACE TRADES INDEPENDENT OF THOSE PROVIDED BY A SIGNAL PROVIDER OR PLACE CUSTOMIZED ORDERS TO EXIT POSITIONS WHICH DIFFER FROM THOSE OF A SIGNAL PROVIDER.</li> 
+<li>HYPOTHETICAL MONTHLY RESULTS AND BALANCE IN CHARTS PRESENTED, ONLY INCLUDE THE RESULTS OF COMPLETED TRADES AND DO NOT REFLECT THE PROFIT OR LOSS ON OPEN POSITIONS.</li> 
+<li>DUE TO DIFFERENCES IN THE BID/ASK OFFERED BY VARIOUS COUNTERPARTIES, OR DELAYS CAUSED BY THE INTERNET OR ANY OTHER REASONS, ALL TRADES EXECUTED IN THE ACCOUNT OF A SIGNAL PROVIDER MAY NOT BE EXECUTED IN A CUSTOMER ACCOUNT, IN THE FIRST CASE, IF THE BID/ASK OF THE FOREX BROKER AT WHICH THE CUSTOMER MAINTAINS THE CUSTOMER'S ACCOUNT IS DIFFERENT FROM THAT OF THE SIGNAL PROVIDER'S BROKER OR DUE TO VOLATILITY IN THE MARKET.</li>
+<li>CUSTOMERS MAY ELECT NOT TO FOLLOW ALL OF THE TRADING SIGNALS PROVIDED BY THE SIGNAL PROVIDERS OR BE ABLE TRADE THE RECOMMENDED NUMBER OF CONTRACTS DUE TO INSUFFICIENT FUNDS IN AN ACCOUNT. THEREFORE, THE RESULTS PORTRAYED ARE NOT INDICATIVE OF AN ACCOUNT WHICH MAY HAVE TRADED ALL A SIGNAL PROVIDER'S SIGNALS OR CONTRACTS. FURTHER, BY ELECTING TO FOLLOW A NUMBER OF DIFFERENT SIGNAL PROVIDERS AT ONE TIME, CUSTOMERS MAY NOT BE ABLE TO FOLLOW ALL OF THE SIGNALS GENERATED DUE TO THE CUSTOMER'S ACCOUNT HAVING INSUFFICIENT FUNDS. ACCORDINGLY, THE PERFORMANCE OF CUSTOMER ACCOUNTS MAY VARY SIGNIFICANTLY FROM THE RESULTS PORTRAYED ON THIS WEBSITE.</li>
+</ul><br><br>
+<center><a href="javascript:hypotetical_results_text_close()">CLOSE THIS WINDOW</a></center>
+ </div>
+ </div>
+   
+
+
+
+
+ 
+ <div id="hypotetical_warning" style="display: none;">
+  
+<br><br>
+<b>THIS WARNING APPLIES TO ALL WEB PAGES OF THIS SITE.</b>
+ <br><br> 
+WE SHOW THIS WARNING AND BLOCK YOUR VIEW OF A SIGNAL HYPOTHETICAL PERFORMANCE RESULTS, AT LEAST ONCE EACH "SESSION" THAT YOU COME TO THIS WEB SITE. SPECIFICALLY, WE SHOW THIS WARNING THE FIRST TIME YOU VIEW A SYSTEM PAGE AND THEN EVERY 60 MINUTES THEREAFTER. THIS WARNING MESSAGE IS ALSO DISPLAYED AT THE BOTTOM OF MOST WEB PAGES IN THIS WEB SITE, SO YOU CAN ALWAYS SCROLL TO THE BOTTOM TO SEE THE WARNING AGAIN. BEFORE YOU CAN CONTINUE, YOU MUST ACKNOWLEDGE THAT YOU HAVE READ THIS WARNING AND ACCEPT THAT, WHILE THIS POP-UP WARNING WILL NOT BLOCK YOUR VIEW DURING EVERY PAGE LOAD, THE WARNING HERE NEVERTHELESS APPLIES TO EVERY WEB PAGE ON THIS WEB SITE.
+ <br><br> 
+ <center><b>BY CLOSING THIS WINDOW, YOU ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTAND THIS WARNING.</b></center><b>
+<br><br>
+<center><a href="javascript:hypotetical_warning_text_close()">CLOSE THIS WINDOW</a></center>
+ 
+</b></div><b>   
 
 
 
@@ -638,4 +766,7 @@ pageTracker._trackPageview();
 
 
 
-</body></html>
+
+
+
+</b></body></html>
