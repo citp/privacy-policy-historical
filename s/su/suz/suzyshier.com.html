@@ -1,319 +1,1092 @@
-<!--The following is the downloaded HTML source of the suzyshier.com privacy policy that was archived on 2006-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061126113110id_/http%3A//www.suzyshier.com/t-privacy_policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the suzyshier.com privacy policy that was archived on 2011-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123142715id_/http%3A//www.suzyshier.com/eng/customerService/privacySecurity.cfm) for the most accurate reproduction.-->
 
-<html xmlns="http://www.w3.org/1999/xhtml"><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Privacy Policy</title>
-    <meta name="description" content="enter your site description here">
-    <meta name="keywords" content="enter your site keywords here">
-    <link rel="stylesheet" href="skins/Skin_1/style.css" type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!-- TEMPLATE: customerServiceTemplate.cfm -->
+<!-- START headerTags.cfm -->
+<!-- START metaTags.cfm -->
 
-    <script type="text/javascript" src="jscripts/formValidate.js"></script>
- 
-<script language="JavaScript">
-//<!--
-function signup()
-{
-	resultsWindow = window.open("https://64.34.233.119/skins/skin_1/signup_form.aspx","signup","menubar=no,status=no,scrollbars=no,resizable=yes,width=430,height=430");
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Privacy policy</title>
+
+<meta name="description" content="Suzy Shier Online Store - women's fashion, shoes &amp; accessories">
+
+<meta name="keywords" content="Suzy, Suzy Shier, Suzy Sheer, Suzie Shier, Suzie Sheer, Suzi Shier, Suzi Sheer, Suzy Shier clothing, Suzy clothing, Suzy Sheer clothing, Suzy Shier fashion, Suzy fashion, Suzy Sheer fashion, women's clothing, womens clothing, women's fashion, womens fashion, clothing store, fashion clothing, women's clothing store, womens clothing store, womens fashion store, womens store, tops, shirts, blouses, sweaters, tees, tanks, t-shirts, pants, dress pants, career pants, capris, shorts, dresses, skirts, jumpers, denim, activewear, suzy sport, suit collection, suiting, suits, women's suits, womens suits, blazers, vests, coats, jackets, outerwear, shoes, handbags, purses, bags, accessories, shop, shop women's fashion, shop women's clothing, monthly sales">
+
+<meta name="author" content="iCongo, Inc.">
+
+
+<!-- END metaTags.cfm --> 
+
+	<script type="text/javascript">
+		//Modal alert boxes
+		var g_ShowModal = false;
+		var g_linkProductAddToCartCrossSell = "http://www.suzyshier.com/eng/storeSection/redirect.cfm?sectionID=b2c/style/productAddToCartCrossSell.cfm&var=d&ckey=CA";
+		var g_showShoppingCartPopupAfterAdd = true;
+		var g_addToCartRedirectToCrossSellPage = false;
+		
+		translate = {};
+		translate.checkout = "proceed to checkout";
+		translate.keepShopping = "keep shopping";
+		translate.shoppingBag = "Shopping Cart";
+		translate.product = 'product';
+		translate.style = 'brand';
+		translate.color = 'color';
+		translate.size = 'size';
+		translate.price = 'price';
+		translate.qty = 'qty';
+		translate.total = 'total';
+		translate.onSale =  'on sale';
+		translate.productonSale =  'ON SALE';
+		translate.productprice=  'Our Price';
+		translate.coordinatesTitle =  'Free Item(s)';
+		translate.freeItemMenuLabel =  'add free item(s)';
+		translate.newLabel =  'NEW';
+		translate.yousave =  'You Save';
+		translate.close = "Close";
+		
+		msg_addToRegistrySelectColorSize = "Please select a color and size";
+		msg_skuAddedToRegistry_success = "The item was successfully added to your registry";
+		msg_skuAddedToRegistry_error = "An error occured while attempting to add the item to your registry";
+		
+		var g_imageInProgress = "/_static/images/www/Shared/aniInProgress.gif";
+		
+	</script>
 	
-}
-function cat(){
-win2=window.open("skins/skin_1/flash/catalogue/fall06/English/catalogue.htm","catalogue","width=820,height=640,toolbar=0,resizable=0,scrollbars=0,status=0")
+		<script>
+	    	translate.showDollarAmountSaveOnSalePrice =  'false';
+	    </script>
+	
 
-}
-function contest() {
-      resultsWindow = window.open("https://www.nms-payment.com/suzyshier/contests/wardrobe/contest.htm","contest","menubar=no,status=no,scrollbars=no,resizable=yes,width=750,height=460");
-    } 
-function mypop(file) {
-win = window.open(file,"newwin","width=650,height=590,scrollbars=0,toolbar=0,resizable=0,status=0");
 
-} 
-function careers(myVar) {
-win = window.open(myVar,'career','width=640,height=600,toolbar=0,scrollbars,status=0');
 
-} 
-function carrieres(myVar) {
-win = window.open(myVar,'career','width=640,height=600,toolbar=0,scrollbars,status=0');
+	<link href="http://www.suzyshier.com/css/jquery-ui-1.7.2.smoothness.css" rel="stylesheet" type="text/css">
+	<link href="http://www.suzyshier.com/css/jquery.cluetip.css" rel="stylesheet" type="text/css">
+	<link href="http://www.suzyshier.com/css/jquery.tablesorter.css" rel="stylesheet" type="text/css">
 
-} 
-function checkMail()
-{
-	var x = document.getElementById("signup_email").value;
-	var filter  = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
-	if (filter.test(x)) 
-	{
-	resultsWindow = window.open("skins/skin_1/signup_form.aspx?email=" + x + "","results","menubar=no,status=no,scrollbars=no,resizable=yes,width=430,height=430");
-	document.getElementById("signup_email").value = ""
-}
-	else alert('\nPlease enter a valid email.\n\nExample: name@suzyshier.com');
-}
-       
-function clearField()
-{
-document.getElementById("signup_email").value = ""
-}
-// -->
-</script>
+	<link rel="shortcut icon" href="http://www.suzyshier.com/favicon.ico" type="image/ico">
+
+	<style type="text/css">
+		@import url("http://www.suzyshier.com/css/01_generic.css");
+		@import url("http://www.suzyshier.com/css/02_specific.css");
+		@import url("http://www.suzyshier.com/css/03_fauxinline.css");
+		@import url("http://www.suzyshier.com/css/04_forms.css");
+		@import url("http://www.suzyshier.com/css/05_structure.css");
+		@import url("http://www.suzyshier.com/css/06_header.css");
+		@import url("http://www.suzyshier.com/css/07_leftblock.css");
+		@import url("http://www.suzyshier.com/css/08_footer.css");
+		@import url("http://www.suzyshier.com/css/09_alertboxes.css");
+		@import url("http://www.suzyshier.com/css/10_tables.css");
+		@import url("http://www.suzyshier.com/css/11_myaccount.css");
+		@import url("http://www.suzyshier.com/css/12_banners.css");
+		@import url("http://www.suzyshier.com/css/13_content_and_specifics.css");
+		@import url("http://www.suzyshier.com/css/14_jquery.css");
+				
+		
+		
+		@import url("http://www.suzyshier.com/css/23_content_blocks.css");
+		@import url("http://www.suzyshier.com/css/24_overrides.css");		
+		
+	</style>
+
+	<script type="text/javascript">
+		siteUrl = 'http://www.suzyshier.com/sharedPages/';
+	</script>
+
+	<script src="http://www.suzyshier.com/sharedPages/javascript/global_scripts.js" language="javascript" type="text/javascript"></script>
+
+	<script type="text/javascript" src="http://www.suzyshier.com/cfajax/core/engine.js"></script>
+	<script type="text/javascript">
+		DWREngine.setOrdered(true);
+	</script>
+
+	<script type="text/javascript" src="http://www.suzyshier.com/cfajax/core/util.js"></script>
+	<script type="text/javascript" src="http://www.suzyshier.com/cfajax/core/settings.js"></script>
+	<script type="text/javascript" src="http://www.suzyshier.com/sharedPages/javascript/ufo.js"></script>
+	<script type="text/javascript" src="http://www.suzyshier.com/sharedPages/javascript/common.js"></script>
+	<script type="text/javascript" src="http://www.suzyshier.com/sharedPages/javascript/jquery.js"></script>
+	<script type="text/javascript" src="http://www.suzyshier.com/sharedPages/javascript/dump.js"></script>
+	<script type="text/javascript" src="http://www.suzyshier.com/sharedPages/javascript/jquery-ui-1.7.2.min.js"></script>
+	<script type="text/javascript" src="http://www.suzyshier.com/cfajax/IEbannerFix.js"></script>
+	<script type="text/javascript" src="http://www.suzyshier.com/sharedPages/javascript/jquery.tablednd.js"></script>
+	<script type="text/javascript" src="http://www.suzyshier.com/sharedPages/javascript/jquery.bgiframe.min.js"></script>
+	<script type="text/javascript" src="http://www.suzyshier.com/sharedPages/javascript/jquery.hoverIntent.js"></script>
+	<script type="text/javascript" src="http://www.suzyshier.com/sharedPages/javascript/jquery.cluetip.js"></script>
+	<script type="text/javascript" src="http://www.suzyshier.com/sharedPages/javascript/jquery.tablesorter.min.js"></script>
+	<script type="text/javascript" src="http://www.suzyshier.com/sharedPages/javascript/jquery.jmc_resizr.js"></script>
+	
+	<!--[if IE]>
+		<link type="text/css" rel="stylesheet" href="http://www.suzyshier.com/css/IE.css" />
+	<![endif]-->
+	<!--[if IE 6]>
+		<link href="http://www.suzyshier.com/css/ie6.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+
+
+	
+			<script src="/cfajax/banners/bannersV9.js?a" type="text/javascript"></script>
+		
+
+
+<!-- END headerTags.cfm -->
 </head>
-<body rightmargin="0" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#ffffff">
-    <!-- PAGE INVOCATION: '/t-privacy_policy.aspx' -->
-    <!-- PAGE REFERRER: 'http://www.suzyshier.com/' -->
-    <!-- STORE LOCALE: 'en-US' -->
-    <!-- CUSTOMER LOCALE: 'en-US' -->
-    <!-- STORE VERSION: 'AspDotNetStorefront 6.2.1.7/6.2.1' -->
-    <!-- CACHE MENUS: 'True' -->
-    <!-- to center your pages, set text-align: center -->
-    <!-- to left justify your pages, set text-align: center -->
-    <!-- if using dynamic full width page sizes, the left-right align has no effect (obviously) -->
-    <div style="margin-top: 0px; margin-left: auto; text-align: center; width: 100%">
-        <!-- for dynamic full width page sizes, leave centerdiv width at 100% -->
-        <!-- for fixed width page sizes, set centerdiv width:800px (or whatever you want) -->
-        <!-- to left align, set margin-right: auto; -->
-        <!-- to center align, set margin-left: auto; margin-right: auto; -->
-        <div id="centerdiv" style="margin-left: auto; width: 750px; margin-right: auto">
-            <table width="750" border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr>
-                    <td width="100%" style="padding-top:7px">
-                        <table width="750" border="0" cellspacing="0" cellpadding="0">
-                            <tbody><tr>
-                                <td colspan="2" width="100%" valign="middle" align="right">
-                                   <table width="750" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td width="250" rowspan="2" align="left" valign="bottom" style="padding-bottom: 6px; padding-left: 10px"><a href="default.aspx"><img src="skins/skin_1/images/logo.gif" width="106" height="50" border="0" alt="Home"></a></td>
-    <td width="500" valign="middle" align="right">
-      <table cellpadding="0" cellspacing="0">
-        <tbody><tr>
-          <td style="padding-bottom:5px">
-            <form style="cursor: hand; margin-top: 0px; margin-bottom: 0px;" id="topsearchform" name="topsearchform" method="GET" action="search.aspx">
-              <div align="center" style="text-align: right"><span class="username">
-                            <a class="username" href="signin.aspx">Login</a> |  <a href="setlocale.aspx?localesetting=fr-FR" class="head">Francais</a></span></div>
-            </form>
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="padding-bottom:2px" align="right">
-      <table width="251" border="0" cellpadding="0" cellspacing="0" style="border-top: silver 1px solid">
-        <tbody><tr>
-          <td></td>
-          <td class="HighlightText" style="height: 40px; width: 70px; text-align: center;
-                                                                        border-right: silver 1px solid"><a href="c-1-gift-cards.aspx" class="HighlightText" style="color:#B50839; text-decoration: none;">
-                        buy gift<br>
-                        cards
-                      </a></td>
-          <td class="head" align="right" style="height: 40px; width: 70px; text-align: center;
-                                                                        border-right: silver 1px solid"><a href="account.aspx" class="head">
-                        my<br>
-                        account
-                      </a></td>
-          <td class="head" align="right" style="height: 40px; width: 70px; text-align: center"><a href="shoppingcart.aspx" class="head">
-                        shopping<br>
-                        bag
-                      </a></td>
-          <td style="padding-left: 1px;padding-top: 6px; height: 40px; text-align: center; width: 41px; background-image: url('skins/skin_1/images/bag.gif'); background-repeat: no-repeat;
-                                                                        text-align: center"><a href="shoppingcart.aspx" style="font-size:10px;color:White">0</a></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
-                                </td>
-                            </tr>
-                            <tr>
-                                <td class="TopNavi" style="width: 750px; background-image: url('skins/skin_1/images/button_bg.gif');height: 25px">
-                                    
-                                    <table border="0" cellpadding="0" cellspacing="0" width="100%">
-                                        <tbody><tr>
-                                            <td valign="middle" align="left" style="padding-top: 2px;border-right:1px solid silver;border-left:1px solid silver">
-                                               <!-- TOP MENU -->
-                                                <div>
-	<table id="PageMenu" class="TopMenuGroup" cellpadding="0" border="0" cellspacing="1">
-		<tbody><tr>
-			<td title="" align="left"><a href="t-catalogue_holiday06.aspx"><nobr>HOLIDAY CATALOGUE</nobr></a></td><td title="" align="left"><a href="t-specials.aspx"><nobr>SPECIALS</nobr></a></td><td title="" align="left"><a href="t-trends.aspx"><nobr>TRENDS</nobr></a></td><td title="" align="left"><a href="t-newsletter.aspx"><nobr>FASHION NEWSLETTER</nobr></a></td><td title="" align="left"><a href="t-prestige.aspx"><nobr>PRESTIGE</nobr></a></td><td title="" align="left"><a href="t-faq.aspx"><nobr>CUSTOMER SERVICE</nobr></a></td>
-		</tr>
-	</tbody></table>
+
+<body>
+	
+	<div id="topNavigationBannerBlock">
+		<div id="topNavigationBanner">
+			<span id="bphId_54" class="bannerPlaceHolder"><!--::bannerPlaceholder_54::--></span>
+		</div>
+	</div>
+	
+	<div id="wrapper">
+		<div id="contentBlock">
+
+			
+				<div id="breadCrumbs">
+					<ul>
+						<li><a href="/store.cfm?&amp;var=d&amp;ckey=CA">Home</a></li>
+						<li class="separator">&gt;</li>
+						<li>
+							<h1>
+								
+									Privacy policy
+								
+							</h1>	
+						</li>
+					</ul>
+				</div>
+				<div id="contentLeftNav">
+					<!-- START contentLeftNavigation.cfm -->
+<li class=""><a href="http://www.suzyshier.com/eng/aboutUs/history.cfm">About Us</a></li><li class=""><a href="http://www.suzyshier.com/eng/customerService/redirect.cfm?sectionID=b2c/storeLocator/storeLocator.cfm&amp;var=d&amp;ckey=CA">Store Locator</a></li><li class=""><a href="http://www.suzyshier.com/eng/aboutUs/careers.cfm">Careers</a></li><li class=""><a href="http://www.suzyshier.com/eng/giftCard/redirect.cfm?sectionID=b2c/giftCards/displayGiftCardItem.cfm&amp;var=d&amp;ckey=CA">Gift Cards</a></li><li class=""><a href="http://www.suzyshier.com/eng/membership/redirect.cfm?sectionID=b2c/membership/displayMembershipItem.cfm&amp;var=d&amp;ckey=CA">Prestige Cards</a></li><li style="margin-bottom:20px;"></li><li class=""><a href="http://www.suzyshier.com/eng/customerService/youraccount.cfm">Your Account</a></li><li class=""><a href="http://www.suzyshier.com/eng/customerService/aboutProduct.cfm">About the product</a></li><li class=""><a href="http://www.suzyshier.com/eng/customerService/aboutProduct.cfm">Product information</a></li><li class=""><a href="http://www.suzyshier.com/eng/customerService/sizeChart.cfm">Size chart</a></li><li class=""><a href="http://www.suzyshier.com/eng/customerService/aboutProduct.cfm">Colors</a></li><li class=""><a href="http://www.suzyshier.com/eng/customerService/paymentMethodsCA.cfm">Payment</a></li><li class=""><a href="http://www.suzyshier.com/eng/customerService/shippingMethodsCA.cfm">Shipping</a></li><li class=""><a href="http://www.suzyshier.com/eng/customerService/redirect.cfm?sectionID=b2c/rma/rmaSearchForm.cfm&amp;var=d&amp;ckey=CA">Returns</a></li><li class="selected"><a href="http://www.suzyshier.com/eng/customerService/privacySecurity.cfm">Privacy &amp; Security</a></li><li class=""><a href="http://www.suzyshier.com/eng/customerService/termsOfUse.cfm">Terms of use</a></li> 
+<!-- END contentLeftNavigation.cfm -->
+				</div>
+			
+				<h1></h1>
+				<h2></h2>				
+				<div id="customerServiceBlock" class="mainBlock blankTemplate">
+	
+					<h2>Privacy policy</h2>
+	
+				<p><strong>Suzy Shier</strong> and its affiliates (“<strong>Suzy Shier</strong>”) respect your right to personal privacy. This Privacy Policy (“<strong>Privacy Policy</strong>”) describes our privacy practices. When you use a <strong>Suzy Shier</strong> website (“Site”), visit our stores, register with <strong>Suzy Shier</strong>, become a <strong>Prestige Member</strong> (“<strong>Membership</strong>”) or purchase a product online or in one of our stores, we may collect, store, use and disclose your personal information in accordance with this Privacy Policy. We may change or add to this Privacy Policy, so we encourage you to review it periodically and to check for updates when you provide us with additional personal information.</p>
+<p>We have included in this Privacy Policy details related to how we collect, store, use and protect the information you decide to provide to us. This Privacy Policy identifies:</p>
+<p>•&nbsp;why we collect your personal information; <br>
+•&nbsp;the information that is collected by <strong>Suzy Shier</strong>; <br>
+•&nbsp;how we use and store your information; <br>
+•&nbsp;how we may share your information; and <br>
+•&nbsp;how you may contact <strong>Suzy Shier</strong></p>
+<p>You can visit our stores and our Site without identifying yourself or providing any personal information, though please note that certain of our stores may contain in-store security cameras, both in public and “employee-only” areas of the store. At certain times, however, we may ask you to provide certain personal information for the purposes set out in this Privacy Policy.</p>
+<p>At <strong>Suzy Shier</strong> we allow you to control how we contact you. We will respond to your customer inquiries using the contact information that you provide to us. We may send you promotional material by mail, Facebook, Twitter, e-mail, text message (SMS), mobile communication device, telephone or other means. This Privacy Policy explains how you can control how we contact you.</p>
+<p><u><strong>Unsolicited Emails and Telephone Calls</strong></u></p>
+<p>Please do not share/send personal information (and particularly financial/credit card information) in response to any unsolicited e-mail or phone call that appears to come from <strong>Suzy Shier</strong> or its affiliated companies or brands. We will <u>not</u> contact you and ask for such information; such information is only submitted when completing an order.</p>
+<p><strong><u>Why do we collect your personal information?</u></strong></p>
+<p>We collect information from you in order to provide you with an interesting, safe, convenient and personalized online shopping experience and for the other purposes set out in this Privacy Policy. We may retain certain personal information in order to improve the personalization of your subsequent visits. We also collect information from you in-store and on-line to comply with our legal and contractual obligations and to facilitate transactions. We also collect personal information to assist us in preventing, deterring and detecting criminal activities and other wrongful conduct on our premises and on-line. With your express or implied consent, we may collect your personal information to use for promotional purposes.</p>
+<p><strong><u>What personal information does Suzy Shier collect?</u></strong></p>
+<p><u>Information about you</u></p>
+<p>We receive and may retain various information voluntarily given to us by you when you visit our Site, make a purchase on-line or in our stores using your credit card or debit card, register online, purchase a Membership, take part in a special promotion, register to receive newsletters or promotional material, apply for employment with us or when you provide any other information or unique preferences to us for the purposes listed in this Privacy Policy. This information <u>may</u> include:</p>
+<p>•&nbsp;your name, address (including postal/zip code) and phone number; <br>
+•&nbsp;your date of birth; <br>
+•&nbsp;your e-mail address; <br>
+•&nbsp;your IP address; <br>
+•&nbsp;photographs or videos of you; <br>
+•&nbsp;your credit card and other financial information; <br>
+•&nbsp;your resume; <br>
+•&nbsp;proof of your identity; and <br>
+•&nbsp;any other information that you may voluntarily provide through the Site or other means, including through Facebook, Twitter, Youtube, Flickr, Tumblr, Vimeo, any sort of mobile communications device or any other social media.</p>
+<p>We may also receive information about you from other sources in compliance with applicable privacy legislation, such as updated address information, financial and credit history information in connection with payment processing, or previous employment related information. This information may help us to improve our ability to service your needs such as ensuring the accurate delivery of mailed materials.</p>
+<p><u>Information about others</u></p>
+<p>The information we collect might also include information you provide us about other people. For example, you may provide us with the name and address of a merchandise gift or gift card recipient. When you provide us with personal information about the intended recipient of a shipment, we use that information for the purposes of processing the shipment and, in some cases, to communicate with the intended recipient to provide information pertaining to the status of the shipment. <strong>We rely on you to obtain the intended recipient's consent to our use of the personal information for these limited purposes.</strong></p>
+<p><u>Cookies and other technologies</u></p>
+<p>A “cookie” is a small data file transferred to your computer’s hard drive that allows a website to respond to you as an individual, gathering and remembering information about your preferences in order to tailor its operation to your needs, likes and dislikes. Cookies also enable an electronic retailer like <strong>Suzy Shier</strong> to keep track of a customer’s electronic “shopping cart” before completing a purchase. When your computer accepts a cookie it does not provide us with access to your computer or any personal information about you other than the information you choose to provide to us.</p>
+<p>Most browsers will allow you to remove cookies from your computer hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. However, if you block or turn off cookies, certain features might not be available to you and our ability to personalize your experience would be limited.</p>
+<p><strong><u>How we use your personal information</u></strong></p>
+<p><u>Shopping</u></p>
+<p>The personal information that <strong>Suzy Shier</strong> collects is used to provide you with an enjoyable and increasingly personalized shopping experience. We may use the information to:</p>
+<p>•&nbsp;process and fulfill your order and complete your transaction, when you make a purchase;<br>
+•&nbsp;provide you with important product information; <br>
+•&nbsp;deliver merchandise that you purchase online; <br>
+•&nbsp;register you online; <br>
+•&nbsp;facilitate payment for your purchases; <br>
+•&nbsp;confirm your orders and delivery information; <br>
+•&nbsp;respond to your customer service inquiries or requests; <br>
+•&nbsp;determine your preferences and interests to improve the quality of our services; <br>
+•&nbsp;provide you with information about special offers, events and contests; <br>
+•&nbsp;provide you with advance notice of new arrivals, promotions and store openings; <br>
+•&nbsp;process any product returns; <br>
+•&nbsp;help us identify and address any problems with our Site or services; <br>
+•&nbsp;protect the security and integrity of our Site, our stores and our business; <br>
+•&nbsp;enable us to address our risk management and related purposes; and <br>
+•&nbsp;fulfill other purposes for which <strong>Suzy Shier</strong> has obtained your consent.</p>
+<p>We will also use the information we collect from you to improve the quality of our services in-store and on-line and to enhance the quality of the experience that you have when visiting us in our stores and on-line.</p>
+<p><u>Casting Call / Modeling for our Company</u></p>
+<p>From time to time we may have modeling opportunities for individuals for <strong>Suzy Shier</strong>. If we do announce a casting call or desire a model for our company we will identify what information, photographs or videos that we would like to receive and if you send us information about yourself in response to such a request, your consent shall include our right to share the information and content that you provide with third party modeling or talent agencies for such casting call or modeling purposes.</p>
+<p><u>Career Opportunities</u></p>
+<p>You may submit your resume through e-mail or mail for certain positions in our stores or at our head office in either the United States of America or Canada. Our human resources department (or a third party human resources service provider) may use that information for the purposes of potential employment with us and related human resources purposes.</p>
+<p><u>Newsletter, Memberships and Promotional Material</u></p>
+<p>If you decide to subscribe to our newsletter or become a Prestige Member, we will use your personal information to send you certain correspondence, whether electronically or via direct mail, including but not limited to surveys, promotional information and offers, upcoming in-store or online sales, product information and contests. We also may use your date of birth and postal/zip code for promotional purposes. For example, we may send you special offers on or around your birthday or information about a new store opening in your area. In addition, we may use your IP address to determine your geographical location, in order to customize the promotional material we may send to you from time to time.</p>
+<p><u>Contests</u></p>
+<p>When you provide us with personal information in connection with a contest, we will use that information in connection with the administration of contests and other purposes disclosed in the contest entry rules. We may disclose your personal information to third party contest administrators or other sponsors of those contests, as well as applicable regulators, if required. Each contest has its own separate terms and conditions relating to the collection, use, storage and disclosure of your personal information, so please read those terms and conditions carefully when entering any contest run by <strong>Suzy Shier</strong>.</p>
+<p><u>Our Service Providers and Government</u></p>
+<p>Certain business services are performed on our behalf and at our request by other companies. We may securely share your information with selected vendors that perform services for <strong>Suzy Shier</strong>, such as hosting, data and promotional service providers and printing companies. To perform these services, these companies may, at times, utilize some of the personal information you have provided to us, and such use shall be governed by the terms and conditions of this Privacy Policy. Your personal information is used solely for the purposes <strong>Suzy Shier</strong> has requested of these third party companies, such as maintaining our database, administering and monitoring e-mails, displaying offers and contest administration.</p>
+<p>We may also share your personal information with governmental agencies or other entities, including credit reporting agencies, assisting us in fraud prevention or investigation or where we are required or permitted to do so by law or contract. We may do so when trying to protect against or prevent actual or potential fraud or unauthorized transactions, or investigating fraud that has already taken place. In addition, we may disclose your personal information to third parties who you have authorized to obtain that information. For example, when you make a purchase by credit card, we will forward certain information to your credit card provider in the course of processing that transaction.</p>
+<p><u>Sharing within our Organization or a Potential Purchaser</u></p>
+<p>If you have consented to receive promotional material from us, <strong>Suzy Shier</strong> may share your information with affiliated companies and brands of YM Inc., which currently include Suzy Shier, Bluenotes, LA Express, Stitches, Sirens, Siblings, Mariposa, Thrifty’s and Urban Planet, and any future affiliated companies and brands of YM Inc. We may provide you with their promotional materials and additional information about their products, services, contests or promotions.</p>
+<p>Information we collect from you may be shared between all points of contact within <strong>Suzy Shier</strong> if it is necessary to share that information for the purpose for which we collected it. Those points of contact include employees in our stores, customer service representatives and individuals involved in online and other purchase fulfillment.</p>
+<p>In the event that <strong>Suzy Shier</strong> is sold to or merges with another company, we may disclose your personal information to the purchaser or the new company formed from the merger.</p>
+<p><strong><u>How Suzy Shier protects and stores your personal information</u></strong></p>
+<p>Your personal information will be kept confidential. It is stored and processed on computers located in Canada and the United States of America. We use administrative, procedural and technical safeguards to protect your information against loss or theft as well as against unauthorized access or disclosure in order to protect your privacy. These protections include firewalls and encryption.</p>
+<p>We use Secure Sockets Layer (SSL) technology to protect the security of your credit card information as it is transmitted to us. SSL is the industry standard for secure online commerce transactions. It prevents your personal information from being read by someone else as it travels across the Internet. All of your personal information is encrypted, including your credit card number, name and address.</p>
+<p>While we use reasonable efforts to protect your personal information, we cannot ensure or warrant the security of any information you transmit using the Internet, third party digital networks, websites, mobile devices, the Site or any social media platform.</p>
+<p><strong>We cannot be responsible for Internet fraud or theft. Please keep this in mind when providing information through the Site.</strong></p>
+<p><strong><u>How long do we retain your Personal Information?</u></strong></p>
+<p><strong>Suzy Shier</strong> retains your personal information for as long as necessary to fulfill the purpose(s) for which it was collected and to comply with applicable laws. Your consent to such purposes(s) remains valid after any termination of our relationship with you.</p>
+<p>When you make a purchase online through our Site, we will not retain your credit card information after the purchase has been authorized by the appropriate financial institution. <strong>Suzy Shier</strong> does retain the authorization number provided at the time of authorization in order to deal with credit which might be requested in the event that the purchased item is returned.</p>
+<p>If you visit a store that is monitored by video security, we may temporarily capture your image for security purposes. Security recordings are only reviewed in the event of an incident and are overwritten after a reasonable period of time.</p>
+<p><strong><u>Children and this Site</u></strong></p>
+<p>Children under age 13 may not use the Site and should not provide any personal information to us. The Site is not intended for or targeted to use by children.</p>
+<p>Please note that children under the age of 13 may not participate in casting calls or modeling initiatives, and may not apply for employment with <strong>Suzy Shier</strong>.</p>
+<p><strong><u>Exercising your options about receiving promotional communications</u></strong></p>
+<p>We want to communicate with you only if you want to hear from us. If you do not want to receive communication or promotional information you can</p>
+<p>Write to us at <strong>YM Inc., 50 Dufflaw Rd., Toronto, Ontario, CANADA, M6A 2W1</strong></p>
+<p>Use the <strong>UNSUBSCRIBE</strong> link found in every electronic promotional message you receive.</p>
+<p><strong><u>Our links to other sites</u></strong></p>
+<p>Our Site may offer links to other websites. Other websites have their own terms of use and privacy and security policies. <strong>SUZY SHIER IS NOT RESPONSIBLE FOR ANY DAMAGES ARISING FROM AND EXPRESSLY DISCLAIMS ANY LIABILITY ASSOCIATED WITH HOW SUCH THIRD PARTIES COLLECT, STORE, USE OR DISCLOSE YOUR PERSONAL INFORMATION.</strong> If you choose to visit one of these websites, you should review the privacy policies that govern those particular websites.</p>
+<p>In addition, our Site may include content (including through social media platforms or applications) that is streamed by our Site but hosted or made available by third parties. <strong>SUZY SHIER IS NOT RESPONSIBLE FOR ANY DAMAGES ARISING FROM AND EXPRESSLY DISCLAIMS ANY LIABILITY ASSOCIATED WITH HOW SUCH THIRD PARTIES COLLECT, STORE, USE OR DISCLOSE YOUR PERSONAL INFORMATION.</strong> If you choose to view such streamed content, you should review the privacy policies that govern such content.</p>
+<p><strong><u>Contacting Suzy Shier</u></strong></p>
+<p>If you would like additional information or have questions about our Privacy Policy or personal information management practices or if you want to access the personal information that Suzy Shier has collected about you, please contact our privacy officer by email at <a style="color: #014075" href="mailto:privacyadmin@suzyshier.ca">privacyadmin@suzyshier.ca</a></p>
+<p>If you do not want to receive promotional material from Suzy Shier or if you wish to update or correct your personal information please contact us by email at: <a style="color: #014075" href="mailto:customerservice@suzyshier.ca">customerservice@suzyshier.ca</a></p>
+<p><strong><u>Other Policies</u></strong></p>
+<p>Please also visit the following associated policies for further information:</p>
+<p>Social Media Policy: online at <a style="color: #014075" target="_self" href="http://www.suzyshier.com/eng/customerService/socialmediapolicy.cfm">http://www.suzyshier.com/eng/customerService/socialmediapolicy.cfm</a></p>
+<p>Website Terms and Conditions of Use: online at <a style="color: #014075" target="_self" href="http://www.suzyshier.com/eng/customerService/privacySecurity.cfm">http://www.suzyshier.com/eng/customerService/privacySecurity.cfm</a></p>
+<p>Website Terms and Conditions of Purchase and Sale: online at <a style="color: #014075" target="_self" href="http://www.suzyshier.com/eng/customerService/termsOfUse.cfm">http://www.suzyshier.com/eng/customerService/termsOfUse.cfm</a></p>
+<p><strong>Last Revision: August 2011</strong></p>
+	
+				</div>
+				
+				
+				
+				
+				
+			
+			
+		</div>
+		<div id="footerBlock">
+		<!-- START footer.cfm -->
+
+	
+	<div id="footerTop" class="ftr_eng">
+		
+		
+		<div id="footerMainNav">
+			 <ul>
+				
+<!-- TEMPLATE: emptyTemplate.cfm -->
+
+<li><a href="/eng/customerService/customerServiceHome.cfm">Customer Service</a></li>
+<li>|</li>
+<li><a href="/eng/aboutUs/history.cfm">About Us</a></li>
+<li>|</li>
+<li><a href="/eng/storeLocator/redirect.cfm?sectionID=b2c/storeLocator/storeLocator.cfm">Store Locator</a></li>
+<li>|</li>
+<li><a href="/eng/customerService/aboutproduct.cfm">Size Charts</a></li>
+<li>|</li>
+<li><a href="/eng/aboutUs/careers.cfm?&amp;var=d&amp;ckey=CA">Careers</a></li>
+<li>|</li>
+<li><a href="/eng/sitemap.cfm">Site Map</a></li> 
+			
+				<li>|</li>
+				<li><a href="http://www.suzyshier.com/fre/customerService/privacySecurity.cfm">Français</a></li>
+			 </ul>
+		</div>
+		
+		
+		<!-- START newsletterSignup.cfm -->
+
+
+<script language="javascript">
+	function __IsValidEmail(email) {
+		filter = /^[\w-]+(?:\.[\w-]+)*@(?:[\w-]+\.)+[a-zA-Z]{2,7}$/
+
+		//trim
+		email = email.replace(/^\s\s*/, '').replace(/\s\s*$/, '');
+
+		if (filter.test(email))	{
+			return true;
+			}
+		else {
+			return false;
+			}
+		}
+	
+	function getEmail(userIsLoggedIn){
+		document.form_SavingLeftNav.action = 'http://www.suzyshier.com/sharedpages/cfclib/newsletter/controller.cfc';
+		document.form_SavingLeftNav.submit();
+	}
+
+	function validateFormSavingsEmail(loggedIn) {
+		var emailValue = j$( "#form_SavingLeftNav input[name=email]" ).val();
+		// First verify that the email is in a  proper format
+		
+		if(!__IsValidEmail(emailValue))	{
+			
+			
+				alert("Please Enter A Valid Email.");
+				
+		}		
+		else if (__IsValidEmail(emailValue)) {
+			document.form_SavingLeftNav.action = 'http://www.suzyshier.com/sharedpages/cfclib/newsletter/controller.cfc';
+			document.form_SavingLeftNav.submit();
+			}
+		}
+		
+	function checkEmailEntry(obj){
+		if( obj.value == "Your email here" ){
+			obj.value = "";
+		} else if ( obj.value == "" ) {
+			obj.value = "Your email here";
+		}
+	}
+
+</script>
+
+	<div id="enterEmail">
+		<form name="form_SavingLeftNav" id="form_SavingLeftNav" method="post" action="javascript:validateFormSavingsEmail('NO');">
+			<label>Join our mailing list</label>
+			<input type="text" name="email" id="email" class="input" value="Your email here" onfocus="checkEmailEntry(this);" onblur="checkEmailEntry(this);">
+			
+			<input type="button" name="ftrSrc" id="ftrSrc" class="standardButton" value="Subscribe" onclick="javascript:validateFormSavingsEmail('NO');">
+			<input type="hidden" name="method" value="get">
+			<input type="hidden" name="lang" value="eng">
+			<input type="hidden" name="groupId" value="1">
+		</form>
+	</div>
+
+<!-- END newsletterSignup.cfm -->
+	</div>
+	
+	<div id="footerBot" class="ftr_eng">
+		<div id="footerSubNav">
+			<ul class="copyright">
+				
+<!-- TEMPLATE: emptyTemplate.cfm -->
+
+<li><span>©2011 SUZY'S INC.</span><span> | </span></li>
+<li><a href="/eng/customerService/privacySecurity.cfm">Privacy policy</a><span> | </span></li>
+<li><a href="/eng/customerService/termsOfUse.cfm">Terms of use</a></li>
+
+			</ul>
+		</div>
+		
+		<div id="socialMedia">
+			
+<!-- TEMPLATE: emptyTemplate.cfm -->
+
+ <a id="twBtn" target="_blank" href="http://twitter.com/#!/suzyshier">Follow us on Twitter</a> <a id="fbBtn" target="_blank" href="http://www.facebook.com/pages/Suzy-Shier/75838983698">Follow us on Facebook</a> 
+		</div>
+		
+		<div id="visaMc">
+			<div class="interac">
+				<a target="_blank" href="http://www.interac.ca/">
+					<img src="/_static/images/www/Shared/interac.gif">
+				</a>
+						
+			</div>
+			
+			<div class="visaLogo"> 
+				<a href="http://www.visa.ca/en/personal/securewithvisa/vbv/index.jsp" target="_blank"><img src="/_static/images/www/eng/vbv.gif"></a>
+			</div>
+		
+			<div class="mcLogo"> 
+				<a href="http://www.mastercard.com/ca/personal/en/cardholderservices/securecode/index.html" target="_blank"><img src="/_static/images/www/Shared/mc.gif"></a>
+			</div>
+			
+			<div class="verisign">
+				<a href="https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.suzyshier.com&amp;lang=en" target="_blank"><img src="/_static/images/www/Shared/verisignDev.gif" alt="verisign"></a>
+			</div>
+		</div>
+	</div>
+	
+
+<!-- END footer.cfm -->
+
+		</div>
+
+		<div id="topNavigation">
+			<!-- START topNavigation.cfm -->
+
+	
+	<div id="logo" class="bannerPlaceHolder">
+		<a href="http://www.suzyshier.com">
+			<span id="bphId_13" class="bannerPlaceHolder"><img src="/_static/webupload/33/3373_1.gif" ""=""></span>
+		</a>
+	</div>
+
+          <script language="javascript" type="text/javascript">
+               function CloseShoppingCartPopUp() {
+                    $('shoppingBagWindow').style.display = 'none';
+                    }
+
+               function ShoppingBagGoToCheckout() {
+                    showAlert({url:'http://www.suzyshier.com/sharedpages/frontEndComponents/specificComponents/b2c/shoppingCart/shoppingCartDetails.cfm',cssClass:'alertboxCVC'});
+                    //openShoppingBag();
+					//window.location.href ='http://www.suzyshier.com/eng/storeSection/redirect.cfm?sectionID=b2c/shoppingcart/shoppingcartdetails.cfm&var=d&ckey=CA';
+               }
+          </script>
+
+          
+
+          <script language="javascript" type="text/javascript">
+			function Checkout() {
+				document.location='/eng/checkout/redirect.cfm?sectionID=b2c/myAccount/userProfile_userLogin.cfm&chkOut=Y&var=d&ckey=CA';
+				}
+
+				function shoppingBagClick(){					
+					var iFrameContent = "<div id='shoppingCartDetailsDiv'><iframe id='shoppingCartDetails' src='' width='760' height='595' frameborder='0' marginwidth='0' marginheight='0'></iframe></div>";
+					
+					CloseShoppingCartPopUp();
+					
+					j$( iFrameContent ).dialog({ 
+							autoOpen: true
+						,	width: 870
+						,	height: "auto"
+						,	modal: true
+						,	close:  function(ev, ui){
+								refreshShoppingCartText();
+								j$('#shoppingCartDetailsDiv').remove();
+							}
+					});
+					
+					j$('.ui-icon').html( translate.close );
+					j$('#shoppingCartDetailsDiv #shoppingCartDetails' ).attr( "src", "http://www.suzyshier.com/sharedpages/frontEndComponents/specificComponents/b2c/shoppingCart/shoppingCartDetailsPopUp.cfm");
+					//showAlert({url:'http://www.suzyshier.com/sharedpages/frontEndComponents/specificComponents/b2c/shoppingCart/shoppingCartDetailsPopUp.cfm'});
+					//openShoppingBag(0,0,'&var=d&ckey=CA');
+				}
+				
+				function closeShoppingBagClick(){
+					j$('#shoppingCartDetailsDiv').dialog('close');
+					j$('#shoppingCartDetailsDiv').remove();					
+				}
+          </script>
+
+
+     
+
+          <div id="toolBar">
+               <!-- START toolbar.cfm -->
+
+
+
+<div id="topShoppingCart">
+	
+				<a href="javascript:shoppingBagClick();" onmouseover="ShowShopingCartPopUpDelay()" onmouseout="ShowShopingCartPopClearTimeout()">
+					<div id="shoppingCartItemText">Shopping bag</div>
+					
+						<div id="ShoppingBagInfoLine" class="floatLeft">(  0  )</div>
+					
+				</a>				
+				
+				<div id="ShoppingBagCheckout" class="floatLeft">
+					<span>|</span>
+					<a href="javascript:gotoCheckout();" style="text-decoration:none;">Checkout</a>
+				</div>				
+			
+</div>	
+
+<div id="subNavHeader">
+	<div id="subNavHeaderCnt">
+		<div id="headerLinks">
+			
+			
+				<ul>
+				
+					<li><a href="http://www.suzyshier.com/eng/storeSection/redirect.cfm?sectionID=b2c/myAccount/userProfile_userLogin.cfm&amp;var=d&amp;ckey=CA&amp;ref=login">register</a><span style="float:left; margin:0 2px;">/</span><a href="http://www.suzyshier.com/eng/storeSection/redirect.cfm?sectionID=b2c/myAccount/userProfile_userLogin.cfm&amp;var=d&amp;ckey=CA&amp;ref=login">login</a><span>|</span></li>
+					
+				
+				</ul>
+				
+			
+			<ul>
+				
+			 	
+				
+				<li><a href="javascript:getEmail('NO')">Get Email</a><span>|</span></li>
+				<li><a href="http://www.suzyshier.com/eng/customerService/customerServiceHome.cfm">Need Help?</a><span>|</span></li>
+			</ul>
+		</div>
+		
+		
+		
+		<div id="topForm" class="topFormBackgroundeng">
+			
+			<script language="javascript">
+				
+				function gotoCheckout(){
+					document.location.href="http://www.suzyshier.com/eng/checkout/redirect.cfm?sectionID=b2c/myAccount/userProfile_userLogin.cfm&chkOut=Y&var=d&ckey=CA";
+				}
+				
+				var useUrlRewrite = "true";
+				
+					var keyword_search_type = "icongo";
+				
+		
+				function trim(str, chars) {
+				    return ltrim(rtrim(str, chars), chars);
+				}
+		
+				function ltrim(str, chars) {
+				    chars = chars || "\\s";
+				    return str.replace(new RegExp("^[" + chars + "]+", "g"), "");
+				}
+		
+				function rtrim(str, chars) {
+				    chars = chars || "\\s";
+				    return str.replace(new RegExp("[" + chars + "]+$", "g"), "");
+				}
+		
+		
+				function submitSearchFormOnTop() {
+					try	{
+						//var selectedValue = document.getElementById('searchSection').options[document.getElementById('searchSection').selectedIndex].value;
+						//var actionVal = 'http://www.suzyshier.com/eng/storeSection/redirect.cfm?sectionID=b2c/search/productSearchResults.cfm&SearchByKeyword=Y';
+		
+						var actionVal = 'http://www.suzyshier.com';
+						var selectedValue = document.getElementById('searchSection').options[document.getElementById('searchSection').selectedIndex].value;
+						var keyword = document.getElementById('searchTerm').value;
+		
+						while(keyword.indexOf(' ') != -1) {
+							keyword = keyword.replace(' ','_');
+						}
+		
+						actionVal = actionVal+'/eng/search/'+selectedValue+'-'+ escape(keyword);
+						document.getElementById('form_search').setAttribute('action',actionVal);
+						document.getElementById('form_search').submit();
+					} catch(e) {
+						document.getElementById('searchSection').disabled = false;
+						document.getElementById('searchTerm').disabled = false;
+					}
+				}
+		
+				function submitSearchFormOnTopNourlRewrite() {
+					try	{
+						var selectedValue = document.getElementById('searchSection').options[document.getElementById('searchSection').selectedIndex].value;
+						var actionVal = 'http://www.suzyshier.com/eng/storeSection/redirect.cfm?sectionID=b2c/search/productSearchResults.cfm&SearchByKeyword=Y';
+		
+						//var actionVal = 'http://www.suzyshier.com';
+						// selectedValue = document.getElementById('searchSection').options[document.getElementById('searchSection').selectedIndex].value;
+						var keyword = document.getElementById('searchTerm').value;
+		
+						while(keyword.indexOf(' ') != -1) {
+							keyword = keyword.replace(' ','_');
+						}
+						document.getElementById('form_search').setAttribute('action',actionVal);
+						document.getElementById('form_search').submit();
+					} catch(e) {
+						document.getElementById('searchSection').disabled = false;
+						document.getElementById('searchTerm').disabled =false;
+					}
+				}
+		
+				function submitSearchFormNexTopia() {
+					var selectedValue = document.getElementById('searchSection').options[document.getElementById('searchSection').selectedIndex].value;
+					var actionVal = 'http://www.suzyshier.com/search/';
+					var keyword = trim(document.getElementById('searchTerm').value);
+		
+					if(keyword == '' || keyword == 'search for costumes') {
+						showAlert({message:'Please enter a keyword to search',closeBText:'x',cssClass:'alertboxSmall'});
+					} else {
+						keyword = keyword.replace(/\s+/g,'_').replace(/-/g,'~');
+		
+						actionVal = actionVal + document.getElementById('searchSection').value;
+						actionVal = actionVal + '-' + keyword;
+						document.getElementById('form_search').setAttribute('action',actionVal);
+						document.getElementById('form_search').submit();
+					}
+				}
+				
+				
+		
+				function submitSearchFormById(id) {
+					var t = 'sel-'+id;
+					var index = document.getElementById(t).index
+					document.getElementById('searchSection').options[index].selected=true;
+					submitSearchFormOnTop();
+				}
+		
+				function submitenter(myfield,e) {
+					var keycode;
+					if (window.event) keycode = window.event.keyCode;
+					else if (e) keycode = e.which;
+					else return true;
+		
+					if (keycode == 13) {
+						// submitSearchFormOnTop();
+						if ( window.keyword_search_type && keyword_search_type == "nextopia" ) {
+							submitSearchFormNexTopia();
+						} else if ( useUrlRewrite ) {
+							submitSearchFormOnTop();
+						} else {
+							submitSearchFormOnTopNourlRewrite();
+						}
+						return false;
+					} else {
+						return true;
+					}
+				}
+				
+				function checkKeywordEntry(obj){
+					if( obj.value == "Input keyword" ){
+						obj.value = "";
+					} else if ( obj.value == "" ) {
+						obj.value = "Input keyword";
+					}
+				}
+		
+			</script>
+			
+			
+				<a class="advancedSearch displayNone" href="http://www.suzyshier.com/eng/storesection/redirect.cfm?sectionID=b2c/search/productSearchForm.cfm&amp;var=d&amp;var=d&amp;ckey=CA">advanced search</a>
+			
+				<form id="form_search" name="form_search" action="" method="post">
+					<label>SEARCH</label>
+					<input type="text" name="keywords" id="searchTerm" value="Input keyword" onkeypress="return submitenter(this,event)" onfocus="checkKeywordEntry(this);" onblur="checkKeywordEntry(this);">
+					<input type="hidden" name="isKeywordSearch" id="isKeywordSearch" value="true">
+					<select name="section" id="searchSection">
+						<option selected="selected" value="EntireSite">Entire site</option>
+						
+								<option id="728" value="Accessories">Accessories</option>
+							
+								<option id="724" value="Footwear">Footwear</option>
+							
+								<option id="698" value="Styles">Styles</option>
+							
+								<option id="736" value="Special-Offers">Special Offers</option>
+							
+								<option id="735" value="Sales">Sale</option>
+							
+					</select>
+			
+					
+						<input class="search_eng" type="button" id="srcGo" value="GO" name="srcGo" onclick="javascript:submitSearchFormOnTop();">
+					
+				</form>
+			
+		</div>
+	</div>
 </div>
-                                                <!-- END TOP MENU -->
-                                            </td>
-                                        </tr>
-                                    </tbody></table>
-                                        
-                                </td>
-                            </tr>
-                        </tbody></table>
-                    </td>
-                </tr>
-                <tr>
-                    <td align="left" valign="top" style="width: 750px">
-                        <table width="100%" cellpadding="0" cellspacing="0" border="0">
-                        <tbody><tr>
-                                <td align="left" class="breadcrumb" valign="top">Privacy Policy</td>
-                           </tr>
-                            <tr>
-                                <td align="left" valign="top" height="330" style="width: 100%;border:1px solid silver;border-top:0px solid silver">
-                                    
-                                    <!-- CONTENTS START -->
-                                    <!-- READ FROM DB --><table width="748" height="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-	<td width="150" height="100%" valign="top" bgcolor="#F0F0F0" style="border-right:1px silver solid"> 
-      <table width="150" border="0" cellpadding="0" cellspacing="0" class="cs_textbold">
-  <tbody><tr> 
-    <td class="cs_menu_header"><strong>CUSTOMER SERVICE</strong> </td>
-  </tr>
-  <tr> 
-    <td class="cs_menu"><a href="t-faq.aspx">FAQ’s</a></td>
-  </tr>
-  <tr> 
-    <td class="cs_menu"><a href="t-account_create.aspx">Your Account</a></td>
-  </tr>
-  <tr> 
-    <td class="cs_menu"><a href="t-order_place.aspx">About Ordering</a></td>
-  </tr>
-  <tr> 
-    <td class="cs_menu"><a href="t-shipping_returns_options.aspx">Shipping &amp; 
-      Returns</a></td>
-  </tr>
-  <tr> 
-    <td class="cs_menu_header_sub"><a href="t-privacy_policy.aspx">Privacy &amp; 
-      Security</a></td>
-  </tr>
-  <tr> 
-    <td class="cs_menu_sub"><a href="t-terms.aspx">Terms &amp; Conditions</a></td>
-  </tr>
-  <tr> 
-    <td class="cs_menu_sub_select"><a href="t-account_signup.aspx">•</a> 
-      <a href="t-privacy_cookies.aspx"><strong></strong></a><a href="t-privacy_policy.aspx">Privacy 
-      Policy </a></td>
-  </tr>
-  <tr> 
-    <td class="cs_menu_sub"><a href="t-privacy_security.aspx">Credit Card Security 
-      </a></td>
-  </tr>
-  <tr> 
-    <td class="cs_menu_sub"><a href="t-privacy_cookies.aspx">Cookies </a></td>
-  </tr>
-  <tr> 
-    <td class="cs_menu"><a href="t-about.aspx">About Us</a></td>
-  </tr>
-  <tr> 
-    <td></td>
-  </tr>
-</tbody></table></td>
-	<td width="600" valign="top" class="cs_text" style="padding-left: 20px; padding-right: 20px">
-	  
-		<div align="justify"><br><br>
-		<span class="cs_title">
-	  PRIVACY POLICY</span><br>
-		<br>
-				<span class="cs_textbold">PERSONAL INFORMATION </span><br>
-		Personal information is information about an identifiable individual. Suzy maintains physical, electronic and procedural safeguards to protect the personal information it collects or is provided about its customers.<br>
-		<br>
-	  
-		<span class="cs_textbold">COLLECTION OF PERSONAL INFORMATION </span><br>
-		You may browse the Site without providing any personal information but at various places, Suzy may ask for personal information, such as when you subscribe to our electronic fashion magazine, Revealed.<br>
-		<br>
-	  
-		<span class="cs_textbold">COLLECTION AND USE OF OTHER INFORMATION </span><br>
-		The Site automatically collects information by way of electronic means, such as the Internet domain name ("IP Address") assigned to your computer or browser software when you are on the Internet. We may use IP Addresses to obtain aggregate data for the purposes of improving the design or content of the Site. We may also use the aggregate data to analyse and improve our services and in connection with internal administrative and planning activities.<br>
-		<br>
-	  
-		<span class="cs_textbold">USES OF PERSONAL INFORMATION </span><br>
-		Suzy uses the personal information that you provide it, or authorize it to collect, to gauge customer preferences so as to improve the quality of its services. In this respect, we use personal information to tailor the design and content of the Site to better reflect our customers' interests and preferences.<br>
-		<br>
-	  We also use personal information for marketing and promotional purposes which may include sending you updates on special events, such as exclusive contests and added-value sampling events, and advance notice of new arrivals, promotions and store openings.<br>
-		<br>
-	  If you subscribe to Revealed, you will be asked to provide personal information including your e-mail address and birth date, which Suzy will use to send you the magazine and marketing and promotional materials, such as invitations to added-value events and the other materials and notices described above.<br>
-		<br>
-	  
-		<span class="cs_textbold">DISCLOSURE OF PERSONAL INFORMATION </span><br>
-		Suzy may transfer the personal information it collects to its head office. Suzy may share information about customer preferences, experiences and transactions, some of which may be personal information, among its stores to improve its products and services.<br>
-		<br>
-	  Suzy will not provide, transfer, sell or rent your personal information to an unrelated third party unless Suzy is sold or merges with another company, in which circumstances Suzy may disclose your personal information to our purchaser or the new company formed of the merger, or Suzy is required by law to provide access to your personal information, for example in connection with legal proceedings.<br>
-		<br>
-	  
-		<span class="cs_textbold">POLICY ON CHILDREN'S PRIVACY </span><br>
-		Suzy does not knowingly collect from or use personal information about children (minors younger than 14). If you are a parent and believe we may have inadvertently collected such information from your child, please notify us immediately by e-mail at operationshr@suzyshier.ca<br>
-		<br>
-	  
-		<span class="cs_textbold">CONTACT INFORMATION </span><br>
-		If you need additional information about this privacy policy or our personal information management practices, or if you want to access the personal information that Suzy has collected about you, inform us of any personal information we have that you believe is incorrect or incomplete, or have us investigate concerns about our personal information practices, please contact us by e-mail at <a href="mailto:operationshr@suzyshier.ca">operationshr@suzyshier.ca</a><br>
-		<br>
-			  <br>
-
-	  </div></td>
-  </tr>
-</tbody></table><!-- END OF DB -->
 
 
-                                    <!-- CONTENTS END -->
-                                </td>
-                            </tr>
-                        </tbody></table>
-                       
-                    </td>
-                </tr>
-                </tbody></table>
-                <table width="750" border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr>
-                    <td colspan="2">
-                        <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border:1px solid silver;border-top:0px solid silver">
-                            <tbody><tr>
-                                <td align="left" valign="top" style="width: 479px; background-image: url('skins/skin_1/images/footer_bg.gif')">
-                                  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="479" height="45" align="">
-  <param name="movie" value="skins/skin_1/flash/newsletter_footer.swf">
-  <param name="quality" value="high">
-  <param name="wmode" value="transparent">
-  <param name="bgcolor" value="#FFFFFF">
-  <embed src="skins/skin_1/flash/newsletter_footer.swf" quality="high" wmode="transparent" bgcolor="#FFFFFF" width="479" height="45" align="" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/go/getflashplayer"> 
-</object></td>
-                                <td align="right" valign="middle" class="head" style="width: 70px; background-image: url('skins/skin_1/images/footer_bg.gif')">
-                                    Sign up
-                                  <br>
-                                  for email 
+<!-- END toolBar.cfm -->
+          </div>
+		
+		
 
-                                </td>
-                                <td style="width:191px;padding-top:3px; background-image: url('skins/skin_1/images/footer_bg.gif')" valign="middle" align="right"> 
-      <input type="text" id="signup_email" name="signup_email" value="YOUR E-MAIL" size="25" onfocus="clearField()"></td>
-	<td style="width:30px;padding-top:3px; background-image: url('skins/skin_1/images/footer_bg.gif')"> 
-      <input name="Submit" type="image" onclick="checkMail('');" value="Submit" src="skins/skin_1/images/ok.gif" width="28" height="28" vspace="5" border="0"></td>
-                            </tr>
-                            
-                        </tbody></table>
-                    </td>
-                </tr>
-                <tr>
-                    <td colspan="2">
-                        <div align="center" class="CartInfo">
-                            <br>
-<div align="center" class="CartInfo"><br><a href="t-about.aspx" class="head">About Us</a> |
-            <a href="t-faq.aspx" class="head">Customer Service</a> |
-            <a href="t-privacy_policy.aspx" class="head">Privacy Policy</a>
-            | <a href="t-terms.aspx" class="head">Terms of Use</a>
-            | <a href="t-contact.aspx" class="head">Contact Us</a> |
-            <a href="t-careers.aspx" class="head">Careers</a> |
-            <a href="t-locations.aspx?myprovince=NA" class="head">Store Locator</a> |
-            <a href="setlocale.aspx?localesetting=fr-FR" class="head">Francais</a><br><br>
-            ©2006 Suzy's Inc. All rights reserved.
-            <br><br></div>
-                            
-                        </div>
-                       
-                    </td>
-                </tr>
-            </tbody></table>
-
-        </div>
-    </div>
-   <script type="text/javascript" src="ieupdate.js"></script>
-   <script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-955206-1";            
-urchinTracker();
-</script>
+          
+               <div id="navigationMenu">
+                    <!-- START mainMenu.cfm -->
 
 
+	
+		<ul id="topMenuSections" class="nav menu_eng">
+			
+				<li id="lev1opt1" class="">
+					<a href="http://www.suzyshier.com/eng/categories/new-arrivals">New Arrivals</a>
+				</li>
+				
+				
+				<li id="lev1opt2" class="featuresDropdown">
+					<a href="#" onclick="return false;">Features</a>
+					
+					<ul class="level2Main">						
+						<li>
+							<ul id="" class="featuresLinks">
+								<li><a href="http://www.suzyshier.com/eng/categories/new-arrivals">New Arrivals</a></li>
+								<li><a href="http://www.suzyshier.com/eng/outfits/">Must Have Looks</a></li>
+								
+								
+								
+									<li><a href="http://www.suzyshier.com/eng/gallery-WhatsHot">What's Hot</a></li>
+								
+							</ul>
+							
+							
+							
+								<h3>Collections:</h3>
+								
+								<ul class="collectionsLinks">
+								
+									<li>
+										<a href="http://www.suzyshier.com/eng/gallery-Glitterati">Glitterati</a>		
+									</li>
+									
+									<li>
+										<a href="http://www.suzyshier.com/eng/gallery-Vamp">Vamp</a>		
+									</li>
+									
+									<li>
+										<a href="http://www.suzyshier.com/eng/gallery-WallStreet">Wall Street</a>		
+									</li>
+									
+										</ul>
+									
+						</li>
+					</ul>
+				</li>
+				
+				
+				
+						<li id="lev1opt3"><a class="level1" href="http://www.suzyshier.com/eng/categories/styles">Styles</a>
+						
+						
+									<ul class="level2Main">						
+										<li>
+										<ul id="storeNavSlidestyles" class="level2 firstList">
+									
+									<li>
+									<a href="http://www.suzyshier.com/eng/categories/styles/blazers--vests">Blazers &amp; Vests </a>
+									
+									
+									</li><li>
+									<a href="http://www.suzyshier.com/eng/categories/styles/bottoms">Bottoms <span class="menuExpandArrow">»</span></a>
+									
+									
+										<ul class="level3">
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/styles/bottoms/capris--shorts">Capris &amp; Shorts</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/styles/bottoms/jeans">Jeans</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/styles/bottoms/leggings">Leggings</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/styles/bottoms/pants">Pants</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/styles/bottoms/skirts">Skirts</a></li>
+											
+										</ul>
+									
+									</li><li>
+									<a href="http://www.suzyshier.com/eng/categories/styles/dresses">Dresses <span class="menuExpandArrow">»</span></a>
+									
+									
+										<ul class="level3">
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/styles/dresses/everyday">Everyday</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/styles/dresses/maxi-dresses">Maxi Dresses</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/styles/dresses/special-occasion">Special Occasion</a></li>
+											
+										</ul>
+									
+									</li><li>
+									<a href="http://www.suzyshier.com/eng/categories/styles/jackets">Jackets </a>
+									
+									
+									</li><li>
+									<a href="http://www.suzyshier.com/eng/categories/styles/outerwear">Outerwear </a>
+									
+									
+									</li><li>
+									<a href="http://www.suzyshier.com/eng/categories/styles/shirts--blouses">Shirts &amp; Blouses </a>
+									
+									
+									</li><li>
+									<a href="http://www.suzyshier.com/eng/categories/styles/suit-collection">Suit Collection </a>
+									
+									
+									</li><li>
+									<a href="http://www.suzyshier.com/eng/categories/styles/sweaters">Sweaters <span class="menuExpandArrow">»</span></a>
+									
+									
+										<ul class="level3">
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/styles/sweaters/cardigans">Cardigans</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/styles/sweaters/long-sleeve">Long Sleeve</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/styles/sweaters/short-sleeve">Short Sleeve</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/styles/sweaters/sleeveless">Sleeveless</a></li>
+											
+										</ul>
+									
+									</li><li>
+									<a href="http://www.suzyshier.com/eng/categories/styles/tops">Tops <span class="menuExpandArrow">»</span></a>
+									
+									
+										<ul class="level3">
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/styles/tops/long-sleeve">Long Sleeve</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/styles/tops/short-sleeve">Short Sleeve</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/styles/tops/sleeveless">Sleeveless</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/styles/tops/tees--tanks">Tees &amp; Tanks</a></li>
+											
+										</ul>
+									
+										</li></ul>
+										<ul id="storeNavSlidestyles" class="level2 lastList">
+									
+									</ul>
+									</li>
+									</ul>
+								
+						</li><li id="lev1opt4"><a class="level1" href="http://www.suzyshier.com/eng/categories/footwear">Footwear</a>
+						
+						
+									<ul class="level2Main">						
+										<li>
+										<ul id="storeNavSlidefootwear" class="level2 firstList">
+									
+									<li>
+									<a href="http://www.suzyshier.com/eng/categories/footwear/boots">Boots </a>
+									
+									
+									</li><li>
+									<a href="http://www.suzyshier.com/eng/categories/footwear/shoes">Shoes </a>
+									
+									
+									</li></ul>
+									</li>
+									</ul>
+								
+						</li><li id="lev1opt5"><a class="level1" href="http://www.suzyshier.com/eng/categories/accessories">Accessories</a>
+						
+						
+									<ul class="level2Main">						
+										<li>
+										<ul id="storeNavSlideaccessories" class="level2 firstList">
+									
+									<li>
+									<a href="http://www.suzyshier.com/eng/categories/accessories/belts">Belts </a>
+									
+									
+									</li><li>
+									<a href="http://www.suzyshier.com/eng/categories/accessories/handbags">Handbags </a>
+									
+									
+									</li><li>
+									<a href="http://www.suzyshier.com/eng/categories/accessories/hats-gloves--scarves">Hats, Gloves &amp; Scarves </a>
+									
+									
+									</li><li>
+									<a href="http://www.suzyshier.com/eng/categories/accessories/jewelry">Jewelry </a>
+									
+									
+									</li><li>
+									<a href="http://www.suzyshier.com/eng/categories/accessories/socks-tights">Socks &amp; Tights </a>
+									
+									
+									</li></ul>
+									</li>
+									</ul>
+								
+						</li><li id="lev1opt6"><a class="level1" href="http://www.suzyshier.com/eng/categories/special-offers">Special Offers</a>
+						
+						
+									<ul class="level2Main">						
+										<li>
+										<ul id="storeNavSlidespecial-offers" class="level2 firstList">
+									
+									<li>
+									<a href="http://www.suzyshier.com/eng/categories/special-offers/styles">Styles <span class="menuExpandArrow">»</span></a>
+									
+									
+										<ul class="level3">
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/special-offers/styles/blazers--vests">Blazers &amp; Vests</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/special-offers/styles/bottoms">Bottoms</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/special-offers/styles/dresses">Dresses</a></li>
+											
+												<li><a href="">Jackets</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/special-offers/styles/outerwear">Outerwear</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/special-offers/styles/shirts--blouses">Shirts &amp; Blouses</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/special-offers/styles/suit-collection">Suit Collection</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/special-offers/styles/sweaters">Sweaters</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/special-offers/styles/tops">Tops</a></li>
+											
+										</ul>
+									
+									</li></ul>
+									</li>
+									</ul>
+								
+						</li><li id="lev1opt7"><a class="level1" href="http://www.suzyshier.com/eng/categories/sales">Sale</a>
+						
+						
+									<ul class="level2Main">						
+										<li>
+										<ul id="storeNavSlidesales" class="level2 firstList">
+									
+									<li>
+									<a href="http://www.suzyshier.com/eng/categories/sales/accessories">Accessories <span class="menuExpandArrow">»</span></a>
+									
+									
+										<ul class="level3">
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/sales/accessories/belts">Belts</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/sales/accessories/handbags">Handbags</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/sales/accessories/hats-gloves--scarves">Hats, Gloves &amp; Scarves</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/sales/accessories/jewelry">Jewelry</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/sales/accessories/socks-tights">Socks &amp; Tights</a></li>
+											
+										</ul>
+									
+									</li><li>
+									<a href="http://www.suzyshier.com/eng/categories/sales/footwear">Footwear <span class="menuExpandArrow">»</span></a>
+									
+									
+										<ul class="level3">
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/sales/footwear/boots">Boots</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/sales/footwear/sandals">Sandals</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/sales/footwear/shoes">Shoes</a></li>
+											
+										</ul>
+									
+									</li><li>
+									<a href="http://www.suzyshier.com/eng/categories/sales/styles">Styles <span class="menuExpandArrow">»</span></a>
+									
+									
+										<ul class="level3">
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/sales/styles/activewear">Activewear</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/sales/styles/blazers--vests">Blazers &amp; Vests</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/sales/styles/bottoms">Bottoms</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/sales/styles/dresses">Dresses</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/sales/styles/jackets">Jackets</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/sales/styles/outerwear">Outerwear</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/sales/styles/shirts--blouses">Shirts &amp; Blouses</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/sales/styles/suit-collection">Suit Collection</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/sales/styles/sweaters">Sweaters</a></li>
+											
+												<li><a href="http://www.suzyshier.com/eng/categories/sales/styles/tops">Tops</a></li>
+											
+										</ul>
+									
+									</li></ul>
+									</li>
+									</ul>
+								
+			</li><li id="lev1opt8" class=""><a href="/eng/giftCard/redirect.cfm?sectionID=b2c/giftCards/displayGiftCardItem.cfm&amp;var=d&amp;ckey=CA">Gift cards</a></li>
+			
+			<li id="lev1opt9" class=""><a href="/eng/membership/redirect.cfm?sectionID=b2c/membership/displayMembershipItem.cfm">Prestige cards</a></li>
+		</ul>
+	
 
-</body></html>
+<!-- END mainMenu.cfm -->
+
+               </div>
+          
+		  
+		  
+		  
+		 
+		  
+		  
+		  
+		  
+          <form name="logoutUser" method="post" action="/sharedPages//frontEndComponents/specificComponents/b2c/servlet/myAccount/logout.cfm?&amp;var=d&amp;ckey=CA&amp;useNextPage=Y">
+               <input type="hidden" name="nextPage" value="http://www.suzyshier.com/store.cfm?lang=eng&amp;ckey=CA">
+          </form>
+
+          <div class="searchWindow" id="searchBox" style="display:none;">
+               <div class="searchFormContainer">
+               
+               </div>
+               <button class="searchBtnClose" type="submit">x</button>
+               <div class="searchBackground"></div>
+          </div>
+		
+          <div class="myAccountWindow" id="myAccountBox" style="display:none;">
+               <div class="closeX"><a href="javascript:void(0)" onclick="javascript:hideBox('myAccountBox');">x</a></div>
+               <ul>
+                    
+                         <li><a href="https://www.suzyshier.com/eng/storeSection/redirect.cfm?sectionID=b2c/myAccount/userProfile_userLogin.cfm&amp;var=d&amp;ckey=CA&amp;ref=login">register</a></li>
+                         <li><a href="https://www.suzyshier.com/eng/storeSection/redirect.cfm?sectionID=b2c/myAccount/userProfile_userLogin.cfm&amp;var=d&amp;ckey=CA&amp;ref=login">login</a></li>
+                         
+                         
+                              <li><a href="http://www.suzyshier.com/eng/storeSection/redirect.cfm?sectionID=b2c/myAccount/userProfile_userLogin.cfm&amp;goToPage=favoritesListing&amp;var=d&amp;ckey=CA">Wish List</a></li>
+                         
+               </ul>
+          </div>		
+		
+
+     
+     
+<!-- END topNavigation.cfm -->
+
+		</div>
+		
+		
+
+	
+<div class="boxBlock" id="shoppingBagWindow" style="display:none;" onmouseover="ShowShopingCartPopClearTimeout()" onmouseout="CloseShopingCartPopUpDelay();">
+	<!--[if lte IE 6.5]><iframe></iframe><![endif]-->
+	<div id="alertBoxContent">
+		<div id="alertBoxCloseButton"><button type="submit" onclick="CloseShoppingCartPopUp();">&nbsp;</button></div>
+		<div class="title displayNone">SHOPPING BAG</div>
+		<div id="ShippingBagLineItems"></div>
+		<div id="bagButtons">
+		
+				<a href="#" class="standardButton continueBtn" name="continue shopping" onclick="CloseShoppingCartPopUp();"><span>continue shopping</span></a>
+				<a href="http://www.suzyshier.com/eng/checkout/redirect.cfm?sectionID=b2c/myAccount/userProfile_userLogin.cfm&amp;chkOut=Y&amp;var=d&amp;ckey=CA" class="standardButton checkoutBtn" name="checkout" return="" false;"=""><span>checkout</span></a>
+				
+		
+	</div>
+</div>
+
+	</div>
+	
+	
+	<!-- START coremetrics.cfm -->
+
+<!-- END coremetrics.cfm -->
+	<!-- START google.cfm -->
+
+									<script type="text/javascript" src="/sharedpages/javascript/gatag_v2.js"></script>
+					
+					
+					<script type="text/javascript">
+						var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+						document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+					</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	
+					<script type="text/javascript">
+						var pageTracker = _gat._getTracker("UA-955206-1");
+						
+						
+							pageTracker._trackPageview();
+						
+					</script>
+				 
+<!-- END google.cfm -->
+	
+
+
+
+</div></body></html>
