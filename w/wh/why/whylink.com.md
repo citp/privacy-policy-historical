@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whylink.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518155658id_/http%3A//whylink.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whylink.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123110407id_/http%3A//www.whylink.com/privacy.php) for the most accurate reproduction.*
 
 # WhyLink.com: Privacy Policy
 
