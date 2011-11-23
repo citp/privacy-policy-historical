@@ -1,0 +1,77 @@
+> *The following text is extracted and transformed from the wevideo.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123155846id_/http%3A//www.wevideo.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | WeVideo
+
+_Revised: September 13, 2011_
+
+  Your privacy is very important to us.  We have prepared this Privacy Policy to explain how we collect, use protect, and disclose information and data when you use the (www.wevideo.com) website (" ** _Site_** ") or WeVideo services (" ** _Services_** ").  This Privacy Policy also explains your choices for managing your information preferences, including opting out of certain uses of your Personal Information.  By using the Site or Services you consent to this Privacy Policy. 
+
+###  **Managing Your Information Preferences**
+
+You can always review, correct, update, or change your Personal Information through your account settings or by contacting us at support@wevideo.com.  You can opt out of receiving certain e-mails by changing the relevant settings in your profile or account.  If you have questions or concerns regarding this Privacy Policy, please e-mail us at support@wevideo.com.
+
+###  **Information We Collect**
+
+### _Personal Information_
+
+We collect information that personally identifies you, such as your name, username, e-mail, and other personally identifiable information that you choose to provide us with or that you choose to include in your profile or account (" ** _Personal Information_** ").  You may be asked to provide us with Personal Information when you register with the Site or use any of our Services, and at other times.  The decision to provide this information is optional.  However, if you choose not to provide the requested information, you may not be able to use some or all of the features of the Site or Services.
+
+###  _Usage Data and Site Activity_
+
+We automatically collect information regarding the actions you take on the Site, such as liking content, as well as all of your entries and submissions on the Site, such as your comments, your posts, and other similar information (" ** _Usage Data_** ").  For example, each time you use the Site we automatically collect the type of Web browser you use, your operating system, your Internet Service Provider, your IP address, the pages you view, and the time and duration of your visits to the Site.  This anonymous usage information may be associated with your username and profile, but we do not disclose the associated information to third parties.  We use this information to help us understand how people use the Site and Services, and to enhance the services we offer. 
+
+###  _Cookies and Web Beacons_
+
+We use cookies (a small text file placed on your computer to identify your computer and browser).  We also use Web beacons (an electronic file placed on a Web site that monitors usage).  We use cookies and Web beacons to improve the experience of the Site and Services, such as pre-populating your username for easier login.  We do not use cookies or Web beacons to collect Personal Information.  Most Web browsers are initially set up to accept cookies.  You can reset your Web browser to refuse all cookies or to indicate when a cookie is being sent.  However, certain features of the Site or Services may not work if you delete or disable cookies.  Some of our Service Providers may use their own cookies and Web beacons in connection with the services they perform on our behalf.
+
+###  **How We Use Information and When We May Share and Disclose Information Generally**
+
+We use Personal Information for internal purposes only, such as to provide you with the Site and Services, to improve the Site and Services, to notify you of new products or Services, and to otherwise communicate with you about our products and services.  We may also use your Personal Information to provide more relevant search results from the search functions of the Site and the Services.  We will not disclose Personal Information to third parties, including for their direct marketing purposes, without your consent, except as explained in this Privacy Policy.  We may disclose to third parties, certain Usage Data regarding the Site and Services.  However, in such cases, your Usage Data is aggregated with the Usage Data of others and does not identify you individually.
+
+###  **Profile Information You Make Available to Others**
+
+By using the Site or the Services you may make certain of your Personal Information available to others.  For example, if your username contains your real name, and you post a comment on the Site, other users may see your name, the city you live in and other information from your profile that you choose to make available to others.  You can control the information in your profile that you wish to make available to others in the account settings portion of the Site.  The information you choose to make available, may be accessed by users who use the Site and may be accessed by commercial search engines such as Google, Yahoo! and Bing to the extent that such engines are permitted to access the Site.
+
+###  **Third Party Services and Applications**
+
+Through the Site and the Services, you may elect to access third-party services and applications, such as Facebook and other social networks.  When you do so, you may be able to import information from those other services and applications and share content with those services.  Some of those third-party services may also provide us with information from your accounts which may enable us to enhance and personalize your use of the Site and Services (e.g., so that you can follow your Facebook friends’ activity on the Site).  If you elect to enable such third-party services or applications on the Site or Services, the information you share with such third-party services and applications will be subject to their privacy policies.
+
+###  **Service Providers**
+
+From time to time, we may establish a business relationship with other businesses whom we believe trustworthy and who have confirmed that their privacy practices are consistent with ours (" ** _Service Providers_** ").  For example, we may contract with Service Providers to provide certain services, such as hosting and maintenance, data storage and management, and marketing and promotions.  We only provide our Service Providers with the information necessary for them to perform these services on our behalf.  Each Service Provider must agree to use reasonable security procedures and practices, appropriate to the nature of the information involved, in order to protect your Personal Information from unauthorized access, use or disclosure.  Service Providers are prohibited from using Personal Information other than as specified by us.
+
+###  **Advertising**
+
+We may allow third-party companies to serve ads and/or collect certain anonymous information when you visit our Site.  These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of interest to you.  These companies typically use a cookie or third party Web beacon to collect this information.  To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/. 
+
+###  **Other Transfers**
+
+We may share Personal Information and Usage Data with businesses controlling, controlled by, or under common control with is.  If we are merged, acquired, or sold, or in the event of a transfer of some or all of our assets, we may disclose or transfer Personal Information and Usage Data in connection with such transaction.  You will have the opportunity to opt out of any such transfer if, in our discretion, the new entity plans to handle your information in a way that differs materially from this Privacy Policy.
+
+###  **Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law.  We may disclose Personal Information and any other information about you to government or law enforcement officials or private parties if, in our discretion, we believe it is necessary or appropriate in order to respond to legal requests (including court orders and subpoenas), to protect our safety, property, or rights, and the safety, property, and rights of any third party, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.
+
+###  **Be Careful When You Share Information with Others**
+
+Please be aware that whenever you share information on a publicly available profile page or any other public forum on the Site, that information may be accessed by others.  In addition, please remember that when you share information in any other communications with third parties that information may be passed along or made public by others.  This means that anyone with access to such information can potentially use it for any purpose, including sending unsolicited communications.
+
+###  **Security**
+
+We recognize the importance of safeguarding the confidentiality of your Personal Information.  Accordingly, we employ reasonable measures designed to protect your information from unauthorized access.  However, no data transmission over the Internet or other network can be guaranteed to be 100% secure.  As a result, while we strive to protect information transmitted on or through the Site or Services, we cannot and do not guarantee the security of any information you transmit on or through the Site or Services, and you do so at your own risk.
+
+###  **Links To Other Web Sites**
+
+Our Site and Services may contain links to other websites, or allow others to send you such links.  A link to a third party's website does not mean that we endorse it or that we are affiliated with it.  We do not exercise control over third-party websites.  You access such third-party websites or content at your own risk.  You should always read the privacy policy of a third-party website before providing any information to the website.
+
+###  **Children's Privacy**
+
+We do not knowingly collect Personal Information from children under the age of 13.  If we become aware that we have inadvertently received Personal Information from a child under the age of 13, we will delete such information from our records.  In addition, we recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet.
+
+###  **Processing in the United States  **
+
+Please be aware that your Personal Information and communications may be transferred to and maintained on servers or databases located outside your state, province, or country.  If you are located outside of the United States, please be advised that we process and store all information in the United States.  The laws in the United States may not be as protective of your privacy as those in your location.  By using our Site or Services, you agree that the collection, use, transfer, and disclosure of your Personal Information and communications will be governed by the applicable laws in the United States.
+
+###  **Privacy Policy Changes**
+
+From time to time, we may change this Privacy Policy.  If we decide to change this Privacy Policy, we will inform you by posting the revised Privacy Policy on the Site.  Those changes will go into effect on the Revision Date shown in the revised Privacy Policy.  Your continued use of our Site or Services constitutes your consent to the revised Privacy Policy.
