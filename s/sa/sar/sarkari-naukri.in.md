@@ -1,26 +1,56 @@
-> *The following text is extracted and transformed from the sarkari-naukri.in privacy policy that was archived on 2009-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090803133526id_/http%3A//sarkari-naukri.in/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarkari-naukri.in privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123111602id_/http%3A//www.sarkari-naukri.in/privacy-policies/privacy.html) for the most accurate reproduction.*
 
-# 
+# Privacy Policies
 
-Disclaimer Policy ,Copyright Policy and Terms of usage of this site 
+**Private Policy**
 
-Privacy Policy  
-We at SarkarJobs recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and the blog , and how we safeguard your information. We use third party advertisements such as Google Adsense and Adbrite to get Financial Support. These programs match the content with the advertisements and present them on the site so that any publisher may receive the " portion of advertising amount" based upon clicks or impressions to support the site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. However You don't need to worry as this is generally used for geo targeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). This is used by almost all sites on which advertisements are shown. You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs . However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
+**Last Revised** : 05 October, 2010
 
-To know more about Adsense [ know more about adsense](https://www.google.com/adsense/support/bin/answer.py?answer=9712&topic=13488)
+Sarkari Naukri is committed to protect its users’ privacy therefore we deem it necessary to give you a comprehensive view about how we determine, store and identify information while you use this website. It is for your own benefit that we advise you to read the following information in detail which may change from time to time as we upgrade our policy. Please check this from time to time (the **Last Revised** date at the top left corner will help you ascertain when we made the last change); your continued use of this site will vouchsafe your absolute knowledge and compliance with Sarkari Naukri Privacy Policy.
 
-To know more about Adbrite[ know more about adbrite](http://www.adbrite.com/mb/landing_both.php?spid=111529&afb=120x60-1-blue)
+A marked change in the general nature of this statement shall be preceded by a notice that will inform you about the change either on the site itself or by personal communication or both.
 
-For SarkarJobs.com : Site admin ,Shruthi ( Author & Publisher)   
-* Google, as a third party vendor, uses cookies to serve ads on your site. * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. Because publisher sites and laws across countries vary, we're unable to suggest specific privacy policy language. However, you may wish to review resources such as the Network Advertising Initiative, or NAI, which suggests the following language for data collection of non-personally identifying information: We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. 
+**Personal Information – Accumulation and Use**
 
-Copyright & Disclaimer Policy of this Site 
+While accessing some of Sarkari Naukri’s featured services, you may be required to provide your personal information like your e-mail address, name, home or work address, or telephone number. In some circumstances, we may also ask your age, gender, preferences, interests, and similar things.
 
-The sarkarjobs.com /posts/content presented in this site has been collected from various Government/PSU sector companies,different newspapers and each job has the Resource/Credit mentioned below clearly indicating the origin of Job. So please visit also the Gazette/Employment news/organisation/firm's Press relese/website before applying for any job. No other website can claim it as their original own work other than the actual employer company who are inviting the candidates and giving jobs. As the jobs are for general public. Any employer who feels that the services of Sarkarjobs are incorrect, please inform us immediately.   
-The contents of this notification news are informatory in nature. Candidates are advised to refer to the notice published in Employment News/Gazette/Respective organization's press news.We do not take any responsibility for any errors/omissions going inadvertenly.The aim of this website [sarkarjobs.com](http://sarkarjobs.com/) is to provide quality and timely information related to the jobs and careers, however we does not take responsibility for all the content with respect to authenticity and timeliness. The jobs mentioned are not patent to anyone or anyother website. We have very clearly mentioned the Credits. 
+We may collect information about your visit, including the pages you view, the links you click, and other actions taken in connection with Sarkari Naukri and services. We also collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times, and referring website addresses.
 
-Get all information on PSC Jobs here- [ PSCBulletin.com
+When you receive newsletters or promotional e-mail from Sarkari Naukri, we may use Web beacons customized links, or similar technologies to determine whether the e-mail has been opened and which links you click in order to provide you more focused e-mail communications or other information in the future. In certain cases we may also seek the assistance of other organizations to pinpoint your geographical area so that we may develop some exclusive services/offers based on your geographical area.
 
-Get all information on UPSC Jobs here- 
+Sarkari Naukri collects and uses your personal information to operate and improve its sites, and ensure a hassle free service. These uses may include providing you with more effective customer service; making the site or services easier to use by eliminating the need for you to repeatedly enter the same information; performing research and analysis aimed at improving our products, services, and technologies; and displaying content and advertising that are customized to your interests and preferences.
 
-](http://www.pscbulletin.com/)[ UPSCBulletin.com](http://www.upscbulletin.com/)
+We also employ your personal information to communicate with you. We may send you welcome letter depending upon the nature and time of your business with Sarkari Naukri, product surveys and electronic direct mailers about new launches and schemes as and when seemed necessary.
+
+**Children’s Personal Information**  
+Sarkari Naukri will not knowingly ask children under the age of 13 to provide information for accessing our services.
+
+**Security of your Personal Information**
+
+Except as described above, Sarkari Naukri shall not use your personal information in any capacity without your consent and shall not disclose your private information to any third party who has any ulterior motive other than ensuring a hassle free equation between you and Sarkari Naukri. Your personal information is absolutely safe with Sarkari Naukri as we employ cutting edge technologies to screen your personal information from being exposed to unwarranted access.
+
+However, at the same time it is also your responsibility to keep your password confidential. If you are accessing the Internet from a shared computer, it is always advisable to log out after you have availed your services so that your information is not vulnerable to the subsequent users.
+
+**Communication Preferences**
+
+You are entitled to stop all promotional communication from Sarkari Naukri if you so wish by contacting us.
+
+**Use of Cookies and Web Beacons**
+
+Sarkari Naukri employs cookies so that you can access our web services faster and without any hindrances. You are entitled to accept or decline cookies but your denial may bar you from accessing some of Sarkari Naukri’s featured services.
+
+Web beacons or single-pixel gifs are used to deploy cookies on our site so that we may keep track of the number of visitors to a particular page. Sometimes Sarkari Naukri may also insert Web beacons in promotional electronic direct mailers so that we can keep track of how many messages are opened and acted upon.
+
+We keep the strictest of vigil so that Web beacons or cookies are not used by third-party networks for unauthorized access of your personal information.
+
+**Other Sites**
+
+Sarkari Naukri may contain links to other sites. We are not responsible for privacy guidelines of other sites.
+
+**Preventing Spams**
+
+Sarkari Naukri is concerned with the nuisance of spamming and consequently keeps its email subscribers list secure as far as possible. At the same time, use of Sarkari Naukri’s web service comprises your tacit agreement of not collecting e-mail addresses for the purpose of spamming.
+
+**Contact Us**
+
+Sarkari Naukri looks forward to your feedback on this policy statement. If you have any queries and suggestions, please contact us
