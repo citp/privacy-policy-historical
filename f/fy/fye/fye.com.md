@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fye.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501033142id_/http%3A//fye.com/help-popup-index-policies.htm%23privatepolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fye.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123115903id_/http%3A//fye.com/help-popup-index-policies.htm%23privatepolicy) for the most accurate reproduction.*
 
 # FYE: : Help
 
