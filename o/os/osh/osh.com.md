@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the osh.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429195302id_/http%3A//www.osh.com/eng/customerService/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osh.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123121454id_/http%3A//www.osh.com/eng/customerService/privacy.cfm) for the most accurate reproduction.*
 
-# Orchard Supply Hardware
+# Orchard Supply Hardware: Products for Home Improvement and Gardening, with Useful Project Tips
 
 ### Privacy Statement
 
