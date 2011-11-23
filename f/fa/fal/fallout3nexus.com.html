@@ -1,316 +1,431 @@
-<!--The following is the downloaded HTML source of the fallout3nexus.com privacy policy that was archived on 2011-04-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110423070830id_/http%3A//www.fallout3nexus.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fallout3nexus.com privacy policy that was archived on 2011-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123185336id_/http%3A//www.fallout3nexus.com/content/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-    <title>Fallout 3 Nexus - Fallout 3 mods and community</title>
-	<meta name="description" content="The Elder Scrolls Nexus - Oblivion mods? You betcha!">	
-	<link rel="stylesheet" type="text/css" href="/includes/css/style.css" media="screen">
-  
-    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="/includes/js/script.js"></script>
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-    <script type="text/javascript" src="/includes/js/notifications.js"></script>
-    
-    <!-- Begin comScore Tag --> 
-    <script> 
-      document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") 
-    + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E")); 
-    </script><script src="https://sb.scorecardresearch.com/beacon.js"></script> 
-     
-    <script> 
-      COMSCORE.beacon({ 
-        c1:2, 
-        c2:"8859898", 
-        c3:"0000000", 
-        c4:"http://www.fallout3nexus.com/privacy.php", 
-        c5:"", 
-        c6:"", 
-        c15:"C67BD3C1" 
-      }); 
-    </script> 
-    <noscript> 
-      <img src="http://b.scorecardresearch.com/p?c1=2&c2=0000000&c3=0000000&c4=www.website.com/who-we-
-    are.aspx&c5=&c6=&c15=C67BD3C1&cj=1" /> 
-    </noscript> 
-    <!-- End comScore Tag -->
-</head>
-<body>
-	
+<!DOCTYPE html><html lang="en"><head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"> 
+<title>Fallout 3 Nexus - Fallout 3 mods and community</title>
+<link href="/css/screen.php?skin=" rel="stylesheet" type="text/css" media="all">
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" src="/includes/js/jquery.js"></script>
+<script type="text/javascript" src="/includes/js/js.js"></script>
+<script type="text/javascript" src="/includes/js/jquery.tipsy.js"></script> 
+<script type="text/javascript"> 
+	$(function(){
+		// set the width of the social paragraph to equal that of the 'network' nav item
+		$('.social').css('width', $('#nav .network').outerWidth() - parseInt($('.social').css('padding-left')) + 1);
 		
-<div id="topbar">
+		var current = ''
+		
+		// hide all the subnavs
+		//$('#subnav .subnav').hide();
+		// $('#subnav .subnav-bg').css('opacity', 0.85);
+		
+		// position the subnav elements in the right place
+		initsubnav();
+		
+		// handle mouse events on subnav items/links
+		$('#top-inner .item').mouseenter(function(){
+			current = $('#subnav .subnav[data-subnav='+$(this).data('subnav')+']');
+			$('#subnav .subnav').hide();												
+			current.show();
+			current.mouseleave(function(){
+				$('#subnav .subnav').hide();					
+			});
+			$('#main').mouseenter(function(){
+				$('#subnav .subnav').hide();					
+			});
+		});
+		
+		// colouring alternate form containers
+		$('.form li:even').addClass('alt');
+		
+		$('.form').keypress(function(e) {
+			if(e.which == 13) {
+			   	var tagName = e.target.tagName.toLowerCase(); 
+			   	if (tagName !== "textarea") {
+					jQuery(this).blur();
+					jQuery('#submit').focus().click();
+				}
+			}
+		});
+		
+		$('.login').keypress(function(e) {
+			if(e.which == 13) {
+			   	var tagName = e.target.tagName.toLowerCase(); 
+			   	if (tagName !== "textarea") {
+					jQuery(this).blur();
+					jQuery('#login').focus().click();
+				}
+			}
+		});
 
-	    
-    	<div id="login">
-    		<form action="/modules/login/do_login.php" method="post">
-            	<input name="redirect" type="hidden" value="/privacy.php">
-                User: <input type="text" name="user"> &nbsp; 
-                Pass: <input type="password" name="pass"> &nbsp; 
-                <input type="submit" name="submit" value="Login"> ... or <a href="/modules/register">Register</a>
-            </form>
-            
-        </div>
-    
-        
-    
-    <div id="icons">
-            <a href="http://www.thenexusforums.com"><img src="http://www.tesnexus.com/images/global/icon_forum.gif" alt="The Nexus Forums"></a>
-            <a href="http://www.tesnexus.com"><img src="http://www.tesnexus.com/images/global/icon.gif" alt="http://www.tesnexus.com"></a> <a href="http://www.dragonagenexus.com"><img src="http://www.dragonagenexus.com/images/global/icon.gif" alt="http://www.dragonagenexus.com"></a> <a href="http://www.newvegasnexus.com"><img src="http://www.newvegasnexus.com/images/global/icon.gif" alt="http://www.newvegasnexus.com"></a>     </div>
-
-</div>
+		$('.icon-info').tipsy({
+			fade: true
+		});
+		
+		$(window).resize(function(){
+			initsubnav();						  
+		});
 	
+	});
+	
+	function initsubnav(){
+		//$('#subnav .subnav').show();
+		$('#subnav .subnav').each(function(){
+			var nav_item = $('#top-inner .item[data-subnav='+$(this).data('subnav')+']');
+			if($(this).data('subnav') == 'network'){
+				$(this).css('top', nav_item.offset().top+25).css('left', nav_item.offset().left - nav_item.width()+33);
+			} else {
+				$(this).css('top', nav_item.offset().top+25).css('left', nav_item.offset().left);
+			}
+		});	
+	}
+</script>
+</head> 
+ 
+<body> 
+ 
 <div id="top">
-		<a href="/index.php" style="height: 90px; float: left;"><img src="/images/global/title.gif"></a>
-        
-		<div style="position: absolute; right: 5px; height: 90px; width: 728px; padding: 5px 5px 5px 0;">
-							                    <iframe height="90" width="728" src="/includes/top.php" frameborder="0" scrolling="no"></iframe>
-                            				
-        </div>
-</div>
-
-
-<div id="menu">
-    <ul>	
-        <li><a href="/" class="current" title="home"><span>HOME</span></a></li>
-        <li><a href="/downloads/"><span>FILES</span></a></li>
-        <li><a href="/imageshare/"><span>IMAGE SHARE</span></a></li>
-        <li><a href="http://wiki.tesnexus.com/"><span>WIKI</span></a></li>
-        <li><a href="http://www.thenexusforums.com"><span>FORUMS</span></a></li>
-        <li><a href="/downloads/advancedsearch.php"><span>SEARCH</span></a></li>
-        <li><a href="http://www.thenexusforums.com/index.php?app=ipchat"><span>CHAT</span></a> <div class="chat_link">14</div></li>
-        <li>|</li>
-        <li><a href="/competition.php"><span>COMPETITION</span></a></li>
-        <li>|</li>
-                    <li><a href="/modules/login/index.php?redirect=/privacy.php"><span>LOGIN</span></a></li>
-            <li><a href="/modules/register/"><span>REGISTER</span></a></li>
-            </ul>
-</div>
-	
-<div class="content">
-	<div id="main">
-    	    	<style>
-        	#left_side { overflow: auto; margin-right: 0; margin-left: 0; }
-        </style>
-
-		<div id="right">
-			                <div class="right_ad">
-                    <div class="ad">
-                    	                        	<iframe height="250" width="300" src="/includes/central.php" frameborder="0" scrolling="no"></iframe>
-                                            </div>
-                </div>
-                    
-            <div class="right_side" style="margin-right: 7px;">
-                <div class="pad">
-                    <h3>Latest news</h3>
-                        <ul>
-                            <li><a href="/news/index.php?id=810">DDoS attack on sites [Updated]</a></li><li><a href="/news/index.php?id=809">Interview with Toasty Fresh</a></li><li><a href="/news/index.php?id=808">File endorsements in their own discussion topic</a></li><li><a href="/news/index.php?id=807">Nexus Hiring: PHP web developer and news writer positions</a></li><li><a href="/news/index.php?id=806">Mods and assets from S.T.A.L.K.E.R.</a></li>		
-                        </ul>
-                        
-                    <h3>Latest blog</h3>
-                        <ul>
-                            <li><a href="/news/blog.php">Nexus 3.0</a></li>		
-                        </ul>
-                    
-                    <h3>File search</h3>
-                    
-                    <div class="content">
-                        <form action="/downloads/search.php" method="post">
-                        <strong>Name</strong><br>
-                        <input type="text" name="name">
-                        
-                        <br><br>
-                        
-                        <strong>Category</strong><br>
-                            <select name="scid">
-                                                                    <option value="55" style="font-weight: bold;">All Fallout 3 files</option>
-                                    
-                                <option value="99">&nbsp;&nbsp; Default - I forgot to set this</option><option value="56">&nbsp;&nbsp;Animation</option><option value="69">&nbsp;&nbsp;Armor</option><option value="72">&nbsp;&nbsp;Buildings</option><option value="58">&nbsp;&nbsp;Cheats and God Items</option><option value="67">&nbsp;&nbsp;Clothing</option><option value="73">&nbsp;&nbsp;Companions</option><option value="71">&nbsp;&nbsp;Gameplay Effects and Changes</option><option value="74">&nbsp;&nbsp;Guilds/Factions</option><option value="62">&nbsp;&nbsp;Hair and Face Models</option><option value="79">&nbsp;&nbsp;Millionth Member Competition</option><option value="64">&nbsp;&nbsp;Miscellaneous</option><option value="66">&nbsp;&nbsp;Models and Textures</option><option value="75">&nbsp;&nbsp;New Lands</option><option value="76">&nbsp;&nbsp;NPC</option><option value="78">&nbsp;&nbsp;Official</option><option value="90">&nbsp;&nbsp;Poses</option><option value="77">&nbsp;&nbsp;Quests and Adventures</option><option value="88">&nbsp;&nbsp;Radio stations</option><option value="61">&nbsp;&nbsp;Saved Games/Characters</option><option value="70">&nbsp;&nbsp;Sounds and Music</option><option value="63">&nbsp;&nbsp;User Interfaces</option><option value="59">&nbsp;&nbsp;Utilities</option><option value="60">&nbsp;&nbsp;Videos and Trailers</option><option value="68">&nbsp;&nbsp;Weapons</option>                                    <option value="80" style="font-weight: bold;">All Requirements files</option>
-                                    
-                                <option value="84">&nbsp;&nbsp;Requires - Broken Steel  DLC</option><option value="82">&nbsp;&nbsp;Requires - FOMM</option><option value="81">&nbsp;&nbsp;Requires - FOSE</option><option value="87">&nbsp;&nbsp;Requires - Mothership Zeta   DLC</option><option value="83">&nbsp;&nbsp;Requires - Operation Anchorage DLC</option><option value="86">&nbsp;&nbsp;Requires - Point Lookout   DLC</option><option value="85">&nbsp;&nbsp;Requires - The Pitt  DLC</option>                                    <option value="91" style="font-weight: bold;">All Bodybase files</option>
-                                    
-                                <option value="95">&nbsp;&nbsp;BABE Bodybase</option><option value="94">&nbsp;&nbsp;Breeze Bodybase</option><option value="96">&nbsp;&nbsp;Cute Bodybase</option><option value="98">&nbsp;&nbsp;Exnem Female Bodybase</option><option value="97">&nbsp;&nbsp;Robert Male Bodybase</option><option value="92">&nbsp;&nbsp;Type3/5 Bodybase</option>                            </select>
-                        
-                        <br><br>
-                        
-                        <input type="submit" value="go">
-                        </form>
-                        
-                        <br><br>
-                        <a href="/downloads/advancedsearch.php">Advanced search</a><br>
-                        <a href="/downloads/tags/search.php">Tag search</a>
-                    </div>
-                        
-                    <br><br>
-                    
-                       
-                    
-                                        
-                    <h3>Network stats</h3>
-                    
-                    <div class="content">
-                                                    
-                        <div class="stats_left">Members:</div> <div class="stats_right">2,217,446</div>
-                        <div style="clear: left;"><!-- --></div>
-                        <div class="stats_left">Topics:</div> <div class="stats_right">311,750</div>
-                        <div style="clear: left;"><!-- --></div>
-                        <div class="stats_left">Posts:</div> <div class="stats_right">2,883,376</div>
-                        <div style="clear: left;"><!-- --></div>
-                        <div class="stats_left">Topic views:</div> <div class="stats_right">46,057,792</div>
-                        <div style="clear: left;"><!-- --></div>
-                        <div class="stats_left">Kudos given:</div> <div class="stats_right">152,844</div>
-                        <div style="clear: left;"><!-- --></div>
-                        <div class="stats_left">Profile views:</div> <div class="stats_right">18,915,293</div>
-                        <div style="clear: left;"><!-- --></div>
-                        <div class="stats_left">Stored PMs:</div> <div class="stats_right">347,114</div>
-                        <div style="clear: left;"><!-- --></div>
-
-                    </div>                 
-        
-                    
-                                        <h3>Support</h3>
-                        
-                        <a href="/affiliatestore.php"><img src="/images/misc/affiliatestore.gif"></a><br>
-                        <a href="/premium.php"><img src="/images/misc/smallad1.gif"></a>
-                        
-                        <br><br>
-                        
-                                            
-                        
-                    <h3>Site updates</h3>
-                    
-                    <a href="http://twitter.com/NexusSites"><img src="/images/misc/twitter.gif"></a>
-                    
-                    <br>
-                    
-                   	<a href="http://www.facebook.com/pages/Nexus-sites/71629282833?v=wall&amp;viewas=504765606#/pages/Nexus-sites/71629282833?ref=mf"><img src="/images/misc/smallad2.gif"></a>      
-                    
-                    <br><br>
-                    
-                    <a href="/rss/" title="RSS Feed"><img src="/images/global/rss.jpg" alt="RSS Feed"></a>
-                    
-                </div>
-            </div>
-            
-            
-            <div class="right_side">
-                <div class="pad">
-                
-                    <h3>Site</h3>
-                    <ul>
-                        <li><a href="/">News</a></li>
-                        <li><a href="/news/archive.php">News Archive</a></li>
-                        <li class="nav_seperator"><a href="/news/blog.php">Webmaster's Blog</a></li>
-                        <li><a href="/about.php">About Us</a></li>
-                        <li><a href="/history.php">Site history</a></li>
-                        <li><a href="/stats.php">Statistics</a></li>
-                        <li><a href="/rss/">RSS Feeds</a></li>
-                        <li><a href="/contact.php">Contact</a></li>
-                        <li><a href="/staff.php">Staff</a></li>
-                        <li><a href="/jobs/">Jobs at Nexus</a> <img src="/images/icons/new.gif" align="absmiddle"></li>
-                        <li><a href="/affiliatestore.php">Affiliate store</a></li>
-                    </ul>               
-                        
-                    <h3>Files</h3>
-                    <ul>
-                        <li><a href="/downloads/">Index</a></li>
-                        <li><a href="/downloads/categories.php">Browse categories</a></li>
-                        <li><a href="/downloads/today.php">Updates today</a></li>
-                        <li><a href="/downloads/recent.php">Updates recently</a></li>
-                        <li><a href="/downloads/latest.php">Latest files</a></li>
-                        <li><a href="/downloads/top.php">Top 100</a></li>
-                        <li><a href="/downloads/advancedsearch.php">Advanced search</a></li>
-                        <li><a href="/downloads/tags/search.php">Tag search</a></li>
-                        <li class="nav_seperator"><a href="/downloads/filesofthemonth.php">Files of the month</a></li>
-                        <li><a href="/members/newfile.php">Add new file</a></li>
-                        <li><a href="/members/managefiles.php">Manage your files</a></li>
-                        <li><a href="/members/comments.php">Comment tracking</a> <img src="/images/icons/new.gif" align="absmiddle"></li>
-                        <li><a href="/members/tracking/">Tracking centre</a></li>
-                        <li><a href="/members/history.php">Download/rating history</a></li>
-                    </ul>
-              		
-                    <h3>Image Share</h3>
-                    <ul>
-                        <li><a href="/imageshare/">View images</a></li>
-                        <li class="nav_seperator"><a href="/imageshare/top.php">Top images</a></li>
-                        <li><a href="/members/imageshare/add.php">Add images</a></li>
-                        <li><a href="/members/imageshare/">Manage images</a></li>
-                    </ul>
-                    
-                                  
-                    
-                    <h3>Wiki</h3>
-                    <ul>
-                        <li><a href="http://wiki.tesnexus.com">Nexus wiki</a></li>
-                        <li><a href="http://wiki.tesnexus.com/index.php/Category:Using_the_Nexus_sites">Using the Nexus sites</a></li>
-                        <li><a href="http://wiki.tesnexus.com/index.php/Category:Fallout_3">Fallout 3 articles</a></li>
-                    </ul>
-                    
-                    <h3>Community</h3>
-                    <ul>
-                        <li><a href="http://www.thenexusforums.com">Forums</a></li>
-                        <li><a href="http://www.thenexusforums.com/index.php?app=ipchat">Chat (14)</a></li>
-                                                <li><a href="/modules/login/index.php?redirect=/privacy.php">Login</a></li>
-                                                <li><a href="/modules/register/">Register</a></li>
-                        <li><a href="/modules/members/top.php">Top members</a></li>
-                    </ul>
-                    
-                                        
-                    <h3>Other Sites</h3>
-                    <ul>
-                        <li><a href="http://www.thenexusforums.com">The Nexus Forums</a></li>
-                        <li><a href="http://www.dragonagenexus.com">Dragon Age Nexus</a></li>
-                        <li><a href="http://www.fallout3nexus.com">Fallout 3 Nexus</a></li>
-                        <li><a href="http://www.newvegasnexus.com">New Vegas Nexus</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        
-	<div class="home_left">
-
-		        
-		<div id="left_side">
-<h2>Privacy policy</h2>
-<h3>Who? What? Where?</h3>
-
-We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit and information volunteered by the consumer, such as survey information and/or site registrations.
-<br><br>
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor and used to notify consumers about updates to our Web site.
-<br><br>
-With respect to cookies: We use cookies to store visitors preferences, unique identifier information and ensure that visitors are not repeatedly sent the same banner ads.
-<br><br>
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.
-<br><br>
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes. If you are concerned about how your information is used, you should check back at our Web site periodically.
-<br><br>
-Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them and transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them.
-<br><br>
-If you feel that this site is not following its stated information policy please <a href="/contact.php">contact us</a>.
-
-			</div>
-        </div>
+	<div id="top-bg"><!-- --></div>
+	<div id="top-inner"> 
+		<a href="/index.php" id="logo"><span>Tes Nexus</span></a> 
+		<div class="right"> 
+			<form name="header-search-form" class="search" action="/downloads/search.php" method="post"> 
+				<input id="header-search" name="name" class="text" type="text" onclick="document.getElementById('header-search').value='';" value="Search..."> 
+				<button title="Search TES Nexus" onclick="document['header-search-form'].submit()"><span>Search</span></button> 
+			</form> 
+			<ol id="nav"> 
+				<li> 
+					<a href="/downloads/" class="item" title="Files" data-subnav="files"> 
+						<span class="inner"> 
+							<span class="txt">Files</span> 
+							<span class="subnav-arrow"></span> 
+						</span> 
+					</a> 
+				</li> 
+				<li> 
+					<a href="/imageshare/" class="item" title="Images" data-subnav="images"> 
+						<span class="inner"> 
+							<span class="txt">Images</span> 
+							<span class="subnav-arrow"></span> 
+						</span> 
+					</a> 
+				</li> 
+				<li> 
+					<a href="http://wiki.tesnexus.com" class="item" title="Wiki"> 
+						<span class="inner"> 
+							<span class="txt">Wiki</span> 
+						</span> 
+					</a> 
+				</li> 
+				<li> 
+					<a href="#" class="item" title="Competitions" data-subnav="competitions"> 
+						<span class="inner"> 
+							<span class="txt">Competitions</span> 
+							<span class="subnav-arrow"></span> 
+						</span> 
+					</a> 
+				</li> 
+				<li> 
+					<a href="http://www.thenexusforums.com" class="item" title="Forums"> 
+						<span class="inner"> 
+							<span class="txt">Forums</span> 
+						</span> 
+					</a> 
+				</li>
+								<li class="chat"> 
+					<a href="http://www.thenexusforums.com/index.php?app=ipchat" class="item" title="Chat (999)"> 
+						<span class="inner"> 
+							<span class="txt">Chat</span> 
+							<span class="number">25</span> 
+						</span> 
+					</a> 
+				</li> 
+				<li class="network"> 
+					<a href="#" class="item" title="Nexus Network" data-subnav="network"> 
+						<span class="inner"> 
+							<span class="txt"><strong>nexus</strong>network</span> 
+							<span class="subnav-arrow"></span> 
+						</span> 
+					</a> 
+				</li> 
+			</ol> 
+		</div> 
+		<div class="user-social"> 
+			<div class="user">
+            	                    <form method="post" action="/modules/login/do_login.php" name="header-login" class="login">
+                    	<input name="redirect" type="hidden" value="/content/privacy.php">
+                        <span>
+                            <label>User</label>
+                            <input type="text" name="user">
+                        </span>
+                        <span>
+                            <label>Pass</label>
+                            <input type="password" name="pass">
+                        </span>
+                        <div class="buttons">
+                            <a onclick="document['header-login'].submit()" class="primary" id="login"><span>Login</span></a>
+                            <span class="text">Or</span>
+                            <a href="/content/register.php" class="primary"><span>Register</span></a>
+                        </div>
+                    </form>
+                			</div> 
+			<p class="social" style="width: 105px;"> 
+				<span class="txt">Social:</span> 
+				<a href="http://www.twitter.com/#!/NexusSites" class="twitter"><span>Twitter</span></a> 
+				<a href="http://www.facebook.com/pages/Nexus-sites/71629282833?ref=mf" class="facebook"><span>Facebook</span></a> 
+				<a href="http://www.steamcommunity.com/groups/nexussites" class="steam"><span>Steam</span></a> 
+			</p> 
+		</div> 
+	</div> 
+</div> 
+<div id="subnav"> 
+	<div data-subnav="files" class="subnav" style="top: 86px; left: 493px;"> 
+		<a href="/downloads/">Categories</a> 
+		<a href="/downloads/today.php">New today</a> 
+		<a href="/downloads/recent.php">New recently</a> 
+		<a href="/downloads/latest.php">Latest files</a> 
+		<a href="/downloads/top/">Top 100</a> 
+		<a href="/downloads/advancedsearch.php">Advanced search</a> 
+		<a href="/downloads/tagsearch.php">Tag search</a> 
+		<a href="/downloads/filesofthemonth.php" class="subnav-border">Files of the month</a>
+        <a href="/members/newfile.php">Add a file</a>
+        <a href="/members/managefiles.php">Manage your files</a>
+        <a href="/members/tracking/">Tracking centre</a>
+        <a href="/members/history.php">Download history</a>
+		<div class="subnav-bg"></div> 
+	</div> 
+	<div data-subnav="images" class="subnav" style="top: 86px; left: 575.016px;"> 
+		<a href="/imageshare/">View images</a> 
+		<a href="/imageshare/top.php">Top images</a> 
+		<a href="/imageshare/supporters/">Supporter images</a>
+        <a href="/imageshare/supporters/top.php" class="subnav-border">Top supporter images</a>
+        <a href="/members/imageshare/add.php">Add an image</a>
+        <a href="/members/imageshare/">Manage your images</a>
+		<div class="subnav-bg"></div> 
+	</div> 
+	<div data-subnav="competitions" class="subnav" style="top: 86px; left: 729.031px;"> 
+		<a href="/content/competitions/member.php">($1500) Member milestone</a> 
+		<a href="#">($100) Wiki articles</a> 
+		<div class="subnav-bg"></div> 
+	</div> 
+	<div data-subnav="network" class="subnav subnav-dark" style="top: 142px; left: 430px;"> 
+		<a href="http://www.dragonagenexus.com">Dragon Age Nexus</a>
+        <a href="http://www.dungeondefendersnexus.com">Dungeon Defenders Nexus</a> 
+		<a href="http://www.fallout3nexus.com">Fallout 3 Nexus</a> 
+        <a href="http://www.skyrimnexus.com">Skyrim Nexus</a> 
+		<a href="http://www.newvegasnexus.com">New Vegas Nexus</a> 
+		<a href="http://www.tesnexus.com">The Elder Scrolls Nexus</a>
+        <a href="http://www.witchernexus.com">The Witcher Nexus</a>
+		<div class="subnav-bg"></div> 
 	</div>
-    
-	<div id="footer">
-		<div id="eXTReMe" style="float: left;"><a href="http://extremetracking.com/open?login=fo3nexus">
-        <img src="http://t1.extreme-dm.com/i.gif" style="border: 0;" height="38" width="41" id="EXim" alt="eXTReMe Tracker"></a>
-        <script type="text/javascript"><!--
-        var EXlogin='fo3nexus' // Login
-        var EXvsrv='s11' // VServer
-        EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
-        EXb=EXs.colorDepth:EXb=EXs.pixelDepth;
-        navigator.javaEnabled()==1?EXjv="y":EXjv="n";
-        EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
-        EXd.write("<img src=http://e2.extreme-dm.com",
-        "/"+EXvsrv+".g?login="+EXlogin+"&amp;",
-        "jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
-        "l="+escape(EXd.referrer)+" height=1 width=1>");//-->
-        </script><img src="http://e2.extreme-dm.com/s11.g?login=fo3nexus&amp;jv=n&amp;j=y&amp;srw=800&amp;srb=24&amp;l=" height="1" width="1"><noscript><div id="neXTReMe"><img height="1" width="1" alt=""
-        src="http://e2.extreme-dm.com/s11.g?login=fo3nexus&amp;j=n&amp;jv=n" />
-        </div></noscript></div>
-        
-        © Copyright 2011, <a href="http://www.blacktreegaming.com">Robin Scott</a> | <a href="/privacy.php">Privacy</a> <br>
-        Design compliments of <a href="http://www.free-css-templates.com">Free CSS Templates</a>. Modifications by Robin Scott.<br>
-     	Execution time: 0.304 seconds	</div>
+     
+</div> 
+<div id="main">
+		<div id="horizontal-ad">
+    	<div id="premium-button"><a href="/content/premium.php"><img src="/images/premiumbutton.png"></a></div>
+        <div id="728x90-ad">            
+        	<iframe height="90" width="728" src="/includes/top.php" frameborder="0" scrolling="no"></iframe>
+    	</div>
+    </div>
+    	<div id="main-top"></div>
+	<div id="content">
+                 
+<div class="header">
+    <h1>Privacy policy</h1>
 </div>
+<div id="left-col">
+<div class="bb-content">  
+    <p>We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit and information volunteered by the consumer, such as survey information and/or site registrations.</p>
+    
+    <p>The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor and used to notify consumers about updates to our Web site.</p>
+    
+    <p>With respect to cookies: We use cookies to store visitors preferences, unique identifier information and ensure that visitors are not repeatedly sent the same banner ads.</p>
+    
+    <p>With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.</p>
+    
+    <p>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes. If you are concerned about how your information is used, you should check back at our Web site periodically.</p>
+    
+    <p>Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them and transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them.</p>
+    
+    <p>If you feel that this site is not following its stated information policy please <a href="/content/contact.php">contact us</a>.</p>
+</div>  
+
+					</div>
+		<div id="right-col">
+			            <div id="ad-right">
+                <iframe height="250" width="300" src="/includes/central.php" frameborder="0" scrolling="no"></iframe>
+                <div id="ad-right-text"><a href="/content/premium.php">Remove these ads</a></div>
+            </div>
+            						<div class="box">
+				<div class="box-header">
+					<h2 class="top-files">Top Files</h2>
+					<a href="/downloads/top/">Top 100</a>
+				</div>
+				<div class="box-content">
+					<ul>
+                    	                        	<li><span>&gt;</span><a href="/downloads/file.php?id=16949">Alton IL - Huge World and Quest Mod</a></li>
+                    	                        	<li><span>&gt;</span><a href="/downloads/file.php?id=640">Fallout mod manager</a></li>
+                    	                        	<li><span>&gt;</span><a href="/downloads/file.php?id=16928">Fallout Remastered - Open Beta</a></li>
+                    	                        	<li><span>&gt;</span><a href="/downloads/file.php?id=4280">DIMONIZED TYPE3 female body</a></li>
+                    	                        	<li><span>&gt;</span><a href="/downloads/file.php?id=9592">Underground Hideout</a></li>
+                    						</ul>
+				</div>
+			</div>            			<div class="box">
+				<div class="box-header">
+					<h2 class="latest-files">Latest Files</h2>
+					<a href="/downloads/latest.php">New today</a>
+				</div>
+				<div class="box-content">
+					<ul>
+						                        	<li><span>&gt;</span><a href="/downloads/file.php?id=17040">chinease followers</a></li>
+                                                	<li><span>&gt;</span><a href="/downloads/file.php?id=17039">End of vault Save</a></li>
+                                                	<li><span>&gt;</span><a href="/downloads/file.php?id=17038">Alternate Tunnel Snake Jacket Modders re</a></li>
+                                                	<li><span>&gt;</span><a href="/downloads/file.php?id=17037">Hoodies Modders resource</a></li>
+                                                	<li><span>&gt;</span><a href="/downloads/file.php?id=17036">Modder Resource Vault Suit Security 101 </a></li>
+                        					</ul>
+				</div>
+			</div>            			<div class="box">
+				<div class="box-header">
+					<h2 class="latest-news">Latest News</h2>
+					<a href="#">News archive</a>
+				</div>
+				<div class="box-content">
+					<ul>
+						                            <li><span>&gt;</span><a href="/news/article.php?id=841">Nexus Mod Manager enters open beta - download now!</a></li>
+                                                    <li><span>&gt;</span><a href="/news/article.php?id=840">Nexus Mod Manager - 0.12.3 released</a></li>
+                                                    <li><span>&gt;</span><a href="/news/article.php?id=839">Nexus Mod Manager enters open beta - download now!</a></li>
+                                                    <li><span>&gt;</span><a href="/news/article.php?id=838">And we're back...</a></li>
+                                                    <li><span>&gt;</span><a href="/news/article.php?id=837">Blocking files with specific tags from category view</a></li>
+                        					</ul>
+				</div>
+			</div>		</div>
+	</div>
+	<div id="footer">
+		<p>
+			<span class="left">© Copyright 2011, <a href="http://www.blacktreegaming.com">Robin Scott</a>. 
+            <a href="http://krystal.co.uk" target="_blank">UK hosting</a> by Krystal</span>
+			<a href="#top" class="top">top</a>
+		</p>
+		<div class="footer-content">
+			<div>
+				<ul>
+					<li><h4>Site</h4></li>
+					<li><a href="/index.php">News</a></li>
+					<li><a href="#">News archive</a></li>
+					<li><a href="#">Webmaster's blog</a></li>
+					<li><a href="/content/about.php">About us</a></li>
+					<li><a href="/content/stats.php">Statistics</a></li>
+					<li><a href="/rss/">RSS feeds</a></li>
+					<li><a href="/content/contact.php">Contact</a></li>
+					<li><a href="/content/staff.php">Staff</a></li>
+                    <li><a href="/content/privacy.php">Privacy</a></li>
+				</ul>
+			</div>
+			<div>
+				<ul>
+					<li><h4>Files</h4></li>
+					<li><a href="/downloads/">Index</a></li>
+					<li><a href="/downloads/today.php">Updated today</a></li>
+					<li><a href="/downloads/recent.php">Updated recently</a></li>
+					<li><a href="/downloads/latest.php">Latest files</a></li>
+					<li><a href="/downloads/top/">Top lists</a></li>
+					<li><a href="/downloads/advancedsearch.php">Advanced search</a></li>
+					<li><a href="/downloads/tagsearch.php">Tag search</a></li>
+					<li><a href="/downloads/filesofthemonth.php">Files of the month</a></li>
+					<li><a href="/members/newfile.php">Add new file</a></li>
+					<li><a href="/members/managefiles.php">Manage your files</a></li>
+					<li><a href="/members/tracking/">Tracking centre</a></li>
+					<li><a href="/members/history.php">Download history</a></li>
+				</ul>
+			</div>
+			<div class="double">
+				<ul>
+					<li><h4>Image Library</h4></li>
+					<li><a href="/imageshare/">View images</a></li>
+					<li><a href="/imageshare/top.php">Top images</a></li>
+                    <li><a href="/imageshare/supporters/">View supporter Images</a></li>
+                    <li><a href="/imageshare/supporters/top.php">Top supporter Images</a></li>
+					<li><a href="/members/imageshare/add.php">Add Images</a></li>
+					<li><a href="/members/imageshare/">Manage Images</a></li>
+				</ul>
+				<ul>
+					<li><h4>Wiki</h4></li>
+					<li><a href="http://wiki.tesnexus.com/">Nexus Wiki</a></li>
+					<li><a href="http://wiki.tesnexus.com/index.php/Category:Using_the_Nexus_sites">Using the Nexus sites</a></li>
+					<li><a href="http://wiki.tesnexus.com/index.php/Category:Morrowind">Morrowind Articles</a></li>
+					<li><a href="http://wiki.tesnexus.com/index.php/Category:Oblivion">Oblivion Articles</a></li>
+				</ul>
+			</div>
+			<div class="double">
+				<ul>
+					<li><h4>Community</h4></li>
+					<li><a href="/content/register.php"><strong>Register</strong></a></li>
+					<li><a href="/modules/login/">Login</a></li>
+					<li><a href="http://www.thenexusforums.com">Forums</a></li>
+					<li><a href="http://www.thenexusforums.com/index.php?app=ipchat">Chat (25)</a></li>
+					<li><a href="#">Top Members</a></li>
+				</ul>
+				<ul>
+					<li><h4>Nexus Network</h4></li>
+					<li><a href="http://www.thenexusforums.com">The Nexus Forums</a></li>
+					<li><a href="http://www.dragonagenexus.com">Dragon Age Nexus</a></li>
+					<li><a href="http://www.fallout3nexus.com">Fallout 3 Nexus</a></li>
+					<li><a href="http://www.newvegasnexus.com">New Vegas Nexus</a></li>
+					<li><a href="http://www.tesnexus.com">The Elder Scrolls Nexus</a></li>
+                    <li><a href="http://www.witchernexus.com">The Witcher Nexus</a></li>
+				</ul>
+			</div>
+			<div>
+				<ul>
+					<li><h4>Support</h4></li>
+					<li><a href="http://www.twitter.com/#!/NexusSites" class="twitter">Follow us on Twitter</a></li>
+					<li><a href="http://www.facebook.com/pages/Nexus-sites/71629282833?ref=mf" class="facebook">Like us on Facebook</a></li>
+					<li><a href="http://www.steamcommunity.com/groups/nexussites" class="steam">Steam community</a></li>
+					<li>
+						<div class="buttons">
+							<a href="/content/premium.php"><span>Go Premium</span></a>
+						</div>
+					</li>
+				</ul>
+			</div>
+			<div class="last">
+            
+				
+				<ul>
+					<li><h4>Network Stats</h4></li>
+					<li><span>Members:</span> 2,689,122</li>
+					<li><span>Topics:</span> 392,157</li>
+					<li><span>Posts:</span> 3,690,440</li>
+					<li><span>Topic Views:</span> 78,919,687</li>
+					<li><span>Kudos Given:</span> 177,408</li>
+					<li><span>Profile Views:</span> 27,930,458</li>
+					<li><span>Stored PMs:</span> 406,104</li>
+					<li><span>Page Served in:</span> 0.179s</li>
+				</ul>
+                
+                <div id="eXTReMe" style="float: left;"><a href="http://extremetracking.com/open?login=fo3nexus">
+                <img src="http://t1.extreme-dm.com/i.gif" style="border: 0;" height="38" width="41" id="EXim" alt="eXTReMe Tracker"></a>
+                <script type="text/javascript"><!--
+                var EXlogin='fo3nexus' // Login
+                var EXvsrv='s11' // VServer
+                EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
+                EXb=EXs.colorDepth:EXb=EXs.pixelDepth;
+                navigator.javaEnabled()==1?EXjv="y":EXjv="n";
+                EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
+                EXd.write("<img src=http://e2.extreme-dm.com",
+                "/"+EXvsrv+".g?login="+EXlogin+"&amp;",
+                "jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
+                "l="+escape(EXd.referrer)+" height=1 width=1>");//-->
+                </script><img src="http://e2.extreme-dm.com/s11.g?login=fo3nexus&amp;jv=n&amp;j=y&amp;srw=800&amp;srb=24&amp;l=" height="1" width="1"><noscript><div id="neXTReMe"><img height="1" width="1" alt=""
+                src="http://e2.extreme-dm.com/s11.g?login=fo3nexus&amp;j=n&amp;jv=n" />
+                </div></noscript></div>
+			</div>
+		</div>
+	</div>
+	<div id="main-bottom"></div>
+</div>
+
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -346,8 +461,6 @@ qacct:"p-bcgV-fdjlWlQo"
 </div>
 </noscript>
 <!-- End Quantcast tag -->
-
-
 
 
 </body></html>
