@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nflrush.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318080145id_/http%3A//www.nflrush.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nflrush.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124005158id_/http%3A//www.nflrush.com/privacypolicy/%3Ficampaign%3Drush_footer_privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - NFLRUSH
 
