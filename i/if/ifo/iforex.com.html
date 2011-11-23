@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the iforex.com privacy policy that was archived on 2011-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110525074422id_/http%3A//www.iforex.com/scripts/pagebase.aspx%3Ffolder%3Dcmp%26what%3Dprivacy%26ext%3Dhtm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iforex.com privacy policy that was archived on 2011-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123200410id_/http%3A//www.iforex.com/scripts/pagebase.aspx%3Ffolder%3Dcmp%26what%3Dprivacy%26ext%3Dhtm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml"><head id="pageBaseHeader"><title>
 	iFOREX Online Trading, Forex Trading, Online Currency Trading
@@ -37,14 +37,14 @@
 			<tbody><tr>
 				<td onmouseover="hideSubMenus();"></td>
 				<td style="width:778px;">
-					<form name="ctl00" method="post" action="/scripts/pagebase.aspx?folder=cmp&amp;what=privacy&amp;ext=htm" id="ctl00">
+					<form name="ctl00" method="post" action="pagebase.aspx?folder=cmp&amp;what=privacy&amp;ext=htm" id="ctl00">
 <div>
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE5MTk1MzM4MTJkZA==">
 </div>
 
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWFQLqqNCtBALT5qT2DgLrusm8AgLb28fTBwKc2smFCwL8i/6UDwLG/Z3zDgL8vebAAwKxoIn7CQKLj9LoBwLOvcGWDAKX0+7UDQKx0oTECAKp8cFaAtT89cMJAo2O9IcKAoiogt0IArzbp+MOAuLt6d0IAp/yq88MApj7nvQO">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWFgLqqNCtBALT5qT2DgLrusm8AgLb28fTBwKc2smFCwL8i/6UDwLG/Z3zDgL8vebAAwKxoIn7CQKLj9LoBwLOvcGWDAKX0+7UDQKx0oTECAKp8cFaAtT89cMJAtyKsZ0LAo2O9IcKAoiogt0IArzbp+MOAuLt6d0IAp/yq88MApj7nvQO">
 </div>
 						<div id="maindiv">
 							<table cellpadding="0" cellspacing="0" align="center">
@@ -68,7 +68,7 @@ function handleSuccess(component, eventId)
     
     try{	
 	window.status = component.GetUserID();    
-	document.getElementById("PC").innerHTML="PromoCode:" + component.GetUserID();
+	//document.getElementById("PC").innerHTML="PromoCode:" + component.GetUserID();
 	}catch(ex){}
 	try{document.getElementById("pcode").value=component.GetUserID();}catch(ex){}
 	try{document.getElementById("scode").value=component.GetSerialID();}catch(ex){}
@@ -159,13 +159,13 @@ emerpec.document.location.replace("/emerp/events/EMERPEventCollector.aspx?p=0&Ev
 <input id="pcode" type="hidden" name="pcode" value="0000">
 <input id="scode" type="hidden" name="scode" value="0000">
 <input id="dynamicSerialsInput" type="hidden" name="dynamicSerialsInput" value="">
-<iframe id="emerpec" name="emerpec" frameborder="0" width="0" height="0" style="position:absolute; top:0; left:0;" src="http://events.iforex.com/Emerp/events/EMERPEventCollector.aspx?curr=https%3A%2F%2Fweb.archive.org%2Fweb%2F20110525074422id_%2Fhttp%253A%2F%2Fwww.iforex.com%2Fscripts%2Fpagebase.aspx%253Ffolder%253Dcmp%2526what%253Dprivacy%2526ext%253Dhtm&amp;ref=&amp;&amp;SID=&amp;return=http%3A%2F%2Fweb.archive.org%2FEmerp%2Fevents%2FEMERPEventCollector.aspx%3Fp%3D0%26DoOnSuccess%3Dtrue%26EventName%3D%3Fhphit%26userguid%3D%5Bguid%5D%26SID%3D%5Bsid%5D%26%5Bdsp%5D"></iframe>
+<iframe id="emerpec" name="emerpec" frameborder="0" width="0" height="0" style="position:absolute; top:0; left:0;" src="http://events.iforex.com/Emerp/events/EMERPEventCollector.aspx?curr=https%3A%2F%2Fweb.archive.org%2Fweb%2F20111123200410id_%2Fhttp%253A%2F%2Fwww.iforex.com%2Fscripts%2Fpagebase.aspx%253Ffolder%253Dcmp%2526what%253Dprivacy%2526ext%253Dhtm&amp;ref=&amp;&amp;SID=&amp;return=http%3A%2F%2Fweb.archive.org%2FEmerp%2Fevents%2FEMERPEventCollector.aspx%3Fp%3D0%26DoOnSuccess%3Dtrue%26EventName%3D%3Fhphit%26userguid%3D%5Bguid%5D%26SID%3D%5Bsid%5D%26%5Bdsp%5D"></iframe>
 <script type="text/javascript">
     
     var sourcedomain = "http://" + document.location.host;
     var originaldomain = "http://" + "events.iforex.com";
     var tmpSearch = document.location.search.toLocaleLowerCase();
-    var m = tmpSearch.match(/sid=([^&]*)/);
+    var m = tmpSearch.match(/[\?\&]sid=([^&]*)/i);
     var serial = (m != null) ? m[1] : "";
     var r = document.referrer;
     try {
@@ -199,6 +199,7 @@ emerpec.document.location.replace("/emerp/events/EMERPEventCollector.aspx?p=0&Ev
 </script>	
 
 
+
 <link href="/CSS/LangUpMenu.css" type="text/css" rel="stylesheet">
 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
@@ -208,13 +209,13 @@ emerpec.document.location.replace("/emerp/events/EMERPEventCollector.aspx?p=0&Ev
 		<td class="td_logo" colspan="2" onmouseover="hideSubMenus();" height="87px">
 			<table cellpadding="0" cellspacing="0" class="logo_div" dir="ltr" style="width:100%;height:100%">
 			    <tbody><tr id="topOfficeLinkPanel">
-			        <td><a href="http://www.iforex.es" hreflang="es" title="Spanish" class="officesmargin">BARCELONA</a></td>
+                        <td><a href="http://www.iforex.es" hreflang="es" title="Spanish" class="officesmargin">BARCELONA</a></td>
 <td><a href="http://de.iforex.com" hreflang="de" title="German" class="officesmargin">FRANKFURT</a></td>
 <td><a href="http://ru.iforex.com" hreflang="ru" title="Russian" class="officesmargin">MOSCOW</a></td>
 <td><a href="http://www.iforex.ro" hreflang="ro" title="Romanian" class="officesmargin">BUCHAREST</a></td>
 <td><a href="http://www.iforex.hu" hreflang="hu" title="Hungarian" class="officesmargin">BUDAPEST</a></td>
 <td><a href="http://www.iforex.com?lang=English" hreflang="en" title="English" class="officesmargin">ATHENS</a></td>
-<td><a href="http://www.iforex.com.tr" hreflang="tr" title="Turkish" class="officesmargin">ISTANBUL</a></td>
+<td></td>
 
 			        <td align="right" style=" padding-right:11px;height:22px;">
                        <div class="sidebarmenu">
@@ -226,6 +227,7 @@ emerpec.document.location.replace("/emerp/events/EMERPEventCollector.aspx?p=0&Ev
 <li class="lilangmenu"><a href="http://www.iforex.com?lang=English" hreflang="en" title="English">English</a></li>
 <li class="lilangmenu"><a href="http://www.iforex.es/" hreflang="es" title="Español">Español</a></li>
 <li class="lilangmenu"><a href="http://www.iforex.fr/" hreflang="fr" title="Français">Français</a></li>
+<li class="lilangmenu"><a href="http://www.iforex.gr/" hreflang="gr" title="Ελληνικά">Ελληνικά</a></li>
 <li class="lilangmenu"><a href="http://www.iforex.it/" hreflang="it" title="Italiano">Italiano</a></li>
 <li class="lilangmenu"><a href="http://www.iforex.hu/" hreflang="hu" title="Magyar">Magyar</a></li>
 <li class="lilangmenu"><a href="http://www.iforex.nl/" hreflang="nl" title="Nederlands">Nederlands</a></li>
@@ -233,13 +235,17 @@ emerpec.document.location.replace("/emerp/events/EMERPEventCollector.aspx?p=0&Ev
 <li class="lilangmenu"><a href="http://br.iforex.com/" hreflang="pt" title="Português">Português</a></li>
 <li class="lilangmenu"><a href="http://www.iforex.ro/" hreflang="ro" title="Română">Română</a></li>
 <li class="lilangmenu"><a href="http://www.iforex.ph/" hreflang="tl" title="Tagalog">Tagalog</a></li>
-<li class="lilangmenu"><a href="http://www.iforex.com.tr/" hreflang="tr" title="Türkçe">Türkçe</a></li>
+<li class="lilangmenu"><div class="unsupported unsupported-bottom">Türkçe</div><a href="http://www.iforex.com.tr/" hreflang="tr" title="Türkçe">
+    Türkçe</a></li>
 <li class="lilangmenu"><a href="http://ru.iforex.com/" hreflang="ru" title="Русский">Русский</a></li>
 <li class="lilangmenu"><a href="http://www.iforex.ae/" hreflang="ar" title="عربي">عربي</a></li>
 <li class="lilangmenu"><a href="http://ir.iforex.com/" hreflang="fa" title="فارسی">فارسی</a></li>
 <li class="lilangmenu"><a href="http://www.iforex.in/" hreflang="en" title="अंग्रेज़ी">अंग्रेज़ी</a></li>
 <li class="lilangmenu"><a href="http://cn.iforex.com/" hreflang="zh" title="中文 (简体)">中文 (简体)</a></li>
 <li class="lilangmenu"><a href="http://www.iforex.jp/" hreflang="ja" title="日本語">日本語</a></li>
+<script type="text/javascript">
+    /*try { for (var b = document.getElementById("currentLanguage").getElementsByTagName("span")[0].innerHTML, c = document.getElementById("sidebarmenu1").getElementsByTagName("li"), d = c.length; d--; ) if (c[d].getElementsByTagName("a")[0].innerHTML == b) break; if (c[d]) document.getElementById("sidebarmenu1").removeChild(c[d]) } catch (e) { }*/
+</script>
         				    </ul>
                         </div>
                         <select name="CtlUpMenu1$ddlLang" id="CtlUpMenu1_ddlLang" class="ie6langselect" onchange="SetLanguage(this.options[this.selectedIndex].value);" style="font-size:10px;">
@@ -257,6 +263,7 @@ emerpec.document.location.replace("/emerp/events/EMERPEventCollector.aspx?p=0&Ev
 	<option value="Romanian">Română</option>
 	<option value="Filipino">Tagalog</option>
 	<option value="Turkish">Türkçe</option>
+	<option value="Greek">Ελληνικά</option>
 	<option value="Russian">Русский</option>
 	<option value="Arabic">عربي</option>
 	<option value="Farsi">فارسی</option>
@@ -293,14 +300,14 @@ emerpec.document.location.replace("/emerp/events/EMERPEventCollector.aspx?p=0&Ev
 		<td style="width:778px;" colspan="2" align="center">
 			<table id="CtlUpMenu1_tblRootMenu" cellspacing="1" cellpadding="0" border="0">
 	<tbody><tr>
-		<td id="CtlUpMenu1_rc0" class="rootMenu" onmouseover="showSubMenu(0,this);" style="width:129px;">Quotes</td><td id="CtlUpMenu1_rc1" class="rootMenu" onmouseover="showSubMenu(1,this);" style="width:129px;">Research</td><td id="CtlUpMenu1_rc2" class="rootMenu" onmouseover="showSubMenu(2,this);" style="width:129px;">Support</td><td id="CtlUpMenu1_rc3" class="rootMenu" onmouseover="showSubMenu(3,this);" style="width:129px;">Learning</td><td id="CtlUpMenu1_rc4" class="rootMenu" onmouseover="showSubMenu(4,this);" style="width:129px;">About</td><td id="CtlUpMenu1_rc5" class="rootMenu" onmouseover="showSubMenu(5,this);" style="width:129px;">Contact</td>
+		<td id="CtlUpMenu1_rc0" class="rootMenu" onmouseover="showSubMenu(0,this);" style="width:129px;">Forex and CFDS</td><td id="CtlUpMenu1_rc1" class="rootMenu" onmouseover="showSubMenu(1,this);" style="width:129px;">Research</td><td id="CtlUpMenu1_rc2" class="rootMenu" onmouseover="showSubMenu(2,this);" style="width:129px;">Support</td><td id="CtlUpMenu1_rc3" class="rootMenu" onmouseover="showSubMenu(3,this);" style="width:129px;">Learning</td><td id="CtlUpMenu1_rc4" class="rootMenu" onmouseover="showSubMenu(4,this);" style="width:129px;">About</td><td id="CtlUpMenu1_rc5" class="rootMenu" onmouseover="showSubMenu(5,this);" style="width:129px;">Contact</td>
 	</tr>
 </tbody></table>
 		</td>
 	</tr>
 	<tr>
 		<td colspan="2">
-			<div id="dv0" style="z-index:1000;visibility:hidden;position:absolute;left:1;"><table onmouseover="currentMenu='tb0';" onmouseout="chkMenu(event,'tb0');" id="tb0" cellpadding="0" cellspacing="1" style="background-color:#338cb8;width:154;margin-right:0;margin-left:0;"><tbody><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/rates/rates.aspx?type=flashmaj'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/rates/rates.aspx?type=flashmaj">USD Quotes</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/rates/rates.aspx?type=wwwcross'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/rates/rates.aspx?type=wwwcross">Cross Quotes</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/rates/rates.aspx?type=wwwexotic'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/rates/rates.aspx?type=wwwexotic">Exotic Currencies Quotes</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/rates/history.aspx'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/rates/history.aspx">Historical Exchange Rates</a></td></tr></tbody></table></div><div id="dv1" style="z-index:1001;visibility:hidden;position:absolute;left:130;"><table onmouseover="currentMenu='tb1';" onmouseout="chkMenu(event,'tb1');" id="tb1" cellpadding="0" cellspacing="1" style="background-color:#338cb8;width:154;margin-right:0;margin-left:0;"><tbody><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/fxdata/calendar.aspx'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/fxdata/calendar.aspx">Economic Calendar</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/analysis/tech.aspx'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/analysis/tech.aspx">Daily Analysis</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=charts&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=charts&amp;ext=htm">Charts</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/fxdata/interest.aspx?type=wwwintr'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/fxdata/interest.aspx?type=wwwintr">Interest</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/fxdata/forward.aspx'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/fxdata/forward.aspx">Forward Calculator</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/rates/convert.aspx'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/rates/convert.aspx">Currency Conversion</a></td></tr></tbody></table></div><div id="dv2" style="z-index:1002;visibility:hidden;position:absolute;left:259;"><table onmouseover="currentMenu='tb2';" onmouseout="chkMenu(event,'tb2');" id="tb2" cellpadding="0" cellspacing="1" style="background-color:#338cb8;width:154;margin-right:0;margin-left:0;"><tbody><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=faq&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=faq&amp;ext=htm">FAQ General</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=center&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=center&amp;ext=htm">Support Center</a></td></tr></tbody></table></div><div id="dv3" style="z-index:1003;visibility:hidden;position:absolute;left:388;"><table onmouseover="currentMenu='tb3';" onmouseout="chkMenu(event,'tb3');" id="tb3" cellpadding="0" cellspacing="1" style="background-color:#338cb8;width:154;margin-right:0;margin-left:0;"><tbody><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/material/material.aspx?folder=market&amp;what=entry'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/material/material.aspx?folder=market&amp;what=entry">Market Intro</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=droom&amp;what=deals&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=droom&amp;what=deals&amp;ext=htm">Trading Tools</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/material/material.aspx?folder=analysis&amp;what=entry'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/material/material.aspx?folder=analysis&amp;what=entry">Fundamental and Technical Analysis</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=EducationPack&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=EducationPack&amp;ext=htm">Educational Package</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase2.aspx?pfolder=material&amp;folder=reference&amp;what=ref&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase2.aspx?pfolder=material&amp;folder=reference&amp;what=ref&amp;ext=htm">Glossary</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/material/Encycl/forexbook.pdf'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/material/Encycl/forexbook.pdf">FX Book</a></td></tr></tbody></table></div><div id="dv4" style="z-index:1004;visibility:hidden;position:absolute;left:517;"><table onmouseover="currentMenu='tb4';" onmouseout="chkMenu(event,'tb4');" id="tb4" cellpadding="0" cellspacing="1" style="background-color:#338cb8;width:154;margin-right:0;margin-left:0;"><tbody><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=profile&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=profile&amp;ext=htm">iFOREX Company Profile</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=droom&amp;what=dealing&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=droom&amp;what=dealing&amp;ext=htm">iFOREX Trading Benefits</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=serviceExellence&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=serviceExellence&amp;ext=htm">Service Excellence</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=stoploss&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=stoploss&amp;ext=htm">Stop-Loss Policy</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=margin&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=margin&amp;ext=htm">Margin Requirements</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/index.aspx?hp=yes'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/index.aspx?hp=yes">Home</a></td></tr></tbody></table></div><div id="dv5" style="z-index:1005;visibility:hidden;position:absolute;left:646;"><table onmouseover="currentMenu='tb5';" onmouseout="chkMenu(event,'tb5');" id="tb5" cellpadding="0" cellspacing="1" style="background-color:#338cb8;width:154;margin-right:0;margin-left:0;"><tbody><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=contactInter&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=contactInter&amp;ext=htm">Contact Us</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/cmp/contact.aspx'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/cmp/contact.aspx">Request Form</a></td></tr></tbody></table></div>
+			<div id="dv0" style="z-index:1000;visibility:hidden;position:absolute;left:1;"><table onmouseover="currentMenu='tb0';" onmouseout="chkMenu(event,'tb0');" id="tb0" cellpadding="0" cellspacing="1" style="background-color:#338cb8;width:154;margin-right:0;margin-left:0;"><tbody><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/rates/aerates.aspx?type=flashmaj'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/rates/aerates.aspx?type=flashmaj">Forex Quotes</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=oil&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=oil&amp;ext=htm">CFD Trading</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=margin&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=margin&amp;ext=htm">Margin Requirements</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=stoploss&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=stoploss&amp;ext=htm">Stop-Loss Policy</a></td></tr></tbody></table></div><div id="dv1" style="z-index:1001;visibility:hidden;position:absolute;left:130;"><table onmouseover="currentMenu='tb1';" onmouseout="chkMenu(event,'tb1');" id="tb1" cellpadding="0" cellspacing="1" style="background-color:#338cb8;width:154;margin-right:0;margin-left:0;"><tbody><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/fxdata/calendar.aspx'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/fxdata/calendar.aspx">Economic Calendar</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/analysis/tech.aspx'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/analysis/tech.aspx">Daily Analysis</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=charts&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=charts&amp;ext=htm">Charts</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/fxdata/interest.aspx?type=wwwintr'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/fxdata/interest.aspx?type=wwwintr">Interest</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/fxdata/forward.aspx'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/fxdata/forward.aspx">Forward Calculator</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/rates/convert.aspx'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/rates/convert.aspx">Currency Conversion</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/rates/history.aspx'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/rates/history.aspx">Historical Exchange Rates</a></td></tr></tbody></table></div><div id="dv2" style="z-index:1002;visibility:hidden;position:absolute;left:259;"><table onmouseover="currentMenu='tb2';" onmouseout="chkMenu(event,'tb2');" id="tb2" cellpadding="0" cellspacing="1" style="background-color:#338cb8;width:154;margin-right:0;margin-left:0;"><tbody><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=faq&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=faq&amp;ext=htm">FAQ General</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=center&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=center&amp;ext=htm">Support Center</a></td></tr></tbody></table></div><div id="dv3" style="z-index:1003;visibility:hidden;position:absolute;left:388;"><table onmouseover="currentMenu='tb3';" onmouseout="chkMenu(event,'tb3');" id="tb3" cellpadding="0" cellspacing="1" style="background-color:#338cb8;width:154;margin-right:0;margin-left:0;"><tbody><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/material/material.aspx?folder=market&amp;what=entry'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/material/material.aspx?folder=market&amp;what=entry">Market Intro</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=droom&amp;what=deals&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=droom&amp;what=deals&amp;ext=htm">Trading Tools</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/material/material.aspx?folder=analysis&amp;what=entry'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/material/material.aspx?folder=analysis&amp;what=entry">Fundamental and Technical Analysis</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=EducationPack&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=EducationPack&amp;ext=htm">Educational Package</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase2.aspx?pfolder=material&amp;folder=reference&amp;what=ref&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase2.aspx?pfolder=material&amp;folder=reference&amp;what=ref&amp;ext=htm">Glossary</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/material/Encycl/forexbook.pdf'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/material/Encycl/forexbook.pdf">FX Book</a></td></tr></tbody></table></div><div id="dv4" style="z-index:1004;visibility:hidden;position:absolute;left:517;"><table onmouseover="currentMenu='tb4';" onmouseout="chkMenu(event,'tb4');" id="tb4" cellpadding="0" cellspacing="1" style="background-color:#338cb8;width:154;margin-right:0;margin-left:0;"><tbody><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=profile&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=profile&amp;ext=htm">iFOREX Company Profile</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=droom&amp;what=dealing&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=droom&amp;what=dealing&amp;ext=htm">iFOREX Trading Benefits</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=serviceExellence&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=serviceExellence&amp;ext=htm">Service Excellence</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/index.aspx?hp=yes'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/index.aspx?hp=yes">Home</a></td></tr></tbody></table></div><div id="dv5" style="z-index:1005;visibility:hidden;position:absolute;left:646;"><table onmouseover="currentMenu='tb5';" onmouseout="chkMenu(event,'tb5');" id="tb5" cellpadding="0" cellspacing="1" style="background-color:#338cb8;width:154;margin-right:0;margin-left:0;"><tbody><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/pagebase.aspx?folder=cmp&amp;what=contactInter&amp;ext=htm'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/pagebase.aspx?folder=cmp&amp;what=contactInter&amp;ext=htm">Contact Us</a></td></tr><tr><td class="subMenu" style="cursor:hand;" onmouseout="LI_DeHiLight(this);" onclick="document.location.href='/scripts/cmp/contact.aspx'" onmouseover="LI_HiLight(this)"><a onmouseover="LI_HiLight(this.parentNode)" class="subA" href="/scripts/cmp/contact.aspx">Request Form</a></td></tr></tbody></table></div>
 		</td>
 	</tr>
 	
@@ -315,7 +322,7 @@ emerpec.document.location.replace("/emerp/events/EMERPEventCollector.aspx?p=0&Ev
 
 <script type="text/javascript">
 
-var domLang = "www.iforex.com_English,www.iforex.co.il_Hebrew,www.iforex.fr_Francais,www.iforex.it_Italiano,br.iforex.com_Portuguese,www.iforex.ro_Romanian,ru.iforex.com_Russian,www.iforex.ae_Arabic,www.iforex.co.id_Indonesian,www.iforex.in_Hindi,cn.iforex.com_Chinese,www.iforex.jp_Japanese,www.iforex.ph_Filipino,de.iforex.com_German,www.iforex.es_Spanish,www.iforex.nl_Dutch,www.iforex.my_Malay,www.iforex.com.tr_Turkish,www.iforex.hu_Hungarian,ir.iforex.com_Farsi,pl.iforex.com_Polish";
+var domLang = "www.iforex.com_English,www.iforex.co.il_Hebrew,www.iforex.fr_Francais,www.iforex.it_Italiano,br.iforex.com_Portuguese,www.iforex.ro_Romanian,ru.iforex.com_Russian,www.iforex.ae_Arabic,www.iforex.co.id_Indonesian,www.iforex.in_Hindi,cn.iforex.com_Chinese,www.iforex.jp_Japanese,www.iforex.ph_Filipino,de.iforex.com_German,www.iforex.es_Spanish,www.iforex.nl_Dutch,www.iforex.my_Malay,www.iforex.hu_Hungarian,ir.iforex.com_Farsi,pl.iforex.com_Polish,www.iforex.com.cy_Cyprus,www.iforex.com.tr_Turkish,www.iforex.gr_Greek,turkisheu.iforex.com_Turkisheu";
 var mainDomain = "www.iforex.com";
 var activesLanguages = "English,United Kingdom,Russian,Indonesian,Malay,Filipino,Portuguese,Japanese,Chinese,German,Hungarian,Dutch,Romanian,Arabic,Hindi,Spanish,chineseTRA,Espana(EU),Italiano,Hebrew,Turkish,Francais,Portugal,Scandinavian,Polish";
 var tmpImg = new Image();
@@ -693,7 +700,7 @@ eraseCookie("hplang");
 																	
 <style type="text/css">
 	.headLight { FONT-WEIGHT: bold; COLOR: #257CA9; padding-top:4px }
-	.smallTitle { FONT-SIZE: 8pt; COLOR: #00A1DF ;line-height:9pt;}
+	.smallTitle { FONT-SIZE: 8pt; COLOR: #00A1DF ;line-height:9pt;width:157px;}
 	.bigTitle { FONT-WEIGHT: bold; COLOR: #00A2E3 }
 	.smallTitleArabic { FONT-SIZE: 8pt; COLOR: #00A1DF; line-height:7pt; }
 	.bigTitleFilipino { FONT-WEIGHT: bold; COLOR: #257CA9; padding-top:4px;FONT-SIZE: 11pt; }
@@ -941,7 +948,13 @@ eraseCookie("hplang");
 <script language="javascript">
     function setEmail()
     {
+        if (document.domain.match(/com\.cy$/)) {
+
+       var mailto_link = 'mailto:salesgroup@iforex.com.cy?subject=E-mail response request'; 		
+}else{
         var mailto_link = 'mailto:salesgroup@iforex.com?subject=E-mail response request'; 
+}
+
         window.open(mailto_link,'emailWindow'); 
         
 
@@ -1051,7 +1064,7 @@ eraseCookie("hplang");
 				<tr class="menu_cell">
 					<td class="menu_cell" colspan="3"><a id="ctl08_hlFXPlatform" class="link_menu" href="/scripts/pagebase.aspx?folder=cmp&amp;what=fxnet&amp;ext=htm">Trading Platforms</a></td>
 				</tr>
-			<!--	<tr class="menu_cell">
+				<!--<tr class="menu_cell">
 					<td class="menu_cell" colspan="3"><a id="ctl08_hlFXRisk" class="link_menu" href="/scripts/pagebase.aspx?folder=cmp&amp;what=risk&amp;ext=htm">Risk Warning</a></td>
 				</tr>-->
 				
@@ -1333,7 +1346,7 @@ eraseCookie("hplang");
 											<tr valign="top">
 												<td>
 													
-<div id="divFirst">
+<div id="divFirst" style="border:0;margin:0;padding:0">
 	<table id="ctlQ_tblQuotes" class="tblquotes" cellspacing="0" cellpadding="0" border="0" style="width:100%;border-collapse:collapse;">
 	<tbody><tr style="height:18px;">
 		<td class="titleGray" colspan="5" style="padding-left:5;">Currency Quotes</td>
@@ -1367,28 +1380,24 @@ eraseCookie("hplang");
 		<td></td><td id="ctlQ_td_ccy_NZD/USD"><span id="ccy_NZD/USD">NZD/USD</span></td><td id="ctlQ_td_bid_NZD/USD"><span class="qSize" id="bid_NZD/USD">0.000</span></td><td id="ctlQ_td_ask_NZD/USD"><span class="qSize" id="ask_NZD/USD">0.000</span></td><td><img src="/img/quotes/arrUp.gif" id="arr_NZD/USD"></td><td></td>
 	</tr><tr>
 		<td colspan="5" style="background-color:White;height:1px;"></td>
-	</tr><tr id="ctlQ_tr_USD/ZAR" class="tr1" style="height:18px;">
-		<td></td><td id="ctlQ_td_ccy_USD/ZAR"><span id="ccy_USD/ZAR">USD/ZAR</span></td><td id="ctlQ_td_bid_USD/ZAR"><span class="qSize" id="bid_USD/ZAR">0.000</span></td><td id="ctlQ_td_ask_USD/ZAR"><span class="qSize" id="ask_USD/ZAR">0.000</span></td><td><img src="/img/quotes/arrDown.gif" id="arr_USD/ZAR"></td><td></td>
-	</tr><tr>
-		<td colspan="5" style="background-color:White;height:1px;"></td>
 	</tr><tr id="ctlQ_tr_EUR/JPY" class="tr1" style="height:18px;">
-		<td></td><td id="ctlQ_td_ccy_EUR/JPY"><span id="ccy_EUR/JPY">EUR/JPY</span></td><td id="ctlQ_td_bid_EUR/JPY"><span class="qSize" id="bid_EUR/JPY">0.000</span></td><td id="ctlQ_td_ask_EUR/JPY"><span class="qSize" id="ask_EUR/JPY">0.000</span></td><td><img src="/img/quotes/arrUp.gif" id="arr_EUR/JPY"></td><td></td>
+		<td></td><td id="ctlQ_td_ccy_EUR/JPY"><span id="ccy_EUR/JPY">EUR/JPY</span></td><td id="ctlQ_td_bid_EUR/JPY"><span class="qSize" id="bid_EUR/JPY">0.000</span></td><td id="ctlQ_td_ask_EUR/JPY"><span class="qSize" id="ask_EUR/JPY">0.000</span></td><td><img src="/img/quotes/arrDown.gif" id="arr_EUR/JPY"></td><td></td>
 	</tr><tr>
 		<td colspan="5" style="background-color:White;height:1px;"></td>
 	</tr><tr id="ctlQ_tr_EUR/GBP" class="tr1" style="height:18px;">
-		<td></td><td id="ctlQ_td_ccy_EUR/GBP"><span id="ccy_EUR/GBP">EUR/GBP</span></td><td id="ctlQ_td_bid_EUR/GBP"><span class="qSize" id="bid_EUR/GBP">0.000</span></td><td id="ctlQ_td_ask_EUR/GBP"><span class="qSize" id="ask_EUR/GBP">0.000</span></td><td><img src="/img/quotes/arrDown.gif" id="arr_EUR/GBP"></td><td></td>
+		<td></td><td id="ctlQ_td_ccy_EUR/GBP"><span id="ccy_EUR/GBP">EUR/GBP</span></td><td id="ctlQ_td_bid_EUR/GBP"><span class="qSize" id="bid_EUR/GBP">0.000</span></td><td id="ctlQ_td_ask_EUR/GBP"><span class="qSize" id="ask_EUR/GBP">0.000</span></td><td><img src="/img/quotes/arrUp.gif" id="arr_EUR/GBP"></td><td></td>
 	</tr><tr>
 		<td colspan="5" style="background-color:White;height:1px;"></td>
 	</tr><tr id="ctlQ_tr_EUR/CHF" class="tr1" style="height:18px;">
-		<td></td><td id="ctlQ_td_ccy_EUR/CHF"><span id="ccy_EUR/CHF">EUR/CHF</span></td><td id="ctlQ_td_bid_EUR/CHF"><span class="qSize" id="bid_EUR/CHF">0.000</span></td><td id="ctlQ_td_ask_EUR/CHF"><span class="qSize" id="ask_EUR/CHF">0.000</span></td><td><img src="/img/quotes/arrUp.gif" id="arr_EUR/CHF"></td><td></td>
+		<td></td><td id="ctlQ_td_ccy_EUR/CHF"><span id="ccy_EUR/CHF">EUR/CHF</span></td><td id="ctlQ_td_bid_EUR/CHF"><span class="qSize" id="bid_EUR/CHF">0.000</span></td><td id="ctlQ_td_ask_EUR/CHF"><span class="qSize" id="ask_EUR/CHF">0.000</span></td><td><img src="/img/quotes/arrDown.gif" id="arr_EUR/CHF"></td><td></td>
 	</tr><tr>
 		<td colspan="5" style="background-color:White;height:1px;"></td>
 	</tr><tr id="ctlQ_tr_GBP/JPY" class="tr1" style="height:18px;">
-		<td></td><td id="ctlQ_td_ccy_GBP/JPY"><span id="ccy_GBP/JPY">GBP/JPY</span></td><td id="ctlQ_td_bid_GBP/JPY"><span class="qSize" id="bid_GBP/JPY">0.000</span></td><td id="ctlQ_td_ask_GBP/JPY"><span class="qSize" id="ask_GBP/JPY">0.000</span></td><td><img src="/img/quotes/arrDown.gif" id="arr_GBP/JPY"></td><td></td>
+		<td></td><td id="ctlQ_td_ccy_GBP/JPY"><span id="ccy_GBP/JPY">GBP/JPY</span></td><td id="ctlQ_td_bid_GBP/JPY"><span class="qSize" id="bid_GBP/JPY">0.000</span></td><td id="ctlQ_td_ask_GBP/JPY"><span class="qSize" id="ask_GBP/JPY">0.000</span></td><td><img src="/img/quotes/arrUp.gif" id="arr_GBP/JPY"></td><td></td>
 	</tr><tr>
 		<td colspan="5" style="background-color:White;height:1px;"></td>
 	</tr><tr id="ctlQ_tr_GBP/CHF" class="tr1" style="height:18px;">
-		<td></td><td id="ctlQ_td_ccy_GBP/CHF"><span id="ccy_GBP/CHF">GBP/CHF</span></td><td id="ctlQ_td_bid_GBP/CHF"><span class="qSize" id="bid_GBP/CHF">0.000</span></td><td id="ctlQ_td_ask_GBP/CHF"><span class="qSize" id="ask_GBP/CHF">0.000</span></td><td><img src="/img/quotes/arrUp.gif" id="arr_GBP/CHF"></td><td></td>
+		<td></td><td id="ctlQ_td_ccy_GBP/CHF"><span id="ccy_GBP/CHF">GBP/CHF</span></td><td id="ctlQ_td_bid_GBP/CHF"><span class="qSize" id="bid_GBP/CHF">0.000</span></td><td id="ctlQ_td_ask_GBP/CHF"><span class="qSize" id="ask_GBP/CHF">0.000</span></td><td><img src="/img/quotes/arrDown.gif" id="arr_GBP/CHF"></td><td></td>
 	</tr><tr>
 		<td colspan="5" style="background-color:White;height:1px;"></td>
 	</tr><tr style="height:18px;">
@@ -1396,11 +1405,15 @@ eraseCookie("hplang");
 	</tr><tr class="trhdr">
 		<td class="titleLightGray" style="width:5px;"></td><td class="titleLightGray"><span>Symbol</span></td><td class="titleLightGray"><span>Bid</span></td><td class="titleLightGray"><span>Ask</span></td><td class="titleLightGray"></td><td></td>
 	</tr><tr id="ctlQ_tr_XAU/USD" class="tr1" style="height:18px;">
-		<td></td><td id="ctlQ_td_ccy_XAU/USD"><span id="ccy_XAU/USD">XAU/USD</span></td><td id="ctlQ_td_bid_XAU/USD"><span class="qSize" id="bid_XAU/USD">0.000</span></td><td id="ctlQ_td_ask_XAU/USD"><span class="qSize" id="ask_XAU/USD">0.000</span></td><td><img src="/img/quotes/arrDown.gif" id="arr_XAU/USD"></td><td></td>
+		<td></td><td id="ctlQ_td_ccy_XAU/USD"><span id="ccy_XAU/USD">XAU/USD</span></td><td id="ctlQ_td_bid_XAU/USD"><span class="qSize" id="bid_XAU/USD">0.000</span></td><td id="ctlQ_td_ask_XAU/USD"><span class="qSize" id="ask_XAU/USD">0.000</span></td><td><img src="/img/quotes/arrUp.gif" id="arr_XAU/USD"></td><td></td>
 	</tr><tr>
 		<td colspan="5" style="background-color:White;height:1px;"></td>
 	</tr><tr id="ctlQ_tr_XAG/USD" class="tr1" style="height:18px;">
-		<td></td><td id="ctlQ_td_ccy_XAG/USD"><span id="ccy_XAG/USD">XAG/USD</span></td><td id="ctlQ_td_bid_XAG/USD"><span class="qSize" id="bid_XAG/USD">0.000</span></td><td id="ctlQ_td_ask_XAG/USD"><span class="qSize" id="ask_XAG/USD">0.000</span></td><td><img src="/img/quotes/arrUp.gif" id="arr_XAG/USD"></td><td></td>
+		<td></td><td id="ctlQ_td_ccy_XAG/USD"><span id="ccy_XAG/USD">XAG/USD</span></td><td id="ctlQ_td_bid_XAG/USD"><span class="qSize" id="bid_XAG/USD">0.000</span></td><td id="ctlQ_td_ask_XAG/USD"><span class="qSize" id="ask_XAG/USD">0.000</span></td><td><img src="/img/quotes/arrDown.gif" id="arr_XAG/USD"></td><td></td>
+	</tr><tr>
+		<td colspan="5" style="background-color:White;height:1px;"></td>
+	</tr><tr id="ctlQ_tr_OIL/USD" class="tr1" style="height:18px;">
+		<td></td><td id="ctlQ_td_ccy_OIL/USD"><span id="ccy_OIL/USD">OIL/USD</span></td><td id="ctlQ_td_bid_OIL/USD"><span class="qSize" id="bid_OIL/USD">0.000</span></td><td id="ctlQ_td_ask_OIL/USD"><span class="qSize" id="ask_OIL/USD">0.000</span></td><td><img src="/img/quotes/arrUp.gif" id="arr_OIL/USD"></td><td></td>
 	</tr><tr>
 		<td colspan="5" style="background-color:White;height:1px;"></td>
 	</tr><tr>
@@ -1408,7 +1421,7 @@ eraseCookie("hplang");
 	</tr>
 </tbody></table>
 </div>
-<div id="expQHolder" style="position: absolute; left: 708px; top: 97px; visibility: hidden;">
+<div id="expQHolder" style="position:absolute;left:0;top:0;visibility:hidden;">
 	<table id="ctlQ_tblExpQ" class="tblquotes" cellspacing="0" cellpadding="0" border="0" style="border-collapse:collapse;table-layout:auto">
 	<tbody><tr class="trhdr">
 		<td class="titleLightGray" style="width:5px;"></td><td class="titleLightGray"><span>Low</span></td><td class="titleLightGray"><span>High</span></td><td class="titleLightGray"><span>Change</span></td><td class="titleLightGray"><span>Range</span></td><td class="titleLightGray"></td><td></td>
@@ -1440,36 +1453,36 @@ eraseCookie("hplang");
 		<td></td><td id="ctlQ_td_high_NZD/USD" style="width:45px;"><span class="qSize" id="low_NZD/USD">0.000</span></td><td id="ctlQ_td_low_NZD/USD" style="width:45px;"><span class="qSize" id="high_NZD/USD">0.000</span></td><td id="ctlQ_td_change_NZD/USD" style="width:50px;"><span class="qSize" id="change_NZD/USD">0.00%</span></td><td id="ctlQ_td_range_NZD/USD" style="width:45px;"><span class="qSize" id="range_NZD/USD">0.00%</span></td><td><img src="/img/quotes/arrUp.gif" id="xarr_NZD/USD"></td><td></td>
 	</tr><tr>
 		<td colspan="6" style="background-color:White;height:1px;"></td>
-	</tr><tr id="ctlQ_xtr_USD/ZAR" class="tr1" style="height:18px;">
-		<td></td><td id="ctlQ_td_high_USD/ZAR" style="width:45px;"><span class="qSize" id="low_USD/ZAR">0.000</span></td><td id="ctlQ_td_low_USD/ZAR" style="width:45px;"><span class="qSize" id="high_USD/ZAR">0.000</span></td><td id="ctlQ_td_change_USD/ZAR" style="width:50px;"><span class="qSize" id="change_USD/ZAR">0.00%</span></td><td id="ctlQ_td_range_USD/ZAR" style="width:45px;"><span class="qSize" id="range_USD/ZAR">0.00%</span></td><td><img src="/img/quotes/arrDown.gif" id="xarr_USD/ZAR"></td><td></td>
-	</tr><tr>
-		<td colspan="6" style="background-color:White;height:1px;"></td>
 	</tr><tr id="ctlQ_xtr_EUR/JPY" class="tr1" style="height:18px;">
-		<td></td><td id="ctlQ_td_high_EUR/JPY" style="width:45px;"><span class="qSize" id="low_EUR/JPY">0.000</span></td><td id="ctlQ_td_low_EUR/JPY" style="width:45px;"><span class="qSize" id="high_EUR/JPY">0.000</span></td><td id="ctlQ_td_change_EUR/JPY" style="width:50px;"><span class="qSize" id="change_EUR/JPY">0.00%</span></td><td id="ctlQ_td_range_EUR/JPY" style="width:45px;"><span class="qSize" id="range_EUR/JPY">0.00%</span></td><td><img src="/img/quotes/arrUp.gif" id="xarr_EUR/JPY"></td><td></td>
+		<td></td><td id="ctlQ_td_high_EUR/JPY" style="width:45px;"><span class="qSize" id="low_EUR/JPY">0.000</span></td><td id="ctlQ_td_low_EUR/JPY" style="width:45px;"><span class="qSize" id="high_EUR/JPY">0.000</span></td><td id="ctlQ_td_change_EUR/JPY" style="width:50px;"><span class="qSize" id="change_EUR/JPY">0.00%</span></td><td id="ctlQ_td_range_EUR/JPY" style="width:45px;"><span class="qSize" id="range_EUR/JPY">0.00%</span></td><td><img src="/img/quotes/arrDown.gif" id="xarr_EUR/JPY"></td><td></td>
 	</tr><tr>
 		<td colspan="6" style="background-color:White;height:1px;"></td>
 	</tr><tr id="ctlQ_xtr_EUR/GBP" class="tr1" style="height:18px;">
-		<td></td><td id="ctlQ_td_high_EUR/GBP" style="width:45px;"><span class="qSize" id="low_EUR/GBP">0.000</span></td><td id="ctlQ_td_low_EUR/GBP" style="width:45px;"><span class="qSize" id="high_EUR/GBP">0.000</span></td><td id="ctlQ_td_change_EUR/GBP" style="width:50px;"><span class="qSize" id="change_EUR/GBP">0.00%</span></td><td id="ctlQ_td_range_EUR/GBP" style="width:45px;"><span class="qSize" id="range_EUR/GBP">0.00%</span></td><td><img src="/img/quotes/arrDown.gif" id="xarr_EUR/GBP"></td><td></td>
+		<td></td><td id="ctlQ_td_high_EUR/GBP" style="width:45px;"><span class="qSize" id="low_EUR/GBP">0.000</span></td><td id="ctlQ_td_low_EUR/GBP" style="width:45px;"><span class="qSize" id="high_EUR/GBP">0.000</span></td><td id="ctlQ_td_change_EUR/GBP" style="width:50px;"><span class="qSize" id="change_EUR/GBP">0.00%</span></td><td id="ctlQ_td_range_EUR/GBP" style="width:45px;"><span class="qSize" id="range_EUR/GBP">0.00%</span></td><td><img src="/img/quotes/arrUp.gif" id="xarr_EUR/GBP"></td><td></td>
 	</tr><tr>
 		<td colspan="6" style="background-color:White;height:1px;"></td>
 	</tr><tr id="ctlQ_xtr_EUR/CHF" class="tr1" style="height:18px;">
-		<td></td><td id="ctlQ_td_high_EUR/CHF" style="width:45px;"><span class="qSize" id="low_EUR/CHF">0.000</span></td><td id="ctlQ_td_low_EUR/CHF" style="width:45px;"><span class="qSize" id="high_EUR/CHF">0.000</span></td><td id="ctlQ_td_change_EUR/CHF" style="width:50px;"><span class="qSize" id="change_EUR/CHF">0.00%</span></td><td id="ctlQ_td_range_EUR/CHF" style="width:45px;"><span class="qSize" id="range_EUR/CHF">0.00%</span></td><td><img src="/img/quotes/arrUp.gif" id="xarr_EUR/CHF"></td><td></td>
+		<td></td><td id="ctlQ_td_high_EUR/CHF" style="width:45px;"><span class="qSize" id="low_EUR/CHF">0.000</span></td><td id="ctlQ_td_low_EUR/CHF" style="width:45px;"><span class="qSize" id="high_EUR/CHF">0.000</span></td><td id="ctlQ_td_change_EUR/CHF" style="width:50px;"><span class="qSize" id="change_EUR/CHF">0.00%</span></td><td id="ctlQ_td_range_EUR/CHF" style="width:45px;"><span class="qSize" id="range_EUR/CHF">0.00%</span></td><td><img src="/img/quotes/arrDown.gif" id="xarr_EUR/CHF"></td><td></td>
 	</tr><tr>
 		<td colspan="6" style="background-color:White;height:1px;"></td>
 	</tr><tr id="ctlQ_xtr_GBP/JPY" class="tr1" style="height:18px;">
-		<td></td><td id="ctlQ_td_high_GBP/JPY" style="width:45px;"><span class="qSize" id="low_GBP/JPY">0.000</span></td><td id="ctlQ_td_low_GBP/JPY" style="width:45px;"><span class="qSize" id="high_GBP/JPY">0.000</span></td><td id="ctlQ_td_change_GBP/JPY" style="width:50px;"><span class="qSize" id="change_GBP/JPY">0.00%</span></td><td id="ctlQ_td_range_GBP/JPY" style="width:45px;"><span class="qSize" id="range_GBP/JPY">0.00%</span></td><td><img src="/img/quotes/arrDown.gif" id="xarr_GBP/JPY"></td><td></td>
+		<td></td><td id="ctlQ_td_high_GBP/JPY" style="width:45px;"><span class="qSize" id="low_GBP/JPY">0.000</span></td><td id="ctlQ_td_low_GBP/JPY" style="width:45px;"><span class="qSize" id="high_GBP/JPY">0.000</span></td><td id="ctlQ_td_change_GBP/JPY" style="width:50px;"><span class="qSize" id="change_GBP/JPY">0.00%</span></td><td id="ctlQ_td_range_GBP/JPY" style="width:45px;"><span class="qSize" id="range_GBP/JPY">0.00%</span></td><td><img src="/img/quotes/arrUp.gif" id="xarr_GBP/JPY"></td><td></td>
 	</tr><tr>
 		<td colspan="6" style="background-color:White;height:1px;"></td>
 	</tr><tr id="ctlQ_xtr_GBP/CHF" class="tr1" style="height:18px;">
-		<td></td><td id="ctlQ_td_high_GBP/CHF" style="width:45px;"><span class="qSize" id="low_GBP/CHF">0.000</span></td><td id="ctlQ_td_low_GBP/CHF" style="width:45px;"><span class="qSize" id="high_GBP/CHF">0.000</span></td><td id="ctlQ_td_change_GBP/CHF" style="width:50px;"><span class="qSize" id="change_GBP/CHF">0.00%</span></td><td id="ctlQ_td_range_GBP/CHF" style="width:45px;"><span class="qSize" id="range_GBP/CHF">0.00%</span></td><td><img src="/img/quotes/arrUp.gif" id="xarr_GBP/CHF"></td><td></td>
+		<td></td><td id="ctlQ_td_high_GBP/CHF" style="width:45px;"><span class="qSize" id="low_GBP/CHF">0.000</span></td><td id="ctlQ_td_low_GBP/CHF" style="width:45px;"><span class="qSize" id="high_GBP/CHF">0.000</span></td><td id="ctlQ_td_change_GBP/CHF" style="width:50px;"><span class="qSize" id="change_GBP/CHF">0.00%</span></td><td id="ctlQ_td_range_GBP/CHF" style="width:45px;"><span class="qSize" id="range_GBP/CHF">0.00%</span></td><td><img src="/img/quotes/arrDown.gif" id="xarr_GBP/CHF"></td><td></td>
 	</tr><tr>
 		<td colspan="6" style="background-color:White;height:1px;"></td>
 	</tr><tr id="ctlQ_xtr_XAU/USD" class="tr1" style="height:18px;">
-		<td></td><td id="ctlQ_td_high_XAU/USD" style="width:45px;"><span class="qSize" id="low_XAU/USD">0.000</span></td><td id="ctlQ_td_low_XAU/USD" style="width:45px;"><span class="qSize" id="high_XAU/USD">0.000</span></td><td id="ctlQ_td_change_XAU/USD" style="width:50px;"><span class="qSize" id="change_XAU/USD">0.00%</span></td><td id="ctlQ_td_range_XAU/USD" style="width:45px;"><span class="qSize" id="range_XAU/USD">0.00%</span></td><td><img src="/img/quotes/arrDown.gif" id="xarr_XAU/USD"></td><td></td>
+		<td></td><td id="ctlQ_td_high_XAU/USD" style="width:45px;"><span class="qSize" id="low_XAU/USD">0.000</span></td><td id="ctlQ_td_low_XAU/USD" style="width:45px;"><span class="qSize" id="high_XAU/USD">0.000</span></td><td id="ctlQ_td_change_XAU/USD" style="width:50px;"><span class="qSize" id="change_XAU/USD">0.00%</span></td><td id="ctlQ_td_range_XAU/USD" style="width:45px;"><span class="qSize" id="range_XAU/USD">0.00%</span></td><td><img src="/img/quotes/arrUp.gif" id="xarr_XAU/USD"></td><td></td>
 	</tr><tr>
 		<td colspan="6" style="background-color:White;height:1px;"></td>
 	</tr><tr id="ctlQ_xtr_XAG/USD" class="tr1" style="height:18px;">
-		<td></td><td id="ctlQ_td_high_XAG/USD" style="width:45px;"><span class="qSize" id="low_XAG/USD">0.000</span></td><td id="ctlQ_td_low_XAG/USD" style="width:45px;"><span class="qSize" id="high_XAG/USD">0.000</span></td><td id="ctlQ_td_change_XAG/USD" style="width:50px;"><span class="qSize" id="change_XAG/USD">0.00%</span></td><td id="ctlQ_td_range_XAG/USD" style="width:45px;"><span class="qSize" id="range_XAG/USD">0.00%</span></td><td><img src="/img/quotes/arrUp.gif" id="xarr_XAG/USD"></td><td></td>
+		<td></td><td id="ctlQ_td_high_XAG/USD" style="width:45px;"><span class="qSize" id="low_XAG/USD">0.000</span></td><td id="ctlQ_td_low_XAG/USD" style="width:45px;"><span class="qSize" id="high_XAG/USD">0.000</span></td><td id="ctlQ_td_change_XAG/USD" style="width:50px;"><span class="qSize" id="change_XAG/USD">0.00%</span></td><td id="ctlQ_td_range_XAG/USD" style="width:45px;"><span class="qSize" id="range_XAG/USD">0.00%</span></td><td><img src="/img/quotes/arrDown.gif" id="xarr_XAG/USD"></td><td></td>
+	</tr><tr>
+		<td colspan="6" style="background-color:White;height:1px;"></td>
+	</tr><tr id="ctlQ_xtr_OIL/USD" class="tr1" style="height:18px;">
+		<td></td><td id="ctlQ_td_high_OIL/USD" style="width:45px;"><span class="qSize" id="low_OIL/USD">0.000</span></td><td id="ctlQ_td_low_OIL/USD" style="width:45px;"><span class="qSize" id="high_OIL/USD">0.000</span></td><td id="ctlQ_td_change_OIL/USD" style="width:50px;"><span class="qSize" id="change_OIL/USD">0.00%</span></td><td id="ctlQ_td_range_OIL/USD" style="width:45px;"><span class="qSize" id="range_OIL/USD">0.00%</span></td><td><img src="/img/quotes/arrUp.gif" id="xarr_OIL/USD"></td><td></td>
 	</tr><tr>
 		<td colspan="6" style="background-color:White;height:1px;"></td>
 	</tr><tr>
@@ -1478,7 +1491,7 @@ eraseCookie("hplang");
 </tbody></table>
 </div>
 <div id="divSecond" style="position: absolute; left: 0px; top: 0px; visibility: hidden;">
-	<table id="ctlQ_tblSecond" class="tblquotes" cellspacing="0" cellpadding="0" border="0" style="width:165px;border-collapse:collapse;table-layout:auto">
+	<table id="ctlQ_tblSecond" class="tblquotes" cellspacing="0" cellpadding="0" border="0" style="width:100%;border-collapse:collapse;table-layout:auto">
 	<tbody><tr class="titleGray" style="height:18px;">
 		<td colspan="6"></td>
 	</tr><tr class="trhdr">
@@ -1511,28 +1524,24 @@ eraseCookie("hplang");
 		<td></td><td></td><td id="ctlQ_td_low2_NZD/USD" style="width:45px;"><span class="qSize" id="high2_NZD/USD">0.000</span></td><td id="ctlQ_td_change2_NZD/USD" style="width:50px;"><span class="qSize" id="change2_NZD/USD">0.00%</span></td><td id="ctlQ_td_range2_NZD/USD" style="width:45px;"><span class="qSize" id="range2_NZD/USD">0.00%</span></td><td><img src="/img/quotes/arrUp.gif" id="xarr2_NZD/USD"></td><td></td>
 	</tr><tr>
 		<td colspan="6" style="background-color:White;height:1px;"></td>
-	</tr><tr id="ctlQ_tr2_USD/ZAR" class="tr1" style="height:18px;">
-		<td></td><td></td><td id="ctlQ_td_low2_USD/ZAR" style="width:45px;"><span class="qSize" id="high2_USD/ZAR">0.000</span></td><td id="ctlQ_td_change2_USD/ZAR" style="width:50px;"><span class="qSize" id="change2_USD/ZAR">0.00%</span></td><td id="ctlQ_td_range2_USD/ZAR" style="width:45px;"><span class="qSize" id="range2_USD/ZAR">0.00%</span></td><td><img src="/img/quotes/arrDown.gif" id="xarr2_USD/ZAR"></td><td></td>
-	</tr><tr>
-		<td colspan="6" style="background-color:White;height:1px;"></td>
 	</tr><tr id="ctlQ_tr2_EUR/JPY" class="tr1" style="height:18px;">
-		<td></td><td></td><td id="ctlQ_td_low2_EUR/JPY" style="width:45px;"><span class="qSize" id="high2_EUR/JPY">0.000</span></td><td id="ctlQ_td_change2_EUR/JPY" style="width:50px;"><span class="qSize" id="change2_EUR/JPY">0.00%</span></td><td id="ctlQ_td_range2_EUR/JPY" style="width:45px;"><span class="qSize" id="range2_EUR/JPY">0.00%</span></td><td><img src="/img/quotes/arrUp.gif" id="xarr2_EUR/JPY"></td><td></td>
+		<td></td><td></td><td id="ctlQ_td_low2_EUR/JPY" style="width:45px;"><span class="qSize" id="high2_EUR/JPY">0.000</span></td><td id="ctlQ_td_change2_EUR/JPY" style="width:50px;"><span class="qSize" id="change2_EUR/JPY">0.00%</span></td><td id="ctlQ_td_range2_EUR/JPY" style="width:45px;"><span class="qSize" id="range2_EUR/JPY">0.00%</span></td><td><img src="/img/quotes/arrDown.gif" id="xarr2_EUR/JPY"></td><td></td>
 	</tr><tr>
 		<td colspan="6" style="background-color:White;height:1px;"></td>
 	</tr><tr id="ctlQ_tr2_EUR/GBP" class="tr1" style="height:18px;">
-		<td></td><td></td><td id="ctlQ_td_low2_EUR/GBP" style="width:45px;"><span class="qSize" id="high2_EUR/GBP">0.000</span></td><td id="ctlQ_td_change2_EUR/GBP" style="width:50px;"><span class="qSize" id="change2_EUR/GBP">0.00%</span></td><td id="ctlQ_td_range2_EUR/GBP" style="width:45px;"><span class="qSize" id="range2_EUR/GBP">0.00%</span></td><td><img src="/img/quotes/arrDown.gif" id="xarr2_EUR/GBP"></td><td></td>
+		<td></td><td></td><td id="ctlQ_td_low2_EUR/GBP" style="width:45px;"><span class="qSize" id="high2_EUR/GBP">0.000</span></td><td id="ctlQ_td_change2_EUR/GBP" style="width:50px;"><span class="qSize" id="change2_EUR/GBP">0.00%</span></td><td id="ctlQ_td_range2_EUR/GBP" style="width:45px;"><span class="qSize" id="range2_EUR/GBP">0.00%</span></td><td><img src="/img/quotes/arrUp.gif" id="xarr2_EUR/GBP"></td><td></td>
 	</tr><tr>
 		<td colspan="6" style="background-color:White;height:1px;"></td>
 	</tr><tr id="ctlQ_tr2_EUR/CHF" class="tr1" style="height:18px;">
-		<td></td><td></td><td id="ctlQ_td_low2_EUR/CHF" style="width:45px;"><span class="qSize" id="high2_EUR/CHF">0.000</span></td><td id="ctlQ_td_change2_EUR/CHF" style="width:50px;"><span class="qSize" id="change2_EUR/CHF">0.00%</span></td><td id="ctlQ_td_range2_EUR/CHF" style="width:45px;"><span class="qSize" id="range2_EUR/CHF">0.00%</span></td><td><img src="/img/quotes/arrUp.gif" id="xarr2_EUR/CHF"></td><td></td>
+		<td></td><td></td><td id="ctlQ_td_low2_EUR/CHF" style="width:45px;"><span class="qSize" id="high2_EUR/CHF">0.000</span></td><td id="ctlQ_td_change2_EUR/CHF" style="width:50px;"><span class="qSize" id="change2_EUR/CHF">0.00%</span></td><td id="ctlQ_td_range2_EUR/CHF" style="width:45px;"><span class="qSize" id="range2_EUR/CHF">0.00%</span></td><td><img src="/img/quotes/arrDown.gif" id="xarr2_EUR/CHF"></td><td></td>
 	</tr><tr>
 		<td colspan="6" style="background-color:White;height:1px;"></td>
 	</tr><tr id="ctlQ_tr2_GBP/JPY" class="tr1" style="height:18px;">
-		<td></td><td></td><td id="ctlQ_td_low2_GBP/JPY" style="width:45px;"><span class="qSize" id="high2_GBP/JPY">0.000</span></td><td id="ctlQ_td_change2_GBP/JPY" style="width:50px;"><span class="qSize" id="change2_GBP/JPY">0.00%</span></td><td id="ctlQ_td_range2_GBP/JPY" style="width:45px;"><span class="qSize" id="range2_GBP/JPY">0.00%</span></td><td><img src="/img/quotes/arrDown.gif" id="xarr2_GBP/JPY"></td><td></td>
+		<td></td><td></td><td id="ctlQ_td_low2_GBP/JPY" style="width:45px;"><span class="qSize" id="high2_GBP/JPY">0.000</span></td><td id="ctlQ_td_change2_GBP/JPY" style="width:50px;"><span class="qSize" id="change2_GBP/JPY">0.00%</span></td><td id="ctlQ_td_range2_GBP/JPY" style="width:45px;"><span class="qSize" id="range2_GBP/JPY">0.00%</span></td><td><img src="/img/quotes/arrUp.gif" id="xarr2_GBP/JPY"></td><td></td>
 	</tr><tr>
 		<td colspan="6" style="background-color:White;height:1px;"></td>
 	</tr><tr id="ctlQ_tr2_GBP/CHF" class="tr1" style="height:18px;">
-		<td></td><td></td><td id="ctlQ_td_low2_GBP/CHF" style="width:45px;"><span class="qSize" id="high2_GBP/CHF">0.000</span></td><td id="ctlQ_td_change2_GBP/CHF" style="width:50px;"><span class="qSize" id="change2_GBP/CHF">0.00%</span></td><td id="ctlQ_td_range2_GBP/CHF" style="width:45px;"><span class="qSize" id="range2_GBP/CHF">0.00%</span></td><td><img src="/img/quotes/arrUp.gif" id="xarr2_GBP/CHF"></td><td></td>
+		<td></td><td></td><td id="ctlQ_td_low2_GBP/CHF" style="width:45px;"><span class="qSize" id="high2_GBP/CHF">0.000</span></td><td id="ctlQ_td_change2_GBP/CHF" style="width:50px;"><span class="qSize" id="change2_GBP/CHF">0.00%</span></td><td id="ctlQ_td_range2_GBP/CHF" style="width:45px;"><span class="qSize" id="range2_GBP/CHF">0.00%</span></td><td><img src="/img/quotes/arrDown.gif" id="xarr2_GBP/CHF"></td><td></td>
 	</tr><tr>
 		<td colspan="6" style="background-color:White;height:1px;"></td>
 	</tr><tr style="height:18px;">
@@ -1540,11 +1549,15 @@ eraseCookie("hplang");
 	</tr><tr class="trhdr">
 		<td class="titleLightGray" style="width:5px;"></td><td class="titleLightGray"></td><td class="titleLightGray"><span>High</span></td><td class="titleLightGray"><span>Change</span></td><td class="titleLightGray"><span>Range</span></td><td class="titleLightGray"></td><td></td>
 	</tr><tr id="ctlQ_tr2_XAU/USD" class="tr1" style="height:18px;">
-		<td></td><td></td><td id="ctlQ_td_low2_XAU/USD" style="width:45px;"><span class="qSize" id="high2_XAU/USD">0.000</span></td><td id="ctlQ_td_change2_XAU/USD" style="width:50px;"><span class="qSize" id="change2_XAU/USD">0.00%</span></td><td id="ctlQ_td_range2_XAU/USD" style="width:45px;"><span class="qSize" id="range2_XAU/USD">0.00%</span></td><td><img src="/img/quotes/arrDown.gif" id="xarr2_XAU/USD"></td><td></td>
+		<td></td><td></td><td id="ctlQ_td_low2_XAU/USD" style="width:45px;"><span class="qSize" id="high2_XAU/USD">0.000</span></td><td id="ctlQ_td_change2_XAU/USD" style="width:50px;"><span class="qSize" id="change2_XAU/USD">0.00%</span></td><td id="ctlQ_td_range2_XAU/USD" style="width:45px;"><span class="qSize" id="range2_XAU/USD">0.00%</span></td><td><img src="/img/quotes/arrUp.gif" id="xarr2_XAU/USD"></td><td></td>
 	</tr><tr>
 		<td colspan="6" style="background-color:White;height:1px;"></td>
 	</tr><tr id="ctlQ_tr2_XAG/USD" class="tr1" style="height:18px;">
-		<td></td><td></td><td id="ctlQ_td_low2_XAG/USD" style="width:45px;"><span class="qSize" id="high2_XAG/USD">0.000</span></td><td id="ctlQ_td_change2_XAG/USD" style="width:50px;"><span class="qSize" id="change2_XAG/USD">0.00%</span></td><td id="ctlQ_td_range2_XAG/USD" style="width:45px;"><span class="qSize" id="range2_XAG/USD">0.00%</span></td><td><img src="/img/quotes/arrUp.gif" id="xarr2_XAG/USD"></td><td></td>
+		<td></td><td></td><td id="ctlQ_td_low2_XAG/USD" style="width:45px;"><span class="qSize" id="high2_XAG/USD">0.000</span></td><td id="ctlQ_td_change2_XAG/USD" style="width:50px;"><span class="qSize" id="change2_XAG/USD">0.00%</span></td><td id="ctlQ_td_range2_XAG/USD" style="width:45px;"><span class="qSize" id="range2_XAG/USD">0.00%</span></td><td><img src="/img/quotes/arrDown.gif" id="xarr2_XAG/USD"></td><td></td>
+	</tr><tr>
+		<td colspan="6" style="background-color:White;height:1px;"></td>
+	</tr><tr id="ctlQ_tr2_OIL/USD" class="tr1" style="height:18px;">
+		<td></td><td></td><td id="ctlQ_td_low2_OIL/USD" style="width:45px;"><span class="qSize" id="high2_OIL/USD">0.000</span></td><td id="ctlQ_td_change2_OIL/USD" style="width:50px;"><span class="qSize" id="change2_OIL/USD">0.00%</span></td><td id="ctlQ_td_range2_OIL/USD" style="width:45px;"><span class="qSize" id="range2_OIL/USD">0.00%</span></td><td><img src="/img/quotes/arrUp.gif" id="xarr2_OIL/USD"></td><td></td>
 	</tr><tr>
 		<td colspan="6" style="background-color:White;height:1px;"></td>
 	</tr><tr>
@@ -1554,8 +1567,8 @@ eraseCookie("hplang");
 	</tr>
 </tbody></table>
 </div>
-<div id="divThird" style="position: absolute; left: 708px; top: 97px; visibility: hidden;">
-	<table id="ctlQ_tblThird" class="tblquotes" cellspacing="0" cellpadding="0" border="0" style="width:206px;border-collapse:collapse;table-layout:auto">
+<div id="divThird" style="position: absolute; left: 701px; top: 111px; visibility: hidden;">
+	<table id="ctlQ_tblThird" class="tblquotes" cellspacing="0" cellpadding="0" border="0" style="width:206px;border-collapse:collapse;table-layout:auto;">
 	<tbody><tr class="titleGray" style="height:18px;">
 		<td colspan="5" style="padding-left:5;">Currency Quotes</td>
 	</tr><tr class="trhdr">
@@ -1586,10 +1599,6 @@ eraseCookie("hplang");
 		<td colspan="5" style="background-color:White;height:1px;"></td>
 	</tr><tr id="ctlQ_tr3_NZD/USD" class="tr1" style="height:18px;">
 		<td></td><td id="ctlQ_td_ccy_NZD/USD"><span id="ccy3_NZD/USD">NZD/USD</span></td><td id="ctlQ_td_bid3_NZD/USD"><span class="qSize" id="bid3_NZD/USD">0.000</span></td><td id="ctlQ_td_ask3_NZD/USD"><span class="qSize" id="ask3_NZD/USD">0.000</span></td><td id="ctlQ_td_low4_NZD/USD"><span class="qSize" id="low4_NZD/USD">0.000</span></td><td></td>
-	</tr><tr>
-		<td colspan="5" style="background-color:White;height:1px;"></td>
-	</tr><tr id="ctlQ_tr3_USD/ZAR" class="tr1" style="height:18px;">
-		<td></td><td id="ctlQ_td_ccy_USD/ZAR"><span id="ccy3_USD/ZAR">USD/ZAR</span></td><td id="ctlQ_td_bid3_USD/ZAR"><span class="qSize" id="bid3_USD/ZAR">0.000</span></td><td id="ctlQ_td_ask3_USD/ZAR"><span class="qSize" id="ask3_USD/ZAR">0.000</span></td><td id="ctlQ_td_low4_USD/ZAR"><span class="qSize" id="low4_USD/ZAR">0.000</span></td><td></td>
 	</tr><tr>
 		<td colspan="5" style="background-color:White;height:1px;"></td>
 	</tr><tr id="ctlQ_tr3_EUR/JPY" class="tr1" style="height:18px;">
@@ -1624,10 +1633,14 @@ eraseCookie("hplang");
 		<td></td><td id="ctlQ_td_ccy_XAG/USD"><span id="ccy3_XAG/USD">XAG/USD</span></td><td id="ctlQ_td_bid3_XAG/USD"><span class="qSize" id="bid3_XAG/USD">0.000</span></td><td id="ctlQ_td_ask3_XAG/USD"><span class="qSize" id="ask3_XAG/USD">0.000</span></td><td id="ctlQ_td_low4_XAG/USD"><span class="qSize" id="low4_XAG/USD">0.000</span></td><td></td>
 	</tr><tr>
 		<td colspan="5" style="background-color:White;height:1px;"></td>
+	</tr><tr id="ctlQ_tr3_OIL/USD" class="tr1" style="height:18px;">
+		<td></td><td id="ctlQ_td_ccy_OIL/USD"><span id="ccy3_OIL/USD">OIL/USD</span></td><td id="ctlQ_td_bid3_OIL/USD"><span class="qSize" id="bid3_OIL/USD">0.000</span></td><td id="ctlQ_td_ask3_OIL/USD"><span class="qSize" id="ask3_OIL/USD">0.000</span></td><td id="ctlQ_td_low4_OIL/USD"><span class="qSize" id="low4_OIL/USD">0.000</span></td><td></td>
+	</tr><tr>
+		<td colspan="5" style="background-color:White;height:1px;"></td>
 	</tr>
 </tbody></table>
 </div>
-<script>
+<script type="text/javascript">
 var pLang="English";
 var dir="ltr";
 
@@ -1695,7 +1708,6 @@ function setPos(){
 			{
 				hGap = hGap + 5;
 			}
-			
 		}
 		if(navigator.userAgent.indexOf("Chrome") > -1)
         {
@@ -1713,7 +1725,7 @@ function setPos(){
 	}catch(e){}
 }
 
-setPos();
+//setPos();
 
 var Lang="English";
 //var qType="delEnglish";
@@ -1800,12 +1812,12 @@ function callJS(){
 }
 var colInt;
 function GetQuotes(){
-    //alert(percentFormat(7.0046260601387818041634541249036,2));
 	try{
 	    
 		var tempArr=new Array()
 		var tempRange=0;
 		var tempChange=0;
+
 		resArr=qres.split("#");
 		var i=0;
 		for (i=0;i<resArr.length;i++){
@@ -1841,11 +1853,7 @@ function GetQuotes(){
 				document.getElementById("ctlQ_tr3_"+ccyArr[i]).style.color="green";
 				document.getElementById("arr_"+ccyArr[i]).src=upArr.src;
 				document.getElementById("xarr_"+ccyArr[i]).src=upArr.src;
-				
-				
-				//document.getElementById("xarr3_"+ccyArr[i]).src=upArr.src;
-				
-				//document.getElementById("arr2_"+ccyArr[i]).src=upArr.src;
+
 				document.getElementById("xarr2_"+ccyArr[i]).src=upArr.src;
 				
 				colInt=setTimeout("zeroColor()",2000);
@@ -1885,9 +1893,10 @@ function GetQuotes(){
 			document.getElementById("range2_"+ccyArr[i]).innerHTML=rangeArr[i];
 			
 		}
-		
+		window['GetQuotesJP']();
 	}catch(e){}
 }
+GetQuotes();
 function percentFormat(pFloat, pDp) {
         
         try {
@@ -1930,15 +1939,10 @@ function percentFormat(pFloat, pDp) {
 
 function zeroColor(){
 	for (var i=0;i<ccyArr.length;i++){
-		if (document.getElementById("ctlQ_tr_"+ccyArr[i])) {
-		    document.getElementById("ctlQ_tr_"+ccyArr[i]).style.color="black";
-        }
-        if (document.getElementById("ctlQ_tr2_"+ccyArr[i])) {
-		    document.getElementById("ctlQ_tr2_"+ccyArr[i]).style.color="black";
-        }
-        if (document.getElementById("ctlQ_tr_"+ccyArr[i])) {
-		    document.getElementById("ctlQ_tr3_"+ccyArr[i]).style.color="black";
-        }
+        if (!document.getElementById("ctlQ_tr_"+ccyArr[i])) continue;
+		document.getElementById("ctlQ_tr_"+ccyArr[i]).style.color="black";
+		document.getElementById("ctlQ_tr2_"+ccyArr[i]).style.color="black";
+		document.getElementById("ctlQ_tr3_"+ccyArr[i]).style.color="black";
 	}
 }
 callJS();
@@ -1980,10 +1984,52 @@ function expandQ(){
 }
 window.onresize=function(){
 	pWidth=document.body.clientWidth;
-	setPos();
+	//setPos();
 	//expFlag=true;
 	//expandQ();
+};
+function getStyle(el,styleProp)
+{
+	var x = document.getElementById(el);
+	if (x.currentStyle)
+		var y = x.currentStyle[styleProp];
+	else if (window.getComputedStyle)
+		var y = document.defaultView.getComputedStyle(x,null).getPropertyValue(styleProp);
+	return y;
 }
+(function () {
+    var e = function(){
+        var first = document.getElementById("divFirst"), third = document.getElementById("divThird");
+        if (!first || !third) return false;
+        var dir = document.body.dir || document.body.style.direction;
+        
+        
+        var top = 0,left=0;
+        var obj = first;
+        do {
+            top += obj.offsetTop;
+            left += obj.offsetLeft;
+        }while((obj = obj.offsetParent));
+        third.style.top = top+'px';
+        first.style.borderWidth = "0";
+        //alert(getStyle(first.id,"width"));
+        
+        if (dir == "rtl") {
+            third.style.left = (first.scrollWidth+left-((navigator.userAgent.match(/MSIE/))?1:0))+'px';
+        }
+        else {
+            third.style.left = (left - third.scrollWidth+1)+'px';
+        }
+    };
+    var _w = (window == 'undefined') ? document.body : window;
+    if (_w.attachEvent) {
+        _w.attachEvent("onload",e);
+        _w.attachEvent("onresize",e);
+    } else {
+        _w.addEventListener("load",e,false);
+        _w.addEventListener("resize",e,false);
+    }
+})();
 </script>
 												</td>
 											</tr>
@@ -2207,23 +2253,11 @@ window.onresize=function(){
     </tr>
 </tbody></table>
  
-<table style="height: 30px" cellpadding="0" cellspacing="0" class="bot_promocode">
+<table style="height: 30px;margin: 0 auto;" cellpadding="0" cellspacing="0">
 
 
     <tbody><tr style="padding-top: 2px;">
-        <td>
-            <div id="PC">
-                PromoCode: 0
-            </div>
-            <span id="debugSpan" style="display: none;">
-                <textarea style="width: 50px; height: 50px;" id="debug1" name="debug1"></textarea>
-                <div id="debugDiv">
-                </div>
-            </span>
-            <div id="flashPlaceholder" style="width: 1px; height: 1px; overflow: hidden; visibility: hidden;">
-            </div>
-        </td>
-        <td class="bot_promocode" style="padding: 0 3 0 3;">
+        <td class="bot_promocode" style="padding: 0 3 0 3;text-align: center; width:770px;">
             <span id="ctl09_lblrights">© 2009 iFOREX. All rights reserved</span>
         </td>
     </tr>
