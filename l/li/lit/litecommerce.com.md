@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the litecommerce.com privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310114108id_/http%3A//www.litecommerce.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the litecommerce.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123115437id_/http%3A//www.litecommerce.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | LiteCommerce
 
-This Privacy Policy describes the types of information Creative Development LLC ("we", "us") collects and how we use that information. If You do not agree to the terms of this Privacy Policy, please do not use our Products or Services ("Products or Services") and do not access the our websites located at [http://www.litecommerce.com](http://www.litecommerce.com/ "http://www.litecommerce.com"), [http://www.qtmsoft.com](http://www.qtmsoft.com/ "http://www.qtmsoft.com") ("Site", "Sites").
+This Privacy Policy describes the types of information Creative Development LLC ("we", "us") collects and how we use that information. If You do not agree to the terms of this Privacy Policy, please do not use our Products or Services ("Products or Services") and do not access the our websites located at [http://www.litecommerce.com](http://www.litecommerce.com/), [http://www.qtmsoft.com](http://www.qtmsoft.com/) ("Site", "Sites").
 
 ## Information We Collect
 
@@ -10,16 +10,19 @@ If You choose to use Products or Services, we may require You to provide contact
 
 We collect and store the following information:
 
-  * email address, physical contact information, and financial information;
-  * computer sign-on data, statistics on page views, traffic to and from Sites and ad data (all through cookies - You can take steps to disable cookies on Your browser, however this is likely to affect Your ability to use the Sites);
-  * discussion board posts and other messages, including correspondence between us and You; and
-  * general information regarding the Products or Services You have registered to receive.
+  * your email address, physical contact information, and financial information
+  * computer sign-on data, statistics on page views, traffic to and from Sites and ad data (all through cookies - You can take steps to disable cookies on Your browser, however this is likely to affect Your ability to use the Sites)
+  * discussion board posts and other messages, including correspondence between us and You
+  * information on used LiteCommerce versions and versions of modules installed in LiteCommerce shops (the upgrade function requires this information to determine and send core and module upgrades to your shop)
+  * information on LiteCommerce shop domains (you can disable this feature in your LiteCommerce shop and force it to send a depersonalized shop identifier instead of the shop domain name)
+  * general information regarding the Products or Services You have registered to receive
 
 
 
-We do not store the following information normally:
+We **do not store** the following information:
 
-  * credit card information.
+  * credit card information
+  * your customers' personal information
 
 
 
