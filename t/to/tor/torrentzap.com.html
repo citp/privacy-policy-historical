@@ -1,57 +1,62 @@
-<!--The following is the downloaded HTML source of the torrentzap.com privacy policy that was archived on 2011-01-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110104233109id_/http%3A//www.torrentzap.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the torrentzap.com privacy policy that was archived on 2011-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123115657id_/http%3A//www.torrentzap.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-<title>
-Privacy policy - Torrentzap.com
-</title>
+<title>Privacy policy - Torrentzap.com</title>
 <meta name="description" content="privacy policy for torrents - Torrentzap.com">
-<meta name="keywords" content="download torrents, bittorrent, torrents, torrent">
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <link rel="stylesheet" type="text/css" href="http://static.torrentzap.com/style/style.css">
+<link rel="stylesheet" type="text/css" href="http://static.torrentzap.com/style/redmond/jquery-ui-1.8.14.custom.css">
 <script src="http://static.torrentzap.com/style/jquery.js" type="text/javascript"></script>
+<script src="http://static.torrentzap.com/style/jquery-ui-1.8.14.custom.min.js" type="text/javascript"></script>
 <script type="text/javascript" src="http://static.torrentzap.com/style/utils.js"></script>
 <script type="text/javascript" src="http://static.torrentzap.com/style/java.js"></script>
-<link rel="stylesheet" href="http://service.torrentzap.com/js/jquery.jgrowl.css" type="text/css">
+<script type="text/javascript" src="http://static.torrentzap.com/style/fancybox.js"></script>
+<link rel="stylesheet" href="http://static.torrentzap.com/style/fancybox.css" type="text/css">
 <script type="text/javascript" src="http://service.torrentzap.com/js/jquery.jgrowl.js"></script>
-<script type="text/javascript" src="http://service.torrentzap.com/js/voting.js"></script>
-
-
+<link rel="stylesheet" href="http://service.torrentzap.com/js/jquery.jgrowl.css" type="text/css">
+<link rel="shortcut icon" type="image/png" href="http://static.torrentzap.com/favicon.ico"> 
 <script type="text/javascript">
-	  var timers = new Object();
-	  function set(ul, block) {
-		var list = document.getElementById(ul);
-		list.style.display = (block) ? "block" : "none";
-	  }
-	  function showList(ul) {
-		set(ul, true);
-		clearTimeout(timers[ul]);
-	  }
-	  function hideList(ul) {
-		set(ul, false);
-		var waiting = "set('" + ul + "', false)";
-		timers[ul] = setTimeout(waiting, 500);
-	  }
-  </script>
-
-
+        $(document).ready(function(){
+             $('a#ajaxLink').fancybox({
+                'href' : $('a#ajaxLink').attr('rel')
+                });
+                setInterval(function(){
+                    $.ajax({
+                        url: '/events.php',
+                        dataType: 'json',
+                        success: function(data) {
+                            for(keyVar in data){
+                                $.jGrowl(data[keyVar].msg, {life:8000, position:'bottom-right'});
+                            }
+                        }
+                    });
+                }, 8000);
+            });
+</script>
+<script type="text/javascript">                                                                                                                                        
+$.getJSON('http://service.torrentzap.com/votingform/index.php?callback=?', function(json){                                                                                      
+        $('#voting_form').html(json.html);
+        if(json.html != ''){       
+    	    $('#vote_title').text('Vote for torrents you have downloaded');                                                                                                                               
+    	    $('#vote_title').css('display','block');
+    	    $('#voting_form').css('display', 'block');
+	}
+});
+</script> 
 <style>
   #act_menu_about
   {
   	display:block !important;
   }
-</style>
-
-</head>
+</style></head>
 <body>
 <div id="wrap">
 <div id="head_div">
-
-<div id="login">
-<img src="http://static.torrentzap.com/images/log_user.png"> <a href="/login" class="white">Login</a> | <a href="/register" class="white">Register</a>
-</div>
+<div id="login"><img src="http://static.torrentzap.com/images/log_user.png"> <a href="/login" rel="/ajaxlogin" id="ajaxLink" class="white">Login</a></div>
 <div id="lang"><a href="/lang.php?lng=en"><img id="lang_ico" src="http://static.torrentzap.com/images/us.png" title="English"></a><a href="/lang.php?lng=it"><img id="lang_ico" src="http://static.torrentzap.com/images/it.png" title="Italian"></a><a href="/lang.php?lng=fr"><img id="lang_ico" src="http://static.torrentzap.com/images/fr.png" title="French"></a></div>
 <div id="logo"><a href="/"><img src="http://static.torrentzap.com/images/logo.png"></a></div>
+<a href="/news" title="New system for users"><img id="new_system" src="http://static.torrentzap.com/images/usersustem_banner.png"></a>
 <div id="head_menu">
 <div id="mtab">
 <ul id="tab_up_menu">
@@ -72,7 +77,6 @@ Privacy policy - Torrentzap.com
 				<li><a href="/cat/9">Other</a></li>		
 		  </ul></li>
 		  <li><a href="/upload">UPLOAD</a> <div class="ifselect" id="act_menu_upload"><img src="http://static.torrentzap.com/images/act_box_l.png" class="img_left"><a href="/upload" class="white"></a><a href="/upload">UPLOAD</a><img src="http://static.torrentzap.com/images/act_box_r.png" class="img_right"></div></li>
-		  
 		  <li><a href="/search-cloud">SEARCH CLOUD</a><div class="ifselect" id="act_menu_search_cld"><img src="http://static.torrentzap.com/images/act_box_l.png" class="img_left"><a href="/search-cloud">SEARCH CLOUD</a><img src="http://static.torrentzap.com/images/act_box_r.png" class="img_right"></div></li>
 		  <li>ABOUT<img id="ddown" src="http://static.torrentzap.com/images/ddown_menu.png">
 		  <div class="ifselect" id="act_menu_about"><img src="http://static.torrentzap.com/images/act_box_l.png" class="img_left">ABOUT<img src="http://static.torrentzap.com/images/act_box_r.png" class="img_right"></div>
@@ -81,28 +85,30 @@ Privacy policy - Torrentzap.com
 		    		    <li><a href="/privacy-policy">Privacy Policy</a></li>
 		    		    <li><a href="/copyright-policy">Copyright Policy</a></li>
 		    		    <li><a href="/contact">Contact</a></li>
-		    		  
+		  </ul>
+			</li>
+                  <li>TOP<img id="ddown" src="http://static.torrentzap.com/images/ddown_menu.png">
+		  <div class="ifselect" id="act_menu_top"><img src="http://static.torrentzap.com/images/act_box_l.png" class="img_left">TOP<img src="http://static.torrentzap.com/images/act_box_r.png" class="img_right"></div>
+		  <ul>
+				<li><a href="/userlist">Top Users</a></li>
+		    		    <li><a href="/userlist/searcher">Top Searchers</a></li>
+		    		    <li><a href="/userlist/downloader">Top Downloaders</a></li>
+                                    <li><a href="/userlist/commenter">Top Commenters</a></li>
+                                    <li><a href="/userlist/uploader">Top Uploaders</a></li>
+
 		  </ul>
 			</li>
 	</ul>
-
-</div>
-
-
-
-
-
 </div>
 </div>
-
-
+</div>
 <div id="srch_bar">
 <div id="srch_stuff">
-<table id="tab_sstuff" border="0" cellspacing="20" cellpadding="0">
+<table id="tab_sstuff">
 <tbody><tr>
-<form id="torlist" name="f2" class="scats" action="/search.php" method="GET"></form>
+<form name="f2" action="/search.php" method="GET"></form>
 <td width="100%">
-<input id="q" name="q" type="text" border="0"></td>
+<input id="q" name="q" type="text" border="0" value="Search for torrents..." onfocus="if(document.getElementById('q').value=='Search for torrents...'){document.getElementById('q').value=''}"></td>
 <td>
   <select name="cats" class="scats">
     	<option value="" selected="selected">All torrents</option>
@@ -118,19 +124,15 @@ Privacy policy - Torrentzap.com
   </select>
 </td>
 <td><input name="submit" value="1" type="image" src="http://static.torrentzap.com/images/but_s_t_i.png"></td>
-<td><input onclick="location.href='http://links.torrentzap.com/go.php?id=6&amp;s=7&amp;q='+document.getElementById('q').value;return false;" name="submit" value="2" type="image" src="http://static.torrentzap.com/images/us_b_i.png"></td>
+<td>
+</td>
 
 </tr></tbody></table>
-
 </div>
 </div>
-
 <div id="navigation">
 <a href="/" class="a1">Torrentzap</a>
-	 -&gt; Privacy Policy
-</div>
-
-
+	 » Privacy Policy</div>
 <div id="l_menu">
 <div id="leftm">
 <ul class="search_plugins">
@@ -138,49 +140,37 @@ Privacy policy - Torrentzap.com
 <li><img src="http://static.torrentzap.com/images/utorrent.gif"><a href="#" class="a1">uTorrent search template</a></li>
 			<li><img src="http://static.torrentzap.com/images/vuze.gif"><a href="http://static.torrentzap.com/upload/torrentzap.vuze" class="a1">Vuze search template</a></li>
 </ul>
-<!-- <div id="menucap">Latest torrents</div>
-<div id="list">
-<ul>
-<li><a href="/clean-browse-torrents/1/added/1" title="latest anime torrents" class="a1">Anime torrents</a></li>
-<li><a href="/clean-browse-torrents/2/added/1" title="latest books torrents" class="a1">Books torrents</a></li>
-<li><a href="/clean-browse-torrents/3/added/1" title="latest games torrents" class="a1">Games torrents</a></li>
-<li><a href="/clean-browse-torrents/4/added/1" title="latest movies torrents" class="a1">Movies torrents</a></li>
-<li><a href="/clean-browse-torrents/5/added/1" title="latest music torrents"class="a1">Music torrents</a></li>
-<li><a href="/clean-browse-torrents/6/added/1" title="latest pictures torrents" class="a1">Pictures torrents</a></li>
-<li><a href="/clean-browse-torrents/7/added/1" title="latest software torrents" class="a1">Software torrents</a></li>
-<li><a href="/clean-browse-torrents/8/added/1" title="latest tv shows torrents" class="a1">TV Shows torrents</a></li>
-<li><a href="/clean-browse-torrents/9/added/1" title="latest other torrents"class="a1">Others torrents</a></li>
-</ul>
-</div> -->
 <div id="banner">
 <iframe scrolling="no" height="600" frameborder="no" width="120" framespacing="0" src="http://ads.fulldls.com/phpadsnew/www/delivery/afr.php?zoneid=62&amp;cb=728315" name="ac44cf1c" id="ac44cf1c"><a href='http://ads.fulldls.com/phpadsnew/www/delivery/ck.php?n=a3ab524b&amp;cb=488434' target='_blank'><img src='http://ads.fulldls.com/phpadsnew/www/delivery/avw.php?zoneid=62&amp;cb=641475&amp;n=a3ab524b' border='0' alt='' /></a></iframe>
+</div>
+<div style="margin-top:0px; margin-left:10px; margin-bottom:30px">
+
+<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like-box href="http://www.facebook.com/pages/Torrentzapcom/123132727740733" width="200" show_faces="true" stream="false" header="false"></fb:like-box>
+
 </div>
 <div id="menucap">Useful Links</div>
 <div id="list">
 <ul>
 <li><a href="http://www.torrentscan.com/" class="a1">Torrent Scan</a></li>
-<li><a href="http://www.vertor.com/" class="a1">VerTor Torrents</a></li>
 <li><a href="http://www.fileindexer.com/" class="a1">Rapidshare Search</a></li>
-<li><a href="http://www.torrentreactor.net/" class="a1"><nobr>Torrent Reactor Search</nobr></a></li>
-<li><a href="http://www.euro-share.com/" class="a1"><nobr>Download from rapidshare</nobr></a></li>
+<li><a href="http://www.nowtorrents.com/" class="a1">Now Torrents - torrent search</a></li>
+<li><a href="http://www.nutorrent.com/" class="a1">Porn Torrents</a></li>
+<li><a href="http://www.torrentfly.org/" class="a1">Torrents Search</a></li>
+<li><a href="http://www.torrentreactor.net/" class="a1">Download torrents</a></li>
 </ul>
 </div>
-</div>
-</div>
-<div id="cont_spac"><img src="http://static.torrentzap.com/images/empty16.gif"></div>
-<div id="content_sam">
-<div id="register">
 
+</div>
+</div><div id="cont_spac"><img src="http://static.torrentzap.com/images/empty16.gif"></div>
+<div id="content_sam">
+<div class="vote_title" id="vote_title" style="display:none"></div>                                                                                                             
+<div class="torrent_vote" id="voting_form" style="display:none"></div>
+<div id="register">
 To protect the privacy of our visitors, we do <strong>NOT</strong> log IP adrresses or hostnames of our visitors. However, we may log some IP addresses of uploaders for administrational purposes (e.g., banning people who upload spam torrents several times). Remember that all torrent submissions are anonymous, no login is required for uploading. We will not distribute IP addresses or other information of visitors of this site to third parties.<br>
 <br>
-
-
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here.<br><br>
-
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
-
-</div>
-<div id="cont_tab">
+</div><div id="cont_tab">
 </div>
 <div id="cont_tab">
 <table id="content_cap_tab" border="0" cellspacing="0" cellpadding="0">
@@ -192,21 +182,29 @@ In the course of serving advertisements to this site, our third-party advertiser
 </tr>
 </tbody></table>
 <div id="recent">
-
-<a class="a1" href="/torrent-downloads/jampro92" title="jampro92">jampro92</a> | <a class="a1" href="/torrent-downloads/wfwefewfwe" title="wfwefewfwe">wfwefewfwe</a> | <a class="a1" href="/torrent-downloads/banovic" title="banovic">banovic</a> | <a class="a1" href="/torrent-downloads/dawonload" title="dawonload">dawonload</a> | <a class="a1" href="/torrent-downloads/je" title="je">je</a> | <a class="a1" href="/torrent-downloads/breakin" title="breakin">breakin</a> | <a class="a1" href="/torrent-downloads/hanakami" title="hanakami">hanakami</a> | <a class="a1" href="/torrent-downloads/radiale" title="radiale">radiale</a> | <a class="a1" href="/torrent-downloads/noveletten" title="noveletten">noveletten</a> | <a class="a1" href="/torrent-downloads/photoprep" title="photoprep">photoprep</a> | <a class="a1" href="/torrent-downloads/mtv2011" title="mtv2011">mtv2011</a> | <a class="a1" href="/torrent-downloads/willov" title="willov">willov</a> | <a class="a1" href="/torrent-downloads/stickaps" title="stickaps">stickaps</a> | <a class="a1" href="/torrent-downloads/beccaciocc" title="beccaciocc">beccaciocc</a> | <a class="a1" href="/torrent-downloads/helpmann" title="helpmann">helpmann</a> | <a class="a1" href="/torrent-downloads/69ba11c4" title="69ba11c4">69ba11c4</a> | <a class="a1" href="/torrent-downloads/3984969" title="3984969">3984969</a> | <a class="a1" href="/torrent-downloads/avgirl" title="avgirl">avgirl</a> | <a class="a1" href="/torrent-downloads/pinvideos" title="pinvideos">pinvideos</a> | <a class="a1" href="/torrent-downloads/20patrol" title="20patrol">20patrol</a> | <a class="a1" href="/torrent-downloads/prolongado" title="prolongado">prolongado</a> | <a class="a1" href="/torrent-downloads/chilloutxxl" title="chilloutxxl">chilloutxxl</a> | <a class="a1" href="/torrent-downloads/saraiya" title="saraiya">saraiya</a> | <a class="a1" href="/torrent-downloads/Powercadd" title="Powercadd">Powercadd</a> | <a class="a1" href="/torrent-downloads/stata" title="stata">stata</a> | <a class="a1" href="/torrent-downloads/polomnik" title="polomnik">polomnik</a> | <a class="a1" href="/torrent-downloads/A13835B3" title="A13835B3">A13835B3</a> | <a class="a1" href="/torrent-downloads/wttine" title="wttine">wttine</a> | <a class="a1" href="/torrent-downloads/fortaleza" title="fortaleza">fortaleza</a> | <a class="a1" href="/torrent-downloads/Harababura" title="Harababura">Harababura</a> |</div>
+<a class="a1" href="/torrent-downloads/sherlock+holmes" title="sherlock holmes">sherlock holmes</a> | <a class="a1" href="/torrent-downloads/Kink.com+-+Tia+Ling" title="Kink.com - Tia Ling">Kink.com - Tia Ling</a> | <a class="a1" href="/torrent-downloads/La+congiura+della+pietra+nera" title="La congiura della pietra nera">La congiura della pietra nera</a> | <a class="a1" href="/torrent-downloads/napoli+manchester+city+22+2011" title="napoli manchester city 22 2011">napoli manchester city 22 2011</a> | <a class="a1" href="/torrent-downloads/dougie" title="dougie">dougie</a> | <a class="a1" href="/torrent-downloads/black+box" title="black box">black box</a> | <a class="a1" href="/torrent-downloads/pierdavidearone" title="pierdavidearone">pierdavidearone</a> | <a class="a1" href="/torrent-downloads/neotango" title="neotango">neotango</a> | <a class="a1" href="/torrent-downloads/politecnico" title="politecnico">politecnico</a> | <a class="a1" href="/torrent-downloads/INCOGNITO" title="INCOGNITO">INCOGNITO</a> | <a class="a1" href="/torrent-downloads/Professor+Layton+Last+Specter" title="Professor Layton Last Specter">Professor Layton Last Specter</a> | <a class="a1" href="/torrent-downloads/Zastavila" title="Zastavila">Zastavila</a> | <a class="a1" href="/torrent-downloads/pcshel" title="pcshel">pcshel</a> | <a class="a1" href="/torrent-downloads/CHILD%27S+PLAY+5+2004" title="CHILD'S PLAY 5 2004">CHILD'S PLAY 5 2004</a> | <a class="a1" href="/torrent-downloads/x-men+anemi" title="x-men anemi">x-men anemi</a> | <a class="a1" href="/torrent-downloads/willosill" title="willosill">willosill</a> | <a class="a1" href="/torrent-downloads/cars+2+nl" title="cars 2 nl">cars 2 nl</a> | <a class="a1" href="/torrent-downloads/country" title="country">country</a> | <a class="a1" href="/torrent-downloads/Italo+Smash+Hits+Vol.+1" title="Italo Smash Hits Vol. 1">Italo Smash Hits Vol. 1</a> | <a class="a1" href="/torrent-downloads/Google+Earth+pro" title="Google Earth pro">Google Earth pro</a> | <a class="a1" href="/torrent-downloads/oned887" title="oned887">oned887</a> | <a class="a1" href="/torrent-downloads/nanga+parbat+italiano" title="nanga parbat italiano">nanga parbat italiano</a> | <a class="a1" href="/torrent-downloads/afrikaan" title="afrikaan">afrikaan</a> | <a class="a1" href="/torrent-downloads/Odenplan" title="Odenplan">Odenplan</a> | <a class="a1" href="/torrent-downloads/obisk" title="obisk">obisk</a> | <a class="a1" href="/torrent-downloads/nr110e" title="nr110e">nr110e</a> | <a class="a1" href="/torrent-downloads/football+manager+2012" title="football manager 2012">football manager 2012</a> | <a class="a1" href="/torrent-downloads/film+ita" title="film ita">film ita</a> | <a class="a1" href="/torrent-downloads/switchedonbach" title="switchedonbach">switchedonbach</a> | <a class="a1" href="/torrent-downloads/nodlog" title="nodlog">nodlog</a> |</div>
 </div>
-
+<div id="cont_tab">
+<table id="content_cap_tab" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="11px"><img src="http://static.torrentzap.com/images/cont_cap_left.png"></td><td id="content_cap_tab_cont">Users Online</td><td width="11px"><img src="http://static.torrentzap.com/images/cont_cap_right.png"></td>
+</tr>
+<tr>
+<td></td><td><img src="http://static.torrentzap.com/images/cont_cap_down.png"></td><td></td>
+</tr>
+</tbody></table>
+<div id="recent">
+<a class="a1" href="/activity">Show users activity</a><br>
+</div>
+</div>
 <div id="footcont">
 <table width="100%">
 <tbody><tr>
 <td><img src="http://static.torrentzap.com/images/logo_trans.png"></td><td width="40px"></td><td id="ftext">RSS Feed:<a href="/rss.xml" id="rssbut"><img src="http://static.torrentzap.com/images/rss_but.png"></a> | <a href="/copyright-policy" class="gray">Copyright Policy</a> | <a href="/privacy-policy" class="gray">Privacy Policy</a> | <a href="/contact" class="gray">Contact</a> </td><td>
-
-<script type="text/javascript" src="http://widgets.amung.us/classic.js"></script><script type="text/javascript">WAU_classic('182zuipz8d7r')</script>
-
 </td>
 </tr>
 <tr>
-<td></td><td width="40px"></td><td id="ftext2"><a href="http://www.torrentfunk.com/" class="white">torrentfunk</a> - <a href="http://ligg.org/" class="white">Ligg</a> - <a href="http://www.kickasstorrents.com/" class="white">kickass torrents</a> - <a href="http://www.torrenttab.com/" class="white">torrenttab</a> - <a href="http://www.downarchive.com/" class="white">Down Archive</a></td><td></td>
+<td></td><td width="40px"></td><td id="ftext2"><a href="http://ligg.org/" target="_blank" class="white">Ligg</a> - <a href="http://www.kickasstorrents.com/" target="_blank" class="white">kickass torrents</a> - <a href="http://www.torrenttab.com/" target="_blank" class="white">torrenttab</a> - <a target="_blank" class="white" href="http://www.tinydl.com/">Free Download</a></td><td></td>
 </tr>
 </tbody></table>
 </div>
@@ -215,7 +213,6 @@ In the course of serving advertisements to this site, our third-party advertiser
 <div id="foot_div_pic2"><img src="http://static.torrentzap.com/images/empty16.gif"></div>
 </div>
 </div>
-
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -226,5 +223,7 @@ var pageTracker = _gat._getTracker("UA-858548-20");
 pageTracker._trackPageview();
 } catch(err) {}
 </script>
+
+<script type="text/javascript" src="http://banners.adultfriendfinder.com/go/page/js_im_box?plain_text=1&amp;skip_lpo=1&amp;lang=english&amp;freq_cap=48&amp;delay=10&amp;skin=3&amp;thumb=bigthumb&amp;find_sex=2&amp;looking_for_person=1&amp;photo=2&amp;models=1&amp;no_flash=1&amp;page=search&amp;pid=g720872-ppc" charset="iso-8859-1"></script> 
 
 </body></html>
