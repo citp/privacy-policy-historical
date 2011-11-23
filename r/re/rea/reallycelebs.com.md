@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the reallycelebs.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508160724id_/http%3A//access.reallycelebs.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reallycelebs.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123171826id_/http%3A//track.reallycelebs.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 **Really Celebs**
 
 **PRIVACY POLICY STATEMENT**  
+  
   
 
 
