@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the suddenlydarling.com privacy policy that was archived on 2011-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110409211815id_/http%3A//www.suddenlydarling.com/suddenly-darling-privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suddenlydarling.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123153828id_/http%3A//www.suddenlydarling.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D1447%26Itemid%3D11) for the most accurate reproduction.*
 
-# Suddenly Darling Privacy Notice
+# Privacy Policy
 
 Suddenly Darling Privacy Notice  
-Updated as of December 19, 2008
+Updated as of July 28, 2011
 
 The CastFam Inc. Privacy Policy describes how CastFam Inc. and its subsidiaries treat personal information when you use CastFam Inc. services, including information provided when you use Suddenly Darling. In addition, the following describes privacy practices specific to Suddenly Darling. To understand how we treat the information you give us as you use Suddenly Darling, you should read the entire policy.
 
