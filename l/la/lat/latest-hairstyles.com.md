@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the latest-hairstyles.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228004700id_/http%3A//www.latest-hairstyles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latest-hairstyles.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123161937id_/http%3A//www.latest-hairstyles.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy for Latest-Hairstyles.com
-
-This is the Privacy Policy for the United States of America. 
+# Privacy Policy | Latest Hairstyles
 
 Thank you for visiting Latest-Hairstyles.com. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Latest-Hairstyles.com 
 
@@ -11,7 +9,7 @@ Thank you for visiting Latest-Hairstyles.com. Your privacy is important to us. T
 You are able to visit much of this website without providing any personally identifiable information. Sometimes, however, we do need your personally identifiable information to provide you with the products and services that you request. The types of personally identifiable information that may be collected at these pages and elsewhere include, but are not limited to: name, e-mail address, and information about your interests in and use of various products, programs, and services. 
 
 We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using, the type of operating system you are using, and the domain name of your Internet service provider.   
-back to top 
+
 
 **How We Use the Information**
 
@@ -36,13 +34,13 @@ If Latest-Hairstyles.com discloses personally identifiable information to compan
 Latest-Hairstyles.com may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive online marketing information from this, please contact us. 
 
 Latest-Hairstyles.com will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.   
-back to top 
+
 
 **Collection of Information by Third-Party Sites and Sponsors**
 
 Some of our sites contain links to other sites whose information practices may be different than ours. You should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties. Latest-Hairstyles.com sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. Latest-Hairstyles.com has no control over the third-party sponsors' use of this information. Latest-Hairstyles.comsite will notify you at the time of requesting personally identifiable information if third-party sponsors will obtain such information. 
 
-Latest-Hairstyles.com sites may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. This privacy notice does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). For more information on the use of such third-parties, please click here.   
+Latest-Hairstyles.com sites may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. This privacy notice does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs).   
 
 
 **Web Cookies & Web Beacons**
@@ -70,6 +68,10 @@ To inquire about personally identifiable information that Latest-Hairstyles.com 
 
 **How to Contact Us**
 
-If you have any questions or concerns about the Latest-Hairstyles.com Privacy Notice or its implementation please contact us via email. contact (at) latest-hairstyles.com 
+If you have any questions or concerns about the Latest-Hairstyles.com Privacy Notice or its implementation please contact us via email. contact@latest-hairstyles.com 
 
->
+PO Box 231732 Las Vegas, NV 89105
+
+|   
+  
+---|---
