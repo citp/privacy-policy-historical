@@ -1,76 +1,87 @@
-> *The following text is extracted and transformed from the bluefly.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617065459id_/http%3A//www.bluefly.com/custom/custom.jsp%3FpromoId%3Dm490011) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluefly.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123183112id_/http%3A//bluefly.com/custom/custom.jsp%3FpromoId%3Dm1930248) for the most accurate reproduction.*
 
-# Privacy & Security - Privacy Policy
+# Bluefly Privacy Policy
 
-Bluefly is committed to respecting the privacy rights of our customers and all visitors to our web site. We take this matter very seriously, and have instituted many policies and procedures to insure that none of your privacy rights as stated herein are ever violated. The following outlines Bluefly's privacy policy and details the measures we have taken to safeguard and protect your privacy, while providing you with a unique and rewarding online shopping experience. By visiting Bluefly, you are agreeing to the policies detailed below. 
+This website (the "Website") is owned, operated and distributed by Bluefly, Inc., a Delaware corporation ("Bluefly"). BY ACCESSING ANY PART OF THE WEBSITE, YOU ARE AGREEING TO THE TERMS AND CONDITIONS DESCRIBED BELOW (THE "PRIVACY POLICY") AND THE TERMS AND CONDITIONS OF THE BLUEFLY CONDITIONS OF USE (THE "CONDITIONS OF USE"). **IF YOU DO NOT AGREE TO ANY OF THESE TERMS, YOU SHOULD NOT USE THE WEBSITE.** This Privacy Policy applies to all users, including both users who are simply viewing the Website and users who are purchasing goods through the Website.
 
-## what if i communicate with bluefly electronically? 
+Bluefly may, at its sole discretion, modify this Privacy Policy at any time. By accessing the Website at any time after such modifications, you are agreeing to such modifications. This Privacy Policy was last modified as of July 27, 2011.
 
-When you send an email to Bluefly or visit the web site, you are communicating with us electronically. When you send an email to Bluefly, you consent to receive communications from us electronically in response. Please note that this does not constitute opting in to our email or direct mail lists. Bluefly may communicate with you by email, by updating or posting notices on the web site. You agree that all agreements, notices, disclosure and other communications that Bluefly provides to you electronically satisfy any legal requirement that such communication be in writing. All communications with Bluefly become the property of Bluefly. 
+## What Personally Identifiable Information Does Bluefly Collect?
 
-## what information does bluefly collect? 
+Bluefly collects the following types of personally identifiable information from you:
 
-In order to serve you better, Bluefly collects and stores your personal information when you: (i) create an account on Bluefly; (ii) sign up to be notified of special deals like discounts and exclusive offers; or (iii) enter a contest or promotion on our site. An account is created when you do one of following things: make a purchase on Bluefly, create a MyCatalog© on Bluefly, or register for an account on Bluefly, or enter certain Bluefly sweepstakes. When creating an account, we ask you for your first and last name, your e-mail address, a password, and perhaps some other similar information. If you are making a purchase, we will additionally ask you for your billing address, shipping address, and credit card information.
-
-Our system also may gather information about the areas you visit on our site as well as the IP address you use to connect to our site. We may use this data internally only for 2 reasons: 1) to personalize your experience on Bluefly.com and the marketing materials you receive from Bluefly or its partners and 2) to prevent fraud on your account. We would not share any of this data on an individual basis (we may share it in an aggregate form without personal identifiers) with any outside company other than perhaps consultants or service providers of Bluefly who were assisting Bluefly in serving you better. Of course, to the extent that we would ever share any of that information with a consultant or service provider, we would only do so if that party agreed to protect your private information by adopting a privacy policy at least as stringent as our own. We do use navigational information both in the aggregate and on an individual basis to understand how our visitors use Bluefly so that we can make our site better. We do not keep track of where you go on the World Wide Web.
-
-## what does bluefly do with this personal information?
-
-Your information is used to process your orders and personalize your shopping experience on Bluefly, for internal purposes and to comply with any legal requirements. By storing your personal information on a secure server, Bluefly is able to shorten your checkout process and allow you to check your order status online. 
-
-At Bluefly, we also review what kinds of products appeal most to our customers as a group. This statistical information helps us improve our offering in the same way that other companies change their catalog based on what sells best. We may also use information about the kinds of products you buy from Bluefly to make other marketing offers to you. Of course, you always have the option to opt-out from receiving such offers (for instructions on how to opt-out, please see below). To the extent that you use electronic wallet technology provided by a portal, such as AOL's Quick Checkout feature or MSN's .NET Passport technology, or another service provider, we may share some of your purchase information with that portal or service provider to assist that portal in serving you better. However, rest assured that we would only share that information with the same portal you are using and then only to the extent that such portal agreed to protect your private information by adopting a privacy policy at least as stringent as our own.
-
-## does bluefly share any information it collects with outside parties?
-
-We may use your purchase information about the products you buy from Bluefly to make other marketing offers to you. Of course, you always have the option to opt-out from receiving such offers (for instructions on how to opt-out, please see below). We may share this information with consultants or service providers to help Bluefly serve you better. Of course, to the extent that we would ever share any of that information with a consultant or service provider, we would only do so if that party agreed to protect your private information by adopting a privacy policy at least as stringent as our own. For example, we use Coremetrics, a service provider, to help us gather and analyze information about our customers. Coremetrics' only role is to help us conduct our business and deliver the most relevant products and services. If you would like to deactivate our ability to analyze your anonymous browsing and purchase behavior through the use of this service or find out more about our service provider, including its privacy policy and how to opt out, go to: <http://www.coremetrics.com/info_eluminate2.html>. To the extent that you use electronic wallet technology provided by a portal, such as AOL's Quick Checkout feature or MSN's .NET Passport technology, we may share some of your purchase information with that portal to assist that portal in serving you better. However, rest assured that we would only share that information with the portal you are using and then only to the extent that such portal agreed to protect your private information by adopting a privacy policy at least as stringent as our own. If you provide us with your name and postal address, we may make this information available to other companies who want to mail you information about their products. Of course, you always have the option to not have such information shared (For instructions on how to insure that this information will not be shared, please see below). Except as provided above, as required by law, or in the event of a merger, consolidation, or sale of all or substantially all of Bluefly's assets, we will not sell or otherwise share any of your purchase information with any third party without your permission. 
-
-## how does bluefly safeguard my personal information?
-
-Bluefly has implemented a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of employees who have special access rights. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information supplied by you is transmitted via Secure Socket Layer (SSL) technology and securely stored in Bluefly's database. 
-
-## does bluefly provide a way to update or remove personal information?
-
-Bluefly provides a _my account_ feature on our website which allows you to modify and/or remove most of your personal information. This page can be accessed by clicking the _my account_ link at the bottom of every page on the site. Rest assured that all of your information within _my account_ is secure and accessible only by you or limited Bluefly personnel. 
-
-## how does bluefly use my e-mail address?
-
-Your e-mail address is used to create and identify your account on Bluefly. Your e-mail address is also used by Bluefly to correspond with you about any orders that you may place or to notify you with the results of any contests you may have entered. We may also use your e-mail address to notify you about important functionality changes to the Web site, new Bluefly services and special offers and promotions we think you'll find valuable. If you would rather not receive this information, or would like to opt-out of receiving e-mail of this kind, simply click on the "Unsubscribe" link that appears at the bottom of any email and follow the simple instructions to have your email address removed from the list of customers who receive notices of new functionality, services, special offers and promotions. 
-
-Alternately, if you have created an account with Bluefly, you can also remove your email address from our list of addresses that receive information about new products, service, sales and promotions by clicking on the "my account" button that appears on most every page of our Web site, logging into your account, clicking on the "edit preferences" button, and making the appropriate change.
-
-## does bluefly use "cookies"?
-
-A cookie is a small piece of information sent by a web site that is saved on your hard disk by your computer's browser. The cookie holds information a site may need to personalize your experience and to gather web site statistical data, such as which pages are visited, the internet provider's domain name and country that our visitors come from (e.g. "aol.com" or "msn.com") and the addresses of the sites visited immediately before coming to and immediately after leaving Bluefly.com. However, none of this information is associated with you as an individual. It is measured anonymously and only in the aggregate. The information in the cookies lets us trace your "clickstream" activity (i.e., the paths take by visitors to our site as they move from page to page). Cookies do not capture your individual email address or any private information about you.
-
-Bluefly may use third-party advertising companies to serve ads on our web site as well as third party compaies to provide tracking and analysis of information and data collected from visitors to our web site. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous and Bluefly reserves the right to provide that information and data to these third parties.
-
-To browse without cookies, you can configure your browser to reject all cookies, or to notify you when a cookie is set. Each browser is different so check the "Help" menu of your browser to learn how to change your cookie preferences. Even without accepting a cookie, you can still access most of the features on Bluefly. 
-
-## how can you remove your name from our direct mail or email list?
-
-To have your email address removed from our list of addresses that receive information about new products, service, sales and promotions, simply click on the "Unsubscribe" link that appears at the bottom of any email and follow the simple instructions. Alternately, if you have created an account with Bluefly, you can also remove your email address from our list of addresses that receive information about new products, service, sales and promotions by clicking on the "my account" button that appears on most every page of our Web site, logging into your account, clicking on the "edit preferences" button, and making the appropriate change. 
-
-How to Unsubscribe from Bluefly's Direct Mail (Physical Mail) Program:
-
-  1. Forward an email including your full name, physical mailing address and zip code   
-  ie. John Doe   
-  42 W. 39 Street   
-  New York, NY 10018   
-
-  2. Include Dmoptout as the subject line 
-  3. Send email to [DMoptout@bluefly.com](mailto:DMoptout@bluefly.com?subject=UNSUBSCRIBE)
+  * **User Provided Information:** You may affirmatively provide Bluefly with certain personally identifiable information (such as your name, email address, postal address, phone number, birthdate, and credit card information) when participating in various activities on the Website.
+  * **Information Collected by "Cookies":** When you visit the Website, Bluefly and/or third parties that we contract with may send one or more "cookies¿, javascript tags or similar devices to your computer. A "cookie" is a small line of text that is stored with your Web browser, which Bluefly uses to help provide better service to you. Your browser has options to accept, reject or provide you with notice when a cookie is sent. Bluefly may use cookies for many purposes, including (without limitation) to save your password so you don't have to re-enter it each time you visit the Website, and to deliver content (which may include product offers) specific to your interests.
+  * **Log File Information:** Bluefly's servers automatically record certain information that your web browser sends whenever you visit the Website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
+  * **Information Collected by "Clear GIFs":** Bluefly and/or third parties that we contract with may employ "clear GIFs" (a.k.a. Web Beacons), tracking pixels or similar devices, which are used to track the online usage patterns anonymously (i.e., in a non-personally-identifiable manner). In addition, Bluefly may also use these devices in HTML-based emails sent to users to track which emails are opened by recipients.
 
 
 
-To have your name and address removed from our list of addresses that may receive information and/or special offers from companies other than Bluefly that we think might interest you, simply send an email to [Thirdoptout@bluefly.com](mailto:Thirdoptout@bluefly.com?subject=UNSUBSCRIBE) and type UNSUBSCRIBE as the subject of your reply.   
-**PLEASE NOTE: It can take up to 3 business days to process this request so you may get another email from us. Thank you in advance for your understanding.**
+Various features on the Website may allow you to share your information with others by publicly posting that information on the Website and/or sharing that information by other communication methods including (without limitation) email, Facebook or Twitter. To the extent that you choose to share any such information it is no longer considered personal information and is not covered by this privacy policy.
 
-## your consent
+## How Does Bluefly Use Personally Identifiable Information?
 
-You acknowledge that this privacy policy is part of the terms of service and you agree that using this site signifies your assent to Bluefly's privacy policy. Bluefly reserves the right to change the terms of service, including this privacy policy, at any time, without advanced notice. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+Bluefly will use information you provide to process and fulfill your order, including to send you emails to confirm your order status and shipment. In addition, it may use personally identifiable information to deliver product offers and other content specific to your interests.
 
-## tell us what you think
+If you have not opted out from receiving emails from Bluefly, it may use your email address or other personally identifiable information to send commercial or marketing messages. Bluefly also may use your email address for non-marketing or administrative purposes (such as notifying you of major Website changes or for customer service purposes). You cannot opt out of receiving emails for non-marketing or administrative purposes.
 
-If you have any comments or questions about Bluefly's privacy statement, please e-mail us at [flyrep@bluefly.com](mailto:flyrep@bluefly.com?subject=Privacy%20Policy)
+Bluefly uses aggregated information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Website and to create new features, promotions, functionality, and services by storing, tracking, and analyzing user preferences and trends. In addition, Bluefly may use "cookies¿ clear gifs and log file information to deliver product offers and other content specific to your interests, and remember information so that you will not have to re-enter it each time you visit the Website. 
 
-Updated 11.01.04 
+## Will Bluefly Share Personally Identifiable Information with Others?
+
+Bluefly will not share your personally identifiable information (such as name or email address) with other, third-party companies (other than its subsidiary and other affiliated companies) for their commercial or marketing use without your consent or except as part of a specific program or feature for which you have the ability to opt-in or opt-out, except as set forth herein.
+
+Bluefly may provide personally identifiable information to employees, consultants, affiliates or other businesses or persons for the purpose of processing such information on its behalf. In such circumstances, Bluefly requires that these parties agree to protect the confidentiality of such information and to comply in all respects with this Privacy Policy. For example, we use Coremetrics, a service provider, to help us gather and analyze information about our customers. Coremetrics' only role is to help us conduct our business and deliver the most relevant products and services. If you would like to deactivate our ability to analyze your anonymous browsing and purchase behavior through the use of this service or find out more about our service provider, including its privacy policy and how to opt out, go to: <http://www.coremetrics.com/company/privacy.php>
+
+Bluefly may share your personally-identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on the Website or offline with Bluefly with third-party advertising companies and their service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites, and may allow such parties to use cookies, javascript tags, web beacons, tracking pixels or similar devices in order to gather such information. These advertising companies will make the data provided to them anonymous. To discontinue receiving advertisements from Blue Kai, one of the advertising companies we work with, please click here.
+
+To the extent that you use electronic wallet technology provided by another interactive service, we may share some of your purchase information with that service to assist it in serving you better. However, rest assured that we would only share that information with the service you are using and then only to the extent that such service agreed to protect your private information by adopting a privacy policy with appropriate protections.
+
+If you provide us with your name and postal address, we may make this information available to other companies who want to mail you information about their products. Of course, you always have the option to not have such information shared (For instructions on how to insure that this information will not be shared, please see below).
+
+Bluefly may share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Website.
+
+In addition, Bluefly may release personally identifiable information: (i) to the extent it has a good-faith belief that such action is necessary to comply with any applicable law, enforce any provision of the Conditions of Use, protect itself against any liability, defend itself against any claims, protect the rights, property and personal safety of any user or protect the public welfare; or (ii) to respond to a court order, subpoena, or search warrant.
+
+## How can I remove my name from your direct mail or email list?
+
+To unsubscribe from email:
+
+To unsubscribe from Bluefly marketing email, [click here](https://www.bluefly.com/myfly/email_unsubscribe.jsp) and follow the simple instructions.
+
+Note: Please allow up to five business days to process your request to unsubscribe.
+
+To unsubscribe from Bluefly's Direct Mail Program:
+
+Send email to DMoptout@bluefly.com
+
+Include your email address, full name, physical mailing address and zip code  
+i.e. johndoe@aol.com  
+John Doe  
+42 W. 39th Street  
+New York, NY 10018  
+Type Dmoptout as the subject line
+
+## Is My Information Secure?
+
+Bluefly has implemented security measures to protect personally identifiable information collected on the Website against loss, misuse or alteration. In addition, your account information is protected by a password for your privacy and security. It is important that you protect against unauthorized access to your password and to your computer by logging off once you have finished using a shared computer. Moreover, despite the precautions described above, Bluefly cannot and does not guarantee that the individual user information you have transmitted will not be intercepted by others and/or decrypted or accidentally disclosed, and it accepts no liability for any unintentional disclosure.
+
+## In the Event of Merger, Sale, or Bankruptcy
+
+In the event that Bluefly is acquired by or merged with a third party entity, it reserves the right to transfer or assign the information it has collected from users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of Bluefly¿s bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, Bluefly may not be able to control how your personal information is treated, transferred, or used.
+
+## Children's Privacy
+
+You must be 13 years and older to register to use the Website. As a result, Bluefly does not collect information about children.
+
+## Special Note to International Users
+
+The Website is hosted in the United States and is intended for and directed to users in the United States. If you are accessing the Website from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Website, which is governed by U.S. law, this Privacy Policy, and our Conditions of Use, you are transferring your personal information to the United States and you consent to that transfer.
+
+## California Privacy Rights
+
+California Civil Code Section 1798.83 permits users of the Website who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail with "California Privacy Rights" in the heading to privacy@Bluefly.com or write us at:
+
+Bluefly Privacy Rights  
+42 West 39th Street, 9th Floor  
+New York, New York 10018
