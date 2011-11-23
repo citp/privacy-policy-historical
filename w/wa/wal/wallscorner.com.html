@@ -1,0 +1,610 @@
+<!--The following is the downloaded HTML source of the wallscorner.com privacy policy that was archived on 2011-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123110101id_/http%3A//www.wallscorner.com/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>wallscorner.com - Free wallpapers</title>
+<meta name="description" content="wallscorner.com - Free wallpapers">
+<meta name="keywords" content="wallpapers, free, desktop, stock, photos">
+<meta name="distribution" content="Global">
+<meta name="rating" content="General">
+<meta name="author" content="wallscorner.com">
+<meta name="language" content="en-us">
+<meta name="robots" content="index,follow">
+<meta name="version" content="3.5.0076">
+
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<link rel="alternate" href="/rss" type="application/rss+xml" title="wallscorner.com - Free wallpapers RSS" id="gallery">
+<style type="text/css" media="all">
+body{
+	background-color:#BF85DA;
+	color: #000000;
+}
+/*test with fading png*/
+
+a:link, a:visited, a:hover{
+	color:#000000;
+}
+a:hover{
+	color:#BF85DA;
+}
+.thumb a:hover , .wallpaper-thumb:hover{
+	border:1px solid #BF85DA;
+}
+.thumb_img
+{
+	width:175px;
+    height:131px;
+}
+
+h1{
+	color:#BF85DA;
+}
+
+.container_inside, .content{
+	background-color:#FFFFFF;	
+}
+
+/*test with fading png*/
+/*add color for sliding menu*/
+.menu{
+	background-color:#BF85DA;
+	border:1px solid #BF85DA;	
+}
+.menu a, .menu a:visited{
+	color:#FFFFFF;
+}
+.menu a:hover{
+	color:#BF85DA;
+}
+.transMenu .items {
+	border: 1px solid #BF85DA;
+}
+
+.left-panel, .right-panel{
+	background-color:#FFFFFF;
+}
+.left-panel a:link, .left-panel a:visited, .right-panel a:link, .right-panel a:visited{
+	color:#000000;
+}
+.left-panel a:hover, .right-panel a:hover{
+	color:#BF85DA;
+}
+.transMenu .item.hover
+{
+	background-color: #BF85DA;
+}
+
+.input-text, .input-textarea, .input-text-short, .input-other, .button, .thumb a, .wallpaper-thumb{
+	border:1px solid #BF85DA;
+}
+
+.wallpaper-resolutions a:hover{
+	background-color:#BF85DA;
+	color:#FFFFFF;
+}
+div#transmenu a:link, div#transmenu a:visited {
+	color: #FFFFFF;
+	background-color: #BF85DA;
+}
+.transMenu .item {
+	
+	color: #FFFFFF;
+}
+.transMenu .item.hover {
+	
+	color: #FFFFFF;
+}
+
+.rss-back{
+	background-color:#BF85DA; 
+}
+
+.logo-back{
+	background-color:#BF85DA;
+}
+ul.wallpapers li.wall{
+	width:177px;
+	height:186px;
+}
+.thumb_img
+{
+	width:175px;
+	height:131px;
+}
+</style>
+<link rel="stylesheet" href="/templates/default/style.css" type="text/css">
+<script type="text/javascript">
+	var webPath = '/';
+	var fullWebPath = 'http://www.wallscorner.com/';
+	var MENU_BACKGROUND_COLOR = '#BF85DA';
+</script>
+<script type="text/javascript" src="/js/mootools-1.2-core-yc.js"></script>
+<script type="text/javascript" src="/js/mootools-1.2-more.js"></script>
+<script type="text/javascript" src="/js/xmlhttprequest.js"></script>
+<script type="text/javascript" src="/js/rating.js"></script>
+<script type="text/javascript" src="/js/global.js"></script>
+<script type="text/javascript" src="/js/behavior.js"></script>
+<!--[if IE 6]><link rel="stylesheet" type="text/css" href="/templates/default/ie6.css" media="screen" /><![endif]-->
+<!--[if IE]><link rel="stylesheet" type="text/css" href="/templates/default/ie.css" media="screen" /><![endif]-->
+<script type="text/javascript">
+var siteErrors= '';
+var siteSuccess= '';
+var siteNotices= '';
+</script>
+
+<script src="/js/roar.js" type="text/javascript" charset="utf-8"></script>
+<link rel="stylesheet" href="/js/roar.css" type="text/css">
+<script src="/js/textboxlist.js" type="text/javascript" charset="utf-8"></script>
+<script src="/js/facebooklist.js" type="text/javascript" charset="utf-8"></script>
+
+<script type="text/javascript" src="/modules/friendsblock/friendsblock.js"></script><link rel="stylesheet" href="/modules/colorpalette/style.css"><link rel="stylesheet" href="/modules/translations/languages.css" type="text/css" media="screen">
+
+<link rel="stylesheet" href="/templates/default/custom.css" type="text/css">
+</head>
+<body>
+<div id="notifyBox" style="display:none;">
+	<div id="errors"></div>
+	<div id="success"></div>
+	<div id="notices"></div>
+	<div class="drawerDown"></div>
+</div>
+
+<div id="body">
+  <div class="top-header"></div>
+ 
+  <div class="container" id="container">
+    <div class="container_right">
+      <div class="container_inside">
+        	<div id="ie_background"></div>
+            <div id="header">
+	<div class="logo">
+		<div class="logo-back">
+			<a href="/" title="wallscorner.com"><span class="logo-img" title="wallscorner.com"></span></a>
+		</div>
+		<a href="/" title="wallscorner.com"><span class="logo-text">wallscorner.com</span></a>
+<div style="float:right;">
+<!-- Place this tag where you want the +1 button to render -->
+<g:plusone size="tall"></g:plusone>
+</div>
+
+        
+	</div>	
+
+	<div class="menu">	
+		<strong><a href="/">HOME</a>
+				<a id="navBrowse" href="/all_categories.html">CATEGORIES</a> 
+		<a id="navBrowse" href="/latest_wallpapers.html">LATEST WALLPAPERS</a> 
+		<a id="navTorrents" href="/top_wallpapers.html">TOP RATED WALLPAPERS</a>
+		<a id="navTorrents" href="/most_viewed_wallpapers.html">MOST POPULAR WALLPAPERS</a> 
+		<a href="/random_wallpapers.html">RANDOM WALLPAPERS</a> 
+				<a href="/contact.html">CONTACT</a></strong> 
+		
+		
+	
+	</div>
+	
+	<div class="top-menu-ads">
+		<script type="text/javascript"><!--
+google_ad_client = "pub-9776877944319398";
+/* 728x15, created 6/1/11 */
+google_ad_slot = "1601614606";
+google_ad_width = 700;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<div style="float:right;">
+<!-- AddThis Button BEGIN --><div class="addthis_toolbox addthis_default_style"><a class="addthis_button_favorites"></a><a class="addthis_button_facebook"></a><a class="addthis_button_twitter"></a><a class="addthis_button_email"></a><span class="addthis_separator">|</span><a href="http://www.addthis.com/bookmark.php?v=250&amp;username=sahithp" class="addthis_button_compact">Share</a></div><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=sahithp"></script><!-- AddThis Button END -->
+</div>
+	</div>	
+<div style="float:right; width:375px; margin-right:320px;">
+
+<script type="text/javascript">
+<!--
+function searchSubmit(obj)
+{
+    obj.q.value = obj.q.value.replace('?', '');
+    window.location = obj.action + '?q='+encodeURIComponent(obj.q.value)+'';
+    return false;
+}
+-->
+</script>
+
+<form name="searchForm" action="/search.html" method="get" onsubmit="return searchSubmit(this);">
+    <input name="q" class="input-text" style="width:300px; border:solid 1px #BF85DA; margin-bottom:15px; margin-right:3px;"><input type="submit" class="button" value="Search" style="border:solid 1px #BF85DA; padding:1px; font-style:normal;">
+</form>
+</div>
+    
+	<div class="content_top_ads"></div>
+
+
+
+</div>
+
+            <div class="content_background"> <div id="left-panel" class="left-panel">
+
+    <div style="float:left; margin-bottom:5px; margin-top:5px;">
+<script type="text/javascript"><!--
+google_ad_client = "pub-9776877944319398";
+/* 160x90, created 09/10/11 */
+google_ad_slot = "9153425187";
+google_ad_width = 160;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<div class="side-header">Partners</div>
+<ul class="side-panel">
+            <li><a target="_blank" href="http://www.hdwallpapers.pk" title="HD Wallpapers">HD Wallpapers</a></li>
+            <li><a target="_blank" href="http://www.hdwallscollection.com" title="Wallpapers Collection ">Wallpapers Collection </a></li>
+            <li><a target="_blank" href="http://www.gsmseek.com" title="Mobile Phones">Mobile Phones</a></li>
+    </ul>
+
+
+<div class="side-header">Categories</div>
+
+        <ul class="side-panel categories">
+                                                                                                                                                                <li style="padding-left:0px;"><a href="/1080p_hdtv_-desktop-wallpapers.html">1080p HDTV </a> <small>(809)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/3d__abstract-desktop-wallpapers.html">3D &amp; Abstract</a> <small>(1307)</small></li>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li style="padding-left:0px;"><a href="/abstract_unique-desktop-wallpapers.html">Abstract Unique</a> <small>(6)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/aircraft-desktop-wallpapers.html">Aircraft</a> <small>(58)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/amazing-desktop-wallpapers.html">Amazing</a> <small>(1094)</small></li>                                                                                                                                                                                                                        <li style="padding-left:0px;"><a href="/animals__birds-desktop-wallpapers.html">Animals &amp; Birds</a> <small>(1378)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/anime-desktop-wallpapers.html">Anime</a> <small>(453)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/architecture-desktop-wallpapers.html">Architecture</a> <small>(897)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/beaches-desktop-wallpapers.html">Beaches</a> <small>(249)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/beautiful_girls-desktop-wallpapers.html">Beautiful Girls</a> <small>(147)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/bikes-desktop-wallpapers.html">Bikes</a> <small>(270)</small></li>                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li style="padding-left:0px;"><a href="/blackberry-desktop-wallpapers.html">BlackBerry</a> <small>(345)</small></li>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li style="padding-left:0px;"><a href="/boats__ships-desktop-wallpapers.html">Boats &amp; Ships</a> <small>(15)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/bollywood_actress-desktop-wallpapers.html">Bollywood Actress</a> <small>(380)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/brands__logos-desktop-wallpapers.html">Brands &amp; Logos</a> <small>(211)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/bridges-desktop-wallpapers.html">Bridges</a> <small>(108)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/butterflies-desktop-wallpapers.html">Butterflies</a> <small>(39)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/cars-desktop-wallpapers.html">Cars</a> <small>(4022)</small></li>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li style="padding-left:0px;"><a href="/cartoons-desktop-wallpapers.html">Cartoons</a> <small>(622)</small></li>                                                                                                                                                                                                                                                                                                                    <li style="padding-left:0px;"><a href="/celebrities-desktop-wallpapers.html">Celebrities</a> <small>(394)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/christmas-desktop-wallpapers.html">Christmas</a> <small>(347)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/colorful-desktop-wallpapers.html">Colorful</a> <small>(306)</small></li>                                                                                                                                                                                                                                                                                                                    <li style="padding-left:0px;"><a href="/creative__graphics-desktop-wallpapers.html">Creative &amp; Graphics</a> <small>(48)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/darkness-desktop-wallpapers.html">Darkness</a> <small>(335)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/digital_art-desktop-wallpapers.html">Digital Art</a> <small>(641)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/digital_universe-desktop-wallpapers.html">Digital Universe</a> <small>(262)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/dreamy__fantasy-desktop-wallpapers.html">Dreamy &amp; Fantasy</a> <small>(161)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/drinks-desktop-wallpapers.html">Drinks</a> <small>(66)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/dual_monitor-desktop-wallpapers.html">Dual Monitor</a> <small>(307)</small></li>                                                                                                                                                                                                                                                                                                                    <li style="padding-left:0px;"><a href="/engines-desktop-wallpapers.html">Engines</a> <small>(23)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/female_faces-desktop-wallpapers.html">Female Faces</a> <small>(316)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/flags-desktop-wallpapers.html">Flags</a> <small>(298)</small></li>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li style="padding-left:0px;"><a href="/flowers-desktop-wallpapers.html">Flowers</a> <small>(442)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/food-desktop-wallpapers.html">Food</a> <small>(359)</small></li>                                                                                                                                                                                                                                                                                                                    <li style="padding-left:0px;"><a href="/games-desktop-wallpapers.html">Games</a> <small>(1250)</small></li>                                                                                                                                                                                                                                                                                                                    <li style="padding-left:0px;"><a href="/gardens-desktop-wallpapers.html">Gardens</a> <small>(111)</small></li>                                                                                                                                                                                                                        <li style="padding-left:0px;"><a href="/historical_places-desktop-wallpapers.html">Historical Places</a> <small>(90)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/hollywood_actress-desktop-wallpapers.html">Hollywood Actress</a> <small>(136)</small></li>                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li style="padding-left:0px;"><a href="/hollywood_movies-desktop-wallpapers.html">Hollywood Movies</a> <small>(1)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/horror-desktop-wallpapers.html">Horror</a> <small>(292)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/house-desktop-wallpapers.html">House</a> <small>(46)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/icons-desktop-wallpapers.html">Icons</a> <small>(729)</small></li>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li style="padding-left:0px;"><a href="/interior_designing-desktop-wallpapers.html">Interior Designing</a> <small>(138)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/ipad-desktop-wallpapers.html">ipad</a> <small>(858)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/iphone-desktop-wallpapers.html">Iphone</a> <small>(7811)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/islami-desktop-wallpapers.html">Islami</a> <small>(476)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/kids-desktop-wallpapers.html">Kids</a> <small>(106)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/leaves-desktop-wallpapers.html">Leaves</a> <small>(61)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/love-desktop-wallpapers.html">Love</a> <small>(110)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/marvel__dc-desktop-wallpapers.html">Marvel &amp; DC</a> <small>(358)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/misc-desktop-wallpapers.html">Misc</a> <small>(534)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/miscellaneous-desktop-wallpapers.html">Miscellaneous</a> <small>(1607)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/music_-desktop-wallpapers.html">Music </a> <small>(314)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/national_geographic-desktop-wallpapers.html">National Geographic</a> <small>(1062)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/nature-desktop-wallpapers.html">Nature</a> <small>(67)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/nature__landscapes-desktop-wallpapers.html">Nature &amp; Landscapes</a> <small>(2047)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/perfumes-desktop-wallpapers.html">Perfumes</a> <small>(111)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/religion-desktop-wallpapers.html">Religion</a> <small>(27)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/sea_shells-desktop-wallpapers.html">Sea shells</a> <small>(74)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/software-desktop-wallpapers.html">Software</a> <small>(20)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/sony_psp-desktop-wallpapers.html">Sony PsP</a> <small>(4382)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/space-desktop-wallpapers.html">Space</a> <small>(22)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/special-desktop-wallpapers.html">Special</a> <small>(263)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/sports-desktop-wallpapers.html">Sports</a> <small>(120)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/symbian-desktop-wallpapers.html">Symbian</a> <small>(204)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/technological_device-desktop-wallpapers.html">Technological Device</a> <small>(68)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/textures-desktop-wallpapers.html">Textures</a> <small>(313)</small></li>                                                                                                                                                                                                                        <li style="padding-left:0px;"><a href="/transformers-desktop-wallpapers.html">Transformers</a> <small>(64)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/travel-desktop-wallpapers.html">Travel</a> <small>(1307)</small></li>                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li style="padding-left:0px;"><a href="/trees-desktop-wallpapers.html">Trees</a> <small>(112)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/trucks-desktop-wallpapers.html">Trucks</a> <small>(90)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/unique-desktop-wallpapers.html">Unique</a> <small>(832)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/vector__design-desktop-wallpapers.html">Vector &amp; design</a> <small>(64)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/war_aircraft-desktop-wallpapers.html">War Aircraft</a> <small>(27)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/waterfalls-desktop-wallpapers.html">Waterfalls</a> <small>(134)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/weapons-desktop-wallpapers.html">Weapons</a> <small>(77)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/windows-desktop-wallpapers.html">Windows</a> <small>(244)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/windows_phone-desktop-wallpapers.html">Windows Phone</a> <small>(156)</small></li>                                                                                                                                                                            <li style="padding-left:0px;"><a href="/wwe-desktop-wallpapers.html">WWE</a> <small>(28)</small></li>                           
+ </ul>
+       
+
+</div>
+              <div class="content" id="content">
+                <div class="breadCrumbs"><a href="/" title="Home">Home</a></div>
+                                    <h1>Privacy Policy</h1><br><br>
+
+
+<p>
+Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.</p>
+
+
+
+Note: the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.<br><br>
+
+
+
+<b>Collection of Information</b><br><br>
+
+We do not collect personally identifiable information, like names, postal addresses, but we do collect your email id when you register yourself as a member.<br><br>
+
+
+
+<b>Cookie/Tracking Technology</b><br><br>
+
+The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. <br><br>
+
+
+
+<b>Especially Google Adsense Privacy Policy</b><br><br>
+
+Google, as a third party vendor, uses cookies to serve ads on our site.<br><br>
+
+Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet.<br>
+
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.<br><br>
+
+<b>Distribution of Information</b><br><br>
+
+We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.<br><br>
+
+
+
+<b>Privacy Contact Information</b><br><br>
+
+If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below:<br><br>
+
+
+
+By e-mail: Please use our Contact Form<br><br>
+
+
+
+We reserve the right to make changes to this policy.
+                								<br class="reset" clear="all">
+                 </div>
+              <div class="right-panel">
+	<div style="margin-top:15px; margin-bottom:5px;">
+<script type="text/javascript"><!--
+google_ad_client = "pub-9776877944319398";
+/* 160x90, created 09/10/11 */
+google_ad_slot = "9153425187";
+google_ad_width = 160;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<div class="module side-colorpalette" id="">
+	<div class="side-header">Search By Colors</div>
+	
+	<ul class="colors">
+									    							    <li><a href="/colors/copper_rose" title="Copper rose" style="background-color:#996666;"></a></li>
+		    		    							    <li><a href="/colors/993333" title="993333" style="background-color:#993333;"></a></li>
+		    		    							    <li><a href="/colors/666666" title="666666" style="background-color:#666666;"></a></li>
+		    		    							    <li><a href="/colors/ffcccc" title="FFCCCC" style="background-color:#FFCCCC;"></a></li>
+		    		    							    <li><a href="/colors/330000" title="330000" style="background-color:#330000;"></a></li>
+		    		    							    <li><a href="/colors/fuzzy_wuzzy" title="Fuzzy Wuzzy" style="background-color:#CC6666;"></a></li>
+		    		    							    <li><a href="/colors/ff3333" title="FF3333" style="background-color:#FF3333;"></a></li>
+		    		    							    <li><a href="/colors/red" title="Red" style="background-color:#FF0000;"></a></li>
+		    		    							    <li><a href="/colors/usc_cardinal" title="USC Cardinal" style="background-color:#990000;"></a></li>
+		    		    							    <li><a href="/colors/light_salmon_pink" title="Light salmon pink" style="background-color:#FF9999;"></a></li>
+		    		    							    <li><a href="/colors/cccccc" title="CCCCCC" style="background-color:#CCCCCC;"></a></li>
+		    		    							    <li><a href="/colors/boston_university_red" title="Boston University Red" style="background-color:#CC0000;"></a></li>
+		    		    							    <li><a href="/colors/persian_red" title="Persian red" style="background-color:#CC3333;"></a></li>
+		    		    							    <li><a href="/colors/ff6666" title="FF6666" style="background-color:#FF6666;"></a></li>
+		    		    							    <li><a href="/colors/cc9999" title="CC9999" style="background-color:#CC9999;"></a></li>
+		    		    							    <li><a href="/colors/999999" title="999999" style="background-color:#999999;"></a></li>
+		    		    							    <li><a href="/colors/333333" title="333333" style="background-color:#333333;"></a></li>
+		    		    							    <li><a href="/colors/660000" title="660000" style="background-color:#660000;"></a></li>
+		    		    							    <li><a href="/colors/ff3300" title="FF3300" style="background-color:#FF3300;"></a></li>
+		    		    							    <li><a href="/colors/ff6633" title="FF6633" style="background-color:#FF6633;"></a></li>
+		    		    							    <li><a href="/colors/cc3300" title="CC3300" style="background-color:#CC3300;"></a></li>
+		    		    							    <li><a href="/colors/pink_orange" title="Pink-orange" style="background-color:#FF9966;"></a></li>
+		    		    							    <li><a href="/colors/cc6633" title="CC6633" style="background-color:#CC6633;"></a></li>
+		    		    							    <li><a href="/colors/993300" title="993300" style="background-color:#993300;"></a></li>
+		    		    							    <li><a href="/colors/ff6600" title="FF6600" style="background-color:#FF6600;"></a></li>
+		    		    							    <li><a href="/colors/663300" title="663300" style="background-color:#663300;"></a></li>
+		    		    							    <li><a href="/colors/996633" title="996633" style="background-color:#996633;"></a></li>
+		    		    							    <li><a href="/colors/peach_orange" title="Peach-orange" style="background-color:#FFCC99;"></a></li>
+		    		    							    <li><a href="/colors/cc9966" title="CC9966" style="background-color:#CC9966;"></a></li>
+		    		    							    <li><a href="/colors/deep_saffron" title="Deep saffron" style="background-color:#FF9933;"></a></li>
+		    		    							    <li><a href="/colors/cc6600" title="CC6600" style="background-color:#CC6600;"></a></li>
+		    		    							    <li><a href="/colors/ff9900" title="FF9900" style="background-color:#FF9900;"></a></li>
+		    		    							    <li><a href="/colors/996600" title="996600" style="background-color:#996600;"></a></li>
+		    		    							    <li><a href="/colors/ffcc66" title="FFCC66" style="background-color:#FFCC66;"></a></li>
+		    		    							    <li><a href="/colors/cc9933" title="CC9933" style="background-color:#CC9933;"></a></li>
+		    		    							    <li><a href="/colors/sunglow" title="Sunglow" style="background-color:#FFCC33;"></a></li>
+		    		    							    <li><a href="/colors/cc9900" title="CC9900" style="background-color:#CC9900;"></a></li>
+		    		    							    <li><a href="/colors/usc_gold" title="USC Gold" style="background-color:#FFCC00;"></a></li>
+		    		    							    <li><a href="/colors/cccc99" title="CCCC99" style="background-color:#CCCC99;"></a></li>
+		    		    							    <li><a href="/colors/ffff99" title="FFFF99" style="background-color:#FFFF99;"></a></li>
+		    		    							    <li><a href="/colors/cccc00" title="CCCC00" style="background-color:#CCCC00;"></a></li>
+		    		    							    <li><a href="/colors/ffffcc" title="FFFFCC" style="background-color:#FFFFCC;"></a></li>
+		    		    							    <li><a href="/colors/999933" title="999933" style="background-color:#999933;"></a></li>
+		    		    							    <li><a href="/colors/666600" title="666600" style="background-color:#666600;"></a></li>
+		    		    							    <li><a href="/colors/999966" title="999966" style="background-color:#999966;"></a></li>
+		    		    							    <li><a href="/colors/999900" title="999900" style="background-color:#999900;"></a></li>
+		    		    							    <li><a href="/colors/333300" title="333300" style="background-color:#333300;"></a></li>
+		    		    							    <li><a href="/colors/unmellow_yellow" title="Unmellow Yellow" style="background-color:#FFFF66;"></a></li>
+		    		    							    <li><a href="/colors/yellow" title="Yellow" style="background-color:#FFFF00;"></a></li>
+		    		    				
+	</ul>
+	<div class="reset"></div>
+	<a href="/colors.html" class="more_colors">Find More Colors</a>
+	<div class="reset"></div>
+</div>
+<div class="reset"></div>
+            
+<div style="float:right; margin-top:10px; margin-bottom:5px;">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FWallscorner%2F271856929492158&amp;width=155&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=false&amp;height=262" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:160px; height:270px;" allowtransparency="true"></iframe>
+</div>
+
+                
+<ul class="side-panel">	
+    <li>
+    
+    	<div class="reset"></div>
+    </li>
+</ul>
+
+
+<img src="http://www.wallscorner.com/templates/default/images/banner1.png" alt="banner">
+<!-- Begin Your Resolution -->
+<script>
+document.write("Your Resolution: "+screen.width+"x"+screen.height);
+</script>Your Resolution: 800x600
+<!-- End Your Resolution -->
+
+<div class="side-header">Resolutions</div>
+<ul class="side-panel categories">	
+            	        	        	        	        <li><a href="/800x600-wallpapers-r.html">800x600 Normal</a>
+	        
+	        </li>
+      	            	        	        	        	        <li><a href="/1024x768-wallpapers-r.html">1024x768 Normal</a>
+	        
+	        </li>
+      	            	        	        	        	        <li><a href="/1152x864-wallpapers-r.html">1152x864 Normal</a>
+	        
+	        </li>
+      	            	        	        	        	        <li><a href="/1280x960-wallpapers-r.html">1280x960 Normal</a>
+	        
+	        </li>
+      	            	        	        	        	        <li><a href="/1400x1050-wallpapers-r.html">1400x1050 Normal</a>
+	        
+	        </li>
+      	            	        	        	        	        <li><a href="/1600x1200-wallpapers-r.html">1600x1200 Normal</a>
+	        
+	        </li>
+      	            	        	        	        	        <li><a href="/1920x1440-wallpapers-r.html">1920x1440 Normal</a>
+	        
+	        </li>
+      	            	        	        	        	            	            	            
+	        	        <li><a href="/1280x800_wide-wallpapers-r.html">1280x800 Wide</a>
+	        
+	        </li>
+      	            	        	        	        	            	            	            
+	        	        <li><a href="/1440x900_wide-wallpapers-r.html">1440x900 Wide</a>
+	        
+	        </li>
+      	            	        	        	        	            	            	            
+	        	        <li><a href="/1680x1050_wide-wallpapers-r.html">1680x1050 Wide</a>
+	        
+	        </li>
+      	            	        	        	        	            	            	            
+	        	        <li><a href="/1920x1200_wide-wallpapers-r.html">1920x1200 Wide</a>
+	        
+	        </li>
+      	            	        	        	        	            	            	            
+	        	        <li><a href="/2560x1600_wide-wallpapers-r.html">2560x1600 Wide</a>
+	        
+	        </li>
+      	            	        	        	        	        <li><a href="/1280x1024-wallpapers-r.html">1280x1024 Normal</a>
+	        
+	        </li>
+      	            	        	        	        	            	            	            
+	        	        <li><a href="/852x480_hd-wallpapers-r.html">852x480 HD</a>
+	        
+	        </li>
+      	            	        	        	        	            	            	            
+	        	        <li><a href="/1280x720_hd+%28720p%29-wallpapers-r.html">1280x720 HD (720p)</a>
+	        
+	        </li>
+      	            	        	        	        	            	            	            
+	        	        <li><a href="/1366x768_hd-wallpapers-r.html">1366x768 HD</a>
+	        
+	        </li>
+      	            	        	        	        	            	            	            
+	        	        <li><a href="/1920x1080_hd+%281080p%29-wallpapers-r.html">1920x1080 HD (1080p)</a>
+	        
+	        </li>
+      	            	        	        	        	            	            	            
+	        	        <li><a href="/2000x625_multi+monitor-wallpapers-r.html">2000x625 Multi Monitor</a>
+	        
+	        </li>
+      	            	        	        	        	            	            	            
+	        	        <li><a href="/2048x786_multi+monitor-wallpapers-r.html">2048x786 Multi Monitor</a>
+	        
+	        </li>
+      	            	        	        	        	            	            	            
+	        	        <li><a href="/2304x864_multi+monitor-wallpapers-r.html">2304x864 Multi Monitor</a>
+	        
+	        </li>
+      	            	        	        	        	            	            	            
+	        	        <li><a href="/2560x960_multi+monitor-wallpapers-r.html">2560x960 Multi Monitor</a>
+	        
+	        </li>
+      	            	        	        	        	            	            	            
+	        	        <li><a href="/2800x1050_multi+monitor-wallpapers-r.html">2800x1050 Multi Monitor</a>
+	        
+	        </li>
+      	            	        	        	        	            	            	            
+	        	        <li><a href="/2880x900_multi+monitor+-wallpapers-r.html">2880x900 Multi Monitor </a>
+	        
+	        </li>
+      	            	        	        	        	            	            	            
+	        	        <li><a href="/3200x1200_multi+monitor-wallpapers-r.html">3200x1200 Multi Monitor</a>
+	        
+	        </li>
+      	            	        	        	        	            	            	            
+	        	        <li><a href="/3360x1050_multi+monitor-wallpapers-r.html">3360x1050 Multi Monitor</a>
+	        
+	        </li>
+      	            	        	        	        	            	            	            
+	        	        <li><a href="/3840x1200_multi+monitor-wallpapers-r.html">3840x1200 Multi Monitor</a>
+	        
+	        </li>
+      	            	        	        	        	            	            	            
+	        	        <li><a href="/4096x1536_multi+monitor-wallpapers-r.html">4096x1536 Multi Monitor</a>
+	        
+	        </li>
+      	            	        	        	        	            	            	            
+	        	        <li><a href="/320x480_iphone-wallpapers-r.html">320x480 iPhone</a>
+	        
+	        </li>
+      	            	        	        	        	            	            	            
+	        	        <li><a href="/480x272_sony+psp-wallpapers-r.html">480x272 Sony psp</a>
+	        
+	        </li>
+      	            	        	        	        	            	            	            
+	        	        <li><a href="/1024x1024_ipad-wallpapers-r.html">1024x1024 Ipad</a>
+	        
+	        </li>
+      	            	        	        	        	            	            	            
+	        	        <li><a href="/480x800_window+phone+7-wallpapers-r.html">480x800 window phone 7</a>
+	        
+	        </li>
+      	            	        	        	        	            	            	            
+	        	        <li><a href="/360x640_symbian-wallpapers-r.html">360x640 Symbian</a>
+	        
+	        </li>
+      	    	
+</ul>	
+<div class="side-header">Links</div>
+<ul class="side-panel">	
+            <li><a target="_blank" href="http://www.funmaza.com/videosongs/bollywood_video_songs1.asp" title="Bollywood Videos">Bollywood Videos</a></li>
+            <li><a target="_blank" href="http://www.3dwallpapers.co.in" title="3D Wallpapers">3D Wallpapers</a></li>
+            <li><a target="_blank" href="http://www.di9.in" title="High Quality Wallpapers">High Quality Wallpapers</a></li>
+            <li><a target="_blank" href="http://www.windows7ms.com" title="Windows 7 Themes">Windows 7 Themes</a></li>
+            <li><a target="_blank" href="http://www.mobile8wallpapers.com" title="Phone Wallpapers">Phone Wallpapers</a></li>
+            <li><a target="_blank" href="http://www.bhwallpapers.net/" title="Celebrity Stock Wallpapers">Celebrity Stock Wallpapers</a></li>
+            <li><a target="_blank" href="http://www.hotgirlwallpapers.in" title="Hot Wallpapers">Hot Wallpapers</a></li>
+            <li><a target="_blank" href="http://desktopwallpaper.org.in" title="Desktop Wallpapers">Desktop Wallpapers</a></li>
+            <li><a target="_blank" href="http://www.compwalls.com/" title="Desktop Wallpapers">Desktop Wallpapers</a></li>
+            <li><a target="_blank" href="http://www.wallpapercuber.com" title="Free Wallpaper">Free Wallpaper</a></li>
+    	
+	<li><a href="/top_friends.html" title="Top friends"><strong>Top friends</strong></a></li>	
+</ul>
+  <div class="side-header">Statistics</div>
+<ul class="side-panel">
+    <li>Total Wallpapers: <strong>243658</strong></li>  
+    <li>Total Categories: <strong>182</strong></li>
+    <li>Total Downloads: <strong>587944</strong></li>
+    <li>Total Views: <strong>514189</strong></li>
+    <li>Total Votes: <strong>995593</strong></li>
+    <li>Registerd Users: <strong>161589</strong></li>
+    <li>Total Hits: <strong>335586</strong></li>
+    <li>Site Age: <strong>300 Days</strong></li>
+    <li>Google Page Rank: <strong>1</strong></li>
+    
+</ul><div class="side-header">Users online</div>
+<ul class="side-panel">
+    <li>Online Users:<strong>19</strong></li>
+    </ul>
+</div>	              <div class="reset"></div>
+              <br class="reset" clear="all">
+            </div>
+        	<div class="reset"></div>
+        	<div id="footer">
+	Copyright © 2011 wallscorner.com<br>	
+</div>
+
+
+
+
+<hr>
+<p align="center">
+<strong><a href="http://www.wallscorner.com" title="home">Home</a> |
+<a href="http://www.wallscorner.com/copyright.html" title="copyright">Copyright Policy</a> |
+<a href="http://www.wallscorner.com/advertise.html" title="advertise">Advertisement</a> |
+<a href="http://www.wallscorner.com/privacy.html" title="policy">Privacy Policy</a> |
+<a href="http://www.wallscorner.com/sitemap.xml" title="Sitemap">Sitemap</a></strong>
+</p><p align="center">All Wallpapers In Wallscorner Is Collected From Search Engines And Some Of Our Photography.But Incase if u find ur copyright wallpaper then please contact us.
+</p><p align="center">
+We will remove those wallpapers in wallscorner.
+</p><p align="center">
+Contact Email: Wallscorner@gmail.com 
+</p><p align="center">
+<strong><a href="http://www.facebook.com/pages/Wallscorner/271856929492158?sk=wall" class="fb-icon.png">+ Facebook</a> |
+        <a href="http://twitter.com/wallscorner" class="twitter-icon">+ Twitter</a></strong>
+
+</p><p align="center">
+<!-- Histats.com  START (html only)-->
+<a href="http://www.histats.com" alt="page hit counter" target="_blank">
+<embed src="http://s10.histats.com/2049.swf" flashvars="jver=1&amp;acsid=1634756&amp;domi=4" quality="high" width="280" height="25" name="2049.swf" align="middle" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" wmode="transparent"></a>
+<img src="http://sstatic1.histats.com/0.gif?1634756&amp;101" alt="site hit counter" border="0">
+<!-- Histats.com  END  -->
+
+	    
+</p><hr>
+    
+        </div>
+      <div class="container_right_ie"></div>
+    </div>
+  </div>
+  <div class="bottom-footer"></div>
+</div>
+
+
+
+
+
+
+<link rel="icon" href="http://www.wallscorner.com/favicon.ico">
+</body></html>
