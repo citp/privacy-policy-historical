@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the seattletimes.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629040630id_/http%3A//www.seattletimescompany.com/notices/notice2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seattletimes.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123030049id_/http%3A//www.seattletimescompany.com/notices/notice2.html%3Ffrom%3Dstnv4) for the most accurate reproduction.*
 
 # User Notices of The Seattle Times Company: Privacy Statement
 
 ## Privacy Statement
 
-The following statement explains how the Web sites operated by The Seattle Times Company collect and use your personally identifiable information. These Web sites include: seattletimes.com, NWsource.com, NWjobs.com, NWautos.com, NWhomes.com and seattletimescompany.com.
+The following statement explains how the Web sites operated by The Seattle Times Company collect and use your personally identifiable information. These Web sites include: seattletimes.com, NWjobs.com, NWautos.com, NWhomes.com and seattletimescompany.com.
 
 #### The basic principle
 
@@ -20,7 +20,7 @@ The people who make it possible for us to provide free content to you are our ad
 
 You must provide some personally identifiable information in order to use some features of our Web sites. Some examples: 
 
-  * Signing up for e-mail services such as seattletimes.com news alerts, NWsource.com newsletters, and e-mail alerts for various types of classified listings, and special e-mail offers sent on behalf of advertisers.
+  * Signing up for e-mail services such as seattletimes.com news alerts and e-mail alerts for various types of classified listings, and special e-mail offers sent on behalf of advertisers.
   * Participating in online sweepstakes, contests and games
   * Participating in online forums
   * Submitting a resume on NWjobs.com
