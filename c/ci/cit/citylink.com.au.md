@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citylink.com.au privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629003451id_/http%3A//www.citylink.com.au/137.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citylink.com.au privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123220118id_/http%3A//www.citylink.com.au/137.jsp) for the most accurate reproduction.*
 
 # Privacy statement
 
