@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidspeeds.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616020256id_/http%3A//www.rapidspeeds.com/index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidspeeds.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123160951id_/http%3A//rapidspeeds.com/index.php%3Fa%3Dprivacy) for the most accurate reproduction.*
 
 # RapidSpeeds - 1Gbps .NL Dedicated Servers - No bandwidth caps
 
