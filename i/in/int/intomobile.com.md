@@ -1,17 +1,12 @@
-> *The following text is extracted and transformed from the intomobile.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603131739id_/http%3A//www.intomobile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intomobile.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123163646id_/http%3A//www.intomobile.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This is the web site of **IntoMobile**.  
+This is the web site of **IntoMobile**.
 
-
-Our postal address is 
-
-**1819 Polk St Ste 327
-
-San Francisco, CA 94109
-
-**
+Our postal address is   
+**1819 Polk St Ste 327  
+San Francisco, CA 94109**
 
 For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
