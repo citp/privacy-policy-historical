@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beamtele.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520230234id_/http%3A//beamtele.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D56%26Itemid%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beamtele.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123142310id_/http%3A//www.beamtele.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D56%26Itemid%3D12) for the most accurate reproduction.*
 
 # Privacy Policy
 
