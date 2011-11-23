@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeld-wen.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525044011id_/http%3A//www.jeld-wen.com/about-jw/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeld-wen.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123025634id_/http%3A//www.jeld-wen.com/about-jw/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JELD-WEN Doors & Windows
 
@@ -6,7 +6,7 @@ We at **JELD-WEN, inc.** (referred to as " **JELD-WEN, inc.** ," "we," "us," or 
 
 This privacy ("Policy") discoses what Information we gather, how we use it, and how to correct or change it. This policy does not apply to the practices of companies that **JELD-WEN, inc.** does not own or control, or individuals that **JELD-WEN, inc.** does not employ or manage, including those that are linked to the Website.
 
-Please note, if you provide us with your email address or phone number, we or our represenative may send you a follow-up email or phone call.
+Please note, if you provide us with your email address or phone number, we or our representative may send you a follow-up email or phone call.
 
 **Table of Contents**
 
