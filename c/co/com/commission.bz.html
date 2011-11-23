@@ -1,0 +1,553 @@
+<!--The following is the downloaded HTML source of the commission.bz privacy policy that was archived on 2011-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123213038id_/http%3A//www.commission.bz/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Online Casino Affiliates - Commission.bz</title>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
+<script src="SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+	//Show the paging and activate its first link
+$(".paging").show();
+$(".paging a:first").addClass("active");
+
+//Get size of the image, how many images there are, then determin the size of the image reel.
+var imageWidth = $(".window").width();
+var imageSum = $(".image_reel img").size();
+var imageReelWidth = imageWidth * imageSum;
+
+//Adjust the image reel to its new size
+$(".image_reel").css({'width' : imageReelWidth});
+
+//Paging  and Slider Function
+rotate = function(){
+    var triggerID = $active.attr("rel") - 1; //Get number of times to slide
+    var image_reelPosition = triggerID * imageWidth; //Determines the distance the image reel needs to slide
+
+    $(".paging a").removeClass('active'); //Remove all active class
+    $active.addClass('active'); //Add active class (the $active is declared in the rotateSwitch function)
+
+    //Slider Animation
+    $(".image_reel").animate({
+        left: -image_reelPosition
+    }, 500 );
+
+}; 
+
+//Rotation  and Timing Event
+rotateSwitch = function(){
+    play = setInterval(function(){ //Set timer - this will repeat itself every 7 seconds
+        $active = $('.paging a.active').next(); //Move to the next paging
+        if ( $active.length === 0) { //If paging reaches the end...
+            $active = $('.paging a:first'); //go back to first
+        }
+        rotate(); //Trigger the paging and slider function
+    }, 7000); //Timer speed in milliseconds (7 seconds)
+};
+
+rotateSwitch(); //Run function on launch
+});
+//On Hover
+$(".image_reel a").hover(function() {
+    clearInterval(play); //Stop the rotation
+}, function() {
+    rotateSwitch(); //Resume rotation timer
+});	
+
+//On Click
+$(".paging a").click(function() {
+    $active = $(this); //Activate the clicked paging
+    //Reset Timer
+    clearInterval(play); //Stop the rotation
+    rotate(); //Trigger rotation immediately
+    rotateSwitch(); // Resume rotation timer
+    return false; //Prevent browser jump to link anchor
+});
+</script>
+<style type="text/css">
+/*--Main Container--*/
+.main_view {
+	float: left;
+	position: relative;
+}
+/*--Window/Masking Styles--*/
+.window {
+	height:474px;	width: 725px;
+	overflow: hidden; /*--Hides anything outside of the set width/height--*/
+	position: relative;
+}
+.image_reel {
+	position: absolute;
+	top: 0; left: 0;
+}
+.image_reel img {float: left;}
+
+/*--Paging Styles--*/
+.paging {
+	position: absolute;
+	bottom: 0px; right: -7px;
+	width: 178px; height:47px;
+	z-index: 100; /*--Assures the paging stays on the top layer--*/
+	text-align: center;
+	line-height: 40px;
+	background: url(/rotator/paging-bar.png) no-repeat;
+	display: none; /*--Hidden by default, will be later shown with jQuery--*/
+}
+.paging a {
+	padding: 5px;
+	text-decoration: none;
+	color: #fff;
+}
+.paging a.active {
+	font-weight: bold;
+	background: #920000;
+	border: 1px solid #610000;
+	-moz-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	-webkit-border-radius: 3px;
+}
+.paging a:hover {font-weight: bold;}
+</style>
+
+<style type="text/css">
+body {
+	background: url(bg-commizion.jpg);
+	background-repeat:repeat;
+	background-position:center top;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	}
+	
+h3 {
+	font-size: 16px;
+	margin: 0px
+	
+}
+
+a {
+	color:#FFF;
+}
+
+a:hover {
+	color: #F90;
+}
+
+/*--------- Logo style ----------*/
+#logo {
+	margin-left: 30px;
+	width: 375px;
+	float: left;
+}
+
+#social-top {
+	width: 185px;
+	float: left;
+	text-align: right;
+	height: 30px;
+	margin-left: 385px;
+}
+
+#social-title {
+	width: 200px;
+	text-align: left;
+	float: right;
+}
+
+#search-top {
+	margin: 10px 0 0 40px;
+	width: 560px;
+	float: left;
+	vertical-align: baseline;
+}
+
+
+#wrapper {
+	width: 1037px;
+	margin: 70px auto;
+	height: auto;
+	}
+
+/*--------- header ----------*/
+#header {
+	width: 1032px;
+	height: 85px;
+	}
+
+#content-main {
+	width:718px;
+	height: auto;
+	float: left;
+	background-color: #000;
+	}
+	
+#rotator {
+	width:725px;
+	height: 474px;
+	}
+	
+	
+#content-right {
+	margin-left:5px;
+	width:312px;
+	height: 1680px;
+	float: left;
+	background-color: #000;
+	}
+	
+	#content-text2 {
+	width:650px;
+	height: auto;
+	background-color: #000;
+	color: #FFF;
+	margin: 10px auto 30px auto;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	}
+	
+/*--------- form style ----------*/
+
+#form1 {
+	width:550px;
+	color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+    }
+		
+#content-form {
+	width: auto;
+	text-align: center;
+	}
+	
+#form2 {
+	width:275px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FF3;
+	text-align: center;
+	margin: auto;
+	}
+
+/*--------- box style ----------*/
+	#content-box {
+	padding:5px;
+	width:220px;
+	height: 85px;
+	float: left;
+	margin: 2px 0 0 5px;
+	}
+	
+#box-column {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFF;
+	height: auto;
+	width: 304px;
+	margin: 5px auto;
+    }
+	
+#box-column2 {
+	background-image: url(banner-top2.png)
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFF;
+	height: 45px;
+	width: 304px;
+	margin: 5px auto;
+	background-image: url(banner-top2.png);
+	padding-top: 50px;
+    }
+
+/*--------- promotions - Nav ----------*/
+
+#promotions {
+	width:725px;
+	height: 140px;
+	background-image: url(promo-bg.png);
+	margin-top: 0px;
+	}
+	
+#promo-title {
+	width:700px;
+	height: 30px;
+	margin-left: 5px;
+	}
+/*--------- Footer ----------*/
+
+#footer {
+	width:1037px;
+	height: 190px;
+	background-image: url(footer-bg.png);
+	float: left;
+	padding: 10;
+	}
+	
+#footer-content {
+	width:950px;
+	height: 150px;
+	background-image: url(footer-bg.png);
+	margin: 20px auto 0 auto;
+	text-align: center;
+	}
+	
+#footer-menu {
+	width:500px;
+	font-size: 11px;
+	font-family: Arial, Helvetica, sans-serif;
+	height: 75px;
+	background-image: url(footer-bg.png);
+	margin: 0px auto;
+	text-align: center;
+	color:#333;
+	}
+	
+#footer-button {
+	background: transparent url() no-repeat top;
+	display: block;
+	width: 125px;
+	height: 25px;
+	float: left;
+	margin: auto;
+	}
+
+/*--------- menu container - Nav ----------*/
+
+#menucontent {
+	width: 1032px;
+	height: 40px;
+	margin-bottom: 5px;
+	background-image: url(menu-bg.png);
+	}
+
+
+/*--------- menu style - Nav ----------*/
+
+#menu-top {
+	display: block;
+	width: auto;
+	height: 15px;
+	font-size: 11px;
+	font-weight: bold;
+	text-align: center;
+	margin: 10px 0 0 20px;
+	color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+	padding-top: 5px;
+	float: left;
+		}
+		
+#menu-top:hover {
+color: #FC0;
+}
+</style>
+
+<link href="SpryAssets/SpryMenuBarHorizontal.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<div id="wrapper">
+<div id="header">
+  <div id="logo"><a href="index.html"><img src="logo-commizion.png" width="358" height="52" border="0"></a></div>
+  <div id="social-top"><div id="social-title"><img src="follow-us.png" width="80" height="9" style="margin-bottom: 5px;"><br>
+      <a href="http://twitter.com/Commissionbz" target="_blank"><img src="twitter.png" width="75" height="15" border="0" style="margin-right: 5px;"></a><a href="http://www.facebook.com/pages/Commissionbz/238689569483924" target="_blank"><img src="facebook.png" width="95" height="16" border="0"></a><br>
+  </div></div>
+  <div id="search-top"><form method="post" action="http://partners.commission.bz/login.asp" id="form1" name="form1" style="float: right; text-align: right;">
+<img src="icon-search.png" width="17" height="14"> Login or <a href="http://partners.commission.bz/registration.asp" target="_blank">Join</a>
+<input class="input-login" type="text" name="username" value="username" onfocus="if
+(this.value=='username')this.value='';">
+ <input class="input-login" type="password" name="password" value="password" onfocus="if
+(this.value=='password')this.value='';">
+<input type="image" src="login-button.jpg" width="42" height="19" align="baseline" style="margin-top: 3px; vertical-align:text-bottom;" "name="submit1" id="submit1" class="button">
+<span style="text-decoration:underline; font-family:Arial, Helvetica, sans-serif; color: #FFF; font-size:11px; margin-bottom: 0px;"><a href="http://partners.betonline.com/password_reminder.asp" target="_blank"> Forgot Password?</a></span>
+</form>
+  </div>
+</div>
+<div class="clear"></div>
+
+<div id="menucontent">
+  <ul id="MenuBar1" class="MenuBarHorizontal">
+  <li style="background:none;"><a href="index.html"><strong>HOMEPAGE</strong> </a>
+    <!--<ul>
+      <li><a href="#">Item 1.1</a></li>
+      <li><a href="#">Item 1.2</a></li>
+      <li><a href="#">Item 1.3</a></li>
+    </ul>-->
+  </li>
+  <li style="background:none;"><a href="http://partners.commission.bz/registration.asp"><strong>JOIN NOW</strong></a></li>
+  <li style="background:none;"><a class="about.html MenuBarItemSubmenu" href="#"><strong>ABOUT US</strong></a>
+    <ul>
+      <li style="background-color:#333;"><a href="whycommission.html">WHY COMMISSION.BZ</a></li>
+      <li style="background-color:#333;"><a href="products.html">PRODUCTS</a></li>
+      <li style="background-color:#333;"><a href="structure.html">COMMISSION STRUCTURE</a></li>
+    </ul>
+  </li>
+  <li style="background:none;"><a href="#" class="MenuBarItemSubmenu"><strong>EARN FROM SPORTS</strong></a><ul>
+      <li style="background-color:#333;"><a class="MenuBarItemSubmenu" href="#">FOOTBALL BETTING AFFILIATES </a>
+        <ul>
+          <li style="background-color:#333;"><a href="nflbetting.html"> NFL BETTING AFFILIATES </a></li>
+          <li style="background-color:#333;"><a href="superbowlaffiliates.html"> SUPER BOWL AFFILIATES </a></li>
+        </ul>
+      </li>
+      <li style="background-color:#333;"><a class="MenuBarItemSubmenu" href="#">SOCCER BETTING AFFILIATES  </a>
+        <ul>
+          <li style="background-color:#333;"><a href="premierleague.html"> PREMIER LEAGUE BETTING AFFILIATES   </a></li>
+          <li style="background-color:#333;"><a href="championsleague.html"> CHAMPIONS LEAGUE BETTING AFFILIATES  </a></li>
+          <li style="background-color:#333;"><a href="europeanleague.html"> EUROPEAN LEAGUE AFFILIATES  </a></li>
+        </ul>
+      </li>
+      <li style="background-color:#333;"><a href="#" class="MenuBarItemSubmenu"> BASKETBALL BETTING AFFILIATES </a>
+        <ul>
+          <li style="background-color:#333;"><a href="marchmaddness.html"> MARCH MADNESS BETTING AFFILIATES  </a></li>
+        </ul>
+      </li>
+      <li style="background-color:#333;"><a href="#" class="MenuBarItemSubmenu">BASEBALL BETTING AFFILIATES </a>
+        <ul>
+          <li style="background-color:#333;"><a href="mlbbetting.html"> MLB BETTING AFFILIATES </a></li>
+        </ul>
+      </li>
+     
+    
+    </ul>
+  </li>
+  
+  <li style="background:none;"><a class="MenuBarItemSubmenu" href="#"><strong>EARN FROM HORSES</strong></a>
+    <ul>
+      <li style="background-color:#333;"><a href="horsebetting.html">HORSE BETTING AFFILIATES </a></li>
+      <li style="background-color:#333;"><a href="breederscupbetting.html"> BREEDERS CUP BETTING AFFILIATES </a></li>
+      <li style="background-color:#333;"><a href="kentuckyderby.html"> KENTUCKY DERBY BETTING AFFILIATES </a></li>
+      <li style="background-color:#333;"><a href="ustrackcovered.html"> US TRACKS COVERED  </a></li>
+    </ul>
+  </li>
+  <li style="background:none;"><a class="MenuBarItemSubmenu" href="#"><strong>EARN FROM CASINO</strong></a>
+    <ul>
+      <li style="background-color:#333;"><a href="3dslots.html"> 3D SLOTS AFFILIATES  </a></li>
+      <li style="background-color:#333;"><a href="onlinecasino.html"> ONLINE CASINO AFFILIATES  </a></li>
+      <li style="background-color:#333;"><a href="usonline.html"> US ONLINE CASINO AFFILIATES  </a></li>
+  
+    </ul>
+  </li>
+  <li style="background:none;"><a class="MenuBarItemSubmenu" href="#"><strong>EARN FROM POKER</strong></a>
+    <ul>
+      <li style="background-color:#333;"><a href="freerolls.html"> FREEROLLS </a></li>
+      <li style="background-color:#333;"><a href="pokertournments.html"> POKER TOURNAMENTS  </a></li>
+      <li style="background-color:#333;"><a href="uspokersite.html"> US POKER SITE  </a></li>
+      <li style="background-color:#333;"><a href="texasholdem.html"> TEXAS HOLDEM   </a></li>
+    </ul>
+  </li>
+    <li style="background:none;"><a href="#"><strong>BLOG</strong></a></li>
+    <li style="background:none;"><a href="contact.html"><strong>CONTACT</strong></a></li>
+</ul>
+ </div><div class="clear">
+<!--Menu end-->
+
+<!--<div id="menu-top">ABOUT US</div><div id="menu-top">EARN FROM SPORTS</div><div id="menu-top">EARN FROM HORSES</div>
+<div id="menu-top">EARN FROM CASINO</div><div id="menu-top">EARN FROM POKER</div>--></div>
+
+<div id="content-main"><div id="content-text2">
+  <h1>Privacy Policy</h1>
+  <p>We treat  all the information we collect with the utmost confidentiality and never will  disclose your email to a third party outside of <a href="http://www.commission.bz/">Commission.bz.</a><br>
+    <br>
+    <a href="http://www.commission.bz/">Commission.bz</a> will only see information about you if you are on their program and will never  pass the information on to a third party.<br>
+    <br>
+    When we  collect personal information about you we will collect this information from  you lawfully and fairly and not in any unreasonably intrusive way. You  acknowledge and agree that we may collect this information from you in  connection with or as a consequence of your use of our site, including, without  limitation, the supply of the online services to you. We are the sole owner of  the information collected on this site. We will not sell, share, or rent this  information to others in any. We collect information from our users at  different points on our site. We collect information about you upon  registration and we also collect information from any form of correspondence,  such as e-mails and telephone conversations, from you or from a third party  about you. We may also collect information from you if you choose to partake in  special promotions or surveys conducted on our site. We will also collect  financial information about you if you choose to obtain payments via ACH or  wire transfer. Other information that we collect is outlined below. <br>
+    <br>
+    <strong>Registration</strong><br>
+    <br>
+    In order  to use our site, you must first complete the registration form. When you  register we collect personal information such as your name, address, email  address, telephone and fax numbers. This information is used to contact you  about the services on our site and for general correspondence. We also collect  additional information (such as "How did you hear about us?"). All  information that is mandatory is made known on the registration form and is  necessary to complete the registration process. You are encouraged to provide  the additional, optional information specified on the registration form so we  can provide you with a more personalized relationship. <br>
+    <br>
+    <strong>External Links</strong><br>
+    <br>
+    This web  site contains links to other sites. Please be aware that we are not responsible  for the privacy practices or content of such other sites. We encourage you to  be aware when you leave our site and to read the privacy statements of each and  every web site that collects personally identifiable information. This privacy  statement applies solely to information collected by this site. <br>
+    <br>
+    <strong>Newsletter</strong><br>
+    <br>
+    If you  wish to subscribe to our newsletter, we ask for contact information such as  email addresses. However, it is completely at your discretion to be removed  from such a list as set out in our choice and opt-out section below. <br>
+    <br>
+    <strong>Site and Services Updates</strong><br>
+    <br>
+    We also  send you site and services announcement updates. You are not able to  un-subscribe from these because they contain important information about our  site and our services.<br>
+    <br>
+    <strong>Surveys &amp; Contests</strong><br>
+    <br>
+    From  time-to-time we request information from you via surveys or contests.  Participation in these surveys or contests is completely voluntary and you  therefore have a choice whether or not to disclose any information to us.  Information requested may include contact information (such as email addresses)  and demographic information. Survey information will be used for the purposes  of monitoring or improving the use and satisfaction of this site. <br>
+    <br>
+    <strong>Security</strong><br>
+    <br>
+    We take  every precaution to prevent the loss, misuse and alteration of all information  under our control. When you submit sensitive information via our site, your  information is protected both online and off-line. While we use encryption to  protect sensitive information online, we also do everything in our power to  protect user-information off-line. The servers that we store personally  identifiable information on are kept in a secure environment. If you have any  questions about the security at our site, you can send an email to<a href="mailto:support@commission.bz"><img src="email-image.jpg" width="173" height="19" border="0" style="margin-top: 3px; vertical-align:text-bottom;"></a><br>
+    <br>
+    <strong>Supplementation of Information</strong><br>
+    <br>
+    In order  for this site to properly fulfil its obligation to our customers, it is  necessary for us to supplement the information we receive with information from  third party sources. We send all new members a welcoming email to verify  password and username. Established members will occasionally receive  information on our clients, services and a newsletter. Out of respect for the  privacy of our users, our users have the option not receive these types of  communications (refer to our choice and opt-out section below). <br>
+    <br>
+    <strong>Correction/Updating Personal Information:</strong><br>
+    <br>
+    If your  personally identifiable information changes (such as your email address), or if  you no longer desire to use our services, you may correct, update or remove  your personal data provided to us. This can be done at the member information  page or by emailing our Customer Support at support@commission.bz.<br>
+    <br>
+    <strong>Choice/Opt-out</strong><br>
+    <br>
+    If you no  longer wish to receive our newsletter, information about products and services,  surveys, or promotional materials from us you may opt-out of receiving these  communications by following the unsubscribe instructions in the relevant email  or by visiting the "Change Details" page. <br>
+    <br>
+    <strong>Notification of Changes</strong><br>
+    <br>
+    If we  decide to change our privacy statement, we will post those changes on our  Homepage and in our newsletter so you are always aware of what information we  collect, how we use it, and under what circumstances, if any, we disclose it.  If we change the way we use your Personally Identifiable Information we will  notify you by email in our newsletter. If you would like to opt out of having  your information used in this new manner, we will ask you to contact us within  a month and your information will not be used. If you do not contact us within  that month, we will assume that you consent to have your information used in  this new manner.</p><a href="mailto:support@commission.bz"></a><a>
+  <p>&nbsp;</p>
+</a></div></div><a href="mailto:support@commission.bz"></a><div id="content-right"><a></a><div id="box-column"><a></a><a href="mailto:support@commission.bz"></a><a></a><a href="http://partners.commission.bz/registration.asp"><img src="banner-top.jpg" width="296" height="105" border="0"></a></div><a>
+<div id="box-column2"><div id="content-form"><form action="" id="form2" method="get">
+  <label for="newsletter"></label>
+  <input name="newsletter" type="text" value="" id="newsletter" size="12"> 
+  <input type="image" src="subscribe-button.png" width="118" height="27" style="margin-top: 3px; vertical-align:text-bottom;">
+</form></div></div>
+<div id="box-column">
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 4,
+  interval: 6000,
+  width: 'auto',
+  height: 100,
+  theme: {
+    shell: {
+      background: '#000',
+      color: '#fff'
+    },
+    tweets: {
+      background: '#faf5fa',
+      color: '#333',
+      links: '#000'
+    }
+  },
+  features: {
+    scrollbar: true,
+    loop: false,
+    live: false,
+    hashtags: true,
+    timestamp: true,
+    avatars: true,
+    behavior: 'all'
+  }
+}).render().setUser('Commissionbz').start();
+</script>
+
+</div></a></div><a></a><div id="footer"><a>
+</a><div id="footer-content"><a><img src="credit-logos.jpg" width="649" height="48"><br>
+  <img src="line-footer.jpg" width="939" height="2" style="margin-top: 10px;"><br>
+  <br> 
+  </a><div id="footer-menu"><a> </a><div id="footer-button"><a></a><a href="terms.html" style="color:#666;">TERMS AND CONDITIONS</a></div> <div id="footer-button"><a href="privacy.html" style="color:#666;">PRIVACY POLICY</a></div> <div id="footer-button"><a href="spam-policy.html" style="color:#666;">SPAM POLICY</a></div> <div id="footer-button"><a href="contact.html" style="color:#666;">CONTACT</a></div>
+    <p><br>
+      <br>
+      2011 © Commission.bz, all rights reserved</p>
+</div></div></div>
+<script type="text/javascript">
+<!--
+var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", {imgDown:"SpryAssets/SpryMenuBarDownHover.gif", imgRight:"SpryAssets/SpryMenuBarRightHover.gif"});
+//-->
+</script>
+</div>
+
+</body></html>
