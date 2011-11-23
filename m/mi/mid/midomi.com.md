@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the midomi.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507104053id_/http%3A//www.midomi.com/index.php%3Faction%3Dmain.privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midomi.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123154627id_/http%3A//www.midomi.com/index.php%3Faction%3Dmain.privacy_notice) for the most accurate reproduction.*
 
-# Search for Music Using Your Voice by Singing or Humming, View Music Videos, Join Fan Clubs, Share with Friends, Be Discovered and Much More For Free! - midomi.com
+# Wyszukaj muzykę uzywając swego głosu i śpiewając lub nucąc, Przeglądaj wideo muzyczne, Dołącz do fan klubów, Podziel się ze znajomymi, Daj się odkryć i jeszcze więcej możliwości bez żadnych opłat! - midomi.com
 
-Melodis Corporation (referred to herein as "Melodis") values the privacy of our customers, users, members, and others (collectively or individually "Customers") who use www.midomi.com, and any other websites or services owned or operated by Melodis. www.midomi.com is referred to herein as "midomi" and the services operated under midomi are referred to herein as the "midomi Service." This statement governs information you provide to us or that we learn from your use of the midomi Service and tells you how we may collect, use, and in some instances share this information.
+SoundHound, Inc. (referred to herein as "SoundHound") values the privacy of our customers, users, members, and others (collectively or individually "Customers") who use www.midomi.com, and any other websites or services owned or operated by SoundHound. www.midomi.com is referred to herein as "midomi" and the services operated under midomi are referred to herein as the "midomi Service." This statement governs information you provide to us or that we learn from your use of the midomi Service and tells you how we may collect, use, and in some instances share this information.
 
 * _**The Information midomi Collects  
 **_  
@@ -93,7 +93,7 @@ The midomi Service is hosted in the United States. If you are a Customer accessi
 
 * _**In the Event of Merger or Sale  
 **_  
-If Melodis should ever file for bankruptcy or have its assets sold to or merge with another entity, information received from you through the midomi Service is a Melodis asset and may be transferred.   
+If SoundHound should ever file for bankruptcy or have its assets sold to or merge with another entity, information received from you through the midomi Service is a SoundHound asset and may be transferred.   
 
 
 * _**Changes and Updates to this Privacy Notice  
@@ -105,9 +105,9 @@ We may occasionally update this Privacy Notice. When we do, we will also revise 
 If you have any questions, comments, or concerns about this Privacy Notice, please email us at [ privacy@midomi.com](mailto:privacy@midomi.com?subject=Privacy)  
 Postal Mail Address:
 
-**c/o Melodis Corporation**  
-440 N. Wolfe Rd.  
-Sunnyvale, CA 94085
+**c/o SoundHound, Inc.**  
+1731 Technology Drive, Suite 700  
+San Jose, CA 95110
 
 If you have a privacy concern regarding the midomi Service or this Notice and if you cannot satisfactorily resolve it through the use of the midomi Service you should write to: [ privacy@midomi.com](mailto:privacy@midomi.com). In the event that we are still unable to resolve your concerns midomi is committed to cooperating to achieve a proper resolution of your privacy concerns.
 
