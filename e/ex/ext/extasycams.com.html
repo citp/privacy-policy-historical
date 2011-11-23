@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the extasycams.com privacy policy that was archived on 2011-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110517082132id_/http%3A//extasycams.com/index.php%3Flang%3Deng%26ssid%3D%26wbid%3D%26refid%3Dextasycams.com%26mref%3D%26Submit%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the extasycams.com privacy policy that was archived on 2011-11-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111123110735id_/http%3A//extasycams.com/index.php%3Flang%3Deng%26ssid%3D%26wbid%3D%26refid%3Dextasycams.com%26mref%3D%26showall%3D%26Submit%3Dprivacy) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head><title>ExtasyCams - Cheapest Live Adult Cams</title>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
@@ -14,6 +14,7 @@
 <script language="JavaScript" src="/templates/purple/images/nlsscroller.js"></script>
 <script language="JavaScript" src="/templates/purple/images/jquery.js"></script>
 <script language="JavaScript" src="/templates/purple/images/jquery.viewport.js"></script>
+<script language="JavaScript" src="/templates/purple/images/jquery.selectbox-0.5.js"></script>
 <script language="JavaScript" src="/templates/purple/images/basic.js"></script>
 <script language="JavaScript" src="/templates/purple/images/jquery.simplemodal.js"></script>
 
@@ -41,6 +42,8 @@ function doRefresh ()
        for(var i = 1; i < maxonline; i++)
        {
            var productElement = document.getElementById('campic'+i);
+           if (productElement != null)
+           {
            if ($.inviewport(productElement))
            {
               if (startfrom==0)
@@ -55,6 +58,7 @@ function doRefresh ()
               stopat=i;
               break;
               }
+           }
            }
        }
 
@@ -81,9 +85,26 @@ $(document).ready(function() {
 });
 
 
+
+
+function votefor(cid, itemid, poolname, htmlid, template)
+{
+
+  var ranNum= Math.floor(Math.random()*99999);
+
+  if (document.getElementById(htmlid) != null)
+  {
+
+       $('#'+htmlid).load('/share/ajax_vote.php?cid='+cid+'&itemid='+itemid+'&poolname='+poolname+'&template='+template+'&random='+ranNum, function()
+       {
+       });    
+  }
+}
+
+
 function doInfoRefresh ()
 {
-   var ranNum= Math.floor(Math.random()*999);
+   var ranNum= Math.floor(Math.random()*99999);
    var tempssid = $.getUrlVar('ssid');
    if (tempssid==undefined)
    {
@@ -93,19 +114,29 @@ function doInfoRefresh ()
       tempssid = '';
    }
    if (tempssid!='')
+   {
+   if (document.getElementById("idfound") != null)
    var tempid = document.getElementById("idfound").innerHTML;
+   else
+   var tempid = '';
+   }
 
 
    if (($.getUrlVar('whatpage')<2) || ($.getUrlVar('whatpage')==undefined))
    $('#models_nr').load('/share/share.php?command=ONLINE_MODELS_NUMBER'+'&random='+ranNum);
 
 
+   $('#logocaption').load('/share/share.php?command=ONLINE_MODELS_NUMBER2'+'&random='+ranNum, function()
+   {
+   });
+
 
    if (tempssid!='')
    {
       if (tempid!='')
       {
-         $('#messages_nr').load('/share/share.php?command=TIMED_MESSAGES_NUMBER&id='+tempid+'&ssid='+tempssid+'&random='+ranNum);
+//         $('#messages_nr').load('/share/share.php?command=TIMED_MESSAGES_NUMBER&id='+tempid+'&ssid='+tempssid+'&random='+ranNum);
+         if (document.getElementById("credit_value") != null)
          $('#credit_value').load('/share/share.php?command=TIMED_CREDIT&id='+tempid+'&ssid='+tempssid+'&random='+ranNum);
       }
    }
@@ -201,6 +232,8 @@ if (document.all && document.getElementById)
 
 
 <script type="text/javascript">
+
+function setCharAt(str,index,chr) {    if(index > str.length-1) return str;    return str.substr(0,index) + chr + str.substr(index+1);}
 
 
 function ObjectPosition(obj) {
@@ -327,13 +360,10 @@ if(((htmlwidth-980)/2)>=0)
    document.getElementById('header2_right').style.width=((htmlwidth-980)/2)+"px";
    document.getElementById('header3_left').style.width=((htmlwidth-980)/2)+"px";
    document.getElementById('header3_right').style.width=((htmlwidth-980)/2)+"px";
-//   document.getElementById('content_left').style.width=((htmlwidth-980)/2)+"px";
-//   document.getElementById('content_right').style.width=((htmlwidth-980)/2)+"px";
-//   document.getElementById('pfooter_left').style.width=((htmlwidth-980)/2)+"px";
-//   document.getElementById('pfooter_right').style.width=((htmlwidth-980)/2)+"px";
-   document.getElementById('header_logo').style.left=(((htmlwidth-980)/2)+0)+"px";
-   document.getElementById('header_image').style.left=(((htmlwidth-980)/2)+235+10)+"px";
-   document.getElementById('header_imageright').style.left=(((htmlwidth-980)/2)+235+270+30)+"px";
+   document.getElementById('header_logo').style.left=(((htmlwidth-980)/2)+10)+"px";
+   document.getElementById('header_logo2').style.left=(((htmlwidth-980)/2)+10)+"px";
+   document.getElementById('header_image').style.left=(((htmlwidth-980)/2)+265+10)+"px";
+   document.getElementById('header_imageright').style.left=(((htmlwidth-980)/2)+245+270+30)+"px";
 }
 else
 {
@@ -343,13 +373,10 @@ else
    document.getElementById('header2_right').style.width="0px";
    document.getElementById('header3_left').style.width="0px";
    document.getElementById('header3_right').style.width="0px";
-//   document.getElementById('content_left').style.width="0px";
-//   document.getElementById('content_right').style.width="0px";
-//   document.getElementById('pfooter_left').style.width="0px";
-//   document.getElementById('pfooter_right').style.width="0px";
-   document.getElementById('header_logo').style.left="0px";
-   document.getElementById('header_image').style.left=(235+10)+"px";
-   document.getElementById('header_imageright').style.left=(235+270+30)+"px";
+   document.getElementById('header_logo').style.left="10px";
+   document.getElementById('header_logo2').style.left="10px";
+   document.getElementById('header_image').style.left=(265+10)+"px";
+   document.getElementById('header_imageright').style.left=(245+270+30)+"px";
 }
 
 
@@ -411,9 +438,30 @@ function savesetting(whatssid,whatsetting,whatvalue)
 }
 
 
-function getlivemodels(whatssid)
+
+
+function getlivemodels(whatssid,whatmodelname,whatsearchstring,sel1,sel2,sel3,sel4,whatsort,whatpage,showall)
 {
-  $('#po_yes_inline').load('index.php?ajax=getlivemodels');
+
+  if ($.getUrlVar('action')=='search')
+  createCookie('camsearch',formsearch.searchstring.value,365);
+
+  if ((whatpage=='') || (whatpage==null))
+  whatpage=1;
+  
+  if ((showall=='') || (showall==null))
+  showall=0;
+
+//  document.getElementById('po_yes_inline').innerHTML='';
+  var cachekiller = Math.random();
+  $('#po_yes_inline').load('index.php?ajax=getlivemodels&action=&lang=eng&wbid=&refid=extasycams.com&mref=&showall='+showall+'&whatpage='+whatpage+'&ssid='+whatssid+'&modelname='+whatmodelname+'&searchstring='+whatsearchstring+'&sel1='+sel1+'&sel2='+sel2+'&sel3='+sel3+'&sel4='+sel4+'&filter1='+whatsort+'&cachekiller='+cachekiller, function()
+  {
+      if (document.getElementById('pages3') != null)
+      document.getElementById('pages').innerHTML=document.getElementById('pages3').innerHTML;
+      if (document.getElementById('pages3') != null)
+      document.getElementById('pages2').innerHTML=document.getElementById('pages3').innerHTML;
+  });
+
 
 }
 
@@ -433,15 +481,15 @@ function showbuyinfo(whatproc)
          {
              document.imgbuyleft.src='/templates/purple/images/imgbuyleft'+whatproc+'.png';
              document.getElementById('acceptedmethods').innerHTML='CREDIT CARDS, DEBIT CARDS, GIFT CARDS';
-             document.getElementById('acceptedcards').innerHTML='VISA,MASTERCARD, MAESTRO, SWITCH, SOLO';
-             document.getElementById('statement').innerHTML='"IOBILLING.COM"';
+             document.getElementById('acceptedcards').innerHTML='VISA, MASTERCARD, MAESTRO, SWITCH, SOLO';
+             document.getElementById('statement').innerHTML='"ZOMBAIO.COM"';
          }
 
          if (whatproc==2)
          {
              document.imgbuyleft.src='/templates/purple/images/imgbuyleft'+whatproc+'.png';
-             document.getElementById('acceptedmethods').innerHTML='CREDIT CARDS, DEBIT CARDS, GIFT CARDS, WIRE TRANSFER';
-             document.getElementById('acceptedcards').innerHTML='VISA<br> AMEX';
+             document.getElementById('acceptedmethods').innerHTML='WIRE TRANSFER, CERTIFIED/CASHIERS CHECK';
+             document.getElementById('acceptedcards').innerHTML='NONE <br>(TEMPORARILY)';
              document.getElementById('statement').innerHTML='"Internet Payments"';
          }
 
@@ -459,6 +507,14 @@ function showbuyinfo(whatproc)
              document.getElementById('acceptedmethods').innerHTML='CREDIT CARDS, DEBIT CARDS, WIRE TRANSFER';
              document.getElementById('acceptedcards').innerHTML='VISA<br> MASTERCARD';
              document.getElementById('statement').innerHTML='"ePassporte Transfer"';
+         }
+         
+         if (whatproc==5)
+         {
+             document.imgbuyleft.src='/templates/purple/images/imgbuyleft'+whatproc+'.png';
+             document.getElementById('acceptedmethods').innerHTML='CREDIT CARDS, DEBIT CARDS, GIFT CARDS';
+             document.getElementById('acceptedcards').innerHTML='VISA, MASTERCARD, JCB, DISCOVER, DINERS CLUB';
+             document.getElementById('statement').innerHTML='"Verotel*vtsup.com"';
          }
 
 
@@ -614,21 +670,41 @@ window.onresize = resize;
      <div id="header2_center">      
           <div id="headercontrols">
           
-<br><br><br><br><br><a href="index.php?Submit=login&amp;lang=eng&amp;wbid=&amp;refid=extasycams.com&amp;mref=">Username/Password</a>
-          <form name="form11" method="post" action="/index.php">
+<div style="position:relative; top:14px; text-align:left; margin-left: 12px;">
+LOGIN:
+</div>
+
+<div style="position:relative; top:16px;">
+
+<form name="form11" method="post" action="/index.php">
+<table>
+<tbody><tr>
+    <td width="5%">
+    </td>
+    <td width="65%">
           <input name="lang" type="hidden" value="eng">
           <input name="ssid" type="hidden" value="">
           <input name="wbid" type="hidden" value="">
           <input name="refid" type="hidden" value="extasycams.com">
           <input name="return" type="hidden" value="">
           <input name="Submit" type="hidden" value="login">
-          <input name="username" type="text" class="fmlogin" id="username1" value="" size="12" maxlength="20">
+          <input onfocus="if (form11.username.value=='Username') form11.username.value=''; " name="username" type="text" class="fmlogin" id="username1" value="Username" size="17" maxlength="20">
+          <input onfocus="if (form11.password.value=='password') form11.password.value=''; " name="password" type="password" class="fmlogin" id="password1" value="password" size="17" maxlength="30">
+
+    </td>
+
+    <td width="30%">
+          <input name="Submit2" type="image" src="/templates/purple/images/btn_entersite2.png" border="0" alt="Enter Site" value="Login">
           <br>
-          <input name="password" type="password" class="fmlogin" id="password1" size="12" maxlength="30">
-          <br>
-          <input name="Submit2" type="image" width="72" height="16" src="/templates/purple/images/btn_entersite.png" border="0" alt="Enter Site" value="Login">
-          <br>
-          </form>
+    </td>
+
+</tr>
+</tbody></table>
+</form>
+</div>
+
+
+
 
           </div>
      </div>
@@ -651,26 +727,28 @@ window.onresize = resize;
   <tr>
     <td>
       <ul class="ulMenuLevel1">
-        <li class="liMenuLevel1" id="li01" onmouseover="onMouseOver('img01');" onmouseout="onMouseOut('img01');" name="menuLevel1Item"><a class="linkMenuLevel1" href="/index.php?lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref="><img id="img01" alt="Live Models" src="/templates/purple/images/button_1_live-models_inactive.png" align="center" border="0" listitemid="li01" mouseoutimage="/templates/purple/images/button_1_live-models_inactive.png" mouseoverimage="/templates/purple/images/button_1_live-models_Selected.png"></a></li></ul></td>
+        <li class="liMenuLevel1" id="li01" onmouseover="onMouseOver('img01');" onmouseout="onMouseOut('img01');" name="menuLevel1Item"><a class="linkMenuLevel1" href="/index.php?lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall="><img id="img01" alt="Live Models" src="/templates/purple/images/button_1_live-models_inactive.png" align="center" border="0" listitemid="li01" mouseoutimage="/templates/purple/images/button_1_live-models_inactive.png" mouseoverimage="/templates/purple/images/button_1_live-models_Selected.png"></a></li></ul></td>
     <td>
       <ul class="ulMenuLevel1">
-        <li class="liMenuLevel1" id="li04" onmouseover="onMouseOver('img04');" onmouseout="onMouseOut('img04');" name="menuLevel1Item"><a class="linkMenuLevel1" href="/index.php?Submit=login&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref="><img id="img04" alt="Members Login" src="/templates/purple/images/button_2_members-login_inactive.png" align="center" border="0" listitemid="li04" mouseoutimage="/templates/purple/images/button_2_members-login_inactive.png" mouseoverimage="/templates/purple/images/button_2_members-login_Selected.png"></a></li></ul></td>
+        <li class="liMenuLevel1" id="li04" onmouseover="onMouseOver('img04');" onmouseout="onMouseOut('img04');" name="menuLevel1Item"><a class="linkMenuLevel1" href="/index.php?Submit=login&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall="><img id="img04" alt="Members Login" src="/templates/purple/images/button_2_members-login_inactive.png" align="center" border="0" listitemid="li04" mouseoutimage="/templates/purple/images/button_2_members-login_inactive.png" mouseoverimage="/templates/purple/images/button_2_members-login_Selected.png"></a></li></ul></td>
     <td>
       <ul class="ulMenuLevel1">
-        <li class="liMenuLevel1" id="li07" onmouseover="onMouseOver('img07');" onmouseout="onMouseOut('img07');" name="menuLevel1Item"><a class="linkMenuLevel1" href="/index.php?Submit=signup&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref="><img id="img07" alt="Join Now!" src="/templates/purple/images/button_3_join-now_inactive.png" align="center" border="0" listitemid="li07" mouseoutimage="/templates/purple/images/button_3_join-now_inactive.png" mouseoverimage="/templates/purple/images/button_3_join-now_Selected.png"></a></li></ul></td>
+        <li class="liMenuLevel1" id="li07" onmouseover="onMouseOver('img07');" onmouseout="onMouseOut('img07');" name="menuLevel1Item"><a class="linkMenuLevel1" href="/index.php?Submit=signup&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall="><img id="img07" alt="Join Now!" src="/templates/purple/images/button_3_join-now_inactive.png" align="center" border="0" listitemid="li07" mouseoutimage="/templates/purple/images/button_3_join-now_inactive.png" mouseoverimage="/templates/purple/images/button_3_join-now_Selected.png"></a></li></ul></td>
     <td>
       <ul class="ulMenuLevel1">
-        <li class="liMenuLevel1" id="li09" onmouseover="onMouseOver('img09');" onmouseout="onMouseOut('img09');" name="menuLevel1Item"><a class="linkMenuLevel1" href="/index.php?Submit=confirmpin&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref="><img id="img09" alt="I Have a Ticket" src="/templates/purple/images/button_4_i-have-a-ticket_inactive.png" align="center" border="0" listitemid="li09" mouseoutimage="/templates/purple/images/button_4_i-have-a-ticket_inactive.png" mouseoverimage="/templates/purple/images/button_4_i-have-a-ticket_Selected.png"></a></li></ul></td>
-        
+        <li class="liMenuLevel1" id="li09" onmouseover="onMouseOver('img09');" onmouseout="onMouseOut('img09');" name="menuLevel1Item"><a class="linkMenuLevel1" href="/index.php?Submit=confirmpin&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall="><img id="img09" alt="I Have a Ticket" src="/templates/purple/images/button_4_i-have-a-ticket_inactive.png" align="center" border="0" listitemid="li09" mouseoutimage="/templates/purple/images/button_4_i-have-a-ticket_inactive.png" mouseoverimage="/templates/purple/images/button_4_i-have-a-ticket_Selected.png"></a></li></ul></td>
     <td>
       <ul class="ulMenuLevel1">
-        <li class="liMenuLevel1" id="li11" onmouseover="onMouseOver('img11');" onmouseout="onMouseOut('img11');" name="menuLevel1Item"><a class="linkMenuLevel1" href="/index.php?Submit=Customer Support&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref="><img id="img11" alt="Support" src="/templates/purple/images/button_5_support_inactive.png" align="center" border="0" listitemid="li11" mouseoutimage="/templates/purple/images/button_5_support_inactive.png" mouseoverimage="/templates/purple/images/button_5_support_Selected.png"></a>
+        <li class="liMenuLevel1" id="li041" onmouseover="onMouseOver('img041');" onmouseout="onMouseOut('img041');" name="menuLevel1Item"><a class="linkMenuLevel1" href="/index.php?action=search&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall="><img id="img041" alt="Search Models" src="/templates/purple/images/button_l41_search_inactive.png" align="center" border="0" listitemid="li04" mouseoutimage="/templates/purple/images/button_l41_search_inactive.png" mouseoverimage="/templates/purple/images/button_l41_search_Selected.png"></a></li></ul></td>
+    <td>
+      <ul class="ulMenuLevel1">
+        <li class="liMenuLevel1" id="li11" onmouseover="onMouseOver('img11');" onmouseout="onMouseOut('img11');" name="menuLevel1Item"><a class="linkMenuLevel1" href="/index.php?Submit=Customer Support&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall="><img id="img11" alt="Support" src="/templates/purple/images/button_5_support_inactive.png" align="center" border="0" listitemid="li11" mouseoutimage="/templates/purple/images/button_5_support_inactive.png" mouseoverimage="/templates/purple/images/button_5_support_Selected.png"></a>
         <ul class="ulMenuLevel2">
           <li class="liMenuLevel2">
-          <a href="/index.php?Submit=Lost Username&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=">Lost Username</a>
-          <a href="/index.php?Submit=Lost Password&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=">Lost Password</a>
-          <a href="/index.php?Submit=Lost Credit&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=">Lost Credit</a>
-          <a href="/index.php?Submit=Customer Support&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=">Customer Support</a>
+          <a href="/index.php?Submit=Lost Username&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall=">Lost Username</a>
+          <a href="/index.php?Submit=Lost Password&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall=">Lost Password</a>
+          <a href="/index.php?Submit=Lost Credit&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall=">Lost Credit</a>
+          <a href="/index.php?Submit=Customer Support&amp;lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall=">Customer Support</a>
           
           </li></ul></li></ul></td>
 
@@ -682,12 +760,15 @@ window.onresize = resize;
      </div>
 </div>
 
-<div id="header_logo" style="left: 193px;">
+<div id="header_logo" style="left: 203px;">
      <img src="/templates/purple/images/header_logo_extasycams.com.png">
 </div>
-<div id="header_image" style="left: 438px;">
+<div id="header_logo2" style="left: 203px;">
+     <span id="logocaption" class="fontone"><strong>There are 161 live cams right now!</strong></span>
 </div>
-<div id="header_imageright" style="left: 728px;">
+<div id="header_image" style="left: 468px;">
+</div>
+<div id="header_imageright" style="left: 738px;">
      
    <br><br>
    <img src="/templates/purple/images/header_imageright_1.png">
@@ -765,13 +846,13 @@ Summary:<br><br>
 <span class="lpagefooter">
 <br>
 <center>
-<a href="/index.php?lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;Submit=terms">Terms and Conditions</a> &nbsp;&nbsp;
-<a href="/index.php?lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;Submit=privacy">Privacy Policy</a> &nbsp;&nbsp;
-<a href="/index.php?lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;Submit=Customer Support&amp;whatsupport=Contact">Contact</a> &nbsp;&nbsp;
+<a href="/index.php?lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall=&amp;Submit=terms">Terms and Conditions</a> &nbsp;&nbsp;
+<a href="/index.php?lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall=&amp;Submit=privacy">Privacy Policy</a> &nbsp;&nbsp;
+<a href="/index.php?lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall=&amp;Submit=Customer Support&amp;whatsupport=Contact">Contact</a> &nbsp;&nbsp;
 <a target="_blank" href="http://models.extasycams.com">Models Wanted</a> &nbsp;&nbsp;
-<a href="/index.php?lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;Submit=18usc">18 U.S.C. 2257</a>
+<a href="/index.php?lang=eng&amp;ssid=&amp;wbid=&amp;refid=extasycams.com&amp;mref=&amp;showall=&amp;Submit=18usc">18 U.S.C. 2257</a>
 <br>
-Copyright � 2004 - 2011 Zipp Software - Cheap Live Adult Sex Cams. All rights reserved. <br><br>
+Copyright © 2004 - 2011 Zipp Software - Cheap Live Adult Sex Cams. All rights reserved. <br><br>
 </center>
 
 
@@ -847,7 +928,7 @@ function OneStat_Pageview()
 
 OneStat_Pageview();
 //-->
-</script><img id="ONESTAT_TAG" border="0" width="1" height="1" src="https://stat.onestat.com/stat.aspx?tagver=2&amp;sid=502975&amp;url=https%3A//web.archive.org/web/20110517082132id_/http%253A//extasycams.com/index.php%253Flang%253Deng%2526ssid%253D%2526wbid%253D%2526refid%253Dextasycams.com%2526mref%253D%2526Submit%253Dprivacy&amp;ti=ExtasyCams%20-%20Cheapest%20Live%20Adult%20Cams&amp;section=&amp;cma=&amp;cmt=&amp;cmm=&amp;cmp=&amp;cmg=&amp;cmad=&amp;cmc=&amp;cu0=&amp;cu1=&amp;cu2=&amp;cu3=&amp;cu10=&amp;cu11=&amp;rf=&amp;tz=0&amp;ch=22&amp;js=1&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
+</script><img id="ONESTAT_TAG" border="0" width="1" height="1" src="https://stat.onestat.com/stat.aspx?tagver=2&amp;sid=502975&amp;url=https%3A//web.archive.org/web/20111123110735id_/http%253A//extasycams.com/index.php%253Flang%253Deng%2526ssid%253D%2526wbid%253D%2526refid%253Dextasycams.com%2526mref%253D%2526showall%253D%2526Submit%253Dprivacy&amp;ti=ExtasyCams%20-%20Cheapest%20Live%20Adult%20Cams&amp;section=&amp;cma=&amp;cmt=&amp;cmm=&amp;cmp=&amp;cmg=&amp;cmad=&amp;cmc=&amp;cu0=&amp;cu1=&amp;cu2=&amp;cu3=&amp;cu10=&amp;cu11=&amp;rf=&amp;tz=0&amp;ch=22&amp;js=1&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
 <noscript>
 <a href="http://www.onestat.com"><img border="0" width="1" height="1" src="http://stat.onestat.com/stat.aspx?tagver=2&amp;sid=502975&amp;js=No&amp;" ALT="OneStat.com Web Analytics"></a>
 </noscript>
