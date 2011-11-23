@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smcm.edu privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617034008id_/http%3A//www.smcm.edu/A2Z/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smcm.edu privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123060925id_/http%3A//www.smcm.edu/A2Z/privacy.html) for the most accurate reproduction.*
 
 # A to Z Guide: St. Mary's College of Maryland
 
