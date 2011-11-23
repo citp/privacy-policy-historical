@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the codecall.net privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220152124id_/http%3A//forum.codecall.net/announcements/29648-codecall-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codecall.net privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123162117id_/http%3A//forum.codecall.net/announcements/29648-codecall-privacy-policy.html) for the most accurate reproduction.*
 
 # CodeCall Privacy Policy
 
-> **Our Commitment To Privacy**
+  1. > **Our Commitment To Privacy**
 > 
 > Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 > 
@@ -41,3 +41,12 @@
 > **How To Contact Us**
 > 
 > Should you have other questions or concerns about these privacy policies, please send us an email at [support@codecall.net](mailto:support@codecall.net).
+
+> Last edited by Roger; 08-12-2010 at 07:48 PM. 
+
+* * *
+
+  2. 06-26-2010 11:59 PM **# ADS**
+
+
+
