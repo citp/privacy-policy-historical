@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superbrewards.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527143820id_/http%3A//superbrewards.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2809name%26catalog_id%3D14881%26gift%3D71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbrewards.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123175404id_/http%3A//superbrewards.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2809name%26catalog_id%3D14881%26gift%3D71) for the most accurate reproduction.*
 
 # Superbrewards
 
