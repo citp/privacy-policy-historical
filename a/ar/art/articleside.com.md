@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the articleside.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422184223id_/http%3A//www.articleside.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleside.com privacy policy that was archived on 2011-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111123015110id_/http%3A//www.articleside.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Article Side - Privacy Policy
 
-[Home](https://web.archive.org/index.html) Privacy Policy
+[](http://www.articleside.com/ "Free Articles")
+
+## Online Free Article Directory!
+
+[](https://web.archive.org/directorysubmission)
+
+[Home](https://web.archive.org/index.htm) Privacy Policy
 
 ## Privacy Policy
 
@@ -18,7 +24,7 @@
 
   * In order to assist in protecting the confidentiality of your personal information, **articleside.com** applies security safeguards appropriate to the sensitivity of the information. However, in light of the nature of Internet technologies, security and privacy risks cannot be eliminated and, therefore, **articleside.com** cannot guarantee that your personal information will not be disclosed in ways not otherwise described in this Policy.  
 
-  * Keep reading the [Terms of Service](http://www.articleside.com/termsofservice).
+  * Keep reading the [Terms of Service](http://www.articleside.com/termsofservice.htm).
 
   
 
