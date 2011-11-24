@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getballpark.com privacy policy that was archived on 2010-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100503094520id_/http%3A//www.getballpark.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getballpark.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124021445id_/http%3A//www.getballpark.com/privacy.php) for the most accurate reproduction.*
 
 # Ballpark: Online invoicing has never been easier.
 
@@ -29,9 +29,9 @@ MetaLab Design Ltd. uses third party vendors and hosting partners to provide the
 
 ### DISCLOSURE
 
-MetaLab Design Ltd. reserves the right to disclose personally identifiable information under certain circumstances, such as to comply with subpoenas or when your actions violate the [Terms of Service](https://web.archive.org/web/20100503094520id_/http%3A//www.getballpark.com/terms.php)
+MetaLab Design Ltd. reserves the right to disclose personally identifiable information under certain circumstances, such as to comply with subpoenas or when your actions violate the [Terms of Service](https://web.archive.org/web/20111124021445id_/http%3A//www.getballpark.com/terms.php)
 
-It is necessary to share information in order to investigate illegal activities at any stage and in any capacity, such as suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Service](https://web.archive.org/web/20100503094520id_/http%3A//www.getballpark.com/terms.php), or as otherwise dictated by law.
+It is necessary to share information in order to investigate illegal activities at any stage and in any capacity, such as suspected fraud, situations involving potential threats to the physical safety of any person, violations of our [Terms of Service](https://web.archive.org/web/20111124021445id_/http%3A//www.getballpark.com/terms.php), or as otherwise dictated by law.
 
 ### CHANGES
 
