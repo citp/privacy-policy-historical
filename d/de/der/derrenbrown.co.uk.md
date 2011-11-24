@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the derrenbrown.co.uk privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520130500id_/http%3A//derrenbrown.co.uk/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the derrenbrown.co.uk privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124074654id_/http%3A//derrenbrown.co.uk/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Derren Brown
 
-[](http://derrenbrown.co.uk/contact-us/mailing-list/)
+[](http://derrenbrown.co.uk/tour-dates/svengali/)
 
 #### **PRIVACY POLICY for www.derrenbrown.co.uk**
 
@@ -23,7 +23,7 @@ iii. Information provided to us when you communicate with us for any reason.
 
 #### **Store**
 
-All merchandise on the store is created in association with Objective Talent Management and is the sole property of **Pow Digital Marketing Limited. 76 Prices Court, London SW11 3YS. Store enquiries and wholesale please call – 0207 223 2172.** The copyright of all material is created under the licence of the respective owners. 
+All merchandise on the store is created in association with Objective Talent Management. The copyright of all material is created under the licence of the respective owners. 
 
 #### **Use of Cookies**
 
@@ -81,4 +81,4 @@ The Data Protection Act 1998 gives you the right to access the information that 
 
 #### **Contacting Us**
 
-We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact phillisdorris@derrenbrownart.co.uk.
+We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact admin@derrenbrown.co.uk.
