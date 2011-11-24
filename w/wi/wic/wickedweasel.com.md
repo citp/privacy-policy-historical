@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wickedweasel.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525215314id_/http%3A//wickedweasel.com/en-us/pages/4-privacy-statement-website-about-wicked-weasel) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wickedweasel.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124020607id_/http%3A//wickedweasel.com/en-us/pages/4-privacy-statement-website-about-wicked-weasel) for the most accurate reproduction.*
 
 # Privacy Statement - Wicked Weasel
 
@@ -44,8 +44,6 @@ To assist Wicked Weasel with protecting all Personal Information, we request tha
 Wicked Weasel will not provide Personal Information to any third party unless you have provided your express permission for Wicked Weasel to do so.
 
 Wicked Weasel will not disclose information that personally identifies you to advertisers. Wicked Weasel may, in some circumstances, disclose aggregate information to advertisers that does not personally identify you, but allows advertisers to evaluate the number of users that have seen or linked to their advertisements on the Site. This provision of information to advertisers assists Wicked Weasel with both improving the Site and ensuring that it remains free.
-
-Wicked Weasel will, if you so request, from time to time send you advertising material and special offers. Such material will not be sent unless you request us to do so
 
 ## Access to personal information
 
