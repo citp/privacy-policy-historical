@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanmiguelguide.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229084654id_/http%3A//www.sanmiguelguide.com/pp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanmiguelguide.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124062643id_/http%3A//www.sanmiguelguide.com/pp.htm) for the most accurate reproduction.*
 
 # SanmiguelGuide.com Privacy Policy
 
