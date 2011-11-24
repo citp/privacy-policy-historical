@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animeboy.org privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513172008id_/http%3A//www.animeboy.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeboy.org privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124043744id_/http%3A//www.animeboy.org/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - animeboy.org
 
