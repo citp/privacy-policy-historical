@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dealfish.co.ug privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523015245id_/http%3A//dealfish.co.ug/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealfish.co.ug privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124145613id_/http%3A//dealfish.co.ug/legal) for the most accurate reproduction.*
 
-# Privacy policy • Dealfish
+# Privacy policy • Dealfish.co.ug
 
-  * [Ads Dealfish](http://dealfish.co.ug/)
+  * [Ads Dealfish.co.ug](http://dealfish.co.ug/)
   * » Privacy policy
 
 
@@ -39,6 +39,6 @@
 
 ## Do you need help?
 
-If you have problem with using our site Dealfish please see help.
+If you have problem with using our site Dealfish.co.ug please see help.
 
 [_Help me_](http://dealfish.co.ug/help/ "Help me")
