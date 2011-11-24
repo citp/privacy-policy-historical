@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidcactus.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115175020id_/http%3A//www.bidcactus.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidcactus.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124023851id_/http%3A//www.bidcactus.com/help/policy) for the most accurate reproduction.*
 
 # Bid on Penny Auctions. BidCactus.com
 
