@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exofficio.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526150036id_/http%3A//www.exofficio.com/customer-service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exofficio.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124014743id_/http%3A//www.exofficio.com/customer-service/privacy) for the most accurate reproduction.*
 
 # ExOfficio: Privacy and Security
 
@@ -8,7 +8,7 @@ ExOfficio is committed to protecting your privacy. The information collected abo
 
   * When you order from ExOfficio online, we need to know your name, e-mail address, mailing address, your credit card number and its expiration date. This information enables us to process and fulfill your order and to notify you of your order status.
   * When you sign up for the ExOfficio Insider Update, you only need to give us your e-mail address.
-  * When you submit a product testimonial we also ask for your e-mail address, although you can choose not to have your e-mail address displayed with your testimonial.
+  * When you submit a product testimonial we also ask for your e-mail address, although you can choose not to have your e-mail address displayed with your testimonial. Please know that we display testimonials to the general public and some of our resellers may choose to display them on thier websites, as well.
   * When you enter a contest or participate in other promotional features, we may ask for you name, address and e-mail address so we can administer the contest and notify the winners.
   * We also monitor customer traffic patterns and site usage to help us develop the design and layout of our site.
   * We also identify you by using cookies, which helps us keep track of products in your shopping cart and attempts to improve site navigation, customer service, and merchandising. We use demographic and site traffic data internally. These statistics include no personally identifying information.
