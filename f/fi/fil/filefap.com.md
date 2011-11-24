@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the filefap.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102005214id_/http%3A//filefap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filefap.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124073801id_/http%3A//filefap.com/privacy) for the most accurate reproduction.*
 
 # FileFap.com, Free Adult Image and File Hosting -
 
-FileFap.com is a FREE Adult Image and File Hosting service. Store, Share and Manage your images without joining or [become a member](http://filefap.com/register) and get masses of space and bandwidth, using FileFap you can upload multiple photo's at once ,create galleries which you can share online or you can make your albums private just for you to view. 
+When you sign up for an account with FileFap, we collect personal information from you including your email address and a password.
 
-This privacy statement is to outline how we handle your data, and to tell you what pieces of data we take. We are committed to protecting your privacy, and as such will never sell your data to anyone or pass it on to a 3rd party. 
+We may also collect the URL from which you linked into our site, your IP address, and your browser type and version. All of which are collected in an anonymous manner without being linked to any of your personal information.
 
-**Cookies :**  
-Whilst visiting our site, your browser may ask you to accept cookies. We may use cookies only for the purpose of identification when using our services for general web traffic statistics purposes. 
+User privacy is something we take very seriously at FileFap. We do not, and have never, sold or disseminated (except in cases where required to by law enforcement agencies) the personal information of our users to any parties outside of FileFap. We use account information for the purposes of creating and maintaining individual user accounts, contacting a user in case of a problem with their account, for statistical purposes, to administer our systems, and to provide technical support. 
 
-**Collected Data :**  
-FileFap.com does not collect any personal information about our visitors, except where it is given to us specifically by users who voluntarily give such on the contact form. Personal information includes e-mail address or other personal info. However, we do collect statistics information about our site usage. This includes browser type, referrers, IP address, operating platform, screen resolution, and frequency of visits. This information is held securely on our web server and is only available to FileFap.com webmaster. We do not use this information for financial or otherwise gain; it is solely to allow us to see which features of our web site are popular, as well as to monitor our visit counts. 
+How we use cookies
 
-[](http://www.rtalabel.org/)
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
