@@ -1,22 +1,27 @@
-<!--The following is the downloaded HTML source of the bidcactus.com privacy policy that was archived on 2010-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101115175020id_/http%3A//www.bidcactus.com/policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bidcactus.com privacy policy that was archived on 2011-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124023851id_/http%3A//www.bidcactus.com/help/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>Bid on Penny Auctions.  BidCactus.com</title>
 <meta name="description" content="BidCactus Entertainment Auctions offers brand new products at incredible discounts.  Save up to 90% on popular electronics.  Bid on discount gift cards.  Get Huge savings at Penny Auctions">
 <meta name="keywords" content="gift card,gift,bid,shopping,discount,electronics,nintendo,nintendo ds,auction,netbook,dslite,bidcactus">
-<link rel="stylesheet" type="text/css" href="yui/yui.css?v=2.8.0r4-2">
-<link rel="stylesheet" type="text/css" href="assets/skins/sam/button.css?v=2.8.0r4">
-<link rel="stylesheet" type="text/css" href="assets/skins/sam/container.css?v=2.8.0r4">
-<script type="text/javascript" src="yui/yui.js?v=2.8.0r4-2"></script>
 <meta http-equiv="Pragma" content="no-cache">
 <meta http-equiv="Expires" content="-1">
-<script src="js/bidcactus-min.js?v=12_25" type="text/javascript"></script>
-<link rel="stylesheet" type="text/css" href="css/bidcactus-min.css?03i">
+<script src="js/prototype/prototype.js?1321402986" type="text/javascript"></script>
+<script src="/yui/yui.js?1321402986" type="text/javascript"></script>
+<script src="js/bidcactus-min.js?1321402986" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="/yui/yui.css?1321402986">
+<link rel="stylesheet" type="text/css" href="/assets/skins/sam/button.css?1321402986">
+<link rel="stylesheet" type="text/css" href="/assets/skins/sam/container.css?1321402986">
+<link rel="stylesheet" type="text/css" href="/assets/skins/sam/paginator.css?1321402986">
+<link rel="stylesheet" type="text/css" href="css/bidcactus-min.css?1321402986">
 <script type="text/javascript">
+
+	
+
 </script>
 </head>
-<body class="yui-skin-sam"><iframe id="_yuiResizeMonitor" title="Text Resize Monitor" style="position: absolute; visibility: visible; background-color: transparent; border-width: 0px; width: 2em; height: 2em; left: 0px; top: -27px;"></iframe>
+<body class="yui-skin-sam https-off logged-out">
 	<div id="doc4" class="yui-t2">
 				<div id="hd" style="background: url(http://images.bidcactus.com/header_bg.png) repeat-x;">
 			<script type="text/javascript">
@@ -27,14 +32,86 @@ YAHOO.util.Event.onDOMReady(function () {
 						useExpressInstall: false,
 						fixedAttributes: { wmode:'opaque' }
 					 };
-		var hbswf = new YAHOO.widget.SWF("heartbeat", "/swf/heartbeat.swf?v=12_25", params);
+		var hbswf = new YAHOO.widget.SWF("heartbeat", "/swf/heartbeat.swf?1321402986", params);
 	} catch(ex)
 	{
 	}
+
+	YAHOO.util.Event.addListener("Username", "blur", function(){
+		uname = document.getElementById("Username");
+		if (uname.value == "") {
+			YAHOO.util.Dom.addClass(uname, 'default');
+			uname.value = "Username";
+		}
+	});
+	YAHOO.util.Event.addListener("Username", "click", function(){
+		uname = document.getElementById("Username");
+		if (uname.value == "Username") {
+			YAHOO.util.Dom.removeClass(uname,'default');
+			uname.value = "";
+		}
+	});
+
+	YAHOO.util.Event.addListener("PassDefault", "click", passwordClick);
+
+	YAHOO.util.Event.addListener("Password", "click", passwordClick);
+	YAHOO.util.Event.addListener("Password", "focusin", passwordClick);
+
+	YAHOO.util.Event.addListener("Password", "blur",function(){
+		pass = document.getElementById("Password");
+		if (pass.value.length == 0) {
+			passDefault = document.getElementById("PassDefault");
+			YAHOO.util.Dom.removeClass(passDefault,'hide');
+		}
+	});
+
+	function mouseIn(div)
+	{
+		if (YAHOO.env.ua.ie)
+		{
+			YAHOO.util.Dom.setStyle(div,'display', 'block');
+		}
+		else
+		{
+			YAHOO.util.Dom.setStyle(div,'display', 'block');
+			YAHOO.util.Dom.setStyle(div,'opacity', '0');
+			var fadeIn = new YAHOO.util.Anim(div, { opacity: { to: 1 } }, 0.1);
+			fadeIn.animate();
+		}
+	}
+
+	function mouseOut(div)
+	{
+		if (YAHOO.env.ua.ie)
+		{
+			YAHOO.util.Dom.setStyle(div,'display', 'none');
+		}
+		else
+		{
+			var fadeIn = new YAHOO.util.Anim(div, { opacity: { to: 0 } }, 0.1);
+			fadeIn.animate();
+			YAHOO.util.Dom.setStyle(div,'display', 'none');
+		}
+	}
+	
+	YAHOO.util.Event.addListener("Nav3", "mouseenter", function() {mouseIn("RewardsMenu")});
+	YAHOO.util.Event.addListener("Nav3", "mouseleave",  function() {mouseOut("RewardsMenu")});
+
+	YAHOO.util.Event.addListener("Nav5", "mouseenter",function() { mouseIn("HelpMenu")});
+	YAHOO.util.Event.addListener("Nav5", "mouseleave",  function() {mouseOut("HelpMenu")});
+	
 	setTimeout('InitHeartBeatTask()',7000);
 	if(typeof(onBidBalanceChange)!='undefined')
 		onBidBalanceChange.subscribe(SetHeaderBidBalance);
 });
+
+function passwordClick()
+{
+	passDefault = document.getElementById("PassDefault");
+	YAHOO.util.Dom.addClass(passDefault,"hide");
+	pass = document.getElementById("Password");
+	pass.focus();
+}
 function SetHeaderBidBalance(type, args)
 {
 	sp = document.getElementById("headerbids");
@@ -83,57 +160,100 @@ function HeartBeatTask()
 	setTimeout('HeartBeatTask()',80500);		// check-in with server every 80.5 seconds
 }
 </script>
-<div id="topsection">
-	<div id="logo" style="background: url(http://images.bidcactus.com/logoMain2.png) no-repeat 0px 4px;" onclick="document.location='index.php'"></div>
-	<div id="headerRight" style="background-image: url(http://images.bidcactus.com/header_right.png)">
-		<div id="heartbeat" style="width: 1px; height: 1px"></div>
-	</div>
-	<div id="headeritems">
-		<div id="nav">
-			<a href="index.php" title="BidCactus - Online Auctions!">Live Auctions</a><span class="sep">|</span>
-			<a href="about.php" title="BidCactus - About Us">About Us</a><span class="sep">|</span>
-			<a href="info.php" title="BidCactus - How It Works!">How BidCactus<span style="font-size: .7em; vertical-align: top">®</span> Works</a><span class="sep">|</span>
-			<a href="help.php" title="BidCactus - Faq's">FAQ's</a><span class="sep">|</span>
-			<a href="promotions.php" title="BidCactus - Promotions">Promotions</a><span class="sep">|</span>
-			<a href="categories.php" title="BidCactus - Categories">Categories</a><span class="sep">|</span>
-							<a id="redeemMenu" onclick="javascript: redeemLogin();" href="javascript: void(0);">Redeem Gift Certificate</a><span class="sep">|</span>
-				<a href="https://www.bidcactus.com/register.php" title="BidCactus - Register">Register</a>
-					</div>
-		<div id="headerLogin">
-			
-                                                              
-                                <div class="newsMargin">
-                                    <div id="headerNewsBlurb" class="newsBlurb">
-                                        <span id="headerNewsImages" class="newsBlurb">
-                                            <img src="http://images.bidcactus.com/flag-usa-hp.jpg">
-                                            <img class="newsBlurbSpacer" src="http://images.bidcactus.com/flag-canada-hp.jpg">
-                                        </span>
-                                        <span class="newsBlurbContent newsBlurbSpacer">Now shipping to Canada!</span>
-                                    </div>
-                                </div>
-                                <div>
-                                    <form name="loginForm" method="post" action="https://www.bidcactus.com/performlogin.php" onsubmit="return checkLogin()" autocomplete="off">
-                                            Username: <input name="txtloginusername" class="loginInput">
-                                            Password: <input name="txtloginpassword" class="loginInput" type="password">
-                                            <input type="image" name="btnlogin" src="http://images.bidcactus.com/login_button.gif" class="newsBlurbGraphics">
-                                    </form>
-                                </div>
-					</div>
-	</div>
 
-	<div id="fb_like">
-		<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffacebook.com%2Fbidcactus&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;font=trebuchet+ms&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
-	</div>
-  <div id="givesback">
-    <a href="charity.php"><img src="http://images.bidcactus.com/bidcactus_gives_back.png" alt="BidCactus Gives Back - Charity Page"></a>
-  </div>
-	<div id="headerhelp" style="left:205px;">
-		Live Phone Support Mon - Fri 9am - 5pm EST at <span style="font-size: 14px; font-weight: bold; color: #114499">1-800-BID-8711</span> — <a href="cscontact.php">info@bidcactus.com</a>
-	</div>
-  <div id="mcafee">
-    <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.bidcactus.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.bidcactus.com/22.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
-  </div>
-</div>
+<div id="Logo"><a href="/index.php"><img alt="Bid Cactus" src="http://images.bidcactus.com/main_logo.png"></a></div>
+			<div id="TopBar">
+				<div class="pad">
+					<div id="GivesBack" class="left">
+    					<a href="charity.php"><img src="http://images.bidcactus.com/bidcactus_gives_back.png" alt="BidCactus Gives Back - Charity Page"></a>
+
+  					</div>
+  					<div id="FBLike" class="left">
+						<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffacebook.com%2Fbidcactus&amp;layout=button_count&amp;show_faces=false&amp;width=100&amp;action=like&amp;font=trebuchet+ms&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowtransparency="true"></iframe>
+					</div>
+					<div id="McAfee" class="left">
+    					<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.bidcactus.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.bidcactus.com/22.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+  					</div>
+  				</div>
+			</div>
+			<ul id="Nav">
+				<li id="Nav1">
+					
+    				<div class="tab_left"></div>
+					<div class="tab_main">
+						<a class="top" href="index.php">Home</a>
+					</div>
+					<div class="tab_right"></div>
+    					</li>
+								
+				<!-- Rewards and Promotions Menu -->
+				<li id="Nav3">
+					
+    				<div class="tab_left"></div>
+					<div class="tab_main">
+						<a class="top" href="/promotions">Prizes &amp; Promotions <span class="down">▼</span></a>
+					</div>
+					<div class="tab_right"></div>
+    						<div id="RewardsMenu" class="menu">
+						<div class="cont rewardsMenu">
+							<a href="/promotions">Current Promotions</a>
+  						<a href="rewards.php">Rewards Store</a>						
+														<a onclick="javascript: redeemLogin();" href="javascript: void(0);">Send a Gift Certificate</a>
+							<a onclick="javascript: redeemLogin();" href="javascript: void(0);">Refer-A-Friend</a>
+											
+						</div>
+					</div>
+				</li>
+	
+				<!-- Help Menu -->
+				<li id="Nav5">
+					
+    				<div class="tab_left"></div>
+					<div class="tab_main">
+						<a class="top" href="help.php">Help <span class="down">▼</span></a>
+					</div>
+					<div class="tab_right"></div>
+    						<div id="HelpMenu" class="menu">
+						<div class="cont helpMenu">
+							<a href="about.php">About Us</a>
+							<a href="info.php">How BidCactus Works</a>
+							<a href="help.php">Frequently Asked Questions</a>
+							<a href="info.php#topTenTips">Tricks &amp; Tips</a>
+							<div class="div"> </div>
+							<a href="terms.php">Website Terms &amp; Conditions</a>
+							<div class="div"> </div>
+							<a href="mailto:info@bidcactus.com?subject=Penny Auctions at BidCactus.com">Contact Us</a>
+						</div>
+					</div>
+				</li>
+
+				<li id="Nav6">
+					
+    				<div class="tab_left"></div>
+					<div class="tab_main">
+						<a class="top" href="/accounts/signup">Register</a>
+					</div>
+					<div class="tab_right"></div>
+    					</li>
+			</ul>
+					
+			<!-- LoginBar is used for the user logged out state -->
+						<div id="LoginBar" class="login" style="display:block; background:url('http://images.bidcactus.com/login_bar_bg.png') no-repeat right top;">
+				<p class="tag">Live Support (Mon - Fri 9am - 5pm ET) 1-800-BID-8711, or <a href="mailto:info@bidcactus.com">e-mail</a></p>	
+				<div id="LoginFormContainer">
+					<form autocomplete="off" onsubmit="return checkLogin()" action="https://www.bidcactus.com/performlogin.php" method="post" name="loginForm">
+						<input id="Username" type="text" class="loginInput default" value="Username" name="txtloginusername">
+						<input id="Password" type="password" class="loginInput default" value="" name="txtloginpassword">
+						<div id="PassDefault">Password</div>
+						<a class="forgotPassword" href="https://www.bidcactus.com/accountRecovery.php">Forgot Password?</a>
+						<input type="image" class="newsBlurbGraphics" src="http://images.bidcactus.com/login_button.png" name="btnlogin">
+					</form>
+				</div>
+			</div>
+			<!-- End LoginBar -->
+
+						
+<!-- New Header END -->
 		</div>
 				<div id="bd">
 			<div id="yui-main">
@@ -236,18 +356,6 @@ If you have any questions regarding the Privacy Policy please do not hesitate to
 			</div>
 			<div class="yui-b" id="sideItems">
 					<div class="sidebarWidget">
-		<div id="auctionswonwidget" class="widgetBlue">
-	<div class="widgetHeader">
-		<div class="widgetHeaderLeft"></div>
-		<div class="widgetHeaderRight"></div>
-		Auctions Won
-	</div>
-	<div class="widgetContent">
-		<iframe src="http://widgets.bidcactus.com/AuctionsWon.php" width="100%" height="255px" scrolling="vertical" frameborder="0">
-		</iframe>
-	</div>
-</div>	</div>
-	<div class="sidebarWidget">
 		<div id="howtobidwidget" class="widgetBlue">
 	<div class="widgetHeader">
 		<div class="widgetHeaderLeft"></div>
@@ -265,7 +373,8 @@ If you have any questions regarding the Privacy Policy please do not hesitate to
 		<strong class="getStartedB">Get Started Now!</strong>
 				<a href="https://www.bidcactus.com/register.php" class="sideButn RegisterNowLink">Register Now</a>
 			</div>
-</div>	</div>
+</div>
+	</div>
 			</div>
 		</div>
 		<div id="ft">
@@ -283,22 +392,19 @@ If you have any questions regarding the Privacy Policy please do not hesitate to
 		<table style="margin: 0 auto" width="94%">
 			<tbody><tr style="height: 10px"><td></td></tr>
 			<tr>
-				<td width="106px">
-					<a target="_blank" href="http://images.bidcactus.com/bidcactus-ernst-young-report.pdf">
+								<td width="106px">
+					<a target="_blank" href="//images.bidcactus.com/bidcactus-ernst-young-report.pdf">
 						<img style="margin: 0 10px 0 10px" title="Click to read Ernst &amp; Young's report on BidCactus." src="http://images.bidcactus.com/e-and-y-logo-03.gif" alt="Click to read Ernst &amp; Young's report on BidCactus.">
 					</a>
-					<a target="_blank" style="color:black;" href="http://images.bidcactus.com/bidcactus-ernst-young-report.pdf">View Report</a>
+					<a target="_blank" style="color:black;" href="//images.bidcactus.com/bidcactus-ernst-young-report.pdf">View Report</a>
 				</td>
-                <td>
-					<a target="_blank" href="https://www.bbb.org/online/consumer/cks.aspx?id=110050610157">
-						<img style="margin: 0 10px 0 10px" title="Click to verify BBB accreditation and to see a BBB report." border="0" src="http://images.bidcactus.com/bbbseal.gif" alt="Click to verify BBB accreditation and to see a BBB report.">
-					</a>
-				</td>
+				        <td><a target="_blank" href="//entertainmentauctionassociation.com/members.html"><img title="Click to verify EAA membership" border="0" src="http://images.bidcactus.com/eaa.png" alt="Click to verify EAA membership"></a></td>
+                
 				<td>
 					<a href="seal.php"><img src="http://images.bidcactus.com/seal.gif" style="width: 73px"></a>
 				</td>
 				<td width="90">
-				 <!-- (c) 2005, 2009. Authorize.Net is a registered trademark of CyberSource Corporation --> <div class="AuthorizeNetSeal"> <script type="text/javascript" language="javascript">var ANS_customer_id="c6349146-11be-4474-ba87-a1d77ba6aac2";</script> <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script> <a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Accept Online Payments</a> </div>
+				 <!-- (c) 2005, 2009. Authorize.Net is a registered trademark of CyberSource Corporation --> <div class="AuthorizeNetSeal"> <script type="text/javascript" language="javascript">var ANS_customer_id="c6349146-11be-4474-ba87-a1d77ba6aac2";</script> <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script> <a href="//www.authorize.net/" id="AuthorizeNetText" target="_blank">Accept Online Payments</a> </div>
 				</td>
 				<td style="vertical-align: top; padding-top: 6px">
 					<script type="text/javascript">
@@ -312,11 +418,16 @@ If you have any questions regarding the Privacy Policy please do not hesitate to
 								}
 							}, 5);
 						});
-					</script><!-- Begin Official PayPal Seal --><a id="paypalseal" href="https://www.paypal.com/us/verified/pal=payments%40bidcactus%2ecom" target="_blank"><img alt="PayPal" style="width: 75px" src="https://www.paypal.com/en_US/i/icon/verification_seal.gif" border="0"></a><!-- End Official PayPal Seal -->
+					</script><!-- Begin Official PayPal Seal --><a id="paypalseal" href="https://www.paypal.com/us/verified/pal=payments%40bidcactus%2ecom" target="_blank"></a><!-- End Official PayPal Seal -->
 					<noscript>
 					<!-- Begin Official PayPal Seal --><a href="https://www.paypal.com/us/verified/pal=payments%40bidcactus%2ecom" target="_blank"><img style="width: 75px" src="https://www.paypal.com/en_US/i/icon/verification_seal.gif" border="0" alt="Official PayPal Seal"></a><!-- End Official PayPal Seal -->
 					</noscript>
 				</td>
+        <td>
+          <a target="_blank" href="https://www.bbb.org/online/consumer/cks.aspx?id=110050610157">
+            <img style="margin: 0 10px 0 10px" title="Click to verify BBB accreditation and to see a BBB report." border="0" src="http://images.bidcactus.com/bbbseal.gif" alt="Click to verify BBB accreditation and to see a BBB report.">
+          </a>
+        </td>
 				<td>
 					<table id="pmtmethods" border="0" cellpadding="1" cellspacing="1" align="center">
 						<tbody><tr>
@@ -336,18 +447,14 @@ If you have any questions regarding the Privacy Policy please do not hesitate to
 						</tr>
 						<tr>
 							<td>
-								<a href="http://twitter.com/bidcactus" target="_blank"><img src="http://images.bidcactus.com/twitter_32.png" border="0"></a>
-								<a href="http://www.facebook.com/bidcactus" target="_blank"><img src="http://images.bidcactus.com/facebook_32.png" border="0"></a>
-								<a href="http://www.youtube.com/user/BidCactus" target="_blank"><img src="http://images.bidcactus.com/youtube_32.png" border="0"></a>
-								<a href="mailto:?subject=Penny Auctions at BidCactus.com&amp;body=http://www.bidcactus.com"><img src="http://images.bidcactus.com/email_32.png" border="0"></a>
+								<a href="//twitter.com/bidcactus" target="_blank"><img src="http://images.bidcactus.com/twitter_32.png" border="0"></a>
+								<a href="//www.facebook.com/bidcactus" target="_blank"><img src="http://images.bidcactus.com/facebook_32.png" border="0"></a>
+								<a href="//www.youtube.com/user/BidCactus" target="_blank"><img src="http://images.bidcactus.com/youtube_32.png" border="0"></a>
+								<a href="mailto:info@bidcactus.com?subject=Penny Auctions at BidCactus.com&amp;body=http://www.bidcactus.com"><img src="http://images.bidcactus.com/email_32.png" border="0"></a>
 							</td>
 						</tr>
 						<tr>
 							<td style="padding-top: 6px">
-								<span id="siteseal">
-									<script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=1kfpZ2L6vBMQGrKr7TqaVVzQh2d4VtNo9AShsoVhghPn1zmH0uDaRsZUW">
-									</script>
-								</span>
 							</td>
 						</tr>
 					</tbody></table>
@@ -359,8 +466,8 @@ If you have any questions regarding the Privacy Policy please do not hesitate to
 		<tbody><tr>
 			<td width="33%"></td>
 			<td width="34%" style="vertical-align: middle">
-				<a target="_blank" href="terms.php">Terms &amp; Conditions</a> | <a target="_blank" href="policy.php">Privacy Policy</a><br>
-				Copyright © 2010. All Rights Reserved.
+				<a target="_blank" href="affiliates.php">Affiliates</a> | <a target="_blank" href="terms.php">Terms &amp; Conditions</a> | <a target="_blank" href="policy.php">Privacy Policy</a><br>
+				Copyright © 2011. All Rights Reserved.
 			</td>
 			<td width="33%" style="vertical-align: top;text-align: center; padding-left: 100px;line-height:11px">
 				<img alt="USA Flag" src="http://images.bidcactus.com/flag-usa-hp.jpg" style="margin-right: 5px">
@@ -370,54 +477,46 @@ If you have any questions regarding the Privacy Policy please do not hesitate to
 			</td>
 		</tr>
 	</tbody></table>
-</div>		</div>
+</div>
+		</div>
 	</div>
 	<input type="hidden" name="loginuser" id="loginuser" value="">
 	<input type="hidden" name="loginpid" id="loginpid" value="0">
 	<input type="hidden" name="bidbalance" id="bidbalance" value="-1">
-<div id="transGray">&nbsp;</div>
-<div id="popWrapper">
-		<div id="popWin">
-			<div id="popWinBody">
-				<div id="popWinContent">
-					<div id="poplogo"><img src="http://images.bidcactus.com/logo_small_blue.png" alt="BidCactus" width="90" height="53" border="0"></div>
-                    <div id="popLoginError"><strong>Sorry, you must have an account with bidcactus to bid.</strong> Please login or if you do not have an account please <a href="register.php">click here to register</a>.</div>
-					<div id="popLogin">
-						<form name="winloginForm" method="post" action="https://www.bidcactus.com/performlogin.php" onsubmit="return checkwinLogin()" autocomplete="off">
-                            <p>
-                                <label for="txtloginusername">Username:</label>
-                                <input name="txtloginusername" id="txtloginusername2" class="loginInput">
-							</p>
-                            <p>
-                                <label for="txtloginpassword">Password:</label>
-                                <input name="txtloginpassword" class="loginInput" type="password">
-                                <input type="submit" name="btnlogin2" value="Login">
-                            </p>
-						</form>
+<!-- New Login Box! -->
 
-						<form name="winemailForm" method="post" onsubmit="return checkwinEmail()">
-							<p class="forgotPWTxt"><strong>Forgot your username or password?</strong>  Enter your email address below and we'll send
-							you the information you need to login.</p>
-
-							<p>
-							<span id="popEmailJS">Please Enter a Valid Email Address</span>
-							<label for="txtforgotemail">Email:</label>
-                            <input name="txtforgotemail" class="loginInput">
-							<input type="submit" name="btnlogin1" value="Send">
-                            </p>
-						</form>
-					</div>
-					<div id="popWinJS"></div>
-					<div id="popWinJScontent"></div>
-				</div>
-			</div>
-			<div id="popWinClose"><a href="#" onclick="document.getElementById('popWrapper').style.display='none';document.getElementById('transGray').style.display = 'none';"><img src="http://images.bidcactus.com/close.png" alt="Close" width="81" height="19" border="0"></a></div>
-		</div>
+<div class="messagebox large modal no-default-buttons" id="loginBox">
+  <h1>Login</h1>
+  <div class="errors" id="popup_login_error"></div>
+  <form name="winloginForm" id="winloginForm" method="post" action="https://www.bidcactus.com/performlogin.php" autocomplete="off">
+    <p>
+      <label for="txtloginusername">Username:</label>
+      <input name="txtloginusername" id="popup_login_username" class="loginInput">
+    </p>
+    <p>
+      <label for="txtloginpassword">Password:</label>
+      <input name="txtloginpassword" class="loginInput" type="password">
+      <input type="submit" name="btnlogin2" value="Login" onclick="return checkwinLogin();">
+    </p>
+  </form>
+  <div class="register_link">New Player? <a href="register.php">Sign Up Now</a></div>
+  <hr>
+  <h1>Forgot your username or password?</h1>
+  <div class="errors" id="popup_recover_error"></div>
+  <p>Enter your email address below and we'll send you the information you need to login.</p>
+  <form name="winemailForm" id="winemailForm" method="post">
+    <p>
+      <label>Email:</label>
+      <input id="txtforgotemail" type="text" name="txtforgotemail" class="loginInput">
+      <input type="submit" name="btnlogin1" value="Send" onclick="return checkwinEmail();">
+    </p>
+  </form>
 </div>
 
+
 <div id="dlgContainer" class="yui-skin-sam">
-<div class="yui-panel-container yui-dialog yui-overlay-hidden shadow" id="dlgRedeem_c" style="visibility: hidden; left: 505px; top: 305px; z-index: 2;"><div id="dlgRedeem" style="visibility: inherit; width: 350px;" class="yui-module yui-overlay yui-panel">
-	<div class="hd" id="dlgRedeem_h" style="cursor: move;">Redeem Coupon Code</div>
+<div id="dlgRedeem" style="visibility:hidden;">
+	<div class="hd">Redeem Coupon Code</div>
 	<div class="bd">
 		<p>Please enter the coupon code exactly as it was given to you (including hyphens). </p>
 		<p>Example: <b>ABCD-1234</b></p>
@@ -426,23 +525,11 @@ If you have any questions regarding the Privacy Policy please do not hesitate to
 			<input type="textbox" id="giftcode" name="giftcode" maxlength="15">
 		</form>
 	</div>
-<a class="container-close" href="#">Close</a><div class="ft"><span class="button-group"><span id="yui-gen0" class="yui-button yui-push-button default"><span class="first-child"><button type="button" id="yui-gen0-button">Submit</button></span></span><span id="yui-gen1" class="yui-button yui-push-button"><span class="first-child"><button type="button" id="yui-gen1-button">Cancel</button></span></span></span></div></div></div>
 </div>
-<div style="visibility:hidden;">                <script type="text/javascript">
-                YAHOO.util.Event.onDOMReady(function() {
-                  setTimeout(function() {
-                    YAHOO.util.Get.script("https://www.csm-secure.com/Scripts/ClickTracking.js", {
-                          onSuccess: function() {
-                        _clientID = "54";
-                        _expiryDays = 90;
-                                try {
-                          TrackPage();
-                            } catch(err) {}
-                      }
-                        });
-                  }, 1500);
-                });
-</script>            <script type="text/javascript">
+</div>
+<!-- begin Marin Software Tracking Script (click) -->
+<!-- end Marin Software Tracking Script (click) -->
+<div style="visibility:hidden;">            <script type="text/javascript">
             YAHOO.util.Event.onDOMReady(function() {
               setTimeout(function() {
                 _qoptions={
@@ -470,23 +557,7 @@ If you have any questions regarding the Privacy Policy please do not hesitate to
                     }else{_gaTrackPage();}
                   }, 1500);
                 });
-</script>                <!-- begin Marin Software Tracking Script -->
-                <div id="marinEPimg" style="visibility:hidden;"></div>
-                <script type="text/javascript">
-                     YAHOO.util.Event.onDOMReady(function() {
-                      setTimeout(function() {
-                      var marinDiv = document.getElementById("marinEPimg");
-                      if(marinDiv){
-                        var marinEP = document.createElement('img');
-                        marinEP.src="https://tracker.marinsm.com/tp?act=1&cid=7340004073&script=no";
-                        marinDiv.appendChild(marinEP);
-                      }
-                      }, 1500);
-                    });
-                </script>
-                <noscript>
-                    <img src="https://tracker.marinsm.com/tp?act=1&cid=7340004073&script=no">
-                </noscript>
-<!-- end Copyright Marin Software --></div>
+</script></div><div id="messagebox_container"><!-- DO NOT PUT ANYTHING IN THIS DIV --></div>
+
 
 </body></html>
