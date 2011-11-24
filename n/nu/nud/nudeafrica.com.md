@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nudeafrica.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423052943id_/http%3A//www.nudeafrica.com/2257.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nudeafrica.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124072410id_/http%3A//www.nudeafrica.com/2257.html) for the most accurate reproduction.*
 
 # 18 U.S.C. 2257 Compliance Statement
 
