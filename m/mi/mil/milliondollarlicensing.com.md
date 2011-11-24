@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milliondollarlicensing.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628210629id_/http%3A//www.profitalchemy.com/staging/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milliondollarlicensing.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124022725id_/http%3A//profitalchemy.com/staging/privacy.html) for the most accurate reproduction.*
 
 # Profit Alchemy Privacy
 
