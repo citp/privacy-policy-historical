@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buildonlinewealth.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226042936id_/http%3A//buildonlinewealth.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buildonlinewealth.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124014833id_/http%3A//buildonlinewealth.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,7 +30,7 @@ If you do not want us to use cookies, you can easily disable them by going to th
 
 * Special Offers. We may send you special offers from time to time, unless you choose to “opt-out” of receiving such offers. In addition, we may also send you special offers from other companies. Again, you may “opt-out”. If we send you offers from other businesses, we do not share your personal information with them. The offers come directly through us. Please see the “opt-in/opt-out” selection at the end of this policy. 
 
-* Business Transfers. As we continue to develop our business, we might sell or buy stores or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that we are acquired, customer information will be one of the transferred assets.
+* Business Transfers. As we continue to develop our business, we might sell or buy stores or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that we are acquired, customer information will be one of the transferred assets. We may rent,sell or trade any personal information collected at any time without warning.
 
 * Law Enforcement. If we receive a lawful court order to release account or other personal information then we will comply with the law. We will also release information when necessary to protect the life, safety or property of others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
@@ -43,4 +43,4 @@ We do not sell products or services to children. If you are under 18, you may us
 Various Web sites may be linked to from this site. If you link to another site, your privacy depends on the policy of that site. We strongly urge you to check their privacy policy. Not all sites guarantee that they will not share your personally identifiable information with others. You may also wish to consult privacy guidelines such as those recommended by the Online Privacy Alliance (www.privacyalliance.org).
 
 Copyright © 2010 All Rights Reserved  
-[Earnings Disclaimer](https://web.archive.org/web/20101226042936id_/http%3A//buildonlinewealth.com/earnings-disclaimer.html) | [Privacy Policy](https://web.archive.org/web/20101226042936id_/http%3A//buildonlinewealth.com/privacy-policy.html)
+[Earnings Disclaimer](https://web.archive.org/web/20111124014833id_/http%3A//buildonlinewealth.com/earnings-disclaimer.html) | [Privacy Policy](https://web.archive.org/web/20111124014833id_/http%3A//buildonlinewealth.com/privacy-policy.html)
