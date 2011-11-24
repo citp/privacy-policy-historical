@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the miaplaza.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520221131id_/http%3A//www.miaplaza.com/help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miaplaza.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124183518id_/http%3A//www.miaplaza.com/help/Privacy.aspx) for the most accurate reproduction.*
 
 # miaplaza - Privacy Policy
+
+## Privacy Policy
 
 Your privacy is our top concern. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy: 
 
@@ -105,4 +107,47 @@ You can review the personal information you provided us and make any desired cha
 
 **Questions or Comments**
 
-If you have questions or comments about this privacy policy, please contact us. We can be reached by mail at 750 Cambridge; Menlo Park, CA 94025, USA.
+If you have questions or comments about this privacy policy, please contact us. We can be reached by mail at PO Box 183; Menlo Park, CA 94026, USA.
+
+## MIAPLAZA COPYRIGHT AND INTELLECTUAL PROPERTY POLICY
+
+Notification of Copyright Infringement:  
+Miaplaza, Inc. (“Miaplaza”) respects the intellectual property rights of others and expects its users to do the same. It is Miaplaza’s policy, in appropriate circumstances and at its discretion, to disable and/or terminate the accounts of users who repeatedly infringe or are repeatedly charged with infringing the copyrights or other intellectual property rights of others. In accordance with the Digital Millennium Copyright Act of 1998, the text of which may be found on the U.S. Copyright Office website at http://www.copyright.gov/legislation/dmca.pdf, Miaplaza will respond expeditiously to claims of copyright infringement committed using the Miaplaza website or other online network accessible through a mobile device or other type of device (the “Sites”) that are reported to Miaplaza’s Designated Copyright Agent, identified in the sample notice below. If you are a copyright owner, or are authorized to act on behalf of one, or authorized to act under any exclusive right under copyright, please report alleged copyright infringements taking place on or through the Sites by completing the following DMCA Notice of Alleged Infringement and delivering it to Miaplaza’s Designated Copyright Agent. Upon receipt of the Notice as described below, Miaplaza will take whatever action, in its sole discretion, it deems appropriate, including removal of the challenged material from the Sites.
+
+DMCA Notice of Alleged Infringement (“Notice”)  
+1\. Identify the copyrighted work that you claim has been infringed, or - if multiple copyrighted works are covered by this Notice - you may provide a representative list of the copyrighted works that you claim have been infringed.  
+2\. Identify the material that you claim is infringing (or to be the subject of infringing activity) and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit us to locate the material, including at a minimum, if applicable, the URL of the link shown on the Site(s) where such material may be found.  
+3\. Provide your mailing address, telephone number, and, if available, email address.  
+4\. Include both of the following statements in the body of the Notice:  
+o “I hereby state that I have a good faith belief that the disputed use of the copyrighted material is not authorized by the copyright owner, its agent, or the law (e.g., as a fair use).”  
+o “I hereby state that the information in this Notice is accurate and, under penalty of perjury, that I am the owner, or authorized to act on behalf of the owner, of the copyright or of an exclusive right under the copyright that is allegedly infringed.”  
+5\. Provide your full legal name and your electronic or physical signature.  
+Deliver this Notice, with all items completed, to Miaplaza’s Designated Copyright Agent:  
+Copyright Agent  
+c/o Miaplaza  
+David Hansen  
+Address: 41908 Via San Luis Rey, Fremont CA 94539  
+Phone / Fax: 51O-498-8264  
+Electronic mail: dmca.agent[at]miaplaza[dot]com
+
+Notification of Trademark Infringement:  
+If you believe that your trademark (the “Mark”) is being used on the Site by a user in a way that constitutes trademark infringement, please provide Miaplaza’s Designated Copyright Agent (specified above) with the following information:   
+1\. Your full legal name and your electronic or physical signature.   
+2\. Information reasonably sufficient to permit Miaplaza to contact you or your authorized agent, including a name, mailing address, telephone number and, if available, an email address.  
+3\. Identification of the Mark(s) alleged to have been infringed, including (i) for registered Marks, a copy of each relevant federal trademark registration certificate or (ii) for common law or other Marks, evidence sufficient to establish your claimed rights in the Mark, including the nature of your use of the Mark, and the time period and geographic area in which the Mark has been used by you.   
+4\. Information reasonably sufficient to permit Miaplaza to identify the use being challenged.  
+5\. Include both of the following statements in the body of the Notice:  
+o “I hereby state that I have not authorized the challenged use, and I have a good- faith belief that the challenged use is not authorized by law.”   
+o “I hereby state under penalty of perjury that all of the information in the notification is accurate and that I am the owner of the Mark, or authorized to act on behalf of the owner of the Mark.”   
+Upon receipt of notice as described above, Miaplaza will seek to confirm the existence of the Mark on the Sites, notify the registered user who posted the content including the Mark, and take whatever action, in its sole discretion, it deems appropriate, including temporary or permanent removal of the Mark from the Sites. 
+
+Notification of Other Intellectual Property (“IP”) Infringement:  
+If you believe that some other IP right of yours is being infringed by a user, please provide Miaplaza’s Designated Copyright Agent (specified above) with the following information:   
+1\. Your full legal name and your electronic or physical signature.  
+2\. Information reasonably sufficient to permit Miaplaza to contact you or your authorized agent, including a name, mailing address, telephone number and, if available, an email address.   
+3\. Identification of the IP alleged to have been infringed, including (i) a complete description or explanation of the nature of the IP, (ii) evidence that you own the IP in the relevant jurisdiction, including copies of relevant patents, registrations, certifications or other documentary evidence of your ownership, and (iii) a showing sufficient for Miaplaza to determine without unreasonable effort that the IP has been infringed;.   
+4\. Information reasonably sufficient to permit Miaplaza to identify the use being challenged.  
+5\. Include both of the following statements in the body of the Notice:  
+• “I hereby state that I have not authorized the challenged use, and I have a good- faith belief that the challenged use is not authorized by law.”   
+• “I hereby state under penalty of perjury that all of the information in the notification is accurate and that I am the owner of the IP, or authorized to act on behalf of the owner of the IP.”   
+Upon receipt of notice as described above, Miaplaza will seek to confirm the existence of the IP on the Sites, notify the user who posted the content including the IP, and take whatever action, in its sole discretion, it deems appropriate, including temporary or permanent removal of the IP from the Sites. 
