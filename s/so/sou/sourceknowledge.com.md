@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourceknowledge.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621180052id_/http%3A//www.sourceknowledge.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourceknowledge.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124071548id_/http%3A//sourceknowledge.com/privacy.php) for the most accurate reproduction.*
 
 # SourceKnowledge | Privacy Policy
 
