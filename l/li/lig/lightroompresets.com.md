@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the lightroompresets.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523202829id_/http%3A//www.lightroompresets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightroompresets.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124020325id_/http%3A//www.lightroompresets.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy :: Pretty Presets
+# Privacy Policy | Lightroom Presets: Pretty Presets
 
-**What information do we collect?**
-
-We collect information from you when you register on our site, place an order, subscribe to our newsletter, fill out a form or patchlaura@hotmail.com.
+**What information do we collect?** We collect information from you when you register on our site, place an order, subscribe to our newsletter, fill out a form or patchlaura@hotmail.com.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, credit card information or patchlaura@hotmail.com.
 
@@ -14,7 +12,7 @@ Any of the information we collect from you may be used in one of the following w
 
 To process transactions
 
-> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
 **How do we protect your information?**
 
@@ -44,7 +42,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.prettypresets.com](https://web.archive.org/web/20110523202829id_/http%3A//www.lightroompresets.com/www.prettypresets.com)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.prettypresets.com](https://web.archive.org/web/20111124020325id_/http://www.prettypresets.com)
 
 **Your Consent**
 
