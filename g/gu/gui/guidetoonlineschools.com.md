@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the guidetoonlineschools.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226184955id_/http%3A//www.guidetoonlineschools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidetoonlineschools.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124033811id_/http%3A//www.guidetoonlineschools.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - GuidetoOnlineSchools.com
 
-[](https://privacy-policy.truste.com/click-with-confidence/wps/en/www.guidetoonlineschools.com/seal_m "TRUSTe online privacy certification")
+[](http://privacy-policy.truste.com/click-with-confidence/wps/en/www.guidetoonlineschools.com/seal_m "TRUSTe online privacy certification")
 
-[GuideToOnlineSchools.com](http://www.guidetoonlineschools.com/) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us through our [contact form](http://www.guidetoonlineschools.com/feedback/student). If you are not satisfied with our response you can contact TRUSTe [here.](http://watchdog.truste.com/pvr.php?page=complaint)
+[](http://www.career.org//iMISPublic/AM/Template.cfm?Section=Home)
+
+[GuideToOnlineSchools.com](http://www.guidetoonlineschools.com/) has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us through our [contact form](http://www.guidetoonlineschools.com/contact). If you are not satisfied with our response you can contact TRUSTe [here.](http://watchdog.truste.com/pvr.php?page=complaint)
 
 Effective Date: 
 
@@ -42,7 +44,7 @@ We may share information about you with other people or unaffiliated companies o
 
   * **Products or Service Requests** :  If you submit a request for information about a product or service on the Site, we will share information about you contained in the request form with third-parties regarding whose products or services you seek information. Alternatively, we may directly fulfill your request for the information you seek. Third parties who provide products or services regarding which you seek information may contact you by telephone, e-mail, or postal mail based on the information you provided, even if you have opted into the National Do Not Call List administered by the Federal Trade Commission, any state equivalent Do Not Call List, or the Do Not Call List of a specific company. If one of our business partners contacts you and you wish not to be contacted again by that business partner with respect to your inquiry, then you should specifically make a request to that partner not to contact you again. In some cases, a third party may be involved in the process - for example, the Site may share your information with a third party who will fulfill your request on behalf of the third party regarding whose products or services you seek information. 
   * **Service Providers** :  We may disclose information about you to companies that provide certain services on behalf of the Site, such as marketing or distribution services. Our service providers use the information received via the Site for the purposes of providing you with the products or services you requested and may provide information regarding other products in which you may be interested. 
-  * **Related Companies** :  We may share information about you with subsidiaries, parent companies, entities otherwise controlled by us, with successors, and assigns, or in connection with a merger or sale of all or substantially all of our assets or equity.
+  * **Related Companies** :  We may share information about you with subsidiaries, parent companies, entities otherwise controlled by us, with successors, and assigns, or in connection with a merger or sale of all or substantially all of our assets or equity. 
   * **Marketing Partners** : We may also share information with marketing partners who may provide information (on their own behalf or on behalf of third parties) regarding products or services which may be of interest to you. 
   * **Required by Law** : We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. 
 
@@ -82,7 +84,7 @@ If you use a bulletin board, blog, or chat room on this website, you should be a
 
 **Questions Regarding Privacy**
 
-Please direct all questions pertaining to this statement or the service to us through our [contact form](http://www.guidetoonlineschools.com/feedback/student). In the event your inquiry goes unaddressed within a reasonable time frame, please contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe shall then work as a liaison with us to resolve your concerns. 
+Please direct all questions pertaining to this statement or the service to us through our [contact form](http://www.guidetoonlineschools.com/contact). In the event your inquiry goes unaddressed within a reasonable time frame, please contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint). TRUSTe shall then work as a liaison with us to resolve your concerns. 
 
 **Third Party Cookies**
 
