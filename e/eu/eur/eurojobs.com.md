@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurojobs.com privacy policy that was archived on 2011-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110214080003id_/http%3A//www.eurojobs.com/en/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurojobs.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124035037id_/http%3A//www.eurojobs.com/en/main/privacy) for the most accurate reproduction.*
 
 # Homepage
 
@@ -12,7 +12,7 @@ This statement discloses the privacy practices for www.Eurojobs.com. We have des
 
 #### What Information We Gather/Track
 
-We collect and store some or all of the following information about our users: name; email address; and billing information, such as address, phone number and CV details. Eurojobs does not store credit card details. We also receive and may store certain types of information whenever you interact with us. For example, we obtain certain types of information when your Web browser accesses Eurojobs.com. In order to tailor our subsequent communications to you and continuously improve our products and services (including registration), we may also ask you to provide us with information regarding your personal or professional interests, demographics, experience with our services, and more detailed contact preferences. You will have the option of choosing not to provide us with this information. 
+We collect and store some or all of the following information about our :users => name; email address; and billing information, such as address, phone number and CV details. Eurojobs does not store credit card details. We also receive and may store certain types of information whenever you interact with us. For example, we obtain certain types of information when your Web browser accesses Eurojobs.com. In order to tailor our subsequent communications to you and continuously improve our products and services (including registration), we may also ask you to provide us with information regarding your personal or professional interests, demographics, experience with our services, and more detailed contact preferences. You will have the option of choosing not to provide us with this information. 
 
 #### Use of Data
 
@@ -50,9 +50,9 @@ Users can update, correct, or delete their personal information on Eurojobs.com 
 
 Privacy Coordinator   
 Eurojobs.com Ltd   
-80-83 Long Lane   
-London   
-EC1A 9ET   
+Upton Fold   
+Bosley   
+Macclesfield SK11 0PX   
 United Kingdom   
 Tel: +44 (0)20 33724781   
 [privacy@eurojobs.com](mailto:privacy@eurojobs.com)
