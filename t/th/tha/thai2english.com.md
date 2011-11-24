@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thai2english.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606132052id_/http%3A//www.thai2english.com/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thai2english.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124030916id_/http%3A//www.thai2english.com/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
