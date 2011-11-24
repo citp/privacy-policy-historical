@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the penzu.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429040940id_/http%3A//penzu.com/content/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penzu.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124152153id_/http%3A//penzu.com/content/aboutus/privacy) for the most accurate reproduction.*
 
 # Penzu | Privacy Policy
 
-_Date of last revision: October 1 2009_
+_Date of last revision: July 7 2011_
 
 Penzu Inc. (hereafter "Penzu", "we", "our", "us") recognizes the importance of privacy and the sensitivity of personal information. This privacy policy ("Privacy Policy") outlines how we manage your personal information and safeguard your privacy. Capitalized terms not herein defined shall have the meaning ascribed to them in the Penzu Terms and Conditions of Use (a copy of which may be found at http://penzu.com/content/terms).
 
@@ -34,10 +34,6 @@ If we propose to use your Personal Information for any other purpose than those 
 
 Site Information is collected for statistical purposes and to better serve our users. Our cookies are used to store session data and to help with the usability of our Site. We monitor the Site and analyze traffic patterns to help us with our research and development and create a better experience for you on the Site. Penzu may also keep track of whether external links presented on the Site are followed. We do not link IP addresses to Personal Information nor do we distribute or share IP information with any third party.
 
-Non-personally identifiable information may also be used to display customized content and targeted advertising. Such customized content and targeted advertising will be automatically generated based on Site Information and/or keywords in User Content. Any information that is used to generate such customized content and targeted advertising is in no way disclosed to any third parties nor personally identifiable.
-
-Penzu permits third parties that present advertisements on the Site to set and access their cookies on your computer. The use by such third parties of their cookies is governed by these parties' own privacy policies.
-
 5\. DISCLOSURE OF PERSONAL INFORMATION
 
 We will seek your prior consent to the collection, use and disclosure of the Personal Information as required by applicable privacy legislation. Subject to legal and contractual requirements, you can refuse to consent to our collection, use or disclosure of Personal Information about you. You may also withdraw your consent to any further collection, use or disclosure of Personal Information about you at any time by giving us reasonable notice. Such withdrawal of consent may limit your ability to use all or parts of the Service.
@@ -55,6 +51,8 @@ Penzu will try to ensure that Personal Information about you is accurate, comple
 Penzu is committed to protecting your privacy and the privacy and security of your User Content. In addition to your Account password, Penzu also provides holders of free Accounts with the option of password protecting specific journal entries through the use of a "Basic Lock" which is a second password for entries, and is not encrypted on our servers. This "Basic Lock" does not alter the files on our server, and the password used to lock any User Content can be retrieved if a request is made to support@penzu.com. Penzu Pro Users will be able to use an "Encryption Lock" which uses a layered process to encrypt the User Content of your entries using 256-bit AES encryption algorithms. In the event that you lose the password to your Encryption Locked User Content, all encrypted data will not be able to be retrieved and Penzu will not be able to assist you with recovering your data. You assume all responsibility for the maintenance and recollection of your Encryption Lock password, and Penzu specifically disclaims all responsibility and liability with respect to Penzu Pro encryption and any loss of data resulting from the loss of any encryption password.
 
 Although we take measures to ensure the privacy and security of your User Content, we cannot guarantee its absolute privacy and security, as no privacy or security measures are perfect or impenetrable. We cannot control the actions of other users whom you have shared any Personal Information or Account information with, and therefore we do not guarantee that unauthorized individuals will not obtain access to your private User Content or Personal Information. We are also not responsible for any circumvention of our privacy or security systems. Users are encouraged to password protect any journal entries which they do not want to share with others.
+
+Further more, we recognize that User Data is private and confidential. Ergo, any unauthorized reading or sharing of User Data or User Entries is forbidden by Penzu and Penzu Employees. Doing so would violate this Privacy Policy and the ethos of our Company and Service.
 
 8\. USER MESSAGES
 
