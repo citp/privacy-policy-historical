@@ -1,0 +1,460 @@
+<!--The following is the downloaded HTML source of the independentlivingnews.com privacy policy that was archived on 2011-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124043050id_/http%3A//independentlivingnews.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+
+	<title>Privacy Policy - IndependentLivingNews.com</title>
+
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<!--<link rel="stylesheet" type="text/css" href="grid.css" /> -->
+<link rel="shortcut icon" href="http://www.independentlivingnews.com/wp-content/themes/sandbox/favicon.ico">
+
+<!--[if IE 7 ]>
+<link rel="stylesheet" href="/wp-content/themes/sandbox/ie7.css" type="text/css"  >
+<![endif]-->  
+	<link rel="stylesheet" type="text/css" href="http://www.independentlivingnews.com/wp-content/themes/sandbox/style.css">
+
+	<meta name="robots" content="noindex,nofollow">
+<link rel="alternate" type="application/rss+xml" title="Independent Living News » Privacy Policy Comments Feed" href="http://www.independentlivingnews.com/privacy-policy/feed/">
+<link rel="stylesheet" id="merlic_poll_css_default-css" href="http://www.independentlivingnews.com/wp-content/plugins/poll-lite/style/default.css?ver=3.2.1" type="text/css" media="all">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.independentlivingnews.com/wp-includes/js/l10n.js?ver=20101110"></script>
+<script type="text/javascript" src="http://www.independentlivingnews.com/wp-includes/js/jquery/jquery.js?ver=1.6.1"></script>
+<script type="text/javascript" src="http://www.independentlivingnews.com/wp-content/plugins/poll-lite/js/default.js?ver=3.2.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.independentlivingnews.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.independentlivingnews.com/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="Independent Living News" href="http://www.independentlivingnews.com/">
+<link rel="prev" title="Colloidal Silver Generator Kit" href="http://www.independentlivingnews.com/manuals-reports/colloidal-silver-generator-kit/">
+<link rel="next" title="Ready for Anything Reports" href="http://www.independentlivingnews.com/ready-for-anything-reports/">
+<meta name="generator" content="WordPress 3.2.1">
+<link rel="canonical" href="http://www.independentlivingnews.com/privacy-policy/">
+<link rel="shortlink" href="http://tinyurl.com/6oyy9e9">
+
+	<link rel="alternate" type="application/rss+xml" href="http://www.independentlivingnews.com/feed/" title="Independent Living News latest posts">
+
+	<link rel="alternate" type="application/rss+xml" href="http://www.independentlivingnews.com/comments/feed/" title="Independent Living News latest comments">
+
+	<link rel="pingback" href="http://www.independentlivingnews.com/xmlrpc.php">
+    
+    
+   <!--REDESIGNED NEWS PAGE-->
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+    
+              
+    
+
+<script type="text/javascript">
+$(document).ready(function() {	
+
+	//Show Banner
+	$(".main_image .desc").show(); //Show Banner
+	$(".main_image .block").animate({ opacity: 0.85 }, 1 ); //Set Opacity
+
+	//Click and Hover events for thumbnail list
+	$(".image_thumb ul li:first").addClass('active'); 
+	$(".image_thumb ul li").click(function(){ 
+		//Set Variables
+		var imgAlt = $(this).find('img').attr("alt"); //Get Alt Tag of Image
+		var imgTitle = $(this).find('a').attr("href"); //Get Main Image URL
+		var imgDesc = $(this).find('.block').html(); 	//Get HTML of block
+		var imgDescHeight = $(".main_image").find('.block').height();	//Calculate height of block	
+		
+		if ($(this).is(".active")) {  //If it's already active, then...
+			return false; // Don't click through
+		} else {
+			//Animate the Teaser				
+			$(".main_image .block").animate({ opacity: 0, marginBottom: -imgDescHeight }, 130 , function() {
+				$(".main_image .block").html(imgDesc).animate({ opacity: 0.85,	marginBottom: "0" }, 130 );
+				$(".main_image img").attr({ src: imgTitle , alt: imgAlt});
+			});
+		}
+		
+		$(".image_thumb ul li").removeClass('active'); //Remove class of 'active' on all lists
+		$(this).addClass('active');  //add class of 'active' on this list only
+		return false;
+		
+	}) .hover(function(){
+		$(this).addClass('hover');
+		}, function() {
+		$(this).removeClass('hover');
+	});
+			
+	//Toggle Teaser
+	$("a.collapse").click(function(){
+		$(".main_image .block").slideToggle();
+		$("a.collapse").toggleClass("show");
+	});
+	
+});//Close Function
+</script>
+
+    
+    
+   
+    
+	<script type="text/javascript" src="/wp-content/themes/sandbox/js/newproductpage_newdesign.js"></script>
+<!--<script type="text/javascript" src="/wp-content/themes/sandbox/js/iepngfix_tilebg.js"></script>-->
+<!--let's do the animation-->
+<script type="text/javascript"> 
+function start() { 
+LLmppricedisplay();
+	} 
+	window.onload = start; 
+$(function() {
+		// set opacity to nill on page load
+		$("ul#menu span").css("opacity","0");
+		// on mouse over
+		$("ul#menu span").hover(function () {
+			// animate opacity to full
+			$(this).stop().animate({
+				opacity: 1
+			}, "slow");
+		},
+		// on mouse out
+		function () {
+			// animate opacity to nill
+			$(this).stop().animate({
+				opacity: 0
+			}, "slow");
+		});
+	});
+</script>
+
+
+
+
+<!--Sign up START -->
+
+
+
+ <script type="text/javascript">
+ function validate19()
+  {
+  var isValid = true;
+ var isNewsletterSelected = true;
+  var errorString = '';
+  var x = document.OptinForm19;
+  if (x.field27.value == "")
+ {
+ errorString = errorString + "Ad Capture\n";
+ isValid = false;
+ }
+ if (x.UEmail.value== "")
+ {
+ errorString = errorString + "Email Address. \n ";
+  isValid = false;
+ }
+  else {
+  if (x.UEmail.value.indexOf("@") == -1 || x.UEmail.value.indexOf(".") == -1)
+ {
+ errorString = errorString + 'Invalid email address.';
+ isValid = false;
+ }
+ }
+ 
+ if (isValid == true && isNewsletterSelected == true)
+ {
+x.submit.disabled = true;
+ return true; 
+ }
+ else
+ {
+  if (isNewsletterSelected == false)
+ {
+  errorString = errorString +"----------------------\nPlease select at least one subscription"; 
+}
+  alert("Following fields are required:\n\n"+ errorString);  return false; } 
+ }
+ </script>
+
+
+
+
+
+
+
+<script type="text/javascript" src="http://www.independentlivingnews.com/wp-content/themes/sandbox/header_signup/jqModal.js"></script>
+<script type="text/javascript">
+$().ready(function() {
+	$('#dialog').jqm({modal: true, trigger: 'a.showDialog'});
+	$('#dialog2').jqm({modal: true, trigger: 'a.showDialog2'});
+	$('#dialog3').jqm({modal: true, trigger: 'a.showDialog3'});
+	$('#dialog4').jqm({modal: true, trigger: 'a.showDialog4'});
+});
+ </script>
+ 
+<link href="http://www.independentlivingnews.com/wp-content/themes/sandbox/header_signup/jqModal.css" rel="stylesheet" type="text/css">
+<link href="http://www.independentlivingnews.com/wp-content/themes/sandbox/header_signup/button.css" rel="stylesheet" type="text/css">
+
+
+<!--Sign up  END-->
+
+
+
+</head>
+
+
+
+<body class="wordpress y2011 m11 d24 h00 page pageid-1423 page-author-lee-bellinger">
+
+<!-- Google Code for ILN Visitors Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 955424808;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "Sg9kCIiamQMQqMDKxwM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/955424808/?label=Sg9kCIiamQMQqMDKxwM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<div id="wrapper">
+
+
+
+	<div id="header">
+
+
+        
+    <div id="ilnlogo"> 
+<img src="/wp-content/themes/sandbox/images/headerpngs/ilnlogo.png" title="American Lantern Press Logo" alt="American Lantern Press">    </div>    
+
+  	  <div id="ilntitle"> 
+<img src="/wp-content/themes/sandbox/images/headerpngs/ilntitle.png" title="Independent Living News" alt="Independent Living News - An American Lantern Press Publication">    <!--<h1>Independent Living News </h1>
+    <h3> an American Lantern Press Publication</h3>-->
+ </div>    
+ 
+ 
+ <div id="signuptop">
+ 
+ <div class="attention"> <a href="#" class="regular showDialog"><img src="http://www.independentlivingnews.com/wp-content/themes/sandbox/images/privacydefense.png" width="150" border="0" alt="Learn how to defend your privacy and much more - Sign up today!"> </a></div>
+        <div class="buttons">
+    
+
+            <a href="#" class="regular showDialog"><!-- class="regular"-->
+          <span style="color:#00375F; font-weight:bold;">  Get our <span style="font-weight:bold;font-size:1.5em;color:#D10000;">FREE</span> email  <br>alerts in seconds!</span>
+            </a>
+            </div>
+            
+<div class="jqmWindow" id="dialog">
+   <a href="#" class="jqmClose">close (x)</a>
+
+<div style="height:300px;width:400px;">     
+     <form id="Optin19" class="headersignupform" name="OptinForm19" method="post" action="http://click.oo155.com/OptIn.aspx?OptinFormID=19&amp;26241823=2334" onsubmit="return validate19();">
+        <input type="hidden" name="OptinFormID" value="19">
+        <input type="hidden" name="26241823" value="2334">
+        <input type="hidden" name="field27" value="111124_IndependentLivingNews_Website">
+        <input type="text" class="headersignupFirstName" name="field6">
+        <input type="text" class="headersignupLastName" name="field7">
+        <input type="text" class="headersignupEmail" name="UEmail">
+        <input type="image" class="headersignupsubmit" name="submit" value="Submit">
+    </form>
+    
+    <div id="headersignupprivacypolicy"><p><a href="http://www.independentlivingnews.com/privacy.php" target="_blank">Privacy Policy</a> </p></div>
+    
+</div>
+
+            
+</div>
+ 
+ 
+ 
+ 
+
+ <div id="navigation">
+				<ul id="menu">
+<li><a href="http://www.independentlivingnews.com/" class="home"><span></span></a></li>
+<li><a href="http://www.independentlivingnews.com/about/" class="about"><span></span></a></li>
+<li><a href="http://www.independentlivingnews.com/manuals-reports/" class="manualsreports"><span></span></a></li>
+<li><a href="http://www.independentlivingnews.com/faq/" class="faq"><span></span></a></li>
+<li><a href="http://www.independentlivingnews.com/contact/" class="contact"><span></span></a></li>
+				</ul>
+    </div>
+
+        
+
+	</div><!--  #header -->
+
+
+
+
+	<div id="container">
+
+		<div id="content">
+
+
+
+
+
+
+			<div id="post-1423" class="hentry p1 page publish author-lee-bellinger untagged y2011 m09 d14 h10">
+
+				<h1 class="entry-title">Privacy Policy</h1>
+
+				<div class="entry-content">
+
+<div>AMERICAN LANTERN PRESS/ Independent Living values your privacy, and as a result we do only the minimum collection of information on our visitors in order to provide you with the best possible service we can. The information below describes the limited extent to which we collect and utilize your personal information online.</div>
+<h3>What We Collect from the User</h3>
+<ol>
+<li style="margin-bottom: 12px;">During general visits to the site, AMERICAN LANTERN PRESS/ Independent Living collects generic information about our visitors like pages browsed, web browser, and general computer information using Google Analytics. At no time is this linked to your personal data, but this general information helps AMERICAN LANTERN PRESS/ Independent Living improve its website and services.</li>
+<li style="margin-bottom: 12px;">During checkout/purchasing of products, AMERICAN LANTERN PRESS/ Independent Living collects the relevant information from the customer necessary to fulfill any orders placed – and nothing more.</li>
+</ol>
+<h3>How Do We Use It</h3>
+<ol>
+<li style="margin-bottom: 12px;">General information collected during a visit to our website (without purchase) is used to modify our site to give the visitor the best possible experience on the site.</li>
+<li style="margin-bottom: 12px;">Personal data collected in the course of an actual purchase is used by the company to fulfill the person’s order.</li>
+</ol>
+<h3>Third Party Companies</h3>
+<ol>
+<li style="margin-bottom: 12px;">At no time does AMERICAN LANTERN PRESS/ Independent Living sell, rent, or give away your email address. In the event you receive a “Third Party” email from AMERICAN LANTERN PRESS/ Independent Living it will always be sent from AMERICAN LANTERN PRESS/ Independent Living and that “Third Party” advertiser NEVER sees or is given access to any of your person information, including your email address.</li>
+</ol>
+<div>If you need to modify the limited customer data we possess or wish to “opt-out” of any free content or marketing you have received, please contact us toll free at 1-877-371-1807.</div>
+
+
+
+
+
+
+
+
+
+				</div>
+
+			</div><!-- .post -->
+
+
+
+
+
+
+		</div><!-- #content -->
+
+	</div><!-- #container -->
+
+
+
+
+
+
+	<div id="footer">
+    
+
+<div id="enteremail"> 
+
+  <form id="Optin19" class="Optin19" name="OptinForm19" method="post" action="http://click.oo155.com/OptIn.aspx?OptinFormID=19&amp;26241823=2334" onsubmit="return validate17();">
+<input type="hidden" name="OptinFormID" value="19">
+<input type="hidden" name="26241823" value="2334">
+<input type="hidden" name="field27" value="111124_IndependentLivingNews_Website">
+<input type="text" name="UEmail">
+<input type="image" src="/wp-content/themes/sandbox/images/footerpngs/footersignup.png" class="emailsubmit" name="submit" value="Submit">
+
+</form>
+ 
+
+</div>
+
+<!--
+<div class="footersocial">
+
+ <a href="#" > <img src="images/headerpngs/feed.png" /></a>
+ <a href="#" > <img src="images/headerpngs/facebook.png" /></a>
+ <a href="#" > <img src="images/headerpngs/twitter.png" /></a>
+
+ </div>
+ -->
+ 
+<div class="footernav"> 
+    <h3> Navigate</h3>
+    <ul id="botnav">
+<li><a href="http://independentlivingnews.com/home/" class="home">Home</a></li>
+<li><a href="http://independentlivingnews.com/about/">About</a></li>
+<li><a href="http://www.independentlivingbullion.com" target="_blank">Precious Metals</a></li>
+<li><a href="http://independentlivingnews.com/manuals-reports/">Manuals/Reports</a></li>
+<li><a href="http://independentlivingnews.com/faq/">FAQ</a></li>
+<li><a href="http://independentlivingnews.com/privacy-policy/">Privacy Policy</a></li>
+<li><a href="http://independentlivingnews.com/contact/">Contact</a></li>
+</ul>
+
+</div>
+
+	</div><!-- #footer -->
+
+<div id="copyright">©
+	<script type="text/javascript">
+	<!-- 
+	var currentTime = new Date()
+	var newyear = currentTime.getFullYear();
+	document.write(newyear);
+ //--> </script>2020 American Lantern Press. All Rights Reserved. • 377 Rubin Center Dr, Suite 203 • Fort Mill, SC • 29708<br>
+ Call: (877) 371-1807 24 hr. hotline to order by phone
+
+</div>
+
+   <script type="text/javascript"> 
+ function validate19()
+  {
+  var isValid = true;
+ var isNewsletterSelected = true;
+  var errorString = '';
+  var x = document.OptinForm19;
+  if (x.field27.value == "") 
+ {
+ errorString = errorString + "\n";
+ isValid = false;
+ }
+ if (x.UEmail.value== "")
+ { 
+ errorString = errorString + "Email Address. \n ";
+  isValid = false;
+ }
+  else {
+  if (x.UEmail.value.indexOf("@") == -1 || x.UEmail.value.indexOf(".") == -1)
+ {
+ errorString = errorString + 'Invalid email address.';
+ isValid = false;
+ }
+ }
+ 
+ if (isValid == true && isNewsletterSelected == true)
+ { 
+x.submit.disabled = true;
+ return true;  
+ } 
+ else 
+ { 
+  if (isNewsletterSelected == false)
+ {
+  errorString = errorString +"----------------------\nPlease select at least one subscription";  
+}
+  alert("Following fields are required:\n\n"+ errorString);  return false; }  
+ }
+ </script>
+    
+
+</div>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-10335734-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+</div></body></html>
