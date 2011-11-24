@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tulumba.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618031021id_/http%3A//www.tulumba.com/storeContent.asp%3FPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tulumba.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124021841id_/http%3A//www.tulumba.com/storeContent.asp%3FPrivacy) for the most accurate reproduction.*
 
 # #Privacy Policy Statement: Tulumba.com
 
