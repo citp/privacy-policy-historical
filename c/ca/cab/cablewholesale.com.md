@@ -1,20 +1,6 @@
-> *The following text is extracted and transformed from the cablewholesale.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523183426id_/http%3A//www.cablewholesale.com/index.php%3Fbody%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cablewholesale.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124165129id_/http%3A//www.cablewholesale.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - CableWholesale.com
-
-  
-| 
-
-  
-
-
-## Privacy Policy
-
-  
-
-
-  
-
+# Privacy Policy
 
 Here at CableWholesale.com, we know it can at times feel forbidding to input personal information with your order. Customers are sometimes hesitant to enter e-mail addresses, phone numbers, or credit card information. We have therefore adopted the following Privacy Policy, so that our customers may be assured that their personal information never leaves our company, and is used only for practical purposes in the order process. Listed below are our policies.
 
@@ -34,10 +20,4 @@ Here at CableWholesale.com, we know it can at times feel forbidding to input per
 
 
 
-If you have any questions regarding these policies, or would like to discuss them further with our Customer Service team, please feel free to [contact us](https://web.archive.org/index.php?body=Contact) via phone, fax, or e-mail. Please check back from time to time to view any changes or additions to our Privacy Policy.
-
-  
-
-
-|   
-
+If you have any questions regarding these policies, or would like to discuss them further with our Customer Service team, please feel free to [contact us](https://web.archive.org/contact_us.html) via phone, fax, or e-mail. Please check back from time to time to view any changes or additions to our Privacy Policy.
