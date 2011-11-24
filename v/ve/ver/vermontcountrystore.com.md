@@ -1,162 +1,50 @@
-> *The following text is extracted and transformed from the vermontcountrystore.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201174639id_/http%3A//www.vermontcountrystore.com/security_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vermontcountrystore.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124111540id_/http%3A//www.vermontcountrystore.com/store/company/static/Customer-Service/Privacy-%26-Security) for the most accurate reproduction.*
 
-# The Vermont Country Store - Security Policy
+# Privacy-and-Security
 
-Privacy Statement For "http://www.vermontcountrystore.com"
+## Introduction
 
-The Vermont Country Store has created this privacy statement in order to demonstrate our firm commitment to privacy and to the protection of the information we ask you to give us.
+This website, http://www.vermontcountrystore.com, is owned and operated by The Vermont Country Store. This Privacy Policy pertains to information collected online via this website, and does not apply to information collected from other sources. The Vermont Country Store may be contacted by email at customerservice@vermontcountrystore.com, by phone at 802-776-5730, or by mail at:
 
-The following discloses our information gathering and dissemination practices for this website: http://www.vermontcountrystore.com.
+The Vermont Country Store 5650 Main Street Manchester Center, VT 05255
 
-How We Use Your IP Address  
-Your Shopper ID  
-Cookies  
-Contact Information  
-Links To Other Web Sites  
-Our On-Line Order Form  
-Sharing Information You Provide Us With Third Parties  
-Public Forums  
-Security  
-Choice / Opt-Out  
-Correct / Update  
-Contacting The Web Site  
+## Information Collected
 
+Certain anonymous information is collected automatically by our site. This information may include visitor domain name, IP address, and referring domain. This information is tracked in server logs, and may be used for troubleshooting purposes. Our website also collects aggregate information, such as page views and visits, in an effort to keep our content relevant to our customers. This information is not customer-specific.
 
-How We Use Your IP address
+Personal information collected by our site is used for transactional and/or promotional and marketing purposes, and is encrypted using the Secure Socket Layer (SSL) protocol before transmission and storage. Personal information may include your name, address, and credit card number. We collect and use such information to better enhance your shopping experience, and for other transactional and promotional purposes, such as to:
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart.
+  * Process, track, and fulfill your orders
+  * Market our products and services
+  * Inform you of special offers and promotions
+  * Include you in surveys and contests
+  * Manage and develop The Vermont Country Store's business and operations
+  * Contact you for any other legitimate business purpose
 
-Your Shopper ID
 
-Our site assigns you a unique shopper identification code. We use this code to:
 
-  * identify the items in your shopping cart
-  * identify you when you return to our site and as you move through different pages on our site
-  * identify your order in our order processing system
+We may share your name and address information with certain trusted resources unless you choose to be put on our do-not-share list. To be put on our do-not-share list, please contact our Customer Service department.
 
+## Cookies and Tracking Pixels
 
+A Cookie is a small data file stored by your Web browser on your computer's hard drive. Cookies allow The Vermont Country Store website to keep track of your order information, such as items placed in your Shopping Bag. Cookies also allow us to provide customers with a more personalized experience.
 
-We may aggregate information about the pages you visit with information about the pages that other shoppers visit. In doing this, we do not associate the contact information you supply us with your shopper identification.
+Tracking Pixels are small images that are used by the website to identify pages that are being viewed by customers. No personal data is collected when these images are viewed. Aggregate data from Tracking Pixels is used to improve the customer experience. Cookies and Tracking Pixels may be disabled in your browser. If disable, however, certain portions of The Vermont Country Store website may not function.
 
-Cookies
+The Vermont Country Store may contract with third parties who may also use Cookies and Tracking Pixels to collect data on our behalf, or to provide services such as credit card processing, shipping, promotional services or data management. These third parties are prohibited from sharing that information with anyone other than The Vermont Country Store or our partners.
 
-Our site uses cookies to keep track of your shopping cart. We use cookies to deliver content specific to your interests and to save your password so you don't have to reenter it each time you visit our site.
+## Account Registration
 
-Cookies are not required to browse our site but they are required to place an order.
+To make online shopping easier, you may register for an account on our website. Information provided by you, such as name and billing address, will be stored securely for future use. You may access and update this information at any time. By creating an account and sharing you billing or email address, you will be added to our customer mailing list, and may receive periodic mailings from us. You may opt out of these mailings at the time of account registration, or by contacting our Customer Service department.
 
-If you prefer not to turn on cookies to shop this site, we invite you to browse the site and place items in the shopping basket that you wish to purchase. Before you check out, you may print the page that lists your order and: 
+## Children’s Privacy
 
-  * Call us at 1-802-362-8460 to place your order 
-    * Mon - Fri: 7:00am to Midnight Eastern Time
-    * Sat - Sun: 8:00am to 8:00pm Eastern Time
-    * Other hours: Please leave your order on our telephone answering system
+Our Web site is not intended for use by children under the age of 13, and we do not knowingly collect personal information from children under the age of 13.
 
+## California Privacy Rights
 
-  * Fax your order to: 1-802-362-0285  
+The Vermont Country Store may from time to time share your personal information with third parties for their direct marketing purposes. California residents who provide personal information when purchasing products may request information about the customer information shared with other businesses for their own direct marketing uses. Each consumer may request our direct marketing information once per year, and our response will cover the immediately preceding calendar year. This information would include the categories of shared customer information and the names and addresses of those businesses with which we shared customer information.
 
-  * Mail your order to: 
+## Policy Changes
 
-> The Vermont Country Store Mail Order Office  
->  P.O. Box 3000  
->  Manchester Center, VT 05255-3000 
-
-
-
-
-When placing your order, please have your payment information ready or enclose it with your order.
-
-Contact Information 
-
-Our site's registration form requires users to give us contact information (such as their name and email address). The customer's contact information is used to contact the visitor when necessary. Occasionally, we may make your contact information available to other reputable companies that offer products or services that we think may interest you. These companies may use this information to solicit you to purchase their products or services. Users may opt-out of receiving future mailings from the Vermont Country Store or opt out from having their names supplied to others; see the choice/opt-out section below.
-
-We may also use your contact information and information about the products you purchase and may aggregate it with other shopper's personal information in order to identify specific purchasing trends or purchasing patterns.
-
-Links to Other Web Sites
-
-This site contains links to other sites. Please note that http://www.vermontcountrystore.com is not responsible for the privacy practices or the content of such Web sites.
-
-Our On-Line Order Form
-
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their credit card numbers) as part of our order form. Contact information from the order form is used to send orders and information about our company to our customers. The customer's contact information is also used to get in touch with the visitor when necessary.
-
-Occasionally, we may make your contact information available to other reputable companies that offer products or services that we think may interest you. These companies may use this information to solicit you to purchase their products or services. 
-
-Users may elect to be excluded from receiving future mailings from the Vermont Country Store and users may elect to have their names supplied to others. For additional information, please see the choice/opt-out section below.
-
-We may also use your contact information and information about the products you purchase and may aggregate it with other shopper's personal information in order to identify specific purchasing trends or purchasing patterns.
-
-Financial information (such as credit card numbers) that is collected on the order form is used to bill the user for products and services. We do not store credit card numbers or expiration dates on this web site and do not aggregate credit card information with any other information we may collect on the site. 
-
-For security reasons, we ask you to enter a credit card number each time you place an order with us.
-
-Sharing Information You Provide Us With Third Parties
-
-The personal information you have provided us and information about your order may be shared with third parties. This information may be combined with other personally identifiable information (such as demographic information and past purchases information) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. It may also be used by our marketing partners to bring you offers of interest. To learn more about our marketing partner, click [here](http://www.plazadirect.com/index.cfm?main=privacy&ccsyn=186).
-
-If you prefer that we do not share your name and address with marketing partners, please email us at [this address](mailto:customerservice@vermontcountrystore.com).
-
-If you agreed to receive email from our marketing partners, we will share with them your email address and the information described above, so they can send you offers for products and services that may be of interest to you. We will only share your email address if you have opted in by checking the appropriate box.
-
-Additionally, each email our partners send you will include a description of the simple opt-out process to enable you to stop receiving future emails.
-
-Public Forums
-
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. The Vermont Country Store reserves the right to monitor these chat rooms, forums, message boards and/or news groups and remove items and postings that we deem are slanderous, false, misleading or damaging to the purpose of the public forum.
-
-Security
-
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We do not store credit card numbers on our site.
-
-To protect your credit card numbers, we require you to enter your credit card information each time you place an order with us. All transaction information that you supply to us from your browser is exchanged with our server using a secure hypertext protocol. This protects information from compromise as it travels between your computer and our Web server. Contact information (such as your name, address and telephone) that you supply us is stored in a secured database on our server or on our order processing system.
-
-| You can verify the status of the certificate we use to encrypt your transaction and credit-card information by clicking on the logo. |   
----|---  
-  
-Choice/Opt-Out
-
-Our site provides users the opportunity to either elect to or elect not to receive communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database or for electing not to receive future communications from us:
-
-  1. You can send email to [customerservice@vermontcountrystore.com](mailto:customerservice@vermontcountrystore.com?subject=Your%20Mailing%20List%20\(E004\))
-  2. You can visit [this page](https://web.archive.org/mbrMembership.asp) and update your membership profile [ ](https://web.archive.org/mbrMembership.asp)
-  3. You can call the following telephone number: **1-802-362-8460**
-  4. You can send mail to the following postal address:
-
-
-
-> The Vermont Country Store  
->  Attn: Mailing List Maintenance  
->  5650 Main Street  
->  P.O. Box 1108  
->  Manchester Center, VT 05255-1108
-
-When contacting us about changing and modifying your contact information, please include your customer number from a recent order form and a copy of your contact information from a recent communication with us.
-
-Correct/Update
-
-This site gives users the following options for changing and modifying information previously provided.
-
-  1. You can send email to [customerservice@vermontcountrystore.com](mailto:privacy@vermontcountrystore.com?subject=Your%20Mailing%20List%20\(E004\))
-  2. You can visit [this page](https://web.archive.org/mbrMembership.asp) and update your membership profile
-  3. You can call the following telephone number: **1-802-362-8460**
-  4. You can send mail to the following postal address:
-
-
-
-> The Vermont Country Store  
->  Attn: Mailing List Maintenance  
->  5650 Main Street  
->  P.O. Box 1108  
->  Manchester Center, VT 05255-1108 USA
-
-When contacting us about changing and modifying your contact information, please include your customer number from a recent order form and a copy of your contact information from a recent communication with us.
-
-Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
-
-Director, Electronic Commerce   
-The Vermont Country Store  
-5650 Main Street  
-P.O. Box 1108  
-Manchester Center, VT 05255-1108 USA  
-Email: [customerservice@vermontcountrystore.com](mailto:customerservice@vermontcountystore.com?subject=Security%20Policy%20\(E004\))
+Changes to this policy may occur in the future. Changes to our Privacy Policy will be posted to The Vermont Country Store website. We encourage you to review this Privacy Policy periodically.
