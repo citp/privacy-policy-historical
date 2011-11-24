@@ -1,41 +1,6 @@
-> *The following text is extracted and transformed from the ryansreview.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831083612id_/http%3A//www.ryansreview.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryansreview.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124033612id_/http%3A//www.ryansreview.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Dropshipping Reviews
-
-Wealth Programs 
-
-Miscellaneous
-
-RyanMoran@RyansReview.com
-
-What People Are Saying
-
-I came across RyansReview back in January when I was looking for reviews for dropshippers to sell stuff on eBay. I was intrigued by the site and learned a lot from there. I am now making over $2000/month in my limited spare time. 
-
-Ryan's recommendations have led me into a business that will help me put my kids through college. Thank you, Ryan!"
-
-**-Dan K.**  
-Milwaukee, WI 
-
-"Ryan, thank God I stumbled upon your site!! Finally someone actually out there trying to help people and not just scam them and take their money. Reading some of the comments on your site I can tell you are a good person and that you walk under God and he has blessed you. Keep up the good work!!" 
-
-**-Rich M.**
-
-"Hi Ryan, Thanks to your site, my eBay sales and pursuits are headed in a much more profitable direction with drop shipping. Your commitment to help others and your concern for them is genuine, and even a novice can improve their situation by the processes and steps in your website. Thanks, Ryan!"
-
-**-Nancy S.**
-
-"Thanks so much, Ryan. You've really helped me out! Love your site, bro!" 
-
-**-Mark S.**
-
-"You are a freaking saint, dude! Thank you so much for your help." 
-
-**-Jason O.**
-
-Most Popular Reviews 
 
 PRIVACY POLICY FOR RyansReview.com
 
@@ -102,3 +67,7 @@ ryanmoran@ryansreview.com
 REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE
 
 This Privacy Policy is dynamic. It will continually change. You may not assume that it remains the same and you agree to check the policy each time you visit the site for changes. Unless, in the sole opinion of the website, this policy changes so drastically as to suggest a posted notification on the site or via email, you will receive no notification of changes to this Privacy Policy nor, under any circumstances, does this site promise notification. Your continued use of this site always evidences your acceptance of the terms this Privacy Policy or any modifications.
+
+Browse >
+
+[Home](http://www.ryansreview.com/ "Browse to: Home") / Privacy Policy 
