@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zwsoft.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602001447id_/http%3A//www.zwsoft.com/en/index.php%3Fm%3Dcontent%26c%3Dindex%26a%3Dlists%26catid%3D250) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zwsoft.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124150042id_/http%3A//www.zwsoft.com/en/about/privacyPolicys) for the most accurate reproduction.*
 
-# Privacy Policy - ZWSOFT.COM
+# Privacy Policy - ZWSOFT.com
 
 ZWCAD Software Co., Ltd (ZWSOFT) would like to thank you for visiting our website. We know many visitors have questions regarding the privacy of their interactions with ZWSOFT. We hope this privacy policy statement will answer any questions you may have, but if it does not, please feel free to contact us at the email address or postal address shown below.   
 The Contents of this statement are organized as follows: 
