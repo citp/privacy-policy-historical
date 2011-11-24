@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the roliana.com privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317072738id_/http%3A//www.roliana.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roliana.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124030910id_/http%3A//www.roliana.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for Roliana
 
 ### Who we Are
 
-In this privacy policy references to “we”, “us” and “our” are to Kooc Media Ltd. References to “our Website” or “the Website” are to www.roliana.com
+In this privacy policy references to “we”, “us” and “our” are Truelight Media Ltd. References to “our Website” or “the Website” are to www.roliana.com
 
 ### What information we collect and how
 
@@ -14,7 +14,7 @@ The information we collect via the Website may include.
   2. In order to effectively process credit or debit card transactions it may be necessary for the bank or card processing agency to verify your personal details for authorisation outside the European Economic Area (EEA). Such information will not be transferred out of the EEA for any other purpose.
   3. Your preferences and use of email updates, recorded by emails we send you (if you select to receive email updates on products and offers).
   4. Your IP Address, this is a string of numbers unique to your computer that is recorded by our web server when you request any page or component on the Website. This information is used to monitor your usage of the Website.
-  5. Data recorded by the Website which allows us to recognise you and your preferred settings, this saves you from re-entering information on return visits to the site. Such data is recorded locally on you computer through the use of cookies. Most browsers can be programmed to reject, or warn you before downloading cookies, information regarding this may be found in your browsers ‘help’ facility.
+  5. Data recorded by the Website which allows us to recognize you and your preferred settings, this saves you from re-entering information on return visits to the site. Such data is recorded locally on you computer through the use of cookies. Most browsers can be programmed to reject, or warn you before downloading cookies, information regarding this may be found in your browsers ‘help’ facility.
 
 
 
@@ -31,14 +31,13 @@ We may need to pass the information we collect to other companies for administra
 
 ### Your Rights
 
-You have the right to request a copy of any information that we currently hold about you. In order to receive such information please send your contact details including address and payment of £10 to cover administration expenses to the following address:
+You have the right to request a copy of any information that we currently hold about you. In order to receive such information please send your contact details including address and payment of $10 to cover administration expenses to the following address:
 
 Privacy  
 Roliana  
-PO Box 65  
-Manchester  
-M446UY  
-U.K  
+56 Sheridan Ave  
+Albany, NY  
+U.S.A.  
 
 
 ### Other Websites
