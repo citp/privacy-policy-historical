@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orgsync.com privacy policy that was archived on 2010-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100824081251id_/http%3A//www.orgsync.com/legal-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orgsync.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124174245id_/http%3A//www.orgsync.com/legal-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OrgSync
 
