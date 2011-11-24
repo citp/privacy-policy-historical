@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ladyfootlocker.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525040720id_/http%3A//www.ladyfootlocker.com/content/custserv/help--privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ladyfootlocker.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124122045id_/http%3A//www.ladyfootlocker.com/content/custserv/help--privacyPolicy) for the most accurate reproduction.*
 
 # Lady Foot Locker
 
@@ -78,7 +78,7 @@ Most Web browsers automatically accept cookies, but you can usually change the c
 We may use pixel tags (web beacons) on our Website, in our advertisements on other websites, and in our emails. Pixel tags help us analyze our site users' behavior and evaluate the effectiveness of our Website and our advertising campaigns. We may work with service providers that help us collect and analyze this information. On our Website, we may use pixel tags to collect information about your visit, such as the pages you view, the links you click and other actions you take. In our advertisements on other websites, we may use pixel tags to tell us when you click on the ad and what, if any, action you take on our Website after that (such as making a purchase). In our emails, we may use pixel tags to tell us when you open, click on or take any other action with respect to the message.
 
 **Option to Opt-out**  
-At all times, you have the option of "opting out" of receiving future e-mail marketing updates by sending us an e-mail with "unsubscribe" in the subject line at customer_service@ladyfootlocker.com. Even if you opt out, you may continue to receive non-marketing e-mail messages from us, including, for example, order confirmations.
+At all times, you have the option of "opting out" of receiving future e-mail marketing updates by sending us an e-mail with "unsubscribe" in the subject line at customercare@ladyfootlocker.com. Even if you opt out, you may continue to receive non-marketing e-mail messages from us, including, for example, order confirmations.
 
 **Security of Information**  
 Lady Foot Locker has security measures in place to protect against the loss, misuse or alteration of the information you provide. We encrypt your personal information, including your credit card number, when transmitting over the Internet using triple key encryption technology by Secure Server Certification Authority RSA Data Security Inc. US and a VeriSign SSL (Secure Socket Layer), to safeguard your Internet transactions. VeriSign, Inc. is a leading provider of Public Key Infrastructure and digital certificate solutions used by enterprises, websites and consumers to conduct secure communications and transactions over the Internet and private networks.
@@ -94,7 +94,7 @@ If you are a California resident, you may request certain information regarding 
 **Contacting the Website**  
 Should you have any further questions regarding this Privacy Statement, the practices of this Website, or your dealings with this Website, please:
 
-  1. Contact our Customer Service Department at : customer_service@ladyfootlocker.com; or 
+  1. Contact our Customer Service Department at : customercare@ladyfootlocker.com; or 
   2. Write to us at:
 
 
