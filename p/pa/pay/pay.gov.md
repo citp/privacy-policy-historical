@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pay.gov privacy policy that was archived on 2008-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080925050043id_/https%3A//pay.gov/paygov/privacyAndSecurityPolicy.html%3Bjsessionid%3D8bzMLJ7ddLyNQp9vFjnztW7RCpJm7DLJh4PqPLTx1f2WplJ1T7xT%21-112565026%21-979580190%3Fnc%3D1221884733744) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pay.gov privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124175748id_/https%3A//pay.gov/paygov/privacyAndSecurityPolicy.html%3Bjsessionid%3DQyPwTWHTWJtyjqWLyvbMWk2DZdQTdTYH2h3GyWnRypRDzG0vXqyq%21-82766867%3Fnc%3D1318487987266) for the most accurate reproduction.*
 
 # Pay.gov - Privacy And Security Policy
 
@@ -84,7 +84,7 @@ top
 
   9. **Caution About Sending Unencrypted Personal Information Over the Internet**
 
-If you chooseto send Pay.gov personal information electronically or request that we send you personal information electronically (such as by e-mail), we cannot guarantee its confidentiality as it travels across the Internet. While not likely, others could eavesdrop. To make this less likely, we may use encryption to protect information that you send or view via Web pages (this does not apply to e-mail). Pay.gov utilizes a secure transmission protocol (Secure Sockets Layer (SSL)) to provide protection of the Web page communications across the Internet between Pay.gov and your computer. SSL is a commonly used protocol for managing the security of an interactive Web session on the Internet. If the Web page has an address that begins with <https://> rather than <http://> then the page is protected by SSL. 
+If you choose to send Pay.gov personal information electronically or request that we send you personal information electronically (such as by e-mail), we cannot guarantee its confidentiality as it travels across the Internet. While not likely, others could eavesdrop. To make this less likely, we may use encryption to protect information that you send or view via Web pages (this does not apply to e-mail). Pay.gov utilizes a secure transmission protocol (Secure Sockets Layer (SSL)) to provide protection of the Web page communications across the Internet between Pay.gov and your computer. SSL is a commonly used protocol for managing the security of an interactive Web session on the Internet. If the Web page has an address that begins with <https://> rather than <http://> then the page is protected by SSL. 
 
 Information transmitted to and from agencies and third party vendors other than through Web pages will be transmitted through a secure virtual private network connection or dedicated connection.   
 top
