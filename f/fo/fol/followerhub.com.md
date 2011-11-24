@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the followerhub.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229184814id_/http%3A//www.followerhub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followerhub.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124230524id_/http%3A//www.followerhub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy » FollowerHub.com
 
