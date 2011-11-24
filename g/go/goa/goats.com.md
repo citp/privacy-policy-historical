@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the goats.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611040644id_/http%3A//www.goats.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goats.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124035024id_/http%3A//www.goats.com/privacy) for the most accurate reproduction.*
 
 # goats: the privacy policy
 
-[](http://www.topatoco.com/merchant.mvc?Screen=PROD&Store_Code=TO&Product_Code=GOAT-SHOWDOWN&Category_Code=GOAT)
+[](http://www.topatoco.com/merchant.mvc?Screen=PROD&Store_Code=TO&Product_Code=GOAT-RIDES&Category_Code=GOAT)
 
 the privacy policy
 
