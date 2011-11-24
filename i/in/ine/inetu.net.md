@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inetu.net privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606080832id_/http%3A//www.inetu.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inetu.net privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124013640id_/http%3A//www.inetu.net/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy – INetU Managed Hosting
+# INetU Managed Hosting - Web Hosting Solutions | Privacy
 
 ## Information Collection & Use
 
@@ -30,7 +30,7 @@ We share personally identifiable information with Third Parties. However, we do 
 
 ### Service Providers
 
-We use Trimark Internet Marketing Solutions and Pardot as our third party mail agents for all newsletter correspondences. We will share your email address and name.
+We use Pardot as our third party mail agents for all newsletter correspondences. We will share your email address and name.
 
 Third parties are prohibited from using your personally identifiable information for any other purpose.
 
@@ -98,7 +98,7 @@ If you have any questions or suggestions regarding our privacy policy, please co
 
 744 Roble Rd  
 Suite 70  
-Allentown PA 18109 
+Allentown PA 18109
 
 ## Disclosure
 
