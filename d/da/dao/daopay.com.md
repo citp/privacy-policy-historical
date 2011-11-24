@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the daopay.com privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819174958id_/http%3A//www.daopay.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daopay.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124011639id_/http%3A//www.daopay.com/about/privacy.php) for the most accurate reproduction.*
 
-# About DaoPay « daopay.com
+# About Daopay « daopay.com
 
 ## About Us
 
