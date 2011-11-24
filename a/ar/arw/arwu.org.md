@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arwu.org privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627165924id_/http%3A//www.arwu.org/PrivacyStatement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arwu.org privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124034811id_/http%3A//www.arwu.org/PrivacyStatement.jsp) for the most accurate reproduction.*
 
-# Privacy Policy
+# |Privacy Policy
 
 ARWU.ORG respects the privacy of its users/visitors and is committed to protect it in all respects. This Privacy Policy may be amended from time to time to incorporate necessary future changes. Changes in this Privacy Policy will become effective when those changes are posted on the site. Please review this statement periodically to ensure that you are happy with any modifications. This Privacy Policy was last updated on 31th October 2010.
 
