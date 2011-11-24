@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highschoolsports.net privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513131646id_/http%3A//www.highschoolsports.net/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highschoolsports.net privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124025705id_/http%3A//www.highschoolsports.net/privacypolicy.cfm) for the most accurate reproduction.*
 
 # HighSchoolSports.net - Privacy Policy
 
