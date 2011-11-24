@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smfnew.com privacy policy that was archived on 2011-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110209072117id_/http%3A//www.smfnew.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smfnew.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124072335id_/http%3A//www.smfnew.com/privacy.php) for the most accurate reproduction.*
 
-# Free SMF Hosting - Free SMF Forum hosting - Privacy Policy
+# Free SMF Hosting - Free SMF Forum hosting - Our Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at webmaster(at)smfnew.com.
 
