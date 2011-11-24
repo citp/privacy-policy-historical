@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kellysearch.com privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215190731id_/http%3A//www.kellysearch.com/static/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellysearch.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124021520id_/http%3A//www.kellysearch.com/static/privacypolicy.html) for the most accurate reproduction.*
 
 # Find US suppliers with the Kellysearch B2B product search engine
 
@@ -22,7 +22,6 @@ Please refer to <http://www.adtech.info/en/cookie_opt-out.html>
 
 Changes to this policy will be posted here.
 
-If your personal information changes you can alter the details we hold by accessing the [My Kellysearch](http://www.kellysearch.com/MyKellysearch/EmailLead.aspx) service
+If your personal information changes you can alter the details we hold by accessing the [My Kellysearch](https://my.kellysearch.com/login.aspx?locale=en-US) service
 
-Please send any comments about this website or privacy policy to [Kellysearch.com.  
-](http://www.kellysearch.com/static/contactus.html)
+Please send any comments about this website or privacy policy to: [kellys.mktg@reedinfo.co.uk](mailto:kellys.mktg@reedinfo.co.uk)
