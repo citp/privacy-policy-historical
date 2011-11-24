@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the membershipcommand.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521031322id_/http%3A//membershipcommand.com/PrivacyPolicy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the membershipcommand.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124010345id_/http%3A//membershipcommand.com/PrivacyPolicy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
