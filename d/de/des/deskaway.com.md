@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deskaway.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214150533id_/http%3A//deskaway.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deskaway.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124015937id_/http%3A//www.deskaway.com/privacy) for the most accurate reproduction.*
 
-# DeskAway - Privacy Policy
+# Privacy Policy | DeskAway
 
 DeskAway is a product of Synage Software Pvt. Ltd (Synage Software). Synage Software is committed to protecting the privacy of its customers. This Privacy Policy outlines how we may gather and use information collected from our customers. 
 
