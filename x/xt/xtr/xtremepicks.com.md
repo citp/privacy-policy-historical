@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xtremepicks.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521035344id_/http%3A//xtremepicks.com/disclaimer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtremepicks.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124144321id_/http%3A//www.xtremepicks.com/disclaimer/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Xtremepicks Penny Stock Newsletter
+# Privacy Policy : Free Penny Stock Newsletter – Xtremepicks
 
 This policy covers how Xtremepicks.com treats personal information that we collect and receive. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
 
