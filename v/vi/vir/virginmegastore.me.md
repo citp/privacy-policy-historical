@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginmegastore.me privacy policy that was archived on 2011-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110322205451id_/http%3A//virginmegastore.me/SubTerms.aspx%3Fpageid%3D130) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmegastore.me privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124073749id_/http%3A//www.virginmegastore.me/SubTerms.aspx%3Fpageid%3D130) for the most accurate reproduction.*
 
 # :: Virgin Megastore MENA ::Privacy Policy
 
