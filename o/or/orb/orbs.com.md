@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the orbs.com privacy policy that was archived on 2010-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101019045046id_/http%3A//orbs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orbs.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124043849id_/http%3A//orbs.com/privacy) for the most accurate reproduction.*
 
-# 
+# Orbs.com Website Builder
 
-## Orbs.com Privacy Policy
+## Privacy Policy
 
 Last updated: June 21, 2010 
 
