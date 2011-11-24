@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dailyfx.com privacy policy that was archived on 2011-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110525051539id_/http%3A//www.dailyfx.com/page/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dailyfx.com privacy policy that was archived on 2011-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124010635id_/http%3A//www.dailyfx.com/page/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -27,64 +27,26 @@
 
 
 <script src="/design/fxcm/js/dfx.js" type="text/javascript"></script>
-<script type="text/javascript">	
-	// Initial error counter required for proper e-mail validation
-	var currentErrorCount = 0;
-	
-	//Function getFormName returns the name of the current form being validated. Tracked as eVar23 
-	function getFormName(currentForm){
-		return currentForm.name || currentForm.id || currentForm.parentNode.name || currentForm.parentNode.id || currentForm.parentNode.className || "Form Not Named";
-	}
-	
-	//Checks for any fields related to the requested field name and returns the value, e.g. searching for "name" would get the values for both First Name and Last Name
-	function getFieldValue(currentForm, reqField){
-		var fieldValue = "";
-		var elem = $(currentForm).serializeArray();
-		for (var i = 0; i < elem.length; i++){
-			if ((elem[i].name.toLowerCase().indexOf(reqField) >= 0) && (elem[i].value != "")){
-				fieldValue += elem[i].value + " ";
-			}
-		}
-		if (fieldValue != ""){ return fieldValue; }
-	}
-	
-	// Custom E-Mail Validation
-	jQuery.validator.emailValidate = function(value, element) {
-		if (this.optional(element)) {
-			return this.optional(element);
-		}
-		if (/^[^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*@(\[([0-9]{1,3}\.){3}[0-9]{1,3}\])|(([a-z\-0-9]+\.)+[a-z]{2,})$/i.test(value)) {
-			if (typeof s !== 'undefined' && s.prop5 !== value){
-				// prop5/eVar5 = E-mail Address
-				s.prop5 = value;
-				s.eVar5 = value;
-				s.eVar23 = getFormName(this.currentForm);
-				s.TrackingFunctions.SetTrackingTimeout(1000);	// Use a timeout to avoid sending multiple requests as the user types
-			}
-			return true;
-		} else { 
-			return false;
-		}
-	}
-	
-	jQuery.validator.addMethod("emailcustom", jQuery.validator.emailValidate, "Please enter a valid email address.");
-		
+<script type="text/javascript">
 	$(document).ready(function(){
         $(".MegaMenuLink").megamenu(".MegaMenuContent");
         $(".MegaMenuLinkR").megamenuR(".MegaMenuContentR", {
             justify: "right"
         });
-	});	
+	});
 </script>
 
 
 
+<!-- Set site-wide ad slots -->
+
+<!-- Set site-wide ad slots -->
 <!--  OAS SETUP begin  -->
 <script type="text/javascript">
 //configuration
 OAS_url = 'http://oasc17.247realmedia.com/RealMedia/ads/';
 OAS_sitepage = 'DailyFX.com/page/privacy_policy.html';
-OAS_listpos = 'x05,x30,x31,x32,x33,x34';
+OAS_listpos = 'x37,x38,x05,x30,x31,x32,x33,x34';
 OAS_query = '';
 OAS_target = '_top';
 //end of configuration
@@ -102,7 +64,7 @@ if ((navigator.userAgent.indexOf('Mozilla/3') != -1) || (navigator.userAgent.ind
 	OAS_version = 10;
 if (OAS_version >= 11)
 	document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
-</script><script language="JavaScript1.1" src="http://oasc17.247realmedia.com/RealMedia/ads/adstream_mjx.ads/DailyFX.com/page/privacy_policy.html/1243012472@x05,x30,x31,x32,x33,x34?"></script><script type="text/javascript">
+</script><script language="JavaScript1.1" src="http://oasc17.247realmedia.com/RealMedia/ads/adstream_mjx.ads/DailyFX.com/page/privacy_policy.html/1594135224@x37,x38,x05,x30,x31,x32,x33,x34?"></script><script type="text/javascript">
 document.write('');
 function OAS_AD(pos) {
 	//alert( pos );
@@ -118,19 +80,19 @@ $(document).ready(function(){
 	// Table Alternate Rows
 	$("table.striped tbody tr:nth-child(odd)").addClass("odd");
 	$("table.striped tbody tr:nth-child(even)").addClass("even");
-	
+
 	// Tabs
 	//When page loads...
 	$(".tab_content").hide(); //Hide all content
 	$("ul.tabs li:first").addClass("active").show(); //Activate first tab
 	$(".tab_content:first").show(); //Show first tab content
-	
+
 	//On Click Event
 	$("ul.tabs li").click(function() {
 		$("ul.tabs li").removeClass("active"); //Remove any "active" class
 		$(this).addClass("active"); //Add "active" class to selected tab
 		$(".tab_content").hide(); //Hide all tab content
-	
+
 		var activeTab = $(this).find("a").attr("id"); //Find the href attribute value to identify the active tab + content
 		if ($.browser.msie)
 		{$(activeTab).show();}
@@ -138,7 +100,7 @@ $(document).ready(function(){
 		{$(activeTab).fadeIn();}
 		return false;
 	});
-	
+
 	// Forex Stream
 	$.fn.extend({
 		linkUrl: function() {
@@ -158,10 +120,10 @@ $(document).ready(function(){
 			return $(returning);
 		}
 	});
-	
-	var url = 'http://forexstream.dailyfx.com/news.json';
-	var count = 6;
-	var author = 'DailyFXTeam';
+
+	var url = 'http://realtimenews.dailyfx.com/news.json';
+        var count = 6;
+	//var author = 'DailyFXTeam';
 	var options2 = {
 		newsList: "ul#news",
 		tickerRate: 20,
@@ -171,15 +133,24 @@ $(document).ready(function(){
 		ownControls: false,
 		stopOnHover: true
 	}
-	
-	$.getJSON(url+'?count='+count+'&author='+author+'&callback=?', function(data) {
+
+	$.getJSON(url+'?count='+count+'&callback=?', function(data) {
+	    var newslist = '';
 		$.each(data, function(i,item) {
+			if(item.show == true && (item.user.screen_name == "DailyFXTeam" || item.user.screen_name == "DailyFXTeamRT"))
+			{
 			var text = $([item.text]).linkUrl().linkUser()[0];
 			//var  = $([item.text]).linkUrl().linkUser()[0];
-			$('<li>'+text+'</li>').appendTo('ul#news');
+
+			$('<li style="height:30px; vertical-align:middle;">'+text+'</li>').prependTo('ul#news');
+			}
+
 		});
 		
-		$().newsTicker(options2);
+		$('#news').list_ticker({
+			speed:5000,
+			effect:'slide'
+		});
 		
 	});
 });
@@ -191,13 +162,14 @@ function doClear(theText) {
 	}
 }
 </script>
+
 <link rel="alternate" type="application/rss+xml" title="DailyFX Forex Market News" href="http://www.dailyfx.com/feeds/forex_market_news">
 
 <meta name="description" content="DailyFX does not disclose your personal information to third parties, except as described in this Policy.">
 </head>
 <body>
 
- 
+
 
 
 
@@ -207,14 +179,15 @@ function doClear(theText) {
         <a href="/"><img src="/design/fxcm/img/common/dailyfx-logo.gif" height="80" width="235"></a>
     </div>
     <div id="head-search" class="grid_8 alpha omega">
-        <div class="lang-select" style="float: left;"><a href="http://www.dailyfx.com/" class="hplink" title="DailyFX - Currency Trading News, Forex Trading News, FX News, Forex News">DailyFX Home</a> | <a href="http://www.diariofx.com/">Español</a> | <a href="/arabic">العربية</a> | <a href="http://www.dailyfx.com.hk/">中文</a></div>
+        <div class="lang-select" style="float: left;"><a href="http://www.dailyfx.com/" class="hplink" title="DailyFX - Currency Trading News, Forex Trading News, FX News, Forex News">DailyFX Home</a> | <a href="http://www.dailyfx.com/francais">Français</a>
+ | <a href="http://www.diariofx.com/">Español</a> | <a href="http://www.dailyfx.gr/">ελληνικά</a> | <a href="/arabic">العربية</a> | <a href="http://www.dailyfx.com.hk/">中文</a></div>
         <div class="utcdate">
             <script language="JavaScript" type="text/javascript">
                 /*<![CDATA[*/
                 var d = new Date();
                 document.write(d.toUTCString())
                 /*]]>*/
-            </script>Fri, 31 Jan 2020 22:11:19 GMT
+            </script>Fri, 31 Jan 2020 22:11:17 GMT
         </div>
         <div id="search-box">
             <form id="cse-search-box" action="/search.html">
@@ -230,6 +203,15 @@ function doClear(theText) {
 
 
 
+
+
+    
+    
+    
+    
+        
+        
+    
 
 <!-- Nav Bar -->
 
@@ -257,11 +239,11 @@ function doClear(theText) {
 
                                 <div class="clear"></div>
                                 
-                                    <p><a href="/forex/fundamental/daily_briefing/session_briefing/daily_fundamentals/2011/05/25/FOREX_Dollar_Rally_Curbed_as_Sentiment_Recovers_from_its_Dive_Data_Comes_Up_Short.html" title="FOREX News: FOREX: Dollar Rally Curbed as Sentiment Recovers from its Dive, Data Comes Up Short">FOREX: Dollar Rally Curbed as Sentiment Recovers from its Dive, Data Comes Up Short</a></p>
+                                    <p><a href="/forex/fundamental/us_dollar_index/usd_trading_today/2011/11/23/Long_Live_the_Dollar-_Index_Breaches_Key_Fibonacci_Resistance.html" title="FOREX News: Long Live the Dollar- Index Breaches Key Fibonacci Resistance">Long Live the Dollar- Index Breaches Key Fibonacci Resistance</a></p>
                                 
-                                    <p><a href="/forex/fundamental/us_dollar_index/usd_trading_today/2011/05/24/Dollar_Losses_Halt_at_Trendline_Support-_Formation_Holds.html" title="FOREX News: Dollar Losses Halt at Trendline Support- Formation Holds">Dollar Losses Halt at Trendline Support- Formation Holds</a></p>
+                                    <p><a href="/forex/fundamental/daily_briefing/daily_pieces/trading_news_reports/2011/11/23/EURUSD_Trading_the_German_IFO_Business_Confidence_Survey.html" title="FOREX News: EUR/USD: Trading the German IFO Business Confidence Survey">EUR/USD: Trading the German IFO Business Confidence Survey</a></p>
                                 
-                                    <p><a href="/forex/fundamental/daily_briefing/daily_pieces/trading_news_reports/2011/05/24/EURUSD__Trading_the_U.S._Durable_Goods_Orders_Report.html" title="FOREX News: EUR/USD:  Trading the U.S. Durable Goods Orders Report">EUR/USD:  Trading the U.S. Durable Goods Orders Report</a></p>
+                                    <p><a href="/forex/fundamental/us_dollar_index/daily_dollar/2011/11/23/USD_Index_To_Mark_Higher_High_Aussie_To_Threaten_Yearly_Low.html" title="FOREX News: USD Index To Mark Higher High, Aussie To Threaten Yearly Low">USD Index To Mark Higher High, Aussie To Threaten Yearly Low</a></p>
                                 
                             </div></td>
                     </tr>
@@ -291,11 +273,11 @@ function doClear(theText) {
 
                                 <div class="clear"></div>
                                 
-                                    <p><a href="/forex/technical/article/special_report/2011/05/25/Analyst_Profile_Meet_Christopher_Vecchio.html" title="Technical Analysis: Weekly Conversation: Meet Christopher Vecchio">Weekly Conversation: Meet Christopher Vecchio</a></p>
+                                    <p><a href="/forex/technical/article/currency_crosses/2011/11/23/Yen_Crosses_Continue_to_Slide_Toward_October_Lows.html" title="Technical Analysis: Yen Crosses Slide-Short Opportunities on Strength">Yen Crosses Slide-Short Opportunities on Strength</a></p>
                                 
-                                    <p><a href="/forex/technical/article/special_report/2011/05/24/052411market.html" title="Technical Analysis: Jamie's Market Thoughts: 05/24/11">Jamie's Market Thoughts: 05/24/11</a></p>
+                                    <p><a href="/forex/technical/article/winners_and_losers/2011/11/23/US_Dollar_Strength_Defies_Expectations_AUD_Heavy_as_Risk_Plummets.html" title="Technical Analysis: US Dollar Strength Defies Expectations- AUD Heavy as Risk Plummets">US Dollar Strength Defies Expectations- AUD Heavy as Risk Plummets</a></p>
                                 
-                                    <p><a href="/forex/technical/article/special_report/2011/05/24/TopHeadline_2.html" title="Technical Analysis: New Zealand Dollar Focus on 8100">New Zealand Dollar Focus on 8100</a></p>
+                                    <p><a href="/forex/technical/elliott_wave/eur-usd/2011/11/23/eliottWaves_eur-usd.html" title="Technical Analysis: Euro Reaches mid 13300s Support-October Low Looms">Euro Reaches mid 13300s Support-October Low Looms</a></p>
                                 
                             </div></td>
                     </tr>
@@ -322,22 +304,22 @@ function doClear(theText) {
                                     
                                         <tbody><tr>
                                             <td width="30%"><strong>Jamie </strong></td>
-                                            <td>short AUDUSD (triggered at 10565), add at 10610</td>
-                                        </tr>
-                                    
-                                        <tr>
-                                            <td width="30%"><strong>John K. </strong></td>
-                                            <td>Pending: EURUSD, AUDUSD, GBPUSD, EURGBP, GBPJPY, etc</td>
+                                            <td>LE short AUDUSD at 9760 and 9800, stop 9900 FOR BREAKDOWN</td>
                                         </tr>
                                     
                                         <tr>
                                             <td width="30%"><strong>Ilya </strong></td>
-                                            <td>Stay Long USDJPY</td>
+                                            <td>Stay Short EURUSD</td>
+                                        </tr>
+                                    
+                                        <tr>
+                                            <td width="30%"><strong>David S. </strong></td>
+                                            <td>Pending Short AUD/NZD</td>
                                         </tr>
                                     
                                         <tr>
                                             <td width="30%"><strong>Joel </strong></td>
-                                            <td>Looking to Buy GBP/CHF</td>
+                                            <td>Short AUD/USD at 1.0550</td>
                                         </tr>
                                     
 
@@ -359,9 +341,11 @@ function doClear(theText) {
                     <tbody><tr>
                         <td valign="top">
                             <div class="MegaMenuNavSide">
+                                <a href="/how_to_trade_forex/forex_trading_courses/" title="Forex Trading Courses">Trading Courses</a>
                                 <a href="/how_to_trade_forex/learn_forex/" title="Learn Forex">Learn Forex</a>
                                 <a href="/how_to_trade_forex/course_trading_tips/" title="Course Forex Trading Tips">Course Trading Tips</a>
-                                <a href="/how_to_trade_forex/forex_trading_courses/" title="Forex Trading Courses">Trading Courses</a>
+                                <a href="/survey/" title="Forex Trader Survey">Trader Survey</a>
+                                <a href="/page/free_guide-tg.html" title="Forex Trading Guides">Trading Guides</a>
                             </div></td>
                         <td class="MegaMenuTeaserSide" valign="top"><div>
                                 <h3 style="float:left">New Trading Tips</h3>
@@ -370,11 +354,11 @@ function doClear(theText) {
                                 <div class="clear"></div>
 
                                 
-                                    <p><a href="/forex/education/trading_tips/post_of_the_day/2011/05/24/Support_and_Resistance_Basics.html">Support and Resistance Basics</a></p>
+                                    <p><a href="/forex/education/trading_tips/post_of_the_day/2011/11/23/Multiple_Time_Frame_Analysis..html">Multiple Time Frame Analysis</a></p>
                                 
-                                    <p><a href="/forex/education/trading_tips/trend_of_the_day/2011/05/24/Euro_Counter_Trend_Channel.html">Euro Counter Trend Channel</a></p>
+                                    <p><a href="/forex/education/trading_tips/daily_trading_lesson/2011/11/23/In-Trade_Management.html">In-Trade Management</a></p>
                                 
-                                    <p><a href="/forex/education/trading_tips/post_of_the_day/2011/05/23/Old_Support_Becomes_New_Resistance.html">Old Support Becomes New Resistance</a></p>
+                                    <p><a href="/forex/education/trading_tips/post_of_the_day/2011/11/22/Locking_in_Profit_when_Trading_a_Range.html">Locking in Profit when Trading a Range</a></p>
                                 
                             </div></td>
                     </tr>
@@ -391,6 +375,9 @@ function doClear(theText) {
                     <tbody><tr>
                         <td>
                             
+
+
+
 
 
 
@@ -414,44 +401,59 @@ function doClear(theText) {
                     
                         <tr>
                             <td class="navCalTime" nowrap="nowrap">
-                                <span class="orange">May 25</span><br>
-                                <span>06:00</span>
+                                <span class="orange">
+                                    
+                                        
+                                        Nov 23
+                                    
+                                </span><br>
+                                <span>21:45</span>
+                            </td>
+                            <td class="navCalFlag">
+                                <img src="/design/fxcm/img/flags/16x16/flag-nzd.png" width="16" height="16">
+                            </td>
+                            <td>NZD Trade Balance (New Zealand dollars) (OCT)</td>
+                            
+                            <td align="right"><span style="color:green">-282M</span></td>
+                            <td align="right">-450M</td>
+                        </tr>
+                    
+                        <tr>
+                            <td class="navCalTime" nowrap="nowrap">
+                                <span class="orange">
+                                    
+                                        
+                                        Nov 24
+                                    
+                                </span><br>
+                                <span>07:00</span>
                             </td>
                             <td class="navCalFlag">
                                 <img src="/design/fxcm/img/flags/16x16/flag-eur.png" width="16" height="16">
                             </td>
-                            <td>EUR German GfK Consumer Confidence Survey (JUN) (JUN)</td>
+                            <td>EUR German Gross Domestic Product n.s.a. (YoY) (3Q F)</td>
                             
                             <td align="right"><span style="color:"></span></td>
-                            <td align="right">5.6</td>
+                            <td align="right">2.5%</td>
                         </tr>
                     
                         <tr>
                             <td class="navCalTime" nowrap="nowrap">
-                                <span class="orange">May 25</span><br>
-                                <span>08:30</span>
+                                <span class="orange">
+                                    
+                                        
+                                        Nov 24
+                                    
+                                </span><br>
+                                <span>07:00</span>
                             </td>
                             <td class="navCalFlag">
-                                <img src="/design/fxcm/img/flags/16x16/flag-gbp.png" width="16" height="16">
+                                <img src="/design/fxcm/img/flags/16x16/flag-eur.png" width="16" height="16">
                             </td>
-                            <td>GBP Gross Domestic Product (QoQ) (1Q P)</td>
+                            <td>EUR German Gross Domestic Product s.a. (QoQ) (3Q F)</td>
                             
                             <td align="right"><span style="color:"></span></td>
                             <td align="right">0.5%</td>
-                        </tr>
-                    
-                        <tr>
-                            <td class="navCalTime" nowrap="nowrap">
-                                <span class="orange">May 25</span><br>
-                                <span>08:30</span>
-                            </td>
-                            <td class="navCalFlag">
-                                <img src="/design/fxcm/img/flags/16x16/flag-gbp.png" width="16" height="16">
-                            </td>
-                            <td>GBP Total Business Investment (QoQ) (1Q P)</td>
-                            
-                            <td align="right"><span style="color:"></span></td>
-                            <td align="right"></td>
                         </tr>
                     
                 
@@ -506,6 +508,7 @@ function doClear(theText) {
                         <td valign="top"><div class="MegaMenuNavSide">
                                 <a href="/charts/">Free Forex Charts</a>
                                 <a href="/charts/chart-premium/">Premium Forex Charts</a>
+                                <a href="/currency-converter">Currency Converter</a>
                                 <a href="/forex_rates">Rates</a>
                                 <a href="/charts/mobile_price_alerts/">Mobile Price Alerts</a>
                             </div></td>
@@ -516,23 +519,34 @@ function doClear(theText) {
         <!-- // Charts -->
 
         <!-- Forex Trading Signals -->
-        <a class="MegaMenuLinkR" href="/forex_trading_signals/">Forex Trading Signals</a>
+        <a class="MegaMenuLinkR" href="https://plus.dailyfx.com/tnews/home.do?ib=dailyfx">DailyFX PLUS</a>
         <div class="MegaMenuContentR">
-            <div id="navSignals">
+            <div id="navPlus">
                 <table style="width: 100%">
                     <tbody><tr>
                         <td class="MegaMenuTeaserSide"><div>
-                                <h3>Do You Want Access to DailyFX+?</h3>
-                                <p style="margin-bottom: 10px;">Open any Live FXCM account to get unlimited access to DailyFX Plus!</p>
+                                
+                                    <p><a href="https://plus.dailyfx.com/fxcmideas/intraday-story.do?storyName=/dailyfxplus/intraday-ssi/2011/11/23/SSI_2011-11-23_2.html&amp;ib=dailyfx">SSI: EURUSD Ratio Points to further US Dollar Gains</a></p>
+                                
+                                    <p><a href="https://plus.dailyfx.com/fxcmideas/intraday-story.do?storyName=/dailyfxplus/intraday-ssi/2011/11/23/SSI_EURUSD_Traders_Remain_Net_Long_Even_As_Pair_Fails_To_Find_Support_Around_1.3400.html&amp;ib=dailyfx">SSI: EURUSD Traders Remain Net Long Even As Pair Fails To Find Support Around 1.3400</a></p>
+                                
+                                    <p><a href="https://plus.dailyfx.com/fxcmideas/intraday-story.do?storyName=/dailyfxplus/intraday-ssi/2011/11/22/SSI_2011-11-22_2.html&amp;ib=dailyfx">SSI: USDCHF Long Positions Build, Attractive Counter-Trend Short Appears</a></p>
+                                
 
-                                <a href="http://clk.atdmt.com/FXM/go/198432502/direct/01/" title="Open any live FXCM account to get unlimited access to DailyFX PLUS!"><img src="/design/fxcm/img/nav/button-open-account.gif" alt="Open an Account"></a>
-                                <a href="/forex_trading_signals" title="Sign in to DailyFX+"><img src="/design/fxcm/img/nav/button-signin-plus.gif" alt="Sign in to DailyFX+"></a>
                             </div></td>
-
+                        <td valign="top"><div class="MegaMenuNavSide">
+                                <a href="https://plus.dailyfx.com/tnews/home.do?ib=dailyfx">DailyFX PLUS Overview</a>
+                                <a href="https://plus.dailyfx.com/dailyfxsignals/fxsignals.do?dailyfxsignals=&amp;ib=dailyfx" title="Trading Signals">Trading Signals</a>
+                                <a href="https://plus.dailyfx.com/tnews/technicalAnalyzer.do?technicalAnalyzer=&amp;ib=dailyfx" title="Technical Analyzer">Technical Analyzer</a>
+                                <a href="https://plus.dailyfx.com/tnews/liveclassroom.do?liveclassroom=&amp;ib=dailyfx" title="Live Classroom">Live Classroom</a>
+                                <a href="https://plus.dailyfx.com/fxcmideas/intraday-list.do?intraday-list=&amp;ib=dailyfx" title="Speculative Sentiment Index">Speculative Sentiment Index</a>
+                                <a href="https://plus.dailyfx.com/tnews/videocourse.do?videocourse=&amp;ib=dailyfx" title="On-Demand Video Courses">On-Demand Video Courses</a>
+                            </div></td>
                     </tr>
                 </tbody></table>
             </div>
         </div>
+
         <!-- // Forex Trading Signals -->
 
         <!-- Forum -->
@@ -543,7 +557,7 @@ function doClear(theText) {
                     <tbody><tr>
                         <td class="MegaMenuTeaserSide"><div style="float:left;">
                                 <h3 style="float:left">Latest Forum Posts</h3>
-                                <a href="http://forexforums.dailyfx.com/" title"forex="" forums"=""><img src="/design/fxcm/img/nav/button-view-all.gif" style="float:right"></a>
+                                <a href="http://forexforums.dailyfx.com/" title="Forex Forums"><img src="/design/fxcm/img/nav/button-view-all.gif" style="float:right"></a>
 
                                 <div class="clear"></div>
                                 <table style="width: 100%" class="navForumWidget">
@@ -556,10 +570,15 @@ function doClear(theText) {
 
 
 
+
     
     
     
     
+    
+
+    
+
     
 
 
@@ -568,10 +587,9 @@ function doClear(theText) {
     
                                         <tbody><tr>
                                             <td class="no_border_top">
-                                                <a href="http://forexforums.dailyfx.com/showthread.php?t=13856&amp;p=814476">Discuss EUR/USD News with a D...</a><br>
-                                                Yesterday at 15:52
+                                                <a href="http://forexforums.dailyfx.com/showthread.php?t=13856&amp;p=979741">Discuss EUR/USD News with a D...</a><br>
+                                                Today at 00:07
                                             </td>
-
                                         </tr>
                                     
 
@@ -579,10 +597,9 @@ function doClear(theText) {
     
                                         <tr>
                                             <td class="no_border_top">
-                                                <a href="http://forexforums.dailyfx.com/showthread.php?t=13858&amp;p=814471">Discuss the USD/JPY with a Da...</a><br>
-                                                Yesterday at 15:47
+                                                <a href="http://forexforums.dailyfx.com/showthread.php?t=13856&amp;p=979731">Discuss EUR/USD News with a D...</a><br>
+                                                Yesterday at 23:35
                                             </td>
-
                                         </tr>
                                     
 
@@ -590,10 +607,9 @@ function doClear(theText) {
     
                                         <tr>
                                             <td class="no_border_top">
-                                                <a href="http://forexforums.dailyfx.com/showthread.php?t=13858&amp;p=814441">Discuss the USD/JPY with a Da...</a><br>
-                                                Yesterday at 15:22
+                                                <a href="http://forexforums.dailyfx.com/showthread.php?t=13856&amp;p=979710">Discuss EUR/USD News with a D...</a><br>
+                                                Yesterday at 22:34
                                             </td>
-
                                         </tr>
                                     
 
@@ -601,10 +617,9 @@ function doClear(theText) {
     
                                         <tr>
                                             <td class="no_border_top">
-                                                <a href="http://forexforums.dailyfx.com/showthread.php?t=13856&amp;p=814381">Discuss EUR/USD News with a D...</a><br>
-                                                Yesterday at 14:46
+                                                <a href="http://forexforums.dailyfx.com/showthread.php?t=13856&amp;p=979645">Discuss EUR/USD News with a D...</a><br>
+                                                Yesterday at 20:37
                                             </td>
-
                                         </tr>
                                     
 
@@ -624,9 +639,9 @@ function doClear(theText) {
             </div>
         </div>
         <!-- // Forum -->
-
     </div>
 </div>
+
 
 
 
@@ -643,8 +658,20 @@ function doClear(theText) {
         </div>
     </div>
     <div class="grid_4 omega">
-        <div id="mobile-button"><a href="/calendar/mobile_trading/" title="FOREX Mobile Trading Products">Mobile Trading</a></div>
-        <div id="dfx-plus-button"><a href="https://plus.dailyfx.com/login/loginForm.jsp" title=" Log in to DailyFX+ ">DailyFX +</a></div>
+        <div id="mobile-button">
+            <script type="text/javascript">
+            <!--
+            OAS_AD('x37');
+            //-->
+            </script>
+        </div>
+        <div id="dfx-plus-button">
+            <script type="text/javascript">
+            <!--
+            OAS_AD('x38');
+            //-->
+            </script>
+        </div>
     </div>
 
 </div>
@@ -741,49 +768,50 @@ function doClear(theText) {
 
 
 <div id="footer" class="container_12">
-	<div id="footer-content" class="grid_12 ">
-		<table style="width: 100%">
-			<tbody><tr>
-				<td><strong><a href="/forex_market_news/" title="Forex Market News">Forex Market News</a></strong><br>
-					<a href="/forex_market_news/daily_briefings/" title="Daily Briefings">Daily Briefings</a><br>
+    <div id="footer-content" class="grid_12 ">
+        <table style="width: 100%">
+            <tbody><tr>
+                <td><strong><a href="/forex_market_news/" title="Forex Market News">Forex Market News</a></strong><br>
+                    <a href="/forex_market_news/daily_briefings/" title="Daily Briefings">Daily Briefings</a><br>
                     <a href="/forex_market_news/us-dollar-index/" title="Forex Market News: US Dollar Index">US Dollar Index</a><br>
-					<a href="/forex_market_news/forecasts/" title="Forecasts">Forecasts</a><br>
-					<a href="/forex_market_news/videos/" title="TV and Video">TV and Video</a><br>
-					<a href="/forex_market_news/articles/" title="Research Columns">Research Columns</a><br>
-					<a href="/real_time_news/" title="Real Time News">Real Time News</a></td>
-				<td><strong><a href="/technical_analysis/" title="Technical Analysis">Technical Analysis</a></strong><br>
-					<a href="/technical_analysis/forex_trading_strategies/" title="Trading Strategies">Trading Strategies</a><br>
-					<a href="/technical_analysis/articles/" title="Articles">Articles</a><br>
-					<a href="/technical_analysis/candlesticks/" title="Candlesticks">Candlesticks</a><br>
-					<a href="/technical_analysis/elliott_wave/" title="Daily Technicals">Daily Technicals</a><br>
-					<a href="/technical_analysis/sentiment/" title="Sentiment">Sentiment</a><br>
-					<a href="/technical_analysis/pivot_points/" title="Pivot Points">Pivot Points</a></td>
-				<td><strong><a href="/how_to_trade_forex/learn_forex/" title="DailyFX for Beginners">DailyFX for Beginners</a></strong><br>
-					<a href="/how_to_trade_forex/learn_forex/" title="Learn Forex">Learn Forex</a><br>
-					<a href="/how_to_trade_forex/course_trading_tips/" title="Course Forex Trading Tips">Course Trading Tips</a><br>
-					<a href="/how_to_trade_forex/forex_trading_courses/" title="Forex Trading Courses">Trading Courses</a></td>
-				<td><strong><a href="/calendar/" title="Economic Calendar">Economic Calendar</a></strong><br>
-					<a href="/calendar/rollover_calendar/" title="Rollover Calendar">Rollover Calendar</a><br>
-					<a href="/live_forex_trading_room/" title="Live Trading Room">Live Trading Room</a><br>
-					<a href="/calendar/mobile_trading/" title="Mobile Trading">Mobile Trading</a><br></td>
-				<td><strong><a href="/charts/" title="Free Forex Charts">Free Forex Charts</a></strong><br>
-					<a href="/charts/chart-premium/" title="Premium Forex Charts">Premium Forex Charts</a><br>
-					<a href="/forex_rates/" title="Rates">Rates</a><br>
-					<a href="/charts/mobile_price_alerts/" title="Mobile Price Alerts">Mobile Price Alerts</a></td>
-				<td><strong><a href="/analyst_picks/" title="Analyst Picks">Analyst Picks</a></strong><br>
-					<strong><a href="https://plus.dailyfx.com/login/loginForm.jsp" title="Forex Trading Signals">Forex Trading Signals</a></strong><br>
-					<strong><a href="http://forexforums.dailyfx.com/" title="Forum">Forum</a></strong><br>
-					<strong><a href="/rss/" title="RSS">RSS</a></strong><br>
-					<img src="/design/fxcm/img/icon-facebook-10.gif" alt=""> <strong><a href="http://www.facebook.com/DailyFXnews" title="DailyFX on Facebook">DailyFX on Facebook</a></strong><br>
+                    <a href="/forex_market_news/forecasts/" title="Forecasts">Forecasts</a><br>
+                    <a href="/forex_market_news/videos/" title="TV and Video">TV and Video</a><br>
+                    <a href="/forex_market_news/articles/" title="Research Columns">Research Columns</a><br>
+                    <a href="/real_time_news/" title="Real Time News">Real Time News</a></td>
+                <td><strong><a href="/technical_analysis/" title="Technical Analysis">Technical Analysis</a></strong><br>
+                    <a href="/technical_analysis/forex_trading_strategies/" title="Trading Strategies">Trading Strategies</a><br>
+                    <a href="/technical_analysis/articles/" title="Articles">Articles</a><br>
+                    <a href="/technical_analysis/candlesticks/" title="Candlesticks">Candlesticks</a><br>
+                    <a href="/technical_analysis/elliott_wave/" title="Daily Technicals">Daily Technicals</a><br>
+                    <a href="/technical_analysis/sentiment/" title="Sentiment">Sentiment</a><br>
+                    <a href="/technical_analysis/pivot_points/" title="Pivot Points">Pivot Points</a></td>
+                <td><strong><a href="/how_to_trade_forex/learn_forex/" title="DailyFX for Beginners">DailyFX for Beginners</a></strong><br>
+                    <a href="/how_to_trade_forex/learn_forex/" title="Learn Forex">Learn Forex</a><br>
+                    <a href="/how_to_trade_forex/course_trading_tips/" title="Course Forex Trading Tips">Course Trading Tips</a><br>
+                    <a href="/how_to_trade_forex/forex_trading_courses/" title="Forex Trading Courses">Trading Courses</a></td>
+                <td><strong><a href="/calendar/" title="Economic Calendar">Economic Calendar</a></strong><br>
+                    <a href="/calendar/rollover_calendar/" title="Rollover Calendar">Rollover Calendar</a><br>
+                    <a href="/live_forex_trading_room/" title="Live Trading Room">Live Trading Room</a><br>
+                    <a href="/calendar/mobile_trading/" title="Mobile Trading">Mobile Trading</a><br></td>
+                <td><strong><a href="/charts/" title="Free Forex Charts">Free Forex Charts</a></strong><br>
+                    <a href="/charts/chart-premium/" title="Premium Forex Charts">Premium Forex Charts</a><br>
+                    <a href="/currency-converter">Currency Converter</a><br>
+                    <a href="/forex_rates/" title="Rates">Rates</a><br>
+                    <a href="/charts/mobile_price_alerts/" title="Mobile Price Alerts">Mobile Price Alerts</a></td>
+                <td><strong><a href="/analyst_picks/" title="Analyst Picks">Analyst Picks</a></strong><br>
+                    <strong><a href="https://plus.dailyfx.com/login/loginForm.jsp" title="DailyFX PLUS Overview">DailyFX PLUS</a></strong><br>
+                    <strong><a href="http://forexforums.dailyfx.com/" title="Forum">Forum</a></strong><br>
+                    <strong><a href="/rss/" title="RSS">RSS</a></strong><br>
+                    <img src="/design/fxcm/img/icon-facebook-10.gif" alt=""> <strong><a href="http://www.facebook.com/DailyFXnews" title="DailyFX on Facebook">DailyFX on Facebook</a></strong><br>
                     <img src="/design/fxcm/img/icon-video-10.gif" alt=""> <strong><a href="http://youtube.com/dailyfxnews" title="DailyFX on YouTube">DailyFX on YouTube</a></strong>
-</td>
-			</tr>
-		</tbody></table>
-	</div>
-	<div id="footer-sub-copyright" class="grid_3 alpha">© 2011 DailyFX. All Rights Reserved. </div>
-	<div id="footer-sub-links" class="grid_9 omega"> <a href="http://www.fxcm.com/" title="Forex | currency trading | forex trading | forex broker">Forex Capital Markets</a> | <a href="/list/fxcm_news/" title="Press">Press</a> | <a href="/sitemap.html" title="Sitemap">Sitemap</a> | <a href="http://www.fxcm.com/contact-fxcm.jsp" title="Contact Us">Contact Us</a> | <a href="http://www.gocurrency.com/" title="Currency Converter">Currency Converter</a> | <a href="/page/risk_warning.html" title="Risk Disclaimer">Risk Disclaimer</a> | <a href="/page/privacy_policy.html" title="Privacy Policy">Privacy Policy</a> </div>
-	<div class="clear"></div>
-	<br>
+                </td>
+            </tr>
+        </tbody></table>
+    </div>
+    <div id="footer-sub-copyright" class="grid_3 alpha">© 2011 DailyFX. All Rights Reserved. </div>
+    <div id="footer-sub-links" class="grid_9 omega"> <a href="http://www.fxcm.com/" title="Forex | currency trading | forex trading | forex broker">Forex Capital Markets</a> | <a href="/list/fxcm_news/" title="Press">Press</a> | <a href="/sitemap.html" title="Sitemap">Sitemap</a> | <a href="http://www.fxcm.com/contact-fxcm.jsp" title="Contact Us">Contact Us</a> | <a href="http://www.gocurrency.com/" title="Currency Converter">Currency Converter</a> | <a href="/page/risk_warning.html" title="Risk Disclaimer">Risk Disclaimer</a> | <a href="/page/privacy_policy.html" title="Privacy Policy">Privacy Policy</a> </div>
+    <div class="clear"></div>
+    <br>
 </div>
 
 <br>
