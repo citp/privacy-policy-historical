@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geoads.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611033725id_/http%3A//geoads.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geoads.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124072656id_/http%3A//www.geoads.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # 
 
