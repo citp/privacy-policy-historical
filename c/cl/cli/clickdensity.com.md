@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the clickdensity.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220025705id_/http%3A//www.clickdensity.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickdensity.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124015215id_/http%3A//www.clickdensity.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
-# clickdensity Privacy Policy
+# Clickdensity - Evaluate & Improve your Website: Heat Maps & More
 
-version 1 - 31st May 2006
-
-### 
-
-####  clickdensity™ PRIVACY POLICY
+Version 2 - 13th September 2011
 
 clickdensity.com is wholly owned and operated by Box UK Limited.
 
-Box UK respects the privacy needs of our customers. This Privacy Policy outlines what specific information is gathered on the clickdensity website and how that information is used.
+Box UK respects the privacy needs of our customers. This Privacy Policy outlines what specific information is gathered on the Clickdensity website and how that information is used.
 
 If, at any time, you have questions or concerns about our privacy practices, please feel free contact us at info@clickdensity.com.
 
@@ -20,11 +16,11 @@ In this Privacy Policy references to "we", "us" and "our" are to Box UK Limited.
 
 **2\. What information we collect and how**
 
-The information we collect via clickdensity.com may include:
+The information we collect via Clickdensity may include:
 
 a. Any personal details you type in and submit, such as name, address, email address, etc.
 
-b. Your IP address (this is your computer's individual identification number) which is automatically logged by our web server. 
+b. Your IP address (this is your computer's individual identification number) which is automatically logged by our web server.
 
 c. Your preferences and use of email updates, recorded by emails we send you (if you select to receive email updates on products and offers).
 
@@ -61,9 +57,10 @@ We may change this Privacy Policy from time to time. If/when Box UK makes change
 If you have any questions about our privacy statement, the information we have collected from you online, the practices of this site, or your dealings with this website, please contact:
 
 Box UK  
-46-48 Charles Street  
+Westgate Court  
+Westgate Street  
 Cardiff  
-CF10 2GE  
+CF10 1DD  
 United Kingdom 
 
 Box UK is registered with the Data Protection Register (Registration Number: Z9488852).
