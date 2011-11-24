@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jobsgopublic.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612153459id_/http%3A//www.jobsgopublic.com/pages/show/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsgopublic.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124090423id_/http%3A//www.jobsgopublic.com/pages/show/privacy) for the most accurate reproduction.*
 
-# jobsgopublic - Public Jobs and Careers | privacy
-
-## Privacy Statement
+# privacy | jobsgopublic - Public Sector Jobs and Careers
 
 We respect your right to privacy. Our relationship with you is valuable and we understand the importance you place on the privacy and security of information that personally identifies you. In that respect, whether you are a first time visitor to our website ("Website") or a regular user, we take your privacy seriously. Please read the following to learn more about our privacy policy and information handling practices.
 
@@ -28,4 +26,4 @@ We may edit this statement and/or our privacy policies and practices at any time
 
 ## Contact Details
 
-If you have any questions or suggestions regarding this statement or believe we are not properly adhering to it, please contact us at [support@jobsgopublic.com](mailto:support@jobsgopublic.com) or call us on 0845 868 4391.
+If you have any questions or suggestions regarding this statement or believe we are not properly adhering to it, please contact us at [support@jobsgopublic.com](mailto:support@jobsgopublic.com) or call us on 0207 884 3389.
