@@ -1,553 +1,668 @@
-<!--The following is the downloaded HTML source of the spyder.com privacy policy that was archived on 2010-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100620225430id_/http%3A//www.spyder.com/YourPrivacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the spyder.com privacy policy that was archived on 2011-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124111455id_/http%3A//www.spyder.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-		<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-		<title>Spyder | Your Privacy</title>
-		<meta name="keywords" content="">
-		<meta name="Last Publish" content="">
-		<link rel="stylesheet" type="text/css" href="/css/styles.css">
-		<link rel="stylesheet" type="text/css" href="/css/pages.css">
-		<!--[if IE]><link rel="stylesheet" href="/css/ie.css" type="text/css" media="all" /><![endif]-->
-		<script src="/scripts/scripts.js" type="text/javascript"></script>
-		<script src="/js/spyder.js" type="text/javascript"></script>
-		<script src="/scripts/jquery/jquery.js" type="text/javascript"></script>
-		<script src="/js/basic.js" type="text/javascript"></script>
-		<script src="/js/jquery.simplemodal.js" type="text/javascript"></script>
-			<link href="/css/qnav.css" rel="stylesheet" type="text/css">
-			<script src="/js/qnav.js" type="text/javascript"></script>
-	</head>
-	<body>
-		<div class="container">
-<script type="text/javascript">
-	function login_prompt(){
-		var url = "/front/templates/login_popups.jsp?timeStamp=" + new Date().getTime();
-		$.ajax({
-		   type: "POST",
-		   url: url,
-		   success: function(content){
-			  $('#modalLogin').html(content);
-			  $('#modalLogin').modal();
-			/* need to dynamicly adjust the height of gray background or else firefox would not fully cover the screen with it */
-			var pixelHeight = document.body.offsetHeight;
-		    $('#modal-screen').height(pixelHeight + "px");
-			}
-		 });	
-	}
-	function low_inventory_popup(){
-		var url = "/front/templates/ajax/low_inventory_msg.jsp";
-		$.ajax({
-		   type: "POST",
-		   url: url,
-		   success: function(content){
-			  $('#modalLogin').html(content);
-			  $('#modalLogin').modal();
-			/* need to dynamicly adjust the height of gray background or else firefox would not fully cover the screen with it */
-			var pixelHeight = document.body.offsetHeight;
-		    $('#modal-screen').height(pixelHeight + "px");
-			}
-		 });	
-	}
-</script>
-<div class="headerwrap">
-	<div class="header">
-		<h1 class="logo"><a href="/"><img src="/images/logo.gif" alt="LOGO"></a></h1>	
-		<form action="/front/servlet/ssearch" name="search" method="post" class="topsearch" id="topsearch">		
-			<fieldset>
-				<label for="search" class="label">Search</label>
-				<input id="search" name="searchterm" value="" class="text">
-				<input type="hidden" name="success" value="/front/search/results.jsp">
-				<input type="hidden" name="failure" value="/front/search/results.jsp">
-				<input type="hidden" name="action" value="SEARCH">
-				<input type="hidden" name="si" value="1">			
-			</fieldset>
-		</form><!--/.topsearch-->
-		<ul class="utilitynav">
-			<li id="vipContact" class="vipContact" style="display: none"><a href="#">Need Help?</a></li>
-			<li><a href="http://survey.leisuretrends.com/default.asp?survey=282&amp;survey_version=392" target="_blank">Subscribe</a></li>
-			<li id="myaccount" style="display: none"><a href="/front/agent/my_account">My Account</a></li>
-			<li id="cart" style="display: none"><a href="/front/shopping_cart/view_cart.jsp">Cart</a></li>
-			<li id="login"><a href="#">Login</a></li>
-			<script language="JavaScript" type="text/javascript">
-				function handle_login_out(response, arg){
-					var item = document.getElementById(arg.elementId);
-					var item2 = document.getElementById(arg.elementId2);
-					var item3 = document.getElementById(arg.elementId3);
-					var item4 = document.getElementById(arg.elementId4);
-					var item5 = document.getElementById(arg.elementId5);
-					var item6 = document.getElementById(arg.elementId6);
-					if(response.indexOf("logout") > 0){
-						// shift topsearch
-						item4.className = 'topsearchloggedin';
-						// logout button is visible, user is logged in
-						item.className="logout";
-						item2.style.display = '';
-						item3.style.display = '';
-						item5.style.display = '';
-						 // we put the displayable content here to prevent search robots from indexing this
-                        item6.innerHTML = '<br/><p>If you have any questions, or are having any problems while shopping on Spyder.com, you can reach us via email at <a href="mailto:viper@spyder.com">viper@spyder.com</a>, or by calling 888.284.2983</p>';
-						// if dirty cookie is set, clear the current spyder off cookie; making sure new one is retrieved
-						var dirty_cookie = readCookie('spyder_dirty_cookie'); 
-						if (dirty_cookie != null)	eraseCookie('spyder_percent_off');
-						var percent_off = readCookie('spyder_percent_off');
-						if (percent_off == null){
-							asyncGet('/front/templates/ajax/percent_off.jsp', 'addCookie', '');
-						}
-						var low_inventory_popup_cookie = readCookie('low_inventory_popup');
-						if (low_inventory_popup_cookie == null){
-							createCookie('low_inventory_popup', 'created');
-							low_inventory_popup();
-						}
-					}else{
-						// user is logged out; delete cookie here (cookies is also deleted when they click log out, but if they keep the browser open for a long time and session expires, the cookies stays; so we delete it here in that senario)
-						var percent_off = readCookie('spyder_percent_off'); 
-						if (percent_off != null){
-							eraseCookie('spyder_percent_off');
-						}
-						// unshift topsearch
-						item4.className = 'topsearch';
-					}
-					item.innerHTML=response;
-				}
-				asyncGet('/front/templates/ajax/login_out.jsp', 'handle_login_out', {'elementId': 'login', 'elementId2': 'myaccount', 'elementId3': 'cart', 'elementId4': 'topsearch', 'elementId5': 'vipContact', 'elementId6': 'vipContactModal'});
-				function addCookie(response){
-					createCookie('spyder_percent_off', response);
-				}
-			</script>
-		</ul>
-	</div><!--/.header-->
-	</div><!--/.headerwrap-->
-<div id="navwrap">	
-	<ul id="nav">
-		<li id="nav1" class="current"><a href="#">Athletes</a>
-			<ul class="subnav">
-				<li><a href="http://www.spyder.com/jamaica/" target="_blank">Jamaica Ski Team</a></li>
-				<li><a href="/Freeski-Athletes/">Freeski Athletes</a></li>
-	        	<li><a href="http://usskiteam.com" target="_blank">US Ski Team</a></li>
-	        	<li class="last"><a href="http://canski.org" target="_blank">Canadian Alpine Team</a></li>
-			</ul>
-		</li>
-		<li id="nav2"><a href="#">Find a Retailer</a>
-			<ul class="subnav">
-				<li><a href="/front/retailers/index.jsp">Find Local Retailers</a></li>
-        		<li class="last"><a href="/Retailers.html">Online Retailers</a></li>
-			</ul>
-		</li>
-		<li id="nav3"><a href="#">About Spyder</a>
-			<ul class="subnav">
-					<li><a href="/Whats-New.html">What's New</a></li>
-					<li><a href="/Recent-Press.html">Recent Press</a></li>
-			        		<li id="domestic-jobdropdown" style=""><a href="/Jobs.html">Jobs</a></li>
-							<li><a href="/Customer-Service.html">Customer Service</a></li>
-							<li><a href="/Contacts.html">Contacts</a></li>
-							<li><a href="/FAQs.html">FAQs</a></li>
-							<li><a href="/Company-History.html">Company History</a></li>
-							<li><a href="/Founders-Bio.html">Founder's Bio</a></li>
-							<li class="last"><a href="/Partners.html">Partners</a></li>
-			</ul>
-		</li>	
-	</ul>
-	<script type="text/javascript">
-		addLoadListener(showJobDropdown);
-		function showJobDropdown(){
-			if(is_domestic() == true)
-				document.getElementById("domestic-jobdropdown").style.display="";
-		}
-	</script>	
-</div><!--/.navwrap-->
-	<!-- The below is shown as a modal window on demand. Notice the id of the modal dialogue which uniquely identifes which dialogue is being opened -->
-	<div class="modal" id="vipContactModal" style="display: none; height: 200px;">
-	</div>
-			<div style="display: none;" class="modal simplemodal-data" id="modalLogin"></div>
-			<div class="contentwrap">
-						<div class="content">
-							<div class="maincontent">
-								<div class="contentArea">
-	<h2><img src="/images/interface/h2-privacy.gif" alt="YOUR PRIVACY"></h2>
-<p>        <b>Your Consent</b><br>
-        By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy.  If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.<br>
-        <br><b>Our Commitment to Privacy</b><br>
-        Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners.  Our Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.  This statement will be continuously assessed against new technologies, business practices and our customers' needs.<br>
-        <br><b>We Do Not Sell Our List</b><br>
-        We will not sell your name to a third party for the purpose of their advertising to you.  We may send information to you from complementary service providers in order to inform you of their services when we believe you will benefit from these services, <b>but we will not share information about you with these third parties.</b><br>
-        <br><b>What Information Do We Collect and Why?</b><br>
-        When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.<br>
-        <br><b>1.  Personal Information You Choose to Provide</b><br>
-        <br><b>Email Documents</b><br>
-        In addition to providing the foregoing information to our partners, if you choose to correspond further with us through email, we may retain the content of your email messages together with your email address and our responses.  We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.<br><br>
-        <b>How Do We Use the Information That You Provide to Us?</b><br>
-        Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other products and services to our customers and prospective customers.  Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable.  The lists used to send you product and service offers are developed and managed under our traditional corporate standards designed to safeguard the security and privacy of our customers' personal information.  As a customer, you will be given the opportunity, at least once per contact, to notify us of your desire not to receive these offers.<br>
-        <br><b>2.  Web Site Information</b><br><br>
-        Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" and Web server logs to collect information about how our Web site is used.  Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site.<br>
-        <br><b>What Are Cookies?</b><br>
-        Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site.  Cookies are small pieces of data that are stored by your Web browser on your hard drive.  Cookies can remember what information you access on one Web page to simplify your subsequent interactions with that Web site or to use the information to streamline your transactions on related Web pages.  This makes it easier for you to move from Web page to Web page and to complete commercial transactions over the Internet.  When you use the same computer to return to our site at a later time we will recognize you as a previous guest.  We use cookies to make your online experience easier and more personalized.  Cookies may permit us to send focused online content to you.<br>
-        <br><b>Web Server Logs</b><br>
-        Server logs help us collect important business and technical statistics.  The information in the logs lets us trace the paths followed by users to our Web site as they move from one page to another.  Web server logs allow us to count how many people visit our Web site and evaluate our Web site's visitor capacity.  We do not use these logs to capture your individual email address or any personally identifying information about you.<br>
-        <br><b>How Do We Use Information We Collect from Cookies and Logs?</b><br>
-        We use Web site browser software tools such as cookies and Web server logs to gather information about our Web site users' browsing activities, in order to constantly improve our Web site and better serve our customers.  This information assists us to design and arrange our Web pages in the most user-friendly manner and to continually improve our Web site to better meet the needs of our customers and prospective customers.<br>
-        <br><b>How Do We Secure Information Transmissions?</b><br>
-        When you send confidential personal information including credit card numbers to us on our Web site, secure server software which we have licensed encrypts all information you input before it is sent to us.  The information is scrambled en route and decoded once it reaches our Web site.  Other email that you may send to us may not be secure unless we advise you that security measures will be in place prior to your transmitting the information.  For that reason, we ask that you do not send confidential information such as credit card or account numbers to us through an unsecured email.<br>
-        <br><b>How Do We Protect Your Information?</b><br>
-        <br><b>Information Security.</b><br>
-        We utilize encryption/security software to safeguard the confidentiality of personal information we collect from unauthorized access or disclosure and accidental loss, alteration or destruction.<br>
-        <br><b>Employee Access, Training and Expectations.</b><br>
-        Our corporate values, ethical standards, policies and practices are committed to the protection of customer information.  In general, our business practices limit the use and disclosure of such information only to authorized persons, processes and transactions.<br>
-        <br><b>What About Legally Compelled Disclosure of Information?</b><br>
-        We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.<br>
-        <br><b>What About Other Web Sites Linked to Our Web Site?</b><br>
-        We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein.  Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.  Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect.  Your browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web site's own rules and policies.  Please read over those rules and policies before proceeding.<br>
+<!DOCTYPE html><html><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<title>Your Privacy | Spyder</title>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<meta content="width=device-width, maximum-scale=1.0" name="viewport">
+<meta content="telephone=no" name="format-detection">
+<meta content="Your Privacy | Spyder" property="og:title">
+<meta content="sport" property="og:type">
+<meta content="http://www.spyder.com/http://img.spyder.com/assets/fb.png" property="og:image">
+<meta content="Spyder" property="og:site_name">
+<meta content="166026006798239" property="fb:app_id">
+<meta content="jackets, ski, active, big mountain, Spyder, ski, spider.com, spyder.com gloves, spyder wear, clothing, jacket, ski wear, ski apparel, spider clothing, spyder active sports, us ski team race suit, spyder fleece, spider ski, sweater, ski gear, kids jackets, ski pants, parka, soft shell, winter clothes, outerwear, insulated jacket, shell jacket, coat, skiing" name="keywords">
+<meta content="Spyder 2011/12 - Spyder.com" name="description">
+<link href="http://img.spyder.com/assets/fonts/stylesheet.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://img.spyder.com/assets/application-287a234d19a56afd583df8b55eaf3b4d.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://img.spyder.com/assets/about-f5e9d1a0efdd5d7102bcb1ad6b98f610.css" media="screen" rel="stylesheet" type="text/css">
+<script src="http://img.spyder.com/assets/application-81c3ef7e6ca4754d8e9feff4ac986989.js" type="text/javascript"></script>
+<meta content="authenticity_token" name="csrf-param">
+<meta content="jEz1Gkw0yDhWRq8r7UG4hMAESLzPa5IxRMQQWjm2wts=" name="csrf-token">
+</head>
+<body class="us pages privacy_policy">
+<div id="page">
+<div id="header">
+<div id="topbar">
+<div class="wrapper">
+<div id="logo">
+<h1><a href="/"><span alt="Spyder"></span></a></h1>
+</div>
+<nav class="clearfix" id="navigation">
+<ul class="clearfix">
+<li class="products"><a href="/products" data-drop="products">Products</a></li>
+<li class="team"><a href="/team">Team</a></li>
+<li class="about current"><a href="/about" data-drop="about">About Us</a></li>
+<li class="dealers"><a href="/dealers" data-drop="dealers">Dealers</a></li>
+<li class="history"><a href="/history/timeline" data-drop="history">History</a></li>
+</ul>
+<div class="search">
+<form action="/products/search">
+<input type="text" name="q" id="searchfield" value="Search">
+</form>
+<a class="toggle"></a>
+</div>
+</nav>
+</div>
+</div>
+<div class="drop" id="products-drop">
+<div class="wrapper">
+<ul class="nav spaced">
+<li class="spacer"></li>
+<li class="item mens"><a href="#">Men's</a></li>
+<li class="item womens"><a href="#">Women's</a></li>
+<li class="boys item"><a href="#">Boys'</a></li>
+<li class="girls item"><a href="#">Girls'</a></li>
+<li class="item discipline"><a href="#">Disciplines</a></li>
+<li class="spacer"></li>
+</ul>
+<div class="mens pane">
+<div class="section">
+<div class="options">
+<div class="item">
+<a href="/products/mens/jacket"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/176/nav/6355-jacket.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/176/nav_bw/6355-jacket.jpg" height="102" width="102">
+</div>
+<h3 class="name">Jacket</h3>
+</a></div>
+<div class="item">
+<a href="/products/mens/pant"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/180/nav/6390-pant.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/180/nav_bw/6390-pant.jpg" height="102" width="102">
+</div>
+<h3 class="name">Pant</h3>
+</a></div>
+<div class="item">
+<a href="/products/mens/layering"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/254/nav/15321-mens_layering.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/254/nav_bw/15321-mens_layering.jpg" height="102" width="102">
+</div>
+<h3 class="name">Layering</h3>
+</a></div>
+<div class="item">
+<a href="/products/mens/accessories"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/198/nav/6356-accessories.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/198/nav_bw/6356-accessories.jpg" height="102" width="102">
+</div>
+<h3 class="name">Accessories</h3>
+</a></div>
+<div class="item">
+<a href="/products/mens/core-sweater"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/170/nav/15320-mens_coresweater_.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/170/nav_bw/15320-mens_coresweater_.jpg" height="102" width="102">
+</div>
+<h3 class="name">Core Sweater</h3>
+</a></div>
+<div class="item">
+<a href="/products/mens/baselayer"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/288/nav/6376-baselayer.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/288/nav_bw/6376-baselayer.jpg" height="102" width="102">
+</div>
+<h3 class="name">Baselayer</h3>
+</a></div>
+<div class="item">
+<a href="/products/mens/race-suits"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/220/nav/6354-racesuit.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/220/nav_bw/6354-racesuit.jpg" height="102" width="102">
+</div>
+<h3 class="name">Race Suits</h3>
+</a></div>
+<div class="item last">
+<a href="/products/mens/t-necks-and-shirts"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/215/nav/6360-tneck.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/215/nav_bw/6360-tneck.jpg" height="102" width="102">
+</div>
+<h3 class="name">T-Necks And Shirts</h3>
+</a></div>
+</div>
+</div>
+</div>
+<div class="pane womens">
+<div class="section">
+<div class="options">
+<div class="item">
+<a href="/products/womens/jacket"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/178/nav/6375-jacket.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/178/nav_bw/6375-jacket.jpg" height="102" width="102">
+</div>
+<h3 class="name">Jacket</h3>
+</a></div>
+<div class="item">
+<a href="/products/womens/pant"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/189/nav/6374-pants.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/189/nav_bw/6374-pants.jpg" height="102" width="102">
+</div>
+<h3 class="name">Pant</h3>
+</a></div>
+<div class="item">
+<a href="/products/womens/layering"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/243/nav/15322-womens_layering.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/243/nav_bw/15322-womens_layering.jpg" height="102" width="102">
+</div>
+<h3 class="name">Layering</h3>
+</a></div>
+<div class="item">
+<a href="/products/womens/accessories"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/217/nav/6379-accessories.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/217/nav_bw/6379-accessories.jpg" height="102" width="102">
+</div>
+<h3 class="name">Accessories</h3>
+</a></div>
+<div class="item">
+<a href="/products/womens/core-sweater"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/172/nav/6371-core.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/172/nav_bw/6371-core.jpg" height="102" width="102">
+</div>
+<h3 class="name">Core Sweater</h3>
+</a></div>
+<div class="item">
+<a href="/products/womens/baselayer"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/328/nav/6383-baselayer.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/328/nav_bw/6383-baselayer.jpg" height="102" width="102">
+</div>
+<h3 class="name">Baselayer</h3>
+</a></div>
+<div class="item">
+<a href="/products/womens/race-suits"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/232/nav/6367-racesuits.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/232/nav_bw/6367-racesuits.jpg" height="102" width="102">
+</div>
+<h3 class="name">Race Suits</h3>
+</a></div>
+<div class="item last">
+<a href="/products/womens/t-necks-and-shirts"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/207/nav/6382-tnecks.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/207/nav_bw/6382-tnecks.jpg" height="102" width="102">
+</div>
+<h3 class="name">T-Necks And Shirts</h3>
+</a></div>
+</div>
+</div>
+</div>
+<div class="boys pane">
+<ul class="nav subnav spaced">
+<li class="spacer"></li>
+<li class="boys-sizes-8-20 first item"><a href="#">Boys (Sizes 8–20)</a></li>
+<li class="item mini-sizes-2-7"><a href="#">Mini (Sizes 2–7)</a></li>
+<li class="spacer"></li>
+</ul>
+<div class="boys-sizes-8-20 section" style="display:none">
+<div class="options">
+<div class="item">
+<a href="http://www.spyder.com/products/boys/boys-sizes-8-20/jacket"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/182/nav/6366-jacket.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/182/nav_bw/6366-jacket.jpg" height="102" width="102">
+</div>
+<h3 class="name">Jacket</h3>
+</a></div>
+<div class="item">
+<a href="http://www.spyder.com/products/boys/boys-sizes-8-20/pant"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/185/nav/6388-pants.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/185/nav_bw/6388-pants.jpg" height="102" width="102">
+</div>
+<h3 class="name">Pant</h3>
+</a></div>
+<div class="item">
+<a href="http://www.spyder.com/products/boys/boys-sizes-8-20/layering"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/323/nav/6394-layer.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/323/nav_bw/6394-layer.jpg" height="102" width="102">
+</div>
+<h3 class="name">Layering</h3>
+</a></div>
+<div class="item">
+<a href="http://www.spyder.com/products/boys/boys-sizes-8-20/accessories"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/212/nav/6381-accessories.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/212/nav_bw/6381-accessories.jpg" height="102" width="102">
+</div>
+<h3 class="name">Accessories</h3>
+</a></div>
+<div class="item">
+<a href="http://www.spyder.com/products/boys/boys-sizes-8-20/core-sweater"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/192/nav/6353-core.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/192/nav_bw/6353-core.jpg" height="102" width="102">
+</div>
+<h3 class="name">Core Sweater</h3>
+</a></div>
+<div class="item">
+<a href="http://www.spyder.com/products/boys/boys-sizes-8-20/baselayer"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/295/nav/6389-baselayer.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/295/nav_bw/6389-baselayer.jpg" height="102" width="102">
+</div>
+<h3 class="name">Baselayer</h3>
+</a></div>
+<div class="item">
+<a href="http://www.spyder.com/products/boys/boys-sizes-8-20/race-suits"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/222/nav/6378-racesuit.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/222/nav_bw/6378-racesuit.jpg" height="102" width="102">
+</div>
+<h3 class="name">Race Suits</h3>
+</a></div>
+<div class="item last">
+<a href="http://www.spyder.com/products/boys/boys-sizes-8-20/t-necks-and-shirts"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/237/nav/6365-tneck.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/237/nav_bw/6365-tneck.jpg" height="102" width="102">
+</div>
+<h3 class="name">T-Necks And Shirts</h3>
+</a></div>
+</div>
+</div>
+<div class="mini-sizes-2-7 section" style="display:none">
+<div class="options">
+<div class="item">
+<a href="http://www.spyder.com/products/boys/mini-sizes-2-7/jacket"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/209/nav/6358-jacket.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/209/nav_bw/6358-jacket.jpg" height="102" width="102">
+</div>
+<h3 class="name">Jacket</h3>
+</a></div>
+<div class="item">
+<a href="http://www.spyder.com/products/boys/mini-sizes-2-7/pant"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/200/nav/6377-pants.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/200/nav_bw/6377-pants.jpg" height="102" width="102">
+</div>
+<h3 class="name">Pant</h3>
+</a></div>
+<div class="item">
+<a href="http://www.spyder.com/products/boys/mini-sizes-2-7/layering"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/306/nav/6387-layer.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/306/nav_bw/6387-layer.jpg" height="102" width="102">
+</div>
+<h3 class="name">Layering</h3>
+</a></div>
+<div class="item">
+<a href="http://www.spyder.com/products/boys/mini-sizes-2-7/accessories"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/259/nav/6364-accessories.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/259/nav_bw/6364-accessories.jpg" height="102" width="102">
+</div>
+<h3 class="name">Accessories</h3>
+</a></div>
+<div class="item">
+<a href="http://www.spyder.com/products/boys/mini-sizes-2-7/core-sweater"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/308/nav/6359-core.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/308/nav_bw/6359-core.jpg" height="102" width="102">
+</div>
+<h3 class="name">Core Sweater</h3>
+</a></div>
+<div class="item last">
+<a href="http://www.spyder.com/products/boys/mini-sizes-2-7/t-necks-and-shirts"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/257/nav/6393-tneck.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/257/nav_bw/6393-tneck.jpg" height="102" width="102">
+</div>
+<h3 class="name">T-Necks And Shirts</h3>
+</a></div>
+</div>
+</div>
+</div>
+<div class="girls pane">
+<ul class="nav subnav spaced">
+<li class="spacer"></li>
+<li class="first girls-sizes-8-20 item"><a href="#">Girls (Sizes 8–20)</a></li>
+<li class="bitsy-sizes-2-7 item"><a href="#">Bitsy (Sizes 2–7)</a></li>
+<li class="spacer"></li>
+</ul>
+<div class="girls-sizes-8-20 section" style="display:none">
+<div class="options">
+<div class="item">
+<a href="http://www.spyder.com/products/girls/girls-sizes-8-20/jacket"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/187/nav/6357-jacket.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/187/nav_bw/6357-jacket.jpg" height="102" width="102">
+</div>
+<h3 class="name">Jacket</h3>
+</a></div>
+<div class="item">
+<a href="http://www.spyder.com/products/girls/girls-sizes-8-20/pant"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/194/nav/6372-pant.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/194/nav_bw/6372-pant.jpg" height="102" width="102">
+</div>
+<h3 class="name">Pant</h3>
+</a></div>
+<div class="item">
+<a href="http://www.spyder.com/products/girls/girls-sizes-8-20/layering"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/303/nav/6363-layering.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/303/nav_bw/6363-layering.jpg" height="102" width="102">
+</div>
+<h3 class="name">Layering</h3>
+</a></div>
+<div class="item">
+<a href="http://www.spyder.com/products/girls/girls-sizes-8-20/accessories"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/235/nav/6392-accessories.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/235/nav_bw/6392-accessories.jpg" height="102" width="102">
+</div>
+<h3 class="name">Accessories</h3>
+</a></div>
+<div class="item">
+<a href="http://www.spyder.com/products/girls/girls-sizes-8-20/core-sweater"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/196/nav/6386-core.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/196/nav_bw/6386-core.jpg" height="102" width="102">
+</div>
+<h3 class="name">Core Sweater</h3>
+</a></div>
+<div class="item">
+<a href="http://www.spyder.com/products/girls/girls-sizes-8-20/baselayer"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/326/nav/6373-baselayer.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/326/nav_bw/6373-baselayer.jpg" height="102" width="102">
+</div>
+<h3 class="name">Baselayer</h3>
+</a></div>
+<div class="item">
+<a href="http://www.spyder.com/products/girls/girls-sizes-8-20/race-suits"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/224/nav/6391-racesuits.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/224/nav_bw/6391-racesuits.jpg" height="102" width="102">
+</div>
+<h3 class="name">Race Suits</h3>
+</a></div>
+<div class="item last">
+<a href="http://www.spyder.com/products/girls/girls-sizes-8-20/t-necks-and-shirts"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/262/nav/6385-tneck.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/262/nav_bw/6385-tneck.jpg" height="102" width="102">
+</div>
+<h3 class="name">T-Necks And Shirts</h3>
+</a></div>
+</div>
+</div>
+<div class="bitsy-sizes-2-7 section" style="display:none">
+<div class="options">
+<div class="item">
+<a href="http://www.spyder.com/products/girls/bitsy-sizes-2-7/jacket"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/226/nav/6362-jacket.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/226/nav_bw/6362-jacket.jpg" height="102" width="102">
+</div>
+<h3 class="name">Jacket</h3>
+</a></div>
+<div class="item">
+<a href="http://www.spyder.com/products/girls/bitsy-sizes-2-7/pant"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/203/nav/6352-pants.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/203/nav_bw/6352-pants.jpg" height="102" width="102">
+</div>
+<h3 class="name">Pant</h3>
+</a></div>
+<div class="item">
+<a href="http://www.spyder.com/products/girls/bitsy-sizes-2-7/layering"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/300/nav/6380-layer.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/300/nav_bw/6380-layer.jpg" height="102" width="102">
+</div>
+<h3 class="name">Layering</h3>
+</a></div>
+<div class="item">
+<a href="http://www.spyder.com/products/girls/bitsy-sizes-2-7/accessories"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/251/nav/6384-accessories.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/251/nav_bw/6384-accessories.jpg" height="102" width="102">
+</div>
+<h3 class="name">Accessories</h3>
+</a></div>
+<div class="item">
+<a href="http://www.spyder.com/products/girls/bitsy-sizes-2-7/core-sweater"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/320/nav/6370-core.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/320/nav_bw/6370-core.jpg" height="102" width="102">
+</div>
+<h3 class="name">Core Sweater</h3>
+</a></div>
+<div class="item last">
+<a href="http://www.spyder.com/products/girls/bitsy-sizes-2-7/t-necks-and-shirts"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/categories/270/nav/6361-tnecks.jpg" height="102" width="102">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/categories/270/nav_bw/6361-tnecks.jpg" height="102" width="102">
+</div>
+<h3 class="name">T-Necks And Shirts</h3>
+</a></div>
+</div>
+</div>
+</div>
+<div class="pane disciplines">
+<div class="section">
+<div class="options">
+<div class="item">
+<a href="/products/disciplines/race"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/disciplines/15458/nav/15260-race.jpg" height="120" width="120">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/disciplines/15458/nav_bw/15260-race.jpg" height="120" width="120">
+</div>
+<h3 class="name">Race</h3>
+</a></div>
+<div class="item">
+<a href="/products/disciplines/big-mountain"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/disciplines/15460/nav/15256-bigmtn.jpg" height="120" width="120">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/disciplines/15460/nav_bw/15256-bigmtn.jpg" height="120" width="120">
+</div>
+<h3 class="name">Big Mountain</h3>
+</a></div>
+<div class="item">
+<a href="/products/disciplines/all-mountain"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/disciplines/15455/nav/15257-allmtn.jpg" height="120" width="120">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/disciplines/15455/nav_bw/15257-allmtn.jpg" height="120" width="120">
+</div>
+<h3 class="name">All Mountain</h3>
+</a></div>
+<div class="item">
+<a href="/products/disciplines/park-and-pipe"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/disciplines/15459/nav/15261-parkpipe.jpg" height="120" width="120">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/disciplines/15459/nav_bw/15261-parkpipe.jpg" height="120" width="120">
+</div>
+<h3 class="name">Park and Pipe</h3>
+</a></div>
+<div class="item">
+<a href="/products/disciplines/active-series"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/disciplines/15456/nav/15259-active.jpg" height="120" width="120">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/disciplines/15456/nav_bw/15259-active.jpg" height="120" width="120">
+</div>
+<h3 class="name">Active Series</h3>
+</a></div>
+<div class="item last">
+<a href="/products/disciplines/core-sweater"><div class="thumb">
+<img alt="" class="color" data-src="http://img.spyder.com/uploads/disciplines/15454/nav/15262-coresweaters.jpg" height="120" width="120">
+<img alt="" class="bw" data-src="http://img.spyder.com/uploads/disciplines/15454/nav_bw/15262-coresweaters.jpg" height="120" width="120">
+</div>
+<h3 class="name">Core Sweater</h3>
+</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="drop" id="about-drop">
+<div class="wrapper">
+<ul class="nav spaced">
+<li class="spacer"></li>
+<li class="item borderless"><a href="/news">News</a></li>
+<li class="item"><a href="/about/technology">Technology</a></li>
+<li class="item"><a href="/about/leadership">Leadership</a></li>
+<li class="item"><a href="/about/partners">Partners</a></li>
+<li class="item"><a href="/about/contact">Contact</a></li>
+<li class="item"><a href="/jobs">Jobs</a></li>
+<li class="spacer"></li>
+</ul>
+</div>
+</div>
+<div class="drop" id="dealers-drop">
+<div class="wrapper">
+<ul class="nav spaced">
+<li class="spacer"></li>
+<li class="item borderless"><a href="/dealers/local">Local</a></li>
+<li class="item"><a href="/dealers/online">Online</a></li>
+<li class="item"><a href="/dealers/international">International</a></li>
+<li class="spacer"></li>
+</ul>
+</div>
+</div>
+<div class="drop" id="history-drop">
+<div class="wrapper">
+<ul class="nav spaced">
+<li class="spacer"></li>
+<li class="item borderless"><a href="/history/founder">Founder</a></li>
+<li class="item"><a href="/history/timeline">Timeline</a></li>
+<li class="spacer"></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="main" role="main">
+<div class="dark-bg"></div>
+<div id="container">
+<div id="content">
+<div class="page_header">
+<h1 class="title">Your Privacy</h1>
+<ul class="nav">
+
+      <li class="fblike">
+        <div id="fb-root"></div>
+        <script src="http://connect.facebook.net/en_US/all.js#appId=133027683448576&amp;xfbml=1"></script>
+        <fb:like href="http://www.spyder.com/" send="false" layout="button_count" width="84" show_faces="false" font=""></fb:like>
+      </li>
+    
+<li class="socialicons">
+<a href="https://www.facebook.com/spyderactivesports" class="shell social facebook" target="_blank"><span><em>Facebook</em></span></a>
+<a href="http://twitter.com/spyderantidote" class="shell social twitter" target="_blank"><span><em>Twitter</em></span></a>
+</li>
+</ul>
+
+</div>
+<div class="main page">
+<div class="post">
+<div class="article">
+<div class="section">
+<div class="block mce">
+<h3>Your Consent</h3>
+<p>By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. If we change our privacy policies and procedures, we will post those changes on our Web site to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.</p>
+</div>
+<div class="block mce">
+<h3>Our Commitment to Privacy</h3>
+<p>Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. Our Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs.</p>
+</div>
+<div class="block mce">
+<h3>We Do Not Sell Our List</h3>
+<p>We will not sell your name to a third party for the purpose of their advertising to you. We may send information to you from complementary service providers in order to inform you of their services when we believe you will benefit from these services, but we will not share information about you with these third parties.</p>
+</div>
+<div class="block mce">
+<h3>What Information Do We Collect and Why?</h3>
+<p>When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.</p>
+</div>
+<div class="header">
+<h2 class="title">1. Personal Information You Choose to Provide</h2>
+</div>
+<div class="block mce">
+<h3>Email Documents</h3>
+<p>In addition to providing the foregoing information to our partners, if you choose to correspond further with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.</p>
+</div>
+<div class="block mce">
+<h3>How Do We Use the Information That You Provide to Us?</h3>
+<p>Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. The lists used to send you product and service offers are developed and managed under our traditional corporate standards designed to safeguard the security and privacy of our customers' personal information. As a customer, you will be given the opportunity, at least once per contact, to notify us of your desire not to receive these offers.</p>
+</div>
+<div class="header">
+<h2 class="title">2. Web Site Information</h2>
+</div>
+<div class="block mce">
+<h3>What Are Cookies?</h3>
+<p>Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by your Web browser on your hard drive. Cookies can remember what information you access on one Web page to simplify your subsequent interactions with that Web site or to use the information to streamline your transactions on related Web pages. This makes it easier for you to move from Web page to Web page and to complete commercial transactions over the Internet. When you use the same computer to return to our site at a later time we will recognize you as a previous guest. We use cookies to make your online experience easier and more personalized. Cookies may permit us to send focused online content to you.</p>
+</div>
+<div class="block mce">
+<h3>Web Server Logs</h3>
+<p>Server logs help us collect important business and technical statistics. The information in the logs lets us trace the paths followed by users to our Web site as they move from one page to another. Web server logs allow us to count how many people visit our Web site and evaluate our Web site's visitor capacity. We do not use these logs to capture your individual email address or any personally identifying information about you.</p>
+</div>
+<div class="block mce">
+<h3>How Do We Use Information We Collect from Cookies and Logs?</h3>
+<p>We use Web site browser software tools such as cookies and Web server logs to gather information about our Web site users' browsing activities, in order to constantly improve our Web site and better serve our customers. This information assists us to design and arrange our Web pages in the most user-friendly manner and to continually improve our Web site to better meet the needs of our customers and prospective customers.</p>
+</div>
+<div class="block mce">
+<h3>How Do We Secure Information Transmissions?</h3>
+<p>When you send confidential personal information including credit card numbers to us on our Web site, secure server software which we have licensed encrypts all information you input before it is sent to us. The information is scrambled en route and decoded once it reaches our Web site. Other email that you may send to us may not be secure unless we advise you that security measures will be in place prior to your transmitting the information. For that reason, we ask that you do not send confidential information such as credit card or account numbers to us through an unsecured email.</p>
+</div>
+<div class="header">
+<h2 class="title">3. How Do We Protect Your Information?</h2>
+</div>
+<div class="block mce">
+<h3>Information Security.</h3>
+<p>We utilize encryption/security software to safeguard the confidentiality of personal information we collect from unauthorized access or disclosure and accidental loss, alteration or destruction.</p>
+</div>
+<div class="block mce">
+<h3>Employee Access, Training and Expectations.</h3>
+<p>Our corporate values, ethical standards, policies and practices are committed to the protection of customer information. In general, our business practices limit the use and disclosure of such information only to authorized persons, processes and transactions.</p>
+</div>
+<div class="block mce">
+<h3>What About Legally Compelled Disclosure of Information?</h3>
+<p>We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.</p>
+</div>
+<div class="block mce">
+<h3>What About Other Web Sites Linked to Our Web Site?</h3>
+<p>We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site. Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including Web sites which have a link on our Web site, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.</p>
+</div>
+</div>
+</div>
+<div class="sidebar">
+<div class="figure"><img alt="Original" border="0" height="237" src="http://img.spyder.com/images/missing/pages/banner/original.png" title="Your Privacy" width="322"></div>
+</div>
+</div>
+<div class="footer top"><a href="#top" class="topbutton">Back To Top</a></div>
+</div>
+
+</div>
+</div>
+</div>
+<div id="footer">
+<div class="wrapper">
+<div class="links">
+<div class="nav">
+<ul>
+<li class="region">
+<a href="#">Change Region</a>
+<ul class="regionselect">
+<li class="title">Choose Your Region</li><li class="active"><a href="/privacy-policy?region=1">United States</a></li><li><a href="/privacy-policy?region=3">Europe</a></li><li><a href="/privacy-policy?region=2">Canada</a></li><li><a href="/privacy-policy?region=4">Asia &amp; Southern Hemisphere</a></li><li class="arrow"></li>
+</ul>
+</li>
+<li class="privacypolicy"><a href="/privacy-policy">Privacy Policy</a></li>
+<li class="warranty"><a href="/warranty">Warranty</a></li>
+<li class="faq"><a href="/about/faq">FAQ</a></li>
+<li class="summyt"><a href="/summyt">Summyt</a></li>
+<li class="contact"><a href="/about">Contact</a></li>
+<li class="subscribe"><a href="http://survey.leisuretrends.com/default.asp?survey=282&amp;survey_version=1011" target="_blank">Subscribe</a></li>
+</ul>
+</div>
+<div class="dealerlogin">
+<a href="http://spyn.spyder.com/" target="_blank">Dealer Login</a>
+</div>
+</div>
+<p class="copyright">
+<span>©</span> Spyder Active Sports Inc. All Rights Reserved.
 </p>
 </div>
-<div class="contentAreaBase"></div>
-							</div><!--/.maincontent -->
-	<div class="sidecontent">
-		<a href="http://www.spyder.com/jamaica/" target="_blank"><img src="/spyder/cats/Spyder20092010_medium_image1_130345.jpg" alt=""></a>
-		<a href="http://www.facebook.com/spyderactivesports" target="_blank"><img src="/spyder/cats/Spyder20092010_medium_image2_108719.jpg" alt=""></a>		
-	</div><!--/.sidecontent-->
-						</div><!--/.content -->		
-	<script type="text/javascript">
-		var last_subcat = '';
-		function show_tree(cat, subcat, current_leaf_cat){
-			document.getElementById("cat_81").style.display='none';
-			document.getElementById("cat_90").style.display='none';
-			document.getElementById("cat_91").style.display='none';
-			document.getElementById("cat_92").style.display='none';
-			document.getElementById("cat_93").style.display='none';
-			document.getElementById("cat_94").style.display='none';
-			document.getElementById("cat_203").style.display='none';
-			/* If we have a predefine default cat from a cookie, we use that value and delete it immediately. This is used
-			 * for remembering which cat the user came from when viewing the product detail page so that it current cat state
-			 * remains consistent to the user. */
-			if(readCookie('current_cat_id') != null && document.getElementById('subcat_' + readCookie('current_cat_id')) != null){
-				var current_cat_id_value = readCookie('current_cat_id');
-				var current_parent_cat_id_value = readCookie('current_parent_cat_id');
-				var leaf_parent_cat_id_value = readCookie('current_leaf_cat_id');
-				eraseCookie('current_cat_id');
-				eraseCookie('current_parent_cat_id');
-				eraseCookie('current_leaf_cat_id');
-				document.getElementById('subcat_' + current_cat_id_value).style.display = '';
-				document.getElementById('cat_' + current_parent_cat_id_value).style.display = '';
-				document.getElementById('leaf_cat_' + leaf_parent_cat_id_value).className = 'current';
-			}else{			
-				if(cat)			
-					document.getElementById(cat).style.display='';
-				if(last_subcat)
-					document.getElementById(last_subcat).style.display='none';
-				if(subcat){
-					document.getElementById(subcat).style.display='';
-					last_subcat = subcat;
-				}
-				if(current_leaf_cat){
-					if(current_leaf_cat == 'leaf_cat_211' || current_leaf_cat == 'leaf_cat_243' || current_leaf_cat == 'leaf_cat_223'){
-						document.getElementById(current_leaf_cat).className='currentlong';
-					}else{
-						document.getElementById(current_leaf_cat).className='current';
-					}
-				}
-			}
-		}
-	</script>
-	<div class="sidenav" id="sidenav">
-		<h2 class="head"><img src="/images/product.gif" alt="Product"></h2>
-		<ul>
-	    	<li><a href="#" onclick="show_tree('cat_81', '');">Mens</a>
-	            <ul id="cat_81" style="display:none;">
-				            	<li><a href="#" onclick="show_tree('cat_81', 'subcat_82');">Jackets</a>
-				            		<ul id="subcat_82" style="display: none">
-											<li id="leaf_cat_83"><a href="/Mens/Jackets/Insulated/">Insulated</a></li>
-											<li id="leaf_cat_84"><a href="/Mens/Jackets/Down/">Down</a></li>
-											<li id="leaf_cat_85"><a href="/Mens/Jackets/Shell/">Shell</a></li>
-											<li id="leaf_cat_86"><a href="/Mens/Jackets/System/">System</a></li>
-											<li id="leaf_cat_87"><a href="/Mens/Jackets/Softshell/">Softshell</a></li>
-											<li id="leaf_cat_88"><a href="/Mens/Jackets/Insulator/">Insulator</a></li>
-											<li id="leaf_cat_89"><a href="/Mens/Jackets/Fleece/">Fleece</a></li>
-									</ul>
-								</li>
-				            	<li><a href="#" onclick="show_tree('cat_81', 'subcat_115');">Pants</a>
-				            		<ul id="subcat_115" style="display: none">
-											<li id="leaf_cat_116"><a href="/Mens/Pants/Insulated/">Insulated</a></li>
-											<li id="leaf_cat_117"><a href="/Mens/Pants/Shell/">Shell</a></li>
-									</ul>
-								</li>
-				            	<li><a href="#" onclick="show_tree('cat_81', 'subcat_120');">Layers</a>
-				            		<ul id="subcat_120" style="display: none">
-											<li id="leaf_cat_121"><a href="/Mens/Layers/Thermal/">Thermal</a></li>
-											<li id="leaf_cat_122"><a href="/Mens/Layers/Midlayer/">Midlayer</a></li>
-											<li id="leaf_cat_123"><a href="/Mens/Layers/Baselayer/">Baselayer</a></li>
-									</ul>
-								</li>
-								<li id="leaf_cat_"><a href="/Mens/Race/">Race</a></li>
-				            	<li><a href="#" onclick="show_tree('cat_81', 'subcat_269');">Accessories</a>
-				            		<ul id="subcat_269" style="display: none">
-											<li id="leaf_cat_124"><a href="/Mens/Accessories/Gloves/">Gloves</a></li>
-											<li id="leaf_cat_125"><a href="/Mens/Accessories/Hats/">Hats</a></li>
-											<li id="leaf_cat_270"><a href="/Mens/Accessories/Socks/">Socks</a></li>
-									</ul>
-								</li>
-	            </ul>
-	        </li>
-	    	<li><a href="#" onclick="show_tree('cat_90', '');">Womens</a>
-	            <ul id="cat_90" style="display:none;">
-				            	<li><a href="#" onclick="show_tree('cat_90', 'subcat_126');">Jackets</a>
-				            		<ul id="subcat_126" style="display: none">
-											<li id="leaf_cat_127"><a href="/Womens/Jackets/Insulated/">Insulated</a></li>
-											<li id="leaf_cat_128"><a href="/Womens/Jackets/Down/">Down</a></li>
-											<li id="leaf_cat_129"><a href="/Womens/Jackets/Shell/">Shell</a></li>
-											<li id="leaf_cat_130"><a href="/Womens/Jackets/System/">System</a></li>
-											<li id="leaf_cat_131"><a href="/Womens/Jackets/Softshell/">Softshell</a></li>
-											<li id="leaf_cat_132"><a href="/Womens/Jackets/Insulator/">Insulator</a></li>
-											<li id="leaf_cat_133"><a href="/Womens/Jackets/Fleece/">Fleece</a></li>
-									</ul>
-								</li>
-				            	<li><a href="#" onclick="show_tree('cat_90', 'subcat_134');">Pants</a>
-				            		<ul id="subcat_134" style="display: none">
-											<li id="leaf_cat_135"><a href="/Womens/Pants/Insulated/">Insulated</a></li>
-											<li id="leaf_cat_137"><a href="/Womens/Pants/Softshell/">Softshell</a></li>
-									</ul>
-								</li>
-				            	<li><a href="#" onclick="show_tree('cat_90', 'subcat_139');">Layers</a>
-				            		<ul id="subcat_139" style="display: none">
-											<li id="leaf_cat_140"><a href="/Womens/Layers/Thermal/">Thermal</a></li>
-											<li id="leaf_cat_141"><a href="/Womens/Layers/Midlayer/">Midlayer</a></li>
-											<li id="leaf_cat_142"><a href="/Womens/Layers/Baselayer/">Baselayer</a></li>
-									</ul>
-								</li>
-								<li id="leaf_cat_"><a href="/Womens/Race/">Race</a></li>
-				            	<li><a href="#" onclick="show_tree('cat_90', 'subcat_271');">Accessories</a>
-				            		<ul id="subcat_271" style="display: none">
-											<li id="leaf_cat_143"><a href="/Womens/Accessories/Gloves/">Gloves</a></li>
-											<li id="leaf_cat_144"><a href="/Womens/Accessories/Hats/">Hats</a></li>
-											<li id="leaf_cat_272"><a href="/Womens/Accessories/Socks/">Socks</a></li>
-									</ul>
-								</li>
-				</ul>
-	        </li>
-	    	<li><a href="#" onclick="show_tree('cat_91', '');">Boys 8-20</a>			
-	            <ul id="cat_91" style="display:none;">
-				            	<li><a href="#" onclick="show_tree('cat_91', 'subcat_145');">Jackets</a>
-				            		<ul id="subcat_145" style="display: none">
-											<li id="leaf_cat_146"><a href="/Boys-8-20/Jackets/Insulated/">Insulated</a></li>
-											<li id="leaf_cat_147"><a href="/Boys-8-20/Jackets/Down/">Down</a></li>
-											<li id="leaf_cat_150"><a href="/Boys-8-20/Jackets/Softshell/">Softshell</a></li>
-											<li id="leaf_cat_151"><a href="/Boys-8-20/Jackets/Insulator/">Insulator</a></li>
-											<li id="leaf_cat_152"><a href="/Boys-8-20/Jackets/Fleece/">Fleece</a></li>
-									</ul>
-								</li>
-				            	<li><a href="#" onclick="show_tree('cat_91', 'subcat_153');">Pants</a>
-				            		<ul id="subcat_153" style="display: none">
-											<li id="leaf_cat_154"><a href="/Boys-8-20/Pants/Insulated/">Insulated</a></li>
-									</ul>
-								</li>
-				            	<li><a href="#" onclick="show_tree('cat_91', 'subcat_158');">Layers</a>
-				            		<ul id="subcat_158" style="display: none">
-											<li id="leaf_cat_159"><a href="/Boys-8-20/Layers/Thermal/">Thermal</a></li>
-											<li id="leaf_cat_160"><a href="/Boys-8-20/Layers/Midlayer/">Midlayer</a></li>
-											<li id="leaf_cat_161"><a href="/Boys-8-20/Layers/Baselayer/">Baselayer</a></li>
-									</ul>
-								</li>
-								<li id="leaf_cat_"><a href="/Boys-8-20/Race/">Race</a></li>
-				            	<li><a href="#" onclick="show_tree('cat_91', 'subcat_273');">Accessories</a>
-				            		<ul id="subcat_273" style="display: none">
-											<li id="leaf_cat_162"><a href="/Boys-8-20/Accessories/Gloves/">Gloves</a></li>
-											<li id="leaf_cat_163"><a href="/Boys-8-20/Accessories/Hats/">Hats</a></li>
-											<li id="leaf_cat_274"><a href="/Boys-8-20/Accessories/Socks/">Socks</a></li>
-									</ul>
-								</li>
-				</ul>
-	        </li>
-	    	<li><a href="#" onclick="show_tree('cat_92', '');">Girls 8-20</a>
-	            <ul id="cat_92" style="display:none;">
-				            	<li><a href="#" onclick="show_tree('cat_92', 'subcat_164');">Jackets</a>
-				            		<ul id="subcat_164" style="display: none">
-											<li id="leaf_cat_165"><a href="/Girls-8-20/Jackets/Insulated/">Insulated</a></li>
-											<li id="leaf_cat_166"><a href="/Girls-8-20/Jackets/Down/">Down</a></li>
-											<li id="leaf_cat_167"><a href="/Girls-8-20/Jackets/Shell/">Shell</a></li>
-											<li id="leaf_cat_168"><a href="/Girls-8-20/Jackets/System/">System</a></li>
-											<li id="leaf_cat_170"><a href="/Girls-8-20/Jackets/Fleece/">Fleece</a></li>
-											<li id="leaf_cat_182"><a href="/Girls-8-20/Jackets/Insulator/">Insulator</a></li>
-									</ul>
-								</li>
-				            	<li><a href="#" onclick="show_tree('cat_92', 'subcat_171');">Pants</a>
-				            		<ul id="subcat_171" style="display: none">
-											<li id="leaf_cat_172"><a href="/Girls-8-20/Pants/Insulated/">Insulated</a></li>
-									</ul>
-								</li>
-				            	<li><a href="#" onclick="show_tree('cat_92', 'subcat_176');">Layers</a>
-				            		<ul id="subcat_176" style="display: none">
-											<li id="leaf_cat_177"><a href="/Girls-8-20/Layers/Thermal/">Thermal</a></li>
-											<li id="leaf_cat_178"><a href="/Girls-8-20/Layers/Midlayer/">Midlayer</a></li>
-											<li id="leaf_cat_179"><a href="/Girls-8-20/Layers/Baselayer/">Baselayer</a></li>
-									</ul>
-								</li>
-								<li id="leaf_cat_"><a href="/Girls-8-20/Race/">Race</a></li>
-				            	<li><a href="#" onclick="show_tree('cat_92', 'subcat_275');">Accessories</a>
-				            		<ul id="subcat_275" style="display: none">
-											<li id="leaf_cat_180"><a href="/Girls-8-20/Accessories/Gloves/">Gloves</a></li>
-											<li id="leaf_cat_183"><a href="/Girls-8-20/Accessories/Hats/">Hats</a></li>
-											<li id="leaf_cat_276"><a href="/Girls-8-20/Accessories/Socks/">Socks</a></li>
-									</ul>
-								</li>
-				</ul>
-	        </li>
-	    	<li><a href="#" onclick="show_tree('cat_93', '');">Mini Boys 2-7</a>
-		        <ul id="cat_93" style="display:none;">
-				            	<li><a href="#" onclick="show_tree('cat_93', 'subcat_184');">Jackets</a>
-				            		<ul id="subcat_184" style="display: none">
-											<li id="leaf_cat_185"><a href="/Mini-Boys-2-7/Jackets/Insulated/">Insulated</a></li>
-											<li id="leaf_cat_186"><a href="/Mini-Boys-2-7/Jackets/Down/">Down</a></li>
-											<li id="leaf_cat_190"><a href="/Mini-Boys-2-7/Jackets/Insulator/">Insulator</a></li>
-									</ul>
-								</li>
-				            	<li><a href="#" onclick="show_tree('cat_93', 'subcat_192');">Pants</a>
-				            		<ul id="subcat_192" style="display: none">
-											<li id="leaf_cat_193"><a href="/Mini-Boys-2-7/Pants/Insulated/">Insulated</a></li>
-									</ul>
-								</li>
-				            	<li><a href="#" onclick="show_tree('cat_93', 'subcat_197');">Layers</a>
-				            		<ul id="subcat_197" style="display: none">
-											<li id="leaf_cat_198"><a href="/Mini-Boys-2-7/Layers/Thermal/">Thermal</a></li>
-											<li id="leaf_cat_199"><a href="/Mini-Boys-2-7/Layers/Midlayer/">Midlayer</a></li>
-									</ul>
-								</li>
-				            	<li><a href="#" onclick="show_tree('cat_93', 'subcat_279');">Accessories</a>
-				            		<ul id="subcat_279" style="display: none">
-											<li id="leaf_cat_201"><a href="/Mini-Boys-2-7/Accessories/Gloves/">Gloves</a></li>
-											<li id="leaf_cat_202"><a href="/Mini-Boys-2-7/Accessories/Hats/">Hats</a></li>
-									</ul>
-								</li>
-				</ul>	            
-	        </li>
-	    	<li><a href="#" onclick="show_tree('cat_94', '');">Bitsy Girls 2-7</a>
-			    <ul id="cat_94" style="display:none;">
-				            	<li><a href="#" onclick="show_tree('cat_94', 'subcat_107');">Jackets</a>
-				            		<ul id="subcat_107" style="display: none">
-											<li id="leaf_cat_108"><a href="/Bitsy-Girls-2-7/Jackets/Insulated/">Insulated</a></li>
-											<li id="leaf_cat_109"><a href="/Bitsy-Girls-2-7/Jackets/Down/">Down</a></li>
-											<li id="leaf_cat_113"><a href="/Bitsy-Girls-2-7/Jackets/Insulator/">Insulator</a></li>
-									</ul>
-								</li>
-				            	<li><a href="#" onclick="show_tree('cat_94', 'subcat_102');">Pants</a>
-				            		<ul id="subcat_102" style="display: none">
-											<li id="leaf_cat_103"><a href="/Bitsy-Girls-2-7/Pants/Insulated/">Insulated</a></li>
-									</ul>
-								</li>
-				            	<li><a href="#" onclick="show_tree('cat_94', 'subcat_98');">Layers</a>
-				            		<ul id="subcat_98" style="display: none">
-											<li id="leaf_cat_99"><a href="/Bitsy-Girls-2-7/Layers/Thermal/">Thermal</a></li>
-											<li id="leaf_cat_100"><a href="/Bitsy-Girls-2-7/Layers/Midlayer/">Midlayer</a></li>
-									</ul>
-								</li>
-				            	<li><a href="#" onclick="show_tree('cat_94', 'subcat_277');">Accessories</a>
-				            		<ul id="subcat_277" style="display: none">
-											<li id="leaf_cat_96"><a href="/Bitsy-Girls-2-7/Accessories/Hats/">Hats</a></li>
-											<li id="leaf_cat_97"><a href="/Bitsy-Girls-2-7/Accessories/Gloves/">Gloves</a></li>
-									</ul>
-								</li>
-				</ul>		            
-	        </li>
-	    	<li><a href="/Bags/">Bags</a></li>	        	
-	    	<li><a href="#" onclick="show_tree('cat_203', '');">Collections</a>
-			    <ul id="cat_203" style="display:none;">
-				            	<li><a href="#" onclick="show_tree('cat_203', 'subcat_204');">Mens</a>
-				            		<ul id="subcat_204" style="display: none">
-									        		<li id="leaf_cat_205"><a href="/Collections/Mens/Legend/">Legend</a></li>
-									        		<li id="leaf_cat_206"><a href="/Collections/Mens/Quest/">Quest</a></li>
-									        		<li id="leaf_cat_207"><a href="/Collections/Mens/Rogue/">Rogue</a></li>
-									        		<li id="leaf_cat_208"><a href="/Collections/Mens/Big-Mountain/">Big Mountain</a></li>
-									        		<li id="leaf_cat_209"><a href="/Collections/Mens/Venom/">Venom</a></li>
-									        		<li id="leaf_cat_210"><a href="/Collections/Mens/Active/">Active</a></li>
-									        		<li id="leaf_cat_212"><a href="/Collections/Mens/Layers/">Layers</a></li>
-									        		<li id="leaf_cat_213"><a href="/Collections/Mens/Accessories/">Accessories</a></li>
-									        		<li id="leaf_cat_259"><a href="/Collections/Mens/Race/">Race</a></li>
-									</ul>
-								</li>
-				            	<li><a href="#" onclick="show_tree('cat_203', 'subcat_214');">Womens</a>
-				            		<ul id="subcat_214" style="display: none">
-									        		<li id="leaf_cat_215"><a href="/Collections/Womens/L-Series/">L-Series</a></li>
-									        		<li id="leaf_cat_216"><a href="/Collections/Womens/Legend/">Legend</a></li>
-									        		<li id="leaf_cat_217"><a href="/Collections/Womens/Quest/">Quest</a></li>
-									        		<li id="leaf_cat_218"><a href="/Collections/Womens/Vision/">Vision</a></li>
-									        		<li id="leaf_cat_219"><a href="/Collections/Womens/Renaissance/">Renaissance</a></li>
-									        		<li id="leaf_cat_220"><a href="/Collections/Womens/Big-Mountain/">Big Mountain</a></li>
-									        		<li id="leaf_cat_221"><a href="/Collections/Womens/Venom/">Venom</a></li>
-									        		<li id="leaf_cat_222"><a href="/Collections/Womens/Active/">Active</a></li>
-									        		<li id="leaf_cat_224"><a href="/Collections/Womens/Layers/">Layers</a></li>
-									        		<li id="leaf_cat_225"><a href="/Collections/Womens/Accessories/">Accessories</a></li>
-									        		<li id="leaf_cat_260"><a href="/Collections/Womens/Race/">Race</a></li>
-									</ul>
-								</li>
-				            	<li><a href="#" onclick="show_tree('cat_203', 'subcat_226');">Boys Size 8-20</a>
-				            		<ul id="subcat_226" style="display: none">
-									        		<li id="leaf_cat_228"><a href="/Collections/Boys-Size-8-20/Legend/">Legend</a></li>
-									        		<li id="leaf_cat_229"><a href="/Collections/Boys-Size-8-20/Quest/">Quest</a></li>
-									        		<li id="leaf_cat_230"><a href="/Collections/Boys-Size-8-20/Rogue/">Rogue</a></li>
-									        		<li id="leaf_cat_231"><a href="/Collections/Boys-Size-8-20/Spawn/">Spawn</a></li>
-									        		<li id="leaf_cat_232"><a href="/Collections/Boys-Size-8-20/Xscap/">Xscap</a></li>
-									        		<li id="leaf_cat_233"><a href="/Collections/Boys-Size-8-20/Active/">Active</a></li>
-									        		<li id="leaf_cat_234"><a href="/Collections/Boys-Size-8-20/Layers/">Layers</a></li>
-									        		<li id="leaf_cat_235"><a href="/Collections/Boys-Size-8-20/Accessories/">Accessories</a></li>
-									        		<li id="leaf_cat_262"><a href="/Collections/Boys-Size-8-20/Race/">Race</a></li>
-									</ul>
-								</li>
-				            	<li><a href="#" onclick="show_tree('cat_203', 'subcat_236');">Girls Size 8-20</a>
-				            		<ul id="subcat_236" style="display: none">
-									        		<li id="leaf_cat_238"><a href="/Collections/Girls-Size-8-20/L-Series/">L-Series</a></li>
-									        		<li id="leaf_cat_239"><a href="/Collections/Girls-Size-8-20/Vision/">Vision</a></li>
-									        		<li id="leaf_cat_240"><a href="/Collections/Girls-Size-8-20/Antidote/">Antidote</a></li>
-									        		<li id="leaf_cat_241"><a href="/Collections/Girls-Size-8-20/Xscap/">Xscap</a></li>
-									        		<li id="leaf_cat_242"><a href="/Collections/Girls-Size-8-20/Active/">Active</a></li>
-									        		<li id="leaf_cat_244"><a href="/Collections/Girls-Size-8-20/Layers/">Layers</a></li>
-									        		<li id="leaf_cat_245"><a href="/Collections/Girls-Size-8-20/Accessories/">Accessories</a></li>
-									        		<li id="leaf_cat_261"><a href="/Collections/Girls-Size-8-20/Race/">Race</a></li>
-									</ul>
-								</li>
-				            	<li><a href="#" onclick="show_tree('cat_203', 'subcat_246');">Mini Boys Size 2-7</a>
-				            		<ul id="subcat_246" style="display: none">
-									        		<li id="leaf_cat_247"><a href="/Collections/Mini-Boys-Size-2-7/Mini-Quest/">Mini Quest</a></li>
-									        		<li id="leaf_cat_248"><a href="/Collections/Mini-Boys-Size-2-7/Mini-Spawn/">Mini Spawn</a></li>
-									        		<li id="leaf_cat_249"><a href="/Collections/Mini-Boys-Size-2-7/Mini-Active/">Mini Active</a></li>
-									        		<li id="leaf_cat_250"><a href="/Collections/Mini-Boys-Size-2-7/Layers/">Layers</a></li>
-									        		<li id="leaf_cat_251"><a href="/Collections/Mini-Boys-Size-2-7/Accessories/">Accessories</a></li>
-									</ul>
-								</li>
-				            	<li><a href="#" onclick="show_tree('cat_203', 'subcat_252');">Bitsy Girls Size 2-7</a>
-				            		<ul id="subcat_252" style="display: none">
-									        		<li id="leaf_cat_253"><a href="/Collections/Bitsy-Girls-Size-2-7/Bitsy-L-Series/">Bitsy L-Series</a></li>
-									        		<li id="leaf_cat_254"><a href="/Collections/Bitsy-Girls-Size-2-7/Itsy-Bitsy/">Itsy Bitsy</a></li>
-									        		<li id="leaf_cat_255"><a href="/Collections/Bitsy-Girls-Size-2-7/Bitsy-Active/">Bitsy Active</a></li>
-									        		<li id="leaf_cat_256"><a href="/Collections/Bitsy-Girls-Size-2-7/Layers/">Layers</a></li>
-									        		<li id="leaf_cat_257"><a href="/Collections/Bitsy-Girls-Size-2-7/Accessories/">Accessories</a></li>
-									</ul>
-								</li>
-								<li id="leaf_cat_"><a href="/Collections/Bags/">Bags</a></li>
-				</ul>	
-	        </li>
-	    </ul>
-	    <script type="text/javascript">show_tree('', '', '');</script>
-	</div><!--/.sidenav-->
-	<script type="text/javascript">
-		function shorten_leftnav(){
-			if(shorten_leftnav_var == 'true'){
-				document.getElementById("sidenav").style.height = '640px';
-			}
-		}
-	</script>
-			</div><!--/.contentwrap -->
-<div class="footer">
-	<p class="links"><a href="/">Home</a>/<a href="/Site-Map.html">Site Map</a>/<a href="/YourPrivacy.html">Your Privacy</a>/<a href="http://www.facebook.com/spyderactivesports" target="_blank">Facebook</a>/<a href="http://twitter.com/iamspyder" target="_blank">Twitter</a></p>
-	<p class="copyright">Copyright © 2010 Spyder Active Sports, Inc. All Rights Reserved.</p>
-</div><!--/.footer-->
-	<script type="text/javascript">
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-		<script type="text/javascript">
-		var pageTracker = _gat._getTracker("UA-4865642-1");
-		pageTracker._initData();
-		pageTracker._trackPageview();
-	</script>
-		</div><!--/.container-->  
-	
+</div>
 
-</body></html>
+</div>
+<div id="floating-nav">
+<a href="/" class="toggle"><span>Spyder</span></a>
+<ul>
+<li class="home"><a href="/">Home</a></li>
+<li class="products"><a href="/products">Products</a></li>
+<li class="team"><a href="/team">Team</a></li>
+<li class="about current"><a href="/about">About Us</a></li>
+<li class="dealers"><a href="/dealers">Dealers</a></li>
+<li class="history"><a href="/history/timeline">History</a></li>
+</ul>
+</div>
+
+        <script type="text/javascript">
+          var _gaq = _gaq || [];
+          _gaq.push(
+            ['_setAccount', 'UA-4865642-1'],
+            ['_setDomainName', '.spyder.com'],
+            ['_setCustomVar', 1, 'Region', 'US', 2],
+            ['_trackPageview']
+          );
+          (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+          })();
+        </script>
+      
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/24/eum/rum-staging.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","f24c985b30",425660,"dAxeREUOVVtTRUwVWVAGQx9HE1BBV1QaOkhYD1lTTg==",0,433,new Date().getTime(),"","","","",""])</script>
+
+<script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/24/eum/rum-staging.js"></script></body></html>
