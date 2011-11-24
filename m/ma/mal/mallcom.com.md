@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the mallcom.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221170113id_/http%3A//www.mallcom.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mallcom.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124030731id_/http%3A//www.mallcom.com/privacy.shtml) for the most accurate reproduction.*
 
 # MALLcom :: 2257
 
 ### Data Security
 
-MALLcom is fully committed to data security. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place electronic and managerial procedures to safeguard and secure the information you provide to us online.
+MALLcomÂ is fully committed to data security. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place electronic and managerial procedures to safeguard and secure the information you provide to us online.
 
 ### Company Commitment to Privacy
 
 We believe strongly in respecting your privacy. However, we also reserve the right to change our privacy policy in order to adapt to new situations. Our commitment is to inform users how we intend to use any information we request before it is collected (so you can opt in), and to respect your wishes to opt out.
 
-MALLcom's website contains links to other websites and is not responsible for privacy practices of those websites. MALLcom encourages users to learn about the privacy practices of those websites.
+MALLcom's website contains links to other websites and is not responsible for privacy practices of those websites.Â MALLcom encourages users to learn about the privacy practices of those websites.
 
 ### Privacy Statement
 
