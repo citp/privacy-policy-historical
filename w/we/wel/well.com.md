@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the well.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623091959id_/http%3A//www.well.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the well.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124042509id_/http%3A//www.well.com/privacy.html) for the most accurate reproduction.*
 
 # The WELL - Privacy Policy
 
-This document is one of the agreements between Salon's Communities (including both The WELL and Salon's Table Talk forum areas) and their members. It concerns the legal privacy framework in which you participate in Salon Communities, what your rights and responsibilities are and what you can expect from The WELL.
+This document is one of the agreements between Salon's community at The WELL and its members. It concerns the legal privacy framework in which you participate in this community, what your rights and responsibilities are and what you can expect from The WELL.
 
 **Contents:**
 
