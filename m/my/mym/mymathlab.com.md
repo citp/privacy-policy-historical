@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymathlab.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510013212id_/https%3A//register.pearsoncmg.com/w3c/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymathlab.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124062536id_/https%3A//register.pearsoncmg.com/w3c/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -22,13 +22,13 @@ Pearson may disclose PII to third parties not affiliated with Pearson, in the fo
 
   * Within application rosters, grade books, or communication tools that facilitate instructor and student engagement. 
   * Where disclosure is requested by the educational institution, school district or system in which the user is enrolled, or by applicable state educational authorities, for educational or administrative purposes. 
-  * In the event of suspected illegal conduct, misappropriating password access, violating Pearson Terms of Use or engaging in academic misconduct or other conduct prohibited by an end-userâ€™s academic institution or workplace. 
+  * In the event of suspected illegal conduct, misappropriating password access, violating Pearson Terms of Use or engaging in academic misconduct or other conduct prohibited by an end-user’s academic institution or workplace. 
 
 
 
 You should be aware that any PII voluntarily posted to a public area of a Pearson application (posting to a bulletin board or chat room) might be collected and used by others. Pearson cannot prevent such uses. 
 
-SPECIAL NOTICE TO PARENTS: Pearson has no intention of seeking PII about minors (children under age 13). If obtained, Pearsonâ€™s privacy policies will apply to that information. In addition, if Pearson can identify a user as a minor, the PII will not be used for marketing and promotion. Pearson encourages you to ask your children to seek your permission before providing information about themselves or their family over the Internet. 
+SPECIAL NOTICE TO PARENTS: Pearson has no intention of seeking PII about minors (children under age 13). If obtained, Pearson’s privacy policies will apply to that information. In addition, if Pearson can identify a user as a minor, the PII will not be used for marketing and promotion. Pearson encourages you to ask your children to seek your permission before providing information about themselves or their family over the Internet. 
 
 SPECIAL NOTICE TO CHILDREN: Ask your parent or guardian for permission before you sign up for any Website or send any personal information over the Internet, including through email. 
 
