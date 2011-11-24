@@ -1,31 +1,60 @@
-> *The following text is extracted and transformed from the vetstreet.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505042112id_/http%3A//www.vetstreet.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vetstreet.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124014846id_/http%3A//www.vetstreet.com/privacy-policy) for the most accurate reproduction.*
 
-# Vetstreet - Privacy Policy
+# Privacy Policy - Vetstreet
 
-The vetstreet.com website ("our site") is offered to you conditioned on your acceptance without modification of the terms, conditions, and notices contained herein. Your use of our site constitutes your agreement to all such terms, conditions, and notices. **If you do not agree to all of these Terms of Use, do not use Vetstreet.com.** Reference to "us" or "we" means MediMedia Animal Health, LLC.
+##  PRIVACY STATEMENT
 
-This Privacy Policy explains how we collect, use, share, and protect your personal information when you visit our site. Please read this privacy policy carefully and be aware that by accessing and using the site, you agree that you have read this policy and that you accept and consent to the privacy practices described. If you have questions or concerns about this policy, please e-mail us at [info@vetstreet.com](mailto:info@vetstreet.com).
+Vetstreet.com is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Vetstreet.com Website and governs data collection and usage. By using the Vetstreet.com website, you consent to the data practices described in this statement.  
+ 
 
-### The information we collect and how we collect it
+##  COLLECTION OF YOUR PERSONAL INFORMATION
 
-The only way we identify visitors to our site is if they choose to specifically identify themselves to us. This means we only collect personal information about you if you choose to disclose it to us (for example, when you sign up for our e-newsletter or request to receive more information about us through our "Contact Us" form, you may choose to provide your name, mailing address, telephone number, e-mail address, or information about your business). While we use recognized industry safeguards to protect personal information from unauthorized access or use, the sharing and storing of data online has inherent risks, so please take care to share only information that you believe is appropriate.
+  
 
-### This Web site is not designed or intended to attract children, and we do not collect or maintain information from individuals who we actually know are under the age of 13 years.
 
-We collect your non-personal information (such as your Internet Protocol address, and the software version and domain reported by your browser), by sending "cookies" to your computer. Cookies are used to track visitors as they use our site. We uses cookies to enhance your online experience, and to learn how you use our services so we can improve the quality of information and resources available on our site. Most Web browsers are set up to accept all cookies, but you can change this setting to disable cookies or to tell you when a Web site is sending you a cookie (although some of our features may not work if you disable them).
+Vetstreet.com collects personally identifiable information, such as your email address, name, home or work address, or telephone number. Vetstreet.com also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests, and favorites.
 
-### How we use your information
+There is also information about your computer hardware and software that is automatically collected by Vetstreet.com. This information can include: your IP address, browser type, domain names, access times, and referring Website addresses. This information is used by Vetstreet.com for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Vetstreet.com Website.
 
-We may use your non-personal information to help us compile general statistical data for site tracking purposes. Any other personal information is used solely to provide services you have requested or authorized. We also use the information you provide to respond to your questions, provide better functionality to you, to help us manage our site, and to comply with applicable law or valid legal process. We do not sell or share the information with any other entity for marketing purposes.
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Vetstreet.com public message boards, this information may be collected and used by others. Note: Vetstreet.com does not read any of your private online communications.
 
-We do not share a user's personal information with third party businesses for direct marketing purposes. 
+Vetstreet.com encourages you to review the privacy statements of Websites you choose to link to from Vetstreet.com so that you can understand how those Websites collect, use and share your information. Vetstreet.com is not responsible for the privacy statements or other content on Websites outside of the Vetstreet.com and Vetstreet.com family of Websites.
 
-### Linked sites
+##  USE OF YOUR PERSONAL INFORMATION
 
-For your reference, this site contains links to Web sites that are not operated by or affiliated with us. Because these third-party Web sites are not under our control, we cannot be responsible for them, and this privacy policy does not apply to the privacy or security practices of those sites. Information you disclose once you access these other Web sites is not subject to this privacy policy.
+  
 
-### Changes to the privacy policy
 
-From time to time, we may change this privacy policy and our privacy practices because of changes in legal or regulatory requirements, in our business practices, or in our attempts to better meet your needs. When we do, we will post a revised privacy policy on the site. Any changes will be effective immediately upon posting. You are responsible for checking the privacy policy for these changes.
+Vetstreet.com collects and uses your personal information to operate the Vetstreet.com Website and deliver the services you have requested. Vetstreet.com also uses your personally identifiable information to inform you of other products or services available from Vetstreet.com and its affiliates. Vetstreet.com may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-All trademarks, service marks, trade names, logos and graphics ("Marks") used on this site are registered or common law trademarks of MediMedia Animal Health, LLC, unless otherwise indicated. You may not make any use of Marks without the prior written consent of us. 
+Vetstreet.com does not sell, rent, or lease its customer lists to third parties. Vetstreet.com may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (email, name, address, telephone number) is not transferred to the third party. In addition, Vetstreet.com may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Vetstreet.com, and they are required to maintain the confidentiality of your information.  
+Vetstreet.com does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+
+Vetstreet.com keeps track of the Websites and pages our customers visit within Vetstreet.com, in order to determine what Vetstreet.com services are the most popular. This data is used to deliver customized content and advertising within Vetstreet.com to customers whose behavior indicates that they are interested in a particular subject area.
+
+Vetstreet.com Websites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Vetstreet.com or the site; (b) protect and defend the rights or property of Vetstreet.com; and, (c) act under exigent circumstances to protect the personal safety of users of Vetstreet.com, or the public.
+
+##  USE OF COOKIES
+
+  
+
+
+The Vetstreet.com Website uses "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Vetstreet.com pages, or register with Vetstreet.com site or services, a cookie helps Vetstreet.com to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Vetstreet.com Website, the information you previously provided can be retrieved, so you can easily use the Vetstreet.com features that you customized.
+
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Vetstreet.com services or Websites you visit.
+
+##  SECURITY OF YOUR PERSONAL INFORMATION
+
+Vetstreet.com secures your personal information from unauthorized access, use, or disclosure. Vetstreet.com secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use, or disclosure. When personal information (such as a credit card number) is transmitted to other Websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.  
+ 
+
+##  CHANGES TO THIS STATEMENT
+
+Vetstreet.com will occasionally update this Statement of Privacy to reflect company and customer feedback. Vetstreet.com encourages you to periodically review this Statement to be informed of how Vetstreet.com is protecting your information.  
+ 
+
+##  CONTACT INFORMATION
+
+Vetstreet.com welcomes your comments regarding this Statement of Privacy. If you believe that Vetstreet.com has not adhered to this Statement, please contact Vetstreet.com at [webmaster@vetstreet.com](mailto:webmaster@vetstreet.com?subject=Privacy%20Policy%20Feedback). We will use commercially reasonable efforts to promptly determine and remedy the problem.
