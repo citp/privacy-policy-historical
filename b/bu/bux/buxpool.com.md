@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buxpool.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511152540id_/http%3A//www.buxpool.com/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buxpool.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124015950id_/http%3A//www.buxpool.com/index.php%3Fview%3Dprivacy%26) for the most accurate reproduction.*
 
 # BuxPool : Privacy Policy
 
