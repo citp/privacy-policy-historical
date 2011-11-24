@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thisiscentralstation.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130090051id_/http%3A//www.thisiscentralstation.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisiscentralstation.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124032020id_/http%3A//thisiscentralstation.com/privacy.aspx) for the most accurate reproduction.*
 
 # Central Station, Your Privacy
 
