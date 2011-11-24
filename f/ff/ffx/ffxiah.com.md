@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ffxiah.com privacy policy that was archived on 2010-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101006004738id_/http%3A//www.ffxiah.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ffxiah.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124015352id_/http%3A//www.ffxiah.com/privacy) for the most accurate reproduction.*
 
 # FFXIAH.com
 
@@ -21,7 +21,7 @@ FFXIAH.com takes your privacy seriously. Please read to learn more about our pri
 
 **Final Fantasy XI**
 
-  * We may ask our registered users the name(s) of their chracter(s) inside of Final Fantasy XI. We will link the character names with your user account after the user successfully completes a verification process. The registration of a character may be made public, but the user linked to that character will not be made public. 
+  * We may ask our registered users the name(s) of their chracter(s) inside of Final Fantasy XI. We will link the character names with your user account after the user successfully completes a verification process. The registration of a character may be made public, but the user linked to that character will not be made public unless that character participates in the forum. 
   * All characters' auction house transactions are obtained from public price histories inside of Final Fantasy XI's auction houses. Therefore, all characters' transactions collected by FFXIAH.com will be made public by default. FFXIAH.com registered users may opt to hide their verified character's transactions. 
 
 
