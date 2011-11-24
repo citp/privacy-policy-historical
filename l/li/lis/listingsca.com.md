@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listingsca.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519235554id_/http%3A//listingsca.com/common/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listingsca.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124034215id_/http%3A//listingsca.com/common/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Listings Canada
 
@@ -35,7 +35,7 @@ This web site contains links to other sites. Please be aware that we [LWorld Med
 
 **Security**
 
-This website takes every precaution to protect our users’ information. If you have any questions about the security at our website, please feel free to [contact us](https://web.archive.org/web/20110519235554id_/http%3A//listingsca.com/common/contact.asp).
+This website takes every precaution to protect our users’ information. If you have any questions about the security at our website, please feel free to [contact us](https://web.archive.org/web/20111124034215id_/http%3A//listingsca.com/common/contact.asp).
 
 **Site and Service Updates**
 
