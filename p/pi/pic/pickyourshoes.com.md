@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the pickyourshoes.com privacy policy that was archived on 2011-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110411173559id_/http%3A//www.pickyourshoes.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickyourshoes.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124093912id_/http%3A//www.pickyourshoes.com/Privacy-Policy) for the most accurate reproduction.*
 
-# PickYourShoes.Com Shopping Cart - Online Boutique, Nike, Jordan, Supra, Adidas, Reebok, Creative Recreation, Clae, Sneaktip
-
-| 
+# Privacy Policy | PickYourShoes.com
 
 Last updated: September 2, 2010.
 
-**What information do we collect?**
+ **What information do we collect?**
 
 We collect information from you when you place an order or subscribe to our newsletter. 
 
@@ -38,7 +36,7 @@ Any of the information we collect from you may be used in one of the following w
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
@@ -47,6 +45,8 @@ After a transaction, your private information (credit cards, social security num
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
 We use cookies to help us remember and process the items in your shopping cart and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+As an example, Facebook collects certain information via cookies and web beacons to determine which web pages are visited or what products are purchased. Please note that any information collected by Facebook via cookies and web beacons is not linked to any customer's personal information collected by us.
 
 **Do we disclose any information to outside parties?**
 
