@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newson6.com privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221070733id_/http%3A//www.newson6.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newson6.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124015935id_/http%3A//www.newson6.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - NewsOn6.com - Tulsa, OK - News, Weather, Video and Sports - KOTV.com |
 
