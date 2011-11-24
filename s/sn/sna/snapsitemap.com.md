@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snapsitemap.com privacy policy that was archived on 2011-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110203011221id_/http%3A//www.snapsitemap.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapsitemap.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124142403id_/http%3A//www.snapsitemap.com/privacy) for the most accurate reproduction.*
 
-# SnapSitemap Privacy Policy
+# SnapSiteMap - The easiest way to create and manage your sitemap
 
 **What information do we collect?**
 
@@ -48,7 +48,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.scansitemap.com/terms.jsp](https://web.archive.org/terms.jsp)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.snapsitemap.com/terms.jsp](https://web.archive.org/terms.jsp)
 
 **Your Consent**
 
@@ -62,7 +62,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-www.SnapSiteMap.com  
+www.SnapSitemap.com  
 530 Lawrence Expwy  
 Suite 394  
 Sunnyvale, CA  
