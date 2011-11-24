@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the addresstwo.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119072826id_/http%3A//addresstwo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addresstwo.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124023719id_/http%3A//addresstwo.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# AddressTwo
 
 **Effective Date: 09-15-2009**
 
