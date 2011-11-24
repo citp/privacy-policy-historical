@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdbangla.org privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422025635id_/http%3A//bdbangla.org/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdbangla.org privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124011659id_/http%3A//bdbangla.org/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Bdbangla.org Privacy Policy
 
