@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brownells.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226091344id_/http%3A//www.brownells.com/aspx/general/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brownells.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124034756id_/http%3A//www.brownells.com/aspx/general/privacy_policy.aspx) for the most accurate reproduction.*
 
-# World's Largest Supplier of Firearm Accessories, Gun Parts and Gunsmithing Tools
+# World's Largest Supplier of Firearm Accessories, Gun Parts and Gunsmithing Tools - BROWNELLS
 
 ## Privacy Policy
 
