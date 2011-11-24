@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nau.edu privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215045438id_/http%3A//home.nau.edu/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nau.edu privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125004105id_/http%3A//nau.edu/privacy) for the most accurate reproduction.*
 
 # Northern Arizona University - Main Privacy Statement
 
