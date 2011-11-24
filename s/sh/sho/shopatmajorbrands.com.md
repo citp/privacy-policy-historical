@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopatmajorbrands.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612005204id_/http%3A//shopatmajorbrands.com/brand/faces/jsp/static.jsp%3Farticleid%3D104) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopatmajorbrands.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124015355id_/http%3A//www.shopatmajorbrands.com/brand/faces/jsp/static.jsp%3Farticleid%3D104) for the most accurate reproduction.*
 
-# || Online Shopping || Static Pages
+# || Online Shopping
 
 What Information Do We Collect?
 
