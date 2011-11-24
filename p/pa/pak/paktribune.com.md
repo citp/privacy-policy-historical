@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paktribune.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625204401id_/http%3A//paktribune.com/mainlinks/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paktribune.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124030039id_/http%3A//paktribune.com/contents/privacy-policy-13.html) for the most accurate reproduction.*
 
-# Pakistan News PakTribune.Com
+# Privacy Statement - PakTribune
 
 We will collect no personal information about you when you visit our website unless you choose to provide that information to us.  
 If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit:
