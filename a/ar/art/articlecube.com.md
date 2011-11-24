@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlecube.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209165608id_/http%3A//www.articlecube.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlecube.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124012043id_/http%3A//www.articlecube.com/privacy-policy) for the most accurate reproduction.*
 
 # About Us - Contact Us - TOS - Privacy Policy - ArticleCube
 
