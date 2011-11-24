@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marvell.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227012432id_/http%3A//www.marvell.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marvell.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124025212id_/http%3A//www.marvell.com/legal/privacy-statement.jsp) for the most accurate reproduction.*
 
-# Marvell: Privacy Statement
+# Marvell - Legal - Privacy Statement
 
 ## Use of the Marvell Internet Site Privacy Statement
 
@@ -12,15 +12,15 @@ This statement regarding the privacy of the personally identifiable information 
 
 Marvell provides this Online Privacy Statement to make you aware of our privacy policy and practices and of the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at the bottom of every marvell.com page.
 
-#### What we collect
+**What we collect**
 
 If you browse Marvell's Web site anonymously, we don't collect personal information. Otherwise, we may collect your contact and company information, including your email address. We do log your IP address (the Internet address of your computer) to give us an idea of which parts of our Web site you visit and how long you spend there. But we do not link your IP address to anything personally identifiable.
 
-#### How we use it
+**How we use it**
 
 Marvell uses your information to better understand your needs and provide you with better service. Specifically, we use your information to help you complete a transaction, to communicate back to you, to update you on service and benefits, and to personalize our Web sites for you.
 
-#### Who we share it with
+**Who we share it with**
 
 Marvell will not sell, rent or lease your personally identifiable information to others. Unless we have your permission or are required by law, we will only share the personal data you provide online with other Marvell entities and/or business partners who are acting on our behalf for the uses described above. Such Marvell entities and/or business partners, including those in the United States and/or any other countries, are governed by our privacy policies with respect to the use of this data and are bound by the appropriate confidentiality agreements.
 
@@ -34,7 +34,7 @@ Marvell is committed to ensuring the security of your information. To prevent un
 
 ### OVERSIGHT
 
-If you have comments or questions about our privacy policy, please send them to this email address: [privacy@marvell.com](mailto:privacy@marvell.com).
+If you have comments or questions about our privacy policy, please send us a message through our [feedback form](https://web.archive.org/feedback/).
 
 ### MARVELL'S PRIVACY POLICY
 
