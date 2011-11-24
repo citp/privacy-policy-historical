@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the buzzen.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526150303id_/http%3A//www.buzzen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzen.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124015233id_/http%3A//www.buzzen.com/privacy) for the most accurate reproduction.*
 
 # Buzzen Chat!
-
-[Chat Code of Conduct](https://web.archive.org/support/conduct.php)  
-[SpaceDom Code of Conduct](https://web.archive.org/support/spacecoc.php)  
-[Buzzen Supported Room Code of Conduct](https://web.archive.org/support/bsrcoc.php)  
-[Terms of Use](https://web.archive.org/web/20110526150303id_/http://www.buzzen.com/privacy/tou.php)
-
-Privacy Statement
 
 **COPYRIGHT© 2004 - THIS YEAR BUZZEN COMMUNICATIONS INC:**
 
