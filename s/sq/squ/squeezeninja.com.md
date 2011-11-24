@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squeezeninja.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523110137id_/http%3A//squeezeninja.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squeezeninja.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124114721id_/http%3A//squeezeninja.com/privacy.html) for the most accurate reproduction.*
 
 # Power Squeeze Pages - Privacy
 
