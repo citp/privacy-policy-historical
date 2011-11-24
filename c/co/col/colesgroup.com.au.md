@@ -1,85 +1,100 @@
-> *The following text is extracted and transformed from the colesgroup.com.au privacy policy that was archived on 2011-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110216193626id_/http%3A//www.colesgroup.com.au/Home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colesgroup.com.au privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124074610id_/http%3A//www.wesfarmers.com.au/security-a-privacy.html) for the most accurate reproduction.*
 
-# Coles Privacy Policy
+# Wesfarmers - Security & privacy
 
-### Introduction
+## Introduction
 
-At Coles Group Limited, we are committed to protecting the privacy of everyone who shops or interacts with us.
-
-This privacy policy applies to Coles Group Limited and its related companies, and covers all personal information we collect about customers and other individuals outside Coles Group Limited. When we talk about “personal information”, we use the definition provided by the Federal Privacy Act - 
-
-> “Personal information” means information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can be reasonably ascertained, from the information or opinion.
-
-We require all of our employees, contractors, suppliers, business partners and service providers to comply with privacy laws and continually look for ways to meet and exceed our customers’ expectations. 
-
-### Collecting Information
-
-We only collect information that is necessary for one or more of our functions or activities, and we only keep it for as long as we may require it for a legitimate business purpose.
-
-When we collect personal information from an individual, we ensure that we do so in a fair manner. We also let the individual know: 
-
-  * which Coles Group Limited company is collecting the information, and how to contact that company
-  * the purposes for which the information is being collected
-  * the organisations, or types of organisations, to whom we may disclose the information
-  * the main consequences (if any) for the individual if all or part of the information is not provided, except to the extent that this is obvious
-  * the fact that the individual can access the information that we hold
-  * any law that requires us to collect the information. 
+  1. This Privacy Policy is Wesfarmers Limited's official privacy policy and it applies to all personal information collected by Wesfarmers Limited. In this policy we explain how and why we collect your personal information, how we use it, and what controls you have over our use of it.
+  2. Wesfarmers Limited is committed to complying with Commonwealth legislation governing privacy of personal information by businesses and to protecting and safeguarding your privacy when you deal with us.
 
 
 
-Privacy notices enable our businesses to communicate these matters clearly and consistently wherever we collect personal information.
+## Collection of information
 
-We will collect personal information directly from the individual concerned whenever practical. However, if we do collect an individual’s personal information from a third party, we take reasonable steps to ensure that the individual has been advised of the matters listed above as they apply to both the third party and our own handling of the information.
-
-We treat certain kinds of sensitive information, such as health information, with higher standards of security and confidentiality. We will only use this sensitive information with the individual’s consent unless the law specifies otherwise.
-
-### Disclosing Information
-
-We will only disclose personal information:
-
-  * for the purposes for which we have advised that we are collecting it, and for related purposes that could reasonably be expected in the circumstances, 
-  * with the individual’s consent,
-  * as part of the asset sale of a business or division,
-  * as specified by law.
+  1. ****Some information provided to us by clients, customers, contractors and other third parties might be considered private or personal. Without these details we would not be able to carry on our business and provide our services to you. We will only collect such personal information if it is necessary for one of our functions or activities.
+  2. ****In particular, personal information is collected from people in the following situations by Wesfarmers Limited:
+    * If you contact Wesfarmers Limited, we may keep a record of that correspondence. 
+    * When you submit your email address to our website mailing list.
+  3. ****At or before the time the personal information is collected by us we will take reasonable steps to ensure that you are made aware of who we are, the fact that you are able to gain access to the information held about you, the purpose of the collection, the type(s) of organisations to which we usually disclose the information collected about you, any laws requiring the collection of the information and the main consequences for you if all or part of the information is not collected.
 
 
 
-In the course of our business activities, we may need to disclose personal information to our agents, service providers, business partners, government authorities and others, but will always do so in accordance with the above principles. Except where data is transferred as part of the sale of a business or a business division, we will not sell personal information under any circumstances or share it with anyone for marketing purposes unless we have advised of this on collection or otherwise obtained the individual’s consent.
+## Use of information collected and disclosure of personal information to others
 
-### Unauthorised Disclosure or Use
+  1. We may use or disclose personal information held about an individual for the primary purpose for which it is collected (eg. provision of our services, including administration of our services, notification to you about changes to our services, record-keeping following termination of our services to you and technical maintenance). We may also use such information for a purpose related to the primary purpose of collection and where it would reasonably be expected by you that we would use the information in such a way. This information is only disclosed to persons outside our business in the circumstances set out in this policy or as otherwise notified to you at the time of collection of the information.
+  2. In addition we are permitted to use or disclose personal information held about you: 
+    * Where you have consented to the use or disclosure; 
+    * Where we reasonably believe that the use or disclosure is necessary to lessen or prevent a serious, immediate threat to someone's health or safety or the public's health or safety; 
+    * Where we reasonably suspect that unlawful activity has been, is being or may be engaged in and the use or disclosure is a necessary part of our investigation or in reporting the matter to the relevant authorities; 
+    * Where such use or disclosure is required under or authorised by law (for example, to comply with a subpoena, a warrant or other order of a court or legal process); and
+    * Where we reasonably believe that the use or disclosure is reasonably necessary for prevention, investigation, prosecution and punishment of crimes or wrongdoings or the preparation for, conduct of, proceedings before any court or tribunal or the implementation of the orders of a court or tribunal by or on behalf of an enforcement body.
 
-Unauthorised disclosure or use of personal information by our employees, contractors or agents is a serious breach of this policy. Merely accessing information without proper authority is a form of unauthorised use and will not be tolerated. In the event of a breach, we will take appropriate action, which may include disciplinary or legal action.
 
-### Opt-Out
 
-We will ensure that each direct marketing offer is checked against our opt-out register and provides a clear opt-out opportunity. We will always provide a nil-cost way of contacting us to opt out of receiving further marketing offers.
+## Links
 
-### Access to Personal Information
+  1. Our website may contain links to other websites and those third party websites may collect personal information about you. We are not responsible for the privacy practices of other businesses or the content of websites that are linked to our website. Wesfarmers Limited encourages users to be aware when they leave the site and to read the privacy statements of each and every website that collects personally identifiable information.
 
-Individuals will be able to access their personal information upon request. However, we may occasionally need to deny access to information where the law expressly allows it (for example, when someone is under investigation for fraud).
 
-We will not provide access to spouses, family members or other third parties unless we are required or permitted by law to do so or have the clear, written authority of the individual concerned.
 
-### Security
+## Security and storage
 
-Our priority is to protect the personal information that we collect. Personal information will be managed confidentially and securely, and will be destroyed when no longer required. 
+  1. Wesfarmers Limited places a great importance on the security of all information associated with our customers, clients and contractors. We have security measures in place to attempt to protect against the loss, misuse and alteration of personal information under our control.
+  2. Personal information is de-identified or destroyed securely when no longer required by us.
+  3. Wesfarmers Limited retains the information you provide to us including your contact and credit card details to enable us to verify transactions and customer details and to retain adequate records for legal and accounting purposes. This information is held on secure servers in controlled facilities.
+  4. Information stored within our computer systems can only be accessed by those entrusted with authority and computer network password sanctions.
+  5. No data transmission over the internet can be guaranteed to be 100 per cent secure. As a result, while we strive to protect user's personal information, Wesfarmers Limited cannot ensure or warrant the security of any information transmitted to it or from its online products or services, and users do so at their own risk. Once Wesfarmers Limited receives your transmission, it makes every effort to ensure its security on its systems.
+  6. Ultimately, you are solely responsible for keeping your passwords and/or account information secret. You should be careful and responsible whenever you are online.
 
-We secure personal information in the same way as we safeguard our own sensitive information. We also strive to constantly improve our business processes and the technology we use to protect data.
 
-### Data Quality
 
-We will take all reasonable steps to ensure that personal data we hold is accurate, complete and up to date, and has been obtained directly from the individual or a reputable third party.
+## Access to and correction of personal information
 
-### Privacy Inquiries
+  1. Wesfarmers Limited is committed to maintaining accurate, timely, relevant and appropriate information about our customers, clients and web-site users.
+  2. So long as your request for your personal information is in accordance with the National Privacy Principles, then we will give you access to that information through our Privacy Officer. [To contact the Privacy Officer, please click here to go our Contact page](http://www.wesfarmers.com.au/contact.html "Contact").   
 
-Privacy-related inquiries or concerns can be directed to the customer service department of each Coles Group Limited business.
+  3. Inaccurate information will be corrected upon receiving advice to this effect from you. To ensure confidentiality, details of your personal information will be passed on to you only if we are satisfied that the information relates to you.
+  4. If we refuse to provide you with access or correct the personal information held about you by us, then we will provide reasons for such refusal.
 
-### Availability and Review of Policy & Privacy Statements
 
-We will make our privacy policy available on request and will provide a link to this policy from all Coles Group Limited websites.
 
-Privacy statements are issued by our businesses, loyalty programs and some specific business functions. These refer to our privacy policy but give more specific information regarding our data handling practices. They are available through our websites, stores, customer service departments and other points of contact with the public.
+## Complaints
 
-This policy will be reviewed from time to time and any amendments will be incorporated in the updated policy and in privacy statements across the group where applicable. We will take steps to let individuals know of the changes that affect them.
+  1. If you have a complaint about our Privacy Policy or the collection, use or safe disposal or destruction of your personal information, your complaint should be directed in the first instance to us via email [through the contact page](http://www.wesfarmers.com.au/contact.html).[](mailto:privacy@wesfarmers.com.au)
+  2. We will investigate your complaint and attempt to resolve any breach that might have occurred in relation to the collection, use or destruction of personal information held by us about you in accordance with the Commonwealth Privacy legislation. If you are not satisfied with the outcome of this procedure then you may request that an independent person (usually the Commonwealth Privacy Officer) investigate your complaint.
 
-**Issued March 2006**
+
+
+## Transfer of information overseas
+
+  1. Pursuant to the National Privacy Principles we may transfer personal information we have collected about you to someone other than you in a foreign country only if such transfer is permitted by the National Privacy Principles.
+
+
+
+## Cookies
+
+  1. Wesfarmers Limited collects information from the site using "IP files".
+  2. When you visit the Wesfarmers Limited site to read, browse or download information, our system will record/log your IP address (the address which identifies your computer on the internet and which is automatically recognised by our web server), date and time of your visit to our site, the pages viewed and any information downloaded. This information will only be used for the purpose of site analysis and to help us offer you improved online service. We may automatically collect non-personal information about you such as the type of internet browsers you use or the site from which you linked to our websites. You cannot be identified from this information and it is only used to assist us in providing an effective service on our Web Sites.
+
+
+
+## Changes to Privacy Policy
+
+  1. If Wesfarmers Limited decides to change its Privacy Policy, it will post changes on this Privacy Policy page so that users are always aware of what information is collected, how it is used and the way in which information may be disclosed. As a result, please remember to refer back to this Privacy Policy regularly to review any amendments.
+
+
+
+## Contacting us
+
+  1. If you require further information regarding our Privacy Policy, please contact [the Privacy Officer through the Contact page](http://www.wesfarmers.com.au/contact.html "Contact").[](mailto:privacy@wesfarmers.com.au)
+  2. Should you wish to read more information on privacy legislation or the National Privacy Principles we recommend that you visit the Federal Privacy Commissioner's website at [www.privacy.gov.au](http://www.privacy.gov.au/).
+
+
+
+## Acceptance
+
+  1. You accept that your use of this site includes your acceptance of this Privacy Policy and the Terms of Use.
+
+
+
+All information © 2009 WESFARMERS LIMITED
