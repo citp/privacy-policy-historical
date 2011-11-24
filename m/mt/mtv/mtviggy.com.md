@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtviggy.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607000834id_/http%3A//www.mtviggy.com/legal/MTVIggy_com_Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtviggy.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124030729id_/http%3A//www.mtviggy.com/legal/mtviggy-com-privacy-policy) for the most accurate reproduction.*
 
 # 
 
