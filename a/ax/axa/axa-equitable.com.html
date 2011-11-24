@@ -1,35 +1,74 @@
-<!--The following is the downloaded HTML source of the axa-equitable.com privacy policy that was archived on 2011-02-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110219114854id_/http%3A//www.axa-equitable.com/axa/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the axa-equitable.com privacy policy that was archived on 2011-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124012731id_/http%3A//www.axa-equitable.com/axa/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<title>Online Privacy Policy</title>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">	
-<link rel="stylesheet" href="/styles/axa_screen.css" type="text/css" media="screen">
-<link rel="stylesheet" href="/styles/axa_editor.css" type="text/css" media="screen">
-<link rel="stylesheet" media="screen" href="/styles/jqimpromptu.css" type="text/css">
-<link rel="stylesheet" media="screen" href="/styles/axa_screen_override.css" type="text/css">
-<link rel="stylesheet" media="print" href="/styles/axa_print.css" type="text/css">
+<link rel="stylesheet" href="/styles/axa_min.css?oct25" type="text/css">
+<style type="text/css" media="print">
+@import "/styles/axa_print.css";
+</style>
 
 <script src="/javascript/jquery-1.4.2.axa.min.js " type="text/javascript"></script>
 <script src="/javascript/jquery.cookie.js" type="text/javascript"></script>
 <script src="/javascript/jquery-impromptu.3.1.min.js" type="text/javascript"></script>
-<script src="/javascript/utility.js" type="text/javascript"></script> 
-<script src="/javascript/common.js?20091222" type="text/javascript"></script> 
-<script src="/javascript/fpbox.js?20091222" type="text/javascript"></script> 
+<script src="/javascript/utility.js?nov18" type="text/javascript"></script> 
 <script src="/javascript/windows.js" type="text/javascript"></script> 
 <script src="/javascript/mrs_cookie.js" type="text/javascript"></script> 
+<script src="/javascript/jquery.simplemodal-1.4.1.js" type="text/javascript"></script>
 <!-- toolbar -->
-<link type="text/css" href="/javascript/toolbar/ui/css/custom-theme/jquery-ui-1.8.5.custom.css" rel="Stylesheet" media="screen">	
 <script type="text/javascript" src="/javascript/toolbar/ui/js/jquery-ui-1.8.5.custom.min.js"></script>
 <script src="/javascript/toolbar/js/jquery.socialstitch.toolbar.js" type="text/javascript"></script>
-<script src="/javascript/toolbar/js/jcookie.js" type="text/javascript"></script>
-<style type="text/css">@media print {#chickletsOuterContainer { display: none; }}</style>
 <!-- end toolbar -->
+
+<script type="text/template" id="regover">
+	<form id='regoverlay' onsubmit="return gotoRegistration($('#regoverlay input:radio[name=usertype]:checked').val())" action="x.html" method="get">
+	<div id='bar'><span class='formheader'>Registration</span></div>
+	
+	<p class='bold'>What type of account would you like to register?</p>
+	<fieldset class='fieldset'><input id="regoveric" type="radio" name="usertype" value="customer" /> <label for="regoveric">Individual Client/Trust</label></fieldset>
+	<fieldset class='fieldset'><input id="regoverrps" type="radio" name="usertype" value="empretplansponsor" /> <label for="regoverrps">Employer: Retirement Plan Sponsor</label></fieldset>
+
+	<p class='bold'>Third Party Financial Professional</p>
+	<fieldset class='fieldset'><input id="regoveria" type="radio" name="usertype" value="indivannuity" /> <label for="regoveria">Individual Annuity</label></fieldset>
+	
+	<fieldset class='fieldset'><input style="visibility:hidden"  id="regoveria" type="radio" name="usertype" value="indivannuity" /> <label for="regoveria">Life Insurance: Call (800) 924-6669</label></fieldset>
+	
+	<fieldset class='fieldset'><input style="visibility:hidden" id="regovertpesp" type="radio" name="usertype" value="login2" /> <label for="xxregovertpesp" style="font-weight:bold">Employer Sponsored Retirement Products, Call:</label></fieldset>
+	<p style="margin-left: 35px;"><label>-&nbsp;Retirement Gateway (401k): (866) 401-3030, option 1.</label></p>
+	<p style="margin-left: 35px;"><label>-&nbsp;EQUI-VEST (403b, 457): (800) 628-6673, option 5.</label></p>
+
+
+	<!--
+	<p class='bold'>Business Strategies</p>
+	<fieldset class='fieldset'><input id="regoverbsbc" type="radio" name="usertype" value="businessclient" /> <label for="regoverbsbc">Business Client</label></fieldset>
+	<fieldset class='fieldset'><input id="regoverintermediary" type="radio" name="usertype" value="intermediary" /> <label for="regoverintermediary">Professional Intermediary (e.g. CPA, Attornney, TPA, etc.)</label></fieldset>
+	<fieldset class='fieldset'><input id="regoverbsbustrust" type="radio" name="usertype" value="trust" /> <label for="regoverbsbustrust">Business Sponsored Trust</label></fieldset>
+		-->
+	<p/>&nbsp;</p>
+
+	<fieldset class='center'>
+	<input id="registrationcancel" name="continue" value="Continue" class="btn submitBut" type="submit"/>
+	<input id="registrationclose" name="close"	 value="Close" class="simplemodal-close btn submitBut" type="submit"/>
+	</fieldset>
+	</form>
+</script>
+
+<script type="text/template" id="changehomepageover">
+<div>
+    <p class="bold">Select the Website View You Want to See:</p>
+	<ul class="dashedIndent">
+	<li><a href="/home.jsp?role=reset">First-Time Visitor</a></li>
+	<li><a href="/home.jsp?role=C">Current Client</a></li>
+	<li><a href="/home.jsp?role=F">Financial Professional</a></li>
+	</ul>
+</div>
+</script>
 	
 	
 </head>
 
-<body><div id="printLogo"><img class="printHead" src="/images/logo_main_pr.gif" alt="AXA Equitable - Be Life Confident"></div>
+<body>
 	<div id="interior">
            
 		  
@@ -50,7 +89,7 @@
  
           	    
 
-		<li class="more  first outerlist public " id="p200820500160365"><div class="plusMinus"></div><a href="/axa/about-axa-equitable.html">About AXA Equitable</a>
+		<li class="more  first outerlist public " id="p200820500160365"><a href="/axa/about-axa-equitable.html">About AXA Equitable</a>
 		
 
 				 
@@ -58,7 +97,7 @@
 					
 
 				
-							    <ul style="display: none;">
+							    <ul>
 								    
 								    
 								              	    
@@ -90,10 +129,6 @@
 								    
 								    
 								              	    
-									  <li class=" innerlist public " id="s2008102913130820"><a href="/axa/client-message-10-08.html">Financial Strength and Stability</a></li>
-								    
-								    
-								              	    
 									  <li class="last innerlist public " id="s2008102918410972"><a href="/axa/current-markets-common-questions.html">Common Questions in Today's Markets</a></li>
 								    
 							    </ul>
@@ -106,7 +141,7 @@
  
           	    
 
-		<li class="more   outerlist public " id="p200820500160366"><div class="plusMinus"></div><a href="/axa/thought-leadership/condron-bloomberg-2010.html">Thought Leadership</a>
+		<li class="more   outerlist public " id="p200820500160366"><a href="/axa/thought-leadership/condron-bloomberg-2010.html">Thought Leadership</a>
 		
 
 				 
@@ -114,11 +149,19 @@
 					
 
 				
-							    <ul style="display: none;">
+							    <ul>
 								    
 								    
 								              	    
-									  <li class="first innerlist public " id="s201083010420292"><a href="/axa/thought-leadership/paul-volcker.html">Retirement in America: Paul Volcker</a></li>
+									  <li class="first innerlist public " id="s201181010160034"><a href="/axa/thought-leadership/mark-pearson.html">Dependability Through Ups and Downs</a></li>
+								    
+								    
+								              	    
+									  <li class=" innerlist public " id="s201191313140582"><a href="/axa/thought-leadership/remembrance-and-rebirth.html">Remembrance And Rebirth</a></li>
+								    
+								    
+								              	    
+									  <li class=" innerlist public " id="s201181008480268"><a href="/axa/thought-leadership/paul-volcker.html">Retirement in America: Paul Volcker</a></li>
 								    
 								    
 								              	    
@@ -134,7 +177,7 @@
  
           	    
 
-		<li class="more   outerlist public " id="p200840419580647"><div class="plusMinus"></div><a href="/axa/diversity-and-inclusion.html">Diversity and Inclusion</a>
+		<li class="more   outerlist public " id="p200840419580647"><a href="/axa/diversity-and-inclusion.html">Diversity and Inclusion</a>
 		
 
 				 
@@ -142,7 +185,7 @@
 					
 
 				
-							    <ul style="display: none;">
+							    <ul>
 								    
 								    
 								              	    
@@ -162,7 +205,7 @@
  
           	    
 
-		<li class="more   outerlist public " id="p200831016510983"><div class="plusMinus"></div><a href="/axa/history.html">Our History</a>
+		<li class="more   outerlist public " id="p200831016510983"><a href="/axa/history.html">Our History</a>
 		
 
 				 
@@ -170,7 +213,7 @@
 					
 
 				
-							    <ul style="display: none;">
+							    <ul>
 								    
 								    
 								              	    
@@ -190,7 +233,7 @@
  
           	    
 
-		<li class="more   outerlist public " id="p2008120815320283"><div class="plusMinus"></div><a href="/axa/awards.html">Awards</a>
+		<li class="more   outerlist public " id="p2008120815320283"><a href="/axa/awards.html">Awards</a>
 		
 
 				 
@@ -198,7 +241,7 @@
 					
 
 				
-							    <ul style="display: none;">
+							    <ul>
 								    
 								    
 								              	    
@@ -234,7 +277,7 @@
  
           	    
 
-		<li class="more   outerlist public  selected current" id="p200831011330689"><div class="plusMinus"></div><a href="/axa/ethics-and-business-practices.html">Ethics and Business Practices</a>
+		<li class="more   outerlist public  selected current" id="p200831011330689"><a href="/axa/ethics-and-business-practices.html">Ethics and Business Practices</a>
 		
 
 				 
@@ -242,7 +285,7 @@
 					
 
 				
-							    <ul style="display: block;">
+							    <ul>
 								    
 								    
 								              	    
@@ -286,7 +329,7 @@
  
           	    
 
-		<li class="more   outerlist public " id="p200840714490286"><div class="plusMinus"></div><a href="/axa-foundation/about.html">AXA Foundation</a>
+		<li class="more   outerlist public " id="p200840714490286"><a href="/axa-foundation/about.html">AXA Foundation</a>
 		
 
 				 
@@ -294,7 +337,7 @@
 					
 
 				
-							    <ul style="display: none;">
+							    <ul>
 								    
 								    
 								              	    
@@ -466,7 +509,7 @@ ask for our Privacy Information Center.</p>
 		
               
               		
-                       <div style="height: 239px;" class="loginBox" id="AllowLoginBox"><div class="header">Login to AXA Equitable</div>
+                       <div class="loginBox newloginbox" id="AllowLoginBox"><div id="specialMessage" style="padding-bottom:3px; display:none"><a href="/axa/important-message.html">Outage Alert</a></div><div class="header">Login to AXA Equitable</div>
  <!--Start Smart Card-->
 
      <div style="display:none" class="smartcard" id="smartcard">
@@ -477,85 +520,17 @@ ask for our Privacy Information Center.</p>
  <!--End Smart Card-->
   <div class="HFWC" id="EmpPlan">
     Login options for <span onclick="return activateMoreMenu();" class="moreLinks" id="more1">Employer Plan Administration</span>
-    <ul style="width: 200px; margin-left: 0px; margin-bottom: -20px" class="moreMenu" id="more1menu">
+    <ul style="width: 200px; margin-left: 0px; margin-bottom: -30px" class="moreMenu" id="more1menu">
 
-    <li class="header" style="">Choose an Option:</li>
+    <li class="header" style="margin:-6px 0px 2px 0;background-image: none;">Choose an Option:</li>
     <li><strong>Employer Plan Administration for:</strong></li>
     <li><a href="https://www3.financialtrans.com/tf/Trac?tx=SponsorDisclaim&amp;cz=50023002715">Retirement Strategies/Momentum</a><br>&nbsp;&nbsp;–<a href="http://www.axaplandemo.com/login.asp">View Demo</a></li>
     
     <li><a href="https://eqonline.axa-equitable.com/eqsponsor/equivestloadlogin.do">EQUI-VEST</a><br>&nbsp;&nbsp;–<a id="evdemo" href="/demos/EQSponsor/index2.html">View Demo</a></li>
-    
+    <li><a href="https://www.retirementlogin.com/planconnect/sponsor.aspx">EQUI-PATH a mutual fund program for 403b</a></li>    
 </ul> clients.
-  </div><form style="margin: 0px 0px 0px 0px;" action="https://www1.axa-equitable.com/uls/preauth/AXAPreLoginServlet" onsubmit="return checkRememberLogin()" method="post" id="login"><label for="loginId">User ID</label><input class="text" id="loginId" name="login"><label for="loginPassword">Password</label><input type="password" class="text" id="loginPassword" name="password" autocomplete="off"><br><input class="smCheck" id="rememberLogin" name="rememberLogin" type="checkbox"><label class="remember" for="rememberLogin">Remember my User ID</label><input id="submitLogin" name="submitLogin" value="Login" class="btn submitBut" type="submit"><p style="margin: 0px 0px 4px 0px;"><a rel="nofollow" href="https://www1.axa-equitable.com/uls/jsp/forgot.jsp">Forgot my User ID or Password</a><script type="text/javascript">
-
-	if($.cookie("AXAUserRole") != 'F')
-	{
-		document.write("<br /><a href='https://www1.axa-equitable.com/uls/jsp/registration_terms.jsp' rel='nofollow'>Customer Online Access Registration</a>");
-	} 
-	else
-	{}
-
-</script><br><a href="https://www1.axa-equitable.com/uls/jsp/registration_terms.jsp" rel="nofollow">Customer Online Access Registration</a></p><div id="specialMessage" style="padding-bottom:3px; display:none"><a href="/axa/important-message.html">Outage Alert</a></div><p></p></form></div><div class="loginBox" style="display:none; height: 239px;" id="UnavailableLoginBox">Due to scheduled maintenance, client login to online account values will be unavailable from 11:30 PM ET Saturday, January 22nd until 5:30 AM ET Sunday, January 23rd. We apologize for any inconvenience this may cause. </div><div class="loginBox" style="display:none; height: 239px;" id="LogoutLoginBox"><h3 style="text-align: center;" id="username"></h3><form name="logOutForm" id="logOutForm" method="post" action="https://www1.axa-equitable.com/uls/jsp/logoff.jsp" onsubmit="logoutClick();" style="text-align: center;"><input type="submit" class="btn submitBut" value="Log out" src="/images/btn_search.gif"></form></div><script type="text/javascript">var OutageNoticeEnd = "Sun, 13 Feb 2011 02:00:00 UTC";var FullOutageStart = "Sun, 23 Jan 2011 04:30:00 UTC";var FullOutageEnd = "Sun, 23 Jan 2011 10:30:00 UTC";
-            
-            
-            var now = new Date();  
-            
-            try {          
-                if (document.cookie.indexOf("SmartCardAuth") > -1) {
-                    dumb = document.getElementById('smartcard').style.display="";
-                    dumb = document.getElementById('EmpPlan').style.display="none";
-                }
-
-                if($.cookie("USER_STATUS") == 'A'){
-                    $("h3#username").html($.cookie('USER_DISPLAYNAME').replace("\+"," "));
-                    dumb = document.getElementById('AllowLoginBox').style.display="none";
-                    dumb = document.getElementById('LogoutLoginBox').style.display="";
-                }
-            
-                setFPBoxContent();
-          
-            } catch(e) {
-                window.status="error in login" +e.message;
-            }
-    
-            try {     
-                if (now < new Date(OutageNoticeEnd) && $.cookie("USER_STATUS") != 'A') {
-                    dumb = document.getElementById('specialMessage').style.display="";
-                }
-            } catch(e) {
-                window.status="error in login show outage notice";
-            }
-
-
-            try {    
-                if ((now < new Date(FullOutageEnd))  && (now > new Date(FullOutageStart))) {                  
-                    dumb = document.getElementById('AllowLoginBox').style.display="none";
-                    dumb = document.getElementById('UnavailableLoginBox').style.display="";
-                }
-            } catch(e) {
-                     window.status="error in login";
-            }
-			
-			try {
-			     var rbgfolder = document.location.pathname.split("/")[1] == "rbg";
-				 var B403folder = document.location.pathname.split("/")[2] == "403b-regulations";
-				 var ibcfolder = document.location.pathname.split("/")[2] == "ibc";
-				 
-				 if (rbgfolder && (B403folder || ibcfolder)) {
-				     var demolink = document.getElementById("evdemo");
-					     demolink.href = "/annuities/equivest/EQ-3151-4-10-08.pdf";
-					     demolink.innerHTML = "Read brochure";
-				 }
-			
-			
-			} catch(e) {
-			
-			window.status="error setting ibc login";
-			
-			}
-			
-
-
+  </div><form id="login" method="post" onsubmit="return checkRememberLogin()" action="https://www1.axa-equitable.com/uls/preauth/AXAPreLoginServlet"><input value="User ID" name="login" id="loginId" class="text" onfocus="userIdTest(this)"><input value="" autocomplete="off" name="password" id="loginPassword" class="text" type="password" onfocus="removeBackground(this)"><br><input type="checkbox" name="rememberLogin" id="rememberLogin" class="smCheck"><label for="rememberLogin" class="remember">Remember my User ID</label><br><fieldset id="loginsubmit"><a href="https://www1.axa-equitable.com/uls/jsp/forgot.jsp" rel="nofollow" id="forgotpw">Forgot my User ID or Password</a><input type="submit" class="btn submitBut" value="Login" name="submitLogin" id="submitLogin"></fieldset></form></div><div id="UnavailableLoginBox" style="display:none; height: 239px;" class="loginBox">Due to scheduled system maintenance, axa-equitable.com will be unavailable to clients for login and registration on Saturday, October 15th from 5:00 PM ET to 12:00 AM ET. We apologize for the inconvenience that this outage will cause.</div><div class="loginBox" style="display:none; height: 239px;" id="LogoutLoginBox"><h3 style="text-align: center;" id="username"></h3><form name="logOutForm" id="logOutForm" method="post" action="https://www1.axa-equitable.com/uls/jsp/logoff.jsp" onsubmit="logoutClick();" style="text-align: center;"><input type="submit" class="btn submitBut" value="Log out" src="/images/btn_search.gif"></form></div><div id="RegisterLogin" class="loginBox"><div id="firsttimemsg">Need a User ID? First Time User?</div><form onsubmit="return activateRegistraitonOverlay()"><input type="submit" class="btn submitBut" value="Register for Online Access" name="submitLogin" id="submitRegistration"></form></div><script type="text/javascript">var OutageNoticeEnd = "Sun, 16 Oct 2011 07:00:00 UTC";var FullOutageStart = "Sat, 15 Oct 2011 03:00:00 UTC";var FullOutageEnd = "Sat, 15 Oct 2011 03:00:00 UTC";
+				testForOutage();
             </script>
                      
               
