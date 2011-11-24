@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gdstarrating.com privacy policy that was archived on 2011-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110326132146id_/http%3A//www.gdstarrating.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gdstarrating.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124114834id_/http%3A//www.gdstarrating.com/privacy-policy) for the most accurate reproduction.*
 
 # GD Star Rating | Privacy Policy »
 
-Posted by [MillaN](http://www.gdstarrating.com/author/millan/ "Posts by MillaN") | January 7, 2009, 12:18 AM 
+Posted by | January 7, 2009, 12:18 AM 
 
 **What information do we collect?**  
 **** We collect information from you when you register on our site. When registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.  
