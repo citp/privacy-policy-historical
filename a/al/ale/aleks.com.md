@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the aleks.com privacy policy that was archived on 2011-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110413100101id_/http%3A//www.aleks.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aleks.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124014813id_/http%3A//www.aleks.com/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
+[Print this document]()
+
+  
 (Last Updated 7/7/2010)
 
 This privacy statement provides important information about the privacy practices of ALEKS Corporation ("ALEKS") for our website: [www.aleks.com](http://www.aleks.com/) (the "ALEKS Website"). If you are under 18 years of age, please be sure to read this privacy statement with a parent or guardian and ask questions about anything you don’t understand.
@@ -35,7 +38,7 @@ We request information from the user or the parent or guardian of the user on ou
 
 **Website Operator**
 
-The ALEKS Website is operated by [ALEKS Corporation](http://www.aleks.com/); 15641 Red Hill Avenue, Suite 150; Tustin, California 92780; phone: 714.245.7191; e-mail: contact us at [http://support.aleks.com](http://support.aleks.com/contact?subject=Website%20operator). 
+The ALEKS Website is operated by [ALEKS Corporation](http://www.aleks.com/); 15460 Laguna Canyon Road; Irvine, California 92618; phone: 714.245.7191; e-mail: contact us at [http://support.aleks.com](http://support.aleks.com/contact?subject=Website%20operator). 
 
 **Plug-ins and Cookies:**
 
@@ -101,7 +104,7 @@ We send all new members a welcoming email to verify password and username. Estab
 
 **Site and Service Updates**
 
-## **We  send site and service related announcements to users on occasion when the information contained in such announcements is important.  For instance, if our service were to be temporarily suspended for maintenance, we might send such an email.  You may not opt-out of these communications, which are not promotional in nature.  If you do not wish to receive them, you have the option to deactivate your account.** 
+##  **We  send site and service related announcements to users on occasion when the information contained in such announcements is important.  For instance, if our service were to be temporarily suspended for maintenance, we might send such an email.  You may not opt-out of these communications, which are not promotional in nature.  If you do not wish to receive them, you have the option to deactivate your account.** 
 
 **Correction/Updating Personal Information**
 
