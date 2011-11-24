@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chelseagreen.com privacy policy that was archived on 2011-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110614213155id_/http%3A//www.chelseagreen.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chelseagreen.com privacy policy that was archived on 2011-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124021730id_/http%3A//www.chelseagreen.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
@@ -32,6 +32,14 @@
                 document.newsletter_signup.submit();
                 }catch(err){}
           }
+function recordOutboundLinkHeader() {
+               try {
+                var pageTracker=_gat._getTracker("UA-405119-1");
+                pageTracker._trackPageview("/NewsletterSignupHeader");
+                //pageTracker._trackEvent(category, action);
+                document.newsletter_signup.submit();
+                }catch(err){}
+          }
 </script>
 
 </head>
@@ -52,7 +60,10 @@
 	<form method="post" target="_blank" action="http://visitor.constantcontact.com/d.jsp" name="ccoptin" id="newsletter_signup">
 	<input type="text" name="ea" id="newsletter_email" class="news_email" value="email" onfocus="javascript:if (this.value == 'email'){this.value='';this.style.color='#000000';}" onblur="javascript:if(this.value==''){this.value='email';this.style.color='#999999';}"><br>
        
-        <input type="text" name="pc" class="news_zip" value="zip code" onfocus="javascript:if (this.value=='zip code'){ this.value='';this.style.color='#000000';}" onblur="javascript:if(this.value==''){this.value='zip code';this.style.color='#999999';}"><input type="submit" onclick="recordOutboundLink();" class="news_submit" value="I'M IN!">
+        <!-- input type="text" name="pc" class="news_zip" value="zip code" onfocus="javascript:if (this.value=='zip code'){ this.value='';this.style.color='#000000';}"
+        onblur="javascript:if(this.value==''){this.value='zip code';this.style.color='#999999';}"  ><input type="submit" onClick="recordOutboundLink();"  
+class="news_submit" value="I'M IN!" -->
+	<input type="text" name="pc" class="news_zip" value="zip code" onfocus="javascript:if (this.value=='zip code'){ this.value='';this.style.color='#000000';}" onblur="javascript:if(this.value==''){this.value='zip code';this.style.color='#999999';}"><input type="submit" onclick="recordOutboundLinkHeader();" class="news_submit" value="I'M IN!">
 	<input type="hidden" value="1011273013164" name="m">
 	<input type="hidden" value="oi" name="p">
     </form>
@@ -60,8 +71,8 @@
 
 </div>
 <div id="menu">
-	<div id="menu_tool_login" class="tools">Login<!--&nbsp;&nbsp;<img src="http://www.chelseagreen.com/common/images/menuarrow.png">--></div>
-	<div id="menu_tool_register" class="tools">Register<!--&nbsp;&nbsp;<img src="http://www.chelseagreen.com/common/images/menuarrow.png">--></div>
+	<div id="menu_tool_login" class="tools">&nbsp;<!--&nbsp;&nbsp;<img src="http://www.chelseagreen.com/common/images/menuarrow.png">--></div>
+	<div id="menu_tool_register" class="tools">&nbsp;<!--&nbsp;&nbsp;<img src="http://www.chelseagreen.com/common/images/menuarrow.png">--></div>
 	<div id="menu_tool_subscribe" class="tools">Subscribe&nbsp;&nbsp;<img src="http://www.chelseagreen.com/common/images/menuarrow.png"></div>
 	<div id="menu_tool_search" class="tools">
 		<form action="http://www.chelseagreen.com/search" method="POST" name="search"><input type="text" name="search_terms" id="topbar_search" value=" search site" onfocus="javascript:this.value='';this.style.color='#000000';">&nbsp;<input type="image" src="http://www.chelseagreen.com/common/images/search_button.png" align="top"></form>	
@@ -82,47 +93,11 @@
 </div>
 
 <!-- MY ACCOUNT DIV -->
-<div id="myaccount" class="menu_window" style="display:none;">
-	<div class="menu_wrapper">
-			<ul class="menu_items">
-				<li class="welcome">Welcome <b></b>!<br><br></li>
-								<li class="menu_item"><a href="https://www.chelseagreen.com/profile/">My Profile</a></li>
-								<li class="menu_item"><a href="http://www.chelseagreen.com/bookstore/wishlist/">My Wishlist</a></li>
-				<li class="menu_item_bottom"><a href="http://www.chelseagreen.com/common/php/act/act.logout.php">Logout</a></li>
-			</ul>
-	</div>
-	<div class="menu_bottom"></div>
-</div>
+
 <!-- LOGIN DIV -->
-<div id="login_window" class="menu_window" style="display:none;">
-	<div class="menu_wrapper">
-		<form name="loginform" id="loginform" action="https://www.chelseagreen.com/common/pub/act/act.cart.login.php" method="post">
-		Username:<br>
-		<input type="text" name="username" id="user_login" tabindex="10" class="searchbox"><br>
-		Password:<br>
-		<input type="password" name="password" id="user_pass" tabindex="20" class="searchbox">
-		<input type="image" src="http://www.chelseagreen.com/common/images/search_button.png" align="right" style="margin-top:5px;">
-		</form>
-		<br><br>
-	</div>
-	<div class="menu_bottom"></div>
-</div>
+
 <!-- REGISTER DIV -->
-<div id="register_window" class="menu_window" style="display:none;">
-	<div class="menu_wrapper">
-		<form name="registerform" id="registerform" action="http://www.chelseagreen.com/content/wp-login.php?action=register" method="post">
-		Username:<br>
-		<input type="text" name="user_login" id="user_login" tabindex="10" class="searchbox"><br>
-		E-Mail:<br>
-		<input type="text" name="user_email" id="user_email" tabindex="20" class="searchbox">
-		<input type="image" src="http://www.chelseagreen.com/common/images/search_button.png" align="right" style="margin-top:5px;">
-		</form>
-		<br>
-		(A password will be emailed to you.)
-		<br>
-	</div>
-	<div class="menu_bottom"></div>
-</div>
+
 <!-- SUBSCRIBE DIV -->
 <div id="subscribe_window" class="menu_window" style="display:none;">
 	<div class="menu_wrapper">
