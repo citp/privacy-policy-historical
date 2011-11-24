@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nationalsurveypanel.com privacy policy that was archived on 2011-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110301045920id_/http%3A//www.nationalsurveypanel.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2811name%26catalog_id%3D14887%26gift%3D71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalsurveypanel.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124023859id_/http%3A//nationalsurveypanel.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2811name%26catalog_id%3D14887%26gift%3D71) for the most accurate reproduction.*
 
 # Nationalsurveypanel
 
-**November 22, 2010**
+**March 22, 2011**
 
 **Our Commitment To Privacy**
 
@@ -31,16 +31,6 @@ One of our third-party cookie partners is Datran Media (for Datran Media’s pri
 By signing up for our Program you expressly opt in to receive future information about products and services from us and from a variety of advertisers to whom we may provide your Information. We will share your personal information with third parties, including but not limited to our advertisers, BigRewards.com, ShoppingBag.com and HotSurveys.com (collectively Media Network, Inc.) for any reason we choose, including without limitation for the following purposes: (1) to operate our Program (including the transfer of the information to advertisers or to third parties who maintain on our behalf a list of persons having registered with our Program), (2) to permit advertisers or other third parties to use your Information for any purpose such as contacting you by email, phone, text message, U.S. mail or any other means of communication for any purpose, (3) to confirm you have completed all of the necessary steps to receive your gift, and (4) as we are required to do by law, including to notify the IRS that you received your gift. As a result, we will transfer your Information to third parties whose privacy policies and practices are beyond our control.
 
 In addition, in the event we consider a transaction involving the purchase or sale of our assets or stock, other companies may review our records, including your Information, to make business decisions about the transaction. Likewise, your Information may be transferred to third parties in the event of the sale or acquisition of our company or any of its assets. The parties who perform services for us (credit card processors, merchant banks, our internet service provider, etc.) also may have access to your information in performing their services.
-
-**_Express Consent:_** By accepting the terms and conditions of this Site and providing your telephone number, you are subscribing to a service that transmits special offers to subscribers via pre-recorded voice messages. 
-
-By subscribing, you are expressly consenting to receive pre-recorded telephone messages from The Firebrand Group, LLC, a Nevada company doing business as Worldwide Commerce Associates (“WCA”) that include special or discounted sales offers. You are subscribing to receive offers only from WCA, and only at the specific numbers(s) you have provided to us. Your consent will be effective regardless of whether the number you have provided: (a) is a home, business, or cell phone line; and/or (b) is or will be registered on any state or federal Do-Not-Call (DNC) list, and shall remain in effect until you revoke your consent and cancel your subscription. 
-
-To unsubscribe: You may cancel your subscription and revoke your consent to receive pre-recorded telephone calls at any time by either (a) utilizing the opt-out procedure included in any message you receive; or (b) by calling 800-269-0281 
-
-NOTE: WCA does not send offers via email, and is unable to honor any unsubscribe requests sent by other companies. If you are receiving offers via email please follow the unsubscribe instructions included therein. 
-
-Text messages: By accepting the terms and conditions of this Site and providing your cell phone number, you are expressly consenting to receive SMS, wireless or other mobile offering to your cell phone from us and other organizations. You understand that your wireless carrier's standard charges and rates apply to these messages. For SMS text messages, you may remove your information by replying "STOP", "END", or "QUIT" to the SMS text message you have received and we will remove your personal information within 10 days of receiving such request. 
 
 **Special Note About Information You Provide Directly To Our Advertisers.**
 
