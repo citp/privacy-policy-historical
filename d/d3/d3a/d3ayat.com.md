@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the d3ayat.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122102049id_/http%3A//www.d3ayat.com/content/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d3ayat.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124124105id_/http%3A//www.d3ayat.com/content/privacy.html) for the most accurate reproduction.*
 
-# Privacy
+# d3ayat Middle East Business Directory - Privacy
 
 ** d3ayat Privacy Statement**
 
