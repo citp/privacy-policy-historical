@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the momentum.co.za privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621071122id_/http%3A//www.momentum.co.za/wps/portal/momentum/%21ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os_igYAt_Jw-vQDM_P0dzA6MgIx-vQE8fw2BLA_2CbEdFAG0RgoE%21/%3FWCM_PORTLET%3DPC_7_RS8OBHJQ6NJPE0IGA7MO7T2UB1_WCM%26WCM_GLOBAL_CONTEXT%3D/wps/wcm/connect/momentum/site-usage/site-usage/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momentum.co.za privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124012247id_/http%3A//www.momentum.co.za/wps/portal/momentum/%21ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os_igYAt_Jw-vQDM3Yz8jA08DCwNHVwMLQwMTY_2CbEdFABGHvxk%21) for the most accurate reproduction.*
 
-# Momentum Group - Home
+# Momentum Group - Privacy Policy
 
-[Site Usage](https://web.archive.org/wps/portal/momentum/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os_igYAt_Jw-vQDM_P0dzA6MgIx-vQE8fw2BLA_2CbEdFAG0RgoE!/?WCM_PORTLET=PC_7_RS8OBHJQ6NJPE0IGA7MO7T2UB1_WCM&WCM_GLOBAL_CONTEXT=/wps/wcm/connect/momentum/site-usage/site-usage/) > Privacy Policy
+[Site Usage](https://web.archive.org/wps/portal/momentum/!ut/p/c0/04_SB8K8xLLM9MSSzPy8xBz9CP0os_igYAt_Jw-vQDM3Yz8jA08DCwNHVwMLQwMTY_2CbEdFABGHvxk!/?WCM_PORTLET=PC_7_RS8OBHJQ6F3N20I080AE0810S1_WCM&WCM_GLOBAL_CONTEXT=/wps/wcm/connect/momentum/site-usage/site-usage/) > Privacy Policy
 
 Momentum and its employees respect your privacy and the protection of your personal information is of the utmost importance to us. In the interests of ensuring that users of this website are adequately protected when supplying personal information, Momentum voluntarily subscribes to the principles outlined in Section 51 of the Electronic Communications and Transactions Act [ECTA] under its Privacy Policy.
 
