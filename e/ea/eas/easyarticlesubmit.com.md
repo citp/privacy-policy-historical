@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyarticlesubmit.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627051133id_/http%3A//www.easyarticlesubmit.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyarticlesubmit.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124012955id_/http%3A//www.easyarticlesubmit.com/privacy.php) for the most accurate reproduction.*
 
 # Article Submission Directory - Easy Article Submit
 
