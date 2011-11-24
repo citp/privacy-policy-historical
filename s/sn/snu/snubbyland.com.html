@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the snubbyland.com privacy policy that was archived on 2011-04-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110414081751id_/http%3A//snubbyland.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the snubbyland.com privacy policy that was archived on 2011-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124073148id_/http%3A//snubbyland.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -9,6 +9,40 @@
 <meta name="description" content="Flash development and web design">
 <link rel="stylesheet" type="text/css" href="styles.css">
 <link rel="shortcut icon" href="icon.ico">
+
+<!-- limit boxes -->
+<script type="text/javascript">
+
+function textValid(f)
+{
+	!(/^[A-z 0-9]*$/i).test(f.value)?f.value = f.value.replace(/[^A-z 0-9]/ig,''):null;
+}
+
+function textValidMail(f)
+{
+	!(/^[A-z 0-9@._-]*$/i).test(f.value)?f.value = f.value.replace(/[^A-z 0-9@._-]/ig,''):null;
+}
+
+function textValidSearch(f)
+{
+	!(/^[A-z 0-9@.,!_-]*$/i).test(f.value)?f.value = f.value.replace(/[^A-z 0-9@.,!_-]/ig,''):null;
+}
+
+
+
+/***********************************************
+* Textarea Maxlength script- © Dynamic Drive (www.dynamicdrive.com)
+* This notice must stay intact for legal use.
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+function ismaxlength(obj){
+var mlength=obj.getAttribute? parseInt(obj.getAttribute("maxlength")) : ""
+if (obj.getAttribute && obj.value.length>mlength)
+obj.value=obj.value.substring(0,mlength)
+}
+	
+</script>
 <title>Snubby Land | Privacy Policy</title>
 
 </head>
@@ -17,6 +51,7 @@
 
 <div id="c">
 
+<div class="center"><img class="trans" src="http://snubbyland.com/spacer.gif" alt="spacer" height="5px" width="1px"><br><span id="hiddenAd">school tutorials games flash cartoons ads comics online rpg games flash cartoons website ads comics online rpg school tutorials games flash cartoons online rpg</span></div>
 <div id="title">
 	<div id="t_row1">
 		<div id="t_t1">
@@ -63,6 +98,9 @@
 			<a id="t_contact" href="http://snubbyland.com/contact.php"><img id="t_contact" src="http://snubbyland.com/t_contact.png" alt="Snubby Land"></a>
 		</div>
 	</div>
+</div>
+<div id="navRow">
+	<a href="http://snubbyland.com/animation.php">Animation</a><img class="trans" src="http://snubbyland.com/spacer.gif" alt=" " height="1px" width="25px"><a href="http://snubbyland.com/voiceActing.php">Voice Acting</a><img class="trans" src="http://snubbyland.com/spacer.gif" alt=" " height="1px" width="25px"><a href="http://snubbyland.com/graphicDesign.php">Graphic Design</a><img class="trans" src="http://snubbyland.com/spacer.gif" alt=" " height="1px" width="25px"><a href="http://snubbyland.com/writing.php">Writing</a><img class="trans" src="http://snubbyland.com/spacer.gif" alt=" " height="1px" width="25px"><a href="http://snubbyland.com/about_photoAlbum.php">Photo Album</a><img class="trans" src="http://snubbyland.com/spacer.gif" alt=" " height="1px" width="25px"><a href="http://snubbyland.com/fan.php">Fan Art</a><img class="trans" src="http://snubbyland.com/spacer.gif" alt=" " height="1px" width="25px"><a href="http://snubbyland.com/affiliates.php">Affiliate</a><img class="trans" src="http://snubbyland.com/spacer.gif" alt=" " height="1px" width="25px"><a target="_blank" href="http://coozymcmillan.com">Coozy McMillan</a>
 </div><!-- leaderboard -->
 <div id="leaderboard">
 
@@ -153,7 +191,7 @@
 		<div class="minusSmaller"></div><div class="smallerBreak"></div><div class="rightContentSubtitle">Search</div>
 <div id="rightContentSearch">
 	<form action="search.php" enctype="multipart/form-data" method="get">
-		<input id="search_bar" type="text" maxlength="30" name="searchText" onkeyup="textValidSearch(this)" onblur="textValidSearch(this)"><select id="search_select" name="category"><option value="blog">Blog</option><option value="cartoons">Cartoons</option><option value="games">Games</option><option value="art">Art</option><option value="about">Photo Album</option><option value="tutorials">Tutorials</option><option value="webDesign">Web Design</option><option value="previews">Previews</option><option value="all" selected="selected">All</option></select><input id="search_submit" type="submit" value="Submit">
+		<input id="search_bar" type="text" maxlength="30" name="searchText" onkeyup="textValidSearch(this)" onblur="textValidSearch(this)"><select id="search_select" name="category"><option value="blog">Blog</option><option value="cartoons">Cartoons</option><option value="games">Games</option><option value="art">Art</option><option value="about">Photo Album</option><option value="tutorials">Tutorials</option><option value="webDesign">Web Design</option><option value="previews">Previews</option><option value="portfolio">Portfolio</option><option value="fan">Fan Art</option><option value="all" selected="selected">All</option></select><input id="search_submit" type="submit" value="Submit">
 	</form>
 </div><br><!-- sidebar ad -->
 <div class="smallerBreak"></div><div class="rightContentSubtitle">Sponsored Links</div>
@@ -194,12 +232,12 @@
 <a class="noUnder" href="#">[ Back to Top ]</a><br><br>
 
 <!-- bottom text -->
-Website programmed and designed by <a class="bottomTextLink_teal" href="webDesign.php">Stevie Critoph</a>. Optimized for <a class="bottomTextLink_purple" target="_blank" href="http://www.mozilla-europe.org/en/products/firefox/">Mozilla Firefox</a>. Mostly valid <a class="bottomTextLink_teal" target="_blank" href="http://validator.w3.org/check?uri=referer">HTML</a> and <a class="bottomTextLink_purple" target="_blank" href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a>.
+Website programmed and designed by <a class="bottomTextLink_teal" href="webDesign.php">Stevie Critoph</a>. Optimized for <a class="bottomTextLink_purple" target="_blank" href="http://www.mozilla.com/en-US/firefox/new/">Mozilla Firefox</a>. Mostly valid <a class="bottomTextLink_teal" target="_blank" href="http://validator.w3.org/check?uri=referer">HTML</a> and <a class="bottomTextLink_purple" target="_blank" href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a>.
 <div class="smallerBreak"></div>
 All Google Ads abide by the <a class="bottomTextLink_blue" href="http://snubbyland.com/privacy.php">Privacy Policy</a>.<br><br>
 
 <!-- affiliates -->
-	<a href="http://www.straightbullyism.com" target="_blank"><img class="affiliate" src="http://www.straightbullyism.com/ad_88x31.jpg" border="0" alt="Straight Bullyism"></a><a href="http://www.coozymcmillan.com" target="_blank"><img class="affiliate" alt="Coozy McMillan" src="http://www.coozymcmillan.com/ad_88x31.jpg" width="88px" height="31px" border="0"></a><a href="http://www.newgrounds.com/refer/snubby" target="_blank"><img class="affiliate" alt="Newgrounds" src="http://www.snubbyland.com/a/out/newgrounds.gif"></a><a href="http://www.addictinggames.com/" target="_blank"><img width="88px" height="31px" class="affiliate" alt="Addicting Games" src="http://www.snubbyland.com/a/out/addictingGames.png"></a><a href="http://www.armorgames.com/" target="_blank"><img width="88px" height="31px" class="affiliate" alt="Armor Games" src="http://www.snubbyland.com/a/out/armorGames.jpg"></a><a href="http://www.dreamhost.com/r.cgi?307832" target="_blank"><img class="affiliate" alt="Dream Host Web Hosting" src="http://www.snubbyland.com/a/out/dreamHost.gif" width="88px" height="31px" border="0"></a><a href="http://www.flashtreat.com" target="_blank"><img class="affiliate" alt="Flash Treat" src="http://www.snubbyland.com/a/out/flashTreat.gif" width="88px" height="31px" border="0"></a><br><a href="http://www.deagleGame.net" target="_blank"><img class="affiliate" alt="Deagle Game" src="http://www.snubbyland.com/a/out/deagleGame.gif" width="88px" height="31px" border="0"></a><a href="http://filewire.me/" target="_blank"><img class="affiliate" alt="Filewire Free File Hosting" src="http://www.snubbyland.com/a/out/filewire.jpg" width="88px" height="31px" border="0"></a><a href="http://spamtheweb.com/" target="_blank"><img class="affiliate" alt="Spam the Web" src="http://www.snubbyland.com/a/out/spamTheWeb.gif" width="88px" height="31px" border="0"></a><a href="http://www.snubbyland.com/affiliates.php"><img class="affiliate" alt="Become an Affiliate" src="http://www.snubbyland.com/a/in/becomeAnAffiliate.png"></a>	
+	<a href="http://www.straightbullyism.com" target="_blank"><img class="affiliate" src="http://www.straightbullyism.com/ad_88x31.jpg" border="0" alt="Straight Bullyism"></a><a href="http://www.coozymcmillan.com" target="_blank"><img class="affiliate" alt="Coozy McMillan" src="http://www.coozymcmillan.com/ad_88x31.jpg" width="88px" height="31px" border="0"></a><a href="http://www.newgrounds.com/refer/snubby" target="_blank"><img class="affiliate" alt="Newgrounds" src="http://www.snubbyland.com/a/out/newgrounds.gif"></a><a href="http://www.addictinggames.com/" target="_blank"><img width="88px" height="31px" class="affiliate" alt="Addicting Games" src="http://www.snubbyland.com/a/out/addictingGames.png"></a><a href="http://www.armorgames.com/" target="_blank"><img width="88px" height="31px" class="affiliate" alt="Armor Games" src="http://www.snubbyland.com/a/out/armorGames.jpg"></a><a href="http://www.dreamhost.com/r.cgi?307832" target="_blank"><img class="affiliate" alt="Dream Host Web Hosting" src="http://www.snubbyland.com/a/out/dreamHost.gif" width="88px" height="31px" border="0"></a><a href="http://www.deagleGame.net" target="_blank"><img class="affiliate" alt="Deagle Game" src="http://www.snubbyland.com/a/out/deagleGame.gif" width="88px" height="31px" border="0"></a><br><a href="http://spamtheweb.com/" target="_blank"><img class="affiliate" alt="Spam the Web" src="http://www.snubbyland.com/a/out/spamTheWeb.gif" width="88px" height="31px" border="0"></a><a href="http://www.snubbyland.com/affiliates.php"><img class="affiliate" alt="Become an Affiliate" src="http://www.snubbyland.com/a/in/becomeAnAffiliate.png"></a>	
 </div>
 
 <!-- bottom graphics -->
