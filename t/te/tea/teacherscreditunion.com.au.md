@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the teacherscreditunion.com.au privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520135124id_/http%3A//www.teacherscreditunion.com.au/LandingPages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teacherscreditunion.com.au privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124015612id_/http%3A//www.teacherscreditunion.com.au/LandingPages/privacy-information-statement.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Information Statement
 
-[Home](https://web.archive.org/) > Privacy Policy
+[Home](https://web.archive.org/) > Privacy Information Statement
 
   
 Teachers Credit Union has always respected members' rights to Privacy. It is fundamental to the way we do business and reflects the trust members have placed in us in providing them with financial services.    
@@ -73,7 +73,7 @@ We rely on the accuracy of the information you provide to us. If you believe or 
 
 ## Further information
 
-Should you require further information about our Privacy Policy or access to your personal information call **13 12 21  **8am to 7pm, weekdays. 
+Should you require further information about our Privacy Information Statement or access to your personal information call **13 12 21  **8am to 7pm, weekdays. 
 
 Teachers Credit Union Limited. ABN 30 087 650 459 AFSL/ACL No 238981 
 
