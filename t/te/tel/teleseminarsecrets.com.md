@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teleseminarsecrets.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514002232id_/http%3A//alexmandossian.com/am/%3Fcontent%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teleseminarsecrets.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124171345id_/http%3A//alexmandossian.com/am/%3Fcontent%3Dprivacy) for the most accurate reproduction.*
 
 # Alex Mandossian -Privacy Policy
 
@@ -41,7 +41,7 @@ Additionally, in some instances, we use this aggregated and non-identifying info
 
 When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. Our company does not use the return email address for any other purpose and does not share the return email address with any third party. 
 
-_Voluntary Customer Surveys_
+**_Voluntary Customer Surveys_**
 
 We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of products and services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary. Information about how to opt-out of surveys will be contained in survey communications. 
 
@@ -85,6 +85,8 @@ Services and Web sites we sponsor have security measures in place to protect the
 
 **_Where to Direct Questions About Our Privacy Policy_**
 
-If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site. Revisions to This Policy Our Company reserves the right to revise, amend, or modify this policy, our Terms Of Use & Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. 
+If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site.
 
-© 2007 **Heritage House Publishing**
+**_Revisions to This Policy_**
+
+Our Company reserves the right to revise, amend, or modify this policy, our Terms Of Use & Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. 
