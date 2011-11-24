@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theinquirer.net privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623175420id_/http%3A//www.theinquirer.net/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinquirer.net privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124011025id_/http%3A//www.theinquirer.net/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy-policy- The Inquirer
 
@@ -51,4 +51,4 @@ INCISIVE MEDIA is not responsible for the content or the privacy policies of thi
 
 **INCISIVE MEDIA reserves the right to change this privacy policy at any time by posting changes on this page. It is your responsibility to refer to this privacy policy on accessing this site. INCISIVE MEDIA will however draw your attention to any material changes to this privacy policy by placing a notice on the site.**
 
-If you have any general questions or wish to report a technical error, please visit [**Feedback**](https://web.archive.org/web/20110623175420id_/http%3A//static/aboutus).
+If you have any general questions or wish to report a technical error, please visit [**Feedback**](https://web.archive.org/web/20111124011025id_/http%3A//static/aboutus).
