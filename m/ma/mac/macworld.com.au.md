@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the macworld.com.au privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605052430id_/http%3A//www.macworld.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macworld.com.au privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124234448id_/http%3A//www.macworld.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Australian Macworld
+# Privacy Policy - Apple, Mac, iPhone, iPad, and iPod Reviews, Help, Tips, and News | Macworld Australia
 
 At Australian Macworld we understand that privacy is important, and we’ve created this policy to give you information about how we collect and use personal information.
 
@@ -80,5 +80,3 @@ When you provide your e-mail address to us, you agree to receive e-mail from Aus
 In addition, you may change your preferences regarding use of personal data by sending an e-mail to [austmacworld@niche.com.au](mailto:austmacworld@niche.com.au).
 
 If Australian Macworld or any of its products is involved in a merger, acquisition, or sale of some or all of its assets, all personally identifying information and other data will be transferred to the new owner.
-
-One person was compelled to have their say. We encourage you to do the same..
