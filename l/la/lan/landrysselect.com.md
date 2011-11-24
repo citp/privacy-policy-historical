@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landrysselect.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417110702id_/http%3A//landrysselect.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landrysselect.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124172629id_/http%3A//landrysselect.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # 
 
