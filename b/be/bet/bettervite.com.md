@@ -1,100 +1,75 @@
-> *The following text is extracted and transformed from the bettervite.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettervite.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124100040id_/http%3A//www.bettervite.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy
 
-**Go Daddy Respects Your Privacy**
+**Non-Personally Identifiable Information**  
+Non-Personally Identifiable Information is information that does not identify a specific user. This type of information may include things like the Uniform Resource Locator ("URL") of the website you visited before coming to Bettervite Site, the URL of the website you visit after leaving our Site, the type of browser you are using and your Internet Protocol ("IP") address. We may automatically collect this information when you visit our Site through the use of electronic tools like cookies and web beacons or pixel tags.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+**Information Explicitly Granted by Social Network Platforms**  
+If you access Bettervite via a "social network platform," including but not limited to Facebook or Twitter, then we will access and store the information explicitly allowed by the social network platform by their terms of service and platform policies, provided you explicitly allow us to do so, through an interface provided by the social network platform. Information shared with us by social network platforms such as Facebook may depend on the privacy settings you have selected for that third party site or platform and may include, but is not limited to, first and last name, gender, location, profile photo, "friends" list, and any other information the platform may provide. As we do not have control over the user interface provided by social network platforms, we do not take any responsibility for any changes or problems with the interface or exchange of information provided by any of these social network platforms.  
+We have no control over the privacy policies of third party websites or platforms. Neither do we have any control over or responsibility for the Personally Identifiable Information collected by such websites and platforms. If you access Bettervite through a third party website or platform, then we encourage you to become familiar with the privacy policies and practices of that site or platform.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+**Use of Your Information**  
+We use Personally Identifiable Information to provide products and services to you, enhance the operation of the Site, improve our marketing and promotional efforts by making them more relevant, and improve our product and service offerings. We may also use Personally Identifiable Information to: troubleshoot; resolve disputes; accomplish administrative tasks; authenticate payment methods; contact you as permitted by our Terms of Service and this Privacy Policy; enforce our agreements with you, including our Terms of Service and this Privacy Policy; comply with applicable law; and cooperate with law enforcement activities. We use Non-Personally Identifiable Information to troubleshoot, administer the Site, analyze trends and website use, gather demographic information, tailor your experience with third parties, comply with applicable law, and cooperate with law enforcement activities.  
+We may also use and/or display the information granted to us by third party websites or social network platforms to enhance the experience on our Site.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**Information Sharing**  
+We do not sell or rent your Personally Identifiable Information to third party companies or individuals, unless we have your consent. We may share your Personally Identifiable Information under certain circumstances, including:
 
-**Information Collection and Use**
+**To enforce our Terms of Service;**  
+To comply with legal requirements including but not limited to court orders or subpoenas or to prevent or investigate suspected fraud, violations of our Terms of Service, or activity that appears to us to be illegal or may expose us to legal liability. We may, in these circumstances, access and disclose your information, any communications sent or received by you, and any other information that we may have about you or your account;  
+In situations that we believe to be emergencies involving potential threats to the physical safety of any person or property if we believe that your information in any way relates to that threat;  
+In the event that we sell substantially all of our assets or a line of business, or are acquired or merged with another company. In this case, Personally Identifiable Information may be one of the assets sold or merged in connection with that transaction. We will notify users of the Site of such a change in ownership or transfer of assets by posting a notice on the Site;  
+To provide information to trusted businesses or persons for administrative or customer service purposes or the purpose of processing personally identifying or payment information;  
+With trusted partners who work on behalf of or with Bettervite under confidentiality agreements. These companies may use your personal information to help us communicate with you about offers from Bettervite and our marketing partners. However, these companies do not have any independent right to share this information.  
+We may provide Non-Personally Identifiable Information to third-parties for such purposes as we deem, in our sole discretion, to be appropriate.  
+If you access the Site via a third party website or social network platform, then we may share Personally and Non-Personally Identifiable information with them, including information about actions you take on the Site. We may share a limited amount of information with these third parties even before you authorize the connection with the Site. With regards to information collected from social network platforms, we comply with the terms of service and platform policies of all third party websites or social network platforms that grant us access to Personally Identifiable Information. However, we do not control whether or how quickly social network platforms and/or third-party search engines may or may not update their index or cache. If you have accessed Bettervite via a third party site or platform, adjustments to your privacy settings for that site, if applicable, may only be made on that third party site. We have no control over your privacy settings on any third party website.  
+Use of Cookies and Other Technologies to Collect Information
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We use various technologies to collect Non-Personally Identifiable Information from your computer and about your activities on our Site:  
+Information collected automatically.  
+We automatically collect information from your browser when you visit our Site. This information includes your IP address, your browser type and language, access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies" below), and the referring website address.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+**Cookies**  
+When you visit our Site, we may assign your computer one or more cookies, to facilitate access to our Site and to personalize your online experience. For example, when you access the Site, or if you are a registered user and you sign-in, we may record your user ID, information to identify your computer, and the name on your user or member account in the cookie file on your computer. Through the use of a cookie, we also may automatically collect information about your online activity on the Site, such as the web pages you visit, the links you click, and the searches you conduct on the Site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on the Site.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+**Other Technologies**  
+We may use standard Internet technology, such as pixel tags, web beacons and other similar technologies, to track your use of the Site. We also may include web beacons in promotional or other e-mail messages or newsletters to determine whether messages have been opened and acted upon. We also may receive an anonymous identification number if you come to the Site from an online advertisement displayed on a third-party website. The information we obtain in this manner enables us to customize the services we offer our website visitors, to deliver targeted advertisements, and to measure the overall effectiveness of our online advertising, content, or other activities.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Information collected by third-party advertising companies.  
+We may allow third-party advertising companies, including ad networks, to display advertisements on the Site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt-out of ad targeting from member companies (www.networkadvertising.org).
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+**Accessing and Changing Your Account Information**  
+Registered users may send a request to close their account with Bettervite. We may retain certain data contributed by you if it may be necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, Non-Personally Identifiable data, account recovery, or if required by law.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**Your Content, Activity and Profile**  
+You should be sure that anything you post on Bettervite is acceptable for public display on our Site and via other methods such as search engines or third party sites through which you have accessed Bettervite. Information collected by Bettervite (such as, for example, patterns of utilization) is exclusively owned by us. This information can be utilized by us in such manner as we, in our sole discretion, deem appropriate.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+If you access the Site via a third party website or social network platform certain activity or actions you take on the Site may be viewable as a "story" or a "feed" on that third party site or platform. You may be able to control or change the "stories" that can be published on the third party site or social networking platform by modifying your settings on that site. We have no control over and are not liable for the "stories" or "feeds" published by third party sites or social networking platforms.
 
-**Security**
+When you login to Bettervite, we will automatically create a publically viewable profile for you. This profile may contain information we have collected from you based on your usage of the Site and information we have obtained from third party social network platforms through which you have accessed the Site, including but not limited to, your name, your location, any points or "badges" you have earned on the Site, any deals you have posted to the Site, your third party social network profile picture, and your list of third party social network "friends" including their profile pictures.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**Customized Content**  
+If you sign up to receive email notifications from us you may select the content and type of information you are interested in by selecting from the categories provided, and we may use that information to customize your emails. If you are a registered Bettervite user, the information you provide at registration or in your profile section may be used to customize your experience on the Site. If you access the Site via a third party website or social network platform, we may also use the information provided to us by that site, such as but not limited to, your friends list or your profile picture, to customize content or your experience on the Site.
 
-**Updating Your Information**
+**Communications**  
+Bettervite may offer you the opportunity to opt-in to receive various email notifications. If you are a registered Bettervite user or have opted in to receive emails from Bettervite, we may send you product announcements or service-related messages based on activity on the Site. If you access the Site via a third party website or social network platform we may send email notifications or service-related messages to the email address associated with your third party account. We reserve the right to send you administrative messages related to your account, even if you have opted-out of all voluntary email notifications.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**Offensive Speech**  
+We request users of Bettervite to notify us, and we shall remove, any clearly offensive speech in the form of text, pictures, audio, and/or video posted on Bettervite, including that which is obscene, pornographic, spiteful, inciting of hatred or illegal activity, libelous, slanderous, and/or inflammatory.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+**Children and Minors**  
+Bettervite is not for children under the age of 16. We do not knowingly solicit or collect personal information from anyone under the age of 16, nor allow anyone under the age of 16 to register. If we learn that we have collected personal information from anyone under the age of 16, we will remove that information as quickly as possible. If you believe we might have personal information about anyone under the age of 16, please contact us at privacy@bettervite.com.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**Legal Disclaimer**  
+It is possible that we may need to disclose personal information when required to do so by law. We will disclose personal information when we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, or other legal process served on our company, to protect ourselves or any other person, to exercise our legal rights, or to defend against legal claims.
 
-      iii.      You may call us at: (480) 505-8800
+**Security**  
+We take numerous precautions to protect the security of Personally Identifiable Information. Your Personally Identifiable Information resides on a secure server that only selected personnel and contractors have access to. In addition, we use Secure Socket Layer (SSL) encryption technology in the transmission of any sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your Personally Identifiable Information.  
+Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we employ commercially reasonable security measures to protect data and seek to partner with companies that do the same, we cannot guarantee the security of any information transmitted to or from the Site, and are not responsible for the actions of any third parties that may receive any such information.
 
-       iv.      You may fax us at: (480) 505-8844
+**Changes to this Privacy Policy**  
+We may update this Privacy Policy at any time by posting amended terms on this Site. If you are a registered Bettervite user or have provided your email address to receive email notifications, we additionally will notify you of significant changes via the email address you provided or have associated with your account, so you must ensure that our email is not filtered from your Inbox by your ISP or email software. You agree that your use of Bettervite Site, after the date on which the Privacy Policy is changed, will constitute your acceptance of the updated Privacy Policy, and that you agree to be bound by such modifications or revisions. Unless stated otherwise, our updated Privacy Policy shall apply to all information that we have about you and your account.
 
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+**Contact Information**  
+If you have any suggestions or questions about our services or concerns about Bettervite Privacy Policy, please email us at privacy@bettervite.com.
