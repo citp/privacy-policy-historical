@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lostintechnology.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621045237id_/http%3A//www.lostintechnology.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lostintechnology.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124065353id_/http%3A//www.lostintechnology.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,4 +28,5 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
-For any other information email [webmaster](mailto:kyle.judkins@lostintechnology.com)
+For any other information email [webmaster](mailto:kyle.judkins@lostintechnology.com)  
+
