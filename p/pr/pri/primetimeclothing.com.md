@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primetimeclothing.com privacy policy that was archived on 2011-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110404063535id_/http%3A//www.primetimeclothing.com/Terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primetimeclothing.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124014327id_/http%3A//www.primetimeclothing.com/Terms_privacy.asp) for the most accurate reproduction.*
 
 # Our Privacy Policy : Wholesale Clothing Distributors : PrimeTime Clothing, Inc.
 
@@ -10,6 +10,7 @@ What information do we collect?
   * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously. 
   * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes. 
   * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them.
+  * Please note that we have the ability to retain any data that you provide on this website, even if you do not complete your registration/transaction by clicking submit. Such contact details and data may be used to contact you to inquire why you did not complete your registration/transaction. For more information, full details of our privacy policy can be found here http://www.primetimeclothing.com/Terms_privacy.asp
 
   
 How do we use your information?
@@ -65,7 +66,7 @@ This online privacy policy applies only to information collected through our web
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20110404063535id_/http%3A//www.primetimeclothing.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20111124014327id_/http%3A//www.primetimeclothing.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
