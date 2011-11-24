@@ -1,0 +1,23 @@
+> *The following text is extracted and transformed from the mercuryminds.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124124355id_/http%3A//www.mercuryminds.com/About-us/privacy.html) for the most accurate reproduction.*
+
+# Privacy policy
+
+MercuryMinds Technologies Pvt Ltd has created this privacy statement in order to demonstrate our firm commitment to privacy. We respect the purpose for which our site visitors gave us information. We will not sell, rent, or loan our subscriber or customer lists to third parties for e-mail marketing and any other purposes. While we sell advertising in our e-mail publications to other companies, we never allow third parties any other use of these subscriber lists. We will send our periodicals only to those who requested clients. 
+
+We use your IP address to help diagnose problems with our server and to administer our Web site. We may also use your IP address to track traffic on our website. 
+
+We use cookies in a responsible manner to help our visitors, not snoop on them. We use cookies to keep track of your shopping cart, and to make sure you don't see the same ad repeatedly. We also use cookies to deliver content specific to your interests, and to save your password so you don't have to re-enter it each time you visit our site. We do not collect or use information from cookies to develop a profile about our visitors or shoppers. 
+
+Our site's registration form requires users to give us contact information (like their name, email, and postal address), financial information (like their bank account or credit card numbers), and demographic information (like their zip code, age, or income level). 
+
+Contact information from the registration forms are used to ship purchases, information about our company. The customer's contact information is also used to send promotional material from MercuryMinds Technologies Pvt Ltd itself, and to get in touch with the customer when necessary. 
+
+Our site contains links to other sites. MercuryMinds Technologies Pvt Ltd is not responsible for the privacy or the content of such Web sites. 
+
+**Security**  
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control
+
+**Analytics**  
+This website uses Google Analytics, a web analytics service provided by Google, Inc.("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generatedby the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States . Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.
+
+Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
