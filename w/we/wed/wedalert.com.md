@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wedalert.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422175919id_/http%3A//www.wedalert.com/company_info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedalert.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124075803id_/http%3A//www.wedalert.com/company_info/privacypolicy.asp) for the most accurate reproduction.*
 
 # Wedding Planning for New York, New Jersey, Pennsylvania, Connecticut, Massachusetts, and Florida Weddings. Find a Wedding Hall, Photographer, Photography, Entertainment, Band, DJ, and more for weddings in NY, NJ, CT, PA, or FL.
 
@@ -38,7 +38,7 @@ Please be aware that on our site we have advertisements and links to other websi
 
 
 **WedAlert, Corp.  
-952 Main Street  
-Hackensack, NJ 07601  
+1 International Blvd.   
+Mahwah, NJ 07495  
 201-996-1980  
 WedAlert.com **
