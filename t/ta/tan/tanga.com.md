@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tanga.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102163040id_/http%3A//www.tanga.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tanga.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124020153id_/http%3A//www.tanga.com/privacy) for the most accurate reproduction.*
 
-# Tanga
+# Privacy Policy - Tanga
 
 **Tanga respects your privacy.** What you do behind closed doors, and in front of the open doors of your college dorm room is completely up to you. And we will not tell a soul, unless, of course, you post about it on our forums. What we collect from you allows us to ship product to you, use all of our Daily Fun and Social Entertainment features, make great improvements to our web site and give you a better, interactive experience. 
 
@@ -18,4 +18,18 @@ Google's use of the DART cookie enables it to serve ads to your users based on t
 
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
+We may provide you the opportunity to opt-in to additional newsletters or promotional communications sent by email. If you have opted in or otherwise qualify to receive these forms of communication, and no longer wish to receive our newsletter or other promotional communications by email, you may opt-out of receiving them by following the instructions included in each communication.
+
 From time to time, we may need to make additions or changes to this privacy policy, especially if we get those dang lawyers involved. If we make changes to this privacy policy, we will email you or post a notice on the web site before we make any changes to our plans.
+
+If you have comments or questions about our privacy policy, please send them to Tanga at service@tanga.com, or contact:
+
+Tanga.com, LLC
+
+2218 East Williams Field Road
+
+Suite 250
+
+Gilbert, AZ 85295
+
+phone: 435-688-9595
