@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotbmark.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629180046id_/http%3A//hotbmark.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotbmark.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124014527id_/http%3A//www.hotbmark.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hot BookMark
 
