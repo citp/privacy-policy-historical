@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shoppersdrugmart.ca privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413155457id_/http%3A//www.shoppersdrugmart.ca/english/corporate_information/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoppersdrugmart.ca privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124160943id_/http%3A//www1.shoppersdrugmart.ca/privacy.aspx) for the most accurate reproduction.*
 
-# Shoppers Drug Mart - Privacy
+# 
 
 This Privacy Policy outlines the information Shoppers Drug Mart will collect on this web site and how it will use that information. It will also tell you who to contact about the personal information which is collected and what to do if you do not want your personal information collected.
 
@@ -28,10 +28,10 @@ Use of Personal Information
 
 Shoppers Drug Mart may use the personal information collected in the following ways:
 
-  * To process and store the information provided so that we are able to better understand your needs and how we can improve our products and services;
-  * To contact you;
-  * To provide you with special offers and services; and
-  * To provide you with health-related information or services that we believe would be of interest to you.
+  * To process and store the information provided so that we are able to better understand your needs and how we can improve our products and services; 
+  * To contact you; 
+  * To provide you with special offers and services; and 
+  * To provide you with health-related information or services that we believe would be of interest to you. 
 
 
 
@@ -51,22 +51,17 @@ HealthWATCH Easy Refills™
 
 All personal information provided as result of a prescription refill request is necessary to properly identify the prescription and the patient. Once a prescription refill request is received by a pharmacy, for the patient's health and safety and for the pharmacist to properly fulfill his/her professional responsibilities, it may be necessary for the pharmacy to contact the patient's physician (or the prescribing professional) to discuss the refill request, the patient's medication history and medical conditions. In the course of such discussions the patient's personal health information may be disclosed. The receipt of a refill request shall be deemed consent to such disclosure and use of the patient's personal information. 
 
-If the patient has health plan coverage for his/her prescriptions or a claims adjudicator is used, information about the prescription will be transmitted to such health plan and they may have access to the patient's personal health information in order to properly process the benefits. The patient's consent to this disclosure of personal health information to such health plan is deemed by the request for payment or reimbursement for the prescription to such health plan and/or the provision to the pharmacy of the details of the patient's health plan information.  
+If the patient has health plan coverage for his/her prescriptions or a claims adjudicator is used, information about the prescription will be transmitted to such health plan and they may have access to the patient's personal health information in order to properly process the benefits. The patient's consent to this disclosure of personal health information to such health plan is deemed by the request for payment or reimbursement for the prescription to such health plan and/or the provision to the pharmacy of the details of the patient's health plan information.
 
+Shoppers Photo
 
-easypix® Online
+ Shoppers Photo Members of the Shoppers Drug Mart online photo site – shoppersphoto.ca (“Photo Site”) - have the ability to upload their images to order prints and other photographic items from the Photo Site.
 
-Members of Shoppers Drug Mart online photo site - easypix Online have the ability to upload their images to order prints and other photographic items from the easypix Online site.
+If a visitor to the Photo Site has registered on the Photo Site, their personal information will be automatically transferred to Fujifilm Canada Inc. Fujifilm Canada Inc. operates the Photo Site on behalf of Shoppers Drug Mart.
 
-If a visitor to this web site has registered on this web site, their personal information will be automatically transferred to Fujifilm Canada Inc. and its affiliated companies when they use the link from this web site to easypix Online. Only when a visitor links to the easypix Online will this personal information be transferred.
+Shoppers Optimum®
 
-If a visitor to this web site does not want their information transferred to easypix Online they have the option of either not registering on this web site or not linking to easypix Online.  
-
-
-Shoppers Optimum™
-
-All personal information provided to or populated in this web site with respect to your membership in the Shoppers Optimum Program™ is subject to the privacy provisions set out in the Terms and Conditions of the Shoppers Optimum Program.  
-
+All personal information provided to or populated in this web site with respect to your membership in the Shoppers Optimum Program® is subject to the privacy provisions set out in the Terms and Conditions of the Shoppers Optimum Program.
 
 Automatically Collected Information
 
@@ -86,12 +81,9 @@ Your use of this web site constitutes your consent to the collection by Shoppers
 
 Contact
 
-If you wish to know what information we have in our files about you, ask a question about the information in your file or request a change to the information in your file, please [click here](http://fd5.formdesk.com/shoppersdrugmart/contact_us) or write to :
+If you wish to know what information we have in our files about you, ask a question about the information in your file or request a change to the information in your file, please [click here](http://fd5.formdesk.com/shoppersdrugmart/contact_us) or write to : 
 
 Shoppers Drug Mart  
 243 Consumers Rd.  
 Toronto, Ontario  
 M2J 4W8
-
-Top   
-
