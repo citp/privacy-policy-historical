@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vision02.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526074053id_/http%3A//vision02.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vision02.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124211740id_/http%3A//vision02.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vision02
 
