@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the smallbusinessonlinecoach.com privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822033931id_/http%3A//www.smallbusinessonlinecoach.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbusinessonlinecoach.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124022304id_/http%3A//www.smallbusinessonlinecoach.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-If you're new here, you may want to subscribe to my [RSS feed](http://www.smallbusinessonlinecoach.com/feed/). Thanks for visiting!
 
 This privacy policy sets out how “www.SmallBusinessOnlineCoach.com” uses and protects any information that you give “www.SmallBusinessOnlineCoach.com” when you use this website.
 
