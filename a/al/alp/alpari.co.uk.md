@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alpari.co.uk privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427211154id_/http%3A//www.alpari.co.uk/en/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpari.co.uk privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124012602id_/http%3A//www.alpari.co.uk/en/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Alpari (UK)
 
@@ -23,9 +23,14 @@ Demographic data is not frequently sought, unless under the legal requirement fo
 **Please be aware that Alpari UK has regulatory obligations to keep your Personal Data in record for a period of five years in the case you wish to terminate your working relationship with us.**
 
 **  
+Registration Forms**
+
+In order to collect your Data, Alpari (UK) Limited will normally require you to complete an online registration form. The form requires some basic contact information needed to process your order, register or enable us to contact you. When filling out a form on this website, if you do not wish to be contacted by Alpari (UK) Limited, its group companies or approved associates for marketing purposes, you will be given the opportunity to tick the "opt-out" box provided at the end of the registration process. You may also withdraw your consent at any time by notifying us by email at: [info@alpari.co.uk](mailto:info@alpari.co.uk).
+
+**  
 Use of Personal Data**
 
-Alpari UK may use your Personal Date for one or more of the following purposes:
+Alpari UK may use your Personal Data for one or more of the following purposes:
 
   * to confirm your identity; 
   * to assess your suitability to the products and services we provide;
