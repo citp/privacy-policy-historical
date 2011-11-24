@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the missbimbo.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219204607id_/http%3A//missbimbo.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the missbimbo.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124022533id_/http%3A//www.missbimbo.com/privacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - missbimbo.com
 
