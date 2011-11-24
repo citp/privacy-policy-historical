@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the floormall.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514062824id_/http%3A//www.floormall.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floormall.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124124112id_/http%3A//www.floormall.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Floormall.com Privacy Policy
 
+FloorMall's Principles 
+
   
 **INTRODUCTION:**  
+---  
 We want our users to always be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it.   
   
 **WEBSITE ADMINISTRATION**  
@@ -13,8 +16,8 @@ City:  |  Virginia Beach
 State/Province:  |  Virginia   
 ZIP:  |  23453   
 Country:  |  USA   
-Local Phone:  | 757-689-4614   
-Fax:  |  757-689-4622   
+Local Phone:  | 757-447-3623   
+Fax:  |  866-754-7055   
 Website URL:  |  www.floormall.com   
 Website e-mail:  |  customerservice@floormall.com   
   
@@ -33,7 +36,7 @@ We respect each site visitor's right to personal privacy. To that end, we collec
 **We require information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and possibly financial information (such as credit card number, expiration date). If we have trouble processing an order, we use the information to contact the user. This information is used:
 
   * for shipping and billing purposes.
-  * to fill customer´s orders.
+  * to fill customerï¿½s orders.
   * As a service to you, our customer, you may be contacted by ReliableRemodelers.com in attempt to help in your search for a flooring installer in your area.
 
 **  
@@ -66,7 +69,7 @@ We always use industry-standard encryption technologies when transferring and re
 If site users have any questions or suggestions regarding our privacy policy, please contact us at:  
   
 Local Phone |  757-689-4614  
-Fax |  757-689-4622  
+Fax |  866-754-7055  
 Email |  customerservice@floormall.com  
 Postal Address:  
 |  3169 Shipps Corner Road Suites 101-103  
