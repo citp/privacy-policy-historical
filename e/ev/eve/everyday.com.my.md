@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everyday.com.my privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518075407id_/http%3A//everyday.com.my/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everyday.com.my privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124012247id_/http%3A//www.everyday.com.my/privacypolicy.shtml) for the most accurate reproduction.*
 
 # One-Stop Search For Warehouse Sales, Clearance Sales, Sales Voucher & Hidden Promotion in Malaysia - Everyday.com.my
 
