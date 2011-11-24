@@ -1,22 +1,6 @@
-> *The following text is extracted and transformed from the sunshinerewards.com privacy policy that was archived on 2010-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100113074527id_/http%3A//www.sunshinerewards.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunshinerewards.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124015545id_/http%3A//www.sunshinerewards.com/privacy.php) for the most accurate reproduction.*
 
-# Earn Rewards for Reading Email, Shopping, and Surfing at Sunshine Rewards
-
-[ ](http://www.sunshinerewards.com/shopping/MedifastDiet)
-
- Featured Offers
-
-[ ](http://www.sunshinerewards.com/offers.php?oid=471)
-
-* * *
-
-[Sunshine Rewards Videoblog](http://www.sunshinerewards.com/videoblog)
-
-[Merry Christmas from Sunshine Rewards](http://www.sunshinerewards.com/videoblog/2009/12/21/merry-christmas-from-sunshine-rewards/)
-
-[She Shops Around 17: Last Minute Gifts](http://www.sunshinerewards.com/videoblog/2009/12/15/she-shops-around-17-last-minute-gifts/)
-
-* * *
+# Earn Rewards Shopping, Taking Surveys, and Printing Coupons at Sunshine Rewards
 
 |  | Privacy  
 ---  
