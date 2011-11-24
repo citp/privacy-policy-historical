@@ -1,0 +1,375 @@
+<!--The following is the downloaded HTML source of the looknbook.com privacy policy that was archived on 2011-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124013309id_/http%3A//www.looknbook.com/Privacy_Policy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_head1">
+
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+ 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22143579-1']);
+  _gaq.push(['_trackPageview']);
+ 
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+ 
+    </script>
+
+    <script language="JavaScript" type="text/javascript">
+ 
+<!-- Yahoo!
+ 
+var ysm_accountid  = "1S4PVMQC4M40PANBE54M1QM7CUG";
+ 
+document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' " 
+ 
++ "SRC=//" + "srv1.wa.marketingsolutions.yahoo.com" + "/script/ScriptServlet" + "?aid=" + ysm_accountid 
+ 
++ "></SCR" + "IPT>");
+ 
+// -->
+ 
+    </script><script language="JavaScript" type="text/javascript" src="//srv1.wa.marketingsolutions.yahoo.com/script/ScriptServlet?aid=1S4PVMQC4M40PANBE54M1QM7CUG"></script>
+
+<title>
+	www.looknbook.com
+</title><link href="StyleSheet.css" rel="stylesheet" type="text/css"><link media="all" href="http://www.looknbook.com/Calander/index1.css" type="text/css" rel="stylesheet"><link href="http://www.looknbook.com/CheckOut_Page/CheckOut_Page.css" rel="stylesheet" type="text/css"><link rel="stylesheet" href="http://www.looknbook.com/windowfiles/dhtmlwindow.css" type="text/css">
+
+    <script type="text/javascript" src="http://www.looknbook.com/windowfiles/dhtmlwindow.js"></script>
+
+    <link rel="stylesheet" href="http://www.looknbook.com/modalfiles/modal.css" type="text/css">
+
+    <script type="text/javascript" src="http://www.looknbook.com/modalfiles/modal.js"></script>
+     <link href="lytebox.css" rel="stylesheet" type="text/css">
+        <script type="text/javascript" src="lytebox.js"></script>
+    <script type="text/javascript" src="popupmanager.js"></script>
+
+    <link type="text/css" href="http://www.looknbook.com/css/jquery-ui-1.8.8.custom.css" rel="stylesheet"><link type="text/css" href="http://www.looknbook.com/css/jquery.ui.all.css" rel="stylesheet"><link rel="SHORTCUT ICON" href="http://www.looknbook.com/images/favicon.png">
+
+    <script type="text/javascript" src="http://www.looknbook.com/js/jquery-1.4.4.min.js"></script>
+
+    <script type="text/javascript" src="http://www.looknbook.com/js/jquery-ui-1.8.8.custom.min.js"></script>
+
+    <script type="text/javascript" src="http://www.looknbook.com/js/jquery.effects.blind.js"></script>
+
+    <script language="javascript" type="text/javascript">
+    var con;
+     function modaldis(){
+            con=dhtmlmodal.open('agebox', 'div', 'register_info', 'Register Form', 'width=630px,height=200px,left=200px,top=200px,resize=0,scrolling=0')
+            return false;
+        }
+         function RegisterUsermain()
+        {
+                var  fName=document.getElementById('ctl00_Fname').value;
+                    if(fName=="")
+                    {
+                        alert('Please provide first name',' ');
+                        return false;
+                    }
+                var lName=document.getElementById('ctl00_Lname').value;
+                     if(lName=="")
+                     {
+                        alert('Please provide last name',' ');
+                        return false;
+                     }
+                     
+                var email=document.getElementById('ctl00_txt_email').value;
+                    if(email=="")
+                    {
+                        alert('Please provide Email',' ');
+                        return false;
+                    }
+            
+               var address=document.getElementById('ctl00_TB_AddLine').value;
+                    if(address=="")
+                    {
+                        alert('Please provide address',' ');
+                        return false;
+                    }
+               var city=document.getElementById('ctl00_TB_City').value;
+                   if(city=="")
+             {
+                alert('Please provide city',' ');
+                return false;
+             }
+             var state=document.getElementById('ctl00_DDL_State').value;
+                if(state=="")
+             {
+                alert('Please provide state',' ');
+                return false;
+             }
+             var country="INDIA";
+                  if(country=="")
+             {
+                alert('Please provide country',' ');
+                return false;
+             }
+             var zip=document.getElementById('ctl00_TB_PinCode').value;
+                if(zip=="")
+             {
+                alert('Please provide zip',' ');
+                return false;
+             }
+             var mobile=document.getElementById('ctl00_txt_mobile').value;
+                 if(mobile=="")
+             {
+                alert('Please provide mobile',' ');
+                return false;
+             }
+             else
+             {
+                          //document.getElementById('ctl00_ContentPlaceHolder1_Book').disabled = false;
+                        var xmlHttpReq= createXMLHttpRequest(); 
+                        xmlHttpReq.open("GET", "http://www.looknbook.com/Register.ashx?fName="+fName+"&lName="+ lName + "&email="+email+"&password=''&address="+address+"&city="+city+"&state="+state+"&country="+country+"&zip="+zip+"&mobile="+mobile+"", false); 
+                        xmlHttpReq.send(null); 
+                        var yourJSString = xmlHttpReq.responseText;
+                        alert(yourJSString);
+                       con.hide()
+             }          
+             
+            
+     
+        }
+        function createXMLHttpRequest() { 
+            try { return new XMLHttpRequest(); } catch(e) {} 
+            try { return new ActiveXObject("Msxml2.XMLHTTP"); } catch (e) {} 
+            try { return new ActiveXObject("Microsoft.XMLHTTP"); } catch (e) {} 
+            alert("XMLHttpRequest not supported"); 
+            return null; 
+                                        } 
+                                        
+                                         function phone_vali()
+   {
+   if ((event.keyCode > 47 && event.keyCode < 58) ||(event.keyCode==32) ||(event.keyCode==45))
+          event.returnValue = true;
+    else 
+          event.returnValue = false;
+   }
+   
+    </script>
+
+</head>
+<body>
+    <form name="aspnetForm" method="post" action="/Privacy_Policy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmRkqkdOd5N6uFQjKC8DzLvFzwvM3xs=">
+
+
+<script src="/ScriptResource.axd?d=H7l4my-zuLv8NOuUhf-_3JdWdHLPR18c8khIyHC2mlgdlen5hR0pkvnQNDL3HbYX9w6wHODvUA0utSH6Vhcx2AsdL6rkFTqGRyKQbbll56ggfT9xnBmOsu2xBPoiviJiV_DStpjfCrjYi2XLfLHO4EZQfFK2a2FEDGH_Z3sE4Fcch32I0&amp;t=ffffffffca1f08d2" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
+//]]>
+</script>
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWCwKwmMrRAQKO04jSDQLUjqCeCgKYnbrJCQLBibK9CQKyo+MSAqb4q4UIAsasybIEAtCYlaEIArfesYkBAsbEq74IzHWm4s1He8T0lbVqAAJllEx1v6k=">
+    
+     
+     
+    <div id="header">
+        <div id="headcontent">
+            <div class="div_logo">
+                <a href="http://www.looknbook.com"><img src="http://www.looknbook.com/images/logo1.png" alt="" style="border:none;"></a>
+            </div>
+            <div class="bt-login">
+                <span class="bt-login-signin1">My Account:</span> <a class="bt-login-signin" onclick="modaldis()">Sign Up</a>
+                <a class="bt-login-signin" href="http://www.looknbook.com/MyAccount/Login.aspx">Sign In</a>
+                <img src="http://www.looknbook.com/images/tollfree.png" style="text-align:right; float:right; clear:both;">
+            </div>
+                <div style="margin:auto; float:right; "><br>
+                    <a href="http://www.facebook.com/pages/Look-N-Bookcom/157237954334247" target="_blank">
+                        <img src="/facebook.jpg" style="border: 0px;"></a><a href="http://twitter.com/#!/looknbookindia" target="_blank"><img src="/twitter.jpg" style="border: 0px;"></a>
+                </div>
+        </div>
+    </div>
+    <div class="tp">
+        <div class="menucontent">
+            <div class="menu">
+                <div class="main_menu">
+                    <ul>
+                        <li><a href="/index.aspx" rel="nofollow">Home</a></li>
+                        <li><a href="/index.aspx">Flights</a></li>
+                        <li><a href="/index.aspx">Hotels</a></li>
+                        <li><a href="/Packages/Forms/Package_Search.aspx">Packages</a></li>
+                        <li><a href="/Under_Construction.aspx">Rail</a></li>
+                        <li><a href="/MyAccount/Login.aspx">My Account</a></li>
+                        <li><a href="http://www.looknbook.com/InsertDetails.aspx" target="popup" onclick="wopen(" http:="" www.looknbook.com="" insertdetails.aspx',="" 'popup',449,="" 310);="" return="" false;'="" rel="lyteframe" rev="width: 449px; height: 210px; overflow:hidden;">Cancel PNR</a></li>
+                        <li><a href="/About_Us.aspx">About Us</a></li>
+                        <li><a href="/Contact_Us.aspx">Contact Us</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="body_div">
+        <div id="main_body">
+            
+    <div class="Static_Content">
+        <h2>Privacy Policy</h2>
+        <span><img src="http://www.looknbook.com/images/textlogo.png"> is a wholly owned subsidiary of Spring Travels (P) Ltd.</span>
+        <p>
+            <img src="http://www.looknbook.com/images/textlogo.png"> is committed to protecting our customer’s privacy. We employ the
+            highest levels of security to keep the personal information of our valued customers
+            strictly confidential. We will not disclose or sell any of your personal information,
+            including your name, address, credit card details or transaction history to any
+            third party without your permission. We do not use cookies</p>
+        <p>
+            As you are our registered member of <img src="http://www.looknbook.com/images/textlogo.png">, you will be entitled to savings
+            and benefits on airfares, hotel reservations, holiday packages, among other travel
+            services. In addition, look forward to receiving our newsletters &amp; promotions offering
+            special deals.</p>
+        <p>
+            In general, you can visit <img src="http://www.looknbook.com/images/textlogo.png"> website without telling us who you are
+            or revealing any personal information about yourself. We track the Internet address
+            of the domains from which people visit us and analyze the data for statistics, but
+            your information remains anonymous.</p>
+        <p>
+            Some of our web pages use "cookies" so that we can better serve you with customized
+            information when you return to our site. Cookies are identifiers which a web site
+            can send to your browser to keep on your computer to facilitate your next visit
+            to our site. You can set your browser to notify you when you are sent a cookie,
+            giving you the option to decide whether or not to accept it. The information we
+            collect and analyze is used to improve our service to you.</p>
+        <p>
+            <img src="http://www.looknbook.com/images/textlogo.png"> will take appropriate steps to protect the information you share
+            on our website. We have implemented technology and security features and strict
+            policy guidelines to safeguard the privacy of your personally identifiable information
+            from unauthorized access and improper use or disclosure. You should access our privacy
+            policy regularly to ensure you understand our current policies. Please reference
+            the privacy policy in your subject line. <img src="http://www.looknbook.com/images/textlogo.png"> will attempt to respond
+            to all reasonable concerns or inquiries within five business days of receipt.</p>
+        <p>
+            When you register with <img src="http://www.looknbook.com/images/textlogo.png">, we or any of our partners/affiliate/group
+            companies may contact you from time to time to provide the offers/information of
+            such products/services that we believe may benefit you.</p>
+    </div>
+
+        </div>
+    </div>
+    <div id="bottom">
+        <ul class="bottom1">
+            <li><a href="http://www.looknbook.com/Index.aspx" rel="nofollow">Home Page</a></li>
+            <li><a href="http://www.looknbook.com/Packages/Forms/PackageAdmin.aspx">Admin(Packages)</a></li>
+            <li><a href="http://www.looknbook.com/Award.aspx">Awards</a></li>
+        </ul>
+        <ul class="bottom1">
+            <li><a href="http://www.looknbook.com/About_Us.aspx">About Us</a></li>
+            <li><a onclick="modaldis()">B2B Registration</a></li>
+            <li><a href="http://www.looknbook.com/Privacy_Policy.aspx">Privacy Statement</a></li>
+        </ul>
+        <ul class="bottom1">
+            <li><a href="/Terms_Conditions.aspx" rel="nofollow">Terms &amp; Conditions</a></li>
+            <li><a href="/Refunds_Cancelation.aspx" rel="nofollow">Refund &amp; Cancellation
+                Policy</a></li>
+            <li><a href="/Contact_Us.aspx">Contact Us</a></li>
+        </ul>
+        <ul class="bottom1">
+            <li><a href="http://www.looknbook.com/Packages/Forms/Package_Search_Result.aspx?Region=IN&amp;Theme=HS&amp;Dur=">
+                Hill Station</a></li>
+            <li><a href="http://www.looknbook.com/Packages/Forms/Package_Search_Result.aspx?Region=IN&amp;Theme=BH&amp;Dur=">
+                Beaches</a></li>
+            <li><a href="http://www.looknbook.com/Packages/Forms/Package_Search_Result.aspx?Region=IN&amp;Theme=HC&amp;Dur=">
+                Heritage Culture</a></li>
+        </ul>
+        <ul class="bottom1">
+            <li><a href="/index.aspx">Flights</a></li>
+            <li><a href="/Packages/Forms/Package_Search.aspx">Packages</a></li>
+            <li><a href="http://www.looknbook.com/Packages/Forms/Package_Search_Result.aspx?Region=IN&amp;Theme=RG&amp;Dur=">
+                Religious</a></li>
+        </ul>
+        <ul class="bottom1">
+            <li><a href="/Careers.aspx">Careers</a></li>
+            <li><a href="http://www.looknbook.com/Packages/Forms/Package_Search_Result.aspx?Region=IN&amp;Theme=WL&amp;Dur=">
+                Wildlife Tours</a></li>
+            <li><a href="http://www.looknbook.com/Packages/Forms/Package_Search_Result.aspx?Region=IN&amp;Theme=HS&amp;Dur=">
+                Honeymooners Special</a></li>
+        </ul>
+    </div>
+    <div id="restinfo">
+        <div class="br">
+        </div>
+        This site is best viewed with Internet Explorer 7.0 or higher, Firefox 2.0 or higher,
+        Chrome at a minimum screen resolution of 1024x768. <span style="float: left;">Copyright
+            2011 <a href="/index.aspx">www.looknbook.com</a> All Rights Reserved.
+        </span><span style="float: right;">A Complete Travel Solution </span>
+    </div>
+    <div id="register_info" style="display: none;">
+        <div class="booking_information">
+            First Name :</div>
+        <div class="booking_information_box">
+            <input name="ctl00$Fname" type="text" id="ctl00_Fname" class="txtbox">
+            
+        </div>
+        <div class="booking_information">
+            Last Name :</div>
+        <div class="booking_information_box">
+            <input name="ctl00$Lname" type="text" id="ctl00_Lname" class="txtbox">
+            </div>
+        <div class="clear_1">
+        </div>
+        <div class="booking_information">
+            Mobile :</div>
+        <div class="booking_information_box">
+            <input name="ctl00$txt_mobile" type="text" id="ctl00_txt_mobile" class="txtbox" onkeypress="return phone_vali();">
+            
+        </div>
+        <div class="booking_information">
+            Email :</div>
+        <div class="booking_information_box">
+            <input name="ctl00$txt_email" type="text" id="ctl00_txt_email" class="txtbox">
+            
+            </div>
+        <div class="clear_1">
+        </div>
+        <div class="booking_information">
+            AddressLine :</div>
+        <div class="booking_information_box">
+            <input name="ctl00$TB_AddLine" type="text" id="ctl00_TB_AddLine" class="txtbox">
+            
+        </div>
+        <div class="booking_information">
+            City :</div>
+        <div class="booking_information_box">
+            <input name="ctl00$TB_City" type="text" id="ctl00_TB_City" class="txtbox">
+            </div>
+        <div class="clear_1">
+        </div>
+        <div class="booking_information">
+            State :</div>
+        <div class="booking_information_box">
+            <input name="ctl00$DDL_State" type="text" id="ctl00_DDL_State" class="txtbox">
+            
+        </div>
+        <div class="booking_information">
+            Pin Code :</div>
+        <div class="booking_information_box">
+            <input name="ctl00$TB_PinCode" type="text" id="ctl00_TB_PinCode" class="txtbox" onkeypress="return phone_vali();">
+            </div>
+        <div class="clear_1">
+        </div>
+        <div class="booking_information">
+            Country :</div>
+        <div class="booking_information_box">
+            <input name="ctl00$TextBox5" type="text" value="India" id="ctl00_TextBox5" class="txtbox">
+            
+        </div>
+        <div class="clear_1">
+        </div>
+        <div class="pp_tnc" style="padding-left: 280px">
+            <input type="submit" name="ctl00$Book" value="Sign-UP Now" onclick="RegisterUsermain();WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$Book&quot;, &quot;&quot;, true, &quot;&quot;, &quot;&quot;, false, false))" id="ctl00_Book">
+        </div>
+    </div>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+    <div id="CalendarControl">
+    </div>
+
+
+<div id="lbOverlay" class="grey" style="display: none;"></div><div id="lbMain" style="display: none;"><div id="lbOuterContainer" class="grey"><div id="lbIframeContainer" style="display: none;"><iframe id="lbIframe" name="lbIframe" frameborder="0" style="display: none;"></iframe></div><div id="lbImageContainer"><img id="lbImage"><div id="lbHoverNav"><a id="lbPrev" class="grey" href="#"></a><a id="lbNext" class="grey" href="#"></a></div></div><div id="lbLoading"></div></div><div id="lbDetailsContainer" class="grey"><div id="lbDetailsData" class="grey"><div id="lbDetails"><span id="lbCaption"></span><span id="lbNumberDisplay"></span><span id="lbNavDisplay" style="display: none;"></span></div><div id="lbBottomNav"><a id="lbClose" class="grey" href="#"></a><a id="lbPause" class="grey" href="#" style="display: none;"></a><a id="lbPlay" class="grey" href="#" style="display: none;"></a></div></div></div></div></body></html>
