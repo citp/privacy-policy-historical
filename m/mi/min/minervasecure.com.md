@@ -1,0 +1,58 @@
+> *The following text is extracted and transformed from the minervasecure.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124161438id_/http%3A//www.minervasecure.com/info_privacy.html) for the most accurate reproduction.*
+
+# Privacy Policy | Minerva Rewards
+
+Minerva Worldwide, Inc Privacy Policy  
+INFORMATION COLLECTION  
+Minerva Worldwide, Inc, (referred to herein as "Minerva Worldwide, Inc", "our", "us" or "we") is the sole owner of the information collected on our community of websites and on the replicated Minerva Worldwide, Inc websites that we provide for use by pre-enrollees, independent affiliates and members (hereafter the "websites"). We collect information from pre-enrollee, affiliates, members and customers and visitors to the websites at different points on the websites.  
+INFORMATION USE  
+Personally Identifiable Information  
+Minerva Worldwide, Inc DOES NOT share personally identifiable information except as may be necessary to process and fill an order. Minerva Worldwide, Inc. may share aggregated information from time to time with its partners, vendors or other third parties. When such aggregate information is shared by Minerva Worldwide, Inc., no personally identifiable information is shared.   
+Profile Information  
+Minerva Worldwide, Inc stores information that it collects through cookies, log files, clear gifs, and/or third parties to create a profile of visitors to our websites ("users"). A profile is stored having information that Minerva Worldwide, Inc. keeps on individual users that details their viewing preferences.� � Profile information is tied to the user's personally identifiable information to provide offers and improve the content of the site for the user.�Minerva Worldwide, Inc. does not share profile information with other third parties.   
+Cookies  
+A cookie is a piece of data stored on a user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on the websites. Minerva Worldwide, Inc uses both session ID cookies and persistent cookies.� � For the session ID cookie, once users close the browser, the cookie simply terminates.� A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. By setting a cookie on a user's computer, users do not have to log in a password more than once, thereby saving time while at the websites.� �If a user rejects the cookie, the user will still be able to use the site. The only drawback to this is that the user may need to enter his or her password every time he or she accesses the site. By setting a cookie on a user's computer, users do not have to log in a password more than once, thereby saving time while at the websites.� �If a user rejects the cookie, the user will still be able to use the site. The only drawback to this is that the user may need to enter his or her password every time he or she accesses the site.   
+Log Files  
+Like most standard website servers Minerva Worldwide, Inc.'s websites use log files.� �This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. IP addresses are tied to personally identifiable information to enable our web-based service. We use a tracking utility that uses log files to analyze user movement.   
+Clear Gifs (Web Beacons/Web Bugs)  
+Minerva Worldwide, Inc. employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help Minerva Worldwide, Inc. to better manage content on the websites by informing it what content is effective.� �Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence.� �Clear gifs are not tied to users' personally identifiable information. In addition, Minerva Worldwide, Inc. uses clear gifs in its HTML-based emails to let it know which emails have been opened by the recipients. This allows Minerva Worldwide, Inc. to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns   
+COMMUNICATIONS FROM US  
+Special Offers and Updates  
+Minerva Worldwide, Inc. sends all new pre-enrollee, affiliates, customers and members a welcoming email to verify password, username, and acceptance of any pre-enrollee, affiliate or member agreement.� � All pre-enrollees, affiliates and members will occasionally receive information on products, services, special deals, and a newsletter.� � Customers who have not registered with Minerva Worldwide, Inc. and who grant permission will also receive occasional information on products, services, special deals, and the like.  
+Service Announcements  
+On rare occasions it is necessary to send out a strictly service related announcement.� �For instance, if our service is temporarily suspended for maintenance. However, these communications are not promotional in nature.   
+Member and Customer Service  
+Minerva Worldwide, Inc. communicates via email, regular mail and telephone on a regular basis to provide requested services and in regard to issues relating to their Minerva Worldwide, Inc. relationship.� � Minerva Worldwide, Inc. communicates with other customers with respect to products or services purchased by such customers from Minerva Worldwide, Inc. Such communications may be by email, regular mail or telephone.
+
+SHARING  
+Legal Disclaimer  
+Though Minerva Worldwide, Inc. makes every effort to preserve user privacy, Minerva Worldwide, Inc. may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on Minerva Worldwide, Inc.
+
+Aggregate Information (non-personally identifiable)  
+Minerva Worldwide, Inc shares aggregated demographic information with our partners and advertisers. This is not linked to any personally identifiable information. These are the instances in which we will share users' personal information:  
+Minerva Worldwide, Inc. DOES NOT Share Personally Identifiable Information about users with any Third Parties.  
+Third Party Fulfillment  
+Minerva Worldwide, Inc. uses an outside shipping company to ship orders, and a credit card processing company to bill for goods and services.�These companies do not retain, share, store or use personally identifiable information for any secondary purposes.  
+Service Providers  
+Minerva Worldwide, Inc. partners with other third parties to provide specific services.� �When necessary to provide services or products to pre-enrollees, affiliates, members and customers, and other customers, we share names and/or other contact information with service providers and vendors. Such third parties are not allowed to use personally identifiable information except for the purpose of providing these services.  
+Business Transitions  
+In the event Minerva Worldwide, Inc. goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, the personal information of pre-enrollees, affiliates, members and customers will, in most instances, be part of the assets transferred.� � If as a result of the business transition, this personally identifiable information will be used in a manner different from that stated at the time of collection, the pre-enrollee, affiliate, members or customer will be given choice consistent with our notification of changes section.  
+Choice  
+Users are always notified when their information is being collected by any outside parties. We do this so users can make an informed choice as to whether or not they should proceed with services that require an outside party.  
+Links  
+Minerva Worldwide, Inc.'s websites may contain links to other sites. Please be aware that Minerva Worldwide, Inc. is not responsible for the privacy practices of such other sites.� �We encourage users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information.� �This privacy statement applies solely to information collected by Minerva Worldwide, Inc. websites.   
+Security  
+Minerva Worldwide, Inc. takes every precaution to protect all users' information.� � When users submit sensitive information via Minerva Worldwide, Inc.'s websites, their information is protected both online and off-line When the pre-enrollment and affiliate application, member or customer registration, and/or online order forms ask users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry� -�SSL.� While on a secure page, online order forms, the lock icon on the bottom of web browsers such as Mozilla Firefox and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just 'surfing'.   
+While Minerva Worldwide, Inc. uses SSL encryption to protect sensitive information online, the Company also does everything in our power to protect user information off-line. All user information, not just the sensitive information mentioned above, is restricted in Minerva Worldwide, Inc.'s offices.� � Only employees who need the information to perform a specific job are granted access to personally identifiable information.� � ALL employees are kept up-to-date on Company security and privacy practices.� � Finally, the servers that store personally identifiable information are in a secure environment.  
+MISCELLANEOUS  
+Changes to this Privacy Policy  
+Minerva Worldwide, Inc. reserves the right to amend or change this Privacy Policy at any time at its sole discretion. It is your responsibility to periodically access this Privacy Policy by clicking on the Privacy Policy link at our home page. �  
+Making Changes to Your Personally Identifiable Information  
+Pre-enrollees, affiliates, members and customer may update your personal information as necessary by logging into the back office website, or contacting our member services department which allows them to access and edit their registration account information. In addition, you may contact us at info@minervaworldwide.com to update your profile.  
+Protecting Children  
+Minerva Worldwide, Inc. is committed to the safety of our children.� �Persons under the age of 18 may not enroll as Minerva Worldwide, Inc. pre-enrollees, members and customers.� � Children under the age of 13 may not purchase products through any of our websites. We do not knowingly collect any personal information from such children at this site or any of its other sites.  
+Questions  
+Questions regarding this Privacy Policy should be directed to privacypolicy@minervaworldwide.com, or by mailto Minerva Worldwide, Inc., 23836 222nd Place SE, Suite 105 Maple Valley, WA 98038.  
+Effective Date  
+The effective date of this Privacy Policy is November 1, 2011  
+©�2011 Minerva Worldwide, Inc, All Rights Reserved.
