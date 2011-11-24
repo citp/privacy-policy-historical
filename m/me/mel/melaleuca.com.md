@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the melaleuca.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228074958id_/http%3A//www.melaleuca.com/Introduction/Content.aspx%3FPage%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melaleuca.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124021819id_/http%3A//www.melaleuca.com/Introduction/Content.aspx%3FPage%3DPrivacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,7 +15,14 @@ MELALEUCA provides this Online Privacy Statement to make you aware of our privac
 
 We do not collect your E-mail address unless you contact us by E-mail or volunteer your E-mail address and other personal information. 
 
-We do collect "cookies" to store your preferences and record session information, such as items you add to your shopping cart. 
+Melaleuca websites use "cookies" to enable you to sign in to our services and to help personalize your online experience. As you browse, we may install cookies (tiny text files stored on your hard disk by a web page server) in your browser. Cookies cannot harm your computer and they do not contain any personally identifiable information. One of the primary purposes of cookies is to store your preferences and other information on your computer in order to save you time by eliminating the need to repeatedly enter the same information and to display your personalized content on your later visits to websites. Cookies also help us to improve our site and to deliver a better and more personalized service. Among other things, they enable us: 
+
+  * To estimate our audience size and usage pattern.
+  * To store information about your preferences, and so allow us to customize our site according to your individual interests.
+  * To speed up your searches.
+  * To recognize you when you return to our site. 
+
+
 
 On some MELALEUCA Web sites, you can order products or services, make requests and register to receive materials. The types of personal information that may be collected on these pages are name, customer number, contact and billing information, transaction and credit card information. 
 
