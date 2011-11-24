@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mega-search.net privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423092117id_/http%3A//www.mega-search.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mega-search.net privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124011430id_/http%3A//www.mega-search.net/privacy.htm) for the most accurate reproduction.*
 
 # MegaSearch, the premier cd covers search engine for audio cd covers, pc cd covers and dvd cd covers
 
