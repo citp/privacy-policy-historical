@@ -1,31 +1,71 @@
-> *The following text is extracted and transformed from the jacksonhole.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621002714id_/http%3A//www.jacksonhole.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacksonhole.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124075256id_/http%3A//www.jacksonhole.com/privacy.html) for the most accurate reproduction.*
 
-# Jackson Hole | Privacy Policy
+# Privacy Policy | Jackson Hole Mountain Resort
 
-Privacy Policy
+  **Jackson Hole Mountain Resort Privacy Policy**
 
-We at Jackson Hole Mountain Resort respect the privacy of the visitors to our web site. Any information that you provide us through our web site is the sole property of Jackson Hole Mountain Resort, and will not be shared with anyone outside of Jackson Hole Mountain Resort .
+Last revised: 11/5/2009
 
-You can access our home page and browse our site without disclosing personal data.
+Thank you for visiting www.jacksonhole.com (the “Website”). We value and respect your privacy, and this privacy policy (the “Privacy Policy”) is designed to assist you in understanding how we collect, use, and protect any information you may provide to us. Our Terms and Conditions available at wwwjacksonhole.com/terms-and-conditions.html describe the terms and conditions governing your access to and use of the Website and are incorporated herein by reference and form an essential part of the Privacy Policy. YOUR USE OF THE WEBSITE, AND CONTINUED USE OF THE WEBSITE FOLLOWING ANY CHANGES TO THE PRIVACY POLICY, SIGNIFIES YOUR CONSENT TO BE LEGALLY BOUND BY BOTH THE TERMS AND CONDITIONS OF THE PRIVACY POLICY AND THOSE SET FORTH IN OUR TERMS AND CONDITIONS. IF YOU DO NOT AGREE TO THE TERMS OF THE PRIVACY POLICY, PLEASE DO NOT USE THE WEBSITE OR PROVIDE ANY INFORMATION TO US.
 
-We collect your personal data only with your knowledge or your consent.  
-We collect the personal data that you volunteer via email, orders, occasional surveys, competition registrations, or other forms.
+**The Information we Collect**  
+We may collect several different types of personally identifiable information (“Personal Information”) which may include but is not limited to your:  
+• name   
+• e-mail address   
+• gender  
+• date of birth  
+• mailing address
 
-To make you feel more comfortable using the Jackson Hole Mountain Resort website we would like you to be aware of what methods we use to collect information from our visitors.  
-• Click-stream data : What pages are being requested  
-• HTTP protocol elements : The version and type of your browser
+You may choose not to provide your Personal Information; however providing personal information may be a pre-requisite for certain activities such as creating an account at the Website, registering for certain classes or staying at the Jackson Hole Mountain Resort (the “Resort”).
 
-**This data will be used for the following purposes:  
-*** Fetching and displaying the page to be viewed.  
-* Web site and system administration and statistics.  
-* Research, development to improve the site.
+**How we Collect your Information**  
+We may collect your Personal Information in any of the ways set forth below (each a “Channel”):  
+• Online. In order to use certain functions or features of the Website, you will need to create an account. As a prerequisite to account registration, you will need to provide certain types of Personal Information.   
+• In Person. You may physically provide us with your Personal Information in a variety of different ways. For example, if you stay at the Resort, you may be required to provide Personal Information to reserve your stay or check in. We may also condition participation in certain activities at the Resort, such as ski lessons, on the provision of certain Personal Information.   
+• Contests. From time to time, we may run certain contests, either via the Website or at the Resort (“Contests”). If you participate in any Contests, we will collect certain Personal Information from you in order to administer the Contest.   
+• From Third Parties. We may, from time-to-time, receive certain Personal Information that you have provided to a third party to whom you have provided your consent to share your Personal Information with us for marketing purposes, such as opt-in email list providers.
 
-This data will be used by ourselves and our web developers.  
-The following explanation is provided for why this data is collected:  
-**Cookies** \- cookies are set which consist of a purely random number which cannot be used to uniquely identify a visitor. This cookie is set to allow the website maintainers to more accurately track the number of people using the website. No cookies are ever set which store sensitive or personal information.  
-**eMail Program**  
-The Jackson Hole Mountain Resort e-mail service is completely opt-in/opt-out.  
-* Opt in: You may choose to receive promotional or marketing information from our Web site by signing up online.  
-* Opt-out: You may choose not to receive email by opting out at the bottom of the email or by contacting us at the email below.
+**Usage Information**  
+We may also collect certain indirect and/or aggregate information as a result of your use of, and interaction with, the Website (“Usage Information”). We may also certain standard web measurement and tracking technologies such as “cookies,” web server logs, or other statistics programs to collect Usage Information and track and record how you use the Website. This data is anonymous and does not personally identify you. Usage Information helps us measure the success of the Website and its features or pages and to improve your online experience. Your browser may have an option that allows you to accept cookies, reject cookies, or receive notification when a cookie is sent, but you should note that the use of such restrictive browser settings may limit your use of the Website. In addition, we may utilize use web beacons (also known as "action tags" or "one pixel .gif files"), provided by our advertising serving partner, to measure the effectiveness of, and otherwise manage, our online advertising. These web beacons enable our advertising server to recognize you when you visit the Website and to determine which banner ads bring users to the Website. We do not use spy ware, adware or any other similarly intrusive software. Collectively, Usage Information and Personal Information are referred to in this Privacy Policy as “Information.”
 
-If you have any further questions about this privacy policy, please e-mail [e-mail](mailto:info@jacksonhole.com) or call us (307-733-2292; 888-DEEP-SNO).
+**Use of Information Collected**  
+By providing your Information to us, whatever the Channel you use, you consent to our use of your Information in the following ways:   
+• to provide the services, products or classes that you request;   
+• to combine with or enhance information provided by third parties for marketing purposes;  
+• to contact you, respond to your inquiries, and send you information;   
+• to notify you of special offers and other services that we believe may be of interest to you  
+• to analyze, manage and improve the Website;   
+• to notify you of important new changes to the Website;  
+• to help us diagnose problems with our server or other technical issues relating to the performance of the Website; or  
+• for marketing purposes in compliance with applicable laws.
+
+It is our policy to require only the Personal Information necessary to enable use to complete the specific transaction that you request. We do not condition your participation in any specific activity on our Website, or the receipt of any products or services, on the disclosure of more Personal Information than is reasonably necessary.
+
+**Disclosure of your Information**  
+We may disclose the information we collect from and about you: (a) when we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, customers or other users of the Website, or anyone else who could be harmed by such activities, or is appropriate or necessary to enforce the Terms and Conditions, take precautions against liability, investigate and defend against any third-party claims or allegations, and/or protect the security or integrity of the Website; (b) to respond to judicial process and provide information to law enforcement agencies in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law, or in the good-faith belief that such action is necessary to comply with state and federal laws; (c) to our business partners for research, analytical and marketing purposes, such as analyzing usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Website and/or to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf.; or (d) otherwise with your consent. We may sell or buy other businesses or entities. In such event, we may transfer or assign the information we have collected as part of such merger, acquisition, sale, or other change of control In such transactions, your Personal Information may be included in the transferred business assets. Also, in the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your Personal Information is treated, transferred, or used and your Personal Information may be included in the transferred assets. We may use your Usage Information to identify and develop products and services that may be of interest to you and/or share this information with certain third parties for direct marketing purposes with respect to special offers, products, services, programs, promotions, surveys, publications, invitations or other opportunities that may be of interest to certain demographic groups. We do not sell your Personal Information, to third parties and have no intention of doing so in the future. Under the laws of some jurisdictions, you may be entitled to request disclosure regarding how we share your Usage Information with third parties for direct marketing purposes (“Information-Sharing Disclosure”). To the extent required by applicable law, we shall provide the Information-Sharing Disclosure to you upon rightful request made in writing to Chief Marketing Officer, PO Box 290, Teton Village, WY 83025. Except as explained above, we will not share any of your personal information with any third party, unless we have received your express permission to do so.
+
+**Opting Out**  
+You may opt-out of receiving communications from us at any time by clicking on a link provided at the bottom of the email communication.
+
+**Linked Sites**  
+Our Website may contain links to other websites (such as those of our travel partners or advertisers), which may have privacy policies that differ from our own (“Third Party Sites”). We are not responsible for the collection, use or disclosure of information collected through such Third Party Sites and expressly disclaim any liability related to such collection, use or disclosure. We are also not responsible for any information or content contained on such Third Party Sites. Links to Third Party Sites are provided solely as a convenience. Your browsing, use and interaction on any Third Party Sites, including Third Party Sites or Forums (as defined below) which have a link to the Website, are subject to the applicable Third Party Site’s own rules and policies. Accordingly, we recommend that you review the privacy policy posted on any Third Party Site that you may access through, or which links to the Website.
+
+**Special Disclosure Considerations for Social Media**  
+Our Website may permit you to participate in certain online activities, such as blogs, message boards or other forums, or may include links to certain Third Party Sites that provide social media functionality, such as Facebook or Twitter (“each a “Forum”). You should be aware that if you voluntarily disclose any Information (e.g., name, email address, personal photographs) on a Forum, such information may be collected and used by others and may result in unsolicited messages or an increased risk of fraud. We have no control over this use of your Information and cannot be responsible for it. In addition, if a Forum is provided by a Third Party Site, such Forum will likely be subject to additional own rules and policies; you are responsible for your conduct on any Forum and for complying with any such rules or policies.
+
+**Protecting your Children's Privacy**  
+Except for the “Kid’s Programs” portion of the Website, the Website is not designed for or directed to children under the age of 13 and we ask that children under the age of 13 not submit any personally identifiable information. With respect to the “Kid’s Programs” portion of the Website, we may collect certain personally identifiable information related to minors who wish to reserve space in one of our Kid’s Program activities, including the name, email address, and mailing address of such minors but we will only accept such information from (a) the minor’s legal parent or guardian, who has (b) created a Customer Account. We expressly request that no child under the age of 13 provide such information on their own behalf. We will not use such information for marketing purposes.
+
+**Security Procedures**  
+We take commercially reasonable precautions and have implemented commercially reasonable technical measures intended to protect against the risks of unauthorized access to, erroneous disclosure of, and unlawful interception of Personal Information submitted via the Website. However, your email transmissions and/or other communications containing Personal Information may be unlawfully intercepted or accessed by third parties and/or the Website may be subject to hostile network attacks or administrative errors. We cannot and do not guarantee the security of any information transmitted over the Internet. Once we receive your Personal Information, we take steps that we believe are commercially reasonable to limit access to your Personal Information to only those employees and service providers whom we determine need access to the Personal Information to provide the requested products, services, offers or opportunities that may be of interest to you. However, even after we receive your Personal Information, we cannot guarantee that your Personal Information may not be accessed, disclosed, altered, or destroyed as a result of a breach of our commercially reasonable efforts or as a result of any other event beyond our reasonable control. Accordingly, we cannot and do not guarantee that your Personal Information is completely secure and safe from such risks. FOR THE AVOIDANCE OF DOUBT, WE EXPRESSLY DISCLAIM ANY REPRESENTATION OR WARRANTY, WHETHER EXPRESS OR IMPLIED, WITH RESPECT TO ENSURING, GUARANTEEING OR OTHERWISE OFFERING ANY DEFINITIVE PROMISE OF SECURITY IN CONNECTION WITH YOUR PERSONAL INFORMATION OR USAGE INFORMATION.
+
+**Special Note to International Users**  
+By using the Website, you agree and acknowledge that the Website is hosted in the United States. If you are attempting to access the Website from a physical location within the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure that differ from United States laws, please be advised that through your continued use of the Website, which is governed by U.S. law, this Privacy Policy, and the Terms and Conditions, you are transferring your Personal Information to the United States and you consent to the application of the laws of the United States and/or the State of Wyoming with respect to any dispute arising from or related to the Privacy Policy and/or your use of the Website, other than such rules, regulations, case law, and/or international treaties that would result in the application of the laws of a jurisdiction other than the United States or the State of Wyoming, and the exclusive jurisdiction of the District Court for Teton County, Wyoming, Ninth Judicial District.
+
+**Changes and Updates to the Privacy Policy**  
+From time to time, we may revise the Privacy Policy. To help you stay current of any changes, we take the following two steps: (a) we note the date the Privacy Policy was last updated below. Your use of the Website following the posting of any revised Privacy Policy shall be deemed acceptance of the revised policy, so we strongly recommend that you check back the Privacy Policy periodically. If you disagree with the terms of any Privacy Policy at any time, your sole remedy is to terminate your use of the Website and inform us of such termination as described in Privacy Policy. Continued use of the Website constitutes your agreement to any Privacy Policy as in effect.
+
+**Miscellaneous**  
+If any part of the Privacy Policy is determined to be invalid or unenforceable pursuant to applicable law, then the invalid or unenforceable provision will be deemed superseded by a valid, enforceable provision that most closely matches the intent of the original provision and the remainder of the Privacy Policy shall continue in force and effect.
+
+If you have any further questions about this privacy policy, please [e-mail](mailto:info@jacksonhole.com?subject=Privacy%20Policy%20Question) or call us (307-733-2292; 888-DEEP-SNO).
