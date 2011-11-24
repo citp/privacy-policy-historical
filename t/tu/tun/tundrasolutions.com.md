@@ -1,62 +1,75 @@
-> *The following text is extracted and transformed from the tundrasolutions.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212144949id_/http%3A//www.tundrasolutions.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tundrasolutions.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124121840id_/http%3A//www.tundrasolutions.com/forums/privacy-policy.php) for the most accurate reproduction.*
 
-# TundraSolutions.com A TSSN Home Page
+# Toyota Tundra Forums : Tundra Solutions Forum Privacy Policy
 
-**Types of Information We Collect**
+VerticalScope Inc. (hereafter referred to as VerticalScope) has created this privacy statement to demonstrate our firm commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
-Generally, you are free to browse the TundraSolutions.com site without submitting any personal information. We do not collect any of your personal information (such as a name, address or email address) when you just browse the TundraSolutions.com site unless you want to post messages or download files. Types of information collected on the TundraSolutions.com site are described in more detail below.  
-  
----  
-  
-**Registration on Our Site**
+**What this Privacy Statement Covers**
 
-TundraSolutions.com requires users who want to participate in the TundraSolutions.com message boards to register. In order to register, you must provide us with a username (which does not have to be your real name), password and a valid e-mail address. This allows us to protect our community from abusive postings and provides a verifiable point of contact should legal questions arise. At any time, you have the ability to keep your e-mail address hidden from other users by selecting that option within your user profile.
-
-When you register, you have the option of providing some additional information such as occupation, interests, and homepage URL and what vehilce you own. This optional information is made available to other bulletin or message board users to foster a sense of community. If you have any concerns about providing this information, simply leave the fields blank and your registration will still be processed. 
-
-**Downloading files**
-
-If you want to download any files, typically catalogs or brochures we ask you complete an additional registration form to do so. The form will ask for your **real name** , and **mailing address**. This information is kept in strict confidence and is only viewable by the site administrator. This information is not provided to third parties or re-sold. If the information changes we ask you notify us so we may update your record.
-
-_**IF YOU ARE UNDER 13 YEARS OF AGE**_ ** __** you are **not** allowed to participate in the TundraSolutions.com message forums, download files or provide any personal information on our site.   
-  
-  
-**Cookies**
-
-TundraSolutions.com uses browser cookies to facilitate your experience with our community. These cookies are small sections of code that our server sends to your browser which it can then store on your hard drive. If you choose to accept these cookies, they enable us to recognize that your browser has previously visited and used our site and based on your browser's previous visits, assist us with tailoring the information and content you view.  An example of the customization allowed by the use of such cookies is to retain your username and password as part of the TundraSolutions.com forums on our site so you don't have to re-enter them each time you visit. These cookies do not collect, store or maintain your private, personally identifiable information. You do not have to accept these cookies to visit or use the TundraSolutions.com site and you can choose to refuse our cookie, delete our cookie from your hard drive or turn off the TundraSolutions.com cookie at any time by updating your user profile preferences.  
-  
-  
-**Technical Support**
-
-Any personal information you provide to us in the course of obtaining technical support, or asking other questions about TundraSolutions.com will be used only for the purposes for which it was submitted. We may store the information, but we will not use it for any other purposes or disclose it to any third parties.   
-  
-  
-**Use and Disclosure of Your Information**
-
-TundraSolutions.com uses the personal information it collects from forms you fill out on our site to:
-
-  1. Allow users to access and use our products and services;
-  2. Supply users with installation instructions, download, access or use information, and technical support information;
-  3. Provide users of products and service on our site with information about special offers and promotions; and
-  4. Improve our products and services by using statistical analysis and evaluation of user data.
+  * This privacy statement covers VerticalScope's treatment of personally identifiable information collected by VerticalScope through a website owned and operated by VerticalScope.
+  * This privacy statement does not apply to the practices of companies that VerticalScope does not own or control, or of persons that VerticalScope does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which VerticalScope's websites link.
 
 
 
-We use the anonymous information we collect from the other methods described above, such as cookie information, to collect broad demographic information about user trends, count the number of users of our products and services, and to continue to enhance and improve our products and services.
+**Collection and Use of Personal Information**
 
-We do not and will not disclose your private, personally identifiable information to any third party for any purpose without your prior consent. However, TundraSolutions.com reserves the right to disclose your personal information if required to do so by law, or in the good faith belief that such action is reasonably necessary to comply with legal process, respond to claims, or to protect the rights, property or safety of our company, its employees, customers, or the public.
+  * You can visit the websites of VerticalScope without revealing any personal information. However, VerticalScope needs certain personal information if you wish to register for a members account, receive a VerticalScope newsletter, or use certain VerticalScope services.
+  * Where required, this information may include your company contact information and your personal contact information. VerticalScope will use this information to reply to your inquiries, to set up your members account, to provide you with requested services, and to contact you regarding new services.
+  * By accessing the services of VerticalScope and voluntarily providing us with the requested personal information, you consent to the collection and use of the information in accordance with this privacy statement.
 
-All reasonable care is taken by our staff in handling your personal information to ensure its security both offline and online.   
-  
-  
-**Changing or Updating Personal Information**
 
-If you would like to update or change your user profile on our message boards, just click **[here](http://www.tundrasolutions.com/usercp.php?s=)**.
 
-If you have questions regarding your information, you can contact our **Privacy Administrator** at [lonv@tundrasolutions.com](mailto:lonv@tundrasolutions.com) [  
-](mailto:support@tundrasolutions.com)  
-  
-**Postings on Message Boards**
+**Collection and Use of Non-Personal Information**
 
-It is important for you to remain aware that when you provide personal information (e.g., last name, address, phone number) in a posting on any message board, that information is available to any other person or user having access and use of that message board, and may be used by someone in a manner unintended by you. For that reason, we discourage you from offering any personally identifying information within a posting to any message board.   
+  * VerticalScope automatically receives and records non-personal information on our server logs from your browser including your IP address, cookie information and the page you requested. VerticalScope may use this information to customize the advertising and content you see and to fulfill your requests for certain products and services. However, VerticalScope does not connect this non-personal data to any personal information collected from you.
+  * VerticalScope uses third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
+
+
+**Information Sharing and Disclosure**
+
+  * VerticalScope may disclose your personal information to third parties who work on behalf of VerticalScope to provide services requested by you. We will share personal information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to personal information.
+  * VerticalScope may otherwise disclose your personal information when: 
+    * We have your express consent to share the information for a specified purpose;
+    * We need to respond to subpoenas, court orders or such other legal process;
+    * We need to protect the personal safety of the users of our websites or defend the rights or property of VerticalScope; or
+    * We find that your actions on our websites violate the VerticalScope Terms of Use document or any of our usage guidelines for specific products or services.
+
+
+
+**Consent**
+
+  * If you do not consent to the collection, use or disclosure of your personal information as outlined in this statement, please do not provide any personal information to VerticalScope. If you have provided personal information to VerticalScope and no longer consent to its use or disclosure as outlined herein, please notify VerticalScope at [privacy@verticalscope.com](mailto:privacy@verticalscope.com).
+
+
+
+**How to Access your Personal Information**
+
+  * VerticalScope gives you the ability to edit your VerticalScope Account Information and preferences at any time.
+
+
+
+**Security**
+
+  * Unfortunately, no data transmission over the Internet can be considered 100% secure. However, your VerticalScope Account Information is password-protected for your privacy and security. In certain areas of our websites, as identified on the site, VerticalScope uses industry-standard SSL-encryption to protect data transmissions.
+  * We also safeguard your personal information from unauthorized access, through access control procedures, network firewalls and physical security measures.
+  * Further, VerticalScope retains your personal information only as long as necessary to fulfil the purposes identified above or as required by law.
+
+
+
+**Changes to this Privacy Statement**
+
+  * VerticalScope may at any time, without notice to you and in its sole discretion, amend this statement from time to time. Please review this statement periodically. Your continued use of VerticalScope websites after any such amendments signifies your acceptance thereof.
+
+
+
+**Questions or Suggestions**
+
+If you have questions or suggestions about this privacy statement, or your own personal information, please e-mail us at [privacy@verticalscope.com](mailto:privacy@verticalscope.com).
+
+**Opting Out of Third-Party Ad Servers**
+
+  * If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt out (if they offer this capability).
+  * If you want to prevent a third-party ad server from sending and reading cookies on your computer, we recommend you block cookies using your browser privacy setting. 
+
 
