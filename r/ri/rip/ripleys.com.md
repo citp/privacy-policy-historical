@@ -1,41 +1,57 @@
-> *The following text is extracted and transformed from the ripleys.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524052646id_/http%3A//www.ripleys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripleys.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124163105id_/http%3A//www.ripleys.com/corporate/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ripley's Believe It or Not!
+# Privacy Policy | Ripley's Corporate
 
-1\. This Privacy Policy covers the treatment of personally identifiable information that Ripley Entertainment Inc. and its parent, subsidiary and affiliated companies (collectively “Ripley”) collect when you are on the Ripley’s website, and when you use Ripley’s services. This policy also covers Ripley’s treatment of any personally identifiable information that Ripley’s business partners share with Ripley’s or that Ripley’s may collect on a partner’s site.  
-2\. This policy does not apply to the practices of companies that Ripley’s does not own or control or to people that Ripley’s does not employ or manage.
+**Ripley Entertainment, Inc.,** together with its parent, subsidiary and affiliated companies (collectively, “Ripley”) owns and operates this website (this “Site”). We recognize that you may be concerned about our treatment of the personally identifiable information (“Information”) that you provide to us on this Site.
+
+Accordingly, this privacy policy (this “Policy”) addresses those concerns and both describes the Information  
+that we may collect and explains how we will use your Information.
+
+You should note that when you leave this Site, whether via a link provided by Ripley or otherwise, you may enter a site owned and controlled by a third party (“Third Party Sites”). Accordingly, this policy does not apply to any information that you share on Third Party Sites. Before disclosing Information, you should verify that you know the identity of the party to whom you are making a disclosure and the privacy policy  
+that applies to the treatment of your Information.
 
 ### Information Collection and Use
 
-1\. Ripley’s collects personally identifiable information (such as, first and last name, e-mail address, and city, state or county of residence), when you use certain Ripley’s products or services (such as, on-line ticket purchasing, on-line posting of videos/photos, submitting a question to ask the vault, or playing games), when you visit ripleys.com pages, and when you enter promotions or sweepstakes. Ripley’s may also receive personally identifiable information from our business partners.  
-2\. Ripley’s also automatically receives and records information on our server logs from your browser including your IP address, ripleys.com cookie information and the page you requested.  
-3\. Ripley’s uses information collected from you for two general purposes: to customize the advertising and content you see, and to fulfill your requests for certain products and services. To ensure compliance with the Digital Millennium Copyright Act (“DMCA”) Ripley will take action on receipt of notice of alleged copyright infringement. If you are a copyright owner or representative of the owner and presume that a user has submitted or uploaded material that infringes upon your copyrights, you may submit notification in accordance to the DMCA by providing Ripley with the following information in writing.
+Ripley collects Information (such as, first and last name, e-mail address, your city, state or county of residence and your credit card information), when you use certain Ripley products or services (such as, on-line ticket purchasing, on-line posting of videos/photos, submitting a question to ask the vault, or playing games), and when you enter promotions or sweepstakes. We may also receive your Information from our  
+business partners.
+
+Ripley will use your Information (i) to enhance and personalize your experience on this Site; (ii) to generate statistics and information about traffic to and on this Site; (iii) to fulfill your requests for certain products and services; and (iv) for other business purposes.
+
+This Site collects your IP address to help diagnose problems with our server, to determine the frequency with which our visitors look at various parts of this Site, and to administer this Site. The IP address is also used to gather broad demographic information such as geographic distribution of our visitors and may be used to allow us to provide goods and services appropriate to your place of residence.
 
 ### Information Sharing and Disclosure
 
-Ripley’s may send personally identifiable information about you to other companies or people when:
+Ripley may share your Information with third parties when:
 
-1\. We have your consent to share the information;  
-2\. We need to share your information to provide the product or service you have requested;  
-3\. We need to send the information to companies who work on behalf of Ripley s to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.);  
-4\. We respond to subpoenas, court orders or legal process; or  
-5\. We find that your actions on our web sites violate the Ripley s Terms of Service or any of our usage guidelines for specific products or services.
+  1. We have your consent to share your Information. We require opt-in consent for the sharing of any sensitive personal information.
+  2. We need to share your Information to provide the product or service you have requested.
 
-### Cookies
 
-1\. Ripley’s may set and access Ripley’s cookies on your computer.
+
+Ripley may contract with companies or persons to provide certain services including credit card processing, shipping, data management, promotional services, etc. Ripley provides its service providers with the information needed for them to perform these services. Ripley also asks its service providers to confirm that their privacy practices are consistent with Ripley’s.
+
+Although unlikely, in certain instances Ripley may disclose your contact information when there is reason to believe that it is necessary to identify, contact or bring legal action against persons or entities that may be causing injury to you, to Ripley or to others. Ripley may also disclose your Information when it believes the law or legal process requires it.
+
+In addition, if Ripley merges into any other entity or is otherwise involved in any business combination in  
+which it is not the surviving company, Ripley will share your personal information with the surviving entity  
+only if the surviving entity has agreed to comply with the terms of this policy.
 
 ### Security
 
-1\. Any Ripley’s Account Information is password-protected for your privacy and security.  
-2\. In certain areas Ripley’s uses industry-standard SSL-encryption to protect data transmissions.
+Ripley has security measures in place to protect the loss, misuse or alteration of your Information under our control. Ripley uses Secure Sockets Layer (SSL) technology to encrypt Information that you transmit through us over the Internet. Once we receive your transmission, we will store all Information on secure servers behind a firewall. The Ripley management team and its engineers regularly review and update the integrity of this Site and the security of your Information. Ripley cannot, however, safeguard any data stored on your own personal computer or any public computer upon which you might elect to access this Site.
+
+### Your California Privacy Rights
+
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our visitors who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [webmaster@ripleys.com](mailto:webmaster@ripleys.com) or write us:  
+Ripley Entertainment Inc.  
+7576 Kingspointe Parkway, Suite 188  
+Orlando, Florida 32819  
+Attention: Webmaster
+
+### Contact Us
+
+If you have any questions about the information that we collect on this Site, your privacy or our security measures, please contact us at [webmaster@ripleys.com](mailto:webmaster@ripleys.com). You may also write to us at the address provided above.
 
 ### Changes to this Privacy Policy
 
-1\. Ripley may at any time revise these Terms and Conditions by updating this posting. You are bound by any such revisions and should therefore periodically visit this page to review the then current Terms and Conditions to which you are bound.
-
-Last Modified: Tuesday, December 11, 2007
-
-© 2007 Ripley Entertainment Inc. All Rights Reserved.
-
-Do not duplicate or redistribute in any form.
+Ripley may at any time revise this Policy by updating this posting. You are bound by any such revisions and should therefore periodically visit this page to review the then current Policy to which you are bound. 
