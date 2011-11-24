@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agilezen.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513204949id_/http%3A//help.agilezen.com/faqs/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agilezen.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124031531id_/http%3A//help.agilezen.com/faqs/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / Policies / FAQs - AgileZen Support
 
