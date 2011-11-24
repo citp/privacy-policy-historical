@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinnaclecart.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221070819id_/http%3A//www.pinnaclecart.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinnaclecart.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124013556id_/http%3A//www.pinnaclecart.com/policy.htm) for the most accurate reproduction.*
 
 # Pinnacle Shopping Cart Software - PINNACLE SHOPPING CART SOFTWARE SERVICE & LICENSE AGREEMENT
 
@@ -8,7 +8,7 @@ Our Privacy Policy was developed as an extension of our commitment to combine th
 
 ## **What Information Do We Collect?**
 
-When you visit [www.pinnaclecart.com](http://pinnaclecart.com/) you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
+When you visit [www.pinnaclecart.com](http://www.pinnaclecart.com/) you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
 
 ### 1\. Personal Information You Choose to Provide 
 
