@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exotissimo.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224161803id_/http%3A//www.exotissimo.com/exotravel/otherlink_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exotissimo.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124013235id_/http%3A//www.exotissimo.com/exotravel/privacy-policy) for the most accurate reproduction.*
 
 # Exotissimo Travel Privacy Policiy | Exotissimo
 
@@ -53,6 +53,7 @@ If you have any questions about our privacy statement, the practices of this sit
 
 You can also reach us by post mail at:
 
-**Exotissimo Travel Group**  
-6th Floor Zuellig House, 1-7 Silom Road, Silom, Bangrak  
-Bangkok 10500 THAILAND
+**Exotissimo Travel Group  
+22nd Floor, Smooth Life Tower  
+44 North Sathorn Road, Silom  
+Bangrak, Bangkok 10500 THAILAND**
