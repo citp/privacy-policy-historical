@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wilsonsleather.com privacy policy that was archived on 2011-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110520223739id_/http%3A//www.wilsonsleather.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wilsonsleather.com privacy policy that was archived on 2011-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124160036id_/http%3A//www.wilsonsleather.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 
@@ -101,6 +101,9 @@ function jump(url)
         
             _shoprunner_com.environmentID = 2;
         
+
+        _shoprunner_com.checkout = new Object();
+        _shoprunner_com.checkout.enabled = false;
     </script>
 
     <script language="JavaScript" type="text/javascript" src="http://WIL.imageg.net/include/shoprunner/js/shoprunner_init.js"></script>
@@ -167,11 +170,8 @@ function getSREDID(){
 <script type="text/javascript" src="http://WIL.imageg.net/include/prototype1_6.js"></script>
 <script type="text/javascript" src="http://WIL.imageg.net/include/prototype1_6_extend.js"></script>
 <script type="text/javascript" src="http://WIL.imageg.net/include/slide.js"></script>
-<script type="text/javascript" src="http://WIL.imageg.net/include/dhtml_menus.js"></script>
-
-
-
-
+<script type="text/javascript" src="http://WIL.imageg.net/include/dhtml_menus.js"></script> 
+<!--this needs to go in style.css-->
 <style type="text/css">
 .transMenu {position:absolute;overflow:hidden;left:-1000px;top:-1000px;z-index:10;}
 .transMenu .content {position:absolute;z-index:10;}
@@ -183,22 +183,43 @@ function getSREDID(){
 .transMenu .shadowBottom { position:absolute; z-index:10; left:3px; height:2px;	-moz-opacity:.4; filter:alpha(opacity=40); }
 .transMenu .item.hover { background:#5d5d5d; color:#fff; font-weight:normal; }
 .transMenu .item img { margin-left:10px; }
-#logoHold { top:0;}
-#topheade {height:38px; width:627px; margin-left:120px; line-height:25px; margin-top:-3px; *margin-top:-2px; float:none; }
-html>/**/body #logoHold{ left:13px;}
+#logoHold { top:0; left:5px;}
+#topheade {width: 420px;}
+html>/**/body #logoHold{ left:0px;}
 td.menu-bar{ vertical-align:middle; height:38px; overflow:hidden;}
 #topheade img,#topheade input {vertical-align:middle;}
-#topheade span.inputbg{border: 1px solid #A5ACB2; width:139px; height:19px; margin:2px 4px 0 10px; *margin-right:1px; float:left; padding: 0;}
 #topheade a{margin:0 10px 0 9px; font:normal 11px Arial, Helvetica, sans-serif;}
-#topheade span.inputbg input{ border:0; padding:2px 0 0 2px; width:136px; background:transparent; font:normal 13px Arial, sans-serif;}
 #topheade form{ float:right; width:206px;}
-div#emailSignupPopup {left:-30px;*left:-34px;top:55px;*top:58px;}
-#h01 {background:url(http://WIL.imageg.net/images/grayh.gif) no-repeat 100% 50%; padding-right:6px;}
-#lheadspot {padding-top:18px; margin-right:8px;}
+div#emailSignupPopup {left:-30px;*left:-34px;top:33px;*top:35px;}
+#h01 {background:url(../images/grayh.gif) no-repeat 100% 50%; padding-right:6px;}
+#h01  a{text-decoration:none; font:normal 11px Arial, Helvetica, sans-serif; color: #5d5d5d;}
+#lheadspot {padding: 0!important;padding: 0!important;width: 245px;float: right; }
+td.searchbar{ width:450px; padding-top:10px;}
+input.searchtext{ border:0; text-align:left; display:inline-block;color:#c1c1c1;  position:relative;top: -34px; _top:-32px;font: italic 13px Arial, sans-serif; z-index:1; height:18px; width:250px; left:15px;border:none;color:#c1c1c1; outline:none;}
+#Checkout input.searchtext{#top:-36px; }
+html>/**/body #Checkout input.searchtext{*top:-32px\9!important; }
+#rightNav{margin-top:-2px; _margin-top:-38px; text-align:right;}
+#Checkout.header #rightNav{margin-top:4px;*margin-top:0px;}
+td.searchbar div#search{background: #E7E7E7; height:38px;padding: 5px 7px 5px 7px;margin:5px 0px 0px 0px; *margin-top:9px; padding-bottom/**/:7px\9; #padding-bottom:7px;}
+#Checkout td.searchbar div#search{padding-bottom/**/:5px\9; #padding-bottom:5px;}
+td.searchbar #search input.submit {margin-top: 4px;vertical-align: bottom; padding-bottom:0px;}
+img.shoppingbag{border:none!important;}
+td.nav_right {zoom:1;}
+table#top_navigation {padding-top:10px; padding-bottom:0px;}
+.searchbar form.wilson_search{height:54px; display:inline-block;}
+tr.searchnav {padding-bottom:0px; border-spacing:0; }
+table#main_nav{ *margin-top: 0px!important;_margin-top:-25px!important; }
+table#main_nav.Checkout{margin-top:10px;*margin-top:0px!important;_margin-top:-24px!important;}
+span#cartItemCount{font-style:normal;}
+div.search {background:url(http://WIL.imageg.net/images/item-search.png) no-repeat;position:relative; margin-top:33px;*margin-top:38px;}
 </style>
 
+
+
+
+
 <script language="javascript">
-var miniCartTimeOut=10000;
+var minifimTimeOut=10000;
 </script>
 
 <script type="text/javascript" src="http://WIL.imageg.net/js/header.js"></script>
@@ -207,157 +228,82 @@ var miniCartTimeOut=10000;
 
 </script>
 
-<table cellpadding="0" cellspacing="0" border="0" width="763" align="center">
-<tbody><tr>
-	<td align="center"><div style="margin-top:50px;"><a href="http://oas.imageg.net/O/a/s/www.wilsonsleather.com/helpdesk/index.jsp/205955810/x13/default/empty.gif/61633135303730393464643665643330" target="_top"><img src="http://oas.imageg.net/O/a/Creatives/default/empty.gif" width="2" height="2" alt="" border="0"></a></div></td>
-</tr>
-<tr>
-	<td width="598">
-		<table style="padding-top:19px; padding-right:10px;" cellpadding="0" cellspacing="0" border="0" width="763" align="center" bgcolor="#FFFFFF">
-		
-		<tbody><tr>		
-			<td width="284" height="80" valign="top"><div id="logoHold"><a href="/home/index.jsp"><img src="http://WIL.imageg.net/images/wilsonslogo.gif" width="268" height="80" border="0"></a></div></td>
-			<td width="537" valign="top" align="right">
-				
-				<div id="wrapper">
-					<div id="frame">
-						<div id="header_minicart"></div><!-- end minicart div -->
-					</div><!-- end frame div -->
-				</div><!-- end wrapper div -->
-				
-				
-<!-- begin email capture -->
+ <!--header starts from here -->
 
-	
-		<div id="email_inner" style="top:220px;border: #000 1px solid; height:188px;width:207px;display:none; overflow:hidden;background-color:fff;">
-					
-			
-			<a href="http://oas.imageg.net/O/a/s/www.wilsonsleather.com/helpdesk/index.jsp/753216524/x15/wil_redesign_slide-inbanner/grads-slide-in.gif/61633135303730393464643665643330" target="_top"><img src="http://oas.imageg.net/O/a/Creatives/wil_redesign_slide-inbanner/grads-slide-in.gif" alt="" border="0"></a>
-			
-		</div>
-<map name="x_emailcapture">
-	<area shape="rect" alt="" coords="185,6,284,20" href="javascript:hideDiv('email_inner');">
-</map>
-<!-- end email capture -->
-				<div id="lheadspot">
-				<div id="cartHolder"><a href="/cart/index.jsp?clickid=topnav_cart_txt" class="topnavlink"><img src="http://WIL.imageg.net/images/shoppingbag.gif" align="top" height="21" width="76" border="0"></a><img src="http://WIL.imageg.net/images/WIL_11.gif" align="top" height="17" width="19">&nbsp;<span id="cartItemCount">(0 items)</span></div>
-				<div id="h01">
-				<a href="javascript:emailSignupPopup();" id="header_email" title="Email">
-				<img src="http://WIL.imageg.net/images/emailupdates.gif" align="top" height="41" width="118" border="0">
-				</a>
-			
-				</div>
-				<!--<div id="headlocator">
-				<img src="../images/storelocator.gif" border="0" style="padding-top:2px; float:left" align="top">
-				<form name="stateFormHeader" style="margin: 0px; padding: 0px; float:left;" id="stateFormHeader" action="/corp/index.jsp" method="POST" onsubmit="return checkSubmit(document.stateFormHeader);">
-				<input type="hidden" name="page" value="storeLocator">
-				<input type="hidden" name="selectedIndexValue" value="">
-				<input type="hidden" name="selectedStateIndexValue" value="">
-				<input type="hidden" name="strLocator" value="">
-				<select style="width:120px;max-width:120px;" size="1" name="state" onChange="javascript: verifyStatehd();">
-				<option value="" selected="selected">Select a State</option>
-				<option value=""> - - - - - - - - - - - - - - - - - - - - </option>
-				
-<OPTION value=AL>Alabama</OPTION>
-
-<OPTION value=AZ>Arizona</OPTION>
-
-<OPTION value=CA>California</OPTION>
-
-<OPTION value=CO>Colorado</OPTION>
-
-<OPTION value=CT>Connecticut</OPTION>
-
-<OPTION value=DE>Delaware</OPTION>
-
-<OPTION value=FL>Florida</OPTION>
-
-<OPTION value=GA>Georgia</OPTION>
-
-<OPTION value=IL>Illinois</OPTION>
-
-<OPTION value=IN>Indiana</OPTION>
-
-<OPTION value=IA>Iowa</OPTION>
-
-<OPTION value=KS>Kansas</OPTION>
-
-<OPTION value=LA>Louisiana</OPTION>
-
-<OPTION value=ME>Maine</OPTION>
-
-<OPTION value=MD>Maryland</OPTION>
-
-<OPTION value=MA>Massachusetts</OPTION>
-
-<OPTION value=MI>Michigan</OPTION>
-
-<OPTION value=MN>Minnesota</OPTION>
-
-<OPTION value=MS>Mississippi</OPTION>
-
-<OPTION value=MO>Missouri</OPTION>
-
-<OPTION value=NV>Nevada</OPTION>
-
-<OPTION value=NH>New Hampshire</OPTION>
-
-<OPTION value=NJ>New Jersey</OPTION>
-
-<OPTION value=NM>New Mexico</OPTION>
-
-<OPTION value=NY>New York</OPTION>
-
-<OPTION value=NC>North Carolina</OPTION>
-
-<OPTION value=OH>Ohio</OPTION>
-
-<OPTION value=OR>Oregon</OPTION>
-
-<OPTION value=PA>Pennsylvania</OPTION>
-
-<OPTION value=SC>South Carolina</OPTION>
-
-<OPTION value=TN>Tennessee</OPTION>
-
-<OPTION value=TX>Texas</OPTION>
-
-<OPTION value=UT>Utah</OPTION>
-
-<OPTION value=VA>Virginia</OPTION>
-
-<OPTION value=WA>Washington</OPTION>
-
-<OPTION value=WI>Wisconsin</OPTION>
-
-
-				</select>
-				</form>
-				<div id="locatBtn"><a href="javascript:verifyStatehd();"><img src="../images/gobutton.gif" border="0" align="top"></a></div>
-				</div>-->
-					<div id="emailSignupPopup" style="display:none;">
-						<div id="backgroundImage"><img src="/images/emailPopup/background.png" class="pngfix" id="emailPopupBackgroundImage" style="width:310px; height:215px; border: 0;" alt="Email Sign" usemap="#closeBtn" onmouseover="this.style.cursor='pointer';"></div>
-						<iframe src="../include/entry.jsp" frameborder="0" scrolling="no" id="emailSignUpiframe" name="emailSignUpiframe"></iframe>
-						<map name="closeBtn">
-							<area coords="273,12,292,30" alt="Close" title="Close" href="javascript:emailSignupPopup();">
-						</map>
-					</div>
-				</div>
-				</td>
-		</tr>
-        <tr>
-        <td colspan="2" class="menu-bar" valign="top" style="padding:0;"><div id="topheade"><form action="/searchHandler/index.jsp" name="search" style="margin:0px;display:inline;"><span class="inputbg"><input type="text" name="keywords" size="16"></span><input type="image" src="http://WIL.imageg.net/images/wilsonssearch.gif" hspace="0" border="0" name=""></form><a href="http://www.wilsonsleather.com/corp/index.jsp?page=storeLocator" class="topnavlink">Store Locator</a>|<a href="https://www.wilsonsleather.com/coreg/index.jsp?step=register" class="topnavlink">My Account</a>|<a href="../cartHandler/index.jsp?action=changeQuantity&amp;wlName=default&amp;clickid=topnav_wishList_txt" class="topnavlink">Wish List</a>|<a href="/helpdesk/index.jsp" class="topnavlink">Customer Care: 1-866-305-4704</a></div>
+<table cellpadding="0" cellspacing="0" border="0" width="763" align="center" class="header" id="helpdesk">
+   <tbody><tr>
+	  <td align="center"><div style="margin-top:40px;"><a href="http://oas.imageg.net/O/a/s/www.wilsonsleather.com/helpdesk/index.jsp/1940672548/x13/default/empty.gif/61633135303730393465636536613230" target="_top"><img src="http://oas.imageg.net/O/a/Creatives/default/empty.gif" width="2" height="2" alt="" border="0"></a></div>
+      </td>
+   </tr>
+   <tr>
+     <td width="598">
+	   <table cellpadding="0" cellspacing="0" border="0" width="763" align="center" bgcolor="#FFFFFF">
+	     <tbody><tr>		
+		        <td width="284" height="80" valign="top"><div id="logoHold"><a href="/home/index.jsp"><img src="http://WIL.imageg.net/images/wilsonslogo.gif" width="268" height="80" border="0"></a></div>
+                </td> 
+		   <td>&nbsp; </td>
+      </tr>
+      <tr class="searchnav"> 
+	          <td class="searchbar"> 
+	            <form class="wilson_search" action="/searchHandler/index.jsp" name="search">
+                 <div id="search" class="searchbox"> 
+	             <div class="search">
+                   <input type="submit" style="margin-left:261px; text-indent:-999px;width:63px; background:transparent; margin-top:-30px; cursor:pointer; font-size:0; display:block;height:29px; overflow:hidden;text-transform:capitalize;border:none;line-height:15px;z-index:99; position:relative;"> 
+             </div>   </div> 
+	        <input type="text" class="searchtext" name="keywords" size="16" value="Leather Jackets, Handbags, etc" onfocus="if(this.value=='Leather Jackets, Handbags, etc'){this.value='';this.style.color='#000'; };" onblur=" if(this.value=='') this.value='Leather Jackets, Handbags, etc'; this.style.color='#c1c1c1'; "> </form>
+             </td>
+	          <td class="nav_right" width="450">
+		         
+                                <div id="wrapper">
+                                    <div id="frame">
+                                        <div id="header_minicart"></div><!-- end minicart div -->
+                                    </div><!-- end frame div -->
+                                </div><!-- end wrapper div -->
+                                
+							
+                  <div id="rightNav">
+                     <div id="lheadspot">
+                         <div id="cartHolder"><a href="/cart/index.jsp?clickid=topnav_cart_txt" class="topnavlink"><img class="shoppingbag" src="http://WIL.imageg.net/images/shoppingbag.png" height="23" width="75"></a> <br><img src="http://WIL.imageg.net/images/WIL_11.gif" align="top" height="17" width="19">&nbsp;<span id="cartItemCount">(0 items)</span>
+                         </div>
+		                 <div id="h01"> 
+                          <a href="javascript:emailSignupPopup();" id="header_email" title="Email">
+                           <img src="http://WIL.imageg.net/images/subscribe.png" border="0"></a>
+                        </div>			
+		                 <div id="emailSignupPopup" style="display:none;">
+			                <div id="backgroundImage"><img src="/images/emailPopup/background.png" class="pngfix" id="emailPopupBackgroundImage" style="width:310px; height:215px; border: 0;" alt="Email Sign" usemap="#closeBtn" onmouseover="this.style.cursor='pointer';"></div>
+                 <iframe src="../include/entry.jsp" frameborder="0" scrolling="no" id="emailSignUpiframe" name="emailSignUpiframe"></iframe>
+                         <map name="closeBtn">
+                         <area coords="273,12,292,30" alt="Close" title="Close" href="javascript:emailSignupPopup();">
+                         </map>
+                 </div>
+	             </div>
+	             <br>
+                 <div id="topheade"><a href="https://www.wilsonsleather.com/coreg/index.jsp?step=register" class="topnavlink">My Account</a>|<a href="../cartHandler/index.jsp?action=changeQuantity&amp;wlName=default&amp;clickid=topnav_wishList_txt" class="topnavlink">Wish List</a>|<a href="/helpdesk/index.jsp" class="topnavlink">Customer Care: 1-866-305-4704</a>|<a style="margin-right:0px;" href="http://www.wilsonsleather.com/corp/index.jsp?page=storeLocator" class="topnavlink">Store Locator</a>
+               </div>
+            </div> 
+                   	
+    <!-- begin email capture -->
                       
-        </td>
-        </tr>
-		</tbody></table>
-		<table cellpadding="0" cellspacing="0" border="0" width="763" bgcolor="#ffffff" align="center">
-		<tbody><tr>
-			<td valign="top"><img src="http://WIL.imageg.net/images/WIL_Family_Final_05.gif" width="4" height="42"></td>
-			<td height="42">
-				<a href="/category/index.jsp?categoryId=2446811" title="Women's Outerwear"><img name="image0" id="image0" alt="Women's Outerwear" src="http://WIL.imageg.net/images/nav_womens.gif" width="94" height="42" border="0"></a><a href="/category/index.jsp?categoryId=2446812" title="Handbags &amp; Accessories"><img name="image1" id="image1" alt="Handbags &amp; Accessories" src="http://WIL.imageg.net/images/nav_handAcc.gif" width="94" height="42" border="0"></a><a href="/category/index.jsp?categoryId=2446814" title="Men's Outerwear"><img name="image2" id="image2" alt="Men's Outerwear" src="http://WIL.imageg.net/images/nav_mensOut.gif" width="94" height="42" border="0"></a><a href="/category/index.jsp?categoryId=2446815" title="Men's Accessories "><img name="image3" id="image3" alt="Men's Accessories " src="http://WIL.imageg.net/images/nav_mensAcc.gif" width="94" height="42" border="0"></a><a href="/category/index.jsp?categoryId=2446816" title="Business &amp; Travel "><img name="image4" id="image4" alt="Business &amp; Travel " src="http://WIL.imageg.net/images/nav_busTrav.gif" width="94" height="42" border="0"></a><a href="/category/index.jsp?categoryId=2446817" title="Kids"><img name="image5" id="image5" alt="Kids" src="http://WIL.imageg.net/images/nav_kids.gif" width="94" height="42" border="0"></a><a href="/category/index.jsp?categoryId=2446819" title="Clearance "><img name="image6" id="image6" alt="Clearance " src="http://WIL.imageg.net/images/nav_clearance.gif" width="94" height="42" border="0"></a><a href="javascript:doClose('email_inner');" onmouseover="image7On();doSlide('email_inner');" onmouseout="image7Off()" id="closeMe" title="Special Offers"><img name="image7" id="image7" alt="Special Offers" src="http://WIL.imageg.net/images/nav_specOffers.gif" border="0" width="98" height="42"></a>
+	
+                            <div id="email_inner" style="top:238px!important;border: #000 1px solid; height:188px;width:207px;display:none; overflow:hidden;background-color:fff;">
+                                  
+                                  <a href="http://oas.imageg.net/O/a/s/www.wilsonsleather.com/helpdesk/index.jsp/607218106/x15/wil_redesign_slide-inbanner/giftcard-slide-in.gif/61633135303730393465636536613230" target="_top"><img src="http://oas.imageg.net/O/a/Creatives/wil_redesign_slide-inbanner/giftcard-slide-in.gif" alt="" border="0"></a>
+                                  
+                            </div>
+                              <map name="x_emailcapture">
+                              <area shape="rect" alt="" coords="185,6,284,20" href="javascript:hideDiv('email_inner');">
+                              </map>
+     <!-- end email capture -->
+   </td></tr>
+</tbody></table>
+
+<table id="main_nav" class="helpdesk" cellpadding="0" cellspacing="0" border="0" width="765" bgcolor="#ffffff" align="center">
+ <tbody><tr>
+	 <td valign="top"><img src="http://WIL.imageg.net/images/WIL_Family_Final_05.gif" width="4" height="42"></td>
+			<td height="42" width="757">
+				<a href="/category/index.jsp?categoryId=2446811" title="Women's Outerwear"><img name="image0" id="image0" alt="Women's Outerwear" src="http://WIL.imageg.net/images/nav_womens.gif" width="94" height="42" border="0"></a><a href="/category/index.jsp?categoryId=2446812" title="Handbags &amp; Accessories"><img name="image1" id="image1" alt="Handbags &amp; Accessories" src="http://WIL.imageg.net/images/nav_handAcc.gif" width="94" height="42" border="0"></a><a href="/category/index.jsp?categoryId=2446814" title="Men's Outerwear"><img name="image2" id="image2" alt="Men's Outerwear" src="http://WIL.imageg.net/images/nav_mensOut.gif" width="94" height="42" border="0"></a><a href="/category/index.jsp?categoryId=2446815" title="Men's Accessories"><img name="image3" id="image3" alt="Men's Accessories" src="http://WIL.imageg.net/images/nav_mensAcc.gif" width="94" height="42" border="0"></a><a href="/category/index.jsp?categoryId=2446816" title="Business &amp; Travel "><img name="image4" id="image4" alt="Business &amp; Travel " src="http://WIL.imageg.net/images/nav_busTrav.gif" width="94" height="42" border="0"></a><a href="/category/index.jsp?categoryId=2446817" title="Kids"><img name="image5" id="image5" alt="Kids" src="http://WIL.imageg.net/images/nav_kids.gif" width="94" height="42" border="0"></a><a href="/category/index.jsp?categoryId=2446819" title="Clearance "><img name="image6" id="image6" alt="Clearance " src="http://WIL.imageg.net/images/nav_clearance.gif" width="94" height="42" border="0"></a><a href="javascript:doClose('email_inner');" onclick="image7On();doSlide('email_inner');image7Off();" id="closeMe" title="Special Offers"><img name="image7" id="image7" alt="Special Offers" src="http://WIL.imageg.net/images/nav_specOffers.gif" border="0" width="98" height="42"></a>
 			</td>
- 			<td valign="top"><img src="http://WIL.imageg.net/images/WIL_Family_Final_05.gif" width="3" height="42"></td>
+ 			<td valign="top"><img src="http://WIL.imageg.net/images/WIL_Family_Final_05.gif" width="5" height="42"></td>
 		</tr>
 		</tbody></table></td>
 </tr>
@@ -368,7 +314,11 @@ if (TransMenu.isSupported()){
 
 	var menu0 = ms.addMenu(document.getElementById("image0"));
 		
-	menu0.addItem("60% Off Spring Jacket Liquidation", "/family/index.jsp?categoryId=11526725&cp=2446811");
+	menu0.addItem("Holiday Gift Guide", "/shop/index.jsp?categoryId=2499563&cp=2446811");
+				
+	menu0.addItem("Cold Weather Jackets", "/family/index.jsp?categoryId=3635770&cp=2446811");
+				
+	menu0.addItem("New Arrivals", "/family/index.jsp?categoryId=3743286&cp=2446811");
 				
 	menu0.addItem("View All Outerwear", "/family/index.jsp?categoryId=11483982&cp=2446811");
 				
@@ -393,23 +343,37 @@ if (TransMenu.isSupported()){
 		
 	var menu1 = ms.addMenu(document.getElementById("image1"));
 		
-	menu1.addItem("Gifts For Grads", "/shop/index.jsp?categoryId=3846423&cp=2446812");
+	menu1.addItem("Holiday Gift Guide", "/shop/index.jsp?categoryId=2499563&cp=2446812");
+				
+	menu1.addItem("Cold Weather Accessories", "/family/index.jsp?categoryId=3635768&cp=2446812");
+				
+	menu1.addItem("Up to 70% Off Handbags", "/family/index.jsp?categoryId=3858852&cp=2446812");
+				
+	menu1.addItem("New Arrivals", "/family/index.jsp?categoryId=11839450&cp=2446812");
 				
 	menu1.addItem("View All Handbags", "/family/index.jsp?categoryId=11529824&cp=2446812");
 				
 	menu1.addItem("Handbags By Style", "/category/index.jsp?categoryId=3189119&cp=2446812");
 				
-	menu1.addItem("Shop Handbags By Color", "/category/index.jsp?categoryId=3773538&cp=2446812");
+	menu1.addItem("Handbags By Color", "/category/index.jsp?categoryId=3773538&cp=2446812");
+				
+	menu1.addItem("Boots", "/family/index.jsp?categoryId=11839479&cp=2446812");
 				
 	menu1.addItem("Business Bags & Cases", "/family/index.jsp?categoryId=11493946&cp=2446812");
 				
-	menu1.addItem("Footwear", "/shop/index.jsp?categoryId=4011490&cp=2446812");
-				
 	menu1.addItem("Gloves", "/family/index.jsp?categoryId=11636802&cp=2446812");
+				
+	menu1.addItem("Hats", "/family/index.jsp?categoryId=11493949&cp=2446812");
 				
 	menu1.addItem("Planners & Portfolios", "/family/index.jsp?categoryId=1831995&cp=2446812");
 				
+	menu1.addItem("Scarves", "/family/index.jsp?categoryId=12084759&cp=2446812");
+				
+	menu1.addItem("Women's Slippers", "/family/index.jsp?categoryId=10772874&cp=2446812");
+				
 	menu1.addItem("Wallets", "/category/index.jsp?categoryId=3189111&cp=2446812");
+				
+	menu1.addItem("Watches", "/family/index.jsp?categoryId=3940686&cp=2446812");
 				
 	menu1.addItem("Brand", "/category/index.jsp?categoryId=11529776&cp=2446812");
 				
@@ -417,14 +381,18 @@ if (TransMenu.isSupported()){
 				
 	menu1.addItem("Leather Care", "/family/index.jsp?categoryId=1835416&cp=2446812");
 				
-	menu1.addItem("Clearance", "/family/index.jsp?categoryId=11493796&cp=2446812");
+	menu1.addItem("Handbags & Accessories Clearance", "/category/index.jsp?categoryId=3189120&cp=2446812");
 				
 	menu1.onactivate = function() { imgOn("image1");WCH.Apply('TransMenu1') };
 	menu1.ondeactivate = function() { imgOff("image1");WCH.Discard('TransMenu1') };
 		
 	var menu2 = ms.addMenu(document.getElementById("image2"));
 		
-	menu2.addItem("60% Off Spring Jacket Liquidation", "/family/index.jsp?categoryId=11526726&cp=2446814");
+	menu2.addItem("Holiday Gift Guide", "/shop/index.jsp?categoryId=2499563&cp=2446814");
+				
+	menu2.addItem("Cold Weather Jackets", "/family/index.jsp?categoryId=3940688&cp=2446814");
+				
+	menu2.addItem("New Arrivals", "/family/index.jsp?categoryId=11839453&cp=2446814");
 				
 	menu2.addItem("View All Outerwear", "/family/index.jsp?categoryId=11487507&cp=2446814");
 				
@@ -447,7 +415,11 @@ if (TransMenu.isSupported()){
 		
 	var menu3 = ms.addMenu(document.getElementById("image3"));
 		
-	menu3.addItem("Gifts For Grads", "/shop/index.jsp?categoryId=3846423&cp=2446815");
+	menu3.addItem("Holiday Gift Guide", "/shop/index.jsp?categoryId=2499563&cp=2446815");
+				
+	menu3.addItem("Cold Weather Accessories", "/family/index.jsp?categoryId=3769773&cp=2446815");
+				
+	menu3.addItem("New Arrivals", "/family/index.jsp?categoryId=11839455&cp=2446815");
 				
 	menu3.addItem("Backpacks", "/family/index.jsp?categoryId=11501961&cp=2446815");
 				
@@ -455,27 +427,27 @@ if (TransMenu.isSupported()){
 				
 	menu3.addItem("Business Bags & Cases", "/category/index.jsp?categoryId=2019559&cp=2446815");
 				
-	menu3.addItem("Footwear", "/shop/index.jsp?categoryId=3763261&cp=2446815");
+	menu3.addItem("Footwear", "/family/index.jsp?categoryId=11958512&cp=2446815");
 				
 	menu3.addItem("Gloves", "/family/index.jsp?categoryId=11501979&cp=2446815");
 				
 	menu3.addItem("Hats", "/family/index.jsp?categoryId=11501978&cp=2446815");
 				
-	menu3.addItem("iPAD/Netbook Bags & Cases", "/family/index.jsp?categoryId=11478033&cp=2446815");
-				
-	menu3.addItem("Laptop Bags & Cases", "/family/index.jsp?categoryId=3677098&cp=2446815");
-				
-	menu3.addItem("Messenger Bags", "/family/index.jsp?categoryId=2019569&cp=2446815");
+	menu3.addItem("iPad/Tablet Bags & Cases", "/family/index.jsp?categoryId=12342406&cp=2446815");
 				
 	menu3.addItem("Motorcycle Accessories", "/family/index.jsp?categoryId=11506391&cp=2446815");
 				
 	menu3.addItem("Planners & Portfolios", "/family/index.jsp?categoryId=1831995&cp=2446815");
 				
+	menu3.addItem("Scarves", "/family/index.jsp?categoryId=12089986&cp=2446815");
+				
 	menu3.addItem("Shave Kits", "/family/index.jsp?categoryId=3696553&cp=2446815");
 				
 	menu3.addItem("Wallets", "/category/index.jsp?categoryId=3189110&cp=2446815");
 				
-	menu3.addItem("Brands", "/category/index.jsp?categoryId=11526845&cp=2446815");
+	menu3.addItem("Watches", "/family/index.jsp?categoryId=3691686&cp=2446815");
+				
+	menu3.addItem("Brand", "/category/index.jsp?categoryId=11526845&cp=2446815");
 				
 	menu3.addItem("Customers Top Rated", "/family/index.jsp?categoryId=3696869&cp=2446815");
 				
@@ -488,6 +460,10 @@ if (TransMenu.isSupported()){
 		
 	var menu4 = ms.addMenu(document.getElementById("image4"));
 		
+	menu4.addItem("Holiday Gift Guide", "/shop/index.jsp?categoryId=2499563&cp=2446816");
+				
+	menu4.addItem("New Arrivals", "/family/index.jsp?categoryId=11839461&cp=2446816");
+				
 	menu4.addItem("Backpacks", "/family/index.jsp?categoryId=11501961&cp=2446816");
 				
 	menu4.addItem("Beltbags & Travel Bags", "/family/index.jsp?categoryId=11477994&cp=2446816");
@@ -496,13 +472,9 @@ if (TransMenu.isSupported()){
 				
 	menu4.addItem("Business Bags & Cases for Women", "/family/index.jsp?categoryId=11493946&cp=2446816");
 				
-	menu4.addItem("iPAD/Netbook Bags & Cases", "/family/index.jsp?categoryId=11478033&cp=2446816");
-				
-	menu4.addItem("Laptop Bags & Cases", "/family/index.jsp?categoryId=3677098&cp=2446816");
+	menu4.addItem("iPad/Tablet Bags & Cases", "/family/index.jsp?categoryId=12342406&cp=2446816");
 				
 	menu4.addItem("Luggage", "/category/index.jsp?categoryId=3189107&cp=2446816");
-				
-	menu4.addItem("Messenger Bags", "/family/index.jsp?categoryId=2019569&cp=2446816");
 				
 	menu4.addItem("Phonecases", "/family/index.jsp?categoryId=1831988&cp=2446816");
 				
@@ -510,19 +482,33 @@ if (TransMenu.isSupported()){
 				
 	menu4.addItem("Shave Kits", "/family/index.jsp?categoryId=3696553&cp=2446816");
 				
+	menu4.addItem("Tech Center", "/family/index.jsp?categoryId=3691893&cp=2446816");
+				
 	menu4.addItem("Travel Accessories", "/category/index.jsp?categoryId=3189122&cp=2446816");
 				
 	menu4.addItem("Customers Top Rated", "/family/index.jsp?categoryId=11513519&cp=2446816");
 				
 	menu4.addItem("Leather Care", "/family/index.jsp?categoryId=1835416&cp=2446816");
 				
-	menu4.addItem("Clearance", "/family/index.jsp?categoryId=11502169&cp=2446816");
+	menu4.addItem("Business & Travel Clearance", "/category/index.jsp?categoryId=2447729&cp=2446816");
 				
 	menu4.onactivate = function() { imgOn("image4");WCH.Apply('TransMenu4') };
 	menu4.ondeactivate = function() { imgOff("image4");WCH.Discard('TransMenu4') };
 		
 	var menu5 = ms.addMenu(document.getElementById("image5"));
 		
+	menu5.addItem("Girl's Outerwear", "/family/index.jsp?categoryId=1831970&cp=2446817");
+				
+	menu5.addItem("Boy's Outerwear", "/family/index.jsp?categoryId=1831971&cp=2446817");
+				
+	menu5.addItem("Boy's Gloves", "/family/index.jsp?categoryId=11477957&cp=2446817");
+				
+	menu5.addItem("Boy's Hats", "/family/index.jsp?categoryId=11477981&cp=2446817");
+				
+	menu5.addItem("Girl's Hats", "/family/index.jsp?categoryId=11477943&cp=2446817");
+				
+	menu5.addItem("Girl's Scarves", "/family/index.jsp?categoryId=11477954&cp=2446817");
+				
 	menu5.addItem("Leather Care", "/family/index.jsp?categoryId=1835416&cp=2446817");
 				
 	menu5.onactivate = function() { imgOn("image5");WCH.Apply('TransMenu5') };
@@ -540,13 +526,9 @@ if (TransMenu.isSupported()){
 				
 	menu6.addItem("Men's Outerwear", "/family/index.jsp?categoryId=3433039&cp=2446819");
 				
-	menu6.addItem("Men's Big & Tall ", "/family/index.jsp?categoryId=3974490&cp=2446819");
-				
 	menu6.addItem("Men's Accessories", "/family/index.jsp?categoryId=2446946&cp=2446819");
 				
 	menu6.addItem("Business & Travel", "/category/index.jsp?categoryId=2447729&cp=2446819");
-				
-	menu6.addItem("Kids", "/family/index.jsp?categoryId=1855981&cp=2446819");
 				
 	menu6.addItem("Leather Care", "/family/index.jsp?categoryId=1835416&cp=2446819");
 				
@@ -574,8 +556,20 @@ if (TransMenu.isSupported()){
 
 <div id="searchMarket">
 	
+	
+ <!-- Start of SearchMarketing.com Natural Pixel Tag: Please do not remove-->
+ <script language="JavaScript"><!--
+ {
+	document.write("<img src=http://tracking.searchmarketing.com/gsic_welcome.asp?SMCID=170&x=" +escape(document.referrer) +  " width=1 height=1>");
+  }
+  //-->
+ </script><img src="http://tracking.searchmarketing.com/gsic_welcome.asp?SMCID=170&amp;x=" width="1" height="1">
+ <!-- End SearchMarketing.com Natural Pixel Tag -->
+
+
 
 </div>
+
 
 <table cellpadding="0" cellspacing="0" border="0" width="763" align="center" bgcolor="#FFFFFF">
 <tbody><tr>
@@ -740,7 +734,7 @@ If we make any material changes to this Privacy Policy, we will post a notice on
 
 
 
-<!--You are running on secprd2_ws_44_1-->
+<!--You are running on secprd2_ws_27_6-->
 
 
 
@@ -783,10 +777,6 @@ If we make any material changes to this Privacy Policy, we will post a notice on
 		<td height="35" align="center">
 		<a href="/corp/index.jsp?page=aboutus" class="footerlink">About Us</a><span style="margin:0 4px;">|</span>
 		<a href="/info/index.jsp?categoryId=1837232" class="footerlink">Experience Leather</a><span style="margin:0 4px;">|</span>
-		     
-				<a href="/pwr/product-reviews/c/index.html" class="footerlink">Product Reviews</a><span style="margin:0 4px;">|</span>				
-
-		
 		<a href="http://sourcing.wilsonsleather.com/erecruit/Careers/Careershome.asp" class="footerlink">Career Opportunities</a><span style="margin:0 4px;">|</span>
 		<a href="/affiliate/index.jsp" class="footerlink">Affiliate Program</a><span style="margin:0 4px;">|</span>
 		<a href="/product/index.jsp?productId=1843032" class="footerlink">Gift Cards</a><span style="margin:0 4px;">|</span>
@@ -836,7 +826,7 @@ urchinTracker();
 
 
 
-<!--You are running on secprd2_ws_44_1-->
+<!--You are running on secprd2_ws_27_6-->
 
 
 
@@ -889,15 +879,47 @@ if(rewardsflagPage==1){
 
 
 
+<!--You are running on secprd2_ws_27_6-->
 
 
-<!--You are running on secprd2_ws_44_1-->
+
+
+
+
+<!-- Kenshoo Pixel  --->
+
+		
+<!-- Kenshoo Pixel -->
+
+
+
+
+
+
+
+
+
+
+<!--You are running on secprd2_ws_27_6-->
 
 
 
 
 <!-- trackingPageType getRequestURI() /gsi/wil/helpdesk/index.jsp  --><!-- trackingPageType finalPage() helpdesk  -->
 						<!-- No Tracking Pixel defined via allTrackingPixelFile -->
+
+
+
+	
+
+
+
+
+
+
+<!--You are running on secprd2_ws_27_6-->
+
+
 
 
 
@@ -914,7 +936,15 @@ if(rewardsflagPage==1){
 
 
 
-<!--You are running on secprd2_ws_44_1-->
+
+	
+
+
+
+
+
+
+<!--You are running on secprd2_ws_27_6-->
 
 
 
@@ -932,7 +962,7 @@ if(rewardsflagPage==1){
 
 
 
-<!--You are running on secprd2_ws_44_1-->
+<!--You are running on secprd2_ws_27_6-->
 
 
 
@@ -946,8 +976,8 @@ if(rewardsflagPage==1){
 
 
 		<script type="text/javascript">
-			var br_frequency = 30;
-			var br_percentage = 10;
+			var br_frequency = 60;
+			var br_percentage = 5;
 			var br_size = 0;
 			var br_pos_x = 50;
 			var br_pos_y = 50;   
@@ -963,10 +993,94 @@ if(rewardsflagPage==1){
 
 
 
+	
 
 
 
 
+
+
+<!--You are running on secprd2_ws_27_6-->
+
+
+
+
+
+
+
+
+		<div id="trackingPixels" style="visibility:hidden">
+			
+
+
+			<iframe src="http://pixel.fetchback.com/serve/fb/pdj?cat=&amp;name=landing&amp;sid=4115" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
+	
+
+
+ 
+		</div>
+	
+
+
+
+
+
+
+   
+
+
+
+
+
+
+<!--You are running on secprd2_ws_27_6-->
+
+
+
+
+
+<script src="http://media.gsimedia.net/tg/gsiutt/store90.js"></script>	
+<script>
+    var siteId= '90';
+    var catId = '';
+    var pageType = 'helpdesksafetyprivacy';
+    var browserId = '157262087183';
+    var prodId = '';
+    var pQty = '';
+    var orderId = '';
+    var cartTotal = '';
+    var ordertotal = '';
+    truEffect.measure();
+</script>
+
+
+
+
+
+
+<script language="JavaScript" type="text/javascript">
+function storeSREDID() {
+    var thirtyDays = (60*60*1000*24)*30;
+    var vals = document.location.search;
+    start = vals.indexOf("SREDID=");
+    if (start != -1) {
+        var end = vals.indexOf("&", start);
+        if (end == -1){ end = vals.length }
+        var date = new Date();date.setTime(date.getTime()+ thirtyDays);
+        document.cookie= vals.substring(start,end) + "; expires=" + date.toGMTString() + "; path=/";
+    }
+}
+function getSREDID(){
+   var n = "SREDID=";
+   var cookies = document.cookie;
+   var start = cookies.indexOf(n);
+   if (start == -1){ return null; }
+   start += n.length ;
+   var end = cookies.indexOf(";", start);
+   if (end == -1){ end = cookies.length }
+   return cookies.substring(start, end);
+}
+</script>
 
 
 
