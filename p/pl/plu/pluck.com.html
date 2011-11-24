@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pluck.com privacy policy that was archived on 2011-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110522010035id_/http%3A//www.pluck.com/site/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pluck.com privacy policy that was archived on 2011-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124015941id_/http%3A//www.pluck.com/site/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -17,20 +17,7 @@
 
 
 <!-- include the Pluck Proxy info -->
-
-<script language="JavaScript">
-	document.domain="pluck.com";
-	var daapiServerUrl=serverUrl="http://sitelife.pluck.com/ver1.0/Direct/Process";
-
-</script> 
-<script language="Javascript" type="text/javascript" src="http://sitelife.pluck.com/slauth/Proxy/Index.rails"></script>
-<script language="Javascript" type="text/javascript" src="http://sitelife.pluck.com/ver1.0/SiteLifeProxy"></script> 
-<script language="Javascript" type="text/javascript" src="http://sitelife.pluck.com/ver1.0/Direct/DirectProxy"></script>
-<script language="Javascript" type="text/javascript" src="http://www.pluck.com/js/login.js"></script>
-<link href="/css/blog.css" rel="stylesheet" type="text/css">
-
-
-
+ 
 
 <!-- include closing head to end of nav -->
 <script type="text/javascript" src="/js/cufon-yui.js"></script>
@@ -38,114 +25,109 @@
 <script type="text/javascript" src="/js/demandlight_300-demandlight_oblique_400.font.js"></script>
 <style type="text/css"> /* <![CDATA[ */ .cufon-loading .f1 { visibility: hidden !important; } .cufon-loading .f2 { visibility: hidden !important; } /* ]]> */ </style>
 <script type="text/javascript"> Cufon.replace(".f1", { fontFamily: "demand" });Cufon.replace(".f2", { fontFamily: "demandlight" }); </script>
-<script type="text/javascript" src="/js/chrome.js"></script>
+
+<!-- Nav script -->
+<script language="javascript">
+		var navVar = "";
+    	function setNavState(navId){
+			navVar=navId;
+			subNavVar=navId + "s";
+			document.getElementById(subNavVar).style.display="block";
+			document.getElementById(navId).className ="navOn";
+		}
+		function returnNav(tempId){
+			if(tempId != navVar){
+			document.getElementById(tempId + 's').style.display="none";
+			document.getElementById(tempId).className="navOff";
+				if(navVar != ""){
+					setNavState(navVar);
+				}
+			}
+		}
+		function mouseOverState(navItem){
+			if(navVar != ""){
+			document.getElementById(subNavVar).style.display="none";
+			document.getElementById(navVar).className="navOff";
+			}
+			document.getElementById(navItem).className ="navOn";
+			document.getElementById(navItem + 's').style.display="block";
+		}
+	</script>
 
 
 </head>
 <!-- new element -->
-<body onload="loadUser();">
-<div id="loginGoesHere" class="headLoginWrapper"> 
-    <div class="hidelogin"><a href="#none" onclick="hideDiv('loginGoesHere');">X</a></div>
-    <script language="Javascript" type="text/javascript"> 
-        gSLAuthProxy.Show();
-		gSLAuthProxy.__Render('/Authentication/Login.rails');
-    </script>
-</div>
-<!-- end new element -->
+<body>
 
-<div class="DMheader">
-    <div class="DMheaderContent">
-    <!-- NEW HEADER cleaned-->
-	<div id="nav">
-	    <ul class="chromestyle" id="chromemenu">
-            <li style="margin-top:-7px; padding-left:20px;"><a href="http://www.demandmedia.com/"><img src="/images/DMlogo.jpg"></a></li>
-            <li><a rel="dropmenu1" href="http://www.demandmedia.com/studios"><span class="f2">Studios</span></a></li>
-            <li><a rel="dropmenu2" href="http://www.demandmedia.com/properties"><span class="f2">Properties</span></a></li>
-            <li><a rel="dropmenu3" href="http://www.demandmedia.com/solutions"><span class="f2" style="color:#ffffff;">Solutions</span></a></li>
-            <li><a rel="dropmenu4" href="http://www.demandmedia.com/news-press/"><span class="f2">News</span></a></li>
-            <li><a rel="dropmenu5" href="http://www.demandmedia.com/about"><span class="f2">About Us</span></a></li>
-            <li><a rel="dropmenu6" href="http://www.demandmedia.com/careers"><span class="f2">Careers</span></a></li>                
-        </ul>
-        <div id="dropmenu1" class="dropmenudiv">
-            <ul>
-                <li><a class="f2" href="http://www.demandmedia.com/studios/overview/">Overview</a></li>
-                <li><a class="f2" href="http://www.demandmedia.com/studios/writers/">Writers</a></li>
-                <li><a class="f2" href="http://www.demandmedia.com/studios/filmmakers/">Filmmakers</a></li>
-                <li><a class="f2" href="http://www.demandmedia.com/studios/copy-editors/">Copy Editors</a></li>
-                <li><a class="f2" href="http://www.demandmedia.com/freelancer-showcase/">Freelancer Showcase</a></li>
-                <li><a class="f2" href="https://www.demandstudios.com/application.html?role=Writer&amp;utm_source=DemandMedia&amp;utm_medium=site&amp;utm_campaign=writer">Apply Now</a></li>
+<div class="headerWrap" style="background-color:#000; height:76px; background:url(/images/header/topBg.png) top left repeat-x;">
+   	<div class="headerContent" style="background:url(/images/header/headCode.jpg) right top no-repeat; height:76px; width:980px; margin:auto;">
+    	<a href="http://www.demandmedia.com" style="float:left; padding:15px 16px 10px 10px;"><img src="/images/header/logo.png" alt="Demand Media"></a>
+        <a href="/" class="pluckHomeLink f1">PLUCK</a>
+    	<div class="navContent">
+        	<ul class="chromestyle" id="mainNav">
+           	 	<li id="n1" onmouseover="mouseOverState('n1')" onmouseout="returnNav('n1')"><a id="l1" href="/products/"><span class="f2">Product</span></a></li>
+            	<li id="n2" onmouseover="mouseOverState('n2')" onmouseout="returnNav('n2')"><a id="l2" href="/services/"><span class="f2">Services</span></a></li>
+            	<li id="n3" onmouseover="mouseOverState('n3')" onmouseout="returnNav('n3')"><a id="l3" href="/results/" rel="dropmenu1"><span class="f2">Results</span></a></li>
+                <li id="n4" onmouseover="mouseOverState('n4')" onmouseout="returnNav('n4')"><a id="l5" href="/roles/"><span class="f2">Roles</span></a></li>
+                <li id="n5" onmouseover="mouseOverState('n5')" onmouseout="returnNav('n5')"><a id="l6" href="/customers/" rel="dropmenu2"><span class="f2">Customers</span></a></li>
+                <li id="n6" onmouseover="mouseOverState('n6')" onmouseout="returnNav('n6')"><a id="l7" href="/resources/"><span class="f2">Resources</span></a></li>                
             </ul>
-        </div>
-       <div id="dropmenu2" class="dropmenudiv">
-            <ul>
-                <li><a class="f2" href="http://www.demandmedia.com/properties/ehow/">eHow™</a></li>
-                <li><a class="f2" href="http://www.demandmedia.com/properties/livestrong/">LIVESTRONG<sup>SM</sup>.COM</a></li>
-                <li><a class="f2" href="http://www.demandmedia.com/properties/cracked/">Cracked.com®</a></li>
-                <li><a class="f2" href="http://www.demandmedia.com/properties/trails/">Trails.com®</a></li>
-                <li><a class="f2" href="http://www.demandmedia.com/properties/golflink/">GolfLink™</a></li>
-                <li><a class="f2" href="http://www.demandmedia.com/properties/answerbag/">Answerbag®</a></li>
-                <li><a class="f2" href="http://www.demandmedia.com/mobile/">Mobile</a></li>
-                <li><a class="f2" href="http://www.demandmedia.com/impact-stories/">Impact Stories</a></li>
-            </ul>
-        </div>
-        <div id="dropmenu3" class="dropmenudiv">
-            <ul>
-                <li><a class="f2" href="http://www.demandmedia.com//solutions/marketers/">Marketers</a></li>
-                <li><a class="f2" href="http://www.demandmedia.com/solutions/publishers/">Publishers</a></li>
-                <li><a class="f2" href="http://www.demandmedia.com/solutions/domain-resellers/">Domain Resellers</a></li>
-                <li><a class="f2" href="http://www.demandmedia.com/solutions/social-tools/">Social Tools</a></li>
-                <li><a class="f2" href="http://www.demandmedia.com/solutions/content-channels/">Content Channels</a></li>
-                <li><a class="f2" href="http://www.demandmedia.com/solutions/domain-registration-monetization/">Domain Registration &amp; Monetization</a></li>
-                <li><a class="f2" href="http://www.demandmedia.com/coveritlive/">CoveritLive</a></li>
-            </ul>
-        </div>
- 		<div id="dropmenu4" class="dropmenudiv">
-            <ul>
-                <li><a class="f2" href="http://www.demandmedia.com/news/demand-media-voices">Demand Media Voices</a></li>
-                <li><a class="f2" href="http://www.demandmedia.com/blog/">Growing Demand Blog</a></li>
-                <li><a class="f2" href="http://www.demandmedia.com/news-media/">In the News</a></li>
-                <li><a class="f2" href="http://www.demandmedia.com/press-releases/">Press Releases</a></li>
-            </ul>
-        </div>
-		<div id="dropmenu5" class="dropmenudiv">
-            <ul>
-                <li><a class="f2" href="http://www.demandmedia.com/about/demand-media-manifesto/">Our Manifesto</a></li>
-                <li><a class="f2" href="http://www.demandmedia.com/executive-leadership/">Executive Leadership</a></li>
-                <li><a class="f2" href="http://www.demandmedia.com/editorial-advisory-board/">Editorial Advisory Board</a></li>
-                <li><a class="f2" href="http://www.demandmedia.com/contact-us/">Contact Us</a></li>
-                <li><a class="f2" href="http://www.demandmedia.com/board-of-directors/">Board of Directors</a></li>
-            </ul>
-        </div>
-		<div id="dropmenu6" class="dropmenudiv">
-            <ul>
-                <li><a class="f2" href="http://www.demandmedia.com/jobs/">Jobs</a></li>
-                <li><a class="f2" href="http://www.demandmedia.com/life-at-demand-media/">Life at Demand Media</a></li>
-                <li><a class="f2" href="http://www.demandmedia.com/locations/">Office Locations</a></li>
-            </ul>
-        </div>
-        <script type="text/javascript">
-            cssdropdown.startchrome("chromemenu");
-        </script>
+       </div>	
+	</div>
+</div>
+<div id="subNavWrap">
+	<div id="n1s" class="subNav f2" style="display:none; text-align:center;" onmouseover="mouseOverState('n1')" onmouseout="returnNav('n1')">
+    	<a href="/products/applications.html">Applications</a>
+        <a href="/products/collections.html">Collections</a>
+	    <a href="/products/engines.html">Engines</a>
+	    <a href="/products/api.html">API</a>
+	    <a href="/products/workbenches.html">Workbenches</a>
+        <a href="/products/technology.html">Technology</a> 
+        <a href="/products/technology.html" style="color:#FFFFFF !important;">Technology</a> 
     </div>
-    <div class="pluckNav">
-    	<a href="/"><span class="PluckHead f1">Social Solutions</span></a>
-        <a href="/products" class="pluckNavLink"><span class="f1">Products</span></a>
-        <a href="/services" class="pluckNavLink"><span class="f1">Services</span></a>
-        <a href="/brands" class="pluckNavLink"><span class="f1">Brands</span></a>
-        <a href="/publishers" class="pluckNavLink"><span class="f1">Publishers</span></a>
-        <a href="/customers" class="pluckNavLink"><span class="f1">Customers</span></a>
-        <a href="/Resources" class="pluckNavLink"><span class="f1">Resources</span></a>
-        <div class="HeadLink" id="loginStatus"><div class="loginRegLinks"></div></div>
-        <br style="clear:both">
+	<div id="n2s" class="subNav f2" style="display:none; text-align:right;" onmouseover="mouseOverState('n2')" onmouseout="returnNav('n2')">
+    	<a href="/services/community_moderation.html">Community Moderation</a>
+        <a href="/services/community_management.html">Community Management</a>
+        <a href="/services/professional_services.html">Professional Services</a>
+        <a href="/services/account_management.html">Account Management</a>
+        <a href="/services/technical_support.html">Tech Support</a>
+        <a href="/services/education_resources.html">Education &amp; Resources</a>
+    </div>
+    <div id="n3s" class="subNav f2" style="display:none; text-align:center;" onmouseover="mouseOverState('n3')" onmouseout="returnNav('n3')">
+    	 <a href="/results/engagement.html" style="color:#FFFFFF !important;">We know how to generate great results</a>
+        <a href="/results/engagement.html">Engagement</a>
+        <a href="/results/conversion.html">Conversion</a>
+        <a href="/results/advocacy.html">Advocacy</a>
+    </div>
+    <div id="n4s" class="subNav close f2" style="display:none; text-align:right;" onmouseover="mouseOverState('n4')" onmouseout="returnNav('n4')">
+    	<a href="/roles/analytics.html">Analytics</a>
+        <a href="/roles/community.html">Community</a>
+        <a href="/roles/content.html">Content</a>
+        <a href="/roles/design.html">Design</a>
+        <a href="/roles/development.html">Development</a>
+        <a href="/roles/ecommerce.html">e-Commerce</a>
+        <a href="/roles/management.html">Management</a>
+        <a href="/roles/marketing.html">Marketing</a>
+        <a href="/roles/mobile.html">Mobile</a>
+        <a href="/roles/revenue.html">Revenue</a>
+        <a href="/roles/social.html">Social</a>
+        <a href="/roles/technology.html">IT</a>
+    </div>
+    <div id="n5s" class="subNav f2" style="display:none; text-align:right;">
+    	
+    </div>
+    <div id="n6s" class="subNav f2" style="display:none; text-align:right;" onmouseover="mouseOverState('n6')" onmouseout="returnNav('n6')">
+    	<a href="/resources/outcomes.html">Outcomes</a>
+        <a href="/resources/whitepapers/">White Papers</a>
+        <a href="http://www.pluck.com/blog/index.php">Blog</a>
+       
+        <a href="/resources/partners/index.html">Partner Program</a>
+        <a href="/resources/contact.html">Contact Us</a>
     </div>
 </div>
-</div><!-- end DMheader and Header Content-->
-
-
-
 
 <div class="bg">
-<div class="container">
+	<div class="container">
 
 
 <div class="resources_header f1">Resources</div><!-- /product_header -->
@@ -219,8 +201,8 @@
 <!-- include products nav -->
 <div class="nextStepsWrap">
 <div style="padding:55px 0px 0px 20px; line-height:30px; font-size:14px; font-weight:bold;">
-<a id="learnLink" href="/products/learnmore.html?prev=https://web.archive.org/web/20110522010035id_/http%3A//www.pluck.com/site/privacy.html" title="Learn More"><img src="/images/smallChev.gif"> Learn More</a><br>
-<a id="requestLink" href="/learn/requestDemo.html?prev=https://web.archive.org/web/20110522010035id_/http%3A//www.pluck.com/site/privacy.html" title="Request A Demo"><img src="/images/smallChev.gif"> Request a Demo</a><br>
+<a id="learnLink" href="/products/learnmore.html?prev=https://web.archive.org/web/20111124015941id_/http%3A//www.pluck.com/site/privacy.html" title="Learn More"><img src="/images/smallChev.gif"> Learn More</a><br>
+<a id="requestLink" href="/learn/requestDemo.html?prev=https://web.archive.org/web/20111124015941id_/http%3A//www.pluck.com/site/privacy.html" title="Request A Demo"><img src="/images/smallChev.gif"> Request a Demo</a><br>
 <a href="/resources/contact.html" title="Contact Us"><img src="/images/smallChev.gif"> Contact Us</a>
 </div>
 </div>
@@ -235,9 +217,9 @@
  </div><!-- /right_side -->
 <div class="clear"></div><!-- /clear -->
 </div><!-- /content -->
-<div class="footer">
+<div class="footer" id="pageFooter">
 	<div class="footnav">
-    	<div class="footLinks"><a href="/">Home</a>&nbsp; ·  &nbsp;<a href="/site/privacy.html">Privacy</a>&nbsp; ·  &nbsp;<a href="/site/terms.html"> Terms</a>&nbsp; ·  &nbsp;<a href="/resources/contact.html">Contact Us</a>&nbsp; · &nbsp;<a href="http://connect.pluck.com/" target="_blank">Pluck Connect</a>&nbsp; ·  &nbsp;<a href="/site/sitemap.html">Site Map</a></div><div class="copyright">© Demand Media 2010</div>
+    	<div class="footLinks"><a href="/">Home</a>&nbsp; ·  &nbsp;<a href="/site/privacy.html">Privacy</a>&nbsp; ·  &nbsp;<a href="/site/terms.html"> Terms</a>&nbsp; ·  &nbsp;<a href="/resources/contact.html">Contact Us</a>&nbsp; · &nbsp;<a href="http://connect.pluck.com/" target="_blank">Pluck Connect</a>&nbsp; ·  &nbsp;<a href="/site/sitemap.html">Site Map</a></div><div class="copyright">© Demand Media 2011</div>
   		<div class="dLinks" style="clear:both">
     	Pluck is part of the Demand Media network:
         <a href="http://www.answerbag.com" target="_blank">Answerbag.com</a>
