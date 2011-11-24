@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clipart.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427011621id_/http%3A//www.clipart.com/en/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clipart.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124034911id_/http%3A//www.clipart.com/en/company/privacy) for the most accurate reproduction.*
 
 # Clipart - Download Royalty-Free Clipart, Images, Fonts, Web Art and Graphics
 
