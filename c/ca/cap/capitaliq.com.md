@@ -1,18 +1,54 @@
-> *The following text is extracted and transformed from the capitaliq.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608183319id_/http%3A//www.capitaliq.com/main/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitaliq.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124073854id_/https%3A//www.capitaliq.com/home/privacy-notice.aspx) for the most accurate reproduction.*
 
-# Capital IQ - Privacy Statement
+# Capital IQ - Privacy Notice
 
-|  |  |  Contacting us via e-mail or registering for capitaliq.com reveals your e-mail address and any other information you include such as phone number and/or mailing address. We will use this information to help us process your registration, fulfill your request or respond to your inquiry. All of your personal information will be stored in a secure database in the United States of America. Access to this database is limited to authorized persons. 
+Privacy Notice
 
-In addition, capitaliq.com may store a unique identification number, the username, and login status in a "cookie" on each visitor's computer. The identification number is retained and utilized to track usage of the web site in order to provide you with products or services you may be interested in, while the username and login status are only used for display purposes and site functionality during the current web session.
+**WHAT PERSONALLY IDENTIFIABLE INFORMATION ("PII") DOES CAPITAL IQ COLLECT ABOUT YOU?**  
+Contact information that you provide to us including: your name, title and organization, address, telephone number, fax number, and e-mail address.
 
-In order to change these cookie preferences, you must change your browser's preferences to disable cookies or delete cookies. Please note that disabling cookies for some services may affect the ability to use that service. Security information is specific to each browser and operating system. Please check with your browser's specific company for more information. Some examples of how to change your browser's preferences are as follows: In Internet Explorer (versions 6 and up), this option is listed under Tools > Internet Options > Privacy. The setting has to be set to Block All Cookies; In Netscape (versions 7 and up), this option is listed under Edit > Preferences > Privacy & Security > Cookies. The Disable Cookies button should be checked.
+We also track your use of our Web site at [www.capitaliq.com](http://www.capitaliq.com/) through the use of cookies and other tracking mechanisms. A cookie is a text-only string of information that a Web site transfers to the cookie file of the browser on your computer's hard disk so that the Web site can remember you and your preferences. "Session" cookies are erased from memory when your browser closes. "Persistent" cookies help identify you and your preferences upon your return to the Web site.
 
-Capital IQ may share your information for promotional purposes within other units within Standard & Poor's or within our parent company, The McGraw-Hill Companies. If at any time you would like your name removed from lists that are shared for promotional reasons with Standard & Poor's and other units of The McGraw-Hill Companies, simply send a written request to [privacy@capitaliq.com](mailto:privacy@capitaliq.com) or to Privacy Official, Capital IQ, A Division of Standard & Poor’s, 55 Water Street, 49th Floor, New York, NY 10041.
+You must change your browser's preferences to disable or delete cookies.
 
-You can also send a written request to [privacy@capitaliq.com](mailto:privacy@capitaliq.com) if you would like to confirm the accuracy of the information we have collected from you, or if you have questions about the uses of this information. For more information about The McGraw-Hill Companies Privacy Policy, please visit [www.mcgraw-hill.com/privacy.html](http://www.mcgraw-hill.com/privacy.html).
+Note that disabling cookies for some services may affect the ability to use that service.  Security information is specific to each browser and operating system.  Please check with your browser's specific company for more information.   For example, to change your browser's preference in Internet Explorer, go to Tools > Internet Options > Privacy.  The setting has to be set to Block All Cookies. In Firefox (versions 2 and higher), this option is listed under _Tools > Options > Privacy_. Check the "Accept Cookies from Sites" checkbox in the Cookie Section. You may opt out of a third party vendor's use of cookies by visiting the Network Advertising initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
-|  |  |   
-  
-  
-|  | 
+Third party vendors show capitaliq.com advertisements on sites on the Internet. Third party vendors use cookies to serve ads based on your prior visits to capitaliq.com. You can opt out of such use of cookies by visiting the third party vendors' sites or the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).
+
+**WHY DOES CAPITAL IQ COLLECT THIS INFORMATION?**  
+To process your registration, maintain your account and respond to your inquiries.
+
+To provide you with information about services and products that we believe may be of interest to you offered by Capital IQ and other parts of our parent company, The McGraw-Hill Companies, Inc.
+
+**HOW DOES CAPITAL IQ SHARE YOUR PII?  
+** With our vendors to perform services on our behalf.
+
+In conjunction with a sale or similar transfer of a business.
+
+When legally compelled or for other legal purposes.
+
+With other parts of McGraw-Hill whose services and products might be of interest to you.
+
+**IF YOU WANT TO LIMIT USE OR SHARING OF YOUR PII FOR MARKETING PURPOSES:  
+** Write to us at: [privacy@capitaliq.com](mailto:privacy@capitaliq.com) or to Privacy Official, Capital IQ, 55 Water Street, 49th Floor, New York, NY 10041 with the following instructions:
+
+I do not want to be contacted by Capital IQ via these methods for marketing purposes:
+
+Mail            ______  
+Telephone   ______  
+Fax            ______  
+E-mail        ______
+
+______I do not want to be contacted by Capital IQ through any method for marketing purposes.
+
+______I do not want to be contacted by other parts of McGraw-Hill through any method for marketing purposes.
+
+______I do not want my information shared with companies outside of McGraw-Hill.
+
+We have established safeguards and use reasonable security measures to protect your PII from unauthorized access and use. Your PII is stored in a secure location in the U.S. and access is limited to authorized persons.
+
+To review and confirm the accuracy of your PII, or to contact us with concerns or questions, please write to: [privacy@capitaliq.com](mailto:privacy@capitaliq.com) or Privacy Official, Capital IQ, 55 Water Street, 49th Floor, New York, NY 10041 **.**
+
+[Click here](http://www.mcgraw-hill.com/site/tools/privacy/privacy_english) for more information about The McGraw-Hill Companies Customer Privacy Policy.
+
+Last updated: January 10, 2011. Future revisions to this Privacy Notice will be posted at this location.
