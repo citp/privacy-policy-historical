@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchbug.com privacy policy that was archived on 2009-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090710052653id_/http%3A//www.searchbug.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchbug.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124090933id_/http%3A//www.searchbug.com/privacy.aspx) for the most accurate reproduction.*
 
 # SearchBug Privacy Policy
 
@@ -32,7 +32,7 @@ SearchBug collects different types information through different means. Here are
 
 SearchBug has a very restricted and limited use of the collected information. Generally, we use information gathered from you to complete your orders, prevent fraud, provide you with a better user experience, and to improve our services and the Website. 
 
-When use your e-mail address only for the purposes of communicating with you on the subject of your original request. 
+We use your e-mail address only for the purposes of communicating with you on the subject of your original request. 
 
 We use Website logs to generate aggregated usage statistics regarding and for audit purposes only. 
 
@@ -54,4 +54,13 @@ If problems arise, users may contact us by e-mail at
 
 Instructions to [remove personal listing](https://web.archive.org/help.aspx?WHAT=people) from the people search results are located on our Help page. 
 
+* * *
+
+|  |   
+
+Please Visit Our Sponsors
+
+  |   
+---|---|---  
+  
 * * *
