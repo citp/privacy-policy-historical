@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designdeck.co.uk privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529110417id_/http%3A//www.designdeck.co.uk/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designdeck.co.uk privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124014849id_/http%3A//www.designdeck.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # design deck | Privacy policy
 
