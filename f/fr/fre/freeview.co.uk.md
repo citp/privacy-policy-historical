@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the freeview.co.uk privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104053143id_/http%3A//www.freeview.co.uk/Privacy-Cookie-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeview.co.uk privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124014033id_/http%3A//www.freeview.co.uk/Privacy-Cookie-Policy) for the most accurate reproduction.*
 
-# Freeview - Home Privacy & Cookie Policy
+# Freeview / Home / Privacy & Cookie Policy
+
+14 July 2008 
 
 #### 1\. Introduction
 
 Your privacy is important to us. This Privacy & Cookie Policy explains what information we collect about you and what we do with it. Please take a few minutes to read it. 
 
-The Site is for visitors who wish to find out more about the business and products of DTV Services Ltd ("DTVS"), the company formed specifically for the purposes of promoting Freeview, by using the Site ("you"). Your access and use of the Site constitutes your explicit consent to the collection, use and transfer of your personal data, in the manner described in this Privacy & Cookie Policy ("the Policy"). If you disagree with the way we process data collected on the Site, we recommend that you do not use the Site. If you have any questions about this Privacy & Cookie Policy please email **[Freeview@mgtplc.com](mailto:Freeview@mgtplc.com)**
+The Site is for visitors who wish to find out more about the business and products of DTV Services Ltd ("DTVS"), the company formed specifically for the purposes of promoting Freeview, by using the Site ("you"). Your access and use of the Site constitutes your explicit consent to the collection, use and transfer of your personal data, in the manner described in this Privacy & Cookie Policy ("the Policy"). If you disagree with the way we process data collected on the Site, we recommend that you do not use the Site. If you have any questions about this Privacy & Cookie Policy please contact us at this [address](https://web.archive.org/about-us) .
 
 #### 2\. What type of data do we collect about you?
 
@@ -82,9 +84,6 @@ At law you have the following rights
   * a right to get personal data relating to you rectified, completed, updated, blocked or erased when incomplete, unclear, obsolete or processed unlawfully;
   * a right to object to the processing of data relating to you on legitimate grounds and a right to object free of charge to the use of data for solicitation purposes. 
 
-
-
-We will comply with such rights as provided under applicable law. If you wish to exercise your subject access right, please contact us in writing at DTV Services Limited, 27-29 Cursitor Street, London, EC4A 1LT with sufficient information to identify yourself and the information you require. We will respond to your request within 40 days. We reserve the right to charge £10 for complying with a subject access request.  
 
 
 #### 9\. Security 
