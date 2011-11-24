@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplestar.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627052045id_/http%3A//www.photoshow.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplestar.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124015341id_/http%3A//www.photoshow.com/legal/privacy) for the most accurate reproduction.*
 
 # Roxio - Privacy Statement
 
