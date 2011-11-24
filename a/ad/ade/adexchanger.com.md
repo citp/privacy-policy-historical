@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the adexchanger.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629042624id_/http%3A//www.adexchanger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adexchanger.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124035008id_/http%3A//www.adexchanger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## Privacy Policy
+
+  
+
 
 This Privacy Policy sets forth Jebbert’ policy with respect to the Personal Data that is collected from End Users through the Site. All capitalized terms not defined herein shall have the meaning attributed to them in the ****.
 
