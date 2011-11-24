@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abacin.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614220547id_/http%3A//www.abacin.com/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abacin.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124013446id_/http%3A//www.abacin.com/site/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -35,21 +35,14 @@ Popular Links in [ Abacin.com ](http://www.abacin.com/)
 [ Office Print ](http://directory.abacin.com/176/Office+Print)|  [Printable Coupons ](http://coupons.abacin.com/printable.php)  
 [ Online Games ](http://directory.abacin.com/140/Online+Games)  
 [ Photo Sharing ](http://directory.abacin.com/134/Photo+Sharing)  
-[ Cash Back Credit Cards ](http://directory.abacin.com/58/Cash+Back+Credit+Cards)  
+[ Department Store ](http://directory.abacin.com/93/Department+Store)  
 [ Get Paid for Surveys ](http://directory.abacin.com/6/Get+Paid+for+Surveys)  
-| [**Amazon - Free Bloodshot Records Spring Cleaning Sampler**](http://freebies.abacin.com/138317/Amazon-Free-Bloodshot-Records-Spring-Cleaning-Sampler?rf=1)  
+|  [ **Price Angels: 92%OFF, Daily deals offer , $4.20 , Golden In-Ear 4-PIN Earphones for iPhone (3.5mm Jack / 1.2M Cable) @PriceAngels , Free shipping.**](http://deals.abacin.com/226108/92-OFF-Daily-deals-offer-4-20-Golden-In-Ear-4-PIN-Earphones-for-iPhone-3-5mm-Jack-1-2M-Cable-PriceAngels-Free-shipping-?rf=1)  
 ---  
-  
-[ **Get it Now**](http://freebies.abacin.com/138317/Amazon-Free-Bloodshot-Records-Spring-Cleaning-Sampler?rf=1)
-
-[ More Deals from  
-**Amazon**](http://deals.abacin.com/Amazon/)
-
-| [](http://freebies.abacin.com/138317/Amazon-Free-Bloodshot-Records-Spring-Cleaning-Sampler?rf=1)  
-|  [ **Buy.com: Hear Now Talk & Train Pet Collar with a 2-Way Wireless 2-Mile Range Communication System - Small (For Cats and Small Dogs) List Price: ~~$199.99~~ Sale Price: $8.99**](http://deals.abacin.com/156101/Buy-com-Hear-Now-Talk-amp-Train-Pet-Collar-with-a-2-Way-Wireless-2-Mile-Range-Communication-System-Small-For-Cats-and-Small-Dogs-List-Price-strike-199-99-strike-Sale-Price-8-99?rf=1)  
----  
-[ **CowBoom: Save 90% Today Only: $7.99 New Plantronics M100 Bluetooth Headset in Pink (Reg: $79.99)**](http://deals.abacin.com/157077/CowBoom-Save-90-Today-Only-7-99-New-Plantronics-M100-Bluetooth-Headset-in-Pink-Reg-79-99-?rf=1)  
-[ **GoDaddy: Save up to 90% Now on Go Daddy SSL Certificates! Only $12.99!**](http://deals.abacin.com/155865/GoDaddy-Save-up-to-90-Now-on-Go-Daddy-SSL-Certificates-Only-12-99-?rf=1)  
-[ **Amazon: Red Line Men's RL-50010-11 RPM Chronograph Watch List Price: ~~$695.00~~ Deal Price: $69.99**](http://deals.abacin.com/154798/Amazon-Red-Line-Men-s-RL-50010-11-RPM-Chronograph-Watch-List-Price-strike-695-00-strike-Deal-Price-69-99?rf=1)  
-[ **Macy's: Charter Club Plus Size Robe, Supersoft Short Shawl Printed List Price: ~~$64.00~~ Sale Price: $9.99**](http://deals.abacin.com/154629/Macy-s-Charter-Club-Plus-Size-Robe-Supersoft-Short-Shawl-Printed-List-Price-strike-64-00-strike-Sale-Price-9-99?rf=1)  
-[ **Staples: Brother® P-touch® PT-90 Personal Label Maker Reg. Price: ~~$29.99~~ Deal Price: $9.99**](http://deals.abacin.com/155057/Staples-Brother-reg-P-touch-reg-PT-90-Personal-Label-Maker-Reg-Price-strike-29-99-strike-Deal-Price-9-99?rf=1)
+[ **The Sportsman's Guide: SPG 3-Pk. Women's Foxy Huntress Long - sleeve Shirts Sale Price $19.97 Compare Price $180**](http://deals.abacin.com/226858/SPG-3-Pk-Women-s-Foxy-Huntress-Long-sleeve-Shirts-Sale-Price-19-97-Compare-Price-180?rf=1)  
+[ **Amazon: 14K White Gold, Round, Blue Diamond Stud Earrings (1/2 ctw) Deal Price: $189.00 List Price: ~~$1499.00~~**](http://deals.abacin.com/226566/14K-White-Gold-Round-Blue-Diamond-Stud-Earrings-1-2-ctw-Deal-Price-189-00-List-Price-strike-1499-00-strike-?rf=1)  
+[ **Get a Brother PT-2030VP Desktop "Simply Professional" Labeler With Carrying Case For $22.99 at Buy.com, a $106.96 Savings!**](http://deals.abacin.com/226183/Get-a-Brother-PT-2030VP-Desktop-Simply-Professional-Labeler-With-Carrying-Case-For-22-99-at-Buy-com-a-106-96-Savings-?rf=1)  
+[ **CowBoom: Today Only: $12.99 Refurbished Insignia Boombox w/ iPod Dock (Reg: $64.99)**](http://deals.abacin.com/227283/Today-Only-12-99-Refurbished-Insignia-Boombox-w-iPod-Dock-Reg-64-99-?rf=1)  
+[ **$1151 off a Movado Elliptica Alligator Leather Women's Watch - $299 + Free Shipping at Newegg.com, exp. 11/23**](http://deals.abacin.com/227288/-1151-off-a-Movado-Elliptica-Alligator-Leather-Women-s-Watch-299-Free-Shipping-at-Newegg-com-exp-11-23?rf=1)  
+[ **Garden & Gun Magazine - $3.50/yr (76% off) (up to 2 years) from DiscountMags.com!**](http://coupons.abacin.com/226125/Garden-Gun-Magazine-3-50-yr-76-off-up-to-2-years-from-DiscountMags-com-?rf=1)  
+[ **www.OnSale.com SEATTLE DEAL:$6 for $23.75 Value — 75% Off Five Double Scoop Punch Card at Ben and Jerry’s in Kirkland**](http://deals.abacin.com/226354/www-OnSale-com-SEATTLE-DEAL-6-for-23-75-Value-75-Off-Five-Double-Scoop-Punch-Card-at-Ben-and-Jerry-s-in-Kirkland?rf=1)
