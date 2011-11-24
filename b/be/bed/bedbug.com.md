@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bedbug.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526151115id_/http%3A//www.bedbug.com/Page-Privacy_9.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedbug.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124224233id_/http%3A//www.bedbug.com/Page-Privacy_9.aspx) for the most accurate reproduction.*
 
 # Find bed bug products safely at Bedbug.com
 
-Privacy Policy[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.bedbug.com&sealid=101)
+Privacy Policy
 
-Last updated on 01/OCT/2009 
+Last updated on 20/June/2011
 
-Bedbug.com takes your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy deals with personally-identifiable information (referred to as "Personal Data" below) that may be collected by this site. This policy only applies to www.bedbug.com. Bedbug.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.bedbug.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact customerservice@bedbug.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [www.TRUSTe.com](http://watchdog.truste.com/pvr.php?page=complaint&url=). TRUSTe will then serve as a liaison with us to resolve your concerns.
+Bedbug.com takes your right to privacy seriously, and wants you to feel comfortable using this web site. This privacy policy deals with personally-identifiable information (referred to as "Personal Data" below) that may be collected by this site. This policy only applies to www.bedbug.com. Bedbug.com is a licensee of the McAfee Security Program. This privacy statement covers the web site www.bedbug.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance. If you have questions or concerns regarding this statement, you should contact [customerservice@bedbug.com](mailto:customerservice@bedbug.com?subject=Privacy%20Policy).
 
   E. U. SAFE HARBOR POLICY
 
@@ -42,7 +42,8 @@ DATA INTEGRITY
 
 TRANSFERS TO AGENTS
 
-  Bedbug.com will obtain assurances from its agents that they will safeguard personal information consistently with this Policy. If Bedbug.com has knowledge that an agent is using or disclosing personal information in a manner contrary to this Policy, Bedbug.com will take reasonable steps to prevent or stop the use or disclosure.   
+  Bedbug.com will obtain assurances from its agents that they will safeguard personal information consistently with this Policy. If Bedbug.com has knowledge that an agent is using or disclosing personal information in a manner contrary to this Policy, Bedbug.com will take reasonable steps to prevent or stop the use or disclosure. 
+
 ACCESS AND CORRECTION
 
   Upon request, Bedbug.com will grant individuals reasonable access to personal information that it holds about them, and Bedbug.com will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. 
