@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bytelove.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414184334id_/http%3A//www.bytelove.com/privacy-policy/info_4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bytelove.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124233256id_/http%3A//bytelove.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Geek, Gamer and WoW T-shirts & Gear | bytelove.com
+# Customer Service
 
 Privacy Policy
 
