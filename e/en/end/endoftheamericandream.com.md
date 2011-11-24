@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endoftheamericandream.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420043318id_/http%3A//endoftheamericandream.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endoftheamericandream.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124034845id_/http%3A//endoftheamericandream.com/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy
 
