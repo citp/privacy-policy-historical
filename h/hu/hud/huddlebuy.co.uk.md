@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the huddlebuy.co.uk privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609021436id_/http%3A//www.huddlebuy.co.uk/data-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huddlebuy.co.uk privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124011631id_/http%3A//www.huddlebuy.co.uk/articles/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy
+# Huddlebuy
 
 This privacy policy discloses the privacy practices for Huddlebuy Limited, a company incorporated in England & Wales with company number 07355963 and having its registered office at 20 Everington Street, London W6 8DU, United Kingdom ("we", "us", "our"). Our website is [http//:www.huddlebuy.co.uk] (the "Website").
 
@@ -12,11 +12,9 @@ If you have any questions at all about this policy or the Website, or about how 
 
 We are committed to protecting the privacy of the users of our Website. We are the sole owner of the information collected on the Website. We will not sell, share, or rent this information to others in ways different from those disclosed in this statement.
 
-**We do not store credit card details nor do we share customer details with any 3rd parties**
+We are committed to protecting the privacy of the users of our Website. We are the sole owner of the information collected on the Website. We will not sell, share, or rent this information to others in ways different from those disclosed in this statement.
 
- 
-
-We collect information from you at several different points on the Website.
+**We collect information from you at several different points on the Website.**
 
 By submitting your information you consent to the use of that information as set out in this policy. If we change our privacy policy we will post the changes on this page, and may place notices on other pages of the Website, so that you may be aware of the information we collect and how we use it at all times. Continued use of the Website will constitute your agreement to any such changes.
 
@@ -64,7 +62,7 @@ We use IP addresses to analyse trends, administer the Website and gather broad d
 
 **Links**
 
-The Website contains links to other Websites. Please be aware that we are not responsible for the privacy practices of other Websites. We encourage you to be aware when you leave the Website and to read the privacy policies of each and every website that collects personally identifiable information. This privacy policy applies solely to information collected by us on the Website.
+****The Website contains links to other Websites. Please be aware that we are not responsible for the privacy practices of other Websites. We encourage you to be aware when you leave the Website and to read the privacy policies of each and every website that collects personally identifiable information. This privacy policy applies solely to information collected by us on the Website.
 
 **Direct Mailings**
 
@@ -80,7 +78,7 @@ If you elect to use our referral service for informing a friend about the Websit
 
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is Huddlebuy Limited.
 
-We make every effort to ensure that our practices, procedures and systems comply with the relevant data protection legislation and we are registered as a data controller for the purposes of the Act 
+We make every effort to ensure that our practices, procedures and systems comply with the relevant data protection legislation and we are registered as a data controller for the purposes of the Act.
 
 We shall only use your personal data in accordance with the legal requirements, principles and best practice recommendations of the Act, which grants you various rights in respect of the processing of your personal data.
 
@@ -92,8 +90,8 @@ You have a right to receive a copy of the information we hold about you by sendi
 
 If any information regarding you requires to be corrected, updated or changed it is your responsibility to advise us of the required amendments. If you inform us that you no longer desire our service, we shall correct, update or remove your personal data provided to us.
 
-After completion of your transaction, your payment details will not be held on our records and are destroyed from our data files immediately. Please note, an archive copy of any information provided to us may be retained by us for our records and for audit purposes.
+After completion of your transaction, your payment details will not be held on our records and are destroyed from our data files immediately. Please note, an archive copy of any information provided to us may be retained by us for our records and for audit purpose.
 
 **Contact**
 
-If you have any questions at all about this policy or the Website, or about how we use and process your personal information, please do not hesitate to contact us at us by e-mail at privacy@huddlebuy.co.uk, or, alternatively, in writing to [http//:www.Huddlebuy.co.uk] c/o Huddlebuy Limited at 20 Everington Street, London W6 8DU, UK. 
+If you have any questions at all about this policy or the Website, or about how wse use and process your personal information, please do not hesitate to contact us at us by e-mail at privacy@huddlebuy.co.uk, or, alternatively, in writing to [http//:www.Huddlebuy.co.uk] c/o Huddlebuy Limited at 20 Everington Street, London W6 8DU, UK.
