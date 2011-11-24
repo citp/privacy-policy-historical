@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beatthebrochure.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516131743id_/http%3A//www.beatthebrochure.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beatthebrochure.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124123702id_/http%3A//www.beatthebrochure.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Cheap Holidays, Package Holidays, City Breaks, All Inclusive Holidays
 
