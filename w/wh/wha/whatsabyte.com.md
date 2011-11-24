@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatsabyte.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414214407id_/http%3A//www.whatsabyte.com/P1/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsabyte.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124075708id_/http%3A//whatsabyte.com/P1/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for the What's A Byte Website
 
@@ -53,6 +53,8 @@ We use the information you provide about someone else when placing an order only
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+
+We allow third-party companies, including AddThis, to collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or a third party web beacon to collect this information.
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
