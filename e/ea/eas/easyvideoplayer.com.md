@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the easyvideoplayer.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502082828id_/http%3A//www.easyvideoplayer.com/privacyp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyvideoplayer.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124021650id_/http%3A//www.easyvideoplayer.com/page.privacyp.php) for the most accurate reproduction.*
 
-# EasyVideoPlayer » Website
+# Privacy Policy
 
 Last Updated: January 12th 2010
 
