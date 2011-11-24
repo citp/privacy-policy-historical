@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funology.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515074808id_/http%3A//www.funology.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funology.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124030655id_/http%3A//funology.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Funology.Com : Privacy Policy
 
@@ -38,10 +38,4 @@ Funburst Media LLC 14001-C Saint Germain Drive #226 Centreville, VA 20121 TEL: (
 
 [](http://www.facebook.com/pages/Centreville-VA/Funology/230066573480)[](https://twitter.com/funologycom)
 
-ADVERTISEMENT
-
-[](https://web.archive.org/thats_odd/)
-
-If someone tells you you smell like flowers, it may not be a compliment if they are refering to the rafflesia flower. This flower smells like rotten meat! 
-
-|  [](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=334638801&mt=8)
+|  [](http://www.octopusarcade.com/)  
