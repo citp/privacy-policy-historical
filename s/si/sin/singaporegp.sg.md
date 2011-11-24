@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the singaporegp.sg privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220190536id_/http%3A//www.singaporegp.sg/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singaporegp.sg privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124064537id_/http%3A//www.singaporegp.sg/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Singapore Grand Prix
 
@@ -19,7 +19,7 @@ You may access this Site's home page and browse the Site without disclosing any 
 ** How do we use your information?**  
 Any personal data relating to you will be used and recorded by us in accordance with current data protection legislation and this Privacy Policy. We may use your personal information to communicate with you, such as to let you know about new features or offerings on [www.singaporegp.sg](http://www.singaporegp.sg/) for record keeping purposes, and in aggregate (and therefore anonymously) for market research purposes, to track activity on our site, to publish trends and/or to improve usefulness and content and for any other purpose that we may notify to you and the relevant data protection authority from time to time.
 
-We may operate a mailing list to send you related news about the Singapore Grand Prix. This mailing list currently operates as a 'opt in' mailing list whereby subscribers add themselves to the list. We only send emails to addresses, which have been subscribed to the list, we do not 'spam'. If you wish to unsubscribe from the list please e-mail to [info@singaporegp.sg](mailto:info@singaporegp.sg).  We do not share, licence or sell these e-mail addresses.
+We may operate a mailing list to send you related news about the Singtel Singapore Grand Prix. This mailing list currently operates as a 'opt in' mailing list whereby subscribers add themselves to the list. We only send emails to addresses, which have been subscribed to the list, we do not 'spam'. If you wish to unsubscribe from the list please e-mail to [info@singaporegp.sg](mailto:info@singaporegp.sg).  We do not share, licence or sell these e-mail addresses.
 
 **Sharing with & Disclosure of Information to 3rd Parties**  
 As a matter of policy, your personal information will not be shared or disclosed to third parties (whether for their marketing purposes or otherwise) without your consent. However, we reserve the right to disclose your personal information as required in the normal course and scope of our business in the provision of our services, and where required by applicable law, statute, stock exchange regulation or by-law, regulatory or governmental order or court order.
