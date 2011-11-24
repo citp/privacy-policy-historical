@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs-career-listing.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119053820id_/http%3A//www.jobs-career-listing.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs-career-listing.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124124128id_/http%3A//www.jobs-career-listing.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
