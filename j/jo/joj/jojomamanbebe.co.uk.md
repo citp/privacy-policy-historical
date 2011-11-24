@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jojomamanbebe.co.uk privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321122903id_/http%3A//www.jojomamanbebe.co.uk/pu%2BJoJo-Maman-Bebe%2BPrivacy-Policy%2B1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jojomamanbebe.co.uk privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124032120id_/http%3A//www.jojomamanbebe.co.uk/pu%2Bjojo-maman-bebe%2BPrivacy-Policy%2B1) for the most accurate reproduction.*
 
-# JoJo Maman Bébé Privacy Policy
+# Jojo Maman Bébé Privacy Policy
 
-When you place an order with JoJo Maman Bébé we ask you to provide us with certain personal information such as name, address and email to enable us to fulfill your order and communicate efficiently with you. We are registered with the Data Protection Act and store your data in accordance with this act. 
+When you place an order with _[JoJo Maman Bébé](http://www.jojomamanbebe.co.uk/)_ we ask you to provide us with certain personal information such as name, address and email to enable us to fulfill your order and communicate efficiently with you. We are registered with the Data Protection Act and store your data in accordance with this act. 
 
 When you register with us, we inform you that we will use your details to send you catalogues and other promotional offers via mail, email and SMS and from time to time allow our mailing list to be made available to carefully selected companies whose products may be of interest to our customers. You can choose not to be contacted by any of these marketing methods when you register and may change or update your preferences via your account details page at anytime or by contacting our customer service department at the address below. Should you wish to unsubscribe from our newsletters you can do so by clicking on the relevant link at the base of the newsletter. In order to maintain our high standards of Customer service any calls made to our Customer Service department may be recorded for training and monitoring purposes. 
 
