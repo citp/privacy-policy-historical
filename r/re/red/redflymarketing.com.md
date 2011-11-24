@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redflymarketing.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229233222id_/http%3A//www.redflymarketing.com/w3c/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redflymarketing.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124174153id_/http%3A//www.redflymarketing.com/w3c/policy.html) for the most accurate reproduction.*
 
 # RedFly Marketing - Privacy Policy
 
