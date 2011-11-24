@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mycorporation.com privacy policy that was archived on 2010-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100128062703id_/http%3A//www.mycorporation.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycorporation.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124034003id_/http%3A//www.mycorporation.com/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy | MyCorporation.com
 
-At Intuit, we place the highest importance on respecting and protecting the privacy of our customers. Our most important asset is our relationship with you. We want you to feel comfortable and confident when using our Web site. Therefore, we would like to share with you the following principles that govern our information practices and other privacy aspects of our Web site. This privacy statement defines privacy aspects specific to MyCorporation.com, an Intuit Company. Throughout this policy, we refer to information that personally identifies you as "personal information."
+At MyCorporation, we place the highest importance on respecting and protecting the privacy of our customers. Our most important asset is our relationship with you. We want you to feel comfortable and confident when using our Web site. Therefore, we would like to share with you the following principles that govern our information practices and other privacy aspects of our Web site. This privacy statement defines privacy aspects specific to MyCorporation.com. Throughout this policy, we refer to information that personally identifies you as "personal information."
 
 #### We protect your information
 
@@ -13,7 +13,7 @@ We work to protect your personal information from loss, misuse or unauthorized a
 When we ask you for information, we will tell you, or it will be clear, what we need to know to fulfill your request and how the information you provide us will be used. For example, if you request a service from us, we will ask you for your name and contact information such as, mailing address, phone number, and e-mail address. In addition to responding to your request, we may use your contact information to tell you about products or services we think might interest you or to invite you to participate in a product or service-related survey. Because of the financial nature of our business, our Web sites are not designed to appeal to children under the age of 13. We do not knowingly request or receive any information from children.
 
   * We do not sell or rent your personal information to anyone.
-  * We do not share your personal information with anyone outside of Intuit for their promo
+  * We do not share your personal information with anyone outside of MyCorporation for their promo
 
 
 
