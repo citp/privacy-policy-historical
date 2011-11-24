@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imarketersclub.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417230750id_/http%3A//www.imarketersclub.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imarketersclub.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124025546id_/http%3A//www.imarketersclub.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
