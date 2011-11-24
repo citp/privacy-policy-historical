@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bbbs.org privacy policy that was archived on 2011-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110413162815id_/http%3A//www.bbbs.org/site/c.9iILI3NGKhK6F/b.5960971/k.D130/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbbs.org privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124011804id_/http%3A//www.bbbs.org/site/c.9iILI3NGKhK6F/b.5960971/k.D130/Privacy.htm) for the most accurate reproduction.*
 
-# Privacy - Big Brothers Big Sisters - NEW
+# Privacy - Big Brothers Big Sisters
 
 ## Privacy Notice Effective Date: May 1, 2006
 
