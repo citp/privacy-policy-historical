@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the partstree.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519073057id_/http%3A//www.partstree.com/resources/%3Fc%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partstree.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124010412id_/http%3A//www.partstree.com/resources/%3Fc%3Dprivacy) for the most accurate reproduction.*
 
-# Partstree.com Resources
+# PartsTree.com Resources
 
   
 
@@ -11,7 +11,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 ### Information Collected
 
-This notice applies to all information collected or submitted on the Partstree.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on the PartsTree.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
 > Name  
 >  Address  
@@ -44,7 +44,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 ### How You Can Access or Correct Your Information
 
-You can access all your personally identifiable information that we collect online and maintain by Partstree.com. We use this procedure to better safeguard your information.
+You can access all your personally identifiable information that we collect online and maintain by PartsTree.com. We use this procedure to better safeguard your information.
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error.
 
