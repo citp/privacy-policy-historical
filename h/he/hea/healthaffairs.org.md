@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthaffairs.org privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611191035id_/http%3A//www.healthaffairs.org/1540_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthaffairs.org privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124025153id_/http%3A//www.healthaffairs.org/1540_privacy_policy.php) for the most accurate reproduction.*
 
 # Health Affairs
 
@@ -26,7 +26,7 @@ We **do not release** any information about your use of our site, including your
 
 **How To Stop Receiving Information From Us**
 
-You may choose at any time to stop receiving offer information from us about content or services. You [Contact Us](https://web.archive.org/web/20110611191035id_/http%3A//www.healthaffairs.org/1610_contact.php) to stop receiving information from us, or: 
+You may choose at any time to stop receiving offer information from us about content or services. You [Contact Us](https://web.archive.org/web/20111124025153id_/http%3A//www.healthaffairs.org/1610_contact.php) to stop receiving information from us, or: 
 
    •Call Customer Service & Fulfillment at 301-656-7401, ext. 900, or fax your request to 301-654-2845,   
     Attn: Judie Tucker 
