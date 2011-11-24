@@ -1,12 +1,28 @@
-<!--The following is the downloaded HTML source of the hbosouthasia.com privacy policy that was archived on 2011-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110525224352id_/http%3A//hbosouthasia.com/terms/Privacy-Policy-18) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hbosouthasia.com privacy policy that was archived on 2011-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124024656id_/http%3A//www.hbosouthasia.com/terms/Privacy-Policy-18) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Welcome to HBO Asia</title>
 
 
-<base href="http://www.hbosouthasia.com/system/application/views/"><link rel="stylesheet" type="text/css" href="website/inc/english/layout.css"><link rel="stylesheet" type="text/css" href="website/inc/english/main.css"><link rel="stylesheet" type="text/css" href="website/inc/english/thickbox.css"><link rel="stylesheet" type="text/css" href="website/inc/english/select2css.css"><link rel="stylesheet" type="text/css" href="website/inc/english/jquery.ui.all.css"><link rel="stylesheet" type="text/css" href="website/inc/english/hbo.css"><script language="javascript" src="website/inc/jquery-1.3.2.js"></script><script language="javascript" src="website/inc/jquery.corner.js"></script><script language="javascript" src="website/inc/thickbox.js"></script><script language="javascript" src="website/inc/english/main.js"></script><script language="javascript" src="website/inc/jquery.ui.core.min.js"></script><script language="javascript" src="website/inc/jquery.ui.datepicker.min.js"></script><script language="javascript" src="includes/playerlitepro/js/swfobject.js"></script>
+<base href="http://www.hbosouthasia.com/system/application/views/"><link rel="stylesheet" type="text/css" href="website/inc/english/layout.css"><link rel="stylesheet" type="text/css" href="website/inc/english/main.css"><link rel="stylesheet" type="text/css" href="website/inc/english/thickbox.css"><link rel="stylesheet" type="text/css" href="website/inc/english/select2css.css"><link rel="stylesheet" type="text/css" href="website/inc/english/jquery.ui.all.css"><link rel="stylesheet" type="text/css" href="website/inc/english/hbo.css"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" src="website/inc/jquery-1.3.2.js"></script><script language="javascript" src="website/inc/jquery.corner.js"></script><script language="javascript" src="website/inc/thickbox.js"></script><script language="javascript" src="website/inc/english/main.js"></script><script language="javascript" src="website/inc/jquery.ui.core.min.js"></script><script language="javascript" src="website/inc/jquery.ui.datepicker.min.js"></script><script language="javascript" src="includes/playerlitepro/js/swfobject.js"></script>
+<script type="text/javascript">
+
+
+  var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-26929501-1']);
+  _gaq.push(['_setDomainName', 'hbosouthasia.com']);
+    _gaq.push(['_trackPageview']);
+
+  (function() {
+
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script> 
+
 <base href="http://www.hbosouthasia.com/system/application/views/"><script language="javascript" src="admin/validate_form.js"></script><style>
 .error_field{
 	background-color: #FFCCCC;
@@ -259,21 +275,32 @@ function banner_overlay(URL){
 
 //$(function() {
 	var screen_l = $('#banner_content').offset().left + 10;
-	var screen_t = $('#banner_content').offset().top - 250;
+	var h = $(window).height();
+
 	//alert(screen_l + " | "+ screen_t);
 
 	var iframe = document.createElement('iframe');
 	iframe.id = 'pop_iframe';
-	iframe.style.overflow = 'hidden';
-	iframe.style.height = '680px';
+	iframe.style.overflow = 'auto';
+	if(h - 100 >= 700)
+	{
+		iframe.style.height = '700px';
+		var screen_t = (h - 700)/2;
+	}
+	else
+	{
+		iframe.style.height = (h-100)+'px';
+		var screen_t = (h - h + 100)/2;
+	}
 	iframe.style.width = '980px';
-	iframe.style.border = '';
+	iframe.style.border = 'none';
 	iframe.style.position = 'absolute';
 	iframe.style.display = 'none';
 	iframe.style.zIndex = '900';
 	iframe.style.top = screen_t + 'px';
 	iframe.style.left = screen_l + 'px';
 	iframe.allowTransparency = 'true';
+	iframe.setAttribute('frameborder', '0', 0);
 
 	iframe.src = URL;
 
@@ -284,23 +311,32 @@ function banner_overlay(URL){
 	}else{
 		$('body').append('<div id="banner_over" style="background:url(im/thickbox_overlay_bg.png) repeat; position:fixed; width:100%; height:100%; z-index:500; top:0; left:0;"></div>');
 		$("#banner_over").append(iframe);
+
 		setCookie('user_id', 'banner_pop', 1);
 
-		$("#pop_iframe").css({width: '0'});
+		$("#pop_iframe").css({width: '980'});
 
 		if (iframe.attachEvent){
 	   		iframe.attachEvent("onload", function(){
 				$("#pop_iframe").css({display: 'block'});
-				$("#pop_iframe").animate({width: '980'}, 1500);
+
+				$("#banner_over").append('<div style="position:absolute; left: '+ (screen_l+900) +'px; top: '+ (screen_t -20) +'px;"><a href="javascript:void(0)" id="close_button" style="font-size:14px;">Close</a></div>');
+				//$("#pop_iframe").animate({width: '980'}, 1500);
 			});
 		} else {
 			iframe.onload = function(){
 				$("#pop_iframe").css({display: 'block'});
-				$("#pop_iframe").animate({width: '980'}, 1500);
+
+				$("#banner_over").append('<div style="position:absolute; left: '+ (screen_l+900) +'px; top: '+ (screen_t -20) +'px;"><a href="javascript:void(0)" id="close_button" style="font-size:14px;">Close</a></div>');
+				//$("#pop_iframe").animate({width: '980'}, 1500);
 			};
 		}
 	}
 
+	$("#close_button").bind("click", function() {
+		$("#banner_over").remove();
+		return false;
+	});
 	$("#banner_over").click(function() {
 		$(this).remove();
 	});
@@ -364,11 +400,11 @@ function banner_overlay(URL){
 				                            				                            			                            				                            					                            						                            		<li><a href="#" onclick="change_country(13,'',3);return false;">India</a></li>
 				                            				                            			                            				                            					                            						                            		<li><a href="#" onclick="change_country(17,'',3);return false;">Maldives</a></li>
 				                            				                            			                            				                            					                            						                            		<li><a href="#" onclick="change_country(24,'',3);return false;">Pakistan</a></li>
-				                            				                            			                            		                            											
+				                            				                            			                            		                            		
 									<!-- shaorui | 2011-02-18 | hbaasia in hbosouthasia -->
-										
+
 																			<!-- shaorui | 2011-03-22 | #459 -->
-																			
+										
 										<li><a href="http://www.hboasia.com/homepage/index/4">HBO Asia</a></li>
 									                            	</ul></td>
                             	                                	<!--<li><a href="#">Bangladesh</a></li>
@@ -409,7 +445,7 @@ function banner_overlay(URL){
                 <!-- start left current logo -->
                 <div id="logo_show_new">
                 	<div class="logo_top_new"></div>
-                	<div class="lolo_position" style="height:100px;">
+                	<div class="lolo_position" style="height:auto;">
                     	                		                    	<a style="display:block;" href="http://www.hbosouthasia.com/home"><div class="current_logo"></div></a><!-- show current logo -->
                     	                    </div>
                 </div>
@@ -714,8 +750,7 @@ function getPopularMovieListingRightData(){
                         	<img src="website/im/english/link_f.png"><a href="http://www.facebook.com/HBOIndia?ref=ts" target="_blank">Visit us on Facebook</a>
                             <br>
                             <img src="website/im/english/link_t.png"><a href="http://twitter.com/hboindia" target="_blank">Tweet with us on Twitter</a>
-                            <br>
-                            
+
                                                     </div>
                         <!--end outside site links-->
 
