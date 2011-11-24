@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the stockshifters.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102142120id_/http%3A//www.stockshifters.com/%3Ftype%3Dpage%26cid%3Dprivacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockshifters.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124113512id_/http%3A//about.stockshifters.com/privacy-and-security) for the most accurate reproduction.*
 
-# 
+# Stockshifters | Privacy & Security
 
 Privacy & Security
 
-We take security and privacy policy issues seriously, and each of us is notified to the Office of the Information Commissioner as a data controller for the purposes of the Data Protection Act 1998. The following policy sets out how we collect and use personal and other data through Stockshifters.com (the 'Website').
+Privacy & Security
+
+We take security and privacy policy issues seriously, and each of us is notified to the Office of the Information Commissioner as a data controller for the purposes of the Data Protection Act 1998. The following policy sets out how we collect and use personal and other data through Stockshifters.com (the ‘Website’).
 
 Top
 
@@ -12,11 +14,11 @@ General use of the Website
 
 We shall not ask you to supply any personal data as a condition of your use of the Website. We will only ask for personal data if you choose to purchase products advertised on the Website, where it is necessary for you to provide your name, billing and delivery address(es), contact and payment details.
 
-We may use cookies whilst you use the Website to monitor your use of the Website. This will enable us to improve the information we present to you. Use of a cookie is not linked to any personal identifying information, and once you close your browser, the cookie terminates. We will also use your Internet protocol ("IP") address to analyse usage trends on the Website and to administer it. Again, IP addresses are not linked to personally identifiable information. If you do not wish to permit us to use cookies, you are free at any time to disable the use of cookies by means of your Internet browser software. Please note, however, that disabling cookies will affect certain functions of the Website, including the ordering and payment functions. While you will continue to be able to browse the Website, unfortunately you will not be able to make purchases on the Website.
+We may use cookies whilst you use the Website to monitor your use of the Website. This will enable us to improve the information we present to you. Use of a cookie is not linked to any personal identifying information, and once you close your browser, the cookie terminates. We will also use your Internet protocol (“IP”) address to analyse usage trends on the Website and to administer it. Again, IP addresses are not linked to personally identifiable information. If you do not wish to permit us to use cookies, you are free at any time to disable the use of cookies by means of your Internet browser software. Please note, however, that disabling cookies will affect certain functions of the Website, including the ordering and payment functions. While you will continue to be able to browse the Website, unfortunately you will not be able to make purchases on the Website.
 
 Top
 
-Use of registered users' data
+Use of registered users’ data
 
 If you are a registered user of the Website, we shall use that profile in order to set permissions for your use of the Website and to provide you with the information services you request as part of the registration process. Your registered user name may also be used to identify all messages, posts or other interactive content you submit to the Website.
 
@@ -26,7 +28,7 @@ Top
 
 Personal data
 
-To enable us to register you for use of the Website (and to create your personal profile) and accept your orders on the Website, we need to collect and use personal data about you (your "Personal Information"). The Personal Information is all the information requested on any online order form.
+To enable us to register you for use of the Website (and to create your personal profile) and accept your orders on the Website, we need to collect and use personal data about you (your “Personal Information”). The Personal Information is all the information requested on any online order form.
 
 We shall keep your Personal Information secure and confidential, and in accordance with this Security and Privacy Policy. We warrant that any party under our control processing personal data holds and will maintain a notification with the Information Commissioner under the Data Protection Act 1998, as amended or re-enacted form time to time, for all processing of your Personal Information. We shall not disclose or share your Personal Information to or with any third party without your consent, other than disclosure to each of us and our payment agent for the purpose of facilitating payments and to other trusted third parties for their and our provision of information that we and they consider that you may find interesting, where you have given us permission to do so.
 
