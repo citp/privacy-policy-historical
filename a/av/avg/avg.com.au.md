@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avg.com.au privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921134645id_/http%3A//www.avg.com.au/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avg.com.au privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124020534id_/http%3A//www.avg.com.au/site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AVG Australia & New Zealand
 
@@ -29,6 +29,12 @@ AVG collects personal information when you complete one of the following actions
 ## Use of cookies
 
 The AVG web sites may from time to time use cookies. A cookie is a piece of text that is saved to your browser by a web site to enable that website to save certain information to your machine so that it can later be retrieved. We do not use cookies to collect personal information about you. While you may set your browser to not accept cookies from the AVG web sites, some functions of the web sites may not be available when cookies are not accepted.
+
+  * Third party vendors, including Google, show your ads on sites on the internet.
+  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. 
+  * Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively you can point users to opt out of a third party vendor's use of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).)
+
+
 
 ## How we manage personal information
 
