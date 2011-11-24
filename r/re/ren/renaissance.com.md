@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renaissance.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628064710id_/http%3A//info.lycos.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renaissance.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124053429id_/http%3A//info.lycos.com/privacy.php) for the most accurate reproduction.*
 
 # Lycos Info - Lycos Network Privacy Policy
 
