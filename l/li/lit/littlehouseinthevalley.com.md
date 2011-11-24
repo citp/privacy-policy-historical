@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the littlehouseinthevalley.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409044510id_/http%3A//www.littlehouseinthevalley.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlehouseinthevalley.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124022533id_/http%3A//www.littlehouseinthevalley.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Little House in the Valley
+# Little House in the Valley - Saving with a Plan
 
 The privacy of my visitors to [**LittleHouseintheValley.com**](http://www.littlehouseinthevalley.com/) is important to me.
 
@@ -21,5 +21,3 @@ You can chose to disable or selectively turn off my cookies or third-party cooki
 AdSense Privacy Policy Provided by [JenSense](http://www.jensense.com/)
 
 _But the playful, yet somewhat sarcastic, comments are provided by me._
-
-[](http://twitter.com/home/?status=Privacy+Policy+http://y2w37.th8.us "Post to Twitter")
