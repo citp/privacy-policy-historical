@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paisabazaar.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507043842id_/http%3A//www.paisabazaar.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paisabazaar.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124071811id_/http%3A//paisabazaar.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy – Compare Health Insurance Online, Insurance Broker India
 
