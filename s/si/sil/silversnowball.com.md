@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silversnowball.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224152947id_/http%3A//silversnowball.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silversnowball.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124075153id_/http%3A//silversnowball.com/cgi-bin/d.cgi/1/privacy.htm) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -287,6 +287,6 @@ any contractual or other legal rights in or on behalf of any
 
 party.
 
-[Back to Silversnowball](http://silversnowball.com/order.htm)
+[Back to Silversnowball](http://silversnowball.com/cgi-bin/d.cgi/1/order.htm)
 
-[Home](http://silversnowball.com/order.htm) | [FAQs](http://silversnowball.com/faq.htm) | [Privacy Policy](http://silversnowball.com/privacy.htm) | [Terms Of Use](http://silversnowball.com/terms.htm) | [Testimonials](http://silversnowball.com/testimonials.htm)  | [Contact](http://silversnowball.com/contact.htm)
+[Home](http://silversnowball.com/cgi-bin/d.cgi/1/order.htm) | [FAQs](http://silversnowball.com/cgi-bin/d.cgi/1/faq.htm) | [Privacy Policy](http://silversnowball.com/cgi-bin/d.cgi/1/privacy.htm) | [Terms Of Use](http://silversnowball.com/cgi-bin/d.cgi/1/terms.htm) | [Testimonials](http://silversnowball.com/cgi-bin/d.cgi/1/testimonials.htm)  | [Contact](http://silversnowball.com/cgi-bin/d.cgi/1/contact.htm)
