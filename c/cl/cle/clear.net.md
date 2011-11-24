@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clear.net privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310125108id_/http%3A//www.clear.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clear.net privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124012350id_/http%3A//www.clear.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Clear.com
+# Privacy Policy | CLEAR.com
 
 CLEAR is committed to protecting your privacy. Please read this privacy policy statement carefully so that you understand what kind of information we may gather about you, how we may use that information, whether we may disclose it to anyone, and the choices you have regarding our use of the information and your ability to correct the information. We will not trade, sell, or disclose to any third party any form of personally identifiable information without your consent, including information derived from registration, subscription, and use of the CLEAR service, except as stated below. This policy applies only to CLEAR, and not to other companies’ or organizations’ Web sites to which we link.
 
@@ -119,7 +119,7 @@ Personal information collected on this site may be stored and processed in the U
 
 If we decide to change our privacy policy, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. By continuing to use CLEAR after we post any changes, you accept and agree to this privacy statement, as modified. Of course, our use of information gathered while the current privacy statement is in effect will be consistent with the current statement, even if we change that statement later.
 
-© 2011 Clear Wireless LLC. All rights reserved.
+© 2011 CLEAR Wireless LLC. All rights reserved.
 
 _Last updated: November 01, 2009_  
 
