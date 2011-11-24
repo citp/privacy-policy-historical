@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bagsok.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630094710id_/http%3A//www.bagsok.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagsok.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124014946id_/http%3A//www.bagsok.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - BagsOK: Fashion Handbags, Discount Leather Bags Online Shop
 
