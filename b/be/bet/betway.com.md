@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the betway.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623122524id_/http%3A//betway.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betway.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124012208id_/http%3A//betway.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Betway Online Casino and Betting :: Privacy Policy
 
 This site is operated by Sailboats Limited and Gnuf Limited (our “Site”). We have created this privacy policy (“Privacy Policy”) to outline our firm commitment to your privacy. Our policy is based on the Data Protection Act of Malta and the principles held within such law. It will also inform you of type of Personal Data we process when you use our Site, why we process this Data and how we use this Data.
 
-By using [www.betway.com](https://web.archive.org/web/20110623122524id_/http%3A//betway.com/help/you) acknowledge and accept both the terms and conditions of this privacy policy and the purposes and methods of processing for which your Personal Data is collected.
+By using [www.betway.com](https://web.archive.org/web/20111124012208id_/http%3A//betway.com/help/you) acknowledge and accept both the terms and conditions of this privacy policy and the purposes and methods of processing for which your Personal Data is collected.
 
 ## How your Personal Data is stored and used
 
