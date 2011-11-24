@@ -1,40 +1,146 @@
-> *The following text is extracted and transformed from the praxisnow.com privacy policy that was archived on 2008-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080612102351id_/http%3A//verio.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the praxisnow.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124172850id_/http%3A//www.praxisnow.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - PraxisNow
 
-In the course of serving its customers, Verio acquires, stores and transmits customer communications and information that customers may regard as private or sensitive. Some of this information - such as the customer's name, address, telephone number, and credit card data - is provided to Verio by its customers in order to establish service. Other information - such as the customer's account status, choice of services, and customer logs - is created and maintained by Verio in the normal course of providing service. Verio also uses cookies, which are small pieces of information that a web site can store in a designated file on a user's computer for various reasons. For example, Verio uses cookies on the landing pages of products sold online which record the customer information that is required on the order form. This information is then forwarded to an internal sales tracking database within Verio. In addition, Verio may store customers' electronic mail and other communications as a necessary incident to the transmission and delivery of those communications. 
+Last Update: September 8, 2011
 
-This Privacy Policy applies only to Verio's treatment of data collected online, and does not apply to any offline data collection practices or to the data collection practices of any third parties, Verio customers, or any entities affiliated with Verio. Also, please note that use of Verio's website constitutes acceptance of this Privacy Policy. 
+Praxis Now, LLC ("we" or "us" or "Praxis") has established this Privacy Policy  
+to explain how it protects and manages the personal information that it collects from you online.
 
-Verio's policies and procedures for handling customer information have been created with the understanding that Internet technologies are still evolving and that Internet business methods are continuing to evolve to meet the needs and opportunities of the changing technologies. As a result, Verio's policies and procedures are subject to change. Changes will be posted to the website and use of Verio�s website will constitute acceptance of and agreement to be bound by those changes. 
+1\. Consent for Collection, Use and Disclosure
 
-**Data Security**
+Your use of the www.PraxisNow.com website ("Website") and/or your registration for Website products  
+and services constitute your consent to the terms of this Privacy Policy. If you do not agree to the terms  
+of this Privacy Policy, please do not use the Website or services.
 
-Verio protects the confidentiality of its customers' information, account information and personal communications. To secure the information collected online, prevent unauthorized access, maintain data accuracy and ensure only appropriate use of information that is collected from customers, Verio has implemented appropriate physical, electronic, and managerial procedures. Further, Verio requires that employees keep customer information confidential. Verio cautions its customers and website visitors that no medium of communication, including the Internet, is entirely secure. Accordingly, Verio cannot be responsible for loss, corruption or unauthorized acquisition and use of personal information provided to our website, or for any damages resulting from such loss, corruption, unauthorized acquisition or unauthorized use. 
+We may occasionally update this Privacy Policy. When it does, we will also revise the "last update"  
+date at the top of this Privacy Policy. Praxis may make new uses or disclosures of information collected from users,  
+such as in connection with an investigation of a breach of an agreement, contravention of laws, an emergency where the  
+life, health or security of an individual is threatened, the collection of a debt or in compliance with the request  
+of a law enforcement agency or a court order, and in such circumstances, this Website will not inform and obtain the  
+consent of the user prior to such change.
 
-**How is customer information used?**
+A user may withdraw his or her consent for collection, use and disclosure at any time by sending an email to unsubscribe.  
+Please note that, if you do, this Website may suspend its provision of products and services to you.
 
-Verio may share customer information with selected partners, for example, to provide customers with information about products which might be of interest to the customer or to enable the customer to take advantage of special partner programs. Verio may also use customer information to provide its customers with system information or information about new or upgraded products. In addition, Verio may collect and share non personally identifiable information (such as website usage information) from visitors to its web sites with third-party companies for various purposes such as statistical analysis, performance optimization and promotional uses. In the case of a business transaction, including but not limited to, a merger or sale of a portion of Verio's assets, customer information will likely be part of the assets transferred. In this event, Verio will attempt to notify impacted customers that their information has been transferred. 
+2\. Accountability
 
-**Opt Out & Modifications **
+Praxis collects certain "personal information" (information that personally identifies you) which may include,  
+but is not limited to, your name, email address, home or work address, telephone number, and information about your  
+computer hardware and software (e.g., IP address, operating system, browser type, domain name, URL, access times, and  
+referring web site addresses).
 
-Customers may opt out of receiving notices of new or upgraded products from Verio and Verio partners by filling out this on-line [No Solicitation Request](https://web.archive.org/web/20080612102351id_/http://www.verio.com/about/legal/privacy/optout.cfm) form. However, customers may not opt out of receiving information from Verio that is essential for maintaining or updating customers' accounts or system information. 
+We have implemented this Privacy Policy to protect personal information received from its users, and to respond to any  
+inquiries. The Privacy Policy also provides that we will use appropriate contractual means to establish a comparable level  
+of protection for personal information which is sent for processing by third parties on our behalf.
 
-Most customers may access and modify their personal information via their online personal control panel/account information page. All other customers may access and modify their personal information by contacting the appropriate Verio Billing organization. 
+Praxis has designated responsibility for your personal information to its operations manager, Rebecca London, who ensures  
+compliance with the principles in this Privacy Policy. Other Praxis individuals may be delegated to act on behalf of the  
+operations manager.
 
-Domain name customers who have registered a domain name with Verio and wish to change the Technical Contact from Verio to another company, may send a request to [veriohostmaster@verio.net](mailto:veriohostmaster@verio.net). It is important to note that customer domain name registration information is made publicly available in the registry of domain names. 
+3\. Purposes for Collecting Personal Information
 
-**Disclosure of customer information and communications**
+Praxis collects and uses personal information for the following Identified Purposes:
 
-Verio will not otherwise disclose its customers' personal and account information unless Verio has reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone who may be causing harm or interfering with the rights or property of Verio, Verio's customers, or others, or where Verio has a good faith belief that the law requires such disclosure such as in response to legal process seeking disclosure of such information. Verio also will not, except for reasons stated below, disclose to third parties the contents of any electronic mail or other electronic communications that Verio stores or transmits for its customers. The circumstances under which Verio will disclose such electronic customer communications are when: 
+(a) to understand user needs regarding Website services;
 
-  1. it is necessary in order to provide service to the customer; 
-  2. it is necessary to protect the legitimate interests of Verio and its customers; 
-  3. it is required to cooperate with interception orders, warrants, or other legal process that Verio determines in its sole discretion to be valid and enforceable; and 
-  4. it is necessary to provide to a law enforcement agency when the contents are inadvertently obtained by Verio and appear to pertain to the commission of a crime. 
+(b) to develop and provide our website and our products and services for our users;
 
+(c) to fulfill your requests for products, services or information;
 
+(d) to communicate with users and site visitors, when necessary, and to inform users of upgrades, as well  
+as of other products and services available from Praxis, its affiliates and third parties;
 
-Verio disclaims any intention to censor, edit or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. Verio, however, review, delete or block access to communications that may harm Verio, its customers or third parties. The grounds on which Verio may take such action include, but are not limited to, actual or potential violations of Verio's [Acceptable Use Policy](http://dev.portal.verio.com/about/legal/aup.cfm). 
+(e) to allow users to access limited-entry areas of the Website;
 
-Last revised June 2007 
+(f) to personalize some of our services and products for you and to deliver targeted advertisements and  
+offers from the Website and third parties;
+
+(g) to bill accounts and maintain payment records;
+
+(h) to comply with any applicable law, regulation, legal process or government request;
+
+(i) to respond to a legitimate claim, or to address our reasonable belief, that you are violating the rights  
+of any third party or any of the agreements or policies that govern your use of the Website or any product  
+or service on the Website;
+
+(j) to protect the services, products, information, or rights of the Website, including but not limited to  
+the security or integrity of the site; and
+
+(k) to identify and resolve technical problems concerning the Website, its information, products and services.
+
+The Website also uses personal information in an aggregate form (i.e., not individually attributable to you)  
+for its business analysis, operational, marketing and other promotional purposes.
+
+If we hire other companies to provide some products or services on our behalf, then we will only provide  
+those companies the personal information they need for the Identified Purposes, and we will limit their  
+rights to use and further disclose your personal information as appropriate in the course of their work for us.
+
+4\. Limiting the Collection of Personal Information
+
+Praxis limits its collection of personal information to only that information which is necessary for the  
+Identified Purposes. Praxis does not direct its site to, nor does it knowingly collect any personal information  
+from children under the age of thirteen.
+
+When you visit the Website, a cookie may be placed on your computer or the cookie may be read if you have  
+visited the Website previously. If you choose to not have your browser accept cookies from the Website, you  
+may not be able to view all the text on the screens, or to experience a personalized visit, or to subscribe  
+to certain service and product offerings on the Website.
+
+5\. Disclosure, Processing and Retention
+
+We do not sell, rent, or disclose your personal information to anyone else, except:
+
+(a) to someone you have designated to act as your agent, for one or more of the Identified Purposes  
+(listed in Section 3, above);
+
+(b) to Praxis’ employees, independent contractors, subsidiaries, joint venturers, affiliates, consultants,  
+business associates, service providers, suppliers and agents, acting on our behalf for any of the  
+Identified Purposes;
+
+(c) as necessary if Praxis has reason to believe that disclosure is necessary to identify, contact or  
+bring legal action against someone who may be causing injury to or interference (either intentionally or  
+unintentionally) with Praxis’ rights or property, other users of the Website, products or services, or  
+anyone else that could be harmed by such activities; and
+
+(d) to respond to judicial process and provide information to law enforcement agencies or in connection with  
+an investigation on matters related to public safety, as permitted by law, or otherwise as required by law.
+
+In addition, as we continue to develop our business, we or our affiliates may sell or buy other businesses or entities,  
+or we may merge with another company. In such transactions, personal information may be one of the transferred  
+business assets. Also, in the event that Praxis or substantially all of its assets are acquired, your personal  
+information may be one of the transferred assets.
+
+Your information may be stored and processed in the United States, or in any other country in which Praxis or its  
+affiliates, subsidiaries or agents maintain facilities. By using this web site, you consent to any such transfer  
+of information outside of your country.
+
+6\. Accuracy of Personal Information
+
+We will use reasonable efforts to keep personal information accurate for the Identified Purposes, and for minimizing  
+the possibility of making inappropriate user decisions based on such information. Users are responsible for informing  
+Praxis about changes to their personal information. Praxis will use new or updated personal information it receives  
+from users to update its own records.
+
+7\. Security Safeguards
+
+Praxis will use commercially reasonable efforts to protect user’s personal information.
+
+8\. Access to Personal Information
+
+Praxis will afford you a reasonable opportunity to review the personal information in your file only, upon request  
+to the operations manager at [info@praxisnow.com](mailto:info@praxisnow.com) or by writing to:
+
+Praxis Now, LLC  
+PO Box 5020 PMB 1101  
+Rancho Santa Fe, CA 92067
+
+If Praxis is not able to provide access to some aspect of a user’s personal information, it will provide  
+reasons for denying access such as: that by doing so would likely reveal personal information about a third party,  
+or that it is confidential commercial information or attorney-client privileged communications, or that the  
+information relates to a breach of an agreement or a contravention of law, or that its disclosure could reasonably  
+be expected to threaten the life or security of another individual.
+
+Users have the right to request that inaccurate or incomplete information be amended as appropriate,  
+by contacting Praxis at [info@praxisnow.com](mailto:info@praxisnow.com). Praxis will promptly  
+correct such personal information.
