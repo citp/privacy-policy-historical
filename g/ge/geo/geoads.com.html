@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the geoads.com privacy policy that was archived on 2011-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110611033725id_/http%3A//geoads.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the geoads.com privacy policy that was archived on 2011-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124072656id_/http%3A//www.geoads.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
 
@@ -36,7 +36,7 @@
     </script>
 </head>
 <body>
-    <form name="aspnetForm" method="post" action="/privacy-policy.aspx" id="aspnetForm">
+    <form name="aspnetForm" method="post" action="privacy-policy.aspx" id="aspnetForm">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1Mg9kFgJmD2QWAgIDD2QWBGYPDxYCHgdWaXNpYmxlZ2RkAgEPDxYCHwBoZGRk">
 
     <div id="headerWrap">
@@ -50,7 +50,7 @@
                     </div>
                     <div class="clear"></div>
                     <div id="signUpType" class="loginPopup" style="width:100px;margin-left:-35px;text-align:center">
-                        <span class="green signUpLink" onclick="document.location.href='/advertiserSignUp.aspx'">Advertisers</span><br>
+                        <!--<span class="green signUpLink" onclick="document.location.href='/advertiserSignUp.aspx'">Advertisers</span><br />-->
                         <span class="red signUpLink" onclick="document.location.href='/sign-up.aspx?isaddon=1'">Developers</span><br>
                         <span class="blue signUpLink" onclick="document.location.href='/sign-up.aspx'">Publishers</span>
                     </div>
@@ -69,12 +69,12 @@
                                 <option value="3">Publisher</option>
                             </select>
                         </div>
-                        <div>User Name:<br><input type="text" id="tbUserName" name="tbUserName"></div>
-                        <div>Password:<br><input type="password" id="tbPassword" name="tbPassword"></div>
+                        <div>User Name:<br><input type="text" id="tbUserName" name="tbUserName" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('btnLogin').click();return false;}} else {return true};"></div>
+                        <div>Password:<br><input type="password" id="tbPassword" name="tbPassword" onkeydown="if(event.which || event.keyCode){if ((event.which == 13) || (event.keyCode == 13)) {document.getElementById('btnLogin').click();return false;}} else {return true};"></div>
                         <div>
                             <label style="cursor: pointer" for="cbRememberMe">Remember Me:</label>
                             <input style="width: auto" type="checkbox" id="cbRememberMe" name="cbRememberMe"><br>
-                            <input class="btn" type="button" name="btnLogin" value="Log In" onclick="doLogin()">
+                            <input class="btn" type="button" id="btnLogin" name="btnLogin" value="Log In" onclick="doLogin()">
                             <span id="loginAjaxImg"></span>
                         </div>
                         <span id="loginMsg"></span>
