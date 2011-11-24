@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neurolinker.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401080841id_/http%3A//www.neurolinker.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neurolinker.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124124700id_/http%3A//www.neurolinker.com/privacy.php) for the most accurate reproduction.*
 
 # NeuroLinker.com | Massive One Way Backlinks
 
