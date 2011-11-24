@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sport-tube.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419231002id_/http%3A//www.sport-tube.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sport-tube.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124012927id_/http%3A//sport-tube.com/privacy-policy) for the most accurate reproduction.*
 
 # Sport Tube, sport videos, sport news, sport movies, football videos, basketball videos, sport best moments
 
@@ -30,3 +30,9 @@ The Sport-tube privacy policy describes how Sport-tube treats personal informati
 
 
 Last updated: May 18th, 2010.
+
+  
+
+
+  
+
