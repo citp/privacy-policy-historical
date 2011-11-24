@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullslate.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629225348id_/http%3A//www.fullslate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullslate.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124123848id_/http%3A//www.fullslate.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy by Full Slate
 
