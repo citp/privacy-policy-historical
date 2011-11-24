@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the betphoenix.com privacy policy that was archived on 2010-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100711140158id_/http%3A//www.betphoenix.com/rules/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betphoenix.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124014036id_/http%3A//www.betphoenix.com/rules/general/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - BetPhoenix Entertainment
+# Privacy policy
 
 BetPhoenix.com is respectful to the privacy of our visitors. By reading this Online Privacy Policy carefully you will be aware of the information we gather through this Web site and understand our privacy practices. 
 
@@ -35,7 +35,7 @@ Occasionally we may provide via email address new offers, products, services and
 
 ### Updating Your Registration Profile
 
-You may contact the Member Services department or 1-888-238-8018 to update your contact information such as phone, account or e-mail preference information. For verification purposes we will require your Member Name and Password before making any changes to your profile. 
+You may contact the Member Services department or 1-877-717-7747 to update your contact information such as phone, account or e-mail preference information. For verification purposes we will require your Member Name and Password before making any changes to your profile. 
 
 ### Cookies
 
@@ -57,7 +57,7 @@ Of course, our site includes links to other Web sites, and provides access to pr
 
 The information we collect from our visitors is stored in databases we control. Physical access to the servers on which we store visitor information is restricted. We use your credit card information only to bill you for the products and services you order from us. We don't share your credit card information with anyone, except as may be necessary to process your transactions. To protect the privacy of your credit card number and other ordering information, we encrypt this information for transit over the Internet using a Secure Sockets Layer ("SSL") connection. However, as effective as modern security practices are, no physical or electronic security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted over the Internet.
 
-Most Web browsers allow use of an SSL connection. If your browser does not support use of an SSL connection, or if you prefer not to send your credit card number over the Internet, you can place your order by calling us toll free at 1-888-238-8018. 
+Most Web browsers allow use of an SSL connection. If your browser does not support use of an SSL connection, or if you prefer not to send your credit card number over the Internet, you can place your order by calling us toll free at 1-877-717-7747. 
 
 ### Disclosure of Information
 
@@ -69,7 +69,7 @@ This privacy policy adjusts to the evolving Web environment, thus is subject to 
 
 ### If you need Answers or Assistance
 
-Member Services is at your service to answer and guidance in resolving any dispute concerning this Online Privacy Policy. Please call our representatives at 1-888-238-8018 if you have questions or complains. 
+Member Services is at your service to answer and guidance in resolving any dispute concerning this Online Privacy Policy. Please call our representatives at 1-877-717-7747 if you have questions or complains. 
 
 ### Mobile Phone Numbers
 
