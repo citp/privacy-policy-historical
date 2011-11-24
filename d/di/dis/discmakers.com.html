@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the discmakers.com privacy policy that was archived on 2011-05-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110524153257id_/http%3A//www.discmakers.com/community/about/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the discmakers.com privacy policy that was archived on 2011-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124184239id_/http%3A//www.discmakers.com/community/about/Privacy.asp) for the most accurate reproduction.-->
 
-<html><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
 function Set_Cookie(name,value, path,expires,domain,secure) 
 {
 	document.cookie = name + "=" +escape(value) +
@@ -82,37 +82,64 @@ function setInForm(frm, elemName, elemValue)
 
 	for (i=0;i<frm.elements.length;i++)
 	{
-		if (elemName.toUpperCase() == frm.elements[i].name.toUpperCase())
+		if(frm.elements[i].name > "")
 		{
-			frm.elements[i].value = elemValue;
-		}
+			if (elemName.toUpperCase() == frm.elements[i].name.toUpperCase())
+			{
+				frm.elements[i].value = elemValue;
+			}
+		}//if undefined
 	}
 }	
 </script>
 
 
 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Disc Makers Privacy Policy</title>
-	
+
 <meta name="description" content="Protecting your privacy is important to Disc Makers. Here is how Disc Makers collects, uses, and safeguards the personal information you provide on our Web site:">
 
 <meta name="keywords" content="privacy policy, privacy, disc makers privacy policy, about disc makers, disc makers">
 
 <meta name="robots" content="index,follow">
+<link href="../../styles/styles.css" rel="stylesheet" type="text/css">
 
-<link href="/dmstyles2008.css" rel="stylesheet" type="text/css">
 
-<script src="/discmakers.js">
+<script language="JavaScript" type="text/javascript" src="/discmakers.js"></script>
+<script language="JavaScript" type="text/javascript" src="/JQueryScripts/jquery.js"></script>
+<script language="JavaScript" type="text/javascript" src="/JQueryScripts/jquery.getParams.js"></script>
+<script language="JavaScript" type="text/javascript" src="/jQueryScripts/jquery.kjModal.js"></script>
+<script language="JavaScript" type="text/javascript" src="/JQueryScripts/jquery.dmnav.js"></script>
+<script type="text/javascript" language="JavaScript">
+$(function(){
+	$('.left-nav').dmnav({curpage:'Promo_Materials_title'});
+	$('#banner-client-promo').click( function() {
+		$('#toggleContainer').slideToggle('slow');
+	});
+});
 </script>
-
+<script type="text/javascript" language="JavaScript">
+	var mySpeed = 1400;
+	function toggleDisplay(elem)
+	{
+		if (elem.style.display == "block") { $(elem).slideUp(mySpeed); }
+		else { $(elem).slideDown(mySpeed); }
+	}
+</script>
 <style type="text/css">
-A:link { TEXT-DECORATION: none }
-A:visited { TEXT-DECORATION: none }
-A:hover { TEXT-DECORATION: underline }
-.style1 {font-size: 12px; line-height: 20px; font-weight: normal; font-family: Arial, Helvetica, sans-serif;}
+#main-offer {
+	width:725px;
+	background-image:url(/images/community/resources/soundscan.jpg);
+	background-repeat:no-repeat;
+	height:317px;
+	border:solid 1px #CCC;
+}
+#ContentContainer p {
+	margin-bottom:15px;
+}
 </style>
-
-<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><!-- Google Analytics -->
+<!-- Google Analytics -->
 <script type="text/javascript">
  
   var _gaq = _gaq || [];
@@ -126,12 +153,86 @@ A:hover { TEXT-DECORATION: underline }
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
  
+</script><!-- Google Ad Zones -->
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
+<script type="text/javascript">
+GS_googleAddAdSenseService("ca-pub-2128634304424420");
+GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_prod_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_prod_bluray_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_prod_bulk_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_prod_bundles_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_prod_carddiscs_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_prod_digi_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_prod_dvd_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_prod_dvdigipaks_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_prod_ecowallets_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_prod_jackets_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_prod_jewel_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_prod_mailing_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_prod_multidisc_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_prod_odp_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_prod_otherboard_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_prod_preparing_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_prod_promo_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_prod_upgrades_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_prod_turntimes_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_services_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_templates_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_dup_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_dup_auto_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_dup_auto_bluray_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_dup_auto_bravo_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_dup_auto_bravoblu_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_dup_auto_DP_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_dup_auto_Forte_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_dup_auto_forteblu_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_dup_auto_MFDS_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_dup_auto_MFDSblu_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_dup_auto_nexis_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_dup_auto_primerasoft_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_dup_bluraydrives_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_dup_bundles_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_dup_man_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_dup_man_bluray_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_dup_man_reflex_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_dup_man_reflexblu_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_dup_printers_728x90_ip_F");
+GA_googleAddSlot("ca-pub-2128634304424420", "dm_dup_usb_728x90_ip_F");
+</script>
+<script type="text/javascript">
+GA_googleFetchAds();
+</script>
+
+
 </head>
 
-<body bgcolor="#313847" link="ED8707" vlink="ED8707" alink="ED8707" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('/images/navigation/TopNav1_f2.gif','/images/navigation/TopNav2_f2.gif','/images/navigation/TopNav3_f2.gif','/images/navigation/TopNav4_f2.gif','/images/navigation/TopNav5_f2.gif','/images/navigation/Nav1_f2.gif','/images/navigation/Nav2_f2.gif','/images/navigation/Nav3_f2.gif','/images/navigation/Nav4_f2.gif','/images/navigation/Nav5_f2.gif','/images/navigation/Nav6_f2.gif','/images/navigation/Nav7_f2.gif');">
+<body>
+<!-- Google Code for Entire Site Remarketing List -->
+<script type="text/javascript">
+<!--
+var google_conversion_id = 1072681070;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "738iCIGpqwEQ7qC__wM";
+var google_conversion_value = 0;
+//-->
+</script>
 
-<script type="text/javascript" src="/JQueryScripts/jquery.js"></script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1072681070/?label=738iCIGpqwEQ7qC__wM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+ 
+<!-- ===================================== HEADER ========================================== --> 
 <script language="javascript" type="text/javascript" src="/WebSearch/Includes/jquery.gsuggest.js"></script>
 <script type="text/javascript" language="javascript">
 	jQuery(document).ready(function(){
@@ -149,6 +250,7 @@ A:hover { TEXT-DECORATION: underline }
 		jQuery.gsuggest({'debug':true,'url':'/WebSearch/Suggest.aspx'});
 	});
 </script>
+
 <script type="text/javascript">
 if(document.location.protocol=='http:'){
  var Tynt=Tynt||[];Tynt.push('cVOwYgVbKr35V1adbi-bpO');Tynt.i={"st":true};
@@ -186,9 +288,9 @@ if(document.location.protocol=='http:'){
             <td><img src="/images/navigation/TopLinkSpacerBottom.gif" alt="" width="443" height="17" border="0"></td>
           </tr>
         </tbody></table></td>
-        <td align="right" bgcolor="#313847">  <form action="http://www.discmakers.com/websearch/search.aspx" method="get" style="margin-top:17px; ">
+        <td align="right" bgcolor="#313847">  <form action="http://www.discmakers.com/websearch/search.aspx" method="get">
             <div id="SearchContainer" style="margin:0px; width: 158px; height: 26px; background: url(/images/SearchBackground.gif);">
-                <input type="text" name="SearchTerms" id="SearchTerms" suggest="yes" value="SEARCH" style="float:left; border:0px; margin:5px 5px 0px 13px; background-color:Transparent; width:114px; color:#666; font-size:11px; font-weight:normal; font-family:Arial, Helvetica, sans-serif;" autocomplete="off" suggestpos="-1"><div id="_suggestBox" style="display: none; position: absolute; z-index: 1; text-align: left; background-color: rgb(255, 255, 255); border: 1px solid rgb(0, 0, 0); margin: 0px; font-size: 12px; font-family: Arial, Helvetica, sans-serif; cursor: pointer; color: rgb(49, 56, 71); padding: 0px; width: 114px; left: 1028px; top: 41px;"></div>
+                <input type="text" name="SearchTerms" id="SearchTerms" suggest="yes" value="SEARCH" style="float:left; border:0px; margin:5px 5px 0px 13px; background-color:Transparent; width:114px; color:#666; font-size:11px; font-weight:normal; font-family:Arial, Helvetica, sans-serif;">
                 <input type="image" name="image" id="btnImage" src="/images/SearchGoButton.gif" style="float:left; margin:5px 0px 0px 2px;">
             </div>
          </form></td>
@@ -206,7 +308,7 @@ if(document.location.protocol=='http:'){
         <td><img src="/images/navigation/Bullet1.gif" alt="" width="33" height="44" border="0"></td>
         <td><a href="/duplicators/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav5','','/images/navigation/Nav5_f2.gif',1);"><img src="/images/navigation/Nav5.gif" alt="Blank Media, Duplicators, and Supplies" name="Nav5" width="267" height="44" border="0" id="Nav5"></a></td>
         <td><img src="/images/navigation/Bullet1.gif" alt="" width="33" height="44" border="0"></td>
-        <td><a href="/community/"><img src="/images/navigation/Nav6_f2.gif" alt="Resources" name="Nav6" width="104" height="44" border="0" id="Nav6"></a></td>
+        <td><a href="/community/about/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav6','','/images/navigation/Nav6_f2.gif',1);"><img src="/images/navigation/Nav6.gif" alt="Resources" name="Nav6" width="104" height="44" border="0" id="Nav6"></a></td>
         <td><img src="/images/navigation/Bullet1.gif" alt="" width="33" height="44" border="0"></td>
         <td><a href="/request/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Nav7','','/images/navigation/Nav7_f2.gif',1);"><img src="/images/navigation/Nav7.gif" alt="Free Catalog and More" width="161" height="44" border="0" id="Nav7"></a></td>
       </tr>
@@ -215,160 +317,45 @@ if(document.location.protocol=='http:'){
   <tr>
     <td><img src="/images/navigation/NavBottomSpacer.gif" alt="" name="NavBottomSpacer" width="980" height="22" border="0" id="NavBottomSpacer"></td>
   </tr>
-</tbody></table><!-- SiteCatalyst code version: H.11.
-Copyright 1997-2007 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script language="JavaScript" src="//www.discmakers.com/s_code.js"></script>
-<script language="JavaScript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-s.pageName=""
-s.server=""
-s.channel=""
-/*s.pageType="" //only use this for 404 errorPage*/
-s.prop1=""
-s.prop2=""
+</tbody></table> 
 
-s.prop4=""
-/* E-commerce Variables */
-s.campaign=""
-s.state=""
-s.zip=""
-s.events=""
-s.products=""
-s.purchaseID=""
-s.eVar1=""
-s.eVar2=""
-s.eVar3=""
-s.eVar4=""
-s.eVar5=""
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.11. -->
-
-
-<table width="980" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
- 
-  <tbody><tr>
-    <td width="20%" valign="top"><link href="/dmstyles2008.css" rel="stylesheet" type="text/css">
-
-
-<table width="100%" border="0" cellspacing="0" cellpadding="10">
-  <tbody><tr>
-    <td><table width="180" border="0" cellspacing="2" cellpadding="4">
-       <tbody><tr>
-        <td><img src="/email/images/JoinOurEmailList.gif" alt="Join Our Email List" width="160" height="12"></td>
-      </tr>
-      <tr>
-        <td><table cellpadding="0" cellspacing="0" border="0" width="100%" align="center"><form method="get" action="/EmailSubscriptionManager/SubscriptionManager.aspx"></form><input type="hidden" name="newURL" value="/EmailSubscriptionManager/SubscriptionManager.aspx"><input type="hidden" name="existingURL" value="/EmailSubscriptionManager/SubscriptionManager.aspx"><tbody><tr><td bgcolor="#FFFFFF" align="left" width="80%"><input type="text" name="email" size="14" value="Enter email" onfocus="document.forms[1].email.value=''"></td><td bgcolor="#FFFFFF" align="left" width="20%"><input type="image" name="submit" src="/email/images/Join-Gray.gif" border="0"></td></tr></tbody></table></td>
-      </tr>
-      <tr>
-        <td><img src="/images/WhiteSpacer.gif" width="100" height="4"></td>
-      </tr>
-      <tr>
-        <td><img src="/images/navigation/ArrowGray.gif" width="10" height="10" border="0"><a href="/request/" class="LeftNav"><b>REQUEST INFO </b></a></td>
-      </tr>
-      <tr>
-        <td><img src="/images/GrayLine2.gif" alt="Gray Line" width="100%" height="1"></td>
-      </tr>      <tr>
-        <td><img src="/images/navigation/ArrowGray.gif" width="10" height="10" border="0"><a href="/community/partnerprogram/" class="LeftNav"><b>PARTNER PROGRAM </b></a></td>
-      </tr>
-      <tr>
-        <td><img src="/images/GrayLine2.gif" alt="Gray Line" width="100%" height="1"></td>
-      </tr>
-      <tr>
-        <td><img src="/images/navigation/ArrowGray.gif" width="10" height="10" border="0"><a href="/community/resources/" class="LeftNav"><b>ONLINE RESOURCES </b></a></td>
-      </tr>
-      <tr>
-        <td><img src="/images/GrayLine2.gif" alt="Gray Line" width="100%" height="1"></td>
-      </tr>
-      <tr>
-        <td><img src="/images/navigation/ArrowGray.gif" width="10" height="10" border="0"><a href="/community/careers/" class="LeftNav"><b>CAREERS</b></a></td>
-      </tr>
-      <tr>
-        <td><img src="/images/GrayLine2.gif" width="164" height="1"></td>
-      </tr>
-      <tr>
-        <td><img src="/images/navigation/ArrowGreen.gif" width="10" height="10" border="0"><a href="/community/about/" class="LeftNav"><b>OUR COMPANY</b></a></td>
-      </tr>
-      <tr>
-        <td><img src="/images/navigation/ArrowNone.gif" width="10" height="10" border="0"><a href="/community/about/Locations.asp" class="LeftNav">Locations &amp; Directions</a></td>
-      </tr>
-      <tr>
-        <td><img src="/images/navigation/ArrowNone.gif" width="10" height="10" border="0"><a href="/community/about/Press.asp" class="LeftNav">Press</a></td>
-      </tr>
-      <tr>
-        <td><img src="/images/navigation/ArrowNone.gif" width="10" height="10" border="0"><a href="/community/about/History.asp" class="LeftNav">Company History </a></td>
-      </tr>
-      <tr>
-        <td><img src="/images/navigation/ArrowNone.gif" width="10" height="10" border="0"><a href="/community/sustainability/" class="LeftNav">Sustainability </a></td>
-      </tr>
-      <tr>
-        <td><img src="/images/navigation/ArrowNone.gif" width="10" height="10" border="0"><a href="/community/testimonials/" class="LeftNav">Client Testimonials </a></td>
-      </tr>
-      <tr>
-        <td><img src="/images/navigation/ArrowNone.gif" width="10" height="10" border="0"><a href="/community/testimonials/Clients.asp" class="LeftNav">Client List </a></td>
-      </tr>
-      <tr>
-        <td><img src="/images/navigation/ArrowNone.gif" width="10" height="10" border="0"><a href="/community/about/FAQ.asp" class="LeftNav">Frequently Asked Questions  </a></td>
-      </tr>
-      <tr>
-        <td><img src="/images/navigation/ArrowNone.gif" width="10" height="10" border="0"><a href="/community/about/Privacy.asp" class="LeftNav">Privacy Policy  </a></td>
-      </tr>
-      <tr>
-        <td><img src="/images/navigation/ArrowNone.gif" width="10" height="10" border="0"><a href="/community/about/Terms.asp" class="LeftNav">Terms &amp; Conditions </a></td>
-      </tr>
-      <tr>
-        <td><img src="/images/GrayLine2.gif" alt="Gray Line" width="100%" height="1"></td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-</tbody></table></td>
-    <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="10">
-      <tbody><tr>
-        <td align="left"><h1>
-              </h1><table width="760" border="0" cellpadding="2" cellspacing="0">
-          <tbody><tr>
-            <td class="BodyCopy12"><font color="#666666"><b><font color="#313847" size="4">Disc Makers Privacy Policy </font></b></font></td>
-            
-          </tr>
-          <tr>
-            <td class="BodyCopy12">Protecting 
-            your privacy is important to Disc Makers. Here is how Disc Makers 
+<div id="OutsideContainer">
+  <div id="ContentContainer" class="grey12" style="text-align:left;">
+   
+        <h1 class="blue28 bold">Disc Makers Privacy Policy </h1>
+        <div class="clear20"></div>
+<p>Protecting your privacy is important to Disc Makers. Here is how Disc Makers 
             collects, uses, and safeguards the personal information you provide 
-            on our Web site:<br>
-            <br>
-            <b>Information collection</b> <br>
-When you browse Disc Makers' Web site, we do 
+            on our Web site:</p>
+            
+            <span class="blue14 bold">Information collection</span>
+            <p>When you browse Disc Makers' Web site, we do 
             not collect personal information, including your email address. We 
             do log the Internet address of your computer - your IP address - to 
             give us an idea of which parts of our Web site you visit and how long 
             you spend there. This type of information helps us to continually 
             develop our Web site to best meet your needs. We do not link your 
             IP address to anything personally identifiable, and unless you register 
-            on our site, we do not know your personal identity.<br>
-            <br>
-            Like many other Web sites, Disc Makers' Web site may use a standard 
+            on our site, we do not know your personal identity.</p>
+            
+            <p>Like many other Web sites, Disc Makers' Web site may use a standard 
             technology called an "Internet cookie." Internet cookies are small 
             files that may be placed on your hard disk for record-keeping purposes. 
-            We use cookies for two purposes:<br>
-            <br>
-1) 
-            to estimate our audience size by determining repeat usage of the Web 
-            site; and <br>
-            <br>
-2) to measure certain traffic patterns for use as a research tool 
+            We use cookies for two purposes:</p>
+
+			<p>1) to estimate our audience size by determining repeat usage of the Web 
+            site; and </p>
+<p> 2) to measure certain traffic patterns for use as a research tool 
             to understand how our users' habits are similar or different from 
             one another. We use these records help us to improve our Web site. <br>
 Please also be aware that Web sites that have links to our site may 
             collect personally identifiable information about you. The information 
             practices of those Web sites are not covered in this privacy statement. 
             We encourage you to learn about the privacy practices of those Web 
-            sites you visit. <br>
-            <br>
-            <b>Information use</b><br>
-            Once you register on our site, Disc Makers will not sell, rent, or 
+            sites you visit. </p>
+            
+            <span class="blue14 bold">Information use</span>
+            <p>Once you register on our site, Disc Makers will not sell, rent, or 
             lease your personally identifiable information to others without your 
             consent. If you provide us with your email or postal address on our 
             online registration forms, we ask you if we can use it to send you 
@@ -378,25 +365,25 @@ Please also be aware that Web sites that have links to our site may
             with other companies that offer related services. If you do not want 
             us or other companies to contact you, you can choose to "opt out" 
             and Disc Makers will not send you the information you have declined 
-            to receive. <br>
-            <br>
-Disc Makers does research on our users' demographics, interests, and 
+            to receive. </p>
+
+			<p>Disc Makers does research on our users' demographics, interests, and 
             behavior based on the information provided to us during your use of 
             the Disc Makers Web site. This research is compiled and analyzed on 
             an aggregated basis. Aggregated data does not include personally identifiable 
-            information. Disc Makers may share this aggregated data with others. <br>
-            <br>
-            <b>Declining Email offers</b><br>
-Disc Makers provides customers with an easy 
+            information. Disc Makers may share this aggregated data with others. </p>
+            
+            <span class="blue14 bold">Declining Email offers</span>
+			<p>Disc Makers provides customers with an easy 
             means to decline to receive email offers and newsletters. Although 
             most customers tell us they appreciate receiving our newsletters and 
             notice of special offers, we recognize the importance of providing 
             you with choices. At any time, you may request to discontinue receiving 
             these offers from us by emailing us at <a href="mailto:privacy@discmakers.com">privacy@discmakers.com.</a> All email offers and newsletters that you receive from Disc Makers 
-            will tell you how to decline further emails. <br>
-            <br>
-            <b>Data Security</b><br>
-To prevent unauthorized access, maintain data 
+            will tell you how to decline further emails. </p>
+            
+            <span class="blue14 bold">Data Security</span>
+			<p>To prevent unauthorized access, maintain data 
             accuracy, and ensure the appropriate use of information, including 
             credit card numbers entered on the /shop page, we have physical, 
             electronic, and managerial procedures to safeguard and secure the 
@@ -404,73 +391,163 @@ To prevent unauthorized access, maintain data
             your transaction is complete, Disc Makers stores your information 
             on an off-line server stored securely behind our firewall. There is 
             no external access to this information and its internal access is 
-            strictly monitored. <br>
-            <br>
-Disc Makers takes appropriate steps to communicate our privacy policy 
-            and guidelines to all employees. <br>
-            <br>
-Disc Makers' privacy policy is subject to change at any time. Disc 
-            Makers will provide notice 30 days prior to implementing any major 
-            changes to our privacy policy. <br>
-            <br>
-If you have any question specific to privacy, please contact us at <a href="mailto:privacy@discmakers.com">privacy@discmakers.com.</a> </td>
-          </tr>
-          <tr>
-            <td class="BodyCopy12">&nbsp;</td>
-          </tr>
-          
+            strictly monitored. </p>
 
-          
-        </tbody></table></td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><link href="/dmstyles2008.css" rel="stylesheet" type="text/css">
-<table width="970" border="0" align="center" cellpadding="6" cellspacing="0">
-  <tbody><tr>
-    <td><table width="100%" border="0" cellspacing="2" cellpadding="4">
-      <tbody><tr>
-        <td><img src="/images/GrayLine.gif" width="948" height="1"></td>
-      </tr>
-      <tr>
-        <td align="center"><span class="Footer"><a href="/sitemap/" class="Footer"><b>Site Map</b></a> • <a href="/ftp/" class="Footer"><b>File Upload FTP</b></a> • <a href="/faq/" class="Footer"><b>FAQ</b></a> • <a href="/privacy/" class="Footer"><b>Privacy Policy </b></a> • <a href="/contact/" class="Footer"><b>Contact Us</b></a> • <a href="/locations/" class="Footer"><b>Locations</b></a> • <a href="/press/" class="Footer"><b>Press</b></a> • <a href="/products/preparingyourorder/" class="Footer"><b>Preparing Your Order</b></a> • <a href="/terms/" class="Footer"><b>Terms &amp; Conditions </b></a> • <a href="/request/" class="Footer"><b>Free Catalog</b></a> • <a href="/EmailSubscriptionManager/" class="Footer"><b>E-Newsletters</b></a></span> </td>
-      </tr>
-      <tr>
-        <td><img src="/images/GrayLine.gif" width="948" height="1"></td>
-      </tr>
-      <tr>
-        <td align="center" class="Footer2"><a href="feed://feeds2.feedburner.com/discmakersblog" title="rss" class="FooterBlue"><img src="/images/rss-icon-orange.png" width="10" height="10" border="0"></a> <a href="feed://feeds2.feedburner.com/discmakersblog" title="rss" class="FooterBlue">RSS</a> 
-        •
+<p>Disc Makers takes appropriate steps to communicate our privacy policy 
+            and guidelines to all employees. </p>
+
+<p>Disc Makers' privacy policy is subject to change at any time. Disc 
+            Makers will provide notice 30 days prior to implementing any major 
+            changes to our privacy policy. </p>
+
+<p>If you have any question specific to privacy, please contact us at <a href="mailto:privacy@discmakers.com">privacy@discmakers.com.</a></p>
+</div><!--ContentContainer-->
+  <div style="clear:left;"></div>
+</div><!--OutsideContainer-->
+
+<div id="footer-container">
+<!-- ===================================== FOOTER ========================================== -->
+      <div id="footer">
       
+      <div id="footer-email">
+        	<div id="footer-email-form-container">
+            <p>&nbsp;</p>
+            <p>Email: </p>
+            <div id="footer-email-form">
+            <form method="get" action="/EmailSubscriptionManager/SubscriptionManager.aspx">
+            <input type="hidden" name="newURL" value="/EmailSubscriptionManager/SubscriptionManager.aspx">
+            <input type="hidden" name="existingURL" value="/EmailSubscriptionManager/SubscriptionManager.aspx">
+            <input type="text" name="email" size="20" value="" style="float:left;"> 
+            <input type="submit" name="footer-subscribe-button" id="footer-subscribe-button" value="">
+            </form>
+            </div>
+            </div>
+        </div><!-- #footer-email -->
         
       
-        <a href="http://blog.discmakers.com/" class="FooterBlue" target="_blank">Blog</a> • <a href="/musica/" class="Footer2">Español</a> • <a href="/soundlab/" class="Footer2">SoundLab</a> • <a href="/authoring/" class="Footer2">The Authoring House</a> • <a href="/services/downloadcards.asp" class="Footer2">Download Cards</a> • <a href="http://www.studiofinder.com" target="_blank" class="Footer2">StudioFinder</a> • <a href="/togo/" class="Footer2">Disc Makers To Go</a> • <a href="http://business.discmakers.com" title="Corporate Accounts" class="Footer2">Corporate Accounts</a></td>
-      </tr>
-      <tr>
-        <td><img src="/images/GrayLine.gif" width="948" height="1"></td>
-     </tr><tr align="center">
-<td align="center" class="Footer3"><a href="/shop/parentgroups/PACKAGING.asp" class="Footer3">CD Packaging</a> • <a href="/shop/parentgroups/DVDCASES.asp" class="Footer3">DVD Packaging</a> • <a href="/duplicators/printers/" class="Footer3">CD Printer</a> • <a href="/duplicators/printers/" class="Footer3">DVD Printer</a> • <a href="/products/OnDiscPrinting.asp" class="Footer3">CD Printing</a> • <a href="/shop/parentgroups/BLANK.asp" class="Footer3">Blank CDs</a> • <a href="/shop/parentgroups/BLANKDVD.asp" class="Footer3">Blank DVDs</a> • <a href="/shop/parentgroups/CDCASES.asp" class="Footer3">CD Jewel Cases</a> • <a href="/shop/parentgroups/DVDCASES.asp" class="Footer3">DVD Cases</a> • <a href="/" class="Footer3">Duplication</a> <br> <a href="/duplicators/" class="Footer3">CD Duplicator</a>  • <a href="/duplicators/" class="Footer3">DVD Duplicator</a> •  <a href="/products/cdduplication.asp" class="Footer3">CD Duplication</a>  • <a href="/products/cdreplication.asp" class="Footer3">CD Replication</a> • <a href="/products/dvdreplication.asp" class="Footer3">DVD Replication</a> • <a href="/selfservicequoter/" target="_blank" class="Footer3">Short-run CD DVD Duplication</a> • <a href="/selfservicequoter/" target="_blank" class="Footer3">CD Copies</a> • <a href="/selfservicequoter/" target="_blank" class="Footer3">DVD Copies</a><br>   <a href="/soundlab/" class="Footer3">CD Mastering</a> • <a href="/authoring/services/dvdauthoring/" class="Footer3">DVD Authoring</a> • <a href="/authoring/services/dvdauthoring/menu.asp" class="Footer3">DVD Menu Design</a> • <a href="/services/" class="Footer3">Services, Sales, &amp; Promo</a> • <a href="/CPSIA/" title="CPSIA Compliance" class="Footer3">CPSIA Compliance Information</a> • <a href="/techsupport/techsupport.asp" title="Tech Support" class="Footer3">Tech Support</a> • <a href="/shop/ItemGroup.aspx?ItemGroup=VERBCD" title="Verbatim CD" class="Footer3">Verbatim CD</a> • <a href="/shop/ItemGroup.aspx?ItemGroup=VERBDVD" title="Verbatim DVD" class="Footer3">Verbatim DVD</a></td>
-      </tr>
-                  <tr>            
-      <td colspan="2" align="center" class="Footer3Home"><a href="http://www.facebook.com/discmakers" target="_blank"><img name="SplashOffers2" src="/images/splash/fbwhite.gif" width="66" height="18" border="0" id="SplashOffers2" title="FaceBook" alt="FaceBook" style=" margin-top:3px; margin-bottom:3px;"></a><img name="SplashOffers2" src="/images/splash/bulletwhite.gif" width="9" height="18" border="0" id="SplashOffers2" title="" alt="" style="margin-left:10px; margin-right:13px; margin-top:3px; margin-bottom:3px;"><a href="http://www.twitter.com/discmakers" target="_blank"><img name="SplashOffers2" src="/images/splash/twwhite.gif" width="52" height="18" border="0" id="SplashOffers2" title="Twitter" alt="Twitter" style=" margin-top:3px; margin-bottom:3px;"></a><img name="SplashOffers2" src="/images/splash/bulletwhite.gif" width="9" height="18" border="0" id="SplashOffers2" title="" alt="" style="margin-left:10px; margin-right:13px; margin-top:3px; margin-bottom:3px;"><a href="http://blog.discmakers.com/" target="_blank"><img name="SplashOffers2" src="/images/splash/wpwhite.gif" width="45" height="18" border="0" id="SplashOffers2" title="blog" alt="blog" style=" margin-top:3px; margin-bottom:3px;"></a><img name="SplashOffers2" src="/images/splash/bulletwhite.gif" width="9" height="18" border="0" id="SplashOffers2" title="" alt="" style="margin-left:10px; margin-right:11px; margin-top:3px; margin-bottom:3px;"><a href="http://www.youtube.com/discmakers" target="_blank"><img name="SplashOffers2" src="/images/splash/youtubewhite.gif" width="64" height="18" border="0" id="SplashOffers2" title="youtube" alt="youtube" style=" margin-top:3px; margin-bottom:3px;"></a></td>
-      </tr>
-      <tr>
-        <td><table width="100%" border="0" align="center" cellpadding="2" cellspacing="0">
-          <tbody><tr>
-            <td width="40%" align="right"><img src="/images/dm-tagline.gif" alt="Disc Makers" width="112" height="16"></td>
-            <td class="Footer3">The nation's leading CD / DVD Duplicator, Replicator and Printer.</td>
-          </tr>
-        </tbody></table></td>
-      </tr>
-      
-      
-    </tbody></table></td>
-  </tr>
-</tbody></table></td>
-  </tr>
-</tbody></table>
+          <div id="tony-callout" onclick="location.href='/welcome/';" style="cursor:pointer;">
+          	<p class="orange16 Bold">Who are we?<br>
+          	<span class="lightgrey13">We are the nation's leading independent CD and DVD manufacturer. Since 1946, we have offered superior products and services one customer at a time. <br>
+          	<a href="/welcome/"><span class="white13">Learn more</span></a></span> </p>
+          </div><!--tony-callout-->
+          
+            <div class="footer-list">
+                <ul style="margin-top:0;">
+                    <li class="list-header"><a href="/products/">CD &amp; DVD Replication</a></li>
+                    <li class="orange11 italic">300 – 2,000+ Discs</li>
+                    <li class="footer-list-white"><a href="/products/">Disc Packages &amp; Products</a></li>
+                    <li class="footer-list-white"><a href="/livequote/">Instant Quote</a></li>
+					<li class="footer-list-white"><a href="/products/PromoMaterials.asp">Promotional Items</a></li>
+                    <li class="footer-list-white"><a href="/products/preparingyourorder/">Preparing Your Order</a></li>
+                    <li class="footer-list-white"><a href="/templates/">Design Templates</a></li>
+                </ul>
+                <ul>
+                    <li class="list-header"><a href="http://duplication.discmakers.com">CD &amp; DVD Duplication</a></li>
+                    <li class="orange11 italic">1 – 1,000 Discs</li>
+                    <li class="footer-list-white"><a href="http://duplication.discmakers.com/Products.aspx">Disc Packages &amp; Products</a></li>
+                    <li class="footer-list-white"><a href="http://duplication.discmakers.com">Instant Quote</a></li>
+                    <li class="footer-list-white"><a href="http://duplication.discmakers.com/help.aspx">Preparing Your Order</a></li>
+                    <li class="footer-list-white"><a href="http://duplication.discmakers.com/Templates.aspx">Design Templates</a></li>
+                </ul>
+                <ul>
+                    <li class="list-header"><a href="http://business.discmakers.com/">Wholesale Accounts</a></li>
+                    <li class="footer-list-white"><a href="http://business.discmakers.com/">Supply Chain Management</a></li>
+                    <li class="footer-list-white"><a href="http://business.discmakers.com/services/fulfillment.asp">Direct Mail Fulfillment</a></li>
+                    <li class="footer-list-white"><a href="http://business.discmakers.com/services/contractpackaging.asp">Contract Packaging &amp; Custom Kitting</a></li>
+               </ul>
+                 <ul>
+                    <li class="list-header"><a href="http://business.discmakers.com/">My Account</a></li>
+                     <li class="footer-list-white"><a href="/myaccount/AnonymousUpload.aspx">Design File Upload (FTP)</a></li>
+                       <li class="footer-list-white"><a href="/myaccount/AnonymousContentUpload.aspx">Content File Upload (FTP)</a></li>
+               </ul>
+               </div> 
+               <div class="footer-list">   
+                <ul style="margin-top:0;">
+                    <li class="list-header"><a href="/services/">Services</a></li>
+					<li class="footer-list-white"><a href="/design/">Design Services</a></li>
+					<li class="footer-list-white"><a href="/soundlab/">Mastering</a></li>
+                    <li class="footer-list-white"><a href="/authoring/">Authoring</a></li>
+                    <li class="footer-list-white"><a href="/products/ondiscprinting.asp">CD &amp; DVD Printing</a></li>
+					<li class="footer-list-white"><a href="/services/webdistribution.asp">CD &amp; Digital Distribution</a></li>
+               
+                    <li class="footer-list-white"><a href="/services/hostbaby.asp">Web Hosting</a></li>
+                    <li class="footer-list-white"><a href="/services/filmbaby.asp">DVD Distribution</a></li>
+                    <li class="footer-list-white"><a href="/products/downloadcards.asp">Music Download Cards</a></li>
+                    <li class="footer-list-white"><a href="/services/Sonicbids.asp">Booking &amp; Promotion</a></li>
+                </ul>
+              
+                
+                <ul>
+                    <li class="list-header"><a href="/community/partnerprogram/">Partner Program</a></li>
+                    <li class="footer-list-white"><a href="/community/partnerprogram/HowItWorks.asp">How It Works</a></li>
+                    <li class="footer-list-white"><a href="/community/partnerprogram/SignUp.asp">Sign Up</a></li>
+                </ul>
+                  <ul>
+                    <li class="list-header"><a href="/request/">Free Catalog &amp; Guides</a></li>
+                    <li class="footer-list-white"><a href="/request/CatalogAudio.asp">Factory-direct Catalog</a></li>
+                            <li class="footer-list-white"><a href="/request/37tips.asp">37 Recording Tips</a></li>
+                                      <li class="footer-list-white"><a href="/request/Special_MPN.asp">Musician's Guide to Recording</a></li>
+                    <li class="footer-list-white"><a href="http://blog.discmakers.com/" target="_blank">Blog</a></li>
+                </ul>
+              </div>
+              <div class="footer-list column3">   
+                 <ul style="margin-top:0;">
+                    <li class="list-header"><a href="/duplicators/">Blank Media, <br>Duplicators &amp; Supplies</a></li>
+                    <li class="footer-list-white"><a href="/shop/parentgroups/BLANK.asp">Blank CDs (CD-Rs)</a></li>
+                    <li class="footer-list-white"><a href="/shop/parentgroups/BLANKDVD.asp">Blank DVDs (DVD-Rs)</a></li> 
+                    <li class="footer-list-white"><a href="/shop/parentgroups/BLURAY.asp">Blank Blu-ray Discs (BD-Rs)</a></li>
+                    <li class="footer-list-white"><a href="/shop/parentgroups/lightscribe.asp">LightScribe DVD &amp; CD Media</a></li>
+                    <li class="footer-list-white"><a href="/duplicators/automated/">Automated CD &amp; DVD Duplicators</a></li>
+                    <li class="footer-list-white"><a href="/duplicators/manual/">Manual CD &amp; DVD Duplicators</a></li>             
+                    <li class="footer-list-white"><a href="/duplicators/automated/Bluray.asp">Automated Blu-ray Duplicators</a></li>
+                    <li class="footer-list-white"><a href="/duplicators/manual/Bluray.asp">Manual Blu-ray Duplicators</a></li>
+                    <li class="footer-list-white"><a href="/duplicators/USB/">USB Duplicators</a></li> 
+                    <li class="footer-list-white"><a href="/duplicators/USB/usbdrives.asp">USB Flash Drives</a></li>
+                    <li class="footer-list-white"><a href="/duplicators/printers/">CD &amp; DVD Printers</a></li>
+                    <li class="footer-list-white"><a href="/shop/parentgroups/LIVEEVENT.asp">Recording Equipment</a></li>
+                    <li class="footer-list-white"><a href="/shop/parentgroups/SECURITY.asp">External Hard Drives &amp; Storage</a></li>
+                    <li class="footer-list-white"><a href="/shop/parentgroups/PACKAGING.asp">Disc Packaging</a></li>
+                    <li class="footer-list-white"><a href="/shop/parentgroups/PRINTSUP.asp">Printing Supplies</a></li>
+                    <li class="footer-list-white"><a href="/shop/parentgroups/MAILINGSUP.asp">Mailing Supplies</a></li>
+                    <li class="footer-list-white"><a href="/shop/Clearance.aspx">Clearance Center</a></li>             
+                   
+                </ul> 
+            </div>
+               
+        <ul id="footer-bottom-links">
+            <li>1-800-468-9353</li>
+            <li><a href="/community/careers/">Careers</a></li>
+            <li><a href="/community/about/">About Us</a></li>
+            <li><a href="/community/about/Terms.asp">Terms &amp; Conditions</a></li>
+            <li><a href="/community/about/Locations.asp">Locations &amp; Directions</a></li>
+            <li><a href="/CPSIA/">CPSIA Compliance Info</a></li>
+            <li><a href="/community/about/Privacy.asp">Privacy Policy</a></li>
+            <li><a href="/musica/">Español</a></li>
+            <li><a href="/sitemap/">Site Map</a></li>
+            <li style="border-right:none;"><a href="/customersupport/FAQ.asp">FAQ</a></li>
+        </ul>
+        <div style="width: 940px; display: block; height: 30px;">
+         <div class="white12" style="float:left; width:400px;;">
+            <img src="/images/navigation/footer-dmlogo.gif" width="120" height="14" alt="DiscMakers" style="margin-right:20px;">
+            CD and DVD Manufacturing Made Easy
+         </div>
+         <div id="social-icons-container">
+         <ul id="socialicons">
+            <li class="white12">Share, stay in touch, and follow us for the latest info!</li> 
+            <li><a href="http://twitter.com/discmakers"><img src="/images/navigation/footer-twitter.gif" width="23" height="23" alt="Twitter" title="Twitter" class="socialicons"></a></li>
+                     <li><a href="http://www.facebook.com/discmakers"><img src="/images/navigation/footer-facebook.gif" width="23" height="23" alt="Facebook" title="Facebook" class="socialicons"></a></li>
+            <li><a href="https://plus.google.com/102232034784410385382/posts"><img src="/images/navigation/footer-google.gif" width="23" height="23" alt="Facebook" title="Facebook" class="socialicons"></a></li>
+            <li><a href="http://www.youtube.com/discmakers"><img src="/images/navigation/footer-youtube.gif" width="23" height="23" alt="You Tube" title="You Tube" class="socialicons"></a></li>             
+            <li><a href="http://feeds2.feedburner.com/discmakersblog"><img src="/images/navigation/footer-rss.gif" width="23" height="23" alt="DiscMakers Blog" title="DiscMakers Blog" class="socialicons"></a></li>
+         </ul>
+         </div>
+                      
+      </div> <!--footer-->          
+</div>
+ <!--====================================== FOOTER =============================================== -->
 
+</div>
+<div class="clear20"></div>
 
 
 </body></html>
