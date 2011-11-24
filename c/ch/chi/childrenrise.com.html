@@ -1,0 +1,309 @@
+<!--The following is the downloaded HTML source of the childrenrise.com privacy policy that was archived on 2011-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124023816id_/http%3A//www.childrenrise.com/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Directory  </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="/templates/CelticForrest/style/main.css">
+<meta name="generator" content="PHP Link Directory 4.1.0">
+<script src="/javascripts/jquery-1.3.2.min.js"></script>
+<script src="/javascripts/ajaxupload.js" type="text/javascript"></script>
+<script src="/javascripts/jquery/jquery-ui-1.7.2.custom.min.js"></script>
+<script type="text/javascript" src="/javascripts/jquery.validate.js"></script>
+<script type="text/javascript">
+         jQuery.noConflict();
+       </script>
+
+<script type="text/javascript" src="/javascripts/formtool/formtool.js"></script>
+<script type="text/javascript" src="/javascripts/prototype/prototype.js"></script>
+<script type="text/javascript" src="/javascripts/scriptaculous/scriptaculous.js"></script><script type="text/javascript" src="https://web.archive.org/javascripts/scriptaculous/builder.js"></script><script type="text/javascript" src="https://web.archive.org/javascripts/scriptaculous/effects.js"></script><script type="text/javascript" src="https://web.archive.org/javascripts/scriptaculous/dragdrop.js"></script><script type="text/javascript" src="https://web.archive.org/javascripts/scriptaculous/controls.js"></script><script type="text/javascript" src="https://web.archive.org/javascripts/scriptaculous/slider.js"></script>    
+<script type="text/javascript" src="/javascripts/jquery.js"></script>
+<script type="text/javascript" src="/javascripts/jquery.validate.js"></script>
+<script type="text/javascript" src="/javascripts/thickbox/thickbox.js"></script>
+<link rel="stylesheet" href="/javascripts/thickbox/ThickBox.css" type="text/css" media="screen">
+<script type="text/javascript" src="/javascripts/categ_selection/categ_selection.js"></script>
+<script type="text/javascript">
+         var valid_obj = new Object();
+     </script>
+
+</head>
+<body>
+<script type="text/javascript">
+
+
+function increase_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height<110) {
+      document.getElementById('slide').style.marginTop = eval(height+2)+"px";
+      setTimeout("increase_height()",0.0001);
+   } else {
+      document.getElementById('panel').style.zIndex = 200;
+   }
+}
+
+function decrease_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   document.getElementById('panel').style.zIndex = -1;
+   if (height>0) {
+      document.getElementById('slide').style.marginTop = eval(height-2)+"px";
+      setTimeout("decrease_height()",0.0001);
+   }
+}
+
+function show_panel() {
+  
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height>0) {
+      decrease_height();
+   } else {
+      increase_height();
+   }
+   return false;
+}
+
+function ajaxFunction()
+{
+
+var xmlHttp;
+
+try
+  {
+  // Firefox, Opera 8.0+, Safari
+  xmlHttp=new XMLHttpRequest();
+  }
+catch (e)
+  {
+  // Internet Explorer
+  try
+    {
+    xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+    }
+  catch (e)
+    {
+    try
+      {
+      xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+    catch (e)
+      {
+      alert("Your browser does not support AJAX!");
+      return false;
+      }
+    }
+  }
+  xmlHttp.onreadystatechange=function()
+    {
+    if(xmlHttp.readyState==4)
+      {
+      }
+    }
+   var url = "http://www.yourdomain.com/update_session.php";
+
+   xmlHttp.open("POST", url, false);
+   xmlHttp.setRequestHeader( 
+    'Content-Type', 
+    'application/x-www-form-urlencoded; charset=UTF-8' 
+); 
+   xmlHttp.send('url='+window.location);
+  }
+</script>
+
+<script type="text/javascript">
+jQuery(function($) {
+	$(document).ready(function(){
+		
+												jQuery.validator.messages.required = "This field is required.";
+																jQuery.validator.messages.remote = "Please fix this field.";
+																jQuery.validator.messages.email = "Invalid email address format.";
+																jQuery.validator.messages.url = "Invalid URL.";
+																jQuery.validator.messages.date = "Invalid date format.";
+																jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+																jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+																jQuery.validator.messages.number = "Required numeric field.";
+																jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+																jQuery.validator.messages.digits = "Required integer field.";
+																jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+																jQuery.validator.messages.equalTo = "Please enter the same value again.";
+																jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+																jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
+																jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
+																jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
+																jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
+																jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
+																jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+									
+		
+		function fireEvent(obj, evt) {
+            var fireOnThis = obj;
+            if (document.createEvent) {
+              var evObj = document.createEvent('MouseEvents');
+                evObj.initEvent(evt, true, false);
+                fireOnThis.dispatchEvent(evObj);
+            } else if (document.createEventObject) {
+                fireOnThis.fireEvent('on'+evt);
+            }
+        }
+		
+		//valid obj isntantiated in header.tpl
+                valid_obj.login_form = {
+				debug: false,
+				onKeyUp: true,
+                onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if ($("#login_form").valid()) {
+						form.submit();
+					}
+				},
+				
+				"rules": {user: {"required":true},pass: {"required":true}}, "messages": {}
+		};
+
+        $("#login_form").validate(valid_obj.login_form);
+
+                var selects = $("#login_form").find("select");
+                var crt;
+                $.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.login_form.rules[crt]) !== 'undefined') {
+                        $("#"+crt).change(function() {
+                          $(this).valid();
+                        });
+                    }
+                });
+    });
+});
+</script>
+<script type="text/javascript">
+jQuery(function($) {
+	$(document).ready(function(){
+		
+												jQuery.validator.messages.required = "This field is required.";
+																jQuery.validator.messages.remote = "Please fix this field.";
+																jQuery.validator.messages.email = "Invalid email address format.";
+																jQuery.validator.messages.url = "Invalid URL.";
+																jQuery.validator.messages.date = "Invalid date format.";
+																jQuery.validator.messages.dateISO = "Please enter a valid date (ISO).";
+																jQuery.validator.messages.dateDE = "Bitte geben Sie ein gültiges Datum ein.";
+																jQuery.validator.messages.number = "Required numeric field.";
+																jQuery.validator.messages.numberDE = "Bitte geben Sie eine Nummer ein.";
+																jQuery.validator.messages.digits = "Required integer field.";
+																jQuery.validator.messages.creditcard = "Please enter a valid credit card number.";
+																jQuery.validator.messages.equalTo = "Please enter the same value again.";
+																jQuery.validator.messages.accept = "Please enter a value with a valid extension.";
+																jQuery.validator.messages.maxlength = $.format("Please enter no more than {0} characters.");
+																jQuery.validator.messages.minlength = $.format("Please enter at least {0} characters.");
+																jQuery.validator.messages.rangelength = $.format("This field must have minimum {0} characters and maximum {1} characters..");
+																jQuery.validator.messages.range = $.format("Please enter a value between {0} and {1}.");
+																jQuery.validator.messages.max = $.format("Please enter a value less than or equal to {0}.");
+																jQuery.validator.messages.min = $.format("Please enter a value greater than or equal to {0}.");
+									
+		
+		function fireEvent(obj, evt) {
+            var fireOnThis = obj;
+            if (document.createEvent) {
+              var evObj = document.createEvent('MouseEvents');
+                evObj.initEvent(evt, true, false);
+                fireOnThis.dispatchEvent(evObj);
+            } else if (document.createEventObject) {
+                fireOnThis.fireEvent('on'+evt);
+            }
+        }
+		
+		//valid obj isntantiated in header.tpl
+                valid_obj.search_form = {
+				debug: false,
+				onKeyUp: true,
+                onfocusout: false,
+				errorElement: "span",
+				errorClass: "errForm",
+				submitHandler: function(form) {
+					// do other stuff for a valid form
+					if ($("#search_form").valid()) {
+						form.submit();
+					}
+				},
+				
+				"rules": {search: {"required":true}}, "messages": {}
+		};
+
+        $("#search_form").validate(valid_obj.search_form);
+
+                var selects = $("#search_form").find("select");
+                var crt;
+                $.each(selects, function() {
+                    crt = this.id;
+                    if(typeof(valid_obj.search_form.rules[crt]) !== 'undefined') {
+                        $("#"+crt).change(function() {
+                          $(this).valid();
+                        });
+                    }
+                });
+    });
+});
+</script>
+<div class="header" style="height: auto; background: transparent;">
+<div class="center" style="background: transparent;">
+<div id="panel" style="z-index: -1;" align="center">
+</div>
+<p class="slide" style="z-idex: 100; margin-top: 0px;" id="slide">
+
+&nbsp;|&nbsp;
+</p>
+</div>
+</div>
+<div style="clear: both;"></div>
+<div class="hMenuContainer">
+<div class="center">
+<div class="hMenu">
+</div>
+</div>
+</div>
+<div class="header">
+<div class="center">
+<div class="headerLogo">
+<a href="/"><img src="/images/logo.gif" border="0" alt="logo"></a>
+</div>
+
+</div>
+</div>
+<div class="path"></div><div class="center1"><div class="container"><div class="leftContainer" style="width: 215px;">
+<ul id="sortable_left" style="list-style-type: none; float: left; padding: 0px; margin: 0;">
+<br>
+</ul>
+</div><div class="centerContainer"><div class="centerContainerM"><ul id="main_container" style="list-style-type: none; padding: 0px; margin: 0;"><li></li></ul>
+<br><br><div>
+<h1>Privacy Policy</h1>
+<p>Privacy Policy</p>
+<p>Data Collection and Use: We collect voluntary demographic information from users directly, including, but not limited to, user name, first and last name, e-mail address, street address, gender, occupation, and interests. We also collect information on the pages users’ access or visit, and other information volunteered by users, such as survey information. Additionally, for each visitor to our Web page, our Web server automatically recognizes IP Addresses. We also may use cookies to store visitors’ preferences and to record session information, for such purposes including to ensure that visitors are not repeatedly sent the same banner ads and to customize newsletter and Web page content based on visitors’ browser type. </p>
+<p>Links: This website may contain links to other websites. Please be aware that we are not responsible for the privacy practices of other websites. When leaving our website, be sure to read the privacy statements of each website that collects personally identifiable information. Our privacy statement applies solely to information collected on our websites. </p>
+<p>Security: We have security measures in place to protect the loss, misuse, or alteration of members’ information. We use industry standard procedures and processes to safeguard the confidentiality of your personal information, such as firewalls, encryption, token authentication, application proxies, monitoring technology, and adaptive analysis of network traffic to track abuse of our network and its data. Unfortunately, when you submit information about yourself to over the Internet the information may travel over many systems that are not under our control. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate and typical physical, electronic, and managerial procedures to safeguard and secure the information we collect online. </p>
+<p>Email Policy: We are committed to protecting the integrity of our web site and members.  We  will never send our members unsolicited emails.  As a member, you have the ability to sign-up for a variety of newsletters at no cost.  A member can add or remove newsletters at anytime by logging into their account and updating their preferences.  We will never rent, sell, or disclose user information to any third parties.<br>
+Cancel Account: At any time you can unsubscribe, correct or update your information or modify your preferences pertaining to our newsletters, catalog and mailing list.<br>
+<br clear="all"></p>
+<ul>
+<li>To make changes to your account, please do one of the following: </li>
+<li><b>By e-mail:</b> Send an email request to <a href="mailto:inquiries@childrenrise.com"><span style="font-size:12px;">inquiries@childrenrise.com</span></a>. </li>
+<li><b>By mail:</b> Send a request to: ChildrenRise.com 1821 Walden Office Square Suite 400 Schaumburg, Illinois 60173</li>
+<li>Or <a href="/unsub.html">Click here</a> to cancel your account.  Your account will be cancelled within 24 hours.  </li>
+</ul>
+<p>Third Party Offers: We also may use your information to send you e-mail and other communications on behalf of third parties.  Each of these communications will include instructions for opting out of receiving future third party offers from us.  You may also opt out of receiving third party offers from this Site at any time by <a href="/unsub.html">clicking here</a>.</p>
+<p>Cookies: A cookie is information that a website transfers to your computer for record-keeping purposes. Cookies are typically used to save a user’s password so that the user does not have to re-enter their password each time they visit the same website. In addition, cookies can make the Internet more useful by storing information about your preferences on a particular website. The use of cookies is an industry standard, and most websites use them to provide useful features for their members. Most Internet browsers are initially set up to accept cookies. You can set your Internet browser to refuse cookies. However, you may not be able to take full advantage of a website if you do. </p>
+<p>IP Address: An IP address is a number automatically assigned to your computer whenever you access the Internet. All computer identification on the Internet is conducted with IP addresses, which allow computers and servers to recognize and communicate with each other. Your IP address does not contain your name but does provide additional demographic information. We use your IP address to help diagnose or detect problems with our server, for security reasons, to conduct system administration and site analysis, and to administer our website. Any demographic information collected from your IP address is added to your information and stored in our database. </p>
+<p>Notification of Changes to the Privacy Policy: The Privacy Policy may be updated to increase our members’ privacy protection or to improve our information practices. If there are changes made in the future, the changes will not affect information already collected. Any changes to this Privacy Policy will be available on this page for members to review. This Privacy Policy is subject to change without notice. Please review this Privacy Policy on this website frequently to look for changes. Your continued membership will signify your unconditional acceptance to the modified terms.</p>
+<p>To send correspondence to us via postal mail regarding our privacy policy, please use the following address: </p>
+<p>childrenrise.com<br>
+Attn: Privacy Department<br>
+1821 Walden Office Square Suite 400<br>
+Schaumburg, Illinois 60173</p>
+
+				
+			
+<div style="clear: both"></div><ul id="sortable_central" style="list-style-type: none; padding: 0px; margin: 0;"></ul></div></div><div class="rightContainer">
+
+<ul id="sortable_right" style="list-style-type: none; padding: 0px; margin: 0;">
+</ul>
+</div><div style="clear: both; height: 30px;"></div></div></div><div class="footer"><div class="footerBar"></div>Copyright 2009, <a href="/">Directory</a> All rights reserved.<br>Template by <a href="http://www.phpld.com" title="phpLD">phpLD</a>&nbsp; &nbsp;Directory Script by <a href="http://www.phplinkdirectory.com" title="PHP Link Directory">PHP Link Directory</a></div>
+</div></body></html>
