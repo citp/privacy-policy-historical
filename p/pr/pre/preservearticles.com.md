@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preservearticles.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630015227id_/http%3A//www.preservearticles.com/201012231551/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preservearticles.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124034928id_/http%3A//www.preservearticles.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,5 +26,10 @@ www.preservearticles.com has no access to or control over these cookies that are
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-  
+Advertisement
 
+* * *
+
+### Do you like this site?
+
+If you enjoy reading PreserveArticles.com, please share this site with your friends.?
