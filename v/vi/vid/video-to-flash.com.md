@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the video-to-flash.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529105615id_/http%3A//video-to-flash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the video-to-flash.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124072536id_/http%3A//www.video-to-flash.com/privacy.html) for the most accurate reproduction.*
 
-# Moyea Flash 8 video encoder - protect your privacy
+# Moyea video-to-flash Privacy
 
 Moyea Flash Video Software is committed to protecting your privacy. We will only collect your personal information for defined purposes. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you. We may share your information only with partners who adhere to Moyea's commitment to protecting your privacy. Moyea Software will not sell your personal information in any manner whatsoever.
 
