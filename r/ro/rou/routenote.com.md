@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the routenote.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515214118id_/http%3A//routenote.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the routenote.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124012953id_/http%3A//routenote.com/privacypolicy) for the most accurate reproduction.*
 
 # RouteNote.... Shhhh... We Can Keep A Secret
 
