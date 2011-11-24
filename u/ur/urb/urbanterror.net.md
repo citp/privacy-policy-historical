@@ -1,19 +1,24 @@
-> *The following text is extracted and transformed from the urbanterror.net privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503200730id_/http%3A//www.urbanterror.info/docs/texts/37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanterror.net privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124014005id_/http%3A//www.urbanterror.info/support/37-privacy-policy) for the most accurate reproduction.*
 
-# Urban Terror Docs : Licences : Privacy Policy
+# Urban Terror Support : Licences : Privacy Policy
 
-##  _Licences_  
-Privacy Policy
+##  Licences
 
-### Urban Terror Passport Privacy Policy
+## Privacy Policy
 
-Thank you for visiting passport.urbanterror.net. We, Frozen Sand LLC, as owner of the game Urban Terror™ and Urban Terror Passport, appreciate the opportunity to interact with you on the Internet and are committed to protecting and safeguarding your privacy. The purpose of this Privacy Statement is to inform you about the types of information we might collect about you when you visit our Site, how we may use that information and whether we disclose that information to anyone.
+### Urban Terror Accounts Privacy Policy
+
+Thank you for visiting www.urbanterror.info. We, Frozen Sand LLC, as owner of the game Urban Terror™ and Urban Terror Accounts, appreciate the opportunity to interact with you on the Internet and are committed to protecting and safeguarding your privacy. The purpose of this Privacy Statement is to inform you about the types of information we might collect about you when you visit our Site, how we may use that information and whether we disclose that information to anyone.
+
+#### Cookies
+
+Cookies are small files containing information that enables our website to authenticate you. To be able to make use of our services you need to allow Frozen Sand and its third party partners the use of cookies.
 
 #### What Information We Collect and How We Use It
 
-Any information we, Frozen Sand, collect on our Site generally falls into the Personally Identifiable Information category. Personally Identifiable Information refers to information that lets us know specifically who you are. In general, you can visit our Site without telling us who you are or revealing any Personally Identifiable Information. On occasion, other information such as IP addresses may be used to block certain individuals from accessing our site or player tracking. By using any Urban Terror Passport service or website, you agree to allowing the use of this information, if necessary, for both internal and public banlist purposes. 
+Any information we, Frozen Sand, collect on our Site generally falls into the Personally Identifiable Information category. Personally Identifiable Information refers to information that lets us know specifically who you are. In general, you can visit our Site without telling us who you are or revealing any Personally Identifiable Information. On occasion, other information such as IP addresses may be used to block certain individuals from accessing our site or player tracking. By using any Urban Terror Accounts service or website, you agree to allowing the use of this information, if necessary, for both internal and public banlist purposes. 
 
-Frozen Sand also collects information from participating Passport Servers. This information is collected and recorded for Player tracking. Typically this type of information includes Player Names and IP Addresses. By registering or using Passport, you agree to the collection of this information for the above purposes. 
+Frozen Sand also collects information from participating game servers. This information is collected and recorded for Player tracking. Typically this type of information includes Player Names and IP Addresses. By registering or using an account, you agree to the collection of this information for the above purposes. 
 
 #### Sharing your information
 
@@ -39,7 +44,7 @@ If you have any concerns about our use of your information or about this Privacy
 
  _This Privacy Statement was last revised on June 21, 2009._
 
-_by - By Frozen Sand  -  Wednesday, 23 December 2009  -  viewed by 306 members and 6514 visitors_
+_by - By FS ~SG~ [Kalish](http://www.urbanterror.info/members/profile/kalish/)  -  Wednesday, 23 December 2009  -  viewed by 14 members and 1067 visitors_
 
   
 
