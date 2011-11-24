@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the timeinc.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525235447id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/tio%3Fdnp_source%3DE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeinc.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124231236id_/http%3A//cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/tio%3Fdnp_source%3DE) for the most accurate reproduction.*
 
 # this site Privacy Policy
 
-  |  |  |   |    
+  | [](https://web.archive.org/web/20111119233303id_/https://subscription.timeinc.com/storefront/privacy/tio/$privacyConfig.businessUrl) |  |   |    
 **PRIVACY NOTICE** |    
   
 **Table of Contents** |    
@@ -18,14 +18,14 @@
 * How to Contact Us
 | 
 
-[European Union Privacy Information](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/tio?dnp_source=E&tmpl=generic_privacy_new_eu)   
-[Canada Privacy Information](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/tio?dnp_source=E&tmpl=generic_privacy_new_caneu)
+[European Union Privacy Information](https://web.archive.org/web/20111119233303id_/https://subscription.timeinc.com/storefront/privacy/tio/generic_privacy_new_eu.html?dnp-source=E)   
+[Canada Privacy Information](https://web.archive.org/web/20111119233303id_/https://subscription.timeinc.com/storefront/privacy/tio/generic_privacy_new_caneu.html?dnp-source=E)
 
 |    
   
-This is the Privacy Policy for the United States of America which applies to you if you live outside the [European Union](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/tio?dnp_source=E&tmpl=generic_privacy_new_eu) or [Canada](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/tio?dnp_source=E&tmpl=generic_privacy_new_caneu). 
+This is the Privacy Policy for the United States of America which applies to you if you live outside the [European Union](https://web.archive.org/web/20111119233303id_/https://subscription.timeinc.com/storefront/privacy/tio/generic_privacy_new_eu.html?dnp-source=E) or [Canada](https://web.archive.org/web/20111119233303id_/https://subscription.timeinc.com/storefront/privacy/tio/generic_privacy_new_caneu.html?dnp-source=E). 
 
-Thank you for visiting this site, a site within the network of sites of Time Inc. and its subsidiaries, each of which have adopted this Privacy Notice. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc. and its subsidiaries. [Click here](http://www.timeinc.net/subs/privacy/bus_units.html) for a list of the sites of Time Inc. and its subsidiaries which are governed by this Privacy Notice. 
+Thank you for visiting this site, a site within the network of sites of Time Inc. and its subsidiaries, each of which have adopted this Privacy Notice. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Time Inc. and its subsidiaries. [Click here](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/bus_units.html) for a list of the sites of Time Inc. and its subsidiaries which are governed by this Privacy Notice. 
 
 |    
   
@@ -70,9 +70,11 @@ Although we take appropriate measures to safeguard against unauthorized disclosu
 |    
   
 **Privacy Options**  
-If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/tio?tmpl=generic_privacy_form_offline&dnp_source=E&referring_url=). |    
+If you prefer not to receive traditional mail or other off-line promotions from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](https://web.archive.org/web/20111119233303id_/https://subscription.timeinc.com/storefront/privacy/tio/generic_privacy_form_offline.html?dnp-source=E). |    
   
-If you prefer not to receive e-mail marketing from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](https://web.archive.org/cgi-bin/mail/dnp/generic_privacy_centralized.cgi/tio?tmpl=generic_privacy_form_online&dnp_source=E&referring_url=). 
+
+
+If you prefer not to receive e-mail marketing from this or any other Time Inc. property or any companies not owned by Time Inc., please [click here](https://web.archive.org/web/20111119233303id_/https://subscription.timeinc.com/storefront/privacy/tio/generic_privacy_form_online.html?dnp-source=E). 
 
 Time Inc. sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses. 
 
@@ -83,7 +85,7 @@ Some of our sites contain links to other sites whose information practices may b
 
 Time Inc. sites sometimes may offer contests, sweepstakes, promotions, editorial features or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, your IP Address and the personally identifiable information that you voluntarily submit may be provided to both the Time Inc. site and the third parties. Time Inc. has no control over the third parties' use of this information. 
 
-Time Inc. sites may use reputable third parties to present or serve advertisements, including online behavioral advertisements, that you may see on the web pages and to conduct research about the advertisements. This privacy notice does not cover any use of information that such third parties may have collected from you (e.g., type of browser, operating system, domain name, day and time of visit, page(s) visited) or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). For more information on the use of such third-parties, please [click here](http://www.timeinc.net/legal/parties.html). 
+Time Inc. sites may use reputable third parties to present or serve advertisements, including online behavioral advertisements, that you may see on the web pages and to conduct research about the advertisements. This privacy notice does not cover any use of information that such third parties may have collected from you (e.g., type of browser, operating system, domain name, day and time of visit, page(s) visited) or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). For more information on the use of such third-parties, please [click here](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/parties.html). 
 
 |    
   
@@ -92,7 +94,7 @@ To enhance your online experience we use cookies. Cookies are text files we plac
 
 We use cookies to understand Internet usage and to improve our content, offerings and advertisements. For example, we may use cookies to personalize your experience at our web pages (e.g., to recognize you by name when you return to our site), save your password in password-protected areas and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs or services. Similarly, as part of an arrangement with our business partners (including, those who present or serve the advertisements that you see on our web pages) we may also access cookies placed by others and allow others to access certain cookies placed by us. 
 
-We may also use small pieces of code such as "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy. For more information regarding cookies, please [click here](http://www.timeinc.net/legal/cookies.html). 
+We may also use small pieces of code such as "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy. For more information regarding cookies, please [click here](http://subscription-assets.timeinc.com/prod/assets/themes/magazines/default/template-resources/html/legal/cookies.html). 
 
 | back to top  
   
@@ -114,6 +116,8 @@ Time Customer Service
 Attention: Consumer Affairs  
 3000 University Center Drive  
 Tampa, Florida 33612-6408 
+
+[$privacyConfig.businessUrl](https://web.archive.org/web/20111119233303id_/https://subscription.timeinc.com/storefront/privacy/tio/$privacyConfig.businessUrl)
 
 | back to top  
 |  This Privacy Notice was revised 1/20/2011.
