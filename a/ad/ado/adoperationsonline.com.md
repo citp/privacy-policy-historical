@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adoperationsonline.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630113829id_/http%3A//www.adoperationsonline.com/internet-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adoperationsonline.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124185647id_/http%3A//www.adoperationsonline.com/internet-privacy-statement) for the most accurate reproduction.*
 
-# Privacy
+# Privacy : Ad Operations Online
 
 AdOperationsOnline.com values and respects your privacy. This statement sets out our privacy practices with respect to the collection, use and disclosure of personal information on this site.
 
@@ -26,4 +26,4 @@ If you have already requested to be part of a mailing list, you may cancel your 
 
 AdOperationsOnline.com reserves the right to change this privacy statement as it sees fit and without prior notice. However, we will ensure that any change to this statement is in compliance with the laws in effect in the Republic of Ireland and the European Union with regard to this subject matter and posted on this page.
 
-If you have any comments, questions or complaints regarding our privacy statement or practices, please contact us at adoperationsonline @ gmail . com
+If you have any comments, questions or complaints regarding our privacy statement or practices, please [contact us](http://www.adoperationsonline.com/contact-adoperationsonlinecom/).
