@@ -1,30 +1,59 @@
-> *The following text is extracted and transformed from the faucet.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420022754id_/http%3A//www.faucet.com/support/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faucet.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124112916id_/http%3A//www.faucet.com/index.cfm%3Fpage%3Dhelp%3Asecurity) for the most accurate reproduction.*
 
-# Privacy Policy at Faucet.com
+# Security & Privacy
 
-  
+## Our Company
+
+Our postal address is:  
+900 Fortress Street - Suite 100  
+Chico, CA 95973
+
+We can be reached online through our online Customer Service center. We can be contacted by phone at (800) 864-2555, which is our customer service call center.
+
+## Transaction Security
+
+We electronically verify each transaction with the credit company, processing only those orders if the credit company so authorizes it. In the case of a suspicious or declined transaction, our company may contact you to confirm the validity and ensure your identity or cancel that order with full notification.
+
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input at 128-bit strength. This is often symbolized on most web-browsers by a small padlock appearing on the bottom bar of the window and the address of the window changing from http:// to https://, meaning a secure connection. In the event that an order cannot be completed, please contact our Customer Service. If our website cannot establish a secure connection, we will not risk your confidential information (it will not be transmitted).
+
+## Information You Give Us
+
+We receive and store any information you enter on our Web site or give us in any other way. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our store, and fulfilling your order.
+
+*Emails: Email addresses we receive are used to contact you concerning inquiries before, during and after your order is placed, solely concerning your order. An exception to this is our Newsletters (more information below).
+
+## Automatic Information
+
+We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies," and we obtain certain types of information when your web browser accesses a Build.com store. A number of companies offer utilities designed to help you visit Web sites anonymously. Although we will not be able to provide you with a personalized experience at Build.com if we cannot recognize you, we want you to be aware that these tools exist.
+
+## Cookies
+
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as the storage of items in your Shopping Cart. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, if you disable cookies, you will not be able to purchase from the web site. We recommend that you leave them turned on or please contact our Customer Service to have your order placed.
+
+## Emails and Newsletters
+
+Because we value your right to privacy, we do not sell or otherwise share your contact information to unrelated third parties. Faucet.com and our Network of Stores use email as one of the primary methods of communicating with our customers. The emails we send may be related to a variety of issues, including:
+
+  * A direct response to an inquiry,
+  * Communication concerning an order (receipt, shipping confirmation, etc), or
+  * Promotional emails you have indicated you wish to receive.
 
 
-### Information Collection & Use
 
-Faucet.com is the sole owner of the information collected on its Web sites. We will not sell, share, or rent this information to others. Faucet.com collects information from our customers at several different points on our Web sites including the order and quote pages. This information is used for the sole purpose of providing you the best possible service when requesting information or ordering products.
+From time to time, we may notify you of special offers based on your purchasing history with us. If you create a Saved Cart, or have one created by our staff, you may receive follow-up emails related to this Cart. You may unsubscribe at any time by following the simple instructions contained in the emails. Unsubscribing will not apply to any future Saved Carts that are created. If you have signed up to receive our promotional emails and wish to stop your subscription, you'll find easy-to-follow unsubscribe instructions in each promotional email. You may also change your subscription status at any time by:
 
-When you place an order, we request contact and credit card information. This information is used strictly for billing purposes and to successfully complete and fill orders. If we should have trouble processing an order, the contact information is used to get in touch with you.
+  * Logging into your account and editing your "Change Billing Info"
+  * Sending an email to [newsletters@faucet.com](mailto:newsletters@faucet.com)
+  * Contacting us by phone at (800) 444-5783. Representatives in our call center can also alter your subscription preferences.
 
-### Security
 
-Faucet.com takes strong precautions to protect your information both online and offline. We use a variety of technical solutions to make shopping safe at our Web sites. Your information is encrypted and is protected by industry-standard Secure Sockets Layer (SSL) software. While we use SSL encryption to protect sensitive information online, we also protect your information offline. All of your customer information is maintained in a restricted section. Only those of our employees who need the information to perform a specific job function (for example, customer service representatives) are granted access to personally identifiable data. See our Security Center for more details.
 
-### Cookies
+## Sharing Information
 
-Our Web sites use "cookies", small pieces of data stored on your computer and delivered through your Web browser. Most, if not all, e-commerce merchants now use cookies. By using this technology we can provide you with an enhanced shopping experience. It is possible for you to turn off cookies in your Web browser. If you do this, you can still browse our Web sites, but we will not be able to provide you with a more personalized shopping experience or accept online orders from you. Please call us at 800-444-5783 if you would like more information or if you would prefer to place your order over the phone.
+Information about our customers is an important part of our business, and we are not in the business of selling it to others.
 
-### Links
+## Conditions of Use, Notices, and Revisions
 
-Our Web sites often contain links to other sites to provide you with the best information. Faucet.com is not responsible for the privacy practices of other sites you may visit.
+If you choose to visit Build.com, your visit and any dispute over privacy is subject to this notice and our Conditions of Use, including limitations on damages, arbitration of disputes, and application of the law of the state of California. If you have any concern about privacy at Build.com, please send a thorough description to our Customer Service team and we will try to resolve it. Our business changes constantly. This Notice and the Conditions of Use will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. Please check our website frequently to see recent changes.
 
-### Newsletters
-
-If you wish to subscribe to our newsletters, which may contain promotional and sale information, we ask for information such as name and email address. Every newsletter we send includes easy-to-use removal instructions and complies with all Federal CAN-SPAM regulations for commercial emailers.
-
-If you have any questions about our privacy policies, please contact us by phone at 800-444-5783 or email us at [info@faucet.com](mailto:info@faucet.com). Thank you for choosing Faucet.com.
+**Copyright © 2000-2011 Build, Inc. All Rights Reserved.**
