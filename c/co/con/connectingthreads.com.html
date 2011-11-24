@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the connectingthreads.com privacy policy that was archived on 2011-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110523053257id_/http%3A//www.connectingthreads.com/cfhelp/Index.cfm%3Ftype%3Dct%26CSCatID%3D85%26CSItemID%3D205) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the connectingthreads.com privacy policy that was archived on 2011-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124043841id_/http%3A//www.connectingthreads.com/cfhelp/Index.cfm%3Ftype%3Dct%26CSCatID%3D85%26CSItemID%3D205) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -49,6 +49,10 @@
 	else if (OSName=="Chrome") {document.write('<link href="/cfCSS/safariChromeFixes.css?version=2" rel="stylesheet" type="text/css" />')}
 	</script><link href="/cfCSS/safariChromeFixes.css?version=2" rel="stylesheet" type="text/css">
     
+    
+	<!--[if IE 9]>
+        <link href="/cfCSS/IE9Fixes.css?version=1" rel="stylesheet" type="text/css" />
+    <![endif]-->
     
 	<!--[if IE 8]>
         <link href="/cfCSS/IE8Fixes.css?version=1" rel="stylesheet" type="text/css" />
@@ -137,25 +141,25 @@
         <img src="/ctimages/structure2010/header/siteLogo.jpg" alt="High-quality Quilting Fabrics, direct from the mill, starting at $4.96 per yard. Quilting Kits designed by quilters with free instructions. Fabric Fat Quarters, Fabric Charm Packs, and Fabric Strips. 100% cotton Quilting Thread. Quilting Books, Tools and Supplies at discount prices.">
       </a>
       
-      <a href="/cfhelp/Index.cfm?type=ct&amp;CSCatID=81&amp;CSItemID=201" class="siteSlogan">
-        <img src="/ctimages/structure2010/header/siteSlogan1.gif" id="siteSlogan" alt="Free shipping on web orders over $50." border="0">
-      </a>
       
-      <a href="/cfhelp/Index.cfm?type=ct&amp;CSCatID=112&amp;CSItemID=243" class="siteSlogan">
-        <img src="/ctimages/structure2010/header/siteSlogan2.gif" alt="No hassle returns" border="0">
+      
+      <a href="http://www.ConnectingThreads.com/holiday/holiday_quilting.html" title="Holiday Quilting">
+        <img src="/images/holiday2011/MainSiteHeader.jpg" border="0" style="margin-left:10px;">
       </a>
       
       
 	  <div id="cartBlock" onclick="javascript:location.href='http://www.ConnectingThreads.com/cfCart/cart.cfm';">
         <div id="cartTotal">
 		  
-              
+                  
+		
+    	<div id="cartBlockTxt">
+            0 Items : $0.00<br>
+            
+              <span id="cartLeftUntilFS">($50.00 left until Free Shipping!)</span>
+            
+        </div>
     
-    <div id="cartBlockTxt">
-      0 Items : $0.00<br>
-      <span id="cartLeftUntilFS">($50 left until Free Shipping!)</span>
-    </div>
-
         </div>
       </div>
       
@@ -167,6 +171,34 @@
 <div id="cartQuickView" style="display:none;">
   <div id="itemsContainer">
   
+  
+    <h3>Basket Quick View:</h3>
+    <table id="cartContents" style="width:100%;">
+      <tbody><tr style="text-align:center;">
+        <th>Item</th>
+        <th>Price</th>
+        <th>Qty.</th>
+        <th>Total</th>
+      </tr>
+    
+      <tr style="text-align:left;">
+        <td><i>There are no items in your basket</i></td>
+        <td> $0.00 </td>
+        <td style="text-align:center;"> 0 </td>
+        <td> $0.00 </td>
+      </tr>
+    
+    </tbody></table>
+  
+	
+    
+    <div id="cartQuickViewSubTotal">
+    <b>Subtotal: $0.00</b><br>
+    <i>(Does not include shipping or taxes)</i><br>
+    
+    <b><font color="#89171A">$50.00 left until Free Shipping!</font></b><br>
+    
+    </div>
   
   
   </div>
@@ -236,8 +268,10 @@
       
       
       <div id="siteSearch">
-        <input type="text" id="searchWords" onkeypress="javascript:if(event.keyCode == 13){siteSearch(document.getElementById('searchWords').value);return false;}" name="searchWords" value="Search Site" onfocus="document.getElementById('searchWords').value='';document.getElementById('searchWords').style.color='#645347';"> 
-		<input type="button" id="searchBtn" value="" onclick="javascript: siteSearch(document.getElementById('searchWords').value);return false;">
+        <form method="get" action="/cfSearch/Search.cfm" onsubmit="if(document.getElementById('searchWords').value=='Search Site'){document.getElementById('searchWords').value='';}_gaq.push(['_trackEvent', 'Search', 'Search-Spring']);">
+            <input type="text" name="q" id="searchWords" class="searchspring-query" autocomplete="off" value="Search Site" onfocus="document.getElementById('searchWords').value='';document.getElementById('searchWords').style.color='#645347';">
+            <input type="button" id="searchBtn" name="keywordOnly" value="" onclick="if(document.getElementById('searchWords').value=='Search Site'){document.getElementById('searchWords').value='';}submit()">
+        </form>
       </div>      
       
       <br clear="all">
@@ -587,10 +621,16 @@
     <img src="/ctimages/structure2010/footer/roundedCorners_Left.jpg">
   </div>
   <div id="siteFooter">
-    
-    <a href="/cfEmail/CurrentBEM.cfm" title="Sign up for our weekly emails." id="emailSignup">
-      <img src="/ctimages/structure2010/footer/emailSignup.jpg" alt="Sign up for our weekly emails.">
-    </a>
+	
+    <div id="emailAndCatalog">
+      <a href="/cfEmail/CurrentBEM.cfm" title="Sign up for our weekly emails." id="emailSignup">
+        <img src="/ctimages/structure2010/footer/emailSignup_small.jpg" alt="Sign up for our weekly emails.">
+      </a>
+      <br clear="all">
+      <a href="/images/PDF/Catalogs/onlineCatalog.pdf" title="View our Catalog Online" id="onlineCatalog" target="_blank" onclick="_gaq.push(['_trackEvent', 'Online Catalog', 'Viewed']);">
+        <img src="/ctimages/structure2010/footer/onlineCatalog.jpg" alt="View our Catalog Online">
+      </a>
+    </div>
     
     <div id="footerLinks">
       <img src="/ctimages/structure2010/footer/linkHeaders.jpg">
