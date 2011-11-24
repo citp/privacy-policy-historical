@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the focus.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623090850id_/http%3A//www.focus.com/about/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focus.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124185045id_/http%3A//www.focus.com/about/privacy-policies) for the most accurate reproduction.*
 
 # About | Privacy Policies | Focus.com
-
-## ABOUT FOCUS
 
 ###  Privacy Policies 
 
