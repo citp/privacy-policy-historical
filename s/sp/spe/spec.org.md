@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spec.org privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529115437id_/http%3A//www.spec.org/spec/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spec.org privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124114647id_/http%3A//www.spec.org/spec/privacy_policy.html%23new) for the most accurate reproduction.*
 
 # SPEC Privacy Policy
 
@@ -33,7 +33,7 @@
   * [Membership](https://web.archive.org/spec/membership.html)
   * [Press Releases](https://web.archive.org/pressroom.html)
   * [Trademarks](https://web.archive.org/spec/trademarks.html)
-  * [SPEC Fair Use](https://web.archive.org/fairuse.html)
+  * [Fair Use Policy](https://web.archive.org/fairuse.html)
   * [Upcoming Events](https://web.archive.org/events/)
   * [Workshops](https://web.archive.org/workshops/)
   * [Contact](https://web.archive.org/spec/contact.html)
@@ -56,7 +56,7 @@
 
 |   
 
-Effective April 17, 2009 
+Effective July 29, 2011 
 
 ##  Privacy Notice Table Of Contents: 
 
@@ -76,6 +76,8 @@ Effective April 17, 2009
 
 ## Recent Privacy Policy Updates
 
+  * **July 2011**
+    * SPEC and research partners may use aggregated and anonymized data for additional site traffic analysis.
   * **April 2009**
     * Order-related contact information (email and/or mailing address) may be used to contact customers regarding available updates to their licensed products
     * Policy may be amended from time to time with notice posted on the SPEC website
@@ -101,7 +103,7 @@ We use the information you provide about yourself when placing an order to compl
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
-We use non-identifying and aggregate information to better design and maintain our web site. For example, we do review internally which areas of our web site get visits, and at what time, and from what Internet domains. Little of this information is specific to individual behavior, we make no attempt to identify any individual's behavior, and no individual information is ever shared with any 3rd parties.
+We use our system logs, non-identifying information, and aggregate information monitoring for maintaining and improving our web site and our services. For example, we do review internally which areas of our web site get visits, and at what time, and from what Internet domains. Little of this information is specific to individual behavior, we make no attempt to identify any individual's behavior, and no individual information is ever shared with any 3rd parties. We and our research partners may also perform further analysis of site access patterns or traffic using aggregated and anonymized information from the system logs.
 
 Finally, were we ever to use or share any personally identifiable information provided to us online in ways unrelated to the ones described above, we would first provide you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
