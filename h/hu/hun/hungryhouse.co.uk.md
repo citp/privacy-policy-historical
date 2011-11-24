@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hungryhouse.co.uk privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519132433id_/http%3A//hungryhouse.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hungryhouse.co.uk privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124012058id_/http%3A//hungryhouse.co.uk/privacy) for the most accurate reproduction.*
 
 # Takeaway Food Delivery
 
@@ -54,6 +54,12 @@ Users who order as guests cannot view or change their details on the website onc
 When you visit our site, our server sends your computer a "cookie." This cookie is a small packet of information that identifies you as a user of our system. Cookies save you time by retaining your contact information. Cookies do not deliver viruses, and can only be read by the server that sent you the cookie.
 
 You have the ability to accept or decline cookies by modifying the settings in your browser. Please bear in mind however, that you may not be able to use all the features of our site if cookies are disabled.
+
+We may use third-party cookies as part of remarketing activities we conduct with Google and/or other third-party vendors, to help provide you with relevant promotional offers as you use the Internet. As part of these remarketing activities, these third-party cookies may record your visits to this Web site and Web sites visited prior to using this Web site.
+
+Such cookies can then be used to serve advertisements to you on other Web sites. You may choose to be exempt from the use of Google remarketing cookies at the [Google advertising privacy page](http://www.google.com/privacy/ads/). Alternatively, you may opt-out of remarketing on the Google network and similar networks at the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).
+
+Opting out will not prevent advertisements from being served to you on the Internet; it will only affect advertisements that utilize remarketing cookies to serve advertisements on the specified advertising networks. We are not responsible for the activities of other parties that may not comply with your opt-out requests.
 
   5. Security
 
