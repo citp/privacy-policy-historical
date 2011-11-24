@@ -1,19 +1,47 @@
-> *The following text is extracted and transformed from the loaded.co.uk privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214120606id_/http%3A//www.loaded.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loaded.co.uk privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124205928id_/http%3A//www.vitalitypublishing.com/privacy.aspx) for the most accurate reproduction.*
 
-# Loaded Privacy Policy - Privacy Policy - Loaded.co.uk - The original, sexiest and best men's magazine
+# Vitality Publishing | Privacy Policy
 
-## IPC Media Limited Loaded Web Site Privacy Policy
+For the purpose of this statement ‘Website’ refers to the site that you are accessing this Privacy Policy from. 
 
-IPC Media Limited will use the information provided by you in the course of our dealing with you to process your requests and orders and in order to provide a more personalised web-surfing and shopping experience.
+Last Updated and Effective from: 30/Aug/2010 
 
-We may collect anonymous information about your use of this website from cookies and by the use of pixel tags. We may match this information with any other data you have given us for the purposes of fulfilling your orders and other requests, tailoring our site to help you, sending you appropriate marketing communications and maintaining our records. A cookie is a short piece of data which is sent from a web server to a web browser when that browser visits the server's site. Pixel tags are used to read cookies. Most browsers automatically accept cookies. You can set your browser options so that you will not receive cookies and you can also delete existing cookies from your browser. However some of the cookies sent to your browser will help us to save you time, for example by remembering your contact details when you are making an order for the second time ï¿½ this means that you will not have to complete your contact details section again unless they have changed. In addition you may find that some parts of the site will not function properly if you refuse cookies.
+Your privacy and trust are very important to Vitality Publishing. This Privacy Policy describes the information that we collect from you, how we collect this, and what we do with it after we collect it. By using the Website you are accepting the practices described in this Privacy Policy. 
 
-We may share your information with other members of the AOL Time Warner Group of companies, including certain offices in the United States for internal management and administration purposes. We may also share your information with certain reputable third parties in order to fulfil your order or request or in order to obtain professional advice. If you would like details of who these companies are, please write to Company Secretariat, Room 0820, Kingï¿½s Reach Tower, Stamford Street, London SE1 9LS. 
+Please Note: Vitality Publishing reserves the right to make changes to the Privacy Policy at any time. The latest version will always be available from a link on the Website. 
 
-It is possible that IPC Media could merge or be acquired by another business. If this happens, we may share the information that relates to you. You will be sent notice of such an event.
+You may be able to access third party websites directly from the Website. This Privacy Policy does not apply when you access third party websites. 
 
-This website contains various "opt-out" boxes on the relevant pages where you provide your personal information. If you do not want us to provide your personal information to trusted third parties as may be described on the pages of the Web Site or herein, then you should tick the relevant box(es) on such pages of the Web Site and we will not transfer it to those parties, similarly if you do not want us to send you information as described where relevant, you should tick the opt out boxes and we will refrain from sending you such materials. 
+**Information We Collect and How We Use It**
 
-Please note that clicking on to links and banner advertisements may result in your transferral to another website, where data privacy practices may be different to that of IPC Media Limited. Visitors should consult the other websiteï¿½s privacy policies as we are not responsible for, and have no control over, information that is submitted to or collected by these third parties.
+When you place an order, or use any online form on our website we will ask for your name and other information such as your postal address, e-mail address, telephone number and your credit card number and expiry date or bank account details etc to allow us to process your request. Only relevant information will be used by us, our agents and sub-contractors to facilitate the service you have requested and potentially communicate with you on any concerns arising to the provision of the service in general. 
 
-This privacy policy may be changed by IPC Media Limited at any time. The revised policy will be posted to this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. IPC Media Limited will ensure that your personal information is treated with the utmost respect and in accordance with Directive 95/46/EC on the protection of individuals with regard to processing of personal data and on the free movement of such data.
+We use analytic and reporting technologies to record and collect non-personal information from you. This information, such as your browser type, the URL of the previous website you visited, your ISP, operating system, and your Internet protocol (IP) Address, cannot be easily used to personally identify you. Vitality Publishing reserves the right to use partners, who may use web beacons and cookies to help manage, monitor and optimise our Website to help us measure the effectiveness of our advertising, communications and how visitors use the Website. 
+
+**How Is My Personal Information Protected?**
+
+Whenever we obtain your personal information, we use commercially reasonable efforts to protect it from unauthorized access or disclosure. However, we are not insurers of the security of your personal information. Accordingly, we assume no liability for any disclosure of data due to errors in transmission, unauthorised third party access or other acts of third parties, or acts or omissions beyond our reasonable control. 
+
+**Website Content.**
+
+The content that you store, post, or transmit on or through the Website, such as forum postings or images, may be accessed by other users, including people that you do not know. We are not responsible for the actions of others. Therefore, you should use care in communicating with other users and only disclose your personal information to other users that you know to be trustworthy. You should not assume that your content will be kept private. 
+
+**Security**
+
+The security of your personal information is important to us. When you enter sensitive information such as a credit card number on our registration or order forms, we encrypt that information. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+
+**Children Under 13**
+
+The Website is intended for users ages 13 and older. Accordingly, we will not knowingly collect or use any personal information from children that we know to be under the age of 13. In addition, we will delete any information in our database that we know originates from a child under the age of 13. In some instances a child of 13 or under can use the Website but with the authority of a parent or legal guardian. 
+
+**Children Aged 13 to 17**
+
+Prospective users between the ages of 13 and 17 can only use the Website under their parents or legal guardian's supervision. If you are between the ages of 13 and 17, you, your parent, or your legal guardian may request that we deactivate your use on areas of the Website that require personal information. 
+
+**Disclosure of Information to Successors**
+
+We may disclose your personal information to any successor-in-interest of ours, such as a company that acquires us. In the event Vitality Publishing goes through a business transition, such as a merger or acquisition by or with another company, or sale of all or a portion of our assets, your personal information will likely be among the assets transferred. You will be notified of any such change in ownership or control of your personal information. 
+
+**Disclosure of Information to Unaffiliated Third Parties.**
+
+We may disclose your personal information to prevent an emergency, to prevent harm to others, to respond to legal requirements, to protect or enforce our rights and policies, to protect or enforce the rights of a third party, or as required or permitted by law (including, without limitation, to comply with a subpoena or court order). 
