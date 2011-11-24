@@ -1,0 +1,442 @@
+<!--The following is the downloaded HTML source of the biqboq.com privacy policy that was archived on 2011-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124022335id_/http%3A//www.biqboq.com/static/policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="expires" content="0">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+<meta name="description" content="page: Promote web, guarantee the approval process takes within 5 minutes for every site.">
+<meta name="keywords" content="Social Bookmark,Social Network,Submit,DoFollow,Website">
+<meta name="Language" content="en-us">
+<meta name="Robots" content="All">
+<link rel="stylesheet" type="text/css" href="/templates/pliggmeme/css/style.css" media="screen">
+<link rel="stylesheet" href="/templates/pliggmeme/css/mobile.css" type="text/css" media="handheld">
+<meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+<link rel="apple-touch-icon" href="/appicon.png">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/3rdparty/speller/spellChecker.js" type="text/javascript"></script>
+<title>BiqBoq&nbsp;|&nbsp;Privacy Policy</title>
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.biqboq.com/rss.php">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+<script type="text/javascript">
+var _gaq=_gaq || [];
+_gaq.push(['_setAccount', 'UA-19216458-1']);
+_gaq.push(['_trackPageview']);
+(function(){
+var ga=document.createElement('script'); ga.type='text/javascript'; ga.async=true;
+ga.src=('https:' == document.location.protocol ? 'https://ssl' : 'http://www')+'.google-analytics.com/ga.js';
+var s=document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+var oid;
+function show_bookmark(id)
+{
+at = document.getElementById('addto');
+tu = document.getElementById('thisurl');
+ur = document.getElementById('url-' + id);
+h2 = document.getElementById('title-' + id);
+ct = document.getElementById('ls_contents-' + id);
+xx = document.getElementById('ls_comments_url-' + id);
+if(at.style.display == 'none' || oid != id){
+tu.value = ur.href;
+url = escape(ur.href);
+esctitle = escape(h2.innerText);
+content = escape(ct.innerText);
+twt = escape(h2.innerText + (h2.innerText.length<108?' | http://www.biqboq.com' : '') + ' | ');
+oid = id;
+at.style.display = '';
+at.style.top = (getAbsolutePosition(xx).y + 15) + 'px';
+}else{
+at.style.display = 'none';
+}
+}
+function getAbsolutePosition(element) {
+var r = { x: element.offsetLeft, y: element.offsetTop };
+if (element.offsetParent) {
+var tmp = getAbsolutePosition(element.offsetParent);
+r.x += tmp.x;
+r.y += tmp.y;
+}
+return r;
+};
+function getthumb(url) { 
+var req = this.window.ActiveXObject ? new ActiveXObject("Microsoft.XMLHTTP") : new XMLHttpRequest(); 
+if (!req) {throw new Error('XMLHttpRequest not supported');} 
+req.open('HEAD', url, false); 
+req.send(null); 
+if (!req.getResponseHeader) { 
+try { 
+throw new Error('No getResponseHeader!'); 
+} catch (e){ 
+return false; 
+} 
+} else if (!req.getResponseHeader('Content-Length')) { 
+try { 
+throw new Error('No Content-Length!'); 
+} catch (e2){ 
+return false; 
+} 
+} else { 
+return req.getResponseHeader('Content-Length'); 
+} 
+}
+var milisec=1
+var seconds=10
+function countdown(){ 
+if (milisec<=0){ 
+milisec=9 
+seconds-=1 
+} 
+if (seconds<=-1){
+document.getElementById('lm').style.display='none'
+milisec=0 
+seconds+=1
+} 
+else 
+milisec-=1 
+document.getElementById('cd').innerHTML ="Or wait for " + seconds + "." + milisec + " seconds"
+setTimeout("countdown()",100)
+} 
+</script>
+</head>
+<body dir="ltr">
+<div id="fb-root"></div>
+<div id="lm" style="position:fixed;display:none;left:0;top:0;width:100%;height:100%;z-index:999;text-align:center;background:url(http://www.biqboq.com/mask.png);">
+<div style="display:block;position:absolute;top:40%;left:35%;width:350px;height:110px;background:#f2f2f2;border:10px #444 solid;">
+<div style="width:100%;background:#3b5998;color:#eee;font-size:100%;padding:3px 0 2px 0;">Be our friend</div>
+<div style="width:100%;background:#fff;font-weight:bold;padding:3px 0 2px 0;">Click Like to submit</div>
+<div style="padding:10px 0 0 20px">
+<div class="fb-like" data-href="http://www.facebook.com/BiqBoq.fan" data-send="true" data-layout="button_count" data-width="130" data-show-faces="false"></div>
+<div id="cd" style="text-align:right;padding:10px 20px 0 0;">Or wait for 9.2 seconds</div>
+</div>
+</div>
+</div>
+
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+<script type="text/javascript">
+window.fbAsyncInit = function(){
+FB.init({ 
+appId:'fe9b96daa306868f12d8c7c984c6f434',
+channelURL : '//localhost/biqboq/channel.php',
+cookie:true, status:true, oauth:true, xfbml:true
+ });
+}
+</script> 
+
+<script type="text/javascript">countdown()</script> 
+<script type="text/javascript">
+function checkForm(){
+answer=true;
+if (siw && siw.selectingSomething) answer=false;
+return answer;
+}
+</script>
+
+<noscript><div style="text-align:center;color:#e44;background:#ffd;">This page uses Javascript. Your browser either doesn't support Javascript or you have it turned off. To see this page as it is meant to appear please use a Javascript enabled browser.</div></noscript>
+<!-- START HEADER.TPL -->
+<div id="header">
+<div id="header-c">
+<p class="logo">
+<a href="http://www.biqboq.com"><img src="/templates/pliggmeme/images/logo.png" alt="Promote Web With BiqBoq" style="position:relative; top:6px; padding-right:3px;">BiqBoq</a>
+</p>
+<p class="right">
+<a href="/login.php?return=%2Fstatic%2Fpolicy" target="_self">Login</a>&nbsp;
+<a href="/register/" target="_self">Register</a>&nbsp;
+<!-- START RSS -->
+<a href="/rss/" target="_blank" class="rss"><img src="/templates/pliggmeme/images/rss.png" alt="RSS"></a>
+<!-- END RSS -->
+</p>
+</div>
+</div>
+<div id="navigation"><div id="page-nav">
+<ul>
+<li><a href="http://www.biqboq.com/" target="_self">New Websites</a></li>
+<li><a href="/upcoming/" target="_self">Wait for Promote</a></li>
+<li><a href="/submitweb/" target="_self">Submit a New Web</a></li>
+<li><a href="/groups/" target="_self">Groups</a></li>
+</ul>
+<!-- START SEARCH -->
+<div class="search">
+<form action="http://www.biqboq.com/search.php" method="get" name="thisform-search" id="thisform-search" onsubmit="document.location.href=&quot;http://www.biqboq.com/search/&quot;+this.search.value; return false;">
+<input type="text" size="28" class="searchfield" name="search" id="searchsite" label="Search.." value="Search.." onfocus="if(this.value == 'Search..') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search..';}">
+<input type="submit" value="Go" class="searchbutton">
+</form>
+</div>
+<div class="clear"></div>
+<!-- END SEARCH -->
+</div></div>
+<!-- END HEADER.TPL --><!-- START CONTENT --> 
+<div id="wrap-width">
+<!-- START LEFT COLUMN -->
+<div class="main-content">
+<!-- START BREADCRUMBS -->
+<script type="text/javascript">utmx_section("Headline")</script>
+
+<!-- END BREADCRUMBS -->
+<div style="width:600px;">
+<p style="font-size:120%;">
+We apologize to inform that <span style="color:#b00; font-weight:bold;">from the end of January 2012, you will no longer be able to access this website anymore and all of your links will be deleted</span>. Today we just renewed our web hosting for only 3 months because we have not enough money to run this website for longer period. If you like this website and need us to provide longer service please donate us. In the pass, we never received any donate from our 70K+ members and situation seriously now.
+<br><br>Please do not hesitate to contact us if you have alternative way to keep this website available.
+<br><br>BiqBoq admin
+<br>biqboq.com@gmail.com
+<br>1 Nov 2011
+</p>
+<div style="float:right;position:relative;right:150px;">
+<a target="_blank" href="https://www.paypal.com/verified/pal=extrabank@gmail.com">
+<img src="http://www.paypal.com/en_US/i/icon/verification_seal.gif" title="Official PayPal Seal" alt="Official PayPal Seal"></a>
+</div>
+Like this? Donate via PayPal (secure)<br><a href="/static/why-donate/">Why donate?</a>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_donations">
+<input type="hidden" name="business" value="extrabank@gmail.com">
+<input type="hidden" name="lc" value="US">
+<input type="hidden" name="item_name" value="BiqBoq.com">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="no_note" value="0">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="bn" value="PP-DonationsBF:btn_donate_LG.gif:NonHostedGuest">
+<select name="amount">
+<option value="1.00" label="$1.00" selected="">$1.00</option>
+<option value="3.00" label="$3.00">$3.00</option>
+<option value="5.00" label="$5.00">$5.00</option>
+<option value="10.00" label="$10.00">$10.00</option>
+<option value="30.00" label="$30.00">$30.00</option>
+<option value="50.00" label="$50.00">$50.00</option>
+<option value="100.00" label="$100.00">$100.00</option>
+</select>&nbsp;USD&nbsp;&nbsp;
+<input type="image" style="margin:-9px 0 5px 0;" src="https://www.paypal.com/en_US/i/btn/x-click-but04.gif" border="0" name="submit" title="Donate at PayPal" alt="PayPal - The safer, easier way to pay online!">
+</form>
+Don't have a PayPal account?
+<br><a target="_blank" href="https://www.paypal.com/cgi-bin/webscr?cmd=_registration-run">Sign Up for a PayPal Account</a>
+</div>
+<br>
+<div style="width:100%;">
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-8248388569554769";
+/* 728x90, �١���ҧ������� 12/16/09 */
+google_ad_slot = "3077072823";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+<!--<script src="http://tag.contextweb.com/TagPublish/getjs.aspx?action=VIEWAD&cwrun=200&cwadformat=728X90&cwpid=541755&cwwidth=728&cwheight=90&cwpnet=1&cwtagid=113138"></script>-->
+</div>
+<h2>Privacy Policy</h2>
+We value our customers and their privacy. All personal information is used to ensure efficient processing of your submit.  We will not give, sell, rent, or loan any personally identifiable information to any third party, unless we are legally required to do so or you authorize us to do so. <br><br>
+<h2>Voluntary Registration Information</h2>
+In order to fully access this Site, you must first complete the registration process, during which we will collect personal information about you. The information will include your name, address, and email address. We do not collect personally identifiable information about you except when you specifically provide such information to us on a voluntary basis.<br><br>
+By registering with us, you consent to the use and method of disclosure as described in this Privacy Policy.<br><br>
+<h2>How We Protect Your Information</h2>
+We are committed to protecting the information we receive from you. We take appropriate security measures to protect your information against unauthorized access to or unauthorized alteration, disclosure or destruction of data. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we maintain appropriate physical, electronic, and managerial procedures to safeguard and secure the information and data stored on our system. While no computer system is completely secure, we believe the measures we have implemented reduce the likelihood of security problems to a level appropriate to the type of data involved.<br><br>
+<h2>Cookies</h2>
+Our site uses "cookies" and other tracking technologies. Cookies enable us to serve secure pages to our users without asking them to sign in repeatedly. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. If a user's system is idle for a defined time, the cookie will expire, forcing the user to sign in again to continue their session. This prevents unauthorized access to the user's information while they are away from their computer.<br>
+You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Site.<br><br>
+<h2>Security</h2>
+This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. When our registration form asks users to enter sensitive information (such as email and password), that information is encrypted and protected.<br><br>
+If you have any questions about the security at our web site, please send an e-mail to support@biqboq.com.
+<div id="addto" style="display:none;position:absolute;z-index:9;padding-left:90px;">
+<div style="background:#fff;padding:10px;margin:0;font-size:16px;border:2px solid #777; -moz-box-shadow: 3px 3px 4px #999; -webkit-box-shadow: 3px 3px 4px #999; box-shadow: 3px 3px 4px #999; -ms-filter:progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#999999'); filter:progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#999999');">
+<div style="margin:0; padding:0; line-height:20px;">&nbsp;
+<a target="_blank" href="#" title="submit to Del.icio.us" onclick="window.open('http://del.icio.us/post?v=4&amp;noui&amp;jump=close&amp;url=' + url + '&amp;title=' + esctitle); return false;" style="background:url(http://www.biqboq.com/modules/social_bookmark/images/delicious.png) 0 0 no-repeat; padding-right:20px;"></a>&nbsp;
+<a target="_blank" href="#" title="submit to Digg" onclick="window.open('http://digg.com/submit?phase=2&amp;url=' + url + '&amp;title=' + esctitle + '&amp;bodytext=' + content); return false;" style="background:url(http://www.biqboq.com/modules/social_bookmark/images/digg.png) 0 0 no-repeat; padding-right:20px;"></a>&nbsp;
+<a target="_blank" href="#" title="submit to Reddit" onclick="window.open('http://reddit.com/submit?url=' + url + '&amp;title=' + esctitle); return false;" style="background:url(http://www.biqboq.com/modules/social_bookmark/images/reddit.gif) 0 0 no-repeat; padding-right:20px;"></a>&nbsp;
+<a target="_blank" href="#" title="submit to Technorati" onclick="window.open('http://www.technorati.com/faves?add=' + url); return false;" style="background:url(http://www.biqboq.com/modules/social_bookmark/images/technorati.gif) 0 0 no-repeat; padding-right:20px;"></a>&nbsp;
+<a target="_blank" href="#" title="submit to Slashdot" onclick="window.open('http://slashdot.org/bookmark.pl?url=' + url + '&amp;title=' + esctitle); return false;" style="background:url(http://www.biqboq.com/modules/social_bookmark/images/slashdot.gif) 0 0 no-repeat; padding-right:20px;"></a>&nbsp;
+<a target="_blank" href="#" title="submit to Stumbleupon" onclick="window.open('http://www.stumbleupon.com/submit?url=' + url + '&amp;title=' + esctitle); return false;" style="background:url(http://www.biqboq.com/modules/social_bookmark/images/icon-stumbleupon.gif) 0 0 no-repeat; padding-right:20px;"></a>&nbsp;
+<a target="_blank" href="#" title="submit to Windows Live" onclick="window.open('https://favorites.live.com/quickadd.aspx?url=' + url + '&amp;title=' + esctitle); return false;" style="background:url(http://www.biqboq.com/modules/social_bookmark/images/windowslive.gif) 0 0 no-repeat; padding-right:20px;"></a>&nbsp;
+<a target="_blank" href="#" title="submit to Squidoo" onclick="window.open('http://www.squidoo.com/lensmaster/bookmark?' + url); return false;" style="background:url(http://www.biqboq.com/modules/social_bookmark/images/squidoo.gif) 0 0 no-repeat; padding-right:20px;"></a>&nbsp;
+<a target="_blank" href="#" title="submit to Facebook" onclick="window.open('http://www.facebook.com/sharer.php?u=' + url + '&amp;t=' + esctitle); return false;" style="background:url(http://www.biqboq.com/modules/social_bookmark/images/facebook.gif) 0 0 no-repeat; padding-right:20px;"></a>&nbsp;
+<a target="_blank" href="#" title="submit to Twitter" onclick="window.open('http://twitter.com/share?url=' + url + '&amp;text=' + twt); return false;" style="background:url(http://www.biqboq.com/modules/social_bookmark/images/twitter.png) 0 0 no-repeat; padding-right:20px;"></a>&nbsp;
+<a target="_blank" href="#" title="submit to Yahoo" onclick="window.open('http://myweb2.search.yahoo.com/myresults/bookmarklet?u=' + url + '&amp;title=' + esctitle); return false;" style="background:url(http://www.biqboq.com/modules/social_bookmark/images/yahoo.png) 0 0 no-repeat; padding-right:20px;"></a>&nbsp;
+<a target="_blank" href="#" title="submit to Google" onclick="window.open('http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=' + url + '&amp;title=' + esctitle); return false;" style="background:url(http://www.biqboq.com/modules/social_bookmark/images/googlebookmarks.gif) 0 0 no-repeat; padding-right:20px;"></a>&nbsp;
+</div>
+<hr>
+<p style="font-size:16px;font-weight:bold;margin:0px;">Link to this website</p>
+<form name="storyurl"><input type="text" name="thisurl" id="thisurl" label="Link to this website" size="70" onclick="select_all();" value="http://www.biqboq.com"></form>
+</div>
+</div>
+</div>
+<!-- END LEFT COLUMN -->
+<!-- START RIGHT COLUMN -->
+<div id="side-bar">
+<div style="margin-bottom:10px;"><g:plusone></g:plusone></div>
+<div style="margin-bottom:10px; width:210px;"><a href="http://twitter.com/BiqBoq_" class="twitter-follow-button" data-text-color="dddddd" data-link-color="bbbbff"></a></div>
+<div class="side-box"><!-- START ABOUT -->
+        <div class="headline">
+            <div class="sectiontitle"><a href="/page.php?page=about">What is Biqboq?</a></div>
+            </div>
+            <div id="aboutcontent" style="padding-top:10px;">
+                Promote your website with BiqBoq, best do-follow social bookmarking. Guarantee the approval process takes within 5 minutes for every site.            </div>
+<!-- END ABOUT --></div><div class="side-box">
+<div class="headline">
+<div class="sectiontitle"><a href="/login.php?return=%2Fstatic%2Fpolicy">Login</a></div>
+</div>
+<div class="boxcontent">
+<form action="/login.php?return=%2Fstatic%2Fpolicy" method="post"> 
+Username:<br><input type="text" name="username" class="login" label="Username" value="" tabindex="40"><br>
+Password:<br><input type="password" name="password" class="login" label="Password" tabindex="41" style="margin-bottom:10px;"><br>
+<input type="hidden" name="processlogin" value="1">
+<input type="hidden" name="return" value="">
+Remember: <input type="checkbox" name="persistent" label="Remember" tabindex="42" style="padding-right:20px;">
+<input type="submit" value="Login" class="submit-s" tabindex="43">
+</form>
+</div>
+</div>
+<div class="side-box"><div class="headline">
+<div class="sectiontitle">Categories</div>
+</div>
+<ul class="ver-cats">
+<li><a href="/Art-and-Photography">Art and Photography</a></li><li><a href="/Automotive">Automotive</a></li><li><a href="/Business">Business</a></li><li><a href="/Computers">Computers</a></li><li><a href="/Education">Education</a></li><li><a href="/Entertainment">Entertainment</a></li><li><a href="/Finances">Finances</a></li><li><a href="/Food-and-Drinks">Food and Drinks</a></li><li><a href="/Gaming">Gaming</a></li><li><a href="/Health">Health</a></li><li><a href="/Home-and-Gardening">Home and Gardening</a></li><li><a href="/Insurance">Insurance</a></li><li><a href="/Internet">Internet</a></li><li><a href="/Jobs">Jobs</a></li><li><a href="/Kid-and-Family">Kid and Family</a></li><li><a href="/Legal">Legal</a></li><li><a href="/Marketing">Marketing</a></li><li><a href="/Pets">Pets</a></li><li><a href="/Politics">Politics</a></li><li><a href="/Real-Estate">Real Estate</a></li><li><a href="/Shopping-and-Product">Shopping and Product</a></li><li><a href="/Society">Society</a></li><li><a href="/Sports">Sports</a></li><li><a href="/Technology">Technology</a></li><li><a href="/Travel">Travel</a></li><li><a href="/Womens-Interest">Womens Interest</a></li><li><a href="/Others">Others</a></li></ul></div><div class="side-box"><div class="headline">
+<div class="sectiontitle"><a href="/tagcloud/">Top Tags</a></div>
+</div>
+<div class="boxcontent tagformat">
+<span style="font-size:16.8363636364pt">
+<a href="/tag/beat+making/">beat making</a>
+</span>
+<span style="font-size:12.9636363636pt">
+<a href="/tag/best/">best</a>
+</span>
+<span style="font-size:12.3363636364pt">
+<a href="/tag/business/">business</a>
+</span>
+<span style="font-size:16.2909090909pt">
+<a href="/tag/dubturbo/">dubturbo</a>
+</span>
+<span style="font-size:16.5909090909pt">
+<a href="/tag/hobby/">hobby</a>
+</span>
+<span style="font-size:14.2727272727pt">
+<a href="/tag/info/">info</a>
+</span>
+<span style="font-size:12.1181818182pt">
+<a href="/tag/music/">music</a>
+</span>
+<span style="font-size:13.8363636364pt">
+<a href="/tag/news/">news</a>
+</span>
+<span style="font-size:12.0363636364pt">
+<a href="/tag/online/">online</a>
+</span>
+<span style="font-size:17pt">
+<a href="/tag/software/">software</a>
+</span>
+</div></div><link rel="stylesheet" type="text/css" href="/modules/users_geo/css/style.css" media="screen,handheld">
+<div class="side_box">
+<div style="border-bottom: 1px solid #cccccc; padding-bottom:5px;">
+<div>Members Online: <span style="color:#84BB2E;">323</span></div>
+<div>Guest Online: <span style="color:#84BB2E;">400</span></div>
+<div>Total Users Online: <span style="color:#84BB2E;">723</span></div>
+<div>New Members Yesterday: <span style="color:#84BB2E;">255</span></div>
+<div>Users Online Yesterday: <span style="color:#84BB2E;">8,481</span></div>
+<div>Registered Members: <span style="color:#84BB2E;">82,940</span></div>
+</div>
+<div>
+<ul class="ver-cats">
+<li style="background:url(http://www.biqboq.com/avatars/Gravatar_15.gif) 5px 3px no-repeat;">
+<span style="float:right;"></span>
+</li>
+<li style="background:url(http://www.biqboq.com/modules/users_geo/flags/ph.png) 152px 3px no-repeat; border-bottom:1px solid #c3c3c3;" title="Philippines">
+<a style="float:left;" href="/user/profile/marcosmercedes01/" title="IP: 112.210.92.100">marcosmercedes01</a>
+</li>
+<li style="background:url(http://www.biqboq.com/avatars/Gravatar_15.gif) 5px 3px no-repeat;">
+<span style="float:right;">Bangalore</span>
+</li>
+<li style="background:url(http://www.biqboq.com/modules/users_geo/flags/in.png) 152px 3px no-repeat; border-bottom:1px solid #c3c3c3;" title="India">
+<a style="float:left;" href="/user/profile/vincentumberto/" title="IP: 122.167.100.226">vincentumberto</a>
+</li>
+<li style="background:url(http://www.biqboq.com/avatars/Gravatar_15.gif) 5px 3px no-repeat;">
+<span style="float:right;">Clarks Summit</span>
+</li>
+<li style="background:url(http://www.biqboq.com/modules/users_geo/flags/us.png) 152px 3px no-repeat; border-bottom:1px solid #c3c3c3;" title="United States">
+<a style="float:left;" href="/user/profile/pwm201101/" title="IP: 199.19.104.140">pwm201101</a>
+</li>
+<li style="background:url(http://www.biqboq.com/avatars/Gravatar_15.gif) 5px 3px no-repeat;">
+<span style="float:right;"></span>
+</li>
+<li style="background:url(http://www.biqboq.com/modules/users_geo/flags/ca.png) 152px 3px no-repeat; border-bottom:1px solid #c3c3c3;" title="Canada">
+<a style="float:left;" href="/user/profile/poleon/" title="IP: 199.204.45.170">poleon</a>
+</li>
+<li style="background:url(http://www.biqboq.com/avatars/Gravatar_15.gif) 5px 3px no-repeat;">
+<span style="float:right;"></span>
+</li>
+<li style="background:url(http://www.biqboq.com/modules/users_geo/flags/de.png) 152px 3px no-repeat; border-bottom:1px solid #c3c3c3;" title="Germany">
+<a style="float:left;" href="/user/profile/dmarylyn/" title="IP: 46.4.211.206">dmarylyn</a>
+</li>
+<li style="background:url(http://www.biqboq.com/avatars/Gravatar_15.gif) 5px 3px no-repeat;">
+<span style="float:right;">Hangzhou</span>
+</li>
+<li style="background:url(http://www.biqboq.com/modules/users_geo/flags/cn.png) 152px 3px no-repeat; border-bottom:1px solid #c3c3c3;" title="China">
+<a style="float:left;" href="/user/profile/heelias/" title="IP: 60.12.222.27">heelias</a>
+</li>
+<li style="background:url(http://www.biqboq.com/avatars/Gravatar_15.gif) 5px 3px no-repeat;">
+<span style="float:right;">Hefei</span>
+</li>
+<li style="background:url(http://www.biqboq.com/modules/users_geo/flags/cn.png) 152px 3px no-repeat; border-bottom:1px solid #c3c3c3;" title="China">
+<a style="float:left;" href="/user/profile/uelldill/" title="IP: 60.169.78.54">uelldill</a>
+</li>
+<li style="background:url(http://www.biqboq.com/avatars/Gravatar_15.gif) 5px 3px no-repeat;">
+<span style="float:right;">Scranton</span>
+</li>
+<li style="background:url(http://www.biqboq.com/modules/users_geo/flags/us.png) 152px 3px no-repeat; border-bottom:1px solid #c3c3c3;" title="United States">
+<a style="float:left;" href="/user/profile/jmathieson/" title="IP: 64.191.121.216">jmathieson</a>
+</li>
+<li style="background:url(http://www.biqboq.com/avatars/Gravatar_15.gif) 5px 3px no-repeat;">
+<span style="float:right;">Dallas</span>
+</li>
+<li style="background:url(http://www.biqboq.com/modules/users_geo/flags/us.png) 152px 3px no-repeat; border-bottom:1px solid #c3c3c3;" title="United States">
+<a style="float:left;" href="/user/profile/pwm201101/" title="IP: 64.31.62.213">pwm201101</a>
+</li>
+<li style="background:url(http://www.biqboq.com/avatars/Gravatar_15.gif) 5px 3px no-repeat;">
+<span style="float:right;">Istanbul</span>
+</li>
+<li style="background:url(http://www.biqboq.com/modules/users_geo/flags/tr.png) 152px 3px no-repeat; border-bottom:1px solid #c3c3c3;" title="Turkey">
+<a style="float:left;" href="/user/profile/cha3serssre/" title="IP: 88.235.195.106">cha3serssre</a>
+</li>
+</ul>
+<sub> Last 10 members only</sub></div>
+</div>
+</div>
+<!-- END RIGHT COLUMN -->
+</div>
+<!-- END CONTENT --> 
+<br>
+<!-- START FOOTER -->
+<div id="footer-nav">
+<div id="footer-nav-c">
+<p class="center">
+<a href="http://www.biqboq.com">Home</a>
+<a href="http://www.biqboq.com/rssfeeds.php">RSS Feeds</a>
+<a href="http://www.biqboq.com/advanced-search/">Advanced Search</a>
+<a href="http://www.biqboq.com/topusers/">Top Users</a>
+<a href="http://www.biqboq.com/tagcloud/">Tag cloud</a><a href="http://www.biqboq.com/live/">Live Activities</a></p>
+</div>
+</div>
+<div id="footer">
+<div id="footer-c">
+<a href="http://www.biqboq.com">Copyright © 2009 - 2011 BiqBoq Inc.</a>
+<a href="http://www.biqboq.com/static/policy">Privacy Policy</a>
+<a href="http://www.biqboq.com/static/terms">Terms of Use</a>
+<a href="http://www.biqboq.com/static/about-us">About Us</a>
+</div>
+<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+function select_all()
+{
+var text_val=eval("document.storyurl.thisurl");
+text_val.focus();
+text_val.select();
+}
+(function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script>
+<!-- END FOOTER --> 
+<script src="/templates/xmlhttp.php" type="text/javascript"></script> 
+
+
+</div></body></html>
