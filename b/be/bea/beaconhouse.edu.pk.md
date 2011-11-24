@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beaconhouse.edu.pk privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428084559id_/http%3A//beaconhouse.edu.pk/bssgroup/cms_main2.php%3Fid%3D194) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beaconhouse.edu.pk privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124235715id_/http%3A//www.beaconhouse.edu.pk/bssgroup/cms_main2.php%3Fid%3D194) for the most accurate reproduction.*
 
 # Privacy Statement
 
