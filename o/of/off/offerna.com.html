@@ -1,0 +1,645 @@
+<!--The following is the downloaded HTML source of the offerna.com privacy policy that was archived on 2011-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111124021437id_/http%3A//www.offerna.com/pages/privacy_policy%3Flocale%3Den) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title> Offerna.com </title>
+        <meta name="description" content="Privacy Policy">
+        <meta name="keywords" content="">
+
+        <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="2DuWvU/i5vZO1YDC1WhiSJ6Ez9ywdkOqwubp61jpWes=">
+        <link href="/stylesheets/web-en.css" rel="stylesheet" type="text/css">
+        <link rel="shortcut icon" href="/images/favicon.ico">
+                <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-20526362-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+        </script>
+
+    </head>
+    <body>
+        
+      <!-- ClickTale Top part -->
+      <script type="text/javascript">
+      var WRInitTime=(new Date()).getTime();
+      </script>
+      <!-- ClickTale end of Top part -->
+     
+        
+        <div id="fb-root">
+        <script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+        <script>
+            <!--
+            fb_app = '177362268970527';
+
+            window.fbAsyncInit = function() {
+            FB.init({appId: fb_app, status: true, cookie: true, xfbml: true});
+            FB.Event.subscribe('auth.login', function(response) {
+
+            if (response.session)
+            {
+            access_token = response.session.access_token;
+            uid = response.session.uid;
+
+            //Fetching user name and email
+            FB.api('/me', function(response) {
+            if (response.name){
+            user_name = response.name;
+            }
+            if (response.email){
+            email = response.email;
+
+            }
+            locale = "en";
+                facebookLogin(access_token,uid,user_name,email,locale);
+
+                });
+                }
+                else
+                {
+                alert(alerts.facebookSessioExpired());
+                loc = window.location;
+                window.location = loc;
+                return;
+                }
+                });
+                FB.getLoginStatus( function(response) {
+                    if (response.session) {
+
+                    }
+                });
+                FB.Event.subscribe('auth.logout', function(response) {
+                    current_user_id =   $("#current_user_id").val();
+                    facebookLogout(current_user_id);
+                });
+                };
+                ( function() {
+                    var e = document.createElement('script');
+                    e.async = true;
+                    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+                    document.getElementById('fb-root').appendChild(e);
+
+                }());
+                //-->
+        </script>
+        <div class="top-bg">
+            
+
+
+<div id="invite_form_box" class="pageOverlay" style="display:none;margin-top:-30px;">
+    <div class="invite_frinds">
+
+        <div id="mainContent">
+             <div id="success_msg" class="flash flash-notice" style="display:none;font-size:12px;">
+                Invitation sent successfully. You will earn cash credit once your friend buys an offer from Offerna.com.
+             </div>
+             <div id="failure_msg" class="flash flash-error" style="display:none;font-size:12px;">
+                Something wrong in the address.
+             </div>
+
+           <form id="invitation_form" action="/invitations/send_inv">
+                <h3 style="margin-top:10px;">
+                  Invite friends &amp; earn LE
+                  25
+                  when they each buy their first offer
+                </h3>
+                <p>
+                    <label>
+                        Invite a friend via email<small>(use comma to separate emails)</small>
+                    </label>
+                    <input class="input_text" id="invitation_to" name="invitation[to]" type="text" value="">
+                </p>
+                <p>
+                    <label>
+                        Message
+                    </label>
+                    <textarea class="input_text" id="invitation_msg" name="invitation[msg]"></textarea>
+                </p>
+                
+                <p class="form-buttons">
+                  <span class="loading" style="display:none"><img alt="Loading" src="../../images/loading.gif"></span>
+                  <a onclick="close_invitation_box();">Close and go back to Homepage</a>
+                  <input type="button" value="Send Invitation" class="input_button small" onclick="sendInvitation();">
+                </p>
+
+            </form>
+            
+        </div>
+    </div>
+</div> 
+ 
+<div class="header-holder ">
+    <!--1-1-logo-->
+    <div class="logo">
+        <h1>
+        <a href="/" class="hideText"> Offerna  </a>
+        </h1>
+    </div>
+    <div class="header-rt">
+        <!--1-2-sign in-->
+        <div id="top_bar">
+
+            <div class="country">
+                <div class="city">
+                    Cairo
+                </div>
+                <div id="guides-city" style="display:none">
+                </div>
+                <div id="guides-city1" class="city-list" style="display:none">
+                    <a onclick="call_set_current_city_in_session('2')"> Alexandria</a>
+                </div>
+            </div>
+          
+            <div class="user_menu">
+              <div class="user_menu_right">
+             <span class="hav">Have an account?</span> 
+              <div class="bottom_wrapper">
+                  <div id="topnav" class="topnav"><a href="login" class="signin"><span>Login</span></a></div> 
+                  <fieldset id="signin_menu">
+                     <form accept-charset="UTF-8" action="/user_sessions" class="user_session_new" id="signin" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="2DuWvU/i5vZO1YDC1WhiSJ6Ez9ywdkOqwubp61jpWes="></div>
+                          <p>
+                           <label for="user_session_E-Mail">E-mail</label>
+                           <input id="user_session_email" name="user_session[email]" size="30" type="text">
+                          </p>
+            
+                          <p>
+                           <label for="user_session_Password">Password</label>
+                           <input id="user_session_password" name="user_session[password]" size="30" type="password">
+                          </p>
+                          <p class="remember">
+                           <input id="signin_submit" name="commit" type="submit" value="Login">
+                           <input name="user_session[remember_me]" type="hidden" value="0"><input id="user_session_remember_me" name="user_session[remember_me]" type="checkbox" value="1">
+                           <label for="user_session_Remember me">Remember me</label>
+                          </p>
+                          <p class="forgot">
+                           <!-- a href="#" id="resend_password_link" >Forgot your password?</a --> 
+                           <a href="/password_resets" html="{:id=>&quot;resend_password_link&quot;}">Forgot Password?</a>
+                          </p>
+                          <p>
+                          <fb:login-button autologoutlink="true" perms="email,user_birthday,status_update,publish_stream">Connect with Facebook</fb:login-button>
+                         </p>
+                   </form> <!--End iof From for -->
+               </fieldset>
+             </div> <!--- ends of bottom_wrapper-->
+              <span class="hav"> No? </span>
+               
+              <div class="register"> 
+                   <a href="/signup" class="signin_link">Register</a>
+              </div>  
+              
+              </div><!-- user_menu_right Ends-->
+       </div><!-- user_menu Ends-->
+       
+     </div>
+        <!--1-3-menu&faq-->
+        
+        <div class="header-rit-bar">
+          
+              <a href="http://www.offerna.com/ar/pages/privacy_policy?locale=en" class="faq"> عربي  </a>
+           <a href="/pages/faqs?locale=en" class="faq"> FAQ</a>
+           
+           <div class="menu-bar">
+             <a id="today_deal" href="/">Today’s Offer</a>
+             <a id="recent_deals" href="/deals">More Offers</a>
+             <a id="how_it_works" href="/pages/how_it_works?locale=en">How It Works</a>
+           </div>
+           
+        </div>
+                    
+        
+               <a href="http://offerna.com/login" class="Refer-btn"><img src="http://offerna.com/images/refer-people.png" width="221" height="54" border="0"></a>
+    </div>
+</div>
+
+<style>
+.fb_button_text_rtl, .fb_button_medium_rtl .fb_button_text {
+margin-left: 0;
+}
+.fb_button_medium_rtl {
+    background-position: 126px -396px;
+}
+</style>
+
+
+            <!--2-main body with content-->
+            <div class="main-holder">
+                <div class="content-holder">
+
+                  <div class="offers-side">
+    <div class="call_Widget">
+	<span class="call-btn"><img width="222" height="148" border="0" src="/images/call_en_btn.png"></span>
+ </div>
+
+        <div class="side_bar_deal_subscribe" id="news_letter_main_div">
+              <div class="sidebar_deal_subscribe_titel">
+                   <h3> Don’t miss out on another deal! </h3>   
+                   <p> 
+                     Leave your email to get email notifications with new offers 
+                   </p> 
+              </div>
+<form accept-charset="UTF-8" action="/newsletters" class="new_newsletter" id="new_newsletter" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="2DuWvU/i5vZO1YDC1WhiSJ6Ez9ywdkOqwubp61jpWes="></div>                <div class="sidebar_deals_sub">
+                   <input class="input_text" id="newsletter_email" name="newsletter[email]" size="30" type="text">
+                   <span id="error_span"></span>
+                </div>
+                <input type="hidden" name="side_newsletter" value="true">
+                <div class="sidebar_sub_button">
+                   <input class="input_Submit" id="newsletter_submit" name="commit" type="submit" value="Subscribe">         
+                </div>
+</form>          <div class="sidebar_deals_sub_loading">
+               <img id="loading_image" style="display:none" src="/images/loading.gif">
+          </div>
+       </div><!-- deal_subscribe Ends -->
+          
+        <div class="sidebar_deal_subscribe_done" id="newsletter_status_success" style="display:none">
+            <div class="sidebar_deal_subscribe_titel">
+                  <h3> Thank You, you have registered your email successfully </h3>                     
+            </div>
+        </div> 
+        
+         <div class="sidebar_deal_subscribe_fail" id="newsletter_status_fail" style="display:none">
+            <div class="deal_subscribe_titel">
+                  <h3> This email is already registered </h3>                     
+            </div>
+        </div>
+    
+    <!--2-3-adv-item1-->
+    <div class="likefb_widget">
+      <div class="fblike">
+     
+       <fb:like-box href="http://www.facebook.com/pages/Offernacom/182478948440794" style="border: 1px solid #b1bd7d;margin: 0 auto;" height="270" width="200" show_faces="true" stream="false" header="true"></fb:like-box>
+     </div><!-- fblike ends -->
+    
+      <div class="fb_bottom">
+        
+      </div>
+    </div><!-- likefb_widget ends-->
+    
+    <!--2-4-twitter-->
+    
+    <div class="twitter-follow">
+          <a target="_blank" href="http://twitter.com/#!/Offerna?utm_source=followus&amp;utm_medium=hp_en&amp;utm_campaign=twitter">Follow us on Twitter</a>
+     </div>
+     
+      <div class="adv-temp-holder">
+        <div class="adv-temp-top">
+            <img src="http://offerna.com/images/look-feel/offer-top-g.png" width="217" height="10">
+        </div>
+        <div class="adv-data">
+            <div class="coins">
+                <img src="http://offerna.com/images/look-feel/coins.png" width="78" height="84">
+            </div>
+            <div class="adv-temp-txt">
+                <span class="font-16"> Feature Your Business</span>
+                <div class="grey-font">
+                  Are you a business owner? Get your offers on Offerna.com
+                    <a href="/supports/new"> Contact us NOW! </a>
+                </div>
+            </div>
+        </div>
+        <div>
+            <img src="http://offerna.com/images/look-feel/offer-btm-g.png" width="217" height="10">
+        </div>
+    </div>
+</div>
+
+
+
+                  <div id="content">
+                    
+
+       <div class="block_top_corners">
+  </div>
+  <div class="page page-session">
+      <div class="about_us">
+          <h2> Privacy Policy </h2>
+          
+          <p> The present privacy policy (the "Policy") represents our internal guidelines for the management, employees and contractors of Offerna LLC in the context of the operation of the website www.offerna.com which entails the fact that users will be submitting and sharing certain information some of which are considered as personal while other are considered as public domain information (collectively the "User Information").  </p>
+         
+          <p> It would be helpful to start by identifying what this policy is and what it is not. This Policy is a code of conduct and an internal regulation that we circulate to the principals, employees, directors, service providers and shareholders of Offerna LLC so as to inform them of what we deem acceptable or unacceptable actions when it comes to handling the User Information. This Policy also aims at letting you know how we operate certain aspects of our website that store User Information and the fact that you may, through our website interact with third parties who may come to contact with User Information. </p>
+          
+          <p> This Policy 
+             <span style="text-decoration : underline;"> is not  </span>
+             a legally binding agreement, a unilateral undertaking a representation or a warranty of any type to be given to users, government agencies, natural or juristic persons of any type or capacity.  
+          </p>
+          
+          <p> We have the full right and discretion to decide on the appropriate consequence for our stakeholders' commitment or breach of this Policy we also reserve the right to maintain such consequences as a confidential matter or to make it public information.</p>
+         
+          <p>  The reason why we receive User Information is to enable us to provide services through our website to our end users. Such information would contain inter alia information that enable us to identify our clients and be able to transact with them pursuant to applicable laws such as information pertaining to age which enables us to determine the capacity of our client to enter into a legally binding agreement, information required to enable our users to access our website repeatedly such as the user name and password as well as the email address which is used to manage the user account, especially, in those cases of forgotten log in names and passwords, information to enable us to transact with the client such as the preferred payment method, information required to provide the services to our clients such as the email address, physical address, mobile number which are used to send vouchers, billing and collection. Other information relate to user preferences and general interests which is a key element in our strategy to enable us to find the best possible promotions to match our clients' expectations and communicate those as effectively as possible. </p>
+         
+          <p>  User Information generally excludes the information that we deduce, compile or extract whether by ourselves or through the use of third party service providers, such information is generally based on analysis of the data that we collect from various sources as well as statistics and deductions. <br> We are bound by the rules of applicable laws with respect to handling private and personal data of Internet users. </p>
+         
+          <p> As a general rule, User Information are handled electronically and are not accessible to stakeholders in the context of day to day operation in our company. We do not share User Information whether with our stakeholders or with third parties. We, however, cooperate with law enforcement agencies and all the authorities that have proper jurisdiction to request User Information in the context of law enforcement operations and investigations that pertain to public interest, criminal or civil actions, public safety and crime prevention and fighting. </p>
+          
+          <p> We will use User Information to tailor offers that best match our users' interests, habits and demographics and we will use our analysis to approach existing and new providers with our findings so that we would increase offers presented through our website and solicit new ones. In approaching providers, we shall use statistics and information derived from User Information, however User Information will not be conveyed to providers.</p>
+            
+          <p> The security of User Information is important to us.  We ensure that the providers of payment services encrypt credit card information using secure socket layer technology (SSL).  Other service providers that we use for collection services other than online credit card usage are either bound by a confidentiality undertaking not to use or dispose of User Information or are bound by other industry standard documents that ensure user privacy and the security of User Information.</p>
+            
+          <p> We will follow generally accepted industry standards to protect User Information.  No method of transmission over the Internet, or method of electronic storage, is fully secure, however, we will continuously try to use and implement commercially acceptable means to protect User Information in order to ensure the continuity of our service and the privacy of our users. </p>
+            
+          <p> User Information is considered as a key asset in most Internet based businesses, as a company, we may always be subject to transactions involving our assets and our equity including mergers, subdivisions or acquisition by third party; User Information is key in valuations that take place prior to such actions and are one of the key assets transferred once those transactions have taken place. We will ensure that our legal successors treat User Information in the same manner that we do and continue to develop and implement methods to better protect them. </p>
+          
+          <p> 
+             Users of our service will be given the option either to alter User Information 
+             <span style="text-decoration : underline;"> provided always  </span>
+             that the alteration is lawful and does not entail any fraudulent behavior or request the deletion of same entirely and we will comply with such requests to the best of our ability observing solid commercial sense.
+           </p>
+          
+          <p> 
+            Our website will likely contain advertisements or other methods which will link to other websites, our users are advised that we do not give any representation or warranty with respect to such other websites' policy regarding the protection and usage of personal information. We do not and will not recommend the security features or privacy policy of any third party unless we have conducted our due diligence on them 
+           <span style="text-decoration : underline;">  and in those cases we shall make such recommendation explicitly.  </span>
+            
+          </p>
+          
+          <p> We employ cookies, which are small text files stored on a user’s computer for record-keeping purposes. We relate the information we store in cookies to User Information. </p>
+          
+          <p> We use session ID cookies and persistent cookies.  We use session cookies to make it easier for users to navigate our site. A session ID cookie expires when a browser session is terminated. A persistent cookie remains on the user's hard drive for an extended period of time. Persistent cookies can be removed by following directions provided in the browser's help file. </p>
+          
+          <p> Persistent cookies are used to store log in and password information so that the users would not have to enter them every time they use our website.  Persistent cookies are also used to track and target the interests of our users to enhance the experience on our site.   </p>
+          
+          <p> Our website is still usable even if cookies are rejected, however, the actual experience may vary depending on whether or not a user accepts cookies. </p>
+          
+          <p> Some of our business partners such as advertisers and providers use cookies on our site.  We have no access to or control over these cookies. </p>
+          
+          <p> We also employ  a software technology called clear gifs which is also known as Web Beacons or Web Bugs, that help us better manage content on our site by informing us what content is effective.  Clear gifs are minute graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Internet users.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded almost invisibly on web pages. We relate the information gathered by clear gifs to User Information.  </p>
+          
+          <p> We wish to remind our users that we are only able to control our operation methods, however, you will directly interact with our providers who will have their own policies to handle your information. You should always exercise due care whenever you give out your information. </p>
+          
+          <p> This Policy is implemented as of January 2011 and is accessible to our stakeholders. Meanwhile, as we reserve our right to substitute or amend this Policy without notice or consent from any party, we urge you to view it as often as you may. </p>
+      </div>
+  </div><!-- page page-session -->
+  <div class="block_bottom_corners">
+  </div>  
+
+                  </div>
+                 </div> <!--content-holder ENDs!-->
+            </div> <!--main-holder Ends !-->
+
+          <div id="foteer">
+    <div id="foot">
+        <div id="fit">
+            <div class="foot_data">
+                <span><a href="/pages/what_is_offerna?locale=en" class="text">What Is Offerna</a><span class="text">|</span></span>
+                <span><a href="/pages/how_it_works?locale=en" class="text">How It Works</a></span> <span class="text">|</span>
+                <span><a href="/pages/faqs?locale=en" class="text">FAQ</a></span> <span class="text">|</span>
+                <span><a href="/supports/new" class="text">Contact Us</a></span> <span class="text">|</span>
+                <span><a href="/pages/privacy_policy?locale=en" class="text">Privacy Policy</a></span> <span class="text">|</span>
+                <span><a href="/pages/terms_and_conditions?locale=en" class="text">Terms &amp; Conditions</a></span> <span class="text">|</span>
+                <span><a href="http://www.offerna.com/ar/pages/privacy_policy?locale=en" class="text">عربي </a></span>
+            </div>
+            <div class="payment_homepage">
+                <!-- <p>
+                <img border="0" alt="Cash on delivery (COD)" class="payment-image" src="../../images/cashondelivery.png">
+                </p> -->
+                <p>
+                    <img alt="credit" class="payment-image" src="../../images/credit.png">
+                </p>
+            </div>
+            <div class="bank-logo">
+                Bank Logo
+            </div>
+            <p class="credit-note">
+                Credit Card payments are processed through Arab African International Bank’s gateway, making them 100% secure
+            </p>
+        </div>
+    </div>
+    <div class="foot_copyright">
+        <div>© 2011 Offerna.com All Rights Reserved.</div>
+        <div>Offerna.com is owned and managed by Offerna LLC.</div>
+        <div>37 El Hegaz St., Off Lebanon St., Second Floor, Mohandseen, Giza, Egypt.</div>
+        <div>T: (202) 3302 7012 - F: (202) 3832 1225 - Email: support@offerna.com</div>
+    </div>
+</div> <!-- End of footer-->
+
+        </div> <!-- end of top-bg !-->
+        <script src="/javascripts/jquery.js?1321891977" type="text/javascript"></script>
+        <script src="/javascripts/jquery_form.js?1321891977" type="text/javascript"></script>
+        <script src="/javascripts/lavalamp.js?1321891977" type="text/javascript"></script>
+        <script src="/javascripts/easing.js?1321891977" type="text/javascript"></script>
+        <script src="/javascripts/espace.js?1321891977" type="text/javascript"></script>
+        <script src="/javascripts/application.js?1321891977" type="text/javascript"></script>
+        <script src="/javascripts/user.js?1321891977" type="text/javascript"></script>
+        <script src="/javascripts/dokkaany_fb.js?1321891977" type="text/javascript"></script>
+        <script src="/javascripts/tipsy.js?1321891977" type="text/javascript"></script>
+
+          <script type="text/javascript">
+   $(document).ready(function(){
+     menu = $('#signin_menu');
+     menu.attr('style', "display:none;");
+     
+     $("#guides-city").click(function() {
+       $(".city-list").slideToggle(300);
+      });
+      
+     });
+     
+     function call_set_current_city_in_session(city_id){
+      $.ajax( 
+        {
+          type: "POST",
+          url: "/pages/set_current_city_in_session_ajax",
+          data: "current_city_id="+city_id,
+          success: function(){
+             document.location = '/';
+          }
+        }
+      );
+     
+     }
+  </script>
+  <script type="text/javascript">
+    function invite()
+    {
+        $("#invite_form_box").show();
+    }
+    function close_invitation_box(){
+      $('#invitation_form').clearForm();
+      $('#success_msg').hide();
+      $('#failure_msg').hide();
+      $("#invite_form_box").hide();
+      $('.loading').hide();
+    }
+   
+    function login_invite()
+    {   
+        alert("login_invite");
+        //$("#invite_form_box").show();
+        $.ajax(
+      {
+        type: "GET",
+        url: "/login",
+        
+        success: function(response){
+        $('.loading').hide();
+        if(response == "true"){
+                $('#success_msg').show();
+                $('#failure_msg').hide();
+        }else
+        {
+               $('#success_msg').hide();
+               $('#failure_msg').show();         
+        }
+      }}); 
+    }
+     
+    function sendInvitation(){
+      $('.loading').show();
+      $.ajax(
+      {
+        type: "POST",
+        url: "/invitations/send_inv",
+        data: { address: $('#invitation_to').val(),
+                msg: $('#invitation_msg').val()}, 
+        
+        success: function(response){
+        $('.loading').hide();
+        if(response == "true"){
+                $('#success_msg').show();
+                $('#failure_msg').hide();
+        }else
+        {
+               $('#success_msg').hide();
+               $('#failure_msg').show();         
+        }
+      }});   
+
+    }
+  </script>
+
+        
+        <script type="text/javascript">
+            $(document).ready( function() {
+
+                $(".change").click( function() {
+                    $(".city-list").slideToggle(300);
+                });
+            });
+        </script>
+        <script type="text/javascript">
+            $(document).ready( function() {
+
+                $(".signin").click( function(e) {
+                    e.preventDefault();
+                    $("fieldset#signin_menu").toggle();
+                    $(".signin").toggleClass("menu-open");
+                });
+                $(".change").click( function() {
+                    $(".city-list").slideToggle();
+                });
+                $("fieldset#signin_menu").mouseup( function() {
+                    return false
+                });
+                $(document).mouseup( function(e) {
+
+                    if($(e.target).parent("div.country").length != 0) {
+                        $('#guides-city').toggle();
+                        $('#guides-city1').toggle();
+
+                    }
+
+                    if( ($(e.target).parent("div.city-list").length == 0) && ($(e.target).parent("div.country").length == 0)) {
+                        $('#guides-city').hide();
+                        $('#guides-city1').hide();
+                    }
+                    if($(e.target).parent("a.signin").length==0) {
+                        $(".signin").removeClass("menu-open");
+                        $("fieldset#signin_menu").hide();
+
+                    }
+                });
+            });
+        </script>
+        <script type="text/javascript">
+            $(document).ready( function() {
+                $("fieldset#signin_menu").mouseup( function() {
+                    return false
+                });
+                $(document).mouseup( function(e) {
+                    if($(e.target).parent("a.signin").length==0) {
+                        $(".signin").removeClass("menu-open");
+                        $("fieldset#signin_menu").hide();
+                    }
+                });
+            });
+        </script>
+        <script type="text/javascript">
+            $(document).ready( function() {
+
+                $("#topnav li").prepend("<span></span>"); //Throws an empty span tag right before the a tag
+
+                $("#topnav li").each( function() { //For each list item...
+                    var linkText = $(this).find("a").html(); //Find the text inside of the <a> tag
+                    $(this).find("span").show().html(linkText); //Add the text in the <span> tag
+                });
+                $("#topnav li").hover( function() {  //On hover...
+                    $(this).find("span").stop().animate({
+                        marginTop: "-40" //Find the <span> tag and move it up 40 pixels
+                    }, 250);
+                } , function() { //On hover out...
+                    $(this).find("span").stop().animate({
+                        marginTop: "0"  //Move the <span> back to its original state (0px)
+                    }, 250);
+                });
+            });
+        </script>
+
+
+        <script type="text/javascript">
+            $( function() {
+                //PageOverlay Effect
+                $('.pageOverlayChrome').hide();
+                // for Firefox
+                $('.firefox').click( function() {
+                    $('.pageOverlay').show();
+                });
+                /* $('.pageOverlay').click(function(){
+                 $('.pageOverlay').hide();
+                 });*/
+                $('.linkCancel').click( function() {
+                    $('.pageOverlay').hide();
+                });
+                // for Chrome
+                $('.chrome').click( function() {
+                    $('.pageOverlayChrome').show();
+                });
+                $('.pageOverlayChrome').click( function() {
+                    $('.pageOverlayChrome').hide();
+                });
+            });
+        </script>
+        <script type="text/javascript" charset="utf-8">
+            $(document).ready( function() {
+              var koko = $('.south');
+              if(typeof koko.tipsy != "undefined"){
+                koko.tipsy({gravity: 's'});
+              }
+              $('.tip-html').tipsy({html: true, gravity: 's' });
+              $('.tip-html-south').tipsy({html: true, gravity: 's' });
+              $('.tip-html-north').tipsy({html: true, gravity: 'n' });
+              $('.tip-html-se').tipsy({html: true, gravity: 'se' });
+            });
+
+        </script>
+        
+      <!-- ClickTale Bottom part -->
+      <div id="ClickTaleDiv" style="display: none;"></div>
+      <script type="text/javascript">
+      if(document.location.protocol!='https:')
+      document.write(unescape("%3Cscript%20src='http://s.clicktale.net/WRc5.js'%20type='text/javascript'%3E%3C/script%3E"));
+      </script>
+      <script type="text/javascript">
+      if(typeof ClickTale=='function') ClickTale(408,0.0009,"www09");
+      </script>
+      <!-- ClickTale end of Bottom part -->
+     
+
+    
+
+
+</body></html>
