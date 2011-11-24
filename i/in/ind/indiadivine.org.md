@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiadivine.org privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101005207id_/http%3A//www.indiadivine.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiadivine.org privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124145719id_/http%3A//www.indiadivine.org/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - www.indiadivine.org
 
