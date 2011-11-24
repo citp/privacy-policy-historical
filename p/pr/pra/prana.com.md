@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prana.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607210837id_/http%3A//www.prana.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prana.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124020025id_/http%3A//www.prana.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - prAna
+# prAna - Privacy Policy
 
 ### At prAna, we respect your privacy. We know it’s important to you and it’s important to us.
 
