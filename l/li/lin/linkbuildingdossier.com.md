@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkbuildingdossier.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526223852id_/http%3A//www.linkbuildingdossier.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkbuildingdossier.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124200046id_/http%3A//www.linkbuildingdossier.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
