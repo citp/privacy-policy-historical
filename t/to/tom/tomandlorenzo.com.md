@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tomandlorenzo.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507035726id_/http%3A//www.tomandlorenzo.com/2006/07/privacy-policy-information.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomandlorenzo.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124021612id_/http%3A//www.tomandlorenzo.com/2006/07/privacy-policy-information.html) for the most accurate reproduction.*
 
 # Privacy Policy Disclosure | Tom & Lorenzo
 
-Posted on Jul 21, 2006 in [Misc.](http://www.tomandlorenzo.com/category/misc "View all posts in Misc.") | [View Comments](http://www.tomandlorenzo.com/2006/07/privacy-policy-information.html#disqus_thread "Comment on Privacy Policy Disclosure")
+Posted on Jul 21, 2006 in [Misc.](http://www.tomandlorenzo.com/category/misc "View all posts in Misc.")
 
 Your privacy is important to us. This Privacy Policy provides information about the personal information that this website collects and the ways in which this website uses that personal information.
 
@@ -47,7 +47,7 @@ We are in compliance with the requirements of COPPA (Children’s Online Privacy
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 **Terms and Conditions of Use**  
-Please see our Terms and Conditions of Use page establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please see our [Terms and Conditions of Use](http://www.tomandlorenzo.com/2006/07/terms-and-conditions-of-use.html) page establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 **Your Consent**  
 By using our website, you consent to our website privacy policy.
@@ -59,4 +59,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 Website: http://www.tomandlorenzo.com  
-Email: tomandlorenzo @ gmail . com
+Email: tlo @ tomandlorenzo . com
+
+[](http://www.linkwithin.com/)
