@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the startech.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502180350id_/http%3A//www.startech.com/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startech.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124075446id_/http%3A//www.startech.com/PrivacyStatement) for the most accurate reproduction.*
 
-# Privacy Statement - USA | StarTech.com
+# Privacy Statement
 
 Effective: 01/04/2011
 
-[ ](http://secure.trust-guard.com/certificates/www.startech.com)
+[](http://secure.trust-guard.com/certificates/www.startech.com)
 
 StarTech.com is committed to protecting your privacy. We recognize the importance of protecting the privacy of all information provided by users of our web sites and promotions. You can help us to ensure your privacy, by not sharing your account user name or password with anyone. StarTech.com has established this privacy policy so that you can understand the care with which we intend to treat your information.
 
 StarTech.com is a licensee of the Trust-Guard Privacy Policy Verification Service. Trust-Guard is an independent organization whose mission is to build users’ trust and confidence in the Internet, by promoting the use of fair information practices. We want to demonstrate our commitment to maintaining your privacy, by agreeing to disclose our information practices and have our privacy practices reviewed for compliance by Trust-Guard.
 
-If you have questions or concerns regarding this statement, you should first visit [Tech Support](https://web.archive.org/Form/Tech-Support). If you do not receive acknowledgment of your inquiry, or your inquiry has not been satisfactorily addressed, you should contact Trust-Guard. Trust-Guard will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first visit [Tech Support](https://www.startech.com/TechSupport). If you do not receive acknowledgment of your inquiry, or your inquiry has not been satisfactorily addressed, you should contact Trust-Guard. Trust-Guard will then serve as a liaison with us to resolve your concerns.
 
 ### Registration
 
@@ -20,7 +20,7 @@ Customer information, whether public or private, will not be sold, exchanged, tr
 
 ### Security
 
-In order to process your online order your credit card information may be stored temporarily on our servers. This information is stored long enough to process the complete order after which it is subject to a scheduled, secure deletion process.
+For your safety and protection, your credit card information is not stored on our servers. Our payment gateway provider, Cybersource®, keeps this information encrypted and secure on your behalf.
 
 We take every precaution to protect our users' personal information and to store it securely. We protect your credit card information and other sensitive personal information by using SSL (Secure Socket Layer) technology (the industry standard security protocol), hosting our site on secure servers, and maintaining Secure Site status from Geotrust owned by VeriSign, the security industry leader. We also have our web site tested daily by McAfee Secure™, a security scanning and reporting service, to ensure our site is safe from hacking. In addition, access to all of our users' information, not just the sensitive information mentioned above, is restricted. Only employees who need the information to perform a specific job (for example, a billing clerk or a customer service representative) are granted access to personally identifiable information. Your information is safely stored behind a firewall that protects it from users from other networks. Finally, the servers on which we store personally identifiable information are kept in a secure environment.  
 
@@ -76,6 +76,4 @@ If we decide to change our privacy policy, we will post those changes to this pr
 **StarTech.com USA LLP**  
 6300 Commerce Center Drive, Suite E  
 Groveport OH  
-43125  
-Tel: 1-800-265-1844  
-Fax: 1-519-455-9425
+43125
