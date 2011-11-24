@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the watchmouse.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515110846id_/http%3A//www.watchmouse.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchmouse.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124022439id_/http%3A//www.watchmouse.com/en/privacy.php) for the most accurate reproduction.*
 
-# WatchMouse web site monitoring service - Privacy Policy
+# WatchMouse website monitoring service - Privacy Policy
 
   
 Your online privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. 
