@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yakima.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527143442id_/http%3A//www.yakima.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yakima.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124113342id_/http%3A//yakima.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice
 
