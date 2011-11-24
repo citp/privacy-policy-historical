@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customerhub.net privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514162547id_/http%3A//www.customerhub.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customerhub.net privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124024849id_/http%3A//www.customerhub.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,3 +19,9 @@ All affiliate information, including address, phone number, e-mail address, and 
 * * *
 
 Questions? Email us at [questions@customerhub.net](mailto:questions@customerhub.net).
+
+Close 
+
+Test drive CustomerHub through our learning center (it's free)!
+
+Did you know that you can test drive CustomerHub and learn more about it at the same time?! Get access to recorded webinars, tips, tricks, exclusive offers, and perhaps some other goodies too...
