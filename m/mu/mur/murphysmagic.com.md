@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the murphysmagic.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102150127id_/http%3A//www.murphysmagic.com/Information/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the murphysmagic.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124124405id_/http%3A//www.murphysmagic.com/Information/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Murphy's Magic Supplies, Inc. - Wholesale Magic
 
