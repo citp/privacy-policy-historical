@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdignite.com privacy policy that was archived on 2011-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110116024622id_/http%3A//crowdignite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdignite.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124015321id_/http%3A//crowdignite.com/privacy) for the most accurate reproduction.*
 
 # Crowd Ignite - Igniting New Audiences!
 
