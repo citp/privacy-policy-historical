@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the semetrical.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107190459id_/http%3A//www.semetrical.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the semetrical.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124124413id_/http%3A//www.semetrical.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy | semetrical
-
-**Privacy Policy**
+# Privacy Policy | Semetrical
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information. 
 
