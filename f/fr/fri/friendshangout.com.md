@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the friendshangout.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231013245id_/http%3A//www.friendshangout.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendshangout.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124201044id_/http%3A//www.friendshangout.com/privacy.php) for the most accurate reproduction.*
 
-# 3D Virtual Worlds & Chat Rooms - Create Your OWN Virtual World - Release 1.1
+# 3D Virtual Worlds & Chat Rooms - Create Your OWN Virtual World - Release 1.36
 
   
 
