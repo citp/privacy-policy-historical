@@ -1,30 +1,14 @@
-> *The following text is extracted and transformed from the 2dplay.com privacy policy that was archived on 2005-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050606235029id_/http%3A//www.freeonlinegames.com/pages/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2dplay.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124035031id_/http%3A//www.2dplay.com/privacy.php) for the most accurate reproduction.*
 
-# Free Online Games .com
+# Play Games Online at 2DPlay for Free - Privacy Policy & Terms
 
-**INTRODUCTION:**   
-We want our users to always be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+2DPlay.com is a property of Bigwig Media Ltd. Bigwig Media respects the privacy concerns of visitors to 2DPlay.com. We do not sell or disclose your email address or other information about you. We may log IP addresses to prevent abuse of our website and newletters. Bigwig Media may disclose information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with Bigwig Media's property, visitors, or anyone else that could be harmed by such activities.
 
-**INFORMATION COLLECTION AND USE**   
-We respect each site visitor's right to personal privacy. To that end, we collect and use information throughout our website only as disclosed in this Privacy Policy. This statement applies solely to information collected on this website. For each visitor to our website, our web server automatically recognizes no information regarding the domain or e-mail address.
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
-**The information we collect is:**
+We host games made by other sponsors and developers and allow our community to upload games, these and third party products, games or services may have additional terms and conditions associated with them, we have no responsibility for content uploaded and created, and will remove any infringements if found.
 
-* used to improve the content of our Web page. 
-* used to notify visitors about updates to our Web site. 
-* never shared with other organizations for commercial purposes. 
-
-Registration is not required to enter our site. However, subscription to certain services may require a user to complete a registration form. During registration a user must give certain contact information, but we never sell or give away this information. It is only gathered to contact the user about services on our site for which s/he has expressed interest. It is optional for the user to provide demographic information (income level, gender, etc.), and unique identifiers (username, password, etc.). Giving additional information helps provide a more personalized experience on our site, but is not required. 
-
-We publish a newsletter, and we never sell or share our subscribers' email or mailing addresses. We operate online surveys, and we never sell or share our subscribers' email addresses 
-
-We do show advertisement to our users, which is handled by [FastClick](http://www.fastclick.com/), [CasaleMedia.com](http://www.casalemedia.com/) & [ValueClick.com](http://www.valueclick.com/). So any such concerns with our advertising, should be directed them respectfully. 
-
-**NOTIFICATION OF CHANGES**   
-If we decide to change our privacy policy, we will post those changes to this privacy statement. 
-
-**CONFLICT RESOLUTION**   
-We are committed to resolving disputes within 24-48 hours. If problems arise, users may contact via our contact form. 
-
-**CONTACT INFORMATION**   
-If site users have any questions or suggestions regarding our privacy policy, please contact us via our [contact page](http://www.freeonlinegames.com/contact.html).
+| You may remove yourself from the 2DPlay.com newsletter, if you previously subscribed to it:  
+---  
+  
+Get email alerts on new releases and our latest news by [Signing-Up](https://web.archive.org/web/20111124035031id_/http%3A//www.2dplay.com/newmember.php).
