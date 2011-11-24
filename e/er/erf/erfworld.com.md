@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erfworld.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630194836id_/http%3A//www.erfworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erfworld.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124022349id_/http%3A//www.erfworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Erfworld » Privacy Policy
 
