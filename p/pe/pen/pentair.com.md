@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the pentair.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524182247id_/http%3A//pentair.com/Pentair_PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pentair.com privacy policy that was archived on 2011-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111124040741id_/http%3A//pentair.com/Pentair_PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Untitled PagePrivacy Statement
 
-Last updated: March 2008
+Privacy Statement
+
+Last updated: July 2011
 
 This website ("website") is operated by the business identified under the copyright notice at the bottom of the home page of this website ("Company") whose general contact details are on the website and specific contact information as it relates to this Privacy Statement is set forth in the section below entitled "Feedback".
 
 The terms "Company", "we", "us", "our" and "ours" when used in this Privacy Statement mean the Company, and its parents, subsidiaries, divisions, branches, or affiliates.
 
-The terms "you", "your" and "yours" when used in this Privacy Statement mean any user of this website.IMPORTANT NOTICE: BY USING OUR WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA (AS HEREAFTER DEFINED) THAT YOU SUBMIT MAY BE PROCESSED BY US IN THE MANNER AND FOR THE PURPOSES DESCRIBED BELOW.
+The terms "you", "your" and "yours" when used in this Privacy Statement mean any user of this website. IMPORTANT NOTICE: BY USING OUR WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA (AS HEREAFTER DEFINED) THAT YOU SUBMIT MAY BE PROCESSED BY US IN THE MANNER AND FOR THE PURPOSES DESCRIBED BELOW.
 
 Scope of Privacy Statement
 
@@ -24,15 +26,19 @@ You may choose to buy products from us or receive additional information or serv
 
 Use of Personal Data
 
-We will use your Personal Data to fulfill your requests and we will ask only for data that is adequate, relevant and not excessive for those purposes. We may store information collected through the above-mentioned means to create a "profile" of your preferences. We tie your Personal Data and your purchasing history to information in the profile.When we send you information for any purpose, it may be sent by e-mail or mail. When we ask you for Personal Data it may include the following purposes:
+We will use your Personal Data to fulfill your requests and we will ask only for data that is adequate, relevant and not excessive for those purposes. We may store information collected through the above-mentioned means to create a "profile" of your preferences. We tie your Personal Data and your purchasing history to information in the profile. When we send you information for any purpose, it may be sent by e-mail or mail. _We_ _may use your personal data to process your  application when you apply for a career with us._
 
-  * We may contact you occasionally to inform you of new products and services we will be providing;
-  * We may send you regular updates on issues we think will be of interest to you;
-  * We may send you requested information on our products and services;
-  * We may use your Personal Data for marketing purposes and market research; and
-  * We may use your Personal Data internally to administer this website and help us improve our services.
+When we ask you for Personal Data it may include the following purposes:
 
+·         We may contact you occasionally to inform you of new products and services we will be providing; 
 
+·         We may send you regular updates on issues we think will be of interest to you; 
+
+·         We may send you requested information on our products and services; 
+
+·         We may use your Personal Data for marketing purposes and market research; and 
+
+·         We may use your Personal Data internally to administer this website and help us improve our services. 
 
 Unsubscribe
 
@@ -48,7 +54,7 @@ Our website contains hyperlinks to other pages on our website. We may use techno
 
 Cookies
 
-The use of "cookies" is a common practice. A cookie is a small piece of information which is sent to your browser and stored on your computer's hard drive. For example, if you allow a website to remember your login name or password, the website places a cookie on your computer.We may use both session ID cookies and/or persistent cookies. In order to collect the anonymous data described in the preceding paragraph, we may use temporary session ID cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. We set a persistent cookie to store your passwords, so you do not have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance your experience on the Website. You can remove persistent cookies by following directions provided in your Internet browser's "help" file.Cookies by themselves cannot be used to discover the identity of the user. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not. If you block cookies, you may not be able to use certain features or functions of our website, or the website may not operate in an optimal mode.
+The use of "cookies" is a common practice. A cookie is a small piece of information which is sent to your browser and stored on your computer's hard drive. For example, if you allow a website to remember your login name or password, the website places a cookie on your computer. We may use both session ID cookies and/or persistent cookies. In order to collect the anonymous data described in the preceding paragraph, we may use temporary session ID cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. We set a persistent cookie to store your passwords, so you do not have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance your experience on the Website. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. Cookies by themselves cannot be used to discover the identity of the user. Cookies do not damage your computer. You can set your browser to notify you when you receive a cookie. This enables you to decide if you want to accept it or not. If you block cookies, you may not be able to use certain features or functions of our website, or the website may not operate in an optimal mode.
 
 We also use your IP address to help diagnose problems with our server and to administer our website. An IP address is a numeric code that identifies your computer on a network, or in this case, the Internet. Your IP address is also used to gather broad demographic information.
 
@@ -58,12 +64,13 @@ Disclosure of your Personal Data
 
 We do not share, sell license, trade, rent or distribute your Personal Data with unrelated third parties, except as otherwise provided for in this Privacy Statement and under these limited circumstances:
 
-  * In order to provide you with the information or products which you have requested, Personal Data may occasionally be transferred or shared with other companies within our group of companies or third party intermediaries who act for us for further processing in accordance with the purposes for which the data was originally collected or for purposes to which you have subsequently consented. For example, sometimes a third party may have access to your Personal Data in order to support our information technology or to handle mailings on our behalf. As such, we may share information with third party intermediaries (e.g., United Parcel Service, Federal Express, Visa, MasterCard, Discover, American Express) for shipping and billing purposes only. Only the information necessary to provide these services will be shared with the third party intermediaries; these companies do not retain personal information or share it with other parties. The third party intermediaries are further prohibited from using your personally identifiable information for any other purpose. We are the sole owner of the information collection on the website.
-  * We will keep your contact details on our database and may, from time to time, e-mail or mail you information to make you aware of our other similar products and services which may be of interest to you. If you do not wish to receive e-mails or mail from us for these purposes, please let us know by following the "unsubscribe" procedure set out above.
-  * Where you have consented, we may also share your Personal Data with other companies within our group of companies or disclose your Personal Data to other businesses who may contact you about their products or services that may interest you.
-  * We may share, transfer or disclose the information in our databases and server logs to comply with a legal requirement, for the administration of justice, interacting with anti-fraud databases, to protect your vital interests, to protect the security or integrity of our databases or this website, to take precautions against legal liability, or in the event of our sale, merger, reorganization, dissolution or similar event. We will inform you of any such transfer or disclosure as required by law.
+·         In order to provide you with the information or products which you have requested, Personal Data may occasionally be transferred or shared with other companies within our group of companies or third party intermediaries who act for us for further processing in accordance with the purposes for which the data was originally collected or for purposes to which you have subsequently consented. For example, sometimes a third party may have access to your Personal Data in order to support our information technology or to handle mailings on our behalf. As such, we may share information with third party intermediaries (e.g., United Parcel Service, Federal Express, Visa, MasterCard, Discover, American Express) for shipping and billing purposes only. Only the information necessary to provide these services will be shared with the third party intermediaries; these companies do not retain personal information or share it with other parties. The third party intermediaries are further prohibited from using your personally identifiable information for any other purpose. We are the sole owner of the information collection on the website. 
 
+·         We will keep your contact details on our database and may, from time to time, e-mail or mail you information to make you aware of our other similar products and services which may be of interest to you. If you do not wish to receive e-mails or mail from us for these purposes, please let us know by following the "unsubscribe" procedure set out above. 
 
+·         Where you have consented, we may also share your Personal Data with other companies within our group of companies or disclose your Personal Data to other businesses who may contact you about their products or services that may interest you. 
+
+·         We may share, transfer or disclose the information in our databases and server logs to comply with a legal requirement, for the administration of justice, interacting with anti-fraud databases, to protect your vital interests, to protect the security or integrity of our databases or this website, to take precautions against legal liability, or in the event of our sale, merger, reorganization, dissolution or similar event. We will inform you of any such transfer or disclosure as required by law. 
 
 Where appropriate, before disclosing Personal Data to a third party, we contractually require the third party to take adequate precautions to protect that data and to comply with applicable law.
 
@@ -79,7 +86,7 @@ This website may contain hyperlinks to websites that are not operated by us. The
 
 Transfer of data abroad
 
-If you are visiting this website from a country other than the country in which our servers are located, the various communications will necessarily result in the transfer of information across international boundaries.
+If you are visiting this website from a country other than the country in which our servers are located (currently the USA), the various communications will necessarily result in the transfer of information across international boundaries.
 
 By visiting this website and communicating electronically with us, you consent to the processing and transfer of your Personal Data as set out in this Privacy Statement, including its transfer across international boundaries and to subjecting yourself to applicable law in those countries in which the servers used for the transfer of such information are located.
 
@@ -95,7 +102,7 @@ If you wish to subscribe to a newsletter to the extent one is provided, please c
 
 We will also send you strictly service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an e-mail. Generally, you may not opt-out of these communications, which are not promotional in nature.
 
-Privacy Protections For Children
+Privacy Protections for Children
 
 Protecting the privacy of children is especially important. Our website is not designed to attract or interact with children 13 years and under. We do not collect information from those we actually know are under 13.
 
@@ -107,7 +114,7 @@ Notwithstanding the above commitments and measures taken to secure your informat
 
 If you have any questions about the security of our Website, please contact us using the contact information identified in the section below entitled "Feedback".
 
-Transfer Of Information Upon Sale of the Company or an Affiliated Entity
+Transfer of Information Upon Sale of the Company or an Affiliated Entity
 
 The Company may assign, sell, license or transfer any information you provide, including Personal Data, to a third party directly involved in an assignment, sale, joint venture or other transfer or disposition of some or all of the assets of the Company or one or more of its affiliated entities.
 
@@ -117,8 +124,24 @@ If you have a legitimate concern or question about your privacy, a potential pri
 
 Governing Law
 
-This Privacy Statement forms part of our website Terms and Conditions and the substantive laws of Minnesota govern any controversy or claim of whatever nature arising out of or relating to the use of this website, without regard to any conflict of laws provisions.Venue for all actions or proceedings arising out of or relating to this Privacy Statement, its validity, performance, enforcement or breach, or the subject matter of this Privacy Statement, shall be solely in the state or federal courts located in the State of Minnesota and you hereby irrevocably consent and submit yourself to the personal jurisdiction of the courts of Minnesota and to venue at such location within Minnesota for all such purposes. Notwithstanding the foregoing, we retain the right to bring legal proceedings in any jurisdiction where we believe that breach of this agreement is taking place or originating.
+This Privacy Statement forms part of our website Terms and Conditions and the substantive laws of Minnesota govern any controversy or claim of whatever nature arising out of or relating to the use of this website, without regard to any conflict of laws provisions. Venue for all actions or proceedings arising out of or relating to this Privacy Statement, its validity, performance, enforcement or breach, or the subject matter of this Privacy Statement, shall be solely in the state or federal courts located in the State of Minnesota and you hereby irrevocably consent and submit yourself to the personal jurisdiction of the courts of Minnesota and to venue at such location within Minnesota for all such purposes. Notwithstanding the foregoing, we retain the right to bring legal proceedings in any jurisdiction where we believe that breach of this agreement is taking place or originating.
 
 Feedback
 
 We welcome comments about this Privacy Statement. If you have any questions about this Statement or any part of our website, you may contact us by clicking on the Contact Us link on this site. Any feedback will be stored at our offices located at the mailing address listed there.
+
+US Safe Harbor Privacy Framework 
+
+The company complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the company’s certification, please visit http://www.export.gov/safeharbor/
+
+If you have questions or concerns about our participation in the Safe Harbor Framework, please contact: 
+
+Pentair, Inc.
+
+5500 Wayzata Blvd., Suite 800
+
+Minneapolis, 
+
+MN 55416
+
+Attention: General Counsel.
