@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endocrineweb.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523173411id_/http%3A//www.verticalhealth.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endocrineweb.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125213828id_/http%3A//www.verticalhealth.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Vertical Health Privacy Policy | Vertical Health
 
@@ -99,3 +99,5 @@ Please relay any questions you may have pertaining to our above stated policies 
 ##  Privacy Policy Changes
 
 If VH makes changes to any of the terms or conditions of the Policy, this document will be revised so that you will always know what information we gather, how we might use that information, and to whom we will disclose it. We reserve the right to change, modify, add or remove portions of this Policy at any time and without notice, and any changes will become effective immediately upon being posted unless VH advises you otherwise. Your continued use of the Services and/or the Sites after this Policy has been amended shall be deemed to be your continued acceptance of the terms and conditions of the Policy, as amended. We encourage you to bookmark this Web page and review this Policy regularly.
+
+Last updated: 10/3/2011
