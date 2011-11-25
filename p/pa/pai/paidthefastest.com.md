@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paidthefastest.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125124534id_/http%3A//www.paidthefastest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidthefastest.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125131134id_/http%3A//paidthefastest.com/privacy) for the most accurate reproduction.*
 
-# PaidTheFastest
+# INSTANT PayPal Payments, Amazon Gift Cards, NEXON, RuneScape, XBOX, and More!
 
 Privacy Policy
 
@@ -27,3 +27,19 @@ Privacy Policy
 
 
 PaidTheFastest can makes changes to this policy at anytime without notice.
+
+#### Monthly
+
+$1,248.11 
+
+0 / 125,253 
+
+Nov 30, 2011 11:59PM 
+
+#### Weekly
+
+$325.57 
+
+0 / 32,892 
+
+Every Sunday 12:05 AM 
