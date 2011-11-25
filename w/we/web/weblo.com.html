@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the weblo.com privacy policy that was archived on 2011-04-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110417025440id_/http%3A//www.weblo.com/main/index.php%3FAction%3DMain.privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the weblo.com privacy policy that was archived on 2011-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111125145056id_/http%3A//www.weblo.com/main/index.php%3FAction%3DMain.privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -23,502 +23,113 @@
 <link rel="shortcut icon" type="image/x-icon" href="http://www.weblo.com/favicon.ico">
 
 
-<script type="text/javascript">
+<script type="text/javascript">var baseURL='http://www.weblo.com';var SecureBaseURL='http://www.weblo.com';</script>
 
-/*<![CDATA[*/
+<script type="text/javascript" src="/javascript/common.js.pagespeed.jm.TZq_9dhDHe.js"></script>
 
-	var baseURL = 'http://www.weblo.com';
-	var SecureBaseURL = 'http://secure.weblo.com';
+<script type="text/javascript">//<![CDATA[
+function ajax_do_call(url,fuseAction,postVars,callbackFunc)
+{var isPost=(postVars&&postVars.length>0);var xmlHttp=GetXmlHttpObject();if(xmlHttp==null)
+{alert("Your browser does not support AJAX!");return;}
+if(url==''){url="index.php";if(isPost){postVars+="Action="+fuseAction;}else{url+="?Action="+fuseAction;}}
+if(!isPost){if(url.indexOf('?')==-1){url+='?'+uncache();}else{url+='&'+uncache();}}
+xmlHttp.onreadystatechange=function(){if(xmlHttp.readyState==4){var callback;var extra_data=false;var data=xmlHttp.responseText;callback=callbackFunc;callbackFunc(data,extra_data);}};if(typeof(gaTrackAjaxRequest)=='function')gaTrackAjaxRequest(url);if(isPost){xmlHttp.open("POST",url,true);xmlHttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded");xmlHttp.setRequestHeader("Content-Length",postVars.length);xmlHttp.setRequestHeader("Connection","close");xmlHttp.send(postVars);}else{xmlHttp.open("GET",url,true);xmlHttp.send(null);}}
+function GetXmlHttpObject()
+{var A;if(window.XMLHttpRequest){A=new XMLHttpRequest();}else{var msxmlhttp=new Array('Msxml2.XMLHTTP.6.0','Msxml2.XMLHTTP.3.0','Msxml2.XMLHTTP','Microsoft.XMLHTTP');for(var i=0;i<msxmlhttp.length;i++){try{A=new ActiveXObject(msxmlhttp[i]);break;}catch(e){A=null;}}}
+return A;}
+function uncache(){var d=new Date();var time=d.getTime();return'time='+time;}
+function AjaxRequestPS(url,options){if(typeof(Ajax)!="undefined"&&Ajax.Request){if(typeof(gaTrackAjaxRequest)=='function')gaTrackAjaxRequest(url);return new Ajax.Request(url,options);}else{return null;}}
+function AjaxUpdaterPS(element,url,options){if(typeof(Ajax)!="undefined"&&Ajax.Updater){if(typeof(gaTrackAjaxRequest)=='function')gaTrackAjaxRequest(url);return new Ajax.Updater(element,url,options);}else{return null;}}
+//]]></script>
 
-/*]]>*/
+<script type="text/javascript" src="/javascript/vertical_common.js.pagespeed.ce.qhiz579W0T.js"></script>
 
-</script>
+<script language="javascript" type="text/javascript">var sajax_debug_mode=false;var sajax_request_type="POST";var sajax_target_id="";var sajax_failure_redirect="";function sajax_debug(text){if(sajax_debug_mode)
+alert(text);}
+function sajax_init_object(){sajax_debug("sajax_init_object() called..")
+var A;if(window.XMLHttpRequest){A=new XMLHttpRequest();}else{var msxmlhttp=new Array('Msxml2.XMLHTTP.6.0','Msxml2.XMLHTTP.3.0','Msxml2.XMLHTTP','Microsoft.XMLHTTP');for(var i=0;i<msxmlhttp.length;i++){try{A=new ActiveXObject(msxmlhttp[i]);break;}catch(e){A=null;}}}
+if(!A)
+sajax_debug("Could not create connection object.");return A;}
+var sajax_requests=new Array();function sajax_cancel(){for(var i=0;i<sajax_requests.length;i++)
+sajax_requests[i].abort();}
+function sajax_do_call(func_name,args){var i,x,n;var uri;var post_data;var target_id;sajax_debug("in sajax_do_call().."+sajax_request_type+"/"+sajax_target_id);target_id=sajax_target_id;if(typeof(sajax_request_type)=="undefined"||sajax_request_type=="")
+sajax_request_type="GET";uri="/main/index.php?Action=Main.privacy_policy";if(sajax_request_type=="GET"){if(uri.indexOf("?")==-1)
+uri+="?rs="+encodeURIComponent(func_name);else
+uri+="&rs="+encodeURIComponent(func_name);uri+="&rst="+encodeURIComponent(sajax_target_id);uri+="&rsrnd="+new Date().getTime();for(i=0;i<args.length-1;i++)
+uri+="&rsargs[]="+encodeURIComponent(args[i]);post_data=null;}
+else if(sajax_request_type=="POST"){post_data="rs="+encodeURIComponent(func_name);post_data+="&rst="+encodeURIComponent(sajax_target_id);post_data+="&rsrnd="+new Date().getTime();for(i=0;i<args.length-1;i++)
+post_data=post_data+"&rsargs[]="+encodeURIComponent(args[i]);}
+else{alert("Illegal request type: "+sajax_request_type);}
+x=sajax_init_object();if(x==null){if(sajax_failure_redirect!=""){location.href=sajax_failure_redirect;return false;}else{sajax_debug("NULL sajax object for user agent:\n"+navigator.userAgent);return false;}}else{if(typeof(gaTrackAjaxRequest)=='function')gaTrackAjaxRequest(uri);x.open(sajax_request_type,uri,true);sajax_requests[sajax_requests.length]=x;if(sajax_request_type=="POST"){x.setRequestHeader("Method","POST "+uri+" HTTP/1.1");x.setRequestHeader("Content-Type","application/x-www-form-urlencoded");}
+x.onreadystatechange=function(){if(x.readyState!=4)
+return;sajax_debug("received "+x.responseText);var status;var data;var txt=x.responseText.replace(/^\s*|\s*$/g,"");status=txt.charAt(0);data=txt.substring(2);if(status==""){}else if(status=="-")
+alert("Error: "+data);else{if(target_id!="")
+document.getElementById(target_id).innerHTML=eval(data);else{try{var callback;var extra_data=false;if(typeof args[args.length-1]=="object"){callback=args[args.length-1].callback;extra_data=args[args.length-1].extra_data;}else{callback=args[args.length-1];}
+var startPosition=data.indexOf('+:var');if(startPosition!=-1){data=data.substring(startPosition+2);}
+var lastPosition=data.indexOf('res;');if(lastPosition!=-1){data=data.substring(0,lastPosition+'res;'.length);}
+callback(eval(data),extra_data);}catch(e){sajax_debug("Caught error "+e+": Could not eval "+data);}}}}}
+sajax_debug(func_name+" uri = "+uri+"/post = "+post_data);x.send(post_data);sajax_debug(func_name+" waiting..");delete x;return true;}
+function x_CheckCity(){sajax_do_call("CheckCity",x_CheckCity.arguments);}
+function x_CheckState(){sajax_do_call("CheckState",x_CheckState.arguments);}
+function x_CheckCelebrity(){sajax_do_call("CheckCelebrity",x_CheckCelebrity.arguments);}
+function x_getMostImproved(){sajax_do_call("getMostImproved",x_getMostImproved.arguments);}
+function x_getRecentUpdated(){sajax_do_call("getRecentUpdated",x_getRecentUpdated.arguments);}
+function x_GetCelebrityCategories(){sajax_do_call("GetCelebrityCategories",x_GetCelebrityCategories.arguments);}
+function x_CheckDomains(){sajax_do_call("CheckDomains",x_CheckDomains.arguments);}
+function x_GetPopularTlds(){sajax_do_call("GetPopularTlds",x_GetPopularTlds.arguments);}
+function x_FetchStates(){sajax_do_call("FetchStates",x_FetchStates.arguments);}
+function x_FetchCities(){sajax_do_call("FetchCities",x_FetchCities.arguments);}
+function x_CheckProperty(){sajax_do_call("CheckProperty",x_CheckProperty.arguments);}
+function x_CheckAvailableCity(){sajax_do_call("CheckAvailableCity",x_CheckAvailableCity.arguments);}
+function x_PropertyRegForms(){sajax_do_call("PropertyRegForms",x_PropertyRegForms.arguments);}
+function x_CheckAvailableState(){sajax_do_call("CheckAvailableState",x_CheckAvailableState.arguments);}
+function x_getCommunities(){sajax_do_call("getCommunities",x_getCommunities.arguments);}
+function x_getFeatureProperties(){sajax_do_call("getFeatureProperties",x_getFeatureProperties.arguments);}
+function x_getTopRankedAsset(){sajax_do_call("getTopRankedAsset",x_getTopRankedAsset.arguments);}
+function x_getRecentAsset(){sajax_do_call("getRecentAsset",x_getRecentAsset.arguments);}
+function x_getForumtopics(){sajax_do_call("getForumtopics",x_getForumtopics.arguments);}
+function x_getFeatureAsset(){sajax_do_call("getFeatureAsset",x_getFeatureAsset.arguments);}
+function x_getCommunityMember(){sajax_do_call("getCommunityMember",x_getCommunityMember.arguments);}
+function x_getAssetPoll(){sajax_do_call("getAssetPoll",x_getAssetPoll.arguments);}
+function x_getAssetProperties(){sajax_do_call("getAssetProperties",x_getAssetProperties.arguments);}
+function x_getStateCities(){sajax_do_call("getStateCities",x_getStateCities.arguments);}
+function x_getAssetMembers(){sajax_do_call("getAssetMembers",x_getAssetMembers.arguments);}
+function x_castVote(){sajax_do_call("castVote",x_castVote.arguments);}
+function x_check_user(){sajax_do_call("check_user",x_check_user.arguments);}
+function x_email_avalilability(){sajax_do_call("email_avalilability",x_email_avalilability.arguments);}
+function x_login(){sajax_do_call("login",x_login.arguments);}
+function x_logout(){sajax_do_call("logout",x_logout.arguments);}
+function x_changeHeader(){sajax_do_call("changeHeader",x_changeHeader.arguments);}</script>
 
-<script type="text/javascript" src="http://www.weblo.com/javascript/common.js"></script>
-
-<script type="text/javascript" src="http://www.weblo.com/javascript/MyAjax.js"></script>
-
-<script type="text/javascript" src="http://www.weblo.com/javascript/vertical_common.js"></script>
-
-<script language="javascript" type="text/javascript">
-
-/* <![CDATA[ */
-
-		
-		// remote scripting library
-		// (c) copyright 2005 modernmethod, inc
-		var sajax_debug_mode = false;
-		//var sajax_debug_mode = 1;
-		var sajax_request_type = "POST";
-		var sajax_target_id = "";
-		var sajax_failure_redirect = "";
-		
-		function sajax_debug(text) {
-			if (sajax_debug_mode)
-				alert(text);
-		}
-		
- 		function sajax_init_object() {
- 			sajax_debug("sajax_init_object() called..")
- 			
- 			var A;
-
-			if (window.XMLHttpRequest) {
-				A = new XMLHttpRequest();
-			} else {
-	 			var msxmlhttp = new Array(
-					'Msxml2.XMLHTTP.6.0',
-					'Msxml2.XMLHTTP.3.0',
-					'Msxml2.XMLHTTP',
-					'Microsoft.XMLHTTP');
-				for (var i = 0; i < msxmlhttp.length; i++) {
-					try {
-						A = new ActiveXObject(msxmlhttp[i]);
-						break;
-					} catch (e) {
-						A = null;
-					}
-				}
-			}
-
-			if (!A)
-				sajax_debug("Could not create connection object.");
-			return A;
-		}
-		
-		var sajax_requests = new Array();
-		
-		function sajax_cancel() {
-			for (var i = 0; i < sajax_requests.length; i++) 
-				sajax_requests[i].abort();
-		}
-		
-		function sajax_do_call(func_name, args) {
-			var i, x, n;
-			var uri;
-			var post_data;
-			var target_id;
-			
-			sajax_debug("in sajax_do_call().." + sajax_request_type + "/" + sajax_target_id);
-			target_id = sajax_target_id;
-			
-			if (typeof(sajax_request_type) == "undefined" || sajax_request_type == "") 
-				sajax_request_type = "GET";
-			
-			uri = "/main/index.php?Action=Main.privacy_policy";
-			if (sajax_request_type == "GET") {
-			
-				if (uri.indexOf("?") == -1) 
-					uri += "?rs=" + encodeURIComponent(func_name);
-				else
-					uri += "&rs=" + encodeURIComponent(func_name);
-				uri += "&rst=" + encodeURIComponent(sajax_target_id);
-				uri += "&rsrnd=" + new Date().getTime();
-				
-				for (i = 0; i < args.length-1; i++) 
-					uri += "&rsargs[]=" + encodeURIComponent(args[i]);
-				post_data = null;
-			} 
-			else if (sajax_request_type == "POST") {
-				post_data = "rs=" + encodeURIComponent(func_name);
-				post_data += "&rst=" + encodeURIComponent(sajax_target_id);
-				post_data += "&rsrnd=" + new Date().getTime();
-				
-				for (i = 0; i < args.length-1; i++) 
-					post_data = post_data + "&rsargs[]=" + encodeURIComponent(args[i]);
-			}
-			else {
-				alert("Illegal request type: " + sajax_request_type);
-			}
-			
-			x = sajax_init_object();
-			if (x == null) {
-				if (sajax_failure_redirect != "") {
-					location.href = sajax_failure_redirect;
-					return false;
-				} else {
-					sajax_debug("NULL sajax object for user agent:\n" + navigator.userAgent);
-					return false;
-				}
-			} else {
-				if (typeof(gaTrackAjaxRequest) == 'function') gaTrackAjaxRequest(uri);
-
-				x.open(sajax_request_type, uri, true);
-				// window.open(uri);
-				
-				sajax_requests[sajax_requests.length] = x;
-				
-				if (sajax_request_type == "POST") {
-					x.setRequestHeader("Method", "POST " + uri + " HTTP/1.1");
-					x.setRequestHeader("Content-Type", "application/x-www-form-urlencoded");
-				}
-			
-				x.onreadystatechange = function() {
-					if (x.readyState != 4) 
-						return;
-
-					sajax_debug("received " + x.responseText);
-				
-					var status;
-					var data;
-					var txt = x.responseText.replace(/^\s*|\s*$/g,"");
-					status = txt.charAt(0);
-					data = txt.substring(2);
-
-					if (status == "") {
-						// let's just assume this is a pre-response bailout and let it slide for now
-					} else if (status == "-") 
-						alert("Error: " + data);
-					else {
-						if (target_id != "") 
-							document.getElementById(target_id).innerHTML = eval(data);
-						else {
-							try {
-								var callback;
-								var extra_data = false;
-								if (typeof args[args.length-1] == "object") {
-									callback = args[args.length-1].callback;
-									extra_data = args[args.length-1].extra_data;
-								} else {
-									callback = args[args.length-1];
-								}
-								
-								// Code include to handle output by sameer
-								
-								var startPosition = data.indexOf('+:var');
-									if(startPosition!=-1){
-										data = data.substring(startPosition + 2);
-										}	
-								var lastPosition = data.indexOf('res;');
-									if(lastPosition!=-1){
-										data = data.substring(0,lastPosition + 'res;'.length);
-										}
-								// End - Code include to handle output by sameer																									
-								callback(eval(data), extra_data);
-							} catch (e) {
-								sajax_debug("Caught error " + e + ": Could not eval " + data );
-							}
-						}
-					}
-				}
-			}
-			
-			sajax_debug(func_name + " uri = " + uri + "/post = " + post_data);
-			x.send(post_data);
-			sajax_debug(func_name + " waiting..");
-			delete x;
-			return true;
-		}
-		
-				
-		// wrapper for CheckCity		
-		function x_CheckCity() {
-			sajax_do_call("CheckCity",
-				x_CheckCity.arguments);
-		}
-		
-				
-		// wrapper for CheckState		
-		function x_CheckState() {
-			sajax_do_call("CheckState",
-				x_CheckState.arguments);
-		}
-		
-				
-		// wrapper for CheckCelebrity		
-		function x_CheckCelebrity() {
-			sajax_do_call("CheckCelebrity",
-				x_CheckCelebrity.arguments);
-		}
-		
-				
-		// wrapper for getMostImproved		
-		function x_getMostImproved() {
-			sajax_do_call("getMostImproved",
-				x_getMostImproved.arguments);
-		}
-		
-				
-		// wrapper for getRecentUpdated		
-		function x_getRecentUpdated() {
-			sajax_do_call("getRecentUpdated",
-				x_getRecentUpdated.arguments);
-		}
-		
-				
-		// wrapper for GetCelebrityCategories		
-		function x_GetCelebrityCategories() {
-			sajax_do_call("GetCelebrityCategories",
-				x_GetCelebrityCategories.arguments);
-		}
-		
-				
-		// wrapper for CheckDomains		
-		function x_CheckDomains() {
-			sajax_do_call("CheckDomains",
-				x_CheckDomains.arguments);
-		}
-		
-				
-		// wrapper for GetPopularTlds		
-		function x_GetPopularTlds() {
-			sajax_do_call("GetPopularTlds",
-				x_GetPopularTlds.arguments);
-		}
-		
-				
-		// wrapper for FetchStates		
-		function x_FetchStates() {
-			sajax_do_call("FetchStates",
-				x_FetchStates.arguments);
-		}
-		
-				
-		// wrapper for FetchCities		
-		function x_FetchCities() {
-			sajax_do_call("FetchCities",
-				x_FetchCities.arguments);
-		}
-		
-				
-		// wrapper for CheckProperty		
-		function x_CheckProperty() {
-			sajax_do_call("CheckProperty",
-				x_CheckProperty.arguments);
-		}
-		
-				
-		// wrapper for CheckAvailableCity		
-		function x_CheckAvailableCity() {
-			sajax_do_call("CheckAvailableCity",
-				x_CheckAvailableCity.arguments);
-		}
-		
-				
-		// wrapper for PropertyRegForms		
-		function x_PropertyRegForms() {
-			sajax_do_call("PropertyRegForms",
-				x_PropertyRegForms.arguments);
-		}
-		
-				
-		// wrapper for CheckAvailableState		
-		function x_CheckAvailableState() {
-			sajax_do_call("CheckAvailableState",
-				x_CheckAvailableState.arguments);
-		}
-		
-				
-		// wrapper for getCommunities		
-		function x_getCommunities() {
-			sajax_do_call("getCommunities",
-				x_getCommunities.arguments);
-		}
-		
-				
-		// wrapper for getFeatureProperties		
-		function x_getFeatureProperties() {
-			sajax_do_call("getFeatureProperties",
-				x_getFeatureProperties.arguments);
-		}
-		
-				
-		// wrapper for getTopRankedAsset		
-		function x_getTopRankedAsset() {
-			sajax_do_call("getTopRankedAsset",
-				x_getTopRankedAsset.arguments);
-		}
-		
-				
-		// wrapper for getRecentAsset		
-		function x_getRecentAsset() {
-			sajax_do_call("getRecentAsset",
-				x_getRecentAsset.arguments);
-		}
-		
-				
-		// wrapper for getForumtopics		
-		function x_getForumtopics() {
-			sajax_do_call("getForumtopics",
-				x_getForumtopics.arguments);
-		}
-		
-				
-		// wrapper for getFeatureAsset		
-		function x_getFeatureAsset() {
-			sajax_do_call("getFeatureAsset",
-				x_getFeatureAsset.arguments);
-		}
-		
-				
-		// wrapper for getCommunityMember		
-		function x_getCommunityMember() {
-			sajax_do_call("getCommunityMember",
-				x_getCommunityMember.arguments);
-		}
-		
-				
-		// wrapper for getAssetPoll		
-		function x_getAssetPoll() {
-			sajax_do_call("getAssetPoll",
-				x_getAssetPoll.arguments);
-		}
-		
-				
-		// wrapper for getAssetProperties		
-		function x_getAssetProperties() {
-			sajax_do_call("getAssetProperties",
-				x_getAssetProperties.arguments);
-		}
-		
-				
-		// wrapper for getStateCities		
-		function x_getStateCities() {
-			sajax_do_call("getStateCities",
-				x_getStateCities.arguments);
-		}
-		
-				
-		// wrapper for getAssetMembers		
-		function x_getAssetMembers() {
-			sajax_do_call("getAssetMembers",
-				x_getAssetMembers.arguments);
-		}
-		
-				
-		// wrapper for castVote		
-		function x_castVote() {
-			sajax_do_call("castVote",
-				x_castVote.arguments);
-		}
-		
-				
-		// wrapper for check_user		
-		function x_check_user() {
-			sajax_do_call("check_user",
-				x_check_user.arguments);
-		}
-		
-				
-		// wrapper for email_avalilability		
-		function x_email_avalilability() {
-			sajax_do_call("email_avalilability",
-				x_email_avalilability.arguments);
-		}
-		
-				
-		// wrapper for login		
-		function x_login() {
-			sajax_do_call("login",
-				x_login.arguments);
-		}
-		
-				
-		// wrapper for logout		
-		function x_logout() {
-			sajax_do_call("logout",
-				x_logout.arguments);
-		}
-		
-				
-		// wrapper for changeHeader		
-		function x_changeHeader() {
-			sajax_do_call("changeHeader",
-				x_changeHeader.arguments);
-		}
-		
-		
-/* ]]> */
-
-</script>
-
-<script type="text/javascript">
-/*<![CDATA[*/
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-/*]]>*/
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-/*<![CDATA[*/
-	var pageTracker = _gat._getTracker("UA-1434795-1");
-/*]]>*/
-</script>
-<script type="text/javascript" src="http://www.weblo.com/javascript/google-ga-custom.js"></script>
-<script type="text/javascript">
-/*<![CDATA[*/
-	if (typeof(gaTrackGoogleImageKeywords) == 'function') gaTrackGoogleImageKeywords();
-	pageTracker._trackPageview();
-/*]]>*/
-</script>
+<script type="text/javascript">var gaJsHost=(("https:"==document.location.protocol)?"https://ssl.":"http://www.");document.write(unescape("%3Cscript src='"+gaJsHost+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">var pageTracker=_gat._getTracker("UA-1434795-1");</script>
+<script type="text/javascript" src="/javascript/google-ga-custom.js.pagespeed.jm.b4MvxVGn6I.js"></script>
+<script type="text/javascript">if(typeof(gaTrackGoogleImageKeywords)=='function')gaTrackGoogleImageKeywords();pageTracker._trackPageview();</script>
 <!-- Start Quantcast tag -->
-<script type="text/javascript">/*<![CDATA[*/
-        _qoptions={
-        qacct:"p-55gd7n3vj7fj6"
-        };
-/*]]>*/</script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qoptions={qacct:"p-55gd7n3vj7fj6"};</script>
+<script type="text/javascript" src="//edge.quantserve.com/quant.js"></script>
 <!-- End Quantcast tag -->
 
-<style type="text/css">@import url("http://www.weblo.com/css/templates/verticals.css");</style>
-<style type="text/css">@import url("http://www.weblo.com/css/domain/domains.css");</style>
-<style type="text/css">@import url("http://www.weblo.com/css/register.css");</style>
-<style type="text/css">@import url("http://www.weblo.com/css/domain.css");</style>
-<style type="text/css">@import url("http://www.weblo.com/css/home.css");</style>
-<style type="text/css">@import url("http://www.weblo.com/css/searchpopup.css");</style>
-<style type="text/css">@import url("http://www.weblo.com/css/learnmore.css");</style>
-<link href="http://www.weblo.com/css/headerfooter.css" rel="stylesheet" type="text/css">
+<style type="text/css">@import url(http://www.weblo.com/css/templates/verticals.css) ;</style>
+<style type="text/css">@import url(http://www.weblo.com/css/domain/domains.css) ;</style>
+<style type="text/css">@import url(http://www.weblo.com/css/register.css) ;</style>
+<style type="text/css">@import url(http://www.weblo.com/css/domain.css) ;</style>
+<style type="text/css">@import url(http://www.weblo.com/css/home.css) ;</style>
+<style type="text/css">@import url(http://www.weblo.com/css/searchpopup.css) ;</style>
+<style type="text/css">@import url(http://www.weblo.com/css/learnmore.css) ;</style>
+<link href="/css/headerfooter.css.pagespeed.ce.pB7wxjTLmH.css" rel="stylesheet" type="text/css">
 
 <!--[if IE]>
 <style type="text/css">@import url("http://www.weblo.com/templates/innerpages/innerpages_IEhack.css");</style>
 <![endif]-->
-<script language="javascript" type="text/javascript" src="http://www.weblo.com/javascript/ajax_search_.js"></script>
-<script language="javascript">
-				
+<script language="javascript" type="text/javascript" src="/javascript/ajax_search_.js.pagespeed.jm.dcE8wyUbsW.js"></script>
+<script language="javascript">function checkSubmit(e){var f=document.frmSearch;if(f){var asset_type='City';if(f.asset_type.value!=''){asset_type=f.asset_type.value;}
+if(asset_type=='City'||asset_type=='State'||asset_type=='Celebrity'||asset_type=='Domain'){var testVar=(window.event)?(window.event.keyCode!=13):(e.which!=13);return testVar;}}}
+function searchFocused(searchVal,textPrompt){if(searchVal){if(searchVal.value==textPrompt){searchVal.value='';searchVal.className=searchVal.className.replace(' fadeIn','');}}}
+function searchBlur(searchVal,textPrompt){if(searchVal){if(searchVal.value==''){searchVal.value=textPrompt;searchVal.className=searchVal.className+' fadeIn';}}}</script>
+<style>a.register{color:#018bc6;text-decoration:none}a.register:visited{color:#018bc6}a.register:hover{color:#ffa500}a.linkBlack1{color:#fff;font-weight:bold;font-size:11px;font-family:Arial,sans-serif;text-decoration:none}a.linkBlack1:visited{color:#fff;font-weight:bold;font-size:11px;font-family:Arial,sans-serif;text-decoration:none}a.linkBlack1:hover{color:#fff;font-weight:bold;font-size:11px;font-family:Arial,sans-serif;text-decoration:underline}a.linkBlack2{color:#262626;text-decoration:underline}a.linkBlack2:visited{color:#262626;text-decoration:underline}a.linkBlack2:hover{color:#018bc6;text-decoration:underline}span.divider1{margin-left:4px;margin-right:4px;color:#fff}span.divider2{margin-left:4px;margin-right:4px;color:#fff}input.registerInput{font-weight:inherit;vertical-align:middle;border:1px solid #d4d4d4;width:130px}span.reqField{color:red}td.regTdL{text-align:right;width:160px;color:#262626;font-family:Verdana,Tahoma,sans-serif;font-size:11px}td.regTdR{text-align:left;width:160px;padding-left:4px;color:#262626;font-family:Verdana,Tahoma,sans-serif;font-size:11px}div.errorDiv{color:red;width:130px;visibility:hidden;display:none;font-family:Verdana,Tahoma,sans-serif;font-size:11px;white-space:nowrap}div#registerPopUp{overflow:hidden;text-align:left}</style>
 
-			function checkSubmit(e) {
-				var f = document.frmSearch;
-				if (f) {
-
-					var asset_type = 'City';
-					//for (var i = 0; i < f.asset_type.length; i++) {
-					if (f.asset_type.value!='') {
-						asset_type = f.asset_type.value;
-					}
-					//}
-
-					if (asset_type == 'City' || asset_type == 'State' || asset_type == 'Celebrity' || asset_type == 'Domain') {
-						var testVar = (window.event) ? (window.event.keyCode != 13) : (e.which != 13);
-						return testVar;
-						
-					}
-				}
-			}
-
-			function searchFocused(searchVal, textPrompt) {
-				if (searchVal) {
-					if (searchVal.value == textPrompt) {
-						searchVal.value = '';
-						searchVal.className = searchVal.className.replace(' fadeIn', '');
-					}
-				}
-			}
-
-			function searchBlur(searchVal, textPrompt) {
-
-				if (searchVal) {
-					if (searchVal.value == '') {
-						searchVal.value = textPrompt;
-						searchVal.className = searchVal.className + ' fadeIn';
-					}
-				}
-			}
-
-	
-
-</script>
-<link href="http://www.weblo.com/css/register.css" rel="stylesheet">
-
-<script src="http://www.weblo.com/javascript/register.js" type="text/javascript"></script>
+<script src="/javascript/register.js.pagespeed.ce.NXaNkc7jvX.js" type="text/javascript"></script>
 
 
 
@@ -528,15 +139,7 @@
 
 <body>
 
-<script type="text/javascript">
-
-/* <![CDATA[ */
-
-	displayLearnMore();
-
-/*]]>*/
-
-</script>
+<script type="text/javascript">displayLearnMore();</script>
 
 <style>
 .fr {
@@ -864,7 +467,7 @@ body > * html #myNotification {
 					</div>
 					<div id="FLDiv" class="userstuatus" style="display:none">
 												<div style="padding: 6px 10px; color: rgb(102, 102, 102);" align="center">Please
-							<a href="http://www.weblo.com/signin/index.php?Action=SignIn.SignIn" title="Sign In">Sign In</a>							to see your friends online</div>
+							<a href="/signin/index.php?Action=SignIn.SignIn" title="Sign In">Sign In</a>							to see your friends online</div>
 											</div>
 					<div id="OUDiv" class="userstuatus" style="display:block; ">
 												<div style="padding: 6px 10px; color: rgb(102, 102, 102);" align="center">No User(s) Online</div>
@@ -874,7 +477,7 @@ body > * html #myNotification {
 			<div style="clear:both;">
 				<div class="chatbox">
 					<div class="chat">
-						<div class="fl p5"> <img src="http://www.weblo.com/images/onlineusers/chat.png" alt="messages"></div>
+						<div class="fl p5"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAARCAMAAADwppwCAAAABGdBTUEAALGOfPtRkwAAAXFQTFRF////w3MCBnMiw3MCBnMiBnMiBnMiw3MCw3MCw3MCBnMiw3MCw3MCBnMiBnMiBnMiS3MWBnMiw3MCw3MCw3MCBnMiBnMiBnMiBnMiw3MCBnMiBnMiw3MCBnMiw3MCw3MCw3MCw3MCBnMiw3MCBnMiBnMiBnMiBnMiBnMiBnMiUXMVw3MCw3MCw3MCBnMiw3MCw3MCBnMiw3MCBnMiw3MCBnMiBnMiw3MCsnMFBnMiw3MCBnMiBnMiG3MeDXMhBnMiBnMiJY0lJ5IaLZcaNJ8WNaAVOZk0OpwtQagbQqkbRKsZTrEiWMEMWboiWcENW6xRW8IRXsMVYMQYZL02Z8ciaMcibcgtbrxSb7xSb8otc7xedMk5eM06g9BNhtJOlddkxXQDxnYEx3wPx3wRyYEXzHsIzoso1pEX2o8V26hN3Jkd3KY/3ZMY36xH4bRe5K4w5bVC78A+78dU79GH79KJ868q9sI59+Oh+NFL+Nll+N+EaB3ByAAAAEB0Uk5TAAMGCQoLDA8SFRgeISYnKCkqKjM2S1FSWWBmdXiKipCTn6WlqKmxtLy9vcDDydLS1dbW2Nnc3uTn7fDx9vb5+giYgIkAAADfSURBVBjTY2DAC/hk1dRk+THFxWz8o6L8bcTBHE4Rbpg4l2V4PBBEWAvIGRiZJKel6ApBJKTc4kAg1s4iKbO4pLy8PM8KoknaPQYEom21OGWyq0AgVwEsIeoYCQJh9hIMygWVIFCkDzFL0zsECLw12BgU8ytAoBAiwabiEQQEnqqsLJLpZSCQJQ8SFzRzDgADZ1NeRp2M0tLSHHMOoDiTsasPFLgYMrArJ6QmavOAHevkBwdOUgwMzMIcEJvVvQLhwEsdKTyMfUPhwNcYSUIvOAYOgvWQJJQckIASA0EAAIiXRP57eUTqAAAAAElFTkSuQmCC" alt="messages"></div>
 						<div class="fl text p5" id="chatvalue"><b>Online (0)</b></div>
 					</div>
 				</div>
@@ -882,161 +485,47 @@ body > * html #myNotification {
 </tr></tbody></table>
 <div class="tabDiv" id="botDiv">
 
-	<div id="notifyID" style="float:right;  width:90px; height:17px; z-index:101; border-top:1px solid #c0c0c0;  text-align:center; padding:2px;" onmousemove="StyleIn();" onmouseout="StyleOut();"> <a class="chatlink" style="display:block;height:20px; width:90px;" href="javascript:Notification();" alt="Notifications" title="Notifications"><img src="http://www.weblo.com/images/onlineusers/notification_icon.png" style="vertical-align:middle;" width="9"> Notifications</a></div>
+	<div id="notifyID" style="float:right;  width:90px; height:17px; z-index:101; border-top:1px solid #c0c0c0;  text-align:center; padding:2px;" onmousemove="StyleIn();" onmouseout="StyleOut();"> <a class="chatlink" style="display:block;height:20px; width:90px;" href="javascript:Notification();" alt="Notifications" title="Notifications"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAPBAMAAADAEygDAAAABGdBTUEAALGOfPtRkwAAACdQTFRFUm6mVnGoXHarYnyuaoKycYm2eo+7gZa/iZzDj6LGlafJ/pEo/v7+D1wPvgAAACFJREFUCNdjWNme6qzIAAPcu4EABwUFPGeAgCge1GgIBQDzAxt8reuL3wAAAABJRU5ErkJggg==" style="vertical-align:middle;"> Notifications</a></div>
 
-	<div id="chatID" style="float:right; border-right:1px solid #c0c0c0; border-top:1px solid #c0c0c0; z-index:101; border-left:1px solid #c0c0c0; width:106px; height:17px;   text-align:center; padding:2px;" onmousemove="StyleInChat();" onmouseout="StyleOutChat();"><a class="chatlink" style="display:block;height:20px; width:103px; " href="javascript:onlineUsers();" alt="Chat" title="Chat"><img src="http://www.weblo.com/images/onlineusers/chat.png" width="19" style="vertical-align:middle;"> Online Users</a></div>
+	<div id="chatID" style="float:right; border-right:1px solid #c0c0c0; border-top:1px solid #c0c0c0; z-index:101; border-left:1px solid #c0c0c0; width:106px; height:17px;   text-align:center; padding:2px;" onmousemove="StyleInChat();" onmouseout="StyleOutChat();"><a class="chatlink" style="display:block;height:20px; width:103px; " href="javascript:onlineUsers();" alt="Chat" title="Chat"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAARCAMAAADwppwCAAAABGdBTUEAALGOfPtRkwAAAXFQTFRF////w3MCBnMiw3MCBnMiBnMiBnMiw3MCw3MCw3MCBnMiw3MCw3MCBnMiBnMiBnMiS3MWBnMiw3MCw3MCw3MCBnMiBnMiBnMiBnMiw3MCBnMiBnMiw3MCBnMiw3MCw3MCw3MCw3MCBnMiw3MCBnMiBnMiBnMiBnMiBnMiBnMiUXMVw3MCw3MCw3MCBnMiw3MCw3MCBnMiw3MCBnMiw3MCBnMiBnMiw3MCsnMFBnMiw3MCBnMiBnMiG3MeDXMhBnMiBnMiJY0lJ5IaLZcaNJ8WNaAVOZk0OpwtQagbQqkbRKsZTrEiWMEMWboiWcENW6xRW8IRXsMVYMQYZL02Z8ciaMcibcgtbrxSb7xSb8otc7xedMk5eM06g9BNhtJOlddkxXQDxnYEx3wPx3wRyYEXzHsIzoso1pEX2o8V26hN3Jkd3KY/3ZMY36xH4bRe5K4w5bVC78A+78dU79GH79KJ868q9sI59+Oh+NFL+Nll+N+EaB3ByAAAAEB0Uk5TAAMGCQoLDA8SFRgeISYnKCkqKjM2S1FSWWBmdXiKipCTn6WlqKmxtLy9vcDDydLS1dbW2Nnc3uTn7fDx9vb5+giYgIkAAADfSURBVBjTY2DAC/hk1dRk+THFxWz8o6L8bcTBHE4Rbpg4l2V4PBBEWAvIGRiZJKel6ApBJKTc4kAg1s4iKbO4pLy8PM8KoknaPQYEom21OGWyq0AgVwEsIeoYCQJh9hIMygWVIFCkDzFL0zsECLw12BgU8ytAoBAiwabiEQQEnqqsLJLpZSCQJQ8SFzRzDgADZ1NeRp2M0tLSHHMOoDiTsasPFLgYMrArJ6QmavOAHevkBwdOUgwMzMIcEJvVvQLhwEsdKTyMfUPhwNcYSUIvOAYOgvWQJJQckIASA0EAAIiXRP57eUTqAAAAAElFTkSuQmCC" style="vertical-align:middle;"> Online Users</a></div>
 
 	<div style="clear:both"></div>
 </div>
-<script language="javascript">
-var divPosition=-315;
-	var intHide;
-	var speed=315;
-	var HideStatus=1;
-	var HideNotification=1;
-	
-		function showmenu()
-		{
-		clearInterval(intHide);
-		intShow=setInterval("show()",1);
-		}
-		function hidemenu()
-		{
-		clearInterval(intShow);
-		intHide=setInterval("hide()",1);
-		}
-		function show()
-		{
-//	
-		if (divPosition<-5)
-			{
-			divPosition=divPosition+speed;
-			document.getElementById('myMenu').style.zIndex='100';
-			document.getElementById('myMenu').style.right=divPosition+'px';
-			HideStatus = 0;
-			}
-			if(divPosition==-3) document.getElementById('myMenu').style.zIndex='98';
-		}
-		function hide()
-		{
-		if (divPosition>-315)
-			{
-			divPosition=divPosition-speed;
-			document.getElementById('myMenu').style.zIndex='100';
-			document.getElementById('myMenu').style.right=divPosition+'px';
-			HideStatus = 1;
-			}
-			//if(divPosition==-315) document.getElementById('chatImage').style.display='block';
-		
-		}
-		
-		function onlineUsers()
-			{
-			
-			if(HideStatus== 1)
-			{
-				showmenu();
-				document.getElementById('myMenu').style.display='block';
-				document.getElementById('notifyID').style.background='none';
-				document.getElementById('chatID').style.background='#336699';
-				document.getElementById('chatID').style.borderTop='1px solid #336699';
-				document.getElementById('notifyID').style.borderTop='1px solid #c0c0c0';
-				//document.getElementById('chatImage').style.display='none';
-				if(HideNotification==0){
-				hidenotification();
-				document.getElementById('myNotification').style.display='none';
-				}
-				if(HideNotification==1){
-				//document.getElementById('notifiationImage').style.bottom='25px';
-				}
-				HideStatus=0;
-					return ;
-				}else{
-					hidemenu();
-					document.getElementById('myMenu').style.display='none'
-					document.getElementById('chatID').style.background='none';
-					document.getElementById('chatID').style.borderTop='1px solid #c0c0c0';
-					//document.getElementById('notifiationImage').style.bottom='69px';
-					//document.getElementById('chatImage').style.display='block';
-					
-				return ;
-				}
-			}
-			
-			function showFL(){
-				var chatValue=0;
-				document.getElementById('chatvalue').innerHTML='<b>Online ('+chatValue+')</b>';
-				document.getElementById('OUTab').className='';
-				document.getElementById('FLTab').className='current';
-				document.getElementById('OUDiv').style.display='none';
-				document.getElementById('FLDiv').style.display='block';
-				
-			}
-			function showOU(){
-				var chatValue=0;
-				document.getElementById('chatvalue').innerHTML='<b>Online ('+chatValue+')</b>';
-				document.getElementById('FLTab').className='';
-				document.getElementById('OUTab').className='current';
-				document.getElementById('FLDiv').style.display='none';
-				document.getElementById('OUDiv').style.display='block';
-				
-				
-			}
-		
-</script>
-<script language="javascript">
-		
-		document.onclick=check;
-		
-		var Ary=[];
-		function check(e) { 
-		 	var target = (e && e.target) || (event && event.srcElement);
-			 while (target.parentNode){
-		 	 if (target.className.match('nav') || target.className.match('navNotification') || target.className.match('tabDiv') ) return;
-		 	 target=target.parentNode;
-		 }
-		 
-		 if(HideStatus==0){
-		 var ary=zxcByClassName('nav')
-		 for (var z0=0;z0<ary.length;z0++){
-		  ary[z0].style.display='none';
-		 }
-		 document.getElementById('chatID').style.background='none';
-		 HideStatus=1;
-		 return true;
-		 
-		 }else if(HideNotification==0){
-		 var notify=zxcByClassName('navNotification')
-		 for (var z1=0;z1<notify.length;z1++){
-		  notify[z1].style.display='none';
-		 }
-		  document.getElementById('notifyID').style.background='none';
-		  HideNotification = 1;
-		  return true;
-		 }
-		
-		return true;
-		}
-		
-		
-		function zxcByClassName(nme,el,tag){
-		 if (typeof(el)=='string') el=document.getElementById(el);
-		 el=el||document;
-		 for (var tag=tag||'*',reg=new RegExp('\\b'+nme+'\\b'),els=el.getElementsByTagName(tag),ary=[],z0=0; z0<els.length;z0++){
-		  if(reg.test(els[z0].className)) ary.push(els[z0]);
-		 }
-		 return ary;
-		}
-		
-		
-		</script>
+<script language="javascript">var divPosition=-315;var intHide;var speed=315;var HideStatus=1;var HideNotification=1;function showmenu()
+{clearInterval(intHide);intShow=setInterval("show()",1);}
+function hidemenu()
+{clearInterval(intShow);intHide=setInterval("hide()",1);}
+function show()
+{if(divPosition<-5)
+{divPosition=divPosition+speed;document.getElementById('myMenu').style.zIndex='100';document.getElementById('myMenu').style.right=divPosition+'px';HideStatus=0;}
+if(divPosition==-3)document.getElementById('myMenu').style.zIndex='98';}
+function hide()
+{if(divPosition>-315)
+{divPosition=divPosition-speed;document.getElementById('myMenu').style.zIndex='100';document.getElementById('myMenu').style.right=divPosition+'px';HideStatus=1;}}
+function onlineUsers()
+{if(HideStatus==1)
+{showmenu();document.getElementById('myMenu').style.display='block';document.getElementById('notifyID').style.background='none';document.getElementById('chatID').style.background='#336699';document.getElementById('chatID').style.borderTop='1px solid #336699';document.getElementById('notifyID').style.borderTop='1px solid #c0c0c0';if(HideNotification==0){hidenotification();document.getElementById('myNotification').style.display='none';}
+if(HideNotification==1){}
+HideStatus=0;return;}else{hidemenu();document.getElementById('myMenu').style.display='none'
+document.getElementById('chatID').style.background='none';document.getElementById('chatID').style.borderTop='1px solid #c0c0c0';return;}}
+function showFL(){var chatValue=0;document.getElementById('chatvalue').innerHTML='<b>Online ('+chatValue+')</b>';document.getElementById('OUTab').className='';document.getElementById('FLTab').className='current';document.getElementById('OUDiv').style.display='none';document.getElementById('FLDiv').style.display='block';}
+function showOU(){var chatValue=0;document.getElementById('chatvalue').innerHTML='<b>Online ('+chatValue+')</b>';document.getElementById('FLTab').className='';document.getElementById('OUTab').className='current';document.getElementById('FLDiv').style.display='none';document.getElementById('OUDiv').style.display='block';}</script>
+<script language="javascript">document.onclick=check;var Ary=[];function check(e){var target=(e&&e.target)||(event&&event.srcElement);while(target.parentNode){if(target.className.match('nav')||target.className.match('navNotification')||target.className.match('tabDiv'))return;target=target.parentNode;}
+if(HideStatus==0){var ary=zxcByClassName('nav')
+for(var z0=0;z0<ary.length;z0++){ary[z0].style.display='none';}
+document.getElementById('chatID').style.background='none';HideStatus=1;return true;}else if(HideNotification==0){var notify=zxcByClassName('navNotification')
+for(var z1=0;z1<notify.length;z1++){notify[z1].style.display='none';}
+document.getElementById('notifyID').style.background='none';HideNotification=1;return true;}
+return true;}
+function zxcByClassName(nme,el,tag){if(typeof(el)=='string')el=document.getElementById(el);el=el||document;for(var tag=tag||'*',reg=new RegExp('\\b'+nme+'\\b'),els=el.getElementsByTagName(tag),ary=[],z0=0;z0<els.length;z0++){if(reg.test(els[z0].className))ary.push(els[z0]);}
+return ary;}</script>
 
 <input type="hidden" id="web_path" name="web_path" value="http://www.weblo.com">
 <div id="notItDiv" class="select-free" style="position:absolute;width:400px;height:auto;z-index:99;display:none;padding:8px;border: 1px solid #999999;background-color:#F2F2F2;">
   <table border="0" align="center" cellpadding="0" cellspacing="0">
     <tbody><tr>
       <td align="left" id="Quickmessage"><!--<div id="divShowMesssage" class="divHeading"></div>--></td>
-      <td align="right"><a href="javascript:;" onclick="javascript:closeBuyNotDiv();"> <img src="http://www.weblo.com/images/asset_pages/close_icon.gif" width="15" height="13" border="0" alt=""></a></td>
+      <td align="right"><a href="javascript:;" onclick="javascript:closeBuyNotDiv();"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAANCAAAAABTdWudAAAAf0lEQVQI103OvQoCMRAE4H3/NxhQsthcZXf4g008SJHKJ7guxcFVHkoiFmMIl3hTzTewsLLYPWoO90Ws+7Dm5axoJEMgU5jJqIK8ezzYY8wNxekIj4HNnIEubZw63Lixh5bz1SP6pPqsLj1vxSbyn2jk6r6Nb3eR6bRr/5vz9AO8dKQ8iMCl4gAAAABJRU5ErkJggg==" border="0" alt=""></a></td>
     </tr>
     <tr>
       <td height="2px"></td>
@@ -1056,142 +545,49 @@ var divPosition=-315;
 		  
         </div>
         <div id="notifyArea" class="notificationalerts">
-          <div align="center" style="padding: 6px 10px; color: rgb(102, 102, 102);">Please <a href="http://www.weblo.com/signin/index.php?Action=SignIn.SignIn" title="Sign In">Sign In</a> to see your notification(s).</div>      </div>
+          <div align="center" style="padding: 6px 10px; color: rgb(102, 102, 102);">Please <a href="/signin/index.php?Action=SignIn.SignIn" title="Sign In">Sign In</a> to see your notification(s).</div>      </div>
 		
 		
       </div>
       
       <div class="chatbox">
         <div class="bgblue">
-          <div class="fl p5"> <img src="http://www.weblo.com/images/onlineusers/notification_icon.png" alt="notification"></div>
+          <div class="fl p5"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAsAAAAPBAMAAADAEygDAAAABGdBTUEAALGOfPtRkwAAACdQTFRFUm6mVnGoXHarYnyuaoKycYm2eo+7gZa/iZzDj6LGlafJ/pEo/v7+D1wPvgAAACFJREFUCNdjWNme6qzIAAPcu4EABwUFPGeAgCge1GgIBQDzAxt8reuL3wAAAABJRU5ErkJggg==" alt="notification"></div>
           <div class="notify">Notification(0)</div>
         </div>
       </div></td>
 </tr></tbody></table>
-<script type="text/javascript">
-	var Divright=-315;
-	var intHideNotification;
-	var speed=315;
-	var HideNotification=1;
-		function shownotification()
-		{
-		clearInterval(intHideNotification);
-		intShowNotification=setInterval("showbar()",1);
-		document.getElementById('chatID').style.background='none';
-		document.getElementById('notifyID').style.background='#336699';
-		document.getElementById('notifyID').style.borderTop='1px solid #336699';
-		document.getElementById('chatID').style.borderTop='1px solid #c0c0c0';
-		
-		}
-		function hidenotification()
-		{
-		clearInterval(intShowNotification);
-		intHideNotification=setInterval("hidebar()",1);
-		document.getElementById('notifyID').style.background='none';
-		document.getElementById('notifyID').style.borderTop='1px solid #c0c0c0';
-		}
-		function showbar()
-		{
-		if (Divright<-5)
-			{
-			Divright=Divright+speed;
-			document.getElementById('myNotification').style.zIndex='100';
-			document.getElementById('myNotification').style.right=Divright+'px';
-			HideNotification = 0;
-			}
-			if(Divright==-3) document.getElementById('myNotification').style.zIndex='98';
-
-		}
-		function hidebar()
-		{
-		if (Divright>-315)
-			{
-			Divright=Divright-speed;
-			document.getElementById('myNotification').style.zIndex='100';
-			document.getElementById('myNotification').style.right=Divright+'px';
-			HideNotification = 1;
-			}
-			//if(Divright==-315) document.getElementById('notifiationImage').style.display='block';
-			if(HideStatus==1){
-			//document.getElementById('notifiationImage').style.bottom='69px';
-			}
-		
-		}
-		
-		function Notification()
-			{
-			
-			if(HideNotification== 1)
-			{
-				
-				shownotification();
-				//document.getElementById('notifiationImage').style.display='none';
-				document.getElementById('myNotification').style.display='block';
-				if(HideStatus==0){
-				hidemenu();
-				document.getElementById('myMenu').style.display='none'
-				}
-				HideNotification=0;
-			return ;
-				}else{
-				hidenotification();
-				document.getElementById('myNotification').style.display='none';
-				HideNotification=1;
-			return ;
-				}
-		
-			}
-
-function ajaxSearchNotification(pageId) {
-		var url = baseURL+'/index.php?Action=weblo.ajaxNotification&page='+pageId;		
-		document.getElementById('notifyArea').innerHTML = '<img src="' + baseURL + '/images/loading.gif" alt="Loading" />';
-		ajax_do_call(url,'','',set_notify_area);
-		
-		
-
-}
-	function set_notify_area(result){
-		document.getElementById('notifyArea').innerHTML=result;
-	}
-	
-	function StyleIn(){
-
-		document.getElementById('notifyID').style.background='#336699';
-		document.getElementById('notifyID').getElementsByTagName('a').item(0).style.color='#FFFFFF';
-	}	
-	function StyleOut(){
-		if(HideNotification==0){
-			document.getElementById('notifyID').style.background='#336699';
-		}else{
-			document.getElementById('notifyID').style.background='none';
-		}
-		document.getElementById('notifyID').getElementsByTagName('a').item(0).style.color='#184E9D';
-	}
-	
-	function StyleInChat(){
-		document.getElementById('chatID').style.background='#336699';
-		document.getElementById('chatID').getElementsByTagName('a').item(0).style.color='#FFFFFF';
-	}	
-	
-	function StyleOutChat(){
-		if(HideStatus==0){
-			document.getElementById('chatID').style.background='#336699';
-		}else{
-			document.getElementById('chatID').style.background='none';
-		}
-		document.getElementById('chatID').getElementsByTagName('a').item(0).style.color='#184E9D';
-	}
-
-
-
-</script>
+<script type="text/javascript">var Divright=-315;var intHideNotification;var speed=315;var HideNotification=1;function shownotification()
+{clearInterval(intHideNotification);intShowNotification=setInterval("showbar()",1);document.getElementById('chatID').style.background='none';document.getElementById('notifyID').style.background='#336699';document.getElementById('notifyID').style.borderTop='1px solid #336699';document.getElementById('chatID').style.borderTop='1px solid #c0c0c0';}
+function hidenotification()
+{clearInterval(intShowNotification);intHideNotification=setInterval("hidebar()",1);document.getElementById('notifyID').style.background='none';document.getElementById('notifyID').style.borderTop='1px solid #c0c0c0';}
+function showbar()
+{if(Divright<-5)
+{Divright=Divright+speed;document.getElementById('myNotification').style.zIndex='100';document.getElementById('myNotification').style.right=Divright+'px';HideNotification=0;}
+if(Divright==-3)document.getElementById('myNotification').style.zIndex='98';}
+function hidebar()
+{if(Divright>-315)
+{Divright=Divright-speed;document.getElementById('myNotification').style.zIndex='100';document.getElementById('myNotification').style.right=Divright+'px';HideNotification=1;}
+if(HideStatus==1){}}
+function Notification()
+{if(HideNotification==1)
+{shownotification();document.getElementById('myNotification').style.display='block';if(HideStatus==0){hidemenu();document.getElementById('myMenu').style.display='none'}
+HideNotification=0;return;}else{hidenotification();document.getElementById('myNotification').style.display='none';HideNotification=1;return;}}
+function ajaxSearchNotification(pageId){var url=baseURL+'/index.php?Action=weblo.ajaxNotification&page='+pageId;document.getElementById('notifyArea').innerHTML='<img src="'+baseURL+'/images/loading.gif" alt="Loading" />';ajax_do_call(url,'','',set_notify_area);}
+function set_notify_area(result){document.getElementById('notifyArea').innerHTML=result;}
+function StyleIn(){document.getElementById('notifyID').style.background='#336699';document.getElementById('notifyID').getElementsByTagName('a').item(0).style.color='#FFFFFF';}
+function StyleOut(){if(HideNotification==0){document.getElementById('notifyID').style.background='#336699';}else{document.getElementById('notifyID').style.background='none';}
+document.getElementById('notifyID').getElementsByTagName('a').item(0).style.color='#184E9D';}
+function StyleInChat(){document.getElementById('chatID').style.background='#336699';document.getElementById('chatID').getElementsByTagName('a').item(0).style.color='#FFFFFF';}
+function StyleOutChat(){if(HideStatus==0){document.getElementById('chatID').style.background='#336699';}else{document.getElementById('chatID').style.background='none';}
+document.getElementById('chatID').getElementsByTagName('a').item(0).style.color='#184E9D';}</script>
 
 <div id="buyItDiv" class="select-free" style="position:absolute;width:400px;height:auto;z-index:99;display:none;padding:8px;border: 1px solid #999999;background-color:#F2F2F2;">
 
   <table border="0" align="center" cellpadding="0" cellspacing="0">
     <tbody><tr>
       <td align="left"><div id="buysellHeading" class="divHeading"></div></td>
-      <td align="right"><a href="javascript:;" onclick="javascript:closeBuySellDiv();"><img src="http://www.weblo.com/images/asset_pages/close_icon.gif" width="15" height="13" border="0" alt=""></a></td>
+      <td align="right"><a href="javascript:;" onclick="javascript:closeBuySellDiv();"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAANCAAAAABTdWudAAAAf0lEQVQI103OvQoCMRAE4H3/NxhQsthcZXf4g008SJHKJ7guxcFVHkoiFmMIl3hTzTewsLLYPWoO90Ws+7Dm5axoJEMgU5jJqIK8ezzYY8wNxekIj4HNnIEubZw63Lixh5bz1SP6pPqsLj1vxSbyn2jk6r6Nb3eR6bRr/5vz9AO8dKQ8iMCl4gAAAABJRU5ErkJggg==" border="0" alt=""></a></td>
     </tr>
     <tr>
       <td height="2px"></td>
@@ -1208,32 +604,32 @@ function ajaxSearchNotification(pageId) {
   <tbody><tr>
     <td valign="top"><table border="0" cellpadding="0" style="border-collapse: collapse" width="100%" id="table3" height="110">
         <tbody><tr>
-          <td valign="top" width="4"><img border="0" src="http://www.weblo.com/images/home/headleftcurve.jpg"></td>
+          <td valign="top" width="4"><img border="0" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAZABkAAD/7AARRHVja3kAAQAEAAAAZAAA/+4ADkFkb2JlAGTAAAAAAf/bAIQAAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQICAgICAgICAgICAwMDAwMDAwMDAwEBAQEBAQECAQECAgIBAgIDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD/8AAEQgAbgAIAwERAAIRAQMRAf/EAGoAAQACAwAAAAAAAAAAAAAAAAAHCAYJCgEBAAAAAAAAAAAAAAAAAAAAABAAAAMFBgUCBwAAAAAAAAAABAUHAAERAwYCEhO2N3chMTIzFEEIcbEiUmMWCREBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A6qqFK7U+haLtPl9dJU3bda59wmBsE2JbTfkJinM7D71B0fO4fkIS2b8WCcEXJrM5HUnmQc7ETOg7cI/fSxb8osGRIhoskO19AZUKWAiGiyQ7X0BlQpYCIaLJDtfQGVClgIhoskO19AZUKWAiGiyQ7X0BlQpYCIaLJDtfQGVClgIhoskO19AZUKWDlWRz+ifvEEJckxsBqFBQEj9ATgeALBlK+68w8OQCp5LxReAH2g3vjKio2wrKclksW/wZAcfjGuLIuHp3LHhqlShRXA0uTYHjOd4tA0cGhfhDAp0ulQh6QusFAaaUh4CnCAC6dBwMkKgjnRdw8cDIkw5+lxgqfYee3LODYc+Vds4X1CO3B1zpdDphy4MH/9k="></td>
           <td valign="top" background="http://www.weblo.com/images/home/head_bg.jpg"><table border="0" cellpadding="0" style="border-collapse: collapse" width="100%" id="table4" height="110">
               <tbody><tr>
                 <td width="41%" valign="top" style="padding-top:13px;"><table border="0" width="92%" id="table79" cellspacing="0" cellpadding="0" height="50">
                     <tbody><tr>
-                      <td align="center" valign="bottom">                        <a href="http://www.weblo.com" title="Virtual World"> <img alt="Virtual World" title="Virtual World" border="0" src="http://www.weblo.com/images/home/logo.gif"></a></td>
+                      <td align="center" valign="bottom">                        <a href="/" title="Virtual World"> <img alt="Virtual World" title="Virtual World" border="0" src="/images/home/xlogo.gif.pagespeed.ic.0aTvJDicNz.png" width="188" height="60"></a></td>
                       <td width="234" align="left" class="HeaderLogoName" valign="bottom" style="padding-top:10px;"></td>
                     </tr>
                   </tbody></table></td>
                 <td height="83" width="59%" valign="top"><table border="0" cellpadding="0" style="border-collapse: collapse" width="100%" id="table5" height="82">
                     <tbody><tr>
-                      <td height="22" class="top" style="text-align: right"><a class="top" style="font-weight:normal; color:3F3F3F;" title="Home" href="http://www.weblo.com/">Home </a> &nbsp; | &nbsp;
+                      <td height="22" class="top" style="text-align: right"><a class="top" style="font-weight:normal; color:3F3F3F;" title="Home" href="/">Home </a> &nbsp; | &nbsp;
 
 
 
- <a class="top" style="font-weight:normal; color:3F3F3F;" title="Find Friends" href="http://www.weblo.com/invitation/">Find Friends </a> &nbsp;|&nbsp;
+ <a class="top" style="font-weight:normal; color:3F3F3F;" title="Find Friends" href="/invitation/">Find Friends </a> &nbsp;|&nbsp;
 
  <a class="top" style="font-weight:normal; color:3F3F3F;" title="Learn More" onclick="javascript:openLearnMore();" href="#">Learn More </a>&nbsp;|&nbsp;
 
- <a class="top" style="font-weight:normal; color:3F3F3F;" title="Help Center" href="http://support.weblo.com/support/">Help Center </a> &nbsp;|&nbsp;
+ <a class="top" style="font-weight:normal; color:3F3F3F;" title="Help Center" href="//support.weblo.com/support/">Help Center </a> &nbsp;|&nbsp;
 
- <a class="top" style="font-weight:normal; color:3F3F3F;" title="Media Center" href="http://www.weblo.com/mediacenter/">Media Center </a>&nbsp;|&nbsp;&nbsp;
+ <a class="top" style="font-weight:normal; color:3F3F3F;" title="Media Center" href="/mediacenter/">Media Center </a>&nbsp;|&nbsp;&nbsp;
 
  									
 
-<span class="HeaderLocation">Location: <a href="http://www.weblo.com/country/United_States_of_America/US/" title="United States of America"><img src="http://www.weblo.com/images/flags/US.png" title="United States of America"></a> | <a href="http://www.weblo.com/localinfo/US/" class="join" title="Change Localization">Change</a></span>
+<span class="HeaderLocation">Location: <a href="/country/United_States_of_America/US/" title="United States of America"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAMAAABI111xAAAAb1BMVEUcP3gcP3klR34tTYEtTYIvRnswR3s3VYg4V4k5V4g5V4lAXoxAX4xCX49CYZBDYI9DYpBFYZBFY5BKX41KYI1PbJdQbZZRa5dRbZhRbphSbZlVcZlWcZpYcp1Yc53HKUvIK0zZbIPdfJHqrbryztYvSyowAAAAV0lEQVQI123MRw6AMAwF0U/oHQOhJPRw/zMiNshIftJsB6VSTa1UdTAo7LJudskdg0APbasH/2LgEaUZEU4GyWzGaTbxzaCLwv5tZ3ALfq/veQngBDgED8O5GZgincZuAAAAAElFTkSuQmCC" title="United States of America"></a> | <a href="/localinfo/US/" class="join" title="Change Localization">Change</a></span>
 
 
 
@@ -1243,14 +639,9 @@ function ajaxSearchNotification(pageId) {
 </td>
                     </tr>
                     <tr>
-                      <td height="60" align="right"><script src="http://www.google.com/jsapi?key=ABQIAAAA-uMM45LecqI1RKEYqhD6rRR9GqZ799RhBaJ5q8xu7pLxmi33JhQ3wQnaluZ-MY7jPBbTRC3TANbUbg" type="text/javascript"></script>
-<script src="http://www.weblo.com/javascript/google_ajaxsearch.js" type="text/javascript"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-	var webloAjaxSearch = new WebloGoogleAjaxSearch('googleAjaxSearchContainer', 'googleAjaxSearchResults');
-	webloAjaxSearch.delayDraw("");
-/* ]]> */
-</script>
+                      <td height="60" align="right"><script src="//www.google.com/jsapi?key=ABQIAAAA-uMM45LecqI1RKEYqhD6rRR9GqZ799RhBaJ5q8xu7pLxmi33JhQ3wQnaluZ-MY7jPBbTRC3TANbUbg" type="text/javascript"></script>
+<script src="/javascript/google_ajaxsearch.js.pagespeed.ce.c5d_FxPPLv.js" type="text/javascript"></script>
+<script type="text/javascript">var webloAjaxSearch=new WebloGoogleAjaxSearch('googleAjaxSearchContainer','googleAjaxSearchResults');webloAjaxSearch.delayDraw("");</script>
 <div id="googleAjaxSearchContainer"></div>
 <div id="googleAjaxSearchResContainer" class="select-free">
 	<div id="googleAjaxSearchShadow">
@@ -1266,27 +657,27 @@ function ajaxSearchNotification(pageId) {
                     <tbody><tr>
                       <td><table align="left" border="0" cellpadding="0" style="border-collapse: collapse" id="table7">
                           <tbody><tr>
-                            <td align="center"><a class="mainlink" title="Weblo Local" href="http://www.weblo.com/local/">Weblo Local</a></td>
-                            <td align="center"><img border="0" src="http://www.weblo.com/images/home/seperator.gif"></td>
-                            <td align="center"><a class="mainlink" title="Weblo Entertainment" href="http://www.weblo.com/entertainment/">Weblo Entertainment</a></td>
-                            <td align="center"><img border="0" src="http://www.weblo.com/images/home/seperator.gif"></td>
-                            <td align="center"><a class="mainlink" title="Communities" href="http://www.weblo.com/communities/">Communities</a></td>
-                            <td align="center"><img border="0" src="http://www.weblo.com/images/home/seperator.gif"></td>
-                            <td align="center"><a class="mainlink" title="Events" href="http://www.weblo.com/events/">Events</a></td>
-                            <td align="center"><img border="0" src="http://www.weblo.com/images/home/seperator.gif"></td>
+                            <td align="center"><a class="mainlink" title="Weblo Local" href="/local/">Weblo Local</a></td>
+                            <td align="center"><img border="0" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAZCAAAAADV+xujAAAAO0lEQVQI12OwY3BkcGHwZPBlCGIIZ4hlSGbIZChgKGOoZWhm6GKYwDCdYS7DYoaVDOsYNjNsZ9jDsB8A9zgMP3uC/lYAAAAASUVORK5CYII="></td>
+                            <td align="center"><a class="mainlink" title="Weblo Entertainment" href="/entertainment/">Weblo Entertainment</a></td>
+                            <td align="center"><img border="0" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAZCAAAAADV+xujAAAAO0lEQVQI12OwY3BkcGHwZPBlCGIIZ4hlSGbIZChgKGOoZWhm6GKYwDCdYS7DYoaVDOsYNjNsZ9jDsB8A9zgMP3uC/lYAAAAASUVORK5CYII="></td>
+                            <td align="center"><a class="mainlink" title="Communities" href="/communities/">Communities</a></td>
+                            <td align="center"><img border="0" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAZCAAAAADV+xujAAAAO0lEQVQI12OwY3BkcGHwZPBlCGIIZ4hlSGbIZChgKGOoZWhm6GKYwDCdYS7DYoaVDOsYNjNsZ9jDsB8A9zgMP3uC/lYAAAAASUVORK5CYII="></td>
+                            <td align="center"><a class="mainlink" title="Events" href="/events/">Events</a></td>
+                            <td align="center"><img border="0" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAZCAAAAADV+xujAAAAO0lEQVQI12OwY3BkcGHwZPBlCGIIZ4hlSGbIZChgKGOoZWhm6GKYwDCdYS7DYoaVDOsYNjNsZ9jDsB8A9zgMP3uC/lYAAAAASUVORK5CYII="></td>
                             <!--td align="center"><a class="mainlink" title="Venues" href="http://www.weblo.com/venues/">Venues</a></td>
                             <td align="center"><img border="0" src="http://www.weblo.com/images/home/seperator.gif" /></td-->
-                            <td align="center"><a class="mainlink" title="Ideas" href="http://www.weblo.com/ideas/">Ideas</a></td>
+                            <td align="center"><a class="mainlink" title="Ideas" href="/ideas/">Ideas</a></td>
                             <!--<td align="center"><img border="0" src="http://www.weblo.com/images/home/seperator.gif" /></td>-->
-														<td align="center"><a title="Questions and Answers" href="http://www.weblo.com/qa/"><img src="http://www.weblo.com/images/Qa2.gif" alt="Questions and Answers"></a></td> 
+														<td align="center"><a title="Questions and Answers" href="/qa/"><img src="/images/Qa2.gif.pagespeed.ce.evJaySKNsb.gif" alt="Questions and Answers" width="58" height="25"></a></td> 
 														<!--<td align="center"><a class="mainlink" title="Advertise" href="http://www.weblo.com/adnetwork/">Advertise</a></td>-->
-														<td align="center"><img border="0" src="http://www.weblo.com/images/home/seperator.gif"></td>
-														<td align="center"><a class="mainlink" title="Marketplace" href="http://www.weblo.com/auction/">Marketplace</a></td>
+														<td align="center"><img border="0" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAZCAAAAADV+xujAAAAO0lEQVQI12OwY3BkcGHwZPBlCGIIZ4hlSGbIZChgKGOoZWhm6GKYwDCdYS7DYoaVDOsYNjNsZ9jDsB8A9zgMP3uC/lYAAAAASUVORK5CYII="></td>
+														<td align="center"><a class="mainlink" title="Marketplace" href="/auction/">Marketplace</a></td>
                         </tr></tbody></table>
                       </td><td>
                       </td><td><table align="right" style="border-collapse: collapse" border="0" cellspacing="0" cellpadding="0">
                           <tbody><tr>
-                            <td class="mainlink">                              <a class="mainlink" style="padding:0px 3px 0px 0px;" title="Sign In" href="http://www.weblo.com/signin/index.php?Action=SignIn.SignIn">Sign In</a> <span style="color:#FFFFFF;">|</span> <a class="join" style="padding:0px 0px 0px 3px; color:#FFB637; text-decoration:none;" title="Join Now" href="http://www.weblo.com/signup/index.php?Action=SignUp.go_to_weblo">Join
+                            <td class="mainlink">                              <a class="mainlink" style="padding:0px 3px 0px 0px;" title="Sign In" href="/signin/index.php?Action=SignIn.SignIn">Sign In</a> <span style="color:#FFFFFF;">|</span> <a class="join" style="padding:0px 0px 0px 3px; color:#FFB637; text-decoration:none;" title="Join Now" href="/signup/index.php?Action=SignUp.go_to_weblo">Join
                               
                               Now</a>
                               </td>
@@ -1296,7 +687,7 @@ function ajaxSearchNotification(pageId) {
                   </tbody></table></td>
               </tr>
             </tbody></table></td>
-          <td valign="top" width="4"><img border="0" src="http://www.weblo.com/images/home/headrightcurve.jpg"></td>
+          <td valign="top" width="4"><img border="0" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAZABkAAD/7AARRHVja3kAAQAEAAAAZAAA/+4ADkFkb2JlAGTAAAAAAf/bAIQAAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQICAgICAgICAgICAwMDAwMDAwMDAwEBAQEBAQECAQECAgIBAgIDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMD/8AAEQgAbgAIAwERAAIRAQMRAf/EAGoAAQACAwAAAAAAAAAAAAAAAAAHCAYJCgEBAAAAAAAAAAAAAAAAAAAAABAAAAMFBgUCBwAAAAAAAAAABAUHAAERAwYCEhO2N3chMTIzFEEIcbEiUmMWCREBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A6qq6K7Uiha0tOl9FJVJbfa5dsmGME2KlTfjpio07D7NB1hO4/jITKb8WCcFoJrMlHVYmQc/DTOvLcI/ZSxl84MGRLfosr219f5UNmAt+iyvbX1/lQ2YC36LK9tfX+VDZgLfosr219f5UNmAt+iyvbX1/lQ2YC36LK9tfX+VDZgLfosr219f5UNmDlWWP+ifvEDpcrJsOqFBR8j9AUcePLAdK+68v8yQNp5UBRgAAWhPvjNSopxbKjGcsI/wZ4cBglWFIuERJLABqlVdRXDEuUkHjOf5VA1iGhfjHHp0xlQh6xvMFAalUh4+nD8C+dFwwkNQj3Rdx8gDPkw5+t9gqfbee3LWNYc6VdtYv1CO3B9/qdDpjz4MH/9k="></td>
         </tr>
       </tbody></table></td>
   </tr>
@@ -1311,84 +702,46 @@ function ajaxSearchNotification(pageId) {
         </tr>
                 <tr>
                     <td id="contentLeftMenuCell" valign="top"><br>
-<style type="text/css">
-#navcontainer ul
-{
-margin-left:0px;
-padding-left:3px;
-list-style-type: none;
-text-align: left;
-}
-#navcontainer ul li ul li 
-{
-padding-left:12px;
-list-style-type: none;
-text-align: left;
-}
-#navcontainer ul li a
-{
-background: transparent left center no-repeat;
-padding-left: 12px;
-text-align: left;
-color:#006699;
-font-size:8pt;
-font-weight:bold;
-/*font: normal 11px "Lucida Grande", "Lucida Sans Unicode", verdana, lucida, sans-serif;
-text-decoration: none;
-color: #999;*/
-}
-
-#navcontainer ul li a:hover
-{
-background: transparent url(http://www.weblo.com/mediacenter/images/arrow.gif) left center no-repeat;
-
-}
-
-#navcontainer ul li a#current
-{
-background: transparent url(http://www.weblo.com/mediacenter/images/arrow.gif) left center no-repeat;
-
-}
-</style>
+<style type="text/css">#navcontainer ul{margin-left:0px;padding-left:3px;list-style-type:none;text-align:left}#navcontainer ul li ul li{padding-left:12px;list-style-type:none;text-align:left}#navcontainer ul li a{background:transparent left center no-repeat;padding-left:12px;text-align:left;color:#069;font-size:8pt;font-weight:bold}#navcontainer ul li a:hover{background:transparent url(/mediacenter/images/xarrow.gif.pagespeed.ic.QOX-vuTa3Z.png) left center no-repeat}#navcontainer ul li a#current{background:transparent url(/mediacenter/images/xarrow.gif.pagespeed.ic.QOX-vuTa3Z.png) left center no-repeat}</style>
 <table width="220" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td><table width="210" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
-        <td width="5"><img src="http://www.weblo.com/images/property/gray-top-left.gif" alt="graybtn" width="5" height="26"></td>
+        <td width="5"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAaCAMAAABIMWaZAAAANlBMVEVzc3NsbGw1NTVfX19tbW2oqKj+/v5GRkanp6dERERwcHA+Pj40NDR1dXV1c3T///8zMzN0dHRqtUyBAAAAO0lEQVQI17XIWRKAIBAD0QCuOJHk/pd1lDP487qqMbZ1rxjlbAuOKDau5rR2prKnfCWIYAa6v/+fUugBFWAHaR8TT48AAAAASUVORK5CYII=" alt="graybtn"></td>
         <td width="200" background="http://www.weblo.com/images/property/gray-top-bg-1.gif"><span class="mediamenuhedign">Discover Weblo.com</span></td>
-        <td width="5"><img src="http://www.weblo.com/images/property/gray-top-right.gif" alt="graybtn" width="5" height="26"></td>
+        <td width="5"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAaCAMAAABIMWaZAAAANlBMVEVzc3NsbGw1NTVfX19tbW2oqKj+/v5GRkanp6dERERwcHA+Pj40NDR1dXV1c3T///8zMzN0dHRqtUyBAAAAO0lEQVQI17XI2RGAMAwDUSUBwmERqf9msYvg583Oos/9WNjG1RbsFmfq8aS8e7UFsySYJoz6r35UIekDFewHaTDdAD8AAAAASUVORK5CYII=" alt="graybtn"></td>
       </tr>
       <tr>
         <td colspan="3" background="http://www.weblo.com/images/property/gray-main-bg.gif"><div id="navcontainer">
         <ul id="navlist" style="margin-top:5px; margin-bottom:5px;">
-              <li id="active"><a href="http://www.weblo.com/mediacenter/index.php?Action=mediacenter.home">Media Center</a>
+              <li id="active"><a href="/mediacenter/index.php?Action=mediacenter.home">Media Center</a>
               <ul id="navlist">
-                <li><a href="http://www.weblo.com/mediacenter/index.php?Action=mediacenter.Contact">Contact</a></li>
-                <li><a href="http://www.weblo.com/mediacenter/index.php?Action=mediacenter.NewsRelease">News Releases</a></li>
+                <li><a href="/mediacenter/index.php?Action=mediacenter.Contact">Contact</a></li>
+                <li><a href="/mediacenter/index.php?Action=mediacenter.NewsRelease">News Releases</a></li>
               </ul>
               </li>             
-              <li id="active"><a href="http://www.weblo.com/main/index.php?Action=Main.WhatIsWeblo">What is Weblo ?</a>
+              <li id="active"><a href="index.php?Action=Main.WhatIsWeblo">What is Weblo ?</a>
                   
                         <ul id="navlist">
-                          <li><a href="http://www.weblo.com/main/index.php?Action=Main.celebrity">Free Celebrities</a></li>
-                          <li><a href="http://www.weblo.com/main/index.php?Action=Main.moreWebloIdeas">Weblo Ideas</a></li>
-                          <li><a href="http://www.weblo.com/main/index.php?Action=Main.events">Weblo Events</a></li>
-						  <li><a href="http://www.weblo.com/main/index.php?Action=Main.Products">Weblo Products</a></li>
-                          <li><a href="http://www.weblo.com/main/index.php?Action=Main.venues">Weblo Venues</a></li>
-                          <li><a href="http://www.weblo.com/main/index.php?Action=Main.property">Weblo Local</a></li>
-                          <li><a href="http://www.weblo.com/main/index.php?Action=Main.domain">Virtual Domains</a></li>
-                          <li><a href="http://www.weblo.com/main/index.php?Action=Main.AuctionBuysell">Auction | Buy &amp; Sell</a></li>
-                          <li><a href="http://www.weblo.com/main/index.php?Action=Main.Communities">Communities</a></li>
+                          <li><a href="index.php?Action=Main.celebrity">Free Celebrities</a></li>
+                          <li><a href="index.php?Action=Main.moreWebloIdeas">Weblo Ideas</a></li>
+                          <li><a href="index.php?Action=Main.events">Weblo Events</a></li>
+						  <li><a href="index.php?Action=Main.Products">Weblo Products</a></li>
+                          <li><a href="index.php?Action=Main.venues">Weblo Venues</a></li>
+                          <li><a href="index.php?Action=Main.property">Weblo Local</a></li>
+                          <li><a href="index.php?Action=Main.domain">Virtual Domains</a></li>
+                          <li><a href="index.php?Action=Main.AuctionBuysell">Auction | Buy &amp; Sell</a></li>
+                          <li><a href="index.php?Action=Main.Communities">Communities</a></li>
                            <!--<li><a href="http://www.weblo.com/main/index.php?Action=Main.InternetWorth"  >Calculate Your InterNET Worth</a></li>
                     <li><a href="http://www.weblo.com/main/index.php?Action=Main.AdNetwork"  >Ad Network</a></li>         -->                                                                
-                    <li><a href="http://www.weblo.com/main/index.php?Action=Main.MemeberOptions">Membership Options</a></li>
-                    <li><a href="http://www.weblo.com/main/index.php?Action=Main.MoneyWithWeblo">Making Money With Weblo</a></li>
-                    <li><a href="http://www.weblo.com/main/index.php?Action=Main.MoneyTips">Money Making Tips</a></li>
+                    <li><a href="index.php?Action=Main.MemeberOptions">Membership Options</a></li>
+                    <li><a href="index.php?Action=Main.MoneyWithWeblo">Making Money With Weblo</a></li>
+                    <li><a href="index.php?Action=Main.MoneyTips">Money Making Tips</a></li>
                   </ul>
               </li>
-              <li id="active"><a href="http://www.weblo.com/main/index.php?Action=Main.terms_conditions">Terms of Services</a></li>
-              <li id="active"><a href="http://www.weblo.com/main/index.php?Action=Main.privacy_policy" id="current">Privacy Policy</a></li>
-              <li id="active"><a href="http://www.weblo.com/main/index.php?Action=Main.ContactUs">Contact Us</a></li>
+              <li id="active"><a href="index.php?Action=Main.terms_conditions">Terms of Services</a></li>
+              <li id="active"><a href="index.php?Action=Main.privacy_policy" id="current">Privacy Policy</a></li>
+              <li id="active"><a href="index.php?Action=Main.ContactUs">Contact Us</a></li>
             </ul>            
         </div></td>
       </tr>
@@ -1399,39 +752,24 @@ background: transparent url(http://www.weblo.com/mediacenter/images/arrow.gif) l
   </tr>
 </tbody></table>
 	<div style="text-align:center; padding-top:10px;">
-	<script type="text/javascript"><!--
-ch_client = "WebloWorld";
-ch_type = "mpu";
-ch_width = 160;
-ch_height = 600;
-ch_color_title = "C10049";
-ch_color_site_link = "C10049";
-ch_non_contextual = 4;
-ch_vertical = "premium";
-ch_sid = "realestate_160_600";
-ch_noborders=1;
-ch_backfill = 1;
-ch_alternate_ad_url = "http://www.weblo.com/celebrity/ad160x600.html";
-//--></script>
-<script src="http://scripts.chitika.net/eminimalls/amm.js" type="text/javascript"></script>
+	<script type="text/javascript">ch_client="WebloWorld";ch_type="mpu";ch_width=160;ch_height=600;ch_color_title="C10049";ch_color_site_link="C10049";ch_non_contextual=4;ch_vertical="premium";ch_sid="realestate_160_600";ch_noborders=1;ch_backfill=1;ch_alternate_ad_url="http://www.weblo.com/celebrity/ad160x600.html";</script>
+<script src="//scripts.chitika.net/eminimalls/amm.js" type="text/javascript"></script>
 	</div>
 </td>
-                    <td id="contentCell" valign="top"><link rel="stylesheet" href="../css/home.css">
-<style>
-	ul{padding:0 0 0 20px; margin:0 0 0 0;}
-</style><br>
+                    <td id="contentCell" valign="top"><link rel="stylesheet" href="/css/home.css.pagespeed.cf.n0jJ8kblCP.css">
+<style>ul{padding:0 0 0 20px;margin:0 0 0 0}</style><br>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td width="8" height="10" align="right"><img src="http://www.weblo.com/images/property/left-top-corner.gif" alt="IMG" width="8" height="10"></td>
+    <td width="8" height="10" align="right"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAKCAAAAACsrEBcAAAASUlEQVQI1y2LMQ6AMAwD/f+vxRVCMBSxdmBjyIZQTEp7i0+yDUlxnSsR8o0J5MZ6P4J2tsgejUdPodJznrLw7UehmH5gZQo55APtoUpxSvRK1QAAAABJRU5ErkJggg==" alt="IMG"></td>
     <td width="717" height="10" valign="top" background="http://www.weblo.com/images/property/top-line.gif"></td>
-    <td width="12" height="10" align="left"><img src="http://www.weblo.com/images/property/right-top-corner.gif" alt="IMG" width="8" height="10"></td>
+    <td width="12" height="10" align="left"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAKCAAAAACsrEBcAAAARElEQVQI12XIMQqAMBAF0b3/1TIKgkIQyxRWFsYuYb+LKZ3qMcZynIqMNLFVl6ldOzxucqmwxok8Uz7oJg/0NA8I/ngB+cdKdvKaovgAAAAASUVORK5CYII=" alt="IMG"></td>
   </tr>
   <tr>
     <td width="8" height="352" align="right" background="http://www.weblo.com/images/property/left-line.gif" style="background-position:right;"></td>
     <td valign="top"><table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
       <tbody><tr>
         <td height="36" style="border-bottom:2px dotted #CCCCCC;"><span class="mediaheading">Privacy Policy</span></td>
-        <td align="right" style="border-bottom:2px dotted #CCCCCC;"><a href="http://www.weblo.com/rss/mediacenter/mediacenternews/"></a></td>
+        <td align="right" style="border-bottom:2px dotted #CCCCCC;"><a href="/rss/mediacenter/mediacenternews/"></a></td>
       </tr>
       <tr>
         <td height="235" colspan="2" valign="top">
@@ -1561,9 +899,9 @@ By email: <a href="mailto:privacy@weblo.com">privacy@weblo.com</a><br>
     <td width="12" background="http://www.weblo.com/images/property/right-line.gif">&nbsp;</td>
   </tr>
   <tr>
-    <td width="8" height="10" align="right"><img src="http://www.weblo.com/images/property/left-bottom-corner.gif" alt="IMG" width="8" height="10"></td>
+    <td width="8" height="10" align="right"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAKCAAAAACsrEBcAAAASklEQVQI1yXMsQqAQAwD0P7/rzXV5ZaC4w1ugjqJJPa8LnmEUAMoibLACMm8MM4WvBOJa6J7UqwxG/rf6HTk8RR0NyBg9YP7tsYHNLBKcFM27iIAAAAASUVORK5CYII=" alt="IMG"></td>
     <td height="10" background="http://www.weblo.com/images/property/bottom-line.gif"></td>
-    <td height="10" align="left" valign="top"><img src="http://www.weblo.com/images/property/right-bottom-corner.gif" alt="IMG" width="8" height="10"></td>
+    <td height="10" align="left" valign="top"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAKCAAAAACsrEBcAAAAR0lEQVQI10XLQQqAMBBD0dz/apMWBIWi2wpdCdKlMHFoBf/qQQgUuYzQiB/8R564WQa88ERcVLkJeq6d7AIt2dolpOVoseoFP7hKdX6ILVAAAAAASUVORK5CYII=" alt="IMG"></td>
   </tr>
 </tbody></table>
 </td>
@@ -1576,7 +914,7 @@ By email: <a href="mailto:privacy@weblo.com">privacy@weblo.com</a><br>
   <tr>
     <td align="left" id="allpages"><!--Footer-->
       
-      <link href="http://www.weblo.com/css/home/footer.css" rel="stylesheet" type="text/css">
+      <style>@charset "utf-8";#footer-cont{border-top:1px solid #efefef;padding:10px 0px;background-color:#f5f5f5}.borbot{border-bottom:1px solid #efefef;padding:5px}#footer{width:960px;margin:0px auto;border-top:1px solid #efefef;padding:10px 0px;background-color:#f5f5f5}#footer h4{font-size:14px;padding:0px 0px 10px 0px;margin:0px;color:#515151}#footer ul{list-style-type:none;line-height:17px;margin:0px;padding:0px}#footer ul li a{color:#fff;font-size:12px}#footer .ist ul li a{color:#515151;font-size:11px}#footer ul li a:hover{text-decoration:underline}.footer-links{padding:5px 10px 0 20px}#allpages .footer-links ul{padding:0px;margin:0px}#footer .socails ul{line-height:25px}.socails ul li a{background:url(http://www.weblo.com/images/home_new/xsocialbtns.gif.pagespeed.ic.M5DKokT4Fu.png) no-repeat;padding:0px 0px 4px 22px}.socails ul li.facebook a{background-position:0px -26px}.socails ul li.rsssub a{background-position:0px -48px}.copyright{width:982px;margin:0px auto;text-align:center;color:#515151;padding:10px}#footer-cont .copyright a{color:#515151;text-decoration:underline}#footer-cont .copyright a:hover{text-decoration:none}.footer-bold{color:#fff;font-weight:bold;font-size:12px}.footer-link-panel{background-color:#3a3a3a;padding:10px 10px 10px 20px}.footer-link-panel ul li{display:inline;color:#fff}.footer-link-panel ul li a{color:#fff;text-decoration:none;font-size:12px}.footer-bottom-labels{padding-right:10px;float:left;line-height:17px}.footer-awesome-members{float:left;width:502px;padding:0px 10px}.footer-awesome-members ul li{float:left;display:block;padding:3px;margin:0px 5px 5px 0px;border:1px solid #ccc}.footer-awesome-members ul li a{width:49px;height:37px;text-align:center;display:block;overflow:hidden}.gray{font-size:18px;font-weight:bold;color:#515151}.lgray{color:#9a9a9a;font-weight:normal}.clr-div{clear:both}.ist{padding:0px 0px 10px 0px}</style>
 
 <div id="footer">
 <div class="ist">
@@ -1588,113 +926,113 @@ By email: <a href="mailto:privacy@weblo.com">privacy@weblo.com</a><br>
     			
             
             <li>
-     	       <a title="maafee" href="http://www.weblo.com/member/maafee"> 
-        		    <img alt="maafee" src="http://www.weblo.com/asset_images/medium/maafee_4c288148e5127.jpg">
+     	       <a title="hamptonbeach" href="/member/hamptonbeach"> 
+        		    <img alt="hamptonbeach" src="data:image/jpeg;base64,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">
            	   </a>
             </li>
           	
             
             <li>
-     	       <a title="hamptonbeach" href="http://www.weblo.com/member/hamptonbeach"> 
-        		    <img alt="hamptonbeach" src="http://www.weblo.com/asset_images/medium/WASHINGTON_D.C.WASHINGTO_491496c218e57.jpg">
+     	       <a title="Emery" href="/member/Emery"> 
+        		    <img alt="Emery" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAlADEDASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAAUDBgcEAv/EADEQAAIBBAAEBAQFBQEAAAAAAAECAwAEBREGEyExEiJRkQcUQWEyUpKi0RVTVGKhwf/EABcBAQEBAQAAAAAAAAAAAAAAAAMAAQL/xAAgEQADAAICAQUAAAAAAAAAAAAAARECEiFRQRMUIjJS/9oADAMBAAIRAxEAPwC9QWLR5CS6N1M6OoCwNrwIemyOm9nXrWYcMWskHxlvoSnljlu37dgeoP7h71pGZz1lw5hpMlfFzGpCokY20jHsAKR8J5/h/iLM3OStbWa0y00IV0n7vGD+JddD2G/r5R6VzxYXMpbbxuXYXD/lic/tNYdlMjPjpsb8vvmy2LQgjuOZ0J9t1tWak5eDyDfltpD+01h+cIGexsZ35LVO3r4TWZL5Q6X1GOB+IkWJ4NxGFGMmnbGX63TFJd80q7N4da8o2R169qc8U/EW34/x9vi5MfLaul40vLDeLcQjPhYnQ03iJ2PtWeR2b2fOkSQeIv0VlB8oPce9e8ffo19zWYDlxsNnp1NTaJWk3Kw/+/62/iilvy8npRXME3fZdr3iWfP3uPtclBCkNqxZWRSVba+HzbOqlnzQwufsskkavPHG0Zi/Cuj23r7GoII0SSLyKYgw2mu+vpXRkUtrm5bkWyJbr0RCo9z96JW0V5LVpIfzfEGxzeMydilpPBObWQguylTodR0rPOLrprTiOB41DMkCAgn7V3PYHHNe3UZ3GbWToTsqx10+/wBarGSvJ8rkTdygI5AXp0A0NUibb5BaSXA2SYsugB1XuR2317+lK7K3Zck4A8Khyx39RXacgnOujGfIIQkZI760P/DXNYlbq9laUyJEsZIZPxKwBIP/ACsyVUMxerrGHyFt/bT9R/milH9Tu/Uewoo/b5fpiesui+rpSPKPWjW3AGgTRRSBeQkQgKPFtDsFSO9UJ4ljkdR2BIHvRRUhCMr0NTWDtFOjKTsuAaKKn4JDbVt/hQexooorazrTHo//2Q==">
            	   </a>
             </li>
           	
             
             <li>
-     	       <a title="rednog" href="http://www.weblo.com/member/rednog"> 
-        		    <img alt="rednog" src="http://www.weblo.com/asset_images/medium/default.jpg">
+     	       <a title="Steinomite" href="/member/Steinomite"> 
+        		    <img alt="Steinomite" src="/asset_images/medium/Steinomite_45f6145b9403b.gif.pagespeed.ce.g-EgjGJopn.gif" width="49" height="53">
            	   </a>
             </li>
           	
             
             <li>
-     	       <a title="Matylda" href="http://www.weblo.com/member/Matylda"> 
-        		    <img alt="Matylda" src="http://www.weblo.com/asset_images/medium/default.jpg">
+     	       <a title="baseballpops" href="/member/baseballpops"> 
+        		    <img alt="baseballpops" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5Ojf/2wBDAQoKCg0MDRoPDxo3JR8lNzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzf/wAARCAA2ACkDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAQFBgcDAgH/xAAwEAACAQMCBQIEBQUAAAAAAAABAgMABBEFEgYTITFBIlEyYYGRBxRSU7EVI0Jicf/EABgBAAMBAQAAAAAAAAAAAAAAAAACAwEE/8QAHBEBAQEBAQADAQAAAAAAAAAAAAECESEDEjFB/9oADAMBAAIRAxEAPwDNrm2RUzkDOfOaWaMxx4wAcZGKYvHO9l6Om7KsvT6VzVeagzndnufHWuhIpyREm+Y+ljtyO2T7+1d8JHfJblcIQMtiktSm5riOIHlKcBsfGR5rvazCaBGY/wByNdhAHcDsaXpuGWso2iZiNwPwsPlSPItv1V1a8VImi7HJKkjB6/Kkt7/6/YVnYFocRLGTLDtJHp85z5pa7gWKw3pvBdgmWXA6/wA1O3enjaqIys4PcL5qwTaDBFwvftelxarbqymNdzMzNgN8iGx7VXRY+WH4faVqfC2kSF3iu7ss/wCbWTKn0lirIexG0gdfBrMJrdLVJnhYHZJy8g/ECCQcfSr1ptjd2egFrx7iISDdFu+Fx23AHpjvWd6k5F3MsbkoHwD746A1O5+qkvS0zF5Azd6f5sP6RUeCHGDnf4PvRiT9tvtSBqcDtGrlgvqySWHb3qycKccWUKX9tKsVwlrGHZQuQ6nuPY4YgfWs3431cLOdOsZXRI8i529AzHHpz5Aqt6cZ35lvBv2yqBJtH+AOT/FNu9ZmT+tz4ov4dYul/PWQgNuE3LzQFkQsA8ZI6dsEEde9YzxZpX9H164tkfmwluZE+3blCenTJxjt9Kmra64h1C1V54UuAm1EacqhweyjGD96gOIL6a8khW5h5csClD6t2Rn3+VTut3Xv4rM/HMeX1EsMHB7175sn7j/euZNFb0iw6xaC616Ultodhu/75qde3i0rRZbmBF3LESMDGSegJ96KKpZ4RS4r+8hBEV1MoOM4c0uST3ooqZ3nFFFFAf/Z">
            	   </a>
             </li>
           	
             
             <li>
-     	       <a title="apgel17" href="http://www.weblo.com/member/apgel17"> 
-        		    <img alt="apgel17" src="http://www.weblo.com/asset_images/medium/apgel17_4d74b8b88f0e3.jpg">
+     	       <a title="sparktrician" href="/member/sparktrician"> 
+        		    <img alt="sparktrician" src="/asset_images/medium/xsparktrician_476ba68752d9a.gif.pagespeed.ic.LXu5exucze.png" width="49" height="51">
            	   </a>
             </li>
           	
             
             <li>
-     	       <a title="Farooqi007" href="http://www.weblo.com/member/Farooqi007"> 
-        		    <img alt="Farooqi007" src="http://www.weblo.com/asset_images/medium/Farooqi007_4cbc09b48c791.jpg">
+     	       <a title="frozzen" href="/member/frozzen"> 
+        		    <img alt="frozzen" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAZABkAAD/7AARRHVja3kAAQAEAAAAPAAA/+4AJkFkb2JlAGTAAAAAAQMAFQQDBgoNAAACBQAAAkQAAALOAAADaP/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoKDBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8IAEQgAMgAyAwERAAIRAQMRAf/EAKQAAQADAQEBAAAAAAAAAAAAAAADBAUCAQcBAQEAAAAAAAAAAAAAAAAAAAABEAACAQIFBQAAAAAAAAAAAAABAgARAxAgUBITMEAhMTIRAAIBAwMFAQAAAAAAAAAAAAABMSARIUFxAjBAUWGR4RIBAAAAAAAAAAAAAAAAAAAAUBMBAAEDAgUEAwEAAAAAAAAAAREAITEgQRAwQFGhUHGBkWHB0eH/2gAMAwEAAhEDEQAAAfpQAAAOCCu49JgCpWbUMXjVgCvWeZZtGlAERVqWJiQAAAAAAAH/2gAIAQEAAQUC6BakW+GPJBdUnF927zBxhxkb6f2tt6quR1rOG5BYgRR2P//aAAgBAgABBQLUf//aAAgBAwABBQLUf//aAAgBAgIGPwJH/9oACAEDAgY/Akf/2gAIAQEBBj8C6LSUH6i2tDaMySny8CxqqHsXFxtGpxW1GJM2J+Hvsf/aAAgBAQMBPyHkAoy5pas5Tao9igpgsb+TQd0gWpCxcsXm9TYYmE+NqhgDQeC/dBh+CT702EvsMtQe4NGWoNqGy+1RZ+qP7T8hPc36H//aAAgBAgMBPyHkx0s9H//aAAgBAwMBPyH1H//aAAwDAQACEQMRAAAQAAAAQyAGywAiUAGSAAAAAAAAH//aAAgBAQMBPxDkRCMcg2PmiQSnCiYstqbmUyf7UpWZAkC9pHRPUuSY2bjR8XFXFe9WywtLCZRQJp4ZUEIsIBTniLe60fSjmsWLZCT8TTzvaAuMytXBdJneEXQsIkQuEdmoqEG8nwFe48geTQwwMOr4nHQ//9oACAECAwE/EOQFNIqNBS8HQcJpdA8C9F//2gAIAQMDAT8Q9R//2Q==">
            	   </a>
             </li>
           	
             
             <li>
-     	       <a title="sadakhan" href="http://www.weblo.com/member/sadakhan"> 
-        		    <img alt="sadakhan" src="http://www.weblo.com/asset_images/medium/SadaKhan_4cbe9a2ba41d9.jpg">
+     	       <a title="SnakeDoctor" href="/member/SnakeDoctor"> 
+        		    <img alt="SnakeDoctor" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAAxADEDASIAAhEBAxEB/8QAGwABAAEFAQAAAAAAAAAAAAAAAAcBBAUGCAP/xAAvEAABBAIABgECBAcBAAAAAAABAgMEBQARBgcSITFBUSJhExQjoQgyNEJigbHw/8QAGQEBAAMBAQAAAAAAAAAAAAAAAAQFBgMC/8QAKxEAAQMCBAUCBwAAAAAAAAAAAQACEQMEBRIhMRMyQVFhQoEUQ3KRweHw/9oADAMBAAIRAxEAPwDqXLSxsIsEN/mHQhTq0ttjRPUo9gOw9/J7Z5XltGp4gkykuKQSQAhOydAn/gyC+aPNmfXTok+CyiLVPSGmZCpLRWpvWz1DXYA+CD+/jI+MXValQLbbV+nggdSJBE+xXq2ote6X7KQ+bFzbMcMuSKKyeiPxUKlvx46P15TCAC4ltwghtQCt70Sda+c1b+HnjK6voLtlbX6pdXL6hXMTiky1FtSUuOJUNdTQKgnZHnv29xi/zr4tjVrl5Jh1zqX4QCo6EENBzuCUdz/iPv8AGefKzm/Jq6ath3nCKFxq+IsF+Gz9RCVKHQN/SCSnwCNk5km4jjjbRziMzh6gW76zpAETA77we1m+zoNq8M6Htr/Tuurq60gz3Xmokpl1xhXS6hCwVIOgdKHo6IOj6IPvL7Ocajm3+W40RJYpWk1rr2lBCtPLSsJSCrWwSn99ZPdPdRbN11phLiVtJClBQGtE685rMGvK1a3aLrR/mJP2Eeyrbqg1jzw9QsnjGMuVEVncQhYVzsUq6CsbQrW+lQ7g5Fi6Rht2WxYwW3ZDilB5EhAX9J8Dp7gp14+cl/Mdb0tdaELlMfqpGkvNq6HEj46h6+xyFeWnH1aYK70a3D0Oy5N5ocv18NVMt2rQ6qssUl6LGTtaYqhsqHykdtj1o69ZIHLnherv+X8uAtbzIU65MWGFlAXpxY0o/HsDx4yTuIqpuoq5TUezbhQJEZxpxcheywlSSFK2f50d9lJ0d+D8WnLYV1nwfEpqd+Q9QQ2jH/NOpKFzQCero1rSdkgkd/Q+cwNy65dOHfP4gIOmWJzAk/SOXmO8dVbBzRFYckR5UFcH1U6l5lQ4L8J2SsLKUKQ2T1BST0LT/wC+c6f4WrnK+s0//UPK/EdHb6TrQTsedD995Sq4cqK18SI8YqeSNIceWVqQPhJPgZl831ta8M537qpq1swyjZMYxk1cExjGEWt8dVSLGG04l9hp9kLCPxzpBCk6JPwUnSgftr3mM5TO1aKVumqZyp0alYbhiT+H0pkL0CpafRHgdt+fuDmZ4tpTapiSG0peciLUox3D9D6FDRSd9t70Rvtsd/OWnLWmk03ClVCmMhh2NAZjFoa7KShIUTrt/aB/rMxXw+s7FmXHpBBjpyOGcnuJygdoJ6RPFVvw+Xr+9vytpxjGadQExjGETGMYRUOB4GMYRVxjGETGMYRf/9k=">
            	   </a>
             </li>
           	
             
             <li>
-     	       <a title="whiteshadow" href="http://www.weblo.com/member/whiteshadow"> 
-        		    <img alt="whiteshadow" src="http://www.weblo.com/asset_images/medium/whiteshadow_4aa1ca851f485.jpg">
+     	       <a title="ROBMAC ENTERPRISE" href="/member/ROBMAC%20ENTERPRISE"> 
+        		    <img alt="ROBMAC ENTERPRISE" src="/asset_images/medium/ROBMAC_ENTERPRISE_48e5156cdf2b3.png.pagespeed.ce.TMjbg-mz3f.png" width="41" height="54">
            	   </a>
             </li>
           	
             
             <li>
-     	       <a title="SnakeDoctor" href="http://www.weblo.com/member/SnakeDoctor"> 
-        		    <img alt="SnakeDoctor" src="http://www.weblo.com/asset_images/medium/SnakeDoctor_48e945b867801.jpg">
+     	       <a title="The Kid" href="/member/The%20Kid"> 
+        		    <img alt="The Kid" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAZABkAAD/7AARRHVja3kAAQAEAAAAPAAA/+4AJkFkb2JlAGTAAAAAAQMAFQQDBgoNAAACBQAAAkQAAALOAAADaP/bAIQABgQEBAUEBgUFBgkGBQYJCwgGBggLDAoKCwoKDBAMDAwMDAwQDA4PEA8ODBMTFBQTExwbGxscHx8fHx8fHx8fHwEHBwcNDA0YEBAYGhURFRofHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8fHx8f/8IAEQgAMgAyAwERAAIRAQMRAf/EAKQAAQADAQEBAAAAAAAAAAAAAAADBAUCAQcBAQEAAAAAAAAAAAAAAAAAAAABEAACAQIFBQAAAAAAAAAAAAABAgARAxAgUBITMEAhMTIRAAIBAwMFAQAAAAAAAAAAAAABMSARIUFxAjBAUWGR4RIBAAAAAAAAAAAAAAAAAAAAUBMBAAEDAgUEAwEAAAAAAAAAAREAITEgQRAwQFGhUHGBkWHB0eH/2gAMAwEAAhEDEQAAAfpQAAAOCCu49JgCpWbUMXjVgCvWeZZtGlAERVqWJiQAAAAAAAH/2gAIAQEAAQUC6BakW+GPJBdUnF927zBxhxkb6f2tt6quR1rOG5BYgRR2P//aAAgBAgABBQLUf//aAAgBAwABBQLUf//aAAgBAgIGPwJH/9oACAEDAgY/Akf/2gAIAQEBBj8C6LSUH6i2tDaMySny8CxqqHsXFxtGpxW1GJM2J+Hvsf/aAAgBAQMBPyHkAoy5pas5Tao9igpgsb+TQd0gWpCxcsXm9TYYmE+NqhgDQeC/dBh+CT702EvsMtQe4NGWoNqGy+1RZ+qP7T8hPc36H//aAAgBAgMBPyHkx0s9H//aAAgBAwMBPyH1H//aAAwDAQACEQMRAAAQAAAAQyAGywAiUAGSAAAAAAAAH//aAAgBAQMBPxDkRCMcg2PmiQSnCiYstqbmUyf7UpWZAkC9pHRPUuSY2bjR8XFXFe9WywtLCZRQJp4ZUEIsIBTniLe60fSjmsWLZCT8TTzvaAuMytXBdJneEXQsIkQuEdmoqEG8nwFe48geTQwwMOr4nHQ//9oACAECAwE/EOQFNIqNBS8HQcJpdA8C9F//2gAIAQMDAT8Q9R//2Q==">
            	   </a>
             </li>
           	
             
             <li>
-     	       <a title="dp2790" href="http://www.weblo.com/member/dp2790"> 
-        		    <img alt="dp2790" src="http://www.weblo.com/asset_images/medium/default.jpg">
+     	       <a title="subarusti4" href="/member/subarusti4"> 
+        		    <img alt="subarusti4" src="/asset_images/medium/46eed0c91051c.jpg">
            	   </a>
             </li>
           	
             
             <li>
-     	       <a title="npok" href="http://www.weblo.com/member/npok"> 
-        		    <img alt="npok" src="http://www.weblo.com/asset_images/medium/default.jpg">
+     	       <a title="rgreunke" href="/member/rgreunke"> 
+        		    <img alt="rgreunke" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJSkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gODAK/9sAQwAGBAUGBQQGBgUGBwcGCAoQCgoJCQoUDg8MEBcUGBgXFBYWGh0lHxobIxwWFiAsICMmJykqKRkfLTAtKDAlKCko/9sAQwEHBwcKCAoTCgoTKBoWGigoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgo/8AAEQgAEgAxAwEiAAIRAQMRAf/EABoAAAIDAQEAAAAAAAAAAAAAAAAFAwQGBwH/xAAwEAABAwMCAwUHBQAAAAAAAAACAQMRAAQFEiEGBzETFCJBYTJDUYGRobFScZLB4f/EABgBAQEBAQEAAAAAAAAAAAAAAAIDAQAE/8QAHREAAgICAwEAAAAAAAAAAAAAAAECESFBAxIxBP/aAAwDAQACEQMRAD8As8tcSWXJQevHe6tsrKCy0iNrqWPEqSvzmtkxwZgHckZnc3LlwQoCmWkQVBlY2RE8/nSHlHes4nh+8Zyqsibr6KAKqatCzE+ifaa6BaM4k2xugeDsiKB1vQMz5VD6JcikunmyUKzYhzHC2Mxlq284bQqZwhvSQtpE+HTvO207filnDOIwfEIX4MoQXFq4gm4HvUJJmC6fBal4+ydzcZxnHW4Nljnbfd8XYEF3+HqiVmeXl5mLDjB21uexKxIzeef1oKOLG8KvVJiJ/uqJNxu8mNmquOX+HR9t8XHxfaVVA0MdpSF2VI+3WsRzFxKYu0aS3vn22nAMSUgbLUsdJjbr/tdSuSsitX3zuEBoPbLWKxP7Lt1rnHNNxi94SdtsXcNPXBvISQSakSFmPxXcbfbLDswfZN+n1WirvYOfoL+NFejIbHDd7dC2qDcvog6USHF2SK8bcMrlsyMlNRUlJV3VdS7/AHWiipP0cS+hnpHxF7KefrUYOGrr0mSwu2/pRRRGJ3iLvjCysyqzPnKb1Pf3dz2c94elVKV1rRRVFoEhdqL4r9aKKKuYf//Z">
            	   </a>
             </li>
           	
             
             <li>
-     	       <a title="metsfan22" href="http://www.weblo.com/member/metsfan22"> 
-        		    <img alt="metsfan22" src="http://www.weblo.com/asset_images/medium/me_489f702016d93.jpg">
+     	       <a title="rdmatheny" href="/member/rdmatheny"> 
+        		    <img alt="rdmatheny" src="/asset_images/medium/46210b7709bcc.jpg">
            	   </a>
             </li>
           	
             
             <li>
-     	       <a title="case42" href="http://www.weblo.com/member/case42"> 
-        		    <img alt="case42" src="http://www.weblo.com/asset_images/medium/default.jpg">
+     	       <a title="metsfan22" href="/member/metsfan22"> 
+        		    <img alt="metsfan22" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAICAgICAQICAgIDAgIDAwYEAwMDAwcFBQQGCAcJCAgHCAgJCg0LCQoMCggICw8LDA0ODg8OCQsQERAOEQ0ODg7/2wBDAQIDAwMDAwcEBAcOCQgJDg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg4ODg7/wAARCAAlADEDASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD8Bp08q5ZA24Doa2rdbvybC7XYixxOUYuQSAzZz+ZFY3lTzXDLHE8zgZIRCT+ldXZeGfEmr+G7ebSNB1G/it2eG4khs3ZVYncFzjGdpzitVGUn7i1NYO0tTubC01rV/wBoqyuJLA3l3dX1zcS2sLeZyQ0jqPwzzX7zfB7xf4GtP2VN6KYzZ6ejyWDWoM8ivlUMYyQ4ZgwDA44PpX4K+CfG9zoPxetL2+j8q7GqIuyVCPL3b0ck8YwSOMV+8PgO20i2+LmrPGkl7HJaafYQHEhERi3NI6FIym1i/dvlxjIxiuHEwcou/W/5n6/wlyTVRxet1dWvbTR+itqfjh+0NE1n+178QbpNMgtLS4S0nWF5B8geKIhxt4JOevoT3r5g1GJ0sLSQurxyM+3B5+XAOa+r/wBoPxUni39sr40SaRbDUYGv006w+ygnclpIkZcY7Extz718sahC1lp0trqen3EGomQeQZH2rGvBb5cck06MJeyjzdEfBZrKmsXVUHdczt9+5gUUUVofOlzTbtbbV45pRuQAgjbnt6fWtS81BtRlgtgc2kbF1QqVy7AAkjJGflUZrnF+8MnA9a0rMqs0hUlgMFSRjpyK64t7dwhq0mdf4eXS7bx5o8+tWz3Gi/aFS9SEZcxbsMR7gA1+3Vx4q8DfAz9h0+JdL8W6n4zs9ftgvhTT4/Lme5upYWkij8/76wjbvbn7q468V+Hto4eeMHgqhP44/wATXUPq+p3/AIQ0jRr26km0zSHmfTYJHYra+Zy6IpOFVmO44GSe+OKJ0VU3eh9hl+N+pxnyxvKWz7f5ry7nMagktxeE3JFw+HZnPPmufnLfiSxrK1rTfI062voifKJEbDtnGQR6A812U0CDbOWxsKnkccjbUWtwpJ8PrsKvMZRxn2IH8ia0cFys8qrTUoSb3PLtwoo3H0H/AHyKK4zwbiEYNes/Dv4eHxmsIGsDTfOuzbnNp5uOAd3319elFFdNJJ1Daik56nIQFobkgMSQTk9M81rRTuXcnk4A+nNFFdCO+DZYuZ2aG1BHBuBnn2Na19Hu8F3yMxOYGP5DNFFV9mR0XbTPKPLWiiivNPEP/9k=">
            	   </a>
             </li>
           	
             
             <li>
-     	       <a title="Emery" href="http://www.weblo.com/member/Emery"> 
-        		    <img alt="Emery" src="http://www.weblo.com/asset_images/medium/Alaska_That_dog_of_his_4680a2a966ac9.jpg">
+     	       <a title="chaduk" href="/member/chaduk"> 
+        		    <img alt="chaduk" src="data:image/jpeg;base64,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">
            	   </a>
             </li>
           	
             
             <li>
-     	       <a title="furkan" href="http://www.weblo.com/member/furkan"> 
-        		    <img alt="furkan" src="http://www.weblo.com/asset_images/medium/furkan_4d78ac3fc250e.jpg">
+     	       <a title="WAREMAN" href="/member/WAREMAN"> 
+        		    <img alt="WAREMAN" src="data:image/jpeg;base64,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">
            	   </a>
             </li>
           	
             
             <li>
-     	       <a title="shakalery" href="http://www.weblo.com/member/shakalery"> 
-        		    <img alt="shakalery" src="http://www.weblo.com/asset_images/medium/shakalery_4cb993335a01c.gif">
+     	       <a title="Sexy Beast" href="/member/Sexy%20Beast"> 
+        		    <img alt="Sexy Beast" src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0aHBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAA2AB8DASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAABAUABgcBA//EACwQAAIBAwMCBQIHAAAAAAAAAAECAwAEEQUSITFBExQiI1FxgSRCUmFisdH/xAAZAQEBAAMBAAAAAAAAAAAAAAAEAwABBQL/xAAdEQACAgMBAQEAAAAAAAAAAAABAgARAzFBEiIj/9oADAMBAAIRAxEAPwB7a2/l7eGDGPDTkfyPJ/umGD4YRerkKPvQiMS25hyTmvZ5pIWEixl9qkrgdGxxmg1Gbhkl8kd4LRY2faoUKoycY5OKbw7xEjBXRioOzPIql6XdXMWrJcb3aUHa0n6jjnPwOwFX/RrJ5oeSSqgqpPxnIpOJSd6h8tLKBNqFpZs8U0ki3Xtske3G5WJzzjHQGrBdvZxaV5uJJlDDAVyDkms8luRb6kEuFlKeZJ3NyrLtAxjt+arxeapBf6ZthCPtK+lDnA57VJMdgsTLu1Mq1vsC0WRprtUON7N3Falpi+FZICFXjsMZqkaRp6aej30vuTIMpEOx/wBppd6yBcpHuxIq+4AeAfikqfICnshk/Qll5Mo1K2je9jYElwc47Cj45zBGAnp2jgjg5+tcuLfZceaA320p3o47Z6A/BFC3DgIQGyAMkmucxIadNKKDsa2Ot3TS4PROjZ4J/f6V6wTvLI7FizE9aXwRFbSNejbOfvzRtuNi+mkBmJtjBEKB5UVEqazc6NqE+mzxpMqOVO1uM9+3SjY7q1nv7T8EqoXy4DEgjHx0qVK0zGgJ6VB9N2GOvJHfNcyQPpUqVknP/9k=">
            	   </a>
             </li>
                     
@@ -1704,9 +1042,9 @@ By email: <a href="mailto:privacy@weblo.com">privacy@weblo.com</a><br>
   <div style="float:left"> <div class="footer-links socails" style="border:none;">
    
   		<ul>
-        <li><a target="_blank" href="http://twitter.com/weblodotcom" rel="nofollow" title="Follow Us on Twitter">Follow Us on Twitter</a></li>
-        <li class="facebook"><a target="_blank" href=" http://www.facebook.com/weblo" rel="nofollow" title="join Us on Facebook">Join Us on Facebook</a></li>
-        <li class="rsssub"><a target="_blank" href="http://www.weblo.com/rss/Property/topfeatured/" title="Subscribe via RSS">Subscribe via RSS</a></li>
+        <li><a target="_blank" href="//twitter.com/weblodotcom" rel="nofollow" title="Follow Us on Twitter">Follow Us on Twitter</a></li>
+        <li class="facebook"><a target="_blank" href="//www.facebook.com/weblo" rel="nofollow" title="join Us on Facebook">Join Us on Facebook</a></li>
+        <li class="rsssub"><a target="_blank" href="/rss/Property/topfeatured/" title="Subscribe via RSS">Subscribe via RSS</a></li>
       </ul>
     </div></div>
   <div class="clr-div"></div>
@@ -1718,10 +1056,10 @@ By email: <a href="mailto:privacy@weblo.com">privacy@weblo.com</a><br>
         <div class="footer-bottom-labels"><span class="footer-bold"> Weblo Local:</span></div>
         <div>
           <ul>
-            <li><a href="http://www.weblo.com/businesslisting/" title="Business Listing">Business Listing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
-            <li><a href="http://www.weblo.com/cities/" title="Cities">Cities</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
-            <li><a href="http://www.weblo.com/states/" title="States">States</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
-            <li><a href="http://www.weblo.com/affiliate/" title="Affiliate Program">Affiliate Program</a></li>
+            <li><a href="/businesslisting/" title="Business Listing">Business Listing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
+            <li><a href="/cities/" title="Cities">Cities</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
+            <li><a href="/states/" title="States">States</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
+            <li><a href="/affiliate/" title="Affiliate Program">Affiliate Program</a></li>
           </ul>
         </div>
         <div style="clear:both"></div>
@@ -1731,10 +1069,10 @@ By email: <a href="mailto:privacy@weblo.com">privacy@weblo.com</a><br>
         <div>
           <ul>
            <!-- <li><a href="http://www.weblo.com/digital/" title="Fun Zone">Fun Zone</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>-->
-            <li><a href="http://www.weblo.com/celebrity/" title="Celebrities">Celebrities</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
-            <li><a href="http://www.weblo.com/domain/" title="Domains">Domains</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
-            <li><a href="http://www.weblo.com/music/" title="Music">Music</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
-			<li><a href="http://www.weblo.com/qa/" title="Questions and Answers" style="color:#FF6C00; font-weight:bold">Questions and Answers</a><font color="#FFF">*</font></li>
+            <li><a href="/celebrity/" title="Celebrities">Celebrities</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
+            <li><a href="/domain/" title="Domains">Domains</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
+            <li><a href="/music/" title="Music">Music</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
+			<li><a href="/qa/" title="Questions and Answers" style="color:#FF6C00; font-weight:bold">Questions and Answers</a><font color="#FFF">*</font></li>
           </ul>
         </div>
         <div style="clear:both"></div>
@@ -1743,10 +1081,10 @@ By email: <a href="mailto:privacy@weblo.com">privacy@weblo.com</a><br>
         <div class="footer-bottom-labels"><span class="footer-bold"> Site Links :</span></div>
         <div>
           <ul>
-            <li><a href="http://www.weblo.com/communities/" title="Communities">Communities</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
-            <li><a href="http://www.weblo.com/products/" title="Products">Products</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
-            <li><a href="http://www.weblo.com/ideas/" title="Ideas">Ideas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
-            <li><a href="http://www.weblo.com/events/" title="Events">Events</a></li>
+            <li><a href="/communities/" title="Communities">Communities</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
+            <li><a href="/products/" title="Products">Products</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
+            <li><a href="/ideas/" title="Ideas">Ideas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
+            <li><a href="/events/" title="Events">Events</a></li>
             <!--li><a href="http://www.weblo.com/venues/" title="Venues">Venues</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li-->
             <!--<li><a href="http://www.weblo.com/adnetwork/" title="Ad Network">Ad Network</a></li>-->
           </ul>
@@ -1757,14 +1095,14 @@ By email: <a href="mailto:privacy@weblo.com">privacy@weblo.com</a><br>
         <div class="footer-bottom-labels"><span class="footer-bold"> All About Weblo :</span></div>
         <div>
           <ul>
-            <li><a href="http://support.weblo.com/support/users/main.php" title="Contact us">Contact us</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
-            <li><a href="http://www.weblo.com/main/index.php?Action=Main.terms_conditions" title="Term of Service">Term of Service</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
-            <li><a href="http://www.weblo.com/main/index.php?Action=Main.privacy_policy" title="Privacy Policy">Privacy Policy&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</a></li>
-            <li><a href="http://www.weblo.com/main/index.php?Action=Main.company_info" title="Company Info">Company Info</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
-            <li><a href="http://support.weblo.com/support/" title="Help">Help</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
-            <li><a href="http://www.weblo.com/main/index.php?Action=Main.home" title="Site Map">Site Map</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
+            <li><a href="index.php?Action=Main.ContactUs" title="Contact us">Contact us</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
+            <li><a href="index.php?Action=Main.terms_conditions" title="Term of Service">Term of Service</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
+            <li><a href="index.php?Action=Main.privacy_policy" title="Privacy Policy">Privacy Policy&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</a></li>
+            <li><a href="index.php?Action=Main.company_info" title="Company Info">Company Info</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
+            <li><a href="//support.weblo.com/support/" title="Help">Help</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
+            <li><a href="index.php?Action=Main.home" title="Site Map">Site Map</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
 <!--            <li><a href="http://www.weblo.com/main/index.php?Action=Main.advertise_with_us" title="Advertise">Advertise</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</li>
--->            <li><a href="http://www.weblo.com/mediacenter/" title="Media Center">Media Center</a></li>
+-->            <li><a href="/mediacenter/" title="Media Center">Media Center</a></li>
           </ul>
         </div>
         <div style="clear:both"></div>
@@ -1772,12 +1110,12 @@ By email: <a href="mailto:privacy@weblo.com">privacy@weblo.com</a><br>
     </div>
     <div style="text-align: right;">
       <!-- Start Alexa tag -->
-<script type="text/javascript" src="http://xslt.alexa.com/site_stats/js/t/a?url=www.weblo.com"></script>
+<script type="text/javascript" src="//xslt.alexa.com/site_stats/js/t/a?url=www.weblo.com"></script>
 <!-- End Alexa tag -->
 
 <!-- Start Quantcast tag -->
 <noscript>
-	<a href="http://www.quantcast.com/p-55gd7n3vj7fj6" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-55gd7n3vj7fj6.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
+	<a href="//www.quantcast.com/p-55gd7n3vj7fj6" target="_blank"><img src="//pixel.quantserve.com/pixel/p-55gd7n3vj7fj6.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
 <!-- End Quantcast tag -->
     </div>
@@ -1785,7 +1123,7 @@ By email: <a href="mailto:privacy@weblo.com">privacy@weblo.com</a><br>
   </div>
         <div>
     <div class="copyright">Copyright © 1994-
-      2011      weblo.com Inc. All rights reserved. <script type="text/javascript">/*<![CDATA[*/ setAsHomePage(); /*]]>*/</script>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#" class="FLink" onclick="bookmarksite('Weblo', 'http://www.weblo.com'); return false;" title="Add Weblo to My Favorites">Add Weblo to My Favorites</a></div>
+      2011      weblo.com Inc. All rights reserved. <script type="text/javascript">setAsHomePage();</script>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#" class="FLink" onclick="bookmarksite('Weblo', 'http://www.weblo.com'); return false;" title="Add Weblo to My Favorites">Add Weblo to My Favorites</a></div>
   </div>
      
        
@@ -1800,14 +1138,8 @@ By email: <a href="mailto:privacy@weblo.com">privacy@weblo.com</a><br>
   </tr>
 </tbody></table>
 <!-- Kontera ContentLink -->
-<script type="text/javascript">
-var dc_UnitID = 14;
-var dc_PublisherID = 58817;
-var dc_AdLinkColor = 'blue';
-var dc_isBoldActive = 'no';
-var dc_adprod='ADL';
-</script>
-<script type="text/javascript" src="http://kona.kontera.com/javascript/lib/KonaLibInline.js"></script>
+<script type="text/javascript">var dc_UnitID=14;var dc_PublisherID=58817;var dc_AdLinkColor='blue';var dc_isBoldActive='no';var dc_adprod='ADL';</script>
+<script type="text/javascript" src="//kona.kontera.com/javascript/lib/KonaLibInline.js"></script>
 <!-- Kontera ContentLink -->
 
 
