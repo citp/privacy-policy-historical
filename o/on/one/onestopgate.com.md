@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onestopgate.com privacy policy that was archived on 2011-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110207211708id_/http%3A//www.onestopgate.com/about/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestopgate.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125043952id_/http%3A//www.onestopgate.com/about/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,21 +30,5 @@ By e-mail: info [ at ] vyom.co.in
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
 
-| 
-
 |   
----  
-|   
----  
-  
-**A D V E R T I S E M E N T**  
-
-
-  
-  
-|   
----  
-|  **START YOUR WEBSITE**  
-  
----  
-[](http://www.quick2host.com/web-hosting/windows-hosting/ "India's Best Web Hosting Company")
+---|---
