@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bpp.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527144032id_/http%3A//www.bpp.com/footerlinks/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bpp.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125203030id_/http%3A//www.bpp.com/footerlinks/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last updated on: 14 September 2010
+Last updated on: 19 September 2011
 
 **Who are we and what is the purpose of this privacy policy?**
 
-This privacy policy explains how BPP Holdings plc and its subsidiary companies in the UK (together “BPP”; “we” or “us”) uses and protects any personal information which is collected from you when you use the following websites including any subdomains (collectively referred to in this privacy policy as the “Website”):
+This privacy policy explains how BPP Holdings Limited and its subsidiary companies in the UK (together “BPP”; “we” or “us”) uses and protects any personal information which is collected from you when you use the following websites including any subdomains (collectively referred to in this privacy policy as the “Website”):
 
   * bpp.com
   * bppfinancialservices.com
@@ -28,12 +28,13 @@ This privacy policy explains how BPP Holdings plc and its subsidiary companies i
   * mpw.co.uk
   * lawprobono.com
   * bpptopcima.com
+  * bppstudents.com
 
 
 
 Personal information is information which can identify you as a living individual, whether by itself or when used in conjunction with other information which we hold or are likely to hold.
 
-BPP Holdings plc and each of its subsidiary companies are registered at Companies House. The subsidiary companies to which your personal information collected through the Website may be directed (as relevant) are BPP University College of Professional Studies Limited (which includes BPP Law School and BPP Business School), BPP Professional Education Limited (including BPP International School of Finance) both of which deliver training and courses, Mander Portman Woodward Limited, BPP Actuarial Education Limited, Actuarial Education Company Limited and BPP Learning Media Ltd which produces learning materials. For details of its and their registration numbers and registered office addresses please go to the "Company Details" section below. If you wish to contact us please go to the "[Contact Us](https://web.archive.org/privacy-policy.aspx#contactus)" section below.
+BPP Holdings Limited and each of its subsidiary companies are registered at Companies House. The subsidiary companies to which your personal information collected through the Website may be directed (as relevant) are BPP University College of Professional Studies Limited (which includes BPP Law School and BPP Business School), BPP Professional Education Limited (including BPP International School of Finance) both of which deliver training and courses, Mander Portman Woodward Limited, BPP Actuarial Education Limited, Actuarial Education Company Limited and BPP Learning Media Ltd which produces learning materials. For details of its and their registration numbers and registered office addresses please go to the "Company Details" section below. If you wish to contact us please go to the "[Contact Us](https://web.archive.org/privacy-policy.aspx#contactus)" section below.
 
 This privacy policy is a part of and is incorporated into our [Website Terms of Use](https://web.archive.org/terms--conditions/website-terms-of-use.aspx).
 
@@ -141,7 +142,7 @@ When your personal information is collected through a page on the Website it is 
 
 The BPP company to whom your personal information is directed through the Website may transfer your personal information to other companies in the Apollo group of companies which includes:
 
-  * Other companies in the BPP group of companies (including BPP Holdings plc and its subsidiaries and affiliates); and
+  * Other companies in the BPP group of companies (including BPP Holdings Limited and its subsidiaries and affiliates); and
   * Apollo Group, Inc. and/or Apollo Global, Inc. (and subsidiaries and affiliates of each of them) which are companies based in the US
 
 
@@ -247,7 +248,7 @@ In particular, personal information collected through the Helpline for the purpo
 
 **Contact Us**
 
-If you would like any questions, concerns or comments or if you would like further information about this privacy policy and how we handle your personal information please email us at [terms@bpp.com](mailto:terms@bpp.com), telephone us on 0845 075 0011 or write to our Customer Services Director at BPP Holdings plc, Aldine House, Aldine Place, 142-144 Uxbridge Road, London, W12 8AW.
+If you have any questions, concerns or comments or if you would like further information about this privacy policy and how we handle your personal information please email us at [terms@bpp.com](mailto:terms@bpp.com), telephone us on 0845 075 1100 or write to our Customer Services Director at BPP Holdings Limited, Aldine House, Aldine Place, 142-144 Uxbridge Road, London, W12 8AW.
 
 [Back to list](https://web.archive.org/privacy-policy.aspx#backtoQs)
 
@@ -255,7 +256,7 @@ If you would like any questions, concerns or comments or if you would like furth
 
 Name of company | Company registration number | Registered office address  
 ---|---|---  
-BPP Holdings plc | 01245304 | 
+BPP Holdings Limited | 01245304 | 
 
 BPP House, Aldine Place,  
 142-144 Uxbridge Road  
