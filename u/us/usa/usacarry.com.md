@@ -1,67 +1,35 @@
-> *The following text is extracted and transformed from the usacarry.com privacy policy that was archived on 2010-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101028080013id_/http%3A//www.usacarry.com/info_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usacarry.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125165827id_/http%3A//www.usacarry.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Site Privacy Policy
+# USA Carry Privacy Policy
 
-|  Site Help Pages  
----  
-  
-  * [**About USA Carry**](http://www.usacarry.com/forums/view.php?pg=info_about_usacarry)
-  * [ **Explaining The Resources**](http://www.usacarry.com/forums/view.php?pg=info_explaining_the_resources)
-  * [ **Are you a New Member?**](http://www.usacarry.com/forums/view.php?pg=info_newmember)
-  * [ **Forum Rules and Etiquette**](http://www.usacarry.com/info_forumrules.html)
-  * [ **Site Privacy Policy**](http://www.usacarry.com/info_privacy.html)
-  * [ **Terms of Service and Legal Notices**](http://www.usacarry.com/info_tos.html)
-  * [ **USA Carry RSS Feeds**](http://www.usacarry.com/info_usacarry_rss_feed.html)
+We have created this Privacy Policy in order to demonstrate our firm commitment to privacy. This Privacy Policy explains our practices with respect to the collection, use, and disclosure of personal and non-personal information provided by visitors to our Web site. By using this site, you signify your assent to our privacy practices and the terms and conditions of our Web site. If this policy is not agreeable to you, please do not use this site.  
+****
 
+**What type information is collected?**  
+We only collect personal information from visitors to our Web site when they voluntarily provide it to us by completing our registration form or electing to use one of our services. We may require visitors to provide us with information including, but not limited to, their name, physical address, email address, birth date, username, password, and on occasion a unique identifier.
 
-* **[Contact Us](http://www.usacarry.com/forums/sendmessage.php)**  
-  
-|  | 
+When visitors access our Web site, certain non-personal information may be collected from them including, but not limited to, their browser type (e.g., Netscape or Internet Explorer), operating system (e.g., Windows or Macintosh), IP address, and the domain name from which they accessed the site (e.g., google.com). In addition, we may collect information about visitors’ browsing behavior, such as the date and time they visit the Web site, the areas or pages of our Web site that they visit, the amount of time spent viewing the site, the number of times the visitor returns to the site, and click-stream data. We use transparent tracking pixels to determine the number of Web site visitors that have been sent to us through our affiliate network. We do not track any information about visitors once they leave our site. We may use cookies (small text files that are stored on visitors computers when they access our Web site) to collect this information. Information collected through cookies may be combined with visitors’ personal information. We may also allow unaffiliated third parties, such as advertisers, to serve cookies to visitors of our Web site. Visitors are always free to decline cookies, but in doing so they may not be able to use certain features on our Web site. The “help” segment of the toolbar on most browsers explains how to configure a browser to not accept new cookies, how to have the browser inform a user when they receive a new cookie, and how to erase cookies from their hard drives.  
+****
 
-  * The information provided on **USA Carry** is presented as and is intended for educational purposes and general knowledge for consumers.
-  * The information provided on **USA Carry** is collected from visitors who may or may not have a bias unrelated to the owners of this website. It can also be false, inaccurate, wrong or doubtful. It reflects the author of it and is not necessarily be true.
-  * **USA Carry** does not sell, rent, loan, trade, or share any personal information collected at our site. This policy includes email addresses of the members.
-  * In accessing this web site and the Internet generally, you assume all responsibility and risk for use. Users are responsible for implementing sufficient procedures to protect themselves and their own computer systems.
-  * This website sends harmless internet cookies to your computer to keep track of your visits, collects site statistics and remember your member information to save you from relogining in.
-  * Most of the site content (including many posts in the forums, user profiles etc.) are open to page visitor including search engines. Members shouldn't share personal information in their profiles or posts which they don't want to publish in the internet. We have no control over search engine results when such information is submitted to the site by our members.
-  * **USA Carry** server may collect and log IP addresses, browser information, cookie information, user actions performed in our website to provide a better service and improve the value of the materials available on website. These web logs are not sold or shared with third parties.
-  * Yet we share aggregate demographic information with our business partners, including advertisers. This data is not linked to any personally identifiable information.
-  * **USA Carry** may share any information it has if an auhority (police force, Court etc.) requests it. Our site also reserves right to share such information to a complainer if any of our site visitors or members stalks or disturbes this user in an unacceptible manner and we confirm this with our records.
-  * **USA Carry** contains links to, and graphics from, third-party websites and/or content providers. This Policy does not extend to those parties, nor is **USA Carry** responsible for the content linked to or provided.
-  * Most of the information in this website is kept in a database which contains posts, registration info, survey/poll results, private messages, logged IPs etc. All this information contained within the database belongs to the administrator of USA Carry and it can be accesible by site administration whenever it is required. So even the private messages which are saved in the database are accessible by site administration if needed so members are warned and asked to not to share too private and personal information in the private messages which shouldn't read by anybody.
-  * This website keeps the email address of its members hidden, unless member reveals it himself with opt-in selections. Member email addresses can be accessible to third parties if member posts it inside a forum post or emails another member.
-  * **USA Carry** reserves its right to change this privacy policy anytime. Changes will always be reflected to this page.
-  * This web site is provided without warranties of any kind, expressed or implied, including but not limited to, those of title, merchantability, fitness for a particular purpose or non-infringement or any warranty arising from a course of dealing, usage, or trade practice.
-  * **USA Carry** will not be liable to you or anyone else for any decision made or action taken by you or anyone else in reliance upon the information provided.
-  * Use of this site means that you agree to hold harmless Luke McCoy, usacarry.com's internet host, and usacarry.com's administrators. Content, photography and all items depicted and described can be edited, excised or removed in part or totally to conform to the image of the site as deemed by its administrators. Submissions made to usacarry.com become the sole property of Luke McCoy. Any views expressed by users of usacarry.com do not reflect the views of Luke McCoy or usacarry's administrators. By using this site, you agree to indemnify Luke McCoy for your own statements and all information, photographs, opinions and content that you post on usacarry.com.
+**In what way do we use your personal and non-personal information?**  
+Our goal in collecting personal information is to provide visitors with the most personalized Web experience possible and our advertisers with an efficient means to reach the right audience. By knowing a little about our visitors, we are able to deliver more relevant content and advertisements, and provide better services. We may use information collected from visitors to our Web site for any of the following purposes: (1) to send visitors information and promotional materials about our company, (2) to send visitors information and promotional materials from our marketing partners and third parties (such as advertisers on our Web site), (3) to deliver targeted display advertisements and offers by email (by matching criteria provided by our advertisers with information collected from our visitors), (4) to contact visitors to our Web site when necessary, (5) to allow one-click purchases or access to proprietary content by pre-populating fields, within registration or other transaction screens, with a visitor’s name, billing address, and email (among other things), as provided by that visitor, (6) to help diagnose problems with our server, (7) to administer our Web site, (8) to conduct internal reviews of our site (e.g., to determine the number of visitors to the site), (9) to help us better understand visitors’ use of our site, and (10) to protect the security or integrity of our site. Non-personal information will be used for purposes of conducting internal reviews of the site, monitoring the site, and providing a greater online experience for our visitors.  
+****
 
-Although the administrators and owners of this site make every effort to verify the accuracy of all information posted herein, the information on usacarry.com is not guaranteed to be accurate. We are prohibited to give legal counsel; should you have specific legal questions that require accurate answers, we suggest you hire an attorney who is licensed in the appropriate state.
+**What security measures do we take to protect your data?**  
+To help prevent unauthorized access, maintain data integrity, and ensure the appropriate use of information, we have put in place certain physical, electronic, and managerial procedures to safeguard and secure the information we collect from visitors to our Web site. We use SSL (Secure Socket Layer) technology to protect any credit card information you provide us. We allow access to personal information only to persons and entities engaging in activities provided for by this Privacy Policy. Visitors should consider any communication that they transmit to us (such as data, questions or answers, comments, suggestions, or communications submitted to a chat room) to be non-confidential. We will not be liable or responsible if information that belongs to a visitor is intercepted and used by an unintended recipient.  
+We protect children’s privacy.
 
-The purpose of the information on usacarry.com is to give you an overview of the topic of Carrying Concealed Weapons (CCW) and where to look for authoritative information on CCW. We make every attempt to provide a resource for contact information (State Police, State Attorneys General, Licensing Authorities, etc.) for you to verify the information on this site. If the appropriate contact information is absent from the site, the responsibility to find that information lies solely with the user.
+Protecting the privacy of children is VERY important to us. For that reason we do not structure any part of our site to attract anyone under the age of 18 (21 in some areas) and we do not allow anyone under the age of 18 (21 in some areas) to register and become a member of our site.
 
-It is completely up to the user of the site to verify any and all information found herein.
+**Corporate changes.**  
+In the event of a merger, acquisition, asset or stock sale, bankruptcy, or other asset transfer (regardless of legal formality), any of our assets may be transferred to a third party, including personal information collected from visitors to our Web site.
 
+**Acceptance of privacy terms & conditions**  
+By visiting this Web site, you are agreeing to the practices described in this Privacy Policy. By visiting this site, you also accept, without limitation or qualification, all terms and conditions concerning the use of this site. We may at any time revise these terms and conditions. You are bound by any such revisions and should therefore periodically visit this page to review the current terms and conditions to which you are bound. To the extent that any of the third-party sites accessible through our Web site (such as our advertisers) have different privacy practices from those stated in this Privacy Policy, those third-party privacy practices govern the collection and use of information you provide when visiting those sites. We are not responsible for the policies, content, and practices of other companies.
 
+**Changes to this privacy policy**  
+There may be times when we need to change the terms of this Privacy Policy. To ensure that you are aware of our current privacy practices, please bookmark this page and check back often.  
+****
 
-  * [**About USA Carry**](http://www.usacarry.com/forums/view.php?pg=info_about_usacarry)
-  * [ **Explaining The Resources**](http://www.usacarry.com/forums/view.php?pg=info_explaining_the_resources)
-  * [ **Are you a New Member?**](http://www.usacarry.com/forums/view.php?pg=info_newmember)
-  * [ **Forum Rules and Etiquette**](http://www.usacarry.com/info_forumrules.html)
-  * [ **Site Privacy Policy**](http://www.usacarry.com/info_privacy.html)
-  * [ **Terms of Service and Legal Notices**](http://www.usacarry.com/info_tos.html)
-  * [ **USA Carry RSS Feeds**](http://www.usacarry.com/info_usacarry_rss_feed.html)
-
-  
-  
----  
-| 
-
-[Still Have A Question?](http://www.usacarry.com/forums/sendmessage.php)
-
-| 
-
-**2036** _times visited._  
-  
----|---  
-  
-All times are GMT -4. The time now is 04:00 AM.
+**How can you access the information we have collected from you?**  
+Visitors who wish to access or change the information they provided to our Web site, should visit the Customer Service section of this site and contact us via Email.
