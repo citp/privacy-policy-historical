@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvla-som.co.uk privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126050154id_/http%3A//dvlaregistrations.direct.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvla-som.co.uk privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125151722id_/http%3A//dvlaregistrations.direct.gov.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -14,13 +14,13 @@ This page explains our privacy policy and how we will use and protect any inform
 
 ## The Data Protection Act
 
-Under the Data Protection Act, we have a legal duty to protect any information we collect from you. We use leading technologies and encryption software to safeguard your data, and keep strict security standards to prevent any unauthorised access to it.
+This page explains our privacy policy and how we will use and protect any information about you that you give us when you visit this website.
 
 * * *
 
 ## What information do we collect?
 
-We collect three kinds of information from visitors to dvlaregistrations.direct.gov.uk: feedback (through visitors emailing us), site referrals (via email a friend, etc) and site usage information, using cookies and page tagging techniques including JavaScript.
+Under the Data Protection Act, we have a legal duty to protect any information we collect from you. We use leading technologies and encryption software to safeguard your data, and keep strict security standards to prevent any unauthorised access to it.
 
 * * *
 
@@ -45,6 +45,8 @@ Our cookies store a random number and other information such as a date on your c
 The cookies do not contain any personal information about you, and they cannot be used to identify an individual user.
 
 You can set your browser not to accept cookies. If you do not know how to do this, contact us, giving details on the type of browser you are using, and we will do our best to help. However some features of the site may not work as expected if all cookies are disabled.
+
+[View our cookie policy](http://www.dft.gov.uk/dvla/privacy/RegistrationCookies.aspx)
 
 ### Page tagging
 
@@ -76,4 +78,4 @@ If you wish to see our records of any correspondence you have sent to us, or if 
 
 ### Changes to this privacy policy
 
-If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties. 
+If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties.
