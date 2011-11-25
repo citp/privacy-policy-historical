@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discountasp.net privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515032927id_/http%3A//www.discountasp.net/userpolicy_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountasp.net privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125075444id_/http%3A//www.discountasp.net/userpolicy_privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policies at DiscountASP.NET ASP.NET, ASP, SQL Hosting Service
 
@@ -6,7 +6,7 @@ DiscountASP.NET understands that the privacy of your data is important to you. T
 
 DiscountASP.NET has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@discountasp.net](mailto:support@discountasp.net) or DiscountASP.NET, Attn: Compliance Department, 2700 E. Foothill Blvd. Suite 201, Pasadena, CA 91107, If you are not satisfied with our response you can contact [TrustE](http://watchdog.truste.com/pvr.php?page=complaint). 
 
-DiscountASP.NET complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. 
+DiscountASP.NET complies with the U.S. – E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union and Switzerland respectively. Information regarding the both the E.U. and Swiss Safe Harbor Frameworks can be found at: <http://export.gov/safeharbor>. 
 
 **Information we collect**
 
@@ -23,6 +23,9 @@ The security of your personal information is important to us. When you enter per
 We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
 If you have any questions about security on our Web site, you can email us at [support@discountasp.net](mailto:support@discountasp.net). 
+
+**Data Retention**  
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer provide you services contact us at [support@discountasp.net](mailto:support@discountasp.net). We will retain your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 **Customer Inquiries**  
 If you contact us about a problem/issue or with a question we may ask you for specific information related to this contact (Customer Inquiry Information). 
@@ -44,6 +47,9 @@ You can remove persistent cookies by following directions provided in your Inter
 
 **Third Party Cookies**  
 You may visit third party sites that place cookies on your computer for entities that provide Third Party Services to us. When you visit our site, those third parties may be able to determine which other sites containing their cookies you have visited, in addition to visiting our site. The use of cookies by third parties is not covered by our privacy statement. We do not have access or control over these cookies. 
+
+Clear Gifs (Web Beacons/Web Bugs)  
+We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. 
 
 **Choice/Opt-out**  
 We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you may opt-out by following the unsubscribe link located at the bottom of each email. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication and opting out through your control panel at [https://my.discountasp.net](https://my.discountasp.net/). 
@@ -89,4 +95,4 @@ We do publish research papers based on survey data. However, the research paper 
 **Changes in this Privacy Statement**  
 If we decide to change our privacy policy, we will post those changes to this privacy statement at http://discountasp.net/userpolicy_privacy.aspx, the control panel, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
 
-Last Updated on September 2, 2010 
+Last Updated on October 20, 2011 
