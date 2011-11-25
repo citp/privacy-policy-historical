@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gunslot.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118083144id_/http%3A//www.gunslot.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunslot.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125101842id_/http%3A//www.gunslot.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-You are currently viewing our site as a **guest** which gives you **limited access** to view most discussions, videos and photo galleries. By joining our free community you will have access to **post topics** , **communicate privately with other users** , **upload videos and photos** in your own photo album and access many other special features. **Registration is fast, simple and absolutely free so please,[join our community today!](https://web.archive.org/user/register)**
 
 This policy statement discloses the discreet privacy practices of Guns Lot. As a company, we want to build user confidence and long term trust on the Internet by promoting the use of quality and fair information practices. Guns Lot demonstrates this lifetime commitment to full privacy by consistently disclosing our information and collection practices. This includes notification of the following types: 
 
@@ -47,4 +45,4 @@ From time-to-time our site requests information from users in connection with co
 
 ## Security
 
-Guns Lot takes all precautions to protect each user's information. All credit card numbers are secure and encrypted. All customer orders are always held in the strictest confidence. Guns Lot will not transfer, disclose or sell ANY customer information such as telephone numbers, e-mail addresses, names, or physical addresses. Guns Lot values our customers and their privacy. When users submit private and sensitive information via the Web site, each user's information is protected both off-line and on-line. If you have any questions, comments or concerns about the security at our web site, you may [contact us here](https://web.archive.org/contact)
+Guns Lot takes all precautions to protect each user's information. All credit card numbers are secure and encrypted. All customer orders are always held in the strictest confidence. Guns Lot will not transfer, disclose or sell ANY customer information such as telephone numbers, e-mail addresses, names, or physical addresses. Guns Lot values our customers and their privacy. When users submit private and sensitive information via the Web site, each user's information is protected both off-line and on-line. If you have any questions, comments or concerns about the security at our web site, you may [contact us here](https://web.archive.org/contact).
