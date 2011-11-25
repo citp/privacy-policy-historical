@@ -1,194 +1,55 @@
-> *The following text is extracted and transformed from the sinclairintl.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130023720id_/http%3A//www.sinclairintl.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sinclairintl.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125121254id_/http%3A//www.sinclairintl.com/aspx/general/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Specializing in Reloading Supplies and Equipment for Firearms - Sinclair International
+# 
 
-This is a privacy policy for Sinclair International. Our homepage on the Web is located at [http://www.sinclairintl.com](http://www.sinclairintl.com/). Users may go to [http://www.sinclairintl.com](http://www.sinclairintl.com/) for information on how to opt-in or opt-out of use of their information.
+## Privacy Policy
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
+Welcome to Sinclairintl.com. We are an affiliated site and division of Brownells, Inc. and Brownells.com ("Brownells"). At Sinclair we won't sell, trade, or share your personal information with anybody; it's as simple as that. If you are interested in reading about the specifics of our policy, they are explained below.   
+Thanks.   
+Frank BrownellPete Brownell
 
-Sinclair International Privacy Administrator  
-2330 Wayne Haven St.  
-Fort Wayne, IN 46803   
-USA
+Sinclair International, Inc. Privacy Policy as of January 1, 2003. This policy is subject to change in accordance with the terms set forth in this policy.
 
-You may contact us by e-mail at [support@sinclairintl.com](mailto:support@sinclairintl.com). You may call us at 260-493-1858. 
+**1\. Sinclair International, Inc. Privacy Pledge To You**  
+At Sinclair, we pride ourselves on satisfying you in every way we can. That is why close attention is paid to the way we handle your personal information. When you provide us your name, e-mail, phone number, address, credit card number, or bank account number, you can be assured it will not be shared with anyone that doesn't need it to process your order. We do reserve the right to permit official use of your information in the result of a subpoena or a legitimate legal issue. 
 
-**Dispute Resolution and Privacy Seals**
+**2\. The Information We Collect and How We Collect It**  
+This section is broken down into four areas of our website.
 
-We have the following privacy seals: 
+  * **A Non-Registered Visitor**  
+When you use our website without signing in (visiting anonymously), we do not collect any personally identifiable information about you. Our web server does automatically log the visit information of IP addresses including, but not limited to length of visit, domain, subnet, pages visited, and number of clicks through.
+  * **Registered (Member) Areas of the Site**  
+For a visitor to use the registered or member areas of our site, they must provide personally identifiable information so our online staff can communicate with them regarding online orders. This information includes, but is not limited to, your name, phone number, e-mail address, home address, and shipping address.
+  * **Survey & Service Improvement Area of the Site**  
+Some visitors enjoy helping us improve our website by participating in activities that include, but are not limited to, surveys and online focus groups. These activities may require additional forms of tracking so we can adequately manage and collect the information that is generated. In certain circumstances, we reserve the right to share such information with marketing agencies, including, but not limited to, our advertising agency and our web-marketing consultants, for their expertise. To participate in these activities, visitors must meet these two qualifications: 1. They must be a registered member; and 2. Agree to the rules and qualifications set forth by each specific activity.
+  * **E-Mail**  
+Your e-mail address is used to correspond with you regarding the following things: 1. Answers to questions from our sales, customer, and technical support staff. 2. Promotional/marketing messages that you may have opted-in to receive when you signed up your account online. You can view or change your personal information and preferences at any time by logging into the site and accessing the My Account tab. However, if you would like to remove yourself from the promotional email list you will need to unsubscribe at the bottom of the promotional email or reply to the email with unsubscribe in the subject line.
 
-  * **Standard:** All applicable laws of the State of Indiana will be used in settling disputes arising from this policy. 
-  * **Secure Server:** Sinclair utilizes a secure server certificate from Thawte for the protection of user information.
 
 
+**3\. Cookies; Which Ones We Set & How They Benefit You **  
+Sinclair sets single-session cookies, which are necessary to operate features such as, but not limited to, user login, online ordering, stored shopping carts, and credit card information access. Without the use of cookies we wouldn't be able to offer you these timesaving, value-enhancing features. We also set a persistent cookie that stores your login id if you have selected the Remember Me option during the sign-in process. 
 
-**Additional Information**
+**4\. We Do Not Share Your Information**  
+We do not share your information with anyone outside Brownells unless it is a request that is in the interest of the law or certified government agencies (e.g. subpoena or legal reasons). We share your information internally at Brownells for the _sole_ purpose of processing your order. 
 
-This privacy policy is subject to change at any time. Changes will be posted on this page. 
+**5\. Here's How We Ensure Your Highest Security**  
+We always protect your information from the outside by not sharing it unless we are required to do so by law. We have streamlined our order-taking process, thereby reducing the number of internal people who see your information.
 
-**Data Collection**
+**6\. Former Customers**  
+We do not share information about our former customers with anyone (except in response to subpoenas or for other legitimate legal reasons). 
 
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 4 data groups. The data practices of each group will be explained seperately. 
+**7\. Changes In This Policy**  
+If our privacy policy changes, and it effects the way your personally identifiable information is collected, stored, transmitted or disclosed to any third parties, we will provide advance notice of the change using the following methods:
 
-* * *
+  * Notification of the change will be posted on our web site for a _minimum of thirty days_ before the change takes effect.
+  * An email will be sent to the address associated with your user account _at least thirty days_ in advance to notify you of a policy change.
+  * You will _always_ have the opportunity to opt-out of any changes to the policy.
 
-**Group "Access log information"**
 
-We collect the following information: 
 
-  * Click-stream data
-  * HTTP protocol elements
+If you have questions, comments, or want your user account deleted, please e-mail us at [Support@Sinclairintl.com](mailto:support@sinclairintl.com) or call 800-717-8211. 
 
+Thank you, 
 
-
-This data will be used for the following purposes: 
-
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
-
-
-
-This data will be used by ourselves and our agents.
-
-The following explanation is provided for why this data is collected:
-
-Our Web server collects access logs containing this information.
-
-* * *
-
-**Group "Cookies"**
-
-We collect the following information: 
-
-  * HTTP cookies
-
-
-
-This data will be used for the following purposes: 
-
-  * Research and development.
-  * One-time tailoring.
-
-
-
-This data will be used by ourselves and our agents.
-
-The following explanation is provided for why this data is collected:
-
-Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you. We also use cookies to allow our server to maintain information about the contents of your shopping cart.
-
-* * *
-
-**Group "Transaction info (required)"**
-
-We collect the following information: 
-
-  * Physical contact information
-  * Online contact information
-  * Demographic data
-  * Purchase information
-
-
-
-This data will be used for the following purposes: 
-
-  * Completion and support of the current activity.
-  * Research and development.
-
-
-
-This data will be used by ourselves and our agents. In addition, the following types of entities will receive this information: 
-
-  * Delivery services.
-
-
-
-The following explanation is provided for why this data is collected: Information we collect in order to process your purchase.
-
-* * *
-
-**Group "Transaction info (optional)"**
-
-At the user's option, we will collect the following data: 
-
-  * Physical contact information
-  * Online contact information
-  * Demographic data
-  * Purchase information
-
-
-
-This data will be used for the following purposes: 
-
-  * Contacting visitors for marketing of services or products.
-
-
-
-This data will be used by ourselves and our agents. In addition, the following types of entities will receive this information: 
-
-  * Delivery services.
-
-
-
-The following explanation is provided for why this data is collected: Information we collect in order to process your purchase.
-
-* * *
-
-**Cookies**
-
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
-
-Our site makes use of cookies. Cookies are used for the following purposes: 
-
-  * User targeting 
-  * Research and development 
-
-  
-
-
-* * *
-
-**Policy Evaluation**  
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6.
-
-**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
-
-**Unsatisfactory policy:** this compact policy is considered unsatisfactory according to the rules defined by Internet Explorer 6. The behavior of Internet Explorer 6 regarding cookies set under this compact policy is as follows:
-
-  | **First-party usage** | **Third-party usage**  
----|---|---  
-**Persistent Cookies** |  **Low:** Policy satisfactory at this level; cookies will be accepted.   
-**Medium:** Opt-out is not provided for all unsatisfactory purposes and recipients, so the cookie will be downgraded to a session cookie.   
-**Medium High:** No opt-out is provided, so the cookie will be blocked.   
-**High:** Since opt-in is not required, the cookie will be blocked.  
-|  **Low:** Opt-out is not provided for all unsatisfactory purposes and recipients, so the cookie will be downgraded to a session cookie.   
-**Medium:** Opt-out is not provided for all unsatisfactory purposes and recipients, so the cookie will be blocked.   
-**Medium High:** Since opt-in is not required, the cookie will be blocked.   
-**High:** Since opt-in is not required, the cookie will be blocked.  
-  
-**Session Cookies** |  **Low:** Policy satisfactory at this level; cookies will be accepted.   
-**Medium:** Policy satisfactory at this level; cookies will be accepted.   
-**Medium High:** Policy satisfactory at this level; cookies will be accepted.   
-**High:** Since opt-in is not required, the cookie will be blocked.  
-|  **Low:** Policy satisfactory at this level; cookies will be accepted.   
-**Medium:** Opt-out is not provided for all unsatisfactory purposes and recipients, so the cookie will be blocked.   
-**Medium High:** Since opt-in is not required, the cookie will be blocked.   
-**High:** Since opt-in is not required, the cookie will be blocked.   
-  
-  
-A policy which is considered unsatisfactory by Internet Explorer 6 contains certain categories of data which are used or shared in a particular manner. This policy is placed in the unsatisfactory category, because the following categories of data are associated with this policy's cookies: 
-
-  * Physical contact information is collected.
-  * Online contact information is collected. 
-
-
-
-In addition, the data is used in the following manner, marking the policy as unsatisfactory: 
-
-  * The data is used for contacting the user. 
-
-
-
-Note that allowing an opt-out will make this policy acceptable under the Low and Medium settings, and under Medium High for first-party cookie usage. At the High setting, and at the Medium High setting for third-party cookies, all of these data uses must be opt-in for the policy to be considered satisfactory.   
-
+Sinclair International, Inc. 
