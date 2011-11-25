@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the historynet.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612042653id_/http%3A//www.historynet.com/weider-history-group-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historynet.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125091012id_/http%3A//www.historynet.com/weider-history-group-privacy-policy) for the most accurate reproduction.*
 
-# Weider History Group Privacy Policy » History Net
+# Weider History Group Privacy Policy
 
 Weider History Group and its family of consumer publications are strongly committed to protecting your privacy and providing a safe online experience for all of our users and subscribers while offering the highest quality publications and services to them. Because we gather certain types of information about and from users and subscribers so that we can fulfill your requests and better serve your needs, we feel you should fully understand the terms and conditions surrounding the collection and use of this information. This privacy statement discloses what information we gather, how we use it, how to correct or change it, and what steps we take to safeguard personal information provided to us both online and offline. Please note that some of our websites are subject to separate privacy policies. We encourage you to always check the privacy policy on each website you visit to be sure you understand the privacy policy governing that site, since use of this site constitutes agreement with these terms. We urge you to read the complete Online Privacy Policy below, as well as our Terms and Conditions of Use, and contact us if you have any questions, but offer this short summary to highlight key points.
 
@@ -12,41 +12,41 @@ Weider History Group and its family of consumer publications are strongly commit
 
 
 
-**What Information Do We Collect About You?  
+**[What Information Do We Collect About You?](http://www.historynet.com/weider-history-group-privacy-policy#info)  
 __**
 
 **_
 
-  * Personal Information
-  * Subscriptions and Orders
-  * Information Collected Automatically
-  * Other Information
+  * [Personal Information](http://www.historynet.com/weider-history-group-privacy-policy#info_personal)
+  * [Subscriptions and Orders](http://www.historynet.com/weider-history-group-privacy-policy#info_sub)
+  * [Information Collected Automatically](http://www.historynet.com/weider-history-group-privacy-policy#info_auto)
+  * [Other Information](http://www.historynet.com/weider-history-group-privacy-policy#info_other)
 
 _**
 
-**What Do We Do with Information We Collect?**
+**[What Do We Do with Information We Collect?](http://www.historynet.com/weider-history-group-privacy-policy#collect)**
 
-**How Do We Share Personal Information?**
+**[How Do We Share Personal Information?](http://www.historynet.com/weider-history-group-privacy-policy#share)**
 
-  * _Weider History Group and Its Agents_
-  * _Participating Vendors_
-  * _Credit Card Companies_
-  * _Advertisers, Sponsors and Promotional and Business Partners_
-  * _Important Note_
+  * _[Weider History Group and Its Agents](http://www.historynet.com/weider-history-group-privacy-policy#share_primedia)_
+  * _[Participating Vendors](http://www.historynet.com/weider-history-group-privacy-policy#share_vendor)_
+  * _[Credit Card Companies](http://www.historynet.com/weider-history-group-privacy-policy#share_credit)_
+  * _[Advertisers, Sponsors and Promotional and Business Partners](http://www.historynet.com/weider-history-group-privacy-policy#share_adv)_
+  * _[Important Note](http://www.historynet.com/weider-history-group-privacy-policy#share_note)_
 
 
 
-**How Do We Use Cookies?**  
-**How Do We Use Web Beacons?**  
-**What About Third Party Advertisers?**  
-**How Can You Control Your Personal Information?**  
-**Security of Your Personal Information**  
-**Children's Privacy**  
-**Links**  
-**Changes in Corporate Structure**  
-**Visitors Outside the United States**  
-**Changes to Our Privacy Policy**  
-**Contact Information**
+**[How Do We Use Cookies?](http://www.historynet.com/weider-history-group-privacy-policy#cookies)**  
+**[How Do We Use Web Beacons?](http://www.historynet.com/weider-history-group-privacy-policy#beacons)**  
+**[What About Third Party Advertisers?](http://www.historynet.com/weider-history-group-privacy-policy#thirdparty)**  
+**[How Can You Control Your Personal Information?](http://www.historynet.com/weider-history-group-privacy-policy#personalinfo)**  
+**[Security of Your Personal Information](http://www.historynet.com/weider-history-group-privacy-policy#security)**  
+**[Children's Privacy](http://www.historynet.com/weider-history-group-privacy-policy#children)**  
+**[Links](http://www.historynet.com/weider-history-group-privacy-policy#links)**  
+**[Changes in Corporate Structure](http://www.historynet.com/weider-history-group-privacy-policy#structure)**  
+**[Visitors Outside the United States](http://www.historynet.com/weider-history-group-privacy-policy#visitors)**  
+**[Changes to Our Privacy Policy](http://www.historynet.com/weider-history-group-privacy-policy#changes)**  
+**[Contact Information](http://www.historynet.com/weider-history-group-privacy-policy#contact)**
 
 **WHAT INFORMATION DO WE COLLECT ABOUT YOU?**
 
