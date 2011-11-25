@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the softscrub.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527090345id_/http%3A//www.henkelna.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softscrub.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125143317id_/http%3A//www.henkelna.com/privacy) for the most accurate reproduction.*
 
-# Henkel North America - Privacy Policy
+# Privacy Policy - Henkel North America
 
 Thank you for visiting our web site. This web site belongs to and is operated by Henkel Corporation or one of its subsidiary or affiliated companies ("Henkel"). Henkel is committed to protecting and safeguarding your privacy on this web site. This Privacy Policy outlines the information Henkel may be collecting from visitors to this web site and how we will use and protect that information.
 
@@ -84,6 +84,8 @@ If you have created a resume using our careers center you may access to, review,
 **  9.  Links to Other sites**
 
 Our sites may contain links to other web sites. Henkel is not responsible for the privacy practices or the content of the other web sites. Please note that the privacy policies applicable to such third party web sites may differ significantly from the Henkel Privacy Policy, so we advise you to please read them carefully before using those sites. Henkel cannot be held liable for any actions by or content of such third party web sites.
+
+Our web pages might be equipped with plug-ins of the social network facebook.com, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA ("Facebook").  Such plug-ins might in particular be Facebook's "Like" button respectively. If you access one of our web pages that is equipped with such a plug-in, your internet browser will make a direct connection to the Facebook servers and the plug-in will be displayed on the screen through communication to your browser. The plug-in will inform the Facebook server which of our web pages you have visited. If you are a member of Facebook and are logged on to Facebook user account while visiting our web page, Facebook will relate this information to your Facebook user account. On making use of any of the plug-in functions (e.g. clicking the "Like" button, leaving a comment), this information will also be related to your Facebook user account;  Further information on the collection and use of data by Facebook and on the rights and possibilities available to you for protecting your privacy in this context can be found in Facebook’s data protection information. If you want to avoid that Facebook is able to relate the visit of our web page to your Facebook user account, you have to log-off your Facebook user account prior to visiting our web pages.
 
 **  10.  Queries and Complaints**
 
