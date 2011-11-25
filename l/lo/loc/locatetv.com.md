@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the locatetv.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228121827id_/http%3A//www.locatetv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the locatetv.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125125650id_/http%3A//www.locatetv.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | LocateTV
 
