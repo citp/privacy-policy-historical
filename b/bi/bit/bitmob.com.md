@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bitmob.com privacy policy that was archived on 2010-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101209130832id_/http%3A//bitmob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitmob.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125230004id_/http%3A//bitmob.com/privacy) for the most accurate reproduction.*
 
-# Bitmob Privacy Policies
+# Privacy Policies | Bitmob.com
 
 TLDR version - we don't want to spam your inbox, and we won't sell your private info. Official Legalese begins forthwith, saying mostly the same thing but with a lot more words: 
 
