@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the financialsense.com privacy policy that was archived on 2011-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110206020426id_/http%3A//www.financialsense.com/node/660) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialsense.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125054716id_/http%3A//www.financialsense.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FINANCIAL SENSE
 
 ## Financial Sense® Website Privacy Statement
 
-This document was last updated on 29 October 2009.
+This document was last updated on 8 August 2011.
 
 ### 1\. Acknowledgment and acceptance of terms
 
-Financial Sense® and its parent company, Puplava Financial Services, Inc. (collectively, "FSO"), are committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing [www.financialsense.com](https://web.archive.org/home "Financial Sense") and/or [www.netcastdaily.com](http://www.netcastdaily.com/ "www.netcastdaily.com") (collectively, "Websites"), you acknowledge and fully understand FSO's Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+Financial Sense® and its parent company, Puplava Financial Services, Inc. (collectively, "FSO"), are committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing [www.financialsense.com](https://web.archive.org/home "Financial Sense") and/or [www.financialsensenewshour.com](http://www.financialsensenewshour.com/ "Financial Sense Newshour"), [www.financialsensebeta.com](http://www.financialsensearchive.com/ "Financial Sense Archive Site>www.financialsensearchive.com</a>, <a href="), [www.pfsdrupal.com](http://www.pfsdrupal.com/ "Financial Sense Staging Site"), [www.financialsenseenergy.com](http://www.financialsenseenergy.com/ "Peak Oil Chronicles"), [www.financial-sense-energy.com](http://www.financial-sense-energy.com/ "Peak Oil Chronicles"),[www.peak-oil-chronicles.com](http://www.peakoilchronicles.com/ "Peak Oil Chronicles"), [www.netcastdaily.com](http://www.netcastdaily.com/ "Financial Sense Newshour") (collectively, "Websites"), you acknowledge and fully understand FSO's Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
 ### 2\. Participating Merchant Policies/Outside or Third-Party Links
 
@@ -98,7 +98,7 @@ Some of these Web beacons may be placed by third party service providers to help
 
 ### 5\. Accessing/Updating Web Account Information (for Contributors)
 
-Contributors who wish to update their contact information with FSO may do so by contacting the Websites' [webmaster](mailto:fsowebmaster@financialsense.com "Adam Puplava, webmaster") directly. FSO reserves the right to review and approve any updates to Contributor information before posting it to the Websites, and to refuse and/or deny to update information that does not comply with the terms of its [Privacy Statement](https://web.archive.org/node/660 "FSO Privacy Statement") or [Terms of Use ](https://web.archive.org/node/659 "FSO Terms of Use")Statement.
+Contributors who wish to update their contact information with FSO may do so by contacting the Websites' [webmaster](mailto:fswebmaster@financialsense.com "Cristofer Sheridan, Webmaster") directly. FSO reserves the right to review and approve any updates to Contributor information before posting it to the Websites, and to refuse and/or deny to update information that does not comply with the terms of its [Privacy Statement](https://web.archive.org/node/660 "FSO Privacy Statement") or [Terms of Use ](https://web.archive.org/node/659 "FSO Terms of Use")Statement.
 
 ### 6.California Online Privacy Protection Act Compliance
 
@@ -110,7 +110,7 @@ We are in compliance with the requirements of COPPA ([Childrens Online Privacy P
 
 ### 8\. Terms of Use
 
-Please also visit our [Terms of Use](https://web.archive.org/node/659 "FSO Terms of Use") section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.financialsense.com/aboutus/termsofuse](https://web.archive.org/node/659 "FSO Terms of Use").
+Please also visit our [Terms of Use](https://web.archive.org/node/659 "FSO Terms of Use") section establishing the use, disclaimers, and limitations of liability governing the use of our website at [www.financialsense.com/aboutus/termsofuse](http://www.financialsense.com/about-us/terms-of-use "FS Terms of Use").
 
 ### 9\. Changes to this Statement
 
@@ -118,7 +118,7 @@ FSO has the discretion to occasionally update this privacy statement at any time
 
 ### 10\. Contacting Us
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please [contact us](https://web.archive.org/node/690 "FSO Contact Us") or send your comments to:
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please [contact us](http://www.financialsense.com/about-us/contact-us "FS Contact Us") or send your comments to:
 
 Financial Sense Online  
  **Attention:   Privacy Statement Personnel  
