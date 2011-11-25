@@ -1,12 +1,20 @@
-> *The following text is extracted and transformed from the justprnews.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509051613id_/http%3A//www.justprnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justprnews.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125134127id_/http%3A//www.justprnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Just PR News
+# Privacy | Just PR News
 
 Note: The privacy patterns mentioned in this privacy policy are only for justprnews.com and for no other website. You accept this policy when you sign up for or request information, products, services or anything else offered by us. Please properly check for frequent updates as it is only you who is responsible to be aware of the changes.
 
 **JUST PR NEWS** is the website about submitting press releases and news updates. By bringing your attention towards the privacy policy section, we want to make you aware of all the facts before joining us.
 
 Being one of the best of online visibility, submit press releases and news updates service providers, we are dedicated to uphold or maintain the policies and procedures. Your privacy is our priority and that is why we are committed to the protection of your privacy, so please go through our privacy policy section carefully before submitting any kind of personal information or working with justprnews.com.
+
+**Google Adsense and the DoubleClick DART Cookie:-**
+
+Google is the advertisement vendor (a third party). In order to put up adverts on this site, Google uses cookies. Moreover, Google uses DART cookies, as it allows them to put advertisements to the visitors that are grounded on their visit to this website or the others that are available on the internet.
+
+For choosing DART cookies, you are required to visit the Google advertisement and privacy policy of content network with the mentioned URL <http://www.google.com/privacy_ads.html>. Going ahead, users’ tracking via the DART cookie method is accountable to the privacy policies of Google.
+
+Cookies can also be used by the other third party ad servers or advertisements networks. They do this in order to track the various activities done by the users. JUST PR NEWS has no control on these cookies, as the third party advertisers utilize them.
 
 **What personal information we collect & how we use it:-**
 
@@ -17,10 +25,6 @@ Moreover, we may also use your personal information for sending important notice
 **Information Distribution**
 
 We at **JUST PR NEWS** may share the provided information with governmental agencies or other companies aiding us in investigation and also in fraud prevention. And it can be done when it is permitted or needed by the law, in case if trying to defend against or prevent actual or potential fraud or unauthorized transactions or investigating fraud that has already taken place. Above all, it is certain that your information is not given to any of these companies for the purpose of marketing.
-
-**How we use cookies and tracking technologies:-**
-
-We may use cookies and tracking technologies and these are useful to collect information i.e. browser type and operating system, tracking the number of visitors to **justprnews.com** , as well as to understand how visitors use our website. Also, at times it assists to customize our website to the visitors. But don’t worry it is not possible for cookies or tracking technologies to collect your personal information. Yet cookies may be connected to the identifiable information that you had earlier provided.
 
 **Data Security:-**
 
@@ -39,3 +43,15 @@ There may be changes to our privacy statement that are unanticipated and were no
 Please feel free to contact us on the below mentioned contact details if you have any query or concern about the privacy policy of **justprnews.com.**
 
 Thanks for visiting justprnews.com.
+
+#### Incoming search terms:
+
+  * easyra1n scam (31)
+  * powered by myBB general wire (5)
+  * easyra1n scam? (2)
+  * easyra1n fraud (1)
+  * easyra1n fraude? (1)
+  * www justprnews com contact mail id (1)
+  * wymSubmit a New Story (1)
+
+
