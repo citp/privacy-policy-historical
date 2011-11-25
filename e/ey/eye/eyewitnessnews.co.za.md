@@ -1,17 +1,6 @@
-> *The following text is extracted and transformed from the eyewitnessnews.co.za privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503024608id_/http%3A//www.eyewitnessnews.co.za/contentprog.aspx%3Fid%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyewitnessnews.co.za privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125125731id_/http%3A//eyewitnessnews.co.za/PolicyAndPrivacy.aspx%3FId%3D2) for the most accurate reproduction.*
 
 # Eyewitness News: In Touch, In Tune and Independent
-
-  * AT A GLANCE >
-  * ZAR/AUD : 6.1805
-  * ZAR/EUR : 11.1923
-  * ZAR/GBP : 12.5598
-  * ZAR/JPY : 0.0850
-  * ZAR/USD : 8.4226
-
-
-
-Privacy Policy 
 
 Primedia Broadcasting is dedicated to maintaining the privacy of its online visitors. On this site, Primedia Broadcasting does not collect personally identifiable information from individuals unless they provide it to us voluntarily and knowingly. This means that it is not required from you to register or provide information to Primedia Broadcasting in order to view our site. 
 
