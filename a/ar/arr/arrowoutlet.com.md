@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arrowoutlet.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030011222id_/http%3A//arrowoutlet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arrowoutlet.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125054250id_/http%3A//www.arrowoutlet.com/privacy) for the most accurate reproduction.*
 
 # Arrowoutlet.com -- The Premier Technology Discount Site -
 
