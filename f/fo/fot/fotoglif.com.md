@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fotoglif.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106174046id_/http%3A//about.fotoglif.com/legal/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotoglif.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125023707id_/http%3A//about.fotoglif.com/legal/private-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Fotoglif
 
 **Fotoglif Privacy Policy**
 
@@ -125,6 +125,3 @@ Fotoglif
 219 Dufferin Street  
 Toronto, Ontario M6K 1Y9  
 Canada
-
-  
-
