@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myphoneroom.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527071801id_/http%3A//www.myphoneroom.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myphoneroom.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125173010id_/http%3A//www.myphoneroom.com/privacy_policy) for the most accurate reproduction.*
 
 # MyPhoneRoom.com
 
@@ -118,9 +118,9 @@ JURISDICTION AND VENUE
 
 If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified. 
 
-MyPhoneRoom.com  
-1035 W. University Dr.  
-Tempe, AZ 85281  
+myPhoneRoom LLC  
+1815 W. 1st Ave STE 127  
+Mesa, AZ 85202   
 USA
 
 In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.
