@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cricketgames.me privacy policy that was archived on 2011-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110125175407id_/http%3A//www.cricketgames.me/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketgames.me privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125140801id_/http%3A//www.cricketgames.me/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Cricket Games - Online Cricket Games - Flash Cricket Games
+# Privacy Policy - Cricket Games
 
 Cricket Games » Privacy Policy
 
