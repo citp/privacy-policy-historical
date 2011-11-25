@@ -1,26 +1,6 @@
-> *The following text is extracted and transformed from the jillkonrath.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216012049id_/http%3A//www.sellingtobigcompanies.com/content_display.jsp%3Ftop%3D21141) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jillkonrath.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125134357id_/http%3A//www.jillkonrath.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-|   
----  
-  
-copyright 2008. All rights reserved.
-
-Selling to Big Companies is a production of Leapfrog Strategies. Your online resource for sales techniques, sales strategies, sales tips and sales training for selling products and marketing services.
-
-Contact Us  
-Jill Konrath
-
-651-429-1922
-
-[](http://www.einsof.com/)
-
-[login](https://web.archive.org/web/20081216012049id_/http%3A//www.sellingtobigcompanies.com/login.jsp)  
-  
-  | 
-
-Privacy Policy for Selling to Big Companies
 
 This policy was last updated on July 31, 2007.
 
@@ -34,7 +14,10 @@ Selling to Big Companies, a Leapfrog Strategies company, takes your privacy seri
 
   * We will NEVER sell or rent your name or personal information to any third party without your express permission.
 
- **Use of Your Personal Information**  
+
+
+**Use of Your Personal Information**
+
 If you subscribe, your email address will be used to send the Selling to Big Companies newsletter. Special offers are sometimes sent to subscribers as well on behalf of third parties. But these third parties do not have access to your information since we alone send out the emails. However, all recipients of the newsletter may opt-out of receiving future newsletters or offers when so desired, and are given opportunity to opt-out of these emails at any time.
 
 We may also use personal information in a manner that does not identify you specifically nor allow you to be contacted but does identify certain criteria about our users in general. For example, we may inform third parties about the number of subscribers to the newsletter, open rates and website pages most frequently browsed.
@@ -43,18 +26,21 @@ Only authorized employees may access your information. All employees are require
 
 Aside from these uses of user information, we do not sell, nor plan to sell any user information to anyone.
 
- **Protection of Children's Personal Information**  
-Selling to Big Companies is a general audience site and does not knowingly collect any personal information from children. While our website may be viewed by children, we do not wish to receive data from children. No information should be submitted to, or posted at, the Selling to Big Companies web site by visitors under 18 years of age without the express written consent of their parent or guardian.  
- **  
-Links to Third Party Sites**   
+ **Protection of Children's Personal Information**
+
+Selling to Big Companies is a general audience site and does not knowingly collect any personal information from children. While our website may be viewed by children, we do not wish to receive data from children. No information should be submitted to, or posted at, the Selling to Big Companies web site by visitors under 18 years of age without the express written consent of their parent or guardian.
+
+ **Links to Third Party Sites**
+
 This website contains links to other web sites that are not controlled by Selling to Big Companies ("Third Party Sites"). Please note that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. The Selling to Big Companies Privacy Policy applies solely to information collected by this website.
 
- **Changes to this Privacy Policy**  
+ **Changes to this Privacy Policy**
+
 Selling to Big Companies will occasionally update this privacy policy. When we do, we will also revise the "last updated" date at the top of the privacy policy. For material changes to this statement, Selling to Big Companies will notify our subscribers by placing prominent notice on the site.
 
 Enforcement of this Privacy Policy and Contact Information  
 Selling to Big Companies welcomes your comments regarding our privacy policy.
 
-IF FOR ANY REASON YOU BELIEVE THAT YOUR PRIVACY HAS BEEN BREACHED THROUGH THE USE OF OUR SITE, YOU MAY CONTACT US IMMEDIATELY BY E-MAIL, AND WE WILL DO OUR BEST TO PROMPTLY DETERMINE AND CORRECT THE PROBLEM.
+IF FOR ANY REASON YOU BELIEVE THAT YOUR PRIVACY HAS BEEN BREACHED THROUGH THE USE OF OUR SITE, YOU MAY CONTACT US IMMEDIATELY BY E-MAIL, AND WE WILL DO OUR BEST TO PROMPTLY DETERMINE AND CORRECT THE PROBLEM  
+  
 
-|  
