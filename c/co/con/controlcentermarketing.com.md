@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the controlcentermarketing.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430001920id_/http%3A//controlcentermarketing.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the controlcentermarketing.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125042547id_/http%3A//controlcentermarketing.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D10) for the most accurate reproduction.*
 
 # Privacy Policy
 
