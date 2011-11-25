@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the abhibus.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422073656id_/http%3A//abhibus.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abhibus.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125060000id_/http%3A//abhibus.com/privacy.php) for the most accurate reproduction.*
 
-# Welcome to Abhibus
+# Privacy Policy at AbhiBus.com
 
 That's why we've provided this Privacy Policy, which sets forth our policies regarding the collection, use and protection of the information of those using the Abhibus website. Information that can be linked to a specific individual, such as name, address, telephone number, e-mail address and credit card number are protected.
 
