@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the everymanbusiness.com privacy policy that was archived on 2010-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101009120129id_/http%3A//www.everymanbusiness.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everymanbusiness.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125050044id_/http%3A//www.everymanbusiness.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Everyman Business
 
-### Last Updated: Jan 15, 2009
+### Last Updated: March 29, 2011
 
 _Generally EverymanBusiness.com ("Site" or "we", "our" or "us") does not collect, store, use or disclose any data collected with an intention to identify and/or contact a person such as: name, address, telephone number or e-mail address (hereinafter "PII")._
 
-_EverymanBusiness.com is owned by ValueClick Publishing (a division of ValueClick, Inc.). For EverymanBusiness.com, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us._
+_EverymanBusiness.com is owned by ValueClick Brands, Inc. (a division of ValueClick, Inc.). For EverymanBusiness.com, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us._
 
 ## What does this Privacy Policy cover?
 
@@ -24,7 +24,7 @@ We may collect any or all of the following three types of information: (i) traff
 
 There are two classes of Cookies based on how long they remain on your system: (i) "Session Cookies" may be used only during your visit to the Site and are erased once you close your browser, and (ii) "Persistent Cookies" (if applicable) remain on your browser for one (1) year from your last visit to the Site and enable us to remember you on subsequent visits to the Site and provide more relevant content to you on such Site. 
 
-There are many misconceptions about Cookies, some of which we will try to address in this policy. Cookies cannot erase your hard drive or otherwise damage your computer and do not tell us an e-mail address or any other PII. We do not and cannot use Cookies or web beacons to retrieve PII from your computer. 
+There are many misconceptions about Cookies, some of which we will try to address in this policy. Cookies cannot erase your hard drive or otherwise damage your computer and do not tell us an e-mail address or any other PII. We do not and cannot use Cookies or web beacons to retrieve PII from your computer. Most internet browsers and browser add-ons allow you to adjust their settings to allow you to automatically refuse Cookies either generally or from specific sites. To adjust these settings, we suggest that you contact the supplier of your browser and browser add-ons for more information. 
 
 A useful resource on understanding Cookies may be found at [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
@@ -42,10 +42,7 @@ We may find it necessary or be legally obligated to update this Privacy Policy f
 
 If you have any questions about anything in this Privacy Policy or about collection of personally identifiable information, or information generally, please contact us as follows: 
 
-Business and Legal Affairs  
-EverymanBusiness.com/ValueClick Inc.   
-30699 Russell Ranch Road  
-Suite 250  
-Westlake Village, CA 91362
-
-E-Mail: [privacy@valueclick.com](mailto:privacy@valueclick.com)
+EverymanBusiness.com  
+PO Box 168  
+Monrovia, CA 91017  
+E-Mail: [contact us](https://web.archive.org/contact.html)
