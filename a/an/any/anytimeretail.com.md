@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anytimeretail.com privacy policy that was archived on 2011-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110410042219id_/http%3A//www.anytimeretail.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anytimeretail.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125082729id_/http%3A//www.anytimeretail.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Anytime Retail Pvt Ltd
 
@@ -62,5 +62,3 @@ The Data Protection Act gives all individuals the right to access personal infor
 #####  Contacting Us
 
 If you have any questions or queries relating to this Privacy Policy then please contact us at [info@anytimeretail.com](mailto:info@anytimeretail.com). 
-
-© 2008-2011 Anytime Retail Pvt Ltd. Designated trademarks and brands are the property of their respective owners. Use of this Web site constitutes acceptance of the anytimeretail User Agreement and Privacy Policy. 
