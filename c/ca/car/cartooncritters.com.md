@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cartooncritters.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213190025id_/http%3A//cartooncritters.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartooncritters.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125192836id_/http%3A//cartooncritters.com/privacy.htm) for the most accurate reproduction.*
 
 # Cartoon Critters - coloring pages,learn to draw,online games
 
