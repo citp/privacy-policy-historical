@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-healthcaresolutions.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625081913id_/http%3A//e-healthcaresolutions.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-healthcaresolutions.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125044450id_/http%3A//www.e-healthcaresolutions.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for e-Healthcare Solutions
 
