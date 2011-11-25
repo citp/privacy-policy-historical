@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jasonnyback.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922232919id_/http%3A//jasonnyback.com/legal/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jasonnyback.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125084042id_/http%3A//jasonnyback.com/legal/privacypolicy.php) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -90,7 +90,7 @@
 > 
 > **QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS**
 > 
-> You may direct questions, comments or reports to: Nyback Technology, Inc: P.O. Box 22502 Southbrook P.O. Edmonton, Alberta, Canada, T6W 0C3 
+> You may direct questions, comments or reports to: Nyback Technology, Inc: P.O. Box 92508 RPO Nottingham,Sherwood Park, Alberta,Canada, T8A 3X4 
 > 
 > **REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE**
 > 
@@ -114,7 +114,7 @@
 > 
 > **JURISDICTION AND VENUE**
 > 
-> If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the province and city declared in the contact information of the web owner unless otherwise here specified. Nyback Technology, Inc: P.O. Box 22502, Southbrook P.O. Edmonton, Alberta, Canada, T6W-0C3. In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address. 
+> If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the province and city declared in the contact information of the web owner unless otherwise here specified. Nyback Technology, Inc: P.O. Box 92508 RPO Nottingham,Sherwood Park, Alberta,Canada, T8A 3X4. In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address. 
 > 
 > **APPLICABLE LAW**
 > 
