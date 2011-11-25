@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the family-vacation-getaways-at-los-angeles-theme-parks.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227000059id_/http%3A//www.family-vacation-getaways-at-los-angeles-theme-parks.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the family-vacation-getaways-at-los-angeles-theme-parks.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125161133id_/http%3A//www.family-vacation-getaways-at-los-angeles-theme-parks.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,13 +60,13 @@ How to clear cache:
 
 4.) For Netscape-- From the top menu choose the following options: Tools > Options > Privacy > Cookies; Click 'Clear' and OK.
 
+ **Search our sites:**
+
+Custom Search 
+
   
 **Share this page:  **| | | |   
 ---|---|---|---|---  
 | | |   
   
-Enjoy this page? Please pay it forward. Here's how...  
-  
-[](http://www.family-vacation-getaways-at-los-angeles-theme-parks.com/family-vacation-getaways-blog.html)
-
-[](http://www.sitesell.com/Vicki7.html)
+Enjoy this page? Please pay it forward. Here's how...
