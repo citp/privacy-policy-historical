@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bdo.com.ph privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609155012id_/http%3A//www.bdo.com.ph/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdo.com.ph privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125214649id_/http%3A//www.bdo.com.ph/PrivacyPolicy.asp) for the most accurate reproduction.*
 
-# Welcome to Banco De Oro
+# BDO Unibank, Inc. | Banco De Oro | BDO Philippines | Privacy Policy
 
 At BDO, we are committed to protecting your privacy as a visitor to this website and as our customer. We are bound by strict rules of confidentiality and, unless we are required to do so by law, rule or regulation, we will not disclose any information you may provide us to any person without your permission.
 
