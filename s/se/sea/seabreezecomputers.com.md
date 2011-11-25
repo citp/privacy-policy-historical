@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seabreezecomputers.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127191737id_/http%3A//seabreezecomputers.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seabreezecomputers.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125155040id_/http%3A//www.seabreezecomputers.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
