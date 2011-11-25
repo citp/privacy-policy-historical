@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commonsensemarketing.net privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525015244id_/http%3A//commonsensemarketing.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonsensemarketing.net privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125115622id_/http%3A//www.commonsensemarketing.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Common Sense Marketing
 
