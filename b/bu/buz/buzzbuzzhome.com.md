@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzbuzzhome.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611022856id_/http%3A//www.buzzbuzzhome.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzbuzzhome.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125015405id_/http%3A//www.buzzbuzzhome.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # BuzzBuzzHome - New Real Estate Developments Toronto Calgary Vancouver Montreal
 
