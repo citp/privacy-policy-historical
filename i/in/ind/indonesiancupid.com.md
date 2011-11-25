@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indonesiancupid.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528033702id_/http%3A//www.indonesiancupid.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indonesiancupid.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125081304id_/http%3A//www.indonesiancupid.com/Privacy.cfm) for the most accurate reproduction.*
 
 # IndonesianCupid.com | Privacy Policy
 
