@@ -1,100 +1,59 @@
-> *The following text is extracted and transformed from the freewp.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewp.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125151029id_/http%3A//www.freewp.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy - FreeWP
 
-**Go Daddy Respects Your Privacy**
+**Effective date** : September 1, 2011 /  **Last updated** : September 1, 2011
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This privacy policy (the “Policy”) applies to all websites owned and/or operated by Terran Marketing LLC (“TM”), including this site, www.FreeWP.com. Please read it carefully, as you are bound by its terms when using this and other TM websites. This Policy may be updated without notice at any time. Please contact us with any questions about this Policy through the [Contact Form](https://web.archive.org/contact) or via mail at
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Terran Marketing, LLC  
+Attn: Privacy Matters  
+[Address 1]  
+[Address 2]  
+[City], [State] [Zip]
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**Information We Collect**
 
-**Information Collection and Use**
+TM May collect any of the following information:
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+_Information you provide_. When users submit contact information or provide their identifying information to the website, TM will store this information and may combine any information you submit with information provided by third parties to optimize your browsing experience. TM may also provide this information to its affiliates, business partners and third parties in order to enhance your experience, or when you authorize TM to do so in order to complete purchases and other transactions.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+_Log information_. Each time users access TM’s services, TM’s servers may automatically record in its server logs information that users’ browsers sends whenever they visit a website. These server logs may include information such as users’ Internet Protocol or “IP” addresses, the date and time of the users’ requests, browser type, browser language, and one or more cookies (see description below) that may uniquely identify your browser.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+_Links_. TM may present links that include codes that enable us to track whether these links have been followed. This information is used to improve the quality of TM’s advertising and customized content, as well as the organization and layout of TM’s websites.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+_Cookies_. Assuming a user’s browser is configured to accept them, when users visit our websites, TM may send one or more cookies to the users’ computer or other device. A cookie is a small file containing a string of characters that uniquely identifies your browser. TM may also set one or more cookies in users’ browsers when they click on ads or other links presented on TM’s websites. Cookies make it possible to store user preferences and record which portions of our website you and other users are using the most. TM uses cookies solely for the purpose of improving the quality of its Service.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+_User communications_. TM may retain communications that users send to TM, by email or other means, in order to process your inquiries, respond to your requests, and improve our Services.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+_Affiliated TM Services on other sites_. From time to time, TM may offer some of its Services on or through other websites. In the event that TM offers such services, it is possible that personal information users provide to those sites may be sent to TM to facilitate delivery of those services. TM will process such information under this Policy as if the information had been submitted directly to TM from its users. Any affiliated site through which TM’s services are offered will likely have its own privacy policy, which may be very different from TM’s. It is very important for users to review the privacy policies for such affiliated sites before submitting personal information to them.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+_Other sites_. This Policy only applies to services offered by TM. TM is not able to exercise control over sites that are linked to from within our various Services. These other sites may collect data, set their own cookies in users’ browsers, or ask users to provide personal information.
 
-**Security**
+TM may use this information to provide, maintain, protect and improve the services it offers users. TM may also use this information to protect its rights or the rights of its users. Any of this information may be disclosed or otherwise used in any manner TM sees fit with regard to investigating and stopping the suspected or actual piracy of copyrighted content.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+If TM must use any personal information in a manner different from those described, it will seek your consent prior to that use. TM possesses personal information in the United States and in other countries, and in some cases may store personal information outside of your country.
 
-**Updating Your Information**
+**Information Sharing**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+TM will share personal information with companies or individuals outside of TM under limited circumstances:
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+  * TM has obtained your consent to release personal information.
+  * The information is being shared with a subsidiary or TM affiliate.
+  * Access, use or distribution of your personal information is, in TM’s good faith belief, reasonably required to a) satisfy an applicable law, regulation, legal process or enforceable government request (e.g. a warrant, subpoena or other court order), b) enforce the Terms and Conditions, and investigate their breach, c) detect and prevent security issues, d) protect against harm to TM or its users, and e) to pursue good faith allegations of piracy brought by TM or third parties.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-      iii.      You may call us at: (480) 505-8800
 
-       iv.      You may fax us at: (480) 505-8844
+**Accessing and Updating Your Personal Information**
 
-**Sending Emails**
+TM allows users the option to control their personal information (to the extent it is collected and maintained), including correcting, deleting and otherwise modifying this data. TM can fulfill this request so long as the data is not required by law or for legitimate business purposes. Users must identify themselves and the data they seek to have altered or deleted before TM will process their requests. TM may decline to process requests for which access is not required, or requests that are unreasonably repetitive or systematic, require disproportionate effort, jeopardize others’ privacy, or would be unreasonable. This service is provided free of charge except where performing it would require TM to expend unreasonable effort.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Because of how TM stores personal information, data you delete may take a period of time to be deleted from our services and residual (backup) copies of website information.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+**Enforcement**
 
-**Compliance with Laws and Law Enforcement**
+TM will regularly review its enforcement of this Policy. Upon receiving formal written complaints, it is TM’s Policy to contact the complaining user about his or her concerns. TM will cooperate with appropriate authorities, including local data protection authorities, to resolve complaints regarding the transfer of personal data that cannot be resolved between TM and the complaining individual.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+**Changes to the Policy**
 
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+TM may change this Policy from time to time and without notice. TM may post significant Policy changes on this page and may provide users with more prominent notice of such changes.
