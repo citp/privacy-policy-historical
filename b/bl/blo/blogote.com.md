@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogote.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619054607id_/http%3A//blogote.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogote.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125082756id_/http%3A//blogote.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blogote -- Apple, Mac OS, iPhone, Microsoft and Internet Technology Blog
 
