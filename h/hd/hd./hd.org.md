@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hd.org privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615045347id_/http%3A//www.exnet.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hd.org privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125155729id_/http%3A//www.exnet.com/Privacy.html) for the most accurate reproduction.*
 
 # ExNet: Privacy
 
