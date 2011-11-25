@@ -1,25 +1,27 @@
-> *The following text is extracted and transformed from the mmaplayground.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526170136id_/http%3A//www.mmaplayground.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmaplayground.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125092705id_/http%3A//www.mmaplayground.com/privacy.aspx) for the most accurate reproduction.*
 
 # MMAPlayground.com Internet Privacy Policy
 
-| **UFC 113**  
+_Bonus Prize Announcement: The top 2 scores for The Ultimate Fighter 14 Finale, UFC 140, and UFC 141 will win their own copy of the new UFC Encyclopedia![Details here](http://www.mmaplayground.com/forums/topic50075-1.html)._
+
+| **UFC 139**  
 ---  
 Earnings | Username  
-[$85,342](https://web.archive.org/financial_history.aspx?U=19335#EID76) | [aarondramp](https://web.archive.org/profile/aarondramp)  
-[$79,031](https://web.archive.org/financial_history.aspx?U=2283#EID76) | [kaduey](https://web.archive.org/profile/kaduey)  
-[$62,021](https://web.archive.org/financial_history.aspx?U=11397#EID76) | [wafb](https://web.archive.org/profile/wafb)  
-[$55,761](https://web.archive.org/financial_history.aspx?U=12040#EID76) | [jay_81](https://web.archive.org/profile/jay_81)  
-[$54,072](https://web.archive.org/financial_history.aspx?U=10761#EID76) | [komodo20](https://web.archive.org/profile/komodo20)  
-[$42,870](https://web.archive.org/financial_history.aspx?U=32458#EID76) | [mattmcewen](https://web.archive.org/profile/mattmcewen)  
-[$42,034](https://web.archive.org/financial_history.aspx?U=6571#EID76) | [Pookie](https://web.archive.org/profile/Pookie)  
-[$39,639](https://web.archive.org/financial_history.aspx?U=9918#EID76) | [breakyourface](https://web.archive.org/profile/breakyourface)  
-[$34,609](https://web.archive.org/financial_history.aspx?U=14741#EID76) | [sizzlack](https://web.archive.org/profile/sizzlack)  
-[$33,932](https://web.archive.org/financial_history.aspx?U=8807#EID76) | [Mithra](https://web.archive.org/profile/Mithra)  
-[$32,466](https://web.archive.org/financial_history.aspx?U=14286#EID76) | [supatolacyl](https://web.archive.org/profile/supatolacyl)  
-[$29,216](https://web.archive.org/financial_history.aspx?U=16015#EID76) | [drewhemenway](https://web.archive.org/profile/drewhemenway)  
-[$29,067](https://web.archive.org/financial_history.aspx?U=40692#EID76) | [GrizzlyChdms](https://web.archive.org/profile/GrizzlyChdms)  
-[$28,572](https://web.archive.org/financial_history.aspx?U=14905#EID76) | [misses1112](https://web.archive.org/profile/misses1112)  
-[$27,935](https://web.archive.org/financial_history.aspx?U=35820#EID76) | [Aiden08](https://web.archive.org/profile/Aiden08)  
+[$775,653](https://web.archive.org/financial_history.aspx?U=1046#EID112) | [Sticksta13](https://web.archive.org/profile/Sticksta13)  
+[$746,192](https://web.archive.org/financial_history.aspx?U=2158#EID112) | [RayBan10](https://web.archive.org/profile/RayBan10)  
+[$620,235](https://web.archive.org/financial_history.aspx?U=42327#EID112) | [kcjmac](https://web.archive.org/profile/kcjmac)  
+[$183,497](https://web.archive.org/financial_history.aspx?U=56341#EID112) | [BadMFMike](https://web.archive.org/profile/BadMFMike)  
+[$150,610](https://web.archive.org/financial_history.aspx?U=4515#EID112) | [v1y](https://web.archive.org/profile/v1y)  
+[$125,688](https://web.archive.org/financial_history.aspx?U=6816#EID112) | [pizanne9](https://web.archive.org/profile/pizanne9)  
+[$110,533](https://web.archive.org/financial_history.aspx?U=21348#EID112) | [sbulldavid](https://web.archive.org/profile/sbulldavid)  
+[$106,335](https://web.archive.org/financial_history.aspx?U=873#EID112) | [The_Metal_Maniac](https://web.archive.org/profile/The_Metal_Maniac)  
+[$83,615](https://web.archive.org/financial_history.aspx?U=5925#EID112) | [veryhappytoad](https://web.archive.org/profile/veryhappytoad)  
+[$73,400](https://web.archive.org/financial_history.aspx?U=39789#EID112) | [balrog](https://web.archive.org/profile/balrog)  
+[$65,624](https://web.archive.org/financial_history.aspx?U=57404#EID112) | [SunYue](https://web.archive.org/profile/SunYue)  
+[$64,136](https://web.archive.org/financial_history.aspx?U=31148#EID112) | [gkmnstr](https://web.archive.org/profile/gkmnstr)  
+[$58,592](https://web.archive.org/financial_history.aspx?U=13608#EID112) | [sandiegomma](https://web.archive.org/profile/sandiegomma)  
+[$51,748](https://web.archive.org/financial_history.aspx?U=36873#EID112) | [Chifty](https://web.archive.org/profile/Chifty)  
+[$50,355](https://web.archive.org/financial_history.aspx?U=8846#EID112) | [MarloBlack](https://web.archive.org/profile/MarloBlack)  
   
 MMAPlayground.com has written this privacy policy to demonstrate our commitment to user based internet privacy. The following discloses our info gathering and dissemination practices for MMAPlayground.com. 
 
@@ -56,3 +58,5 @@ We reserve the right to contact site users/visitors concerning account status up
 The aforementioned policy information is effective as of January 11th, 2007. We reserve the right to alter this policy as deemed necesary at any time to ensure the successful administration of this website. By visiting and using the MMAPlayground.com website you are accepting all of the terms and conditions outlined in the above MMAPlayground.com Internet Privacy Policy. 8\. Other We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies visit networkadvertising.org/managing/opt_out.asp. 
 
 | 
+
+[](http://www.sports-at-work.com/)
