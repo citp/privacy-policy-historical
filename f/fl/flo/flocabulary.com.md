@@ -1,40 +1,21 @@
-> *The following text is extracted and transformed from the flocabulary.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602034347id_/http%3A//www.flocabulary.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flocabulary.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125083032id_/http%3A//www.flocabulary.com/privacy-policy) for the most accurate reproduction.*
 
-# Flocabulary's Privacy Policy
+# Flocabulary - Privacy-Policy
 
-| 
+##### Information Collection, Use, and Sharing
 
-###  How do you ensure the security and privacy of my transaction?
+When you fill out an online form or place an order, we may ask you for your name and email address as well as other necessary contact information. We collect only information that you voluntarily give us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order. We will not sell or rent this information to anyone. Unless you ask us not to, we may contact you via email in the future to provide support or tell you about new products or services. You may unsubscribe from these emails at any time.
 
-At Flocabulary, the privacy and security of your personal information is paramount to our success as a company. When making purchases on our website, know that all personal information is collected and stored in a highly secure manner using encryption and secure servers. 
+##### Security
 
-###  Is it safe to use my credit card online?
+We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. 
 
-Yes. Our shopping cart is powered by Yahoo.com, one of the most trusted names in online shopping. Yahoo’s servers are completely secure, and all of your information is fully encrypted. When on a secure page, you will see that the “http” has been replaced with “https.” This indicates that your information is being encrypted and stored securely. 
+Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way.
 
-###  Why should I order online?
+While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information.
 
-Online orders are processed and shipped much faster than orders placed over the phone. Online orders ship out three times per week; phone orders ship weekly. Online orders also provide you with an electronic receipt, the ability to view your order’s shipment status and, where applicable, tracking information. 
+We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes beyond filling your order.
 
-###  What is your return policy?
+##### Cookies
 
-Flocabulary products in resalable condition and accompanied by the original invoice may be returned within 30 days of purchase for a refund or exchange. 
-
-### Do you share my information with other companies?
-
-No. We will never share your information with anyone. 
-
-###  I still have a Question!
-
-If you have a question about our website or require further information, please contact us: 
-
-Flocabulary  
-• Email: info@flocabulary.com  
-• Phone: 1-877-473-3077  
-• Fax: 1-646-514-5853  
-
-
-|  | 
-
-**Flocabulary is backed by Yahoo's industry-standard secure e-commerce system.**  
-[](http://smallbusiness.yahoo.com/ecommerce/)
+We use "cookies" on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.
