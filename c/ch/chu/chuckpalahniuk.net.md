@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chuckpalahniuk.net privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610123514id_/http%3A//chuckpalahniuk.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chuckpalahniuk.net privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125102103id_/http%3A//chuckpalahniuk.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Cult
 
