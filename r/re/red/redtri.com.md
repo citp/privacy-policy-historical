@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redtri.com privacy policy that was archived on 2011-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110208190146id_/http%3A//www.redtri.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtri.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125150330id_/http%3A//www.redtri.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Red Tricycle
 
@@ -8,38 +8,27 @@
 
 ### Editorial policy
 
-Just so you know, our newsletters and blog posts are about stores,  
-products, people, events, restaurants, classes, activities, etc.,  
-that the editors think are neat-o. This content is not paid for.
+Just so you know, our newsletters and blog posts are about stores, products, people, events, restaurants, classes, activities, etc., that the editors think are neat-o. This content is not paid for.
 
-All of our content is local to the five markets we cover – Seattle,  
-San Francisco, Portland, Los Angles and San Diego – so if you have  
-a product or story idea, please make sure it is relevant to those  
-markets (i.e. local distribution).
+All of our content is local to the five markets we cover - Seattle, San Francisco, Portland, Los Angles and San Diego - so if you have a product or story idea, please make sure it is relevant to those markets (i.e. local distribution).
 
-We’re not really into product reviews, so don’t worry about sending us anything besides a press release/product description. We’ll do the rest of the work ourselves (we’re sure you can find tons of sites that want to review your product). Please send your info directly to the most relevant editor. See our team bios [here. ](http://www.redtri.com/team)
+We're not really into product reviews, so don't worry about sending us anything besides a press release/product description. We'll do the rest of the work ourselves (we're sure you can find tons of sites that want to review your product). Please send your info directly to the most relevant editor. See our team bios [here. ](http://www.redtri.com/team)
 
-When you see advertising in the newsletter or on the site, it will  
-be clearly labeled “sponsor,” “sponsored content”  
-or “dedicated email.” Advertisers do not have any extra  
-say in what we cover editorially. Though we love our advertisers,  
-we want our readers to trust that we’re sending them unbiased  
-tidbits of news.
+When you see advertising in the newsletter or on the site, it will be clearly labeled "sponsor," "sponsored content" or "dedicated email." Advertisers do not have any extra  
+say in what we cover editorially. Though we love our advertisers, we want our readers to trust that we're sending them unbiased tidbits of news.
 
 Favorites* is a highly-selective  advertising program that offers ongoing promotion  
-of local businesses that we love and use ourselves. The sponsored  
-content is labeled as such and kept separate from our regular  
-posts.
+of local businesses that we love and use ourselves. The sponsored content is labeled as such.
 
 #### Privacy Policy / Your California Privacy Rights
 
-Thank you for visiting redtri.com, a site presented to you by Red Tricycle Inc. (“Red Tricycle”).
+Thank you for visiting redtri.com, a site presented to you by Red Tricycle Inc. ("Red Tricycle").
 
 Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the collection and use of the personally identifiable information you submit at our site.
 
 #### Information We Collect:
 
-Members of the Red Tricycle community who register can participate in all of our community offerings, which include participating and posting on blogs, in addition to many other activities such as contests, polls and topical newsletters. To become a registered user of our community you need to select a unique user name and password, and we need to collect some personally identifiable information including your email address.
+Members of the Red Tricycle community who register can participate in all of our community offerings, which include participating and posting on blogs, in addition to many other activities such as contests, polls and topical newsletters. To become a registered user of our community we need to collect limited personally identifiable information  (your email address). If you login through Facebook, we may have access to additional information.
 
 We also may collect certain non-personally identifiable information when you visit many of our Web pages such as the type of browser you are using (e.g., Firefox, Internet Explorer), the type of operating system you are using (e.g., Windows or Mac OS), and the domain name of your Internet service provider (e.g., America Online, Earthlink).
 
@@ -63,14 +52,14 @@ Business Transfers
 In the event that the assets relating to Red Tricycle are transferred or sold to another entity, personally identifiable information may be transferred to the acquiring entity.
 
 Online Contests and Sweepstakes  
-Red Tricycle may offer the opportunity to enter contests and sweepstakes. Red Tricycle may ask for information such as your full name, e-mail address, birth date, and in some instances, telephone numbers for certain types of contests. Red Tricycle uses this information for the purpose of conducting the contests and sweepstakes and does not (except as set forth herein) disclose such information to third parties, except with a fulfillment house which Red Tricycle uses to help select winners and fulfill prizes and, in some cases, with third-party sponsors. From time to time, Red Tricycle may offer contests and sweepstakes sponsored by third party businesses and may share with such third party businesses entrant information collected by Red Tricycle. In these types of contests and sweepstakes, ParentsConnect will disclose to potential entrants that such information will be so supplied and the identity of the third party to whom such information will be supplied at the time entrant information is collected and will provide potential entrants with the opportunity to opt out of such third party sponsored contests and sweepstakes. However, any information supplied to a third party may be retained by such third party and will be out of the control of Red Tricycle. Personal information collected online from contests and sweepstakes winners may be maintained by Red Tricycle and may be shared with third parties for fulfillment purposes, as described above, as well as internally.
+Red Tricycle may offer the opportunity to enter contests and sweepstakes. Red Tricycle may ask for information such as your full name, e-mail address, birth date, and in some instances, telephone numbers for certain types of contests. Red Tricycle uses this information for the purpose of conducting the contests and sweepstakes and does not (except as set forth herein) disclose such information to third parties, except with a fulfillment house which Red Tricycle uses to help select winners and fulfill prizes and, in some cases, with third-party sponsors. From time to time, Red Tricycle may offer contests and sweepstakes sponsored by third party businesses and may share with such third party businesses entrant information collected by Red Tricycle. In these types of contests and sweepstakes, Red Tricycle will disclose to potential entrants that such information will be so supplied and the identity of the third party to whom such information will be supplied at the time entrant information is collected and will provide potential entrants with the opportunity to opt out of such third party sponsored contests and sweepstakes. However, any information supplied to a third party may be retained by such third party and will be out of the control of Red Tricycle. Personal information collected online from contests and sweepstakes winners may be maintained by Red Tricycle and may be shared with third parties for fulfillment purposes, as described above, as well as internally.
 
 Special Cases  
 We may also disclose personally identifiable information to third parties in order to comply with law or requests by law enforcement agencies, to enforce our [Terms of Use](http://www.parentsconnect.com/help/terms_of_use.jhtml) or to protect the rights, property, or safety of our website, users of our website, and others.
 
 #### Cookies and Log Data
 
-Cookies are information files that your web browser places on the hard drive of your computer when you visit a website. Cookies cannot damage user files, nor can they read information from a user’s hard drive. Cookies allow websites to “remember” users’ activities on a website as well as users’ visits to a site. At Red Tricycle, cookies are used to determine the number of unique visitors to our website over a given period. We do not store any personal information into cookies nor do we link or combine information collected through cookies to any personal information submitted by users when participating in our activities. Log data collected on web servers both within Red Tricycle control and under the control of Red Tricycle’s third party ad service provider, who is required to maintain such data on a confidential basis, supplies Red Tricycle with aggregate information about the number of visits to different pages on our site. Red Tricycle uses such aggregate information to improve access to our content based on our visitors’ browsers and operating system types to make our content available to as many users as possible. We do not link the “log data” collected to personally identifiable information submitted by users when participating in our activities.
+Cookies are information files that your web browser places on the hard drive of your computer when you visit a website. Cookies cannot damage user files, nor can they read information from a user's hard drive. Cookies allow websites to "remember" users' activities on a website as well as users' visits to a site. At Red Tricycle, cookies are used to determine the number of unique visitors to our website over a given period. We do not store any personal information into cookies nor do we link or combine information collected through cookies to any personal information submitted by users when participating in our activities. Log data collected on web servers both within Red Tricycle control and under the control of Red Tricycle's third party ad service provider, who is required to maintain such data on a confidential basis, supplies Red Tricycle with aggregate information about the number of visits to different pages on our site. Red Tricycle uses such aggregate information to improve access to our content based on our visitors' browsers and operating system types to make our content available to as many users as possible. We do not link the "log data" collected to personally identifiable information submitted by users when participating in our activities.
 
 #### Security
 
@@ -80,7 +69,7 @@ Red Tricycle has taken steps to ensure that personally identifiable information 
 
 Red Tricycle reserves the right, in its sole discretion, to change, modify, or otherwise alter this Privacy Policy at any time. Such changes and/or modifications shall become effective immediately upon the posting thereof in this space. Please review this Privacy Policy periodically. Your continued use of the Site following the posting of changes and/or modifications will constitute your acceptance of the revised Privacy Policy.
 
-For your information, this page was last updated on Sept 14, 2008.
+For your information, this page was last updated on Sept 14, 2010.
 
 #### Contact Us
 
