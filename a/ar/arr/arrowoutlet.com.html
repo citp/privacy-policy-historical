@@ -1,82 +1,65 @@
-<!--The following is the downloaded HTML source of the arrowoutlet.com privacy policy that was archived on 2010-10-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101030011222id_/http%3A//arrowoutlet.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the arrowoutlet.com privacy policy that was archived on 2011-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111125054250id_/http%3A//www.arrowoutlet.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script> 
+	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
-    <script type="text/javascript">
+	<script type="text/javascript">
 		var page = '';
 					var logged_in = 0;
 			</script>
-    <script type="text/javascript" src="/js/jquery-1.4.1.min.js"></script>
-    <script type="text/javascript" src="/js/jquery.cookie.js"></script>
-    <script type="text/javascript" src="/js/jquery.inputhint.js"></script>
-    <link type="text/css" href="/css/ui-lightness/jquery-ui-1.7.2.custom.css" rel="stylesheet">
-    <link type="text/css" href="/css/jqModal.css" rel="stylesheet">
-    <link type="text/css" href="/css/screen.css?v=20101026" rel="stylesheet">
-    <script type="text/javascript" src="/js/jquery-ui-1.8rc3.custom.min.js"></script>
-    <script type="text/javascript" src="/js/display.js"></script>
-    <script type="text/javascript" src="/js/timer.js"></script>
-    <script type="text/javascript" src="/js/ajax.js"></script>
-    <script type="text/javascript" src="/js/jqModal.js"></script>	
-     <!--[if lt IE 7]>
-<script src="/js/IE7.js"></script>
+
+	<link type="text/css" rel="stylesheet" href="/css/public_all.css?v=1315833227">
+
+	<script type="text/javascript" src="/js/jquery_all.js?v=1314040362"></script>
+
+	<script type="text/javascript" src="/js/public_all.js?v=1315833226"></script>
+
+	<!--[if lt IE 7]><script type="text/javascript" src="/js/IE7.js?v=1291659534"></script>
+<![endif]-->
+	<!--[if lt IE 8]><script type="text/javascript" src="/js/IE8.js?v=1291659535"></script>
 <![endif]-->
 
-<!--[if lt IE 8]>
-<script src="/js/IE8.js"></script>
-<![endif]-->
     <title>Arrowoutlet.com -- The Premier Technology Discount Site - </title>
 </head>
 
-<body bgcolor="#ffffff" onmousemove="Activity();" onkeydown="Activity();">
+<body bgcolor="#ffffff">
 
 <div id="nav">
 	<a id="home_logo" href="/"></a>
 	<div id="nav_links">	<ul class="nav">
 		<li><a class="home_nav" href="/">HOME</a></li>
-		<li><a class="auctions_nav" href="/all_auctions">auctions</a></li>
-
-		<li><a class="winners_nav" href="/ended">Featured winners</a></li>
-		<li><a class="register_nav" href="/tutorial">About Us</a></li>
-		<li><a href="/about_us" class="help_nav">Tutorial</a></li>
+		<li><a class="auctions_nav" href="/all_auctions">All Auctions</a></li>
+		<li><a class="ended_nav" href="/ended">Ended Auctions</a></li>
+		<li><a class="tutorial_nav" href="/tutorial">Tutorial</a></li>
+		<li><a class="about_us_nav" href="/about_us">About us</a></li>
 	</ul>
 </div>
 	<div id="login_reg_div">
 
 		<ul class="login_nav_container" id="login_nav_container">
-			<li><a id="login_nav" class="login_nav_active" href="#" onclick="show_login();  return false;">HOME</a></li>
-<li><a id="reg_nav" class="reg_nav_inactive" href="#" onclick="show_reg(); return false;">HOME</a></li>
-
+				<li><a id="login_nav" class="login_nav_active" href="#" onclick="show_login();  return false;">Login</a></li>
+	<li><a id="reg_nav" class="reg_nav_inactive" href="/signup">SignUp</a></li>
 		</ul>
 
-		<div id="login_div" style="display: none;" onkeypress="checkEnter(event, 'login')">
+		<div id="login_div" style="display: none;" onkeypress="checkEnter(event)">
 			<input id="username_login" style="margin-top: 12px;" title="Username" type="text" name="username" class="defaultTextActive">
 			<input id="password_login" title="Password" type="text" name="password" class="defaultTextActive">
 			<div class="login" onclick="login(); return false;"></div>
-			<a href="#" class="cancel_login" onclick="close_tabs();  return false;">Cancel</a>
+			<a href="#" class="cancel_login" onclick="$('#login_div').hide(); return false;">Cancel</a>
 			<a href="/login" class="forgot_login">Forgot your password?</a>
 		</div>
 
-		<div id="reg_div" style="display: none;" onkeypress="checkEnter(event, 'reg')">
-        
-        <form method="POST" action="/signup/" id="signup" name="signup">
-            <input type="hidden" name="action" value="create">
-			<input id="username_reg" style="margin-top: 12px;" title="Username (max 18 characters)" type="text" name="username" class="defaultTextActive">
-			<input id="email_reg" title="Email" type="text" name="email" class="defaultTextActive">
-			<input id="password_reg" title="Password" type="text" name="password" class="defaultTextActive">
-			<input id="cfm_password_reg" title="Repeat Password" type="text" name="confirm_pass" class="defaultTextActive">
-			<div class="reg_btn" onclick="document.signup.submit();"></div>
-			<a href="#" class="cancel_reg" onclick="close_tabs();  return false;">Cancel</a>
-        </form>
-		</div>
 	</div>
 </div>
 
 	<div id="user_bar_container"><div id="top_border"></div>
 </div>
 <div class="content_body">
+
+	
+	
 <div class="blue_header"><div class="blue_header_text">PRIVACY POLICY</div></div>
 
 <div class="cur_auction_container" id="help_content">	
@@ -154,10 +137,13 @@
 	</div>
 
 	<div id="footer_3">
-		© 2010 ArrowOutlet. All Rights Reserved.<br>
-		<a href="/help_payment#secure_payment"><img align="right" src="/imgs/footer_image.gif" border="0"></a>
+		© 2011 ArrowOutlet. All Rights Reserved.<br>
+		<a href="/help#payment_secure_payment"><img align="right" src="/imgs/footer_image.gif?v=2" border="0"></a>
 	</div>
 </div>
+
+
+
 
 <div id="dialog" class="jqmWindow jqmID1" style="display: none;">
 	<center><h1>Are you still there?</h1></center>
@@ -178,10 +164,10 @@
 <div id="dialogBidLargeItem" class="jqmWindow dialogWarning jqmID3" style="display: none;">
 	<div class="dialogTop">
 		<p class="p1">We noticed that you just bid on a big item.</p>
-		<p class="highlight">We strongly recommend starting out with a cheaper item.</p>
+		<p class="highlight">We strongly recommend starting out with a beginner auction.</p>
 		<p class="p2">They're easier to win, and with more experience, you'll be more likely to win the big prize.</p>
-		<p>In fact, users who win a small item first <span class="large">have a 70% better chance</span> of winning later.</p>
-		<p>So go ahead, try to win a small bidpack, gift card, and any of our smaller items first.</p>
+		<p>In fact, users who win a beginner auction first <span class="large">have a 70% better opportunity</span> of winning later.</p>
+		<p>So go ahead, try to win a beginner auction, small bidpack, gift card, and any of our smaller items first.</p>
 		<p><span class="large">Happy bidding!</span></p>
 	</div>
 	<div class="dialogBottom">
@@ -191,12 +177,20 @@
 </div>
 
 
+<div id="dialogBeginnerAuctionExplanation" class="jqmWindow jqmID4" style="display: none;">
+		<div class="jqmClose"></div>
+</div>
+
+
+
 <script>
 	$(document).ready(function(){
-		init_text();
+		ini_textbox('username_login',false);
+		ini_textbox('password_login',true);
 		$('#dialog').jqm();
 		$('#dialogLevelUp').jqm();
 		$('#dialogBidLargeItem').jqm();
+		$('#dialogBeginnerAuctionExplanation').jqm();
 	});
 </script>
 
@@ -206,11 +200,21 @@
 	var is_landing_page = false;
 </script>
 
+
+
+
+
+
+
+
+
+<iframe style="display:none" width="0" height="0" src="https://www.cuedailydeals.com/tracking2.html"></iframe>
+
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
 <script type="text/javascript">
 try {
 var pageTracker = _gat._getTracker("UA-15570789-1");
@@ -218,10 +222,11 @@ pageTracker._setDomainName("none");
 pageTracker._setAllowLinker(true);
 pageTracker._trackPageview();
 } catch(err) {}
-
 </script> 
 
 
+
+<!-- Chartbeat -->
 <script type="text/javascript"> 
 var _sf_async_config={uid:9757,domain:"arrowoutlet.com"};
 (function(){
@@ -241,6 +246,79 @@ var _sf_async_config={uid:9757,domain:"arrowoutlet.com"};
 })();
  
 </script> 
+
+
+
+<!-- Google Code for Test list Remarketing List -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1020291371;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "4GsMCJOZyAEQq9LB5gM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1020291371/?label=4GsMCJOZyAEQq9LB5gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+
+
+<!-- Remarketing -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1020291371;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "4GsMCJOZyAEQq9LB5gM";
+var google_conversion_value = 0;
+/* ]]> */
+</script>
+
+
+<img src="/tracking/retargetting">
+<img src="http://ad.yieldmanager.com/pixel?id=1073579&amp;t=2" width="1" height="1">
+
+<script type="text/javascript">var SWJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");document.write(unescape("%3Cscript src='" + SWJsHost + "pixel.adbuyer.com/landing?id=8208' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://pixel.adbuyer.com/landing?id=8208" type="text/javascript"></script><noscript><img height='1' width='1' src='http://pixel.adbuyer.com/landing?id=8208&noscript=1'/></noscript>
+
+
+	
+	<!-- Google Code for StayingVisitor Remarketing List -->
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 1020291371;
+	var google_conversion_language = "en";
+	var google_conversion_format = "3";
+	var google_conversion_color = "666666";
+	var google_conversion_label = "3iDWCIPmhAIQq9LB5gM";
+	var google_conversion_value = 0;
+	/* ]]> */
+	</script>
+	<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+	</script>
+	<noscript>
+	<div style="display:inline;">
+	<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1020291371/?label=3iDWCIPmhAIQq9LB5gM&amp;guid=ON&amp;script=0"/>
+	</div>
+	</noscript>
+	
+
+
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1020291371/?label=4GsMCJOZyAEQq9LB5gM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
 
 
