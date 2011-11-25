@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boards2go.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514231655id_/http%3A//boards2go.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boards2go.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125023302id_/http%3A//boards2go.com/privacy.html) for the most accurate reproduction.*
 
 # Boards2Go.com - Free Hosted Message Boards For Webmasters
 
@@ -41,7 +41,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 http://boards2go.com  
-538 W 50th. St. Suite #3B  
-New York, New York 10019  
+25 Avenue at Port Imperial  
+Unit #1120  
+West New York, NJ 07093  
 joseph.shin@boards2go.com  
 
