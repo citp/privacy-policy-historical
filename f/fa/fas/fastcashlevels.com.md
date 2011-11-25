@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastcashlevels.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221114641id_/http%3A//fastcashlevels.com/privacy.php%3Fr%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastcashlevels.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125143811id_/http%3A//fastcashlevels.com/privacy.php%3Fr%3D) for the most accurate reproduction.*
 
 # Fast Cash Payments Unlimited Levels Deep
 
