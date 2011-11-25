@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findmypast.com.au privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620193807id_/http%3A//www.findmypast.com.au/content.page/fmpau_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmypast.com.au privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125011843id_/http%3A//www.findmypast.com.au/content/fmpau_privacy_policy) for the most accurate reproduction.*
 
 # Research your family tree and Genealogy | Family History Records | findmypast.com.au
 
@@ -29,6 +29,8 @@ For the avoidance of doubt, the definitions listed in the Sets of Conditions (be
 This Privacy Policy forms part of our Sets of Conditions and covers our treatment of Personal Information we collect or hold about individuals. We recognise the right of individuals to keep their Personal Information private within the scope of applicable law. By accepting any one or more of our Sets of Conditions, you consent to our collection, use and transfer of your Personal Information as outlined in this Privacy Policy. 
 
 **1.       Definitions**
+
+| 
 
 Terms and Conditions
 
@@ -151,14 +153,10 @@ We may automatically send Administrative emails when you take certain actions su
 
 8.2    If you have any questions about your Personal Information, this Privacy Policy, practices of this Website or your dealings with this Website, please contact:-
 
-bright **solid** online publishing limited (trading as findmypast.com.au)  
+bright **solid** online publishing Australasia Pty Ltd.   
 
 
-38-41 Fourth Floor  
-199 Bishopsgate  
-London  
-EC2M 3TY  
-United Kingdom  
+Registered in Australia, company registration numbers ACN 149 492 688, ABN 97 149 492 6. Registered company address: c/o Hayes Knight (NSW) Pty Ltd, Level 2, 115 Pitt St, Sydney, NSW 2000, Australia;  
 
 
 Email: [support@findmypast.com.au](mailto:support@findmypast.com.au)
