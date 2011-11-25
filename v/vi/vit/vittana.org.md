@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vittana.org privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630230554id_/http%3A//www.vittana.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vittana.org privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125124654id_/http%3A//www.vittana.org/privacy) for the most accurate reproduction.*
 
 # Vittana | Privacy Policy
 
@@ -63,4 +63,4 @@ Most Web browsers are set to accept cookies by default. If you prefer, you can u
 
 ### Questions?
 
-If you have any questions about this Policy, please contact us at [questions@vittana.org](mailto:questions@vittana.org)
+If you have any questions about this Policy, please [contact us](http://community.vittana.org/). 
