@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linxdown.org privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419172905id_/http%3A//www.linxdown.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linxdown.org privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125125654id_/http%3A//www.downlinx.net/privacy_policy.html) for the most accurate reproduction.*
 
-# LinxDown.Org Privacy Policy Fileserve Rapidshare Hotfile Torrents & Megaupload Links - LinxDown.Org
+# LinxDown.Org Privacy Policy Full Downloads - DownLinx.Net
 
 LinxDown.Org **Privacy Policy**
 
