@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wtfnews.org privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622212957id_/http%3A//www.wtfnews.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtfnews.org privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125084403id_/http%3A//www.wtfnews.org/privacy) for the most accurate reproduction.*
 
-# Privacy « WTF News - Daily news by WTF people.
+# Privacy « WTF News - WTF Funny News by WTF People
 
 **What information do we collect?**
 
