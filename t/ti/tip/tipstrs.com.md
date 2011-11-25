@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tipstrs.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503180541id_/http%3A//www.tipstrs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipstrs.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125092139id_/http%3A//www.tipstrs.com/privacy) for the most accurate reproduction.*
 
 # tipstrs Privacy Policy
 
