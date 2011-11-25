@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catchannel.com privacy policy that was archived on 2011-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110213123417id_/http%3A//www.catchannel.com/corporate/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchannel.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125054245id_/http%3A//www.catchannel.com/corporate/privacy.aspx) for the most accurate reproduction.*
 
 # CatChannel.com
 
@@ -84,11 +84,11 @@ Posted: 3/26/2009 10:20:30 PM**
   
 ---  
   
-In the contest (under your tab for contests) for most colorful there's an entry of a Maine coon called Bob Cat.   
-It was entered in the contest late last night. He had 51 votes almost immediately.   
-When the siamese call Ollie started to get close to the 51 votes Bob Cat had the total went almost immediately again (within 1 hour) to 101. I think the owner is Stacking the vote. (possibly by using fakes email addresses)   
-Please investigate it's not fair.   
-Thank you,   
+In the contest (under your tab for contests) for most colorful there's an entry of a Maine coon called Bob Cat.  
+It was entered in the contest late last night. He had 51 votes almost immediately.  
+When the siamese call Ollie started to get close to the 51 votes Bob Cat had the total went almost immediately again (within 1 hour) to 101. I think the owner is Stacking the vote. (possibly by using fakes email addresses)  
+Please investigate it's not fair.  
+Thank you,  
 Kenneth Buck
 
 **Kenneth Buck, Clearwater, FL  
