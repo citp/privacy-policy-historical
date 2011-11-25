@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionbombdaily.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627051516id_/http%3A//fashionbombdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionbombdaily.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125110515id_/http%3A//fashionbombdaily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « The Fashion Bomb Blog /// All Urban Fashion… All the Time - All Urban Fashion // All the Time
 
