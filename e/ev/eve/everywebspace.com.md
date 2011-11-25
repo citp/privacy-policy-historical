@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everywebspace.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623183145id_/http%3A//everywebspace.com/terms-of-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everywebspace.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125041632id_/http%3A//everywebspace.com/terms-of-service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EveryWebspace
 
