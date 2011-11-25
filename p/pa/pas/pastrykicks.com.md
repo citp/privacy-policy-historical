@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pastrykicks.com privacy policy that was archived on 2011-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110124170913id_/http%3A//www.lovepastry.com/privacy-policy/info_34.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pastrykicks.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125061312id_/http%3A//www.lovepastry.com/document/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Official Pastry Shoes by Vanessa and Angela Simmons. Check out new Pastry friends Jessica Jarrell and Cody Simpson!
 
