@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgesaver.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624042236id_/http%3A//www.pg.com/privacy/english/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgesaver.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125173153id_/http%3A//www.pg.com/privacy/english/privacy_statement.html) for the most accurate reproduction.*
 
 # P&G Privacy Statement
 
