@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advanced-web-metrics.com privacy policy that was archived on 2011-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110421214927id_/http%3A//www.advanced-web-metrics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advanced-web-metrics.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125125015id_/http%3A//www.advanced-web-metrics.com/privacy.php) for the most accurate reproduction.*
 
 # Advanced Web Metrics Privacy Policy
 
