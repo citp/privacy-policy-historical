@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the british-car-auctions.co.uk privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610051618id_/http%3A//www.british-car-auctions.co.uk/Default.aspx%3Fpage%3D11482) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the british-car-auctions.co.uk privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125074447id_/http%3A//www.british-car-auctions.co.uk/Default.aspx%3Fpage%3D11482) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,5 +44,39 @@ You should be aware that when you are on the BCA web site, you could be directed
 
 ## Security
 
-Protecting the security of all personally-identifiable information associated with our guests is of the utmost concern to us. Once we receive your transmission, we will take reasonable precautions to ensure its security on our systems. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we take all reasonable steps to ensure the security of our users' personal information and maintain their privacy, we cannot  
+Protecting the security of all personally-identifiable information associated with our guests is of the utmost concern to us. Once we receive your transmission, we will take reasonable precautions to ensure its security on our systems. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we take all reasonable steps to ensure the security of our users' personal information and maintain their privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of such personal information.
 
+## Privacy Policy for Minors
+
+BCA does not knowingly collect information from children. If you are under 13, please do not provide any personal information to us.
+
+## The List Owner (the Data Controller)
+
+The List Owner and Data Controller is British Car Auctions Ltd, Headway House, Crosby Way, Farnham, Surrey  GU9 7XG. [www.bca-europe.com](http://www.bca-europe.com/)
+
+### Access to your own data
+
+To be provided with a copy of your own personal data that we collect online and maintain in our database, and to contest and correct inaccuracies, or request that your personal data be deleted, please send an e-mail and we will action your request. To unsubscribe BCA email communications please email us at [news@bca-group.com](mailto:news@bca-group.com) with "Unsubscribe" in the subject, and we will take you off the list.
+
+## Your Acceptance of the Terms of this Privacy Policy
+
+By using this site, you signify your assent to the BCA Privacy Policy. If you do not agree to this policy, please do not use this site. The terms of this Privacy Policy may change from time to time without prior notice to you, so please check this page periodically for any changes. Your continued use of this site following the posting of changes to these terms will mean you accept those changes.
+
+Disclaimer and Legal Notice  
+The following are the terms and conditions of use of this website and its services. If you do not accept these conditions, you must not use this website or services.
+
+The content on this website is provided 'as is', and British Car Auctions Ltd ('BCA') gives no representation or warranty as to the accuracy of the content and assumes no responsibility for errors or omissions in it or the effect it has upon your computer. This site includes links to other sites on the Internet. BCA cannot vouch for the suitability or accuracy of the content of those sites and so you use them at your own risk. Any references to linked sites or to third-party companies, products or services by name does not constitute or infer its endorsement by BCA.
+
+The information available on the site might from time to time be incomplete, out of date or inaccurate. BCA reserves the right at any time and without prior notice to make changes and corrections to the material on the site or to make parts or all of this site unavailable at any time without notice.
+
+BCA disclaims all liability in respect of all information and its provision, and shall not be liable for any loss or damages suffered as a result of any use of the site. Although BCA aims to keep it up-to-date, it do not guarantee its accuracy. BCA does try to make this site as useful as possible, none of the material it contains is professional advice or a substitute for it, and can not be relied upon as such.
+
+Unless specified to the contrary, the contents of this website and these pages are protected by copyright. The authors and creators of the material on the website assert their moral rights. The BCA, BCA Direct, Auction View, Commercial Auction View, BCA Smart Prepared, BCA Live Online and all other BCA product and/or service logos and contents of this website (including text, design and graphics) are trademarked and copyrighted materials of BCA. All rights are reserved. They may not be used, transmitted or reproduced unless in accordance with prior written instructions issued by BCA. No use, transmission or reproduction is permitted other than the following:
+
+Permission is given for the downloading and temporary storage of pages where indicated on such pages, for the sole purpose of individual viewing on a standalone PC or monitor. Such pages may be printed, but these may not be further reproduced, copied or transmitted in any way to those other than the initial individual user. You may not reproduce any other part of the website including, but not limited to, the structure, overall style and program code.
+
+These conditions of use are governed by English law and any dispute connected with this site is subject to the exclusive jurisdiction of the English courts. BCA may change these conditions of use from time to time. You will be bound by changes even if you do not re-visit this page to re-read this notice.  
+Please note that these are BCA's terms and conditions of use and if you do not accept these conditions, you must not use this website or services.
+
+  British Car Auctions Ltd  
+Privacy Policy & Legal Notice - Version 1.1 01.07.2008
