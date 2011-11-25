@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dextronet.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527232627id_/http%3A//www.dextronet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dextronet.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125213757id_/http%3A//www.dextronet.com/privacy-policy) for the most accurate reproduction.*
 
 # Dextronet Privacy Policy
 
@@ -33,6 +33,15 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 ## How You Can Access Or Correct Your Information
 
 You can access or correct all your personally identifiable information that we collect online and maintain by contacting us.
+
+## Our physical address
+
+Our physical address is:
+
+Jiri Novotny  
+Boreticka 6  
+62800 Brno  
+Czech Republic
 
 ## How To Contact Us
 
