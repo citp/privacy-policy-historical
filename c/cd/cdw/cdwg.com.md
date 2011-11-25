@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdwg.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526150520id_/http%3A//www.cdwg.com/content/terms-conditions/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdwg.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125041252id_/http%3A//www.cdwg.com/content/terms-conditions/privacy-policy.asp) for the most accurate reproduction.*
 
 # Terms and Conditions - Privacy Policy
 
