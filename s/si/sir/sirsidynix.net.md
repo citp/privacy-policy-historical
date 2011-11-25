@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sirsidynix.net privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606103322id_/http%3A//www.sirsidynix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sirsidynix.net privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125193132id_/http%3A//www.sirsidynix.com/privacy) for the most accurate reproduction.*
 
 # Privacy | SirsiDynix
 
