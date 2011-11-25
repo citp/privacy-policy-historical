@@ -1,350 +1,696 @@
-<!--The following is the downloaded HTML source of the acoollink.com privacy policy that was archived on 2010-04-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100416090814id_/http%3A//www.acoollink.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the acoollink.com privacy policy that was archived on 2011-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111125125715id_/http%3A//www.acoollink.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
+
 <title>Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="Description" content="ACoolLink.com privacy policy">
-<meta name="Keywords" content="privacy policy">
+<link rel="stylesheet" type="text/css" href="http://www.acoollink.com/wp-content/themes/aperture/960.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.acoollink.com/wp-content/themes/aperture/style.css" media="screen">
 
+<!--[if IE 6]>
+<script type="text/javascript" src="http://www.acoollink.com/wp-content/themes/aperture/includes/js/pngfix.js"></script>
+<![endif]--> 
 
-<link rel="canonical" href="http://www.acoollink.com/privacy-policy.html">
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="http://www.acoollink.com/wp-content/themes/aperture/ie.css" />
+<script type="text/javascript" src="http://www.acoollink.com/wp-content/themes/aperture/includes/js/menu.js"></script>
+<![endif]-->
 
-<script language="JavaScript" type="text/javascript">
-<!--
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.acoollink.com/feed/">
+<link rel="shortcut icon" href="http://www.acoollink.com/wp-content/themes/aperture/favicon.ico">
 
-function MM_swapImgRestore() 
-{
-    var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+//<![CDATA[
+var BrowserDetect = {
+init: function () {
+this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
+this.version = this.searchVersion(navigator.userAgent)|| this.searchVersion(navigator.appVersion)|| "an unknown version";
+this.OS = this.searchString(this.dataOS) || "an unknown OS";
+},
+searchString: function (data) {
+for (var i=0;i<data.length;i++)	{
+        var dataString = data[i].string;
+        var dataProp = data[i].prop;
+        this.versionSearchString = data[i].versionSearch || data[i].identity;
+        if (dataString) {if (dataString.indexOf(data[i].subString) != -1)
+                return data[i].identity;}
+        else if (dataProp){return data[i].identity;}
 }
+},
+searchVersion: function (dataString) {
+var index = dataString.indexOf(this.versionSearchString);
+if (index == -1) return;
+return parseFloat(dataString.substring(index+this.versionSearchString.length+1));
+},
+dataBrowser: [
+        {string: navigator.userAgent,subString: "Chrome",identity: "Chrome"},
+        {string: navigator.userAgent,subString: "OmniWeb",versionSearch: "OmniWeb/",identity: "OmniWeb"},
+        {string: navigator.vendor,subString: "Apple",identity: "Safari",versionSearch: "Version"},
+        {prop: window.opera,identity: "Opera"},
+        {string: navigator.vendor,subString: "iCab",identity: "iCab"},
+        {string: navigator.vendor,subString: "KDE",identity: "Konqueror"},
+        {string: navigator.userAgent,subString: "Firefox",identity: "Firefox"},
+        {string: navigator.vendor,subString: "Camino",identity: "Camino"},
+        {string: navigator.userAgent,subString: "Netscape",identity: "Netscape"},
+        {string: navigator.userAgent,subString: "MSIE",identity: "Explorer",versionSearch: "MSIE"},
+        {string: navigator.userAgent,subString: "Gecko",identity: "Mozilla",versionSearch: "rv"},
+        {string: navigator.userAgent,subString: "Mozilla",identity: "Netscape",versionSearch: "Mozilla"}],
+dataOS:[{string: navigator.platform,subString: "Win",identity: "Windows"},
+        {string: navigator.platform,subString: "Mac",identity: "Mac"},
+        {string: navigator.userAgent,subString: "iPhone",identity: "iPhone/iPod"},
+        {string: navigator.platform,subString: "Linux",identity: "Linux"}]
+};
+BrowserDetect.init();
 
-function MM_preloadImages() 
-{
-    var d=document; 
-    if(d.images)
-    { 
-	if(!d.MM_p) d.MM_p=new Array();
-	var i,j=d.MM_p.length,a=MM_preloadImages.arguments; 
-	for(i=0; i<a.length; i++)
-	    if (a[i].indexOf("#")!=0)
-	    { 
-		d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];
-	    }
+function bookMark(theurl, thetitle, browser){
+    switch(browser){
+        case "Firefox":
+            window.sidebar.addPanel(thetitle, theurl,"");
+            break;
+        case "Explorer":
+            window.external.AddFavorite( theurl, thetitle);
+            break;
+        case "Chrome":
+        case "Safari":
+        case "Opera":
+        case "Netscape":
+            switch(BrowserDetect.OS){
+            case "Windows":
+            case "Linux":
+            alert('press ctrl+D to bookmark this page');
+            break;
+            case "Mac":
+                alert('press cmd+D to bookmark this page');
+            break;
+            }
+            break;
     }
 }
-
-function MM_swapImage() 
-{
-    var i,j=0,x,a=MM_swapImage.arguments; 
-    document.MM_sr=new Array; 
-    for(i=0;i<(a.length-2);i+=3)
-	if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-
-function MM_openBrWindow(theURL,winName,features) 
-{
-    window.open(theURL,winName,features);
-}
-
-function MM_findObj(n, d) 
-{
-    var p,i,x;  
-    if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) 
-    {
-	d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);
-    }
-    if(!(x=d[n])&&d.all) 
-	x=d.all[n]; 
-    for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-    for(i=0;!x&&d.layers&&i<d.layers.length;i++) 
-	x=MM_findObj(n,d.layers[i].document);
-    if(!x && d.getElementById) 
-	x=d.getElementById(n); 
-    return x;
-			
-}
-//-->
+//]]>
 </script>
+                        <style type="text/css" media="screen">
+                                .socialwrap li.icon_text a img, .socialwrap li.iconOnly a img, .followwrap li.icon_text a img, .followwrap li.iconOnly a img{border-width:0 !important;background-color:none;}#follow.right {width:32px;position:fixed; right:0; top:100px;background-color:#878787;padding:10px 0;font-family:impact,charcoal,arial, helvetica,sans-serif;-moz-border-radius-topleft: 5px;-webkit-border-top-left-radius:5px;-moz-border-radius-bottomleft:5px;-webkit-border-bottom-left-radius:5px;border:2px solid #fff;border-right-width:0}#follow.right ul {padding:0; margin:0; list-style-type:none !important;font-size:24px;color:black;}
+#follow.right ul li {padding-bottom:10px;list-style-type:none !important;padding-left:4px;padding-right:4px}
+#follow img{border:none;}#follow.right ul li.follow {margin:0 4px;}
+#follow.right ul li.follow img {border-width:0;display:block;overflow:hidden; background:transparent url(http://www.acoollink.com/wp-content/plugins/share-and-follow/images/impact/follow-right.png) no-repeat -0px 0px;height:79px;width:20px;}
+#follow.right ul li a {display:block;}
+#follow.right ul li.follow span, #follow ul li a span {display:none}.share {margin:0 3px 3px 0;}
+.phat span {display:inline;}
+ul.row li {float:left;list-style-type:none;}
+li.iconOnly a span.head {display:none}
+#follow.left ul.size16 li.follow{margin:0px auto !important}
+li.icon_text a {padding-left:0;margin-right:3px}
+li.text_only a {background-image:none !important;padding-left:0;}
+li.text_only a img {display:none;}
+li.icon_text a span{background-image:none !important;padding-left:0 !important; }
+li.iconOnly a span.head {display:none}
+ul.socialwrap li {margin:0 3px 3px 0 !important;}
+ul.socialwrap li a {text-decoration:none;}ul.row li {float:left;line-height:auto !important;}
+ul.row li a img {padding:0}.size16 li a,.size24 li a,.size32 li a, .size48 li a, .size60 li a {display:block}ul.socialwrap {list-style-type:none !important;margin:0; padding:0;text-indent:0 !important;}
+ul.socialwrap li {list-style-type:none !important;background-image:none;padding:0;list-style-image:none !important;}
+ul.followwrap {list-style-type:none !important;margin:0; padding:0}
+ul.followwrap li {margin-right:3px;margin-bottom:3px;list-style-type:none !important;}
+#follow.right ul.followwrap li, #follow.left ul.followwrap li {margin-right:0px;margin-bottom:0px;}
+.shareinpost {clear:both;padding-top:0px}.shareinpost ul.socialwrap {list-style-type:none !important;margin:0 !important; padding:0 !important}
+.shareinpost ul.socialwrap li {padding-left:0 !important;background-image:none !important;margin-left:0 !important;list-style-type:none !important;text-indent:0 !important}
+.socialwrap li.icon_text a img, .socialwrap li.iconOnly a img{border-width:0}ul.followrap li {list-style-type:none;list-style-image:none !important;}
+div.clean {clear:left;}
+div.display_none {display:none;}
+                        </style>
+                                                <style type="text/css" media="print">
+                                body {background: white;font-size: 12pt;color:black;}
+ * {background-image:none;}
+ #wrapper, #content {width: auto;margin: 0 5%;padding: 0;border: 0;float: none !important;color: black;background: transparent none;}
+ a { text-decoration : underline; color : #0000ff; }
+#menu, #navigation, #navi, .menu {display:none}
+                        </style>
+                        <link rel="image_src" href="http://www.gravatar.com/avatar/f9974acc35177d25123555360f17349a?default=&amp;size=110.jpg"> 
+				
+	<script type="text/javascript">//<![CDATA[
+	// Google Analytics for WordPress by Yoast v4.2.2 | http://yoast.com/wordpress/google-analytics/
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount','UA-15835665-11']);
+	_gaq.push(['_trackPageview'],['_trackPageLoadTime']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+	//]]></script>
+<link rel="alternate" type="application/rss+xml" title="A Cool Link » Privacy Policy Comments Feed" href="http://www.acoollink.com/privacy-policy/feed/">
+<link rel="stylesheet" id="sociablecss-css" href="http://www.acoollink.com/wp-content/plugins/sociable/css/sociable.css?ver=7684" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://www.acoollink.com/wp-content/plugins/contact-form-7/styles.css?ver=3.0.1" type="text/css" media="all">
+<script type="text/javascript" src="http://www.acoollink.com/wp-includes/js/l10n.js?ver=20101110"></script>
+<script type="text/javascript" src="http://www.acoollink.com/wp-includes/js/jquery/jquery.js?ver=1.6.1"></script>
+<script type="text/javascript" src="http://www.acoollink.com/wp-content/plugins/sociable/js/sociable.js?ver=3.2.1"></script>
+<script type="text/javascript" src="http://www.acoollink.com/wp-content/plugins/sociable/js/addtofavorites.js?ver=3.2.1"></script>
+<script type="text/javascript" src="http://www.acoollink.com/wp-includes/js/jquery/ui.core.js?ver=1.8.12"></script>
+<script type="text/javascript" src="http://www.acoollink.com/wp-includes/js/jquery/ui.widget.js?ver=1.8.12"></script>
+<script type="text/javascript" src="http://www.acoollink.com/wp-includes/js/jquery/ui.tabs.js?ver=1.8.12"></script>
+<script type="text/javascript" src="http://www.acoollink.com/wp-content/themes/aperture/functions/js/shortcodes.js?ver=1"></script>
+<script type="text/javascript" src="http://www.acoollink.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<script type="text/javascript" src="http://www.acoollink.com/wp-content/themes/aperture/includes/js/scripts.js?ver=3.2.1"></script>
+<script type="text/javascript" src="http://www.acoollink.com/wp-content/themes/aperture/includes/js/superfish.js?ver=3.2.1"></script>
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.acoollink.com/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="A Cool Link" href="http://www.acoollink.com/">
+<link rel="start" title="Cats In Unusual Situations With Funny Captions" href="http://www.acoollink.com/snipit-videos-funny-cats/">
+<link rel="prev" title="The Story Behind Rocky" href="http://www.acoollink.com/story-rocky/">
+<link rel="next" title="Disclaimer" href="http://www.acoollink.com/disclaimer-2/">
+<link rel="shortlink" href="http://www.acoollink.com/?p=3713">
 
-<script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_displayStatusMsg(msgStr) { //v1.0
-  status=msgStr;
-  document.MM_returnValue = true;
-}
-//-->
-</script>
+<!-- All in One SEO Pack - Pro Version 1.72 by Michael Torbert of Semper Fi Web Designob_start_detected [-1,-1] -->
+<meta name="description" content="We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use ACoolLink.com / A Cool">
+<meta name="keywords" content="privacy policy">
+<link rel="canonical" href="http://www.acoollink.com/privacy-policy/">
+<!-- /all in one seo pack Pro Version-->
 
 
+<!-- External links open in a new window. Plugin by Kristian Risager Larsen, http://kezze.dk . Download it at http://wordpress.org/extend/plugins/open-external-links-in-a-new-window/ -->
+<script type="text/javascript">//<![CDATA[
+	function makeNewWindows() {
+		if (!document.links) {
+			document.links = document.getElementsByTagName('a');
+		}
 
-<style type="text/css">
-
-body {
-	background-image:url(http://www.acoollink.com/imgs/backimage.gif);
-	background-position:top left;
-	background-color:#fff;
+		for (var t=0; t<document.links.length; t++) {
+			var all_links = document.links[t];
+			if (all_links.href.search(/^http/) != -1) { // Catches both http and https
+		  	  if (all_links.href.search('/www.acoollink.com/') == -1 && document.links[t].hasAttribute('onClick') == false) {
+		    	document.links[t].setAttribute('onClick', 'javascript:window.open(\''+all_links.href+'\'); return false;');
+		    	document.links[t].removeAttribute('target');
+		    }
+		  }
+		}
 	}
 	
-body, td {
-	font:13px Verdana, Geneva, Arial, Helvetica, sans-serif;
-	color:#000;
-	margin: 0px;
-	}
-	
-h1, h2, h3 {
-	margin:6px 0px 14px 0px;
-	}
-	
-h1 {
-font-size:26px;
-	}
-	
-h2 {
-	font-size:22px;
+	function addLoadEvent2(func)
+	{	
+		var oldonload = window.onload;
+		if (typeof window.onload != 'function'){
+			window.onload = func;
+		} else {
+			window.onload = function(){
+				oldonload();
+				func();
+			}
+		}
 	}
 
-h3	{
-	font-size:18px;
-	}
+	addLoadEvent2(makeNewWindows);
+	//]]></script>
 
-</style>
+
+<!-- Theme version -->
+<meta name="generator" content="Aperture 2.4.2">
+<meta name="generator" content="WooFramework 4.6.0">
+<!-- Alt Stylesheet -->
+<link href="http://www.acoollink.com/wp-content/themes/aperture/styles/baby_blue.css" rel="stylesheet" type="text/css">
+
+<!-- Woo Shortcodes CSS -->
+<link href="http://www.acoollink.com/wp-content/themes/aperture/functions/css/shortcodes.css" rel="stylesheet" type="text/css">
+
+<!-- Custom Stylesheet -->
+<link href="http://www.acoollink.com/wp-content/themes/aperture/custom.css" rel="stylesheet" type="text/css">
+    
 </head>
 
-<body>
-
-<table border="0" cellpadding="0" cellspacing="0" width="725" align="center">
-<tbody><tr align="left">
-<td valign="top" colspan="2"><img src="http://www.acoollink.com/imgs/logo.gif"></td>
-</tr>
-
-<tr>
-<td style="background-image:url(http://www.acoollink.com/imgs/leftimage.gif); background-position:top left;" valign="top" width="130">
-<div id="Layer1" style="position:absolute; width:150px;  z-index:1; visibility: visible; top:175px;">
-
-
-
-
-
-<style type="text/css">
-#navheader {
-display: block;
-width: 130px;
-font-family: Verdana;
-font-size: 14px;
-font-weight: bold;
-
-color: #000000;
-text-align: left;
-
-
-border-top-width: 0px;
-border-right-width: 0px;
-border-bottom-width: 0px;
-border-left-width: 0px;
-background-color: #FFFFFF
-}
-</style>
-   
-
-<a href="http://www.acoollink.com/index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('index','','http://www.acoollink.com/imgs/index-over.gif',1)"><img name="index" border="0" src="http://www.acoollink.com/imgs/index.gif" alt="Home"></a><br>
-<a href="http://www.acoollink.com/about.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image0','','http://www.acoollink.com/imgs/about-over.gif',1)"><img name="Image0" border="0" src="http://www.acoollink.com/imgs/about.gif" alt="About"></a><br>
-<a href="http://www.acoollink.com/new-links.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','http://www.acoollink.com/imgs/new-links-over.gif',1)"><img name="Image1" border="0" src="http://www.acoollink.com/imgs/new-links.gif" alt="New Links"></a><br>
-<a href="http://www.acoollink.com/cool-videos.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','http://www.acoollink.com/imgs/cool-videos-over.gif',1)"><img name="Image2" border="0" src="http://www.acoollink.com/imgs/cool-videos.gif" alt="Cool Videos"></a><br>
-<a href="http://www.acoollink.com/passport-to-fun.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','http://www.acoollink.com/imgs/passport-to-fun-over.gif',1)"><img name="Image3" border="0" src="http://www.acoollink.com/imgs/passport-to-fun.gif" alt="Passport To Fun"></a><br>
-<a href="http://www.acoollink.com/references.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','http://www.acoollink.com/imgs/references-over.gif',1)"><img name="Image4" border="0" src="http://www.acoollink.com/imgs/references.gif" alt="References"></a><br>
-<a href="http://www.acoollink.com/how-to-make-a-website.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','http://www.acoollink.com/imgs/how-to-make-a-website-over.gif',1)"><img name="Image5" border="0" src="http://www.acoollink.com/imgs/how-to-make-a-website.gif" alt="Make A Website"></a><br>
-<a href="http://www.acoollink.com/scratch-a-niche.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','http://www.acoollink.com/imgs/scratch-a-niche-over.gif',1)"><img name="Image6" border="0" src="http://www.acoollink.com/imgs/scratch-a-niche.gif" alt="Scratch A Niche"></a><br>
-<a href="http://www.acoollink.com/not-a-salesman.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','http://www.acoollink.com/imgs/not-a-salesman-over.gif',1)"><img name="Image7" border="0" src="http://www.acoollink.com/imgs/not-a-salesman.gif" alt="Not A Salesman"></a><br>
-<a href="http://www.acoollink.com/nonprofit-organizations.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','http://www.acoollink.com/imgs/nonprofit-organizations-over.gif',1)"><img name="Image8" border="0" src="http://www.acoollink.com/imgs/nonprofit-organizations.gif" alt="Nonprofits"></a><br>
-<a href="http://www.acoollink.com/mother-earth-news.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','http://www.acoollink.com/imgs/mother-earth-news-over.gif',1)"><img name="Image9" border="0" src="http://www.acoollink.com/imgs/mother-earth-news.gif" alt="Mother Earth News"></a><br>
-<a href="http://www.acoollink.com/cool-gifts.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image10','','http://www.acoollink.com/imgs/cool-gifts-over.gif',1)"><img name="Image10" border="0" src="http://www.acoollink.com/imgs/cool-gifts.gif" alt="Cool Gifts"></a><br>
-<a href="http://www.acoollink.com/contact_us.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image11','','http://www.acoollink.com/imgs/contact_us-over.gif',1)"><img name="Image11" border="0" src="http://www.acoollink.com/imgs/contact_us.gif" alt="Contact Us"></a><br>
-<a href="http://www.acoollink.com/disclaimer.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image12','','http://www.acoollink.com/imgs/disclaimer-over.gif',1)"><img name="Image12" border="0" src="http://www.acoollink.com/imgs/disclaimer.gif" alt="Disclaimer"></a><br>
-<img border="0" src="http://www.acoollink.com/imgs/privacy-policy-ON.gif" alt="Privacy Policy"><br>
-<a href="http://www.acoollink.com/find-something.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image14','','http://www.acoollink.com/imgs/find-something-over.gif',1)"><img name="Image14" border="0" src="http://www.acoollink.com/imgs/find-something.gif" alt="Find Something"></a><br>
-<a href="http://www.acoollink.com/popular-websites.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image15','','http://www.acoollink.com/imgs/popular-websites-over.gif',1)"><img name="Image15" border="0" src="http://www.acoollink.com/imgs/popular-websites.gif" alt="Popular Websites"></a><br>
-
-
+<body class="custom">
+	<div id="wrap">
+    
+        <div id="nav_wrapper">
+            <ul id="nav" class="menu"><li id="menu-item-1529" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1529"><a href="http://www.acoollink.com/category/animal-videos/">Animal Videos</a>
+<ul class="sub-menu">
+	<li id="menu-item-1528" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1528"><a href="http://www.acoollink.com/category/animal-videos/flying-animal-videos/">Flying Animal Videos</a></li>
+	<li id="menu-item-1539" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1539"><a href="http://www.acoollink.com/category/animal-videos/cat-videos/">Cat Videos</a></li>
+	<li id="menu-item-1550" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1550"><a href="http://www.acoollink.com/category/animal-videos/dog-videos/">Dog Videos</a></li>
+	<li id="menu-item-1565" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1565"><a href="http://www.acoollink.com/category/animal-videos/land-animal-videos/">Land Animal Videos</a></li>
+	<li id="menu-item-1577" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1577"><a href="http://www.acoollink.com/category/animal-videos/sea-animal-videos/">Sea Animal Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-1536" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1536"><a href="http://www.acoollink.com/category/business/">Business</a>
+<ul class="sub-menu">
+	<li id="menu-item-1537" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1537"><a href="http://www.acoollink.com/category/business/business-links/">Business Links</a></li>
+	<li id="menu-item-1538" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1538"><a href="http://www.acoollink.com/category/business/business-videos/">Business Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-1540" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1540"><a href="http://www.acoollink.com/category/cool-art/">Cool Art</a>
+<ul class="sub-menu">
+	<li id="menu-item-1532" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1532"><a href="http://www.acoollink.com/category/cool-art/art-videos/">Art Videos</a></li>
+	<li id="menu-item-1531" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1531"><a href="http://www.acoollink.com/category/cool-art/art-links/">Art Links</a></li>
+</ul>
+</li>
+<li id="menu-item-1544" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1544"><a href="http://www.acoollink.com/category/cool-sports-stuff/">Cool Sports Stuff</a>
+<ul class="sub-menu">
+	<li id="menu-item-1527" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1527"><a href="http://www.acoollink.com/category/cool-sports-stuff/acrobat-videos/">Acrobat Videos</a></li>
+	<li id="menu-item-1535" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1535"><a href="http://www.acoollink.com/category/cool-sports-stuff/basketball-videos/">Basketball Videos</a></li>
+	<li id="menu-item-1534" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1534"><a href="http://www.acoollink.com/category/cool-sports-stuff/baseball-videos/">Baseball Videos</a></li>
+	<li id="menu-item-1555" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1555"><a href="http://www.acoollink.com/category/cool-sports-stuff/fighting-videos/">Fighting Videos</a></li>
+	<li id="menu-item-1557" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1557"><a href="http://www.acoollink.com/category/cool-sports-stuff/football-videos/">Football Videos</a></li>
+	<li id="menu-item-1562" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1562"><a href="http://www.acoollink.com/category/cool-sports-stuff/hockey-videos/">Hockey Videos</a></li>
+	<li id="menu-item-1585" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1585"><a href="http://www.acoollink.com/category/cool-sports-stuff/water-sports-videos/">Water Sports Videos</a></li>
+	<li id="menu-item-1575" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1575"><a href="http://www.acoollink.com/category/cool-sports-stuff/other-sports-videos/">Other Sports Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-1545" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1545"><a href="http://www.acoollink.com/category/cool-stuff/">Cool Stuff</a>
+<ul class="sub-menu">
+	<li id="menu-item-1541" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1541"><a href="http://www.acoollink.com/category/cool-stuff/cool-links/">Cool Links</a></li>
+	<li id="menu-item-2654" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2654"><a href="http://www.acoollink.com/category/cool-stuff/cool-videos/">Cool Stuff Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-1546" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1546"><a href="http://www.acoollink.com/category/cool-technology/">Cool Technology</a>
+<ul class="sub-menu">
+	<li id="menu-item-1568" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1568"><a href="http://www.acoollink.com/category/cool-technology/videos/">Technology Links</a></li>
+	<li id="menu-item-1581" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1581"><a href="http://www.acoollink.com/category/cool-technology/videos-cool-technology/">Technology Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-1547" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1547"><a href="http://www.acoollink.com/category/cool-stuff/cool-videos/">Cool Stuff Videos</a>
+<ul class="sub-menu">
+	<li id="menu-item-1530" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1530"><a href="http://www.acoollink.com/category/cool-videos-2/animation-videos/">Animation Videos</a></li>
+	<li id="menu-item-1543" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1543"><a href="http://www.acoollink.com/category/cool-videos-2/cool-people-videos/">Cool People Videos</a></li>
+	<li id="menu-item-1542" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1542"><a href="http://www.acoollink.com/category/cool-videos-2/cool-music-videos/">Cool Music Videos</a></li>
+	<li id="menu-item-1533" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1533"><a href="http://www.acoollink.com/category/cool-videos-2/baby-videos/">Baby Videos</a></li>
+	<li id="menu-item-1549" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1549"><a href="http://www.acoollink.com/category/cool-videos-2/cool-dance-videos/">Cool Dance Videos</a></li>
+	<li id="menu-item-1571" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1571"><a href="http://www.acoollink.com/category/cool-videos-2/cool-machines-videos/">Cool Machines Videos</a></li>
+	<li id="menu-item-1564" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1564"><a href="http://www.acoollink.com/category/cool-videos-2/inspiration-cool-videos-2/">Inspiration Videos</a></li>
+	<li id="menu-item-1586" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1586"><a href="http://www.acoollink.com/category/cool-videos-2/wow-factor-videos/">Wow Factor Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-1559" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1559"><a href="http://www.acoollink.com/category/funny-stuff/">Funny Stuff</a>
+<ul class="sub-menu">
+	<li id="menu-item-1570" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1570"><a href="http://www.acoollink.com/category/funny-stuff/links-funny-stuff/">Funny Links</a></li>
+	<li id="menu-item-1583" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1583"><a href="http://www.acoollink.com/category/funny-stuff/videos-funny-stuff/">Funny Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-1566" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1566"><a href="http://www.acoollink.com/category/life/">Life</a>
+<ul class="sub-menu">
+	<li id="menu-item-1563" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1563"><a href="http://www.acoollink.com/category/life/home-life/">Home</a></li>
+	<li id="menu-item-1554" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1554"><a href="http://www.acoollink.com/category/life/family/">Family</a></li>
+	<li id="menu-item-1556" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1556"><a href="http://www.acoollink.com/category/life/food-life/">Food</a></li>
+	<li id="menu-item-1558" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1558"><a href="http://www.acoollink.com/category/life/free/">Free</a></li>
+	<li id="menu-item-1561" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1561"><a href="http://www.acoollink.com/category/life/health-life/">Health</a></li>
+</ul>
+</li>
+<li id="menu-item-1551" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1551"><a href="http://www.acoollink.com/category/earth/">Earth</a>
+<ul class="sub-menu">
+	<li id="menu-item-1552" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1552"><a href="http://www.acoollink.com/category/earth/energy/">Energy</a></li>
+	<li id="menu-item-1553" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1553"><a href="http://www.acoollink.com/category/earth/environmental-issues/">Environmental Issues</a></li>
+	<li id="menu-item-1560" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1560"><a href="http://www.acoollink.com/category/earth/going-green/">Going Green</a></li>
+	<li id="menu-item-1576" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1576"><a href="http://www.acoollink.com/category/earth/recycle-earth/">Recycle</a></li>
+</ul>
+</li>
+<li id="menu-item-1777" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1777"><a href="http://www.acoollink.com/category/live-life/">Live Life</a>
+<ul class="sub-menu">
+	<li id="menu-item-1778" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1778"><a href="http://www.acoollink.com/category/live-life/live-life-links/">Live Life Links</a></li>
+	<li id="menu-item-1779" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1779"><a href="http://www.acoollink.com/category/live-life/live-life-videos/">Live Life Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-1572" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1572"><a href="http://www.acoollink.com/category/new-frontier/">New Frontier</a>
+<ul class="sub-menu">
+	<li id="menu-item-1569" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1569"><a href="http://www.acoollink.com/category/new-frontier/links-new-frontier/">New Frontier Links</a></li>
+	<li id="menu-item-1582" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1582"><a href="http://www.acoollink.com/category/new-frontier/videos-new-frontier/">New Frontier Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-1573" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1573"><a href="http://www.acoollink.com/category/non-profit/">Non-Profits</a></li>
+<li id="menu-item-1578" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1578"><a href="http://www.acoollink.com/category/students/">Students</a>
+<ul class="sub-menu">
+	<li id="menu-item-1567" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1567"><a href="http://www.acoollink.com/category/students/links-students/">Student Links</a></li>
+	<li id="menu-item-1584" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1584"><a href="http://www.acoollink.com/category/students/videos-students/">Student Videos</a></li>
+</ul>
+</li>
+<li id="menu-item-1579" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1579"><a href="http://www.acoollink.com/category/travel/">Travel</a></li>
+<li id="menu-item-1776" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1776"><a href="http://www.acoollink.com/category/how-to/">How To</a></li>
+<li id="menu-item-10511" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10511"><a href="http://www.printfection.com/ACoolLink" onclick="javascript:window.open('http://www.printfection.com/ACoolLink'); return false;">STORE</a></li>
+<li id="menu-item-3685" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-3685"><a href="http://www.acoollink.com/category/about-a-cool-link/">About a Cool Link</a></li>
+</ul>        </div><!-- / #nav_wrapper -->
+                
+		<div id="header">
+            <div class="container_16">
+                <div class="grid_8 alpha">
+                
+                    <h1 id="logo"><a href="http://www.acoollink.com/" title="A Cool Link"><img src="http://www.acoollink.com/wp-content/uploads/2010/12/acoollink.png" alt=""></a></h1>
+            
+                </div><!-- / #grid_8 -->
+<div style="padding-top:35px;">
+<div class="widget"><form method="get" id="searchform" action="http://www.acoollink.com/">
+	<fieldset>
+		<!-- <h3><label for="s">Search for</label></h3> -->
+		<p><input type="text" value="" name="s" id="s"><input type="submit" id="searchsubmit" value="Search"></p>
+	</fieldset>
+</form>
 </div>
-<img src="http://www.acoollink.com/imgs/leftimage.gif"></td>
-<td valign="top" width="595">
+</div>
+                <div class="grid_8 omega">
+                
+               <!-- Top Banner Ad or Dropdown Starts -->
+                              <div id="button"> 
+                        <img src="http://www.acoollink.com/wp-content/themes/aperture/styles/baby_blue/button.png" width="184" height="32" alt="" class="menu_class">
+                        <ul class="the_menu">
+                            	<li class="cat-item cat-item-1075"><a href="http://www.acoollink.com/category/about-a-cool-link/" title="View all posts filed under About a Cool Link">About a Cool Link</a>
+<ul class="children">
+	<li class="cat-item cat-item-1077"><a href="http://www.acoollink.com/category/about-a-cool-link/disclaimer-about/" title="View all posts filed under Disclaimer">Disclaimer</a>
+</li>
+	<li class="cat-item cat-item-1078"><a href="http://www.acoollink.com/category/about-a-cool-link/privacy/" title="View all posts filed under Privacy Policy">Privacy Policy</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.acoollink.com/category/animal-videos/" title="View all posts filed under Animal Videos">Animal Videos</a>
+<ul class="children">
+	<li class="cat-item cat-item-4"><a href="http://www.acoollink.com/category/animal-videos/cat-videos/" title="View all posts filed under Cat Videos">Cat Videos</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.acoollink.com/category/animal-videos/dog-videos/" title="View all posts filed under Dog Videos">Dog Videos</a>
+</li>
+	<li class="cat-item cat-item-485"><a href="http://www.acoollink.com/category/animal-videos/flying-animal-videos/" title="View all posts filed under Flying Animal Videos">Flying Animal Videos</a>
+</li>
+	<li class="cat-item cat-item-486"><a href="http://www.acoollink.com/category/animal-videos/land-animal-videos/" title="View all posts filed under Land Animal Videos">Land Animal Videos</a>
+</li>
+	<li class="cat-item cat-item-487"><a href="http://www.acoollink.com/category/animal-videos/sea-animal-videos/" title="View all posts filed under Sea Animal Videos">Sea Animal Videos</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-21"><a href="http://www.acoollink.com/category/business/" title="View all posts filed under Business">Business</a>
+<ul class="children">
+	<li class="cat-item cat-item-483"><a href="http://www.acoollink.com/category/business/business-links/" title="View all posts filed under Business Links">Business Links</a>
+</li>
+	<li class="cat-item cat-item-484"><a href="http://www.acoollink.com/category/business/business-videos/" title="View all posts filed under Business Videos">Business Videos</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://www.acoollink.com/category/cool-art/" title="View all posts filed under Cool Art">Cool Art</a>
+<ul class="children">
+	<li class="cat-item cat-item-481"><a href="http://www.acoollink.com/category/cool-art/art-links/" title="View all posts filed under Art Links">Art Links</a>
+</li>
+	<li class="cat-item cat-item-482"><a href="http://www.acoollink.com/category/cool-art/art-videos/" title="View all posts filed under Art Videos">Art Videos</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-11"><a href="http://www.acoollink.com/category/cool-sports-stuff/" title="View all posts filed under Cool Sports Stuff">Cool Sports Stuff</a>
+<ul class="children">
+	<li class="cat-item cat-item-489"><a href="http://www.acoollink.com/category/cool-sports-stuff/acrobat-videos/" title="View all posts filed under Acrobat Videos">Acrobat Videos</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://www.acoollink.com/category/cool-sports-stuff/baseball-videos/" title="View all posts filed under Baseball Videos">Baseball Videos</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://www.acoollink.com/category/cool-sports-stuff/basketball-videos/" title="View all posts filed under Basketball Videos">Basketball Videos</a>
+</li>
+	<li class="cat-item cat-item-488"><a href="http://www.acoollink.com/category/cool-sports-stuff/fighting-videos/" title="View all posts filed under Fighting Videos">Fighting Videos</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://www.acoollink.com/category/cool-sports-stuff/football-videos/" title="View all posts filed under Football Videos">Football Videos</a>
+</li>
+	<li class="cat-item cat-item-15"><a href="http://www.acoollink.com/category/cool-sports-stuff/hockey-videos/" title="View all posts filed under Hockey Videos">Hockey Videos</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="http://www.acoollink.com/category/cool-sports-stuff/other-sports-videos/" title="View all posts filed under Other Sports Videos">Other Sports Videos</a>
+</li>
+	<li class="cat-item cat-item-490"><a href="http://www.acoollink.com/category/cool-sports-stuff/water-sports-videos/" title="View all posts filed under Water Sports Videos">Water Sports Videos</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-28"><a href="http://www.acoollink.com/category/cool-stuff/" title="View all posts filed under Cool Stuff">Cool Stuff</a>
+<ul class="children">
+	<li class="cat-item cat-item-491"><a href="http://www.acoollink.com/category/cool-stuff/cool-links/" title="View all posts filed under Cool Links">Cool Links</a>
+</li>
+	<li class="cat-item cat-item-492"><a href="http://www.acoollink.com/category/cool-stuff/cool-videos/" title="View all posts filed under Cool Stuff Videos">Cool Stuff Videos</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://www.acoollink.com/category/cool-technology/" title="View all posts filed under Cool Technology">Cool Technology</a>
+<ul class="children">
+	<li class="cat-item cat-item-499"><a href="http://www.acoollink.com/category/cool-technology/videos/" title="View all posts filed under Technology Links">Technology Links</a>
+</li>
+	<li class="cat-item cat-item-500"><a href="http://www.acoollink.com/category/cool-technology/videos-cool-technology/" title="View all posts filed under Technology Videos">Technology Videos</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-510"><a href="http://www.acoollink.com/category/cool-videos-2/" title="View all posts filed under Cool Videos">Cool Videos</a>
+<ul class="children">
+	<li class="cat-item cat-item-8"><a href="http://www.acoollink.com/category/cool-videos-2/animation-videos/" title="View all posts filed under Animation Videos">Animation Videos</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://www.acoollink.com/category/cool-videos-2/baby-videos/" title="View all posts filed under Baby Videos">Baby Videos</a>
+</li>
+	<li class="cat-item cat-item-515"><a href="http://www.acoollink.com/category/cool-videos-2/cool-dance-videos/" title="View all posts filed under Cool Dance Videos">Cool Dance Videos</a>
+</li>
+	<li class="cat-item cat-item-517"><a href="http://www.acoollink.com/category/cool-videos-2/cool-machines-videos/" title="View all posts filed under Cool Machines Videos">Cool Machines Videos</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://www.acoollink.com/category/cool-videos-2/cool-music-videos/" title="View all posts filed under Cool Music Videos">Cool Music Videos</a>
+</li>
+	<li class="cat-item cat-item-17"><a href="http://www.acoollink.com/category/cool-videos-2/cool-people-videos/" title="View all posts filed under Cool People Videos">Cool People Videos</a>
+</li>
+	<li class="cat-item cat-item-516"><a href="http://www.acoollink.com/category/cool-videos-2/inspiration-cool-videos-2/" title="View all posts filed under Inspiration Videos">Inspiration Videos</a>
+</li>
+	<li class="cat-item cat-item-518"><a href="http://www.acoollink.com/category/cool-videos-2/wow-factor-videos/" title="View all posts filed under Wow Factor Videos">Wow Factor Videos</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-26"><a href="http://www.acoollink.com/category/earth/" title="View all posts filed under Earth">Earth</a>
+<ul class="children">
+	<li class="cat-item cat-item-504"><a href="http://www.acoollink.com/category/earth/energy/" title="View all posts filed under Energy">Energy</a>
+</li>
+	<li class="cat-item cat-item-505"><a href="http://www.acoollink.com/category/earth/environmental-issues/" title="View all posts filed under Environmental Issues">Environmental Issues</a>
+</li>
+	<li class="cat-item cat-item-506"><a href="http://www.acoollink.com/category/earth/going-green/" title="View all posts filed under Going Green">Going Green</a>
+</li>
+	<li class="cat-item cat-item-507"><a href="http://www.acoollink.com/category/earth/recycle-earth/" title="View all posts filed under Recycle">Recycle</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-20"><a href="http://www.acoollink.com/category/funny-stuff/" title="View all posts filed under Funny Stuff">Funny Stuff</a>
+<ul class="children">
+	<li class="cat-item cat-item-508"><a href="http://www.acoollink.com/category/funny-stuff/links-funny-stuff/" title="View all posts filed under Funny Links">Funny Links</a>
+</li>
+	<li class="cat-item cat-item-509"><a href="http://www.acoollink.com/category/funny-stuff/videos-funny-stuff/" title="View all posts filed under Funny Videos">Funny Videos</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-530"><a href="http://www.acoollink.com/category/how-to/" title="View all posts filed under How To">How To</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://www.acoollink.com/category/life/" title="View all posts filed under Life">Life</a>
+<ul class="children">
+	<li class="cat-item cat-item-22"><a href="http://www.acoollink.com/category/life/family/" title="View all posts filed under Family">Family</a>
+</li>
+	<li class="cat-item cat-item-494"><a href="http://www.acoollink.com/category/life/food-life/" title="View all posts filed under Food">Food</a>
+</li>
+	<li class="cat-item cat-item-495"><a href="http://www.acoollink.com/category/life/free/" title="View all posts filed under Free">Free</a>
+</li>
+	<li class="cat-item cat-item-496"><a href="http://www.acoollink.com/category/life/health-life/" title="View all posts filed under Health">Health</a>
+</li>
+	<li class="cat-item cat-item-497"><a href="http://www.acoollink.com/category/life/home-life/" title="View all posts filed under Home">Home</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-527"><a href="http://www.acoollink.com/category/live-life/" title="View all posts filed under Live Life">Live Life</a>
+<ul class="children">
+	<li class="cat-item cat-item-528"><a href="http://www.acoollink.com/category/live-life/live-life-links/" title="View all posts filed under Live Life Links">Live Life Links</a>
+</li>
+	<li class="cat-item cat-item-529"><a href="http://www.acoollink.com/category/live-life/live-life-videos/" title="View all posts filed under Live Life Videos">Live Life Videos</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-501"><a href="http://www.acoollink.com/category/new-frontier/" title="View all posts filed under New Frontier">New Frontier</a>
+<ul class="children">
+	<li class="cat-item cat-item-502"><a href="http://www.acoollink.com/category/new-frontier/links-new-frontier/" title="View all posts filed under New Frontier Links">New Frontier Links</a>
+</li>
+	<li class="cat-item cat-item-503"><a href="http://www.acoollink.com/category/new-frontier/videos-new-frontier/" title="View all posts filed under New Frontier Videos">New Frontier Videos</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-23"><a href="http://www.acoollink.com/category/non-profit/" title="View all posts filed under Non-Profits">Non-Profits</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="http://www.acoollink.com/category/students/" title="View all posts filed under Students">Students</a>
+<ul class="children">
+	<li class="cat-item cat-item-498"><a href="http://www.acoollink.com/category/students/links-students/" title="View all posts filed under Student Links">Student Links</a>
+</li>
+	<li class="cat-item cat-item-511"><a href="http://www.acoollink.com/category/students/videos-students/" title="View all posts filed under Student Videos">Student Videos</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-25"><a href="http://www.acoollink.com/category/travel/" title="View all posts filed under Travel">Travel</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.acoollink.com/category/uncategorized/" title="View all posts filed under Uncategorized">Uncategorized</a>
+</li>
+                        </ul>                        
+              </div>         
+            
+ 
+            
+                        
+             <!-- Top Banner Ad or Dropdown Ends -->                  
+    
+                </div><!-- / #grid_8 -->
+            </div><!-- / #container_16 -->
+		</div><!-- / #header -->
 
-<table width="500" border="0" cellspacing="0" cellpadding="10" align="center">
-<tbody><tr>
-<td>
-<h1 style="text-align:center;">Privacy Policy</h1>
-<img style="margin:8px 0 0 12px; border:0;" src="http://www.acoollink.com/images/catsindark.jpg" align="right" width="292" height="389" alt="">
-<br>
-
-<p>We recognize that your privacy is important. This document
-outlines the types of personal information we receive and
-collect when you use ACoolLink.com, as well as some
-of the steps we take to safeguard information. We hope this
-will help you make an informed decision about sharing
-personal information with us.
-
-</p><p>ACoolLink.com strives to maintain the highest
-standards of decency, fairness and integrity in all our
-operations. Likewise, we are dedicated to protecting our
-customers', consumers' and online visitors' privacy on our
-website.
-<br clear="all">
+        <div id="content">
+			<div id="contentWrap" class="container_16">
+<!-- Wordpress Counter -->
 
 
-</p><p>
-</p><p><b>Personal Information</b>
+<!-- Wordpress Counter -->
 
-</p><p>ACoolLink.com collects personally identifiable
-information from the visitors to our website only on a
-voluntary basis. Personal information collected on a
-voluntary basis may include name, postal address, email
-address, company name and telephone number.
+ 			
+            <div class="grid_16 alpha"> <h2 class="single">Privacy Policy</h2></div>
+            <div class="grid_4 alpha">
+            <p class="post_meta"><span class="date">Posted on  October 30th, 2010</span></p>
+            <p class="post_meta"><span class="details">Archived in  <a href="http://www.acoollink.com/category/about-a-cool-link/privacy/" title="View all posts in Privacy Policy" rel="category tag">Privacy Policy</a></span></p>
+            <p class="post_meta"><span class="comments"><a href="#respond">Leave a comment</a></span></p>
+            <div style="clear:both;height:20px;border-bottom:1px solid #eee;margin-bottom: 20px;"></div>
+            
+            <h4 class="tags">Tags</h4>
+             <a href="http://www.acoollink.com/tag/privacy-policy/" rel="tag">Privacy Policy</a><br> 
+             
+             <div style="clear:both;height:10px;border-bottom:1px solid #eee;margin-bottom: 20px;"></div>
+             
+             <div class="navigation">
+					<div class="previous">
+                    <h4>Previous Post</h4>
+					<p><a href="http://www.acoollink.com/story-rocky/" rel="prev">The Story Behind Rocky</a></p>
+                    </div>
+					<div class="next">
+                    <h4>Next Post</h4>
+					<p><a href="http://www.acoollink.com/disclaimer-2/" rel="next">Disclaimer</a></p>
+                    </div>
+				</div>
+                
+                 <div style="clear:both;height:10px;border-bottom:1px solid #eee;margin-bottom: 20px;"></div>
 
-</p><p>This information is collected if you request information
-from us, participate in a contest or sweepstakes, and sign
-up to join our email list or request some other service or
-information from us. The information collected is internally
-reviewed, used to improve the content of our website, notify
-our visitors of updates, and respond to visitor inquiries.
+            </div>
+			<div id="main" class="grid_12 omega">
+			
+            <div class="entry">
+                
+                				
+				<div style="float:right;padding: 0 0 10px 10px" class="interactive_right"><iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html?url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;text=Privacy Policy&amp;count=vertical&amp;lang=  " style="width:65px; height:65px;"></iframe><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;layout=box_count&amp;show_faces=false&amp;width=65&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=65" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:65px; height:65px;" allowtransparency="true"></iframe><script src="http://www.stumbleupon.com/hostedbadge.php?s=5&amp;r=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F"></script></div><p>We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use ACoolLink.com / A Cool Link LLC, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.</p>
+<p>A Cool Link LLC strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers’, consumers’ and online visitors’ privacy on our website.</p>
+<p><strong>Personal Information<a href="http://www.acoollink.com/wp-content/uploads/2010/10/Parker-Family-and-skiing-1033.jpg"><img class="alignright size-medium wp-image-3721" title="Parker Family and skiing 103" src="http://www.acoollink.com/wp-content/uploads/2010/10/Parker-Family-and-skiing-1033-225x300.jpg" alt="" width="225" height="300"></a></strong></p>
+<p>A Cool Link LLC collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, email address, company name and telephone number.</p>
+<p>This information is collected if you request information from us, participate in a contest or sweepstakes, and sign up to join our email list or request some other service or information from us. The information collected is internally reviewed, used to improve the content of our website, notify our visitors of updates, and respond to visitor inquiries.</p>
+<p>Once information is reviewed, it is discarded or stored in our files. If we make material changes in the collection of personally identifiable information we will inform you by placing a notice on our site. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties.</p>
+<p><strong>Use of Cookies and Web Beacons</strong></p>
+<p>We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer’s hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site’s services, a cookie enables A Cool Link LLC to recall your specific information on subsequent visits.</p>
+<p>You have the ability to accept or decline cookies by modifying your Web browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site.</p>
+<p>A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a web site.</p>
+<p>We may serve third party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you’ve seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site.</p>
+<p>Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn’t cause a problem with our site, should you so choose.</p>
+<p><strong>Children’s Online Privacy Protection Act</strong></p>
+<p>This website is directed to adults; it is not directed to children under the age of 13. We operate our site in compliance with the Children’s Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under 13 years of age.</p>
+<p><strong>Non-Personal Information</strong></p>
+<p>In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes.</p>
+<p><strong>Release of Information</strong></p>
+<p>If A Cool Link LLC is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us.</p>
+<p><strong>How You Can Correct or Remove Information</strong></p>
+<p>We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please click on this link and/or use our Contact Us page.</p>
+<p><strong>Updates and Effective Date<a href="http://www.acoollink.com/wp-content/uploads/2010/10/Parker-Family-and-skiing-224.jpg"><img class="alignright size-medium wp-image-3723" title="Parker Family and skiing 224" src="http://www.acoollink.com/wp-content/uploads/2010/10/Parker-Family-and-skiing-224-300x225.jpg" alt="" width="300" height="225"></a></strong></p>
+<p>A Cool Link LLC reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.</p>
+<p><strong>Agreeing to Terms</strong></p>
+<p>If you do not agree to A Cool Link LLC’s Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.</p>
+<p><strong>Your use of this site indicates acceptance of this privacy policy.</strong></p>
+<div class="linkwithin_hook" id="http://www.acoollink.com/privacy-policy/"></div><script>
+<!-- //LinkWithinCodeStart
+var linkwithin_site_id = 830763;
+var linkwithin_div_class = "linkwithin_hook";
+//LinkWithinCodeEnd -->
+</script>
+<script src="http://www.linkwithin.com/widget.js"></script>
+<a href="http://www.linkwithin.com/" onclick="javascript:window.open('http://www.linkwithin.com/'); return false;"><img src="http://www.linkwithin.com/pixel.png" alt="Related Posts Plugin for WordPress, Blogger..." style="border: 0"></a><div class="shareinpost"><ul class="socialwrap row"><li class="iconOnly"><a rel="nofollow" href="http://www.blogger.com/blog_this.pyra?t&amp;u=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;n=Privacy+Policy&amp;pli=1" title="Share this post : Privacy Policy on Blogger" onclick="javascript:window.open('http://www.blogger.com/blog_this.pyra?t&amp;u=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;n=Privacy+Policy&amp;pli=1'); return false;"><img src="http://www.acoollink.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" style="background: transparent url(http://www.acoollink.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-66px 0px" class="image-32" width="32" alt="blogger"> <span class="head">Blog this!</span></a></li><li class="iconOnly"><a rel="nofollow" href="http://delicious.com/post?url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;title=Privacy+Policy" title="Bookmark this post : Privacy Policy on Delicious" onclick="javascript:window.open('http://delicious.com/post?url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;title=Privacy+Policy'); return false;"><img src="http://www.acoollink.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" style="background: transparent url(http://www.acoollink.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-198px 0px" class="image-32" width="32" alt="delicious"> <span class="head">Bookmark on Delicious</span></a></li><li class="iconOnly"><a rel="nofollow" href="http://digg.com/submit?url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;title=Privacy+Policy&amp;bodytext=We+recognize+that+your+privacy+is+important.+This+document+outlines+the+types+of+personal+information+we+receive+and+collect+when+you+use+ACoolLink.com+%2F+A+Cool+Link+LLC%2C+as+well+as+some+of+the+steps+we+take+to+safeguard+information.+We+hope+this+will+help+you+make+an+informed+decision+about+sharing+personal+informatio" title="Digg this post : Privacy Policy" onclick="javascript:window.open('http://digg.com/submit?url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;title=Privacy+Policy&amp;bodytext=We+recognize+that+your+privacy+is+important.+This+document+outlines+the+types+of+personal+information+we+receive+and+collect+when+you+use+ACoolLink.com+%2F+A+Cool+Link+LLC%2C+as+well+as+some+of+the+steps+we+take+to+safeguard+information.+We+hope+this+will+help+you+make+an+informed+decision+about+sharing+personal+informatio'); return false;"><img src="http://www.acoollink.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" style="background: transparent url(http://www.acoollink.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-264px 0px" class="image-32" width="32" alt="digg"> <span class="head">Digg this post</span></a></li><li class="iconOnly"><a rel="nofollow" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;t=Privacy+Policy" title="Recommend this post : Privacy Policy on Facebook" onclick="javascript:window.open('http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;t=Privacy+Policy'); return false;"><img src="http://www.acoollink.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" style="background: transparent url(http://www.acoollink.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-363px 0px" class="image-32" width="32" alt="facebook"> <span class="head">Recommend on Facebook</span></a></li><li class="iconOnly"><a rel="nofollow" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;title=Privacy+Policy&amp;&amp;summary=We+recognize+that+your+privacy+is+important.+This+document+outlines+the+types+of+personal+information+we+receive+and+collect+when+you+use+ACoolLink.com+%2F+A+Cool+Link+LLC%2C+as+well+as+some+of+the+steps+we+take+to+safeguard+information.+We+hope+this+will+help+you+make+an+informed+decision+about+sharing+personal+informatio" title="Share this post : Privacy Policy on Linkedin" onclick="javascript:window.open('http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;title=Privacy+Policy&amp;&amp;summary=We+recognize+that+your+privacy+is+important.+This+document+outlines+the+types+of+personal+information+we+receive+and+collect+when+you+use+ACoolLink.com+%2F+A+Cool+Link+LLC%2C+as+well+as+some+of+the+steps+we+take+to+safeguard+information.+We+hope+this+will+help+you+make+an+informed+decision+about+sharing+personal+informatio'); return false;"><img src="http://www.acoollink.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" style="background: transparent url(http://www.acoollink.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-891px 0px" class="image-32" width="32" alt="linkedin"> <span class="head">Share on Linkedin</span></a></li><li class="iconOnly"><a rel="nofollow" href="http://www.reddit.com/submit?url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;title=Privacy+Policy" title="Share this post : Privacy Policy on Reddit" onclick="javascript:window.open('http://www.reddit.com/submit?url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;title=Privacy+Policy'); return false;"><img src="http://www.acoollink.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" style="background: transparent url(http://www.acoollink.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-1419px 0px" class="image-32" width="32" alt="reddit"> <span class="head">share via Reddit</span></a></li><li class="iconOnly"><a rel="nofollow" href="http://www.sphinn.com/share?v=3&amp;u=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;t=Privacy+Policy" title="Share this post : Privacy Policy on sphinn" onclick="javascript:window.open('http://www.sphinn.com/share?v=3&amp;u=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;t=Privacy+Policy'); return false;"><img src="http://www.acoollink.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" style="background: transparent url(http://www.acoollink.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-1551px 0px" class="image-32" width="32" alt="sphinn"> <span class="head">Share this on sphinn</span></a></li><li class="iconOnly"><a rel="nofollow" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;title=Privacy+Policy" title="Share this post : Privacy Policy with Stumblers" onclick="javascript:window.open('http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;title=Privacy+Policy'); return false;"><img src="http://www.acoollink.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" style="background: transparent url(http://www.acoollink.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-1617px 0px" class="image-32" width="32" alt="stumble"> <span class="head">Share with Stumblers</span></a></li><li class="iconOnly"><a rel="nofollow" href="http://www.tumblr.com/share?v=3&amp;u=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;t=Privacy+Policy" title="Tumblr. this post : Privacy Policy " onclick="javascript:window.open('http://www.tumblr.com/share?v=3&amp;u=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;t=Privacy+Policy'); return false;"><img src="http://www.acoollink.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" style="background: transparent url(http://www.acoollink.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-1716px 0px" class="image-32" width="32" alt="tumblr"> <span class="head">Tumblr it</span></a></li><li class="iconOnly"><a rel="nofollow" href="http://twitter.com/home/?status=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F" title="Tweet this post : Privacy Policy on Twitter" onclick="javascript:window.open('http://twitter.com/home/?status=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F'); return false;"><img src="http://www.acoollink.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" style="background: transparent url(http://www.acoollink.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-1749px 0px" class="image-32" width="32" alt="twitter"> <span class="head">Tweet about it</span></a></li><li class="iconOnly"><a rel="nofollow" href="http://buzz.yahoo.com/buzz?targetUrl=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F" title="Buzz up this post : Privacy Policy " onclick="javascript:window.open('http://buzz.yahoo.com/buzz?targetUrl=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F'); return false;"><img src="http://www.acoollink.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" style="background: transparent url(http://www.acoollink.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-1980px 0px" class="image-32" width="32" alt="yahoo_buzz"> <span class="head">Buzz it up</span></a></li><li class="iconOnly"><a rel="_self" href="http://www.acoollink.com/privacy-policy/feed" title="Follow this post : Privacy Policy comments"><img src="http://www.acoollink.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" width="32" style="background: transparent url(http://www.acoollink.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-1452px 0px" class="image-32" alt="rss"> <span class="head">Subscribe to the comments on this post</span></a></li><li class="iconOnly"><a rel="nofollow" target="_self" href="javascript:window.print();" title="Print this post : Privacy Policy for reading later"><img src="http://www.acoollink.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" style="background: transparent url(http://www.acoollink.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-1386px 0px" class="image-32" width="32" alt="print"> <span class="head">Print for later</span></a></li><li class="iconOnly"><a rel="nofollow" target="_self" href="javascript:window.bookMark('http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F', 'Privacy+Policy', BrowserDetect.browser);" title="Bookmark this post : Privacy Policy"><img src="http://www.acoollink.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" style="background: transparent url(http://www.acoollink.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-99px 0px" class="image-32" width="32" alt="bookmark"> <span class="head">Bookmark in Browser</span></a></li><li class="iconOnly"><a rel="_self" href="mailto:?subject=A%20Cool%20Link%20:%20Privacy%20Policy&amp;body=here%20is%20a%20link%20to%20a%20site%20I%20really%20like.%20%20%20http://www.acoollink.com/privacy-policy/" title="Tell a friend about this post : Privacy Policy "><img src="http://www.acoollink.com/wp-content/plugins/share-and-follow/images/blank.gif" height="32" width="32" style="background: transparent url(http://www.acoollink.com/wp-content/plugins/share-and-follow/default/32/sprite-32.png) no-repeat;padding:0;margin:0;height:32px;width:32px;background-position:-330px 0px" class="image-32" alt="email"> <span class="head">Tell a friend</span></a></li></ul><div class="clean"></div> </div><!-- Start Sociable --><div class="sociable"><div class="sociable_tagline"><a class="sociable_tagline" href="http://blogplay.com" style="color:#333333;text-decoration:none" onclick="javascript:window.open('http://blogplay.com/'); return false;">Be Sociable, Share!</a></div><ul class="clearfix"><li><a title="Twitter" class="option1_32" style="background-position:-288px -32px" rel="nofollow" href="http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F%20(via%20@sociablesite)" onclick="javascript:window.open('http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F%20(via%20@sociablesite)'); return false;"></a></li><li><a title="Facebook" class="option1_32" style="background-position:-96px 0px" rel="nofollow" href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;t=Privacy%20Policy" onclick="javascript:window.open('http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;t=Privacy%20Policy'); return false;"></a></li><li><a title="email" class="option1_32" style="background-position:-160px 0px" rel="nofollow" href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to&amp;su=Privacy%20Policy&amp;body=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;ui=2&amp;tf=1&amp;shva=1" onclick="javascript:window.open('https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to&amp;su=Privacy%20Policy&amp;body=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;ui=2&amp;tf=1&amp;shva=1'); return false;"></a></li><li><a class="option1_32" style="cursor:pointer;background-position:-128px 0px" rel="nofollow" title="Add to favorites - doesn't work in Chrome" onclick="javascript:AddToFavorites();"></a></li><li><a title="StumbleUpon" class="option1_32" style="background-position:-224px -32px" rel="nofollow" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy" onclick="javascript:window.open('http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy'); return false;"></a></li><li><a title="Delicious" class="option1_32" style="background-position:-32px 0px" rel="nofollow" href="http://delicious.com/post?url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy&amp;notes=We%20recognize%20that%20your%20privacy%20is%20important.%20This%20document%20outlines%20the%20types%20of%20personal%20information%20we%20receive%20and%20collect%20when%20you%20use%20ACoolLink.com%20%2F%20A%20Cool%20Link%20LLC%2C%20as%20well%20as%20some%20of%20the%20steps%20we%20take%20to%20safeguard%20information.%20We%20hope%20this%20wil" onclick="javascript:window.open('http://delicious.com/post?url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy&amp;notes=We%20recognize%20that%20your%20privacy%20is%20important.%20This%20document%20outlines%20the%20types%20of%20personal%20information%20we%20receive%20and%20collect%20when%20you%20use%20ACoolLink.com%20%2F%20A%20Cool%20Link%20LLC%2C%20as%20well%20as%20some%20of%20the%20steps%20we%20take%20to%20safeguard%20information.%20We%20hope%20this%20wil'); return false;"></a></li><li><a title="Google Reader" class="option1_32" style="background-position:-224px 0px" rel="nofollow" href="http://www.google.com/reader/link?url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy&amp;srcURL=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;srcTitle=A+Cool+Link+Cool+Links+From+Around+the+Web" onclick="javascript:window.open('http://www.google.com/reader/link?url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy&amp;srcURL=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;srcTitle=A+Cool+Link+Cool+Links+From+Around+the+Web'); return false;"></a></li><li><a title="LinkedIn" class="option1_32" style="background-position:-288px 0px" rel="nofollow" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy&amp;source=A+Cool+Link+Cool+Links+From+Around+the+Web&amp;summary=We%20recognize%20that%20your%20privacy%20is%20important.%20This%20document%20outlines%20the%20types%20of%20personal%20information%20we%20receive%20and%20collect%20when%20you%20use%20ACoolLink.com%20%2F%20A%20Cool%20Link%20LLC%2C%20as%20well%20as%20some%20of%20the%20steps%20we%20take%20to%20safeguard%20information.%20We%20hope%20this%20wil" onclick="javascript:window.open('http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy&amp;source=A+Cool+Link+Cool+Links+From+Around+the+Web&amp;summary=We%20recognize%20that%20your%20privacy%20is%20important.%20This%20document%20outlines%20the%20types%20of%20personal%20information%20we%20receive%20and%20collect%20when%20you%20use%20ACoolLink.com%20%2F%20A%20Cool%20Link%20LLC%2C%20as%20well%20as%20some%20of%20the%20steps%20we%20take%20to%20safeguard%20information.%20We%20hope%20this%20wil'); return false;"></a></li><li><a title="BlinkList" class="option1_32" style="background-position:0px 0px" rel="nofollow" href="http://www.blinklist.com/index.php?Action=Blink/addblink.php&amp;Url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;Title=Privacy%20Policy" onclick="javascript:window.open('http://www.blinklist.com/index.php?Action=Blink/addblink.php&amp;Url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;Title=Privacy%20Policy'); return false;"></a></li><li><a style="cursor:pointer" rel="nofollow" onmouseout="fixOnMouseOut(document.getElementById('sociable-post-3713'), event, 'post-3713')" onmouseover="more(this,'post-3713')"><img style="margin-top:9px" src="http://www.acoollink.com/wp-content/plugins/sociable/images/more.png"></a></li></ul><div onmouseout="fixOnMouseOut(this,event,'post-3713')" id="sociable-post-3713" style="display:none;">   
 
-</p><p>Once information is reviewed, it is discarded or stored in
-our files. If we make material changes in the collection of
-personally identifiable information we will inform you by
-placing a notice on our site. Personal information received
-from any visitor will be used only for internal purposes and
-will not be sold or provided to third parties.
-
-</p><p><b>Use of Cookies and Web Beacons</b>
-
-</p><p>We may use cookies to help you personalize your online
-experience. Cookies are identifiers that are transferred to
-your computer's hard drive through your Web browser to
-enable our systems to recognize your browser. The purpose of
-a cookie is to tell the Web server that you have returned to
-a specific page. For example, if you personalize the sites
-pages, or register with any of our site's services, a cookie
-enables ACoolLink.com to recall your specific
-information on subsequent visits.
-
-</p><p>You have the ability to accept or decline cookies by
-modifying your Web browser; however, if you choose to
-decline cookies, you may not be able to fully experience the
-interactive features of the site.
-
-</p><p>A web beacon is a transparent image file used to monitor
-your journey around a single website or collection of sites.
-They are also referred to as web bugs and are commonly used
-by sites that hire third-party services to monitor traffic.
-They may be used in association with cookies to understand
-how visitors interact with the pages and content on the
-pages of a web site.
-
-</p><p>We may serve third party advertisements that use cookies and
-web beacons in the course of ads being served on our web
-site to ascertain how many times you've seen an
-advertisement. No personally identifiable information you
-give us is provided to them for cookie or web beacon use, so
-they cannot personally identify you with that information on
-our web site.
-
-</p><p>Browsers can be set to accept or reject cookies or notify
-you when a cookie is being sent. Privacy software can be
-used to override web beacons. Taking either of these actions
-shouldn't cause a problem with our site, should you so
-choose.
-
-</p><p><b>Children's Online Privacy Protection Act</b>
-
-</p><p>This website is directed to adults; it is not directed to
-children under the age of 13. We operate our site in
-compliance with the Children's Online Privacy Protection
-Act, and will not knowingly collect or use personal
-information from anyone under 13 years of age.
-
-</p><p><b>Non-Personal Information</b>
-
-</p><p>In some cases, we may collect information about you that is
-not personally identifiable. We use this information, which
-does not identify individual users, to analyze trends, to
-administer the site, to track users' movements around the
-site and to gather demographic information about our user
-base as a whole.  The information collected is used solely
-for internal review and not shared with other organizations
-for commercial purposes.
-
-</p><p><b>Release of Information</b>
-
-</p><p>If ACoolLink.com is sold, the information we have
-obtained from you through your voluntary participation in
-our site may transfer to the new owner as a part of the sale
-in order that the service being provided to you may
-continue. In that event, you will receive notice through our
-website of that change in control and practices, and we will
-make reasonable efforts to ensure that the purchaser honors
-any opt-out requests you might make of us.
-
-</p><p><b>How You Can Correct or Remove Information</b>
-
-</p><p>We provide this privacy policy as a statement to you of our
-commitment to protect your personal information. If you have
-submitted personal information through our website and would
-like that information deleted from our records or would like
-to update or correct that information, please click on this
-link and/or use our Contact Us page.
-
-</p><p><b>Updates and Effective Date</b>
-
-</p><p>ACoolLink.com reserves the right to make changes in
-this policy. If there is a material change in our privacy
-practices, we will indicate on our site that our privacy
-practices have changed and provide a link to the new privacy
-policy. We encourage you to periodically review this policy
-so that you will know what information we collect and how we
-use it.
-
-</p><p><b>Agreeing to Terms</b>
-
-</p><p>If you do not agree to ACoolLink.com’s Privacy
-Policy as posted here on this website, please do not use
-this site or any services offered by this site.
-
-</p><p><b><i>Your use of this site indicates acceptance of this privacy
-policy.</i></b>
-
-</p><p>
-</p><p>
-</p><p>
-<br clear="all">
-<br clear="all">
-<br clear="all">
-<br clear="all">
-<br clear="all">
-
-</p><p style="text-align:center;"><a href="http://www.acoollink.com/privacy-policy.html">Back To Top Of Page</a>
-
-<br clear="all">
-<br clear="all">
-<br clear="all">
-
-</p><hr size="1" width="100%" align="Center">
-<br clear="all">
-<br clear="all">
-<br clear="all">
-<br clear="all">
-<br clear="all">
-
-
-<br>
+    <div style="top: auto; left: auto; display: block;" id="sociable">
 
 
 
-</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
+		<div class="popup">
 
+			<div class="content">
+
+				<ul><li style="heigth:32px;width:32px"><a title="Myspace" class="option1_32" style="background-position:0px -32px" rel="nofollow" href="http://www.myspace.com/Modules/PostTo/Pages/?u=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;t=Privacy%20Policy" onclick="javascript:window.open('http://www.myspace.com/Modules/PostTo/Pages/?u=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;t=Privacy%20Policy'); return false;"></a></li><li style="heigth:32px;width:32px"><a title="Digg" class="option1_32" style="background-position:-64px 0px" rel="nofollow" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy&amp;bodytext=We%20recognize%20that%20your%20privacy%20is%20important.%20This%20document%20outlines%20the%20types%20of%20personal%20information%20we%20receive%20and%20collect%20when%20you%20use%20ACoolLink.com%20%2F%20A%20Cool%20Link%20LLC%2C%20as%20well%20as%20some%20of%20the%20steps%20we%20take%20to%20safeguard%20information.%20We%20hope%20this%20wil" onclick="javascript:window.open('http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy&amp;bodytext=We%20recognize%20that%20your%20privacy%20is%20important.%20This%20document%20outlines%20the%20types%20of%20personal%20information%20we%20receive%20and%20collect%20when%20you%20use%20ACoolLink.com%20%2F%20A%20Cool%20Link%20LLC%2C%20as%20well%20as%20some%20of%20the%20steps%20we%20take%20to%20safeguard%20information.%20We%20hope%20this%20wil'); return false;"></a></li><li style="heigth:32px;width:32px"><a title="Reddit" class="option1_32" style="background-position:-128px -32px" rel="nofollow" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy" onclick="javascript:window.open('http://reddit.com/submit?url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy'); return false;"></a></li><li style="heigth:32px;width:32px"><a title="Google Bookmarks" class="option1_32" style="background-position:-192px 0px" rel="nofollow" href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy&amp;annotation=We%20recognize%20that%20your%20privacy%20is%20important.%20This%20document%20outlines%20the%20types%20of%20personal%20information%20we%20receive%20and%20collect%20when%20you%20use%20ACoolLink.com%20%2F%20A%20Cool%20Link%20LLC%2C%20as%20well%20as%20some%20of%20the%20steps%20we%20take%20to%20safeguard%20information.%20We%20hope%20this%20wil" onclick="javascript:window.open('http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy&amp;annotation=We%20recognize%20that%20your%20privacy%20is%20important.%20This%20document%20outlines%20the%20types%20of%20personal%20information%20we%20receive%20and%20collect%20when%20you%20use%20ACoolLink.com%20%2F%20A%20Cool%20Link%20LLC%2C%20as%20well%20as%20some%20of%20the%20steps%20we%20take%20to%20safeguard%20information.%20We%20hope%20this%20wil'); return false;"></a></li><li style="heigth:32px;width:32px"><a title="HackerNews" class="option1_32" style="background-position:-256px 0px" rel="nofollow" href="http://news.ycombinator.com/submitlink?u=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;t=Privacy%20Policy" onclick="javascript:window.open('http://news.ycombinator.com/submitlink?u=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;t=Privacy%20Policy'); return false;"></a></li><li style="heigth:32px;width:32px"><a title="MSNReporter" class="option1_32" style="background-position:-352px 0px" rel="nofollow" href="http://reporter.es.msn.com/?fn=contribute&amp;Title=Privacy%20Policy&amp;URL=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;cat_id=6&amp;tag_id=31&amp;Remark=We%20recognize%20that%20your%20privacy%20is%20important.%20This%20document%20outlines%20the%20types%20of%20personal%20information%20we%20receive%20and%20collect%20when%20you%20use%20ACoolLink.com%20%2F%20A%20Cool%20Link%20LLC%2C%20as%20well%20as%20some%20of%20the%20steps%20we%20take%20to%20safeguard%20information.%20We%20hope%20this%20wil" onclick="javascript:window.open('http://reporter.es.msn.com/?fn=contribute&amp;Title=Privacy%20Policy&amp;URL=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;cat_id=6&amp;tag_id=31&amp;Remark=We%20recognize%20that%20your%20privacy%20is%20important.%20This%20document%20outlines%20the%20types%20of%20personal%20information%20we%20receive%20and%20collect%20when%20you%20use%20ACoolLink.com%20%2F%20A%20Cool%20Link%20LLC%2C%20as%20well%20as%20some%20of%20the%20steps%20we%20take%20to%20safeguard%20information.%20We%20hope%20this%20wil'); return false;"></a></li><li style="heigth:32px;width:32px"><a title="Sphinn" class="option1_32" style="background-position:-192px -32px" rel="nofollow" href="http://sphinn.com/index.php?c=post&amp;m=submit&amp;link=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F" onclick="javascript:window.open('http://sphinn.com/index.php?c=post&amp;m=submit&amp;link=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F'); return false;"></a></li><li style="heigth:32px;width:32px"><a title="Posterous" class="option1_32" style="background-position:-64px -32px" rel="nofollow" href="http://posterous.com/share?linkto=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy&amp;selection=We%20recognize%20that%20your%20privacy%20is%20important.%20This%20document%20outlines%20the%20types%20of%20personal%20information%20we%20receive%20and%20collect%20when%20you%20use%20ACoolLink.com%20%2F%20A%20Cool%20Link%20LLC%2C%20as%20well%20as%20some%20of%20the%20steps%20we%20take%20to%20safeguard%20information.%20We%20hope%20this%20wil" onclick="javascript:window.open('http://posterous.com/share?linkto=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy&amp;selection=We%20recognize%20that%20your%20privacy%20is%20important.%20This%20document%20outlines%20the%20types%20of%20personal%20information%20we%20receive%20and%20collect%20when%20you%20use%20ACoolLink.com%20%2F%20A%20Cool%20Link%20LLC%2C%20as%20well%20as%20some%20of%20the%20steps%20we%20take%20to%20safeguard%20information.%20We%20hope%20this%20wil'); return false;"></a></li><li style="heigth:32px;width:32px"><a title="Tumblr" class="option1_32" style="background-position:-256px -32px" rel="nofollow" href="http://www.tumblr.com/share?v=3&amp;u=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;t=Privacy%20Policy&amp;s=We%20recognize%20that%20your%20privacy%20is%20important.%20This%20document%20outlines%20the%20types%20of%20personal%20information%20we%20receive%20and%20collect%20when%20you%20use%20ACoolLink.com%20%2F%20A%20Cool%20Link%20LLC%2C%20as%20well%20as%20some%20of%20the%20steps%20we%20take%20to%20safeguard%20information.%20We%20hope%20this%20wil" onclick="javascript:window.open('http://www.tumblr.com/share?v=3&amp;u=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;t=Privacy%20Policy&amp;s=We%20recognize%20that%20your%20privacy%20is%20important.%20This%20document%20outlines%20the%20types%20of%20personal%20information%20we%20receive%20and%20collect%20when%20you%20use%20ACoolLink.com%20%2F%20A%20Cool%20Link%20LLC%2C%20as%20well%20as%20some%20of%20the%20steps%20we%20take%20to%20safeguard%20information.%20We%20hope%20this%20wil'); return false;"></a></li></ul>			
+
+			</div>        
+
+		  <a style="cursor:pointer" onclick="hide_sociable('post-3713',true)" class="close">
+
+
+
+		  <img onclick="hide_sociable('post-3713',true)" title="close" src="http://www.acoollink.com/wp-content/plugins/sociable/images/closelabel.png">
+
+		  </a>
+
+		</div>
+
+	</div> 
+
+  </div></div><div class="sociable" style="float:none"><ul class="clearfix"><li id="Twitter_Counter"><a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" onclick="javascript:window.open('https://twitter.com/share'); return false;">Tweet</a><script type="text/javascript" src="//platform.twitter.com/widgets.js"></script></li><li id="Facebook_Counter"><iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&amp;send=false&amp;layout=button_count&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font" scrolling="no" frameborder="0" style="border:none; overflow:hidden;height:32px;width:100px" allowtransparency="true"></iframe></li><li id="Google_+"><g:plusone annotation="bubble" size="medium"></g:plusone></li><li id="LinkedIn_Counter"><script src="http://platform.linkedin.com/in.js" type="text/javascript"></script><script type="IN/Share" data-counter="right"></script></li><li id="StumbleUpon_Counter"><script src="http://www.stumbleupon.com/hostedbadge.php?s=2"></script></li></ul></div><!-- End Sociable -->                
+                                 
+            </div>
+
+<iframe class="scribol" height="422" width="609" id="scribol_238161" scrolling="no" frameborder="0"></iframe>
+<script>
+var Scribol;
+if(typeof Scribol=='undefined'){Scribol={};  Scribol.frames=[];Scribol.site='http://scribol.com/';}
+Scribol.frames.push('238161');</script>
+<script async="async" defer="defer" src="http://scribol.com/txwidget1.2.js"></script>  
+
+            
+
+<!-- You can start editing here. -->
+  
+
+			<!-- If comments are closed. -->
+		<p class="nocomments">Comments are closed.</p>
+
+	
+
+
+			
+			</div><!-- / #main -->
+            
+                <div id="footer">
+				
+                <div id="footerWrap" class="container_16">
+    
+    <div class="grid_4 alpha">
+        		           
+    </div>
+    
+    <div class="grid_4">
+        		           
+    </div>
+    
+    <div class="grid_4">
+        		           
+    </div>
+    
+    <div class="grid_4 omega">
+        		           
+    </div>
+                    
+</div><!-- / #footerWrap -->
+
+                </div><!-- / #footer -->
+            </div><!-- / #contentWrap -->
+        </div><!-- / #content -->
+    </div><!-- / #wrap -->
+        
+    <div class="container_16 clearfix">
+        <div class="grid_16 credits">
+            <p>Copyright © 2011 A Cool Link LLC | <a href="/terms-of-use/" alt="Terms of Use" onclick="javascript:window.open('https://web.archive.org/terms-of-use/'); return false;">Terms of Use</a> | <a href="/privacy-policy/" alt="Privacy Policy" onclick="javascript:window.open('https://web.archive.org/privacy-policy/'); return false;">Privacy Policy</a> | <a href="/sitemap/" alt="sitemap" onclick="javascript:window.open('https://web.archive.org/sitemap/'); return false;">Site Map</a> | <a href="/contact-us/" alt="Contact Us" onclick="javascript:window.open('https://web.archive.org/contact-us/'); return false;">Contact Us</a></p>
+        </div><!-- / #credits -->
+    </div><!-- / #container_16 -->
+    
+<div id="follow" class="right"><ul class="tab down"><li class="follow"><img src="http://www.acoollink.com/wp-content/plugins/share-and-follow/images/blank.gif" alt="follow:"><span>follow:</span></li><li class="iconOnly"><a rel="nofollow me" target="_blank" href="http://www.acoollink.com/feed/rss/" title="RSS"><img src="http://www.acoollink.com/wp-content/plugins/share-and-follow/images/blank.gif" height="24" width="24" style="background: transparent url(http://www.acoollink.com/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1100px 0px" alt="RSS"> <span class="head">RSS</span></a></li></ul></div><script type="text/javascript" src="http://www.acoollink.com/wp-content/plugins/contact-form-7/jquery.form.js?ver=2.52"></script>
+<script type="text/javascript" src="http://www.acoollink.com/wp-content/plugins/contact-form-7/scripts.js?ver=3.0.1"></script>
+
+
+<!-- Category dropdown --> 
+<script type="text/javascript">
+<!--
+function showlayer(layer){
+var myLayer = document.getElementById(layer);
+if(myLayer.style.display=="none" || myLayer.style.display==""){
+    myLayer.style.display="block";
+} else {
+    myLayer.style.display="none";
+}
+}            
+-->
+</script>
+    
 
 </body></html>
