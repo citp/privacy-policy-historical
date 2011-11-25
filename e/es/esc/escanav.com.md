@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escanav.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921190844id_/http%3A//escanav.com/english/content/company/privacy_policy/escan_privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escanav.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125234657id_/http%3A//escanav.com/english/content/company/privacy_policy/escan_privacy_policy.asp) for the most accurate reproduction.*
 
 # eScan : Secure – Scalable – Reliable : Antivirus, Content Security and Firewall Protection for Servers and Endpoints
 
@@ -21,4 +21,4 @@ Will MicroWorld change its' policy?
 When you browse this website, you agree to the collection and use of your information by MicroWorld. If MicroWorld alters its privacy policy in any way, the changes will be posted here for your ready reference. 
 
 Any more questions?  
-MicroWorld takes the issue of protecting your privacy very seriously. If you have any concerns, questions or just want to express your thoughts, feel free to contact MicroWorld or write to us at sales@mwti.net 
+MicroWorld takes the issue of protecting your privacy very seriously. If you have any concerns, questions or just want to express your thoughts, feel free to contact MicroWorld or write to us at [sales@escanav.com](mailto:sales@escanav.com)
