@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the londonfgss.com privacy policy that was archived on 2010-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100806121529id_/http%3A//www.lfgss.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonfgss.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125085700id_/http%3A//www.lfgss.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - London Fixed-gear and Single-speed
 
