@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitmyrtlebeach.com privacy policy that was archived on 2011-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110210051732id_/http%3A//www.visitmyrtlebeach.com/News/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitmyrtlebeach.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125161928id_/http%3A//www.visitmyrtlebeach.com/News/Privacy_Statement.html) for the most accurate reproduction.*
 
 # Myrtle Beach Area Convention and Visitors Bureau - Privacy Policy
 
