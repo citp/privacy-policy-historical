@@ -1,241 +1,115 @@
-> *The following text is extracted and transformed from the dealtoworld.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623114228id_/http%3A//www.dealtoworld.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealtoworld.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125184244id_/http%3A//help.dealtoworld.com/contact-us/48-privacy-notice.html) for the most accurate reproduction.*
 
-# DealToWorld:Cool Gadgets from Shanghai at the Right Price - Site-Wide Free Shipping
+# Privacy Notice
 
-### privacy statement
+dealtoworld respects your privacy and takes your online safety seriously. In order to provide you with the best products, efficient customer service, and timely updates, we record a variety of information from your visit to our site. To better protect your privacy, we provide the notice below explaining our online information practices and the choices you can make about the way your information is collected and used.   
 
-## Data Collection
 
-DTW undertakes to collect Your Data by means that are: 
 
-  * fair;
-  * legal; and 
-  * transparent.
+## dealtoworld's Privacy Policy
 
+Thank you for accessing the website ("Site") of Light In The Box Limited (all references to “us” and “our" refer to dealtoworld.com). We respect your privacy and want you to know about the policies we have in place to protect your personal information.
 
+This Privacy Policy explains:  
+How we collect, use, and (under certain conditions) disclose your personal information.  
+The steps we’ve taken to secure your personal information.  
+Your options regarding the collection, use, and disclosure of your personal information.
 
-**If you visit DTW's web-site,** your web-browser automatically discloses, and DTW's web-server automatically logs, the following information: the date and time, the IP address from which you issued the request, the type of browser and operating system you are using, the URL of any page that referred you to the page, the URL you requested, and whether your request was successful. This data may or may not be sufficient to identify you. 
+This Privacy Notice applies only to this website and does not necessarily apply to personal information we collect from you offline. Please see the section on Offline Collection, Use & Disclosure of Information details. We are not responsible for the content or privacy practices on any website other than dealtoworld.com to which this Site links or that links to this Site.
 
-**Any additional data that you provide, e.g. in a web-form,** may also be logged. This data may or may not be sufficient to identify you. 
+**By visiting our Site, you accept the practices described in this Notice.**   
+How does dealtoworld.com collect information about me?  
+How does dealtoworld.com use my personal information?   
+How are cookies and other technologies used to collect information?  
+Does dealtoworld.com ever give out my personal information?  
+Is information dealtoworld.com collects about me secure?  
+Are children allowed to use dealtoworld.com?  
+How does dealtoworld.com use and disclose information collected from me offline?  
+Where can I find updates to this policy?
 
-**Any additional data that your web-browser automatically provides** may also be logged. This will be the case, for example, if your browser has previously been requested to store data on your computer in **'cookies'** and submits them each time you request a web-page within a particular domain (such as dealtoworld.com). This data may or may not be sufficient to identify you. 
+#### How does dealtoworld.com collect information about me?
 
-**If you disclose personal data to DTW in conjunction with an identifier such as your name or your contact details (such as your e-mail address),** DTW will collect Your Data. Moreover, any data that becomes available to DTW through any of the means described in the preceding paragraphs may be able to be associated with that identifier, and hence become Your Data. 
+We collect information from Site users in several different ways, with the goal of providing an efficient, meaningful, and customized shopping experience. For example, we can use your personal information to:   
+* Record and quickly bring up information you’ve given previously  
+* Help you quickly find information, products, and services  
+* Create content that is relevant to you  
+* Alert you of our new information, products, and services
 
-Subject to the qualifications immediately below, DTW undertakes to collect Your Data from you and not from other parties. This undertaking is qualified as follows: 
+ **Registration and Ordering:** In order to use certain parts of this Site or order products, all customers must fill out an online registration form with personal information, including but not limited to, your name, gender, shipping and billing address(es), phone number, email address, and credit card number. In addition, we may ask for your country of residence and/or your organization's country of operation, so that we can comply with applicable laws and regulations. This information is used for billing, order processing and internal marketing as well as to communicate with you about your order and our site. ****
 
-  * where DTW reasonably considers that the protection of its financial interests requires that it gather Your Data from other sources, or from additional sources. This applies in particular where DTW has a lending exposure to you, and seeks information about your creditworthiness; 
-  * where DTW reasonably considers that its capability to deliver quality services to you will be materially enhanced by gathering Your Data from other sources. This applies in particular to consumer profile data. 
+**Email Addresses:** Several locations on the Site allow you to enter your email address for purposes including but not limited to: registering for free promotional notices, requesting notification when new brands or product styles arrive, or signing up for our email newsletter. In addition, any participation in promotional contests organized by dealtoworld.com is completely voluntary and requires disclosure of contact information needed to notify winners and award prizes. We may post the names and cities of contest winners on our Site.
 
+ **Log Files:** Like most websites, the Site server automatically recognizes the Internet URL from which you access this Site. We may also log your Internet protocol (IP) address, Internet service provider, and date/time stamp for system administration, order verification, internal marketing and system troubleshooting purposes. (An IP address may indicate the location of your computer on the Internet.)   
+**  
+Product Reviews:** We ask for an email address and location along with the submission of all product reviews. Your email address will be kept private, but your location will be visible to other users. All other personal information that you choose to submit as part of the review will be available to other visitors to the Site. 
 
+#### How does dealtoworld.com use cookies and other technology to collect information?
 
-**Where DTW collects Your Data from sources other than you** , it undertakes: 
+Cookies are small pieces of information that your Internet browser stores as text files on your computer's hard drive. Most browsers accept cookies by default, but setting your browser to refuse cookies or remove them from your hard drive will prevent you from using parts of this Site. dealtoworld.com uses cookies to  
+* speed up navigation   
+* track site usage  
+* recognize users and user access privileges   
+* enable selection and purchase products on this Site record your browsing activity and purchases
 
-  * to do so only by legal means; 
-  * to do so only with your Consent; and 
-  * to declare to you what sources it uses, and under what circumstances. 
+ **This Site's cookies do not and cannot infiltrate a user’s hard drive to gather any confidential information.  
+** This Site also uses web beacons (also known as clear GIF technology or "action tags") to:   
+* help deliver cookies   
+* track views of a web page
 
+Any electronic image on the Site, such as an ad banner, can function as a web beacon. We may use content or ads from third-party advertising companies that may use cookies and web beacons to measure web page visits or amount of products purchased.   
+**Any information these third parties collect via cookies and web beacons is not linked to any personal information we collect.
 
+How does dealtoworld.com use my personal information?
 
-DTW undertakes to declare the **purpose of collection** in a manner which is clear and meaningful, and to avoid vague, highly inclusive statements such as 'to support our operations'. 
+** **Internal Use:** We use your personal information to process your order and provide you with customer service. We may use your personal information internally to collect general information about visitors to this Site, improve Site content and layout, improve our outreach, and market our services and products.
 
-* * *
+ **Communication with You:** We will use your personal information to communicate with you about our Site and your orders. All customers must provide an email address to allow communication with dealtoworld.com regarding orders placed. We may send you a confirmation email after you register with us as well as service-related announcements as necessary (for example, temporary suspension of service for maintenance.) You may also submit your email address to request notification when we receive a new brand, product style or product, or to sign up for our email newsletter and special offers. You can unsubscribe or opt out of future emails at any time (see the Opt Out/Corrections section below for more details).
 
-## Data Security
+Does dealtoworld.com ever give out my personal information?
 
-DTW undertakes to **store** Your Data in a manner that ensures security against unauthorised access, alteration or deletion, at a level commensurate with its sensitivity.
+We sell merchandise, not information **— We do not sell, rent, trade, license, or otherwise disclose your personal or financial information to anyone, except in the following specific situations:
 
-DTW undertakes to store Your Data only in **jurisdictions** where data protections are at least equivalent to those required under the OECD Guidelines. 
+Third-party service providers:
 
-DTW undertakes to **transmit** Your Data in a manner that ensures security against unauthorised access, alteration or deletion, at a level commensurate with its sensitivity.
+** Like most online retailers, we sometimes use third-party service providers to perform specific functions on our behalf. Any information disclosed to them is solely to help in their provision of service. For example, we provide your name, shipping address, email and phone number to partners such as DHL and UPS in order to guarantee delivery of your orders, and we may use relevant customer information in order to monitor the quality of the third party’s service.  
+Similarly, we must provide your credit card number to financial services organizations such as credit card processors and issuers in order to process payments. We protect all submissions of your credit card number for authorization with state-of-the-art data encryption. (More on this below in the Data Security section.)
 
-DTW undertakes to implement appropriate **measures to ensure security of Your Data against inappropriate behaviour by DTW's staff-members and contractors**. These include: 
+ **Legal requirement to disclose information:** We may be required to disclose information if subpoenaed, served with a court order or requested by law-enforcement officials conducting investigations, or if we are otherwise required by law to disclose such information. We will also release personal information when necessary to protect our legal rights or enforce our Terms of Use and other agreements. For example, we may share information to reduce the risk of fraud, or to prevent fraud by users who attempt fraud or other illegal activity on our Site.  
+ **  
+Merger and/or sale of assets:** We do not normally sell, trade or rent personal information   
+to other companies in the course of our business. However, it is possible that we might acquire, merge with or be acquired by another company, or that we might dispose of some or all of our assets, in which case your personal information could be disclosed to another company, subject to the Privacy Notice in effect.  
+ **  
+Non-personally identifiable information:** We may share information that does not identify you or any user, such as the number of daily visitors to a particular page, or the size of an order placed on a certain date, with third parties such as advertising partners. 
 
-  * training for staff in relation to privacy; 
-  * access control, to limit access to Your Data to those staff and contractors who have legitimate reasons to access it; 
-  * particularly in the case of sensitive data, audit trails of accesses, including the identities of staff and contractors accessing the data; 
-  * reminders to staff and contractors from time to time about the importance of data privacy, and the consequences of inappropriate behaviour; 
-  * declaration of appropriately strong sanctions that are to be applied in the event of inappropriate behaviour 
-  * clear communication of policies and sanctions; and 
-  * processes to audit, to investigate and to impose sanctions. 
+#### How does dealtoworld.com secure information collected about me?
 
+This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, such as:   
+* Safeguarding all financial transactions done through this Site with Secure Sockets Layer ("SSL") encryption   
+* Granting only employees who are providing a specific service access to your personal information   
+* Working only with third-party service providers who we believe adequately secure all computer hardware.   
+**While our business is designed with safeguarding your personal information in mind, please remember that 100% security does not presently exist anywhere, online or offline.**
 
+#### What choices do I have regarding dealtoworld.com’s collection of my information?
 
-* * *
+You can choose to:   
+* Correct or update your personal information   
+* Stop receiving mail to your email address   
+* Disable your account to prevent any future purchases through that account   
+**To correct or update your personal information** , log in to My Accounts and submit a request through the online Customer Service.   
+**To unsubscribe from emails** you receive from dealtoworld.com, follow the unsubscribe link at the bottom of the email and select the option appropriate for you.
 
-## Data Use
+#### Are children allowed to use dealtoworld.com?
 
-Use refers to the application of Your Data by any part of DTW, or any staff-member or contractor of DTW in the course of their work. 
+We respect children's privacy. We do not knowingly or intentionally collect personal information from children under age 13. Elsewhere on this Site, you have represented and warranted that you are either 18 years of age or are using the Site with the supervision of a parent or guardian.  
+If you are under the age of 13, please do not submit any personal information to us, and rely on a parent or guardian to assist you when using the Site.
 
-DX undertakes to use Your Data only for: 
+#### How does dealtoworld.com use and disclose information collected from me offline?
 
-  * **the purposes for which it was collected;**
-  * such other purposes as are **subsequently agreed** between DTW and You; 
-  * such additional purposes as may be **required by law**. In these circumstances, DTW will take any reasonable steps available to it to communicate to You that the use has occurred, unless it is precluded from doing so by law; and
-  * such additional purposes as are **authorised by law** (in particular to protect DTW's interests, e.g. if it believes on reasonable grounds that You have failed to fulfil your undertakings to DTW or have committed a breach of the criminal law).
+As dealtoworld.com collects most information through our Site, this Privacy Policy applies only to online collection of personal information.  
+We also protect all personal information that is collected from you offline, such as through phone calls. If we contact you by telephone regarding an order or payment, we will ask only for the personal information needed to place your order or resolve your issue. When we need to store information related to an order, we enter it into our database through SSL encryption (See the Data Security section above for more information).
 
+This Policy does not attempt to cover all possible offline methods of collecting or using personal information, however, we will treat any offline collection, use, or disclosure of personal information in a manner consistent with our online practices.
 
+#### Where can I find updates to this policy?
 
-DTW undertakes to use Your Data only if it has **demonstrable relevance** to the particular use to which it is being put.
-
-DTW undertakes to use Your Data in such a manner as to take into account the possibility that it is not of **sufficient quality for the purpose** , e.g. because it is inaccurate, out-of-date, incomplete, or out-of-context. 
-
-* * *
-
-## Data Disclosure
-
-Disclosure refers to making Your Data available to any party other than DTW and You. The term disclosure may include many different conditions of data transfer, including selling, renting, trading, sharing and giving. 
-
-DTW undertakes to disclose Your Data only under the following circumstances: 
-
-  * **in the course of business being conducted between You and DTW** , where disclosure is necessary to a contractor, such as payment processors like PayPal and transportation companies. Where Your Data is disclosed in this way, DTW undertakes to exercise control over DTW's contractors to ensure that their actions are compliant with these Terms; 
-  * **in other circumstances that are directly implied by the purpose agreed between You and DTW** at the time of data collection or subsequently. Where Your Data is disclosed in this way, DTW undertakes to exercise control over DTW's contractors to ensure that their actions are compliant with these Terms; 
-  * **with your consent,** or at your request;
-  * **where required by law,** such as a provision of a statute, or a court order such as a search warrant or sub poena. In these circumstances, DTW will take any reasonable steps available to it to communicate to You that the disclosure has occurred, unless it is precluded from doing so by law; 
-  * **where permitted by law** (e.g. the reporting of suspected breach of the criminal law to a law enforcement agency; and in an emergency, where DTW believes on reasonable grounds that the disclosure of Your Data will materially assist in the protection of the life of health of some person), provided that DTW will apply due diligence to ensure that the exercise of the permission is justifiable. 
-
-
-
-In all cases, DTW undertakes to disclose only such of Your Data as is necessary in the particular circumstances. 
-
-* * *
-
-## Data Retention and Destruction 
-
-Subject to the qualifications immediately below, DTW undertakes: 
-
-  * to **retain** Your Data only as long as is consistent with its purpose; and 
-  * to **destroy** Your Data when its purpose has expired, and to do so in such a manner that Your Data is not subsequently capable of being recovered. 
-
-
-
-This undertaking is qualified as follows: 
-
-  * Your Data may be retained in DTW's **logs, backups and audit trails** within short-term retention cycles that are devised to protect the company's operations. In such cases, Your Data will be destroyed in accordance with those cycles; 
-  * Your Data may be retained beyond the expiry of its purpose if that is **required by law** , such as a provision of a statute, or a court order such as a search warrant or sub poena, or a warning by a law enforcement agency that delivery of a court order is imminent. In these circumstances, DTW: 
-    * will take any reasonable steps available to it to communicate to You that Your Data is being retained, unless it is precluded from doing so by law; and 
-    * will only retain Your Data while that provision is current, and will then destroy Your Data; 
-  * Your Data may be retained beyond the expiry of its purpose if it is **authorised by law** (in particular to protect DTW's interests, e.g. if it believes on reasonable grounds that You have failed to fulfil your undertakings to DTW or have committed a breach of the criminal law). In these circumstances, DTW will only retain Your Data while that situation is current, and will then destroy Your Data. 
-
-
-
-* * *
-
-## Access by You to Your Personal Data
-
-DTW undertakes to provide you with **access** to Your Data, subject to only such conditions and processes as are reasonable in the circumstances. In particular, DTW undertakes to enable access: 
-
-  * conveniently; 
-  * without unreasonable delay; and 
-  * •without cost.
-
-
-
-DTW undertakes to establish and operate **identity authentication protections for access to Your Data** that are appropriate to its sensitivity, but practical. This may involve some inconvenience; for example, relatively straightforward procedures may be involved in order to provide you with access through a channel that you have previously registered with DTW (such as a particular email-address), but may impose more onerous procedures if you wish to use some other channel.
-
-In the event that you dispute some aspect of Your Data, DTW undertakes to take reasonable steps in relation to the **amendment, supplementation or deletion** of Your Data. 
-
-You undertake: 
-
-  * not to seek access for frivolous purposes, or unreasonably frequently; 
-  * to accept that deletion of some data may not be consistent with the provision of particular services by DTW to you. 
-
-
-
-* * *
-
-## Information about Data-Handling Practices
-
-DTW undertakes to make information available to you about the manner in which DTW handles your data: 
-
-  * in general terms, in a readily accessible manner; and 
-  * in more specific terms, on request.
-
-
-
-Where Your Data is disclosed to a contractor, DTW undertakes to make information available to you on request about the manner in which DTW's contractors handle your data.
-
-DTW undertakes to ensure that the information provided is meaningful, and addresses your concerns. 
-
-You undertake: 
-
-  * not to seek such information for frivolous purposes, or unreasonably frequently; and 
-  * to accept that the disclosure of excessive detail may harm the security of Your Data and DTW's business processes, and may harm DTW's commercial interests. 
-
-
-
-* * *
-
-## Handling of Enquiries, General Concerns and Complaints
-
-If you have enquiries, general concerns, or complaints about these Terms, or about DTW's behaviour in relation to these Terms, you undertake: 
-
-  * to **communicate them in the first instance:**
-    * to DTW only; 
-    * in sufficient detail; 
-    * through a channel made available by DTW for that purpose; 
-
-
-
-DTW undertakes: 
-
-  * to provide one or more **channels for communications** to DTW, which are convenient to users; 
-  * to promptly provide **acknowledgement** of the receipt of communications, including the provision of a copy of the communication, the date and time it was registered, and DTW's reference-code for the communication; 
-  * to promptly provide **a response** to the communication, in an appropriate and meaningful manner. 
-
-
-
-You further undertake to not pursue DTW through any **Regulator or the media** : 
-
-  * until and unless DTW has had a reasonable opportunity to respond to the initial communication; and 
-  * while DTW and you remain are conducting a meaningful dialogue about the matter. 
-
-
-
-* * *
-
-## Enforcement
-
-DTW declares that its undertakings in these Terms are intended to create **legal obligations** , and that those obligations are intended to be **enforceable** under appropriate laws in appropriate jurisdictions. These include laws relating to data protection, privacy, fair trading, corporations and criminal laws. 
-
-You undertake to seek enforcement only in a jurisdiction that is relevant to the transactions that have taken place between You and DTW, in particular the **jurisdiction** in which you live or in which you performed the relevant acts, and the jurisdiction in which DTW is domiciled or performed the relevant acts. 
-
-If you wish to discover the **relevant laws** in any particular jurisdiction, DTW draws your attention to the following resources: 
-
-  * [WorldLII Privacy Links](http://www.worldlii.org/catalog/273.html "WorldLII Privacy Links")
-  * [Compilation of [U.S.] State and Federal Privacy Laws](http://www.privacyjournal.net/work1.htm "Compilation of \[U.S.\] State and Federal Privacy Laws"), Privacy Journal, Providence RI 
-  * [Privacy Law Sourcebook 2004](http://www.epic.org/bookstore/pls2004/ "Privacy Law Sourcebook 2004"), EPIC, Washington DC 
-  * the Australian Privacy Foundation's pages: 
-    * [International Instruments Relating to Privacy Law](http://www.privacy.org.au/Resources/PLawsIntl.html "International Instruments Relating to Privacy Law")
-    * [Privacy Laws of Countries of the World ](http://www.privacy.org.au/Resources/PLawsWorld.html "Privacy Laws of Countries of the World")
-    * [Privacy Laws of the Commonwealth of Australia ](http://www.privacy.org.au/Resources/PLawsClth.html "Privacy Laws of the Commonwealth of Australia")
-    * [Privacy Laws of the States and Territories of Australia](http://www.privacy.org.au/Resources/PLawsST.html "Privacy Laws of the States and Territories of Australia")
-  * [Privacy International ](http://www.privacyinternational.org/index.shtml?cmd\[342\]\[\]=c-1-Data+Protection+and+Privacy+Laws&als\[theme\]=Data%20Protection%20and%20Privacy%20Laws&conds\[1\]\[category........\]=Data%20Protection%20and%20Privacy%20Laws "Privacy International")
-
-
-
-* * *
-
-## Changes to These Privacy Undertakings
-
-DTW undertakes: 
-
-  * not to materially change these Terms in a manner that reduces the protections for Your Data; 
-  * to take all possible steps to prevent any company that acquires this company or any of its relevant assets from materially changing the Terms applicable to Your Data in a manner that reduces the protections for Your Data; 
-  * where it is considering making changes to these Terms, or creating more specific Terms relating to specific services, to consult with appropriate representative and advocacy organisations; 
-  * where it makes changes to these Terms, to ensure that the differences between successive versions are readily accessible;
-  * to maintain all prior versions of these Terms in such a manner that they are dated, and readily accessible. 
-
-
-
-* * *
-
-## Definitions
-
-**DTW** means DealToWorld.com.
-
-**Your Data** means data that is capable of being associated with you, whether or not it includes an explicit identifier such as your name or customer number. In particular, it encompasses all data that DTW is capable of correlating with you, using such means as server-logs and cookie-contents.
-
-Your Data does not refer to data that can no longer be associated with you. This includes aggregated data that does not and cannot identify the individuals whose data are included in the aggregation. 
-
-**Consent** means your concurrence with an action to be taken by DTW. Consent may be express or implicit, but in either case must be informed and freely-given. 
+To keep you informed of what information we collect, use, and disclose, we will post any changes or updates to this Privacy Notice on this Site and encourage you to review this Privacy Notice from time to time. Please contact us with any questions about the Privacy Notice.
