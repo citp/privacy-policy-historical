@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evilmadscientist.com privacy policy that was archived on 2010-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100225095748id_/http%3A//www.evilmadscientist.com/privpol.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evilmadscientist.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125115043id_/http%3A//www.evilmadscientist.com/privpol.php) for the most accurate reproduction.*
 
 # Making the World a Better Place, One Evil Mad Scientist at a Time - Evil Mad Scientist Laboratories
 
