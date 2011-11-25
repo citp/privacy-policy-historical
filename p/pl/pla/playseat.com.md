@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playseat.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519120343id_/http%3A//www.playseat.com/en/playseats-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playseat.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125153944id_/http%3A//www.playseat.com/en/playseats-privacy-policy) for the most accurate reproduction.*
 
 # Privacy | playseats
 
