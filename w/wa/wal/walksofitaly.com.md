@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walksofitaly.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516083141id_/http%3A//www.walksofitaly.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walksofitaly.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125112228id_/http%3A//walksofitaly.com/privacy_policy) for the most accurate reproduction.*
 
 # Walks of Italy | Privacy Policy when Booking a Walking Tour
 
@@ -30,10 +30,10 @@ Any of the information we collect from you may be used in one of the following w
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
   
-• To send periodic emails  
+• To send periodic marketing emails  
 
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.  
+> The email address you provide for order processing will be used to send you information and updates pertaining to your order. We will periodically send email updates regarding new products, promotions or any other relevant material directly related to Walks of Italy services.   
 > 
 
 • To track advertising usage and effectiveness.
@@ -69,7 +69,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-**Childrens Online Privacy Protection Act Compliance**
+**Children's Online Privacy Protection Act Compliance**
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
@@ -77,7 +77,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at 
 
-[http://www.walksofitaly.com/static_pages/page/terms](http://www.walksofitaly.com/static_pages/page/terms)
+[http://www.walksofitaly.com/terms](http://www.walksofitaly.com/terms)
 
 **Your Consent**
 
@@ -89,7 +89,7 @@ By using our site, you consent to our 
 
 If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on 08/06/2010
+This policy was last modified on 09/09/2011
 
 **Contacting Us**
 
