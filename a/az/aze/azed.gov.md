@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the azed.gov privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605102431id_/http%3A//azed.gov/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azed.gov privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125053218id_/http%3A//www.azed.gov/privacy-policy-statement) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# PRIVACY POLICY STATEMENT | Arizona Department of Education
 
 Thank you for visiting the Arizona Department of Education web site and reviewing our Privacy Policy Statement. Pursuant to A.R.S. § 41-3901 _et seq_., all agency web sites of the State of Arizona shall contain a Privacy Policy Statement. This statement is designed to inform our customers about the information available online through the Arizona Department of Education web site, how that information will be used, and what steps are being taken to ensure the security of customer data. State employees, as well as agents or employees of private contractors who are providing services on behalf of the State, may be given access to and possession of your information. Your rights to privacy are of utmost importance to the Arizona Department of Education in building trust and confidence when conducting business through the Internet.
 
@@ -26,7 +26,7 @@ The Arizona Department of Education and its consultants, as developer and manage
 
 ### Cookies
 
-To better serve our customers, the Arizona Department of Education web site uses "cookies" to ease the flow from page to page in password-protected applications, such as the Common Logon. Cookies are simple text files stored on your computer by your web browser. They identify your domain name or Internet Protocol address, as a method of distinguishing among visitors to the Arizona Department of Education web site. Cookies are used only by the Arizona Department of Education and are not shared with any other individuals, third parties, or entities. Areas of the Arizona Department of Education web site that do not require password protection, also do not require cookies. You can refuse a cookie or delete a cookie file from your computer system by selecting various options on your computer’s browser.
+To better serve our customers, the Arizona Department of Education web site uses “cookies” to ease the flow from page to page in password-protected applications, such as the Common Logon. Cookies are simple text files stored on your computer by your web browser. They identify your domain name or Internet Protocol address, as a method of distinguishing among visitors to the Arizona Department of Education web site. Cookies are used only by the Arizona Department of Education and are not shared with any other individuals, third parties, or entities. Areas of the Arizona Department of Education web site that do not require password protection, also do not require cookies. You can refuse a cookie or delete a cookie file from your computer system by selecting various options on your computer’s browser.
 
 ### Other External Links Disclaimer
 
