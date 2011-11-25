@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psoriasis.org privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628011709id_/http%3A//www.psoriasis.org/page.aspx%3Fpid%3D187) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psoriasis.org privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125182148id_/http%3A//www.psoriasis.org/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # National Psoriasis Foundation - Privacy Policy
 
@@ -24,7 +24,7 @@ We send out electronic and other communications to National Psoriasis Foundation
 
 The National Psoriasis Foundation, like many other nonprofit organizations, occasionally makes available only our constituents' names and postal addresses to companies, predominantly other nonprofit organizations. We carefully screen these organizations. These practices help us reduce the cost of reaching more individuals with information about psoriasis and psoriatic arthritis.
 
-You can request that we do not share your information by e-mailing us at [privacy@psoriasis.org](https://web.archive.org/web/20110628011709id_/http%3A//www.psoriasis.org/privacy@psoriasis.org). If you use more than one e-mail address or postal address, please identify each one.
+You can request that we do not share your information by e-mailing us at [privacy@psoriasis.org](https://web.archive.org/web/20111125182148id_/http%3A//www.psoriasis.org/about-us/legal/privacy@psoriasis.org). If you use more than one e-mail address or postal address, please identify each one.
 
 We will also share such personal information when we believe release is appropriate to comply with the law, enforce our rights, or protect the safety of our constituents or others.
 
@@ -66,7 +66,7 @@ National Psoriasis Foundation produces websites, including, PsoMe.org, as well a
 
 #### TalkPsoriasis.org Online Community
 
-The TalkPsoriasis online community is sponsored by the National Psoriasis Foundation and hosted by Inspire. Individuals who register on [TalkPsoriasis.org](https://web.archive.org/web/20110628011709id_/http%3A//www.psoriasis.org/TalkPsoriasis.org) agree to the privacy policy set forth by Inspire. More information on the Inspire privacy policy can be found here: <http://www.inspire.com/about/privacy>.
+The TalkPsoriasis online community is sponsored by the National Psoriasis Foundation and hosted by Inspire. Individuals who register on [TalkPsoriasis.org](https://web.archive.org/web/20111125182148id_/http%3A//www.psoriasis.org/about-us/legal/TalkPsoriasis.org) agree to the privacy policy set forth by Inspire. More information on the Inspire privacy policy can be found here: <http://www.inspire.com/about/privacy>.
 
 The National Psoriasis Foundation does not endorse or accept any responsibility for the content of external websites. For more information see our complete [terms of use](https://www.psoriasis.org/NetCommunity/SSLPage.aspx?pid=931).
 
