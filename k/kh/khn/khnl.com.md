@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the khnl.com privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305094617id_/http%3A//www.hawaiinewsnow.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khnl.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125143116id_/http%3A//www.hawaiinewsnow.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Hawaii News Now - KGMB and KHNL Home
+# Privacy Policy - Hawaii News Now - KGMB and KHNL
 
 **This Website's Privacy Policy**
 
