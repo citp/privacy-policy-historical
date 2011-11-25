@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the vblinkdir.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130194311id_/http%3A//vblinkdir.com/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vblinkdir.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125154446id_/http%3A//vblinkdir.com/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy Get Links
 
 | 
-
-[](http://submissionwizards.com/Directory-Submissions/Directory-Submission-Services.html)
 
 **What information do we collect?**
 
@@ -63,10 +61,5 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 sdscripts.support @ gmail.com
 
-| 
-
-| Active Users: | 4  
----|---  
-Accounts: | 0  
-Guests: | 4  
-Visits last 24h: | 435
+|   
+---|---|---
