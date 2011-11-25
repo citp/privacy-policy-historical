@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ldsmag.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603233721id_/http%3A//www.ldsmag.com/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldsmag.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125191657id_/http%3A//www.ldsmag.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Meridian Magazine:: Privacy Policy
 
@@ -8,7 +8,7 @@ We are very sensitive to the privacy of Internet users who visit this site. We e
 
 **Our Identity and How to Contact Us**
 
-This site is solely owned and operated by Scot and Maurine Proctor. Users can contact us via e-mail at: [feedback@meridianmagazine.com ](mailto:feedback@meridianmagazine.com) or through a regular snail-mail address here: Meridian Magazine P.O. Box 94 Fairfax Station, VA 22039. Users are welcome to send a message detailing any questions or concerns. 
+This site is solely owned and operated by Scot and Maurine Proctor. Users can contact us via e-mail at: [feedback@meridianmagazine.com ](mailto:feedback@meridianmagazine.com) or through a regular snail-mail address here: Meridian Magazine 409 N. Country Manor Lane Alpine, UT 84004. Users are welcome to send a message detailing any questions or concerns. 
 
 **Double Opt-In Subscriber Base**
 
@@ -48,7 +48,9 @@ LDSMAG.COM states that any information collected from users in the form of names
 
 Information is stored privately and is not publicly accessible. LDSMAG.COM takes reasonable steps to ensure that this is the case for protecting information regarding users. 
 
-If you wish to correct or update any information given to LDSMAG.COM (Meridian Magazine) regarding yourself, please use [feedback@meridianmagazine.com ](mailto:feedback@meridianmagazine.com) or feel free to contact us via snail-mail as noted above: Meridian Magazine P.O. Box 94 Fairfax Station, VA 22039. 
+If you wish to correct or update any information given to LDSMAG.COM (Meridian Magazine) regarding yourself, please use [feedback@meridianmagazine.com ](mailto:feedback@meridianmagazine.com) or feel free to contact us via snail-mail as noted above: Meridian Magazine 409 N. Country Manor Lane Alpine, UT 84004.
+
+For critical issues or emergencies, please call Meridian Magazine at 202-714-5775.
 
 LDSMAG.COM reserves the right to update this privacy policy in the future, and accepts that users should periodically check this privacy policy to be aware of revisions. Meridian Magazine understands that continued use of its services signifies that its users accept the terms of its privacy policy. 
 
@@ -70,4 +72,4 @@ We reserve the right, at our discretion, to change, modify, add, or remove porti
 
 **Current Effective Date**
 
-This current updated version of the Privacy Policy became effective on the 2nd day of May, 2008.
+This current updated version of the Privacy Policy became effective on the 1st day of January, 2011.
