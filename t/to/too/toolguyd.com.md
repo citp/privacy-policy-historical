@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toolguyd.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526234402id_/http%3A//toolguyd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolguyd.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125221135id_/http%3A//toolguyd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ToolGuyd
 
@@ -36,6 +36,6 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 While we periodically review the privacy policies of all third parties that may collect information through ToolGuyd via advertisements or provided services, we are not responsible for their privacy policies or how they use the information that they collect.
 
-If you have any questions or concerns about your privacy, please feel free to [contact us](http://toolguyd.com/contact_us/).
+If you have any questions or concerns about your privacy, please feel free to [contact us](http://toolguyd.com/contact-us/).
 
 Updated Mar 13 2009
