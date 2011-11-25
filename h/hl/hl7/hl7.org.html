@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hl7.org privacy policy that was archived on 2011-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110526024129id_/http%3A//www.hl7.org/legal/privacy.cfm%3Fref%3Dnav) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hl7.org privacy policy that was archived on 2011-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111125034115id_/http%3A//www.hl7.org/legal/privacy.cfm%3Fref%3Dnav) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	
@@ -36,19 +36,11 @@ and the "push" div must be the last element inside it. See http://ryanfait.com/s
 			</div>
 			
 			<div id="headersearchbar">
-				<form action="../search/index.cfm" method="GET">
-					<a href="../search/index.cfm">Advanced Search</a>
-					<input type="image" id="headersearchimginput" src="../assets/systemimages/gosearch.gif">
-					<input type="text" id="headersearchtextinput" name="criteria">
-					<select name="searchScope">
-						<option value="QuickSearch" selected="true">--Quick Search--
-						</option><option value="">Extended Search</option>
-						<option value="WGDocument">Work Group Documents
-						</option><option value="WGMinutes">Work Group Minutes
-						
-					</option></select>
-					<input type="hidden" name="wg_code" value="">
+				<form name="miniHL7Search" id="miniHL7Search" action="../search/index.cfm" method="GET">
+					<input type="image" class="headersearchimginput" src="../assets/systemimages/gosearch.gif">
+					<input type="text" class="headersearchtextinput" name="criteria">
 				</form>
+				<a href="JavaScript:document.forms['miniHL7Search'].submit();" style="padding-right:10px;">Search</a>
 			</div>
 			<div id="headerloginandhelpbar">
 				
@@ -190,6 +182,11 @@ and the "push" div must be the last element inside it. See http://ryanfait.com/s
 			</li>				
 		
 			<li class="">
+				<a href="../participate/webinars.cfm?ref=nav" target="_self">Webinar Recordings</a>
+				
+			</li>				
+		
+			<li class="">
 				<a href="../implement/certificationdirectory.cfm?ref=nav" target="_self">Certification Directory</a>
 				
 			</li>				
@@ -254,7 +251,7 @@ and the "push" div must be the last element inside it. See http://ryanfait.com/s
 				
 <ul class="navigationlist">
 	<li class="">
-				<a href="http://www.hl7.org/concalls/index.cfm?action=home.welcome&amp;ref=nav" target="_self">Conference Calls</a>
+				<a href="../concalls/Default.aspx?ref=nav" target="_self">Conference Calls</a>
 				
 			</li>				
 		
@@ -417,7 +414,8 @@ and the "push" div must be the last element inside it. See http://ryanfait.com/s
     
     <div id="maincontent" style="width: 1147px;">
 		<div id="breadcrumbs"> <a href="../index.cfm?ref=nav">Home</a> &gt; <a href="../#">Footer</a> &gt; Privacy Policy </div>
-
+		
+		
 	<h1>HL7 Privacy Statement</h1>
 	<h3>Overall Policy</h3>
 	<p>HL7 is committed to respecting the privacy of its members and visitors. HL7
@@ -571,6 +569,7 @@ and the "push" div must be the last element inside it. See http://ryanfait.com/s
 						<li><a href="../implement/standards/index.cfm?ref=footer">See our standards</a></li>
 						<li><a href="../store/index.cfm?ref=footer">Purchase a standard</a></li>
 						<li><a href="../implement/standards/rim.cfm?ref=footer" target="_blank">Download the RIM</a></li>
+						<li><a href="../about/certifiedEHROrganizations.cfm?ref=footer">List of HL7 Org. Members with ONC Meaningful Use certified EHR products</a></li>
 					</ul>
 				</td>
 			</tr>
