@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the arla.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621081933id_/http%3A//www.arla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arla.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125010439id_/http%3A//www.arla.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Arla Foods bring you Closer to Nature with our dairy products
 
 **Arla Foods knows that you care how information about you is used and shared and it is careful to ensure that any such information that comes into its possession is properly looked after.**
 
