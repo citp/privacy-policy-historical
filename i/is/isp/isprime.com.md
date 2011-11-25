@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isprime.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414140107id_/http%3A//www.isprime.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isprime.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125100048id_/http%3A//www.isprime.com/legal/privacy.html) for the most accurate reproduction.*
 
 # ISPrime - Privacy Policy
 
