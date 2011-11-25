@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mustakbil.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228145355id_/http%3A//www.mustakbil.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mustakbil.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125012402id_/http%3A//www.mustakbil.com/privacy-policy) for the most accurate reproduction.*
 
-# Career In Pakistan - About Mustakbil
+# Privacy Policy - Mustakbil.com
 
 [Home](http://www.mustakbil.com/) » Privacy Policy
 
