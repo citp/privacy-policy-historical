@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warehouseskateboards.com privacy policy that was archived on 2010-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100821103438id_/http%3A//www.warehouseskateboards.com/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warehouseskateboards.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125214038id_/http%3A//www.warehouseskateboards.com/privacy-policy-statement) for the most accurate reproduction.*
 
 # Privacy Policy - Warehouse Skateboards Skate Shop
 
@@ -18,6 +18,3 @@ For each visitor to the site, our web servers automatically recognize informatio
 It is Warehouse Skateboards's policy to keep personal information only for so long as needed for such purposes. At any time, you may obtain a summary of the personal information on record with Warehouse Skateboards, which has been collected about you via this site. Except for personal information we need to complete your purchase of products, you may request at any time that Warehouse Skateboards dispose of any or all personal information about you. In addition, at any time you may request: (i) that Warehouse Skateboards correct any such personal information; or (ii) that such personal information not be provided to third parties; or (iii) that such personal information be removed from Warehouse Skateboards's marketing databases. To make any request described above, send an e-mail to [sales@warehouseskateboards.com](mailto:sales@warehouseskateboards.com), write to PO Box 1170, Wrightsville Beach, NC 28480. When contacting us, please be sure to provide us with your exact e-mail address, name, address and/or telephone number(s) in order to be sure we handle your request correctly. 
 
 Warehouse Skateboards reserves the right, at its discretion, to change, modify, add, or remove portions of this Privacy Policy Statement at any time. You should check this page periodically for changes. Your continued use of this site following the posting of changes to this Privacy Policy Statement will mean that you accept those changes. 
-
-**Your shopping cart is empty.  
-Please select something to buy.**
