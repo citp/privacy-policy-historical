@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantoffices.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519090128id_/http%3A//www.instantoffices.com/solutions/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantoffices.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125163539id_/http%3A//www.instantoffices.com/solutions/privacy.aspx) for the most accurate reproduction.*
 
 # Instant | Privacy Pages | Read more...
 
@@ -30,7 +30,7 @@ Instant's clients and their personal information are considered by Instant to be
 
 ##### 6\. Opting-out, editing, updating or deleting personal information
 
-Users who do not wish to receive future mailings from Instant are requested to contact Instant Administration via email. If you wish to exclude more than one email address from future mailings, please list all such addresses. Editing, updating or deleting personal information in the Instant database may also be effected by contacting Instant Administration or by calling the number that appears at the bottom of this site and requesting the necessary changes. Requesting the deletion of certain types of user information may prevent you from accessing some web site features.
+Users who do not wish to receive future mailings from Instant are requested to contact [hq@instantoffices.com](mailto:hq@instantoffices.com). If you wish to exclude more than one email address from future mailings, please list all such addresses. Editing, updating or deleting personal information in the Instant database may also be effected by contacting Instant Administration or by calling the number that appears at the bottom of this site and requesting the necessary changes. Requesting the deletion of certain types of user information may prevent you from accessing some web site features.
 
 ##### 7\. Real Estate Agents, Brokers and Representatives
 
