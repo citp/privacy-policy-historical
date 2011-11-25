@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gantthead.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125043937id_/http%3A//www.gantthead.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gantthead.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125052611id_/http%3A//www.gantthead.com/privacy.cfm) for the most accurate reproduction.*
 
 # gantthead.com Privacy Policy
 
@@ -82,17 +82,13 @@ Without your consent, gantthead.com may aggregate personally identifiable inform
 
 You may update information previously provided to gantthead.com, including any consents provided to or withheld from gantthead.com, by sending an email to [contactus@gantthead.com](mailto:contactus@gantthead.com). 
 
-**_Security of Information_**
-
-The Web Site has certain security measures in place to protect the loss, misuse and alteration of the information under our control. Although no security measure is foolproof, we believe that we have implemented a system that is as safe as today's technology permits. Our network firewall is a combination of hardware and software designed to keep unauthorized users from accessing our network. Any potentially sensitive data, including credit card payment information, is encrypted prior to transmission.
-
 **_Third Party Advertisers_**
 
 Third parties may display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web Site, cookies received with banner ads may be collected by ad companies, and we may not have access to this information or be able to control its distribution. 
 
 **_Discussion Forums_**
 
-The Web Site may make chat rooms, forums, message boards, and/or news groups available for you to use. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+The Web Site may make chat rooms, forums, message boards, and/or news groups available for you to use. Please remember that any information that is disclosed in these areas becomes publicly accessible and you should exercise caution when deciding to disclose your personal information. 
 
 **_Links to Other Sites_**
 
@@ -107,9 +103,9 @@ We may modify this privacy policy from time to time. Our current privacy policy 
 This Privacy Policy forms a legal agreement between you and gantthead.com. Your use of the Web Site indicates your agreement to the terms of this Privacy Policy. You agree that the Electronic Communications Privacy Act (the "ECPA") shall not apply to any communications with gantthead.com. gantthead.com has the right to revise this Agreement at any time without notice by updating the Privacy Policy posted to the Web Site. If you have any questions about this Privacy Policy, the practices of this Web Site or your dealings with this Web Site, please contact [contactus@gantthead.com](mailto:contactus@gantthead.com). 
 
 gantthead.com, Inc.  
-4035 Ridge Top Rd.  
-Suite 300  
-Fairfax, VA, 22030  
+11911 Freedom Drive  
+Suite 900  
+Reston, VA, 20190  
 (800) 895-2535  
 E-mail: [contactus@gantthead.com](mailto:contactus@gantthead.com). 
 
@@ -119,12 +115,15 @@ Last updated July 11, 2005.
 
 sponsored announcements and special offers
 
-**Where do project pros get their knowledge?** At **[PMI Marketplace](http://www.gantthead.com/redirect/clickCount.cfm?ID=260312)** , your source for all things project management. Find project tools, such as the latest books, articles and papers, from project management's leading authority. Visit now! 
+**[100% Online ITIL® Training With Villanova.](http://www.gantthead.com/redirect/clickCount.cfm?ID=268054)** Master the IT Service Management practices to align IT with business strategy while preparing for ITIL® v3 Foundation certification exam.  Learn more!
 
-**Manage Massive Projects. Enjoy Massive Savings.** And set your projects up for success with MindManager. Intuitive mapping software that works hand-in-hand with your existing office applications, _plus 19 visual project management templates_. Now get permanent access to mapping's project management power—at a special price. **[Learn how!](http://www.gantthead.com/redirect/clickCount.cfm?ID=260395)**
+**_Effective Resource Planning_**  
+Get ready for 2012 by ensuring the right resources are aligned. EPM Live offers tools for every resource management need including resource capacity planning, resource modeling, resource requirements matching, resource assignments on all work, and resource reporting. **[Try now for FREE!](http://www.gantthead.com/redirect/clickCount.cfm?ID=268458)**
 
-**Build and deploy interactive reports and dashboards — without any hidden costs.** Our in-the-cloud free trial lets you see for yourself — no download required. [**SAP Crystal Reports Server 60-day Free Trial**](http://ad.doubleclick.net/jump/N5072.124671.GANTTHEAD.COM1/B4652661.7;sz=1x1;ord=%3Ctimestamp%3E?)
+**Dec 13 Webinar: 5 Crucial Conversations for Project Success** \- Hear Joseph Grenny, best-selling author of Critical Conversations, talk about how improved communication results in better decision making, higher-quality project execution & more engaged leadership. Communication is the key to success - learn to identify leading conversations, speak persuasively & deal with varying personality types. **[Bonus! 100 attendees to receive a free copy of Joseph's book.](http://www.gantthead.com/redirect/clickCount.cfm?ID=268485)**
 
-"I must say that I find television very educational. The minute somebody turns it on, I go to the library and read a book."  
+**gantthead Webinar Sponsored by Deltek: The 6 Critical Elements for Gaining Visibility and Control.** Wednesday, December 7th, 2011. Join us to learn: the six areas that are critical to successful program/project management; how IPM can help increase visibility and control in each of these six areas; what you can do to start using IPM in your organization today. **[Register Now](http://www.gantthead.com/redirect/clickCount.cfm?ID=268382)**
+
+"When angry, count to four; when very angry, swear."  
 ---  
-\- Groucho Marx
+\- Mark Twain
