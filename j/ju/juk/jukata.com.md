@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jukata.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521062225id_/http%3A//www.jukata.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jukata.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125165938id_/http%3A//jukata.com/privacy.php) for the most accurate reproduction.*
 
 # Jukata™ - Your Life, Your Music
 
