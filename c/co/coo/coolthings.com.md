@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolthings.com privacy policy that was archived on 2011-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110417024952id_/http%3A//www.coolthings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolthings.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125125715id_/http%3A//www.coolthings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
