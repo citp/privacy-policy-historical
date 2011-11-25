@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sooperthemes.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103035756id_/http%3A//www.sooperthemes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sooperthemes.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125015204id_/http%3A//www.sooperthemes.com/privacy) for the most accurate reproduction.*
 
 # Privacy | SooperThemes
 
