@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factoryauthorizedoutlet.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421004830id_/http%3A//www.factoryauthorizedoutlet.com/dewalt/nav/Security-Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factoryauthorizedoutlet.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125074210id_/http%3A//www.factoryauthorizedoutlet.com/dewalt/nav/Security-Privacy.asp) for the most accurate reproduction.*
 
 # Security & Privacy - Factory Authorized Outlet
 
