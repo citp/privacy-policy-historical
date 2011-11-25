@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornizer.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523173356id_/http%3A//pornizer.com/pages/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornizer.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125143159id_/http%3A//pornizer.com/pages/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,10 +9,10 @@
   * [Images & Mags](http://pornizer.com/video/images_magazines/ "Images & Mags")
   * [Adult Games](http://pornizer.com/video/sex_games/ "Adult Games")
   * [Vintage Porn](http://pornizer.com/video/vintage_porn/ "Vintage Porn")
+  * [Gay](http://pornizer.com/video/gay/ "Gay")
 
 
 
-[](http://pornizer.com/partner/?bid=203)   
 [](http://pornizer.com/partner/?bid=204)   
 [](http://pornizer.com/partner/?bid=203)
 
@@ -108,10 +108,12 @@ Should you have any questions or concerns regarding this Privacy Policy, please 
 
 Free Porn Videos
 
-Who is online (1528)
+Who is online (1274)
 
-[Derren](http://pornizer.com/derren "Derren"), [Pussyshaver](http://pornizer.com/pussyshaver "Pussyshaver"), [Thisnonesense](http://pornizer.com/thisnonesense "Thisnonesense"), [Indy11](http://pornizer.com/indy11 "Indy11"), [Omgfuck](http://pornizer.com/omgfuck "Omgfuck"), [Gloegli](http://pornizer.com/gloegli "Gloegli"), [Jhonkasim](http://pornizer.com/jhonkasim "Jhonkasim"), [Aw4k3n3r](http://pornizer.com/aw4k3n3r "Aw4k3n3r"), [Redbutler](http://pornizer.com/redbutler "Redbutler"), [Andersen](http://pornizer.com/andersen "Andersen"), [X47](http://pornizer.com/x47 "X47"), [David94600](http://pornizer.com/david94600 "David94600"), [Imaster](http://pornizer.com/imaster "Imaster"), [Shamu](http://pornizer.com/shamu "Shamu"), [Romdi](http://pornizer.com/romdi "Romdi"), [Keras1987](http://pornizer.com/keras1987 "Keras1987"), [Mcfly](http://pornizer.com/mcfly "Mcfly"), [Pfastatt](http://pornizer.com/pfastatt "Pfastatt"), [Maman55](http://pornizer.com/maman55 "Maman55"), [Coolguy](http://pornizer.com/coolguy "Coolguy"), [Maydex](http://pornizer.com/maydex "Maydex"), [Hansmeiserxxx](http://pornizer.com/hansmeiserxxx "Hansmeiserxxx"), [More_fire](http://pornizer.com/more_fire "More_fire"), [Lordmephisto](http://pornizer.com/lordmephisto "Lordmephisto"), [Papakounikov](http://pornizer.com/papakounikov "Papakounikov"), [Qaz123](http://pornizer.com/qaz123 "Qaz123"), [Firebirdinspace](http://pornizer.com/firebirdinspace "Firebirdinspace"), [Ogien667](http://pornizer.com/ogien667 "Ogien667"), [Xxwx](http://pornizer.com/xxwx "Xxwx"), [Skysaxon](http://pornizer.com/skysaxon "Skysaxon"), [Xcasas](http://pornizer.com/xcasas "Xcasas"), [Somche](http://pornizer.com/somche "Somche"), [Luigui13vanelli](http://pornizer.com/luigui13vanelli "Luigui13vanelli"), [Bartasl](http://pornizer.com/bartasl "Bartasl"), [Vassilis](http://pornizer.com/vassilis "Vassilis"), [Datosin](http://pornizer.com/datosin "Datosin"), [Zia](http://pornizer.com/zia "Zia"), [Tjolder](http://pornizer.com/tjolder "Tjolder"), [Max99](http://pornizer.com/max99 "Max99"), [Playtime](http://pornizer.com/playtime "Playtime"), [Sw00p](http://pornizer.com/sw00p "Sw00p"), [Mycaq](http://pornizer.com/mycaq "Mycaq"), [Burumbas](http://pornizer.com/burumbas "Burumbas"), [Ulisse](http://pornizer.com/ulisse "Ulisse"), [Metalbmx](http://pornizer.com/metalbmx "Metalbmx"), [Skl](http://pornizer.com/skl "Skl"), [Mraccord](http://pornizer.com/mraccord "Mraccord"), [Dchris12](http://pornizer.com/dchris12 "Dchris12"), [F4b3](http://pornizer.com/f4b3 "F4b3"), [Cheupaire](http://pornizer.com/cheupaire "Cheupaire"), [Pdv27](http://pornizer.com/pdv27 "Pdv27"), [Carrera](http://pornizer.com/carrera "Carrera"), [Pegasus971](http://pornizer.com/pegasus971 "Pegasus971"), [Ortus](http://pornizer.com/ortus "Ortus"), [Gary_uk](http://pornizer.com/gary_uk "Gary_uk"), [Oneloud](http://pornizer.com/oneloud "Oneloud"), [Billykid](http://pornizer.com/billykid "Billykid"), [Briramsfan2121](http://pornizer.com/briramsfan2121 "Briramsfan2121")
+[Bigfish](http://pornizer.com/bigfish "Bigfish"), [Ds2](http://pornizer.com/ds2 "Ds2"), [Canno](http://pornizer.com/canno "Canno"), [Goethals](http://pornizer.com/goethals "Goethals"), [Bobysman](http://pornizer.com/bobysman "Bobysman"), [Malachel](http://pornizer.com/malachel "Malachel"), [Sithlord](http://pornizer.com/sithlord "Sithlord"), [Tepopo](http://pornizer.com/tepopo "Tepopo"), [Johnacademy](http://pornizer.com/johnacademy "Johnacademy"), [Panagosf](http://pornizer.com/panagosf "Panagosf"), [Mycoolkiske](http://pornizer.com/mycoolkiske "Mycoolkiske"), [Fekmaxxx](http://pornizer.com/fekmaxxx "Fekmaxxx"), [Jodosen](http://pornizer.com/jodosen "Jodosen"), [Paul74](http://pornizer.com/paul74 "Paul74"), [Birillo](http://pornizer.com/birillo "Birillo"), [Asrfuji](http://pornizer.com/asrfuji "Asrfuji"), [Kanopus](http://pornizer.com/kanopus "Kanopus"), [Pabsl](http://pornizer.com/pabsl "Pabsl"), [Rocco3512](http://pornizer.com/rocco3512 "Rocco3512"), [Wardboei](http://pornizer.com/wardboei "Wardboei"), [Jojokakis](http://pornizer.com/jojokakis "Jojokakis"), [Lohe2279](http://pornizer.com/lohe2279 "Lohe2279"), [Derdevil07](http://pornizer.com/derdevil07 "Derdevil07"), [Steliosaxion](http://pornizer.com/steliosaxion "Steliosaxion"), [Sooner12](http://pornizer.com/sooner12 "Sooner12"), [7596120](http://pornizer.com/7596120 "7596120"), [Ulan85](http://pornizer.com/ulan85 "Ulan85"), [Leerjian](http://pornizer.com/leerjian "Leerjian"), [Scanner12](http://pornizer.com/scanner12 "Scanner12"), [Swake](http://pornizer.com/swake "Swake"), [Bojanmkd](http://pornizer.com/bojanmkd "Bojanmkd"), [Aton_xn](http://pornizer.com/aton_xn "Aton_xn"), [Blindfish](http://pornizer.com/blindfish "Blindfish"), [Vako](http://pornizer.com/vako "Vako"), [Jv27](http://pornizer.com/jv27 "Jv27"), [Asterios76](http://pornizer.com/asterios76 "Asterios76"), [Trados](http://pornizer.com/trados "Trados"), [Geegeekay](http://pornizer.com/geegeekay "Geegeekay"), [Sae](http://pornizer.com/sae "Sae"), [Xoxoxo12](http://pornizer.com/xoxoxo12 "Xoxoxo12"), [Hamdi1414](http://pornizer.com/hamdi1414 "Hamdi1414"), [Coyotte](http://pornizer.com/coyotte "Coyotte")
 
 | 
 
-[](http://pornizer.com/partner/?bid=288)
+[](http://pornizer.com/partner/?bid=305)   
+[](http://pornizer.com/partner/?bid=302)   
+[](http://pornizer.com/partner/?bid=306)
