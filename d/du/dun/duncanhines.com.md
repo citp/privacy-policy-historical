@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the duncanhines.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419232845id_/http%3A//www.pinnaclefoodscorp.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duncanhines.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125015355id_/http%3A//www.pinnaclefoodscorp.com/Privacy) for the most accurate reproduction.*
 
 # Privacy | PinnacleFoods.com
 
