@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yliving.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224133936id_/http%3A//yliving.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yliving.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125155407id_/http%3A//www.yliving.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy presented by YLiving
+# YLiving Privacy Policy & Customer's Privacy Policy at YLiving.com
 
 YLiving values its customers and respects their privacy. When you order, we need to know your name, email address, credit card billing address, mailing address, telephone number, credit card number, and credit card expiration date. This allows us to process and fulfill your order and to notify you of your order status. By shopping with us, you agree that we may use your information for our own marketing purposes.
 
