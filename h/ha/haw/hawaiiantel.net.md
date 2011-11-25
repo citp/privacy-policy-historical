@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hawaiiantel.net privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116091255id_/http%3A//www.hawaiiantel.com/CustomerService_PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawaiiantel.net privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125061427id_/http%3A//www.hawaiiantel.com/CustomerService_PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Hawaiian Telcom | Privacy Policy
 
