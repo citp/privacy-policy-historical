@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixdesi.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327100822id_/http%3A//www.pixdesi.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixdesi.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125095217id_/http%3A//www.pixdesi.com/privacy.php) for the most accurate reproduction.*
 
 # PixDesi.com - Desi Girls - Desi Photos - Arabic Grils - Indian Girls - pakistani Girls
 
