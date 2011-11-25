@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpcanada.ca privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526060124id_/http%3A//wpcanada.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpcanada.ca privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125065003id_/http%3A//wpcanada.ca/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » WPCanada
 
