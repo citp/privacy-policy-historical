@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyomingwebdesign.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227065957id_/http%3A//wyomingwebdesign.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyomingwebdesign.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125175015id_/http%3A//wyomingwebdesign.com/privacy.html) for the most accurate reproduction.*
 
 # Wyoming Webdesign Privacy Policy
 
@@ -11,9 +11,7 @@ Our postal address is:
 723 SW Clay Street  
 Topeka, KS, 66606**
 
-We can be reached via e-mail at: [info@kwebmedia.com](mailto:info@kwebmedia.com). 
-
-You can reach us by telephone at: **(785) 266-2129** or **(785) 608-5603**.   
+We can be reached via e-mail at: [info@kwebmedia.com](mailto:info@kwebmedia.com).   
 
 
 For each visitor to our website, our server automatically recognizes only the consumer's domain name, but not their e-mail address.
