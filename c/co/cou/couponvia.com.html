@@ -1,0 +1,455 @@
+<!--The following is the downloaded HTML source of the couponvia.com privacy policy that was archived on 2011-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111125153451id_/http%3A//couponvia.com/Privacy-Policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+
+<title>Privacy Policy</title>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="description" content="coupons, promo codes, cheap tickets, coupon codes, printable coupons, vouchers, discount codes, voucher codes, promotional codes, hot deals, online coupons, coupons online, pizza coupons, car rental coupons, store coupons, discount coupons, discount vouchers, grocery coupons, online codes, online deals">
+<meta name="keywords" content="CouponVIA | Discount Coupon Codes">
+<link href="http://couponvia.com/theme/Freshness/images/screen-03.css" rel="stylesheet" type="text/css">
+	
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.avantlink.com/affiliate_app_confirm.php?mode=js&amp;authResponse=bd04af2e87ec64579c7a814f5e1f8feffc69f1bc"></script>
+<script type="text/javascript" language="JavaScript" src="http://couponvia.com/js/yadjs.js"></script>
+<script type="text/javascript" src="http://couponvia.com/js/ZeroClipboard.js"></script>
+
+<script type="text/javascript">
+	function validateForm ( form_obj )
+	{
+		var returnValue = true ;
+		$("#"+form_obj+" input,select,textarea").each ( function ( )
+							{
+								if ( $(this).attr("sch_req") == "1" && returnValue )
+								{
+									if ( $(this).val() == "" )
+									{
+										alert ( $(this).attr("sch_msg")+" cannot be empty" ) ;
+										$(this).focus();
+										returnValue = false ;
+									}
+								}
+							}
+					
+		 ) ;
+		 return returnValue ;
+
+	}
+	
+	function copy_coupon_and_go_to_site ( coupon_id )
+	{
+		window.open ( "http://couponvia.com/load/"+coupon_id+"/" , "_blank" ) ;
+	}
+	
+	function animate_area ( div_id , direction )
+	{
+		if ( direction == 0 )
+			$("#"+div_id).animate ( { scrollLeft : "-=504" } , "slow" ) ;
+		else
+			$("#"+div_id).animate ( { scrollLeft : "+=504" } , "slow" ) ;
+	}
+	
+	function show_tool_tip ( copon_id )
+	{
+		$("#coupon_Tool_tip_action_"+copon_id).show() ;
+	}
+	
+	function hide_tool_tip ( copon_id )
+	{
+		$("#coupon_Tool_tip_action_"+copon_id).hide() ;
+	}
+	
+	
+	function set_copy_command ( text_to_copy , control_id , coupon_id )
+	{
+		if ( navigator.userAgent.indexOf("MSIE") > -1 ) 
+		{
+			$("#"+control_id).click ( function ( )
+										{
+											window.clipboardData.setData("Text",text_to_copy);
+											copy_coupon_and_go_to_site ( coupon_id ) ;
+										}
+									 ) ;
+		}
+		else
+		{
+			var clip = new ZeroClipboard.Client();
+		   
+			ZeroClipboard.setMoviePath ( "http://couponvia.com/js/ZeroClipboard.swf" ) ;
+		   
+			clip.setText( text_to_copy ); 
+			clip.setHandCursor( true );
+			clip.addEventListener( 'mouseOver', function(client) {
+                                show_tool_tip ( coupon_id ) ;
+                        } );
+			clip.addEventListener( 'mouseOut', function(client) { 
+                                hide_tool_tip ( coupon_id ) ;
+                        } );
+			clip.addEventListener( 'complete', function(client, text) {
+				$("#"+control_id).css("background-color" , "#33CC66");
+				$("#coupon_Tool_tip_action_"+coupon_id).css("width","60px").text("Copied ! ") ;
+				copy_coupon_and_go_to_site ( coupon_id ) ;
+			} );
+													
+			clip.glue( control_id );
+		}
+	}
+	
+	
+</script>
+
+</head>
+<body id="home">
+	<div id="header">
+	<div class="inner">
+		<ul id="nav">
+						<li><a href="http://couponvia.com/">Home</a></li>
+		<!--	<li ><a href="http://couponvia.com/Categories/">Categories</a></li>
+        		<li ><a href="http://couponvia.com/Stores/">Stores</a></li> -->
+							<li><a href="http://couponvia.com/How-to-Use/">How to Use</a></li>
+							<li><a href="http://couponvia.com/faq/">FAQ</a></li>
+							<li><a href="http://couponvia.com/About-Us/">About Us</a></li>
+							<li class="active"><a href="http://couponvia.com/Privacy-Policy/">Privacy Policy</a></li>
+							<li><a href="http://couponvia.com/Terms-of-Use/">Terms of Use</a></li>
+							<li><a href="http://couponvia.com/Store-List/">Store List</a></li>
+			
+		</ul>
+	</div>
+</div>
+
+<div id="div_loading"><img src="http://couponvia.com/theme/Freshness/images/ajax-loader.gif" border="0"></div>
+
+
+<script language="javascript">
+
+	$(document).ready (
+						function ( )
+						{
+							$("#div_Background").click ( close_window ) ;
+
+						}
+
+	);
+
+	var wd = $(window).width ( ) ;
+	var ht = $(window).height ( ) ;
+
+	function close_window ( )
+	{
+
+		$("#div_Window").animate ( { top : "25%" , opacity : 0.10 } , "normal" , function ( )
+																					{
+																						$(this).hide().css({top:"15%"});
+																						$("#div_Background").hide ( ) ;
+																					}
+			 ) ;
+
+	}
+
+	function show_Screen_bg ( divArea )
+	{
+
+		$("#div_Background").css ( {"left" : "0px" , "top" : "0px" , "opacity" : 0.60} ).width( wd ).height ( ht ).show();
+
+	}
+
+	function show_window_comment( coupon_id )
+	{
+		show_Screen_bg ( ) ;
+
+		$("#div_loading").show();
+		$("#div_Window").load("http://couponvia.com/comments_post/"+coupon_id+"/", function()
+																						{
+																							var n_wd = $("#div_Window").width ( ) ;
+																							var n_ht = $("#div_Window").height ( ) ;
+																							//$(this).css ( { "left" : ( ( wd / 2 ) - ( n_wd / 2 ) )+"px" , "opacity" : 0.10 } ).show().animate ( { top : "20%" , opacity : 1.0 } , "normal" ) ;
+																							$(this).css ( { "left" : ( ( wd / 2 ) - ( n_wd / 2 ) )+"px" , "opacity" : 0.10 } ).show().animate ( { top : "20%" , opacity : 1.0 } , "normal" ) ;
+																							$("#div_loading").hide();
+																						}
+		 ) ;
+	}
+
+
+	function show_comments ( coupon_id )
+	{
+		$("#li_close_comments_"+coupon_id).children().show();
+		$("#li_write_comments_"+coupon_id).children().show();
+		$("#div_comments_"+coupon_id).slideDown('normal');
+	}
+
+	function close_comments ( coupon_id )
+	{
+		$("#div_comments_"+coupon_id).slideUp('normal');
+		$("#li_close_comments_"+coupon_id).children().hide();
+		$("#li_write_comments_"+coupon_id).children().hide();
+	}
+    
+    function show_all_coupons(){
+        $('.crux strong').each(function(i){$(this).text($(this).attr('code'))});
+    }
+    
+    function set_copy_command( text_to_copy , control_id , coupon_id )
+	{
+		if ( navigator.userAgent.indexOf("MSIE") > -1 ) 
+		{
+			$("#"+control_id).click ( function ( )
+										{
+											window.clipboardData.setData("Text",text_to_copy);
+											copy_coupon_and_go_to_site ( coupon_id ) ;
+                                            show_all_coupons();
+										}
+									 ) ;
+		}
+		else
+		{
+			var clip = new ZeroClipboard.Client();
+		   
+			ZeroClipboard.setMoviePath ( "http://couponvia.com/js/ZeroClipboard.swf" ) ;
+		   
+			clip.setText( text_to_copy ); 
+			clip.setHandCursor( true );
+			clip.addEventListener( 'mouseOver', function(client) {
+                                show_tool_tip ( coupon_id ) ;
+                        } );
+			clip.addEventListener( 'mouseOut', function(client) { 
+                                hide_tool_tip ( coupon_id ) ;
+                        } );
+			clip.addEventListener( 'complete', function(client, text) {
+				$("#"+control_id).css("background-color" , "#33CC66");
+				$("#coupon_Tool_tip_action_"+coupon_id).css("width","60px").text("Copied ! ") ;
+				copy_coupon_and_go_to_site ( coupon_id ) ;
+                show_all_coupons();
+			} );
+													
+			clip.glue( control_id );
+		}
+	}
+
+
+</script>
+
+
+
+<div id="div_Background" style="display:none; background-color:#000000; position:fixed; z-index:101">
+</div>
+
+<div id="div_Window" style="display:none; top:15%; z-index:105; position:fixed; padding: 8px; width: auto;">
+
+</div>	<!-- end: #header -->
+	<div id="shell">
+		<a id="logo" href="http://couponvia.com/" title="Home">
+		<img src="http://couponvia.com/media/logo.jpg" alt="coupon">
+	</a>
+	<div id="search">
+		<form id="searchForm" method="post" action="http://couponvia.com/search_query/">
+			<input name="query" id="query" value="Search coupon codes" type="text" onfocus="this.value='';">
+			<label for="query">e.g.
+			target.com
+			&nbsp;
+			ae.com
+			&nbsp;
+			jcp.com
+			&nbsp;
+			turbotax.com
+			</label>
+			<button type="submit"><span>Search</span></button>
+		</form>
+	</div>
+		<!-- end: #search -->
+		<div id="content">
+			<div id="major">
+			
+			
+				<div class="panel" id="storeCollection">
+					
+					<h2><span>Privacy Policy</span></h2>
+					<div class="inner">
+						<div>
+							<p>CouponVIA.com privacy policy was designed in addition of our promise to providing you quality coupons and deals while keeping trust in dealing with our clients and partners. This policy explains how we collect, use, and protect your personal information and help you making up to date decisions about using coupons and deals at CouponVIA.com.<br>Information we collect<br><br>Your privacy is essential to CouponVIA.com and you may use our site anonymously but you are welcome to provide your personal information i.e. email address for our coupon newsletter that will be used to provide you with the latest deals and offers from our partner merchants. We assure that your email information will never be sold or distributed. Users who no longer wish to receive our newsletter may always opt out by following the unsubscribe link at the bottom of the newsletter.<br><br>CouponVIA.com also uses "cookies" and web server logs to collect information about how our site is used by our guests. Cookies are a feature of your browser that contains bits of information that help personalize your web experience. You may always opt out of cookie collection by turning them off in your internet browsers settings. Cookies and web logs may track the time of visit, time spent at our site, which pages were viewed, and the sites visited just before and just after our site. This information does not contain any personal information about you and is collected on an aggregate basis.<strong><br></strong></p>
+<p><strong>Business Relationship</strong><br>Our site contains links to other websites. We are not responsible for the practices, policies, or content of such sites and encourage our users to review the individual policies therein.</p>
+<p><br><strong>Policy Change Notification</strong><br>If we change any portion of our policy in the ongoing development of our Web site, these changes will be posted at this page. Under the circumstance that any change is made to the collection or distribution of personal information, we will notify you via email. However, we will use any information you provide (namely your email) under the privacy policy under which it was collected.<br><br>If you feel that we are not abiding by this privacy policy, you should contact us.</p>						</div>
+					</div>
+				</div>
+				
+				
+				
+			</div>
+			<!-- end: #major -->
+			<div id="minor">
+				<div class="panel">
+					<h3><span>Browse Coupons</span></h3>
+					<div class="inner">
+						
+						<div class="break">
+						</div>
+						<div class="tagCloud">
+							
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Travel/">Travel</a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Accessories/">Accessories</a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Arts/">Arts</a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Beauty/">Beauty</a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Books-Media/">Books &amp; Media</a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Business/">Business</a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/E-Commerce/">E-Commerce </a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Career/">Career</a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Apparel/">Apparel</a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Computer-Software/">Computer &amp; Software</a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Department-Stores/">Department Stores</a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Education/">Education</a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Entertainment/">Entertainment</a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Family/">Family</a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Finance/">Finance</a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Food-Drinks/">Food &amp; Drinks </a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Games-Toys/">Games &amp; Toys</a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Gifts-Flowers/">Gifts &amp; Flowers</a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Health-Wellness/">Health &amp; Wellness</a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Home-Garden/">Home &amp; Garden</a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Insurance/">Insurance</a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Legal/">Legal</a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Marketing/">Marketing</a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Online-Services/">Online Services</a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Real-Estate/">Real Estate</a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Recreation-Leisure/">Recreation &amp; Leisure </a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Seasonal/">Seasonal</a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Sports-Fitness/">Sports &amp; Fitness</a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Electronics--Telecommunications/">Electronics &amp; Telecommunications </a>
+							
+													<a style="font-size: 12px;" href="http://couponvia.com/coupons/Web-Hosting/">Web Hosting</a>
+							
+													
+							
+						</div>
+					</div>
+					
+				</div>
+				
+				<div class="panel">
+					<div class="inner">
+						
+						<div class="break">
+						</div>
+						<div class="tagCloud">
+							
+							
+						<a href="http://www.facebook.com/laysindia"><img src="http://affiliatevia.com/campaigns/lays/300x250_1.jpg" alt="" border="0"></a><br><br>							
+							
+						</div>
+						
+					</div>
+				</div>
+				
+				
+				<div class="panel">
+	<h3><span>We are Social </span></h3>
+	<div class="inner">
+		<ul id="powerToolsMajor">
+		
+					
+			<li>
+				<a href="http://twitter.com/couponvia.com" rel="nofollow" target="_blank"><img src="http://couponvia.com/media/SocialNet_Twitter.png" border="0"></a>
+			</li>
+					
+			<li>
+				<a href="http://delicious.com/save" rel="nofollow" target="_blank"><img src="http://couponvia.com/media/SocialNet_Delicious.png" border="0"></a>
+			</li>
+					
+			<li>
+				<a href="http://digg.com/couponvia" rel="nofollow" target="_blank"><img src="http://couponvia.com/media/SocialNet_Digg.png" border="0"></a>
+			</li>
+					
+			<li>
+				<a href="http://www.reddit.com/user/couponvia" rel="nofollow" target="_blank"><img src="http://couponvia.com/media/SocialNet_Reddit.png" border="0"></a>
+			</li>
+					
+			
+		</ul>
+		
+		<div id="powerToolsTooltip">
+		</div>
+	</div>
+</div>				
+			</div>
+			<!-- end: #minor -->
+			<div class="break">
+			</div>
+		</div>
+		<!-- end: #content -->
+	</div>
+	
+	
+	<div align="center" style="clear:both">
+			</div>
+	
+	
+	<div id="footer">
+	<!--<div id="leaderboard"> <a href="#" title="Subscribe to the newsletter"><img src="main_files/newsletter.png" alt="Hot Coupon Newsletter"></a> </div>-->
+	<div id="redTape">
+		<ul class="inner">
+			<li id="copyright">Copyright © 2011 CouponVIA | Discount Coupon Codes. All rights reserved.</li>
+			<li id="sundries">
+				<ul>
+									<li><a href="http://couponvia.com/How-to-Use/">How to Use</a></li>
+									<li><a href="http://couponvia.com/faq/">FAQ</a></li>
+									<li><a href="http://couponvia.com/About-Us/">About Us</a></li>
+									<li><a href="http://couponvia.com/Privacy-Policy/">Privacy Policy</a></li>
+									<li><a href="http://couponvia.com/Terms-of-Use/">Terms of Use</a></li>
+									<li><a href="http://couponvia.com/Store-List/">Store List</a></li>
+								</ul>
+			</li>
+		</ul>
+	</div>
+</div>
+<div align="right" style="color:#565656;">
+	<p align="center"><b><a href="http://couponvia.com/Stores/" target="_blank">Coupon Stores List</a>&nbsp;</b>&nbsp;|
+	<b><a href="http://affiliatevia.com">Affiliate Network</a><span style="color: #565656"> 
+	| <a href="http://affiliatevia.com">Affiliate Program</a></span></b></p></div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1787763-7']);
+  _gaq.push(['_setDomainName', '.couponvia.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>	<!-- end: #footer -->
+
+
+
+
+
+
+</body></html>
