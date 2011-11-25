@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliantenergy.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616154029id_/http%3A//www.alliantenergy.com/wcm/idcplg%3FIdcService%3DSS_GET_PAGE%26ssDocName%3D014379) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliantenergy.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125084223id_/http%3A//alliantenergy.com/wcm/idcplg%3FIdcService%3DSS_GET_PAGE%26ssDocName%3D014379) for the most accurate reproduction.*
 
 # Alliant Energy : Extras
 
