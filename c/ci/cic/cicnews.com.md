@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cicnews.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524132436id_/http%3A//www.cicnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cicnews.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125200905id_/http%3A//www.cicnews.com/privacy.html) for the most accurate reproduction.*
 
-# CIC News - Privacy Policy
+# CIC NEWS - Privacy Policy
 
 CICNews.com is part of the Campbell Cohen Immigration Network (henceforth referred to as the CCIN or “our” or “we”) which is a division of The Campbell Cohen Law Firm. This privacy policy applies to the operations of all network properties and services within the CCIN family of websites, unless specifically indicated otherwise. The CCIN is a collection of Canadian Immigration related web properties which offer various customized and value-added services that facilitate the process of immigration to Canada.
 
-The CCIN includes the following web sites: [CICNews.com](https://web.archive.org/), and [Canadavisa.com](http://www.canadavisa.com/).
+The CCIN includes the following web sites: [CICNews.com](https://web.archive.org/), [Canadaworkvisa.ca](http://www.canadaworkvisa.ca/), [Canadavisa.com](http://www.canadavisa.com/).
 
 **Our postal address is: 215 Redfern, Suite 118,  
 Montreal, [Quebec](http://www.canadavisa.com/about-quebec.html "More about Quebec »"), Canada  
@@ -25,7 +25,7 @@ This Privacy Policy fully discloses and describes the personal user information 
   * You may be asked to provide personal information in certain fields on our websites. The information collected on these sites will not be transferred to any third parties and will be used solely for the purposes for which it was requested.
 
 
-  * The personal information you provide to us in the [Eligibility Questionnaire](https://www.canadavisa.com/assess/canada-immigration-assessment-form.htm?site=cicnews&cat=privacy "Free Canada Immigration Assessment Form") is collected with the sole purpose of assessing your potential to immigrate to Canada under Canada’s current immigration selection criteria. Any personal information submitted to us will not be sold, or otherwise transferred, to a third-party source. Upon submitting your Canada Immigration Eligibility Questionnaire you can expect your results to be delivered to the email address you have provided to us within 24 hours from the time of submission. We will only respond to you in regard to your Canada Eligibility Questionnaire.
+  * The personal information you provide to us in the [Eligibility Questionnaire](https://www.canadavisa.com/assess/canada-immigration-assessment-form.htm?site=cicnews&cat=privacy "Free Canada Immigration Assessment Form") is collected with the sole purpose of assessing your potential to immigrate to Canada under Canada’s current immigration selection criteria. Any personal information submitted to us will not be sold, or otherwise transferred, to a third-party source. Upon submitting your Canada Immigration Eligibility Questionnaire you can expect your results to be delivered to the email address you have provided to us within 24 hours from the time of submission. We will only respond to you in regard to your Canada Eligibility Questionnaire.
 
 
   * If you choose to submit your resume to us, it will only be used to evaluate your eligibility for Canadian immigration. Resumes are not used for any other purpose and are not shared with any entity unrelated to the CCIN.
@@ -40,12 +40,12 @@ This Privacy Policy fully discloses and describes the personal user information 
   * We do not partner with, or have special relationships with any ad server companies and we do not employ any third party cookies.
 
 
-  * With respect to cookies: We set a cookie only when accessing the ” [Eligibility Questionnaire](https://www.canadavisa.com/assess/canada-immigration-assessment-form.htm?site=cicnews&cat=privacy "Free Canada Immigration Assessment Form") ” in order to facilitate the form submission process. The cookie is set to expire within 24 minutes or upon closing your web browser.
+  * With respect to cookies: We set a cookie only when accessing the ” [Eligibility Questionnaire](https://www.canadavisa.com/assess/canada-immigration-assessment-form.htm?site=cicnews&cat=privacy "Free Canada Immigration Assessment Form") ” in order to facilitate the form submission process. The cookie is set to expire within 24 minutes or upon closing your web browser.
 
 
-  * The Canada Immigration Newsletter is a web-based publication edited by Canadian Immigration [Attorney David Cohen](http://www.canadavisa.com/immigration-attorney-david-cohen.html "More about Attorney David Cohen »"). The newsletter is distributed electronically and delivered directly to your inbox every month. It may also be accessed directly on CICNews.com, which is part of the CCIN. When you opt to receive the Canada Immigration Newsletter you are consenting to the delivery of a monthly email message concerning topics related to Canadian immigration. Your email address, as well as any personal information you provide to us, will not be disclosed to any third-party web site and will be used solely for the purposes for which it was requested. If you wish to opt-out of any future delivery of the Canada Immigration Newsletter simply click on the “unsubscribe” link located at the bottom of every newsletter we send you. Alternatively, you can visit our [unsubscribe page](https://web.archive.org/unsubscribe.html) to remove your name from our newsletter delivery database.
+  * The Canada Immigration Newsletter is a web-based publication edited by Canadian Immigration [Attorney David Cohen](http://www.canadavisa.com/immigration-attorney-david-cohen.html "More about Attorney David Cohen »"). The newsletter is distributed electronically and delivered directly to your inbox every month. It may also be accessed directly on CICNews.com, which is part of the CCIN. When you opt to receive the Canada Immigration Newsletter you are consenting to the delivery of a monthly email message concerning topics related to Canadian immigration. Your email address, as well as any personal information you provide to us, will not be disclosed to any third-party web site and will be used solely for the purposes for which it was requested. If you wish to opt-out of any future delivery of the Canada Immigration Newsletter simply click on the “unsubscribe” link located at the bottom of every newsletter we send you. Alternatively, you can visit our [unsubscribe page](https://web.archive.org/unsubscribe.html) to remove your name from our newsletter delivery database.
 
 
-  * If you feel that this site is not following its stated user policy, you may [contact us](http://www.canadavisa.com/contact-canadian-immigration-office.html). 
+  * If you feel that this site is not following its stated user policy, you may [contact us](http://www.canadavisa.com/contact-canadian-immigration-office.html).
 
 
