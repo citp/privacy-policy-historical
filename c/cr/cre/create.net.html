@@ -1,14 +1,26 @@
-<!--The following is the downloaded HTML source of the create.net privacy policy that was archived on 2010-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226091008id_/http%3A//www.create.net/privacy.phtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the create.net privacy policy that was archived on 2011-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111125150406id_/http%3A//www.create.net/privacy.phtml%23l_footer-privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>   
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+
+    <title>Our Privacy Policy</title>
+
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <meta name="description" content="How do I make a website? Create the website you want with create.net website builder. The inexpensive way to design, build and maintain your website.">
-    <meta name="keywords" content="create your own site, build a website, online shop, online business">
+    <meta name="description" content="Want to build a website and ecommerce store? Use Create to design, build and manage your own successful website and online shop.">
+    <meta name="keywords" content="build a website, ecommerce store, create, design, manage your own site, build a website, online shop, online business">
+    <meta name="wot-verification" content="a1128ee1a8c4a0b9c9a8">
+
     
-    <title>Create - Our Privacy Policy</title>
+    <meta property="og:title" content="Our Privacy Policy">
+    <meta property="og:type" content="company">
+    <meta property="og:url" content="http://www.create.net/privacy.phtml">
+    <meta property="og:site_name" content="Create">
+    <meta property="og:description" content="Want to build a website and ecommerce store? Use Create to design, build and manage your own successful website and online shop.">
+    <!--<meta property="og:image" content=""/>-->
+    <meta property="fb:admins" content="596011407">
+   
 
-
+    <link href="/css/print.css" rel="stylesheet" type="text/css" media="print">
     <link href="/css/global.css" rel="stylesheet" type="text/css" media="all">
     <link rel="icon" type="image/png" href="/img/icons/favicon.png">
 
@@ -20,7 +32,9 @@
         $(function(){
 
            $('input.watermark[type="text"]').each(function(){
-              $(this).val($(this).attr('title'));
+               if($(this).val() == "") {
+                    $(this).val($(this).attr('title'));
+               }
            });
 
            $('input.watermark').focus(function(){
@@ -48,6 +62,28 @@
     <!--[if lt IE 7]>
         <script type="text/javascript" src="/js/pngfix.js"></script>
     <![endif]-->
+    
+    <!--[if lte IE 8]>
+       <style type="text/css">
+           #bottom_strip {background: #1a1d25 url(img/backgrounds/create_gradient.jpg) repeat-x;}
+       </style>
+    <![endif]-->
+
+
+
+     <!--[if IE]>
+         <script src="js/cufon-yui.js" type="text/javascript"></script>
+         <script src="js/Rockwell_400-Rockwell_700.font.js" type="text/javascript"></script>
+         <script type="text/javascript">
+                Cufon.replace('.font-face_rockwell'); // Requires a selector engine for IE 6-7
+         </script>
+         <script src="js/Create_400.font" type="text/javascript"></script>
+         <script type="text/javascript">
+                Cufon.replace('.font-face-create'); // Requires a selector engine for IE 6-7
+         </script>
+     <![endif IE]-->
+     
+     
 
   </head>
 
@@ -64,7 +100,8 @@
           <div id="logo">
             <a href="/" target="_self"><img src="/img/typography/logo/logo.gif" alt="Create" width="152" height="32"></a>
           </div><!--/#logo-->
-          <a class="button freeTrial float_right" href="/signup.phtml"><span>Free Trial</span></a>
+          <!--<a class="button freeTrial float_right" href="/signup.phtml#l_freetrial_button"><span>Free Trial</span></a>-->
+          <a href="signup.phtml" class="trial_button-dk button" style="float: right; margin-top: 25px"><span>Sign Up</span></a>
           <ul id="menu">
 	        <li id="li_home"><a id="menu_home" href="/">Home</a></li><li id="li_features"><a id="menu_features" href="/features.phtml">Features &amp; Pricing</a></li><li id="li_examples"><a id="menu_examples" href="/examples.phtml">Examples</a></li><li id="li_who"><a id="menu_who" href="/who.phtml">Who We Are</a></li><li id="li_blog"><a id="menu_blog" href="/blog.phtml">Blog</a></li><li id="li_contact"><a id="menu_contact" href="/contact.phtml">Contact</a></li><li id="li_login" class="accountLogin"><a id="menu_login" href="https://login.create.net/login.phtml"><span>Account Login</span></a></li>
           </ul>
@@ -180,24 +217,24 @@
             <h4 id="explore" class="footer_menu_title" title="create your own website">Explore</h4>
 
             <ul class="footer_menu">
-                <li><a class="underline" href="/blog.phtml">Latest News</a></li>
-                <li><a class="underline" href="/jobs.phtml">Job Opportunities</a></li>
-                <li><a class="underline" href="/press.phtml">Press &amp; Downloads</a></li>
-                <li><a class="underline" href="/privacy.phtml">Privacy Policy</a></li>
-                <li><a class="underline" href="/terms.phtml">Terms &amp; Conditions</a></li>
+                <li><a class="underline" href="/affiliate.phtml#l_footer-affiliate">Affiliate Program</a></li>
+                <li><a class="underline" href="/press.phtml#l_footer-press">Press &amp; Downloads</a></li>
+                <li><a class="underline" href="/jobs.phtml#l_footer-jobs">Job Opportunities</a></li>
+                <li><a class="underline" href="/terms.phtml#l_footer-terms">Terms &amp; Conditions</a></li>
+                <li><a class="underline" href="/privacy.phtml#l_footer-privacy">Privacy Policy</a></li>
             </ul>
 
         </div>
         <div class="columns_2 margin-right_30">
 
-            <h4 id="benefits_of_create" class="footer_menu_title" title="benefits of Create">Benefits of Create</h4>
+            <h4 id="discover" class="footer_menu_title" title="Discover">Discover</h4>
 
             <ul class="footer_menu">
-                <li><a class="underline" href="/features.phtml">Features &amp; Pricing</a></li>
-                <li><a class="underline" href="/affiliate.phtml">Affiliate Program</a></li>
-                <li><a class="underline" href="/web_designers_kit.phtml">Web Designers Kit</a></li>             
-                <li><a class="underline" href="/signup.phtml">Build Before You Buy</a></li>
-                <li><a class="underline" href="/accepting-credit-cards.phtml">Partners</a></li>
+                <li><a class="underline" href="/blog.phtml#l_footer-latestnews">Latest News</a></li>
+                <li><a class="underline" href="/features.phtml#l_footer-features">Features &amp; Pricing</a></li>
+                <li><a class="underline" href="/signup.phtml#l_footer-buildb4ubuy">Build Before You Buy</a></li>
+                <li><a class="underline" href="/web_designers_kit.phtml#l_footer-wdk">Web Designers Kit</a></li> 
+                <li><a class="underline" href="/accepting-credit-cards.phtml#l_footer-credit_cards">Partners</a></li>
             </ul>
 
         </div>
@@ -207,9 +244,10 @@
 
                 <h4 id="follow_us" class="footer_menu_title" title="follow Create">Follow Us</h4>
 
+
                 <ul id="social_icons">
                     <li>
-                        <a rel="nofollow" class="twitter" target="_blank" href="http://www.twitter.com/createdotnet" title="twitter"></a>
+                        <a rel="nofollow" class="twitter" target="_blank" href="http://www.twitter.com/create" title="twitter"></a>
                     </li>
                     <li>
                         <a rel="nofollow" class="facebook" target="_blank" href="http://www.facebook.com/createdotnet" title="facebook"></a>
@@ -221,12 +259,12 @@
                         <a class="rssblog" href="/blog.phtml?rss=1" title="our blog"></a>
                     </li>
                     <li>
-                        <a rel="nofollow" class="digg" target="_blank" href="http://digg.com/submit?url=http://www.create.net/privacy.phtml&amp;title=Our+Privacy+Policy" title="digg"></a>
+                        <a rel="nofollow" class="flickr" target="_blank" href="http://www.flickr.com/photos/createdotnet" title="flickr"></a>
                     </li>                             
                     <li>
-                        <a rel="nofollow" class="delicious" target="_blank" href="http://del.icio.us/post?url=http://www.create.net/privacy.phtml&amp;title=Our+Privacy+Policy" title="del.ici.ous"></a>
+                        <a rel="nofollow" class="linkedin" target="_blank" href="http://www.linkedin.com/company/create.net" title="linkedin"></a>
                     </li>
-                    <li>
+                    <li style="margin-right: 0px;">
                         <a rel="nofollow" class="stumbleupon" target="_blank" href="http://www.stumbleupon.com/submit?url=http://www.create.net/privacy.phtml" title="stumble upon"></a>
                     </li>
                 </ul>
@@ -235,7 +273,7 @@
             <div class="columns_4" style="margin-top:15px;">
                 <h4 id="got_a_question" class="footer_menu_title" title="help with your website">Got A Question?</h4>
                 <p style="padding-top:0px;">
-                    View our <a href="/help.phtml" title="Help Section">Help Section</a> or <a href="/contact.phtml" title="Contact Us">get in touch</a>. Still stuck after reading our FAQs? Our support team are at hand and will be happy to help.
+                    View our <a href="/help.phtml#l_footer-help" title="Help Section">Help Section</a> or <a href="/contact.phtml#l_footer-contact" title="Contact Us">get in touch</a>. If you have read our FAQs and are still looking for more information, our support team are at hand and will be happy to help.
                 </p>
             </div>
 
@@ -243,24 +281,29 @@
         
         <div class="clear"></div>
 
-        <div class="columns_8">
-            <p class="">© Copyright 2001 - 2010 Create. All Rights Reserved.</p>
+        <div class="columns_4" style="float:right;">
+            <p style="margin-top:5px; text-align: right;">© Copyright 2001 - 2011 Create. All Rights Reserved.</p>
         </div>
 
         
       <div class="clear"></div>
           </div><!--/#content-->
 
+    <!-- Google Plus 1 -->
+    <script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+      {lang: 'en-GB'}
+    </script>
+    <script type="text/javascript">gapi.plusone.go();</script>
+    <!--[if IE]><script type="text/javascript">Cufon.now();</script><![endif IE]-->
     <script type="text/javascript">
         var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
         document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-        </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript">
+    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+    <script type="text/javascript">
         try {
         var pageTracker = _gat._getTracker("UA-227265-11");
         pageTracker._trackPageview();
         } catch(err) {}
-
     </script>
-  
   
 </body></html>
