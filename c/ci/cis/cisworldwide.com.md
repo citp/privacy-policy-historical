@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cisworldwide.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623070658id_/http%3A//www.cisnationwide.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cisworldwide.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125142120id_/http%3A//www.cisnationwide.com/privacy.html) for the most accurate reproduction.*
 
 # CIS - Information @ Your Fingertips!
 
