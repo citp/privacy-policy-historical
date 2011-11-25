@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the kron4.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102183918id_/http%3A//kron4.com/News/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kron4.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125165205id_/http%3A//kron4.com/privacy-policy.html) for the most accurate reproduction.*
 
-# KRON4.com - The Bay Area's News Station
+# 
 
 KRON 4 is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the KRON 4 Web site and governs data collection and usage. By using the KRON 4 website, you consent to the data practices described in this statement.
 
 Collection of your Personal Information
 
 KRON 4 collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. KRON 4 also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
-
-We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
 
 There is also information about your computer hardware and software that is automatically collected by KRON 4. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by KRON 4 for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the KRON 4 Web site.
 
@@ -28,6 +26,12 @@ KRON 4 keeps track of the Web sites and pages our customers visit within KRON 4,
 
 KRON 4 Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on KRON 4 or the site; (b) protect and defend the rights or property of KRON 4; and, (c) act under exigent circumstances to protect the personal safety of users of KRON 4, or the public.
 
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [http://www.networkadvertising.org/managing/opt_out.asp ](http://www.networkadvertising.org/managing/opt_out.asp)
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
+
+We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit <http://www.valueclickmedia.com/member_privacy.shtml>
+
 Use of Cookies
 
 The KRON 4 Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
@@ -46,4 +50,4 @@ KRON 4 will occasionally update this Statement of Privacy to reflect company and
 
 Contact Information
 
-KRON 4 welcomes your comments regarding this Statement of Privacy. If you believe that KRON 4 has not adhered to this Statement, please contact KRON 4 at [admin@krontest.com](mailto:admin@krontest.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+KRON 4 welcomes your comments regarding this Statement of Privacy. If you believe that KRON 4 has not adhered to this Statement, please contact KRON 4 at admin@krontest.com. We will use commercially reasonable efforts to promptly determine and remedy the problem.
