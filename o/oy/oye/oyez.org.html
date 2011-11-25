@@ -1,0 +1,192 @@
+<!--The following is the downloaded HTML source of the oyez.org privacy policy that was archived on 2011-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111125120412id_/http%3A//www.oyez.org/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr" class="js"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="http://www.oyez.org/sites/default/files/oyez_favicon.ico" type="image/x-icon">
+  <title>The Oyez Project at Chicago-Kent - Privacy Policy | The Oyez Project at IIT Chicago-Kent College of Law</title>
+  <link type="text/css" rel="stylesheet" media="all" href="sites/default/files/css/css_e3018e276222c2751e0389e3096487d3.css.pagespeed.cf.LnYjoxQrMb.css">
+<link type="text/css" rel="stylesheet" media="screen" href="sites/default/files/css/css_5e32baed6ad430f330f1c0b6b3759eb9.css.pagespeed.ce.AWU7kXYy3J.css">
+<link type="text/css" rel="stylesheet" media="print" href="sites/default/files/css/css_857002e9a44bc23f4b19b12a469f4a2f.css.pagespeed.cf.kwiHkvKsOF.css">
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://sjs.bizographics.com/&#9;insight.min.js"></script><script type="text/javascript" src="sites/default/modules/jquery_update/replace/jquery.min.js,qt.pagespeed.jm.eWR5IUrZrf.js"></script>
+<script type="text/javascript" src="misc/drupal.js,qt.pagespeed.jm.vArojImDld.js"></script>
+<script type="text/javascript">//<![CDATA[
+$(document).ready(function(){$(document.body).click(function(event){$(event.target).parents("a:first,area:first").andSelf().filter("a,area").each(function(){var ga=Drupal.settings.googleanalytics;var isInternal=new RegExp("^(https?):\/\/"+window.location.host,"i");var isInternalSpecial=new RegExp("(\/go\/.*)$","i");var isDownload=new RegExp("\\.("+ga.trackDownloadExtensions+")$","i");if(isInternal.test(this.href)){if(ga.trackDownload&&isDownload.test(this.href)){var extension=isDownload.exec(this.href);_gaq.push(["_trackEvent","Downloads",extension[1].toUpperCase(),this.href.replace(isInternal,'')]);}
+else if(isInternalSpecial.test(this.href)){_gaq.push(["_trackPageview",this.href.replace(isInternal,'')]);}}
+else{if(ga.trackMailto&&$(this).is("a[href^=mailto:],area[href^=mailto:]")){_gaq.push(["_trackEvent","Mails","Click",this.href.substring(7)]);}
+else if(ga.trackOutgoing&&this.href){if(ga.trackOutboundAsPageview){_gaq.push(["_trackPageview",'/outbound/'+this.href.replace(/^(https?|ftp|news|nntp|telnet|irc|ssh|sftp|webcal):\/\//i,'').split('/').join('--')]);}
+else{_gaq.push(["_trackEvent","Outbound links","Click",this.href]);}}}});});});
+//]]></script>
+<script type="text/javascript" src="sites/default/modules/oyez_ajax_search/js/core/Core.js,qt.pagespeed.jm.8fL0GBhiNK.js"></script>
+<script type="text/javascript">//<![CDATA[
+AjaxSolr.AbstractManager=AjaxSolr.Class.extend({solrUrl:'http://localhost:8983/solr/',proxyUrl:null,servlet:'select',response:{},widgets:{},store:null,initialized:false,init:function(){this.initialized=true;if(this.store===null){this.setStore(new AjaxSolr.ParameterStore());}
+this.store.load(false);for(var widgetId in this.widgets){this.widgets[widgetId].init();}
+this.store.init();},setStore:function(store){store.manager=this;this.store=store;},addWidget:function(widget){widget.manager=this;this.widgets[widget.id]=widget;},doRequest:function(start,servlet){if(this.initialized===false){this.init();}
+if(start!==undefined){this.store.get('start').val(start);}
+if(servlet===undefined){servlet=this.servlet;}
+this.store.save();for(var widgetId in this.widgets){this.widgets[widgetId].beforeRequest();}
+this.executeRequest(servlet);},executeRequest:function(servlet){throw'Abstract method executeRequest must be overridden in a subclass.';},handleResponse:function(data){this.response=data;for(var widgetId in this.widgets){this.widgets[widgetId].afterRequest();}}});
+//]]></script>
+<script type="text/javascript">//<![CDATA[
+AjaxSolr.Parameter=AjaxSolr.Class.extend({name:null,value:null,locals:{},val:function(value){if(value===undefined){return this.value;}
+else{this.value=value;}},local:function(name,value){if(value===undefined){return this.locals[name];}
+else{this.locals[name]=value;}},remove:function(name){delete this.locals[name];},string:function(){var pairs=[];for(var name in this.locals){if(this.locals[name]){pairs.push(name+'='+encodeURIComponent(this.locals[name]));}}
+var prefix=pairs.length?'{!'+pairs.join('%20')+'}':'';if(this.value){return this.name+'='+prefix+this.valueString(this.value);}
+else if(this.name=='q'&&prefix){return'q.alt='+prefix+encodeURIComponent('*:*');}
+else{return'';}},parseString:function(str){var param=str.match(/^([^=]+)=(?:\{!([^\}]*)\})?(.*)$/);if(param){var matches;while(matches=/([^\s=]+)=(\S*)/g.exec(decodeURIComponent(param[2]))){this.locals[matches[1]]=decodeURIComponent(matches[2]);param[2]=param[2].replace(matches[0],'');}
+if(param[1]=='q.alt'){this.name='q';}
+else{this.name=param[1];this.value=this.parseValueString(param[3]);}}},valueString:function(value){value=AjaxSolr.isArray(value)?value.join(','):value;return encodeURIComponent(value);},parseValueString:function(str){str=decodeURIComponent(str);return str.indexOf(',')==-1?str:str.split(',');}});
+//]]></script>
+<script type="text/javascript" src="sites/default/modules/oyez_ajax_search/js/core/ParameterStore.js,qt.pagespeed.jm.psE5QEnLi2.js"></script>
+<script type="text/javascript">//<![CDATA[
+AjaxSolr.AbstractWidget=AjaxSolr.Class.extend({id:null,target:null,manager:null,init:function(){},beforeRequest:function(){},afterRequest:function(){}});
+//]]></script>
+<script type="text/javascript">//<![CDATA[
+AjaxSolr.AbstractSpellcheckWidget=AjaxSolr.AbstractWidget.extend({suggestions:{},suggestion:function(){var replacePairs={};for(var word in this.suggestions){replacePairs[word]=this.suggestions[word][0];}
+return this.manager.response.responseHeader.params['spellcheck.q'].strtr(replacePairs);},beforeRequest:function(){if(this.manager.store.get('spellcheck').val()&&this.manager.store.get('q').val()){this.manager.store.get('spellcheck.q').val(this.manager.store.get('q').val());}
+else{this.manager.store.remove('spellcheck.q');}},afterRequest:function(){this.suggestions={};if(this.manager.response.spellcheck&&this.manager.response.spellcheck.suggestions){var suggestions=this.manager.response.spellcheck.suggestions;for(var word in suggestions){if(word=='collation'||word=='correctlySpelled')continue;this.suggestions[word]=[];for(var i=0,l=suggestions[word].suggestion.length;i<l;i++){if(this.manager.response.responseHeader.params['spellcheck.extendedResults']){this.suggestions[word].push(suggestions[word].suggestion[i].word);}
+else{this.suggestions[word].push(suggestions[word].suggestion[i]);}}}
+if(AjaxSolr.size(this.suggestions)){this.handleSuggestions(this.manager.response);}}},handleSuggestions:function(){}});
+//]]></script>
+<script type="text/javascript">//<![CDATA[
+AjaxSolr.Manager=AjaxSolr.AbstractManager.extend({executeRequest:function(servlet){var self=this;if(this.proxyUrl){jQuery.post(this.proxyUrl,{query:this.store.string()},function(data){self.handleResponse(data);},'json');}
+else{jQuery.getJSON(this.solrUrl+servlet+'?'+this.store.string()+'&wt=json&json.wrf=?',{},function(data){self.handleResponse(data);});}}});
+//]]></script>
+<script type="text/javascript" src="sites/default/modules/oyez_ajax_search/js/apachesolr_oyez_instant.js,qt.pagespeed.jm.ZYHfQ0VE2g.js"></script>
+<script type="text/javascript" src="sites/default/modules/oyez_ajax_search/js/oyez_autocomplete_widget.js,qt.pagespeed.jm.hpslF_EgNW.js"></script>
+<script type="text/javascript" src="sites/default/modules/oyez_ajax_search/js/oyez_search_widget.js,qt.pagespeed.jm.YJr-9d0NSi.js"></script>
+<script type="text/javascript" src="sites/default/modules/embed_quicktime/jquery.embedquicktime.js,qt.pagespeed.jm.xPoONqoe0b.js"></script>
+<script type="text/javascript">//<![CDATA[
+Drupal.behaviors.embedquicktime=function(context){if(Drupal.settings.eqt_jquery instanceof Array){Drupal.settings.eqt_jquery=Drupal.settings.eqt_jquery[0];}
+if(Drupal.settings.eqt_plugin instanceof Array){Drupal.settings.eqt_plugin=Drupal.settings.eqt_plugin[0];}
+$.embedquicktime({jquery:Drupal.settings.eqt_jquery,plugin:Drupal.settings.eqt_plugin});}
+//]]></script>
+<script type="text/javascript">//<![CDATA[
+Drupal.behaviors.tao=function(context){$('fieldset.collapsible:not(.tao-processed) > legend > .fieldset-title').each(function(){var fieldset=$(this).parents('fieldset').eq(0);fieldset.addClass('tao-processed');if($('input.error, textarea.error, select.error',fieldset).size()>0){$(fieldset).removeClass('collapsed');}
+$(this).click(function(){if(fieldset.is('.collapsed')){$(fieldset).removeClass('collapsed').children('.fieldset-content').show();}
+else{$(fieldset).addClass('collapsed').children('.fieldset-content').hide();}
+return false;});});};
+//]]></script>
+<script type="text/javascript">//<![CDATA[
+(function($,e,b){var c="hashchange",h=document,f,g=$.event.special,i=h.documentMode,d="on"+c in e&&(i===b||i>7);function a(j){j=j||location.href;return"#"+j.replace(/^[^#]*#?(.*)$/,"$1")}$.fn[c]=function(j){return j?this.bind(c,j):this.trigger(c)};$.fn[c].delay=50;g[c]=$.extend(g[c],{setup:function(){if(d){return false}$(f.start)},teardown:function(){if(d){return false}$(f.stop)}});f=(function(){var j={},p,m=a(),k=function(q){return q},l=k,o=k;j.start=function(){p||n()};j.stop=function(){p&&clearTimeout(p);p=b};function n(){var r=a(),q=o(m);if(r!==m){l(m=r,q);$(e).trigger(c)}else{if(q!==m){location.href=location.href.replace(/#.*/,"")+q}}p=setTimeout(n,$.fn[c].delay)}$.browser.msie&&!d&&(function(){var q,r;j.start=function(){if(!q){r=$.fn[c].src;r=r&&r+a();q=$('<iframe tabindex="-1" title="empty"/>').hide().one("load",function(){r||l(a());n()}).attr("src",r||"javascript:0").insertAfter("body")[0].contentWindow;h.onpropertychange=function(){try{if(event.propertyName==="title"){q.document.title=h.title}}catch(s){}}}};j.stop=k;o=function(){return a(q.location.href)};l=function(v,s){var u=q.document,t=$.fn[c].domain;if(v!==s){u.title=h.title;u.open();t&&u.write('<script>document.domain="'+t+'"<\/script>');u.close();q.location.hash=v}}})();return j})()})(jQuery,this);
+//]]></script>
+<script type="text/javascript" src="sites/default/themes/oyez/js/fancybox/jquery.fancybox-1.3.4.pack.js,qt.pagespeed.jm.JwOZwnZ3gA.js"></script>
+<script type="text/javascript" src="sites/default/themes/oyez/js/oyez.js,qt.pagespeed.jm.b7ODybw2kA.js"></script>
+<script type="text/javascript">//<![CDATA[
+jQuery.extend(Drupal.settings,{"basePath":"\/","googleanalytics":{"trackOutgoing":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"oyez_as_host":"search.oyez.org","oyez_as_port":"8983","oyez_as_path":"\/solr","oyez_as_qfs":["body^4","title^21.0"],"oyez_as_bfs":null,"oyez_as_bqs":null,"eqt_jquery":"http:\/\/www.oyez.org\/misc\/jquery.js","eqt_plugin":"http:\/\/www.oyez.org\/sites\/default\/modules\/embed_quicktime\/jquery.embedquicktime.js"});
+//]]></script>
+  	<script type="text/javascript">_bizo_data_partner_id="1162";</script>
+	<script type="text/javascript">(function(){(function(){var b,a;a=document.createElement("script");a.type="text/javascript";a.async=true;a.src=""+(window.location.protocol==="https:"?"https://sjs.":"http://js.")+"bizographics.com/	insight.min.js";b=document.getElementsByTagName("script")[0];return b.parentNode.insertBefore(a,b)})();})();</script>
+  <script type="text/javascript"></script>
+</head>
+<body class="not-front not-logged-in page-node node-type-page no-sidebars node-79087 domain-0">
+  <div id="page">
+    <div id="header">
+      <div class="area">
+        <div id="logo">
+                      <a href="/" title="Home" rel="home">
+              <img src="sites/default/themes/oyez/xlogo.png.pagespeed.ic.3Eekt84xBH.png" alt="Home" width="216" height="81">
+            </a>
+                  </div> <!-- /logo -->
+        
+        <div id="navigation" class="menu withprimary">
+                      <div id="primary" class="clear-block">
+              <a href="http://twitter.com/oyez" class="social" target="_blank"><img src="sites/default/themes/oyez/images/xtwitter.png.pagespeed.ic.v6kkDOe3Dh.png" alt="" width="17" height="17"></a>
+              <a href="https://www.facebook.com/pages/Oyez-Project/113136012033499" class="social"><img src="sites/default/themes/oyez/images/xfacebook.png.pagespeed.ic.wq69o0xa1P.png" alt="" width="17" height="17"></a>
+              <ul class="links primary-links"><li class="menu-695 first"><a href="cases/2011" title="SCOTUS Cases">Cases</a></li>
+<li class="menu-715"><a href="courts/robt6" title="SCOTUS Justices">Justices</a></li>
+<li class="menu-840"><a href="benefactors" title="The Oyez project's benefactors.">Benefactors</a></li>
+<li class="menu-702"><a href="about" title="About the Oyez Project">About</a></li>
+<li class="menu-895 last"><a href="tour" title="">Tour</a></li>
+</ul>            </div>
+                  </div> <!-- /navigation -->  
+        
+                
+      </div> <!-- /.area -->
+    </div> <!-- /header -->
+    <div id="container" class="clear-block">
+      
+            
+              <div id="search-box"><form action="/privacy" accept-charset="UTF-8" method="post" id="search-theme-form" class="serif">
+<div><div id="search" class="container-inline">
+  <div class="form-item form-item-labeled" id="edit-search-theme-form-1-wrapper">
+      <label for="edit-search-theme-form-1">Search: </label>
+    <input type="text" maxlength="128" name="search_theme_form" id="edit-search-theme-form-1" size="15" value="" title="Enter the terms you wish to search for." class="form-text" autocomplete="OFF">  </div>
+<input type="image" name="submit" id="edit-submit" class="form-submit" src="http://www.oyez.org/sites/default/themes/oyez/images/xicon-search.png.pagespeed.ic.6d5sU8n4eI.png" width="26" height="23">
+<input type="hidden" name="form_build_id" id="form-ca64be6820ced798106dba0380901fe2" value="form-ca64be6820ced798106dba0380901fe2">
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form">
+  <div id="oyez_apachesolr_autocomplete"></div>
+</div>
+
+</div></form>
+</div>
+      
+      <div id="main" class="column">
+        <div id="content">
+          
+      <h1 class="title" id="page-title">The Oyez Project at Chicago-Kent - Privacy Policy</h1>                                          
+                        
+            <div id="node-79087" class="node clear-block">
+
+
+
+  <div class="meta">
+  
+    </div>
+
+  <div class="content">
+    <p>The Oyez Project at Chicago-Kent (Oyez) respects your privacy. This privacy policy explains how Oyez collects, uses and safeguards information on <a href="/" title="www.oyez.org">www.oyez.org</a>, and any other websites operated by Oyez such as oyeztoday.org and <a href="http://www.pocketjustice.com" title="www.pocketjustice.com">www.pocketjustice.com</a>. This privacy policy applies only to information collected by Oyez and its related websites.</p>
+<h2>Changes to the Privacy Policy</h2>
+<p>Our privacy policy is likely to change from time to time simply to keep abreast of changes in technology. We reserve the right to amend our  policy at any time, for any reason. The date of the last revision to our policy will be indicated by the "Last updated" date at the bottom of this page.</p>
+<p>If you have questions about our privacy policy, please email us at <a href="mailto:privacy@oyez.org">privacy@oyez.org</a>.</p>
+<h2>What information we collect and how we use it</h2>
+<p>We use advertising networks to help present advertisements on Oyez sites. These advertising networks use "cookies" to help present, better target, and measure the effectiveness of their advertisements, using data gathered over time and across their networks to determine the characteristics and preferences of their audience. (A "cookie" is a packet of data sent by an Internet server to a browser, which is returned by the browser each time it subsequently accesses the same server; it is used to track the user's access to the server.)</p>
+<p>We may share certain aggregate and non-personally-identifiable information about our users in order to help them deliver more relevant advertisements through their ad networks. The Bizographic Targeting Network (Bizo) is one such network in which we participate. If you wish to ‘opt out’ of the targeted advertising delivered by Bizo, please click <a href="http://www.bizo.com/business_audience/opt_out">http://www.bizo.com/business_audience/opt_out</a> to visit the Bizo opt out page. Or, you may opt out of multiple ad-targeting cookies, including Bizo, via that National Advertising Initiative opt-out page: <a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.bizo.com/business_audience/opt_out</a>.</p>
+<h2>What information we do not collect</h2>
+<p>We do not collect personally identifiable information, such as your name, address, phone number and e-mail address.</p>
+<h2>Linking to other Internet sites</h2>
+<p>You should be aware that other Internet sites that are linked from Oyez or its related sites may contain privacy provisions that differ from the provisions of the Oyez privacy policy. To ensure your privacy is protected, we recommend that you review the privacy statements of other Internet sites you visit.</p>
+<p>Last updated July 11, 2011</p>
+  </div>
+
+  </div>            
+                        
+                  </div> <!-- /content -->
+      </div> <!-- /main -->
+
+            <hr style="clear:both;visibility:hidden;">
+    </div> <!-- /container -->
+    <div id="push">&nbsp;</div>
+  </div> <!-- /page -->
+  
+<div id="footer">
+  <div class="area">
+    
+
+<div id="block-menu-menu-footer-primary-links" class="block block-menu">
+  
+  
+      <div class="block-content clear-block ">
+      <ul class="menu"><li class="leaf first"><a href="about" title="">About</a></li>
+<li class="leaf"><a href="feedback" title="">Site Feedback</a></li>
+<li class="leaf active-trail"><a href="privacy" title="The Oyez Project at Chicago-Kent - Privacy Policy" class="active">Privacy Policy</a></li>
+<li class="leaf"><a href="tos" title="The Oyez Project at Chicago-Kent - Terms of Service">Terms of Service</a></li>
+<li class="leaf"><a href="http://lawyers.oyez.org" title="">Need a lawyer?</a></li>
+<li class="leaf last"><a href="http://itunes.apple.com/us/institution/oyez/id453545974" title="">Visit Oyez on iTunes U.</a></li>
+</ul>    </div>
+  
+  </div>
+
+
+    © 2005-2011 Oyez, Inc.  </div> <!-- /.area -->
+</div> <!-- /footer -->
+
+<script type="text/javascript">//<![CDATA[
+var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-1508262-2"]);_gaq.push(["_trackPageview"]);(function(){var ga=document.createElement("script");ga.type="text/javascript";ga.async=true;ga.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga,s);})();
+//]]></script>
+
+
+
+<!-- Page cached by Boost @ 2011-11-22 03:11:03, expires @ 2011-11-23 03:11:03 -->
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancybox-bg" id="fancybox-bg-n"></div><div class="fancybox-bg" id="fancybox-bg-ne"></div><div class="fancybox-bg" id="fancybox-bg-e"></div><div class="fancybox-bg" id="fancybox-bg-se"></div><div class="fancybox-bg" id="fancybox-bg-s"></div><div class="fancybox-bg" id="fancybox-bg-sw"></div><div class="fancybox-bg" id="fancybox-bg-w"></div><div class="fancybox-bg" id="fancybox-bg-nw"></div><div id="fancybox-content"></div><a id="fancybox-close"></a><div id="fancybox-title"></div><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
