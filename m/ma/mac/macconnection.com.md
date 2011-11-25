@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the macconnection.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219203521id_/http%3A//www.macconnection.com/IPA/Content/About/Legal/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macconnection.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125104750id_/http%3A//www.macconnection.com/IPA/Content/About/Legal/PrivacyPolicy.htm) for the most accurate reproduction.*
 
-# Mac Connection - Privacy Policy
+# Privacy Policy - MacConnection
 
   
-We're committed to protecting your right to privacy. This Privacy Policy describes how we manage the personal information we collect while doing business. This Privacy Policy covers only information that is collected through the biz.pcconnection.com web site or other web site addresses that are operated by and provide service of PC Connection (the "Site"). This Privacy Policy does not cover information that may be collected through other web sites accessible through our Site or through software downloaded from our Site.
+We're committed to protecting your right to privacy. This Privacy Policy describes how we manage the personal information we collect while doing business. This Privacy Policy covers only information that is collected through the pcconnectionexpress.com web site or other web site addresses that are operated by the Company. This Privacy Policy does not cover information that may be collected through other web sites accessible through our Site or through software downloaded from our Site.
 
 ##    
 Information We Collect Automatically When You Visit Our Site
@@ -21,22 +21,20 @@ Information We Collect When You Request or Order Our Products and Services
 
 We collect different types of personal information for different purposes.
 
-_Catalogs:_ When you request a catalog, we collect your name and mailing address so we can fulfill your request. We also request your email address and phone number.
+_Catalogs:_ When you request a catalog, we collect your name and mailing address so we can fulfill your request. 
 
-_Log-in Identification:_ Individual consumers may register a log-in name and set a password when visiting our Site or placing an order through our Site. To register, we request that you provide your name, mailing address, telephone/fax numbers, and e-mail address. This registration enables us to track online orders and save your customer information and preferences so you won't have to re-enter the same information every time you return to our Site. We also use this information to authenticate your identity when you request access to our online services.
-
-Business customers need a log-in name and password to access their Internet Business Accounts. To obtain a login name, you must provide your PC Connection account number, company name, department, mailing address, telephone/fax numbers, and the names, telephone/fax numbers and e-mail addresses of all authorized buyers associated with the account. This information allows us to quickly process orders, provide efficient customer service, and present information relevant to a user's organization.
+_Log-in Identification:_ Individual customers or prospective customers may register a log-in name and set a password when visiting our Site or placing an order through our Site. To register, we request that you provide your name, mailing address, telephone/fax numbers, and e-mail address. This registration enables us to track online orders and save your customer information and preferences so you won't have to re-enter the same information every time you return to our Site. We also use this information to authenticate your identity when you request access to our online services.
 
 _Orders:_ To process and ship your order, we need your name, phone number, credit card account information, billing address, shipping address, and e-mail address. This information is stored on a secure server to allow us to process subsequent orders more quickly. If we have trouble processing an order, we will use this information to contact you.
 
-_Contests and Surveys:_ When we offer a contest or survey through our Site, we generally request contact information and some demographic (such as zip code) information. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose the information. We will use this information to notify contest winners and award prizes, to improve our product offerings, and to assess the interests of those who visit our Site. Participants may receive periodic email notices about special offers and site updates.
+_Contests and Surveys:_ When we offer a contest or survey through our Site, we generally request contact information and some demographic (such as zip code) information. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose the information. We will use this information to notify contest winners and award prizes, to improve our product offerings, and to assess the interests of those who visit our Site. Participants may receive periodic email notices about special offers and site updates. To opt out of these emails, see "Choice" below.
 
 ##    
 Communications from Us or the Site
 
 We may use your contact information to respond to your requests or to communicate about your orders.
 
-_Distribution Lists:_ Upon requesting a catalog, ordering our products/services, or participating in our online contests or surveys, you will be placed on our distribution lists and may receive occasional postal mail, email, or telephone notification about PC Connection products, services, special offers, promotions, or Site updates that we believe may be of interest to you. To remove yourself from these lists, see "Choice" below.
+_Distribution Lists:_ Upon requesting a catalog, ordering our products/services, or participating in our online contests or surveys, you will be placed on our distribution lists and may receive occasional postal mail, email, or telephone notification about PC Connection Express products, services, special offers, promotions, or Site updates that we believe may be of interest to you. To remove yourself from these lists, see "Choice" below.
 
 _Emails:_ In order to create a better electronic community, we may collect specific user profile information, such as the referring URL, when you click on a link in our e-mail communications. This information is used to capture broad demographic trends that may allow us to provide you with information better tailored to your interests. You will not be personally identified from this information. To opt out of these emails, see "Choice" below.
 
@@ -45,7 +43,7 @@ Conditions Under Which We Share Information
 
 We may disclose customer information for the purposes described below, or for other purposes that you authorize:
 
-      _Our Agents, Service Providers and Contractors:_ We engage third parties to perform certain of our business operations for which customer information may be disclosed. For example, we use outside shipping companies to fulfill orders and credit card processing companies to obtain payment for our goods and services. We also disclose customer information to third parties that perform other tasks or functions, such as order processing and fulfillment, customer relations, technical support, training, marketing/advertising, legal, fraud prevention services and fraud risk modeling, and other administrative, professional, or consulting services. We allow these third parties to make further disclosures of your personally identifiable information only with your consent or as permitted under this Privacy Policy.
+      _Our Agents, Service Providers and Contractors:_ We engage third parties to perform certain business operations for which customer information may be disclosed. For example, we use outside shipping companies to fulfill orders and credit card processing companies to obtain payment for our goods and services. We also disclose customer information to third parties that perform other tasks or functions, such as order processing and fulfillment, customer relations, technical support, training, marketing/advertising, legal, fraud prevention services and fraud risk modeling, and other administrative, professional, or consulting services. We allow these third parties to make further disclosures of your personally identifiable information only with your consent or as permitted under this Privacy Policy.
 
         _Third Party Products and Services:_ We may occasionally share your name and contact information with companies whose products and services may be of interest to you. Out of respect for your privacy, we allow you to opt-out of having your information shared with third parties for this purpose, as described under "Choice" below.
 
@@ -58,9 +56,9 @@ Choice
 
 You may opt out of certain uses of your personal information, as described above.
 
-_Mail and Telephone Lists:_ To remove yourself from our promotional mailing and telephone lists, please send an e-mail to [mailinglist@pcconnection.com](mailto:mailinglist@pcconnection.com) or call us at 1-888-213-0260.
+_Mailing Lists:_ To remove yourself from our promotional mailing lists, please send an e-mail to [mailinglist@pcconnectionexpress.com](mailto:mailinglist@pcconnectionexpress.com) or call us at 1-888-213-0260.
 
-_Email Lists:_ If you prefer not to receive e-mail from us (other than those directly responsive to your orders, inquiries or requests), please click the "unsubscribe" link at the bottom of any promotional e-mail or send a blank email request to [unsubscribe@pcconnection.com](mailto:unsubscribe@pcconnection.com). Please note: Even though you may choose to unsubscribe from our email distribution list, for security reasons we will always attempt to send you transaction-related order, backorder and shipment confirmation emails concerning your purchases through the Site.
+_Email Lists:_ If you prefer not to receive e-mail from us (other than those directly responsive to your orders, inquiries or requests), please click the "unsubscribe" link at the bottom of any promotional e-mail or send a blank email request to [unsubscribe@pcconnectionexpress.com](mailto:unsubscribe@pcconnectionexpress.com). Please note: Even though you may choose to unsubscribe from our email distribution list, for security reasons we will always attempt to send you transaction-related order, backorder and shipment confirmation emails concerning your purchases through the Site.
 
 ##    
 Access and Amendment of Personal Information
@@ -75,7 +73,7 @@ The security of your personal information is important to us. When you enter sen
 ##    
 Other Web Sites
 
-We have no control over the privacy practices of web sites outside of our biz.pcconnection.com domain. If you follow a link to another site, read the site's privacy policy and contact the site's administrator with your privacy-related questions.
+We have no control over the privacy practices of web sites outside of our pcconnectionexpress.com domain. If you follow a link to another site, read the site's privacy policy and contact the site's administrator with your privacy-related questions.
 
 ##    
 Children's Privacy
@@ -90,13 +88,13 @@ We may change this Privacy Policy from time to time. Any changes will be posted 
 ##    
 Contact Us
 
-If you have any questions or suggestions regarding this Privacy Policy, please contact us at: Pam Carter, 730 Milford Rd., Merrimack, NH 03054; [pcarter@pcconnection.com](mailto:pcarter@pcconnection.com); ph. 603-683-2753.
+If you have any questions or suggestions regarding this Privacy Policy, please contact the Legal Department of our parent Company, PC Connection, Inc., 730 Milford Rd., Merrimack, NH 03054; [legal@pcconnection.com](mailto:legal@pcconnection.com).
 
 ##    
 California Residents
 
-California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail request to [internetmarketing@pcconnection.com](mailto:internetmarketing@pcconnection.com) or write to us at Internet Marketing, 730 Milford Rd., Merrimack, NH 03054.
+California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail request to [internetmarketing@pcconnectionexpress.com](mailto:internetmarketing@pcconnectionexpress.com) or write to our service provider at Internet Marketing, 730 Milford Rd., Merrimack, NH 03054.
 
-**Effective Date** January 17, 2007
+**Effective Date** January 1, 2010
 
-© Copyright PC Connection, Inc. 2007. All rights reserved.
+© Copyright PC Connection, Inc. 2010. All rights reserved.
