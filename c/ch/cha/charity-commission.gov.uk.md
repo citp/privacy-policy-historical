@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charity-commission.gov.uk privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107182341id_/http%3A//www.charity-commission.gov.uk/misc/copyright.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charity-commission.gov.uk privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125042159id_/http%3A//www.charity-commission.gov.uk/misc/copyright.aspx) for the most accurate reproduction.*
 
 # Copyright statement
 
@@ -99,17 +99,31 @@ We will confirm that the requested changes have been made if you specifically re
 
 #### 4\. Site usage information 
 
-**Cookies**
+###### Cookies 
 
 We will be unable to display certain pages such as the Welsh version of our site and other accessibility options if your browser is set up to refuse our cookies. 
 
-**What are Cookies?**
+###### What are Cookies? 
 
-Cookies are small text files that are often created when you visit a website, and which are stored in the cookie directory of your computer. The cookies contain small pieces of data which are used on our website to store your current choices such as language and [accessibility options](https://web.archive.org/access.asp) . By reading the data in the cookie we are able to apply your preferences from page to page as you move through our site. The cookies our site uses are called "session cookies", which means that your choices, such as the Welsh language version and your preferred accessibility choices are stored temporarily while you move around the site. The cookies do not contain any personal information about you, and they cannot be used to identify an individual user. You can set your computer not to accept cookies but, if you do, you will not be able to use some facilities on the website. Session cookies are deleted when you exit from the Internet. They do not contain any personal information about you, and do not hold any information about which sites you visited before www.charitycommission.gov.uk 
+Cookies are small text files that are often created when you visit a website, and which are stored in the cookie directory of your computer. The cookies contain small pieces of data which are used on our website to store your current choices such as language and [accessibility options](https://web.archive.org/AccessibilityOptions.aspx "Accessibility options") . By reading the data in the cookie we are able to apply your preferences from page to page as you move through our site. The cookies our site uses are called "session cookies", which means that your choices, such as the Welsh language version and your preferred accessibility choices are stored temporarily while you move around the site. 
 
-**Log files**
+The cookies do not contain any personal information about you, and they cannot be used to identify an individual user. You can set your computer not to accept cookies but, if you do, you will not be able to use some facilities on the website. Session cookies are deleted when you exit from the Internet. They do not contain any personal information about you, and do not hold any information about which sites you visited before the Charity Commission website. 
+
+More information on cookies is available from Directgov: 
+
+  * [_Internet browser cookies - what they are and how to manage them_](http://www.direct.gov.uk/managingcookies "Internet browser cookies - what they are an how to manage them on the DirectGov website") (opens new window)
+
+
+
+###### Log files 
 
 Log files allow us to record visitors' use of the site. Specialist software puts together log file information from all our visitors, which we use to make changes to the layout of the site and to the information in it, based on the way that visitors move around it. Log files do not contain any personal information. 
+
+We use Google analytics to manage log file information. 
+
+  * [Read Google's privacy policy](http://www.google.com/privacy.html "Googles privacy policy") (opens new window)
+
+
 
 #### What happens when I link to another site? 
 
