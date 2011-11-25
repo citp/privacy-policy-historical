@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitroplanes.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605231413id_/http%3A//www.nitroplanes.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitroplanes.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125230146id_/http%3A//www.nitroplanes.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Nitro Model R/C Planes RC Airplane Electric Brushless Nitro Gas Jet Aircraft
 
