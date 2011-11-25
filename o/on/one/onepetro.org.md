@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onepetro.org privacy policy that was archived on 2011-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110314022525id_/http%3A//www.onepetro.org/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onepetro.org privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125143122id_/http%3A//www.onepetro.org/privacy_policy.htm) for the most accurate reproduction.*
 
 # OnePetro Privacy Policy
 
@@ -27,26 +27,26 @@ OnePetro uses industry-standard measures to protect your submission of credit ca
 You can verify that you are in a secure-transmission portion of OnePetro's website in one of two ways:
 
   * Look for an unbroken key symbol or lock symbol at the bottom status bar of your browser. This shows that you are in a secured mode. 
-  * Look at the URL address in your browser window. When in secured mode, the address changes from http to "https."
+  * Look at the URL address in your browser window. When in secured mode, the address changes from http to "https." 
 
 
 
 ## Contacting OnePetro Customer Service
 
-Email:
+**Email:**
 
 | [info@onepetro.org](mailto:info@onepetro.org)  
 ---|---  
   
-Phone:
+**Phone:**
 
 | 1.972.952.9323  
   
-Fax:
+**Fax:**
 
 | 1.972.952.9435  
   
-Mail:
+**Mail:**
 
 |  OnePetro   
 222 Palisades Creek Dr.   
