@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-conomic.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229005915id_/http%3A//www.e-conomic.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-conomic.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125164105id_/http%3A//www.e-conomic.com/about/privacy-policy) for the most accurate reproduction.*
 
 # e-conomic's online media Privacy Policy
 
@@ -8,11 +8,11 @@ When you visit e-conomic's websites, we automatically collect information about 
 
 The information we collect from your visit is not personal. In other words, this information cannot be used to identify you personally. We use this information to monitor general tendencies in user behaviour.
 
-In the following, you can read about how we collect information from your visit, why we do it and how your data is protected. 
+In the following, you can read about how we collect information from your visit, why we do it and how your data is protected. ****
 
 ### Automatically collected data
 
-Every time you visit one or more of [e-conomic's websites](https://web.archive.org/about/online-presence), we automatically collect data about your visit. This includes: 
+Every time you visit one or more of [e-conomic's websites](http://www.e-conomic.com/about/online-presence), we automatically collect data about your visit. This includes: 
 
   * The page you entered first 
   * Whether you have visited the website before 
@@ -86,3 +86,64 @@ Your data is not disclosed to any third party without your permission, unless le
 As a user, you are responsible for the content you publish. We may decide to remove content published by you on your request, but we maintain our right not to remove already published content.
 
 For further guidelines on publishing content on our websites, please visit our individual sites. 
+
+About e-conomic
+
+This picture of a cookie clashes with the huge amount of text on this page :)
+
+**What is a cookie?**
+
+In computer technology, the term "cookie" is used to describe an opaque piece of data.
+
+A cookie is a small file containing information that a website stores permanently on the hard disk of your computer when you visit a website like this one.
+
+This enables the website to recognise your computer when you visit the page again.
+
+The cookie does not give access to personal data about you and cannot be used to trace your identity.
+
+**If you want to opt out of cookies**  
+You may set your browser to inform you when you receive a cookie, so that you can accept or reject a cookie.
+
+You should, however, be aware that any changes in your browser settings may mean that certain functions on our website no longer work optimally.
+
+**What are web beacons?**  
+A web beacon is a small transparent graphics file which is called from web sites. 
+
+Web beacons are used in combination with cookies and make it possible to collect data about user behaviour on websites.
+
+**What are log files?**  
+When you visit e-conomic's websites, technical information about your visit is registered, e.g. your IP address, browser type and language.
+
+This data is saved in log files on the web server. They are used for statistical purposes, for optimisation of the webservers' performance and for troubleshooting.
+
+**What is an IP address?**  
+Your computer gets a so-called IP address from your Internet provider when it is connected to the Internet.
+
+IP stands for Internet Protocol. An IP address is a unique number and consists of 4 groups of numbers, e.g. 107.34.98.24. The numbers in the IP address are associated with countries, and often also regions and cities.
+
+Changes
+
+We may occasionally have to update these guidelines for personal data.
+
+You will find the most recent guidelines on this page.
+
+Changes will not be implemented retrospectively, and no changes will affect our processing of previously collected data.
+
+**Previous versions**  
+Here you will find links to previous versions of e-conomic's guidelines for personal data: 
+
+  * [Privacy policy for e-conomic's online media before 30 August 2009](http://www.e-conomic.com/about/privacy-policy-before-2009-08-30)
+
+
+
+Questions or suggestions?
+
+If you have any questions to these quidelines or suggestions for improvement, please contact us at: 
+
+  
+**e-conomic international a/s**  
+Wildersgade 10 B  
+DK-1408 Copenhagen K  
+Denmark  
+E-mail: [info@e-conomic.com](mailto:info@e-conomic.com)  
+Phone: +45 88 20 48 40 
