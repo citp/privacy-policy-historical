@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pba-online.net privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617071714id_/http%3A//www.pba-online.net/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pba-online.net privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125045611id_/http%3A//www.pba-online.net/privacy-policy) for the most accurate reproduction.*
 
-# Philippine Basketball Association :: PBA-Online!
+# Privacy Policy :: PBA-Online!
 
 **What information do we collect?**
 
@@ -36,7 +36,7 @@ Note: If at any time you would like to unsubscribe from receiving future emails,
 
 We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information.
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required toï¿½keep the information confidential.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
 After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
