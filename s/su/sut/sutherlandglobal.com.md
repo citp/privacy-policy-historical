@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sutherlandglobal.com privacy policy that was archived on 2011-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110112041725id_/http%3A//www.sutherlandglobal.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sutherlandglobal.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125184943id_/http%3A//www.sutherlandglobal.com/privacy.aspx) for the most accurate reproduction.*
 
 # BPO - Business Process Outsourcing - Measureable Results, Delivered Globally.
 
@@ -43,7 +43,7 @@ To protect your privacy, we have adopted the following principles:
 > 
 > Access/Accuracy
 > 
-> To the extent that you do provide us with Personal Information, Sutherland wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting Sutherland should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information to [security@suth.com](mailto:security@suth.com) and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable. 
+> To the extent that you do provide us with Personal Information, Sutherland wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting Sutherland should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information to [security@sutherlandglobal.com](mailto:security@sutherlandglobal.com) and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable. 
 
 Sutherland Global Services complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Sutherland Global Services has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.   
 To learn more about the Safe Harbor program, and to view the our certification, please visit [Safe Harbor Web Site](http://www.export.gov/safeharbor/)
@@ -56,6 +56,6 @@ www.suth.com is not structured to attract children. Accordingly, we do not inten
 
 We are committed to privacy. Protecting your privacy online is an evolving area, and Sutherland's Web sites are constantly evolving to meet these demands. 
 
-If you have any comments or questions regarding our Online Privacy Policy, please contact us at [security@suth.com](mailto:security@suth.com) **While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.**
+If you have any comments or questions regarding our Online Privacy Policy, please contact us at [security@sutherlandglobal.com](mailto:security@sutherlandglobal.com) **While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.**
 
 By using this Web site, you consent to the terms of our Online Privacy Policy and to Sutherland's processing of Personal Information for the purposes given above as well as those explained where Sutherland collects Personal Information on the Web. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
