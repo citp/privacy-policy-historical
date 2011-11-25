@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysteryshops.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225024332id_/http%3A//www.mysteryshops.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysteryshops.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125165330id_/http%3A//www.mysteryshops.com/privacy.asp) for the most accurate reproduction.*
 
 # 
 
