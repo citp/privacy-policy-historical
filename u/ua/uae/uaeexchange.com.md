@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uaeexchange.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503222307id_/http%3A//www.uaeexchange.com/uae/validate_country.php%3Fmlink%3D23%26slink%3D0%26sslink%3D0%26pageid%3D28%26ctry%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uaeexchange.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125101322id_/http%3A//www.uaeexchange.com/UAE-Exchange/privacy-policy.html) for the most accurate reproduction.*
 
-# uaeexchange - money transfer | online money transfer | money transfer service
+# Privacy Policy
 
 Many visitors are worried about the information they provide to us, and how we treat that information. This validates the need for this Privacy Policy to address those concerns. UAE EXCHANGE is strongly committed to protecting the user’s privacy.
 
@@ -38,7 +38,7 @@ We reserve the right to disclose the user’s personally identifiable informatio
 
 **Changes to this Privacy Policy**
 
-Please note that we review our Privacy Policy from time to time, and we may make periodic changes to the policy in connection with that review. Therefore, the user may wish to bookmark this page and/or periodically review this page to make sure the user has the latest version. 
+Please note that we review our Privacy Policy from time to time, and we may make periodic changes to the policy in connection with that review. Therefore, the user may wish to bookmark this page and/or periodically review this page to make sure the user has the latest version.
 
 **Contact us**
 
