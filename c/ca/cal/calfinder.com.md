@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the calfinder.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511140501id_/http%3A//www.calfinder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calfinder.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125115714id_/http%3A//www.calfinder.com/privacy) for the most accurate reproduction.*
 
 # CalFinder Privacy Policy
 
