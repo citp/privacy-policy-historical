@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babemag.com privacy policy that was archived on 2011-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110129235058id_/http%3A//www.babemag.com/about_us/606665/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babemag.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125044359id_/http%3A//www.babemag.com/about_us/606665/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy – Babe Mag - Babe Mag
 
