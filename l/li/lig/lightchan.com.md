@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lightchan.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605152640id_/http%3A//www.lightchan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightchan.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125055725id_/http%3A//www.lightchan.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Light Chan
 
