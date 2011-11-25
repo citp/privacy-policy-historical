@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the churchstaffing.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611162308id_/http%3A//www.churchstaffing.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the churchstaffing.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125184623id_/http%3A//www.churchstaffing.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Church Jobs, Pastor Jobs, Listings, Ministry Employment, Church Ministries, Pastors Openings
 
@@ -202,15 +202,16 @@ Salem may at any time amend, modify, restate, or revise this Privacy Policy by u
   * [Terms of Use](https://web.archive.org/TermsOfUse.aspx)
   * [Customer Testimonials](https://web.archive.org/JobSeeker/CustomerTestimonials.aspx)
   * [FAQ's](https://web.archive.org/#)
+  * [Sitemap](https://web.archive.org/sitemap.htm)
   *  
 
 
 
 ### Free Newsletters
 
-Church Staffing Update  
-The Pastor’s Corner  
-Sermon Search Update  
-Crosswalk Pastor’s Resources  
-Live It! Signup Sign up for FREE ChurchStaffing.com Email Newsletters to receive email newsletters, updates and special offers from ChurchStaffing.com.  
+ChurchStaffing.com Job Seeker Newsletter  
+ChurchStaffing.com Employers Newsletter  
+Sermon Search Update Signup Sign up for a FREE Email Newsletter and receive the Latest Updates, Special Offers, and Exclusive Deals from ChurchStaffing.com.  
 [Privacy Policy](https://web.archive.org/PrivacyPolicy.aspx) / [Terms of Use](https://web.archive.org/TermsOfUse.aspx)
+
+[](http://www.christianjobs.com/)
