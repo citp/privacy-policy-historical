@@ -1,56 +1,66 @@
-> *The following text is extracted and transformed from the acoollink.com privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416090814id_/http%3A//www.acoollink.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acoollink.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125125715id_/http%3A//www.acoollink.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use ACoolLink.com, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us. 
+We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use ACoolLink.com / A Cool Link LLC, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
 
-ACoolLink.com strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.   
+A Cool Link LLC strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers’, consumers’ and online visitors’ privacy on our website.
 
+**Personal Information[](http://www.acoollink.com/wp-content/uploads/2010/10/Parker-Family-and-skiing-1033.jpg)**
 
-**Personal Information**
+A Cool Link LLC collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, email address, company name and telephone number.
 
-ACoolLink.com collects personally identifiable information from the visitors to our website only on a voluntary basis. Personal information collected on a voluntary basis may include name, postal address, email address, company name and telephone number. 
+This information is collected if you request information from us, participate in a contest or sweepstakes, and sign up to join our email list or request some other service or information from us. The information collected is internally reviewed, used to improve the content of our website, notify our visitors of updates, and respond to visitor inquiries.
 
-This information is collected if you request information from us, participate in a contest or sweepstakes, and sign up to join our email list or request some other service or information from us. The information collected is internally reviewed, used to improve the content of our website, notify our visitors of updates, and respond to visitor inquiries. 
-
-Once information is reviewed, it is discarded or stored in our files. If we make material changes in the collection of personally identifiable information we will inform you by placing a notice on our site. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties. 
+Once information is reviewed, it is discarded or stored in our files. If we make material changes in the collection of personally identifiable information we will inform you by placing a notice on our site. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties.
 
 **Use of Cookies and Web Beacons**
 
-We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site's services, a cookie enables ACoolLink.com to recall your specific information on subsequent visits. 
+We may use cookies to help you personalize your online experience. Cookies are identifiers that are transferred to your computer’s hard drive through your Web browser to enable our systems to recognize your browser. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the sites pages, or register with any of our site’s services, a cookie enables A Cool Link LLC to recall your specific information on subsequent visits.
 
-You have the ability to accept or decline cookies by modifying your Web browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site. 
+You have the ability to accept or decline cookies by modifying your Web browser; however, if you choose to decline cookies, you may not be able to fully experience the interactive features of the site.
 
-A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a web site. 
+A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a web site.
 
-We may serve third party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site. 
+We may serve third party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you’ve seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site.
 
-Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose. 
+Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn’t cause a problem with our site, should you so choose.
 
-**Children's Online Privacy Protection Act**
+**Children’s Online Privacy Protection Act**
 
-This website is directed to adults; it is not directed to children under the age of 13. We operate our site in compliance with the Children's Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under 13 years of age. 
+This website is directed to adults; it is not directed to children under the age of 13. We operate our site in compliance with the Children’s Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under 13 years of age.
 
 **Non-Personal Information**
 
-In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes. 
+In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes.
 
 **Release of Information**
 
-If ACoolLink.com is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us. 
+If A Cool Link LLC is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us.
 
 **How You Can Correct or Remove Information**
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please click on this link and/or use our Contact Us page. 
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please click on this link and/or use our Contact Us page.
 
-**Updates and Effective Date**
+**Updates and Effective Date[](http://www.acoollink.com/wp-content/uploads/2010/10/Parker-Family-and-skiing-224.jpg)**
 
-ACoolLink.com reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it. 
+A Cool Link LLC reserves the right to make changes in this policy. If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
 
 **Agreeing to Terms**
 
-If you do not agree to ACoolLink.com’s Privacy Policy as posted here on this website, please do not use this site or any services offered by this site. 
+If you do not agree to A Cool Link LLC’s Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
 
-**_Your use of this site indicates acceptance of this privacy policy._**
+**Your use of this site indicates acceptance of this privacy policy.**
 
-* * *
+[](http://www.linkwithin.com/)
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F%20\(via%20@sociablesite\) "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&ui=2&tf=1&shva=1 "email")
+  *   * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&title=Privacy%20Policy&notes=We%20recognize%20that%20your%20privacy%20is%20important.%20This%20document%20outlines%20the%20types%20of%20personal%20information%20we%20receive%20and%20collect%20when%20you%20use%20ACoolLink.com%20%2F%20A%20Cool%20Link%20LLC%2C%20as%20well%20as%20some%20of%20the%20steps%20we%20take%20to%20safeguard%20information.%20We%20hope%20this%20wil "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&srcTitle=A+Cool+Link+Cool+Links+From+Around+the+Web "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=A+Cool+Link+Cool+Links+From+Around+the+Web&summary=We%20recognize%20that%20your%20privacy%20is%20important.%20This%20document%20outlines%20the%20types%20of%20personal%20information%20we%20receive%20and%20collect%20when%20you%20use%20ACoolLink.com%20%2F%20A%20Cool%20Link%20LLC%2C%20as%20well%20as%20some%20of%20the%20steps%20we%20take%20to%20safeguard%20information.%20We%20hope%20this%20wil "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.acoollink.com%2Fprivacy-policy%2F&Title=Privacy%20Policy "BlinkList")
+  * 
+
