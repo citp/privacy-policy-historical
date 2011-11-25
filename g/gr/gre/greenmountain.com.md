@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greenmountain.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623223140id_/http%3A//greenmountain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenmountain.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125042014id_/http%3A//www.greenmountain.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Green Mountain Energy Company
 
 At Green Mountain Energy Company, we are committed to protecting your privacy as a visitor to our web site, as an applicant for service or as a customer. The following disclosures describe our privacy practices applicable to the information of our individual customers, applicants for service and visitors. This disclosure statement takes the place of all previous notices or statements of Green Mountain involving privacy and use of consumer information and is subject to change at any time.
 
