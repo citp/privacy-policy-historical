@@ -1,0 +1,79 @@
+> *The following text is extracted and transformed from the launchbit.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125110232id_/http%3A//www.launchbit.com/privacy) for the most accurate reproduction.*
+
+# LaunchBit | Marketplace for Promotions in Email Newsletters | How It Works
+
+This Privacy Policy outlines the privacy practices we follow for websites operated and maintained by LaunchBit, including LaunchBit.com.
+
+By using this website ("the Site") or Services provided by LaunchBit, you are accepting the practices described in this Privacy Policy. We keep this privacy policy up-to-date to maintain transparency in how we collect and use data that our Services collect. Please check back from time-to-time, as we update this document periodically.
+
+Please note that as our business involves partnerships with many third party sites, the privacy policies here only reflect how LaunchBit collects and maintains information. Third party sites have their own privacy policies, and we encourage you to read their terms before using their websites.
+
+### How do We Collect and Use Information About You?
+
+Browsing and Searching: We collect certain information from you when you browse and navigate through our Site. For example, this information may include the web site that you just came from and identity of the web site you next go to, the type of browser you are using, and your Internet Protocol ("IP") address. An IP address is a number that is automatically assigned to your computer whenever you are surfing the web, allowing web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate and browse on the Internet. We may also collect the date, time and duration of your visit, the number of visits and searches you make, your server type, your operating system type, the country, state and telephone area code where your servers are located, the pages and page titles of our Sites that you viewed during your visit, whether your computer is enabled for Java or cookies or other applications and plug-ins, and any queries you make on our Sites. We use this information on an aggregated basis to determine our visitor's preferences and interests and to research our visitors' demographics and pages viewed. We will use this information to improve our marketing efforts, to analyze and track the use of our Site, to administer our Site, to improve our Site's offerings and to customize our Site's offerings, content, layout and services. We may also place Cookies on your computer when you visit our Site. How we use Cookies is described below.
+
+Social Networking: We maintain accounts with social networking sites such as Facebook and Twitter. If you choose to add us as a friend on Facebook, to follow our Twitter account or to follow us on any other social networking site, you may provide us with email address or other contact information. How we use such email or contact information is described below.
+
+Blogs: If you leave comments on our blog, blog.launchbit.com, you may provide us with information such as email address or other contact information. How we use such email or contact information is described below.
+
+Feedback or Contact with Our Office: If you provide feedback to us through email or otherwise contact us, including requesting further service, you may provide us with your name, telephone number, email address, and mailing address. How we use such email or contact information is described below. For customer service purposes, we retain all correspondence via email as well as notes of transcribed verbal conversations indefinitely.
+
+### Who Collects Information About You?
+
+In addition to our collection of the information listed above, others may also collect your information as you use our Site:
+
+Advertising Companies and Content Servers: Advertisements, pictures, product descriptions, search results and other content on our Sites may be served by third party ad servers or content servers. We may also use third party website analysis companies to analyze the usage of our Sites. Those third parties may collect and pass along to us the same information that is listed under Browsing and Searching above. They may also place their own Cookies or Web Beacons on your computer to help those ads and other content to run, analyze site usage and to provide you with personalized on-line advertisements. We receive reports from third party ad servers, content servers, or web site analysis agents that tell us how many ads were presented and clicked upon or what content was served or viewed. How they use Cookies and Web Beacons is described below.
+
+Email Services: We may use a third party company to serve promotional emails that we send to our users. Images contained in the emails may be served by third parties. They collect certain information about you such as your IP address, browser type, your operating system, the country and server your computer is logged onto, where the servers that your computer is logged onto is located, the time and date that a particular email was viewed, the area code and zip code associated with your server, and whether you responded to a particular ad or email. They may use their own Cookies as well.
+
+Blogging Services: We use a third party company to operate and host our blog. They may collect information such as those mentioned in the Browsing and Searching section above as well as any provided emails.
+
+### Who do We Share Your Information With?
+
+We do not share, sell, or disclose personally identifiable information that we collect except in the following situations:
+
+A. To confirm with a third party store about an individual transaction made through use of our Site.
+
+B. When we are legally obligated to disclose information about you to the government or third parties under litigation-related circumstances, including a response to a subpoena, court order, or other legal process. We reserve the right to disclose information we collect to law enforcement or other government officials where deemed necessary or appropriate.
+
+We may disclose aggregated data, explaining trends of populations or segments of populations to our third party partners.
+
+### Cookies and Web Beacons
+
+When you visit our Site, we along with our ad servers, content servers,and web site analysis agents will place small text files called "cookies" on your computer hard drive that we can retrieve when you visit our Site again to make your visit more relevant and to retrieve information from prior visits. The cookies store information about your browsing session identification, browsing history, user categorization, and other information. When we send you promotional emails through our email services providers, they may also place a cookie on your computer. You can block cookies by changing the settings on your browser, but doing so may prevent us from delivering certain services to you in an effective manner. Cookies generally do not permit us to personally identify you.
+
+A Web Beacon or action tag (also known as a clear gif or a pixel tag) is a method used to track responses or actions by users who view certain advertisements or other information on our Sites. Web Beacon are generally 1x1 pixel images embedded in a website page that are used to transparently collect information. Our ad servers, content servers, website analysis agents and email service providers may use Web Beacons in our Sites and advertisements to count the number of times that visitors click on a particular advertisement or visit the pages of our Sites and to provide information about what products are viewed or searched for or other similar actions taken. Without collecting any personally identifiable information, they use that data to tell us (and other advertisers across the internet) which ads are the most effective on particular sites or emails. They also use the information for the purpose of targeting future campaigns across the internet and upgrading visitor information used in reporting statistics. For this purpose, we and our ad servers, content servers, and web site analysis agents, and third-party e-mail distributors note some of the pages you visit on our Sites through the use of Web Beacons.
+
+### Email address and Other Contact Information
+
+We may use the email address or other information that you provide to send you promotional materials, including, but not limited to 1) sales, coupons and specials, 2) administrative material, such as information regarding your dressing room or our service to you, 3) information about new trends and products, and 4) community information including but not limited to contests and other activities on the LaunchBit website.
+
+### Choices Regarding Your Personal Information
+
+You may "opt-out," or unsubscribe from our emails or promotional materials by following any unsubscribe instructions in any e-mail, newsletter or personalized on-line advertisement you receive from us.
+
+### Links To Third Party Sites
+
+Our Site includes links to other web sites or resources ("External Web Sites"). We have no control over External Web Sites and they will independently collect and maintain information about you according to their own policies and practices. This Privacy Policy does not apply to those External Web Sites. If you have concerns about how other web sites collect and use information about you, make sure to read that site's own privacy policy and contact them.
+
+### Sale of the Company
+
+We reserve the right to disclose your information, including your personal information, in the event that we are sold, in whole or in part, either as an entire corporate entity or through an asset sale that includes a customer information database. This right is reserved whether or not the customer database is sold independently of any continuing operations of our company.
+
+### Children
+
+In compliance with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), the Sites are not intended for anyone under 18 years of age. We do not knowingly collect personal information from children under 13. As with all websites on the Internet, parents and guardians undertake to monitor the use by minors.
+
+### Notification of Changes
+
+This policy may be revised over time as new features are added to the Sites. We will post our new privacy policy, along with the date of its last revision, so that you will always know what information we gather, how we use that information, and whether we will disclose it to anyone. Please check this web page for information about revisions to our privacy policy. If you would like to receive e-mail notification of any such changes, please contact us at info[at]launchbit[dot]com.
+
+### Contact Us
+
+Any disputes over this privacy policy or terms of service will be governed by the law of the State of Massachusetts, USA. If you have any questions about this privacy statement, the practices of LaunchBit sites, or your dealings with LaunchBit, you may contact us at hello[at]launchbit[dot]com.
+
+Mailing address: 169 Monsignor O'Brien, Cambridge, MA 02141
+
+Phone number: 650-691-5672
+
+_Last Updated November 7, 2011_
