@@ -1,6 +1,31 @@
-> *The following text is extracted and transformed from the financialpolicycouncil.org privacy policy that was archived on 2010-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101021085520id_/http%3A//www.financialpolicycouncil.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialpolicycouncil.org privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125052404id_/http%3A//www.financialpolicycouncil.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Financial Policy Council Privacy Policy | Financial Policies, Wealth Creation
+
+  * [HOME](https://web.archive.org/web/20111125052404id_/http%3A//www.financialpolicycouncil.org/default.aspx "Home")
+  * [ABOUT US](https://web.archive.org/web/20111125052404id_/http%3A//www.financialpolicycouncil.org/FPC_AboutUs.aspx "ABOUT US")
+    * [Mission Statement](https://web.archive.org/web/20111125052404id_/http%3A//www.financialpolicycouncil.org/FPC_AboutUs.aspx?id=MS "Mission Statement")
+    * [Board of Directors](https://web.archive.org/web/20111125052404id_/http%3A//www.financialpolicycouncil.org/BoardOfDirectors.aspx "Board of Directors")
+    * [Get Involved](https://web.archive.org/web/20111125052404id_/http%3A//www.financialpolicycouncil.org/FPC_AboutUs.aspx?id=GI "Get Involved")
+    * [FPC in the News](https://web.archive.org/web/20111125052404id_/http%3A//www.financialpolicycouncil.org/FPC_AboutUs.aspx?id=NEWS "FPC in the News")
+  * [VIDEOS](https://web.archive.org/web/20111125052404id_/http%3A//www.financialpolicycouncil.org/MMedia.aspx "Videos")
+  * [PUBLICATIONS](https://web.archive.org/web/20111125052404id_/http%3A//www.financialpolicycouncil.org/publications.aspx)
+    * [FPC Journal](https://web.archive.org/web/20111125052404id_/http%3A//www.financialpolicycouncil.org/articleslist.aspx)
+    * [SPEECHES](https://web.archive.org/web/20111125052404id_/http%3A//www.financialpolicycouncil.org/FPC_Speeches.aspx)
+  * [EVENTS](https://web.archive.org/web/20111125052404id_/http%3A//www.financialpolicycouncil.org/Eventslist.aspx)
+  * [BLOG](https://web.archive.org/web/20111125052404id_/http%3A//www.financialpolicycouncil.org/Blog.aspx)
+  * [DONATE](https://web.archive.org/web/20111125052404id_/http%3A//www.financialpolicycouncil.org/Choose-Gateway.aspx)
+  * [CONTACT US](https://web.archive.org/web/20111125052404id_/http%3A//www.financialpolicycouncil.org/contactus.aspx)
+  * [LINKS](https://web.archive.org/web/20111125052404id_/http%3A//www.financialpolicycouncil.org/Links.aspx)
+  * [E-MAIL SIGN UP](https://web.archive.org/web/20111125052404id_/http%3A//www.financialpolicycouncil.org/Newslettersignup.aspx)
+
+[](http://www.facebook.com/group.php?gid=115570248498027)  [](http://www.linkedin.com/groups?mostPopular=&gid=3371799&goback=%2Eanb_3371799_*2)   
+|  |   
+---|---  
+|  |  |   
+---  
+  
+We understand that security is a prime concern for our customers, and our website strives to offer a high level of security: All Internet access must be completed using a browser that supports SSL encryption. All communications between you and our website are encrypted by a 128 bit secure link to protect the confidentiality of your data. State of the art monitoring systems and firewalls are used to prevent unauthorized access to our systems. Users are required to select their own Login ID and Password when they sign up, and can change it at any time. The website will automatically log off after a period of inactivity during any session to protect your information. Only carefully trained professionals and companies who service your account have access to your personal information. We diligently maintain security measures that comply with applicable federal standards.
 
 In the course of serving you as an individual client or as someone associated with a corporate or institutional client, Financial Policy Council Inc may obtain personal information about you. Obtaining this information is important to our ability to deliver the highest level of service to you, but we also recognize that you expect us to treat this information appropriately.
 
