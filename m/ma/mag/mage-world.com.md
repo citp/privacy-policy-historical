@@ -1,13 +1,10 @@
-> *The following text is extracted and transformed from the mage-world.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527145523id_/http%3A//www.mage-world.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mage-world.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125052645id_/http%3A//www.mage-world.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The World of Magento
+# Privacy Policy by MageWorld
 
 ### Privacy Statement
 
 We respect your privacy right. This policy summarizes what personally identifiable information we may collect, and how we might use the information. This policy also describes other important topics relating to your privacy. 
-
-  
-
 
 ### Information Collection
 
@@ -21,7 +18,6 @@ Before we collect any personally identifiable information, we will provide an ex
 
 This web site may contain links to other sites. We do not endorse or accept responsibility for the content or privacy policies of those sites. Additionally, some of our Web pages may contain "cookies," - data that may be sent to your Web browser and stored on your computer. This allows our server to "recognize" you when you visit our Web site in the future. Most Web browsers can be configured to not accept cookies, or to notify you if a cookie is sent to you.
 
-It may be necessary, if required by law or judicial or governmental investigations, to release your personal information.   
- 
+It may be necessary, if required by law or judicial or governmental investigations, to release your personal information.
 
-We reserve the right to modify this privacy policy at any time. We will promptly reflect any such modifications in the Web page. 
+We reserve the right to modify this privacy policy at any time. We will promptly reflect any such modifications in the Web page.
