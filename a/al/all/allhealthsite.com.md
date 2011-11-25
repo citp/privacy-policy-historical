@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allhealthsite.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119032904id_/http%3A//www.allhealthsite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allhealthsite.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125065338id_/http%3A//www.allhealthsite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllHealthSite.com - Health Articles and Health News
 
