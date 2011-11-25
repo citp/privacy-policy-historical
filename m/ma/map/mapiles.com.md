@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mapiles.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219224233id_/http%3A//mapiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapiles.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125055649id_/http%3A//www.mapiles.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mapiles.com
-
-* * *
+# Privacy Policy | Free Classified Ads: Mapiles.com Philippines
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site http://mapiles.com. The following discloses the information gathering and dissemination practices for this Web site.
 
