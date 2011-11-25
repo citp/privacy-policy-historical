@@ -1,25 +1,12 @@
-> *The following text is extracted and transformed from the diabetescare.net privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121202111id_/http%3A//diabetescare.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetescare.net privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125231052id_/http%3A//www.diabetescare.net/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - DiabetesCare.Net
-
-Privacy Policy
 
 This Privacy Policy covers the Web site DiabetesCare.net and is effective as of December 10, 2007.
 
 DiabetesCare.net is to be used for informational purposes and provides access to website tools, logs, and journals to assist in the self-management of the user`s health. It is not intended to serve as a substitute for advice from your health care provider. 
 
-Information Collected
-
 As part of standard Internet practice we collect the following information when you visit our site:
-
-  * The IP address of the computer from which you accessed DiabetesCare.net;
-  * Browser/operating system used to access our site;
-  * A timestamp of when you visited our site;
-  * Web addresses of websites from which you linked to our site;
-  * Pages you visit within DiabetesCare.net; and
-  * Links made to other websites through this site.
-
-
 
 This information collected may be used to improve the content of DiabetesCare.net, to notify visitors about updates to our website, and for statistical analysis using standard third-party software programs to create summary statistics. The statistics are used for the purpose of determining what information is of most and least interest to all visitors and identifying system performance or problem areas. 
 
@@ -57,8 +44,4 @@ From time to time, we may use customer information for new, unanticipated uses n
 
 Information Disclaimer
 
-While all attempts are made to provide accurate, current and reliable information we recognize the possibility of human and/or mechanical error. Therefore, DiabetesCare.net, its employees, officers and agencies expressly deny any warranty of the accuracy, reliability or timeliness of any information published by this system and shall not be held liable for any losses caused by reliance upon the accuracy, reliability or timeliness of such information. Any person who relies upon such information obtained from this system does so at his or her own risk. 
-
-**Any rights not expressly granted herein are reserved.**
-
-COPYRIGHT NOTICE© 1999-2010, PriorityDigital.com Prepared for: DiabetesCare.Net. All rights reserved. 
+While all attempts are made to provide accurate, current and reliable information we recognize the possibility of human and/or mechanical error. Therefore, DiabetesCare.net, its employees, officers and agencies expressly deny any warranty of the accuracy, reliability or timeliness of any information published by this system and shall not be held liable for any losses caused by reliance upon the accuracy, reliability or timeliness of such information. Any person who relies upon such information obtained from this system does so at his or her own risk.
