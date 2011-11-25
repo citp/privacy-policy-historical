@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craftown.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226134256id_/http%3A//craftown.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftown.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125101951id_/http%3A//www.craftown.com/privacy.htm) for the most accurate reproduction.*
 
 # Craftown privacy policy.
 
