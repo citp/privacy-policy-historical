@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the deliciousmagazine.co.uk privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524060212id_/http%3A//www.deliciousmagazine.co.uk/blogs/privacy_223) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliciousmagazine.co.uk privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125065414id_/http%3A//www.deliciousmagazine.co.uk/blogs/privacy_223) for the most accurate reproduction.*
 
 # Privacy Policy | delicious. Magazine food articles & advice
 
-The publishers of delicious. magazine ( **[ **Eye to Eye Media Ltd**](http://www.eyetoeyemedia.co.uk/)** ) value your privacy. The personal information you provide through the delicious. website will be held by us in accordance with the Data Protection Act 1998 (the Act). For the purposes of the Act, the data controller is Eye to Eye Media Ltd of Sea Containers House, 20 Upper Ground, London, SE1 9PD.
+The publishers of delicious. magazine ( **[ **Eye to Eye Media Ltd**](http://www.eyetoeyemedia.co.uk/)** ) value your privacy. The personal information you provide through the delicious. website will be held by us in accordance with the Data Protection Act 1998 (the Act). For the purposes of the Act, the data controller is Eye to Eye Media Ltd of Axe & Bottle Court, 3rd floor, 70 Newcomen Street, London, SE1 1YT.
 
 Please read this Privacy Policy carefully. By visiting this website, you are accepting the terms of this Privacy Policy.
 
@@ -91,10 +91,10 @@ delicious. magazine reserves the right, at its sole discretion, to change, modif
 
 delicious. magazine is part of:  
 **[**Eye to Eye Media Ltd**](http://www.eyetoeyemedia.co.uk/)**  
-Erico House  
-93 - 99 Upper Richmond Road  
+Axe & Bottle Court, 3rd floor  
+70 Newcomen Street  
 London  
-SW15 2TG
+SE1 1YT
 
 Company number 06870389
 
