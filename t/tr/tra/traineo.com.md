@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the traineo.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511073649id_/http%3A//www.traineo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traineo.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125095928id_/http%3A//www.traineo.com/privacy) for the most accurate reproduction.*
 
 # Weight Loss Community at traineo | Weight Loss Forum, Weight Loss Help
 
