@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostknox.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517083900id_/http%3A//www.hostknox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostknox.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125040034id_/http%3A//www.hostknox.com/privacy) for the most accurate reproduction.*
 
 # HostKnox.com Privacy Policy
 
