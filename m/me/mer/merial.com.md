@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the merial.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217180540id_/http%3A//www.merial.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merial.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125071702id_/http%3A//www.merial.com/pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Merial.com
+# Privacy Policy
 
 This Privacy Policy is designed to inform you about Merial's practices regarding the collection, use and disclosure of personal information (includes information that could be used to identify you, such as your name, address, e-mail address, telephone number, etc.) that you may provide through your access to or usage of the Site. 
 
@@ -14,7 +14,7 @@ Personal information may be collected in a number of instances. For example, thi
 
 Merial may also collect information about you and your use of the Site through the use of "cookies." Cookies are small data files that are sent to your browser and stored on your computer's hard-drive when you visit certain websites, thereby "tracking" use of the site. Some browsers can be set to reject all cookies; if you choose to modify your browser in this manner, some pages of the Site may not function properly. Merial uses the information generated through the use of cookies to estimate the number of people that are using the Site and to track the pages of the Site that are being visited. This information tells Merial about user interests and behaviors which can, in turn, be used to provide you with information about products, services, features or promotions that may be of interest to you.
 
-## Use of Information
+## Use of information
 
 Merial uses your personal information to improve the content of the Site, to customize the Site to your preferences, to create a profile relating to you in order to show you content that may be of interest to you, to provide the services and features requested by you and, if you ask us to, to send you information about products, services, features or promotions that may be of interest to you. 
 
@@ -32,7 +32,7 @@ Merial may disclose aggregated information that does not allow you to be persona
 
 Recognizing that your privacy is important to you, Merial employs technical security measures to protect your personal information. However, no transmission over the Internet can be guaranteed to be completely secure. Consequently, to the extent permitted by law, Merial, its affiliates and related companies, third party service providers and their respective officers, directors, employees and agents do not represent, warrant or guarantee that personal information will be protected against misuse, loss or alterations and do not accept any liability arising from the submission of any personal information or from any third parties' use or misuse of personal information.
 
-The information you provide to Merial via the Internet is password-protected for your privacy and security. Merial uses Secure Socket Layer (SSL) encryption technology in transmitting such information to our servers to help ensure the integrity and privacy of the information. Encryption involves systematically scrambling numbers and letters, so that even if someone managed to intercept the information, they would not be able to make sense of it. In order to take advantage of this encryption technology, you need to have an Internet browser that will support encryption, such as Netscape or Microsoft Explorer. As an additional security measure, the information you provide via the Internet is also kept physically separate on a separate server where your password is encrypted and stored on a database. 
+The information you provide to Merial via the Internet is password-protected for your privacy and security. Merial uses Secure Socket Layer (SSL) encryption technology in transmitting such information to our servers to help ensure the integrity and privacy of the information. Encryption involves systematically scrambling numbers and letters, so that even if someone managed to intercept the information, they would not be able to make sense of it. In order to take advantage of this encryption technology, you need to have an Internet browser that will support encryption, such as Firefox or Internet Explorer. As an additional security measure, the information you provide via the Internet is also kept physically separate on a separate server where your password is encrypted and stored on a database. 
 
 ## Links to other Websites
 
@@ -40,7 +40,7 @@ You should be aware that operators of linked websites may also collect your pers
 
 ## Changes
 
-Merial reserves the right to change this Privacy Policy at any time by notifying you by posting the changes on this Site, and you are advised to review this page regularly for any changes. This Privacy Policy was last updated on March 10, 2005.
+Merial reserves the right to change this Privacy Policy at any time by notifying you by posting the changes on this Site, and you are advised to review this page regularly for any changes. This Privacy Policy was last amended on April 2, 2011.
 
 ## Other Terms
 
