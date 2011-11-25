@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indybay.org privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623041716id_/http%3A//www.indybay.org/news/2003/12/1665906.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indybay.org privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125102030id_/http%3A//www.indybay.org/news/2003/12/1665906.php) for the most accurate reproduction.*
 
 # Privacy Policy : Indybay
 
