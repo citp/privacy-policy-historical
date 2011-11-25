@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mywindowsclub.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420034626id_/http%3A//www.mywindowsclub.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mywindowsclub.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125131744id_/http%3A//mywindowsclub.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # MyWindowsClub.com privacy policy
 
