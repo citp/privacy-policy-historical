@@ -1,100 +1,72 @@
-> *The following text is extracted and transformed from the freeagent.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeagent.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125064424id_/http%3A//www.freeagent.com/website/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy - FreeAgent
 
-**Go Daddy Respects Your Privacy**
+Maintaining your privacy is one of our core principles. You entrust us with sensitive financial information. We take that responsibility seriously.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+**Version 3.0:** This policy was last updated on 5th February 2008. It may be updated in the future and we'll post the new version here on our website. We will never deviate from our overall philosophy, though.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+## You Own and Control Your Data
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+You retain ownership of all data you enter or upload into FreeAgent, and have ultimate control over who has access to it. You control that access via user accounts that only you can create, which allows you to give your accountant access, for example. It is your responsibility to safeguard the password information and only give it to people you trust. 
 
-**Information Collection and Use**
+## What Data We at FreeAgent Central Can See
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We have no access to user passwords or accounts, so we can't login to your FreeAgent site without your permission (you might choose to add a temporary user account to help us to resolve a question you have, for example). 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We monitor patterns of usage, such as login dates and volumes of data, so we can understand how people are using the system and to ensure our servers are up to the job.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+For this purpose, we may also log your IP address (this is your computer's individual identification number that is assigned to your computer when connected to the Internet). 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+## What Personal Information We Collect, and Why
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+When you sign up for an account, you provide your name, contact details (including email address) and some information about your company. We need this to: 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+  * allow you to produce legally acceptable invoices and accurate accounts using the service,
+  * maintain our own accounts, and for billing,
+  * enable us to answer your queries,
+  * verify your identity for security purposes,
+  * send you our newsletter, if you have asked us to. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-**Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+## About Cookies
 
-**Updating Your Information**
+Cookies are small strings of data stored in your device's temporary memory when you navigate around our website. For your login to allow you access to FreeAgent, we need to store a temporary 'cookie' in your internet browser. This automatically expires after 20 minutes of inactivity, or you can delete it by logging out. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+You can also choose to store a permanent cookie that allows you to access your account without logging in each time ('Remember Me on This Computer'). When you explicitly log out, this cookie is removed. 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+These cookies contain no personal information about you, but clearly you shouldn't use 'Remember Me' if you are on a publicly-accessible computing device or terminal. 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+For more information about cookies (including how to set browsers to reject cookies) please visit the website set up by the Interactive Advertising Bureau (Europe) at [www.allaboutcookies.org](http://www.allaboutcookies.org/) . 
 
-      iii.      You may call us at: (480) 505-8800
+## Bank Account and Transaction Information
 
-       iv.      You may fax us at: (480) 505-8844
+In order to get the most from FreeAgent, you need to enter information about your bank account(s) such as the sort-code and account number. You also upload electronic statements, previously downloaded from your online bank, or manually enter transaction data. This data is used to calculate your business accounts and tax liabilities. Although it is unlikely this data of itself could be used for fraudulent purposes, we are very aware that this information is sensitive and we are very careful about how we store it. 
 
-**Sending Emails**
+## Credit Card Information
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Once your 30-day free trial is over, you need to provide payment details to start your subscription and continue using the service. This information is passed directly to our payment service provider (PayPal Europe - www.paypal.co.uk/uk) over an encrypted link and is never stored on our system. Ongoing billing is handled using an encrypted key to refer to your account. 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+## Exporting your Data
 
-**Compliance with Laws and Law Enforcement**
+You can export a complete copy of your data, as a Microsoft Excel file, whenever you like. 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+## If You Decide to Cancel Your Account
 
-**Third Party Service Providers**
+If you cancel, we maintain your data on our system for a further seven days, to give you time to export your data (or maybe change your mind!) After this time your data is irrevocably removed from our database. We retain historical billing information for accounting purposes, because we are required to do so by law, but once you have terminated your account, we no longer have the ability to bill your payment card. 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+## Sharing your data with others
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+We may share the information we hold about you with any person, business or other organisation (and their advisers) who might take over our rights or responsibilities under our agreement with you to allow them to prepare for taking these over (after that, we may also allow that person or business to use and share your information on the same basis as us). 
 
-**Supplementation of Information**
+We also reserve the right to cooperate with law enforcement officials in the investigation of alleged unlawful activities of our website users or relating to our website users. We will have no legal liability for such disclosures of your information. 
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+## Your rights
 
-**Contests/Surveys**
+  * You have the right to request a copy of personal information we hold about you. To do this, simply write to us or send us an email - you'll find our contact details here. We may charge you £10 for providing this information to cover our administration costs.
+  * You may unsubscribe from our email newsletter at any time by emailing or writing to us.
+  * To provide the highest level of customer service we need accurate customer information. You can help by informing us whenever your circumstances change. You can ask us to correct incorrect personal information about you by writing to or emailing us.
+  * You can find detailed information about your rights under UK Data Protection legislation on the UK Information Commissioner's website at www.ico.gov.uk. 
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
