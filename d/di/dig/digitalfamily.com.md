@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalfamily.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225015253id_/http%3A//www.digitalfamily.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalfamily.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125163520id_/http%3A//www.digitalfamily.com/privacy-policy.html) for the most accurate reproduction.*
 
 # DigitalFamily.com Privacy Policy
 
@@ -77,5 +77,3 @@ Managing Partner
 Artesian Media, Inc.  
 12335 Santa Monica Blvd., Suite 101   
 Los Angeles, California 90025 
-
-[](https://web.archive.org/web/20101225015253id_/http%3A//www.digitalfamily.com/videos/index.html)
