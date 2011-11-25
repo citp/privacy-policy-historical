@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the redkawa.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126205755id_/http%3A//redkawa.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redkawa.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125134104id_/http%3A//www.redkawa.com/about/privacy.html) for the most accurate reproduction.*
 
 # Red Kawa Privacy Policy
 
-Latest Updated: September 20 2006  
+Latest Updated: July 22 2011  
 Red Kawa is committed to maintaining your confidence and trust, and accordingly maintains the following privacy policy to protect personal information you provide online.
 
 **What this Privacy Policy Covers**
@@ -33,7 +33,7 @@ Red Kawa allows other companies that are presenting advertisements on some of ou
 
 **Third Party Advertising**
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
 **Your Ability to Edit and Delete Your Account Information and Preferences**
 
