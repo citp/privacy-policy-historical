@@ -1,546 +1,399 @@
-<!--The following is the downloaded HTML source of the jillkonrath.com privacy policy that was archived on 2008-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081216012049id_/http%3A//www.sellingtobigcompanies.com/content_display.jsp%3Ftop%3D21141) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jillkonrath.com privacy policy that was archived on 2011-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111125134357id_/http%3A//www.jillkonrath.com/privacy-policy) for the most accurate reproduction.-->
 
-<html><head>
-		
-		<title>Privacy Policy</title>
-		<meta name="description" content="">
-		<meta name="keywords" content="">
-		<!-- main calendar program -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="Head"><meta id="Ie8Emulate" http-equiv="X-UA-Compatible" content="IE=8">
 
-	<script language="JavaScript">
-		function popWin(pageName,windowWidth,windowHeight)
-		{
-			window.open(pageName, 'window', 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,copyhistory=no,width='+windowWidth+',height='+windowHeight+',top=150,left=150');return false;
-		}
+  
+  <script type="text/javascript">
+    //<![CDATA[
+      window.hubspot={splitTimes:{preHead:new Date()}};
+    //]]>
+  </script>
+    <meta id="MetaDescription" name="description"><meta id="MetaKeywords" name="keywords"><meta id="MetaCopyright" name="copyright" content="Copyright (c) 2011 by "><meta id="MetaGenerator" name="generator" content="HubSpot "><meta id="MetaAuthor" name="author"><style id="StylePlaceholder" type="text/css"></style>
+<script type="text/javascript" src="/sw/website/web-all.js?v=8"></script>
+<link rel="Stylesheet" href="/sw/website/web-all.css?v=8">
 
-		var newWindow;
-		function makeNewWindow(siteObjectID, publish){
-			if(!newWindow || newWindow.closed){
-				newWindow = window.open("publish_unpublish_survey.jsp?siteObjectID=" + siteObjectID + "&publish=" + publish,"","scrollbars,resizable");
-			}else{
-				newWindow.focus();
-			}
-		}
-		function makeSurveyWindow(siteObjectID, respInd){
-			if(!newWindow || newWindow.closed){
-				newWindow = window.open("view_survey.jsp?top=21141&siteObjectID=" + siteObjectID + "&start=0&pagenumber=1&admin=false&respInd=" + respInd,"","toolbar,location,dependent,scrollbars,resizable,width=500,height=600");
-			}else{
-				newWindow.focus();
-			}
-		}
-		function makeSurveyResponseWindow(siteObjectID){
-			if(!newWindow || newWindow.closed){
-				newWindow = window.open("view_survey_responses.jsp?siteObjectID=" + siteObjectID + "&start=0&pagenumber=1","","toolbar,dependent,scrollbars,resizable");
-			}else{
-				newWindow.focus();
-			}
-		}
-		function makeLinkWindow(newURL){
-			if(!newWindow || newWindow.closed){
-				newWindow = window.open(newURL,"","toolbar,location,statusbar,menubar,dependent,scrollbars,resizable,height=600,width=800");
-			}else{
-				newWindow.focus();
-			}
-		}
-		function makeVideoWindow(filename, siteObjectID){
-			if(!newWindow || newWindow.closed){
-				newWindow = window.open("display_video.jsp?siteObjectID="+siteObjectID+"&toURL="+filename,"","scrollbars,dependent,height=350,width=600");
-			}else{
-				newWindow.focus();
-			}
-		}
-		function openPublishWindow(siteObjectID,publish){
-			if(!newWindow || newWindow.closed){
-				newWindow = window.open("/admin_common/publish_unpublish_site_object.jsp?siteObjectID=" + siteObjectID + "&action=" + publish,"","scrollbars,resizable,height=400,width=600");
-			}else{
-				newWindow.focus();
-			}
-		}
-		function openPublishWindowForContent(siteObjectID){
-			if(!newWindow || newWindow.closed){
-				newWindow = window.open("/admin_common/publish_content.jsp?siteObjectID=" + siteObjectID + "&action=publish","","scrollbars,resizable,height=400,width=600");
-			}else{
-				newWindow.focus();
-			}
-		}
-		function openUnPublishWindowForContent(siteObjectID){
-			if(!newWindow || newWindow.closed){
-				newWindow = window.open("/admin_common/unpublish_content.jsp?siteObjectID=" + siteObjectID + "&action=publish","","scrollbars,resizable,height=400,width=600");
-			}else{
-				newWindow.focus();
-			}
-		}
-		function openEditPublishDatesWindow(siteObjectID){
-			if(!newWindow || newWindow.closed){
-				newWindow = window.open("/admin_common/edit_publish_dates.jsp?action=publish&siteObjectID=" + siteObjectID,"","scrollbars,resizable,height=400,width=600");
-			}else{
-				newWindow.focus();
-			}
-		}
-		
-		function openWindow(pageURL){
-			if(!newWindow || newWindow.closed){
-				newWindow = window.open(pageURL,"","scrollbars,resizable,height=400,width=600");
-			}else{
-				newWindow.focus();
-			}
-		}
-		
-		//	MM/DD/YY
-		function checkDate(TestDate)
-		{
-			var rightDate = true;
-			if(TestDate.indexOf("/") == -1)
-			{
-				rightDate = false;
-			}	
-			else
-			{
-				var theTokens = TestDate.split("/");
-				if ( theTokens.length != 3 )
-				{
-					rightDate = false;
-				}
-				else
-				{
-					var tokenIndex;
-					for ( tokenIndex = 0; tokenIndex < theTokens.length; tokenIndex++ ) 
-					{
-						theTokens[tokenIndex] = new String(theTokens[tokenIndex])			
-						if ( theTokens[tokenIndex].charAt(0) == '0' )
-							theTokens[tokenIndex] = theTokens[tokenIndex].substring(1, theTokens[tokenIndex].length);
-					}
-					// MM/dd/yy
-					if(theTokens[2] < 0)
-					{
-						rightDate = false;
-					}
-					if(theTokens[0]>12 || theTokens[0]<0)
-					{
-						rightDate = false;
-					}
-					if(theTokens[1]>31 || theTokens[1]<0)
-					{
-						rightDate = false;
-					}
-				}
-			
-			}
-			if(!rightDate)
-			{
-				return false;
-			}
-			return true;
-		}
-		
-		function checkTime(TestTime)
-		{
-			var rightTime = true;
-			var sTime = new String(TestTime);
-			if(sTime.indexOf(" ") == -1)
-			{
-				rightTime = false;
-			}
-			if(sTime.indexOf(":") == -1)
-			{
-				rightTime = false;
-			}
-			if((sTime.toLowerCase().indexOf("pm") == -1) && (sTime.toLowerCase().indexOf("am") == -1))
-			{
-				rightTime = false;
-			}
-			if(!rightTime)
-			{
-				return false;
-			}
-			return true;
-		}
-		
-	// Added by Tom to track mouse position and show the "pleasewait.gif" when clicked on a slow responding link
-		function initTinyMCE(obj) {
-tinyMCE.init({
-        mode : "exact",
-        elements : "ContentText",
-        theme : "advanced",
-        plugins : "table,save,advhr,advimage,advlink,emotions,iespell,insertdatetime,preview,zoom,flash,searchreplace,print,contextmenu",
-        theme_advanced_buttons1_add_before : "save,separator",
-        theme_advanced_buttons1_add : "fontselect,fontsizeselect",
-        theme_advanced_buttons2_add : "separator,insertdate,inserttime,preview,zoom,separator,forecolor,backcolor",
-        theme_advanced_buttons2_add_before: "cut,copy,paste,separator,search,replace,separator",
-        theme_advanced_buttons3_add_before : "tablecontrols,separator",
-        theme_advanced_buttons3_add : "emotions,iespell,flash,advhr,separator,print",
-        theme_advanced_toolbar_location : "top",
-        theme_advanced_toolbar_align : "left",
-        theme_advanced_path_location : "bottom",
-        plugin_insertdate_dateFormat : "%Y-%m-%d",
-        plugin_insertdate_timeFormat : "%H:%M:%S",
-        extended_valid_elements : "a[name|href|target|title|onclick],img[class|src|border=0|alt|title|hspace|vspace|width|height|align|onmouseover|onmouseout|name],hr[class|width|size|noshade],font[face|size|color|style],span[class|align|style]",
-        external_link_list_url : "example_data/example_link_list.js",
-        external_image_list_url : "example_data/example_image_list.js",
-        flash_external_list_url : "example_data/example_flash_list.js"
-});
+<link id="_Portals__default_Skins_Foxboro_" rel="stylesheet" type="text/css" media="screen" href="/Portals/_default/Skins/Foxboro/skin.css"><link id="PORTAL_CSS_110248" rel="stylesheet" type="text/css" media="screen" href="/Portals/110248/custom.css"><link rel="apple-touch-icon-precomposed" media="screen" href="/Portals/110248/images/iOS-57px.png"><link rel="apple-touch-icon-precomposed" sizes="72X72" media="screen" href="/Portals/110248/images/iOS-72px.png">
 
-		}
+<style>
+<!--
 
-			function replace(s, t, u) {
-  /*
-  **  Replace a token in a string
-  **    s  string to be processed
-  **    t  token to be found and removed
-  **    u  token to be inserted
-  **  returns new String
-  */
-  				i = s.indexOf(t);
-  				r = "";
-  				if (i == -1) return s;
-  				r += s.substring(0,i) + u;
-  				if ( i + t.length < s.length)
-    					r += replace(s.substring(i + t.length, s.length), t, u);
-  				return r;
-  			}
+--> 
+</style>
 
-			function pausecomp(millis) 
-			{
-			date = new Date();
-			var curDate = null;
+<style>
+<!--
+#footerContainer 
+{
+  margin-top: px;
+  margin-left: px; 
+}
 
-			do { var curDate = new Date(); } 
-			while(curDate-date < millis);
-			} 
+#footerContainer 
+{
+    color: -Default-; ; 
+}
 
 
-			var IE = document.all?true:false
+--> 
+</style>
 
-			// If NS -- that is, !IE -- then set up for mouse capture
-			if (!IE) document.captureEvents(Event.MOUSEMOVE)
-			document.onmousemove = getMouseXY;
-			var tempX = 0
-			var tempY = 0
-						
-			function getMouseXY(e) {
-			if (IE) { // grab the x-y pos.s if browser is IE
-				tempX = event.clientX + document.body.scrollLeft
-				tempY = event.clientY + document.body.scrollTop
-			} else {  // grab the x-y pos.s if browser is NS
-				tempX = e.pageX
-				tempY = e.pageY
-			}  
-			// catch possible negative values in NS4
-			if (tempX < 0){tempX = 0}
-			if (tempY < 0){tempY = 0}  
-			// show the position values in the form named Show
-			// in the text fields named MouseX and MouseY
-			//document.Show.MouseX.value = tempX
-			//document.Show.MouseY.value = tempY
-			return true
-			}
+<link href="http://www.jillkonrath.com/privacy-policy/" rel="canonical"><title>
+	Privacy Policy
+</title><link rel="stylesheet" href="//static.hubspot.com/final/css/common/jquery/jquery.fancybox-1.3.1-adjusted.css" type="text/css">
+<script type="text/javascript" src="//static.hubspot.com/js/hui/core.js"></script>
+<link rel="alternate" type="application/rss+xml" title="Sales Articles" href="http://feeds.feedburner.com/JillKonrath-SalesArticles&amp;tag=Creating+Opportunities">
 
+  
+  <script type="text/javascript">
+    //<![CDATA[
+      hubspot.splitTimes.postHead=new Date();
+    //]]>
+  </script>
+    
+<link rel="SHORTCUT ICON" href="/Portals/110248/favicon.ico"><link rel="SHORTCUT ICON" href="/Portals/110248/favicon.ico"><link type="text/css" rel="stylesheet" href="/WebResource.axd?d=WKgwAbGjNvd_L5Sjca_ZGiQeGOse4LVTNTClGquFOagme1b9DaGg3i77--ZtCsgB_qoPi68P5im5CBHNF5q2boCtIh_cMqRr35MQ9cSEh8_bQJX81WHjkjYa0i7Fbjp5NfbbWxxv_RXX9So_mvtX224cBRoN02t2MCEIXyeG4n9Ts9XxRCrphB98h4g1&amp;amp;t=634302877806526998"><link type="text/css" rel="stylesheet" href="/RadControls/Menu/Skins/Blank/styles.css"></head>
+<body id="Body" bottommargin="0" leftmargin="0" topmargin="0" rightmargin="0" marginwidth="0" marginheight="0">
+    
+    <noscript></noscript>    
 
-			var lastshown ="";
-			var req = "";
-			var response = "";
-			var result = "";
-			var method = "";
-			var DivRef = "";
+    <form name="Form" method="post" action="http://www.jillkonrath.com/privacy-policy/Default.aspx?RewriteStatus=1" id="Form" enctype="multipart/form-data" style="height: 100%;">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzY3MzIxNzk0ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUVZG5uOklOR0VOSU1FTlUxOl9jdGwwUsiSFO1oJkDYW4HqsG2/v9K8fQ0=">
+    
+        
+        
 
 
 
-			function loadXMLDoc(url) {
-				req = false;
-			    // branch for native XMLHttpRequest object
-			//	alert('top of loadXMLdoc:'+url);
-				
-			    	if(window.XMLHttpRequest) {
-			    	try {
-					req = new XMLHttpRequest();
-        			} catch(e) {
-					req = false;
-        			}
-    // branch for IE/Windows ActiveX version
-    				} else if(window.ActiveXObject) {
-       					try {
-        					req = new ActiveXObject("Msxml2.XMLHTTP");
-      					} catch(e) {
-        					try {
-          						req = new ActiveXObject("Microsoft.XMLHTTP");
-        					} catch(e) {
-          						req = false;
-        					}
-					}
-    				}
-				if(req) {
-					req.onreadystatechange = processReqChange;
-					req.open("GET", url, true);
-					req.send("");
-				}else {
-					alert('req was false');
-				}
-				
-			}
+<!-- Foxboro v1.9 - Dynamic CSS -->
+<style type="text/css">
+<!--
+html,body#Body {background:#FFFFFF;font-family:Arial, Veranda, sans-serif;font-size:1.0em;line-height:145%;} 
+#foxboro_container {width:960px;}
+#foxboro_header {background:transparent;}
+#foxboro_courtesy_links {background:transparent;color:#666666;}
+#foxboro_courtesy_links a {color:#0078C2; font-size: 0.9em; text-decoration: none;}
+#foxboro_menu {background-color:#FFFFFF;}
+#foxboro_menu .link {background-color:transparent;color:#575652;}
+#foxboro_menu .rootGroup .selectedtab {background-color:#F2B31D;color:#FFFFFF !important;}
+#foxboro_menu .rootGroup .selectedtab .text {color:#FFFFFF;}
+#foxboro_menu .rootGroup .item .text {padding-right:16px; padding-left:16px;}
+#foxboro_menu .group .item .text {padding-right:10px; padding-left:10px;}
+#foxboro_menu .link .text {color:#575652;}
+#foxboro_menu .link:hover, 
+#foxboro_menu .focused,
+#foxboro_menu .expanded {background-color:#F2B31D;color:#FFFFFF !important} 
+#foxboro_menu .link:hover .text, 
+#foxboro_menu .focused .text,
+#foxboro_menu .expanded .text {color:#FFFFFF}
+#foxboro_menu .group {background-color:#FFFFFF; color:#575652;}
+#foxboro_side-menu {background-color:transparent;}
+#foxboro_side-menu ul li {background-color:transparent;}
+#foxboro_side-menu ul li a {color:#575652;}
+#foxboro_side-menu ul li a:hover {background-color:#F2B31D;color:#;}
+#foxboro_side-menu ul li a span {border-bottom:1px solid #FFFFFF;}
+#foxboro_side-menu ul li.selectedtab {background-color:#F2B31D;}
+#foxboro_side-menu ul li.selectedtab a {color:#FFFFFF;}
+#foxboro_side-menu ul li.first a span {border-top:1px solid #FFFFFF;}
+#foxboro_side-menu ul li.childitem1 {background-color:#F2B31D;}
+#foxboro_side-menu ul li.childitem1.last {border-bottom:1px solid #FFFFFF;}
+#foxboro_top {background-color:#FFFFFF;color:#333333;}
+#foxboro_top a {color:#0078C2;}
+#foxboro_bottom {background-color:#FFFFFF;color:#333333;}
+#foxboro_bottom a {color:#0078C2;}
+#foxboro_col1 {color:#555555;}
+#foxboro_col1 a {color:#0078C2;}
+#foxboro_col1 div.block div.pad {background-color:#ffffff;}
+#foxboro_col3 {color:#555555;}
+#foxboro_col3 a {color:#0078C2;}
+#foxboro_col3 div.block div.pad {background-color:#e1e7cc;}
+#foxboro_col2 h1 {color:#F49521;font-family:Arial, Veranda, sans-serif;}
+#foxboro_col2 h2 {color:#8b974b;font-family:Arial, Veranda, sans-serif;}
+#foxboro_col2 h3 {color:#000000;font-family:Arial, Veranda, sans-serif;}
+#foxboro_col2 h4 {color:#000000;font-family:Arial, Veranda, sans-serif;}
+#foxboro_col2 {color:#333333;}
+#foxboro_col2 a {color:#0078C2;}
+#foxboro_content div.block h3 {font-family:Arial, Veranda, sans-serif;}
+#foxboro_content {background:#FFFFFF;}
+#foxboro_content div.block h3 {color:#f49521;}
+a.foxboro_button {background:#F49521;}
+a.foxboro_button:hover {background-color:#8b974b;}
+a.foxboro_button:active {background-color:#8b974b;}
+#bb-container div.post h3.title {font-size:1.4em;}
+#listing .post.blogjapanese h3 {font-size:1.4em;} 
+#bb-container div.post h3.title {color:#000000;}
+#bb-container div.post h3.title a {color:#000000;}
+#bb-container div.post h3 {color:##000000;}
+#bb-container div.post div.submissions a {color:##8b974b;}
+#bb-container div.post div.comments a {color:##8b974b;}
+/* put in fix for JIRA #CMS-851 */
+#bb-container div.comments div.comment-body {border-bottom:1px solid #333333;}
+#bb-container div.comment-form {border:1px solid #333333; background:#FFFFFF;}
+#foxboro_footer {width:960px;background:#FFFFFF;color:#666666; text-align:center; margin: 0px auto; vertical-align: middle; display:block; position:relative; }
+#foxboro_footer div.clear {margin: auto;}
+#foxboro_footer p.copyright span.SkinObject {color:#666666;}
+#foxboro_footer span a, 
+#foxboro_footer a, 
+#foxboro_footer ul li a, 
+#foxboro_footer p span, 
+#foxboro_footer span.SkinObject {color:#666666; font-size: 0.9em; text-decoration: none;}
+span#footerContainer {font-size: 1.0em; color:#666666;}
 
-			function processReqChange() {
-			    // only if req shows "loaded"
-			    	if (req.readyState == 4) {
-			        	// only if "OK"
-        				if (req.status == 200) {
-            					// ...processing statements go here...
-						if(req.responseXML != null) {
-							//alert("req.responseXML:"+req.responseXML+" "+req.responseText);
-							//response = req.responseXML.documentElement;
+#foxboro_body .radmenu.NavHidden a.link, 
+#foxboro_body .radmenu.NavHidden li a span {cursor:default !important;}
 
-      							//method = response.getElementsByTagName('method')[0].firstChild.data;
+#foxboro_menu .radmenu.NavHidden .rootGroup .selectedtab, 
+#foxboro_menu .radmenu.NavHidden .link:hover, 
+#foxboro_menu .radmenu.NavHidden .focused,
+#foxboro_menu .radmenu.NavHidden .expanded {background-color:#FFFFFF !important}
 
-      							//result = response.getElementsByTagName('result')[0].firstChild.data;
-							//alert("result:"+result);
-							//DivRef.innerHTML=result;
-							DivRef.innerHTML=req.responseText;
-							initTinyMCE("");
-				//			alert("req.responseText:"+req.responseText);
-						}
-						else {
-							alert('req.responseXML was null:'+req.responseXML);
-						}
-        				} else {
-						
-            					alert("There was a problem retrieving the XML data:\n" + req.statusText);
-        				}
-    				}
-			}
+-->
+</style>
+<link rel="stylesheet" media="print" href="/portals/_default/skins/foxboro/print.css" type="text/css">
+<!-- End CSS -->
 
-			function show(id) {
-				return show(id,"","","","");
-			}
-			function show(idin,a,b,c,d){
-//				alert("Top of show:"+id+" "+a+" "+b+" "+c+" "+d);	
-				if(lastshown!="") document.getElementById(lastshown).style.visibility = "hidden";
-				var id = "default";
+<div id="foxboro_body">
+<div id="foxboro_container">
+<div id="foxboro_courtesy_links"><div style="font-size:12px; float:right; padding:8px 2px 0; line-height: 14px; margin: 0 0 -23px; position: relative;">
+<a href="/">Home</a> | <a href="/contact-Jill-Konrath">Contact Us</a> | <a href="/sales-blog">Blog</a>
+</div>
+</div>
+<div id="foxboro_header">
+<span class="logo">
+<a id="TitleHeaderAnchor" href="/"><img id="SiteTitleArea" src="/Portals/110248/images/logo_dark_orange4.png" border="0" alt="Jill Konrath"></a>
+</span>
+</div><!-- /#foxboro_header -->
 
-				var width = document.body.offsetWidth;
-				var height = document.body.offsetHeight;
-				var stop = document.body.scrollTop;
-				var swid = document.body.scrollLeft;
-//				var def = document.getElementByID("default");
-
-//				alert("tempX:"+tempX);
-//				alert("tempY:"+tempY);
-				var wide = 600;
-				var tall = 600
-
-				var w = tempX - wide;
-				var h = tempY - tall;
-				if(w<0) w=0;
-				if(h<0) h=0;
-				
-				document.getElementById(id).style.left = w+"px";
-				document.getElementById(id).style.top = h+"px";
-                                document.getElementById(id).style.width = wide+"px";
-                                document.getElementById(id).style.height = tall+"px";
-
-				DivRef = document.getElementById(id); 
-				var IfrRef = document.getElementById('WaitShim'); 
-
-				DivRef.style.display = "block"; 
-				IfrRef.style.width = DivRef.offsetWidth; 
-				IfrRef.style.height = DivRef.offsetHeight; 
-				IfrRef.style.top = DivRef.style.top; 
-				IfrRef.style.left = DivRef.style.left; 
-				IfrRef.style.zIndex = DivRef.style.zIndex - 1; 
-				IfrRef.style.display = "block"; 
-
-				var url= 'http://dev.einsof.com:8104/admin_mirror/';
-//				alert('After url set:'+url);
-				if(document.all){
-					req = new ActiveXObject("Microsoft.XMLHTTP");
-//					alert("IE");
-				}
-				else if(document.getElementById){
-					req = new XMLHttpRequest();
-//					alert("NOT IE");
-				}
-//				alert('id:'+id+' url:'+url);
-				if(idin == 'editcontent' ){
-					url = url + 'mini_edit_content.jsp?siteObjectID='+a;
-//					alert("Content: before call to LoadXMLDoc:"+url);
-				}
-                                else if(idin == 'editsection' ){
-                                        url = url + 'mini_edit_site_section.jsp?siteObjectID='+a;
-  //                                      alert("Section: before call to LoadXMLDoc:"+url);
-                                }
-				DivRef.innerHTML = "<br><br><br><br><br><center><B>Loading....</b></center>";
-				loadXMLDoc(url);
-//				pausecomp(1000);
-
-			//	DivRef.innerHTML=result;
-				
-
-				document.getElementById(id).style.visibility = "visible";
-				lastshown=id;
-				
-			}
-			function hide(id) {
-				
-//				document.getElementById(id).style.visibility = "hidden";
-
-				document.getElementById('WaitShim').style.width = "0px";
-                                document.getElementById('WaitShim').style.height = "0px";
-
-                                document.getElementById(id).style.visibility = "hidden";
-
-
-			}
-		
-		
-	</script>
-</head><body background="/images/bug.gif" bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"><iframe id="WaitShim" src="" scrolling="no" frameborder="0" style="position:absolute; top:0px; left:0px; display:none;"> 
-</iframe> 
-
-<div id="default" style="position:absolute; width:100px; height:50px; z-index:99999; left: 100px; top: 100px;
- background-color: #EEEEEE; layer-background-color: #EEEEEE; border: 0px none #000000; visibility: hidden;">
+<div id="foxboro_menu">
+    <div id="dnn_INGENIMENU1__ctl0" class="radmenu RadMenu_Blank ">
+	<!-- 4.2.0 --><script type="text/javascript" src="/WebResource.axd?d=y9zpcws0jYGti5gmwk2v5b404m4Gw0UlDfRC-RuYvfeQXcYKMPn0GGo_8HKcd6kLrZnHq-Y-YyZtr0K8acHGbEaAiTrl_Dz_g7LSGtkTU_y3pdgP92V5LILxTGZzipI8ALwSqrlal8DfyFfTvh6Svi7CHVNI8cM2fX-QU3vZ27IK0nUaGV8F75TeXtc1&amp;t=634302877806526998"></script><span id="dnn_INGENIMENU1__ctl0StyleSheetHolder" style="display:none;"></span><ul class="horizontal rootGroup">
+		<li class="item first"><a href="/" id="dnn_INGENIMENU1__ctl0_m0" class="link"><span class="text">Home</span></a></li><li class="item"><a href="http://www.jillkonrath.com/sales-expert/" id="dnn_INGENIMENU1__ctl0_m1" class="link"><span class="text">About</span></a><div class="slide">
+			<ul class="vertical group level1">
+				<li class="item first"><a href="http://www.jillkonrath.com/about/sales-philosophy/" id="dnn_INGENIMENU1__ctl0_m1_m0" class="link"><span class="text">Sales Philosophy</span></a></li><li id="dnn_INGENIMENU1__ctl0_m1_m1" class="item separator "><span class="text"></span></li><li class="item"><a href="http://www.jillkonrath.com/about/in-the-news/" id="dnn_INGENIMENU1__ctl0_m1_m2" class="link"><span class="text">In the News</span></a></li><li id="dnn_INGENIMENU1__ctl0_m1_m3" class="item separator "><span class="text"></span></li><li class="item"><a href="http://www.jillkonrath.com/about/recent-recognition/" id="dnn_INGENIMENU1__ctl0_m1_m4" class="link"><span class="text">Recent Recognition</span></a></li><li id="dnn_INGENIMENU1__ctl0_m1_m5" class="item separator "><span class="text"></span></li><li class="item"><a href="http://www.jillkonrath.com/about/for-the-media/" id="dnn_INGENIMENU1__ctl0_m1_m6" class="link"><span class="text">For the Media</span></a></li><li id="dnn_INGENIMENU1__ctl0_m1_m7" class="item separator "><span class="text"></span></li><li class="item last"><a href="http://www.jillkonrath.com/media-program/" id="dnn_INGENIMENU1__ctl0_m1_m8" class="link"><span class="text">Advertise | Sponsor</span></a></li>
+			</ul>
+		</div></li><li class="item"><a href="http://www.jillkonrath.com/sales-speaker/" id="dnn_INGENIMENU1__ctl0_m2" class="link"><span class="text">Services</span></a><div class="slide">
+			<ul class="vertical group level1">
+				<li class="item first"><a href="http://www.jillkonrath.com/speaking/sales-keynotes/" id="dnn_INGENIMENU1__ctl0_m2_m0" class="link"><span class="text">Sales Keynotes</span></a></li><li id="dnn_INGENIMENU1__ctl0_m2_m1" class="item separator "><span class="text"></span></li><li class="item"><a href="http://www.jillkonrath.com/speaking/sales-training/" id="dnn_INGENIMENU1__ctl0_m2_m2" class="link"><span class="text">Sales Training</span></a></li><li id="dnn_INGENIMENU1__ctl0_m2_m3" class="item separator "><span class="text"></span></li><li class="item"><a href="http://www.jillkonrath.com/sales-webinars/" id="dnn_INGENIMENU1__ctl0_m2_m4" class="link"><span class="text">Sales Webinars</span></a></li><li id="dnn_INGENIMENU1__ctl0_m2_m5" class="item separator "><span class="text"></span></li><li class="item"><a href="http://www.jillkonrath.com/speaking/client-list/" id="dnn_INGENIMENU1__ctl0_m2_m6" class="link"><span class="text">Client List</span></a></li><li id="dnn_INGENIMENU1__ctl0_m2_m7" class="item separator "><span class="text"></span></li><li class="item last"><a href="http://www.jillkonrath.com/speaking/raves/" id="dnn_INGENIMENU1__ctl0_m2_m8" class="link"><span class="text">What Clients Say</span></a></li>
+			</ul>
+		</div></li><li class="item"><a href="http://www.jillkonrath.com/sales-books/" id="dnn_INGENIMENU1__ctl0_m3" class="link"><span class="text">Books</span></a><div class="slide">
+			<ul class="vertical group level1">
+				<li class="item first"><a href="http://www.jillkonrath.com/sales-books/snap-selling/" id="dnn_INGENIMENU1__ctl0_m3_m0" class="link"><span class="text">SNAP Selling</span></a><div class="slide">
+					<ul class="vertical group level2">
+						<li class="item first"><a href="http://www.jillkonrath.com/sales-books/snap-selling/buy-snap-selling-now/" id="dnn_INGENIMENU1__ctl0_m3_m0_m0" class="link"><span class="text">Special Offer</span></a></li><li id="dnn_INGENIMENU1__ctl0_m3_m0_m1" class="item separator "><span class="text"></span></li><li class="item"><a href="http://www.jillkonrath.com/sales-books/snap-selling/raves/" id="dnn_INGENIMENU1__ctl0_m3_m0_m2" class="link"><span class="text">Rave Reviews</span></a></li><li id="dnn_INGENIMENU1__ctl0_m3_m0_m3" class="item separator "><span class="text"></span></li><li class="item last"><a href="http://www.jillkonrath.com/sales-books/sales-strategy-guide/" id="dnn_INGENIMENU1__ctl0_m3_m0_m4" class="link"><span class="text">Study Guide</span></a></li>
+					</ul>
+				</div></li><li id="dnn_INGENIMENU1__ctl0_m3_m1" class="item separator "><span class="text"></span></li><li class="item"><a href="http://www.jillkonrath.com/sales-books/selling-to-big-companies/" id="dnn_INGENIMENU1__ctl0_m3_m2" class="link"><span class="text">Selling To Big Companies</span></a></li><li id="dnn_INGENIMENU1__ctl0_m3_m3" class="item separator "><span class="text"></span></li><li class="item last"><a href="http://www.jillkonrath.com/sales-books/get-back-to-work-faster/" id="dnn_INGENIMENU1__ctl0_m3_m4" class="link"><span class="text">Get Back to Work Faster</span></a></li>
+			</ul>
+		</div></li><li class="item"><a href="http://www.jillkonrath.com/sales-resources/" id="dnn_INGENIMENU1__ctl0_m4" class="link"><span class="text">Sales Resources</span></a><div class="slide">
+			<ul class="vertical group level1">
+				<li class="item first"><a href="http://www.jillkonrath.com/how-to-prospect/" id="dnn_INGENIMENU1__ctl0_m4_m0" class="link"><span class="text">Prospecting Tool Kit</span></a></li><li id="dnn_INGENIMENU1__ctl0_m4_m1" class="item separator "><span class="text"></span></li><li class="item"><a href="http://www.jillkonrath.com/sales-resources/video-sales-tips/" id="dnn_INGENIMENU1__ctl0_m4_m2" class="link"><span class="text">Video Sales Tips</span></a></li><li id="dnn_INGENIMENU1__ctl0_m4_m3" class="item separator "><span class="text"></span></li><li class="item"><a href="http://www.jillkonrath.com/sales-articles/" id="dnn_INGENIMENU1__ctl0_m4_m4" class="link"><span class="text">Sales Articles</span></a></li><li id="dnn_INGENIMENU1__ctl0_m4_m5" class="item separator "><span class="text"></span></li><li class="item"><a href="http://www.jillkonrath.com/free-sales-resources/sales-audio/" id="dnn_INGENIMENU1__ctl0_m4_m6" class="link"><span class="text">Sales Audio </span></a></li><li id="dnn_INGENIMENU1__ctl0_m4_m7" class="item separator "><span class="text"></span></li><li class="item last"><a href="http://www.jillkonrath.com/sales-resources/sales-newsletter/" id="dnn_INGENIMENU1__ctl0_m4_m8" class="link"><span class="text">Sales e-Newsletter</span></a></li>
+			</ul>
+		</div></li><li class="item"><a href="http://www.jillkonrath.com/sales-blog/" id="dnn_INGENIMENU1__ctl0_m5" class="link"><span class="text">Sales Blog</span></a></li><li class="item last"><a href="http://www.jillkonrath.com/contact-Jill-Konrath/" id="dnn_INGENIMENU1__ctl0_m6" class="link"><span class="text">Contact</span></a></li>
+	</ul><input type="hidden" id="dnn_INGENIMENU1__ctl0_Hidden" name="dnn:INGENIMENU1:_ctl0"><script type="text/javascript">window["dnn_INGENIMENU1__ctl0"] = RadMenu.Create("dnn_INGENIMENU1__ctl0");window["dnn_INGENIMENU1__ctl0"].Initialize({"EnableScreenBoundaryDetection":false,"Skin":"Blank","CausesValidation":false,"CollapseDelay":0,"Enabled":true},{"dnn_INGENIMENU1__ctl0_m1_m0":{"ExpandedCssClass":"active"},"dnn_INGENIMENU1__ctl0_m1_m1":{"IsSeparator":true,"NavigateAfterClick":false},"dnn_INGENIMENU1__ctl0_m1_m2":{"ExpandedCssClass":"active"},"dnn_INGENIMENU1__ctl0_m1_m3":{"IsSeparator":true,"NavigateAfterClick":false},"dnn_INGENIMENU1__ctl0_m1_m4":{"ExpandedCssClass":"active"},"dnn_INGENIMENU1__ctl0_m1_m5":{"IsSeparator":true,"NavigateAfterClick":false},"dnn_INGENIMENU1__ctl0_m1_m6":{"ExpandedCssClass":"active"},"dnn_INGENIMENU1__ctl0_m1_m7":{"IsSeparator":true,"NavigateAfterClick":false},"dnn_INGENIMENU1__ctl0_m1_m8":{"ExpandedCssClass":"active"},"dnn_INGENIMENU1__ctl0_m2_m0":{"ExpandedCssClass":"active"},"dnn_INGENIMENU1__ctl0_m2_m1":{"IsSeparator":true,"NavigateAfterClick":false},"dnn_INGENIMENU1__ctl0_m2_m2":{"ExpandedCssClass":"active"},"dnn_INGENIMENU1__ctl0_m2_m3":{"IsSeparator":true,"NavigateAfterClick":false},"dnn_INGENIMENU1__ctl0_m2_m4":{"ExpandedCssClass":"active"},"dnn_INGENIMENU1__ctl0_m2_m5":{"IsSeparator":true,"NavigateAfterClick":false},"dnn_INGENIMENU1__ctl0_m2_m6":{"ExpandedCssClass":"active"},"dnn_INGENIMENU1__ctl0_m2_m7":{"IsSeparator":true,"NavigateAfterClick":false},"dnn_INGENIMENU1__ctl0_m2_m8":{"ExpandedCssClass":"active"},"dnn_INGENIMENU1__ctl0_m3_m0":{"ExpandedCssClass":"active"},"dnn_INGENIMENU1__ctl0_m3_m0_m0":{"ExpandedCssClass":"active"},"dnn_INGENIMENU1__ctl0_m3_m0_m1":{"IsSeparator":true,"NavigateAfterClick":false},"dnn_INGENIMENU1__ctl0_m3_m0_m2":{"ExpandedCssClass":"active"},"dnn_INGENIMENU1__ctl0_m3_m0_m3":{"IsSeparator":true,"NavigateAfterClick":false},"dnn_INGENIMENU1__ctl0_m3_m0_m4":{"ExpandedCssClass":"active"},"dnn_INGENIMENU1__ctl0_m3_m1":{"IsSeparator":true,"NavigateAfterClick":false},"dnn_INGENIMENU1__ctl0_m3_m2":{"ExpandedCssClass":"active"},"dnn_INGENIMENU1__ctl0_m3_m3":{"IsSeparator":true,"NavigateAfterClick":false},"dnn_INGENIMENU1__ctl0_m3_m4":{"ExpandedCssClass":"active"},"dnn_INGENIMENU1__ctl0_m4_m0":{"ExpandedCssClass":"active"},"dnn_INGENIMENU1__ctl0_m4_m1":{"IsSeparator":true,"NavigateAfterClick":false},"dnn_INGENIMENU1__ctl0_m4_m2":{"ExpandedCssClass":"active"},"dnn_INGENIMENU1__ctl0_m4_m3":{"IsSeparator":true,"NavigateAfterClick":false},"dnn_INGENIMENU1__ctl0_m4_m4":{"ExpandedCssClass":"active"},"dnn_INGENIMENU1__ctl0_m4_m5":{"IsSeparator":true,"NavigateAfterClick":false},"dnn_INGENIMENU1__ctl0_m4_m6":{"ExpandedCssClass":"active"},"dnn_INGENIMENU1__ctl0_m4_m7":{"IsSeparator":true,"NavigateAfterClick":false},"dnn_INGENIMENU1__ctl0_m4_m8":{"ExpandedCssClass":"active"}});</script>
 </div>
 
+
+
+</div><!-- /#foxboro_menu -->
+
+<div id="foxboro_content">
+
+<div id="foxboro_top">
+    <div id="dnn_TopPane" containersrc="clean.ascx"></div>
+</div>
+
+<div id="foxboro_two-column">
+<div id="foxboro_col1">
+<div class="pad">
+    <div id="foxboro_side-menu_top"></div>
+    <div id="foxboro_side-menu">
+        <style> <!--  .staticmenu ul.level1 { display: block; } --> </style> 
+
+  <div class="radmenu staticmenu">
+    <ul class="rootGroup vertical">
+    </ul>
+  </div>
+
+
+
+
+    </div>
+    <div id="foxboro_side-menu_bottom"></div><!-- /side-menu -->
+    <div id="dnn_LeftPane" containersrc="h3-block.ascx" maxwidth="90%">
+
+
+
+<div class="block">
+<div class="pad">
+<h3>
+</h3>
+<div id="dnn__ctl2_ContentPane"><p style="text-align: left;"><a href="http://www.jillkonrath.com/sales-resources/sales-newsletter/" target="_self"></a>&nbsp;<a href="/sales-resources/sales-newsletter/" target="_self"><img id="img-1316048561912" src="/Portals/110248/images/Newsletter13.png" border="0" alt="sales newsletter" width="250" height="136"></a></p>
+<p style="text-align: left;"><a href="http://www.jillkonrath.com/sales-resources/sales-newsletter/" target="_self"></a>&nbsp;</p>
+<p style="text-align: left;"><a href="/sales-speaker/" target="_self"><img id="img-1316048824238" src="/Portals/110248/images/speaker8.png" border="0" alt="sales keynote speaker" width="249" height="148"></a>&nbsp;</p>
+<p style="text-align: left;"><a href="/sales-resources/sales-tool-kit" target="_self"></a>&nbsp;</p>
+<p><a href="http://www.jillkonrath.com/how-to-prospect/" target="_self"></a><a href="/how-to-prospect/" target="_self"><img id="img-1319257018305" src="/Portals/110248/images/Prospecting Tool Kit-v4.png" border="0" alt="how to prospect"></a>&nbsp;</p>
+<p>&nbsp;</p>
+<p><a href="/media-program/" target="_self"><img id="img-1316049363449" src="/Portals/110248/images/Advertising_Sponsorship13.png" border="0" alt="advertise with jill konrath" width="248" height="63"></a><a href="http://www.jillkonrath.com/advertising-sponsorship-program/" target="_self"></a></p>
+
+
+</div>
+</div><!-- END div.pad -->
+</div><!-- END div.block -->
+</div>
+
+</div><!-- /div.pad -->
+</div><!-- /#foxboro_col1 -->
+
+<div id="foxboro_col2">
+<div class="pad">
+
+    <div id="dnn_ContentPane" containersrc="h1.ascx">
+
+
+
+<h1>
+</h1>
+<div id="dnn__ctl0_ContentPane">
+<p> 
+ </p><div style="padding: 10px">
+<a href="http://www.linkedin.com/in/jillkonrath"><span title="Follow us on Linkedin" style="filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.hubspot.com/img/follow/icon_linkedin.png', sizingMethod='scale'); width: 32px; height: 32px; display:inline-block;cursor:pointer;background-image:url('http://static.hubspot.com/img/follow/icon_linkedin.png');_bac\kground-image:none;"></span></a><a href="http://www.youtube.com/user/jillkonrath"><span title="Follow us on Youtube" style="filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.hubspot.com/img/follow/icon_youtube.png', sizingMethod='scale'); width: 32px; height: 32px; display:inline-block;cursor:pointer;background-image:url('http://static.hubspot.com/img/follow/icon_youtube.png');_bac\kground-image:none;"></span></a><a href="http://www.twitter.com/jillkonrath"><span title="Follow us on Twitter" style="filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.hubspot.com/img/follow/icon_twitter.png', sizingMethod='scale'); width: 32px; height: 32px; display:inline-block;cursor:pointer;background-image:url('http://static.hubspot.com/img/follow/icon_twitter.png');_bac\kground-image:none;"></span></a><a href="http://www.facebook.com/profile.php?id=869415345"><span title="Follow us on Facebook" style="filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.hubspot.com/img/follow/icon_facebook.png', sizingMethod='scale'); width: 32px; height: 32px; display:inline-block;cursor:pointer;background-image:url('http://static.hubspot.com/img/follow/icon_facebook.png');_bac\kground-image:none;"></span></a><a href="http://feeds.feedburner.com/FreshSalesStrategiesBlog"><span title="Follow us on Our Blog" style="filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://static.hubspot.com/img/follow/icon_rss.png', sizingMethod='scale'); width: 32px; height: 32px; display:inline-block;cursor:pointer;background-image:url('http://static.hubspot.com/img/follow/icon_rss.png');_bac\kground-image:none;"></span></a></div><p></p></div>
+
+
+
+
+<h1>Privacy Policy for Jill Konrath
+</h1>
+<div id="dnn__ctl1_ContentPane"><div id="dnn__ctl1__ctl0_ContentPanel">
 	
+    <div class="ISContent Normal" id="IngeniContentBlock_1061132">
+	<p>This policy was last updated on July 31, 2007.<br><br>Selling to Big Companies, a Leapfrog Strategies company, takes your privacy seriously. We strive to keep your personal and financial information totally secure. To that end, we have prepared this privacy policy to disclose and describe our information gathering and dissemination practices for this website.<br><br></p>
+<ul>
+<li>We pledge to hold all information you provide to us in absolute privacy.</li>
+</ul>
+<ul>
+<li>We do not sell, rent, loan, or give your email address or other personal information to anybody and will never do so.</li>
+</ul>
+<ul>
+<li>We will NEVER sell or rent your name or personal information to any third party without your express permission.</li>
+</ul>
+<p><strong>Use of Your Personal Information</strong></p>
+<p>If you subscribe, your email address will be used to send the Selling to Big Companies newsletter. Special offers are sometimes sent to subscribers as well on behalf of third parties. But these third parties do not have access to your information since we alone send out the emails. However, all recipients of the newsletter may opt-out of receiving future newsletters or offers when so desired, and are given opportunity to opt-out of these emails at any time.<br><br>We may also use personal information in a manner that does not identify you specifically nor allow you to be contacted but does identify certain criteria about our users in general. For example, we may inform third parties about the number of subscribers to the newsletter, open rates and website pages most frequently browsed.<br><br>Only authorized employees may access your information. All employees are required to adhere to our strict privacy policies and any employee who violates the privacy policy is subject to termination and other disciplinary measures, up to being criminally prosecuted for their violation.<br><br>Aside from these uses of user information, we do not sell, nor plan to sell any user information to anyone.<br><br><strong>Protection of Children's Personal Information</strong></p>
+<p>Selling to Big Companies is a general audience site and does not knowingly collect any personal information from children. While our website may be viewed by children, we do not wish to receive data from children. No information should be submitted to, or posted at, the Selling to Big Companies web site by visitors under 18 years of age without the express written consent of their parent or guardian.<br><br><strong>Links to Third Party Sites  </strong></p>
+<strong></strong>
+<p><br>This website contains links to other web sites that are not controlled by Selling to Big Companies ("Third Party Sites"). Please note that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. The Selling to Big Companies Privacy Policy applies solely to information collected by this website.<br><br><strong>Changes to this Privacy Policy</strong></p>
+<p><br>Selling to Big Companies will occasionally update this privacy policy. When we do, we will also revise the "last updated" date at the top of the privacy policy. For material changes to this statement, Selling to Big Companies will notify our subscribers by placing prominent notice on the site.<br><br>Enforcement of this Privacy Policy and Contact Information<br>Selling to Big Companies welcomes your comments regarding our privacy policy.<br><br>IF FOR ANY REASON YOU BELIEVE THAT YOUR PRIVACY HAS BEEN BREACHED THROUGH THE USE OF OUR SITE, YOU MAY CONTACT US IMMEDIATELY BY E-MAIL, AND WE WILL DO OUR BEST TO PROMPTLY DETERMINE AND CORRECT THE PROBLEM<br><span class="Apple-style-span" style="text-align: left; widows: 2; text-transform: none; background-color: #ffffff; text-indent: 0px; letter-spacing: normal; font: medium 'Times New Roman'; white-space: normal; orphans: 2; color: #000000; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"><span><br></span></span></p>
+<span class="Apple-style-span" style="text-align: left; widows: 2; text-transform: none; background-color: #ffffff; text-indent: 0px; letter-spacing: normal; font: medium 'Times New Roman'; white-space: normal; orphans: 2; color: #000000; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"><span></span></span><span class="Apple-style-span" style="text-align: left; widows: 2; text-transform: none; background-color: #ffffff; text-indent: 0px; letter-spacing: normal; font: medium 'Times New Roman'; white-space: normal; orphans: 2; color: #000000; word-spacing: 0px; -webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px;"><span></span></span>
+	</div>
+	<input type="hidden" id="IngeniContentTitleHidden_1061132" value="Privacy Policy for Jill Konrath">
 
-		<meta http-equiv="content-type" content="text/html;charset=utf-8">
-		<link rel="STYLESHEET" href="/sitestyle.css" type="text/css">
-		<link rel="shortcut icon" href="/assets/favicon.ico">
-		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-		</script>
-		<script type="text/javascript">
-			_uacct = "UA-102462-1";
-			urchinTracker();
-		</script>
+</div>
+</div>
+</div>
 	
-	
-	<center>
-	
-	
+</div><!-- /div.pad -->
+</div><!-- /#foxboro_col2 -->
 
-		<table height="141" width="800" cellpadding="0" cellspacing="0" border="0" bgcolor="#0041A4">			
-			<tbody><tr>
-				<td width="258" background="/images/header_background_left.jpg" style="padding-left: 12px; padding-top: 10px;" valign="top">
-				<a href="/content_display.jsp?top=8492" class="headerNav">training &amp; keynotes</a><br>
-<a href="/content_display.jsp?top=8497" class="headerNav">success products</a><br>
-<a href="/content_display.jsp?top=15261" class="headerNav">upcoming events</a><br>
-<a href="/content_display.jsp?top=8494" class="headerNav">free resources</a><br>
-<a href="/content_display.jsp?top=8505" class="headerNav">about us</a><br>
-<a href="/content_display.jsp?top=15263" class="headerNav">media center</a><br>
+</div><!-- /#foxboro_two-column  -->
 
-				
-				</td>
-				<td width="345" nowrap="" bgcolor="#0041A4" background="/images/header_background_middle.jpg"></td>
-			
-				<td width="197" nowrap="" bgcolor="#0041A4" background="/images/header_background_right.jpg" align="right" valign="top" style="padding-top: 10px;">
-				<a href="/index.jsp" class="headerNav" style="padding-right: 12px; padding-top: 10px; text-decoration: none;">Home</a><br>
-				<a href="https://secure.sellingtobigcompanies.com/shopping_cart.jsp" class="headerNav" style="padding-right: 12px; padding-top: 10px; text-decoration: none;">View Cart</a>
+<div id="foxboro_bottom">
+    <div id="dnn_BottomPane" containersrc="clean.ascx"></div>
+</div>
 
-				</td>
-			</tr>
-		</tbody></table>
-		<table width="800" cellpadding="0" cellspacing="0" border="0">
-			<tbody><tr>
-				<td background="/images/header_nav_background.gif" height="30">
-					<table width="100%" cellpadding="0" cellspacing="0" border="0">
-						<tbody><tr><td width="10">&nbsp;</td>
-						
-			
-							<td width="100%" style="text-align: right; padding-right: 12px;">
-							<a href="http://www.sellingtobigcompanies.blogs.com/" class="topLinkBlog"> blog</a>
-&nbsp;<b class="topLinkNav"><font size="4">•</font></b>&nbsp;
-<a href="contact_us.jsp?top=8486&amp;mid=8511" class="topLinkNav"> contact us</a>
-							
-							 </td>
-						</tr>
-					</tbody></table>
-				</td>
-			</tr>
-		</tbody></table>
+</div><!-- /#foxboro_content -->
 
-		<table width="800" cellpadding="0" cellspacing="0" border="0">
-			<tbody><tr>
-				
+<div id="foxboro_footer">
+    
+<div style="text-align: center;" class="clear">
+		<span id="dnn_dnnLINKS_lblLinks">
+		  
+		    <a href="http://www.jillkonrath.com/" class="SkinObject">Home</a>
+		    
+		    <span class="SkinObject">  |  </span>
+		    
+		    <a href="http://www.jillkonrath.com/sales-expert/" class="SkinObject">About</a>
+		    
+		    <span class="SkinObject">  |  </span>
+		    
+		    <a href="http://www.jillkonrath.com/sales-speaker/" class="SkinObject">Services</a>
+		    
+		    <span class="SkinObject">  |  </span>
+		    
+		    <a href="http://www.jillkonrath.com/sales-books/" class="SkinObject">Books</a>
+		    
+		    <span class="SkinObject">  |  </span>
+		    
+		    <a href="http://www.jillkonrath.com/sales-resources/" class="SkinObject">Sales Resources</a>
+		    
+		    <span class="SkinObject">  |  </span>
+		    
+		    <a href="http://www.jillkonrath.com/sales-blog/" class="SkinObject">Sales Blog</a>
+		    
+		    <span class="SkinObject">  |  </span>
+		    
+		    <a href="http://www.jillkonrath.com/contact-Jill-Konrath/" class="SkinObject">Contact</a>
+		    
+		    <span class="SkinObject">  |  </span>
+		    
+		    <a href="http://www.jillkonrath.com/privacy-policy/" class="SkinObject">Privacy Policy</a>
+		    
+		</span>
+</div><!-- end clear -->
+	 
 
-				<td width="259" nowrap="" bgcolor="#F6F8E6" valign="top" align="center" height="100%"><br><br>
-					<table cellspacing="0" cellpadding="0" height="100%"><tbody><tr><td valign="top">
-				
+    <span id="footerContainer" style=""> <div id="footer_small"><ul><li>Leapfrog Strategies</li><li>Copyright 2011</li><li>St. Paul, Minnesota</li><li>651-429-1922</li></ul></div>
+<br><p><a href="#foxboro_body" class="return_top">Return to top of page</a></p>
 
-				</td></tr><tr><td valign="bottom">
-					<p class="sidebar_text" align="left">
-						copyright 2008. All rights reserved.<br><br>
-						
-						Selling to Big Companies is a production of Leapfrog Strategies. Your online resource for sales techniques, sales strategies, sales tips and sales training for selling products and marketing services.<br><br>
-						
-						Contact Us<br>
-						Jill Konrath<br>
-						<font color="#CC0530">651-429-1922</font><br><br>
-						
-						<a href="http://www.einsof.com" target="_blank"><img src="/assets/shared/powered_einsof_trans.gif" border="0"></a>
-						
-						<br><br><br>
-						
-<br>
-<a href="login.jsp" class="footerNav">login</a>
-<br><br>
-
-						<br><br><br><br>
-					</p>
-					</td></tr></tbody></table>
-					
-				</td>
-
-				<td width="20" nowrap="" bgcolor="#FFFFFF">&nbsp;</td>
-				<td bgcolor="#FFFFFF" valign="top" width="100%">
+</span>
+    <p class="copyright" id="copyrightFooter">© 2011 Jill Konrath
+</p>
+</div><!-- /#foxboro_footer -->
+</div><!-- /#foxboro_container -->
+</div><!-- /#foxboro_body -->
 
 
-	
+        <input name="ScrollTop" type="hidden" id="ScrollTop">
+        <input name="__dnnVariable" type="hidden" id="__dnnVariable">
+    </form>
 
-		
-		<p class="pageTitle">Privacy Policy for Selling to Big Companies</p>
-		<p class="pageDesc"></p>
-		<p>This policy was last updated on July 31, 2007.<br><br>Selling to Big Companies, a Leapfrog Strategies company, takes your privacy seriously. We strive to keep your personal and financial information totally secure. To that end, we have prepared this privacy policy to disclose and describe our information gathering and dissemination practices for this website.<br><br></p><ul><li>We pledge to hold all information you provide to us in absolute privacy.</li></ul><ul><li>We do not sell, rent, loan, or give your email address or other personal information to anybody and will never do so.</li></ul><ul><li>We will NEVER sell or rent your name or personal information to any third party without your express permission.</li></ul><b>Use of Your Personal Information</b><br>If you subscribe, your email address will be used to send the Selling to Big Companies newsletter. Special offers are sometimes sent to subscribers as well on behalf of third parties. But these third parties do not have access to your information since we alone send out the emails. However, all recipients of the newsletter may opt-out of receiving future newsletters or offers when so desired, and are given opportunity to opt-out of these emails at any time.<br><br>We may also use personal information in a manner that does not identify you specifically nor allow you to be contacted but does identify certain criteria about our users in general. For example, we may inform third parties about the number of subscribers to the newsletter, open rates and website pages most frequently browsed.<br><br>Only authorized employees may access your information. All employees are required to adhere to our strict privacy policies and any employee who violates the privacy policy is subject to termination and other disciplinary measures, up to being criminally prosecuted for their violation.<br><br>Aside from these uses of user information, we do not sell, nor plan to sell any user information to anyone.<br><br><b>Protection of Children's Personal Information</b><br>Selling to Big Companies is a general audience site and does not knowingly collect any personal information from children. While our website may be viewed by children, we do not wish to receive data from children. No information should be submitted to, or posted at, the Selling to Big Companies web site by visitors under 18 years of age without the express written consent of their parent or guardian.<br><b><br>Links to Third Party Sites</b>  <br>This website contains links to other web sites that are not controlled by Selling to Big Companies ("Third Party Sites"). Please note that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. The Selling to Big Companies Privacy Policy applies solely to information collected by this website.<br><br><b>Changes to this Privacy Policy</b><br>Selling to Big Companies will occasionally update this privacy policy. When we do, we will also revise the "last updated" date at the top of the privacy policy. For material changes to this statement, Selling to Big Companies will notify our subscribers by placing prominent notice on the site.<br><br>Enforcement of this Privacy Policy and Contact Information<br>Selling to Big Companies welcomes your comments regarding our privacy policy.<br><br>IF FOR ANY REASON YOU BELIEVE THAT YOUR PRIVACY HAS BEEN BREACHED THROUGH THE USE OF OUR SITE, YOU MAY CONTACT US IMMEDIATELY BY E-MAIL, AND WE WILL DO OUR BEST TO PROMPTLY DETERMINE AND CORRECT THE PROBLEM.<br><br>
-<p></p>
+  
+  <script type="text/javascript">
+    //<![CDATA[
+      hubspot.splitTimes.postHtml=new Date();
+    //]]>
+  </script>
+    
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript">jQuery.noConflict();</script>
+<script type="text/javascript" src="//static.hubspot.com/final/js/common/jquery/plugins/jquery.fancybox-1.3.1.js"></script>
 
-<!-- 0 -->
+    
+    <!-- page-load-success : cms -->
+    <div id="server-cms" style="display:none"></div>
+    
+  
+  <script type="text/javascript">
+    //<![CDATA[
+      hubspot.splitTimes.server={start:0,finish:'$$RESPONSE_FINISH_TIME$$'};
+    //]]>
+  </script>
 
+<!-- Start of HubSpot Logging Code  -->
+<script type="text/javascript" language="javascript">
+var hs_portalid = 110248; 
+var hs_salog_version = "2.00";
+var hs_ppa = "sellingtobigcompanies.app10.hubspot.com";
+var hs_content_type = "standard-page";
+var hs_canonical_url = "http\x3A\x2F\x2Fwww.jillkonrath.com\x2Fprivacy\x2Dpolicy";
+var hs_page_id = 507145;
 
-
-
-
-						<br>
-					<br>
-					<br>
-					<br>
-					<br>
-				</td>
-				<td width="20" nowrap="" bgcolor="#FFFFFF">&nbsp;</td>
-			</tr>
-			<tr>
-			<td width="20" nowrap="" bgcolor="#F6F8E6">&nbsp;</td>
-			<td colspan="2" bgcolor="#FFFFFF" width="100%" valign="top" style="padding-left: 10px;">
-				<a href="/index.jsp?top=8486">home</a>&nbsp;
-<a href="/content_display.jsp?top=8492">training &amp; keynotes</a>&nbsp;
-<a href="/content_display.jsp?top=8497">success products</a>&nbsp;
-<a href="/content_display.jsp?top=15261">upcoming events</a>&nbsp;
-<a href="/content_display.jsp?top=8494">free resources</a>&nbsp;
-<a href="/content_display.jsp?top=8505">about us</a>&nbsp;
-<a href="/content_display.jsp?top=15263">media center</a>&nbsp;
-<br>
-				<a href="/content_display.jsp?top=21141" class="footerNav_sel">privacy policy</a>&nbsp;
-
-				</td>
-				<td width="20" nowrap="" bgcolor="#FFFFFF">&nbsp;</td>
-			</tr>
-		</tbody></table>
-		
-<br><br>
-	</center>
+document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + hs_ppa + "/salog.js.aspx' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://sellingtobigcompanies.app10.hubspot.com/salog.js.aspx" type="text/javascript"></script>
+<!-- End of HubSpot Logging Code -->
 
 
+<!-- 
+HS_SERVER_ALIAS: WEB5 
+WebNodeName: CMS_PG10_Echelon
+IISInstanceID: PRD_00010_CMS
+-->
 
-
-
-	
-
-
-
+    
 </body></html>
