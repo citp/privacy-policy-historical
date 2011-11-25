@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spreadsheet123.com privacy policy that was archived on 2011-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110209154802id_/http%3A//spreadsheet123.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadsheet123.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125024820id_/http%3A//www.spreadsheet123.com/legal/privacy.html) for the most accurate reproduction.*
 
-# Spreadsheet123 - Privacy Policy
+# Spreadsheet123 - Privacy Policy.
 
 Last Revised: **Jan 30, 2011**
 
