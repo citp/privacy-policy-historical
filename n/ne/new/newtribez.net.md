@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the newtribez.net privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525074831id_/http%3A//www.newtribez.net/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newtribez.net privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125144042id_/http%3A//www.newtribez.net/policy) for the most accurate reproduction.*
 
-# privacy_policy » NewTribeZ Your Community with Heart
+# privacy_policy » NewTribeZ.net - Empowering you!
 
-**NewTribeZ Privacy Policy**   
-This Privacy Policy describes NewTribeZ's policies and procedures on the collection, use and disclosure of your information. NewTribeZ receives your information through our various sources such as; web sites, SMS, APIs, services and third-parties ("Services"). When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country that you reside in or create information from, your information may be used by NewTribeZ in Australia or any other country where NewTribeZ operates. 
+**NewTribeZ.net Privacy Policy**   
+This Privacy Policy describes NewTribeZ.net's (NewTribeZ) policies and procedures on the collection, use and disclosure of your information. NewTribeZ receives your information through our various sources such as; web sites, SMS, APIs, services and third-parties ("Services"). When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country that you reside in or create information from, your information may be used by NewTribeZ in Australia or any other country where NewTribeZ operates. 
 
 **Security and Confidentiality Overview**   
 We will take steps to maintain the security and confidentiality of your personal information; however, we cannot and do not guarantee the complete security of personal information you provide to us through your use of this Website, and you agree to specifically release us from any liability related in any way to the personal information you provide us. Any personally-identifiable information posted by you on publicly accessible portions of the Website may be read or utilized by any person with access to such portions of the Website. We reserve the right to take any action with respect to information posted on the Website, including, but not limited to, termination of your Membership and rights of use, but we cannot, nor do we, review, edit and/or control the information provided by Users or content providers which is made available through the Website. Any user identification names or passwords we provide to you or you utilize shall be maintained by you as confidential and should not be shared with anyone not authorized to have access to your personal information. 
@@ -23,7 +23,8 @@ What you say on NewTribeZ may be viewed all around the world instantly.
 
 Location Information: You may choose to note your location in your Posts and in your NewTribeZ profile. If you turn on Tweeting with your location, we may also save exact coordinates to help improve our service. You can control your location information settings in your account settings. 
 
-Log Data: Our servers automatically record information ("Log Data") created by your use of the Services. Log Data may include information such as your IP address, browser type, the referring domain, pages visited, and search terms. Other actions, such as interactions with advertisements, may also be included in Log Data.   
+Log Data: Our servers automatically record information ("Log Data") created by your use of the Services. Log Data may include information such as your IP address, browser type, the referring domain, pages visited, and search terms. Other actions, such as interactions with advertisements, may also be included in Log Data. 
+
 Cookies: Like many websites, we use "cookie" technology to collect additional website usage data and to improve our Services, but we do not require cookies for many parts of our Services such as searching and looking at public user profiles or lists. A cookie is a small data file that is transferred to your computer's hard disk. NewTribeZ may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to improve our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. 
 
 Third Party Services: This Website may contain links to other websites. We are not responsible for the privacy practices or the contents of such websites, and you should familiarize yourself with their privacy policies prior to using any such third party websites. 
@@ -33,7 +34,8 @@ NewTribeZ uses Google Analytics to help understand use of our Services. Through 
 **Information Sharing and Disclosure**   
 We do not disclose your private information except in the limited circumstances described here. 
 
-Your Consent: We may share or disclose your information with your consent, such as when you use a third party web client to access your NewTribeZ account.   
+Your Consent: We may share or disclose your information with your consent, such as when you use a third party web client to access your NewTribeZ account. 
+
 Service Providers: We engage certain trusted third parties to perform functions and provide services to us. We may share your personal information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to obligations mirroring the protections of this privacy policy. 
 
 Law and Harm: We may disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect NewTribeZ's rights or property. 
@@ -46,11 +48,11 @@ Non-Private or Non-Personal Information: We may share or disclose your non-priva
 If you are a registered user of our Services, we provide you with tools to access or modify the personal information you provided to us and associated with your account. 
 
 **Our Policy towards Children**   
-Our Services are not directed to people under the age of 18. Parents or legal guardians may not agree to the Terms of Use, this Privacy Policy, or the disclosure of such child's personally identifiable information on such child's behalf. If you become aware that your child has provided us with personal information, please contact us at admin@NewTribeZ.net. We do not knowingly collect personal information from children under 18. If we become aware that a child under 18 has provided us with personal information, we take steps to remove such information and terminate the child's account. 
+Our Services are not directed to people under the age of 16. Parents or legal guardians may not agree to the Terms of Use, this Privacy Policy, or the disclosure of such child's personally identifiable information on such child's behalf. If you become aware that your child has provided us with personal information, please contact us at admin@NewTribeZ.net. We do not knowingly collect personal information from children under 16. If we become aware that a child under 16 has provided us with personal information, we take steps to remove such information and terminate the child's account. 
 
 **Changes to this Policy**   
-We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at http://NewTribeZ.net/. If we make a change to this policy that, in our sole discretion, is material, we will notify you via an email to the email associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy. 
+We may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and can be viewed at [http://www.NewTribeZ.net/policy/](http://www.newtribez.net/policy/). If we make a change to this policy that, in our sole discretion, is material, we will notify you via an email to the email associated with your account. By continuing to access or use the Services after those changes become effective, you agree to be bound by the revised Privacy Policy. 
 
-These Services are operated and provided by SG Marketing Pty Ltd for and on behalf of NewTribeZ, PO Box 137, St Helens, Tasmania Australia 7216. If you have any questions or comments about this Privacy Policy, please contact us at admin@NewTribeZ.net. 
+These Services are owned and operated by [Greg C. Gibson](http://www.gregcgibson.com/) ABN 45443865997 on behalf of NewTribeZ.net, PO Box 137, St Helens, Tasmania Australia 7216. If you have any questions or comments about this Privacy Policy, please place "Privacy Policy" in the subject header and document and email your concerns to admin@NewTribeZ.net. 
 
 _This Privacy Policy is effective as of 12 April, 2010._
