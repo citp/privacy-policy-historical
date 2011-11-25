@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cisdata.net privacy policy that was archived on 2010-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100627211915id_/http%3A//www.ihouseweb.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cisdata.net privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125074359id_/http%3A//www.ihouseweb.com/privacypolicy.html) for the most accurate reproduction.*
 
-# iHOUSEweb Real Estate Websites, IDX MLS Search and More Real Estate Marketing
+# iHOUSEweb, Inc. Privacy Policy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.
 
