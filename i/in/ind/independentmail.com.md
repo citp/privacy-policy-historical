@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the independentmail.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629133349id_/http%3A//www.independentmail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independentmail.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125150819id_/http%3A//www.independentmail.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Information & News from Anderson Independent Mail (Anderson, SC)
 
 PRIVACY POLICY  
 (Effective July 1, 2008)
 
-Welcome to Independentmail.com, GoFridayFootball.com and TigersXtra.com ("Website(s)"), an interactive online service operated by The E.W. Scripps Company and its subsidiaries ("us", "we", or "our"). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also http://www.privacyprotection.ca.gov). 
+Welcome to Independentmail.com, GoFridayFootball.com and OrangeandWhite.com ("Website(s)"), an interactive online service operated by The E.W. Scripps Company and its subsidiaries ("us", "we", or "our"). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also http://www.privacyprotection.ca.gov). 
 
 We respect your privacy and are committed to protecting personally identifiable information you may provide us through our Website. We have adopted this Privacy Policy ("Privacy Policy") to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources.
 
@@ -67,7 +67,7 @@ You may contact us as at 1 (864) 622-1706 if: (a) you have questions or comments
 
 **I. YAHOO! ADS AND OPT-OUT POLICIES**
 
-Yahoo! is an ad network partner, operating through the APT from Yahoo! platform, that displays ads on Independentmail.com, GoFridayFootball.com and TigersXtra.com sites. To improve your ad experience on Independentmail.com, GoFridayFootball.com and TigersXtra.com sites and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser’s activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display.
+Yahoo! is an ad network partner, operating through the APT from Yahoo! platform, that displays ads on Independentmail.com, GoFridayFootball.com and OrangeandWhite.com sites. To improve your ad experience on Independentmail.com, GoFridayFootball.com and OrangeandWhite.com sites and elsewhere on the Internet, we may send non-personal information to Yahoo! based on your browser’s activities, such as type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display.
 
 To learn more about Yahoo!’s ad practices, including how to opt out of using anonymous information to select which ads to show you, see <http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html>.
 
