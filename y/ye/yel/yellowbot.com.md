@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowbot.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624052415id_/http%3A//www.yellowbot.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowbot.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125055212id_/http%3A//www.yellowbot.com/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - YellowBot
 
