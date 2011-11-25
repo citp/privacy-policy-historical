@@ -1,0 +1,645 @@
+<!--The following is the downloaded HTML source of the sportsblog.com privacy policy that was archived on 2011-11-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111125045628id_/http%3A//www.sportsblog.com/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html><head>
+		<meta name="google-site-verification" content="TjrIW89doabvZTtlUxkr5bg1jGDb1GKUNhJcc64QR4I">
+		<link href="http://static.cdncast.com/sportsblog/css/master.css" rel="stylesheet">
+		<script type="text/javascript" async="" id="gauges-tracker" data-site-id="4e44c755613f5d61e2000001" src="//secure.gaug.es/track.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.js"></script>
+		<!-- jQuery UI -->
+		<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.10/jquery-ui.min.js"></script>
+		<!-- AviaSlider -->
+		<!-- Form Validation -->
+		<script type="text/javascript" src="http://static.cdncast.com/sportsblog/js/validate/jquery.validate.js"></script>
+		<!-- Uniform -->
+		<script type="text/javascript" src="http://static.cdncast.com/sportsblog/js/uniform/jquery.uniform.js"></script>
+
+		<meta name="Description" content="Start your own free sports blog and read breaking sports news and exclusive rumors and commentary written by experts, fans and athlete bloggers. Get your free sports blog at yourname.sportsblog.com and join the conversation!">
+		<style>
+			#recent-posts_mega { position:relative; }
+			#grid_select { position:absolute;top:-10px;right:0;}
+			#grid_select .gridview, #grid_select .listview { padding:9px 8px 9px 7px; float:left;}
+			#grid_select .gridview div { background: url(http://static.cdncast.com/sportsblog/img/grid.png) no-repeat 0 0;}
+			#grid_select .listview div { background: url(http://static.cdncast.com/sportsblog/img/list.png) no-repeat 0 0;}
+			#grid_select .gridview div:hover { background: url(http://static.cdncast.com/sportsblog/img/gridhover.png) no-repeat 0 0;}
+			#grid_select .listview div:hover { background: url(http://static.cdncast.com/sportsblog/img/listhover.png) no-repeat 0 0;}
+			#grid_select  div a { display:block; width:22px; height:22px;}
+			#grid_select .gridview.active { background: url(http://static.cdncast.com/sportsblog/img/selectedbox.png) no-repeat 0 0; }
+			#grid_select .listview.active { background: url(http://static.cdncast.com/sportsblog/img/selectedbox.png) no-repeat 0 0; }
+			#grid_select .gridview.active div { background: url(http://static.cdncast.com/sportsblog/img/gridhover.png) no-repeat 0 0; }
+			#grid_select .listview.active div { background: url(http://static.cdncast.com/sportsblog/img/listhover.png) no-repeat 0 0; }
+			#listdata { display: none; }
+		</style>
+		<script>
+			$(function(){
+				$(".barlink").each(
+					function( intIndex ){
+						var href = $(this).attr('href');
+						var pieces = href.split("#",2);
+						href = pieces[0] + "?nav=1&navrequest=/privacy.html";
+						if (pieces[1]) {
+							href = href + "#" + pieces[1];
+						}
+						$(this).attr('href',href);
+					}
+				);
+			});
+			$(document).ready(function() {
+			
+				// Fade-ins for overlay
+				$('.fader').hover(
+					function() {
+						$(this).find('.fade-in').animate({opacity:1},150);
+						$(this).find('.fade-out').animate({opacity:0},150);
+					},
+					function() {
+						$(this).find('.fade-in').animate({opacity:0},1);
+						$(this).find('.fade-out').animate({opacity:1},1);
+					}
+				);
+				
+				// Dropdown code
+				$('div.dropdown-activator').click(function() {
+					$(this).toggleClass('active');
+					$(this).siblings('.dropdown-box').toggle('fade', 200);
+					return false;
+				});
+				
+				$('.close-dropdown').click(function() {
+					$('.dropdown-activator').toggleClass('active');
+					$(this).parents('.dropdown-box').fadeOut(200);
+				});
+				
+				// Kill an invalid signup click
+				$('.domain-signup.inactive').click(function() {
+					if($(this).hasClass('inactive')) {
+						return false;
+					}
+				});
+				
+				// Featured Blogger Toggle
+				$('#blog-selector span a').click(function() {
+					var newTab = $(this).attr('href');
+					$('#blog-selector span a').removeClass('active');
+					$(this).addClass('active');
+					$('#featured-bloggers .blogger-list > div').fadeOut(50, function() {
+						$('#featured-bloggers .blogger-list ' + newTab).delay(100).fadeIn(150);
+					});
+					return false;
+				});
+				
+				
+				// Validator
+				$("form.validate-me").validate();
+				
+				// Uniform
+			});
+		</script>
+
+
+	<title>SportsBlog - Privacy</title>
+<script type="text/javascript">
+			var delay = (function(){
+			  var timer = 0;
+			  return function(callback, ms){
+			    clearTimeout (timer);
+			    timer = setTimeout(callback, ms);
+			  };
+			})();
+			
+			
+			$(function(){
+				
+			    $('.field,.prefilled').each(function(){if (this.value == "") { this.value = this.title; }});
+			
+			
+				$('.field,.prefilled').focus(function() {
+					if(this.title==this.value) {
+					    this.value = '';
+					    $(this).addClass('field-state-active');
+					}
+				}).blur(function(){
+			    if(this.value=='') {
+			        this.value = this.title;
+				}});
+			
+				$('form').submit(function() {
+			            $('.field,.prefilled').each(function() { if (this.title == this.value) { this.value="";}});
+			    });			   
+			
+			    $('#domainsearch').keyup(
+			    	function () {
+						if ($('input#domainsearch').val() && $('input#domainsearch').val() != $('input#domainsearch').attr('title') && $('input#domainsearch').val().length > 2) {
+							
+							delay(function(){							
+			
+								$.get('/ajax/blogcheck.cgi?domain=SportsBlog.com&blog='+$('input#domainsearch').val(), function(data) {
+									$(".blogname").html($('input#domainsearch').val());
+									$(".blogname").show();
+									$(".blognamedomain").show();
+									if (data == "taken") {
+										$(".blogname").html($('input#domainsearch').val());
+										$("#fieldurlsearch_alert").show();
+										$(".blognametaken").show();							
+										$(".blognameinvalid").hide();							
+										$(".blognameavailable").hide();
+										$(".domain-example").show();
+										$('.domain-signup').addClass('inactive');															
+									} else if (data == "available") {
+										$(".blogname").html($('input#domainsearch').val());
+										$("#fieldurlsearch_alert").show();
+										$(".blognametaken").hide();							
+										$(".blognameinvalid").hide();							
+										$(".blognameavailable").show();
+										$(".domain-example").hide();
+										$('.blognamenone').hide();
+										$('.domain-signup').removeClass('inactive');
+									} else if (data == "invalid") {
+										$(".blognamedomain").hide();
+										$("#fieldurlsearch_alert").show();
+										$(".blogname").hide();
+										$(".blognametaken").hide();							
+										$(".blognameavailable").hide();
+										$(".blognameinvalid").show();
+										$(".domain-example").show();
+										$('.blognamenone').hide();
+										$('.domain-signup').addClass('inactive');				
+									} else {
+										$("#fieldurlsearch_alert").hide();
+									}
+								});
+							    }, 300 );
+			
+						}
+			    	}
+			    );
+			 });
+		</script></head>
+
+
+
+		
+		
+		<body><div id="site-wrapper">
+			
+			<div id="network-nav" style="">
+				<div class="container_12">
+					<div class="grid_8 omega floatright">
+						<div id="account-options" class="floatright">
+							
+								<a href="http://manage.SportsBlog.com">Sign-In</a>
+								<a href="http://www.SportsBlog.com/join.html">Join</a>								
+								<a href="http://www.SportsBlog.com/features_overview.html">Features</a>
+							
+						</div><!-- #account-options -->
+					</div>
+					<div class="clear"></div>
+				</div><!-- .container_12 -->
+			</div><!-- #network-nav -->
+
+
+
+			
+			<div id="site-header">
+				<div class="container_12">					
+					<div id="site-logo" class="grid_3 alpha">
+						<a href="http://www.SportsBlog.com"><img src="http://static.cdncast.com/sportsblog/img/sblogonew_cropped.png"></a>
+						<h1>Sports<span>Blog</span></h1>
+					</div><!-- #site-logo -->
+
+<script>
+	var dropdownOpen;
+	$(function(){
+		$(".dropdownselect").click(function(){
+			$('.dropdown-box .section').hide();
+			$('.dropdown-box .section-'+$(this).attr('title')).show();
+			if (!dropdownOpen) {
+				$('.dropdown-box').toggle();			
+			}
+			if (dropdownOpen == $(this).attr('title')) {
+				dropdownOpen = "";
+				$('.dropdown-box').hide();
+			} else {
+				dropdownOpen = $(this).attr('title');
+			}
+			return false;
+		})
+	
+	
+	});
+
+</script>
+
+					<div id="categorylinks" class="grid_5" style="z-index:3000;">
+						<a href="http://www.sportsblog.com/" class="allsportslink major">All Sports</a>		
+						<a href="http://www.sportsblog.com/football.html" class="footballsportslink major dropdownselect" title="football">NFL</a>
+						<a href="http://www.sportsblog.com/baseball.html" class="baseballsportslink major " title="baseball">MLB</a>
+						<a href="http://www.sportsblog.com/basketball.html" class="basketballsportslink major " title="basketball">NBA</a>
+						<a href="http://www.sportsblog.com/hockey.html" class="hockeysportslink major " title="hockey">NHL</a>
+						<a href="http://www.sportsblog.com/mma.html" class="mmasportslink major" title="hockey">MMA</a>
+						<a href="http://www.sportsblog.com/motor.html" class="motorsportslink major last" title="hockey">NASCAR</a>
+<!--						<a href=http://www.sportsblog.com/racing.html>Racing</a>
+						<a href=http://www.sportsblog.com/combat.html>Combat</a>
+						<a href=http://www.sportsblog.com/tennis.html>Tennis</a>
+						<a href=http://www.sportsblog.com/golf.html>Golf</a>
+						<a href=http://www.sportsblog.com/cycling.html>Cycling</a>
+						<a href=http://www.sportsblog.com/poker.html>Poker</a> -->
+						<br class="clear">						
+						<div class="dropdown-box">
+							<div class="inner">
+								<div class="section section-football">
+									<h2><a href="http://www.sportsblog.com/football.html">ALL FOOTBALL NEWS</a></h2>
+									<p><a href="http://www.sportsblog.com/football_generalnfl.html">GENERAL NFL</a></p>
+									<div class="clear"></div>
+									<div>
+										<!-- Top List -->
+										<ul class="dd">
+											<li><h3>NFL-AFC</h3></li>
+											<li>
+												<h3>NORTH</h3>
+												<ul>
+													<li><a href="http://www.sportsblog.com/football_ravens.html">Ravens</a></li>
+													<li><a href="http://www.sportsblog.com/football_bengals.html">Bengals</a></li>
+													<li><a href="http://www.sportsblog.com/football_browns.html">Browns</a></li>
+													<li><a href="http://www.sportsblog.com/football_steelers.html">Steelers</a></li>
+												</ul>
+											</li>
+											<li>
+												<h3>SOUTH</h3>
+												<ul>
+													<li><a href="http://www.sportsblog.com/football_texans.html">Texans</a></li>
+													<li><a href="http://www.sportsblog.com/football_colts.html">Colts</a></li>
+													<li><a href="http://www.sportsblog.com/football_jaguars.html">Jaguars</a></li>
+													<li><a href="http://www.sportsblog.com/football_titans.html">Titans</a></li>
+												</ul>										
+											</li>
+											<li>
+												<h3>EAST</h3>
+												<ul>
+													<li><a href="http://www.sportsblog.com/football_bills.html">Bills</a></li>
+													<li><a href="http://www.sportsblog.com/football_dolphins.html">Dolphins</a></li>
+													<li><a href="http://www.sportsblog.com/football_patriots.html">Patriots</a></li>
+													<li><a href="http://www.sportsblog.com/football_jets.html">Jets</a></li>
+												</ul>										
+											</li>
+											<li>
+												<h3>WEST</h3>
+												<ul>
+													<li><a href="http://www.sportsblog.com/football_broncos.html">Broncos</a></li>
+													<li><a href="http://www.sportsblog.com/football_chiefs.html">Chiefs</a></li>
+													<li><a href="http://www.sportsblog.com/football_raiders.html">Raiders</a></li>
+													<li><a href="http://www.sportsblog.com/football_chargers.html">Chargers</a></li>
+												</ul>										
+											</li>
+										</ul>
+										
+										<div class="clear"></div>
+
+										<!-- Bottom List -->
+										<ul class="dd">
+											<li><h3>NFL-NFC</h3></li>
+											<li>
+												<h3>NORTH</h3>
+												<ul>
+													<li><a href="http://www.sportsblog.com/football_bears.html">Bears</a></li>
+													<li><a href="http://www.sportsblog.com/football_lions.html">Lions</a></li>
+													<li><a href="http://www.sportsblog.com/football_packers.html">Packers</a></li>
+													<li><a href="http://www.sportsblog.com/football_vikings.html">Vikings</a></li>
+												</ul>
+											</li>
+											<li>
+												<h3>SOUTH</h3>
+												<ul>
+													<li><a href="http://www.sportsblog.com/football_falcons.html">Falcons</a></li>
+													<li><a href="http://www.sportsblog.com/football_panthers.html">Panthers</a></li>
+													<li><a href="http://www.sportsblog.com/football_saints.html">Saints</a></li>
+													<li><a href="http://www.sportsblog.com/football_buccaneers.html">Buccaneers</a></li>
+												</ul>										
+											</li>
+											<li>
+												<h3>EAST</h3>
+												<ul>
+													<li><a href="http://www.sportsblog.com/football_cowboys.html">Cowboys</a></li>
+													<li><a href="http://www.sportsblog.com/football_giants.html">Giants</a></li>
+													<li><a href="http://www.sportsblog.com/football_eagles.html">Eagles</a></li>
+													<li><a href="http://www.sportsblog.com/football_redskins.html">Redskins</a></li>
+												</ul>										
+											</li>
+											<li>
+												<h3>WEST</h3>
+												<ul>
+													<li><a href="http://www.sportsblog.com/football_cardinals.html">Cardinals</a></li>
+													<li><a href="http://www.sportsblog.com/football_49ers.html">49ers</a></li>
+													<li><a href="http://www.sportsblog.com/football_seahawks.html">Seahawks</a></li>
+													<li><a href="http://www.sportsblog.com/football_rams.html">Rams</a></li>									
+												</ul>										
+											</li>
+										</ul>
+
+									</div>
+									
+								</div>
+								<div class="section section-baseball">
+									<h2>Baseball Coming Soon</h2>
+									<div class="comingsoon">
+										<p>
+											We are working hard to add exclusive news and commentary for you baseball fans!
+										</p>
+									</div>
+								</div>
+								<div class="section section-basketball">
+									<h2>Basketball Coming Soon</h2>
+									<div class="comingsoon">
+										<p>
+											We are working hard to add exclusive news and commentary for you basketball fans!
+										</p>
+									</div>
+								</div>
+								<div class="section section-hockey">
+									<h2>Hockey Coming Soon</h2>
+									<div class="comingsoon">
+										<p>
+											We are working hard to add exclusive news and commentary for you hockey fans!
+										</p>
+									</div>
+								</div>
+								<div class="section section-other">
+									<h2>Other Sports</h2>
+										<a style="display:block;margin-bottom:10px;font-size:.8em;" href="http://www.sportsblog.com/motor.html">NASCAR</a> 
+										<br class="clear">
+										<a style="display:block;margin-bottom:10px;font-size:.8em;" href="http://www.sportsblog.com/MMA.html">MMA</a> 
+										<br class="clear">
+								</div>
+							</div>							
+						</div>
+					</div>
+
+					
+					<div class="grid_4 omega floatright" style="text-align:right;">
+			<form class="littlesearch" method="get" action="/search.html" style="text-align:right;">
+				<input type="text" name="search" class="text" value="">
+				<input type="submit" class="submit redbutton" value=" Search "> 
+			</form>
+
+
+					</div><!-- .grid_4 -->
+
+
+					<div class="clear"></div>
+				</div><!-- .container_12 -->
+			</div><!-- #site-header -->
+
+
+
+
+
+
+
+	<div id="four-oh-four" class="static-wrapper">
+		<div class="container_12">			
+		
+			<div class="grid_12 alpha">
+				<h2 class="bebas">Privacy Policy</h2>
+<h3>Effective Date: January 24, 2011.</h3>
+<p>
+This is the website of BrandLab LLC, d/b/a Blog Media ("we" or "us").  We are committed to maintaining the privacy of the information that you provide to us in using this site.  The following privacy policy applies to the information we collect from you and how we use and protect it.  This privacy policy applies only to this site and does not apply to any third-party websites linked to this site.  We are not responsible for the privacy practices or the contents of any third-party linked website.
+</p><p>
+
+</p><h3>What information do we collect?</h3>
+<p></p><p>
+
+When you register as a user of this site, we may collect your email address, username and password, name and address, telephone number, fax number, and payment information (e.g., credit card number and billing address).  
+</p><p>
+
+Additionally, when you visit this site, we automatically collect some non-personally identifiable computer information, such as the type of computer operating system (such as Windows XP or Mac OS) and web browser (such as Netscape or Internet Explorer) you are using, information regarding your Internet service provider, and the frequency with which you visit various parts of this site.  We use this information to manage the Website and make it more interesting and useful to you. 
+</p><p>
+
+We may offer public forums through this site.  If you use a public forum on this site and disclose personally identifiable information, you should be aware that such information could be read, collected or used by other users.  We are not responsible for the personally identifiable information you choose to submit through public forums.
+</p><p>
+
+</p><h3>How do we use the information we collect?</h3>
+<p></p><p>
+
+The information we collect is used to communicate with users regarding their account, improve the content of this site, customize the content and/or layout of this site for each individual visitor, notify consumers about updates to this site, and contact consumers for marketing purposes.  The information we collect is shared as necessary with agents or contractors who assist in providing support for our internal operations.  The information we collect is disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing this site and applicable laws or to protect against misuse or unauthorized use of this site, and to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting this site.  We never give your e-mail address or other personally identifiable information to advertisers on our website or to other third parties for marketing purposes without your affirmative permission.    
+</p><p>
+
+</p><h3>How to opt out of receiving email</h3>
+<p></p><p>
+
+If you do not want to receive e-mail from us in the future, you should let us know by sending a removal request to us at </p><h3>unsubscribe@blogmedia.com</h3>, We honor all removal requests.
+<p></p><p>
+
+</p><h3>What are cookies, and how do we use them?</h3>
+<p></p><p>
+
+A cookie is a small piece of information that we place in your computer browser to collect information regarding your preferences.  We use cookies to identify you when you visit us and to keep track of where you go so we can provide you with a personalized version of this site.  Cookies do not contain any personally identifiable information.  Cookies could enable us to relate your use of this site to personal information you have provided, but we do not use them for this purpose.  You can use your browser settings to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies.  If you turn off cookies, you will not have access to some of the features that make your experience on this site smoother, and some of our services may not function properly.
+</p><p>
+
+</p><h3>Linked websites</h3>
+<p></p><p>
+
+This site may contain links to other websites, including those of sponsors and advertisers.  The information practices on those sites may be different from ours and are not covered by our privacy policy.  We encourage you to consult the privacy notices on those sites.  
+</p><p>
+
+</p><h3>How to request information maintained about you </h3>
+<p></p><p>
+
+Upon request, we will provide you with access to all information (including proprietary information) that we maintain about you.  You can access this information by emailing us at </p><h3>information@blogmedia.com</h3>
+<p></p><p>
+
+</p><h3>We cannot guarantee the security of this site</h3>
+<p></p><p>
+
+We take seriously our obligation to safeguard the confidentiality, security and integrity of personal information collected from our users and have established and will maintain procedures that are designed for that purpose.  You should be aware, however, that no system is completely secure from hackers, network failure and error, and we cannot guarantee the confidentiality, security and integrity of information maintained on this site.
+</p><p>
+
+</p><h3>Modification of privacy policy</h3>
+<p></p><p>
+
+To accommodate new services and features on this site and to ensure up-to-date compliance with privacy laws, we may modify our privacy policy from time to time.  When we modify our privacy policy, we will notify you by a posting on this webpage.  Any changes will become effective as of the date of posting with respect to information we then collect in the future.  We will treat all personal information we collect, however, in accordance with the privacy policy in effect at the time the information is collected.  We urge you to review this privacy policy often so you are always fully informed. 
+</p><p>
+
+</p><h3>Contact us</h3>
+<p></p><p>
+
+If you have any questions or comments about our privacy policy, please contact us at: 
+</p><p>
+
+</p><h3>By email: </h3>
+<p></p><p>
+
+</p><h3>contact@blogmedia.com</h3>
+<p></p><p>
+
+</p><h3>By regular mail:</h3>
+<p></p><p>
+
+Privacy Request<br>
+Blog Media<br>
+4015 Hillsboro Rd Suite 222<br>
+Nashville, TN 37215 <br>
+
+
+</p>
+			
+			</div><!-- .grid_12 -->
+			
+			<div class="clear"></div>
+		</div><!-- .container_12 -->			
+	</div><!-- #contact-form -->		
+
+
+
+	<div id="cross-promo">
+		<div class="container_12">
+				<div class="clear" style="height:15px"></div>
+			
+			<div class="grid_4 alpha">
+				<h2 class="bebas">Jump in and explore</h2>
+				<div class="grid_2 alpha">
+					<div class="tick first">
+						<a href="http://manage.SportsBlog.com">Member Login</a>
+					</div>
+					<div class="tick">
+						<a href="/join.html">Join For Free</a>
+					</div>
+					<div class="tick">
+						<a href="/view_experts.html">Browse Top Blogs</a>
+					</div>
+					<div class="tick last">
+						<a href="/comments.html">Comment Stream</a>
+					</div>
+				</div>
+				<div class="grid_2 omega" style="background: #222;">
+					<div style="padding:10px;">
+						<strong>Sports Coverage</strong>
+						<div class="floatleft" style="width:49%;margin-top:10px;">
+							<a href="/football.html">NFL</a> <br>
+							<a href="/baseball.html">MLB</a> <br>
+							<a href="/mma.html">MMA</a> <br>
+						</div>
+						<div class="floatright" style="width:49%;margin-top:10px;">
+							<a href="/basketball.html">NBA</a> <br>
+							<a href="/hockey.html">NHL</a> <br>
+							<a href="/motor.html">NASCAR</a> <br>
+						</div>
+						<div class="clear"></div>
+						<div><a href="/">ALL SPORTS</a></div>
+					</div>
+					<div class="clear"></div>
+
+				</div>
+			</div><!-- .grid_3 -->
+			
+			<div class="grid_4">
+				<h2 class="bebas">Connect With Us</h2>
+
+				<div class="tick "><a href="/contact.html">Contact Us ( Send us your news tips! )</a></div>
+				<div class="tick"><a href="/advertise.html">Advertise On Our Network</a></div>
+				<div class="tick"><a href="http://www.twitter.com/gosportsblog">Follow @GoSportsBlog on Twitter</a></div>
+				<div class="tick last"><a href="http://www.facebook.com/pages/SportsBlogcom/108844935863019">"Like Us" on FaceBook</a></div>
+				
+
+			</div><!-- .grid_3 -->
+			
+			<div class="grid_4">
+				<h2 class="bebas">Read Our Blog</h2>
+
+
+				
+					<a class="stafftitle" href="http://staff.sportsblog.com/post/6/sportsblog_com_is_now_fully.html">SportsBlog.com now fully connects with your FaceBook and Twitter!</a>
+					<div class="grid_1 alpha">
+						<a href="http://staff.sportsblog.com/post/6/sportsblog_com_is_now_fully.html"><img src="http://serve.cdncast.com/images/SportsBlogcom/profilepic/Staff_1317593245_200.jpg" width="60" height="60"></a>
+					</div>
+					<div class="grid_3 omega">
+												17/November/2011 - 01:12 pm<br>
+												<h4> &nbsp;</h4><!-- &bull; <a class="comments-link" href="http://staff.sportsblog.com/post/6/sportsblog_com_is_now_fully.html">1 Comments</a></h4> -->
+												<p>We've made it even easier to share your blog posts with your friends around the world.Our new FaceBook and Twitter...</p>
+												<br>
+												<p><a style="text-decoration:underline;color:#bbb;" href="http://staff.sportsblog.com/post/6/sportsblog_com_is_now_fully.html">Keep reading on our staff blog</a></p>
+
+					</div>
+					<div class="clear"></div>
+				
+			
+			</div><!-- .grid_3 -->
+			
+			
+			<div class="clear"></div>
+		</div><!-- .container_12 -->			
+	</div><!-- #cross-promo -->
+
+
+
+
+
+			<div id="site-footer">
+				<div class="container_12">
+					<div class="grid_2 alpha">
+						<a href="http://www.goblog.com"><img style="margin:-4px 0px 0px 0px" src="http://static.cdncast.com/goblog/www/img/badge_goblog.png" alt="GoBlog"></a>
+					</div><!-- .grid_2 -->
+					<div class="grid_2 alpha" style="font-size:.8em;">						
+						<p>© 2011 | SportsBlog.com</p>
+					</div><!-- .grid_3 -->
+					<div class="grid_4" style="text-align:center;">
+						<a href="http://www.schoolofthelegends.com"><img src="http://static.cdncast.com/sportsblog/img/sotlpartner2.png" width="119" height="39"></a>
+						
+					</div>
+					<div class="grid_4 omega floatright">
+						<p class="floatright" style="font-size:.9em;"><a href="http://www.SportsBlog.com">Home</a> | <a href="http://www.SportsBlog.com/contact.html">Contact Us</a> | <a href="http://www.SportsBlog.com/terms.html">Terms</a> | <a href="http://www.SportsBlog.com/privacy.html">Privacy</a> | <a href="http://www.SportsBlog.com/ip.html">IP &amp; Copyright</a></p>
+					</div><!-- .grid_3 -->
+					<div class="clear"></div>
+				</div><!-- .container_12 -->
+			</div><!-- #site-footer -->
+
+		</div><!-- #site-wrapper -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-25095344-1']);
+  _gaq.push(['_setDomainName', '.sportsblog.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var _gauges = _gauges || [];
+  (function() {
+    var t   = document.createElement('script');
+    t.type  = 'text/javascript';
+    t.async = true;
+    t.id    = 'gauges-tracker';
+    t.setAttribute('data-site-id', '4e44c755613f5d61e2000001');
+    t.src = '//secure.gaug.es/track.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(t, s);
+  })();
+</script>
+
+<script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript">_atrk_opts = { atrk_acct: "QULHe1a0sN00gr", domain:"sportsblog.com"}; atrk ();</script><noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=QULHe1a0sN00gr" style="display:none" height="1" width="1" alt="" /></noscript>
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body></html>
