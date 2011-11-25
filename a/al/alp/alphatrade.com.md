@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphatrade.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224084223id_/http%3A//www.alphatrade.com/privacyStatement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphatrade.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125165251id_/http%3A//www.alphatrade.com/privacyStatement.php) for the most accurate reproduction.*
 
 # AlphaTrade.com - Privacy Statement
 
