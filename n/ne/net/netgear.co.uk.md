@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netgear.co.uk privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501074015id_/http%3A//netgear.co.uk/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netgear.co.uk privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125125441id_/http%3A//www.netgear.co.uk/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
