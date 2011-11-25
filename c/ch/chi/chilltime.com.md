@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chilltime.com privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220181753id_/http%3A//www.chilltime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chilltime.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125201948id_/http%3A//www.chilltime.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy · Chilltime
+# Privacy Policy of Chilltime
 
 Effective Date: 23 August 2010  
 (Last Updated 10 Outubro 2010)
