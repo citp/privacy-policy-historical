@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sixfigureprogram.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530125422id_/http%3A//www.sixfigureprogram.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sixfigureprogram.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125111757id_/http%3A//www.sixfigureprogram.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Six Figure Program
 
@@ -29,8 +29,8 @@ The Six Figure Program does place a feature called a "cookie" on your hard drive
 **Contact Information**
 
 Six Figure Program  
-3016 Silvermill Loop  
-Land O Lakes, FL 34638
+1608 S. Ashland Ave # 17763  
+Chicago, IL 60608
 
 **Phone**
 
