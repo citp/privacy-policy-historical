@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kickbacklife.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628191919id_/http%3A//www.kickbacklife.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kickbacklife.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125191536id_/http%3A//www.kickbacklife.com/privacy_policy.html) for the most accurate reproduction.*
 
 # KickBack Lifestyle Club Insider Secrets
 
