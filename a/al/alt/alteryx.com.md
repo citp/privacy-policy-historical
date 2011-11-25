@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alteryx.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616083227id_/http%3A//alteryx.com/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alteryx.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125182746id_/http%3A//www.alteryx.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Alteryx formerly SRC - Alteryx, Inc.
+# Privacy policy | Alteryx
 
 Alteryx.com is committed to protecting the privacy of our subscribers and prospective subscribers. We want to provide a safe, secure user experience. We will use our best efforts to ensure that the information you submit to us remains private, and is used only for the purposes as set forth herein. The following reflects our commitment to you.
 
