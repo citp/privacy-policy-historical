@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xtube.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613210055id_/http%3A//wiki.xtube.com/index.php%3Ftitle%3DPrivacy%26action%3Dpurge) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtube.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125144654id_/http%3A//wiki.xtube.com/%3Ftitle%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy - XTube Wiki
 
@@ -87,7 +87,7 @@ Protecting the privacy of young children is extremely important. For that reason
 
 ##  Special Note to International Users 
 
-The XTube Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the XTube Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the XTube Sites, which are governed by U.S. law, this Privacy Notice, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer. 
+If you are a User accessing the XTube Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the XTube Sites, which are governed by U.S. law, this Privacy Notice, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer. 
 
 ##  In the Event of Merger, Sale, or Bankruptcy 
 
@@ -102,12 +102,12 @@ For revisions to this Privacy Notice that may be materially less restrictive on 
 ## Rate this article!
 
   * Currently3.14/5
-  * [1](https://web.archive.org/web/20110613210055id_/http%3A//wiki.xtube.com/extensions/Ratings/db.php?url=/index.php?title=Privacy&action=purge&j=1&q=2473&t=174.129.237.157&c=5 "1 out of 5")
-  * [2](https://web.archive.org/web/20110613210055id_/http%3A//wiki.xtube.com/extensions/Ratings/db.php?url=/index.php?title=Privacy&action=purge&j=2&q=2473&t=174.129.237.157&c=5 "2 out of 5")
-  * [3](https://web.archive.org/web/20110613210055id_/http%3A//wiki.xtube.com/extensions/Ratings/db.php?url=/index.php?title=Privacy&action=purge&j=3&q=2473&t=174.129.237.157&c=5 "3 out of 5")
-  * [4](https://web.archive.org/web/20110613210055id_/http%3A//wiki.xtube.com/extensions/Ratings/db.php?url=/index.php?title=Privacy&action=purge&j=4&q=2473&t=174.129.237.157&c=5 "4 out of 5")
-  * [5](https://web.archive.org/web/20110613210055id_/http%3A//wiki.xtube.com/extensions/Ratings/db.php?url=/index.php?title=Privacy&action=purge&j=5&q=2473&t=174.129.237.157&c=5 "5 out of 5")
+  * [1](https://web.archive.org/web/20111125144654id_/http%3A//wiki.xtube.com/extensions/Ratings/db.php?url=/?title=Privacy&j=1&q=2473&t=174.129.237.157&c=5 "1 out of 5")
+  * [2](https://web.archive.org/web/20111125144654id_/http%3A//wiki.xtube.com/extensions/Ratings/db.php?url=/?title=Privacy&j=2&q=2473&t=174.129.237.157&c=5 "2 out of 5")
+  * [3](https://web.archive.org/web/20111125144654id_/http%3A//wiki.xtube.com/extensions/Ratings/db.php?url=/?title=Privacy&j=3&q=2473&t=174.129.237.157&c=5 "3 out of 5")
+  * [4](https://web.archive.org/web/20111125144654id_/http%3A//wiki.xtube.com/extensions/Ratings/db.php?url=/?title=Privacy&j=4&q=2473&t=174.129.237.157&c=5 "4 out of 5")
+  * [5](https://web.archive.org/web/20111125144654id_/http%3A//wiki.xtube.com/extensions/Ratings/db.php?url=/?title=Privacy&j=5&q=2473&t=174.129.237.157&c=5 "5 out of 5")
 
 
 
- **3.1** /5 (10515 votes total)
+ **3.1** /5 (11327 votes total)
