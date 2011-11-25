@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the makeup.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626050358id_/http%3A//makeup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makeup.com privacy policy that was archived on 2011-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111125195841id_/http%3A//www.makeup.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Makeup.com
+# Privacy Policy | Makeup.com
 
 We have adopted this statement (the “Privacy Policy”) in order to inform you of its policies with respect to information collected from the website, [www.makeup.com](http://www.makeup.com/) (the “Site”).
 
 Your use of the Site constitutes your acceptance of the terms of the Privacy Policy and the [Terms and Conditions](https://web.archive.org/terms-and-conditions/). In particular, by using the Site you consent to our collection, use, disclosure and international transfer of your personal information, as described below. As the Privacy Policy may be revised by us from time to time, you should review this page regularly to ensure that you are aware of any change to its terms.
 
-## COLLECTION AND USE OF INFORMATION 
+## COLLECTION AND USE OF INFORMATION
 
 ### Automatic collection of anonymous information
 
@@ -15,13 +15,13 @@ When you visit the Site, like when you visit most other websites, certain anonym
 Anonymous information that we collect in connection with your use of the Site is used by us solely for internal purposes (such as evaluation of Site use, assessment and improvement of Site performance and improvement of the functionality and services that we are able to offer) and is not used to target individuals for marketing or recruitment.  
 Registration and other personal identifiable information
 
-When you register with the Site, we may ask you to provide certain personally identifiable information about yourself. Personally identifiable information is any information that concerns you individually and would permit someone to contact you, for example, your name, address, telephone/fax number, social security number, email address and other contact information, the organization you come from, account password or any information you submitted to us that identifies you individually.
+When you register with the Site, we may ask you to provide certain personally identifiable information about yourself. Personally identifiable information is any information that concerns you individually and would permit someone to contact you, for example, your name, address, telephone/fax number, email address and other contact information, the organization you come from, account password or any information you submitted to us that identifies you individually.
 
 Where you register with us and provide us with personally identifiable information about yourself, we will use that information to contact you and provide you with information to keep you informed about events, publications, contests, partnerships, polls and other educational materials, products and services related to L’Oreal that may be of interest to you and notify you about important functionality changes to the Site.
 
 ### Cookies
 
-Our web servers may also place a “cookie” on the hard drive of your computer (a small data file) when you first connect to the Site. This allows us to recognize your computer on return visits, and helps us study traffic patterns on the Site, to improve the Site and the services that we provide. For more information about cookies and for guidance on how to refuse cookies, please see the heading below “Cookies”. 
+Our web servers may also place a “cookie” on the hard drive of your computer (a small data file) when you first connect to the Site. This allows us to recognize your computer on return visits, and helps us study traffic patterns on the Site, to improve the Site and the services that we provide. For more information about cookies and for guidance on how to refuse cookies, please see the heading below “Cookies”.
 
 ### Public Forum
 
@@ -43,7 +43,7 @@ Finally, as our business develops, we may sell or buy corporate assets, and in s
 
 The Site is directed toward and designed for use by persons aged 13 or older. We will not approve applications of, or establish or maintain accounts or memberships for, any child whom we know to be under the age of 13. We do not solicit or knowingly collect personally identifiable information from children under the age of 13. If we nevertheless discover that we have received personally identifiable information from an individual who indicates that he or she is, or whom we otherwise have reason to believe is, under the age of 13, we will delete such information from our systems. Additionally, a child’s parent or legal guardian may request that the child’s information be corrected or deleted from the Site’s files by contacting us via one of the methods described on our [Contact Us](https://web.archive.org/contact-us/) page.
 
-## “COOKIES” 
+## “COOKIES”
 
 The Site’s server, or the servers of companies that are used to operate the Site, may place a “cookie” on your computer in order to allow you to use the Site and to personalize your experience.
 
