@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the btnhboard.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524160034id_/http%3A//www.btnhboard.com/forums/faq.php%3Ffaq%3Dvb_faq%23faq_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btnhboard.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126163409id_/http%3A//www.btnhboard.com/forums/faq.php%3Ffaq%3Dvb_faq%23faq_privacypolicy) for the most accurate reproduction.*
 
 # vBulletin FAQ
 
