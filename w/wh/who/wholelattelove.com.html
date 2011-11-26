@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wholelattelove.com privacy policy that was archived on 2011-05-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110506054942id_/http%3A//www.wholelattelove.com/policy_privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wholelattelove.com privacy policy that was archived on 2011-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111126233350id_/http%3A//www.wholelattelove.com/policy_privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title></title>
@@ -8,11 +8,14 @@
 <!-- Whole Latte Love offers - Espresso Coffee Makers & Espresso Machines from Jura, Capresso, Saeco, Gaggia, Rancilio & Nespresso. -->
 <meta name="copyright" content="Whole Latte Love © 2011">
 <meta http-equiv="CONTENT-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0;">
 
 <!-- <script type="text/javascript" src="http://www.wholelattelove.com/javascripts/global.js"></script>
 <script type="text/javascript" src="http://www.wholelattelove.com/javascripts/global2.js"></script> -->
-<link href="http://www.wholelattelove.com/styles/styles2008.css" rel="stylesheet" type="text/css">
-<link href="http://www.wholelattelove.com/styles/styles2008_navigation.css" rel="stylesheet" type="text/css">
+
+	<link href="http://www.wholelattelove.com/styles/styles2008.css" rel="stylesheet" type="text/css">
+	<link href="http://www.wholelattelove.com/styles/styles2008_navigation.css" rel="stylesheet" type="text/css">
+
 <link href="http://www.wholelattelove.com/styles/styles2008_subnavigation.css" rel="stylesheet" type="text/css">
 <link href="http://www.wholelattelove.com/styles/styles2008_iefixes.css" rel="stylesheet" type="text/css">
 <link href="http://www.wholelattelove.com/styles/styles2008_productlist.css" rel="stylesheet" type="text/css">
@@ -35,10 +38,10 @@
 <!--[if IE 7]>
 <link href="http://www.wholelattelove.com/styles/styles2010_ie7.css" rel="stylesheet" type="text/css" />
 <![endif]-->
-
-
-
 <link href="http://www.wholelattelove.com/styles/styles_blog_2010.css" rel="stylesheet" type="text/css">
+
+
+
 
 
 
@@ -91,6 +94,8 @@ delete $.fn.tabs;
 
 
 
+<link rel="apple-touch-icon" href="/Graphics/apple_logo.png">
+
 
 
 
@@ -104,7 +109,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 </script>
 </head>
 
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 
 
 
@@ -119,6 +124,7 @@ $(document).ready(function() {
 	$("a.group").fancybox({
 		'width'		:900,
 		'height'	:700
+		
 	});
 	
 	var url;
@@ -156,6 +162,24 @@ $(document).ready(function() {
 			  }
 			   
 		   });
+	}
+	
+	function addItemToWishList(wishListID)
+	{
+		// get the new item popup ready
+		$("#newitem").load("http://www.wholelattelove.com//popup_wishlist_newitem.cfm?popupnewitem="+wishListID);
+		var request = "http://www.wholelattelove.com/mywll.cfm?act=wishlist&addwish=1&WishItemID="+wishListID;
+		
+		$.ajax({
+		   url: request,
+		   success: function(data) {
+			   $("#newitem").fadeIn();
+			   setTimeout( function() {$("#newitem").fadeOut();}, 4000);
+			   
+			  }
+			   
+		   });
+		
 	}
 	function addMultipleToCart() {
 		var purchaseIDs = new Array();
@@ -227,16 +251,18 @@ $(document).ready(function() {
 
 
 
-
+<a name="media_top"></a>
 <center>
-
-<div style="position:relative;width:960px;margin:0px auto">
+<div id="wrapperallsitewidthmedia">
+<div style="position:relative;width:100%;margin:0px auto">
 <div id="newitem"></div>
 </div>
 
  <div id="mainbannerwrapper2010">
  	<div id="mainbannerwidth2010">
-		<img src="http://www.wholelattelove.com/graphics_main_banner/best_sales_and_support_888_411_5282.jpg" alt="sales and support 888-411-5282" style="width: 260px; height: 27px; display: block; float: left;">
+    <div id="mediaphoneimagedontshow">
+		<img src="http://www.wholelattelove.com/graphics_main_banner/best_sales_and_support_888_411_5282.jpg" alt="sales and support 888-411-5282" style="width: 260px; height: 27px; float: left;"></div>
+        
 
 	<div id="mainbannerrightnav2010">
     
@@ -251,7 +277,7 @@ $(document).ready(function() {
 
 
 <li><a href="http://www.wholelattelove.com/checkout.cfm">Shopping Cart</a>
-	<ul style="margin-left: -145px;">
+	<ul style="margin-left: -145px;" class="media_cart">
 	<center>
 	<li style="width: 260px;" id="minicart">
 		
@@ -289,7 +315,7 @@ $(document).ready(function() {
                     
                       
                       <div id="page">
-					  <a class="group iframe" href="http://www.wholelattelove.com/LoginDetails_popup.cfm?flwhy=1">Log In/Sign Up</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.wholelattelove.com/blog.cfm">Blog</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="https://www.wholelattelove.com/videos.cfm">Videos</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+					  <a class="group iframe" href="http://www.wholelattelove.com/LoginDetails_popup.cfm?flwhy=1">Log In/Sign Up</a><a href="/blog.cfm" class="mediadontshow">&nbsp;&nbsp;|&nbsp;&nbsp;Blog&nbsp;&nbsp;|</a><a href="/videos.cfm" class="mediadontshow">&nbsp;&nbsp;Videos&nbsp;&nbsp;|&nbsp;&nbsp;</a>
                       </div>
                      
                     
@@ -302,7 +328,7 @@ $(document).ready(function() {
         
         
     </div>
- 
+ </div>
 
 
 
@@ -310,7 +336,7 @@ $(document).ready(function() {
 
 	<div id="wrapperbanner">
 	
-		<a href="http://www.wholelattelove.com/index.cfm"><img src="http://www.wholelattelove.com/graphics_main_banner/whole_latte_love.jpg" alt="Whole Latte Love" hspace="0" vspace="0" border="0" style="float: left;"></a><a name="top"></a>
+		<a href="http://www.wholelattelove.com/index.cfm"><div id="wrapperbannerlogomedia"><img src="http://www.wholelattelove.com/graphics_main_banner/whole_latte_love.jpg" alt="Whole Latte Love" hspace="0" vspace="0" border="0" style="float: left;"></div></a><a name="top"></a>
                     
 
                     
@@ -338,12 +364,10 @@ $(document).ready(function() {
 				<div id="wrapperbannerpromo">
             
                 <img src="https://www.wholelattelove.com/graphics_main_banner/wow_of_the_week.jpg" alt="Save Up To 10% Sitewide For A Limited Time!" border="0" usemap="#christmas_magic">
-             	<img src="https://www.wholelattelove.com/graphics_main_banner/free_ground.jpg" alt="Free ground shipping on orders over $50, no sales tax on all orders! We Price Match!" border="0">
+             	<img src="https://www.wholelattelove.com/graphics_main_banner/free_ground.jpg" alt="Free ground shipping on orders over $50, no sales tax on all orders! We Price Match!" border="0" class="mediadontshow">
             
                 
                 </div>
-
-
 
 
 
@@ -356,1499 +380,7 @@ $(document).ready(function() {
 <ul>
 
 
-
-
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
+<div class="navwrapper">
 <li><a href="http://www.wholelattelove.com/espresso.cfm" id="navEspresso" class="navLink"><span>Espresso Machines</span></a>
 	<ul style="margin-left: 0px; width: 950px !important;">
 	<center>
@@ -1867,14 +399,16 @@ $(document).ready(function() {
 			
             <div id="supermenupricewrapper2010">
 			
-					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=2&amp;prid=59">•&nbsp;$500 - $1000 (17)</a>
+					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=2&amp;prid=58">•&nbsp;$50 - $500 (5)</a>
+				
+					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=2&amp;prid=59">•&nbsp;$500 - $1000 (18)</a>
 				
 					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=2&amp;prid=60">•&nbsp;$1000 - $1500 (12)</a>
 				
 					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=2&amp;prid=64">•&nbsp;Above $1500 (17)</a>
 				
             </div>
-			<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=2&amp;clid=1"><strong><font color="#107EF8">&gt;&gt;&gt;&nbsp;On Sale (12)</font></strong></a>
+			<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=2&amp;clid=1"><strong><font color="#107EF8">&gt;&gt;&gt;&nbsp;On Sale (18)</font></strong></a>
             
             
             <a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=2"><strong><font color="#107EF8">&gt;&gt;&gt;&nbsp;Show All</font></strong></a>
@@ -1889,15 +423,17 @@ $(document).ready(function() {
                         
 					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=2&amp;bid=55">Bosch 1</a>
 				
-					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=2&amp;bid=73">DeLonghi 5</a>
+					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=2&amp;bid=73">DeLonghi 10</a>
 				
 					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=2&amp;bid=71">Espressione 1</a>
 				
-					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=2&amp;bid=5">Gaggia 10</a>
+					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=2&amp;bid=5">Gaggia 11</a>
 				
-					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=2&amp;bid=106">Jura Capresso 15</a>
+					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=2&amp;bid=7">Jura 13</a>
 				
-					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=2&amp;bid=12">Saeco 14</a>
+					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=2&amp;bid=106">Jura Capresso 13</a>
+				
+					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=2&amp;bid=12">Saeco 16</a>
 				
                         
                         </li>
@@ -1940,16 +476,16 @@ $(document).ready(function() {
 			
             <div id="supermenupricewrapper2010">
 			
-					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;prid=58">•&nbsp;$50 - $500 (36)</a>
+					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;prid=58">•&nbsp;$50 - $500 (31)</a>
 				
-					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;prid=59">•&nbsp;$500 - $1000 (10)</a>
+					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;prid=59">•&nbsp;$500 - $1000 (8)</a>
 				
-					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;prid=60">•&nbsp;$1000 - $1500 (3)</a>
+					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;prid=60">•&nbsp;$1000 - $1500 (6)</a>
 				
-					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;prid=64">•&nbsp;Above $1500 (17)</a>
+					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;prid=64">•&nbsp;Above $1500 (23)</a>
 				
             </div>
-			<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;clid=1"><strong><font color="#107EF8">&gt;&gt;&gt;&nbsp;On Sale (11)</font></strong></a>
+			<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;clid=1"><strong><font color="#107EF8">&gt;&gt;&gt;&nbsp;On Sale (9)</font></strong></a>
             
             
             <a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1"><strong><font color="#107EF8">&gt;&gt;&gt;&nbsp;Show All</font></strong></a>
@@ -1972,7 +508,7 @@ $(document).ready(function() {
 				
 					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;bid=121">Breville (3)</a>
 				
-					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;bid=1">Capresso (4)</a>
+					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;bid=1">Capresso (3)</a>
 				
 					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;bid=25">Cuisinart (2)</a>
 				
@@ -1984,13 +520,15 @@ $(document).ready(function() {
 				
 					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;bid=3">Expobar (8)</a>
 				
-					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;bid=4">FrancisFrancis! (4)</a>
-				
 					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;bid=5">Gaggia (10)</a>
 				
 					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;bid=48">Grimac Royal Falcon (2)</a>
 				
-					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;bid=106">Jura Capresso (4)</a>
+					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;bid=175">Izzo (2)</a>
+				
+					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;bid=7">Jura (3)</a>
+				
+					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;bid=106">Jura Capresso (3)</a>
 				
 					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;bid=8">Krups (3)</a>
 				
@@ -1998,9 +536,13 @@ $(document).ready(function() {
 				
 					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;bid=9">la Pavoni (1)</a>
 				
+					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;bid=176">La Spaziale (1)</a>
+				
 					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;bid=21">Lavazza (2)</a>
 				
 					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;bid=10">Pasquini (3)</a>
+				
+					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;bid=174">Quick Mill (4)</a>
 				
 					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1&amp;bid=11">Rancilio (3)</a>
 				
@@ -2117,10 +659,10 @@ $(document).ready(function() {
 			
 					<a href="http://www.wholelattelove.com/prosumer.cfm?cid=1&amp;prid=60">•&nbsp;$1000 - $1500 (4)</a>
 				
-					<a href="http://www.wholelattelove.com/prosumer.cfm?cid=1&amp;prid=64">•&nbsp;Above $1500 (14)</a>
+					<a href="http://www.wholelattelove.com/prosumer.cfm?cid=1&amp;prid=64">•&nbsp;Above $1500 (15)</a>
 				
             </div>
-			<a href="http://www.wholelattelove.com/prosumer.cfm?cid=1&amp;clid=1"><strong><font color="#107EF8">&gt;&gt;&gt;&nbsp;On Sale (1)</font></strong></a>
+			
             
             <a href="http://www.wholelattelove.com/prosumer.cfm?cid=1"><strong><font color="#107EF8">&gt;&gt;&gt;&nbsp;Show All</font></strong></a>
 
@@ -2146,6 +688,8 @@ $(document).ready(function() {
 								<a href="http://www.wholelattelove.com/prosumer.cfm?cid=1&amp;bid=48">Grimac Royal Falcon (2)</a>
 							
 								<a href="http://www.wholelattelove.com/prosumer.cfm?cid=1&amp;bid=77">La Marzocco (1)</a>
+							
+								<a href="http://www.wholelattelove.com/prosumer.cfm?cid=1&amp;bid=176">La Spaziale (1)</a>
 							
 								<a href="http://www.wholelattelove.com/prosumer.cfm?cid=1&amp;bid=10">Pasquini (2)</a>
 							
@@ -2191,16 +735,16 @@ $(document).ready(function() {
 		
         <div id="supermenupricewrapper2010">
 		
-				<a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;prid=58">•&nbsp;$50 - $500 (7)</a>
+				<a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;prid=58">•&nbsp;$50 - $500 (20)</a>
 			
-				<a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;prid=59">•&nbsp;$500 - $1000 (18)</a>
+				<a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;prid=59">•&nbsp;$500 - $1000 (21)</a>
 			
-				<a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;prid=60">•&nbsp;$1000 - $1500 (4)</a>
+				<a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;prid=60">•&nbsp;$1000 - $1500 (8)</a>
 			
-				<a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;prid=64">•&nbsp;Above $1500 (5)</a>
+				<a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;prid=64">•&nbsp;Above $1500 (6)</a>
 			
         </div>
-		<a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;clid=1"><strong><font color="#107EF8">&gt;&gt;&gt;&nbsp;On Sale (4)</font></strong></a>
+		<a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;clid=1"><strong><font color="#107EF8">&gt;&gt;&gt;&nbsp;On Sale (3)</font></strong></a>
 		
 
         
@@ -2217,21 +761,31 @@ $(document).ready(function() {
 	        		<ul>
 	        			<li>
                         
+                                <a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;bid=109">Brasilia (1)</a>
+                            
                                 <a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;bid=1">Capresso (1)</a>
                             
-                                <a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;bid=3">Expobar (1)</a>
+                                <a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;bid=3">Expobar (3)</a>
                             
-                                <a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;bid=5">Gaggia (12)</a>
+                                <a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;bid=4">FrancisFrancis! (2)</a>
                             
-                                <a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;bid=106">Jura Capresso (9)</a>
+                                <a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;bid=5">Gaggia (24)</a>
+                            
+                                <a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;bid=19">Illy (2)</a>
+                            
+                                <a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;bid=7">Jura (2)</a>
+                            
+                                <a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;bid=106">Jura Capresso (4)</a>
+                            
+                                <a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;bid=21">Lavazza (1)</a>
                             
                                 <a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;bid=38">Nespresso (1)</a>
                             
-                                <a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;bid=11">Rancilio (1)</a>
+                                <a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;bid=10">Pasquini (3)</a>
                             
                                 <a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;bid=98">Rocket Espresso (1)</a>
                             
-                                <a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;bid=12">Saeco (6)</a>
+                                <a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;bid=12">Saeco (12)</a>
                             
                                 <a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;bid=14">Solis (3)</a>
                             
@@ -2283,12 +837,12 @@ $(document).ready(function() {
 			
 				<a href="http://www.wholelattelove.com/commercial.cfm?cid=1&amp;prid=135">•&nbsp;$5000 - $9500 (9)</a>
 			
-				<a href="http://www.wholelattelove.com/commercial.cfm?cid=1&amp;prid=136">•&nbsp;$9500 - $12500 (17)</a>
+				<a href="http://www.wholelattelove.com/commercial.cfm?cid=1&amp;prid=136">•&nbsp;$9500 - $12500 (20)</a>
 			
-				<a href="http://www.wholelattelove.com/commercial.cfm?cid=1&amp;prid=137">•&nbsp;Above $12500 (16)</a>
+				<a href="http://www.wholelattelove.com/commercial.cfm?cid=1&amp;prid=137">•&nbsp;Above $12500 (21)</a>
 			
            </div>
-		<a href="http://www.wholelattelove.com/commercial.cfm?cid=1&amp;clid=1"><strong><font color="#107EF8">&gt;&gt;&gt;&nbsp;On Sale (3)</font></strong></a>
+		<a href="http://www.wholelattelove.com/commercial.cfm?cid=1&amp;clid=1"><strong><font color="#107EF8">&gt;&gt;&gt;&nbsp;On Sale (2)</font></strong></a>
 
 
         
@@ -2314,9 +868,11 @@ $(document).ready(function() {
 							
 								<a href="http://www.wholelattelove.com/commercial.cfm?cid=1&amp;bid=75">Franke (8)</a>
 							
-								<a href="http://www.wholelattelove.com/commercial.cfm?cid=1&amp;bid=5">Gaggia (1)</a>
+								<a href="http://www.wholelattelove.com/commercial.cfm?cid=1&amp;bid=5">Gaggia (3)</a>
 							
 								<a href="http://www.wholelattelove.com/commercial.cfm?cid=1&amp;bid=48">Grimac Royal Falcon (2)</a>
+							
+								<a href="http://www.wholelattelove.com/commercial.cfm?cid=1&amp;bid=7">Jura (1)</a>
 							
 								<a href="http://www.wholelattelove.com/commercial.cfm?cid=1&amp;bid=106">Jura Capresso (1)</a>
 							
@@ -2324,13 +880,13 @@ $(document).ready(function() {
 							
 								<a href="http://www.wholelattelove.com/commercial.cfm?cid=1&amp;bid=21">Lavazza (1)</a>
 							
-								<a href="http://www.wholelattelove.com/commercial.cfm?cid=1&amp;bid=11">Rancilio (2)</a>
+								<a href="http://www.wholelattelove.com/commercial.cfm?cid=1&amp;bid=11">Rancilio (5)</a>
 							
 								<a href="http://www.wholelattelove.com/commercial.cfm?cid=1&amp;bid=80">Rio (4)</a>
 							
 								<a href="http://www.wholelattelove.com/commercial.cfm?cid=1&amp;bid=12">Saeco (1)</a>
 							
-								<a href="http://www.wholelattelove.com/commercial.cfm?cid=1&amp;bid=120">Schaerer (1)</a>
+								<a href="http://www.wholelattelove.com/commercial.cfm?cid=1&amp;bid=120">Schaerer (4)</a>
 							
                         </li>
 	        		</ul>
@@ -2374,67 +930,14 @@ $(document).ready(function() {
 
 
 
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
 	<div id="popupadspace">
-		<a href="http://www.wholelattelove.com/sale_page.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad1_3.jpg" alt="Shop Our Sale Page - Save Up To 50%" border="0"></a>
+		<a href="http://www.wholelattelove.com/gifts.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/092611/espresso-machine-packs.jpg" alt="Shop Espresso Machine Packages" border="0"></a>
+
+<a href="http://www.wholelattelove.com/sale_page.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/100411/sale-rollover.jpg" alt="Shop Our Sale Page - Save Up To 50%" border="0"></a>
 
 
-<a href="http://www.wholelattelove.com/weekly_wow.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad2_3.jpg" alt="WOW Of The Week!" border="0"></a>
 
-
-<a href="http://www.wholelattelove.com/sitesale_espressomachine.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad3_3.jpg" alt="10% Off Sitewide With Coupon Code CAFE10" border="0"></a> 
+<a href="http://www.facebook.com/pages/Whole-Latte-Love/27654603950?sk=app_106489522792493"><img src="http://www.wholelattelove.com/Graphics/sale_landing/092611/facebookstore.jpg" alt="Save BIG at our Facebook store" border="0"></a> 
 	</div>
 
 
@@ -2442,6 +945,7 @@ $(document).ready(function() {
 
 
 	</ul>
+</li></div>
 
 
 
@@ -2452,862 +956,11 @@ $(document).ready(function() {
 
 
 
+ 
 
 
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		 
-
-
-</li><li><a href="http://www.wholelattelove.com/coffee_makers.cfm" class="navLink" id="navCoffee"><span>Coffee Makers</span></a>
+<div class="navwrapper">
+<li><a href="http://www.wholelattelove.com/coffee_makers.cfm" class="navLink" id="navCoffee"><span>Coffee Makers</span></a>
 	<ul style="margin-left: -125px;">
 	<center>
     
@@ -3321,6 +974,8 @@ $(document).ready(function() {
 		<strong>Brands</strong>
         <div id="popmulticolumn">
 		
+				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;bid=152" style="float: left; width: 110px;">•&nbsp;Aerobie Inc (1)</a>
+			
 				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;bid=30" style="float: left; width: 110px;">•&nbsp;Bodum (1)</a>
 			
 				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;bid=55" style="float: left; width: 110px;">•&nbsp;Bosch (2)</a>
@@ -3331,11 +986,15 @@ $(document).ready(function() {
 			
 				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;bid=1" style="float: left; width: 110px;">•&nbsp;Capresso (5)</a>
 			
-				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;bid=25" style="float: left; width: 110px;">•&nbsp;Cuisinart (15)</a>
+				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;bid=25" style="float: left; width: 110px;">•&nbsp;Cuisinart (16)</a>
 			
-				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;bid=73" style="float: left; width: 110px;">•&nbsp;DeLonghi (3)</a>
+				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;bid=73" style="float: left; width: 110px;">•&nbsp;DeLonghi (7)</a>
+			
+				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;bid=172" style="float: left; width: 110px;">•&nbsp;Dolce Gusto (4)</a>
 			
 				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;bid=71" style="float: left; width: 110px;">•&nbsp;Espressione (1)</a>
+			
+				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;bid=7" style="float: left; width: 110px;">•&nbsp;Jura (5)</a>
 			
 				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;bid=106" style="float: left; width: 110px;">•&nbsp;Jura Capresso (5)</a>
 			
@@ -3345,7 +1004,7 @@ $(document).ready(function() {
 			
 				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;bid=8" style="float: left; width: 110px;">•&nbsp;Krups (10)</a>
 			
-				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;bid=12" style="float: left; width: 110px;">•&nbsp;Saeco (5)</a>
+				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;bid=12" style="float: left; width: 110px;">•&nbsp;Saeco (3)</a>
 			
 				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;bid=119" style="float: left; width: 110px;">•&nbsp;Tassimo (2)</a>
 			
@@ -3362,18 +1021,18 @@ $(document).ready(function() {
     </center>
 		<strong>Price</strong>
 		
-				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;prid=65">•&nbsp;Under $50 (2)</a>
+				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;prid=65">•&nbsp;Under $50 (3)</a>
 			
-				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;prid=66">•&nbsp;$50 - $100 (27)</a>
+				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;prid=66">•&nbsp;$50 - $100 (29)</a>
 			
-				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;prid=67">•&nbsp;$100 - $150 (17)</a>
+				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;prid=67">•&nbsp;$100 - $150 (19)</a>
 			
-				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;prid=68">•&nbsp;$150 - $200 (10)</a>
+				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;prid=68">•&nbsp;$150 - $200 (9)</a>
 			
 				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;prid=69">•&nbsp;$200 - $250 (2)</a>
 			
 				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;prid=70">•&nbsp;$250 - $300 (3)</a>
-			<br><a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;clid=1"><strong><font color="#107EF8">&gt;&gt;&gt;&nbsp;On Sale (7)</font></strong></a>
+			<br><a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;clid=1"><strong><font color="#107EF8">&gt;&gt;&gt;&nbsp;On Sale (9)</font></strong></a>
 	</li>
     
 	<li style="width: 150px;">
@@ -3384,11 +1043,13 @@ $(document).ready(function() {
     </center>
 		<strong>Features</strong>
 		
-				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;vid=363" style="width:135px; float:left;">•&nbsp;Adjustable Coffee Strength (7)</a>
+				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;vid=363" style="width:135px; float:left;">•&nbsp;Adjustable Coffee Strength (8)</a>
 			
-				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;vid=337" style="width:135px; float:left;">•&nbsp;Brew Time Under 5min (7)</a>
+				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;vid=337" style="width:135px; float:left;">•&nbsp;Brew Time Under 5min (8)</a>
 			
 				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;vid=333" style="width:135px; float:left;">•&nbsp;Built in Grinder (5)</a>
+			
+				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;vid=360" style="width:135px; float:left;">•&nbsp;Built in Milk Frother (1)</a>
 			
 				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;vid=438" style="width:135px; float:left;">•&nbsp;Double Pot (1)</a>
 			
@@ -3434,7 +1095,7 @@ $(document).ready(function() {
 			
 				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;crid=25">•&nbsp;Red (1)</a>
 			
-				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;crid=27">•&nbsp;Silver (5)</a>
+				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;crid=27">•&nbsp;Silver (3)</a>
 			
 				<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;crid=22">•&nbsp;Stainless Steel (10)</a>
 			
@@ -3511,7 +1172,7 @@ $(document).ready(function() {
         
 			<strong>Price</strong>
 			
-					<a href="http://www.wholelattelove.com/commercial.cfm?cid=2&amp;prid=138">•&nbsp;Under $800 (6)</a>
+					<a href="http://www.wholelattelove.com/commercial.cfm?cid=2&amp;prid=138">•&nbsp;Under $800 (5)</a>
 				
 					<a href="http://www.wholelattelove.com/commercial.cfm?cid=2&amp;prid=139">•&nbsp;$800 - $1500 (5)</a>
 				
@@ -3535,7 +1196,7 @@ $(document).ready(function() {
 	        		<ul>
 	        			<li>
 			
-						<a href="http://www.wholelattelove.com/commercial.cfm?cid=2&amp;bid=16" style="float: left; width: 110px;">Bunn (11)</a>
+						<a href="http://www.wholelattelove.com/commercial.cfm?cid=2&amp;bid=16" style="float: left; width: 110px;">Bunn (10)</a>
 					
 						<a href="http://www.wholelattelove.com/commercial.cfm?cid=2&amp;bid=74" style="float: left; width: 110px;">Fetco (4)</a>
 					
@@ -3572,74 +1233,21 @@ $(document).ready(function() {
     <li style="width: 930px !important; border-right: none;">
 
 	
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
 		<div id="popupadspace">
-			<a href="http://www.wholelattelove.com/sale_page.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad1_3.jpg" alt="Shop Our Sale Page - Save Up To 50%" border="0"></a>
+			<a href="http://www.wholelattelove.com/gifts.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/092611/espresso-machine-packs.jpg" alt="Shop Espresso Machine Packages" border="0"></a>
+
+<a href="http://www.wholelattelove.com/sale_page.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/100411/sale-rollover.jpg" alt="Shop Our Sale Page - Save Up To 50%" border="0"></a>
 
 
-<a href="http://www.wholelattelove.com/weekly_wow.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad2_3.jpg" alt="WOW Of The Week!" border="0"></a>
 
-
-<a href="http://www.wholelattelove.com/sitesale_espressomachine.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad3_3.jpg" alt="10% Off Sitewide With Coupon Code CAFE10" border="0"></a> 
+<a href="http://www.facebook.com/pages/Whole-Latte-Love/27654603950?sk=app_106489522792493"><img src="http://www.wholelattelove.com/Graphics/sale_landing/092611/facebookstore.jpg" alt="Save BIG at our Facebook store" border="0"></a> 
 		</div>
 	
 	</li></center>
 
 
 	</ul>
-    
+    </li></div>
 
 
 
@@ -3648,1394 +1256,11 @@ $(document).ready(function() {
 	
 
 
-
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		 
+ 
  
 
-</li><li><a href="http://www.wholelattelove.com/singleserve.cfm" class="navLink" id="navSingleServes"><span>Single Serves</span></a>
+<div class="navwrapper">
+<li><a href="http://www.wholelattelove.com/singleserve.cfm" class="navLink" id="navSingleServes"><span>Single Serves</span></a>
 	<ul style="margin-left: -218px;">
 	<center>
 	
@@ -5049,9 +1274,9 @@ $(document).ready(function() {
 		<span style="width: 100px !important; float: left !important;">
 			<strong>Price</strong>
 			
-					<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;scid=31&amp;prid=66">•&nbsp;$50 - $100 (4)</a>
+					<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;scid=31&amp;prid=66">•&nbsp;$50 - $100 (5)</a>
 				
-					<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;scid=31&amp;prid=67">•&nbsp;$100 - $150 (3)</a>
+					<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;scid=31&amp;prid=67">•&nbsp;$100 - $150 (6)</a>
 				
 					<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;scid=31&amp;prid=68">•&nbsp;$150 - $200 (4)</a>
 				
@@ -5062,9 +1287,9 @@ $(document).ready(function() {
 		<span style="width: 180px !important; float: left !important;">
 			<strong>Features</strong>
 			
-					<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;scid=31&amp;vid=337">•&nbsp;Brew Time Under 5min (2)</a>
+					<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;scid=31&amp;vid=363">•&nbsp;Adjustable Coffee Strength (1)</a>
 				
-					<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;scid=31&amp;vid=333">•&nbsp;Built in Grinder (1)</a>
+					<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;scid=31&amp;vid=337">•&nbsp;Brew Time Under 5min (3)</a>
 				
 					<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;scid=31&amp;vid=304">•&nbsp;Drip Stop &amp; Serve (1)</a>
 				
@@ -5098,6 +1323,10 @@ $(document).ready(function() {
 					<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;scid=31&amp;bid=121">&nbsp;Breville (1)</a>
 				
 					<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;scid=31&amp;bid=25">&nbsp;Cuisinart (2)</a>
+				
+					<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;scid=31&amp;bid=73">&nbsp;DeLonghi (4)</a>
+				
+					<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;scid=31&amp;bid=172">&nbsp;Dolce Gusto (4)</a>
 				
 					<a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;scid=31&amp;bid=63">&nbsp;Keurig (7)</a>
 				
@@ -5135,15 +1364,17 @@ $(document).ready(function() {
 		<span style="width: 100px !important; float: left !important;">
 			<strong>Price</strong>
 			
-					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=91&amp;prid=58">•&nbsp;$50 - $500 (26)</a>
+					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=91&amp;prid=58">•&nbsp;$50 - $500 (37)</a>
 				
-					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=91&amp;prid=59">•&nbsp;$500 - $1000 (2)</a>
+					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=91&amp;prid=59">•&nbsp;$500 - $1000 (6)</a>
 				<br><a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=91&amp;clid=1"><strong><font color="#107EF8">&gt;&gt;&gt;&nbsp;On Sale (5)</font></strong></a>
 		</span>
 		<span style="width: 180px !important; float: left !important;">
 			<strong>Features</strong>
 			
-					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=91&amp;vid=237">•&nbsp;Programmable Brew Buttons (5)</a>
+					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=91&amp;vid=237">•&nbsp;Programmable Brew Buttons (7)</a>
+				
+					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=91&amp;vid=277">•&nbsp;Stainless Steel Frothing Wand (1)</a>
 				
 					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=91&amp;vid=115">•&nbsp;Stainless Steel Housing (1)</a>
 				
@@ -5167,9 +1398,11 @@ $(document).ready(function() {
 				
 					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=91&amp;bid=121">&nbsp;Breville (1)</a>
 				
-					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=91&amp;bid=73">&nbsp;DeLonghi (2)</a>
+					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=91&amp;bid=73">&nbsp;DeLonghi (8)</a>
 				
-					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=91&amp;bid=4">&nbsp;FrancisFrancis! (2)</a>
+					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=91&amp;bid=172">&nbsp;Dolce Gusto (4)</a>
+				
+					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=91&amp;bid=4">&nbsp;FrancisFrancis! (5)</a>
 				
 					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=91&amp;bid=5">&nbsp;Gaggia (1)</a>
 				
@@ -5181,7 +1414,7 @@ $(document).ready(function() {
 				
 					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=91&amp;bid=21">&nbsp;Lavazza (1)</a>
 				
-					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=91&amp;bid=38">&nbsp;Nespresso (17)</a>
+					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=91&amp;bid=38">&nbsp;Nespresso (25)</a>
 				
 					<a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=91&amp;bid=119">&nbsp;Tassimo (1)</a>
 				
@@ -5216,7 +1449,9 @@ $(document).ready(function() {
 		 	<span class="eightcolumnwrapper" style="padding-bottom: 8px;">
 			<strong>Espresso Machines</strong>
 			
-					<a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;scid=91&amp;prid=58">•&nbsp;$50 - $500 (1)</a>
+					<a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;scid=91&amp;prid=58">•&nbsp;$50 - $500 (2)</a>
+				
+					<a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;scid=91&amp;prid=59">•&nbsp;$500 - $1000 (1)</a>
 				
 			</span>
 		
@@ -5238,6 +1473,12 @@ $(document).ready(function() {
 	        			<li>
 
 		
+						<a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;scid=91&amp;bid=5">Gaggia (1)</a>
+					
+						<a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;scid=91&amp;bid=19">Illy (1)</a>
+					
+						<a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;scid=91&amp;bid=21">Lavazza (1)</a>
+					
 						<a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;scid=91&amp;bid=38">Nespresso (1)</a>
 					
 				<a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;scid=91">show all</a>
@@ -5344,67 +1585,14 @@ $(document).ready(function() {
     <li style="width: 930px !important; border-right: none;">
 
 	
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
 		<div id="popupadspace">
-			<a href="http://www.wholelattelove.com/sale_page.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad1_3.jpg" alt="Shop Our Sale Page - Save Up To 50%" border="0"></a>
+			<a href="http://www.wholelattelove.com/gifts.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/092611/espresso-machine-packs.jpg" alt="Shop Espresso Machine Packages" border="0"></a>
+
+<a href="http://www.wholelattelove.com/sale_page.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/100411/sale-rollover.jpg" alt="Shop Our Sale Page - Save Up To 50%" border="0"></a>
 
 
-<a href="http://www.wholelattelove.com/weekly_wow.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad2_3.jpg" alt="WOW Of The Week!" border="0"></a>
 
-
-<a href="http://www.wholelattelove.com/sitesale_espressomachine.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad3_3.jpg" alt="10% Off Sitewide With Coupon Code CAFE10" border="0"></a> 
+<a href="http://www.facebook.com/pages/Whole-Latte-Love/27654603950?sk=app_106489522792493"><img src="http://www.wholelattelove.com/Graphics/sale_landing/092611/facebookstore.jpg" alt="Save BIG at our Facebook store" border="0"></a> 
 		</div>
 	
 
@@ -5412,7 +1600,7 @@ $(document).ready(function() {
 
 
 	</ul>
-    
+    </li></div>
     
 	
 	
@@ -5425,805 +1613,8 @@ $(document).ready(function() {
 
 
 
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-</li><li><a href="http://www.wholelattelove.com/grinders.cfm" id="navGrinders" class="navLink"><span>Grinders</span></a>
+<div class="navwrapper">
+<li><a href="http://www.wholelattelove.com/grinders.cfm" id="navGrinders" class="navLink"><span>Grinders</span></a>
 	<ul style="margin-left: -309px;">
 	<center>
     
@@ -6235,9 +1626,9 @@ $(document).ready(function() {
     </center>
 		<strong>Brands</strong>
 		
-				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;bid=70" style="float: left; width: 103px;">•&nbsp;Baratza (4)</a>
+				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;bid=70" style="float: left; width: 103px;">•&nbsp;Baratza (5)</a>
 			
-				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;bid=30" style="float: left; width: 103px;">•&nbsp;Bodum (2)</a>
+				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;bid=30" style="float: left; width: 103px;">•&nbsp;Bodum (1)</a>
 			
 				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;bid=121" style="float: left; width: 103px;">•&nbsp;Breville (2)</a>
 			
@@ -6257,11 +1648,9 @@ $(document).ready(function() {
 			
 				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;bid=8" style="float: left; width: 103px;">•&nbsp;Krups (2)</a>
 			
-				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;bid=77" style="float: left; width: 103px;">•&nbsp;La Marzocco (1)</a>
-			
 				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;bid=9" style="float: left; width: 103px;">•&nbsp;la Pavoni (1)</a>
 			
-				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;bid=97" style="float: left; width: 103px;">•&nbsp;Macap (4)</a>
+				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;bid=97" style="float: left; width: 103px;">•&nbsp;Macap (3)</a>
 			
 				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;bid=18" style="float: left; width: 103px;">•&nbsp;Mazzer (6)</a>
 			
@@ -6279,19 +1668,19 @@ $(document).ready(function() {
     </center>
 		<strong>Price</strong>
 		
-				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;prid=72" style="float: left; width: 150px;">•&nbsp;Under $50 (7)</a>
+				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;prid=72" style="float: left; width: 150px;">•&nbsp;Under $50 (6)</a>
 			
 				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;prid=73" style="float: left; width: 150px;">•&nbsp;$50 - $100 (7)</a>
 			
-				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;prid=74" style="float: left; width: 150px;">•&nbsp;$100 - $250 (5)</a>
+				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;prid=74" style="float: left; width: 150px;">•&nbsp;$100 - $250 (6)</a>
 			
-				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;prid=75" style="float: left; width: 150px;">•&nbsp;$250 - $500 (9)</a>
+				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;prid=75" style="float: left; width: 150px;">•&nbsp;$250 - $500 (7)</a>
 			
-				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;prid=76" style="float: left; width: 150px;">•&nbsp;$500 - $1000 (13)</a>
+				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;prid=76" style="float: left; width: 150px;">•&nbsp;$500 - $1000 (14)</a>
 			
-				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;prid=77" style="float: left; width: 150px;">•&nbsp;$1000 - $1500 (2)</a>
+				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;prid=77" style="float: left; width: 150px;">•&nbsp;$1000 - $1500 (4)</a>
 			
-				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;prid=78" style="float: left; width: 150px;">•&nbsp;$1500 - $2000 (3)</a>
+				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;prid=78" style="float: left; width: 150px;">•&nbsp;$1500 - $2000 (1)</a>
 			<br><a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;clid=1"><strong><font color="#107EF8">&gt;&gt;&gt;&nbsp;On Sale (2)</font></strong></a>
 	</li>
     
@@ -6303,17 +1692,17 @@ $(document).ready(function() {
     </center>
 		<strong>Features</strong>
 		
-				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;vid=105" style="float: left; width: 150px;">•&nbsp;Bean Hopper Vol &gt; 9 oz (22)</a>
+				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;vid=105" style="float: left; width: 150px;">•&nbsp;Bean Hopper Vol &gt; 9 oz (21)</a>
 			
-				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;vid=56" style="float: left; width: 150px;">•&nbsp;Blade (3)</a>
+				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;vid=56" style="float: left; width: 150px;">•&nbsp;Blade (2)</a>
 			
-				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;vid=439" style="float: left; width: 150px;">•&nbsp;Burr (31)</a>
+				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;vid=439" style="float: left; width: 150px;">•&nbsp;Burr (30)</a>
 			
 				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;vid=107" style="float: left; width: 150px;">•&nbsp;Doser (16)</a>
 			
 				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;vid=345" style="float: left; width: 150px;">•&nbsp;Infinite Grind Settings (18)</a>
 			
-				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;vid=111" style="float: left; width: 150px;">•&nbsp;Manual Start/ Stop (19)</a>
+				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;vid=111" style="float: left; width: 150px;">•&nbsp;Manual Start/ Stop (17)</a>
 			
 				<a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;vid=608" style="float: left; width: 150px;">•&nbsp;Multiple Grind Adjustments - Yes (4)</a>
 			
@@ -6337,7 +1726,13 @@ $(document).ready(function() {
         
 			<strong>Price</strong>
 			
+					<a href="http://www.wholelattelove.com/outlet.cfm?cid=3&amp;prid=73">•&nbsp;$50 - $100 (1)</a>
+				
+					<a href="http://www.wholelattelove.com/outlet.cfm?cid=3&amp;prid=74">•&nbsp;$100 - $250 (1)</a>
+				
 					<a href="http://www.wholelattelove.com/outlet.cfm?cid=3&amp;prid=75">•&nbsp;$250 - $500 (2)</a>
+				
+					<a href="http://www.wholelattelove.com/outlet.cfm?cid=3&amp;prid=76">•&nbsp;$500 - $1000 (1)</a>
 				
         
 		
@@ -6356,7 +1751,11 @@ $(document).ready(function() {
 	        		<ul>
 	        			<li>
 		
-					<a href="http://www.wholelattelove.com/outlet.cfm?cid=3&amp;bid=5" style="float: left; width: 110px;">Gaggia (1)</a>
+					<a href="http://www.wholelattelove.com/outlet.cfm?cid=3&amp;bid=123" style="float: left; width: 110px;">Ceado (1)</a>
+				
+					<a href="http://www.wholelattelove.com/outlet.cfm?cid=3&amp;bid=5" style="float: left; width: 110px;">Gaggia (2)</a>
+				
+					<a href="http://www.wholelattelove.com/outlet.cfm?cid=3&amp;bid=97" style="float: left; width: 110px;">Macap (1)</a>
 				
 					<a href="http://www.wholelattelove.com/outlet.cfm?cid=3&amp;bid=11" style="float: left; width: 110px;">Rancilio (1)</a>
 				
@@ -6405,7 +1804,7 @@ $(document).ready(function() {
 			
 					<a href="http://www.wholelattelove.com/commercial.cfm?cid=3&amp;prid=142">•&nbsp;Under $500 (1)</a>
 				
-					<a href="http://www.wholelattelove.com/commercial.cfm?cid=3&amp;prid=143">•&nbsp;$500 - $1000 (8)</a>
+					<a href="http://www.wholelattelove.com/commercial.cfm?cid=3&amp;prid=143">•&nbsp;$500 - $1000 (7)</a>
 				
 					<a href="http://www.wholelattelove.com/commercial.cfm?cid=3&amp;prid=144">•&nbsp;$1000 - $1500 (5)</a>
 				
@@ -6437,7 +1836,7 @@ $(document).ready(function() {
 				
 					<a href="http://www.wholelattelove.com/commercial.cfm?cid=3&amp;bid=77" style="float: left; width: 110px;">La Marzocco (1)</a>
 				
-					<a href="http://www.wholelattelove.com/commercial.cfm?cid=3&amp;bid=97" style="float: left; width: 110px;">Macap (3)</a>
+					<a href="http://www.wholelattelove.com/commercial.cfm?cid=3&amp;bid=97" style="float: left; width: 110px;">Macap (2)</a>
 				
 					<a href="http://www.wholelattelove.com/commercial.cfm?cid=3&amp;bid=18" style="float: left; width: 110px;">Mazzer (6)</a>
 				
@@ -6477,67 +1876,14 @@ $(document).ready(function() {
 	<li style="width: 930px !important; border-right: none;">
 
 	
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
 		<div id="popupadspace">
-			<a href="http://www.wholelattelove.com/sale_page.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad1_3.jpg" alt="Shop Our Sale Page - Save Up To 50%" border="0"></a>
+			<a href="http://www.wholelattelove.com/gifts.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/092611/espresso-machine-packs.jpg" alt="Shop Espresso Machine Packages" border="0"></a>
+
+<a href="http://www.wholelattelove.com/sale_page.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/100411/sale-rollover.jpg" alt="Shop Our Sale Page - Save Up To 50%" border="0"></a>
 
 
-<a href="http://www.wholelattelove.com/weekly_wow.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad2_3.jpg" alt="WOW Of The Week!" border="0"></a>
 
-
-<a href="http://www.wholelattelove.com/sitesale_espressomachine.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad3_3.jpg" alt="10% Off Sitewide With Coupon Code CAFE10" border="0"></a> 
+<a href="http://www.facebook.com/pages/Whole-Latte-Love/27654603950?sk=app_106489522792493"><img src="http://www.wholelattelove.com/Graphics/sale_landing/092611/facebookstore.jpg" alt="Save BIG at our Facebook store" border="0"></a> 
 		</div>
 	
 
@@ -6545,7 +1891,7 @@ $(document).ready(function() {
 
 
 	</ul>
-    
+    </li></div>
     
     
 
@@ -6556,807 +1902,10 @@ $(document).ready(function() {
 
 
 
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
  
 
-</li><li><a href="http://www.wholelattelove.com/espresso_coffee.cfm" id="navEspressoCoffee" class="navLink"><span>Espresso Coffee</span><!--<img src="http://www.wholelattelove.com/graphics_main_banner/espresso_coffee.jpg" alt="espresso coffee" border="0">---></a>
+<div class="navwrapper">
+<li><a href="http://www.wholelattelove.com/espresso_coffee.cfm" id="navEspressoCoffee" class="navLink"><span>Espresso Coffee</span><!--<img src="http://www.wholelattelove.com/graphics_main_banner/espresso_coffee.jpg" alt="espresso coffee" border="0">---></a>
 	<ul style="margin-left: -370px;">
 	<center>
 	<li style="width: 300px;">
@@ -7367,15 +1916,21 @@ $(document).ready(function() {
 			
 				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=144" style="float: left; width: 150px;">•&nbsp;Antica Coffee &amp; Espresso  (9)</a>
 			
+				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=169" style="float: left; width: 150px;">•&nbsp;Atomic Cafe  (4)</a>
+			
 				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=55" style="float: left; width: 150px;">•&nbsp;Bosch (5)</a>
 			
 				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=49" style="float: left; width: 150px;">•&nbsp;Cafe La Semeuse (7)</a>
 			
 				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=134" style="float: left; width: 150px;">•&nbsp;Caffe D'arte (10)</a>
 			
+				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=73" style="float: left; width: 150px;">•&nbsp;DeLonghi (7)</a>
+			
+				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=172" style="float: left; width: 150px;">•&nbsp;Dolce Gusto (7)</a>
+			
 				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=69" style="float: left; width: 150px;">•&nbsp;Espresso Vivace (3)</a>
 			
-				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=133" style="float: left; width: 150px;">•&nbsp;Filicori Zecchini (6)</a>
+				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=133" style="float: left; width: 150px;">•&nbsp;Filicori Zecchini (10)</a>
 			
 				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=5" style="float: left; width: 150px;">•&nbsp;Gaggia (10)</a>
 			
@@ -7385,15 +1940,31 @@ $(document).ready(function() {
 			
 				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=68" style="float: left; width: 150px;">•&nbsp;J Martinez (4)</a>
 			
+				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=164" style="float: left; width: 150px;">•&nbsp;Johnson Brothers  (5)</a>
+			
+				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=63" style="float: left; width: 150px;">•&nbsp;Keurig (1)</a>
+			
+				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=177" style="float: left; width: 150px;">•&nbsp;Klatch Coffee (4)</a>
+			
 				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=21" style="float: left; width: 150px;">•&nbsp;Lavazza (45)</a>
 			
 				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=122" style="float: left; width: 150px;">•&nbsp;Maromas Coffees (2)</a>
 			
-				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=23" style="float: left; width: 150px;">•&nbsp;Supreme Bean (7)</a>
+				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=156" style="float: left; width: 150px;">•&nbsp;Massimo Zanetti (1)</a>
+			
+				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=167" style="float: left; width: 150px;">•&nbsp;Paradise Coffee Roasters (5)</a>
+			
+				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=162" style="float: left; width: 150px;">•&nbsp;Pellini Caffe (4)</a>
+			
+				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=155" style="float: left; width: 150px;">•&nbsp;Segafredo Zanetti (11)</a>
+			
+				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=23" style="float: left; width: 150px;">•&nbsp;Supreme Bean (6)</a>
 			
 				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=119" style="float: left; width: 150px;">•&nbsp;Tassimo (5)</a>
 			
-				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=46" style="float: left; width: 150px;">•&nbsp;Whole Latte Love (9)</a>
+				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=159" style="float: left; width: 150px;">•&nbsp;Torrefazione Settebello  (4)</a>
+			
+				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;bid=46" style="float: left; width: 150px;">•&nbsp;Whole Latte Love (10)</a>
 			
 	</li>
 
@@ -7401,33 +1972,35 @@ $(document).ready(function() {
     <center><a href="http://www.wholelattelove.com/espresso_coffee.cfm"><img src="http://www.wholelattelove.com/graphics_buttons2008/2010_espresso_coffee_price.jpg" border="0"></a></center>
 		<strong>Price</strong>
 		
-				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;prid=121" style="float: left; width: 150px;">•&nbsp;Under $25 (86)</a>
+				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;prid=121" style="float: left; width: 150px;">•&nbsp;Under $25 (131)</a>
 			
-				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;prid=122" style="float: left; width: 150px;">•&nbsp;$25 - $50 (34)</a>
+				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;prid=122" style="float: left; width: 150px;">•&nbsp;$25 - $50 (36)</a>
 			
-				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;prid=123" style="float: left; width: 150px;">•&nbsp;$50 - $100 (22)</a>
-			<br><a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;clid=1"><strong><font color="#107EF8">&gt;&gt;&gt;&nbsp;On Sale (13)</font></strong></a><br><br><br><br>
+				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;prid=123" style="float: left; width: 150px;">•&nbsp;$50 - $100 (23)</a>
+			<br><a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;clid=1"><strong><font color="#107EF8">&gt;&gt;&gt;&nbsp;On Sale (12)</font></strong></a><br><br><br><br>
 	</li>
 
 	<li style="width: 200px;">
     <center><a href="http://www.wholelattelove.com/espresso_coffee.cfm"><img src="http://www.wholelattelove.com/graphics_buttons2008/2010_espresso_coffee_subcategories.jpg" border="0"></a></center>
 		<strong>Subcategories</strong>
 		
-				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;scid=106" style="float: left; width: 150px;">•&nbsp;Capsules &amp; Cartridges (16)</a>
+				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;scid=106" style="float: left; width: 150px;">•&nbsp;Capsules &amp; Cartridges (23)</a>
 			
-				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;scid=102" style="float: left; width: 150px;">•&nbsp;Coffee Packages (20)</a>
+				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;scid=102" style="float: left; width: 150px;">•&nbsp;Coffee Packages (24)</a>
 			
-				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;scid=103" style="float: left; width: 150px;">•&nbsp;Decaffeinated (20)</a>
+				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;scid=103" style="float: left; width: 150px;">•&nbsp;Decaffeinated (21)</a>
 			
-				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;scid=101" style="float: left; width: 150px;">•&nbsp;Ground (19)</a>
+				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;scid=101" style="float: left; width: 150px;">•&nbsp;Ground (26)</a>
 			
-				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;scid=104" style="float: left; width: 150px;">•&nbsp;Organic (18)</a>
+				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;scid=107" style="float: left; width: 150px;">•&nbsp;K-Cups (1)</a>
 			
-				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;scid=105" style="float: left; width: 150px;">•&nbsp;Pods (16)</a>
+				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;scid=104" style="float: left; width: 150px;">•&nbsp;Organic (17)</a>
+			
+				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;scid=105" style="float: left; width: 150px;">•&nbsp;Pods (18)</a>
 			
 				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;scid=108" style="float: left; width: 150px;">•&nbsp;T-Disc (5)</a>
 			
-				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;scid=100" style="float: left; width: 150px;">•&nbsp;Whole Bean (65)</a>
+				<a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;scid=100" style="float: left; width: 150px;">•&nbsp;Whole Bean (93)</a>
 			
 	</li>
 	
@@ -7571,67 +2144,14 @@ $(document).ready(function() {
     <li style="width: 930px !important; border-right: none;">
 
 	
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
 		<div id="popupadspace">
-			<a href="http://www.wholelattelove.com/sale_page.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad1_3.jpg" alt="Shop Our Sale Page - Save Up To 50%" border="0"></a>
+			<a href="http://www.wholelattelove.com/gifts.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/092611/espresso-machine-packs.jpg" alt="Shop Espresso Machine Packages" border="0"></a>
+
+<a href="http://www.wholelattelove.com/sale_page.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/100411/sale-rollover.jpg" alt="Shop Our Sale Page - Save Up To 50%" border="0"></a>
 
 
-<a href="http://www.wholelattelove.com/weekly_wow.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad2_3.jpg" alt="WOW Of The Week!" border="0"></a>
 
-
-<a href="http://www.wholelattelove.com/sitesale_espressomachine.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad3_3.jpg" alt="10% Off Sitewide With Coupon Code CAFE10" border="0"></a> 
+<a href="http://www.facebook.com/pages/Whole-Latte-Love/27654603950?sk=app_106489522792493"><img src="http://www.wholelattelove.com/Graphics/sale_landing/092611/facebookstore.jpg" alt="Save BIG at our Facebook store" border="0"></a> 
 		</div>
 	
 
@@ -7639,7 +2159,7 @@ $(document).ready(function() {
 
 
 	</ul>
-    
+    </li></div>
 
 
 
@@ -7647,807 +2167,10 @@ $(document).ready(function() {
 
 
 
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
  
 
-</li><li><a href="http://www.wholelattelove.com/drip_coffee.cfm" id="navDrip" class="navLink"><span>Drip Coffee</span><!--<img src="http://www.wholelattelove.com/graphics_main_banner/drip_coffee.jpg" alt="drip coffee" border="0">---></a>
+<div class="navwrapper">
+<li><a href="http://www.wholelattelove.com/drip_coffee.cfm" id="navDrip" class="navLink"><span>Drip Coffee</span><!--<img src="http://www.wholelattelove.com/graphics_main_banner/drip_coffee.jpg" alt="drip coffee" border="0">---></a>
 	<ul style="margin-left: -479px;">
 	<center>
     
@@ -8459,31 +2182,45 @@ $(document).ready(function() {
 			
 				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=144" style="float: left; width: 150px;">•&nbsp;Antica Coffee &amp; Espresso  (3)</a>
 			
+				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=169" style="float: left; width: 150px;">•&nbsp;Atomic Cafe  (8)</a>
+			
 				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=30" style="float: left; width: 150px;">•&nbsp;Bodum (1)</a>
 			
-				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=55" style="float: left; width: 150px;">•&nbsp;Bosch (7)</a>
+				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=55" style="float: left; width: 150px;">•&nbsp;Bosch (5)</a>
 			
 				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=49" style="float: left; width: 150px;">•&nbsp;Cafe La Semeuse (7)</a>
 			
 				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=134" style="float: left; width: 150px;">•&nbsp;Caffe D'arte (12)</a>
 			
+				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=73" style="float: left; width: 150px;">•&nbsp;DeLonghi (7)</a>
+			
+				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=172" style="float: left; width: 150px;">•&nbsp;Dolce Gusto (7)</a>
+			
 				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=133" style="float: left; width: 150px;">•&nbsp;Filicori Zecchini (1)</a>
 			
 				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=116" style="float: left; width: 150px;">•&nbsp;Gevalia (5)</a>
 			
-				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=19" style="float: left; width: 150px;">•&nbsp;Illy (8)</a>
+				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=19" style="float: left; width: 150px;">•&nbsp;Illy (9)</a>
 			
 				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=68" style="float: left; width: 150px;">•&nbsp;J Martinez (13)</a>
 			
-				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=63" style="float: left; width: 150px;">•&nbsp;Keurig (16)</a>
+				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=164" style="float: left; width: 150px;">•&nbsp;Johnson Brothers  (4)</a>
 			
-				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=21" style="float: left; width: 150px;">•&nbsp;Lavazza (12)</a>
+				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=63" style="float: left; width: 150px;">•&nbsp;Keurig (23)</a>
 			
-				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=118" style="float: left; width: 150px;">•&nbsp;Starbucks Coffee (2)</a>
+				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=177" style="float: left; width: 150px;">•&nbsp;Klatch Coffee (5)</a>
 			
-				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=23" style="float: left; width: 150px;">•&nbsp;Supreme Bean (3)</a>
+				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=21" style="float: left; width: 150px;">•&nbsp;Lavazza (21)</a>
 			
-				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=119" style="float: left; width: 150px;">•&nbsp;Tassimo (7)</a>
+				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=167" style="float: left; width: 150px;">•&nbsp;Paradise Coffee Roasters (10)</a>
+			
+				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=162" style="float: left; width: 150px;">•&nbsp;Pellini Caffe (2)</a>
+			
+				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=155" style="float: left; width: 150px;">•&nbsp;Segafredo Zanetti (3)</a>
+			
+				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=23" style="float: left; width: 150px;">•&nbsp;Supreme Bean (2)</a>
+			
+				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=119" style="float: left; width: 150px;">•&nbsp;Tassimo (5)</a>
 			
 				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;bid=46" style="float: left; width: 150px;">•&nbsp;Whole Latte Love (3)</a>
 			
@@ -8493,35 +2230,37 @@ $(document).ready(function() {
     <center><a href="http://www.wholelattelove.com/drip_coffee.cfm"><img src="http://www.wholelattelove.com/graphics_buttons2008/2010_drip_coffee_price.jpg" border="0"></a></center>
 		<strong>Price</strong>
 		
-				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;prid=125" style="float: left; width: 150px;">•&nbsp;Under $25 (86)</a>
+				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;prid=125" style="float: left; width: 150px;">•&nbsp;Under $25 (139)</a>
 			
-				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;prid=126" style="float: left; width: 150px;">•&nbsp;$25 - $50 (23)</a>
+				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;prid=126" style="float: left; width: 150px;">•&nbsp;$25 - $50 (24)</a>
 			
 				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;prid=127" style="float: left; width: 150px;">•&nbsp;$50 - $100 (4)</a>
 			
 				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;prid=128" style="float: left; width: 150px;">•&nbsp;Above $100 (1)</a>
-			<br><a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;clid=1"><strong><font color="#107EF8">&gt;&gt;&gt;&nbsp;On Sale (10)</font></strong></a>
+			<br><a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;clid=1"><strong><font color="#107EF8">&gt;&gt;&gt;&nbsp;On Sale (17)</font></strong></a>
 	</li>
 
 	<li style="width: 160px;">
     <center><a href="http://www.wholelattelove.com/drip_coffee.cfm"><img src="http://www.wholelattelove.com/graphics_buttons2008/2010_drip_coffee_subcategories.jpg" border="0"></a></center>
 		<strong>Subcategories</strong>
 		
-				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;scid=111" style="float: left; width: 150px;">•&nbsp;Coffee Packages (14)</a>
+				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;scid=115" style="float: left; width: 150px;">•&nbsp;Capsules &amp; Cartridges (7)</a>
 			
-				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;scid=112" style="float: left; width: 150px;">•&nbsp;Decaffeinated (13)</a>
+				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;scid=111" style="float: left; width: 150px;">•&nbsp;Coffee Packages (15)</a>
 			
-				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;scid=110" style="float: left; width: 150px;">•&nbsp;Ground (27)</a>
+				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;scid=112" style="float: left; width: 150px;">•&nbsp;Decaffeinated (14)</a>
 			
-				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;scid=116" style="float: left; width: 150px;">•&nbsp;K-Cups (16)</a>
+				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;scid=110" style="float: left; width: 150px;">•&nbsp;Ground (35)</a>
 			
-				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;scid=113" style="float: left; width: 150px;">•&nbsp;Organic (31)</a>
+				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;scid=116" style="float: left; width: 150px;">•&nbsp;K-Cups (23)</a>
+			
+				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;scid=113" style="float: left; width: 150px;">•&nbsp;Organic (30)</a>
 			
 				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;scid=114" style="float: left; width: 150px;">•&nbsp;Pods (6)</a>
 			
-				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;scid=117" style="float: left; width: 150px;">•&nbsp;T-Disc (7)</a>
+				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;scid=117" style="float: left; width: 150px;">•&nbsp;T-Disc (5)</a>
 			
-				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;scid=109" style="float: left; width: 150px;">•&nbsp;Whole Bean (44)</a>
+				<a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;scid=109" style="float: left; width: 150px;">•&nbsp;Whole Bean (78)</a>
 			
 	</li>
 	
@@ -8615,7 +2354,7 @@ $(document).ready(function() {
 				
 					<a href="http://www.wholelattelove.com/commercial.cfm?cid=36&amp;scid=114" style="float: left; width: 150px;">•&nbsp;Pods (1)</a>
 				
-					<a href="http://www.wholelattelove.com/commercial.cfm?cid=36&amp;scid=109" style="float: left; width: 150px;">•&nbsp;Whole Bean (2)</a>
+					<a href="http://www.wholelattelove.com/commercial.cfm?cid=36&amp;scid=109" style="float: left; width: 150px;">•&nbsp;Whole Bean (5)</a>
 				
 
         
@@ -8636,7 +2375,7 @@ $(document).ready(function() {
 		
 					<a href="http://www.wholelattelove.com/commercial.cfm?cid=36&amp;bid=72" style="float: left; width: 110px;">Aloha Island (1)</a>
 				
-					<a href="http://www.wholelattelove.com/commercial.cfm?cid=36&amp;bid=21" style="float: left; width: 110px;">Lavazza (1)</a>
+					<a href="http://www.wholelattelove.com/commercial.cfm?cid=36&amp;bid=21" style="float: left; width: 110px;">Lavazza (4)</a>
 				
 					<a href="http://www.wholelattelove.com/commercial.cfm?cid=36&amp;bid=46" style="float: left; width: 110px;">Whole Latte Love (2)</a>
 				
@@ -8672,74 +2411,21 @@ $(document).ready(function() {
     <li style="width: 930px !important; border-right: none;">
 
 	
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
 		<div id="popupadspace">
-			<a href="http://www.wholelattelove.com/sale_page.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad1_3.jpg" alt="Shop Our Sale Page - Save Up To 50%" border="0"></a>
+			<a href="http://www.wholelattelove.com/gifts.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/092611/espresso-machine-packs.jpg" alt="Shop Espresso Machine Packages" border="0"></a>
+
+<a href="http://www.wholelattelove.com/sale_page.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/100411/sale-rollover.jpg" alt="Shop Our Sale Page - Save Up To 50%" border="0"></a>
 
 
-<a href="http://www.wholelattelove.com/weekly_wow.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad2_3.jpg" alt="WOW Of The Week!" border="0"></a>
 
-
-<a href="http://www.wholelattelove.com/sitesale_espressomachine.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad3_3.jpg" alt="10% Off Sitewide With Coupon Code CAFE10" border="0"></a> 
+<a href="http://www.facebook.com/pages/Whole-Latte-Love/27654603950?sk=app_106489522792493"><img src="http://www.wholelattelove.com/Graphics/sale_landing/092611/facebookstore.jpg" alt="Save BIG at our Facebook store" border="0"></a> 
 		</div>
 	
 	</li></center>
 
 
 	</ul>
-    
+    </li></div>
 
 
 
@@ -8748,753 +2434,9 @@ $(document).ready(function() {
 
 
 
-	
-	
-	
 
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-
-</li><li><a href="http://www.wholelattelove.com/syrups.cfm" id="navSyrups" class="navLink"><span>Syrups and Drinks</span><!--<img src="http://www.wholelattelove.com/graphics_main_banner/syrups_drinks.jpg" alt="syrups and drinks" border="0">---></a>
+<div class="navwrapper">
+<li><a href="http://www.wholelattelove.com/syrups.cfm" id="navSyrups" class="navLink"><span>Syrups and Drinks</span><!--<img src="http://www.wholelattelove.com/graphics_main_banner/syrups_drinks.jpg" alt="syrups and drinks" border="0">---></a>
 	<ul style="margin-left: -554px;">
 	<center>
     
@@ -9518,6 +2460,8 @@ $(document).ready(function() {
 			
 				<a href="http://www.wholelattelove.com/syrups.cfm?cid=37&amp;bid=36" style="float: left; width: 150px;">•&nbsp;Monin Syrup (7)</a>
 			
+				<a href="http://www.wholelattelove.com/syrups.cfm?cid=37&amp;bid=161" style="float: left; width: 150px;">•&nbsp;Stirling (2)</a>
+			
 				<a href="http://www.wholelattelove.com/syrups.cfm?cid=37&amp;bid=119" style="float: left; width: 150px;">•&nbsp;Tassimo (2)</a>
 			
 				<a href="http://www.wholelattelove.com/syrups.cfm?cid=37&amp;bid=117" style="float: left; width: 150px;">•&nbsp;Twinings (1)</a>
@@ -9534,16 +2478,16 @@ $(document).ready(function() {
 	<span style="width: 245px !important; float: left;">
 		<strong>Price</strong>
 		
-				<a href="http://www.wholelattelove.com/syrups.cfm?cid=37&amp;prid=117" style="float: left; width: 150px;">•&nbsp;Under $10 (3)</a>
+				<a href="http://www.wholelattelove.com/syrups.cfm?cid=37&amp;prid=117" style="float: left; width: 150px;">•&nbsp;Under $10 (7)</a>
 			
-				<a href="http://www.wholelattelove.com/syrups.cfm?cid=37&amp;prid=118" style="float: left; width: 150px;">•&nbsp;$10 - $20 (8)</a>
+				<a href="http://www.wholelattelove.com/syrups.cfm?cid=37&amp;prid=118" style="float: left; width: 150px;">•&nbsp;$10 - $20 (6)</a>
 			
 				<a href="http://www.wholelattelove.com/syrups.cfm?cid=37&amp;prid=119" style="float: left; width: 150px;">•&nbsp;$20 - $30 (3)</a>
 			
 				<a href="http://www.wholelattelove.com/syrups.cfm?cid=37&amp;prid=129" style="float: left; width: 150px;">•&nbsp;$30 - $40 (1)</a>
 			
 				<a href="http://www.wholelattelove.com/syrups.cfm?cid=37&amp;prid=120" style="float: left; width: 150px;">•&nbsp;Above $40 (1)</a>
-			<br><a href="http://www.wholelattelove.com/syrups.cfm?cid=37&amp;clid=1"><strong><font color="#107EF8">&gt;&gt;&gt;&nbsp;On Sale (6)</font></strong></a>
+			<br><a href="http://www.wholelattelove.com/syrups.cfm?cid=37&amp;clid=1"><strong><font color="#107EF8">&gt;&gt;&gt;&nbsp;On Sale (8)</font></strong></a>
 	</span>
     
 
@@ -9683,67 +2627,14 @@ $(document).ready(function() {
 	<li style="width: 930px !important; border-right: none;">
 
 	
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
 		<div id="popupadspace">
-			<a href="http://www.wholelattelove.com/sale_page.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad1_3.jpg" alt="Shop Our Sale Page - Save Up To 50%" border="0"></a>
+			<a href="http://www.wholelattelove.com/gifts.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/092611/espresso-machine-packs.jpg" alt="Shop Espresso Machine Packages" border="0"></a>
+
+<a href="http://www.wholelattelove.com/sale_page.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/100411/sale-rollover.jpg" alt="Shop Our Sale Page - Save Up To 50%" border="0"></a>
 
 
-<a href="http://www.wholelattelove.com/weekly_wow.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad2_3.jpg" alt="WOW Of The Week!" border="0"></a>
 
-
-<a href="http://www.wholelattelove.com/sitesale_espressomachine.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad3_3.jpg" alt="10% Off Sitewide With Coupon Code CAFE10" border="0"></a> 
+<a href="http://www.facebook.com/pages/Whole-Latte-Love/27654603950?sk=app_106489522792493"><img src="http://www.wholelattelove.com/Graphics/sale_landing/092611/facebookstore.jpg" alt="Save BIG at our Facebook store" border="0"></a> 
 		</div>
 	
 
@@ -9751,7 +2642,7 @@ $(document).ready(function() {
 
 
 	</ul>
-    
+    </li></div>
 
 
 
@@ -9761,700 +2652,9 @@ $(document).ready(function() {
 
 
 
-	
-	
-	
 
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-
-</li><li><a href="http://www.wholelattelove.com/tea.cfm" id="navTea" class="navLink"><span>Tea</span><!--<img src="http://www.wholelattelove.com/graphics_main_banner/tea.jpg" alt="tea" border="0">---></a>
+<div class="navwrapper">
+<li><a href="http://www.wholelattelove.com/tea.cfm" id="navTea" class="navLink"><span>Tea</span><!--<img src="http://www.wholelattelove.com/graphics_main_banner/tea.jpg" alt="tea" border="0">---></a>
 	<ul style="margin-left: -647px;">
 	
     <center>
@@ -10473,17 +2673,23 @@ $(document).ready(function() {
 			
 				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;bid=55" style="float: left; width: 117px;">•&nbsp;Bosch (2)</a>
 			
-				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;bid=121" style="float: left; width: 117px;">•&nbsp;Breville (2)</a>
+				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;bid=121" style="float: left; width: 117px;">•&nbsp;Breville (4)</a>
 			
-				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;bid=1" style="float: left; width: 117px;">•&nbsp;Capresso (2)</a>
+				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;bid=1" style="float: left; width: 117px;">•&nbsp;Capresso (3)</a>
 			
-				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;bid=25" style="float: left; width: 117px;">•&nbsp;Cuisinart (2)</a>
+				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;bid=25" style="float: left; width: 117px;">•&nbsp;Cuisinart (3)</a>
+			
+				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;bid=73" style="float: left; width: 117px;">•&nbsp;DeLonghi (2)</a>
+			
+				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;bid=172" style="float: left; width: 117px;">•&nbsp;Dolce Gusto (2)</a>
 			
 				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;bid=71" style="float: left; width: 117px;">•&nbsp;Espressione (1)</a>
 			
 				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;bid=114" style="float: left; width: 117px;">•&nbsp;Frieling (1)</a>
 			
-				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;bid=106" style="float: left; width: 117px;">•&nbsp;Jura Capresso (2)</a>
+				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;bid=7" style="float: left; width: 117px;">•&nbsp;Jura (2)</a>
+			
+				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;bid=106" style="float: left; width: 117px;">•&nbsp;Jura Capresso (3)</a>
 			
 				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;bid=63" style="float: left; width: 117px;">•&nbsp;Keurig (4)</a>
 			
@@ -10515,27 +2721,27 @@ $(document).ready(function() {
 		
 				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=46" style="float: left; width: 150px;">•&nbsp;Bag (6)</a>
 			
-				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=47" style="float: left; width: 150px;">•&nbsp;Capsules &amp; Cartridges (12)</a>
+				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=47" style="float: left; width: 150px;">•&nbsp;Capsules &amp; Cartridges (14)</a>
 			
 				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=78" style="float: left; width: 150px;">•&nbsp;Cups (5)</a>
 			
 				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=49" style="float: left; width: 150px;">•&nbsp;Flowering Tea (2)</a>
 			
-				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=74" style="float: left; width: 150px;">•&nbsp;Gift Sets (11)</a>
+				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=74" style="float: left; width: 150px;">•&nbsp;Gift Sets (10)</a>
 			
-				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=79" style="float: left; width: 150px;">•&nbsp;Glassware (19)</a>
+				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=79" style="float: left; width: 150px;">•&nbsp;Glassware (18)</a>
 			
-				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=80" style="float: left; width: 150px;">•&nbsp;Hot Water Kettles (12)</a>
+				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=80" style="float: left; width: 150px;">•&nbsp;Hot Water Kettles (14)</a>
 			
 				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=81" style="float: left; width: 150px;">•&nbsp;Infusers (1)</a>
 			
-				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=90" style="float: left; width: 150px;">•&nbsp;Loose Leaf Tea (9)</a>
+				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=90" style="float: left; width: 150px;">•&nbsp;Loose Leaf Tea (8)</a>
 			
-				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=82" style="float: left; width: 150px;">•&nbsp;Pots (13)</a>
+				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=82" style="float: left; width: 150px;">•&nbsp;Pots (14)</a>
 			
 				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=75" style="float: left; width: 150px;">•&nbsp;Tea Accessories (3)</a>
 			
-				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=76" style="float: left; width: 150px;">•&nbsp;Tea Brewers (6)</a>
+				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=76" style="float: left; width: 150px;">•&nbsp;Tea Brewers (7)</a>
 			
 				<a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=84" style="float: left; width: 150px;">•&nbsp;Tea Press (3)</a>
 			
@@ -10690,67 +2896,14 @@ $(document).ready(function() {
     <li style="width: 930px !important; border-right: none;">
 
 	
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
 		<div id="popupadspace">
-			<a href="http://www.wholelattelove.com/sale_page.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad1_3.jpg" alt="Shop Our Sale Page - Save Up To 50%" border="0"></a>
+			<a href="http://www.wholelattelove.com/gifts.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/092611/espresso-machine-packs.jpg" alt="Shop Espresso Machine Packages" border="0"></a>
+
+<a href="http://www.wholelattelove.com/sale_page.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/100411/sale-rollover.jpg" alt="Shop Our Sale Page - Save Up To 50%" border="0"></a>
 
 
-<a href="http://www.wholelattelove.com/weekly_wow.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad2_3.jpg" alt="WOW Of The Week!" border="0"></a>
 
-
-<a href="http://www.wholelattelove.com/sitesale_espressomachine.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad3_3.jpg" alt="10% Off Sitewide With Coupon Code CAFE10" border="0"></a> 
+<a href="http://www.facebook.com/pages/Whole-Latte-Love/27654603950?sk=app_106489522792493"><img src="http://www.wholelattelove.com/Graphics/sale_landing/092611/facebookstore.jpg" alt="Save BIG at our Facebook store" border="0"></a> 
 		</div>
 	
 
@@ -10758,6 +2911,7 @@ $(document).ready(function() {
 
 
 	</ul>
+</li></div>
 
 
 
@@ -10768,609 +2922,31 @@ $(document).ready(function() {
 
 
 
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-
-</li><li><a href="http://www.wholelattelove.com/accessories.cfm" id="navAccessories" class="navLink"><span>Accessories</span><!--<img src="http://www.wholelattelove.com/graphics_main_banner/accessories.jpg" alt="accessories" border="0">---></a>
+<div class="navwrapper">
+<li><a href="http://www.wholelattelove.com/accessories.cfm" id="navAccessories" class="navLink"><span>Accessories</span><!--<img src="http://www.wholelattelove.com/graphics_main_banner/accessories.jpg" alt="accessories" border="0">---></a>
 	<ul style="margin-left: -676px;">
 	<center>
     <li style="width: 300px;">
     <center><a href="http://www.wholelattelove.com/accessories.cfm"><img src="http://www.wholelattelove.com/graphics_buttons2008/2010_accessories_brands.jpg" border="0"></a></center>
 		<strong>Brands</strong>
 		
-				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=30" style="float: left; width: 150px;">•&nbsp;Bodum (19)</a>
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=152" style="float: left; width: 150px;">•&nbsp;Aerobie Inc (1)</a>
+			
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=70" style="float: left; width: 150px;">•&nbsp;Baratza (1)</a>
+			
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=30" style="float: left; width: 150px;">•&nbsp;Bodum (17)</a>
 			
 				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=43" style="float: left; width: 150px;">•&nbsp;Bonjour (4)</a>
 			
-				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=55" style="float: left; width: 150px;">•&nbsp;Bosch (1)</a>
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=55" style="float: left; width: 150px;">•&nbsp;Bosch (2)</a>
 			
 				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=16" style="float: left; width: 150px;">•&nbsp;Bunn (1)</a>
 			
-				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=1" style="float: left; width: 150px;">•&nbsp;Capresso (5)</a>
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=1" style="float: left; width: 150px;">•&nbsp;Capresso (4)</a>
+			
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=150" style="float: left; width: 150px;">•&nbsp;Coffeevac  (3)</a>
+			
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=25" style="float: left; width: 150px;">•&nbsp;Cuisinart (1)</a>
 			
 				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=107" style="float: left; width: 150px;">•&nbsp;Durgol (2)</a>
 			
@@ -11380,11 +2956,15 @@ $(document).ready(function() {
 			
 				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=69" style="float: left; width: 150px;">•&nbsp;Espresso Vivace (1)</a>
 			
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=153" style="float: left; width: 150px;">•&nbsp;Espro (3)</a>
+			
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=3" style="float: left; width: 150px;">•&nbsp;Expobar (1)</a>
+			
 				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=4" style="float: left; width: 150px;">•&nbsp;FrancisFrancis! (1)</a>
 			
 				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=114" style="float: left; width: 150px;">•&nbsp;Frieling (4)</a>
 			
-				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=5" style="float: left; width: 150px;">•&nbsp;Gaggia (4)</a>
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=5" style="float: left; width: 150px;">•&nbsp;Gaggia (5)</a>
 			
 				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=85" style="float: left; width: 150px;">•&nbsp;Ghirardelli (1)</a>
 			
@@ -11392,13 +2972,17 @@ $(document).ready(function() {
 			
 				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=19" style="float: left; width: 150px;">•&nbsp;Illy (4)</a>
 			
-				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=106" style="float: left; width: 150px;">•&nbsp;Jura Capresso (5)</a>
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=7" style="float: left; width: 150px;">•&nbsp;Jura (5)</a>
 			
-				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=63" style="float: left; width: 150px;">•&nbsp;Keurig (3)</a>
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=106" style="float: left; width: 150px;">•&nbsp;Jura Capresso (4)</a>
+			
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=63" style="float: left; width: 150px;">•&nbsp;Keurig (8)</a>
 			
 				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=59" style="float: left; width: 150px;">•&nbsp;KitchenAid (3)</a>
 			
-				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=8" style="float: left; width: 150px;">•&nbsp;Krups (3)</a>
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=149" style="float: left; width: 150px;">•&nbsp;Konitz (11)</a>
+			
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=8" style="float: left; width: 150px;">•&nbsp;Krups (4)</a>
 			
 				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=77" style="float: left; width: 150px;">•&nbsp;La Marzocco (1)</a>
 			
@@ -11412,11 +2996,15 @@ $(document).ready(function() {
 			
 				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=36" style="float: left; width: 150px;">•&nbsp;Monin Syrup (2)</a>
 			
-				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=38" style="float: left; width: 150px;">•&nbsp;Nespresso (1)</a>
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=38" style="float: left; width: 150px;">•&nbsp;Nespresso (2)</a>
+			
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=151" style="float: left; width: 150px;">•&nbsp;Nifty Home Products Inc  (8)</a>
 			
 				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=91" style="float: left; width: 150px;">•&nbsp;Our Name is Mud (3)</a>
 			
-				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=10" style="float: left; width: 150px;">•&nbsp;Pasquini (4)</a>
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=108" style="float: left; width: 150px;">•&nbsp;Pallo (3)</a>
+			
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=10" style="float: left; width: 150px;">•&nbsp;Pasquini (5)</a>
 			
 				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=11" style="float: left; width: 150px;">•&nbsp;Rancilio (2)</a>
 			
@@ -11424,25 +3012,25 @@ $(document).ready(function() {
 			
 				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=34" style="float: left; width: 150px;">•&nbsp;Reg Barber (2)</a>
 			
-				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=67" style="float: left; width: 150px;">•&nbsp;Ritzenhoff (11)</a>
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=67" style="float: left; width: 150px;">•&nbsp;Ritzenhoff (5)</a>
 			
 				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=98" style="float: left; width: 150px;">•&nbsp;Rocket Espresso (1)</a>
 			
 				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=90" style="float: left; width: 150px;">•&nbsp;Rosanna (2)</a>
 			
-				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=12" style="float: left; width: 150px;">•&nbsp;Saeco (3)</a>
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=12" style="float: left; width: 150px;">•&nbsp;Saeco (4)</a>
 			
-				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=14" style="float: left; width: 150px;">•&nbsp;Solis (1)</a>
-			
-				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=119" style="float: left; width: 150px;">•&nbsp;Tassimo (1)</a>
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=119" style="float: left; width: 150px;">•&nbsp;Tassimo (3)</a>
 			
 				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=84" style="float: left; width: 150px;">•&nbsp;Teaposy (1)</a>
 			
-				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=64" style="float: left; width: 150px;">•&nbsp;Urnex (4)</a>
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=64" style="float: left; width: 150px;">•&nbsp;Urnex (5)</a>
+			
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=127" style="float: left; width: 150px;">•&nbsp;Vacu Vin (1)</a>
 			
 				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=112" style="float: left; width: 150px;">•&nbsp;Waechtersbach (22)</a>
 			
-				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=46" style="float: left; width: 150px;">•&nbsp;Whole Latte Love (53)</a>
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;bid=46" style="float: left; width: 150px;">•&nbsp;Whole Latte Love (48)</a>
 			
 	</li>
 	</center>
@@ -11452,7 +3040,7 @@ $(document).ready(function() {
     <center><a href="http://www.wholelattelove.com/accessories.cfm"><img src="http://www.wholelattelove.com/graphics_buttons2008/2010_accessories_subcategories.jpg" border="0"></a></center>
 		<strong>Subcategories</strong>
 		
-				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=6" style="float: left; width: 150px;">•&nbsp;Accessories (32)</a>
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=6" style="float: left; width: 150px;">•&nbsp;Accessories (41)</a>
 			
 				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=61" style="float: left; width: 150px;">•&nbsp;Bases (5)</a>
 			
@@ -11464,27 +3052,27 @@ $(document).ready(function() {
 			
 				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=9" style="float: left; width: 150px;">•&nbsp;Combo Deals (6)</a>
 			
-				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=8" style="float: left; width: 150px;">•&nbsp;Cups (77)</a>
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=8" style="float: left; width: 150px;">•&nbsp;Cups (70)</a>
 			
 				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=92" style="float: left; width: 150px;">•&nbsp;Dessertware (4)</a>
 			
 				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=99" style="float: left; width: 150px;">•&nbsp;Glass Carafes (3)</a>
 			
-				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=21" style="float: left; width: 150px;">•&nbsp;Kitchen Tools (48)</a>
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=21" style="float: left; width: 150px;">•&nbsp;Kitchen Tools (52)</a>
 			
 				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=64" style="float: left; width: 150px;">•&nbsp;Learning Tools (4)</a>
 			
 				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=11" style="float: left; width: 150px;">•&nbsp;Parts (5)</a>
 			
-				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=65" style="float: left; width: 150px;">•&nbsp;Serving Tools (14)</a>
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=65" style="float: left; width: 150px;">•&nbsp;Serving Tools (13)</a>
 			
-				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=66" style="float: left; width: 150px;">•&nbsp;Sets &amp; Packages (8)</a>
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=66" style="float: left; width: 150px;">•&nbsp;Sets &amp; Packages (7)</a>
 			
-				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=67" style="float: left; width: 150px;">•&nbsp;Storage (13)</a>
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=67" style="float: left; width: 150px;">•&nbsp;Storage (18)</a>
 			
 				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=10" style="float: left; width: 150px;">•&nbsp;Syrups &amp; Mixes (3)</a>
 			
-				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=12" style="float: left; width: 150px;">•&nbsp;Tampers (11)</a>
+				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=12" style="float: left; width: 150px;">•&nbsp;Tampers (13)</a>
 			
 				<a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=93" style="float: left; width: 150px;">•&nbsp;Thermal Carafes (1)</a>
 			
@@ -11495,6 +3083,73 @@ $(document).ready(function() {
 	</li>
 	
 	
+	
+		<li style="width: 130px;;">
+	    <center>
+	    <a href="http://www.wholelattelove.com/outlet.cfm?cid=5">
+        <img src="http://www.wholelattelove.com/graphics_buttons2008/2010_accessories_outlet.jpg" border="0">
+        </a>
+	    <h5>Outlet</h5></center>
+        
+        
+        
+			<strong>Price</strong>
+			
+					<a href="http://www.wholelattelove.com/outlet.cfm?cid=5&amp;prid=96">•&nbsp;$50 - $100 (1)</a>
+				
+            <strong>Subcategories</strong>
+			
+					<a href="http://www.wholelattelove.com/outlet.cfm?cid=5&amp;scid=61" style="float: left; width: 150px;">•&nbsp;Bases (1)</a>
+				
+        
+        
+        
+        
+<div id="popwindowrightwrappersecondaryspacer"></div>
+       <ul style="width: 125px !important; border: none !important; padding: 0px !important; margin: 0px !important; float:none !important; clear: both !important; position: static !important;">
+        <li style="width: 120px !important; border: none !important; padding: 0px !important; margin: 0px !important; float:none !important; clear: both !important; position: static !important;">
+	<div id="popwindowrightwrappersecondary">
+			
+        	<div id="popupwindowleft">
+			<ul style="width: 120px !important; border: none !important; padding: 0px !important; margin: 0px !important;">
+	        	<li style="width: 120px !important;"><a href="#"><strong style="padding: 0px !important; margin: 0px !important;"><font color="#0659b8">&gt;&gt;&gt;&nbsp;Outlet Brands</font></strong></a>
+	        		<ul>
+	        			<li>
+		
+					<a href="http://www.wholelattelove.com/outlet.cfm?cid=5&amp;bid=11" style="float: left; width: 110px;">Rancilio (1)</a>
+				
+		<a href="http://www.wholelattelove.com/outlet.cfm?cid=5">show all</a>
+                        </li>
+	        		</ul>
+	    		</li>
+			</ul>
+			</div>
+            
+            
+            
+            <div id="popupwindowleft">
+			<ul style="width: 120px !important; border: none !important; padding: 0px !important; margin: 0px !important; float: none !important; clear:both !important;">
+	        	<li style="width: 120px !important;"><a href="http://www.wholelattelove.com/commercial_index.cfm">What is The Outlet?</a>
+	        		<ul>
+	        			<li>The Outlet offers refurbished products at competitive prices. Every outlet item has passed a stringent 10-point inspection and repair process to guarantee performance. We are one of the largest factory-authorized espresso refurbishment and repair center on the internet. Every refurbished machine comes with a limited warranty as well as a 15-day return policy. <a href="http://www.wholelattelove.com/outlet.cfm" style="float:none; display:inline-block; width:auto; background-image:none;">Visit the Outlet.</a></li>
+	        		</ul>
+	    		</li>
+			</ul>
+			</div>
+            
+            
+            
+	</div>
+</li>
+</ul>
+        
+        
+        
+        
+        
+        
+        
+		</li>
 	
 		<li style="width: 300px; border-right:none;">
 	    <center>
@@ -11508,7 +3163,7 @@ $(document).ready(function() {
 			
 					<a href="http://www.wholelattelove.com/commercial.cfm?cid=5&amp;scid=6" style="float: left; width: 150px;">•&nbsp;Accessories (11)</a>
 				
-					<a href="http://www.wholelattelove.com/commercial.cfm?cid=5&amp;scid=7" style="float: left; width: 150px;">•&nbsp;Cleaning Products (8)</a>
+					<a href="http://www.wholelattelove.com/commercial.cfm?cid=5&amp;scid=7" style="float: left; width: 150px;">•&nbsp;Cleaning Products (7)</a>
 				
 					<a href="http://www.wholelattelove.com/commercial.cfm?cid=5&amp;scid=9" style="float: left; width: 150px;">•&nbsp;Combo Deals (10)</a>
 				
@@ -11516,7 +3171,7 @@ $(document).ready(function() {
 				
 					<a href="http://www.wholelattelove.com/commercial.cfm?cid=5&amp;scid=92" style="float: left; width: 150px;">•&nbsp;Dessertware (1)</a>
 				
-					<a href="http://www.wholelattelove.com/commercial.cfm?cid=5&amp;scid=23" style="float: left; width: 150px;">•&nbsp;Equipment Extras (12)</a>
+					<a href="http://www.wholelattelove.com/commercial.cfm?cid=5&amp;scid=23" style="float: left; width: 150px;">•&nbsp;Equipment Extras (11)</a>
 				
 					<a href="http://www.wholelattelove.com/commercial.cfm?cid=5&amp;scid=20" style="float: left; width: 150px;">•&nbsp;Installation &amp; Maint Progs (12)</a>
 				
@@ -11526,7 +3181,7 @@ $(document).ready(function() {
 				
 					<a href="http://www.wholelattelove.com/commercial.cfm?cid=5&amp;scid=11" style="float: left; width: 150px;">•&nbsp;Parts (1)</a>
 				
-					<a href="http://www.wholelattelove.com/commercial.cfm?cid=5&amp;scid=22" style="float: left; width: 150px;">•&nbsp;Serving Racks (16)</a>
+					<a href="http://www.wholelattelove.com/commercial.cfm?cid=5&amp;scid=22" style="float: left; width: 150px;">•&nbsp;Serving Racks (15)</a>
 				
 					<a href="http://www.wholelattelove.com/commercial.cfm?cid=5&amp;scid=65" style="float: left; width: 150px;">•&nbsp;Serving Tools (3)</a>
 				
@@ -11566,7 +3221,7 @@ $(document).ready(function() {
 				
 					<a href="http://www.wholelattelove.com/commercial.cfm?cid=5&amp;bid=110" style="float: left; width: 110px;">Escali (1)</a>
 				
-					<a href="http://www.wholelattelove.com/commercial.cfm?cid=5&amp;bid=74" style="float: left; width: 110px;">Fetco (7)</a>
+					<a href="http://www.wholelattelove.com/commercial.cfm?cid=5&amp;bid=74" style="float: left; width: 110px;">Fetco (6)</a>
 				
 					<a href="http://www.wholelattelove.com/commercial.cfm?cid=5&amp;bid=75" style="float: left; width: 110px;">Franke (5)</a>
 				
@@ -11590,7 +3245,7 @@ $(document).ready(function() {
 				
 					<a href="http://www.wholelattelove.com/commercial.cfm?cid=5&amp;bid=79" style="float: left; width: 110px;">Vita-mix (2)</a>
 				
-					<a href="http://www.wholelattelove.com/commercial.cfm?cid=5&amp;bid=46" style="float: left; width: 110px;">Whole Latte Love (64)</a>
+					<a href="http://www.wholelattelove.com/commercial.cfm?cid=5&amp;bid=46" style="float: left; width: 110px;">Whole Latte Love (62)</a>
 				
 		<a href="http://www.wholelattelove.com/commercial.cfm?cid=5">show all</a>
                         </li>
@@ -11630,67 +3285,14 @@ $(document).ready(function() {
     <li style="width: 930px !important; border-right: none;">
 
 	
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
 		<div id="popupadspace">
-			<a href="http://www.wholelattelove.com/sale_page.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad1_3.jpg" alt="Shop Our Sale Page - Save Up To 50%" border="0"></a>
+			<a href="http://www.wholelattelove.com/gifts.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/092611/espresso-machine-packs.jpg" alt="Shop Espresso Machine Packages" border="0"></a>
+
+<a href="http://www.wholelattelove.com/sale_page.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/100411/sale-rollover.jpg" alt="Shop Our Sale Page - Save Up To 50%" border="0"></a>
 
 
-<a href="http://www.wholelattelove.com/weekly_wow.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad2_3.jpg" alt="WOW Of The Week!" border="0"></a>
 
-
-<a href="http://www.wholelattelove.com/sitesale_espressomachine.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad3_3.jpg" alt="10% Off Sitewide With Coupon Code CAFE10" border="0"></a> 
+<a href="http://www.facebook.com/pages/Whole-Latte-Love/27654603950?sk=app_106489522792493"><img src="http://www.wholelattelove.com/Graphics/sale_landing/092611/facebookstore.jpg" alt="Save BIG at our Facebook store" border="0"></a> 
 		</div>
 	
 
@@ -11698,7 +3300,7 @@ $(document).ready(function() {
 
 
 	</ul>
-    
+    </li></div>
     
 
 
@@ -11709,488 +3311,9 @@ $(document).ready(function() {
 
 
 
-	
-	
-	
 
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
-
-
-</li><li><a href="http://www.wholelattelove.com/parts_care.cfm" id="navParts" class="navLink"><span>Parts and Care</span><!--<img src="http://www.wholelattelove.com/graphics_main_banner/parts_and_care.jpg" alt="parts and care" border="0">---></a>
+<div class="navwrapper">
+<li><a href="http://www.wholelattelove.com/parts_care.cfm" id="navParts" class="navLink"><span>Parts and Care</span><!--<img src="http://www.wholelattelove.com/graphics_main_banner/parts_and_care.jpg" alt="parts and care" border="0">---></a>
 	<ul style="margin-left: -758px;">
 	<center>
     
@@ -12206,13 +3329,15 @@ $(document).ready(function() {
 			
 				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;bid=107" style="float: left; width: 150px;">•&nbsp;Durgol (2)</a>
 			
-				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;bid=3" style="float: left; width: 150px;">•&nbsp;Expobar (1)</a>
+				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;bid=3" style="float: left; width: 150px;">•&nbsp;Expobar (2)</a>
 			
 				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;bid=114" style="float: left; width: 150px;">•&nbsp;Frieling (2)</a>
 			
 				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;bid=5" style="float: left; width: 150px;">•&nbsp;Gaggia (13)</a>
 			
 				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;bid=101" style="float: left; width: 150px;">•&nbsp;Handpresso (1)</a>
+			
+				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;bid=7" style="float: left; width: 150px;">•&nbsp;Jura (10)</a>
 			
 				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;bid=106" style="float: left; width: 150px;">•&nbsp;Jura Capresso (10)</a>
 			
@@ -12224,19 +3349,21 @@ $(document).ready(function() {
 			
 				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;bid=18" style="float: left; width: 150px;">•&nbsp;Mazzer (6)</a>
 			
-				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;bid=11" style="float: left; width: 150px;">•&nbsp;Rancilio (12)</a>
+				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;bid=108" style="float: left; width: 150px;">•&nbsp;Pallo (3)</a>
+			
+				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;bid=11" style="float: left; width: 150px;">•&nbsp;Rancilio (14)</a>
 			
 				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;bid=105" style="float: left; width: 150px;">•&nbsp;Rattleware (1)</a>
 			
 				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;bid=98" style="float: left; width: 150px;">•&nbsp;Rocket Espresso (2)</a>
 			
-				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;bid=12" style="float: left; width: 150px;">•&nbsp;Saeco (5)</a>
+				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;bid=12" style="float: left; width: 150px;">•&nbsp;Saeco (4)</a>
 			
 				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;bid=14" style="float: left; width: 150px;">•&nbsp;Solis (1)</a>
 			
-				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;bid=64" style="float: left; width: 150px;">•&nbsp;Urnex (13)</a>
+				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;bid=64" style="float: left; width: 150px;">•&nbsp;Urnex (14)</a>
 			
-				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;bid=46" style="float: left; width: 150px;">•&nbsp;Whole Latte Love (9)</a>
+				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;bid=46" style="float: left; width: 150px;">•&nbsp;Whole Latte Love (8)</a>
 			
 	</li>
     
@@ -12244,21 +3371,86 @@ $(document).ready(function() {
     
     <center>
     
-	<li style="width: 300px;">
+	<li style="width: 160px;">
     <center><a href="http://www.wholelattelove.com/parts_care.cfm"><img src="http://www.wholelattelove.com/graphics_buttons2008/2010_parts_and_care_subcategories.jpg" border="0"></a></center>
 		<strong>Subcategories</strong>
 		
-				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;scid=69" style="float: left; width: 150px;">•&nbsp;Cleaning (30)</a>
+				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;scid=69" style="width: 150px;">•&nbsp;Cleaning (30)</a>
 			
-				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;scid=70" style="float: left; width: 150px;">•&nbsp;Filters (19)</a>
+				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;scid=70" style="width: 150px;">•&nbsp;Filters (19)</a>
 			
-				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;scid=71" style="float: left; width: 150px;">•&nbsp;Packages (3)</a>
+				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;scid=71" style="width: 150px;">•&nbsp;Packages (3)</a>
 			
-				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;scid=72" style="float: left; width: 150px;">•&nbsp;Parts (40)</a>
+				<a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;scid=72" style="width: 150px;">•&nbsp;Parts (41)</a>
 			
 	</li>
     
 	
+	
+		<li style="width: 140px;">
+	    <center>
+	    <a href="http://www.wholelattelove.com/outlet.cfm?cid=28">
+        <img src="http://www.wholelattelove.com/graphics_buttons2008/2010_drip_coffee_price.jpg" border="0">
+        </a>
+	    
+		
+			<h5>Outlet</h5></center>
+            <strong>Subcategories</strong>
+			
+					<a href="http://www.wholelattelove.com/outlet.cfm?cid=28&amp;scid=69" style="float: left; width: 150px;">•&nbsp;Cleaning (1)</a>
+				
+			<br><br>
+		
+		
+        
+        
+        
+        
+        
+        
+<div id="popwindowrightwrappersecondaryspacer"></div>
+       <ul style="width: 125px !important; border: none !important; padding: 0px !important; margin: 0px !important; float:none !important; clear: both !important; position: static !important;">
+        <li style="width: 120px !important; border: none !important; padding: 0px !important; margin: 0px !important; float:none !important; clear: both !important; position: static !important;">
+	<div id="popwindowrightwrappersecondary">
+			
+        	<div id="popupwindowleft">
+			<ul style="width: 120px !important; border: none !important; padding: 0px !important; margin: 0px !important;">
+	        	<li style="width: 120px !important;"><a href="#"><strong style="padding: 0px !important; margin: 0px !important;"><font color="#0659b8">&gt;&gt;&gt;&nbsp;Outlet Brands</font></strong></a>
+	        		<ul>
+	        			<li>
+		
+					<a href="http://www.wholelattelove.com/outlet.cfm?cid=28&amp;bid=64" style="float: left; width: 110px;">•&nbsp;Urnex (1)</a>
+				
+		<a href="http://www.wholelattelove.com/outlet.cfm?cid=28">show all</a>
+                        </li>
+	        		</ul>
+	    		</li>
+			</ul>
+			</div>
+            
+            
+            <div id="popupwindowleft">
+			<ul style="width: 120px !important; border: none !important; padding: 0px !important; margin: 0px !important; float: none !important; clear:both !important;">
+	        	<li style="width: 120px !important;"><a href="http://www.wholelattelove.com/commercial_index.cfm">What is The Outlet?</a>
+	        		<ul>
+	        			<li>The Outlet offers refurbished products at competitive prices. Every outlet item has passed a stringent 10-point inspection and repair process to guarantee performance. We are one of the largest factory-authorized espresso refurbishment and repair center on the internet. Every refurbished machine comes with a limited warranty as well as a 15-day return policy. <a href="http://www.wholelattelove.com/outlet.cfm" style="float:none; display:inline-block; width:auto; background-image:none;">Visit the Outlet.</a></li>
+	        		</ul>
+	    		</li>
+			</ul>
+			</div>
+            
+            
+	</div>
+</li>
+</ul>
+        
+        
+        
+        
+        
+        
+        
+		</li>
 	
 		<li style="width: 160px; border-right:none;">
 	    <center>
@@ -12270,11 +3462,11 @@ $(document).ready(function() {
 			<h6>Commercial</h6></center>
             <strong>Subcategories</strong>
 			
-					<a href="http://www.wholelattelove.com/commercial.cfm?cid=28&amp;scid=69" style="float: left; width: 150px;">•&nbsp;Cleaning (14)</a>
+					<a href="http://www.wholelattelove.com/commercial.cfm?cid=28&amp;scid=69" style="float: left; width: 150px;">•&nbsp;Cleaning (12)</a>
 				
 					<a href="http://www.wholelattelove.com/commercial.cfm?cid=28&amp;scid=70" style="float: left; width: 150px;">•&nbsp;Filters (1)</a>
 				
-					<a href="http://www.wholelattelove.com/commercial.cfm?cid=28&amp;scid=72" style="float: left; width: 150px;">•&nbsp;Parts (2)</a>
+					<a href="http://www.wholelattelove.com/commercial.cfm?cid=28&amp;scid=72" style="float: left; width: 150px;">•&nbsp;Parts (3)</a>
 				
 			<br><br>
 		
@@ -12296,9 +3488,13 @@ $(document).ready(function() {
 	        		<ul>
 	        			<li>
 		
+					<a href="http://www.wholelattelove.com/commercial.cfm?cid=28&amp;bid=93" style="float: left; width: 110px;">Concordia (1)</a>
+				
 					<a href="http://www.wholelattelove.com/commercial.cfm?cid=28&amp;bid=107" style="float: left; width: 110px;">Durgol (1)</a>
 				
 					<a href="http://www.wholelattelove.com/commercial.cfm?cid=28&amp;bid=114" style="float: left; width: 110px;">Frieling (1)</a>
+				
+					<a href="http://www.wholelattelove.com/commercial.cfm?cid=28&amp;bid=7" style="float: left; width: 110px;">Jura (1)</a>
 				
 					<a href="http://www.wholelattelove.com/commercial.cfm?cid=28&amp;bid=106" style="float: left; width: 110px;">Jura Capresso (1)</a>
 				
@@ -12306,9 +3502,9 @@ $(document).ready(function() {
 				
 					<a href="http://www.wholelattelove.com/commercial.cfm?cid=28&amp;bid=11" style="float: left; width: 110px;">Rancilio (1)</a>
 				
-					<a href="http://www.wholelattelove.com/commercial.cfm?cid=28&amp;bid=64" style="float: left; width: 110px;">Urnex (11)</a>
+					<a href="http://www.wholelattelove.com/commercial.cfm?cid=28&amp;bid=64" style="float: left; width: 110px;">Urnex (10)</a>
 				
-					<a href="http://www.wholelattelove.com/commercial.cfm?cid=28&amp;bid=46" style="float: left; width: 110px;">Whole Latte Love (4)</a>
+					<a href="http://www.wholelattelove.com/commercial.cfm?cid=28&amp;bid=46" style="float: left; width: 110px;">Whole Latte Love (3)</a>
 				
 		<a href="http://www.wholelattelove.com/commercial.cfm?cid=28">show all</a>
                         </li>
@@ -12347,67 +3543,14 @@ $(document).ready(function() {
     <li style="width: 930px !important; border-right: none;">
 
 	
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
 		<div id="popupadspace">
-			<a href="http://www.wholelattelove.com/sale_page.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad1_3.jpg" alt="Shop Our Sale Page - Save Up To 50%" border="0"></a>
+			<a href="http://www.wholelattelove.com/gifts.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/092611/espresso-machine-packs.jpg" alt="Shop Espresso Machine Packages" border="0"></a>
+
+<a href="http://www.wholelattelove.com/sale_page.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/100411/sale-rollover.jpg" alt="Shop Our Sale Page - Save Up To 50%" border="0"></a>
 
 
-<a href="http://www.wholelattelove.com/weekly_wow.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad2_3.jpg" alt="WOW Of The Week!" border="0"></a>
 
-
-<a href="http://www.wholelattelove.com/sitesale_espressomachine.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad3_3.jpg" alt="10% Off Sitewide With Coupon Code CAFE10" border="0"></a> 
+<a href="http://www.facebook.com/pages/Whole-Latte-Love/27654603950?sk=app_106489522792493"><img src="http://www.wholelattelove.com/Graphics/sale_landing/092611/facebookstore.jpg" alt="Save BIG at our Facebook store" border="0"></a> 
 		</div>
 	
 
@@ -12415,8 +3558,8 @@ $(document).ready(function() {
 
 
 	</ul>
+    </li></div>
     
-    
 
 
 
@@ -12425,13 +3568,8 @@ $(document).ready(function() {
 
 
 
-
-
-
-
-
-
-</li><li><a href="#" id="navBrands" class="navLink"><span>Brands</span><!--<img src="http://www.wholelattelove.com/graphics_main_banner/brands.jpg" alt="parts and care" border="0">---></a>
+<div class="navwrapper">
+<li><a href="#" id="navBrands" class="navLink"><span>Brands</span><!--<img src="http://www.wholelattelove.com/graphics_main_banner/brands.jpg" alt="parts and care" border="0">---></a>
 	<ul style="margin-left: -832px;">
 	<center>
 	<li style="width: 320px;">
@@ -12472,9 +3610,13 @@ $(document).ready(function() {
     <li style="width: 610px; border-right: none;">
 		<strong>All Brands</strong>
 		
+			<a href="http://www.wholelattelove.com/aerobie.cfm" style="float: left; width: 150px;">•&nbsp;Aerobie Inc</a>
+		
 			<a href="http://www.wholelattelove.com/aloha.cfm" style="float: left; width: 150px;">•&nbsp;Aloha Island</a>
 		
 			<a href="http://www.wholelattelove.com/antica.cfm" style="float: left; width: 150px;">•&nbsp;Antica Coffee &amp; Espresso </a>
+		
+			<a href="http://www.wholelattelove.com/atomic_cafe.cfm" style="float: left; width: 150px;">•&nbsp;Atomic Cafe </a>
 		
 			<a href="http://www.wholelattelove.com/baratza.cfm" style="float: left; width: 150px;">•&nbsp;Baratza</a>
 		
@@ -12500,6 +3642,8 @@ $(document).ready(function() {
 		
 			<a href="http://www.wholelattelove.com/ceado.cfm" style="float: left; width: 150px;">•&nbsp;Ceado</a>
 		
+			<a href="http://www.wholelattelove.com/coffeevac.cfm" style="float: left; width: 150px;">•&nbsp;Coffeevac </a>
+		
 			<a href="http://www.wholelattelove.com/compak.cfm" style="float: left; width: 150px;">•&nbsp;Compak</a>
 		
 			<a href="http://www.wholelattelove.com/Cuisinart.cfm" style="float: left; width: 150px;">•&nbsp;Cuisinart</a>
@@ -12507,6 +3651,8 @@ $(document).ready(function() {
 			<a href="http://www.wholelattelove.com/dalla_corte.cfm" style="float: left; width: 150px;">•&nbsp;Dalla Corte</a>
 		
 			<a href="http://www.wholelattelove.com/delonghi.cfm" style="float: left; width: 150px;">•&nbsp;DeLonghi</a>
+		
+			<a href="http://www.wholelattelove.com/dolcegusto.cfm" style="float: left; width: 150px;">•&nbsp;Dolce Gusto</a>
 		
 			<a href="http://www.wholelattelove.com/durgol.cfm" style="float: left; width: 150px;">•&nbsp;Durgol</a>
 		
@@ -12518,7 +3664,11 @@ $(document).ready(function() {
 		
 			<a href="http://www.wholelattelove.com/vivace.cfm" style="float: left; width: 150px;">•&nbsp;Espresso Vivace</a>
 		
+			<a href="http://www.wholelattelove.com/espro.cfm" style="float: left; width: 150px;">•&nbsp;Espro</a>
+		
 			<a href="http://www.wholelattelove.com/Expobar.cfm" style="float: left; width: 150px;">•&nbsp;Expobar</a>
+		
+			<a href="http://www.wholelattelove.com/fetco.cfm" style="float: left; width: 150px;">•&nbsp;Fetco</a>
 		
 			<a href="http://www.wholelattelove.com/filicorizecchini.cfm" style="float: left; width: 150px;">•&nbsp;Filicori Zecchini</a>
 		
@@ -12538,7 +3688,13 @@ $(document).ready(function() {
 		
 			<a href="http://www.wholelattelove.com/Illy.cfm" style="float: left; width: 150px;">•&nbsp;Illy</a>
 		
+			<a href="http://www.wholelattelove.com/izzo.cfm" style="float: left; width: 150px;">•&nbsp;Izzo</a>
+		
 			<a href="http://www.wholelattelove.com/jmartinez.cfm" style="float: left; width: 150px;">•&nbsp;J Martinez</a>
+		
+			<a href="http://www.wholelattelove.com/johnson_brothers.cfm" style="float: left; width: 150px;">•&nbsp;Johnson Brothers </a>
+		
+			<a href="http://www.wholelattelove.com/Jura.cfm" style="float: left; width: 150px;">•&nbsp;Jura</a>
 		
 			<a href="http://www.wholelattelove.com/JuraCapresso.cfm" style="float: left; width: 150px;">•&nbsp;Jura Capresso</a>
 		
@@ -12546,11 +3702,17 @@ $(document).ready(function() {
 		
 			<a href="http://www.wholelattelove.com/KitchenAid.cfm" style="float: left; width: 150px;">•&nbsp;KitchenAid</a>
 		
+			<a href="http://www.wholelattelove.com/klatch.cfm" style="float: left; width: 150px;">•&nbsp;Klatch Coffee</a>
+		
+			<a href="http://www.wholelattelove.com/konitz.cfm" style="float: left; width: 150px;">•&nbsp;Konitz</a>
+		
 			<a href="http://www.wholelattelove.com/krups.cfm" style="float: left; width: 150px;">•&nbsp;Krups</a>
 		
 			<a href="http://www.wholelattelove.com/lamarzocco.cfm" style="float: left; width: 150px;">•&nbsp;La Marzocco</a>
 		
 			<a href="http://www.wholelattelove.com/LaPavoni.cfm" style="float: left; width: 150px;">•&nbsp;la Pavoni</a>
+		
+			<a href="http://www.wholelattelove.com/laspaziale.cfm" style="float: left; width: 150px;">•&nbsp;La Spaziale</a>
 		
 			<a href="http://www.wholelattelove.com/Lavazza.cfm" style="float: left; width: 150px;">•&nbsp;Lavazza</a>
 		
@@ -12562,6 +3724,8 @@ $(document).ready(function() {
 		
 			<a href="http://www.wholelattelove.com/maromas.cfm" style="float: left; width: 150px;">•&nbsp;Maromas Coffees</a>
 		
+			<a href="http://www.wholelattelove.com/" style="float: left; width: 150px;">•&nbsp;Massimo Zanetti</a>
+		
 			<a href="http://www.wholelattelove.com/Mazzer.cfm" style="float: left; width: 150px;">•&nbsp;Mazzer</a>
 		
 			<a href="http://www.wholelattelove.com/monin.cfm" style="float: left; width: 150px;">•&nbsp;Monin Syrup</a>
@@ -12570,11 +3734,21 @@ $(document).ready(function() {
 		
 			<a href="http://www.wholelattelove.com/Nespresso.cfm" style="float: left; width: 150px;">•&nbsp;Nespresso</a>
 		
+			<a href="http://www.wholelattelove.com/nifty.cfm" style="float: left; width: 150px;">•&nbsp;Nifty Home Products Inc </a>
+		
 			<a href="http://www.wholelattelove.com/ournameismud.cfm" style="float: left; width: 150px;">•&nbsp;Our Name is Mud</a>
 		
 			<a href="http://www.wholelattelove.com/oxo.cfm" style="float: left; width: 150px;">•&nbsp;OXO</a>
 		
+			<a href="http://www.wholelattelove.com/pallo.cfm" style="float: left; width: 150px;">•&nbsp;Pallo</a>
+		
+			<a href="http://www.wholelattelove.com/paradise.cfm" style="float: left; width: 150px;">•&nbsp;Paradise Coffee Roasters</a>
+		
 			<a href="http://www.wholelattelove.com/Pasquini.cfm" style="float: left; width: 150px;">•&nbsp;Pasquini</a>
+		
+			<a href="http://www.wholelattelove.com/pellini.cfm" style="float: left; width: 150px;">•&nbsp;Pellini Caffe</a>
+		
+			<a href="http://www.wholelattelove.com/quickmill.cfm" style="float: left; width: 150px;">•&nbsp;Quick Mill</a>
 		
 			<a href="http://www.wholelattelove.com/Rancilio.cfm" style="float: left; width: 150px;">•&nbsp;Rancilio</a>
 		
@@ -12590,9 +3764,11 @@ $(document).ready(function() {
 		
 			<a href="http://www.wholelattelove.com/Saeco.cfm" style="float: left; width: 150px;">•&nbsp;Saeco</a>
 		
+			<a href="http://www.wholelattelove.com/segafredo_zanetti.cfm" style="float: left; width: 150px;">•&nbsp;Segafredo Zanetti</a>
+		
 			<a href="http://www.wholelattelove.com/Solis.cfm" style="float: left; width: 150px;">•&nbsp;Solis</a>
 		
-			<a href="http://www.wholelattelove.com/starbucks.cfm" style="float: left; width: 150px;">•&nbsp;Starbucks Coffee</a>
+			<a href="http://www.wholelattelove.com/stirling.cfm" style="float: left; width: 150px;">•&nbsp;Stirling</a>
 		
 			<a href="http://www.wholelattelove.com/supreme_bean.cfm" style="float: left; width: 150px;">•&nbsp;Supreme Bean</a>
 		
@@ -12604,9 +3780,13 @@ $(document).ready(function() {
 		
 			<a href="http://www.wholelattelove.com/technivorm.cfm" style="float: left; width: 150px;">•&nbsp;Technivorm</a>
 		
+			<a href="http://www.wholelattelove.com/torr_settebello.cfm" style="float: left; width: 150px;">•&nbsp;Torrefazione Settebello </a>
+		
 			<a href="http://www.wholelattelove.com/twinings.cfm" style="float: left; width: 150px;">•&nbsp;Twinings</a>
 		
 			<a href="http://www.wholelattelove.com/urnex.cfm" style="float: left; width: 150px;">•&nbsp;Urnex</a>
+		
+			<a href="http://www.wholelattelove.com/vacuvin.cfm" style="float: left; width: 150px;">•&nbsp;Vacu Vin</a>
 		
 			<a href="http://www.wholelattelove.com/waechtersbach.cfm" style="float: left; width: 150px;">•&nbsp;Waechtersbach</a>
 		
@@ -12649,6 +3829,8 @@ $(document).ready(function() {
 		
 			<a href="http://www.wholelattelove.com/commercial.cfm?BrandID=76&amp;bid=76" style="float: left; width: 150px;">•&nbsp;Hamilton Beach</a>
 		
+			<a href="http://www.wholelattelove.com/commercial.cfm?BrandID=7&amp;bid=7" style="float: left; width: 150px;">•&nbsp;Jura</a>
+		
 			<a href="http://www.wholelattelove.com/commercial.cfm?BrandID=106&amp;bid=106" style="float: left; width: 150px;">•&nbsp;Jura Capresso</a>
 		
 			<a href="http://www.wholelattelove.com/commercial.cfm?BrandID=77&amp;bid=77" style="float: left; width: 150px;">•&nbsp;La Marzocco</a>
@@ -12690,67 +3872,14 @@ $(document).ready(function() {
     <li style="width: 930px !important; border-right: none;">+
 
 	
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
 		<div id="popupadspace">
-			<a href="http://www.wholelattelove.com/sale_page.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad1_3.jpg" alt="Shop Our Sale Page - Save Up To 50%" border="0"></a>
+			<a href="http://www.wholelattelove.com/gifts.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/092611/espresso-machine-packs.jpg" alt="Shop Espresso Machine Packages" border="0"></a>
+
+<a href="http://www.wholelattelove.com/sale_page.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/100411/sale-rollover.jpg" alt="Shop Our Sale Page - Save Up To 50%" border="0"></a>
 
 
-<a href="http://www.wholelattelove.com/weekly_wow.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad2_3.jpg" alt="WOW Of The Week!" border="0"></a>
 
-
-<a href="http://www.wholelattelove.com/sitesale_espressomachine.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad3_3.jpg" alt="10% Off Sitewide With Coupon Code CAFE10" border="0"></a> 
+<a href="http://www.facebook.com/pages/Whole-Latte-Love/27654603950?sk=app_106489522792493"><img src="http://www.wholelattelove.com/Graphics/sale_landing/092611/facebookstore.jpg" alt="Save BIG at our Facebook store" border="0"></a> 
 		</div>
 	
 
@@ -12759,14 +3888,14 @@ $(document).ready(function() {
 
 	</ul>
 
+</li></div>
 
 
 
 
 
-
-
-</li><li><a href="#" id="navResources" class="navLink"><span>Resources</span><!--<img src="http://www.wholelattelove.com/graphics_main_banner/resources.jpg" alt="Resources" border="0" />---></a>
+<div class="navwrapper">
+<li><a href="#" id="navResources" class="navLink"><span>Resources</span><!--<img src="http://www.wholelattelove.com/graphics_main_banner/resources.jpg" alt="Resources" border="0" />---></a>
 	<ul style="margin-left: -882px;">
 	<center>
     
@@ -12830,67 +3959,14 @@ $(document).ready(function() {
     <li style="width: 930px !important; border-right: none;">
 
 	
-
-	
-	
-	
-
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-		
-		
 		<div id="popupadspace">
-			<a href="http://www.wholelattelove.com/sale_page.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad1_3.jpg" alt="Shop Our Sale Page - Save Up To 50%" border="0"></a>
+			<a href="http://www.wholelattelove.com/gifts.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/092611/espresso-machine-packs.jpg" alt="Shop Espresso Machine Packages" border="0"></a>
+
+<a href="http://www.wholelattelove.com/sale_page.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/100411/sale-rollover.jpg" alt="Shop Our Sale Page - Save Up To 50%" border="0"></a>
 
 
-<a href="http://www.wholelattelove.com/weekly_wow.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad2_3.jpg" alt="WOW Of The Week!" border="0"></a>
 
-
-<a href="http://www.wholelattelove.com/sitesale_espressomachine.cfm"><img src="http://www.wholelattelove.com/Graphics/sale_landing/042511/ad3_3.jpg" alt="10% Off Sitewide With Coupon Code CAFE10" border="0"></a> 
+<a href="http://www.facebook.com/pages/Whole-Latte-Love/27654603950?sk=app_106489522792493"><img src="http://www.wholelattelove.com/Graphics/sale_landing/092611/facebookstore.jpg" alt="Save BIG at our Facebook store" border="0"></a> 
 		</div>
 	
 
@@ -12899,11 +3975,11 @@ $(document).ready(function() {
 
 	</ul>
 
+</li></div>
 
 
 
-
-      </li></ul>
+      </ul>
                     
                           
                           
@@ -12911,16 +3987,6 @@ $(document).ready(function() {
   </div>
   
 
-
-  
-  				
-
-
-
-
-
-
-  
 
 
 
@@ -12931,18 +3997,14 @@ $(document).ready(function() {
 <div id="wrappercontent">
 
 
-
-
 <div id="wrappernavigationleft">
 
+	
 
-
-
-                <map name="christmas_magic">
-                  <area shape="rect" coords="3,4,89,74" href="http://www.wholelattelove.com/sitesale_espressomachine.cfm">
-                  <area shape="rect" coords="90,4,189,75" href="http://www.wholelattelove.com/sale_page.cfm">
-                </map>
-		
+  <map name="christmas_magic">
+    <area shape="rect" coords="3,4,89,74" href="http://www.wholelattelove.com/sitesale_espressomachine.cfm">
+    <area shape="rect" coords="90,4,189,75" href="http://www.wholelattelove.com/sale_page.cfm">
+  </map>
 
 
 
@@ -12951,6 +4013,8 @@ $(document).ready(function() {
 <script>
 $(document).ready(function(){
 	$("dd").hide();
+	$(".products").hide();
+	
 	$("a.navAccordion").click(function(){
 		if($(this).parent().next().css('display') == 'none') {
 			$("dd").slideUp("slow");
@@ -12960,6 +4024,9 @@ $(document).ready(function(){
 		}
 		return false;
 	});
+	
+	
+	
 });
 </script>
     
@@ -12968,16 +4035,7 @@ $(document).ready(function(){
 
 <div id="mainnavborderleftside">
 
-
 <div id="border">
-
-
-
-
-
-
-
-
 
 	
 	    <dt><a href="http://www.wholelattelove.com" class="navAccordion">Main Brands<img src="http://www.wholelattelove.com/graphics_buttons2008/aarow_down.gif" alt="click to open" border="0"></a></dt>
@@ -13022,9 +4080,13 @@ $(document).ready(function(){
     <dd>
 	<ul>
     
+    	<li><a href="http://www.wholelattelove.com/aerobie.cfm">Aerobie Inc</a></li>
+    
     	<li><a href="http://www.wholelattelove.com/aloha.cfm">Aloha Island</a></li>
     
     	<li><a href="http://www.wholelattelove.com/antica.cfm">Antica Coffee &amp; Espresso </a></li>
+    
+    	<li><a href="http://www.wholelattelove.com/atomic_cafe.cfm">Atomic Cafe </a></li>
     
     	<li><a href="http://www.wholelattelove.com/baratza.cfm">Baratza</a></li>
     
@@ -13050,6 +4112,8 @@ $(document).ready(function(){
     
     	<li><a href="http://www.wholelattelove.com/ceado.cfm">Ceado</a></li>
     
+    	<li><a href="http://www.wholelattelove.com/coffeevac.cfm">Coffeevac </a></li>
+    
     	<li><a href="http://www.wholelattelove.com/compak.cfm">Compak</a></li>
     
     	<li><a href="http://www.wholelattelove.com/Cuisinart.cfm">Cuisinart</a></li>
@@ -13057,6 +4121,8 @@ $(document).ready(function(){
     	<li><a href="http://www.wholelattelove.com/dalla_corte.cfm">Dalla Corte</a></li>
     
     	<li><a href="http://www.wholelattelove.com/delonghi.cfm">DeLonghi</a></li>
+    
+    	<li><a href="http://www.wholelattelove.com/dolcegusto.cfm">Dolce Gusto</a></li>
     
     	<li><a href="http://www.wholelattelove.com/durgol.cfm">Durgol</a></li>
     
@@ -13068,7 +4134,11 @@ $(document).ready(function(){
     
     	<li><a href="http://www.wholelattelove.com/vivace.cfm">Espresso Vivace</a></li>
     
+    	<li><a href="http://www.wholelattelove.com/espro.cfm">Espro</a></li>
+    
     	<li><a href="http://www.wholelattelove.com/Expobar.cfm">Expobar</a></li>
+    
+    	<li><a href="http://www.wholelattelove.com/fetco.cfm">Fetco</a></li>
     
     	<li><a href="http://www.wholelattelove.com/filicorizecchini.cfm">Filicori Zecchini</a></li>
     
@@ -13088,7 +4158,13 @@ $(document).ready(function(){
     
     	<li><a href="http://www.wholelattelove.com/Illy.cfm">Illy</a></li>
     
+    	<li><a href="http://www.wholelattelove.com/izzo.cfm">Izzo</a></li>
+    
     	<li><a href="http://www.wholelattelove.com/jmartinez.cfm">J Martinez</a></li>
+    
+    	<li><a href="http://www.wholelattelove.com/johnson_brothers.cfm">Johnson Brothers </a></li>
+    
+    	<li><a href="http://www.wholelattelove.com/Jura.cfm">Jura</a></li>
     
     	<li><a href="http://www.wholelattelove.com/JuraCapresso.cfm">Jura Capresso</a></li>
     
@@ -13096,11 +4172,17 @@ $(document).ready(function(){
     
     	<li><a href="http://www.wholelattelove.com/KitchenAid.cfm">KitchenAid</a></li>
     
+    	<li><a href="http://www.wholelattelove.com/klatch.cfm">Klatch Coffee</a></li>
+    
+    	<li><a href="http://www.wholelattelove.com/konitz.cfm">Konitz</a></li>
+    
     	<li><a href="http://www.wholelattelove.com/krups.cfm">Krups</a></li>
     
     	<li><a href="http://www.wholelattelove.com/lamarzocco.cfm">La Marzocco</a></li>
     
     	<li><a href="http://www.wholelattelove.com/LaPavoni.cfm">la Pavoni</a></li>
+    
+    	<li><a href="http://www.wholelattelove.com/laspaziale.cfm">La Spaziale</a></li>
     
     	<li><a href="http://www.wholelattelove.com/Lavazza.cfm">Lavazza</a></li>
     
@@ -13112,6 +4194,8 @@ $(document).ready(function(){
     
     	<li><a href="http://www.wholelattelove.com/maromas.cfm">Maromas Coffees</a></li>
     
+    	<li><a href="http://www.wholelattelove.com/">Massimo Zanetti</a></li>
+    
     	<li><a href="http://www.wholelattelove.com/Mazzer.cfm">Mazzer</a></li>
     
     	<li><a href="http://www.wholelattelove.com/monin.cfm">Monin Syrup</a></li>
@@ -13120,11 +4204,21 @@ $(document).ready(function(){
     
     	<li><a href="http://www.wholelattelove.com/Nespresso.cfm">Nespresso</a></li>
     
+    	<li><a href="http://www.wholelattelove.com/nifty.cfm">Nifty Home Products Inc </a></li>
+    
     	<li><a href="http://www.wholelattelove.com/ournameismud.cfm">Our Name is Mud</a></li>
     
     	<li><a href="http://www.wholelattelove.com/oxo.cfm">OXO</a></li>
     
+    	<li><a href="http://www.wholelattelove.com/pallo.cfm">Pallo</a></li>
+    
+    	<li><a href="http://www.wholelattelove.com/paradise.cfm">Paradise Coffee Roasters</a></li>
+    
     	<li><a href="http://www.wholelattelove.com/Pasquini.cfm">Pasquini</a></li>
+    
+    	<li><a href="http://www.wholelattelove.com/pellini.cfm">Pellini Caffe</a></li>
+    
+    	<li><a href="http://www.wholelattelove.com/quickmill.cfm">Quick Mill</a></li>
     
     	<li><a href="http://www.wholelattelove.com/Rancilio.cfm">Rancilio</a></li>
     
@@ -13140,9 +4234,11 @@ $(document).ready(function(){
     
     	<li><a href="http://www.wholelattelove.com/Saeco.cfm">Saeco</a></li>
     
+    	<li><a href="http://www.wholelattelove.com/segafredo_zanetti.cfm">Segafredo Zanetti</a></li>
+    
     	<li><a href="http://www.wholelattelove.com/Solis.cfm">Solis</a></li>
     
-    	<li><a href="http://www.wholelattelove.com/starbucks.cfm">Starbucks Coffee</a></li>
+    	<li><a href="http://www.wholelattelove.com/stirling.cfm">Stirling</a></li>
     
     	<li><a href="http://www.wholelattelove.com/supreme_bean.cfm">Supreme Bean</a></li>
     
@@ -13154,9 +4250,13 @@ $(document).ready(function(){
     
     	<li><a href="http://www.wholelattelove.com/technivorm.cfm">Technivorm</a></li>
     
+    	<li><a href="http://www.wholelattelove.com/torr_settebello.cfm">Torrefazione Settebello </a></li>
+    
     	<li><a href="http://www.wholelattelove.com/twinings.cfm">Twinings</a></li>
     
     	<li><a href="http://www.wholelattelove.com/urnex.cfm">Urnex</a></li>
+    
+    	<li><a href="http://www.wholelattelove.com/vacuvin.cfm">Vacu Vin</a></li>
     
     	<li><a href="http://www.wholelattelove.com/waechtersbach.cfm">Waechtersbach</a></li>
     
@@ -13168,31 +4268,152 @@ $(document).ready(function(){
 	<dt><a href="http://www.wholelattelove.com" class="navAccordion">Product Categories<img src="http://www.wholelattelove.com/graphics_buttons2008/aarow_down.gif" alt="click to open" border="0"></a></dt>
     <dd>
     <ul>
-        <li><a href="http://www.wholelattelove.com/espresso.cfm">Espresso Machines</a></li>
-                
-                
-                
-        <li><a href="http://www.wholelattelove.com/grinders.cfm">Grinders</a></li>
-        <li><a href="http://www.wholelattelove.com/coffee_makers.cfm">Coffee Makers</a></li>
-        <li><a href="http://www.wholelattelove.com/singleserve.cfm">Single Serves</a></li>
-        <li><a href="http://www.wholelattelove.com/espresso_coffee.cfm">Espresso Coffee</a></li>
-        <li><a href="http://www.wholelattelove.com/drip_coffee.cfm">Drip Coffee</a></li>
-        <li><a href="http://www.wholelattelove.com/accessories.cfm">Accessories</a></li>
-        <li><a href="http://www.wholelattelove.com/parts_care.cfm">Parts and Care</a></li>
+        <li><a href="http://www.wholelattelove.com/espresso.cfm" class="div_show categories">Espresso Machines</a>
+			<div class="products">
+				<ul>
+					<li><a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=2">Super Automatic</a></li>
+					<li><a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=1">Semi Automatic</a></li>
+					<li><a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=5">Manual</a></li>
+					<li><a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1">Prosumer</a></li>
+					<li><a href="http://www.wholelattelove.com/outlet.cfm?cid=1">Outlet</a></li>
+					<li><a href="http://www.wholelattelove.com/commercial.cfm?cid=1">Commercial</a></li>
+				</ul>
+			</div>
+		</li>
+        <li><a href="http://www.wholelattelove.com/grinders.cfm" class="div_show categories">Grinders</a>
+			<div class="products">
+				<ul>
+					<li><a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;vid=439">Burr</a></li>
+					<li><a href="http://www.wholelattelove.com/grinder.cfm?cid=3&amp;vid=56">Blade</a></li>
+					<li><a href="http://www.wholelattelove.com/outlet.cfm?cid=3">Outlet</a></li>
+					<li><a href="http://www.wholelattelove.com/commercial.cfm?cid=3">Commercial</a></li>
+				</ul>
+			</div>
+		</li>
+        <li><a href="http://www.wholelattelove.com/coffee_makers.cfm" class="div_show categories">Coffee Makers</a>
+			<div class="products">
+				<ul>
+					<li><a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;vid=306">Thermal</a></li>
+					<li><a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;vid=307">Glass</a></li>
+					<li><a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;vid=438">Double Pot</a></li>
+					<li><a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;scid=31">Single Serves</a></li>
+					<li><a href="http://www.wholelattelove.com/outlet.cfm?cid=2">Outlet</a></li>
+					<li><a href="http://www.wholelattelove.com/commercial.cfm?cid=2">Commercial</a></li>
+				</ul>
+			</div>
+		</li>
+        <li><a href="http://www.wholelattelove.com/singleserve.cfm" class="div_show categories">Single Serves</a>
+			<div class="products">
+				<ul>
+					<li><a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;scid=31">Coffee Makers</a></li>
+					<li><a href="http://www.wholelattelove.com/espresso_machine.cfm?cid=1&amp;scid=91">Espresso Machines</a></li>
+					<li><a href="http://www.wholelattelove.com/outlet.cfm?cid=1&amp;scid=91">Outlet</a></li>
+					<li><a href="http://www.wholelattelove.com/commercial.cfm?cid=2">Commercial</a></li>
+				</ul>
+			</div>
+		</li>
+        <li><a href="http://www.wholelattelove.com/espresso_coffee.cfm" class="div_show categories">Espresso Coffee</a>
+			<div class="products">
+				<ul>
+					<li><a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;scid=106">Capsules and Cartridges</a></li>
+					<li><a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;scid=102">Coffee Packages</a></li>
+					<li><a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;scid=101">Ground</a></li>
+					<li><a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;scid=104">Organic</a></li>
+					<li><a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;scid=105">Pods</a></li>
+					<li><a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;scid=108">T-discs</a></li>
+					<li><a href="http://www.wholelattelove.com/espresso_coffee.cfm?cid=35&amp;scid=100">Whole Bean</a></li>
+					<li><a href="http://www.wholelattelove.com/outlet.cfm?cid=35">Outlet</a></li>
+					<li><a href="http://www.wholelattelove.com/commercial.cfm?cid=35">Commercial</a></li>
+				</ul>
+			</div>
+		</li>
+        <li><a href="http://www.wholelattelove.com/drip_coffee.cfm" class="div_show categories">Drip Coffee</a>
+			<div class="products">
+				<ul>
+					<li><a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;scid=111">Coffee Packages</a></li>
+					<li><a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;scid=112">Decaf</a></li>
+					<li><a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;scid=110">Ground</a></li>
+					<li><a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;scid=116">K-cups</a></li>
+					<li><a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;scid=113">Organic</a></li>
+					<li><a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;scid=114">Pods</a></li>
+					<li><a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;scid=117">T-discs</a></li>
+					<li><a href="http://www.wholelattelove.com/drip_coffee.cfm?cid=36&amp;scid=109">Whole Bean</a></li>
+					<li><a href="http://www.wholelattelove.com/outlet.cfm?cid=36">Outlet</a></li>
+					<li><a href="http://www.wholelattelove.com/commercial.cfm?cid=36">Commercial</a></li>
+				</ul>
+			</div>
+		</li>
+        <li><a href="http://www.wholelattelove.com/accessories.cfm" class="div_show categories">Accessories</a>
+			<div class="products">
+				<ul>
+					<li><a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=7">Cleaning Products</a></li>
+					<li><a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=9">Combo Deals</a></li>
+					<li><a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=8">Cups</a></li>
+					<li><a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=92">Dessertware</a></li>
+					<li><a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=23">Equipment Extras</a></li>
+					<li><a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=20">Installation &amp; Maint Progs</a></li>
+					<li><a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=21">Kitchen Tools</a></li>
+					<li><a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=19">Paper Goods</a></li>
+					<li><a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=11">Parts</a></li>
+					<li><a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=22">Serving Racks</a></li>
+					<li><a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=65">Serving Tools</a></li>
+					<li><a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=10">Syrups &amp; Mixes</a></li>
+					<li><a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=12">Tampers</a></li>
+					<li><a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=68">Timers</a></li>
+					<li><a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=18">Water Filters</a></li>
+					<li><a href="http://www.wholelattelove.com/outlet.cfm?cid=5">Outlet</a></li>
+					<li><a href="http://www.wholelattelove.com/commercial.cfm?cid=5">Commercial</a></li>
+				</ul>
+			</div>
+		</li>
+        <li><a href="http://www.wholelattelove.com/parts_care.cfm" class="div_show categories">Parts and Care</a>
+			<div class="products">
+				<ul>
+					<li><a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;scid=69">Cleaning</a></li>
+					<li><a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;scid=70">Filters</a></li>
+					<li><a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;scid=71">Packages</a></li>
+					<li><a href="http://www.wholelattelove.com/partsandcare.cfm?cid=28&amp;scid=72">Parts</a></li>
+				</ul>
+			</div>
+		</li>
         <li><a href="http://www.wholelattelove.com/french_press.cfm">French Press</a></li>
         <li><a href="http://www.wholelattelove.com/stove_top.cfm">Stove Top Coffee</a></li>
         <li><a href="http://www.wholelattelove.com/vacuum_pots.cfm">Vacuum Pots</a></li>
         <li><a href="http://www.wholelattelove.com/milk_frothers.cfm">Milk Frothers</a></li>
         <li><a href="http://www.wholelattelove.com/water_kettles.cfm">Hot Water Kettles</a></li>
-        <li><a href="http://www.wholelattelove.com/tea.cfm">Tea and Glassware</a></li>
-        <li><a href="http://www.wholelattelove.com/desserts.cfm">Dessertware</a></li>
-        <li><a href="http://www.wholelattelove.com/cleaning.cfm">Cleaning Products</a></li>
-        <li><a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=8">Cups</a></li>
-        <li><a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=12">Tampers</a></li>
-        <li><a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;vid=306">Thermal Carafes</a></li>
+        <li><a href="http://www.wholelattelove.com/tea.cfm" class="div_show categories">Tea and Glassware</a>
+			<div class="products">
+				<ul>
+					<li><a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=46">Bag</a></li>
+					<li><a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=47">Capsules &amp; Cartridges</a></li>
+					<li><a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=78">Cups</a></li>
+					<li><a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=49">Flowering Tea</a></li>
+					<li><a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=74">Gift Sets</a></li>
+					<li><a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=79">Glassware</a></li>
+					<li><a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=80">Hot Water Kettles</a></li>
+					<li><a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=81">Infusers</a></li>
+					<li><a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=90">Loose Leaf Tea</a></li>
+					<li><a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=82">Pots</a></li>
+					<li><a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=75">Tea Accessories</a></li>
+					<li><a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=46">Tea Brewers</a></li>
+					<li><a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=46">Tea Press</a></li>
+					<li><a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=46">Teaposy</a></li>
+					<li><a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=46">Teas</a></li>
+					<li><a href="http://www.wholelattelove.com/teas.cfm?cid=23&amp;scid=46">Warmers</a></li>
+					<li><a href="http://www.wholelattelove.com/outlet.cfm?cid=5">Outlet</a></li>
+					<li><a href="http://www.wholelattelove.com/commercial.cfm?cid=5">Commercial</a></li>
+				</ul>
+			</div>
+		
+		</li>
+        <li><a href="http://www.wholelattelove.com/desserts.cfm" class="categories">Dessertware</a></li>
+        <li><a href="http://www.wholelattelove.com/cleaning.cfm" class="categories">Cleaning Products</a></li>
+        <li><a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=8" class="categories">Cups</a></li>
+        <li><a href="http://www.wholelattelove.com/all_accessories.cfm?cid=5&amp;scid=12" class="categories">Tampers</a></li>
+        <li><a href="http://www.wholelattelove.com/coffee_maker.cfm?cid=2&amp;vid=306" class="categories">Thermal Carafes</a></li>
     </ul>
 	</dd>
-
+	
 	<dt><a href="http://www.wholelattelove.com" class="navAccordion">Knowledge Base<img src="http://www.wholelattelove.com/graphics_buttons2008/aarow_down.gif" alt="click to open" border="0"></a></dt>
     <dd>
     <ul>
@@ -13206,34 +4427,24 @@ $(document).ready(function(){
         <li><a href="http://www.wholelattelove.com/maintenance.cfm" title="Machine Maintenance">Machine Maintenance</a></li>
     </ul>
     </dd>
+	
 
-
-
+	
 </div>
 <div id="border">
 <h2><a href="http://www.wholelattelove.com/gift_guide.cfm">Gift Center</a></h2>
 
-<h2><a href="http://www.wholelattelove.com/chart_semiautomatic.cfm">Espresso Machine Packages</a></h2>
 
-
+<h2><a href="http://www.wholelattelove.com/gifts.cfm">Espresso Machine Packages</a></h2>
 
 <h3><a href="http://www.wholelattelove.com/prosumer_index.cfm">Prosumer</a></h3>
 
 
 <h3><a href="http://www.wholelattelove.com/outlet_index.cfm">Refurbished (Outlet)</a></h3>
 
-
 <h3><a href="http://www.wholelattelove.com/commercial_index.cfm">Shop Commercial</a></h3>
 
-
 <h2><a href="http://www.wholelattelove.com/holiday_sale2010.cfm"><font color="#FF0000">On Sale!</font></a></h2>
-
-
-
-
-<!--<h5><a href="http://www.wholelattelove.com/press_page.cfm">Press Page</a></h5>
-<h5><a href="http://www.wholelattelove.com/policies.cfm">Policies</a></h5>
-<h5><a href="http://www.wholelattelove.com/about_us.cfm">About Us</a></h5> -->
 
 
 <div id="Navfooter"></div>
@@ -13248,35 +4459,6 @@ $(document).ready(function(){
 
 
 
-<div id="questionaandanswers">
-<img src="http://www.wholelattelove.com/graphics_buttons2008/button_large_question.gif" alt="questions - call or email us here">Have questions? Need assistance? We can help! Call or Email us...<a href="http://www.wholelattelove.com/contact.cfm">CLICK HERE!</a></div>
-
-<div id="securitybanners">
-          
-          <br>
-          <br>
-          <br> 
-          <!-- GeoTrust QuickSSL [tm] Smart Icon tag. Do not edit. -->
-          
-          
-		  
-		  
-		  
-		  
-          
-		  
-		  <script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script><br><br>
-          <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.wholelattelove.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.wholelattelove.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
-		  
-		  
-		  
-		  
-		  
-          
-<br>
-<br> 
-</div>
-
 
 
 
@@ -13289,11 +4471,10 @@ $(document).ready(function(){
 			
 <div id="categorylandingbanner">
 <div id="categorylandingbannerheader">
-<p></p>
 <h2></h2>
 </div>
 </div>
-<div id="textpagemain">
+<div class="media_commercial_content"><div id="textpagemain">
 <a name="top"></a>
 		<h1>Privacy and Security Policies</h1>
 		<table width="100%" border="0" cellspacing="0" cellpadding="4">
@@ -13322,7 +4503,7 @@ $(document).ready(function(){
 <p>Ensuring the security and protection of your personal information is  important to us. When you choose to purchase from Whole Latte Love, you will be  taken to a secure web page to enter credit card information to complete the  purchase. </p>
 <p>Whole Latte Love only uses 128-bit SSL encryption. SSL technology encodes  information as it is being sent over the Internet, helping to ensure that the  information transmitted remains confidential. </p>
 <p>SSL technology requires the use of compatible browsers,  which allow you to communicate with our website in a protected session by  encrypting information that flows between you and the site. Internet Explorer  browser versions prior to 3.02 and Netscape browser versions prior to 4.02 are  not capable of 128-bit encryption. We recommend you use the latest browser  versions available.</p>
-</div> 
+</div></div> 
 
 </div>
 	
@@ -13346,7 +4527,7 @@ $(document).ready(function(){
 <center>
 	<div id="wrapperfooter">
 	
-	
+			<a href="#media_top" class="go_top" style="display:none">Top of Page</a>
 			<div id="footermenuleft">
 			  <ul>
 				<li><a href="http://www.wholelattelove.com/index.cfm">HOME</a></li>
@@ -13370,19 +4551,8 @@ $(document).ready(function(){
 		
 		<div id="footermenucenter">
 		  <ul>
-		    <li><strong>Policies</strong></li>
-			<li><a href="http://www.wholelattelove.com/policy_returns.cfm">-Return Policies</a></li>
-		    <li><a href="http://www.wholelattelove.com/policy_privacy.cfm">-Privacy and Security Policies</a></li>
-            <li><a href="http://www.wholelattelove.com/policy_pricing_holiday.cfm">-Pricing and Holiday Policies</a></li>
-		    <li><a href="http://www.wholelattelove.com/policy_shipping.cfm">-Shipping Policies</a></li>
-            <li><a href="http://www.wholelattelove.com/policy_repairs.cfm">-Repair Policies</a></li>
-		    <li><a href="http://www.wholelattelove.com/policy_warranty.cfm">-Warranty Policies</a></li>
-		    
-		    <li><strong>Commercial Policies</strong></li>
-            <li><a href="http://www.wholelattelove.com/commercial_policies.cfm">-Policies and Procedures</a></li>
-            <li><a href="http://www.wholelattelove.com/commercial_warranty.cfm">-Warranties</a></li>
-            <li><a href="http://www.wholelattelove.com/installation_policy.cfm">-Installation Policy</a></li>
-            <li><a href="http://www.wholelattelove.com/commercial_shipping.cfm">-Shipping</a></li>
+            <li><strong><a href="http://www.wholelattelove.com/policy_landing.cfm">Policies</a></strong></li>
+            <li><strong><a href="http://www.wholelattelove.com/policy_commercialpolicieslandingpage.cfm">Commercial Policies</a></strong></li>
 		  </ul>
 		</div>
 		
@@ -13390,16 +4560,50 @@ $(document).ready(function(){
 	  <div id="footermenuright">
 		<h2><strong>888-411-5282</strong></h2>
 		<p><strong>Hours of Operation</strong><br>
-	    Monday - Thursday - 9 AM to 8 PM EST<br>
-	    Friday - 9 AM to 6 PM EST
-	    <br>
-		  Saturday - 9 AM to 3 PM EST (Customer Service 9-2)<br>
-		  Sunday - Closed</p>
-		<p>888-411-5282 (JAVA) or 585-924-7170 or FAX 585-292-5823<br>
+	    Monday - Friday - 9 AM to 9 PM EST<br>
+	    Saturday - 9 AM to 6 PM EST<br>
+	    Sunday - 9 AM to 6 PM EST
+	    (Sales only)<br>
+			</p>
 		Whole Latte Love - 2200 Brighton Henrietta Town Line Rd, Rochester, NY 14623<br>
-		<a href="http://www.wholelattelove.com/policies.cfm">Copyright © 2011 Whole Latte Love</a>. All rights reserved.		</p>
+		<a href="http://www.wholelattelove.com/policies.cfm">Copyright © 2011 Whole Latte Love</a>. All rights reserved.		<p></p>
 	  </div>
-		
+	  <div id="footerpayment">
+		 <center>
+         <p>&nbsp;<br>
+         </p><table width="400" border="0" cellspacing="0">
+           <tbody><tr>
+             <td align="center" valign="middle"><img src="http://www.wholelattelove.com/graphics_main_banner/payment_options/visa.jpg" alt="Visa"></td>
+             <td align="center" valign="middle"><img src="http://www.wholelattelove.com/graphics_main_banner/payment_options/mastercard.jpg" alt="MasterCard"></td>
+             <td align="center" valign="middle"><img src="http://www.wholelattelove.com/graphics_main_banner/payment_options/discover.jpg" alt="Discover Card"></td>
+             <td align="center" valign="middle"><img src="http://www.wholelattelove.com/graphics_main_banner/payment_options/amex.jpg" alt="American Express"></td>
+             <td align="center" valign="middle"><img src="http://www.wholelattelove.com/graphics_main_banner/payment_options/paypal.jpg" alt="Now Accepting Paypal"></td>
+           </tr>
+         </tbody></table>
+              
+                 <p></p>
+                 
+<div id="questionaandanswers">
+Have questions? Need assistance? We can help! Call or Email us...<a href="http://www.wholelattelove.com/contact.cfm">CLICK HERE!</a></div>
+
+<div id="securitybanners">
+
+          <br>
+          <br>
+          <br> 
+		  
+		  
+		  <script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script><br><br>
+          <a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.wholelattelove.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.wholelattelove.com/12.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
+          
+		  
+          
+<br>
+<br> 
+</div>
+
+		 </center>
+		</div>
 		
 	</div>
 	
