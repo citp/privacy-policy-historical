@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the socialparadox.com privacy policy that was archived on 2010-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100709073824id_/http%3A//www.socialparadox.com/pg/expages/read/3/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialparadox.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126203327id_/http%3A//www.socialparadox.com/pg/expages/read/3/privacy-policy) for the most accurate reproduction.*
 
-# Social Paradox: Privacy Policy
+# Privacy Policy - Social Paradox
 
 We value your privacy, and we want to help make your experience with the Social Paradox Platform as satisfying and safe as possible. We have established this Privacy Policy to explain how Social Paradox collects Personal Information (as defined below) on the Social Paradox Platform, and how Social Paradox uses and discloses that Personal Information. "Personal Information," as used in this Privacy Policy, is information that allows a person to directly identify an individual, such as name or email address, and information that we combine directly with such identifying information. This Privacy Policy is incorporated into and is subject to the Social Paradox Terms of Service. Any capitalized terms not defined herein have the meaning set forth in the Social Paradox Terms of Service. By using the Social Paradox Platform, you expressly consent to the information handling practices described in this Privacy Policy.
 
