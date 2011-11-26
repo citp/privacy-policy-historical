@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ringsidenews.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623011507id_/http%3A//www.ringsidenews.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringsidenews.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126051128id_/http%3A//www.ringsidenews.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy » Wrestling News & Rumors - WWE News, TNA News
+# Privacy Policy » Wrestling News & Rumors - Powered By phpFox
 
 RingsideNews.com knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy. 
 
@@ -22,6 +22,8 @@ RingsideNews.com may collect and, on any page, display the total counts that pag
 
 Many companies offer programs that help you to visit websites anonymously. While RingsideNews.com will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available. 
 
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/). 
+
 E-mail Communications   
 RingsideNews.com is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. RingsideNews.com may send out e-mails with RingsideNews.com-related news, products, offers, surveys or promotions. 
 
@@ -31,8 +33,10 @@ Cookies are alphanumeric identifiers that we transfer to your computer’s hard 
 The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of RingsideNews.com’s coolest features.   
 RingsideNews.com’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads. If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page. 
 
-Sharing Your Information   
-Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.   
+Sharing Your Information 
+
+Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below. 
+
 RingsideNews.com Personnel: RingsideNews.com personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of RingsideNews.com business.   
 Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if RingsideNews.com, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred. 
 
@@ -51,4 +55,4 @@ Conditions of Use
 If you decide to visit RingsideNews.com website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law. 
 
 Effective Date of this Privacy Policy   
-This Privacy Policy is effective as of 7/29/2010 and last updated 2/18/2011. 
+This Privacy Policy is effective as of 7/29/2010 and last updated 8/5/2011. 
