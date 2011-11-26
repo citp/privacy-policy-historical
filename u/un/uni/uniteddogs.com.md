@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uniteddogs.com privacy policy that was archived on 2010-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100307150903id_/http%3A//www.uniteddogs.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniteddogs.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126140317id_/http%3A//www.uniteddogs.com/en/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy (Uniteddogs)
 
-Welcome to uniteddogs.com and unitedcats.com, an online dogs'/cats' and dog/cat lovers' social networking service, operated by United Dogs and Cats Ltd (registered in Europe, Estonia). United Dogs and Cats cares deeply about online privacy. This Privacy Policy explains how we collect and use your personal identifying information. Please read this Privacy Policy carefully, and if you have any questions, please feel free to contact us. 
+Welcome to uniteddogs.com and unitedcats.com, an online dog and cat lovers social networking service, operated by United Pets Ltd (registered in Europe, Estonia). United Dogs and Cats cares deeply about online privacy. This Privacy Policy explains how we collect and use your personal identifying information. Please read this Privacy Policy carefully, and if you have any questions, please feel free to contact us. 
 
 By using Uniteddogs.com and Unitedcats.com, you consent to the collection and use of your personal information as outlined in the Privacy Policy. From time to time, we may update the Privacy Policy and we will post a notice of significant changes on the site. You should visit this page periodically to review any such changes to the Privacy Policy.
 
