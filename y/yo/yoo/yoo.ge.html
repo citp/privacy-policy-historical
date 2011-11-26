@@ -1,18 +1,15 @@
-<!--The following is the downloaded HTML source of the yoo.ge privacy policy that was archived on 2011-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110513010205id_/http%3A//yoo.ge/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yoo.ge privacy policy that was archived on 2011-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111126215001id_/http%3A//yoo.ge/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<title>Privacy Policy - თამაშები - Games at Yoo.ge - Play Free Online Games</title>
+<!DOCTYPE html><html slick-uniqueid="1"><head>
+<meta http-equiv="content-type" content="text/html;charset=utf-8">
+<title>Privacy Policy -  - Games at Yoo.ge - Play Online Games</title>
 <meta name="description" content=" Play Free Online Games, fun games, puzzle games, action games, sports games, flash games, adventure games, multiplayer games and more">
-<meta name="keywords" content=" თამაში ონლაინ თამაშები უფასო გართობა სასაცილო სათამაშო სათამაშოები საბავშო ანიმაცია ანიმაციური გასართობი">
-<link rel="stylesheet" href="js/jd.gallery.css" type="text/css" media="screen" charset="utf-8">
+<meta name="keywords" content="">
+<link href="style.css?gh" rel="stylesheet" type="text/css"> 
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/dropdown.js"></script>
 <link rel="shortcut icon" href="favicon.ico">
-<link href="style.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/swfobject.js"></script>
-<script type="text/javascript" src="js/mootools.js"></script> 
 <script type="text/javascript">
-
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-10828072-1']);
   _gaq.push(['_setDomainName', 'none']);
@@ -24,7 +21,6 @@
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
-
 </script>
 <script type="text/javascript">
 function pop_up(URL,WIDTH,HEIGHT) {
@@ -33,36 +29,8 @@ id = day.getTime();
 eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=1,menubar=0,resizable=1,width=" + WIDTH + ",height=" + HEIGHT + ",left = 192,top = 144');");
 }
 </script>
-
-<script type="text/javascript">
-function showResult(str)
-{
-if (str.length==0)
-  { 
-  document.getElementById("livesearch").innerHTML="";
-  document.getElementById("livesearch").style.border="0px";
-  return;
-  }
-if (window.XMLHttpRequest)
-  {// code for IE7+, Firefox, Chrome, Opera, Safari
-  xmlhttp=new XMLHttpRequest();
-  }
-else
-  {// code for IE6, IE5
-  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
-  }
-xmlhttp.onreadystatechange=function()
-  {
-  if (xmlhttp.readyState==4 && xmlhttp.status==200)
-    {
-    document.getElementById("livesearch").innerHTML=xmlhttp.responseText;
-    document.getElementById("livesearch").style.border="";
-    }
-  }
-xmlhttp.open("GET","lib/search?q="+str,true);
-xmlhttp.send();
-}
-</script>
+<script type="text/javascript" src="js/mootools-core-1.3.2-full-compat.js"></script>
+<script type="text/javascript" language="javascript" src="js/tt.js"></script>
 <script type="text/javascript">
 window.addEvent('domready', function() {});
 function add_my_games(gg_id) {
@@ -154,24 +122,40 @@ function zoom_a()
 var loader = $('game');
 loader.style.width = '990px';
 loader.style.height = '702px';
+var loader = $('gad');
+loader.style.display = 'none';
+var loader = $('gadd');
+loader.style.display = 'none';
 }
 function zoom_b()
 {
 var loader = $('game');
 loader.style.width = '825px';
-loader.style.height = '595px';
+loader.style.height = '600px';
+var loader = $('gad');
+loader.style.display = 'none';
+var loader = $('gadd');
+loader.style.display = 'block';
 }
 function zoom_c()
 {
 var loader = $('game');
 loader.style.width = '680px';
 loader.style.height = '482px';
+var loader = $('gad');
+loader.style.display = 'none';
+var loader = $('gadd');
+loader.style.display = 'block';
 }
 function zoom_d()
 {
 var loader = $('game');
 loader.style.width = '540px';
 loader.style.height = '383px';
+var loader = $('gad');
+loader.style.display = 'block';
+var loader = $('gadd');
+loader.style.display = 'block';
 }
 function ddd()
 {
@@ -179,80 +163,178 @@ var loader = $('ddd');
 var loader = $('ddd');
 loader.style.display = 'block';
 }
+function showHide(shID) {
+if (document.getElementById(shID)) {
+if (document.getElementById(shID+'-show').style.display != 'none') {
+document.getElementById(shID+'-show').style.display = 'none';
+document.getElementById(shID).style.display = 'block';
+} else {
+document.getElementById(shID+'-show').style.display = 'inline';
+document.getElementById(shID).style.display = 'none';
+}
+}
+}
 
+function flash_zoom(d) {
+	obj = document.getElementById("flash_game_object");
+	embed = document.getElementById("flash_game_embed");
+	if (d==0) {
+		nw = obj.width*0.9;
+		nh = obj.height*0.9;
+		window.resizeBy(nw-(obj.width*0.98),nh-(obj.height*0.98));
+	} else {
+		nw = obj.width*1.1;
+		nh = obj.height*1.1;
+		window.moveBy(-(nw-obj.width),-(nh-obj.height)); 
+		window.resizeBy(nw-obj.width,nh-obj.height);
+	}
+	
+	
+	obj.width = nw;
+	obj.height = nh;
+	
+	embed.width = nw;
+	embed.height = nh;
+    var loader = $('game');
+    loader.style.width = nw;
+    loader.style.height = nh;
+}
+</script>
+<script type="text/javascript" src="js/moolazyloader.js"></script>
+<script type="text/javascript">
+	window.addEvent('domready', function() {
+		var lazy = new MooLazyloader({
+			items: '.lazyload' //pass the class name of the images to lazy load
+		});
+	});
+</script>
+<link href="img/SqueezeBox.css" rel="stylesheet" type="text/css"> 
+<script type="text/javascript" src="js/SqueezeBox.js"></script>
+<script type="text/javascript">
+window.addEvent('domready', function() {
+ 
+	/**
+	 * That CSS selector will find all <a> elements with the
+	 * class boxed
+	 *
+	 * The example loads the options from the rel attribute
+	 */
+	SqueezeBox.assign($$('a.boxed'), {
+		parse: 'rel'
+	});
+ 
+});
+</script>
+
+<script type="text/javascript">
+function showResult(str)
+{
+if (str.length==0)
+  { 
+  document.getElementById("livesearch").innerHTML="";
+  document.getElementById("livesearch").style.border="0px";
+  return;
+  }
+if (window.XMLHttpRequest)
+  {// code for IE7+, Firefox, Chrome, Opera, Safari
+  xmlhttp=new XMLHttpRequest();
+  }
+else
+  {// code for IE6, IE5
+  xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xmlhttp.onreadystatechange=function()
+  {
+  if (xmlhttp.readyState==4 && xmlhttp.status==200)
+    {
+    document.getElementById("livesearch").innerHTML=xmlhttp.responseText;
+    document.getElementById("livesearch").style.border="";
+    }
+  }
+xmlhttp.open("GET","lib/search?q="+str,true);
+xmlhttp.send();
+}
 </script>
 </head>
 <body>
-<div id="add-game-done" style="display:none;width: 1000px;border: 1px #DBE1E6 solid;border-bottom: 2px outset #CCFF00;margin:0 auto;margin-bottom:5px;background:url(img/header-bg.png) repeat-x;"><h5>Game has been added!</h5></div>
-<div id="need-register" style="display:none;width: 1000px;border: 1px #DBE1E6 solid;border-bottom: 2px outset #CCFF00;margin:0 auto;margin-bottom:5px;background:url(img/header-bg.png) repeat-x;"><h5>Please register to save games!</h5></div>
-<div id="spam" style="display:none;width: 1000px;border: 1px #DBE1E6 solid;border-bottom: 2px outset #CCFF00;margin:0 auto;margin-bottom:5px;background:url(img/header-bg.png) repeat-x;"><h5>Thank you, report was sent.</h5></div>
-<div id="hp" style="display:none;width: 1000px;border: 1px #DBE1E6 solid;border-bottom: 2px outset #CCFF00;margin:0 auto;background:#fff;margin-bottom:5px;">Set Your Home Page: <a href="lib/hp?set=games_page">Default</a> - <a href="lib/hp?set=my_profile">My Profile</a> - <a href="lib/hp?set=recent">Recent</a> - <a href="lib/hp?set=drawings">Drawings</a> - <a href="lib/hp?set=favorite_games">Favorite Games</a></div>
-<div id="ReloadThis"></div>
-<div style="width: 1000px;height:100px;border: 1px #DBE1E6 solid;border-bottom: 2px outset #7B0099;background:url(img/header-bg.png) repeat-x;margin:0 auto;">
-<div style="float:left;">
-<a href="/" title="Games Home"><img src="img/logo.gif"></a>
-</div>
-<div class="member-area" style="float:left;width:408px;height:92px;margin-left:5px;margin-top:4px;border-left: 1px dotted #7B0099;border-right: 1px dotted #7B0099;">
-<div style="margin-left:3px;">
-<form action="lib/login" method="post" name="login">
-SIGN IN OR <strong><a href="join"><span style="color:red;">SIGN UP FOR FREE!</span></a> / <a href="reset">RESTORE PASSWORD</a></strong><br>
-<input name="y_username" type="text" value="Username..." onblur="if(this.value=='') this.value='Username...';" onfocus="if(this.value=='Username...') this.value='';">  <input class="inp" name="y_password" type="password" value="pass..." onblur="if(this.value=='') this.value='pass...';" onfocus="if(this.value=='pass...') this.value='';">  <input class="inp" value="Login" type="submit"><br>
+
+<div style="left:0;top:0;position:fixed;width:100%;height:35px;background:#212121 url(img/header-b-bg.png) repeat-x;z-index:100;">
+<div class="main-menu-header" style="float:left;margin-top:5px;">
+<div class="search" style="float:left;height:28px;margin-left:5px;">
+<form action="lib/login" method="post" name="login"> 
+<input style="width:8em;" name="y_username" type="text" value="Username..." onblur="if(this.value=='') this.value='Username...';" onfocus="if(this.value=='Username...') this.value='';"> 
+<input style="width:8em;" name="y_password" type="password" value="password..." onblur="if(this.value=='') this.value='password...';" onfocus="if(this.value=='password...') this.value='';"> 
+<input style="width:4em;" value="Log In" type="submit"> &nbsp;&nbsp; <a href="join" title="Register">Register</a> / <a href="lib/reset.php" class="boxed" rel="{handler:'iframe',size:{x:250,y:100}}">Reset Password.</a>
 </form>
 </div>
-<div style="margin-top:5px;margin-left:3px;">
-<a href="join" title="SIGN UP FOR FREE!"><img src="img/member-bar.gif"></a>
 </div>
+<div style="float:right;height:25px;margin-top:11px;margin-right:3px;">
+<img src="img/web1/games.png" height="13"> <img src="img/web1/2.png" height="13"><img src="img/web1/1.png" height="13"><img src="img/web1/,.png" height="13"><img src="img/web1/0.png" height="13"><img src="img/web1/0.png" height="13"><img src="img/web1/6.png" height="13"> <img src="img/pink/+.png" height="13"> <img src="img/pink/1.png" height="13"><img src="img/pink/1.png" height="13"> &nbsp; <img src="img/web1/members.png" height="13"> <img src="img/web1/9.png" height="13"><img src="img/web1/0.png" height="13"><img src="img/web1/,.png" height="13"><img src="img/web1/9.png" height="13"><img src="img/web1/1.png" height="13"><img src="img/web1/1.png" height="13"> &nbsp; <img src="img/web1/online.png" height="13"> <img src="img/web1/2.png" height="13"><img src="img/web1/6.png" height="13"><img src="img/web1/0.png" height="13"></div>
 </div>
-<div style="float:right;width:410px;height:92px;margin-top:4px;">
-<div style="float:left;width:410px;">
-<form action="cat" method="get" name="login">
-<input class="inp" name="q" style="width:18em;" type="text" value="SEARCH OVER 16,000 GAMES..." onblur="if(this.value=='') this.value='SEARCH OVER 16,000 GAMES...';" onfocus="if(this.value=='SEARCH OVER 16,000 GAMES...') this.value='';" onkeyup="showResult(this.value)"> 
-<input class="inp" value="Search" type="submit">
+
+<div style="width:100%;height:55px;margin-top:35px;background:#F1F1F1;border-bottom: 1px solid #D2D2D2">
+<div style="width:1000px;margin:0 auto;">
+<div style="float:left;width:130px;margin-top:5px;">
+<a href="home" title="Games Home"><img src="img/yoo.gif" alt="Games Home" height="45"></a>
+</div>
+<div style="float:left;margin-top:13px;margin-left:35px;" class="search-big">
+<form action="cat" method="get" name="search"> 
+<input name="q" type="text" value="Search..." onblur="if(this.value=='') this.value='Search...';" onfocus="if(this.value=='Search...') this.value='';" onkeyup="showResult(this.value)"> 
 </form>
 </div>
 
-<div class="cat" style="float:left;width:410px;margin-top:2px;">
-<div style="float:left;">
-<param name="movie" value="online1.swf"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"><embed src="online1.swf" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" height="26" width="70">
+<div style="float:right;width:60px;margin-top:22px;">
+<!-- Place this tag where you want the +1 button to render -->
+<g:plusone size="medium"></g:plusone>
+<!-- Place this render call where appropriate -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
 </div>
-<div style="float:left;width:330px;margin-left:5px;margin-top:4px;">
-<h3>Online Game Players</h3>
+<div style="float:right;margin-top:20px;margin-right:15px;">
+<a href="langs.php" title="Languages" class="boxed" rel="{handler:'iframe',size:{x:400,y:600}}"><img src="img/langs.gif" alt="Languages" height="22"></a>
 </div>
-<div style="float:left;width:403px;border-bottom: 1px dotted #7B0099;">
-Home to over 14,000 games and the <a href="cat">Game of the Day</a>.
+<div class="menu-kl" style="float:right;margin-top:22px;margin-right:15px;text-align:right;">
+<a href="cat">Game Categories</a>&nbsp;&nbsp;&nbsp;<a href="app-store">iOS Apps</a>
 </div>
-</div>
-<div class="cat" style="float:left;width:410px;margin-top:1px;">
-<ul>
-<li><a href="live">Recent</a></li>
-<li><a href="videos">Videos</a></li>
-<li><a href="drawings"><span style="color:green;">Drawings</span></a></li>
-<li><a href="community">Community</a></li>
-<li><a href="cat">All Games</a></li>
-</ul>
-</div>
-</div>
-<br style="clear:both;">
-</div>
-<div style="width: 1000px;border: 1px #DBE1E6 solid;background:#fff;margin:0 auto;margin-bottom:5px;">
-<div style="margin:4px;">
-<div style="float:left;">
-<ul id="mainNav"> 
-<li><a href="app-store" title="Iphone Ipod Ipad Games">Iphone Games <img src="img/new-cat.gif" width="10" alt="New Game"></a></li>
-<li><a href="cat.php?list=fashion" title="Fashion Games">Fashion (3681) </a></li><li><a href="cat.php?list=puzzle" title="Puzzle Games">Puzzle (2808) </a></li><li><a href="cat.php?list=action" title="Action Games">Action (1199) </a></li><li><a href="cat.php?list=shooting" title="Shooting Games">Shooting (1002) </a></li><li><a href="cat.php?list=sport" title="Sport Games">Sport (989) </a></li><li><a href="cat.php?list=adventure" title="Adventure Games">Adventure (977) </a></li><li><a href="cat.php?list=girls" title="Girls Games">Girls (834) </a></li><li><a href="cat.php?list=cooking" title="Cooking Games">Cooking (776) </a></li><li><a href="cat.php?list=racing" title="Racing Games">Racing (755) </a></li><li><a href="cat.php?list=arcade" title="Arcade Games">Arcade (685) </a></li><li><a href="cat.php?list=rpg" title="Rpg Games">Rpg (672) </a></li><li><a href="cat.php?list=skill" title="Skill Games">Skill (539) </a></li><li><a href="cat.php?list=funny" title="Funny Games">Funny (524) </a></li><li><a href="cat.php?list=dress up" title="Dress up Games">Dress up (345) </a></li><li><a href="cat.php?list=flying" title="Flying Games">Flying (339) </a></li><li><a href="cat.php?list=Animal" title="Animal Games">Animal (325) </a></li><li><a href="cat.php?list=simulation" title="Simulation Games">Simulation (293) </a></li><li><a href="cat.php?list=new year" title="New year Games">New year (254) </a></li><li><a href="cat.php?list=multiplayer" title="Multiplayer Games">Multiplayer (242) </a></li><li><a href="cat.php?list=time" title="Time Games">Time (236) </a></li><li><a href="cat.php?list=service" title="Service Games">Service (232) </a></li><li><a href="cat.php?list=shockwave" title="Shockwave Games">Shockwave (231) </a></li><li><a href="#" onclick="cat_show('yes');"><span style="color:green;">Show All</span></a></li>
-</ul>
-</div>
-<div id="cat_s" style="display:none;float:left;margin-top:10px;">
-<ul id="mainNav"> 
-<li><a href="cat.php?list=make up" title="Make up Games">Make up (226) </a></li><li><a href="cat.php?list=kissing" title="Kissing Games">Kissing (223) </a></li><li><a href="cat.php?list=food" title="Food Games">Food (218) </a></li><li><a href="cat.php?list=mind" title="Mind Games">Mind (207) </a></li><li><a href="cat.php?list=cars" title="Cars Games">Cars (203) </a></li><li><a href="cat.php?list=kids" title="Kids Games">Kids (197) </a></li><li><a href="cat.php?list=management" title="Management Games">Management (195) </a></li><li><a href="cat.php?list=love" title="Love Games">Love (182) </a></li><li><a href="cat.php?list=truck" title="Truck Games">Truck (158) </a></li><li><a href="cat.php?list=jumping" title="Jumping Games">Jumping (156) </a></li><li><a href="cat.php?list=motorbike" title="Motorbike Games">Motorbike (153) </a></li><li><a href="cat.php?list=physics" title="Physics Games">Physics (145) </a></li><li><a href="cat.php?list=casino" title="Casino Games">Casino (134) </a></li><li><a href="cat.php?list=defense" title="Defense Games">Defense (126) </a></li><li><a href="cat.php?list=escape" title="Escape Games">Escape (119) </a></li><li><a href="cat.php?list=platforms" title="Platforms Games">Platforms (110) </a></li><li><a href="cat.php?list=cartoon" title="Cartoon Games">Cartoon (107) </a></li><li><a href="cat.php?list=Fighting" title="Fighting Games">Fighting (93) </a></li><li><a href="cat.php?list=balancing" title="Balancing Games">Balancing (90) </a></li><li><a href="cat.php?list=Dirt Bike" title="Dirt Bike Games">Dirt Bike (87) </a></li><li><a href="cat.php?list=water" title="Water Games">Water (84) </a></li><li><a href="cat.php?list=nick" title="Nick Games">Nick (77) </a></li><li><a href="cat.php?list=decorate" title="Decorate Games">Decorate (71) </a></li><li><a href="cat.php?list=mario" title="Mario Games">Mario (68) </a></li><li><a href="cat.php?list=parking" title="Parking Games">Parking (67) </a></li><li><a href="cat.php?list=music dance" title="Music dance Games">Music dance (65) </a></li><li><a href="cat.php?list=quiz" title="Quiz Games">Quiz (60) </a></li><li><a href="cat.php?list=fish" title="Fish Games">Fish (55) </a></li><li><a href="cat.php?list=zombies" title="Zombies Games">Zombies (54) </a></li><li><a href="cat.php?list=killing" title="Killing Games">Killing (52) </a></li><li><a href="cat.php?list=war" title="War Games">War (50) </a></li><li><a href="cat.php?list=bomb" title="Bomb Games">Bomb (49) </a></li><li><a href="cat.php?list=caring" title="Caring Games">Caring (47) </a></li><li><a href="cat.php?list=hollywood" title="Hollywood Games">Hollywood (47) </a></li><li><a href="cat.php?list=care" title="Care Games">Care (47) </a></li><li><a href="cat.php?list=running" title="Running Games">Running (45) </a></li><li><a href="cat.php?list=space" title="Space Games">Space (42) </a></li><li><a href="cat.php?list=word &amp; maze" title="Word &amp; maze Games">Word &amp; maze (41) </a></li><li><a href="cat.php?list=baby" title="Baby Games">Baby (40) </a></li><li><a href="cat.php?list=ufo" title="Ufo Games">Ufo (35) </a></li><li><a href="cat.php?list=hair salon" title="Hair salon Games">Hair salon (32) </a></li><li><a href="cat.php?list=robots" title="Robots Games">Robots (31) </a></li><li><a href="cat.php?list=wedding" title="Wedding Games">Wedding (31) </a></li><li><a href="cat.php?list=board" title="Board Games">Board (28) </a></li><li><a href="cat.php?list=fruit" title="Fruit Games">Fruit (26) </a></li><li><a href="cat.php?list=ninja" title="Ninja Games">Ninja (24) </a></li><li><a href="cat.php?list=balloons" title="Balloons Games">Balloons (17) </a></li><li><a href="cat.php?list=hunter" title="Hunter Games">Hunter (7) </a></li></ul>
-</div>
-<br style="clear:both;">
 </div>
 </div>
 <div style="width:1000px;margin:0 auto;" id="livesearch"></div>
+<div style="width:1000px;margin:0 auto;">
+<div id="add-game-done" style="display:none;width: 1000px;margin:0 auto;margin-bottom:10px;background:#8CBAD9;color#FFF;margin-top:10px;"><h1>Game has been added!</h1></div>
+<div id="need-register" style="display:none;width: 1000px;margin:0 auto;margin-bottom:10px;background:#8CBAD9;color#FFF;margin-top:10px;"><h1>To save game you have to be a member!</h1></div>
+<div id="spam" style="display:none;width: 1000px;margin:0 auto;margin-bottom:10px;background:#8CBAD9;color#FFF;margin-top:10px;"><h1>Thank you! Report was sent.</h1></div>
+</div>
+<div style="width:1000px;margin:0 auto;margin-top:5px;">
+<center>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-2488012565486277";
+/* yoo.ge 728x90 */
+google_ad_slot = "9122363912";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center>
+</div>
 <div style="width: 1000px;border: 1px #DBE1E6 solid;border-top: 2px outset #11B3F4;margin:0 auto;margin-top:5px;">
 <div style="margin:5px;">
 <h1>Privacy Policy</h1>
+
+Collection and Use of Personal Information: When we use the term "Personal Information" we mean information such as your first/middle initial or name and last name, street address, town or city, state, zip code, telephone number, instant-messenger nickname, blog or other personal website URL, date of birth, e-mail address and any other information that would allow someone to identify you or contact you. Personal Information also includes information such as lists of your friends' real names and their email addresses, instant-messenger nicknames or other personal identifiable information that you may add to such friend lists and your transactions or relationship with us, if you have been a user of the Site.
+
+We collect Personal Information about you when you visit the Site and input information, whether you are registering to use any features or functions of the Site, participating in Promotions (as defined in the Terms of Use Agreement, or in the course of any other exchanges of information, transactions and activities. We may use the information we obtain from you, including Personal Information, to tailor your experience of the Site, to display content we think may be of interest to you, or to let us customize what you see when you visit or use the Site according to your preferences.
+<br><br>
+<strong>Cookie</strong><br>
+We store catgeory names in your browser to offer games you playing most.
+<br><br>
+
 <strong>Non-personal information</strong><br>
 Non-personal information is information that cannot identify you personally, such as: (i) the IP address of the computer you are using);. 
 
@@ -275,13 +357,15 @@ updated: January 09, 2011
 </div>
 <br style="clear:both;">
 </div>
-<div style="width: 1000px;border: 1px #DBE1E6 solid;border-top: 2px outset #000;margin:0 auto;margin-top:5px;background:#f0f0f0;">
+<div style="width: 1000px;margin:0 auto;border: 1px #DBE1E6 solid;border-top: 2px solid #000;margin-top:5px;background:#f0f0f0;">
 <div style="margin:5px;">
-Our Games portal is the largest source of the best free online games including funny games, flash games, arcade games, dress-up games, internet games, shooting games, word games, RPG games, racing games, and much more. Play Games on the One-and-Only Addicting Games! Whatever game you feel like turning on, we got it here. Including free online games! With tons of reviews &amp; ratings, gamers of all skill levels are sure to find hot new games every day. This is the best place on the web to play games for free! Thousands of choices from some of the best developers around, like Armor Games, Games2Win, and Miniclip! If you're ready to start playing right now, simply choose from the following categories: Action, Sports, Puzzle &amp; Board, Shooting, Arcade &amp; Classic, Strategy, Adventure, Life &amp; Style, &amp; NewsGames. Submit a Game: Don't just play games on
-<a href="http://www.yoozone.com/" title="Yoo Zone">Yoo Zone.com</a>, <a href="http://www.startgamenow.com/" title="Start Game Now">Start Game Now.com</a>, <a href="http://www.gamesgames.ca/" title="Games Games">Games Games.ca</a>, <a href="http://www.jeje.ca/" title="Jeje Games">Jeje.ca</a>, <a href="http://www.yoo.ge/" title="Yoo Games">Yoo.ge</a>, <a href="http://www.yoo.am/" title="Yoo Games">Yoo.am</a>, <a href="http://www.yoo.fm/" title="Yoo Games">Yoo.fm</a>, <a href="http://www.yoo.tc/" title="Yoo Games">Yoo.tc</a>, <a href="http://www.yoo.vg/" title="Yoo Games">Yoo.vg</a>, <a href="http://www.yoo.ee/" title="Yoo Games">Yoo.ee</a>. Follow us on <a href="http://twitter.com/gamesgamesca" title="Twitter">Twitter</a> And <a href="http://www.facebook.com/pages/GamesGamesca/133454354035" title="Facebook Fan Page">Facebook</a> And <a href="http://www.youtube.com/startgamenow" title="Youtube Page">Youtube</a>.<br>
+Our Games portal is the largest source of the best free <a href="all-games">online games</a> including funny games, flash games, arcade games, dress-up games, internet games, shooting games, word games, RPG games, racing games, and much more. Play Games on the One-and-Only Addicting Games! Whatever game you feel like turning on, we got it here. Including free online games! With tons of reviews &amp; ratings, <a href="all-members">gamers</a> of all skill levels are sure to find hot new games every day. This is the best place on the web to play games for free! Thousands of choices from some of the best developers around, like Armor Games, Games2Win, and Miniclip! If you're ready to start playing right now, simply choose from the following categories: Action, Sports, Puzzle &amp; Board, Shooting, Arcade &amp; Classic, Strategy, Adventure, Life &amp; Style, &amp; NewsGames. Submit a Game: Don't just play games on
+<a href="http://www.yoozone.com/" title="Yoo Zone">Yoo Zone.com</a>, <a href="http://www.yoogames.jp/" title="Yoo Games">Yoo Games.jp</a>, <a href="http://www.startgamenow.com/" title="Start Game Now">Start Game Now.com</a>, <a href="http://www.gamesgames.ca/" title="Games Games">Games Games.ca</a>,  <a href="http://www.gamesgames.kz/" title="Games Games">Games Games.kz</a>, <a href="http://www.gamesgames.ec/" title="Games Games">Games Games.ec</a>, <a href="http://www.gamesgames.cr/" title="Games Games">Games Games.cr</a>, <a href="http://www.gamesgames.lt/" title="Games Games">Games Games.lt</a>, <a href="http://www.gamesgames.ae/" title="Games Games">Games Games.ae</a>, <a href="http://www.gamesgames.kr/" title="Games Games">Games Games.kr</a>, <a href="http://www.jeje.ca/" title="Jeje Games">Jeje.ca</a>, <a href="http://www.ogames.ca/" title="OGames">Ogames.ca</a>, <a href="http://www.yoo.ge/" title="Yoo Games">Yoo.ge</a>, <a href="http://www.yoo.am/" title="Yoo Games">Yoo.am</a>, <a href="http://www.yoo.mx/" title="Yoo Games">Yoo.mx</a>, <a href="http://www.yoo.fm/" title="Yoo Games">Yoo.fm</a>, <a href="http://www.yoo.tj/" title="Yoo Games">Yoo.tj</a>, <a href="http://www.yoo.tc/" title="Yoo Games">Yoo.tc</a>, <a href="http://www.yoo.vg/" title="Yoo Games">Yoo.vg</a>, <a href="http://www.yoo.ee/" title="Yoo Games">Yoo.ee</a>, <a href="http://www.yoo.co.nz/" title="Yoo Games">Yoo.co.nz</a>. Follow us on <a href="http://twitter.com/gamesgamesca" title="Twitter">Twitter</a> And <a href="http://www.facebook.com/pages/GamesGamesca/133454354035" title="Facebook Fan Page">Facebook</a> And <a href="http://www.youtube.com/gamesgamesca" title="Youtube Page">Youtube</a>. 
+
+
 </div>
-<br style="clear:both;">
 </div>
+
 <div style="width: 1000px;margin:0 auto;margin-top:5px;">
 <div style="float:left;width:200px;">
 <!-- TOP.GE COUNTER CODE -->
@@ -292,7 +376,7 @@ Our Games portal is the largest source of the best free online games including f
 </noscript>
 <!-- / END OF COUNTER CODE --></div>
 <div style="float:left;width:800px;text-align:right;">
-All games are copyrights of their associated owners. <a href="http://live.ge/">Live.Ge</a> | <a href="privacy-policy">Privacy Policy</a> | <a href="yoo">Wallpapers &amp; Logos</a> | <a href="all-games">All Games</a> | <a href="company">Contact us</a> | <a href="company">Link Exchange</a> | <a href="add-game">Upload Your Game</a>
+(3) All games are copyrights of their associated owners. <a href="privacy-policy">Privacy Policy</a> | <a href="ios">Mobile</a> | <a href="rss-games">RSS</a> | <a href="store">Store</a> | <a href="all-members">All Members</a> | <a href="all-games">All Games</a> | <a href="company">Contact us</a>
 </div>
 </div>
 
