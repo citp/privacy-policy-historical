@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the religionnews.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528183906id_/http%3A//www.religionnews.com/index.php%3F/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the religionnews.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126093943id_/http%3A//www.religionnews.com/index.php%3F/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,7 +68,7 @@ If you have any concerns or questions about any aspect of this policy, please fe
 
 **Washington, DC   20009**
 
-[****](mailto:kevin.eckstrom@religionnews.com)**[kevin.eckstrom@religionnews.com](mailto:kevin.eckstrom@religionnews.com)**
+[**[kevin.eckstrom@religionnews.com](mailto:kevin.eckstrom@religionnews.com)**](mailto:kevin.eckstrom@religionnews.com)
 
   
 
