@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silive.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517140653id_/http%3A//www.silive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silive.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126205754id_/http%3A//www.silive.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - SILive.com
 
@@ -61,7 +61,12 @@ If your children disclose information about themselves in publicly accessible ar
 
 If you're worried about your children's activities or their privacy on our site, we encourage you to contact our Privacy Policy Coordinator as described below.
 
-**VI. PRIVACY POLICY COORDINATOR**
+  
+**VI.** **NEWS REGISTRY**
+
+This Web site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at <http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx> for further information.
+
+**VII. PRIVACY POLICY COORDINATOR**
 
 If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows:
 
