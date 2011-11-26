@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccl.org privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528164420id_/http%3A//www.ccl.org/leadership/utilities/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccl.org privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126093602id_/http%3A//www.ccl.org/leadership/utilities/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Commitment - Center for Creative Leadership
 
@@ -37,7 +37,7 @@ We provide constituents the opportunity to opt-out of receiving communications f
 **PO Box 26300**  
 **Greensboro, NC 27438-6300**  
 **USA**
-  * Call the following telephone number: +1 336 545 2810
+  * Call the following telephone number: +1 800 780 1031
 
 
 
@@ -156,7 +156,7 @@ If you have any questions about this privacy commitment, you may contact:
 
 | **CCL - Americas** | **CCL - Europe, Middle East, Africa** | **CCL - Asia-Pacific**  
 ---|---|---|---  
-**Phone** | +1 336 545 2810 | +32 (0) 2 679 09 10 | +65 6854 6000  
+**Phone** | +1 800 780 1031 | +32 (0) 2 679 09 10 | +65 6854 6000  
 **Facsimile** | +1 336 282 3284 | +32 (0) 2 673 63 06 | +65 6854 6001  
 **E-mail** | [info@ccl.org](mailto:info@ccl.org) | [ccl.europe@ccl.org](mailto:ccl.europe@ccl.org) | [cclasia@ccl.org](mailto:cclasia@ccl.org)  
 **Mailing Address** | Center for Creative Leadership  
