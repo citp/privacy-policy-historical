@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loopdesk.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624225736id_/http%3A//www.loopdesk.com/page/view/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopdesk.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126050631id_/http%3A//www.loopdesk.com/page/view/privacy-policy) for the most accurate reproduction.*
 
 # LoopDesk - FREE Online Business Networking Group
 
@@ -39,6 +39,6 @@ Please [**click here**](http://www.loopdesk.com/help_contact.php) if you have qu
 
 | 
 
-[](http://www.kornwilldesigns.com/)
+[](http://www.integratedalliances.com/)
 
-[](http://loopdesk.com/user_campaigns.php)
+[](http://www.drikotmedical.com/)
