@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashitback.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527203419id_/http%3A//www.cashitback.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashitback.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126010139id_/https%3A//www.cashitback.com/privacypolicy.php) for the most accurate reproduction.*
 
 # CashItBack | Privacy Policy
 
