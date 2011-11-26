@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theretrofitsource.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127014247id_/http%3A//www.theretrofitsource.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theretrofitsource.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126141621id_/http%3A//www.theretrofitsource.com/privacy.php) for the most accurate reproduction.*
 
-# The Retrofit Source LLC
+# The Retrofit Source Inc
 
 Our customers' privacy is of the utmost important to us. Accordingly, The Retrofit Source has made it our policy to provide online content that requires only minimal collection of information. Furthermore, to better protect your privacy we issue this notice explaining our online information practices and the way in which you can determine how your information is managed. 
 
@@ -8,7 +8,7 @@ The Retrofit Source only collects personal information from our visitors (1) for
 
 The Retrofit Source uses appropriate physical, electronic, and managerial procedures to guard our online visitors' personal information against unauthorized access and use. All information is protected by The Retrofit Source's security measures, which are periodically reviewed. 
 
-If you would like us to remove you from our e-mail or postal mailing lists, please [contact us](https://web.archive.org/web/20101127014247id_/http%3A//www.theretrofitsource.com/contact_us.php) and provide your full name, e-mail, and postal address. 
+If you would like us to remove you from our e-mail or postal mailing lists, please [contact us](https://web.archive.org/web/20111126141621id_/http%3A//www.theretrofitsource.com/contact_us.php) and provide your full name, e-mail, and postal address. 
 
 Consistent with the Children's Online Privacy Protection Act of 1998, we will never knowingly request personally identifying information from anyone under age 13 without prior verifiable parental consent. If we receive actual knowledge that a The Retrofit Source subscriber is under age 13, we will remove all personally identifying information about that person from our files. 
 
