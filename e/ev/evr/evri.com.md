@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evri.com privacy policy that was archived on 2010-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100712075245id_/http%3A//corporate.evri.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evri.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126053932id_/http%3A//corporate.evri.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Evri - Corporate
 
@@ -62,4 +62,4 @@ We reserve the right to change our Privacy Policy at any time. Non-material chan
 
 **Part VI. Problem Resolution**
 
-If problems arise, or if you have questions about this policy, you may contact us at [info@evri.com](mailto:info@evri.com). You may also contact us by mail at 206 1st Avenue S., Ste. 310, Seattle, WA 98104.
+If problems arise, or if you have questions about this policy, you may contact us at [info@evri.com](mailto:info@evri.com). You may also contact us by mail at 71 Columbia Street, Ste. 300, Seattle, WA 98104.
