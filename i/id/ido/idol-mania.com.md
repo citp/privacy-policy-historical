@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idol-mania.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624132959id_/http%3A//idol-mania.com/american-idol-fan/privacy-policy-for-idol-maniacom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idol-mania.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126224110id_/http%3A//idol-mania.com/american-idol-fan/privacy-policy-for-idol-maniacom) for the most accurate reproduction.*
 
 # Privacy Policy for Idol-Mania.com
 
@@ -36,10 +36,13 @@ idol (at sign) idol-mania.com
 or  
 egehler(at sign)gmail.com
 
-_——–  
-Like this Post? Give it a Plus 1_
+PS: This also is the No Creeps Privacy Policy as requested by Cait and Jeb 
 
- _
+_——–  
+Like this Post? Give it a Plus 1  
+_
+
+_
 
 Follow us on Twitter [@idolfans](http://twitter.com/idolfans)
 
