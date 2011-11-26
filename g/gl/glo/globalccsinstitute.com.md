@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalccsinstitute.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519033939id_/http%3A//www.globalccsinstitute.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalccsinstitute.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126154050id_/http%3A//www.globalccsinstitute.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Global CCS Institute
 
@@ -25,13 +25,25 @@ The Global CCS Institute will not disclose personal information to third parties
 
 ## Website access and use
 
-The Global CCS Institute does not collect your personal information when you only browse our website.  The Institute may collect your personal information when you transmit information to the Institute through the website (eg if you become a registered user) or by email.
+When you visit the website of the Global CCS Institute a record of the following information is recorded for statistical purposes only and is used to help improve our website. The following information is supplied by your browser (for example, Internet Explorer):
+
+  *     the user's server address;
+  *     the user's operating system (for example Windows, Mac OS etc);
+  *     the user's top level domain name (for example, .com, .gov, .au, .uk etc);
+  *     the date and time of the visit to the site;
+  *     the pages accessed and the documents downloaded;
+  *     the previous site visited; and
+  *     the type of browser used.
+
+
+
+No attempt will be made to identify individual users or their browsing activities except in the event that it is reasonably necessary for the enforcement of criminal law. In the case of the latter, we will comply with the Privacy Principles of the Privacy Act 1988 (Cth) regarding the limits and protocols associated with disclosure of personal information. The Institute may collect your personal information when you transmit information to the Institute through the website (eg if you become a registered user) or by email.
 
 If you are a registered user, your details and comments that you post on the website will be available on publicly accessible areas of the site.  The Global CCS Institute will not sell, rent or otherwise disclose your user details to third parties in any manner not set out in this Privacy Statement. While the Global CCS Institute takes all reasonable measures to ensure information transmitted over its website is secure, users should be aware that there is an inherent risk that transmitted information could be intercepted by third parties.
 
 ## Google Analytics
 
-This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”).  Cookies and code which are embedded in this site generate non-personal information about your use of this website, including your IP address, the pages you view, your time on this site, paths you take through the site, data on your browser and other general information intended for the purpose of aggregated analysis.  This information is transmitted to and stored by Google on its servers.   The Global CCS Institute uses this data to help us improve this website and our service.
+This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”).  Cookies and code which are embedded in this site generate information about your use of this website, including your IP address, the pages you view, your time on this site, paths you take through the site, data on your browser and other general information intended for the purpose of aggregated analysis.  This information is transmitted to and stored by Google on its servers.   The Global CCS Institute uses this data to help us improve this website and our service.
 
 ## Cookies
 
@@ -52,7 +64,7 @@ You can request access to your own personal information held by the Global CCS I
 Access requests must be supported by proof of identity, and may be made:
 
   * by telephone: +61 2 6175 5300
-  * by email: [info@globalcinstitute.com](mailto:info@globalcinstitute.com)
+  * by email: [info@globalccsinstitute.com](mailto:info@globalcinstitute.com)
   * by mail: Global Carbon Capture and Storage Institute Ltd, GPO Box 828, Canberra  ACT  2601, Australia
 
 
