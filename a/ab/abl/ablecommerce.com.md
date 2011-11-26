@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ablecommerce.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415033803id_/http%3A//www.ablecommerce.com/Privacy-Policy-W27C31.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ablecommerce.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126031727id_/http%3A//www.ablecommerce.com/Privacy-Policy-W27C31.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Able Solutions Corporation Online Privacy Statement
 
 The policy of the Able Solutions Corporation (Corporation) is to respect the privacy of all web site visitors to the extent permitted by law. This online privacy statement is intended to inform you of the ways in which this web site collects information, the uses to which that information will be put, and the ways in which we will protect any information you choose to provide us. 
 
@@ -11,7 +9,7 @@ There are four types of information that this site may collect during your visit
 **Network Traffic Logs**   
 In the course of ensuring network security and consistent service for all users, the Corporation employs software programs to do such things as monitor network traffic, identify unauthorized access or access to nonpublic information, detect computer viruses and other software that might damage Corporation computers or the network, and monitor and tune the performance of the Corporation network. In the course of such monitoring, these programs may detect such information as e-mail headers, addresses from network packets, and other information. Information from these activities is used only for the purpose of maintaining the security and performance of the Corporation's networks and computer systems. Personally identifiable information from these activities is not released to external parties without your consent unless required by law. 
 
-**Web Visit Logs**  
+**Web Visit Logs**   
 Corporation web sites routinely collect and store information from online visitors to help manage those sites and improve service. This information includes the pages visited on the site, the date and time of the visit, the internet address (URL or IP address) of the referring site, the domain name and IP address from which the access occurred, the version of browser used, the capabilities of the browser, and search terms used on our search engines. This site makes no attempt to identify individual visitors from this information: any personally identifiable information is never released to external parties, unless required by law. 
 
 **Cookies**  
@@ -22,4 +20,4 @@ In the course of using this web site, you may choose to provide us with informat
 
 Corporation web sites provide links to other World Wide Web sites or resources. We do not control these sites and resources, do not endorse them, and are not responsible for their availability, content, or delivery of services. In particular, external sites are not bound by the Corporation's online privacy policy; they may have their own policies or none at all. Often you can tell you are leaving a Corporation web site by noting the URL of the destination site. 
 
-If you have any questions about Able Solutions Corporation online security or privacy policies please [let us know!](http://help.ablecommerce.com/index.htm#contact.aspx)
+If you have any questions about Able Solutions Corporation online security or privacy policies please [let us know!](https://web.archive.org/web/20111126031727id_/http%3A//www.ablecommerce.com/ecommerce-contacts.aspx)
