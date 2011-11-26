@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myron.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620194721id_/http%3A//www.myron.com/eng/customerservice/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myron.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126232457id_/http%3A//www.myron.com/eng/customerservice/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
