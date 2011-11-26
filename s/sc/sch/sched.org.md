@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sched.org privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520213502id_/http%3A//sched.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sched.org privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126135534id_/http%3A//sched.org/privacy) for the most accurate reproduction.*
 
-# About SCHED*
+# About Sched.org
 
 Sched LLC ("Sched") takes the private nature of your personal information very seriously. This Privacy Policy describes how we treat the information we collect when you visit and use the website available at sched.org, client sites and user accounts (collectively, the "Website"). Please read this notice very carefully.
 
