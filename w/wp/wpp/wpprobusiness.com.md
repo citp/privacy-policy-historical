@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpprobusiness.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529092520id_/http%3A//wpprobusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpprobusiness.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126134608id_/http%3A//wpprobusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for WPProBusiness.com – WordPress Professional Business
 
