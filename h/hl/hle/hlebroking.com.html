@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hlebroking.com privacy policy that was archived on 2011-01-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110109100634id_/http%3A//hlebroking.com/v2/aboutus/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hlebroking.com privacy policy that was archived on 2011-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111126065258id_/http%3A//hlebroking.com/v2/aboutus/privacypolicy.asp) for the most accurate reproduction.-->
 
 <html><head>
   <title>HLeBroking :: Reliable &amp; Responsive</title>
@@ -8,24 +8,141 @@
   <link rel="stylesheet" type="text/css" name="hlgstyle" href="/v2/includes/ebiz.css">
   <link rel="stylesheet" type="text/css" name="hlgstyle" href="/v2/includes/hle.css">
   <!--<script type="text/javascript" src="/v2/functions/scroller.js"></script>-->
+  <!--<script type="text/javascript" src="includes/animatedcollapse.js"></script>-->
+
+
+  <script type="text/javascript" src="/v2/includes/accordion.js"></script>
+  <script type="text/javascript" src="/v2/includes/accordion_jquery.js"></script>
+  <script language="JavaScript" src="/v2/includes/formretain.js"></script>
   <script type="text/javascript" src="/v2/functions/popwindow.js"></script>
   <script type="text/javascript" src="/v2/functions/montage.js"></script>
   <script type="text/javascript" src="/v2/functions/browser.js"></script>
-  <!-- Timestamp: 09/01/2011 6:06:38 PM //-->
+  <script type="text/javascript" src="/v2/functions/function.js"></script>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <!-- Timestamp: 26/11/2011 2:53:00 PM //-->
+  
+  
+
+<style type="text/css">
+	.myCSS{ /*header of 1st demo*/
+	cursor: hand;
+	cursor: pointer;
+	padding: 2px 5px;
+	/*border: 1px solid gray;*/
+	background: #E1E1E1;
+	}
+	.openpet{ /*class added to contents of 1st demo when they are open*/
+	background: yellow;
+	}
+	.technology{ /*header of 2nd demo*/
+	cursor: hand;
+	cursor: pointer;
+	font: bold 14px Verdana;
+	margin: 10px 0;
+	}
+	.openlanguage{ /*class added to contents of 2nd demo when they are open*/
+	color: green;
+	}
+	.closedlanguage{ /*class added to contents of 2nd demo when they are closed*/
+	color: red;
+	}
+
+</style>
+
+  
   <script type="text/javascript">
 <!--
 
-function startup() {
+function startup() 
+{		
+
+	//document.getElementById("usr_id").Attributes.Add("value",usr_id.Text);
+    //document.getElementById("usr_id").value = getQuerystring('usr_id');
+
+	//var selLaneID = document.getElementById("u_dept"); 
+	//selLaneID.options[selLaneID.selectedIndex].value; // gives the value of selected
+	//selLaneID.options[selLaneID.selectedIndex].text;
+	// get the element selLaneID.options[selLaneID.selectedIndex].value; 
+	// gives the value of selected option selLaneID.options[selLaneID.selectedIndex].text; // gives the selected text 
+
    var fld = '';
    if (fld != "") {
       fld.focus();
    }
    //runScroller();
 }
+
+
+//Initialize first demo:
+ddaccordion.init({
+	headerclass: "myCSS", //Shared CSS class name of headers group
+	contentclass: "myContent", //Shared CSS class name of contents group
+	collapseprev: true, //Collapse previous content (so only one open at any time)? true/false 
+	defaultexpanded: [0], //index of content(s) open by default [index1, index2, etc]. [] denotes no content.
+	animatedefault: false, //Should contents open by default be animated into view?
+	persiststate: true, //persist state of opened contents within browser session?
+	toggleclass: ["", "openpet"], //Two CSS classes to be applied to the header when it's collapsed and expanded, respectively ["class1", "class2"]
+	togglehtml: ["none", "", ""], //Additional HTML added to the header when it's collapsed and expanded, respectively  ["position", "html1", "html2"] (see docs)
+	animatespeed: "fast", //speed of animation: "fast", "normal", or "slow"
+	oninit:function(expandedindices){ //custom code to run when headers have initalized
+		//do nothing
+	},
+	onopenclose:function(header, index, state, isclicked){ //custom code to run whenever a header is opened or closed
+		//do nothing
+	}
+})
+
+
+function OnCatChange(Cat)
+{
+	//alert("cat: "&Cat);
+	if (Cat == "RM")
+	{
+		//alert("rm");
+		//alert(document.getElementById("usr_id").value);
+		//String(document.getElementById("usr_id").value) = "";
+		var usr_id = String(document.getElementById("usr_id").value);
+		var usr_name = String(document.getElementById("usr_name").value);
+		var passw = String(document.getElementById("passw").value);
+		var cpassw = String(document.getElementById("cpassw").value);
+		var u_dept = String(document.getElementById("u_dept").value);
+		window.location = "usr_reg.asp?jcat=CAT_RM"+"&usr_id="+usr_id+"&usr_name="+usr_name+"&passw="+passw+"&cpassw="+cpassw+"&u_dept="+u_dept;
+		
+	}
+	else if  (Cat == "IN")
+	{
+		//alert("in");
+		var usr_id = String(document.getElementById("usr_id").value);
+		var usr_name = String(document.getElementById("usr_name").value);
+		var passw = String(document.getElementById("passw").value);
+		var cpassw = String(document.getElementById("cpassw").value);
+		var u_dept = String(document.getElementById("u_dept").value);
+		window.location = "usr_reg.asp?jcat=CAT_IN"+"&usr_id="+usr_id+"&usr_name="+usr_name+"&passw="+passw+"&cpassw="+cpassw+"&u_dept="+u_dept;
+	}
+	else if  (Cat == "RU")
+	{
+		//alert("ru");
+		var usr_id = String(document.getElementById("usr_id").value);
+		var usr_name = String(document.getElementById("usr_name").value);
+		var passw = String(document.getElementById("passw").value);
+		var cpassw = String(document.getElementById("cpassw").value);
+		var u_dept = String(document.getElementById("u_dept").value);
+		window.location = "usr_reg.asp?jcat=CAT_RU"+"&usr_id="+usr_id+"&usr_name="+usr_name+"&passw="+passw+"&cpassw="+cpassw+"&u_dept="+u_dept;
+	}
+	else
+	{
+		//alert("non");
+		window.location = "usr_reg.asp";
+	}
+}
 //-->
-</script>
+</script><style type="text/css">
+.myContent{display: none}
+</style>
+
 </head>
-<body onload="startup();" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" onunload="//closePopWin();">
+
+<body onload="startup();" onunload="//closePopWin();">
 <div id="contents">
 <div id="main">
 
@@ -51,7 +168,7 @@ function startup() {
       </tr>
     </table></td>
   </tr>-->
-  </tbody></table>
+</tbody></table>
 
 <script type="text/javascript" src="/v2/menu/mmenu_src.js"></script>
 <script type="text/javascript">
