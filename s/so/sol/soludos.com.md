@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soludos.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103211613id_/http%3A//www.soludos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soludos.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126103359id_/http%3A//www.soludos.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Soludos
+# Soludos Espadrilles | Privacy Policy
 
 #### PRIVACY POLICY
 
