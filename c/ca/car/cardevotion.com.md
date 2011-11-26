@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardevotion.com privacy policy that was archived on 2009-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090105220449id_/http%3A//www.cardevotion.com/contact/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardevotion.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126064724id_/http%3A//www.cardevotion.com/contact/Privacy.asp) for the most accurate reproduction.*
 
 # Car Devotion - Privacy Policy
 
