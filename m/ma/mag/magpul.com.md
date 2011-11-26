@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magpul.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528155600id_/http%3A//store.magpul.com/privacy_notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magpul.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126053148id_/http%3A//store.magpul.com/privacy_notice) for the most accurate reproduction.*
 
 # Magpul Industries Ecommerce
 
@@ -9,7 +9,7 @@ The Magpul Industries Corp. Privacy Policy was developed as an extension of our 
 **WHAT INFORMATION DO WE COLLECT?**   
 When you visit our Web Site you may provide us with two types of information- personal information you knowingly choose to disclose and Web Site use information as you browse our Web Site: 
 
-– Personal Information You Choose to Provide  
+**– Personal Information You Choose to Provide**  
 If you choose to purchase products from us, you will need to give us personal information. For example, you may need to provide the following information: 
 
   * Name  
@@ -22,7 +22,7 @@ If you choose to purchase products from us, you will need to give us personal in
 
 
 
-– Web Site Use Information  
+**– Web Site Use Information**  
 Similar to other commercial web sites, our Web Site utilizes a standard technology called "cookies" and web server logs to collect information about how our Web Site is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, and time spent at our Web Site. This information is collected on an aggregate basis. None of this information is associated with you as an individual. This information helps us to constantly improve our Web Site and better serve our customers.   
 We also use cookies to record individual visitors' session information including items that visitors add to their shopping carts. 
 
