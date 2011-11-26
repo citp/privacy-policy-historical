@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the music44.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529133113id_/http%3A//www.music44.com/X/product/PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the music44.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126194730id_/http%3A//www.music44.com/X/product/PRIVACY) for the most accurate reproduction.*
 
-# Your Privacy at Music44.com : PRIVACY
+# Your Privacy at Music44.com : Product Code PRIVACY
 
 When you shop at Music44.com / The Sheet Music Store, any personal information that you may share with us (and with the business partners that help this site function or assist us in filling your order) is kept absolutely private. Neither your name nor anything about you is sold or shared with any non-affiliated company or agency. Period. 
 
