@@ -1,0 +1,268 @@
+<!--The following is the downloaded HTML source of the mystockstream.com privacy policy that was archived on 2011-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111126095058id_/http%3A//mystockstream.com/pg/expages/read/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="ElggRelease" content="1.7.8">
+	<meta name="ElggVersion" content="2010071002">
+	<title>MyStockStream.com</title>
+
+
+<!--	<script type="text/javascript" src="http://mystockstream.com/vendors/jquery/jquery-1.3.2.min.js"></script>
+	<script type="text/javascript" src="http://mystockstream.com/vendors/jquery/jquery-ui-1.7.2.custom.min.js"></script>
+
+-->
+	<script type="text/javascript" src="http://mystockstream.com/vendors/jquery/jquery-1.5.1.min.js"></script>
+	<script type="text/javascript" src="http://mystockstream.com/vendors/jquery/jquery-ui-1.8.12.custom.min.js"></script>
+
+
+<script type="text/javascript" src="http://mystockstream.com/vendors/jquery/jquery.form.js"></script>
+	<script type="text/javascript" src="http://mystockstream.com/_css/js.php?lastcache=1322296527&amp;js=initialise_elgg&amp;viewtype=default"></script>
+	<!-- include the default css file -->
+	<link rel="stylesheet" href="http://mystockstream.com/_css/css.css?lastcache=1322296527&amp;viewtype=default" type="text/css">
+	
+		
+
+            <script type="text/javascript" src="http://mystockstream.com/mod/elggx_fivestar/js/ui.stars.min.js"></script>
+    
+    <script type="text/javascript">
+        function fivestar(id, token, ts) {
+            $("#fivestar-form-"+id).children().not("select").hide();
+
+            // Create stars for: Rate this
+            $("#fivestar-form-"+id).stars({
+                cancelShow: 0,
+                cancelValue: 0,
+                captionEl: $("#caption"),
+                callback: function(ui, type, value)
+                {
+                    // Disable Stars while AJAX connection is active
+                    ui.disable();
+
+                    // Display message to the user at the begining of request
+                    $("#fivestar-messages-"+id).text("Saving ...").stop().css("opacity", 1).fadeIn(30);
+
+                    $.post("http://mystockstream.com/action/elggx_fivestar/rate", {id: id, vote: value, __elgg_token: token, __elgg_ts: ts}, function(db)
+                    {
+                        // Select stars from "Average rating" control to match the returned average rating value
+                        $("#fivestar-form-"+id).stars("select", Math.round(db.rating));
+
+                        // Update other text controls...
+                        $("#fivestar-votes-"+id).text(db.votes);
+                        $("#fivestar-rating-"+id).text(db.rating);
+
+                        // Display confirmation message to the user
+                        if (db.msg) {
+                            $("#fivestar-messages-"+id).text(db.msg).stop().css("opacity", 1).fadeIn(30);
+                        } else {
+                            $("#fivestar-messages-"+id).text("Rating Saved").stop().css("opacity", 1).fadeIn(30);
+                        }
+
+                        // Hide confirmation message and enable stars for "Rate this" control, after 2 sec...
+                        setTimeout(function(){
+                                $("#fivestar-messages-"+id).fadeOut(1000, function(){ui.enable()})
+                        }, 2000);
+                    }, "json");
+                }
+            });
+
+            // Create element to use for confirmation messages
+            $('<div class="fivestar-messages" id="fivestar-messages-'+id+'"/>').appendTo("#fivestar-form-"+id);
+        };
+    </script>
+<!--
+<script type="text/javascript" src="http://mystockstream.com/mod/noelab_media_embedly/vendors/jquery.embedly.min.js"></script>
+
+<script type="text/javascript">
+$(document).ready(function() {
+
+
+ $('a').embedly({}, function(oembed, dict){
+    $this = $(dict.node);
+    $this.html(oembed.title)
+         .after('<div class="clearfloat" style="margin:5px 0 0 20px;"></div><a class="embed-thumbnail" href="#"><img src="'+oembed.thumbnail_url+'"/><img class="embed-PlayButton" src="http://mystockstream.com/mod/noelab_media_embedly/graphics/play-button-1.png" height="30" width="30" border"0"></a><div class="infoembedly"><a href="'+oembed.url+'">'+oembed.title+'</a><p>via '+oembed.provider_name+'</p></div><div class="clearfloat"></div>');
+  });
+  
+  var anchors = $("a");  anchors.embedly();  anchors.filter("[href*=flx.me]").addClass("custom_embed");
+   $('a.embed-thumbnail').live("click", function(e){
+     e.preventDefault();
+     $(this).parent().find('.embed').toggle("slow");
+     $(this).parent().find('a.embed-thumbnail').hide("slow");
+  });
+  
+});
+</script>
+-->
+	<script type="text/javascript" src="http://mystockstream.com/mod/CKEditor/ckeditor/ckeditor.js">
+    
+
+    $(document).ready(function(){
+        window.saveDraft = function() {  };
+
+        
+    });
+    </script>
+<script type="text/javascript" src="http://mystockstream.com/mod/chat/chat.js"></script>
+
+</head>
+
+<body>
+<!-- display horizontal menu-->
+
+
+<!-- display any system messages -->
+
+<!-- SEASHELLS: display header with logo and right-side menu -->
+<script>
+	$(document).ready(function() {
+		$('a.toggle_loginform').click( function() {
+			$('div.headerloginform').toggle();
+		});
+		});
+</script>
+
+<div id="page_container">
+	<div id="page_wrapper">
+    	<div id="layout_header">
+        	<div id="wrapper_header"> 
+            	<div class="left-side">
+					                    	<h1><a href="http://mystockstream.com/index.php"><img src="http://mystockstream.com/mod/theme_seashells/graphics/logo.png"></a></h1>
+					                </div>
+                <div class="right-side">
+                	<div class="floatright">
+						                            	<div class="uppermenuitem"> 
+<!--                                	<a href="#" class="toggle_loginform"> -->
+                                	<a href="http://mystockstream.com/index.php">
+                                    	<img src="http://mystockstream.com/mod/theme_seashells/graphics/login.png"><br>
+										Log in 
+                                    </a> 
+                                </div>
+                                <div class="headerloginform">
+                                	<div class="uppermenuitem">
+										
+	<div id="login-box">
+    	<form action="http://mystockstream.com/action/login" method="post">
+<input type="hidden" name="__elgg_token" value="8712f09da8c5249e807ac46a40c599db"><input type="hidden" name="__elgg_ts" value="1322301057"><span style="float:left;font-weight:bold;margin-left:10px;">UserId: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Password:</span><br><label>
+<input type="text" name="username" value="" class="login-textarea"></label><label>
+<input type="password" name="password" value="" class="login-textarea"></label><input name="" type="submit" class="submit_button" value="Log in"> <div class="extras"><label><input type="checkbox" name="persistent" value="true">Remember me</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://mystockstream.com/account/forgotten_password.php" class="forgotten">Lost password</a></div></form>    </div>
+	
+	<script type="text/javascript">
+		$(document).ready(function() {	
+			$('input[name=username]').focus();
+		 });
+	</script>
+<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+
+<div id="facebooklogin-box" style="padding-left:20px;"><fb:login-button onlogin="facebook_onlogin();" v="2">Connect with Facebook</fb:login-button></div>
+
+<script type="text/javascript">
+
+function facebook_onlogin() {
+
+document.location.href = "http://mystockstream.com/action/fbconnect/login?__elgg_token=8712f09da8c5249e807ac46a40c599db&__elgg_ts=1322301057";
+
+}
+
+FB.init("69a39299696f7ddfcf5287514c05442c", "http://mystockstream.com/mod/fbconnect/xd_receiver.html"); 
+
+
+
+
+</script>
+                                    </div>
+                                </div>
+
+                                 <div class="uppermenuitem"> 
+                                	<a href="http://mystockstream.com/pg/register/">
+                                    	<img src="http://mystockstream.com/mod/theme_seashells/graphics/register.png"><br>
+										Register 
+                                    </a> 
+                        	 
+                           </div>
+											<div class="clearfloat"></div>
+				</div>
+            </div>
+    	</div>
+	</div>
+</div>
+<!-- display horizontal menu-->
+    <script>
+        $(document).ready(function() {
+            $('a.toggle_userpanel').click( function() {
+                $('div#userpanel').toggle();
+            });
+        });
+    </script>
+
+    <div id="elgg_seashells_topbar">
+        <div id="menu_wrapper">
+            <div class="floatleft">
+                <div id="seashells_menu">
+                    <ul class="menu">
+<li><a href="http://mystockstream.com/index.php" class="parent"><span><img src="http://mystockstream.com/mod/theme_seashells/graphics/home_icon.png">Home</span></a></li><li><a href="http://mystockstream.com/pg/blog/all/" class="parent"><span><img src="http://mystockstream.com/mod/theme_seashells/graphics/Blogs_icon.png">Blogs</span></a></li><li><a href="http://mystockstream.com/pg/file/all/" class="parent"><span><img src="http://mystockstream.com/mod/theme_seashells/graphics/Files_icon.png">Files</span></a></li><li><a href="http://mystockstream.com/pg/media/all" class="parent"><span><img src="http://mystockstream.com/mod/theme_seashells/graphics/Videos_icon.png">Videos</span></a></li><!--Blogs // Files // Groups // Meet new people! // Videos // -->    
+                </ul>
+            </div>
+        </div>
+        <div class="floatright">
+<span>
+	<form id="searchform" action="http://mystockstream.com/pg/search/" method="get">
+    	<input type="text" size="21" name="q" value="Search" onclick="if (this.value=='Search') { this.value='' }" class="search_input">
+ 	</form>
+</span>         </div>
+    </div>
+    <div class="clearfloat"></div>
+</div>
+<div class="clearfloat"></div>
+
+
+
+<!-- main contents -->
+<!-- canvas -->
+<div id="layout_canvas"> 
+	
+<!-- main content -->
+<div id="one_column">
+
+<div id="content_area_user_title"><h2>Privacy</h2></div><div class="contentWrapper">
+<p style="margin-bottom: 0in; text-align: justify;"><span><span style="font-size: small;">Stockstream Financial Advisory Services&nbsp;</span></span><span style="font-size: small;">LLP (henceforth referred to as&nbsp;</span><span style="font-size: small;">Stockstream LLP)</span><span style="font-size: small;">&nbsp;and mystockstream.com is committed to protecting your personal  information and privacy. The clauses listed in this statement apply to  all current, former, registered or unregistered users of the website.  The clauses listed in this section are subject to changes from time to  time without notice. It is the responsibility of the user to regularly  visit this section to review the updated Privacy Policy.</span></p>
+<p style="margin-bottom: 0in;"><span><span style="font-size: small;"><span style="text-decoration: underline;"><strong>Personal Information</strong></span></span></span></p>
+<p style="margin-bottom: 0in; text-align: justify;"><span><span style="font-size: small;">Mystockstream.com  may collect personal information from users like name, email id,  profession, profile picture, date of birth, etc for business and  verification purposes and to provide customized services to the users.  This information in part or whole may be displayed on the profiles of  the users. By registering on the website the users confirm that the  information they have provided in accurate and their own personal  information. </span></span></p>
+<p style="margin-bottom: 0in; text-align: justify;"><span><span style="font-size: small;">Post  registration we may monitor user activities on the website including  communications with other users to determine any breach of the Terms of  Use and compliance with other local laws and regulations. </span></span></p>
+<p style="margin-bottom: 0in; text-align: justify;"><span><span style="font-size: small;">User  information collected by mystockstream.com may be transferred and  stored in a country which may be different from the country of your  residence. This may include countries which may have inadequate privacy  laws. Information collected by mystockstream.com will under any  circumstances be governed by the Privacy Policy as described in this  section.</span></span></p>
+<p style="margin-bottom: 0in;"><span><span style="font-size: small;"><span style="text-decoration: underline;"><strong>Use of Cookies</strong></span></span></span></p>
+<p style="margin-bottom: 0in; text-align: justify;"><span><span style="font-size: small;">Cookies  are small files stored on your computer that may be used by websites  for tracking purposes.Mystockstream.com may access cookies on your  computer to monitor your activities on the website and gain more  information about Internet traffic routing to the website. This will  strictly be to ensure compliance, improve our services or for other  business needs.</span></span></p>
+<p style="margin-bottom: 0in;"><span><span style="font-size: small;"><span style="text-decoration: underline;"><strong>Confidentiality</strong></span></span></span></p>
+<p style="margin-bottom: 0in; text-align: justify;"><span><span style="font-size: small;">Any  information provided by users on the website or collected by montoring  user activities, through cookies or by other means will be kept  confidential as far as possible. Access to user personal information  will be limited to individuals and third parties identified in this  document and to the employees of the company. Employees of the company  (permanent or contract) having access to user information will be  required to sign a non disclosure agreement. </span></span></p>
+<p style="margin-bottom: 0in;"><span><span style="font-size: small;"><span style="text-decoration: underline;"><strong>Sharing Information</strong></span></span></span></p>
+<p style="margin-bottom: 0in; text-align: justify;"><span><span style="font-size: small;">Personal  information collected from users may be shared with affiliates of  mystockstream.com for business purposes such as but not limited to  maintaining customer accounts, ensuring compliance or informing  customers about new products and services. Affiliates having access to  user information will maintain privacy to user information in accordance  with the clauses identified in this statement.</span></span></p>
+<p style="margin-bottom: 0in; text-align: justify;"><span><span style="font-size: small;">Mystockstream.com  may also share user personal information with third party vendors  providing support services in areas including but not limited to account  maintenance, IT, legal, accounting or other professional services.</span></span></p>
+<p style="margin-bottom: 0in; text-align: justify;"><span><span style="font-size: small;">Mystockstream.com  may also disclose user personal information with third parties to  insure compliance with local laws and regulations.Such situations will  include but may not be limited to subpoenas, warrants or any acts to  preserve the personal safety of members or in the general public  interest.</span></span></p>
+<p style="margin-bottom: 0in; text-align: justify;"><span><span style="font-size: small;">We  may also keep, use and share user information after termination of  their accounts if required for legal compliance or fraud detection  purposes.</span></span></p>
+<p style="margin-bottom: 0in;"><span><span style="font-size: small;"><span style="text-decoration: underline;"><strong>Limitation of Liability</strong></span></span></span></p>
+<p style="margin-bottom: 0in; text-align: justify;"><span><span style="font-size: small;">Stockstream LLP and</span></span><span><span style="font-size: xx-small;"> </span></span><span><span style="font-size: small;">Mystockstream.com  will not be financially or otherwise liable for any direct, indirect,  incidental, punitive or otherwise loss, injury or damage due to use or  release of Personal User Information including but not limited to any  loss of business, revenue, data or otherwise.</span></span></p>
+<p style="margin-bottom: 0in; text-align: justify;"><span><span style="font-size: small;">Stockstream LLP and</span></span><span><span style="font-size: xx-small;"> </span></span><span><span style="font-size: small;">Mystockstream.com  will take all necessary efforts to keep user data secure and  confidential in accordance with the Privacy Policy described in this  section. We will not be financially or otherwise liable to any loss of  business, revenue, data or otherwise due to loss of Personal User  Information by hacking into or stealth from the company servers.</span></span></p></div>
+</div><!-- /one_column -->	<div class="clearfloat"></div>
+</div><!-- /#layout_canvas -->
+
+<!-- Google Ads 2 -->
+
+<!-- spotlight -->
+<div class="clearfloat"></div>
+
+<!-- footer -->
+
+
+<div class="clearfloat"></div>
+<!--	<div id="layout_footer">
+		
+<div class="footer_toolbar_links">| 
+<a href="http://mystockstream.com/pg/expages/read/About/">About us</a> |
+<a href="http://mystockstream.com/pg/expages/read/Terms/">Terms</a> |
+<a href="http://mystockstream.com/pg/expages/read/Privacy/">Privacy</a> |
+</div>    	<p class="footer_legal_links"><a href="http://www.elgg.org" class="footer_elgg_img" target="_blank">Powered by Elgg</a></p><p class="footer_legal_links">Seashells Elgg Theme (c) 2011, GNU Public License v2<br />Theme by <a href="mailto:ismayil.khayredinov@gmail.com">Ismayil Khayredinov</a></p>		<div class="clearfloat"></div>
+	</div> -->
+</div>
+ 
+<div id="layout_footer" align="center"><a href="http://mystockstream.com/pg/expages/read/about">About Us</a> | <a href="http://mystockstream.com/pg/contact">Contact Us</a> | <a href="http://mystockstream.com/pg/expages/read/faq">FAQ's</a> | <a href="http://mystockstream.com/pg/expages/read/privacy">Privacy Policy</a> | <a href="http://mystockstream.com/pg/expages/read/riskdisclaimer">Risk Disclaimer</a> | © 2011 mystockstream.com</div>
+
+<div class="clearfloat"></div></body></html>
