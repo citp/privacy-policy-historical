@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the indiabol.in privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624145714id_/http%3A//www.indiabol.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiabol.in privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126191223id_/http%3A//indiabol.in/static/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - IndiaBol.in
 
-Privacy Policy
+**e.g.** SBI IFSC Code
 
 1.) For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
