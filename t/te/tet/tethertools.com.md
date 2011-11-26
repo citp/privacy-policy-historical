@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tethertools.com privacy policy that was archived on 2011-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110301044541id_/http%3A//tethertools.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tethertools.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126065521id_/http%3A//tethertools.com/privacy-security) for the most accurate reproduction.*
 
 # Tether Tools - Resource for Tethered Photography Equipment | Tether Tools
 
