@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the electricliterature.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612113231id_/http%3A//www.electricliterature.com/electric-literature-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electricliterature.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126040849id_/http%3A//electricliterature.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Electric Literature { new issue }
-
-* * *
+# Privacy Policy – Electric Literature
 
 **Welcome to Electric Literature or electricliterature.com (the “Site”).**
 
@@ -28,8 +26,7 @@ Personally Identifiable Information about Authorized Customers may be shared wit
 
 **How is Personally Identifiable Information stored?**
 
-Personally Identifiable Information collected by Your Site is securely stored and is not accessible to third parties or employees of Your Site except for use as indicated above.   
-
+Personally Identifiable Information collected by Your Site is securely stored and is not accessible to third parties or employees of Your Site except for use as indicated above.
 
 **What choices are available to Visitors regarding collection, use and distribution of the information?**
 
@@ -63,5 +60,5 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 
 **Links:** This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.
 
-_© 2009 Electric Literature, electricliterature.com, All rights reserved.  
+_© 2011 Electric Literature, electricliterature.com, All rights reserved.  
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited._
