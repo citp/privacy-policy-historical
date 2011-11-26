@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citycruises.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422180033id_/http%3A//www.citycruises.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citycruises.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126041101id_/http%3A//www.citycruises.com/privacy.htm) for the most accurate reproduction.*
 
 # City Cruises - Privacy Policy
 
@@ -6,13 +6,13 @@ City Cruises is committed to safeguarding your privacy online. We have posted th
 
 We hope that you feel our privacy policy explains clearly how we gather and use any data we may collect from you. We have used our best efforts to compose a policy that is fair, respectful and protects your privacy online. Your feedback is important to us. Please email any questions, comments or suggestions to webmaster@citycruises.com
 
-### City Cruises' Commitment to User Privacy
+### City Cruises' Commitment to User Privacy:
 
 1\. City Cruises will not willfully disclose individually identifiable information about its users to any third party.
 
 2\. If at any stage in the future we feel disclosing such information may be of benefit to our users, we will not disclose such information without first receiving each individual user's permission.
 
-### Gathering, Use and Disclosure of Information
+### Gathering, Use and Disclosure of Information:
 
 ## 1\. Personally Identifiable Information
 
