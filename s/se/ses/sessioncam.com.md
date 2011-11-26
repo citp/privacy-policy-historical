@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sessioncam.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604180551id_/http%3A//www.sessioncam.com/Privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sessioncam.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126042428id_/http%3A//www.sessioncam.com/Privacy-policy.aspx) for the most accurate reproduction.*
 
 # SessionCam - Privacy Policy
 
@@ -73,16 +73,3 @@ ServiceTick Limited is registered with the UK Information Commissioner. Further 
 **Find out more  
 **  
 Please contact info@servicetick.com if you have any specific questions related to our privacy policy or wish to find out more general information. 
-
-## Data Privacy
-
-  * We use 256-bit SSL encryption for all data gathered by SessionCam
-  * All data is stored in our secure hosting infrastructure
-  * Access to the data is restricted to defined user accounts
-  * Clients can only see data related to their own web sites
-
-
-
-## ICO
-
-SessionCam is provided by ServiceTick Limited. ServiceTick Limited is registered with the UK's Information Commissioner's Office. 
