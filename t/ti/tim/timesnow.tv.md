@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timesnow.tv privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428162328id_/http%3A//www.timesnow.tv/articleshow/4211425.cms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesnow.tv privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127001002id_/http%3A//www.timesnow.tv/articleshow/4211425.cms) for the most accurate reproduction.*
 
-# DISCLAIMER POLICY & TERMS AND CONDITIONS FOR USE - TIMESNOW.tv - Latest Breaking News, Big News Stories, News Videos
+# DISCLAIMER POLICY & TERMS AND CONDITIONS FOR USE- TIMESNOW.tv - Latest Breaking News, Big News Stories, News Videos
 
 Access to and use of this site ("Timesnow.TV") is provided by the Times Global Broadcasting Company Ltd ("TGBCL") subject to the following terms and Conditions: 
 
@@ -54,6 +54,23 @@ Senapati Bapat Marg, Lower Parel,
 Mumbai â€“ 400013 
 
 Or by calling our number at (+9122) 2499 9944 
+
+COMPLAINT REDRESSAL 
+
+Any complaint relating to the content of TV channels of Times Global Broadcasting Company Limited, namely TIMES NOW & ET NOW under the Code of Ethics & Broadcasting Standards and News Broadcasting Standards (Disputes Redressal) Regulations of News Broadcasters Association (NBA) shall be made by a person aggrieved within a reasonable time not exceeding 7 (seven) days from the date of first broadcast to the following person appointed by the Company whose details are reproduced below: 
+
+Ms. Jyothi Suresh Kumar   
+DGM Legal & Company Secretary   
+Times Global Broadcasting Company Limited   
+Trade House, 1st Floor, Kamala Mills Compound   
+Senapati Bapat Marg, Lower Parel   
+Mumbai 400013   
+Phone: + 91 22 24999944   
+Fax: +91 22 24990307   
+Email: legalnow@timesgroup.com   
+Website: http://www.timesnow.tv, http://www.etnow.tv 
+
+However, before making a complaint viewers are encouraged to go through the Code of Ethics & Broadcasting Standards, News Broadcasting Standards (Disputes Redressal) Regulations and Guide to the Complaints Process. These details are available on the website of NBA www.nbanewdelhi.comâ€ 
 
 PRIVACY POLICY: 
 
