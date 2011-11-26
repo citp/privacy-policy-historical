@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the plasticsnews.com privacy policy that was archived on 2010-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101220224223id_/http%3A//plasticsnews.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the plasticsnews.com privacy policy that was archived on 2011-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111126140317id_/http%3A//plasticsnews.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -13,6 +13,8 @@ The Service is an information service from Plastics News. By using the Service, 
 <meta type="keywords" content="plasticsnews.com, PN, Plastics News, Plastics News Global Group, Privacy, Policy, Terms">
 	
 <title>Plastics News - Privacy Policy</title>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/javascript/jquery-1.4.4.min.js"></script>
+<script type="text/javascript" src="/javascript/jquery.tools.min.js"></script>
 <script language="JavaScript" type="text/javascript">
     var sitepage = "www.plasticsnews.com/privacy.html";
 </script>
@@ -41,8 +43,36 @@ The Service is an information service from Plastics News. By using the Service, 
 <!-- end survey code-->
  </head>
 <body>
+<div class="cme_overlay" id="cme_overlay">
+    <a class="close" href="javascript:void(0);">
+    <img style="right:-15px; top:-15px; float:right; border:0px;" src="/images/close_button.jpg">
+    </a>
+    <br clear="both">
+    <iframe class="cme_contentWrap" frameborder="0"></iframe>
+</div>
+<script type="text/javascript">
+$(function() {
+    $("a[name=cme_links][rel]").overlay({
+        mask: {color: '#bbb', maskId: 'cme_mask'},
+        top: '10%',
+        fixed: false,
+        onBeforeLoad: function() {
+            //Work around for z-index not working//
+            var that = this;
+            $("#cme_mask").remove().appendTo("body");
+            $(this.getOverlay()).remove().appendTo("body");
+            $(".close", this.getOverlay()).click(function(e) {
+                that.close();
+            });
+            
+            var wrap = this.getOverlay().find(".cme_contentWrap");
+            wrap.attr("src",this.getTrigger().attr("href"));
+        }
+    });
+});
+</script>
 <div id="three_column">
-<a name="searchtag">
+<a name="searchtag"></a>
   <table width="995" cellpadding="0" cellspacing="0" border="0">
    <tbody><tr><td>
     <table width="995" cellpadding="0" cellspacing="0" border="0">
@@ -57,7 +87,7 @@ The Service is an information service from Plastics News. By using the Service, 
 		</div>
                         </td>
         <td style="background-color:#e3dfd4; width:239px; text-align:left;" rowspan="2">
-         <div class="publink" style="margin-left:20px;"><a href="http://www.plasticsnewsglobal.com" rel="external" target="_blank"><img src="/images/pnglobal.gif" border="0" style="margin:12px 0 4px 0;"></a></div>
+         <div style="color:#009; margin-top:10px; margin-left:20px;"><b>Our other sites</b></div>
          <div class="publink" style="margin-left:20px; margin-bottom:3px;"><a href="/china/english" rel="external" target="_blank">PlasticsNews/China</a></div>
          <div class="publink" style="margin-left:20px;"><a href="/china/chinese" rel="external" target="_blank">塑料新闻中国网站</a></div>
 	 <div class="publink" style="margin-left:20px;"><a href="http://www.prw.com" rel="external" target="_blank">Plastics &amp; Rubber Weekly</a></div>
@@ -85,7 +115,10 @@ border-width:0px;"></a></td>
 <tbody><tr><td><img src="/images/searchglass2.gif"></td><td style="background: url('/images/searchback1.gif') repeat;"><form action="/search.html" method="get"><input name="searchterm" onclick="clickclear(this, 'Search...')" onblur="clickrecall(this,'Search...')" type="text" value="
 Search..." id="whitebox" style="width:180px;"></form></td>
 <td><input type="image" value="search" src="/images/go2.gif" border="0"></td></tr></tbody></table></div></td><td style="width:8px; height:45px;"><img src="/images/searchright.gif" style="width:8px; height:45px"></td></tr></tbody></table>
-<div style="text-align:left;">e-Newsletters: <span class="publink"><a href="/mailings/global_signup.html">Subscribe to e-mail newsletters</a></span></div>
+<div style="text-align:center;"><span class="publink">
+<a href="/mailings/global_signup.html">Subscribe to free e-mail newsletters</a>
+</span>
+</div>
 </td></tr>
 </tbody></table>
 </td></tr>
@@ -131,11 +164,9 @@ visibility: hidden;" onmouseover="SwapTab('resinpricing', 'home');" onmouseout="
 <td onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><a href="http://www.plasticsnews.com/resin-pricing/etps.html">ETPs</a>&nbsp;&nbsp;|</td>
 <td onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><a href="http://www.plasticsnews.com/resin-pricing/thermosets.html">Thermosets</a>&nbsp;&nbsp;|</td>
 <td onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><a href="http://www.plasticsnews.com/resin-pricing/recycled-plastics.html">Recycled&nbsp;plastics</a>&nbsp;&nbsp;|</td>
-<td onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><a href="http://www.plasticsnews.com/resin-pricing/lme-north-america.html">LME&nbsp;North&nbsp;America</a>&nbsp;&nbsp;|</td>
-<td onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><a href="http://www.plasticsnews.com/resin-pricing/lme-asia.html">LME&nbsp;Asia</a>&nbsp;&nbsp;|</td>
-<td onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><a href="http://www.plasticsnews.com/resin-pricing/lme-europe.html">LME&nbsp;Europe</a>&nbsp;&nbsp;|</td>
-<td onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><a href="http://www.plasticsnews.com/resin-pricing/lme-global-contracts.html">LME&nbsp;global&nbsp;contracts</a></td>
-
+<td onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><a name="cme_links" rel="#cme_overlay" href="http://www.cmegroup.com/trading/energy/petrochemicals/hdpe-high-density-polyethylene-pcw-calendar-swap-futures_quotes_settlements_futures.html">CME&nbsp;Group&nbsp;HDPE&nbsp;Futures</a>&nbsp;&nbsp;|</td>
+<td onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><a name="cme_links" rel="#cme_overlay" href="http://www.cmegroup.com/trading/energy/petrochemicals/lldpe-linear-low-density-polyethylene-pcw-calendar-swap-futures_quotes_settlements_futures.html">CME&nbsp;Group&nbsp;LLDPE&nbsp;Futures</a>&nbsp;&nbsp;|</td>
+<td onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><a name="cme_links" rel="#cme_overlay" href="http://www.cmegroup.com/trading/energy/petrochemicals/pp-polypropylene-pcw-calendar-swap_quotes_settlements_futures.html">CME&nbsp;Group&nbsp;Polypropylene&nbsp;Futures</a>&nbsp;&nbsp;</td>
 </tr></tbody></table>
 </div>
 
@@ -251,7 +282,7 @@ visibility: hidden;" onmouseover="SwapTab('directory', 'home');" onmouseout="Swa
 <table id="topmenu"><tbody><tr>
 <td onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><a href="http://www.plasticsnews.com/multimedia/video.html">Video</a>&nbsp;&nbsp;|</td>
 <td onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><a href="http://www.plasticsnews.com/multimedia/audio-clips.html">Audio&nbsp;clips</a>&nbsp;&nbsp;|</td>
-<td onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><a href="http://www.plasticsnews.com/multimedia/slide-show.html">Slide&nbsp;shows&nbsp;&nbsp;|</a></td>
+<td onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><a href="http://www.plasticsnews.com/multimedia/slide-show.html">Slide&nbsp;shows</a>&nbsp;&nbsp;|</td>
 <td onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><a href="http://www.plasticsnews.com/webcasts/">Webcasts&nbsp;&amp;&nbsp;webinars</a></td>
 </tr></tbody></table>
 </div>
@@ -273,7 +304,7 @@ visibility: hidden;" onmouseover="SwapTab('directory', 'home');" onmouseout="Swa
 <span class="greylink"><a href="http://www.plasticsnews.com/industry-events/">Industry events</a></span> | 
 <span class="greylink"><a href="http://www.plasticsnews.com/webcasts/">Webcasts &amp; webinars</a></span> | 
 <span class="greylink2" onmouseover="ShowLayer('awards');" onmouseout="HideLayer('awards');">Awards</span> | 
-<span class="greylink2" onmouseover="ShowLayer('ads');" onmouseout="HideLayer('ads');">Advertising</span> | 
+<span class="greylink"><a href="http://www.plasticsnews.com/mediakit/">Media kit</a></span> | 
 <span class="greylink2" onmouseover="ShowLayer('subsc');" onmouseout="HideLayer('subsc');">Subscribe</span> | 
 <span class="greylink"><a href="http://www.plasticsnews.com/reprints/reprints.html">Reprints</a></span> | 
 <span class="greylink2" onmouseover="ShowLayer('rent');" onmouseout="HideLayer('rent');">List rental</span> | 
@@ -283,18 +314,15 @@ visibility: hidden;" onmouseover="SwapTab('directory', 'home');" onmouseout="Swa
 
 <div id="events" style="position:absolute; left:4px; top:17px; z-index:3; visibility: hidden; border:solid 1px #000;" onmouseover="this.style.visibility='visible';" onmouseout="this.style.visibility='hidden';">
 <table id="trimenu" style="width:110px;">
-<tbody><tr onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><td><a href="http://www.sustainableplasticspackaging.com">Sustainable Plastics Pkg 2010</a></td></tr>
-<tr onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><td><a href="http://www.plasticsnews.com/forum2011/">Executive Forum 2011</a></td></tr>
-<tr onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><td><a href="http://www.plasticsinmedicaldevices.com">Medical Devices 2011</a></td></tr>
-<tr onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><td><a href="http://www.plasticsnews.com/china/events">China Plastics in Automotive 2011</a></td></tr>
-<tr onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><td><a href="http://www.prw.com/subscriber/conferences.html" rel="external" target="_blank">PRW/EPN</a></td></tr>
+<!--<tr onMouseOver="this.className='hilite'" onMouseOut="this.className='bg1'" class="bg1"><td><a href="http://www.plasticsnews.com/forum2011/" target="_blank">Executive Forum 2011</a></td></tr>-->
+<tbody><tr onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><td><a href="http://www.plasticsnews.com/forum2012" target="_blank">Executive Forum 2012</a></td></tr>
+<tr onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><td><a href="http://www.pnchina.com/events" target="_blank">China Plastics in Autos 2012</a></td></tr>
 </tbody></table>
 </div>
 
 <div id="awards" style="position:absolute; left:247px; top:17px; z-index:3; visibility: hidden; border:solid 1px #000;" onmouseover="this.style.visibility='visible';" onmouseout="this.style.visibility='hidden';">
 <table id="trimenu" style="width:105px;">
 <tbody><tr onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><td><a href="http://www.plasticsnews.com/forum2011/poy_award.html">Processor of the Year</a></td></tr>
-<tr onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><td><a href="http://www.plasticsnews.com/nominate">Nominate a firm</a></td></tr>
 </tbody></table>
 </div>
 
@@ -306,14 +334,17 @@ visibility: hidden;" onmouseover="SwapTab('directory', 'home');" onmouseout="Swa
 </tbody></table>
 </div>
 
-<div id="subsc" style="position:absolute; left:396px; top:17px; z-index:400; visibility: hidden; border:solid 1px #000;" onmouseover="this.style.visibility='visible';" onmouseout="this.style.visibility='hidden';">
+<div id="subsc" style="position:absolute; left:380px; top:17px; z-index:400; visibility: hidden; border:solid 1px #000;" onmouseover="this.style.visibility='visible';" onmouseout="this.style.visibility='hidden';">
 <table id="trimenu" style="width:50px;">
 <tbody><tr onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><td><a href="http://www.plasticsnews.com/subscribe/index.html">Print</a></td></tr>
 <tr onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><td><a href="http://www.plasticsnews.com/subscribe/index.html">Online</a></td></tr>
+
+<tr onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><td><a href="http://www.plasticsnews.com/mailings/global_signup.html">e-Newsletters</a></td></tr>
+
 </tbody></table>
 </div>
 
-<div id="rent" style="position:absolute; left:503px; top:17px; z-index:400; visibility: hidden; border:solid 1px #000;" onmouseover="this.style.visibility='visible';" onmouseout="this.style.visibility='hidden';">
+<div id="rent" style="position:absolute; left:490px; top:17px; z-index:400; visibility: hidden; border:solid 1px #000;" onmouseover="this.style.visibility='visible';" onmouseout="this.style.visibility='hidden';">
 <table id="trimenu" style="width:50px;">
 <tbody><tr onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><td><a href="http://www.plasticsnews.com/list-rental/print.html">Print</a></td></tr>
 <tr onmouseover="this.className='hilite'" onmouseout="this.className='bg1'" class="bg1"><td><a href="http://www.plasticsnews.com/list-rental/online.html">Online</a></td></tr>
@@ -338,18 +369,18 @@ DisplayAds ("Position1,Top3,Bottom,Right!Right", "");
        </div>
         
   </div>   
-</a><div id="extracolumn"><a name="searchtag">
+<div id="extracolumn">
 
 
 <div style="background-color:#999; width:235px; padding:7px 0px 5px 8px; font-size:13px;
  color:#fff; margin:6px 10px 8px 10px;"><b>MOST-READ STORIES</b></div>
-</a><div style="width:235px; margin:6px 10px 8px 10px;"><a name="searchtag">
-</a><ul class="mostpop"><a name="searchtag">
-</a><li class="morelink"><a name="searchtag"></a><a href="/headlines2.html?id=20559" title="Full Story: Rexam considers sale of closures unit" alt="Full Story: Rexam considers sale of closures unit">Rexam considers sale of closures unit</a><span class="datetime"> December 13, 2010</span></li>
-<li class="morelink"><a href="/headlines2.html?id=20564" title="Full Story: Happy days are here again?" alt="Full Story: Happy days are here again?">Happy days are here again?</a><span class="datetime"> December 14, 2010</span></li>
-<li class="morelink"><a href="/headlines2.html?id=20558" title="Full Story: De Zen, ex-Royal executives acquitted" alt="Full Story: De Zen, ex-Royal executives acquitted">De Zen, ex-Royal executives acquitted</a><span class="datetime"> December 13, 2010</span></li>
-<li class="morelink"><a href="/headlines2.html?id=20593" title="Full Story: Alpha Packaging buys Ohio blow molder Progressive Plastics" alt="Full Story: Alpha Packaging buys Ohio blow molder Progressive Plastics">Alpha Packaging buys Ohio blow molder Progressive Plastics</a><span class="datetime"> December 16, 2010</span></li>
-<li class="morelink"><a href="/headlines2.html?id=20579" title="Full Story: San Jose, Calif., adopts plastic bag ban" alt="Full Story: San Jose, Calif., adopts plastic bag ban">San Jose, Calif., adopts plastic bag ban</a><span class="datetime"> December 15, 2010</span></li>
+<div style="width:235px; margin:6px 10px 8px 10px;">
+<ul class="mostpop">
+<li class="morelink"><a href="/headlines2.html?id=23789" title="Full Story: Sabic's Charlie Crew retiring, DuPont's Keith Smith on board" alt="Full Story: Sabic's Charlie Crew retiring, DuPont's Keith Smith on board">Sabic's Charlie Crew retiring, DuPont's Keith Smith on board</a><span class="datetime"> November 23, 2011</span></li>
+<li class="morelink"><a href="/headlines2.html?id=23787" title="Full Story: Lianda moving to Twinsburg, Ohio" alt="Full Story: Lianda moving to Twinsburg, Ohio">Lianda moving to Twinsburg, Ohio</a><span class="datetime"> November 23, 2011</span></li>
+<li class="morelink"><a href="/headlines2.html?id=23766" title="Full Story: Mexichem bids for Wavin, but key shareholder says bid is too low" alt="Full Story: Mexichem bids for Wavin, but key shareholder says bid is too low">Mexichem bids for Wavin, but key shareholder says bid is too low</a><span class="datetime"> November 22, 2011</span></li>
+<li class="morelink"><a href="/headlines2.html?id=23768" title="Full Story: Specialty packaging firm IntraPac building Indiana plant" alt="Full Story: Specialty packaging firm IntraPac building Indiana plant">Specialty packaging firm IntraPac building Indiana plant</a><span class="datetime"> November 22, 2011</span></li>
+<li class="morelink"><a href="/headlines2.html?id=23769" title="Full Story: Extrusion machine makers say they're pulling in solid orders " alt="Full Story: Extrusion machine makers say they're pulling in solid orders ">Extrusion machine makers say they're pulling in solid orders </a><span class="datetime"> November 22, 2011</span></li>
 </ul>
 <center><div class="morelink"><a href="/most-read.html#popular">more</a></div></center>
 </div>
@@ -357,11 +388,11 @@ DisplayAds ("Position1,Top3,Bottom,Right!Right", "");
  color:#fff; margin:6px 10px 8px 10px;"><b>MOST E-MAILED STORIES</b></div>
 <div style="width:235px; margin:6px 10px 8px 10px;">
 <ul class="mostpop">
-<li class="morelink"><a href="/headlines2.html?id=20559" alt="Full Story: Rexam considers sale of closures unit" title="Full Story: Rexam considers sale of closures unit">Rexam considers sale of closures unit</a><span class="datetime"> December 13, 2010</span></li>
-<li class="morelink"><a href="/headlines2.html?id=20593" alt="Full Story: Alpha Packaging buys Ohio blow molder Progressive Plastics" title="Full Story: Alpha Packaging buys Ohio blow molder Progressive Plastics">Alpha Packaging buys Ohio blow molder Progressive Plastics</a><span class="datetime"> December 16, 2010</span></li>
-<li class="morelink"><a href="/headlines2.html?id=20600" alt="Full Story: Mexichem buying US-based compounder AlphaGary for $300 million" title="Full Story: Mexichem buying US-based compounder AlphaGary for $300 million">Mexichem buying US-based compounder AlphaGary for $300 million</a><span class="datetime"> December 17, 2010</span></li>
-<li class="morelink"><a href="/headlines2.html?id=20576" alt="Full Story: Cryovac adding extrusion line at Missouri film plant" title="Full Story: Cryovac adding extrusion line at Missouri film plant">Cryovac adding extrusion line at Missouri film plant</a><span class="datetime"> December 15, 2010</span></li>
-<li class="morelink"><a href="/headlines2.html?id=20594" alt="Full Story: MTD sued over bursting plastic wheels" title="Full Story: MTD sued over bursting plastic wheels">MTD sued over bursting plastic wheels</a><span class="datetime"> December 16, 2010</span></li>
+<li class="morelink"><a href="/headlines2.html?id=23768" alt="Full Story: Specialty packaging firm IntraPac building Indiana plant" title="Full Story: Specialty packaging firm IntraPac building Indiana plant">Specialty packaging firm IntraPac building Indiana plant</a><span class="datetime"> November 22, 2011</span></li>
+<li class="morelink"><a href="/headlines2.html?id=23759" alt="Full Story: Agri-Industrial Plastics adds capacity for tanks" title="Full Story: Agri-Industrial Plastics adds capacity for tanks">Agri-Industrial Plastics adds capacity for tanks</a><span class="datetime"> November 21, 2011</span></li>
+<li class="morelink"><a href="/headlines2.html?id=23757" alt="Full Story: Medical bag from Genesis Plastics includes fluid sensor" title="Full Story: Medical bag from Genesis Plastics includes fluid sensor">Medical bag from Genesis Plastics includes fluid sensor</a><span class="datetime"> November 21, 2011</span></li>
+<li class="morelink"><a href="/headlines2.html?id=23758" alt="Full Story: Dynomax making a push into medical molding" title="Full Story: Dynomax making a push into medical molding">Dynomax making a push into medical molding</a><span class="datetime"> November 21, 2011</span></li>
+<li class="morelink"><a href="/headlines2.html?id=23765" alt="Full Story: Table manufacturer Lifetime Products wins patent fight in China" title="Full Story: Table manufacturer Lifetime Products wins patent fight in China">Table manufacturer Lifetime Products wins patent fight in China</a><span class="datetime"> November 22, 2011</span></li>
 </ul>
 <center><div class="morelink"><a href="/most-read.html#forwarded">more</a></div></center>
 </div>
@@ -370,64 +401,110 @@ DisplayAds ("Position1,Top3,Bottom,Right!Right", "");
 	        <h1>Privacy Policy </h1>
 <!-- HEADER ENDS HERE! -->
 <p>
-<i>PlasticsNews.com</i>, <i>PlasticsEncounter.com</i> and <i>PlasticsNews.com/China</i> are the Web sites of <i>Plastics 
-News</i>, a publication of Crain Communications Inc. Our postal address is 1725 Merriman Road, Akron, OH 44313, USA.  We can 
-be reached by e-mail at <i>webmaster@plasticsnews.com</i> or by telephone at 330-865-6212. Your use of our Web site 
-indicates to us that you have read and accepted our Privacy Policy and our Terms and Conditions. 
-</p><p>
-We have developed this Privacy Policy to advise subscribers and users of our products about our possible uses of information 
-collected by us and to inform you on how to modify your marketing preferences. This Privacy Policy is subject to change. 
-When we make any material change to this Privacy Policy, we will inform you by posting a notice on the home page of this 
+<i>PlasticsNews.com</i>, <i>PlasticsEncounter.com</i> and <i>PlasticsNews.com/China</i> are the Web sites of
+<i>Plastics News</i>, a publication of Crain Communications Inc. Our postal address is 1725 Merriman
+Road, Akron, OH 44313, USA. We can be reached by e-mail at <a href="mailto:webmaster@plasticsnews.com">webmaster@plasticsnews.com</a>
+or by telephone at 330-865-6212. Your use of our Web site indicates to us that you have read
+and accepted our Privacy Policy and our Terms and Conditions at <a href="/terms.html">http://plasticsnews.com/terms.html</a>.
+<br><br>
+
+We have developed this Privacy Policy to advise subscribers and users of our products about
+our possible uses of information collected by us and to inform you on how to modify your
+marketing preferences. This Privacy Policy is subject to change. When we make any material
+change to this Privacy Policy, we will inform you by posting a notice on the home page of this
 site and by changing the date on this page noting when the Privacy Policy was last updated.
+<br><br>
+
+When you subscribe, register, make purchases or at other times, we collect and store
+personally identifiable information from you that may include your name, postal and e-mail
+addresses, credit card information, facts about your profession, company and responsibilities
+and information regarding your computer system. We may from time to time obtain data from
+third-parties such as business partners or other companies and append it to existing user data
+to add more detail to the information we have about you.
+<br><br>
+
+For each visitor to this Web site, our web server may automatically attempt to identify the user
+through a cookie set within your browser. This is done to provide access to the site. From time
+to time we may also track information, in aggregate, on pages and features that users access or
+view. The activity is collected and stored in our server's log files. We may log Internet Protocol
+(IP) addresses, or the location of your computer on the Internet, for systems administration
+and troubleshooting purposes. We use this information in an aggregate fashion to track access
+to the Web site. Our email alerts utilize tracking technology that allows us to see how many
+newsletter e-mails are opened and the e-mail address of users who have clicked on a given
+story, feature or advertisement. We use this information for internal purposes to measure the
+aggregate number of people who view a given newsletter item.
+<br><br>
+
+We may also set cookies to your computer to allow subscribers and users to store login
+information, set personalization and navigate easily through the site. Additionally, through
+the use of an additional cookies or technology, we will have the ability to track users by their
+behavior profile and geographic location for the purpose of pushing advertising that matches
+their interests and/or specific location. We may conduct online surveys and contests or generate
+content that is presented by aggregating activity of users on the site. These surveys and
+contests are entirely voluntary and you may decline to participate.
+<br><br>
+
+We may use third-party advertising service vendors to serve advertisements on this Web
+site. These vendors may use cookies, web beacons or similar technologies to serve you
+advertisements tailored to interests you have shown by browsing on this and other sites you
+have visited. In doing so, these vendors may collect non-personal data such as your browser
+type, your operating system, Web pages visited, time of visits, content viewed, ads viewed,
+and other clickstream data. The use of cookies, web beacons or similar technologies by
+these advertising service vendors is subject to their own privacy policies, not ours, and we
+disclaim all liability in connection therewith. If you do not want the benefits of these advertising
+cookies, web beacons or similar technologies, you may be able to opt out by visiting 
+<a href="http://www.networkadvertising.org/optout_nonppii.asp">http://www.networkadvertising.org/optout_nonppii.asp</a>.
+<br><br>
+
+Information collected about subscribers and users may be used by us and our affiliates and
+partnering third-party companies to provide subscribers and users with the features of the site,
+to enable us to provide the products you requested, to personalize content and advertising, to
+send you e-mail notifications about our services and products, for audits, to perform statistical
+analysis of user behavior in order to measure interest in the various areas of our site (such as
+for product development purposes), to enforce our user agreement and to inform advertisers as
+to how many users have seen or "clicked" their advertising banners. We will disclose site usage
+information to third-parties only in aggregate.
+<br><br>
+
+We may disclose personal information if we are required to do so by law or we in good faith
+believe that such action is necessary to (1) comply with the law or with legal process; (2) protect
+and defend our rights and property; (3) protect against misuse or unauthorized use of the Web
+site; or (4) protect the personal safety or property of our users or the public (among other things,
+this means that if you provide false information or attempt to pose as someone else, information
+about you may be disclosed as part of any investigation into your actions). In the event that the
+Crain's Chicago Business Web site is acquired by or merged with another company, we may
+transfer information about you to the successor entity.
+<br><br>
+
+From time to time, we may make individual subscriber or user information available to carefully
+selected third-parties to send you information through e-mail or postal mail about their products
+or services. If you prefer not to have your personal information disclosed to third-parties for
+direct marketing purposes, please send an e-mail stating this preference and including your full
+name and e-mail address to <a href="mailto:customerservice-pn@crain.com">customerservice-pn@crain.com</a> 
+or, if you are a print subscriber, please call 1-800-678-9595. A user may change/correct his/her 
+preferences or personal information at any time online or by contacting us at the above e-mail 
+address or phone number. We retain the right to contact a subscriber or registered user regarding 
+account status, orders for products or services, changes to the registration agreement or to enforce 
+our subscription agreement.
+<br>
+We will remove any registrant (and their personal information) from our database pursuant
+to a request from the registrant, including full name and e-mail address, to 
+<a href="mailto:customerservice-pn@crain.com">customerservice-pn@crain.com</a>. You may not be able to 
+fully access this Web site if you request removal of your personal information.
+<br><br>
+
+This Web site is operated in the United States. If you are located in the European Union or
+elsewhere outside of the United States, please be aware that any information you provided to
+us will be transferred to the United States. By using our Web site, participating in any of our
+services and/or providing us with your information, you consent to this transfer.
+<br><br>
+
+If you have any questions or concerns about the substance or implementation of this
+Privacy Policy, please contact the Crain Communications Inc Legal Department at
+<a href="mailto:privacyhelp@crain.com">privacyhelp@crain.com</a> or 313-446-6000.
+
 </p><p>
-When you subscribe, register, make purchases or at other times, we collect and store personally identifiable information 
-from you that may include your name, postal and e-mail addresses, credit card information, facts about your profession, 
-company and responsibilities and information regarding your computer system. For each visitor to this Web site, our web 
-server may automatically attempt to identify the user through a cookie set within your browser. This is done to provide 
-access to the site. 
-</p><p>
-From time to time we may also track information, in aggregate, on pages and features that users access or view. The activity 
-is collected and stored in our server's log files. Our e-mail alerts use tracking technology that allows us to see how many 
-newsletter e-mails are opened and the e-mail address of users who have clicked on a given story, feature or advertisement. 
-We use this information for internal purposes to measure the aggregate number of people who view a given newsletter item.
-</p><p>
-We may also set cookies to your computer to allow subscribers and users to store login information, set personalization and 
-navigate easily through the site. Additionally, through the use of an additional cookies or technology, we will have the 
-ability to track users by their behavior profile and geographic location for the purpose of pushing advertising that matches 
-their interests and/or specific location. We may conduct online surveys and contests or generate content that is presented 
-by aggregating activity of users on the site. These surveys and contests are entirely voluntary and you may decline to 
-participate. 
-</p><p>
-Information collected about subscribers and users may be used by us and our affiliates and partnering third-party companies 
-to provide subscribers and users with the features of the site, to enable us to provide the products you requested, to 
-personalize content and advertising, to send you e-mail notifications about our services and products, for audits, to 
-perform statistical analysis of user behavior in order to measure interest in the various areas of our site (such as for 
-product development purposes), to enforce our user agreement and to inform advertisers as to how many users have seen or 
-"clicked" their advertising banners. We will disclose site usage information to third parties only in aggregate. 
-</p><p>
-From time to time, we may make individual subscriber or user information available to carefully selected third parties to 
-send 
-you information through e-mail or postal mail about their products or services. If you prefer not to have your personal 
-information disclosed to third parties for direct marketing purposes, please send an e-mail stating this preference and 
-including your full name and e-mail address to <a href="mailto:customerservice-pn@crain.com">customerservice-pn@crain.com</a> or, if you are a 
-print 
-subscriber, please call 1-800-678-9595. A user may change/correct his/her preferences or personal information at any time 
-online or by contacting us at the above e-mail address or phone number. We retain the right to contact a subscriber or 
-registered user regarding account status, orders for products or services, changes to the registration agreement or to 
-enforce our subscription agreement.
-</p><p>
-We will remove any registrant (and their personal information) from our database pursuant to a request from the registrant, 
-including full name and e-mail address, to <a href="mailto:customerservice-pn@crain.com?subject=PlasticsNews">customerservice-pn@crain.com</a>. You may 
-not be able to fully access this Web site if you request removal of your personal information. </p><p>
-This Web site is operated in the United States. If you are located in the European Union or elsewhere outside of the United 
-States, please be aware that any information you provided to us will be transferred to the United States. By using our Web 
-site, participating in any of our services and/or providing us with your information, you consent to this transfer.
-</p><p>
-If you have any questions or concerns about the substance or implementation of this Privacy Policy, please contact Crain 
-Communications Inc.'s Legal Department at <a href="mailto:customerservice-pn@crain.com">customerservice-pn@crain.com</a> or telephone 
-313-446-6000. 
-</p><p>
-<b>Policy Last Updated:</b> January 1, 2005 
+<b>Policy Last Updated:</b> Aug 2011
 </p><p>
 
 </p><div style="text-align:center;">
@@ -466,12 +543,10 @@ Communications Inc.'s Legal Department at <a href="mailto:customerservice-pn@cra
    <a href="http://www.plasticsnews.com/resin-pricing/etps.html">ETPs</a> | 
    <a href="http://www.plasticsnews.com/resin-pricing/thermosets.html">Thermosets</a> | 
    <a href="http://www.plasticsnews.com/resin-pricing/recycled-plastics.html">Recycled plastics</a> | 
-
-   <a href="http://www.plasticsnews.com/resin-pricing/lme-north-america.html">LME North America</a> | 
-   <a href="http://www.plasticsnews.com/resin-pricing/lme-asia.html">LME Asia</a> | 
-   <a href="http://www.plasticsnews.com/resin-pricing/lme-europe.html">LME Europe</a> | 
-   <a href="http://www.plasticsnews.com/resin-pricing/lme-global-contracts.html">LME global contracts</a><br>
-
+   <a name="cme_links" rel="#cme_overlay" href="http://www.cmegroup.com/trading/energy/petrochemicals/hdpe-high-density-polyethylene-pcw-calendar-swap-futures_quotes_settlements_futures.html">CME&nbsp;Group&nbsp;HDPE&nbsp;Futures</a> |
+   <a name="cme_links" rel="#cme_overlay" href="http://www.cmegroup.com/trading/energy/petrochemicals/lldpe-linear-low-density-polyethylene-pcw-calendar-swap-futures_quotes_settlements_futures.html">CME&nbsp;Group&nbsp;LLDPE&nbsp;Futures</a> |
+   <a name="cme_links" rel="#cme_overlay" href=" http://www.cmegroup.com/trading/energy/petrochemicals/pp-polypropylene-pcw-calendar-swap_quotes_settlements_futures.html">CME&nbsp;Group&nbsp;Polypropylene&nbsp;Futures</a><br>
+   
 <span style="font-family:verdana;"><b>Rankings/Lists:</b></span>
    <a href="http://www.plasticsnews.com/rankings/index.html">All</a> | 
    <a href="http://www.plasticsnews.com/rankings/injection-molders.html">Injection molders</a> | 
@@ -561,12 +636,8 @@ Communications Inc.'s Legal Department at <a href="mailto:customerservice-pn@cra
    <a href="http://www.plasticsnews.com/multimedia/slide-show.html">Slide shows</a><br>
 
 <span style="font-family:verdana;"><b>Our Events:</b></span>
-   <a href="http://www.sustainableplasticspackaging.com">Sustainable Plastics Packaging</a> | 
-   <a href="http://www.plasticsnews.com/forum2011/">Executive Forum</a> | 
-   <a href="http://www.plasticsinmedicaldevices.com">Plastics in Medical Devices</a> | 
-   <a href="http://www.plasticsnews.com/china/events">China Plastics in Automotive 2011</a> | 
-   <a href="http://www.prw.com/subscriber/conferences.html" rel="external" target="_blank">PRW/EPN events</a> | 
-   <a href="http://www.plasticsnews.com/encounters/encounters.html">Plastics Encounter</a><br>
+   <a href="http://www.plasticsnews.com/forum2012" target="_blank">Executive Forum 2012</a> | 
+   <a href="http://www.pnchina.com/events" target="_blank">China Plastics in Autos 2012</a> <br>
 
 <span style="font-family:verdana;"><b>Industry Events:</b></span>
    <a href="http://www.plasticsnews.com/industry-events">Industry Events</a><br>
@@ -574,14 +645,9 @@ Communications Inc.'s Legal Department at <a href="mailto:customerservice-pn@cra
 <span style="font-family:verdana;"><b>Awards:</b></span>
    <a href="http://www.plasticsnews.com/forum2011/poy_award.html">Processor of the Year</a> | 
    <a href="http://www.plasticsnews.com/forum2010/poy-faq.html">PN Awards FAQs</a><br>
-<span style="font-family:verdana;"><b>Advertising:</b></span>
 
-   <!-- <a href="http://www.plasticsnews.com/advertising/09-literature-spotlights.pdf" rel="external">Literature Spotlight</a> | -->
-   <a href="http://www.plasticsnews.com/advertising/media-kit.html">In Print</a> | 
-   <a href="http://www.plasticsnews.com/advertising/media-kit.html#a_classifieds">Classified</a> | 
-   <a href="http://www.plasticsnews.com/advertising/media-kit.html#online">Online</a><br>
-   <!-- <a href="http://www.plasticsnews.com/advertising/09-display-calendar.pdf" rel="external">Editorial calendar</a> | 
-   <a href="http://www.plasticsnews.com/advertising/media-kit.html">Media kit</a><br /> -->
+<span style="font-family:verdana;"><b>Advertising:</b></span>
+   <a href="http://www.plasticsnews.com/mediakit">Media Kit</a><br>
 
 <span style="font-family:verdana;"><b>Subscribe:</b></span>
    <a href="http://www.plasticsnews.com/subscribe/">Print</a> | 
@@ -605,12 +671,25 @@ Communications Inc.'s Legal Department at <a href="mailto:customerservice-pn@cra
 <div style="text-align:center;">
 <hr width="50%">
 
-Entire contents copyright 2010 by Crain Communications Inc.<br> All rights reserved.  This material 
+Entire contents copyright 2011 by Crain Communications Inc.<br> All rights reserved.  This material 
 may not be published, broadcast, rewritten or redistributed. <br> 
 <a href="/terms.html">Terms &amp; Conditions</a> | <a href="http://www.plasticsnewsdirectory.com">Plastics News Business Directory</a> | <a href="/privacy.html">Privacy policy</a> | <a href="/technical-info.html">Technical Information</a><br>
 For information about this web site contact <a href="mailto:webmaster@plasticsnews.com">webmaster@plasticsnews.com</a>
 
 </div>
+<!-- START PLASTICSNEWS GA CODE -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22457798-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- END PLASTICSNEWS GA CODE -->
 <script src="http://analytics.cmg.net/traxjs.php" type="text/javascript"></script>
 <script type="text/javascript">
 _cmgid = "plastics";
@@ -623,18 +702,6 @@ cmgTrax();
 	<script type="text/javascript" language="javascript" src="http://t1.trackalyzer.com/trackalyze.js"></script>
 	-->
 
-<script type="text/javascript"> 
-var domainy = location.protocol == "https:" ? 
-"https://leads.demandbase.com" : "http://leads.demandbase.com"; 
-document.write(unescape("%3Cscript src='" + 
- domainy +"/207884.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://leads.demandbase.com/207884.js" type="text/javascript"></script> 
-<noscript><p> 
-<img alt="Demandbase Connect" width="1" height="1" 
- src="http://leads.demandbase.com/207884ns.gif" /> 
-</p></noscript> 
-<noscript><p><a href="http://www.demandbase.com"> 
-<img src="http://www.demandbase.com/images/stream/demandbase.gif" 
-alt="Demandbase" width="1" height="1"></a></p></noscript>
 
 
 
