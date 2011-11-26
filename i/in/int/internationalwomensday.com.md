@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationalwomensday.com privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406114537id_/http%3A//www.internationalwomensday.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalwomensday.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126051906id_/http%3A//www.internationalwomensday.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # International Women's Day 2011
 
