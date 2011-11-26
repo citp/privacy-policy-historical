@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolhandpoker.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610135353id_/http%3A//coolhandpoker.com/poker-security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolhandpoker.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126140732id_/http%3A//www.coolhandpoker.com/poker-security.aspx) for the most accurate reproduction.*
 
 # Cool Hand Online Poker – Privacy Policy
 
