@@ -1,23 +1,14 @@
-> *The following text is extracted and transformed from the agarwalpackers.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agarwalpackers.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # International Logistics Services - Global Logistics Services, World Logistics Services
 
-[](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/index.html)
-
-An ISO 9001:2008 Certified Company
-
-|  | 
-
-*Prefix City STD Code  
-  
----|---|---  
-| [Home](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/index.html) |  | [Profile](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/profile.html) |  | [Why Agarwal Packers & Movers Ltd.](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/services.html) |  | [Services](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/domestic-relocation.html) |  | [Strength](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/strength.html) |  | [Agarwal Movers Group](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/drs-world.html) |  | [Contact Us](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/enquiry.html#contact) |  | [Site Map](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/site-map.html) |   
+| [Home](http://www.agarwalpackers.com/) |  | [Profile](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/profile.html) |  | [Why Agarwal Packers & Movers Ltd.](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/services.html) |  | [Services](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/service.html) |  | [Strength](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/strength.html) |  | [Agarwal Movers Group](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/agarwal-movers-group.html) |  | [Contact Us](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/enquiry.html#contact) |  | [Site Map](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/site-map.html) |   
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
   
-[APM USP](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/apm-usp.html) |  | [Advantages](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/advantages.html) |  | [Shifting Process](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/shifting-process.html) |  | [Locations](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/locations.html) |  | [International Moving](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/international-packaging.html) |  | [Storage Capacity](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/storage-capacity.html) |  | [Safety Features](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/safety-features.html) |  | [V Care](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/v-care.html) |  | [Career](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/career.html)  
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
+[APM USP](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/apm-usp.html) |  | [Advantages](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/advantages.html) |  | [Shifting Process](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/shifting-process.html) |  | [Locations](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/locations.html) |  | [International Moving](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/international-packaging.html) |  | [Storage Capacity](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/storage-capacity.html) |  | [Safety Features](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/safety-features.html) |  | [Career](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/career.html)  
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
   
-**[Home](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/index.html)** » Privacy Policy
+**[Home](http://www.agarwalpackers.com/)** » Privacy Policy
 
 **The short version:**
 
@@ -27,7 +18,7 @@ You can visit most of our website without having to give any information about y
 
 **Full text version:**
 
-Agarwal Packers & Movers Ltd. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for all domains owned by Agarwal Packers Agarwal Packers & Movers Ltd.
+Agarwal Packers & Movers Ltd. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for all domains owned by Agarwal Packers & Movers Ltd.
 
 **Information Collection and Use**
 
@@ -49,7 +40,7 @@ Agarwal Packers & Movers Ltd uses client IP addresses to analyze site usage tren
 
 This site contains links to other sites. Agarwal Packers & Movers Ltd. is not responsible for the privacy practices or the content of such web sites.
 
-Mail your request to Agarwal Packers & Movers Ltd, DRS Group, 21,1st Floor Shivaji Marg, and Najafgarh Road New Delhi 110015
+Mail your request to Agarwal Packers & Movers Ltd, Agarwal Movers Group, 21,1st Floor Shivaji Marg, and Najafgarh Road New Delhi 110015
 
 **Contacting the web site administrators**
 
@@ -61,66 +52,77 @@ If you have any questions about this privacy statement, the practices of this si
 New Delhi, 110 015 - **(India)**  
 **Phone :** +(91)-(11)-45004300  
 **Fax :** +(91)-(11)-45063710  
-**E-Mail :** [info@agarwalpackers.com](mailto:info@agarwalpackers.com,mcpaid@indiamart.com?subject=Agarwal%20Packers%20&%20Movers%20Mail%20Through%20agarwalpackers.com)
+**E-Mail :** [info@agarwalpackers.com](mailto:info@agarwalpackers.com?subject=Agarwal%20Packers%20&%20Movers%20Mail%20Through%20agarwalpackers.com)
 
-  
-
-
-[ Packer & Mover Jammu](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversjammu.html "Packers & Movers Jammu")  
-[Packer & Mover Chandigarh](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoverschandigarh.html "Packers & Movers Chandigarh")  
-[Packer & Mover Ambala](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversambala.html "Packers & Movers Ambala")  
-[Packer & Mover Dehradun](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversdehradun.html "Packers & Movers Dehradun")  
-[Packer & Mover Haridwar](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversharidwar.html "Packers & Movers Haridwar")  
-[Packer & Mover Ludhiana](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversludhiana.html "Packers & Movers Ludhiana")  
-[Packer & Mover Delhi](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversdelhi.html "Packers & Movers Delhi")  
-[Packer & Mover Gurgaon](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversgurgaon.html "Packers & Movers Gurgaon")  
-[Packer & Mover Meerut](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversmeerut.html "Packers & Movers Meerut")
-
-| 
-
-[Packer & Mover Jaipur](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversjaipur.html "Packers & Movers Jaipur")  
-[Packer & Mover Gwalior](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversgwalior.html "Packers & Movers Gwalior")  
-[Packer & Mover Lucknow](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoverslucknow.html "Packers & Movers Lucknow")  
-[Packer & Mover Kanpur](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoverskanpur.html "Packers & Movers Kanpur")  
-[Packer & Mover Allahabad](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversallahabad.html "Packers & Movers Allahabad")  
-[Packer & Mover Banaras](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversbanaras.html "Packers & Movers Banaras")  
-[Packer & Mover Guwahati](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversguwahati.html "Packers & Movers Guwahati")  
-[Packer & Mover Bhopal](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversbhopal.html "Packers & Movers Bhopal")  
-[Packer & Mover Ahemdabad](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversahemdabad.html "Packers & Movers Ahemdabad")
+[ Packers & Movers Jammu](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversjammu.html "Packers & Movers Jammu")  
+[Packers & Movers Chandigarh](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoverschandigarh.html "Packers & Movers Chandigarh")  
+[Packers & Movers Ambala](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversambala.html "Packers & Movers Ambala")  
+[Packers & Movers Dehradun](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversdehradun.html "Packers & Movers Dehradun")  
+[Packers & Movers Haridwar](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversharidwar.html "Packers & Movers Haridwar")  
+[Packers & Movers Ludhiana](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversludhiana.html "Packers & Movers Ludhiana")  
+[Packers & Movers Delhi](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversdelhi.html "Packers & Movers Delhi")  
+[Packers & Movers Gurgaon](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversgurgaon.html "Packers & Movers Gurgaon")  
+[Packers & Movers Meerut](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversmeerut.html "Packers & Movers Meerut")  
+[Packers & Movers Ranchi](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversranchi.html "Packers & Movers Ranchi")  
+[Packers & Movers Bhubaneshwar](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversbhubneshwar.html "Packers & Movers Bhubaneshwar")  
+[Packers & Movers Cuttack](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoverscuttack.html "Packers & Movers Cuttack")
 
 | 
 
-[Packer & Mover Rajkot](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversrajkot.html "Packers & Movers Rajkot")  
-[Packer & Mover Gandhidham](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversgandhidham.html "Packers & Movers Gandhidham")  
-[Packer & Mover Baroda](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversbaroda.html "Packers & Movers Baroda")  
-[Packer & Mover Ankleshwar](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversankleshwar.html "Packers & Movers Ankleshwar")  
-[Packer & Mover Nagpur](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversnagpur.html "Packers & Movers Nagpur")  
-[Packer & Mover Ghaziabad](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversgaziabad.html "Packers & Movers Ghaziabad")  
-[Packer & Mover Patna](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoverspatna.html "Packers & Movers Patna")  
-[Packer & Mover Kolkata](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoverskolkata.html "Packers & Movers Kolkata")  
-[Packer & Mover Kalighat](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoverskalighat.html "Packers & Movers kalighat")  
-
-
-| 
-
-[Packer & Mover Surat](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoverssurat.html "Packers & Movers Surat")  
-[Packer & Mover Aurangabad](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversaurangabad.html "Packers & Movers Aurangabad")  
-[Packer & Mover Mumbai](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversmumbai.html "Packers & Movers Nasik")  
-[Packer & Mover Navi Mumbai](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversnavimumbai.html "Packers & Movers Navi Mumbai")  
-[Packer & Mover Pondichery](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoverspondichery.html "Packers & Movers Pondichery")  
-[Packer & Mover Mysore](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversmysore.html "Packers & Movers Mysore")  
-[Packer & Mover Coimbatore](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoverscoimbatore.html "Packers & Movers Coimbatore")  
-[Packer & Mover Indore](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversindore.html "Packers & Movers Indore")
+[Packers & Movers Jaipur](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversjaipur.html "Packers & Movers Jaipur")  
+[Packers & Movers Gwalior](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversgwalior.html "Packers & Movers Gwalior")  
+[Packers & Movers Lucknow](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoverslucknow.html "Packers & Movers Lucknow")  
+[Packers & Movers Kanpur](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoverskanpur.html "Packers & Movers Kanpur")  
+[Packers & Movers Allahabad](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversallahabad.html "Packers & Movers Allahabad")  
+[Packers & Movers Banaras](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversbanaras.html "Packers & Movers Banaras")  
+[Packers & Movers Guwahati](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversguwahati.html "Packers & Movers Guwahati")  
+[Packers & Movers Bhopal](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversbhopal.html "Packers & Movers Bhopal")  
+[Packers & Movers Ahmedabad](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversahemdabad.html "Packers & Movers Ahmedabad")   
+[Packers & Movers Erode](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoverserode.html "Packers & Movers Erode")  
+[Packers & Movers Hubli](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmovershubli.html "Packers & Movers Hubli")  
+[Packers & Movers Jamshedpur](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversjamshedpur.html "Packers & Movers Jamshedpur")
 
 | 
 
-[Packer & Mover Pune](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoverspune.html "Packers & Movers Pune")  
-[Packer & Mover Hyderabad](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmovershyderabad.html "Packers & Movers Hyderabad")  
-[Packer & Mover Bangalore](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversbangalore.html "Packers & Movers Bangalore")  
-[Packer & Mover Chennai](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoverschennai.html "Packers & Movers Chennai")  
-[Packer & Mover Mangalore](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoversmangalore.html "Packers & Movers Mangalore")  
-[Packer & Mover Cochin](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoverscochin.html "Packers & Movers Cochin")  
-[Packer & Mover Tirupur](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoverstirupur.html "Packers & Movers Tirupur")  
-[Packer & Mover Trivandrum](https://web.archive.org/web/20110321024116id_/http%3A//www.agarwalpackers.com/packersmoverstrivandrum.html "Packers & Movers Trivandrum")  
+[Packers & Movers Rajkot](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversrajkot.html "Packers & Movers Rajkot")  
+[Packers & Movers Gandhidham](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversgandhidham.html "Packers & Movers Gandhidham")  
+[Packers & Movers Baroda](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversbaroda.html "Packers & Movers Baroda")  
+[Packers & Movers Ankleshwar](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversankleshwar.html "Packer & Mover Ankleshwar")  
+[Packers & Movers Nagpur](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversnagpur.html "Packers & Movers Nagpur")  
+[Packers & Movers Ghaziabad](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversgaziabad.html "Packers & Movers Ghaziabad")  
+[Packers & Movers Patna](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoverspatna.html "Packers & Movers Patna")  
+[Packers & Movers Kolkata](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoverskolkata.html "Packers & Movers Kolkata")  
+[Packers & Movers Kalighat](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoverskalighat.html "Packers & Movers Kalighat")  
+[Packers & Movers Kolhapur](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoverskolhapur.html "Packers & Movers Kolhapur")  
+[Packers & Movers Kottayam](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoverskottayam.html "Packers & Movers Kottayam")  
+[Packers & Movers Madurai](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversmadurai.html "Packers & Movers Madurai")
+
+| 
+
+[Packers & Movers Surat](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoverssurat.html "Packers & Movers Surat")  
+[Packers & Movers Aurangabad](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversaurangabad.html "Packers & Movers Aurangabad")  
+[Packers & Movers Mumbai](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversmumbai.html "Packers & Movers Mumbai")  
+[Packers & Movers Navi Mumbai](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversnavimumbai.html "Packers & Movers Navi Mumbai")  
+[Packers & Movers Pondichery](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoverspondichery.html "Packers & Movers Pondichery")  
+[Packers & Movers Mysore](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversmysore.html "Packers & Movers Mysore")  
+[Packers & Movers Coimbatore](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoverscoimbatore.html "Packers & Movers Coimbatore")  
+[Packers & Movers Indore](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversindore.html "Packers & Movers Indore")   
+[Packers & Movers Nasik](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversnasik.html "Packers & Movers Nasik")  
+[Packers & Movers Ponda](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversponda.html "Packers & Movers Ponda")  
+[Packers & Movers Raipur](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversraipur.html "Packers & Movers Raipur")  
+[Packers & Movers Hyderabad](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmovershyderabad.html "Packers & Movers Hyderabad")
+
+| 
+
+[Packers & Movers Bangalore](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversbanglore.html "Packers & Movers Bangalore")  
+[Packers & Movers Chennai](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoverschennai.html "Packers & Movers Chennai")  
+[Packers & Movers Mangalore](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversmanglore.html "Packers & Movers Mangalore")  
+[Packers & Movers Cochin](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoverscochin.html "Packers & Movers Cochin")  
+[Packers & Movers Tirupur](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoverstirupur.html "Packers & Movers Tirupur")  
+[Packers & Movers Trivandrum](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoverstrivandrum.html "Packers & Movers Trivandrum")   
+[Packers & Movers Rourkela](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversrourkela.html "Packers & Movers Rourkela")  
+[Packers & Movers Rudrapur](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversrudrapur.html "Packers & Movers Rudrapur")  
+[Packers & Movers Trichy](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoverstrichy.html "Packers & Movers Trichy")  
+[Packers & Movers Vapi](https://web.archive.org/web/20111126051734id_/http%3A//www.agarwalpackers.com/packersmoversvapi.html "Packers & Movers Vapi")  
   
 ---|---|---|---|---
