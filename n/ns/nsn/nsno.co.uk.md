@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the nsno.co.uk privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227132836id_/http%3A//www.nsno.co.uk/everton/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsno.co.uk privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126052638id_/http%3A//www.nsno.co.uk/everton/about) for the most accurate reproduction.*
 
 # About | Nil Satis Nisi Optimum
 
-NSNO is a website dedicated to bringing Evertonians around the world the latest news and views on Everton Football Club.
+NSNO is a website dedicated to bringing Evertonians around the world the latest news and views on Everton Football Club.  In 2011 a parent media outlet was formed to act as a controlling agent for all projects created along with NSNO.co.uk.  [Nil-Satis Media](http://www.nil-sats.com/ "Nil Satis Media") will aim to bring the same standards to all media projects as expressed throughout NSNO.co.uk.
 
-NSNO.co.uk was born on Friday 25th June 2004 with a small team of Evertonians writing about the Blues. This team has changed over the past six years, but currently consists of Editor Simon Paul, with writers Chris and Thom, while Bally and Liam moderate the forum with a steely hand.
+[Writing for NSNO](http://www.nsno.co.uk/about/writing-for-nsno/ "Writing for NSNO")  |  [Advertise on NSNO](http://www.nsno.co.uk/about/advertise-on-nsno/ "Advertise on NSNO")
+
+NSNO.co.uk was born on Friday 25th June 2004 with a small team of Evertonians writing about the Blues. This team has changed over the past seven years, but currently consists of Editor Simon Paul, with writers Chris and Thom, while Bally and Liam moderate the forum with a steely hand.
 
 NSNO has been tested on Internet Explorer, Opera, and Mozilla Firefox, and it is the latter which is our recomended browser, for ALL your internet browsing, not just NSNO.
 
@@ -34,4 +36,4 @@ NSNO maintains a strict “no-spam” policy. Your email address will not be sol
 
 If you provide us with your email address, it will only be used for the purposes specified at the time. We reserve the right to, on occasion, email you to offer you the opportunity to sign up for a new service.
 
-If you have ANY questions regarding the above, or anything about the site, please contact us by e-mail at nsno1878©gmail.com
+If you have ANY questions regarding the above, or anything about the site, please contact us by e-mail at nsno1878©gmail.com 
