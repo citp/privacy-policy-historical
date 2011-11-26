@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the simplybusiness.co.uk privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528151550id_/http%3A//www.simplybusiness.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplybusiness.co.uk privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126092805id_/http%3A//www.simplybusiness.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
-## Our Privacy Policy - what we will and won't do with your personal information
+Last Updated 01 June 2011
 
-Please read this privacy policy with the Data Protection Act 1998.
+**Please read this privacy policy with the Data Protection Act 1998.**
 
 We are registered with Data Protection Commissioner and our registration number is Z6948126.
 
@@ -18,11 +18,12 @@ We have kept to a minimum the amount of "required" information you need to provi
 
 **Anonymous information we collect**
 
-We also collect information from across our Site. This enables us to see how people use our Site, and helps us in continually refining and enhancing our service. We may also use aggregated customer information to provide potential Partners with a general profile of people using our Site, and to analyze the effectiveness of our service to customers. None of this information can be related back to you as an individual.  
+We also collect information from across our Site. This enables us to see how people use our Site, and helps us in continually refining and enhancing our service. We may also use aggregated customer information to provide potential Partners with a general profile of people using our Site, and to analyse the effectiveness of our service to customers. None of this information can be related back to you as an individual.  
 **  
 How we use cookies**
 
-The Site uses cookies to keep track of your identity and selections. Cookies may be used to deliver content specific to your interests and for other purposes. Most browsers allow you to turn off cookies. If you want to know how to do this please look at the help menu on your browser. However, switching off cookies will restrict your use of the Site.
+The Site uses cookies to keep track of your identity and selections. Cookies may be used to deliver content specific to your interests and for other purposes. Most browsers allow you to turn off cookies. If you want to know how to do this please look at the help menu on your browser. However, switching off cookies will restrict your use of the Site.  
+Please note - We require "cookies" to be enabled for you to receive a quotation for insurance and for You to access and view your insurance policy.
 
 **What information do we pass to other people, and why?**
 
@@ -40,7 +41,7 @@ You should know which companies we work with as you use our Site. These differ d
 
 The following list is meant to help you understand which Partners will see your information after your experience with us and we do our best to keep this as up to date as possible:
 
-Insurance, Invoice Financing, Buy to Let Mortgages, Other Partners (beprofessional.com & Equifax)
+Insurance, Invoice Financing, Buy to Let Mortgages, Other Partners.
 
 Insurance
 
@@ -50,7 +51,7 @@ Groupama Insurance Services;
 Glemham Underwriting Limited;  
 Acumus Insurance;  
 Axa Insurance Company;  
-Royal and Sun Alliance;  
+RSA;  
 Brit Insurance Ltd;  
 Hiscox
 
@@ -87,9 +88,6 @@ _Please note, we will introduce you to one of these providers after you have com
 
 Buy to Let (Residential Investment Mortgages)
 
-Bradford & Bingley Plc;  
-The Money Centre
-
 _Please note, we will introduce you to one of providers after you have completed an RFQ._
 
 Other Partners;
@@ -98,10 +96,8 @@ Confused.com – Introducing partner;
 Gocompare.com – Introducing partner;  
 Tescocompare.com – Introducing partner;  
 Moneysupermarket.com – Introducing partner;  
-Comparethemarket – Introducing partner  
-Business Octopus – If we can't help you with your insurance request, business octopus may offer to assist you.  
-Beprofessional.com – provider of Business Builder, a free advice service for small businesses.;  
-Equifax Plc – provider of credit information;
+Business Octopus – If we can't help you with your insurance request, the business octopus may offer to assist you.  
+Beprofessional.com – provider of Business Builder, a free advice service for small businesses.;
 
 **Links to other people's web sites**
 
@@ -128,8 +124,8 @@ Attn: Customer Service
 One Finsbury Square  
 London  
 EC2A 1AE  
-Telephone: +44 (0)845 602 3165  
-Fax: +44 (0)20 7920 8088  
+Telephone: +44 (0)845 071 0270  
+Fax: +44 (0)20 7920 8088  
 [info@simplybusiness.co.uk](mailto:info@simplybusiness.co.uk)
 
 **Definitions used on this page**
