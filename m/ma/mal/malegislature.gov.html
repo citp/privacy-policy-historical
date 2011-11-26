@@ -1,42 +1,40 @@
-<!--The following is the downloaded HTML source of the malegislature.gov privacy policy that was archived on 2010-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101217101830id_/http%3A//www.malegislature.gov/Site/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the malegislature.gov privacy policy that was archived on 2011-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111126160014id_/http%3A//www.malegislature.gov/Site/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-    
+
     <title>
 Privacy Policy
 </title>
-    
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.1/prototype.js"></script>
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.2/scriptaculous.js"></script>
-    <script type="text/javascript" src="/Content/Themes/js/lightview.js"></script>
-    
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-    
-    <script src="/Content/Themes/js/map.js" type="text/javascript"></script><style>
+
+    <script type="text/javascript" src="/Content/Themes/js/jquery-1.5.1.js"></script>
+
+    <script type="text/javascript" src="/Content/Themes/js/Pages/jQueryPrinter.js"></script>
+
+    <script type="text/javascript" src="/Content/Themes/js/map.js"></script><style>
 td.calendarDateInput {letter-spacing:normal;line-height:normal;font-family:Verdana,Sans-Serif;font-size:11px;}
 select.calendarDateInput {letter-spacing:.06em;font-family:Verdana,Sans-Serif;font-size:11px;}
 input.calendarDateInput {letter-spacing:.06em;font-family:Verdana,Sans-Serif;font-size:11px;}
 </style>
 
-    <link href="/Content/Themes/Css/map.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="/Content/css/massleg.main.2.0.css">
+
+    <script type="text/javascript" src="/Content/Themes/js/jquery.dropdownPlain.js"></script>
+    <!--[if lte IE 7]>
+        <link rel="stylesheet" type="text/css" href="/Content/Themes/Css/dropdownmenu_ie.css" media="screen" />
+    <![endif]-->
 
     <script type="text/javascript">
         if (top.frames.length != 0)
             top.location = self.document.location;
     </script>
-    <script type="text/javascript">
-        ddsmoothmenu.init({
-            mainmenuid: "smoothmenu1", //menu DIV id
-            orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
-            classname: 'ddsmoothmenu', //class added to menu's outer DIV
-            //customtheme: ["#1c5a80", "#18374a"],
-            contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
-        })
-    </script>
 
     
+    <script type="text/javascript">
+        registerExternalLinks();
+    </script>
+
 
 </head>
 <body>
@@ -48,239 +46,566 @@ input.calendarDateInput {letter-spacing:.06em;font-family:Verdana,Sans-Serif;fon
 <!--Start Header--> 
  
 <div id="Header">
+
+<a class="homeLink" href="/"><img id="logoImage" src="/Content/Images/img_statehouseDome.png" width="227" height="96" border="0" alt="Link to Home page"></a>
+
+
+    <div class="headerText">
+        <span class="titleFirstLine">The <span class="courtNumber">187<sup>th</sup></span> General Court of</span> <br><strong>T</strong>he <strong>C</strong>ommonwealth of <strong>M</strong>assachusetts
+    </div>
+  
+
     <!--Start Top Nav-->
     <div id="TopNav">
-        <ul>
-            <li><a href="/" title="Home" accesskey="0">Home</a></li>
-            <li>|</li>
-            <li><a href="/Site/Glossary" title="Glossary">Glossary</a></li>
-            <li>|</li>
+        <ul class="clearfix">
+            <li><a href="/" accesskey="0">Home</a></li>
+            <li><a href="/Site/Glossary">Glossary</a></li>
             <li><a href="/Site/FAQ" title="Frequently Asked Questions">FAQs</a></li>
         </ul>
-    </div>
-    <!--end TopNav-->
+
     <!--Site Search-->
-        <form action="/Search/Results" method="get">
+        <form action="/Search/SearchResults" method="get">        
         <div id="siteSearch">
-            <label for="quickSearch" class="siteSearchLabel">Site Search</label>
-            <input id="quickSearch" class="search" name="Input.Keyword" type="text" value="Site Search" maxlength="255" onfocus="if (this.value==this.defaultValue) this.value='';" title="enter keywords">
-            <input class="Go" type="image" src="/Content/Images/buttons/btn_GoRounded_27x20.png" title="Execute Search">
-            <a href="/Search" class="advancedSearchLink" title="Link for Advanced Search Page"><span>Advanced Search Icon</span>Advanced</a>
-        </div>
+            <input id="quickSearch" class="search" name="Input.Keyword" type="text" value="site search" maxlength="255" onfocus="if (this.value==this.defaultValue) this.value=''; this.style.font='normal bold 11px Verdana'; this.style.color='#000000';" onblur="if (this.value=='') { this.value = this.defaultValue; this.style.font='italic normal 11px Verdana'; this.style.color='#666666';}">
+            <button class="goButton" type="submit" title="Execute Search">GO</button>
+            <a href="/Search" class="advancedSearchLink"><span>Search </span>Options</a>
+        </div> <!--End Site Search-->
         </form>
-    <!--End Site Search-->
+    </div><!--end TopNav-->
 </div> 
 <!--end Header-->
         
- <div id="MainNav">
-    <div id="smoothmenu1" class="ddsmoothmenu">
-    
-   	    <ul>
+<div id="MainNav">
+  <div class="menuWrapper">
+    <ul class="dropdown">
    	    
-            <li><a href="/Legislation" title="Bills &amp; Laws">Bills &amp; Laws</a>
-              <ul>
-                <li><a href="/Bills/Search" title="Bills">Bills</a></li>
-                <li><a href="/Laws/Search" title="Existing Laws">Existing Laws</a></li>
-                <li><a href="/Legislation/DraftingManual" title="Drafting Manual">Drafting Manual</a></li>
-                <li><a href="/Legislation/SenateCalendar" title="Senate Calendar">Senate Calendar</a></li>
-                <li><a href="/Legislation/HouseCalendar" title="House Calendar">House Calendar</a></li>
-                <li><a href="/Legislation/JointRules" title="Joint Rules">Joint Rules</a></li>
-                <li><a href="/Legislation/SenateRules" title="Senate Rules">Senate Rules</a></li>
-                <li><a href="/Legislation/HouseRules" title="House Rules">House Rules</a></li>
-                <li><a href="/Legislation/Journals" title="Journals">Journals</a></li>
-              </ul>
-            </li>
+      <li id="lawsMenu"><a href="/Laws">Massachusetts Laws</a>
+        <ul class="subMenu">
+          <li><a href="/Laws/Constitution">Massachusetts Constitution</a></li>
+          <li><a href="/Laws/GeneralLaws/Search">General Laws</a></li>
+          <li><a href="/Laws/SessionLaws/Search">Session Laws</a></li>
+          <li><a href="/Legislation/Rules" class="nextLevelArrow">Rules</a>
+            <ul class="subMenu2 nextLevelArrow">
+              <li><a href="/Legislation/SenateRules">Senate Rules</a></li>
+              <li><a href="/Legislation/HouseRules">House Rules</a></li>
+              <li><a href="/Legislation/JointRules">Joint Rules</a></li>
+            </ul>
+          </li>
+        </ul>
+      </li>
 
-            <li><a href="/People" title="People">People</a>
-              <ul>
-                <li><a href="/People/Leadership" title="Leadership">Leadership</a></li>
-                <li><a href="/People/Senate" title="Senate">Senate</a></li>
-                <li><a href="/People/House" title="House">House</a></li>
-                <li><a href="/Committees" title="Committees">Committees</a></li>
-                <li><a href="/People/FindMyLegislator" title="Find My Legislator">Find My Legislator</a></li>
-              </ul>
-            </li>
-            			
-            <li><a href="/Committees" title="Committees">Committees</a>
-              <ul>
-                <li><a href="/Committees" title="What's a Committee">What's a Committee</a></li>
-                <li><a href="/Committees/Joint" title="Joint Committees">Joint Committees</a></li>
-                <li><a href="/Committees/Senate" title="Senate Committees">Senate Committees</a></li>
-                <li><a href="/Committees/House" title="House Committees">House Committees</a></li>
-              </ul>
-            </li>
-            			
-            <li><a href="/Events" title="Events">Events</a>
-              <ul>
-                <li><a href="/Events/Upcoming" title="Upcoming Events">Upcoming Events</a></li>
-                <li><a href="/Events/ArchiveSearch" title="Archived Events">Archived Events</a></li>
-              </ul>
-            </li>
-			
-            <li><a href="/Engage" title="Educate &amp; Engage">Educate &amp; Engage</a>
-              <ul>
-                <li><a href="/Engage/TeachersKids" title="For Teachers &amp; Kids">For Teachers &amp; Kids</a></li>
-                <li><a href="/Engage/HowIdeaBecomesLaw" title="How an Idea Becomes a Law">How an Idea Becomes a Law</a></li>
-                <li><a href="/Engage/StateHouseTours" title="State House Tours">State House Tours</a></li>
-                <li><a href="/Engage/SpecialEvents" title="Special Events">Special Events</a></li>
-                <li><a href="/Engage/ContactUs" title="Contact Us">Contact Us</a></li>
-                <li><a href="/Engage/Directions" title="State House Directions">State House Directions</a></li>
-              </ul>
-            </li>
-			
-            <li><a href="/Budget" title="Mass. Budget">Mass. Budget</a>
-              <ul>
-                <li><a href="/Budget/Process" title="Budget Process">Budget Process</a></li>
-                <li><a href="/Budget/BudgetBreakdown" title="Budget Breakdown">Budget Breakdown</a></li>
-                <li><a href="/Budget/SenateBudget" title="Senate Budget">Senate Budget</a></li>
-                <li><a href="/Budget/HouseBudget" title="House Budget">House Budget</a></li>
-                <li><a href="/Budget/CurrentBudget" title="Current Budget">Current Budget</a></li>
-                <li><a href="/Budget/PriorBudget/2010" title="2010 Budget">2010 Budget</a></li>
-                <li><a href="/Budget/PriorBudget/2009" title="2009 Budget">2009 Budget</a></li>
-              </ul>
-            </li>
+      <li id="billsMenu"><a href="/Bills">Bills</a>
+        <ul class="subMenu">
+          <li><a href="/Bills/Search">Bill Search</a></li>
+          <li><a href="/Legislation/DraftingManual">Drafting Manual</a></li>
+          <li><a href="/Legislation/Calendars" class="nextLevelArrow">Calendars</a>
+            <ul class="subMenu2 nextLevelArrow">
+              <li><a href="/Legislation/SenateCalendar">Senate Calendar</a></li>
+              <li><a href="/Legislation/HouseCalendar">House Calendar</a></li>
+              <li><a href="/Legislation/JointCalendar">Joint Calendar</a></li>
+            </ul>
+          </li>
+          <li><a href="/Legislation/Journals">Journals</a>
             
-          </ul>
-         
-      </div> 
- <!--end smoothmenu1-->
+          </li>
+        </ul>
+      </li>
+
+      <li id="budgetMenu"><a href="/Budget">State Budget</a>
+        <ul class="subMenu">
+          <li><a href="/Budget/Process">Budget Process</a></li>
+          <li><a href="/Budget/BudgetBreakdown">Budget Breakdown</a></li>
+          <li><a href="/Budget/FY2012/Senate" class="nextLevelArrow">Senate Budget</a>
+            <ul class="subMenu2 nextLevelArrow">
+              <li><a href="/Budget/FY2012/Senate">FY 2012 Senate Budget</a></li>
+              <li><a href="/Budget/FY2011/Senate">FY 2011 Senate Budget</a></li>
+              
+            </ul>
+          </li>
+          <li><a href="/Budget/FY2012/House" class="nextLevelArrow">House Budget</a>
+            <ul class="subMenu2 nextLevelArrow">
+              <li><a href="/Budget/FY2012/House">FY 2012 House Budget</a></li>
+              <li><a href="/Budget/FY2011/House">FY 2011 House Budget</a></li>
+              
+            </ul>
+          </li>
+          <li><a href="/Budget/CurrentBudget" class="nextLevelArrow">Current / Prior Budgets</a>
+            <ul class="subMenu2 nextLevelArrow">
+              
+              <li><a href="/Budget/PriorBudget/2012">FY 2012 Budget</a></li>
+              
+              <li><a href="/Budget/PriorBudget/2011">FY 2011 Budget</a></li>
+              
+              <li><a href="/Budget/PriorBudget/2010">FY 2010 Budget</a></li>
+              
+              
+            </ul>
+          </li>
+        </ul>
+      </li>
+
+      <li id="peopleMenu"><a href="/People">People</a>
+        <ul class="subMenu">
+          <li><a href="/People/Search">Find a Legislator</a></li>
+          <li><a href="/People/Leadership">Leadership</a></li>
+          <li><a href="/People/Senate">Senate</a></li>
+          <li><a href="/People/House">House</a></li>
+          <li><a href="/People/ClerksOffice">Clerks</a></li>
+        </ul>
+      </li>
+            			
+      <li id="committeesMenu"><a href="/Committees">Committees</a>
+        <ul class="subMenu">
+          <li><a href="/Committees">What's a Committee?</a></li>
+          <li><a href="/Committees/Senate">Senate Committees</a></li>
+          <li><a href="/Committees/House">House Committees</a></li>
+          <li><a href="/Committees/Joint">Joint Committees</a></li>
+          <li><a href="/Events/Hearings">Committee Hearings</a></li>
+        </ul>
+      </li>
+            
+      <li id="engageMenu"><a href="/Engage">Educate &amp; Engage</a>
+        <ul class="subMenu">
+          <li><a href="/Engage/TeachersKids">For Teachers &amp; Kids</a></li>
+          <li><a href="/Engage/HowIdeaBecomesLaw">How an Idea Becomes a Law</a></li>
+          <li><a href="/Engage/StateHouseTours">State House Tours</a></li>
+          <li><a href="/Engage/SpecialEvents">Special Events</a></li>
+          <li><a href="/Engage/Directions">State House Directions</a></li>
+          <li><a href="/Engage/ContactUs">Contact Us</a></li>
+        </ul>
+      </li>
+
+      <li id="eventsMenu"><a href="/Events">Events</a>
+        <ul class="subMenu">
+          <li><a href="/Events/SenateSessions">Senate Sessions</a></li>
+          <li><a href="/Events/HouseSessions">House Sessions</a></li>
+          <li><a href="/Events/JointSessions">Joint Sessions</a></li>
+          <li><a href="/Events/Hearings">Committee Hearings</a></li>
+          <li><a href="/Events/SpecialEvents">Special Events</a></li>
+        </ul>
+      </li>
+            
+      <li id="lastMenuItem"><a href="/District">Redistricting</a>
+        <ul class="subMenu">
+          <li><a href="/District/Summary">What is Redistricting?</a></li>
+          <li><a href="/District/Laws">Redistricting Laws</a></li>
+          <li><a href="/District/CourtCases">Court Cases</a></li>
+          <li><a href="/District/ProposedDistrictMaps">New District Maps</a></li>
+          <li><a href="/District/Maps">Old District Maps</a></li>
+          <li><a href="/District/CensusData">US Census Data</a></li>
+          <li><a href="/District/Search">Find a District</a></li>
+          <li><a href="/District/Committee">Committee Members</a></li>
+          <li><a href="/District/Documents">Committee Documents</a></li>
+          <li><a href="/District/Calendar">Redistricting Calendar</a></li>
+          <li><a href="/District/CreateDistricts">Draw Your Own Districts</a></li>
+          <li><a href="/District/Contact">Contact the Committee</a></li>
+        </ul>
+      </li>			
+
+    </ul>         
+  </div><!-- end menuWrapper -->
 </div> <!--end MainNav-->
 
 
 
-    <div id="Breadcrumbs">
-        <span class="siteMapPath"><a href="/" title="Home"><span class="breadcrumbLink">Home</span></a><span class="breadcrumbSeparator"> » </span><a href="/Site/PrivacyPolicy" title="Privacy Policy"><span class="breadcrumbLink">Privacy Policy</span></a></span>
-        
-    </div> <!--end Breadcrumbs (in 15ms)-->
+<div id="Breadcrumbs">
+    
 
-    <!--Start Primary Wrapper-->
+<ol class="siteMapPath">
+
+    <li><a href="/" class="breadcrumbLink">Home</a></li>
+
+
+    <li><a href="/Site/PrivacyPolicy" class="breadcrumbLink">Privacy Policy</a></li>
+
+
+</ol> 
+    
+</div> <!--end Breadcrumbs (in 0ms)-->
+
     <div id="PrimaryWrapper">
         <div class="colmask rightcontent">
             <div class="colright">
                 <div class="col1wrap">
                     <div class="col1">
-                        <!-- Column 1 start -->
-                        
-    	                 <div id="left_column" style="height: 1046px;">
+    	                <div id="left_column" style="height: 1204px;">
     	                    
    
 <div id="leftNav">
 
-    <div class="sectionTitle">
-        <a href="/Search" title="Site">Site</a>
-        
-    </div>
-        
-    <ul>
-    
-        
-        <li>
-            <a href="/Search" title="Search">Search</a>
-        </li>
-        
-        
-        
-        <li>
-            <a href="/Site/Glossary" title="Glossary">Glossary</a>
-        </li>
-        
-        
-        
-        <li>
-            <a href="/Site/SiteMap" title="Site Map">Site Map</a>
-        </li>
-        
-        
-        
-        <li>
-            <a href="/Site/FAQ" title="FAQ">FAQ</a>
-        </li>
-        
-        
-        
-        <li>
-            <a href="/Site/TermsOfUse" title="Terms of Use">Terms of Use</a>
-        </li>
-        
-        
 
-        <li class="selected">
-            <a href="/Site/PrivacyPolicy" title="Privacy Policy">Privacy Policy</a>
-            
-        </li>
+  <div class="sectionTitle">
+  <a href="/Site">Site</a>
+  
+  </div>
         
+  <ul>
+  
+      <li><a href="/Site/WhatsNew">What's New</a></li>
+    
+      <li><a href="/Site/Glossary">Glossary</a></li>
+    
+      <li><a href="/Site/FAQ">FAQ</a></li>
+    
+      <li><a href="/Help">Help</a></li>
+    
+      <li><a href="/Search">Search</a></li>
+    
+      <li><a href="/Site/SiteMap">Site Map</a></li>
+    
+      <li><a href="/Site/TermsOfUse">Terms of Use</a></li>
+    
+      <li class="selected">
+        <a href="/Site/PrivacyPolicy">Privacy Policy</a>
         
-        
-        <li>
-            <a href="/Site/Accessibility" title="Accessibility Statement">Accessibility Statement</a>
-        </li>
-        
-        
-    </ul>
+      </li>        
+    
+      <li><a href="/Site/Accessibility">Accessibility Statement</a></li>
+    
+  </ul>
+
 
 </div> <!--end leftNav-->
 
     
-    	                </div>   
-    	                    
-                </div>
-				        <!-- Column 1 end -->
-                </div>
-                </div>
-                <div class="col2">
-                    <div id="right_column">
-                        <!-- Column 2 start -->
-                        <a id="mainContent" name="mainContent"></a>
-                        
 
-<div class="Columns bg2717" style="padding: 0 0 20px 0">
-    <h3 class="pageTitle">Privacy Policy</h3>
-    <div id="Column1" style="width: 750px; margin: 0 20px 0 20px;">
-        <div class="Widget csblueBright" style="min-height: 400px;">
-            <div class="widgetContent">
-                <div class="ExternalClass68797E84CA2D4B32B345848A46F1482D">Your privacy is one of our top priorities. This policy informs you of the information that we collect from you at this site, what we do with it, to whom it may be disseminated, and how you can access it. Based on this information, you can make an informed decision about your use of this site. <br>&nbsp;<br>Limited Scope of this Policy<br>The privacy policy which follows applies only to the use of this website. As you navigate this website, you will see links that, when clicked, will take you to other websites operated by other state agencies. These websites have individual privacy policies tailored to the interactions available through that site. You may also see links that will take you to websites external to Massachusetts state government. We strongly suggest that you read the privacy policies for each Commonwealth website that you visit and any external site that you visit through any link appearing at this site.<br>&nbsp;<br>Personally Identifiable Information<br>We use the term "personally identifiable information" to mean any information that could reasonably be used to identify you, including your name, address, telephone number, email address, Social Security number, birth date, bank account information, credit card information, or any combination of information that could be used to identify you.<br>&nbsp;<br>Information Voluntarily Provided by You<br>This site may collect voluntary information from you through email messages you choose to send to the General Court.<br>&nbsp;Any email messages sent by you to this site will contain personally identifiable information such as your email address and any other information you choose to give us to help us answer your inquiry.<br>&nbsp; <br>Information Automatically Collected and Stored by this Site<br>This website does not use permanent "cookies."&nbsp; However, the site uses temporary "session cookies" to allow visitors to interact with the site and to use online applications. "Session cookies" do not allow us to personally identify a visitor. These cookies are stored only in memory and are deleted when the user's browser is shut down.<br>This site does collect and store your "Internet Protocol (IP) address" (which does not identify you as an individual) indefinitely, as well as information about the date and time of your visit, whether a file you have requested exists, and how many "bytes" of information were transmitted to you over the Web from this site. We use your IP address to assess the frequency of visits to this site and the popularity of its various pages and functions. We will not attempt to match any personally identifiable information that you provide to us with your IP address.<br>&nbsp;<br>Dissemination of Your Personally Identifiable Information<br>We do not sell any personally identifiable information collected through this website. <br>We will collect and aggregate the information you provide through email messages for the purposes of ensuring that this website is as accurate and helpful as possible.&nbsp; Where appropriate, we may provide the information submitted by you through an email to the person or office responsible for the matters referred to in your communication.<br>&nbsp;<br>Security<br>Because email sent to the General Court is not encrypted, you should not send messages containing information that you consider highly sensitive to this website. We use standard security measures to ensure that information provided by you, including your personally identifiable information, is not lost, misused, altered, or unintentionally destroyed. We also use software to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Except for authorized law enforcement investigations, no attempts are made to identify individual users or their usage habits.<br>&nbsp;<br>Policy Changes<br>This policy reflects the General Court’s current practices, but is subject to change without notice. <br>&nbsp;<br>Contact Information<br>For questions about your privacy while using the website of the General Court, please contact <a href="mailto:webmaster@MaLegislature.gov">webmaster@MaLegislature.gov</a>.<br>&nbsp;<br>Definitions<br>Cookies are files that a website can place on your computer. A cookie file contains unique information that a website can use to track such things as your password, lists of Web pages you have visited, and the date when you last looked at a specific Web page, or to identify your session at a particular website. A cookie file allows the website to recognize you as you click through pages on the site and when you later revisit the site. A website can use cookies to "remember" your preferences, and to record your browsing behavior on the Web. Although you can prevent websites from placing cookies on your computer by using your browser's preference menu, disabling cookies may affect your ability to view or interact with some websites.<br>An "Internet Protocol Address" or "IP Address" is a series of numbers that identifies each computer and machine connected to the Internet. An IP address enables a server on a computer network to send you the file that you have requested on the Internet. The IP address disclosed to us may identify the computer from which you are accessing the Internet, or a server owned by your Internet Service Provider. Because it is machine-specific, rather than person-specific, an IP address is not, in and of itself, personally identifiable information<br> <div></div></div>
+    	                </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col2">
+                <div id="right_column">
+                    <a id="mainContent" name="mainContent"></a>
+                    
+
+<div class="Columns contentPage">
+    <h1 class="pageTitle">Privacy Policy</h1>
+    <div class="Widget">
+                <div class="ExternalClass68797E84CA2D4B32B345848A46F1482D">Your privacy is one of our top priorities. This policy informs you of the information that we collect from you at this site, what we do with it, to whom it may be disseminated, and how you can access it. Based on this information, you can make an informed decision about your use of this site. <br>&nbsp;<br>Limited Scope of this Policy<br>The privacy policy which follows applies only to the use of this website. As you navigate this website, you will see links that, when clicked, will take you to other websites operated by other state agencies. These websites have individual privacy policies tailored to the interactions available through that site. You may also see links that will take you to websites external to Massachusetts state government. We strongly suggest that you read the privacy policies for each Commonwealth website that you visit and any external site that you visit through any link appearing at this site.<br>&nbsp;<br>Personally Identifiable Information<br>We use the term "personally identifiable information" to mean any information that could reasonably be used to identify you, including your name, address, telephone number, email address, Social Security number, birth date, bank account information, credit card information, or any combination of information that could be used to identify you.<br>&nbsp;<br>Information Voluntarily Provided by You<br>This site may collect voluntary information from you through email messages you choose to send to the General Court.<br>&nbsp;Any email messages sent by you to this site will contain personally identifiable information such as your email address and any other information you choose to give us to help us answer your inquiry.<br>&nbsp; <br>Information Automatically Collected and Stored by this Site<br>This website does not use permanent "cookies."&nbsp; However, the site uses temporary "session cookies" to allow visitors to interact with the site and to use online applications. "Session cookies" do not allow us to personally identify a visitor. These cookies are stored only in memory and are deleted when the user's browser is shut down.<br>This site does collect and store your "Internet Protocol (IP) address" (which does not identify you as an individual) indefinitely, as well as information about the date and time of your visit, whether a file you have requested exists, and how many "bytes" of information were transmitted to you over the Web from this site. We use your IP address to assess the frequency of visits to this site and the popularity of its various pages and functions. We will not attempt to match any personally identifiable information that you provide to us with your IP address.<br>&nbsp;<br>Dissemination of Your Personally Identifiable Information<br>We do not sell any personally identifiable information collected through this website. <br>We will collect and aggregate the information you provide through email messages for the purposes of ensuring that this website is as accurate and helpful as possible.&nbsp; Where appropriate, we may provide the information submitted by you through an email to the person or office responsible for the matters referred to in your communication.<br>&nbsp;<br>Security<br>Because email sent to the General Court is not encrypted, you should not send messages containing information that you consider highly sensitive to this website. We use standard security measures to ensure that information provided by you, including your personally identifiable information, is not lost, misused, altered, or unintentionally destroyed. We also use software to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Except for authorized law enforcement investigations, no attempts are made to identify individual users or their usage habits.<br>&nbsp;<br>Policy Changes<br>This policy reflects the General Court’s current practices, but is subject to change without notice. <br>&nbsp;<br>Contact Information<br>For questions about your privacy while using the website of the General Court, please contact <a href="mailto:webmaster@MaLegislature.gov">webmaster@MaLegislature.gov</a>.<br>&nbsp;<br>Definitions<br>Cookies are files that a website can place on your computer. A cookie file contains unique information that a website can use to track such things as your password, lists of Web pages you have visited, and the date when you last looked at a specific Web page, or to identify your session at a particular website. A cookie file allows the website to recognize you as you click through pages on the site and when you later revisit the site. A website can use cookies to "remember" your preferences, and to record your browsing behavior on the Web. Although you can prevent websites from placing cookies on your computer by using your browser's preference menu, disabling cookies may affect your ability to view or interact with some websites.<br>An "Internet Protocol Address" or "IP Address" is a series of numbers that identifies each computer and machine connected to the Internet. An IP address enables a server on a computer network to send you the file that you have requested on the Internet. The IP address disclosed to us may identify the computer from which you are accessing the Internet, or a server owned by your Internet Service Provider. Because it is machine-specific, rather than person-specific, an IP address is not, in and of itself, personally identifiable information<br>
+<div></div></div>
+
+    </div>
+</div>
+
+
+
+			    </div>
             </div>
         </div>    
-    </div>
-</div>
-
-
-
-                    
-			            <!-- Column 2 end -->
-			        </div>
-                </div>
-        </div>    
-    </div> 
+    </div> <!--end PrimaryWrapper-->
     <div class="clear"></div>
-        <!--end PrimaryWrapper-->
-</div>
-<!--end Wrapper-->
-<!--Start Footer--> 
-    
+</div> <!--end Wrapper-->
+
+
 
 <div id="Footer">
-    <div id="footerNav">
-        <ul>
-              <li><a href="http://www.mass.gov" title="Mass Gov">Mass.gov</a></li>
-              <li>|</li>
-              <li><a href="/Site/SiteMap" title="Site Map">Site Map</a></li>
-              <li>|</li>
-              <li><a href="/Site/TermsOfUse" title="Terms of Use">Terms of Use</a></li>
-              <li>|</li>
-              <li><a href="/Site/PrivacyPolicy" title="Privacy Policy">Privacy Policy</a></li>
-              <li>|</li>
-              <li><a href="/Site/Accessibility" title="Accessibility Statement">Accessibility Statement</a></li>
+  <div>
+    
+
+<div id="megaFooterWrapper">
+  <div id="megaFooterToggle"><h2 style="position:absolute; font-size:0px;">Site Map</h2><a href="/Site/SiteMap" class="toggleSlideSource">Show / Hide Site Map</a></div>
+    <div class="toggleSlideTarget clearfix" id="megaFooterTableWrapper">
+      <div id="megaFooterTable" cellpadding="0" cellspacing="0" border="0" width="974">
+          
+          <div class="megaFooterColumn">
+            <h3 class="megaFooterColumnHead"><a href="/Laws">Massachusetts Laws</a></h3>
+            <ul>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Laws/Constitution">Massachusetts Constitution</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Laws/GeneralLaws/Search">General Laws</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Laws/SessionLaws/Search">Session Laws</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Legislation/Rules">Rules</a>
+                
+              </li>
+              
             </ul>
+          </div>               
+          
+          <div class="megaFooterColumn">
+            <h3 class="megaFooterColumnHead"><a href="/Bills">Bills</a></h3>
+            <ul>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Bills/Search">Bills Search</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Legislation/DraftingManual">Drafting Manual</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Legislation/Calendars">Calendars</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Legislation/Journals">Journals</a>
+                
+              </li>
+              
+            </ul>
+          </div>               
+          
+          <div class="megaFooterColumn">
+            <h3 class="megaFooterColumnHead"><a href="/Budget">State Budget</a></h3>
+            <ul>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Budget/Process">Budget Process</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Budget/BudgetBreakdown">Budget Breakdown</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Budget/SenateBudget">Senate Budget</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Budget/FY2012/House">House Budget</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Budget/CurrentBudget">Current / Prior Budgets</a>
+                
+              </li>
+              
+            </ul>
+          </div>               
+          
+          <div class="megaFooterColumn">
+            <h3 class="megaFooterColumnHead"><a href="/People">People</a></h3>
+            <ul>
+              
+              <li class="sectionHeaderLink">
+                <a href="/People/Search">Find a Legislator</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/People/Leadership">Leadership</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/People/Senate">Senate</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/People/House">House</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/People/ClerksOffice">Clerks</a>
+                
+              </li>
+              
+            </ul>
+          </div>               
+          
+          <div class="megaFooterColumn">
+            <h3 class="megaFooterColumnHead"><a href="/Committees">Committees</a></h3>
+            <ul>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Committees">What’s a Committee?</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Committees/Senate">Senate Committees</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Committees/House">House Committees</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Committees/Joint">Joint Committees</a>
+                
+              </li>
+              
+            </ul>
+          </div>               
+          
+          <div class="megaFooterColumn">
+            <h3 class="megaFooterColumnHead"><a href="/Engage">Educate &amp; Engage</a></h3>
+            <ul>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Engage/TeachersKids">For Teachers &amp; Kids</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Engage/HowIdeaBecomesLaw">How an Idea Becomes a Law</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Engage/StateHouseTours">State House Tours</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Engage/SpecialEvents">Special Events</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Engage/ContactUs">Contact Us</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Engage/Directions">State House Directions</a>
+                
+              </li>
+              
+            </ul>
+          </div>               
+          
+          <div class="megaFooterColumn">
+            <h3 class="megaFooterColumnHead"><a href="/Events">Events</a></h3>
+            <ul>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Events/SenateSessions">Senate Sessions</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Events/HouseSessions">House Sessions</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Events/JointSessions">Joint Sessions</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Events/Hearings">Committee Hearings</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/Events/SpecialEvents">Special Events</a>
+                
+              </li>
+              
+            </ul>
+          </div>               
+          
+          <div class="megaFooterColumn">
+            <h3 class="megaFooterColumnHead"><a href="/District">Redistricting</a></h3>
+            <ul>
+              
+              <li class="sectionHeaderLink">
+                <a href="/District/Summary">What is Redistricting?</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/District/Laws">Redistricting Laws</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/District/CourtCases">Court Cases</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/District/ProposedDistrictMaps">New District Maps</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/District/Maps">Old District Maps</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/District/CensusData">US Census Data</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/District/Search">Find a District</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/District/Committee">Committee Members</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/District/Documents">Committee Documents</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/District/Calendar">Redistricting Calendar</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/District/CreateDistricts">Draw Your Own Districts</a>
+                
+              </li>
+              
+              <li class="sectionHeaderLink">
+                <a href="/District/Contact">Contact the Committee</a>
+                
+              </li>
+              
+            </ul>
+          </div>               
+          
+      </div>
     </div>
-    <div id="footerCopy">
-        Copyright © 2010 The General Court, All Rights Reserved
-    </div>
+</div>
+ 
+  </div> 
+  <div id="footerNav">
+    <ul>
+      <li><a href="http://www.mass.gov">Mass.gov</a></li>
+      <li><a href="/Site/SiteMap">Site Map</a></li>
+      <li><a href="/Site/TermsOfUse">Terms of Use</a></li>
+      <li><a href="/Site/PrivacyPolicy">Privacy Policy</a></li>
+      <li><a href="/Site/Accessibility">Accessibility Statement</a></li>
+    </ul>
+  </div>
+  <div id="footerCopy">Copyright © 2011 The General Court, All Rights Reserved</div>
 </div>
 
 
-
-<!--End Footer-->
 
 
 
