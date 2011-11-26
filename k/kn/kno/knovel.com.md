@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knovel.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622225316id_/http%3A//why.knovel.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knovel.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126052435id_/http%3A//why.knovel.com/privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
