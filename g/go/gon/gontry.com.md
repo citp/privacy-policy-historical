@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gontry.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625200608id_/http%3A//www.gontry.com/General/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gontry.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126124846id_/http%3A//www.gontry.com/General/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Gontry - Privacy Policies
 
