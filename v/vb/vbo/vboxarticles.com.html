@@ -1,0 +1,710 @@
+<!--The following is the downloaded HTML source of the vboxarticles.com privacy policy that was archived on 2011-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111126152908id_/http%3A//vboxarticles.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+<meta http-equiv="Content-Type" content="text/html; utf-8"><link href="http://vboxarticles.com/wp-content/themes/atheme/favicon.ico" rel="shortcut icon"><meta name="keywords" content="articles directory, free articles, submit articles, directory, articles, your articles directory"><meta name="description" content="Submit your articles free of charge to our Articles Directory website.">
+<title>Privacy Policy | vBox Articles Directory</title>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	var template_url = 'http://vboxarticles.com/wp-content/themes/atheme'; 
+</script>
+<link href="http://vboxarticles.com/wp-content/themes/atheme/style.css" type="text/css" rel="stylesheet"><link href="http://vboxarticles.com/wp-content/themes/atheme/css/custom.css" type="text/css" rel="stylesheet"><script src="http://vboxarticles.com/wp-content/themes/atheme/js/jquery.js" type="text/javascript"></script><script src="http://vboxarticles.com/wp-content/themes/atheme/js/validations.js" type="text/javascript"></script><script src="http://vboxarticles.com/wp-content/themes/atheme/js/init.js" type="text/javascript"></script>
+<!--[if !IE]><!-->
+<link href="http://vboxarticles.com/wp-content/themes/atheme/css/corner.css" type="text/css" rel="stylesheet"><!--<![endif]-->
+
+<!--[if IE 9]>
+<link href="http://vboxarticles.com/wp-content/themes/atheme/css/corner.css" type="text/css" rel="stylesheet"/><![endif]-->
+
+<!-- include fix corner border for ie -->
+<!--[if lt ie 9]>
+<script src="http://vboxarticles.com/wp-content/themes/atheme/js/jquery.curvycorners.js" type="text/javascript"></script><script src="http://vboxarticles.com/wp-content/themes/atheme/js/curvycorners.js" type="text/javascript"></script><script src="http://vboxarticles.com/wp-content/themes/atheme/js/ie.js" type="text/javascript"></script><link href="http://vboxarticles.com/wp-content/themes/atheme/css/ie.css" type="text/css" rel="stylesheet"/><![endif]-->
+<!--[if ie 7]>
+<script type="text/javascript">
+// <![CDATA[
+jQuery(document).ready(function(){
+    jQuery('#top-search-butt').width(jQuery('#search-button').width() + 25);
+    jQuery('#bottom-search-butt').width(jQuery('#bottom-search-button').width() + 50);
+});
+    
+// ]]>
+</script>
+<![endif]-->
+<script type="text/javascript">
+//<![CDATA[
+var BrowserDetect = {
+init: function () {
+this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
+this.version = this.searchVersion(navigator.userAgent)|| this.searchVersion(navigator.appVersion)|| "an unknown version";
+this.OS = this.searchString(this.dataOS) || "an unknown OS";
+},
+searchString: function (data) {
+for (var i=0;i<data.length;i++)	{
+        var dataString = data[i].string;
+        var dataProp = data[i].prop;
+        this.versionSearchString = data[i].versionSearch || data[i].identity;
+        if (dataString) {if (dataString.indexOf(data[i].subString) != -1)
+                return data[i].identity;}
+        else if (dataProp){return data[i].identity;}
+}
+},
+searchVersion: function (dataString) {
+var index = dataString.indexOf(this.versionSearchString);
+if (index == -1) return;
+return parseFloat(dataString.substring(index+this.versionSearchString.length+1));
+},
+dataBrowser: [
+        {string: navigator.userAgent,subString: "Chrome",identity: "Chrome"},
+        {string: navigator.userAgent,subString: "OmniWeb",versionSearch: "OmniWeb/",identity: "OmniWeb"},
+        {string: navigator.vendor,subString: "Apple",identity: "Safari",versionSearch: "Version"},
+        {prop: window.opera,identity: "Opera"},
+        {string: navigator.vendor,subString: "iCab",identity: "iCab"},
+        {string: navigator.vendor,subString: "KDE",identity: "Konqueror"},
+        {string: navigator.userAgent,subString: "Firefox",identity: "Firefox"},
+        {string: navigator.vendor,subString: "Camino",identity: "Camino"},
+        {string: navigator.userAgent,subString: "Netscape",identity: "Netscape"},
+        {string: navigator.userAgent,subString: "MSIE",identity: "Explorer",versionSearch: "MSIE"},
+        {string: navigator.userAgent,subString: "Gecko",identity: "Mozilla",versionSearch: "rv"},
+        {string: navigator.userAgent,subString: "Mozilla",identity: "Netscape",versionSearch: "Mozilla"}],
+dataOS:[{string: navigator.platform,subString: "Win",identity: "Windows"},
+        {string: navigator.platform,subString: "Mac",identity: "Mac"},
+        {string: navigator.userAgent,subString: "iPhone",identity: "iPhone/iPod"},
+        {string: navigator.platform,subString: "Linux",identity: "Linux"}]
+};
+BrowserDetect.init();
+
+function bookMark(theurl, thetitle, browser){
+    switch(browser){
+        case "Firefox":
+            window.sidebar.addPanel(thetitle, theurl,"");
+            break;
+        case "Explorer":
+            window.external.AddFavorite( theurl, thetitle);
+            break;
+        case "Chrome":
+        case "Safari":
+        case "Opera":
+        case "Netscape":
+            switch(BrowserDetect.OS){
+            case "Windows":
+            case "Linux":
+            alert('press ctrl+D to bookmark this page');
+            break;
+            case "Mac":
+                alert('press cmd+D to bookmark this page');
+            break;
+            }
+            break;
+    }
+}
+//]]>
+</script>
+                        <style type="text/css" media="screen">
+                                .socialwrap li.icon_text a img, .socialwrap li.iconOnly a img, .followwrap li.icon_text a img, .followwrap li.iconOnly a img{border-width:0 !important;background-color:none;}#follow.right {width:32px;position:fixed; right:0; top:100px;background-color:#b1d6f5;padding:10px 0;font-family:impact,charcoal,arial, helvetica,sans-serif;-moz-border-radius-topleft: 5px;-webkit-border-top-left-radius:5px;-moz-border-radius-bottomleft:5px;-webkit-border-bottom-left-radius:5px;border:2px solid #5eb0cc;border-right-width:0}#follow.right ul {padding:0; margin:0; list-style-type:none !important;font-size:24px;color:black;}
+#follow.right ul li {padding-bottom:5px;list-style-type:none !important;padding-left:4px;padding-right:4px}
+#follow img{border:none;}#follow.right ul li.follow {margin:0 4px;}
+#follow.right ul li.follow img {border-width:0;display:block;overflow:hidden; background:transparent url(http://vboxarticles.com/wp-content/plugins/share-and-follow/images/impact/follow-right.png) no-repeat -0px 0px;height:79px;width:20px;}
+#follow.right ul li a {display:block;}
+#follow.right ul li.follow span, #follow ul li a span {display:none}.share {margin:0 3px 3px 0;}
+.phat span {display:inline;}
+ul.row li {float:left;list-style-type:none;}
+li.iconOnly a span.head {display:none}
+#follow.left ul.size16 li.follow{margin:0px auto !important}
+li.icon_text a {padding-left:0;margin-right:3px}
+li.text_only a {background-image:none !important;padding-left:0;}
+li.text_only a img {display:none;}
+li.icon_text a span{background-image:none !important;padding-left:0 !important; }
+li.iconOnly a span.head {display:none}
+ul.socialwrap li {margin:0 3px 3px 0 !important;}
+ul.socialwrap li a {text-decoration:none;}ul.row li {float:left;line-height:auto !important;}
+ul.row li a img {padding:0}.size16 li a,.size24 li a,.size32 li a, .size48 li a, .size60 li a {display:block}ul.socialwrap {list-style-type:none !important;margin:0; padding:0;text-indent:0 !important;}
+ul.socialwrap li {list-style-type:none !important;background-image:none;padding:0;list-style-image:none !important;}
+ul.followwrap {list-style-type:none !important;margin:0; padding:0}
+ul.followwrap li {margin-right:3px;margin-bottom:3px;list-style-type:none !important;}
+#follow.right ul.followwrap li, #follow.left ul.followwrap li {margin-right:0px;margin-bottom:0px;}
+.shareinpost {clear:both;padding-top:0px}.shareinpost ul.socialwrap {list-style-type:none !important;margin:0 !important; padding:0 !important}
+.shareinpost ul.socialwrap li {padding-left:0 !important;background-image:none !important;margin-left:0 !important;list-style-type:none !important;text-indent:0 !important}
+.socialwrap li.icon_text a img, .socialwrap li.iconOnly a img{border-width:0}ul.followrap li {list-style-type:none;list-style-image:none !important;}
+div.clean {clear:left;}
+div.display_none {display:none;}
+                        </style>
+                                                <style type="text/css" media="print">
+                                body {background: white;font-size: 12pt;color:black;}
+ * {background-image:none;}
+ #wrapper, #content {width: auto;margin: 0 5%;padding: 0;border: 0;float: none !important;color: black;background: transparent none;}
+ a { text-decoration : underline; color : #0000ff; }
+#menu, #navigation, #navi, .menu {display:none}
+                        </style>
+                        <link rel="image_src" href=""> 
+<link rel="alternate" type="application/rss+xml" title="vBox Articles Directory » Privacy Policy Comments Feed" href="http://vboxarticles.com/privacy-policy/feed">
+<link rel="stylesheet" id="gdsr_style_main-css" href="http://vboxarticles.com/wp-content/plugins/gd-star-rating/css/gdsr.css.php?t=1318273243&amp;s=a10i10m20k20c05r05%23121620243046%23121620243240%23s1pchristmas%23s1pcrystal%23s1pdarkness%23s1poxygen%23s1goxygen_gif%23s1pplain%23s1ppumpkin%23s1psoft%23s1pstarrating%23s1pstarscape%23t1pclassical%23t1pstarrating%23t1gstarrating_gif%23lsgflower&amp;o=off&amp;ver=1.9.11" type="text/css" media="all">
+<link rel="stylesheet" id="gdsr_style_xtra-css" href="http://vboxarticles.com/wp-content/gd-star-rating/css/rating.css?ver=1.9.11" type="text/css" media="all">
+<link rel="stylesheet" id="nrelate-style-common-0-03-0-css" href="http://static.nrelate.com/common_wp/0.03.0/nrelate-panels-common.min.css" type="text/css" media="all">
+<script type="text/javascript" src="http://vboxarticles.com/wp-includes/js/l10n.js?ver=20101110"></script>
+<script type="text/javascript" src="http://vboxarticles.com/wp-includes/js/jquery/jquery.js?ver=1.6.1"></script>
+<script type="text/javascript" src="http://vboxarticles.com/wp-content/plugins/gd-star-rating/js/gdsr.js?ver=1.9.11"></script>
+<script type="text/javascript" src="http://vboxarticles.com/wp-content/plugins/wp-plus-one/wp-plus-one.js?ver=3.2.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://vboxarticles.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://vboxarticles.com/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="vBox Articles Directory" href="http://vboxarticles.com">
+<link rel="prev" title="SiteMap" href="http://vboxarticles.com/sitemap">
+<link rel="next" title="Contact Us" href="http://vboxarticles.com/contact-us">
+<meta name="generator" content="WordPress 3.2.1">
+
+<!-- All in One SEO Pack 1.6.13.4 by Michael Torbert of Semper Fi Web Design[575,623] -->
+<meta name="description" content="VboxArticles.com - Website Privacy Policy Last Revised: February 16, 2011 Vboxarticles.com and its affiliates (collectively, “Company” or “we”)">
+<link rel="canonical" href="http://vboxarticles.com/privacy-policy">
+<!-- /all in one seo pack -->
+<script type="text/javascript">
+//<![CDATA[
+var gdsr_cnst_nonce = "5eced64411";
+var gdsr_cnst_ajax = "http://vboxarticles.com/wp-content/plugins/gd-star-rating/ajax.php";
+var gdsr_cnst_button = 1;
+var gdsr_cnst_cache = 0;
+// ]]>
+</script>
+<!--[if IE]><style type="text/css">.ratemulti .starsbar .gdcurrent { -ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; filter: alpha(opacity=70); }</style><![endif]-->
+<!-- HeadSpace SEO 3.6.37 by John Godley - urbangiraffe.com -->
+		
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-27262938-1']);
+  _gaq.push(['_trackPageview']);
+
+
+
+
+  (function() {
+    var ga = document.createElement('script' ); ga.type = 'text/javascript'; ga.async = true;
+    ga.src =( 'https:' == document.location.protocol ? 'https://ssl' : 'http://www' ) + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script' )[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>	
+<!-- HeadSpace -->
+
+</head>
+
+
+<body>
+	<div id="header">
+    	<div class="header_res">
+        	<div class="header_main">
+            	<div class="top">
+                	<div class="logo">
+                    	<a href="http://vboxarticles.com">
+                        <img src="http://vboxarticles.com/wp-content/themes/atheme/images/new_logo/logo.png" alt="logo">                     </a>
+                    </div>
+                    
+                    <div class="main_menu">
+                    	<div class="navi_list" id="navi_list">
+                        	<ul>
+                                <li><a href="http://vboxarticles.com/wp-login.php?action=register">Register</a>&nbsp; | &nbsp;&nbsp;</li><li><a href="http://vboxarticles.com/?action=login">Login</a>&nbsp; | &nbsp;&nbsp;</li><li><a href="http://vboxarticles.com/vBox Articles Directory">Rss</a></li>                            </ul>
+                        </div>                        
+                        <div class="menu"><ul id="menu-header_menu" class="menu"><li id="menu-item-124274" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-124274"><a href="http://vboxarticles.com">Home</a></li>
+<li id="menu-item-124277" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-124277"><a href="http://vboxarticles.com/about-us">About Us</a></li>
+<li id="menu-item-124280" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-124280"><a href="http://vboxarticles.com/termconditions">Term&amp;Conditions</a></li>
+<li id="menu-item-124283" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-124283"><a href="http://vboxarticles.com/privacy-policy">Privacy Policy</a></li>
+<li id="menu-item-124305" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-124305"><a href="http://vboxarticles.com/sitemap">Sitemap</a></li>
+<li id="menu-item-124285" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-124285"><a href="http://vboxarticles.com/contact-us">Contact Us</a></li>
+</ul></div>                    </div>
+                </div>
+                
+                <div class="search" id="search_panel" style="height:73px">
+                	<div class="search_text">
+                    	<p>Welcome to<span> Article Directory</span></p>
+                    </div>
+                    
+                    <div class="search_box">
+                    
+                    <!-- Google Search -->
+                                        <form action="http://vboxarticles.com/?action=g_search_result" id="cse-search-box">
+                    <div id="advance_search">
+                        <a href="http://vboxarticles.com/?action=advanced_search">Advance Search?</a>                    </div>
+                    <!--  -->
+                    	<div class="box_input1"></div>
+                    	<div class="box_input">
+                        	<img src="http://vboxarticles.com/wp-content/themes/atheme/images/icon_google.gif" alt="google_search">                        	<input type="hidden" name="action" value="g_search_result">
+                        	
+                        	<input type="hidden" name="cx" value="015168798550251804301:gt62vgqnflc">
+                        <!--  <input type="hidden" name="cx" value="000883175454700452352:v9awvyefv-m" />-->
+                        <input type="hidden" name="cof" value="FORID:10">
+                        <input type="hidden" name="ie" value="UTF-8">
+                        	<input id="search-content" type="text" name="q" size="40px">
+                        </div>
+                        
+                        <div class="box_input2"></div>
+                        
+                        <div id="top-search-butt" class="butt">
+                        	<input id="search-button" type="submit" value="Search" class="button" name="sa">
+                        </div>  
+                        <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>                      
+                        
+                    </form>
+                                        </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+    <!-- HEADER -->
+<script type="text/javascript">	
+	jQuery('.menu ul li:last').removeClass('menu-item').addClass("last_item");
+</script>
+<!-- <div align="center"><a href = "http://androidpolis.com" target="_blank"><img src="http://vboxarticles.com/wp-content/uploads/ban_728_1.gif" alt="AndroidPolis.com - Your online shop with free and paid applications and games, video reviews and phones to sell and buy."></a></div> -->
+    <!-- BODY -->
+    
+    <div id="container">
+    	<div class="container_res">
+        	<div class="container_main">
+            	<p><a href="http://vboxarticles.com">Home </a>» Privacy Policy</p>
+            	</div>
+          	 <div class="container_main">
+            	<div class="col_left">
+                	<div class="col_boxgrey4" style="border:1px #d0dbe4 solid;">
+						  <div class="title" style="width:690px; height:34px; border-left:none; border-right:none; border-top:none;">
+                        	<h2 style="margin-top:8px;"> Privacy Policy</h2>
+                        </div>
+                  
+                    <div class="box article-content">
+                    
+                    <h2><strong><span style="text-decoration: underline;"><br>
+VboxArticles.com – Website Privacy Policy</span></strong></h2>
+<p>Last Revised: February 16, 2011</p>
+<p>Vboxarticles.com and its affiliates (collectively, “<strong>Company</strong>” or “<strong>we”</strong>) respect the privacy of the users of this Site (<strong>“User</strong>” or&nbsp;<strong>“you</strong>”) and are committed to protect the information of its Users. We believe that you have a right to know our practices regarding the information we may collect, use and disclose when you visit our website at the address [http://www.vboxarticles.com] (the&nbsp;<strong>“Site</strong>”). The guidelines contained herein apply to your visit or use of the Site.</p>
+<h2><strong>1.&nbsp;</strong><strong><span style="text-decoration: underline;">Acceptance of the Policy</span></strong></h2>
+<p><strong><span style="text-decoration: underline;">PLEASE READ CAREFULLY</span></strong>: BY ACCESSING AND/OR USING THE SITE, YOU AGREE TO THE TERMS AND CONDITIONS SET FORTH IN THIS PRIVACY POLICY, INCLUDING TO THE COLLECTION AND PROCESSING OF YOUR PERSONAL INFORMATION (AS DEFINED BELOW). IF YOU DISAGREE TO ANY TERM PROVIDED HEREIN, YOU MAY NOT USE THE SITE.</p>
+<h2><strong>2.&nbsp;</strong><strong><span style="text-decoration: underline;">Which information we may collect on our Users?</span></strong></h2>
+<p><span style="text-decoration: underline;">We collect two types of data and information:</span></p>
+<p>a. The first type of information is collected regardless of whether the User has registered the Site or is visiting the Site anonymously, and consists of non-identifiable and anonymous information (“<strong>Non-personal Information</strong>”).<br>
+To put it simply, we have no idea what is the identity of the User from which we have collected the Non-personal Information. Non-personal Information which is being gathered consists of technical information and behavioral information, as detailed below:</p>
+<p><strong>Technical information:</strong><em></em></p>
+<ul>
+<li>Type of operation system&nbsp;<em>(e.g. Windows, Linux, etc.)</em></li>
+<li>Type of Browser&nbsp;<em>(e.g. Explorer, Firefox, Chrome, Safari, etc.)</em></li>
+<li>Screen resolution<em>&nbsp;(e.g. 800×600, 1024×768, etc.)</em></li>
+<li>Browser and keyboard language (<em>e.g. English</em>)</li>
+<li>IP Address.</li>
+<li>The domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to the Site.</li>
+<li>The date and time you access the Site and pages you visit.</li>
+<li>Any Similar technical information.</li>
+</ul>
+<p><strong>Behavioral information:</strong></p>
+<ul>
+<li>The clicks, mouse movements and similar information with regard to the User’s session&nbsp;<em>(e.g. the fact that User has chosen to click on a certain link or access a certain webpage)</em>. Please be advised that such information shall be deleted within approximately thirty (30) days after your visit to the Site.</li>
+<li>We use a third-party web analytics service to gather and monitor behavioral information. You must read and agree to the Privacy Policy of the provider of the web analytics service we use on the Site, at the address [http://google.com/analytics].</li>
+</ul>
+<p>b. The other type of information is individually identifiable information (“<strong>Personal Information</strong>“). To put it simply, this information may identify an individual or is of a private and/or sensitive nature. Personal Information which is being gathered consists of any personal details provided&nbsp;<span style="text-decoration: underline;">voluntarily</span>&nbsp;by the User (e.g. User’s name, email address, author bio etc.) mainly by registration to the Site. We also treat any email you may send to us as Personal Information.</p>
+<p>For the sake of clarification, any Non-personal Information combined with Personal Information shall be regarded as Personal information.</p>
+<p><strong>We will not collect any Personal Information from you without your approval.</strong>&nbsp;Among other things, we&nbsp;<span style="text-decoration: underline;">will not</span>collect any chat or other correspondence between a User and any third-party.</p>
+<h2><strong>3.&nbsp;</strong><strong><span style="text-decoration: underline;">How do we collect information on our Users?</span></strong></h2>
+<p><span style="text-decoration: underline;">There are two main methods we use:</span></p>
+<p>a.&nbsp;<strong>We collect information while you access, browse, view or otherwise use the Site</strong>. In other words, when you access the Site we are aware of your usage of the Site, and may gather, collect and record the information relating to such usage. For example, when you connect to the Site, your computer tells us your IP address.</p>
+<p>b.&nbsp;<strong>We collect information</strong><strong>&nbsp;which you provide us voluntarily</strong>. For example, when you wish to register to the Site, we may ask you to provide certain Personal Information which shall be kept on our servers. Each time you will be interested in providing information voluntarily we may ask you to consent to the collection and public display of such information.</p>
+<h2><strong>4.&nbsp;</strong><strong><span style="text-decoration: underline;">What are the purposes of collecting the information?</span></strong></h2>
+<p><span style="text-decoration: underline;">Non-personal Information is collected in order to:</span></p>
+<ul>
+<li>enhance the User’s experience on the Site (e.g. by determining the screen resolutions).</li>
+<li>learn about the preferences of Users and general trends on our Site (e.g. understand which software is more popular than others).</li>
+<li>better understand the priorities and interests of our potential customers and partners in order to better suit their needs and increase the efficiency of our sales and marketing processes.</li>
+<li>administer the Site, help diagnose problems with our server, to gather broad demographic information.</li>
+</ul>
+<p><span style="text-decoration: underline;">Personal Information is collected in order to:</span></p>
+<ul>
+<li>personalize your experience on the Site.</li>
+<li>provide you with certain information and services available only to registered Users.</li>
+<li>allow us to contact you with proposals and tailored information regarding events, offers, etc.</li>
+<li>identify you when conducting customer service operations (such as license purchase and generation, providing product feedback, etc.).</li>
+<li>other User Generated Content, voluntarily supplied by the User for the purpose of public use and display (e.g. public User Bio).</li>
+</ul>
+<h2><strong>5.&nbsp;</strong><strong><span style="text-decoration: underline;">Sharing Personal Information with third parties</span></strong></h2>
+<p>We will share Personal Information only in the following cases: (a) to satisfy any applicable law, regulation, legal process, subpoena or governmental request; (b) to enforce these Privacy Policy or the Terms of Use, including investigation of potential violations thereof; (c) to detect, prevent, or otherwise address fraud, security or technical issues; (d) to respond to claims that any content published on the Site violates any right of a third-party; (e) to respond to claims that unauthorized information (e.g. e-mail address, name, etc.) of a third-party has been posted on the Site by us without your consent; (f) to protect the rights, property, or personal safety of the Company, its Users or the general public; (g) when Company is undergoing any change in control, including by means of merger, acquisition or purchase of all or substantially all of the assets of Company; (h) pursuant to your approval, in order to supply certain services you have requested from Company; (i) to let our partners and affiliates serve you with commercials; or (j) with respect to articles, opinions, any other documentation supplied by you for the purpose of public use, in order to provide the services.</p>
+<h2><strong>6.&nbsp;</strong><strong><span style="text-decoration: underline;">Deletion of Personal Information</span></strong><span class="Apple-style-span" style="font-size: 13px; font-weight: normal;">&nbsp;</span></h2>
+<p>If for any reason you wish to delete your Personal Information, you should send an email via our&nbsp;<a href="/contact-us">Contact Us</a>&nbsp;page, and we will make reasonable efforts to delete any such information pursuant to any applicable privacy laws.</p>
+<h2><strong>7.&nbsp;</strong><strong><span style="text-decoration: underline;">Cookies &amp; Local Storage</span></strong></h2>
+<p>When you visit the Site, Company may use industry-wide technologies such as “Cookies” (or similar technologies), which stores certain information on your computer (“<strong>Local Storage</strong>“) and which will allow us to enable automatic sign-in to the Site, and make your browsing much more convenient and effortless. For example, and for your convenience, a Cookie can “autofill” information on forms on the Site, precluding the need for you to fill out the same information on our registration forms each time you want to access information that requires registration. However, cookies by themselves cannot be used to discover the identity of the user; It is easy to prohibit the Local Storage. Most browsers will allow you to erase cookies from your computer’s hard drive, block acceptance of cookies, or receive a warning before a Cookie is stored.</p>
+<p>We also use certain third-party cookies. These are a different kind of cookies, which are stored on your computer by a third party site, rather than by the Company. This kind of cookie is updated each time you visit our Site, and also when you visit other website that uses similar cookies. Third-party cookies usually store only a Non-personal Information, such as the web pages you have visited, the duration of your browsing, etc.</p>
+<p>Specifically, Google, as a third party vendor, uses cookies to serve ads on the Site. Google’s use of the DART cookie enables it to serve ads to users based on their visit to our Site and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the&nbsp;<a href="http://www.google.com/privacy/ads/" target="_blank">Google Ad And Content Network Privacy Policy</a>.</p>
+<h2><strong>8.&nbsp;</strong><strong><span style="text-decoration: underline;">Security</span></strong></h2>
+<p>We take a great care in maintaining the security of the Site and your information and in preventing unauthorized access to it through industry standard technologies and internal procedures. However, we do not guarantee that unauthorized access will never occur.</p>
+<p>Users who have registered to the Site agree to keep their password in strict confidence and not disclose such password to any third party.</p>
+<h2><strong>9.&nbsp;</strong><strong><span style="text-decoration: underline;">Third Party Sites</span></strong></h2>
+<p>While using the Site you may encounter links to third party websites. Please be advised that such third party websites are independent sites, and we assume no responsibility or liability whatsoever with regard to privacy matters or any other legal matter with respect to such sites. We encourage you to carefully read the privacy policies and the terms of use or service of such websites.</p>
+<h2><strong>10.&nbsp;</strong><strong><span style="text-decoration: underline;">Changes to the Privacy Policy</span></strong></h2>
+<p>The terms of this Privacy Policy will govern the use of the Site and any information collected therein. Company reserves the right to change this policy at any time, so please re-visit this page frequently. In case of any material change, we will post a clear notice on the Site.</p>
+<p>Changes to this Privacy Policy are effective as of the stated “<em>Last Update</em>” and your continued use of the Site on or after the Last Update date will constitute acceptance of, and agreement to be bound by, those changes.</p>
+<div style="display: none">VN:F [1.9.11_1134]</div><div class="ratingblock "><div class="ratingheader "></div><div class="ratingstars "><div id="article_rater_124282" class="ratepost gdsr-oxygen gdsr-size-20"><div class="starsbar gdsr-size-20"><div class="gdouter gdheight"><div id="gdr_vote_a124282" style="width: 0px;" class="gdinner gdheight"></div><div id="gdr_stars_a124282" class="gdsr_rating_as"><a id="gdsrX124282X10X0XaXarticle_rater_124282Xarticle_loader_124282X10X20" title="10 / 10" class="s10" rel="nofollow"></a><a id="gdsrX124282X9X0XaXarticle_rater_124282Xarticle_loader_124282X10X20" title="9 / 10" class="s9" rel="nofollow"></a><a id="gdsrX124282X8X0XaXarticle_rater_124282Xarticle_loader_124282X10X20" title="8 / 10" class="s8" rel="nofollow"></a><a id="gdsrX124282X7X0XaXarticle_rater_124282Xarticle_loader_124282X10X20" title="7 / 10" class="s7" rel="nofollow"></a><a id="gdsrX124282X6X0XaXarticle_rater_124282Xarticle_loader_124282X10X20" title="6 / 10" class="s6" rel="nofollow"></a><a id="gdsrX124282X5X0XaXarticle_rater_124282Xarticle_loader_124282X10X20" title="5 / 10" class="s5" rel="nofollow"></a><a id="gdsrX124282X4X0XaXarticle_rater_124282Xarticle_loader_124282X10X20" title="4 / 10" class="s4" rel="nofollow"></a><a id="gdsrX124282X3X0XaXarticle_rater_124282Xarticle_loader_124282X10X20" title="3 / 10" class="s3" rel="nofollow"></a><a id="gdsrX124282X2X0XaXarticle_rater_124282Xarticle_loader_124282X10X20" title="2 / 10" class="s2" rel="nofollow"></a><a id="gdsrX124282X1X0XaXarticle_rater_124282Xarticle_loader_124282X10X20" title="1 / 10" class="s1" rel="nofollow"></a></div></div></div></div><div id="article_loader_124282" style="display: none; width: 200px " class="ratingloaderarticle"><div class="loader flower " style="height: 20px"><div class="loaderinner">please wait...</div></div></div></div><div class="ratingtext "><div id="gdr_text_a124282">Rating: 0.0/<strong>10</strong> (0 votes cast)</div></div></div> 
+                    </div>	
+ 				</div>
+					
+                 </div>
+                   
+                <!-- SIDEBAR -->
+                
+                <div class="col_right">
+										 
+                    <div class="col_boxgrey2"><div class="box2" style="padding-bottom:15px;"><h2>Author Spotlight</h2></div> 
+																		 							
+                        <div class="box2" style="border-bottom:none;">
+                        	<p style="float:none;word-wrap:break-word;"><a href="http://vboxarticles.com/author/mwmkmooeac">mwmkmooeac</a></p>     
+                            <p style="margin-top:10px;word-wrap:break-word;">
+														<img style="float:left; display:inline; margin-right:10px; padding:1px; border:1px #b2b2b2 solid;" src="http://vboxarticles.com/wp-content/themes/atheme/images/pic_small.gif" width="58px" height="58px" alt="">
+														</p>
+
+							<div class="sub_icon2">
+                            	<ul>
+                                	<li><img src="http://vboxarticles.com/wp-content/themes/atheme/images/icon_level.png" alt="">Level: 1</li>
+                                    <li style="margin-right:0;"><img src="http://vboxarticles.com/wp-content/themes/atheme/images/icon_live.png" alt="">0 Articles</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        												 							
+                        <div class="box2" style="border-bottom:none;">
+                        	<p style="float:none;word-wrap:break-word;"><a href="http://vboxarticles.com/author/joncly39">joncly39</a></p>     
+                            <p style="margin-top:10px;word-wrap:break-word;">
+														<img style="float:left; display:inline; margin-right:10px; padding:1px; border:1px #b2b2b2 solid;" src="http://vboxarticles.com/wp-content/themes/atheme/images/pic_small.gif" width="58px" height="58px" alt="">
+														</p>
+
+							<div class="sub_icon2">
+                            	<ul>
+                                	<li><img src="http://vboxarticles.com/wp-content/themes/atheme/images/icon_level.png" alt="">Level: 1</li>
+                                    <li style="margin-right:0;"><img src="http://vboxarticles.com/wp-content/themes/atheme/images/icon_live.png" alt="">0 Articles</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        												 							
+                        <div class="box2" style="border-bottom:none;">
+                        	<p style="float:none;word-wrap:break-word;"><a href="http://vboxarticles.com/author/angelangelan">angelangelan</a></p>     
+                            <p style="margin-top:10px;word-wrap:break-word;">
+														<img style="float:left; display:inline; margin-right:10px; padding:1px; border:1px #b2b2b2 solid;" src="http://vboxarticles.com/wp-content/themes/atheme/images/pic_small.gif" width="58px" height="58px" alt="">
+														</p>
+
+							<div class="sub_icon2">
+                            	<ul>
+                                	<li><img src="http://vboxarticles.com/wp-content/themes/atheme/images/icon_level.png" alt="">Level: 1</li>
+                                    <li style="margin-right:0;"><img src="http://vboxarticles.com/wp-content/themes/atheme/images/icon_live.png" alt="">0 Articles</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        												 							
+                        <div class="box2" style="border-bottom:none;">
+                        	<p style="float:none;word-wrap:break-word;"><a href="http://vboxarticles.com/author/laceygrevious11">laceygrevious11</a></p>     
+                            <p style="margin-top:10px;word-wrap:break-word;">
+														<img style="float:left; display:inline; margin-right:10px; padding:1px; border:1px #b2b2b2 solid;" src="http://vboxarticles.com/wp-content/themes/atheme/images/pic_small.gif" width="58px" height="58px" alt="">
+														</p>
+
+							<div class="sub_icon2">
+                            	<ul>
+                                	<li><img src="http://vboxarticles.com/wp-content/themes/atheme/images/icon_level.png" alt="">Level: 1</li>
+                                    <li style="margin-right:0;"><img src="http://vboxarticles.com/wp-content/themes/atheme/images/icon_live.png" alt="">0 Articles</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        												 						<div class="box2" style="padding-bottom:15px;">
+                        	<p style="float:none;word-wrap:break-word;"><a href="http://vboxarticles.com/author/chcrang3242">chcrang3242</a></p>                            
+                            <p style="margin-top:10px;word-wrap:break-word;">
+														<img style="float:left; display:inline; margin-right:10px; padding:1px; border:1px #b2b2b2 solid;" src="http://vboxarticles.com/wp-content/themes/atheme/images/pic_small.gif" width="58px" height="58px" alt="">
+														</p>
+
+							<div class="sub_icon2">
+                            	<ul>
+                                	<li><img src="http://vboxarticles.com/wp-content/themes/atheme/images/icon_level.png" alt="">Level: 1 </li>
+                                    <li style="margin-right:0;"><img src="http://vboxarticles.com/wp-content/themes/atheme/images/icon_live.png" alt="">0 Articles</li>
+                                </ul>
+                            </div>
+                        </div>
+																		 							
+                        <div class="box2" style="border-bottom:none;">
+                        	<p style="float:none;word-wrap:break-word;"><a href="http://vboxarticles.com/author/abrogrenshayn">abrogrenshayn</a></p>     
+                            <p style="margin-top:10px;word-wrap:break-word;">
+														<img style="float:left; display:inline; margin-right:10px; padding:1px; border:1px #b2b2b2 solid;" src="http://vboxarticles.com/wp-content/themes/atheme/images/pic_small.gif" width="58px" height="58px" alt="">
+														</p>
+
+							<div class="sub_icon2">
+                            	<ul>
+                                	<li><img src="http://vboxarticles.com/wp-content/themes/atheme/images/icon_level.png" alt="">Level: 1</li>
+                                    <li style="margin-right:0;"><img src="http://vboxarticles.com/wp-content/themes/atheme/images/icon_live.png" alt="">0 Articles</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        												 							
+                        <div class="box2" style="border-bottom:none;">
+                        	<p style="float:none;word-wrap:break-word;"><a href="http://vboxarticles.com/author/pjcorkin10">pjcorkin10</a></p>     
+                            <p style="margin-top:10px;word-wrap:break-word;">
+														<img style="float:left; display:inline; margin-right:10px; padding:1px; border:1px #b2b2b2 solid;" src="http://vboxarticles.com/wp-content/themes/atheme/images/pic_small.gif" width="58px" height="58px" alt="">
+														</p>
+
+							<div class="sub_icon2">
+                            	<ul>
+                                	<li><img src="http://vboxarticles.com/wp-content/themes/atheme/images/icon_level.png" alt="">Level: 1</li>
+                                    <li style="margin-right:0;"><img src="http://vboxarticles.com/wp-content/themes/atheme/images/icon_live.png" alt="">0 Articles</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        												 							
+                        <div class="box2" style="border-bottom:none;">
+                        	<p style="float:none;word-wrap:break-word;"><a href="http://vboxarticles.com/author/mastertv01">mastertv01</a></p>     
+                            <p style="margin-top:10px;word-wrap:break-word;">
+														<img style="float:left; display:inline; margin-right:10px; padding:1px; border:1px #b2b2b2 solid;" src="http://vboxarticles.com/wp-content/themes/atheme/images/pic_small.gif" width="58px" height="58px" alt="">
+														</p>
+
+							<div class="sub_icon2">
+                            	<ul>
+                                	<li><img src="http://vboxarticles.com/wp-content/themes/atheme/images/icon_level.png" alt="">Level: 1</li>
+                                    <li style="margin-right:0;"><img src="http://vboxarticles.com/wp-content/themes/atheme/images/icon_live.png" alt="">0 Articles</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        												 							
+                        <div class="box2" style="border-bottom:none;">
+                        	<p style="float:none;word-wrap:break-word;"><a href="http://vboxarticles.com/author/myisma">myisma</a></p>     
+                            <p style="margin-top:10px;word-wrap:break-word;">
+														<img style="float:left; display:inline; margin-right:10px; padding:1px; border:1px #b2b2b2 solid;" src="http://vboxarticles.com/wp-content/themes/atheme/images/pic_small.gif" width="58px" height="58px" alt="">
+														</p>
+
+							<div class="sub_icon2">
+                            	<ul>
+                                	<li><img src="http://vboxarticles.com/wp-content/themes/atheme/images/icon_level.png" alt="">Level: 1</li>
+                                    <li style="margin-right:0;"><img src="http://vboxarticles.com/wp-content/themes/atheme/images/icon_live.png" alt="">0 Articles</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                        												 							
+                        <div class="box2" style="border-bottom:none;">
+                        	<p style="float:none;word-wrap:break-word;"><a href="http://vboxarticles.com/author/evelyn2goff">Evelyn2Goff</a></p>     
+                            <p style="margin-top:10px;word-wrap:break-word;">
+														<img style="float:left; display:inline; margin-right:10px; padding:1px; border:1px #b2b2b2 solid;" src="http://vboxarticles.com/wp-content/themes/atheme/images/pic_small.gif" width="58px" height="58px" alt="">
+														</p>
+
+							<div class="sub_icon2">
+                            	<ul>
+                                	<li><img src="http://vboxarticles.com/wp-content/themes/atheme/images/icon_level.png" alt="">Level: 1</li>
+                                    <li style="margin-right:0;"><img src="http://vboxarticles.com/wp-content/themes/atheme/images/icon_live.png" alt="">0 Articles</li>
+                                </ul>
+                            </div>
+                        </div>
+
+                          
+<div class="box2" style="border-bottom:none; padding-bottom:2px;"></div></div><div class="col_boxgrey2">					
+						<div id="st1">
+                    	<div class="box2" style="padding-top:0;">
+                        	<ul class="tag">                            	
+                                <li class="select">Most recent</li>
+                                <li onclick="viewed()" style="border-right:none; padding-right:0px;"><a href="javascript:;">Most viewed</a></li>
+                            </ul>
+                        </div>
+                        <div class="box2" style="border-bottom:none; padding:0 0 10px 0; width:270px;">
+                        	<ul style="word-wrap:break-word;" class="link">
+							 								
+																<li><a href="http://vboxarticles.com/bandage-bodycon-mini-skirt-black-xs-reviews">Bandage Bodycon Mini Skirt – BLACK (XS) Reviews</a></li>
+																
+                             								
+																<li><a href="http://vboxarticles.com/the-pocket-watch-is-still-there">the pocket watch is still there</a></li>
+																
+                             								
+																<li><a href="http://vboxarticles.com/a-conclusion-on-what-to-utilize-a-great-caffeine-equipment">A conclusion On what To utilize A great Caffeine Equipment</a></li>
+																
+                             								
+																<li><a href="http://vboxarticles.com/several-details-of-global-enterprise-equipment-firm">Several Details of Global Enterprise Equipment Firm</a></li>
+																
+                             								
+																<li><a href="http://vboxarticles.com/webspy-the-best-search-engine-optimization-company">WebSpy – The Best Search Engine Optimization Company</a></li>
+																
+                             								
+																<li><a href="http://vboxarticles.com/christian-louboutin-and-bold-floral-prints-katranzou-mary">Christian Louboutin and bold floral prints Katranzou Mary</a></li>
+																
+                             								
+																<li><a href="http://vboxarticles.com/lamade-womens-gretchen-cowl-sweater-black-large-2">Lamade Women’s Gretchen Cowl Sweater, Black, Large</a></li>
+																
+                             								
+																<li><a href="http://vboxarticles.com/lamade-womens-gretchen-cowl-sweater-black-large">Lamade Women’s Gretchen Cowl Sweater, Black, Large</a></li>
+																
+                             								
+																<li><a href="http://vboxarticles.com/everyday-use-of-gps-tracking-watches">Everyday use of GPS Tracking Watches</a></li>
+																
+                             								
+																<li><a href="http://vboxarticles.com/how-to-pick-the-most-effective-automatic-washer">How to pick The most effective Automatic washer</a></li>
+																
+                             								
+																<li><a href="http://vboxarticles.com/childrens-clothing-of-the-1800s-historic-communities">Children’s Clothing of the 1800s (Historic Communities)</a></li>
+																
+                             								
+																<li><a href="http://vboxarticles.com/starcraft-ii-heart-of-the-swarm-crack-and-serial-keygen">Starcraft II: Heart of The Swarm Crack and serial keygen</a></li>
+																
+                             								
+																<li><a href="http://vboxarticles.com/choosing-armani-watch-as-a-gift-for-the-coming-christmas">Choosing  Armani watch as a gift for the coming Christmas</a></li>
+																
+                             								
+																<li><a href="http://vboxarticles.com/the-easiest-way-the-top-appliance-2">The easiest way The top Appliance</a></li>
+																
+                             								
+																<li><a href="http://vboxarticles.com/the-easiest-way-the-top-appliance">The easiest way The top Appliance</a></li>
+																
+                             								
+																<li><a href="http://vboxarticles.com/christian-louboutin-daisy-lowe-is-the-prom-queen-box-calf-clutch-leads">Christian Louboutin Daisy Lowe is the prom queen box calf clutch leads</a></li>
+																
+                             								
+																<li><a href="http://vboxarticles.com/the-sewing-bible-clothing-3">The Sewing Bible – Clothing</a></li>
+																
+                             								
+																<li><a href="http://vboxarticles.com/watch-breaking-dawn-online-streaming">Watch Breaking Dawn Online Streaming</a></li>
+																
+                             								
+																<li><a href="http://vboxarticles.com/halo-anniversary-skulls-and-terminals">Halo Anniversary Skulls And Terminals</a></li>
+																
+                             								
+								 
+ 								<li style="border-bottom:none;"><a href="http://vboxarticles.com/required-energy-resource-effectivity-certificate-for-french-real-estate-property-classified-ads">Required Energy Resource Effectivity Certificate For French Real Estate Property Classified Ads</a></li>
+																
+                               
+                                
+                            </ul>
+                        </div>
+						</div>
+						
+												
+						<div id="st2" style="display:none">
+	                    	<div class="box2" style="padding-top:0;">
+	                        	<ul class="tag">                            	
+	                                <li onclick="recent()"><a href="javascript:;">Most recent</a></li>
+	                                <li class="select" style="border-right:none; padding-right:0px;">Most viewed</li>
+	                            </ul>
+	                        </div>
+	                        
+	                        <div class="box2" style="border-bottom:none; padding:0 0 10px 0; width:270px;">
+	
+	                        	<ul style="word-wrap:break-word;" class="link">							
+	                            	                            	
+																		<li><a href="http://vboxarticles.com/interior-design-details-1000-new-ideas-for-the-home">Interior Design Details: 1,000 New Ideas for the Home</a></li>
+										                            	                            	
+																		<li><a href="http://vboxarticles.com/re-de-sign-new-directions-for-your-interior-design-career">Re-de-sign: New Directions for Your Interior Design Career</a></li>
+										                            	                            	
+																		<li><a href="http://vboxarticles.com/the-new-rules-of-marketing-and-pr-how-to-use-social-media-blogs-news-releases-online-video-and-viral-marketing-to-reach-buyers-directly-2nd-edition">The New Rules of Marketing and PR: How to Use Social Media, Blogs, News Releases, Online Video, and Viral Marketing to Reach Buyers Directly, 2nd Edition</a></li>
+										                            	                            	
+																		<li><a href="http://vboxarticles.com/kellogg-on-branding-the-marketing-faculty-of-the-kellogg-school-of-management-reviews">Kellogg on Branding: The Marketing Faculty of The Kellogg School of Management Reviews</a></li>
+										                            	                            	
+																		<li><a href="http://vboxarticles.com/the-new-rules-of-marketing-and-pr-how-to-use-news-releases-blogs-podcasting-viral-marketing-and-online-media-to-reach-buyers-directly">The New Rules of Marketing and PR: How to Use News Releases, Blogs, Podcasting, Viral Marketing and Online Media to Reach Buyers Directly</a></li>
+										                            	                            	
+																		<li><a href="http://vboxarticles.com/agent-liability-may-lurk-in-e-commerce-bills-brief-article-an-article-from-national-underwriter-property-casualty-risk-benefits-management">Agent Liability May Lurk In E-Commerce Bills.(Brief Article): An article from: National Underwriter Property &amp; Casualty-Risk &amp; Benefits Management</a></li>
+										                            	                            	
+																		<li><a href="http://vboxarticles.com/the-new-rules-of-marketing-pr-how-to-use-social-media-online-video-mobile-applications-blogs-news-releases-and-viral-marketing-to-reach-buyers-directly-reviews">The New Rules of Marketing &amp; PR: How to Use Social Media, Online Video, Mobile Applications, Blogs, News Releases, and Viral Marketing to Reach Buyers Directly Reviews</a></li>
+										                            	                            	
+																		<li><a href="http://vboxarticles.com/are-associations-spammers-too-what-you-should-know-about-the-new-can-spam-law-before-you-hit-send-an-article-from-association-management">Are associations spammers, too? What you should know about the new CAN-SPAM law before you hit "send.".: An article from: Association Management</a></li>
+										                            	                            	
+																		<li><a href="http://vboxarticles.com/the-new-managers-handbook-24-lessons-for-mastering-your-new-role-mighty-managers-series">The New Manager's Handbook: 24 Lessons for Mastering Your New Role (Mighty Managers Series)</a></li>
+										                            	                            	
+																		<li><a href="http://vboxarticles.com/management-3-0-leading-agile-developers-developing-agile-leaders-addison-wesley-signature-series-cohn">Management 3.0: Leading Agile Developers, Developing Agile Leaders (Addison-Wesley Signature Series (Cohn))</a></li>
+										                            	                            	
+																		<li><a href="http://vboxarticles.com/new-products-management">New Products Management</a></li>
+										                            	                            	
+																		<li><a href="http://vboxarticles.com/the-worldwide-war-on-spam-continues-up-front-news-trends-analysis-an-article-from-information-management-journal-reviews">The worldwide war on spam continues.(Up front: news, trends &amp; analysis): An article from: Information Management Journal Reviews</a></li>
+										                            	                            	
+																		<li><a href="http://vboxarticles.com/ftc-nixes-do-not-spam-list-up-front-news-trends-analysisfederal-trade-commission-an-article-from-information-management-journal">FTC nixes "do-not-spam" list.(Up front: news, trends &amp; analysis)(Federal Trade Commission): An article from: Information Management Journal</a></li>
+										                            	                            	
+																		<li><a href="http://vboxarticles.com/innovation-management-and-new-product-development-5th-edition">Innovation Management and New Product Development (5th Edition)</a></li>
+										                            	                            	
+																		<li><a href="http://vboxarticles.com/chaos-making-a-new-science">Chaos: Making a New Science</a></li>
+										                            	                            	
+																		<li><a href="http://vboxarticles.com/construction-management-jumpstart-the-best-first-step-toward-a-career-in-construction-management">Construction Management JumpStart: The Best First Step Toward a Career in Construction Management</a></li>
+										                            	                            	
+																		<li><a href="http://vboxarticles.com/illustrated-triumph-motorcycles-buyers-guide-model-history-of-all-post-1945-singles-twins-triples-fours-and-specials-illustrated-buyers-guide">Illustrated Triumph Motorcycles Buyer's Guide: Model History of All Post-1945 Singles, Twins, Triples, Fours, and Specials (Illustrated Buyer's Guide)</a></li>
+										                            	                            	
+																		<li><a href="http://vboxarticles.com/reinventing-discovery-the-new-era-of-networked-science-reviews">Reinventing Discovery: The New Era of Networked Science Reviews</a></li>
+										                            	                            	
+																		<li><a href="http://vboxarticles.com/policy-politics-in-nursing-and-health-care-policy-and-politics-in-nursing-and-health">Policy &amp; Politics in Nursing and Health Care (Policy and Politics in Nursing and Health)</a></li>
+										                            	                            	
+									 
+	 								<li style="border-bottom:none;"><a href="http://vboxarticles.com/?p=125085">Interior Design: A Critical Introduction</a></li>
+										                            		                            </ul>
+	                        </div>
+                    	</div>
+</div>                 
+                    
+                </div>
+            </div>
+        </div>
+    </div>   
+    <div style="clear:both;"></div>
+<script type="text/javascript">
+function recent(){
+document.getElementById('st1').style.display ="block";
+document.getElementById('st2').style.display ="none";
+}
+function viewed(){
+document.getElementById('st2').style.display ="block";
+document.getElementById('st1').style.display ="none";
+}
+</script>     
+    <!-- END SIDEBAR -->               
+            
+     
+                
+                <!-- END BODY -->
+      
+    ﻿
+    <!-- FOOTER -->
+    
+    <div id="footer">
+    	<div class="footer_res">
+        	<div class="footer_main">
+            	<div class="fott_top">
+                	<div class="fott"><h3>Our Newsletter<br><span>Sign Up For The Latest News</span></h3><div class="search_box" style="width:285px; margin-left:15px; margin-bottom:15px;"><div class="box_input1"></div>
+							<form action="http://feedburner.google.com/fb/a/mailverify" target="popupwindow" method="post" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=http://feeds.feedburner.com/VboxArticles', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+                            <div class="box_input">
+                                <input type="text" name="email" size="25px" value="Enter your e-mail" onfocus="if (this.value == 'Enter your e-mail') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Enter your e-mail' ;}">
+                            </div>                           
+                            <div class="box_input2"></div>
+                            
+                            <div id="bottom-search-butt" class="butt">
+                                <input id="bottom-search-button" type="submit" value="Ok" class="button" size="">
+                            </div>								
+							<input value="http://feeds.feedburner.com/VboxArticles" name="uri" type="hidden">								
+							<input value="en_US" name="loc" type="hidden">							
+							</form>							
+		</div><p>According to Ardenti's theory, aft the French monarchy and the Cat olic Church disbanded the Templa on the grounds.</p></div>RSS Subscribe<form id="feedburner_email_widget_sbef" action="http://feedburner.google.com/fb/a/mailverify" method="post" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=VboxArticles', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true;" target="popupwindow"><label>E-mail</label><input id="feedburner_email_widget_sbef_email" name="email" type="text"><input type="hidden" value="VboxArticles" name="uri"><input type="hidden" name="loc" value="en_US"><input id="feedburner_email_widget_sbef_submit" type="submit" value="Go"></form>   
+                </div>
+                
+                <div class="fott_bottom">
+                	<div class="logo_small">
+                    <img src="http://vboxarticles.com/wp-content/themes/atheme/images/new_logo/logo.png" alt="logo">                    </div>
+                    
+                    <div class="copyright">                        
+                        <p>
+                                                <a href="http://vboxarticles.com">Home</a>&nbsp; | &nbsp;<a href="http://vboxarticles.com/about-us">About Us</a>&nbsp; | &nbsp;<a href="http://vboxarticles.com/termconditions">Term&amp;Conditions</a>&nbsp; | &nbsp;<a href="http://vboxarticles.com/privacy-policy">Privacy Policy</a>&nbsp; | &nbsp;<a href="http://vboxarticles.com/contact-us">Contact Us</a>                            <br><span>Copyright © 2011 Article Directory Powered by WordPress</span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+<div id="follow" class="right"><ul class="tab down"><li class="follow"><img src="http://vboxarticles.com/wp-content/plugins/share-and-follow/images/blank.gif" alt="follow:"><span>follow:</span></li><li class="iconOnly"><a rel="nofollow me" target="_blank" href="http://vboxarticles.com/feed/rss" title="RSS"><img src="http://vboxarticles.com/wp-content/plugins/share-and-follow/images/blank.gif" height="24" width="24" style="background: transparent url(http://vboxarticles.com/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1100px 0px" alt="RSS"> <span class="head">RSS</span></a></li><li class="iconOnly"><a rel="nofollow me" target="_blank" href="http://twitter.com/vBoxArticles" title="Tweet with me"><img src="http://vboxarticles.com/wp-content/plugins/share-and-follow/images/blank.gif" height="24" width="24" style="background: transparent url(http://vboxarticles.com/wp-content/plugins/share-and-follow/default/24/sprite-24.png) no-repeat;padding:0;margin:0;height:24px;width:24px;background-position:-1325px 0px" alt="Tweet with me"> <span class="head">Tweet with me</span></a></li></ul></div>	<script type="text/javascript">
+	  window.___gcfg = {lang: 'en'};
+	
+	  (function() {
+	    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+	    po.src = 'https://apis.google.com/js/plusone.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+	  })();
+	</script><script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1174158-30']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+                </body></html>
