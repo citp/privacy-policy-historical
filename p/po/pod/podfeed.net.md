@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the podfeed.net privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211041540id_/http%3A//www.podfeed.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podfeed.net privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126073601id_/http%3A//www.podfeed.net/privacy.asp) for the most accurate reproduction.*
 
 # Podcast Directory : Podfeed.net
 
@@ -20,6 +20,8 @@ Our Site may use cookies to enhance your browsing experience by helping to remem
 
 Our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
+
 **Google Ads**
 
 Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
@@ -32,4 +34,4 @@ If you have any questions or concerns about the podfeed.net privacy policy you m
 
 From time to time, we may update this privacy notice. We encourage you to periodically check back and review this policy so that you always will know what information we collect, how we use it, and to whom we disclose it.
 
-The Privacy Notice posted on this site was updated on or about April 25, 2009. 
+The Privacy Notice posted on this site was updated on or about October 25, 2010. 
