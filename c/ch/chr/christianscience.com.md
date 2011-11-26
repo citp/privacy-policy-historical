@@ -1,74 +1,71 @@
-> *The following text is extracted and transformed from the christianscience.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528153101id_/http%3A//christianscience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianscience.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126234113id_/http%3A//christianscience.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy / Christian Science
+
+** ** This privacy policy is part of the [terms of service](https://web.archive.org/terms-and-conditions/terms-of-service) for christianscience.com (the “Web Site” or “Site”), owned and operated by The First Church of Christ, Scientist and its affiliate, The Christian Science Publishing Society (“TFCCS”).
 
 Christianscience.com respects and protects the privacy of users.
 
-### What information do we collect from our users and how do we collect it?
+###  **What information do we collect from our users and how do we collect it?**
 
-First: this Site does not collect personally identifiable information about individuals except when specifically and knowingly provided by such individuals, for instance, when registering for discussion forums, or through comments or e-mails you may send to this Site. We do not use “cookies” on this Site to collect or track personally identifiable information. When you register for a discussion forum, please read carefully to understand what personal information christianscience.com might collect and how it might be used.
+This Site does not collect personally identifiable information about individuals except when specifically and knowingly provided by such individuals, for instance, when registering for discussion forums or through comments or e-mails you may send to this Site. 
 
-The personal information that can be collected by christianscience.com when registering for a discussion forum includes:
+You have the option of joining our online discussion forums (or communities) and when you register we will ask for the following information:
 
 Required:
 
-  1. E-mail address
-  2. Username/screen name
+  * E-mail address
+  * Username/screen name
 
 
 
 Optional:
 
-  1. Name
-  2. Age
-  3. City/Town/Region/State
-  4. Country
+  * Name
+  * Age
+  * City/Town/Region/State
+  * Country
 
 
 
-Our policy regarding this information is simple: We will not sell, trade, rent to or share with third parties any of your personal information without your permission. As an exception, to protect Site visitors and the general welfare, christianscience.com will release personal information about its users when the law requires us to do so. The personal information you submit when registering is available to be seen by members of the forum.
+When you register, your username will be made visible to all public users of the Site, but you will have the option to make any other personal information private or public. Your privacy settlings may be adjusted [here](https://community.christianscience.com/edit-profile!input.jspa?).
 
-If you submit your e-mail address, we will use it to send you information about online events, Site updates, activities, and products of this Site and its affiliates. All such communications will provide you the opportunity to unsubscribe or “opt-out” from receiving such communications.
+###  **How will we use the information we collect?**
 
-Christianscience.com and its affiliates may use, reproduce, distribute, and display in whole or in part, in any media, with or without name attribution, the statements, questions or comments you submit through forums and/or the “Contact Us” page.
+Our policy regarding this information is simple: We will not sell, trade, rent to, or share with third parties any of your personal information without your permission. As an exception, to protect Site visitors and the general welfare, christianscience.com will release personal information about its users when the law requires us to do so. If you submit your e-mail address, we will use it to send you information about online events, Site updates, activities, and products of this Site and its affiliates. All such communications will provide you the opportunity to unsubscribe or “opt-out” from receiving such communications.
 
-We do collect anonymous, aggregated data for statistical purposes. We may use such information to help determine ways to improve our Site and may share this unattributable information with our affiliates.
+Christianscience.com and its affiliates may use, reproduce, distribute, and display in whole or in part, in any media, with or without name attribution, the statements, questions or comments you submit through forums and/or any “Contact Us” pages.
 
-If you have any questions or concerns regarding what is done with your information or would like such information deleted from our records, please e-mail us at [ info@christianscience.com](mailto:info@christianscience.com).
+We do collect anonymous, aggregated data for statistical purposes. We may use such information to help determine ways to improve our Site and may share this unattributable information with our affiliates and suppliers.
 
-### What are cookies? How do you use them?
+If you have any questions or concerns regarding what is done with your information or would like such information deleted from our records, please e-mail us at  [info@christianscience.com](mailto:info@christianscience.com).
 
-A cookie is a small piece of data that is sent to your browser from christianscience.com’s Web server and is stored on your computer’s hard drive. Christianscience.com uses cookies to keep and sometimes track information about you in order to deliver better and more personalized services. Cookies allow us to access your registration information, which is stored on our computers, to anonymously identify which areas of our Site you have visited. Once you log out of christianscience.com forums, the cookie will be deleted and another cookie will be used at your next session. Our Site sponsors, advertisers, or linked Sites may use cookies, too. Christianscience.com does not own or control these entities or Sites, and this statement of policy does not cover how these companies user their cookies.
+###  **What are cookies?   How do we use them?**
 
-### Is the information you collect about me secure?
+A cookie is a small piece of data that is sent to your browser from christianscience.com’s web server and is stored on your computer’s hard drive. Cookies cannot be used to collect data from any user's computer. Cookies can only be used in conjunction with visits within our site.
+
+We may link to Sites which may use cookies. Christianscience.com does not own or control these entities or sites, and this statement of policy does not cover how these companies use their cookies. 
+
+See <http://www.howstuffworks.com/cookie.html> for more information about cookies.
+
+Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent, but it may affect your viewing some website features. For further information on cookies and their use, see the help instructions delivered with your browser or contact the browser's manufacturer.
+
+###  **Is the information we collect about you secure?**
 
 We take precautions to protect our visitors’ information. When you submit sensitive information via the Web Site, your information is protected both online and offline from unauthorized access, improper use or disclosure, unauthorized modification, and unlawful destruction or accidental loss.
 
-### What about children using your Site — is their privacy protected?
+###  **What about children using our site--is their privacy protected?**
 
 Yes. In accordance with the Children’s Online Privacy Protection Act (COPPA), this Site does not knowingly collect personal information from children under the age of 13 without parental consent. If it is learned that such information has been collected without parental consent, that information will be deleted from the Site’s database as quickly as practical or the child’s parent(s) will be contacted to obtain consent for the collection of the information.
 
 We strongly encourage parents to get involved with their children’s online usage and to be aware of activities in which they are participating.
 
-### What about my privacy on linked Sites?
+###  **What about your privacy on linked sites?**
 
-This Web Site contains links to other Sites and to affiliated Sites which have their own privacy policies. This privacy policy applies solely to information collected by this Web Site.
+This Web Site contains links to other sites and to affiliated sites which have their own privacy policies. We encourage our users to be aware when they leave our Site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy policy applies solely to information collected by this Web Site.
 
-By using this Web Site, you consent to the collection and usage of information as described in this policy. This privacy policy is subject to change without notice and such changes will be updated and reflected within our privacy statement.
+By using this Web Site, you consent to the collection and usage of information as described in this Privacy Policy. This Privacy Policy is subject to change without notice and such changes will be updated and reflected within our privacy statement.
 
-If you have any questions or concerns regarding our privacy policy, please email us at [ info@christianscience.com](mailto:info@christianscience.com).
+If you have any questions or concerns regarding our privacy policy, please email us at [info@christianscience.com](mailto:info@christianscience.com).
 
-### Credits
-
-  * [Wordpress](http://wordpress.org/)
-  * [vBulletin](http://www.vbulletin.com/)
-  * [JW FLV Media Player](http://www.jeroenwijering.com/)
-  * [Yahoo! User Interface Library (YUI)](http://developer.yahoo.com/yui/)
-  * [Magpie](http://magpierss.sourceforge.net/)
-  * [WuFoo](http://www.wufoo.com/)
-  * [Slideshow Pro](http://www.slideshowpro.com/)
-  * [Dynamic Drive](http://www.dynamicdrive.com/)
-
-
-
-Effective date: January 25, 2008
+Effective date: September 15, 2011
