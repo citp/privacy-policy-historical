@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pizzahut.com.au privacy policy that was archived on 2011-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110415095153id_/http%3A//www.pizzahut.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pizzahut.com.au privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126043354id_/http%3A//www.pizzahut.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pizza Hut Australia
 
@@ -98,4 +98,4 @@ Yum! Restaurants International
 Frenchs Forest NSW 2086  
 Telephone: (02) 9930 3000  
 Facsimile: (02) 9930 3001  
-Email: [PrivacyOfficerAUS@yum.com](mailto:PrivacyOfficerAUS@yum.com)
+Email: [PHprivacyofficeraus@yum.com](mailto:PHprivacyofficerAUS@yum.com)
