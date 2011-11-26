@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cl.ly privacy policy that was archived on 2011-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110325115430id_/http%3A//help.getcloud.me/kb/site-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cl.ly privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126022818id_/http%3A//support.getcloudapp.com/kb/site-policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / Site Policy / FAQs - CloudApp Support
 
