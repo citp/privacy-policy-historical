@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisdomtimes.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529100556id_/http%3A//wisdomtimes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisdomtimes.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126163851id_/http%3A//wisdomtimes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy-Policy
 
@@ -10,7 +10,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 This notice applies to all information collected or submitted on the wisdomtimes.com website. On some pages, you can post comments, make requests, and register to receive materials. The types of personal information collected at these pages are: Name, Email address, and Phone number where applicable.
 
-On some pages, you can submit information about other people. For example, you can suggest [agents](http://www.wisdomtimes.com/agents/ "agents"), brokers, agencies who would want to work/[advertise](http://www.wisdomtimes.com/advertise/ "advertise") with us. You will need to submit the recipient’s address. In this circumstance, the types of personal information collected are: Name, Address, Email Address and Phone Number
+On some pages, you can submit information about other people. For example, you can suggest agents, brokers, agencies who would want to work/[advertise](http://www.wisdomtimes.com/advertise/ "advertise") with us. You will need to submit the recipient’s address. In this circumstance, the types of personal information collected are: Name, Address, Email Address and Phone Number
 
 **The Way We Use Information:**
 
