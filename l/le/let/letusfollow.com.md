@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letusfollow.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528135218id_/http%3A//letusfollow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letusfollow.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126041852id_/http%3A//letusfollow.com/privacy.html) for the most accurate reproduction.*
 
 # Get more Twitter followers and Facebook page Likes - LetUsFollow - Privacy Policy
 
@@ -114,7 +114,7 @@ You can choose to enable or disable Cookies in your web browser. By default, you
 
 You may opt out of receiving information from LetUsFollow at any time.
 
-You may contact us at any time via the [contact page](https://web.archive.org/web/20110528135218id_/http%3A//letusfollow.com/contactus) to terminate communications.
+You may contact us at any time via the [contact page](https://web.archive.org/web/20111126041852id_/http%3A//letusfollow.com/contactus) to terminate communications.
 
   
 
