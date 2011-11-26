@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kwiklearning.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528120356id_/http%3A//kwiklearning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwiklearning.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126135010id_/http%3A//kwiklearning.com/privacy) for the most accurate reproduction.*
 
 # Kwik Learning | Privacy Policy
 
