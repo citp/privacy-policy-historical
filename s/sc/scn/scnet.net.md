@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scnet.net privacy policy that was archived on 2010-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100722105641id_/http%3A//scnet.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scnet.net privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126105748id_/http%3A//www.servercentral.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | ServerCentral: Colocation and Managed Data Center Solutions
 
