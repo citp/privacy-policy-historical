@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isportsweb.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201114847id_/http%3A//isportsweb.com/about/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isportsweb.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126234145id_/http%3A//isportsweb.com/community/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | isportsweb
 
@@ -30,6 +30,6 @@ You must be 13 years and older to register to use the isportsweb website. As a r
 Changes to this Privacy Policy  
 isportsweb may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the isportsweb website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.  
 Conditions of Use  
-If you decide to visit isportsweb website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.  
-Effective Date of this Privacy Policy  
-This Privacy Policy is effective as of 2/1/2009 and last updated 1/1/2010.
+If you decide to visit isportsweb website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.Effective Date of this Privacy Policy
+
+This Privacy Policy is effective as of 2/1/2009 and last updated 7/23/2011.
