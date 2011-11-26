@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nokia.com.au privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623040231id_/http%3A//www.nokia.com.au/about-nokia/privacy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokia.com.au privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126143346id_/http%3A//www.nokia.com.au/about-nokia/privacy/privacy-policy) for the most accurate reproduction.*
 
 # Nokia Australia - Privacy Policy - Privacy - About Nokia
 
@@ -17,9 +17,9 @@ US Safe Harbor Privacy Framework
 Changes to This Privacy Policy   
 
 
-#### WE CARE ABOUT YOUR PRIVACY
+Effective date 12.10.2011
 
-Effective date 23.11.2010
+#### WE CARE ABOUT YOUR PRIVACY
 
 Nokia is committed to protecting your privacy and to complying with applicable data protection and privacy laws. This Privacy Policy (“Policy”) explains how we process personal data. Throughout this Policy the term “personal data” means information relating to an identified or identifiable individual (i.e. a natural person). “Nokia” refers to Nokia Corporation, including its affiliates (also referred to as “we”, “us”, or “our”). This Policy applies for processing of your personal data where Nokia is the data controller or where we refer to the applicability of this Policy.
 
@@ -114,9 +114,9 @@ Most browsers allow you to disable or allow the use of cookies. You may also del
 
 ####  What Are Your Rights? 
 
-You have a right to know what personal data we hold about you. You have a right to have incomplete, incorrect, unnecessary or outdated personal data deleted or updated. You have a right to request that we stop processing your personal data for direct marketing or market research purposes. However, if you opt-out from marketing and other communications from Nokia, we may still send you critical alerts pertaining to our products and services or contact you for these purposes.
+You have a right to know what personal data we hold about you. You have a right to have incomplete, incorrect, unnecessary or outdated personal data deleted or updated. You have a right to unsubscribe from marketing messages and to request that we stop processing your personal data for direct marketing or market research purposes. However, if you opt-out from marketing and other communications from Nokia, we may still send you critical alerts pertaining to our products and services or contact you for these purposes.
 
-You may exercise your rights by contacting us through the contact points referred to below. In some cases, especially if you wish us to delete or stop processing your personal data, this may also mean that we may not be able to continue to provide the services to you. Please note that Nokia may need to identify you and to ask for additional information in order to be able to fulfill your request. Please also note that applicable law may contain restrictions and other provisions that relate to your rights.
+You may exercise your rights by contacting us through the contact points referred to below. To unsubscribe from marketing messages, contact Nokia Care <http://www.nokia.com/about-nokia/contacts/customer-service>. In some cases, especially if you wish us to delete or stop processing your personal data, this may also mean that we may not be able to continue to provide the services to you. Please note that Nokia may need to identify you and to ask for additional information in order to be able to fulfill your request. Please also note that applicable law may contain restrictions and other provisions that relate to your rights.
 
 We encourage you to use available profile management tools, for example Nokia Account for the above purposes as such tools often provide you with direct access to your personal data and allow you to effectively manage it.
 
