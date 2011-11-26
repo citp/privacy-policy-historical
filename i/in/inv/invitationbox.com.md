@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the invitationbox.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528124834id_/http%3A//www.invitationbox.com/privacypolicy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitationbox.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126052618id_/http%3A//www.invitationbox.com/privacypolicy1.html) for the most accurate reproduction.*
 
-# Privacy Policy at InvitationBox.com
+# Privacy Policy|InvitationBox.com
 
 Thank you for shopping with us at InvitationBox.com. We have ensured the privacy and security of your transactions with us. Your credit card information and other data given during the order process will be guarded with the highest levels of security and confidentiality. We believe the following info will address this as well as other privacy issues.
 
