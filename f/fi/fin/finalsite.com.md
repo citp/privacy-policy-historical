@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the finalsite.com privacy policy that was archived on 2011-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110411131527id_/http%3A//www.finalsite.com/page.cfm%3Fp%3D514) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finalsite.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126070048id_/http%3A//www.finalsite.com/page.cfm%3Fp%3D514) for the most accurate reproduction.*
 
 # finalsite: web software and services for schools - Private School Websites, Independent School Websites, School Content Management System, Education Content Management System, School Website Design, Private School Software, CMS: Website Privacy Policy
 
 ## **Website Privacy Policy**
 
-**Last Updated 4/4/2011**
+ **Last Updated 5/17/2011**
 
 Thank you for visiting finalsite.com and reviewing our privacy policy. Active Internet Technologies dba “finalsite” has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program does not cover information that may be collected through downloadable software.   TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or concerns regarding this statement, you should first contact Kathy Venezia at 860.289.3507.  If you are not satisfied with our response you can contact[ TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
-#### EU Safe Harbor Compliancy
+#### EU and Swiss Safe Harbor Compliancy
 
-finalsite complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
+finalsite complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  finalsite has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view finalsite’s certification, please visit <http://www.export.gov/safeharbor>.
 
 #### Information Collection and Use
 
@@ -32,9 +32,9 @@ Occasionally we may provide you the opportunity to participate in surveys on our
 If you choose to use the +Share link available at the bottom of most site pages, you will be invoking the AddThis tool which is a third party product enabling you to easily send our website links to other sites or to email a page link to a friend. All personally identifiable information (such as name and email address) you enter here is covered by the AddThis privacy policy, available at <http://www.addthis.com/privacy>.
 
  **Service Providers**  
-We use other third parties such as a credit card processor to bill you for goods and services.  For instance, when you register for an event we will share your credit card information with our payment processor as necessary for the third party to provide that service. These third parties are prohibited from using your personally identifiable information for promotional purposes. 
+We use other third parties such as a credit card processor to bill you for goods and services.  For instance, when you register for an event we will share your credit card information with our payment processor as necessary for the third party to provide that service. These third parties are prohibited from using your personally identifiable information for promotional purposes.
 
-#### Information Collected and Stored Automatically 
+#### Information Collected and Stored Automatically
 
 If you do nothing doing your visit but browse through our website, read pages, or download information, we will gather and store certain information about your visit automatically using cookies and log files. This information does not identify you personally.  We use this information to help make our site more useful to visitors, to learn about the number of visitors to our site, and the types of technology they use.
 
@@ -63,7 +63,7 @@ If your personally identifiable information changes, or if you no longer desire 
 
 #### Links to Other Sites
 
-Our policy discloses the privacy practices for the finalsite website. However, we do provide links to other websites. When you leave [www.finalsite.com](https://web.archive.org/web/20110411131527id_/http%3A/) you will go to sites outside of our control.  These external sites may send their own cookies to users, collect data, or solicit personal information. The privacy policies and procedures described here for finalsite do not apply to any external links. We encourage you to read the privacy policies of any site you link to from ours, especially if you share any personal information. Be informed. You are the person best qualified to protect your own privacy.
+Our policy discloses the privacy practices for the finalsite website. However, we do provide links to other websites. When you leave [www.finalsite.com](https://web.archive.org/web/20111126070048id_/http%3A/) you will go to sites outside of our control.  These external sites may send their own cookies to users, collect data, or solicit personal information. The privacy policies and procedures described here for finalsite do not apply to any external links. We encourage you to read the privacy policies of any site you link to from ours, especially if you share any personal information. Be informed. You are the person best qualified to protect your own privacy.
 
 #### Security
 
@@ -77,7 +77,7 @@ We will retain your information for as long as your account is active or as need
 
 #### Legal Disclaimer
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website. 
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.
 
 #### Changes in this Privacy Statement
 
