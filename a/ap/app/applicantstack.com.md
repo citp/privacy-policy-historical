@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the applicantstack.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528020437id_/http%3A//www.applicantstack.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applicantstack.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126100314id_/http%3A//www.applicantstack.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy « ApplicantStack
+# Privacy Policy | ApplicantStack
 
 This document was last updated on July 22, 2009.
 
