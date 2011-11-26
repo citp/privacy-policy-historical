@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilemoneysites.com privacy policy that was archived on 2010-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100926094958id_/http%3A//www.mobilemoneysites.com/member/membership/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilemoneysites.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126090904id_/http%3A//www.mobilemoneysites.com/member/membership/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile Money Sites
 
@@ -38,7 +38,7 @@ We can be reached by contacting:
 
 MMS
 
-Email: [Please use our contact form here](https://www.mobilemoneysites.com/member/membership-contact/)
+Email: [Please use our contact form here](http://www.mobilemoneysites.com/member/membership-contact/)
 
 Changes to this Policy
 
