@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exploroz.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525190659id_/http%3A//www.exploroz.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploroz.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126050037id_/http%3A//www.exploroz.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy @ ExplorOz Articles
 
@@ -13,9 +13,15 @@ Please note that separate privacy policies apply to the use of sites that are av
   
 
 
+  
+
+
 ## Go to top 1\. Your personal information is important to us
 
 ExplorOz recognises that your privacy is very important to you and that you have a right to control your personal information. We know that providing personal information is an act of trust and we take that seriously. Unless you give us explicit consent to act otherwise, the following policy will govern how ExplorOz handles your personal information and safeguards your privacy. ExplorOz is committed to protecting your personal information and giving you choice in who can use your personal information and how it can be used. We believe that our [privacy policy](https://web.archive.org/Privacy.aspx) not only complies with relevant laws but represents industry best practice.  
+
+
+  
 
 
   
@@ -30,6 +36,9 @@ To obtain the full benefits of Site use, users are required to register with Exp
 The [Membership](https://web.archive.org/Membership/Default.aspx) system provides enhanced viewing facilities, access to Member-only services and tools in addition to the free services accessible by all registered users. 
 
 You can learn more about enhancing your online experience through [Membership](https://web.archive.org/Membership/Default.aspx) by [clicking here](http://www.exploroz.com/Membership/About.aspx). 
+
+  
+
 
   
 
@@ -57,6 +66,9 @@ Any further collection of your personal information other than that explained ab
   
 
 
+  
+
+
 ## Go to top 4\. Preserving your privacy
 
 We understand that most internet users are concerned about their privacy, want to keep control of their personal information, and may not trust the web sites which they visit. In fact, research shows around a third of internet users give false information online rather than saying who they really are. 
@@ -66,13 +78,24 @@ ExplorOz understands that even with our [privacy policy](https://web.archive.org
   
 
 
-## Go to top 5\. Our use of cookies
+  
+
+
+## Go to top 5\. Cookies
 
 Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. Most Web browsers are set to accept cookies. However, if you do not wish to receive any cookies you may set your browser to refuse cookies (for more information on disabling cookies, [click here](http://www.microsoft.com/info/cookies.htm). In some instances this may mean you will not be able to take full advantage of parts of the Site. For instance, you may not be able to login. 
 
 The use of cookies can enhance your enjoyment of what is offered by ExplorOz, because they can help personalise your experience of our website. They can make it easier for you to [shop](https://web.archive.org/Shop/Default.aspx) online and can ensure that information provided to you is most relevant to your interests. Cookies can provide us with aggregated information on how people use our websites, and which advertisements are effective, which helps us to keep improving our Site. We also use cookies to operate the Visitor & [Membership](https://web.archive.org/Membership/Default.aspx) systems, as they help us to identify visitors to the site who have previously registered. 
 
 Cookies in and of themselves do not personally identify users, although they do identify a user's browser. The cookies simply contain a unique identifier which help us to know what our customers find interesting and useful on our website, almost like a continuing questionnaire. 
+
+### Your Browsing History
+
+Telstra’s digital advertising network is responsible for placing some of the advertising on this site. To make this advertising more relevant to you, anonymous information about the previous web browsing activity of your computer on sites within Telstra’s network is collected and used to associate your computer with one or more pre-defined interest categories. Advertising that matches those interest categories may then be served to your computer. This interest based advertising does not change the amount of advertising you receive, it just makes it more relevant. You can learn more about the interest based advertising conducted by Telstra here [www.telstra.com.au/privacy/interest-based-advertising](http://www.telstra.com.au/privacy/interest-based-advertising). General information about interest based advertising is available from the industry website www.youronlinechoices.com.au, and you can also opt out of some or all interest based advertising here [www.youronlinechoices.com.au/opt-out](http://www.youronlinechoices.com.au/opt-out).  
+
+
+  
+
 
   
 
@@ -103,43 +126,16 @@ We will not give any of your personal information to Advertisers or any other or
   
 
 
-Activities: Things To Do
+  
 
-[](http://exploroz.godo.com.au/activity/GRAY103) [Great Ocean Road Adventure (396)](http://exploroz.godo.com.au/activity/GRAY103)  
-Great Ocean Road - VIC  
-Dramatic, powerful, dangerous and majestic. How can words describe some of the world's most impressive coastline along the Great Ocean Road? 
 
-[](http://exploroz.godo.com.au/activity/PROV103) [Afternoon Sail 2:00pm to 4:30pm](http://exploroz.godo.com.au/activity/PROV103)  
-Townsville and Surrounds - QLD  
-Want to include a bit of snorkelling or boom netting on a short 2.5 hour sail. Fruit platter included. 
+Suppress Ad - Members Only   
 
-[](http://exploroz.godo.com.au/activity/JETX105) [Extreme Jet Boat & Helicopter Adventure - For](http://exploroz.godo.com.au/activity/JETX105)  
-Gold Coast - QLD  
-Enjoy Gold Coast views from the air aboard a scenic helicopter flight and from the water aboard an exhilarating jet boat ride on Gold Coasts famous Br 
-
-[](http://exploroz.godo.com.au/activity/EXTJ106) [Extreme Jet Ski Blast - Jet Ski Hire](http://exploroz.godo.com.au/activity/EXTJ106)  
-Gold Coast - QLD  
-Experience Pure Adrenalin as you speed around our purpose built 1km circuit aboard our 1500cc SeaDoo jetskis. 
-
-[](http://exploroz.godo.com.au/activity/EXBT101) [Body Booster - 1 Hour Package](http://exploroz.godo.com.au/activity/EXBT101)  
-Sydney - NSW  
-Sip on a glasss of champagne before relaxing in a candle lit room and enjoying a gentle body exfoliation followed by a specialised body wrap. 
-
-[](http://exploroz.godo.com.au/activity/ALSH102) [Helicopter Flight Champagne Sunset - 20 minut](http://exploroz.godo.com.au/activity/ALSH102)  
-Alice Springs and Central Australia - NT  
-Chilled bubbly, a desert sunset and you! Fly over Honeymoon Gap, along the ridgeline to Mt Gillen, returning via Heavitree Gap. 
-
-[](http://exploroz.godo.com.au/activity/FTST106) [East Coast To Cradle Mt Tour](http://exploroz.godo.com.au/activity/FTST106)  
-Hobart - TAS  
-Discover the heritage, history, scenery, wildlife and food of Tasmania's Midlands, Tasman Peninsula, east coast and World Heritage Cradle Mt... 
-
-[](http://exploroz.godo.com.au/activity/LASA104) [Morning Surf Lessons](http://exploroz.godo.com.au/activity/LASA104)  
-Coffs Harbour and Mid North Coast - NSW  
-Have you ever stood on the beach in awe of the surfers riding the waves onto the beach? 
-
-Suppress Content Advertisement - Members Only
 
 We will not send you "spam" (advertising information) without first asking you whether you wish to have promotional information sent to you. If you are receiving promotional information about ExplorOz or its affiliates and do not wish to receive this information any longer, you may remove your name from our list either by visiting the website from which the communication was sent and following the instructions on how to withdraw your information from that site (where that facility is available), or emailing us at Privacy@ExplorOz.com and asking to be removed from our mailing list. Please allow two days for this request to be processed.   
+
+
+  
 
 
   
@@ -156,9 +152,15 @@ You can also play an important role in keeping your personal information secure,
   
 
 
+  
+
+
 ## Go to top 9\. You can access the information we keep about you
 
 As indicated above in section 3, if you do not log on using a registered profile, we do not collect information which identifies you personally. If, however, you log on using a registered profile you are able to access, change and update your details at any time. If you wish to know what other information we hold about you whilst you have been logged onto the Site, please send an email to us at Privacy@ExplorOz.com advising us of the email address you used to register your account. We will endeavour to respond to your request within 24 hours.  
+
+
+  
 
 
   
@@ -172,9 +174,15 @@ ExplorOz provides links to websites outside of the Site. These linked sites are 
   
 
 
+  
+
+
 ## Go to top 11\. What to do if you have a problem or question
 
-If ExplorOz becomes aware of any ongoing concerns or problems with our Site, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our [privacy policy](https://web.archive.org/Privacy.aspx), or you have a problem or complaint, please contact us at Privacy@ExplorOz.com   
+If ExplorOz becomes aware of any ongoing concerns or problems with our Site, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our [privacy policy](https://web.archive.org/Privacy.aspx), or you have a problem or complaint, please [contact us](https://web.archive.org/AboutUs/Contact.aspx) at Privacy@ExplorOz.com   
+
+
+  
 
 
   
@@ -188,24 +196,6 @@ Our commitment to make ExplorOz [Australia](https://web.archive.org/States/Defau
   
 
 
-## Go to top Article Feedback
+  
+  
 
-If you wish to Send Feedback please [Logon Now](https://web.archive.org/Users/Logon.asp?FromPage=%2fPrivacy.aspx)
-
-[ ](https://web.archive.org/TermsofUse.aspx) [Terms of Use](https://web.archive.org/TermsofUse.aspx)  
-Your access to the Site is conditional upon your acceptance and compliance with the terms, conditions, notices and disclaimers contained in this document and elsewhere on the Site (known collectively as "Terms of Use"). [[Feature Story]](https://web.archive.org/TermsofUse.aspx)
-
-[ ](https://web.archive.org/StatsPage.aspx) [ExplorOz Site Statistics](https://web.archive.org/StatsPage.aspx)  
-Many sites falsely claim to be the "No. 1 RV website" but ExplorOz is proud to publish all details of our site measurement to prove that we are the most popular website used by real-life travel enthusiasts. Join ExplorOz and engage with the largest group of RV, 4WD, and Camping enthusiasts. 
-
-[ ](https://web.archive.org/LinktoUs.aspx) [Linking to ExplorOz](https://web.archive.org/LinktoUs.aspx)  
-If you wish to link to ExplorOz content from your website then you will need to follow these guidelines. 
-
-[ ](https://web.archive.org/SiteUpdates.aspx) [Site Updates](https://web.archive.org/SiteUpdates.aspx)  
-Browse the latest content and stay up-to-date using our automatic Site Updates page. At a glance you can see what's new or updated and click links to view the full page of change. Great for busy people, or true ExplorOz addicts! 
-
-[ ](https://web.archive.org/RSSFeedList.aspx) [ExplorOz RSS Feeds](https://web.archive.org/RSSFeedList.aspx)  
-RSS (or Really Simple Syndication) provides a convenient way for you to receive content “feeds” from ExplorOz. With over 200 channels of content available there is bound to be a channel suitable for you. 
-
-[ ](https://web.archive.org/Search.aspx) [Search](https://web.archive.org/Search.aspx)  
-Enter a keyword to search through all site content or selected sections (tick box). You can sort the search output by date, or rank/match or match/rank. 
