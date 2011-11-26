@@ -1,163 +1,103 @@
-<!--The following is the downloaded HTML source of the marist.edu privacy policy that was archived on 2011-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110528213933id_/http%3A//www.marist.edu/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marist.edu privacy policy that was archived on 2011-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111126150726id_/http%3A//www.marist.edu/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html><html lang="en" class=" webkit chrome linux js"><head>
+<meta charset="utf-8">
 <title>Privacy Policy: Marist College</title>
-<meta name="keyword" content="privacy policy">
+<meta name="keywords" content="privacy policy">
 <meta name="description" content="Privacy policy for the Marist College website.">
-<meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="verify-v1" content="AqT6cZcob1cv6R4Cp1W7HUkY9ySzVBKnXf/L+fwYhcw=">
-<link rel="stylesheet" type="text/css" media="screen" href="/css/sub.php?full_width=yes">
+<link rel="stylesheet" type="text/css" media="screen" href="/css/sub.php?full_width=yes&amp;time=1322320046">
 <link rel="stylesheet" type="text/css" media="print" href="/css/sub-print.css">
-<link rel="stylesheet" type="text/css" media="handheld" href="/css/sub-handheld.css">
-<link rel="stylesheet" type="text/css" media="screen,projection,handheld" href="/menu/udm-style.php">
-<script type="text/javascript" src="/includes/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" media="screen" href="/css/jquery-ui.css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/includes/jquery.min.js"></script> 
+<script type="text/javascript" src="/includes/jquery-ui.min.js"></script> 
 <script type="text/javascript" src="/includes/jquery.autoSuggest.js"></script>
 <script type="text/javascript" src="/includes/common.js"></script>
+<script type="text/javascript" src="/includes/jquery.watermark.js"></script> 
+<script type="text/javascript" src="/includes/css-browser-selector.js"></script> 
 <script type="text/javascript">
 $(document).ready(function() {
-        $("#autocomplete").autoSuggest({
-                ajaxFilePath : "/webapps/autocomplete/", // path to the ajax server file
-                ajaxParams   : "dummydata=dummyData", // attach all other extra parameters to send to ajaxFilepath
-                autoFill         : false,   // true, false
-                width            : "auto", // auto(obj width), any integer eg : 100px;
-                opacity          : "0.9", // opacity can be anything from 0.1 to 1.0
-                limit            : "10",   // auto(10 records), any integer
-                idHolder         : "id-holder",   // auto(10 records), any integer
-                match            : "contains" // starts,contains,ends
-        });
+	$(".searchinput").Watermark("Search...");
+	$("#autocomplete").autoSuggest({
+		ajaxFilePath : "/webapps/autocomplete/", // path to the ajax server file
+		ajaxParams   : "dummydata=dummyData", // attach all other extra parameters to send to ajaxFilepath
+		autoFill         : false,   // true, false
+		width            : "auto", // auto(obj width), any integer eg : 100px;
+		opacity          : "0.9", // opacity can be anything from 0.1 to 1.0
+		limit            : "10",   // auto(10 records), any integer
+		idHolder         : "id-holder",   // auto(10 records), any integer
+		match            : "contains" // starts,contains,ends
+	});
 	$("#autocomplete").attr("autocomplete","off"); 
+		
+	/*
+	|--------------------------------------------------------------------------
+	| Fix width issue when user first opens the site
+	|--------------------------------------------------------------------------
+	| Very useful on tablets
+	*/
+	 var new_width = $(document).width();
+   	 $(".ipad #marist").width(new_width);
+
+});
+
+/*
+|--------------------------------------------------------------------------
+| Fix width issue when window is resized
+|--------------------------------------------------------------------------
+|
+*/
+$(window).resize( function(){
+        if($(window).width() < $(document).width())
+                var new_width = 1000;
+        else
+                var new_width = $(document).width();
+
+        $("#marist").width(new_width);
 });
 </script>
 </head>
 <body>
-<script type="text/javascript" src="/menu/udm-dom.php"></script>
-<script type="text/javascript" src="/menu/udm-mod-keyboard.js"></script>
-
-<div id="topbar_container">
- <div id="topbar_content"> 
-  <div id="topbar_maristlogo">
-   <a href="/"><img src="/images/logo.gif" alt="Marist College"></a>
-   <h1 id="logo">Marist College</h1></div> 
-  <div id="topbar_search">
-   <form method="get" id="searchbox_011686685756761272083:t9l2p2gvaj4" action="/search/">
-    <div><input type="hidden" name="cx" value="011686685756761272083:t9l2p2gvaj4"><input type="text" id="autocomplete" size="40" name="q" onclick="this.value=''" autocomplete="off"><input class="button" type="submit" name="sa" value="Search"><input type="hidden" name="cof" value="FORID:11"></div>
-   </form>
-  </div>
- </div> 
-</div>
-
-<div id="navbar_container">
- <div id="navbar_content">
-  <ul id="udm" class="udm">
-   <li><a href="/about/">About Marist</a>	
-    <ul>
-     <li><a href="/about/pres.html">From the President</a></li>
-     <li><a href="/about/history.html">History &amp; Heritage</a></li>
-     <li><a href="/about/visit.html">Visitors' Center</a></li>
-     <li><a href="/about/glance.html">Marist at a Glance</a></li>
-     <li><a href="/about/pdfs/financialstatements.pdf">Financial Statements</a></li>
-     <li><a href="/about/board.html">Board of Trustees</a></li>
-     <li><a href="/about/tour.html">Online Tour</a></li>
-     <li><a href="/admission/florence/">Marist in Italy</a></li>
-     <li><a href="/about/admin.html">Administration</a></li>
-     <li><a href="/strategicplanning/">Strategic Plan: Executive Summary</a></li>
-    </ul>
-   </li>
-   <li><a href="/admission/">Admission</a>
-    <ul>
-     <li><a href="/admission/freshman/">Freshman Students</a></li>
-     <li><a href="/admission/transfer/">Transfer Students</a></li>
-     <li><a href="/admission/adult/">Adult Students (age 22 &amp; older)</a></li>
-     <li><a href="/admission/graduate/">Graduate Students</a></li>
-     <li><a href="/admission/international/">International Students</a></li>
-     <li><a href="/admission/military/">Military &amp; Veterans</a></li>
-     <li><a href="/gpp/distancelearning/">Distance Learning</a></li>
-     <li><a href="/financialaid/">Financial Aid &amp; Scholarships</a></li>
-    </ul>
-   </li>
-   <li><a href="/academics/">Academics</a>
-    <ul>
-     <li><a href="/academics/">Academic Schools</a></li>
-     <li><a href="/academics/programs/">Majors &amp; Academic Programs</a></li>
-     <li><a href="/academics/calendars.html">Academic Calendars</a></li>
-     <li><a href="/registrar/catalog/">Course Catalogs</a></li>
-     <li><a href="/gpp/distancelearning/">Distance Learning</a></li>
-     <li><a href="/library/">Library</a></li>
-     <li><a href="/international/">Marist International Programs</a></li>
-     <li><a href="/academics/resources.html">Academic Resources</a></li>
-     <li><a href="/academics/special.html">Special Academic Opportunities</a></li>
-     <li><a href="/careerservices/">Career Services</a></li>
-   </ul>
-   </li>
-   <li><a href="/studentlife/">Student Life</a>
-    <ul>
-     <li><a href="/studentlife/firstyear/">First Year Programs</a></li>
-     <li><a href="/housing/">Housing &amp; Residential Life</a></li>
-     <li><a href="http://www.maristdining.com">Marist Dining</a></li>
-     <li><a href="/studentlife/activities.html">College Activities &amp; Organizations</a></li>
-     <li><a href="http://marist.bkstore.com">Bookstore</a></li>
-     <li><a href="/computerstore/">Computer Store</a></li>
-     <li><a href="/healthservices/">Health Services</a></li>
-     <li><a href="/counseling/">Counseling Services</a></li>
-     <li><a href="/studentlife/ministry/">Campus Ministry</a></li>
-     <li><a href="/studentlife/studentconduct/">Student Conduct</a></li>	
-     <li><a href="/security/">Safety &amp; Security</a></li>
-     <li><a href="/maristmoney/">Marist ID/Marist Money</a></li>
-    </ul>
-   </li>
-   <li><a href="/athletics/">Athletics</a>
-    <ul>
-     <li><a href="http://www.goredfoxes.com">Varsity Athletics (GoRedFoxes.com)</a></li>
-     <li><a href="/athletics/clubsports.html">Club Sports &amp; Intramural Activities</a></li>
-     <li><a href="/athletics/fundraising.html">Athletic Fund Raising &amp; Support</a></li>
-     <li><a href="/athletics/facilities.html">Facilities</a></li>
-     <li><a href="/athletics/studentathlete/">Student Athlete Support Services</a></li>
-     <li><a href="http://www.goredfoxes.com/camps/mari-camps.html">Youth Camps</a></li>
-    </ul>
-   </li>
-   <li><a href="/community/">Community</a>
-    <ul id="special_ul">
-     <li><a href="/community/ibm.html">Marist/IBM Joint Study</a></li>
-     <li><a href="http://www.fdrlibrary.marist.edu/" onclick="javascript:urchinTracker('/G1/fdr');">FDR Presidential Library</a></li>
-     <li><a href="http://www.maristpoll.marist.edu/" onclick="javascript:urchinTracker('/G1/mipo');">Marist Poll</a></li>
-     <li><a href="http://www.hudsonrivervalley.net/" onclick="javascript:urchinTracker('/G1/hrvi');">Hudson River Valley Institute</a></li>
-     <li><a href="http://www.ecostudies.org/" onclick="javascript:urchinTracker('/G1/ecosystem');">Cary Institute of Ecosystem Studies</a></li>
-     <li><a href="/community/idcp.html">IDCP: Data Center Education</a></li>
-     <li><a href="http://ccodc.marist.edu" onclick="javascript:urchinTracker('/G1/ccodc');">Center for Collaborative and On-Demand Computing (CCODC)</a></li>
-     <li><a href="/management/bureau/">Marist Bureau of Economic Research</a></li>
-    </ul>
-   </li>
-  </ul>
- </div>
- <div class="clearer"></div>
-</div>
-
-<div id="body_container">
- <div id="body_content">
-  <div id="body_navbar">
-   <ul id="mainnav">   
- 
-    <li><a href="index.html" class="menuOff"><strong>Marist College</strong></a></li> 
-	   </ul>
-
-   <hr>
- 
-   <h1>Information For:</h1>
-   <ul id="audience">
-    <li><a href="/prospectivestudents/">Prospective Students</a></li>
-    <li><a href="/currentstudents/">Current Students</a></li>
-    <li><a href="/parentsfamily/">Parents and Family</a></li>
-    <li><a href="/facultystaff/">Faculty and Staff</a></li>
-    <li><a href="/alumni/">Alumni and Friends</a></li>
-   </ul> 
-  </div>
-  <div id="body_header"><h1>Marist College</h1></div>
-  <div id="body_main">
-   <div id="body_main_content">
-    <p id="body_breadcrumbs">
-     <a href="/">home</a>
-    </p>   
+		<div id="marist">
+			<!--- // header Section // -->
+			<header>
+				<div id="header-content">
+					<nav>
+						<div id="navbar-content">
+							<ul id="udm" class="udm">
+								<li><a class="first" href="/about/">About Marist</a></li>
+								<li><a class="" href="/admission/">Admission</a></li>
+								<li><a class="" href="/academics/">Academics</a></li>
+								<li><a class="" href="/studentlife/">Student Life</a></li>
+								<li><a class="" href="/athletics/">Athletics</a></li>
+								<li><a class="last" href="/community/">Community</a></li>
+							</ul>
+							<div class="clearer"></div>
+						</div>
+						<div class="clearer"></div>
+					</nav>
+					<div id="topbar-content">
+						<div id="topbar-maristlogo" onclick="window.location='/'">&nbsp;</div>
+						<div id="topbar-search">
+							<form method="get" id="searchbox_011686685756761272083:t9l2p2gvaj4" action="/search/">
+								<p>
+									<input type="hidden" name="cx" value="011686685756761272083:t9l2p2gvaj4"><input type="text" class="searchinput" id="autocomplete" size="40" name="q" autocomplete="off" style="color: rgb(170, 170, 170);"><input class="button" type="submit" name="sa" value=" "><input type="hidden" name="cof" value="FORID:11">
+								</p>
+							</form>
+						</div>
+					</div>
+				</div>
+			</header>
+						<div class="clearer"></div>
+			<div id="body-container">
+				<div id="body-content">
+										<!--Right Column-->
+					<div id="seccontent">
+						<div id="body-main">
+							<div id="body-main-content">
+								<div class="left-col" style="padding: 0 0 15px">
+							 
 
 <div class="automargin" style="width: 90%;">
 
@@ -212,64 +152,123 @@ Poughkeepsie, NY 12601
 
 </div>
 
-   </div>
-  </div>   
+									<div id="body-relatedinfo">
+									<div class="clearer"></div>		
+														<div class="socialmedia-blurb" style="margin-top: 0">
+									<a href="/socialmedia"><img src="/images/mariston.png"></a>
+								</div>
+									</div>	
+						</div>
+					</div>
+				</div>
+			</div>   
 
-  <div id="body_relatedinfo">
-   <h1>
-    Related Information:
-   </h1>
-   <p>
-    <strong>For Admission Information</strong><br>
-    Email:<br>
-    <a href="mailto:admission@marist.edu">Undergraduate</a><br>
-    845.575.3226<br>
-    Email:<br>
-    <a href="mailto:graduate@marist.edu">Graduate &amp; Adult</a><br>
-    845.575.3800
-   </p>
+		</div>
+		<div class="clearer"></div>
+	</div>
 
-   <p>
-    <strong>For General Marist Information</strong><br>
-    Email:<br>
-    <a href="mailto:publicaffairs@marist.edu">Public Affairs</a><br>
-    845.575.3174
-   </p>
-  </div>
-  <div class="clearer"></div>
- </div>
-</div>
+	<!--// Footer Sec //-->
+	<footer>
+		<div id="footer-content">
+			<div class="inner-footer-content">
+				<div id="footer-links">
+					<div class="footer-column">
+						<h2>About Marist</h2>
+						<ul>
+							<li><a href="/about/pres.html">From the President</a></li>
+							<li><a href="/about/history.html">History &amp; Heritage</a></li>
+							<li><a href="/about/visit.html">Visitors' Center</a></li>
+							<li><a href="/about/glance.html">Marist at a Glance</a></li>
+							<li><a href="/about/pdfs/financialstatements.pdf">Financial Statements</a></li>
+							<li><a href="/about/board.html">Board of Trustees</a></li>
+							<li><a href="/about/tour.html">Visitor Information</a></li>
+							<li><a href="/admission/florence/">Marist in Italy</a></li>
+							<li><a href="/about/admin.html">Administration</a></li>
+							<li><a href="/strategicplanning/">Strategic Plan: 2011 - 2016</a></li>
+						</ul>
+					</div>
 
-<div id="footer_container">
- <div id="footer_content">
-  <div id="footer_logo"><a href="/"><img src="/images/footer.gif" alt="Marist College"></a></div>
+					<div class="footer-column">
+						<h2>Admission</h2>
+						<ul>
+							<li><a href="/admission/freshman/">Freshman Students</a></li>
+							<li><a href="/admission/transfer/">Transfer Students</a></li>
+							<li><a href="/admission/adult/">Adult Students (age 22 &amp; older)</a></li>
+							<li><a href="/admission/graduate/">Graduate Students</a></li>
+							<li><a href="/admission/international/">International Students</a></li>
+							<li><a href="/admission/military/">Military &amp; Veterans</a></li>
+							<li><a href="/gpp/distancelearning/">Distance Learning</a></li>
+							<li><a href="/financialaid/">Financial Aid &amp; Scholarships</a></li>
+						</ul>
+					</div>
 
-  <div id="social">
-   <div><strong>Connect With Us:</strong>&nbsp;</div>
-   <a href="javascript:newWin('http://www.facebook.com/marist')" onclick="javascript:urchinTracker('/G1/facebook');"><img src="/images/social/facebook.png" alt="Facebook"></a>
-   <a href="javascript:newWin('http://www.youtube.com/user/Marist')" onclick="javascript:urchinTracker('/G1/youtube');"><img src="/images/social/youtube.png" alt="YouTube"></a>
-   <a href="javascript:newWin('http://twitter.com/marist')" onclick="javascript:urchinTracker('/G1/twitter');"><img src="/images/social/twitter.png" alt="Twitter"></a>
-   <a href="javascript:newWin('http://www.flickr.com/photos/maristcollege/')" onclick="javascript:urchinTracker('/G1/flickr');"><img src="/images/social/flickr.png" alt="Flickr"></a>
-   <a href="/publicaffairs/rss.html" onclick="javascript:urchinTracker('/G1/rss');"><img src="/images/social/feed.png" alt="RSS"></a>
-   <a href="javascript:newWin('http://maristfoxtales.wordpress.com/')" onclick="javascript:urchinTracker('/G1/foxtales');"><img src="/images/social/wordpress.png" alt="Fox Tales Blog"></a>
-   <a href="/maristmobile/" onclick="javascript:urchinTracker('/G1/mobile');"><img src="/images/social/mobile.png" alt="Mobile"></a>
-  </div>
+					<div class="footer-column">
+						<h2>Academics</h2>
+						<ul>
+							<li><a href="/academics/">Academic Schools</a></li>
+							<li><a href="/academics/programs/">Majors &amp; Academic Programs</a></li>
+							<li><a href="/academics/calendars.html">Academic Calendars</a></li>
+							<li><a href="/registrar/catalog/">Course Catalogs</a></li>
+							<li><a href="/gpp/distancelearning/">Distance Learning</a></li>
+							<li><a href="/library/">Library</a></li>
+							<li><a href="/international/">Marist International Programs</a></li>
+							<li><a href="/academics/resources.html">Academic Resources</a></li>
+							<li><a href="/academics/special.html">Special Academic Opportunities</a></li>
+							<li><a href="/careerservices/">Career Services</a></li>
+						</ul>
+					</div>
 
-  <a href="/calendar/">Calendar</a> |
-  <a href="/directory/">Directories</a> |
-  <a href="/atoz/">Site A-Z Index</a> |
-  <a href="/about/visit.html">Map &amp; Directions</a> |
-  <a href="/alumni/waystogive.html">Giving to Marist</a> |
-  <a href="javascript:newWin('http://jobs.marist.edu')">Jobs at Marist</a><br>
-  Marist College, 3399 North Road, Poughkeepsie, NY 12601; 845.575.3000<br>
-  <span>© Copyright 2007-2011 Marist College. All Rights Reserved. <a href="/disclaimers.html">Disclaimers</a> | <a href="/privacy.html">Privacy Policy</a> | <a href="/contact/">Contact</a></span>
-  <div class="clearer"></div>
- </div>
-</div>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
-_uacct = "UA-320870-1";
-urchinTracker();
+					<div class="footer-column">
+						<h2>Student Life</h2>
+						<ul>
+							<li><a href="/studentlife/firstyear/">First Year Programs</a></li>
+							<li><a href="/housing/">Housing &amp; Residential Life</a></li>
+							<li><a href="http://www.maristdining.com">Marist Dining</a></li>
+							<li><a href="/studentlife/activities.html">College Activities &amp; Organizations</a></li>
+							<li><a href="http://marist.bkstore.com">Bookstore</a></li>
+							<li><a href="/computerstore/">Computer Store</a></li>
+							<li><a href="/healthservices/">Health Services</a></li>
+							<li><a href="/specialservices/">Special Services</a></li>
+							<li><a href="/counseling/">Counseling Services</a></li>
+							<li><a href="/studentlife/ministry/">Campus Ministry</a></li>
+							<li><a href="/studentlife/studentconduct/">Student Conduct</a></li>
+							<li><a href="/security/">Safety &amp; Security</a></li>
+							<li><a href="/maristmoney/">Marist ID/Marist Money</a></li>
+						</ul>
+					</div>
+					<p class="footer-utility-content">
+						<a href="/calendar/">Calendar</a> |
+						<a href="/directory/">Directories</a> |
+						<a href="/atoz/">Site A-Z Index</a> |
+						<a href="/about/visit.html">Map &amp; Directions</a> |
+						<a href="/alumni/waystogive.html">Giving to Marist</a> |
+						<a href="javascript:newWin('http://jobs.marist.edu')">Jobs at Marist</a><br><br>
+						Marist College, 3399 North Road, Poughkeepsie, NY 12601 | 845.575.3000<br>
+						<span>© Copyright 2011 Marist College. All Rights Reserved. <a href="/disclaimers.html">Disclaimers</a> | <a href="/privacy.html">Privacy Policy</a> | <a href="/contact/">Contact</a></span>
+					</p>
+					<div class="clearer"></div>
+				</div>
+				<div class="clearer"></div>
+				<div class="clearer"></div>
+			</div>
+			<div class="clearer"></div>
+		</div>
+	</footer>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-320870-1']);
+  _gaq.push(['_setDomainName', '.marist.edu']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
+</div>
 
 
 </body></html>
