@@ -1,19 +1,10 @@
-> *The following text is extracted and transformed from the eurogrand.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229183007id_/http%3A//www.eurogrand.co.uk/security-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurogrand.co.uk privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126052554id_/http%3A//www.eurogrand.com/uk/privacy) for the most accurate reproduction.*
 
-# Security and Privacy with EuroGrand Casino
+# Privacy and Security: Protecting our Valued Players
 
-|  |   
-|  | 
+**PRIVACY POLICY For www.EuroGrand.com (“the Website”)**
 
-[](https://web.archive.org/web/20101229183007id_/http%3A//www.eurogrand.co.uk/download-casino.php)
-
-[](https://web.archive.org/direct_play.php?creferer=DLB:security-privacy.php;a_b_test:FlashRD)
-
-|   
-[Home](https://web.archive.org/) > Security privacy  
-
-
-  1. **PURPOSE OF THIS PRIVACY POLICY**
+  1.  **PURPOSE OF THIS PRIVACY POLICY**
 
 The following describes the information gathering and dissemination practices for the Website, which is operated by WHG (International) Limited (registration number DP005080 with the Gibraltar Regulatory Authority) and/or WHG Trading Limited and/or William Hill Malta Limited (individually, and collectively, “ **the Operator** ”).
 
@@ -98,6 +89,4 @@ If at any time You believe that the Operator has not adhered to the principles c
  **This Privacy Policy is effective from 1st December 2009**
 
 
-  
----|---  
-|  | 
+
