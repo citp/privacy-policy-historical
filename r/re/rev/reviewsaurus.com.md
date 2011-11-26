@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reviewsaurus.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231090540id_/http%3A//www.reviewsaurus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewsaurus.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126145814id_/http%3A//www.reviewsaurus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ReviewSaurus - Technology Rocks!
 
