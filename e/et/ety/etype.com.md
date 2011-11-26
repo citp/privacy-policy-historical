@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etype.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630015323id_/http%3A//www.etype.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etype.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126093844id_/http%3A//www.etype.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eType
 
