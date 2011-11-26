@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the degree.net privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430191807id_/http%3A//www.degree.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degree.net privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126224314id_/http%3A//www.degree.net/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Education Center Online
+# Privacy Policy | MBA Programs
 
 [](http://privacy-policy.truste.com/click-with-confidence/ctv/en/www.degree.net/seal_m "Validate TRUSTe privacy certification")
 
