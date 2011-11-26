@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theitwares.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529140813id_/http%3A//www.theitwares.com/pages.php%3FcID%3D1%26pID%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theitwares.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126160815id_/http%3A//www.theitwares.com/pages.php%3FcID%3D1%26pID%3D1) for the most accurate reproduction.*
 
 # TheITWares - One Stop for all Gizmos!TheITWares - One Stop for all Gizmos!
 
