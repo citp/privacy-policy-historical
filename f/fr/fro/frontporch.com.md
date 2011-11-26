@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontporch.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528022324id_/http%3A//www.frontporch.com/website_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontporch.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126053949id_/http%3A//www.frontporch.com/website_privacy_policy.html) for the most accurate reproduction.*
 
 # Front Porch - Website Privacy Policy
 
@@ -28,7 +28,7 @@ _Terms and Conditions_
 
 . 
 
-Front Porch, Inc. may disclose your personally identifiable information in response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required or permitted by law.  We may disclose your personally identifiable information when we believe disclosure is necessary to prevent or take action regarding suspected illegal activity, fraud or other wrongdoing; to protect or defend our company, our employees, our web site users, or others; or to enforce our agreements or policies.In addition, in the unlikely event that all or substantially all of Front Porch, Inc.’s stock and/or assets are transferred or sold to another entity, or that Front Porch, Inc. is merged into or combined with another company, Front Porch, Inc. may transfer your information to the acquiring entity or to the transferee entity. 
+Front Porch, Inc. may disclose your personally identifiable information in response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required or permitted by law.  We may disclose your personally identifiable information when we believe disclosure is necessary to prevent or take action regarding suspected illegal activity, fraud or other wrongdoing; to protect or defend our company, our employees, our web site users, or others; or to enforce our agreements or policies. In addition, in the unlikely event that all or substantially all of Front Porch, Inc.’s stock and/or assets are transferred or sold to another entity, or that Front Porch, Inc. is merged into or combined with another company, Front Porch, Inc. may transfer your information to the acquiring entity or to the transferee entity. 
 
 **Links to Third Party Web Sites  
 **We may provide links or automatically redirect you to third party web sites that do not operate under this Policy.  We are not responsible for the policies and practices of these third parties, and we do not monitor or control their information practices.  You should consult the privacy policies of these other sites to learn how your privacy is protected.  On occasion, these third party web sites may provide us with information about your use of their sites. 
@@ -40,7 +40,7 @@ Our web site is not intended for use by children under the age of 13.  We do no
 Front Porch, Inc. has put in place reasonable physical, administrative and technical security measures to help prevent unauthorized access to the information we collect online.  However, no web site or data system can be completely secure.  Although we take reasonable steps to secure your information, we do not guarantee and you should not expect that your personal information, searches, or other communications will always remain secure.
 
 **Website Publisher's Choice  
-**As ythe owner or the webmaster of a domain, you can determine if Internet provider meswsages to their subscribers can be served alongside your content. To learn more or activate that choice,[ click here](https://web.archive.org/web/20110528022324id_/http%3A//www.frontporch.com/pubchoice.html). 
+**As the owner or the webmaster of a domain, you can determine if Internet provider messages to their subscribers can be served alongside your content. To learn more or activate that choice,[ click here](https://web.archive.org/web/20111126053949id_/http%3A//www.frontporch.com/pubchoice.html). 
 
 **Changes to this Policy  
 **Front Porch, Inc. may modify this Privacy Policy at any time.  Changes to this Policy will be posted on the Front Porch, Inc. web site and we will revise the “effective date” at the top of this Policy. 
