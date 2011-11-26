@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyereturn.com privacy policy that was archived on 2011-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110127115147id_/http%3A//www.eyereturnmarketing.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyereturn.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126155327id_/http%3A//www.eyereturnmarketing.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # eyeReturn Marketing - Privacy Policy
 
