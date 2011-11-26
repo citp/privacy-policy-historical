@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the eros-cams.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528114127id_/http%3A//www.eros-cams.com/support/privacy.htm%3Fck%3Dsc%26server%3Deros-cams) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eros-cams.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126022603id_/http%3A//www.eros-cams.com/support/privacy.htm%3Fck%3Dsc%26server%3Deros-cams) for the most accurate reproduction.*
 
 # Eros-cams Live Girls on home web cams. The best live cam site for amateur girls and housewives
 
 ## Privacy Policy
 
-Your privacy is of utmost importance to us. This Privacy Policy governs your use of this website,  Eros-cams.com (the “Site”, “we” or “us”). 
+Your privacy is of utmost importance to us. This Privacy Policy governs your use of this website,  Eros-cams.com (the “Site”, “we” or “us”). This Privacy Policy solely relates to how the Site may use your information and does not relate to how any members or models/performers on the Site may use information you disclose to them. Members and models/performers are not in anyway governed by this policy and you should exercise caution in sharing any information with them.
 
 **Adults Only Service**
 
