@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business-ethics.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526100245id_/http%3A//business-ethics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business-ethics.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126160624id_/http%3A//business-ethics.com/privacy-policy) for the most accurate reproduction.*
 
 # Business Ethics | Business Ethics Privacy Policy
 
