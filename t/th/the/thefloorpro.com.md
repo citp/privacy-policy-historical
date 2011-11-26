@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefloorpro.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526040914id_/http%3A//www.thefloorpro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefloorpro.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126100927id_/http%3A//www.thefloorpro.com/privacy.php) for the most accurate reproduction.*
 
-# TheFloorPro.com - The Floor Pro Privacy Policy
+# The Floor Pro Privacy Policy - TheFloorPro.com
 
 ## Privacy Policy of The Floor Pro Community
 
@@ -12,4 +12,4 @@ The software used by this site sets cookies on your computer if you choose to be
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, **[click here](http://www.google.com/privacy_ads.html)**.
 
-Please **[contact the website administrator](http://www.thefloorpro.com/community/sendmessage.php)** if you have any questions or problems concerning The Floor Pro Community or its privacy policy. You can disable features of your forum account at any time by **[modifying your options in the user control panel](http://www.thefloorpro.com/community/profile.php?do=editoptions)** , logging off and not using the account again. Posts made under your account will remain in view at this forum even after your account has been disabled.
+Please **[contact the website administrator](http://www.thefloorpro.com/community/sendmessage.php)** if you have any questions or problems concerning The Floor Pro Community or its privacy policy. You can disable features of your forum account at any time by **[modifying your options in the user control panel](http://www.thefloorpro.com/community/profile.php?do=editoptions)** , logging off and not using the account again. Posts made under your account will remain in view at this website even after your account has been disabled.
