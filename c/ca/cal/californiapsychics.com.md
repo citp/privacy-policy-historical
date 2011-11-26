@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the californiapsychics.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623152739id_/http%3A//www.californiapsychics.com/about/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the californiapsychics.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126024927id_/http%3A//www.californiapsychics.com/about/privacy_policy.aspx) for the most accurate reproduction.*
 
 # CaliforniaPsychics.com - Privacy and Security Policy
 
@@ -34,7 +34,7 @@ Our operations and maintenance contractors sometimes have limited access to your
 CaliforniaPsychics.com® is committed to handling your customer information with high standards of information security. We are VeriSign secured and we maintain physical, electronic and procedural safeguards that comply with federal regulations to guard your nonpublic personal information. 
 
 **Our Psychics/Your Privacy**  
-**Note that our psychics are independent contractors and not employed directly by Outlook Amusements, Inc. We contractually require that our psychics protect the privacy of your personal information consistent with this Privacy Policy and not use or disclose your personal information for any purpose other than providing you with the services you request through the Web site or by phone. You should also take care to protect your personal information and privacy. There is no reason that you should provide any of our psychics with personal contact information, specific financial information including but not limited to account numbers, or other confidential information related to your identity. It is a violation of our[ Terms of Use](https://web.archive.org/web/20110623152739id_/http%3A//www.californiapsychics.com/about/terms_of_Service.aspx) for you to be in direct contact with any of our psychics outside the online service – if you do so, Outlook Amusements, Inc. bears no liability for any resulting actions, and your ability to use our services may be revoked.**
+**Note that our psychics are independent contractors and not employed directly by Outlook Amusements, Inc. We contractually require that our psychics protect the privacy of your personal information consistent with this Privacy Policy and not use or disclose your personal information for any purpose other than providing you with the services you request through the Web site or by phone. You should also take care to protect your personal information and privacy. There is no reason that you should provide any of our psychics with personal contact information, specific financial information including but not limited to account numbers, or other confidential information related to your identity. It is a violation of our[ Terms of Use](https://web.archive.org/web/20111126024927id_/http%3A//www.californiapsychics.com/about/terms_of_Service.aspx) for you to be in direct contact with any of our psychics outside the online service – if you do so, Outlook Amusements, Inc. bears no liability for any resulting actions, and your ability to use our services may be revoked.**
 
 **Use and Disclosure of Anonymous Information.**   
 We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze how our site is used, as well as to offer you products, programs or services. We may also share aggregate information with others, including affiliated companies and non-affiliated companies.
@@ -73,8 +73,8 @@ The personal information you provide is considered a company asset and may be in
 **How to Contact Us.**   
 If you have any questions or concerns about this privacy policy you may e-mail [info@californiapsychics.com](mailto:info@californiapsychics.com) or write to the following address:
 
-1304 N. Highland Ave. #303   
-Hollywood, CA 90028
+827 Hollywood Way #407   
+Burbank, CA 91505
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
