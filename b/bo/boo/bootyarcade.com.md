@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bootyarcade.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527233721id_/http%3A//www.bootyarcade.com/index.php%3Fpageid%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootyarcade.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126020930id_/http%3A//www.bootyarcade.com/index.php%3Fpageid%3D18) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,6 +35,8 @@ We use cookies to keep track of advertisements and compile aggregate data about 
  **Do we disclose any information to outside parties?**
 
 We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+We partner with third-party companies to serve ads and/or collect certain information when you visit our website. Third-party companies may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, [Click here](http://valueclickmedia.com/member_privacy.shtml)
 
  **Third party links**
 
