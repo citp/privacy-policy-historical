@@ -1,0 +1,51 @@
+> *The following text is extracted and transformed from the aacn.org privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126140926id_/http%3A//www.aacn.org/WD/MainPages/Content/PrivacyPolicy.content%3Fmenu%3DAboutUs) for the most accurate reproduction.*
+
+# Privacy Policy
+
+AACN respects your privacy and wants you to know we make every effort to protect the personally identifiable information you provide us. Following are the guidelines we use to ensure your privacy is protected.
+
+Our postal address is:   
+101 Columbia   
+Aliso Viejo, CA 92656 
+
+You may also contact us via e-mail at [info@aacn.org](mailto:info@aacn.org) or by telephone at 949-362-2000. 
+
+**Collection of Information:** Our Web server does not automatically recognize information regarding the domain or e-mail address of visitors to our Web pages. 
+
+We collect the e-mail addresses of those who communicate with us via e-mail; aggregate information about which Web pages customers access; information volunteered by the customer, such as survey information and/or site registrations, name, address, telephone number, fax number and payment information (e.g., credit card number and billing address). 
+
+The information we collect is used to notify consumers about updates to our Web site and shared with other reputable organizations to help them contact consumers for research purposes, but is not shared with other organizations for commercial purposes. 
+
+If you do not want to receive e-mail from us, please let us know by e-mailing [info@aacn.org](mailto:info@aacn.org), calling 949-362-2000 or writing to us at the above address. 
+
+AACN uses "cookies," small files placed on the hard drive of your computer, to provide services to you and help ensure account security. Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive once you end your session (log out or close your browser). You may refer to Help/Tools section of your browser toolbar to change your browser setting so that it won't accept cookies, but please keep in mind that doing so will prevent you from utilizing features such as our Online Bookstore and managing your account. 
+
+AACN uses the ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [ Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to improve our website usability to better serve our customers. You can choose to disable the Service at [ http://www.clicktale.net/disable.html](http://www.clicktale.net/disable.html).
+
+**Mailings:** The AACN membership list is sold periodically to other organizations who wish to send information regarding various educational courses, publications or other products or services that are presumed to be of interest to acute and critical care practitioners. AACN carefully screens all such requests to ensure that these offerings are appropriate and in good taste. If you do not want us to share your address with other companies or organizations, please let us know by calling 949-362-2000, e-mailing [info@aacn.org](mailto:info@aacn.org) or writing to us at the above address. 
+
+If you supply us with your postal address online, you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling 949-362-2000, e-mailing [info@aacn.org](mailto:info@aacn.org) or writing to us at the above address. 
+
+In addition, you may receive mailings from other reputable companies. However, you can be placed on our "do-not-share list" by calling 949-362-2000, e-mailing [ info@aacn.org](mailto:info@aacn.org) or writing to us at the above address. 
+
+Individuals who supply us with their telephone numbers online will be contacted by telephone only regarding orders they have placed online, by phone or by mail. 
+
+**Ad Servers:** AACN does not partner with or have special relationships with any ad server companies. 
+
+**Changes:** From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change, we will post the policy changes on our Web site to notify you of these changes and provide you with the opportunity to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. 
+
+Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing [info@aacn.org](mailto:info@aacn.org), calling 949-362-2000 or writing to us at the above address. 
+
+Upon request, we provide site visitors with access to their own unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them or a description of information that we maintain about them. 
+
+Consumers can change or correct this information at [http://www.aacn.org/myaccount](https://web.archive.org/myaccount.htm) or by requesting the change via e-mail, telephone or written communication, using the contact information above. 
+
+Upon request, we offer visitors the ability to have inaccuracies corrected in contact information. 
+
+Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address. 
+
+**Security:** AACN has appropriate security measures in place at our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you. 
+
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
+
+Revised March 08, 2010 
