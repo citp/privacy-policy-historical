@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the arthritisresearchuk.org privacy policy that was archived on 2010-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100517064803id_/http%3A//www.arthritisresearchuk.org/home/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthritisresearchuk.org privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126160127id_/http%3A//www.arthritisresearchuk.org/home/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Arthritis Research UK - Privacy policy
+# Privacy policy | Arthritis Research UK
 
 **Privacy Policy**
 
 At Arthritis Research UK we are committed to protecting your privacy. This policy is made in the light of the requirements of the Data Protection Act 1998.
 
-If you have any questions about the policy, please write to us at Arthritis Research UK, Copeman House, St Mary’s Court, St Mary’s Gate, Chesterfield S41 7TD or by email [digitalcommunity@arthritisresearchuk.org](mailto:digitalcommunity@arthritisresearchuk.org "Opens email to digitalcommunity@arthritisresearchuk.org")  
+If you have any questions about the policy, please write to us at Arthritis Research UK, Copeman House, St Mary’s Court, St Mary’s Gate, Chesterfield S41 7TD or by email [digitalcommunity@arthritisresearchuk.org](mailto:digitalcommunity@arthritisresearchuk.org "Opens email to digitalcommunity@arthritisresearchuk.org").
 
 **How do we collect information?**
 
@@ -26,7 +26,7 @@ For instance, when you order literature, buy goods or donate, we may need to pas
 
 We will not share your personal information with third parties or used in any other way other than described in this policy, unless required by law.
 
-You can change your mind at any time by contacting Supporter Services at Arthritis Research UK, Copeman House, St Mary’s Court, St Mary’s Gate, Chesterfield S41 7TD or [digitalcommunity@arthritisresearchuk.org](mailto:digitalcommunity@arthritisresearchuk.org "Opens email to digitalcommunity@arthritisresearchuk.org")  
+You can change your mind at any time by contacting Supporter Services at Arthritis Research UK, Copeman House, St Mary’s Court, St Mary’s Gate, Chesterfield S41 7TD or [digitalcommunity@arthritisresearchuk.org](mailto:digitalcommunity@arthritisresearchuk.org "Opens email to digitalcommunity@arthritisresearchuk.org").
 
 **Sensitive data**
 
