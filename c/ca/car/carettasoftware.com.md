@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carettasoftware.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209072640id_/http%3A//www.carettasoftware.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carettasoftware.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126160723id_/http%3A//www.carettasoftware.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | We Take Your Privacy Seriously - Caretta Software
 
