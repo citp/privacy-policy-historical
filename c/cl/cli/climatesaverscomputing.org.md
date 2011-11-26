@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the climatesaverscomputing.org privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225023348id_/http%3A//www.climatesaverscomputing.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the climatesaverscomputing.org privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126064947id_/http%3A//www.climatesaverscomputing.org/privacy-policy) for the most accurate reproduction.*
 
-# Climate Savers Computing - Privacy Policy
+# Privacy PolicyClimate Savers Computing Initiative | Climate Savers Computing Initiative
+
+ 
 
 Climate Savers Computing Initiative (“CSCI”) respects your privacy choices. We will limit the amount of information we ask of you to what is necessary and will treat it according to this privacy policy. CSCI encourages you to read this privacy policy and those of all web sites you visit.
 
@@ -10,7 +12,7 @@ Our site is developed, hosted and maintained by a third party who has access to 
 
 REGISTRATION AND PERSONAL INFORMATION:
 
-In general, when you visit our website, you do not have to disclose any personally information. Personal information means any information that identifies an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. Before we ask you for personally information, we will explain how this information will be used and with whom we will share it. Our site requires registration to post/edit personal information, although typically all that's requested is your name, title, an e-mail address, and phone number.
+In general, when you visit our website, you do not have to disclose any personally information. Personal information means any information that identifies an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. Before we ask you for personally information, we will explain how this information will be used and with whom we will share it. Our site requires registration to post/edit personal information, although typically all that’s requested is your name, title, an e-mail address, and phone number.
 
 There are occasions where we will ask for information. We do this to be able to better understand your needs, and provide you with services that we believe may be valuable to you. Some examples of additional information our website may request are name, address and phone number. We give you the opportunity to elect not to receive information from us regarding upcoming events and other news. If you choose not to provide personal information that we request, then we may not be able to provide certain services or information to you.
 
@@ -40,7 +42,7 @@ We provide links to third party sites. Since we do not control these web sites, 
 
 COOKIES AND OTHER TRACKING TECHNOLOGIES:
 
-Some of our web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about web site activity. Some cookies and other technologies may serve to recall personal information previously indicated by a visitor to the site. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
+Some of our web pages utilize “cookies” and other tracking technologies. A “cookie” is a small text file that may be used, for example, to collect information about web site activity. Some cookies and other technologies may serve to recall personal information previously indicated by a visitor to the site. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.
 
 You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the site.
 
