@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pathf.com privacy policy that was archived on 2009-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091026132737id_/http%3A//www.pathf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pathf.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126052220id_/http%3A//pathfindersoftware.com/privacy-policy) for the most accurate reproduction.*
 
-# Pathfinder Development | Software Developers | Privacy Policy
+# Privacy Policy | Pathfinder Software
 
 1\. We make every endeavor to ensure that any data given by Users of the Web Site is stored securely and without risk of corruption, theft or abuse by parties external to ourselves and our representatives.
 
