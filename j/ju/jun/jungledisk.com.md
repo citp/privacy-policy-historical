@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jungledisk.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611111134id_/https%3A//www.jungledisk.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jungledisk.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126162021id_/https%3A//www.jungledisk.com/privacy_policy) for the most accurate reproduction.*
 
 # Jungle Disk - Privacy Policy
 
@@ -65,9 +65,8 @@ This Privacy Policy explains Jungle Disk LLC's policy regarding the collection a
 **Mail:**  
 Attn: Privacy Policy  
 Jungle Disk  
-1110 Satellite Boulevard NW  
-Suite 404  
-Suwannee, GA 30024  
+5000 Walzem Road  
+San Antonio, TX 78218-2117  
 
 
 
