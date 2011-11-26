@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the truliantfcu.org privacy policy that was archived on 2011-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110521091806id_/http%3A//www.truliantfcu.org/page2.php/sid/11) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the truliantfcu.org privacy policy that was archived on 2011-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111126105228id_/http%3A//www.truliantfcu.org/page2.php/sid/11) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	<title>Privacy Policy - Truliant Federal Credit Union</title>
@@ -11,7 +11,7 @@
     <link rel="apple-touch-icon" href="img/tfcu_iphone.png">
 
 	<!-- include css  -->
-	<link rel="stylesheet" href="ns.css" type="text/css">
+	<link rel="stylesheet" href="ns2.css" type="text/css">
 </head>
 
 <body>
@@ -24,7 +24,7 @@
 		<a href="http://www.truliantfcu.org/index.php"><img src="img/tfculogo.jpg" alt="Truliant Federal Credit Union" style="border:0px;"></a>
 	</div>
 	<div id="banner" class="banner">
-			<a href="http://www.truliantfcu.org/page1.php/sid/5"><img src="img/StaticFinancialServHeader.gif" style="border: 0px;"></a>	</div>
+			<img src="img/member_owner.jpg" style="border: 0px;">	</div>
 	
 <!-- nav bar -->
 	<div id="menu" class="menu">
@@ -59,7 +59,7 @@ function mortgagebotWindow(linkstring){ // this was added so we can put alerts u
 					<!--   side navigation items   -->
 
 <!-- loan -->
-<div style="height: 35px; background-color: #9099C3; font-size: 14px; color: white; font-weight: bold; padding: 2px">
+<div style="height: 35px; background-color: #9099C3; font-size: 14px; color: white; font-weight: bold; padding: 2px" id="loanjump">
 	Loans
 	<form name="jump1">
 		<select name="myjumpbox" onchange="location.href=jump1.myjumpbox.options[selectedIndex].value" style="width:136px;">
@@ -197,6 +197,15 @@ We permit access to your information only to those employees who provide you pro
 					<li>
 						<a href="http://www.truliantfcu.org/page2.php/sid/2/aid/2">Savings &amp; Investments</a>
 					</li>
+                                        <li>
+						<a href="http://www.truliantfcu.org/page2.php/sid/2/aid/106">Dollar Dog Club House</a>
+					</li>
+                                        <li>
+						<a href="http://www.truliantfcu.org/page2.php/sid/2/aid/170">Cha-Ching for Teens</a>
+					</li>
+                                        <li>
+						<a href="http://www.netmpapps2.com/edge2/_truliant.asp" title="Financial Services for Young Adults">The EDGE</a>
+					</li>
 					<li>
 						<a href="http://www.truliantfcu.org/page2.php/sid/2/aid/155/">Switch Kits</a>
 					</li>
@@ -304,6 +313,9 @@ We permit access to your information only to those employees who provide you pro
 						<a href="http://www.truliantfcu.org/page2.php/sid/7">Become A Member-Owner</a>
 					</li>
                                         <li>
+                                                <a href="http://www.truliantfcu.org/page2.php/sid/7/aid/48">Why We're Different</a>
+                                        </li>
+                                        <li>
                                             <a href="http://www.truliantfcu.org/blog">Visit our Blog</a>
                                         </li>
 					<li>
@@ -317,15 +329,6 @@ We permit access to your information only to those employees who provide you pro
 					</li>
 					<li>
 						<a href="https://www.truliantfcu.org/contactus.php/sid/1111">Contact Us</a>
-					</li>
-					<li>
-						<a href="http://www.truliantfcu.org/page2.php/sid/10/aid/106">Dollar Dog Club House</a>
-					</li>
-                                        <li>
-						<a href="http://www.truliantfcu.org/page2.php/sid/2/aid/170">Cha-Ching for Teens</a>
-					</li>
-					<li>
-						<a href="http://www.netmpapps2.com/edge2/_truliant.asp" title="Financial Services for Young Adults">The EDGE</a>
 					</li>
 					<li>
 						<a href="http://www.truliantfcu.org/page2.php/sid/10/aid/28">Events Calendar</a>
@@ -388,13 +391,13 @@ function search_cloud(form){
 }
 
 </script>
-<script type="text/javascript" src="includes/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="includes/jquery-1.6.4.min.js"></script>
 <script type="text/javascript">
-    // Click to Chat "Specialist Unavailable" check. --Added July 12, 2010 by David Westbrooks
+    // Click to Chat "Specialist Unavailable" check. --Added July 12, 2010 by DW
     var call_disabled = true;
 
 	$(document).ready(function(){
-		if(call_disabled == true){
+		if(call_disabled == true || call_disabled != true){
 			$('.clickChat').attr('src','img/chat_unavailable.png');
             $('.chatlink').attr('href','http://www.truliantfcu.org/page2.php/sid/14');
             $('.chatlink').attr('onclick', '');
