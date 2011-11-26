@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxbrain.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231125918id_/http%3A//www.taxbrain.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxbrain.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126041408id_/http%3A//www.taxbrain.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Taxbrain® | Privacy Policy
 
@@ -62,7 +62,7 @@ A "cookie" is a small piece of information that our Web sites may provide to a u
 Like most standard Web site servers we use log files. With or without cookies, our Web site keeps track of usage data, such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. We use this data to better understand Web site usage in the aggregate so that we know what areas of our Web site users prefer. This information is stored in log files and is used for aggregated and statistical reporting. We also record your IP address as is required by the IRS. This IP address would only be released if ordered by a US court of law.
 
 **Legal Disclaimer**  
-We reserve the right to disclose your personally identifiable information as required by law and when we believe such disclose is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our web site. 
+We reserve the right to disclose your personally identifiable information as required by law and when we believe such disclose is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process. 
 
 Back to Top   
   
@@ -73,7 +73,7 @@ We use an outside shipping company to ship orders, and a credit card processing 
 
 **Financial Service Providers**
 
-We partner with other third party banks, such as MetaBank ("META"), to provide specific financial services. When users sign up for these particular services, we share names, or other contact information (such as name, address, social security number and phone number) that is necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.  
+We partner with other third party banks, such as University National Bank ("Bank"), to provide specific financial services. When users sign up for these particular services, we share names or other contact information (such as name, address, social security number and phone number), along with certain tax return information, that is necessary for the third party to provide these services. The taxpayer must sign a Consent to Disclosure as required by federal law before we can disclose this information.  These third party banks may or may not use personally identifiable information for purposes other than providing these services. The taxpayer will be provided with the bank's Privacy Notice, along with information on contacting the bank to opt-out of certain uses of their information.  
 
 
 **  
