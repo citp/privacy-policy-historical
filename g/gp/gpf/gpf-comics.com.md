@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpf-comics.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629035528id_/http%3A//www.gpf-comics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpf-comics.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126052833id_/http%3A//www.gpf-comics.com/privacy.php) for the most accurate reproduction.*
 
 # GPF: Privacy Statement and Ad Info
 
@@ -32,9 +32,8 @@ There have been, in some cases, advertisers who have displayed ads on our site t
 
 Each advertiser usually maintains their own privacy policies and procedures. For your convenience, we've included links to their privacy pages here:
 
-  * [ADSDAQ/ContextWeb Privacy & Security](http://www.contextweb.com/ppolicy.html)
-  * [Burst Media Privacy Statement](http://www.burstmedia.com/isl/index.asp?page=privacy)
-  * [Google Privacy Policy](http://www.google.com/privacypolicy.html)
+  * [ContextWeb Privacy & Security](http://www.contextweb.com/privacy_policy)
+  * [Google Privacy Policy](http://www.google.com/privacy/privacy-policy.html)
   * [Project Wonderful Privacy Policy](http://www.projectwonderful.com/privacypolicy.php)
 
 
