@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explorerforum.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528192811id_/http%3A//www.explorerforum.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorerforum.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126094417id_/http%3A//www.explorerforum.com/policy.htm) for the most accurate reproduction.*
 
 # Serious Explorations Privacy Policy February 28
 
@@ -52,6 +52,3 @@ correct such data if it is inaccurate and delete it, when reasonably possible.
 * Google's use of the DART cookie enables it to serve ads to Serious Explorations users based on your visit to this site and other sites on the Internet. 
 
 * You may opt out of the use of the DART cookie by visiting the Google ad and content [network privacy policy](http://www.google.com/privacy_ads.html). 
-
-For more information about our privacy practices send a Private Message to "Rick" on the www.explorerforum.com   
-message board.
