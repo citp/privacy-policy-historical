@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lehighvalleylive.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602133330id_/http%3A//www.lehighvalleylive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lehighvalleylive.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126150700id_/http%3A//www.lehighvalleylive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - lehighvalleylive.com
 
@@ -51,6 +51,10 @@ This Website is not intended for use by children, especially those under age 13.
 If your children disclose information about themselves in publicly accessible areas of the Website, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. 
 
 If you're worried about your children's activities or their privacy on our site, we encourage you to contact our Privacy Policy Coordinator as described below. 
+
+* **NEWS REGISTRY**
+
+This Web site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at <http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx> for further information. 
 
 * **PRIVACY POLICY COORDINATOR**
 
