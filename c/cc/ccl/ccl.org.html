@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ccl.org privacy policy that was archived on 2011-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110528164420id_/http%3A//www.ccl.org/leadership/utilities/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ccl.org privacy policy that was archived on 2011-11-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111126093602id_/http%3A//www.ccl.org/leadership/utilities/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//w3c//dtd xhtml 1.0 transitional//en" "http://www.w3.org/tr/xhtml1/dtd/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Commitment - Center for Creative Leadership</title>
@@ -18,10 +18,50 @@
 <script type="text/javascript" src="/leadership/includes/SWFObject2.js"></script>
 <script type="text/javascript" src="/leadership/includes/header/shopMenu.js"></script>
 <script type="text/javascript" src="/leadership/multimedia/JWplayer/jwplayer.js"></script>
-<script type="text/javascript" src="/leadership/includes/jquery.fancybox-1.3.4.pack.js"></script>
-<script type="text/javascript" src="/leadership/includes/jquery.qtip.min.js"></script>
-<link rel="stylesheet" type="text/css" href="/leadership/includes/style/fancybox/fancybox-1.3.4.css" media="screen">
 <link rel="stylesheet" type="text/css" href="/leadership/includes/style/qtip/jquery.qtip.css" media="screen">
+<script type="text/javascript" src="/leadership/includes/jquery.qtip.min.js"></script>
+<script src="/leadership/includes/jquery.fancybox-1.3.4.pack.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="/leadership/includes/style/fancybox/fancybox-1.3.4.css" media="screen">
+
+<script type="text/javascript">
+
+//fancybox setup
+$(document).ready(function() {
+
+	$("a.fancy").fancybox({'titlePosition'	: 'over' });
+			
+	$("a[rel=fancy_group]").fancybox({
+		'transitionIn'	: 'none',
+		'transitionOut'	: 'none',
+		'titlePosition'	: 'over',
+		'titleFormat'	: function(title, currentArray, currentIndex, currentOpts) {
+			return '<span id="fancybox-title-over">Image ' + (currentIndex + 1) + ' / ' + currentArray.length + (title.length ? ' &nbsp; ' + title : '') + '</span>';
+			}
+	});
+    $(".fancybox").fancybox({ 'hideOnContentClick': false, 'showCloseButton': true });
+    $(".fancybox-iframe-large-wide").fancybox({ 'type': 'iframe', 'width': 1024, 'height': 675 });
+    $(".fancybox-iframe-large").fancybox({ 'type': 'iframe', 'width': 750, 'height': 675 });
+    $(".fancybox-iframe-medium").fancybox({ 'type': 'iframe', 'width': 500, 'height': 400 });
+    $(".fancybox-iframe-small").fancybox({ 'type': 'iframe', 'width': 400, 'height': 300 });
+    $(".fancybox-iframe-narrow").fancybox({ 'type': 'iframe', 'width': 360, 'height': 600 });
+    $(".fancybox-iframe-medium-tall").fancybox({ 'type': 'iframe', 'width': 600, 'height': 650 });
+	$(".fancybox-iframe-standard").fancybox({'width': 760, 'height': 560, 'autoScale': false, 'type': 'iframe' });	
+});
+
+function fancyClose() {jQuery("a#fancybox-close").trigger("click");} 
+</script>
+<script src="/leadership/includes/jquery-ui-1.8.11.custom.min.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="/leadership/includes/Style/redmond/jquery-ui-1.8.11.custom.css" media="screen">
+
+<style>
+  .ui-widget-overlay    
+  {
+    opacity: .65 !important; 
+    filter: Alpha(Opacity=65) !important;    
+    background-color: rgb(50, 50, 50) !important; 
+  } 
+</style>
+
 <!--[if IE 7]>
 <style>
 #nav li ul{margin-left:-68px;}
@@ -54,17 +94,17 @@
 <table cellpadding="0" cellspacing="0" border="0" id="utilityBarItems">
 <tbody><tr valign="top">
 
-<td class="UBI"><a href="/leadership/secure/myCCL/login.aspx"><img id="header_utility_myCCLLogo" class="myCCLIcon" src="/leadership/images/header/myCCLLogoT2.gif" alt="myCCL" border="0"></a>
+<td class="UBI"><a href="/leadership/secure/login.aspx"><img id="header_utility_myCCLLogo" class="myCCLIcon" src="/leadership/images/header/myCCLLogoT2.gif" alt="myCCL" border="0"></a>
 <div class="welcome"><span id="header_utility_MyCclWelcome_myCCLWelcomeLabel"><strong>Welcome Guest!</strong></span></div></td>
 
-<td class="UBI"><div id="myCCL"><a href="/leadership/secure/myCCL/login.aspx?authstat=N">Log In</a> | <a href="/leadership/secure/myccl/profile/editProfile.aspx">Join</a> | <a href="/leadership/secure/myccl/profile/myCCLBenefits.aspx">About</a></div></td>
+<td class="UBI"><div id="myCCL"><a href="/leadership/secure/login.aspx?authstat=N">Log In</a> | <a href="/leadership/secure/myccl/Create.aspx">Join</a> | <a href="/leadership/secure/myccl/profile/myCCLBenefits.aspx">About</a></div></td>
 
 <td class="UBI"></td><!--//blank span for error on id//-->
 
 <td class="UBI"><div id="header_utility_shoppingDiv">
 <div id="shopNav">
 <ul>
-<li><a href="/leadership/capabilities/europe/services.aspx">Shop...</a>
+<li><a href="/leadership/publications/index.aspx">Shop...</a>
 	<ul>
 	<li><a href="/leadership/programs/summaries.aspx">Programs</a></li>
 	<li><a href="/leadership/publications/index.aspx">Bookstore</a></li>
@@ -90,6 +130,7 @@
 </div>
 </div>
 
+
 <div id="printLogo"><img src="/leadership/images/header/printLogo.jpg" alt="Center for Creative Leadership" id="printImage"></div>
 
 <!--//top part of header//-->
@@ -97,7 +138,7 @@
 <a name="top"></a>
 <a href="/leadership/index.aspx"><img src="/leadership/images/header/CCLLogo.jpg" alt="Center for Creative Leadership" id="logo"></a>
 <div id="worldwideLink">Select a region below.<br>
-<a href="/leadership/index.aspx" id="worldwideMenu" rel="worldwide"><img src="/leadership/images/header/worldwide.jpg" alt="Worldwide"></a></div>
+<img src="/leadership/images/header/worldwide.jpg" alt="Worldwide" id="worldwideMenu" rel="worldwide"></div>
 
 <div class="displayNone">
 <div id="worldwide">
@@ -134,7 +175,6 @@
 	<li><a href="/leadership/news/index.aspx" class="category">Newsroom</a>
 		<ul>
 		<li class="top"><a href="/leadership/news/index.aspx">Latest Releases</a></li>
-		<li><a href="/leadership/news/current.aspx">News Releases</a></li>
 		<li><a href="/leadership/news/overview.aspx">CCL in the News</a></li>
 		<li class="bottom"><a href="/leadership/news/experts/index.aspx">Expert Source Directory</a></li>
 		</ul>
@@ -193,7 +233,7 @@
 </li>
 <li id="liTwo"><a href="/leadership/solutions/index.aspx">Customized Services</a>
 	<ul>
-	<li><a href="/leadership/solutions/index.aspx" class="category">Overview</a>
+	<li><a href="/leadership/solutions/index.aspx" class="category">The CCL Advantage</a>
 		<ul>
 		<li class="top"><a href="/leadership/solutions/index.aspx">Why Customize?</a></li>
 		<li><a href="/leadership/solutions/customSolutions.aspx">Benefits</a></li>
@@ -204,7 +244,7 @@
 	<li><a href="/leadership/solutions/change.aspx">Transforming Your Organization</a></li>
 	<li><a href="/leadership/solutions/customized.aspx">Customized Programs</a></li>
 	<li><a href="/leadership/solutions/impact.aspx">Impact Evaluation Services</a></li>
-	<li><a href="/leadership/solutions/industrySpecific.aspx" class="category">Industry-Specific<br>Services</a>
+	<li><a href="/leadership/solutions/industrySpecific.aspx" class="category">Government &amp; Industry-Specific Services</a>
 		<ul>
 		<li class="top"><a href="/leadership/landing/education/index.aspx">Education</a></li>
 		<li><a href="/leadership/landing/government/index.aspx">Government</a></li>
@@ -232,7 +272,7 @@
 	<li><a href="/leadership/programs/index.aspx">Overview</a></li>
 	<li><a href="/leadership/programs/summaries.aspx">Find a Program</a></li>
 	<li><a href="/leadership/programs/onSiteDelivery.aspx">On-Site Programs</a></li>
-	<li><a href="/leadership/about/testimonials.aspx">Alumni Profiles</a></li>
+	<li><a href="/leadership/about/testimonials.aspx">Alumni Testimonials</a></li>
 	<li class="bottom"><a href="/leadership/about/gsa.aspx">GSA Training Schedule</a></li>
 	</ul>
 </li>
@@ -262,7 +302,7 @@
 		<li><a href="/leadership/publications/topSelling.aspx">Top-Selling Titles</a></li>
 		<li><a href="/leadership/forms/publications/publicationDigitalListing.aspx?pageId=9004">eBooks</a></li>
 		<li><a href="/leadership/services/labs.aspx">CCL Labs</a></li>
-		<li><a href="/leadership/lia/index.aspx">LiA - Leadership in Action Periodical</a></li>
+		<!--//<li><a href="/leadership/lia/index.aspx">LiA - Leadership in Action Periodical</a></li>//-->
 		<li><a href="/leadership/forms/publications/publicationListing.aspx?pageId=1072">Publication Alpha Listings</a></li>
 		<li class="bottom"><a href="/leadership/forms/publications/publicationIndex.aspx">Publication Categories</a></li>
 		</ul>
@@ -308,8 +348,8 @@
 	<li><a href="/leadership/community/newsletters.aspx" class="category">CCL Newsletters &amp; RSS</a>
 		<ul>
 		<li class="top"><a href="/leadership/community/newsletters.aspx">Complete List</a></li>
-		<li><a href="/leadership/enewsletter/index.aspx"><em>Leading Effectively</em></a></li>
-		<li><a href="/leadership/pubsAlert/index.aspx"><em>Publications Alert</em></a></li>
+		<li><a href="/leadership/enewsletter/current.aspx"><em>Leading Effectively</em></a></li>
+		<li><a href="/leadership/pubsAlert/current.aspx"><em>Publications Alert</em></a></li>
 		<li><a href="/leadership/capabilities/asia/lead.aspx"><em>LEAD</em> - Asia Newsletter</a></li>
 		<li><a href="/leadership/secure/profile/subscriptionForm.aspx">Subscription Management Form</a></li>
 		<li><a href="/leadership/podcast/index.aspx">Podcasts / RSS</a></li>
@@ -353,6 +393,91 @@
 <!--//email page to a friend//-->
 
 
+
+<div id="ShareSaveWrapper">
+  
+
+<style type="text/css">
+.addthis_toolbox .vertical .addthis_button_facebook_like iframe{width:46px !important;}
+.addthis_toolbox .vertical {
+    background: #fff;
+    width: 76px;
+	text-align:center;
+    padding: 1px;
+    border: 3px solid #eee;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.addthis_toolbox .vertical a {
+    position: relative;
+    display: block;
+    background: #fff;
+	text-align:center;
+    padding:4px;
+    text-decoration: none;
+    color: #00bff3;
+}
+
+.addthis_toolbox .vertical a:hover {    
+    background: #f5f5f5;
+    color: #027999;
+    text-decoration: none;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+}
+
+.addthis_toolbox .vertical span {
+    position: absolute;
+    left: 14px;
+    top: 4px;
+}
+
+.addthis_toolbox .vertical .more {
+    border-top: solid 1px #eee;
+    padding: 10px 0 0 0;
+    margin: 10px 10px 0 10px;
+    text-align: center;
+}
+
+.addthis_toolbox .vertical .more a {
+    padding: 4px 0;
+    margin: 0;
+}
+.addthis_toolbox .vertical .more a:hover {
+    background: none;
+}
+
+.addthis_toolbox .vertical .more span {
+    display: none;
+}
+
+</style>
+
+<div id="header_ss_ctrl_addthisControl_divAddThisHorizontal" class="addthis_toolbox addthis_default_style" style=" float:right; margin-top: 7px; margin-right: 9px;">
+    <a class="addthis_button_print"></a>
+    <a class="addthis_button_google"></a>
+    <a class="addthis_button_google_plusone" g:plusone:count="false"></a>
+    <a class="addthis_button_facebook"></a>
+    <a class="addthis_button_twitter"></a>
+    <a class="addthis_button_compact"></a>
+    <a class="addthis_counter addthis_bubble_style"></a>
+</div>
+
+
+
+<script type="text/javascript">  
+  
+  var addthis_config = {
+    "data_track_clickback": true
+  } 
+   
+</script>
+
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4dfa54cc7ac2d760"></script>
+
+  
+
 <script language="javascript" type="javascript/text">
 <!--//
 function openWin(theform) {
@@ -367,12 +492,25 @@ function openCallBackWin(theform) {
 }
 //-->
 </script>
+<style type="text/css">
+    #ForwardtoFriend:hover{cursor:pointer;}
+</style>
 <div id="utilityControl">
-<div id="mediaPack"><form id="emailPage" name="emailPage" onsubmit="window.open ('/leadership/forms/utilities/emailPageForm.aspx','emailWindow','width=500,height=540,top=20,left=20,scrollbars=1,status=no');" target="emailWindow" action="/leadership/forms/utilities/emailPageForm.aspx" method="post">
-<a href="javascript:window.print();"><img src="/leadership/images/printPageBtn.gif" alt="Print Page" title="Print Page"></a> <input type="image" src="/leadership/images/forwardFriendBtn.gif" border="0" alt="Forward to a friend" title="Forward to a friend" name="emailPageBtn" id="emailPageBtn" onsubmit="openWin(this);"></form>&nbsp;&nbsp;&nbsp;
-<form id="callBackPage" name="callBackPage" onsubmit="window.open ('/leadership/forms/utilities/callMeBackForm.aspx','callBackWindow','width=500,height=540,top=20,left=20,scrollbars=1,status=no');" target="callBackWindow" action="/leadership/forms/utilities/callMeBackForm.aspx" method="post"><input type="image" src="/leadership/images/callbackBtn.gif" border="0" alt="Call me back" title="Call me back" name="emailPageBtn" id="Image1" onsubmit="openCallBackWin(this);"></form>
-<a href="/leadership/news/rss.aspx?pageId=1386"><img src="/leadership/images/rss.gif" border="0" alt="RSS Feed - XML" title="RSS Feed - XML"></a><a href="/leadership/podcast/index.aspx"><img src="/leadership/images/POD.gif" border="0" alt="Podcast Feed - XML" title="Podcast Feed - XML"></a></div>
-<br class="clear">
+  <div id="mediaPack">
+    <form id="dummy" name="dummy" action="" method="post"></form>
+      
+       <form id="callBackPage" name="callBackPage" onsubmit="window.open ('/leadership/forms/utilities/callMeBackForm.aspx','callBackWindow','width=500,height=540,top=20,left=20,scrollbars=1,status=no');" target="callBackWindow" action="/leadership/forms/utilities/callMeBackForm.aspx" method="post">
+        <input type="image" src="/leadership/images/callbackBtn.gif" style=" height:16px;" border="0" alt="Call me back" title="Call me back" name="emailPageBtn" id="Image1" onsubmit="openCallBackWin(this);">
+      </form>         
+        
+    <a href="/leadership/news/rss.aspx?pageId=1386"><img src="/leadership/images/rss.gif" height="15px" border="0" alt="RSS Feed - XML" title="RSS Feed - XML"></a>
+    <a href="/leadership/podcast/index.aspx"><img src="/leadership/images/podcast3.gif" height="15px" border="0" alt="Podcast Feed - XML" title="Podcast Feed - XML"></a>
+    <img src="/leadership/images/forwardFriendBtn.gif" width="20" height="16" border="0" alt="Forward to a Friend" id="ForwardtoFriend" title="Forward to a Friend" onclick="window.open ('/leadership/forms/utilities/emailPageForm.aspx?url=http://www.ccl.org/leadership/utilities/privacy.aspx','emailWindow','width=500,height=540,top=50,left=150,scrollbars=1,status=no');">  
+
+  </div>
+</div>
+
+  <br style=" clear:both;">
 </div>
 
 <!--//end of email page to a friend//-->
@@ -423,7 +561,7 @@ We provide constituents the opportunity to opt-out of receiving communications f
 <strong>PO Box 26300</strong><br>
 <strong>Greensboro, NC 27438-6300</strong><br>
 <strong>USA</strong></li>
-<li>Call the following telephone number: +1 336 545 2810</li></ul> 
+<li>Call the following telephone number: +1 800 780 1031</li></ul> 
 <p>To remove your email address from our electronic newsletters, please visit the <a href="/leadership/secure/profile/subscriptionForm.aspx?pageId=1199">Subscription Management page</a>.</p>
 <hr size="1" class="standardHR">
 <p><strong>Products, Programs and Assessments</strong><br>
@@ -547,7 +685,7 @@ If you have any questions about this privacy commitment, you may contact:</p>
 </th></tr>
 <tr valign="top">
 <td><strong>Phone</strong></td>
-<td>+1 336 545 2810</td>
+<td>+1 800 780 1031</td>
 <td>+32 (0) 2 679 09 10</td>
 <td>+65 6854 6000</td>
 </tr>
@@ -598,16 +736,34 @@ Singapore 118261</td>
 <div id="subFooter">
 <div class="dotted"><hr></div>
 
-<div id="mediaIcons"><a href="http://maps.secondlife.com/index.php?q=ccl&amp;s=Places" target="_blank"><img src="/leadership/images/secondLife.gif" alt="Second Life" id="secondLife"></a><a href="http://www.facebook.com/pages/Center-for-Creative-Leadership/16501652102" target="_blank"><img src="/leadership/images/facebook.gif" alt="Find us on Facebook" id="facebook"></a><a href="http://www.linkedin.com/e/gis/133936/13C5D366A49C" target="_blank"><img src="/leadership/images/linkedIn.gif" alt="Linked In" id="linkedIn"></a><a href="http://www.youtube.com/ccldotorg" target="_blank"><img src="/leadership/images/youTube.gif" alt="You Tube" id="youTube"></a></div>
+<div id="mediaIcons"><a href="http://twitter.com/CCLdotORG" target="_blank"><img src="/leadership/images/twitter.gif" alt="Twitter" id="twitter"></a><a href="http://www.facebook.com/pages/Center-for-Creative-Leadership/16501652102" target="_blank"><img src="/leadership/images/facebook.gif" alt="Find us on Facebook" id="facebook"></a><a href="http://www.linkedin.com/e/gis/133936/13C5D366A49C" target="_blank"><img src="/leadership/images/linkedIn.gif" alt="Linked In" id="linkedIn"></a><a href="http://www.youtube.com/ccldotorg" target="_blank"><img src="/leadership/images/youTube.gif" alt="You Tube" id="youTube"></a></div>
 
 <div id="subscriptionBox">
-<div id="supportCCL"><a href="/leadership/forms/community/focd/donorform.aspx"><strong>Support CCL</strong><br>
-Click here to make a donation</a></div>
+<div id="supportCCL"><a href="/leadership/forms/community/focd/donorform.aspx"><strong>Support CCL</strong><br>Click here to make a donation</a></div>
+
+
+
 <form id="subscribeForm" class="noPadding" method="get" action="/leadership/secure/profile/subscriptionForm.aspx?pageId=1199">
-<label for="tbSubscribeEmail"><span>Connect with CCL</span><br>Subscribe to our newsletters</label><br>
-<div id="subscribeBG"><input type="text" name="tbSubscribeEmail" id="tbSubscribeEmail" value="enter your email..." onfocus="clearText(this)" maxlength="50"></div><input type="submit" value="GO" id="okBtn" name="okBtn"></form><br class="clear"></div>
+    <label for="tbSubscribeEmail">
+        
+        <span>Connect with CCL</span><br>Subscribe to our e-Newsletters
+    </label>
+    <br>
+    <div id="subscribeBG">
+        <input type="text" name="tbSubscribeEmail" id="tbSubscribeEmail1655911537" value="enter your email..." onfocus="clearText(this)" maxlength="50" class="tbSubscribeEmail">
+    </div>
+    <input type="submit" value="GO" id="okBtn" name="okBtn">
+</form>
 
 <br class="clear">
+</div>
+
+<br class="clear">
+</div><!--//end of subfooter//-->
+
+<div id="specificFooter">
+<p><strong>Government and Industry-Specific resources:</strong>
+<a href="/leadership/landing/government/index.aspx?campaign=HPLINKGOVT">Government</a> | <a href="/leadership/landing/education/index.aspx?campaign=HPLINKEDU">Education</a> | <a href="/leadership/landing/healthcare/index.aspx?campaign=HPLINKHEALTH">Healthcare</a> | <a href="/leadership/landing/legal/index.aspx?campaign=HPLINKLEGAL">Legal</a> | <a href="/leadership/landing/nonprofit/index.aspx?campaign=HPLINKNP">Nonprofit</a> | <a href="/leadership/landing/pharm/index.aspx?campaign=HPLINKPHARM">Pharmaceutical</a> | <a href="/leadership/solutions/industrySpecific.aspx?campaign=HPLINKOTHER">Other</a></p>
 </div>
 
 <div id="footer">
@@ -615,7 +771,7 @@ Click here to make a donation</a></div>
 <br><div class="spacing">For contact information by global region, <a href="/leadership/contact/index.aspx">click here</a>.  &nbsp;|&nbsp; <a href="/leadership/secure/myccl/profile/editprofile.aspx"><img src="/leadership/images/register.gif" alt="Join myCCL"></a> <a href="/leadership/secure/myccl/profile/editprofile.aspx">Join myCCL</a> &nbsp;|&nbsp; <a href="/leadership/secure/myccl/profile/mycclbenefits.aspx"><img src="/leadership/images/premiumLogoIcon.gif" alt="Become a PREMIUM member"></a> <a href="/leadership/secure/myccl/profile/mycclbenefits.aspx">Become a PREMIUM member</a></div>
 
 <a href="/leadership/utilities/copyright.aspx">© Copyright 2011, Center for Creative Leadership</a>. All rights reserved. &nbsp;|&nbsp; <a href="/leadership/utilities/privacy.aspx">Privacy Statement</a>
-</div>
+</div><!--//end of footer//-->
 </div><!--//end of site section//-->
 </div><!--//end of container//-->
 
@@ -624,30 +780,14 @@ Click here to make a donation</a></div>
 _uacct = "UA-2456844-1";
 urchinTracker();
 
-//fancybox setup
-$(document).ready(function() {
-
-	$("a.fancy").fancybox({
-		'titlePosition'	: 'over'
-	});
-			
-	$("a[rel=fancy_group]").fancybox({
-		'transitionIn'	: 'none',
-		'transitionOut'	: 'none',
-		'titlePosition'	: 'over',
-		'titleFormat'	: function(title, currentArray, currentIndex, currentOpts) {
-			return '<span id="fancybox-title-over">Image ' + (currentIndex + 1) + ' / ' + currentArray.length + (title.length ? ' &nbsp; ' + title : '') + '</span>';
-			}
-	});
-});
-
 //Worldwide setup
 $(document).ready(function() {
     $('#worldwideMenu').each(function(){
         $(this).qtip({
             content: $('#worldwide'),
             show: {
-            },
+      			event: 'click mouseenter'
+			},
             hide: {
                 fixed: true,
                 delay: 180
@@ -671,7 +811,7 @@ $(document).ready(function() {
 
 <script src="/leadership/includes/header/s_code.js" type="text/javascript"></script>
 
-<script type="text/javascript">s.pageName='/utilities/privacy.aspx';s.channel='utilities';s.server='P10CWS01';s.prop1='Anonymous';s.eVar1='Anonymous';s.eVar9='Anonymous';s.eVar11='c82b540a-c02b-4e22-842f-9123503293c6';s.hier1='leadership|utilities|privacy.aspx';</script>
+<script type="text/javascript">s.pageName='/utilities/privacy.aspx';s.channel='utilities';s.server='P10CWS01';s.prop1='Anonymous';s.eVar1='Anonymous';s.eVar9='Anonymous';s.eVar11='68da4f16-c92b-4efb-a771-2954c01e2a9c';s.hier1='leadership|utilities|privacy.aspx';</script>
 
 
 <script src="/leadership/includes/analyticsInvoker.js" type="text/javascript"></script>
