@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the buffalotech.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626171659id_/http%3A//buffalotech.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buffalotech.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126075731id_/http%3A//www.buffalotech.com/about/legal-privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Buffalo Technology
+# About Buffalo - Legal | Buffalo Technology
 
-### Privacy Policy
+### Legal - _Privacy Policy_
 
 #### Buffalo Technology understands the importance of protecting your privacy.
 
