@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the leerburg.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424012927id_/http%3A//www.leerburg.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leerburg.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126100457id_/http%3A//www.leerburg.com/privacy.htm) for the most accurate reproduction.*
 
 # Leerburg | Information about our Organization and Web site
 
-**Information about our Organization and Web site**
+**Information about our  
+Organization and Website**
 
 Modern information and communication technologies play a fundamental role in the activities of an organization like Leerburg Enterprises, Inc. We are based in the USA.
 
@@ -17,9 +18,9 @@ Controller: | Ed Frawley
 Web Site: | http://leerburg.com  
 Phone | 715.235.6502  
   
-Bi-weekly Newsletter Policy 
+Newsletter Policy 
 
-**Leerburg Enterprises, Inc. sends out a bi-weekly newsletter. The following people will receive this newsletter unless they opt-out and chose not to receive it:**
+**Leerburg Enterprises, Inc. sends out a newsletter. The following people will receive this newsletter unless they opt-out and chose not to receive it:**
 
 > **1 - Customers who purchase products from Leerburg Enterprises, Inc.**
 > 
@@ -37,17 +38,17 @@ We do not sell our email lists nor do we sell our mailing lists.
 
 Providing Visitors with Anonymous Access
 
-You can access our Web site home page and browse our sites without disclosing your personal data.
+You can access our website home page and browse our sites without disclosing your personal data.
 
 The services and links of our Web sites
 
 Our web site do not enable our visitors to communicate with other visitors or to post information to be accessed by others.
 
-Our Web sites do not include links to third party Web service providers.
+Our websites do not include links to third party web service providers.
 
 Automatic Collection of Information
 
-We only use cookies for our shopping cart system & web board. They are used for the functionality of the web site and are not used to track any personal information.
+We only use cookies for our shopping cart system & webboard. They are used for the functionality of the web site and are not used to track any personal information.
 
 We do not automatically log personal data nor do we link information automatically logged by other means with personal data about specific individuals.
 
@@ -61,7 +62,7 @@ We do not collect or use personal data for any purpose other than that indicated
 
 If we wish to use your personal data for new purposes, we offer you the means to consent to those new purposes:
 
-> By sending an email - frawley@leerburg.com  
+> By sending an email - book@leerburg.com  
 >  By sending postal mail to this address - PO Box 218, Menomonie, WI 54751  
 >  By calling this telephone number - 715.235.6502
 
@@ -83,7 +84,7 @@ Disclosure and Visitor Choice
 
 We do not disclose your personal data to our subsidiaries or other organizations.
 
-Confidentiality / Security
+Confidentiality
 
 We give you the option of using a secure transmission method to send us the following types of personal data:
 
@@ -110,11 +111,18 @@ All our employees and data processors, who have access to, and are associated wi
 We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law or other regulation.  
 
 
+Security
+
+We here at Leerburg Enterprises make safety of your private information a #1 priority. Where possible we put the highest safe guards on data and adhere to all industry standards on data security. 
+
+Orders are placed through a high grade 128-bit encrypted HTTPS connection. Orders are received by Leerburg over a secure, private, encrypted connection. Some information (like your email order receipt) is transferred over email, but does not contain vital information like credit card numbers, expiration dates or CVV2 Codes. Orders are processed & fulfilled by (background-checked) employees at a secure facility in Menomonie, Wisconsin. Order Records are stored digitally on a secure server with limited access (CVV2 information is not kept past processing). Paper records are securely stored for the legal number of years required per credit card company policy. Paper records do not have credit card details printed on them. We do not store any card information past the point of processing. We are fully PCI compliant.  
+
+
 Access to the personal data we may hold about you
 
 You can ask us, by:
 
-  * Sending an email - frawley@leerburg.com  
+  * Sending an email - book@leerburg.com  
 
   * Sending postal mail to this address - PO Box 218, Menomonie, WI 54751  
 
@@ -124,7 +132,7 @@ You can ask us, by:
 
 Upon request, which you can indicate by:
 
-  * Sending an email - frawley@leerburg.com  
+  * Sending an email - book@leerburg.com  
 
   * Sending postal mail to this address - PO Box 218, Menomonie, WI 54751  
 
@@ -182,7 +190,7 @@ Address: | PO Box 218
 Menomonie, WI 54751  
 Phone Number: | 715.235.6502  
 Fax Number: | 715.235.8868  
-Email Address: | frawley@leerburg.com  
+Email Address: | book@leerburg.com  
 URL: | http://leerburg.com  
   
 We do not recommend another means by which visitors' concerns may be addressed.
