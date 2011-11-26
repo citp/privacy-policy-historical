@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gq.com.au privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425145602id_/http%3A//www.gq.com.au/extra/privacy%2Bpolicy%2C57) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gq.com.au privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126153205id_/http%3A//www.gq.com.au/extra/privacy%2Bpolicy%2C57) for the most accurate reproduction.*
 
 # Privacy Policy - GQ
 
