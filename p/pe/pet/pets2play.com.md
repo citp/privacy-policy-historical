@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pets2play.com privacy policy that was archived on 2010-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100325232552id_/http%3A//www.pets2play.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pets2play.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126051143id_/http%3A//www.pets2play.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy - Pets2play.com
 
@@ -39,3 +39,5 @@ At Pets2play.com, we establish links to other sites. As and when a user establis
 **Agreement with Pets2play.com Policies**
 
 By putting Pets2play.com to use, you express your assent to the Privacy Policy of Pets2play.com. If the policy doesn’t meet your approval, do not make use of Pets2play.com. We at Pets2play.com hold the rights towards executing changes to the policy, at time chosen as by our accord. As you make a visit to Pets2play.com each time, check with the policy section every time, so as to be sure of the changes incorporated to the policy section. 
+
+We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit http://valueclickmedia.com/member_privacy.shtml
