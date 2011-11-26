@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dvdactive.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222110041id_/http%3A//www.dvdactive.com/information/general/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdactive.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126061011id_/http%3A//www.dvdactive.com/information/general/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy in Information > General Chat at DVDActive
+# Privacy Policy - Information - DVDActive
 
 ####  Privacy Statement
 
@@ -16,7 +16,7 @@ DVDActive uses cookies to make sure you do not see the same advertisement repeat
 
 ####  Advertisers
 
-DVDActive mostly use outside advertisement companies to display advertisements. These advertisements may contain cookies and other modern technologies that are secure. Cookies may also used by our own advertisement system to allow advertisers to determine how well a particular campaign has done. While DVDActive uses cookies in other parts of the website, cookies received with banner advertisements are usually only collected by the advertisement company, and DVDActive does not have access to this information.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.dvdactive.com/external.php?url=http%3A%2F%2Fwww.networkadvertising.org%2Fmanaging%2Fopt_out.asp).
 
 In addition, this website may utilise certain services provided by DoubleClick, Inc. For further information concerning DoubleClick's privacy practices, including the ability to opt-out from any data collection, reporting and/or targeting activities associated with its services, please go [here](http://www.dvdactive.com/external.php?url=http%3A%2F%2Fwww.doubleclick.com%2Fus%2Fabout_doubleclick%2Fprivacy%2F).
 
