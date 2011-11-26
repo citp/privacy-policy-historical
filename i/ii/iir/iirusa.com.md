@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the iirusa.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519173321id_/http%3A//www.iirusa.com/privacy.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iirusa.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126160250id_/http%3A//www.iirusa.com/privacy.xml) for the most accurate reproduction.*
 
 # IIR USA - Events Deliver Business
 
 ### Web Site and Email Privacy
 
-The Institute for International Research understand that responsible care of your information is important. We are committed to looking after your data in a responsible manner. By visiting this website, you are accepting the practices described in this Privacy Notice.
+The Institute for International Research understand that responsible care of your information is important. We are committed to looking after your data in a responsible manner. By visiting this website, you are accepting the practices described in this Privacy Notice.
 
 **E-mail Communications:**
 
