@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northcountrynow.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527151234id_/http%3A//northcountrynow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northcountrynow.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126031824id_/http%3A//northcountrynow.com/privacy) for the most accurate reproduction.*
 
 # NorthCountryNow.com Privacy Notice | NorthCountryNow
 
@@ -10,7 +10,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 **The Information We Collect:**
 
-This notice applies to all information collected or submitted on the NorthCountryNow.com website. On some pages, you can place a classified ad, make requests for advertising information and submit news items, photos, links and comment. The types of personal information collected at these pages may include:
+This notice applies to all information collected or submitted on the NorthCountryNow.com website. On some pages, you can place a classified ad, make requests for advertising information and submit news items, photos, links and comment. You can also enter occasional contests. The types of personal information collected at these pages may include:
 
         Name  
         Address  
@@ -24,7 +24,9 @@ We use the information you provide about yourself when placing a classified ad o
 
 We use the information you provide when requesting advertising information or submitting news items, photos, links and comment only to confirm the identity of the submitter. We do not share this information with outside parties.
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
+We use information you submit when entering contests to pick a winnner of the contest. If at the time you enter your name in a contest you indicate you would like to receive occasional e-mails from NorthCountryNow.com featuring offers, coupons and special deals from local businesses, your name and e-mail address will be entered into a database used for that purpose. All e-mails will only be sent by NorthCountryNow.com and your name and identifying information will not be shared with other businesses or organizations.
+
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women entered our contest or took our survey, but we would not disclose anything that could be used to identify those individuals.
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
