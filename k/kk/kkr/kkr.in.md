@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kkr.in privacy policy that was archived on 2010-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100414013312id_/http%3A//www.kkr.in/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kkr.in privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126102050id_/http%3A//kkr.in/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Kolkata Knight Riders - Privacy Policy
+# Kolkata Knight Riders
 
-## Privacy Policy
+## privacy policy
 
 This website is the official website of Kolkata Knight Riders which is owned, operated and managed by "Knight Riders Sports Private Limited"
 
