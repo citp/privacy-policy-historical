@@ -1,46 +1,69 @@
-> *The following text is extracted and transformed from the army.com privacy policy that was archived on 2010-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100119033512id_/http%3A//www.army.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the army.com privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126152341id_/http%3A//www.army.com/site/privacy) for the most accurate reproduction.*
 
-# Army.com - Advertising
+# Privacy Statement | Army. @ Army.com
 
-Activv recognizes the importance of maintaining your privacy. We value your privacy and appreciate your trust in us. 
+FanMail.com, L.L.C. ("FanMail.com"), takes your privacy seriously. Please read the information below to find our more about our privacy practices.
 
-**Information Collected:**
+**What this document covers:**
 
-All data is processed and stored in Huntsville, Alabama, USA. 
+1\. What personally identifiable information FanMail.com collects.  
+2\. What personally identifiable information third parties collect through the website.  
+3\. What organization collects the information.  
+4\. How FanMail.com uses the information.  
+5\. With whom FanMail.com may share user information.  
+6\. What choices are available to users regarding collection, use and distribution of the information.  
+7\. What types of security procedures are in place to protect the loss, misuse or alteration of information under FanMail.com's control.  
+8\. How users can correct any inaccuracies in the information. 
 
-The information that we collect from you helps us to continually personalize and improve upon your Activv shopping experience. You have the option not to provide certain information, however, withholding information may prevent you from being able to view content or make purchases. 
+Please note:  
+This policy does not apply to the practices of other companies that FanMail.com does not own or control, or people that FanMail.com does not employ or manage.
 
-This section of our privacy policy applies to all information collected by or submitted to Activv. 
+**Information Collection and Use  
+General**  
+FanMail.com collects personal information when you signup for a FanMail.com account. We may combine this information about you with information from other business partners or companies.
 
-When you visit our site, we collect some data about you including your IP address. Your IP address is used for Activv internal use only and helps us diagnose problems with our server and administer our web site. We also automatically track certain information about your activities on our web site. We use this information to do internal research on your interests and to help us better understand and serve you. This information may include click stream data and what browser you are using. 
+**Children**  
+FanMail.com is concerned about the safety and privacy of all its users, particularly children. For this reason, parents of children under the age of thirteen (13) who wish to allow their children access to the FanMail webmail and forwarding service must create a FanMail.com in their name, and then grant the child access to the account. FanMail.com recommends that the parent supervise and monitor their child's access to the account. Accordingly, as the legal guardian, it is your responsibility to determine whether any of the services provided are appropriate for your child.
 
-**Use of Information:**
+**Registration**  
+When you register for an account we collect information such as your name, email address, street address, gender, birth date, occupation, industry, and personal interests. It is optional for the user to provide demographic information (such as occupation and gender), and personal interests (such as hobbies), but encouraged so displayed items of interest can be oriented to the user.
 
-To carry out certain business functions, such as order fulfillment or e-mail delivery, we sometimes hire other companies to perform these functions on our behalf. These companies have access to the information needed to perform their functions, but are required to keep it secure and confidential and not use it for any other purpose than completing their contractual requirements to Activv. 
+**Cookies**  
+A cookie is a piece of data stored on the user's computer tied to information about the user. We use both session ID cookies and persistent cookies. The session ID cookies terminate once the browser is closed and the persistent cookies will simply terminate after a given period of time or they may be removed prior to their expiration by following the Internet browser help file directions. If users reject the cookie they still may use our site. The only drawback is that the user may be limited in some areas of the site.
 
-Any billing information you submit is used in billing for the specific transaction in which the information was submitted unless otherwise disclosed. Billing information is stored for a time on our secure servers to allow the processing of refunds or to respond to customer inquiries. 
+Some of our business partners may use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
 
-When you sign up for an account or volunteer information to Activv, we require your name and an alternate e-mail address. Your e-mail address allows us to contact you with confirmation of your account opening, order confirmations and updates and with your permission, for internal marketing purposes. When placing an order or setting up an account, Activv may also request your shipping address, telephone number, or other demographic information. This information may be combined with other personally identifiable information (such as demographic information and past purchase history) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. With your permission, it may also be used by our marketing partners to bring you offers of interest. 
+**Log Files**  
+Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use.
 
-Activv may use aggregate, non-personally identifying information for purposes that we deem necessary. For instance, we will use this non-identifying and aggregate information to better design our web site and to share with advertisers for marketing and promotional purposes. However, in these instances we do not disclose anything that could be used to identify you. We do not use or share the personally identifiable information provided to us online in ways unrelated to the ones described herein without providing you an opportunity to opt-out of such operations. 
+**Communications from the Site  
+Service Announcements**  
+On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.
 
-It is possible that in the future Activv or its assets may be acquired by another company. It is also possible that Activv may partner with or purchase another company to continue to do business as a combined entity. In the event that this occurs, it is possible that our customer information may be transferred to the new business entity as one of Activv’s assets. 
+**Customer Service**  
+We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.google.com/privacy_ads.html)
+**Information Sharing and Disclosure**  
+FanMail.com does not rent, sale or share information about you with other people or non-affiliated companies except to provide the services you have requested, when we have your permission or under the following circumstances:
 
-While extremely rare, it is our policy to cooperate with law enforcement or other official investigations if we receive an official request for information pertaining to an on-going investigation. 
+We will share aggregated demographic information with our partners and advertisers. This demographic information is not linked to any personal information that can identify any individual person.
 
-You may request deletion of your Activv account by contacting Customer Service at customerservice@activv.com. Please note that some information may possibly remain in our archived records after your account has been deleted. 
+Registration information may be shared with the owner of the Web site ("Affiliate") through which you may have registered for your account with us. Please refer to the Affiliate's Web site or contact the Affiliate to determine the privacy policy, if any, that applies to the Affiliate's use of such information.
 
-You may also request to be removed from our mailing lists by writing to: 
+**Legal Disclaimer**  
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process, or to establish or exercise our legal rights or defend against legal claims.
 
-Activv, LLC   
-228 Holmes Avenue  
-Suite 221  
-Huntsville, Alabama 35801  
-USA 
+**Links**  
+This web site contains links to other sites. Please be aware that FanMail.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by FanMail.com.
 
-**Changes to this Privacy Policy:**
+**Security**  
+This website takes every precaution to protect our users' information. Your account information is password protected. FanMail.com limits the employee access to your personal information to those we believe reasonably need to come in contact with that information in order to provide the products and services to you or to do their jobs.
 
-This privacy policy was last modified on March 13, 2009. Activv may revise this policy from time to time. If we make substantial changes, we will post those amendments so that you are aware of the changes.   
+**Correcting/Updating/Deleting/Deactivating Personal Information**  
+If a user's personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can usually be done through the member's section of our website, [www.FanMail.com](http://www.fanmail.com/ "www.FanMail.com"), or by emailing our Customer Support at [customer-support@fanmail.com](mailto:customer-support@fanmail.com).
 
+**Notification of Changes**  
+FanMail.com may update this policy from time to time. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address specified in your FanMail.com account or by placing a prominent notice on our site.
+
+**Questions and Suggestions**  
+If you have any questions or suggestions regarding our privacy policy please email us at [customer-support@fanmail.com](mailto:customer-support@fanmail.com). 
