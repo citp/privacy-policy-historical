@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karoo.co.uk privacy policy that was archived on 2011-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110404225453id_/http%3A//www.karoo.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karoo.co.uk privacy policy that was archived on 2011-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111126052753id_/http%3A//www.karoo.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Karoo - Privacy Policy
 
@@ -125,8 +125,7 @@ SK9 5AF
 
 Tel: 01625 545700  
 Fax: 01625 524510  
-Website: [www.dataprotection.gov.uk](http://www.dataprotection.gov.uk/ "Data protection")  
-Email: [mail@dataprotection.gov.uk](mailto:mail@dataprotection.gov.uk "Data Protection")
+Website: [www.ico.gov.uk](http://www.ico.gov.uk/ "Information Commissioner's Office")
 
 back to top
 
