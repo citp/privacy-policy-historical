@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the cooperhewitt.org privacy policy that was archived on 2011-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110128052724id_/http%3A//www.smithsonian.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooperhewitt.org privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127042514id_/http%3A//smithsonian.org/privacy) for the most accurate reproduction.*
 
 # Privacy Smithsonian
 
-## Smithsonian Institution's Privacy Statement
-
 ### Overview
 
-Thank you for visiting the Smithsonian Institution network of Websites and reviewing our privacy policy. The Smithsonian will use that information to respond to your message and to help us get you the information you have requested.
+Thank you for visiting the Smithsonian Institution network of Websites and reviewing our privacy policy. The Smithsonian Institution does not collect personal information about visitors to our Website unless you choose to provide that information to us. The Smithsonian will use that information to respond to your message and to help us get you the information you have requested.
 
-This privacy policy applies to the online activities of the Smithsonian Institution, except for Smithsonian Enterprises websites (goSmithsonian, Smithsonian Magazine, Air & Space Magazine, Smithsonian Store, and Smithsonian Journeys). Consult those websites for the Smithsonian Enterprises privacy policy. For off-line activities, the Smithsonian Institution has prepared Privacy Impact Assessments for systems that collect, maintain, or disseminate information in identifiable form from or about members of the public. These documents can be found at: [http://www.si.edu/privacyimpact ](http://www.si.edu/privacyimpact)
+This privacy policy applies to the online activities of the Smithsonian Institution, except for Smithsonian Enterprises websites (goSmithsonian, Smithsonian Magazine, Air & Space Magazine, Smithsonian Store, and Smithsonian Journeys). Consult those websites for the Smithsonian Enterprises privacy policy. For off-line activities, the Smithsonian Institution has prepared Privacy Impact Assessments for systems that collect, maintain, or disseminate information in identifiable form from or about members of the public. These documents can be found at: <http://www.si.edu/Privacy/privacyimpact>. Smithsonian Institution Privacy Program Guidance documents can be found at <http://www.si.edu/Privacy/privacyprogram>. 
 
 ### Information Collected and Stored Automatically
 
@@ -39,6 +37,8 @@ The Smithsonian uses outside vendors to provide certain services on our behalf, 
 
 There may be sites within the Smithsonian’s network of Websites where you can opt-in to receive information from non-Smithsonian entities. If you opt-in, you may receive correspondence from these organizations on programs, products or services that might interest you. If you decide to opt-out of receiving any further correspondence from a non-Smithsonian entity, please correspond directly with that business or organization to be removed from their mailing list.
 
+Please note that the Smithsonian may also provide your information to: (1) a Federal, State, or local law enforcement agency if the Smithsonian becomes aware of a violation or potential violation of law or regulation; (2) a court or party in a court or Federal administrative proceeding if the Smithsonian is a party or in order to comply with a subpoena; (3) a member of the public in response to his or her request for Smithsonian records under Smithsonian Directive 807, available at www.si.edu/ogc; (4) the Department of Justice or in certain legal proceedings when the Smithsonian, an employee of the Smithsonian, or the United States is a party to litigation or has an interest in the litigation and the use of such records is deemed relevant and necessary to the litigation; (5) Smithsonian officials, including the Inspector General, as needed to perform official duties; (6) a Committee of Congress in response to a formal request; and (7) any other person or entity as required by law.
+
 ### Security
 
 The Smithsonian is committed to ensuring that its IT systems, applications and information technology infrastructure are secured. The Smithsonian requires credit card processing be secured based on compliance to Payment Card Industry (PCI) standards. When you use your credit card for any purchase at the Smithsonian’s network of Web sites, that transaction is always encrypted when traveling over the Internet.
@@ -51,4 +51,4 @@ Within the Smithsonian’s Website there are links and widgets to non-Smithsonia
 
 ### Comments
 
-The Smithsonian is a large organization with many people sharing responsibility for the content of our Website. Please help us respond to your comments and inquiries by sending them to the appropriate Smithsonian office. Consult our special Web page to help you determine where to send your inquiry at <http://smithsonian.org/contacts>. If you have questions about this Privacy Policy, please contact us via email at [Privacy@si.edu](mailto:privacy@si.edu).
+The Smithsonian is a large organization with many people sharing responsibility for the content of our Website. Please help us respond to your comments and inquiries by sending them to the appropriate Smithsonian office. Consult our special Web page to help you determine where to send your inquiry at <http://smithsonian.org/contacts>. If you have questions about this Privacy Statement, please contact us via email at [Privacy@si.edu](mailto:privacy@si.edu).
