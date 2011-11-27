@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syskay.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613094944id_/http%3A//www.syskay.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syskay.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127041954id_/http%3A//syskay.com/privacy.html) for the most accurate reproduction.*
 
 # Syskay Systems Privacy Policy
 
