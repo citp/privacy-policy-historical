@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eorthopod.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614203417id_/http%3A//www.eorthopod.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eorthopod.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127125952id_/http%3A//www.eorthopod.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy | eorthopod.com
 
