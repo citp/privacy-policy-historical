@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kualo.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530044128id_/http%3A//www.kualo.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kualo.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127045952id_/http%3A//kualo.com/home/privacy) for the most accurate reproduction.*
 
 # Kualo Web Hosting - Privacy Policy
 
@@ -25,3 +25,5 @@ We will never collect sensitive information about you without your explicit cons
 The personal information which we hold will be held securely in accordance with our internal security policy and the law.
 
 We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings. If you have any questions/comments about privacy, you should [contact us](https://web.archive.org/home/contact).
+
+We reserve the right to use re-marketing techniques as part of our online advertising strategy. Third party vendors, including Google, may show our ads ads on sites on the internet based on your recent visit to our web site. You may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html).
