@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ebillity.com privacy policy that was archived on 2011-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110312012050id_/http%3A//www.ebillity.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebillity.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127042601id_/http%3A//www.ebillity.com/privacy-policy) for the most accurate reproduction.*
 
-# eBillity - Privacy Policy
+# Privacy Policy - Time Billing Software - ebillity.com
 
-This is the Privacy Policy of the **e Billity** website (the "Site"), operated by Boston Billing Solutions (together with our affiliates and subsidiaries, "Boston Billing Solutions", "we", "us", "our" and terms of similar meaning) and our related products and services. It describes the information that we collect from you as part of the normal operation of our Site, and how we use and disclose this information.
+This is the Privacy Policy of the **e Billity** website (the "Site"), operated by eBillity (together with our affiliates and subsidiaries, "eBillity", "we", "us", "our" and terms of similar meaning) and our related products and services. It describes the information that we collect from you as part of the normal operation of our Site, and how we use and disclose this information.
 
 By accepting the Privacy Policy in registration or by visiting and using the Site, you expressly consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to our Terms of Use.
 
@@ -32,7 +32,7 @@ We will not sell or rent your personally identifiable information to third parti
 
 Subscribers and Customers, Etc. In the normal operation of the Site Subscriber timesheets (including information entered by "staff" members) and invoices are disclosed to the applicable Customers, and Customer information is disclosed to the applicable Subscriber. In general, information you enter on the Site is available to the other persons - whether they are Customers, Subscribers, staff members or others - to whom you give access to your account or to whom you give access to the information through the normal operation of the Site. 
 
-**Payment Information:** We use credit card and other payment information (such as PayPal email addresses) you submit to us on the Site to process payments you make through the Site. We do not store credit card or other payment method information unless the Subscriber or their Customers choose to enter credit card information for use in the Boston Billing Solutions recurring profiles module; in all other cases financial institutions (like **PayPal** , **Authorize.net** and **PSiGate** ) have the sole and complete responsibility for the storage of credit card and payment information. 
+**Payment Information:** We use credit card and other payment information (such as PayPal email addresses) you submit to us on the Site to process payments you make through the Site. We do not store credit card or other payment method information unless the Subscriber or their Customers choose to enter credit card information for use in the eBillity recurring profiles module; in all other cases financial institutions (like **PayPal** , **Authorize.net** and **PSiGate** ) have the sole and complete responsibility for the storage of credit card and payment information. 
 
 Anonymized Aggregated Data. We aggregate and anonymize sales information including (but not limited to) industry type, number of invoices sent, average invoice size, method of sending invoices, percentage paid online, sales amounts and average sale per customer, and disclose such information in a non-personally identifiable manner to Subscribers. However, in these situations, we do not disclose any information that could be used to identify you personally.
 
@@ -42,7 +42,7 @@ In order to facilitate the services provided by the Site, the Site allows you in
 
 ##### Security
 
-Boston Billing Solutions strives to protect your personal information. For security of transactions, we use the Secure Sockets Layer (SSL) protocol, which encrypts any information, such as credit card number and billing information, you send to us electronically. The encryption process protects your information, by scrambling it before it is sent to us from your computer. After Boston Billing Solutions receives your transmission, we make commercially reasonable efforts to ensure its security on our system. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot warrant the security of any information you transmit to us. More information about security is available on the Site and in our Terms of Use.
+eBillity strives to protect your personal information. For security of transactions, we use the Secure Sockets Layer (SSL) protocol, which encrypts any information, such as credit card number and billing information, you send to us electronically. The encryption process protects your information, by scrambling it before it is sent to us from your computer. After eBillity receives your transmission, we make commercially reasonable efforts to ensure its security on our system. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, we cannot warrant the security of any information you transmit to us. More information about security is available on the Site and in our Terms of Use.
 
 ##### Other Information Collectors
 
@@ -50,4 +50,4 @@ Except as otherwise expressly included in this Privacy Policy, this document onl
 
 ##### Questions?
 
-It is our goal to make our privacy practices easy to understand. If you have questions, concerns or if you would like more detailed information, please email our privacy officer at privacy[at] [eBillity.com](https://web.archive.org/web/20110312012050id_/http://www.ebillity.com/contact-us.html)
+It is our goal to make our privacy practices easy to understand. If you have questions, concerns or if you would like more detailed information, please email our privacy officer at privacy[at] [eBillity.com](https://web.archive.org/web/20111127042601id_/http%3A//www.ebillity.com/contact-us)
