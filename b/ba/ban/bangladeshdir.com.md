@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangladeshdir.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528124914id_/http%3A//www.bangladeshdir.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangladeshdir.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127042943id_/http%3A//www.bangladeshdir.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
