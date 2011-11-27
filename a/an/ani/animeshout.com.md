@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the animeshout.com privacy policy that was archived on 2010-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100129032910id_/http%3A//www.animeshout.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeshout.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127091444id_/http%3A//www.animeshout.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy .
+# Privacy Policy »
 
 AnimeShout understands the importance of privacy and respects each and every visitor’s rights, that’s why this privacy policy was adapted. This Privacy Policy lets you know how your personal information is processed and used.
 
-**What kind of information is collected?**
+ **What kind of information is collected?**
 
 Every computer connected to the Internet is given a domain name and a set of numbers that serve as that computer’s “Internet Protocol”, or IP address. The IP address reveals nothing personal afbout you other than the IP address from which you have accessed our site. We use this information to examine our traffic data, and to investigate misuse of ANIMESHOUT.COM, its users, or to cooperate with law enforcement.
 
@@ -12,13 +12,13 @@ From time to time, ANIMESHOUT.COM or its advertisers may send a “cookie” to 
 
 Additionally, every once in a while we question reader’s on our front page via survey. This survey is sometimes used to further explore reader preferences and content they might like to see in the future. This is used to better enhance the content of our site and to attract newcomers as well.
 
-**Registration:**
+ **Registration:**
 
 ANIMESHOUT.COM does not require its visitors to register to view content. Registration on ANIMESHOUT.COM is used for visitors to post their thoughts and opinions on selected content. These comments are moderated for the safety of the visitors of this site. Registration is free, and the only contact information collected is the users e-mail address to send notification of the services of ANIMESHOUT.COM by e-mail. No personal information is collected.
 
 Registration on the Forums will lead to us having only personal information that you have entered. ANIMESHOUT.COM will NOT use this information in anyway or sell onto third parties for profit, We collect this information to ensure that users are getting the best out of our forums.
 
-**Third Parties:**
+ **Third Parties:**
 
 Third Party websites may collect information from users of ANIMESHOUT.COM. This information will include your IP address, hostname, and information about your system to help serve you better. These are purely used for statistical reasons, unless required by law.
 
