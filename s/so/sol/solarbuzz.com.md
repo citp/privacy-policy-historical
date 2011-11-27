@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the solarbuzz.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530010210id_/http%3A//www.solarbuzz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarbuzz.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127100916id_/http%3A//www.solarbuzz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Solarbuzz
+
+  * [](https://web.archive.org/printmail/239 "Send this page by e-mail.")
+  * [](https://web.archive.org/printpdf/239 "Display a PDF version of this page.")
+  * 
+
 
 Solarbuzz® respects your privacy and protects your personally identifiable information.  This statement outlines our privacy policy as it applies to our Solarbuzz.com website.
 
