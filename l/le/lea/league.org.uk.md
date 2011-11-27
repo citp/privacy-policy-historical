@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the league.org.uk privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530023527id_/http%3A//www.league.org.uk/content.ASpx%3FCategoryID%3D385) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the league.org.uk privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127145617id_/http%3A//www.league.org.uk/content.ASpx%3FCategoryID%3D385) for the most accurate reproduction.*
 
-# League Against Cruel Sports - Privacy Policy
+# 
 
 **Statement of intent  
 **The League Against Cruel Sports may ask you to submit personal information about yourself (such as your name and email address) in order for you to receive or use services provided by or for by the League. The services include newsletters and competitions, campaign appeals, personalised services and receiving further information relating to the League. Whenever you provide personal information we will treat that information in accordance with this privacy policy. The League will act in accordance with current legislation and aims to meet current Internet best practice. 
@@ -28,4 +28,5 @@ If you are under 18, please get your parent/guardian's permission beforehand whe
  
 
 
+  
 
