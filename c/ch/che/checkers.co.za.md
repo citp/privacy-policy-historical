@@ -1,87 +1,105 @@
-> *The following text is extracted and transformed from the checkers.co.za privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528025552id_/http%3A//www.checkers.co.za/pages/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkers.co.za privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127072736id_/http%3A//www.checkers.co.za/pages/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Client Information Processing Policy
 
-**1\. Introduction**
+The Shoprite group of companies are committed to protecting your privacy. We recognise our obligation to respect and protect the confidentiality of your personal and financial information.  For this reason we have developed this policy to govern the processing of your information.   Please read and consider this document carefully since it sets out our intended use of your personal and financial information. We require you to consent to this policy before we can render any services to you.
 
-Please read this Privacy Policy carefully as it contains important information about the use of any personal information which you provide to us. Your privacy is very important to us. We are therefore committed to protecting that privacy whenever personal information is requested from you.Provided it is reasonably possible, we will try to use or disclose your personal information only in the manner stated in this Privacy Policy.
+ **Who we are**
 
- We do, however, reserve the right to amend this Privacy Policy from time to time, in which case the amended Privacy Policy will supersede and replace any previous policies with effect from the date on which it is posted on this website. Wherever possible, we will give you notice of any changes prior to their implementation. Please visit this Privacy Policy regularly to familiarise yourself with the latest version and to understand what we can do with your personal information. This Privacy Policy forms part of the Terms and Conditions of use for this website .
+When we refer to “we”, “us” or “our” herein we are referring to Shoprite Checkers (Pty) Ltd (Registration Number 1929/001817/07) and its affiliated group companies, or any of them, as the context requires, as well as our assignees and successors in title. Our principal place of business is at cnr William Dabs and Old Paarl Roads, Brackenfell, South Africa but we recommend you contact us via our Information Compliance Office via telephone at 021 980 4652 or electronic mail at [privacy@shoprite.co.za](mailto:privacy@shoprite.co.za)
 
-**2\. Personal Information**
+ **How we collect information**
 
-Personal information refers to all information about you as an identifiable individual, including (but not limited to) your name, address, e-mail address, telephone number, and identity number.
+You recognise that in order to make use of our products and services you will have to provide us with certain information pertaining to you, failing which we may not be able to render such products or services to you. However, the choice of providing us with information remains yours at all times. We may collect information about you as follows:
 
-**3\. Your Consent**
+(a)    From you, including when you apply for our services, submit forms, requests or transactions, use our web sites or otherwise make use of our services;  
+(b)    From public registers, credit bureaus, money laundering, fraud prevention and law enforcement agencies and from your current and previous insurance companies, including for the purposes of processing your application for credit or services and to reassess your status from time to time;  
+(c)    From people and entities employed by us to provide services for us, which may include debt collection services, cheque verification services, communications services and data hosting, processing and management services;  
+(d)    From persons employed by you to provide services to you, including communications services and data hosting, processing and management services; and  
+(e)    From such other persons as you may consent to or which may be legally entitled to provide us with information about you.
 
-3.1 You do not have to give us personal information in order to visit or access the freely available sections of our web site. Some services on our web site may, however, be restricted to subscribers only (including but not limited to the placing of orders, promotional features and competitions). In order for you to use such subscriber services we will need some personal information about you. The information will be collected when you register with us or when you choose to use one of the subscriber services available via our web site.
+We may also make enquiries with anyone for the purposes of verifying the accuracy of information already given to us.
 
- 3.2 All your personal information will be collected, stored and used in accordance with this Privacy Policy and you consent to such use when you subscribe to these subscriber services.
+ **Information we may hold**
 
-**4\. Personal Information Shared**
+We may record and hold the following types of information about you:
 
-4.1 We will not sell, rent or otherwise disclose your personal information to any third party without your consent, provided that by using our website and/or subscribing for any of our services, you provide your express and informed consent for us to disclose your personal information to third parties as follows -
+(a)    All information of the type as contained in the forms or orders you may submit to us as well as any other details about you that you may provide to us subsequently, including your name, contact details, age, identity number, assets, liabilities, income and payment records;  
+(b)    Information we used to process your application for credit and orders for goods or services and to assess your status from time to time, including as received pursuant to our enquiries with public registers, credit bureaus, money laundering, fraud prevention and law enforcement agencies or your current or previous insurance companies. Information received from these entities may be linked to other people with whom you have financial associations, including members of your family and your business partners and associates;  
+(c)    Details of your preferences regarding our products and services, and other demographic and lifestyle information;  
+(d)    Details of the accounts you and the members of your family hold and transactions you and the members of your family have previously concluded with or through us; and  
+(e)    Details of when you contact us and when we contact you, including the IP addresses, electronic mail addresses and telephone numbers you contact us from and the content of the communications between us, which we may record.
 
- 4.1.1 to third party companies employed by us to provide services for us, including for example, website hosting, administration, maintenance and development. These companies require access to your personal information to perform their functions and not for any other purposes;
+We may hold your information collected hereunder for as long as you are registered to use our services and for at least five years thereafter or such longer period as may be required or permitted by law.
 
- 4.1.2 to transfer our customer database/s, including personal information contained therein, to any third party who acquires all or substantially all of the assets or shares in our company or our web site service whether by sale, merger, acquisition or otherwise;
+ **Why we need your information**
 
- 4.1.3 to governmental agencies, exchanges and other regulatory or self-regulatory organisations if we are required to do so by law or if we believe that such action is necessary to –
+We collect and will process your information for the following purposes:
 
- 4.1.3.1 comply with the law or with any legal process;
+(a)    To process your application for credit and orders for goods or services and for making related decisions (such as the continuation or extension of credit), including by verifying your identity, credit status, contact details, financial track record and otherwise ascertaining that you qualify for our services from time to time;  
+(b)    To take such actions as may be required to enable and improve your use of our services and to exercise our rights and comply with our obligations in respect thereof, including by processing and recording your product and service requests and transactions, managing your accounts and policies, delivering our products and services to you, communicating with you regarding your use of our products and services and collecting payments you may owe us;  
+(c)    To ensure that the information we receive and hold about you is accurate, complete and up to date;  
+(d)    To prevent, investigate and prosecute fraud, money laundering, terrorism, abuse of our services and other unlawful activities;  
+(e)    To comply with legal and regulatory requirements, for audit purposes and legal proceedings;  
+(f)    To conduct market research and business analysis, understand your preferences, learn more about the products and services that you are interested in and improve the products and services we offer to you;  
+(g)    To inform and provide you with the opportunity to make use of products, services and benefits that we offer and that we believe may be of interest to you to the extent that we are lawfully permitted to do so; and  
+(h)    For such other purposes as you may consent to or as may otherwise be lawfully permitted, including for the purposes of protecting our and/or your legitimate interests and/or that of our suppliers and other customers.
 
- 4.1.3.2 protect and defend our rights and property or that of our customers and companies in our group;
+Please note that we will not contact you telephonically for unsolicited marketing purposes or send unsolicited marketing communications to you by mail, facsimile, SMS or electronic mail if you have objected to receiving such communications by way of a public register recognised for such purposes by law or by notifying us of your objection in the prescribed manner. We will provide you with reasonable opportunities to object to receiving marketing communications in the manner prescribed by law, including upon your application to subscribe to our services and on each occasion when we send you such communications.
 
- 4.1.3.3 prevent fraud or abuse, misuse or unauthorised use of our website; and/or
+Please note that we may use a credit-scoring or other automated decision-making system to assess your applications for credit. If we use an automated decision-making system, we will provide you with a description of the underlying logic of our decision-making system and provide you with an opportunity to make representations to us regarding the decision.
 
- 4.1.3.4 protect the personal safety or property of our customers or the public (if you provide false or deceptive information about yourself or misrepresent yourself as being someone else, we will disclose such information to the appropriate regulatory bodies and commercial entities); and
+ **Sharing your information**
 
- 4.1.4 if applicable, to personalise your experience on our web site, to help you log on in future and to continue to use the web site, to reply to queries you might have, to provide you with support and to help us select services or materials for inclusion on our web site which may be of interest to you.
+Keeping your financial information secure is one of our most important responsibilities. We cannot disclose your information unless legally permitted thereto. Save as set out below, we will not transfer your information to a third party without your consent unless legally obliged thereto. In particular, we do not sell lists or databases with our clients’ information and will not provide any of your information to entities outside our group so as to permit them to market their goods or services to you. You agree that we may transfer your information to the following people and organisations in pursuit of the data processing purposes set out in this policy:
 
- 4.2 We reserve the right to share non-personal, non-individual information in aggregate form with third parties for business purposes, for example with advertisers on our website or business associates and partners. You will not be identifiable from such data as such. We are not responsible and cannot be held liable for the privacy practices of such third parties.  
-  ****
+(a)    To the divisions and entities in the Shoprite group, including to the directors, employees, contractors, agents, auditors, legal and other professional advisors of the divisions and entities in the Shoprite group;  
+(b)    To banks, credit bureaus and fraud prevention agencies, who may link your information with those of your family members and business associates, provided that we will notify you in advance before we provide adverse information about you to a credit bureau and, upon request, provide you with a copy of such information as required by law;  
+(c)    To your bank and to the other issuers of payment cards issued to you at your request, and to any other person that supplies, supports or underwrites a service or product we provide to you insofar as it pertains to your subscription to and use of such service or product;  
+(d)    To governmental, judicial, regulatory and law enforcement bodies and agencies, including the South African Revenue Services and the National Credit Regulator;  
+(e)    To persons employed by us to provide services on our behalf that adhere to principles similar to ours regarding the treatment of your information, including delivery, debt collection, data hosting, processing and management services;  
+(f)    To any person to whom we cede, delegate, transfer or assign any of our rights or obligations pertaining to the products or services provided to you or contracts concluded with you;  
+(g)    To any person that acts as your legal guardian, executor of your estate, curator or in a similar capacity;  
+(h)    To any person that guarantees or stands surety for the performance of your obligations to us insofar as it pertains to such guarantee or suretyship;  
+(i)    To such other persons as may be permitted by applicable law or that you may consent to, including persons and entities who may request such information to evaluate your creditworthiness.
 
-**5\. Use of Your Personal Information**
+Please note that our sharing of your information may also involve the transfer thereof to third parties outside South Africa. In the event of such transfer, we will require that such third party also subscribes to protecting your information on terms similar to the terms of this policy.
 
-5.1. We and our commercial partners may use your personal data for the purposes of executing transactions concluded with you, for billing purposes or in order to serve relevant advertising to you. We may send you information, special offers and advertising by email, through SMS, within our regular newsletters, through once-off promotional offers or by telephone.
+ **Security**
 
- 5.2. We may also make available your personal information to our affiliates and business partners (who may be located outside South Africa) in order to enable them to offer goods and services that they think will interest you. By using our services and by submitting your personal details, you consent to this transfer.
+We will strive at all times to ensure that your records will always be protected against unauthorised or accidental access, processing or loss. We maintain this commitment to data security by implementing appropriate reasonable technical and organisational measures to safeguard and secure your information, including by using appropriate cryptographic techniques and access control mechanisms. If we use a third party to host, manage or process your data on our behalf we will require that such third party also commit to implementing appropriate reasonable technical and organisational measures to safeguard and secure your information. If we are not prevented by a law enforcement or regulatory agency, we will notify you as soon as practicably possible in writing and at your registered postal or email address if we believe that unauthorised access to your information may have occurred, providing you with such information as you may reasonably require to implement protective measures.
 
- 5.3. We may receive information about you from reliable third parties and add it to our database. We shall ensure that such third parties operate a similar policy to us in relation to your privacy. When we receive such information, we shall use it to improve the personalisation of our service.
+What role can you play in protecting your information and accounts?
 
- 5.4. If you do not want to receive the information as set out in clause 5.2 above then please send an e-mail to us at unsubscribe@checkers.co.za or contact our Customer Care Centre on 0800 01 07 09  
-  ****
+(a)    Never share your user identification name or number, your personal identification number (PIN) or password with anyone or submit it to any web site that you do not recognise and fully trust and never send such information to us or anyone else via unencrypted electronic mail or other unprotected communication mechanism;  
+(b)    Only provide your user identification name or number, your PIN or password to us via our web site when your browser shows a Secure Socket Layer (SSL) connection directly to us;  
+(c)    Do not leave your computer unattended after you have entered your PIN and password to access your accounts via our web site;  
+(d)    Always log or sign off at the end of a web site session;  
+(e)    Change your web password regularly;  
+(f)    Keep your contact details as provided to us up to date and accurate, including by promptly notifying any changes thereto to us; and  
+(g)    Promptly report any suspected security breach, loss or theft of your user identification name or number, your PIN and/or password and of any cards providing access to your accounts;
 
-**6\. Feedback and Complaints**
+ **Web Sites**
 
-If you have any questions or comments about our Privacy Policy, or if you have a complaint about how we are using your data, then please write to us or send an email to us at feedback@checkers.co.za
+When you visit any of our websites we may collect certain information about your usage preferences and history. Such information will be stored in a cookie on your computer's hard drive by your web browser. Cookies are intended to assist and improve your use of our web sites. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you may not be able to use all the features of our websites.
 
-  **7\. Shopping and Competitions**
+Every time you connect to our web sites we store web server logs which show your IP address (the unique number which your machine uses when it is connected to the Internet); what you looked at; whether the page request was successful or not, and which browser you used to view the pages. The use of this data is strictly for statistical and personalisation purposes only. This helps us understand which areas of the site are of particular interest and also which pages are not being requested. It also tells us how many hits and page requests we get.
 
-7.1. If you order anything from us we may need your name, e-mail address, delivery address and payment information (such as credit card details) to process that order. We will also take your telephone number so that we can contact you in the event of any problems with this order and we may give this number to couriers who deliver the order. This information may be used in accordance with clauses 4 and 5 above.
+Currently we use the following security measures to protect your information when you use our online transaction services:
 
- 7.2. When you enter a competition or other promotional feature, we will require your name, telephone number, postal address and/or e-mail address so that we can notify you if you have won. We will require your physical address to deliver any prizes you win. We may use this personal data in the same way as explained in clauses 4 and 5 above.
+(a)    Advanced encryption software using 128 bit encryption built into browsers to establish a Secure Socket Layer (SSL).  
+(b)    You can only use the service if you are registered as a user thereof and chosen an access account number and your own personal identification number (PIN).  
+(c)    You only have three opportunities to enter your PIN correctly. After the third unsuccessful attempt, you will be denied access to the service. To reset your PIN, contact your branch.  
+(d)    If you log on and do not use the service for ten minutes, you will be logged out automatically. To access your accounts again, you will need to log on again.
 
-  **8\. Information Protection**
+ **Your rights regarding your information**
 
-We may protect personal information by establishing appropriate physical, electronic and managerial procedures to safeguard the personal information we collect from you. This helps prevent unauthorised access, maintains data accuracy and ensures that the personal information is used correctly. In order to carry out these security procedures, we may sometimes ask for proof of identity before we disclose personal information to you.
+Provided that you give us suitable and adequate proof of your identity, you have a right to know which records we hold about you and to know the identity of all third parties which have been or are to be given access thereto. This can be done by submitting a written request in the prescribed form to us. We may charge a reasonable prescribed fee as notified to you in advance for processing such requests. We will not be obliged to provide you with information to the extent that we are prohibited or permitted thereto by applicable law.
 
-  **9\. Cookies**
+You also have the right to require us to correct or erase any records we hold about you that we are no longer permitted to retain, is inaccurate, irrelevant, excessive, out of date, incomplete, misleading or has been unlawfully obtained. This can be done by submitting a written request in the prescribed form to us. We will notify you of the steps taken as a result of your request.
 
-A cookie is a piece of information that is deposited by our computer server when you visit our website which is stored on your computer's hard drive by your web browser. On revisiting the website, our computer server will recognise the cookies, giving us information about your last visit. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you may not be able to use all the features of our website.
+Please contact our Information Compliance Office indicated at the head of this policy if you want to submit any request to us hereunder. We will provide you with the prescribed form and the amount of any applicable prescribed fee.
 
-  **10\. Data Profiles**
+ **Objectio** **ns**
 
-10.1 We may also utilise a personal profile page, which will enable you to update your personal information. This will allow us to maintain accurate and up-to-date personal data. You will have the right to require its correction or removal from our records at any time. If you wish to be deleted from our database entirely, then please send an email to us at unsubscribe@checkers.co.za stating just that.
-
- 10.2 If you want to update any of your personal information held by us, you can either make certain changes on-line by amending your account details (if enabled) or you can send an e-mail detailing the required amendments to feedback@checkers.co.za If your account details are password protected, you can help to preserve your privacy by never sharing your password with anyone else.
-
-  **11\. IP Addresses**
-
-Every time you connect to our website we store web server logs which show your IP address (the unique number which your machine uses when it is connected to the Internet); what you looked at; whether the page request was successful or not, and which browser you used to view the pages. The use of this data is strictly for statistical purposes and personalisation purposes only. This helps us understand which areas of the site are of particular interest and also which pages are not being requested. It also tells us how many hits and page requests we get.
-
-  **12\. Links**
-
-Our website may contain links to other websites. Please note that we are not responsible and cannot be held liable for the privacy practices of third party websites or the manner in which they use cookies and advise you to read the privacy statements of each website you visit which collects personal information.
-
-(Version effective as of 1 January 2008)
+Please contact your local branch or our Information Compliance Office indicated at the head of this policy if you want to object to our collection, processing, recording, protection, use or sharing of your information. Please note that we may require a reasonable period to comply with your objection and can only do so if permitted thereto by law and such compliance does not unreasonably prejudice our legitimate interests or that of a third party.
