@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the smartonmoney.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231001452id_/http%3A//www.smartonmoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartonmoney.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128003819id_/http%3A//www.smartonmoney.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy, Disclaimer And Disclosure For SmartOnMoney.com**
 
-## **Privacy Policy  
-**
+## **Privacy Policy**
 
 The privacy of our visitors to SmartOnMoney.com is important to us.
 
@@ -24,7 +23,7 @@ We do use cookies to store information, such as your personal preferences when y
 
 
 
-We also use third party advertisements on Bible Money Matters to support our site. Some of these advertisers may use technology such as cookies, DART cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. Use of cookies is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). The use of DART cookies enables advertisers such as Google Adsense to serve ads based on your visit and your visits to other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+We also use third party advertisements on Smart On Money to support our site. Some of these advertisers may use technology such as cookies, DART cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. Use of cookies is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites). The use of DART cookies enables advertisers such as Google Adsense to serve ads based on your visit and your visits to other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
@@ -41,5 +40,3 @@ This blog abides by word of mouth marketing standards. We believe in honesty of 
 The owner(s) of this blog is compensated to provide opinion on products, services, websites and various other topics. Even though the owner(s) of this blog receives compensation for our posts or advertisements, we always give our honest opinions, findings, beliefs, or experiences on those topics or products. The views and opinions expressed on this blog are purely the bloggers’ own. Any product claim, statistic, quote or other representation about a product or service should be verified with the manufacturer, provider or party in question.
 
 This blog does not contain any content which might present a conflict of interest.
-
-Thanks for checking out this post on SmartOnMoney.com! If you're new here, please consider signing up for our [free email updates](http://feedburner.google.com/fb/a/mailverify?uri=smartonmoney&loc=en_US) or subscribe to the [RSS feed here](http://feeds.feedburner.com/smartonmoney). Keep in touch on [Twitter](http://twitter.com/smartonmoney) and [Facebook](http://www.facebook.com/smartonmoney) as well! Thanks for visiting!
