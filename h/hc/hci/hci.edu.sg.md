@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hci.edu.sg privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516122522id_/http%3A//www.hci.edu.sg/Privacy_Statement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hci.edu.sg privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127032434id_/http%3A//www.hci.edu.sg/Privacy_Statement.pdf) for the most accurate reproduction.*
 
 # 
 
