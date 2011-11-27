@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketcircle.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501160215id_/http%3A//www.marketcircle.com/additional/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketcircle.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127211035id_/http%3A//www.marketcircle.com/company/privacy) for the most accurate reproduction.*
 
 # Marketcircle | Privacy Policy
 
