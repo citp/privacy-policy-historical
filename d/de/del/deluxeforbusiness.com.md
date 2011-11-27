@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deluxeforbusiness.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414084951id_/http%3A//deluxeforbusiness.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deluxeforbusiness.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127041352id_/http%3A//www.deluxeforbusiness.com/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Deluxe
 
