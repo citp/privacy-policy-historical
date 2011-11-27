@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rankhound.com privacy policy that was archived on 2011-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110416085940id_/http%3A//www.rankhound.com/info/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankhound.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127023611id_/http%3A//www.rankhound.com/info/privacy.cfm) for the most accurate reproduction.*
 
-# Automated rank tracking for your website - RankHound
+# Privacy Policy RankHound - RankHound
 
 Triangle Direct Media is committed to protecting your privacy. We do not sell, trade or rent your personal information to other companies. We use the information we collect about you during registration to provide a more personalized user experience. Triangle Direct Media will not collect any personal information about you except when you specifically and knowingly provide such information.
 
