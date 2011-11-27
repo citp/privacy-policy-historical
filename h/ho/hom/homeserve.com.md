@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homeserve.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530003938id_/http%3A//www.homeserve.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeserve.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127151528id_/http%3A//www.homeserve.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Security | About | HomeServe
+# Privacy policy | About | HomeServe
 
 Homeserve Plc ('we', 'our' or 'us') is committed to protecting the privacy of our users and customers. This privacy policy ('Privacy Policy') is intended to inform you how we gather, define, and utilise personal information such as your:
 
