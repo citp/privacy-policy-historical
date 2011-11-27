@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldofkungfu.com privacy policy that was archived on 2010-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100820192204id_/http%3A//www.worldofkungfu.com/index.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofkungfu.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127221523id_/http%3A//www.worldofkungfu.com/index.cfm%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # World of Kung Fu Online Game Website | privacy
 
