@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the totalperu.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527022836id_/http%3A//www.totalperu.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalperu.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127142620id_/http%3A//www.totalperu.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy and DMCA Notification for Peru Expat and Travel
 
+| | 
+
 * * *
 
-**Peru Expat and Travel Privacy Policy**
+**#SITE## Privacy Policy**
 
 * * *
 
@@ -18,6 +20,8 @@ This website offers a number of social networking / publishing features which ma
   * blog
   * photo gallery
   * article library
+  * tags and notes
+  * expert pages
   * website directory
   * classified ads
   * and/or products for sale. 
@@ -36,7 +40,7 @@ If you participate in any portion of our website we will prompt you for your ema
 
 Additionally, as a non-registered user your IP address is usually published with what ever content you submit.
 
-We highly recommend you chose to participate as a  registered user and do not put contact information directly within your messages.
+We highly recommend you chose to participate as a  registered user and do not put contact information directly within your messages. We are not currently accepting posts from unregistered users.
 
 * * *
 
@@ -48,7 +52,7 @@ Registered Users**
 
 As a registered user you creative a profile(s) and all of your submissions, posts, entries, etc will be published under your profile. When registering you will be asked to provide your email address, name and location. Your email address is not published. Your name and location will be included in your profile and on all your posts. You may wish to use only your first name or a pseudonym. Whatever you provide will be published and it is likely the search engines will index it (often rapidly) and people searching for your name may find your participation on this site.
 
-As a registered user you can sent (and receive) short notes to and from other users. You can optionally include your email address. If you provide your email address within our direct message system it will be provided to the other user and we have no control over how they may use it.
+As a registered user you can send (and receive) short messages to and from other users. You can optionally include your email address. If you provide your email address within our direct message system it will be provided to the other user and we have no control over how they may use it.
 
 * * *
 
@@ -60,7 +64,7 @@ Information YOU Post**
 
 All of the information you submit or post to our site for any of its functions, except for your email address when registered or your email address when prompted for non-registered submissions will be published on our website. At the moment it is published, it becomes available to all users of the internet and all search engines to review and make us of in any manner they desire. We have no control over (or knowledge of who) may read, index, and/or use the information.
 
-You should make any submissions or posts with the assumption that it will be indexed by many search engines and any words, text, emails. names, phone numbers, etc that you put within your posts, if used as a search phrase will result in people finding your posts here.
+You should make any submissions or posts with the assumption that it will be indexed by many search engines and any words, text, emails. names, phone numbers, etc that you put within your posts, if used as a search phrase will result in people finding your posts here. You should also assume that others may copy any information you post and republish it online in a form you have no control over.
 
 If you submit a listing to our directory, all of the information except for your email address will be displayed for everyone to see. Your email address will only be used to contact you directly regarding your submission (ie: to send your account password and information about approval of your listings).
 
@@ -80,16 +84,18 @@ Emails we might send you**
   * When you post a new message or reply on our forum. You will be added to the email notification list and be sent an email when someone else makes a reply to that message. When posting your message you can uncheck the box and then you will not be added to the email notification list. Additionally, you can select to subscribe or unsubscribe to the notifications for a specific message by using the link at the bottom of the posting form. The notification emails also include an unsubscribe link.
   * When you submit a listing to our directory, a guest blog post, question/answer or other section. We may email you telling you your posting has been approved, declined or asking a question about it
   * If you submit a free banner ad you will be emailed with an acknowledgement / status report. Additionally you may be emailed a weekly statistical report. If you do not wish tor receive these you can delete your advertisement.
-  * The first time you submit a forum post with a URL included we may email you information about our free banner advertisers to make sure you are away of the best self promotional opportunities available to you on our site.
+  * Expert pages: when you create an expert page we may email letting you know your page has been approved, declined or making a comment about in the approval process. Additionally, we email you a weekly status report and/or an individual email to help you with the success of your expert page. If you do not wish to receive any such emails you can remove your expert page.
+  * The first time you submit a forum post, note, profile, or other post with a URL included, we may email you information about the most effective self promotional opportunities available to you on our site.
   * If you submit an entry to our directory, we will email you an acknowledgement and additionally, if there is a change in status, or otherwise to make any update regarding your listing or our directory. If you do not wish to receive such email(s) please delete your directory listing.
-  * If you submit an article, blog post we may email you an acknowledgement when the submission has been reviewed.
+  * If you submit an article, blog post, or press release we may email you an acknowledgement when the submission has been reviewed.
   * When you submit a classified ad (ie: real estate, rental, and/or car for sale) we may send you an email when your ad has been approved, rejected, if we have any individual comments or suggestions, and up to once a month with  any updates, information, or a request you review your ad for any changes. This refers to classified ads posted within the classified ads section of our website(s), it does not refer to posts made in the forums, blogs, article library, etc. If you do not wish to receive these emails you can delete all your classified ads.
   * In the case of a problem or we have a suggestion relative to your submission, posting, account or other issue we may individually email you.
+  * If you submit an RSS Feed we will send you relevant emails, ie: that your submission was received (or not), when it is approved, and when new posts have been processed and are ready for you to tag them.
   * In case you email us with a concern we may email you back.
 
 
 
-If you attempt to participate in any kind of fraudulent activity, or abusive behavior or activity that to attack our servers or network resources any and all information we have or can collect may be shared with anyone we feel is necessary, and/or useful to resolve the problem.
+If you attempt to participate in any kind of fraudulent activity, or abusive behavior or any activity to attack our servers or network resources any and all information we have or can collect may be shared with anyone we feel is necessary, and/or useful to resolve the problem.
 
 * * *
 
@@ -101,11 +107,13 @@ Customer Service**
 
 All of the services provided on our website are free. We do not collect any payments from users. Consequently, all customer service is self-serve and limited.
 
-Before submitting any information, please review the submission form. For example, on forum posts, blog posts, interviews, it is clearly stated that the posts cannot be deleted or edited after submission. Updates can be made by adding comments in the future.
+Before submitting any information, please review the submission form. For example, on forum posts, blog posts, interviews, it is clearly stated that the posts cannot be deleted or edited after submission. Updates can be made by adding comments in the future. However, by logging in under the email that made the post you can delete any forum post or reply.
 
 Submissions to our directory or classifieds ads can be deleted by the same user who placed the advertisement. Please use care when making submissions for clients to ensure your client has the login and password to delete entries in the future if they wish.
 
-If you place an order or make us of any website linked to from our website, whether it is an editorial mention with a link, member submission with a link, an advertisement or any other link, you must contact that website for any customer service or privacy policy.
+If you place an order or make use of any website linked to from our website, whether it is an editorial mention with a link, member submission with a link, an advertisement or any other link, you must contact that website directly for any customer service or privacy policy.
+
+If you make a customer service related inquiry on any social networking site, forum, or other publicly accessible website (ie: facebook, twitter,, etc) we may publicly disclose any information we have collected, including but not limited to email addresses, ip addresses, etc in order to respond.
 
 * * *
 
@@ -115,7 +123,7 @@ Products and Services listed for Sale**
 
 * * *
 
-Any products listed for sale are from independent websites and you must check directly with them regarding their provide policies. Although we regularly update the product information, you should check directly with the vendor to confirm prices and other product information.
+Any products listed for sale are from independent websites and you must check directly with them regarding their privacy and other policies. Although we regularly update the product information, you should check directly with the vendor to confirm prices and other product information.
 
 * * *
 
@@ -125,9 +133,9 @@ Links to Other Websites**
 
 * * *
 
-Our site contains many links to other websites. Some of the links are part of our website and some of the links are included in content posted or submitted by others. If you click either type of link and are taken off our website, ie:  **totalperu.com** is no longer shown in your browser address bar, you will need to check with that site for its privacy policy.
+Our site contains many links to other websites. Some of the links are part of our website and some of the links are included in content posted or submitted by others. If you click either type of link and are taken off our website, ie:  **totalperu.com** is no longer shown in your browser address bar, you will need to check with that site for its privacy and other policies.
 
-We have no control or responsibility over content, privacy, or any other aspect of the websites which link to or are linked from our site. 
+We have no control or responsibility over content, privacy, or any other aspect of the websites which link to or are linked from our site. All of the user generated content on our site is the responsibility of the user who posted it.
 
 [Home Page](https://web.archive.org/)
 
@@ -167,7 +175,7 @@ Name/Contact Information of Designated Agent:
 Glen Roberts   
 E-mail: dmca at glrsales.com   
 Fax: 408-228-0566   
-Mailing Address: PO Box 12148, Localidad 4, Montevideo, URUGUAY 11300
+Mailing Address: ECM #15990, PO Box 34628, Seattle, Washington 98124-1628 United States
 
 To be effective, the notification must be in writing and contain the following information (DMCA, 17 U.S.C. 512(c)(3)):
 
@@ -178,12 +186,10 @@ To be effective, the notification must be in writing and contain the following i
 5\. a statement that you have a good faith belief that the use by the person you believe has infringed on your copyright is not authorized by the copyright owner, its agent, or the law;   
 6\. your statement, made under penalty of perjury, that the information contained in your notification is accurate, and that you are the copyright owner or are authorized to act on the owner's behalf.
 
-**Notes:** Allfeeds.org is a directory of RSS Feeds. If an RSS Feed contains your work without your permission it is best to contact the publisher of the RSS Feed directly. When the publisher of the feed updates or changes their feed, those changes will automatically be reflect on allfeeds.org and other websites that may use the feed.
-
-If you are the publisher of an RSS feed which is listed on allfeeds.org and you do not want it listed, the fastest way to have it removed is to use our [delete feed](http://www.allfeeds.org/delete.html) process which will instantly remove it for any reason. If you instead prefer to use the DCMA procedure make sure you sufficiently identify the feed for us to locate it.
-
 * * *
 
 * * *
 
-* * *
+* * *  
+  
+---|---
