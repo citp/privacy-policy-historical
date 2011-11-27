@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graveyardmall.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528220157id_/http%3A//www.graveyardmall.com/pages/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graveyardmall.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127183917id_/http%3A//www.graveyardmall.com/pages/Privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -33,3 +33,9 @@ By email: [customerservice@graveyardmall.com](mailto:customerservice@graveyardma
 By standard mail: GraveyardMall.com 2420 Greenleaf Ave Elk Grove Village, IL, 60007
 
 By phone: 888 734-3132 (9:00 AM - 3:30 PM CDT)
+
+**DISPUTES:**
+
+If you access the Site from within the United States or Canada, any dispute relating in any way to your visit to the Site, to these Terms and Conditions, to our Privacy and Security Policy, to our advertising or solicitation practices or to products you purchase through the Site shall be submitted to confidential arbitration in Lake County, IL, USA, except that, to the extent you have in any manner violated or threatened to violate Graveyardmall inc's intellectual property rights, Graveyardmall.com may seek injunctive or other appropriate relief in any state or federal court in the State of Illinois, USA and you consent to exclusive jurisdiction and venue in such courts. Arbitration shall be conducted under the rules then prevailing of the American Arbitration Association. The arbitrator's award shall be binding and may be entered as a judgment in any court of competent jurisdiction. To the fullest extent permitted by applicable law, no arbitration shall be joined to an arbitration involving any other party subject to these Terms and Conditions, whether through class arbitration proceedings or otherwise.
+
+Please review our shipping and returns policy under the shipping tab on our home page
