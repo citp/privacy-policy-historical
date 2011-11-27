@@ -1,35 +1,39 @@
-> *The following text is extracted and transformed from the activejunky.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508021743id_/http%3A//www.activejunky.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activejunky.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127230340id_/http%3A//www.activejunky.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – ActiveJunky.com
+# 
 
-Active Junky respects your privacy and our Privacy Policy is committed to protecting your privacy when you are on our website.
+### Privacy Policy
 
-* * *
+Respek! Active Junky respects your privacy and our Privacy Policy is committed to protecting your privacy when you are on our website. 
 
- **Newsletter:**
+### Data Collection
 
-First off, WE WILL NEVER SELL OR GIVE OUT YOUR E-MAIL ADDRESS!  By giving us your e-mail address, the only thing you will get from us is a kick ass newsletter once a week.  We hate junk mail and we will never give or sell your e-mail address to marketing companies or anyone else for that matter.  Trust.
+We collect your name and email address. That's it. We strive to give you as many benefits as possible in order to help you maximize your Cash Back through AJ. We collect that information from you so that we can track your purchases and give you Cash Back. We may use the data that is created by stores your visit and purchases you make in order to send you specific deals that would be relevant to you. 
 
-Also, any other personal information that is given to us is considered confidential and will never be given out or sold.
+### Personal Information
 
-You may unsubscribe from our newsletter at any time.  By simply clicking on the “unsubscribe” link at the bottom of a newsletter or the bottom of our website, and you will be taken out of the system.  As we would be sad to see you go, we don’t need any haters amongst us! ****
+Only a select few AJ employees will ever see your personal information. It is only accessed in order to track your purchases and send you Cash Back. In the event that we use contractors or venders to help us in providing services, your information will only be disclosed to them with a confidentiality requirement in place. We reserve the right to disclose your information to protect our rights, comply with state or federal laws, judicial proceedings, or court order. Wow, that sounded serious.
 
- **ActiveJunky.com:**
+### Privacy With Active Junky
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
+AJ will never ask you for your personal information such as username, password, or email address in an unsolicited letter, call, or email. If you contact and AJ customer service representative, any personal information you disclose will only be utilized if necessary to fulfill a request. The information will not be recorded. If you utilize our referral program, we will ask for your friend's name and email address. Your friend will receive an email from us with an invitation to join. We only ask for that information in order to track the referral process and execute that one-time email. Your friend may at any time contact support@activejunky.com and request that his information be removed from our database.
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+### Privacy with stores and advertisers
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors’ browser type or other information that the visitor sends.
+AJ may have access to order information including numbers and amounts from affiliate sites, but this information will not be released by AJ. AJ has links on our website to many other sites and their privacy policy is unique to them. Our privacy policy does not apply to any affiliate stores so if they are communicating with you and you would like to cease communication please refer to their sites policy. 
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+### Email Policy
 
-www.google.com/admanager
+AJ sends personal customer service emails as well as promotional emails. You are required to receive emails regarding your personal account, but if you would like to stop receiving promotional emails you may do so clicking "unsubscribe" link at the bottom of any email. Please read our Terms and Conditions if you'd like more information about spamming; it is explicitly prohibited.
 
-www.avantlink.com
+### Cookies
 
-www.backcountry.com
+Cookies are small text files that a website writes onto your computer. They are used by our affiliate sites to recognize you as an AJ member and track your purchases. Cookies also identify you on the AJ site and keep you logged in while browsing. Cookies must be enabled to collect Cash Back rewards. Take a bite off that cookie yo!
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses, we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically, we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
+### Your Choice and Responsibility
 
-Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them.
+We will periodically send you promotional emails regarding especially awesome deals on certain products. You have the choice to stop these communications at any time and can do so at the bottom of any email.
+
+It is your responsibility to update and maintain all account information. Your address entered in your account is the location to which we will send you cash back. AJ is not responsible for Cash Back being sent to incorrect addresses. To update your information, visit your profile page.
+
+We post all changes to this Privacy Agreement here on our site; it is your responsibility to check for updates even though this information might bore you. 
