@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the transitions.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529130852id_/http%3A//en-us.transitions.com/en/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transitions.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127010739id_/http%3A//en-us.transitions.com/en/Pages/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Statement
+# Transitions Optical | Privacy Statement
 
 At Transitions Optical, Inc., user privacy is of utmost concern. We are committed to your privacy and security, and to providing you with the best possible user experience.
 
