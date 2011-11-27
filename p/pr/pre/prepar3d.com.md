@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prepar3d.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527044553id_/http%3A//www.prepar3d.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prepar3d.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127181439id_/http%3A//www.prepar3d.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice – Lockheed Martin - Prepar3D
 
