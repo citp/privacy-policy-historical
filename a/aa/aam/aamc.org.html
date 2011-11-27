@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the aamc.org privacy policy that was archived on 2011-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110522131049id_/https%3A//www.aamc.org/44866/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aamc.org privacy policy that was archived on 2011-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111127112622id_/https%3A//www.aamc.org/44866/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="dj_webkit dj_contentbox"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=7">
 <title>Privacy Statement - AAMC</title>
@@ -15,38 +15,38 @@ We recognize that users of this Web site, AAMC programs and services, and survey
 	
 		<meta name="robots" content="index,follow">
 	
-		<link rel="shortcut icon" type="image/x-icon" href="https://www.aamc.org/linkableblob/48882-75/favicon/aamc-favicon.ico">
+		<link rel="shortcut icon" type="image/x-icon" href="https://www.aamc.org/linkableblob/48882-87/favicon/aamc-favicon.ico">
 	
 		<link rel="canonical" href="https://www.aamc.org/44866/privacy.html">
 	
 
 
-<link type="text/css" rel="stylesheet" href="/30/static/css/reset.css">
-<link type="text/css" rel="stylesheet" href="/30/static/css/reset-min.css">
-<link type="text/css" rel="stylesheet" href="/30/static/css/footer.css">
-<link type="text/css" rel="stylesheet" href="/30/static/js/dojo/dojo-1.3/dijit/themes/tundra/tundra.css">
-<script type="text/javascript" src="/30/static/js/yui/yahoo_2.0.0-b3.js"></script>
-<script type="text/javascript" src="/30/static/js/yui/event_2.0.0-b3.js"></script>
-<script type="text/javascript" src="/30/static/js/yui/dom_2.0.2-b3.js"></script>
-<script type="text/javascript" src="/30/static/js/yui/ie-select-width-fix.js"></script>
-<link type="text/css" rel="stylesheet" href="/30/static/css/yui.css">
-<script type="text/javascript" src="/30/static/js/dojo/dojo-1.3/dojo/dojo.js"></script>
-<script type="text/javascript" src="/30/static/js/dojo/dojo-1.3/dijit/dijit.js"></script>
-<script type="text/javascript" src="/30/static/js/spring/spring-2.0/Spring.js"></script>
-<script type="text/javascript" src="/30/static/js/spring/spring-2.0/Spring-Dojo.js"></script>
-<script type="text/javascript" src="/30/ssoLogin/js/main.js"></script>
-<script type="text/javascript" src="/30/static/js/aamc/aamc-1.3/aamc/aamc.js"></script>
+<link type="text/css" rel="stylesheet" href="https://static.aamc.org/content/css/reset.css">
+<link type="text/css" rel="stylesheet" href="https://static.aamc.org/content/css/reset-min.css">
+<link type="text/css" rel="stylesheet" href="https://static.aamc.org/content/css/footer.css">
+<link type="text/css" rel="stylesheet" href="https://static.aamc.org/content/css/yui.css">
+<script type="text/javascript" src="https://www.aamc.org/30/static/js/dojo/dojo-1.3/dojo/dojo.js"></script>
+<link type="text/css" rel="stylesheet" href="https://static.aamc.org/javascript/ext-3.3.1/resources/css/ext-all.css">
+ <script type="text/javascript" src="https://static.aamc.org/javascript/ext-3.3.1/adapter/ext/ext-base.js"></script>
+ <script type="text/javascript" src="https://static.aamc.org/javascript/ext-3.3.1/ext-all.js"></script>
+ <script type="text/javascript" src="https://static.aamc.org/javascript/ext-3.3.1/examples/ux/ux-all.js"></script>
+<script type="text/javascript" src="https://www.aamc.org/30/ssoLogin/js/main.js"></script>
+<script type="text/javascript" src="https://www.aamc.org/30/ssoLogin/js/ssoLogin.js"></script>
 <script type="text/javascript">
- dojo.require("dojo.parser");
- dojo.require('aamc');
- aamc.staticUrl = "/30/static/";
- aamc.init();
- dojo.require("dijit._base.sniff");
- dojo.require("dijit.form.ValidationTextBox");
- dojo.require("dijit.Tooltip");
- dojo.require("dijit.form.FilteringSelect");
+ Ext.onReady(function() {
+ ssologin.init("https://static.aamc.org");
+ // load ssoLogin style sheets as well the util function will only reload it if it is not already loaded
+   ssologin.util.loadStyleSheet("https://www.aamc.org/30/ssoLogin" + '/theme/aamc.extjs.css');
+   ssologin.util.loadStyleSheet("https://www.aamc.org/30/ssoLogin" + '/style/style.css');
+   ssologin.dialog.closeOrig = ssologin.dialog.close;
+      ssologin.dialog.close = function() {
+      ssologin.dialog.closeOrig();
+      Ext.select('object').each(function(el, c, idx) {
+            el.setVisible(true);
+      });
+   };
+ });
 </script>
-<script type="text/javascript" src="/30/static/js/aamc/aamc-1.3/aamc/spring.js"></script>
 
 
 	<link rel="stylesheet" type="text/css" href="https://www.aamc.org/code/44894/reset.css">
@@ -144,16 +144,23 @@ body.student #nav-home { left: 638px; }
 		
 
 
-<li id="login-button"><a id="login-button-link" href="/30/ssoLogin/home/login"><img title="Sign in" alt="Sign in" src="https://www.aamc.org/students/linkableblob/90886-8/data/btn-login.gif-data.jpg"></a>
+<li id="login-button"><a id="login-button-link" href="https://www.aamc.org/30/ssoLogin/home/login"><img title="Sign in" alt="Sign in" src="https://www.aamc.org/students/linkableblob/90886-8/data/btn-login.gif-data.jpg"></a>
 <script type="text/javascript">
-dojo.addOnLoad(function() {
-    Spring.addDecoration(new Spring.AjaxEventDecoration({
-        elementId: "login-button-link",
-        event: "onclick",
-        popup: "true",
-        params: { fragments: "body",goto: document.location.href }    }));
-});
-</script></li>
+Ext.onReady(function() {
+Ext.get('login-button-link').on('click', function(ev) {
+                            ev.preventDefault();
+                            Ext.select('object').each(function(el, c, idx) {
+                                    el.setVisible(false);
+                            });
+                            var params = {
+                            fragments: "body",
+                            goto: document.location.href
+                            };
+                           ssologin.dialog.load("https://www.aamc.org/30/ssoLogin/home/login/login", params, ssologin.dialog.AS_GET);
+                        });
+ });
+</script>
+</li>
 
 
 			
@@ -170,9 +177,15 @@ dojo.addOnLoad(function() {
 				
 					
 <h1>Privacy Statement</h1>
-<p>Last updated: January 31, 2011 </p><h4><strong>Our Commitment to Privacy</strong> </h4><p>We recognize that users of this Web site, AAMC programs and services, and surveys may have questions about how and why this information is collected. This privacy notice explains what kinds of information we collect through our Web site, Web-based applications, and other AAMC programs, and how we use this information.<br></p><p>The AAMC recognizes its responsibility to treat with care the information it collects about individuals and institutions involved in medical education and to respect their privacy relative to sensitive data concerning them. <br><br>Your use of the AAMC Web site and participation in AAMC applications and surveys signifies your understanding of the AAMC privacy notice and consent to the collection and use of your information as designated below. </p><h4><strong>What Information We Collect and How We Use It</strong> </h4><h4>Personal Information </h4><p>As part of AAMC applications, programs, and surveys, we collect certain personal information to provide you with the services requested and to engage in research for specific, defined purposes. Such personal information may include names, identification numbers, contact information, academic records, institutional affiliation, and other biographical information. These applications and programs include — but are not limited to — AMCAS, Careers in Medicine, ERAS, FindAResident, MedEdPORTAL, MCAT registration, and VSAS. These AAMC programs offer password-protected sites for information collection.<br></p><p>In addition to using it to provide a particular program or service, information collected as part of the program applications also may be used for educational research or verification purposes by the AAMC or under restricted conditions by third parties as explained in <a href="https://www.aamc.org/44866/privacy.html" target="_self">Data Sharing with Third Parties</a>. Personal identification information collected also may be used to pre-populate application forms for you when you apply or register for services or other programs to save you time and effort. Access to pre-populated Web applications is granted only after you sign in correctly. In order to reduce redundancies and facilitate the accuracy of data, the AAMC may pre-populate internal AAMC databases across systems.<br></p><p>AAMC surveys, such as FAMOUS, GME Track, the Graduation Questionnaire (GQ), the Matriculating Student Questionnaire (MSQ), and the Pre-MCAT Questionnaire (PMQ), collect data for educational and research purposes, including reporting to AAMC constituents, providing summary information to the U.S. Congress and other policymakers, and assisting members with institutional management issues. From time to time, the AAMC may contact you to participate in such a survey. Whenever the AAMC conducts research using personally identifiable data (human subjects research), that research is reviewed by an external (to the AAMC) institutional review board to ensure protection of your interests.<br><br>The AAMC reserves the right to use personal information in its possession to investigate inappropriate or unauthorized use of AAMC services or assets or apparent threats to public safety.</p><h4>Credit Card Information </h4><p>Once your credit card information, including the CVV number, has been passed to the credit card processing company for verification, only partial information is retained by AAMC for future identification of the transaction. This partial information includes several digits (but not all) of your credit card number and your address when available. We never retain the CVV number. Your credit card information is kept within a secure database with limited access.</p><h4>Web Site Usage Information </h4><p>E-mail addresses, aggregate information about which pages visitors access, and information volunteered by site visitors — such as user survey responses and site registrations — are used to improve the content of the AAMC Web site. Some portions of our site use cookies to improve your experience. For example, cookies allow you to shop at the Publications site and browse to other areas without losing the contents of your shopping cart. We also use cookies to help us learn more about site traffic patterns. You can set your browser to notify you when you receive a cookie, giving you a chance to decide whether or not to accept it. AAMC editorial and publishing staff also use Web site visitor data to help shape and direct the creation and maintenance of content.</p><h4><strong>Data Sharing with Third Parties</strong> </h4><p>Any information published by the AAMC that is related to medical school or residency applications, MCAT testing, career choice, or similar surveyed topics is done so with aggregate statistics. The AAMC may also share personally identifiable data with peer not-for-profit organizations, certifying boards, licensing bodies, and other organizations involved in medical education for research, eligibility determination, verification, and credentialing purposes. Personally identifiable information is also shared with medical education institutions upon direction by you as part of the registration or application process or for scholarship opportunities subject to confidentiality requirements. If you attend an AAMC meeting, the AAMC may share your contact information with exhibitors. We may also share contact information for staff and faculty at AAMC-member institutions and with our publishing partners.</p><p class="link"></p><p>If you provide personal information to us via the AAMC Web site, we may share it with service providers who assist us in activities such as technology, administration, or communications management. These providers are not authorized to use or disclose the information except as necessary to perform services on our behalf or to comply with legal requirements. We might also share personal information if we were to sell or transfer all or a portion of our operations or assets, in which case we would contractually require the recipient to treat the information in accordance with our Privacy Statement.</p><p class="link"></p><p>The AAMC reserves the right to use or disclose information where we reasonably believe it is &nbsp;needed to (i) respond to information requests by law enforcement or other governmental authorities; (ii) comply with any law, regulation, subpoena or other legal process, or court order; (iii) investigate and help prevent security threats, fraud, malicious activity, or inappropriate, unauthorized, or illegal activity involving AAMC’s services or networks; or (iv) enforce or protect AAMC’s rights and property. In such circumstances, personal information may be disclosed without notice to the individual.</p><p class="link"></p><h4><strong>Security of Collected Data</strong> </h4><p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of collected information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Access to collected data is restricted to only those AAMC staff members who require the access for specific purposes, such as providing services to you or performing research.<br><br>Messages that you send to us by e-mail may not be secure. We recommend that you do not send any confidential information to us by e-mail. <strong>If you choose to send confidential information to us via e-mail, you accept the risk that a third party may intercept this information.</strong></p><h4><strong>How to Access or Correct Your Information</strong> </h4><p>Access to your personally identifiable information is available through your AAMC sign in (AAMC ID). Certain AAMC programs may have specific processes for correcting or updating personally identifiable information. Please refer to the specific program Web site to learn how to update or correct your personally identifiable information. Otherwise, please contact the AAMC directly at the addresses below to report such changes.<br></p><p>To protect your privacy and security, we also will take reasonable steps to verify your identity before granting access or making corrections following such a request.</p><h4><strong>Protecting Your Personal Information Online</strong> </h4><p>The AAMC and the National Resident Matching Program (NRMP) take significant measures to protect your data in their systems, but you must also be vigilant in protecting access to your information online.<br></p><p>Treat your user names and passwords with care. Be careful not to share this information or enter them into fraudulent sites. Be aware that legitimate AAMC and NRMP sites include "aamc.org" and "nrmp.org," respectively. Do not conduct AAMC or NRMP business with any sites that do not contain one of these addresses.</p><p class="link"></p><p>To learn more about protecting your personal information online, read <a href="https://www.aamc.org/external/69406?url=http://www.onguardonline.gov/topics/computer-security.aspx" target="_blank">
-7 Practices for Computer Security&nbsp;<img alt="External Link" title="External Link" src="https://www.aamc.org/contentblob/91456/3/external/data.png"></a> and <a href="https://www.aamc.org/external/69408?url=http://www.ftc.gov/bcp/edu/pubs/consumer/alerts/alt127.shtm" target="_blank">
-How Not to Get Hooked by a 'Phishing' Scam&nbsp;<img alt="External Link" title="External Link" src="https://www.aamc.org/contentblob/91456/3/external/data.png"></a> from the Federal Trade Commission.</p><h4><strong>How to Contact Us About This Policy</strong> </h4><p>Should you have any questions, comments, requests, or concerns related to this privacy notice, please contact the AAMC at <a href="mailto:privacy@aamc.org">privacy@aamc.org</a> or at:</p><blockquote><p>AAMC<br>Attn: Legal Services – Privacy Program<br>2450 N Street, NW<br>Washington, DC 20037</p></blockquote><h4><strong>Changes to This Privacy Notice</strong> </h4><p>Any changes to this privacy notice will be posted on this Web site. Reviewing this page periodically or before you provide us with additional personally identifiable information is recommended.</p><h4><strong>Links to Specific Program Data Collection Information</strong> </h4><p>Certain AAMC services and surveys provide additional detailed information regarding collection and use of your data. Please follow the links below to learn more about how the specific program may use your data, why they collect your data, and which data are collected.<br></p><table class="data"><tbody><tr><th><h4>Service </h4></th><th><h4>Privacy Policy </h4></th></tr><tr><td>Annual Development Survey</td><td><a href="https://www.aamc.org/download/69410/data/2008guide.pdf" target="_blank">Users' Guide 2008 Edition &nbsp;<img src="https://www.aamc.org/contentblob/91462/3/pdf/data.gif" class="fi"></a></td></tr><tr><td>AMCAS® (American Medical College Application Service®)</td><td><a href="https://www.aamc.org/students/applying/amcas/60768/amcas_datacollection.html">AAMC Policies Regarding the Collection, Use, and Dissemination of Medical Student and Applicant Data</a></td></tr><tr><td>ERAS® (Electronic Residency Application Service)</td><td><a href="https://www.aamc.org/download/69376/data/erasdatapolicy.pdf" target="_blank">AAMC Policies Regarding the Collection, Use, and Dissemination of Resident, Intern, Fellow, and Residency, Internship, and Fellowship Application Data &nbsp;<img src="https://www.aamc.org/contentblob/91462/3/pdf/data.gif" class="fi"></a></td></tr><tr><td>Faculty Roster</td><td><a href="https://www.aamc.org/data/facultyroster/privacy_policy/69012/facultyroster_privacy.html">Privacy Policy</a></td></tr><tr><td>FindAResident®</td><td><a href="https://www.aamc.org/download/69918/data/privacydatapolicy.pdf" target="_blank">FindAResident Privacy and Data Policy &nbsp;<img src="https://www.aamc.org/contentblob/91462/3/pdf/data.gif" class="fi"></a></td></tr><tr><td>GME Track®</td><td><a href="https://www.aamc.org/services/gmetrack/69414/gmetrack_disclosure.html">Data Disclosure Statement</a></td></tr><tr><td>Graduation Questionnaire (GQ)</td><td>Frequently Asked Questions</td></tr><tr><td>MCAT® (Medical College Admissions Test®)</td><td><a href="https://www.aamc.org/students/download/63060/data/mcatessentials.pdf" target="_blank">MCAT Essentials&nbsp;<img src="https://www.aamc.org/contentblob/91462/3/pdf/data.gif" class="fi"></a></td></tr><tr><td>MedEdPORTAL®</td><td><a href="https://www.aamc.org/external/69416?url=http://services.aamc.org/30/mededportal/servlet/segment/mededportal/find_resources/ownership/1288.html" target="_blank">
+<p>Last updated: January 31, 2011 </p><h4><strong>Our Commitment to Privacy</strong> </h4><p>We recognize that users of this Web site, AAMC programs and services, and surveys may have questions about how and why this information is collected. This privacy notice explains what kinds of information we collect through our Web site, Web-based applications, and other AAMC programs, and how we use this information.<br></p><p>The AAMC recognizes its responsibility to treat with care the information it collects about individuals and institutions involved in medical education and to respect their privacy relative to sensitive data concerning them. <br><br>Your use of the AAMC Web site and participation in AAMC applications and surveys signifies your understanding of the AAMC privacy notice and consent to the collection and use of your information as designated below. </p><h4><strong>What Information We Collect and How We Use It</strong> </h4><h4>Personal Information </h4><p>As part of AAMC applications, programs, and surveys, we collect certain personal information to provide you with the services requested and to engage in research for specific, defined purposes. Such personal information may include names, identification numbers, contact information, academic records, institutional affiliation, and other biographical information. These applications and programs include—but are not limited to—AMCAS, Careers in Medicine, ERAS, FindAResident, MedEdPORTAL, MCAT registration, and VSAS. These AAMC programs offer password-protected sites for information collection.<br></p><p>In addition to using it to provide a particular program or service, information collected as part of the program applications also may be used for educational research or verification purposes by the AAMC or under restricted conditions by third parties as explained in <a href="https://www.aamc.org/44866/privacy.html" target="_self">Data Sharing with Third Parties</a>. Personal identification information collected also may be used to pre-populate application forms for you when you apply or register for services or other programs to save you time and effort. Access to pre-populated Web applications is granted only after you sign in correctly. In order to reduce redundancies and facilitate the accuracy of data, the AAMC may pre-populate internal AAMC databases across systems.<br></p><p>AAMC surveys, such as FAMOUS, GME Track, the Graduation Questionnaire (GQ), the Matriculating Student Questionnaire (MSQ), and the Pre-MCAT Questionnaire (PMQ), collect data for educational and research purposes, including reporting to AAMC constituents, providing summary information to the U.S. Congress and other policymakers, and assisting members with institutional management issues. From time to time, the AAMC may contact you to participate in such a survey. Whenever the AAMC conducts research using personally identifiable data (human subjects research), that research is reviewed by an external (to the AAMC) institutional review board to ensure protection of your interests.<br><br>The AAMC reserves the right to use personal information in its possession to investigate inappropriate or unauthorized use of AAMC services or assets or apparent threats to public safety.</p><h4>Credit Card Information </h4><p>Once your credit card information, including the CVV number, has been passed to the credit card processing company for verification, only partial information is retained by AAMC for future identification of the transaction. This partial information includes several digits (but not all) of your credit card number and your address when available. We never retain the CVV number. Your credit card information is kept within a secure database with limited access.</p><h4>Web Site Usage Information </h4><p>E-mail addresses, aggregate information about which pages visitors access, and information volunteered by site visitors — such as user survey responses and site registrations — are used to improve the content of the AAMC Web site. Some portions of our site use cookies to improve your experience. For example, cookies allow you to shop at the Publications site and browse to other areas without losing the contents of your shopping cart. We also use cookies to help us learn more about site traffic patterns. You can set your browser to notify you when you receive a cookie, giving you a chance to decide whether or not to accept it. AAMC editorial and publishing staff also use Web site visitor data to help shape and direct the creation and maintenance of content.</p><h4><strong>Data Sharing with Third Parties</strong> </h4><p>Any information published by the AAMC that is related to medical school or residency applications, MCAT testing, career choice, or similar surveyed topics is done so with aggregate statistics. The AAMC may also share personally identifiable data with peer not-for-profit organizations, certifying boards, licensing bodies, and other organizations involved in medical education for research, eligibility determination, verification, and credentialing purposes. Personally identifiable information is also shared with medical education institutions upon direction by you as part of the registration or application process or for scholarship opportunities subject to confidentiality requirements. If you attend an AAMC meeting, the AAMC may share your contact information with exhibitors. We may also share contact information for staff and faculty at AAMC-member institutions and with our publishing partners.</p><p class="link"></p><p>If you provide personal information to us via the AAMC Web site, we may share it with service providers who assist us in activities such as technology, administration, or communications management. These providers are not authorized to use or disclose the information except as necessary to perform services on our behalf or to comply with legal requirements. We might also share personal information if we were to sell or transfer all or a portion of our operations or assets, in which case we would contractually require the recipient to treat the information in accordance with our Privacy Statement.</p><p class="link"></p><p>The AAMC reserves the right to use or disclose information where we reasonably believe it is &nbsp;needed to (i) respond to information requests by law enforcement or other governmental authorities; (ii) comply with any law, regulation, subpoena or other legal process, or court order; (iii) investigate and help prevent security threats, fraud, malicious activity, or inappropriate, unauthorized, or illegal activity involving AAMC’s services or networks; or (iv) enforce or protect AAMC’s rights and property. In such circumstances, personal information may be disclosed without notice to the individual.</p><p class="link"></p><h4><strong>Security of Collected Data</strong> </h4><p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of collected information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Access to collected data is restricted to only those AAMC staff members who require the access for specific purposes, such as providing services to you or performing research.<br><br>Messages that you send to us by e-mail may not be secure. We recommend that you do not send any confidential information to us by e-mail. <strong>If you choose to send confidential information to us via e-mail, you accept the risk that a third party may intercept this information.</strong></p><h4><strong>How to Access or Correct Your Information</strong> </h4><p>Access to your personally identifiable information is available through your AAMC sign in (AAMC ID). Certain AAMC programs may have specific processes for correcting or updating personally identifiable information. Please refer to the specific program Web site to learn how to update or correct your personally identifiable information. Otherwise, please contact the AAMC directly at the addresses below to report such changes.<br></p><p>To protect your privacy and security, we also will take reasonable steps to verify your identity before granting access or making corrections following such a request.</p><h4><strong>Protecting Your Personal Information Online</strong> </h4><p>The AAMC and the National Resident Matching Program (NRMP) take significant measures to protect your data in their systems, but you must also be vigilant in protecting access to your information online.<br></p><p>Treat your user names and passwords with care. Be careful not to share this information or enter them into fraudulent sites. Be aware that legitimate AAMC and NRMP sites include "aamc.org" and "nrmp.org," respectively. Do not conduct AAMC or NRMP business with any sites that do not contain one of these addresses.</p><p class="link"></p><p>To learn more about protecting your personal information online, read 
+
+<a href="https://www.aamc.org/external/69406?url=http://www.onguardonline.gov/topics/computer-security.aspx" target="_blank">
+7 Practices for Computer Security&nbsp;<img alt="External Link" title="External Link" src="https://www.aamc.org/contentblob/91456/3/external/data.png"></a> and 
+
+<a href="https://www.aamc.org/external/69408?url=http://www.ftc.gov/bcp/edu/pubs/consumer/alerts/alt127.shtm" target="_blank">
+How Not to Get Hooked by a 'Phishing' Scam&nbsp;<img alt="External Link" title="External Link" src="https://www.aamc.org/contentblob/91456/3/external/data.png"></a> from the Federal Trade Commission.</p><h4><strong>How to Contact Us About This Policy</strong> </h4><p>Should you have any questions, comments, requests, or concerns related to this privacy notice, please contact the AAMC at <a href="mailto:privacy@aamc.org">privacy@aamc.org</a> or at:</p><blockquote><p>AAMC<br>Attn: Legal Services – Privacy Program<br>2450 N Street, NW<br>Washington, DC 20037</p></blockquote><h4><strong>Changes to This Privacy Notice</strong> </h4><p>Any changes to this privacy notice will be posted on this Web site. Reviewing this page periodically or before you provide us with additional personally identifiable information is recommended.</p><h4><strong>Links to Specific Program Data Collection Information</strong> </h4><p>Certain AAMC services and surveys provide additional detailed information regarding collection and use of your data. Please follow the links below to learn more about how the specific program may use your data, why they collect your data, and which data are collected.<br></p><table class="data"><tbody><tr><th><h4>Service </h4></th><th><h4>Privacy Policy </h4></th></tr><tr><td>Annual Development Survey</td><td><a href="https://www.aamc.org/download/69410/data/2008guide.pdf" target="_blank">Users' Guide 2008 Edition &nbsp;<img src="https://www.aamc.org/contentblob/91462/3/pdf/data.gif" class="fi"></a></td></tr><tr><td>AMCAS® (American Medical College Application Service®)</td><td><a href="https://www.aamc.org/students/applying/amcas/amcasresources/60768/amcas_datacollection.html">AAMC Policies Regarding the Collection, Use, and Dissemination of Medical Student and Applicant Data</a></td></tr><tr><td>ERAS® (Electronic Residency Application Service)</td><td><a href="https://www.aamc.org/download/69376/data/erasdatapolicy.pdf" target="_blank">AAMC Policies Regarding the Collection, Use, and Dissemination of Resident, Intern, Fellow, and Residency, Internship, and Fellowship Application Data &nbsp;<img src="https://www.aamc.org/contentblob/91462/3/pdf/data.gif" class="fi"></a></td></tr><tr><td>Faculty Roster</td><td><a href="https://www.aamc.org/data/facultyroster/privacy_policy/69012/facultyroster_privacy.html">Privacy Policy</a></td></tr><tr><td>FindAResident®</td><td><a href="https://www.aamc.org/download/69918/data/privacydatapolicy.pdf" target="_blank">FindAResident Privacy and Data Policy &nbsp;<img src="https://www.aamc.org/contentblob/91462/3/pdf/data.gif" class="fi"></a></td></tr><tr><td>GME Track®</td><td><a href="https://www.aamc.org/services/gmetrack/69414/gmetrack_disclosure.html">Data Disclosure Statement</a></td></tr><tr><td>Graduation Questionnaire (GQ)</td><td>Frequently Asked Questions</td></tr><tr><td>MCAT® (Medical College Admissions Test®)</td><td><a href="https://www.aamc.org/students/download/63060/data/mcatessentials.pdf" target="_blank">MCAT Essentials&nbsp;<img src="https://www.aamc.org/contentblob/91462/3/pdf/data.gif" class="fi"></a></td></tr><tr><td>MedEdPORTAL®</td><td>
+
+<a href="https://www.aamc.org/external/69416?url=https://www.mededportal.org/submitresources/policies/" target="_blank">
 Copyright and Patient Privacy Policy&nbsp;<img alt="External Link" title="External Link" src="https://www.aamc.org/contentblob/91456/3/external/data.png"></a></td></tr><tr><td><a href="https://www.aamc.org/data/msps/" target="_self">Medical School Profile System (MSPS)</a></td><td></td></tr><tr><td><a href="https://www.aamc.org/data/msq/" target="_self">Matriculating Student Questionnaire (MSQ)</a></td><td></td></tr><tr><td>Pre-MCAT Questionnaire (PMQ)</td><td><a href="https://www.aamc.org/data/pmq/faq/" target="_self">Frequently Asked Questions (FAQs)</a></td></tr><tr><td><a href="https://www.aamc.org/data/stipend/" target="_self">Survey of Resident/Fellow Stipends and Benefits</a></td><td></td></tr><tr><td><a href="https://www.aamc.org/students/medstudents/vsas/">VS</a><a href="https://www.aamc.org/students/medstudents/vsas/" target="_self">AS® (Visiting Student Application Service)</a></td><td></td></tr></tbody></table><p class="link">
 
 				
@@ -201,42 +214,29 @@ Copyright and Patient Privacy Policy&nbsp;<img alt="External Link" title="Extern
 <!-- End FORESEE SUPPORT --> 
 
 
-
-
-<!-- BEGIN COREMETRICS SUPPORT --> 
-<script type="text/javascript" src="https://www.aamc.org/analytics/coremetrics/eluminate-www-AAMC.js"></script> 
-<script type="text/javascript">cmSetClientID("90226781",true,"data.coremetrics.com","aamc.org"); </script> 
-<script type="text/javascript"> 
-    var cmJsHost = (("https:" == document.location.protocol) ? "https://" : "http://"); 
-    document.write(unescape("%3Cscript language='javascript1.1' src='" + cmJsHost + "www.aamc.org/analytics/coremetrics/cmtaggingservices-www-AAMC.js' type='text/javascript'%3E%3C/script%3E")); 
-</script><script language="javascript1.1" src="https://www.aamc.org/analytics/coremetrics/cmtaggingservices-www-AAMC.js" type="text/javascript"></script> 
-<!-- End COREMETRICS SUPPORT -->   
-
-
-
-
-
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-
-dojo.addOnLoad(function() {
-var pageTracker = _gat._getTracker("UA-4756563-1");
-pageTracker._setDomainName(".aamc.org");
-pageTracker._trackPageview();
-
-
-pageTracker = _gat._getTracker("UA-4756563-46");
-pageTracker._setDomainName(".aamc.org");
-pageTracker._trackPageview();
-});
-
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
-
 			
 		</div>
 	</div>
 
 
+<!-- Begin Analytics -->
+
+<!-- BEGIN COREMETRICS SUPPORT -->
+
+<script type="text/javascript">
+    var cmJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+	document.write(unescape("%3Cscript language='javascript1.1' type='text/javascript' src='" + cmJsHost + "static.aamc.org/analytics/coremetrics/eluminate-www-AAMC.js'%3E%3C/script%3E"));
+</script><script language="javascript1.1" type="text/javascript" src="https://static.aamc.org/analytics/coremetrics/eluminate-www-AAMC.js"></script>
+
+<script type="text/javascript">
+	cmSetClientID("90226781",true,"data.coremetrics.com","aamc.org");
+</script>
+
+<script type="text/javascript">
+	document.write(unescape("%3Cscript language='javascript1.1' type='text/javascript' src='" + cmJsHost + "static.aamc.org/analytics/coremetrics/cmtaggingservices-www-AAMC.js'%3E%3C/script%3E"));
+</script><script language="javascript1.1" type="text/javascript" src="https://static.aamc.org/analytics/coremetrics/cmtaggingservices-www-AAMC.js"></script>
+
+<!-- End COREMETRICS SUPPORT -->
+
+<!-- End Analytics -->
 </body></html>
