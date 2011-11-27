@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the agaric.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501005708id_/http%3A//agaric.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agaric.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127202753id_/http%3A//agaric.com/privacy) for the most accurate reproduction.*
 
 # Agaric's Privacy Policy | Agaric
 
 Your privacy is a top concern for Agaric. We work hard to earn and keep your trust, so we adhere to the following principles to protect your privacy.
 
-**Information we may collect about you**
+### Information we may collect about you
 
 We may collect nonpublic personal information about you only in connection with providing you with the services that you request or in connection with your visiting our website. The types of nonpublic personal information we collect vary according to the services that we perform for you. This information may include:
 
-  * Information we receive from you (including but not limited to your name, address, business information, financial, or payment information)
-  * Information about your relationship and past history with us (such as the types of services we provide to you, your invoice balances, and payment history)
-  * Information that we receive, with your authorization, from third parties 
-  * 
+  * Information we receive from you (including but not limited to your name, address, business information, financial, or payment information).
+  * Information about your relationship and past history with us (such as the types of services we provide to you, your invoice balances, and payment history).
+  * Information that we receive, with your authorization, from third parties.
 
 
-**How we handle your information**
+
+### How we handle your information
 
   * We do not disclose any nonpublic, personal information about you that we have collected, except as authorized by you or required by law, to anyone outside Agaric.
   * Any sensitive information that you provide will be secured with reasonable industry standard protocols and technology.
