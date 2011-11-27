@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ikonfx.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624011230id_/http%3A//www.ikonfx.com/contents/Home/Home-166.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikonfx.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127022520id_/http%3A//www.ikonfx.com/contents/Home/Home-166.html) for the most accurate reproduction.*
 
 # Ikon Group Privacy Statement
 
