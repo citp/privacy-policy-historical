@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careersvalley.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525060430id_/http%3A//www.careersvalley.com/privacy-policy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careersvalley.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127160011id_/http%3A//www.careersvalley.com/privacy-policy-0) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,18 +44,3 @@ Below Paragraph Is Not Applicable Now:
 [The application as a part of its core service is committed to keep informed the freshers (India) of latest job openings and placement papers. If you wish to visit the application canvas directly without wanting the news feeds you can remove the offline_access extended permission at any time from your account settings.]
 
 With email extended permission we subscribe your mail address to the applications jobs and placement papers newsletter. Again we respect your email privacy and you can unsubscribe at any time via the link that would be present at the bottom of each newsletter.
-
-**Have You Downloaded CV careersvalley 3 Usefull Books?**
-
- **[Recommend CV Solved Placement Papers E-Book And Download 3 Useful E-Books](http://www.careersvalley.com/node/add/referwin)**
-
-Its always a joy when it comes to helping friends. That too, helping them with relevant resources during their important stage of life is going to bring you real sense of satisfaction. Moreover, you get rewarded with three useful Free E-Books for helping. They are
-
-**1\. CareersValley Featured Articles Collection.**
-
-**2\. List Of Synonyms And Antonyms.**
-
-**3\. Quantitative Aptitude Formulas Handbook.**
-
-**[Visit To Help Your Friends This Summer](http://www.careersvalley.com/node/add/referwin)**  
-
