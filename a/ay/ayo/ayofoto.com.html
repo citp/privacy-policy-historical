@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the ayofoto.com privacy policy that was archived on 2011-05-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110528160503id_/http%3A//www.ayofoto.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ayofoto.com privacy policy that was archived on 2011-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111127072610id_/http%3A//www.ayofoto.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta property="og:title" content="AYOFOTO! : About">
+<meta property="og:image" content="http://www.ayofoto.com/images/af_social_box.png">
 <meta property="og:description" content="Snap, share, and make friends in this photography social media. Snap, sell, and make money by selling your stock photo. Be a photo agent, sell your friend's photos and earn commission. Grow your photography social network by adding friends and fans, write interesting topics in forum and blogs, sell and buy stuff at open market place, share interesting photography video, create photography event and invite all your friends. -- Agensi foto dan media komunitas fotografi. Anggota dapat menjual foto di ayofoto! dan juga dapat berjualan barang di bursa jual/beli, membaca dan mengunduh koleksi majalah fotografi/tutorial/brosur/portfolio, berbagi video fotografi, berinteraksi di blog/forum dan juga dapat mengumumkan acara fotografi di kalender acara.">
 <meta property="og:site_name" content="AYOFOTO!">
 <meta property="og:type" content="website">
@@ -17,9 +18,10 @@
 <meta name="keywords" content="fotografi,stok,stock,foto,photo,stock photo,foto stok,image bank,jual,beli,jual beli,jual foto,sell,buy,photography,indonesia,fotografer,beli foto,media,photographer,photographs,easy pay,gallery,galeri,bursa,market,social network,komunitas,model,videografi,videography,video dslr,forum,blog,picture,picture library,image library,picture stock library,indonesia photo,indonesia picture,indonesia photograph,editorial photo,foto indonesia,foto model,jakarta foto,wallpaper,ponsel,hp,macro,macro photography,nature photography,HDR,nikon,canon,sony,minolta,olympus,galeri,kamera,lensa,film,kamera digital,kamera bekas,camera digital,bali picture,bali photograph,bali photos,travel photographs,travel picture">
 <meta name="copyright" content="Copyright (c) 2005-2011 by AYOFOTO!">
 <meta http-equiv="imagetoolbar" content="no">
+<meta property="og:image" content="http://www.ayofoto.com/images/af_social_box.png">
 <link rel="icon" href="http://www.ayofoto.com/favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="http://www.ayofoto.com/favicon.ico" type="image/x-icon">
 <title>AYOFOTO! : About</title>
-<link rel="stylesheet" href="http://www.ayofoto.com/includes/header/style_white.css?v=1303367608" type="text/css">
+<link rel="stylesheet" href="http://www.ayofoto.com/includes/header/style_white.css?v=1309253531" type="text/css">
 
 <!--[if lt IE 7]> 
 <script defer type="text/javascript" src="/includes/header/pngfix.js"></script> 
@@ -40,6 +42,25 @@ function clearDefault(el) {
 </script>
 
 <script type="text/javascript">
+function doAjaxForm(Uri, data,target){
+	var url_path = decode64('aHR0cDovL3d3dy5heW9mb3RvLmNvbS9pbmNsdWRlcy9hamF4Lz8=');
+	var req = new Request.HTML({
+		method: 'get',
+		url: url_path,
+		data: data,
+		onRequest: function() { if (document.getElementById(target)) document.getElementById(target).innerHTML="<img src=/images/wait_white.gif>";  },
+		update: $('log_res'),
+		onComplete: function(response) { 
+
+		}
+	}).send();
+	
+	if(pageTracker) {
+		pageTracker._trackPageview(url_path);
+	}
+	_em.trackAjaxPageview();
+
+}
 
 function doAjax(Uri, act){
 	if (act!=null){
@@ -83,11 +104,15 @@ function reflect_img(){
 function memberOl() {
 	var url_count="aHR0cDovL3d3dy5heW9mb3RvLmNvbS9pbmNsdWRlcy9hamF4L29ubGluZS5waHA=";
 	var url_path = decode64(url_count);
-	var req = new Request.HTML({url:url_path, 
-		onSuccess: function(html) {
+	var req = new Request.HTML({
+		url:url_path,
+		update: $('online'),
+		onComplete: function(response) {
+		}
+		/*onSuccess: function(html) {
 			$('online').set('text', '');
 			$('online').adopt(html);
-		}
+		}*/
 	});
 	req.send();
 	if(pageTracker) {
@@ -144,11 +169,6 @@ pageTracker._trackPageview();
           cookie  : true,
           xfbml   : true
         });
-
-        // whenever the user logs in, we refresh the page
-        FB.Event.subscribe('auth.login', function() {
-          window.location.reload();
-        });
       };
 
       (function() {
@@ -158,7 +178,7 @@ pageTracker._trackPageview();
         document.getElementById('fb-root').appendChild(e);
       }());
     </script>
-<div class="dashboard" style="height: 78px;" align="center" id="top"><div class="container_header"><div class="logo" style="top: 10px;"><a href="http://www.ayofoto.com/" title="AYOFOTO!" onmouseover="window.scrollTo(0,0); return false"><img src="/images/trans.gif" height="58" width="152" alt="AYOFOTO!"></a></div><div class="login_top" style="top: 10px;"><script src="http://connect.facebook.net/en_US/all.js#appId={118525954843258}&amp;xfbml=1"></script><div style="float: left;"><fb:like href="http://www.facebook.com/ayofoto" layout="button_count" action="recommend" width="140"></fb:like></div><form name="search" action="http://www.ayofoto.com/" method="get"><img alt="Add Ayofoto.Com to your Search Provider List" title="Search anything at ayofoto.com directly from your browser" src="/images/add_search.png" onclick="add_provider()" style="cursor: pointer;"> <input type="text" size="25" name="keyword" value="Search" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}">in <select name="mod">
+<div class="dashboard" style="height: 78px;" align="center" id="top"><div class="container_header"><div class="logo" style="top: 10px;"><a href="http://www.ayofoto.com/" title="AYOFOTO!" onmouseover="window.scrollTo(0,0); return false"><img src="/images/trans.gif" height="58" width="152" alt="AYOFOTO!"></a></div><div class="login_top" style="top: 10px;"><script src="http://connect.facebook.net/en_US/all.js#appId=118525954843258&amp;xfbml=1"></script><div style="float: left;"><fb:like href="http://www.facebook.com/ayofoto" layout="button_count" action="recommend" width="140" show_faces="false"></fb:like></div><form name="search" action="http://www.ayofoto.com/" method="get"><img alt="Add Ayofoto.Com to your Search Provider List" title="Search anything at ayofoto.com directly from your browser" src="/images/add_search.png" onclick="add_provider()" style="cursor: pointer;"> <input type="text" size="25" name="keyword" value="Search" onfocus="if (this.value == 'Search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search';}">in <select name="mod">
 <option value="" selected="selected">-- Select --</option>
 <option value="80">Stock Photo Gallery</option>
 <option value="17">Portfolio Photo Gallery</option>
@@ -169,7 +189,7 @@ pageTracker._trackPageview();
 <option value="13">Library</option>
 <option value="20">Market</option>
 </select>&nbsp;<input type="hidden" name="v" value="search"><input type="submit" class="button" value="Search">&nbsp;&nbsp;|&nbsp;<img src="/images/country/gb.png" width="16" height="11">&nbsp;<a href="http://www.ayofoto.com/?mod=2&amp;v=pp&amp;lang=ind" title="Bahasa"><img src="/images/country/id.png" width="16" height="11"></a>&nbsp;|&nbsp;<a href="http://www.ayofoto.com/?mod=2&amp;v=pp&amp;style_color=black"><img src="/images/bg_black.gif" height="14" width="14" alt="Palette: Black" title="Palette: Black"></a> <img src="/images/bgselected_white.gif" height="14" width="14" alt="Palette: White" title="Palette: White">&nbsp;|&nbsp;<a href="http://www.ayofoto.com/?mod=1&amp;v=login">Login</a> or <a href="https://www.ayofoto.com/sign-up/">Sign-up</a> | 
-<a href="#" onclick="window.location=('https://www.facebook.com/dialog/oauth?client_id=118525954843258&amp;redirect_uri=http%3A%2F%2Fwww.ayofoto.com%2Flogin.af%3Fa%3Dget-fb-token%26state%3Dbe8b2d78f76f5c23401b45000f977821&amp;scope=publish_stream,rsvp_event,sms,offline_access,email,read_stream,user_about_me,friends_about_me,user_activities,friends_activities,user_birthday,friends_birthday,user_events,friends_events,user_groups,friends_groups,user_hometown,friends_hometown,user_likes,friends_likes,user_location,friends_location,user_online_presence,friends_online_presence,user_photo_video_tags,friends_photo_video_tags,user_photos,friends_photos,user_status,friends_status,user_videos,friends_videos,read_friendlists,user_checkins,friends_checkins,create_event')"><img src="/images/facebook_stamp.png" height="20" width="20" alt="fb-connect"></a></form></div><div style="float: right; text-align: right; width: 800px; padding: 10px; position: absolute; right: 0; top: 25px;"><span id="online"><!-- spanner --></span></div></div></div><div class="base" style="margin-top: 78px" align="center">
+<a href="#" onclick="window.location=('https://www.facebook.com/dialog/oauth?client_id=118525954843258&amp;redirect_uri=http%3A%2F%2Fwww.ayofoto.com%2Flogin.af%3Fa%3Dget-fb-token%26state%3D30869b6e73b0b0ba952f64800c0a270f&amp;scope=publish_stream,rsvp_event,sms,offline_access,email,read_stream,user_about_me,friends_about_me,user_activities,friends_activities,user_birthday,friends_birthday,user_events,friends_events,user_groups,friends_groups,user_hometown,friends_hometown,user_likes,friends_likes,user_location,friends_location,user_online_presence,friends_online_presence,user_photos,friends_photos,user_status,friends_status,read_friendlists,user_checkins,friends_checkins,create_event,publish_actions')"><img src="/images/facebook_stamp.png" height="20" width="20" alt="fb-connect"></a></form></div><div style="float: right; text-align: right; width: 800px; padding: 10px; position: absolute; right: 0; top: 25px;"><span id="online"><!-- spanner --></span></div></div></div><div class="base" style="margin-top: 78px" align="center">
 <div class="base_nav_top" align="center">
 <div class="nav_top"><ul class="menu1"><li class="current"><a href="http://www.ayofoto.com/" onmouseover="showit(-1);window.scrollTo(0,0);return false">Home</a></li><li><a href="http://www.ayofoto.com/?mod=80" onmouseover="showit(0);window.scrollTo(0,0);return false">Buy/Sell Photo</a></li><li><a href="#" onmouseover="showit(1);window.scrollTo(0,0);return false">Community</a></li><li style="float: right"><a href="#" onmouseover="showit(2);window.scrollTo(0,0);return false">My Account</a></li></ul></div><div class="container" style="text-align: left;"><div style="position: absolute; width:980px; z-index:1900;"><div id="describe" style="clear: both;" onmouseover="clear_delayhide()" onmouseout="resetit(event)"></div></div></div></div>
 <script language="javascript" type="text/javascript">
@@ -179,7 +199,7 @@ submenu[1]='<div class="submenu" style="width: 675px; position: absolute; top: -
 submenu[2]='<div class="submenu" style="width: 190px; position: absolute; top: -5px; right: -21px"><div class="xboxcontent" style="height: 60px; padding-left: 40px; background-image: url(/images/header_menu_account.png); background-repeat: no-repeat; background-position: 10px 10px"><ul style="list-style:none;"><li><a href="http://www.ayofoto.com/?mod=9">My Profile</a></li><li><a href="http://www.ayofoto.com/?mod=1&amp;v=login">Login</a></li><li><a href="https://www.ayofoto.com/sign-up/">Sign-up</a> It&apos;s free!</li></ul></div><b class="xbottom"><b class="xb4"></b><b class="xb3"></b><b class="xb2"></b><b class="xb1"></b></b></div>'
 </script><script src="/includes/header/tabmenu.js" type="text/javascript"></script><div class="base" align="center">
 <div class="container" align="center"><!-- Start About List -->
-<div class="container"><div class="mod_title">Corporate &gt; Privacy<br><fb:like href="http://www.ayofoto.com/privacy/" show_faces="false"></fb:like></div><div style="text-align: left">
+<div class="container"><div class="mod_title">Corporate &gt; Privacy<br><fb:like href="http://www.ayofoto.com/privacy/" show_faces="false" send="true"></fb:like></div><div style="text-align: left">
 Thank you for visiting AYOFOTO.COM. We know that you care how information about
 you is used and shared, and we appreciate your trust. This statement describes
 our privacy policy. It applies only to AYOFOTO.COM, so if you visit sites that
@@ -269,7 +289,7 @@ site, please email us at admin@ayofoto.com.
     <a href="http://www.ayofoto.com/multimedia/sms/">SMS</a><br>
     <a href="http://www.ayofoto.com/multimedia/m/">WAP</a><br>
     <a href="http://www.ayofoto.com/multimedia/iphone/">iPhone</a><br>
-    <a href="http://www.ayofoto.com/multimedia/afgo/">AF! Go</a></div><div style="float: left; width: 145px;"><span style="padding-bottom: 3px; font-weight: bold;">Follow Us</span><hr style="height:1px; border-width:0; color:silver; background-color: silver;"><fb:like href="http://www.facebook.com/ayofoto" layout="button_count" action="recommend" show_faces="true" width="140"></fb:like><br>
+    <a href="http://www.ayofoto.com/multimedia/afgo/">AF! Go</a></div><div style="float: left; width: 145px;"><span style="padding-bottom: 3px; font-weight: bold;">Follow Us</span><hr style="height:1px; border-width:0; color:silver; background-color: silver;"><fb:like href="http://www.facebook.com/ayofoto" layout="button_count" action="recommend" show_faces="false" width="140"></fb:like><br>
     <a href="http://twitter.com/ayofoto"><img src="/images/twitter.png" width="16" height="16" alt="Follow us on Twitter" title="Follow us on Twitter"></a> <a href="http://twitter.com/ayofoto" title="Follow us on Twitter" target="_blank">Follow us on Twitter</a><br>
     <a href="http://www.ayofoto.com/multimedia/rss/"><img src="/images/rss.gif" width="12" height="12" alt="Subscribe RSS" title="Subscribe RSS"></a> <a href="http://www.ayofoto.com/multimedia/rss/">RSS</a><br>
     <strong>Help</strong><hr style="height:1px; border-width:0; color:silver; background-color: silver;">
@@ -278,19 +298,20 @@ site, please email us at admin@ayofoto.com.
     <a href="http://www.ayofoto.com/">Guidelines</a><br>
     <a href="http://www.ayofoto.com/glossary/">Glossary</a><br><br>
     <strong>Developer</strong><hr style="height:1px; border-width:0; color:silver; background-color: silver;">
-    <a href="http://www.ayofoto.com/?mod=2&amp;v=cu&amp;to=tra">Help us to translate ?</a></div></div></div><div class="container" style="margin-top: 10px; height: 100px; border-bottom: 1px dotted silver;"><div style="width: 195px; float: left"><a href="http://www.inaicta.web.id" target="_blank"><img src="/images/inaicta2009_white.png" height="50" width="153" alt="INAICTA 2009" border="0"></a><br><span class="size6">1st Winner eBusiness for SME category<br>Indonesia ICT Award 2009</span></div><div style="width: 195px; float: left; padding-top: 26px;"><a href="http://www.bubuawards.com" target="_blank"><img src="/images/bubu2009_white.png" height="24" width="153" alt="BUBU Award 2009" border="0"></a><br><span class="size6">1st Winner Indonesia Social Media category<br>Bubu Award 2009</span></div><div style="width: 195px; float: left; padding-top: 2px"><a href="http://www.indigopreneur.com" target="_blank"><img src="/images/indigo2009.png" height="48" width="153" alt="Indigo Award 2009" border="0"></a><br><span class="size6">The Best of Creative Fellowship category<br>Telkom Indigo Award 2009</span></div><div style="width: 195px; float: left; padding-top: 2px"><img src="/images/ericsson.jpg" height="50" width="41" alt="Ericsson Mobile Advertisement Services 2009" border="0"><br><span class="size6">The Best Mobile Advertisement Service<br>Ericsson 2009</span></div><div style="width: 195px; float: left; padding-top: 2px"><a href="http://www.apicta2009.com" target="_blank"><img src="/images/apicta_white.jpg" height="50" width="84" alt="Asia Pacific ICT Alliance Award 2009" border="0"></a><br><span class="size6">Start Up Company Nominee<br>Asia Pacific ICT Alliance Award 2009</span></div></div><div class="container_footer" style="position: relative; vertical-align: bottom;"><div style="float: left; width: 500px"><div style="float: left;"><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="ayofoto">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div><div style="float: left; padding-right: 5px"><fb:like href="" layout="button_count" show_faces="false" width="300"></fb:like></div><div style="float: left;"><a href="http://www.ayofoto.com/redirect.af?mod=1&amp;share=digg&amp;title=QVlPRk9UTyEgLSBTdG9jayBQaG90byBBZ2VuY3kgYW5kIFBob3RvZ3JhcGh5IFNvY2lhbCBNZWRpYQ==" target="_blank"><img src="/images/apps/digg_ico.png" width="20" height="20" alt="Digg!" title="Digg!"></a>
+    <a href="http://www.ayofoto.com/?mod=2&amp;v=cu&amp;to=tra">Help us to translate ?</a></div></div></div><div class="container" style="margin-top: 10px; height: 100px; border-bottom: 1px dotted silver;"><div style="width: 195px; float: left"><a href="http://www.inaicta.web.id" target="_blank"><img src="/images/inaicta2009_white.png" height="50" width="153" alt="INAICTA 2009" border="0"></a><br><span class="size6">1st Winner eBusiness for SME category<br>Indonesia ICT Award 2009</span></div><div style="width: 195px; float: left; padding-top: 26px;"><a href="http://www.bubuawards.com" target="_blank"><img src="/images/bubu2009_white.png" height="24" width="153" alt="BUBU Award 2009" border="0"></a><br><span class="size6">1st Winner Indonesia Social Media category<br>Bubu Award 2009</span></div><div style="width: 195px; float: left; padding-top: 2px"><a href="http://www.indigopreneur.com" target="_blank"><img src="/images/indigo2009.png" height="48" width="153" alt="Indigo Award 2009" border="0"></a><br><span class="size6">The Best of Creative Fellowship category<br>Telkom Indigo Award 2009</span></div><div style="width: 195px; float: left; padding-top: 2px"><img src="/images/ericsson.jpg" height="50" width="41" alt="Ericsson Mobile Advertisement Services 2009" border="0"><br><span class="size6">The Best Mobile Advertisement Service<br>Ericsson 2009</span></div><div style="width: 195px; float: left; padding-top: 2px"><a href="http://www.apicta2009.com" target="_blank"><img src="/images/apicta_white.jpg" height="50" width="84" alt="Asia Pacific ICT Alliance Award 2009" border="0"></a><br><span class="size6">Start Up Company Nominee<br>Asia Pacific ICT Alliance Award 2009</span></div></div><div class="container_footer" style="position: relative; vertical-align: bottom;"><div style="float: left; width: 500px"><div style="float: left;"><a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="ayofoto">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div><div style="float: left; padding-right: 5px"><fb:like href="" layout="button_count" show_faces="false" send="true"></fb:like><g:plusone size="medium"></g:plusone></div><div style="float: left;"><a href="http://www.ayofoto.com/redirect.af?mod=1&amp;share=digg&amp;title=QVlPRk9UTyEgLSBTdG9jayBQaG90byBBZ2VuY3kgYW5kIFBob3RvZ3JhcGh5IFNvY2lhbCBNZWRpYQ==" target="_blank"><img src="/images/apps/digg_ico.png" width="20" height="20" alt="Digg!" title="Digg!"></a>
 	<a href="http://www.ayofoto.com/redirect.af?mod=1&amp;share=del.icio.us&amp;title=QVlPRk9UTyEgLSBTdG9jayBQaG90byBBZ2VuY3kgYW5kIFBob3RvZ3JhcGh5IFNvY2lhbCBNZWRpYQ==" target="_blank"><img src="/images/apps/delicious_ico.png" width="20" height="20" alt="del.icio.us" title="del.icio.us"></a>
 	<a href="http://www.ayofoto.com/redirect.af?mod=1&amp;share=stumbleupon&amp;title=QVlPRk9UTyEgLSBTdG9jayBQaG90byBBZ2VuY3kgYW5kIFBob3RvZ3JhcGh5IFNvY2lhbCBNZWRpYQ==" target="_blank"><img src="/images/apps/stumbleupon_ico.png" width="20" height="20" alt="StumbleUpon" title="StumbleUpon"></a>
 	<a href="http://www.ayofoto.com/redirect.af?mod=1&amp;share=reddit&amp;title=QVlPRk9UTyEgLSBTdG9jayBQaG90byBBZ2VuY3kgYW5kIFBob3RvZ3JhcGh5IFNvY2lhbCBNZWRpYQ==" target="_blank"><img src="/images/apps/reddit_ico.png" width="20" height="20" alt="Reddit" title="Reddit"></a>
 	<a href="http://www.ayofoto.com/redirect.af?mod=1&amp;share=yahoo&amp;title=QVlPRk9UTyEgLSBTdG9jayBQaG90byBBZ2VuY3kgYW5kIFBob3RvZ3JhcGh5IFNvY2lhbCBNZWRpYQ==" target="_blank"><img src="/images/apps/yahoo_ico.png" width="20" height="20" alt="YahooMyWeb" title="YahooMyWeb"></a>
 	<a href="http://www.ayofoto.com/redirect.af?mod=1&amp;share=technorati&amp;title=QVlPRk9UTyEgLSBTdG9jayBQaG90byBBZ2VuY3kgYW5kIFBob3RvZ3JhcGh5IFNvY2lhbCBNZWRpYQ==" target="_blank"><img src="/images/apps/technorati_ico.png" width="20" height="20" alt="Technorati" title="Technorati"></a>
-	<a href="http://www.ayofoto.com/redirect.af?mod=1&amp;share=google&amp;title=QVlPRk9UTyEgLSBTdG9jayBQaG90byBBZ2VuY3kgYW5kIFBob3RvZ3JhcGh5IFNvY2lhbCBNZWRpYQ==" target="_blank"><img src="/images/apps/google_ico.png" width="20" height="20" alt="Google" title="Google"></a></div><div style="float: left; width: 450px">Copyright © 2005-2011 AYOFOTO!, All rights reserved. <a href="http://www.ayofoto.com/terms/">Term of Use</a> | <a href="http://www.ayofoto.com/privacy/">Privacy</a></div></div><div style="float; right; padding-top: 5px; text-align: right"><br><img src="/images/sitemap-mini.gif" width="11" height="9" alt="Sitemap"><a href="http://www.ayofoto.com/site-map/"> Site map</a> | AYOFOTO! v.4.5</div>
+	</div><div style="float: left; width: 450px">Copyright © 2005-2011 AYOFOTO!, All rights reserved. <a href="http://www.ayofoto.com/terms/">Term of Use</a> | <a href="http://www.ayofoto.com/privacy/">Privacy</a></div></div><div style="float; right; padding-top: 5px; text-align: right"><br><img src="/images/sitemap-mini.gif" width="11" height="9" alt="Sitemap"><a href="http://www.ayofoto.com/site-map/"> Site map</a> | AYOFOTO! v.4.6</div>
 </div></div></div><!--
 AYOFOTO.COM v.3.x - 4.x is a product of Jejala Pararta International, PT.
 Fully managed and developed by Jejala Pararta International, PT.
 Since January 2011 AYOFOTO.COM is own by Ayofoto Media International, PT.
 For info, please email us at info@ayofoto.com
 -->
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 
 <!-- BEGIN EFFECTIVE MEASURE CODE -->
 <!-- COPYRIGHT EFFECTIVE MEASURE -->
@@ -305,4 +326,4 @@ For info, please email us at info@ayofoto.com
  <img src="//id.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
 </noscript>
 <!--END EFFECTIVE MEASURE CODE -->
-</div></body></html>
+<div style="width:1px; height:1px; overflow:hidden;"><br><br><br><script type="text/javascript" src="http://feedjit.com/serve/?vv=955&amp;tft=3&amp;dd=0&amp;wid=0806a2751cd70f80&amp;pid=0&amp;proid=0&amp;bc=FFFFFF&amp;tc=000000&amp;brd1=012B6B&amp;lnk=135D9E&amp;hc=FFFFFF&amp;hfc=2853A8&amp;btn=C99700&amp;ww=200&amp;went=10"></script><noscript><a href="http://feedjit.com/">Feedjit Live Blog Stats</a></noscript></div></div></body></html>
