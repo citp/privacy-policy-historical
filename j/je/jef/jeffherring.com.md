@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeffherring.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530003958id_/http%3A//jeffherring.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeffherring.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127041102id_/http%3A//jeffherring.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
