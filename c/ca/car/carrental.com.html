@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the carrental.com privacy policy that was archived on 2010-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101213202128id_/http%3A//carrental.com/globals/pp.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carrental.com privacy policy that was archived on 2011-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111127193417id_/http%3A//carrental.com/globals/pp.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>Carrental.com - Privacy Policy</title>
 <link rel="stylesheet" type="text/css" href="/globals/styles.css">
+<script src="../globals/cdValidate.js" type="text/javascript"></script>  
 <style type="text/css">
 <!--
 .subheading {
@@ -111,22 +112,46 @@ a:hover.ppLink {
 
 
 <!-- ########## BEGIN HEADER ########## -->
-<table width="975" border="0" cellspacing="0" cellpadding="0">
+<link rel="stylesheet" type="text/css" href="/globals/styles.css"> 
+<link rel="stylesheet" type="text/css" href="/globals/forms.css">
+<link rel="stylesheet" type="text/css" href="/globals/jqueryui.css">
+<script type="text/javascript" src="/globals/jquery.js"></script>    
+<script type="text/javascript" src="/globals/jqueryui.js"></script>
+<script type="text/javascript" src="/globals/s_code_remote.js"></script><img name="s_i_ccrgcarrentalcom" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/ccrgcarrentalcom/1/G.9-Pd-R/s98772704810097?[AQB]&amp;ndh=1&amp;t=30/0/2020%205%3A44%3A37%204%200&amp;pageName=Carrental.com%20-%20Privacy%20Policy&amp;g=https%3A//web.archive.org/web/20111127193417id_/http%253A//carrental.com/globals/pp.php&amp;cc=USD&amp;c10=Carrental.com%20-%20Privacy%20Policy&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"> 
+<script type="text/javascript" src="/globals/jquery.bgiframe.js"></script> 
+                         
+<script type="text/javascript">
+    $(document).ready(function() {
+        var resFormIID = '#resFormIID';   // Leave the #
+        var passedIID = $(resFormIID).val();
+        var determinedIID = ($('.subheader').html()) ? $('.subheader').html() : s.pageName;
+        var IID = (passedIID) ? $(resFormIID).val(passedIID) : $(resFormIID).val(determinedIID);
+        //alert(IID);
+    });</script>    <script type="text/javascript" src="/globals/s_code_remote.js"></script> 
+        <script type="text/javascript">
+        s.pageName = 'privacy_policy';
+        s.eVar49 = '';
+        function dynamicTags(x){
+            if (x == 'resFormContinue'){
+                s.eVar3='Res Form ".privacy_policy."';
+                s.tl(this,'o','Make A Reservation');            
+            } 
+        }  
+    </script>        <table width="975" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
 	<td colspan="4"><img src="/images/hdr1.gif" width="975" height="49" alt="" border="0" usemap="#imap1"></td>
 </tr>
 <tr valign="middle">
 	<td width="13"><img src="/images/hdr2L.gif" width="13" height="31" alt="" border="0"></td>
 	<td width="709" height="31" bgcolor="#1f1122" class="white">
-	
+<a href="/" class="nav">Home</a>&nbsp;&nbsp;|      	
 	&nbsp;&nbsp;<a href="/international/index.php" class="nav">International Deals</a>&nbsp;&nbsp;|&nbsp;&nbsp; 
 	<a href="/one_way/index.php" class="nav">One-Way Deals</a>&nbsp;&nbsp;|&nbsp;&nbsp; 
 	<a href="/last_minute/index.php" class="nav">Last Minute Deals</a>&nbsp;&nbsp;|&nbsp;&nbsp; 
-	<a href="/help/index.php" class="nav">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp; 
-	<a href="/members/index.php" class="nav">Member Login</a>&nbsp;&nbsp;
+	<a href="/help/index.php" class="nav">Help</a>
 	
 	</td>
-	<td width="240" height="31" bgcolor="#1f1122" class="white" align="right">last update: Monday - December 13, 2010</td>
+	<td width="240" height="31" bgcolor="#1f1122" class="white" align="right">last update: Sunday - November 27, 2011</td>
 	<td width="13"><img src="/images/hdr2R.gif" width="13" height="31" alt="" border="0"></td>
 </tr>
 <tr>
@@ -152,512 +177,166 @@ a:hover.ppLink {
 	</tr>
 	<tr valign="top">
 		<td background="/images/resBgL.gif" width="12"><img src="/images/s.gif" width="12" height="1" alt="" border="0"></td>
-		<td width="249" bgcolor="#ffffff"><!-- ########## BEGIN RESERVATION SIDEBAR ########## -->
+		<td width="249" bgcolor="#ffffff">
+        <!-- ########## BEGIN RESERVATION SIDEBAR ########## -->		
 		
-		
-		<!-- <script type="text/javascript" src="/globals/ajax2.js"></script>
-<script language="JavaScript" src="/globals/calPop.js"></script> -->
-
-<link rel="stylesheet" type="text/css" href="/globals/ui.datepicker.css">
-
-<script language="javaScript" src="/globals/dateChange.js"></script>
-<script language="javaScript" src="/globals/formSets.js"></script>
-<script language="javaScript" src="/globals/jquery.js"></script>	
-<script language="javaScript" src="/globals/ui.datepicker.js"></script>
-<script language="javascript" type="text/javascript">
-
-/*
-function checkCity(which)
-{
-var field = document.Form0.pickupLocation;
-document.getElementById("errorMsgpu").innerHTML=""
-
-
-var code = document.Form0.pickupLocation.value;
-var getfile = '/globals/locValidate.php?which=' + which + '&code=' + code;
-//alert(getfile)
-ajax_loadContent('errorMsgpu', getfile);
-if (document.getElementById("errorMsgpu").innerHTML=""){
-return true;
-}else{
-alert("Bad PU")
-return false;
-}
-}
-function checkCityDo(which)
-{
-document.getElementById("errorMsgdo").innerHTML=""
-var code2 = document.Form0.dropoffLocation.value;
-var dook = document.Form0.dook;
-var getfile = '/globals/locValidate.php?which=' + which + '&code=' + code2;
-//alert(getfile)
-ajax_loadContent('errorMsgdo', getfile);
-ajax_loadContent('dook', getfile);
-if (document.Form0.dook.value == ""){
-return true;
-}else{
-alert("Bad DO")
-return false;
-}
-}
-
-*/
-
-function sendPUAlert(){
-alert('Please enter a valid Pick-up Location Code');
-}
-
-function sendDOAlert(){
-alert('Please enter a valid return Location Code');
-}
-
-function createRequestObject() { 
-    var ro; 
-    var browser = navigator.appName; 
-    if(browser == "Microsoft Internet Explorer"){ 
-        ro = new ActiveXObject("Microsoft.XMLHTTP"); 
-    }else{ 
-        ro = new XMLHttpRequest(); 
-    } 
-    return ro; 
-} 
-
-var http = createRequestObject(); 
-
-function checkCity(which){ 
-	var code = document.Form0.pickupLocation.value;
-	if (code.length == 3){
-    var url = '/globals/locValidate.php?which=' + which + '&code=' + code;
-    http.open('get', url); 
-    http.onreadystatechange = handleResponse; 
-    http.send(null); 
-	}
-} 
-
-function handleResponse(errorarea) { 
-    if(http.readyState == 4){ 
-        var response = http.responseText; 
-            if(response == 0){ 
-				var field = document.Form0.pickupLocation;
-				var code = document.Form0.pickupLocation.value;
-				var message = '- ' + code + ' is not a valid pick-up location';
-					document.getElementById('errorMsgpu').innerHTML=message
-					document.getElementById("SubmitArea").innerHTML="<a href=# onclick=sendPUAlert()><img src=/newimages/buttons/searchForAvailableCars.gif border=0></a>"
-                }else{
-					document.getElementById('errorMsgpu').innerHTML=""
-					document.getElementById('errorMsgdo').innerHTML=""
-					document.getElementById("SubmitArea").innerHTML="<a href=javascript:document.Form0.submit();><img src=/newimages/buttons/searchForAvailableCars.gif border=0></a>"
-					
-				
-				}
-            } 
-        } 
- 
-
-function checkCity2(which){ 
-	var code = document.Form0.dropoffLocation.value;
-	if (code.length == 3){
-    var url = '/globals/locValidate.php?which=' + which + '&code=' + code;
-    http.open('get', url); 
-    http.onreadystatechange = handleResponse2; 
-    http.send(null); 
-	}
-} 
-
-function handleResponse2(errorarea) { 
-    if(http.readyState == 4){ 
-        var response = http.responseText; 
-            if(response == 0){ 
-				var field = document.Form0.dropoffLocation;
-				var code = document.Form0.dropoffLocation.value;
-				var message = '- ' + code + ' is not a valid return location';
-					document.getElementById('errorMsgdo').innerHTML=message
-					document.getElementById("SubmitArea").innerHTML="<a href=# onclick=sendDOAlert()><img src=/newimages/buttons/searchForAvailableCars.gif border=0></a>"
-                }else{
-					document.getElementById('errorMsgdo').innerHTML=""
-					document.getElementById("SubmitArea").innerHTML="<a href=javascript:document.Form0.submit();><img src=/newimages/buttons/searchForAvailableCars.gif border=0></a>"
-				checkCity('pu');
-					
-				
-				}
-            } 
-        } 
-
-
-
-
-function validate_pickupLocation()
-{
- 
-
- 
-  var field = document.Form0.pickupLocation;
-
-  
-  
-  
-  if (field.value.length == 0)
-     return validator_invalid_field(field, "You must enter a value for Pickup Location Code.");
-
-
-
-
-
-  if (field.value.length < 3)
-     return validator_invalid_field(field, "You must enter at least 3 characters for Pickup Location Code.");
-
-  return true;
-}
-
-function $PopupLink_popup()
-{
-	aWindow = window.open('/globals/airportCodes.html?whichField=pu', 'pickupLocation', 'resizable,scrollbars,height=400,width=575', false);
-	aWindow.focus();
-}
-
-function validate_dropoffLocation()
-{
-  var field = document.Form0.dropoffLocation;
-
-
-
-  if (field.value.length == 0)
-     return true;
-
-
-
-  if (field.value.length < 3)
-     return validator_invalid_field(field, "You must enter at least 3 characters for Return Location Code.");
-
-  return true;
-}
-
-function $PopupLink$0_popup()
-{
-	aWindow = window.open('https://qaservices.avis.com/dcweb/partners/crc/airportCodes.html?whichField=do', 'dropoffLocation', 'resizable,scrollbars,height=400,width=575', false);
-	aWindow.focus();
-}
-
-var pattern_awdNumber = new RegExp("\^\[a\-zA\-Z\]\[0\-9\]\{6\}\$");
-
-function validate_awdNumber()
-{
-    var field = document.Form0.awdNumber;
-
-    if (field.value.length > 0 && !pattern_awdNumber.test(field.value))
-        return validator_invalid_field(field, "Invalid format for Avis AWD Number");
-
-    return true;
-}
-
-function $PopupLink$1_popup()
-{
-	aWindow = window.open('https://qaservices.avis.com/dcweb/partners/crc/whatsThisPopups/awd.html', 'popuplink_window', 'resizable,scrollbars,height=240,width=465', false);
-	aWindow.focus();
-}
-
-var pattern_wizardNumber = new RegExp("\^\[a\-zA\-Z\]\[a\-zA\-Z0\-9\]\{2\}\[0\-9\]\{2\}\[a\-zA\-Z0\-9\]\$");
-
-function validate_wizardNumber()
-{
-    var field = document.Form0.wizNumber;
-
-    if (field.value.length > 0 && !pattern_wizardNumber.test(field.value))
-        return validator_invalid_field(field, "Invalid format for Avis Wizard Number");
-
-    return true;
-}
-
-function $PopupLink$2_popup()
-{
-	aWindow = window.open('https://qaservices.avis.com/dcweb/partners/crc/whatsThisPopups/wizard.html', 'popuplink_window', 'resizable,scrollbars,height=240,width=465', false);
-	aWindow.focus();
-}
-
-var pattern_bcdNumber = new RegExp("\^\[a\-zA\-Z\]\[0\-9\]\{6\}\$");
-
-function validate_bcdNumber()
-{
-    var field = document.Form0.bcdNumber;
-
-    if (field.value.length > 0 && !pattern_bcdNumber.test(field.value))
-        return validator_invalid_field(field, "Invalid format for Budget BCD Number");
-
-    return true;
-}
-
-function $PopupLink$3_popup()
-{
-	aWindow = window.open('https://qaservices.avis.com/dcweb/partners/crc/whatsThisPopups/bcd.html', 'popuplink_window', 'resizable,scrollbars,height=240,width=465', false);
-	aWindow.focus();
-}
-
-var pattern_bcnNumber = new RegExp("\^\[a\-zA\-Z\]\{2\}\[0\-9\]\{3\}\[a\-zA\-Z\]\$");
-
-function validate_bcnNumber()
-{
-    var field = document.Form0.bcnNumber;
-
-    if (field.value.length > 0 && !pattern_bcnNumber.test(field.value))
-        return validator_invalid_field(field, "Invalid format for Budget BCN Number");
-
-    return true;
-}
-
-function $PopupLink$4_popup()
-{
-	aWindow = window.open('https://qaservices.avis.com/dcweb/partners/crc/whatsThisPopups/bcn.html', 'popuplink_window', 'resizable,scrollbars,height=240,width=465', false);
-	aWindow.focus();
-}
-
-
-function validateForm(){
-validate_pickupLocation();
-validate_dropoffLocation();
-validate_wizardNumber();
-validate_awdNumber();
-validate_bcdNumber();
-validate_bcnNumber();
-}
-
-function validator_invalid_field(field, message)
-{
-  field.focus();
-  field.select();
-  
-  window.alert(message);
-  
-  return false;
-}
-
-window.onload = function ()
-{
-document.Form0.pickupLocation.focus();
-document.Form0.pickupLocation.select();
-document.Form0.onsubmit = function ()
-{
-
-  return validate_pickupLocation() &&
-    validate_dropoffLocation() &&
-    validate_awdNumber() &&
-    validate_wizardNumber() &&
-validate_bcdNumber() &&
-validate_bcnNumber();
-}
-}
-
-
-
-
-
-var d=new Date();
-var day=d.getDate();
-var month=d.getMonth() + 1;
-var year=d.getFullYear();
-var today=(month + "/" + day + "/" + year);
-
-//document.write(today);
-
-
-
-function dateSet(){
-
-
-
-var textDateFormat = "${visit.textDateFormat}";
-if (textDateFormat = "mm/dd/yyyy"){
-	var visitPuDate = "Dec 14, 2010";
-	var visitDoDate = "Dec 15, 2010";
-}else{	
-	var visitPuDate = "${visit.pickupDateTime.getFormattedDate('dd/mm/yyyy')}";
-	var visitDoDate = "${visit.dropoffDateTime.getFormattedDate('dd/mm/yyyy')}";
-}
-
-document.getElementById('dateinput').value = visitPuDate;
-document.getElementById('dateinput2').value = visitDoDate;
-
-}
-</script>
-
-
-
-
-
-
-
-
-<!-- jQuery datepicker -->
+		<script type="text/javascript" src="/globals/resWidget.js"></script>
 <script type="text/javascript">
-jQuery(function($){
-	$('#dateinput').datepicker({rangeSelect: false, numberOfMonths: 2,minDate: '0d', maxDate: '1y',dateFormat: 'MM d, yy',onSelect: updateLinked });
-	$('#dateinput2').datepicker({rangeSelect: false, numberOfMonths: 2,minDate: '0d', maxDate: '1y',dateFormat: 'MM d, yy'});
+puDatePHP = '11/28/2011';
+retDatePHP = '11/29/2011'; 
+oneWayDealPHP = '';
+
+awdNumber = "";
+wizNumber = "";
+bcdNumber = "";
+bcnNumber = "";
+avisCoupon = "";
+budgetCoupon = "";
+oneWayDealPHP = "";
+   
+$(document).ready(function(){
+    function doOneWayCheck(){
+        if($('#dropoffLocation').val() != '' || $('#oneWay').val() != 'roundtrip'){
+            $('#oneWayBlock').slideDown(1000, function(){
+
+        });            
+        $('input[name=oneWay]').attr('checked', false);
+        }
+    }     
+    
+    function showMoreOptions(){
+        $('#mainContainer').css('overflow','hidden');
+        $('#moreOptions').html('Hide options'); 
+        $('#hiddenDiv').slideDown(1000, function() {
+            doOneWayCheck();   
+        });
+    }  
+        
+    if(awdNumber || avisCoupon)$("#budgetFields").css('display','none');       
+    if(awdNumber)$("#awdBlock").css('display','none');
+    if(bcdNumber || budgetCoupon)$("#avisFields").css('display','none');       
+    if(bcdNumber)$("#bcdBlock").css('display','none');
+        
+    if(awdNumber || avisCoupon || bcdNumber || budgetCoupon){
+        $("#dealDescription").css('display','block');    
+    }else{
+        $("#dealDescription").css('display','none');      
+    } 
+    
+    if(oneWayDealPHP == "yes")$('#hiddenDiv').slideDown(1000, function(){
+        showMoreOptions();
+        $('input[name=oneWay]').removeAttr('checked'); 
+        $('#oneWayBlock').slideDown(1000, function() {});   
+    });
 });
-
-function updateLinked(date) {
-
-var d = new Date();
-
-var userSelectedPickupDate = Date.parse(date);
-
-var setUpUserSelectedDropOffDateEpoch = userSelectedPickupDate + 86400000;
-
-d.setTime(setUpUserSelectedDropOffDateEpoch);
-
-var setUpUserSelectedDropOffMonth = d.getMonth();
-var setUpUserSelectedDropOffYear = d.getFullYear();
-var setUpUserSelectedDropOffDate = d.getDate();
-
-if (setUpUserSelectedDropOffMonth == "0"){
-var setUpUserSelectedDropOffMonth = "January";
-}else if (setUpUserSelectedDropOffMonth == "1"){
-var setUpUserSelectedDropOffMonth = "February";
-}else if (setUpUserSelectedDropOffMonth == "2"){
-var setUpUserSelectedDropOffMonth = "March";
-}else if (setUpUserSelectedDropOffMonth == "3"){
-var setUpUserSelectedDropOffMonth = "April";
-}else if (setUpUserSelectedDropOffMonth == "4"){
-var setUpUserSelectedDropOffMonth = "May";
-}else if (setUpUserSelectedDropOffMonth == "5"){
-var setUpUserSelectedDropOffMonth = "June";
-}else if (setUpUserSelectedDropOffMonth == "6"){
-var setUpUserSelectedDropOffMonth = "July";
-}else if (setUpUserSelectedDropOffMonth == "7"){
-var setUpUserSelectedDropOffMonth = "August";
-}else if (setUpUserSelectedDropOffMonth == "8"){
-var setUpUserSelectedDropOffMonth = "September";
-}else if (setUpUserSelectedDropOffMonth == "9"){
-var setUpUserSelectedDropOffMonth = "October";
-}else if (setUpUserSelectedDropOffMonth == "10"){
-var setUpUserSelectedDropOffMonth = "November";
-}else if (setUpUserSelectedDropOffMonth == "11"){
-var setUpUserSelectedDropOffMonth = "December";
-}
-
-var theNewDropOffDate = setUpUserSelectedDropOffMonth + ' ' +  setUpUserSelectedDropOffDate + ', ' + setUpUserSelectedDropOffYear;
-
- $('#dateinput2').val(theNewDropOffDate); 
-} 
 </script>
-
-<!-- DATES AND TIMES START -->
-<!-- <script src="/globals/res1.js"></script>	 -->
-<form method="post" name="Form0" action="/globals/rp.php">
-<input type="hidden" name="whatStepToStart" value="2">
-<input type="hidden" name="puok" value="" id="puok">
-<input type="hidden" name="dook" value="" id="dook">
-<input type="hidden" name="avisCoupon" value="" id="avisCoupon">
-<input type="hidden" name="budgetCoupon" value="" id="budgetCoupon">
-<input type="hidden" name="pid" value="CarRental"> 
-
+                         
+<div id="makeAresForm" style="padding-top:5px;_padding-top:10px;"> 
+    <form id="makeAres" method="post" action="/globals/rp.php" style="padding:0px;margin:0px;">
+	<input type="hidden" name="whatStepToStart" value="2">
+	<input type="hidden" name="puok" value="" id="puok">
+	<input type="hidden" name="dook" value="" id="dook">
+	<input type="hidden" name="avisCoupon" value="" id="avisCoupon">
+	<input type="hidden" name="budgetCoupon" value="" id="budgetCoupon">
+    <input type="hidden" name="pid" value="CarRental"> 
+	<input type="hidden" name="MID" value="privacy_policy">    
+	<input type="hidden" name="IID" id="resFormIID" value=""> 
+		<fieldset class="refForm">
+			<ol class="refForm" style="_margin-left:40px;_overflow:hidden;">
+                <li id="resError" style="width:229px;padding-bottom:10px;margin:0px;font-family:arial;color:#ff0000;font-size:11px;font-weight:bold;display:none;"></li>
+                <li>   
+	                <div class="resFormLabel"><label for="pickupLocation" class="resFormLabel">Pick-up Location</label></div>
+	                <input type="text" name="pickupLocation" id="pickupLocation" location="true" class="formFieldRes" whichone="makeAres" style="width:220px;"></li>
+	            <li>
+		            <div class="resFormLabel"><label for="pickupDate" class="resFormLabel">Pick-up Date &amp; Time</label></div>
+		            <input type="text" size="12" name="puDate" id="puDate" class="formFieldRes" whichone="makeAres" value="11/28/2011"> <select name="puTime" id="puTime" class="formFieldRes"><option value=""></option><option value="0000">12:00 AM</option><option value="0030">12:30 AM</option><option value="0100">1:00 AM</option><option value="0130">1:30 AM</option><option value="0200">2:00 AM</option><option value="0230">2:30 AM</option><option value="0300">3:00 AM</option><option value="0330">3:30 AM</option><option value="0400">4:00 AM</option><option value="0430">4:30 AM</option><option value="0500">5:00 AM</option><option value="0530">5:30 AM</option><option value="0600">6:00 AM</option><option value="0630">6:30 AM</option><option value="0700">7:00 AM</option><option value="0730">7:30 AM</option><option value="0800">8:00 AM</option><option value="0830">8:30 AM</option><option value="0900" selected="">9:00 AM</option><option value="0930">9:30 AM</option><option value="1000">10:00 AM</option><option value="1030">10:30 AM</option><option value="1100">11:00 AM</option><option value="1130">11:30 AM</option><option value="1200">12:00 PM</option><option value="1230">12:30 PM</option><option value="1300">1:00 PM</option><option value="1330">1:30 PM</option><option value="1400">2:00 PM</option><option value="1430">2:30 PM</option><option value="1500">3:00 PM</option><option value="1530">3:30 PM</option><option value="1600">4:00 PM</option><option value="1630">4:30 PM</option><option value="1700">5:00 PM</option><option value="1730">5:30 PM</option><option value="1800">6:00 PM</option><option value="1830">6:30 PM</option><option value="1900">7:00 PM</option><option value="1930">7:30 PM</option><option value="2000">8:00 PM</option><option value="2030">8:30 PM</option><option value="2100">9:00 PM</option><option value="2130">9:30 PM</option><option value="2200">10:00 PM</option><option value="2230">10:30 PM</option><option value="2300">11:00 PM</option><option value="2330">11:30 PM</option></select></li>
+				<li>
+					<div class="resFormLabel"><label for="returnDate" class="resFormLabel">Return Date &amp; Time</label></div>
+					<input type="text" size="12" name="doDate" id="doDate" class="formFieldRes" whichone="makeAres" value="11/29/2011"> <select name="doTime" id="doTime" class="formFieldRes"><option value=""></option><option value="0000">12:00 AM</option><option value="0030">12:30 AM</option><option value="0100">1:00 AM</option><option value="0130">1:30 AM</option><option value="0200">2:00 AM</option><option value="0230">2:30 AM</option><option value="0300">3:00 AM</option><option value="0330">3:30 AM</option><option value="0400">4:00 AM</option><option value="0430">4:30 AM</option><option value="0500">5:00 AM</option><option value="0530">5:30 AM</option><option value="0600">6:00 AM</option><option value="0630">6:30 AM</option><option value="0700">7:00 AM</option><option value="0730">7:30 AM</option><option value="0800">8:00 AM</option><option value="0830">8:30 AM</option><option value="0900" selected="">9:00 AM</option><option value="0930">9:30 AM</option><option value="1000">10:00 AM</option><option value="1030">10:30 AM</option><option value="1100">11:00 AM</option><option value="1130">11:30 AM</option><option value="1200">12:00 PM</option><option value="1230">12:30 PM</option><option value="1300">1:00 PM</option><option value="1330">1:30 PM</option><option value="1400">2:00 PM</option><option value="1430">2:30 PM</option><option value="1500">3:00 PM</option><option value="1530">3:30 PM</option><option value="1600">4:00 PM</option><option value="1630">4:30 PM</option><option value="1700">5:00 PM</option><option value="1730">5:30 PM</option><option value="1800">6:00 PM</option><option value="1830">6:30 PM</option><option value="1900">7:00 PM</option><option value="1930">7:30 PM</option><option value="2000">8:00 PM</option><option value="2030">8:30 PM</option><option value="2100">9:00 PM</option><option value="2130">9:30 PM</option><option value="2200">10:00 PM</option><option value="2230">10:30 PM</option><option value="2300">11:00 PM</option><option value="2330">11:30 PM</option></select></li><li id="dealDescription"><div class="resFormDealNormal"><b>Shopping deal:</b><br> Carrental.com - Privacy Policy</div></li></ol><ol style="_margin-top:-20px;_margin-bottom:0px;"><li><p id="moreOptions" class="resFormP">More options...</p></li></ol>
+			<ol id="hiddenDiv" class="refForm">                
+				<li>  
+					<input type="checkbox" name="oneWay" id="oneWay" class="formCheckBoxRes" whichone="makeAres" value="roundtrip" style="float:left;" checked="">   
+	               	<label for="oneWay" class="resFormChk">Returning to same location <br><span style="font-size:.8em;">(Uncheck for different location)</span></label></li>
+	           	<li style="display:none;" id="oneWayBlock">
+	            	<div class="resFormLabel"><label for="dropoffLocation" class="resFormLabel">Return Location</label></div>
+	                <input type="text" name="dropoffLocation" id="dropoffLocation" location="false" class="formFieldRes" whichone="makeAres" style="width:220px;"></li>
+                <li id="avisFields">
+                    <div class="resFormLabel">
+                        <div class="resFormSideBySideL">
+                            <label for="wizNumber" class="resFormDiscountLabel">Avis Wizard #</label>
+                            <input type="text" size="10" name="wizNumber" id="wizNumber" class="formFieldRes" whichone="makeAres" value="">  
+                        </div>
+                        <div class="resFormSideBySideR" id="awdBlock">
+                            <label for="awdNumber" class="resFormDiscountLabel">Avis AWD #</label>
+                            <input type="text" size="10" name="awdNumber" id="awdNumber" class="formFieldRes" whichone="makeAres" value=""> 
+                        </div>
+                    </div> 
+                </li>
+                <li id="budgetFields">
+                    <div class="resFormLabel">
+                        <div class="resFormSideBySideL">
+                            <label for="bcnNumber" class="resFormDiscountLabel">Budget Fastbreak #</label>
+                            <input type="text" size="10" name="bcnNumber" id="bcnNumber" class="formFieldRes" whichone="makeAres" value="">
+                        </div>
+                        <div class="resFormSideBySideR" id="bcdBlock">
+                            <label for="bcdNumber" class="resFormDiscountLabel">Budget BCD #</label>
+                            <input type="text" size="10" name="bcdNumber" id="bcdNumber" class="formFieldRes" whichone="makeAres" value="">  
+                        </div>
+                    </div> 
+                </li>                    
+			</ol>
+	    </fieldset>
+		<div align="right" style="width:100%;height:30px;float:right;padding:0px;margin:0px;_margin-left:40px;"><input type="image" src="/images/makeAResButton.gif" width="196" height="30" alt="" border="0" value="submit" name="submit"></div>
+	</form>
+</div>         		
 		
-		<table cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td style="padding-top:10px;" class="resSection">Where</td>
-		</tr>
-		<tr>
-			<td>
-			
-<!-- LOCATIONS BEGIN -->
-
-<table cellspacing="2" cellpadding="0" border="0">
-<tbody><tr>
-	<td class="resTitle" style="padding-right:25px;">Pick-up Location Code</td>
-</tr>
-<tr valign="middle">
-	<td><input type="text" name="pickupLocation" size="5" value="" maxlength="3" style="height:19px;"><a href="javascript:$PopupLink_popup();" class="res">Airport Codes</a></td>
-</tr>
-</tbody></table>
-
-
-<!-- LOCATIONS END -->			
-			
-			</td>
-		</tr>
-		<tr>
-			<td style="padding-top:10px;" class="resSection">When</td>
-		</tr>
-		<tr>
-			<td>
-<table cellspacing="2" cellpadding="0" border="0">
-
-<tbody><tr>
-	<td colspan="3" class="resTitle">Pick-up Date and Time</td>
-</tr>
-<tr valign="middle">
-	<td><input type="text" name="puDate" size="15" maxlength="50" id="dateinput" onchange="setDropoffDate()" style="height:19px;" class="hasDatepicker"></td>
-	<td><!-- <A HREF="#" onClick="popupCalendar('0','pickupDaySelection','pickupMonthSelection','en','US',140,120,140,120)" ><img src="/images/calendar.gif" width="23" height="19" border="0"></a> --></td>	
-	<td><select name="putime" class="resForm" style="height:19px;"><option value="0000">midnight</option><option value="0015">12:15 AM</option><option value="0030">12:30 AM</option><option value="0045">12:45 AM</option><option value="0100">1:00 AM</option><option value="0115">1:15 AM</option><option value="0130">1:30 AM</option><option value="0145">1:45 AM</option><option value="0200">2:00 AM</option><option value="0215">2:15 AM</option><option value="0230">2:30 AM</option><option value="0245">2:45 AM</option><option value="0300">3:00 AM</option><option value="0315">3:15 AM</option><option value="0330">3:30 AM</option><option value="0345">3:45 AM</option><option value="0400">4:00 AM</option><option value="0415">4:15 AM</option><option value="0430">4:30 AM</option><option value="0445">4:45 AM</option><option value="0500">5:00 AM</option><option value="0515">5:15 AM</option><option value="0530">5:30 AM</option><option value="0545">5:45 AM</option><option value="0600">6:00 AM</option><option value="0615">6:15 AM</option><option value="0630">6:30 AM</option><option value="0645">6:45 AM</option><option value="0700">7:00 AM</option><option value="0715">7:15 AM</option><option value="0730">7:30 AM</option><option value="0745">7:45 AM</option><option value="0800">8:00 AM</option><option value="0815">8:15 AM</option><option value="0830">8:30 AM</option><option value="0845">8:45 AM</option><option value="0900" selected="">9:00 AM</option><option value="0915">9:15 AM</option><option value="0930">9:30 AM</option><option value="0945">9:45 AM</option><option value="1000">10:00 AM</option><option value="1015">10:15 AM</option><option value="1030">10:30 AM</option><option value="1045">10:45 AM</option><option value="1100">11:00 AM</option><option value="1115">11:15 AM</option><option value="1130">11:30 AM</option><option value="1145">11:45 AM</option><option value="1200">noon</option><option value="1215">12:15 PM</option><option value="1230">12:30 PM</option><option value="1245">12:45 PM</option><option value="1300">1:00 PM</option><option value="1315">1:15 PM</option><option value="1330">1:30 PM</option><option value="1345">1:45 PM</option><option value="1400">2:00 PM</option><option value="1415">2:15 PM</option><option value="1430">2:30 PM</option><option value="1445">2:45 PM</option><option value="1500">3:00 PM</option><option value="1515">3:15 PM</option><option value="1530">3:30 PM</option><option value="1545">3:45 PM</option><option value="1600">4:00 PM</option><option value="1615">4:15 PM</option><option value="1630">4:30 PM</option><option value="1645">4:45 PM</option><option value="1700">5:00 PM</option><option value="1715">5:15 PM</option><option value="1730">5:30 PM</option><option value="1745">5:45 PM</option><option value="1800">6:00 PM</option><option value="1815">6:15 PM</option><option value="1830">6:30 PM</option><option value="1845">6:45 PM</option><option value="1900">7:00 PM</option><option value="1915">7:15 PM</option><option value="1930">7:30 PM</option><option value="1945">7:45 PM</option><option value="2000">8:00 PM</option><option value="2015">8:15 PM</option><option value="2030">8:30 PM</option><option value="2045">8:45 PM</option><option value="2100">9:00 PM</option><option value="2115">9:15 PM</option><option value="2130">9:30 PM</option><option value="2145">9:45 PM</option><option value="2200">10:00 PM</option><option value="2215">10:15 PM</option><option value="2230">10:30 PM</option><option value="2245">10:45 PM</option><option value="2300">11:00 PM</option><option value="2315">11:15 PM</option><option value="2330">11:30 PM</option><option value="2345">11:45 PM</option></select></td>
-</tr>
-<tr>
-	<td colspan="3"></td>
-</tr>
-<tr>
-	<td colspan="3" class="resTitle">Drop-off Date and Time</td>
-</tr>
-<tr valign="middle">
-	<td><input type="text" name="doDate" size="15" maxlength="50" id="dateinput2" style="height:19px;" class="hasDatepicker"></td>
-	<td><!-- <A HREF="#" onClick="popupCalendar('0','dropoffDaySelection','dropoffMonthSelection','en','US',140,120,140,120)" ><img src="/images/calendar.gif" width="23" height="19" border="0"></a> --></td>
-	<td><select name="doTime" class="resForm" style="height:19px;"><option value="0000">midnight</option><option value="0015">12:15 AM</option><option value="0030">12:30 AM</option><option value="0045">12:45 AM</option><option value="0100">1:00 AM</option><option value="0115">1:15 AM</option><option value="0130">1:30 AM</option><option value="0145">1:45 AM</option><option value="0200">2:00 AM</option><option value="0215">2:15 AM</option><option value="0230">2:30 AM</option><option value="0245">2:45 AM</option><option value="0300">3:00 AM</option><option value="0315">3:15 AM</option><option value="0330">3:30 AM</option><option value="0345">3:45 AM</option><option value="0400">4:00 AM</option><option value="0415">4:15 AM</option><option value="0430">4:30 AM</option><option value="0445">4:45 AM</option><option value="0500">5:00 AM</option><option value="0515">5:15 AM</option><option value="0530">5:30 AM</option><option value="0545">5:45 AM</option><option value="0600">6:00 AM</option><option value="0615">6:15 AM</option><option value="0630">6:30 AM</option><option value="0645">6:45 AM</option><option value="0700">7:00 AM</option><option value="0715">7:15 AM</option><option value="0730">7:30 AM</option><option value="0745">7:45 AM</option><option value="0800">8:00 AM</option><option value="0815">8:15 AM</option><option value="0830">8:30 AM</option><option value="0845">8:45 AM</option><option value="0900" selected="">9:00 AM</option><option value="0915">9:15 AM</option><option value="0930">9:30 AM</option><option value="0945">9:45 AM</option><option value="1000">10:00 AM</option><option value="1015">10:15 AM</option><option value="1030">10:30 AM</option><option value="1045">10:45 AM</option><option value="1100">11:00 AM</option><option value="1115">11:15 AM</option><option value="1130">11:30 AM</option><option value="1145">11:45 AM</option><option value="1200">noon</option><option value="1215">12:15 PM</option><option value="1230">12:30 PM</option><option value="1245">12:45 PM</option><option value="1300">1:00 PM</option><option value="1315">1:15 PM</option><option value="1330">1:30 PM</option><option value="1345">1:45 PM</option><option value="1400">2:00 PM</option><option value="1415">2:15 PM</option><option value="1430">2:30 PM</option><option value="1445">2:45 PM</option><option value="1500">3:00 PM</option><option value="1515">3:15 PM</option><option value="1530">3:30 PM</option><option value="1545">3:45 PM</option><option value="1600">4:00 PM</option><option value="1615">4:15 PM</option><option value="1630">4:30 PM</option><option value="1645">4:45 PM</option><option value="1700">5:00 PM</option><option value="1715">5:15 PM</option><option value="1730">5:30 PM</option><option value="1745">5:45 PM</option><option value="1800">6:00 PM</option><option value="1815">6:15 PM</option><option value="1830">6:30 PM</option><option value="1845">6:45 PM</option><option value="1900">7:00 PM</option><option value="1915">7:15 PM</option><option value="1930">7:30 PM</option><option value="1945">7:45 PM</option><option value="2000">8:00 PM</option><option value="2015">8:15 PM</option><option value="2030">8:30 PM</option><option value="2045">8:45 PM</option><option value="2100">9:00 PM</option><option value="2115">9:15 PM</option><option value="2130">9:30 PM</option><option value="2145">9:45 PM</option><option value="2200">10:00 PM</option><option value="2215">10:15 PM</option><option value="2230">10:30 PM</option><option value="2245">10:45 PM</option><option value="2300">11:00 PM</option><option value="2315">11:15 PM</option><option value="2330">11:30 PM</option><option value="2345">11:45 PM</option></select></td>
-</tr>
-</tbody></table>
-
-<!-- DATES AND TIMES END -->
-
-			
-			</td>
-		</tr>
-		<tr>
-			<td style="padding-top:10px;" class="resSection">Discounts and Memberships</td>
-		</tr>
-		<tr>
-			<td>
-			
-<table cellspacing="2" cellpadding="0" border="0">
-<tbody><tr>
-	<td class="resTitle">Avis Wizard #:</td>
-	<td rowspan="4"><img src="/images/s.gif" width="5" height="1" alt=""></td>
-	<td class="resTitle">Budget BCN #:</td>	
-	<td rowspan="4"><img src="/images/s.gif" width="5" height="1" alt=""></td>
-	<td><!-- Coupon #: --></td>
-</tr>
-<tr valign="middle">
-	<td><input type="text" name="wizNumber" maxlength="6" size="10" value="" style="height:19px;"> <a href="javascript:$PopupLink$2_popup();" class="res">?</a></td>
-	<td><input type="text" name="bcnNumber" maxlength="6" size="10" value="" style="height:19px;"> <a href="javascript:$PopupLink$4_popup();" class="res">?</a></td>
-	<td><!-- <input type="text" name="couponNumber" maxlength="6" size="10" value=""> <a href="javascript:$PopupLink$4_popup();">?</a> --></td>
-</tr>
-
-<tr>
-	<td class="resTitle">Avis AWD #:</td>
-	<td class="resTitle">Budget BCD #:</td>
-	<td></td>
-</tr>
-<tr valign="middle">
-	<td><input type="text" name="awdNumber" maxlength="7" size="10" value=""> <a href="javascript:$1_popup();" class="res" style="height:19px;">?</a></td>
-	<td><input type="text" name="bcdNumber" maxlength="7" size="10" value=""> <a href="javascript:$3_popup();" class="res" style="height:19px;">?</a></td>
-	<td></td>
-</tr>
-	</tbody></table></td>
-</tr>
-</tbody></table>
-
-<script language="javascript" type="text/javascript">
-window.onLoad = dateSet();
-</script>
-
-		
-		<div align="right" style="padding-top:10px;"><input type="image" src="/images/continue.gif" width="120" height="30" alt="" border="0"></div>
-		
-		
-		<!-- ########## END RESERVATION SIDEBAR ########## --></form></td>
+		<!-- ########## END RESERVATION SIDEBAR ########## --></td>
 		<td background="/images/resBgR.gif" width="13"><img src="/images/s.gif" width="13" height="1" alt="" border="0"></td>
 	</tr>
-	
 	<tr>
 		<td colspan="3" width="274" height="11"><img src="/images/resFtr.gif" alt="" border="0"></td>
 	</tr>
 	</tbody></table>
 	<br><br>
-	
+	<table width="274" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+        <td colspan="3" width="274" height="43"><img src="/images/dealsHdr.gif" alt="" width="274" height="43" border="0"></td>
+    </tr>
+    <tr valign="top">
+        <td background="/images/resBgL.gif" width="12"><img src="/images/s.gif" width="12" height="1" alt="" border="0"></td>
+        <td width="249" bgcolor="#ffffff">
+        <!-- ########## BEGIN DEALS SIDEBAR ########## -->
+        
+        <script type="text/javascript">
+function verifyForm() {                                                        
+    if(document.form.code.value=="SS") {
+        alert("You must select a city from the list.");
+        return false;
+    }
+}
+</script>        
+        
+        <table width="249" cellspacing="0" cellpadding="0" border="0">
+        <form action="/CD/" name="form" method="post" onsubmit="return verifyForm()"></form>
+        <input type="hidden" name="ICID" value="Great Deals In Great Cities Form">
+        <tbody><tr>
+            <td><img src="/images/s.gif" width="2" height="40" alt=""></td>
+            <td><select name="code">
+            <option value="SS" selected="">Select A City
+                </option><option value="ABQ">Albuquerque, NM</option><option value="ATL">Atlanta, GA</option><option value="AUS">Austin, TX</option><option value="CHS">Charleston, SC</option><option value="CVG">Cincinnati, OH</option><option value="CLE">Cleveland, OH</option><option value="COS">Colorado Springs, CO</option><option value="CMH">Columbus, OH</option><option value="DFW">Dallas Fort Worth, TX</option><option value="DAL">Dallas Love Field, TX</option><option value="DAY">Dayton, OH</option><option value="DTW">Detroit, MI</option><option value="IAH">Houston George Bush, TX</option><option value="HOU">Houston Hobby, TX</option><option value="MCI">Kansas City, MO</option><option value="SDF">Louisville, KY</option><option value="MSP">Minneapolis, MN</option><option value="OKC">Oklahoma City, OK</option><option value="PNS">Pensacola, FL</option><option value="PIT">Pittsburgh, PA</option><option value="PDX">Portland, OR</option><option value="RNO">Reno, NV</option><option value="RIC">Richmond, VA</option><option value="SMF">Sacramento, CA</option><option value="SAT">San Antonio, TX</option><option value="SFO">San Francisco, CA</option><option value="SJC">San Jose, CA</option><option value="TLH">Tallahassee, FL</option><option value="TOL">Toledo, OH</option><option value="YYZ">Toronto, ON</option><option value="TUL">Tulsa, OK</option><option value="ICT">Wichita, KS            </option></select></td>
+        </tr>
+        <tr>
+            <td colspan="2" align="right"><input type="image" src="/images/go.gif" width="61" height="30"></td>
+        </tr>
+        
+        </tbody></table>        
+        <!-- ########## END DEALS SIDEBAR ########## --></td>
+        <td background="/images/resBgR.gif" width="13"><img src="/images/s.gif" width="13" height="1" alt="" border="0"></td>
+    </tr>
+    <tr>
+        <td colspan="3" width="274" height="11"><img src="/images/dealsFtr.gif" width="274" height="11" alt="" border="0"></td>
+    </tr>
+    </tbody></table>
 	</td>
 	<td width="75"><img src="/images/s.gif" width="75" height="1" alt="" border="0"></td>
 	<td width="626"><table width="626" border="0" cellspacing="0" cellpadding="0">
@@ -919,7 +598,7 @@ If we materially change the way your personal information will be used, we notif
 <!-- ########## BEGIN FOOTER ########## -->
 <table width="975" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-	<td height="15"><img src="images/s.gif" width="1" height="15" alt="" border="0"></td>
+	<td height="15"><img src="/images/s.gif" width="1" height="15" alt="" border="0"></td>
 </tr>
 <tr>
 	<td class="footer" align="center">
@@ -927,14 +606,20 @@ If we materially change the way your personal information will be used, we notif
 	<a href="/globals/pp.php" class="footer">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 	<a href="/globals/terms.php" class="footer">Terms of Use</a><p></p>
 
-	© 2010 Carrental.com	
+	© 2011 Carrental.com	
 	</td>
 </tr>
 </tbody></table>
-
+<script language="JavaScript" type="text/javascript">
+var s_code=s.t();if(s_code)document.write(s_code)
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+</script><noscript><img src="http://ccrg.112.2o7.net/b/ss/ccrgcarrentalcom/1/H.22.1--NS/0"
+height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.22.1. --> 
 <map name="imap1">
-<area alt="Home" coords="14,13,350,36" href="http://www.carrentalsupport.com/">
-</map><!-- ########## END FOOTER ########## -->
+<area alt="Home" coords="14,13,350,36" href="http://www.carrental.com/">
+</map>
+<!-- ########## END FOOTER ########## -->
 
 </div>
 
@@ -945,4 +630,4 @@ If we materially change the way your personal information will be used, we notif
 
 
 
-<div id="datepicker_div"></div></body></html>
+<div style="min-height: 100px; height: auto; padding: 0px; border-width: 0px;"></div></body></html>
