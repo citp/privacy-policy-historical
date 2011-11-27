@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tecnick.com privacy policy that was archived on 2011-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110527065848id_/http%3A//www.tecnick.com/public/code/cp_dpage.php%3Faiocp_dp%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tecnick.com privacy policy that was archived on 2011-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111127042009id_/http%3A//www.tecnick.com/public/code/cp_dpage.php%3Faiocp_dp%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
 <title>Privacy Statement</title>
@@ -19,19 +19,89 @@
 <div class="left"><div class="tagline">Open Source Software Solutions</div></div>
 <div class="right">
 <div class="headertools">
-<a href="http://www.addthis.com/bookmark.php" onclick="addthis_url=location.href;addthis_title=document.title;return addthis_click(this);" target="_blank"><img src="http://s9.addthis.com/button1-bm.gif" width="125" height="16" style="border:none;" alt="Bookmark and Share"></a><script type="text/javascript">var addthis_pub='nicolaasuni';</script><script type="text/javascript" src="http://s9.addthis.com/js/widget.php?v=10"></script>
-
-<form action="http://www.tcexam.org/search.php" id="cse-search-box">
+<form action="http://www.tecnick.com/public/code/cp_search.php" id="cse-search-box">
 <div id="gsrch">
 <input type="hidden" name="cx" id="cx" value="010943011149682345787:p6weyohdcl8">
 <input type="hidden" name="cof" id="cof" value="FORID:11">
 <input type="hidden" name="ie" id="ie" value="UTF-8">
 <label for="q" style="font-size:small;">?</label> 
-<input type="text" name="q" id="q" size="20" title="Google search">
+<input type="text" name="q" id="q" size="20" title="Google Search" style="background: url(&quot;https://www.google.it/cse/intl/en/images/google_custom_search_watermark.gif&quot;) left center no-repeat rgb(255, 255, 255);">
 <input type="submit" name="sa" id="gsearch" value="search">
 </div>
-</form>
-<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+<input name="siteurl" type="hidden" value="web.archive.org/web/20111127042009id_/http%3A//www.tecnick.com/public/code/cp_dpage.php%3Faiocp_dp%3Dprivacy"></form>
+<script type="text/javascript">
+//<![CDATA[
+
+(function() {
+var f = document.getElementById('cse-search-box');
+if (!f) {
+f = document.getElementById('searchbox_demo');
+}
+if (f && f['q']) {
+var q = f['q'];
+var n = navigator;
+var l = location;
+var su = function () {
+var u = document.createElement('input');
+var v = document.location.toString();
+var existingSiteurl = /(?:[?&]siteurl=)([^&#]*)/.exec(v);
+if (existingSiteurl) {
+v = decodeURI(existingSiteurl[1]);
+}
+var delimIndex = v.indexOf('://');
+if (delimIndex >= 0) {
+v = v.substring(delimIndex + '://'.length, v.length);
+}
+u.name = 'siteurl';
+u.value = v;
+u.type = 'hidden';
+f.appendChild(u);
+};
+if (n.appName == 'Microsoft Internet Explorer') {
+var s = f.parentNode.childNodes;
+for (var i = 0; i < s.length; i++) {
+        if (s[i].nodeName == 'SCRIPT' &&
+            s[i].attributes['src'] &&
+            s[i].attributes['src'].nodeValue == unescape('https:\x2F\x2Fwww.google.it\x2Fcse\x2Fbrand?form=cse-search-box\x26amp\x3Blang=it')) {
+          su();
+          break;
+        }
+      }
+    } else {
+      su();
+    }
+
+    
+    if (n.platform == 'Win32') {
+      q.style.cssText = 'border: 1px solid #7e9db9; padding: 2px;';
+    }
+
+    
+    if (window.history.navigationMode) {
+      window.history.navigationMode = 'compatible';
+    }
+
+    var b = function() {
+      if (q.value == '') {
+        q.style.background = '#FFFFFF url(https:\x2F\x2Fwww.google.it\x2Fcse\x2Fintl\x2Fen\x2Fimages\x2Fgoogle_custom_search_watermark.gif) left no-repeat';
+      }
+    };
+
+    var f = function() {
+      q.style.background = '#ffffff';
+    };
+
+    q.onfocus = f;
+    q.onblur = b;
+
+    
+    if (!/[&?]q=[^&]/.test(l.search)) {
+      b();
+    }
+  }
+})();
+//]]>
+</script>
 
 <!--# NEWSLETTER_REGBOX #-->
 <!--# LANGSEL #-->
@@ -121,6 +191,8 @@ google_color_url = "0060BF";
 <div class="container">
 
 <h1>Privacy Statement</h1>
+<div class="addthis_toolbox addthis_default_style"><a class="addthis_button_google_plusone"></a><a class="addthis_button_facebook_like"></a><a class="addthis_button_tweet"></a><a class="addthis_counter addthis_pill_style"></a></div><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=nicolaasuni"></script>
+
 
 <!-- overLIB ==================== -->
 <div id="overDiv" style="z-index:1000; visibility:hidden; position:absolute"></div>
