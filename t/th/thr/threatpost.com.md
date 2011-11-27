@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the threatpost.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529123722id_/http%3A//threatpost.com/node/76) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the threatpost.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127235721id_/http%3A//threatpost.com/node/76) for the most accurate reproduction.*
 
 # Privacy Policy | threatpost
 
