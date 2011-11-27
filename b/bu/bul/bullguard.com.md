@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bullguard.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102005821id_/http%3A//www.bullguard.com/about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullguard.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127151626id_/http%3A//www.bullguard.com/about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # BullGuard - Privacy Policy
 
@@ -14,7 +14,7 @@ The information that we collect helps us personalise and continually improve you
 
 This Privacy Statement is subject to changes. Any changes in our privacy policy or practices regarding personally identifiable information will be posted on this Web site 30 days before they take effect. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page _._
 
-**The information we collect and how we collect it**
+ **The information we collect and how we collect it**
 
 We store all the information you enter on our Web site to customise services for you, improve our Web site, and communicate with you in regards to special offers, bonuses, sales and related marketing information and activities.
 
@@ -26,22 +26,22 @@ Personal information is requested when you place an order, register an account o
 
 Your friend may contact us at support@bullguard.com to request that we remove this information from our database.
 
-**  
+ **  
 Cookies**
 
 Cookies are small pieces of information that our Web sites provide to your browser when you visit our sites. We use these cookies to track which parts of our Web site you prefer and which particular services you have taken an interest in. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You can set your browser to reject cookies or notify you if a web site tries to place a cookie in your browser. Rejecting cookies may affect your ability to access some of our services. Consult the "Help" function in your browser to learn about your cookie preferences.
 
-**Web beacons**
+ **Web beacons**
 
 Web beacons are invisible graphical images also known as single pixel GIFs. We use web beacons to assess which pages users access. We don't, however, link the information provided by web beacons to any personally identifiable information you submit whilst on our site. You can also set your browser not to display images. Using this setting may affect your ability to access some of our services. Consult the "Help" function in your browser to learn about displaying images.
 
-**Website statistics**
+ **Website statistics**
 
 While you visit the BullGuard Web site, we use your IP address to track your activity and log your browser type, which pages you view, how you got to our Web site and any links you use to leave our site. At no point is this correlated with any personal information. These patterns provide us with useful information as to what you as a customer expect from our site and how we can improve content and navigational tools. It is important to emphasise that we do not track you once you leave the BullGuard Web site.
 
 We take advantage of the third-party tracking services provided by Index Tools, who use cookies to track non-personally identifiable information about visitors to our site. As part of this process, the type of operating system used, screen settings and IP addresses are captured to provide volume statistics and track the success of our marketing and public information programmes.
 
-**What we do with the information**
+ **What we do with the information**
 
 Information about our customers is an important part of our business, and we do not share or sell your information with third parties for their promotional use. We may share it with third parties who would use it solely to ensure we are providing you with the best user experience.
 
@@ -54,7 +54,7 @@ As we continue to develop our business, we may sell or buy other companies or en
 
 We will share your personally identifiable information with third parties when we find it necessary to so such as to comply with a government subpoena, court order or judicial proceeding. We may also share your information in the event that it was necessary in protecting the copyrights or safety of BullGuard and or its users.
 
-**Communication from BullGuard**
+ **Communication from BullGuard**
 
 Opt-in:
 
@@ -68,13 +68,13 @@ Opt-out:
 
 \- Support. We will communicate with you to respond to support requests. This communication takes the form you select (e.g. chat, email).
 
-**The security of your information**
+ **The security of your information**
 
 We pass payment information directly to a payment processor over s secure connection. Only the payment processor stores the entire credit card number. BullGuard stores the last four digits and the expiry date so we can offer you services such as automatic renewal of subscriptions and remind you if your card has expired. During the order processing you may be directed onto pages hosted by the online payment providers, whilst providing your payment information. These pages maintain the look and feel of pages hosted by BullGuard, but identifies the online payment provider in the url.
 
 We maintain industry standard technology standards to maintain the security of your information. We use Secure Socket Layer (SSL) software to encrypt the information you input. We maintain electronic, procedural and physical safeguards in connection with the collection, storage and disclosure of any personally identifiable information. These procedures entail that we may request proof of identity before we disclose any personal information to you.
 
-**How you can change your information** You can update or change your personal information by:
+ **How you can change your information** You can update or change your personal information by:
 
 \- accessing your user account at [https://www.bullguard.com/login.aspx](https://web.archive.org/login.aspx)
 
@@ -84,9 +84,11 @@ We maintain industry standard technology standards to maintain the security of y
 
 BullGuard Ltd.  
 Customer Relations Dept.  
-823 Salisbury House  
-29 Finsbury Circus  
-EC2M 5QQ London
+Capital Place  
+120 Bath Road  
+Heathrow  
+Hounslow  
+UB3 5AN
 
 United Kingdom
 
@@ -94,11 +96,11 @@ United Kingdom
 
 BullGuard does not sell products for purchase by children.
 
-**Blog Disclosure**
+ **Blog Disclosure**
 
 If you use a bulletin board, blog, or chat room on this website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information that you choose to submit in these forums.
 
-**Third-Party Sites**
+ **Third-Party Sites**
 
 The Site contains links to other web sites. BullGuard is not responsible for the privacy practices or the content of these other web sites. Customers and visitors will need to check the policy statement of these others web sites to understand their policies.
 
