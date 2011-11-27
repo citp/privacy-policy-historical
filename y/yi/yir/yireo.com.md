@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the yireo.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605191643id_/http%3A//www.yireo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yireo.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127103024id_/http%3A//www.yireo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for Yireo
+# About Us - Privacy Policy for Yireo
 
-## Scope of This Notice
-
-This Privacy Statement is intended to describe Yireo's privacy practices and provide information about the choices you have regarding the ways in which information collected by Yireo is used and disclosed.
+## This Privacy Statement is intended to describe Yireo's privacy practices and provide information about the choices you have regarding the ways in which information collected by Yireo is used and disclosed.
 
 Please note that our co-branded web sites (web sites where Yireo has presented content together with one or more of our business partners) may be governed by additional or different privacy provisions.
 
@@ -86,7 +84,7 @@ You may let us know whether or not you would like to receive information, specia
 Yireo will provide you with the opportunity to opt-out of any of our direct marketing communications at any time. All promotional email sent from Yireo will contain a provision allowing you the option to decline receiving future promotional email. You may unsubscribe to an email communication by contacting Yireo at either of the addresses provided below and requesting that you be unsubscribed from that specific communication:
 
   * Web: Contact form
-  * Regular mail: Jira ICT V.O.F., Palfrenier 34, 1188 DP Amstelveen, The Netherlands
+  * Email: info@yireo.com
 
 
 
@@ -124,15 +122,7 @@ Yireo gives you the ability to access, modify or update your information at any 
 
 ### How to Contact Us
 
-If you have any questions about any of these practices or Yireos use of your personal information, please feel free to contact us by web, or by mail at:
-
-Jira ICT V.O.F.  
-Legal Affairs  
-Palfrenier 34  
-1188 DP Amstelveen  
-The Netherlands
-
-Yireo will work with you to resolve any concerns you may have about this Statement.
+If you have any questions about any of these practices or Yireos use of your personal information, please feel free to contact us through the Contact Form on this site or by emailing us at info [Dd] Yireo will work with you to resolve any concerns you may have about this Statement.
 
 ### Changes to this Privacy Statement
 
