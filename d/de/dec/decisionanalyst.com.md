@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the decisionanalyst.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527063607id_/http%3A//www.decisionanalyst.com/privacy.dai) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decisionanalyst.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127152440id_/http%3A//www.decisionanalyst.com/privacy.dai) for the most accurate reproduction.*
 
 # Privacy Policy
 
-You are here: [Home](https://web.archive.org/index.dai) | Privacy Policy 
+[Home](https://web.archive.org/index.dai) | Privacy Policy 
 
 * * *
 
@@ -18,19 +18,19 @@ We believe that consumers have an inalienable right to privacy. We protect your 
 We take your trust, and our responsibilities, very seriously. Here are our privacy practices regarding the information you entrust to us. 
 
 **Who We Are**  
-The site [www.DecisionAnalyst.com](https://web.archive.org/web/20110527063607id_/http%3A//www.decisionanalyst.com/index.dai) is owned and operated by [Decision Analyst, Inc](https://web.archive.org/web/20110527063607id_/http%3A//www.decisionanalyst.com/index.dai).  Tell me more.
+The site [www.DecisionAnalyst.com](https://web.archive.org/web/20111127152440id_/http%3A//www.decisionanalyst.com/index.dai) is owned and operated by [Decision Analyst, Inc](https://web.archive.org/web/20111127152440id_/http%3A//www.decisionanalyst.com/index.dai).  Tell me more.
 
 **Information We Collect From You**  
-We only collect the personal identifying information (name, address, phone number, and email address, etc.) you voluntarily provide to us when downloading our marketing research data, white papers, and Stats™ Statistical Software. Tell me more.
+We only collect the personal identifying information (name, address, phone number, and email address, etc.) you voluntarily provide to us when downloading our marketing research data, white papers, and STATS™ 2.0 Statistical Software. Tell me more.
 
 **How We Use Your Information**  
 We use the information you provide us to measure our advertising efforts and for our marketing efforts. Tell me more.
 
 **We Do Not Share Your Information**  
-We don't share any information that personally identifies you with any business, client, or business partner. Decision Analyst does not sell or rent your personal information to anyone. Tell me more.
+We don’t share any information that personally identifies you with any business, client, or business partner. Decision Analyst does not sell or rent your personal information to anyone. Tell me more.
 
-**Use Of Internet Technology ("Cookies" and Log Files)**  
-We do not use cookies for the [www.decisionanalyst.com](https://web.archive.org/web/20110527063607id_/http%3A//www.decisionanalyst.com/index.dai) corporate site. We may, however, use cookies to track our advertising efforts for our American Consumer Opinion� website. Some of this tracking is conducted through the site [www.decisionanalyst.com](https://web.archive.org/web/20110527063607id_/http%3A//www.decisionanalyst.com/index.dai). We do collect information in our log files.  Tell me more.
+**Use Of Internet Technology (“Cookies” and Log Files)**  
+We do not use cookies for the [www.decisionanalyst.com](https://web.archive.org/web/20111127152440id_/http%3A//www.decisionanalyst.com/index.dai) corporate site. We may, however, use cookies to track our advertising efforts for our American Consumer Opinion® website. Some of this tracking is conducted through the site [www.decisionanalyst.com](https://web.archive.org/web/20111127152440id_/http%3A//www.decisionanalyst.com/index.dai). We do collect information in our log files.  Tell me more.
 
 **Links To Outside Sites**  
 The www.decisionanalyst.com website contains links to other websites whose privacy policies may differ from ours.  Tell me more.
@@ -59,7 +59,7 @@ Back to top
 
 **Information We Collect From You**
 
-The only information that we collect from you is the information you voluntarily give to us when you download marketing research data, white papers, and Stats™ Statistical Software. 
+The only information that we collect from you is the information you voluntarily give to us when you download marketing research data, white papers, and STATS™ 2.0 Statistical Software. 
 
   * We collect your name, company name, company phone number, company fax number, mailing address, and email address.
 
@@ -69,10 +69,10 @@ Back to top
 
 **How We Use Your Information**
 
-We use the information you provide to us while downloading marketing research data, white papers, and Stats™ Statistical Software to: 
+We use the information you provide to us while downloading marketing research data, white papers, and STATS™ 2.0 Statistical Software to: 
 
   * To measure the effectiveness of our advertising
-  * To update you of any changes in STATS™ Statistical Software
+  * To update you of any changes in STATS™ 2.0 Statistical Software
   * To respond to an inquiry or request for information
   * To thank you for contacting Decision Analyst
   * To send you information about Decision Analyst products and services that we think might interest you. 
@@ -88,9 +88,9 @@ We do not share your personal information with any third parties-no client, no b
 
 Back to top
 
-**Use Of Internet Technology ("Cookies" And Log Files)**
+**Use Of Internet Technology (“Cookies” And Log Files)**
 
-  * "Cookies" are pieces of information that a website transfers to your computer's hard drive for record-keeping purposes. Cookies are used by thousands of websites to make your life as a web user much easier. Cookies are not used on our corporate website; however, there are occasions where we may use cookies for American Consumer Opinion� website. For example in the Affiliate Program, we may use cookies to track registrations back to any affiliate site that may have referred American Consumer Opinion� panel members, and we may use cookies to track other advertising efforts for American Consumer Opinion�. Some of this tracking is routed through the [ www.decisionanalyst.com](http://www.decisionanalyst.com/) website.
+  * “Cookies” are pieces of information that a website transfers to your computer's hard drive for record-keeping purposes. Cookies are used by thousands of websites to make your life as a web user much easier. Cookies are not used on our corporate website; however, there are occasions where we may use cookies for American Consumer Opinion® website. For example in the Affiliate Program, we may use cookies to track registrations back to any affiliate site that may have referred American Consumer Opinion® panel members, and we may use cookies to track other advertising efforts for American Consumer Opinion®. Some of this tracking is routed through the [ www.decisionanalyst.com](http://www.decisionanalyst.com/) website.
   * Like many website servers we gather information in our log files. Information gathered in log files includes Internet protocol (IP) address, browser type, Internet service provider (ISP), referring and exit pages, platform type, date and time stamp, and number of clicks while onsite.
   * Log-file information is not linked to any individually identifiable information and is used only to administer our systems, to make improvements to our website, and to determine the success of advertising campaigns.
 
@@ -120,7 +120,7 @@ For more information, questions or concerns regarding our data-protection practi
 >  Phone numbers:  
 >  Toll-free, 1-800-262-5974  
 >  International, 1-817-640-6166  
->  Email: [privacy@decisionanalyst.com](mailto:privacy@decisionanalyst.com?Subject=Question%20Regarding%20DAI%20Corporate%20Site%20Privacy%20Policy)
+>  Email: [privacy@decisionanalyst.com](mailto:privacy@decisionanalyst.com?Subject=Question%20Regarding%20www.DecisionAnalyst.com%20Privacy%20Policy)
 
 For more information about Internet privacy and the privacy guidelines we follow: 
 
