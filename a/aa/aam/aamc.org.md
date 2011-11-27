@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aamc.org privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522131049id_/https%3A//www.aamc.org/44866/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aamc.org privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127112622id_/https%3A//www.aamc.org/44866/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - AAMC
 
@@ -17,7 +17,7 @@ Your use of the AAMC Web site and participation in AAMC applications and surveys
 
 #### Personal Information 
 
-As part of AAMC applications, programs, and surveys, we collect certain personal information to provide you with the services requested and to engage in research for specific, defined purposes. Such personal information may include names, identification numbers, contact information, academic records, institutional affiliation, and other biographical information. These applications and programs include — but are not limited to — AMCAS, Careers in Medicine, ERAS, FindAResident, MedEdPORTAL, MCAT registration, and VSAS. These AAMC programs offer password-protected sites for information collection.  
+As part of AAMC applications, programs, and surveys, we collect certain personal information to provide you with the services requested and to engage in research for specific, defined purposes. Such personal information may include names, identification numbers, contact information, academic records, institutional affiliation, and other biographical information. These applications and programs include—but are not limited to—AMCAS, Careers in Medicine, ERAS, FindAResident, MedEdPORTAL, MCAT registration, and VSAS. These AAMC programs offer password-protected sites for information collection.  
 
 
 In addition to using it to provide a particular program or service, information collected as part of the program applications also may be used for educational research or verification purposes by the AAMC or under restricted conditions by third parties as explained in [Data Sharing with Third Parties](https://www.aamc.org/44866/privacy.html). Personal identification information collected also may be used to pre-populate application forms for you when you apply or register for services or other programs to save you time and effort. Access to pre-populated Web applications is granted only after you sign in correctly. In order to reduce redundancies and facilitate the accuracy of data, the AAMC may pre-populate internal AAMC databases across systems.  
@@ -91,14 +91,14 @@ Certain AAMC services and surveys provide additional detailed information regard
   
 ---|---  
 Annual Development Survey| [Users' Guide 2008 Edition  ](https://www.aamc.org/download/69410/data/2008guide.pdf)  
-AMCAS® (American Medical College Application Service®)| [AAMC Policies Regarding the Collection, Use, and Dissemination of Medical Student and Applicant Data](https://www.aamc.org/students/applying/amcas/60768/amcas_datacollection.html)  
+AMCAS® (American Medical College Application Service®)| [AAMC Policies Regarding the Collection, Use, and Dissemination of Medical Student and Applicant Data](https://www.aamc.org/students/applying/amcas/amcasresources/60768/amcas_datacollection.html)  
 ERAS® (Electronic Residency Application Service)| [AAMC Policies Regarding the Collection, Use, and Dissemination of Resident, Intern, Fellow, and Residency, Internship, and Fellowship Application Data  ](https://www.aamc.org/download/69376/data/erasdatapolicy.pdf)  
 Faculty Roster| [Privacy Policy](https://www.aamc.org/data/facultyroster/privacy_policy/69012/facultyroster_privacy.html)  
 FindAResident®| [FindAResident Privacy and Data Policy  ](https://www.aamc.org/download/69918/data/privacydatapolicy.pdf)  
 GME Track®| [Data Disclosure Statement](https://www.aamc.org/services/gmetrack/69414/gmetrack_disclosure.html)  
 Graduation Questionnaire (GQ)| Frequently Asked Questions  
 MCAT® (Medical College Admissions Test®)| [MCAT Essentials ](https://www.aamc.org/students/download/63060/data/mcatessentials.pdf)  
-MedEdPORTAL®| [ Copyright and Patient Privacy Policy ](https://www.aamc.org/external/69416?url=http://services.aamc.org/30/mededportal/servlet/segment/mededportal/find_resources/ownership/1288.html)  
+MedEdPORTAL®|  [ Copyright and Patient Privacy Policy ](https://www.aamc.org/external/69416?url=https://www.mededportal.org/submitresources/policies/)  
 [Medical School Profile System (MSPS)](https://www.aamc.org/data/msps/)|   
 [Matriculating Student Questionnaire (MSQ)](https://www.aamc.org/data/msq/)|   
 Pre-MCAT Questionnaire (PMQ)| [Frequently Asked Questions (FAQs)](https://www.aamc.org/data/pmq/faq/)  
