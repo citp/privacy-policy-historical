@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pinbud.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116130057id_/http%3A//www.pinbud.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinbud.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127125828id_/http%3A//www.pinbud.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
-### HOW WE PROTECT YOUR PRIVACY 
+### HOW WE PROTECT YOUR PRIVACY
 
 This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
 
