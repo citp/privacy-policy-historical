@@ -1,70 +1,132 @@
-> *The following text is extracted and transformed from the gaijinpot.com privacy policy that was archived on 2008-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081120221826id_/http%3A//www.gaijinpot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaijinpot.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127204053id_/https%3A//jobs.gaijinpot.com/privacy/index/lang/en) for the most accurate reproduction.*
 
-# Jobs in Japan: Advertisement - Jobs - Japan Jobs - Japan Info - Japan Apartments - Japan Classifieds - Japan Forums
+# Privacy Policy ‹ GaijinPot Jobs – Find Jobs in Japan for foreigners, work in Japan and get English speaking jobs in Japan
 
-**You decide whether you wish to show your details to an employer by applying to a job and if you want to have your profile searchable in our resume bank.**
+### 1\. Definitions and Parties
 
-If you decide to add your profile to our resume bank — which companies use to find and invite candidates — companies can only send you an email through our secure system, leaving your personal details unseen. Your name, address, telephone number, and the name of your current company remain strictly confidential. 
+The treatment of the information collected through the use of [www.gaijinpot.com](http://www.gaijinpot.com/) and through GaijinPot Partner Sites, herein collectively referred to as the ‘site’, is governed by the present privacy policy.  
+This is a legal document between the administrator of GaijinPot, GPlus Media Co., Ltd. herein referred to as ‘GPlus’, and the users of the site herein referred as to ‘users’.
 
-Here is an example of what employers will see when you apply for a specific job:
+GPlus is committed to protecting the privacy of the site’s users. This commitment is demonstrated in the structure of the database, programming, and the use of encrypted pages for the transfer of sensitive data.
 
-## Resume Bank: _Maximize Your Employment Chances_
+GPlus is the unique owner of the information collected through the site. We do not sell, share or lease the information in other ways than stated in this Privacy Policy.
 
-**Fact:** There are always more candidates than jobs available. How can you help employers find you faster? Make your resume searchable. Remember, employers are just as proactive about finding the right candidate as you are about finding the right job. When your resume is in the resume bank employers can use keyword searches to seek you out. 
+By using this site, users show their binding acceptance to the present Privacy Policy.
 
-## Stay Hidden: _Lock Your Resume_
+Users are assumed to use this site at their own discretion and responsibility.
 
-You can opt to leave your resume locked up tight. No one will be able to access your data unless you specifically apply for a job. You minimize risk, but you also minimize your opportunities. The choice is yours, and you can change your mind at any time.
+In this document users will find about:
 
-## In Detail: _Our Privacy Statement_
-
-Personal Information Protection Policy of GaijinPot: GaijinPot is committed to respecting the privacy of its users. We strive to provide a safe, secure user experience. The following Privacy Policy outlines our data collection and usage policies that apply to GaijinPot's website site (www.gaijinpot.com) and resume database.
-
-### Individual Information Privacy Policy
-
-Collection and Use of Information by GaijinPot In some areas of GaijinPot we request or may request that you provide personal information, including your name, address, e-mail address, telephone number, credit card number, contact information, billing information and any other information regarding your personal identity. We also collect or may collect demographic information that is not unique to you such as your age, preferences, gender, educational level, and interests. Your personal information may never be disclosed directly by GaijinPot except under the following conditions: 
-
-  1. User gives consent to disclose his or her personal information.  
-a) User applies directly to a job posting on GaijinPot.  
-b) User chooses to have their resume accessible to GaijinPot employers in the searchable resume database. 
-  2. When GaijinPot requires specific information to be disclosed in order to fully execute the provision of services desired by its users. 
-  3. When GaijinPot is required by a legal obligation. 
-  4. When a user's asset such as life, health or property is at risk. 
-  5. It is determined that the disclosure of information will protect public assets, or when it is required by the order of law enforcement agency. 
-  6. GaijinPot may analyze the information, whether personal, demographic, collective or technical, for purposes of improving our service and enforcing our terms and conditions. In such a case, this data will be processed in such a way that no one individual can be identified. 
-  7. When it is found that the disclosure does not harm user's interests, and when it is desired by GaijinPot or trusted partners. 
+  * Personal information and collection process
+  * Use of information
+  * Disclosure of personal information
+  * Personal information protection measures
+  * Users’ ability to modify their personal information
 
 
 
-Users are also able to disclose personal details to Employers or other types of GaijinPot users via GaijinPot's website at their own discretion. GaijinPot may in no way be held responsible for the outcome communications between you and non-GaijinPot parties.
+Should you have any question, feel free to [send us an inquiry](https://web.archive.org/contact/index/lang/en).
 
-### Confirmation and correction of personal information
+### 2\. Links
 
-If you would like to confirm/correct/edit/delete your personal information, we will respond to your request as quickly as possible provided the request is reasonable. You are also able to check your information online from the link below:
+This site contains links to external sites administrated by third parties. GPlus shall not be held responsible for any Privacy Policy issues related to such external sites.  
+When redirected to an external site, users should check the applying Privacy Policy.
 
-[http://www.gaijinpot.com/js_overview.php](https://web.archive.org/web/20081120221826id_/http%3A//www.gaijinpot.com/js_overview.php?PHPSESSID=ee4a8bd7d4e40648773e9b92124b2a1e)
+### 3\. Personal Information
 
-### Management System for Personal Information
+This site’s content is visible to everybody. However, in order to use certain features, users have to register providing the following personal information:
 
-The company strictly manages personal information by appointing a manager in charge of personal information, employee education, and information security measures to prevent it from being leaked, diverted, or altered. 
-
-Personal information manager: Mr. Percy Humphrey  
-Minotomi Bldg. 3F, Shiba Koen 3-1-1, Minato-ku, Tokyo 105-0011  
-TEL: 03-5403-7785 FAX: 03-5403-2775  
-Open hours: Mon-Fri, 9AM-6PM
-
-If you have questions or concerns regarding GaijinPot's personal information protection policy or the privacy of your information, please contact us at [gp_contact@gaijinpot.com](mailto:gp_contact@gaijinpot.com)
-
-### How to Unsubscribe to JobMail and other eNewsletters:
-
-  1. Click on "Unsubscribe", located at both the top and bottom of all JobMails and eNewsletters.
-  2. Clicking on "Unsubscribe" opens a new browser window, with the message "Are you sure you want to unsubscribe youremail@yourdomain?" and a button labeled "Unsubscribe" appearing in the center portion of the page.
-  3. Click on "Unsubscribe" to unsubscribe and stop receiving our JobMail or other eNewsletter.
+  * Email address
+  * Password
 
 
 
-### Review of individual information protection
+In order to build resumes to apply to jobs, users have to provide the following personal information:
 
-GaijinPot will continue to review and improve the personal information protection policy by periodically reviewing Japanese laws and other rules on individual information. 
+  * Name
+  * Birth date
+  * Gender
+  * Nationality
+  * Country and state of residence
+  * Closest train station
+  * Phone number
+  * Visa status
 
-[プライバシーポリシー](https://web.archive.org/web/20081120221826id_/http%3A//www.gaijinpot.com/privacy.php?l=j&PHPSESSID=ee4a8bd7d4e40648773e9b92124b2a1e)
+
+
+Other non-personal information is required to build a resume such as: 
+
+  * Language skills
+  * Education level
+  * Career level
+
+
+
+When posting their resumes, users can control the level of visibility by choosing to:
+
+  1. a. keep their resume private. Employers will never be able to look at these resumes unless submitted directly by the users.
+  2. b. make their resumes open to resume search. Employers will be able to look at such resumes and send invitations. However, users’ personal information and last employer information will not be disclosed.
+
+
+
+The level of visibility of a resume can be changed at any time by the user.
+
+### 4\. Other Information Sources
+
+In order to enhance the quality of the site and to facilitate the users’ navigation, GPlus collects other information from users’ traffic through the following methods:
+
+  * Log files
+  * Cookies
+  * Web beacons
+
+
+
+### 5\. Use of Information
+
+In accordance with the selected level of visibility chosen by each user as explained in section 2, GPlus will use the information for the following purposes only:
+
+  * For statistical research
+  * To ask users to update their information
+  * To identify users using the site’s features including resume posting and job application
+  * To contact users by email about the site’s updates
+  * To contact users by email about available positions
+  * To enable employers to use the resume search
+
+
+
+### 6\. Disclosure of Personal Information
+
+Users’ personal information is never disclosed to third parties except in the following cases:
+
+  * If ordered by governmental authorities
+  * If it is required by law
+
+
+
+### 7\. Information Protection Measures
+
+GPlus’ s internal privacy and security policies are reviewed on a regular basis. GPlus staff receive training on information protection measures.  
+Furthermore, in order to protect the information from unauthorized use, system crash or viruses, GPlus has implemented the following measures:
+
+  * Data is stored in a data center requiring a biometric authentication and ID cards
+  * Access is restricted to authorized personnel
+  * Firewall
+  * Linux environment
+  * SSL Certificate
+
+
+
+Internally, only authorized personal are allowed to consult personal information for specific purposes.
+
+### 8\. Modification of Personal Information
+
+Users can modify or delete their personal information anytime.  
+Should you need assistance to do so, please contact GPlus through [contact form](https://web.archive.org/contact/index/lang/en).
+
+### 9\. Modification of Privacy Policy
+
+GPlus reserves the right to modify the present Privacy Policy without prior notice. By their continued use of the site, users are expected to agree with the revised Privacy Policy available on this same page.
+
+### 10\. Date
+
+The present Privacy Policy shall become effective from April 1, 2009.
