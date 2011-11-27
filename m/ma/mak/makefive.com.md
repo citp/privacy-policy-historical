@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makefive.com privacy policy that was archived on 2011-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110402072351id_/http%3A//www.makefive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makefive.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127035521id_/http%3A//www.makefive.com/privacy) for the most accurate reproduction.*
 
 # MakeFive :: Your top five everything
 
