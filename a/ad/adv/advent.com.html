@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the advent.com privacy policy that was archived on 2010-08-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100813093136id_/http%3A//www.advent.com/about/website_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the advent.com privacy policy that was archived on 2011-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111127041556id_/http%3A//www.advent.com/about/website_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctlHead">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_ctlHead"><link rel="icon" type="image/png" href="http://www.advent.com/favicon.ico">
 
     <script type="text/javascript" src="/Javascript/quickmenu.js"></script><style type="text/css">.qm-is{border-style:none;display:block;}</style>
 
     <script type="text/javascript" src="/Javascript/scripts.js"></script>
 
-    <script type="text/javascript" src="/Javascript/jquery-1.3.2.min.js"></script>
+    <script type="text/javascript" src="/Javascript/jquery-1.6.2.min.js"></script>
 
     <script type="text/javascript" src="/Javascript/jquery.url.packed.js"></script>
 
@@ -19,7 +19,7 @@
 
     <script type="text/javascript" src="/Javascript/jquery.metadata.js"></script>
 
-    <script type="text/javascript" src="/Javascript/jquery.swfobject.js"></script>
+    <script type="text/javascript" src="/Javascript/jquery.swfobject.1-1-1.min.js"></script>
 
     <script type="text/javascript" src="/Javascript/mbox.js"></script>
 
@@ -27,7 +27,11 @@
 
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.1/swfobject.js"></script>
 
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.js"></script>
+
+    <script type="text/javascript" src="/Javascript/jquery.cycle.all.min.js"></script>
+
+    <script type="text/javascript" src="/javascript/fancyzoom.js"></script>
 
     <!--[if lt IE 7]>
     <script src="/Javascript/DD_belatedPNG_0.0.8a-min.js" type="text/javascript"></script>
@@ -46,7 +50,7 @@
     <![endif]-->
 
     <script type="text/javascript">
-        $(document).ready(function() {
+        $(document).ready(function() {       
             switch (jQuery.url.segment(0)) {
                 case 'about':
                     $("#menuAbout").attr("src", "/images/about-active.gif");
@@ -129,9 +133,13 @@
                 $("#extendedSharePanel").slideToggle("slow");
                 $(this).toggleClass("active");
             });
-
+            /* for striping rows that use a download icon on the right edge
+            typically in the resources section*/
             $("table.listTable tr").addClass("listTableRow");
             $("table.listTable tr:nth-child(odd)").addClass("oddTableRow");
+
+            /* for striping table rows in content*/
+            $('table.altRowTable tr:nth-child("odd"):gt(0)').addClass("altRowTableOdd");
 
             $(".fauxDropdown").click(function() {
                 $(".fauxDropdownList").slideToggle(100);
@@ -173,6 +181,19 @@
 		        }
 	            );
             });
+
+            $(function() {
+                $(".promoItem img").hover(
+		        function() {
+		            $(this).attr("src", $(this).attr("src").replace("morevideosbuttondark.gif", "morevideosbuttonlite.gif"));
+		        },
+		        function() {
+		            $(this).attr("src", $(this).attr("src").replace("morevideosbuttonlite.gif", "morevideosbuttondark.gif"));
+		        }
+	            );
+            });
+            
+            
         });
     </script>
 
@@ -187,16 +208,19 @@
         });
     </script>
 
-    <meta name="description"><meta name="keywords"><link href="../App_Themes/default/blueprint.css" type="text/css" rel="stylesheet"><link href="../App_Themes/default/ceebox.css" type="text/css" rel="stylesheet"><link href="../App_Themes/default/StyleSheet.css" type="text/css" rel="stylesheet"><link href="../App_Themes/default/ui.dropdownchecklist.css" type="text/css" rel="stylesheet"><title>
+    <link href="/App_Themes/Default/blueprint.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/ceebox.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/fancyzoom.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/StyleSheet.css" type="text/css" rel="stylesheet"><link href="/App_Themes/Default/ui.dropdownchecklist.css" type="text/css" rel="stylesheet"><meta name="description"><meta name="keywords"><title>
 	Email Publication and Website Privacy Policy
 </title></head>
 <body>
+    <div class="mboxDefault">
+    </div>
+    
     
     <form name="aspnetForm" method="post" action="/about/website_policy" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPaA8FDzhjZDA4YTZjNjM3ZTczNhgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUWY3RsMDAkaW1nYnRuU2l0ZVNlYXJjaGg7ZAFxDZONJKYdLHen77/TsOge">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPaA8FDzhjZTdhOGY1NmU1YjAxNhgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUWY3RsMDAkaW1nYnRuU2l0ZVNlYXJjaFHHvzc3DFU41k9Y7JwhVBLvvNIe">
 
 
-<script src="/ScriptResource.axd?d=fg01_0z_qH6JUQiDwAo6zyQtiXWzy7hcU4TzISSzydNB3aS2HvTuoGZEehkX5Y_lZeeoTnjyBX2VRMETHnXuixU8_4LzIwYMh4PePZWyRW01&amp;t=ffffffff8e99fd4b" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=2NEh-pgF9d_3WBh4n8367CNQjYGunSMZ2GHxJxirVSshSQ_Mgxl1kl5Y-d7hFGNFYmDuyJ5lBf85ZjwmzcuoBDjQ5-tD6rK0pw2iZcCVMmdp91WpFA9oHSmXaDNR_ZXdYB1hscg0v8xFUAnxMP4TJKipdot3YkX4EQ-s1hBo5EOugJdX0&amp;t=ffffffffcce94c80" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
@@ -210,30 +234,27 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
         <div class="header_nav">
             <div class="navHotLinks">
                 <span class="hlConnection"><a href="/connection">
-                    <img name="imgAdventConnection" src="/images/advent-connection.gif" onmouseover="document.imgAdventConnection.src='/images/advent-connection-over.gif'" onmouseout="document.imgAdventConnection.src='/images/advent-connection.gif'" alt="" "="">
+                    <img name="imgAdventConnection" src="/images/advent-connection.gif" onmouseover="document.imgAdventConnection.src='/images/advent-connection-over.gif'" onmouseout="document.imgAdventConnection.src='/images/advent-connection.gif'" alt="">
                 </a></span><span class="hlEvents"><a href="/about/events">
-                    <img name="imgAdventEvents" src="/images/advent-events.gif" onmouseover="document.imgAdventEvents.src='/images/advent-events-over.gif'" onmouseout="document.imgAdventEvents.src='/images/advent-events.gif'" alt="" "="">
+                    <img name="imgAdventEvents" src="/images/advent-events.gif" onmouseover="document.imgAdventEvents.src='/images/advent-events-over.gif'" onmouseout="document.imgAdventEvents.src='/images/advent-events.gif'" alt="">
                 </a></span><span class="hlOffices"><a href="/about/overview/offices">
-                    <img name="imgAdventOffices" src="/images/advent-offices.gif" onmouseover="document.imgAdventOffices.src='/images/advent-offices-over.gif'" onmouseout="document.imgAdventOffices.src='/images/advent-offices.gif'" alt="" "="">
+                    <img name="imgAdventOffices" src="/images/advent-offices.gif" onmouseover="document.imgAdventOffices.src='/images/advent-offices-over.gif'" onmouseout="document.imgAdventOffices.src='/images/advent-offices.gif'" alt="">
                 </a></span><span class="hlCareers"><a href="/about/careers">
-                    <img name="imgAdventCareers" src="/images/advent-careers.gif" onmouseover="document.imgAdventCareers.src='/images/advent-careers-over.gif'" onmouseout="document.imgAdventCareers.src='/images/advent-careers.gif'" alt="" "="">
+                    <img name="imgAdventCareers" src="/images/advent-careers.gif" onmouseover="document.imgAdventCareers.src='/images/advent-careers-over.gif'" onmouseout="document.imgAdventCareers.src='/images/advent-careers.gif'" alt="">
                 </a></span>
             </div>
             <div class="logoWrapper">
                 <a class="homeImage" href="/">
-                    <img src="../images/advent-software-logo.png" id="ctl00_Img1" name="imgCorpLogo" onmouseout="document.imgCorpLogo.src='/images/advent-software-logo.png'" onmouseover="document.imgCorpLogo.src='/images/advent-software-logo-over.png'">
+                    <img src="/images/advent-software-logo.png" id="ctl00_Img1" name="imgCorpLogo" onmouseout="document.imgCorpLogo.src='/images/advent-software-logo.png'" onmouseover="document.imgCorpLogo.src='/images/advent-software-logo-over.png'">
                 </a>
             </div>
             <div class="navWrapper">
                 <!-- QuickMenu Structure [Menu 0] -->
                 <div class="qmmc" id="qm0" style="zoom: 1; z-index: 11;"><a class="qmparent qmpersistent" href="/about">
-                        <img id="menuAbout" class="qm-is qm-ia" src="/Images/about.gif" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="/about/overview" class="qmparent">Overview</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/overview/history">
-                                        History</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/overview/executives">
-                                        Executive Management</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/overview/board_directors">
-                                        Board of Directors</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/overview/offices">
-                                        Offices</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/overview/community-involvement">Community Involvement</a></div><a href="/about/news/" class="qmparent">Press Room</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/news/press_releases">
+                        <img id="menuAbout" class="qm-is qm-ia" src="/Images/about.gif" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="/about/history">History</a><a href="/about/offices">Offices</a><a href="/about/news/" class="qmparent">Press Room</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/news/press_releases">
                                         Press Releases</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/news/executives">
-                                        Executive Management</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="http://investor.advent.com/phoenix.zhtml?c=96626&amp;p=irol-IRHome">
+                                        Executive Management</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/news/board_directors">
+                                        Board of Directors</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="http://investor.advent.com/phoenix.zhtml?c=96626&amp;p=irol-IRHome">
                                         Financial Information</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/news/coverage">
                                         Media Coverage</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/news/awards">
                                         Awards &amp; Recognition</a></div><a href="/about/events/" class="qmparent">Events</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/events/web_seminars">
@@ -241,11 +262,11 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                         Tradeshows</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/events/conferences">
                                         Conferences</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/events/live_events">
                                         Live Events</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/events/ondemand_webseminars">
-                                        Recorded Web Seminar</a></div><a href="/about/investor_relations/">Investor Relations</a><a href="/about/partners/" class="qmparent">Alliance Partners</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/partners/axys">
+                                        Recorded Web Seminars</a></div><a href="/about/investor_relations/">Investor Relations</a><a href="/about/partners/" class="qmparent">Alliance Partners</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/partners/axys">
                                             Axys</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/partners/portfolio-exchange">
                                             Advent Portfolio Exchange</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/partners/geneva">
                                             Geneva</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/partners/moxy">
-                                            Moxy</a></div><a href="/about/careers/" class="qmparent">Careers</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/careers/why_advent">
+                                            Moxy</a></div><a href="/about/community-involvement">Community Involvement</a><a href="/about/careers/" class="qmparent">Careers</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/careers/why_advent">
                                             Why Advent</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/careers/who_we_are">
                                             Who We Are</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/careers/community-involvement">
                                             Community Involvement</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/careers/meetadvent">
@@ -255,9 +276,12 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                             Training</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/about/careers/apply">
                                             Apply Online</a></div></div><a class="qmparent" href="/solutions">
                         <img id="menuSolutions" class="qm-is qm-ia" src="/Images/solutions.gif" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover qmparent" href="/solutions/by-product">
-                                By Product</a><div id="" style="margin-top: -10px; padding: 0px !important; border: 0px !important; z-index: 31;"><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem">Research Management</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/tamale-rms">Tamale RMS</a><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem">Trading &amp; Order Management</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/moxy">Moxy</a><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem">Fund Distribution</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/advent-tradex">Advent Tradex</a><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem">Portfolio Management &amp;
-                                        Accounting</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/geneva">Geneva</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/apx">Advent Portfolio Exchange</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/axys">Axys</a><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem">Partnership Accounting</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/partner">Advent Partner</a><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem">Compliance</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/rules-manager">Advent Rules Manager</a><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem">Billing &amp; Fee Management</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/revenue-center">Advent Revenue Center</a><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem byProductLink">Custodial
-                                        and Market Data</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/aca">Advent Corporate Action</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/acd">Advent Custodial Data</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/index-data">Advent Index Data</a></div><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover qmparent" href="/solutions/by-firm-type">
+                                By Product</a><div id="" style="margin-top: -10px; padding: 0px !important; border: 0px !important; z-index: 31;"><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem">Research Management </a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/tamale-rms">Tamale RMS </a><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem">Trading &amp; Order Management
+                                    </a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/moxy">Moxy</a><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem">Fund Distribution </a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/advent-tradex">Tradex </a><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem">Portfolio Management &amp;
+                                        Accounting</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/geneva">Geneva </a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/apx">Advent Portfolio Exchange </a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/axys">Axys </a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/black-diamond">Black Diamond </a><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem">Investor Accounting &amp; Servicing
+                                    </a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/partner">Advent Partner </a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/geneva-world-investor">Geneva World Investor</a><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem">Margin and Debit Financing</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/syncova-margin">Syncova Margin</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/syncova-financing">Syncova Financing</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="http://www.advent.com/solutions/by-product/syncova-essentials">Syncova Essentials</a><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem">Compliance </a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/rules-manager">Advent Rules Manager </a><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem">Billing &amp; Fee Management
+                                    </a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/revenue-center">Advent Revenue Center </a><a class="qmc_secondlevelsubmenuitem navGroupHeaderItem byProductLink">Custodial
+                                        and Market Data</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/aca">Advent Corporate Actions </a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/acd">Advent Custodial Data </a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover byProductLink" href="/solutions/by-product/index-data">Advent Index Data </a></div><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover qmparent" href="/solutions/by-firm-type">
                                 By Firm Type</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-firm-type/asset-managers-software">
                                         Asset Managers</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-firm-type/broker-dealers-software">
                                         Broker Dealers</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-firm-type/endowments-and-foundations">
@@ -273,14 +297,15 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                         Research Management</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-business-need/corporate-actions-market-data">
                                         Corporate Actions/Market Data</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-business-need/reconciliation-settlement">
                                         Reconciliation/Settlement</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-business-need/portfolio-accounting-management">
-                                        Portfolio Management</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-business-need/performance-measurement-analytics">
+                                        Portfolio Management</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-business-need/margin-debit-financing">
+                                        Margin and Debit Financing</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-business-need/performance-measurement-analytics">
                                         Performance Analytics</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-business-need/customer-relationship-management">
                                         CRM</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-business-need/fund-distribution">
                                         Fund Distribution</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-business-need/trade-order-management">
                                         Trade Order Management</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-business-need/compliance">
                                         Compliance</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-business-need/revenue-management">
                                         Revenue Management</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-business-need/investor-accounting">
-                                        Investor Accounting</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-business-need/investment-operations">
+                                        Investor Accounting &amp; Servicing</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-business-need/investment-operations">
                                         Investment Operations</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-business-need/outsourcing">
                                         Outsourcing</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-business-need/software-implementation">
                                         Software Implementation</a></div><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover qmparent" href="/solutions/by-role">
@@ -306,20 +331,12 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                                         Latin America</a></div><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover qmparent" href="/solutions/by-deployment-option">
                                 By Deployment Option</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-deployment-option/advent-ondemand">
                                         Advent OnDemand</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-deployment-option/installed">
-                                        Locally Installed</a></div></div><a class="qmparent" href="/services/overview">
-                        <img id="menuServices" class="qm-is qm-ia" src="/Images/services.gif" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="/services/overview">Overview</a><a href="/services/outsourcing-services">Outsourcing Services</a><a href="/services/consulting" class="qmparent">Consulting Services</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/services/consulting/implementation">
-                                        Implementation Services</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/services/consulting/custom">
-                                        Custom Services</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/services/consulting/project_management">
-                                        Project Management</a></div><a href="/services/advent-university" class="qmparent">Advent University</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/services/advent-university/by-product-family">
-                                        Training By Product Family</a></div><a href="/services/support" class="qmparent">Support</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/services/support/maintenance">
-                                        Maintenance</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/services/support/client-support">
-                                        Client Support</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/services/support/operations-advisory-service">
-                                        Operations Advisory Services</a></div><a href="/services/client-community" class="qmparent">Client Community</a><div id="" style="margin-top: -10px; z-index: 31;"><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/services/advent-connection">
-                                        Advent Connection</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/services/client-community/user-group">
-                                        Advent User Groups</a></div></div><a class="qmparent" href="/clients/overview" style="padding: 0px;">
-                        <img id="menuClients" class="qm-is qm-ia" src="/Images/clients.gif" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="/clients/overview">Overview</a><a href="/clients/client_list/">Client List</a><a href="/clients/case_studies/">Case Studies</a><a href="/clients/videos/">Client Videos</a><a href="/clients/testimonials/">Testimonials</a></div><a href="/resources/overview" style="padding: 0px;" class="qmparent">
-                        <img id="menuResources" class="qm-is qm-ia" src="/Images/resources.gif" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="/resources/overview">Overview</a><a href="/resources/brochures">Brochures</a><a href="/resources/case-studies">Case Studies</a><a href="/resources/client-videos">Client Videos</a><a href="/resources/demos">Demos</a><a href="/resources/industry-intelligence">Industry Intelligence</a><a href="/resources/industry-reports">Industry Reports</a><a href="/resources/information-kits">Information Kits</a><a href="/resources/interactive-calculators">Interactive Calculators</a><a href="/resources/podcasts">Podcasts</a><a href="/resources/product-briefs">Product Briefs</a><a href="/resources/web-seminars">Recorded Web Seminars</a><a href="/resources/sample-reports">Sample Reports</a><a href="/resources/trend-monitors/">Trend Monitors</a><a href="/resources/advent-videos">Video Blogs</a><a href="/resources/white-papers">White Papers</a></div><a href="https://secure.advent.com/contact/contact_us" style="padding: 0px;" class="qmparent">
-                        <img class="qm-is qm-ih" src="/Images/contact-us.gif" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="/about/overview/offices/">Worldwide Offices</a><a href="https://secure.advent.com/contact/contact_us">Request More Info</a></div><span class="qmclear">&nbsp;</span></div>
+                                        Locally Installed</a><a class="qmc_secondlevelsubmenuitem qmc_secondlevelsubmenuitemhover" href="/solutions/by-deployment-option/black-diamond">
+                                        Black Diamond</a></div></div><a class="qmparent" href="/services">
+                        <img id="menuServices" class="qm-is qm-ia" src="/Images/services.gif" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="/services/implement">Implement</a><a href="/services/optimize">Optimize</a><a href="/services/support">Support</a><a href="/services/outsourcing-services">Outsource</a></div><a class="qmparent" href="/clients" style="padding: 0px;">
+                        <img id="menuClients" class="qm-is qm-ia" src="/Images/clients.gif" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="/clients/client_list/">Client List</a><a href="/clients/case_studies/">Case Studies</a><a href="/clients/videos/">Client Videos</a><a href="/clients/testimonials/">Testimonials</a></div><a href="/resources" style="padding: 0px;" class="qmparent">
+                        <img id="menuResources" class="qm-is qm-ia" src="/Images/resources.gif" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="http://blogs.advent.com">Blogs</a><a href="/resources/brochures">Brochures</a><a href="/resources/case-studies">Case Studies</a><a href="/resources/client-videos">Client Videos</a><a href="/resources/demos">Demos</a><a href="/resources/industry-intelligence">Industry Intelligence</a><a href="/resources/industry-reports">Industry Reports</a><a href="/resources/information-kits">Information Kits</a><a href="/resources/interactive-calculators">Interactive Calculators</a><a href="/resources/podcasts">Podcasts</a><a href="/resources/product-briefs">Product Briefs</a><a href="/resources/web-seminars">Recorded Web Seminars</a><a href="/resources/sample-reports">Sample Reports</a><a href="/resources/trend-monitors/">Trend Monitors</a><a href="/resources/advent-videos">Video Blogs</a><a href="/resources/white-papers">White Papers</a></div><a href="https://secure.advent.com/contact/contact_us" style="padding: 0px;" class="qmparent">
+                        <img class="qm-is qm-ih" src="/Images/contact-us.gif" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="/about/offices/">Worldwide Offices</a><a href="https://secure.advent.com/contact/contact_us">Request More Info</a></div><span class="qmclear">&nbsp;</span></div>
                 <!-- Create Menu Settings: (Menu ID, Is Vertical, Show Timer, Hide Timer, On Click (options: 'all' * 'all-always-open' * 'main' * 'lev2'), Right to Left, Horizontal Subs, Flush Left, Flush Top) -->
 
                 <script type="text/javascript">
@@ -331,7 +348,7 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 	
                 <input name="ctl00$tbxSiteSearch" type="text" id="ctl00_tbxSiteSearch" class="siteSearchBox">
                 <div class="siteSearchInputWrapper">
-                    <input type="image" name="ctl00$imgbtnSiteSearch" id="ctl00_imgbtnSiteSearch" class="siteSearchButton" onmouseoutover="this.src='/images/advent-searcharrow-over.gif'" onmouseoutout="this.src='/images/advent-searcharrow.gif'" src="../Images/homepage-search-arrow.gif" border="0">
+                    <input type="image" name="ctl00$imgbtnSiteSearch" id="ctl00_imgbtnSiteSearch" class="siteSearchButton" onmouseoutover="this.src='/images/advent-searcharrow-over.gif'" onmouseoutout="this.src='/images/advent-searcharrow.gif'" src="http://www.advent.com/Images/homepage-search-arrow.gif" border="0">
                 </div>
             
 </div>
@@ -350,7 +367,9 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 	
     <table id="ctl00_ctlLeftNav_tblMenu" cellspacing="0" cellpadding="0" class="tblLeftMenu" border="0">
 		<tbody><tr>
-			<td class="firstLevel"><a href="/about/overview" target="_self" class="">Overview</a></td>
+			<td class="firstLevel"><a href="/about/history" target="_self" class="">History</a></td>
+		</tr><tr>
+			<td class="firstLevel"><a href="/about/offices" target="_self" class="">Offices</a></td>
 		</tr><tr>
 			<td class="firstLevel"><a href="/about/news" target="_self" class="">Press Room</a></td>
 		</tr><tr>
@@ -359,6 +378,8 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 			<td class="firstLevel"><a href="http://investor.advent.com" target="_self" class="">Investor Relations</a></td>
 		</tr><tr>
 			<td class="firstLevel"><a href="/about/partners" target="_self" class="">Alliance Partners</a></td>
+		</tr><tr>
+			<td class="firstLevel"><a href="/about/community-involvement" target="_self" class="">Community Involvement</a></td>
 		</tr><tr>
 			<td class="firstLevel"><a href="/about/careers" target="_self" class="">Careers</a></td>
 		</tr>
@@ -373,11 +394,11 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 			<td class="sideBarHead"></td>
 		</tr><tr>
 			<td class="relatedLinksCell">
-<a href="https://secure.advent.com/info/newsletter">eNews Signup</a>
+<a href="http://www.advent.com/about/news/rss-feeds">RSS Feeds</a>
 </td>
 		</tr><tr>
 			<td class="relatedLinksCell">
-<a href="http://www.advent.com/about/news/rss-feeds">RSS Feeds</a>
+<a href="https://secure.advent.com/info/newsletter">Newsletter Signup</a>
 </td>
 		</tr>
 	</tbody></table>
@@ -386,11 +407,11 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 <div id="ctl00_ctlNextSteps_relatedLinksUnderline" class="relatedLinksUnderline"></div>
                         
 <div id="preloader">
-    <img src="../images/page-tools-print-over.gif" id="ctl00_ctlPageTools_printover" width="1" height="1">
-    <img src="../images/page-tools-email-over.gif" id="ctl00_ctlPageTools_emailover" width="1" height="1">
-    <img src="../images/page-tools-bookmark-over.gif" id="ctl00_ctlPageTools_bookmarkover" width="1" height="1">
-    <img src="../images/page-tools-share-over.gif" id="ctl00_ctlPageTools_shareover" width="1" height="1">
-    <img src="../images/page-tools-feedback-over.gif" id="ctl00_ctlPageTools_feedbackover" width="1" height="1">
+    <img src="/images/page-tools-print-over.gif" id="ctl00_ctlPageTools_printover" width="1" height="1">
+    <img src="/images/page-tools-email-over.gif" id="ctl00_ctlPageTools_emailover" width="1" height="1">
+    <img src="/images/page-tools-bookmark-over.gif" id="ctl00_ctlPageTools_bookmarkover" width="1" height="1">
+    <img src="/images/page-tools-share-over.gif" id="ctl00_ctlPageTools_shareover" width="1" height="1">
+    <img src="/images/page-tools-feedback-over.gif" id="ctl00_ctlPageTools_feedbackover" width="1" height="1">
 </div>
 <div id="page_tools_container">
     <div id="page_tools_item_container">
@@ -520,7 +541,8 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
 </tbody></table>
 
                                     
-                                    
+                                             
+                                    <span id="ctl00_ctlRenderEngineLower" class="content-below"></span>                        
                                     
                                 
 </div>
@@ -538,6 +560,20 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
                     <td class="contentCellPromo">
                         
                         
+<script type="text/javascript">
+    $(document).ready(function() {
+        if ($.flash.available) {
+            $(".html5-video").remove();
+        }
+        else {
+            $(".flash-video").remove();
+        }
+
+        $(".video-blog-container").show();
+    });
+</script>
+
+
 
 
 
@@ -550,23 +586,25 @@ if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side frame
     </div>
     <div id="footer" class="footer">
         <div class="footerLine">
-            <span class="footerItem"><a class="footerItemLink" href="https://secure.advent.com/info/newsletter">
-                enews sign up</a></span> <span class="footerItem"><a class="footerItemLink" href="mailto:feedback@advent.com">
-                    webmaster</a></span> <span class="footerItem"><a class="footerItemLink" href="/about/terms_of_use">
-                        terms of use</a></span> <span class="footerItem"><a class="footerItemLink" href="/about/website_policy">
-                            privacy policy</a></span> <span class="footerItem"><a class="footerItemLink" href="/about/trademark_notice ">
-                                trademarks</a></span> <span class="footerItem"><a class="footerItemLink" href="/about/site_map">
-                                    site map</a></span> <span style="text-align: right; margin-left: 150px;"><span><a href="http://www.facebook.com/pages/San-Francisco-CA/Advent-Software/251414225401">
-                                        <img src="../Images/facebook_icon.gif" id="ctl00_Img2"></a></span> <span>
-                                            <a href="http://www.twitter.com/adventsoftware">
-                                                <img src="../Images/twitter_icon.gif" id="ctl00_Img3"></a></span>
-                                        <span><a href="http://www.linkedin.com/groups?gid=2618490">
-                                            <img src="../Images/linkedin_icon.gif" id="ctl00_Img4"></a></span>
-                                    </span>
+            <span class="footerItem"><a class="footerItemLink" href="http://blogs.advent.com/compliance">
+                blog</a></span> <span class="footerItem"><a class="footerItemLink" href="https://secure.advent.com/info/newsletter">
+                    enews sign up</a></span> <span class="footerItem"><a class="footerItemLink" href="mailto:feedback@advent.com">
+                        webmaster</a></span> <span class="footerItem"><a class="footerItemLink" href="/about/terms_of_use">
+                            terms of use</a></span> <span class="footerItem"><a class="footerItemLink" href="/about/website_policy">
+                                privacy policy</a></span> <span class="footerItem"><a class="footerItemLink" href="/about/trademark_notice ">
+                                    trademarks</a></span> <span class="footerItem"><a class="footerItemLink" href="/about/site_map">
+                                        site map</a></span> <span style="text-align: right; margin-left: 150px;"><span><a href="http://www.facebook.com/pages/San-Francisco-CA/Advent-Software/251414225401">
+                                            <img src="http://www.advent.com/Images/facebook_icon.gif" id="ctl00_Img2"></a></span>
+                                            <span><a href="http://www.twitter.com/adventsoftware">
+                                                <img src="http://www.advent.com/Images/twitter_icon.gif" id="ctl00_Img3"></a></span>
+                                            <span><a href="http://www.linkedin.com/groups?gid=2618490">
+                                                <img src="http://www.advent.com/Images/linkedin_icon.gif" id="ctl00_Img4"></a></span>
+                                        </span>
         </div>
         <div class="footerAddressLine">
-            ©2010 Advent Software, Inc.&nbsp;&nbsp;600 Townsend Street&nbsp;&nbsp;San Francisco,
-            CA 94103&nbsp;&nbsp;US: +1 800 727 0605&nbsp;&nbsp;London: +44 20 7631 9240</div>
+            ©2011 Advent Software, Inc.&nbsp;&nbsp;600 Townsend Street, Suite 500&nbsp;&nbsp;San
+            Francisco, CA 94103&nbsp;&nbsp;US: +1 800 727 0605&nbsp;&nbsp;London: +44 20 7631
+            9240</div>
     </div>
     
 
@@ -600,6 +638,12 @@ Sys.Application.initialize();
     <!--Genius Script -->
 
     <script type="text/javascript" language="javascript">        if (self == top) { document.write("<scr" + "ipt type='text/javascript' language='JavaScript' id='GeniusCode' src='" + location.protocol + '//ffgje.rsvpgenius.com/mgTrack1.js?mgcid=bc6fepO' + "'><\/scr" + "ipt>"); }</script><script type="text/javascript" language="JavaScript" id="GeniusCode" src="https://ffgje.rsvpgenius.com/mgTrack1.js?mgcid=bc6fepO"></script>
+
+    <!-- Eloqua Scripts -->
+
+    <script type="text/javascript" language="javascript" src="/elqNow/elqCfg.js"></script>
+
+    <script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script>
 
 
 
