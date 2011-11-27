@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashforsextape.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427041958id_/http%3A//www.cashforsextape.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashforsextape.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127044035id_/http%3A//cashforsextape.com/privacy.html) for the most accurate reproduction.*
 
 # CUSTODIAN OF RECORDS - U.S.C. TITLE 18, SECTION 2257 COMPLIANCE
 
@@ -9,3 +9,5 @@ Your privacy is important to us. To better protect your privacy we provide this 
 We do not collect any customer information. Please see our payment processor's Privacy Policy concerning collected information. 
 
 * * *
+
+<<<Back to [Cash For Sex Tape](http://cashforsextape.com/ "Cash For Sex Tape")
