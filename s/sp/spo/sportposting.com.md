@@ -1,23 +1,45 @@
-> *The following text is extracted and transformed from the sportposting.com privacy policy that was archived on 2010-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100906221021id_/http%3A//www.sportposting.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportposting.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127053448id_/http%3A//netix.ca/privacy.htm) for the most accurate reproduction.*
 
-# Sportposting.com "Watch" "Play" "Train"::Privacy
+# Netix - Privacy Policy
 
-Protecting your privacy is very important to our website. We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent.
+### Walkinweb Inc (DBA Netix - Submit Plus) - Privacy Policy
 
-This privacy policy describes how we collect and use your data. If you have any questions or comments regarding our privacy policy or its enforcement, please feel free to contact administrator.
+Walkinweb, Inc is committed to user privacy in its products and services. This policy outlines our personal information handling practices. If you give us personal information, we will treat it according to this policy.
 
-Sportposting is an online social networking community that connects people through member posted sporting events. Members create their own profiles, and those profiles are accessible through the site, unless the exact url were to be typed in; profile url are kept secret and are not accesible by other members.
+This policy covers Walkinweb, Inc corporate web site. Walkinweb, Inc encourages you to read this privacy policy and those of all web sites you visit. Below is a summary of Walkinweb, Inc online privacy policy. 
 
-Sportposting collects information our users submit to us such as their name and e-mail address to allow us to identify users and notify them of changes or updates to our service. We also collect personal information submitted by our users in filling out their profile on the service such as gender, location, age, etc. We collect this personal information when our users: sign up as a member; make changes to their member profile information; and send e-mail messages. Members may choose to provide additional information beyond their basic profile for their other profile sections. Providing additional information beyond what is required at registration is entirely optional, but enables our users to better identify each other and more effectively connect and interact with their network. 
+### Types and uses of personal information
 
-Like many other Web sites, Sportposting uses a standard technology called "cookies." Cookies are small pieces of information stored on your hard drive - not on our site. They can help make the Internet experience quicker and more convenient. Cookies allow our users to login without entering their ID and password each time they use Sportposting. Members who disable cookies will not be able to use Sportposting. 
+  * Customer Feedback and Support. 
+    * Provides a mechanism for requesting information from Walkinweb, Inc. Also used to tell us how we can improve our products, services and site designs.
+  * Email Correspondence. 
+    * Used to raise and respond to issues and inquiries of all types. Also used to distribute information about Walkinweb, Inc, our products, and services.
+  * Event Registration. 
+    * Provides a mechanism for requesting information from you to register in special events.  
+We will only use your personal information in the ways specified when it was collected. We will not subsequently change the way in which we use your personal information, unless you consent to the new usage.
 
-Email address and full name are displayed only when a user requests to add another user to their Sportposting list, and when we send notifications to a user related to their use of the service. Except when members invite friends, full names are not shared or displayed with people outside of their Personal Network. Email addresses of Sportposting members are never displayed to other users on the system. Users within a Personal Network communicate on Sportposting with each other through the Sportposting service without disclosing their email addresses.
 
-We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent, unless required by law or to protect your membership. 
 
-If you use our Invite feature to invite a friend to our service, we will ask you for your friend's email address. We'll automatically send the friend an email inviting them to join, as well as two reminder messages. Sportposting does not sell these email addresses or use them to transmit any communication other than the invitation and reminders to join your personal Network. Sportposting stores this information for the sole purpose of sending this invitation and reminders, and for tracking the success of our Invite functionality.
+### Security Measures
 
-The Sportposting site may contain links to other Web sites. Please be aware that Sportposting is not responsible for the privacy practices of other sites our users choose to visit. If our users provide any information directly to parties other than Sportposting, different rules may apply to the use or disclosure of the personal information disclosed. We encourage you to investigate and ask questions before disclosing your personal information to third parties. 
+We protect the personal information you share with us. For example, if you make an online purchase with us, we encrypt your credit card number. Access to your personal information is limited to people who need it to do their job. 
 
-Please be aware that whenever members voluntarily disclose personal information online - e.g., file uploads, image uploads adn events- that information becomes public and can be collected and used by others. By posting personal information online in events, members may receive unsolicited messages from other parties.
+Authorized third party agents may also need access to some of your personal information.   
+For example, if we need to dispatch something to you, we must share your name and address with a courier company. We provide third parties with only the minimum amount of information needed to complete the requested service or transaction. We do not otherwise share your personal information with third parties, unless you have granted us permission to do so.
+
+### Data Retention
+
+Walkinweb, Inc will not retain your personal information longer than is necessary for the purposes for which it was collected.
+
+### Linked Web Sites
+
+  
+We provide links to third party sites. Since we do not control these Web sites, we encourage you to review the privacy policies posted on these (and all) third party sites.
+
+### Children's Privacy
+
+We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems.
+
+### Cookies
+
+The Walkinweb, Inc web site uses cookies. Cookies help us to provide you with targeted information by measuring which Web site areas are of greatest interest. Walkinweb, Inc also uses cookies when you register for certain Web promotions. In this situation, a cookie will store useful information that enables our Web site to remember you when you return. Walkinweb, Inc can only read cookies from Walkinweb, Inc Web sites. If you choose to disable cookies in your browser, you can still access most of our Web sites. Some Web sites will not allow you to complete certain activities if cookies are disabled. For example, our consumer e-commerce site uses session cookies and persistent cookies to process transactions. If you do not accept cookies, the associated shopping bag will not work and you would not be able to order. 
