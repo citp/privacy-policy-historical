@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anime-ds.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224211509id_/http%3A//www.anime-ds.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anime-ds.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127042850id_/http%3A//www.anime-ds.com/privacy.php) for the most accurate reproduction.*
 
 # Anime - Download Stream: Privacy Policy
 
