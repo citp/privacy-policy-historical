@@ -1,20 +1,21 @@
-<!--The following is the downloaded HTML source of the sonesta.com privacy policy that was archived on 2011-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110526002804id_/http%3A//www.sonesta.com/Corporate/index.cfm%3Ffa%3Dmisc.PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sonesta.com privacy policy that was archived on 2011-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111127224028id_/http%3A//www.sonesta.com/Corporate/index.cfm%3Ffa%3Dmisc.PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "//www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="//www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
 
 
 	
-	<title>Sonesta Hotels, Resorts &amp; Nile Cruises - Sonesta Boston, Miami, New Orleans, St. Maarten, Brazil, Chile, Colombia, Peru, Egypt</title>
+	<title>Sonesta Hotels, Resorts &amp; Nile Cruises - Sonesta Boston, Miami, New Orleans, St. Maarten, Chile, Colombia, Peru, Egypt</title>
 
 	
 	
 		<base href="http://www.sonesta.com/Corporate/">
 		
 	
+	<meta http-equiv="X-UA-Compatible" content="IE=9">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta name="description" content="Official site of Sonesta – including Royal Sonesta Hotels, Nile Cruises and Beach Resorts. Discover the distinctive Sonesta resorts and hotels in Boston, Coconut Grove - Miami, New Orleans, St Maarten, Brazil, Chile, Colombia, Peru, and  Egypt.">
+	<meta name="description" content="Official site of Sonesta – including Royal Sonesta Hotels, Nile Cruises and Beach Resorts. Discover the distinctive Sonesta resorts and hotels in Boston, Coconut Grove - Miami, New Orleans, St Maarten, Chile, Colombia, Peru, and  Egypt.">
 	
 	<meta name="keywords" content="Sonesta,sonesta international hotel,sonesta">
 
@@ -22,6 +23,7 @@
 	<link rel="alternate" type="application/rss+xml" title="Sonesta RSS Feed" href="/corporate/index.cfm?fa=xml.NewsAndOffers">
 
 	
+		
 
 <link href="http://cdn.sonesta.com/includes/css/screen.css?cb=20110209" media="screen" rel="stylesheet" type="text/css">
 
@@ -73,11 +75,21 @@
 </script>
 
 
+
+
 	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
 	<script type="text/javascript" src="http://cdn.sonesta.com/includes/js/scriptaculous-js-1.8.3/lib/prototype.js?cb=20101025"></script>
 	<script type="text/javascript" src="http://cdn.sonesta.com/includes/js/scriptaculous-js-1.8.3/src/scriptaculous.js?cb=20101025"></script>
 	<script type="text/javascript" src="http://cdn.sonesta.com/includes/js/swfobject.js?cb=20101025"></script>
 
+ 
+	
+	
+    		<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+			<script type="text/javascript">
+		   	 stLight.options({publisher:'05c412f2-5de3-45b0-b5b9-fa64fa4c7fac'});
+			</script>
+		
 
 
     
@@ -182,26 +194,7 @@
 	}
 
 </style>	
-	
-<script>
-	
-	function validate() {
-		var serviceId = document.getElementById("serviceId");
-		var sid = document.getElementById("sid");
-		var sidIdx = serviceId.options[serviceId.selectedIndex].value;
-		var reserve = document.getElementById("reservationForm");
-		
-		if (sidIdx == 0) {
-			alert('Please enter a location');
-			return false;
-		}else{
-			sid.value =  sidIdx;
-			reserve.action = "index.cfm?fa=misc.reservation";
-			reserve.submit();
-		}
-	}
-	
-</script> 
+
 
       <!-- begin reservations flyout module -->  
     <div id="reservations-flyout-module" class="current-closed">
@@ -213,7 +206,7 @@
 	
 	
 		
-       <form action="javascript:void(0);" method="post" id="reservationForm">
+       <form action="index.cfm?fa=misc.reservation" method="post" id="reservationForm">
 			<input type="hidden" name="sid" id="sid" value="6">
 			<input type="hidden" name="origin" id="origin" value="rezmodule">
 			<input type="hidden" name="start" id="start" value="1">
@@ -228,8 +221,6 @@
 						<option value="55">Sonesta Bayfront Hotel - Coconut Grove</option>
 					
 						<option value="9">Royal Sonesta Hotel - New Orleans</option>
-					
-						<option value="33">Sonesta Hotel Brasilia</option>
 					
 						<option value="643">Sonesta Hotel Calama</option>
 					
@@ -259,7 +250,7 @@
 					
 						<option value="18">Sonesta Club - Sharm El Sheikh</option>
 					
-						<option value="649">Le Royale Sonesta Collection Luxury Resort Sharm El Sheikh</option>
+						<option value="649">Le Royale Sharm El SheikhSonesta Collection Luxury Resort</option>
 					
 						<option value="32">Sonesta Beach Resort - Taba</option>
 					
@@ -334,7 +325,7 @@
 				<option value="9">9</option>
 			</select> 
 			
-			<input class="reserve" type="image" src="http://cdn.sonesta.com/images/website/button_search_en.png" alt="search" onclick="validate();" title="search">
+			<input class="reserve" type="image" src="http://cdn.sonesta.com/images/website/button_search_en.png" alt="search" title="search">
 			
 			 
           </fieldset>
@@ -424,8 +415,8 @@
 			
 			var config = {};
 			for (var i in YahooCalendarConfig) { config[i] = YahooCalendarConfig[i] }
-			config.mindate = "05/25/2011";
-			config.maxdate = "05/25/2013";
+			config.mindate = "11/27/2011";
+			config.maxdate = "11/27/2013";
 			config.iframe = true;
 			
 			reserveArriveCalendar = new YAHOO.widget.Calendar("reserveArriveCalendar","reserveArriveCalendarContainer", config );
@@ -445,8 +436,8 @@
 			reserveArriveCalendar.selectEvent.subscribe(function(type, args, obj){reservationSelectEvent(reserveArriveCalendar,args,"arrive");}, reserveArriveCalendar, true); 
 			reserveDepartCalendar.selectEvent.subscribe(function(type, args, obj){reservationSelectEvent(reserveDepartCalendar,args,"depart");}, reserveDepartCalendar, true); 
 			
-			reserveArriveCalendar.select(new Date(2011, 4, 25));
-			reserveDepartCalendar.select(new Date(2011, 4, 26));		
+			reserveArriveCalendar.select(new Date(2011, 10, 27));
+			reserveDepartCalendar.select(new Date(2011, 10, 28));		
 			
 		}
 	);
@@ -519,7 +510,7 @@
           <li>
 			   
 			
-					  <a href="http://www.facebook.com/SonestaHotels" title="Facebook"><img class="facebook" src="http://cdn.sonesta.com/images/website/button_facebook.png" alt="Facebook" width="12" height="12"></a>
+					  <a href="http://www.facebook.com/SonestaHotels" title="Facebook" target="_blank"><img class="facebook" src="http://cdn.sonesta.com/images/website/button_facebook.png" alt="Facebook" width="12" height="12"></a>
 				
           </li>
 
@@ -566,8 +557,10 @@
 
 	      	<!-- end join web club module -->
 			
-            	<a class="join-web-club" href="javascript:void(0);" title="join web club"><img class="join-web-club" src="http://www.sonesta.com/Corporate/images/website/join_web_club.png" alt="join web club" width="16" height="12">join web club</a>
-        	
+            	<a class="join-web-club" href="javascript:void(0);" title="join web club">
+                
+                <img class="join-web-club" src="http://www.sonesta.com/Corporate/Images/website/join_web_club.png" alt="join web club" width="16" height="12">join web club</a>
+                
 		 </li>
 		 
           	<li><a href="https://www.sonesta.com/Corporate/index.cfm?fa=travelpass.signin" title="sign in">sign in</a></li>
@@ -638,10 +631,8 @@
              <div class="flyout-three-column">
              <h3>South America</h3>
              <div class="floatLeft" style="margin-right:20px;">
-             <span class="tan" style="margin-top:0px;">Brazil</span>
-                  <a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=33&amp;region=brazil">Brasilia</a><br>
-             			
-             <span class="tan">Chile</span>
+             
+             <span class="tan" style="margin-top:0px;">Chile</span>
                  <a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=643&amp;region=chile">Calama</a><br>
             		  <a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=641&amp;region=chile">Concepción</a><br>
              		<a href="http://www.sonesta.com/Corporate/index.cfm?fa=c.LocationRedirect&amp;sid=639&amp;region=chile">Osorno</a><br>
@@ -748,8 +739,10 @@
                <a href="index.cfm?fa=c.LocationRedirect&amp;sid=72&amp;region=st%2E%20maarten">St. Maarten (Great Bay)</a><br>
                <a href="index.cfm?fa=c.LocationRedirect&amp;sid=5&amp;region=st%2E%20maarten">St. Maarten (Maho Beach)</a><br>
 
-         <h3 id="future-openings">Future Openings</h3>
-		    <a id="future-openings-link" href="/Corporate/index.cfm?fa=development.futureopenings">Learn More</a><br>
+          <h3 id="future-openings">Future Openings</h3>
+		    
+				<a id="future-openings-link" href="http://www.Sonesta.com/Corporate/index.cfm?fa=development.futureopenings">Learn More</a><br>
+			
 
            <div class="corporate-home">
           	<a href="index.cfm?fa=c.LocationRedirect&amp;sid=63">Sonesta.com Home Page</a><br>
@@ -761,10 +754,8 @@
         <div class="flyout-three-column">
           <h3>South America</h3>
           <div class="floatLeft" style="margin-right:20px;">
-          <span class="tan" style="margin-top:0px;">Brazil</span>
-                <a href="index.cfm?fa=c.LocationRedirect&amp;sid=33&amp;region=brazil">Brasilia</a><br>
-               
-          <span class="tan">Chile</span>
+          
+          <span class="tan" style="margin-top:0px;">Chile</span>
               <a href="index.cfm?fa=c.LocationRedirect&amp;sid=643&amp;region=chile">Calama</a><br>
                <a href="index.cfm?fa=c.LocationRedirect&amp;sid=641&amp;region=chile">Concepción</a><br>
                <a href="index.cfm?fa=c.LocationRedirect&amp;sid=639&amp;region=chile">Osorno</a><br>
@@ -1470,8 +1461,7 @@ At times our privacy policy may be changed and any updates will be posted to thi
 	<script type="text/javascript" src="http://cdn.sonesta.com/includes/js/jQuery/jquery.livequery.js?cb=20101025"></script>
 	<script type="text/javascript" src="http://cdn.sonesta.com/includes/js/jQuery/jquery.simplemodal-1.3.5.min.js?cb=20101025"></script>
     
-    		<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
-		 
+	 
 		
 	<script type="text/javascript" defer="defer">
 		/* <![CDATA[ */						
@@ -1485,6 +1475,10 @@ At times our privacy policy may be changed and any updates will be posted to thi
 					return false;
 				} else if (href.indexOf("fa=c.resvRedirect") != -1) {
 					pageTracker._link(this.href);
+					return false;
+				} else if (href.indexOf("fa=highres") != -1) {
+					var openURL = "https://clientservices.vfmii.com/pdl/Main.html?company=sonesta";
+					window.open(openURL);
 					return false;
 				}
 			});
@@ -1538,10 +1532,6 @@ At times our privacy policy may be changed and any updates will be posted to thi
 	 
 	
 
-	
-
-
- 
 
 <!-- Start Google Analytics -->
 <script type="text/javascript">
@@ -1569,24 +1559,24 @@ At times our privacy policy may be changed and any updates will be posted to thi
 
 <script type="text/javascript">
 	/* <![CDATA[ */	
-		jQuery(function($){
+		//jQuery(function($){
 		try {
-			$('a.newsLink').livequery('click',function(){
-				var newsTitle = $(this).attr("title");
+			jQuery('a.newsLink').livequery('click',function(){
+				var newsTitle = jQuery(this).attr("title");
 				pageTracker._initData();
 				pageTracker._trackEvent('hp news', 'click', newsTitle, 63);
 			});
 		} catch(err){}
 		
 		try {
-			$("#reservationForm").submit(function() {
-				var selected_sid = $('#serviceId').val();
+			jQuery("#reservationForm").submit(function() {
+				var selected_sid = jQuery('#serviceId').val();
 				if (selected_sid != 0) {
 					pageTracker._linkByPost(this);
 				}
 			}); 
 	 	} catch(err){}
-	 });
+	// });
 	/* ]]> */
 
 </script>
@@ -1596,7 +1586,7 @@ At times our privacy policy may be changed and any updates will be posted to thi
 		
 		<script type="text/javascript">
             jQuery(document).ready(function(){
-                stLight.options({publisher:'05c412f2-5de3-45b0-b5b9-fa64fa4c7fac'});
+               // stLight.options({publisher:'05c412f2-5de3-45b0-b5b9-fa64fa4c7fac'});
             });
         </script>
 		
@@ -1612,6 +1602,7 @@ var roiGo =  roiTrack + '" style="float: left; width: 0; height: 0;" />';
 document.write( roiGo );
  //-->
 </script><img src="https://reztrack.com/roi/?cid=5157&amp;ref=" style="float: left; width: 0; height: 0;">
+
 
 
 
