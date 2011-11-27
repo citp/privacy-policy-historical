@@ -1,28 +1,29 @@
-> *The following text is extracted and transformed from the inttra.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528164812id_/http%3A//www.inttra.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inttra.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127104055id_/http%3A//www.inttra.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Legal - Privacy Policy
 
   * [Home](https://web.archive.org/)
-  * [Legal - Privacy Policy](https://web.archive.org/web/20110528164812id_/http%3A//www.inttra.com/legal/legal/privacy-policy)
+  * [Legal - Privacy Policy](https://web.archive.org/web/20111127104055id_/http%3A//www.inttra.com/legal/legal/privacy-policy)
 
 
 
-Updated January 2011
+Updated June 2011
 
 This Privacy and Security Policy ("Privacy Policy") addresses our use and disclosure of information we collect from you on our product platforms and corporate web site. The product platforms are:
 
   * [www.inttraworks.inttra.com](http://www.inttraworks.inttra.com/); 
-  * [https://www.cvt.inttra.com](https://www.cvt.inttra.com/); and 
-  * [www.oceanschedules.com](http://www.oceanschedules.com/). 
+  * [https://www.cvt.inttra.com](https://www.cvt.inttra.com/); 
+  * [www.oceanschedules.com](http://www.oceanschedules.com/); and 
+  * [www.oceanmetrics.com](http://www.oceanmetrics.com/)
 
 
 
 The corporate website resides at [www.inttra.com](http://www.inttra.com/). The product platforms and the corporate website listed here are collectively referred to as the " **Websites** ". 
 
-INTTRA has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and INTTRA practices have been reviewed by TRUSTe for EU Safe Harbor compliance including transparency, accountability and choice regarding the collection and use of your personal information. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at the contact information below. If you are not satisfied with our response you can contact TRUSTe at:   
+INTTRA has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and INTTRA practices have been reviewed by TRUSTe for U.S.-EU Safe Harbor and U.S.-Swiss Safe Harbor compliance including transparency, accountability and choice regarding the collection and use of your personal information. If you have questions or complaints regarding our Privacy Policy or practices, please contact us at the contact information below. If you are not satisfied with our response you can contact TRUSTe at:   
 <http://watchdog.truste.com/pvr.php?page=complaint>.
 
-Our privacy practices comply with the U.S.-EU Safe Harbor Program as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. For more information about Safe Harbor Principles or to access our certification statement, please review the U.S. Department of Commerce's Web site at: <http://export.gov/safeharbor/>.
+Our privacy practices comply with the U.S.-EU Safe Harbor and U.S.-Swiss Safe Harbor Programs as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union and Sqitzerland, respectively. For more information about Safe Harbor Principles or to access our certification statement, please review the U.S. Department of Commerce's Web site at: <http://export.gov/safeharbor/>.
 
 This Privacy Policy applies to all data and information that INTTRA may obtain about you, in connection with its provision of the INTTRA systems defined below, including, without limitation, the Websites and transmissions via electronic data interchange (" **EDI** ") (collectively referred to as the " **System** "), and all related services (provision of the System and all related services are collectively referred to as the " **Services** "). This Privacy Policy should be read in conjunction with one or more agreements between your company (the " **Company** ") and INTTRA (the " **Agreement(s)** ") that apply to the System and the Services and with any other documents or guides that are provided from time to time in relation to the Services.  
 INTTRA recognizes the importance of protecting the privacy of users of the System ("Users") and this Privacy Policy sets forth INTTRA's practices with respect to the collection, use and disclosure of personal data of Users.
