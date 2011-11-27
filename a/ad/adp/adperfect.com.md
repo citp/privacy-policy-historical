@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adperfect.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528024629id_/http%3A//www.adperfect.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adperfect.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127182106id_/http%3A//adperfect.com/policy) for the most accurate reproduction.*
 
 # AdPerfect - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 AdPerfect has created this Privacy Policy statement to document and communicate its commitment to doing business with the highest ethical standards and appropriate internal controls.
 
-We respect your privacy. Information you entrust to AdPerfect will be handled with the greatest care. AdPerfect will not use any information in ways which users did not consen. AdPerfect follows all policies as required by law. 
+We respect your privacy. Information you entrust to AdPerfect will be handled with the greatest care. AdPerfect will not use any information in ways which users did not consent. AdPerfect follows all policies as required by law. 
 
 ### Policy Scope
 
