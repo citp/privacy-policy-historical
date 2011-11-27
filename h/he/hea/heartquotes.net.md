@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the heartquotes.net privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221225307id_/http%3A//www.heartmath.com/company/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartquotes.net privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127034043id_/http%3A//www.heartmath.com/company/privacy_policy.html) for the most accurate reproduction.*
 
 # heartmath-privacy-policy | company | about
-
-##  [ HeartMath Customer Privacy Policy](http://www.heartmath.com/about/heartmath-privacy-policy.html)
 
 [](http://www.heartmath.com/pdf/about/heartmath-privacy-policy.pdf "PDF")[](http://www.heartmath.com/about/heartmath-privacy-policy/print.html "Print")[](http://www.heartmath.com/component/option,com_mailto/link,aHR0cDovL3d3dy5oZWFydG1hdGguY29tL2Fib3V0L2hlYXJ0bWF0aC1wcml2YWN5LXBvbGljeS5odG1s/tmpl,component/ "E-mail")
 
