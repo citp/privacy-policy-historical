@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the beezmap.com privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031012838id_/http%3A//www.beezmap.com/index/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beezmap.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127144825id_/http%3A//www.beezmap.com/index/policy) for the most accurate reproduction.*
 
 # Beezmap - Privacy Policy
 
-**Beezmap.com is owned and maintained by BeezMap LLC. ("BeezMap"). Any inquiries related to the functions of the BeezMap.com website should be directed to BeezMap using the contact information provided at the end of this Privacy Policy.**
+**Any inquiries related to the functions of the BeezMap.com website should be directed to BeezMap using the contact information provided at the end of this Privacy Policy.**
 
 BeezMap is committed to protecting the privacy of the users of the BeezMap.com site. Please read the Statements below which describe in detail the kinds of data that are collected by the site, the manner in which it is stored, and the purposes it is used for. We reserve the right to modify this privacy policy at any time, so please review it frequently. Notification of changes to this policy will be posted on this page.
 
