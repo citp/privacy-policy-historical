@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netprospex.com privacy policy that was archived on 2011-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110123152419id_/http%3A//www.netprospex.com/np/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netprospex.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127180536id_/http%3A//www.netprospex.com/np/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NetProspex
 
@@ -60,7 +60,7 @@ NetProspex is a business information site providing contact information on worki
 
 **NetProspex Inc.**  
 Att: Customer Support  
-318 Bear Hill Rd.  
+300 Third Ave  
 Waltham, MA 02451  
 Phone: 888-826-4877  
 E-mail: [privacy@netprospex.com](mailto:privacy@netprospex.com)
