@@ -1,17 +1,22 @@
-<!--The following is the downloaded HTML source of the layoutready.com privacy policy that was archived on 2011-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110530013033id_/http%3A//www.layoutready.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the layoutready.com privacy policy that was archived on 2011-11-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111127212856id_/http%3A//www.layoutready.com/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="verify-v1" content="JzdIphdEbOqZc7gRvT4FEAEeHUkQFKsyqlqOoBvvvZM="><link rel="stylesheet" type="text/css" href="/styles/lr-main.css?04-28-11"><link rel="stylesheet" type="text/css" href="/styles/tabs.css?09-20-10"><link rel="stylesheet" type="text/css" href="/highslide/highslide.css?12-20-10"><link rel="shortcut icon" href="/favicon.ico">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="verify-v1" content="JzdIphdEbOqZc7gRvT4FEAEeHUkQFKsyqlqOoBvvvZM="><link rel="stylesheet" type="text/css" href="/styles/lr-main.css?10-20-11"><link rel="stylesheet" type="text/css" href="/styles/tabs.css?09-20-10"><link rel="stylesheet" type="text/css" href="/highslide/highslide.css?12-20-10"><link rel="shortcut icon" href="/favicon.ico">
 		<script type="text/javascript" src="/highslide/highslide.js"></script>
         <script type="text/javascript">
             // override Highslide settings here
             // instead of editing the highslide.js file
             hs.Expander.prototype.onImageClick = function() {
                 if (this.custom) {
-                    window.location.href = this.custom.url
+                    navigateWithReferrer(this.custom.url);
+                    //window.location.href = this.custom.url
                 };
                 return false;
             }
+            hs.Expander.prototype.onBeforeExpand = function() {
+                this.content.alt = this.thumb.alt;
+                hs.lang.restoreTitle = this.thumb.title
+            };
             hs.graphicsDir = '/highslide/graphics/';
             hs.registerOverlay({
                 html: '<div class="closebutton" onclick="return hs.close(this)" title="Close"></div>',
@@ -22,6 +27,19 @@
                 html: '<div class="closelink" onclick="return hs.close(this)">close</div>',
                 position: 'top right'
             });
+
+            function navigateWithReferrer(url)
+            {
+                var fakeLink = document.createElement ("a");
+                if (typeof(fakeLink.click) == 'undefined')
+                    window.location.href = url;  // sends referrer in FF, not in IE
+                else
+                {
+                    fakeLink.href = url;
+                    document.body.appendChild(fakeLink);
+                    fakeLink.click();   // click() method defined in IE only
+                }
+            }
         </script>
 		<script type="text/javascript">
 			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -36,15 +54,15 @@
             catch (err) { }
 		</script>
 		
-<link href="/Styles/genericBrowser.css?9-20-10" type="text/css" rel="stylesheet"><link href="/Styles/TopNav.css?09-20-10" type="text/css" rel="stylesheet"><link href="/Styles/SideSearch.css?09-20-10" type="text/css" rel="stylesheet">	<meta name="KEYWORDS" content="privacy, policy">
+<link href="/Styles/genericBrowser.css?9-20-10" type="text/css" rel="stylesheet"><link href="/Styles/TopNav.css?10-17-11" type="text/css" rel="stylesheet"><link href="/Styles/SideSearch.css?09-20-10" type="text/css" rel="stylesheet">	<meta name="KEYWORDS" content="privacy, policy">
 	<meta name="DESCRIPTION" content="LayoutReady's privacy policy tells you about the online collection and use of information that identifies you personally so that you can make an informed choice about using this site. ">
 <title>
-	LayoutReady - Privacy Policy
+	LayoutReady | Privacy Policy
 </title><style type="text/css">.highslide img {cursor: url(/highslide/graphics/zoomin.cur), pointer !important;}</style></head>
 	<body>
 		<form name="aspnetForm" method="post" action="/Privacy.aspx" id="aspnetForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTg4MTAyMTU0OA9kFgJmD2QWAgIDEGRkFgQCAQ9kFgICAQ9kFgICAg8PFgIeB1Zpc2libGVoZGQCAg9kFgYCAQ9kFgICBQ8QZGQWAGQCAg9kFgQCAQ8WAh4JaW5uZXJodG1sBRFTZWFyY2ggQnkgUHJvZHVjdGQCAw9kFgJmDxBkEBUPCUJyb2NodXJlcwtOZXdzbGV0dGVycwZGbHllcnMDQWRzCVBvc3RjYXJkcw5CdXNpbmVzcyBDYXJkcwtMZXR0ZXJoZWFkcwpEYXRhc2hlZXRzBU1lbnVzCVBhbXBobGV0cwhMZWFmbGV0cwdQb3N0ZXJzDkdyZWV0aW5nIENhcmRzCk5vdGUgQ2FyZHMRWytdIE1vcmUgUHJvZHVjdHMVD11odHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvQnJvY2h1cmVzL0Jyb2NodXJlLVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHhhaHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL05ld3NsZXR0ZXJzL05ld3NsZXR0ZXItVGVtcGxhdGVzLUxpYnJhcnkuYXNweFdodHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvRmx5ZXJzL0ZseWVyLVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHhRaHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL0Fkcy9BZC1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4XWh0dHA6Ly93d3cubGF5b3V0cmVhZHkuY29tL01pY3Jvc29mdC1Xb3JkLVRlbXBsYXRlcy9Qb3N0Y2FyZHMvUG9zdGNhcmQtVGVtcGxhdGVzLUxpYnJhcnkuYXNweGdodHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvQnVzaW5lc3MtQ2FyZHMvQnVzaW5lc3MtQ2FyZC1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4YWh0dHA6Ly93d3cubGF5b3V0cmVhZHkuY29tL01pY3Jvc29mdC1Xb3JkLVRlbXBsYXRlcy9MZXR0ZXJoZWFkcy9MZXR0ZXJoZWFkLVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHhfaHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL0RhdGFzaGVldHMvRGF0YXNoZWV0LVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHhVaHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL01lbnVzL01lbnUtVGVtcGxhdGVzLUxpYnJhcnkuYXNweF1odHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvUGFtcGhsZXRzL1BhbXBobGV0LVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHhbaHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL0xlYWZsZXRzL0xlYWZsZXQtVGVtcGxhdGVzLUxpYnJhcnkuYXNweFlodHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvUG9zdGVycy9Qb3N0ZXItVGVtcGxhdGVzLUxpYnJhcnkuYXNweGdodHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvR3JlZXRpbmctQ2FyZHMvR3JlZXRpbmctQ2FyZC1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4X2h0dHA6Ly93d3cubGF5b3V0cmVhZHkuY29tL01pY3Jvc29mdC1Xb3JkLVRlbXBsYXRlcy9Ob3RlLUNhcmRzL05vdGUtQ2FyZC1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4AiswFCsDD2dnZ2dnZ2dnZ2dnZ2dnZxYAZAIDD2QWBAIBDxYCHwEFElNlYXJjaCBCeSBJbmR1c3RyeWQCAw9kFgJmDxBkEBUdFVByb2Zlc3Npb25hbCBTZXJ2aWNlcxJGaW5hbmNpYWwgU2VydmljZXMLUmVhbCBFc3RhdGUVTWVkaWNhbCAmIEhlYWx0aCBDYXJlClRlY2hub2xvZ3kQU3BvcnRzICYgRml0bmVzcw9IZWFsdGggJiBCZWF1dHkZUmVsaWdpb3VzICYgT3JnYW5pemF0aW9ucxVBZ3JpY3VsdHVyZSAmIEZhcm1pbmcbQXV0b21vdGl2ZSAmIFRyYW5zcG9ydGF0aW9uCkNoaWxkIENhcmUMQ29uc3RydWN0aW9uFEVkdWNhdGlvbiAmIFRyYWluaW5nFEVuZXJneSAmIEVudmlyb25tZW50D0Zvb2QgJiBCZXZlcmFnZRpHb3Zlcm5tZW50ICYgUHVibGljIFNhZmV0eRBIb21lIE1haW50ZW5hbmNlCUluc3VyYW5jZQ5MZWdhbCBTZXJ2aWNlcw1NYW51ZmFjdHVyaW5nDE11c2ljICYgQXJ0cwpOb24gUHJvZml0DlBldHMgJiBBbmltYWxzDlJldGFpbCAmIFNhbGVzEFRyYXZlbCAmIFRvdXJpc20YV2VkZGluZyAmIEV2ZW50IFBsYW5uaW5nD0J1c2luZXNzIEV2ZW50cxJIb2xpZGF5ICYgU2Vhc29uYWwTWytdIE1vcmUgSW5kdXN0cmllcxUddmh0dHA6Ly93d3cubGF5b3V0cmVhZHkuY29tL01pY3Jvc29mdC1Xb3JkLVRlbXBsYXRlcy9Qcm9mZXNzaW9uYWwtU2VydmljZXMvUHJvZmVzc2lvbmFsLVNlcnZpY2VzLVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHhwaHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL0ZpbmFuY2lhbC1TZXJ2aWNlcy9GaW5hbmNpYWwtU2VydmljZXMtVGVtcGxhdGVzLUxpYnJhcnkuYXNweGJodHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvUmVhbC1Fc3RhdGUvUmVhbC1Fc3RhdGUtVGVtcGxhdGVzLUxpYnJhcnkuYXNweHJodHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvTWVkaWNhbC1IZWFsdGgtQ2FyZS9NZWRpY2FsLUhlYWx0aC1DYXJlLVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHhgaHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL1RlY2hub2xvZ3kvVGVjaG5vbG9neS1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4aGh0dHA6Ly93d3cubGF5b3V0cmVhZHkuY29tL01pY3Jvc29mdC1Xb3JkLVRlbXBsYXRlcy9TcG9ydHMtRml0bmVzcy9TcG9ydHMtRml0bmVzcy1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4Zmh0dHA6Ly93d3cubGF5b3V0cmVhZHkuY29tL01pY3Jvc29mdC1Xb3JkLVRlbXBsYXRlcy9IZWFsdGgtQmVhdXR5L0hlYWx0aC1CZWF1dHktVGVtcGxhdGVzLUxpYnJhcnkuYXNweHpodHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvUmVsaWdpb3VzLU9yZ2FuaXphdGlvbnMvUmVsaWdpb3VzLU9yZ2FuaXphdGlvbnMtVGVtcGxhdGVzLUxpYnJhcnkuYXNweHJodHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvQWdyaWN1bHR1cmUtRmFybWluZy9BZ3JpY3VsdHVyZS1GYXJtaW5nLVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHh+aHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL0F1dG9tb3RpdmUtVHJhbnNwb3J0YXRpb24vQXV0b21vdGl2ZS1UcmFuc3BvcnRhdGlvbi1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4YGh0dHA6Ly93d3cubGF5b3V0cmVhZHkuY29tL01pY3Jvc29mdC1Xb3JkLVRlbXBsYXRlcy9DaGlsZC1DYXJlL0NoaWxkLUNhcmUtVGVtcGxhdGVzLUxpYnJhcnkuYXNweGRodHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvQ29uc3RydWN0aW9uL0NvbnN0cnVjdGlvbi1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4cGh0dHA6Ly93d3cubGF5b3V0cmVhZHkuY29tL01pY3Jvc29mdC1Xb3JkLVRlbXBsYXRlcy9FZHVjYXRpb24tVHJhaW5pbmcvRWR1Y2F0aW9uLVRyYWluaW5nLVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHhwaHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL0VuZXJneS1FbnZpcm9ubWVudC9FbmVyZ3ktRW52aXJvbm1lbnQtVGVtcGxhdGVzLUxpYnJhcnkuYXNweGZodHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvRm9vZC1CZXZlcmFnZS9Gb29kLUJldmVyYWdlLVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHh8aHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL0dvdmVybm1lbnQtUHVibGljLVNhZmV0eS9Hb3Zlcm5tZW50LVB1YmxpYy1TYWZldHktVGVtcGxhdGVzLUxpYnJhcnkuYXNweGxodHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvSG9tZS1NYWludGVuYW5jZS9Ib21lLU1haW50ZW5hbmNlLVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHheaHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL0luc3VyYW5jZS9JbnN1cmFuY2UtVGVtcGxhdGVzLUxpYnJhcnkuYXNweGhodHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvTGVnYWwtU2VydmljZXMvTGVnYWwtU2VydmljZXMtVGVtcGxhdGVzLUxpYnJhcnkuYXNweGZodHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvTWFudWZhY3R1cmluZy9NYW51ZmFjdHVyaW5nLVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHhgaHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL011c2ljLUFydHMvTXVzaWMtQXJ0cy1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4YGh0dHA6Ly93d3cubGF5b3V0cmVhZHkuY29tL01pY3Jvc29mdC1Xb3JkLVRlbXBsYXRlcy9Ob24tUHJvZml0L05vbi1Qcm9maXQtVGVtcGxhdGVzLUxpYnJhcnkuYXNweGRodHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvUGV0cy1BbmltYWxzL1BldHMtQW5pbWFscy1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4ZGh0dHA6Ly93d3cubGF5b3V0cmVhZHkuY29tL01pY3Jvc29mdC1Xb3JkLVRlbXBsYXRlcy9SZXRhaWwtU2FsZXMvUmV0YWlsLVNhbGVzLVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHhoaHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL1RyYXZlbC1Ub3VyaXNtL1RyYXZlbC1Ub3VyaXNtLVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHh4aHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL1dlZGRpbmctRXZlbnQtUGxhbm5pbmcvV2VkZGluZy1FdmVudC1QbGFubmluZy1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4amh0dHA6Ly93d3cubGF5b3V0cmVhZHkuY29tL01pY3Jvc29mdC1Xb3JkLVRlbXBsYXRlcy9CdXNpbmVzcy1FdmVudHMvQnVzaW5lc3MtRXZlbnRzLVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHhsaHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL0hvbGlkYXktU2Vhc29uYWwvSG9saWRheS1TZWFzb25hbC1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4AiswFCsDHWdnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnFgBkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRtjdGwwMCRkeW5hU2lkZU5hdjEkZ29CdXR0b24l+moxRhiqNz4N7eYaQyyEbZ6ipQ==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTg4MTAyMTU0OA9kFgJmD2QWAgIDEGRkFgQCAQ9kFgICAQ9kFgJmD2QWAmYPZBYCAgMPDxYCHgdWaXNpYmxlaGRkAgIPZBYGAgEPZBYCAgUPEGRkFgBkAgIPZBYEAgEPFgIeCWlubmVyaHRtbAURU2VhcmNoIEJ5IFByb2R1Y3RkAgMPZBYCZg8QZBAVDwlCcm9jaHVyZXMLTmV3c2xldHRlcnMGRmx5ZXJzA0FkcwlQb3N0Y2FyZHMOQnVzaW5lc3MgQ2FyZHMLTGV0dGVyaGVhZHMKRGF0YXNoZWV0cwVNZW51cwlQYW1waGxldHMITGVhZmxldHMHUG9zdGVycw5HcmVldGluZyBDYXJkcwpOb3RlIENhcmRzEVsrXSBNb3JlIFByb2R1Y3RzFQ9daHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL0Jyb2NodXJlcy9Ccm9jaHVyZS1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4YWh0dHA6Ly93d3cubGF5b3V0cmVhZHkuY29tL01pY3Jvc29mdC1Xb3JkLVRlbXBsYXRlcy9OZXdzbGV0dGVycy9OZXdzbGV0dGVyLVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHhXaHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL0ZseWVycy9GbHllci1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4UWh0dHA6Ly93d3cubGF5b3V0cmVhZHkuY29tL01pY3Jvc29mdC1Xb3JkLVRlbXBsYXRlcy9BZHMvQWQtVGVtcGxhdGVzLUxpYnJhcnkuYXNweF1odHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvUG9zdGNhcmRzL1Bvc3RjYXJkLVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHhnaHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL0J1c2luZXNzLUNhcmRzL0J1c2luZXNzLUNhcmQtVGVtcGxhdGVzLUxpYnJhcnkuYXNweGFodHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvTGV0dGVyaGVhZHMvTGV0dGVyaGVhZC1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4X2h0dHA6Ly93d3cubGF5b3V0cmVhZHkuY29tL01pY3Jvc29mdC1Xb3JkLVRlbXBsYXRlcy9EYXRhc2hlZXRzL0RhdGFzaGVldC1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4VWh0dHA6Ly93d3cubGF5b3V0cmVhZHkuY29tL01pY3Jvc29mdC1Xb3JkLVRlbXBsYXRlcy9NZW51cy9NZW51LVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHhdaHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL1BhbXBobGV0cy9QYW1waGxldC1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4W2h0dHA6Ly93d3cubGF5b3V0cmVhZHkuY29tL01pY3Jvc29mdC1Xb3JkLVRlbXBsYXRlcy9MZWFmbGV0cy9MZWFmbGV0LVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHhZaHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL1Bvc3RlcnMvUG9zdGVyLVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHhnaHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL0dyZWV0aW5nLUNhcmRzL0dyZWV0aW5nLUNhcmQtVGVtcGxhdGVzLUxpYnJhcnkuYXNweF9odHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvTm90ZS1DYXJkcy9Ob3RlLUNhcmQtVGVtcGxhdGVzLUxpYnJhcnkuYXNweAIrMBQrAw9nZ2dnZ2dnZ2dnZ2dnZ2cWAGQCAw9kFgQCAQ8WAh8BBRJTZWFyY2ggQnkgSW5kdXN0cnlkAgMPZBYCZg8QZBAVHRVQcm9mZXNzaW9uYWwgU2VydmljZXMSRmluYW5jaWFsIFNlcnZpY2VzC1JlYWwgRXN0YXRlFU1lZGljYWwgJiBIZWFsdGggQ2FyZQpUZWNobm9sb2d5EFNwb3J0cyAmIEZpdG5lc3MPSGVhbHRoICYgQmVhdXR5GVJlbGlnaW91cyAmIE9yZ2FuaXphdGlvbnMVQWdyaWN1bHR1cmUgJiBGYXJtaW5nG0F1dG9tb3RpdmUgJiBUcmFuc3BvcnRhdGlvbgpDaGlsZCBDYXJlDENvbnN0cnVjdGlvbhRFZHVjYXRpb24gJiBUcmFpbmluZxRFbmVyZ3kgJiBFbnZpcm9ubWVudA9Gb29kICYgQmV2ZXJhZ2UaR292ZXJubWVudCAmIFB1YmxpYyBTYWZldHkQSG9tZSBNYWludGVuYW5jZQlJbnN1cmFuY2UOTGVnYWwgU2VydmljZXMNTWFudWZhY3R1cmluZwxNdXNpYyAmIEFydHMKTm9uIFByb2ZpdA5QZXRzICYgQW5pbWFscw5SZXRhaWwgJiBTYWxlcxBUcmF2ZWwgJiBUb3VyaXNtGFdlZGRpbmcgJiBFdmVudCBQbGFubmluZw9CdXNpbmVzcyBFdmVudHMSSG9saWRheSAmIFNlYXNvbmFsE1srXSBNb3JlIEluZHVzdHJpZXMVHXZodHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvUHJvZmVzc2lvbmFsLVNlcnZpY2VzL1Byb2Zlc3Npb25hbC1TZXJ2aWNlcy1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4cGh0dHA6Ly93d3cubGF5b3V0cmVhZHkuY29tL01pY3Jvc29mdC1Xb3JkLVRlbXBsYXRlcy9GaW5hbmNpYWwtU2VydmljZXMvRmluYW5jaWFsLVNlcnZpY2VzLVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHhiaHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL1JlYWwtRXN0YXRlL1JlYWwtRXN0YXRlLVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHhyaHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL01lZGljYWwtSGVhbHRoLUNhcmUvTWVkaWNhbC1IZWFsdGgtQ2FyZS1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4YGh0dHA6Ly93d3cubGF5b3V0cmVhZHkuY29tL01pY3Jvc29mdC1Xb3JkLVRlbXBsYXRlcy9UZWNobm9sb2d5L1RlY2hub2xvZ3ktVGVtcGxhdGVzLUxpYnJhcnkuYXNweGhodHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvU3BvcnRzLUZpdG5lc3MvU3BvcnRzLUZpdG5lc3MtVGVtcGxhdGVzLUxpYnJhcnkuYXNweGZodHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvSGVhbHRoLUJlYXV0eS9IZWFsdGgtQmVhdXR5LVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHh6aHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL1JlbGlnaW91cy1Pcmdhbml6YXRpb25zL1JlbGlnaW91cy1Pcmdhbml6YXRpb25zLVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHhyaHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL0FncmljdWx0dXJlLUZhcm1pbmcvQWdyaWN1bHR1cmUtRmFybWluZy1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4fmh0dHA6Ly93d3cubGF5b3V0cmVhZHkuY29tL01pY3Jvc29mdC1Xb3JkLVRlbXBsYXRlcy9BdXRvbW90aXZlLVRyYW5zcG9ydGF0aW9uL0F1dG9tb3RpdmUtVHJhbnNwb3J0YXRpb24tVGVtcGxhdGVzLUxpYnJhcnkuYXNweGBodHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvQ2hpbGQtQ2FyZS9DaGlsZC1DYXJlLVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHhkaHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL0NvbnN0cnVjdGlvbi9Db25zdHJ1Y3Rpb24tVGVtcGxhdGVzLUxpYnJhcnkuYXNweHBodHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvRWR1Y2F0aW9uLVRyYWluaW5nL0VkdWNhdGlvbi1UcmFpbmluZy1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4cGh0dHA6Ly93d3cubGF5b3V0cmVhZHkuY29tL01pY3Jvc29mdC1Xb3JkLVRlbXBsYXRlcy9FbmVyZ3ktRW52aXJvbm1lbnQvRW5lcmd5LUVudmlyb25tZW50LVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHhmaHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL0Zvb2QtQmV2ZXJhZ2UvRm9vZC1CZXZlcmFnZS1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4fGh0dHA6Ly93d3cubGF5b3V0cmVhZHkuY29tL01pY3Jvc29mdC1Xb3JkLVRlbXBsYXRlcy9Hb3Zlcm5tZW50LVB1YmxpYy1TYWZldHkvR292ZXJubWVudC1QdWJsaWMtU2FmZXR5LVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHhsaHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL0hvbWUtTWFpbnRlbmFuY2UvSG9tZS1NYWludGVuYW5jZS1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4Xmh0dHA6Ly93d3cubGF5b3V0cmVhZHkuY29tL01pY3Jvc29mdC1Xb3JkLVRlbXBsYXRlcy9JbnN1cmFuY2UvSW5zdXJhbmNlLVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHhoaHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL0xlZ2FsLVNlcnZpY2VzL0xlZ2FsLVNlcnZpY2VzLVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHhmaHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL01hbnVmYWN0dXJpbmcvTWFudWZhY3R1cmluZy1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4YGh0dHA6Ly93d3cubGF5b3V0cmVhZHkuY29tL01pY3Jvc29mdC1Xb3JkLVRlbXBsYXRlcy9NdXNpYy1BcnRzL011c2ljLUFydHMtVGVtcGxhdGVzLUxpYnJhcnkuYXNweGBodHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvTm9uLVByb2ZpdC9Ob24tUHJvZml0LVRlbXBsYXRlcy1MaWJyYXJ5LmFzcHhkaHR0cDovL3d3dy5sYXlvdXRyZWFkeS5jb20vTWljcm9zb2Z0LVdvcmQtVGVtcGxhdGVzL1BldHMtQW5pbWFscy9QZXRzLUFuaW1hbHMtVGVtcGxhdGVzLUxpYnJhcnkuYXNweGRodHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvUmV0YWlsLVNhbGVzL1JldGFpbC1TYWxlcy1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4aGh0dHA6Ly93d3cubGF5b3V0cmVhZHkuY29tL01pY3Jvc29mdC1Xb3JkLVRlbXBsYXRlcy9UcmF2ZWwtVG91cmlzbS9UcmF2ZWwtVG91cmlzbS1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4eGh0dHA6Ly93d3cubGF5b3V0cmVhZHkuY29tL01pY3Jvc29mdC1Xb3JkLVRlbXBsYXRlcy9XZWRkaW5nLUV2ZW50LVBsYW5uaW5nL1dlZGRpbmctRXZlbnQtUGxhbm5pbmctVGVtcGxhdGVzLUxpYnJhcnkuYXNweGpodHRwOi8vd3d3LmxheW91dHJlYWR5LmNvbS9NaWNyb3NvZnQtV29yZC1UZW1wbGF0ZXMvQnVzaW5lc3MtRXZlbnRzL0J1c2luZXNzLUV2ZW50cy1UZW1wbGF0ZXMtTGlicmFyeS5hc3B4bGh0dHA6Ly93d3cubGF5b3V0cmVhZHkuY29tL01pY3Jvc29mdC1Xb3JkLVRlbXBsYXRlcy9Ib2xpZGF5LVNlYXNvbmFsL0hvbGlkYXktU2Vhc29uYWwtVGVtcGxhdGVzLUxpYnJhcnkuYXNweAIrMBQrAx1nZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZxYAZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUbY3RsMDAkZHluYVNpZGVOYXYxJGdvQnV0dG9uuo6Jbq4laEW5PRvj4GaH8YLzRKg=">
 </div>
 
 
@@ -59,7 +77,7 @@
 <script src="/ScriptResource.axd?d=u0rUvWSU2WSSM47MuTVU61C6kXPh92stCuqUh5nKvqajIMGML3YVtEDa07Ukoh4A3VfDcrrXBcEyOSE-Z3Ws4540JjbrbKA1_h_yqI-xcIs1&amp;t=ffffffffb9085626" type="text/javascript"></script>
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAKaodb3DgLE4fnDCgLqk42rCALcm838BCLdAe2e9w6ujkreKLo3Dc8jw1F0">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBALxt/2GCQLE4fnDCgLqk42rCALcm838BLhNovLDZyCKlnxQUsN2uMLGJvr2">
 </div>
 			<input type="hidden" name="ctl00$lrScriptManager" id="ctl00_lrScriptManager">
 			<div>
@@ -69,26 +87,30 @@
 		<tbody><tr valign="middle">
 			<td width="30"></td>
 			<td width="240">
-				<a href="http://www.layoutready.com/Default.aspx">
-				<img title="LayoutReady Home Page" alt="LayoutReady Logo" src="/images/layoutready-logo.gif" style="display: inline; width: 200px; height: 30px;"></a>
+				<a href="http://www.layoutready.com/">
+				<img alt="Word Templates | Publisher Templates | LayoutReady" src="/images/layoutready-logo.gif" style="display: inline; width: 200px; height: 30px;"></a>
 			</td>
 			<td width="680" align="right" valign="bottom">
-			    <div id="ctl00_topNavControl_UserPanel1_notLoggedInPanel" class="topNavUserInfo">
+			    <div id="ctl00_topNavControl_UserPanel1_topNavUserPanel">
 	
-	<table border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td>
-				<a href="https://www.layoutready.com/Account/login.aspx" class="noUnderline">Log in</a>
-			</td>
-			<td align="center" width="25">|</td>
-			<td>
-			    <a href="https://www.layoutready.com/Order/Cart.aspx" class="noUnderline">Cart: 0 Items</a>
-			</td>
-		</tr>
-	</tbody></table>
-
+        <div id="ctl00_topNavControl_UserPanel1_notLoggedInPanel" class="topNavUserInfo">
+		
+	        <table border="0" cellpadding="0" cellspacing="0">
+		        <tbody><tr>
+			        <td>
+				        <a href="https://www.layoutready.com/Account/Login.aspx" class="noUnderline">Log in</a>
+			        </td>
+			        <td align="center" width="25">|</td>
+			        <td>
+			            <a href="https://www.layoutready.com/Order/Cart.aspx" class="noUnderline">Cart: 0 Items</a>
+			        </td>
+		        </tr>
+	        </tbody></table>
+        
+	</div>
+        
+    
 </div>
-
 
 			</td>
 			<td width="10"></td>
@@ -113,25 +135,25 @@
 		                <div id="templatesMenu" class="topDropDown">
 			                <ul>
 			                    <li class="col1" style="margin-left: 0px; text-decoration: none;"><b>By Application</b></li>
-				                <li class="col1"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Microsoft-Word/Microsoft-Word-Templates.aspx">Word Templates</a></li>
-				                <li class="col1"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Microsoft-Publisher/Microsoft-Publisher-Templates.aspx">Publisher Templates</a></li>
+				                <li class="col1"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Microsoft-Word/Microsoft-Word-Templates.aspx">Microsoft Word</a></li>
+				                <li class="col1"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Microsoft-Publisher/Microsoft-Publisher-Templates.aspx">Microsoft Publisher</a></li>
 	                            <li class="col2" style="margin-left: 135px; text-decoration: none; margin-top: -60px;"><b>By Product</b></li>
-				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Brochures/Brochure-Templates.aspx">Brochure Templates</a></li>
-				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Tri-Fold-Brochures/Tri-Fold-Brochure-Templates.aspx">Tri-Fold Brochure Templates</a></li>
-				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Newsletters/Newsletter-Templates.aspx">Newsletter Templates</a></li>
-				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Flyers/Flyer-Templates.aspx">Flyer Templates</a></li>
-				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Postcards/Postcard-Templates.aspx">Postcard Templates</a></li>
-				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Business-Cards/Business-Card-Templates.aspx">Business Card Templates</a></li>
-				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Letterheads/Letterhead-Templates.aspx">Letterhead Templates</a></li>
-				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Ads/Ad-Templates.aspx">Ad Templates</a></li>
-				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Datasheets/Datasheet-Templates.aspx">Datasheet Templates</a></li>
-				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Pamphlets/Pamphlet-Templates.aspx">Pamphlet Templates</a></li>
-				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Leaflets/Leaflet-Templates.aspx">Leaflet Templates</a></li>
-				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Menus/Menu-Templates.aspx">Menu Templates</a></li>
-				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Posters/Poster-Templates.aspx">Poster Templates</a></li>
-				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Greeting-Cards/Greeting-Card-Templates.aspx">Greeting Card Templates</a></li>
-				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Note-Cards/Note-Card-Templates.aspx">Note Card Templates</a></li>
-	                            <li class="col3" style="margin-left: 315px; text-decoration: none; margin-top: -320px;"><b>By Industry</b></li>
+				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Brochures/Brochure-Templates.aspx">Brochures</a></li>
+				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Tri-Fold-Brochures/Tri-Fold-Brochure-Templates.aspx">Tri-Fold Brochures</a></li>
+				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Newsletters/Newsletter-Templates.aspx">Newsletters</a></li>
+				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Flyers/Flyer-Templates.aspx">Flyers</a></li>
+				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Postcards/Postcard-Templates.aspx">Postcards</a></li>
+				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Business-Cards/Business-Card-Templates.aspx">Business Cards</a></li>
+				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Letterheads/Letterhead-Templates.aspx">Letterheads</a></li>
+				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Ads/Ad-Templates.aspx">Print Ads</a></li>
+				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Datasheets/Datasheet-Templates.aspx">Datasheets</a></li>
+				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Pamphlets/Pamphlet-Templates.aspx">Pamphlets</a></li>
+				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Leaflets/Leaflet-Templates.aspx">Leaflets</a></li>
+				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Menus/Menu-Templates.aspx">Menus</a></li>
+				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Posters/Poster-Templates.aspx">Posters</a></li>
+				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Greeting-Cards/Greeting-Card-Templates.aspx">Greeting Cards</a></li>
+				                <li class="col2"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Note-Cards/Note-Card-Templates.aspx">Note Cards</a></li>
+	                            <li class="col3" style="margin-left: 270px; text-decoration: none; margin-top: -320px;"><b>By Industry</b></li>
 			                    <li class="col3"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Agriculture-Farming/Agriculture-Farming-Templates.aspx">Agriculture &amp; Farming</a></li>
 			                    <li class="col3"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Automotive-Transportation/Automotive-Transportation-Templates.aspx">Automotive</a></li>
 			                    <li class="col3"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Child-Care/Child-Care-Templates.aspx">Child Care</a></li>
@@ -148,11 +170,11 @@
 			                    <li class="col3"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Manufacturing/Manufacturing-Templates.aspx">Manufacturing</a></li>
 	                            <li class="col4" style="margin-top: -280px;"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Medical-Health-Care/Medical-Health-Care-Templates.aspx">Medical &amp; Health Care</a></li>
 			                    <li class="col4"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Music-Arts/Music-Arts-Templates.aspx">Music &amp; Arts</a></li>
-			                    <li class="col4"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Non-Profit/Non-Profit-Templates.aspx">Non-Profit</a></li>
+			                    <li class="col4"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Non-Profit/Non-Profit-Templates.aspx">Non Profit</a></li>
 			                    <li class="col4"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Pets-Animals/Pets-Animals-Templates.aspx">Pets &amp; Animals</a></li>
 			                    <li class="col4"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Professional-Services/Professional-Services-Templates.aspx">Professional Services</a></li>
 			                    <li class="col4"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Real-Estate/Real-Estate-Templates.aspx">Real Estate</a></li>
-			                    <li class="col4"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Religious-Organizations/Religious-Organizations-Templates.aspx">Religious &amp; Non Profit</a></li>
+			                    <li class="col4"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Religious-Organizations/Religious-Organizations-Templates.aspx">Religious</a></li>
 			                    <li class="col4"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Retail-Sales/Retail-Sales-Templates.aspx">Retail &amp; Sales</a></li>
 			                    <li class="col4"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Sports-Fitness/Sports-Fitness-Templates.aspx">Sports &amp; Fitness</a></li> 
 			                    <li class="col4"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Technology/Technology-Templates.aspx">Technology</a></li>
@@ -167,12 +189,13 @@
 		                <div class="pipe"></div>
 	                </li>
 	                <li class="horizontalListItem" id="aboutButton" onmouseover="MenuRollOver(2);" onmouseout="MenuRollOff();">
-		                <span class="about">How Templates Work</span>					
+		                <span class="about">Subscriptions</span>					
 		                <div class="topDropDown" id="aboutMenu">
 			                <ul>
-				                <li class="col5"><a href="http://www.layoutready.com/Microsoft-Word-Templates/How-Templates-Work.aspx">How Templates Work</a></li>
-				                <li class="col5"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Template-Features-Benefits.aspx">Template Features &amp; Benefits</a></li>
-				                <li class="col5"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Microsoft-Word-Template-Editing-Guide.aspx">Template Editing Guide</a></li>
+			                    <li class="col5"><b>Subscribe and Save!</b></li>
+				                <li class="col5">3-Month Subscription&nbsp;&nbsp;<b class="orange">$99.95</b></li>
+				                <li class="col5">1-Year Subscription&nbsp;&nbsp;<b class="orange">$199.95</b></li>
+				                <li class="col5" style="margin-top: 5px;"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Template-Subscriptions.aspx"><u>Template Subscriptions</u></a></li>
 			                </ul>
 		                </div>
 	                </li>
@@ -183,18 +206,18 @@
 		                <span class="samples">Free Templates</span>
 		                <div class="topDropDown" id="trialMenu">
 			                <ul>
-				                <li class="col6"><a href="http://www.layoutready.com/Free-Word-Templates/Free-Sample-Brochure-Template.aspx">Free Brochure Template</a></li>
-				                <li class="col6"><a href="http://www.layoutready.com/Free-Word-Templates/Free-Sample-Newsletter-Template.aspx">Free Newsletter Template</a></li>
-				                <li class="col6"><a href="http://www.layoutready.com/Free-Word-Templates/Free-Sample-Flyer-Template.aspx">Free Flyer Template</a></li>
-				                <li class="col6"><a href="http://www.layoutready.com/Free-Word-Templates/Free-Sample-Ad-Template.aspx">Free Print Ad Template</a></li>
-				                <li class="col6"><a href="http://www.layoutready.com/Free-Word-Templates/Free-Sample-Postcard-Template.aspx">Free Postcard Template</a></li>
-				                <li class="col6"><a href="http://www.layoutready.com/Free-Word-Templates/Free-Sample-Business-Card-Template.aspx">Free Business Card Template</a></li>
-				                <li class="col6"><a href="http://www.layoutready.com/Free-Word-Templates/Free-Sample-Letterhead-Template.aspx">Free Letterhead Template</a></li>
-				                <li class="col6"><a href="http://www.layoutready.com/Free-Word-Templates/Free-Sample-Pamphlet-Template.aspx">Free Pamphlet Template</a></li>
-				                <li class="col6"><a href="http://www.layoutready.com/Free-Word-Templates/Free-Sample-Leaflet-Template.aspx">Free Leaflet Template</a></li>
-				                <li class="col6"><a href="http://www.layoutready.com/Free-Word-Templates/Free-Sample-Poster-Template.aspx">Free Poster Template</a></li>
-				                <li class="col6" style="margin-top: 10px;"><a href="http://www.layoutready.com/Free-Word-Templates/Free-Sample-Microsoft-Word-Template.aspx">All Free Word Templates</a></li>
-				                <li class="col6"><a href="http://www.layoutready.com/Free-Word-Templates/Free-Sample-Microsoft-Publisher-Template.aspx">All Free Publisher Templates</a></li>
+				                <li class="col6"><a href="http://www.layoutready.com/Free-Word-Templates/Free-Sample-Microsoft-Word-Template.aspx">Free Word Templates</a></li>
+				                <li class="col6"><a href="http://www.layoutready.com/Free-Word-Templates/Free-Sample-Microsoft-Publisher-Template.aspx">Free Publisher Templates</a></li>
+				                <li class="col6" style="margin-top: 10px;"><a href="http://www.layoutready.com/Free-Word-Templates/Free-Sample-Brochure-Template.aspx">Free Brochure</a></li>
+				                <li class="col6"><a href="http://www.layoutready.com/Free-Word-Templates/Free-Sample-Newsletter-Template.aspx">Free Newsletter</a></li>
+				                <li class="col6"><a href="http://www.layoutready.com/Free-Word-Templates/Free-Sample-Flyer-Template.aspx">Free Flyer</a></li>
+				                <li class="col6"><a href="http://www.layoutready.com/Free-Word-Templates/Free-Sample-Ad-Template.aspx">Free Print Ad</a></li>
+				                <li class="col6"><a href="http://www.layoutready.com/Free-Word-Templates/Free-Sample-Postcard-Template.aspx">Free Postcard</a></li>
+				                <li class="col6"><a href="http://www.layoutready.com/Free-Word-Templates/Free-Sample-Business-Card-Template.aspx">Free Business Card</a></li>
+				                <li class="col6"><a href="http://www.layoutready.com/Free-Word-Templates/Free-Sample-Letterhead-Template.aspx">Free Letterhead</a></li>
+				                <li class="col6"><a href="http://www.layoutready.com/Free-Word-Templates/Free-Sample-Pamphlet-Template.aspx">Free Pamphlet</a></li>
+				                <li class="col6"><a href="http://www.layoutready.com/Free-Word-Templates/Free-Sample-Leaflet-Template.aspx">Free Leaflet</a></li>
+				                <li class="col6"><a href="http://www.layoutready.com/Free-Word-Templates/Free-Sample-Poster-Template.aspx">Free Poster</a></li>
 			                </ul>
 		                </div>
 	                </li>
@@ -202,10 +225,13 @@
 		                <div class="pipe"></div>
 	                </li>
 	                <li class="horizontalListItem" id="supportButton" onmouseover="MenuRollOver(3);" onmouseout="MenuRollOff();">
-		                <span class="support">Resources</span>
+		                <span class="support">Support</span>
 		                <div class="topDropDown" id="supportMenu">
 			                <ul>
-				                <li class="col7"><a href="http://www.layoutready.com/Support/FAQs.aspx">Frequently Asked Questions</a></li>
+				                <li class="col7"><a href="http://www.layoutready.com/Microsoft-Word-Templates/How-Templates-Work.aspx">How Templates Work</a></li>
+				                <li class="col7"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Template-Features-Benefits.aspx">Template Features &amp; Benefits</a></li>
+				                <li class="col7"><a href="http://www.layoutready.com/Support/FAQs.aspx">FAQs</a></li>
+				                <li class="col7"><a href="http://www.layoutready.com/Microsoft-Word-Templates/How-To-Video-Tutorials.aspx">How-to Videos</a></li>
 				                <li class="col7"><a href="http://www.layoutready.com/Microsoft-Word-Templates/Microsoft-Word-Template-Editing-Guide.aspx">Template Editing Guide</a></li>
 				                <li class="col7"><a href="http://www.layoutready.com/Support/Resources.aspx">Resource Directory</a></li>
 				                <li class="col7"><a href="http://www.layoutready.com/ContactUs.aspx">Contact Us</a></li>
@@ -300,7 +326,7 @@
         </div>
         <h4 class="subHeading">More Search Options</h4>
         <ul>
-            <li><a id="ctl00_dynaSideNav1_lnkAllTemplates" href="javascript:__doPostBack('ctl00$dynaSideNav1$lnkAllTemplates','')">View All Word Templates</a></li>
+            <li><a id="ctl00_dynaSideNav1_lnkAllTemplates" href="javascript:__doPostBack('ctl00$dynaSideNav1$lnkAllTemplates','')">View All Templates</a></li>
             <li><a href="/Free-Word-Templates/Free-Sample-Microsoft-Word-Template.aspx">Free Templates</a></li>
         </ul>
     </div>
@@ -460,14 +486,12 @@
 			                    
 <div class="bottomNav" style="padding: 10px 20px 15px 20px;">
 	<div class="cellLink" style="float: left; width: 278px; margin-right: 25px;">
-		<div style="margin-bottom: 8px;font-size: 16px; line-height: 22px; color: #2584C1;">Professional Microsoft Word Templates</div>
+		<div style="margin-bottom: 8px;font-size: 16px; line-height: 22px; color: #2584C1;">Professional Microsoft Templates</div>
 		<div style="float: left; margin-right: 12px;">
-			<b>
-				<a href="http://www.layoutready.com/Microsoft-Word-Templates/Microsoft-Word/Microsoft-Word-Templates.aspx">Word Templates</a><br>
-				<a href="http://www.layoutready.com/Microsoft-Word-Templates/Microsoft-Publisher/Microsoft-Publisher-Templates.aspx">Publisher Templates</a><br>
-			</b>
+			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Microsoft-Word/Microsoft-Word-Templates.aspx"><b>Word Templates</b></a><br>
+			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Microsoft-Publisher/Microsoft-Publisher-Templates.aspx"><b>Publisher Templates</b></a><br>
 			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Brochures/Brochure-Templates.aspx">Brochures</a><br>
-			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Tri-Fold-Brochures/Tri-Fold-Brochure-Templates.aspx">Tri-Fold Brochures</a><br>
+			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Tri-Fold-Brochures/Tri-Fold-Brochure-Templates.aspx">Tri Fold Brochures</a><br>
 			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Newsletters/Newsletter-Templates.aspx">Newsletters</a><br>
 			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Business-Cards/Business-Card-Templates.aspx">Business Cards</a><br>
 		</div>
@@ -491,7 +515,7 @@
 	</div>
 	<div class="cellLink" style="float: left; width: 595px;">
 		<div style="margin-bottom: 8px; font-size: 16px; line-height: 22px; color: #2584C1;">Do-It-Yourself Business Marketing Templates</div>
-		<div style="float: left; margin-right: 12px;">
+		<div style="float: left; margin-right: 14px;">
 			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Agriculture-Farming/Agriculture-Farming-Templates.aspx">Agriculture &amp; Farming</a><br>
 			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Automotive-Transportation/Automotive-Transportation-Templates.aspx">Automotive</a><br>
 			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Child-Care/Child-Care-Templates.aspx">Child Care</a><br>
@@ -499,7 +523,7 @@
 			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Education-Training/Education-Training-Templates.aspx">Education &amp; Training</a><br> 
 			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Energy-Environment/Energy-Environment-Templates.aspx">Energy &amp; Environment</a><br>
 		</div>
-		<div style="float: left; margin-right: 12px;">
+		<div style="float: left; margin-right: 14px;">
 			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Food-Beverage/Food-Beverage-Templates.aspx">Food &amp; Beverage</a><br> 
 			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Financial-Services/Financial-Services-Templates.aspx">Financial Services</a><br>
 			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Government-Public-Safety/Government-Public-Safety-Templates.aspx">Government</a><br>
@@ -507,18 +531,18 @@
 			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Home-Maintenance/Home-Maintenance-Templates.aspx">Home Maintenance</a><br>
 			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Insurance/Insurance-Templates.aspx">Insurance</a><br>
 		</div>
-		<div style="float: left; margin-right: 12px;">
+		<div style="float: left; margin-right: 14px;">
 			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Legal-Services/Legal-Services-Templates.aspx">Legal Services</a><br>
 			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Manufacturing/Manufacturing-Templates.aspx">Manufacturing</a><br>
 			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Medical-Health-Care/Medical-Health-Care-Templates.aspx">Medical &amp; Health Care</a><br>
 			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Music-Arts/Music-Arts-Templates.aspx">Music &amp; Arts</a><br>
-			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Non-Profit/Non-Profit-Templates.aspx">Non-Profit</a><br>
+			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Non-Profit/Non-Profit-Templates.aspx">Non Profit</a><br>
 			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Pets-Animals/Pets-Animals-Templates.aspx">Pets &amp; Animals</a><br>
 		</div>
-		<div style="float: left; margin-right: 12px;">
+		<div style="float: left; margin-right: 14px;">
 			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Professional-Services/Professional-Services-Templates.aspx">Professional Services</a><br>
 			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Real-Estate/Real-Estate-Templates.aspx">Real Estate</a><br>
-			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Religious-Organizations/Religious-Organizations-Templates.aspx">Religious &amp; Non Profit</a><br>
+			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Religious-Organizations/Religious-Organizations-Templates.aspx">Religious</a><br>
 			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Retail-Sales/Retail-Sales-Templates.aspx">Retail &amp; Sales</a><br>
 			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Sports-Fitness/Sports-Fitness-Templates.aspx">Sports &amp; Fitness</a><br> 
 			<a href="http://www.layoutready.com/Microsoft-Word-Templates/Technology/Technology-Templates.aspx">Technology</a><br>
@@ -562,7 +586,7 @@
 	<tbody><tr valign="top">
 		<td width="785px">
                                 <a href="http://www.stocklayouts.com/" target="_blank">
-                                    <img src="/images/stocklayouts-logo.gif" title="StockLayouts Logo" alt="StockLayouts Logo" style="margin-right: 10px; margin-top: 10px; display: inline; width: 133px; height: 25px;"></a>
+                                    <img src="/images/stocklayouts-logo.gif" alt="StockLayouts Graphic Design Templates" style="margin-right: 10px; margin-top: 10px; display: inline; width: 133px; height: 25px;"></a>
                                 LayoutReady® is a division of StockLayouts LLC.<br><br>
                                 <span style="margin-left: 0px;" class="copyrightLine">
                                     ©2011 StockLayouts. All rights reserved. LayoutReady® is a trademark of StockLayouts LLC.<br>
