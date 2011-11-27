@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cmswire.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529235238id_/http%3A//www.cmswire.com/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmswire.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127142948id_/http%3A//www.cmswire.com/about/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
