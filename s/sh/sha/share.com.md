@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the share.com privacy policy that was archived on 2011-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110324031306id_/http%3A//www.share.com/a/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the share.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127085538id_/http%3A//www.share.com/a/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy - The Share Centre
 
@@ -116,7 +116,7 @@ Safeguarding our customers' personal details and that of individuals enquiring a
 
 _Security of Information:_
 
-  * Your personal information can only be accessed by providing your unique Customer Reference and Password or Internet Personal Identification Number ('PIN'), which should never be disclosed to anyone
+  * Your personal information can only be accessed by providing your unique Customer Reference and Password which should never be disclosed to anyone
   * Upon exiting your account, you should use the 'sign out' button
   * A technology called "session cookies" is used in order to provide you with access to your account information. Session cookies are small pieces of data which are sent to your Internet browser. They are not permanently stored on your computer 
   * By accessing our site through the Internet, Secure Socket Layer technology is used in order to protect communications by server authentication and data encryption
