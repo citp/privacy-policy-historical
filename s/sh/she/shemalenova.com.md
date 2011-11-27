@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shemalenova.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230063616id_/http%3A//www.shemalenova.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shemalenova.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127020702id_/http%3A//www.shemalenova.com/privacy.html) for the most accurate reproduction.*
 
 # ShemaleNova.com - Privacy
 
