@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karmasandhan.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517075025id_/http%3A//www.karmasandhan.com/p/privacy-policy_7572.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karmasandhan.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127042026id_/http%3A//www.karmasandhan.com/p/privacy-policy_7572.html) for the most accurate reproduction.*
 
 # West Bengal and Central Government Jobs and Recruitment News: Privacy policy.
 
