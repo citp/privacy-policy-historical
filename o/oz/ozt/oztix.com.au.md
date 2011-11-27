@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the oztix.com.au privacy policy that was archived on 2010-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100927032701id_/http%3A//www.oztix.com.au/OzTix/PrivacyStatement/tabid/746/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oztix.com.au privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127204049id_/http%3A//www.oztix.com.au/OzTix/PrivacyStatement/tabid/746/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
 Your right to privacy and the protection of Your private information is protected by law in the Privacy Act 1988 and this policy outlines how We manage and protect Your personal information. If You use Our website We will collect and hold Your personal information for the purposes of providing the ticket/s You have ordered and for verifying that You are who You say You are for the prevention of fraud.
 
-We also collect and hold Your personal information for the purpose of marketing information back to You about Our products and services (but only if You have agreed to do so by selecting the relevant option button on Our website) or so that We can analyse and improve upon Our systems or services. We also collect and provide Your personal information to Our clients for the purpose of marketing information back to You about Our clients' products and services (but only if You have agreed to do so by selecting the relevant option button on Our website). If you have become a member or joined a mailing list at OzTix or any one of our online outlets you can opt out at anytime by emailing us via the [contact us](https://web.archive.org/OzTix/Support/tabid/739/Default.aspx) section on OzTix outlets or sending us written request to PO Box 476, Annerley, Qld, 4103.
+We also collect and hold Your personal information for the purpose of marketing information back to You about Our products and services (but only if You have agreed to do so by selecting the relevant option button on Our website) or so that We can analyse and improve upon Our systems or services. We also collect and provide Your personal information to Our clients for the purpose of marketing information back to You about Our clients' products and services (but only if You have agreed to do so by selecting the relevant option button on Our website). If you have become a member or joined a mailing list at oztix or any one of our online outlets you can opt out at anytime by emailing us via the [contact us](https://web.archive.org/OzTix/Support/tabid/739/Default.aspx) section on oztix outlets or sending us written request to PO Box 476, Annerley, Qld, 4103.
 
 The type of information collected may include Your name, address, email, Your DOB, credit card or financial details. This information will be collected when You complete an application or order form.
 
@@ -22,6 +22,6 @@ We will allow You to deal with Us anonymously if and when it is lawful and pract
 
 Without Your consent We will not collect information about You that reveals Your racial or ethnic origin, political opinions, religious or philosophical beliefs or affiliations, membership of a professional or trade association or union, or health, disability, sexual orientation, or criminal record unless required to by law.
 
-Anytime You have a query or issue about privacy of Your information please "[ **contact us**](https://www.oztix.com.au/OzTix/Support/tabid/739/Default.aspx)".
+Anytime You have a query or issue about privacy of Your information please "[ **contact us**](https://web.archive.org/OzTix/Support/tabid/739/Default.aspx)".
 
 Version-1003
