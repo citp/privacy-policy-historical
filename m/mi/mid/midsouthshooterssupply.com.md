@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the midsouthshooterssupply.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625080507id_/http%3A//www.midsouthshooterssupply.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midsouthshooterssupply.com privacy policy that was archived on 2011-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111127105605id_/http%3A//www.midsouthshooterssupply.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# 
+# Midsouth Shooters Supply -- Privacy Policy
 
 Midsouth Shooters Supply takes your privacy very important. We do not sell, trade, rent or share your information. Below are our policy specifics if you care to read.
 
@@ -18,4 +18,4 @@ Only under legal reason or subpoena will we release your information to anyone n
 
 ### Security:
 
-We use the Secure Socket Layer (SSL) protocol to transmit the data from your secure browsers to us. This is the industry standard and is noted by the lock, and different color bar or many other ways. One way to ensure you are in a secure area is to look at the address line and it should begin with ” https://”. We use Network Solution’s “SiteSafe” to make each visit as secure as possible.
+We use the Secure Socket Layer (SSL) protocol to transmit the data from your secure browsers to us. This is the industry standard and is noted by the lock, and different color bar or many other ways. One way to ensure you are in a secure area is to look at the address line and it should begin with https:// . We use Network Solution s SiteSafe to make each visit as secure as possible.
