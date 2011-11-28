@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditcards.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624030344id_/http%3A//www.creditcards.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditcards.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128125329id_/http%3A//www.creditcards.com/privacy.php) for the most accurate reproduction.*
 
 # CreditCards.com Privacy Policy and terms of service
 
@@ -54,7 +54,7 @@ We work with a third party vendor to distribute our newsletter to our subscribed
 Our CARDMATCH tool asks for your Name, Address and Social Security Number. We collect this information in order to increase your chance of getting approved for a card. We match your credit profile to hundreds of card offers and invite you to apply for the cards that you are more likely to qualify for. We transmit your data to the credit bureaus securely. We only store your name and date stamp of when you used the tool on our servers as a record of your opt-in to the disclosures provided with the tool. 
 
 _Choice/Opt-out_  
-If you no longer wish to receive our newsletter, you may opt-out of receiving it by following the instructions included in each newsletter, or you may write to us at CreditCards.com, Attn: Newsletter Unsubscribe, 8920 Business Park Drive #350 Austin, TX 78759 to opt-out. You may also opt out by entering your information at <http://www.creditcardsmail.com/nl>.
+If you no longer wish to receive our newsletter, you may opt-out of receiving it by following the instructions included in each newsletter, or you may write to us at CreditCards.com, Attn: Newsletter Unsubscribe, 8920 Business Park Drive #350 Austin, TX 78759 to opt-out. You may also opt out by entering your information at <http://www.creditcardsmail.com/nl/?campaignId=100>.
 
 You may not opt-out of receiving email acknowledgements and responses to customer support or media inquiries.
 
