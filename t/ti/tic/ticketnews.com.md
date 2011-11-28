@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketnews.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527130802id_/http%3A//www.ticketnews.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketnews.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128153650id_/http%3A//www.ticketnews.com/about/privacy) for the most accurate reproduction.*
 
 # TicketNews - Privacy Policy | TicketNews
 
@@ -12,14 +12,14 @@ This Privacy Policy discloses the privacy practices of [TicketNews.com](http://w
 **This Privacy Policy will address:**  
 
 
-> • [Sites Covered by This Policy](https://web.archive.org/web/20110527130802id_/http%3A//www.ticketnews.com/about/privacy#a)  
->  • [User Information: Collection and Use](https://web.archive.org/web/20110527130802id_/http%3A//www.ticketnews.com/about/privacy#b)  
->  • [Security](https://web.archive.org/web/20110527130802id_/http%3A//www.ticketnews.com/about/privacy#c)  
->  • [User Accounts](https://web.archive.org/web/20110527130802id_/http%3A//www.ticketnews.com/about/privacy#d)  
->  • [Subscription E-mail Services](https://web.archive.org/web/20110527130802id_/http%3A//www.ticketnews.com/about/privacy#e)  
->  • [TicketNewsfeed Widget](https://web.archive.org/web/20110527130802id_/http%3A//www.ticketnews.com/about/privacy#f)  
->  • [Opting-Out and User Access to and Control Over Information](https://web.archive.org/web/20110527130802id_/http%3A//www.ticketnews.com/about/privacy#g)  
->  • [Amendments](https://web.archive.org/web/20110527130802id_/http%3A//www.ticketnews.com/about/privacy#h)
+> • [Sites Covered by This Policy](https://web.archive.org/web/20111128153650id_/http%3A//www.ticketnews.com/about/privacy#policy-coverage)  
+>  • [User Information: Collection and Use](https://web.archive.org/web/20111128153650id_/http%3A//www.ticketnews.com/about/privacy#user-info)  
+>  • [Security](https://web.archive.org/web/20111128153650id_/http%3A//www.ticketnews.com/about/privacy#security)  
+>  • [User Accounts](https://web.archive.org/web/20111128153650id_/http%3A//www.ticketnews.com/about/privacy#accounts)  
+>  • [Subscription E-mail Services](https://web.archive.org/web/20111128153650id_/http%3A//www.ticketnews.com/about/privacy#subscriptions)  
+>  • [TicketNewsfeed Widget](https://web.archive.org/web/20111128153650id_/http%3A//www.ticketnews.com/about/privacy#widget)  
+>  • [Opting-Out and User Access to and Control Over Information](https://web.archive.org/web/20111128153650id_/http%3A//www.ticketnews.com/about/privacy#opt-out)  
+>  • [Amendments](https://web.archive.org/web/20111128153650id_/http%3A//www.ticketnews.com/about/privacy#h)
 
 * * *
 
