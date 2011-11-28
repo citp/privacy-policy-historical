@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryanseacrest.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531023555id_/http%3A//ryanseacrest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryanseacrest.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128121840id_/http%3A//ryanseacrest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ryan Seacrest - The official entertainment news site of American Idol host and American Top 40 on air radio personality!
 
