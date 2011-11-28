@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealercenter.net privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531075630id_/http%3A//www.dealercenter.net/en/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealercenter.net privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128194125id_/http%3A//www.dealercenter.net/en/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
-# DealerCenter - Privacy Policy
+# Our Privacy Policy : Buy Here Pay Here Software : Car Dealer Software : DealerCenter.net
 
 We are strongly committed to protecting your privacy online and have taken steps to protect the information you share with us. DealerCenter uses encryption technology to safeguard the credit data used in credit report transactions. To help protect your privacy, you should maintain the secrecy of the logon ID and password you set up in connection with your participation in any Nowcom service. 
 
