@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vht.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102032645id_/http%3A//www.vht.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vht.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128203216id_/http%3A//www.vht.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - VHT - Real Estate Photography, Virtual Tours, 360 Images, Video Production
+# Privacy Policy - Real Estate Photography, Virtual Tours, 360 Images, Video Production - VHT
 
 VHT Privacy Policy  
 Your privacy is very important to VHT. With that in mind, we have established and implemented information handling practices for www.VHT.com that we believe are consistent with the highest standards and best practices of organizations doing business on the Internet. This privacy policy describes the practices that apply to our site, including the information we collect about you, when and how we collect that information and what may happen to that information. We have prepared a detailed policy because we believe you should know as much as possible about our practices so that you can make an informed decision about the extent of your use of our site. 
