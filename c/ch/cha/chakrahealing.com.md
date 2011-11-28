@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chakrahealing.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502130309id_/http%3A//www.chakrahealing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chakrahealing.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128211616id_/http%3A//www.chakrahealing.com/privacy-policy) for the most accurate reproduction.*
 
-# We All Need Privacy. Here’s Our Commitment To Yours. | Chakra Healing
+# We All Need Privacy. Here’s Our Commitment To Yours. | Chakra Healing | Take the Chakra Test and Open Your 7 Chakras
 
 ##### **Read this. There are kittens and puppies hidden in it.**
 
@@ -8,19 +8,31 @@
 
 For those who want the short and relevant answer, we will always, ALWAYS, respect your privacy, your email address, and the information you give us. We’re not going to sell it, trade it, or abuse any information you submit to us. But I’m sure you’ve got some questions. Here’s our answers to what may be running through your mind. 
 
-#### 1\. Who’s going to get my information?
+#### 1\. How’s my information going to be used?
 
-Your information’s safe with us. So don’t worry about getting spam emails about Viagra or debt consolidation. When you sign up you’ll only get relevant information about Silva, meditation, and programs or products that pertain to meditation, spirituality, and personal growth. These emails will always be sent from us and only us. We’ll never give out your email address or any of the information you submit on this site to anyone else.
+When you sign up you’ll only get relevant information about Chakra Healing, Carol Tuttle, your Chakra Test results, and programs, products or complimentary online events that pertain to chakra healing, meditation, spirituality, and personal growth.
 
 [For full disclosure on how your information is used, head here »](http://www.chakrahealing.com/privacy-policy/full/)
 
-#### 2\. What if I email you guys?
+#### 2\. How do I to stop receiving emails from you in the future?
+
+If you wish to stop receiving emails from us, you may unsubscribe at any time using the link provided at the bottom of all our emails. But if you’re still receiving emails from us, don’t worry, our Customer Happiness Manager will be there to assist you!
+
+All you have to do is drop our Customer Happiness Manager an email at [support@chakrahealing.com](mailto:support@chakrahealing.com) or send one from our [ ‘Contact’ page here »](http://www.chakrahealing.com/customer-support/)
+
+#### 3\. Who’s going to get my information?
+
+Your information’s safe with us. So don’t worry about getting spam emails about Viagra or debt consolidation. These emails will always be sent from us and only us. We’ll never give out your email address or any of the information you submit on this site to anyone else.
+
+[For full disclosure on how your information is used, head here »](http://www.chakrahealing.com/privacy-policy/full/)
+
+#### 4\. What if I email you guys?
 
 Your emails are confidential, we won’t share your email, data, or email address. Cool? It’s just between you and us.
 
 [More on email privacy here »](http://www.chakrahealing.com/privacy-policy/#emailprivacy)
 
-#### 3\. Do you guys use cookies?
+#### 5\. Do you guys use cookies?
 
 Yup, but our cookies don’t contain any personal information. We use them to help you make using our website easier, such as:
 
@@ -41,14 +53,14 @@ We also use Web Beacons to collect non-personal data on how you use our site, su
 But if any of this feels uncomfortable to you, head here to [disable cookies and beacons on your computer »](http://www.chakrahealing.com/privacy-policy/#disablecookies)   
 
 
-#### 4\. What if I post in one of your forums or blog posts?
+#### 6\. What if I post in one of your forums or blog posts?
 
 Occasionally we hold public discussions through forums within our site. This may be on blog posts we put up or in our membership area. Please be aware that this is public space. Would you shout out your credit card information in public? Probably not. Use this same discretion when you post in our forums and when commenting.
 
 [Learn more about our forums here »](http://www.chakrahealing.com/privacy-policy/#forums)   
 
 
-### 5\. How tech savvy are you guys when it comes to data security?
+### 7\. How tech savvy are you guys when it comes to data security?
 
 We’re real good. We have a ton (and wide variety, may I mention) of administrative, managerial, and technical security measures put in place to protect your personal information. We’ve never had a breach of security and always strive for excellence in maintaining your privacy.
 
