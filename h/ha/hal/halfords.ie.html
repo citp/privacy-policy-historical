@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the halfords.ie privacy policy that was archived on 2011-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110620013607id_/http%3A//www.halfords.ie/webapp/wcs/stores/servlet/product_storeId_11101_catalogId_15554_productId_722608_langId_-1_categoryId_211012) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the halfords.ie privacy policy that was archived on 2011-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111128020517id_/http%3A//www.halfords.ie/webapp/wcs/stores/servlet/product_storeId_11101_catalogId_15554_productId_722608_langId_-1_categoryId_211012) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	
-	<link rel="stylesheet" href="/wcsstore7.00.00.188/HalfordsConsumerDirect/css/h20.css" type="text/css">
-	<link rel="stylesheet" href="/wcsstore7.00.00.188/HalfordsConsumerDirect/css/superfish.css" type="text/css">
+	<link rel="stylesheet" href="/wcsstore7.00.00.383/HalfordsConsumerDirect/css/h20.css" type="text/css">
+	<link rel="stylesheet" href="/wcsstore7.00.00.383/HalfordsConsumerDirect/css/superfish.css" type="text/css">
 	
 	<meta http-equiv="Cache-Control" content="no-transform">
 	
@@ -14,41 +14,52 @@
 	
 	
 	
-	<script type="text/javascript" src="/wcsstore7.00.00.188/HalfordsConsumerDirect/javascript/thickbox/jquery-latest.js"></script>
-	<script type="text/javascript" src="/wcsstore7.00.00.188/HalfordsConsumerDirect/javascript/jQueryUI/ui.core.js"></script>
-	<script type="text/javascript" src="/wcsstore7.00.00.188/HalfordsConsumerDirect/javascript/siteUtilities.min.js"></script>
-	<script type="text/javascript" src="/wcsstore7.00.00.188/HalfordsConsumerDirect/javascript/jquery.recentlyviewed.js"></script>
 	
-	<link rel="stylesheet" href="/wcsstore7.00.00.188/HalfordsConsumerDirect/css/jqModal.css" type="text/css" media="screen">
-	<script type="text/javascript" src="/wcsstore7.00.00.188/HalfordsConsumerDirect/javascript/jqModal.js"></script>
+	<script type="text/javascript">
+	    document.domain = "halfords.ie";
+	</script>
+	<script type="text/javascript" src="/wcsstore7.00.00.383/HalfordsConsumerDirect/javascript/thickbox/jquery-latest.js"></script>
+	<script type="text/javascript" src="/wcsstore7.00.00.383/HalfordsConsumerDirect/javascript/jQueryUI/ui.core.js"></script>
+	<script type="text/javascript" src="/wcsstore7.00.00.383/HalfordsConsumerDirect/javascript/siteUtilities.min.js"></script>
+	<script type="text/javascript" src="/wcsstore7.00.00.383/HalfordsConsumerDirect/javascript/jquery.recentlyviewed.js"></script>
+	<script type="text/javascript" src="/wcsstore7.00.00.383/HalfordsConsumerDirect/javascript/jquery.autocomplete.js"></script>
 	
-	<script type="text/javascript" src="/wcsstore7.00.00.188/HalfordsConsumerDirect/javascript/scene7/video-config.js"></script>
-	<script type="text/javascript" src="/wcsstore7.00.00.188/HalfordsConsumerDirect/javascript/scene7/swfobject.js"></script>
+	<link rel="stylesheet" href="/wcsstore7.00.00.383/HalfordsConsumerDirect/css/jqModal.css" type="text/css" media="screen">
+	<script type="text/javascript" src="/wcsstore7.00.00.383/HalfordsConsumerDirect/javascript/jqModal.js"></script>
+	
+	<script type="text/javascript" src="/wcsstore7.00.00.383/HalfordsConsumerDirect/javascript/scene7/video-config.js"></script>
+	<script type="text/javascript" src="/wcsstore7.00.00.383/HalfordsConsumerDirect/javascript/scene7/swfobject.js"></script>
+	<script type="text/javascript" src="/wcsstore7.00.00.383/HalfordsConsumerDirect/javascript/10cms/interact.js"></script>
 
 	
 	<script type="text/javascript">
 		/* <![CDATA[ */
-		function check_search() {
+		function submitCMButtonClickEvent(event) {
+			var action = $(this).attr('action');
+			action = action.substr(action.indexOf("/webapp"), action.length);
+			action = action + "/" + $(this).serialize();
+			cmCreateManualLinkClickTag(action);
+		}
+		
+		function checkSearch() {
+			if (!this.nodeName || this.nodeName.toUpperCase() != "FORM") return;
 			var searchCriteriaSupplied = false;
-			$(".catalogSearchCriteria").each(function() {
-				if (!searchCriteriaSupplied) {
-					var searchCriteriaValue = $(this).attr('value');
-					var defaultValue = $(this).attr('defaultValue');
-					if (searchCriteriaValue.length > 1 && searchCriteriaValue != defaultValue) {
-						searchCriteriaSupplied = true;
-					}
+			var searchCriteriaField = $(this).find(".catalogSearchCriteria").get(0);
+			if (!searchCriteriaSupplied) {
+				var searchCriteriaValue = $(searchCriteriaField).attr('value');
+				var defaultValue = $(searchCriteriaField).attr('defaultValue');
+				if (searchCriteriaValue.length > 1 && searchCriteriaValue != defaultValue) {
+					searchCriteriaSupplied = true;
 				}
-			});
+			}
 			
 			if (!searchCriteriaSupplied) {
 				alert("Please enter a search term in the form field labeled 'SEARCH'");
 				return false;
 			} else {
-				$(".catalogSearchCriteria").each(function() {
-					$(this).attr('value', $(this).attr('value').replace($(this).attr('defaultValue'),""));
-				});
+				$(searchCriteriaField).attr('value', $(searchCriteriaField).attr('value').replace($(searchCriteriaField).attr('defaultValue'),""));
 				
-				var formAction = $('#CatalogSearchForm').attr('action');
+				var formAction = $(this).attr('action');
 				var targetProtocol = (formAction.indexOf('https:') == 0) ? 'https:' : ((formAction.indexOf('http:') == 0) ? 'http:' : window.location.protocol);
 				
 				// only do the workaround if the current protocol is https and the target is http
@@ -88,16 +99,33 @@
 			});
 		};
 
-		$(document).ready(function(){ 
-    		$("ul.nav").superfish({ 
+		$(document).ready(function(){
+			
+			
+				
+					
+					
+					
+				    
+				// remove the http: as we get script errors on ajax submit in IE if we are in an HTTPS session.
+				var url = "http://www.halfords.ie/webapp/wcs/stores/servlet/Suggest?catalogId=15551&langId=-1&storeId=11101";
+				url = url.replace("http:", "");   
+				$(".catalogSearchCriteria").autocomplete(url, {
+						minChars: 2,
+						scroll: false,
+						selectFirst: false,
+						width: "195px"
+					}
+				);
+			
+			
+			$("#CatalogSearchForm, #CatalogSearchFormFooter").bind("submit", checkSearch);
+			$("#CatalogSearchForm, #CatalogSearchFormFooter").bind("submit", submitCMButtonClickEvent);
+			
+	 		$("ul.nav").superfish({ 
         		animation : { opacity:"show"} 
     		}).find('.meganav').bgIframe({opacity:true});
 
-			// this handles clearing the search field(s) when it gets focus
-			$(".catalogSearchCriteria").each(function() {
-				$(this).prompt("Keyword(s), Product code");
-			});
-			
 			$('#recentlyviewedcol').recentlyViewedProducts({
 				listLength:6
 			});
@@ -107,18 +135,18 @@
 				newsletterDivs
 					.add("span.newsletter")
 					.newsletter({
-						icon:'/wcsstore7.00.00.188/HalfordsConsumerDirect/images/header/H20Envelope.gif',
+						icon:'/wcsstore7.00.00.383/HalfordsConsumerDirect/images/header/H20Envelope.gif',
 						storeId:11101,
 						prompt:'enter email address',
 						title:'Email Sign Up',
-						signup:'/wcsstore7.00.00.188/HalfordsConsumerDirect/images/newssignup.gif',
+						signup:'/wcsstore7.00.00.383/HalfordsConsumerDirect/images/newssignup.gif',
 						message:'Sign up now for special offers, promotions and latest news.'
 					}
 				);
 			}
    		});
 
-   		var jspStoreImgDir = '/wcsstore7.00.00.188/HalfordsConsumerDirect/'; 
+   		var jspStoreImgDir = '/wcsstore7.00.00.383/HalfordsConsumerDirect/'; 
 
    		/* ]]> */
 	</script>
@@ -130,11 +158,15 @@
 			$(document).ready(function() {
 				$('#stockchecker').hide();
 			});
+			
+			// HAL/01/001025 added flag to indicate whether it has been clicked
+			var stockCheckerOpened = false; // flag to indicated whether the stock checker has been clicked
 			   
 			function openStockChecker(pUrl) {
+				stockCheckerOpened = true;
 				$('#stockchecker').show();
 				$('#stockcheckeriframe').attr('src', pUrl);
-				$('#stockchecker').jqm({modal: true, overlay: 10, toTop: true});
+				$('#stockchecker').jqm({modal: true, overlay: 60, toTop: true});
 		  		$('#stockchecker').jqmShow();
 			}
 			
@@ -145,7 +177,8 @@
 			}
 			
 			function closeStockChecker() {
-				$('#stockcheckeriframe').attr("src", "/wcsstore7.00.00.188/HalfordsConsumerDirect/include/Static/stockCheckerTemporaryIframeSrc.html");
+				stockCheckerOpened = false;
+				$('#stockcheckeriframe').attr("src", "/wcsstore7.00.00.383/HalfordsConsumerDirect/include/Static/stockCheckerTemporaryIframeSrc.html");
 			}
 	   		/* ]]> */
 		</script>
@@ -175,9 +208,9 @@
 	
 	
 	
-	<link rel="stylesheet" href="/wcsstore7.00.00.188/HalfordsConsumerDirect/css/print.css" type="text/css" media="print">
+	<link rel="stylesheet" href="/wcsstore7.00.00.383/HalfordsConsumerDirect/css/print.css" type="text/css" media="print">
 	
-	<script type="text/javascript" src="/wcsstore7.00.00.188/HalfordsConsumerDirect/javascript/jQueryUI/ui.accordion.js"></script>
+	<script type="text/javascript" src="/wcsstore7.00.00.383/HalfordsConsumerDirect/javascript/jQueryUI/ui.accordion.js"></script>
 	<script type="text/javascript">
 	/* <![CDATA[ */
 	$(document).ready(function(){
@@ -294,6 +327,15 @@
 
 
 
+	
+
+
+
+
+
+
+
+
 
 
 
@@ -327,10 +369,6 @@
 	
 		
 	
-
-
-
-
 
 
 
@@ -367,14 +405,7 @@
 
 
 
-<script type="text/javascript">
-<!--
-    document.domain = "halfords.ie";
-//-->
-</script>
-
-
-<script type="text/javascript" src="/wcsstore7.00.00.188/HalfordsConsumerDirect/javascript/pages/basket.js"></script>
+<script type="text/javascript" src="/wcsstore7.00.00.383/HalfordsConsumerDirect/javascript/pages/basket.js"></script>
 <script type="text/javascript">
 <!--
 	$(document).ready(function() {
@@ -384,13 +415,25 @@
 	    _setAddToBasketActionPath("/webapp/wcs/stores/servlet/BasketActions");
 		
 	    
+	    // HAL/01/001025 stock checker looses focus if selected during page load, so show it if it has been clicked
+	    if ( stockCheckerOpened ) { // see H20HeadIncludes.jspf
+			$('#stockchecker').show();
+	    }
 	});
 //-->
+
+//CR 757 - DC Storm Container Tags
+//SITE HOSTED TRACKING TAG
+
+	    
 </script>
+
+
+	    
 
 <div id="header">
 	
-	<a href="http://www.halfords.ie/"><img id="logo" alt="Halfords Ireland for Bikes, Car Maintenance, Sat Nav, In-Car Tech and More" src="/wcsstore7.00.00.188/Halfords_IE/images/h20/logo.gif" border="0"></a>
+	<a href="http://www.halfords.ie/"><img id="logo" alt="Halfords Ireland for Bikes, Car Maintenance, Sat Nav, In-Car Tech and More" src="/wcsstore7.00.00.383/Halfords_IE/images/h20/logo.gif" border="0"></a>
 	<div id="secondary-nav">
 		<ul>
 			
@@ -411,7 +454,7 @@
 			
 				
 			    <li>
-					<a href="#" class="stockcheckertrigger" title="Find stock near you" onclick="openStockChecker('/webapp/wcs/stores/servlet/StockCheckerRequest?storeId=11101&amp;catalogId=15551&amp;langId=-1');return false;">Stock Checker</a>
+					<a href="#" class="stockcheckertrigger" title="Find stock near you" onclick="openStockChecker('/webapp/wcs/stores/servlet/StockCheckerRequestCmd?storeId=11101&amp;catalogId=15551&amp;langId=-1&amp;sc_quantity=1');return false;">Stock Checker</a>
 		    	</li>
 		    	
 			
@@ -487,6 +530,15 @@
 
 
 
+	
+
+
+
+
+
+
+
+
 
 
 
@@ -525,10 +577,6 @@
 
 	
 	
-
-
-
-
 
 
 
@@ -542,25 +590,12 @@
 
 	
 
-	<div class="clear"></div>
-								
 	
 		
-			
-				
-				
-				
-				
-				
-				
+		
 			
 			<span id="mini-basket-icon-details">
-				
-					
-						<span id="mini-basket-icon" class="emptyBsk bskIcon">Empty Basket</span>
-					
-					
-				
+				<span id="mini-basket-icon" class="emptyBsk bskIcon">Empty Basket</span>
 			</span>
 			<h2><a href="/webapp/wcs/stores/servlet/OrderCalculate?URL=OrderItemDisplay&amp;langId=-1&amp;storeId=11101&amp;catalogId=15551&amp;updatePrices=1&amp;calculationUsageId=-1&amp;orderId=." title="View the contents of your shopping basket">My Shopping Basket</a></h2>
 			<div class="mini-basket-contents">
@@ -570,7 +605,6 @@
 					<span id="mini-basket-contents-items-price" class="total">€0.00</span>
 				</span>
 			</div>
-		
 		
 	
 
@@ -609,17 +643,17 @@
 					</ul>
 				</span>
 			</div>
+		</div>
 			
-			
-			<div class="bskActions">
-				<a href="/webapp/wcs/stores/servlet/OrderCalculate?URL=OrderItemDisplay&amp;langId=-1&amp;storeId=11101&amp;catalogId=15551&amp;updatePrices=1&amp;calculationUsageId=-1&amp;orderId=." title="View the contents of your shopping basket">
-					<img alt="View Basket" src="/wcsstore7.00.00.188/HalfordsConsumerDirect/images/h20/view_basket_button.gif">
-				</a>
-				<a href="/webapp/wcs/stores/servlet/OrderCalculate?URL=OrderItemDisplay&amp;langId=-1&amp;storeId=11101&amp;catalogId=15551&amp;updatePrices=1&amp;calculationUsageId=-1&amp;orderId=." title="Checkout">
-					<img alt="Checkout" src="/wcsstore7.00.00.188/HalfordsConsumerDirect/images/h20/checkout_button.gif">
-				</a>
-				<a href="#" class="close">Continue Shopping</a>
-			</div>
+		
+		<div class="bskActions">
+			<a class="button secondary" href="/webapp/wcs/stores/servlet/OrderCalculate?URL=OrderItemDisplay&amp;langId=-1&amp;storeId=11101&amp;catalogId=15551&amp;updatePrices=1&amp;calculationUsageId=-1&amp;orderId=." title="View the contents of your shopping basket">
+				View Basket
+			</a>
+			<a class="button" href="/webapp/wcs/stores/servlet/OrderCalculate?URL=OrderItemDisplay&amp;langId=-1&amp;storeId=11101&amp;catalogId=15551&amp;updatePrices=1&amp;calculationUsageId=-1&amp;orderId=.">
+				Checkout
+			</a>
+			<a href="#" class="close">Continue Shopping</a>
 		</div>
 		<div class="bskEdge bskBase">&nbsp;</div>
 	</div>
@@ -634,14 +668,36 @@
 		<div id="headersearch">
 			<div id="input-panel">
 				
-				<form name="CatalogSearchForm" action="http://www.halfords.ie/webapp/wcs/stores/servlet/SearchCmd" method="get" id="CatalogSearchForm" onsubmit="return(check_search())">
-					<input class="catalogSearchCriteria" title="Start your search" maxlength="254" type="text" id="srch" value="" name="srch">
-					<input type="image" src="/wcsstore7.00.00.188/HalfordsConsumerDirect/images/h20/search-butt.gif" value="go" id="go" title="Start your search">
+				
+					
+				
+				<form name="CatalogSearchForm" action="http://www.halfords.ie/webapp/wcs/stores/servlet/SearchCmd" method="get" id="CatalogSearchForm">
+					<label for="srch">Search</label>
+					<input class="catalogSearchCriteria ac_input" maxlength="254" type="text" id="srch" value="" name="srch">
+					<span class="searchSeparator">in</span>
+					<label for="department">Department </label>
+					<select id="department" name="department">
+<option value="all">All Departments</option>
+<option value="212354|Sat Nav &amp; GPS">Sat Nav &amp; GPS</option>
+<option value="212362|In-Car Tech">In-Car Tech</option>
+<option value="212512|Bikes">Bikes</option>
+<option value="212399|Baby &amp; Child">Baby &amp; Child</option>
+<option value="212395|Camping">Camping</option>
+<option value="212592|Travel &amp; Touring">Travel &amp; Touring</option>
+<option value="212563|Car Maintenance">Car Maintenance</option>
+<option value="212421|Car Accessories">Car Accessories</option>
+<option value="212640|Mobility Aids">Mobility Aids</option>
+<option value="212573|Toys">Toys</option>
+<option value="advice|Advice Centre">Advice Centre</option>
+</select>
+
+					<input type="submit" class="button" value="Search" id="go">
 					<input type="hidden" name="action" value="search">
 					<input type="hidden" name="storeId" value="11101" id="WC_SidebarDisplay_FormInput_storeId_In_CatalogSearchForm_1">
 					<input type="hidden" name="catalogId" value="15551" id="WC_SidebarDisplay_FormInput_catalogId_In_CatalogSearchForm_1">
 					<input type="hidden" name="langId" value="-1" id="WC_SidebarDisplay_FormInput_langId_In_CatalogSearchForm_1">
 				</form>
+				
 			</div>
 		</div>
 	</div>
@@ -651,9 +707,9 @@
 		<div class="jqmWindow" id="stockchecker">
 			<div class="jqmTitle">
 				<h2>Stock Checker</h2>
-				<a class="jqmClose" href="#" onclick="closeStockChecker();return false;" title="Close Stock Checker"><em>Close</em></a>
+				<a class="jqmClose" href="#" onclick="closeStockChecker();return false;" title="Close Stock Checker">Close</a>
 			</div>
-			<iframe id="stockcheckeriframe" name="stockcheckeriframe" src="/wcsstore7.00.00.188/HalfordsConsumerDirect/include/Static/stockCheckerTemporaryIframeSrc.html" width="" height="" scrolling="auto" frameborder="0"></iframe>
+			<iframe id="stockcheckeriframe" name="stockcheckeriframe" src="/wcsstore7.00.00.383/HalfordsConsumerDirect/include/Static/stockCheckerTemporaryIframeSrc.html" frameborder="0"></iframe>
 		</div>
 		<div class="clear"></div>
 	
@@ -662,7 +718,7 @@
 </div><!--close header -->
 <div class="clear"></div>		
 
-<!-- div id categories: BEGIN -->
+<!-- div id categories BEGIN -->
 <div id="categories">
 
 <ul class="nav">
@@ -718,7 +774,7 @@
 <h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212402_langId_-1" title="Hands-Free Car Kits">Hands-Free Car Kits</a></h4>
 <ul>
 <li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212409_langId_-1">Bluetooth Hands-Free Car Kits</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212475_langId_-1">Hands-Free Visor Mounts</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212475_langId_-1">Bluetooth Visor Car Kits</a></li>
 <li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212486_langId_-1">Bluetooth Headsets</a></li>
 <li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_225701_langId_-1">Bluetooth Hands-Free Head Units</a></li>
 </ul>
@@ -843,6 +899,7 @@
 </ul>
 <h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_244653_langId_-1" title="Travel Cots">Travel Cots</a></h4>
 <h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_244654_langId_-1" title="Nursery &amp; Accessories">Nursery &amp; Accessories</a></h4>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_257488_langId_-1" title="Ready Beds">Ready Beds</a></h4>
 </div>
 <div class="navitems last">
 <h3>Help &amp; Advice</h3><ul>
@@ -913,6 +970,47 @@
 <div class="itemswrap">
 <div class="navitems">
 <h3>Categories</h3>
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212428_langId_-1" title="Breakdown &amp; Emergency">Breakdown &amp; Emergency</a></h4>
+<ul>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_257395_langId_-1">Snow Socks</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212641_langId_-1">Snow Chains </a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_255755_langId_-1">Ice Grips for Shoes</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_255759_langId_-1">Snow Shovels</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212497_langId_-1">Car Breakdown Kits</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212526_langId_-1">Emergency Warning Triangles</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212501_langId_-1">Car First Aid Kits</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212390_langId_-1">Car Tow Ropes</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212454_langId_-1">Petrol Cans</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212543_langId_-1">Car Jump Leads &amp; Booster Cables</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212481_langId_-1">Car Tyre Inflators &amp; Gauges</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212379_langId_-1">Car Fire Extinguishers</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212634_langId_-1">Car Headlamp Converters</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212535_langId_-1">Car Spare Bulb Kits</a></li>
+</ul>
+</div>
+<div class="navitems extra">
+<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212621_langId_-1" title="Travel Accessories">Travel Accessories</a></h4>
+<ul>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212609_langId_-1">Torches &amp; Lanterns</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212471_langId_-1">Domestic Batteries</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212374_langId_-1">Travel Equipment</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_244655_langId_-1">Child Travel Accessories</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_238506_langId_-1">Driving Gloves</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212546_langId_-1">Road Maps &amp; Atlases</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212404_langId_-1">Car Security</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212434_langId_-1">Travel Rugs</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212490_langId_-1">Coolboxes</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212461_langId_-1">Car Seat Cushions</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212356_langId_-1">Car Mirrors</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212607_langId_-1">Sunshades</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212373_langId_-1">Sunglasses</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212525_langId_-1">Car Spare Bulb Kits</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212541_langId_-1">Pet Travel</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212446_langId_-1">Car Covers &amp; Tarpaulins</a></li>
+<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212432_langId_-1">Learning To Drive</a></li>
+</ul>
+</div>
+<div class="navitems extra">
 <h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212618_langId_-1" title="Roof Bars &amp; Boxes">Roof Bars &amp; Boxes</a></h4>
 <ul>
 <li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212453_langId_-1">Roof Bars &amp; Fittings</a></li>
@@ -924,45 +1022,7 @@
 <li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212363_langId_-1">Trailers</a></li>
 <li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212555_langId_-1">Trailer Accessories</a></li>
 </ul>
-<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212428_langId_-1" title="Breakdown &amp; Emergency">Breakdown &amp; Emergency</a></h4>
-<ul>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212454_langId_-1">Petrol Cans</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212543_langId_-1">Car Jump Leads &amp; Booster Cables</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212497_langId_-1">Car Breakdown Kits</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212481_langId_-1">Car Tyre Inflators &amp; Gauges</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212390_langId_-1">Car Tow Ropes</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212501_langId_-1">Car First Aid Kits</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212379_langId_-1">Car Fire Extinguishers</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212526_langId_-1">Emergency Warning Triangles</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212634_langId_-1">Car Headlamp Converters</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212535_langId_-1">Car Spare Bulb Kits</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212641_langId_-1">Snow Chains</a></li>
-</ul>
-</div>
-<div class="navitems extra">
-<h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212621_langId_-1" title="Travel Accessories">Travel Accessories</a></h4>
-<ul>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212490_langId_-1">Coolboxes</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212461_langId_-1">Car Seat Cushions</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212356_langId_-1">Car Mirrors</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212607_langId_-1">Sunshades</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_244655_langId_-1">Child Travel Accessories</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212373_langId_-1">Sunglasses</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212434_langId_-1">Travel Rugs</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212374_langId_-1">Travel Equipment</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212471_langId_-1">Domestic Batteries</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212609_langId_-1">Torches &amp; Lanterns</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212525_langId_-1">Car Spare Bulb Kits</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212546_langId_-1">Road Maps &amp; Atlases</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212541_langId_-1">Pet Travel</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212404_langId_-1">Car Security</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212446_langId_-1">Car Covers &amp; Tarpaulins</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212432_langId_-1">Learning To Drive</a></li>
-<li><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_238506_langId_-1">Driving Gloves</a></li>
-</ul>
 <h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212582_langId_-1" title="Commercial Vehicle Roof Bars">Commercial Vehicle Roof Bars</a></h4>
-</div>
-<div class="navitems extra">
 <h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212438_langId_-1" title="Commercial Vehicle Essentials">Commercial Vehicle Essentials</a></h4>
 <h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212597_langId_-1" title="Bike Racks &amp; Cycle Carriers">Bike Racks &amp; Cycle Carriers</a></h4>
 <h4><a href="http://www.halfords.ie/webapp/wcs/stores/servlet/categorydisplay_storeId_11101_catalogId_15551_categoryId_212642_langId_-1" title="Cycle Carrier Accessories">Cycle Carrier Accessories</a></h4>
@@ -1281,7 +1341,7 @@
 	                	<div class="clear"></div>
 		                <form name="printFrm" id="printFrm" method="get" action="">
 		                	
-		                	<input type="image" src="/wcsstore7.00.00.188/HalfordsConsumerDirect/images/button_print2.gif" alt="Print" name="print" id="btnPrint" value="Print" style="visibility:hidden;display:none">
+		                	<input type="image" src="/wcsstore7.00.00.383/HalfordsConsumerDirect/images/button_print2.gif" alt="Print" name="print" id="btnPrint" value="Print" style="visibility:hidden;display:none">
 		                </form>
 	                	<div class="clear"></div>
 					</div>
@@ -1369,6 +1429,15 @@
 
 
 
+	
+
+
+
+
+
+
+
+
 
 
 
@@ -1402,12 +1471,6 @@
 	
 		
 	
-
-
-
-	
-	
-
 
 
 
@@ -1472,24 +1535,45 @@
 		
 		<div id="footersearch">
 			<div id="sitesearch">
-				<form name="CatalogSearchFormFooter" action="http://www.halfords.ie/webapp/wcs/stores/servlet/SearchCmd" method="get" id="CatalogSearchFormFooter" onsubmit="return(check_search())">
-					<label for="srch">Search</label>
+				
+					
+				
+				<form name="CatalogSearchFormFooter" action="http://www.halfords.ie/webapp/wcs/stores/servlet/SearchCmd" method="get" id="CatalogSearchFormFooter">
 					<div class="searchFieldPanel">
-						<input class="catalogSearchCriteria" title="Start your search" maxlength="254" type="text" id="srch" value="" name="srch">
-						<input type="image" src="/wcsstore7.00.00.188/HalfordsConsumerDirect/images/h20/search-butt.gif" value="go" id="go" title="Start your search">
+						<label for="srch">Search</label>
+						<input class="catalogSearchCriteria" maxlength="254" type="text" id="srchFoot" value="" name="srch">
+						<span class="searchSeparator">in</span>
+						<label for="departmentFoot">Department </label>
+						<select id="departmentFoot" name="department">
+<option value="all">All Departments</option>
+<option value="212354|Sat Nav &amp; GPS">Sat Nav &amp; GPS</option>
+<option value="212362|In-Car Tech">In-Car Tech</option>
+<option value="212512|Bikes">Bikes</option>
+<option value="212399|Baby &amp; Child">Baby &amp; Child</option>
+<option value="212395|Camping">Camping</option>
+<option value="212592|Travel &amp; Touring">Travel &amp; Touring</option>
+<option value="212563|Car Maintenance">Car Maintenance</option>
+<option value="212421|Car Accessories">Car Accessories</option>
+<option value="212640|Mobility Aids">Mobility Aids</option>
+<option value="212573|Toys">Toys</option>
+<option value="advice|Advice Centre">Advice Centre</option>
+</select>
+
+						<input type="submit" class="button" value="Search" id="go">
 					</div>
 					<input type="hidden" name="action" value="search">
 					<input type="hidden" name="storeId" value="11101" id="WC_SidebarDisplay_FormInput_storeId_In_CatalogSearchForm_1">
 					<input type="hidden" name="catalogId" value="15551" id="WC_SidebarDisplay_FormInput_catalogId_In_CatalogSearchForm_1">
 					<input type="hidden" name="langId" value="-1" id="WC_SidebarDisplay_FormInput_langId_In_CatalogSearchForm_1">
 				</form>
+				
 			</div>
 			<div id="storesearch">
 				<form name="StoreLocatorSearchForm" id="StoreLocatorSearchForm" action="http://www.halfords.ie/webapp/wcs/stores/servlet/HalfordsStoreLocatorView?langId=-1&amp;storeId=11101&amp;catalogId=15551" method="post">
 					<label for="storelocatorcriteria">Find your nearest store</label>
 					<div class="searchFieldPanel">
 						<input type="text" name="quicksearch" id="storelocatorcriteria" title="Enter your Town or Postcode here">
-						<input type="image" src="/wcsstore7.00.00.188/HalfordsConsumerDirect/images/h20/butt-find.gif" value="FIND" title="Enter your town or postcode here" onclick="storeLocatorFormSubmit(); return false;">
+						<input type="submit" class="button" value="Find" onclick="storeLocatorFormSubmit(); return false;">
 					</div>
 				</form>
 			</div>
@@ -1561,6 +1645,15 @@
 
 
 
+	
+
+
+
+
+
+
+
+
 
 
 
@@ -1630,6 +1723,8 @@
 
 
 
+	
+
 
 
 
@@ -1688,36 +1783,6 @@
             
 
             
-            
-                
-                    
-                
-            
-                
-                    
-                
-            
-                
-                    
-                
-            
-                
-                    
-                
-            
-                
-                    
-                
-                    
-                
-            
-                
-                    
-                
-            
-                
-                    
-                
             
                 
                     
@@ -1863,12 +1928,12 @@
 <li><a href="/webapp/wcs/stores/servlet/product_storeId_11101_catalogId_15554_productId_722617_langId_-1_categoryId_211015">Contact Us</a></li>
 <li><a href="/webapp/wcs/stores/servlet/CustomerServicesHomeView?langId=-1&amp;storeId=11101&amp;catalogId=15551">Fitting and Services</a></li>
 <li><a href="/webapp/wcs/stores/servlet/product_storeId_11101_catalogId_15554_productId_722615_langId_-1_categoryId_211014">Halfords Trade Card</a></li>
-<li><a href=" /webapp/wcs/stores/servlet/product_storeId_11101_catalogId_15554_productId_722316_langId_-1_categoryId_211015">Cycle To Work</a></li>
+<li><a href="/webapp/wcs/stores/servlet/ACArticleDisplay?storeId=11101&amp;langId=-1&amp;articleId=722316&amp;categoryId=246199">Cycle To Work</a></li>
 <li><a href="/webapp/wcs/stores/servlet/product_storeId_11101_catalogId_15554_productId_722619_langId_-1_categoryId_211014">Gift Vouchers</a></li>
 <li><a class="external" target="_blank" title="Opens in new window" href="https://wbiprod.storedvalue.com/WBI/lookupservlet?language=en">Check Gift Card Balance</a></li>
+<li><a href="/webapp/wcs/stores/servlet/StorePagesTopCategoriesView?storeId=11101&amp;catalogId=17754&amp;langId=-1&#10;">Your Local Halfords Store</a></li>
 </ul>
 </div>
-
 		                        	
 		                        
 		                                    
@@ -1975,6 +2040,15 @@
 
 
 
+	
+
+
+
+
+
+
+
+
 
 
 
@@ -2105,10 +2179,6 @@
             
 
             
-            
-                
-                    
-                
             
                 
                     
@@ -2391,6 +2461,15 @@
 
 
 
+	
+
+
+
+
+
+
+
+
 
 
 
@@ -2522,6 +2601,24 @@
 
             
             
+                
+                    
+                
+            
+                
+                    
+                
+            
+                
+                    
+                
+            
+                
+                    
+                
+            
+                
+                    
                 
                     
                 
@@ -2791,6 +2888,15 @@
 
 
 
+	
+
+
+
+
+
+
+
+
 
 
 
@@ -2827,41 +2933,40 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -2921,10 +3026,6 @@
             
 
             
-            
-                
-                    
-                
             
                 
                     
@@ -3143,7 +3244,7 @@
 		<div id="footer-bottom">
 			
 			<div id="footer-paymentmethods">
-				<img src="/wcsstore7.00.00.188/Halfords_IE/images/card/footer-logo.gif" alt="Pay using Credit/Debit card">
+				<img src="/wcsstore7.00.00.383/Halfords_IE/images/card/footer-logo.gif" alt="Pay using Credit/Debit card">
 				
 			</div>
 			
@@ -3156,7 +3257,7 @@
 				//-->
 				<a href="http://www.instantssl.com" id="comodoTL">SSL</a>
 				<script type="text/javascript">
-					TrustLogo("/wcsstore7.00.00.188/HalfordsConsumerDirect/images/h20/tl_transp.gif", "SC4", "none");
+					TrustLogo("/wcsstore7.00.00.383/HalfordsConsumerDirect/images/h20/tl_transp.gif", "SC4", "none");
 				</script>			
 				
 				
@@ -3181,7 +3282,7 @@
 
 
 
-	<script type="text/javascript" src="/wcsstore7.00.00.188/HalfordsConsumerDirect/javascript/edigital/ecos_surveycode_jsonly.js"></script>
+	<script type="text/javascript" src="/wcsstore7.00.00.383/HalfordsConsumerDirect/javascript/edigital/ecos_surveycode_jsonly.js"></script>
 
 
 
@@ -3200,8 +3301,6 @@
 
 	
 
-
-
 <script language="JavaScript1.1" type="text/JavaScript" src="/wcsstore/coremetrics/halfords/v40/eluminate.js"></script>
 <script language="JavaScript1.1" type="text/JavaScript" src="/wcsstore/coremetrics/halfords/cmdatatagutils.js"></script><script language="javascript1.1" src="https://data.coremetrics.com/at/rules_90208059.js"></script>
 <script language="JavaScript1.1" type="text/JavaScript">
@@ -3211,9 +3310,9 @@
 //-->
 </script><script language="javascript1.1" src="https://data.coremetrics.com/at/rules_90210191.js"></script><script language="JavaScript1.1" type="text/JavaScript">
 <!--
-cmCreatePageviewTag("Advice: Privacy Policy", null, null, null, "11101");
+cmCreatePageviewTag("AC Cat: Policies & Regulations (211012)", "AC", null, null, "11101");
 //-->
-</script>
+</script> 
 
 
 
