@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reprintedarticles.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427212944id_/http%3A//reprintedarticles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reprintedarticles.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129004706id_/http%3A//reprintedarticles.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
