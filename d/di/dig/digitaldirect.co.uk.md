@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the digitaldirect.co.uk privacy policy that was archived on 2011-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110117093239id_/http%3A//www.digitaldirect.co.uk/guide/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaldirect.co.uk privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128081147id_/http%3A//www.digitaldirect.co.uk/guide/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Digital Direct
 
-[ ](https://web.archive.org/vat-held-vat-increase-held-off-no-vat-rise-beat-the-vat)
+[ ](https://web.archive.org/autumn-sale-deals-sales-special-offers-deal-offer-bargain)
 
 Digital Direct take your privacy rights as a customer seriously. This policy outlines the data we collect from our visitors and how we use it.
 
@@ -45,5 +45,3 @@ In accordance with the Privacy & Electronic Communications Act passed into law i
 Digital Direct conform with the requirements of the Data Protection Act, 1998. 
 
 Should you have any queries with regard our privacy policy then please contact us at privacy@digitaldirect.co.uk
-
-[](http://www.addthis.com/bookmark.php)
