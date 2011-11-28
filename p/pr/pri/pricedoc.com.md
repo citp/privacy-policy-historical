@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricedoc.com privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108154957id_/http%3A//www.pricedoc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricedoc.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128081256id_/http%3A//www.pricedoc.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | PriceDoc - Better Price + Better Healthcare.
 
@@ -51,7 +51,9 @@ PriceDoc, Inc. does use third-party analytic reporting that do utilize cookies. 
 
 **Personal Information Users**
 
-Visitors to our website can register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number, account number and other relevant information. If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
+Visitors to our web site can register to purchase services. When our users register, we will request some personal information such as name, address, email, telephone number, account number and other relevant information. PriceDoc, Inc collects information from visitors, users, and consumers who access various parts of our web site. Our primary goal in collecting personal information is to provide our users with a highly customized online experience. Among other things, we use visitor contact information to send provider coupons, contact prior visitors to inform, survey, or review their coupon redemption status or appointment with a provider, and to send service and promotional emails. Promotional emails will be sent from PriceDoc, Inc.
+
+If you are purchasing a service, we will request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting.
 
 We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
 
