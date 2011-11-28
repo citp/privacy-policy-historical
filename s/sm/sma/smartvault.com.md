@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartvault.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514022028id_/http%3A//help.smartvault.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartvault.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129002236id_/http%3A//help.smartvault.com/docs/privacy) for the most accurate reproduction.*
 
 # SmartVault Help - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Privacy Policy
 
-SmartVault ("we" or "us") values its visitors' privacy. This privacy policy is effective May 19, 2008; it summarizes what information we might collect from a registered user or other visitor ("you"), and what we will and will not do with it.
+SmartVault ("we" or "us") values its users' privacy. This privacy policy is effective June 2, 2011; it summarizes what information we might collect from a registered user or other visitor ("you"), and what we will and will not do with it.
 
 Please note that this privacy policy does not govern the collection and use of information by companies that SmartVault does not control, nor by individuals not employed or managed by SmartVault. If you visit a Web site that we mention or link to, be sure to review its privacy policy before providing the site with information.
 
@@ -25,7 +25,7 @@ It is always up to you whether to disclose personally identifiable information t
 
 If you do provide personally identifiable information to us, either directly or through a reseller or other business partner, we will: 
 
-  * not sell or rent it to a third party without your permission — although unless you opt out (see below), we may use your contact information to provide you with information we believe you need to know or may find useful, such as (for example) news about our services and products and modifications to the [ Terms of Service](http://help.smartvault.com/docs/tos); 
+  * not sell or rent it to a third party without your permission — although unless you opt out (see below), we may use your contact information to provide you with information we believe you need to know or may find useful, such as (for example) news about our services and products and modifications to the [ Terms of Service](https://web.archive.org/help/docs/tos); 
   * take commercially reasonable precautions to protect the information from loss, misuse and unauthorized access, disclosure, alteration and destruction; 
   * not use or disclose the information except: 
     * as necessary to provide services or products you have ordered, such as (for example) by providing it to a carrier to deliver products you have ordered;
@@ -33,14 +33,14 @@ If you do provide personally identifiable information to us, either directly or 
     * in the aggregate with other information in such a way so that your identity cannot reasonably be determined (for example, statistical compilations); 
     * as required by law, for example, in response to a subpoena or search warrant; 
     * to outside auditors who have agreed to keep the information confidential; 
-    * as necessary to enforce the [ Terms of Service](http://help.smartvault.com/docs/tos); 
+    * as necessary to enforce the [ Terms of Service](https://web.archive.org/help/docs/tos); 
     * as necessary to protect the rights, safety, or property of SmartVault, its users, or others; this may include (for example) exchanging information with other organizations for fraud protection and/or risk reduction. 
 
 
 
 ###  Other information we collect
 
-We may collect other information that cannot be readily used to identify you, such as (for example) the domain name and IP address of your computer. We may use this information, individually or in the aggregate, for technical administration of our Web site(s); research and development; customer- and account administration; and to help us focus our marketing efforts more precisely. 
+We may collect other information that cannot be readily used to identify you, such as the domain name and IP address of your computer. We may use this information, individually or in the aggregate, for technical administration of our Web site(s); research and development; customer- and account administration; and to help us focus our marketing efforts more precisely. 
 
 ###  Cookies
 
@@ -56,7 +56,7 @@ To help protect your privacy, be sure:
 
   * not to share your user ID or password with anyone else; 
   * to log off the SmartVault Web site when you are finished; 
-  * to take customary precautions to guard against "malware" (viruses, Trojan horses, bots, etc.), for example by installing and updating suitable anti-virus software. 
+  * to take customary precautions to guard against "malware" (viruses, Trojan horses, bots, etc.), by installing and updating commercially available anti-virus software. 
 
 
 
