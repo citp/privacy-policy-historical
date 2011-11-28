@@ -1,57 +1,56 @@
-> *The following text is extracted and transformed from the ezthemes.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205090428id_/http%3A//www.ezthemes.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezthemes.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128010830id_/http%3A//ezthemes.com/privacy.php) for the most accurate reproduction.*
 
-# EZthemes - Privacy Policy
+# EZthemes: Desktop Themes and more.... Privacy Page.
 
-## Privacy Statement for EZthemes
+ Translate EZthemes.com
 
-We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: EZthemes. 
+ Windows 8 News
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. We use cookies to save your password so you don't have to re-enter it each time you visit our site. 
+ Categories
 
-NOTE ON COOKIES:   
-A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. 
+ Our Friends
 
-Registration: when you register as a member, EZthemes uses a cookie to store a unique, random user ID. We use this ID to identify you as a member without you having to log on each time. 
+|  |  | 
 
-Ads: EZtheme's advertising partners may deliver a one-time cookie to better track ad impressions and click rates. 
+ EZthemes Privacy Page
 
-Tracking: EZtheme's statistical tracking software delivers cookies to enable us to determine how many people visit the site. 
-
-You can refuse cookies by turning them off in your browser. You do not need to have cookies turned on to use the EZthemes site. 
-
-Our site's registration form requires users to give us contact information (like their name and email address). We use visitor contact information from the registration form to send the user promotional material from some of our partners. The visitor's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
-This site contains links to other sites. EZthemes is not responsible for the privacy practices or the content of such Web sites. 
-
-**Some of our 'site partners' and 'ad partners' include:**
-
-PostMasterDirect, an opt-in mailing list maintenance company - Your name and/or email are NEVER passed on to this company unless you SPECIFICALLY request to be added though the DESIGNATED PostMasterDirect signup page 
-
-**Your name and/or email are NEVER passed on to these companies unless you SPECIFICALLY request to be added though the DESIGNATED signup pages**
-
-From time to time some of our advertising partners may request your email address or other personal information. Please refer to their privacy policy for their specific use of this information). 
-
-## Security
-
-Mailing lists are maintained by our mailing list partner, Dundee.net. We rely on their security to maintain the integrity of a mailing lists. 
-
-## Choice/Opt-Out
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
-
-  1. You can Email our List manager per instructions with each newsletter. 
-  2. You can notify us by email giving your full subscription information as provided upon subscription. 
-
-
-
-## Correct/Update
-
-This site gives users the following options for changing and modifying information previously provided. 
-
-  1. email [support@ezthemes.com](mailto:support@ezthemes.com)
+|   
+---|---  
+  
+> **EZthemes.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: EZthemes.com.**
+> 
+> Please Note: This site contains links to other sites. EZthemes.com is not responsible for the privacy practices or the content of such Web sites. 
+> 
+>   * Ads: We use cookies to limit the number of popup ads that you or your visitors may see while visiting our site. Some of our advertising partners may also deliver a cookie to better track ad impressions and click rates. We also use cookies to track login information for affiliated members when they are administering their accounts. 
+> 
+> NOTE ON COOKIES:   
+> A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. 
+> 
+> You can refuse cookies by turning them off in your browser. You and your visitors do not need to have cookies turned on to use the EZthemes.com content. However, you will need them turned on when administering your account as we use them to ensure the security of your account. 
+> 
+>   * Mailing Lists: When you join this site you will be added to our mailing list - If you join as an affiliate offering our content to your visitors we may offer your visitors the opportunity to join various mailing lists based on the content they are viewing. 
+> 
+> The following section applies to all mailing lists associated with EZthemes.com: 
+> 
+>     * Personal information is never passed or sold to third parties for marketing or solicitation purposes. 
+>     * We may elect to use a third party to help us with the distribution of our emails/newsletters. However, this will be with the understanding that any third party keeps any information secure and uses it solely for the purpose of distributing our newsletter containing our content. Any such third party would be bound by our privacy policy with regard to the use of our membership list. 
+>     * From time to time you may receive an email from us containing an offer will feel you may be interested in from one of our advertising partners - Although this may not be in the form of one of our newsletters the mailing will be distributed by us without access to our subscriber list being passed to our advertising partners. 
+>   * Personal Information: Your name, email address and any other information you may supply to us, and that of your visitors that they may share through our various signup processes, are never passed on to third parties unless you or your visitors specifically request to be added to third party lists though their designated signup process. 
+> 
+> From time to time some of our advertising partners may prompt you or your visitor to enter your email address or other personal information via an ad on this site. Please refer to their privacy policy for their specific use of this information. 
+> 
+>   * Your IP: From time to time we may need to use your IP address or that of your visitor to help diagnose problems with our server, and to administer our Web site. 
+> 
 
 
+  
+| 
 
-## Contacting the Web Site
+ Love Us?
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact iBoost Technology Inc. 11135 Magnolia Boulevard Suite #110 North Hollywood, CA 91601 Tel:(818) 769-2414 Fax: (818) 769-5265 [privacy@iboost.com](mailto:privacy@iboost.com)
+|   **Like Us?,** |   
+---|---  
+  **Love Us?**  
+  **Google +1 Us!**  
+  
+ Search
