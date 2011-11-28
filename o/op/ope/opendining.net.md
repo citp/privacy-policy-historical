@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opendining.net privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509135515id_/http%3A//www.opendining.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opendining.net privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128104203id_/http%3A//www.opendining.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Open Dining Network
 
