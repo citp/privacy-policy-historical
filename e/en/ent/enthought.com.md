@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the enthought.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519042141id_/http%3A//www.enthought.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enthought.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128212513id_/http%3A//www.enthought.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy :: Enthought, Inc. :: Scientific Computing Solutions
+
+### Credit Card Information
+
+We do not store credit card details nor do we share customer details with any 3rd parties.
+
+  
+
 
 ### Cookies
 
