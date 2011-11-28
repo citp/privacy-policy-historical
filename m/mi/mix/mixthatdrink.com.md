@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixthatdrink.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531023531id_/http%3A//mixthatdrink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixthatdrink.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128232748id_/http%3A//mixthatdrink.com/privacy) for the most accurate reproduction.*
 
 # Privacy : Mix That Drink
 
