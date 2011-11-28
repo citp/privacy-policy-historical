@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doe.gov privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521152122id_/http%3A//www.energy.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doe.gov privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128030420id_/http%3A//www.doe.gov/about-us/web-policies/privacy) for the most accurate reproduction.*
 
-# Department of Energy - Privacy
+# Privacy | Department of Energy
 
 **General Disclaimer**
 
@@ -10,9 +10,11 @@ This system is made available by an agency of the United States Government. Neit
 
 Energy.gov utilizes web measurement technology in order to improve our website and provide a better user experience for our customers. The Office of Management and Budget (OMB) classifies this as a Tier 2 usage, since we are utilizing a multi-session web measurement technology that does not collect any personally identifiable information (PII).  This technology anonymously tracks how visitors interact with energy.gov, including where they came from, what they did on the site, and whether they completed any pre-determined tasks while on the site.
 
-  This technology is provided by Google Analytics and the information collected is used to optimize our website; helping us determine top tasks, improve our user interface and diversify our content offerings to meet the needs of our customers. No personally identifiable information is collected, so the anonymity of the end user is protected.  The measurement data that is collected is only retained for as long as is needed for proper analysis and optimization of the website and is accessible only to employees whose position necessitates it.
+ This technology is provided by Google Analytics and the information collected is used to optimize our website; helping us determine top tasks, improve our user interface and diversify our content offerings to meet the needs of our customers. No personally identifiable information is collected, so the anonymity of the end user is protected.  The measurement data that is collected is only retained for as long as is needed for proper analysis and optimization of the website and is accessible only to employees whose position necessitates it.
 
-  Since disabling this web measurement technology requires modifying individual browser settings it is enabled by default. If you wish to opt-out, you can find step-by-step instructions for changing your settings at <http://www.usa.gov/optout_instructions.shtml>. Google also provides a browser plug-in that will allow you to opt-out of all Google Analytics measurements, which you can find at <http://tools.google.com/dlpage/gaoptout>. Please note that opting-out in no way effects your access to content within energy.gov or how you see the site.
+ Since disabling this web measurement technology requires modifying individual browser settings it is enabled by default. If you wish to opt-out, you can find step-by-step instructions for changing your settings at <http://www.usa.gov/optout_instructions.shtml>. Google also provides a browser plug-in that will allow you to opt-out of all Google Analytics measurements, which you can find at [http://tools.google.com/dlpage/gaoptout](https://web.archive.org/exit?url=http%3A//tools.google.com/dlpage/gaoptout). Please note that opting-out in no way effects your access to content within energy.gov or how you see the site.
+
+Energy.gov also utilizes voluntarily submitted zip code information in order to deliver localized content and services to our customers and connect them with resources in their geographic region. If the user opts not to provide zip code information, they will still be able to access comparable information. The Office of Management and Budget (OMB) classifies this as a Tier 1 usage, since we are utilizing a single-session cookie to provide localized information. No PII is collected or stored during this process, so the anonymity of the end user is protected. Submitted zip codes will not be shared with any third party sources but may be used for analysis and optimization of the website and as such may be accessible to employees whose position necessitates it.
 
 The Department of Energy is committed to expanding the national conversation on energy issues and upholding the open government principles of transparency, participation and collaboration. One of the key ways we seek to accomplish this is through the use of third-party social media websites and applications. We do not collect or request personally identifiable information through these outlets, but may occasionally come into contact with unsolicited PII due to circumstances beyond our control. As a result, we reserve the right to moderate or remove comments that offer personally identifiable information such as address, phone number or social security number in a public manner. No PII will be retained in our system or shared with outside parties.
 
@@ -20,9 +22,9 @@ The Department of Energy is committed to expanding the national conversation on 
 
 This Web site may offer educational content to children under 13. No personally identifiable information is collected from them unless voluntarily submitted as a request for information or services. The information collected is used to respond to user inquiries or to provide services requested by our users.
 
-**Your Rights Under the Privacy Act and Other Privacy Laws**  
+**Your Rights Under the Privacy Act and Other Privacy Laws**
 
-Additional information regarding your rights is available via the FOIA/Privacy Act Reference Materials posted by the Federal Consumer Information Center at [USA.gov](http://www.usa.gov/Topics/Reference_Shelf.shtml#vgn-freedom-of-information-and-privacy-act-vgn).
+Additional information regarding your rights is available via the FOIA/Privacy Act Reference Materials posted by the Federal Consumer Information Center at [USA.gov](http://www.usa.gov/Topics/Reference_Shelf.shtml#vgn-freedom-of-information-and-privacy-act-vgn).
 
 **Comments Sent by E-Mail**
 
@@ -36,12 +38,12 @@ Unauthorized attempts to defeat or circumvent security features, to use the syst
 
 **Notice of Automatic Collection of Information and Persistent Multi-Session Measurement on Website:**
 
-Some websites use the technology called a cookie.   A cookie is a small file that a website transfers to your computer to allow it to remember specific information about your session while you are connected.  There are two types of cookies used on some websites, session cookies and persistent cookies. Session cookies last only as long as your Web browser is open. Once you close your browser, the cookie disappears. 
+Some websites use the technology called a cookie.   A cookie is a small file that a website transfers to your computer to allow it to remember specific information about your session while you are connected.  There are two types of cookies used on some websites, session cookies and persistent cookies. Session cookies last only as long as your Web browser is open. Once you close your browser, the cookie disappears.
 
 Persistent cookies are stored on your computer so the website that placed them there can recognize and remember when you return and keep track of which pages on their website you visit. This type of cookie will remain on your hard drive until it reaches its expiration date or is deleted by you.
 
-The federal government has [guidelines on the use of persistent cookies](http://www.whitehouse.gov/omb/memoranda/m03-22.html#20). The goals of the guidelines are to enable the useful functioning of federal websites while protecting individual privacy.
+The federal government has [guidelines on the use of persistent cookies](http://www.whitehouse.gov/omb/memoranda/m03-22.html#20). The goals of the guidelines are to enable the useful functioning of federal websites while protecting individual privacy.
 
-The Department of Energy may utilize third party services to enhance its distribution of data and information (e.g. videos) through links from the Energy.gov web site. A persistent cookie may be set by such a third party provider when you click on the provider's link in order to access Department of Energy data (e.g. play a video). 
+The Department of Energy may utilize third party services to enhance its distribution of data and information (e.g. videos) through links from the Energy.gov web site. A persistent cookie may be set by such a third party provider when you click on the provider's link in order to access Department of Energy data (e.g. play a video).
 
-If you would like to view a video without the use of persistent cookies, a link to download the video file is typically provided just below the video.  Or, you can remove or block cookies by changing the settings of your browser. To learn more about how to disable cookies in your browser click here: <http://www.us-cert.gov/reading_room/securing_browser/#how_to_secure>.
+If you would like to view a video without the use of persistent cookies, a link to download the video file is typically provided just below the video.  Or, you can remove or block cookies by changing the settings of your browser. To learn more about how to disable cookies in your browser click here: <http://www.us-cert.gov/reading_room/securing_browser/#how_to_secure>.
