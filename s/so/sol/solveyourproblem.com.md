@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the solveyourproblem.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510002401id_/http%3A//www.solveyourproblem.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solveyourproblem.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128023026id_/http%3A//www.solveyourproblem.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - SolveYourProblem.com
+
+Privacy Policy
 
 Thank you for visiting SolveYourProblem.com and for reviewing my Privacy Policy. This policy is on the collection of personal information:
 
