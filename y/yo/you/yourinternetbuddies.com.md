@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourinternetbuddies.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201000619id_/http%3A//yourinternetbuddies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourinternetbuddies.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128225153id_/http%3A//yourinternetbuddies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Your Internet Buddies
 
@@ -70,5 +70,3 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you under the Data Protection Act 1998 (a fee will be payable). If you would like a copy of the information held on you please write to us at our contact address.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please email or write to us as soon as possible. We will promptly correct any information found to be incorrect.
-
-[](http://tellafriend.socialtwist.com/)
