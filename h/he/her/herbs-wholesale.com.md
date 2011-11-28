@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbs-wholesale.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615084209id_/http%3A//herbs-wholesale.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbs-wholesale.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128052604id_/http%3A//www.herbs-wholesale.com/privacy.asp) for the most accurate reproduction.*
 
 # Herbs-WholeSale - Herbal Products Privacy Policy
 
@@ -10,12 +10,12 @@ The privacy practices of this statement apply to our services available under th
 
 The [Herbs-Wholesale.com](http://herbs-wholesale.com/) Privacy Policy discloses our privacy practices and contains detailed information about the following:
 
-  1. [What information of yours does the Herbs-Wholesale.com collect?](http://www.herbs-wholesale.com/privacy.asp#1)
-  2. [What organization is collecting the information?](http://www.herbs-wholesale.com/privacy.asp#2)
-  3. [What are "cookies" and how does Herbs-Wholesale.com use them?](http://www.herbs-wholesale.com/privacy.asp#3)
-  4. [How can you access or edit your information?](http://www.herbs-wholesale.com/privacy.asp#4)
-  5. [What types of security procedures are in place to protect against the loss, misuse or alteration of your information?](http://www.herbs-wholesale.com/privacy.asp#5)
-  6. [Notice](http://www.herbs-wholesale.com/privacy.asp#6)
+  1. [What information of yours does the Herbs-Wholesale.com collect?](https://web.archive.org/privacy.asp#1)
+  2. [What organization is collecting the information?](https://web.archive.org/privacy.asp#2)
+  3. [What are "cookies" and how does Herbs-Wholesale.com use them?](https://web.archive.org/privacy.asp#3)
+  4. [How can you access or edit your information?](https://web.archive.org/privacy.asp#4)
+  5. [What types of security procedures are in place to protect against the loss, misuse or alteration of your information?](https://web.archive.org/privacy.asp#5)
+  6. [Notice](https://web.archive.org/privacy.asp#6)
 
 
 
