@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incansoft.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610122133id_/http%3A//www.incansoft.com/TestSite/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incansoft.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128024509id_/http%3A//www.incansoft.com/TestSite/Privacy_Statement.html) for the most accurate reproduction.*
 
 # Incansoft | Privacy Statement
 
