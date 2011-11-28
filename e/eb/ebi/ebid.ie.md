@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebid.ie privacy policy that was archived on 2011-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110130171559id_/http%3A//www.zwee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebid.ie privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128141156id_/http%3A//www.zwee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | zwee - Cheap Electronics & Gadgets, Deals, Offers and Video Reviews.
 
