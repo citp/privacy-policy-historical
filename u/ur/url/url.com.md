@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the url.com privacy policy that was archived on 2011-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110203145519id_/http%3A//www.url.com/message/private_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the url.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128195217id_/http%3A//search.url.com/message/private_policy) for the most accurate reproduction.*
 
 # url.com: Search with Many
 
@@ -77,6 +77,9 @@ Kikwi may update this policy at any time for any reason.
 ### Questions
 
 If you have questions or suggestions you can contact us at:  
-Kikwi   
-1516 Howard Ave   
-Burlingame CA 94010
+Next Small Things  
+344 Middlefield Road  
+Suite 8088  
+Palo Alto, California 94301  
+USA  
+Email: ContactUs@NextSmallThings.com 
