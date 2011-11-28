@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blognator.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511152602id_/http%3A//blognator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blognator.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128130818id_/http%3A//blognator.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Blognator
+# Privacy Policy | Blognator
 
 Published on November rd, 2010 
 
