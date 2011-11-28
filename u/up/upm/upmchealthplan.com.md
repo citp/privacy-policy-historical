@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the upmchealthplan.com privacy policy that was archived on 2011-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110213003917id_/http%3A//www.upmchealthplan.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upmchealthplan.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128085216id_/http%3A//www.upmchealthplan.com/privacy.html) for the most accurate reproduction.*
 
-# UPMC Health Plan | Health Insurance | Terms & Conditions
+# UPMC Health Plan | Careers
+
+## Privacy Statement & HIPAA Forms
 
 That's right — your personal information is private and confidential. We at UPMC Health Plan want to take this opportunity to remind you that this is the trust that we establish with you. It is a pledge that we take seriously. Whether you are a prospective, current or former member, living or deceased, we respect and safeguard the privacy and confidentiality of the information that we have about you.  
 
@@ -13,8 +15,6 @@ When you fill out your enrollment or renewal application form and sign it — yo
 
   1. verifying the correctness and truthfulness of the information that you have provided to us
   2. acknowledging that UPMC Health Plan can only use the information we collect or receive about you and your family for very well-defined routine purposes:
-
-
     * arranging for the provision of healthcare treatment and services to you and your family members that you are enrolling as dependents on your application.
     * making payment to doctors, hospitals, and other health care professionals for the treatment and services you and your family receive. 
     * and performing certain health care operations that UPMC Health Plan uses to monitor the quality of the healthcare coverage and services that you have purchased for you and your family. These operations include measurement and review of all our data to see how many of our members receive certain services, such as childhood immunizations, mammograms, and other preventive health services. All these measurements are used so that we can assess how well we are doing in providing quality healthcare to all our members.
@@ -50,7 +50,7 @@ Specific inquiries about this statement regarding HIPAA readiness and compliance
 >  112 Washington Place   
 >  Pittsburgh, PA 15219   
 >  Email: [HealthPlanHIPAAOffice@msx.upmc.edu](mailto:HealthplanHIPAAOffice@msx.upmc.edu)  
->  [Click here for general inquires about UPMC Health Plan](https://web.archive.org/web/20110213003917id_/http%3A//www.upmchealthplan.com/contact.html)
+>  [Click here for general inquires about UPMC Health Plan](https://web.archive.org/web/20111128085216id_/http%3A//www.upmchealthplan.com/contact.html)
 
   
 
@@ -63,20 +63,20 @@ Specific inquiries about this statement regarding HIPAA readiness and compliance
 
 ### UPMC Health Plan (Commercial)
 
-  * [Notice of Privacy Practices](https://web.archive.org/web/20110213003917id_/http%3A//www.upmchealthplan.com/pdf/NoticeOfPrivacy.pdf)
-  * [Personal Representative Designation Form](https://web.archive.org/web/20110213003917id_/http%3A//www.upmchealthplan.com/pdf/commercialPRD.pdf)
-  * [Member Authorization to Use/Disclose PHI](https://web.archive.org/web/20110213003917id_/http%3A//www.upmchealthplan.com/pdf/MemberPHIauth.pdf)
+  * [Notice of Privacy Practices](https://web.archive.org/web/20111128085216id_/http%3A//www.upmchealthplan.com/pdf/NoticeOfPrivacy.pdf)
+  * [Personal Representative Designation Form](https://web.archive.org/web/20111128085216id_/http%3A//www.upmchealthplan.com/pdf/commercialPRD.pdf)
+  * [Member Authorization to Use/Disclose PHI](https://web.archive.org/web/20111128085216id_/http%3A//www.upmchealthplan.com/pdf/MemberPHIauth.pdf)
 
 
 
 ### UPMC _for Life_ (Medicare)
 
-  * [Notice of Privacy Practices HMO/PPO Members](https://web.archive.org/web/20110213003917id_/http%3A//www.upmchealthplan.com/pdf/NOPP_HMO_PPO.pdf)
-  * [Notice of Privacy Practices Prescription Drug Plan Only Members](https://web.archive.org/web/20110213003917id_/http%3A//www.upmchealthplan.com/pdf/NOPP_PDP.pdf)
-  * [Notice of Privacy Practices National Complementary Plan Members](https://web.archive.org/web/20110213003917id_/http%3A//www.upmchealthplan.com/pdf/NOPP_NAT_COMP.pdf)
-  * [Notice of Privacy Practices Private Fee-for-Service Members](https://web.archive.org/web/20110213003917id_/http%3A//www.upmchealthplan.com/pdf/MC%20PFFS%20NOPP%2009.pdf)[](https://web.archive.org/web/20110213003917id_/http%3A//www.upmchealthplan.com/pdf/medicareNOP.pdf)
-  * [Notice of Privacy Practices for UPMC _for Life_ Specialty Plan and UPMC _for_ Community Living Members](https://web.archive.org/web/20110213003917id_/http%3A//www.upmchealthplan.com/pdf/SNP_CL_2010_NOPP.pdf)
-  * [Personal Representative Designation Form](https://web.archive.org/web/20110213003917id_/http%3A//www.upmchealthplan.com/pdf/MC%20DesForm.pdf)
-  * [Member Authorization to Use/Disclose PHI](https://web.archive.org/web/20110213003917id_/http%3A//www.upmchealthplan.com/pdf/MemberPHIauth.pdf)
+  * [Notice of Privacy Practices HMO/PPO Members](https://web.archive.org/web/20111128085216id_/http%3A//www.upmchealthplan.com/pdf/NOPP_HMO_PPO.pdf)
+  * [Notice of Privacy Practices Prescription Drug Plan Only Members](https://web.archive.org/web/20111128085216id_/http%3A//www.upmchealthplan.com/pdf/NOPP_PDP.pdf)
+  * [Notice of Privacy Practices National Complementary Plan Members](https://web.archive.org/web/20111128085216id_/http%3A//www.upmchealthplan.com/pdf/NOPP_NAT_COMP.pdf)
+  * [Notice of Privacy Practices Private Fee-for-Service Members](https://web.archive.org/web/20111128085216id_/http%3A//www.upmchealthplan.com/pdf/MC%20PFFS%20NOPP%2009.pdf)[](https://web.archive.org/web/20111128085216id_/http%3A//www.upmchealthplan.com/pdf/medicareNOP.pdf)
+  * [Notice of Privacy Practices for UPMC _for You_ Advantage, UPMC _for Life_ Options, and UPMC _for Life_ Specialty Plan](https://web.archive.org/web/20111128085216id_/http%3A//www.upmchealthplan.com/pdf/2012_SNP_NOPP.pdf)
+  * [Personal Representative Designation Form](https://web.archive.org/web/20111128085216id_/http%3A//www.upmchealthplan.com/pdf/MC%20DesForm.pdf)
+  * [Member Authorization to Use/Disclose PHI](https://web.archive.org/web/20111128085216id_/http%3A//www.upmchealthplan.com/pdf/MemberPHIauth.pdf)
 
 
