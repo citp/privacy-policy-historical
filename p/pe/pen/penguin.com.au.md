@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the penguin.com.au privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612004802id_/http%3A//www.penguin.com.au/Privacy/PandSstatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penguin.com.au privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128024356id_/http%3A//www.penguin.com.au/privacy-statement) for the most accurate reproduction.*
 
-# Penguin Group (Australia)
+# Penguin Books Australia
 
-## Privacy Policy 
+In this Privacy policy, "us", "we" or "our" means Pearson Australia Group Pty Ltd and its divisions (including without limitation Penguin Group (Australia), Pearson Australia and United Book Distributors) and related bodies corporate. 
 
-This Policy will be reviewed from time to time to take account of new or amended laws, new technology and/or changes to our operations and practices and the changing business environment. The most current version of this Policy is located at [www.pearsonaustraliagroup.com.au/pages.cfm](https://web.archive.org/web/20110612004802id_/http%3A//www.penguin.com.au/Privacy/pages.cfm) and can be obtained by contacting our Privacy Officer. All personal information held by us will be governed by the most recently updated policy.
+We have a policy to protect information collected about people related to our business, including its employees, prospective employees and customers, and to comply with the National Privacy Principles ("NPPs") contained in the Privacy Act 1988 (Cth) ("Privacy Act") (subject to exemptions that apply under the Privacy Act). We take very seriously our responsibility to protect and maintain the privacy, accuracy and security of personal information. 
+
+This Policy will be reviewed from time to time to take account of new or amended laws, new technology and/or changes to our operations and practices and the changing business environment. The most current version of this Policy is located at <http://www.pearsonaustraliagroup.com.au/pag.asp> and can be obtained by contacting our Privacy Officer. All personal information held by us will be governed by the most recently updated policy.
 
 This policy sets out: 
 
@@ -102,9 +104,9 @@ We request that you keep your information as current as possible so that we may 
 
 If you would like to seek access to personal information we hold about you, or if you have any questions or complaints about how we collect, use, disclose, manage or store your personal information, you can contact the department that collected your personal information in the first instance, or write to: 
 
-**The Privacy Officer**  
-**Pearson Australia Group**  
+The Privacy Officer  
+Pearson Australia Group  
 250 Camberwell Road  
-Camberwell VIC 3124  
+Camberwell VIC 3124   
 Phone: (03) 9811 2400  
 Email: [privacy.officer@pearson.com.au](mailto:privacy.officer@pearson.com.au)
