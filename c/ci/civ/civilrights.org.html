@@ -1,27 +1,28 @@
-<!--The following is the downloaded HTML source of the civilrights.org privacy policy that was archived on 2011-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110629031723id_/http%3A//www.civilrights.org/about/civilrights/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the civilrights.org privacy policy that was archived on 2011-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111128103038id_/http%3A//www.civilrights.org/about/civilrights/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" dir="ltr" lang="en-US"><head>
+<!DOCTYPE html><html xmlns:fb="http://ogp.me/ns/fb#"><head>
 
 
 
 
 
 <meta name="generator" content="Convio CMS"> 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" type="text/javascript" src="/components/print/printer-friendly.js"></script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=143697325675837"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="JavaScript" type="text/javascript" src="/components/cookie/cookie.js"></script>
+
+
+<script language="JavaScript" type="text/javascript" src="/components/print/printer-friendly.js"></script>
+
 
 
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.pageUserName = '3716:0';
-CONVIO.pageSessionID = 'mv81h0kmi3.app337a';
+CONVIO.pageSessionID = 'bz9lhymlg1.app338a';
 CONVIO.pageSessionName = 'JServSessionIdr004';
 </script>
 
-<script language="JavaScript" type="text/javascript" src="/components/cookie/cookie.js"></script>
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1309317451303"></script><script type="text/javascript" src="http://action.civilrights.org/site/AnonymousLogin?SSO=5b0aca9ada4de0491c42c35472c1ab01ec9bcc98&amp;NEXTURL=http%3A%2F%2Fwww.civilrights.org%2Fsystem%2Fauth%2Fsession-status.jsp%3Fnocache%3D1309317451303&amp;timestamp=2011-06-30T05:52:59.517Z&amp;format=JSON&amp;callback=CONVIO.checkAuthStatus"></script>
-
-
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1322476238560"></script>
 <script type="text/javascript">
 
 // The original referrer may have been lost from the session-status.jsp javascript redirect.
@@ -32,16 +33,19 @@ deleteCookie("CONVIO.referrer");
 </script>
 
 
+
 <!-- Convio's CRM JS library -->
 <script type="text/javascript" src="http://action.civilrights.org/js/utils.js"></script>
 
 
+
  
-<title>Privacy Policy</title>
+<meta property="og:title" content="Privacy Policy">
 <meta property="og:type" content="article">
+<meta property="og:url" content="http://www.civilrights.org/about/privacy-policy.html">
+<meta property="og:image" content="http://www.civilrights.org/about/leadershipconf_foraboutus2.jpg">
+<meta property="og:site_name" content="The Leadership Conference on Civil and Human Rights">
 <meta property="fb:app_id" content="143697325675837">
-<meta property="og:image" content="http://profile.ak.fbcdn.net/hprofile-ak-snc4/hs444.snc4/48983_1418418192_9203_n.jpg">
-<meta property="og:site_name" content="The Leadership Conference">
 <meta name="verify-v1" content="yx24KLK9Z91PlNBYDVG+GR0/FEa8WnlL6vU6rboKHLI=">
 <meta name="google-site-verification" content="MZqmxaaLtHrtdDTgIy05HoURMLj_17JgG3kZvNcjzkI">
 <title>Privacy Policy - The Leadership Conference on Civil and Human Rights</title>
@@ -57,14 +61,79 @@ img, div, a, input { behavior: url(http://www.civilrights.org/assets/css/iepngfi
 <link rel="stylesheet" type="text/css" href="http://www.civilrights.org/assets/css/posts.css" media="screen">
 <link rel="stylesheet" href="http://www.civilrights.org/assets/css/page-layout.css" type="text/css">
 <link rel="stylesheet" href="http://www.civilrights.org/assets/css/layers.css" type="text/css">
-
-
+<link href="http://www.civilrights.org/assets/js/menus/jquery-ui.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-<script type="text/javascript" src="http://www.civilrights.org/assets/js/carousel.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+
 <!--SLIDER CODE-->
+<script>
+var carouselInterval = null;
+var carouselInterval = null;
+
+function CarouselClick(index, keepInterval) {    
+
+	if(typeof(keepInterval)=='undefined')
+		clearInterval(carouselInterval);
+
+	jQuery('#carousel-controls a').removeClass('active');
+	jQuery('#carousel-controls a[rel=' + index + ']').addClass('active');
+	jQuery('div.carousel').each(function(i){
+		if(!jQuery(this).hasClass('active'))
+			jQuery(this).hide();
+	});
+	
+	jQuery('div.carousel.active').fadeOut(300, function(){
+		jQuery(this).removeClass('active');
+		jQuery('div.carousel:eq(' + index + ')').fadeIn(300, function(){
+			jQuery(this).addClass('active');
+		});
+	});
+}		
+
+function RotateCarousel()
+{
+	var activeIndex = parseInt(jQuery('#carousel-controls a.active').attr('rel'));
+	CarouselClick(((activeIndex + 1) % jQuery('#carousel-controls a').length), true);
+}
+
+jQuery(function()
+{	
+	jQuery('.dateline').addClass('js-enabled');
+	jQuery('.carousel').eq(0).addClass('active');
+	
+	var carouselItems = jQuery('div.carousel');
+	for(var i=carouselItems.length;i>0;i--)
+	{
+		var isActive = carouselItems.eq(i-1).hasClass('active');				
+		var carouselButton = jQuery('<a href="#" rel="' + (i-1) + '">' + i + '</a>');
+		if(isActive)
+			carouselButton.addClass('active');
+		carouselButton.click(function(){
+			CarouselClick(jQuery(this).attr('rel'));
+			return false;
+		});
+		jQuery('#carousel-controls').append(carouselButton);
+	}
+				
+	if(typeof(window.CAROUSEL_INTERVAL_MS)=='undefined')
+		window.CAROUSEL_INTERVAL_MS = 8000;
+	
+	carouselInterval = window.setInterval(RotateCarousel, window.CAROUSEL_INTERVAL_MS);
+	
+});
+
+
+</script>
+  <script>
+  $(document).ready(function() {
+    $("#accordion2").accordion({active:false, autoHeight: false});
+    $("#accordion3").accordion({ autoHeight:false, active: false,collapsible: true });
+    $("#accordion4").accordion({ autoHeight:false,active: false,collapsible: true });
+  });
+  </script>
+
 <link href="http://www.civilrights.org/assets/css/slider-home.css" rel="stylesheet" type="text/css" media="screen">
-
-
 <style type="text/css">
 <!--
 
@@ -111,9 +180,24 @@ popupWin('http://www.civilrights.org/promotion/popup2.html','Popup','height=263,
 
 </script>
 
+<script>
+$("p:contains('Ward Connerly')").wrap("<a href='http://www.civilrights.org/equal-opportunity/connerly/decoding-ward-connerly.html'><b>");
+    </script>
+
+
 </head>
 <body onload="rotateImage('rotate-logo')">
+
+<!--//FACEBOOK LIKE-->
 <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=143697325675837";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!--//END FACEBOOK-->
 <div id="outer">
 <div id="pagewidth">
 <div id="header"><!--BANNER-->
@@ -132,7 +216,10 @@ popupWin('http://www.civilrights.org/promotion/popup2.html','Popup','height=263,
 <!-- This is 'Youtube placeholder' -->
 <div id="layer-64"><a href="http://www.youtube.com/lccref" title="Follow Us on YouTube"><img width="15" height="15" alt="Follow Us on YouTube" src="http://www.civilrights.org/images/templates/new/layer-64.png"></a></div>
 <!-- This is 'RSS placeholder' -->
-<div id="layer-63"><a href="http://www.civilrights.org/feeds/" title="Subscribe to our News Feeds (RSS)"><img width="16" height="15" alt="Subscribe to our News Feed" src="http://www.civilrights.org/images/templates/new/layer-63.png"></a></div>
+<div id="layer-63">
+<!-- This is 'Wordpress placeholder' -->
+<a href="http://www.unfinishedbusiness.org" title="Follow our Blog: Unfinished Business"><img alt="Wordpress" height="16" src="http://www.civilrights.org/images/templates/new/wordpress_17.png" width="16"></a>&nbsp;
+<a href="http://www.civilrights.org/feeds/" title="Subscribe to our News Feeds (RSS)"><img width="16" height="15" alt="Subscribe to our News Feed" src="http://www.civilrights.org/images/templates/new/layer-63.png"></a></div>
 <!-- This is 'Email placeholder' -->
 <div id="layer-email"><a href="http://action.civilrights.org/site/PageServer?pagename=sign_up" title="Join our Email List"><img width="16" height="15" alt="Join our Email List" src="http://www.civilrights.org/images/templates/new/emailicon.png"></a></div>
 </span>
@@ -165,7 +252,7 @@ popupWin('http://www.civilrights.org/promotion/popup2.html','Popup','height=263,
 
 <!-- start navigation include -->
 
-<div id="sectionNavigation-240233943" style="DISPLAY: inline">
+<div id="sectionNavigation-289377968" style="display: inline;">
 
 
 
@@ -183,14 +270,7 @@ popupWin('http://www.civilrights.org/promotion/popup2.html','Popup','height=263,
 
 
 
-<div class="linksetMenu linksetSubMenu-1 navigationMenu">
-
-
-
-
-
-
-<div class="linksetLinkInternal navigationItem"><a href="http://www.civilrights.org/">Home</a></div>
+<div class="linksetMenu linksetSubMenu-1 navigationMenu"><!--LEVEL 1 UL-->
 
 
 
@@ -198,15 +278,24 @@ popupWin('http://www.civilrights.org/promotion/popup2.html','Popup','height=263,
 
 
 
-
-
-<div class="linksetLinkInternal navigationItem"><a href="http://www.civilrights.org/about/">About Us</a></div>
-
+<div class="linksetLinkInternal navigationItem"><!--LEVEL 1 LI--><a href="http://www.civilrights.org/">Home</a></div>
 
 
 
 
 
+
+
+
+
+<div class="linksetLinkInternal navigationItem"><!--LEVEL 1 LI--><a href="http://www.civilrights.org/about/">About Us</a></div>
+
+
+
+
+
+
+<!--LEVEL 2 UL-->
 <div class="linksetSubMenu-2 navigationSubMenu">
 
 
@@ -214,7 +303,8 @@ popupWin('http://www.civilrights.org/promotion/popup2.html','Popup','height=263,
 
 
 
-<div class="linksetLinkInternal navigationItem"><a href="http://www.civilrights.org/about/history.html">Our History</a></div>
+
+<div class="linksetLinkInternal navigationItem"><!--LEVEL 1 LI--><a href="http://www.civilrights.org/about/history.html">Our History</a></div>
 
 
 
@@ -228,7 +318,8 @@ popupWin('http://www.civilrights.org/promotion/popup2.html','Popup','height=263,
 
 
 
-<div class="linksetLinkInternal navigationItem"><a href="http://www.civilrights.org/about/contact_us/">Contact Us</a></div>
+
+<div class="linksetLinkInternal navigationItem"><!--LEVEL 1 LI--><a href="http://www.civilrights.org/about/contact_us/">Contact Us</a></div>
 
 
 
@@ -242,7 +333,8 @@ popupWin('http://www.civilrights.org/promotion/popup2.html','Popup','height=263,
 
 
 
-<div class="linksetLinkInternal navigationItem"><a href="http://www.civilrights.org/about/staff.html">Staff List</a></div>
+
+<div class="linksetLinkInternal navigationItem"><!--LEVEL 1 LI--><a href="http://www.civilrights.org/about/staff.html">Staff List</a></div>
 
 
 
@@ -256,7 +348,8 @@ popupWin('http://www.civilrights.org/promotion/popup2.html','Popup','height=263,
 
 
 
-<div class="linksetLinkInternal navigationItem"><a href="http://www.civilrights.org/career_center/">Careers</a></div>
+
+<div class="linksetLinkInternal navigationItem"><!--LEVEL 1 LI--><a href="http://www.civilrights.org/career_center/">Careers</a></div>
 
 
 
@@ -266,11 +359,14 @@ popupWin('http://www.civilrights.org/promotion/popup2.html','Popup','height=263,
 
 
 
+<!--END LEVEL 2 UL-->
 
 
 
 
-<div class="linksetLinkInternal navigationItem"><a href="http://www.civilrights.org/about/internships/">Internships </a></div>
+
+
+<div class="linksetLinkInternal navigationItem"><!--LEVEL 1 LI--><a href="http://www.civilrights.org/about/internships/">Internships </a></div>
 
 
 
@@ -281,7 +377,7 @@ popupWin('http://www.civilrights.org/promotion/popup2.html','Popup','height=263,
 
 
 
-<div class="linksetLinkExternal navigationItem"><a href="http://action.civilrights.org/site/PageServer?pagename=sign_up">Sign Up</a></div>
+<div class="linksetLinkExternal navigationItem"><!--LEVEL 2 LI--><a href="http://action.civilrights.org/site/PageServer?pagename=sign_up">Sign Up</a></div>
 
 
 
@@ -291,7 +387,7 @@ popupWin('http://www.civilrights.org/promotion/popup2.html','Popup','height=263,
 
 
 
-<div class="linksetLinkInternal navigationItem"><a href="http://www.civilrights.org/action_center/">Take Action</a></div>
+<div class="linksetLinkInternal navigationItem"><!--LEVEL 1 LI--><a href="http://www.civilrights.org/action_center/">Take Action</a></div>
 
 
 
@@ -301,7 +397,7 @@ popupWin('http://www.civilrights.org/promotion/popup2.html','Popup','height=263,
 
 
 
-<div class="linksetLinkInternal navigationItem"><a href="http://www.civilrights.org/donate/">Donate Now</a></div>
+<div class="linksetLinkInternal navigationItem"><!--LEVEL 1 LI--><a href="http://www.civilrights.org/donate/">Donate Now</a></div>
 
 
 
@@ -321,7 +417,7 @@ popupWin('http://www.civilrights.org/promotion/popup2.html','Popup','height=263,
 
 
 
-<div class="linksetLinkInternal navigationItem"><a href="http://www.civilrights.org/issues/">Issues</a></div>
+<div class="linksetLinkInternal navigationItem"><!--LEVEL 1 LI--><a href="http://www.civilrights.org/issues/">Issues</a></div>
 
 
 
@@ -331,7 +427,7 @@ popupWin('http://www.civilrights.org/promotion/popup2.html','Popup','height=263,
 
 
 
-<div class="linksetLinkInternal navigationItem"><a href="http://www.civilrights.org/publications/">Publications</a></div>
+<div class="linksetLinkInternal navigationItem"><!--LEVEL 1 LI--><a href="http://www.civilrights.org/publications/">Publications</a></div>
 
 
 
@@ -341,7 +437,7 @@ popupWin('http://www.civilrights.org/promotion/popup2.html','Popup','height=263,
 
 
 
-<div class="linksetLinkInternal navigationItem"><a href="http://www.civilrights.org/resources/">Civil Rights History</a></div>
+<div class="linksetLinkInternal navigationItem"><!--LEVEL 1 LI--><a href="http://www.civilrights.org/resources/">Civil Rights History</a></div>
 
 
 
@@ -361,7 +457,7 @@ popupWin('http://www.civilrights.org/promotion/popup2.html','Popup','height=263,
 
 
 
-<div class="linksetLinkInternal navigationItem"><a href="http://www.civilrights.org/calendar/">Calendar</a></div>
+<div class="linksetLinkInternal navigationItem"><!--LEVEL 1 LI--><a href="http://www.civilrights.org/calendar/">Calendar</a></div>
 
 
 
@@ -371,7 +467,7 @@ popupWin('http://www.civilrights.org/promotion/popup2.html','Popup','height=263,
 
 
 
-<div class="linksetLinkInternal navigationItem"><a href="http://www.civilrights.org/career_center/">Career Center</a></div>
+<div class="linksetLinkInternal navigationItem"><!--LEVEL 1 LI--><a href="http://www.civilrights.org/career_center/">Career Center</a></div>
 
 
 
@@ -381,7 +477,7 @@ popupWin('http://www.civilrights.org/promotion/popup2.html','Popup','height=263,
 
 
 
-<div class="linksetLinkInternal navigationItem"><a href="http://www.civilrights.org/press/">Press Room</a></div>
+<div class="linksetLinkInternal navigationItem"><!--LEVEL 1 LI--><a href="http://www.civilrights.org/press/">Press Room</a></div>
 
 
 
@@ -391,13 +487,15 @@ popupWin('http://www.civilrights.org/promotion/popup2.html','Popup','height=263,
 
 
 
-<div class="linksetLinkInternal navigationItem"><a href="http://www.civilrights.org/advocacy/">Advocacy</a></div>
+<div class="linksetLinkInternal navigationItem"><!--LEVEL 1 LI--><a href="http://www.civilrights.org/advocacy/">Advocacy</a></div>
 
 
 
 
+<!--END LEVEL 1 UL-->
   </div>
 </div>
+
 
 <!-- end navigation include -->
 
@@ -472,8 +570,9 @@ popupWin('http://www.civilrights.org/promotion/popup2.html','Popup','height=263,
 
 <div id="contentDiv">
 
-  <script type="text/javascript" src="/components/form/form.js"></script>
-  <script type="text/javascript" src="/components/cookie/cookie.js"></script>
+
+<script type="text/javascript" src="/components/form/form.js"></script>
+
 <!-- start display template -->
 <div id="plaincontent">
 <h2>Privacy Policy</h2>
@@ -494,9 +593,6 @@ popupWin('http://www.civilrights.org/promotion/popup2.html','Popup','height=263,
 
 
 
-
-
-<script type="text/javascript" src="/components/form/form.js"></script>
 
 
 
@@ -583,7 +679,6 @@ rights reserved.</div>
 </div>
 <!--/close outer layer--></div>
 
-<div id="fb-root"></div>
 <script type="text/javascript" language="Javascript1.2" src="http://www.civilrights.org/assets/rotate-logo.js"></script>
 
 <span id="convio" style="display: none;"><div id="poweredBy" style="display: inline">
@@ -615,6 +710,15 @@ rights reserved.</div>
 </div>
 </span>
 
+<script>
+$("p").each(function () { 
+   if ($(this).children().length == 0) { 
+      $(this).html($(this).html().replace('Ward Connerly','<a href=http://www.civilrights.org/equal-opportunity/connerly/decoding-ward-connerly.html>Ward Connerly</a>')); 
+   } 
+});
+</script>
 
+
+<!-- 10.12.0.38:8900 -->
 
 </body></html>
