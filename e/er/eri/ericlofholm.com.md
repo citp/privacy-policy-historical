@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ericlofholm.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531022719id_/http%3A//www.saleschampion.com/eric-lofholm/company-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ericlofholm.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128121707id_/http%3A//www.saleschampion.com/eric-lofholm/company-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sales Training
-
-If you're new here, you may want to check out these [free resources](http://saleschampion.com/easysalesformula/) to help you quickly and easily close more sales. Thanks for visiting!
 
 PRIVACY POLICY
 
