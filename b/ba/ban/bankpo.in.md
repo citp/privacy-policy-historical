@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankpo.in privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530163914id_/http%3A//bankpo.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankpo.in privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128191020id_/http%3A//bankpo.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BANK EXAMS | BANK JOBS
 
@@ -38,12 +38,12 @@ While we do our best to protect your personal information, we cannot guarantee t
 
 In addition other Internet sites or services that may be accessible through our site have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions.
 
-xxxxxxxxxxxxxxxxxxxxxxxxxx
+**If you are weak in General Awareness section and want to crack SBI PO exam, then try our Current Affairs and General Awareness Magazine, for more information mail us at bankpo.in@gmail.com**
 
 To discuss with other bank aspirants [**REGISTER HERE**](http://bankpo.in/discussion/register.php)
 
 After registering yourself [**DISCUSS IN FORUMS HERE**](http://bankpo.in/discussion/)
 
-xxxxxxxxxxxxxxxxxxxxxxxxxxx
+**PLEASE CLICK ON +1 BUTTON GIVEN BELOW TO POPULARIZE BANKPO.IN**
 
-[](http://promote.orkut.com/preview?nt=orkut.com&tt=Privacy%20Policy&du=http://bankpo.in/privacy-policy/)[Add to orkut](http://promote.orkut.com/preview?nt=orkut.com&tt=Privacy%20Policy&du=http://bankpo.in/privacy-policy/)
+Add to orkut
