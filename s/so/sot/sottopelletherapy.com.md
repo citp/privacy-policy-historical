@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sottopelletherapy.com privacy policy that was archived on 2011-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110122150833id_/http%3A//www.sottopelletherapy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sottopelletherapy.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128035433id_/http%3A//www.sottopelletherapy.com/privacy.html) for the most accurate reproduction.*
 
-# Natural Bioidentical Hormone Replacement Therapy in Scottsdale, Phoenix, Tuscon AZ, Sottopelle Hormone Pellets
+# Hormone Replacement Therapy Scottsdale - Privacy
 
 Thank you for visiting our website (the “Site”). We provide this Privacy Statement to highlight our policies with regard to the privacy of information we may gather through your use of this Site.
 
