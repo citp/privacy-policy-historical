@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weblogs.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630081219id_/http%3A//w.moreover.com/public/general/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weblogs.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128073444id_/http%3A//w.moreover.com/public/general/privacy-policy.html) for the most accurate reproduction.*
 
 # Moreover Technologies - Privacy Policy
 
