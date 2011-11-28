@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the lebunnybleu.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321170634id_/http%3A//www.lebunnybleu.com/newyork/aboutus/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lebunnybleu.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128123456id_/http%3A//lebunnybleu.com/newyork/info/policy.html) for the most accurate reproduction.*
 
 # Le Bunny Bleu Romantic & Vintage Flat Shoes
 
+Your privacy on the Internet is of the utmost importance to us.  
 Any information that you share with us remains strictly private - We will not disclose information about our customers to third parties except where it is a necessary part of providing a service to you - e.g. Arranging for a product to be sent to you. What personal information we collect. We collect a variety of personal information directly from you, such as when you provide your personal details on our web site, by phone or when you subscribe to our mailing list. We only collect personal information to the extent that it is necessary to our business. 
 
-Any information that you share with us remains strictly private - We will not disclose information about our customers to third parties except where it is a necessary part of providing a service to you - e.g. Arranging for a product to be sent to you. What personal information we collect. We collect a variety of personal information directly from you, such as when you provide your personal details on our web site, by phone or when you subscribe to our mailing list. We only collect personal information to the extent that it is necessary to our business. 
-
+Cookies  
 We use automatic systems of data collection, such as cookies. A cookie is a device transmitted to the hard disk of an Internet user; it does not contain intelligible information but it allows linking between an Internet user to his/her personal information provided by the user on lebunnybleu.com. Cookies are disseminated by our servers and no one may gain access to the information contained therein. Only we process information collected by cookies, in an collective and anonymous way, in order to optimize its services and its web site for the needs and preferences of its users. 
 
-Please feel free to contact us if you have any questions or comments or if you would like more information concerning how we handle personal information or any privacy issues. You can contact us by emailing to:  info@lebunnybleu.com
+Contact us  
+Please feel free to contact us if you have any questions or comments or if you would like more information concerning how we handle personal information or any privacy issues. You can contact us by emailing to: info@lebunnybleu.com
