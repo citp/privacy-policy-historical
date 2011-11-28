@@ -1,0 +1,467 @@
+<!--The following is the downloaded HTML source of the askapatient.com privacy policy that was archived on 2011-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111128013805id_/http%3A//www.askapatient.com/general/privacy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>
+Privacy Policy
+</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+
+<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.7.0/build/reset/reset-min.css">
+<link rel="stylesheet" type="text/css" href="/incl/main.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/incl/print.css" media="print">
+<link rel="stylesheet" type="text/css" href="/incl/handheld.css" media="handheld">
+
+
+<!-- *****************************************************************************************-->
+<!-- *****************************************************************************************-->
+<!--      W A R N I N G      W A R N I N G      W A R N I N G      W A R N I N G   
+
+	DO NOT MESS WITH THE ORDER OF THESE jQUERY INCLUDES. 
+    IT WILL MESS UP THE AUTO-COMPLETE IN THE SEARCH AND THE FILTER ON THE VIEW RATING PAGE.
+    
+    BEAN - MARCH 2011
+-->
+<!-- *****************************************************************************************-->
+<!-- *****************************************************************************************-->
+
+<!-- BEGIN - FILTER INCLUDES -->
+<link rel="stylesheet" href="/incl/jquery.cluetip.css" type="text/css"> 
+<script type="text/javascript" src="/includes/jquery/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" language="javascript" src="/incl/jquery.cluetip.js"></script>
+<script type="text/javascript" language="javascript" src="/incl/demo.js"></script>
+<!-- END - FILTER INCLUDES -->
+
+<!-- BEGIN - AUTO COMPLETE INCLUDES -->
+<link rel="stylesheet" href="/includes/jquery/ui-1.8.5/themes/base/jquery.ui.all.css">
+<link rel="stylesheet" href="/includes/jquery/ui-1.8.5/demos.css">
+<script type="text/javascript" src="/includes/jquery/ui-1.8.5/ui/jquery.ui.core.js"></script>
+<script type="text/javascript" src="/includes/jquery/ui-1.8.5/ui/jquery.ui.widget.js"></script>
+<script type="text/javascript" src="/includes/jquery/ui-1.8.5/ui/jquery.ui.position.js"></script>
+<script type="text/javascript" src="/includes/jquery/ui-1.8.5/ui/jquery.ui.autocomplete.js"></script>
+<!-- END - AUTO COMPLETE INCLUDES -->
+
+<script type="text/javascript" language="javascript" src="/incl/scripts.js"></script>
+
+  
+
+<style type="text/css">
+	.ui-autocomplete {
+		max-height: 100px;
+		overflow-y: auto;
+	}
+	/* IE 6 doesn't support max-height
+	 * we use height instead, but this forces the menu to always be this tall
+	 */
+	* html .ui-autocomplete {
+		height: 100px;
+	}
+</style>
+ 
+<script language="javascript" type="text/javascript">
+<!--
+function menu_goto(menuform)
+{
+    // see http://www.thesitewizard.com/archive/navigation.shtml
+    // for an explanation of this script and how to use it on your own site
+ 
+    selecteditem = menuform.newurl.selectedIndex ;
+    newurl = menuform.newurl.options[ selecteditem ].value ;
+    if (newurl.length != 0) {
+      location.href = newurl ;
+    }
+}
+
+$(function () {
+	$("#resultsTable tr:even").addClass("altRowColor");
+	
+	function split(val) {
+		return val.split(/,\s*/);
+	}
+
+	function extractLast(term) {
+		return split(term).pop();
+	}
+
+	$("#searchField").autocomplete({
+		source: function (request, response) {
+			var searchField = extractLast(request.term);
+			var guid = '';
+			$.getJSON("/advancedsearch.asp", { GUID: guid, Action: "SearchField", drugTerm: searchField }, response);
+		},
+		search: function () {
+			// custom minLength
+			var term = extractLast(this.value);
+			if (term.length < 3) {
+				return false;
+			}
+		},
+		focus: function () {
+			// prevent value inserted on focus
+			return false;
+		},
+		select: function (event, ui) {
+			var terms = split(this.value);
+			// remove the current input
+			terms.pop();
+			// add the selected item
+			terms.push(ui.item.value);
+			// add placeholder to get the comma-and-space at the end
+			terms.push("");
+			this.value = terms.join(" ");
+			return false;
+		}
+	});  
+});
+//-->
+</script>
+</head>
+
+<body onload="MM_preloadImages('/images/nav_home_hover.jpg','/images/nav_rateyourmedicine_hover.jpg','/images/nav_comparedrugs_hover.jpg','/images/nav_resources_hover.jpg','/images/nav_news_hover.jpg','/images/rateddrugs_women_roll.jpg','/images/rateddrugs_men_roll.jpg','/images/rateddrugs_k_roll.jpg','/images/rateddrugs_seniors_roll.jpg')">
+
+<div id="wrapper">
+    
+    <div id="header">
+        <div id="logo"> <a href="/"><img src="/images/header_logo.jpg" width="318" height="64" alt="Ask A Patient" border="0"></a>
+        </div>
+<div id="topAction">        
+        <!-- AddThis Button BEGIN -->
+        <div class="addthis_toolbox addthis_default_style" style="float:right;">
+        
+            <a href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=ra-4e6cc2992ca213e4" class="addthis_button_compact" rel="nofollow">Share</a>
+
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4e6cc2992ca213e4"></script>
+            
+            
+            &nbsp;&nbsp;&nbsp;
+            
+            <p class="login">
+            <a href="/editrating.asp" onclick="location.href='/editrating.asp'">Login</a>
+            </p>
+        </div>
+        <!-- AddThis Button END -->
+</div>
+        
+        <!-- BEGIN SEARCH WRAPPER-->
+        <div id="searchWrapper">
+            <div id="searchContainer">
+            <form id="searchForm" action="/searchresults.asp" method="get">
+            <input name="searchField" id="searchField" type="text" value="Search for a medication" onfocus="if(this.value=='Search for a medication')this.value='';" onblur="if(this.value=='')this.value='Search for a medication';">
+            <input type="submit" id="searchButton" value="" alt="Submit search">
+            </form>
+            </div>
+        </div>
+        <!-- END SEARCH WRAPPER-->
+        
+        <!--BEGIN BROWSE CONTAINER-->
+        <div id="browseContainer">        
+            <p class="browseMeds">Browse all medications</p>
+            
+            <p class="byLetter">
+        <a href="/drugalpha.asp?letter=A">A</a>
+    <a href="/drugalpha.asp?letter=B">B</a>
+    <a href="/drugalpha.asp?letter=C">C</a>
+    <a href="/drugalpha.asp?letter=D">D</a>
+    <a href="/drugalpha.asp?letter=E">E</a>
+    <a href="/drugalpha.asp?letter=F">F</a>
+    <a href="/drugalpha.asp?letter=G">G</a>
+    <a href="/drugalpha.asp?letter=H">H</a>
+    <a href="/drugalpha.asp?letter=I">I</a>
+    <a href="/drugalpha.asp?letter=J">J</a>
+    <a href="/drugalpha.asp?letter=K">K</a>
+    <a href="/drugalpha.asp?letter=L">L</a>
+    <a href="/drugalpha.asp?letter=M">M</a>
+    <a href="/drugalpha.asp?letter=N">N</a>
+    <a href="/drugalpha.asp?letter=O">O</a>
+    <a href="/drugalpha.asp?letter=P">P</a>
+    <a href="/drugalpha.asp?letter=Q">Q</a>
+    <a href="/drugalpha.asp?letter=R">R</a>
+    <a href="/drugalpha.asp?letter=S">S</a>
+    <a href="/drugalpha.asp?letter=T">T</a>
+    <a href="/drugalpha.asp?letter=U">U</a>
+    <a href="/drugalpha.asp?letter=V">V</a>
+    <a href="/drugalpha.asp?letter=W">W</a>
+    <a href="/drugalpha.asp?letter=X">X</a>
+    <a href="/drugalpha.asp?letter=Y">Y</a>
+    <a href="/drugalpha.asp?letter=Z">Z</a>
+            </p>
+            
+            <p class="advancedSearch">
+            <a href="/advancedsearchform.asp">Advanced Search</a> | <a href="/searchhelp.asp">Help</a>
+            </p>
+        </div>
+        <!--END BROWSE CONTAINER-->
+    
+    </div>
+    <!--END HEADER-->
+ 
+	
+<!-- BEGIN NAV WRAPPER -->
+
+<div id="navWrapper">
+
+<ul id="topnav">
+<li><img src="/images/spacer.gif" width="154" height="27"></li>
+
+<li><a href="/" <img="" src="/images/nav_home.jpg" alt="Home" width="79" height="27"></a></li>
+
+<li><a href="/rateyourmedicine.asp"><img src="/images/nav_rateyourmedicine.jpg" alt="Rate Your Medicine" name="rate" width="176" height="27" border="0"></a></li>
+   
+<li><a href="/comparedrugslist.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('compare_drugs','','/images/nav_comparedrugs_hover.jpg',1)" onclick="location.href='/comparedrugslist.asp'"><img src="/images/nav_comparedrugs.jpg" alt="Compare Drugs" name="compare_drugs" width="154" height="27" border="0"></a><span onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('compare_drugs','','/images/nav_comparedrugs_hover.jpg',1)" class="subnav">
+    <a href="/comparedrugs.asp?class=ANTIHISTAMINES">Allergies</a>
+    <a href="/comparedrugs.asp?class=ANTIANXIETY">Anxiety</a>
+    <a href="/comparedrugs.asp?class=ANTIBACTERIALS, MISCELLANEOUS">Antibiotics</a>
+    <a href="/comparedrugs.asp?class=CONTRACEPTIVES">Birth Control</a>
+    <a href="/comparedrugs.asp?class=ANTIDEPRESSANTS">Depression</a>
+    <a href="/comparedrugs.asp?class=BLOOD GLUCOSE REGULATORS">Diabetes</a>
+    <a href="/comparedrugs.asp?class=DISORDERS, ACID/PEPTIC">Digestive Disorders</a>  
+    <ul><li>
+    <span onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('compare_drugs','','/images/nav_comparedrugs_hover.jpg',1)" class="subnav">
+    <a href="/comparedrugs.asp?class=ANTIHYPERTENSIVES">High Blood Pressure</a> 
+    <a href="/comparedrugs.asp?class=HYPERLIPIDEMIA">High Cholesterol</a>
+    <a href="/comparedrugs.asp?class=SEDATIVES/HYPNOTICS">Insomnia</a>
+    <a href="/comparedrugs.asp?class=ESTROGENS/PROGESTINS">Menopause</a>
+    <a href="/comparedrugs.asp?class=ANALGESICS-NARCOTIC">Pain Relief</a> 
+       <a href="/comparedrugslist.asp">See All Categories</a> 
+    </span>
+    </li></ul>
+</span></li>
+
+<li><a href="/resources/drugresources.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('resources','','/images/nav_resources_hover.jpg',1)" onclick="location.href='/resources/drugresources.asp'"><img src="/images/nav_resources.jpg" alt="Resources" name="resources" width="116" height="27" border="0"></a><span onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('resources','','/images/nav_resources_hover.jpg',1)" class="subnav">
+    <a href="/resources/drugresources.asp">Drug Resources</a> 
+    <a href="/resources/healthcare.asp">Health Resources</a>
+    <a href="/resources/empowerment.asp">Patient Empowerment</a>
+    <a href="/resources/kidshealth.asp">Kids Health</a>
+    <a href="/resources/healthcarepoll.asp">Health Care Polls</a>
+    <a href="/resources/index.asp">Special Reports</a>
+    <!--
+    <ul><li>
+    <span onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('resources','','/images/nav_resources_hover.jpg',1)" class="subnav">
+    	<a href="#">Special Report: Swine Flu</a>
+    	<a href="#">Special Report: Migraine Headaches</a>
+    </span>
+    </li></ul>
+    -->
+</span></li>
+            
+<li><a href="/news/pharmnews.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('news','','/images/nav_news_hover.jpg',1)" onclick="location.href='/news/pharmnews.asp'"><img src="/images/nav_news.jpg" alt="News" name="news" width="74" height="27" border="0"></a><span onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('news','','/images/nav_news_hover.jpg',1)" class="subnav">
+    <a href="/news/childrenshealth.asp">Children's Health</a>
+    <a href="/news/contagiousdisease.asp">Contagious Diseases</a>
+    <a href="/news/fdanews.asp">FDA News</a>
+    <a href="/news/pharmnews.asp">Health Care</a>
+    <a href="/news/hivaids.asp">HIV/AIDS</a>
+    <a href="/news/mentalhealth.asp">Mental Health</a>
+    <ul><li>
+    <span onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('news','','/images/nav_news_hover.jpg',1)" class="subnav">
+    <a href="/news/patientsafety.asp">Patient Safety</a>
+    <a href="/news/prescriptionpolicy.asp">Prescription Policy</a>
+    <a href="/news/seniorshealth.asp">Seniors Health</a>
+    <a href="/news/vaccines.asp">Vaccines</a>
+    </span>
+    </li></ul>
+</span></li>
+</ul>
+
+<div class="clear"></div>
+
+</div>
+<!-- END NAV WRAPPER -->
+
+
+
+    
+    <div id="contentWrapper">
+        <div id="mainContent">	
+            
+			
+            
+            <!-- BEGIN RIGHT COLUMN -->
+            <div id="rightColumn">
+            
+                
+              
+                
+                
+                
+                
+                    
+                     <div id="ratedDrugsBasic">
+                    <h2>Frequently Rated Drugs  </h2>                    <hr>
+                    <div class="basicContainer">
+                       <ul>
+                
+                           <li><a href="../viewrating.asp?drug=21427&amp;name=CYMBALTA">CYMBALTA&nbsp; (1990&nbsp; ratings)</a></li><li><a href="../viewrating.asp?drug=20699&amp;name=EFFEXOR XR">EFFEXOR XR&nbsp; (1972&nbsp; ratings)</a></li><li><a href="../viewrating.asp?drug=12541&amp;name=DEPO-PROVERA">DEPO-PROVERA&nbsp; (1746&nbsp; ratings)</a></li><li><a href="../viewrating.asp?drug=20635&amp;name=LEVAQUIN">LEVAQUIN&nbsp; (1705&nbsp; ratings)</a></li><li><a href="../viewrating.asp?drug=21440&amp;name=LEXAPRO">LEXAPRO&nbsp; (1616&nbsp; ratings)</a></li><li><a href="../viewrating.asp?drug=20241&amp;name=LAMICTAL">LAMICTAL&nbsp; (1557&nbsp; ratings)</a></li><li><a href="../viewrating.asp?drug=20505&amp;name=TOPAMAX">TOPAMAX&nbsp; (1417&nbsp; ratings)</a></li><li><a href="../viewrating.asp?drug=19835&amp;name=ZYRTEC">ZYRTEC&nbsp; (1375&nbsp; ratings)</a></li><li><a href="../viewrating.asp?drug=19537&amp;name=CIPRO">CIPRO&nbsp; (1353&nbsp; ratings)</a></li><li><a href="../viewrating.asp?drug=21455&amp;name=BONIVA">BONIVA&nbsp; (1353&nbsp; ratings)</a></li>
+                           </ul>
+                            <div style="background-image:url(/images/rateddrugs_bottombg.jpg); width:290px; height:5px;"></div> 
+                    </div> 
+                    <!--END BASIC CONTAINER -->      
+                </div>
+                
+                           
+                           
+                           
+                           
+                           
+                           
+                             <!--END RATED DRUGS-->  
+                           
+                           
+                              
+                    
+                <div id="poll">
+                    <h2>Poll</h2>
+                    <hr>
+                    <div id="pollContainer">
+                         
+
+<script language="JavaScript">
+<!--
+// This function makes sure that the user selected a voting option.
+function OneOptionChecked()
+	{
+	var i;
+	// Let's iterate through our voting options, returning true if
+	// we come across a checked radio box
+
+	for (i = 0; i < document.frmPoll.radPoll.length; i++)
+		if (document.frmPoll.radPoll[i].checked) return true;
+
+	// If we reach this point, then the user didn't check any voting options
+	alert("Please check a response!");
+	return false;
+}  
+// -->
+</script>
+  
+
+ 
+	<form name="frmPoll" action="/incl/processpoll.asp" method="POST" onsubmit="return OneOptionChecked();">
+    <p>
+    <input type="HIDDEN" name="Pollno" value="48">
+	<b>With around 80% of drug ingredients sourced from foreign manufacturers, are you concerned about the ability of the FDA to regulate the safety of US drug products?</b>
+    </p>
+    
+    <p>
+     
+    	<input type="RADIO" name="Pollid" value="166"> Yes, very concerned<br>
+     
+    	<input type="RADIO" name="Pollid" value="169"> Somewhat concerned<br>
+     
+    	<input type="RADIO" name="Pollid" value="170"> Not concerned<br>
+     
+    	<input type="RADIO" name="Pollid" value="171"> Not sure<br>
+     
+	</p>
+    
+    <p>
+    <i>Got a comment on this topic? Type your 2 cents in one sentence before voting:</i><br>
+    <input type="text" name="comment" maxlength="100" size="30">
+    </p>
+    
+    <p>
+    <input type="HIDDEN" name="URLFrom" value="/general/privacy.asp">
+    <input type="SUBMIT" value="Vote!" name="SUBMIT">
+    <br>
+	</p>
+	
+    <p><a href="/resources/healthcarepoll.asp">Read More...</a></p>
+    </form>
+  
+
+                    </div>
+                    <div style="background-image:url(/images/poll_bottombg.jpg); width:290px; height:5px;"></div>    
+                </div>
+                
+                <!-- END POLL -->
+            
+                <div id="rightColumnAd">
+                
+                
+                    <p>Advertisement</p> 
+                   <script type="text/javascript"><!--
+google_ad_client = "ca-pub-7680571419321517";
+/* 300X250 Right Sidebar ad */
+google_ad_slot = "8528957124";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+             
+    <br>          <br>  
+      <script type="text/javascript"><!--
+google_ad_client = "ca-pub-7680571419321517";
+/* 300X250 Right Sidebar ad */
+google_ad_slot = "8528957124";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>        
+            
+             
+                   
+                
+                </div>
+            
+            </div>
+            <!-- END RIGHT COLUMN -->
+
+			
+
+  <h1>Privacy Policy</h1>
+
+
+<div align="left"> 
+    
+<p></p><p>AskaPatient.com protects the patient's right to privacy. We  recognize the benefits of providing health care consumers an anonymous way to  share and compare their medication experiences with other patients. Unlike many  other web sites, we do not require registration to use any portion of this  site, and we do not require users to divulge their email address or any other  personally identifying information. We also do not require users to use their  “Facebook” or other logons in order to get a password for this site. Patients  who post their email address along with their comments in the  rate-your-medicine database do so at their own discretion. Browser cookies must  be turned on to contribute ratings. Postings are monitored for spam,  duplicates, and offensive postings. Please report spam so that it may be  removed.</p>
+     <p>
+     "Cookies"  are used in certain parts of this web site.&nbsp;  They are small pieces of information that a website attaches to your  browser when you visit that website. We may use both session cookies (which  expire once you close your web browser) and persistent cookies (which stay on  your computer until deleted).&nbsp; For polls,  for example, we may use cookies to help ensure that an individual can't vote  more than once on a particular question or issue.  
+      Cookies can be removed by following  your Internet browser's directions within the help tab. In order to use certain  parts of the site, your web browser must accept cookies. If you choose to  disable cookies, some aspects of the site may not work properly.</p><p>
+       An "Internet protocol  address" or "IP Address" is a number that is automatically  assigned to your computer when you use the Internet. We &nbsp;may track your IP Address when you access the  site as part of our site analytics and usage data.
+      </p><p>
+       We may provide you the opportunity  to ’opt-in’ of having your email address used for newsletter and other announcements  from AskaPatient. In addition, you may choose to share your email  address so that you may communicate with other patients who may visit the  site.&nbsp; If you set up a password account  but do not wish to receive any newsletters or emails from us, or if you no  longer wish to receive our newsletters, you may opt-out of receiving them by  following the instructions included in each newsletter, by signing into your  account or by emailing us.</p><p></p><p></p><p>
+      </p><h4>Third Party  Advertising</h4><p></p><p>Third party vendors, including  Google, use cookies to serve ads based on a user's prior visits to this website.&nbsp; Google's use of the DART cookie enables it  and its partners to serve ads based on their visit to this and other sites on  the Internet.
+         Users may opt out of the use of the  DART cookie by visiting the advertising opt-out  page.(http://www.google.com/privacy/ads/) <br>
+       Alternatively, you can opt out of a third-party vendor's use of cookies by visiting the Network  Advertising Initiative opt-out page at www.networkadvertising.org/managing/opt_out.asp.      
+</p><p></p><p>
+      </p><h4>Why don't we offer Facebook  or other "OpenID" logins as a logon option?</h4> <p></p><p>We don’t offer log-on through the  Facebook identification system or other "OpenID Login" systems for privacy reasons.&nbsp;  Once you sign into a web site through Facebook, your searches and  page views and form usage are linked to your Facebook account and affiliates.&nbsp; Most users of health care web sites want to  keep their health care searches and postings confidential. In addition, some  users might not realize that if they save time by using the “Log on with your  Facebook” option, that data mining can and probably will occur of your site activity.  Since health  care concerns are typically very personal and private, AskaPatient does not  even offer this as an option, because not everyone realizes the extent to which  their privacy is being compromised by these services, some of which may track  emails, page views, contacts, and even keystrokes. Of course, you are free to use your Facebook or other email and  password combination at this site, but it will not be linked to your Facebook account.&nbsp; All passwords are encrypted in email  activation messages and may be reset but not retrieved by the system.          
+         </p>
+       <p></p>
+      <h4>&nbsp;</h4>
+    <p>
+          
+        </p></div>
+        <!-- END MAIN CONTENT -->
+        
+    </div>
+    <!-- END CONTENT -->
+    
+    <div class="clear"></div>
+
+</div>
+<!-- END WRAPPER -->
+
+<div id="footer">
+    <p class="footerNav"><a href="/general/about.asp">ABOUT US</a> | <a href="/general/contact.asp">CONTACT US</a> | <a href="/general/privacy.asp">PRIVACY POLICY</a> | <a href="/general/termsofuse.asp">TERMS OF USE</a>
+  </p>
+    <p>© Copyright 2011, Askapatient.com</p>
+</div>
+<!-- END FOOTER -->
+
+              
+           <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-2264669-1";
+urchinTracker();
+</script>
+       
+              
+              
+
+</div></body></html>
