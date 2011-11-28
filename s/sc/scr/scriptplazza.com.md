@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scriptplazza.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530154801id_/http%3A//www.scriptplazza.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scriptplazza.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128025604id_/http%3A//www.scriptplazza.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy — ScriptPlazza
 
