@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vesternet.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622225434id_/http%3A//www.vesternet.com/index.php%3FcPath%3D343) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vesternet.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128062509id_/http%3A//www.vesternet.com/index.php%3FcPath%3D343) for the most accurate reproduction.*
 
 # Privacy Policy
 
