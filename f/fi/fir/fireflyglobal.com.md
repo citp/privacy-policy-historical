@@ -1,23 +1,20 @@
-> *The following text is extracted and transformed from the fireflyglobal.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518100825id_/http%3A//fireflyglobal.com/%3Fpage_id%3D234) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fireflyglobal.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128060231id_/http%3A//fireflyglobal.com/%3Fpage_id%3D234) for the most accurate reproduction.*
 
 # Privacy Policy | Firefly Global
 
-###### **  
-**
+###### ****
 
-**Thank you for accessing the Fireflyshop.com Website (“Site”) operated by Firefly. We respect your privacy and want to protect your personal information.**
+**Thank you for accessing the Fireflyglobal.com Website (“Site”) operated by Firefly. We respect your privacy and want to protect your personal information.**
 
 **To learn more, please read this Privacy Policy.**
 
-This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the Site directly or through another site, you accept the practices described in this Policy.  
-This privacy policy applies to the Site. This privacy policy does not necessarily apply to any offline collection of your personal information. Please see below for details.  
-We are not responsible for the content or privacy practices on any third party site not operated by Firefly to which the Site links or that links to the Site.
+This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the Site directly or through another site, you accept the practices described in this Policy. This privacy policy applies to the Site. This privacy policy does not necessarily apply to any offline collection of your personal information. Please see below for details. We are not responsible for the content or privacy practices on any third party site not operated by Firefly to which the Site links or that links to the Site.
 
 ###### **INFORMATION COLLECTION AND USE**
 
 ###### **1.Information Collection**
 
-We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to:
+We collect information from you in several different ways on this Site. One goal in collecting personal information from you is to provide an efficient, meaningful, and customized experience. For example, we can use your personal information to: 
 
   * help make the Site easier for you to use by not having to enter information more than once.
   * help you quickly find information, products, and services.
@@ -77,17 +74,16 @@ We want to provide you with excellent service and to offer you a great selection
   5. We may share non-personal information (such as the number of daily visitors to a particular web page, or the size of an order placed on a certain date) with third parties such as advertising partners. This information does not directly personally identify you or any user.
   6. (vi) We may publicly disclose the name, city, and state of the contest and sweepstakes winners.
 
+  
 
 
 ###### **DATA SECURITY**
 
-The Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer (“SSL”) for all financial transactions through the Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate.  
-While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
+The Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer (“SSL”) for all financial transactions through the Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
 
 ###### **OPT OUT/CORRECTIONS**
 
-Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account.  
-You can make these requests by emailing your request to Firefly’s Customer Support Team at **support@Fireflyshop.com**. Please do not email your credit-card number or other sensitive information.
+Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests by emailing your request to Firefly’s Customer Support Team at **support@Fireflyglobal.com**. Please do not email your credit-card number or other sensitive information.
 
 ###### **OFFLINE COLLECTION, USE & DISCLOSURE OF INFORMATION**
 
@@ -95,6 +91,6 @@ As you might expect from us, the majority of information that we collect is obta
 
 ###### **UPDATES TO THIS POLICY**
 
-If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at support@Fireflyshop.com.
+If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Privacy Policy, please contact us at support@fireflyglobal.com.
 
 **Effective January 17, 2011**
