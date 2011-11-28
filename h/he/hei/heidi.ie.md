@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heidi.ie privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124160432id_/http%3A//heidi.ie/node/48) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heidi.ie privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128080533id_/http%3A//heidi.ie/Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Heidi - Internet Security and Privacy
 
@@ -39,7 +39,7 @@ How Do We Use Information We Collect from Cookies? We use Web site browser softw
 Web Logs  
 Web logs are used to gather general statistical information and identify and track hackers.
 
-How Do We Use the Information That You Provide to Us?   
+How Do We Use the Information That You Provide to Us?  
 Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable.
 
 Sharing Information with Affiliates  
@@ -50,23 +50,23 @@ We may enter into strategic marketing alliances or partnerships with third parti
 
 In connection with strategic marketing alliances or partnerships, we will retain all ownership rights to the information.
 
-Notice of New Services and Changes   
+Notice of New Services and Changes  
 Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our client, you will be given the opportunity to notify us of your desire not to receive these offers by clicking on a response box when you receive such an offer or by clicking on the Contact button on our website and sending us a message.
 
-Links to Other Sites   
+Links to Other Sites  
 Any site outside of ours we have no control over. Please be aware of this when clicking on links in the newsletter or any forum.
 
 How Do We Secure Information Transmissions? When you send confidential personal credit card information to us on our Web site, a secure server software encrypts all information you input before it is sent to us. The information is scrambled en route and decoded once it reaches our Web site. Other email that you may send to us may not be secure unless we advise you that security measures will be in place prior to your transmitting the information. For that reason, we ask that you do not send confidential information such as Social Security or account numbers to us through an unsecured email.
 
 How Do We Protect Your Information?
 
-Information Security.    
+Information Security.   
 We utilize encryption/security software to safeguard the confidentiality of personal information we collect from unauthorized access or disclosure and accidental loss, alteration or destruction.
 
-Evaluation of Information Protection Practices.   
+Evaluation of Information Protection Practices.  
 Periodically, our operations and business practices are reviewed for compliance with corporate policies and procedures governing the security, confidentiality and quality of our information.
 
-Employee Access, Training and Expectations.   
+Employee Access, Training and Expectations.  
 Our corporate values, ethical standards, policies and practices are committed to the protection of customer information. In general, our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons, processes and transactions.
 
 How Can You Access and Correct Your Information?  
@@ -77,6 +77,6 @@ We may provide aggregate information about our customers, sales, Web site traffi
 
 What About Legally Compelled Disclosure of Information? We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.
 
-Your consent and changes to the Privacy Policy   
+Your consent and changes to the Privacy Policy  
 By using the our web sites , you consent to the collection and use of your information as we have outlined in this policy and to our Terms of Use Policy. We may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page.  
  
