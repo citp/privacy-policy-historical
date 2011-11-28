@@ -1,0 +1,356 @@
+<!--The following is the downloaded HTML source of the neusoft.com privacy policy that was archived on 2011-11-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111128234538id_/http%3A//www.neusoft.com/1205/index.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Neusoft - Privacy Statement</title>
+<link href="http://www.neusoft.com/newstyle/css/style.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://www.neusoft.com/js/cookie.js"></script>
+<script type="text/javascript" src="http://www.neusoft.com/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="http://www.neusoft.com/newstyle/js/select.js"></script>
+<script type="text/javascript"> 
+      <!--
+var language = "";
+if (GetCookie("autolanguage") != null && GetCookie("autolanguage") != "" && GetCookie("autolanguage")!="en")
+{
+	location.href = "http://www.neusoft.com/" + GetCookie("autolanguage");
+}
+else if ( GetCookie("autolanguage")!="en")
+{
+ }
+(function($){
+$.fn.extend({
+        Scroll:function(opt,callback){
+                //参数初始化
+                if(!opt) var opt={
+};
+                var _btnUp = $("#"+ opt.up);//Shawphy:向上按钮
+                var _btnDown = $("#"+ opt.down);//Shawphy:向下按钮
+                var timerID;
+                var _this=this.eq(0).find("ul:first");
+                var     lineH=_this.find("li:first").height(), //获取行高
+                        line=opt.line?parseInt(opt.line,10):parseInt(this.height()/lineH,10), //每次滚动的行数，默认为一屏，即父容器高度
+                        speed=opt.speed?parseInt(opt.speed,10):1000; //卷动速度，数值越大，速度越慢（毫秒）
+                        timer=opt.timer //?parseInt(opt.timer,10):3000; //滚动的时间间隔（毫秒）
+                if(line==0) line=1;
+                var upHeight=0-line*lineH;
+                //滚动函数
+                var scrollUp=function(){
+                        _btnUp.unbind("click",scrollUp); //Shawphy:取消向上按钮的函数绑定
+                        _this.animate({
+                                marginTop:upHeight
+                        },speed,function(){
+                                for(i=1;i<=line;i++){
+                                        _this.find("li:first").appendTo(_this);
+                                }
+                                _this.css({marginTop:0});
+                                _btnUp.bind("click",scrollUp); //Shawphy:绑定向上按钮的点击事件
+                        });
+ 
+                }
+                //Shawphy:向下翻页函数
+                var scrollDown=function(){
+                        _btnDown.unbind("click",scrollDown);
+                        for(i=1;i<=line;i++){
+                                _this.find("li:last").show().prependTo(_this);
+                        }
+                        _this.css({marginTop:upHeight});
+                        _this.animate({
+                                marginTop:0
+                        },speed,function(){
+                                _btnDown.bind("click",scrollDown);
+                        });
+                }
+               //Shawphy:自动播放
+                var autoPlay = function(){
+                        if(timer)timerID = window.setInterval(scrollUp,timer);
+                };
+                var autoStop = function(){
+                        if(timer)window.clearInterval(timerID);
+                };
+                 //鼠标事件绑定
+                _this.hover(autoStop,autoPlay).mouseout();
+                _btnUp.css("cursor","pointer").click( scrollUp ).hover(autoStop,autoPlay);//Shawphy:向上向下鼠标事件绑定
+                _btnDown.css("cursor","pointer").click( scrollDown ).hover(autoStop,autoPlay);
+ 
+        }      
+})
+})(jQuery);
+ 
+$(document).ready(function(){
+        $("#new_l_title").Scroll({line:1,speed:1000,timer:5000,up:"btn1",down:"btn2"});
+		
+});
+//-->
+</script>
+<script type="text/javascript"> 
+<!--
+/*标签页滑动*/
+function setTab(m,n,p){
+var tli=document.getElementById("menu"+m).getElementsByTagName("li");
+var mli=document.getElementById("main"+m).getElementsByTagName("ul");
+for(i=0;i<tli.length;i++){
+   tli[i].className=i==p?"hover":"";
+   mli[i].style.display=i==p?"block":"none";
+}
+}
+ 
+function gourl(url){
+	var language = "";
+	if (navigator.appName == "Netscape") 
+		language = navigator.language; 
+	else 
+		language = window.navigator.userLanguage;
+	var savelanguage = 0;
+	var islocaldomain = 0;
+	if (language.toLowerCase().indexOf('zh-cn') > -1 && url == "cn")
+	{
+		islocaldomain = 1;
+	}else if ((language.toLowerCase().indexOf('en-us') > -1 || language.toLowerCase().indexOf('en-gb') > -1) && url == "en")
+	{
+		islocaldomain = 1;
+	}else if (language.toLowerCase().indexOf('de') > -1 && url == "de")
+	{
+		islocaldomain = 1;
+	}else if (language.toLowerCase().indexOf('ja') > -1 && url == "jp")
+	{
+		islocaldomain = 1;
+	}
+	if (document.getElementById("savelanguage").checked == true)
+	{
+		savelanguage = 1;
+	}
+	if (islocaldomain == 1 && savelanguage == 1)
+	{
+		SetCookie('autolanguage',url,365*24*3600,'/','neusoft.com');
+		DelCookie("autolanguage");
+	}else if (islocaldomain == 0 && savelanguage == 1)
+	{
+		SetCookie('autolanguage',url,365*24*3600,'/','neusoft.com');
+	}else if (islocaldomain == 1 && savelanguage == 0)
+	{
+		SetCookie('autolanguage',url,365*24*3600,'/','neusoft.com');
+		DelCookie("autolanguage");
+	}else if(islocaldomain == 0 && savelanguage == 0)
+	{
+		SetCookie('autolanguage',url,null,'/','neusoft.com');
+	}
+	if (url == "en")
+	{
+		self.location = "http://www.neusoft.com";
+	}else{
+		self.location = "http://www.neusoft.com/" + url;
+	}
+}
+//-->
+</script>
+</head>
+<body><div id="wrapper"> <div id="header">
+  <div class="header_top"> <a href="http://www.neusoft.com" title="Neusoft"><img src="http://www.neusoft.com/images/logo.gif" class="logo" alt="Neusoft"></a>
+    <div class="header_top_right">
+      <div class="header_top_menu"> <a href="http://www.neusoft.com/about/index.html">About</a>| <a href="http://www.neusoft.com/contact/index.html">Contact</a>| <a href="http://www.neusoft.com/career/index.html">Careers</a>| <a href="http://www.neusoft.com/investor/">Investors</a>| <a href="http://www.neusoft.com/news/index.jsp?type=1180">Media</a> </div>
+      <div class="language_sel">
+        <ul>
+          <li> <a href="http://www.neusoft.com/" id="btn_language" class="button">Worldwide</a>
+            <div class="language_down">
+              <dl>
+                <dt>
+                  <input id="savelanguage" type="checkbox" name="savelanguage">
+                  Remember my choice</dt>
+                <dd><a onclick="gourl('en');" href="#"><b>Global / English</b></a></dd>
+                <dd><a onclick="gourl('cn');" href="#">China / 简体中文</a></dd>
+                <dd><a onclick="gourl('jp');" href="#">Japan / 日本語</a> </dd>
+                <dd><a onclick="gourl('de');" href="#">Germany / Deutschland</a></dd>
+              </dl>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div id="search">
+        <form method="post" name="srchform" action="http://www.neusoft.com/searchresult.jsp">
+          <input onblur="if(value=='') {value='Search'}" id="search_txt" onfocus="if(value=='Search') {value=''}" value="Search" name="keywords">
+          <input id="search_button" src="http://www.neusoft.com/images/search.gif" type="image">
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+      <div class="fen_nav">
+  <ul class="nav">
+    <li><a href="http://www.neusoft.com/index.html" class="menu_button">Home</a></li>
+    <li><a href="http://www.neusoft.com/solutions/" class="menu_button">Solutions</a> <div class="downmenu dmwidth1">
+  <div class="solutions">
+    <h2><a href="http://www.neusoft.com/solutions/">Neusoft Solutions Overview</a></h2>
+    <h3><a href="http://www.neusoft.com/solutions/1207/">Industry Solutions</a></h3>
+    <div class="solutions_list">
+      <ul class="solutions_left">
+        <li><a href="http://www.neusoft.com/solutions/1389/">Telecom</a></li>
+        <li><a href="http://www.neusoft.com/solutions/1170/">Energy</a></li>
+        <li><a href="http://www.neusoft.com/solutions/1169/">FSI</a></li>
+      </ul>
+      <ul class="solutions_mid">
+        <li><a href="http://www.neusoft.com/solutions/1451/">Government</a></li>
+        <li><a href="http://www.neusoft.com/solutions/1483/">Manufacturing</a></li>
+        <li><a href="http://www.neusoft.com/solutions/1168/">Trade Logistics</a></li>
+      </ul>
+      <ul class="solutions_right">
+        <li><a href="http://www.neusoft.com/solutions/1167/">Healthcare</a></li>
+        <li><a href="http://www.neusoft.com/solutions/1166/">Education</a></li>
+        <li><a href="http://www.neusoft.com/solutions/1165/">Transportation</a></li>
+      </ul>
+      <div class="clear"></div>
+    </div>
+    <h3><a href="http://www.neusoft.com/solutions/1188/">Product Engineering Solutions</a></h3>
+    <div class="solutions_list">
+      <ul class="solutions_left">
+        <li><a href="http://www.neusoft.com/solutions/1220/">Automotive Electronics</a></li>
+        <li><a href="http://www.neusoft.com/solutions/1219/">Mobile Terminals</a></li>
+        <li><a href="http://www.neusoft.com/solutions/1218/">Digital Home Products</a></li>
+      </ul>
+      <ul class="solutions_mid">
+        <li><a href="http://www.neusoft.com/solutions/1221/">IT Products</a></li>
+        <li><a href="http://www.neusoft.com/solutions/1463/">Broadcasting &amp; Cinema</a></li>
+        <li><a href="http://www.neusoft.com/solutions/1464/">Retail Electronics</a></li>
+      </ul>
+      <ul class="solutions_right">
+        <li><a href="http://www.neusoft.com/solutions/1465/">Industrial Control</a></li>
+        <li><a href="http://www.neusoft.com/solutions/1358/">Medical Products</a></li>
+        <li><a href="http://www.neusoft.com/solutions/1339/">Network Security Appliances</a></li>
+      </ul>
+      <div class="clear"></div>
+    </div>
+  </div>
+</div>
+ </li>
+    <li><a href="http://www.neusoft.com/products&amp;platform/index.html" class="menu_button">Products &amp; Platform</a> <div class="downmenu dmwidth2">
+  <div class="product">
+    <h2><a href="http://www.neusoft.com/products&amp;platform/index.html">Neusoft Products &amp; Platform Overview</a></h2>
+    <div class="product_list">
+      <ul class="product_left">
+        <li><a href="http://www.neusoft.com/products&amp;platform/1337/">TalentBase</a></li>
+        <li><a href="http://www.neusoft.com/products&amp;platform/1254/">SkillBase</a></li>
+        <li><a href="http://www.neusoft.com/products&amp;platform/1336/">Group Financial Management &amp; Control Systems</a></li>
+        <li><a href="http://www.neusoft.com/products&amp;platform/1322/">Customer Relationship Management</a></li>
+        <li><a href="http://www.neusoft.com/products&amp;platform/1346/">Enterprise Asset Management</a></li>
+        <li><a href="http://www.neusoft.com/products&amp;platform/1443/">SEAS</a></li>
+        <li><a href="http://www.neusoft.com/products&amp;platform/1425/">Business Process Content Management</a></li>
+        <li><a href="http://www.neusoft.com/products&amp;platform/1323/">UniOffice</a></li>
+      </ul>
+      <ul class="product_right">
+        <li><a href="http://www.neusoft.com/products&amp;platform/1449/index.html">PACS/RIS</a></li>
+        <li><a href="http://www.neusoft.com/products&amp;platform/1376/">BW (Image Review Workstation Series)</a></li>
+        <li><a href="http://www.neusoft.com/products&amp;platform/1426/">Digital Signage Network /System</a></li>
+        <li><a href="http://www.neusoft.com/products&amp;platform/1338/">NetEye Security Operations Center</a></li>
+        <li><a href="http://www.neusoft.com/products&amp;platform/1325/">NetPatrol</a></li>
+        <li><a href="http://www.neusoft.com/products&amp;platform/1441/index.html">Aclome™</a></li>
+        <li><a href="http://www.neusoft.com/products&amp;platform/1252/">UniEAP™</a></li>
+        <li><a href="http://www.neusoft.com/products&amp;platform/1427/">OpenBASE</a></li>
+      </ul>
+      <div class="clear"></div>
+    </div>
+  </div>
+</div> </li>
+    <li><a href="http://www.neusoft.com/services/" class="menu_button">Services</a> <div class="downmenu dmwidth3">
+  <div class="service">
+    <h2><a href="http://www.neusoft.com/services/index.html">Neusoft Services Overview</a></h2>
+    <div class="service_left">
+      <h3><a href="http://www.neusoft.com/services/1445/">Engineering Services</a></h3>
+      <ul>
+        <li><a href="http://www.neusoft.com/services/1217/">Application Development and Maintenance</a></li>
+        <li><a href="http://www.neusoft.com/services/1222/">ERP Consulting and Implementation</a></li>
+        <li><a href="http://www.neusoft.com/services/1223/">IT Infrastructure Services</a></li>
+        <li><a href="http://www.neusoft.com/services/1305/">Software Globalization &amp; Localization</a></li>
+        <li><a href="http://www.neusoft.com/services/1224/">Professional Testing &amp; Performance Engineering</a></li>
+      </ul>
+    </div>
+    <div class="service_mid">
+      <h3><a href="http://www.neusoft.com/services/1446/">On-demand Services</a></h3>
+      <ul>
+        <li><a href="http://www.neusoft.com/services/1444/index.html">Telemedicine</a></li>
+        <li><a href="http://www.neusoft.com/services/1447/">Xikang</a></li>
+        <li><a href="http://www.neusoft.com/services/1448/index.html">Telematics</a></li>
+      </ul>
+      <h3><a href="http://www.neusoft.com/services/1197/">IT Education and Training</a></h3>
+    </div>
+    <div class="service_right">
+      <h3><a href="http://www.neusoft.com/services/1194/index.html">BPO</a></h3>
+      <ul>
+        <li><a href="http://www.neusoft.com/services/1214/">Contact Center</a></li>
+        <li><a href="http://www.neusoft.com/services/1213/">Finance &amp; Accounting Outsourcing</a></li>
+        <li><a href="http://www.neusoft.com/services/1212/">Human Resource Outsourcing</a></li>
+        <li><a href="http://www.neusoft.com/services/1215/">Web Content Management</a></li>
+        <li><a href="http://www.neusoft.com/services/1405/">IT Support Service</a></li>
+      </ul>
+    </div>
+    <div class="clear"></div>
+  </div>
+</div>
+ </li>
+  </ul>
+</div>
+<script type="text/javascript">  
+	<!--
+  /*dropdown menu*/
+(function($){
+
+	$(".fen_nav>ul>li").mouseover(function(){$(this).css("position","relative");$(this).find(".downmenu").show();})
+	$(".fen_nav>ul>li").mouseleave(function(event){$(this).css("position","static");$(this).find(".downmenu").hide();event.stopPropagation();})
+	$(".language_sel>ul>li").mouseover(function(){$(this).css("position","relative");$(this).find(".language_down").show();})
+	$(".language_sel>ul>li").mouseleave(function(event){$(this).css("position","static");$(this).find(".language_down").hide();event.stopPropagation();})
+	
+})(jQuery);
+
+//-->
+</script>
+
+  <div id="crumb"> <ul><li><a href="/">Home</a></li><li class="arrow"><a href="http://www.neusoft.com/1205/">Privacy</a></li></ul> </div>
+  <div id="wra_content">
+    <div class="lay_left">
+      <div class="left_nav">
+        <div class="blue_title">
+          <h2><a href="http://www.neusoft.com/contact" class="white">Contact Us</a></h2>
+        </div>
+        <div class="left_nav_list">
+          <ul>
+            <li><a href="http://www.neusoft.com/contact/1415/" class="hui1">Business Inquiry</a></li>
+            <li><a href="http://www.neusoft.com/contact/1500/" class="hui1">After-sale Service</a></li>
+            <li><a href="http://www.neusoft.com/contact/1419/" class="hui1">Career Inquiry</a></li>
+            <li><a href="http://www.neusoft.com/contact/1414/" class="hui1">Investor Inquiry</a></li>
+            <li><a href="http://www.neusoft.com/contact/1420/" class="hui1">Media Inquiry</a></li>
+            <li><a href="http://www.neusoft.com/contact/1413/" class="hui1">Ads and Media Sales</a></li>
+            <li><a href="http://www.neusoft.com/contact/1416/" class="hui1">Other Inquiries</a></li>
+          </ul>
+        </div>
+        <div class="left_nav_b"></div>
+      </div>
+    </div>
+    <div class="lay_right">
+      <div class="right_title">
+        <h2>Privacy Statement</h2>
+      </div>
+      <div class="right_content"> <p><strong>Statement:</strong> Neusoft  Corporation (Neusoft) is committed to respecting and protecting your privacy. This  Privacy Statement explains data collection and use practices of Neusoft.com  (hereinafter called the Site). By accessing the Site, you are consenting to the  information collection and use practices described in this Privacy Statement.</p><p><br>  <strong>1.  Personal Information </strong><br>  Personal  information is information that can be used to identify specific persons (for  example, names, birth dates, personal ID card numbers, addresses, telephone  numbers, E-mail addresses, occupations, education, work experience and related  information). In general, you can visit us on the internet without telling us  who you are or giving us personal information. However, in order to improve our  service quality, it may be necessary to ask for personal information to fulfill  your requests and provide  better  service. Neusoft is entitled to take measures to validate the authenticity of  personal information you provide. If you give us personal information from  somebody else, we will assume that you have their permission to do so. Neusoft  is committed to not  disclosing your  personal information to any third party other than Neusoft and its affiliates  unless it’s your own willl. <br>  <br>  <strong>2.  Collection of Your Personal Information </strong><br>  We will ask you  when we need your personal information to provide a service or carry out a  transaction that you have requested, such as receiving information about Neusoft  products and services, joining a limited-access premium site, signing up for an  event or training, or when purchasing, downloading and/or registering Neusoft  products, customer satisfaction surveys, market research and promotion, job  employment, legal compulsory regulations and so on.<br>  <br>  <strong>3.  Use of Your Personal Information </strong><br>  Any personal  information you provide is used and shared by, and among, Neusoft and its  affiliates only. The use of your personal information is only for us to  understand your requests and to provide  better service and transaction. It may be  convenient for us to provide you with service and contact you by using your  personal information.<br>  <br>  <strong>4.  Security of Your Personal Information </strong><br>  We are committed  to protecting the security of your personal information. We use a variety of  security technologies and procedures to help protect your personal information  from unauthorized access, use, or disclosure. <br>  <br>  <strong>5.  Protection of Minors’ Personal Information </strong><br>  Neusoft.com does  not knowingly collect any personal information from minors. The personal  information of any minor you provide shall be agreed by the minor’s guardian in  advance. Minor is defined in accordance with the laws applicable to the Privacy  Statement.<br>  <br>  <strong>6.  Use of Cookies </strong><br>  Neusoft may save  some information as cookies into your computer when you are visiting the Site.  A cookie is a small text file that is placed on your hard disk by a web page  server. Cookies cannot be used to run programs or deliver viruses to your  computer. The purpose of cookies is to provide a convenience feature to save  you time. That we use such technology does not imply that we can automatically  acquire any personal information about you. Neusoft.com may also use Web Beacon  technology or other technology to regulate the site and to provide  better service. You have the ability to accept  or decline cookies.<br>  <br>  <strong>7.  Links to Other Sites </strong><br>  Neusoft.com may  contain links to other web sites. We are not responsible for the Privacy  Statement or the content of other web sites.<br>  <br>  <strong>8.  Legal Disclosure </strong><br>  You have  acknowledged that the Site does not make responsibility for possible legal  disclosure of your personal information without your consent in advance in  accordance with the compulsory provisions of law.<br>  <br>  <strong>9.  Changes to This Privacy Statement </strong><br>  Neusoft reserves  the right to modify and interpret this Privacy Statement. We may update and  publicize this Privacy Statement from time to time. Any update shall come into effect  from the date of publication. Please visit the Site regularly to keep appraised  of updated content.<br>  <br>  <strong>10. </strong>This Privacy Statement or any behavior relating to the use of this Site shall  be governed by the laws of People's Republic of China. Any dispute arising therefrom  shall be settled through friendly negotiations. Should no settlement be reached  through negotiation, you agree that the case shall be submitted for arbitration  to the People’s Court where the principal business address of Neusoft is  located. <br>  <br>  <strong>11.  Contact Information </strong><br>  If you have any  question or suggestions, you may contact Neusoft. We will then do our utmost to  resolve it.</p><p>&nbsp;</p><p>Updated: Nov. 9,  2005</p><p>&nbsp;</p><script src="http://www.neusoft.com/news/add_click.jsp?Nid=459" type="text/javascript"></script> </div>
+    </div>
+    <div class=" clear"></div>
+  </div>
+  <div id="footer">
+  <div class="footer_top">
+    <div class="footer_nav"> <a href="http://www.neusoft.com/sitemap/index.html">Site map</a> | <a href="http://www.neusoft.com/1206/index.html">Terms of use</a> | <a href="http://www.neusoft.com/1205/index.html">Privacy</a> | <a href="http://www.neusoft.com/feedback/index.html">Feedback</a> </div>
+    <div class="copyright">Copyright © 2001-2011 Neusoft Corporation </div>
+  </div>
+  <div class="page_tool"> Page Tools&nbsp;
+      <img src="http://www.neusoft.com/images/print.gif" onclick="javascript:window.print()" style=" cursor:pointer" alt="Print">
+      &nbsp;
+      <img src="http://www.neusoft.com/images/email.gif" onclick="javascript:self.location='mailto:?body='+location.href;" style=" cursor:pointer" alt="E-mail">
+  </div>
+  <div class="clear"></div>
+</div>
+<div class="cnzz">
+  <script src="http://s85.cnzz.com/stat.php?id=1477208&amp;web_id=1477208" language="JavaScript" type="text/javascript"></script>
+</div>
+
+  <div class=" clear"></div>
+</div>
+
+
+
+</body></html>
