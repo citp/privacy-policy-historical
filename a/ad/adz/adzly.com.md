@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adzly.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529123213id_/http%3A//adzly.com%3Fa%3Dabout.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adzly.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128053645id_/http%3A//www.adzly.com%3Fa%3Dabout.privacy) for the most accurate reproduction.*
 
 # adzly - A Powerful FREE Marketing Tool!
 
