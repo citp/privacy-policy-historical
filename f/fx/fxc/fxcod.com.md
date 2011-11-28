@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxcod.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530165142id_/http%3A//fxcod.com/%3Fa%3Dcust%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxcod.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128055216id_/http%3A//www.fxcod.com/%3Fa%3Dcust%26page%3Dprivacy) for the most accurate reproduction.*
 
 # .::Forex Cod::.
 
