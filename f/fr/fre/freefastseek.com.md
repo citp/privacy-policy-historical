@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freefastseek.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525014250id_/http%3A//freefastseek.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefastseek.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128085037id_/http%3A//freefastseek.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Freefastseek.com- Privacy Policy
 
