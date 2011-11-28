@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sdlookup.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601133200id_/http%3A//www.sdlookup.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdlookup.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128023218id_/http%3A//www.sdlookup.com/tabid/36/ctl/Privacy) for the most accurate reproduction.*
 
-# SDLookup.com > Home
+# SDLookup.com | San Diego Real Estate & Homes for Sale
 
 SDLookup.com is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the SDLookup.com Web site and governs data collection and usage. By using the SDLookup.com website, you consent to the data practices described in this statement.
 
