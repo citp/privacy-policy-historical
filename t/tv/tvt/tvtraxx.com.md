@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tvtraxx.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530165047id_/http%3A//www.tvtraxx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvtraxx.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128122032id_/http%3A//www.tvtraxx.com/privacy) for the most accurate reproduction.*
 
-# TV Traxx » Privacy Policy
+# Privacy | TVTraxx
 
 This Privacy Policy applies only to information we collect about you at [www.tvtraxx.com](http://www.tvtraxx.com/ "TV Traxx")(the “Website”) and how we use this information.
 
@@ -57,4 +57,4 @@ Changes to this Privacy Policy and Additional Information
 
 We may update this Privacy Policy from time to time, and so you should review this Policy periodically. If there are significant changes to TV Traxx’s information practices, you will be provided with appropriate online notice. You may be provided other privacy-related information in connection with your use of offerings from TV Traxx, as well as for special features and services not described in this Policy that may be introduced in the future.
 
-Last Updated:25 December 2010 
+Last Updated:25 December 2010
