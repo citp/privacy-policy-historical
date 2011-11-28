@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babybunting.com.au privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627201041id_/http%3A//www.babybunting.com.au/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babybunting.com.au privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128232707id_/http%3A//www.babybunting.com.au/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
