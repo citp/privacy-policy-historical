@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nokia.com.my privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626214757id_/http%3A//www.nokia.com.my/about-nokia/privacy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokia.com.my privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128035302id_/http%3A//www.nokia.com.my/about-nokia/privacy/privacy-policy) for the most accurate reproduction.*
 
 # Nokia Malaysia - Privacy Policy - Privacy - About Nokia
 
