@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the zingerbug.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101204723id_/http%3A//www.zingerbug.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zingerbug.com privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128094054id_/http%3A//www.zingerbug.com/privacy.htm) for the most accurate reproduction.*
 
 # ZingerBug.com Privacy Policy
 
 |   
 ---  
-|   
+|  [ ](http://www.zingerbug.com/index.html)  
+---  
   
 ##### MySpace Comments, glitter graphics, backgrounds, cursors, animated text, 3D images, photos, jokes, funny pictures & cool stuff to post on your profile, blog or website!  
   
@@ -26,7 +27,7 @@ Popular Links Horizontal Menu
 
 Upcoming Holidays Horizontal Menu
 
-_**Upcoming Holidays**_     [Winter](http://www.zingerbug.com/holidays/winter/index.htm)    [ Christmas - 12/25](http://www.zingerbug.com/holidays/christmas/index.htm)     [ Kwanzaa - 12/26-1/1](http://www.zingerbug.com/holidays/index_pages/kwanzaa_page1.htm)     [New Year - 1/1](http://www.zingerbug.com/holidays/NewYear/index.htm)     [ MLK  Day - 1/19](http://www.zingerbug.com/holidays/MLKDay/index.htm)     [ Valentine's Day - 2/14](http://www.zingerbug.com/holidays/valentines/index.htm)  
+_**Upcoming Holidays**_     [ Veterans Day - 11/11](http://www.zingerbug.com/holidays/veterans/index.htm)   [ Thanksgiving - 11/24](http://www.zingerbug.com/holidays/thanksgiving/index.htm)   [ Winter](http://www.zingerbug.com/holidays/winter/index.htm)   [Hanukkah - 12/20-12/28](http://www.zingerbug.com/holidays/Hanukkah/index.htm)   [Christmas - 12/25](http://www.zingerbug.com/holidays/christmas/index.htm)   [ Kwanzaa - 12/26-1/1](http://www.zingerbug.com/holidays/index_pages/kwanzaa_page1.htm)  
   
 Bookmark Us! (Ctrl+D)  Top Menu
 
@@ -70,7 +71,7 @@ ZingerBug.com does not collect any personal information from any user, so we do 
 
 **Who should I contact if I have any questions about your Privacy Policy or anything else related to your website?**
 
-You may email us anytime at: WebMaster@ZingerBug.com, and one of our dedicated staff members will respond to you as soon as possible (usually within 24 hours).  
+You may email us anytime by using our secure [contact form](http://www.zingerbug.com/contact/ZingerBugContact.php), and one of our dedicated staff members will respond to you as soon as possible (usually within 24 hours).  
   
 _
 
