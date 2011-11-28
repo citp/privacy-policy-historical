@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorado.edu privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624230114id_/http%3A//colorado.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorado.edu privacy policy that was archived on 2011-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111128024449id_/http%3A//www.colorado.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | CU-Boulder
 
