@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hondafinancialservices.com privacy policy that was archived on 2011-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110312054105id_/https%3A//www.hondafinancialservices.com/site/site_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hondafinancialservices.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129034348id_/http%3A//www.hondafinancialservices.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Honda Financial Services Privacy Policy
+# Honda Auto Leasing and Financing - Privacy Policy
 
 Information sharing
 
@@ -22,9 +22,9 @@ Use of cookies
 
 A "cookie" is a small text file or text identifier placed on your computer to assist us in providing customized services.  We use cookies to provide you with a convenience feature to save you time and provide a more personalized experience on our site.  For example, you may log on once during a visit and will be able to access multiple servers without having to log on again and again.  We also use the information for internal research on our user's demographics, interests, and behavior to better understand our visitor's preferences.  We may use cookies provided by ClearTrust, BrowserHawk, Capricorn Encryption, and WebTrends e-commerce software.  You have the ability to accept or decline cookies.  Some portions of our Web sites, such as Owner Link/My Acura, however, require the use of cookies for proper function.
 
-Use of web beacons
+Advertising Campaigns
 
-A couple of our sites, such as Automobiles.Honda.com and Owner Link/My Acura, use web beacons also called single pixel gifs.  Their use helps us determine the effectiveness of our advertising campaigns.  Certain gif files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to http://www.doubleclick.net/us/corporate/privacy.  In short, web beacons collect only a limited amount of information including cookies and time and date of viewing and do not contain personally identifiable information.  
+Some of our sites, such as Automobiles.Honda.com and Owner Link/My Acura, use web beacons also called single pixel gifs. Their use helps us determine the effectiveness of our advertising campaigns. Certain gif files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to http://www.doubleclick.net/us/corporate/privacy. In short, web beacons collect only a limited amount of information including cookies and time and date of viewing and do not contain personally identifiable information. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by going to: http://preferences.truste.com/preference.html?affiliateId=99. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 Information use
 
