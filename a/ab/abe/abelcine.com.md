@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abelcine.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610202430id_/http%3A//www.abelcine.com/store/Privacy-and-Security-Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abelcine.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129135141id_/http%3A//www.abelcine.com/store/Privacy-and-Security-Statement) for the most accurate reproduction.*
 
 # AbelCine - Film, HD, Cameras, Optics, Digital Media - Sales, Rental, Services, Training
 
