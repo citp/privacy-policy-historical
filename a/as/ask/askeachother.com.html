@@ -1,0 +1,1542 @@
+<!--The following is the downloaded HTML source of the askeachother.com privacy policy that was archived on 2011-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111129184712id_/http%3A//www.askeachother.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html><head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+<meta name="keywords" content="">  
+  <meta name="description" content="">
+  
+    <title>Privacy Policy | AskEachOther.com</title>
+     
+  <link rel="shortcut icon" href="http://www.askeachother.com/favicon.ico">
+  <link href="http://www.askeachother.com/templates/style.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="http://www.askeachother.com/templates/tipsy.css" media="screen" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="http://www.askeachother.com/templates/tipsy-docs.css" type="text/css">
+  <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.askeachother.comtemplates/js/jquery.tipsy.js"></script>
+  
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    
+  <link href="http://www.askeachother.com/css/bar.css" media="screen" rel="stylesheet" type="text/css">
+  
+    <!--[if gte IE 7]>
+  <link href="http://www.askeachother.com/templates/ie7up_style.css" media="screen" rel="stylesheet" type="text/css"/>
+  <![endif]-->
+  
+  <!--[if lte IE 6]>
+  <link href="http://www.askeachother.com/templates/ie6_style.css" media="screen" rel="stylesheet" type="text/css"/>
+  
+ <script type="text/javascript" src="http://www.askeachother.com/templates/iepngfix/DD_belatedPNG_0.0.8a.js"></script>
+ <script>
+  DD_belatedPNG.fix('#wrapper');
+  DD_belatedPNG.fix('#htl img');
+  DD_belatedPNG.fix('.right img');
+</script>
+ 
+  <![endif]-->
+  
+  
+  <meta name="blogcatalog" content="9BC9673290">
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+  <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
+  <script type="text/javascript" src="http://www.askeachother.com/templates/js/jquery/jquery.jixedbar.min.js"></script>
+  <script type="text/javascript" src="http://www.askeachother.com/templates/js/jquery/cookie.js"></script>
+  <script type="text/javascript">
+  
+
+  	function centerQuestionOptions() {
+  		var holders = $(".feat-img-holder").each(function() {
+			var width = $(this).width();
+			$(this).css("float", "none");
+			$(this).css("width", width+'px');
+		});
+  	}
+  	
+
+	$(document).ready(function() {
+		$("#vip").colorbox({ inline:true, href:"#test-content"});
+
+		
+		jQuery.ajax({
+			url: "/ajax/count.php"
+		});
+
+		centerQuestionOptions();
+
+		$("#askeachother-bar").jixedbar();
+	}); 
+	
+	
+var state_question= 'none';
+
+	function show_question(layer_ref) {
+
+if (state_question == 'none') {
+
+state = 'block';
+}
+
+if (document.all) { //IS IE 4 or 5 (or 6 beta)
+eval( "document.all." + layer_ref + ".style.display = state");
+}
+if (document.layers) { //IS NETSCAPE 4 or below
+document.layers[layer_ref].display = state;
+}
+if (document.getElementById &&!document.all) {
+hza = document.getElementById(layer_ref);
+hza.style.display = state;
+}
+}
+
+function formatNumber(num,dec,thou,pnt,curr1,curr2,n1,n2) {
+var x = Math.round(num * Math.pow(10,dec));	if (x >= 0) n1=n2='';var y = (''+Math.abs(x)).split('');var z = y.length - dec; 
+if (z<0) z--;for(var i = z; i < 0; i++) y.unshift('0');	if (z<0) z = 1;	y.splice(z, 0, pnt); if(y[0] == pnt) y.unshift('0');	
+while (z > 3) {	z-=3; y.splice(z,0,thou);} var r = curr1+n1+y.join('')+n2+curr2; return r;}
+
+function setCookie(c_name,value,exdays)
+{
+	var exdate=new Date();
+	exdate.setDate(exdate.getDate() + exdays);
+	var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+	document.cookie=c_name + "=" + c_value + ' path='+false;
+}
+
+function getCookie(c_name)
+{
+	var i,x,y,ARRcookies=document.cookie.split(";");
+	for (i=0;i<ARRcookies.length;i++)
+	{
+		x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+		y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+		x=x.replace(/^\s+|\s+$/g,"");
+		if (x==c_name)
+		{
+			return unescape(y);
+		}
+		else
+		{
+			return 0;
+		}
+	}
+}
+
+function del_cookie(name)
+{
+	document.cookie = name + '=; expires=Thu, 01-Jan-70 00:00:01 GMT;';
+}
+
+
+	
+
+
+$(document).ready(function(){
+	if (getCookie('refer') == false) {
+		setCookie('refer', document.referrer, 60);
+	}
+});
+$.cookie('the_cookie', '', { expires: -1, path: '/', domain: 'askeachother.com', secure: true });
+
+function countSec() {
+
+	var val = parseInt($('#displayCounter_Hidd').val());
+	val++;
+	
+	var totPoints =  val;
+	
+	var formattedtotPoints = formatNumber(totPoints,0,',','','','','-','');
+	
+	$('#displayCounter').html(formatNumber(val,0,',','','','','-',''));
+	$('#displayCounter_Hidd').val(val);
+	
+	setTimeout("countSec()", 1000 );
+}
+
+
+
+  </script>
+
+	
+
+	
+
+	
+
+  <script type="text/javascript">
+	var site_url = 'http://www.askeachother.com';
+			$(document).ready(function(){
+			var hb = [];var hbi = 0; var t; var rotateSpeed = 5000;
+
+			var rotate = function(){
+				$('#logobanner').fadeOut('fast',function(){
+					$('#logobanner a').attr('href',hb[hbi].url);
+					$('#logobanner a img').attr('src','http://www.askeachother.com/images/banners/'+hb[hbi].img);
+					$(this).fadeIn('fast');
+				});
+
+				if (hbi == hb.length-1) hbi = 0;
+				else hbi++;
+				t = setTimeout(function(){rotate();},rotateSpeed);
+			};
+
+							hb[0] = eval("({'url':'http://www.askeachother.com','img':'2010-12-02-3012913_img37.jpg'})");
+			
+			t = setTimeout(function(){rotate();},rotateSpeed);
+
+			// Stop rotation on hover
+			$('#logobanner a img').hover(function(){
+				clearTimeout(t);
+			},function(){
+				t = setTimeout(function(){rotate();},rotateSpeed);
+			});
+
+		});
+	
+<!--		
+
+	 -->
+  </script>
+
+  <!--<script type="text/javascript" src="http://www.askeachother.com/templates/js/main.js"></script>-->
+  <script defer="defer" type="text/javascript" src="http://www.askeachother.com/templates/js/modal.js"></script>
+  <script defer="defer" type="text/javascript" src="http://www.askeachother.com/templates/js/pic_preview.js"></script>  
+  <script defer="defer" type="text/javascript" src="http://www.askeachother.com/templates/js/zoom.js"></script>
+
+	
+
+<!--
+	-->
+
+
+    
+  
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-9810359-4']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  </script>
+   
+   
+ </head><!--                                              The Head Tag Ends Here                                                           -->
+
+ <body>
+  <input type="hidden" name="otherThanLoyalty_RewardsPoint" id="otherThanLoyalty_RewardsPoint" value="">
+				<input type="hidden" name="otherThanLoyalty_TotalPoint" id="otherThanLoyalty_TotalPoint" value="">
+ 				
+	   <div id="likebox" onmouseover="showLikeBox('last', this)" style="padding-bottom:0" onmouseout="hideLikeBox()"></div>
+ 
+<script type="text/javascript" src="http://www.lijit.com/blog_wijits?json=0&amp;id=trakr&amp;uri=http%3A%2F%2Fwww.lijit.com%2Fusers%2FAskEachOther&amp;js=1"></script>
+
+
+	<!-- Start Quantcast tag -->
+
+	<script type="text/javascript">
+	_qoptions={
+	qacct:"p-67MH1r4aXuBi-"
+	};
+	</script>
+	<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+	<noscript>
+	<img src="http://pixel.quantserve.com/pixel/p-67MH1r4aXuBi-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+	</noscript>
+	
+	<!-- End Quantcast tag -->
+
+<!-- Spark code was here -->
+
+
+<!--
+ -->
+
+  
+   <div style="background:#222 url(http://www.askeachother.com/templates/images/headerthumbstrans.png); border-bottom:0px solid #000; border-top:0px solid #7aaadc; width:100%; padding:3px 0 3px 0; position:fixed; height:42px; z-index:10;"><!-- 5d88b5 or darker 3e6996 or line 245991 current:4f79a5 most recent:376a8c new: 335691-->
+  	<div style="margin:0 auto; width:973px; height:43px;">
+		        <input type="hidden" name="displayCounter_Hidd" id="displayCounter_Hidd" value="500000">
+		
+		<div style="float:left;">
+			<a href="http://www.askeachother.com" title="AskEachOther.com - Home">
+		 	<img src="http://www.askeachother.com/images/aeo-logo-pblue.png" alt="AskEachOther.com - Home" style="border-bottom:0px solid #fff; margin-top:0px;"></a>
+		</div>
+        
+        
+         <div style="float:left; width:160px; height:26px; height:24px\9; margin-left:0px; background:#000 url(http://www.askeachother.com/images/home/counter_bgslice.png) repeat-x; padding-top:2px; padding-bottom:2px\9; text-align:center; margin-top:7px; color:#00FD1D; font-size:26px; font-size:24px\9; font-weight:normal;
+		box-shadow: 0 0px 0px #fff, 0 0px 0px #b4b4b4, inset 0 0px 0px rgba(128,128,128,0.5), inset 0 0px 0px rgba(128,128,128,0.8); border:1px solid #fff; -moz-border-radius: 6px; border-radius: 6px;" class="custom_font"><a href="/login?redirect=/"><img src="/images/addpoints_roll.png" alt="Save" align="left" style="padding:4px 0 0 5px; padding:4px 0 0 5px\9;" id="saveIcon" title="These could be YOUR Rewards points to use to buy cool stuff from the Store. Login or Join free now!" border="0"></a>
+		<span id="displayCounter" style="padding-bottom:3px;">Counting...</span>
+		<span style="color:#fff; font-size:11px; float:right; padding-top:13px; padding-right:3px;"><a href="/aeorewards" title="Loyalty Points - Click to learn more about all the cool stuff you can buy with these" style="color:#fff;">Pts</a></span>
+		</div>
+        
+        
+				
+		<div style="float:right; color:#fff; border:0px solid #fff; width:375px; height:43px; top:1px;">
+		<div style="float:right; color:#fff; font-size:10px; margin-right:5px; border:0px solid #333;">
+						
+			<form action="/login?redirect=/" method="post">
+				<div style="float:left; width:145px; margin-top:5px; margin-right:2px; color:#555;">
+						<input tabindex="1" class="login_input" name="username" value="Email" onclick="if (this.value == 'Email') { this.value = ''; }" style="background:#f1f1f1; color:#5d88b5;"><br>
+						<input style="float:left; width:15px; margin-top:2px;" type="checkbox" id="remember" name="remember">
+						<label style="display:block; padding-top:2px; color:#ccc;" for="remember">Remember me | <a href="http://www.askeachother.com/register" style="color:#fff;" title="Join free now">Join free</a></label> 
+				</div>
+				<div style="float:left; width:145px; margin-top:5px; margin-right:2px;">
+					<input tabindex="2" class="login_input" type="password" name="password" onclick="if (this.value == 'Password') { this.value = ''; }" value="Password" style="background:#f1f1f1; color:#5d88b5;">
+					<a href="http://www.askeachother.com/password/lost/" title="Forgot your password?" style="display:block; padding-top:2px; color:#f77011; font-weight:normal;" rel="nofollow">forgot password?</a>
+				</div>
+				<input type="image" style="float:left; margin-top:5px;" src="/images/home/login.png">	
+			</form>
+					</div>
+		<div class="clear"></div>
+	</div>
+		</div>
+		<div class="clear"></div>
+	</div>
+  
+
+<!--[if lte IE 6]>
+  <div class="headerbar" style="background:#d00; font-weight:bold">
+   <div class="news" style="color:#fff">AskEachOther.com no longer supports Internet Explorer 6 due to security flaws. askeachother will still continue to work in IE6, but we recommend that you either <a style="color:#fff; text-decoration:underline" href="http://www.microsoft.com/windows/internet-explorer/default.aspx">UPGRADE</a> your browser, or even better, <a href="http://www.mozilla.com/en-US/firefox/firefox.html" style="color:#fff; text-decoration:underline">GET FIREFOX</a></div>
+   <div class="clear"></div>
+  </div>
+<![endif]-->
+
+
+<!--
+		-->
+
+
+ <!--Bottom Bar Code--><!--<span class="nvisitors">v: 1817</span>-->
+
+<div id="askeachother-bar">
+<div id="askbar-in">
+	<div class="online brsep"><span class="count">1817</span> People Online Now!</div>
+    <div class="latest_vote1 ">
+    	        	<span class="count">1</span>  visitor  <span class="jvoted"> just voted on </span> <a href="http://www.askeachother.com/q/are-you-watching-the-mlb-playoffs">Are you watching the MLB Playoffs?</a>
+            </div>
+    <div class="latest_vote2">
+    	        	<span class="count">4</span>  visitors  <span class="jvoted"> just voted on </span> <a href="http://www.askeachother.com/q/quotiPhone-5-Rumors-Are-In-Low-Demand-As-One-Guy-Camps-Out-Months-Ahead-Of-Releasequot-Says-A-London-News-Feed-What-Do-You-Think-Of-It">"iPhone 5 Rumors Are In Low Demand As One Guy Camps Out Months Ahead Of Release." - Says a London news feed. What do you think of it?</a>
+            </div>
+</div>
+</div>
+
+<!--/Bottom Bar Code-->
+
+
+  <div id="wrapper">
+   <div class="mask">
+
+	<div class="header">
+	   
+
+	 <div class="clear"></div><!-- border:1px solid #b4b4b4; border-top-style:groove; border-top:1px solid #fff; outline:1px solid #b4b4b4; engraved: text-shadow: 0px 1px 1px #fff;   -->
+	 <!-- 
+	 0 1px 2px #fff, /*bottom external highlight*/
+ 	 0 -1px 1px #b4b4b4, /*top external shadow*/ 
+  	 inset 0 -1px 1px rgba(0,0,0,0.5), /*top internal highlight*/ 
+ 	 inset 0 0px 0px rgba(128,128,128,0.8); /*bottom internal shadow*/ -->
+
+	 <div style="height:30px; width:971px; float:right; 
+	 box-shadow: 0 0px 0px #fff, 0 0px 0px #b4b4b4, inset 0 0px 0px rgba(128,128,128,0.5), inset 0 1px 0px rgba(255,255,255,0.8); border:1px solid #b4b4b4; background:#f3f3f3; margin-top:3px; padding:7px 1px 5px 0px; -moz-border-radius: 6px; border-radius: 6px;">
+		<div style="float:left; width:120px; height:35px; margin-left:5px; font-size:12px; color:#000; margin-bottom:5px; border:0px solid #b4b4b4;">
+			<b>6,503</b> <span style="color:#555;">Polls</span><br>
+			<b>1,706,273</b> <span style="color:#555;">Votes</span> 
+		 </div>
+	         <div style="height:20px; height:20px\9; width:460px; float:left; color:#0085be; border-bottom:0px solid #ccc; font-size:12px; font-weight:normal; margin-right:2px; padding-top:5px; margin-top:2px; text-align:left;">
+  		  <span style="color:#777;"><b>Blogs</b>:</span> 
+  		  <a href="http://www.askeachother.com/biztech" title="BizTech" style="color:#0085be; font-weight:normal;">BizTech</a> | 
+  		  <a href="http://www.askeachother.com/dating" title="Dating" style="color:#0085be; font-weight:normal;">Dating</a>  |
+  		  <a href="http://www.askeachother.com/sports" title="Sports" style="color:#0085be; font-weight:normal;">Sports</a> |
+  		  <a href="http://www.askeachother.com/pink" title="Pink" style="color:#0085be; font-weight:normal;">Pink</a>
+  		  
+    		  <span style="color:#777; margin-left:15px;"><b>Links</b>:</span> 		  
+  		  <a href="/aeorewards" title="Get paid for voting with AEO Rewards" style="color:#0085be; font-weight:normal;">Rewards</a> |		  
+  		  <span style="color:#ff0000;"><b>New!</b></span> <a href="/social-cloud" title="Check Status Updates, Recent Comments, etc." style="color:#0085be; font-weight:normal;">Cloud</a> |
+  		  <a href="/store" title="Visit the AEO Rewards Store" style="color:#0085be; font-weight:normal;">Store</a> |
+  		  <a href="/ads" title="Purchase a Sponsored Poll and get your message out" style="color:#0085be; font-weight:normal;">Ads</a>
+  		 </div>	   
+  		 <div style="float:right; color:#777; border:0px solid #333; margin-top:0px; margin-right:7px;">
+  		    <form action="http://www.askeachother.com/search" method="post">
+	           	<div class="sform"> 
+	            	<input type="image" id="searchbtn" align="right" style="float:right; padding-top:2px;" src="http://www.askeachother.com/images/btn_go.png" alt="Search!" title="Search!"><!-- removed this: style="position:relative; top:10px; top:11px\9" to try to fix the alignment of input box to button -->
+	            	<input type="text" id="searchbar" name="search" value="Search for cool questions and polls here..." onclick="if (this.value == 'Search for cool questions and polls here...') { this.value = ''; }" style="height:25px; height:25px\9; width:300px; color:#bbb; border:1px solid #ccc; background:#fff; font-size:16px; padding-left:2px; margin-right:2px; padding-top:3px\9; padding-left:2px\9; float:right;">
+	           	</div> 
+	            </form>
+	         </div>
+	         <div class="clear"></div>
+	 </div>
+	</div>
+	<div class="clear"></div>
+	
+		<div style="width:973px;">
+	<ul class="topnav">
+								<li>
+
+					<a title="Popular Questions" id="cat_Popular" href="/popular" class="cat_link">Popular</a>
+ 
+											<ul class="subnav">
+																								<li><a href="http://www.askeachother.com/c/pop-culture/new/">Pop Culture</a></li>
+																								<li><a href="http://www.askeachother.com/c/current-events/new/">Current Events</a></li>
+																								<li><a href="http://www.askeachother.com/c/celebs/new/">Celebs</a></li>
+																								<li><a href="http://www.askeachother.com/c/music/new/">Music</a></li>
+																								<li><a href="http://www.askeachother.com/c/fashion/new/">Fashion</a></li>
+													</ul>
+									</li><li>
+
+					<a title="People Questions &amp; Questions For People" id="cat_People" href="/people" class="cat_link">People</a>
+ 
+											<ul class="subnav">
+																								<li><a href="http://www.askeachother.com/c/everyday-people/new/">Every Day People</a></li>
+																								<li><a href="http://www.askeachother.com/c/travel/new/">Travel</a></li>
+																								<li><a href="http://www.askeachother.com/c/society-and-culture/new/">Society &amp; Culture</a></li>
+																								<li><a href="http://www.askeachother.com/c/social-science/new/">Social Science</a></li>
+																								<li><a href="http://www.askeachother.com/c/surveys/new/">Surveys</a></li>
+																								<li><a href="http://www.askeachother.com/c/advice/new/">Advice</a></li>
+													</ul>
+									</li><li>
+
+					<a title="Sports Questions &amp; Questions About Sports" id="cat_Sports" href="/sports-questions" class="cat_link">Sports</a>
+ 
+											<ul class="subnav">
+																								<li><a href="http://www.askeachother.com/c/nba-basketball/new/">NBA - Basketball</a></li>
+																								<li><a href="http://www.askeachother.com/c/ncaa-sports/new/">NCAA Sports</a></li>
+																								<li><a href="http://www.askeachother.com/c/nhl-hockey/new/">NHL - Hockey</a></li>
+																								<li><a href="http://www.askeachother.com/c/mlb-baseball/new/">MLB - Baseball</a></li>
+																								<li><a href="http://www.askeachother.com/c/nfl-football/new/">NFL - Football</a></li>
+													</ul>
+									</li><li>
+
+					<a title="Consumer, Products &amp; Brand Questions" id="cat_Consumer" href="/consumer" class="cat_link">Consumer</a>
+ 
+											<ul class="subnav">
+																								<li><a href="http://www.askeachother.com/c/beverages/new/">Beverages</a></li>
+																								<li><a href="http://www.askeachother.com/c/products-and-services/new/">Products &amp; Services</a></li>
+																								<li><a href="http://www.askeachother.com/c/retail/new/">Retail</a></li>
+																								<li><a href="http://www.askeachother.com/c/food/new/">Food</a></li>
+													</ul>
+									</li><li>
+
+					<a title="Technology Questions" id="cat_Tech" href="/c/tech/new" class="cat_link">Tech</a>
+ 
+											<ul class="subnav">
+																								<li><a href="http://www.askeachother.com/c/apple/new/">Apple</a></li>
+																								<li><a href="http://www.askeachother.com/c/mobile/new/">Mobile </a></li>
+																								<li><a href="http://www.askeachother.com/c/gaming/new/">Gaming</a></li>
+													</ul>
+									</li><li>
+
+					<a title="Movie Questions | TV &amp; Television" id="cat_TV/Movies" href="/tv-and-movies" class="cat_link">TV/Movies</a>
+ 
+											<ul class="subnav">
+																								<li><a href="http://www.askeachother.com/c/television/new/">TV | Television</a></li>
+																								<li><a href="http://www.askeachother.com/c/movies/new/">Movies</a></li>
+																								<li><a href="http://www.askeachother.com/c/in-theatres-now/new/">In Theatres Now!</a></li>
+													</ul>
+									</li><li>
+
+					<a title="World, Business &amp; Politics" id="cat_World &amp; Biz" href="/world-business" class="cat_link">World &amp; Biz</a>
+ 
+											<ul class="subnav">
+																								<li><a href="http://www.askeachother.com/c/international/new/">International</a></li>
+																								<li><a href="http://www.askeachother.com/c/business/new/">Business</a></li>
+																								<li><a href="http://www.askeachother.com/c/politics-and-government/new/">Politics &amp; Government</a></li>
+																								<li><a href="http://www.askeachother.com/c/law-enforcement/new/">Law Enforcement</a></li>
+													</ul>
+									</li><li>
+
+					<a title="Relationships, Dating &amp; Love" id="cat_Relationships" href="/relationships" class="cat_link">Relationships</a>
+ 
+											<ul class="subnav">
+																								<li><a href="http://www.askeachother.com/c/dating/new/">Dating</a></li>
+																								<li><a href="http://www.askeachother.com/c/first-date-questions/new/">First Dates</a></li>
+																								<li><a href="http://www.askeachother.com/c/long-distance-relationships/new/">Long Distance</a></li>
+																								<li><a href="http://www.askeachother.com/c/online-dating/new/">Online Dating</a></li>
+																								<li><a href="http://www.askeachother.com/c/interracial-dating/new/">Interracial</a></li>
+																								<li><a href="http://www.askeachother.com/c/long-term-relationships/new/">Long Relationships</a></li>
+													</ul>
+									</li><li>
+
+					<a title="Risky Questions" id="cat_Risky" href="/mature" style="color:red">Risky</a>
+ 
+									</li><li>
+
+					<a title="Random Questions,  Funny Questions &amp; Misc." id="cat_Misc" href="/misc" class="cat_link">Misc</a>
+ 
+											<ul class="subnav">
+																								<li><a href="http://www.askeachother.com/c/random-questions/new/">Random Questions</a></li>
+																								<li><a href="http://www.askeachother.com/c/would-you-rather/new/">Would You Rather</a></li>
+																								<li><a href="http://www.askeachother.com/c/silly-questions/new/">Silly Questions</a></li>
+																								<li><a href="http://www.askeachother.com/c/funny-questions-to-ask/new/">Funny Questions</a></li>
+																								<li><a href="http://www.askeachother.com/c/deep-questions/new/">Deep Questions</a></li>
+																								<li><a href="http://www.askeachother.com/c/trivia-questions/new/">Trivia</a></li>
+																								<li><a href="http://www.askeachother.com/c/true-or-false/new/">True/False</a></li>
+													</ul>
+									</li><li>
+
+					<a title="Girls &amp; Women's Lifestyle" id="cat_Pink" href="/pink-questions" class="cat_link" style="color:#ff0086">Pink</a>
+ 
+											<ul class="subnav">
+																								<li><a href="http://www.askeachother.com/c/fashion-beauty-style/new/">Fashion, Beauty &amp; Style</a></li>
+																								<li><a href="http://www.askeachother.com/c/health-and-fitness/new/">Health and Fitness</a></li>
+																								<li><a href="http://www.askeachother.com/c/womens-career/new/">Women's Career</a></li>
+													</ul>
+									</li>				</ul>
+		</div>
+	 	
+
+
+		
+	    <script type="text/javascript">countSec();</script>
+		
+	<div id="content" class="round_corners" style="margin-top:0">
+	<div class="clear"></div>
+	 	 
+	 <div id="content_2-3">
+	 
+		<h1 style="text-align:center;">AskEachOther Privacy Policy<br> 
+		<small>(last updated v10/02/2010)</small></h1>
+		<br>
+		<div style="padding-left:5px;">
+			<strong>Welcome to AskEachOther.com! Before you begin using AskEachOther.com, you must first read and agree to this Privacy Policy</strong>
+			<br><br>
+			<!-- START PRIVACY POLICY CODE -->
+			<strong>What information do we collect?</strong> 
+			<br><br>We collect information from you when you register on our site, subscribe to our newsletter or fill out a form.  
+			<br><br>When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
+			<br><br><strong>What do we use your information for?</strong> <br><br>Any of the information we collect from you may be used in one of the following ways: 
+			
+			<br><br>• To personalize your experience<br>(your information helps us to better respond to your individual needs)
+			<br><br>• To improve our website<br>(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+			<br><br>• To improve customer service<br>(your information helps us to more effectively respond to your customer service requests and support needs)
+			<br><br><br>• To administer a contest, promotion, survey or other site feature
+			<br><br><br>• To send periodic emails<br><br>The email address you provide may be used to send you information, respond to inquiries, and/or other requests or <a href="http://www.askeachother.com/t" title="questions">questions</a>.
+			<br><br><strong>How do we protect your information?</strong> 
+			<br><br>We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
+			<br><br><strong>Do we use cookies?</strong> 
+			<br><br>Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+			<br><br> We use cookies to help us remember and process the items in your shopping cart and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+			<br><br>If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders by contacting customer service.
+			<br><br><strong>Do we disclose any information to outside parties?</strong> <br><br>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+			<br><br><strong>Third party links</strong> <br><br> Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+			<br><br><strong>Online Privacy Policy Only</strong> <br><br>This online privacy policy applies only to information collected through our website and not to information collected offline.
+			<br><br><strong>Terms and Conditions</strong> <br><br>Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <a href="http://www.askeachother.com/terms" title="Terms">http://www.askeachother.com/tos</a>
+			<br><br><strong>Your Consent</strong> 
+			<br><br>By using our site, you consent to our web site privacy policy.<br><br><strong>Changes to our Privacy Policy</strong> 
+			<br><br>If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+			<br><br>This policy was last modified on 10/2/2010<br><br>http://www.askeachother.com/contact<br><span></span>
+			Thanks and Happy Voting!<br>
+			<b>AskEachOther Team</b><br>
+			contact@askeachother.com
+			<br><br>
+		</div>
+	 </div>
+	 
+		<div id="content_1-3" style="margin-right:9px;">
+
+	<div id="notification_holder">
+			</div>
+	
+		
+			<!-- ADP 300x250 #1 REGULAR 300X250 AD UNIT / AEO #1 -->
+	
+	<div style="margin-top:3px; margin-bottom:3px; padding:0; overflow:hidden; overflow:hidden\9; width:300px; height:250px; margin-top:-3px\9;">
+		<!-- BEGIN IFRAME TAG - www.askeachother.com, ROS < - DO NOT MODIFY -->
+		<iframe src="http://ib.adnxs.com/tt?id=543627&amp;size=300x250&amp;cb=[CACHEBUSTER]" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true" width="300" height="250"></iframe>
+		<!-- END TAG -->
+		<!-- BEGIN JS TAG - www.askeachother.com, ROS < - DO NOT MODIFY -->
+		<!--<SCRIPT SRC="http://ib.adnxs.com/ttj?id=543627&size=300x250&cb=[CACHEBUSTER]" TYPE="text/javascript"></SCRIPT>--><!-- This is ADPs 300x250 regular -->
+		<!-- END TAG -->
+	</div>
+		<div class="clear"></div>
+		
+	<div class="clear"></div>
+	
+		
+		<!--	-->
+	 
+	 	  <div style="margin-bottom:5px; margin-top:1px; border-top:1px solid #ccc"><!-- old header bgcolor:#4286c4 or background:#3d5b99 id was recentactivitybox -->
+	   <h3 style="text-align:center; position:relative; font-weight:bold; background:#f5f5f5; color:#333; padding-top:0px; padding-bottom:0px; font-size:11px;"><b>Recent &amp; Online Now</b></h3>
+		<div>
+							<div style="float:left; width:48px; height:48px; overflow:hidden; margin:1px 1px">
+					<a title="Sierra Tucker " href="http://www.askeachother.com/profile/3799" style="font-size:11px; font-weight:normal" rel="nofollow">
+						<img src="/images/avatars/small/2011-09-23-3813167_snapshot3.jpg" alt="Sierra Tucker " style="width:48px; height:48px;">					</a>
+				</div>
+															<div style="float:left; width:48px; height:48px; overflow:hidden; margin:1px 1px">
+					<a title="Shanazz" href="http://www.askeachother.com/profile/12245" style="font-size:11px; font-weight:normal" rel="nofollow">
+						<img src="/images/avatars/small/2011-09-16-0513162_2011-05-29232729-1.jpg" alt="Shanazz" style="width:48px; height:48px;">					</a>
+				</div>
+															<div style="float:left; width:48px; height:48px; overflow:hidden; margin:1px 1px">
+					<a title="eddie suitter" href="http://www.askeachother.com/profile/12232" style="font-size:11px; font-weight:normal" rel="nofollow">
+						<img src="/images/avatars/small/2011-08-28-2213145_07-26-09-1631.jpg" alt="eddie suitter" style="width:48px; height:48px;">					</a>
+				</div>
+															<div style="float:left; width:48px; height:48px; overflow:hidden; margin:1px 1px">
+					<a title="Jean        Alton" href="http://www.askeachother.com/profile/12339" style="font-size:11px; font-weight:normal" rel="nofollow">
+						<img src="/images/avatars/default.gif" alt="Jean        Alton" style="width:48px; height:48px;">					</a>
+				</div>
+															<div style="float:left; width:48px; height:48px; overflow:hidden; margin:1px 1px">
+					<a title="Louis Ramage" href="http://www.askeachother.com/profile/12340" style="font-size:11px; font-weight:normal" rel="nofollow">
+						<img src="/images/avatars/small/2011-11-25-1513222_john-mayer.jpg" alt="Louis Ramage" style="width:48px; height:48px;">					</a>
+				</div>
+															<div style="float:left; width:48px; height:48px; overflow:hidden; margin:1px 1px">
+					<a title="Lisa Connor" href="http://www.askeachother.com/profile/43" style="font-size:11px; font-weight:normal" rel="nofollow">
+						<img src="/images/avatars/small/2009-11-18-2612585_sswriter-lisapng.png" alt="Lisa Connor" style="width:48px; height:48px;">					</a>
+				</div>
+				<div class="clear"></div>											<div style="float:left; width:48px; height:48px; overflow:hidden; margin:1px 1px">
+					<a title="Kelvin Fitzpatrick" href="http://www.askeachother.com/profile/12348" style="font-size:11px; font-weight:normal" rel="nofollow">
+						<img src="/images/avatars/default.gif" alt="Kelvin Fitzpatrick" style="width:48px; height:48px;">					</a>
+				</div>
+															<div style="float:left; width:48px; height:48px; overflow:hidden; margin:1px 1px">
+					<a title="AskEachOther" href="http://www.askeachother.com/profile/12" style="font-size:11px; font-weight:normal" rel="nofollow">
+						<img src="/images/avatars/small/2011-10-14-1813186_aeologo125x125logo.png" alt="AskEachOther" style="width:48px; height:48px;">					</a>
+				</div>
+															<div style="float:left; width:48px; height:48px; overflow:hidden; margin:1px 1px">
+					<a title="Nicole Horne" href="http://www.askeachother.com/profile/3293" style="font-size:11px; font-weight:normal" rel="nofollow">
+						<img src="/images/avatars/small/2011-11-18-3813216_042811235058.jpg" alt="Nicole Horne" style="width:48px; height:48px;">					</a>
+				</div>
+															<div style="float:left; width:48px; height:48px; overflow:hidden; margin:1px 1px">
+					<a title="aturley" href="http://www.askeachother.com/profile/12347" style="font-size:11px; font-weight:normal" rel="nofollow">
+						<img src="/images/avatars/default.gif" alt="aturley" style="width:48px; height:48px;">					</a>
+				</div>
+															<div style="float:left; width:48px; height:48px; overflow:hidden; margin:1px 1px">
+					<a title="FriedChicken" href="http://www.askeachother.com/profile/5" style="font-size:11px; font-weight:normal" rel="nofollow">
+						<img src="/images/avatars/small/2011-01-12-2612948_friedChicscary.jpg" alt="FriedChicken" style="width:48px; height:48px;">					</a>
+				</div>
+															<div style="float:left; width:48px; height:48px; overflow:hidden; margin:1px 1px">
+					<a title="GamersRemorse" href="http://www.askeachother.com/profile/12311" style="font-size:11px; font-weight:normal" rel="nofollow">
+						<img src="/images/avatars/small/2011-11-15-1113214_LogoGamersRemorse.jpg" alt="GamersRemorse" style="width:48px; height:48px;">					</a>
+				</div>
+				<div class="clear"></div>														<div id="viewonline" style="display:none">
+											<div style="float:left; width:48px; height:48px; overflow:hidden; margin:1px 1px">
+					<a title="SkitzofrenicPsycho" href="http://www.askeachother.com/profile/6457" style="font-size:11px; font-weight:normal" rel="nofollow">
+						<img src="/images/avatars/small/2011-07-23-1813113_33524-1374663361763-1087174399-30887516-4789981-n.jpg" alt="SkitzofrenicPsycho" style="width:48px; height:48px;">					</a>
+				</div>
+															<div style="float:left; width:48px; height:48px; overflow:hidden; margin:1px 1px">
+					<a title="juka" href="http://www.askeachother.com/profile/12326" style="font-size:11px; font-weight:normal" rel="nofollow">
+						<img src="/images/avatars/default.gif" alt="juka" style="width:48px; height:48px;">					</a>
+				</div>
+															<div style="float:left; width:48px; height:48px; overflow:hidden; margin:1px 1px">
+					<a title="am" href="http://www.askeachother.com/profile/12275" style="font-size:11px; font-weight:normal" rel="nofollow">
+						<img src="/images/avatars/default.gif" alt="am" style="width:48px; height:48px;">					</a>
+				</div>
+															<div style="float:left; width:48px; height:48px; overflow:hidden; margin:1px 1px">
+					<a title="Alex Lifeson" href="http://www.askeachother.com/profile/170" style="font-size:11px; font-weight:normal" rel="nofollow">
+						<img src="/images/avatars/small/2011-05-27-2813065_vk10-09.jpg" alt="Alex Lifeson" style="width:48px; height:48px;">					</a>
+				</div>
+															<div style="float:left; width:48px; height:48px; overflow:hidden; margin:1px 1px">
+					<a title="Krabby Patty" href="http://www.askeachother.com/profile/270" style="font-size:11px; font-weight:normal" rel="nofollow">
+						<img src="/images/avatars/small/2011-01-20-1812955_KrabbyPatty.jpeg" alt="Krabby Patty" style="width:48px; height:48px;">					</a>
+				</div>
+															<div style="float:left; width:48px; height:48px; overflow:hidden; margin:1px 1px">
+					<a title="mkoppelman" href="http://www.askeachother.com/profile/448" style="font-size:11px; font-weight:normal" rel="nofollow">
+						<img src="/images/avatars/default.gif" alt="mkoppelman" style="width:48px; height:48px;">					</a>
+				</div>
+				<div class="clear"></div>											<div style="float:left; width:48px; height:48px; overflow:hidden; margin:1px 1px">
+					<a title="Kenny" href="http://www.askeachother.com/profile/2" style="font-size:11px; font-weight:normal" rel="nofollow">
+						<img src="/images/avatars/small/2009-11-18-0812585_kdnye.jpg" alt="Kenny" style="width:48px; height:48px;">					</a>
+				</div>
+															<div style="float:left; width:48px; height:48px; overflow:hidden; margin:1px 1px">
+					<a title="Alex" href="http://www.askeachother.com/profile/12345" style="font-size:11px; font-weight:normal" rel="nofollow">
+						<img src="/images/avatars/default.gif" alt="Alex" style="width:48px; height:48px;">					</a>
+				</div>
+				<div class="clear"></div>										</div>		</div>
+	  </div> 
+	 	 
+	
+	<div style="margin-top:3px 0 3px 0; margin-top:-3px\9; padding:0; overflow:hidden; overflow:hidden\9; width:300px; height:512px;">	
+		<iframe src="http://pages.onescreen.net/h/0/1/1/visual_listing/askeachother" width="300" height="512" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true"></iframe>
+	</div>
+	 
+	 	  <div id="loginbox" style="padding:10px; border:1px solid #E1E1E1; -moz-border-radius: 6px; border-radius: 6px;">
+	   	   <div id="login_form">
+		   <form action="http://www.askeachother.com/login" method="post">
+			<fieldset>
+			<div style="text-align:right; padding-right:40px;">
+			 Email: <input type="text" name="username" onkeydown="clearTimeout(miniRegFormTimeout);"><br>
+			 Password: <input type="password" name="password" onkeydown="clearTimeout(miniRegFormTimeout);"><br>
+			 </div>
+			 <small><input type="checkbox" name="remember"> Remember Me? | <a href="http://www.askeachother.com/password/lost/" rel="nofollow"><span style="color:#e37800;font-weight:normal;">Forgot your password?</span></a></small>
+			 <br>
+			 <div style="height:5px;"></div>
+			 <input type="image" src="http://www.askeachother.com/templates/images/btn_login.png" name="login" value="Login">
+			 <img style="cursor:pointer; cursor:hand" id="right_signup" src="http://www.askeachother.com/templates/images/btn_signup.png" alt="Sign Up">
+			 <!--This was the Facebook Connect Login Button: --> 
+			<!-- -->
+			 <br>
+			 <div style="border-top:1px dashed #CCCCCC; padding:3px;padding-top:2px;margin-top:5px">
+			 <span style="font-size:16px; color:#ff0000;"><b>Join now, it’s free.</b></span><br>
+			 <small><ul style="padding-left:20px;text-align:left;">
+	  			<li>Track your Votes, Points &amp; Questions &amp; <a href="http://www.askeachother.com/register" title="Member Benefits">more.</a></li>
+	   			<li>Experience the Social Cloud - learn <a href="http://www.askeachother.com/register" title="Member Benefits">more.</a></li>
+	   			<li>Win gifts &amp; prizes for voting from Us &amp; our Sponsors.</li>
+	  		 </ul></small>
+			 </div>
+			</fieldset>
+		   </form>
+	   </div>
+	   <div id="register_form" style="display:block">
+		   <form action="http://www.askeachother.com/register" method="post">
+			<fieldset>
+			  <table style="width:100%; margin:0 auto; border:1px solid #eaeaea">
+			   <tbody><tr>
+				<td style="width:50%;text-align:right;" class="row1">Username:</td>
+				<td style="width:50%" class="row1"><input type="text" name="username" value=""></td>
+			   </tr>
+			   <tr>
+				<td class="row2" style="text-align:right;">Email Address:</td>
+				<td class="row2"><input type="text" name="email" value=""></td>
+			   </tr>
+			   <tr>
+				<td class="row1" style="text-align:right;">Password:</td>
+				<td class="row1"><input type="password" name="password" value=""></td>
+			   </tr>
+				<tr>
+				 <td class="row2" style="text-align:right;">Heard about us?</td>
+				 <td class="row2" style="text-align:left;">
+					 <select name="ref">
+						 <option label="Word of Mouth" value="0">Word of Mouth</option>
+<option label="Google" value="1">Google</option>
+<option label="Facebook" value="2">Facebook</option>
+<option label="Twitter" value="3">Twitter</option>
+<option label="Yahoo" value="4">Yahoo</option>
+<option label="Bing" value="5">Bing</option>
+<option label="Myspace" value="6">Myspace</option>
+<option label="Search Engine" value="7">Search Engine</option>
+<option label="Digg" value="8">Digg</option>
+<option label="Blog" value="9">Blog</option>
+<option label="Email" value="10">Email</option>
+<option label="Ad" value="11">Ad</option>
+<option label="Pop-up/Pop-under" value="12">Pop-up/Pop-under</option>
+<option label="Ad on my comp" value="13">Ad on my comp</option>
+<option label="AEO employee" value="14">AEO employee</option>
+<option label="Redirected" value="15">Redirected</option>
+<option label="Other" value="16">Other</option>
+
+					 </select>
+				 </td>
+				</tr>
+			   <tr>
+				<td class="row2" colspan="2"><input type="checkbox" name="tos"><small>You have read and agree to our <a href="http://www.askeachother.com/tos">Terms</a>.</small></td>
+			   </tr>
+			   <tr>
+				<td class="footer_row" colspan="2"><input type="submit" name="signup" value="Signup!"></td>
+			   </tr>
+			  </tbody></table>
+			</fieldset>
+		   </form>
+	   </div>
+	  
+	   </div>  
+	 		
+	<div class="clear"></div>  
+	
+		
+
+	 
+	  	  <div id="top5box" style="margin-bottom:4px; padding:10px; border:1px solid #E1E1E1; -moz-border-radius: 6px; border-radius: 6px;"> <!-- id was topsillybox removed 17-11-11 -->
+	   <div style="text-align:center; width:280px; height:15px; margin:0 auto; font-size:14px; color:#000; font-weight:bold;"><!--<img src="http://www.askeachother.com/templates/images/txt_top10qs.png" alt="Top 10 Questions" />-->
+	   Top 5 Questions
+	   </div>
+		<hr style="margin-top:2px; margin-bottom:5px;">
+	   		<div>
+			<div class="box_votes"><div>110,789</div></div>
+			<div class="row1" style="float:left; margin-left:3px; margin-top:6px; width:222px; margin-bottom:3px;"><b>1.</b> <a href="http://www.askeachother.com/q/Most-Insightful-Question-To-Ask-On-A-First-Date" title="Top 5 Question" style="font-weight:normal;">Most insightful question to ask on a first date? (click to read/view)</a></div>
+			<div class="clear"></div>
+		</div>
+	   		<div>
+			<div class="box_votes"><div>67,276</div></div>
+			<div class="row1" style="float:left; margin-left:3px; margin-top:6px; width:222px; margin-bottom:3px;"><b>2.</b> <a href="http://www.askeachother.com/q/What-Is-YOUR-Favorite-Pizza-Place" title="Top 5 Question" style="font-weight:normal;">What is YOUR favorite Pizza place?</a></div>
+			<div class="clear"></div>
+		</div>
+	   		<div>
+			<div class="box_votes"><div>52,074</div></div>
+			<div class="row1" style="float:left; margin-left:3px; margin-top:6px; width:222px; margin-bottom:3px;"><b>3.</b> <a href="http://www.askeachother.com/q/Which-NEW-Drama-Are-YOU-WATCHING-This-Fall" title="Top 5 Question" style="font-weight:normal;">Which NEW Drama are YOU WATCHING this Fall?</a></div>
+			<div class="clear"></div>
+		</div>
+	   		<div>
+			<div class="box_votes"><div>47,615</div></div>
+			<div class="row1" style="float:left; margin-left:3px; margin-top:6px; width:222px; margin-bottom:3px;"><b>4.</b> <a href="http://www.askeachother.com/q/Most-Quotable-Movie" title="Top 5 Question" style="font-weight:normal;">Most quotable movie? (add a comment or your movie choice!)</a></div>
+			<div class="clear"></div>
+		</div>
+	   		<div>
+			<div class="box_votes"><div>46,885</div></div>
+			<div class="row1" style="float:left; margin-left:3px; margin-top:6px; width:222px; margin-bottom:3px;"><b>5.</b> <a href="http://www.askeachother.com/q/Which-Star-Wars-Movie-Was-The-Best-From-The-Original-Trilogy" title="Top 5 Question" style="font-weight:normal;">Which Star Wars movie was the best from the original Trilogy?</a></div>
+			<div class="clear"></div>
+		</div>
+	   
+	  </div>
+	  	  
+	  
+	<!-- ADP 160x600 #3 / AEO #3 -->	  
+	<div style="margin-bottom:5px; padding:0; overflow:hidden; overflow:hidden\9; width:300px; height:600px; margin-top:4px\9; text-align:center;">
+		<!-- BEGIN IFRAME TAG - www.askeachother.com, ROS < - DO NOT MODIFY -->
+		<iframe src="http://ib.adnxs.com/tt?id=543627&amp;size=160x600&amp;cb=[CACHEBUSTER]" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true" width="160" height="600"></iframe>
+		<!-- END TAG -->
+		<!-- BEGIN JS TAG - www.askeachother.com, ROS < - DO NOT MODIFY -->
+		<!--<SCRIPT SRC="http://ib.adnxs.com/ttj?id=543627&size=160x600&cb=[CACHEBUSTER]" TYPE="text/javascript"></SCRIPT>-->
+		<!-- END TAG -->	
+	</div>
+	 		
+		<div class="clear" style="height:0px;"></div>
+
+			
+	<!-- Free Ad #1 -->	
+	<div style="margin-top:5px;">
+		<a href="/freeads" title="Click here to Get Your Free Ad Now"><img src="/images/extras/freeadad.jpg" alt="free ad"></a>
+		<a href="javascript:void(0)" onclick="$.ajax({url: &quot;/ajax/ad_click.php?id=58&quot;, async: false}); location.href = &quot;http://www.mixerlink.com/?AskEachOther.com&quot;"><img src="/images/public_ads/495_4d9e334211b05.png"></a>
+
+	<div class="clear"></div>	  
+
+	  
+	<!-- <div class="clear"></div>-->
+		
+	 <!-- <hr style="width:92%; margin:10px auto; border:1px dotted #333333; height:1px" /> -->
+	 <!-- Check out the all NEW <a href="http://www.askeachother.com/dashboard" title="Login & Click here to visit your Dashboard" style="color:#5CB3FF;" target="_blank">AEO Rewards Dashboard</a> now! Let us know if you have questions - there are possibilities for everyone (even Int'l) - <a href="http://www.askeachother.com/rewardsfaq.php" title="Click here to learn more" style="color:#5CB3FF;" target="_blank">FAQ - learn more!</a>
+
+Win Cash TODAY in AEO’s <a href="/most-voted" title="Click here" style="color:#5CB3FF;">Most Voted Question</a> Contest! | <a href="/home?id=statusbar" title="Join free now" style="color:#5CB3FF;">Join free now</a> to post/track your own AEO Polls/Votes & for unlimited access to unlock ALL the voting results!
+
+Trending now - Steve Jobs resigns from Apple: Effective Immediately - <a href="http://www.askeachother.com/q/steve-jobs-resigns-from-apple" title="read more"  style="color:#5CB3FF;">read more</a> |  
+
+With ALL the social networks out there...not  <u>one</u> of them gives people a quantified voice - <span style="color:#fff; font-weight:bold;">until now.</span> By yourself, you have an opinion...put it with others and you have <u>power</u>, so <a href="/register" title="Join free now" style="color:#5CB3FF;">Join now</a>, it's free. 
+
+
+Trending now - Underworld: Awakening starring Kate Beckinsale - <a href="http://www.askeachother.com/q/underworld-awakening-trailer-kate-beckinsale-returns-as-selene-are-you-a-fan" title="Watch the Trailer!"  style="color:#5CB3FF;">Watch the Trailer Now!</a>. <a href="/register" title="Join free now" style="color:#5CB3FF;">Join now</a> to post your own AEO Question-Polls, for unlimited access & to unlock ALL the voting results! It's free.
+
+We recently sent out a new confirmation email. If you did <u>not</u> receive it, please email us at contact (at) askeachother.com so we can make sure you're on the list  & receive info on important changes, contest & promo stuff. Thx!
+
+06/1/11 - You <i>think</i> you know what people think....but you’d be surprised.  <a href="/home" title="Join free now" style="color:#5CB3FF;">Join free now</a> and start posting questions your friends & others can vote on.
+
+<span style="color:#999;">(Best viewed in <a rel="nofollow" href="http://www.mozilla.com/firefox/" title="Download Firefox now" target="_blank" style="color:#999;"><u><b>Firefox</b></u></a></span> or <a  rel="nofollow" href="http://windows.microsoft.com/en-US/internet-explorer/products/ie/home" title="Download IE9 now" style="color:#999;" target="_blank"><u><b>IE9</b></u></a>)
+<span style="color:#ff5900;"><b>Note:</b> This site is best viewed in <a href="http://www.mozilla.com/firefox/" title="Go To Firefox" target="_blank" style="color:#ff5900;"><u><b>Firefox</b></u></a>.</span>
+
+<div style="text-align: center;">
+<a href="/ads" title="Advertise on AskEachOther.com!">Advertise Here.</a> <a href="http://www.askeachother.com/contact" alt="Contact Us!" title="Contact Us!">Contact Us</a> at
+<a href="mailto:advertise@askeachother.com?subject=Advertisting%20Inquiry">advertise@askeachother.com</a> 
+</div>
+<div style="">
+<hr style="border: 1px dotted rgb(51, 51, 51); margin: 5px auto; width: 92%; height: 1px;">
+</div>
+
+<div class="clear"></div><br /> --> 
+	 <!-- <div class="clear"></div> -->
+	 
+	<div class="clear"></div>
+		<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FAskEachOther&amp;width=300&amp;colorscheme=light&amp;connections=5&amp;stream=false&amp;header=true&amp;height=247" scrolling="no" frameborder="0" rel="nofollow" style="border:none; overflow:hidden; width:300px; margin-top:1px\9; text-align:center; height:247px;" allowtransparency="true"></iframe>
+	<div class="clear"></div>
+	
+	<!--<IFRAME SRC="http://www.askeachother.com/adv/iframeclicksorftr.html" FRAMEBORDER="0" SCROLLING="no" MARGINHEIGHT="0" MARGINWIDTH="0" TOPMARGIN="0" LEFTMARGIN="0" ALLOWTRANSPARENCY="true" WIDTH="300" HEIGHT="250"></IFRAME> -->
+	<!-- <IFRAME SRC="http://www.askeachother.com/adv/iframecw300x250.html" FRAMEBORDER="0" SCROLLING="no" MARGINHEIGHT="0" MARGINWIDTH="0" TOPMARGIN="0" LEFTMARGIN="0" ALLOWTRANSPARENCY="true" WIDTH="300" HEIGHT="250"></IFRAME>  -->
+	
+	<!--THIS WAS THE 125X125 BUTTONS BOX <div style="width:290px; height:400px; padding-top:15px; padding-bottom:14px; text-align:center; margin-top:5px; border:5px solid #e7e7e7;"> 
+ 	   				<div style="width:300px; height:400px; text-align:center; margin-left:15px;">	-->
+					<!-- My Custom Button Section -->
+					<!-- BuySellAds.com Zone Code -->
+					<!-- <div id="bsap_1253421" class="bsarocks bsap_fcee0f16bee69bb834dff1fdb120dc56"></div>-->
+					<!-- End BuySellAds.com Zone Code -->	  			   	
+				   	<!-- End My Custom Button Section -->   
+				<!-- <IFRAME SRC="http://www.askeachother.com/ads/iframevc120x600.html" FRAMEBORDER="0" SCROLLING="no" MARGINHEIGHT="0" MARGINWIDTH="0" TOPMARGIN="0" LEFTMARGIN="0" ALLOWTRANSPARENCY="true" WIDTH="120" HEIGHT="600"></IFRAME> -->
+			<!--</div>	
+			<div class="clear"></div>
+		   
+	   </div> -->
+	   <!-- <img src="http://www.askeachother.com/images/aeologo3dp.jpg" alt="AEO!" style="margin-top:3px;" /> -->	
+
+	<!-- ADP 300x250(2) #3 / AEO #4 -->
+	<div style="margin-top:3px; margin-bottom:5px; padding:0; overflow:hidden; overflow:hidden\9; width:300px; height:250px; margin-top:3px\9">
+					<!-- This is the Content Pages Ad Tag -->
+		<!-- BEGIN IFRAME TAG - www.askeachother.com, ROS < - DO NOT MODIFY -->
+		<iframe src="http://ib.adnxs.com/tt?id=543627&amp;size=300x250&amp;cb=[CACHEBUSTER]" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true" width="300" height="250"></iframe>
+		<!-- END TAG -->
+			</div>
+	
+	<div class="clear"></div> 
+	
+		
+	<!--<iframe src="http://www.askeachother.com/adv/iframewyntk300x250.html" width="300" height="250" frameborder="0" scrolling="no"></iframe>-->
+	
+	<div class="clear"></div>	
+	   <div style="border:1px solid #e7e7e7; -moz-border-radius: 6px; border-radius: 6px; margin-top:5px; margin-right:5px; margin-bottom:5px; width:266px; height:137px; padding-top:12px; padding-right:12px; padding-left:12px; padding-bottom:3px;">
+		<img src="http://www.askeachother.com/images/aeologo125x125.png" alt="AEO!" style="margin-top:3px; margin-right:5px;"> 	
+		
+		<div style="float:right; width:125px; height:125px; border:1px solid #ccc; background:#e7e7e7; text-align:center; font-size:16px; color:#999; margin-top:1px;">
+		<br><br>
+		<a href="/ads" title="Click here to learn more about Advertising on AskEachOther" style="font-weight:normal; color:#999;">Advertise
+		Here for $5/day or $99/mo</a>
+		</div>
+	   </div>
+			<div class="clear"></div>
+	
+	<!-- BSA In-Content Ad 300x250 at $4999 just for holding -->	
+	<!-- BuySellAds.com Zone Code -->
+		<!-- <div id="bsap_1258730" class="bsarocks bsap_fcee0f16bee69bb834dff1fdb120dc56"></div> -->
+	<!-- End BuySellAds.com Zone Code -->
+	
+	<div class="clear"></div>
+
+				<!-- This is the Content pages Ad tag -->
+			<div style="text-align:center; width:300px; margin-top:5px; margin-bottom:5px;">	
+				<script language="javascript" src="http://cache.blogads.com/81950639/feed.js"></script>
+	   		</div>	
+			<div class="clear"></div>			
+		
+	<!--<div class="clear"></div>	
+	<a href="http://www.askeachother.com/aeorewards" title="AEO Rewards - Learn more" style="color:#444;"><img src="/images/rewards_med.png" alt="AEO Rewards" ism="false" /></a>
+	<br />
+	-->
+	
+	<div class="clear"></div>
+	
+	<div sytle="height:600px; width:300px;"><!-- L 160X600 #2 / AEO #5 & VC 120X600 / AEO #6 -->
+		<div style="float:left; width:160px; text-align:left; height:600px; margin-right:5px;"> <!-- background:#ededed" --> 
+			<iframe src="http://ap.lijit.com/adif_px.php?z=100481&amp;u=askeachother" width="160" height="600" frameborder="0" scrolling="no"></iframe>
+		</div>
+		<div style="float:left; width:120px; height:600px;">	  
+			<iframe src="http://www.askeachother.com/adv/iframecw120x600.html" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true" width="120" height="600"></iframe>
+		</div>
+	</div>
+
+	<div class="clear"></div>
+	<br><br>
+	<div style="width:300px; text-align:center;">
+		<center><iframe src="http://www.askeachother.com/adv/iframevc180x150.html" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true" width="180" height="150"></iframe></center>
+	</div>
+	
+	<br><br>
+	
+	</div>	 
+	
+	</div>
+
+ 
+	
+	 <div class="clear"></div>
+
+	</div> <!-- content -->
+	
+	<!-- for ajax popup -->
+	<link media="screen" rel="stylesheet" href="/css/colorbox.css">
+	<script src="/templates/js/jquery.colorbox-min.js"></script>
+	
+	
+	<script type="text/javascript">
+	
+	
+	var loggedin = 0;
+	
+	 
+
+	
+		$(".view_social_comments").colorbox({width:"700px", height:"550px"});
+	
+
+		
+
+	$("#reg_header").html("<div style='font-size:14px'>Thanks for checking the site out. AEO gets over 2M+ visitors per month and we have tons of cool, new member-only features &amp; give-aways.<br /><br />Please take a quick sec to join. It's totally free.</div>");
+	$("#reg_optional").hide();
+	$("#reg_already_member").show();  
+
+	$("#cat_Mature").click(function () {
+		$("#reg_optional").show();
+		$("#reg_header").html('You must be over 18 to access this area');
+		$("#email_field").css("width", 190);
+		$.colorbox({width:"450px", height:"560px", inline:true, href:"#adult_popup"});
+	});
+
+	function tellAFriendForm() {
+		$("#reg_optional").hide();
+		$("#reg_header").html("<img src='http://www.askeachother.com/images/greendollarsignsmall.png' style='margin-right:3px;' alt='$' align='left' /><div style='font-size:15px; color:#36a200; padding-top:6px;'><b>Join free now</b> and start earning cash simply by inviting friends!</div>");
+		$("#email_field").css("width", 160);
+		$.colorbox({width:"450px", height:"550px", inline:true, href:"#adult_popup"});
+		return false;
+	}
+
+	function miniRegForm() {
+		$("#reg_optional").hide();
+		$("#reg_header").html("<div style='font-size:14px; color:#555'><b>Thanks for checking the site out!</b> AEO gets over 2M+ visitors/mo. & we have tons of cool, new, member-only features &amp; give-aways. So, please take a quick sec to join.<br />It's totally <b>free.</b></div>");
+		$("#email_field").css("width", 160);
+		$.colorbox({width:"450px", height:"565px", inline:true, href:"#adult_popup"});
+		return false;
+	}
+
+	$("#right_signup").click(miniRegForm);
+
+	function render_page(email) {
+		if (email.indexOf('@') != -1) {
+			$("#user_page").val(email.substr(0, email.indexOf('@')));
+		} else {
+			$("#user_page").val(email);
+		}
+	}
+		
+
+	function doReg() {
+		if ($("#v10k").val() == "on") {
+			var v10k = 1;
+		} else {
+			var v10k = 0;
+		}
+
+		if ($("#tos_agree").val() != "on") { 
+			alert("Please agree to our terms");
+			return false;
+		}
+
+		var url = "/ajax/quickreg.php?email=" + escape($("#email").val()) + "&username=" + escape($("#name").val()) + "&password=" + escape($("#password").val()) + "&dob_month=" + escape($("#dob_month").val()) + "&dob_day=" + escape($("#dob_day").val()) + "&dob_year=" + escape($("#dob_year").val()) + "&user_ref_id=" + escape($("#ref").val()) + "&page=" + escape($("#user_page").val()) + "&v10k=" + v10k;
+
+		if ($('#amount').val() != undefined && isNaN($('#amount').val()) == false) {
+			url += '&share_amount=' + $('#amount').val();
+		}
+		
+		var reg_status = $.ajax({
+			url: url,
+			async: false
+		}).responseText;
+
+		if (reg_status == 'invalid_email') {
+			alert('Wrong email');
+			return false;
+		}
+
+		if (reg_status == 'reload') {
+			location.reload();
+			return false;
+		}
+
+		if (reg_status == 'username_taken') {
+			alert('This username is already used, pick another please');
+			return false;
+		}
+
+		if (reg_status == 'email_taken') {
+			alert('This email is already registered');
+			return false;
+		}
+
+		if (reg_status == 'already_registered') {
+			alert('Somebody already registered from your IP address, sorry');
+			return false;
+		}
+
+		if (reg_status == 'logged_in_already') {
+			alert("Why whould you want to register if you're logged in already?");
+			return false;
+		}
+
+		if (reg_status == 'page_taken') {
+			alert('This page address is registered already - please pick another one');
+			return false;
+		}
+
+		if (reg_status == 'ok') {
+			return true;
+		}
+
+		alert(reg_status);
+		 
+		return false;
+	}
+	
+	
+		</script>
+	
+	<style>
+	
+	#inline_example1 input { width:230px; height:20px; }
+	#inline_example1 td { height: 31px; }
+	</style>
+	
+	
+	
+	<div style="display:none">
+		<div id="adult_popup" style="padding:10px; padding-bottom:0; background:#fff;">
+			<img style="margin-bottom:7px" src="http://www.askeachother.com/images/popup/logo.gif" alt="Logo">
+		
+			<script type="text/javascript">
+			var avatarUploaded = 0;
+			</script>
+			<div id="reg_header" style="font-size:20px; margin-top:5px; margin-bottom:20px;">You must be over 18 to access this area:</div>
+			<form action="/memcp/editaccount?just_registered" method="post" enctype="multipart/form-data" onsubmit="return doReg()">
+				<table>
+					<tbody><tr>
+						<td id="email_field">Your e-mail:</td>
+						<td><input id="email" name="email" onkeyup="render_page(this.value)"></td>
+					</tr>
+					<tr>
+						<td>Password:</td>
+						<td><input id="password" name="password" type="password"></td>
+					</tr>
+					<tr>
+				    	<td>How you heard about us:</td>
+				    	<td id="ref_cell"><select id="ref" name="ref" style="width:155px;">
+							<option label="Word of Mouth" value="0">Word of Mouth</option>
+<option label="Google" value="1">Google</option>
+<option label="Facebook" value="2">Facebook</option>
+<option label="Twitter" value="3">Twitter</option>
+<option label="Yahoo" value="4">Yahoo</option>
+<option label="Bing" value="5">Bing</option>
+<option label="Myspace" value="6">Myspace</option>
+<option label="Search Engine" value="7">Search Engine</option>
+<option label="Digg" value="8">Digg</option>
+<option label="Blog" value="9">Blog</option>
+<option label="Email" value="10">Email</option>
+<option label="Ad" value="11">Ad</option>
+<option label="Pop-up/Pop-under" value="12">Pop-up/Pop-under</option>
+<option label="Ad on my comp" value="13">Ad on my comp</option>
+<option label="AEO employee" value="14">AEO employee</option>
+<option label="Redirected" value="15">Redirected</option>
+<option label="Other" value="16">Other</option>
+
+							</select></td>
+					</tr>
+					<tr>
+				    	<td colspan="2" style="background-color:#f3f3f3; padding:2px"><span style="color:gray; font-size:11px">Reserve the address url of your personal AEO page:</span><br>http://www.askeachother.com/<input style="margin-left:3px; width:144px" id="user_page" name="page"></td>
+					</tr>
+					<tr>
+				    	<td colspan="2" style="padding:2px"><input type="checkbox" id="v10k"><label for="v10k"><img src="http://www.askeachother.com/images/v10k.png" style="margin:3px; margin-left:4px; margin-bottom:0"> Guaranteed 10,000 AEO friends (limited-time-only)</label></td>
+					</tr>
+				</tbody></table>
+				<table id="reg_optional">
+					<tbody><tr>
+						<td style="width:190px">Username:</td>
+						<td><input id="name" name="name"></td>
+					</tr>
+					<tr>
+					    <td>Date of birth:</td>
+					    <td>
+					    	<select name="dob_month" id="dob_month">
+					    		<option value="0">Month</option>
+								<option value="1">Jan</option>
+								<option value="2">Feb</option>
+								<option value="3">Mar</option>
+								<option value="4">Apr</option>
+								<option value="5">May</option>
+								<option value="6">Jun</option>
+								<option value="7">Jul</option>
+								<option value="8">Aug</option>
+								<option value="9">Sep</option>
+								<option value="10">Oct</option>
+								<option value="11">Nov</option>
+								<option value="12">Dec</option>
+					    	</select>
+					    	
+					    	<select name="dob_day" id="dob_day">
+					    		<option value="0">Day</option>
+								 
+			    					<option value="1">1 </option>
+								 
+			    					<option value="2">2 </option>
+								 
+			    					<option value="3">3 </option>
+								 
+			    					<option value="4">4 </option>
+								 
+			    					<option value="5">5 </option>
+								 
+			    					<option value="6">6 </option>
+								 
+			    					<option value="7">7 </option>
+								 
+			    					<option value="8">8 </option>
+								 
+			    					<option value="9">9 </option>
+								 
+			    					<option value="10">10 </option>
+								 
+			    					<option value="11">11 </option>
+								 
+			    					<option value="12">12 </option>
+								 
+			    					<option value="13">13 </option>
+								 
+			    					<option value="14">14 </option>
+								 
+			    					<option value="15">15 </option>
+								 
+			    					<option value="16">16 </option>
+								 
+			    					<option value="17">17 </option>
+								 
+			    					<option value="18">18 </option>
+								 
+			    					<option value="19">19 </option>
+								 
+			    					<option value="20">20 </option>
+								 
+			    					<option value="21">21 </option>
+								 
+			    					<option value="22">22 </option>
+								 
+			    					<option value="23">23 </option>
+								 
+			    					<option value="24">24 </option>
+								 
+			    					<option value="25">25 </option>
+								 
+			    					<option value="26">26 </option>
+								 
+			    					<option value="27">27 </option>
+								 
+			    					<option value="28">28 </option>
+								 
+			    					<option value="29">29 </option>
+								 
+			    					<option value="30">30 </option>
+								 
+			    					<option value="31">31 </option>
+													    	</select>
+					    	<select name="dob_year" id="dob_year">
+					    		<option value="0">Year</option>
+								 
+			    					<option value="1920">1920 </option>
+								 
+			    					<option value="1921">1921 </option>
+								 
+			    					<option value="1922">1922 </option>
+								 
+			    					<option value="1923">1923 </option>
+								 
+			    					<option value="1924">1924 </option>
+								 
+			    					<option value="1925">1925 </option>
+								 
+			    					<option value="1926">1926 </option>
+								 
+			    					<option value="1927">1927 </option>
+								 
+			    					<option value="1928">1928 </option>
+								 
+			    					<option value="1929">1929 </option>
+								 
+			    					<option value="1930">1930 </option>
+								 
+			    					<option value="1931">1931 </option>
+								 
+			    					<option value="1932">1932 </option>
+								 
+			    					<option value="1933">1933 </option>
+								 
+			    					<option value="1934">1934 </option>
+								 
+			    					<option value="1935">1935 </option>
+								 
+			    					<option value="1936">1936 </option>
+								 
+			    					<option value="1937">1937 </option>
+								 
+			    					<option value="1938">1938 </option>
+								 
+			    					<option value="1939">1939 </option>
+								 
+			    					<option value="1940">1940 </option>
+								 
+			    					<option value="1941">1941 </option>
+								 
+			    					<option value="1942">1942 </option>
+								 
+			    					<option value="1943">1943 </option>
+								 
+			    					<option value="1944">1944 </option>
+								 
+			    					<option value="1945">1945 </option>
+								 
+			    					<option value="1946">1946 </option>
+								 
+			    					<option value="1947">1947 </option>
+								 
+			    					<option value="1948">1948 </option>
+								 
+			    					<option value="1949">1949 </option>
+								 
+			    					<option value="1950">1950 </option>
+								 
+			    					<option value="1951">1951 </option>
+								 
+			    					<option value="1952">1952 </option>
+								 
+			    					<option value="1953">1953 </option>
+								 
+			    					<option value="1954">1954 </option>
+								 
+			    					<option value="1955">1955 </option>
+								 
+			    					<option value="1956">1956 </option>
+								 
+			    					<option value="1957">1957 </option>
+								 
+			    					<option value="1958">1958 </option>
+								 
+			    					<option value="1959">1959 </option>
+								 
+			    					<option value="1960">1960 </option>
+								 
+			    					<option value="1961">1961 </option>
+								 
+			    					<option value="1962">1962 </option>
+								 
+			    					<option value="1963">1963 </option>
+								 
+			    					<option value="1964">1964 </option>
+								 
+			    					<option value="1965">1965 </option>
+								 
+			    					<option value="1966">1966 </option>
+								 
+			    					<option value="1967">1967 </option>
+								 
+			    					<option value="1968">1968 </option>
+								 
+			    					<option value="1969">1969 </option>
+								 
+			    					<option value="1970">1970 </option>
+								 
+			    					<option value="1971">1971 </option>
+								 
+			    					<option value="1972">1972 </option>
+								 
+			    					<option value="1973">1973 </option>
+								 
+			    					<option value="1974">1974 </option>
+								 
+			    					<option value="1975">1975 </option>
+								 
+			    					<option value="1976">1976 </option>
+								 
+			    					<option value="1977">1977 </option>
+								 
+			    					<option value="1978">1978 </option>
+								 
+			    					<option value="1979">1979 </option>
+								 
+			    					<option value="1980">1980 </option>
+								 
+			    					<option value="1981">1981 </option>
+								 
+			    					<option value="1982">1982 </option>
+								 
+			    					<option value="1983">1983 </option>
+								 
+			    					<option value="1984">1984 </option>
+								 
+			    					<option value="1985">1985 </option>
+								 
+			    					<option value="1986">1986 </option>
+								 
+			    					<option value="1987">1987 </option>
+								 
+			    					<option value="1988">1988 </option>
+								 
+			    					<option value="1989">1989 </option>
+								 
+			    					<option value="1990">1990 </option>
+								 
+			    					<option value="1991">1991 </option>
+								 
+			    					<option value="1992">1992 </option>
+								 
+			    					<option value="1993">1993 </option>
+								 
+			    					<option value="1994">1994 </option>
+								 
+			    					<option value="1995">1995 </option>
+								 
+			    					<option value="1996">1996 </option>
+								 
+			    					<option value="1997">1997 </option>
+								 
+			    					<option value="1998">1998 </option>
+								 
+			    					<option value="1999">1999 </option>
+								 
+			    					<option value="2000">2000 </option>
+								 
+			    					<option value="2001">2001 </option>
+								 
+			    					<option value="2002">2002 </option>
+								 
+			    					<option value="2003">2003 </option>
+								 
+			    					<option value="2004">2004 </option>
+								 
+			    					<option value="2005">2005 </option>
+													    	</select>
+					    </td>
+					</tr>
+					<tr>
+						<td>Your avatar (profile pic):</td>
+						<td><input name="avatar" type="file" onchange="avatarUploaded = 1;"></td>
+					</tr>
+				</tbody></table>
+				
+				<input style="width:15px; height:10px;" type="checkbox" id="tos_agree" name="tos_agree"> <label for="tos_agree" style="font-size:11px; color:gray">You have read &amp; agreed to our <a target="_blank" href="http://www.askeachother.com/tos" rel="nofollow">terms</a></label>
+				
+				<div style="text-align:center; margin:10px 0">
+					<input type="image" src="http://www.askeachother.com/images/popup/join_now.gif">
+				</div>
+			</form>
+			
+			<div style="margin-bottom:5px; text-align:center">
+			  <span style="color:gray; font-size:11px;">Recently Joined:</span><br>
+			  		    	<a href="/profile/12341" rel="nofollow"><img src="/images/avatars/small/2011-11-25-4513222_df2c2227-7671-4cc6-b00d-8fd174b3c606-B.jpg" alt="tester" title="tester"></a>
+			  		    	<a href="/profile/12340" rel="nofollow"><img src="/images/avatars/small/2011-11-25-1513222_john-mayer.jpg" alt="Louis Ramage" title="Louis Ramage"></a>
+			  		    	<a href="/profile/12317" rel="nofollow"><img src="/images/avatars/small/2011-11-21-5213219_34572-1482747344067-1095341707-31348550-8276256-n.jpg" alt="Vanessa525" title="Vanessa525"></a>
+			  		    	<a href="/profile/12312" rel="nofollow"><img src="/images/avatars/small/2011-11-18-4113216_atherhousepickinggrandmaup.jpg" alt="elinashantiana" title="elinashantiana"></a>
+			  		    	<a href="/profile/12311" rel="nofollow"><img src="/images/avatars/small/2011-11-15-1113214_LogoGamersRemorse.jpg" alt="GamersRemorse" title="GamersRemorse"></a>
+			  		    	<a href="/profile/12309" rel="nofollow"><img src="/images/avatars/small/2011-11-15-3013213_Photo2720.jpg" alt="squarelineteam" title="squarelineteam"></a>
+			  			</div>
+			
+			<div id="reg_already_member" style="text-align:center"><a href="/login" rel="nofollow">Already a member? Log in!</a></div>
+		</div>
+	</div>
+		
+   <div class="footer" style="height:90px; text-align:center; border:1px solid #ccc;"> 
+   	<div style="height:90px; text-align:center;">
+		<!-- BEGIN IFRAME TAG - www.askeachother.com, ROS < - DO NOT MODIFY -->
+		<iframe src="http://ib.adnxs.com/tt?id=543627&amp;size=728x90&amp;cb=[CACHEBUSTER]" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true" width="728" height="90"></iframe>
+		<!-- END TAG -->
+		<!-- BEGIN JS TAG - www.askeachother.com, ROS < - DO NOT MODIFY -->
+		<!--<SCRIPT SRC="http://ib.adnxs.com/ttj?id=543627&size=728x90&cb=[CACHEBUSTER]" TYPE="text/javascript"></SCRIPT>-->
+		<!-- END TAG -->  
+   	</div>   
+   </div> 
+   <div class="clear"></div>
+   	
+  </div> <!-- mask -->
+  </div> <!-- wrapper -->
+  
+  <div style="height:65px;">&nbsp;</div> 
+
+<div style="width:100%; background:#e2ecf3; border-top:1px solid #c8daeb; margin:0 auto; margin-bottom:-20px;"><!-- Bottom -->
+   <div style="margin:0 auto; width:973px; background:#e2ecf3;"><!-- Container -->
+	   <div id="footerlinks">
+		<div style="float:left; border-bottom:1px solid #b4b4b4; width:500px; margin-left:15px; text-align:left; font-size:16px;">
+			<a href="http://www.askeachother.com">Ask a Question</a> |
+			<a href="/about" title="About Us" rel="nofollow">About Us</a> |
+			<a href="/ads" title="Advertise with us" rel="nofollow">Advertising</a> |
+			<a href="/contact" title="Contact us" rel="nofollow">Contact</a>
+		</div>
+	    	<div class="right"><a href="#" rel="nofollow"><img src="/templates/images/btn-back-to-top.png" alt="Back to top"></a></div>
+		<div class="clear"></div>
+	   </div>
+   
+  	  <div class="clear"></div>
+   	  <!-- Bottom2 -->
+          <div style="float:left; text-align:center; border:0px solid #fff; padding-top:0px; margin-top:0px; margin-left:15px; width:640px; height:250px; margin:0 auto; color:#555;">
+	     <!-- Bottom2 Left -->
+	     <div style="text-align:center; padding-top:0px; border:0px solid #fff; width:600px; margin-left:20px;">
+				<div style="height:100px; width:90%">
+			&nbsp;
+		</div>
+					<!--
+			<div style="float:left; width:125px; height:125px; margin-right:20px; background:#e7e7e7; color:#777; text-align:center; font-size:18px;">
+			<br /><br /><a href="/ads" title="Click to learn more" style="color:#777;" rel="nofollow"><b>Advertise<br />Here</b></a>
+			</div>
+			<div style="float:left; width:125px; height:125px; margin-right:20px; background:#e7e7e7; color:#777; text-align:center; font-size:18px;">
+			<br /><br /><a href="/ads" title="Click to learn more" style="color:#777;" rel="nofollow"><b>Advertise<br />Here</b></a>
+			</div>
+			<div style="float:left; width:125px; height:125px; margin-right:20px; background:#e7e7e7; color:#777; text-align:center; font-size:18px;">
+			<br /><br /><a href="/ads" title="Click to learn more" style="color:#777;" rel="nofollow"><b>Advertise<br />Here</b></a>
+			</div>
+			<div style="float:left; width:125px; height:125px; margin-right:20px; background:#e7e7e7; color:#777; text-align:center; font-size:18px;">
+			<br /><br /><a href="/ads" title="Click to learn more" style="color:#777;" rel="nofollow"><b>Advertise<br />Here</b></a>
+			</div>
+			<!-- BuySellAds.com Zone Code -->
+			<!-- 4 125x125 buttons <div id="bsap_1253234" class="bsarocks bsap_fcee0f16bee69bb834dff1fdb120dc56" defer="defer"></div> -->
+			<!-- End BuySellAds.com Zone Code -->
+	   </div><!-- Bottom2 Left End -->
+
+		<div class="clear"></div>
+		
+		<div style="text-align:center; width:600px; margin-left:15px; border-top:1px solid #555; padding-top:10px; margin-top:10px;">
+		    	<h3 style="color:#555;">Disclaimer</h3>
+			  <span style="font-size:11px; color:#777;">
+				AskEachOther.com is a collaborative, community-based website and the content is provided by our Users and Members, as such, by using this website you agree to our 
+				<a href="http://www.askeachother.com/tos" title="Terms of Use">Terms of Use</a>, <a href="http://www.askeachother.com/privacy" title="Privacy Policy">Privacy Policy</a> and you also agree and understand that AskEachOther.com is not liable 
+				or responsible for any of the posted questions, votes, or any other content on this website.
+			  </span>
+			<br><br>
+			<div style="text-align:center; width:630px; border:0px solid #555; height:80px;">
+				<div style="float:left; width:100px; margin-left:70px;"></div>
+				<div style="float:left; width:630px; text-align:center;">		
+					<small>© Copyright 2008-2011 AskEachOther.com LLC. All Rights Reserved.</small><br>
+					<img src="/images/rssminit.png" align="absmiddle" alt="RSS Question Feed"> 
+					<a href="http://www.askeachother.com/rss.php" title="RSS Questions" target="_blank" rel="nofollow"><small>RSS Questions</small></a> |
+				 	<a href="http://www.askeachother.com/rss-articles" title="RSS Articles" target="_blank" rel="nofollow"><small>RSS Articles</small></a> | 
+				 	<a href="http://www.askeachother.com/privacy" title="Privacy" target="_blank"><small>Privacy Policy</small></a> |
+				 	<a href="http://www.askeachother.com/sitemap.xml" title="Sitemap" target="_blank"><small>Sitemap</small></a>
+					<br><small>* total stats are refreshed every 15 minutes</small>
+				</div>    
+			</div> 		
+	 	</div>
+     	 </div><!-- Bottom2 End -->
+     	 
+		      <div style="float:left; text-align:center; border:0px solid #ccc; padding:0px; margin-left:5px; margin-top:0px; width:300px; height:270px; margin:0 auto">		 
+				<span style="color:#333"><!-- WAS: <img src="/images/welcome300x250ftr.jpg" /></a> or gif: iframeaeo300x250.html  -->
+								<iframe src="http://www.askeachother.com/adv/iframealt300x250ftr.html" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true" width="300" height="250"></iframe>
+				<!--<a href="http://www.askeachother.com" title="Click here to Visit the AskEachOther.com Home page"><img src="/images/aeo-placeholder.png" title="AskEachOther.com" /></a>-->
+								</span>	
+	
+				<!-- Histats.com  START  (standard)-->
+				
+				<script type="text/javascript">document.write(unescape("%3Cscript src=%27http://s10.histats.com/js15.js%27 type=%27text/javascript%27%3E%3C/script%3E"));</script><script src="http://s10.histats.com/js15.js" type="text/javascript"></script>
+				<a href="http://www.histats.com" target="_blank" title="free stats" rel="nofollow"><script type="text/javascript">
+				try {Histats.start(1,1428863,4,0,0,0,"00000000");
+				Histats.track_hits();} catch(err){};
+				</script></a>
+				<noscript><a href="http://www.histats.com" target="_blank" rel="nofollow"><img  src="http://sstatic1.histats.com/0.gif?1428863&101" alt="free stats" border="0"></a></noscript>
+				
+				<!-- Histats.com  END  -->
+						
+		      </div>
+		      <div class="clear"></div>
+		      <br><br><br><br>
+	</div><!-- Container -->
+	</div><!-- Bottom -->
+  
+   
+    	
+	<script src="http://services.picadmedia.com/js/picad.js" type="text/javascript"></script><script type="text/javascript">picadService.initialize(); </script>
+    
+    
+
+ 
+	
+	<!-- start Vibrant Media IntelliTXT script section -->
+	<script type="text/javascript" src="http://askeachother.us.intellitxt.com/intellitxt/front.asp?ipid=30329"></script>
+	<!-- end Vibrant Media IntelliTXT script section -->
+	
+
+
+<!-- AR BEGIN -->
+<script src="http://www.adreadytractions.com/rt/346651?p=28721"></script>
+<!-- AR END -->
+
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "8991098" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=8991098&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+
+
+
+
+<div style="display: none;">
+
+       <div id="test-content" style="font-size:32px;color:#2a9ffe;">
+       It’s easy, all you have to do is log in &amp; start racking up points.
+       <p style="color:#000;font-size:28px" align="center"><a href="/login" title="Login">Login</a> | <a href="/register" title="Join free now">Join free</a>
+       <br><span style="font-size:11px;"><a href="/store" title="Visit the AEO Rewards Store">AEO Rewards Store</a></span></p>
+    </div>
+</div>
+ 
+</body></html>
