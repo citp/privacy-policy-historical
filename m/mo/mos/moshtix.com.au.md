@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the moshtix.com.au privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102234016id_/http%3A//www.moshtix.com.au/faq/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moshtix.com.au privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129052832id_/http%3A//www.moshtix.com.au/faq/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # moshtix | Privacy Policy
 
-[**PRIVACY POLICY**](https://web.archive.org/web/20101102234016id_/http%3A//www.moshtix.com.au/faq/Privacy_Policy.aspx)         [**TERMS & CONDITIONS**](https://web.archive.org/web/20101102234016id_/http%3A//www.moshtix.com.au/faq/Terms_And_Conditions_Of_Use.aspx)
+[**PRIVACY POLICY**](https://web.archive.org/web/20111129052832id_/http%3A//www.moshtix.com.au/faq/Privacy_Policy.aspx)         [**TERMS & CONDITIONS**](https://web.archive.org/web/20111129052832id_/http%3A//www.moshtix.com.au/faq/Terms_And_Conditions_Of_Use.aspx)
 
 * * *
 
@@ -101,6 +101,4 @@ Sydney, NSW, 2001
 
 Not a member? Don't miss out on loads of free giveaways and your very own personalised weekly moshguide. [Register here](https://web.archive.org/user/register.aspx)
 
-[ ](http://www.adobe.com/go/getflashplayer)
-
-[ ](https://web.archive.org/moshpix/gallery.aspx?key=447D3B8F8F "Airbourne, No Guts No Glory Tour 2010 - October 29, 2010 - The Gov, Hindmarsh SA")
+[ ](https://web.archive.org/moshpix/gallery.aspx?key=AA1DD2BD45 "CLAP YOUR HANDS SAY YEAH \(USA\) + SPECIAL... - November 14, 2011 - Oxford Art Factory, Darlinghurst NSW")
