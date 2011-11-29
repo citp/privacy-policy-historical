@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nojobformom.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627210829id_/http%3A//www.nojobformom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nojobformom.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129164313id_/http%3A//www.nojobformom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy : No Job For Mom
 
