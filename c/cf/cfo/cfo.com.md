@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cfo.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518004240id_/http%3A//www.cfo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfo.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129233457id_/http%3A//www.cfo.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # CFO.com - About Us
 
