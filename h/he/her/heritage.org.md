@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heritage.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629110220id_/http%3A//www.heritage.org/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heritage.org privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129183137id_/http%3A//www.heritage.org/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | The Heritage Foundation
+# Privacy Policy
 
 **The Heritage Foundation's Privacy Policy  
 ** Your privacy on the Internet is important to us. As part of the operation and customization feature of The Heritage Foundation's web site ("heritage.org"), we gather certain types of information from users, and we would like to explain the types of information we gather, what we do with them, and how to correct or change the information.
