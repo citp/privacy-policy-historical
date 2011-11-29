@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativeboom.co.uk privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531025236id_/http%3A//www.creativeboom.co.uk/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativeboom.co.uk privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129122614id_/http%3A//www.creativeboom.co.uk/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Creative Industries | Creative Boom Magazine
 
@@ -6,7 +6,7 @@ Creative Boom Ltd (“Creative Boom”) is committed to ensuring that your priva
 
 By registering as a user and/ or by using our website, you are indicating that you have read this privacy policy and understand that your personal information may be used as described below.
 
-If you have any comments or queries in connection with our privacy policy please contact us by email at hello@creativeboom.co.uk or write to us at 68H Chapel Mews, Crewe Road, Alsager, Cheshire, ST7 2HA.
+If you have any comments or queries in connection with our privacy policy please contact us by email at hello@creativeboom.co.uk or write to us at Creative Boom Ltd, 20 Diarylands Road, Church Lawton, Stoke-on-Trent, Cheshire, ST7 3EU.
 
 ## What we collect
 
@@ -80,4 +80,4 @@ We may change this policy from time to time by updating this page. You should ch
 
 ## Your rights to access personal information
 
-You have the right, under the Data Protection Act 1998, to receive information about the personal information which we hold about you upon making a written request and payment of a fee, which covers our administration costs in providing such information. If you would like a copy of the information held on you please write to us at 68H Chapel Mews, Crewe Road, Alsager, Cheshire, ST7 2HA. If you believe that any information we are holding on you is incorrect or incomplete, please contact us by email at [hello@creativeboom.co.uk](mailto:hello@creativeboom.co.uk) or write to us at 68H Chapel Mews, Crewe Road, Alsager, Cheshire, ST7 2HA.
+You have the right, under the Data Protection Act 1998, to receive information about the personal information which we hold about you upon making a written request and payment of a fee, which covers our administration costs in providing such information. If you would like a copy of the information held on you please write to us at Creative Boom Ltd, 20 Diarylands Road, Church Lawton, Stoke-on-Trent, Cheshire, ST7 3EU. If you believe that any information we are holding on you is incorrect or incomplete, please contact us by email at [hello@creativeboom.co.uk](mailto:hello@creativeboom.co.uk) or write to us at Creative Boom Ltd, 20 Diarylands Road, Church Lawton, Stoke-on-Trent, Cheshire, ST7 3EU.
