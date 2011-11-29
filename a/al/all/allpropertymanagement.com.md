@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allpropertymanagement.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525202939id_/http%3A//www.allpropertymanagement.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allpropertymanagement.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129174350id_/http%3A//www.allpropertymanagement.com/terms) for the most accurate reproduction.*
 
 # AllPropertyManagement.com - Rental and Association Management Companies
 
@@ -29,8 +29,8 @@ All Personally Identified Information gathered on this website is in accordance 
 You can contact All Property Management regarding privacy matters by mail at
 
 All Property Management  
-3123 Eastlake Ave E, Suite 109  
-Seattle, WA 98102
+2505 3rd Avenue, Suite 325  
+Seattle, WA 98121
 
 Or by email by using our [Contact Form by clicking here](http://www.allpropertymanagement.com/contact/)
 
@@ -97,7 +97,7 @@ The information at allpropertymanagement.com does not in any way constitute lega
 All Property Management does not advocate or endorse the engagement or use of any particular property management company. Selection and arrangements with any given company are the responsibility of the service user.
 
 All Property Management  
-3123 Eastlake Ave E, Suite 109  
-Seattle, WA 98102
+2505 3rd Avenue, Suite 325  
+Seattle, WA 98121
 
 **[Privacy Policy Effective date - 6.10.2008](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html)**
