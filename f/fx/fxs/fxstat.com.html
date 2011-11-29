@@ -1,27 +1,24 @@
-<!--The following is the downloaded HTML source of the fxstat.com privacy policy that was archived on 2010-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101109124138id_/http%3A//www.fxstat.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fxstat.com privacy policy that was archived on 2011-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111129023950id_/http%3A//www.fxstat.com/ur/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy - FXSTAT</title><link rel="shortcut icon" href="/favicon.ico">
-<link rel="stylesheet" type="text/css" href="/themes/default/css/main.css">
-<script type="text/javascript" src="/js/libraries/jquery1.3.2.js"></script>
+<link rel="stylesheet" type="text/css" href="/themes/default/css/highslide.css">
+<!-- <script type="text/javascript" src="/js/libraries/jquery1.3.2.js"></script>  -->
+<script type="text/javascript" async="" src="https://chat.livechatinc.net/licence/1047994/script.cgi?lang=en&amp;groups=0"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="/js/libraries/jquery-1.5.2.min.js"></script>
 <script type="text/javascript" src="/js/jquery.betterTooltip.js"></script>
+<script type="text/javascript" src="/js/highslide-with-html.js"></script>
 <script type="text/javascript" src="/js/common.js"></script>
 <script type="text/javascript" src="/js/date.format.js"></script>
+<!-- Highcharts  -->
+<script src="/highcharts/highcharts.js" type="text/javascript"></script>
+<!-- Highcharts -->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-<!-- <script type="text/javascript">
-  var rpxJsHost = (("https:" == document.location.protocol) ? "https://" : "http://static.");
-  document.write(unescape("%3Cscript src='" + rpxJsHost +
-"rpxnow.com/js/lib/rpx.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-  RPXNOW.overlay = true;
-  RPXNOW.language_preference = 'en';
-</script> -->
-
+<link rel="stylesheet" type="text/css" href="/themes/default/css/main.css">
+<link rel="stylesheet" type="text/css" href="/themes/default/css/rtl.css">
 <script type="text/javascript">//<![CDATA[
-var watch = new Date(2010,11-1,09,12,41,38);
+var watch = new Date(2011,11-1,29,02,41,24);
 function watchTick()
 {
     $("#watch").text(watch.format("ddd, mmm dd yyyy, HH:MM:ss"));
@@ -33,13 +30,13 @@ $(function(){
     var url = window.location.href;
 
     $(".menu a").each(function(){
-	if ($(this).attr('href') != '/') {
+	if (($(this).attr('href') != '/') && ($(this).attr('href')!='#')) {
         if (url.search($(this).attr('href'))>=0) {
             $(this).addClass('active');
         }}
     });
 
-	 $(".menu .homeitem").each(function(){
+	$(".menu .homeitem").each(function(){
         if (url.search($(this).attr('href')+'$')>=0) {
             $(this).addClass('active');
         }
@@ -47,7 +44,7 @@ $(function(){
 
     $(".withtip").betterTooltip();
 
-    var defaultSearch = 'Search...';
+    var defaultSearch = "تلاش کرے";
     if ($('#searchString').val() == '') {
         $('#searchString').val(defaultSearch);
     }
@@ -93,26 +90,50 @@ $(function(){
 
 	watchTick();
 
-});
+	$('.header-dropdown-trigger').mouseover(function(){
+		$(this).parent().find('.header-dropdown-content').show('fast');
+		$(this).addClass('header-dropdown-trigger-down');
+	});
+	
+	$(".header-links-dropdown").mouseleave(function(){
+        $(this).find('.header-dropdown-content').fadeOut();
+		$(this).find('.header-dropdown-trigger').removeClass('header-dropdown-trigger-down');
+    });
+
+	});
+
+hs.graphicsDir = '/themes/default/images/highslide/graphics/';
+hs.outlineType = 'rounded-white';
+hs.showCredits = false;
+
+
 //]]></script>
-</head>
+<style type="text/css">.highslide img {cursor: url(/themes/default/images/highslide/graphics/zoomin.cur), pointer !important;}</style></head>
 
 <body>
 
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+    
 <div id="tooltip" class="tip">
   <div class="tipTop"></div>
   <div class="tipMid"></div>
   <div class="tipBtm"></div>
  </div>
 
-
-
+<div class="site">
 <div class="header-wrap">
 <div class="header">
 
 <div class="loginform hidden">
 <div class="form_errors hidden"></div><a href="#" class="closelogin">&nbsp;</a>
-<form id="loginform" method="post" action="/">
+<form id="loginform" method="post" action="/ur/index">
 <div class="label">Email Address:</div>
 
 <input type="text" name="form_username" id="form_username" value="" class="text"><div class="form_username_errors hidden" id="form_username_errors"></div><div class="label">Password:</div>
@@ -122,193 +143,372 @@ $(function(){
 <input type="hidden" name="form_rememberme" value=""><input type="checkbox" name="form_rememberme" id="form_rememberme" value="1"><label for="form_rememberme">Remember me</label></div>
 <input type="submit" class="button loginbutton" value="Login">
 <div class="clear"></div>
-<div class="forgotpass"><a href="/user/reset" class="">Forgot your password?</a></div>
+<div class="forgotpass"><a href="http://www.fxstat.com/ur/user/reset" class="">Forgot your password?</a></div>
 <!-- <div class="forgotpass"><a class="rpxnow" onclick="return false;" href="https://tradesshare.rpxnow.com/openid/v2/signin?token_url=http%3A%2F%2Fwww.fxstat.com%2Frpx"> Sign In using OpenID</a></div> -->
+<input type="hidden" name="back" value="/ur/privacy">
+    
 </form>
 </div>
 
-<a href="/" class="logo" title="FXSTAT"><img src="/themes/default/images/logo.png" alt="FXSTAT"></a>
+<div class="header-links">
+
+<a class="signinlink" href="#">Sign In</a>
+<a class="registerlink" href="http://www.fxstat.com/ur/">Register</a>
+
+</div>
+
+<!-- 
+	<a href="http://www.fxstat.com/ur/user/index" class="logo" title="FXSTAT"><img src="/themes/default/images/logo.png" alt="FXSTAT" /></a>
+ -->
+<a href="http://www.fxstat.com/ur/user" class="logo" title="FXSTAT"><img src="/themes/default/images/logo.png" alt="FXSTAT"></a>
+
+<div class="supplements">
+    <div class="clock">
+    <span class="icon icon-clock">&nbsp;</span>
+    <span id="watch">Tue, Nov 29 2011, 02:41:25</span> GMT
+    </div>
+    					<a href="#" onclick="return(false);" id="translate_mode" class="translatebutton withtooltip" title="Available to registered members only"><dfn class="trans_mod">Translation mode</dfn></a>
+			</div>
+
+
+<div class="menu">
+	<a href="http://www.fxstat.com/ur/index" class="item homeitem first"><span><dfn class="trans_mod">صفحہ اول</dfn></span></a>
+
+	<a href="/ur/autotrading" onclick="return(false);" class="item withtooltip" title="Available to registered members only"><span><dfn class="trans_mod">Autotrading</dfn></span></a>
+
+
+<a href="#" onclick="return(false);" class="item withtooltip" title="Available to registered members only"><span><dfn class="trans_mod">میرا پورٹفلیو</dfn></span></a>
+
+<a href="http://www.fxstat.com/ur/performances" class="item"><span><dfn class="trans_mod">کارکردگی</dfn></span></a>
+<a href="http://www.fxstat.com/ur/forum" class="item last"><span><dfn class="trans_mod">مَجا لِس</dfn></span></a>
+<div class="clear"></div>
+</div>
 
 
 <div class="search">
-<form id="searchForm" method="get" action="/search">
+<form id="searchForm" method="get" action="/ur/search">
 <input type="text" maxlength="64" name="s" id="searchString" class="searchinput" value="">
 <a href="#search" class="searchbutton" onclick="if($(&quot;#searchString&quot;).val()){$(&quot;#searchForm&quot;).submit();} return false;">&nbsp;</a>
+<span class="hidden"><dfn class="trans_mod">تلاش کرے</dfn></span>
 </form>
 </div>
 
-<div class="clock">
-    <span class="icon icon-clock">&nbsp;</span>
-    <span id="watch">Tue, Nov 09 2010, 12:41:39</span> GMT
-</div>
-<div class="clear"></div>
-
-<div class="menu">
-<a href="/" class="item homeitem"><span>Home</span></a>
-<a href="#" onclick="return(false);" class="item withtooltip" title="Available to registered members only"><span>My Portfolio</span></a>
-
-
-<a href="/perfomances" class="item"><span>Performances</span></a>
-
-<!--
-<a href="#" onclick="return(false);" class="item withtooltip" title="Available to registered members only"><span>Connections</span></a>
--->
-
-<a href="/forum" class="item"><span>Forums</span></a>
-<!-- <a href="/news" class="item"><span>News</span></a> -->
-<!-- <a href="#" class="item"><span>Community</span></a> -->
-<!-- <a href="/brokers" class="item"><span>Brokers</span></a> -->
-<div class="clear"></div>
-</div>
-
-
-<div class="links">
-<a class="signinlink" href="#">Sign In</a>
- <a class="registerlink" href="/">Register</a>
-
-<div class="clear"></div>
-</div>
-
 <div class="clear"></div>
 </div>
 </div>
 
-
-<div class="topbanner">
-
-<!--/* OpenX Javascript Tag v2.8.5 */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
-
-   var m3_u = (location.protocol=='https:'?'https://test.fxstat.com/www/delivery/ajs.php':'http://test.fxstat.com/www/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=5&amp;target=_blank");
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
-       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
-   }
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://test.fxstat.com/www/delivery/ajs.php?zoneid=5&amp;target=_blank&amp;cb=11596772212&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20101109124138id_/http%253A//www.fxstat.com/privacy"></script>
-<noscript>
-<a href='http://test.fxstat.com/www/delivery/ck.php?n=a5a00600&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://test.fxstat.com/www/delivery/avw.php?zoneid=5&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a5a00600&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a>
-</noscript>
-
-
-</div>
-
+	    	        			<div id="messagesBox">
+	                <div class="messagesBlink" id="tip_13" href="#">
+	                    <span class="messagetitle">FxStat Rewards Its Active Forum Users</span>
+	                    <span class="message-text tip_13">Contribute to fxstat forum and get rewarded! Interact now with traders, specialists and other people interested in the forex market. <a href="http://blog.fxstat.com/index.php/2011/08/15/fxstat-rewards-its-active-forum-users/">More...</a></span>
+	                </div>
+			</div>
+	        	            
 <div class="page">
-<div class="box whitebox" id="terms-use">
+<div class="box borderedbox privacy staticpage">
 <div class="content">
-    <h1>
-      Website Privacy Policy
-    </h1>
+
+<h1><dfn class="trans_mod">ویب سائٹ کی پو شید گی پا لیسی</dfn></h1>
 <div class="clear"></div>
+
 <div class="text">
-The Internet is an amazing tool. It has the power to change the way we live, and we're starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It's important to FXSTAT to help our customers retain their privacy when they take advantage of all the Internet has to offer. 
-<div class="clear"></div>
-We believe your business is no one else's. Your privacy is important to you and to us. So we'll protect the information you share with us. To protect your privacy, FXSTAT follows different principles in accordance with worldwide practices for customer privacy and data protection.
- <ul>
- <li>We won�t sell or give away, mail address, phone number, email address or any other information to anyone. </li>
- <li>We�ll use state-of-the-art security measures to protect your information from unauthorized users. </li>
- </ul>
- <div class="clear"></div>
-<b>NOTICE</b>
-<div class="clear"></div>
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you create a Registration ID on the site or when you download free software, enter a contest, order email newsletters or join a limited-access premium site. We use your Personal Information for four primary purposes:
-  <ul>
- <li>To make the site easier for you to use by not having to enter information more than once.  </li>
- <li>To help you quickly find software, services or information.  </li>
- <li>To help us create content most relevant to you.  </li>
- <li>To alert you to product upgrades, special offers, updated information and other new services from FXSTAT.  </li>
- </ul>
- <div class="clear"></div>
-<b>CONSENT</b>
-<div class="clear"></div>
-If you choose not to register or provide personal information, you can still use most of www.FXSTAT.com. But you will not be able to access areas that require registration. 
-<div class="clear"></div>
-If you decide to register, you will be able to select the kinds of information you want to receive from us by subscribing to various services, like our electronic newsletters. If you do not want us to communicate with you about other offers regarding FXSTAT  products, programs, events, or services by email, or telephone, you may select the option stating that you do not wish to receive marketing messages from FXSTAT from your setting area. 
-<div class="clear"></div>
-FXSTAT occasionally allows other companies to offer our registered customers information about their products and services, using Email only. If you do not want to receive these offers, you may select the option stating that you do not wish to receive marketing materials from third parties. 
-<br><br>
-<b>ACCESS</b>
-<div class="clear"></div>
-We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time at the Visitor Center. There, you can:
-  <ul>
- <li>View and edit personal information you have already given us. </li>
- <li>Tell us whether you want us to send you marketing information, or whether you want third parties to send you their offers by postal mail. </li>
- <li>Sign up for electronic newsletters about our services and products. </li>
- <li>Register. Once you register, you will have access to the setting area where you can create th above settings.</li>
+<h4>Introduction</h4>
+<p>
+The Internet is an amazing tool. It has the power to change the way we live, and we're starting to 
+see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, 
+buy goods and services, and communicate with others from around the world. It's important to 
+FXSTAT to help our customers retain their privacy when they take advantage of all the Internet has to offer. 
+</p>
+<p>
+Fxstat Group Inc. ("Fxstat", "we" or "us") thoroughly desires 
+to protect the privacy of its visitors and members in Fxstat's social forex trader 
+network at www.fxstat.com (the "Site").
+</p>
+<p>
+We believe your business is no one else's. Your privacy is important to you and to us. 
+So we'll protect the information you share with us. To protect your privacy, FXSTAT 
+follows different principles in accordance with worldwide practices for customer privacy and data protection. 
+</p>
+<ul>
+<li>We won't sell or give away, mail address, phone number, email address or any other information to anyone.</li>
+<li>We'll use state-of-the-art security measures to protect your information from unauthorized users.</li>
+</ul>
+
+<h4>Protecting private information</h4>
+<p>
+The fxstat "Privacy Policy" is intended to bring into your notice our safe and secure information 
+management system. We openly share all our information management practices with our members. 
+We specifically mention the types of information that we gather. The purpose of gathering the 
+information and way we protect it are also shared with the customers. You use this site after accepting 
+the Fxstat Privacy Policy and the Terms of Use. Fxstat's terms and conditions are hereby incorporated 
+by reference. <a href="http://www.fxstat.com/terms">http://www.fxstat.com/terms</a>. 
+Fxstat's employees and third-party service providers are not given any kind of access 
+to customers' private data, except as mentioned in this Privacy Policy, 
+the website sercive agreement/Terms of Use, or as otherwise disclosed to you.
+</p>
+
+<h4>How we gather and use the information</h4>
+<p>
+We will ask you when we need information that personally identifies you (personal information) 
+or allows us to contact you. Generally, this information is requested when you create a Registration 
+ID on the site or when you download free software, enter a contest, order email newsletters or 
+join a limited-access premium site. We use your Personal Information for four primary purposes: 
+</p>
+<ul>
+<li>To make the site easier for you to use by not having to enter information more than once.</li>
+<li>To help you quickly find software, services or information.</li>
+<li>To help us create content most relevant to you.</li>
+<li>To alert you to product upgrades, special offers, updated information and other new services from FXSTAT.</li>
+</ul>
+
+<h4>Cookies and Aggregate Data</h4>
+<p>
+We may gather aggregate data known as "web log information", which may include information 
+about the web browser, and operating system you use, or the web pages you visit, etc. 
+We may also use cookies when you visit our Site. When you visit Fxstat, our web server 
+will automatically gather and recognize some "non-personal information", such as the 
+date and time of your visit, the web pages you visited, the referrer website you came
+ from, the type of internet browser and operating system you are using, and your 
+ internet service provider's domain name and address. Our web server or cookies do 
+ not gather any personal information such as your name or email address. We do not 
+ attempt to identify any of our users. The Aggregate and Statistical Data we collect just 
+ helps us design and improve our Site, identify useful and popular features, and fulfill other 
+ managerial purposes. Cookies are discussed in detail below.
+ </p>
+ 
+<h3>WHAT WE DO WITH THE INFORMATION YOU SHARE</h3>
+<p>
+When you join us, you provide us with your contact information, including name and email address.
+We use this information to send you updates about your system, questionnaires to measure your 
+satisfaction with our service and announcements about new and exciting services that we offer. 
+</p>
+<p>
+FXSTAT will disclose your personal information, without notice, only if required to do so by law 
+or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law 
+or comply with legal process served on FXSTAT or the site; (b) protect and defend the rights or 
+property of FXSTAT and its family of Websites, and, (c) act in urgent circumstances to protect the 
+personal safety of users of FXSTAT, its Websites, or the public.
+</p>
+
+<h4>Information regarding Transactions and holdings amounts</h4>
+<p>
+Personally Identifiable Information that we collect may also be associated with the forex 
+transactions you execute. Information regarding holding amounts and transactions is used 
+for various calculation and normalization purposes. We do not share this with other members 
+of Fxstat unless you chose to have a public account.
+</p>
+
+<h4>Levels of information sharing</h4>
+<p>
+You can control access to your personal information by choosing levels of information 
+sharing. You are given the opportunity to decide how much information you want to 
+share with members or other parties.
+</p>
+<ol type="a">
+<li>Publicly available information&nbsp;— this is the lowest level. Anyone visiting Fxstat can access the information tagged at this level. </li>
+<li>Registered community&nbsp;— this information is not publicly available and only the members of Fxstat community can access the Information that is tagged at this level.</li>
+<li>My Trade Network&nbsp;— Information tagged at this level can only be accessed by members of your trading team, whom you have explicitly authorized to have access to such information.</li>
+<li>Private information&nbsp;— Information tagged at this level can only be seen by you.</li>
+</ol>
+
+<h3>ACCESS</h3>
+<p>
+We will provide you with the means to ensure that your personal information is correct and 
+current. You may review and update this information at any time at the Visitor Center. There, you can:
+</p>
+<ul> 
+<li>View and edit personal information you have already given us.</li>
+<li>Tell us whether you want us to send you marketing information, or whether you want third parties to send you their offers by postal mail.</li>
+<li>Sign up for electronic newsletters about our services and products.</li>
+<li>Register. Once you register, you will have access to the setting area where you can create th above settings.</li>
 <li>Wherever you go on www.FXSTAT.com, your information such as name email etc stays with you unless you share it with others via Widgets, Email, Profile, Answer and Ask Section.</li>
- </ul>
- <div class="clear"></div>
-<b>NOTICE TO PARENTS</b>
-<div class="clear"></div>
-Parents or guardians: we want to help you guard your children's privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet. 
- <br><br>
-<b>ENFORCEMENT</b>
-<div class="clear"></div>
-If for some reason you believe FXSTAT has not adhered to these principles, please notify us by email at <a href="mailto:privacy@fxstat.com">privacy@fxstat.com</a>, and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
- <br><br>
+</ul>
+<p>
+We do not store credit card details nor do we share customer details with any 3rd parties
+</p>
 
-<b>WHAT WE DO WITH THE INFORMATION YOU SHARE</b>
-<div class="clear"></div>
-When you join us, you provide us with your contact information, including name and email address. We use this information to send you updates about your system, questionnaires to measure your satisfaction with our service and announcements about new and exciting services that we offer. 
-<div class="clear"></div>
-FXSTAT  will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on FXSTAT  or the site; (b) protect and defend the rights or property of FXSTAT  and its family of Websites, and, (c) act in urgent circumstances to protect the personal safety of users of FXSTAT , its Websites, or the public.
+<h4>Non-Personally Identifiable Data</h4>
+<p>
+Information that is not personally identifiable would be used without any obligation to you. 
+For instance non-personally identifiable information could be your answers to online surveys, 
+comments, recommendations, ideas and suggestions are considered as non-confidential, 
+and we can freely disclose and use such information for any purpose and through any means.
+</p>
 
-<br><br><br><br><br><br>
-		
+<h4>Use of Cookies</h4>
+<p>
+We may issue cookies and store them on your computer or other technology in order to 
+provide you quality service, improve your experience of visiting our Site, and to retain 
+information regarding certain user attributes. A cookie can be defined as "a small amount of 
+data that is issued to your web browser from a web server and stored on your computer's hard drive".
+</p>
+ 
+<h4>Why we use "cookie" technology?</h4>
+<p>
+We use cookies to collect general information about our users. The information gathered 
+through cookies is non-personally identifiable, and is used in statistical and market research 
+programs. you are given the option to save cookies in order to set up a link between your 
+personal computer and Fxstat. It helps us to customize the site for you and present the 
+information of your interest to you. Cookies also help us authenticate you. The link between 
+your computer and our site enables you to log in without providing your password again 
+and again. You are not asked for the same routine information every time you visit our site. 
+You can modify your browser preferences regarding cookies. You can accept or reject all 
+cookies, or can opt for a notification when a cookie is set. Go to your browser's "Help" 
+section to learn more about cookies.
+</p>
+
+<h3>NOTICE TO PARENTS</h3>
+<p>
+Parents or guardians: we want to help you guard your children's privacy. We encourage 
+you to talk to your children about safe and responsible use of their Personal Information 
+while using the Internet.
+</p>
+
+<h4>Links to Other Sites</h4>
+<p>
+Fxstat may at times offer links to other websites from websites within the Fxstat domain. 
+We do not control these external websites and have no control over their content, 
+thus we cannot be held accountable for any of their actions or incidents where they 
+may collect any information. You may open any of these sites either through 
+clicking on a banner advertisement provided on our sites as part of our co-branding 
+activities, or simply by clicking a link on Fxstat web pages. You should know that this 
+Privacy Policy only applies to use of Fxstat and it does not cover your use of these external 
+sites. If you give any personal information to any of such sites, they will process or collect 
+your personal identifiable information according to their own rules and regulations. Every site 
+treats privacy, security, data collection, and distribution in a different way. This is, however, 
+recommended that you should review their privacy policies before using such linked sites. 
+The linked sites may store their own cookies on your computer or collect data and other 
+personal information. Always be careful while visiting an external site.
+</p>
+
+<h4>Changes to Policy</h4>
+<p>
+These policies may, at anytime be revised, updated and posted on our website. 
+Your continued use of this Site shows that you accept and approve of all revisions. 
+You should, therefore, regularly visit this page to review the changes in the privacy policy 
+if there are any. If for some reason you believe FXSTAT has not adhered to these principles, 
+please notify us by email at privacy@fxstat.com, and we will do our best to determine and 
+correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
+</p>
+
 </div>
-<div style="clear:both;"></div>
+
+<div class="clear"></div>
 </div>
 <div class="bottom"><div class="left"></div><div class="right"></div><div class="middle"></div></div>
 <div class="clear"></div>
-</div></div>
-
-<!-- <div class="adspace">
-<div class="blankarea">Advertisement area</div>
-</div> -->
+</div>
+</div>
+<div class="footer-space"></div>
+</div>
 
 <div class="footer">
-<div class="links">
+<div class="footer-content ">
+
+<div class="column">
+<strong><dfn class="trans_mod">Company</dfn></strong>
+<ul>
+<li><a href="http://www.fxstat.com/ur/about"><dfn class="trans_mod">About Us</dfn></a></li>
+<li><a href="http://blog.fxstat.com"><dfn class="trans_mod">بلاگ</dfn></a></li>
+<li><a href="http://www.facebook.com/pages/FXSTATcom/109353142438542?v=info"><dfn class="trans_mod">Facebook</dfn></a></li>
+<li><a href="http://twitter.com/fxstat"><dfn class="trans_mod">Twitter</dfn></a></li>
+<a href="#" onclick="return(false);" class="withtip" title="Available to registered members only"><span><dfn class="trans_mod">Invite to FxStat</dfn></span></a>
+
+</ul>
+</div>
+
+<div class="column">
+<strong><dfn class="trans_mod">Support</dfn></strong>
+<ul>
+<li><a href="http://www.fxstat.com/ur/faq"><dfn class="trans_mod">زیادہ کیے جانے والے سوالات</dfn></a></li>
+<li><a href="http://help.fxstat.com/index.php?/"><dfn class="trans_mod">مدد</dfn></a></li>
+<li><a href="http://www.fxstat.com/ur/contact"><dfn class="trans_mod">ہمارے ساتھ رابطہ</dfn></a></li>
+</ul>
+</div>
+
+<div class="column">
+<strong><dfn class="trans_mod">پلیٹ فارم</dfn></strong>
+<ul>
+<li><a href="http://www.fxstat.com/ur/mobile"><dfn class="trans_mod">Mobile</dfn></a></li>
+ 
+  
+<li><a href="http://www.fxstat.com/ur/comparison"><dfn class="trans_mod">Compare Performances</dfn></a></li>
+</ul>
+</div>
+
+<div class="column">
+<strong><dfn class="trans_mod">Autotrading</dfn></strong>
+<ul>
+
+<li><a href="/user/payment"><dfn class="trans_mod">Payments</dfn></a></li>
+<li><a href="http://www.fxstat.com/ur/providerfaq"><dfn class="trans_mod">Signal Provider FAQ</dfn></a></li>
+<li><a href="http://www.fxstat.com/ur/investorsfaq"><dfn class="trans_mod">Signal Follower FAQ</dfn></a></li>
+<li><a href="http://www.fxstat.com/ur/autotrading/prices"><dfn class="trans_mod">Commissions &amp; Fees</dfn></a></li>
+<!-- <li><a href="/brokers"><dfn class='trans_mod'>Supported Brokers</dfn></a></li> -->
+</ul>
+</div>
+
+<div class="column">
+<strong><dfn class="trans_mod">مَجا لِس</dfn></strong>
+<ul>
+<li><a href="http://www.fxstat.com/ur/forum/showcategory/20-General-forum"><span><dfn class="trans_mod">General Forum</dfn></span></a></li>
+<li><a href="http://www.fxstat.com/ur/forum/showcategory/24-Expert-Advisors"><dfn class="trans_mod">Expert Advisors</dfn></a></li>
+<li><a href="http://www.fxstat.com/ur/forum/showcategory/25-Trading-discussion"><dfn class="trans_mod">Trading Discussion</dfn></a></li>
+<li><a href="http://www.fxstat.com/ur/forum/showcategory/26-Free-Forex-Trading-Systems"><dfn class="trans_mod">Free Forex Trading Systems</dfn></a></li>
+<li><a href="http://www.fxstat.com/ur/forum/showcategory/27-Broker-Discussion"><dfn class="trans_mod">Broker Discussion</dfn></a></li>
+</ul>
+</div>
+
+<div class="column">
+<strong><dfn class="trans_mod">Track Records</dfn></strong>
+<ul>
+<li><a href="http://www.fxstat.com/ur/perfomances" class="item"><span><dfn class="trans_mod">کارکردگی</dfn></span></a></li>
+<li><a href="http://www.fxstat.com/ur/forum/Performance_Discussion"><dfn class="trans_mod">Performance Discussion</dfn></a></li>
+</ul>
+</div>
 
 <div class="clear"></div>
-<a href="/terms">Terms of Use</a> |
-<a href="/faq">FAQ </a> |
-<a href="/privacy">Privacy </a> |
-<a href="http://help.fxstat.com/index.php?/askQuestionForm">Contact Us</a> |
-<a href="/about">About</a> |
-<!-- <a href="/sitemap">Sitemap</a> | -->
- <a href="http://help.fxstat.com/index.php?/">Help</a> |
- <a href="http://blog.fxstat.com">Blog</a> |
- <a href="http://twitter.com/fxstat" class="twitter">&nbsp;</a> |
-<a href="http://www.facebook.com/pages/FXSTATcom/109353142438542?v=info" class="facebook">&nbsp;</a> <!-- |
-<a href="http://fxstat.zendesk.com/anonymous_requests/new"><span class="icon icon-bug">&nbsp;</span>Report a Bug</a> -->
-</div>
-© 2010 FX STAT Ltd. All Rights Reserved.<div class="clear"></div>
-<div class="warning">
-RISK WARNING: Trading foreign exchange, contract for difference, share, commodities on margin carries a high level of risk, and may not be suitable for all. Before deciding to trade foreign exchange you should carefully consider your monetary objectives, level of experience, and risk appetite. Any data and information is provided here, solely for informational purposes, and is not intended for trading purposes or advice. You should be aware of all the risks associated with online margin trading, and seek advice from an independent advisor if you have any doubts. Past returns are not indicative of future results.
-</div>
+
+
+
+<div class="languages">
+
+					<a href="/en/privacy">English</a>
+								<a href="/ru/privacy">Русский</a>
+								<a href="/fr/privacy">Français</a>
+								<a href="/fa/privacy">فارسی</a>
+								<a href="/ar/privacy">العربية</a>
+								<a href="/es/privacy">Español</a>
+								<a href="/pt/privacy">Português</a>
+								<a href="/it/privacy">Italiano</a>
+								<a href="/zh/privacy">中文</a>
+								<a href="/ur/privacy">اردو</a>
+			</div>
+<div class="clear"></div>
+
+<div class="links">
+<a href="http://www.fxstat.com/ur/map"><dfn class="trans_mod">Sitemap</dfn></a>
+<a href="http://www.fxstat.com/ur/risk"><dfn class="trans_mod">Risk Disclosure</dfn></a>
+<a href="http://www.fxstat.com/ur/terms"><dfn class="trans_mod">استعمال کے قوانین</dfn></a>
+<a href="http://www.fxstat.com/ur/privacy"><dfn class="trans_mod">Privacy Policy</dfn></a>
 </div>
 
-<div id="opaco" class="hidden"></div>
-<div id="popup" class="hidden"></div>
-<div id="loading" class="loading hidden"><img src="/themes/default/images/loading.gif" width="16" height="16" alt="Loading..."></div>
-<div id="alert_message" class="hidden"></div>
+<div class="copy">© 2011 FX STAT Group Inc. All Rights Reserved.</div>
 
-<!-- BEGIN ProvideSupport.com Visitor Monitoring Code -->
-<div id="ciIlaY" style="z-index:100;position:absolute"></div><div id="sdIlaY" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/fxstat/safe-monitor.js?ps_h=IlaY&amp;ps_t=1580479502000"></script></div><script type="text/javascript">var seIlaY=document.createElement("script");seIlaY.type="text/javascript";var seIlaYs=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/fxstat/safe-monitor.js?ps_h=IlaY&ps_t="+new Date().getTime();setTimeout("seIlaY.src=seIlaYs;document.getElementById('sdIlaY').appendChild(seIlaY)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?monitor=fxstat"><img src="http://image.providesupport.com/image/fxstat.gif" border="0"></a></div></noscript>
-<!-- END ProvideSupport.com Visitor Monitoring Code -->
 
+<div class="disclaimer">
+<p>
+Disclaimer: Trading foreign exchange ("Forex"), Commodity futures, options, CFDs and SpreadBetting on margin 
+carries a high level of risk, and may not be suitable for all investors. Before deciding to trade foreign exchange ("Forex"), 
+Commodity futures, options, CFDs or SpreadBetting you should carefully consider your monetary objectives, level of 
+experience, and risk appetite. The possibility exists that you could sustain a loss of some or all of your deposited funds 
+and therefore you should not speculate with capital that you cannot afford to lose. You should be aware of all the risks 
+associated with foreign exchange, Commodity futures, options, CFDs and SpreadBetting trading, and seek advice from 
+an independent advisor if you have any doubts. Past returns are not indicative of future results.
+</p>
+</div>
+
+<div class="body-scripts">
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -317,9 +517,35 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 try {
 var pageTracker = _gat._getTracker("UA-15622174-1");
 pageTracker._trackPageview();
-} catch(err) {}</script>
+} catch(err) {}
+</script>
+
+<!-- Live Chat -->
+<script type="text/javascript">
+var lc_params = '';
+var lc_lang = 'en';
+var lc_skill = '0';
+
+var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+var lc_src = ('https:' == document.location.protocol ? 'https://' : 'http://');
+lc_src += 'chat.livechatinc.net/licence/1047994/script.cgi?lang='+lc_lang+unescape('%26')+'groups='+lc_skill;
+lc_src += ((lc_params == '') ?'' : unescape('%26')+'params='+encodeURIComponent(encodeURIComponent(lc_params))); lc.src = lc_src;
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+</script>
+<!-- End of Live Chat -->
+
+</div>
+
+</div>
+</div>
+
+<div id="opaco" class="hidden"></div>
+<div id="popup" class="hidden"></div>
+
+
+<div id="loading" class="loading hidden"><img src="/themes/default/images/loading.gif" width="16" height="11" alt="Loading..."></div>
+<div id="alert_message" class="hidden"></div>
 
 
 
-
-</body></html>
+<div class="highslide-container" style="padding: 0px; border: none; margin: 0px; position: absolute; left: 0px; top: 0px; width: 100%; z-index: 1001; direction: ltr;"><a class="highslide-loading" title="Click to cancel" href="javascript:;" style="position: absolute; top: -9999px; opacity: 0.75; z-index: 1;">Loading...</a><div style="display: none;"></div><table cellspacing="0" style="padding: 0px; border: none; margin: 0px; visibility: hidden; position: absolute; border-collapse: collapse; width: 0px;"><tbody style="padding: 0px; border: none; margin: 0px;"><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td class="rounded-white highslide-outline" style="padding: 0px; border: none; margin: 0px; position: relative;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr></tbody></table></div></body></html>
