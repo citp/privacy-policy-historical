@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldcup2010southafrica.com privacy policy that was archived on 2011-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110401113138id_/http%3A//www.worldcup2010southafrica.com/privacy-policy-for-worldcup2010southafricacom) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcup2010southafrica.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129200358id_/http%3A//www.worldcup2010southafrica.com/privacy-policy-for-worldcup2010southafricacom) for the most accurate reproduction.*
 
-# World Cup 2010 | Privacy policy of worldcup2010southafrica.com
+# World Cup 2014 Brazil | Privacy policy of worldcup2010southafrica.com
 
 We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you visit worldcup2010southafrica.com, and how we safeguard your information. We never sell your personal information to third parties.
 
@@ -13,3 +13,5 @@ We also use third party advertisements on worldcup2010southafrica.com to support
 This is generally used for geotargeting purposes (showing London real estate ads to someone in London) or showing certain ads based on specific sites visited (such as showing film ads to someone who frequents film sites). 
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
+
+[blog comments powered by Disqus](http://disqus.com/)
