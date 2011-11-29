@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the advancedpokertraining.com privacy policy that was archived on 2009-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090922035500id_/http%3A//www.advancedpokertraining.com/poker/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advancedpokertraining.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129011136id_/http%3A//www.advancedpokertraining.com/poker/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Advanced Poker Training
 
-Privacy Policy » 
+We Value Your Privacy 
 
 Simply put, our privacy policy is as follows: 
 
