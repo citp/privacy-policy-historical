@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gamezhero.com privacy policy that was archived on 2011-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110503200523id_/http%3A//www.gamezhero.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gamezhero.com privacy policy that was archived on 2011-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111129131940id_/http%3A//www.gamezhero.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy Policy</title>
@@ -29,16 +29,28 @@ pageTracker._trackPageview();
 } catch(err) {}</script>
 
 
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
-<script type="text/javascript">
-  GS_googleAddAdSenseService("ca-pub-8534241251740038");
-  GS_googleEnableAllServices();
-</script>
-<script type="text/javascript">
-  GA_googleUseIframeRendering();
-</script>
 
+    <script type="text/javascript">
+        (function () {
+        var useSSL = 'https:' == document.location.protocol;
+        var src = (useSSL ? 'https:' : 'http:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+        document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+        '//www.googletagservices.com/tag/js/gpt.js';
+        })();
+    </script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+
+    <script type="text/javascript">
+                    googletag.defineSlot('/1032602/GamezheroTop728x90', [728, 90], 'div-gpt-ad-1321539077167-0').addService(googletag.pubads());
+                    googletag.defineSlot('/1032602/GamezheroTop300x250', [300, 250], 'div-gpt-ad-1321539233535-0').addService(googletag.pubads());
+                    googletag.defineSlot('/1032602/GamezheroBottom300x250', [300, 250], 'div-gpt-ad-1321544718819-0').addService(googletag.pubads());
+                googletag.pubads().enableSyncRendering();
+        googletag.pubads().enableSingleRequest();
+        googletag.enableServices();
+    </script>
+
+
+<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
 <script src="/js/flashwriter.js" type="text/javascript"></script>
 <script src="/js/swfobject_v2.js" type="text/javascript"></script>
 
@@ -52,107 +64,13 @@ pageTracker._trackPageview();
 
 
 
-<div id="pro_ad" style="width:100%; height:100%; position:absolute; background-color:#000000; bottom:0xp; display:none; z-index:1000"></div>
-<script type="text/javascript">
-
-        var s_URL = unescape(window.location.href);
-
-                var url1 = "http://www.gamezhero.com/?";
-                var url2 = "http://www.gamezhero.com/";
-                var url3 = "http://www.gamezhero.com/?test";
-
-                var main_page = false;
-
-                if (s_URL==url2)
-                {
-                        main_page = true;
-                }
-                else
-                {
-                        if(s_URL.indexOf(url1)==0)
-                        {
-                                main_page = true;
-                        }
-
-                }
-
-        var n_intrval;
-        var n_time = 30*1000 ;
-
-                function setCookie(c_name,value,expiredays){
-                        var exdate=new Date();
-                        exdate.setDate(exdate.getDate()+expiredays);
-                        document.cookie=c_name+ "=" +escape(value)+     ((expiredays==null) ? "" : ";expires="+exdate.toGMTString()+";path=/;domain=gamezhero.com");
-                }
-                function getCookie(c_name){
-                        if (document.cookie.length>0){
-                                c_start=document.cookie.indexOf(c_name + "=");
-                                if (c_start!=-1){
-                                        c_start=c_start + c_name.length+1;
-                                        c_end=document.cookie.indexOf(";",c_start);
-                                        if (c_end==-1) c_end=document.cookie.length;
-                                        return unescape(document.cookie.substring(c_start,c_end));
-                                }
-                        }
-                        return "";
-                }
-        function refreshPage()
-        {
-                        var g = document.getElementById("pro_ad");
-                        g.innerHTML = "";
-                        g.style.display = 'none';
-        }
-
-        function startAction()
-        {
-
-                        var g = document.getElementById("pro_ad");
-                        g.style.display = '';
-
-                        var ie='\v'=='v';
-                        if (ie)
-                        {
-                                g.style.height = "3000px";
-                        }
-                        else
-                        {
-                                g.style.position = "fixed";
-                        }
-
-                        g = document.getElementById("pro_ad_800x600");
-                        g.innerHTML = ('<iframe src="http://www.gamezhero.com/pro/us/intergi_1100x600.html" width="1100" height="600" frameborder="0" scrolling="no"></iframe>');
-
-                        var fw = new FlashWriter("http://files.gamezhero.com/flash/timer1.swf","http://files.gamezhero.com/flash/", 70, 40, "intro_flash");
-                        fw.SetParams("timer="+n_time);
-                        fw.SetTransparent(true);
-                        fw.Print("timer");
-
-                        n_intrval = setInterval(refreshPage,    n_time);
-        }
-
-                if (main_page)
-                {
-                        if ((getCookie("main_super_pro")!=1) || (s_URL==url3))
-                        {
-                                setCookie("main_super_pro", 1, 1);
-                                startAction();
-                                //refreshPage();
-                        }
-                        else
-                        {
-                                refreshPage();
-                        }
-                }
-                else
-                {
-                        refreshPage();
-                }
-</script>
-
-
 
   <!--header-->
   
+
+<div id="intergi_inter_ad"></div>
+<script src="/js/interstitial.js" type="text/javascript"></script>
+
 <div id="pro">
 <div style="width:946px; margin-left:auto; margin-right:auto; overflow:visible; position:relative">
   <div id="l_r_ad" style="overflow:hidden;"></div>
@@ -187,8 +105,8 @@ pageTracker._trackPageview();
                     </div>
                     <div id="facebook_button">
                     	<iframe frameborder="0" scrolling="no" src="http://www.gamezhero.com/facebook/facebook.html" allowtransparency="true" style="overflow: hidden; height: 65px; width: 308px;"></iframe>
-                    </div>   
-                </div>              
+                    </div>
+                </div>
 	</div>
             </div>
      <div id="logoArea3" align="left">
@@ -196,7 +114,7 @@ pageTracker._trackPageview();
            <a href="http://www.gamezhero.com/" title="free online games and free games"><img src="/images/gamezhero_logo.jpg" alt="free games and free online games" width="204" height="100" border="0"></a>
        </div>
        <div class="floatArea2" style="width:728px;height:100px;padding-top:5px;">
-   <iframe align="middle" width="728" height="90" src="http://www.gamezhero.com/pro/us/intergi_728x90.html" scrolling="No" frameborder="0"></iframe>
+   <!-- GamezheroTop728x90 --><div id="div-gpt-ad-1321539077167-0" style="width:728px; height:90px;"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1321539077167-0'); });</script></div>
 </div>       <div class="floatArea2" style="width:14px;">
            <img src="/images/btn/sponsored_links.gif" alt="Sponsored Links" width="14" height="100">
        </div>
@@ -382,7 +300,7 @@ feedback and partnership offers are welcome. </p>
     </div>
     <div id="contentProArea" align="center" style="height:270px; ">
          <div style="padding:10px;">
-            <iframe align="middle" width="300" height="250" src="http://www.gamezhero.com/pro/us/intergi_300x250.html" scrolling="No" frameborder="0"></iframe>
+            <!-- GamezheroTop300x250 --><div id="div-gpt-ad-1321539233535-0" style="width:300px; height:250px;"><script type="text/javascript">googletag.cmd.push(function() { googletag.display('div-gpt-ad-1321539233535-0'); });</script></div>
          </div>
     </div>
 </div>                                  <div class="hSeporator5">&nbsp;</div>
@@ -410,7 +328,7 @@ feedback and partnership offers are welcome. </p>
 </div>
 <div id="contentProArea" style="width:321px;height:270px; overflow:hidden;" align="center">
          <div style="padding:10px;">
-            <iframe align="middle" width="300" height="250" src="http://www.gamezhero.com/pro/us/rmx_300x250.html" scrolling="No" frameborder="0"></iframe>
+            <!-- GamezheroBottom300x250 --><div id="div-gpt-ad-1321544718819-0" style="width:300px; height:250px;"><script type="text/javascript">googletag.display('div-gpt-ad-1321544718819-0');</script></div>
          </div>
 </div>                    <div class="hSeporator5">&nbsp;</div>
                     <div class="subHeader" align="left">
@@ -426,20 +344,20 @@ feedback and partnership offers are welcome. </p>
            <!--game item begin-->
        <div class="gameInfo">
              <div class="floatArea1">
-               <a href="/online-games/puzzle-games/mushroommaze-games.html" title="Mushroom Maze">
-                 <img src="http://assets.gamezhero.com/images/gameSmallImages/mushroommazeIcon.gif" width="40" height="40" title="Mushroom Maze" alt="Mushroom Maze">
+               <a href="/online-games/strategy-games/earntodie-games.html" title="Earn to Die">
+                 <img src="http://assets.gamezhero.com/images/gameSmallImages/earntodieIcon.gif" width="40" height="40" title="Earn to Die" alt="Earn to Die">
                </a>
              </div>
              <div class="floatArea2" style="width:235px;">
-                  <a href="/online-games/puzzle-games/mushroommaze-games.html" title="Mushroom Maze">
-                    <strong>Mushroom Maze</strong>
+                  <a href="/online-games/strategy-games/earntodie-games.html" title="Earn to Die">
+                    <strong>Earn to Die</strong>
                   </a>
                   <br>
-                  Poor mushroom has never seen the...
+                  Upgrade your car and drive your way...
                   <br>
                   <div class="smallText">
-                    <a href="/online-games/puzzle-games/mushroommaze-games.html" title="Play Mushroom Maze!">
-                      Play Mushroom Maze!
+                    <a href="/online-games/strategy-games/earntodie-games.html" title="Play Earn to Die!">
+                      Play Earn to Die!
                     </a>
                   </div>
              </div>
@@ -449,20 +367,20 @@ feedback and partnership offers are welcome. </p>
            <!--game item begin-->
        <div class="gameInfo">
              <div class="floatArea1">
-               <a href="/online-games/shooting-games/dn8-games.html" title="DN8">
-                 <img src="http://assets.gamezhero.com/images/gameSmallImages/DN8Icon.gif" width="40" height="40" title="DN8" alt="DN8">
+               <a href="/online-games/strategy-games/cubetower-games.html" title="Cube Tower">
+                 <img src="http://assets.gamezhero.com/images/gameSmallImages/cubetowerIcon.gif" width="40" height="40" title="Cube Tower" alt="Cube Tower">
                </a>
              </div>
              <div class="floatArea2" style="width:235px;">
-                  <a href="/online-games/shooting-games/dn8-games.html" title="DN8">
-                    <strong>DN8</strong>
+                  <a href="/online-games/strategy-games/cubetower-games.html" title="Cube Tower">
+                    <strong>Cube Tower</strong>
                   </a>
                   <br>
-                  Putting it simply, this is a bullet...
+                  The united alien armies invaded the...
                   <br>
                   <div class="smallText">
-                    <a href="/online-games/shooting-games/dn8-games.html" title="Play DN8!">
-                      Play DN8!
+                    <a href="/online-games/strategy-games/cubetower-games.html" title="Play Cube Tower!">
+                      Play Cube Tower!
                     </a>
                   </div>
              </div>
@@ -472,20 +390,20 @@ feedback and partnership offers are welcome. </p>
            <!--game item begin-->
        <div class="gameInfo">
              <div class="floatArea1">
-               <a href="/online-games/shooting-games/zombiekidseasterday-games.html" title="Zombie Kids. Easter Day">
-                 <img src="http://assets.gamezhero.com/images/gameSmallImages/zombiekidseasterdayIcon.gif" width="40" height="40" title="Zombie Kids. Easter Day" alt="Zombie Kids. Easter Day">
+               <a href="/online-games/action-games/enemyalliance-games.html" title="Enemy Alliance">
+                 <img src="http://assets.gamezhero.com/images/gameSmallImages/enemyallianceIcon.gif" width="40" height="40" title="Enemy Alliance" alt="Enemy Alliance">
                </a>
              </div>
              <div class="floatArea2" style="width:235px;">
-                  <a href="/online-games/shooting-games/zombiekidseasterday-games.html" title="Zombie Kids. Easter Day">
-                    <strong>Zombie Kids. Easter Day</strong>
+                  <a href="/online-games/action-games/enemyalliance-games.html" title="Enemy Alliance">
+                    <strong>Enemy Alliance</strong>
                   </a>
                   <br>
-                  Who framed Easter bunny? On Easter...
+                  Join forces with Van Kleiss to stop...
                   <br>
                   <div class="smallText">
-                    <a href="/online-games/shooting-games/zombiekidseasterday-games.html" title="Play Zombie Kids. Easter Day!">
-                      Play Zombie Kids. Easter Day!
+                    <a href="/online-games/action-games/enemyalliance-games.html" title="Play Enemy Alliance!">
+                      Play Enemy Alliance!
                     </a>
                   </div>
              </div>
@@ -495,20 +413,20 @@ feedback and partnership offers are welcome. </p>
            <!--game item begin-->
        <div class="gameInfo">
              <div class="floatArea1">
-               <a href="/online-games/girl-games/galahotel-games.html" title="Gala Hotel">
-                 <img src="http://assets.gamezhero.com/images/gameSmallImages/galahotelIcon.gif" width="40" height="40" title="Gala Hotel" alt="Gala Hotel">
+               <a href="/online-games/sports-games/thelegendofpandora-games.html" title="The Legend of Pandora">
+                 <img src="http://assets.gamezhero.com/images/gameSmallImages/thelegendofpandoraIcon.gif" width="40" height="40" title="The Legend of Pandora" alt="The Legend of Pandora">
                </a>
              </div>
              <div class="floatArea2" style="width:235px;">
-                  <a href="/online-games/girl-games/galahotel-games.html" title="Gala Hotel">
-                    <strong>Gala Hotel</strong>
+                  <a href="/online-games/sports-games/thelegendofpandora-games.html" title="The Legend of Pandora">
+                    <strong>The Legend of Pandora</strong>
                   </a>
                   <br>
-                  Linda is a receptionist in a big...
+                  Eric is an experienced warrior who...
                   <br>
                   <div class="smallText">
-                    <a href="/online-games/girl-games/galahotel-games.html" title="Play Gala Hotel!">
-                      Play Gala Hotel!
+                    <a href="/online-games/sports-games/thelegendofpandora-games.html" title="Play The Legend of Pandora!">
+                      Play The Legend of Pandora!
                     </a>
                   </div>
              </div>
@@ -519,20 +437,20 @@ feedback and partnership offers are welcome. </p>
     <!--game item begin-->
     <div class="gameInfo">
          <div class="floatArea1">
-            <a href="/online-games/action-games/dynamicdoubleteam-batmangames.html" title="Dynamic Double Team">
-              <img src="http://assets.gamezhero.com/images/gameSmallImages/dynamicdoubleteamIcon.gif" width="40" height="40" title="Dynamic Double Team" alt="Dynamic Double Team">
+            <a href="/online-games/arcade-games/crazynut-freeonlinegame.html" title="Crazy Nut">
+              <img src="http://assets.gamezhero.com/images/gameSmallImages/crazynutIcon.jpg" width="40" height="40" title="Crazy Nut" alt="Crazy Nut">
             </a>  
          </div>
          <div class="floatArea2" style="width:235px;">
-                 <a href="/online-games/action-games/dynamicdoubleteam-batmangames.html" title="Dynamic Double Team">
-                    <strong>Dynamic Double Team</strong>
+                 <a href="/online-games/arcade-games/crazynut-freeonlinegame.html" title="Crazy Nut">
+                    <strong>Crazy Nut</strong>
                  </a>
                  <br>
-                 On the other side of the galaxy,...
+                 Ridiculous and funny game about...
                  <br>
                  <div class="smallText">
-                   <a href="/online-games/action-games/dynamicdoubleteam-batmangames.html" title="Play Dynamic Double Team!">
-                     Play Dynamic Double Team!
+                   <a href="/online-games/arcade-games/crazynut-freeonlinegame.html" title="Play Crazy Nut!">
+                     Play Crazy Nut!
                    </a>
                  </div>
          </div>
@@ -625,62 +543,62 @@ feedback and partnership offers are welcome. </p>
                                                              y8.com
                                         </a>
                    <br>
+                                                       <a href="/?url_referer=http://myrealgames.com" title="myrealgames.com" target="_blank">
+                                                             myrealgames.com
+                                        </a>
+                   <br>
                                                        <a href="/?url_referer=http://oyunlar1.com" title="oyunlar1.com" target="_blank">
                                                              oyunlar1.com
                                         </a>
                    <br>
-                                                       <a href="/?url_referer=http://myrealgames.com" title="myrealgames.com" target="_blank">
-                                                             myrealgames.com
+                                                       <a href="/?url_referer=http://igri-chelovek-pauk.ru" title="igri-chelovek-pauk.ru" target="_blank">
+                                                             igri-chelovek-pauk.ru
+                                        </a>
+                   <br>
+                                                       <a href="/?url_referer=http://joemonster.org" title="joemonster.org" target="_blank">
+                                                             joemonster.org
+                                        </a>
+                   <br>
+                                                       <a href="/?url_referer=http://trochoivui.com" title="trochoivui.com" target="_blank">
+                                                             trochoivui.com
+                                        </a>
+                   <br>
+                                                       <a href="/?url_referer=http://onlineguru.ru" title="onlineguru.ru" target="_blank">
+                                                             onlineguru.ru
+                                        </a>
+                   <br>
+                              </div>
+             <div class="floatArea2">
+                                                       <a href="/?url_referer=http://trochoithoitrang.net" title="trochoithoitrang.net" target="_blank">
+                                                             trochoithoitrang.net
+                                        </a>
+                   <br>
+                                                       <a href="/?url_referer=http://kaisergames.de" title="kaisergames.de" target="_blank">
+                                                             kaisergames.de
                                         </a>
                    <br>
                                                        <a href="/?url_referer=http://superhry.cz" title="superhry.cz" target="_blank">
                                                              superhry.cz
                                         </a>
                    <br>
-                                                       <a href="/?url_referer=http://roundgames.com" title="roundgames.com" target="_blank">
-                                                             roundgames.com
+                                                       <a href="/?url_referer=http://makcdn.com" title="makcdn.com" target="_blank">
+                                                             makcdn.com
                                         </a>
                    <br>
-                                                       <a href="/?url_referer=http://oyunskor.com" title="oyunskor.com" target="_blank">
-                                                             oyunskor.com
+                                                       <a href="/?url_referer=http://gameguru.ru" title="gameguru.ru" target="_blank">
+                                                             gameguru.ru
+                                        </a>
+                   <br>
+                                                       <a href="/?url_referer=http://asgames.net" title="asgames.net" target="_blank">
+                                                             asgames.net
                                         </a>
                    <br>
                                                        <a href="/?url_referer=http://gry-dladzieci.pl" title="gry-dladzieci.pl" target="_blank">
                                                              gry-dladzieci.pl
                                         </a>
                    <br>
-                              </div>
-             <div class="floatArea2">
-                                                       <a href="/?url_referer=http://yooooo.ru" title="yooooo.ru" target="_blank">
-                                                             yooooo.ru
-                                        </a>
-                   <br>
-                                                       <a href="/?url_referer=http://gamesbutler.com" title="gamesbutler.com" target="_blank">
-                                                             gamesbutler.com
-                                        </a>
-                   <br>
-                                                       <a href="/?url_referer=http://juegosjuegos.com" title="juegosjuegos.com" target="_blank">
-                                                             juegosjuegos.com
-                                        </a>
-                   <br>
-                                                       <a href="/?url_referer=http://minijuegosgratis.com" title="minijuegosgratis.com" target="_blank">
-                                                             minijuegosgratis.com
-                                        </a>
-                   <br>
-                                                       <a href="/?url_referer=http://jeuxdelajungle.fr" title="jeuxdelajungle.fr" target="_blank">
-                                                             jeuxdelajungle.fr
-                                        </a>
-                   <br>
-                                                         <a href="http://www.gamezhero.com/?url_referer=http://jeux.com" onclick="addOutReferer(147235);" target="_blank">
-                                                             jeux.com
-                                        </a>
-                   <br>
-                                                       <a href="/?url_referer=http://1001guru.ru" title="1001guru.ru" target="_blank">
-                                                             1001guru.ru
-                                        </a>
-                   <br>
-                                                         <a href="http://www.gamezhero.com/?url_referer=http://www.jeuxvideo-flash.com" onclick="addOutReferer(139987);" target="_blank">
-                                                             jeuxvideo-flash.com
+                                                       <a href="/?url_referer=http://thespidermangames.com" title="thespidermangames.com" target="_blank">
+                                                             thespidermangames.com
                                         </a>
                    <br>
                               </div>
@@ -720,6 +638,8 @@ feedback and partnership offers are welcome. </p>
  </noscript>
  <!-- End Quantcast tag -->
  
+
+
 
 
 </body></html>
