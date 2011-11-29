@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the more.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623072946id_/http%3A//www.more.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the more.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129010627id_/http%3A//www.more.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Health, Beauty, Fashion, Love, Careers and more - MORE Magazine
 
@@ -72,11 +72,11 @@ Our primary goal in collecting information is to provide you with a customized e
 
 ### How to Correct or Update Your Information:
 
-Meredith Corporation believes strongly in providing you with the ability to access and edit the personally identifying information that you have provided to us through our websites. To update this information, please visit our [My Account](https://w1.buysub.com/servlet/CSGateway?cds_mag_code=MOE) area.
+Meredith Corporation believes strongly in providing you with the ability to access and edit the personally identifying information that you have provided to us through our websites. To update this information, please visit our [My Account](https://w1.buysub.com/servlet/CSGateway?cds_mag_code=MOE&cds_page_id=98798) area.
 
 ### Newsletters and Promotions:
 
-> **Newsletters.** We may offer you the opportunity to subscribe to email newsletters on various topics that we believe are of interest to our visitors. If you have opted to receive a particular newsletter, you can always unsubscribe later either (1) by following the 'unsubscribe' link located near the bottom of each newsletter, or (2) by going to [My Account](https://w1.buysub.com/servlet/CSGateway?cds_mag_code=MOE) , selecting "Unsubscribe" from the Newsletter options, unchecking the relevant boxes and pressing the "Update" button.
+> **Newsletters.** We may offer you the opportunity to subscribe to email newsletters on various topics that we believe are of interest to our visitors. If you have opted to receive a particular newsletter, you can always unsubscribe later either (1) by following the 'unsubscribe' link located near the bottom of each newsletter, or (2) by going to [My Account](https://w1.buysub.com/servlet/CSGateway?cds_mag_code=MOE&cds_page_id=98798) , selecting "Unsubscribe" from the Newsletter options, unchecking the relevant boxes and pressing the "Update" button.
 > 
 > **Promotional Emails.** If you provide us with your email address, from time to time we may send you emails about Meredith products, services and special offers (such as special Meredith magazine subscription offers) that we believe may be of interest to you. When you register, you will also be given an opportunity to tell us whether you would like to receive emails about products, services and special offers from third-party providers. Though we hope that you will find both types of promotional emails helpful, if you decide that you no longer wish to receive either or both types of emails, please go to the [Email Preferences](https://secure.more.com/common/myaccount) page and update your preferences. Of course, you may change your preferences at any time. We will make any changes you request as quickly as we can.
 
