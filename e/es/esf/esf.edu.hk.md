@@ -1,134 +1,27 @@
-> *The following text is extracted and transformed from the esf.edu.hk privacy policy that was archived on 2006-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060901225737id_/http%3A//www.esf.edu.hk/download/ESF_Personal%2520Data%2520_Privacy_%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esf.edu.hk privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129011935id_/http%3A//www.esf.edu.hk/privacy) for the most accurate reproduction.*
 
-# PDF created with FinePrint pdfFactory trial version http://www.pdffactory.com
+# Privacy Policy | English Schools Foundation
 
-                                        PERSONAL DATA (PRIVACY) POLICY
-          General Statement
-          We pledge to meet fully, and where possible exceed, internationally recognized standards of personal
-          privacy protection, in complying with the Personal Data (Privacy) Ordinance. In doing so, we will
-          ensure compliance by our staff with the strictest standards of security and confidentiality.
-          Definition
-          The ESF Personal Data (Privacy) Policy is formulated to protect the privacy of all data subjects, i.e.
-          employees (current and past), pupils and their parents and job applicants in respect of their personal
-          data.
-          A secondary objective of this policy is to develop internal codes of practice to ensure that the
-          conditions prescribed by the Personal Data (Privacy) Ordinance are met.
-          Personal Data Handling
-          Any person who controls the collection, holding, processing and use of personal data (data user) is
-          subject to the Ordinance.
-          They should treat all personal data, in whatever form it is recorded, as confidential and take all
-          reasonal practical steps to ensure adequate security control for the effective use of the personal data
-          according to the following data protection principles:
-          •   make the purpose(s) clear when collecting personal information; a Personal Information
-              Collection Statement (Appendix A) should be printed on all data collectin forms.
-          •   use the personal data only for the purposes for which it was to be used at the time of collection,
-              or for a directly related purpose;
-          •   strive to keep personal data accurate and up-to-date;
-          •   lock any personal data kept on paper, tape or disks in a secure location after use;
-          •   comply with the ESF data protection policies and practices when disclosing personal data;
-          •   do not allow anyone inside or outside the organization access to personal data without the
-              prescribed consent of the data subject; and
-          •   destroy any personal data which is no longer required for the purposes for which it is
-              collected/used.
-PDF created with FinePrint pdfFactory trial version http://www.pdffactory.com
+The English Schools Foundation (ESF) and its schools collect and hold personal information of individuals for various purposes. ESF and its schools are committed to meeting internationally recognised standards of personal data privacy protection, in compliance with the requirements of the [Personal Data (Privacy) Ordinance](http://www.pcpd.org.hk/english/ordinance/ordfull.html). In doing so, it will be ensured that ESF staff and any parties who are assigned by ESF to handle the information will comply with the strictest standards of security and confidentiality.  Unless permitted or required by law, ESF and its schools will not disclose any personal data to any third parties without prior written consent.
+
+Under the Ordinance, users have the right to request access to and correction of their personal data held. Should you wish to access or correct your personal information held by ESF or its schools, please send your request by email to [info@esfcentre.edu.hk.   ](mailto:info@esfcentre.edu.hk)
+
+There are three general categories of personal data held by ESF and its schools:
+
+1.     **Student information** , which includes information supplied by students / parents and is collected in connection with student applications, student records, former students, contacts and communications activities undertaking by or on behalf of ESF and its schools. Student records are kept for purposes that include corresponding with, responding to and taking follow-up actions in respect of students, contacts and communications activities.
+
+2.     **Personnel information** , which includes personal particulars, job descriptions, details of compensation and benefits, performance appraisals, references and disciplinary matters relating to job applicants, employees and former employees of ESF and its schools. Personnel records of employees are kept for human resource management purposes, relating to such matters as employees’ terms of employment, performance appraisal, providing references, professional development, discipline and termination.
+
+3.     **Other records** , which include administration and other files, containing personal data provided to ESF and its schools by individuals for purposes other than those connected with students, contacts, communications or employment.   Other records are kept to enable ESF and its schools to carry out various functions and activities which vary according to the nature of the purpose for which such records are to be used, including the administration of ESF’s and its schools’ functions and activities, seeking advice on operational matters, undertaking communications and training activities organised by, or on behalf of, ESF and its schools, including the acquisition of services and handling of enquiries from members of the public.
+
+The phrase “English Schools Foundation (ESF) and its schools” means ESF Centre, the fifteen schools operated by ESF, the two Private Independent Schools and the four kindergartens operated under ESF Educational Services Limited (ESL).
+
+If you have any queries about our policy and practices, please write to [info@esfcentre.edu.hk.   ](mailto:info@esfcentre.edu.hk)
+
+This privacy policy statement has been translated into Chinese. If there is any inconsistency or ambiguity between the English version and the Chinese version, the English version shall prevail.
+
+May 2011
+
+  * [Printer-friendly version](https://web.archive.org/print/1857 "Display a printer-friendly version of this page.")
 
 
-                                                                                                                     Page 2 of 4
-          Rights of the Data Subject
-          All ESF employees, pupils, their parents, and job applicants have the right to:
-          •   obtain a copy of the personal data1 relating to him/her held by the ESF;
-          •   require the data user to correct any data relating to him/her which is inaccurate;
-          •   obtain the ESF data protection policies and practices in relation to data and be informed of the
-              kind of personal data held by the ESF; and
-          •   be asked for consent before his/her personal data is used for a purpose other than the purposes for
-              which it was collected or directly related purposes.
-          All requests for access to data, or correction of data must be made in writing in either English or
-          Chinese and be addressed to the Personal Data Privacy Officer (Mrs Joyce Yeung, Assistant HR
-          Manager at 43B Stubbs Road, Hong Kong).
-          Operational Procedures
-          1. Upon receipt of a written data access/correction request from a data subject, the Personal Data
-              Privacy Officer will comply with the request within 40 days of receiving the request.
-          2. The Personal Data Privacy Officer will reject any data access/correction request if:
-              a)   the request is not made in writing;
-              b)   the data subject cannot provide sufficient information to locate the data being requested;
-              c)   the request involves data relating to staff planning;
-              d)   the request involves a personal reference or data generated by certain evaluative processes
-                   (including a recruitment/promotion/transfer/removal exercise) prior to a decision being made;
-                   and/or
-              e) the request follows two or more similar requests made by the data subject or an authorized
-                   person on his/her behalf.
-          3. If a data/access correction request is to be rejected, the Personal Data Privacy Officer will give
-              reasons in writing to the person making the request within 40 days of receiving the written
-              request.
-          4. The Personal Data Privacy Officer will keep and maintain a log book of requests and refusals
-              which will be kept for at least four years.
-          5. ESF will levy an administration charge for the processing of any data access requested.
-          1
-              For information on file before 20 December 1996, access will be made available from 3 August 2002; for
-              information on file after 20 December 1996, immediate access is available.
-PDF created with FinePrint pdfFactory trial version http://www.pdffactory.com
-
-
-                                                                                                          Page 3 of 4
-          Collection, Holding and Use of Identity Card Numbers/Personal Identifiers and Copy of
-          Identity Card
-          The ESF Personal Data (Privacy) Policy also applies certain restrictions on the collection, holding
-          and use of identity card numbers/personal identifiers and copies of identity cards:
-          •   A data user should not collect identity card numbers except:
-              i. where required or specifically empowered to do so by a statutory provision;
-                  and
-              ii. as a condition for allowing the holder of the identity card access to premises where the
-                  monitoring of the activities of the holder on the gaining of such access is not practicable.
-          •   A data user shall only use an identity card number for the purpose for which it was collected.
-          •   A data user shall not collect an identity card number except by means of the physical production
-              of the identity card/or copy of it in person by the individual.
-          •   A data user must take all reasonably practicable steps to erase the record of an identity card
-              number when its requirement to identify or to attribute personal data to the holder of the identity
-              card has been fulfilled.
-          •   A data user shall take all reasonably practicable steps to ensure that an identity card number and
-              the name of the holder are not displayed together publicly and not made visible or accessible
-              together to any person.
-          Restrictions on the collection and use of identity card copy are similar to that of identity card
-          numbers.
-          As a security safeguard, except where it is required or permitted by law to the contrary, a data user
-          shall not keep a copy of an identity card unless it is marked clearly and permanently across the entire
-          image of the identity card with the word “copy” or the Chinese equivalent. A copy of the identity
-          card shall be kept under reasonably secure conditions with access restricted to individuals who need
-          to carry out activities related to permitted use of the copy.
-          Communicating, Monitoring and Implementing the Policy
-          The HR Director, with the assistance of the Personal Data Privacy Officer is responsible for
-          communicating, monitoring and implementing the policy across the Foundation.
-          On-line Information
-          The Foundation will incorporate Personal Information Collection Statement and Privacy Policy
-          Statements into all its on-line data collection.
-          JY/ap/22 October 2001
-PDF created with FinePrint pdfFactory trial version http://www.pdffactory.com
-
-
-                                                                                                                           Page 4 of 4
-                                                                                                                        (Appendix A)
-          Personal Information Collection Statement
-          Job Application Form –
-          1.      It is necessary for users to provide the English Schools Foundation with data in connection to their application
-                  for, or continuing employment with the Foundation.
-              2. Failure to provide such data may result in the Foundation being unable to or continue to process your
-              application.
-          3.      The Foundation will treat the data provided by you strictly confidential. The Foundation may provide such data
-                  to the relevant School for the administrative and academic purposes. The Foundation will not disclose any
-                  personal information provided by you to any external bodies or organisations unless you have been informed or
-                  it is required to do so by law.
-          4.      You can submit a signed request to Personal Data Privacy Officer to request access to or correction of personal
-                  data held by the Foundation about you. The Foundation may levy a charge for accessing the information.
-          Application for Admission to ESF Schools Form
-          1.       The information provided will be used for the purposes of:
-                   i.)       processing your application for admission; and,
-                   ii)       school administration after admission.
-              2.   The data held by us will be kept confidential. In some schools where there are Parent Teacher Associations, we
-              may provide such information to the relevant PTA for inclusion in the PTA directory. If you do not wish your
-              details to be included in the PTA director, please write to the school separately so that your wish can be complied
-              with.
-          3.       You have the right to obtain access to and to request correction of any personal information concerning you and
-                   your child held by the ESF. Requests for such access should be in writing and made to the principal of your
-                   child’s school.
-          JY/ap/22 October 2001
-PDF created with FinePrint pdfFactory trial version http://www.pdffactory.com
