@@ -1,27 +1,156 @@
-<!--The following is the downloaded HTML source of the advancedpokertraining.com privacy policy that was archived on 2009-09-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090922035500id_/http%3A//www.advancedpokertraining.com/poker/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the advancedpokertraining.com privacy policy that was archived on 2011-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111129011136id_/http%3A//www.advancedpokertraining.com/poker/privacy_policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-10234851-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy Policy - Advanced Poker Training</title>
 <link rel="shortcut icon" href="/favicon.ico">
 <meta name="description" content="This is the privacy policy for AdvancedPokerTraining.com, home of a unique NL Holdem Poker Training Game">
 <meta name="keywords" content="Privacy Policy">
+<link rel="stylesheet" href="/poker/css/jquery.fancybox.css" type="text/css">
+<link rel="stylesheet" href="/poker/templates/css/invoice_style.css">
+<script src="https://c.compete.com/bootstrap/c5dd87357f3d4965c9ba639f1c668c3e/bootstrap.js" type="text/javascript" async=""></script><script src="/poker/js/jquery.min.js" type="text/javascript"></script>
+<script src="/poker/js/jquery.fancybox-1.3.1.js" type="text/javascript"></script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+var ie7=false;
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+__compete_code = 'c5dd87357f3d4965c9ba639f1c668c3e';
+(function () {
+    var s = document.createElement('script'),
+        e = document.getElementsByTagName('script')[0];
+    s.src = (document.location.protocol.toLowerCase() === 'https:' ? 'https:' : 'http:') +
+        '//c.compete.com/bootstrap/c5dd87357f3d4965c9ba639f1c668c3e/bootstrap.js';
+    s.type = 'text/javascript';
+    s.async = true;
+    if (e) { e.parentNode.insertBefore(s, e); }
+}());
+</script>
+<!--[if lte IE  7]>
+<script type="text/javascript" >
+ie7=true;
+</script>
+<style type='text/css' >
+#opponents_tab_container {display:none;height:auto!IMPORTANT;float:left;}
+#opponents_wrapper {}</style>
+<![endif]-->
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10234851-1");
+pageTracker._trackPageview();
+} catch(err) {}
+var fancybox_settings={'transitionIn': 'fade','transitionOut':'fade','easingIn':'swing','easingOut': 'swing','autoDimensions':
+true, 'hideOnOverlayClick':true , 'hideOnContentClick':true , 'showCloseButton':true,'enableEscapeButton':true};
+$.ajaxSetup({
+	beforeSend: function(xhr) {xhr.setRequestHeader("If-Modified-Since", "Thu, 1 Jan 1970 00:00:00 GMT");xhr.setRequestHeader("Cache-Control", "no-cache")},
+	cache : false,
+	type:"GET",
+	contentType:"text/html; charset=UTF-8",
+	dataType:   "html",
+	error: function (XMLHttpRequest, textStatus, errorThrown) {window.alert(XMLHttpRequest.responseText);
+    }
+ })
+function message(type){
+	$("<a id='testing'></a>").attr("href", '/poker/ajax/ajax.Messages.php?type='+type).fancybox(fancybox_settings).trigger("click").remove();
+}
+function show_tab(id,open){
+	if(typeof(open)=='undefined')
+		open=false
+	else
+		open=true
+	var reg=new RegExp(/(open_tab)/);
+	var tab_height=$("#"+id+"_wrapper").height();
+	if($("#"+id+"_wrapper").parent().attr("class").match(reg) && !open){
+		$("#"+id+"_close").hide();
+		if(ie7 && id=="opponents")
+		$("#"+id+"_wrapper").parent().removeClass("open_tab");
+		else
+		$("#"+id+"_wrapper").parent().animate({"height":0},500).removeClass("open_tab");
+	}
+	else {
+		$("#"+id+"_close").show();
+		if(ie7 && id=="opponents")
+		$("#"+id+"_wrapper").parent().addClass("open_tab");
+		else
+		$("#"+id+"_wrapper").parent().animate({"height":tab_height},500).addClass("open_tab");
+	}
+}
+function show_opponent(id){
+	$("<a id='testing'></a>").attr("href", '#').fancybox({'transitionIn': 'fade','transitionOut':'fade','easingIn':'swing','easingOut': 'swing','autoDimensions':
+true, 'hideOnOverlayClick':true , 'hideOnContentClick':true , 'showCloseButton':false,'enableEscapeButton':true,"content":$("#opponent_"+id).html()}).trigger("click").remove();
+}
+var selected_stat;
+function reload_statistics(){
+	selected_stat=$("#select").val();
+	$.ajax({url:"ajax/ajax.player_statistics.php?stat="+$("#select").val(),success: function(data) {
+				$("#stats-wrapper").html(data);
+				$("#sorted_by").html("-&nbsp; Hand or Type  ASC");
+   			}
+	});
+}
+function order_by(type){
+	if(typeof(selected_stat)!="undefined" && selected_stat.length>0)
+	{
+		var order_regexp=new RegExp(/(asc)/);
+		if($("#"+type+"_order").attr("class").match(order_regexp)) {
+			$("#"+type+"_order").removeClass("asc");
+			var direction="asc";
+			$("#"+type+"_order").addClass("desc");
+		}
+		else {
+			$("#"+type+"_order").removeClass("desc");
+			var direction="desc";
+			$("#"+type+"_order").addClass("asc");
+		}
+		$.ajax({url:"ajax/ajax.player_statistics.php?stat="+selected_stat+"&orderby="+type+"&direction="+direction,success: function(data) {
+					$("#stats-wrapper").html(data);
+					$("#sorted_by").html("-&nbsp; "+$("#"+type+"_order").html()+" "+direction.toUpperCase());
+	   			}
+		});
+	}
+}
+function reload_statistics_6max(){
+	selected_stat=$("#select").val();
+	$.ajax({url:"ajax/ajax.player_statistics_6max.php?stat="+$("#select").val(),success: function(data) {
+				$("#stats-wrapper").html(data);
+				$("#sorted_by").html("-&nbsp; Hand or Type  ASC");
+   			}
+	});
+}
+function order_by_6max(type){
+	if(typeof(selected_stat)!="undefined" && selected_stat.length>0)
+	{
+		var order_regexp=new RegExp(/(asc)/);
+		if($("#"+type+"_order").attr("class").match(order_regexp)) {
+			$("#"+type+"_order").removeClass("asc");
+			var direction="asc";
+			$("#"+type+"_order").addClass("desc");
+		}
+		else {
+			$("#"+type+"_order").removeClass("desc");
+			var direction="desc";
+			$("#"+type+"_order").addClass("asc");
+		}
+		$.ajax({url:"ajax/ajax.player_statistics_6max.php?stat="+selected_stat+"&orderby="+type+"&direction="+direction,success: function(data) {
+					$("#stats-wrapper").html(data);
+					$("#sorted_by").html("-&nbsp; "+$("#"+type+"_order").html()+" "+direction.toUpperCase());
+	   			}
+		});
+	}
+}
+</script>
 <script type="text/javascript" language="javascript" src="js/clearText.js"></script>
 <script src="js/AC_RunActiveContent.js" type="text/javascript"></script>
+<script src="js/SpryAssets/SpryValidationTextarea.js" type="text/javascript"></script>
+<script src="js/SpryAssets/SpryValidationTextField.js" type="text/javascript"></script>
 <!--[if lt IE 7.]>
 <script defer type="text/javascript" src="/poker/pngfix.js"></script>
 <![endif]-->
 <link href="/poker/templates/css/stylesheet.css" rel="stylesheet" type="text/css">
+<link href="js/SpryAssets/SpryValidationTextarea.css" rel="stylesheet" type="text/css">
+<link href="js/SpryAssets/SpryValidationTextField.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 <!--Main bg Area-->
@@ -32,9 +161,13 @@ pageTracker._trackPageview();
     <div id="navigation">
       <ul>
         <li><a href="http://www.advancedpokertraining.com/poker/index.php">Play Now</a></li>
-        <li><a href="/poker/signup.php">Join</a></li>
+        
+        <li><a href="/poker/member.php">Members</a></li>
+        
+         <li><a href="/poker/screens.php">instructions</a></li>
+        
         <li><a href="/poker/faq.php">faq</a></li>
-        <li><a href="/poker/contact.php">contact</a></li>
+        
       </ul>
     </div>
     <!--Top Navigation Area End-->
@@ -47,14 +180,19 @@ pageTracker._trackPageview();
       <div id="right"><img src="/poker/images/home_11.jpg" alt="Advanced Poker Training" width="8" height="32"></div>
       <input name="amember_login" type="text" class="text-field-1" id="textfield" value="Username" onfocus="clearText(this)" onblur="clearText(this)">
       <input name="amember_pass" type="password" class="text-field-1" id="textfield2" value="Password" onfocus="clearText(this)" onblur="clearText(this)">
-	  <input type="hidden" name="login_attempt_id" value="<?php print time(); ?>">
+	  <input type="hidden" name="login_attempt_id" value="1322529096">
       &nbsp;&nbsp;&nbsp;&nbsp;
       <input name="button" type="image" id="button" value="Submit" src="/poker/images/home_10.jpg" align="middle">
       <a href="/poker/login.php" class="h1">&nbsp;Forgot Password?</a></form> </div>
     <!--Top Login Area End-->
-				<div id="privacy">
-					<div id="privacy-policy" style="border:#FFFFFF 1px solid;"><span class="box-head">Privacy Policy » </span>
-					<span class="text-field-block-4"><p>Simply put, our privacy policy is as follows: </p>
+<div id="main_body">
+  <h1><img src="images/privacy.jpg" width="151" height="33" alt="Poker Training Privacy Policy"></h1>
+  <div id="registered01">
+    <div id="registered01_main">
+      <div id="registered01_title">We Value Your Privacy
+      </div>
+      <div id="general_text">
+					<span><p>Simply put, our privacy policy is as follows: </p>
 					<p><strong>"We value your privacy and will NEVER sell your personal information to ANYONE for ANY REASON. We only collect the information we need to provide you with our product, and we will guard your personal information with utmost security. Your personal information will only be stored on SSL secured servers and we will never store your personal information in hard copy form.</strong>"</p>
 					<p>Specifically:</p>
 					<p>For each visitor to our Web page, our Web server automatically collects <strong>no </strong>information regarding your domain or e-mail address, except to prevent the abuse of our site or sharing of memberships.</p>
@@ -67,11 +205,21 @@ pageTracker._trackPageview();
 					<p>With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. All information we collect from you is stored on secure servers, and never in hard copy.</p>
                     <p>We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Specifically, Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to you based on your visit to our site and other sites on the Internet. Google does this for any site you visit unless you tell them not to, this practice is not limited to our site, but we feel obligated to tell you that they do this. You may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html" rel="nofollow" class="h4">Google ad and content network privacy policy</a></p> 
 					<p>If you feel that this site is not following its stated information policy, you may contact The DMA's Committee on Ethical Business Practices at <a href="mailto:mgoldberger@the-dma.org" class="h4">mgoldberger@the-dma.org</a>, state or local chapters of the Better Business Bureau, state or local consumer protection office or just contact us and we will be happy to discuss it with you.  We value your privacy and data security.</p></span>
-				</div></div>
-    <div id="footer"><img src="/poker/images/home_20.jpg" advanced="" poker="" training="" width="81" height="26"><br>
+				</div>
+     </div>
+     <div id="registered01_bottom"></div>
+  </div>
+</div>
+    <div id="footer"><img src="/poker/images/home_20.jpg" alt="Advanced Poker Training" width="81" height="26"><br>
+
       <span class="h4"><a href="/poker/index.php" class="h4">Play now</a> | <a href="/poker/signup.php" class="h4">Join</a> | <a href="/poker/faq.php" class="h4">Faq</a> | <a href="/poker/contact.php" class="h4">Contact</a> | <a href="/poker/privacy_policy.php" class="h4">Privacy Policy</a> | <a href="/poker/price_list.php" class="h4">Price List and Refund Policy</a><br>
-      <span class="h2">Copyright © 2009 Advanced Poker Training</span></span></div>
+
+      <span class="h2">Copyright © 2009-2011 Advanced Poker Training</span></span></div>
+
+
 
 </div></div>
+
 	
-</body></html>
+
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
