@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kidzsearch.com privacy policy that was archived on 2010-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100227052958id_/http%3A//www.kidzsearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidzsearch.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129134556id_/http%3A//www.kidzsearch.com/privacy.html) for the most accurate reproduction.*
 
-# GoogleSafe
+# KidzSearch Privacy Statement
 
 **  KidzSearch.com    
                       World's Largest Family-Safe Search**
@@ -29,4 +29,4 @@ We may have periodic contests.  Collected information is never given out to thi
 
 **6\. How can I contact KidzSearch if I have questions about this Privacy Policy?**
 
-If you have any questions about the KidzSearch Privacy Policy, email us at [support@KidzSearch.com](mailto:support@kidzsearch.com).
+If you have any questions about the KidzSearch Privacy Policy, [email us](https://web.archive.org/web/20111129134556id_/http%3A//www.kidzsearch.com/contactus.html).
