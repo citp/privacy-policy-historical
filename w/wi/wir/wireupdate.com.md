@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wireupdate.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531032051id_/http%3A//www.wireupdate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wireupdate.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129010506id_/http%3A//www.wireupdate.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Breaking News | Wire Update News | News Wires -
+# Privacy Policy » Breaking News from WireUpdate | Update to the Minute NewsWire -
 
-By [Joe Brooks](http://wireupdate.com/author/admin/ "Posts by Joe Brooks")
+By 
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
