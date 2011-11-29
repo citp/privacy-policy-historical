@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jrpass.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123235245id_/http%3A//jrpass.com/privacy_and_security_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jrpass.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129110531id_/http%3A//www.jrpass.com/privacy_and_security_policy) for the most accurate reproduction.*
 
 # Japan Rail Pass - privacy
 
@@ -21,7 +21,7 @@ We may collect the following information:
 
 
 
-Please note that we do not store any sort of credit/debit card information. All such information, and all financial transactions via the website are handled by our payment services provider- Sage Pay. Their privacy policy and details of use can be found at [www.sagepay.com](http://www.sagepay.com/). You should review this before providing personal information. We shall only share information, with Sage Pay, that is necessary for the processing of payments via the JRPass.com website.
+Please note that we do not store any sort of credit/debit card information. All such information, and all financial transactions via the website are handled by our payment services provider- Sage Pay. Their privacy policy and details of use can be found at [www.sagepay.com](http://www.sagepay.com). You should review this before providing personal information. We shall only share information, with Sage Pay, that is necessary for the processing of payments via the JRPass.com website.
 
 #### What we do with the information we gather
 
@@ -68,14 +68,14 @@ Information that you provide may be transferred to countries such as but not lim
 You may choose to restrict the collection or use of your personal information in the following ways: 
 
   * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes.
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us in writing. Please see our [Contact us](https://web.archive.org/contact) page for details.
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us in writing. Please see our [Contact us](/contact) page for details.
 
 
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission, are required by law to do so or in the defence of our legal rights.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable (currently £10). If you would like a copy of the information held on you please [Contact us](https://web.archive.org/contact).
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable (currently £10). If you would like a copy of the information held on you please [Contact us](/contact).
 
-If you believe that any information we are holding on you is incorrect or incomplete, please [Contact us](https://web.archive.org/contact) as soon as possible. We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please [Contact us](/contact) as soon as possible. We will promptly correct any information found to be incorrect.
 
 This policy is effective from 1st September 2009.
