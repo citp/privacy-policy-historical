@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uscollegesearch.org privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612130349id_/http%3A//www.uscollegesearch.org/us_college_search_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscollegesearch.org privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129094839id_/http%3A//www.uscollegesearch.org/us_college_search_privacy_policy.html) for the most accurate reproduction.*
 
 # Colleges and Universities at U.S. College Search
 
@@ -43,6 +43,10 @@ We utilize encryption/security software to safeguard the confidentiality of pers
 **Do we comply with legally compelled disclosure of information?**
 
 We may release any private information about you that we possess when we believe release is appropriate to comply with the law, to enforce or apply our Privacy Policy and/or other agreements, or to protect the rights, property or safety of U.S. College Search, the site users or others.
+
+**Content on US College Search**
+
+The integrity of our web content is important to us. We have taken measures to make sure all web content on our site is original and owned by us or provided with consent by our clients, advertisers, and other contributors. If you believe we have misattributed any content or are infringing on your copyrighted content, please [contact us here.](mailto:info@uscollegesearch.org)
 
 **What about other sites linked to U.S. College Search?**
 
