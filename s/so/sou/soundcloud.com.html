@@ -1,8 +1,11 @@
-<!--The following is the downloaded HTML source of the soundcloud.com privacy policy that was archived on 2011-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110519163641id_/http%3A//soundcloud.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the soundcloud.com privacy policy that was archived on 2011-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111129081043id_/http%3A//soundcloud.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" anonymous"><head><meta charset="utf-8">
-<title>Privacy Policy on SoundCloud - Create, record and share your sounds for free</title>
+<title>SoundCloud Privacy Policy on SoundCloud - Create, record and share your sounds for free</title>
+<script>
+(function(H){ if(navigator.userAgent.toLowerCase().match(/iPad.+AppleWebKit/i) && !window.localStorage.getItem('no-ipad-overlay')) {H.className+="ipadOverlay"}})(document.documentElement)
+</script>
 <meta content="record, sounds, share, sound, audio, tracks, music, soundcloud" name="keywords">
 <meta content="Create, record and share the sounds you create anywhere to friends, family and the world with SoundCloud, the world's largest community of sound creators." name="description">
 
@@ -10,32 +13,35 @@
 <meta content="chrome=1" name="X-UA-Compatible">
 
 <!--[if IE]>
-<script src="http://a1.sndcdn.com/javascripts/plugins/vendor/excanvas-compressed.js?980cce5" type="text/javascript"></script>
+<script src="http://a1.sndcdn.com/javascripts/plugins/vendor/excanvas-compressed.js?daca7bd" type="text/javascript"></script>
+<![endif]-->
+<!--[if IE 9]>
+<script type="text/javascript">
+document.getElementsByTagName("html")[0].className = "ie9";
+</script>
 <![endif]-->
 <!--[if IE 8]>
 <script type="text/javascript">
 document.getElementsByTagName("html")[0].className = "ie8";
 </script>
 <![endif]-->
-<!--[if IE 7]>
+<!--[if lte IE 8]>
 <script type="text/javascript">
 document.getElementsByTagName("html")[0].className = "ie7";
 </script>
-<![endif]-->
-<!--[if lte IE 7]>
 <meta content="true" name="MSSmartTagsPreventParsing" />
 <meta content="false" http-equiv="imagetoolbar" />
 <![endif]-->
 <script type="text/javascript">
-window.SC = {"bufferTracks":[],"bufferComments":[],"cookieDomain":"soundcloud.com","assetPath":"a1.sndcdn.com","assetPathSSL":"soundcloud.com","facebook":{"appKey":"61261ce0407b2ccb568641b513098e18","xdReceiver":"/connect/xd_receiver.htm"},"songkickApiKey":"ZWsLr2h7FF5sHG54","gaID":"UA-2519404-1"};
+window.SC = {"bufferTracks":[],"bufferComments":[],"cookieDomain":"soundcloud.com","assetPath":"a1.sndcdn.com","assetPathSSL":"soundcloud.com","facebook":{"appId":19507961798,"appKey":"61261ce0407b2ccb568641b513098e18","namespace":"soundcloud","xdReceiver":"/connect/xd_receiver.htm"},"songkickApiKey":"ZWsLr2h7FF5sHG54","gaID":"UA-2519404-1"};
 </script>
-<link href="http://a1.sndcdn.com/stylesheets/general.css?980cce5" media="all" rel="stylesheet" type="text/css">
-<link href="http://a1.sndcdn.com/stylesheets/special.css?980cce5" media="all" rel="stylesheet" type="text/css">
+<link href="http://a1.sndcdn.com/stylesheets/general.css?daca7bd" media="all" rel="stylesheet" type="text/css">
+<link href="http://a1.sndcdn.com/stylesheets/special.css?daca7bd" media="all" rel="stylesheet" type="text/css">
 <link href="/sc-opensearch.xml" rel="search" title="SoundCloud Search" type="application/opensearchdescription+xml">
 
-<link href="http://a1.sndcdn.com/images/apple-touch-icon.png?980cce5" rel="apple-touch-icon">
-<link href="http://a1.sndcdn.com/favicon.ico?980cce5" rel="shortcut icon">
-<link href="http://a1.sndcdn.com/images/soundcloud_fluid.png?980cce5" rel="fluid-icon">
+<link href="http://a1.sndcdn.com/images/apple-touch-icon.png?daca7bd" rel="apple-touch-icon">
+<link href="http://a1.sndcdn.com/favicon.ico?daca7bd" rel="shortcut icon">
+<link href="http://a1.sndcdn.com/images/soundcloud_app.png?daca7bd" rel="fluid-icon">
 </head>
 <body class="full-width privacy restricted" id="pages"><div id="header"><div id="header-top"><div id="sc-info"><a href="/apps?ref=top">App Gallery</a>
 |
@@ -51,7 +57,7 @@ window.SC = {"bufferTracks":[],"bufferComments":[],"cookieDomain":"soundcloud.co
 |
 <script type="text/javascript">
   //<![CDATA[
-    (function() {
+    window.SC.renderLoginStatus = function() {
       var $p = document.getElementById('current-plan-badge')
         , $h = document.getElementById('current-user-head')
         , $u = document.getElementById('logged-in-user')
@@ -73,6 +79,7 @@ window.SC = {"bufferTracks":[],"bufferComments":[],"cookieDomain":"soundcloud.co
       }
     
       if($ht) {
+        $ht.className = $ht.className.replace(/ ?(anonymous|logged-in)/g, '');
         $ht.className += o['p'] ? ' logged-in' : ' anonymous';
       }
     
@@ -95,6 +102,7 @@ window.SC = {"bufferTracks":[],"bufferComments":[],"cookieDomain":"soundcloud.co
       u.quota.contributions_per_track = o['qc'];
       u.quota.contact_groupings = o['qn'];
       u.quota.groups = o['qg'];
+      u.quota.support = o['qt'];
     
       if(o['c'] === 'free') {
         if($u) { $u.className = 'free-user'; }
@@ -108,8 +116,20 @@ window.SC = {"bufferTracks":[],"bufferComments":[],"cookieDomain":"soundcloud.co
       }
     
       window.SC.currentUser = u;
+    };
     
-    })();
+    window.SC.renderSupportLevel = function() {
+      var support = 'Support';
+    
+      if (SC.currentUser.quota.support === 'premium') {
+        support = 'Premium Support';
+      } else if (SC.currentUser.quota.support === 'pro') {
+        support = 'Pro Support';
+      }
+      document.getElementById('footer-support-link').innerHTML = support;
+    };
+    
+    window.SC.renderLoginStatus();
   //]]>
 </script>
 
@@ -118,11 +138,9 @@ window.SC = {"bufferTracks":[],"bufferComments":[],"cookieDomain":"soundcloud.co
 <a class="inbox" href="/messages">Inbox
 <cite class="user-counter" id="user-inbox-counter" style="display: none;"></cite></a>
 |
-<a href="/logout">Log out</a>
+<a href="/logout" class="header-logout">Log out</a>
 <div class="hidden" id="user-id"></div></div>
-<div class="anonymous"><a href="/login?ref=top" class="sign-in" id="login-link">Log In</a>
-|
-<a href="/signup?ref=top" class="sign-in" id="signup-link">Sign Up</a></div></div></div>
+<div class="anonymous"><a href="/login?ref=top" class="sign-in" id="login-link">Log In</a> | <a href="/signup?ref=top" class="sign-in" id="signup-link">Sign Up</a></div></div></div>
 <div id="header-lower"><ul id="main-nav"><li class="nav no-submenu anonymous" id="menu-button-home"><a href="/">Home</a>
 <div class="open-submenu"></div></li>
 <li class="nav no-submenu anonymous" id="menu-button-tour"><a href="/tour/">The Tour</a>
@@ -142,7 +160,7 @@ window.SC = {"bufferTracks":[],"bufferComments":[],"cookieDomain":"soundcloud.co
 <ul class="tabs"><li class="first"><a href="/people">Explore People</a></li><li><a href="/people/finder">Find Friends</a></li><li data-sc-cnt="contact_affiliations"><a href="/people/following">You Follow</a></li><li data-sc-cnt="fan_affiliations"><a href="/people/followers">Following You</a></li><li data-sc-cnt="contact_groups"><a href="/people/contacts">Your Contact Lists</a></li><li class="last"><a href="/people/search">Search for People</a></li></ul></li>
 <li class="nav submenu logged-in" id="menu-button-groups"><a href="/groups/joined">Groups</a>
 <div class="open-submenu"></div>
-<ul class="tabs"><li class="first" data-sc-cnt="groups"><a href="/groups/joined">You've joined</a></li><li><a href="/groups">Explore Groups</a></li><li class="last"><a href="/groups/search">Search for Groups</a></li></ul></li>
+<ul class="tabs"><li class="first" data-sc-cnt="groups"><a href="/groups/joined">You've joined</a></li><li><a href="/groups/latest">Explore Groups</a></li><li class="last"><a href="/groups/search">Search for Groups</a></li></ul></li>
 <li id="menu-button-upload"><a href="/upload" class="link-button">Upload &amp; Share</a></li></ul>
 
 <div id="volume"><a class="volume-control-button level0" title="Set the volume">Volume</a>
@@ -158,59 +176,167 @@ window.SC = {"bufferTracks":[],"bufferComments":[],"cookieDomain":"soundcloud.co
 <li><a href="/people/search">Users</a></li>
 <li><a href="/groups/search">Groups</a></li></ul>
 </form></div></div></div>
+<div id="ipadWrapper"><div id="ipadOverlay"><a class="ipad-img-link" href="http://itunes.apple.com/us/app/soundcloud/id336353151"><img alt="Ipads" class="ipad-img" height="420" src="http://a1.sndcdn.com/images/ipadpage/ipads.jpg?daca7bd" width="666"></a>
+<h1>Try the new SoundCloud iPad app!</h1>
+<p>Discover a new way to experience SoundCloud.</p>
+<div class="action"><a href="http://itunes.apple.com/us/app/soundcloud/id336353151" class="big-action-button" id="ipadGetappLink">Get the iPad + iPhone App</a><a href="#ipadVideo" class="big-action-button grey" id="ipadVideoLink">Watch the video</a><a href="#" class="big-action-button light-grey" id="ipadNotnowLink">Not Now</a></div>
+<div class="video" id="ipadVideo"></div>
+<div class="social-sharing">Like it? Share it!
+<div class="share-plugin"><div class="fb-like" data-href="http://itunes.apple.com/us/app/soundcloud/id336353151" data-layout="button_count" data-send="false" data-show-faces="false" data-width="84"></div></div>
+<div class="share-plugin"><a class="twitter-share-button" data-count="horizontal" data-text="Introducing the SoundCloud iPad app - a new way to experience SoundCloud. Download for free!:" data-url="http://itunes.apple.com/us/app/soundcloud/id336353151" data-via="soundcloud" href="http://twitter.com/share">Tweet</a></div>
+<div class="share-plugin"><a href="http://www.tumblr.com/share/link?url=http%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fsoundcloud%2Fid336353151&amp;name=The%20SoundCloud%20iPad%20app&amp;description=Introducing%20the%20SoundCloud%20iPad%20app%20-%20a%20new%20way%20to%20experience%20SoundCloud.%20Download%20for%20free%21" style="display:inline-block; text-indent:-9999px; overflow:hidden; width:64px; height:20px; background:url('/images/tumblr_share.png') top left no-repeat transparent;" title="Share on Tumblr"></a></div>
+<div class="share-plugin share-plugin-last"><g:plusone href="http://itunes.apple.com/us/app/soundcloud/id336353151" size="medium"></g:plusone></div></div></div></div>
+
 
 <div id="main-wrapper"><div id="main-wrapper-inner"><h1>SoundCloud Privacy Policy</h1>
-<div class="content-item intro"><p>This Privacy Policy (“Privacy Policy”) explains the collection, use and disclosure of your personally identifiable information (“PII”) by SoundCloud Ltd. (“SOUNDCLOUD”) in relation to your use of SOUNDCLOUD’s Internet platform at www.soundcloud.com (hereinafter “Website”) and any services that SOUNDCLOUD provides through this Website (hereinafter “Services”).&nbsp;</p>
-<p>When we use the term personally identifiable information (“PII”) in this Privacy Policy, we mean information that would allow someone to identify you, such as your name, address, location or email address.</p>
-<p>You decide which personal information you provide to SOUNDCLOUD. SOUNDCLOUD is fully committed to respecting your privacy, protecting the information you provide to us and to complying with the applicable data protection laws and regulations.</p></div>
-<div class="content-item"><h3>1. What kind of PII do we collect?</h3>
-<p>You can visit our Website and use some of our Services without registering and providing any personal data. In the following instances, SOUNDCLOUD may collect PII you provide:</p>
-<p><strong>(a)</strong>
-When you register to establish a free user account for our Service on our Website, you provide your email address and may also provide additional information, e.g. a pseudonym or your real name, your location, information on how you use music, the URL of your website and information regarding other music services you are using, e.g. your Discog name or your MySpace URL. You may also upload a picture of yourself or another image as an avatar/profile picture on your profile. You may change or delete this information at any time under “Settings” in your account.</p>
-<p><strong>(b)</strong>
-When you register to establish a premium user account for our Service on our Website you also provide your real name, address and payment information necessary for us to receive payment.</p>
-<p><strong>(c)</strong>
-When you send us an email, you provide your email address and may also provide additional PII.</p>
-<p><strong>(d)</strong>
-When you participate in our forums or blogs, you may provide PII.</p></div>
-<div class="content-item"><h3>2.	What do we do with your PII?</h3>
-<p><strong>(a)	Registered Users.&nbsp;</strong>
-When you register to obtain a user account on our Website (“Registered User”), we ask you to provide your email address to create your account and establish a password and profile. Providing your real name and any additional PII is optional for the free account. Providing your email address will allow us to send you your password if you should forget it. If you voluntarily provide your real name in connection with any content you submit to the Website, in addition to your email address, your name may be associated with the content you contributed. We will also use that PII to establish and maintain your account (e.g. to send you important information about Service updates or customer surveys) and provide you with the features we provide for Registered Users, e.g. for the purpose of sending you our monthly newsletter as provided in Section 2(e) below.</p>
-<p><strong>(b)	Public Page.</strong>
-Registered Users on the Website are automatically provided with a public page where you may post PII for public viewing. You are not required to post PII or any other information or content on this page, but may post it in your own sole discretion (although any information posted remains subject to SOUNDCLOUD’s Terms of Use). Please note that the information you publish on your public page, including your PII but not your email address, becomes public information that can be viewed by others and that the data shown on the Website including PII you provide in your public profile can be accessed through the Internet (directly on our Website or through SOUNDCLOUD’s Application Programming Interface) and thus worldwide.</p>
-<p><strong>(c)	“Connect with SoundCloud”.</strong>
-You may share the information from your public page on SOUNDCLOUD with other websites through “Connect with SoundCloud” upon your explicit prior consent and may revoke access of such other websites to your public profile on SOUNDCLOUD at any time. This Privacy Policy does not apply to, and we cannot control the activities of, such other websites. You should consult the respective privacy policies of these third-party sites.</p>
-<p><strong>(d)	Premium Account.</strong>
-If you subscribe to a premium account, we use and retain your PII to provide you with the relevant agreement, to process your application and to collect payment. If we ask you for your payment information, we transfer this information in a secured format. SOUNDCLOUD uses the industry standard security protocol SSL (Secure Socket Layer). SOUNDCLOUD does not sell or otherwise distribute your payment information.</p>
-<p><strong>(e)	Emails, Newsletters and Notifications.</strong>
-We use the PII you provide to us when you send us emails to respond to your request, for example to reply to your email. We also use your PII when you sign up as a Registered User to use our Services in order to send you notifications relating to your account and if you do not object to the use of your email address for that purpose, to send you our newsletter. You can unsubscribe from our newsletter at any time directly through a link in each of our newsletters or by changing the newsletter settings under “Settings” in your account. You can change the kind and frequency of notifications you receive under “Email notifications” under “Settings” in your account.</p></div>
-<div class="content-item"><h3>3.	Does SOUNDCLOUD disclose or share your PII?</h3>
-<p>As far as SOUNDCLOUD works together with contractors and service providers to deliver the Services, your PII will be accessible to such third parties only if and in so far as this is necessary for technical administration and maintenance of the Services. SOUNDCLOUD may disclose your PII to third parties if you explicitly consent to it and if and, as SOUNDCLOUD is required to do so by applicable law.</p></div>
-<div class="content-item"><h3>4.	How do we protect and secure the PII you provide on our Website?</h3>
-<p>SOUNDCLOUD has implemented a variety of measures to protect against unauthorized access to and unlawful interception or processing of PII that SOUNDCLOUD stores and controls. However, no website can fully eliminate security risks. Third parties may circumvent our security measures to unlawfully intercept or access transmissions or private communications.</p></div>
-<div class="content-item"><h3>5.	Data Usage Policy: Non-Personal Browsing and Site Usage Information</h3>
-<p>Our Data Usage Policy covers how we maintain and use information about you that is collected by our Website and server logs.</p>
-<p><strong>(a)	Non-Personal Browsing Information We Collect.</strong>
-When you use the Website, our servers (which are hosted by a third party service provider) may collect anonymous information indirectly and automatically about your activities while visiting the Website and information about the browser you are using solely for the purposes stated below.</p>
-<p><strong>(b)	Use of Non-Personal Browsing Information We Collect.</strong>
-We do not link browsing information or information from our server logs to the personal information you submit to us. We use this information for internal purposes only, such as to help understand how the Website is being used, to improve our Website and the features we provide, and for systems administration purposes. We may use a third party analytics provider to help us collect and analyze non-personal browsing information through operation of our Website for those same purposes.</p>
-<p><strong>(c)	Google Analytics.</strong>
-This website uses Google Analytics, a web analytics service provided by Google, Inc. (“Google”).&nbsp; Google Analytics uses “cookies”, which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your truncated IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and Internet usage.&nbsp; Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.&nbsp; You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website.&nbsp; By using the Website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.</p>
-<p><strong>(d) Cookies.</strong>
-We use cookies to help you use the Services and to collect data that we can use to improve the efficiency and quality of our Service. We use these cookies to identify you as a valid user and to help personalize your SOUNDCLOUD experience in conjunction with your profile. We currently employ non-persistent session cookies and persistent cookies, which stay on your computer after you have gone offline. Persistent cookies remain in the “cookies” folder after you have closed your web browser. Most browsers have cookies turned on as a default, but you can always disable cookies or only allow non-persistent session cookies via your browser preferences. If you choose to disable cookies, however, you will not be able enjoy a significant proportion of SOUNDCLOUD’s functionality. Please remember that a cookie set by SOUNDCLOUD stays at SOUNDCLOUD. Cookies cannot read your hard drive or give any information collected to any third party.</p></div>
-<div class="content-item"><h3>6. Third-Party Sites</h3>
-The Websites may include links to other websites. This Privacy Policy does not apply to, and we cannot control the activities of, such other websites. You should consult the respective privacy policies of these third-party sites.</div>
-<div class="content-item"><h3>7. Changes and Updates to this Privacy Policy</h3>
-We may occasionally update this Privacy Policy. When we do, we will also revise the Effective Date below. Any changes to our Privacy Policy will always be available here on our homepage so that our visitors are always aware of what information we gather, how we might use that information, and whether we will disclose it to third parties</div>
-<div class="content-item"><h3>8. Questions?</h3>
-If you have questions about this Privacy Policy, want to suggest changes to this Privacy Policy or want to know, which PII we store about you, please contact us by email at <a href="mailto:privacy@soundcloud.com">privacy@soundcloud.com</a>.</div>
-<div class="content-item"><h3>10.	Don’t want to give us your information?</h3>
-If you decide that you do not want that we use your PII in the way described in this Privacy Policy, you can send us a notice that you wish to withdraw your consent as set out above by emailing <a href="mailto:privacy@soundcloud.com">privacy@soundcloud.com</a>. Withdrawing your consent will mean that you will not be able to receive the full benefits of our Services as a user.&nbsp;Additionally, if you do not provide your consent, or if you withdraw your consent, you should not use the Website and our Services as a Registered User.</div>
-<div class="content-item"><strong>Effective Date:</strong>
-April 29, 2010
+<div class="content-item"><p>Welcome to SoundCloud®, a service provided by SoundCloud Limited (“<strong>SoundCloud</strong>”, “<strong>we</strong>” “<strong>our</strong>”, “<strong>us</strong>”).
 <br>
-<strong>Last Update:</strong>
-May 28, 2010</div>
+Your privacy is important to us.  This Privacy Policy explains how we collect, store, use and disclose your personal information when you use SoundCloud.com (the “<strong>Website</strong>”), and all related players, widgets, tools, apps, data, software, APIs and other services provided by SoundCloud (the “<strong>Services</strong>”).
+<br>
+This Privacy Policy explains the following, amongst other things:</p>
+<ul class="bullet"><li><a href="#principles">Our principles with respect to your data and your privacy</a></li>
+<li><a href="#collection">The information we collect about you</a></li>
+<li><a href="#information">How we use your personal information</a></li>
+<li><a href="#sharing">How we share your personal information</a></li>
+<li><a href="#cookies">How we use cookies and similar technology</a></li>
+<li><a href="#choices">Your choices with respect to your personal information</a></li>
+<li><a href="#contact">How to contact us regarding privacy issues</a></li></ul>
+<p>By using the Website or any of the Services, and in particular by registering a SoundCloud® account, you are consenting to the use of your personal information in the manner set out in this Privacy Policy.  Please take some time to read this Privacy Policy, and make sure you are happy with our use and disclosure of your personal information.  <strong>If you do not agree to any of the provisions of this Privacy Policy, you should not use the Website or any of the Services</strong>.  If you have any questions or concerns, you can contact us at <a href="mailto:privacy@soundcloud.com">privacy@soundcloud.com</a>.</p>
+<p>Please note that this Privacy Policy only applies to the Website and the Services (together, the “<strong>Platform</strong>”).  When using the Platform, you may find links to other websites to services, or tools that enable you to share information with other websites and services.  SoundCloud is not responsible for the privacy practices of these other websites and services and we recommend that you review the privacy policies of each of these websites or services before linking your SoundCloud account or sharing any personal information.</p></div>
+<div class="content-item"><h2 id="principles">Our Principles</h2>
+<p>We have a pretty simple approach to data protection and privacy, which can be summarised as follows:</p>
+<h3>We believe in full disclosure</h3>
+<p>This Privacy Policy is designed to give you full transparency regarding our data protection practices.  If there’s anything that’s not clear from this Privacy Policy, please feel free to email us at <a href="mailto:privacy@soundcloud.com">privacy@soundcloud.com</a>.</p>
+<h3>You should have full control over your data</h3>
+<p>We’ve designed the Website to give you control over the information you publish and share on SoundCloud® and other sites and services to which you connect your SoundCloud® account.  Please take full advantage of these tools and make sure you only share what you want to share.</p></div>
+<div class="content-item"><h2 id="collection">Information we collect about you</h2>
+<p>We collect personal information about you from various sources:</p>
+<h3>Information provided by you</h3>
+<p>You don’t need to provide us with any personal information in order to visit the Website.  However, certain Services do require that you register for a SoundCloud® account and, by doing so, you will provide us with certain personal information:</p>
+<ul class="bullet"><li>Essential Information:  When you register any kind of SoundCloud® account, you will need to provide your email address and choose a password.  In addition, if you register a premium account, you will also need to provide your real name, address and payment verification information.</li>
+<li>Profile Information:  You may choose, at your discretion, to provide additional information for your public profile on SoundCloud® – for example:
+<ul><li>your real name</li>
+<li>a user name (which may be your real name or a pseudonym)</li>
+<li>the city and country in which you live</li>
+<li>a profile picture or avatar</li>
+<li>information about how you categorise yourself with respect to your content (for example, whether you are a musician, a label or some other category of creator)</li>
+<li>details of your other websites and social media profiles, including links to those websites and profiles</li></ul>None of this profile information is mandatory, and any information you do provide may be deleted, edited, changed or amended by you at any time.  For more information, see the <a href="#choices">Choice and Control</a> section below.</li>
+<li>Information from Correspondence:  You will provide certain personal information if you contact us by email, use any of the webforms on the Website, or contact us by mail, fax or other offline means.</li>
+<li>Survey Information:  If you participate in any survey, you will provide certain personal information as part of your response, unless you respond anonymously.</li>
+<li>Information that you post on the Website:  You may provide personal information when you upload sounds to the Platform, or when you post comments on the Website, or contribute to community discussions.</li></ul>
+<br>
+<h3>Information we collect automatically</h3>
+<p>There is certain information that we collect automatically as the result of your use of the Platform, or through the use of web analytics services as described in the  <a href="#cookies">Cookies and Similar Technology</a> section below.  This information includes:</p>
+<ul class="bullet"><li>the Internet Protocol (IP) address of the device from which you access the Platform (this can sometimes be used to derive the country or city from which you are accessing the Platform)</li>
+<li>the site that you visited immediately prior to visiting the Website</li>
+<li>the specific actions that you take on the Website, including the pages that you visit, streaming or downloading sounds, uploading or recording sounds, connecting your Facebook account, sharing a track with another user, following or unfollowing another user, joining or leaving a group, posting a comment, or performing a search</li>
+<li>any search terms that you may enter on the Website</li>
+<li>the time, frequency and duration of your visits to the Website</li>
+<li>your browser type and operating system</li>
+<li>the nature of the device from which you are accessing the Platform, for example, whether you are accessing the Platform from a personal computer or from a mobile device</li>
+<li>information collected through <a href="#cookies">cookies and similar technology</a>, as described below</li>
+<li>information regarding your interaction with email messages, for example, whether you opened, clicked on, or forwarded the email message</li></ul>
+<br>
+<h3>Information from Other Sources</h3>
+<p>SoundCloud allows you to sign up and log in using your Facebook account.  If you sign up using Facebook, Facebook will ask your permission to share certain information from your Facebook account with SoundCloud.  This includes your first name, last name, gender, general location, a link to your Facebook profile, your timezone, birthday, profile picture and your list of friends.</p>
+<p>This information is collected by Facebook and is provided to us under the terms of <a href="http://www.facebook.com/policy.php">Facebook’s privacy policy</a>. You can control the information that we receive from Facebook using the privacy settings in your Facebook account.</p>
+<p>If you sign up to SoundCloud® using Facebook, your SoundCloud® account will be connected automatically to your Facebook account, and information regarding your activity on SoundCloud®, specifically the sounds that you listen to on SoundCloud®, will be shared with Facebook and will be published in your Facebook friends’ newsfeeds.  If you do not wish to share your SoundCloud® activity with your Facebook friends, you can control this from the “Settings” page – for more information, see the <a href="#choice">Choice and Control</a> section below.</p></div>
+<div class="content-item"><h2 id="information">How we use your personal information</h2>
+<p>We use the information that we collect about you for the following purposes:</p>
+<ul class="bullet"><li>our email address and password are used to identify you when you log into the Platform.</li>
+<li>Any additional information that you provide as part of your public profile, such as your real name, and links to your website and other social media profiles (but not your email address), will be published on your profile page.  This information will be publicly accessible and may be viewed by anyone accessing the Website, or using our API.  Please bear this in mind when considering whether to provide any additional information about yourself.</li>
+<li>If you subscribe to a premium account, your name, address and payment verification information will be used to process your account subscription and to collect your payment.  All payment verification information is transmitted using industry-standard SSL (Secure Socket Layer) encryption.  SoundCloud also complies with the Payment Card Industry Security Standards.</li>
+<li>Your email address will be used to send you newsletters and email notifications if you have elected to receive them using your account preferences.  For information about how to change your preference, and to unsubscribe from newsletters and email notifications, please see the <a href="#choice">Choice and Control</a> section, below.</li>
+<li>If you are a Facebook user, and one of your Facebook friends registers a SoundCloud® account, we will suggest to your Facebook friend that you might be someone they may wish to follow on SoundCloud.</li></ul>
+<p>Your personal information is also used for the following general purposes:</p>
+<ul class="bullet"><li>To operate and maintain your SoundCloud® account, and to provide you with access to the Website and use of those Services that you may request from time to time.</li>
+<li>To identify you as the creator of the sounds that you upload, the comments that you post and/or the other contributions that you make to the Platform.</li>
+<li>To seek your participation in surveys, and to conduct and analyse the results of those surveys if you choose to participate.</li>
+<li>To provide other users with data regarding people streaming and downloading their sounds.</li>
+<li>To analyse the use of the Platform, and the people visiting the Website and using the Services, in order to improve SoundCloud®.</li>
+<li>To respond to you about any comment or enquiry you have submitted.</li>
+<li>To customize your use of the Platform and/or the content of any email newsletter or other material that we may send to you from time to time.</li>
+<li>To prevent or take action against activities that are, or may be, in breach of our <a href="/terms-of-use">Terms of Use</a>, <a href="/community-guidelines">Community Guidelines</a> or applicable law.</li>
+<li>For other purposes, provided we disclose this to you at the relevant time, and provided that you agree to the proposed use of your personal information.</li></ul></div>
+<div class="content-item"><h2 id="sharing">Sharing of your personal information</h2>
+<p><strong>We will not share your personal information with any third party, except as described in this Privacy Policy.</strong>
+There are circumstances where we may need to share some of the personal information we collect about you or which you provide to us - these circumstances are as follows:</p>
+<ul class="bullet underlined"><li><em>Other Users:</em>
+Any personal information in your public profile (other than your email address) will be accessible by other users of the Platform, who may view your profile information, listen to and comment on any of your public sounds, add themselves to your list of followers, and send you messages.  If you listen to any sounds uploaded by a premium user, the fact that you have listened to those sounds will be shared with that premium user, so that they can track the popularity of their sounds.  Similarly, if you comment on any sounds on the Platform, your comments will be available to all users of the Platform.</li>
+<li><em>With your consent:</em>We will disclose your personal information if you have explicitly agreed that we may do so.  In particular, we will disclose personal information where you have elected to connect your SoundCloud® account to other social networks, or have elected to have your activity on the Platform published to other networks such as Facebook.  For information on how to control the information that your share, please see the <a href="#choices">Choice and Control</a> section below.</li>
+<li><em>Service Providers:</em>
+We use certain reputable third parties, some of whom may be located outside of the European Economic Area, to provide us with certain specialized services related to the Platform.  These third parties will have access to certain information about you, but only where this is necessary in order for those third parties to provide their services to us.  Where we transfer personal information to these third parties, we ask and require these third parties to implement appropriate organisational and technical security measures to protect against unauthorised disclosure of personal information, and only to process personal information in accordance with our instructions and to the extent necessary to provide their services to us.</li>
+<li><em>Users of our API:</em>SoundCloud has an open API, which enables application developers to integrate elements of the Platform into exciting new apps.  Some of these developers may be located outside of the European Economic Area.  Any personal information that you choose to make public on the Platform, including your public profile information and any public sounds, may be accessible to these developers over the API.  For information on how to limit the information that is available over the API, please see the <a href="#choices">Choice and Control</a> section below.</li>
+<li><em>As aggregated data:</em>
+We may aggregate your personal data with similar data relating to other users of the Platform in order to create statistical information regarding the Platform and its use, which we may then share with third parties.  None of this information would include any email address or other contact information, or anything that could be used to identify you in real life.</li>
+<li><em>If required by law:</em>
+We will disclose your personal information if we believe in good faith that we are permitted or required to do so by law, including in response to a court order, subpoena or other legal demand or request.</li>
+<li><em>To protect our interests:</em>
+We may disclose your personal information if we feel this is necessary in order to protect or defend our legitimate rights and interests, or those of our users, employees, directors or shareholders, and/or to ensure the safety and security of the Platform and/or the SoundCloud® community.</li>
+<li><em>In the context of a business transfer:</em>
+We may disclose your personal information to any person or company that acquires all or substantially all of the assets or business of SoundCloud, or on a merger of our business, or in the event of our insolvency.</li></ul></div>
+<div class="content-item"><h2 id="cookies">Cookies and similar technology</h2>
+<p>In common with most other websites, we use cookies to help us improve the Website and the Services we provide.  Cookies are small text files that are placed on your computer by websites that you visit.  These text files can be read by these websites and help to identify you when you return to a website.  Cookies can be “persistent” or “session” cookies.  Persistent cookies remain on your computer when you have gone offline, while session cookies are deleted as soon as you close your web browser.</p>
+<h3>Google Analytics</h3>
+<p>Google Analytics is a web analytics service provided by Google, Inc. (“<strong>Google</strong>”).&nbsp; Google Analytics uses cookies to help us analyze how users use the Website, and any SoundCloud® players embedded on third party sites.  The information generated by the cookie about your use of the Website and SoundCloud® players (including your truncated IP address) is transmitted to and stored by Google on servers in the United States.  Google will use this information for the purpose of evaluating your, and other users’, use of the Website and SoundCloud® players, compiling reports for us on website activity and providing other services relating to website activity and Internet usage.&nbsp; Please note that Google only receives your truncated IP address.  This is sufficient for Google to identify (approximately) the country from which you are visiting the Website, but is not sufficient to identify you, or your computer or mobile device, individually.  You can find more information on Google Analytics <a href="http://www.google.com/intl/en/analytics/privacyoverview.html">here</a>, including a link to <a href="http://www.google.com/intl/en/privacy/privacy-policy.html">Google’s privacy policy</a>.</p>
+<p>For information on how to opt-out of having your data collected by Google, please see the “Cookies” paragraph in the <a href="#choices">Choice and Control</a> section below.</p>
+<h3>Quantcast Measurement</h3>
+<p>Quantcast Measurement is an audience measurement service provided by Quantcast Corporation (“<strong>Quantcast</strong>”).  Quantcast uses cookies to help us better understand our users, and to help us keep SoundCloud® and our marketing messages relevant to your use of the platform. The information generated by the cookie about your use of the Website (including your IP address) is transmitted to and stored by Quantcast on servers in the United States.  Quantcast will use this information, together with information it collects from other websites that you may visit, for the purpose of evaluating your behaviour across the web and compiling reports for us on your website activity.&nbsp; All information provided by Quantcast is aggregated and Quantcast does not provide us with any information relating to your activity on any other website.  You can find more information on Quantcast’s collection and use of data <a href="http://www.quantcast.com/how-we-do-it">here</a>, including a link to <a href="http://www.quantcast.com/privacy">Quantcast’s privacy policy</a>.</p>
+<p>For information on how to opt-out of having your data collected by Quantcast, please see the “Cookies” paragraph in the <a href="#choices">Choice and Control</a> section below.</p>
+<p>In addition to cookies, we use the following standard Internet technology in connection with your use of the Platform:</p>
+<ul class="bullet underlined"><li><em>Clear GIFs:</em>
+We use “clear GIFs”, sometimes known as “web bugs”, which are small image files that we embed into our email newsletters.  These clear GIFs tell us whether you opened the newsletter, clicked on any of the content or forwarded the newsletter to someone else.  This provides us with useful information regarding the effectiveness of our email newsletters, which we can use to ensure that we are delivering information that is relevant to our users.</li>
+<li><em>Flash cookies:</em>
+We use Flash cookies to synchronise information between multiple SoundCloud® players.  This ensures that one player is stopped when another player starts.  Unlike some other websites, <strong>we do not use Flash cookies for the purposes of collecting any personal data, and do not use Flash cookies to respawn any cookies that you might previously have deleted.</strong></li>
+<li><em>HTML5 Local Storage:</em>
+We use HTML5 local storage to store your default listening volume (i.e. the volume at which you prefer to hear sounds on SoundCloud®) and, in the case of premium users, to set the widget control colour.  If you access the mobile version of Website, we use HTML5 local storage to store certain cookie data, including your user plan, authentication data, your username and your display preferences.  <strong>We do not use HTML5 local storage to collect any personal data or to track your activity on our websites.</strong></li></ul>
+<p>For information on your choices regarding cookies and similar technologies, please see the <a href="#choices">Choice and Control</a> section below.</p></div>
+<div class="content-item"><h2 id="choices">Choice and Control</h2>
+<p>We do our best to give you as much choice as possible regarding the amount of personal information you provide to us, and the control you have over that information.</p>
+<p>It is not necessary for you to provide us with any information in order to visit the Website, although certain information will be collected automatically by virtue of your visit (as described above).  However, if you do decide to register a SoundCloud® account, you can control your personal information in the following ways.</p>
+<h3>Email preferences</h3>
+<p>Check out the “Email” page within “Settings”.  When you are logged in to your account, you can access your Settings at the top left of the screen, and you’ll find the link to the Email page down the right side of the Settings page.</p>
+<p>From the Email page you can tell us:
+</p><ul class="bullet"><li>which email notifications (if any) you would like to receive from us, and how often; and</li>
+<li>any additional or alternative email addresses that you may wish us to use to communicate with you.</li></ul><p></p>
+<p>You can also turn off email notifications from the “Account” page within your Settings.  By clicking on the link on the Account page, you will immediately disable all email notifications, other than essential account notifications such as important service updates, reports of copyright infringement and other essential information relating to your account and your use of the Platform.</p>
+<p>It is also possible to unsubscribe from email newsletters and notifications (other than essential account notifications) at any time by clicking on the link at the end of each email.</p>
+<h3>Sharing with other networks</h3>
+<p>The “Connections” tab within your Settings enables you to control the information you share with other networks and applications.  As well as selecting those of your social networks you wish to share to, you can also control access to other services and applications to which you have connected your SoundCloud® account.</p>
+<p>If you sign up for SoundCloud® via your Facebook account, your SoundCloud® account and your Facebook account will be connected automatically, and information regarding the sounds that you listen to on SoundCloud®, will be shared with Facebook and will appear in your Facebook friends’ newsfeeds. <strong>If you do not want this information shared with Facebook, please change your Settings.</strong></p>
+<p>Please note that this Privacy Policy does not apply to any third party sites or applications, and we cannot control the activities of those sites or applications.  You are advised to read the privacy policies of those sites or applications before sharing your information with, or connecting your SoundCloud® account to, any of these third party sites or applications.</p>
+<h3>Sharing with other users</h3>
+<p>SoundCloud® is a very social place, but if you would prefer to browse the Website and use the Services anonymously, you can do so by checking the “Anonymous Listening” box in the “Account” tab within “Settings”.  By checking this box, other users will not be able to see the sounds that you listened to, but we will still have access to this information.</p>
+<p>If any of your sounds contain any personal information, you can control who has access to these sounds using the settings in the sound page (click on the “pencil” icon in the waveform player for the relevant sounds).  By setting your sounds to “private”, rather than “public”, you can limit who has access to your sounds.</p>
+<h3>Sharing with app developers</h3>
+<p>SoundCloud® has an open API, which allows third party developers to build some really cool apps as an extension of the Platform.  If you would prefer that your sounds are not made available to third party app developers, you can disable API access within the sound page for each of the sounds that you upload.  Click on the “pencil” icon in the waveform player, and uncheck the “Apps enabled” box at the bottom of the page.</p>
+<h3>Cookies</h3>
+<p>You can use the settings within your browser to control the cookies that are set on your computer.  However, please be aware that cookies are important to many aspects for the Website – if you set your browser to reject cookies, you may not be able to enjoy all of the features of the Platform.  To find out more about cookies, including how to see what cookies have been set and how to reject and delete cookies, please visit <a href="/pages/privacy">http://www.allaboutcookies.org</a>.</p>
+<p>To opt-out of being tracked by Google Analytics on the Website and other websites, please visit <a href="/pages/privacy">http://tools.google.com/dlpage/gaoptout.</a></p>
+<p>To opt-out of being tracked by Quantcast on the Website and other websites, please visit <a href="/pages/privacy">http://www.quantcast.com/opt-out</a>.</p>
+<p>Please Note:  We have done our best to provide you with clear and comprehensive information about our use of cookies and similar technologies.  If you choose to use the Website without blocking or disabling these technologies, you consent to our use, in accordance with this Privacy Policy, of any personal information that we collect using these technologies.</p>
+<h3>Deleting your account</h3>
+<p>You can delete your account from the “Account” page within your Settings.  Please bear in mind that, if you delete your account, all data associated with your account, including the sounds that you uploaded and the usage data associated with those sounds, will be deleted and may not be recoverable.  You are therefore advised to copy or back up all content uploaded to your account before you delete your account.</p></div>
+<div class="content-item"><h2>Access to your Data</h2>
+<p>As described above, most of the personal information you provide to us can be accessed and updated in the “Settings” page of your SoundCloud® account.  If you wish to access, amend or delete any other personal information we hold about you, or if you have any objection to the processing of any information that we hold about you, please contact us at <a href="mailto:privacy@soundcloud.com">privacy@soundcloud.com</a>, or the address provided below.</p>
+<p>If you ask us to delete your account (either via the Settings page or by email), we will do so within a reasonable period of time, but we may need to retain some of your personal information in order to satisfy our legal obligations, or where we have a legitimate reason for doing so.</p></div>
+<div class="content-item"><h2>International data transfers</h2>
+<p>SoundCloud is based in Europe, and your personal information is collected, stored, used and shared in accordance with European laws.  However, from time to time, it may be necessary for us to transfer your personal data to the United States.  You should be aware that privacy laws in the United States may not be equivalent to the laws in your country, and by using the Platform, you consent to the transfer, storage and processing of your personal information in the United States in accordance with this Privacy Policy and applicable law.</p></div>
+<div class="content-item"><h2>Children</h2>
+<p>SoundCloud® is not intended for use by children.  Anyone under the age of 13 is not permitted to use the Platform and must not attempt to register an account or submit any personal information to us.  We do not knowingly collect any personal information from any person who is under the age of 13 or allow them to register an account.  If it comes to our attention that we have collected personal data from a person under the age of 13, we will delete this information as quickly as possible.  If you have reason to believe that we may have collected any such data, please notify us immediately at privacy@soundcloud.com.</p></div>
+<div class="content-item"><h2>Changes and Updates to this Privacy Policy</h2>
+<p>We may occasionally update this Privacy Policy, and when we do so, we will also revise the Effective Date set out below.  Any changes to our Privacy Policy will always be available here so that SoundCloud® users are always aware of what information we gather, and how we might use and share that information.  Please be sure to check back here from time to time to ensure that you are aware of any changes to this Privacy Policy.  Any material changes to this Privacy Policy will be communicated to registered users by email (to the then current email address provided in their account), by a notification to their account, and/or by posting a notice of the change on the Website.</p></div>
+<div class="content-item"><h2 id="contact">Questions?</h2>
+<p>If you have questions about this Privacy Policy, want to suggest changes to this Privacy Policy or want to know, what information we store about you, please contact us by email at&nbsp;<a href="mailto:privacy@soundcloud.com">privacy@soundcloud.com</a>, or write to us at:</p>
+<p>SoundCloud Limited <br>
+Rosenthaler Str. 13  <br>
+10119 Berlin <br>
+Germany <br>
+Attention: Legal Department <br></p></div>
+<div class="content-item"><h2>Don’t want to give us your information?</h2>
+<p>If you decide that you do not want us to you your personal information in the manner described in the Privacy Policy, please do not use the Platform.  If you have already registered an account, you can find out how to terminate or cancel your account <a href="/terms-of-use#termination">here</a>.</p></div>
+<div class="content-item"><strong>Effective Date:</strong>
+22 September 2011</div>
 </div></div>
 <div id="footer"><div class="footer-col"><div class="logged-in"><h4>You</h4>
 <ul><li><a href="/you/tracks">Tracks</a></li>
@@ -228,66 +354,47 @@ May 28, 2010</div>
 <li><a href="/people">People</a></li>
 <li><a href="/groups">Groups</a></li>
 <li><a href="/apps">Apps</a></li>
-<div class="logged-in"><li><a href="/pages/widgets">Widgets &amp; Badges</a></li></div>
-<li><a href="/forums">Forums</a></li>
-<li><a href="/pages/meetups">Meetups</a></li></ul></div>
+<li class="logged-in"><a href="/pages/widgets">Widgets &amp; Badges</a></li>
+<li><a href="/pages/meetups">Meetups</a></li>
+<li><a href="http://m.soundcloud.com/">Mobile</a></li></ul></div>
 <div class="footer-col"><h4>Premium</h4>
 <ul><li><a href="/premium?ref=t025">Feature Overview</a></li>
 <li><a href="/premium/gifts">Buy a Gift</a></li>
 <li><a class="icon-button" href="/premium?ref=t026"><span class="go-pro">Premium</span></a></li></ul></div>
 <div class="footer-col"><h4>About Us</h4>
-<ul><li><a href="http://blog.soundcloud.com">Blog</a></li>
-<li><a href="/pages/contact">Contact Us</a></li>
+<ul><li><a href="/pages/contact">About SoundCloud</a></li>
+<li><a href="http://blog.soundcloud.com">Blog</a></li>
 <li><a href="/jobs">Jobs</a></li>
 <li><a href="/press">Press</a></li></ul></div>
 <div class="footer-col"><h4>Help</h4>
 <ul><li><a href="/tour">Take The Tour</a></li>
 <li><a href="/101">SoundCloud 101</a></li>
 <li><a href="/help">Help</a></li>
-<li><a href="http://getsatisfaction.com/soundcloud">Help Forums</a></li>
 <li><a href="/videos">Videos</a></li>
-<li><a href="/help">Support</a></li></ul></div>
-<div id="logo-footer"></div>
-<div class="footer-col last"><h4><a href="http://developers.soundcloud.com">Developers</a></h4>
+<li><a href="/help" id="footer-support-link">Support</a></li></ul><script type="text/javascript">
+//<![CDATA[
+window.SC.renderSupportLevel()
+//]]>
+</script></div>
+<div class="footer-col last"><h4>Developers</h4>
 <ul><li><a href="http://developers.soundcloud.com">Get Started</a></li>
 <li><a href="http://developers.soundcloud.com/docs">Documentation</a></li>
 <li><a href="http://developers.soundcloud.com/blog">API Blog</a></li>
-<div class="logged-in"><li><a href="/you/apps">Your Apps</a></li></div>
+<li class="logged-in"><a href="/you/apps">Your Apps</a></li>
 <li><a href="/apps">App Gallery</a></li>
-<li><a href="http://soundcloudlabs.com">Labs</a></li></ul></div><p id="copyright">© 2007-2011 SoundCloud Ltd. All rights reserved.
+<li><a href="http://soundcloudlabs.com">Labs</a></li></ul></div>
+<div id="logo-footer"></div><p id="copyright">© 2007-2011 SoundCloud Ltd. All rights reserved.
 <a href="/community-guidelines">Community Guidelines</a>
 |
 <a href="/terms-of-use">Terms of Use</a>
 |
 <a href="/pages/privacy">Privacy Policy</a>
 |
+<a href="/pages/copyright">Copyright Information</a>
+|
 <a href="/imprint">Imprint</a></p>
 </div>
-<div class="templates aural"><div id="blogger-form"><form accept-charset="utf-8" action="" enctype="multipart/form-data" method="post">
-<label for="blogs-list">
-Your blog
-</label>
-<select name="blogs-list"></select>
-<label for="entry-title">
-Title
-</label>
-<input class="title" id="entry-title" name="entry-title" type="text">
-<label for="entry-content">
-Text
-</label>
-<textarea class="content" id="entry-content" name="entry-content"></textarea>
-<label for="entry-tags">
-Tags (separated by comma)
-</label>
-<input class="tags" id="entry-tags" name="entry-tags" type="text" value="SoundCloud">
-<div class="checkbox"><input id="entry-draft" name="entry-draft" type="checkbox">
-<label for="entry-draft">
-Save as draft?
-</label></div>
-<div class="form-buttons"><input class="default" name="commit" type="submit" value="Post"><a href="#" class="cancel" onclick="return false;" rel="nofollow">Cancel</a></div>
-</form></div>
-
-<div id="wordpress-form"><h2>Share to WordPress.com</h2>
+<div class="templates aural"><div id="wordpress-form"><h2>Share to WordPress.com</h2>
 <form><label for="short-code">
 Grab the <strong>shortcode</strong> or
 <a class="customize-link" href="#customize">customize your player</a>
@@ -315,27 +422,33 @@ comment at
 
 <div class="aural"><div id="unlock-form"><div class="site-login-form-wrapper zoom"><h2>Sign up</h2>
 <ul class="tabs"><li class="outside"><form action="/login/facebook/new" class="connect-facebook external-connection" method="post">
-<input alt="With your facebook account" class="submit" data-sc-network="facebook" src="http://a1.sndcdn.com/images/connect_facebook.png?980cce5" type="image">
+<input alt="With your facebook account" class="submit" data-sc-network="facebook" src="http://a1.sndcdn.com/images/connect_facebook.png?daca7bd" tabindex="0" type="image">
 <small>
 By signing in you accept our
 <a href="/terms-of-use" target="_blank">terms of use.</a>
 </small>
 </form></li>
-<li class="first "><a href="/login" id="tab-log-in-link">Log in</a></li>
-<li class="last current"><a href="/signup" id="tab-sign-up-link">Sign up</a></li></ul>
+<li class="first "><a href="/login" id="tab-log-in-link" tabindex="1">Log in</a></li>
+<li class="last current"><a href="/signup" id="tab-sign-up-link" tabindex="2">Sign up</a></li></ul>
 <div class="pane hidden" id="tab-log-in"><form accept-charset="utf-8" action="https://soundcloud.com/session" id="login-form" method="post">
-<div class="form-group"><label for="site-username">Your email address</label><input id="login_submitted_via" name="login_submitted_via" type="hidden" value="zoom"><input class="title auto-select" id="site-username" name="username" type="text"></div>
-<div class="form-group"><label for="site-password">Password</label><input class="title auto-select" id="site-password" name="password" type="password"></div>
+<div class="form-group"><label for="site-username">Your email address</label><input id="login_submitted_via" name="login_submitted_via" type="hidden" value="zoom"><input class="title auto-select" id="site-username" name="username" tabindex="3" type="text"></div>
+<div class="form-group"><label for="site-password">
+Password
+<a href="/login/forgot" class="forgot-link" tabindex="7">Forgot password?</a>
+</label><input class="title auto-select" id="site-password" name="password" tabindex="4" type="password"></div>
 <div class="remember"><div class="checkbox"><input id="site-remember-me" name="remember_me" type="checkbox">
-<label for="site-remember-me">Remember me</label></div></div>
-<div class="form-buttons"><input class="default" id="log-in-submit-button" name="commit" type="submit" value="Log in"><a href="#" class="cancel" onclick="return false;" rel="nofollow">Cancel</a></div>
+<label for="site-remember-me" tabindex="5">Remember me</label></div></div>
+<div class="form-buttons"><input class="default" id="log-in-submit-button" name="commit" tabindex="6" type="submit" value="Log in"><a href="#" class="cancel" onclick="return false;" rel="nofollow" tabindex="8">Cancel</a></div>
 </form>
 <div class="forgot-password"><div class="forgot-password-container hidden"><form accept-charset="utf-8" action="http://soundcloud.com/login/forgot" id="forgot-password-form" method="post">
 <p>Enter your <strong>email address</strong> and we'll <strong>send you a link</strong> that'll allow you to <strong>change your password</strong>. Problems? Contact <a href="/help">support</a>.</p>
-<div><div class="form-group"><label for="email">Your email address</label><input class="title auto-focus" id="email" name="email" type="text"></div>
+<div><div class="form-group"><label for="email">
+Your email address
+<a href="/login/forgot" class="forgot-link-back">Oh, I remember it!</a>
+</label><input class="title auto-focus" id="email" name="email" type="text"></div>
 <div class="form-buttons"><input class="default" name="commit" type="submit" value="Submit"></div></div>
 </form>
-</div><a href="/login/forgot" class="forgot-link">Forgot password?</a></div></div>
+</div></div></div>
 <div class="pane " id="tab-sign-up"><form accept-charset="utf-8" action="https://soundcloud.com/signup" class="suggest-email" id="signup-form" method="post">
 
 <div class="form-group"><div class="width_full"><label for="user_email">What's your email address?</label>
@@ -345,33 +458,34 @@ Whoops, we corrected your misspelled email address
 </small></div></div>
 <div class="form-group"><div class="width_1_2"><label for="user_password">Choose a password</label><input autocomplete="off" class="title" id="user_password" maxlength="255" name="user[password]" size="255" type="password"></div>
 <div class="width_1_2 last"><label for="user_password_confirmation">Re-type password</label><input autocomplete="off" class="title" id="user_password_confirmation" maxlength="255" name="user[password_confirmation]" size="255" type="password"></div></div>
-<div class="remember"><div class="checkbox"><input name="user[newsletter]" type="hidden" value="0">
-<input checked="checked" id="user_newsletter" name="user[newsletter]" type="checkbox" value="1">
-<label for="user_newsletter">
-Yes, send me useful news about SoundCloud
-</label></div><div class="checkbox"><input id="user_terms_of_use" name="user[terms_of_use]" type="checkbox" value="1">
+<div class="remember"><div class="checkbox"><input name="user[newsletter]" type="hidden" value="0"><input checked="checked" default="true" id="user_newsletter" name="user[newsletter]" type="checkbox" value="1"><label for="user_newsletter">Yes, send me useful news about SoundCloud</label></div><div class="checkbox"><input id="user_terms_of_use" name="user[terms_of_use]" tabindex="" type="checkbox" value="1">
 <label for="user_terms_of_use">
 I agree to the
 <a href="/terms-of-use" target="_blank">Terms of Use</a>
-of SoundCloud
+and
+<a href="/pages/privacy" target="_blank">Privacy Policy</a>
 </label></div>
 </div>
 <div class="remember form-buttons"><input class="default" id="user-submit" name="commit" type="submit" value="Sign up">
-<a class="cancel" href="/">Cancel</a></div>
+<a class="cancel" href="/oxytocin-1/engeltrick/edit">Cancel</a></div>
 </form></div></div></div></div></div>
-<script src="http://a1.sndcdn.com/javascripts/base.js?980cce5" type="text/javascript"></script>
+<script src="http://a1.sndcdn.com/javascripts/base.js?daca7bd" type="text/javascript"></script>
 
 <script type="text/javascript">
 var _gaq = _gaq || [];
-$.helpers.loadScriptAsync('http://www.google-analytics.com/ga.js', 'https://ssl.google-analytics.com/ga.js');
-$.helpers.loadScriptAsync('http://www.google.com/jsapi', 'https://www.google.com/jsapi');
+$.helpers.loadScriptAsync('//www.google-analytics.com/ga.js');
+$.helpers.loadScriptAsync('//www.google.com/jsapi');
 </script>
+<!-- / %script{:type => "text/javascript"} -->
 <script type="text/javascript">
 _qoptions = {qacct: "p-47_zcqmJsLHXQ"};
-$.helpers.loadScriptAsync('http://edge.quantserve.com/quant.js', 'https://quantserve.com/quant.js', true);
+$.helpers.loadScriptAsync('//edge.quantserve.com/quant.js', '//secure.quantserve.com/quant.js', true);
 </script>
 <noscript>
-<img alt="Quantcast" class="hidden" src="http://pixel.quantserve.com/pixel/p-47_zcqmJsLHXQ.gif" />
+<img alt="Quantcast" class="hidden" src="//pixel.quantserve.com/pixel/p-47_zcqmJsLHXQ.gif" />
+</noscript>
+<noscript>
+<img alt="" src="//logc252.xiti.com/hit.xiti?s=487751&amp;s2=&amp;p=&amp;di=&amp;an=&amp;ac=" />
 </noscript>
 
 
