@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arestravel.com privacy policy that was archived on 2010-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100816125832id_/http%3A//arestravel.com/77_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arestravel.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130003326id_/http%3A//arestravel.com/77_privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ARESTravel.com - Web
 
@@ -9,6 +9,8 @@ Your privacy is very important to Advanced Reservation Systems, Inc., ("ARES", "
 #### Personal Information ARES Collects and How It Is Used
 
 ARES collects information in different ways from individuals who access the various parts of our Services and the network of affiliate websites accessible through or utilized by our Services. We use this information primarily to provide a customized experience as you use our Services and, generally, do not share this information with third parties. However, we may disclose personal information collected (i) if necessary for the provision of our Services, (ii) if we have received your permission beforehand, (iii) if specifically stated that we will, or (iv) in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.
+
+When necessary, ARES shares your personal information with Travelport. Travelport processes and stores such information when such processing and storage is necessary to complete the requested travel arrangements. Such personal information will be processed and stored in the United States and in accordance with the Travelport Privacy Principles, which are available for review at <http://www.travelport.com/legal/privacypolicy.aspx>.
 
 Individuals may be asked to provide certain personal information when they use our Services including name, address, telephone number, billing information (such as a credit card number), and travel plans or arrangements. The personal information collected is used solely for the provision of our Services unless specifically stated otherwise. However, in instances where ARES and a partner jointly promote or offer the Services, ARES may provide the partner certain personal information to the partner for the sole purpose of allowing us and the partner to assess the results of the promotion or to offer the Services. In this instance, personal information may not be used by the partner for any other purpose. ARES may also generate non-identifying and aggregate profiles from personal information. We may use this aggregated and non-identifying information to sell advertisements that appear on the Services or to enhance the Services.
 
