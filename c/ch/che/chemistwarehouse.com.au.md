@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the chemistwarehouse.com.au privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525194824id_/http%3A//www.chemistwarehouse.com.au/AboutUs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemistwarehouse.com.au privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129045058id_/http%3A//www.chemistwarehouse.com.au/AboutUs/privacy.asp) for the most accurate reproduction.*
 
-# Chemist Warehouse
+# Chemist Warehouse - Australia's Cheapest Online Pharmacy
 
-**Privacy**  
-  
----  
-  
 **What is Chemist Warehouse's Privacy Statement?**  
 Our web server makes a record of your visit and logs the following information for statistical purposes - the user's server address, the user's top level domain name (eg. .com, .gov, .au, .uk etc.), the date and time of the visit to the site, the pages accessed and documents downloaded, the referring site and the type of browser used. No attempt will be made to identify users or their browsing activities except, in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect the web server's logs.
 
