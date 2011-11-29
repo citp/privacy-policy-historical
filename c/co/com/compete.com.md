@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the compete.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619215919id_/http%3A//www.compete.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compete.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129080638id_/http%3A//www.compete.com/privacy) for the most accurate reproduction.*
 
-# Compete: Privacy | Compete
+# Home: Privacy | Compete
 
 Last modified: June 15, 2010
-
-[View archived versions.](http://www.compete.com/privacy/archive/)
 
 This Privacy Policy (the "policy") outlines the types of personally-identifiable information ("personal information") we receive and collect when you use Compete's services available through the Compete web site located at [www.compete.com](http://www.compete.com/) (the "Services"), as well as some of the steps we take to safeguard your personal information.
 
@@ -33,7 +31,7 @@ At **compete.com** , we offer a number of services that do not require you to re
 
 When you sign up for a MyCompete account or other Compete services or promotions that requires registration, we sometimes ask you for personal information (such as your e-mail address and an account password). For certain services, such as our premium offerings, we also request credit card or other payment account information which will be maintained by third party merchant(s) or payment processor(s) in encrypted form on secure servers. We may combine the information you submit under your account with information from other Compete services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
 
-MyCompete member e-mail addresses are used to contact members regarding service updates, confirmations, opt-in surveys and select partner offers. If you would like to opt-out of these e-mails, please see the Opt-out section within e-mails you receive from us or manage your e-mail subscriptions by signing into MyCompete by clicking [here](https://my.compete.com/account). You may also contact us using the contact information listed below. If you elect to opt-out of further communications, such opt-out will apply only to marketing messages and not to communications regarding service updates and similar matters.
+MyCompete member e-mail addresses are used to contact members regarding service updates, confirmations, opt-in surveys and select partner offers. If you would like to opt-out of these e-mails, please see the Opt-out section within e-mails you receive from us or manage your e-mail subscriptions by signing into MyCompete by clicking [here](https://app.compete.com/account-settings). You may also contact us using the contact information listed below. If you elect to opt-out of further communications, such opt-out will apply only to marketing messages and not to communications regarding service updates and similar matters.
 
 Compete Blog e-mail updates are administered by a 3rd party service provider. E-mail addresses provided to them via the automated form on the blog are used solely for the purpose of sending you blog alerts.
 
@@ -67,9 +65,7 @@ We may use a 3rd party partner for database or software application services (su
 
 Compete.com only shares personal information with individuals outside of Compete as disclosed in the compete.com Privacy Policy and in the following limited circumstances:
 
-  *   We have a good faith belief that access, use, preservation or disclosure of information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, (d) protect against imminent harm to the rights, property or safety of Compete, its users or the public as required or permitted by law, (e) allow service providers and/or vendors to fulfill Services for you on behalf of Compete or (f) pursuant to an acquisition, merger, sale of assets or other business transfer.
-
-
+We have a good faith belief that access, use, preservation or disclosure of information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, (d) protect against imminent harm to the rights, property or safety of Compete, its users or the public as required or permitted by law, (e) allow service providers and/or vendors to fulfill Services for you on behalf of Compete or (f) pursuant to an acquisition, merger, sale of assets or other business transfer.
 
 **What is our policy regarding children's privacy?**
 
@@ -93,7 +89,7 @@ For the general Compete privacy policy, see [www.competeinc.com/privacy](http://
 
 **How may I update, correct or delete information you have about me?**
 
-To update your compete.com profile, change your e-mail address, or be removed from the compete.com mailing list, [click here](https://my.compete.com/).
+To update your compete.com profile, change your e-mail address, or be removed from the compete.com mailing list, [click here](https://app.compete.com/).
 
 **How may I contact you?**
 
