@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the upperseeker.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624181508id_/http%3A//upperseeker.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upperseeker.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129012738id_/http%3A//upperseeker.com/privacy.php) for the most accurate reproduction.*
 
-# Welcome
-
-## PRIVACY STATEMENT
+# UpperSeeker.com - Internet Advertising Technology
 
 Your online privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we provide a link to it on every page of our website.
 
@@ -50,12 +48,11 @@ This information is used to provide you with services that you requested (like s
 
 > **UpperSeeker** will not sell, share or rent your personally identifiable information to anyone, except as expressly described below:
 > 
->   * We have your express consent to share your information 
->   * We need to share your information to provide you the product or service that you requested. 
->   * We believe in good faith that any applicable law, regulation, or legal process requires it. 
->   * When the disclosure is necessary to protect or enforce our rights or the rights of another user.
+> We have your express consent to share your information   
+>  We need to share your information to provide you the product or service that you requested.   
+>  We believe in good faith that any applicable law, regulation, or legal process requires it.   
+>  When the disclosure is necessary to protect or enforce our rights or the rights of another user.  
 > 
-
 > 
 > We may share generic, aggregate and anonymous information with advertisers and affiliates 
 > 
