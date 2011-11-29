@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markertek.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531131954id_/http%3A//www.markertek.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markertek.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129072122id_/http%3A//www.markertek.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy: Markertek Video Supply
 
@@ -74,6 +74,6 @@ Should you have other questions or concerns about these privacy policies, please
 
 Back to Top
 
-| Markertek is a division of  
+|  | Markertek is a division of  
 Tower Products Incorporated  
 ---|---
