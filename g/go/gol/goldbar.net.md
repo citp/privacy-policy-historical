@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldbar.net privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528140904id_/http%3A//www.goldbar.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldbar.net privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129155509id_/http%3A//www.goldbar.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,6 +37,8 @@ You can send mail to the following postal address: Goldbar Enterprises LLC, 6538
 You can call Goldbar at (888) 594-0068 or +1(305) 671-3170.
 
 Please note that participation in certain activities on our website may be limited if personally identifiable information is not submitted for the user.
+
+We, or a data provider we have engaged, may place or recognize a unique cookie on your browser to enable you to receive customized ads, content or services. No personally identifiable information is on, or is connected to these cookies. The cookies may reflect de-identified demographic or other data linked to the registration data you have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies, please go to <http://www.privacychoice.org/companies> or <http://aboutads.info/choices>.
 
 COOKIES
 
