@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soluto.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414111021id_/http%3A//www.soluto.com/PC/Support/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soluto.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129101512id_/http%3A//www.soluto.com/PC/Support/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Soluto – Anti Frustration Software
 
