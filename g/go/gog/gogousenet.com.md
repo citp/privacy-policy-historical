@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the gogousenet.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527194636id_/http%3A//a.gogousenet.com/info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogousenet.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129202333id_/http%3A//a.gogousenet.com/info/privacy_policy.html) for the most accurate reproduction.*
 
 # GOGOUSENET.COM
 
-  
   
   
   
