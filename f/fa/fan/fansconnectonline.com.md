@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fansconnectonline.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517004606id_/http%3A//www.fansconnectonline.com/%3Ffca%3Dprivacy_show) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fansconnectonline.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129175057id_/http%3A//fansconnectonline.com/%3Ffca%3Dprivacy_show) for the most accurate reproduction.*
 
-# MTN FansConnectOnline Nigeria :: How to play
+# MTN FansConnect :: Privacy
 
 This Privacy Policy is effective as of December 20, 2009 ("Effective Date").   
 Please read all of this Privacy Policy as very carefully prior to commencing use of this web site and on each and every occasion that you use this web site in the future to check for updates.   
