@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zetabid.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422181601id_/http%3A//zetabid.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zetabid.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129024837id_/http%3A//zetabid.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Zetabid.com
 
