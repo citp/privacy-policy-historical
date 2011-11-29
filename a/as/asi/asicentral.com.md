@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asicentral.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530182221id_/http%3A//www.asicentral.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asicentral.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129121705id_/http%3A//www.asicentral.com/privacy.aspx) for the most accurate reproduction.*
 
-# ASI Central - Home : Privacy Policy
+# ASICentral.com | Privacy Policy | Security Policy | ASI
 
 **Our privacy policy is described below, in an effort to provide your company with an understanding of how information provided to** **ASI** **will be used. If our policy should change, we will list the changed policy on this site.**
 
