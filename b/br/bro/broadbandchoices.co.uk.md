@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadbandchoices.co.uk privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518144029id_/http%3A//www.broadbandchoices.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandchoices.co.uk privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129153631id_/http%3A//www.broadbandchoices.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - BroadbandChoices.co.uk
 
@@ -66,7 +66,7 @@ We may republish comments and testimonials sent to us by our users when they pro
 
 ## Ask our Expert
 
-We may republish extracts of emails sent to [ourexpert@broadbandchoices.co.uk](mailto:ourexpert@broadbandchoices.co.uk "ourexpert@broadbandchoices.co.uk"); [ourexpert@creditchoices.co.uk](mailto:ourexpert@creditchoices.co.uk "ourexpert@creditchoices.co.uk"); [ourexpert@energychoices.co.uk](mailto:ourexpert@energychoices.co.uk "ourexpert@energychoices.co.uk"); [ourexpert@homephonechoices.co.uk](mailto:ourexpert@homephonechoices.co.uk "ourexpert@homephonechoices.co.uk"); or [ourexpert@digitalchoices.co.uk](mailto:ourexpert@digitalchoices.co.uk "ourexpert@digitalchoices.co.uk") in articles and features on our websites and in other media. We will not disclose any user's email address or any level of personal information that would enable any third party to contact or identify a particular individual (for example a full name and full area of residency). If you do not want us to republish any extracts from correspondence with Ask our Expert then this should be indicated in the body text of the email and we will fully comply with your request.
+We may republish extracts of emails sent to [ourexpert@broadbandchoices.co.uk](mailto:ourexpert@broadbandchoices.co.uk "ourexpert@broadbandchoices.co.uk"); [ourexpert@energychoices.co.uk](mailto:ourexpert@energychoices.co.uk "ourexpert@energychoices.co.uk"); [ourexpert@homephonechoices.co.uk](mailto:ourexpert@homephonechoices.co.uk "ourexpert@homephonechoices.co.uk"); or [ourexpert@digitalchoices.co.uk](mailto:ourexpert@digitalchoices.co.uk "ourexpert@digitalchoices.co.uk") in articles and features on our websites and in other media. We will not disclose any user's email address or any level of personal information that would enable any third party to contact or identify a particular individual (for example a full name and full area of residency). If you do not want us to republish any extracts from correspondence with Ask our Expert then this should be indicated in the body text of the email and we will fully comply with your request.
 
 ## Processing a transaction between you and a third party
 
@@ -105,11 +105,28 @@ Decision Technologies Limited acts as both a data processor and a data controlle
 In the following instances, Decision Technologies Limited acts solely as a data processor:
 
   * facilitating orders for products and services placed through our websites.
-  * In the following instances, Decision Technologies Limited acts as a data controller:
+
+
+
+In the following instances, Decision Technologies Limited acts as a data controller:
+
   * monitoring and improving the performance of our websites and services;
   * providing you with emails and news letters and special offers if you register with us;
   * providing an availability check of specific services in your area; and
   * fulfilling our obligations if you enter a prize draw or competition
+
+
+
+Decision Technologies Limited adheres to the eight key data protection principals, specifically:
+
+  * we will only process your data fairly and lawfully;
+  * we will only obtain your data for the specific purposes as defined above and will not further process it in a manner incompatible with these purposes;
+  * we will only obtain data that is adequate and relevant and not excessive in relation to the purposes for which it was collected;
+  * we will as so far is possible only retain accurate data and where practicable or if so requested update it;
+  * we will not keep your personal data for longer than is needed for its intended purpose;
+  * we will process your personal data in accordance with the rights of the individual to whom the information concerns;
+  * we will take appropriate measures against unauthorised or unlawful processing or destruction of you personal data; and
+  * we will not allow your personal data to be transferred to a country or territory outside the European Economic Area (the EU states plus Liechtenstein, Iceland and Norway) unless that country or territory ensures an adequate level of protection for the rights and freedoms of data subjects in relation to the processing of personal data.
 
 
 
