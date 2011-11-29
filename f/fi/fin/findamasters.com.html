@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the findamasters.com privacy policy that was archived on 2009-04-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090403092647id_/http%3A//www.findamasters.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the findamasters.com privacy policy that was archived on 2011-11-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111129220907id_/http%3A//www.findamasters.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>The Science Registry Ltd | Privacy Statement</title>
@@ -27,100 +27,1232 @@
 <body>
 
 <div id="divOuterContainer">
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+
+
+<!--[if gte IE 5.5]>
+<![if lt IE 7]>
+<style type="text/css">
+div#divNewBulletinContainer {
+  /* IE5.5+/Win - this is more specific than the IE 5.0 version */
+  display:block;
+  top: expression( ( 0 - divNewBulletinContainer.offsetHeight + ( document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight ) + ( ignoreMe = document.documentElement.scrollTop ? document.documentElement.scrollTop : document.body.scrollTop ) ) + 'px' );
+}
+</style>
+<![endif]>
+<![endif]-->
+
 <script type="text/javascript">
-_uacct = "UA-2428558-2";
-_userv=2; 
-urchinTracker();
+
+    var domainName = document.domain.toLowerCase();
+    $(document).ready(function() {
+    if (domainName.substr(0,3) != "www") domainName="www.findaphd.com";
+    document.getElementById("imgMinMax").src = "http://" + domainName + "/images/news/maximize.gif";
+    document.getElementById("NBWhatsNew").src = "http://" + domainName + "/images/news/whatsNew.gif";
+
+    //var NBColour = "";
+    switch (domainName) {
+    case "www.findcpd.com": var NBColour = '#636'; break;
+    case "www.findaphd.com": var NBColour = '#336'; break;
+    case "www.findamasters.com": var NBColour = 'green'; break;
+    case "www.findanmba.com": var NBColour = 'teal'; break;
+    case "www.professionaldoctorates.com": var NBColour = '#633'; break;
+    }
+
+    document.getElementById("divNewsBulletinBG").style.background = NBColour;
+
+    if (!NBreadCookie('News')) {
+    $(document.getElementById("divNewsBulletinBG")).delay(2000).queue(function() { NBshowNewsBulletins(); });
+    } else {
+    NBhideNewsBulletins();
+    }
+
+    //if ipad or iphone then remove the news bulletin panel
+    if ((navigator.userAgent.match(/iPad/i)) || (navigator.userAgent.match(/iPhone/i))) {
+    $(document).ready(function() { document.getElementById("divNewBulletinContainer").style.display = "none"; });
+    }
+
+    });
+
+    function NBreadCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+
+    for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            //--Find bucket cookie and return all as a string--
+            if (c.indexOf(nameEQ) == 0) {
+                return c.substring(nameEQ.length, c.length);
+            }
+        }
+        return null;
+    }
+
+    function NBcreateCookie(name, value, days) {
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            var expires = "; expires=" + date.toGMTString();
+        }
+        else var expires = "";
+
+        document.cookie = name + "=" + value + expires + "; path=/";
+    }
+
+    function NBhideNewsBulletins() {
+        var WNPanel = document.getElementById("divNewsBulletin");
+        $(WNPanel).animate({ height: "hide" }, 500);
+        var WNancBtn = document.getElementById("ancMinMax");
+        var WNimgBtn = document.getElementById("imgMinMax");
+
+        WNimgBtn.title = "Maximize";
+        WNimgBtn.src = "http://" + domainName + "/images/news/maximize.gif";
+
+        WNancBtn.href = "javascript: NBshowNewsBulletins();";
+        NBcreateCookie("News", true, 1);
+        clearTimeout(NBtimerShow);
+        clearTimeout(NBtimerHide);
+        $(document.getElementById("divNewBulletinInnerContainer")).animate({ opacity: "0.35" }, 500);
+    }
+
+    function NBshowNewsBulletins() {
+        var WNPanel = document.getElementById("divNewsBulletin");
+        $(WNPanel).animate({ height: "show" }, 500);
+        var WNancBtn = document.getElementById("ancMinMax");
+        var WNimgBtn = document.getElementById("imgMinMax");
+
+        WNimgBtn.title = "Close";
+        WNimgBtn.src = "http://" + domainName + "/images/news/close.gif";
+        WNancBtn.href = "javascript: NBhideNewsBulletins();";
+        NBrunIt();
+        NBcreateCookie("News", false, -1);
+        $(document.getElementById("divNewBulletinInnerContainer")).removeAttr('style');
+    }
+
+    var NBintRotatorPos = 1;
+    var NBintWaitShow = "3500";
+    var NBintWaitHide = "250";
+    var NBdivCount = 0;
+    var NBtimerShow = 0;
+    var NBtimerHide = 0;
+
+    function NBrunIt() {
+        clearTimeout(NBtimerHide);
+        NBtimerShow = setTimeout("NBshowIt()", NBintWaitHide);
+        NBtimerHide = setTimeout("NBrotateNews()", NBintWaitShow);
+    }
+
+    function NBshowIt() {
+        NBdivCount = $(".newsHeadline").length;
+        
+        if (NBdivCount==0) {
+            // bypass 
+        } else {
+            if (NBintRotatorPos > NBdivCount) NBintRotatorPos = 1;
+
+            var hHeadline = document.getElementById("divNewsHeadline_" + NBintRotatorPos);
+            var vHeadline = document.getElementById("ancHeadlineRotator");
+
+            var vContent = document.getElementById("divContentRotator");
+            vHeadline.innerHTML = hHeadline.innerHTML;
+            vHeadline.href = "javascript:NBshowContents()";
+            $(vHeadline).animate({ opacity: "show" }, 500);
+            if (NBdivCount==1) clearTimeout(NBtimerHide); //disable rotation if only 1 news bulletin exists;
+        }
+    }
+
+    function NBrotateNews() {
+        clearTimeout(NBtimerShow);
+        var vHeadline = document.getElementById("ancHeadlineRotator");
+        $(vHeadline).animate({ opacity: "hide" }, 50);
+        NBintRotatorPos += 1;
+        NBrunIt();
+    }
+
+    function NBshowContents() {
+        clearTimeout(NBtimerShow);
+        clearTimeout(NBtimerHide);
+
+        var vHeadline = document.getElementById("ancHeadlineRotator");
+
+        var hContent = document.getElementById("divNewsContent_" + NBintRotatorPos);
+        var vContent = document.getElementById("divContentRotator");
+
+        vContent.innerHTML = hContent.innerHTML;
+
+        var WNancBtn = document.getElementById("ancMinMax");
+        var WNimgBtn = document.getElementById("imgMinMax");
+
+        if (vContent.style.display == 'none') {
+            WNimgBtn.title = "Minimize";
+            WNimgBtn.src = "http://" + domainName + "/images/news/minimize.gif";
+            WNancBtn.href = "javascript: NBshowContents();";
+        } else {
+            WNimgBtn.title = "Close";
+            WNimgBtn.src = "http://" + domainName + "/images/news/close.gif";
+            WNancBtn.href = "javascript: NBhideNewsBulletins();";
+        }
+
+        $(vContent).animate({ height: "toggle" }, 500, function() { if (vContent.style.display == 'none') { NBrunIt(); } });
+    }
 </script>
 
-<script src="http://www.findaphd.com/Library/siteTop.js" type="text/javascript">
-</script>
+<div id="divNewBulletinContainer">
+<div id="divNewBulletinInnerContainer" style="float:right;">
+<div style="float:right;"><a id="ancMinMax" style="border:0px;color:white;" href="javascript: NBshowNewsBulletins();"><img id="imgMinMax" src="http://www.findaphd.com/images/spacer.gif" style="width:31px;height:18px;border:0px;" alt="" title=""></a></div>
+<div style="clear:both;"></div>
 
-<div id="mainHeader">
-<div id="logoArea"><a href="http://www.findamasters.com"><img src="http://www.findamasters.com/images/logo.gif" alt="www.FindAMasters.com - Masters Courses" width="250" height="87" border="0"></a></div>
-<div id="topBannerAd" style="margin-left:-30px;">  <a href="http://www.findamasters.com/clickcount.asp?theid=43438"><img src="http://www.findamasters.com/images/adverts/front/banner_strath-law3.gif" alt="banner advert" width="468" height="60" border="0"></a></div>
+<div id="divNewsBulletin" style="float:left;display:none;">
+<div style="float:left;"><img id="NBWhatsNew" style="border:0px;" alt="" title=""></div>
+
+<div style="clear:both;height:1px;font-size:1px;overflow:hidden;"></div>
+<div id="divNewsBulletinBG" style="background-color:green;">
+<div id="divHeadline" style="height:46px;padding:3px 4px 0px 4px;">
+<a id="ancHeadlineRotator" onmouseover="clearTimeout(NBtimerShow);clearTimeout(NBtimerHide);" onmouseout="if (document.getElementById('divContentRotator').style.display == 'none') { NBrunIt(); }" href="#"></a></div>
+<div id="divContentRotator" style="padding:0px 4px 0px 4px; display:none;"></div>
+</div></div></div></div>
+
+<div id="divNewsHeadline_1" class="newsHeadline" style="display:none;">Does one tweet? Follow @FindAMasters on Twitter!</div><div id="divNewsContent_1" class="newsContent" style="display:none;"><div style="margin-top:4px;border-top: dotted 1px white; padding-top:4px;"></div><a style="color:gold;" href="http://twitter.com/#!/FindAMasters" target="_blank">Click here</a> to receive our latest fun and informative Tweets.</div><div id="divNewsHeadline_2" class="newsHeadline" style="display:none;">WIN A KINDLE!<br>Win one of Amazon's brilliant eBook readers.</div><div id="divNewsContent_2" class="newsContent" style="display:none;"><div style="margin-top:4px;border-top: dotted 1px white; padding-top:4px;"></div><a style="color:gold;" href="http://www.findamasters.com/students/newsletter.aspx?origin=NB" target="_top">Sign up to our Newsletter</a> for the chance to win a shiny new Kindle.</div><div id="divNewsHeadline_3" class="newsHeadline" style="display:none;">Did you know FindAMasters is on Facebook?</div><div id="divNewsContent_3" class="newsContent" style="display:none;"><div style="margin-top:4px;border-top: dotted 1px white; padding-top:4px;"></div><a style="color:gold;" href="https://www.facebook.com/FindAMasters" target="_blank">Click here</a> to take a look and give us a (well deserved) "like".</div><div id="mainHeader">
+    <div id="logoArea">
+        <a href="http://www.findamasters.com">
+            <img src="http://www.FindAMasters.com/images/masterslogo.gif" alt="www.FindAMasters.com - Masters Degrees, Masters Courses" width="417" height="91" border="0">
+        </a>
+    </div>
+    <div id="topfeatured" style="margin-left:-30px;">
+
+        <a href="http://www.findamasters.com/common/clickcount.aspx?theid=45870" title="View Masters courses at Keele University"><img src="http://www.findamasters.com/images/featured/top/banner_KeeleMBA.gif?24570" title="Masters Courses at Keele University" alt="Keele University Featured Masters Courses" width="468" height="60" border="0"></a>
+        <asp:literal runat="Server" id="litFrameWork_TopBanner">
+    </asp:literal></div>
 </div>
-
-
 <div id="divNavigation">
-
+</div>
 <div id="divInnerContainer">
+    <div id="vMenu">
+        <div class="menuHeading">
+            <a href="http://www.FindAMasters.com" style="font-size:14px; color: white; cursor: default; text-decoration: none;">
+                Masters<br>
+                Courses
+            </a>
+        </div>
+        <div class="vMenuHeadingHR">
+        </div>
+        <div class="menuSpacer">
+            29&nbsp;November, &nbsp;2011
+            <asp:literal runat="server" id="litDateTime">
+        </asp:literal></div>
 
-<div id="vMenu" style="padding-bottom:10px;">
-<div class="menuHeading">
-Masters<br>Courses
-</div><div class="vMenuHeadingHR"></div>
-
-<div class="menuSpacer">
-3&nbsp;April, &nbsp;2009
-</div>
-
-<div class="vMenuItem">
-<ul>
-
-
-    <li class="vMenu" onclick="location.href='http://www.findamasters.com'" onmouseover="this.className='vMenuOver';" onmouseout="this.className='vMenu';">
-        <a href="http://www.findamasters.com">Home</a>
+        <!--//<div class="vMenuItem" onmouseout="hideOtherMenus();" onmouseover="clearTimeout(timerStringAll);"> -->
+        <div class="vMenuItem" style="display:none;">
+            <ul class="mainMenu">
+    <!--// Home //-->
+    <li>
+        <a class="mainMenuLink" href="http://www.findamasters.com/" title="Find A Masters Home Page">Masters Home</a>
     </li>
+    <!--// End //-->
 
-    <li class="vMenu" onclick="location.href='http://www.findamasters.com/search/search.asp'" onmouseover="this.className='vMenuOver';" onmouseout="this.className='vMenu';">
-        <a href="http://www.findamasters.com/search/search.asp">Search Courses</a>
+    <!--// Search //-->
+    <li>
+        <a class="mainMenuLink" href="http://www.findamasters.com/search/" title="Search Masters Courses">Masters Courses</a>
+        <ul class="subMenu" style="width:150px;">
+            <li>
+                <a class="menuLink" id="masters_search" href="http://www.findamasters.com/search/" title="Masters Search">Masters Search</a>
+            </li>
+            <li>
+                <a class="subMenuLink" href="http://www.findamasters.com/search/browsesubjects.aspx" title="Browse Masters Degrees by Subject">Masters By Subject</a>
+                <ul class="subMenu" style="width:275px;">
+                        <li>
+                            <a class="menuLink" href="http://www.findamasters.com/search/browsesubjects.aspx" title="Browse Masters Degrees by Subject">Overview</a>
+                        </li>
+                        <li>
+                        <a class="subMenuLink" href="http://www.findamasters.com/search/courses.aspx?DID=1" title="Architecture, Property &amp; Planning">Architecture, Property &amp; Planning</a>
+                        <ul class="subMenu" style="width:250px;">
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=1&amp;SAID=9" title="Architecture &amp; Landscape Architecture">Architecture &amp; Landscape Architecture</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=1&amp;SAID=14" title="Building">Building</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=1&amp;SAID=46" title="Land Property Management &amp; Surveying">Land Property Management &amp; Surveying</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=1&amp;SAID=71" title="Town &amp; Country Planning &amp; Landscape">Town &amp; Country Planning &amp; Landscape</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="subMenuLink" href="http://www.findamasters.com/search/courses.aspx?DID=2" title="Art, Design, Performance &amp; Media">Art, Design, Performance &amp; Media</a>
+                        <ul class="subMenu" style="width:250px;">
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=2&amp;SAID=10" title="Art &amp; Design - Theory &amp; Practice">Art &amp; Design - Theory &amp; Practice</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=2&amp;SAID=21" title="Communication &amp; Media Studies">Communication &amp; Media Studies</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=2&amp;SAID=24" title="Dance, Drama &amp; Film Studies">Dance, Drama &amp; Film Studies</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=2&amp;SAID=57" title="Music">Music</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="subMenuLink" href="http://www.findamasters.com/search/courses.aspx?DID=3" title="Business &amp; Finance">Business &amp; Finance</a>
+                        <ul class="subMenu" style="width:310px;">
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=3&amp;SAID=15" title="Business &amp; Management">Business &amp; Management</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=3&amp;SAID=30" title="Economics, Accounting &amp; Finance">Economics, Accounting &amp; Finance</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=3&amp;SAID=43" title="Hospitality, Leisure, Recreation, Sport &amp; Tourism">Hospitality, Leisure, Recreation, Sport &amp; Tourism</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="subMenuLink" href="http://www.findamasters.com/search/courses.aspx?DID=4" title="Earth &amp; Environment Sciences">Earth &amp; Environment Sciences</a>
+                        <ul class="subMenu" style="width:250px;">
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=4&amp;SAID=28" title="Earth, Environmental &amp; Ocean Studies">Earth, Environmental &amp; Ocean Studies</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=4&amp;SAID=38" title="Geography">Geography</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=4&amp;SAID=39" title="Geology">Geology</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="subMenuLink" href="http://www.findamasters.com/search/courses.aspx?DID=5" title="Engineering">Engineering</a>
+                        <ul class="subMenu" style="width:350px;">
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=5&amp;SAID=14" title="Building">Building</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=5&amp;SAID=17" title="Chemical Engineering">Chemical Engineering</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=5&amp;SAID=19" title="Civil Engineering">Civil Engineering</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=5&amp;SAID=74" title="Defence">Defence</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=5&amp;SAID=32" title="Electrical &amp; Electronic Engineering">Electrical &amp; Electronic Engineering</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=5&amp;SAID=33" title="General Engineering">General Engineering</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=5&amp;SAID=51" title="Materials Technology">Materials Technology</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=5&amp;SAID=53" title="Mechanical, Aeronautical &amp; Manufacturing Engineering">Mechanical, Aeronautical &amp; Manufacturing Engineering</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="subMenuLink" href="http://www.findamasters.com/search/courses.aspx?DID=6" title="Humanities">Humanities</a>
+                        <ul class="subMenu" style="width:250px;">
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=6&amp;SAID=8" title="Archaeology">Archaeology</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=6&amp;SAID=20" title="Classics &amp; Ancient History">Classics &amp; Ancient History</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=6&amp;SAID=75" title="Development Studies">Development Studies</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=6&amp;SAID=83" title="European Culture &amp; History">European Culture &amp; History</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=6&amp;SAID=77" title="Gender Studies">Gender Studies</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=6&amp;SAID=38" title="Geography">Geography</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=6&amp;SAID=41" title="History">History</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=6&amp;SAID=61" title="Philosophy">Philosophy</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=6&amp;SAID=63" title="Politics &amp; International Relations">Politics &amp; International Relations</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=6&amp;SAID=69" title="Sociology &amp; Anthropology">Sociology &amp; Anthropology</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=6&amp;SAID=70" title="Theology &amp; Religious Studies">Theology &amp; Religious Studies</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="subMenuLink" href="http://www.findamasters.com/search/courses.aspx?DID=7" title="Language, Linguistics &amp; Cultural Studies">Language, Linguistics &amp; Cultural Studies</a>
+                        <ul class="subMenu" style="width:275px;">
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=7&amp;SAID=4" title="American Studies">American Studies</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=7&amp;SAID=16" title="Celtic Studies">Celtic Studies</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=7&amp;SAID=21" title="Communication &amp; Media Studies">Communication &amp; Media Studies</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=7&amp;SAID=84" title="Cultural Studies">Cultural Studies</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=7&amp;SAID=24" title="Dance, Drama &amp; Film Studies">Dance, Drama &amp; Film Studies</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=7&amp;SAID=29" title="East &amp; South Asian Culture &amp; History">East &amp; South Asian Culture &amp; History</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=7&amp;SAID=34" title="English Literature &amp; Creative Writing">English Literature &amp; Creative Writing</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=7&amp;SAID=83" title="European Culture &amp; History">European Culture &amp; History</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=7&amp;SAID=77" title="Gender Studies">Gender Studies</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=7&amp;SAID=50" title="Linguistics">Linguistics</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=7&amp;SAID=55" title="Middle Eastern &amp; African Culture &amp; History">Middle Eastern &amp; African Culture &amp; History</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=7&amp;SAID=56" title="Modern Languages">Modern Languages</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="subMenuLink" href="http://www.findamasters.com/search/courses.aspx?DID=8" title="Law &amp; Criminology">Law &amp; Criminology</a>
+                        <ul class="subMenu" style="width:250px;">
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=8&amp;SAID=86" title="Crime, Security &amp; Forensics">Crime, Security &amp; Forensics</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=8&amp;SAID=47" title="Law">Law</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="subMenuLink" href="http://www.findamasters.com/search/courses.aspx?DID=9" title="Life &amp; Chemical Sciences">Life &amp; Chemical Sciences</a>
+                        <ul class="subMenu" style="width:275px;">
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=9&amp;SAID=3" title="Agriculture, Forestry &amp; Agricultural Sciences">Agriculture, Forestry &amp; Agricultural Sciences</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=9&amp;SAID=12" title="Biosciences">Biosciences</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=9&amp;SAID=17" title="Chemical Engineering">Chemical Engineering</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=9&amp;SAID=18" title="Chemistry">Chemistry</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=9&amp;SAID=35" title="Food Sciences">Food Sciences</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=9&amp;SAID=60" title="Pharmacology &amp; Pharmacy">Pharmacology &amp; Pharmacy</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=9&amp;SAID=65" title="Psychology &amp; Psychiatry">Psychology &amp; Psychiatry</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=9&amp;SAID=82" title="Sport &amp; Exercise Science">Sport &amp; Exercise Science</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=9&amp;SAID=72" title="Veterinary Medicine">Veterinary Medicine</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="subMenuLink" href="http://www.findamasters.com/search/courses.aspx?DID=10" title="Medical &amp; Health Sciences">Medical &amp; Health Sciences</a>
+                        <ul class="subMenu" style="width:250px;">
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=10&amp;SAID=25" title="Dentistry">Dentistry</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=10&amp;SAID=79" title="Health Sciences">Health Sciences</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=10&amp;SAID=54" title="Medicine">Medicine</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=10&amp;SAID=58" title="Nursing &amp; Midwifery">Nursing &amp; Midwifery</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=10&amp;SAID=87" title="Optometry &amp; Ophthalmology">Optometry &amp; Ophthalmology</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=10&amp;SAID=60" title="Pharmacology &amp; Pharmacy">Pharmacology &amp; Pharmacy</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=10&amp;SAID=65" title="Psychology &amp; Psychiatry">Psychology &amp; Psychiatry</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=10&amp;SAID=82" title="Sport &amp; Exercise Science">Sport &amp; Exercise Science</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=10&amp;SAID=72" title="Veterinary Medicine">Veterinary Medicine</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="subMenuLink" href="http://www.findamasters.com/search/courses.aspx?DID=11" title="Physical Sciences, Maths &amp; Computing">Physical Sciences, Maths &amp; Computing</a>
+                        <ul class="subMenu" style="width:300px;">
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=11&amp;SAID=18" title="Chemistry">Chemistry</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=11&amp;SAID=23" title="Computing &amp; Computer Science">Computing &amp; Computer Science</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=11&amp;SAID=30" title="Economics, Accounting &amp; Finance">Economics, Accounting &amp; Finance</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=11&amp;SAID=73" title="Information Systems &amp; Technology">Information Systems &amp; Technology</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=11&amp;SAID=51" title="Materials Technology">Materials Technology</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=11&amp;SAID=52" title="Mathematics, Statistics &amp; Operational Research">Mathematics, Statistics &amp; Operational Research</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=11&amp;SAID=62" title="Physics &amp; Astronomy">Physics &amp; Astronomy</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="subMenuLink" href="http://www.findamasters.com/search/courses.aspx?DID=12" title="Professional &amp; Vocational">Professional &amp; Vocational</a>
+                        <ul class="subMenu" style="width:325px;">
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=12&amp;SAID=3" title="Agriculture, Forestry &amp; Agricultural Sciences">Agriculture, Forestry &amp; Agricultural Sciences</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=12&amp;SAID=9" title="Architecture &amp; Landscape Architecture">Architecture &amp; Landscape Architecture</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=12&amp;SAID=14" title="Building">Building</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=12&amp;SAID=15" title="Business &amp; Management">Business &amp; Management</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=12&amp;SAID=85" title="Continuing Professional Development (CPD)">Continuing Professional Development (CPD)</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=12&amp;SAID=86" title="Crime, Security &amp; Forensics">Crime, Security &amp; Forensics</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=12&amp;SAID=74" title="Defence">Defence</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=12&amp;SAID=25" title="Dentistry">Dentistry</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=12&amp;SAID=30" title="Economics, Accounting &amp; Finance">Economics, Accounting &amp; Finance</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=12&amp;SAID=31" title="Education">Education</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=12&amp;SAID=43" title="Hospitality, Leisure, Recreation, Sport &amp; Tourism">Hospitality, Leisure, Recreation, Sport &amp; Tourism</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=12&amp;SAID=46" title="Land Property Management &amp; Surveying">Land Property Management &amp; Surveying</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=12&amp;SAID=47" title="Law">Law</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=12&amp;SAID=49" title="Librarianship &amp; Information Management">Librarianship &amp; Information Management</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=12&amp;SAID=54" title="Medicine">Medicine</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=12&amp;SAID=58" title="Nursing &amp; Midwifery">Nursing &amp; Midwifery</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=12&amp;SAID=71" title="Town &amp; Country Planning &amp; Landscape">Town &amp; Country Planning &amp; Landscape</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=12&amp;SAID=72" title="Veterinary Medicine">Veterinary Medicine</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="subMenuLink" href="http://www.findamasters.com/search/courses.aspx?DID=13" title="Social Sciences">Social Sciences</a>
+                        <ul class="subMenu" style="width:300px;">
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=13&amp;SAID=7" title="Applied Social Work">Applied Social Work</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=13&amp;SAID=30" title="Economics, Accounting &amp; Finance">Economics, Accounting &amp; Finance</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=13&amp;SAID=31" title="Education">Education</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=13&amp;SAID=38" title="Geography">Geography</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=13&amp;SAID=49" title="Librarianship &amp; Information Management">Librarianship &amp; Information Management</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=13&amp;SAID=63" title="Politics &amp; International Relations">Politics &amp; International Relations</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=13&amp;SAID=65" title="Psychology &amp; Psychiatry">Psychology &amp; Psychiatry</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=13&amp;SAID=68" title="Social Policy &amp; Administration &amp; Social Work">Social Policy &amp; Administration &amp; Social Work</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?DID=13&amp;SAID=69" title="Sociology &amp; Anthropology">Sociology &amp; Anthropology</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a class="subMenuLink" href="http://www.findamasters.com/search/browseinst.aspx?4" title="Masters By Region">Masters By Region</a>
+                <ul class="subMenu" style="width:150px;">
+                    <li>
+                        <a class="subMenuLink" href="http://www.findamasters.com/search/browseinst.aspx?4" title="Europe">Europe</a>
+                        <ul class="subMenu" style="width:150px;">
+                            <li>
+                                <a class="subMenuLink" href="http://www.findamasters.com/search/courses.aspx?CID=GB" title="United Kingdom">United Kingdom</a>
+                                <ul class="subMenu" style="width:150px;">
+                                    <li>
+                                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=GB&amp;LID=1001" title="Belfast">Belfast</a>
+                                    </li>
+                                    <li>
+                                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=GB&amp;LID=1002" title="Birmingham">Birmingham</a>
+                                    </li>
+                                    <li>
+                                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=GB&amp;LID=1003" title="Brighton">Brighton</a>
+                                    </li>
+                                    <li>
+                                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=GB&amp;LID=1004" title="Bristol">Bristol</a>
+                                    </li>
+                                    <li>
+                                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=GB&amp;LID=1005" title="Cambridge">Cambridge</a>
+                                    </li>
+                                    <li>
+                                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=GB&amp;LID=1006" title="Cardiff">Cardiff</a>
+                                    </li>
+                                    <li>
+                                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=GB&amp;LID=1007" title="Edinburgh">Edinburgh</a>
+                                    </li>
+                                    <li>
+                                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=GB&amp;LID=1008" title="Glasgow">Glasgow</a>
+                                    </li>
+                                    <li>
+                                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=GB&amp;LID=1009" title="Leeds">Leeds</a>
+                                    </li>
+                                    <li>
+                                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=GB&amp;LID=1010" title="Leicester">Leicester</a>
+                                    </li>
+                                    <li>
+                                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=GB&amp;LID=1011" title="Liverpool">Liverpool</a>
+                                    </li>
+                                    <li>
+                                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=GB&amp;LID=1012" title="London">London</a>
+                                    </li>
+                                    <li>
+                                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=GB&amp;LID=1013" title="Manchester">Manchester</a>
+                                    </li>
+                                    <li>
+                                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=GB&amp;LID=1014" title="Newcastle">Newcastle</a>
+                                    </li>
+                                    <li>
+                                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=GB&amp;LID=1015" title="Nottingham">Nottingham</a>
+                                    </li>
+                                    <li>
+                                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=GB&amp;LID=1016" title="Oxford">Oxford</a>
+                                    </li>
+                                    <li>
+                                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=GB&amp;LID=1017" title="Sheffield">Sheffield</a>
+                                    </li>
+                                    <li>
+                                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=GB&amp;LID=1018" title="Southampton">Southampton</a>
+                                    </li>
+                                    <li>
+                                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=GB&amp;LID=1019" title="York">York</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=AT" title="Austria">Austria</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=BE" title="Belgium">Belgium</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=BG" title="Bulgaria">Bulgaria</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=CY" title="Cyprus">Cyprus</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=CZ" title="Czech Republic">Czech Republic</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=DK" title="Denmark">Denmark</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=FI" title="Finland">Finland</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=FR" title="France">France</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=DE" title="Germany">Germany</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=GR" title="Greece">Greece</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=HU" title="Hungary">Hungary</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=IS" title="Iceland">Iceland</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=IE" title="Ireland">Ireland</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=IT" title="Italy">Italy</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=LV" title="Latvia">Latvia</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=MT" title="Malta">Malta</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=NL" title="Netherlands">Netherlands</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=NO" title="Norway">Norway</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=PL" title="Poland">Poland</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=PT" title="Portugal">Portugal</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=SI" title="Slovenia">Slovenia</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=ES" title="Spain">Spain</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=SE" title="Sweden">Sweden</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=CH" title="Switzerland">Switzerland</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="subMenuLink" href="http://www.findamasters.com/search/browseinst.aspx?1" title="Africa">Africa</a>
+                        <ul class="subMenu" style="width:150px;">
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=EG" title="Egypt">Egypt</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=ZA" title="South Africa">South Africa</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="subMenuLink" href="http://www.findamasters.com/search/browseinst.aspx?2" title="Asia">Asia</a>
+                        <ul class="subMenu" style="width:150px;">
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=CN" title="China">China</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=IL" title="Israel">Israel</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=JP" title="Japan">Japan</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=LB" title="Lebanon">Lebanon</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=MY" title="Malaysia">Malaysia</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=PH" title="Philippines">Philippines</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=SG" title="Singapore">Singapore</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=TH" title="Thailand">Thailand</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=TR" title="Turkey">Turkey</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=VN" title="Vietnam">Vietnam</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="subMenuLink" href="http://www.findamasters.com/search/browseinst.aspx?3" title="Australia/Oceania">Australia/Oceania</a>
+                        <ul class="subMenu" style="width:150px;">
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=AU" title="Australia">Australia</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=NZ" title="New Zealand">New Zealand</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="subMenuLink" href="http://www.findamasters.com/search/browseinst.aspx?5" title="North America">North America</a>
+                        <ul class="subMenu" style="width:150px;">
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=CA" title="Canada">Canada</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?CID=US" title="USA">USA</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/browseinst.aspx?6" title="South America">South America</a>
+                    </li>
+                    </ul>
+            </li>
+            <li>
+                <a class="subMenuLink" href="http://www.findamasters.com/search/BrowseByInst.aspx" title="Institution List">Institution List</a>
+                <ul class="subMenu" style="width:325px; padding-top:0px;">
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/BrowseByInst.aspx" title="A to Z List of Institutions">A to Z List of Institutions</a>
+                    </li>
+                    <div style="margin:0 auto;padding:2px 0 2px 0; text-align:center;font-size:11px;font-weight:bold;text-decoration:underline;border-top:solid 2px white;">Top 30 Most Searched Institutions</div>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=274" title="University College London">University College London</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=132" title="King's College London">King's College London</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=332" title="University of Manchester">University of Manchester</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=112" title="Imperial College London">Imperial College London</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=282" title="University of Birmingham">University of Birmingham</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=150" title="London School of Economics and Political Science">London School of Economics and Political Science</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=300" title="University of Edinburgh">University of Edinburgh</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=338" title="University of Nottingham">University of Nottingham</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=321" title="University of Leeds">University of Leeds</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=149" title="London Metropolitan University">London Metropolitan University</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=194" title="Queen Mary, University of London">Queen Mary, University of London</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=177" title="Newcastle University">Newcastle University</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=133" title="Kingston University">Kingston University</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=369" title="University of Warwick">University of Warwick</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=2" title="Aberdeen University">Aberdeen University</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=153" title="Loughborough University">Loughborough University</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=33" title="Cardiff University">Cardiff University</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=348" title="University of Sheffield">University of Sheffield</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=339" title="University of Oxford">University of Oxford</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=393" title="City University of London">City University of London</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=219" title="Sheffield Hallam University">Sheffield Hallam University</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=287" title="University of Bristol">University of Bristol</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=290" title="University of Cambridge">University of Cambridge</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=326" title="University of Liverpool">University of Liverpool</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=160" title="Manchester Metropolitan University">Manchester Metropolitan University</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=280" title="University of Bath">University of Bath</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=376" title="University of York">University of York</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=50" title="Cranfield University">Cranfield University</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/search/courses.aspx?IID=67" title="Durham University">Durham University</a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a class="menuLink" href="http://www.findamasters.com/search/browseinst.aspx" title="Institution Map">Institution Map</a>
+            </li>
+            <li>
+                <a class="menuLink" href="http://www.findamasters.com/search/searchinter.aspx" title="IFPI Database">IFPI Database</a>
+            </li>
+        </ul>
     </li>
+    <!--// End //-->
 
-    <li class="vMenu" onclick="location.href='http://www.findamasters.com/students/'" onmouseover="this.className='vMenuOver';" onmouseout="this.className='vMenu';">
-        <a href="http://www.findamasters.com/students/">Students</a>
+    <!--// Open Days //-->
+    <li>
+        <a class="mainMenuLink" href="http://www.findamasters.com/students/opendays.aspx" title="Masters Postgraduate Open Days">Masters Open Days</a>
     </li>
+    <!--// End //-->
 
-    <li class="vMenu" onclick="location.href='http://www.findamasters.com/advertisers/index.asp'" onmouseover="this.className='vMenuOver';" onmouseout="this.className='vMenu';">
-        <a href="http://www.findamasters.com/advertisers/index.asp">Advertisers</a>
+    <!--// Study //-->
+    <li>
+        <a class="mainMenuLink" href="http://www.findamasters.com/students/" title="Masters Study">Masters Study</a>
+        <ul class="subMenu" style="width:200px;">
+            <li>
+                <a class="menuLink" href="http://www.findamasters.com/students/" title="Introduction">Introduction</a>
+            </li>
+            <li>
+                <a class="subMenuLink" href="http://www.findamasters.com/students/studyguide/masters-funding-guide.aspx" title="Study Guides">Study Guides</a>
+                <ul class="subMenu" style="width:175px;">
+                    <li>
+                        <a class="subMenuLink" href="http://www.findamasters.com/students/studyguide/masters-funding-guide.aspx" title="Postgraduate Funding">Postgraduate Funding</a>
+                        <ul class="subMenu" style="width:250px;">
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/students/studyguide/masters-funding-guide.aspx" title="Overview">Overview</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/students/studyguide/masters-study-without-scholarship.aspx" title="Masters Study Without a Scholarship">Masters Study Without a Scholarship</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="subMenuLink" href="http://www.findamasters.com/students/studyguide/masters-course-guide.aspx" title="Masters Courses">Masters Courses</a>
+                        <ul class="subMenu" style="width:250px;">
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/students/studyguide/masters-course-guide.aspx" title="Overview">Overview</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/students/studyguide/applying-for-a-masters.aspx" title="Applying for a Masters Course">Applying for a Masters Course</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/students/studyguide/types-of-masters-course.aspx" title="Types of Masters Course">Types of Masters Course</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/students/studyguide/masters-modes-of-study.aspx" title="Modes of Study">Modes of Study</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="subMenuLink" href="http://www.findamasters.com/students/subject-guide/" title="Subjects">Subjects</a>
+                        <ul class="subMenu" style="width:300px;">
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/students/subject-guide/" title="Overview">Overview</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/students/subject-guide/1/Architecture-Property-and-Planning.aspx" title="Architecture &amp; Landscape Architecture Guide">Architecture &amp; Landscape Architecture Guide</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/students/subject-guide/2/Art-Design-Performance-and-Media.aspx" title="Art, Design, Performance &amp; Media Guide">Art, Design, Performance &amp; Media Guide</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/students/subject-guide/3/Business-and-Finance.aspx" title="Business &amp; Finance Guide">Business &amp; Finance Guide</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/students/subject-guide/4/Earth-and-Environment-Sciences.aspx" title="Earth &amp; Environment Sciences Guide">Earth &amp; Environment Sciences Guide</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/students/subject-guide/5/Engineering.aspx" title="Engineering Guide">Engineering Guide</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/students/subject-guide/6/Humanities.aspx" title="Humanities Guide">Humanities Guide</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/students/subject-guide/7/Language-Linguistics-and-Cultural-Studies.aspx" title="Language, Linguistics &amp; Cultural Studies Guide">Language, Linguistics &amp; Cultural Studies Guide</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/students/subject-guide/8/Law-and-Criminology.aspx" title="Law &amp; Criminology Guide">Law &amp; Criminology Guide</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/students/subject-guide/9/Life-and-Chemical-Sciences.aspx" title="Life &amp; Chemical Sciences Guide">Life &amp; Chemical Sciences Guide</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/students/subject-guide/10/Medical-and-Health-Sciences.aspx" title="Medical &amp; Health Sciences Guide">Medical &amp; Health Sciences Guide</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/students/subject-guide/11/Physical-Sciences-Maths-and-Computing.aspx" title="Physical Sciences, Maths &amp; Computing Guide">Physical Sciences, Maths &amp; Computing Guide</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/students/subject-guide/12/Professional-and-Vocational.aspx" title="Professional &amp; Vocational Guide">Professional &amp; Vocational Guide</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/students/subject-guide/13/Social-Sciences.aspx" title="Social Sciences Guide">Social Sciences Guide</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="subMenuLink" href="http://www.findamasters.com/students/countryguide/study-abroad.aspx" title="Countries">Countries</a>
+                        <ul class="subMenu" style="width:250px;">
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/students/countryguide/study-abroad.aspx" title="Overview">Overview</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/students/countryguide/uk/masters-study-in-uk.aspx" title="Masters study in the United Kingdom">Masters study in the United Kingdom</a>
+                            </li>
+                            <li>
+                                <a class="menuLink" href="http://www.findamasters.com/students/countryguide/switzerland/masters-study-in-switzerland.aspx" title="Masters study in Switzerland">Masters study in Switzerland</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a class="menuLink" href="http://www.findamasters.com/students/studyguide/masters-english-language-qualifications.aspx" title="English Language Qualifications">English Language Qualifications</a>
+            </li>
+            <li>
+                <a class="menuLink" href="http://www.findamasters.com/students/forum.asp" title="Masters Forum">Masters Forum</a>
+            </li>
+            <li>
+                <a class="menuLink" href="http://www.findamasters.com/students/profiles-and-videos.aspx" title="Postgraduate Student Profiles &amp; Videos">Postgraduate Student Profiles &amp; Videos</a>
+            </li>
+            <li>
+                <a class="menuLink" href="http://www.findamasters.com/students/newsletter.aspx" title="Email Updates">Email Updates</a>
+            </li>
+            <li>
+                <a class="menuLink" href="http://www.findamasters.com/students/news.aspx" title="News">News</a>
+            </li>
+        </ul>
     </li>
+    <!--// End //-->
 
-    <li class="vMenu" onclick="location.href='http://www.findamasters.com/about.asp'" onmouseover="this.className='vMenuOver';" onmouseout="this.className='vMenu';">
-        <a href="http://www.findamasters.com/about.asp">About</a>
+    <!--// Advertisers //-->
+    <li>
+        <a class="mainMenuLink" href="http://www.findamasters.com/providers/advertise-masters.aspx" title="Advertise Masters">Advertise Masters</a>
+        <ul class="subMenu" style="width:150px;">
+            <li>
+                <a class="subMenuLink" id="advertise_masters" href="http://www.findamasters.com/providers/advertise-masters.aspx" title="Advertise Courses">Advertise Courses</a>
+                <ul class="subMenu" style="width:250px;">
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/providers/advertise-masters.aspx" title="Overview &amp; Login">Overview &amp; Login</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/providers/advertising-options.aspx" title="Advertising Options">Advertising Options</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/providers/featured-listings.aspx" title="Featured Listing Adverts">Featured Listing Adverts</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/providers/institution-wide-listings.aspx" title="Institution-Wide Listings">Institution-Wide Listings</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/providers/brand-bespoke-advertising.aspx" title="Brand &amp; Bespoke Advertising">Brand &amp; Bespoke Advertising</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/providers/advertising-agencies.aspx" title="Advertising Agencies">Advertising Agencies</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/providers/testimonials.aspx" title="Customer Testimonials">Customer Testimonials</a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a class="subMenuLink" href="http://www.findamasters.com/advertisers/featured.asp" title="Banner Adverts">Banner Adverts</a>
+                <ul class="subMenu" style="width:250px;">
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/advertisers/featured.asp" title="Home &amp; Search Page Buttons">Home &amp; Search Page Buttons</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/advertisers/featured2.asp" title="Run-of-Site Adverts">Run-of-Site Adverts</a>
+                    </li>
+                    <li>
+                        <a class="menuLink" href="http://www.findamasters.com/advertisers/featured3.asp" title="Discipline Sponsorship">Discipline Sponsorship</a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a class="menuLink" href="http://www.findamasters.com/advertisers/spotlightnewsletter.asp" title="Email Campaigns">Email Campaigns</a>
+            </li>
+            <li>
+                <a class="menuLink" href="http://www.findamasters.com/advertisers/featureopen.asp" title="Featured Open Days">Featured Open Days</a>
+            </li>
+            <li>
+                <a class="menuLink" href="http://www.findamasters.com/advertisers/passwordcheck.asp" title="Featured Open Days">Request Password</a>
+            </li>
+            <li>
+                <a class="menuLink" href="http://www.findamasters.com/providers/advertise-masters.aspx?a=1" title="Login">Login</a>
+            </li>
+            <li>
+                <a class="menuLink" href="http://www.findamasters.com/advertisers/loghelp.asp" title="Login Help">Login Help</a>
+            </li>
+        </ul>
     </li>
+    <!--// End //-->
 
-    <li class="vMenu" onclick="location.href='http://www.findamasters.com/contact.asp'" onmouseover="this.className='vMenuOver';" onmouseout="this.className='vMenu';">
-        <a href="http://www.findamasters.com/contact.asp">Contact Us</a>
+    <!--// About //-->
+    <li>
+        <a class="mainMenuLink" href="http://www.findamasters.com/about.asp" title="About">About</a>
+        <ul class="subMenu" style="width:100px;">
+            <li class="menuItem">
+                <a class="menuLink" href="http://www.findamasters.com/about.asp" title="About Us">About Us</a>
+            </li>
+            <li class="menuItem">
+                <a class="menuLink" href="http://www.findamasters.com/contact.asp" title="Contact Us">Contact Us</a>
+            </li>
+        </ul>
     </li>
-
+    <!--// End //-->
 </ul>
-</div><div class="menuSpacer"></div>
+        </div>
+        
+        <div class="menuSpacer">
+        </div>
+        <br>
+        <!--// Left Menu Spotlight Adverts START //-->
+        <div style="float:left;padding-left:2px;">
+            <div style="border:dotted 1px white;">
+                <div style="width:140px;">
+                    <img src="http://www.FindAMasters.com/images/featuredheaderleftmenuspot.gif" width="140" height="25">
+                </div>
+                <div style="width:140px;">
+                    <a href="http://www.findamasters.com/common/clickcount.aspx?theid=46042" title="View Masters courses at Cardiff University"><img src="http://www.findamasters.com/images/featured/spot/menu_Cardiff-biosci.gif" border="0" width="140" height="140" title="Masters Courses at Cardiff University" alt="Cardiff University Featured Masters Courses"></a><br>
+                    <asp:literal runat="server" id="litFrameWork_SpotlightAdvert">
+                </asp:literal></div>
+            </div>
+        </div>
+        <!--// Left Menu Spotlight Adverts END //-->
 
-<br>
+        <!--// Left Menu Featured Adverts START //-->
+        <div style="float:left;padding-top:24px; padding-left:3px; padding-bottom:24px;">
+            <div style="width:140px;">
+                <img src="http://www.FindAMasters.com/images/featuredheaderleftmenu.gif" width="140" height="25">
+            </div>
+            <div style="width:140px;padding-top:6px;"><a href="http://www.findamasters.com/common/clickcount.aspx?theid=46097" title="View Masters courses at University of Salford"><img style="border:0px=" ;"="" src="http://www.findamasters.com/images/featured/minispot/salford-PGjan.gif" width="140" height="60" title="Masters Courses at University of Salford" alt="University of Salford Featured Masters Courses"></a></div><div style="width:140px;padding-top:6px;"><a href="http://www.findamasters.com/common/clickcount.aspx?theid=45341" title="View Masters courses at Sheffield Hallam University"><img style="border:0px=" ;"="" src="http://www.findamasters.com/images/featured/minispot/shu-pg.gif" width="140" height="60" title="Masters Courses at Sheffield Hallam University" alt="Sheffield Hallam University Featured Masters Courses"></a></div><div style="width:140px;padding-top:6px;"><a href="http://www.findamasters.com/common/clickcount.aspx?theid=45873" title="View Masters courses at Open University"><img style="border:0px=" ;"="" src="http://www.findamasters.com/images/featured/minispot/open-busi.gif" width="140" height="60" title="Masters Courses at Open University" alt="Open University Featured Masters Courses"></a></div>
+                <asp:literal runat="server" id="litFrameWork_FeaturedAdverts">
+        </asp:literal></div>
+        <!--// Left Menu Featured Adverts END //-->
 
 
-<!--// Left Menu Spotlight Adverts START //-->
-<div style="float:left;padding-left:2px;"><div style="border:dotted 1px white;">
-<div style="width:140px;"><img src="http://www.findamasters.com/images/featuredheaderleftmenuspot.gif" width="140" height="25"></div>
-<div style="width:140px;">
-<a href="http://www.findamasters.com/clickcount.asp?theid=43551"><img src="http://www.findamasters.com/images/adverts/front/menu_aston2.gif" border="0"></a><br>
-</div></div></div>
-<!--// Left Menu Spotlight Adverts END //-->
 
 
-<!--// Left Menu Featured Adverts START //-->
-<div style="float:left;padding-top:24px; padding-left:3px;">
-<div style="width:140px;"><img src="http://www.findamasters.com/images/featuredheaderleftmenu.gif" width="140" height="25"></div>
-<div style="width:140px;padding-top:6px;"><a href="http://www.findamasters.com/clickcount.asp?theid=44244"><img style="border:0px;" src="http://www.findamasters.com/images/adverts/subjectareas/glasgow-econ.gif" width="140" height="60"></a></div><div style="width:140px;padding-top:6px;"><a href="http://www.findamasters.com/clickcount.asp?theid=44248"><img style="border:0px;" src="http://www.findamasters.com/images/adverts/subjectareas/ntu-law2.gif" width="140" height="60"></a></div>
-</div>
-<!--// Left Menu Featured Adverts END //-->
-
-</div>
-
-
-<div class="topMenu">
+    </div>
+    <div class="topMenu">
     <ul>
-        <li class="mastersTabDown" onclick="location.href='http://www.findamasters.com';"><a href="http://www.findamasters.com">Masters<br>Courses</a></li>
-        <li class="phdTab" onclick="location.href='http://www.findaphd.com/firstmain.asp';" onmouseover="this.className='phdTabDown';" onmouseout="this.className='phdTab';"><a href="http://www.findaphd.com/firstmain.asp">PhD<br>Opportunities</a></li>
-        <li class="postDocTab" onclick="location.href='http://www.findapostdoc.com/firstmain.asp';" onmouseover="this.className='postDocTabDown';" onmouseout="this.className='postDocTab';"><a href="http://www.findapostdoc.com/firstmain.asp">PostDoc<br>Jobs</a></li>
-        <li class="proDocTab" onclick="location.href='http://www.professionaldoctorates.com';" onmouseover="this.className='proDocTabDown';" onmouseout="this.className='proDocTab';"><a href="http://www.professionaldoctorates.com">Professional<br>Doctorates</a></li>
-        <li class="uniJobTab" onclick="location.href='http://www.findauniversityjob.com';" onmouseover="this.className='uniJobTabDown';" onmouseout="this.className='uniJobTab';"><a href="http://www.findauniversityjob.com">University<br>Jobs</a></li>
-        <li class="forumTab" onclick="window.open('http://www.postgraduateforum.com','_blank');" onmouseover="this.className='forumTabDown';" onmouseout="this.className='forumTab';"><a href="javascript:void(0);">Postgrad<br>Forum</a></li>
+        <li class="mastersTab" onclick="location.href='http://www.findamasters.com';" onmouseover="this.className='mastersTabDown';" onmouseout="this.className='mastersTab';">
+            <a href="http://www.findamasters.com" title="Masters degrees and postgraduate courses" onmouseover="this.title='';">Masters Courses</a>
+        </li>
+        <li class="mbaTab" onclick="location.href='http://www.findanmba.com';" onmouseover="this.className='mbaTabDown';" onmouseout="this.className='mbaTab';">
+            <a href="http://www.findanmba.com" title="MBA programmes and business Masters degrees" onmouseover="this.title='';">MBA Courses</a>
+        </li>
+        <li class="phdTab" onclick="location.href='http://www.findaphd.com';" onmouseover="this.className='phdTabDown';" onmouseout="this.className='phdTab';">
+            <a href="http://www.findaphd.com" title="PhD studentships and programmes" onmouseover="this.title='';">PhD Opportunities</a>
+        </li>
+        <li class="proDocTab" onclick="location.href='http://www.professionaldoctorates.com';" onmouseover="this.className='proDocTabDown';" onmouseout="this.className='proDocTab';">
+            <a href="http://www.professionaldoctorates.com" title="Professional Doctorate programmes" onmouseover="this.title='';">Professional Doctorates</a>
+        </li>
+        <li class="proDevTab" onclick="location.href='http://www.findcpd.com';" style="width: 140px;" onmouseover="this.className='proDevTabDown';" onmouseout="this.className='proDevTab';">
+            <a href="http://www.findcpd.com" title="Continuing Professional Development (CPD) courses" onmouseover="this.title='';">Professional Development (CPD)</a>
+        </li>
+        <li class="postDocTab" onclick="location.href='http://www.findapostdoc.com';" onmouseover="this.className='postDocTabDown';" onmouseout="this.className='postDocTab';">
+            <a href="http://www.findapostdoc.com" title="Postdoctoral and PhD jobs" onmouseover="this.title='';">PostDoc &amp; PhD Jobs</a>
+        </li>
+        <li class="uniJobTab" onclick="location.href='http://www.findauniversityjob.com';" onmouseover="this.className='uniJobTabDown';" onmouseout="this.className='uniJobTab';">
+            <a href="http://www.findauniversityjob.com" title="University academic and administrative jobs" onmouseover="this.title='';">University Jobs</a>
+        </li>
+        <li class="forumTab" onclick="window.open('http://www.postgraduateforum.com','_blank');return false;" onmouseover="this.className='forumTabDown';" onmouseout="this.className='forumTab';">
+            <a href="http://www.postgraduateforum.com" target="_blank" title="Postgraduate discussion forum" onmouseover="this.title='';">Postgrad Forum</a>
+        </li>
     </ul>
 </div>
+<script language="javascript" type="text/javascript">
+<!-- //
 
+var tabName = "";
+var domainName = document.domain.toLowerCase();
+
+switch(domainName)
+{
+case "www.findamasters.com":
+  tabName = "mastersTab";
+  break;
+case "www.findanmba.com":
+  tabName = "mbaTab"; 
+  break;
+case "www.findaphd.com":
+  tabName = "phdTab"; 
+  break;
+case "www.professionaldoctorates.com":
+  tabName = "proDocTab";
+  break;
+case "www.findcpd.com":
+  tabName = "proDevTab"; 
+  break;
+case "www.findapostdoc.com":
+  tabName = "postDocTab"; 
+  break;
+case "www.findauniversityjob.com":
+  tabName = "uniJobTab"; 
+  break;
+case "www.postgraduateforum.com":
+  tabName = "forumTab"; 
+  break;
+}
+
+if ( tabName.length > 0 ) {
+  jQuery("." + tabName).toggleClass(tabName + "Down");
+  jQuery("." + tabName).removeAttr("onmouseout");  
+}
+
+// -->
+</script>
 
 <div id="divMainContent">
     <div id="breadCrumb"></div>
@@ -208,28 +1340,214 @@ Where a user of the Postgraduate Forum or a newsletter subscriber has agreed to 
   </div>
 </div>
 
-<div id="footer"><div id="footerLinks"><a href="http://www.findamasters.com">Masters Courses</a>
-            <a href="http://www.findaphd.com/firstmain.asp">PhD Opportunities</a>
-            <a href="http://www.findapostdoc.com/firstmain.asp">PostDoc Jobs</a>
-            <a href="http://www.professionaldoctorates.com">Professional Doctorates</a>
-            <a href="http://www.findauniversityjob.com/index.asp">University Jobs</a>
-            <a href="http://www.postgraduateforum.com/">Postgrad Forum</a>
+<div id="footer">
+    <br>
+    <div style="margin:0 auto; width:100%; background-color:#ccc; height:112px; -moz-border-radius: 15px; border-radius: 15px;">
+
+        <div style="padding:12px 15px 12px 15px;margin:0 auto;float:left; ">
+            <div style="float:left;width:280px; padding:5px; background-color:#fff; height:76px; -moz-border-radius: 8px; border-radius: 8px;
+            border: solid 2px #bbb;">
+                <div style="float:left;">
+                    <a href="http://www.findamasters.com/students/viewopenday.aspx?eid=3832" title="Postgraduate Study &amp; MBA Fair" style="border:none;">
+                        <img title="Postgraduate Study &amp; MBA Fair" alt="Postgraduate Study &amp; MBA Fair" src="http://www.findamasters.com/images/careersGrp.png" style="border:none; margin:5px 0px 0px 5px; width:132px;height:43px;">
+                    </a>
+                </div>
+                <div style="float:left;width:120px;padding:0px 0px 0px 10px; height:55px;">
+                    <a href="http://www.findamasters.com/students/viewopenday.aspx?eid=3832" title="Postgraduate Study &amp; MBA Fair" style="display:block; line-height:11px; font: normal 14px 'Trebuchet MS', Verdana, Arial, Helvetica, sans-serif; color: purple;">
+                        The <span style="color:green;font-weight:bold;">FindAMasters</span> Postgraduate Study &amp; MBA Fair
+                    </a>
+                </div>
+                <div style="clear:both;display:block; padding-top:5px; font: normal 14px 'Trebuchet MS', Verdana, Arial, Helvetica, sans-serif; color: #333;line-height:14px;">LONDON, 25 JANUARY 2012</div>
+            </div>
+        </div>
+
+        <div style="padding:12px 15px 12px 15px;float:left; ">
+            <div style="float:left;width:280px; padding:5px; background-color:#fff; height:76px; -moz-border-radius: 8px; border-radius: 8px;
+            border: solid 2px #bbb;">
+                <div style="float:left;">
+                    <a href="http://www.findamasters.com/students/viewopenday.aspx?eid=3800" title="Postgraduate Study Fair" style="border:none;"><img title="Postgraduate Study Fair" alt="Postgraduate Study Fair" src="http://www.findamasters.com/images/postgradFair.png" style="border:none; margin:5px 0px 0px 5px; width:90px;height:44px;"></a>
+                </div>
+                <div style="float:left;width:135px;padding:0px 25px 0px 25px; height:55px;">
+                    <a href="http://www.findamasters.com/students/viewopenday.aspx?eid=3800" title="Postgraduate Study Fair" style="display:block; line-height:11px; font: normal 14px 'Trebuchet MS', Verdana, Arial, Helvetica, sans-serif; color: purple;">The <span style="color:green;font-weight:bold;">FindAMasters</span> Postgraduate Study Fair</a>
+                </div>
+                <div style="clear:both;display:block; padding-top:5px; font: normal 14px 'Trebuchet MS', Verdana, Arial, Helvetica, sans-serif; color: #333; line-height:14px;">MANCHESTER, 21 NOVEMBER 2012</div>
+                </div>
+        </div>
+
+        <script src="http://platform.twitter.com/widgets.js" type="text/javascript" defer="defer"></script>
+
+        <div style="padding:12px 15px 12px 15px;float:right; ">
+            <div style="float:left;width:282px; padding:5px 5px 5px 5px; background-color:#fff; height:76px; -moz-border-radius: 8px; -webkit-border-radius: 8px; border-radius: 8px; -webkit-border-radius: 8px;
+            border: solid 2px #bbb; overflow:hidden;">
+                <div style="float:left;">
+                    <img src="http://www.findamasters.com/images/icons/twitter.png" title="Masters Twitter" style="margin:2px 0px 0px 5px; width:34px;height:34px;">
+                </div>
+
+                <div style="float:left;display:block; display:none; padding:1px 0 0 5px;">
+                    <a href="http://www.twitter.com/FindAMasters" title="Masters Twitter" target="_blank" style="line-height:14px !important; font: normal 11px 'Trebuchet MS', Verdana, Arial, Helvetica, sans-serif; font-weight:bold; color: #14a8c0;">Visit @FindAMasters on Twitter</a>
+                </div>
+                <div style="float:left;display:block; padding:10px 0 0 5px;">
+                    <a href="http://twitter.com/FindAMasters" title="Follow @FindAMasters" target="_blank" class="twitter-follow-button" data-show-count="true" data-width="238px"></a>
+                </div>
+                <div style="clear:both;height:1px;overflow:hidden;"></div>
+
+                <div style="float:left;">
+                    <img src="http://www.findamasters.com/images/icons/facebook.png" title="Masters Facebook" style="margin:5px 0px 0px 5px; width:34px;height:34px;">
+                </div>
+                <div style="float:left;display:block; padding:14px 0 0 5px;">
+                    <a href="http://www.facebook.com/FindAMasters" title="Masters Facebook" target="_blank" style="line-height:14px !important; font: normal 11px 'Trebuchet MS', Verdana, Arial, Helvetica, sans-serif; font-weight:bold; color: #203a70;">Visit us on Facebook</a>
+                </div>
+                <div style="float:left;display:block; padding:11px 0 0 5px;">
+                    <script type="text/javascript">
+                        var strIframe = "<iframe src='http://www.facebook.com/plugins/like.php?href=http://www.facebook.com/findamasters&amp;layout=button_count&amp;show_faces=false&amp;width=95&amp;action=like&amp;colorscheme=light&amp;height=21' scrolling='no' frameborder='0' allowTransparency='true' width='85px'></iframe>";
+                    </script>
+                    <!--[if IE 8]>
+                    <script type="text/javascript">
+                        if (window.external.InPrivateFilteringEnabled() == true) {
+                        strIframe="";
+                        }
+                    </script>
+                    <![endif]-->
+                    <script type="text/javascript">
+                        document.write(strIframe);
+                    </script><iframe src="http://www.facebook.com/plugins/like.php?href=http://www.facebook.com/findamasters&amp;layout=button_count&amp;show_faces=false&amp;width=95&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" allowtransparency="true" width="85px"></iframe>
+                </div>
+
+                <div style="clear:both;height:1px;overflow:hidden;"></div>
+
+            </div>
+        </div>
+                
+        </div>
 </div>
-<br>
-<div id="footerText">
-		    Copyright ©2009 The Science Registry Ltd. All rights reserved.<br>
-            The Science Registry Ltd, Redlands, 3/5 Tapton House Road, Sheffield S10 
-            5BY <br>
-            Tel: +44 (0) 114 2684940 Fax: +44 (0) 114 2685766<br><br>
-            <a href="http://www.findamasters.com">Find A Masters</a>
-            &nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="http://www.findamasters.com/privacy.asp">Privacy Statement</a>
-</div>        
-</div>
+
 </div>
 
+<div id="footerNaviContainer">
+    <br>
+
+    <div class="footerNaviColumn" style="text-align:center;">
+        <h2 style="width:65px;line-height:16px;">
+            <a href="http://www.findamasters.com" title="Masters Degrees" style="color:#369;">Find A Masters</a>
+        </h2>
+        Copyright ©2011<br>
+        All rights reserved<br><br>
+        <div class="footerNaviLink">
+            <ul>
+                <li>
+                    <a href="http://www.findamasters.com/sitemap" title="Masters Sitemap">Sitemap</a>
+                </li>
+                <li>
+                    <a href="http://www.findamasters.com/privacy.asp" title="Masters Privacy Statement">Privacy Statement</a>
+                </li>
+            </ul>
+        </div>
+    </div>    
+    
+    <div class="footerNaviColumn">
+        <h2>Masters Degrees</h2>
+        <div class="footerNaviLink">
+        <ul>
+            <li>
+                <a href="http://www.findamasters.com/search/" title="Masters Degrees">Search for Masters Degrees</a>
+            </li>
+            <li>
+                <a href="http://www.findamasters.com/search/clearing.aspx" title="Clearing 2011">Masters Clearing 2011</a>
+            </li>
+            <li>
+                <a href="http://www.findamasters.com/search/browsesubjects.aspx" title="Masters Degrees by Discipline">Masters Degrees by Subject</a>
+            </li>
+            <li>
+                <a href="http://www.findamasters.com/search/BrowseByInst.aspx" title="Masters Degrees by University">Masters Degrees by Institution</a>
+            </li>
+            <li>
+                <a href="http://www.findamasters.com/search/browseinst.aspx" title="Masters Degree by Area">Masters Degree by Region</a>
+            </li>
+            <li>
+                <a href="http://www.findamasters.com/search/searchinter.aspx" title="IFPI Partner Database">IFPI Partner Database</a>
+            </li>
+        </ul>
+        </div>
+    </div>
+
+    <div class="footerNaviColumn">
+        <h2>Info for Students</h2>
+        <div class="footerNaviLink">
+            <ul>
+                <li>
+                    <a href="http://www.findamasters.com/students/opendays.aspx" title="University Open Days">Postgraduate Open Days</a>
+                </li>
+                <li>
+                    <a href="http://www.findamasters.com/students/studyguide/masters-course-guide.aspx" title="Masters Course Help">Masters Course Guide</a>
+                </li>
+                <li>
+                    <a href="http://www.findamasters.com/students/subject-guide/" title="Masters Subject Guide Help">Masters Subject Guide</a>
+                </li>                
+                <li>
+                    <a href="http://www.findamasters.com/students/countryguide/study-abroad.aspx" title="Study Masters Degrees Overseas">Study Masters Degrees Abroad</a>
+                </li>
+                <li>
+                    <a href="http://www.findamasters.com/students/studyguide/masters-english-language-qualifications.aspx" title="English Language Qualifications Specialists">English Language Qualifications</a>
+                </li>
+                <li>
+                    <a href="http://www.findamasters.com/students/studyguide/masters-funding-guide.aspx" title="Masters Funding Help">Masters Funding Guide</a>
+                </li>
+                <li>
+                    <a href="http://www.findamasters.com/students/forum.asp" title="Postgraduate Advice Forum">Postgraduate Advice Forum</a>
+                </li>
+                <li>
+                    <a href="http://www.findamasters.com/students/newsletter.aspx" title="Postgraduate Emails">Postgraduate Email Updates</a>
+                </li>
+                <li>
+                    <a href="http://www.findamasters.com/students/news.aspx" title="Masters News">Masters News</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="footerNaviColumn">
+        <h2>Info for Advertisers</h2>
+        <div class="footerNaviLink">
+            <ul>
+                <li>
+                    <a href="http://www.findamasters.com/providers/advertise-masters.aspx" title="Masters Course Advertising">Advertise your Masters Courses</a>
+                </li>
+                <li>
+                    <a href="http://www.findamasters.com/providers/advertise-masters.aspx" title="University Login">Provider Login</a>
+                </li>
+                <li>
+                    <a href="http://www.findamasters.com/advertisers/featured.asp" title="Masters Advertising">Banner &amp; Buttons</a>
+                </li>
+                <li>
+                    <a href="http://www.findamasters.com/advertisers/spotlightnewsletter.asp" title="Masters Newsletters">Solus Emails</a>
+                </li>
+                <li>
+                    <a href="http://www.findamasters.com/advertisers/featureopen.asp" title="University Open Days">Featured Open Days</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div style="clear:both;padding-top:10px;"></div>
+    <div style="background: #69c url('/common/images/framework/footerBg.png') repeat-x; color:#fff; padding:5px; -moz-border-radius: 5px 5px 0px 0px; border-radius: 5px 5px 0px 0px; -webkit-border-radius: 5px 5px 0px 0px; font-size:10px;">
+    <div id="footerLinks">
+    <a href="http://www.findamasters.com" title="Masters degrees and postgraduate courses" target="_blank">Masters Courses</a>
+    <a href="http://www.findanmba.com" title="MBA programmes and business Masters degrees" target="_blank">MBA Courses</a>
+    <a href="http://www.findaphd.com" title="PhD studentships and programmes" target="_blank">PhD Studentships</a>
+    <a href="http://www.professionaldoctorates.com" title="Professional Doctorate programmes" target="_blank">Professional Doctorates</a>
+    <a href="http://www.findcpd.com" title="Continuing Professional Development (CPD) courses" target="_blank">CPD Courses</a>
+    <a href="http://www.findapostdoc.com" title="Postdoctoral and PhD jobs" target="_blank">PostDoc &amp; PhD Jobs</a>
+    <a href="http://www.findauniversityjob.com" title="University academic and administrative jobs" target="_blank">University Jobs</a>
+    <a href="http://www.postgraduateforum.com" title="Postgraduate discussion forum" target="_blank" style="padding-right:3px;border-right: dotted 1px #999999;">Postgrad Forum</a>
+</div>
+        <div id="footerAddress">
+            <a href="http://www.thescienceregistry.com" target="_blank" title="Postgraduate Advertising">The Science Registry Ltd</a>, Redlands, 3/5 Tapton House Road, Sheffield S10 5BY, United Kingdom. Tel +44 (0) 114 2684940 Fax: +44 (0) 114 2685766
+        </div>
+    </div>
+</div>
 
 
 
 
-</div></body></html>
+
+</body></html>
