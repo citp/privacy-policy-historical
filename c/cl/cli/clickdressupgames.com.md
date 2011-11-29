@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickdressupgames.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625034422id_/http%3A//www.clickdressupgames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickdressupgames.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129184607id_/http%3A//www.clickdressupgames.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Clickdressupgames.com
 
