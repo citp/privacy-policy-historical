@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the water4.org privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507130824id_/http%3A//water4.org%3Fpage_id%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the water4.org privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129065843id_/http%3A//water4.org%3Fpage_id%3D30) for the most accurate reproduction.*
 
 # Mission of the Water4 Foundation
 
