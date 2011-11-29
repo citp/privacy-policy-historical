@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getthebigpicture.net privacy policy that was archived on 2011-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110416221037id_/http%3A//www.getthebigpicture.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getthebigpicture.net privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129111957id_/http%3A//www.getthebigpicture.net/privacy) for the most accurate reproduction.*
 
-# Privacy - Movie Reviews | Film News | Celebrity Interviews
+# Privacy - Movie News | Trailers | Posters
 
 PRIVACY POLICY FOR THE BIG PICTURE  GetTheBigPicture
 
