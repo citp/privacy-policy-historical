@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-proxy.me privacy policy that was archived on 2011-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110227012622id_/http%3A//free-proxy.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-proxy.me privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129143258id_/http%3A//free-proxy.me/privacy.php) for the most accurate reproduction.*
 
 # Free Proxy | Anonymous Web Proxy | Anonymous Proxy | Unblock Facebook & MySpace
 
