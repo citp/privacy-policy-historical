@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deucescracked.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329130907id_/http%3A//www.deucescracked.com/account/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deucescracked.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129153544id_/http%3A//www.deucescracked.com/account/privacy) for the most accurate reproduction.*
 
 # DeucesCracked : Free Poker Videos : Poker Coaching : Win at Poker
 
@@ -43,3 +43,6 @@ Seattle, WA
 
 
 This Privacy Policy was last revised on 09/01/2009.
+
+  
+
