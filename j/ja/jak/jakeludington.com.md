@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jakeludington.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101054255id_/http%3A//www.jakeludington.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jakeludington.com privacy policy that was archived on 2011-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111129042646id_/http%3A//www.jakeludington.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Jake Ludington's Digital Lifestyle
-
-**Privacy Policy:**
 
 **E-Mail Privacy**  
 As someone who gets almost 500 e-mail messages daily, I  
@@ -22,7 +20,7 @@ You get free access to pages here at JakeLudington.com and TopDrawerDownloads.co
 
 We use third-party advertising companies to serve ads when you visit JakeLudington.com, TopDrawerDownloads.com, and other Ludington Media West, LLC owned domains. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you - goods and services that can solve your problems.
 
-Some of these third-party advertising providers may be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served on Ludington Media West, LLC sites.
+Some of these third-party advertising providers may be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served on Ludington Media West, LLC sites. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp "NAI opt-out") (link to the NAI universal user opt-out).
 
 Google is one of these third-party vendors. Google uses cookies to serve ads on JakeLudington.com, TopDrawerDownloads.com, CamcorderAnswers.com, and other Ludington Media West, LLC Websites. Google uses a special DART cookie that enables it to serve ads to you based upon your visit to this site and others that you visit. Since you're on the Internet to solve problems in your everyday life, this cookie helps by showing you things that are of interest to you.
 
@@ -30,8 +28,7 @@ If you don't want to have this DART cookie on your computer, you can opt out . W
 
 You can adjust your cookie settings in your browser on the Tools > Options > Privacy tab in Firefox or Tools > Internet Options > Privacy > Advanced in Internet Explorer. For other browsers, be sure to consult the browser's help file for information on accepting or rejecting cookies.
 
-**Terms of Service:** The newsletter published under the masthead "Jake Ludington's Digital Lifestyle" is offered free of charge. By confirming you want a free subscription, you agree that you are responsible for maintaining your own subscription, including changing your own e-mail address or canceling your subscription as needed. Unsubscribe instructions are included in every mailing, along with instructions for address changes.
-
+  
 Sincerely,
 
 Jake Ludington
