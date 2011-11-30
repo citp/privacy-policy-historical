@@ -1,6 +1,55 @@
-> *The following text is extracted and transformed from the dallascounty.org privacy policy that was archived on 2011-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110323094627id_/http%3A//www.dallascounty.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallascounty.org privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130010135id_/http%3A//www.dallascounty.org/privacypolicy.php) for the most accurate reproduction.*
 
-# Dallas County
+# Dallas County, Texas
+
+| Dallas County Help Center  
+---  
+[Online Services](https://web.archive.org/online_services.php)  
+  
+[Employment](https://web.archive.org/department/HR/home.html "Apply for a Job")  
+  
+[Emergency Preparedness](https://web.archive.org/department/osem/planning.php)  
+  
+[Report a Concern ](https://web.archive.org/help.php)  
+  
+[Employee Self Service](https://dcess.dallascounty.org/+CSCOE+/logon.html)  
+  
+[Newsletters](https://web.archive.org/dcnews.php)  
+  
+[Contact Us](https://web.archive.org/contact_DC.php)  
+  
+  
+[Top Searches](https://web.archive.org/top_searches.php)  
+---  
+[Jail Lookup (14765)](http://dcsearch.dallascounty.org/search?q=jail%20lookup&btnG=Search&site=All&client=dallas_frontend&proxystylesheet=dallas_frontend&output=xml_no_dtd)  
+  
+[Warrant (9109)](http://dcsearch.dallascounty.org/search?q=warrant&btnG=Search&site=All&client=dallas_frontend&proxystylesheet=dallas_frontend&output=xml_no_dtd)  
+  
+[Divorce Records (4478)](http://dcsearch.dallascounty.org/search?q=divorce%20records&btnG=Search&site=All&client=dallas_frontend&proxystylesheet=dallas_frontend&output=xml_no_dtd)  
+  
+[Criminal Background (3884)](http://dcsearch.dallascounty.org/search?q=criminal%20background&btnG=Search&site=All&client=dallas_frontend&proxystylesheet=dallas_frontend&output=xml_no_dtd)  
+  
+[Traffic Tickets (2979)](http://dcsearch.dallascounty.org/search?q=traffic%20tickets&btnG=Search&site=All&client=dallas_frontend&proxystylesheet=dallas_frontend&output=xml_no_dtd)  
+  
+[Marriage Records (2502)](http://dcsearch.dallascounty.org/search?q=marriage%20records&btnG=Search&site=All&client=dallas_frontend&proxystylesheet=dallas_frontend&output=xml_no_dtd)  
+  
+[Forms (1199)](http://dcsearch.dallascounty.org/search?q=forms&btnG=Search&site=All&client=dallas_frontend&proxystylesheet=dallas_frontend&output=xml_no_dtd)  
+  
+[Marriage License (1104)](http://dcsearch.dallascounty.org/search?q=marriage%20license&btnG=Search&site=All&client=dallas_frontend&proxystylesheet=dallas_frontend&output=xml_no_dtd)  
+  
+[Birth Certificate (836)](http://dcsearch.dallascounty.org/search?q=birth%20certificate&btnG=Search&site=All&client=dallas_frontend&proxystylesheet=dallas_frontend&output=xml_no_dtd)  
+  
+[Employment (804)](http://dcsearch.dallascounty.org/search?q=employment&btnG=Search&site=All&client=dallas_frontend&proxystylesheet=dallas_frontend&output=xml_no_dtd)  
+  
+  
+Stay Connected  
+---  
+[](https://twitter.com/dallascountytx)  
+[](http://www.dallascounty.org/rss/video_rss.xml)  
+  
+
+
+* * *
 
 Thank you for visiting the Dallas County Online Portal. This website is designed to make it easier and more efficient for Dallas County citizens and businesses to interact with their local government. Like all online resources, we recognize that visitors to this website are concerned about their privacy. Dallas County is committed to preserving your privacy when visiting this website. 
 
@@ -11,15 +60,10 @@ This policy describes the County's privacy practices regarding information colle
 When visiting this website the County automatically collects and stores the following information about your visit: 
 
   1. The Internet Protocol address and domain name of your Internet service provider. The Internet Protocol address is a numerical identifier assigned either to your Internet service provider or directly to your computer, which can be used to direct internet traffic to you; 
-
   2. The type of browser and operating system you used; 
-
   3. The date and time you visited this site; 
-
   4. The web pages or services you accessed at this site; and 
-
   5. The URL or web site address of the web site you visited prior to coming to this website and from which any web page on this site was linked. 
-
 
 
 
@@ -68,3 +112,40 @@ The information on Dallas County's web site is originally published in English. 
 **Contact Information**
 
 For questions regarding the Privacy Policy please contact: [webmaster@dallascounty.org](mailto:webmaster@dallascounty.org)
+
+| 
+
+| [Most Visited](https://web.archive.org/most_visited.php)  
+---  
+[Criminal Background Search](https://web.archive.org/criminalBackgroundSearch/)  
+  
+[Online Record Search](https://web.archive.org/applications/english/record-search/rec-search_intro.php)  
+  
+[Jail Lookup](https://web.archive.org/jaillookup/)  
+  
+[Public Access to Court Records](https://web.archive.org/public_access.php)  
+  
+[Dallas County Wanted](https://web.archive.org/dcwantedsearch/)  
+  
+[Property Tax Lookup/Payment Application](https://web.archive.org/applications/english/proptax_app/tax_intro.php)  
+  
+[Jury Services](https://web.archive.org/department/juryservices/jury_index.php)  
+  
+[Online Services](https://web.archive.org/online_services.php)  
+  
+[Marriage and Official Public Records Search](https://web.archive.org/department/countyclerk/realestate_index.php)  
+  
+[Human Resources](https://web.archive.org/department/HR/home.html)  
+  
+[Make Payments to Dallas County](https://web.archive.org/make_payments.php)  
+  
+[Dallas County Clerk](https://web.archive.org/department/countyclerk/countyclerk.php)  
+  
+[Marriage License](https://web.archive.org/department/countyclerk/marriage-license.php)  
+  
+[Contact Dallas County](https://web.archive.org/contact_DC.php)  
+  
+[Sheriff’s Department](https://web.archive.org/department/sheriff/sheriff_intro.php)  
+  
+---  
+[Complete Calendar...](https://web.archive.org/calendar.php)
