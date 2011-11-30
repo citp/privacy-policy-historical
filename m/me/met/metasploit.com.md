@@ -1,32 +1,23 @@
-> *The following text is extracted and transformed from the metasploit.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621044659id_/http%3A//www.metasploit.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metasploit.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130211427id_/http%3A//www.metasploit.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Metasploit Project
 
   * [** **](https://web.archive.org/)
-  * [Learn More](https://web.archive.org/learn-more/)
-    * [What is it?](https://web.archive.org/learn-more/what-is-it/ "What is it?")
-    * [Who is it for?](https://web.archive.org/learn-more/who-is-it-for/ "Who is it for?")
-    * [How do I use it?](https://web.archive.org/learn-more/how-do-i-use-it/ "How do I use it?")
-    * [History](https://web.archive.org/learn-more/history/ "History")
-    * [Commercial Editions](https://web.archive.org/learn-more/commercialeditions/ "Commercial Editions")
-    * [Related Software](https://web.archive.org/learn-more/related-software/ "Related Software")
-    * [Open Source Commitment](https://web.archive.org/learn-more/open-source/ "Open Source Commitment")
-    * [Penetration Testing Basics](https://web.archive.org/learn-more/penetration-testing-basics/ "Penetration Testing Basics")
-  * [Download Metasploit](https://web.archive.org/download/)
-  * [Get Support](https://web.archive.org/get-support)
-    * [IRC Channel](https://web.archive.org/get-support/irc-channel "IRC Channel")
-    * [Mailing list](https://web.archive.org/get-support/mailing-list "Mailing list")
-    * [Issue tracker](https://web.archive.org/get-support/issue-tracker "Issue tracker")
-    * [Report a bug](https://web.archive.org/get-support/report-a-bug "Report a bug")
-  * [Stay updated](https://web.archive.org/stay-updated/)
-  * [Get involved](https://web.archive.org/get-involved)
-    * [Security Researchers](https://web.archive.org/get-involved/security-researchers "Security Researchers")
-    * [Quality Assurance Engineers](https://web.archive.org/get-involved/quality-assurance-engineers "Quality Assurance Engineers")
-    * [Technical Writers](https://web.archive.org/get-involved/technical-writers "Technical Writers")
-    * [Graphic Designers](https://web.archive.org/get-involved/graphic-designers "Graphic Designers")
-    * [Module Developers](https://web.archive.org/get-involved/module-developers "Module Developers")
-    * [Core Developers](https://web.archive.org/get-involved/core-developers "Core Developers")
-  * [Browse Exploits](https://web.archive.org/modules/)
+  * [About](https://web.archive.org/about/)
+    * [What is it?](https://web.archive.org/about/what-is-it/ "What is it?")
+    * [Choose Metasploit Edition](https://web.archive.org/about/choose-right-edition/ "choose-right-edition")
+    * [History](https://web.archive.org/about/history/ "History")
+    * [Open Source Commitment](https://web.archive.org/about/open-source/ "Open Source Commitment")
+    * [Penetration Testing Basics](https://web.archive.org/about/penetration-testing-basics/ "Penetration Testing Basics")
+  * [Help](https://web.archive.org/help)
+  * [News](https://web.archive.org/news/)
+  * [Development](https://web.archive.org/development)
+    * [IRC Channel](https://web.archive.org/development/irc-channel "IRC Channel")
+    * [Mailing list](https://web.archive.org/development/mailing-list "Mailing list")
+    * [Issue tracker](https://web.archive.org/development/issue-tracker "Issue tracker")
+    * [Report a bug](https://web.archive.org/development/report-a-bug "Report a bug")
+  * [Exploits](https://web.archive.org/modules/)
+  * [Download](https://web.archive.org/download/)
 
 
 
