@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the atomicbeats.com privacy policy that was archived on 2010-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100630101447id_/http%3A//www.atomicbeats.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomicbeats.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130053950id_/http%3A//www.atomicbeats.com/Privacy.html) for the most accurate reproduction.*
 
-# AtomicBeats - Privacy Policy
-
-**Copyright © 2010 AtomicBeats.com - Hip Hop Beats**
+# Privacy Policy | Free Hip Hop Beats, Free Rap Beats, Free R&B Beats:
 
 What information do we collect?
 
