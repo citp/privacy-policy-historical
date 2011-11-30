@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subitup.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419202716id_/http%3A//account.subitup.com/terms/pp.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subitup.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130123152id_/http%3A//account.subitup.com/terms/pp.aspx) for the most accurate reproduction.*
 
 # SubItUp
 
