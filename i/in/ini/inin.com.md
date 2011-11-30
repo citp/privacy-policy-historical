@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the inin.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506180751id_/http%3A//www.inin.com/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inin.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130071104id_/http%3A//www.inin.com/Pages/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Dear Internet website visitor (“you”):
 
-Thank you for your interest in Interactive Intelligence, Inc. (“Interactive Intelligence”). This Privacy Policy describes Interactive Intelligence’s privacy policy with regard to our Internet website located at [http://www.inin.com](http://www.inin.com/) or any successor Internet website thereto (the “Site”). By visiting the Site, you are accepting the practices described in this Privacy Policy. THIS PRIVACY POLICY MAY CHANGE FROM TIME TO TIME, SO PLEASE CHECK BACK PERIODICALLY.
+Thank you for your interest in Interactive Intelligence Group, Inc. (“Interactive Intelligence”). This Privacy Policy describes Interactive Intelligence’s privacy policy with regard to our Internet website located at [http://www.inin.com](http://www.inin.com/) or any successor Internet website thereto (the “Site”). By visiting the Site, you are accepting the practices described in this Privacy Policy. THIS PRIVACY POLICY MAY CHANGE FROM TIME TO TIME, SO PLEASE CHECK BACK PERIODICALLY.
 
 Interactive Intelligence treats your visit to our Site as we would treat any other interaction with our valued customers and prospective customers: as a private matter between you and Interactive Intelligence. We want you to know up front how we deal with any personally identifiable information you see fit to provide to us during our interactions with you. Therefore, this Privacy Policy will answer the following questions. 
 
@@ -40,4 +40,4 @@ Thank you, and best regards,
 
 Don Brown  
 CEO & Founder  
-Interactive Intelligence, Inc.
+Interactive Intelligence Group, Inc.
