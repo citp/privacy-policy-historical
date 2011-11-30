@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lagoshost.com privacy policy that was archived on 2010-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100211134120id_/http%3A//www.lagoshost.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lagoshost.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130102927id_/http%3A//lagoshost.com/privacy_policy.html) for the most accurate reproduction.*
 
 # LagosHost.Com - Nigeria Web Hosting Solutions Provider, Nigeria Free Domain Names, Cheap Hosting, Nigeria Free Domain Name Registeration, Nigeria IT Training Company, Nigeria Web Designer - Reseller WebHosting, Reseller For All!
 
