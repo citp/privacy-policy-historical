@@ -1,20 +1,22 @@
-> *The following text is extracted and transformed from the rapidfeeds.com privacy policy that was archived on 2011-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110411063516id_/http%3A//www.rapidfeeds.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidfeeds.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130135935id_/http%3A//www.rapidfeeds.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RapidFeeds
+
+Privacy Policy
 
 RapidFeeds is committed to protecting your online privacy while providing you with the most useful and efficient service possible. We respect your privacy and are committed towards keeping your personal information safe. 
 
 How we collect and use personal information
 
-Registering for membership on RapidFeeds gives you access to all of the site�s services. The only information required is your name and e-mail address. With your approval, we occasionally will send e-mail to notify you about important changes to the site, new services, important upgrades and special offers from us. If you would rather not receive these e-mail notifications, then please use the instructions on the bottom of the e-mail to unsubscribe. RapidFeeds uses the best technology around in preserving your personal information, to prevent unauthorized use of your e-mail address. 
+Registering for membership on RapidFeeds gives you access to all of the site's services. The only information required is your name and e-mail address. With your approval, we occasionally will send e-mail to notify you about important changes to the site, new services, important upgrades and special offers from us. If you would rather not receive these e-mail notifications, then please use the instructions on the bottom of the e-mail to unsubscribe. RapidFeeds uses the best technology around in preserving your personal information, to prevent unauthorized use of your e-mail address. 
 
 How we protect your personal information
 
-All personal data you enter on RapidFeeds is secure with the same state-of-the-art security software we use to guard all of our company�s essential business data. In addition to using the most secure technology available, we work tirelessly to make sure that we use any information you provide us only in ways you have approved. 
+All personal data you enter on RapidFeeds is secure with the same state-of-the-art security software we use to guard all of our company's essential business data. In addition to using the most secure technology available, we work tirelessly to make sure that we use any information you provide us only in ways you have approved. 
 
 How we use "cookies"
 
-As you probably know, "cookies" are small pieces of information that some Web sites store on your computer's hard drive when you visit them. Like many other Web sites, RapidFeeds uses cookies to identify members so they don�t have to enter a user ID and password upon each visit. You can select the �remember my password� option, which remembers your password for up to 2 weeks. Most Web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis. Even if you do not use cookies, you can still access all of the features on our site by logging in manually with each visit. 
+As you probably know, "cookies" are small pieces of information that some Web sites store on your computer's hard drive when you visit them. Like many other Web sites, RapidFeeds uses cookies to identify members so they dont have to enter a user ID and password upon each visit. You can select the "remember my password" option, which remembers your password for up to 2 weeks. Most Web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis. Even if you do not use cookies, you can still access all of the features on our site by logging in manually with each visit. 
 
 Obtaining your consent
 
@@ -22,7 +24,7 @@ By using our Web site, you give RapidFeeds permission to collect information abo
 
 Tell us what you think
 
-RapidFeeds welcomes your questions and comments about our privacy policy. Please send e-mail to [**feedback@rapidfeeds.com**](mailto:feedback@rapidfeeds.com) or [**click here**](https://web.archive.org/web/20110411063516id_/http%3A//www.rapidfeeds.com/contactus.php) to contact Us. 
+RapidFeeds welcomes your questions and comments about our privacy policy. Please send e-mail to [feedback@rapidfeeds.com](mailto:feedback@rapidfeeds.com) or [click here](https://web.archive.org/contact/) to contact Us. 
 
   
 
