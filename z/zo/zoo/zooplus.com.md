@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zooplus.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107153914id_/http%3A//www.zooplus.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooplus.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130185315id_/http%3A//www.zooplus.com/content/privacy) for the most accurate reproduction.*
 
 # Pet Supplies, Pet Food, and Pet Products on Sale Now at zooplus.com
 
