@@ -1,65 +1,74 @@
-> *The following text is extracted and transformed from the flvtube.net privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221085545id_/http%3A//www.flvtube.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flvtube.net privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130233147id_/http%3A//faq.installmanager.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy - FLVTube
+# Install Manager Privacy Policy dated September 1, 2010
 
-**Version 1.0 (February 2, 2009)**
+**Version 1.0 dated September 1, 2010   **
 
-## Website Privacy Policy
+This Website Privacy Policy (this “ _Policy_ ”) applies with respect to the information that Design and Marketing DM S.A., a Costa Rican corporation (“ _D &M_”, “ _we_ ” or “ _us_ ”), collects from the [www.installmanager.com](http://www.installmanager.com/) web site (the " _Site_ "), and explains how we collect, use and disclose your personal information. Amendments to this Policy will be posted at this URL. Your continued use of this Site following the posting of any amendment, modification or change shall constitute your acceptance thereof.  While we may update you of any changes to this Policy, it is your obligation to review the terms of this Policy and stay current therewith.
 
-This Website Privacy Policy (this "Policy") applies with respect to the information that we collect from the Design and Marketing DM S.A. (the "Company") Website, located at [ flvtube.net ](http://flvtube.net/), and explains how we collect, use and disclose your personal information in connection with our services. Amendments to this Policy will be posted at this URL. Your continued use of this site following the posting of any amendment, modification or change shall constitute your acceptance thereof. While the Company may update you of any changes to its Privacy Policy, it is your obligation to review the terms of this Privacy Policy and stay current therewith.
+### 
 
-**I. INFORMATION COLLECTED**
+**INFORMATION COLLECTED**
 
-We collect non-personally identifiable information about you in a number of ways, including tracking your activities through your IP address, computer settings or most-recently visited URL. Personally identifiable information is personal information about you including your name, address, e-mail address, or phone number, and that which is not otherwise publicly available. We may also ask you to provide certain non-personally identifiable information about yourself, such as your age, household income, buying preferences, etc. Personally identifiable information about you is collected when you voluntarily submit such information to us, by, for example, filling out a survey or registration form. We may combine personal information collected from you with information from other Company services or third parties to provide a better user experience, including customizing content for you.
+Out Site collects two types of information about you: (a) information that you provide or that we gather with your permission that personally identifies you; and (b) information that does not personally identify you, that we automatically collect when you visit the Site or that you provide to us. 
 
-**II. USE OF INFORMATION**
+Our definition of personally identifiable information includes any information that may be used to specifically identify or contact you, such as your name, email address or phone number. It also includes the type of software that you use or have on your computer system, which we may learn about if you request us to scan your computer for outdated software (which involves scanning your computer system to determine what software and software versions you may use or have on your computer system and, based upon the results of such scan, recommending software update and other products for download and/or purchase).  In certain circumstances, we may gather, request, allow or otherwise provide you an opportunity to submit your personally identifiable information in connection with a feature, program, promotion or some other aspect of our Site. For instance, you may: (a) provide your name, mail/shipping address, email address, credit card number and phone number when registering with our Site or using our online store; (b) provide certain demographic information about you (e.g., age, gender, purchase preference, usage frequency, etc.) when participating in a survey, poll or joining a club; (c) post a product rating and recommendation on our Site; or (d) authorize us to scan your computer to determine the type of software you use or otherwise have on your computer system, so that we recommend software updates or products for download and/or purchase. Certain information may not be personally identifiable when standing alone (e.g., your age), but may become so when combined with other information (e.g., your age and name). Whether or not you provide this information is your choice; however, in many instances this type of information is required to participate in the particular activity, realize a benefit we may offer, or gain access to certain content on our Site.
 
-In general, we will only use the information you provide to us for purposes we deem appropriate. We may use your information (ourselves or utilizing third-party companies) to deliver you information about our company and promotional material from some of our partners and affiliates, trend analysis, pattern detection, and site administration. Your information may also be used to contact you when necessary and may be shared with or sold to other companies that may want to contact you with offers that we (or they) believe are consistent with your preferences. Users may opt-out of receiving future mailings from Company and other entities by following the instructions set forth in the opt-out section below.
+Our definition of non-personal information is any information that does not personally identify you. We obtain non-personal information about you from information that you provide us, either separately or together with your personally identifiable information. We also automatically collect certain non-personal information from you when you access our Site. Non-personal information can include, among other things, IP addresses, the type of browser you are using (e.g., Internet Explorer, Firefox, Safari, etc, the third party website from which your visit originated, the operating system you are using (e.g., Vista, Windows XP, Macintosh OS, etc.), the domain name of your Internet service provider (e.g., America Online, NetZero, etc.), the search terms you use on our Site, the specific web pages you visit, and the duration of your visits.
 
-Non-personal demographic and profile data is used to tailor your experience at our site, showing you content we think you might be interested in. This information may also be shared with advertisers on an aggregate non-personal basis. We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services.
+[Top]
 
-The Company may also disclose your information upon a transfer or sale to another entity of the Company or upon any other corporate reorganization.
+### 
 
-**III. USE OF IP ADDRESSES**
+**HOW WE USE, DISCLOSE   AND SHARE YOUR INFORMATION**  
 
-We use your IP Address to help diagnose problems with our server, and to administer our Website.
 
-**IV. USE OF COOKIES**
+We use non-personal information in a variety of ways, including to help analyze Site traffic, understand customer needs and trends, carry out targeted promotional activities, and to improve our services. We may use your non-personal information by itself or aggregate it with information we have obtained from others. We may share your non-personal information with our affiliated companies and third parties to achieve these objectives and others.  
+The personally identifiable information your provide to us is generally used to carry out your requests, respond to your inquiries, better serve you, or in other ways related to the circumstances in which you provided the information. We may also use this information to later contact you for a variety of reasons, such as customer service, providing you promotional information for our products or those of our affiliated companies, or to communicate with you about content or other information you have posted or shared with us via our Site. We may also provide your information to third parties who may contract you to promote their products and services. You may opt-out from receiving future promotional information from us or our affiliated companies, or direct that we not share your information with any affiliated companies, as set forth below.   
+In certain instances we may also share your personally identifiable information with our third party vendors performing functions on our behalf (or on behalf of our affiliated companies). Our vendors agree to use this information, and we share information with them, only to carry out our requests. In addition, we may share your personally identifiable information with participating sponsors to a program or promotion (e.g., a sweepstakes or contest) you enter via our Site, and with third parties who assist us in using the content or other information you have posted or shared with us via our Site. Further, we may share your personally identifiable information with third parties such as our co-promotional partners and others with whom we have marketing or other relationships.  
+Notwithstanding anything contained in this Policy to the contrary, we reserve the right to disclose any personally identifiable or non-personal information about you if we are required to do so by law, with respect to notices and counternotices pursuant to our Digital Millennium Copyright Act notice and takedown policy and procedures and/or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Site, or other users; or (d) in an emergency to protect the health and safety of our Site’s users or the general public. 
 
-Cookies are an industry standard used by most major Websites. When you view our Website we might store some information on your computer. This information will be in the form of a "cookie" or similar file. Cookies are small pieces of information stored on your hard drive, not on our site. Cookies do not spy on you or otherwise invade your privacy, and they cannot invade your hard drive and steal information. Rather, they help you navigate a Website as easily as possible. We use cookies to improve the quality of our services, deliver content specific to your interests and to prevent you from reentering all your registration data at each connection.
+### **COOKIES AND IP ADDRESSES**
 
-We may use an outside advertisement server company to display ads on our site. These ads may contain cookies. Through banner ads the advertisement server company may set and access their cookies on your computer. We do not have access to information that would confirm the use of cookies by the advertisement server company. Other companies' use of their cookies is subject to their own privacy policy, not this one. You may decline to provide personal information to us and/or refuse cookies in your browser, although some of our features may not function properly as a result.
+Cookies are small pieces of information stored on your hard drive, not on our Site. We use cookies for a number of reasons. First, cookies allow you to store your password without having to constantly re-enter it. Second, cookies can also help us to tailor our Site or a marketing message to better match your needs and interests. Third, cookies allow us to better understand how users use our Site, which in turn helps us focus our resources on features that are most popular with our users. You are always free to decline our cookies if your browser permits, but some parts of our Site may not work properly if you do.
 
-**V. SECURITY**
+An IP address is a number that is automatically assigned to your computer whenever you are surfing the Internet. Web servers (computers that "serve up" web pages) automatically identify your computer by its IP address. When visitors request pages from our Site, our servers typically log their IP addresses. We collect IP addresses for purposes of system administration, to report non-personal aggregate information to others, and to track the use of our Site. IP addresses are considered non-personal information and may also be shared as provided above. It is not our practice to link IP addresses to anything personally identifiable. However, we reserve the right to use IP addresses to identify a visitor when we feel it is necessary to enforce compliance with our Site rules or to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, our Site, or other users; or (d) in an emergency to protect the health and safety of our Site users or the general public.
 
-Our site has industry standard security measures in place to protect the loss, misuse and alteration of the information under our control. While there is no such thing as "absolute security" on the Internet, we make good faith efforts to take every step to ensure the safety of your personal information, whenever reasonably possible.
+[Top]
 
-**VI. OTHER WEBSITES; LINKS**
+### **OTHER SITES**
 
-Our Website contains links to other Websites. Because this Policy only applies to the Company Website itself and not linked Websites, you should examine the privacy policy of any other Websites that you access from the Company Website. The Company is not responsible for the privacy practices or the content of such other Websites.
+Our Site contains links to other Websites.  Because this Policy only applies to the Site itself and not linked Websites, you should examine the privacy policy of any other Websites that you access from the Site. We are not responsible for the privacy practices or the content of such other Websites.
 
-**VII. CORRECT; UPDATE**
+### 
 
-The Company allows its users the option to change or modify information previously provided. This may be done through the following methods:
+**PUBLIC FORUMS**  
 
-(1) E-mail the information to [ update@flvtube.net ](mailto:update@flvtube.net)  
-(2) Visit the Customer Service section of the site and follow the appropriate instructions.
 
-Unfortunately, to the extent that such information is also stored in other databases, we cannot always ensure that such corrections or deletions will reach the other databases. We will use all reasonable efforts to ensure that your information is removed from or corrected in our records.
+We may offer chat rooms, message boards, bulletin boards, or similar public forums where you and other users of our Website can communicate. The protections described in this Policy do not apply when you provide information (including personal information) in connection with your use of these public forums. We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum. Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to this Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Site.  
 
-**VIII. CHOICE; OPT OUT**
 
-You may opt-out of receiving communications from our partners, and from us, by the following means:
+###  **CHILDREN**  
 
-(1) Send an e-mail to [ update@flvtube.net ](mailto:update@flvtube.net)  
-(2) Visit the Customer Service section of the site and follow the appropriate instructions.
 
-We reserve the right to send you certain communications relating to the Company service, such as service announcements and administrative messages, without offering you the opportunity to opt out of receiving them absent a cancellation of services with the Company.
+We do not knowingly collect or use any personal information from children under the age of 13 without obtaining verifiable parental consent.   
 
-**IX. PUBLIC FORUMS**
 
-This site may make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+###  **OPT OUT**  
 
-**Contacting us:**
 
-If you have any questions about this Policy, the practices of this site, or your dealings with this Website, you can contact us at [ privacy@flvtube.net. ](mailto:privacy@flvtube.net)
+You may contact us as at privacy(at)installmanager.com if: (a) you have questions or comments about this Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others.   
+We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Site.  
+
+
+### **SECURITY**
+
+While there is no such thing as "absolute security" on the Internet, we make good faith efforts to ensure the safety of your personal information, whenever reasonably possible.
+
+### 
+
+**SALE OF BUSINESS  **
+
+We reserve the right to transfer information to a third party in the event of a sale, merger or other transfer of all or substantially all of the assets of D&M provided that the third party agrees to adhere to the terms of this Policy. 
+
+[Top]
