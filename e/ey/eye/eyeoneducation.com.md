@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the eyeoneducation.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621212300id_/http%3A//www.eyeoneducation.com/LinkClick.aspx%3Flink%3D69%26tabid%3D59) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeoneducation.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130071550id_/http%3A//www.eyeoneducation.com/LinkClick.aspx%3Flink%3D69%26tabid%3D59) for the most accurate reproduction.*
 
 # Privacy Policy
-
-Privacy Policy 
 
 This website was designed to supply information about Eye On Education and its products and services. We value our relationship with you and recognize the importance of protecting the privacy of your personal information. The information we have about you is protected and secure, and we work diligently to honor your personal preferences regarding the use of your information.
 
