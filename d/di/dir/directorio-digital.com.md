@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directorio-digital.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601195805id_/http%3A//www.directorio-digital.com/blog/latest/privacy-policy-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directorio-digital.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130010052id_/http%3A//www.directorio-digital.com/blog/latest/privacy-policy-3.html) for the most accurate reproduction.*
 
 # Cheap $1.99 Reliable Hosting - Privacy Policy
 
