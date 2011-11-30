@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the olioboard.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102100854id_/http%3A//olioboard.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olioboard.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130013110id_/http%3A//olioboard.com/pages/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy - OlioBoard
-
-## Olioboard.com Privacy Policy
+# Privacy Policy | Olioboard
 
 Olioboard (www.olioboard.com) is a Keele UX product. Keele UX Inc. is committed to protecting the privacy of those who visit the olioboard.com website and use the Olioboard Service. Amendments to this statement will be posted to this URL and will be effective when posted. Your continued use of this site following the posting of any amendment, modification, or change shall constitute your acceptance of the amendment. We will notify the Olioboard Service account owner by email when significant changes are made to the privacy policy.
 
