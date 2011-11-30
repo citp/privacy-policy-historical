@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fansonline.net privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215083416id_/http%3A//fansonline.net/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fansonline.net privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130184028id_/http%3A//fansonline.net/pp.php) for the most accurate reproduction.*
 
 # FansOnline Privacy Policy
 
@@ -53,9 +53,9 @@ Contacting us.
 If you have any questions or concerns about our use of your personal information please write to:
 
 FansOnline.net Ltd  
-FansOnline.net  
-Suite 1  
-Moray House   
-258 Marton Road  
-Middlesbrough   
-TS4 2EZ
+UNIT 7  
+Brentnall Center  
+Gilkes Street  
+Middlesbrough  
+Cleveland  
+TS1 5AP
