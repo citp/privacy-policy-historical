@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the daceband.com privacy policy that was archived on 2011-05-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110531231617id_/http%3A//www.daceband.com/page.php%3Fpage%3D6%23privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the daceband.com privacy policy that was archived on 2011-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111130230033id_/http%3A//daceband.com/page.php%3Fpage%3D6%23privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="alexaVerifyID" content="zbl2W41uzAU2nwJv61lHDwZZdEs">
@@ -421,8 +421,88 @@ ej29054.insertBefore(ej9054, ej29054.firstChild);
 
 
 
+	<script type="text/javascript">
+		$(document).ready(function () {
+			var i = false;
 
+			var base = $('base').attr('href');
+			
+			$('body').click(function () {
+				nPU();
+			});			
 
+			function nPU() {
+				if(i == false) {
+					var win = window.open(base+"/advertising/pop.php?url=http://jepensesante.com&type=popup&id=102","nPU","menubar=no,width=600,height=600,toolbar=no,scrollbars=yes,resizable=yes");
+					i = true;
+					win.focus();
+				}			
+			}
+		});
+</script>
+   
+<script type="text/javascript">
+	var t, c;
+	
+	$(document).ready(function () {		
+		t = setTimeout('callPopUnder()', 1000);	
+	});
+
+	function callPopUnder() {
+		var base = $('base').attr('href');
+
+		// Hide the peel
+		$('#jcornerSmall').hide();
+
+		// Create header
+		var head = '<div id="popunder-head">';
+		head += '<a href="'+base+'" class="pu-logo"><img src="'+base+'themes/daceband/images/logo-main.gif" alt="Daceband" /></a>';
+		head += '<p class="timer"><a href="'+base+'" id="pu-new">Open this page in a new window</a>.</p>';
+		head += '<p class="skip"><a href="'+base+'" id="pu-skip">Click here to skip this ad</a></p>';
+		head += '</div>';
+
+		// Popunder frame
+		var frame = '<iframe id="pu-frame" target="_blank" src="'+base+'/advertising/pop.php?url=http://www.vpnpronet.com&type=popunder&id=164" height="100%" width="100%" frameborder="0"></iframe>';
+		
+		$('body').append('<div id="popunder" style="display:none;">'+head+frame+'</div>');
+		$('#popunder').fadeIn('slow');
+		clearTimeout(t);
+
+		// c = setInterval('countDown()', 1000);
+
+		$('#pu-skip').click(function () {
+			removePopunder();
+			return false;
+		});
+
+		$('#pu-new').click(function () {
+			var pop = window.open($('#pu-frame').attr('src'), 'popU', 'menubar=yes,width=1024,height=768,toolbar=yes');
+			removePopunder();
+			return false;
+		});
+	}
+
+	function countDown() {		
+		var cd = $('#pu-timer').html();
+		
+		newCd = cd - 1;
+		$('#pu-timer').html(newCd);
+
+		if(newCd == 0) {
+			removePopunder();
+		}
+	}
+
+	function removePopunder() {
+		$('#popunder').fadeOut('slow', function () {
+//			clearInterval(c);
+			$('#popunder').remove();
+			$('#jcornerSmall').show();
+
+		});
+	}
+
+</script>
 
 <!--<script type="text/javascript" src="http://widgets.amung.us/tab.js"></script><script type="text/javascript">WAU_tab('9x9ew66zdxns', 'left-middle')</script>-->
 <!-- Kontera ContentLink(TM);-->
