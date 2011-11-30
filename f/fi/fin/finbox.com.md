@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finbox.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525190207id_/http%3A//www.finbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finbox.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130011107id_/http%3A//www.finbox.com/privacy-policy) for the most accurate reproduction.*
 
 # Finbox | Navigate your Finance Career
 
