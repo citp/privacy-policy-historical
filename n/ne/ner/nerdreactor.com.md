@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nerdreactor.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630175526id_/http%3A//nerdreactor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdreactor.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130141516id_/http%3A//nerdreactor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Nerd Reactor
+# Privacy Policy « Nerd Reactor
 
 **What information do we collect?**
 
