@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the outspokenmedia.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627232728id_/http%3A//outspokenmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outspokenmedia.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130101223id_/http%3A//outspokenmedia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Outspoken Media
 
 This is the web site of Outspoken Media.
 
 Our postal address is:  
-4142 Mariner Blvd. 234  
-Spring Hill, FL 34609
+353 Broadway  
+Troy, NY 12180
 
 We can be reached via e-mail at info@outspokenmedia.com
 
