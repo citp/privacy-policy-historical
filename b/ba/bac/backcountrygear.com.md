@@ -1,0 +1,9 @@
+> *The following text is extracted and transformed from the backcountrygear.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201005203id_/http%3A//www.backcountrygear.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy
+
+At Backcountry Gear your privacy and security are our number one priority. We do not share any personally identifiable information about you with other companies, except in the case of dealing with manufacturers for order fulfillment and warranty issues. In such a case, we offer this information only to improve your shopping experience at Backcountrygear.com, and we only provide it under strict confidentiality. We will never sell or rent your name, email address, telephone or fax numbers, address, or credit card numbers for any reason. We do collect your IP address and general browsing patterns when you visit our site. We use this anonymous information to help diagnose problems with our server and to assist us with improving your shopping experience at Backcountrygear.com.
+
+Placing orders at Backcountrygear.com is secure, private and easy. To ensure your safety we use GeoTrust's Secure Sockets Layer (SSL) 128-bit encryption technology. GeoTrust QuickSSL smart seal guarantees our online visitors will receive the highest level of encryption possible. SSL encrypts ALL of your personal information, protecting your confidential information from interception and hacking. Rest assured. Your order is safe with us.
+
+If you have any questions about our privacy statement, your personal information, or if you would feel more comfortable placing your order with a real person, please do not hesitate to give us a call at 1-800-953-5499 or **[email us](https://web.archive.org/contacts/)**. We would love to hear from you.
