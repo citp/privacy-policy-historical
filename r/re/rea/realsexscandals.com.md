@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the realsexscandals.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504153733id_/http%3A//secure.realsexscandals.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realsexscandals.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130223642id_/http%3A//track.realsexscandals.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 **Real Sex Scandals**
 
 **PRIVACY POLICY STATEMENT**  
+  
   
 
 
