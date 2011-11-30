@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ruger.com privacy policy that was archived on 2011-04-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110427133103id_/http%3A//ruger.com/footer/privacyPolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ruger.com privacy policy that was archived on 2011-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111130054706id_/http%3A//www.ruger.com/footer/privacyPolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -9,26 +9,116 @@
 </head>
 <body>
 <table border="0" cellspacing="0" cellpadding="0" class="root" align="center">
-   <tbody><tr>
+   <script type="text/javascript">
+	function toggleGrowingAd(theDivID, theMinSize, theMaxSize, speed) {
+		var theGrowableDiv = document.getElementById(theDivID);
+		if (theGrowableDiv) {
+			var theCurrentHeight = theGrowableDiv.style.height;
+			var cHeightNumeric   = parseInt(theCurrentHeight.replace(/[^0-9]/g, ''));
+
+
+			var targetSize      = theMaxSize;
+			var changeDirection = 1; // default is to grow the div
+			if (cHeightNumeric > theMinSize) {
+				// div is already expanded, shrink it instead
+				changeDirection = 0;
+				targetSize      = theMinSize;
+			}
+			
+			var userAgent = navigator.userAgent;
+			var isiDevice = false;
+			
+			if ((userAgent.match(/iPad/i) != null) || (userAgent.match(/iPhone/i) != null) || (userAgent.match(/iPod/i) != null)) {
+				isiDevice = true;
+			}
+
+			if (isiDevice) {
+				theGrowableDiv.style.height = targetSize;
+			} else {
+				var f = function() {
+					changeDivSize(theDivID, targetSize, speed, changeDirection);
+				};
+				setTimeout(f, 0);
+			}
+		}
+	}
+
+	function changeDivSize(theDivID, theTargetSize, speed, stepDirection) {
+		var theDiv           = document.getElementById(theDivID);
+		var theCurrentHeight = theDiv.style.height;
+		var cHeightNumeric   = parseInt(theCurrentHeight.replace(/[^0-9]/g, ''));
+		var cHeightAdjusted  = cHeightNumeric;
+
+		if (stepDirection) {
+			// increase the size
+			cHeightAdjusted = (cHeightNumeric+speed);
+			cHeightAdjusted = Math.min(theTargetSize, cHeightAdjusted);
+		} else {
+			// decrease the size
+			cHeightAdjusted = (cHeightNumeric-speed);
+			cHeightAdjusted = Math.max(theTargetSize, cHeightAdjusted);
+		}
+		theDiv.style.height = cHeightAdjusted;
+
+		if(cHeightAdjusted != theTargetSize) {
+			var f = function() {
+				changeDivSize(theDivID, theTargetSize, speed, stepDirection);
+			};
+			setTimeout(f, 1);
+		}
+	}
+</script>
+<tbody><tr>
+	<td colspan="2">
+		<div align="center" id="growableAd" style="overflow: hidden; padding: 0px; margin: 0px; width: 995px; height: 40px;">
+			<img src="/images/expandableHeaders/million.jpg" width="995" height="243" border="0" usemap="#growableAdMap">
+			<map name="growableAdMap">
+				<area href="javascript: toggleGrowingAd('growableAd', 40, 243, 8);" shape="rect" coords="0,0,995,40">
+				<area href="/micros/million/index.html" target="_blank" shape="rect" coords="0,40,995,243">
+			</map>
+		</div>
+	</td>
+</tr>
+
+<tr>
 	<td colspan="2" class="header">
-		<p><a href="http://www.shopruger.com" target="_blank" title="Visit the Ruger Sportswear &amp; Accessories Store">Shopruger.com</a><em>•</em><a href="/corporate/index.html" title="Visit the Ruger Corporate Site">Corporate</a><em>•</em><a href="/casting/index.html" title="Visit the Pine Tree Castings Site">Pine Tree Castings</a></p>
+		<p><a href="http://www.shopruger.com" target="_blank" title="Visit the Ruger Sportswear &amp; Accessories Store">Shopruger.com</a><em>•</em><a href="/corporate/index.html" title="Visit the Ruger Corporate Site">Corporate</a><em>•</em><a href="/casting/index.html" title="Visit the Pine Tree Castings Site">Castings</a><em>•</em><a href="/LE/index.html" title="Visit the Ruger LE Site">LE/Military</a></p>
 		<div class="headerLogo"><a href="/index.html"><img src="/images/logoHeader.gif" alt="Ruger Logo" width="198" height="38" border="0" title="Back to Ruger.com Home Page"></a></div>
 	</td>
 </tr>
+
+
+
   <tr>
     <td class="section"><img src="../images/backgrounds/quickMenuHeader.jpg" width="168" height="29"></td>
     <td class="dropdownNav" id="dropdownNav">
+	<script type="text/javascript">
+	<!-- 
+		function touchMenu(menuID) {
+			theMenu = document.getElementById(menuID);
+			if (theMenu.style.visibility == 'hidden') {
+				// clicking a menu other than the one opened (if any)
+				mclose();
+				mopen(menuID);
+			} else {
+				// clicking an open menu item, just close the menus
+				mclose();
+			}
+		}
+	// -->
+	</script>
       <ul id="sddm">
-      <li><a href="#" onmouseover="mopen('m1')" onmouseout="mclosetime()" style="width: 155px;">RETAILER LOCATOR</a>
+      <li><a href="javascript: touchMenu('m1');" onmouseover="mopen('m1')" onmouseout="mclosetime()" style="width: 155px;">RETAILER LOCATOR</a>
         <div style="visibility: hidden; border-width: 0px 2px 2px 0px; width:155px;" id="m1" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
         <a href="/retailer/find.html">Find a Retailer</a>
         <!--<a href="/retailer/resources.html">Retailer Resources</a>-->
         </div>
       </li>
-      <li><a href="#" onmouseover="mopen('m2')" onmouseout="mclosetime()" style="width: 167px;">CUSTOMER SERVICE</a>
+      <li><a href="javascript: touchMenu('m2');" onmouseover="mopen('m2')" onmouseout="mclosetime()" style="width: 167px;">CUSTOMER SERVICE</a>
         <div style="visibility: hidden; width:167px;" id="m2" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
         <a href="/service/FAQs.html">FAQs</a>
         <a href="/service/productHistory.html">Instruction Manuals<br>&amp; Product History</a>
+        <a href="/service/holsterChart.html">Holster Compatibility Chart</a>
         <a href="/dataProcess/ownerCard.php">Owner Notification Card</a>
         <a href="/service/partsOrdering.html">Parts Ordering</a>
         <a href="/service/serviceFees.html">Service Fees</a>
@@ -37,7 +127,7 @@
         <a href="/footer/contact.html">Contact Customer Service</a>
         </div>
       </li>
-      <li><a href="#" onmouseover="mopen('m3')" onmouseout="mclosetime()" style="width: 155px;">NEWS &amp; RESOURCES</a>
+      <li><a href="javascript: touchMenu('m3');" onmouseover="mopen('m3')" onmouseout="mclosetime()" style="width: 155px;">NEWS &amp; RESOURCES</a>
         <div style="visibility: hidden; width:155px;" id="m3" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
         <a href="/news/">Firearms News</a>
         <a href="/resources/pressClippings.html">Press Clippings</a>
@@ -47,8 +137,9 @@
         <a href="/resources/videos.html">Videos</a>
         </div>
       </li>
-      <li><a href="#" onmouseover="mopen('m4')" onmouseout="mclosetime()" style="width: 155px;">LINKS OF INTEREST</a>
+      <li><a href="javascript: touchMenu('m4');" onmouseover="mopen('m4')" onmouseout="mclosetime()" style="width: 155px;">LINKS OF INTEREST</a>
         <div style="visibility: hidden; width:155px;" id="m4" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
+        <a href="/micros/pepperSpray/index.html" target="_blank">Pepper Spray Products</a>
         <a href="/micros/rugerRimfire/index.html" target="_blank">Ruger Rimfire</a>
         <a href="http://www.rugerphoto.com/" target="_blank">Ruger Photo</a>
         <a href="/links/auction.html">Ruger Auction</a>
@@ -66,7 +157,7 @@
         <!--<a href="/links/internationalSites.html">Informational Sites</a>-->
         </div>
       </li>
-      <li style="border-width: 0px 0px 0px 0px;"><a href="#" onmouseover="mopen('m5')" onmouseout="mclosetime()" style="width: 155px;">SAFETY INFORMATION</a>
+      <li style="border-width: 0px 0px 0px 0px;"><a href="javascript: touchMenu('m5');" onmouseover="mopen('m5')" onmouseout="mclosetime()" style="width: 155px;">SAFETY INFORMATION</a>
         <div style="visibility: hidden;" id="m5" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
         <a href="/safety/announcements.html">Safety Announcements</a>
         <a href="/safety/basicRules.html">Basic Safety Rules</a>
@@ -118,9 +209,10 @@
         <p><a href="/products/m77MarkIIDE/models.html">Distributor Exclusives</a></p>-->
         <!-- Rotary Magazine -->
         <p class="label"><a href="/products/rotaryMagazine/index.html">Rotary Magazine</a></p>
-        <p><a href="/products/rotaryMagazine7717/models.html">77/17®</a></p>
-        <p><a href="/products/rotaryMagazine7722/models.html">77/22®</a></p>
         <p><a href="/products/rotaryMagazine7744/models.html">77/44®</a></p>
+        <p><a href="/products/rotaryMagazine77357/models.html">77/357™</a></p>
+        <p><a href="/products/rotaryMagazine7722/models.html">77/22®</a></p>
+        <p><a href="/products/rotaryMagazine7717/models.html">77/17®</a></p>
        
       </span>
     </div>
@@ -144,7 +236,10 @@
     <div id="g3" style="background-image: url(/images/backgrounds/quickMenuDark.jpg);">
       <p><a href="#" name="category" class="category" onclick="showGroup('3'); return false;">Autoloading Rifles</a></p>
       <span>
-        <p class="prodLg"><a href="/products/sr556/models.html">SR-556®</a></p>
+        <p class="label"><a href="/products/sr556/index.html">SR-556®</a></p>
+        <p><a href="/products/sr556Standard/models.html">Standard</a></p>
+        <p><a href="/products/sr556E/models.html">E-Model</a></p>
+        <p><a href="/products/sr556Uppers/models.html">Uppers</a></p>
         <p class="prodLg"><a href="/products/sr22/models.html">SR-22®</a></p>
         <!-- 10/22 -->
         <p class="label"><a href="/products/1022/index.html">10/22®</a></p>
@@ -160,7 +255,7 @@
         <p><a href="/products/mini14TargetRifle/models.html">Target Rifle</a></p>
         <p><a href="/products/mini14TacticalRifle/models.html">Tactical Rifle</a></p>
         <p><a href="/products/miniThirty/models.html">Mini Thirty Rifle</a></p>
-        <p><a href="/products/mini14DE/models.html">Distributor Exclusives</a></p>
+        <!--<p><a href="/products/mini14DE/models.html">Distributor Exclusives</a></p>-->
       </span>
     </div>
     
@@ -189,8 +284,10 @@
         <p class="label"><a href="/products/sr9c/models.html">SR9c™</a></p>
         <!-- SR9 -->
         <p class="label"><a href="/products/sr9/models.html">SR9®</a></p>
+        <!-- SR40c -->
+        <p class="label"><a href="/products/sr40c/models.html">SR40c™</a></p>
         <!-- SR40 -->
-        <p class="label"><a href="/products/sr40/models.html">SR40™</a></p>
+        <p class="label"><a href="/products/sr40/models.html">SR40®</a></p>
         <!-- SR1911 -->
         <p class="label"><a href="/products/sr1911/models.html">SR1911™</a></p>
         <!-- P-Series -->
@@ -207,8 +304,7 @@
       <span>
         <!-- 22 Charger -->
         <p class="label"><a href="/products/22Charger/models.html">22 Charger™</a></p>
-        <p><a href="/products/22Charger/models.html">Standard</a></p>
-        <p><a href="/products/22ChargerDE/models.html">Distributor Exclusives</a></p>
+        
         <!-- Mark III -->
         <p class="label"><a href="/products/markIII/index.html">Mark III™</a></p>
         <p><a href="/products/markIIIStandard/models.html">Standard</a></p>
@@ -219,7 +315,7 @@
         <!-- 22/45 -->
         <p class="label"><a href="/products/2245/index.html">22/45™</a></p>
         <p><a href="/products/2245ThreadedBarrel/models.html">Threaded Barrel</a></p>
-        <p><a href="/products/2245BullBarrel/models.html">Bull Barrel</a></p>
+        <p><a href="/products/2245Target/models.html">Target</a></p>
         <p><a href="/products/2245Hunter/models.html">Hunter</a></p>
         <p><a href="/products/2245SlabSided/models.html">Slab-Sided Barrel</a></p>
         <p><a href="/products/2245DE/models.html">Distributor Exclusives</a></p>
@@ -231,13 +327,15 @@
       <p><a href="#" name="category" class="category" onclick="showGroup('7'); return false;">Double-Action<br>Revolvers</a></p>
       <span>
         <!-- LCR -->
-        <p class="label"><a href="/products/lcr/models.html">LCR®</a></p>
+        <p class="label"><a href="/products/lcr/index.html">LCR®</a></p>
+        <p><a href="/products/lcr/models.html">Standard</a></p>
+        <p><a href="/products/lcrDE/models.html">Distributor Exclusives</a></p>
         <!-- SP101 -->
-        <p class="label"><a href="/products/sp101/models.html">SP101®</a></p>
+        <p class="label"><a href="/products/sp101/index.html">SP101®</a></p>
         <p><a href="/products/sp101/models.html">Standard</a></p>
         <p><a href="/products/sp101DE/models.html">Distributor Exclusives</a></p>
         <!-- GP100 -->
-        <p class="label"><a href="/products/gp100/models.html">GP100®</a></p>
+        <p class="label"><a href="/products/gp100/index.html">GP100®</a></p>
         <p><a href="/products/gp100/models.html">Standard</a></p>
         <p><a href="/products/gp100DE/models.html">Distributor Exclusives</a></p>
         <!-- Redhawk -->
@@ -257,9 +355,10 @@
         <p class="label"><a href="/products/newBearcat/models.html">New Bearcat®</a></p>
         <!-- New Model Single-Six -->
         <p class="label"><a href="/products/newModelSingleSix/index.html">New Model Single-Six®</a></p>
-        <p><a href="/products/newModelSingleSixBlued/models.html">Blued</a></p>
+        <p><a href="/products/newModelSingleSixSingleTen/models.html">Single-Ten™</a></p>
         <p><a href="/products/newModelSingleSixConvertible/models.html">Convertible</a></p>
         <p><a href="/products/newModelSingleSixHunter/models.html">Hunter</a></p>
+        <p><a href="/products/newModelSingleSix17HMR/models.html">.17 HMR</a></p>
         <p><a href="/products/newModelSingleSixDE/models.html">Distributor Exclusive</a></p>
         <!-- New Model Blackhawk -->
         <p class="label"><a href="/products/newModelBlackhawk/index.html">New Model Blackhawk®</a></p>
@@ -357,8 +456,15 @@ We appreciate the trust that you, our customers, have placed in us and look forw
     <!-- Footer  Div -->
 
 	<td class="footer">
+  <p style="text-align:right; padding: 0px 20px 0px 0px;">
+  
+  <a href="http://www.facebook.com/Ruger" target="_blank"><img src="/images/icons/footerFB.jpg" width="84" height="27"></a><a href="http://www.youtube.com/user/RugerFirearms" target="_blank"><img src="/images/icons/footerYT.jpg" width="76" height="27"></a><a href="http://www.nyse.com/about/listed/lcddata.html?ticker=RGR" target="_blank"><img src="/images/icons/footerNYSE.jpg" width="75" height="27"></a><a href="feed://www.ruger.com/rss/news.xml" target="_blank"><img src="/images/icons/footerRSS.jpg" width="35" height="27"></a></p>
+  
+  
+  
+  
 		<p>
-			<a href="/footer/contact.html">Contact</a>|<a href="/footer/emailListSignUp.html">Newsletter &amp; Email List Sign-Up</a>|<a href="/footer/employment.html">Employment</a>|<a href="/footer/privacyPolicy.html">Privacy Policy</a>|<a href="/footer/legalStatement.html">Terms of Use</a>
+			<a href="/footer/contact.html">Contact</a>|<a href="/footer/emailListSignUp.html">Newsletter &amp; Email List Sign-Up</a>|<a href="/footer/employment.html">Employment</a>|<a href="/footer/privacyPolicy.html">Privacy Policy</a>|<a href="/footer/legalStatement.html">Terms of Use</a>|<a href="/footer/socialMediaRules.html">Social Media Rules</a>
 			<br>
 			Copyright © 2011 by Sturm, Ruger &amp; Co., Inc.
 		</p>
