@@ -1,49 +1,39 @@
-> *The following text is extracted and transformed from the parkers.co.uk privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510221442id_/http%3A//www.parkers.co.uk/Legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkers.co.uk privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130224222id_/http%3A//www.parkers.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Legal/Privacy/Cookies - Parkers
+# Privacy Policy | Parkers
 
-This is parkers.co.uk, part of the Parker's portfolio of products and services, owned by Bauer Consumer Media Limited.
+  1. Our commitment to your Privacy 
+    1. Bauer Consumer Media Limited are committed to protecting your privacy and security. From time to time we may invite you to supply personal information in order for us to provide you with services (such as access to subscriber-only services, our bulletin board, email newsletters and competitions). In order to deliver such services, we will need to process and store your personal information and may need to transfer it to our business partner(s) and to associated companies of Bauer Consumer Media Limited for processing both inside and outside the European Economic Area (EEA). By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide the information or as provided in this privacy policy.
+    2. This privacy policy only applies to the use that we make of personal information provided to us via the Internet and email. Other uses may be made of personal information provided to us in correspondence, by telephone or by other means not detailed in this privacy policy.
+  2. Why we need to collect Personal Information from you 
 
-Your use of this web site is subject to the following terms and conditions, which by using the web site you are deemed to accept:
+We will notify you as to the types of personal information we are collecting about you as well as the uses we intend to make of that personal information. We may use the personal information we collect about you to notify you from time to time about important new features and changes to our online services or special offers, competitions or promotions we think you'll find of interest but we will do this only where you have consented, and you may unsubscribe from receiving these communications at any time, either by notifying us using the contact details set out below or using the ‘unsubscribe’ facility provided.
 
- **1\. Content Rights**
+  3. Who else will we tell about you? 
+    1. Subject to what we say below, we will not pass on your personal information to any third party, including site sponsors or advertisers, without your consent. We may provide aggregate statistics about our users, sales, traffic patterns and related site information to our third-party partners (if any), but these statistics will not contain any information about you from which you could be identified.
+    2. If you enter any competitions on this website it may be necessary for us to provide your personal information to the promoters of the competition or to others that are involved in the organisation of the competition or the prize-giving.
+    3. Of course, if you post any personal information to any bulletin boards or forums, this information will immediately be made available to other users throughout the world.
+    4. We may transfer your personal information to purchasers or subsidiaries (and potential purchasers or subsidiaries) if **www.parkers.co.uk** , Parkers or Bauer Consumer Media Limited acquires, or is acquired by or merged with, another company. This will enable you, for example, to continue your relationship with **www.parkers.co.uk** or Parkers despite a change of ownership.
+    5. We may also need to provide your data to our subscription and other fulfilment agents in order to provide goods or services to you.
+    6. Finally, Bauer Consumer Media Limited is not responsible for the third party web sites that are referred to, or linked to, in this website. When you visit these other web sites your personal information might be used by others in ways that do not conform to the terms of this privacy policy.
+  4. Security and Possibility of International Transfer 
 
-The copyright and all other rights in all of the material on this site are owned by Bauer Consumer Media Limited, or the material is included with the permission of the rights owner. 
+Please note that countries outside the EEA may not have the same level of protection for personal information as countries within the EEA, but we always demand that those parties to whom we transfer data adhere to the same security procedures that we follow ourselves. By submitting your personal information, you consent to such processing and transfers in connection with such orders, offers or services and for any other purposes to which you consent at the time you provide your personal information.
 
-As a visitor to this site, you may copy material on this site for your own private or domestic purposes, but no copying, adapting or transmitting for any purpose other than your own private or domestic purposes is permitted. 
+  5. The use of 'Cookies' 
 
-**2\. The Information on this site**
+In order to enable us to provide you with a personalised browsing experience, this website uses 'cookie' information collection technology. "Cookies" are small pieces of information that are issued to your computer when you enter a website. Cookies are stored by your browser on your computer's hard drive, and they can be used for a wide range of purposes, such as identifying your computer's previous visits to this website, and to ascertain the most popular features of this website.
 
-Whilst we try to ensure that the information on this site is accurate and complete, we do not accept any liability arising from any inaccuracy or omission in the information on this site. We advise you to verify the accuracy of any information before relying on it. 
+  6. Why do we use Cookies? 
+    1. Like many other websites, this website uses cookies as they enable **www.parkers.co.uk** to identify your computer when you visit this website. For example, cookies make it possible for us to identify and automatically log in registered users of certain services on this website without the need for us to ask users for their registration details and password each time they visit. We also use cookies to develop a clearer picture of which parts of this website are the most popular to its visitors, and your preferences. You are not obliged to accept cookies and you may amend your browser's settings to prevent it from accepting cookies. Click here for instructions on how to disable cookies.
+    2. Please be aware that if you do disable cookies, certain services on this website may not be available to you and your enjoyment of this website may be impaired.
+  7. Feedback, Comments & Suggestions 
 
-**3\. Links to Other sites**
+If you have any queries about Our Privacy Policy or any queries about the protection of personal information We hold about you, please do not hesitate to contact us. Our address is: Parkers.co.uk, Bauer Media, Media House, Lynchwood, Peterborough Business Park, Peterborough, PE2 6EA.
 
-On this site you will be offered links to other sites Bauer Consumer Media Limited does not accept any responsibility for the content of those sites, the owners of which do not necessarily have any link, commercial or otherwise, with Bauer Consumer Media Limited. 
+  8. Finally 
 
-**4\. Cookies**
+If you do not agree with this Privacy Policy you should not submit your personal information on this website.
 
-Our website makes use of cookies to record user sessions and is essential for our e-commerce services. 
 
-If a user subsequently registers with us, we link previous and subsequent activities on parkers.co.uk to the current and future purchases. We only use the data collected for e-commerce functionality and for internal reports to monitor how our content is viewed and used along with its relative popularity. This allows us to make constant improvements for all of our website users. 
 
-Because the protocol used to access websites (HTTP) is stateless, our website needs to use cookies to identify and record the preferences you make during the use of our website. No personal information is stored in the cookies that are issued by the web site and the cookie will not be viewable by any other website (provided your browser does not contain flaws that allow this). To permanently disable cookies please follow the documentation that was provided with your web site browser application. Most have built-in help files that will show you a step by step guide to disable cookies. 
-
-When a website "sets a cookie" all the web server does is sends a small, unique piece of text to your browser, along with the content that was requested. At no point can the Parker's web server control what your computer does with this text - the storage mechanism and location is totally dependant on the user's web browser. Usually your web browser will allow you to specify where cookies are stored and will often have buttons to delete or view the cookies. 
-
-We also support Platform for Privacy Preferences (P3P) policies, which are a formal, well-specified and supported mechanism for ensuring that users can be informed about privacy policies before they release personal information. The compact P3P policy is contained in the HTTP header of every request we serve to users.
-
-Third party advertising cookies: some of the advertisements you see on this site are generated by third parties. Some of these third parties generate their own "anonymous cookies", for the same reasons we do: to track how many unique users have seen a particular ad, and how many times they have seen it. These third party cookies cannot be used to identify an individual user, but only for statistical purposes, for example, in providing you with advertisements that are more relevant to your interests. Additionally, the companies that generate these cookies have their own, very strict, privacy policies but we do not have access to these cookies; other than allowing them to be served, we have no role to play in these cookies at all (although we may use statistical information arising from these third party cookies and provided to us by third parties, to improve the targeting of advertisements to users).
-
- **5\. Collection of personal details**
-
-If you contact us by completing a form on the web site, your e-mail address and, optionally, other personal information will be stored on our servers. This information will be used to contact you and to help us deal with your queries. To purchase any of our services or products you must register your details with the website. We secure all personal data using a password that the user chooses. If you wish to add, modify or delete any of the information that we hold about you, please login at: <https://secure.parkers.co.uk/myparkers/> or use the contact us link (at the bottom of every page). 
-
-Any personal information you send us, for whatever purpose, is held in the strictest confidence and will not be disclosed to a third party without your express permission, unless legally required. We meet the UK Data Protection Requirements and our organisation is registered with the Data Protection Registrar. 
-
-**6\. General Terms**
-
-Nothing in these Terms of Use shall restrict or exclude any liability that we have to any party which can not be excluded by law. These Terms of Use shall be governed by English law and the courts of England and Wales shall have exclusive jurisdiction over any disputes arising in relation with this Web Site. 
-
-**7\. Feedback**
-
-If you have any concerns at all about our privacy policy, or have a dispute about how we are handling your personal data, then please let us know by clicking the contact us link.
