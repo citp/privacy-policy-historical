@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the craiglook.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621092306id_/http%3A//www.claz.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craiglook.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130064333id_/http%3A//claz.org/privacy.html) for the most accurate reproduction.*
 
 # claz.org: Privacy Policy
 
