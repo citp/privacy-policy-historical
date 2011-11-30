@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydiplomasoon.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127010102id_/http%3A//mydiplomasoon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydiplomasoon.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130121434id_/http%3A//www.mydiplomasoon.com/privacy.html) for the most accurate reproduction.*
 
 # My Diplomasoon.com
 
