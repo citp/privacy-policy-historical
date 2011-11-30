@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the muohio.edu privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228191327id_/http%3A//www.miami.muohio.edu/about-miami/publications-and-policies/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muohio.edu privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130212718id_/http%3A//www.miami.muohio.edu/about-miami/publications-and-policies/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement | Publications and Policies | About Miami | Miami University
 
 **Miami Cares About Your Privacy**
 
@@ -10,7 +10,7 @@ We know that many people are concerned about threats to their personal privacy, 
 
 Miami University is committed to ensuring the privacy and accuracy of your confidential information. We do not actively share personal information gathered from our Web servers. However, because Miami is a public institution, some information collected from the university website, including information from our server logs, e-mails delivered to the university, and information collected from Web-based forms, may be subject to the Ohio Public Records Act. This means that while we do not actively share information, in some cases we may be compelled by law to release information gathered from our Web servers.
 
-Miami University also complies with the Family Educational Rights and Privacy Act (FERPA), which prohibits the release of education records except in limited circumstances (i.e., with the student’s permission, to parents of dependent students, and in response to a valid court order). For more details on FERPA, see [Part I, Chapter 12 of The Student Handbook](http://www.units.muohio.edu/secretary/documents/2010-2011StudentHandbook.pdf#page=26) (PDF). Although FERPA regulations apply only to students, Miami University is equally committed to protecting the privacy of all visitors to our website. Miami also complies with the applicable provisions of the Gramm-Leach-Bliley Act and the Health Insurance Portability and Accountability Act (HIPAA).
+Miami University also complies with the Family Educational Rights and Privacy Act (FERPA), which prohibits the release of education records except in limited circumstances (i.e., with the student’s permission, to parents of dependent students, and in response to a valid court order). For more details on FERPA, see [Part I, Chapter 12 of The Student Handbook](http://www.units.muohio.edu/secretary/documents/Student_Handbook.pdf#page=26) (PDF). Although FERPA regulations apply only to students, Miami University is equally committed to protecting the privacy of all visitors to our website. Miami also complies with the applicable provisions of the Gramm-Leach-Bliley Act and the Health Insurance Portability and Accountability Act (HIPAA).
 
 **Sharing of Information**
 
@@ -19,7 +19,7 @@ Miami University does, however, share information with other parties at the requ
 
 Consistent with FERPA, we do not release personal student information, other than public directory information, to other parties unless we have legal authorization to do so. Student directory information may be released without the student’s written consent. Directory information includes: name, local and home address, e-mail address, userid, photo, telephone number, name and address of parent(s) or guardian(s), date and place of birth, major field of study, participation in Miami activities and sports, weight and height of members of athletic teams, dates of attendance at Miami, degrees, certificates and awards received, student classification, and the most recent previous educational institution attended. If a student does not want their directory information released, the student may request in writing that it not be released and file the request with the Office of the Registrar.
 
-You can read more about directory information and Miami’s student records policy in [Part I, Chapter 12 of The Student Handbook](http://www.units.muohio.edu/secretary/documents/2010-2011StudentHandbook.pdf#page=26) (PDF).
+You can read more about directory information and Miami’s student records policy in [Part I, Chapter 12 of The Student Handbook](http://www.units.muohio.edu/secretary/documents/Student_Handbook.pdf#page=26) (PDF).
 
 **Privacy and Public Records Requests**
 
