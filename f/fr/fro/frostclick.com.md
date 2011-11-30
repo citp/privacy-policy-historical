@@ -1,27 +1,28 @@
-> *The following text is extracted and transformed from the frostclick.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629222939id_/http%3A//www.frostwire.com/%3Fid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frostclick.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130141808id_/http%3A//www.frostwire.com/%3Fid%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy - FrostWire.com
+# Privacy Policy - FrostWire.com - BitTorrent So Simple
 
-Last Modified: March 7th, 2008
+##   Privacy Policy
+
+**Last Modified: March 7th, 2008**
 
 Frostwire is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of the website www.frostwire.com. This policy may change from time to time so please check back periodically.
 
 This policy will let you know:
 
-  1. What personally identifiable information is collected from you;
-  2. What cookies are and how they are used;
-  3. How your information is used;
-  4. Who is collecting your information;
-  5. Special Adsense Notification for FrostClick.com
-  6. With whom your information may be shared;
-  7. What choices are available to you regarding collection, use, and distribution of your information;
-  8. How you can access, update or delete your information;
-  9. The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information;
-  10. How Frostwire protects children's privacy; and
-  11. What else you should know about your online privacy.
+  * What personally identifiable information is collected from you;
+  * What cookies are and how they are used;
+  * How your information is used;
+  * Who is collecting your information;
+  * Special Adsense Notification for FrostClick.com
+  * With whom your information may be shared;
+  * What choices are available to you regarding collection, use, and distribution of your information;
+  * How you can access, update or delete your information;
+  * The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information;
+  * How Frostwire protects children's privacy; and
+  * What else you should know about your online privacy.
 
-
-
+  
 **What personally identifiable information does Frostwire collect from me?**
 
 Frostwire endeavors to collect as little personally identifiable information as possible. However, use of the online forum on our site requires the disclosure of some personal information when you register. During registration, Frostwire asks for your email address, whether you have attained the age of thirteen years old, and other communication methods which you may provide at your election.
@@ -34,12 +35,13 @@ As part of offering and providing customizable and personalized services, Frostw
 
 Generally, we use cookies to:
 
-    1. Streamline your experience with the website through use of the forum. This cookie is set when you register or "Sign In" and is modified when you "Sign Out" of our services.
-    2. Frostwire does not track or monitor audience size and forum usage.
-    3. Frostwire may collect other personally identifiable information in order to track usage of the site, including approximate geography, language, and computer hardware identification.
+  * Streamline your experience with the website through use of the forum.   
+This cookie is set when you register or "Sign In" and is modified when you "Sign Out" of our services.
+  * Frostwire does not track or monitor audience size and forum usage.
+  * Frostwire may collect other personally identifiable information in order to track usage of the site, including approximate geography,   
+language, and computer hardware identification.
 
-
-
+  
 **How does Frostwire use my information?**
 
 Frostwire currently does not utilize, parse, or analyze any personally identifiable information gathered on Frostwire.com. Frostwire does reserve the right to change its behavior and use of information in the future in order to provide you, the user, with a customized browsing experience. This includes personalization services, interactive communications, and many other types of services, all of which are completely free to you. In order to provide services free of charge, we may display advertisements. By knowing a little about you, Frostwire is able to deliver more relevant advertisements and content, and hence better service, to you.
@@ -107,3 +109,5 @@ Please be aware that by visiting this site or using Frostwire.com Services, you 
 Please also read the Terms of Service establishing the use, disclaimers, and limitations of liability governing the use of the Site, the Services and the other BitTorrent services and application
 
 Please be aware that Frostwire does not solicit or anticipate use of this site by any individuals or entities outside of the jurisdiction of the United States.
+
+## 
