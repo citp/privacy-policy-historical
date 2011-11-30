@@ -1,8 +1,28 @@
-> *The following text is extracted and transformed from the utsavsarees.in privacy policy that was archived on 2008-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080615181511id_/http%3A//www.utsavsarees.in/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utsavsarees.in privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130123152id_/http%3A//www.utsavfashion.in/help/privacypolicy.htm) for the most accurate reproduction.*
 
-# privacy policy for Utsavsarees.in - Specialized in Indian clothing forSalwar Kameez, Bridal Sarees, Lehengas, Pakistani Bridal Wear, Indian Lehngas, Sarees, Salwar Kameez Wholesale, Chania Choli
+# privacypolicy.htm - Utsavfashion.in - Specialized in Indian clothing for Designer Bridal Sarees, Embroidered Lehengas, Fancy Salwar Kameez and lot more at affordable prices
 
-  
-www.utsavsarees.in values its customers and respects their privacy. We collect customer information in an effort to improve your shopping experience and to communicate with you about our products, services, and promotions. www.utsavsarees.in recognizes that it must maintain and use customer information responsibly. We do not sell or rent the information you provide to us online to third parties. However, we do share your information with third parties under certain circumstances. 
+We are committed to protecting your privacy. We will only use the information that we collect about you lawfully.
 
-This policy describes the personal information we collect about you, why we collect it, how we use it and when we share it with third parties. If you have any questions about our privacy policy, click here to contact www.utsavsarees.in customer service via email, call us at +91-98106 80078 or write us at Utsav Sarees, 67-68, Saraogi Mansion, M.I.Road, Jaipur - 302003, Rajasthan, India. If our information practices   change in the future, we will let you know by posting the policy changes on our web site or by communicating directly with you. We will notify you of any such change before we use your information in a manner not previously disclosed in our privacy policy. You will have the opportunity at that time to opt out of any new use of your information.
+We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service.
+
+We will not e-mail you in the future unless you have given us your consent.
+
+We will give you the chance to refuse any marketing email from us or from another trader in the future.
+
+The type of information we will collect about you includes:
+
+Your Name  
+Address  
+Phone Number  
+Email Address
+
+We will never collect sensitive information about you without your explicit consent.
+
+The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find any inaccuracies we will delete or correct it promptly.
+
+The personal information which we hold will be held securely in accordance with our internal security policy and the law.
+
+We may use technology to track the patterns of behavior of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.
+
+If you have any questions/comments about privacy, you should contact us.
