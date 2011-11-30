@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vanderlande.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601234809id_/http%3A//vanderlande.com/Privacy-Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanderlande.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130143646id_/http%3A//vanderlande.com/Privacy-Policy.htm) for the most accurate reproduction.*
 
 # Vanderlande | Privacy Policy
 
