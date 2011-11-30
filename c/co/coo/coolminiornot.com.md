@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the coolminiornot.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523181021id_/http%3A//www.coolminiornot.com/go.php%3Fgo%3Dprivacyphp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolminiornot.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130103342id_/http%3A//www.coolminiornot.com/privacy) for the most accurate reproduction.*
 
-# CoolMiniOrNot - Inspiration in Painted Minatures
-
-**Privacy Policy**
+# CoolMiniOrNot - The Internet's largest gallery of Painted Miniatures and Miniature Painting art - Privacy Static
 
 We have a privacy statement to give you confidence that the information you supply to CoolMiniOrNot will be exclusively used by us.
 
@@ -22,7 +20,7 @@ Be aware that if you take part in the Forums, whatever you choose to post is mad
 
 The same warning regarding Public Forums applies to Private User Messages.  Do not send confidential information to other users who may not be who they appear to be.
 
-## Other stuff
+**Other stuff**
 
 CPX Interactive is deeply committed to protecting the privacy of Internet users. 
 
