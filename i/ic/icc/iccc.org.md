@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iccc.org privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201070803id_/http%3A//www.iccc.org/Website/ICCC/Website.nsf/WebPage/PrivacyPolicy%3FOpenDocument%26ppos%3D0%26spos%3D0%26tpos%3D0%26rsn%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iccc.org privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130152037id_/http%3A//www.iccc.org/Website/ICCC/Website.nsf/WebPage/PrivacyPolicy%3FOpenDocument%26ppos%3D0%26spos%3D0%26tpos%3D0%26rsn%3D) for the most accurate reproduction.*
 
 # ICCC - Privacy Policy
 
@@ -66,9 +66,7 @@ In the event of questions about: (i) access to your Personal Information; (ii) o
 |   
 ---  
   
-[]() [](https://web.archive.org/Website/ICCC/Website.nsf/WebPage/ICCCSponsors?OpenDocument&ppos=5&spos=3&tpos=0&rsn=y&Language=EN)  
-  
-   
+[](https://web.archive.org/Website/ICCC/Website.nsf/WebPage/ICCCSponsors?OpenDocument&ppos=5&spos=3&tpos=0&rsn=y&Language=EN)  
   
 ---  
 |   
@@ -76,6 +74,6 @@ In the event of questions about: (i) access to your Personal Information; (ii) o
 |   
 []()|   
   
-| **Montreal Thursday, November 25, 2010[Cocktail reception](https://web.archive.org/Website/ICCC/Calendar.nsf/vwLookupCalendarAllEventsByUNID/EFFF63368BB92897852577DE00628DF7?OpenDocument&ppos=1&spos=0)** **TORONTO Sunday, November 28, 2010[Holiday Dinner And Dance](https://web.archive.org/Website/ICCC/Calendar.nsf/vwLookupCalendarAllEventsByUNID/3D65217AC1034FDC852577CB004B895C?OpenDocument&ppos=1&spos=0)** **Mississauga Thursday, December 2, 2010[Doing Business in India](https://web.archive.org/Website/ICCC/Calendar.nsf/vwLookupCalendarAllEventsByUNID/E31DD3D92864B565852577DE006D0C6F?OpenDocument&ppos=1&spos=0)** **Montreal Friday, December 3, 2010[Business Culture in India](https://web.archive.org/Website/ICCC/Calendar.nsf/vwLookupCalendarAllEventsByUNID/DFDA4C3B2B6E5CCE852577E5005D586F?OpenDocument&ppos=1&spos=0)** **TORONTO Wednesday, December 8, 2010[IT Professionals Networking](https://web.archive.org/Website/ICCC/Calendar.nsf/vwLookupCalendarAllEventsByUNID/5634E418AD68E751852577E5005E331E?OpenDocument&ppos=1&spos=0)**  
+| **Mississauga Wednesday, November 9, 2011[Business Networking Event](https://web.archive.org/Website/ICCC/Calendar.nsf/vwLookupCalendarAllEventsByUNID/981CED6829AD065E8525792F005888C5?OpenDocument&ppos=1&spos=0)** **TORONTO Thursday, November 10, 2011[Lisa Raitt on Canada's Economy](https://web.archive.org/Website/ICCC/Calendar.nsf/vwLookupCalendarAllEventsByUNID/2C785EA8A3CDAF8B8525794200716E0F?OpenDocument&ppos=1&spos=0)** **Alberta Saturday, November 12, 2011[Annual Gala](https://web.archive.org/Website/ICCC/Calendar.nsf/vwLookupCalendarAllEventsByUNID/66E029D3CABD48AA852579290066792C?OpenDocument&ppos=1&spos=0)** **TORONTO Thursday, November 24, 2011[Chai with CEO: Patrick D'Souza](https://web.archive.org/Website/ICCC/Calendar.nsf/vwLookupCalendarAllEventsByUNID/C13B91CE65A570A685257949006D57BD?OpenDocument&ppos=1&spos=0)** **Mississauga Friday, December 2, 2011[Holiday Dinner and Dance](https://web.archive.org/Website/ICCC/Calendar.nsf/vwLookupCalendarAllEventsByUNID/9126F3801865BAC1852579210061DAEE?OpenDocument&ppos=1&spos=0)**  
 ---|---  
 | [](https://web.archive.org/Website/ICCC/Calendar.nsf/Web%20Course%20Calendar?OpenForm&ppos=1&spos=0&rsn=0)
