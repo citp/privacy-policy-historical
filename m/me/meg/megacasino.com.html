@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the megacasino.com privacy policy that was archived on 2011-01-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110120135954id_/http%3A//megacasino.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the megacasino.com privacy policy that was archived on 2011-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111130105158id_/http%3A//www.megacasino.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>MegaCasino.com - slots, video slots, roulette, video poker, blackjack</title>
@@ -10,19 +10,19 @@
 <meta name="robots" content="index, follow">
 <meta name="GOOGLEBOT" content="index, follow">
 
-
-
 <script language="javascript" type="text/javascript" src="http://www.megacasino.com/js/countfuncs.js"></script>
 <script language="javascript">
+
+var current_lang = 'en';
 
 	
 	function switchLangNew(lang_selector) {  
 
 		if (lang_selector == "JP")
-			document.location.href = 'http://www.megacasino.jp/?aff=170001'
+			document.location.href = 'http://www.megacasino.jp/?aff=170168'
 		else
 			if (lang_selector == "IT")
-				//document.location.href = 'http://italian.megacasino.com/?aff=170001'
+				//document.location.href = 'http://italian.megacasino.com/?aff=170168'
 				document.location.href = 'http://www.megacasino.com/' + lang_selector; 
 			else
 				document.location.href = 'http://www.megacasino.com/' + lang_selector; 
@@ -189,10 +189,97 @@ function OpenPopupV(URL,Width,Height)
 
 <script language="javascript" src="http://www.megacasino.com/js/flashObject.js" type="text/javascript"></script>
 
+<!-- //////  POPUP ///// -->
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://www.megacasino.com/js/jquery.simplemodal.1.4.1.min.js"></script>
 <style>
-.cs_link {color:#FFFFFF; text-decoration:underline;}
-#dloption A {color:#FFFFFF; text-decoration:none;}
+    #simplemodal-overlay {background-color:#000;}
+    #simplemodal-container {background-color:#333; border:8px solid #444; padding:12px;}
+    #simplemodal-container a.modalCloseImg {background:url(http://d2rxk8rqjhylul.cloudfront.net/img/x.png) no-repeat; width:25px; height:29px; display:inline; z-index:3200; position:absolute; top:-15px; right:-18px; cursor:pointer;}
+    .simplemodal-wrap {font-weight:bold; font-size:14px;}
 </style>
+<!--[if lt IE 7]>
+<style type='text/css'>
+    #simplemodal-container a.modalCloseImg {
+        background:none;
+        right:-14px;
+        width:22px;
+        height:26px;
+        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
+            src='img/x.png', sizingMethod='scale'
+        );
+    }
+</style>
+<![endif]-->
+
+<script>
+function createCookie(name,value,days) {
+    if (days) {
+        var date = new Date();
+        date.setTime(date.getTime()+(days*60*60*1000));
+        var expires = "; expires="+date.toGMTString();
+    } else {
+        var expires = "";
+        document.cookie = name+"="+value+expires+"; path=/";
+    }
+}
+
+function readCookie(name) {
+    var nameEQ = name + "=";
+    var ca = document.cookie.split(';');
+    for(var i=0;i < ca.length;i++) {
+        var c = ca[i];
+        while (c.charAt(0)==' ') c = c.substring(1,c.length);
+        if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+    }
+    return '';
+}
+
+function getParameterByName(name) {
+    name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+    var regexS = "[\\?&]"+name+"=([^&#]*)";
+    var regex = new RegExp( regexS );
+    var results = regex.exec( window.location.href );
+    if(results == null)
+        return "";
+    else
+        return decodeURIComponent(results[1].replace(/\+/g, " "));
+}
+</script>
+
+
+<script>
+$(document).ready(function() {
+    if (readCookie('main_pop') != '1') {
+        var test = getParameterByName('test');
+        var xlang = getParameterByName('lang');
+        var url = '';
+        if(test == '1') {
+            url = 'http://www.playeroffers.com/main_pop.php?site=megacasino&lang=' + current_lang + '&test=1&callback=?';
+        } else {
+            url = 'http://www.playeroffers.com/main_pop.php?site=megacasino&lang=' + xlang + '&callback=?';
+        }
+        $.getJSON(url, function(json) {
+            if(json.msg != '') {
+                $.modal(json.msg, {
+                    maxWidth:500,
+                    minHeight:150,
+                    onClose: function (dialog) {
+                        createCookie('main_pop','1',0);
+                        $.modal.close();
+                    }
+                });
+            }
+        });
+    }
+});
+</script>
+
+
+<!-- //////  POPUP ///// -->
+
+
 
 </head><body><div id="cnt1" style="display:none;"></div>
 <link rel="SHORTCUT ICON" href="MegaCasino.png">
@@ -229,6 +316,7 @@ function OpenPopupV(URL,Width,Height)
 	<a onclick="javascript:switchLangNew('NL');return false;">Dutch</a>
 	<a onclick="javascript:switchLangNew('DK');return false;">Dansk</a>
 	<a onclick="javascript:switchLangNew('FI');return false;">Suomi</a>
+	<a onclick="javascript:switchLangNew('RU');return false;">Pyсский</a>
 </div>
 		
 <div class="header">
@@ -283,11 +371,11 @@ cssdropdown.startchrome("chromemenu")
 		
 		<div style="width:236px; margin-left:10px; margin-top:5px;">
 			<div style="background: url(images/new/inner/blue_box_226.gif) no-repeat top left; width:236px; height:48px; font-size:22px; font-weight:bold; padding-left:15px; padding-top:10px;">Jackpots</div>
-			<div><div class="jackpot"><div class="jackpot_img"><img src="http://www.megacasino.com/images/new/inner/games_icons/millionaire_genie.jpg" border="0"></div><div class="jackpot_amount" style="margin-top:13px; color:#e97900; font-weight:bold; font-size:11px;"><span style="color:#00a7d7;">Millionaire Genie</span><br><br>€<span id="jackpot1" style="color:#e97900;">241,526.47</span><input type="hidden" name="total1" id="total1" value="241526.47"></div></div><div class="jackpot" style="margin-top:0px;"><div class="jackpot_img"><img src="http://www.megacasino.com/images/new/inner/games_icons/good_and_evil.jpg" border="0"></div><div class="jackpot_amount" style="margin-top:10px; color:#e97900; font-weight:bold; font-size:11px;"><span style="color:#00a7d7;">Good and Evil</span><br>€<span id="jackpot2" style="color:#e97900;">247,516.76</span><input type="hidden" name="total2" id="total2" value="247516.76"></div></div>
+			<div><div class="jackpot"><div class="jackpot_img"><img src="http://www.megacasino.com/images/new/inner/games_icons/millionaire_genie.jpg" border="0"></div><div class="jackpot_amount" style="margin-top:13px; color:#e97900; font-weight:bold; font-size:11px;"><span style="color:#00a7d7;">Millionaire Genie</span><br><br>€<span id="jackpot1" style="color:#e97900;">263,312.76</span><input type="hidden" name="total1" id="total1" value="263312.76"></div></div><div class="jackpot" style="margin-top:0px;"><div class="jackpot_img"><img src="http://www.megacasino.com/images/new/inner/games_icons/good_and_evil.jpg" border="0"></div><div class="jackpot_amount" style="margin-top:10px; color:#e97900; font-weight:bold; font-size:11px;"><span style="color:#00a7d7;">Good and Evil</span><br>€<span id="jackpot2" style="color:#e97900;">260,564.38</span><input type="hidden" name="total2" id="total2" value="260564.38"></div></div>
 </div>
 		</div>
 		
-		<div style="margin-left:28px; margin-top:15px;"><a onclick="javascript:OpenPopupV('Calendar.html',720,700);return false;" style="cursor:pointer;"><img src="images/new/inner/calender_gray.jpg"></a></div>
+		<div style="margin-left:28px; margin-top:15px;"><a onclick="javascript:OpenPopupV('Calendar.html',700,700);return false;" style="cursor:pointer;"><img src="images/new/inner/calender_gray.jpg"></a></div>
 </div>
 
 <script language="javascript" type="text/javascript">
@@ -304,13 +392,13 @@ IncreaseJackpot2();
 				  <p>MegaCasino values and respects the privacy of each and every one of its members, which we safeguard through our Privacy Policy. Please take the time to read the contents of this policy and familiarize yourself with its contents. </p>
 				  <p>
 					</p><h2>Security </h2>
-MegaCasino goes to great lengths to guarantee that your personal and financial information remains 100% secure and confidential. We employ industry standard security protocols (128 bit, SSL data encryption technology) to ensure that all transactions including deposits and withdrawals are carried out in a totally secure manner. This technology protects you from having your information intercepted by anyone other than MegaCasino while it is being transmitted between you and MegaCasino. 
+MegaCasino goes to great lengths to guarantee that your personal and financial information remains 100% secure and confidential. We employ industry standard security protocols (128 bit, SSL data encryption technology) to ensure that all transactions including deposits and withdrawals are carried out in a totally secure manner. This technology protects you from having your information intercepted by anyone other than MegaCasino while it is being transmitted between you and MegaCasino.
 
 
 				  <p></p>
 				  <p>
 					</p><h2>Personal Information </h2>
-As part of the MegaCasino registration process, we ask for a number of personal details, including your first and last name, physical and billing address as well as e-mail address and date of birth. We will need this information to open your account, to process transactions and for customer service purposes. Rest assured that under no circumstances will we pass on or sell these details to a third party. This information may also be used in conjunction with your private Username and Password to verify your identity. The only exception to this policy is if you have a big win - then we may use your username and/or first name for promotional purposes. 
+As part of the MegaCasino registration process, we ask for a number of personal details, including your first and last name, home and billing address as well as e-mail address and date of birth. We will need this information to open your account, to process transactions and for customer service purposes. Rest assured that under no circumstances will we pass on or sell these details to a third party. This information may also be used in conjunction with your private Username and Password to verify your identity. The only exception to this policy is if you have a big win - then we may use your username and/or first name for promotional purposes. 
 
 
 				  <p></p>
@@ -322,13 +410,14 @@ Cookies are small files containing information that enables a website to track i
 				  <p></p>
 				  <p>
 					</p><h2>Advertising System </h2>
-The MegaCasino advertising system logs IP addresses in order to supply more accurate marketing features, such as language specific banners. It does NOT record any e-mail addresses, so rest assured that you will not receive any spam mail as a result of giving us your address.
+The MegaCasino advertising system logs IP addresses in order to supply more accurate marketing features, such as language specific banners. It does NOT record any e-mail addresses, so rest assured that you will not receive any spam mail as a result of giving us your address. 
+
 
 
 				  <p></p>
 				  <p>
 					</p><h2>User Responsibility </h2>
-As a member of MegaCasino, you are solely responsible for all actions taken using your MegaCasino account. We advise you to keep your Username and Password secret at all times: under no circumstances should you give out this sensitive information to other players at MegaCasino or anywhere else online or offline. If for some reason you believe that your Username or Password have been compromised in any way, you should notify the MegaCasino Customer Support team immediately.
+As a member of MegaCasino, you are solely responsible for all actions taken using your MegaCasino account. We advise you to keep your Username and Password secret at all times: under no circumstances should you give out this sensitive information to other players at MegaCasino or anywhere else online or offline. If for some reason you believe that your Username or Password have been compromised in any way, you should notify the MegaCasino Customer Support team immediately. 
 
 
 				  <p></p>
@@ -336,7 +425,7 @@ As a member of MegaCasino, you are solely responsible for all actions taken usin
 					</p><h2>Limits of Confidentiality </h2>
 For legal reasons, MegaCasino may be required under certain circumstances to disclose your personal information. Reasons for this may include: 1) to protect and defend our rights or property; 2) to comply with any legal process served on us. In addition, we reserve the right to disclose your personal information, including player identification, name, physical address, billing address, e-mail and/or phone number, to third parties as we believe necessary or appropriate in connection with any investigation of fraud, intellectual property infringement, piracy or any other unlawful or prohibited activity that might expose us to legal liability.
 <br><br>
-MegaCasino may occasionally make changes to the above Privacy Policy. Any such changes will be posted on this page and it is the responsibility of the player to visit this page on a regular basis in order to stay informed of changes that may occur. If you have any questions or concerns regarding security and privacy, please do not hesitate to contact our 24/7 Customer Support Team at any time, and they will be happy to assist you.
+MegaCasino may occasionally make changes to the above Privacy Policy. Any such changes will be posted on this page and it is the responsibility of the player to visit this page on a regular basis in order to stay informed of changes that may occur. If you have any questions or concerns regarding security and privacy, please do not hesitate to contact our 24/7 Customer Support Team at any time, and they will be happy to assist you. 
 
 
 				  <p></p>
@@ -373,14 +462,17 @@ MegaCasino may occasionally make changes to the above Privacy Policy. Any such c
 			Mega casino is an innovative online casino featuring a large variety of Casino and Instant Win games. To begin playing, you simply need to download and install our software. Mega Casino is available anytime and from anywhere! We offer the best Vegas Style casino games: including several Blackjack games, variations of Roulette, plus Slot Machines, Baccarat, Video Poker and Craps. We are always offering Instant Cash Payouts, MEGA JACKPOTS and huge Progressive Jackpots. At Mega Casino we cater to all types of players; whatever your budget or level of experience we have exactly the right games and options. Check out our fantastic casino promotions or contact our 24/7 Casino Support Staff directly for further details. Get started today and join our regular players from all around the world; enjoy our top quality casino software, and fun and exciting games.
 		</div>
 	
-		<div class="footer_inner_owned">This site is owned and operated by SK Processing LTD</div>
 		<div class="footer_inner_logos">
+			
 			<a title="skillonnet" href="http://www.skillonnet.com/" target="_blank"><img src="images/new/footer_logos/SkillOnNet.jpg"></a>&nbsp;&nbsp;
 			<a href="http://www.megacasino.com/cashier.asp#1"><img src="images/new/footer_logos/MasterCard.jpg"></a>&nbsp;&nbsp;
+			<a href="http://www.lga.org.mt/lga/home.aspx" target="_blank"><img src="images/new/footer_logos/lga.jpg"></a>&nbsp;&nbsp;
 			<img src="images/new/footer_logos/iTechLabs.jpg">&nbsp;&nbsp;
-			<a href="http://www.megacasino.com/res_gaming.asp"><img src="images/new/footer_logos/18.png"></a>&nbsp;&nbsp;
+			<img src="images/new/footer_logos/18.png">&nbsp;&nbsp;
 			<img src="images/new/footer_logos/SecureSite.png">&nbsp;&nbsp;
 		</div>
+
+		<div style="margin-top:10px;">MegaCasino.com is operated by Skill On Net Limited which is licensed by the Lotteries and Gaming Authority of Malta (LGA) under license number LGA/CL1/563/2009</div>
 	
 	</div>
 	
@@ -390,6 +482,7 @@ MegaCasino may occasionally make changes to the above Privacy Policy. Any such c
 	<div class="footer_inner_margin">&nbsp;</div>
 	
 	<!-- #footer -->
+
 <script language="JavaScript1.2">
 if (typeof(tagVars) == "undefined") tagVars = "";
 tagVars += "&SESSIONVAR!status=Not downloaded&SESSIONVAR!account=";
@@ -399,9 +492,7 @@ tagVars += "&SESSIONVAR!status=Not downloaded&SESSIONVAR!account=";
 var lpPosY = 100;
 </script>
 <!-- END Invitation Positioning  -->
-<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
-<script language="javascript" src="http://server.iad.liveperson.net/hc/34460220/x.js?cmd=file&amp;file=chatScript3&amp;site=34460220&amp;&amp;imageUrl=http://www.Megacasino.com/Images/LP/"> </script>
-<!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><img height="1" width="1" src="http://view.atdmt.com/action/MegaCasino_UK_Landing_181010">
+<img height="1" width="1" src="http://view.atdmt.com/action/MegaCasino_UK_Landing_181010">
 <!-- GA -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
