@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domesticsale.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428124244id_/http%3A//www.domesticsale.com/help-privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domesticsale.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130104710id_/http%3A//www.domesticsale.com/help-privacy.html) for the most accurate reproduction.*
 
 # DomesticSale.com - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 ## Privacy policy
 
-DomesticSale has established its privacy policy to explain how your information within the purview of DomesticSale is protected, collected and used. This policy may be updated by DomesticSale. DomesticSale will post notices of its policy changes on the DomesticSale site at: [http://www.DomesticSale.com/help-privacy.shtml](http://www.domesticsale.com/help-privacy.shtml)
+DomesticSale has established its privacy policy to explain how your information within the purview of DomesticSale is protected, collected and used. This policy may be updated by DomesticSale. DomesticSale will post notices of its policy changes on the DomesticSale site at: [http://www.DomesticSale.com/help-privacy.html](http://www.domesticsale.com/help-privacy.html)
 
  **PRIVACY PROTECTION**
 
@@ -20,7 +20,7 @@ DomesticSale does not store full credit card information but DomesticSale may st
 
 Your personal information may be collected by DomesticSale if you provide it in the feedback or comments, post it on our classifieds, forums, guestbook or other publishing areas of the website.
 
-Should you expect your personal information to be private please do not post any personal information on DomesticSale site. Standard web log entries for each page served, including visitor’s IP address, page URL, and timestamp are collected by DomesticSale web logs in order to help diagnose problem with DomesticSale servers, to administer DomesticSale site, and to otherwise enhance visitor’s use of DomesticSale sites and services. 
+Should you expect your personal information to be private please do not post any personal information on DomesticSale site. Standard web log entries for each page served, including visitors IP address, page URL, and timestamp are collected by DomesticSale web logs in order to help diagnose problem with DomesticSale servers, to administer DomesticSale site, and to otherwise enhance visitors use of DomesticSale sites and services. 
 
 **DATA STORAGE**
 
@@ -45,10 +45,10 @@ Testimonials
 "Bravo Domestic sale team! The **best website** for free ads i ever seen(and i have seen some)! Excellent job! Keep it up!  
 Best Regards,  
 Melania"  
- _Santiago, Chile_
+_Santiago, Chile_
 
 "My ad was on less than a week and I had a couple take both of my Beagles to their forever homes. Thanks for having **such a great place to sell stuff** You get 10 stars **********"  
- _Dublin, GA_
+_Dublin, GA_
 
 "This website is great! I listed my Dodge, Neon and **in 2 hours** of listing it I got a offer for full price! This site is recommended!!!"
 
@@ -59,7 +59,7 @@ _Mineral Wells, WV_
 Thanks again, Maryann Ward.  
  _Kemptville, Ontario_
 
- **"Thank you** for helping me find a new home for my puppy! I placed the ad on the 13th and **got 180 responses in 2 days!** I was able to interview to find the PERFECT home on the 16th!"  
+**"Thank you** for helping me find a new home for my puppy! I placed the ad on the 13th and **got 180 responses in 2 days!** I was able to interview to find the PERFECT home on the 16th!"  
 Rebecca  
  _Gainesville FL_
 
@@ -69,7 +69,7 @@ Regards, Kerry *pinkbike*
 I love this site too! The guy who set this up **really knows** what we shoe people need. Thanks!! :)"  
 ELENITA SCHNEIDER
 
- **This site is fantastic.** Placed an ad to sell an antique 55 gal. aquarium and was **sold within two days**. Talk about results! Thanks!  
+**This site is fantastic.** Placed an ad to sell an antique 55 gal. aquarium and was **sold within two days**. Talk about results! Thanks!  
 Perry Pono  
  _Rhode Island_
 
