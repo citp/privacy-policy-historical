@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learnthat.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526154946id_/http%3A//learnthat.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnthat.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130051531id_/http%3A//learnthat.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Learnthat.com
 
