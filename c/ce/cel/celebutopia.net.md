@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebutopia.net privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527123915id_/http%3A//www.celebutopia.net/%3Fpage_id%3D1168) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebutopia.net privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130100118id_/http%3A//www.celebutopia.net/%3Fpage_id%3D1168) for the most accurate reproduction.*
 
 # Privacy
 
