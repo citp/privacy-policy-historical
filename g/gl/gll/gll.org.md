@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gll.org privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524054049id_/http%3A//www.gll.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gll.org privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130072612id_/http%3A//www.gll.org/privacy.asp) for the most accurate reproduction.*
 
 # GLL.org
 
@@ -19,3 +19,31 @@ We offer links to other Web sites. Please note: When you click on links to other
 If our policy on information collection or uses changes, will amend this privacy policy.
 
 If problems arise, users may contact GLL. We are committed to resolving disputes as soon as is possible.
+
+All GLL leisure centres are open as usual during the Public Sector strike on Wednesday 30 November
+
+[](http://www.gll.org/onlinebooking)
+
+[](http://www.gll.org/swimlondon/) [](http://www.gymlondon.org/)
+
+[](https://www.sportscourses.org/home/default.aspx)
+
+[](http://www.gll.org/borough/tower-hamlets.asp)
+
+**Centre Info**
+
+5 Old Ford Road  
+Bethnal Green  
+London
+
+E2 9PJ
+
+**T:**  020 8980 2243  
+**E:**  
+
+New Programmes available; view news articles:  
+*sport4women  
+*More Active Health  
+
+
+Or enter your postcode
