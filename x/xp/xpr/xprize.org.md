@@ -1,64 +1,106 @@
-> *The following text is extracted and transformed from the xprize.org privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524155503id_/http%3A//www.xprize.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xprize.org privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130040546id_/http%3A//www.xprize.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | X PRIZE Foundation
+# X PRIZE Privacy Policy | X PRIZE Foundation
 
-  
+Effective Date: October 26, 2011
+
+Welcome to this website (the “Website”). This Privacy Policy (“Policy”) governs the information that X PRIZE FOUNDATION (“X PRIZE” or “we” or “us”) collects through this Website and through e-mails you send us. We have implemented this Policy to describe the types of information that we collect through the Website, what we do with it, how we protect it, and when we disclose it to third parties.
+
+If you are registering for or participating in a Challenge, Prize, or other competition, your registration and participation is subject to the Master Team Agreement and any other rules and regulations applicable to such competition (collectively, “Rules”). If this Policy conflicts with or is inconsistent with any Rules, such Rules will govern and be given precedence. Without limitation, any provisions relating to ownership of intellectual property relating to such Competition will be set forth in the applicable Rules. This Policy will not serve to transfer any of your intellectual property used in any competition entry to X PRIZE.
+
+Please see the [Terms of Use](https://web.archive.org/terms-and-conditions) for more information on your use of this Website.
+
+BY USING THIS WEBSITE, YOU SIGNIFY YOUR ASSENT TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH ANY TERM IN THIS POLICY, PLEASE DO NOT USE THIS WEBSITE OR SUBMIT ANY PERSONALLY IDENTIFIABLE INFORMATION THROUGH THIS WEBSITE.
+
+  * Summary
+  * How Do You Agree to the Policy
+  * How and When is the Policy Updated? How are You Notified of these Changes?
+  * What Information Do We Collect Through The Website?
+  * Why Do We Collect This Information?
+  * How Do We Collect and Use This Information
+  * How Do We Use and Protect Your Personal Information?
+  * What About Children’s Personal Information?
+  * How May We Share Your Information?
+  * Third Party Websites and PayPal
+  * Who Do you Contact With Questions, To Opt Out, or If You Want To Review and Change Your Personal Information?
 
 
-## THE X-PRIZE FOUNDATION  
-PRIVACY POLICY  
-(United States)
 
-**BY USING THIS WEBSITE, YOU SIGNIFY YOUR ASSENT TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH ANY TERM IN THIS POLICY, PLEASE DO NOT USE THIS WEBSITE OR SUBMIT ANY PERSONALLY IDENTIFIABLE INFORMATION THROUGH THIS WEBSITE.**
+## Summary
 
-**1\. OUR COMMITMENT TO YOUR PRIVACY**
+Although you should read through the Policy for complete information on how we collect, use, share, and secure information, the following provides a summary of some the most important aspects of or our privacy practices:
 
-The X-Prize Foundation (“X PRIZE”) is committed to protecting your privacy. This Privacy Policy applies to all information submitted by you on this website and it explains the type of information we may collect and how we may use it. Please read this Privacy Policy carefully to be aware of our privacy protection procedures and the use of your personal information you provided to us. Please keep in mind that this Privacy Policy applies only to this X PRIZE website for the United States and does not address information that we might obtain from places other than this website. Since other websites (including those to which we link) have their own privacy practices, we encourage you to ask questions and provide information only to those sites whose privacy practices you understand and trust. Also, we reserve the right to revise our Privacy Policy at any time without prior notice, so please check this page periodically. 
+  * We may use your personally identifiable information to provide you with services, including to process donations you make, to improve our services, and to provide you with information on upcoming events, announcements, and competitions.
+  * We may share your personally identifiable information as required by, or permitted by, law. We may also share your personally identifiable information if we determine, in our sole judgment, that the release of your information may protect the rights, property, or safety of you or another person.
+  * We take reasonable measures to secure your personal information, but we cannot promise, and you should not expect, that your personal information will remain secure in all circumstances.
 
-**2\. INFORMATION COLLECTION AND USE**
 
-**2.1 What Information We Collect**
 
-We collect non-personally identifiable information about you in a number of ways, including tracking your activities through your IP address. Our servers typically log your IP address when you request a page from this website. We also log such information as your resolution settings, browser information, platform type, and originating URLs. You remain anonymous to us since we do not link your IP address to anything personally identifiable. However, we also collect personally identifiable information about you when you voluntarily submit it to us, such as by: registering for a product warranty; filling out a form or survey; Posting Submissions (as defined in the Terms of Use); requesting promotional material; registering your e-mail address with us; signing up for an e-mail newsletter; or, e-mailing us.
+## How Do You Agree To The Policy?
 
-Our website has been designed to meet your needs. As is standard practice on many corporate websites, X PRIZE’s website utilizes cookies to gather technical information. A cookie is a small data file installed on your computer hard drive by a web server. Generally speaking, it records data about your computer's navigation within our website (pages viewed, date and time of your visit, etc.), which are read during subsequent visits. Cookies provide websites with information regarding the state your browser is in. For example, if you have visited the site before (a state of “this browser has visited this site before”), you will not have to fill out a X PRIZE registration form again during subsequent visits in order to benefit from our personalized services. Our website may also use the servers of our advertising partners to display the advertisements seen on our website pages. These partners may also utilize cookies to help target the advertisements shown towards your needs.
+You agree to this Policy by visiting this Website. However, if you cannot agree with this Policy, then please refrain from visiting or using this Website.
 
-Please note that if your internet browser is configured to not accept cookies, we cannot guarantee that the services available to you on our website will work correctly.
+## How and When is the Policy Updated? How are You Notified of these Changes?
 
-**2.2 How We Use This Information**
+We reserve the right to change, add, subtract, update or amend all or any part of this Policy at any time without notice to you. We will post any Policy changes on this page and may provide a more prominent notice (including, in certain instances, email notification of Policy changes if we have your email address). Each version of this Policy will be identified at the top of the page by its effective date.
 
-Pursuant to the Terms of Use, you have expressly assigned all rights in and to Submissions (as defined in the Terms of Use) to X PRIZE. X PRIZE and/or its subsidiaries may, in their sole discretion, use information submitted at the time of registration or any Submissions for marketing, promotional and any other commercial purposes and may share such information or Submissions with our promotional partners in accordance with the Terms of Use. We may use your contact information to send you information about our company’s current activities. You may decide at any time to stop receiving future mailings. 
+## What Information Do We Collect Through The Website?
 
-Your personally identifiable information may be shared with and stored on a database controlled by third parties that have been hired by us to provide limited services on our behalf. Agents or contractors of X PRIZE who have access to your personally identifiable information are required to use their best efforts to keep the information confidential and are prohibited from using this information for any purpose not previously disclosed to you.
+  * **Personal Information.** We collect information that can be used to identify you personally (“personal information”), such as your name, mailing address, company name, telephone number, and email address. We do not collect any personal information about you unless you provide it voluntarily, including, without limitation, by filling out a form or survey; by posting a Comment (as defined in the Terms of Use); by requesting promotional material; by registering an account and e-mail address with us; by signing up for an e-mail newsletter; or by e-mailing us. If you do not want us to collect personal information about you, you can simply decide not to submit it to us.
+  * **Other Information.** We also collect information that cannot be used to easily identify you, such as information about your computer hardware and software.
 
-We use personally identifiable and non-personally identifiable information for site administration and for the purpose of performing the services for which such data was collected.
 
-We do not sell or rent your personally identifiable information to third parties, unless disclosure is required by law or to protect our interests. At times, X PRIZE may be required by law or litigation to disclose your personal information; this includes special cases when we have reason to believe that disclosing information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with X PRIZE’s rights. We may also disclose information about you if we determine that for national security, law enforcement, or other issues of public importance, disclosure is necessary.
 
-We use your IP address, resolution settings, browser information, platform type, and originating URLs to help diagnose problems with our server, measure usage, and to administer the site. 
+## Why Do We Collect and Use This Information?
 
-You agree that any commentary on our products or services that you provide to us belongs to us and can be used and published by us for any purpose, so long as we do not identify you as the source or author of such commentary without your consent.
+We collect your information to send you information about X PRIZE’s current activities, to keep you informed about future events and competitions, for site administration, to improve our services and future competitions, and for the purpose of performing any other services for which such data was collected. You may contact us using the form below if you decide at any time to stop receiving mailings.
 
-Even though our information practices may change from time to time, we will not use your information in a manner not previously disclosed to you in our Privacy Policy. We will provide you with notice by posting any privacy policy changes on this website. 
+## How Do We Collect This Information
 
-**3\. UPDATING OR CORRECTING YOUR INFORMATION**
+  * **Personal Information.** We collect the personal information that you voluntarily provide to us when you use this Website. For example, if you request information about our competitions or submit a Comment, as defined in the Terms of Use, we will collect any information that you provide to us in such request or submission.
+  * **Other Information.** Like the operators of most Websites, we may use tracking software and similar technology, which automatically collects information about your computer hardware and software, and use of the Website. This information may be used by us for the operation of the Website and to provide general statistics regarding use of the Website.
+  * **Cookies.** Cookies are bits of electronic information that a Website can transfer to a visitor’s hard drive to help tailor and keep records of his or her visit. Cookies allow Website operators to better customize visits to the site to the visitor’s individual preferences. Many commercial Websites use cookies. We may use cookies on our website to allow us to, among other things, measure activity, to personalize your experience, and to track your status or progress when requesting products, services, or information. If you choose, you can set your browser to reject cookies or you can manually delete individual or all of the cookies on your computer by following your browser’s help file directions. However, if your browser is set to reject cookies or you manually delete cookies, you may have some trouble accessing and using some of the pages and features that are currently on our website, or that we may put on our website in the future.
 
-If you provide us with personally identifiable information to have us perform ongoing services to you, we will use reasonable diligence to provide you with a way to review the information we have on file and either update or correct this information.
 
-**4\. CHILDREN'S PRIVACY PROTECTION**
 
-We do not wish to obtain personally identifiable information from children who are using our site unsupervised. Thus, we ask children to obtain the consent of their parent or guardian before providing us with any personally identifiable information. 
+## How Do We Use and Protect Your Personal Information?
 
-**5\. SECURITY PRECAUTIONS**
+As noted in the Terms of Use, you granted us a license to use your Comments, and we may use those comments (not in conjunction with your personal information) for marketing, promotional, and any other commercial or non-commercial purposes.
 
-Your privacy is very important to us. We use security technology and security procedures that are reasonably designed to help maintain the privacy of your personal information. Among other techniques, we usually store such information on a computer behind our "firewall" in a secure location, and we often restrict the number of employees internally who can access this data. Of course, there is no such thing as "perfect security" on the Internet and we cannot guarantee the security of any information you disclose online. Further, please note that our web servers may be run by a third party web host whose actions we do not control. 
+We may also decide to use information about you to track how you use our site. In addition, we may aggregate the personal information that you provide with the personal information that other users provide in order to conduct research, analysis, or studies for our own purposes (i.e., not related to providing you with specific services).
 
-**6\. TERMS OF USE**
+Whenever we obtain your personal information, we will use reasonable practices to protect your personal information from unauthorized access or disclosure. While we will use such efforts, we cannot and will not act as insurers of the security of your personal information. Accordingly, we assume no liability for any disclosure of data due to errors in transmission, unauthorized third party access or other acts of third parties, or acts or omissions beyond our reasonable control.
 
-Please consult our [Terms of Use](https://web.archive.org/terms-and-conditions) for the conditions under which X PRIZE makes its website available to users and the conditions under which users may have access to and use this website. 
+## What About Children’s Personal Information?
 
-**7\. AMENDMENTS**
+We do not want, and our Website is not designed to solicit, information from children under 13.
 
-This Privacy Policy became effective on September 26, 2007. We may update this Privacy Policy from time to time. When we change this Privacy Policy in a material way, a notice will be posted on our website along with the updated Privacy Policy. Any amendments will be effective when posted. Your continued access of this website shall be deemed your acceptance and complete understanding of the amended Privacy Policy. 
+## How May We Share Your Information?
 
-As this privacy policy is designed to become more comprehensive over time, we want it to develop in line with your requirements and expectations. We are therefore open to all questions and suggestions related to our privacy policy. Please feel free to send us your comments the [Contact Us](https://web.archive.org/contact) section of this website.
+Except to provide our services to you or to provide information to you as described above and except for the situations below, we do not rent, sell, or share your information with other people or companies.
+
+_As Required By, Or Permitted By Law_
+
+We may share your personally identifiable information as required by, or permitted by, law. This may include sharing your personally identifiable information with governmental entities, or third parties in response to subpoenas, court orders, other legal process, or as we believe is necessary to exercise our legal rights, to defend against legal claims that have been brought against us, or to defend against possible legal claims that we determine in our sole discretion might be brought against us.
+
+## In Order to Protect Rights, Property, and Safety; and to Report Unlawful Activity
+
+We may also share your personally identifiable information if we determine, in our sole judgment, that the release of your information may protect the rights, property, or safety of you or another person. In this instance we may share your information with law enforcement or any other person or entity we determine, in our sole judgment, may be able to protect you or the other person. We may also report to law enforcement agencies any activities that we reasonably believe to be unlawful, or that we reasonably believe may aid a law enforcement investigation into unlawful activity. 
+
+_In Cases of Sales, Mergers, or Acquisition_
+
+X PRIZE becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, personal information may be provided to the entities and advisors involved subject to a confidentiality agreement, and we will provide notice before any personal information is finally transferred and becomes subject to a different privacy policy.
+
+_Your Comments_
+
+If you post a Comment to our Website, you acknowledge that the information that you choose to post, including any personal information that you choose to post, may be available generally to the public. You also acknowledge and represent that such Comment is not confidential or proprietary to you or any other person or entity. See the [Terms of Use](https://web.archive.org/terms-and-conditions) for more details on Comments. 
+
+## Third Party Websites and Payment Processors
+
+Our Website, or our e-mails, may link to third parties’ websites. It is also possible that third parties’ websites or e-mails may link to our Website. We are not responsible for the content or the privacy practices employed by third parties. We encourage you to read the privacy policies of these websites before transmitting any personal information to third parties.
+
+We process your payments through third party payment processors and do not maintain any records of your credit card or debit card information submitted through our Website.
+
+## Who do you Contact With Questions, To Opt Out, or If You Want To Review and Change Your Personal Information?
+
+You may contact us using the form at <http://xprize.org/contact> with any questions, complaints, or claims. 
