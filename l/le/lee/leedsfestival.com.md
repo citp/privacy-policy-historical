@@ -1,29 +1,8 @@
-> *The following text is extracted and transformed from the leedsfestival.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124122811id_/http%3A//www.leedsfestival.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leedsfestival.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130050246id_/http%3A//www.leedsfestival.com/privacy) for the most accurate reproduction.*
 
-# Leeds Festival 2010 :: Privacy Policy
+# Privacy Policy - Leeds Festival 2011
 
-27th \- 29th August, Branham Park
-
-  * [Home](https://web.archive.org/home/index.aspx)
-  * [News](https://web.archive.org/news/index.aspx)
-  * [Line up](https://web.archive.org/lineup/index.aspx)
-  * [Tickets](https://web.archive.org/tickets/index.aspx)
-  * [Info](https://web.archive.org/info/index.aspx)
-  * [Photos](https://web.archive.org/gallery/index.aspx)
-  * [History](https://web.archive.org/history/index.aspx)
-  * [Video](https://web.archive.org/video/index.aspx)
-
-
-
-  * [Facebook](http://www.facebook.com/pages/Leeds-Festival/345404387254?ref=ts "Our facebook group") [Twitter](http://twitter.com/officialrandl "Follow us on twitter")
-  * [Subscribe to the newsletter](https://web.archive.org/register/)
-  * [Vists the Forums](http://forums.leedsfestival.com/)
-
-
-
-## Terms of use
-
- 
+Skip to Content
 
 The websites [www.leedsfestival.com](http://www.leedsfestival.com/) ("the Website") are owned and operated by Festival Republic Music Group Ltd ("we"/"us"/"our"), company number 02948536.  
 **  
@@ -67,5 +46,3 @@ Non-members
 9.2 This Privacy Statement is part of the Website Terms and Conditions (the "Conditions") and all defined terms shall have the same meaning as those in the Conditions.
 
 We welcome your questions and comments about privacy issues and the design of the Website. Should you have any comments or a complaint about how we are using your Personal Data, please email [info@festivalrepublic.com](mailto:info@festivalrepublic.com)
-
-     
