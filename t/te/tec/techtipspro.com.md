@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techtipspro.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601190408id_/http%3A//www.techtipspro.com/2008/11/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techtipspro.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130010804id_/http%3A//www.techtipspro.com/2008/11/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,5 +11,7 @@ In entering user information on the TellyOne  website you confirm that you unde
 You also agree to allow TellyOne to pass your details onto selected third parties for their marketing purposes.
 
 In all correspondence between you, the user, and TellyOne, you will have the opportunity to indicate whether you would like to "opt out" or “unsubscribe” from receiving promotional and/or marketing information about other services from TellyOne.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies -click here. <http://www.google.com/privacy_ads.htm>l
 
 TellyOne reserves the right, at any time, to modify, alter, or update this privacy policy.
