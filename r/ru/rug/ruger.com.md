@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruger.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427133103id_/http%3A//ruger.com/footer/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruger.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130054706id_/http%3A//www.ruger.com/footer/privacyPolicy.html) for the most accurate reproduction.*
 
 # Ruger Privacy Policy
 
