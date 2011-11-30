@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dbrs.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527045838id_/http%3A//www.dbrs.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dbrs.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130101523id_/http%3A//www.dbrs.com/about/privacyPolicy) for the most accurate reproduction.*
 
-# DBRS.com - Privacy Policy
+# DBRS.com: Privacy Policy
 
-DBRS® is committed to protecting the privacy of its employees and clients and we recognize the need to respect and protect personal information that is disclosed to us. Personal information includes any factual or subjective information about an identifiable individual but does not include the name, title, business address, or telephone number of an employee of an organization.
+DBRS is committed to protecting the privacy of its employees and clients and we recognize the need to respect and protect personal information that is disclosed to us. Personal information includes any factual or subjective information about an identifiable individual but does not include the name, title, business address, or telephone number of an employee of an organization.
 
 The Site collects data provided by your account administrator, as well as data provided automatically through the use of "cookie" technology. Examples of the type of information that may be collected automatically is registration information (e.g. user name and password), user preference data (e.g. a preference to track a particular industry), and page hit counts.
 
