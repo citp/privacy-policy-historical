@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the experiencelife.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602174957id_/http%3A//experiencelife.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experiencelife.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201001150id_/http%3A//experiencelife.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Home Privacy Policy : Experience Life Magazine
+# Home Privacy Policy: Experience Life Magazine
 
 Welcome to _Experience Life_. Your privacy is important to us. Please take a moment to carefully review our Privacy Policy and [Terms of Service](https://web.archive.org/terms-of-service.php).
 
