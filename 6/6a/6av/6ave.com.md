@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the 6ave.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502024747id_/http%3A//www.6ave.com/shop/usertpl.aspx%3Ffle%3Dprivacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6ave.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130073939id_/http%3A//www.6ave.com/shop/usertpl.aspx%3Ffle%3Dprivacy_statement.htm) for the most accurate reproduction.*
 
 # 6ave.com
 
 **Purchases**  
 6ave.com allows our customers to purchase products online. In order to process these orders, we must collect your full name, billing address, shipping address, telephone numbers, email address, and credit card information including the type of card, the card number, the expiration date, and the card holder's name. This information is collected and transmitted using secure technology provided by VeriSign, Inc. and Hacker Safe. It is stored by us on our secure servers to allow us to perform essential functions including processing credit card reconciliations, providing customer service, and handling audits and warranty claims.
 
-As a convenience to our online purchasers, we offer the option of storing your personal information (but not credit card information) in a customer account. This makes shopping easier for our repeat customers, as they will not have to reenter their information every time they make a purchase. Users who choose this option will enter their email address and select a password, which will be the only way this information can be accessed. They will be able to change this information at any time. Customers who want to delete access to their online profiles can do so by calling 
+As a convenience to our online purchasers, we offer the option of storing your personal information (but not credit card information) in a customer account. This makes shopping easier for our repeat customers, as they will not have to reenter their information every time they make a purchase. Users who choose this option will enter their email address and select a password, which will be the only way this information can be accessed. They will be able to change this information at any time. Customers who want to delete access to their online profiles can do so by contacting 
 
-[Customer Service](https://web.archive.org/web/20110502024747id_/http%3A//www.6ave.com/shop/usertpl.aspx?fle=customer_service.htm) at 1-877-684-2831.
+[Customer Service](https://web.archive.org/web/20111130073939id_/http%3A//www.6ave.com/shop/usertpl.aspx?fle=customer_service.htm)
 
 **Mailing List**  
 We also allow our users to sign up to receive Savings & News by registering with their email addresses, or by checking the appropriate box when purchasing. Users can remove their information from our mailing list at any time by sending an email with those instructions to [unsubscribe@6ave.com](mailto:unsubscribe@6ave.com). In addition, every email from us will come with instructions explaining how to unsubscribe. 
