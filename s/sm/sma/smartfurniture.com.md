@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartfurniture.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602011635id_/http%3A//www.smartfurniture.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartfurniture.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130143307id_/http%3A//www.smartfurniture.com/privacy.html) for the most accurate reproduction.*
 
 # Smart Furniture Privacy Policy
 
@@ -26,7 +26,7 @@ SmartFurniture.com uses your IP address to diagnose problems with our server, to
 **How Secure Is My Personal Information?**   
 This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through this Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit our Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall. While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.
 
-## Update to this Policy
+## Updates to this Policy
 
 If we change or update this Privacy Policy, we will post changes and updates on this Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated.
 
