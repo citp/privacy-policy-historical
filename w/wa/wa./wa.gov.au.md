@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wa.gov.au privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531125459id_/http%3A//wa.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wa.gov.au privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130224150id_/http%3A//wa.gov.au/privacy) for the most accurate reproduction.*
 
 # Government of Western Australia
 
