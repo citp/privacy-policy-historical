@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the alldaychemist.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221031330id_/https%3A//www.alldaychemist.com/content/6-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alldaychemist.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130143211id_/http%3A//www.alldaychemist.com/content/6-Privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# AllDayChemist - Privacy Policy
+
+## Privacy Policy
 
 Our Privacy Policy is designed to assist you-businesses, consumers and the general public-in understanding how we collect and use the personal information you provide to us, and to help you make informed decisions when using our web site and all of our related services therein.
 
@@ -72,4 +74,5 @@ The Privacy Policy is subject to periodic review and change. In order to view th
 
 Further the web-site does not intend to use the trade-mark of the first name drug because the web-site is not selling any first name drug to its prospective customers and it is only sharing the existing knowledge and information which is already public and this has no relation whatsoever to the trade mark being used by the first name drug.'
 
-[](https://www.alldaychemist.com/ "Home")[Home](https://www.alldaychemist.com/ "Home")
+  
+
