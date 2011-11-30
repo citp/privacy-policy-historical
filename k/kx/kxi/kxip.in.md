@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kxip.in privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605171511id_/http%3A//www.kxip.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kxip.in privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130012431id_/http%3A//www.kxip.in/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kings XI Punjab
 
-At K.P.H. Dream Cricket Pvt. Ltd. and Kings XI Punjab (“KXIP”) we are committed to respecting the privacy rights of our customers and all visitors to our website.
+At K.P.H. Dream Cricket Pvt. Ltd. and Kings XI Punjab (“KXIP”) we are committed to respecting the privacy rights of our customers and all visitors to our website. 
 
 Your privacy is important to us and we aim for our website to be a safe and enjoyable environment for our audience. We respect and safeguard the personally identifiable information (“Personal Information”) we receive and collect from you on our website and in the course of our other interactions online.
 
@@ -19,13 +19,13 @@ This Privacy Policy (“Privacy Policy”) explains:
 
 ### Information Gathered
 
-In general, you can visit our website without telling us who you are or revealing any Personal Information about yourself. However, you may not be able to access certain areas or services that require registration or need us to know who you are and/or other information about you.
+In general, you can visit our website without telling us who you are or revealing any Personal Information about yourself. However, you may not be able to access certain areas or services that require registration or need us to know who you are and/or other information about you. 
 
 Information that we collect from you will vary depending upon the activity you seek to engage in and may include without limitation your name, email address, phone number, mobile number, home address, birth date, and credit card information. In addition, we may collect demographic information such as gender, information about your computer, hardware, software, platform, media, Internet Protocol (IP) address and connection, information about online activity such as feature usage and click paths and other data that you may provide in surveys or online profiles. We may combine demographic information with Personal Information to tailor our offerings or web pages to your preferences or interests.
 
 ### Personal Information
 
-Personal Information means any information that may be used to identify you and that is not otherwise publicly available, including, but not limited to, your first and last name, home or other physical address and an email address, phone number or other contact information.
+Personal Information means any information that may be used to identify you and that is not otherwise publicly available, including, but not limited to, your first and last name, home or other physical address and an email address, phone number or other contact information. 
 
 We may collect Personal Information from you when you register for our fan club, purchase merchandise from our store, register for any of our services or otherwise voluntarily provide such information. We may also use your name and email address to send you team news and updates and messages from the team’s owners, partners and sponsors. You should let us know if you would like to unsubscribe from these communications at any time in the manner described in any such communication.
 
@@ -84,7 +84,7 @@ In the event that ownership or control of KXIP was to change, your Personal Info
 
 To the extent that you do provide us with Personal Information, we wish to maintain accurate and current Personal Information. Where we collect Personal Information from you on our website, should you need to update or correct that Personal Information, please contact us and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
 
-You can obtain the information we currently hold on you by emailing KXIP at [communications@kxip.in](mailto:communications@kxip.in). We will use our best efforts to send you the information within 14 days of receipt of your email.
+You can obtain the information we currently hold on you by emailing KXIP at [communications@kxip.in](mailto:communications@kxip.in). We will use our best efforts to send you the information within 14 days of receipt of your email. 
 
 ### Consent; Amendments; Law
 
