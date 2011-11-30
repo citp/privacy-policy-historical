@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smartfurniture.com privacy policy that was archived on 2011-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110602011635id_/http%3A//www.smartfurniture.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smartfurniture.com privacy policy that was archived on 2011-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111130143307id_/http%3A//www.smartfurniture.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" src="../../shop/js/iepngfix_tilebg.js"></script>
 
@@ -40,7 +40,12 @@ $(document).ready(function()
   
   
 <!-- <script language="JavaScript" src="https://seal.networksolutions.com/siteseal/javascript/siteseal.js" type="text/javascript"></script> -->
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 <script type="text/javascript" src="http://www.smartfurniture.com/shop/js/smartJS.js" language="javascript"></script>
+
 
 
   <script type="text/javascript">
@@ -106,10 +111,13 @@ function importXML(sXML)
 $(document).ready(function()
 {
 	$(".USPcontentPopup").colorbox({height:"400px", width:"400px", opacity: ".4"});
+	$(".swatchContentPopup").colorbox({ height: "640px", width: "600px", opacity: ".4", iframe: true });
 	$(".contentPopup").colorbox({opacity: ".4"});
 	$(".swatchViewer").colorbox({width:"1024px",height:"620px",opacity: ".4"});
 		$(".contentIframe").colorbox({height:"575px", width:"430px",iframe:true, opacity: ".4"});
 		$(".quickViewPopup").colorbox({innerWidth:"865px",innerHeight:"710px",iframe:true, opacity: ".4"});
+        $(".newsletterPopup").colorbox({innerWidth:"430px",innerHeight:"525px",opacity: ".4",iframe:true,scrolling: false});		
+	$(".threeSixtyPopup").colorbox({innerWidth:"405px",innerHeight:"440px",opacity: ".4",iframe:true, scrolling: false});
 });
 
 function goToSwatches(url)
@@ -452,38 +460,6 @@ function HideSwatch()
 
 </script>
 
-<!-- Nivo Slider Scripts for Homepage Banner Rotation -->
-<link type="text/css" rel="stylesheet" href="/shop/js/nivoslider/nivo-slider.css">
-
-
-    <script type="text/javascript">
-        $(window).load(function() {
-        $('#slider').nivoSlider({
-            effect:'fade', //Specify sets like: 'fold,fade,sliceDown'
-            slices:15,
-            animSpeed:1500, //Slide transition speed
-            pauseTime:9000,
-            startSlide:0, //Set starting Slide (0 index)
-            directionNav:false, //Next & Prev
-            directionNavHide:true, //Only show on hover
-            controlNav:false, //1,2,3...
-            controlNavThumbs:false, //Use thumbnails for Control Nav
-            controlNavThumbsFromRel:false, //Use image rel for thumbs
-            controlNavThumbsSearch: '.jpg', //Replace this with...
-            controlNavThumbsReplace: '_thumb.jpg', //...this in thumb Image src
-            keyboardNav:true, //Use left & right arrows
-            pauseOnHover:true, //Stop animation while hovering
-            manualAdvance:false, //Force manual transitions
-            captionOpacity:0.8, //Universal caption opacity
-            beforeChange: function(){},
-            afterChange: function(){},
-            slideshowEnd: function(){}, //Triggers after all slides have been shown
-            lastSlide: function(){}, //Triggers when last slide is shown
-            afterLoad: function(){} //Triggers when slider has loaded
-            });
-        });
-    </script>
-
  
 <!-- Start Superfish --> 
 <script type="text/javascript"> 
@@ -496,7 +472,7 @@ $(document).ready(function(){
  
  
 </script>
-<!-- End Nivo Slider Scripts -->
+
 
 
 <script type="text/javascript">
@@ -692,15 +668,14 @@ $(document).ready(function(){
         });
       }
  
-</script> 
 
-	<script language="javascript"> 
-	function image360pct(sku, pCount)
+
+	function image360PCT(sku, pCount)
 	{
-	    
-	    //document.getElementById("message360").innerHTML = "Move Mouse Over Image To Rotate Product";
+		
+
         $(function() {
- 
+ 		
 	    var arr1 = [];
 	    for (var i=1; i <= pCount; i++)
         {
@@ -714,8 +689,7 @@ $(document).ready(function(){
             }
         }
     	
-	    $("#image36").threesixty({images:arr1, method:'mousemove', 'cycle':3, direction:"backward"});;
-    	
+	    $("#pImage").threesixty({images:arr1, method:'mousemove', 'cycle':3, direction:"backward"});
      
         });
       }
@@ -767,10 +741,9 @@ $(document).ready(function(){
 
 function ClearSearchValue(theValue)
 {
-    if (theValue == 'search thousands of products')
-    {
+    
         document.getElementById('searchText').value = '';
-    }
+    
 }
 
 var http_request = false;
@@ -835,11 +808,11 @@ function alertContents() {
                 <td width="387px" valign="center">
                     <table cellpadding="0" cellspacing="0">
                         <tbody><tr>
-                            <td height="65px" width="387px" align="center" valign="center" style="border-top:1px solid #cccccc;"><div align="left">
+                            <td height="65px" width="387px" align="center" valign="center" style="border-top:1px solid #cccccc;"><div align="left" width="386px" height="50px" style="margin-left: -8px;">
 <table cellspacing="0" cellpadding="0" border="0" align="center">
     <tbody>
         <tr>
-            <td width="386" valign="center" height="50" align="left"><a href="http://www.smartfurniture.com/products/Envelop-Desk.html"><img src="http://www.smartfurniture.com/shop/images/topright/envelop.jpg" alt="The Herman Miller Envelop Desk is Here!"></a></td>
+            <td align="left"><a onclick="pageTracker._trackEvent('SoulBanner','ClickThru','Herman Miller Sale December 2011')" href="http://www.smartfurniture.com/hermanmiller.html"><img alt="Shop the Herman Miller Semi-Annual Sale!" src="http://www.smartfurniture.com/shop/images/topright/hm_sale_dec2011_soul.jpg"></a></td>
         </tr>
     </tbody>
 </table>
@@ -849,9 +822,12 @@ function alertContents() {
                             <td height="50px" width="387px" valign"top"="" style="background-image: url(/shop/images/site/sitesearch_bg.jpg); background-repeat: no-repeat;">
                                 <table cellpadding="0" cellspacing="0">
                                     <tbody><tr>
-                                        <form name="searchform" id="cse-commerce-s-form" method="POST" action="http://www.smartfurniture.com/shop/landing_template_search.asp" onsubmit="javascript:fs()"></form>
-                                        <td valign="center" width="290px" align="left" style="padding-bottom:5px; padding-left:10px;"><input id="searchText" style="z-index:10;border:1px solid #dddddd;padding-top:7px;padding-left:7px;height:20px;width:250px;background-color:#ffffff;" autocomplete="off" name="q" value="search thousands of products" onfocus="ClearSearchValue(this.value);" onblur="" type="text"></td>
-                                        <td valign="center" width="120px" align="left" style="padding-bottom:5px; padding-left:5px;"><input onclick="TrackSearch(document.getElementById('searchText').value);" style="border:0px;background-color:#cbd9e4;" id="searchButton" type="image" src="../../shop/images/site/sitesearch.png" alt="Search Now"></td>
+                                        <form name="search" id="Form1" action="http://www.smartfurniture.com/shop/search/gcs.aspx" method="GET"></form>   
+                                        <td valign="center" width="290px" align="left" style="padding-bottom:5px; padding-left:10px;">
+                                         
+                                        <input id="searchText" style="z-index:10;border:1px solid #dddddd;padding-top:7px;padding-left:7px;height:20px;width:250px;background-color:#ffffff;" autocomplete="off" name="q" value="search thousands of products" onfocus="ClearSearchValue(this.value);" onblur="" type="text"></td>
+
+                                        <td valign="center" width="120px" align="left" style="padding-bottom:5px; padding-left:5px;"><input onclick="TrackSearch(document.getElementById('searchText').value);" style="border:0px;background-color:#cbd9e4;" id="searchButton" type="image" src="http://www.smartfurniture.com/shop/images/site/sitesearch.png" alt="Search Now"></td>
                                        
                                     </tr>
                                 </tbody></table>
@@ -872,9 +848,9 @@ function alertContents() {
                         </tr>
                         <tr>
                             <td align="right" width="292px;" style="padding-top:5px;">
-                                <a style="text-decoration:none;" href="/shop/cart.html"><span style="color: #4c6c80; font-size:11px; font-weight:400; font-family:Arial;">View My Cart</span></a><br>
-                                <a style="text-decoration:none;" href="/trackOrder.html"><span style="color: #4c6c80; font-size:11px; font-weight:400; font-family:Arial;">Track My Order</span></a>
-                            </td>
+                                <a style="text-decoration:none;" href="https://www.smartfurniture.com/shop/cart.html"><span style="color: #4c6c80; font-size:11px; font-weight:400; font-family:Arial;">View My Cart</span></a>&nbsp;&nbsp;<span="color:#eeeeee;">|&nbsp;&nbsp;<a style="text-decoration:none;" href="/trackOrder.html"><span style="color: #4c6c80; font-size:11px; font-weight:400; font-family:Arial;">Track My Order</span></a><br>
+					            <a style="text-decoration:none;" href="/shop/contactus/international.html"><span style="color: #4c6c80; font-size:11px; font-weight:400; font-family:Arial;">International Inquiries</span></a>
+                            </span="color:#eeeeee;"></td>
                         </tr>
                     </tbody></table>
                 </td>
@@ -882,6 +858,18 @@ function alertContents() {
             <tr>
                 <td colspan="3">
                     <div><!-- Begin Top Nav -->
+
+<style type="text/css">
+
+.line
+{
+    background-color: #EEE !important;
+    width: 160px;
+    height: 1px !important;
+    text-align: left;
+}
+
+</style>
 
 <table id="sfTable" cellpadding="0" cellspacing="0" width="1024px">
     <tbody><tr>
@@ -896,15 +884,15 @@ function alertContents() {
 	                                    <table cellpadding="0" cellspacing="0">
 	                                        <tbody><tr>
 	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-bottom: 5px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','SHELVES')" class="spriteBGC sprite-shelves" rel="nofollow" href="http://www.smartfurniture.com/shelves.html"></a></td>
-	                                            <td class="superfishmenu" width="100px" valign="center" style="padding-left:20px;padding-bottom: 5px; border-right:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','SHELVES')" rel="nofollow" href="http://www.smartfurniture.com/shelves.html"><span style="color:#555555;font-weight:600;">SHELVES</span></a></td>
+	                                            <td class="superfishmenu" width="100px" valign="center" style="padding-left:20px;padding-bottom: 5px; border-right:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','SHELVES')" rel="nofollow" href="http://www.smartfurniture.com/shelves.html"><span style="color:#555555;font-weight:bold;">SHELVES</span></a></td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="border-right:1px solid #dddddd;" width="160px">
-	                                            <hr size="1" style="color:#dddddd;" width="160px" align="left">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="border-right:1px solid #eeeeee;" width="160px">
+	                                            <div class="line">&nbsp;</div>
 	                                            </td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:15px;padding-top:8px;padding-bottom:20px;border-right:1px solid #dddddd;">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:15px;padding-top:8px;padding-bottom:20px;border-right:1px solid #eeeeee;">
 	                                                <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Wall Shelves')" rel="nofollow" href="http://www.smartfurniture.com/shelves/wallshelves.html">Wall Shelves</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Bookshelves')" rel="nofollow" href="http://www.smartfurniture.com/shelves/bookshelf.html">Bookshelves</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Smart Shelves')" rel="nofollow" href="http://www.smartfurniture.com/shelves/smartshelves.html">Smart Shelves</a>
@@ -912,15 +900,15 @@ function alertContents() {
 	                                        </tr>
 	                                        <tr>
 	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-bottom: 5px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Entertainment Centers')" rel="nofollow" href="http://www.smartfurniture.com/entertainment.html" class="spriteBGC sprite-entctr"></a></td>
-	                                            <td width="100px" valign="center" style="padding-bottom: 5px;border-right:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Entertainment Centers')" rel="nofollow" href="http://www.smartfurniture.com/entertainment.html"><span style="font-size:11px;color:#555555;font-weight:600;">ENTERTAINMENT<br>CENTERS</span></a></td>
+	                                            <td width="100px" valign="center" style="padding-bottom: 5px;border-right:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Entertainment Centers')" rel="nofollow" href="http://www.smartfurniture.com/entertainment.html"><span style="font-size:11px;color:#555555;font-weight:bold;">ENTERTAINMENT<br>CENTERS</span></a></td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="border-right:1px solid #dddddd; width=" 160px""="">
-	                                            <hr size="1" style="color:#dddddd;" width="160px" align="left">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="border-right:1px solid #eeeeee;" width="160px">
+	                                            <div class="line">&nbsp;</div>
 	                                            </td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:15px;padding-top:8px;padding-bottom:20px;border-right:1px solid #dddddd;">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:15px;padding-top:8px;padding-bottom:20px;border-right:1px solid #eeeeee;">
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Media Centers')" rel="nofollow" href="http://www.smartfurniture.com/entertainment/tv.html">TV Stands &amp; Media Centers</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Media Storage')" rel="nofollow" href="http://www.smartfurniture.com/entertainment/cd.html">Media Storage</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Corner-Friendly')" rel="nofollow" href="http://www.smartfurniture.com/entertainment/cornerfriendly.html">Corner-Friendly</a><br>
@@ -934,15 +922,15 @@ function alertContents() {
 	                                    <table cellpadding="0" cellspacing="0">
 	                                        <tbody><tr>
 	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-bottom: 5px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Chairs')" rel="nofollow" href="http://www.smartfurniture.com/seating.html" class="spriteBGC sprite-chairs"></a></td>
-	                                            <td class="superfishmenu" width="100px" valign="center" style="padding-left:20px;padding-bottom: 5px; border-right:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Chairs')" rel="nofollow" href="http://www.smartfurniture.com/seating.html"><span style="color:#555555;font-weight:600;">CHAIRS</span></a></td>
+	                                            <td class="superfishmenu" width="100px" valign="center" style="padding-left:20px;padding-bottom: 5px; border-right:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Chairs')" rel="nofollow" href="http://www.smartfurniture.com/seating.html"><span style="color:#555555;font-weight:bold;">CHAIRS</span></a></td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="border-right:1px solid #dddddd;">
-	                                            <hr size="1" style="color:#dddddd;" width="160px" align="left">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="border-right:1px solid #eeeeee;">
+	                                            <div class="line">&nbsp;</div>
 	                                            </td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:15px;padding-top:8px;padding-bottom:20px;border-right:1px solid #dddddd;">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:15px;padding-top:8px;padding-bottom:20px;border-right:1px solid #eeeeee;">
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Office Chairs')" rel="nofollow" href="http://www.smartfurniture.com/seating/officeseating.html">Office Chairs</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Lounge Chairs')" rel="nofollow" href="http://www.smartfurniture.com/seating/lounge.html">Lounge Chairs</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Dining Chairs')" rel="nofollow" href="http://www.smartfurniture.com/seating/diningseating.html">Dining Chairs</a><br>
@@ -955,15 +943,15 @@ function alertContents() {
 	                                        </tr>
 	                                        <tr>
 	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-bottom: 5px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Lighting')" rel="nofollow" href="http://www.smartfurniture.com/lighting.html" class="spriteBGC sprite-lighting"></a></td>
-	                                            <td class="superfishmenu" width="100px" valign="center" style="padding-left:20px;padding-bottom: 5px;border-right:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Lighting')" rel="nofollow" href="http://www.smartfurniture.com/lighting.html"><span style="font-size:11px;color:#555555;font-weight:600;">LIGHTING</span></a></td>
+	                                            <td class="superfishmenu" width="100px" valign="center" style="padding-left:20px;padding-bottom: 5px;border-right:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Lighting')" rel="nofollow" href="http://www.smartfurniture.com/lighting.html"><span style="font-size:11px;color:#555555;font-weight:bold;">LIGHTING</span></a></td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="border-right:1px solid #dddddd;">
-	                                            <hr size="1" style="color:#dddddd;" width="160px" align="left">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="border-right:1px solid #eeeeee;">
+	                                            <div class="line">&nbsp;</div>
 	                                            </td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:15px;padding-top:8px;border-right:1px solid #dddddd;">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:15px;padding-top:8px;border-right:1px solid #eeeeee;">
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Desk Lamps')" rel="nofollow" href="http://www.smartfurniture.com/lighting/desk-lamps.html">Desk Lamps</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Floor Lamps')" rel="nofollow" href="http://www.smartfurniture.com/lighting/floor-lamps.html">Floor Lamps</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Table Lamps')" rel="nofollow" href="http://www.smartfurniture.com/lighting/table-lamps.html">Table Lamps</a><br>
@@ -976,15 +964,15 @@ function alertContents() {
 	                                    <table cellpadding="0" cellspacing="0">
 	                                        <tbody><tr>
 	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-bottom: 5px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Sofas')" rel="nofollow" href="http://www.smartfurniture.com/sofa.html" class="spriteBGC sprite-sofas"></a></td>
-	                                            <td class="superfishmenu" width="100px" valign="center" style="padding-left:20px;padding-bottom: 5px; border-right:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Sofas')" rel="nofollow" href="http://www.smartfurniture.com/sofa.html"><span style="color:#555555;font-weight:600;">SOFAS</span></a></td>
+	                                            <td class="superfishmenu" width="100px" valign="center" style="padding-left:20px;padding-bottom: 5px; border-right:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Sofas')" rel="nofollow" href="http://www.smartfurniture.com/sofa.html"><span style="color:#555555;font-weight:bold;">SOFAS</span></a></td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="border-right:1px solid #dddddd;">
-	                                            <hr size="1" style="color:#dddddd;" width="160px" align="left">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="border-right:1px solid #eeeeee;">
+	                                            <div class="line">&nbsp;</div>
 	                                            </td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:15px;padding-top:8px;padding-bottom:20px;border-right:1px solid #dddddd;">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:15px;padding-top:8px;padding-bottom:20px;border-right:1px solid #eeeeee;">
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Sofas')" rel="nofollow" href="http://www.smartfurniture.com/sofa/large-sofas.html">Sofas</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Loveseats')" rel="nofollow" href="http://www.smartfurniture.com/sofa/loveseats.html">Loveseats</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Sectionals')" rel="nofollow" href="http://www.smartfurniture.com/sofa/sectionals.html">Sectionals</a><br>
@@ -993,15 +981,15 @@ function alertContents() {
 	                                        </tr>
 	                                        <tr>
 	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-bottom: 5px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','ACCESSORIES')" rel="nofollow" href="http://www.smartfurniture.com/accessories.html" class="spriteBGC sprite-accessories"></a></td>
-	                                            <td class="superfishmenu" width="100px" valign="center" style="padding-left:10px;padding-bottom: 5px;border-right:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','ACCESSORIES')" rel="nofollow" href="http://www.smartfurniture.com/accessories.html"><span style="font-size:11px;color:#555555;font-weight:600;">ACCESSORIES</span></a></td>
+	                                            <td class="superfishmenu" width="100px" valign="center" style="padding-left:10px;padding-bottom: 5px;border-right:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','ACCESSORIES')" rel="nofollow" href="http://www.smartfurniture.com/accessories.html"><span style="font-size:11px;color:#555555;font-weight:bold;">ACCESSORIES</span></a></td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="border-right:1px solid #dddddd;">
-	                                            <hr size="1" style="color:#dddddd;" width="160px" align="left">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="border-right:1px solid #eeeeee;">
+	                                            <div class="line">&nbsp;</div>
 	                                            </td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:15px;padding-top:8px;padding-bottom:20px;border-right:1px solid #dddddd;">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:15px;padding-top:8px;padding-bottom:20px;border-right:1px solid #eeeeee;">
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Home Office')" rel="nofollow" href="http://www.smartfurniture.com/accessories/office.html">Home Office</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Living Room')" rel="nofollow" href="http://www.smartfurniture.com/accessories/living.html">Living Room</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Dining Room')" rel="nofollow" href="http://www.smartfurniture.com/accessories/dining.html">Dining Room</a><br>
@@ -1016,15 +1004,15 @@ function alertContents() {
 	                                    <table cellpadding="0" cellspacing="0">
 	                                        <tbody><tr>
 	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-bottom: 5px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Desks')" rel="nofollow" href="http://www.smartfurniture.com/desks.html" class="spriteBGC sprite-desks"></a></td>
-	                                            <td class="superfishmenu" width="100px" valign="center" style="padding-left:20px;padding-bottom: 5px; border-right:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Desks')" rel="nofollow" href="http://www.smartfurniture.com/desks.html"><span style="color:#555555;font-weight:600;">DESKS</span></a></td>
+	                                            <td class="superfishmenu" width="100px" valign="center" style="padding-left:20px;padding-bottom: 5px; border-right:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Desks')" rel="nofollow" href="http://www.smartfurniture.com/desks.html"><span style="color:#555555;font-weight:bold;">DESKS</span></a></td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="border-right:1px solid #dddddd;">
-	                                            <hr size="1" style="color:#dddddd;" width="160px" align="left">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="border-right:1px solid #eeeeee;">
+	                                            <div class="line">&nbsp;</div>
 	                                            </td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:15px;padding-top:8px;padding-bottom:20px;border-right:1px solid #dddddd;">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:15px;padding-top:8px;padding-bottom:20px;border-right:1px solid #eeeeee;">
                                                     <a onclick="pageTracker._trackEvent('NewTopNav_2_15_11','ClickThru','Lifework Collection')" rel="nofollow" href="http://www.smartfurniture.com/hermanmiller/lifework/desks.html">Lifework Collection</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav_2_15_11','ClickThru','Currency Office')" rel="nofollow" href="http://www.smartfurniture.com/steelcase/currency.html">Currency Office</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav_2_15_11','ClickThru','Sequel Office')" rel="nofollow" href="http://www.smartfurniture.com/bdi/bdioffice.html">Sequel Office</a><br>
@@ -1033,15 +1021,15 @@ function alertContents() {
 	                                        </tr>
 	                                        <tr>
 	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-bottom: 5px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Home Organization')" rel="nofollow" href="http://www.smartfurniture.com/homeorganization.html" class="spriteBGC sprite-homeorg"></a></td>
-	                                            <td width="100px" valign="center" style="padding-bottom: 5px;border-right:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Home Organization')" rel="nofollow" href="http://www.smartfurniture.com/homeorganization.html"><span style="color:#555555;font-size:11px;font-weight:600;">HOME<br>ORGANIZATION</span></a></td>
+	                                            <td width="100px" valign="center" style="padding-bottom: 5px;border-right:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Home Organization')" rel="nofollow" href="http://www.smartfurniture.com/homeorganization.html"><span style="color:#555555;font-size:11px;font-weight:bold;">HOME<br>ORGANIZATION</span></a></td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="border-right:1px solid #dddddd;">
-	                                            <hr size="1" style="color:#dddddd;border-right:1px solid #dddddd;" width="160px" align="left">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="border-right:1px solid #eeeeee;">
+	                                            <div class="line">&nbsp;</div>
 	                                            </td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:15px;padding-top:8px;border-right:1px solid #dddddd;">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:15px;padding-top:8px;border-right:1px solid #eeeeee;">
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Bookshelves')" rel="nofollow" href="http://www.smartfurniture.com/homeorganization/bookcasesandbookshelves.html">Bookshelves &amp; Bookcases</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Modular Storage')" rel="nofollow" href="http://www.smartfurniture.com/modularstorage.html">Modular Storage</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Closed Storage')" rel="nofollow" href="http://www.smartfurniture.com/homeorganization/closedstorage.html">Closed Storage</a><br>
@@ -1058,11 +1046,11 @@ function alertContents() {
 	                                    <table cellpadding="0" cellspacing="0">
 	                                        <tbody><tr>
 	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-bottom: 5px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Tables')" rel="nofollow" href="http://www.smartfurniture.com/tables.html" class="spriteBGC sprite-tables"></a></td>
-	                                            <td class="superfishmenu" width="100px" valign="center" style="padding-left:20px;padding-bottom: 5px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Tables')" rel="nofollow" href="http://www.smartfurniture.com/tables.html"><span style="color:#555555;font-weight:600;">TABLES</span></a></td>
+	                                            <td class="superfishmenu" width="100px" valign="center" style="padding-left:20px;padding-bottom: 5px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Tables')" rel="nofollow" href="http://www.smartfurniture.com/tables.html"><span style="color:#555555;font-weight:bold;">TABLES</span></a></td>
 	                                        </tr>
 	                                        <tr>
 	                                            <td class="superfishmenu" colspan="2" valign="top">
-	                                            <hr size="1" style="color:#dddddd;" width="160px" align="left">
+	                                            <div class="line">&nbsp;</div>
 	                                            </td>
 	                                        </tr>
 	                                        <tr>
@@ -1076,11 +1064,11 @@ function alertContents() {
 	                                        </tr>
 	                                    	<tr>
 	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-bottom: 5px;"><img alt="More from Smart Furniture" src="http://www.smartfurniture.com/shop/images/home_images/navthumbs/sf.jpg"></td>
-	                                            <td width="100px" valign="center" style="padding-left:10px;padding-bottom: 5px;"><span style="font-size:11px;color:#555555;font-weight:600;">SEE MORE...</span></td>
+	                                            <td width="100px" valign="center" style="padding-left:10px;padding-bottom: 5px;"><span style="font-size:11px;color:#555555;font-weight:bold;">SEE MORE...</span></td>
 	                                        </tr>
 	                                        <tr>
 	                                            <td class="superfishmenu" colspan="2" valign="top">
-	                                            <hr size="1" style="color:#dddddd;" width="160px" align="left">
+	                                            <div class="line">&nbsp;</div>
 	                                            </td>
 	                                        </tr>
 	                                        <tr>
@@ -1114,34 +1102,34 @@ function alertContents() {
 	                                    <table cellpadding="0" cellspacing="0">
 	                                        <tbody><tr>
 	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-left:20px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Office')" rel="nofollow" href="http://www.smartfurniture.com/office.html" class="spriteBGC sprite-office"></a></td>
-	                                            <td class="superfishmenu" width="100px" valign="center" style="padding-left:20px;padding-bottom: 5px; border-right:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Office')" rel="nofollow" href="http://www.smartfurniture.com/office.html"><span style="color:#555555;font-weight:600;">OFFICE</span></a></td>
+	                                            <td class="superfishmenu" width="100px" valign="center" style="padding-left:20px;padding-bottom: 5px; border-right:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Office')" rel="nofollow" href="http://www.smartfurniture.com/office.html"><span style="color:#555555;font-weight:bold;">OFFICE</span></a></td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:20px;border-right:1px solid #dddddd;" width="20%">
-	                                            <hr size="1" style="color:#dddddd;" width="150px" align="left">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:20px;border-right:1px solid #eeeeee;" width="20%">
+	                                            <div class="line" style="width:150px !important;">&nbsp;</div>
 	                                            </td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:35px;padding-top:8px;padding-bottom:20px;border-right:1px solid #dddddd;">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:35px;padding-top:8px;padding-bottom:20px;border-right:1px solid #eeeeee;">
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Office Chairs')" rel="nofollow" href="http://www.smartfurniture.com/office/officeseating.html">Office Chairs</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Desks')" rel="nofollow" href="http://www.smartfurniture.com/office/desks.html">Desks</a><br>
-                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Bookshelves')" rel="nofollow" href="http://www.smartfurniture.com/office/bookshelf.html">Bookshelves</a><br>
-                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','General Storage')" rel="nofollow" href="http://www.smartfurniture.com/office/storageshelving.html">General Storage</a><br>
+                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Ergonomic Tools')" rel="nofollow" href="http://www.smartfurniture.com/office/ergonomic-tools.html">Ergonomic Tools</a><br>
+                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','General Storage')" rel="nofollow" href="http://www.smartfurniture.com/office/storage.html">General Storage</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Desk Lamps')" rel="nofollow" href="http://www.smartfurniture.com/office/desk-lamps.html">Desk Lamps</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Accessories')" rel="nofollow" href="http://www.smartfurniture.com/office/accessories.html">Accessories</a>
 	                                            </td>
 	                                        </tr>
 	                                        <tr>
 	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-left:20px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Patio &amp; Outdoor Furniture')" rel="nofollow" href="http://www.smartfurniture.com/outdoor.html" class="spriteBGC sprite-outdoor"></a></td>
-	                                            <td width="100px" valign="center" style="padding-left:20px;padding-bottom: 5px;border-right:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Patio &amp; Outdoor Furniture')" rel="nofollow" href="http://www.smartfurniture.com/outdoor.html"><span style="font-size:11px;color:#555555;font-weight:600;">PATIO &amp;<br>OUTDOOR</span></a></td>
+	                                            <td width="100px" valign="center" style="padding-left:20px;padding-bottom: 5px;border-right:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Patio &amp; Outdoor Furniture')" rel="nofollow" href="http://www.smartfurniture.com/outdoor.html"><span style="font-size:11px;color:#555555;font-weight:bold;">PATIO &amp;<br>OUTDOOR</span></a></td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" align="left" valign="top" style="padding-left:20px;border-right:1px solid #dddddd;" width="20%">
-	                                            <hr size="1" style="color:#dddddd;" width="150px">
+	                                            <td class="superfishmenu" colspan="2" align="left" valign="top" style="padding-left:20px;border-right:1px solid #eeeeee;" width="20%">
+	                                            <div class="line" style="width:150px !important;">&nbsp;</div>
 	                                            </td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:35px;padding-top:8px;padding-bottom:20px;border-right:1px solid #dddddd;">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:35px;padding-top:8px;padding-bottom:20px;border-right:1px solid #eeeeee;">
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','OutdoorTables')" rel="nofollow" href="http://www.smartfurniture.com/outdoor/outdoortables.html">Tables</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','OutdoorChairs')" rel="nofollow" href="http://www.smartfurniture.com/outdoor/outdoorchairs.html">Chairs</a>
 	                                            </td>
@@ -1152,34 +1140,34 @@ function alertContents() {
 	                                    <table cellpadding="0" cellspacing="0">
 	                                        <tbody><tr>
 	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-bottom: 5px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Apartment &amp; Loft Furniture')" rel="nofollow" href="http://www.smartfurniture.com/apartment.html" class="spriteBGC sprite-apt"></a></td>
-	                                            <td width="100px" valign="center" style="padding-left:20px;padding-bottom: 5px; border-right:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Apartment &amp; Loft Furniture')" rel="nofollow" href="http://www.smartfurniture.com/apartment.html"><span style="color:#555555;font-size:11px;font-weight:600;">APARTMENT<br>&amp; LOFT</span></a></td>
+	                                            <td width="100px" valign="center" style="padding-left:20px;padding-bottom: 5px; border-right:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Apartment &amp; Loft Furniture')" rel="nofollow" href="http://www.smartfurniture.com/apartment.html"><span style="color:#555555;font-size:11px;font-weight:bold;">APARTMENT<br>&amp; LOFT</span></a></td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="border-right:1px solid #dddddd;" width="20%">
-	                                            <hr size="1" style="color:#dddddd;" width="160px" align="left">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="border-right:1px solid #eeeeee;" width="20%">
+	                                            <div class="line">&nbsp;</div>
 	                                            </td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:15px;padding-top:8px;padding-bottom:20px;border-right:1px solid #dddddd;">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:15px;padding-top:8px;padding-bottom:20px;border-right:1px solid #eeeeee;">
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Seating')" rel="nofollow" href="http://www.smartfurniture.com/apartment/seating.html">Chairs</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','ApartmentTables')" rel="nofollow" href="http://www.smartfurniture.com/apartment/tables.html">Tables</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Entertainment')" rel="nofollow" href="http://www.smartfurniture.com/apartment/entertainment.html">Entertainment Centers</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','ApartmentShelves')" rel="nofollow" href="http://www.smartfurniture.com/apartment/shelves.html">Shelves</a><br>
-                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','ApartmentSpaces')" rel="nofollow" href="http://www.smartfurniture.com/apartment/spave-saving-storage.html">Space Savers</a><br>
+                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','ApartmentSpaces')" rel="nofollow" href="http://www.smartfurniture.com/apartment/space-saving-storage.html">Space Savers</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','ApartmentLighting')" rel="nofollow" href="http://www.smartfurniture.com/apartment/lighting.html">Lighting</a>
 	                                            </td>
 	                                        </tr>
 	                                        <tr>
 	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-bottom: 5px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','KIDS')" rel="nofollow" href="http://www.smartfurniture.com/kids.html" class="spriteBGC sprite-kids"></a></td>
-	                                            <td class="superfishmenu" width="100px" valign="center" style="padding-left:20px;padding-bottom: 5px; border-right:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','KIDS')" rel="nofollow" href="http://www.smartfurniture.com/kids.html"><span style="font-size:11px;color:#555555;font-weight:600;">KIDS ROOM</span></a></td>
+	                                            <td class="superfishmenu" width="100px" valign="center" style="padding-left:20px;padding-bottom: 5px; border-right:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','KIDS')" rel="nofollow" href="http://www.smartfurniture.com/kids.html"><span style="font-size:11px;color:#555555;font-weight:bold;">KIDS ROOM</span></a></td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="border-right:1px solid #dddddd;" width="20%">
-	                                            <hr size="1" style="color:#dddddd;" width="160px" align="left">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="border-right:1px solid #eeeeee;" width="20%">
+	                                            <div class="line">&nbsp;</div>
 	                                            </td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:15px;padding-top:8px;padding-bottom:20px;border-right:1px solid #dddddd;">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:15px;padding-top:8px;padding-bottom:20px;border-right:1px solid #eeeeee;">
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Seating')" rel="nofollow" href="http://www.smartfurniture.com/kids/toystorage.html">Toy Storage</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','ApartmentTables')" rel="nofollow" href="http://www.smartfurniture.com/kids/smartcubes.html">SmartCubes™</a><br>
 	                                            </td>
@@ -1190,15 +1178,15 @@ function alertContents() {
 	                                    <table cellpadding="0" cellspacing="0">
 	                                        <tbody><tr>
 	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-left:20px;padding-bottom: 5px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Dining Room')" rel="nofollow" href="http://www.smartfurniture.com/dining.html" class="spriteBGC sprite-dining"></a></td>
-	                                            <td class="superfishmenu" width="100px" valign="center" style="padding-left:20px;padding-bottom: 5px; border-right:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Dining Room')" rel="nofollow" href="http://www.smartfurniture.com/dining.html"><span style="color:#555555;font-weight:600;">DINING ROOM</span></a></td>
+	                                            <td class="superfishmenu" width="100px" valign="center" style="padding-left:20px;padding-bottom: 5px; border-right:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Dining Room')" rel="nofollow" href="http://www.smartfurniture.com/dining.html"><span style="color:#555555;font-weight:bold;">DINING ROOM</span></a></td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" align="left" style="padding-left:20px;border-right:1px solid #dddddd;" width="20%">
-	                                            <hr size="1" style="color:#dddddd;" width="160px">
+	                                            <td class="superfishmenu" colspan="2" valign="top" align="left" style="padding-left:20px;border-right:1px solid #eeeeee;" width="20%">
+	                                            <div class="line" style="width:150px !important;">&nbsp;</div>
 	                                            </td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:35px;padding-top:8px;padding-bottom:20px;border-right:1px solid #dddddd;">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:35px;padding-top:8px;padding-bottom:20px;border-right:1px solid #eeeeee;">
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','DiningSeating')" rel="nofollow" href="http://www.smartfurniture.com/dining/diningseating.html">Dining Chairs</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','DiningTables')" rel="nofollow" href="http://www.smartfurniture.com/dining/diningtables.html">Dining Tables</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','DiningStools')" rel="nofollow" href="http://www.smartfurniture.com/dining/stools.html">Stools</a><br>
@@ -1213,15 +1201,15 @@ function alertContents() {
 	                                    <table cellpadding="0" cellspacing="0">
 	                                        <tbody><tr>
 	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-left:20px;padding-bottom: 5px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Living Room')" rel="nofollow" href="http://www.smartfurniture.com/living.html" class="spriteBGC sprite-living"></a></td>
-	                                            <td class="superfishmenu" width="100px" valign="center" style="padding-left:20px;padding-bottom: 5px; border-right:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Living Room')" rel="nofollow" href="http://www.smartfurniture.com/living.html"><span style="color:#555555;font-weight:600;">LIVING ROOM</span></a></td>
+	                                            <td class="superfishmenu" width="100px" valign="center" style="padding-left:20px;padding-bottom: 5px; border-right:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Living Room')" rel="nofollow" href="http://www.smartfurniture.com/living.html"><span style="color:#555555;font-weight:bold;">LIVING ROOM</span></a></td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:20px;border-right:1px solid #dddddd;">
-	                                            <hr size="1" style="color:#dddddd;" width="160px" align="left">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:20px;border-right:1px solid #eeeeee;">
+	                                            <div class="line">&nbsp;</div>
 	                                            </td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:35px;padding-top:8px;padding-bottom:20px;border-right:1px solid #dddddd;">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:35px;padding-top:8px;padding-bottom:20px;border-right:1px solid #eeeeee;">
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Living Loung Chairs')" rel="nofollow" href="http://www.smartfurniture.com/living/lounge.html">Lounge Chairs</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Living Sofas')" rel="nofollow" href="http://www.smartfurniture.com/living/sofa.html">Sofas</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Living Entertainment')" rel="nofollow" href="http://www.smartfurniture.com/living/entertainment.html">Entertainment Centers</a><br>
@@ -1239,11 +1227,11 @@ function alertContents() {
 	                                    <table cellpadding="0" cellspacing="0">
 	                                        <tbody><tr>
 	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-left:20px;padding-bottom: 5px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Bedroom')" rel="nofollow" href="http://www.smartfurniture.com/bedroom.html" class="spriteBGC sprite-bedroom"></a></td>
-	                                            <td class="superfishmenu" width="100px" valign="center" style="padding-left:20px;padding-bottom: 5px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Bedroom')" rel="nofollow" href="http://www.smartfurniture.com/bedroom.html"><span style="color:#555555;font-weight:600;">BEDROOM</span></a></td>
+	                                            <td class="superfishmenu" width="100px" valign="center" style="padding-left:20px;padding-bottom: 5px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Bedroom')" rel="nofollow" href="http://www.smartfurniture.com/bedroom.html"><span style="color:#555555;font-weight:bold;">BEDROOM</span></a></td>
 	                                        </tr>
 	                                        <tr>
 	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:20px;">
-	                                            <hr size="1" style="color:#dddddd;" width="160px" align="left">
+	                                            <div class="line">&nbsp;</div>
 	                                            </td>
 	                                        </tr>
 	                                        <tr>
@@ -1269,7 +1257,7 @@ function alertContents() {
 	                </li>
 	                <li style="border-left:1px solid #cccccc;padding-left:1px;"> 
 		                <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','SHOP BY BRAND')" rel="nofollow" class="sf-with-ul" href="#"><center><strong><span style="color:#ffffff;">SHOP BY BRAND</span></strong></center></a> 
-		                <ul> 
+		                <ul style="display:none;"> 
 			                <table cellpadding="0" cellspacing="0" width="1024px" style="border:5px solid #99aab6;">
 		                        <tbody><tr>
 		                            <td class="superfishmenu" colspan="8" height="15px">&nbsp;</td>
@@ -1277,36 +1265,36 @@ function alertContents() {
 				                <tr>
                                     <td class="superfishmenu" width="2%">&nbsp;</td>
                                     <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Smart Shelves')" rel="nofollow" href="http://www.smartfurniture.com/smartshelves.html" class="spriteBGC sprite-smartshelves"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Smart Shelves')" rel="nofollow" href="http://www.smartfurniture.com/smartshelves.html">SMART SHELVES</a></td>
-                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','HermanMiller')" rel="nofollow" href="http://www.smartfurniture.com/hermanmiller.html" class="spriteBGC sprite-hermanmiller"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','HermanMiller')" rel="nofollow" href="http://www.smartfurniture.com/hermanmiller.html">HERMAN MILLER</a></td>
-                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Ekornes')" rel="nofollow" href="http://www.smartfurniture.com/ekornes-stressless-chairs.html" class="spriteBGC sprite-ekornes"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Ekornes')" rel="nofollow" href="http://www.smartfurniture.com/ekornes-stressless-chairs.html">EKORNES STRESSLESS</a></td>
-                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','BluDot')" rel="nofollow" href="http://www.smartfurniture.com/bludot.html" class="spriteBGC sprite-bludot"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','BluDot')" rel="nofollow" href="http://www.smartfurniture.com/bludot.html">BLU DOT</a></td>
-                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Steelcase')" rel="nofollow" href="http://www.smartfurniture.com/steelcase.html" class="spriteBGC sprite-steelcase"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Steelcase')" rel="nofollow" href="http://www.smartfurniture.com/steelcase.html">STEELCASE</a></td>
-                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','GusModern')" rel="nofollow" href="http://www.smartfurniture.com/gusmodern.html" class="spriteBGC sprite-gus"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','GusModern')" rel="nofollow" href="http://www.smartfurniture.com/gusmodern.html">GUS MODERN</a></td>
+                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','HermanMiller')" rel="nofollow" href="http://www.smartfurniture.com/hermanmiller.html" class="spriteBGC sprite-hermanmiller"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','HermanMiller')" rel="nofollow" href="http://www.smartfurniture.com/hermanmiller.html">HERMAN MILLER</a></td>
+                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Ekornes')" rel="nofollow" href="http://www.smartfurniture.com/ekornes-stressless-chairs.html" class="spriteBGC sprite-ekornes"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Ekornes')" rel="nofollow" href="http://www.smartfurniture.com/ekornes-stressless-chairs.html">EKORNES STRESSLESS</a></td>
+                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','BluDot')" rel="nofollow" href="http://www.smartfurniture.com/bludot.html" class="spriteBGC sprite-bludot"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','BluDot')" rel="nofollow" href="http://www.smartfurniture.com/bludot.html">BLU DOT</a></td>
+                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Steelcase')" rel="nofollow" href="http://www.smartfurniture.com/steelcase.html" class="spriteBGC sprite-steelcase"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Steelcase')" rel="nofollow" href="http://www.smartfurniture.com/steelcase.html">STEELCASE</a></td>
+                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','GusModern')" rel="nofollow" href="http://www.smartfurniture.com/gusmodern.html" class="spriteBGC sprite-gus"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','GusModern')" rel="nofollow" href="http://www.smartfurniture.com/gusmodern.html">GUS MODERN</a></td>
                                     <td class="superfishmenu" width="2%">&nbsp;</td>
                                 </tr>
                                 <tr>
                                     <td class="superfishmenu" width="2%">&nbsp;</td>
                                     <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Skovby')" rel="nofollow" href="http://www.smartfurniture.com/skovby.html" class="spriteBGC sprite-skovby"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Skovby')" rel="nofollow" href="http://www.smartfurniture.com/skovby.html">SKOVBY</a></td>
-                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Bdi')" rel="nofollow" href="http://www.smartfurniture.com/bdi.html" class="spriteBGC sprite-bdi"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Bdi')" rel="nofollow" href="http://www.smartfurniture.com/bdi.html">BECKER DESIGNED INC.</a></td>
-                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Kartell')" rel="nofollow" href="http://www.smartfurniture.com/kartell.html" class="spriteBGC sprite-kartell"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Kartell')" rel="nofollow" href="http://www.smartfurniture.com/kartell.html">KARTELL</a></td>
-                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Humanscale')" rel="nofollow" href="http://www.smartfurniture.com/humanscale.html" class="spriteBGC sprite-humanscale"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Humanscale')" rel="nofollow" href="http://www.smartfurniture.com/humanscale.html">HUMANSCALE</a></td>
-                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Cherner')" rel="nofollow" href="http://www.smartfurniture.com/cherner.html" class="spriteBGC sprite-cherner"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Cherner')" rel="nofollow" href="http://www.smartfurniture.com/cherner.html">CHERNER</a></td>
-                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Knoll')" rel="nofollow" href="http://www.smartfurniture.com/knoll.html" class="spriteBGC sprite-knoll"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Knoll')" rel="nofollow" href="http://www.smartfurniture.com/knoll.html">KNOLL STUDIO</a></td>
+                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Bdi')" rel="nofollow" href="http://www.smartfurniture.com/bdi.html" class="spriteBGC sprite-bdi"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Bdi')" rel="nofollow" href="http://www.smartfurniture.com/bdi.html">BECKER DESIGNED INC.</a></td>
+                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Kartell')" rel="nofollow" href="http://www.smartfurniture.com/kartell.html" class="spriteBGC sprite-kartell"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Kartell')" rel="nofollow" href="http://www.smartfurniture.com/kartell.html">KARTELL</a></td>
+                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Humanscale')" rel="nofollow" href="http://www.smartfurniture.com/humanscale.html" class="spriteBGC sprite-humanscale"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Humanscale')" rel="nofollow" href="http://www.smartfurniture.com/humanscale.html">HUMANSCALE</a></td>
+                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Cherner')" rel="nofollow" href="http://www.smartfurniture.com/cherner.html" class="spriteBGC sprite-cherner"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Cherner')" rel="nofollow" href="http://www.smartfurniture.com/cherner.html">CHERNER</a></td>
+                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Knoll')" rel="nofollow" href="http://www.smartfurniture.com/knoll.html" class="spriteBGC sprite-knoll"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Knoll')" rel="nofollow" href="http://www.smartfurniture.com/knoll.html">KNOLL STUDIO</a></td>
                                     <td class="superfishmenu" width="2%">&nbsp;</td>
                                 </tr>
                                 <tr>
                                     <td class="superfishmenu" width="2%">&nbsp;</td>
                                     <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Calligaris')" rel="nofollow" href="http://www.smartfurniture.com/calligaris.html" class="spriteBGC sprite-calligaris"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Calligaris')" rel="nofollow" href="http://www.smartfurniture.com/calligaris.html">CALLIGARIS</a></td>
-                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Emeco')" rel="nofollow" href="http://www.smartfurniture.com/emeco.html" class="spriteBGC sprite-emeco"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Emeco')" rel="nofollow" href="http://www.smartfurniture.com/emeco.html">EMECO</a></td>
-                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Bluelounge')" rel="nofollow" href="http://www.smartfurniture.com/bluelounge.html" class="spriteBGC sprite-bluelounge"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Bluelounge')" rel="nofollow" href="http://www.smartfurniture.com/bluelounge.html">BLUE LOUNGE</a></td>
-                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Chilewich')" rel="nofollow" href="http://www.smartfurniture.com/chilewich.html" class="spriteBGC sprite-chilewich"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Chilewich')" rel="nofollow" href="http://www.smartfurniture.com/chilewich.html">CHILEWICH</a></td>
-                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Dwellstudio')" rel="nofollow" href="http://www.smartfurniture.com/dwellstudio.html" class="spriteBGC sprite-dwell"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Dwellstudio')" rel="nofollow" href="http://www.smartfurniture.com/dwellstudio.html">DWELL STUDIO</a></td>
-                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Unison')" rel="nofollow" href="http://www.smartfurniture.com/unison.html" class="spriteBGC sprite-unison"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Unison')" rel="nofollow" href="http://www.smartfurniture.com/unison.html">UNISON HOME</a></td>
+                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Emeco')" rel="nofollow" href="http://www.smartfurniture.com/emeco.html" class="spriteBGC sprite-emeco"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Emeco')" rel="nofollow" href="http://www.smartfurniture.com/emeco.html">EMECO</a></td>
+                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Bluelounge')" rel="nofollow" href="http://www.smartfurniture.com/bluelounge.html" class="spriteBGC sprite-bluelounge"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Bluelounge')" rel="nofollow" href="http://www.smartfurniture.com/bluelounge.html">BLUE LOUNGE</a></td>
+                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Chilewich')" rel="nofollow" href="http://www.smartfurniture.com/chilewich.html" class="spriteBGC sprite-chilewich"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Chilewich')" rel="nofollow" href="http://www.smartfurniture.com/chilewich.html">CHILEWICH</a></td>
+                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Younger')" rel="nofollow" href="http://www.smartfurniture.com/younger.html" class="spriteBGC sprite-dwell"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Younger')" rel="nofollow" href="http://www.smartfurniture.com/younger.html">YOUNGER</a></td>
+                                    <td class="superfishmenu" width="16%" valign="bottom" align="center" style="padding-bottom:10px;border-left:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Unison')" rel="nofollow" href="http://www.smartfurniture.com/unison.html" class="spriteBGC sprite-unison"></a><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Unison')" rel="nofollow" href="http://www.smartfurniture.com/unison.html">UNISON HOME</a></td>
                                     <td class="superfishmenu" width="2%">&nbsp;</td>
                                 </tr>
                                 <tr>
                                     <td class="superfishmenu" width="2%">&nbsp;</td>
-		                            <td class="superfishmenu" width="16%" height="45px" valign="center" align="center"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Shop All brands')" rel="nofollow" href="http://www.smartfurniture.com/shop/brands.html"><span style="color:#4c6c80;font-weight:600;">SHOP ALL BRANDS ›</span></a></td>
+		                            <td class="superfishmenu" width="16%" height="45px" valign="center" align="center"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Shop All brands')" rel="nofollow" href="http://www.smartfurniture.com/shop/brands.html"><span style="color:#4c6c80;font-weight:bold;">SHOP ALL BRANDS ›</span></a></td>
 		                            <td class="superfishmenu" colspan="4">&nbsp;</td>
 		                            <td class="superfishmenu" colspan="2" align="right" valign="bottom" style="padding-right:10px;"><a id="sfhide" rel="nofollow" href="javascript:void(0)" onclick="sfHideWindow()"><img alt="Close Menu" src="http://www.smartfurniture.com/shop/images/home_images/navthumbs/close.png"></a></td>
 		                        </tr>
@@ -1315,11 +1303,11 @@ function alertContents() {
 	                </li>
 	                <li style="border-left:1px solid #cccccc;padding-left:1px;"> 
 		                <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','SMART OFFICE')" rel="nofollow" class="sf-with-ul" href="#"><center><strong><span style="color:#ffffff;">SMART OFFICE</span></strong></center></a> 
-		                <ul> 
+		                <ul style="display:none;"> 
                             <table cellpadding="0" cellspacing="0" width="1024px" style="border:5px solid #99aab6;">
 	                            <tbody><tr>
 	                                <td align="right" valign="top" class="superfishmenu" style="padding-left:10px;padding-right:10px;padding-top:10px;" width="40%"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Smart Office')" rel="nofollow" href="http://www.smartfurniture.com/smartoffice.html"><img alt="Smart Office furniture solutions for small businesses and home offices." src="http://www.smartfurniture.com/shop/images/smartoffice/smartoffice_logo.jpg"></a></td>
-	                                <td align="left" valign="center" class="superfishmenu" width="60%"><span style="padding-left:15px;padding-top:25px;65px;font-weight: 600; color: rgb(63, 52, 43); font-size: 130%;">Smart solutions for small business &amp; home office</span>
+	                                <td align="left" valign="center" class="superfishmenu" width="60%"><span style="padding-left:15px;padding-top:25px;65px;font-weight: bold; color: rgb(63, 52, 43); font-size: 130%;">Smart solutions for small business &amp; home office</span>
 	                                </td>
 	                            </tr>
 	                            <tr>
@@ -1353,22 +1341,22 @@ function alertContents() {
 	                </li>
 	                <li style="border-left:1px solid #cccccc;padding-left:1px;"> 
 		                <a class="sf-with-ul" rel="nofollow" href="#"><center><strong><span style="color:#ffffff;">DESIGN YOUR OWN</span></strong></center></a> 
-		                <ul> 
+		                <ul style="display:none;"> 
                             <table cellpadding="0" cellspacing="0" width="1024px" style="border:5px solid #99aab6;">
 	                            <tbody><tr>
 	                                <td align="left" valign="top" class="superfishmenu" style="padding-left:20px;padding-top:20px;" width="25%">
 	                                    <table cellpadding="0" cellspacing="0">
 	                                        <tbody><tr>
-	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-left:20px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Design Your On')" href="http://www.smartfurniture.com/designondemand.html" class="spriteBGC sprite-dod"></a></td>
-	                                            <td width="100px" valign="center" align="left" style="padding-left:10px;padding-right:30px;padding-bottom: 5px; border-right:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Design Your On')" href="http://www.smartfurniture.com/designondemand.html"><span style="color:#555555;font-size:11px;font-weight:600;">DESIGN YOUR OWN FURNITURE</span></a></td>
+	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-left:20px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Design Your Own')" href="http://www.smartfurniture.com/3minutecollection.html" class="spriteBGC sprite-dod"></a></td>
+	                                            <td width="100px" valign="center" align="left" style="padding-left:10px;padding-right:30px;padding-bottom: 5px; border-right:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Design Your Own')" href="http://www.smartfurniture.com/3minutecollection.html"><span style="color:#555555;font-size:11px;font-weight:bold;">DESIGN YOUR OWN FURNITURE</span></a></td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:20px;border-right:1px solid #dddddd;">
-	                                            <hr size="1" style="color:#dddddd;" width="165px" align="left">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:20px;border-right:1px solid #eeeeee;">
+	                                            <div class="line">&nbsp;</div>
 	                                            </td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:35px;padding-right:35px;padding-top:8px;border-right:1px solid #dddddd;">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:35px;padding-right:35px;padding-top:8px;border-right:1px solid #eeeeee;">
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','PCT Products')" href="http://www.smartfurniture.com/3minutecollection.html">Customizable Products</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','SmartDesigner')" href="http://www.smartfurniture.com/shop/catalog.designer.asp">Smart Shelves</a>
 	                                            </td>
@@ -1378,37 +1366,16 @@ function alertContents() {
 	                                <td align="left" valign="top" class="superfishmenu" style="padding-left:10px;padding-top:20px;" width="25%">
 	                                    <table cellpadding="0" cellspacing="0">
 	                                        <tbody><tr>
-	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-left:20px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','NewSmartDesigner')" rel="nofollow" href="http://www.smartfurniture.com/shop/smartdesigner/smartdesigner.asp" class="spriteBGC sprite-sd"></a></td>
-	                                            <td width="100px" valign="center" align="left" style="padding-left:10px;padding-right:45px;padding-bottom: 5px; border-right:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','NewSmartDesigner')" rel="nofollow" href="http://www.smartfurniture.com/shop/smartdesigner/smartdesigner.asp"><span style="color:#555555;font-size:11px;font-weight:600;">THE NEW SMARTDesigner®</span></a></td>
-	                                        </tr>
-	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:20px;border-right:1px solid #dddddd;">
-	                                            <hr size="1" style="color:#dddddd;" width="165px" align="left">
-	                                            </td>
-	                                        </tr>
-	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:35px;padding-right:35px;padding-top:8px;border-right:1px solid #dddddd;">
-                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Overview')" href="http://www.smartfurniture.com/shop/smartdesigner/overview.html">Overview</a><br>
-                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','DesignASpace')" href="http://www.smartfurniture.com/shop/smartdesigner/smartdesigner.asp">Design A Space</a><br>
-                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','SmartDesignerCommunity')" href="http://www.smartfurniture.com/designcommunity">SmartDesigner® Community</a>
-                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Instruction Tutorials')" href="http://www.smartfurniture.com/designer/instructions.html">Instructions &amp; Tutorials</a>
-	                                            </td>
-	                                        </tr>
-	                                    </tbody></table>
-	                                </td>
-	                                <td align="left" valign="top" class="superfishmenu" style="padding-left:10px;padding-top:20px;" width="25%">
-	                                    <table cellpadding="0" cellspacing="0">
-	                                        <tbody><tr>
 	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-left:20px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Designassistance')" rel="nofollow" href="http://www.smartfurniture.com/shop/designassistance.html" class="spriteBGC sprite-sf"></a></td>
-	                                            <td width="100px" valign="center" align="left" style="padding-left:10px;padding-right:40px;border-right:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Designassistance')" rel="nofollow" href="http://www.smartfurniture.com/shop/designassistance.html"><span style="color:#555555;font-size:11px;font-weight:600;">GET DESIGN ASSISTANCE</span></a></td>
+	                                            <td width="100px" valign="center" align="left" style="padding-left:10px;padding-right:40px;border-right:1px solid #eeeeee;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Designassistance')" rel="nofollow" href="http://www.smartfurniture.com/shop/designassistance.html"><span style="color:#555555;font-size:11px;font-weight:bold;">GET DESIGN ASSISTANCE</span></a></td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:20px;border-right:1px solid #dddddd;">
-	                                            <hr size="1" style="color:#dddddd;" width="165px" align="left">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:20px;border-right:1px solid #eeeeee;">
+	                                            <div class="line">&nbsp;</div>
 	                                            </td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:35px;padding-right:35px;padding-top:8px;padding-bottom:20px;border-right:1px solid #dddddd;">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:35px;padding-right:35px;padding-top:8px;padding-bottom:20px;border-right:1px solid #eeeeee;">
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','DesignAssistance')" rel="nofollow" href="http://www.smartfurniture.com/shop/designassistance.html">Contact a Designer</a><br>
                                                     <a rel="nofollow" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/68813994/?cmd=file&amp;file=visitorWantsToChat&amp;site=68813994&amp;byhref=1&amp;imageUrl=http://www.smartfurniture.com/shop/images/nav&amp;referrer='+escape(document.location),'chat68813994','width=475,height=400,resizable=yes');return false;" target="chat68813994" href="#">Chat Online Now</a>
 	                                            </td>
@@ -1419,14 +1386,17 @@ function alertContents() {
 	                                    <table cellpadding="0" cellspacing="0">
 	                                        <tbody><tr>
 	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-left:20px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','WhatisDesignOnDemand')" rel="nofollow" href="http://www.smartfurniture.com/designondemand.html" class="spriteBGC sprite-sf"></a></td>
-	                                            <td width="100px" valign="center" align="left" style="padding-left:10px;padding-right:40px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','WhatisDesignOnDemand')" rel="nofollow" href="http://www.smartfurniture.com/designondemand.html"><span style="color:#555555;font-size:11px;font-weight:600;">WHAT IS DESIGN ON DEMAND?</span></a></td>
+	                                            <td width="100px" valign="center" align="left" style="padding-left:10px;padding-right:40px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','WhatisDesignOnDemand')" rel="nofollow" href="http://www.smartfurniture.com/designondemand.html"><span style="color:#555555;font-size:11px;font-weight:bold;">WHAT IS DESIGN ON DEMAND?</span></a></td>
 	                                        </tr>
 	                                        <tr>
 	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:20px;">
-	                                            <hr size="1" style="color:#dddddd;" width="165px" align="left">
+	                                            <div class="line">&nbsp;</div>
 	                                            </td>
 	                                        </tr>
 	                                    </tbody></table>
+	                                </td>
+	                                <td align="left" valign="top" class="superfishmenu" style="padding-left:10px;padding-top:20px;" width="25%">
+	                                    &nbsp;
 	                                </td>
 	                            </tr>
 	                            <tr>
@@ -1440,27 +1410,26 @@ function alertContents() {
 	                </li> 
 	                <li style="border-left:1px solid #cccccc;">
 		                <a class="sf-with-ul" onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','ABOUT US')" rel="nofollow" href="#"><strong><span style="color:#ffffff;">ABOUT US</span></strong></a> 
-		                <ul> 
+		                <ul style="display:none;"> 
 			                <table cellpadding="0" cellspacing="0" width="1024px" style="border:5px solid #99aab6;">
 	                            <tbody><tr>
 	                                <td align="left" valign="top" class="superfishmenu" style="padding-left:20px;padding-top:20px;" width="25%">
 	                                    <table cellpadding="0" cellspacing="0">
 	                                        <tbody><tr>
-	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-left:20px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','AboutUs')" rel="nofollow" href="http://www.smartfurniture.com/companyhistory.html" class="spriteBGC sprite-aboutus"></a></td>
-	                                            <td width="100px" valign="center" align="left" style="padding-left:10px;padding-right:30px;padding-bottom: 5px; border-right:1px solid #dddddd;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','AboutUs')" rel="nofollow" href="http://www.smartfurniture.com/companyhistory.html"><span style="color:#555555;font-size:11px;font-weight:600;">ABOUT US</span></a></td>
+	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-left:20px;padding-bottom:5px;"><img alt="See More" src="http://www.smartfurniture.com/shop/images/home_images/navthumbs/sf.jpg"></td>
+	                                            <td width="100px" valign="center" align="left" style="padding-left:10px;padding-right:40px;padding-bottom: 5px; border-right:1px solid #eeeeee;"><span style="color:#555555;font-size:11px;font-weight:bold;">SEE MORE...</span></td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:20px;border-right:1px solid #dddddd;">
-	                                            <hr size="1" style="color:#dddddd;" width="165px" align="left">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:20px;border-right:1px solid #eeeeee;">
+	                                            <div class="line">&nbsp;</div>
 	                                            </td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:35px;padding-right:35px;padding-top:8px;border-right:1px solid #dddddd;">
-                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Why Shop Smart')" rel="nofollow" href="http://www.smartfurniture.com/whybuyfromus.html">Why Shop Smart</a><br>
-                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Company History')" rel="nofollow" href="http://www.smartfurniture.com/companyhistory.html">Company History</a><br>
-                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','WorldClassService')" href="http://www.smartfurniture.com/whitepapers/customerservice.html">World-Class Service</a><br>
-                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Testimonials')" href="http://www.smartfurniture.com/testimonials/customerservice.html">Testimonials</a><br>
-                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','InTheNews')" href="http://www.smartfurniture.com/news.html">In The News</a>
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:35px;padding-right:35px;padding-top:8px;border-right:1px solid #eeeeee;">
+                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','SmartTradeProgram')" rel="nofollow" href="http://www.smartfurniture.com/trade.html">Smart Trade Program</a><br>
+                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','FAQ')" href="http://www.smartfurniture.com/faq.html">Frequently-Asked Questions</a><br>
+                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','International')" href="http://www.smartfurniture.com/shop/contactus/international.html">International Inquiries</a><br>
+                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Privacy')" href="http://www.smartfurniture.com/privacy.html">Privacy Policy</a>
 	                                            </td>
 	                                        </tr>
 	                                    </tbody></table>
@@ -1469,15 +1438,15 @@ function alertContents() {
 	                                    <table cellpadding="0" cellspacing="0">
 	                                        <tbody><tr>
 	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-left:20px;padding-bottom:5px;"><img alt="What We Do at Smart Furniture" src="http://www.smartfurniture.com/shop/images/home_images/navthumbs/sf.jpg"></td>
-	                                            <td width="100px" valign="center" align="left" style="padding-top:7px;padding-left:10px;padding-right:45px;border-right:1px solid #dddddd;"><span style="color:#555555;font-size:11px;font-weight:600;">WHAT WE DO</span></td>
+	                                            <td width="100px" valign="center" align="left" style="padding-top:7px;padding-left:10px;padding-right:45px;border-right:1px solid #eeeeee;"><span style="color:#555555;font-size:11px;font-weight:bold;">WHAT WE DO</span></td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:20px;border-right:1px solid #dddddd;">
-	                                            <hr size="1" style="color:#dddddd;" width="165px" align="left">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:20px;border-right:1px solid #eeeeee;">
+	                                            <div class="line">&nbsp;</div>
 	                                            </td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:35px;padding-right:35px;padding-top:8px;border-right:1px solid #dddddd;">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:35px;padding-right:35px;padding-top:8px;border-right:1px solid #eeeeee;">
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Reviews')" rel="nofollow" href="http://www.smartfurniture.com/reviews.html">Product Reviews</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Studio')" rel="nofollow" href="http://www.smartfurniture.com/studio.html">Smart Furniture Studio</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','DesignOnDemand')" rel="nofollow" href="http://www.smartfurniture.com/designondemand.html">Design On Demand</a>
@@ -1489,17 +1458,17 @@ function alertContents() {
 	                                    <table cellpadding="0" cellspacing="0">
 	                                        <tbody><tr>
 	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-left:20px;"><img alt="Get In Touch With Us" style="padding-bottom:5px;" src="http://www.smartfurniture.com/shop/images/home_images/navthumbs/intouch.jpg"></td>
-	                                            <td width="100px" valign="center" align="left" style="padding-right:40px;padding-bottom: 5px;border-right:1px solid #dddddd;"><span style="color:#555555;font-size:11px;font-weight:600;">GET IN TOUCH</span></td>
+	                                            <td width="100px" valign="center" align="left" style="padding-right:40px;padding-bottom: 5px;border-right:1px solid #eeeeee;"><span style="color:#555555;font-size:11px;font-weight:bold;">GET IN TOUCH</span></td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:20px;border-right:1px solid #dddddd;">
-	                                            <hr size="1" style="color:#dddddd;" width="165px" align="left">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:20px;border-right:1px solid #eeeeee;">
+	                                            <div class="line">&nbsp;</div>
 	                                            </td>
 	                                        </tr>
 	                                        <tr>
-	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:35px;padding-right:35px;padding-top:8px;border-right:1px solid #dddddd;">
+	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:35px;padding-right:35px;padding-top:8px;border-right:1px solid #eeeeee;">
                                                     <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Contact Us')" rel="nofollow" href="http://www.smartfurniture.com/store/contact.html">Contact Us</a><br>
-                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Blog')" rel="nofollow" href="http://www.smartfurniture.com/blog.html">Company Blog</a><br>
+                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Blog')" rel="nofollow" href="http://designondemand.blogspot.com/">Company Blog</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav_2_15_11','ClickThru','Employee Blog')" rel="nofollow" href="http://smartfurnitureteam.blogspot.com/">Employee Blog</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav_2_15_11','ClickThru','Twitter')" rel="nofollow" href="http://twitter.com/Smart_Furniture">Twitter</a><br>
                                                     <a onclick="pageTracker._trackEvent('NewTopNav_2_15_11','ClickThru','Facebook')" rel="nofollow" href="http://www.facebook.com/smartfurniture">Facebook</a>
@@ -1510,20 +1479,22 @@ function alertContents() {
 	                                <td align="left" valign="top" class="superfishmenu" style="padding-left:10px;padding-top:20px;" width="25%">
 	                                    <table cellpadding="0" cellspacing="0">
 	                                        <tbody><tr>
-	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-left:20px;padding-bottom:5px;"><img alt="See More" src="http://www.smartfurniture.com/shop/images/home_images/navthumbs/sf.jpg"></td>
-	                                            <td width="100px" valign="center" align="left" style="padding-left:10px;padding-right:40px;padding-bottom: 5px;"><span style="color:#555555;font-size:11px;font-weight:600;">SEE MORE...</span></td>
+	                                            <td class="superfishmenu" width="60px" valign="center" style="padding-left:20px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','AboutUs')" rel="nofollow" href="http://www.smartfurniture.com/companyhistory.html" class="spriteBGC sprite-aboutus"></a></td>
+	                                            <td width="100px" valign="center" align="left" style="padding-left:10px;padding-right:30px;padding-bottom: 5px;"><a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','AboutUs')" rel="nofollow" href="http://www.smartfurniture.com/companyhistory.html"><span style="color:#555555;font-size:11px;font-weight:bold;">ABOUT US</span></a></td>
 	                                        </tr>
 	                                        <tr>
 	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:20px;">
-	                                            <hr size="1" style="color:#dddddd;" width="165px" align="left">
+	                                            <div class="line">&nbsp;</div>
 	                                            </td>
 	                                        </tr>
 	                                        <tr>
 	                                            <td class="superfishmenu" colspan="2" valign="top" style="padding-left:35px;padding-right:35px;padding-top:8px;padding-bottom:20px;">
-                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','SmartTradeProgram')" rel="nofollow" href="http://www.smartfurniture.com/trade.html">Smart Trade Program</a><br>
-                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','FAQ')" href="http://www.smartfurniture.com/faq.html">Frequently-Asked Questions</a><br>
-                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','International')" href="http://www.smartfurniture.com/shop/contactus/international.html">International Inquiries</a><br>
-                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Privacy')" href="http://www.smartfurniture.com/privacy.html">Privacy Policy</a>
+                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Why Shop Smart')" rel="nofollow" href="http://www.smartfurniture.com/whybuyfromus.html">Why Shop Smart</a><br>
+                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Company History')" rel="nofollow" href="http://www.smartfurniture.com/companyhistory.html">Company History</a><br>
+                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','WorldClassService')" href="http://www.smartfurniture.com/whitepapers/customerservice.html">World-Class Service</a><br>
+                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','Testimonials')" href="http://www.smartfurniture.com/testimonials/customerservice.html">Testimonials</a><br>
+                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','InTheNews')" href="http://www.smartfurniture.com/news.html">In The News</a><br>
+                                                    <a onclick="pageTracker._trackEvent('NewTopNav2_16_11','ClickThru','FounderBio')" href="http://www.smartfurniture.com/about/culp.html">Founder Bio</a>
 	                                            </td>
 	                                        </tr>
 	                                    </tbody></table>
@@ -1625,6 +1596,8 @@ function boxOnBlur(box, msg) {
   <tbody><tr>
     <td width="168" rowspan="5" valign="top" style="padding-left:0px; border-width: 1px; border-style: solid; border-color: #cccccc;">
 
+	
+
 <!-- Begin Main Table -->
 
 <style type="text/css">
@@ -1724,8 +1697,9 @@ text-indent: -1em;
     <table width="157" border="0" cellspacing="0" cellpadding="0" id="leftNav">
       <tbody><tr>
         <td valign="top" style="padding-right:10px; border-bottom:none;" class="Nav">
+        
         <!-- BEGIN LivePerson Button Code --><a rel="nofollow" onclick="javascript:window.open('http://server.iad.liveperson.net/hc/68813994/?cmd=file&amp;file=visitorWantsToChat&amp;site=68813994&amp;byhref=1&amp;imageUrl=https://www.smartfurniture.com/shop/images/nav&amp;referrer='+escape(document.location),'chat68813994','width=475,height=400,resizable=yes');return false;" target="chat68813994" href="#"><img src="http://www.smartfurniture.com/shop/images/Nav/reponline.gif" border="0"></a><!-- END LivePerson Button code -->
-       </td>
+      </td>
       </tr>
       <tr height="100%">
         <td valign="top" height="100%" style="height:100%;padding-bottom:2px; padding-left:0px; padding-right:5px; padding-top:10px; margin-left:0px;" class="Nav">
@@ -1734,7 +1708,7 @@ text-indent: -1em;
             <ul id="treemenu1" class="treeview">
         
         
-             			    <li><a class="hightlight" onclick="pageTracker._trackEvent('LeftNav','ClickThru','SHOP BY PRODUCT')" href="http://www.smartfurniture.com/shop/smartfurniture.html"><span class="NavHead"><b>SHOP BY PRODUCT</b></span></a><hr size="1" style="color: #aaaaaa; position:relative;left:-1em;"></li>
+             			    <li><a class="hightlight" onclick="pageTracker._trackEvent('LeftNav','ClickThru','SHOP BY PRODUCT')" href="http://www.smartfurniture.com/shop/smartfurniture.html"><span class="NavHead"><b>SHOP BY PRODUCT</b></span></a><div style="margin-top:5px;height:1px;background-color: #dddddd; position:relative;left:-1em;">&nbsp;</div></li>
                 
              			            <li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','Shelves')" href="http://www.smartfurniture.com/shelves.html">Shelves</a>        
              			        
@@ -1754,29 +1728,27 @@ text-indent: -1em;
              			        
              			            </li><li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','Accessories')" href="http://www.smartfurniture.com/accessories.html">Accessories</a>        
              			        
-             			            </li><li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','Quick Ship')" href="http://www.smartfurniture.com/quickship.html">Quick Ship</a>        
-             			        
              			            </li><li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','Affordable Designs')" href="http://www.smartfurniture.com/affordable-designs.html">Affordable Designs</a>        
              			        
              			            </li><li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','Gift Cards')" href="http://www.smartfurniture.com/giftcards.html">Gift Cards</a>        
              			        
-             			    </li><li style="padding-top:1em;"><a class="hightlight" onclick="pageTracker._trackEvent('LeftNav','ClickThru','SHOP BY ROOM')" href="http://www.smartfurniture.com/shop/smartspaces.html"><span class="NavHead"><b>SHOP BY ROOM</b></span></a><hr size="1" style="color: #aaaaaa; position:relative;left:-1em;"></li>
+             			    </li><li style="padding-top:1em;"><a class="hightlight" onclick="pageTracker._trackEvent('LeftNav','ClickThru','SHOP BY ROOM')" href="http://www.smartfurniture.com/shop/smartspaces.html"><span class="NavHead"><b>SHOP BY ROOM</b></span></a><div style="margin-top:5px;height:1px;background-color: #dddddd; position:relative;left:-1em;">&nbsp;</div></li>
                 
-             			            <li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','Small Office &amp; Home Office')" href="http://www.smartfurniture.com/office.html">Small Office &amp; Home Office</a>        
+             			            <li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','Home Office')" href="http://www.smartfurniture.com/office.html">Home Office</a>        
              			        
              			            </li><li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','Apartments &amp; Lofts')" href="http://www.smartfurniture.com/apartment.html">Apartments &amp; Lofts</a>        
              			        
-             			            </li><li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','Patio &amp; Outdoor')" href="http://www.smartfurniture.com/outdoor.html">Patio &amp; Outdoor</a>        
+             			            </li><li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','Living Room')" href="http://www.smartfurniture.com/living.html">Living Room</a>        
              			        
              			            </li><li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','Dining Room')" href="http://www.smartfurniture.com/dining.html">Dining Room</a>        
-             			        
-             			            </li><li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','Living Room')" href="http://www.smartfurniture.com/living.html">Living Room</a>        
              			        
              			            </li><li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','Bedroom')" href="http://www.smartfurniture.com/bedroom.html">Bedroom</a>        
              			        
              			            </li><li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','Kids Room')" href="http://www.smartfurniture.com/kids.html">Kids Room</a>        
              			        
-             			    </li><li style="padding-top:1em;"><a class="hightlight" onclick="pageTracker._trackEvent('LeftNav','ClickThru','SHOP BY BRAND')" href="http://www.smartfurniture.com/shop/brands.html"><span class="NavHead"><b>SHOP BY BRAND</b></span></a><hr size="1" style="color: #aaaaaa; position:relative;left:-1em;"></li>
+             			            </li><li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','Patio &amp; Outdoor')" href="http://www.smartfurniture.com/outdoor.html">Patio &amp; Outdoor</a>        
+             			        
+             			    </li><li style="padding-top:1em;"><a class="hightlight" onclick="pageTracker._trackEvent('LeftNav','ClickThru','SHOP BY BRAND')" href="http://www.smartfurniture.com/shop/brands.html"><span class="NavHead"><b>SHOP BY BRAND</b></span></a><div style="margin-top:5px;height:1px;background-color: #dddddd; position:relative;left:-1em;">&nbsp;</div></li>
                 
              			            <li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','Smart Shelves')" href="http://www.smartfurniture.com/smartshelves.html">Smart Shelves</a>        
              			        
@@ -1808,29 +1780,19 @@ text-indent: -1em;
              			        
              			            </li><li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','Shop All Brands')" href="http://www.smartfurniture.com/shopbybrand.html">Shop All Brands</a>        
              			        
-                            </li><li style="padding-top:1em;"><span class="NavHead" ;"=""><b>ABOUT US</b></span><hr size="1" style="color: #aaaaaa; position:relative;left:-1em;"></li>
+                            </li><li style="padding-top:1em;"><span class="NavHead" ;"=""><b>ABOUT US</b></span><div style="margin-top:5px;height:1px;background-color: #dddddd; position:relative;left:-1em;">&nbsp;</div></li>
                 
              			            <li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','Why Shop Smart?')" href="http://www.smartfurniture.com/whybuyfromus.html">Why Shop Smart?</a>        
              			        
-             			            </li><li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','Product Reviews')" href="http://www.smartfurniture.com/reviews.html">Product Reviews</a>        
-             			        
              			            </li><li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','Company History')" href="http://www.smartfurniture.com/companyhistory.html">Company History</a>        
              			        
-             			            </li><li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','World Class Customer Service')" href="http://www.smartfurniture.com/whitepapers/customerservice.html">World Class Customer Service</a>        
+             			            </li><li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','World Class Service')" href="http://www.smartfurniture.com/whitepapers/customerservice.html">World Class Service</a>        
              			        
-             			            </li><li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','What is Design on Demand?')" href="http://www.smartfurniture.com/designondemand.html">What is Design on Demand?</a>        
-             			        
-             			            </li><li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','Design on Demand Blog')" href="http://www.smartfurniture.com/blog.html">Design on Demand Blog</a>        
-             			        
-             			            </li><li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','Employee Blog')" href="http://www.smartfurniture.com/employeeblog.html">Employee Blog</a>        
+             			            </li><li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','Design on Demand')" href="http://www.smartfurniture.com/designondemand.html">Design on Demand</a>        
              			        
              			            </li><li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','Visit Our Studio')" href="http://www.smartfurniture.com/studio.html">Visit Our Studio</a>        
              			        
-             			            </li><li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','Trade Professional Program')" href="http://www.smartfurniture.com/trade.html">Trade Professional Program</a>        
-             			        
-             			            </li><li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','Contact Us')" href="http://www.smartfurniture.com/store/contact.html?att=675">Contact Us</a>        
-             			        
-             			    </li><li style="padding-top:1em;"><a class="hightlight" onclick="pageTracker._trackEvent('LeftNav','ClickThru','SALE')" href="http://www.smartfurniture.com/shop/sale.html"><span class="NavHead"><b>SALE</b></span></a><hr size="1" style="color: #aaaaaa; position:relative;left:-1em;"></li>
+             			    </li><li style="padding-top:1em;"><a class="hightlight" onclick="pageTracker._trackEvent('LeftNav','ClickThru','SALE')" href="http://www.smartfurniture.com/shop/sale.html"><span class="NavHead"><b>SALE</b></span></a><div style="margin-top:5px;height:1px;background-color: #dddddd; position:relative;left:-1em;">&nbsp;</div></li>
                  
                       	        <li style="padding-left:0px;"><a class="Nav" onclick="pageTracker._trackEvent('LeftNav','ClickThru','')" href="http://www.smartfurniture.com/shop/landing_template.asp?att=0"><span class="highlight"></span></a>
                       	    
@@ -1946,11 +1908,14 @@ function checkSdodNameType(name, evt)
       
       <tr>
       <td>
+		
         <!-- deal of day was here -->
       </td>
       </tr>
    </tbody></table>
-   </td>
+   
+
+    </td>
     <!--<td width="654" valign="top" style="padding-left:5px;">-->
       
       <td colspan="3" valign="top" width="800" style="padding-left:0px;">
@@ -2094,7 +2059,7 @@ We collect demographic and profile data. We use this data to enhance your shoppi
 <strong>How Secure Is My Personal Information? </strong> <br>
 This Site incorporates physical, electronic, and administrative procedures to safeguard the confidentiality of your personal information, including Secure Sockets Layer ("SSL") for all financial transactions through this Site. We use SSL encryption to protect your personal information online, and we also take several steps to protect your personal information in our facilities. Access to your personal information is restricted. Only employees who need access to your personal information to perform a specific job are granted access to your personal information. Finally, we rely on third-party service providers for the physical security of some of our computer hardware. We believe that their security procedures are adequate. For example, when you visit our Site, you access servers that are kept in a secure physical environment, behind a locked cage and an electronic firewall. While we use industry-standard precautions to safeguard your personal information, we cannot guarantee complete security. 100% complete security does not presently exist anywhere online or offline.<br>
 &nbsp;</p>
-<h2>Update to this Policy</h2>
+<h2>Updates to this Policy</h2>
 <p>If we change or update this Privacy Policy, we will post changes and updates on this Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Privacy Policy from time to time so you will know if the Privacy Policy has been changed or updated.</p>
 <p>&nbsp;<br>
 <br>
@@ -2140,6 +2105,8 @@ Copyright 2009 by Smart Furniture, Inc.  All rights reserved. <span style="font-
     <td colspan="4"><img src="http://www.smartfurniture.com/shop/images/home_images/spacer5x5.gif" width="5" height="5"></td>
   </tr>
 </tbody></table>
+
+
   
   
 
@@ -2154,55 +2121,55 @@ Copyright 2009 by Smart Furniture, Inc.  All rights reserved. <span style="font-
         
     </div>
       <div id="footer"><div id="footernav">
-<table cellspacing="0" cellpadding="0" width="1024">
+<table width="1024" cellspacing="0" cellpadding="0">
     <tbody>
         <tr>
             <td colspan="9">&nbsp;</td>
         </tr>
     </tbody>
 </table>
-<table cellspacing="0" cellpadding="0" border="0" background="/shop/images/site/newfront/FooterNavigationBackground815.jpg" width="1024" id="footerTable">
+<table width="1024" cellspacing="0" cellpadding="0" border="0" background="/shop/images/site/newfront/FooterNavigationBackground815.jpg" id="footerTable">
     <tbody>
         <tr>
-            <td width="9" valign="top" class="footerTD" style="border-bottom: 1px solid rgb(204, 204, 204);">&nbsp;</td>
-            <td width="146" valign="top" style="border-bottom: 1px solid rgb(204, 204, 204); padding-left: 5px; padding-top: 8px; padding-bottom: 10px;" class="footerTD"><span style="font-weight: bold; font-size: 11px; text-decoration: none; color: black;">about us</span><br>
-            <a style="padding-bottom: 5px;" href="http://www.smartfurniture.com/companyhistory.html" rel="nofollow">company history</a><br>
-            <a style="padding-bottom: 5px;" href="http://www.smartfurniture.com/studio.html">the studio</a><br>
-            <a style="padding-bottom: 5px;" href="http://www.smartfurniture.com/news.html">in the news</a><br>
-            <a style="padding-bottom: 5px;" href="http://www.smartfurniture.com/testimonials/customerservice.html" rel="nofollow">testimonials</a><br>
-            <a href="http://www.smartfurniture.com/store/faq.html?headerParam=Company%20History,%20Awards,%20and%20Recognition&amp;questionParam=3" rel="nofollow">awards</a><br>
-            <a style="padding-bottom: 5px;" href="http://www.smartfurniture.com/corporate.html" rel="nofollow">corporate info</a><br>
-            <a style="padding-bottom: 5px;" href="http://www.smartfurniture.com/privacy.html">privacy</a> <span style="color: #777777;">&amp;</span> <a style="padding-bottom: 5px;" href="http://www.smartfurniture.com/terms.html">terms of use</a></td>
-            <td width="9" valign="top" class="footerTD" style="border-bottom: 1px solid rgb(204, 204, 204);">&nbsp;</td>
-            <td width="155" valign="top" style="border-bottom: 1px solid rgb(204, 204, 204); padding-left: 5px; padding-top: 8px; padding-bottom: 10px;" class="footerTD"><span style="font-weight: bold; font-size: 11px; text-decoration: none; color: black;">customer   service</span><br>
-            <a style="padding-bottom: 5px;" href="https://www.smartfurniture.com/shop/login.html" rel="nofollow">my account</a><br>
-            <a style="padding-bottom: 5px;" href="http://www.smartfurniture.com/store/contact.html" rel="nofollow">contact us</a><br>
-            <a style="padding-bottom: 5px;" href="http://www.smartfurniture.com/shop/contactus/international.html" rel="nofollow">international inquiries</a><br>
-            <a style="padding-bottom: 5px;" href="http://www.smartfurniture.com/shop/catalog.html" rel="nofollow">request a catalog</a><br>
-            <a href="http://www.smartfurniture.com/faq.html#365dayreturns" rel="nofollow">365-day return policy</a><br>
-            <a style="padding-bottom: 5px;" href="http://www.smartfurniture.com/shippinganddelivery.html" rel="nofollow">shipping &amp; delivery</a><br>
-            <a style="padding-bottom: 5px;" href="http://www.smartfurniture.com/faq.html" rel="nofollow">faqs</a></td>
-            <td width="9" valign="top" class="footerTD" style="border-bottom: 1px solid rgb(204, 204, 204);">&nbsp;</td>
-            <td width="155" valign="top" style="border-bottom: 1px solid rgb(204, 204, 204); padding-left: 5px; padding-top: 8px; padding-bottom: 10px;" class="footerTD"><span style="font-weight: bold; font-size: 11px; text-decoration: none; color: black;">connect with   us</span><br>
-            <a style="padding-bottom: 5px;" href="http://www.smartfurniture.com/blog.html" rel="nofollow">company blog</a><br>
-            <a style="padding-bottom: 5px;" href="http://www.smartfurniture.com/employeeblog.html" rel="nofollow">employee blog</a><br>
+            <td width="9" valign="top" style="border-bottom: 1px solid rgb(204, 204, 204);" class="footerTD">&nbsp;</td>
+            <td width="146" valign="top" class="footerTD" style="border-bottom: 1px solid rgb(204, 204, 204); padding-left: 5px; padding-top: 8px; padding-bottom: 10px;"><span style="font-weight: bold; font-size: 11px; text-decoration: none; color: black;">about us</span><br>
+            <a rel="nofollow" href="http://www.smartfurniture.com/companyhistory.html" style="padding-bottom: 5px;">company history</a><br>
+            <a href="http://www.smartfurniture.com/studio.html" style="padding-bottom: 5px;">the studio</a><br>
+            <a href="http://www.smartfurniture.com/news.html" style="padding-bottom: 5px;">in the news</a><br>
+            <a rel="nofollow" href="http://www.smartfurniture.com/testimonials/customerservice.html" style="padding-bottom: 5px;">testimonials</a><br>
+            <a rel="nofollow" href="http://www.smartfurniture.com/store/faq.html?headerParam=Company%20History,%20Awards,%20and%20Recognition&amp;questionParam=3">awards</a><br>
+            <a rel="nofollow" href="http://www.smartfurniture.com/corporate.html" style="padding-bottom: 5px;">corporate info</a><br>
+            <a href="http://www.smartfurniture.com/privacy.html" style="padding-bottom: 5px;">privacy</a> <span style="color: rgb(119, 119, 119);">&amp;</span> <a href="http://www.smartfurniture.com/terms.html" style="padding-bottom: 5px;">terms of use</a></td>
+            <td width="9" valign="top" style="border-bottom: 1px solid rgb(204, 204, 204);" class="footerTD">&nbsp;</td>
+            <td width="155" valign="top" class="footerTD" style="border-bottom: 1px solid rgb(204, 204, 204); padding-left: 5px; padding-top: 8px; padding-bottom: 10px;"><span style="font-weight: bold; font-size: 11px; text-decoration: none; color: black;">customer   service</span><br>
+            <a rel="nofollow" href="https://www.smartfurniture.com/shop/login.html" style="padding-bottom: 5px;">my account</a><br>
+            <a rel="nofollow" href="http://www.smartfurniture.com/store/contact.html" style="padding-bottom: 5px;">contact us</a><br>
+            <a rel="nofollow" href="http://www.smartfurniture.com/shop/contactus/international.html" style="padding-bottom: 5px;">international inquiries</a><br>
+            <a rel="nofollow" href="http://www.smartfurniture.com/shop/catalog.html" style="padding-bottom: 5px;">request a catalog</a><br>
+            <a rel="nofollow" href="http://www.smartfurniture.com/faq.html#365dayreturns">365-day return policy</a><br>
+            <a rel="nofollow" href="http://www.smartfurniture.com/shippinganddelivery.html" style="padding-bottom: 5px;">shipping &amp; delivery</a><br>
+            <a rel="nofollow" href="http://www.smartfurniture.com/faq.html" style="padding-bottom: 5px;">faqs</a></td>
+            <td width="9" valign="top" style="border-bottom: 1px solid rgb(204, 204, 204);" class="footerTD">&nbsp;</td>
+            <td width="155" valign="top" class="footerTD" style="border-bottom: 1px solid rgb(204, 204, 204); padding-left: 5px; padding-top: 8px; padding-bottom: 10px;"><span style="font-weight: bold; font-size: 11px; text-decoration: none; color: black;">connect with   us</span><br>
+            <a rel="nofollow" href="http://designondemand.blogspot.com" style="padding-bottom: 5px;">company blog</a><br>
+            <a rel="nofollow" href="http://smartfurnitureteam.blogspot.com" style="padding-bottom: 5px;">employee blog</a><br>
             <a href="http://www.facebook.com/smartfurniture">facebook</a><br>
             <a href="http://twitter.com/Smart_Furniture">twitter</a><br>
-            <a target="_blank" href="https://signup.cj.com/member/brandedPublisherSignUp.do?air_refmerchantid=2494107" rel="nofollow">affiliate program</a><br>
-            <a style="padding-bottom: 5px;" href="http://www.smartfurniture.com/trade.html" rel="nofollow">trade program</a></td>
-            <td width="9" valign="top" class="footerTD" style="border-bottom: 1px solid rgb(204, 204, 204);">&nbsp;</td>
-            <td width="145" valign="top" style="border-bottom: 1px solid rgb(204, 204, 204); padding-left: 5px; padding-top: 8px; padding-bottom: 10px;" class="footerTD"><span style="font-weight: bold; font-size: 11px; text-decoration: none; color: black;">what we   do</span><br>
-            <a style="padding-bottom: 5px;" href="http://www.smartfurniture.com/designondemand.html">design on demand®</a><br>
-            <a style="padding-bottom: 5px;" href="http://www.smartfurniture.com/whitepapers/customerservice.html" rel="nofollow">world-class service</a><br>
-            <a style="padding-bottom: 5px;" href="http://www.smartfurniture.com/reviews.html">product reviews</a><br>
-            <a style="padding-bottom: 5px;" href="http://www.smartfurniture.com/whybuyfromus.html">why shop smart?</a></td>
-            <td align="left" width="177" valign="top" style="border-right: 1px solid rgb(204, 204, 204); border-bottom: 1px solid rgb(204, 204, 204); padding-left: 5px; padding-top: 8px;" class="footerTD"><a style="font-weight: bold; font-size: 11px; text-decoration: none; color: black;" href="/store/siteindex.html" rel="nofollow">site   index</a><br>
+            <a rel="nofollow" href="https://signup.cj.com/member/brandedPublisherSignUp.do?air_refmerchantid=2494107" target="_blank">affiliate program</a><br>
+            <a rel="nofollow" href="http://www.smartfurniture.com/trade.html" style="padding-bottom: 5px;">trade program</a></td>
+            <td width="9" valign="top" style="border-bottom: 1px solid rgb(204, 204, 204);" class="footerTD">&nbsp;</td>
+            <td width="145" valign="top" class="footerTD" style="border-bottom: 1px solid rgb(204, 204, 204); padding-left: 5px; padding-top: 8px; padding-bottom: 10px;"><span style="font-weight: bold; font-size: 11px; text-decoration: none; color: black;">what we   do</span><br>
+            <a href="http://www.smartfurniture.com/designondemand.html" style="padding-bottom: 5px;">design on demand®</a><br>
+            <a rel="nofollow" href="http://www.smartfurniture.com/whitepapers/customerservice.html" style="padding-bottom: 5px;">world-class service</a><br>
+            <a href="http://www.smartfurniture.com/reviews.html" style="padding-bottom: 5px;">product reviews</a><br>
+            <a href="http://www.smartfurniture.com/whybuyfromus.html" style="padding-bottom: 5px;">why shop smart?</a></td>
+            <td width="177" valign="top" align="left" class="footerTD" style="border-right: 1px solid rgb(204, 204, 204); border-bottom: 1px solid rgb(204, 204, 204); padding-left: 5px; padding-top: 8px;"><a rel="nofollow" href="/store/siteindex.html" style="font-weight: bold; font-size: 11px; text-decoration: none; color: black;">site   index</a><br>
             <br>
             <div style=""><!--
 SiteSeal Html Builder Code:
 Shows the logo at URL https://seal.networksolutions.com/images/basicrecgreen.gif
 Logo type is  ("NETSP")
-//--> <a href="http://seals.networksolutions.com/siteseal_seek/siteseal?v_shortname=NETSP&amp;v_querytype=W&amp;v_search=www.smartfurniture.com&amp;x=5&amp;y=5">     <img src="/shop/images/home_images/basicrecgreen.gif" alt="" id="netSolSeal"></a></div>
+//--> <a href="http://seals.networksolutions.com/siteseal_seek/siteseal?v_shortname=NETSP&amp;v_querytype=W&amp;v_search=www.smartfurniture.com&amp;x=5&amp;y=5">     <img id="netSolSeal" alt="" src="/shop/images/home_images/basicrecgreen.gif"></a></div>
             </td>
         </tr>
     </tbody>
@@ -2226,7 +2193,9 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 var pageTracker = _gat._getTracker("UA-190634-1");
 pageTracker._setAllowLinker(true);
 pageTracker._setDomainName("none");
+
 pageTracker._trackPageview();
+pageTracker._trackPageLoadTime();
 </script> 
 <!-- Google Analytices Script Ends -->    
 
@@ -2234,37 +2203,7 @@ pageTracker._trackPageview();
 
 <!-- James Get Google Cookie Info -->
 <script type="text/javascript">
-google.load('search', '1');
- 
-     var exe = new Object;
-     exe.execute = function() {
-       alert('Executed with value: ' +
-document.getElementById('q-execute').value);
-     }
- 
-     var sub = new Object;
-     sub.submit = function() {
-       alert('Submitted with value: ' +
-document.getElementById('q-submit').value);
-     }
- 
-     function onLoad() {
-       var cse_id = '007001059069091948300:yxkbvv9vtbs';
-       google.search.CustomSearchControl.attachAutoCompletion(
-           cse_id,
-           document.getElementById('searchText'),
-           'cse-commerce-s-form');
-       /*google.search.CustomSearchControl.attachAutoCompletion(
-           cse_id,
-           document.getElementById('q-execute'),
-           exe);
-       google.search.CustomSearchControl.attachAutoCompletion(
-           cse_id,
-           document.getElementById('q-submit'),
-           sub);*/
-     }
- 
-     google.setOnLoadCallback(onLoad);
+
 
 function createXMLHttpRequest() {
    try { return new ActiveXObject("Msxml2.XMLHTTP"); } catch (e) {}
@@ -2493,8 +2432,25 @@ var lpPosY = 100;
 <!-- END Invitation Positioning  -->
 <iframe src="https://pixel.fetchback.com/serve/fb/pdc?cat=&amp;name=landing&amp;sid=1926" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
 
-<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG --><script language="javascript" src="http://server.iad.liveperson.net/hc/68813994/x.js?cmd=file&amp;file=chatScript3&amp;site=68813994&amp;&amp;imageUrl=https://www.smartfurniture.com/shop/images/site/newfront"> </script><!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+<script type="text/javascript">
+var _sf_async_config={uid:22530,domain:"smartfurniture.com"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
 
 
-
-</body></html>
+<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
