@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juiceanalytics.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605160553id_/http%3A//www.juiceanalytics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juiceanalytics.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130102008id_/http%3A//www.juiceanalytics.com/privacy) for the most accurate reproduction.*
 
 # Juice Inc. Privacy Policy – Juice Analytics
 
