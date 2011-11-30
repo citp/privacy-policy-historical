@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurotax.com privacy policy that was archived on 2010-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100210032525id_/http%3A//www.eurotax.com/index.php%3Fp%3Dprivacy%26l%3Dencm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurotax.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130011941id_/http%3A//www.eurotax.com/index.php%3Fp%3Dprivacy%26l%3Dencm) for the most accurate reproduction.*
 
 # EurotaxGlass's - Privacy Policy
 
