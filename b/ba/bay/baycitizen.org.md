@@ -1,10 +1,41 @@
-> *The following text is extracted and transformed from the baycitizen.org privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616141641id_/http%3A//www.baycitizen.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baycitizen.org privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130184759id_/http%3A//www.baycitizen.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Bay Citizen
 
+[](https://web.archive.org/)
+
+[ ](http://googleads.g.doubleclick.net/aclk?sa=L&ai=Bts-gWXG9TsuBDo3EnQTJrZm_B_vN6IcDAAAAEAEgi-quGzgAUNbui4T7_____wFYk4e3oDBgyfb4hsijoBmyAQlsb2NhbGhvc3S6AQlnZnBfaW1hZ2XIAQLaARZodHRwOi8vbG9jYWxob3N0OjgwMDAv4AECwAIC4AIA6gISSGVhZGVyUmlnaHRfMTc1eDUw-AKB0h6AAwGQA_ABmAPwAagDAeAEAaAGFA&num=0&sig=AOD64_3fL-9AFNOcjaB7fvQ8SbBPhkz_1Q&client=ca-pub-5050647251544365&adurl=http://www.baycitizen.org/donate/%3Fw%3D175x50DonateToday%26utm_source%3Ddfp%26utm_medium%3Dsite_ad%26utm_campaign%3DNewDonateButton%26utm_content%3D175x50DonateToday)
+
+  * [ News ](https://web.archive.org/news/)
+  * [ Local ](https://web.archive.org/local/)
+  * [ Arts & Life ](https://web.archive.org/arts-and-life/)
+  * [ Columns & Blogs ](https://web.archive.org/columns-and-blogs/)
+  * [ Topics ](https://web.archive.org/topics/)
+  * [ Data Library ](https://web.archive.org/data/)
+  * [ Support Us ](https://web.archive.org/support-us/)
+  * [ About ](https://web.archive.org/about/)
+  *   * [Follow us on Facebook](http://bitly.com/9tPzEp)
+  * [Follow us on Twitter](http://bitly.com/qS40gG)
+
+
+
+  * [ ](https://web.archive.org/topics/?w=topicsub)
+  * [Elections 2011](https://web.archive.org/sf-mayoral-race/)
+  * [Environmental Health](https://web.archive.org/environmental-health/)
+  * [Marijuana](https://web.archive.org/marijuana/)
+  * [Occupy Movement](https://web.archive.org/occupy-movement/)
+  * [Policing](https://web.archive.org/policing/)
+  * [The Bay Citizen Poll](https://web.archive.org/bay-citizen-poll/)
+  * [Visual Art](https://web.archive.org/visual-art/)
+  * [Wildlife](https://web.archive.org/wildlife/)
+
+
+
+Get in touch with The Bay Citizen 
+
 Effective Date: May 26, 2010
 
-Welcome to The Bay Citizen. This Privacy Policy describes the types of information that we collect through our website and what we do with that information. Please read it carefully. This Privacy Policy applies only to information collected online through The Bay Citizen website and does not apply to any information you may provide to us, or that we may collect, offline or through other means (for example via telephone or through the mail). If you have any questions about this Privacy Policy, please [contact us here.](https://web.archive.org/web/20110616141641id_/contact/)
+Welcome to The Bay Citizen. This Privacy Policy describes the types of information that we collect through our website and what we do with that information. Please read it carefully. This Privacy Policy applies only to information collected online through The Bay Citizen website and does not apply to any information you may provide to us, or that we may collect, offline or through other means (for example via telephone or through the mail). If you have any questions about this Privacy Policy, please [contact us here.](https://web.archive.org/web/20111130184759id_/http:/contact/)
 
 PROTECTING THE PRIVACY OF CHILDREN
 
@@ -74,7 +105,7 @@ To help Advertisers (and their ad agencies) understand our audience and confirm 
 
 We may share the information that is collected through this site with our third party service providers for purposes related to site administration and operation. In some cases, we may permit our third-party service providers to collect such information directly, on our behalf. For example, this website uses third-party web analytics services such as Google Analytics, Woopra, etc. to help analyze how users use the site. These services use cookies and web beacons to collect non-personally identifying tracking data directly from our site on our behalf, and then use that data to provide us with statistical reports on website activity. If you use a credit or debit card to complete a transaction on our site (for example, to make a donation to The Bay Citizen), your personal information and credit card number will be sent directly to our credit card processing service provider to complete your transaction. We also may share your email address and name with third-party email services providers that send newsletters and other communications on our behalf. 
 
-We also may occasionally release information about our visitors and registered users if required to do so by law or if, in our judgment, such disclosure is reasonably necessary to comply with legal process, to enforce our [Terms of Use](https://web.archive.org/web/20110616141641id_/about/terms-of-use/), or to protect the rights, property, or personal safety of visitors to our site, our employees, our donors, sponsors or Advertisers, or others. In the unlikely event that we sell some or all of our assets, or our site is acquired by another company, information about our visitors to our site may be among the transferred assets.
+We also may occasionally release information about our visitors and registered users if required to do so by law or if, in our judgment, such disclosure is reasonably necessary to comply with legal process, to enforce our [Terms of Use](https://web.archive.org/web/20111130184759id_/http:/about/terms-of-use/), or to protect the rights, property, or personal safety of visitors to our site, our employees, our donors, sponsors or Advertisers, or others. In the unlikely event that we sell some or all of our assets, or our site is acquired by another company, information about our visitors to our site may be among the transferred assets.
 
 If you enter a contest or sweepstakes on our site, we may share your entry information with the co-sponsor of the promotion, as described below in the section titled “Sweepstakes and Contest Entry Information”.
 
@@ -86,7 +117,7 @@ Please keep in mind that whenever you voluntarily make your personal information
 
 How To Modify Your Account Information
 
-If you are a registered user of our site, you can make changes to your newsletter subscription preferences, the information that appears in your user profile, and other account settings and preferences by logging in to the site and selecting the “Edit Profile” option. If you would like us to delete your user profile and shut down your account, please [contact us](https://web.archive.org/web/20110616141641id_/contact/) with your request. We will disable your account within a reasonable period of time after receiving your request. Please note that we may need to retain some information to satisfy our legal and security obligations. For example, some of your information may remain in back-up storage even if you ask us to delete it. ****
+If you are a registered user of our site, you can make changes to your newsletter subscription preferences, the information that appears in your user profile, and other account settings and preferences by logging in to the site and selecting the “Edit Profile” option. If you would like us to delete your user profile and shut down your account, please [contact us](https://web.archive.org/web/20111130184759id_/http:/contact/) with your request. We will disable your account within a reasonable period of time after receiving your request. Please note that we may need to retain some information to satisfy our legal and security obligations. For example, some of your information may remain in back-up storage even if you ask us to delete it. ****
 
 **Storage of Information**
 
@@ -95,3 +126,5 @@ The information that we collect through The Bay Citizen website is stored within
 **CHANGES TO THIS PRIVACY POLICY**
 
 The web is an evolving medium. If we need to change this Privacy Policy in the future, we will post the revised Privacy Policy on our site and update the “Effective Date,” above, to reflect the date of the changes. By continuing to use this website after we post such changes, you agree to the terms of this Privacy Policy, as modified.
+
+[](http://www.baycitizen.org/donate/?w=repostUs)
