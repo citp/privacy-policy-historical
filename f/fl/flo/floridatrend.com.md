@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridatrend.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523232607id_/http%3A//floridatrend.com/section.asp%3FsecID%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridatrend.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130150455id_/http%3A//floridatrend.com/section.asp%3FsecID%3D8) for the most accurate reproduction.*
 
 # Florida Trend.com’s Privacy Policy
 
