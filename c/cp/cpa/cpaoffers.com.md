@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpaoffers.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519095215id_/http%3A//cpaoffers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpaoffers.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130062544id_/http%3A//cpaoffers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
