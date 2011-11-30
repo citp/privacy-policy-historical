@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fanfeedr.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523182754id_/http%3A//www.fanfeedr.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanfeedr.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130225549id_/http%3A//fanfeedr.com/info/privacy) for the most accurate reproduction.*
 
-# FanFeedr | Privacy policy
+# FanFeedr: Privacy
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
@@ -18,13 +18,13 @@ We may collect, store and use the following kinds of personal data:
 **(2) Cookies  
 **A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser. 
 
-We use both “session” and “persistent” cookies on the website. We will use the session cookies to keep track of you while you navigate the website. We will use the persistent cookies to recognize registered users when they return to the website. 
+We use both "session" and "persistent" cookies on the website. We will use the session cookies to keep track of you while you navigate the website. We will use the persistent cookies to recognize registered users when they return to the website. 
 
 Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain upon your computer until their expiry date or until they are deleted. 
 
 We use analytics software to analyze the use of this website. The information generated relating to our website is used to create reports about the use of the website. 
 
-Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.) This will, however, have a negative impact upon the usability of many websites, including this one.
+Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector.) This will, however, have a negative impact upon the usability of many websites, including this one.
 
 **(3) Using your personal data  
 **Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website. We may use your personal information to: 
