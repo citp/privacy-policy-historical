@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nwnatural.com privacy policy that was archived on 2011-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110519101607id_/http%3A//www.nwnatural.com/GlobalBottomFooterNavigation/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nwnatural.com privacy policy that was archived on 2011-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111130030451id_/https%3A//www.nwnatural.com/GlobalBottomFooterNavigation/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="X-UA-Compatible" content="IE=edge">
     
@@ -35,11 +35,21 @@ DD_belatedPNG.fix('div, li, img, a, span');
 </script>
 <![endif]-->
 
+<!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" media="all" href="/Content/IeExtensions.css" />
+<![endif]-->
+
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" media="all" href="/Content/Ie7Extensions.css" />
+<![endif]-->
+
+
     <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/Scripts/jquery-1.3.2.min.js" type="text/javascript"></script>
 <script type="text/javascript" src="/js/pstrength.js"></script>
 <!-- required plugins -->
 <script type="text/javascript" src="/scripts/date.js"></script>
-<!--[if IE]><script type="text/javascript" src="/scripts/jquery.bgiframe.js"></script><![endif]-->
+
+<!--[if lt IE 9]><script type="text/javascript" src="/scripts/jquery.bgiframe.js"></script><![endif]-->
 
 <script src="/js/jquery.datePicker-2.1.2.js" type="text/javascript"></script>
 <script src="/Scripts/faq_behavior.js" type="text/javascript"></script>
@@ -93,7 +103,11 @@ DD_belatedPNG.fix('div, li, img, a, span');
                 <td><input class="default-value" id="password" maxlength="16" name="password" type="password" value="Password"></td>
               </tr>
               <tr>
-                <td><input type="submit" id="qp-signin-button" name="qp-signin-button" value=""></td>
+                <td>
+                    <div class="process-actions qv-signin">
+                    <input type="submit" value="Sign In" onclick="this.disabled=true;this.form.submit();" class="iebutton">
+                    </div>
+                </td>
               </tr>
             </tbody></table>
           </form>
@@ -137,6 +151,12 @@ DD_belatedPNG.fix('div, li, img, a, span');
                 }
             });
         });
+        $("input.default-value").keypress(function (ev) {
+            //keyCode 13 = Enter key
+            if (ev.keyCode == 13) {
+                $("form").submit();
+            }
+        });
     });
 </script>
 
@@ -162,7 +182,7 @@ DD_belatedPNG.fix('div, li, img, a, span');
       
       <ul id="mainnav">
         
-                <li class="current"><a href="/"><span>Customer Service</span></a>
+                <li><a href="/"><span>Customer Service</span></a>
           <ul class="subnav">
                         
                             <li><a href="/AccountDashboard">Dashboard</a>
@@ -207,7 +227,7 @@ DD_belatedPNG.fix('div, li, img, a, span');
 
                             </li>
                              
-                            <li><a href="/Service" class="current">Start/Stop/Move</a>
+                            <li><a href="/Service">Start/Stop/Move</a>
                                 <ul class="dropdown">
                                 
                             
@@ -215,7 +235,7 @@ DD_belatedPNG.fix('div, li, img, a, span');
                                  
                                  <li><a href="/ServiceStart/Start">Start Service for Home</a></li>
                                  
-                                 <li><a href="/CustomerService/StartStopMove/StartServiceForBusiness" class="current">Start Service for Business</a></li>
+                                 <li><a href="/CustomerService/StartStopMove/StartServiceForBusiness">Start Service for Business</a></li>
                                  
                                  <li><a href="/ServiceMove/Move">Move/Transfer</a></li>
                                  
@@ -236,6 +256,8 @@ DD_belatedPNG.fix('div, li, img, a, span');
                                  <li><a href="/Payment/PaymentAccounts">Manage Bank Accounts</a></li>
                                  
                                  <li><a href="/Profile/Delete">Delete Profile</a></li>
+                                 
+                                 <li><a href="/Profile/ChangeAccountInformation">Update Mailing Address</a></li>
                                  
                                  </ul>
 
@@ -384,7 +406,7 @@ DD_belatedPNG.fix('div, li, img, a, span');
         </li>
 
         
-                <li><a href="/Business"><span>Business</span></a>
+                <li class="current"><a href="/Business"><span>Business</span></a>
           <ul class="subnav">
                         
                             <li><a href="/Business/Services">Services</a>
@@ -618,7 +640,9 @@ DD_belatedPNG.fix('div, li, img, a, span');
             <input type="hidden" name="cof" value="FORID:10">
             <input type="hidden" name="ie" value="UTF-8">
             <input type="text" name="q" id="search-value" tabindex="1">
-            <input type="submit" name="sa" value="" class="search-button">
+            <div class="process-actions">
+                <input type="submit" value="Search" onclick="this.disabled=true;this.form.submit();" class="iebutton">
+            </div>
         </form>
       </div>
       <div id="subnav-placeholder"></div>
@@ -632,69 +656,31 @@ DD_belatedPNG.fix('div, li, img, a, span');
       
         <ul id="primary"><!--TOP LEVEL-->
           
-                  <li><a class="sub" href="/AccountDashboard"><span>Dashboard</span></a>
+                  <li><a class="sub" href="/Business/Services"><span>Services</span></a>
                   
           </li>
                   
-                  <li><a class="sub" href="/CustomerService/PayYourBill"><span>Pay Your Bill</span></a>
+                  <li><a class="sub" href="/Business/Conserve"><span>Conserve</span></a>
                   
           </li>
                   
-                  <li><a class="sub" href="/CustomerService/BillingOptions"><span>Billing Options</span></a>
+                  <li><a class="sub" href="/Business/BenefitsOfGas"><span>Benefits of Gas</span></a>
                   
           </li>
                   
-                  <li class="current"><a class="sub" href="/Service"><span><span class="arrow">Start/Stop/Move</span></span></a>
-                  
-                      <ul class="secondary">
-                        
-                                            <li>
-                                                <a href="/Service/CheckGasAvailability">
-                                                    <span>Check Gas Availability</span>
-                                                </a>
-                                            </li> 
-                                        
-                                            <li>
-                                                <a href="/ServiceStart/Start">
-                                                    <span>Start Service for Home</span>
-                                                </a>
-                                            </li> 
-                                        
-                                    
-                                                           <li class="current">
-                                                        <a href="/CustomerService/StartStopMove/StartServiceForBusiness">
-                                                            <span>Start Service for Business</span>
-                                                        </a>
-                                                    </li> 
-
-
-                                        
-                                            <li>
-                                                <a href="/ServiceMove/Move">
-                                                    <span>Move/Transfer</span>
-                                                </a>
-                                            </li> 
-                                        
-                                            <li>
-                                                <a href="/ServiceStop">
-                                                    <span>Stop Service</span>
-                                                </a>
-                                            </li> 
-                                        
-                      </ul>
-
-
-          </li>
-                  
-                  <li><a class="sub" href="/Profile"><span>Manage Profile</span></a>
+                  <li><a class="sub" href="/Business/TransportationAndStorage"><span>Transportation &amp; Storage</span></a>
                   
           </li>
                   
-                  <li><a class="sub" href="/CustomerService/EquipmentServices"><span>Equipment Services</span></a>
+                  <li><a class="sub" href="/Business/Partners"><span>Partners</span></a>
                   
           </li>
                   
-                  <li><a class="sub" href="/ContactUs"><span>Contact Us</span></a>
+                  <li><a class="sub" href="/Business/Safety"><span>Safety</span></a>
+                  
+          </li>
+                  
+                  <li><a class="sub" href="/Business/SmartEnergy"><span>Smart Energy</span></a>
                   
           </li>
                   
@@ -764,20 +750,20 @@ DD_belatedPNG.fix('div, li, img, a, span');
       <div id="footer-left"><!--BEGIN LEFT SIDE OF FOOTER -->
         <div class="footer-column first"><h6>My Account</h6>
 <ul>
-<li><a title="Change account profle" href="/Profile/Edit">Change account profile</a></li>
-<li><a title="Go Paperless" href="/paperless">Go Paperless</a></li>
+<li><a title="Bill payment assistance" href="/CustomerService/PayYourBill/BillPaymentAssistance">Bill payment assistance</a></li>
+<li><a title="Enroll for equal pay" href="/EqualPay">Enroll for equal pay</a></li>
+<li><a title="Go paperless" href="/Paperless">Go paperless</a></li>
 <li><a title="Pay online FREE" href="/Payment">Pay online FREE</a></li>
-<li><a title="Start Auto Pay" href="/AutoPay">Start Auto Pay</a></li>
 <li><a title="View usage history" href="/Billing/ChartHistory">View usage history</a></li>
 </ul>
 </div>
 
 <div class="footer-column"><h6>Residential</h6>
 <ul>
-<li><a title="Call before you dig" href="/Residential/Safety/811CallBeforeYouDig">Call before you dig</a></li>
-<li><a title="Energy efficiency" href="/Residential/Conserve">Energy efficiency</a></li>
+<li><a title="Energy saving tips" href="/Residential/Conserve/EnergyEfficiencyTips">Energy saving tips</a></li>
 <li><a title="Equipment inspection" href="/Residential/Services/EquipmentInspection">Equipment inspection</a></li>
-<li><a title="Smart Energy" href="/Residential/SmartEnergy">Smart Energy</a></li>
+<li><a title="Gas price information" href="/AboutNWNatural/RatesAndRegulations/GasPriceInformation">Gas price information</a></li>
+<li><a title="Natural gas safety" href="/Residential/Safety/GasLeaks/SmellRottenEggs">Natural gas safety</a></li>
 <li><a title="Special Offers" href="/Residential/SpecialOffers">Special offers</a></li>
 </ul>
 </div>
@@ -795,10 +781,10 @@ DD_belatedPNG.fix('div, li, img, a, span');
 <div class="footer-column last"><h6>At Your Service</h6>
 <ul>
 <li><a title="Convert to gas" href="/Residential/BenefitsOfGas/ConvertToGasResidential">Convert to gas</a></li>
-<li><a title="Enroll in Smart Energy" href="/Residential/SmartEnergy">Enroll in Smart Energy</a></li>
 <li><a title="Find a contractor" href="/CustomerService/EquipmentServices/FindAContractor">Find a contractor</a></li>
 <li><a title="Schedule a tune up" href="/Residential/SpecialOffers/EquipmentTuneUp">Schedule a tune up</a></li>
 <li><a title="Start an online account" href="/Register">Start an online account</a></li>
+<li><a title="Start service for home" href="http://www.nwnatural.com/ServiceStart/Start">Start service for home</a></li>
 </ul>
 </div>
 
@@ -821,7 +807,7 @@ DD_belatedPNG.fix('div, li, img, a, span');
         <div id="home-buttons">
            <p><a class="button-smart-energy" href="/Programs/Paperless">go paperless<br><span class="sub">enroll today</span></a></p>
 
-<p><a class="button-gas-benefits" href="/Residential/BenefitsOfGas">Go Blue<br><span class="sub">Learn More</span></a></p>
+<p><a class="button-gas-benefits" href="/AboutNWNatural/Community/CorporateContributions/NonProfitPartnerships">donate to GAP<br><span class="sub">Learn More</span></a></p>
 
 <p><a class="tout-button fixed" href="/ContactUs" title="Contact Us »">Contact Us »</a></p>
 
