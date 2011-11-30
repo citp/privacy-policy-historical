@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the rhinospike.com privacy policy that was archived on 2011-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110601232549id_/http%3A//rhinospike.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rhinospike.com privacy policy that was archived on 2011-11-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111130135906id_/http%3A//rhinospike.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" xml:lang="en" lang="en"><head>
+        
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <title>RhinoSpike : Privacy Policy</title>
         <!--[if IE]><style>
@@ -20,17 +21,14 @@
         
     <link rel="stylesheet" href="/site_media/static/css/site_tabs.css">
     <link rel="stylesheet" href="/site_media/static/pinax/css/avatar.css">
-    
-    
     <link rel="stylesheet" href="/site_media/static/pinax/css/friends.css">
-    
     <link rel="stylesheet" href="/site_media/static/pinax/css/messages.css">
     <link rel="stylesheet" href="/site_media/static/pinax/css/pagination.css">
-    
     <link rel="stylesheet" href="/site_media/static/pinax/css/tabs.css">
     <link rel="stylesheet" href="/site_media/static/pinax/css/topics.css">
     
     
+    <link rel="stylesheet" href="/site_media/static/mejs/mediaelementplayer.css">
     <link rel="stylesheet" href="/site_media/static/css/shib.css">
     
 
@@ -39,6 +37,17 @@
     <body class="">
         <div id="canvas">
             <div id="page">
+                
+                    <div id="site_wide_announcements">
+                        <ul>
+                            
+                            <li>
+                                <a href="/announcements/9/">Record audio from within your browser!</a> -
+                                <a href="/announcements/9/hide/?next=/about/privacy/">Hide announcement</a>
+                            </li>
+                            
+                        </ul>
+                    </div>
                 
                 
                 <div id="tabhead">
@@ -87,6 +96,8 @@
                 
                 
                 <div id="body">
+                    
+                    
                     
                     <div id="body_header"> 
                         <div class="matress">
@@ -158,46 +169,66 @@
 </div>
 </div>
                 
-                <script src="/site_media/static/pinax/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+                <script src="/site_media/static/js/jquery-1.6.2.min.js" type="text/javascript"></script>
                 <script src="/site_media/static/pinax/js/base.js" type="text/javascript"></script>
                 <script src="/site_media/static/uni_form/uni-form.jquery.js" type="text/javascript"></script>
-                <script src="/site_media/static/pinax/js/facebox.js" type="text/javascript"></script>
-<script type="text/javascript">
-    jQuery(document).ready(function($) {
-        $('a[rel*=facebox]').facebox({
-            loadingImage: '/site_media/static/pinax/images/facebox/loading.gif',
-            closeImage: '/site_media/static/pinax/images/facebox/closelabel.gif'
-        });
-        $(document).bind('reveal.facebox', function() {
-            $("form.in_facebox").submit(function() {
-                form = this;
-                jQuery.facebox(function($) {
-                    fields = jQuery(form).find("input[type='text']").filter(":enabled");
-                    params = {}
-                    fields.each(function() {
-                        params[this.name] = this.value;
-                    });
-                    jQuery.post(form.action, params,
-                        function(data, textStatus) {
-                            jQuery.facebox(data);
-                        }
-                    );
-                });
-                return false;
-            });
-        });
-     });
-</script>
-
                 
+                
+                
+                <script type="text/javascript">
+                //<![CDATA[
+                
+                $(document).ready(function() {
+                    
+$.ajaxSetup({traditional: true});
+$('#friends').load('/getfriends/');
+
+                });
+                
+                
+                
+                //]]>
+                </script>
+                
+                
+                
+                
+    
+    
     
     
     
 
             </div>  
+            
+            
         </div> 
         
+        
+            <div id="floating-follow">
+                <a href="http://twitter.com/rhino_spike" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false"></a>
+                <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+            </div>
             
+            <div id="social">
+                <div id="plusone">
+                    <g:plusone callback="plusone_callback();" href="http://rhinospike.com"></g:plusone>
+                </div>
+                <div id="tweet">
+                    <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://rhinospike.com" data-text="RhinoSpike - Foreign Language Audio and Transcripts On Demand!" data-count="vertical">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+                </div>
+                <div id="facebook">
+                    <div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://rhinospike.com" send="true" layout="box_count" width="65" show_faces="false" font="tahoma"></fb:like>
+                </div>
+            </div>
+        
+        
+        
+            
+        
+        
+        
+        <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
         
         
         <script type="text/javascript">
