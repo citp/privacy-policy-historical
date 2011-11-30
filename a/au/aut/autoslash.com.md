@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the autoslash.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614114512id_/http%3A//www.autoslash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoslash.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201001628id_/http%3A//www.autoslash.com/privacy-policy) for the most accurate reproduction.*
 
-# AutoSlash - Your source for cheap car rental rates
-
-##  Privacy Policy
+# Privacy Policy - AutoSlash
 
 When accessing our Website, AutoSlash.com will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
