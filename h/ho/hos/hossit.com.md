@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hossit.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503073152id_/http%3A//www.hossit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hossit.com privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130060324id_/http%3A//www.hossit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hossit - Galleries, Funny Pictures, People Pictures
 
