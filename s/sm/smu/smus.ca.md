@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smus.ca privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615094437id_/http%3A//www.smus.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smus.ca privacy policy that was archived on 2011-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111130135944id_/http%3A//www.smus.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Principles | SMUS
 
