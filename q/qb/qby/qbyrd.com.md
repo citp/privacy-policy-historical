@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qbyrd.com privacy policy that was archived on 2010-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100722102541id_/http%3A//sp.qbyrd.com/en/docs/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qbyrd.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201223814id_/http%3A//sp.qbyrd.com/en/docs/about/privacy.shtml) for the most accurate reproduction.*
 
 # About Qbyrd.com and Search-results.com Privacy
 
