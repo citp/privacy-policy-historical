@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepressreleases.co.uk privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602134133id_/http%3A//www.freepressreleases.co.uk/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D91826%26Itemid%3D62) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepressreleases.co.uk privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201103454id_/http%3A//www.freepressreleases.co.uk/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D91826%26Itemid%3D62) for the most accurate reproduction.*
 
 # Privacy Policy
 
