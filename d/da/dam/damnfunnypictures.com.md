@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the damnfunnypictures.com privacy policy that was archived on 2010-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100811011738id_/http%3A//www.damnfunnypictures.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damnfunnypictures.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201025825id_/http%3A//www.damnfunnypictures.com/privacy.php) for the most accurate reproduction.*
 
 # Funny Pictures - Cool Pictures and Funny Pictures - Pics - Funny Cats
 
