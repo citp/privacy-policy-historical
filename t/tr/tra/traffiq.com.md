@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the traffiq.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107152211id_/http%3A//www.traffiq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traffiq.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201090402id_/http%3A//www.traffiq.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Traffiq Digital Media Platform
 
 We take your privacy seriously. Because in certain circumstances we gather certain types of information about our users, we want to help you understand the [terms and conditions](https://web.archive.org/terms "TRAFFIQ Terms of Use") surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the TRAFFIQ.com website that you were viewing when you clicked through to this policy, which is operated directly by us. 
 
@@ -16,7 +16,7 @@ Once you register with a TRAFFIQ website you are no longer anonymous to us.
 
 ### What is TRAFFIQ's practice regarding cookies?
 
-Your Internet browser has a feature called cookies, which stores small amounts of data on your computer about your visit to any of our websites. You do not need to have cookies turned on to visit TRAFFIQ.com, although active participation in certain areas of our websites may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information, in which case we use the information to enhance the Services in the ways described below. By adjusting your settings on your browser, you may elect not to allow cookies to be collected. 
+Your Internet browser has a feature called cookies, which stores small amounts of data on your computer about your visit to any of our websites. You do not need to have cookies turned on to visit TRAFFIQ.com, although active participation in certain areas of our websites may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information, in which case we use the information to enhance the Services in the ways described below. By adjusting your settings on your browser, you may elect not to allow cookies to be collected. TRAFFIQ cookies are identified by the name TQID. 
 
 We also use technologies, including electronic images known as "beacons"–sometimes called "transparent GIFs or clear GIFs"–that allow us to track general user-traffic patterns. We also automatically receive and record information from our servers and from your browser, including your IP address, the time of your visit to pages on our site, and information about pages you visited. Unless you have registered for one of our products or services, the information we gather through the use of tracking technologies cannot be matched with any personally identifiable information about you. 
 
