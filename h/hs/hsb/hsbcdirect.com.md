@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsbcdirect.com privacy policy that was archived on 2011-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110316214846id_/http%3A//www.us.hsbc.com/1/2/3/personal/inside/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbcdirect.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201223634id_/http%3A//www.us.hsbc.com/1/2/3/personal/inside/privacy) for the most accurate reproduction.*
 
 # Privacy, Inside, HSBC Personal
 
@@ -20,4 +20,10 @@ In order to develop our website in line with customer needs we work with WebTren
 
 WebTrends uses a cookie to track the number of unique users of the site. It basically tells us whether we have a small number of regular visitors to the site or a large number of infrequent visitors. None of the information can be traced to an individual - we do not know who you are as a unique user, merely that there are a certain number of people using the site. You should refer to the [WebTrends On Demand Privacy Policy](http://www.webtrends.com/AboutWebtrends/PrivacyPolicy.aspx "View WebTrends Privacy Policy - link opens in new browser window - This is a link to a 3rd party website. By clicking, you will leave the HSBC website.  Third party websites are not related to or under the control of HSBC, its affiliates or subsidiaries.  The owner of the website is solely responsible for the products, services and content on its site. That site may have a privacy policy different from HSBC. HSBC provides links as a convenience and is not responsible for the content or security of any linked web page.") to learn how they collect and use information.
 
-Last Revised: December, 2010
+If you use our EasyView service or other online aggregation services, we collect information about the accounts and relationships included in your EasyView service, including registration information such as your name and e-mail address. We also collect information about the accounts you have designated for the EasyView service, such as account balances, transactions, transaction histories, e-mail information, bills, payment history and other account activity.
+
+We will not disclose any information about you we obtain solely through EasyView to any Non-Affiliate, except as needed to provide your EasyView service, or as required or permitted by law.
+
+We may use this information to offer you other HSBC products and services that may be beneficial to you. 
+
+Last Revised: June, 2011
