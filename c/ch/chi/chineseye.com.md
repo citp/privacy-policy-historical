@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chineseye.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620124254id_/http%3A//chineseye.com/ce/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chineseye.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201110323id_/http%3A//www.chineseye.com/ce/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - CHINESEye.com
 
