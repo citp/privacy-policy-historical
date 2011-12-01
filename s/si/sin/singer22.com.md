@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the singer22.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125154854id_/http%3A//www.singer22.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singer22.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201184251id_/http%3A//www.singer22.com/policy.html) for the most accurate reproduction.*
 
 # Singer22 Privacy Policy
 
-| 
+  | 
 
 **Singer22 Privacy Policy**
 
@@ -23,5 +23,7 @@ The Website contains links to other websites. We are not responsible for the pri
 ADDITIONAL INFORMATION 
 
 This Statement is part of the Terms of Use of the Website and any use of the Website is governed by those Terms of Use. Questions regarding this Statement or the practices of Singer22 should be directed to Singer22's Administrator by emailing such questions to legal@Singer22.com or by U.S. mail return receipt requested, addressed to Singer22, Attn: System Administrator, 441 Glen Cove Road, East Hills, NY 11577. 
+
+This policy is effective as of January 1, 2010 
 
 | 
