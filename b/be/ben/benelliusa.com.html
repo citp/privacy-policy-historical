@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the benelliusa.com privacy policy that was archived on 2011-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110523183626id_/http%3A//www.benelliusa.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the benelliusa.com privacy policy that was archived on 2011-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111201070639id_/http%3A//www.benelliusa.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
 				<title>Benelli Parts and Accessories | Privacy Policy</title>
@@ -24,19 +24,34 @@
 		<script type="text/javascript" src="http://www.benelliusa.com/js/swfobject2.js"></script>
 		<script type="text/javascript" src="http://www.benelliusa.com/js/asCommunication.js"></script>
 		<script type="text/javascript" src="http://www.benelliusa.com/js/ajax.js"></script>
-		<script src="http://cdn.benelliusa.com/js/jquery.tools.min.js?select=full&amp;debug=true"></script>
+		<script type="text/javascript" src="http://cdn.benelliusa.com/js/jquery.tools.min.js?select=full"></script>
 		<!--<script type="text/javascript" src="http://www.benelliusa.com/js/jquery.js"></script>-->
-		<script type="text/javascript" src="http://www.benelliusa.com/jwplayer/jwplayer.js"></script>
 		
 		<script type="text/javascript">
+			
 			$(document).ready(function() {
-				
 				$('.alt-swatch').click(function() { 
 					var selectorActive = $(this).attr('rel');
 					$('.silo-alt').hide()
 					$('img' + selectorActive).show();
 				});
 			});
+			
+			
+			function trackEvent(analytics) {
+				
+				// UNCOMMENT ON LIVE SERVER
+				if(!analytics) { 
+					var analytics = false; 
+				}
+				if(analytics) {
+					tracker_one._trackPageview(analytics);
+					var brokenstring = analytics.split('='); 
+					tracker_one._trackEvent('Product Interaction', brokenstring[1], brokenstring[0].replace('?info', ''));
+				}
+			}
+			
+			
 		</script>
 
 		
@@ -52,16 +67,18 @@
 <div class="team_box" id="team_box" style="float: left; top: -26px; left: 40px; display:none">
 
 
-				<a href="http://www.benelliusa.com/team_benelli/tim_bradley.php"><img src="http://www.benelliusa.com/assets/team_benelli/callouts/pro-staffer-mast-bradley.jpg" width="328" height="127" alt=""></a>
-							<a href="http://www.benelliusa.com/team_benelli/detail.php?id=51"><img src="http://www.benelliusa.com/assets/team_benelli/callouts/pro-staffer-mast-burton.jpg" width="328" height="127" alt=""></a>
-							<a href="http://www.benelliusa.com/team_benelli/detail.php?id=49"><img src="http://www.benelliusa.com/assets/team_benelli/callouts/pro-staffer-mast-brunsons.jpg" width="328" height="127" alt=""></a>
-							<a href="http://www.benelliusa.com/team_benelli/detail.php?id=50"><img src="http://www.benelliusa.com/assets/team_benelli/callouts/pro-staffer-mast-morgan.jpg" width="328" height="127" alt=""></a>
-							<img src="http://www.benelliusa.com/assets/team_benelli/callouts/pro-staffer-mast-ralph-vicki.jpg" width="328" height="127" alt="">
-							<a href="http://www.benelliusa.com/team_benelli/detail.php?id=43"><img src="http://www.benelliusa.com/assets/team_benelli/callouts/pro-staffer-mast-morris.jpg" width="328" height="127" alt=""></a>
+
+
+				<a href="http://www.benelliusa.com/team_benelli/detail.php?id=49"><img src="http://www.benelliusa.com/assets/team_benelli/callouts/pro-staffer-mast-brunsons.jpg" width="328" height="127" alt=""></a>
 							<a href="http://www.benelliusa.com/team_benelli/detail.php?id=42"><img src="http://www.benelliusa.com/assets/team_benelli/callouts/pro-staffer-mast-wetherald.jpg" width="328" height="127" alt=""></a>
-							<a href="http://www.benelliusa.com/team_benelli/detail.php?id=52"><img src="http://www.benelliusa.com/assets/team_benelli/callouts/pro-staffer-mast-tyler.jpg" width="328" height="127" alt=""></a>
-							<a href="http://www.benelliusa.com/team_benelli/detail.php?id=34"><img src="http://www.benelliusa.com/assets/team_benelli/callouts/pro-staffer-mast-robertson.jpg" width="328" height="127" alt=""></a>
+							<a href="http://www.benelliusa.com/team_benelli/detail.php?id=50"><img src="http://www.benelliusa.com/assets/team_benelli/callouts/pro-staffer-mast-morgan.jpg" width="328" height="127" alt=""></a>
+							<a href="http://www.benelliusa.com/team_benelli/tim_bradley.php"><img src="http://www.benelliusa.com/assets/team_benelli/callouts/pro-staffer-mast-bradley.jpg" width="328" height="127" alt=""></a>
 							<a href="http://www.benelliusa.com/team_benelli/detail.php?id=32"><img src="http://www.benelliusa.com/assets/team_benelli/callouts/1pro-staffer-mast-bill-jordan.jpg" width="328" height="127" alt=""></a>
+							<a href="http://www.benelliusa.com/team_benelli/detail.php?id=52"><img src="http://www.benelliusa.com/assets/team_benelli/callouts/pro-staffer-mast-tyler.jpg" width="328" height="127" alt=""></a>
+							<img src="http://www.benelliusa.com/assets/team_benelli/callouts/pro-staffer-mast-ralph-vicki.jpg" width="328" height="127" alt="">
+							<a href="http://www.benelliusa.com/team_benelli/detail.php?id=51"><img src="http://www.benelliusa.com/assets/team_benelli/callouts/pro-staffer-mast-burton.jpg" width="328" height="127" alt=""></a>
+							<a href="http://www.benelliusa.com/team_benelli/detail.php?id=43"><img src="http://www.benelliusa.com/assets/team_benelli/callouts/pro-staffer-mast-morris.jpg" width="328" height="127" alt=""></a>
+							<a href="http://www.benelliusa.com/team_benelli/detail.php?id=34"><img src="http://www.benelliusa.com/assets/team_benelli/callouts/pro-staffer-mast-robertson.jpg" width="328" height="127" alt=""></a>
 			
 </div>
 <script type="text/javascript" src="http://www.benelliusa.com/js/jquery.cycle.all.2.72.js"></script>
@@ -76,22 +93,20 @@ $(document).ready(function() {
 
 </script>
 							
+               <div style="width:262px; height:31px; background-color:#333333; z-index:1; position:absolute; margin-left:762px; top:-26px;">
+                    <a href="javascript: void(0)" onclick="window.open('http://www.youtube.com/benelliusafirearms'); return false;" style="float:right; margin:6px 5px 0 0;"><img src="/images/socialicon_small_youtube.jpg" width="20" height="19" alt="YouTube"></a>
+                    <a href="javascript: void(0)" onclick="window.open('http://twitter.com/#!/Benelli_USA'); return false;" style="float:right; margin:6px 5px 0 0;"><img src="/images/socialicon_small_twitter.jpg" width="20" height="19" alt="Twitter"></a>
+                    <a href="javascript: void(0)" onclick="window.open('http://www.facebook.com/BenelliOfficialFanPage'); return false;" style="float:right; margin:6px 5px 0 0;"><img src="/images/socialicon_small_fb.jpg" width="20" height="19" alt="Facebook"></a>
+                    <a href="/enews/index.php" style="float:right; margin:6px 5px 0 0;" onclick="_gaq.push(['_trackEvent', 'eNews', 'Homepage', 'Header Link']);"><img src="/images/socialicon_small_subscribe.jpg" width="80" height="19" alt="Subscribe"></a>
+                    <span style="float: right; color:#95979b; margin-right:6px; line-height:33px;">News &amp; Offers:</span>
+               </div>
+               
 			<div style="float: right; display:inline; margin: 0 0 0 0; padding:0;">
 				<form id="searchForm" action="http://www.benelliusa.com/search/index.php" method="get" onsubmit="this.submit();return false;">
-						<fieldset>
+						<fieldset style="margin:20px -8px 30px 0; padding:0px;">
 						<table id="search_table" cellpadding="0" cellspacing="0" border="0">
 							<tbody>
-								<tr>
-									<td>
-									</td>
-                                    <td align="right" style="padding-bottom:4px;">
-                                    	<span class="sub1" style="float:right;"><a href="http://www.benelliusa.com/enews/" onclick="_gaq.push(['_trackEvent', 'eNews', 'Homepage', 'Header Link']);">»E-News</a>&nbsp;&nbsp;</span>
-									</td>
-                                    <td style="padding-bottom:4px;">
-										<span class="sub1"><a href="http://www.benelliusa.com/downloads/catalogs.php">»Catalogs</a>&nbsp;&nbsp;</span>
-                                    </td>
-                                </tr>
-                                <tr>
+                                		<tr>
 									<td>
 																				<label for="qx">Search</label>
 									</td>
@@ -206,14 +221,50 @@ $(document).ready(function() {
 	</fieldset>
 </form>
 <hr>
-					<div style="margin: 20px 0 0 0">
-	<a href="http://www.benelliusa.com/store/"><img src="http://cdn.benelliusa.com/images/margin_gear_store_logo.gif" alt="Benelli Gear Store"></a><h3 style="color: #618183;">Featured Gear Store Items:</h3><div style="background: #fff url('http://cdn.benelliusa.com/images/radius_corner_top_white_250.gif') no-repeat top left; width: 250px; padding: 10px 0 0 0; margin: 0 10px 10px 0; text-align: center;"><img src="http://www.benelliusa.com/store/images/products/440.jpg" width="150" style="margin: 0 auto;" alt="Legacy 20-Gauge, AA-Grade Stock"><div style="background: #fff url('http://cdn.benelliusa.com/images/radius_corner_bottom_white_250.gif') no-repeat top left; height: 8px; width: 250px; margin: 0; padding: 0; border: 0;"></div><div class="clear"></div></div><h4>Legacy 20-Gauge, AA-Grade Stock</h4><a href="http://www.benelliusa.com/store/cart.php?m=product_detail&amp;p=173"><img class="right" src="http://cdn.benelliusa.com/images/small_buy_now_button.gif" alt="Buy Now!"></a><p style="color: #618183;">$675.00</p><div class="clear"></div><hr><div style="background: #fff url('http://cdn.benelliusa.com/images/radius_corner_top_white_250.gif') no-repeat top left; width: 250px; padding: 10px 0 0 0; margin: 0 10px 10px 0; text-align: center;"><img src="http://www.benelliusa.com/store/images/products/639.jpg" width="150" style="margin: 0 auto;" alt="SBE II/M2 Field, Standard Stock (Syn.)"><div style="background: #fff url('http://cdn.benelliusa.com/images/radius_corner_bottom_white_250.gif') no-repeat top left; height: 8px; width: 250px; margin: 0; padding: 0; border: 0;"></div><div class="clear"></div></div><h4>SBE II/M2 Field, Standard Stock (Syn.)</h4><a href="http://www.benelliusa.com/store/cart.php?m=product_detail&amp;p=143"><img class="right" src="http://cdn.benelliusa.com/images/small_buy_now_button.gif" alt="Buy Now!"></a><p style="color: #618183;">$150.00</p><div class="clear"></div><hr>	
+					
+
+<div style="margin: 20px 0 0 0">
+    
+    <a href="http://store.benelliusa.com">
+        <img src="http://cdn.benelliusa.com/images/margin_gear_store_logo.gif" alt="Benelli Gear Store">
+    </a>
+    
+    <h3 style="color: #618183;">Featured Gear Store Items</h3>
+    
+        
+        <div style="background: #fff url('http://cdn.benelliusa.com/images/radius_corner_top_white_250.gif') no-repeat top left; width: 250px; padding: 10px 0 0 0; margin: 0 10px 10px 0; text-align: center;">
+                <img alt="" style="margin: 0 auto;" src="http://store.benelliusa.com/sites/default/files/imagecache/product_150_wide/content/products/benellitacticalcase.jpg.crop_display.jpg">
+                <div style="background: #fff url('http://cdn.benelliusa.com/images/radius_corner_bottom_white_250.gif') no-repeat top left; height: 8px; width: 250px; margin: 0; padding: 0; border: 0;"></div>
+                <div class="clear"></div>                
+        </div>
+        <h4>Soft Tactical Gun Case</h4>
+        <a href="http://store.benelliusa.com/soft-tactical-gun-case">
+            <img alt="Buy Now!" src="http://cdn.benelliusa.com/images/small_buy_now_button.gif" class="right">
+        </a>
+        <p style="color: #618183;">$70.00</p>
+        <div class="clear"></div>
+        
+        
+        <div style="background: #fff url('http://cdn.benelliusa.com/images/radius_corner_top_white_250.gif') no-repeat top left; width: 250px; padding: 10px 0 0 0; margin: 0 10px 10px 0; text-align: center;">
+                <img alt="" style="margin: 0 auto;" src="http://store.benelliusa.com/sites/default/files/imagecache/product_150_wide/content/products/screenshot2011-11-04at105915am.png.crop_display.jpg">
+                <div style="background: #fff url('http://cdn.benelliusa.com/images/radius_corner_bottom_white_250.gif') no-repeat top left; height: 8px; width: 250px; margin: 0; padding: 0; border: 0;"></div>
+                <div class="clear"></div>                
+        </div>
+        <h4>Black Range Bag w/embroidered Benelli Logo</h4>
+        <a href="http://store.benelliusa.com/black-range-bag-wembroidered-benelli-logo">
+            <img alt="Buy Now!" src="http://cdn.benelliusa.com/images/small_buy_now_button.gif" class="right">
+        </a>
+        <p style="color: #618183;">$75.00</p>
+        <div class="clear"></div>
+        
+            
+    	
 </div>
 				</div>
 
 				<div class="clear"></div>
 					<div id="footer">
-    	<p style="width: 100%; margin: 0 auto; font-size: 1.1em;"><a href="http://media.benelliusa.com">MEDIA</a> | <a href="http://www.benelliusa.com/employment">EMPLOYMENT</a> | <a href="http://www.benelliusa.com/privacy">PRIVACY POLICY</a> | <a href="http://www.benelliusa.com/terms">TERMS OF USE</a> | <a href="http://www.benelliusa.com/site_map">SITE MAP</a></p>
+    	<p style="width: 100%; margin: 0 auto; font-size: 1.1em;"><a href="http://www.benelliusa.com/downloads/catalogs.php">CATALOGS</a> | <a href="http://media.benelliusa.com">MEDIA</a> | <a href="http://www.benelliusa.com/employment">EMPLOYMENT</a> | <a href="http://www.benelliusa.com/privacy">PRIVACY POLICY</a> | <a href="http://www.benelliusa.com/terms">TERMS OF USE</a> | <a href="http://www.benelliusa.com/site_map">SITE MAP</a></p>
 		<div class="clear"></div>
 		<hr>
 		<img src="http://cdn.benelliusa.com/images/benelliBrandSponsors.jpg" alt="Benelli Family of Brands and Sponsors" width="800" height="117" usemap="#benelli_footer" style="margin: 0 auto;">
@@ -225,7 +276,7 @@ $(document).ready(function() {
 	<area shape="rect" coords="546,12,666,38" href="http://www.benelliusa.com/redirect.php?from=http://www.benelliusa.com&amp;to=http://www.benellitv.com" alt="Benelli TV" onclick="window.open(this.href, 'popupwin', 'width=1024,height=768,toolbar,menubar,location,status,scrollbars,resizable'); return false;">
 	<area shape="rect" coords="668,14,798,45" href="http://www.benelliusa.com/redirect.php?from=http://www.benelliusa.com&amp;to=http://www.benelliworldclass.com" alt="World Class Collection" onclick="window.open(this.href, 'popupwin', 'width=1024,height=768,toolbar,menubar,location,status,scrollbars,resizable'); return false;">
 	<!-- <area shape="rect" coords="2,65,119,96" href="http://www.benelliusa.com/redirect.php?from=http://www.benelliusa.com&amp;to=http://www.gator-tail.com" alt="Gator-Tail Outboards" onclick="window.open(this.href, 'popupwin', 'width=1024,height=768,toolbar,menubar,location,status,scrollbars,resizable'); return false;" />-->
-	<area shape="rect" coords="173,64,282,92" href="http://www.benelliusa.com/redirect.php?from=http://www.benelliusa.com&amp;to=http://www.realtree.com" alt="Realtree<span style='font-size: 0.6em;'><sup>®</sup></span>" onclick="window.open(this.href, 'popupwin', 'width=1024,height=768,toolbar,menubar,location,status,scrollbars,resizable'); return false;">
+	<area shape="rect" coords="173,64,282,92" href="http://www.benelliusa.com/redirect.php?from=http://www.benelliusa.com&amp;to=http://www.realtree.com" alt="Realtree®" onclick="window.open(this.href, 'popupwin', 'width=1024,height=768,toolbar,menubar,location,status,scrollbars,resizable'); return false;">
 	<area shape="rect" coords="290,65,382,93" href="http://www.benelliusa.com/redirect.php?from=http://www.benelliusa.com&amp;to=http://www.burrisoptics.com" alt="Burris Optics" onclick="window.open(this.href, 'popupwin', 'width=1024,height=768,toolbar,menubar,location,status,scrollbars,resizable'); return false;">
 	<area shape="rect" coords="400,50,495,98" href="http://www.benelliusa.com/redirect.php?from=http://www.benelliusa.com&amp;to=http://www.federalpremium.com" alt="Federal Premium" onclick="window.open(this.href, 'popupwin', 'width=1024,height=768,toolbar,menubar,location,status,scrollbars,resizable'); return false;">
 	<area shape="rect" coords="511,63,607,97" href="http://www.benelliusa.com/redirect.php?from=http://www.benelliusa.com&amp;to=http://www.hunterspec.com" alt="Hunters Specialties" onclick="window.open(this.href, 'popupwin', 'width=1024,height=768,toolbar,menubar,location,status,scrollbars,resizable'); return false;">
@@ -235,27 +286,24 @@ $(document).ready(function() {
 
 		<hr style="background-color:#666; width: 95%; margin:12px auto;">
 		<div class="clear"></div>
-		<p style="width: 100%; margin: 0 auto;">©2011 Benelli USA | <a href="http://www.grayloon.com/website-design.html" onclick="window.open(this.href, 'popupwin_58815678', 'width=1024,height=768,toolbar,menubar,location,status,scrollbars,resizable'); return false;">Website Design</a> by <a href="http://www.grayloon.com" onclick="window.open(this.href, 'popupwin_720695174', 'width=1024,height=768,toolbar,menubar,location,status,scrollbars,resizable'); return false;">Gray Loon Marketing Group, Inc.</a> | BenelliUSA.com is best viewed with <a href="http://www.mozilla.com/en-US/firefox/">Mozilla FireFox</a> at 1280x960 or better.<br><br></p>
+		<p style="width: 100%; margin: 0 auto;">©2011 Benelli USA | <a href="http://www.grayloon.com/website-design.html" onclick="window.open(this.href, 'popupwin_1904846183', 'width=1024,height=768,toolbar,menubar,location,status,scrollbars,resizable'); return false;">Website Design</a> by <a href="http://www.grayloon.com" onclick="window.open(this.href, 'popupwin_1793209506', 'width=1024,height=768,toolbar,menubar,location,status,scrollbars,resizable'); return false;">Gray Loon Marketing Group, Inc.</a> | BenelliUSA.com is best viewed with <a href="http://www.mozilla.com/en-US/firefox/">Mozilla FireFox</a> at 1280x960 or better.<br><br></p>
 
 		<div class="clear"></div>
 
 		<script type="text/javascript" src="http://cdn.benelliusa.com/nra/nra.js"></script>
-			<div style="width:400px; margin:0 auto;">
-            <div style="margin:40px 0 0 0; float:left; width:260px;"> 
-                <a href="http://joecoogansblog.com/" onclick="window.open(this.href, 'popupwin_1356909248', 'width=1024,height=768,toolbar,menubar,location,status,scrollbars,resizable'); return false;"><img src="../images/coogan.png" width="72" height="47" style="margin-right:9px;" alt=""></a> 
-                <a href="http://www.facebook.com/home.php?#!/pages/Benelli-Official-Fan-Page/324591802388?v=wall&amp;ref=ts" onclick="window.open(this.href, 'popupwin_173498138', 'width=1024,height=768,toolbar,menubar,location,status,scrollbars,resizable'); return false;"><img src="../images/socialicon_fb.jpg" alt="" width="32" height="31" style="margin:0 9px 8px 0;"></a>
-                <a href="http://www.youtube.com/benelliusafirearms" onclick="window.open(this.href, 'popupwin_35240212', 'width=1024,height=768,toolbar,menubar,location,status,scrollbars,resizable'); return false;"><img src="../images/socialicon_youtube.jpg" alt="" width="32" height="31" style="margin:0 9px 8px 0;"></a>
-                <a href="http://twitter.com/Benelli_USA" onclick="window.open(this.href, 'popupwin_984369916', 'width=1024,height=768,toolbar,menubar,location,status,scrollbars,resizable'); return false;"><img src="../images/socialicon_twitter.jpg" alt="" width="32" height="31" style="margin:0 9px 8px 0;"></a>
+			<div style="width:280px; margin:0 auto;">
+            <div style="margin:40px 0 0 0; float:left; width:120px;"> 
+                <a href="http://joecoogansblog.com/" onclick="window.open(this.href, 'popupwin_296979416', 'width=1024,height=768,toolbar,menubar,location,status,scrollbars,resizable'); return false;"><img src="../images/coogan.png" width="72" height="47" style="margin-right:9px;" alt=""></a> 
 				<script type="text/javascript">
 					//<![CDATA[
 					document.write ('<a href="');
 					document.write('http://www.stumbleupon.com/submit?url='+document.URL+'&amp;title='+document.title.replace(/ /g,'+')+'">');
 					document.write ('<img src="/images/socialicon_stumble.jpg" style="margin-bottom:8px; border:none;" alt="" /></a>');
 					//]]>
-				</script><a href="http://www.stumbleupon.com/submit?url=https://web.archive.org/web/20110523183626id_/http://www.benelliusa.com/privacy/&amp;title=Benelli+Parts+and+Accessories+|+Privacy+Policy"><img src="/images/socialicon_stumble.jpg" style="margin-bottom:8px; border:none;" alt=""></a>
+				</script><a href="http://www.stumbleupon.com/submit?url=https://web.archive.org/web/20111201070639id_/http://www.benelliusa.com/privacy/&amp;title=Benelli+Parts+and+Accessories+|+Privacy+Policy"><img src="/images/socialicon_stumble.jpg" style="margin-bottom:8px; border:none;" alt=""></a>
             </div>
             <div id="nra" style="margin-top: 10px; float:left; width:127px;">
-                <a href="http://www.insureyourgunrights.com" title="Open Join the NRA Window" onclick="window.open(this.href, 'popupwin_99921756', 'width=1024,height=768,toolbar,menubar,location,status,scrollbars,resizable'); return false;"><img src="http://cdn.benelliusa.com/nra/nra.jpg" alt="Join the NRA"></a>
+                <a href="http://www.insureyourgunrights.com" title="Open Join the NRA Window" onclick="window.open(this.href, 'popupwin_2015883730', 'width=1024,height=768,toolbar,menubar,location,status,scrollbars,resizable'); return false;"><img src="http://cdn.benelliusa.com/nra/nra.jpg" alt="Join the NRA"></a>
             </div>
         </div>
 
@@ -289,7 +337,7 @@ $(document).ready(function() {
 
 
 <!-- QuickMenu Structure [Menu 0] -->
-<div class="qmmc" id="qm0" style="z-index: 11; zoom: 1;"><a class="qmparent" href="http://www.benelliusa.com/shotguns/"><img class="qm-is qm-ih qm-ia" src="http://cdn.benelliusa.com/images/alt_nav_firearms.gif" width="103" height="64" alt="Firearms" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="../shotguns/benelli_super_black_eagle_2.php" class="qmparent">Models</a><div id="" style="z-index: 31;"><a href="http://www.benelliusa.com/shotguns/benelli_super_vinci.php">Benelli Super Vinci</a><a href="http://www.benelliusa.com/rifles/benelli_mr1_self_defense_rifle.php">Benelli MR1</a><a href="http://www.benelliusa.com/shotguns/benelli_vinci.php">Benelli Vinci</a><a href="http://www.benelliusa.com/shotguns/benelli_super_black_eagle_2.php">Benelli Super Black Eagle II</a><a href="http://www.benelliusa.com/shotguns/benelli_m2.php">Benelli M2 Field</a><a href="http://www.benelliusa.com/shotguns/benelli_cordoba.php">Benelli Cordoba</a><a href="http://www.benelliusa.com/shotguns/benelli_supersport_and_sport_2.php">Benelli SuperSport &amp; Sport II</a><a href="http://www.benelliusa.com/shotguns/benelli_legacy.php">Benelli Legacy</a><a href="http://www.benelliusa.com/shotguns/benelli_ultra_light.php">Benelli Ultra Light</a><a href="http://www.benelliusa.com/shotguns/benelli_montefeltro.php">Benelli Montefeltro</a><a href="http://www.benelliusa.com/shotguns/benelli_supernova.php">Benelli SuperNova</a><a href="http://www.benelliusa.com/shotguns/benelli_nova_pump.php">Benelli Nova Pump</a><a href="http://www.benelliusa.com/shotguns/benelli_m3.php">Benelli M3</a><a href="http://www.benelliusa.com/shotguns/benelli_m4.php">Benelli M4</a><a href="http://www.benelliusa.com/rifles/benelli_r1_rifle.php">Benelli R1 Rifle</a><a href="http://www.benelliusa.com/performance_shop/benelli_performance_shop_super_black_eagle_II_turkey_gun.php">Benelli Performance Shop Super Black Eagle II</a><a href="http://www.benelliusa.com/performance_shop/benelli_performance_shop_cordoba.php">Benelli Performance Shop Cordoba</a><a href="http://www.benelliusa.com/shotguns/benelli_performance_shop_hunting_and_competition_shotguns.php">Benelli Performance Shop SuperSport</a><a href="http://www.benelliusa.com/shotguns/benelli_super_black_eagle_2_american_series.php">Benelli Super Black Eagle II American Series</a><a href="http://www.benelliusa.com/shotguns/benelli_m2_american_series.php">Benelli M2 American Series</a></div><a href="../shotguns/benelli_left_hand_models.php" class="qmparent">Special Configurations</a><div id="" style="z-index: 31;"><a href="http://www.benelliusa.com/shotguns/benelli_waterfowl_models.php">Benelli Waterfowl Models</a><a href="http://www.benelliusa.com/shotguns/benelli_upland_models.php">Benelli Upland Models</a><a href="http://www.benelliusa.com/shotguns/benelli_clay_models.php">Benelli Clay Models</a><a href="http://www.benelliusa.com/shotguns/benelli_turkey_models.php">Benelli Turkey Guns</a><a href="http://www.benelliusa.com/shotguns/benelli_slug_guns_models.php">Benelli Slug Guns</a><a href="http://www.benelliusa.com/shotguns/benelli_defense_models.php">Benelli Defense Guns</a><a href="http://www.benelliusa.com/shotguns/benelli_left_hand_model_types.php">Benelli Left Hand Models</a><a href="http://www.benelliusa.com/rifles/benelli_rifles_models.php">Benelli Rifles</a><a href="http://www.benelliusa.com/shotguns/benelli_performance_shop_hunting_and_competition_shotguns.php">Benelli Performance Shop</a><a href="http://www.benelliusa.com/shotguns/benelli_american_series.php">Benelli American Series</a></div><a href="../shotguns/index.php" class="qmparent">Other Information</a><div id="" style="z-index: 31;"><a href="http://www.benelliusa.com/shotguns/index.php">Benelli Shotgun Configurations</a><a href="http://www.benelliusa.com/shotguns/index.php?specs">Benelli Shotgun Specifications</a></div></div><a class="qmparent" href="http://www.benelliusa.com/parts_and_accessories/"><img class="qm-is qm-ia qm-ih" src="http://cdn.benelliusa.com/images/alt_nav_parts.gif" width="181" height="64" alt="Parts &amp; Accessories" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="http://www.benelliusa.com/parts_and_accessories/stocks_and_forends.php">Stocks &amp; Forends</a><a href="http://www.benelliusa.com/parts_and_accessories/recoil_pads.php">Recoil Pads</a><a href="http://www.benelliusa.com/parts_and_accessories/barrels.php">Barrels</a><a href="http://www.benelliusa.com/parts_and_accessories/choke_tubes.php">Choke Tubes</a><a href="http://www.benelliusa.com/parts_and_accessories/sights_and_optics.php">Sights &amp; Optics</a><a href="http://www.benelliusa.com/parts_and_accessories/miscellaneous.php">Miscellaneous</a></div><a class="qmparent" href="http://www.benelliusa.com/innovations/"><img class="qm-is qm-ia qm-ih" src="http://cdn.benelliusa.com/images/alt_nav_innovations.gif" width="124" height="64" alt="Innovations" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="http://www.benelliusa.com/innovations/psp.php">Practical Speed Performance</a><a href="http://www.benelliusa.com/innovations/inline_inertia_driven_system.php">In-Line Inertia Driven<span style="font-size: 0.6em;"><sup>®</sup></span> System</a><a href="http://www.benelliusa.com/innovations/comfortech_plus.php">ComforTech<span style="font-size: 0.6em;"><sup>®</sup></span> Plus</a><a href="http://www.benelliusa.com/innovations/v-grip.php">V-Grip™</a><a href="http://www.benelliusa.com/innovations/quadrafit.php">QuadraFit™</a><a href="http://www.benelliusa.com/innovations/inertia_driven_system.php">Inertia Driven<span style="font-size: 0.6em;"><sup>®</sup></span> System</a><a href="http://www.benelliusa.com/innovations/comfortech_system.php">ComforTech<span style="font-size: 0.6em;"><sup>®</sup></span> System</a><a href="http://www.benelliusa.com/innovations/crio_system.php">Crio<span style="font-size: 0.6em;"><sup>®</sup></span> System</a><a href="http://www.benelliusa.com/innovations/airtouch.php">AirTouch<span style="font-size: 0.6em;"><sup>®</sup></span></a><a href="http://www.benelliusa.com/innovations/griptight.php">GripTight<span style="font-size: 0.6em;"><sup>®</sup></span></a><a href="http://www.benelliusa.com/innovations/shellview.php">ShellView™</a><a href="http://www.benelliusa.com/innovations/argo.php">A.R.G.O.</a></div><a href="http://www.benelliusa.com/dealers/" style="padding:0px;"><img class="qm-is qm-ia qm-ih" src="http://cdn.benelliusa.com/images/alt_nav_dealers.gif" width="134" height="64" alt="Find a Dealer" qmvafter="1" style="visibility: inherit;"></a><a class="qmparent" href="http://www.benelliusa.com/store/"><img class="qm-is qm-ia qm-ih" src="http://cdn.benelliusa.com/images/alt_nav_store.gif" width="77" height="64" alt="Gear Store" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="http://www.benelliusa.com/store/">All Products</a><a href="http://www.benelliusa.com/store/Accessories-c2/">Accessories</a><a href="http://www.benelliusa.com/store/Apparel-c3/">Apparel</a><a href="http://www.benelliusa.com/store/Bags-and-Cases-c4/">Bags and Cases</a><a href="http://www.benelliusa.com/store/Barrels-c27/">Barrels</a><a href="http://www.benelliusa.com/store/Bolt-Handles-c10/">Bolt Handles</a><a href="http://www.benelliusa.com/store/Caps-and-Hats-c5/">Caps and Hats</a><a href="http://www.benelliusa.com/store/Choke-Tubes-c9/">Choke Tubes</a><a href="http://www.benelliusa.com/store/Cups-and-Mugs-c6/">Cups and Mugs</a><a href="http://www.benelliusa.com/store/Limiter-Plugs-c21/">Limiter Plugs</a><a href="http://www.benelliusa.com/store/Magazine-Caps-c15/">Magazine Caps</a><a href="http://www.benelliusa.com/store/Patches-Pins-and-Decals-c7/">Patches, Pins and Decals</a><a href="http://www.benelliusa.com/store/R1-Magazines-c22/">R1 Magazines</a><a href="http://www.benelliusa.com/store/Recoil-Pads-and-Comb-Pads-c20/">Recoil Pads and Comb Pads </a><a href="http://www.benelliusa.com/store/Sights-Bases-Rails-c23/">Sights/ Bases/ Rails</a><a href="http://www.benelliusa.com/store/Stocks-Forends-c36/">Stocks &amp; Forends </a><a href="http://www.benelliusa.com/store/Videos-c8/">Videos</a></div><a class="qmparent" href="http://www.benelliusa.com/support/"><img class="qm-is qm-ia qm-ih" src="http://cdn.benelliusa.com/images/alt_nav_support.gif" width="96" height="64" alt="Support" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="http://www.benelliusa.com/support/faq.php">Frequently Asked Questions</a><a href="http://www.benelliusa.com/support/warranty.php">Warranty</a><a href="http://www.benelliusa.com/support/registration.php">Warranty Registration</a><a href="http://www.benelliusa.com/downloads/manuals.php">Benelli Firearms Manuals</a><a href="http://www.benelliusa.com/support/contact.php">Contact Benelli USA</a><a href="http://www.benelliusa.com/support/safety.php">Firearms Safety</a></div><a class="qmparent" href="http://www.benelliusa.com/team_benelli/"><img class="qm-is qm-ia qm-ih" src="http://cdn.benelliusa.com/images/alt_nav_community.gif" width="115" height="64" alt="Community" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="http://www.benelliusa.com/team_benelli/">Team Benelli</a><a href="http://www.benelliusa.com/forums/">Forums</a><a href="http://www.benelliusa.com/downloads/">Downloads</a><a href="http://www.benelliusa.com/enews/">Benelli eNews</a><a href="http://www.benelliusa.com/reviews/">Benelli Product Reviews</a><a href="http://www.joecoogansblog.com/">Joe Coogan's Blog</a><a href="http://www.benelliusa.com/vinci_challenge/">Vinci Challenge</a></div><a class="qmparent" href="http://www.benelliusa.com/videos/"><img class="qm-is qm-ia qm-ih" src="http://cdn.benelliusa.com/images/alt_nav_video.gif" width="139" height="64" alt="Video" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="http://www.benelliusa.com/videos/">All Videos</a><a href="http://www.benelliusa.com/videos/index.php?hd">Videos Available in HD</a><a href="http://www.benelliusa.com/videos/index.php?c=commercials">Commercials &amp; Infomercials</a><a href="http://www.benelliusa.com/videos/index.php?c=products">Products</a><a href="http://www.benelliusa.com/videos/index.php?c=innovations">Innovations</a><a href="http://www.benelliusa.com/videos/index.php?c=team_benelli">Team Benelli Shooters</a><a href="http://www.benelliusa.com/videos/index.php?c=shooting_tips">Shooting Tips</a></div><a class="qmparent" href="http://www.benelliusa.com/tv/"><img class="qm-is qm-ia qm-ih" src="http://cdn.benelliusa.com/images/alt_nav_tv.gif" width="55" height="64" alt="TV" qmvafter="1" style="visibility: inherit;"></a><div id="" style="margin: 0px 0px 0px -93px; z-index: 21;"><a href="http://www.benellitv.com">www.benellitv.com</a><a href="http://www.benelliusa.com/tv/">TV Shows</a></div><span class="qmclear">&nbsp;</span></div>
+<div class="qmmc" id="qm0" style="z-index: 11; zoom: 1;"><a class="qmparent" href="http://www.benelliusa.com/shotguns/"><img class="qm-is qm-ih qm-ia" src="http://cdn.benelliusa.com/images/alt_nav_firearms.gif" width="103" height="64" alt="Firearms" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="../shotguns/benelli_super_black_eagle_2.php" class="qmparent">Models</a><div id="" style="z-index: 31;"><a href="http://www.benelliusa.com/shotguns/benelli_super_vinci.php">Benelli Super Vinci</a><a href="http://www.benelliusa.com/rifles/benelli_mr1_self_defense_rifle.php">Benelli MR1</a><a href="http://www.benelliusa.com/shotguns/benelli_vinci.php">Benelli Vinci</a><a href="http://www.benelliusa.com/shotguns/benelli_super_black_eagle_2.php">Benelli Super Black Eagle II</a><a href="http://www.benelliusa.com/shotguns/benelli_m2.php">Benelli M2 Field</a><a href="http://www.benelliusa.com/shotguns/benelli_cordoba.php">Benelli Cordoba</a><a href="http://www.benelliusa.com/shotguns/benelli_supersport_and_sport_2.php">Benelli SuperSport &amp; Sport II</a><a href="http://www.benelliusa.com/shotguns/benelli_legacy.php">Benelli Legacy</a><a href="http://www.benelliusa.com/shotguns/benelli_ultra_light.php">Benelli Ultra Light</a><a href="http://www.benelliusa.com/shotguns/benelli_montefeltro.php">Benelli Montefeltro</a><a href="http://www.benelliusa.com/shotguns/benelli_supernova.php">Benelli SuperNova</a><a href="http://www.benelliusa.com/shotguns/benelli_nova_pump.php">Benelli Nova Pump</a><a href="http://www.benelliusa.com/shotguns/benelli_m3.php">Benelli M3</a><a href="http://www.benelliusa.com/shotguns/benelli_m4.php">Benelli M4</a><a href="http://www.benelliusa.com/rifles/benelli_r1_rifle.php">Benelli R1 Rifle</a><a href="http://www.benelliusa.com/performance_shop/benelli_performance_shop_super_black_eagle_II_turkey_gun.php">Benelli Performance Shop Super Black Eagle II</a><a href="http://www.benelliusa.com/performance_shop/benelli_performance_shop_cordoba.php">Benelli Performance Shop Cordoba</a><a href="http://www.benelliusa.com/shotguns/benelli_performance_shop_hunting_and_competition_shotguns.php">Benelli Performance Shop SuperSport</a><a href="http://www.benelliusa.com/shotguns/benelli_super_black_eagle_2_american_series.php">Benelli Super Black Eagle II American Series</a><a href="http://www.benelliusa.com/shotguns/benelli_m2_american_series.php">Benelli M2 American Series</a></div><a href="../shotguns/benelli_left_hand_models.php" class="qmparent">Special Configurations</a><div id="" style="z-index: 31;"><a href="http://www.benelliusa.com/shotguns/benelli_waterfowl_models.php">Benelli Waterfowl Models</a><a href="http://www.benelliusa.com/shotguns/benelli_upland_models.php">Benelli Upland Models</a><a href="http://www.benelliusa.com/shotguns/benelli_clay_models.php">Benelli Clay Models</a><a href="http://www.benelliusa.com/shotguns/benelli_turkey_models.php">Benelli Turkey Guns</a><a href="http://www.benelliusa.com/shotguns/benelli_slug_guns_models.php">Benelli Slug Guns</a><a href="http://www.benelliusa.com/shotguns/benelli_defense_models.php">Benelli Defense Guns</a><a href="http://www.benelliusa.com/shotguns/benelli_left_hand_model_types.php">Benelli Left Hand Models</a><a href="http://www.benelliusa.com/rifles/benelli_rifles_models.php">Benelli Rifles</a><a href="http://www.benelliusa.com/shotguns/benelli_performance_shop_hunting_and_competition_shotguns.php">Benelli Performance Shop</a><a href="http://www.benelliusa.com/shotguns/benelli_american_series.php">Benelli American Series</a></div><a href="../shotguns/index.php" class="qmparent">Other Information</a><div id="" style="z-index: 31;"><a href="http://www.benelliusa.com/shotguns/index.php">Benelli Shotgun Configurations</a><a href="http://www.benelliusa.com/shotguns/index.php?specs">Benelli Shotgun Specifications</a></div></div><a class="qmparent" href="http://www.benelliusa.com/parts_and_accessories/"><img class="qm-is qm-ia qm-ih" src="http://cdn.benelliusa.com/images/alt_nav_parts.gif" width="181" height="64" alt="Parts &amp; Accessories" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="http://www.benelliusa.com/parts_and_accessories/stocks_and_forends.php">Stocks &amp; Forends</a><a href="http://www.benelliusa.com/parts_and_accessories/recoil_pads.php">Recoil Pads</a><a href="http://www.benelliusa.com/parts_and_accessories/barrels.php">Barrels</a><a href="http://www.benelliusa.com/parts_and_accessories/choke_tubes.php">Choke Tubes</a><a href="http://www.benelliusa.com/parts_and_accessories/sights_and_optics.php">Sights &amp; Optics</a><a href="http://www.benelliusa.com/parts_and_accessories/miscellaneous.php">Miscellaneous</a></div><a class="qmparent" href="http://www.benelliusa.com/innovations/"><img class="qm-is qm-ia qm-ih" src="http://cdn.benelliusa.com/images/alt_nav_innovations.gif" width="124" height="64" alt="Innovations" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="http://www.benelliusa.com/innovations/psp.php">Practical Speed Performance</a><a href="http://www.benelliusa.com/innovations/inline_inertia_driven_system.php">In-Line Inertia Driven<span style="font-size: 0.6em;"><sup>®</sup></span> System</a><a href="http://www.benelliusa.com/innovations/comfortech_plus.php">ComforTech<span style="font-size: 0.6em;"><sup>®</sup></span> Plus</a><a href="http://www.benelliusa.com/innovations/v-grip.php">V-Grip™</a><a href="http://www.benelliusa.com/innovations/quadrafit.php">QuadraFit™</a><a href="http://www.benelliusa.com/innovations/inertia_driven_system.php">Inertia Driven<span style="font-size: 0.6em;"><sup>®</sup></span> System</a><a href="http://www.benelliusa.com/innovations/comfortech_system.php">ComforTech<span style="font-size: 0.6em;"><sup>®</sup></span> System</a><a href="http://www.benelliusa.com/innovations/crio_system.php">Crio<span style="font-size: 0.6em;"><sup>®</sup></span> System</a><a href="http://www.benelliusa.com/innovations/airtouch.php">AirTouch<span style="font-size: 0.6em;"><sup>®</sup></span></a><a href="http://www.benelliusa.com/innovations/griptight.php">GripTight<span style="font-size: 0.6em;"><sup>®</sup></span></a><a href="http://www.benelliusa.com/innovations/shellview.php">ShellView™</a><a href="http://www.benelliusa.com/innovations/argo.php">A.R.G.O.</a></div><a href="http://www.benelliusa.com/dealers/" style="padding:0px;"><img class="qm-is qm-ia qm-ih" src="http://cdn.benelliusa.com/images/alt_nav_dealers.gif" width="134" height="64" alt="Find a Dealer" qmvafter="1" style="visibility: inherit;"></a><a class="qmparent" href="http://www.benelliusa.com/store/"><img class="qm-is qm-ia qm-ih" src="http://cdn.benelliusa.com/images/alt_nav_store.gif" width="77" height="64" alt="Gear Store" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="http://store.benelliusa.com">All Products</a><a href="http://store.benelliusa.com/accessories">Accessories</a><a href="http://store.benelliusa.com/apparel">Apparel</a><a href="http://store.benelliusa.com/accessories/bags-cases">Bags and Cases</a><a href="http://store.benelliusa.com/parts/barrels">Barrels</a><a href="http://store.benelliusa.com/parts/bolt-handles-locks">Bolt Handles and Locks</a><a href="http://store.benelliusa.com/apparel/caps-hats">Caps and Hats</a><a href="http://store.benelliusa.com/parts/chokes-wrenches">Chokes and Wrenches</a><a href="http://store.benelliusa.com/cups-mugs">Cups and Mugs</a><a href="http://store.benelliusa.com/parts/limiter-plugs">Limiter Plugs</a><a href="http://store.benelliusa.com/parts/magazine-caps">Magazine Caps</a><a href="http://store.benelliusa.com/pins-decals">Patches, Pins and Decals</a><a href="http://store.benelliusa.com/parts/r1-magazines">R1 Magazines</a><a href="http://store.benelliusa.com/parts/recoil-pads-and-comb-pads">Recoil Pads and Comb Pads </a><a href="http://store.benelliusa.com/parts/sights-bases-rails">Sights/ Bases/ Rails</a><a href="http://store.benelliusa.com/parts/stocks-forends">Stocks &amp; Forends </a><a href="http://store.benelliusa.com/videos">Videos</a></div><a class="qmparent" href="http://www.benelliusa.com/support/"><img class="qm-is qm-ia qm-ih" src="http://cdn.benelliusa.com/images/alt_nav_support.gif" width="96" height="64" alt="Support" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="http://www.benelliusa.com/support/faq.php">Frequently Asked Questions</a><a href="http://www.benelliusa.com/support/warranty.php">Warranty</a><a href="http://www.benelliusa.com/support/registration.php">Warranty Registration</a><a href="http://www.benelliusa.com/downloads/manuals.php">Benelli Firearms Manuals</a><a href="http://www.benelliusa.com/support/contact.php">Contact Benelli USA</a><a href="http://www.benelliusa.com/support/safety.php">Firearms Safety</a></div><a class="qmparent" href="http://www.benelliusa.com/team_benelli/"><img class="qm-is qm-ia qm-ih" src="http://cdn.benelliusa.com/images/alt_nav_community.gif" width="115" height="64" alt="Community" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="http://www.benelliusa.com/team_benelli/">Team Benelli</a><a href="http://www.benelliusa.com/forums/">Forums</a><a href="http://www.benelliusa.com/downloads/">Downloads</a><a href="http://www.benelliusa.com/enews/">Benelli eNews</a><a href="http://www.benelliusa.com/reviews/">Benelli Product Reviews</a><a href="http://www.joecoogansblog.com/">Joe Coogan's Blog</a><a href="http://www.benelliusa.com/vinci_challenge/">Vinci Challenge</a></div><a class="qmparent" href="http://www.benelliusa.com/videos/"><img class="qm-is qm-ia qm-ih" src="http://cdn.benelliusa.com/images/alt_nav_video.gif" width="139" height="64" alt="Video" qmvafter="1" style="visibility: inherit;"></a><div id="" style="z-index: 21;"><a href="http://www.benelliusa.com/videos/">All Videos</a><a href="http://www.benelliusa.com/videos/index.php?hd">Videos Available in HD</a><a href="http://www.benelliusa.com/videos/index.php?c=commercials">Commercials &amp; Infomercials</a><a href="http://www.benelliusa.com/videos/index.php?c=products">Products</a><a href="http://www.benelliusa.com/videos/index.php?c=innovations">Innovations</a><a href="http://www.benelliusa.com/videos/index.php?c=team_benelli">Team Benelli Shooters</a><a href="http://www.benelliusa.com/videos/index.php?c=shooting_tips">Shooting Tips</a></div><a class="qmparent" href="http://www.benelliusa.com/tv/"><img class="qm-is qm-ia qm-ih" src="http://cdn.benelliusa.com/images/alt_nav_tv.gif" width="55" height="64" alt="TV" qmvafter="1" style="visibility: inherit;"></a><div id="" style="margin: 0px 0px 0px -93px; z-index: 21;"><a href="http://www.benellitv.com">www.benellitv.com</a><a href="http://www.benelliusa.com/tv/">TV Shows</a></div><span class="qmclear">&nbsp;</span></div>
 
 <!-- Create Menu Settings: (Menu ID, Is Vertical, Show Timer, Hide Timer, On Click (options: 'all' * 'all-always-open' * 'main' * 'lev2'), Right to Left, Horizontal Subs, Flush Left, Flush Top) -->
 <script type="text/javascript">qm_create(0,false,0,500,false,false,false,false,false);</script>
@@ -379,6 +427,7 @@ qacct:"p-03yYa75-ncv_-"
 											 var tracker_one = _gat._getTracker("UA-3809722-1");
 						 
 						 						 tracker_one._setDomainName(".benelliusa.com");
+             tracker_one._addIgnoredRef(".benelliusa.com");
 						 tracker_one._setAllowHash(false);
 						 						 
 													tracker_one._trackPageview();
@@ -396,7 +445,7 @@ document.write(unescape("%3Cscript src='"+cbjsprotocol+cbjspath+"' type='text/ja
 <!-- END ChartBeat -->
 
 <!-- Start of HubSpot Logging Code  -->
-<script type="text/javascript" language="javascript">
+<script type="text/javascript">
 var hs_portalid=20571; 
 var hs_salog_version = "2.00";
 var hs_ppa = "benelliusa.app2.hubspot.com";
