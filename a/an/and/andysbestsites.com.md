@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the andysbestsites.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518031410id_/http%3A//www.andysbestsites.com/privacy-statement-othermenu-48) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andysbestsites.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201114014id_/http%3A//www.andysbestsites.com/privacy-statement-othermenu-48) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement | AndysBestSites.com
 
 Saturday, 03 November 2007 13:10   
   
