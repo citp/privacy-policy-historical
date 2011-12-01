@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517023653id_/http%3A//www.education.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201173119id_/http%3A//www.education.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -105,7 +105,7 @@ We may from time to time send registered members of Education.com special offers
 
 
 
-If you’re a registered member and you subscribe to JustAsk questions, topics and/or experts, we use your email address to send you notifications relevant to your subscription. You can select which subscriptions you would like to receive (as well as the frequency of those subscriptions), or remove yourself from JustAsk subscriptions, at any time by visiting your [JustAsk Subscriptions page](https://web.archive.org/web/20110517023653id_/http%3A//www.education.com/answers/subscriptions/).
+If you’re a registered member and you subscribe to JustAsk questions, topics and/or experts, we use your email address to send you notifications relevant to your subscription. You can select which subscriptions you would like to receive (as well as the frequency of those subscriptions), or remove yourself from JustAsk subscriptions, at any time by visiting your [JustAsk Subscriptions page](https://web.archive.org/web/20111201173119id_/http%3A//www.education.com/answers/subscriptions/).
 
   * **Webinars and Events**
 
