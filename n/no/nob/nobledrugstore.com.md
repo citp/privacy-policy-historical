@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nobledrugstore.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527090236id_/http%3A//www.nobledrugstore.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobledrugstore.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201235649id_/http%3A//www.nobledrugstore.com/privacy_policy.php) for the most accurate reproduction.*
 
-# :: Noble Drug Store :: up to 80% off on your US and Canadian prescription medicines. Offering high quality generic drugs at discounted prices.
+# Privacy and Security Policy – Nobledrugstore.com
 
 It is our top priority to protect your privacy. We do collect personal information about you in order to fill your prescription orders and we pledge to maintain the confidentiality of that information. We do not sell, rent or give away the information you have entrusted to us. This notice describes our current privacy policy and practices.
 
