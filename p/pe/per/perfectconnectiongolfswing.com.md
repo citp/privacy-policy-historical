@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the perfectconnectiongolfswing.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414153133id_/http%3A//perfectconnectiongolfswing.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectconnectiongolfswing.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201090104id_/http%3A//perfectconnectiongolfswing.com/privacy-policyV1.html) for the most accurate reproduction.*
 
 # Perfect Connection Golf Swing Privacy Policy
 
 **PRIVACY POLICY**
 
-**(Last Revised: June 12, 2010)**
+**(Last Revised: May 5, 2011)**
 
 Thank you for visiting this web site. We understand the importance that Internet users place on privacy, and this Privacy Policy describes how we use personal information that is collected at this web site. Please read this Privacy Policy before using this site or submitting any personal information. By using this web site, you accept the privacy practices contained in this Privacy Policy. These privacy practices may change from time to time, but any changes will be posted. You are encouraged to review the Privacy Policy whenever you visit the web site to make sure you understand how any personal information you provide will be used.
 
@@ -23,6 +23,28 @@ We do not control and are not liable for the actions of any third parties who we
 **Cookies**
 
 We may use cookies to deliver content that is specific to your interests. Cookies are text files that are used by your computer’s web browser to store your preferences, and enable us to enhance your user experience with our web site. 
+
+**What are cookies?**
+
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file.
+
+Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site.
+
+Third party vendors, including Google, show our ads on sites on the internet. 
+
+Third party vendors, including Google, use our cookies to serve PerfectConnection Golf Swing ads based on a user's prior visits to our website. 
+
+Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively you can opt out of a third party vendor's use of our cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp).)
+
+**How can I disable the display of PerfectConnection Golf Swing personalized advertisements?**
+
+If you no longer want to be exposed to PerfectConnection Golf Swing personalized banners, you can opt out by simply visiting the Network Advertising Initiative website: <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+**Please note:** This procedure will not block ads that are displayed on the websites you visit.
+
+**Please note:** This opt out relies on a cookie, so if you wipe all your cookies then we will no longer know that you have opted out.
+
+**Please note:** when you opt-out in this manner, a cookie will be set on your browser. We must maintain the cookie on your browser in order to recognize you as an opted-out visitor. You must opt-out again if you clear that cookie from your browser, use a different internet browser, or use a new computer to access the internet.
 
 **IP Addresses**
 
