@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the daddysfriend.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420040831id_/http%3A//secure.daddysfriend.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daddysfriend.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201163649id_/http%3A//track.daddysfriend.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 **Daddys Friend**
 
 **PRIVACY POLICY STATEMENT**  
+  
   
 
 
