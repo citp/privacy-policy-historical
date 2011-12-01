@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the chelseafc.com privacy policy that was archived on 2011-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110625200549id_/http%3A//www.chelseafc.com/page/Privacy/0%2C%2C10268%2C00.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chelseafc.com privacy policy that was archived on 2011-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111201170343id_/http%3A//www.chelseafc.com/page/Privacy/0%2C%2C10268%2C00.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -11,7 +11,7 @@
 <title>Privacy Policy | PRIVACY | Documents | Chelsea</title>
 <link rel="canonical" href="http://www.chelseafc.com/page/Privacy">
 <meta http-equiv="X-UA-Compatible" content="IE=7">
-<meta name="google-site-verification" content="votBvkQuSHVRw2ckut6oCAUCQj3azivTqDDYTaApppE">
+<meta name="google-site-verification" content="qsaa96sX1g2rGEic3jdsjmdV0z1nBpLH50dch4-bmHU">
 <link rel="image_src" href="http://www.chelseafc.com/javaImages/df/61/0,,10268~8806879,00.gif">
 <script type="text/javascript" async="" src="http://widgets.digg.com/buttons.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript"> 
 var _gaq = _gaq || []; 
@@ -64,7 +64,7 @@ var pageNameForFavourites = "PRIVACY";
 <script language="javascript" type="text/javascript" src="/page/javascript/CookiesFunctions/0,,~,00.js"></script>
 <script language="javascript" type="text/javascript" src="/page/javascript/pagination.js"></script>
 <script language="javascript" type="text/javascript" src="/page/javascript/flash/swfobject2.2b1.js"></script>
-<script type="text/javascript" src="https://cdn.uservoice.com/javascripts/widgets/tab.js"></script></head>
+</head>
 <body class="body" id="page2243811">
    
   
@@ -89,13 +89,13 @@ var pageNameForFavourites = "PRIVACY";
 <div class="HTMLElement">
 <div class="twoTabs" id="twoTabs">
 <ul>
-<li class="highlightTab" id="twoTab1"><span class="innerTab"><a href="http://www.chelseafc.com/">Chelsea FC</a></span></li>
-<li class="standardTab" id="twoTab2"><span class="innerTab"><a href="http://shed.chelseafc.com">The Shed</a></span></li>
-<li class="standardTab"><span class="innerTab"><a id="smalltab2" href="http://www.chelseafc.com/page/TV/Home/0,,10268,00.html?WT.mc_id=topnav-ctvo">CTVO</a></span></li>
-<li class="standardTab" id="twoTab3"><span class="innerTab"><a href="http://www.chelseafc.com/bridgekids">Bridge Kids</a></span></li>
-<li class="standardTab" id="twoTab5"><span class="innerTab"><a href="http://www.chelseafc.com/foundation">Foundation</a></span></li>
-<li class="standardTab" id="smalltab2"><span class="innerTab"><a id="smalltab2" href="http://theblues.chelseafc.com/megastore/megastore_map.shtml?portal=SAB66CCS">Shop</a></span></li>
-<img height="1" alt="Chelsea" hspace="0" src="/javaImages/a/1f/0,,10268~3022602,00.jpg" width="1" align="right">
+<li class="highlightTab" id="toptab_cfc"><a href="http://www.chelseafc.com/">Chelsea FC</a></li>
+<li class="standardTab" id="toptab_shed"><a href="http://shed.chelseafc.com" target="link">The Shed</a></li>
+<li class="standardTab" id="toptab_tv"><a href="http://www.chelseafc.com/page/TV/Home/0,,10268,00.html?WT.mc_id=topnav-ctvo">Chelsea TV</a></li>
+<li class="standardTab" id="toptab_kids"><a href="http://www.chelseafc.com/bridgekids" target="link">Bridge Kids</a></li>
+<li class="standardTab" id="toptab_foundation"><a href="http://www.chelseafc.com/foundation">Foundation</a></li>
+<li class="standardTab" id="toptab_allblues"><a href="http://www.chelseafc.com/allblues" target="link">All Blues</a></li>
+<li class="standardTab" id="toptab_shop"><a href="http://theblues.chelseafc.com/megastore/megastore_map.shtml?portal=SAB66CCS" target="link">Shop</a></li>
 </ul>
 </div>
 </div>
@@ -123,7 +123,7 @@ return returnString.replace(/[+]/g,"%2b");
 }
 var qs = new Array();
 var querystring = document.location.search;
-var varArray = querystring.substring(querystring.lastIndexOf("?")+1 ,querystring.length).split("&");
+var varArray = querystring.substring(querystring.indexOf("?")+1 ,querystring.length).split("&");
 for (var ii = 0; ii < varArray.length; ii++) {
 var varValueArray = varArray[ii].split("=");
 if (typeof qs[varValueArray[0]] != "undefined") {
@@ -209,6 +209,7 @@ form.formAction.value = "login";
 return logFormCheck(form);
 }
 function logFormCheck(form) {
+SetCookie('attemptedSubscribeAjax', 'false');
 var formSubmitted = false;
 if (qs['target']) {
 form.target.value = qs['target'];
@@ -237,6 +238,10 @@ makeFocus.focus();
 } else {
 formSubmitted = true;
 }
+if (formSubmitted) {
+var redirectPath = window.location.href;
+setTargetLoginTarget(redirectPath);
+}
 return formSubmitted;
 }
 function handleErrors() {
@@ -256,7 +261,7 @@ return;
 }
 </script>  
 <div class="loginForm" id="menuSectionLogin" style="display: block;">
-<form name="loginForm" action="/internalLogin/loginProcess/0,,10268,00.html" method="post" onsubmit="return logFormCheck(this);">
+<form name="loginForm" action="https://secure-chelseafc.premiumtv.co.uk/internalLogin/loginProcess/0,,10268,00.html" method="post" onsubmit="return logFormCheck(this);">
 <input type="text" size="26" name="userName" style="background:white url(/javaImages/31/3a/0,,10268~3684913,00.gif) no-repeat center left" onfocus="this.style.background='#fff';" onblur="if(this.value=='')this.style.background='#fff url(/javaImages/31/3a/0,,10268~3684913,00.gif) no-repeat center left'" id="userName" class="inputBox" tabindex="1">
 <input type="password" maxlength="50" size="26" name="password" style="background:white url(/javaImages/30/3a/0,,10268~3684912,00.gif) no-repeat center left" onfocus="this.style.background='#fff';" onblur="if(this.value=='')this.style.background='#fff url(/javaImages/30/3a/0,,10268~3684912,00.gif) no-repeat center left'" class="inputBox" id="passwordbox" tabindex="2">
 <span class="loginButton"><input type="image" src="/javaImages/56/36/0,,10268~3618390,00.gif" class="submitButton" tabindex="3" alt="Log in"></span>
@@ -330,16 +335,15 @@ SetCookie("tabPreferences21849", 0);
 <div class="HTMLElement">
 <div id="header_flags">
 <a href="http://www.chelsea-fc.ru" target="new" width="23" height="13" class="header_flag"><img src="/javaImages/6b/27/0,,10268~9447275,00.gif" border="0" alt="Russian site" title="Russian site"></a>
-<a href="http://www.chelseafc.com/page/Italian" width="23" height="13" target="new" class="header_flag"><img src="/javaImages/68/27/0,,10268~9447272,00.gif" border="0" alt="Italian site" title="Italian site"></a>
 <a href="http://thai.chelseafc.com" width="23" height="13" target="new" class="header_flag"><img src="/javaImages/4d/ad/0,,10268~9547085,00.gif" border="0" alt="Thai site" title="Thai site"></a>
-<a href="http://china.chelseafc.com" width="23" height="13" target="new" class="header_flag"><img src="/javaImages/b5/dc/0,,10268~3202229,00.gif" border="0" alt="Thai site" title="Chinese site"></a>
+<a href="http://china.chelseafc.com" width="23" height="13" target="new" class="header_flag"><img src="/javaImages/b5/dc/0,,10268~3202229,00.gif" border="0" alt="Chinese site" title="Chinese site"></a>
 </div>
 </div>
 
 </td></tr></tbody></table></div><div class="layout">
 <div class="placeHolder"><div class="innerPlaceHolder"></div></div></div></td></tr></tbody></table></div><div class="layout tabsSearchWrap"><table width="100%" cellpadding="0" cellspacing="0" class="layoutTable"><tbody><tr>
 <td valign="top" class="layout mastHeadWrap">
-<script language="JavaScript" type="text/javascript">var images = [["<a href='http://www.chelseafc.com/' border='0'><img src='/javaImages/9d/5c/0,,10268~3693725,00.gif' width='405' height='91' alt='chelseafc.com - The Official Site of Chelsea Football Club'><\/a>", 1], ];var randomValue = Math.random() * 1;var imageId = -1;
+<script language="JavaScript" type="text/javascript">var images = [["<a href='http://theblues.chelseafc.com/megastore/megastore_map.shtml?portal=BU5SQIDS~section=/stores/chelsea/products/product_browse.aspx?free_text=christmas' border='0'><img src='/javaImages/2a/98/0,,10268~10197034,00.gif' width='550' height='91' alt='Chelsea'><\/a>", 1], ];var randomValue = Math.random() * 1;var imageId = -1;
   for (i = 0; i < images.length; i++) {
     if (randomValue <= images[i][1]) {
       imageId = i;
@@ -347,7 +351,7 @@ SetCookie("tabPreferences21849", 0);
     }
   }
   document.write(images[imageId][0]);
-  </script><a href="http://www.chelseafc.com/" border="0"><img src="/javaImages/9d/5c/0,,10268~3693725,00.gif" width="405" height="91" alt="chelseafc.com - The Official Site of Chelsea Football Club"></a><noscript><a href='http://www.chelseafc.com/'  border='0'><img src='/javaImages/9d/5c/0,,10268~3693725,00.gif'  width='405'  height='91'  alt='chelseafc.com - The Official Site of Chelsea Football Club'></noscript></td><td valign="top" class="layout sponsorSearch">
+  </script><a href="http://theblues.chelseafc.com/megastore/megastore_map.shtml?portal=BU5SQIDS~section=/stores/chelsea/products/product_browse.aspx?free_text=christmas" border="0"><img src="/javaImages/2a/98/0,,10268~10197034,00.gif" width="550" height="91" alt="Chelsea"></a><noscript><a href='http://theblues.chelseafc.com/megastore/megastore_map.shtml?portal=BU5SQIDS~section=/stores/chelsea/products/product_browse.aspx?free_text=christmas'  border='0'><img src='/javaImages/2a/98/0,,10268~10197034,00.gif'  width='550'  height='91'  alt='Chelsea'></noscript></td><td valign="top" class="layout sponsorSearch">
 <div class="layout sponsorImg"><table width="100%" cellpadding="0" cellspacing="0" class="layoutTable"><tbody><tr>
 <td valign="top" class="layout">
 <a href="http://www.adidas.com/" target="_blank"><img width="49" height="56" alt="Adidas" src="http://www.chelseafc.com/javaImages/53/31/0,,10268~3617107,00.gif"></a>
@@ -492,7 +496,7 @@ window['onTabSwitched26347_' + tab].call();
 <div id="masterCompositeTabContent26347_0" class="masterCompositeTabContent menuContainer">      
 <ul id="menuSection" class="menu">
 <li class="tabEntry" id="tabEntry1">
-<a href="/page/Home/0,,10268,00.html">Home</a>
+<a href="http://www.chelseafc.com">Home</a>
 </li>
 <li class="tabEntry" id="tabEntry2">
 <a href="/page/LatestNewsAll/0,,10268,00.html">News</a>
@@ -502,76 +506,76 @@ window['onTabSwitched26347_' + tab].call();
 <a class="hover" href="/page/LatestNewsAll/0,,10268,00.html">Latest News</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId2">
-<a class="hover" href="/page/Tour_Home/0,,10268,00.html">Pre-Season : On Tour</a>
-</div>
-<div class="hoverMenuPos" id="hoverMenuPosId3">
 <a class="hover" href="http://blogs.chelseafc.com" target="_blank">Blogs</a>
 </div>
-<div class="hoverMenuPos" id="hoverMenuPosId4">
+<div class="hoverMenuPos" id="hoverMenuPosId3">
 <a class="hover" href="/page/NewsColumnist/0,,10268,00.html">Columnists</a>
 </div>
-<div class="hoverMenuPos" id="hoverMenuPosId5">
+<div class="hoverMenuPos" id="hoverMenuPosId4">
 <a class="hover" href="/page/Injury_News/0,,10268,00.html">Injury News</a>
 </div>
-<div class="hoverMenuPos" id="hoverMenuPosId6">
+<div class="hoverMenuPos" id="hoverMenuPosId5">
 <a class="hover" href="/page/forcelogin/PlayerInterviews/0,,10268,00.html">Player Interviews</a>
 </div>
-<div class="hoverMenuPos" id="hoverMenuPosId7">
+<div class="hoverMenuPos" id="hoverMenuPosId6">
 <a class="hover" href="/page/GalleryOther/0,,10268,00.html">Photo Galleries</a>
 </div>
-<div class="hoverMenuPos" id="hoverMenuPosId8">
+<div class="hoverMenuPos" id="hoverMenuPosId7">
 <a class="hover" href="/page/UpcomingEvents/0,,10268,00.html">Special Events</a>
 </div>
-<div class="hoverMenuPos" id="hoverMenuPosId9">
-<a class="hover" href="/page/FootballDiary/0,,10268,00.html">Football Diary</a>
-</div>
-<div class="hoverMenuPos" id="hoverMenuPosId10">
+<div class="hoverMenuPos" id="hoverMenuPosId8">
 <a class="hover" href="/page/EmailNewsletter/0,,10268,00.html">Email Newsletter</a>
 </div>
 </div>
 </div>
 </li>
 <li class="tabEntry" id="tabEntry3">
-<a href="http://chelsea3.chelseafc.com/megastore/megastore_map.shtml?portal=RU1KCA48">Shop</a>
+<a href="http://chelsea1.chelseafc.com/megastore/megastore_map.shtml?portal=RU1KCA48">Shop</a>
 <div class="wrapper oneCol">
 <div id="hoverpopup_3" class="hoverPopupMenu">
 <div class="hoverMenuPos" id="hoverMenuPosId1">
-<a class="hover" href="http://chelsea3.chelseafc.com/megastore/megastore_map.shtml?portal=UMPE1CSP">Shop Online</a>
+<a class="hover" href="http://chelsea1.chelseafc.com/megastore/megastore_map.shtml?portal=UMPE1CSP">Shop Online</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId2">
-<a class="hover" href="/page/StadiumMegastore/0,,10268,00.html">Shop at Stamford Bridge</a>
+<a class="hover" href="/page/Christmas/0,,10268,00.html">Christmas Shop</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId3">
-<a class="hover" href="/page/Kingston_Megastore/0,,10268,00.html">Shop at Kingston</a>
+<a class="hover" href="/page/StadiumMegastore/0,,10268,00.html">Shop at Stamford Bridge</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId4">
-<a class="hover" href="/page/ChelseaKit2011-12/0,,10268,00.html">Chelsea Kits for 2011-12</a>
+<a class="hover" href="/page/Kingston_Megastore/0,,10268,00.html">Shop at Kingston</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId5">
-<a class="hover" href="/page/Shop_Latest_Products/0,,10268,00.html">Latest Products</a>
+<a class="hover" href="/page/Museum_Store/0,,10268,00.html">Stadium Tours &amp; Museum Store </a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId6">
-<a class="hover" href="/page/Publications/0,,10268,00.html">Chelsea Publications</a>
+<a class="hover" href="/page/ChelseaKit2011-12/0,,10268,00.html">Chelsea Kits for 2011-12</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId7">
-<a class="hover" href="/page/ChelseaSavingsAccounts/0,,10268,00.html">Chelsea Savings Accounts</a>
+<a class="hover" href="/page/Shop_Latest_Products/0,,10268,00.html">Digital Catalogue</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId8">
-<a class="hover" href="http://www.mbna.co.uk/credit-cards/chelsea-credit-card/index.html" target="_blank">Chelsea Credit Card</a>
+<a class="hover" href="/page/Publications/0,,10268,00.html">Chelsea Publications</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId9">
-<a class="hover" href="/page/ChelseaMortgages/0,,10268,00.html">Chelsea Mortgages</a>
+<a class="hover" href="http://www.mbna.co.uk/credit-cards/chelsea-credit-card/index.html" target="_blank">Chelsea Credit Card</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId10">
 <a class="hover" href="/page/ChelseaCurrentAccounts/0,,10268,00.html">Chelsea Current Accounts</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId11">
-<a class="hover" href="/page/PersonalisedGifts/0,,10268,00.html">Personalised Gifts</a>
+<a class="hover" href="/page/ChelseaSavingsAccounts/0,,10268,00.html">Chelsea Savings Accounts</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId12">
-<a class="hover" href="/page/GiftCard/0,,10268,00.html">Gift Card</a>
+<a class="hover" href="/page/ChelseaMortgages/0,,10268,00.html">Chelsea Mortgages</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId13">
+<a class="hover" href="/page/PersonalisedGifts/0,,10268,00.html">Personalised Gifts</a>
+</div>
+<div class="hoverMenuPos" id="hoverMenuPosId14">
+<a class="hover" href="/page/GiftCard/0,,10268,00.html">Gift Card</a>
+</div>
+<div class="hoverMenuPos" id="hoverMenuPosId15">
 <a class="hover" href="http://www.188promo.com/chelsea" target="_blank">Betting</a>
 </div>
 </div>
@@ -582,7 +586,7 @@ window['onTabSwitched26347_' + tab].call();
 <div class="wrapper oneCol">
 <div id="hoverpopup_4" class="hoverPopupMenu">
 <div class="hoverMenuPos" id="hoverMenuPosId1">
-<a class="hover" href="/page/Tour_Home/0,,10268,00.html">Pre-Season : On Tour</a>
+<a class="hover" href="http://theblues.chelseafc.com/redirect_livematches.html">Matchday LIVE!</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId2">
 <a class="hover" href="/page/FixturesAndResults/0,,10268,00.html">Fixtures &amp; Results</a>
@@ -609,7 +613,7 @@ window['onTabSwitched26347_' + tab].call();
 <a class="hover" href="/page/Statistics_/0,,10268,00.html">Statistics</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId10">
-<a class="hover" href="http://theblues.chelseafc.com/redirect_livematches.html">Matchday LIVE!</a>
+<a class="hover" href="/page/Tour_Home/0,,10268,00.html">Pre-Season Tour 2011</a>
 </div>
 </div>
 </div>
@@ -686,88 +690,73 @@ window['onTabSwitched26347_' + tab].call();
 <a class="hover" href="http://chelseafc.viagogo.co.uk" target="_blank">Viagogo Ticket Exchange</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId10">
-<a class="hover" href="http://www.thomascooksport.com/Football/Premier-League/Chelsea?ac=cfcmbl1412" target="_blank">Thomas Cook Match Breaks</a>
+<a class="hover" href="http://www.thomascooksport.com/Football/Premier-League/Chelsea?ac=chwl_0911" target="_blank">Thomas Cook Match Breaks</a>
 </div>
 </div>
 </div>
 </li>
 <li class="tabEntry" id="tabEntry7">
-<a href="/page/Hospitality/0,,10268,00.html">Hospitality</a>
+<a href="/page/ChelseaTV/0,,10268,00.html?WT.mc_id=mainnav-ctvo">Chelsea TV</a>
 <div class="wrapper oneCol">
 <div id="hoverpopup_7" class="hoverPopupMenu">
 <div class="hoverMenuPos" id="hoverMenuPosId1">
-<a class="hover" href="/page/Hospitality/0,,10268,00.html">Match by Match Hospitality</a>
+<a class="hover" href="/page/ChelseaTV/0,,10268,00.html">About Chelsea TV</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId2">
-<a class="hover" href="/page/Hosp_Seasonal/0,,10268,00.html">Seasonal Hospitality</a>
+<a class="hover" href="https://secure-chelseafc.premiumtv.co.uk/page/secure/TV/Buy/?schemeAndHost=http://www.chelseafc.com?WT.mc_id=dropnav-ctvo">Join Chelsea TV</a>
+</div>
+<div class="hoverMenuPos" id="hoverMenuPosId3">
+<a class="hover" href="http://www.chelseafc.com/page/TV/Home/0,,10268,00.html?WT.mc_id=dropdownnav-ctvo">Watch Online</a>
+</div>
+<div class="hoverMenuPos" id="hoverMenuPosId4">
+<a class="hover" href="/page/TVSchedule/0,,10268,00.html">TV Schedule</a>
+</div>
+<div class="hoverMenuPos" id="hoverMenuPosId5">
+<a class="hover" href="/page/LivePressConferences/0,,10268,00.html">Live Press Conferences</a>
+</div>
+<div class="hoverMenuPos" id="hoverMenuPosId6">
+<a class="hover" href="/page/GOTM/0,,10268,00.html">Goal of the Month</a>
 </div>
 </div>
 </div>
 </li>
 <li class="tabEntry" id="tabEntry8">
-<a href="http://chelsea3.chelseafc.com/chelseatv_redirect.shtml">Chelsea TV</a>
+<a href="/page/HospitalityIndex/0,,10268,00.html">Hospitality</a>
 <div class="wrapper oneCol">
 <div id="hoverpopup_8" class="hoverPopupMenu">
 <div class="hoverMenuPos" id="hoverMenuPosId1">
-<a class="hover" href="http://www.chelseafc.com/page/TV_Sign_Up/0,,10268,00.html?WT.mc_id=dropnav-ctvo">Join Chelsea TV</a>
+<a class="hover" href="/page/Hospitality/0,,10268,00.html">Match by Match Hospitality</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId2">
-<a class="hover" href="http://www.chelseafc.com/page/TV/Home/0,,10268,00.html?WT.mc_id=MainNav-ctvo">Join Chelsea TV on your PC</a>
+<a class="hover" href="/page/Hosp_Seasonal/0,,10268,00.html">Seasonal Members Area</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId3">
-<a class="hover" href="http://www.sky.com/shop/tv/standalone-channels/chelsea-tv/?DCMP=ILC-SkyCOM_chelseatv">Join Chelsea TV on Sky</a>
+<a class="hover" href="/page/Hosp_Seasonal_Packages_Index/0,,10268,00.html">Seasonal Packages Availability</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId4">
-<a class="hover" href="http://www.chelseafc.com/page/AppDetail/0,,10268,00.html?WT.mc_id=dropnavmob-ctvo">Join Chelsea TV on your app</a>
-</div>
-<div class="hoverMenuPos" id="hoverMenuPosId5">
-<a class="hover" href="/page/TVSchedule/0,,10268,00.html">TV Schedule</a>
-</div>
-<div class="hoverMenuPos" id="hoverMenuPosId6">
-<a class="hover" href="/page/LivePressConferences/0,,10268,00.html">Live Press Conferences</a>
-</div>
-<div class="hoverMenuPos" id="hoverMenuPosId7">
-<a class="hover" href="/page/GOTM/0,,10268,00.html">Goal of the Month</a>
-</div>
-<div class="hoverMenuPos" id="hoverMenuPosId8">
-<a class="hover" href="/page/GOTS/0,,10268,00.html">Goal of the Season</a>
+<a class="hover" href="/page/Hospitality_Forum/0,,10268,00.html">Hospitality Forum</a>
 </div>
 </div>
 </div>
 </li>
 <li class="tabEntry" id="tabEntry9">
-<a href="/page/MobileZone/0,,10268,00.html">Mobile</a>
+<a href="/page/MobileHome/0,,10268,00.html">Mobile</a>
 <div class="wrapper oneCol">
 <div id="hoverpopup_9" class="hoverPopupMenu">
 <div class="hoverMenuPos" id="hoverMenuPosId1">
-<a class="hover" href="/page/MobileZone/0,,10268,00.html">Mobile Home</a>
+<a class="hover" href="/page/MobileHome/0,,10268,00.html">Mobile Home</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId2">
-<a class="hover" href="/page/SMSAlerts/0,,10268,00.html">SMS</a>
-</div>
-<div class="hoverMenuPos" id="hoverMenuPosId3">
-<a class="hover" href="/page/Bundles/0,,10268,00.html">Bundles</a>
-</div>
-<div class="hoverMenuPos" id="hoverMenuPosId4">
-<a class="hover" href="/page/Games/0,,10268,00.html">Games</a>
-</div>
-<div class="hoverMenuPos" id="hoverMenuPosId5">
-<a class="hover" href="/page/Ringtones/0,,10268,00.html">Ringtones</a>
-</div>
-<div class="hoverMenuPos" id="hoverMenuPosId6">
-<a class="hover" href="/page/Animations/0,,10268,00.html">Animations</a>
-</div>
-<div class="hoverMenuPos" id="hoverMenuPosId7">
-<a class="hover" href="/page/WallpapersDetail/0,,10268,00.html">Wallpapers</a>
-</div>
-<div class="hoverMenuPos" id="hoverMenuPosId8">
 <a class="hover" href="/page/AppDetail/0,,10268,00.html">Mobile App</a>
 </div>
-<div class="hoverMenuPos" id="hoverMenuPosId9">
+<div class="hoverMenuPos" id="hoverMenuPosId3">
+<a class="hover" href="/page/AppGames/0,,10268,00.html">Mobile App Games</a>
+</div>
+<div class="hoverMenuPos" id="hoverMenuPosId4">
 <a class="hover" href="/page/MobileInternet/0,,10268,00.html">Mobile Internet</a>
 </div>
-<div class="hoverMenuPos" id="hoverMenuPosId10">
-<a class="hover" href="/page/CustomDownloads/0,,10268,00.html">Custom Downloads</a>
+<div class="hoverMenuPos" id="hoverMenuPosId5">
+<a class="hover" href="/page/SMSAlerts/0,,10268,00.html">SMS</a>
 </div>
 </div>
 </div>
@@ -783,33 +772,39 @@ window['onTabSwitched26347_' + tab].call();
 <a class="hover" href="/page/ChelseaFoundation/0,,10268,00.html">The Chelsea Foundation</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId3">
-<a class="hover" href="/page/SoccerSchoolsIndex/0,,10268,00.html">Soccer Schools</a>
+<a class="hover" href="/page/Foundation_Lottery/0,,10268,00.html">Foundation Lottery</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId4">
-<a class="hover" href="/page/AsianSoccerStar/0,,10268,00.html">Asian Soccer Star</a>
+<a class="hover" href="/page/SoccerSchoolsIndex/0,,10268,00.html">Soccer Schools</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId5">
-<a class="hover" href="/page/SponsorsAndPartnersIndex/0,,10268,00.html">Sponsors &amp; Partners</a>
+<a class="hover" href="/page/OldBoysNews/0,,10268~1330891,00.html">Past Players' Trust</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId6">
-<a class="hover" href="/page/BrandAmbassadors/0,,10268,00.html">Brand Ambassadors</a>
+<a class="hover" href="/page/SponsorsAndPartnersIndex/0,,10268,00.html">Sponsors &amp; Partners</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId7">
-<a class="hover" href="/page/SupporterClubs/0,,10268,00.html">Supporter Clubs</a>
+<a class="hover" href="/page/BrandAmbassadors/0,,10268,00.html">Brand Ambassadors</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId8">
-<a class="hover" href="/page/FansForum/0,,10268,00.html">Fans Forum</a>
+<a class="hover" href="/page/SupporterClubs/0,,10268,00.html">Supporter Clubs</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId9">
-<a class="hover" href="/page/ChelseaPitchOwners/0,,10268,00.html">Chelsea Pitch Owners</a>
+<a class="hover" href="/page/FansForum/0,,10268,00.html">Fans Forum</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId10">
-<a class="hover" href="/page/Vacancies/0,,10268,00.html">Vacancies</a>
+<a class="hover" href="/page/ChelseaPitchOwners/0,,10268,00.html">Chelsea Pitch Owners</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId11">
-<a class="hover" href="/page/MediaCentre/0,,10268,00.html">Media Centre</a>
+<a class="hover" href="http://www.chelseafc.com/page/Documents640/0,,10268~2481649,00.html">Customer Charter</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId12">
+<a class="hover" href="/page/Vacancies/0,,10268,00.html">Vacancies</a>
+</div>
+<div class="hoverMenuPos" id="hoverMenuPosId13">
+<a class="hover" href="/page/MediaCentre/0,,10268,00.html">Media Centre</a>
+</div>
+<div class="hoverMenuPos" id="hoverMenuPosId14">
 <a class="hover" href="/page/ContactUs/0,,10268,00.html">Contact Us</a>
 </div>
 </div>
@@ -887,6 +882,9 @@ window['onTabSwitched26347_' + tab].call();
 <a class="hover" href="http://www.thechelseaclub.com/" target="_blank">The Chelsea Club</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId10">
+<a class="hover" href="http://www.underthebridge.co.uk">Under The Bridge</a>
+</div>
+<div class="hoverMenuPos" id="hoverMenuPosId11">
 <a class="hover" href="/page/SeatingPlan/0,,10268,00.html">Seating Plan</a>
 </div>
 </div>
@@ -946,25 +944,28 @@ window['onTabSwitched26347_' + tab].call();
 <a class="hover" href="/page/Competitions/0,,10268,00.html">Competitions</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId3">
-<a class="hover" href="/page/Downloads/0,,10268,00.html">Apps &amp; Downloads</a>
+<a class="hover" href="http://scorepredictor.chelseafc.com" target="_blank">Score Predictor</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId4">
 <a class="hover" href="/page/forcelogin/OnlineGames/0,,10268,00.html">Online Games</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId5">
-<a class="hover" href="http://chelseafc.fantasyleague.com" target="_blank">Fantasy League</a>
-</div>
-<div class="hoverMenuPos" id="hoverMenuPosId6">
 <a class="hover" href="/page/FIFA_Superstars/0,,10268,00.html">FIFA Superstars</a>
 </div>
-<div class="hoverMenuPos" id="hoverMenuPosId7">
+<div class="hoverMenuPos" id="hoverMenuPosId6">
 <a class="hover" href="http://www.chelseafc.com/quiz" target="_blank">Chelsea Quiz</a>
 </div>
+<div class="hoverMenuPos" id="hoverMenuPosId7">
+<a class="hover" href="/page/Podcasts/0,,10268,00.html">Podcast</a>
+</div>
 <div class="hoverMenuPos" id="hoverMenuPosId8">
-<a class="hover" href="/page/forcelogin/Webcam/0,,10268,00.html">Webcam</a>
+<a class="hover" href="/page/Downloads/0,,10268,00.html">Apps &amp; Downloads</a>
 </div>
 <div class="hoverMenuPos" id="hoverMenuPosId9">
-<a class="hover" href="/page/Podcasts/0,,10268,00.html">Podcast</a>
+<a class="hover" href="/page/forcelogin/Wallpapers/0,,10268,00.html">Wallpapers</a>
+</div>
+<div class="hoverMenuPos" id="hoverMenuPosId10">
+<a class="hover" href="/page/forcelogin/Webcam/0,,10268,00.html">Webcam</a>
 </div>
 </div>
 </div>
@@ -1073,87 +1074,88 @@ switchToTabByQueryStringParam(26347);
 <div id="articleHeadlineAndBody" class="articleHeadlineAndBody"><h3 class="headline" id="headline"><span id="articleDetailHeadline_14603">Privacy Policy </span></h3>
       
       <div class="articleBody" id="articleBody">     
-       <p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-bidi-font-weight: bold"><font size="2"><br>This Privacy Policy combines the Children's Privacy Policy ("Children's Privacy Policy") and the general Privacy Policy ("Privacy Policy") set out below (together, the "Chelsea Privacy Policy").<span style="mso-spacerun: yes">&nbsp; </span><!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /--><o:p></o:p></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-bidi-font-weight: bold"><font size="2">The Chelsea Privacy Policy is to be read in conjunction with the Chelsea Terms and Conditions of Use ("Terms and Conditions").<span style="mso-spacerun: yes">&nbsp; </span>All definitions used in the Terms and Conditions shall apply to the Chelsea Privacy Policy unless stated otherwise. [<i>Link to Terms and Conditions to be inserted here</i>]<span style="mso-spacerun: yes">&nbsp; </span><o:p></o:p></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-bidi-font-weight: bold"><font size="2">If for any reason you do not accept the Chelsea Privacy Policy or agree to abide by the Terms and Conditions, please stop using this website immediately.<o:p></o:p></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><b><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">A.<span style="mso-spacerun: yes">&nbsp; </span>Children's Privacy Policy<span style="mso-spacerun: yes">&nbsp; </span>(for children, and the parents/guardians of those under 18 years of age)<o:p></o:p></font></span></b></p>
-<p class="BodyText1" style="MARGIN: 0cm 0cm 11.5pt"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">We are aware that children are likely to visit our website.<span style="mso-spacerun: yes">&nbsp; </span>Our Children's Privacy Policy shall apply only to those under the age of 18 and supplements the general Privacy Policy set out below.<span style="mso-spacerun: yes">&nbsp; </span>Any conflicting portions of the Privacy Policy are superseded by the Children's Privacy Policy.<o:p></o:p></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><b><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">B. Privacy Policy <o:p></o:p></font></span></b></p>
-<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span lang="EN" style="FONT-SIZE: 10pt; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: EN"><span style="mso-list: Ignore">1<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN">About us <o:p></o:p></span></h1>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><font size="2"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN">Chelsea FC plc and Chelsea Digital Media plc respect your right to privacy and takes great care to protect your information.<span style="mso-spacerun: yes">&nbsp; </span>Chelsea FC plc and Chelsea Digital Media plc are part of the group of companies that includes </span><span lang="EN-GB" style="mso-bidi-font-family: Arial">Chelsea Football Club Limited and its affiliated companies (together "Chelsea Companies").<span style="mso-spacerun: yes">&nbsp; </span>This Privacy Policy applies to all Chelsea Companies ("We/Us/Our").<span style="mso-spacerun: yes">&nbsp; </span></span><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><o:p></o:p></span></font></p>
-<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span lang="EN" style="FONT-SIZE: 10pt; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: EN"><span style="mso-list: Ignore">2<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN">Privacy Policy<o:p></o:p></span></h1>
-<p class="BodyText1" style="MARGIN: 0cm 0cm 11.5pt"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">This Privacy Policy sets out details of the Personal Information that We collect from You and how We use that Personal Information.<span style="mso-spacerun: yes">&nbsp; </span>We also explain Your rights and how to contact Us.<span style="mso-spacerun: yes">&nbsp; </span><o:p></o:p></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">The Privacy Policy along with the Terms and Conditions, is applicable to any Personal Information which is given by You to Us via the web site located at www.chelseafc.com and/or all its related channels ("the Chelsea Site"). <o:p></o:p></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">When using the Chelsea Site You will encounter areas such as games, competitions or chat forums where You may be asked to enter Personal Information.<span style="mso-spacerun: yes">&nbsp; </span>Such Personal Information will only be used for the purposes stated at the collection point in those areas or in accordance with this Privacy Policy.<span style="mso-spacerun: yes">&nbsp; </span><o:p></o:p></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><span lang="EN-GB" style="mso-bidi-font-family: Arial"><font size="2">Please read this Privacy Policy and the Terms and Conditions carefully - by using the Chelsea Site or purchasing any of Our products/services, You accept its provisions and agree to abide by the Terms and Conditions (including as amended from time to time). <o:p></o:p></font></span></p>
-<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span lang="EN" style="FONT-SIZE: 10pt; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: EN"><span style="mso-list: Ignore">3<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN">Contact details<o:p></o:p></span></h1>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">We welcome any questions, comments or feedback about our Privacy Policy.<span style="mso-spacerun: yes">&nbsp; </span>If You have any questions about how We collect, store or use Your Personal Information, You may contact Us via:<o:p></o:p></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt 36pt; TEXT-INDENT: -18pt; mso-list: l3 level1 lfo3; tab-stops: list 36.0pt"><span lang="EN" style="FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">Email: <!--?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /--><st1:personname w:st="on">dataprotection</st1:personname>@chelseafc.com; or<o:p></o:p></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt 36pt; TEXT-INDENT: -18pt; mso-list: l3 level1 lfo3; tab-stops: list 36.0pt"><span lang="EN" style="FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">Post: Data Protection Office, Chelsea FC plc, <st1:place w:st="on"><st1:placename w:st="on">Stamford</st1:placename> <st1:placetype w:st="on">Bridge</st1:placetype></st1:place>, <st1:address w:st="on"><st1:street w:st="on">Fulham Road</st1:street>, <st1:city w:st="on">London</st1:city> <st1:postalcode w:st="on">SW6 1HJ</st1:postalcode></st1:address><o:p></o:p></font></span></p>
-<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span lang="EN" style="FONT-SIZE: 10pt; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: EN"><span style="mso-list: Ignore">4<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN">Legalities<o:p></o:p></span></h1>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><font size="2"><span lang="EN-GB" style="mso-bidi-font-family: Arial">We will at all times only collect and process Your Personal Information in accordance with the Data Protection Act 1998, the Privacy and Electronic Communications (EC Directive) Regulations 2003 and any other applicable data protection legislation.</span><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><o:p></o:p></span></font></p>
-<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span lang="EN" style="FONT-SIZE: 10pt; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: EN"><span style="mso-list: Ignore">5<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN">What information We collect<o:p></o:p></span></h1>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt; TEXT-ALIGN: justify"><span lang="EN-GB" style="mso-bidi-font-family: Arial"><font size="2">When You use the Chelsea Site or contact Us by post, telephone, fax, e-mail or SMS, or verbal communication, We may collect, store and use certain Personal Information that You disclose to Us. The Personal Information that We may collect from You includes, but is not limited to, Your first and last names, full postal address, telephone number, e-mail address, date of birth, details of any purchases that You make through the Chelsea Site and Your credit or debit card details.<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>We may also collect details of Your computer's internet protocol address, which is automatically collected by Our web server.<span style="mso-spacerun: yes">&nbsp; </span>We may supplement the Personal Information that You provide with other information that We obtain from Our other dealings with You or which We receive from other organisations, such as credit reference agencies (who are legally entitled to disclose that information).<o:p></o:p></font></span></p>
-<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span lang="EN-GB" style="FONT-SIZE: 10pt; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial"><span style="mso-list: Ignore">6<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN">How do We use Personal Information?</span><span lang="EN-GB" style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial"><o:p></o:p></span></h1>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt; TEXT-ALIGN: justify"><span lang="EN-GB" style="mso-bidi-font-family: Arial"><font size="2">By using the Chelsea Site or purchasing any products/services through the Chelsea Site, You agree that Your Personal Information may be recorded, used and protected by Us primarily for (but not limited to), any of the following purposes: <o:p></o:p></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt 36pt; TEXT-INDENT: -18pt; TEXT-ALIGN: justify; mso-list: l2 level1 lfo2; tab-stops: list 36.0pt"><span lang="EN-GB" style="FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><font size="2"><span lang="EN-GB" style="mso-bidi-font-family: Arial">to </span><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN">create an individual profile for You so that We can understand and respect Your preferences and provide You with a personalised browsing experience when using the Chelsea Site;</span><span lang="EN-GB" style="mso-bidi-font-family: Arial"><o:p></o:p></span></font></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt 36pt; TEXT-INDENT: -18pt; TEXT-ALIGN: justify; mso-list: l2 level1 lfo2; tab-stops: list 36.0pt"><span lang="EN-GB" style="FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><font size="2"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN">to calculate the level of any loyalty reward due to You;</span><span lang="EN-GB" style="mso-bidi-font-family: Arial"> <o:p></o:p></span></font></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt 36pt; TEXT-INDENT: -18pt; TEXT-ALIGN: justify; mso-list: l2 level1 lfo2; tab-stops: list 36.0pt"><span lang="EN-GB" style="FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN-GB" style="mso-bidi-font-family: Arial"><font size="2">to send You details (including by post, phone, fax, e-mail or SMS) of other products and services which We think may interest You (unless You inform Us in writing that You do not want to receive these details); <o:p></o:p></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt 36pt; TEXT-INDENT: -18pt; TEXT-ALIGN: justify; mso-list: l2 level1 lfo2; tab-stops: list 36.0pt"><span lang="EN" style="FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><font size="2"><span lang="EN-GB" style="mso-bidi-font-family: Arial">to fulfil any contractual agreements between You and Us (for example when You place an order for products/services through the Chelsea Site);</span><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><o:p></o:p></span></font></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt 36pt; TEXT-INDENT: -18pt; TEXT-ALIGN: justify; mso-list: l2 level1 lfo2; tab-stops: list 36.0pt"><span lang="EN" style="FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">to administer and provide products and services which You request and to communicate with You in the event that any products or services You have requested are unavailable;<o:p></o:p></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt 36pt; TEXT-INDENT: -18pt; TEXT-ALIGN: justify; mso-list: l2 level1 lfo2; tab-stops: list 36.0pt"><span lang="EN" style="FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">to carry out market research so that We can improve the products and services we offer and to track activity on the Chelsea Site;<o:p></o:p></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt 36pt; TEXT-INDENT: -18pt; TEXT-ALIGN: justify; mso-list: l2 level1 lfo2; tab-stops: list 36.0pt"><span lang="EN" style="FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><font size="2"><span lang="EN-GB" style="mso-bidi-font-family: Arial">to comply with legal and regulatory requirements; and</span><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><o:p></o:p></span></font></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt 36pt; TEXT-INDENT: -18pt; TEXT-ALIGN: justify; mso-list: l2 level1 lfo2; tab-stops: list 36.0pt"><span lang="EN" style="FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">for record keeping purposes.<o:p></o:p></font></span></p>
-<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span lang="EN" style="FONT-SIZE: 10pt; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: EN"><span style="mso-list: Ignore">7<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN">Disclosure of Personal Information to third parties <o:p></o:p></span></h1>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">In order to provide Our products and services to You, We may need to appoint other carefully selected third party organisations to carry out some of the processing activities on Our behalf (e.g. delivery organisations and mailing houses).<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>In these circumstances, We will ensure that Your Personal Information is properly protected and is only used substantially in accordance with this Privacy Policy.<b><o:p></o:p></b></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">Please note that We will not sell, trade or otherwise transfer Your Personal Information to other unaffiliated third parties without Your approval. However, if You do not abide by the Terms and Conditions or post anything illegal onto the Chelsea Site, then we cannot guarantee anonymity. <o:p></o:p></font></span></p>
-<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span lang="EN" style="FONT-SIZE: 10pt; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: EN"><span style="mso-list: Ignore">8<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN">Use of Personal Information outside the European Union<o:p></o:p></span></h1>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">In order to provide You with the products and services You require, some of the organisations to which We may disclose Your Personal Information, are situated outside of the European Union. Some of these countries do not have laws that protect privacy rights as extensively as in the <st1:country-region w:st="on"><st1:place w:st="on">United Kingdom</st1:place></st1:country-region>. If We do transfer Your Personal Information to other territories, We will take proper steps to ensure that Your Personal Information is protected substantially in accordance with this Privacy Policy.<o:p></o:p></font></span></p>
-<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span lang="EN" style="FONT-SIZE: 10pt; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: EN"><span style="mso-list: Ignore">9<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN">Chelsea Commercial Partners Programme<o:p></o:p></span></h1>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><font size="2"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN">We team up with a selection of carefully chosen commercial partners such as (but not limited to) </span><span lang="EN" style="mso-fareast-font-family: 'Arial Unicode MS'; mso-bidi-font-family: Arial; mso-ansi-language: EN">Our sponsors and finance participating organisations ("<b>Commercial Partners</b>") as part of Our Commercial Partners Programme.<span style="mso-spacerun: yes">&nbsp; </span></span><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN">An up-to-date list of our Commercial Partners is available by contacting Us via the postal/email address given in paragraph 3 above.<o:p></o:p></span></font></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><font size="2"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN">Our Commercial Partners Programme is designed to support the Chelsea Companies and also to bring customers, fans and Chelsea Site users a diverse range of Our associated and branded offers at competitive prices.</span><span lang="EN" style="mso-fareast-font-family: 'Arial Unicode MS'; mso-bidi-font-family: Arial; mso-ansi-language: EN"><o:p></o:p></span></font></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">We and/or these Commercial Partners may contact You in order to tell You more about the offers available to You and about a range of other initiatives.<span style="mso-spacerun: yes">&nbsp; </span>Contact may be made in a number of ways, including by post, telephone, text/picture/video message, digital television, fax or by email.<span style="mso-spacerun: yes">&nbsp; </span>If You express an interest in an offer from one of Our Commercial Partners, the Commercial Partner may let Us know. This enables Us to take Your views and interests into account when choosing Our Commercial Partners and developing the Commercial Partners Programme.<o:p></o:p></font></span></p>
-<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span lang="EN" style="FONT-SIZE: 10pt; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: EN"><span style="mso-list: Ignore">10<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN">Keeping You informed<o:p></o:p></span></h1>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">If You sign up to receive services from Us, including purchase of tickets or merchandise, or You enter any of Our promotions, You agree to Us and our Commercial Partners and selected third parties, where applicable contacting You to by post, fax, telephone, email or SMS to keep You informed of products, services, events and special offers which may be of interest to You. We will only keep you informed if you agree to Us doing so. If You prefer not to be contacted by Us or any of Our Commercial Partners or selected third parties, where applicable, You will have the opportunity to indicate whether You would like to opt out of receiving promotional and/or marketing information about products, services, events and offerings from Us and/or Our Commercial Partners and selected third parties. This can be done by clicking the relevant boxes on the screens on which You provide the information, or by contacting Us via any of the methods given in paragraph 3 above.<span style="mso-spacerun: yes">&nbsp; </span>You can also change Your mind at any time by contacting Us via any of the methods given in paragraph 3.<o:p></o:p></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">Please note, if You do opt out of receiving information, We and/or Our Commercial Partners will be unable to keep You informed of new services, products, events or special offers that may interest You and Our ability to inform You of ticketing opportunities may be affected.<o:p></o:p></font></span></p>
-<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span lang="EN" style="FONT-SIZE: 10pt; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: EN"><span style="mso-list: Ignore">11<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN">How do We protect information<o:p></o:p></span></h1>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><span lang="EN-GB" style="mso-bidi-font-family: Arial"><font size="2">We take the security of Your Personal Information very seriously.<span style="mso-spacerun: yes">&nbsp; </span>We have put in place technical and organisational security measures to prevent the loss or unauthorised access of Your Personal Information.<span style="mso-spacerun: yes">&nbsp; </span>Your Personal Information is contained behind secured networks and is only accessed when necessary.<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>A limited number of people have special access rights to such systems and they are required to keep the information confidential. When You place orders or access Your Personal Information, we offer the use of a secure server. All sensitive/credit information You supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be accessed only as stated above.<span style="mso-spacerun: yes">&nbsp; </span><o:p></o:p></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><font size="2"><span lang="EN-GB" style="mso-bidi-font-family: Arial">Whilst We have used Our best efforts to ensure the security of Your Personal Information, please be aware that We cannot guarantee the security of information transmitted over the Internet.</span><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><o:p></o:p></span></font></p>
-<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span lang="EN" style="FONT-SIZE: 10pt; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: EN"><span style="mso-list: Ignore">12<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN">What are Cookies and do We use them<o:p></o:p></span></h1>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">Like other Websites, information and data on the Chelsea Site may be automatically collected through "cookies". "Cookies" are small text files which a web site can use to recognize repeat users.<span style="mso-spacerun: yes">&nbsp; </span>"<b>Cookies</b>" allow Us to observe how You navigate the Chelsea Site on each visit and enable us to improve the Chelsea Site by reflecting Your interests and targeting appropriate advertising. <o:p></o:p></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">Cookies do not attach to Your system or damage Your files. Most browsers automatically accept cookies, but if You do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature.<span style="mso-spacerun: yes">&nbsp; </span>Please note however, that if You turn cookies off, then this will limit the service that We are able to provide to You and may affect Your visitor experience.<o:p></o:p></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><span lang="EN-GB" style="mso-bidi-font-family: Arial"><font size="2">For more information about cookies, including further details as to what they are and how to refuse them, please visit </font><a href="http://www.allaboutcookies.org/"><font size="2">www.allaboutcookies.org</font></a><font size="2">.</font></span><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><o:p></o:p></span></p>
-<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span lang="EN" style="FONT-SIZE: 10pt; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: EN"><span style="mso-list: Ignore">13<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN">Monitoring<o:p></o:p></span></h1>
-<p class="BodyText1" style="MARGIN: 0cm 0cm 11.5pt"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">For security purposes, We may monitor or record telephone calls for security purposes and to improve the quality of services that We provide to You.<o:p></o:p></font></span></p>
-<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span lang="EN" style="FONT-SIZE: 10pt; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: EN"><span style="mso-list: Ignore">14<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN">Third Party Links<o:p></o:p></span></h1>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><span lang="EN-GB" style="mso-bidi-font-family: Arial"><font size="2">In order to provide You with increased value, We may include links to third party Websites on the Chelsea Site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content or activities of these linked sites. However, We do seek to protect the integrity of Our site and welcome any </font><a href="mailto:nikeid.europe@nike.com"><font size="2">feedback</font></a><font size="2"> about these linked sites (including if a specific link does not work) by email/in writing via the contact details given in paragraph 3 above.</font></span><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><o:p></o:p></span></p>
-<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span lang="EN" style="FONT-SIZE: 10pt; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: EN"><span style="mso-list: Ignore">15<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN">Modifying Information<o:p></o:p></span></h1>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">You may notify Us of any updates, amendments or corrections to previously collected Personal Information in writing/by email via the contact details given in paragraph 3 above. Please include Your name, address and/or email address when You contact Us as this helps Us to ensure that We accept amendments only from the correct person.<span style="mso-spacerun: yes">&nbsp; </span>We encourage You to promptly update Your Personal Information if it changes.<o:p></o:p></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">Upon Your request, We will use commercially reasonable efforts to delete Your Personal Information from Our database.<span style="mso-spacerun: yes">&nbsp; </span>However, it may not be possible to delete an entry without some delay and without retaining some residual Personal Information because of backups and records of deletions.<o:p></o:p></font></span></p>
-<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span lang="EN" style="FONT-SIZE: 10pt; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: EN"><span style="mso-list: Ignore">16<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN">Your rights to access Your Personal Information<o:p></o:p></span></h1>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt; TEXT-ALIGN: justify"><font size="2"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN-US">You have the right to contact Us in order to find out what Personal Information We hold about You.<span style="mso-spacerun: yes">&nbsp; </span>Please note that a small fee will be payable towards the cost of administering any request You make.<span style="mso-spacerun: yes">&nbsp; </span>The current fee is £10.</span><b><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><o:p></o:p></span></b></font></p>
-<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span lang="EN" style="FONT-SIZE: 10pt; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: EN"><span style="mso-list: Ignore">17<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN">Changes to policy<o:p></o:p></span></h1>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt; TEXT-ALIGN: justify"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">In order to comply with the law and to meet Our changing business requirements, Our policies and procedures are constantly under review.<span style="mso-spacerun: yes">&nbsp; </span>In order to maintain high standards, from time to time, We may<span style="mso-spacerun: yes">&nbsp; </span>modify, alter, or update the Chelsea Privacy Policy. Any changes shall be notified to all users via the Chelsea Site. We therefore recommend that You check the Chelsea Site periodically in order to review Our current policies. <o:p></o:p></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt; TEXT-ALIGN: justify"><font size="2"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN">Policy changes will apply only to Personal Information collected after the date of the change.<span style="mso-spacerun: yes">&nbsp; </span>However, by continuing to use the Chelsea Site </span><span lang="EN-GB" style="mso-bidi-font-family: Arial">or by buying any products/services from Us, You are agreeing to be bound by the terms of these updates and amendments.<o:p></o:p></span></font></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt; TEXT-ALIGN: justify"><font size="2"><span lang="EN-GB" style="mso-bidi-font-family: Arial">This policy was last modified on 1<sup>st</sup> June 2008.</span><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><o:p></o:p></span></font></p>
-<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span lang="EN" style="FONT-SIZE: 10pt; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: EN"><span style="mso-list: Ignore">18<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN">Terms and Conditions<o:p></o:p></span></h1>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><span lang="EN-GB" style="mso-bidi-font-family: Arial"><font size="2">Please also visit our </font><a href="http://niketown.nike.com/niketown/info/privacy.jsp"><font size="2">Terms and Conditions</font></a><font size="2"> section using the following link </font><a href="http://www.chelseafc.com/terms"><font size="2">www.chelseafc.com/terms</font></a><font size="2">.<span style="mso-spacerun: yes">&nbsp; </span>The Terms and Conditions establish the use, disclaimers, and limitations of liability governing the use of the Chelsea Site.<o:p></o:p></font></span></p>
-<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span lang="EN" style="FONT-SIZE: 10pt; mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: EN"><span style="mso-list: Ignore">19<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN">Children's Privacy Policy<o:p></o:p></span></h1>
-<p class="BodyText1" style="MARGIN: 0cm 0cm 11.5pt"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">By continuing to use the Chelsea Site and any of the services offered, You are confirming that you have received the consent of your parent or a guardian to use the Chelsea Site.<o:p></o:p></font></span></p>
-<h2 style="MARGIN: 0cm 0cm 11.5pt 35.45pt"><span lang="EN" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: EN"><span style="mso-list: Ignore"><font size="2">19.1</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">Protection of Children's Personal Information<o:p></o:p></font></span></h2>
-<h2 style="MARGIN: 0cm 0cm 11.5pt; TEXT-INDENT: 0cm; mso-list: none; tab-stops: 36.0pt"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">We encourage children to speak to their parents before submitting any Personal Information to the Chelsea Site and also recommend that parents supervise their children while they are online.<span style="mso-spacerun: yes">&nbsp; </span>There are various control tools available for online services that We advise parents to utilise in order to create a child-friendly online environment for their children.<span style="mso-spacerun: yes">&nbsp; </span><o:p></o:p></font></span></h2>
-<h2 style="MARGIN: 0cm 0cm 11.5pt; TEXT-INDENT: 0cm; mso-list: none; tab-stops: 36.0pt"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">We are dedicated to the protection of children's Personal Information and We do not actively market to children.<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>It is Our policy not to make a child's participation in a Chelsea Site activity contingent on the child disclosing any more Personal Information than is reasonably necessary in order to do so.<o:p></o:p></font></span></h2>
-<h2 style="MARGIN: 0cm 0cm 11.5pt 35.45pt"><span lang="EN" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: EN"><span style="mso-list: Ignore"><font size="2">19.2</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">Obligations on those under 18 years old<o:p></o:p></font></span></h2>
-<h2 style="MARGIN: 0cm 0cm 11.5pt; TEXT-INDENT: 0cm; mso-list: none; tab-stops: 36.0pt"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">In order to protect children, those who are under the age of 18 must always ask their parent/guardian before they:<o:p></o:p></font></span></h2>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt 36pt; TEXT-INDENT: -18pt; mso-list: l1 level1 lfo4; tab-stops: list 36.0pt"><span lang="EN" style="FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">email the Chelsea Site, or ask Us to email anything to them/another child;<o:p></o:p></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt 36pt; TEXT-INDENT: -18pt; mso-list: l1 level1 lfo4; tab-stops: list 36.0pt"><span lang="EN" style="FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">send any information to Us;<o:p></o:p></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt 36pt; TEXT-INDENT: -18pt; mso-list: l1 level1 lfo4; tab-stops: list 36.0pt"><span lang="EN" style="FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">enter any competition or game that requires information about themselves/another child or offers a prize;<o:p></o:p></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt 36pt; TEXT-INDENT: -18pt; mso-list: l1 level1 lfo4; tab-stops: list 36.0pt"><span lang="EN" style="FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">apply to join the <st1:city w:st="on"><st1:place w:st="on">Chelsea</st1:place></st1:city>'s Junior True Blues Team;<o:p></o:p></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt 36pt; TEXT-INDENT: -18pt; mso-list: l1 level1 lfo4; tab-stops: list 36.0pt"><span lang="EN" style="FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">post any information on any bulletin board or enter any chat room; or<o:p></o:p></font></span></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt 36pt; TEXT-INDENT: -18pt; mso-list: l1 level1 lfo4; tab-stops: list 36.0pt"><span lang="EN" style="FONT-FAMILY: Symbol; mso-fareast-font-family: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">offer or agree to buy anything online.<o:p></o:p></font></span></p>
-<h2 style="MARGIN: 0cm 0cm 11.5pt 35.45pt"><span lang="EN" style="mso-fareast-font-family: Arial; mso-bidi-font-family: Arial; mso-ansi-language: EN"><span style="mso-list: Ignore"><font size="2">19.3</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><font size="2">Reviewing/Deleting Children's Personal Information<o:p></o:p></font></span></h2>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><font size="2"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN">A parent/guardian may submit a request via email/in writing to the address set out in paragraph 3 above to stop any additional use of a child's Personal Information or to request that We delete the Personal Information.<span style="mso-spacerun: yes">&nbsp; </span>Before disclosing information about a child, We may request that the parent/guardian provide reasonable information about the child for identification purposes (e.g. child's name, address, telephone number etc).</span><span lang="EN-GB" style="mso-bidi-font-family: Arial"><o:p></o:p></span></font></p>
-<p class="MsoBodyText" style="MARGIN: 0cm 0cm 11.5pt"><span lang="EN" style="mso-bidi-font-family: Arial; mso-ansi-language: EN"><o:p><font size="2">&nbsp;</font></o:p></span></p></div></div>
+       <p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-bidi-font-weight: bold" lang="EN"><font size="2"><br>This Privacy Policy combines the Children's Privacy Policy ("Children's Privacy Policy") and the general Privacy Policy ("Privacy Policy") set out below (together, the "Chelsea Privacy Policy").<span style="mso-spacerun: yes">&nbsp; </span><!--?xml:namespace prefix = o ns = "urn:schemas-microsoft-com:office:office" /--><o:p></o:p></font></span></p>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-bidi-font-weight: bold" lang="EN"><font size="2">The Chelsea Privacy Policy is to be read in conjunction with the Chelsea <a title="" href="http://www.chelseafc.com/page/TermsAndConditions/0,,10268,00.html" target="_self">Terms and Conditions of Use</a> ("Terms and Conditions").<span style="mso-spacerun: yes">&nbsp; </span>All definitions used in the Terms and Conditions shall apply to the Chelsea Privacy Policy unless stated otherwise. </font></span></p>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-bidi-font-weight: bold" lang="EN"></span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-bidi-font-weight: bold" lang="EN"><font size="2">If for any reason you do not accept the Chelsea Privacy Policy or agree to abide by the Terms and Conditions, please stop using this website immediately.<o:p></o:p></font></span></p>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><b><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2"><br>A.<span style="mso-spacerun: yes">&nbsp; </span>Children's Privacy Policy<br>(for children, and the parents/guardians of those under 18 years of age)<o:p></o:p></font></span></b></p>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="BodyText1"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">We are aware that children are likely to visit our website.<span style="mso-spacerun: yes">&nbsp; </span>Our Children's Privacy Policy shall apply only to those under the age of 18 and supplements the general Privacy Policy set out below.<span style="mso-spacerun: yes">&nbsp; </span>Any conflicting portions of the Privacy Policy are superseded by the Children's Privacy Policy.<o:p></o:p></font></span></p>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><b><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2"><br>B. Privacy Policy <o:p></o:p></font></span></b></p>
+<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-fareast-font-family: Arial" lang="EN"><span style="mso-list: Ignore">1<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">About us <o:p></o:p></span></h1>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><font size="2"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">Chelsea FC plc and Chelsea Digital Media plc respect your right to privacy and takes great care to protect your information.<span style="mso-spacerun: yes">&nbsp; </span>Chelsea FC plc and Chelsea Digital Media plc are part of the group of companies that includes </span><span style="mso-bidi-font-family: Arial" lang="EN-GB">Chelsea Football Club Limited and its affiliated companies (together "Chelsea Companies").<span style="mso-spacerun: yes">&nbsp; </span>This Privacy Policy applies to all Chelsea Companies ("We/Us/Our").<span style="mso-spacerun: yes">&nbsp; </span></span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><o:p></o:p></span></font></p>
+<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-fareast-font-family: Arial" lang="EN"><span style="mso-list: Ignore">2<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">Privacy Policy<o:p></o:p></span></h1>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="BodyText1"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">This Privacy Policy sets out details of the Personal Information that We collect from You and how We use that Personal Information.<span style="mso-spacerun: yes">&nbsp; </span>We also explain Your rights and how to contact Us.<span style="mso-spacerun: yes">&nbsp; </span><o:p></o:p></font></span></p>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">The Privacy Policy along with the Terms and Conditions, is applicable to any Personal Information which is given by You to Us via the web site located at www.chelseafc.com and/or all its related channels ("the Chelsea Site"). <o:p></o:p></font></span></p>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">When using the Chelsea Site You will encounter areas such as games, competitions or chat forums where You may be asked to enter Personal Information.<span style="mso-spacerun: yes">&nbsp; </span>Such Personal Information will only be used for the purposes stated at the collection point in those areas or in accordance with this Privacy Policy.<span style="mso-spacerun: yes">&nbsp; </span><o:p></o:p></font></span></p>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><span style="mso-bidi-font-family: Arial" lang="EN-GB"><font size="2">Please read this Privacy Policy and the Terms and Conditions carefully - by using the Chelsea Site or purchasing any of Our products/services, You accept its provisions and agree to abide by the Terms and Conditions (including as amended from time to time). <o:p></o:p></font></span></p>
+<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-fareast-font-family: Arial" lang="EN"><span style="mso-list: Ignore">3<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">Contact details<o:p></o:p></span></h1>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">We welcome any questions, comments or feedback about our Privacy Policy.<span style="mso-spacerun: yes">&nbsp; </span>If You have any questions about how We collect, store or use Your Personal Information, You may contact Us via:<o:p></o:p></font></span></p>
+<p style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 11.5pt 36pt; mso-list: l3 level1 lfo3; tab-stops: list 36.0pt" class="MsoBodyText"><span style="FONT-FAMILY: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN; mso-fareast-font-family: Symbol" lang="EN"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">Email: <!--?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /--><st1:personname w:st="on">dataprotection</st1:personname>@chelseafc.com; or<o:p></o:p></font></span></p>
+<p style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 11.5pt 36pt; mso-list: l3 level1 lfo3; tab-stops: list 36.0pt" class="MsoBodyText"><span style="FONT-FAMILY: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN; mso-fareast-font-family: Symbol" lang="EN"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">Post: Data Protection Office, Chelsea FC plc, <st1:place w:st="on"><st1:placename w:st="on">Stamford</st1:placename> <st1:placetype w:st="on">Bridge</st1:placetype></st1:place>, <st1:address w:st="on"><st1:street w:st="on">Fulham Road</st1:street>, <st1:city w:st="on">London</st1:city> <st1:postalcode w:st="on">SW6 1HJ</st1:postalcode></st1:address><o:p></o:p></font></span></p>
+<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-fareast-font-family: Arial" lang="EN"><span style="mso-list: Ignore">4<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">Legalities<o:p></o:p></span></h1>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><font size="2"><span style="mso-bidi-font-family: Arial" lang="EN-GB">We will at all times only collect and process Your Personal Information in accordance with the Data Protection Act 1998, the Privacy and Electronic Communications (EC Directive) Regulations 2003 and any other applicable data protection legislation.</span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><o:p></o:p></span></font></p>
+<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-fareast-font-family: Arial" lang="EN"><span style="mso-list: Ignore">5<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">What information We collect<o:p></o:p></span></h1>
+<p style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><span style="mso-bidi-font-family: Arial" lang="EN-GB"><font size="2">When You use the Chelsea Site or contact Us by post, telephone, fax, e-mail or SMS, or verbal communication, We may collect, store and use certain Personal Information that You disclose to Us. The Personal Information that We may collect from You includes, but is not limited to, Your first and last names, full postal address, telephone number, e-mail address, date of birth, details of any purchases that You make through the Chelsea Site and Your credit or debit card details.<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>We may also collect details of Your computer's internet protocol address, which is automatically collected by Our web server.<span style="mso-spacerun: yes">&nbsp; </span>We may supplement the Personal Information that You provide with other information that We obtain from Our other dealings with You or which We receive from other organisations, such as credit reference agencies (who are legally entitled to disclose that information).<o:p></o:p></font></span></p>
+<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-fareast-font-family: Arial" lang="EN-GB"><span style="mso-list: Ignore">6<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">How do We use Personal Information?</span><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial" lang="EN-GB"><o:p></o:p></span></h1>
+<p style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><span style="mso-bidi-font-family: Arial" lang="EN-GB"><font size="2">By using the Chelsea Site or purchasing any products/services through the Chelsea Site, You agree that Your Personal Information may be recorded, used and protected by Us primarily for (but not limited to), any of the following purposes: <o:p></o:p></font></span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 11.5pt 36pt; mso-list: l2 level1 lfo2; tab-stops: list 36.0pt" class="MsoBodyText"><span style="FONT-FAMILY: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol" lang="EN-GB"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><font size="2"><span style="mso-bidi-font-family: Arial" lang="EN-GB">to </span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">create an individual profile for You so that We can understand and respect Your preferences and provide You with a personalised browsing experience when using the Chelsea Site;</span><span style="mso-bidi-font-family: Arial" lang="EN-GB"><o:p></o:p></span></font></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 11.5pt 36pt; mso-list: l2 level1 lfo2; tab-stops: list 36.0pt" class="MsoBodyText"><span style="FONT-FAMILY: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol" lang="EN-GB"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><font size="2"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">to calculate the level of any loyalty reward due to You;</span><span style="mso-bidi-font-family: Arial" lang="EN-GB"> <o:p></o:p></span></font></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 11.5pt 36pt; mso-list: l2 level1 lfo2; tab-stops: list 36.0pt" class="MsoBodyText"><span style="FONT-FAMILY: Symbol; mso-bidi-font-family: Symbol; mso-fareast-font-family: Symbol" lang="EN-GB"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-bidi-font-family: Arial" lang="EN-GB"><font size="2">to send You details (including by post, phone, fax, e-mail or SMS) of other products and services which We think may interest You (unless You inform Us in writing that You do not want to receive these details); <o:p></o:p></font></span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 11.5pt 36pt; mso-list: l2 level1 lfo2; tab-stops: list 36.0pt" class="MsoBodyText"><span style="FONT-FAMILY: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN; mso-fareast-font-family: Symbol" lang="EN"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><font size="2"><span style="mso-bidi-font-family: Arial" lang="EN-GB">to fulfil any contractual agreements between You and Us (for example when You place an order for products/services through the Chelsea Site);</span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><o:p></o:p></span></font></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 11.5pt 36pt; mso-list: l2 level1 lfo2; tab-stops: list 36.0pt" class="MsoBodyText"><span style="FONT-FAMILY: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN; mso-fareast-font-family: Symbol" lang="EN"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">to administer and provide products and services which You request and to communicate with You in the event that any products or services You have requested are unavailable;<o:p></o:p></font></span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 11.5pt 36pt; mso-list: l2 level1 lfo2; tab-stops: list 36.0pt" class="MsoBodyText"><span style="FONT-FAMILY: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN; mso-fareast-font-family: Symbol" lang="EN"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">to carry out market research so that We can improve the products and services we offer and to track activity on the Chelsea Site;<o:p></o:p></font></span></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 11.5pt 36pt; mso-list: l2 level1 lfo2; tab-stops: list 36.0pt" class="MsoBodyText"><span style="FONT-FAMILY: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN; mso-fareast-font-family: Symbol" lang="EN"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><font size="2"><span style="mso-bidi-font-family: Arial" lang="EN-GB">to comply with legal and regulatory requirements; and</span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><o:p></o:p></span></font></p>
+<p style="TEXT-ALIGN: justify; TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 11.5pt 36pt; mso-list: l2 level1 lfo2; tab-stops: list 36.0pt" class="MsoBodyText"><span style="FONT-FAMILY: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN; mso-fareast-font-family: Symbol" lang="EN"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">for record keeping purposes.<o:p></o:p></font></span></p>
+<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-fareast-font-family: Arial" lang="EN"><span style="mso-list: Ignore">7<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">Disclosure of Personal Information to third parties <o:p></o:p></span></h1>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">In order to provide Our products and services to You, We may need to appoint other carefully selected third party organisations to carry out some of the processing activities on Our behalf (e.g. delivery organisations and mailing houses).<span style="mso-spacerun: yes">&nbsp;&nbsp;&nbsp; </span>In these circumstances, We will ensure that Your Personal Information is properly protected and is only used substantially in accordance with this Privacy Policy.<b><o:p></o:p></b></font></span></p>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">Please note that We will not sell, trade or otherwise transfer Your Personal Information to other unaffiliated third parties without Your approval. However, if You do not abide by the Terms and Conditions or post anything illegal onto the Chelsea Site, then we cannot guarantee anonymity. <o:p></o:p></font></span></p>
+<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-fareast-font-family: Arial" lang="EN"><span style="mso-list: Ignore">8<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">Use of Personal Information outside the European Union<o:p></o:p></span></h1>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">In order to provide You with the products and services You require, some of the organisations to which We may disclose Your Personal Information, are situated outside of the European Union. Some of these countries do not have laws that protect privacy rights as extensively as in the <st1:country-region w:st="on"><st1:place w:st="on">United Kingdom</st1:place></st1:country-region>. If We do transfer Your Personal Information to other territories, We will take proper steps to ensure that Your Personal Information is protected substantially in accordance with this Privacy Policy.<o:p></o:p></font></span></p>
+<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-fareast-font-family: Arial" lang="EN"><span style="mso-list: Ignore">9<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">Chelsea Commercial Partners Programme<o:p></o:p></span></h1>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><font size="2"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">We team up with a selection of carefully chosen commercial partners such as (but not limited to) </span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-fareast-font-family: 'Arial Unicode MS'" lang="EN">Our sponsors and finance participating organisations ("<b>Commercial Partners</b>") as part of Our Commercial Partners Programme.<span style="mso-spacerun: yes">&nbsp; </span></span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">An up-to-date list of our Commercial Partners is available by contacting Us via the postal/email address given in paragraph 3 above.<o:p></o:p></span></font></p>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><font size="2"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">Our Commercial Partners Programme is designed to support the Chelsea Companies and also to bring customers, fans and Chelsea Site users a diverse range of Our associated and branded offers at competitive prices.</span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-fareast-font-family: 'Arial Unicode MS'" lang="EN"><o:p></o:p></span></font></p>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">We and/or these Commercial Partners may contact You in order to tell You more about the offers available to You and about a range of other initiatives.<span style="mso-spacerun: yes">&nbsp; </span>Contact may be made in a number of ways, including by post, telephone, text/picture/video message, digital television, fax or by email.<span style="mso-spacerun: yes">&nbsp; </span>If You express an interest in an offer from one of Our Commercial Partners, the Commercial Partner may let Us know. This enables Us to take Your views and interests into account when choosing Our Commercial Partners and developing the Commercial Partners Programme.<o:p></o:p></font></span></p>
+<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-fareast-font-family: Arial" lang="EN"><span style="mso-list: Ignore">10<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">Keeping You informed<o:p></o:p></span></h1>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">If You sign up to receive services from Us, including purchase of tickets or merchandise, or You enter any of Our promotions, You agree to Us and our Commercial Partners and selected third parties, where applicable contacting You to by post, fax, telephone, email or SMS to keep You informed of products, services, events and special offers which may be of interest to You. We will only keep you informed if you agree to Us doing so. If You prefer not to be contacted by Us or any of Our Commercial Partners or selected third parties, where applicable, You will have the opportunity to indicate whether You would like to opt out of receiving promotional and/or marketing information about products, services, events and offerings from Us and/or Our Commercial Partners and selected third parties. This can be done by clicking the relevant boxes on the screens on which You provide the information, or by contacting Us via any of the methods given in paragraph 3 above.<span style="mso-spacerun: yes">&nbsp; </span>You can also change Your mind at any time by contacting Us via any of the methods given in paragraph 3.<o:p></o:p></font></span></p>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">Please note, if You do opt out of receiving information, We and/or Our Commercial Partners will be unable to keep You informed of new services, products, events or special offers that may interest You and Our ability to inform You of ticketing opportunities may be affected.<o:p></o:p></font></span></p>
+<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-fareast-font-family: Arial" lang="EN"><span style="mso-list: Ignore">11<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">How do We protect information<o:p></o:p></span></h1>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><span style="mso-bidi-font-family: Arial" lang="EN-GB"><font size="2">We take the security of Your Personal Information very seriously.<span style="mso-spacerun: yes">&nbsp; </span>We have put in place technical and organisational security measures to prevent the loss or unauthorised access of Your Personal Information.<span style="mso-spacerun: yes">&nbsp; </span>Your Personal Information is contained behind secured networks and is only accessed when necessary.<span style="mso-spacerun: yes">&nbsp;&nbsp; </span>A limited number of people have special access rights to such systems and they are required to keep the information confidential. When You place orders or access Your Personal Information, we offer the use of a secure server. All sensitive/credit information You supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be accessed only as stated above.<span style="mso-spacerun: yes">&nbsp; </span><o:p></o:p></font></span></p>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><font size="2"><span style="mso-bidi-font-family: Arial" lang="EN-GB">Whilst We have used Our best efforts to ensure the security of Your Personal Information, please be aware that We cannot guarantee the security of information transmitted over the Internet.</span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><o:p></o:p></span></font></p>
+<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-fareast-font-family: Arial" lang="EN"><span style="mso-list: Ignore">12<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">What are Cookies and do We use them<o:p></o:p></span></h1>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">Like other Websites, information and data on the Chelsea Site may be automatically collected through "cookies". "Cookies" are small text files which a web site can use to recognize repeat users.<span style="mso-spacerun: yes">&nbsp; </span>"<b>Cookies</b>" allow Us to observe how You navigate the Chelsea Site on each visit and enable us to improve the Chelsea Site by reflecting Your interests and targeting appropriate advertising. <o:p></o:p></font></span></p>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">Cookies do not attach to Your system or damage Your files. Most browsers automatically accept cookies, but if You do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature.<span style="mso-spacerun: yes">&nbsp; </span>Please note however, that if You turn cookies off, then this will limit the service that We are able to provide to You and may affect Your visitor experience.<o:p></o:p></font></span></p>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><span style="mso-bidi-font-family: Arial" lang="EN-GB"><font size="2">For more information about cookies, including further details as to what they are and how to refuse them, please visit </font><a href="http://www.allaboutcookies.org/"><font size="2">www.allaboutcookies.org</font></a><font size="2">.</font></span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><o:p></o:p></span></p>
+<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-fareast-font-family: Arial" lang="EN"><span style="mso-list: Ignore">13<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">Monitoring<o:p></o:p></span></h1>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="BodyText1"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">For security purposes, We may monitor or record telephone calls for security purposes and to improve the quality of services that We provide to You.<o:p></o:p></font></span></p>
+<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-fareast-font-family: Arial" lang="EN"><span style="mso-list: Ignore">14<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">Third Party Links<o:p></o:p></span></h1>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><span style="mso-bidi-font-family: Arial" lang="EN-GB"><font size="2">In order to provide You with increased value, We may include links to third party Websites on the Chelsea Site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content or activities of these linked sites. However, We do seek to protect the integrity of Our site and welcome any feedback</font><font size="2"> about these linked sites (including if a specific link does not work) by email/in writing via the contact details given in paragraph 3 above.</font></span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><o:p></o:p></span></p>
+<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-fareast-font-family: Arial" lang="EN"><span style="mso-list: Ignore">15<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">Modifying Information<o:p></o:p></span></h1>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">You may notify Us of any updates, amendments or corrections to previously collected Personal Information in writing/by email via the contact details given in paragraph 3 above. Please include Your name, address and/or email address when You contact Us as this helps Us to ensure that We accept amendments only from the correct person.<span style="mso-spacerun: yes">&nbsp; </span>We encourage You to promptly update Your Personal Information if it changes.<o:p></o:p></font></span></p>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">Upon Your request, We will use commercially reasonable efforts to delete Your Personal Information from Our database.<span style="mso-spacerun: yes">&nbsp; </span>However, it may not be possible to delete an entry without some delay and without retaining some residual Personal Information because of backups and records of deletions.<o:p></o:p></font></span></p>
+<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-fareast-font-family: Arial" lang="EN"><span style="mso-list: Ignore">16<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">Your rights to access Your Personal Information<o:p></o:p></span></h1>
+<p style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><font size="2"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN-US">You have the right to contact Us in order to find out what Personal Information We hold about You.<span style="mso-spacerun: yes">&nbsp; </span>Please note that a small fee will be payable towards the cost of administering any request You make.<span style="mso-spacerun: yes">&nbsp; </span>The current fee is £10.</span><b><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><o:p></o:p></span></b></font></p>
+<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-fareast-font-family: Arial" lang="EN"><span style="mso-list: Ignore">17<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">Changes to policy<o:p></o:p></span></h1>
+<p style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">In order to comply with the law and to meet Our changing business requirements, Our policies and procedures are constantly under review.<span style="mso-spacerun: yes">&nbsp; </span>In order to maintain high standards, from time to time, We may<span style="mso-spacerun: yes">&nbsp; </span>modify, alter, or update the Chelsea Privacy Policy. Any changes shall be notified to all users via the Chelsea Site. We therefore recommend that You check the Chelsea Site periodically in order to review Our current policies. <o:p></o:p></font></span></p>
+<p style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><font size="2"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">Policy changes will apply only to Personal Information collected after the date of the change.<span style="mso-spacerun: yes">&nbsp; </span>However, by continuing to use the Chelsea Site </span><span style="mso-bidi-font-family: Arial" lang="EN-GB">or by buying any products/services from Us, You are agreeing to be bound by the terms of these updates and amendments.<o:p></o:p></span></font></p>
+<p style="TEXT-ALIGN: justify; MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><font size="2"><span style="mso-bidi-font-family: Arial" lang="EN-GB">This policy was last modified on 1<sup>st</sup> June 2008.</span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><o:p></o:p></span></font></p>
+<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-fareast-font-family: Arial" lang="EN"><span style="mso-list: Ignore">18<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">Terms and Conditions<o:p></o:p></span></h1>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><span style="mso-bidi-font-family: Arial" lang="EN-GB"><font size="2">Please also visit our </font><a href="http://www.chelseafc.com/page/TermsAndConditions/0,,10268,00.html"><font size="2">Terms and Conditions</font></a><font size="2"> section using the following link </font><a href="http://www.chelseafc.com/terms"><font size="2">www.chelseafc.com/terms</font></a><font size="2">.<span style="mso-spacerun: yes">&nbsp; </span>The Terms and Conditions establish the use, disclaimers, and limitations of liability governing the use of the Chelsea Site.<o:p></o:p></font></span></p>
+<h1 style="MARGIN: 11.5pt 0cm 11.5pt 35.45pt"><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-fareast-font-family: Arial" lang="EN"><span style="mso-list: Ignore">19<span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="FONT-SIZE: 10pt; mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">Children's Privacy Policy<o:p></o:p></span></h1>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="BodyText1"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">By continuing to use the Chelsea Site and any of the services offered, You are confirming that you have received the consent of your parent or a guardian to use the Chelsea Site.<o:p></o:p></font></span></p>
+<h2 style="MARGIN: 0cm 0cm 11.5pt 35.45pt"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-fareast-font-family: Arial" lang="EN"><span style="mso-list: Ignore"><font size="2">19.1</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">Protection of Children's Personal Information<o:p></o:p></font></span></h2>
+<p><font size="2">We encourage children to speak to their parents before submitting any Personal Information to the Chelsea Site and also recommend that parents supervise their children while they are online.<span style="mso-spacerun: yes">&nbsp; </span></font></p>
+<p><font size="2"><span style="mso-spacerun: yes"></span>There are various control tools available for online services that we advise parents to utilise in order to create a child-friendly online environment for their children.<span style="mso-spacerun: yes">&nbsp; </span><o:p></o:p></font><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">We are dedicated to the protection of children's Personal Information and We do not actively market to children.<span style="mso-spacerun: yes">&nbsp;&nbsp; </span></font></span></p>
+<p><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2"><span style="mso-spacerun: yes"></span>It is Our policy not to make a child's participation in a Chelsea Site activity contingent on the child disclosing any more Personal Information than is reasonably necessary in order to do so.<o:p></o:p></font></span> </p>
+<p><strong><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-fareast-font-family: Arial" lang="EN"><span style="mso-list: Ignore"><font size="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;19.2</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">Obligations on those under 18 years old<o:p></o:p></font></span> </strong></p>
+<h2 style="TEXT-INDENT: 0cm; MARGIN: 0cm 0cm 11.5pt; mso-list: none; tab-stops: 36.0pt"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">In order to protect children, those who are under the age of 18 must always ask their parent/guardian before they:<o:p></o:p></font></span></h2>
+<p style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 11.5pt 36pt; mso-list: l1 level1 lfo4; tab-stops: list 36.0pt" class="MsoBodyText"><span style="FONT-FAMILY: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN; mso-fareast-font-family: Symbol" lang="EN"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">email the Chelsea Site, or ask Us to email anything to them/another child;<o:p></o:p></font></span></p>
+<p style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 11.5pt 36pt; mso-list: l1 level1 lfo4; tab-stops: list 36.0pt" class="MsoBodyText"><span style="FONT-FAMILY: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN; mso-fareast-font-family: Symbol" lang="EN"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">send any information to Us;<o:p></o:p></font></span></p>
+<p style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 11.5pt 36pt; mso-list: l1 level1 lfo4; tab-stops: list 36.0pt" class="MsoBodyText"><span style="FONT-FAMILY: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN; mso-fareast-font-family: Symbol" lang="EN"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">enter any competition or game that requires information about themselves/another child or offers a prize;<o:p></o:p></font></span></p>
+<p style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 11.5pt 36pt; mso-list: l1 level1 lfo4; tab-stops: list 36.0pt" class="MsoBodyText"><span style="FONT-FAMILY: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN; mso-fareast-font-family: Symbol" lang="EN"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">apply to join the <st1:city w:st="on"><st1:place w:st="on">Chelsea</st1:place></st1:city>'s Junior True Blues Team;<o:p></o:p></font></span></p>
+<p style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 11.5pt 36pt; mso-list: l1 level1 lfo4; tab-stops: list 36.0pt" class="MsoBodyText"><span style="FONT-FAMILY: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN; mso-fareast-font-family: Symbol" lang="EN"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">post any information on any bulletin board or enter any chat room; or<o:p></o:p></font></span></p>
+<p style="TEXT-INDENT: -18pt; MARGIN: 0cm 0cm 11.5pt 36pt; mso-list: l1 level1 lfo4; tab-stops: list 36.0pt" class="MsoBodyText"><span style="FONT-FAMILY: Symbol; mso-bidi-font-family: Symbol; mso-ansi-language: EN; mso-fareast-font-family: Symbol" lang="EN"><span style="mso-list: Ignore"><font size="2">·</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">offer or agree to buy anything online.<o:p></o:p></font></span></p>
+<h2 style="MARGIN: 0cm 0cm 11.5pt 35.45pt"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN; mso-fareast-font-family: Arial" lang="EN"><span style="mso-list: Ignore"><font size="2">19.3</font><span style="FONT: 7pt 'Times New Roman'">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><font size="2">Reviewing/Deleting Children's Personal Information<o:p></o:p></font></span></h2>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><font size="2"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN">A parent/guardian may submit a request via email/in writing to the address set out in paragraph 3 above to stop any additional use of a child's Personal Information or to request that We delete the Personal Information.<span style="mso-spacerun: yes">&nbsp; </span>Before disclosing information about a child, We may request that the parent/guardian provide reasonable information about the child for identification purposes (e.g. child's name, address, telephone number etc).</span><span style="mso-bidi-font-family: Arial" lang="EN-GB"><o:p></o:p></span></font></p>
+<p style="MARGIN: 0cm 0cm 11.5pt" class="MsoBodyText"><span style="mso-bidi-font-family: Arial; mso-ansi-language: EN" lang="EN"><o:p><font size="2">&nbsp;</font></o:p></span></p></div></div>
 
 </div></div>
   
@@ -1215,20 +1217,20 @@ mail_str = "mailto:?subject=Fwd: I liked this Chelsea FC page&body=Thought you m
 location.href = mail_str;
 }
 </script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">  {lang: 'en-GB'} </script>
 <div class="share_buttons">
 <div class="share_fb">
 <a name="fb_share" type="button" href="http://www.facebook.com/sharer.php"></a>
 <script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
 </div>
 <div class="share_fb_like">
-<script language="javascript">document.write(fblikelink)</script><iframe src="http://www.facebook.com/plugins/like.php?href=https://web.archive.org/web/20110625200549id_/http%3A//www.chelseafc.com/page/Privacy/0%2C%2C10268%2C00.html&amp;layout=button_count&amp;show_faces=false&amp;width=90&amp;action=like&amp;font&amp;colorscheme=light&amp;height=28" scrolling="no" frameborder="0" width="100" height="28" style="border:none; overflow:hidden; width:100px; height:28px;" allowtransparency="true"></iframe>
+<script language="javascript">document.write(fblikelink)</script><iframe src="http://www.facebook.com/plugins/like.php?href=https://web.archive.org/web/20111201170343id_/http%3A//www.chelseafc.com/page/Privacy/0%2C%2C10268%2C00.html&amp;layout=button_count&amp;show_faces=false&amp;width=90&amp;action=like&amp;font&amp;colorscheme=light&amp;height=28" scrolling="no" frameborder="0" width="100" height="28" style="border:none; overflow:hidden; width:100px; height:28px;" allowtransparency="true"></iframe>
 </div>
 <div class="share_twitter">
 <a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="stamfordthelion">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div>
-<div class="share_myspace">
-<a href="javascript:void(window.open('http://www.myspace.com/Modules/PostTo/Pages/?u='+encodeURIComponent(document.location.toString()),'ptm','height=450,width=440').focus())">
-<img src="http://cms.myspacecdn.com/cms/ShareOnMySpace/small.png" border="0" alt="Share on MySpace">
-</a></div>
+<div class="share_google">
+<g:plusone size="medium"></g:plusone>
+</div>
 <div class="share_email"><a href="javascript:mailpage()"><img title="Email this page" alt="Email this page" src="http://www.chelseafc.com/javaImages/78/82/0,,10268~8815224,00.png" border="0" height="20"></a></div>
 <div class="share_rss"><a href="http://www.chelseafc.com/rss/ptv/page/CustomArticleIndex/0,,10268~2244975,00.xml" target="social"><img title="Subscribe to the Latest News RSS" alt="Subscribe to the Latest News RSS" src="http://www.chelseafc.com/javaImages/77/82/0,,10268~8815223,00.png" border="0" height="20"></a> </div>
 </div>
@@ -1390,100 +1392,103 @@ default: break;
 <div class="latestNewsWrap">
 <div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2381608,00.html">MY FAVOURITE GAMES: ASHLEY COLE</a>
+<a href="/page/LatestNews/0,,10268~2534355,00.html">NEW DEAL FOR HUTCHINSON</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="http://www.chelseafc.com/page/TourNews/0,,10268~2380895,00.html">IVANOVIC LOOKING FOR BETTER</a>
+<a href="/page/LatestNews/0,,10268~2534262,00.html">VILLAS-BOAS: AWAY THE LADS</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2380642,00.html">CHELSEA TV EXCLUSIVE: VILLAS-BOAS OPEN THOUGHTS</a>
+<a href="/page/LatestNews/0,,10268~2533552,00.html">GILES SMITH’S THURSDAY THOUGHTS</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2380543,00.html">VILLAS-BOAS: THE FIRST INTERVIEW</a>
+<a href="/page/LatestNews/0,,10268~2533921,00.html">FIVE BLUES NOMINATED FOR FIFPRO TEAM</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2380210,00.html">VILLAS-BOAS APPOINTED</a>
+<a href="/page/LatestNews/0,,10268~2533960,00.html">RAUL REVEALS SOFTER SIDE IN NEW MAG</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2380222,00.html">VILLAS-BOAS: IN PROFILE</a>
+<a href="/page/LatestNews/0,,10268~2532139,00.html">CHELSEA WEBSITE HITS A HAT-TRICK</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2380411,00.html">EXCLUSIVE VILLAS-BOAS INTERVIEW ON CHELSEA TV</a>
+<a href="/page/LatestNews/0,,10268~2534227,00.html">ENJOY BIG DISCOUNTS WITH YOUR TEAMCARD THIS WEEKEND</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2379801,00.html">LEGENDS: BOBBY TAMBLING</a>
+<a href="/page/LatestNews/0,,10268~2533999,00.html">CHELSEA FOUNDATION IN KOREA</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2380258,00.html">PORTSMOUTH &amp; VITESSE PRE-SEASON TICKET NEWS</a>
+<a href="/page/LatestNews/0,,10268~2533356,00.html">MCEACHRAN UPDATE</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2379963,00.html">VILLAS-BOAS INTEREST CONFIRMED</a>
+<a href="/page/LatestNews/0,,10268~2533159,00.html">WORDS WITH: ORIOL ROMEU</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2379925,00.html">CHELSEA TV HEADLINES: SPECULATION SPOTLIGHT</a>
+<a href="/page/LatestNews/0,,10268~2532640,00.html">CHELSEA TV ONLINE: TURNBULL ON THE SPOT-KICK</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2379046,00.html">MY FAVOURITE GAMES: MICHAEL ESSIEN</a>
+<a href="/page/LatestNews/0,,10268~2533189,00.html">THE DUALERS AT UNDER THE BRIDGE THIS WEEK</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2378767,00.html">LATE COMEBACK MEANS END FOR ENGLAND</a>
+<a href="/page/LatestNews/0,,10268~2533062,00.html">KIT YOURSELF OUT WITH OUR LATEST BOOK</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2379033,00.html">JT'S ASIA TROPHY TRIUMPH</a>
+<a href="/page/LatestNews/0,,10268~2532642,00.html">CHELSEA TV ONLINE: KNOWING YOUTH</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2378384,00.html">MY FAVOURITE GAMES: RYAN BERTRAND</a>
+<a href="/page/LatestNews/0,,10268~2532475,00.html">REACTION: TOO LITTLE TOO LATE</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2378397,00.html">ASK STATMAN</a>
+<a href="/page/LatestNews/0,,10268~2532417,00.html">MATCH REPORT: CHELSEA 0 LIVERPOOL 2</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2377804,00.html">STOKE AWAY TO START SEASON</a>
+<a href="/page/LatestNews/0,,10268~2532234,00.html">TEAM NEWS: CHELSEA V LIVERPOOL</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2378009,00.html">FREE CHELSEA TV THIS WEEKEND</a>
+<a href="/page/LatestNews/0,,10268~2532115,00.html">BUET JOINS STARS FOR OLYMPIC FOOTBALL</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2378187,00.html">THOMAS COOK SPORT MATCH BREAKS NOW ON SALE</a>
+<a href="/page/LatestNews/0,,10268~2532298,00.html">MATCHDAY PROGRAMME NOTES</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="http://www.chelseafc.com/page/TourNews/0,,10268~2377246,00.html">BLUES WARM TO BANGKOK</a>
+<a href="/page/LatestNews/0,,10268~2532214,00.html">CHELSEA TV ONLINE: MCEACHRAN'S CUP</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2376980,00.html">UNDER 21 CHAMPIONSHIPS: TWO GAMES, TWO DRAWS</a>
+<a href="/page/LatestNews/0,,10268~2531761,00.html">TURNBULL: HANDS-ON ROLE</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2377285,00.html">GET CHELSEA TV FOR FREE FOR 12 MONTHS!</a>
+<a href="/page/LatestNews/0,,10268~2530889,00.html">PAT NEVIN: SMILES AND STYLE</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2377270,00.html">WOMEN`S WEEKLY</a>
+<a href="http://www.chelseafc.com/page/TalkingPoints/0,,10268~61245,00.html">PRE-MATCH BRIEFING: CHELSEA V LIVERPOOL</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2376991,00.html">CHELSEA TV ONLINE: MIKEL’S NINE MONTHS</a>
+<a href="/page/LatestNews/0,,10268~2531261,00.html">DI MATTEO AND VILLAS-BOAS WORKING IN TANDEM</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="http://www.chelseafc.com/page/TourNews/0,,10268~2376652,00.html">KUALA LUMPUR BLUE PITCH LAUNCHED</a>
+<a href="/page/LatestNews/0,,10268~2531247,00.html">RESERVE REPORT: FULHAM 2 CHELSEA 2</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2376425,00.html">LEGENDS: DAN PETRESCU</a>
+<a href="/page/LatestNews/0,,10268~2530764,00.html">188BET: CHELSEA V LIVERPOOL</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="http://www.chelseafc.com/page/TourNews/0,,10268~2376466,00.html">MALAYSIA IDEAL FOR SEASON PREPARATIONS</a>
+<a href="/page/LatestNews/0,,10268~2531427,00.html">RESERVE SCHEDULE SWITCH</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2375921,00.html">BECOME A MEMBER &amp; WATCH THE CHELSEA COOK-OFF</a>
+<a href="/page/LatestNews/0,,10268~2530783,00.html">DI MATTEO: IN IT TO WIN IT</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="http://www.chelseafc.com/page/TourNews/0,,10268~2375788,00.html">GOURLAY LOOKS AHEAD</a>
+<a href="/page/LatestNews/0,,10268~2530665,00.html">CHELSEA MEN REMEMBER GARY SPEED</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2376315,00.html">ESSIEN TAKES TIME FOR FUNDRAISING</a>
+<a href="/page/LatestNews/0,,10268~2530932,00.html">THE SUMMARISER: CHELSEA V WOLVES</a>
 </div></div>
 <div class="moreNewsButton"><a href="/page/LatestNewsIndex/0,,10268,00.html"><img src="/javaImages/9/72/0,,10268~3633673,00.gif" alt="Latest News"></a></div></div>
 </div>     
 <div id="masterCompositeTabContent12061_2" class="masterCompositeTabContent">      
 <div class="NewsMostRated" id="NewsMostRated" style="display:none">
 <div class="latestNewsWrap"><div class="InnerNews">
+<img src="/javaImages/39/42/0,,10268~3621433,00.gif">
+<a href="/page/LatestNews/0,,10268~2428850,00.html">STATEMENT ON MIKEL'S FATHER</a>
+</div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
 <a href="/page/LatestNews/0,,10268~1878354,00.html">GILES SMITH`S MIDWEEK VIEW</a>
 </div><div class="InnerNews">
@@ -1570,9 +1575,6 @@ default: break;
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
 <a href="/page/LatestNews/0,,10268~1818442,00.html">TALKING TRIUMPHS ON CHELSEA TV</a>
-</div><div class="InnerNews">
-<img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~1818166,00.html">CHICAGO BULLS AND CHELSEA BLUES</a>
 </div></div>
 <div class="moreNewsButton"><a href="/page/LatestNewsIndex/0,,10268,00.html"><img src="/javaImages/9/72/0,,10268~3633673,00.gif" alt="Latest News"></a></div></div>  
 </div>     
@@ -1583,28 +1585,52 @@ default: break;
 <a href="/page/LatestNews/0,,10268~2281499,00.html">TORRES JOINS CHELSEA</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
+<a href="/page/LatestNews/0,,10268~2438063,00.html">RAUL MEIRELES JOINS CHELSEA</a>
+</div><div class="InnerNews">
+<img src="/javaImages/39/42/0,,10268~3621433,00.gif">
 <a href="/page/LatestNews/0,,10268~2281884,00.html">FERNANDO TORRES: CHELSEA'S NUMBER NINE</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
 <a href="/page/LatestNews/0,,10268~2281570,00.html">TORRES: HAPPY TO BE BLUE</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2281529,00.html">TORRES SPEAKS TO CHELSEA TV</a>
+<a href="/page/LatestNews/0,,10268~2430847,00.html">JUAN MATA DEAL COMPLETED</a>
+</div><div class="InnerNews">
+<img src="/javaImages/39/42/0,,10268~3621433,00.gif">
+<a href="/page/LatestNews/0,,10268~2424552,00.html">LUKAKU: THE FIRST INTERVIEW</a>
+</div><div class="InnerNews">
+<img src="/javaImages/39/42/0,,10268~3621433,00.gif">
+<a href="/page/LatestNews/0,,10268~2412311,00.html">LUKAKU DEAL AGREED</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
 <a href="/page/LatestNews/0,,10268~1031634,00.html">adidas UNVEIL NEW CHELSEA AWAY KIT</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
+<a href="/page/LatestNews/0,,10268~2281529,00.html">TORRES SPEAKS TO CHELSEA TV</a>
+</div><div class="InnerNews">
+<img src="/javaImages/39/42/0,,10268~3621433,00.gif">
 <a href="/page/LatestNews/0,,10268~2282230,00.html">TORRES TRAINS</a>
+</div><div class="InnerNews">
+<img src="/javaImages/39/42/0,,10268~3621433,00.gif">
+<a href="/page/LatestNews/0,,10268~2427778,00.html">MATA DEAL AGREED</a>
+</div><div class="InnerNews">
+<img src="/javaImages/39/42/0,,10268~3621433,00.gif">
+<a href="/page/LatestNews/0,,10268~2434327,00.html">CHELSEA SIGN ULISES DAVILA</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
 <a href="/page/LatestNews/0,,10268~2281533,00.html">DAVID LUIZ SIGNS</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2247370,00.html">CHELSEA VERSUS MANCHESTER UNITED POSTPONED</a>
+<a href="/page/LatestNews/0,,10268~2380210,00.html">VILLAS-BOAS APPOINTED</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
 <a href="/page/LatestNews/0,,10268~2364758,00.html">CHELSEA STATEMENT</a>
+</div><div class="InnerNews">
+<img src="/javaImages/39/42/0,,10268~3621433,00.gif">
+<a href="/page/LatestNews/0,,10268~2247370,00.html">CHELSEA VERSUS MANCHESTER UNITED POSTPONED</a>
+</div><div class="InnerNews">
+<img src="/javaImages/39/42/0,,10268~3621433,00.gif">
+<a href="/page/LatestNews/0,,10268~2434371,00.html">DROGBA TO BE RELEASED FROM HOSPITAL</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
 <a href="/page/LatestNews/0,,10268~2281149,00.html">CHELSEA BECOMES CASH POSITIVE</a>
@@ -1613,61 +1639,37 @@ default: break;
 <a href="/page/LatestNews/0,,10268~2283340,00.html">LUIZ LANDS</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2380210,00.html">VILLAS-BOAS APPOINTED</a>
+<a href="/page/LatestNews/0,,10268~2391413,00.html">MATCH REPORT: CHELSEA 3 WYCOMBE WANDERERS 0</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
 <a href="/page/LatestNews/0,,10268~2281284,00.html">TRANSFER WINDOW LIVE TONIGHT ON CHELSEA TV</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
+<a href="/page/LatestNews/0,,10268~2438494,00.html">MEIRELES TAKES 16</a>
+</div><div class="InnerNews">
+<img src="/javaImages/39/42/0,,10268~3621433,00.gif">
+<a href="/page/LatestNews/0,,10268~2412153,00.html">MATCH REPORT: RANGERS 1 CHELSEA 3</a>
+</div><div class="InnerNews">
+<img src="/javaImages/39/42/0,,10268~3621433,00.gif">
 <a href="/page/LatestNews/0,,10268~2379963,00.html">VILLAS-BOAS INTEREST CONFIRMED</a>
-</div><div class="InnerNews">
-<img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2283554,00.html">THE THURSDAY INTERVIEW: DAVID LUIZ</a>
-</div><div class="InnerNews">
-<img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~1686025,00.html">CHELSEA STATEMENT ON KAKA</a>
-</div><div class="InnerNews">
-<img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~1678053,00.html">ANCELOTTI IS NEW CHELSEA MANAGER</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
 <a href="/page/LatestNews/0,,10268~2380543,00.html">VILLAS-BOAS: THE FIRST INTERVIEW</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2345611,00.html">TORRES THANKS TEAM AND FANS</a>
+<a href="/page/LatestNews/0,,10268~1686025,00.html">CHELSEA STATEMENT ON KAKA</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2024893,00.html">NEW HOME KIT REVEALED</a>
-</div><div class="InnerNews">
-<img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2373344,00.html">AWAY KIT REVEALED</a>
+<a href="/page/LatestNews/0,,10268~2409841,00.html">ORIOL ROMEU DEAL COMPLETED</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
 <a href="/page/LatestNews/0,,10268~2380222,00.html">VILLAS-BOAS: IN PROFILE</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2048335,00.html">VICTORY PARADE ANNOUNCED</a>
+<a href="/page/LatestNews/0,,10268~2283554,00.html">THE THURSDAY INTERVIEW: DAVID LUIZ</a>
 </div><div class="InnerNews">
 <img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2336619,00.html">NEW HOME KIT FOR 2011/12 SEASON REVEALED</a>
-</div><div class="InnerNews">
-<img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2047737,00.html">REACTION: THANKS TO EVERYONE!</a>
-</div><div class="InnerNews">
-<img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2284506,00.html">FINISHING PRACTICE FOR FERNANDO</a>
-</div><div class="InnerNews">
-<img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2216469,00.html">WILKINS LEAVES CHELSEA</a>
-</div><div class="InnerNews">
-<img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2117513,00.html">NEW THIRD KIT REVEALED</a>
-</div><div class="InnerNews">
-<img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2118833,00.html">THE THURSDAY INTERVIEW: MICHAEL ESSIEN</a>
-</div><div class="InnerNews">
-<img src="/javaImages/39/42/0,,10268~3621433,00.gif">
-<a href="/page/LatestNews/0,,10268~2305607,00.html">MATCH REPORT: CHELSEA 2 MANCHESTER UNITED 1</a>
+<a href="/page/LatestNews/0,,10268~2418085,00.html">2011/12 SQUAD NUMBERS ANNOUNCED</a>
 </div></div>
 <div class="moreNewsButton"><a href="/page/LatestNewsIndex/0,,10268,00.html"><img src="/javaImages/9/72/0,,10268~3633673,00.gif" alt="Latest News"></a></div></div>
 </div>     
@@ -1713,7 +1715,7 @@ switchToTabByQueryStringParam(12061);
 <!--JavaScript Tag // Tag for network 327: premiumtv.co.uk // Website: Chelsea // Page: Chelsea Run of Site // Placement: Chelsea_mpu_300x250 (1577855) // created at: 27-Mar-08 PM 06:05-->
 <script language="javascript">
 document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|327|1577855|0|170|ADTECH;loc=100;target=_blank;sub1=[subst];grp=[group];misc='+new Date().getTime()+'"></scri'+'pt>');
-</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|327|1577855|0|170|ADTECH;loc=100;target=_blank;sub1=[subst];grp=[group];misc=1580422314298"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|327|1577855|0|170|ADTECH;loc=300;sub1=[subst];grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|327|1577855|0|170|ADTECH;loc=300;grp=[group]" border="0" width="300" height="250"></a></noscript>
+</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn|3.0|327|1577855|0|170|ADTECH;loc=100;target=_blank;sub1=[subst];grp=[group];misc=1580422313446"></script><noscript><a href="http://adserver.adtech.de/adlink|3.0|327|1577855|0|170|ADTECH;loc=300;sub1=[subst];grp=[group]" target="_blank"><img src="http://adserver.adtech.de/adserv|3.0|327|1577855|0|170|ADTECH;loc=300;grp=[group]" border="0" width="300" height="250"></a></noscript>
 <!-- End of JavaScript Tag -->
 </div>
 
@@ -1831,7 +1833,7 @@ window['onTabSwitched21911_' + tab].call();
 <div id="masterCompositeTabContent21911_0" class="masterCompositeTabContent">      
 <div class="HTMLElement">
 <div id="shotofday" style="position:relative; z-index:20; width: 264px; height: 162px; left: 0px; top: 0px;  visibility:visible; background-image: url(/javaImages/22/a0/0,,10268~6004770,00.jpg)">
-<div id="shot1" style="position:absolute; z-index:20; width: 264px; height: 162px; left: 12px; top: 16px; visibility:visible;"><img src="http://chelsea1.chelseafc.com/theshed/images/daily/dailypic_home.jpg" width="237" height="127" border="0" alt="Visit the Shot of the Day"></div>
+<div id="shot1" style="position:absolute; z-index:20; width: 264px; height: 162px; left: 12px; top: 16px; visibility:visible;"><img src="/javaImages/7b/79/0,,10268~8288635,00.jpg" width="237" height="127" border="0" alt="Visit the Shot of the Day"></div>
 <div id="shot2" style="position:absolute; z-index:30; width: 100%; height: 100%; visibility:visible; left: 0px; top: 0px;"><a href="http://theshed.chelseafc.com/theshed/shotoftheday.shtml?WT.mc_id=shotoftheday_homepage" target="theshed"><img src="/javaImages/23/a0/0,,10268~6004771,00.gif" border="0" alt="Click here to view the Shot of the Day"></a></div>
 </div>
 </div>
@@ -1879,7 +1881,7 @@ switchToTabByQueryStringParam(21911);
 <li><a href="http://www.samsung.com/" target="_blank"><img src="/javaImages/29/98/0,,10268~3708969,00.gif" alt="Samsung"></a></li>
 <li class="lastOfficialSponsor"><a href="http://www.adidas.com/" target="_blank"><img src="/javaImages/b5/5e/0,,10268~3694261,00.png" alt="Adidas"></a></li>
 <li><a href="http://chelsea.thomascooksport.com" target="_blank"><img src="/javaImages/a/7d/0,,10268~8944906,00.png" alt="Thomas Cook"></a></li>
-<li style="margin-left:2px;"><a href="http://www.easports.com/" target="_blank"><img src="/javaImages/b1/28/0,,10268~3811505,00.gif" alt="EA Sports"></a></li>
+<li style="margin-left:2px;"><a href="http://www.ea.com/uk/football/" target="_blank"><img src="/javaImages/b1/28/0,,10268~3811505,00.gif" alt="EA Sports"></a></li>
 <li style="margin-left:5px;"><a href="http://www.188promo.com/chelsea/" target="_blank"><img height="55" alt="188bet" hspace="0" src="/javaImages/ac/4d/0,,10268~6901164,00.gif" width="81" border="0"></a></li>
 <li style="margin-left:5px;"><a href="/page/Singha/0,,10268,00.html" target="_blank"><img height="55" alt="Singha" hspace="0" src="/javaImages/b6/8c/0,,10268~8948918,00.png" width="71" border="0"></a></li>
 <li style="margin-left:230px;"><a href="http://www.premierleague.com" target="_blank"><img src="/javaImages/59/7a/0,,10268~3701337,00.png" alt="Premier League"></a></li>
@@ -1926,90 +1928,6 @@ switchToTabByQueryStringParam(21911);
 <a href="#" class="noAction" id="closeBox">X</a>
 </div>
 </div>
-<script type="text/javascript">
-var uservoiceOptions = {
-/* required */
-key: 'chelseafc',
-host: 'chelseafc.uservoice.com', 
-forum: '73449',
-showTab: true,  
-/* optional */
-alignment: 'right',
-background_color:'#06C',
-text_color: 'white',
-hover_color: '#7587C3',
-lang: 'en'
-};
-function _loadUserVoice() {
-var s = document.createElement('script');
-s.setAttribute('type', 'text/javascript');
-s.setAttribute('src', ("https:" == document.location.protocol ? "https://" : "http://") + "cdn.uservoice.com/javascripts/widgets/tab.js");
-document.getElementsByTagName('head')[0].appendChild(s);
-}
-_loadSuper = window.onload;
-window.onload = (typeof window.onload != 'function') ? _loadUserVoice : function() { _loadSuper(); _loadUserVoice(); };
-</script>
-<script type="text/javascript">
-function closeBox(relocate) {
-$('#swCont').animate({ 
-width: '100%', 
-height: '100%', 
-top: '0%', 
-left: '0%', 
-opacity: '0'
-},300);
-$('#swCont').queue(function () {
-$('#swLightBoxOverlay, #swBox').hide();                    
-});
-if (relocate) {location.href = relocate;}	
-};
-$(document).ready(function(){ 
-$.ajax({ 
-url: 'http://www.geolocation.performgroup.com/page/userLocation/country_GB/results.jsonp',
-cache: true, 
-async: false, 
-dataType: 'jsonp', 
-jsonpCallback: 'userLocationServerCallback', 
-type: 'GET', 
-success: function(data) {
-} 
-});
-}); 
-function userLocationServerCallback(data){
-var yourLocation = data.location;
-var redirect = new Array();
-redirect['TH'] = new Array();
-redirect['TH']['url'] = "http://thai.chelseafc.com"; 
-redirect['TH']['text'] = "Thailand"; 
-redirect['CN'] = new Array();
-redirect['CN']['url'] = "http://china.chelseafc.com"; 
-redirect['CN']['text'] = "China"; 
-var locationRedirect;			
-if (redirect['yourLocation']) {
-var locationRedirect = redirect['yourLocation']['url'];		
-}
-if (locationRedirect!=null && GetCookie("LanguageLightBox") != "true") {
-SetCookie("LanguageLightBox", "true");
-$('#swForLink').addClass('yourLocation').children('.countryName').text(redirect[yourLocation]['text']);
-$('#swLightBoxOverlay').css('height', document.body.clientHeight);
-$('#swBox, #swLightBoxOverlay').show();                    
-$('#swLightBoxOverlay').animate({
-opacity: '0.75'
-},200);		
-$('#swBox').queue(function () {
-$('#swCont').animate({
-top: '7%'
-}, 500);
-});
-$('#swForLink').click(function(){
-closeBox(locationRedirect);
-});
-$('#closeBox, #swEngLink').click(function(){
-closeBox();
-});
-}
-}
-</script>
 </div>
 
 </div></div>
@@ -2037,7 +1955,7 @@ closeBox();
   Copyright 1997-2005 Omniture, Inc. More info available at
   http://www.omniture.com -->
 
-  <script language="JavaScript" type="text/javascript" src="/page/javascript/Omniture/0,,~,00.js"></script><img name="s_i_premiumtvchelseafcnew" height="1" width="1" border="0" alt="" src="https://premiumtv.122.2O7.net/b/ss/premiumtvchelseafcnew/1/H.2-pdv-2/s58309624827766?[AQB]&amp;ndh=1&amp;t=30/0/2020%2022%3A11%3A54%204%200&amp;ce=ISO-8859-1&amp;ns=premiumtv&amp;cdp=3&amp;pageName=/Privacy/Privacy%20Policy/1404776&amp;g=https%3A//web.archive.org/web/20110625200549id_/http%253A//www.chelseafc.com/page/Privacy/0%252C%252C10268%252C00.html&amp;cc=GBP&amp;ch=/Privacy&amp;server=perslows04&amp;c2=Privacy%20Policy&amp;c3=1404776&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
+  <script language="JavaScript" type="text/javascript" src="/page/javascript/Omniture/0,,~,00.js"></script><img name="s_i_premiumtvchelseafcnew" height="1" width="1" border="0" alt="" src="https://premiumtv.122.2O7.net/b/ss/premiumtvchelseafcnew/1/H.2-pdv-2/s53394902244073?[AQB]&amp;ndh=1&amp;t=30/0/2020%2022%3A11%3A54%204%200&amp;ce=ISO-8859-1&amp;ns=premiumtv&amp;cdp=3&amp;pageName=/Privacy/Privacy%20Policy/1404776&amp;g=https%3A//web.archive.org/web/20111201170343id_/http%253A//www.chelseafc.com/page/Privacy/0%252C%252C10268%252C00.html&amp;cc=GBP&amp;ch=/Privacy&amp;server=perslows02&amp;c2=Privacy%20Policy&amp;c3=1404776&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]">
   <script language="JavaScript" type="text/javascript"><!--
   
     
@@ -2046,7 +1964,7 @@ closeBox();
     
     
   
-  s.server="perslows04";
+  s.server="perslows02";
   s.pageType=""
   s.prop1=""
   
