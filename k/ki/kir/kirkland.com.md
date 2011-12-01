@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kirkland.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629101358id_/http%3A//www.kirkland.com/sitecontent.cfm%3Fcontentid%3D322) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirkland.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202005940id_/http%3A//www.kirkland.com/sitecontent.cfm%3Fcontentid%3D322) for the most accurate reproduction.*
 
 # Kirkland & Ellis LLP > Privacy Policy
 
@@ -16,7 +16,7 @@ Members of the Kirkland & Ellis LLP Alumni Network may change or delete the info
 
 **Cookies**
 
-We use cookies to track user preferences. A cookie is a small data file that certain websites write to your hard drive when you visit them. If you prefer not to receive cookies through our website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. You do not need to have cookies turned on to use any pages within our website.
+We use cookies to track user preferences. A cookie is a small data file that certain websites write to your hard drive when you visit them. If you prefer not to receive cookies through our website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. Cookies are required to select text size preferences within our website.
 
 **Choice**
 
@@ -26,7 +26,7 @@ We will not use or share the personally identifiable information provided to us 
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, the Firm uses commercially appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-Unfortunately, the transmission of information via the internet is not completely secure. However, we have put in place various security procedures as set out in this policy. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
+Unfortunately, the transmission of information via the Internet is not completely secure. However, we have put in place various security procedures as set out in this policy. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorized access.
 
 **Our commitment to children's privacy**
 
@@ -34,6 +34,6 @@ We do not seek to collect or maintain information on our website from those we k
 
 **How to contact us**
 
-Should you have any questions or concerns about our Privacy Policy, please send us an email at [info@kirkland.com](mailto:info@kirkland.com), send a written notification to Kirkland & Ellis LLP, 300 North LaSalle, Chicago, IL 60654, Attn: Client Service Department, or call us at (312) 862-7236. 
+Should you have any questions or concerns about our Privacy Policy, please send us an email at [info@kirkland.com](mailto:info@kirkland.com), send a written notification to Kirkland & Ellis LLP, 300 North LaSalle, Chicago, IL 60654, Attn: Business Development Department, or call us at (312) 862-7236. 
 
 Updated: November 3, 2008
