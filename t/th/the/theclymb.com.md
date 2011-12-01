@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theclymb.com privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309163417id_/http%3A//www.theclymb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theclymb.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201172122id_/http%3A//www.theclymb.com/privacy) for the most accurate reproduction.*
 
-# The Clymb >> Member Pricing On the Planet's Most Sought-After Outdoor Brands ™
+# The Clymb | The Gear You Need. Up to 70% Below Retail. ™
 
 You must be logged in. Please log in.
 
