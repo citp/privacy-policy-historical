@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the insurance.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303214341id_/http%3A//www.insurance.com/about-us/privacy-and-security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insurance.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201175350id_/http%3A//www.insurance.com/about-us/privacy-and-security.aspx) for the most accurate reproduction.*
 
 # Privacy and Security Information | Insurance.com
 
-Updated as of January 25, 2011
+**QuinStreet, Inc.**
+
+Updated as of April 20, 2011
 
 **Company Practices Regarding Your Privacy**
 
 Welcome to Insurance.com, a website owned by QuinStreet, Inc. We at QuinStreet, Inc. and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any information you share with us by using our web sites.
 
-QuinStreet has established the following Online Privacy Policy so that you can understand the care with which we intend to treat your information. This policy describes the overall privacy practices of QuinStreet regarding information we collect on our network of web sites and through our other Internet advertising mediums, including but not limited to email, newsletters, and leave-behinds. This policy also describes the specific privacy practices regarding information you voluntarily disclose while taking advantage of the insurance-quoting services on [www.insurance.com](http://www.insurance.com/), [www.comparisonmarket.com](http://www.comparisonmarket.com/) and [www.carinsurance.com](http://www.carinsurance.com/), which we provide through our wholly owned subsidiary, QuinStreet Insurance Agency, Inc. (fka Car Insurance.com, Inc.). This policy does not apply to the practices of companies that QuinStreet does not own or control, or to people that QuinStreet does not employ.
+QuinStreet has established the following Online Privacy Policy so that you can understand the care with which we intend to treat your information. This policy describes the privacy practices of this website regarding information we collect and information you voluntarily disclose while taking advantage of the insurance-quoting services on this website, which we provide through our wholly owned subsidiary, QuinStreet Insurance Agency, Inc. (fka Car Insurance.com, Inc.). This policy does not apply to the practices of companies that QuinStreet does not own or control, or to people that QuinStreet does not employ.
 
 **Your California Privacy Rights**
 
@@ -34,7 +36,7 @@ Where you provide your personal information to us to receive an auto insurance q
 
 The non-personally identifiable information that QuinStreet collects is used for marketing and sales efforts to better target advertisements and other content in an effort to create a more personally relevant experience. The information is also used to predict responses to advertisements, and to help determine which ads perform best and which content is most appropriate for different individuals. If you take advantage of our insurance-quoting services, we may also provide non-personally identifiable information about your use of our websites to quoting aggregators, participating insurance carriers and our business partners.
 
-If you elect to provide QuinStreet with personally identifiable information, we may utilize such information for marketing purposes, and this use may result in follow-up communications from QuinStreet and from our clients. In addition, that information may be combined with information collected from other sources to assist with targeting ads to your preferences and behaviors, and for other QuinStreet sales and marketing efforts.
+If you elect to provide QuinStreet with personally identifiable information, we may utilize such information for marketing purposes, and this use may result in follow-up communications from QuinStreet and from our clients. By submitting such information to us, you understand and agree that such submission constitutes making an “inquiry” to us and our affiliated entities, who may contact you via telephone for a limited period even if the telephone number you submitted appears on any state and/of federal Do Not Call list because your inquiry serves as an exception to state and/or federal Do Not Call laws.  In addition, that information may be combined with information collected from other sources to assist with targeting ads to your preferences and behaviors, and for other QuinStreet sales and marketing efforts.
 
 If you provide your personal information to us to receive an auto insurance quote, we may utilize such information for the following purposes:
 
@@ -117,7 +119,7 @@ We do not sell, rent or trade your personal information or email address that yo
 
 **TRUSTe**
 
-Insurance.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the following sites: www.insurance.com and www.comparisonmarket.com. Because these web sites want to demonstrate its commitment to your privacy, we  have agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Insurance.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices.  
 
 If you have questions or concerns regarding this statement, you should first contact us at QuinStreet Privacy Policy – 950 Tower Lane, 6th Floor, Foster City, CA 94404, or send email to info@quinstreet.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your problems.
 
