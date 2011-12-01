@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the michiganfirst.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515203901id_/http%3A//www.michiganfirst.com/Tools_and_Resources/Security_Center/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michiganfirst.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201205946id_/http%3A//www.michiganfirst.com/Tools_and_Resources/Security_Center/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
