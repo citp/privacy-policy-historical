@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breakingtravelnews.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212123855id_/http%3A//www.breakingtravelnews.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakingtravelnews.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201010952id_/http%3A//www.breakingtravelnews.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Breaking Travel News
 
@@ -17,7 +17,7 @@ By entering Your User Information, You accept that we may retain Your User Infor
 We reserve the right to perform statistical analyses of User’s behavior and characteristics in order to measure interest in, and use of, the various areas of the Site and, in addition, to inform advertisers of such information as well as the number of Users that have been exposed to or who have clicked on their advertising banners. We will provide only aggregated data from these analyses to third parties.
 
 **Disclosure**  
-We shall be entitled to sell or otherwise make available Your User Information in order to send You information about Us and Our affiliates, associated companies and organisations, for the following purposes including, but not limited to : 
+We shall be entitled to sell or otherwise make available Your User Information in order to send You information about Us and Our affiliates, associated companies and organisations, for the following purposes including, but not limited to :
 
   1. promotional and/or marketing material about products, services and offers;
   2. market research or compliance;
@@ -42,4 +42,4 @@ We reserve the right, at any time, to modify, alter, or update this Privacy Poli
 **Contact**  
 Any queries or comments about this policy should be forwarded to info@breakingtravelnews.com
 
-Any site that you may connect to from here is not covered by this Privacy Policy. 
+Any site that you may connect to from here is not covered by this Privacy Policy.
