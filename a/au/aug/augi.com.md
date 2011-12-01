@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the augi.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603064203id_/http%3A//www.augi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the augi.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201162820id_/http%3A//www.augi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AUGI
 
@@ -32,21 +32,3 @@ If you have any questions about this privacy statement, the practices of this si
 
 Autodesk User Group International, Inc.  
 [membership@augi.com](mailto:membership@augi.com)
-
-[
-
-Become part of the largest Autodesk community
-
-](http://www.augi.com/account/register/)
-
-  1.     1.     2. Jun 21st, 2011 
-  2.     1.     2. Jun 22nd, 2011 
-  3.     1.     2. Jun 23rd, 2011 
-  4.     1. Hyatt Huntington Beach, Orange County, California
-    2. Jun 23rd - 25th, 2011 
-  5.     1. Vancouver, Canada
-    2. Aug 7th - 11th, 2011 
-  6.     1. Las Vegas, NV, USA
-    2. Nov 29th - Dec 1st, 2011 
-
-
