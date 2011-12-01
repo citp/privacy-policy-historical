@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trimet.org privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607033504id_/http%3A//trimet.org/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trimet.org privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201074953id_/http%3A//trimet.org/legal/privacy.htm) for the most accurate reproduction.*
 
 # TriMet: Privacy Policy
 
@@ -44,7 +44,7 @@ The Site contains links to other sites. TriMet is not responsible for the privac
 
 We take reasonable precautions to protect your information. For example, we encrypt certain communications through our Site with 128-bit encryption, the industry standard for strong encryption. However, given the nature of the Internet and the fact that network security measures are not infallible, we cannot guarantee the security of your information.    
 
-If you have any questions about the security at our Site, you can send a message to the webmaster at [webmaster@trimet.org](mailto:webmaster@trimet.org). 
+If you have any questions about the security at our Site, you can send a message to the webmaster at [webadmin@trimet.org](mailto:webadmin@trimet.org). 
 
 ## 7\. Correcting, updating, deleting and deactivating personal information 
 
@@ -56,4 +56,4 @@ TriMet may modify the terms of this privacy policy at any time by updating this 
 
 ## 9\. Contact information
 
-[webmaster@trimet.org](mailto:webmaster@trimet.org)
+[webadmin@trimet.org](mailto:webadmin@trimet.org)
