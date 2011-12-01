@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epiq11.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621210913id_/http%3A//www.epiqsystems.com/General.aspx%3Fid%3D53) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epiq11.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201051244id_/http%3A//www.epiqsystems.com/General.aspx%3Fid%3D53) for the most accurate reproduction.*
 
 # Epiq Systems, Inc. | Privacy Statement
 
