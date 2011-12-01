@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webyield.net privacy policy that was archived on 2011-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110415155829id_/http%3A//www.webyield.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webyield.net privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201012041id_/http%3A//webyield.net/privacystatement.html) for the most accurate reproduction.*
 
 # WebYield Privacy Policy
 
