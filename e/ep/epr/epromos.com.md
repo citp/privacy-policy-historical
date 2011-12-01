@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epromos.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527075122id_/http%3A//www.epromos.com/support/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epromos.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201230406id_/http%3A//www.epromos.com/support/privacy-security) for the most accurate reproduction.*
 
 # Privacy and Security | ePromos Promotional Products
 
