@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pooldawg.com privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617043924id_/http%3A//www.pooldawg.com/privacy-policy-and-terms-of-use.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pooldawg.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201204036id_/http%3A//www.pooldawg.com/privacy-policy-and-terms-of-use.html) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use at Pooldawg.com
 
@@ -21,11 +21,11 @@ We collect the domain name and e-mail address (where possible) of visitors to ou
 When you visit PoolDawg you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our web site. 
 
 If you choose to purchase products or services from Pool Dawg, you may need to give personal information and authorization to obtain information from various credit services. For example, you may need to provide the following information:   
-· Name   
-· Mailing address   
-· Email address   
-· Credit card number   
-· Home and business phone number
+Â· Name   
+Â· Mailing address   
+Â· Email address   
+Â· Credit card number   
+Â· Home and business phone number
 
 The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes, , disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the Website.
 
