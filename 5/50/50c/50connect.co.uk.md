@@ -1,105 +1,106 @@
-> *The following text is extracted and transformed from the 50connect.co.uk privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618063550id_/http%3A//50connect.co.uk/terms__and__conditions2/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 50connect.co.uk privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202005739id_/http%3A//50connect.co.uk/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy : 50connect
+# 50 Connect | Privacy policy
 
-### 1\. Introduction and General Terms
+##  1\. Introduction and General Terms
 
-Fifty Connect is committed to protecting you and your family's personal information when you are using Fifty Connect services. We want our services to be safe and enjoyable environments for our audience. This Privacy Policy relates to our use of any personal information you provide to us through Fifty Connect websites. 
+50connect.co.uk is part of the Olderiswiser Limited business assets.  
+Olderiswiser Limited is committed to protecting you and your family's personal information when you are using Olderiswiser Limited services. We want our services to be safe and enjoyable environments for our audience. This Privacy Policy relates to our use of any personal information you provide to us through Olderiswiser Limited websites.
 
-In order to provide you with the full range of Fifty Connect services, we are sometimes required to collect information about you.
+In order to provide you with the full range of Olderiswiser Limited services, we are sometimes required to collect information about you.
 
-This privacy policy explains the following: 
+This privacy policy explains the following:
 
-  * what information Fifty Connect may collect about you; 
-  * how Fifty Connect will use information we collect about you; 
-  * when Fifty Connect may use your details to contact you; 
-  * whether Fifty Connect will disclose your details to anyone else; 
-  * your choices regarding the personal information you have provided to us; 
-  * the use of cookies on Fifty Connect website and how you can reject these cookies. 
+  * What information Olderiswiser Limited may collect about you;
+  * How Olderiswiser Limited will use information we collect about you; 
+  * When Olderiswiser Limited may use your details to contact you; 
+  * Whether Olderiswiser Limited will disclose your details to anyone else; 
+  * Your choices regarding the personal information you have provided to us; 
+  * The use of cookies on Olderiswiser Limited website and how you can reject these cookies.
 
 
 
-As set out above, Fifty Connect is committed to safeguarding your personal information. Whenever you provide such information, we are legally obliged to use your information in line with all laws concerning the protection of personal information, including the Data Protection Act 1998 (these laws are referred to collectively in this Privacy Policy as the "data protection laws"). 
+As set out above, Olderiswiser Limited is committed to safeguarding your personal information. Whenever you provide such information, we are legally obliged to use your information in line with all laws concerning the protection of personal information, including the Data Protection Act 1998 (these laws are referred to collectively in this Privacy Policy as the "data protection laws").
 
-The websites contain hyperlinks to websites owned and operated by third parties. These third party websites have their own privacy policies, including cookies, and we urge you to review them. They will govern the use of personal information you submit or are collected by cookies whilst visiting these websites. We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk. 
+The websites contain hyperlinks to websites owned and operated by third parties. These third party websites have their own privacy policies, including cookies, and we urge you to review them. They will govern the use of personal information you submit or are collected by cookies whilst visiting these websites. We do not accept any responsibility or liability for the privacy practices of such third party websites and your use of such websites is at your own risk.
 
-### 2\. What information will Fifty Connect collect about me?
+##  2\. What information will Olderiswiser Limited collect about me?
 
-When you sign up to participate in or receive a service from any 50connect.co.uk website, such as newsletters, competitions, live chats, message boards or register with the single universal online registration system used across different parts of 50connect.co.uk, we may ask for personal information about you. This can consist of information such as your name, e mail address, postal address, telephone or mobile number or date of birth. Different webpages may ask for different personal information. 
+When you sign up to participate in or receive a service from any 50connect.co.uk website, such as newsletters, competitions, live chats, message boards or register with the single universal online registration system used across different parts of 50connect.co.uk, we may ask for personal information about you. This can consist of information such as your name, e mail address, postal address, telephone or mobile number or date of birth. Different web pages may ask for different personal information.
 
-By entering your details in the fields requested, you enable Fifty Connect and its service providers to provide you with the services you select. 
+By entering your details in the fields requested, you enable and its service providers to provide you with the services you select.
 
-Please note that sometimes on particular webpages we will require you to provide additional personal information, and sometimes sensitive personal information (e.g. if you're sending in an application to be a contributor on a political party we may need to know your political leanings). When we do this we will specify further on these webpages why we are collecting your information and how we will use it. 
+Please note that sometimes on particular web pages we will require you to provide additional personal information, and sometimes sensitive personal information (e.g. if you're sending in an application to be a contributor on a political party we may need to know your political leanings). When we do this we will specify further on these web pages why we are collecting your information and how we will use it.
 
-Fifty Connect also uses cookies (see paragraph 13 below for details) and collects IP addresses (an IP address is a number that can uniquely identify a specific computer or other network device on the internet). We use analysis software to look at IP addresses and cookies for the purpose of enhancing your user experience. This information is not used to develop a personal profile of you and the log files are regularly purged. 
+Olderisiwiser Limited also uses cookies (see paragraph 12 below for details) and collects Internet Protocol (IP) addresses (an IP address is a number that can uniquely identify a specific computer or other network device on the internet). We use analysis software to look at IP addresses and cookies for the purpose of enhancing your user experience. This information is not used to develop a personal profile of you and the log files are regularly purged.
 
-We also use your IP address to determine whether you are accessing the services from the UK or not. If not, you will be re-directed to the international version of 50connect.co.uk site (see paragraph 11 for details.) 
+We also use your IP address to determine whether you are accessing the services from the UK or not. If not, you will be re-directed to the international version of 50connect.co.uk site  
 
-### 3\. How will Fifty Connect use the information they collect about me?
+##  3\. How will Olderiswiser Limited use the information they collect about me?
 
-Fifty Connect will use your personal information for a number of purposes including the following: 
+Olderisiwsier Limited will use your personal information for a number of purposes including the following:
 
-  * for "service administration purposes", which means that Fifty Connect may contact you for reasons related to the service you have signed up for, as set out in paragraph 4 below (e.g. to provide you with password reminders or to notify you that a particular service has been suspended for maintenance); 
+  * For "service administration purposes", which means that Olderiswiser Limited may contact you for reasons related to the service you have signed up for, as set out in paragraph 4 below (e.g. to provide you with password reminders or to notify you that a particular service has been suspended for maintenance);
   * to contact you about a submission you have made to the websites, including any content you provide.
-  * to personalise the way Fifty Connect content is presented to you (e.g. if we notice that the first thing you look at when you visit the website is 'Entertainment', then we may present this information or a link to it on your homepage); 
-  * IP addresses are used to identify the location of users, the number of visits from different countries and also to block disruptive use; and 
-  * to analyse and improve the services offered on 50connect.co.uk. e.g. to provide you with the most user-friendly navigation experience. 
+  * to personalise the way 50connect.co.uk content is presented to you (e.g. if we notice that the first thing you look at when you visit the website is 'Entertainment', then we may present this information or a link to it on your homepage);
+  * IP addresses are used to identify the location of users, the number of visits from different countries and also to block disruptive use; and
+  * to analyse and improve the services offered on 50connect.co.uk. e.g. to provide you with the most user-friendly navigation experience.
 
 
 
-Where Fifty Connect proposes using your personal information for any other uses we will ensure that we notify you first. You will also be given the opportunity to withhold or withdraw your consent for your use other than as listed above. 
+Where Olderiswiser Limited needs to use your personal information we will obtain your consent first. Otherwise, by providing us with the information either verbally, written or using our website, you consent to the collection, use and processing of this information by Olderiswiser Limited. We will use every reasonable effort to safeguard your personal information. You also have the option to withhold your information by written notification to us.   
 
-### 4\. When will Fifty Connect contact me?
+##  4\. When will Olderiswiser Limited contact me?
 
-Fifty Connect may contact you: 
+Olderiswiser Limited may contact you:
 
-  * in relation to the functioning of any service you have signed up for in order to ensure that Fifty Connect can deliver the services to you; 
-  * where you have opted to receive further correspondence; 
-  * in relation to any contribution you have made to 50connect.co.uk, e.g. in the Fifty Connect forum; 
-  * to invite you to participate in surveys about Fifty Connect services (participation is always voluntary); and 
+  * in relation to the functioning of any service you have signed up for in order to ensure that Olderisiwser Limited  can deliver the services to you;
+  * where you have opted to receive further correspondence; 
+  * in relation to any contribution you have made to 50connect.co.uk, e.g. in the site’s  forum; 
+  * to invite you to participate in surveys about Olderiswiser Limited services (participation is always voluntary); and 
   * for marketing purposes where you have specifically agreed to this (see paragraph 5 below)
 
 
 
-Local pages will give you detailed information about how Fifty Connect will contact you in relation to specific services. 
+Local pages will give you detailed information about how Olderiswiser Limited will contact you in relation to specific services.
 
-### 5\. Will I be contacted for marketing purposes?
+##  5\. Will I be contacted for marketing information?
 
-Fifty Connect won't contact you for marketing purposes, or promote new services to you unless you specifically agree to be contacted for these purposes. 
+You have the option to decline to receive marketing information from us by “opting out” with written notification to us.
 
-### 6\. Will Fifty Connect share my personal information with anyone else?
+##  6\. Will Olderiswiser Limited share my personal information with third parties?
 
-We will keep your information confidential except where disclosure is required or permitted by law (for example to government bodies and law enforcement agencies) or as described in paragraph 7 below. Generally, we will only use your information within Fifty Connect. However, sometimes Fifty Connect uses third parties to process your information. Fifty Connect will require these third parties to comply strictly with its instructions and Fifty Connect will require that they do not use your personal information for their own business purposes. 
+We will keep your information confidential except where disclosure is required or permitted by law (for example to government bodies and law enforcement agencies) or as described in paragraph 7 below. Generally, we will only use your information within Olderiswiser Limited. However, sometimes Olderiswiser Limited uses third parties to process your information. Olderiswiser Limited will require these third parties to comply strictly with its instructions.
 
-### 7\. Offensive or inappropriate content on Fifty Connect website
+##  7\. Offensive or inappropriate content on the websites of Olderiswiser Limited
 
-If you post or send offensive, inappropriate or objectionable content anywhere on or to 50connect.co.uk, or otherwise engage in any disruptive behaviour on 50connect.co.uk, Fifty Connect may use your personal information to stop such behaviour. 
+If you post or send offensive, inappropriate or objectionable content anywhere on or to 50connect.co.uk, or otherwise engage in any disruptive behaviour on 50connect.co.uk, Olderiswiser Limited may use your personal information to stop such behaviour.
 
-Where Fifty Connect reasonably believes that you are or may be in breach of any of the laws of England or Wales (e.g. because content you have posted may be defamatory), Fifty Connect may use your personal information to inform relevant third parties such as your employer, school e-mail/Internet provider or law enforcement agencies about the content and your behaviour.
+Where Olderiswiser Limited reasonably believes that you are or may be in breach of any of the laws of England or Wales (e.g. because content you have posted may be defamatory), Olderiswiser Limited may use your personal information to inform relevant third parties such as your employer, school e-mail/Internet provider or law enforcement agencies about the content and your behaviour.
 
-### 8\. What if I am a user aged 16 or under?
+##  8\. What if I am a user aged 16 or under?
 
-If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to Fifty Connect's website. Users without this consent are not allowed to provide us with personal information. 
+If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to Olderiswiser Limited's website. Users without this consent are not allowed to provide us with personal information.
 
-### 9\. How long will Fifty Connect keep my personal information?
+##  9\. How long will Olderiswiser Limited keep my personal information?
 
-We will hold your personal information on our systems for as long as is necessary for the relevant service, or as long as is set out in any relevant contract you hold with Fifty Connect. In the case that you wish to cancel your registration as a 50connect.co.uk member, once an account is deleted a red flag goes on the database and, while people cannot use the personal information, it stays on the system for a period of one year for administration purposes before being deleted automatically.
+We will hold your personal information on our systems for as long as is necessary for the relevant service, or as long as is set out in any relevant contract you hold with Olderiswiser Limited. In the case that you wish to cancel your registration as a 50connect.co.uk member, once an account is deleted a red flag goes on the database and, while people cannot use the personal information, it stays on the system for a period of one year for administration purposes before being deleted automatically.
 
-Where you contribute to 50connect.co.uk, Fifty Connect will generally only keep your content for as long as is reasonably required for the purpose(s) for which it was submitted. For example, Fifty Connect will only keep copies of entries to a photographic competition for the duration of the competition. However other areas (e.g. the Forum) are likely to have a longer, or even permanent, duration. 
+Where you contribute to 50connect.co.uk, Olderiswiser Limited will generally only keep your content for as long as is reasonably required for the purpose(s) for which it was submitted. For example, Olderiswiser Limited will only keep copies of entries to a photographic competition for the duration of the competition. However other areas (e.g. the Forum) are likely to have a longer, or even permanent, duration.
 
-### 10\. Can I find out what personal information Fifty Connect holds about me?
+##  10\. Can I find out what personal information Olderiswiser Limited holds about me?
 
-Under the Data Protection Act you have the right to request a copy of the personal information Fifty Connect holds about you and to have any inaccuracies corrected. (We charge £10 for information requests and will require you to prove your identity with 2 pieces of approved photographic identification.) We will use reasonable efforts to supply, correct or delete personal information about you on our files.
+Under the Data Protection Act you have the right to request a copy of the personal information Olderiswiser Limited holds about you and to have any inaccuracies corrected.  We will use reasonable efforts to supply, correct or delete personal information about you on our files. You are required to provide 2 pieces of photographic identification and an administration charge may be incurred for the process.
 
-Please address requests and questions about this or any other question about this Privacy Policy to the Data Protection Officer, Fifty Connect Limited, Morley House, Badminton House, Church Street, Old Amersham, Buckinghamshire, HP7 0DD (Email: dpa.officer@50connect.com). 
+Please address requests to the Data Protection Officer, 50connect.co.uk, Olderiswiser Limited, Suite 9, 46 Manchester Street, London W1U 7LS.
 
-### 11\. Changes to Fifty Connect's Privacy Policy
+##  11\. Changes to Olderiswiser Limited's Privacy Policy
 
-This privacy policy may be updated from time to time so you may wish to check it each time you submit personal information to any 50connect.co.uk website. The date of the most recent revisions will appear on this page.
+This Privacy Policy may be updated from time to time so you may wish to check it each time you submit personal information to any 50connect.co.uk website. The date of the most recent revisions will appear on this page.
 
-### 12\. Cookies Policy - Information Fifty Connect collects from you
+##  12\. Cookies Policy - Information Olderiswiser Limited collects from you
 
-#### a. What is a cookie?
+###  a. What is a cookie?
 
 A cookie is a small amount of data, which often includes a unique identifier that is sent to your computer or mobile phone (referred to here as a "device") browser from a website's computer and is stored on your device's hard drive. Each website can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Many sites do this whenever a user visits their website in order to track online traffic flows.
 
@@ -107,33 +108,27 @@ Cookies record information about your online preferences and allow us to tailor 
 
 During the course of any visit to 50connect.co.uk, the pages you see, along with a cookie, are downloaded to your device. Many websites do this, because cookies enable website publishers to do useful things like find out whether the device (and probably its user) has visited the website before. This is done on a repeat visit by checking to see, and finding, the cookie left there on the last visit.
 
-#### b. How does Fifty Connect use cookies?
+  
+
+
+### b. How does Olderiswiser Limited use cookies?
 
 Information supplied by cookies can help us to analyse the profile of our visitors and help us to provide you with a better user experience. For example: if on a previous visit you went to our education pages, we might find this out from your cookie and highlight educational information on your second and subsequent visits.
 
-Fifty Connect also use a number of independent measurement and research companies. They gather information regarding the visitors to Fifty Connect sites on our behalf using cookies, log file data and code which is embedded on our website. Fifty Connect use this type of information to help improve the services it provides to its users. Fifty Connect strictly require that third parties do not use any information for their own business or other purposes (see paragraph 6 above). Certain other areas of 50connect.co.uk may use cookies for a specific reason - for example, to help an online game work effectively on your device. If this is the case, the local terms for that area of the website will make this clear and you should refer to those local terms for additional information.
+Olderiswiser Limited also use a number of independent measurement and research companies. They gather information regarding the visitors to Olderiswiser Limited sites on our behalf using cookies, log file data and code which is embedded on our website. Olderiswiser Limited uses this type of information to help improve the services it provides to its users. Olderiswiser Limited requires that third parties to comply strictly with its instruction (see paragraph 6 above). Certain other areas of 50connect.co.uk may use cookies for a specific reason - for example, to help an online game work effectively on your device. If this is the case, the local terms for that area of the website will make this clear and you should refer to those local terms for additional information.
 
-### 13\. Contacting Fifty Connect about this Privacy Policy
+  
 
-If you have any questions or comments about this Privacy Policy please contact;
 
-**Fifty Connect Limited**  
-Morley House  
-Badminton House  
-Church Street  
-Old Amersham  
-Buckinghamshire  
-HP7 0DD
+##  13\. Contacting Olderiswiser Limited about this Privacy Policy
 
-(Email: dpa.officer@50connect.com).
+If you have any questions or comments about this Privacy Policy please contact;  
+ 
 
-General information about data protection may be found at:
+##  50connect.co.uk
 
-Information Commissioner’s website:  
-http://www.dataprotection.gov.uk
-
-Direct Marketing Association  
-http://www.dma.org.uk
-
-Consumer advice from the DMA  
-http://www.mydm.co.uk
+Olderiswiser Limited  
+Suite 9,  
+46 Manchester Street,  
+London W1U 7LS  
+Tel: (020) 7034 1900
