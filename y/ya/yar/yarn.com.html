@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the yarn.com privacy policy that was archived on 2011-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110527122521id_/http%3A//www.yarn.com/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yarn.com privacy policy that was archived on 2011-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111201052556id_/http%3A//www.yarn.com/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 		
@@ -28,6 +28,7 @@
 	
 	@import "/resources/_shared/css/all/_defaults.css";
 	
+	@import "/resources/_shared/css/all/thickbox.css";
 </style>
 
 				
@@ -57,10 +58,12 @@
 
 <!-- RAC head include --> 
 <script language="javascript" type="text/javascript"> 
+//if (document.location.protocol != 'https:') {
 var sliJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
 document.write(unescape('%3Cscript src="' + sliJsHost + 'assets.resultspage.com/js/jquery-1.4.2.min.js" type="text/javascript"%3E%3C/script%3E'));
 document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJsHost + 'assets.resultspage.com/js/rac/sli-rac.0.3.css" /%3E'));
 document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJsHost + 'yarn.resultspage.com/rac/sli-rac.css" /%3E'));
+//}
 </script><script src="https://assets.resultspage.com/js/jquery-1.4.2.min.js" type="text/javascript"></script><link rel="stylesheet" type="text/css" href="https://assets.resultspage.com/js/rac/sli-rac.0.3.css"><link rel="stylesheet" type="text/css" href="https://yarn.resultspage.com/rac/sli-rac.css"> 
 <!-- /RAC head include --> 
 
@@ -75,10 +78,15 @@ document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJ
 					//]]>
 				</script><script language="JavaScript" src="/resources/_shared/js/qForms/qforms/field.js"></script><script language="JavaScript1.2" src="/resources/_shared/js/qForms/qforms/functions_js12.js"></script><script language="JavaScript" src="/resources/_shared/js/qForms/qforms/validation.js"></script><script language="JavaScript" src="/resources/_shared/js/qForms/qforms/validation_addon.js"></script>
 			
-    <script type="text/javascript" src="/resources/_shared/js/jquery/jquery-1.4.2.min.js"></script>
-    <script type="text/javascript" src="/resources/Yarn/js/jquery/jquery.center.js"></script>
-    <script type="text/javascript" src="/resources/Yarn/js/functions.js"></script>
-
+		<script type="text/javascript" src="/resources/_shared/js/jquery/jquery-1.4.2.min.js"></script>
+		<script type="text/javascript" src="/resources/_shared/js/jquery/jquery.cookie.js"></script>
+		<script type="text/javascript" src="/resources/Yarn/js/jquery/jquery.center.js"></script>
+		<script type="text/javascript" src="/resources/Yarn/js/functions.js"></script>
+		<script type="text/javascript" src="/resources/_shared/js/thickbox/thickbox.js"></script>
+		<script type="text/javascript" src="/resources/_shared/js/jquery/dialog.js"></script>
+		<script type="text/javascript" src="/resources/Yarn/js/interface.js"></script>
+		<script type="text/javascript" src="/resources/_shared/js/modernizr.min.js"></script>
+	
 	</head>
 	<body class="internal internal-">
 		<!-- SLI Begin Utility Nav -->
@@ -127,7 +135,7 @@ document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJ
 			<!-- SLI Begin Header -->
 			<div id="header-container" class="clearfix">
 				<div id="logo-container" class="clearfix">
-					<h1><a href="/index.cfm" accesskey="H" title="Webs: home page link"><img src="http://img6.yarn.com/resources/Yarn/images/layout/logo_webs-main.gif" alt="Webs logo"></a></h1>
+					<h1><a href="http://www.yarn.com" accesskey="H" title="Webs: home page link"><img src="http://img6.yarn.com/resources/Yarn/images/layout/logo_webs-main.gif" alt="WEBS, America's Yarn Store"></a></h1>
 				</div>
 				
 				<div id="tagline-container" class="clearfix">
@@ -189,6 +197,12 @@ document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJ
            
 				</ul>
 			</div>
+			
+			
+				<div id="content-promoContainer" class="clearfix">
+					<p><a href="http://www.yarn.com/"><img alt="freeshippingatwebs" src="https://www.yarn.com/resources/Yarn/images/activeedit/freeshippingsitewide.jpg" border="0"> </a></p>
+				</div>
+			
 			<!-- SLI End Primary Nav -->
 			
 			<!-- SLI Start Main Body -->
@@ -280,6 +294,12 @@ document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJ
 		</a>
 	
 			</li>
+		
+		<li class="navigation-item-37518a11-eebc-49ec-9c0f-af65fffc68de">
+			<a href="/webs-security-policy/" title="Security Policy"> Security Policy
+		</a>
+	
+			</li>
 		</ul></li> 
 		<li class="navigation-item-197c01f5-590c-47da-89b9-5cc66e52f322">
 			<a href="/shipping-information/" title="Shipping Information"> Shipping Information
@@ -361,13 +381,21 @@ document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJ
 <p>We realize your privacy is very important to you and so it is to us. The following is a summary of what information we collect from you, and how that information is used.</p>
 <h3>What information do we collect?</h3>
 <p>We obtain personal information such as name, e-mail, phone number, address, credit card information, etc. when you place an order through our on-line system. We also track the number of visitors to different pages on our site, but keep no personal information unless an actual order is placed. </p>
-<h3>How is this information used?</h3>
-<p>Internally, we use the information we collect to improve the content of our Web page, and to help us improve the quality of products and services we provide to you. We may also use your e-mail, mailing address or phone number to contact you concerning our services..</p>
-<p>At no time will we provide any information you provide to sources or companies outside WEBS. We do not sell or trade our customer list..</p>
-<p>We may also use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, please check back at our website periodically or <a href="/contact-us/" param="function(property, value)
+<h3>What are cookies?</h3>
+<p>Cookies are small pieces of information stored on your hard drive that help the website keep track of pages you visited, the fact that you are logged in to your account, which items you have placed in your cart, etc. This information is used to make your shopping experience more enjoyable.</p>
+<p>We use cookies for other information as well to gauge the effectiveness of various marketing programs and email campaigns. These cookies are only written if you choose to click on our links and expire after you place an order on yarn.com or in two weeks—whichever comes first.</p>
+<p>Neither of these forms of cookies retains any personal information whatsoever. They only record which pages you have visited, and provide us information on how well our marketing programs are doing.<br><br>Since cookies are managed in each web browser differently, <a href="http://www.google.com/support/accounts/bin/answer.py?answer=61416&amp;hl=en" target="target=" }?="" true;="" return="" }="" false;="" this[property]="value;" {="" undefined?)="" param="function(property, value)
 {
-	if (typeof(this[property]) == " }?="" true;="" return="" }="" false;="" this[property]="value;" {="" undefined?)="">send us an email</a>.</p>
-<p>If you do not want us to use your information in one or more of these situations, please email us and let us know in which situation(s) you do not want us to use your information. Please do not forget to include your name and address. .</p>
+	if (typeof(this[property]) == " _blank??=""><strong>step-by-step instructions</strong></a> for enabling cookies for the browswer of your choice can be found <a href="http://www.google.com/support/accounts/bin/answer.py?answer=61416&amp;hl=en" target="target=" }?="" true;="" return="" }="" false;="" this[property]="value;" {="" undefined?)="" param="function(property, value)
+{
+	if (typeof(this[property]) == " _blank??="">here</a>.<br><br>If you set your browser to refuse cookies, please call us at 1-800-367-9327 to place your order.</p>
+<h3>How is the information we collect&nbsp;used?</h3>
+<p>Internally, we use the information we collect to improve the content of our Web page, and to help us improve the quality of products and services we provide to you. We may also use your e-mail, mailing address or phone number to contact you concerning our services.</p>
+<p>At no time will we provide any information you provide to sources or companies outside WEBS. We do not sell or trade our customer list.</p>
+<p>We may also use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, please check back at our website periodically or <a href="http://www.yarn.com/contact-us/" }?="" true;="" return="" }="" false;="" this[property]="value;" {="" undefined?)="" param="function(property, value)
+{
+	if (typeof(this[property]) == ">send us an email</a>.</p>
+<p>If you do not want us to use your information in one or more of these situations, please email us and let us know in which situation(s) you do not want us to use your information. Please do not forget to include your name and address.</p>
 <p>Please feel free to contact us with any questions or concerns about this Privacy Policy.</p><!--
 							--></div>
 						
@@ -527,11 +555,27 @@ document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJ
 			
 			<!-- RAC script include --> 
 			<script language="javascript" type="text/javascript"> 
+			//if (document.location.protocol != 'https:') {
 				var sliJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
 				document.write(unescape('%3Cscript src="' + sliJsHost + 'yarn.resultspage.com/rac/sli-rac.config.js" type="text/javascript"%3E%3C/script%3E'));
+			//}
 			</script><script src="https://yarn.resultspage.com/rac/sli-rac.config.js" type="text/javascript"></script> 
 			<!-- /RAC script include -->
 
+			<script type="text/javascript">
+					//<![CDATA[
+						$(document).ready(function()
+				  		{
+				  			tb_init("a[href*='/index.cfm/fuseaction/content.popup/']");
+							tb_init("a[rel='thickbox']");
+							tb_init("a[href$='#thickbox']");
+							
+							$("a[href$='#thickbox']").each(function() {
+															this.href = this.href.replace("#thickbox","");
+														});
+						});
+					//]]>
+				</script>
 	
 			
 				<!-- Google Code for All Site Visitors Remarketing List -->
@@ -560,4 +604,4 @@ document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJ
 		</script>
 		<!-- End MyBuys Page Initialization -->
 	
- <!-- 174.129.237.157 48 183 --> </body></html>
+ <!-- 174.129.237.157 17 183 --> </body></html>
