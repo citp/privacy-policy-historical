@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feastie.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527235403id_/http%3A//www.feastie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feastie.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201051943id_/http%3A//www.feastie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Feastie
 
