@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lego.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630084639id_/http%3A//aboutus.lego.com/en-us/corporate/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lego.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201133904id_/http%3A//aboutus.lego.com/en-us/corporate/privacypolicy.aspx) for the most accurate reproduction.*
 
 # LEGO.com About Us - Privacy Policy
 
@@ -104,7 +104,7 @@ When you use our LEGO Shop at Home service online or offline (e.g. ordering onli
 
 We will use such personal data to process and deliver your order, to provide notification of order status, and to update your profile periodically to ensure that we have the most accurate personal data available. We will also use said personal data to analyze customer behavior and to customize our LEGO Shop at Home communication with you, if applicable. In this respect, we may transfer tracking information about your use of our sites to external service providers, which will help us optimize your browsing experience. Optimization services will be performed under a written contract between us and any service provider.
 
-If you opt-in (or upon request), we will send you LEGO Shop at Home emails. 
+If you opt-in (or upon request), we will send you LEGO Shop at Home promotional and marketing emails. These may be targeted to you based on your purchase history or online browsing behaviour. 
 
 You may allow us to share your name, address and ordering activity with carefully selected third parties in whose products we believe you might be interested. 
 
