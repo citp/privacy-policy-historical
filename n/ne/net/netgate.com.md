@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netgate.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603091727id_/http%3A//store.netgate.com/Privacy-Statement-W23C113.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netgate.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201192512id_/http%3A//store.netgate.com/Privacy-Statement-W23C113.aspx) for the most accurate reproduction.*
 
 # Privacy Statement @ Netgate
 
@@ -7,9 +7,9 @@
 This is the web site of Rubicon Communications, LP, DBA Netgate® (hereafter referred to as Netgate).
 
 Our postal address is:   
-4348 Waialae Ave  
-Suite 551  
-Honolulu, HI 96816
+3800 Lamar Blvd  
+Suite 730-203  
+Austin, TX 78756
 
 We can be reached via:  
 e-mail: sales@netgate.com  
