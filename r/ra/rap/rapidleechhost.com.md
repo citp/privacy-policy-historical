@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidleechhost.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610133258id_/http%3A//www.rapidleechhost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidleechhost.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201183013id_/http%3A//www.rapidleechhost.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | RapidLeechHost.com - The Most Trusted and Reliable RapidLeech Host
 
@@ -51,11 +51,11 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms of Service (TOS)](https://web.archive.org/web/20110610133258id_/http%3A//www.rapidleechhost.com/tos.php) Page.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms of Service (TOS)](https://web.archive.org/web/20111201183013id_/http%3A//www.rapidleechhost.com/tos.php) Page.
 
 **Your Consent**
 
-By using our site, you consent to our [online privacy policy](https://web.archive.org/web/20110610133258id_/http%3A//www.rapidleechhost.com/privacy.php).
+By using our site, you consent to our [online privacy policy](https://web.archive.org/web/20111201183013id_/http%3A//www.rapidleechhost.com/privacy.php).
 
 **Changes to our Privacy Policy**
 
