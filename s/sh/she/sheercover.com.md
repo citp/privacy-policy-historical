@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sheercover.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523000037id_/http%3A//www.sheercover.com/privacy.php%3Fprdln%3DYB) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheercover.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201213642id_/http%3A//www.sheercover.com/privacy.php%3Fprdln%3DYB) for the most accurate reproduction.*
 
-# Sheer Cover® - Privacy Policy
+# Privacy Policy | Sheer Cover®
 
-### **Privacy Policy**
+Privacy Policy
 
-This Privacy Policy is effective as of November 5th, 2010.
+This Privacy Policy is effective as of August 23, 2011.
 
 You linked to this Privacy Policy ("Privacy Policy") via a product website owned by Guthy-Renker LLC ("Company"). The Company's network includes numerous product marketing Web sites (the "Websites"). The Privacy Policy is in effect for all Websites owned and operated by the Company. By using any of the Websites, you signify that you have read, understand and agree to be bound by this Privacy Policy.
 
@@ -22,7 +22,7 @@ All of our Websites are intended for adults. We do not knowingly collect persona
 
 The Company may use the information that you provide to fulfill your request for a product, information, or other service, or respond to an email or other request, as well as to create and deliver to you our newsletters or surveys, communications containing product information, usage tips or promotions, help improve our website(s) or services, or customize visitors' experience at our Website(s). The Company may also use your personally identifiable information to send you information about products, services and special offers. However, we want to communicate with you via email correspondence only if you want to hear from us. If for any reason you would no longer like to receive email messages from the Company, you can [click here](https://www.guthy-renker-store.com/optout/optout-comit.php?name=&email=&prdln=GR&src=privacy&cid= "click here to remove yourself") to remove yourself. Please allow up to 10 days for us to process your request.
 
-The Company may make your name, emailaddress, and/or mailing address available to carefully selected vendors, business partners and other organizations whose products or services we think may interest you. Many of our users find this a valuable and time-saving service. However, if you do not want us to share your personal information with third party organizations, you can email us at [unsubscribe@guthy-renker.com](mailto:unsubscribe@guthy-renker.com "email unsubscribe@guthy-renker.com") to remove yourself. Please allow up to 10 days for us to process your request.
+The Company may make your name, email address, mailing address, and/or telephone number available to carefully selected vendors, business partners and other organizations whose products or services we think may interest you. Many of our users find this a valuable and time-saving service. However, if you do not want us to share your personal information with third party organizations, you can email us at [unsubscribe@guthy-renker.com](mailto:unsubscribe@guthy-renker.com "email unsubscribe@guthy-renker.com") to remove yourself. Please allow up to 10 days for us to process your request.
 
 Please note, if you opt not to receive marketing emails from the Company, you may still receive "Transactional" email messages regarding your order (i.e. order confirmation, shipping information, customer service notifications, etc.) If you have questions or concerns regarding this statement, please contact us at [privacy@guthy-renker.com](mailto:privacy@guthy-renker.com "email privacy@guthy-renker.com").
 
@@ -76,5 +76,6 @@ Attn: California Privacy Rights
 
 We may revise this Privacy Policy from time to time. If we decide to change our Privacy Policy, we will post the revised policy here. As we may make changes at any time without notifying you, we suggest that you periodically consult this Privacy Policy. Your continued use of the Website after the changes are posted constitutes your agreement to the changes, both with regard to information we have previously collected from you and with regard to information we collect from you in the future. If you do not agree to the changes, please discontinue your use of our Website.
 
-  
-Offers subject to change or cancellation at any time. Guthy-Renker, LLC is not responsible for pricing or other errors.
+**Order TODAY** to become a member and receive these great benefits!
+
+[](https://web.archive.org/web/20111201213642id_/http%3A//www.sheercover.com/select_makeup_kit.php)
