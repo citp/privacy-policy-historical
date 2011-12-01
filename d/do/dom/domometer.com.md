@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domometer.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518180359id_/http%3A//www.domometer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domometer.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201010745id_/http%3A//www.domometer.com/privacy) for the most accurate reproduction.*
 
 # Domometer Privacy Policy
 
