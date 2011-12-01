@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mathgametime.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515053854id_/http%3A//www.mathgametime.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathgametime.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201231319id_/http%3A//www.mathgametime.com/privacy.html) for the most accurate reproduction.*
 
-# Math Game Time - Free Games for Kids, Parents & Teachers
+# Privacy Policy – Math Game Time
 
-MathGameTime.com Privacy Policy Effective as of April 5, 2011 At  
+MathGameTime.com Privacy Policy. Effective as of April 5, 2011. At  
 MathGameTime.com, a website operated by Fila, LLC, we are committed to  
 respecting people’s privacy online. We are also committed to providing you  
 with the very best experience we can on our website. In order to do so, we  
