@@ -1,0 +1,27 @@
+> *The following text is extracted and transformed from the surfnetcorp.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201070729id_/http%3A//www.surfnetcorp.com/Privacy-Statement.html) for the most accurate reproduction.*
+
+# Privacy Statement
+
+**Surf _Net_ Corporation Privacy Statement**
+
+**Surf _Net's_** policies and procedures for handling customer information have been created with the understanding that Internet technologies are still evolving and that Internet business methods are continuing to evolve to meet the needs and opportunities of the changing technologies.
+
+As a result, **Surf _Net's_** policies and procedures are subject to change. In the course of serving its customers, **Surf _Net_** acquires, stores and transmits customer communications and information that customers may regard as private or sensitive. Some of this information - such as the customer's name, address, telephone number, and credit card data - is provided to **Surf _Net_** by its customers in order to establish service. Other information - such as the customer's account status, choice of services, and customer logs - is created and maintained by **Surf _Net_** in the normal course of providing service.
+
+**Surf _Net_** also uses cookies, which are small pieces of information that a web site can store in a designated file on a user's computer for various reasons. For example, **Surf _Net_** uses cookies on the landing pages of products sold online which record the customer information that is required on the order form. This information is then forwarded to an internal sales tracking database within **Surf _Net_**.
+
+In addition, **Surf _Net_** may store customers' electronic mail and other communications as a necessary incident to the transmission and delivery of those communications. Data Security **Surf _Net_** will protect the confidentiality of its customers' information, account information and personal communications to the fullest extent possible and consistent with the law and the legitimate interests of **Surf _Net_** , its partners, its employees and other customers of **Surf _Net's_** services.
+
+To protect the loss, misuse, and alteration of information that is collected from customers, **Surf _Net_** has appropriate physical, electronic, and managerial procedures in place.
+
+**How is customer information used?**  
+
+**Surf _Net_** may share customer information with selected partners, for example, to provide customers with information about products which might be of interest to the customer or to enable the customer to take advantage of special partner programs.
+
+**Surf _Net_** may also use customer information to provide its customers with system information or information about new or upgraded products.
+
+Most customers may access and modify their personal information via their online personal control panel/account information page. All other customers may access and modify their personal information by contacting the appropriate **Surf _Net_** Billing organization. Domain name customers who have registered a domain name with **Surf _Net_** and wish to change the Technical Contact from **Surf _Net_** to another company, may send a request to [SurfNethostmaster@SurfNet.net](mailto:SurfNethostmaster@SurfNet.net).
+
+It is important to note that customer domain name registration information is made publicly available in the registry of domain names. Disclosure of customer information and communications **Surf _Net_** will not otherwise disclose its customers' personal and account information unless **Surf _Net_** has reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone who may be causing harm or interfering with the rights or property of **Surf _Net_** , **Surf _Net's_** customers, or others, or where **Surf _Net_** has a good faith belief that the law requires such disclosure.
+
+**Surf _Net_** also will not, except for reasons stated below, disclose to third parties the contents of any electronic mail or other electronic communications that **Surf _Net  _**stores or transmits for its customers. The circumstances under which **Surf _Net_** will disclose such electronic customer communications are when: it is necessary in order to provide service to the customer; it is necessary to protect the legitimate interests of **Surf _Net_** and its customers; it is required to cooperate with interception orders, warrants, or other legal process that **Surf _Net_** determines in its sole discretion to be valid and enforceable; and it is necessary to provide to a law enforcement agency when the contents are inadvertently obtained by **Surf _Net_** and appear to pertain to the commission of a crime. **Surf _Net_** disclaims any intention to censor, edit or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. **Surf _Net_** will, however, review, delete or block access to communications that may harm **Surf _Net_** , its customers or third parties. The grounds on which **Surf _Net_** may take such action include, but are not limited to, actual or potential violations of [SurfNet's Acceptable Use Policy](https://web.archive.org/web/20111201070729id_/http%3A//www.surfnetcorp.com/Acceptable-Use-Policy.html).
