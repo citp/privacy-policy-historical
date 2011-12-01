@@ -1,17 +1,18 @@
-> *The following text is extracted and transformed from the gothscene.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526150109id_/http%3A//www.gothscene.com/%3Fs%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gothscene.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201155040id_/http%3A//www.gothscene.com/%3Fs%3Dprivacy_policy) for the most accurate reproduction.*
 
-# .: Privacy Policy
+# .: Gothic Singles, Dating, and Personals @ GothScene.com
 
 **Privacy Policy**   
 
 
-gothscene (the "Site") is licensed to **First Beat Media Inc.**
+gothscene (the "Site") is licensed to **Dating Media LTD.**
 
 Our postal address is   
-5722 S Flamingo Road  
-Cooper City, FL 33330
+Dating Media LTD  
+Amory Building, Suite #4757, Victoria Road  
+Basseterre, SAINT KITTS AND NEVIS
 
-We can be reached via e-mail at information ( at ) firstbeatmedia dot com
+We can be reached via e-mail at legal@datingmedialtd.com
 
 This Privacy Policy Statement sets forth the policies and practices with respect to information or data gathered regarding subscriber and members of this Site. This is an online Site that expressly and strictly limits its membership to adults. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this Site. 
 
@@ -71,5 +72,5 @@ _**Terms and Conditions of Membership.**_
 
 > Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those terms and conditions may also affect the right of this Site to use information that it has gathered from subscribers.
 > 
-> In the event of any conflicts between the [Membership Terms the Conditions](http://www.gothscene.com/?s=tos) and this Privacy Policy Statement, the provisions of this Privacy Policy shall control.  
+> In the event of any conflicts between the [Membership Terms the Conditions](http://www.gothscene.com/?s=termsofservice) and this Privacy Policy Statement, the provisions of this Privacy Policy shall control.  
 > 
