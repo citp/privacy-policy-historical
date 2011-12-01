@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nonags.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424121137id_/http%3A//www.nonags.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonags.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201193235id_/http%3A//www.nonags.com/privacy.htm) for the most accurate reproduction.*
 
 # NONAGS.COM. Privacy Policy
 
