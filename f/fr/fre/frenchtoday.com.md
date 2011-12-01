@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frenchtoday.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425193230id_/http%3A//www.frenchtoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frenchtoday.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202001205id_/http%3A//www.frenchtoday.com/privacy-policy) for the most accurate reproduction.*
 
 # French Today Privacy Policy | French Today
 
@@ -45,8 +45,8 @@ French Today is committed to protecting the safety of children online. In compli
 Our system is set up to allow each user to make corrections to his or her contact information. If your contact information has changed, please make corrections by going to the link marked your account at the top of each page in the web store (www.frenchtoday.com/store). If you have any problems with this, or would like to be removed from our list, please contact us at [camille@frenchtoday.com](mailto:camille@frenchtoday.com) or by calling (+33) 09 72 14 76 68, or by sending a letter to our mailing address:
 
 French Today  
-16 Hameau de Kermengant  
-22220 Trédarzec  
+2bis Route des Islandais  
+22470 Plouezec  
 France
     
     
