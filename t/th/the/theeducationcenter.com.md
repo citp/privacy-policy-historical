@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theeducationcenter.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601212827id_/http%3A//www.theeducationcenter.com/tec/af/tec/core/nav/page.do%3FNAME%3DPrivacy_Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theeducationcenter.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201010426id_/http%3A//www.theeducationcenter.com/tec/af/tec/core/nav/page.do%3FNAME%3DPrivacy_Statement) for the most accurate reproduction.*
 
-# The Mailbox.com | Customer Service | Terms and Conditions
+# Privacy Statement - The Mailbox.com, The #1 Magazine for Teachers
 
 The Education Center is committed to honoring your privacy and improving your online experience. When you register for our site, you provide us with information, such as your name, email address, and interests. We ask for this in connection with registrations, promotions, and purchases so that we can tell you about upcoming features and products that you might be interested in.
 
