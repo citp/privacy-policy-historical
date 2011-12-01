@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the richcasino.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223110425id_/http%3A//richcasino.com/securityandprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richcasino.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201144328id_/http%3A//www.richcasino.com/securityandprivacy) for the most accurate reproduction.*
 
-# Security & Privacy
+# Rich Casino is a brand new Casino Running on the new TOP GAME Software Platform
 
-  
-Rich Casino puts the fun back into online gaming, by making sure you feel safe and secure when playing. 
+[Home](https://web.archive.org/ "Casino") » Security & Privacy 
 
-We are committed to operate in a legal and regulated environment. Furthermore, we take every security precaution; we have installed sophisticated technology to ensure that only players who are eligible are served. We deploy the most sophisticated technology available today including encryption and firewall technology to protect your security, your privacy and to ensure that you experience fair play. By using industrial grade encryption technology (1024 bit RSA key exchange and 448 bit Blowfish), we provide protection for your data far in excess of the more common commercial grade SSL protection. This same technology is being utilized by major financial institutions worldwide. 
+Rich Casino puts the fun back into online gaming, by making sure you feel safe and secure while playing. 
+
+We are committed to operate in a legal and regulated environment. Furthermore, we take every security precaution; we have installed sophisticated technology to ensure that only players who are eligible are served. We deploy the most sophisticated technology available today including encryption and firewall technology to protect your security, your privacy and to ensure that you experience nothing but fair play. By using industrial grade encryption technology (1024 bit RSA key exchange and 448 bit Blowfish), we provide protection for your data at the highest level, much more than it would be possible with the more common commercial grade SSL protection. This same technology is being utilized by major financial institutions worldwide. 
 
 All banking transactions are settled by international financial institutions with high standards of confidentiality and secure networks. Access to account information is also restricted by a player's unique sign in ID and password. 
 
@@ -31,9 +32,6 @@ We collect e-mail addresses of those who communicate with us via e-mail. If you 
 
 **Winnings:** Your winnings and cash-outs are kept strictly confidential and private. Winnings information is stored in a secure operating environment. Rich Casino keeps your winnings information private and does not provide this information to any third party unless acting under a good faith belief that such information is required to be disclosed under law, regulation or any governmental or competent regulatory authority. 
 
-**Security:** We maintain the utmost available means to ensure that your information remains safe with us. All information is transferred using encryption technologies and once stored on our servers, it is maintained safe using the latest Firewall technologies available today. Both our website and software use all available means to maintain data accuracy and privacy and to protect your data from being misused and/or lost. 
+**Security** We maintain the utmost available means to ensure that your information remains safe with us. All information is transferred using encryption technologies and once stored on our servers, it is maintained safe using the latest Firewall technologies available today. Both our website and software use all available means to maintain data accuracy and privacy and to protect your data from being misused and/or lost. 
 
 If you have any other questions or concerns regarding data privacy and security, please do not hesitate to contact our Customer Support center at any time, 24 hours a day, 7 days a week. Our Customer Service representatives will be more than happy to assist you. 
-
-  
-
