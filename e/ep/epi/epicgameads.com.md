@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epicgameads.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624230822id_/http%3A//www.epicgameads.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicgameads.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201102742id_/http%3A//www.epicgameads.com/privacy.html) for the most accurate reproduction.*
 
 # Epic Game Ads
 
@@ -6,7 +6,7 @@ EGA PUBLISHING PRIVACY POLICY
 
 This Privacy Policy is effective as of March 1, 2011.
 
-At Epic Game Ads ("EGA"), we represent online publishers and their properties ("Publisher Properties") to advertisers and support other properties sponsored by advertiser clients ("Client-Sponsored Properties"). Because we understand the importance of your privacy, we take safeguarding your personal information very seriously. We are providing the following Privacy Policy to inform you of our policies and procedures regarding the collection, use, and disclosure of the personally identifiable information collected from you during your use of any EGA website whether from (i) a Client-Sponsored Property or other website on federatedmedia.net (the "EGA Domain") (such as the Epic Game Ads home page at (http://federatedmedia.net/)) or (ii) a Client-Sponsored Property on a different domain (each a "Site" together our "Sites"). You'll know you're on one of our Sites because a version of this Privacy Policy will be posted.
+At Epic Game Ads ("EGA"), we represent online publishers and their properties ("Publisher Properties") to advertisers and support other properties sponsored by advertiser clients ("Client-Sponsored Properties"). Because we understand the importance of your privacy, we take safeguarding your personal information very seriously. We are providing the following Privacy Policy to inform you of our policies and procedures regarding the collection, use, and disclosure of the personally identifiable information collected from you during your use of any EGA website whether from (i) a Client-Sponsored Property or other website on epicgameads.com (the "EGA Domain") (such as the Epic Game Ads home page at (http://www.epicgameads.com/)) or (ii) a Client-Sponsored Property on a different domain (each a "Site" together our "Sites"). You'll know you're on one of our Sites because a version of this Privacy Policy will be posted.
 
 This Privacy Policy may be updated from time to time for any reason. We will notify you of any material changes by posting the new policy on each Site and highlighting the changes. We suggest that you consult an EGA Site regularly to check for any changes to this Privacy Policy. If you have any questions about this Privacy Policy or our privacy practices, please contact us at support@epicgameads.com
 
@@ -72,4 +72,4 @@ Each EGA Site may contain links to other websites, in several places. You should
 
 Our Policy Toward Children
 
-None of our Sites are directed toward persons under eighteen years of age. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at support@epicagameads.com . If we become aware that a child under thirteen has provided us with personally identifiable information, we will remove such information from our files.
+None of our Sites are directed toward persons under eighteen years of age. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at support@epicgameads.com . If we become aware that a child under thirteen has provided us with personally identifiable information, we will remove such information from our files.
