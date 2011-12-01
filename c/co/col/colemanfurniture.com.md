@@ -1,9 +1,16 @@
-> *The following text is extracted and transformed from the colemanfurniture.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218044820id_/http%3A//www.colemanfurniture.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colemanfurniture.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201110345id_/http%3A//www.colemanfurniture.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Coleman Furniture.com
 
-is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Coleman Furniture Web site and governs data collection and usage. By using the Coleman Furniture website, you consent to the data practices described in this statement.
+**Privacy Statement**
 
+Coleman Furniture is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Coleman Furniture Web site and governs data collection and usage. By using the Coleman Furniture website, you consent to the data practices described in this statement.
+
+This document outlines the types of personal information we receive and collect when you use Coleman Furniture (www.colemanfurniture.com). This document also outlines some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
+
+Coleman Furniture strives to maintain the highest standards of decency, fairness and integrity in all our operations. Likewise, we are dedicated to protecting our customers', consumers' and online visitors' privacy on our website.
+
+  
 Collection of your Personal Information
 
 Coleman Furniture collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Coleman Furniture also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
@@ -38,9 +45,30 @@ Security of your Personal Information
 
 Coleman Furniture secures your personal information from unauthorized access, use or disclosure. Coleman Furniture secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
+Children's Online Privacy Protection Act
+
+This website is directed to adults; it is not directed to children under the age of 13. We operate our site in compliance with the Children's Online Privacy Protection Act, and will not knowingly collect or use personal information from anyone under 13 years of age.
+
+Non-Personal Information
+
+In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes.
+
+Release of Information
+
+If Coleman Furniture is sold, the information we have obtained from you through your voluntary participation in our site may transfer to the new owner as a part of the sale in order that the service being provided to you may continue. In that event, you will receive notice through our website of that change in control and practices, and we will make reasonable efforts to ensure that the purchaser honors any opt-out requests you might make of us.
+
+  
 Changes to this Statement
 
 Coleman Furniture will occasionally update this Statement of Privacy to reflect company and customer feedback. Coleman Furniture encourages you to periodically review this Statement to be informed of how Coleman Furniture is protecting your information.
+
+ If there is a material change in our privacy practices, we will indicate on our site that our privacy practices have changed and provide a link to the new privacy policy. We encourage you to periodically review this policy so that you will know what information we collect and how we use it.
+
+Agreeing to Terms
+
+If you do not agree to Coleman Furniture's Privacy Policy as posted here on this website, please do not use this site or any services offered by this site.
+
+Your use of this site indicates acceptance of this privacy policy.
 
 Contact Information
 
