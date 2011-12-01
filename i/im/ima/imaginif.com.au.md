@@ -1,40 +1,37 @@
-> *The following text is extracted and transformed from the imaginif.com.au privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912161352id_/http%3A//www.imaginif.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imaginif.com.au privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201190419id_/http%3A//www.imaginif.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | Imaginif Child Protection became Serious Business
+# Privacy Policy | Imagine if
 
-**This site has security measures in place to protect the loss, misuse and alteration of the information under our control.** Every purchase you make at imaginif.com.au is absolutely safe. imaginif.com.au uses Secure Sockets Layer (SSL), the industry standard for secure commerce transactions to transmit your credit card information over the Internet. This means your credit card number is scrambled during the transaction process, so that the information cannot be read as it travels over the Internet.
+[](http://del.icio.us/post?url=http://www.imaginif.com.au/privacy-policy/&title=Privacy%20Policy) [](http://www.digg.com/submit?phase=2&url=http://www.imaginif.com.au/privacy-policy/&title=Privacy%20Policy) [](http://www.reddit.com/submit?url=http://www.imaginif.com.au/privacy-policy/&title=Privacy%20Policy) [](http://www.stumbleupon.com/submit?url=http://www.imaginif.com.au/privacy-policy/&title=Privacy%20Policy) [](http://www.squidoo.com/lensmaster/bookmark?http://www.imaginif.com.au/privacy-policy/) [](http://myweb2.search.yahoo.com/myresults/bookmarklet?t=Privacy%20Policy&u=http://www.imaginif.com.au/privacy-policy/) [](http://www.google.com/bookmarks/mark?op=edit&bkmk=http://www.imaginif.com.au/privacy-policy/&title=Privacy%20Policy) [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http://www.imaginif.com.au/privacy-policy/&Title=Privacy%20Policy) [](http://www.technorati.com/faves?add=http://www.imaginif.com.au/privacy-policy/) [](http://www.furl.net/storeIt.jsp?t=Privacy%20Policy&u=http://www.imaginif.com.au/privacy-policy/) [](http://cgi.fark.com/cgi/fark/edit.pl?new_url=http://www.imaginif.com.au/privacy-policy/&new_comment=Privacy%20Policy) [](http://www.sphinn.com/submit.php?url=http://www.imaginif.com.au/privacy-policy/&title=Privacy%20Policy)
 
-**ip addresses**  
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information in the interest of improving our site and service.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@imaginif.com.au
 
-**Cookies**  
-A cookie is a unique identifier collected by the site to verify a return visitor’s identity, or to understand how visitors navigate the site. The use of cookies is standard on the Internet and many major web sites use them. Most web browsers automatically accept cookies; however, you can usually change your browser to prevent or notify you whenever you are sent a cookie. This gives you the chance to decide whether or not to accept the cookie.
+At http://www.imaginif.com.au/, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.imaginif.com.au/ and how it is used.
 
-A “cookie” does not tell us who you are, your email address, or any other personal information. We use the information it provides to help us improve the site and our service, and to provide our visitors with a better experience, while on the site.  
-Even without accepting a cookie you can still access most of the features on the site. There will, however, be limitations on your use of some site functions. For example, if you choose to disable cookies you will not be able to view your orders on-line, store or update your user profile, or take advantage of promotional discounts.
+**Log Files**
 
-Some of our business partners who provide services associated with our site, like banner advertising or email promotions, may use cookies. Since these partners set and read cookies using their own servers, we have no access to, or control over them. However, cookies do not permit access to confidential personal information about site visitors; rather they are used to keep track of traffic to the site.
+Like many other Web sites, http://www.imaginif.com.au/ makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Registration forms  
-**Our site’s registration form requires users to give us contact information (like their name and e-mail address), financial information (like their account or credit card numbers), and demographic information (like their postcode and state). We use customer contact information from the registration form to send the user information about our company. The customer’s contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future e-mails; see the choice/opt-out section below. Demographic and profile data may also be collected at our site. We use this data to help us improve this website and our service.
+**Cookies and Web Beacons**
 
-**Business partners  
-**This site may contain links to other sites. Imaginif is not responsible for the privacy practices or the content of such Web sites.  
-Information collected on this web site –such as sales data or general demographic information– is available to certain business partners of Imaginif. Each such business partner enters into a confidentiality agreement with Imaginif. This insures that data we collect from our customers will not be sold, rented, or otherwise distributed to parties unknown to Imaginif; nor used for purposes other then those expressly sanctioned by Imaginif. We never share specific information such as name, address, or email address at any time.
+http://www.imaginif.com.au/ does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-**Order forms  
-**Our site uses an order form for customers to request information, products, and services. We collect visitors’ contact information (like their e-mail address), financial information (like their account or credit card numbers), and demographic information (like their postcode and state). Contact information from the order form is used to send orders, and information about our company. The customer’s contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future e-mails. See the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Unique identifiers are collected from Web site visitors to verify the user’s identity and for use as account numbers in our record system. Demographic and profile data is also collected at our site. We use this data to help us improve this website and our service.
+**DoubleClick DART Cookie**
 
-**ONLINE SURVEYS & CONTESTS  
-**From time to time, we may conduct online surveys to help us better understand and serve the needs of our customers. Our online surveys may ask visitors for contact information (like their e-mail address), financial information (like their account or credit card numbers), and demographic information (like their postcode, age, or income level). We may use contact data from our surveys to send the user information about our company. The customer’s contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future e-mails. See the choice/opt-out section below. Unique identifiers are collected from Web site visitors to verify the user’s identity. We use this data to help us improve this website and our service.
+.:: Google, as a third party vendor, uses cookies to serve ads on http://www.imaginif.com.au/
 
-From time to time, we may run contests on our site in which we ask visitors for contact information (like their e-mail address), and demographic information (like their postcode, age, or income level). The customer’s contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future e-mails; see the choice/opt-out section below. Unique identifiers are collected from Web site visitors to verify the user’s identity. We use this data to help us improve this website and our service.
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to http://www.imaginif.com.au/ and other sites on the Internet.
 
-**Choice / opt out  
-**Our site provides users the opportunity to choose how information you provide to us can be used by Imaginif. If you are getting promotional email from us and would like to be taken off our list, simply click the link at the bottom of any email to unsubscribe. If you would to be taken off our direct mail list, please call Customer Service at 07 4032 5034. Please be reassured that we never sell, share, or otherwise give out any mail or email addresses to other vendors.  
-You can also send us an e-mail meganatimaginif.com.au You can send paper mail to the following postal address:
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-Imaginif  
-PO Box 995,  
-Edge Hill  
-QLD, Australia, 4870
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….
+
+**Google Adsense**
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on http://www.imaginif.com.au/ send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+http://www.imaginif.com.au has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.imaginif.com.au/’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
