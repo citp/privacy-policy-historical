@@ -1,56 +1,100 @@
-> *The following text is extracted and transformed from the twinings.co.uk privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121150918id_/http%3A//www.twinings.co.uk/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinings.co.uk privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201161012id_/http%3A//twinings.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Twinings - Privacy Policy
 
-**User information and Cookies  
-** In general this site service automatically gathers certain usage information such as the number and frequency of visitors to Twinings.co.uk and its areas, very much like the television ratings that tell the networks how many people tune into the programmes. We only use such data in the aggregate. The collected data helps us to determine how much our customers use parts of the site so that we can improve our site to assure that it is as appealing as we can make it for as many of you as possible. For example, Twinings.co.uk uses technology nick-named Cookies that tells us how and when the pages on our site are visited and by how many people. Twinings cookies do not collect personal identifiable information and we do not combine information collected through cookies with other personal identifiable information to tell us who you are or even what your screen name or email is. 
+This www.twinings.co.uk website (the "Website") is owned and operated by R. Twining and Company ("Twinings" or "we" or "us")
 
-Sometimes we may specifically ask for information about you when you sign up to use a service like blend of the month or when you order a product. We will need certain information such as name, Internet address or screen name, billing address, type of computer, credit card number, in order to provide the service or product to you. We may also use that information to let you know of additional products and services about which you may be interested. 
+Twinings are committed to protecting and respecting your privacy and complying with applicable laws for the protection of personal data. This policy sets out (1) the type of information we collect from you when you visit the Website; and (2) the way we treat any information we collect from you, or that you provide to us through the Website. 
 
-You can choose not to receive such information if you don't want to by letting us know on the registration screen when you sign up for the product or service. We may ask you for information about your interests so that both you and we can take advantage of the interactivity of the on-line medium but it is for you to decide whether to respond or not. We do not use nor disclose information about your individual visits to Twinings.co.uk or information that you may give us such as your name and address, email address or telephone number to any outside companies. 
+For the purpose of the UK Data Protection Act 1998 (and equivalent legislation in other EC Member states) the Data Controller Twinings, a company registered in England and Wales (Company No. Twinings) whose registered office is at Weston Centre, 10 Grosvenor Street, London, W1K 4QY] .
 
-We do not presently sell nor rent our list of customers to anyone. If you would like to make sure we never sell or rent information about you to third parties, or if you want to ensure that the data we hold about you is accurate and up-to-date, just send an email stating your requirements to [ukwebdata@twinings.com](mailto:ukwebdata@twinings.com). 
+[This Privacy Policy forms part of the Website Terms & Conditions and by submitting your personal information to the Website, you are confirming that you have read and understood this Privacy Policy and are agreeing to the uses of your personal information described in it.]
 
-If we decide to change our privacy policy for Twinings.co.uk, we shall post those changes here so that you will always know how we deal with any personal information that we gather, how we might use that information and whether we will disclose it to anyone. 
+Before you start
 
-**Details of the use of Cookies on our site**   
-A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are. 
+Parts of our Website may contain links to third party websites for your convenience and information.  When you access a third party website through such link please understand that we do not control the content and are not responsible for the privacy practices of that site even where they may contain Twinings or associated company logos.  We suggest that you carefully review the privacy policies of those websites linked from our site.  These sites may send their own cookies to users, collect data or solicit personal information.
 
-A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number. 
+Information collected through our Website
 
-Two types of cookies are used on this website : 
+When you visit our Website, we may collect information on two different levels about your visit: (1) Statistical Information, collected as you browse the site, and (2) personal information which you knowingly give to us.
 
-**Session Cookies**   
-which are temporary cookies that remain in the cookie file of your browser until you leave the site, 
+(1) Statistical Information
 
-**Persistent cookies**   
-which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie). 
+In general this Website automatically gathers certain usage information such as the number and frequency of visitors to our Website, very much like the television ratings that tell the networks how many people tune into the programmes. We may also invite you to interact with our Website by answering questions and selecting preferences as you move around the Website. We only use this data in an aggregated and non-personally identifiable way. The collected data helps us to determine our visitor's preferences, and to improve our Website so it is as appealing as we can make it for as many of you as possible.
 
-Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies. Cookies cannot be used by themselves to identify you. 
+Like many companies, we use "cookie" technology on our Website. These cookies are small text-only strings that store information in the memory of your browser. There are several reasons we may use cookies:
 
-Find out more about [cookies](http://www.allaboutcookies.org/cookies/). 
+Persistent Cookies. These cookies contain only a unique number, so when you log in they can tell us whether you've visited us before or if you are a new visitor. These cookies do not obtain any personal information about you or provide us with any way to contact you, and they do not extract any information from your computer. We do use cookies to help us identify site features in which you have the greatest interest, so that we can provide more of what you may want.
 
-How we use Cookies on our Site and what Information we collect 
+Session Cookies. These cookies are used to store information about your current visit to our site, such as if you have logged in successfully or if you have entered information into an electronic form. We use these cookies to personalise information and to help with on-line services. They can also provide us with a quick and convenient means of keeping site content fresh and relevant to your interests. Our server uses cookies to help with back-end interaction as well, which improves the utility of our site by being able to securely store any personal data that you have shared with us. These cookies are deleted the moment you close your browser window.
 
-**Session Cookies**   
-To allow you to carry information about the country section and text size you have chosen across pages of our site and avoid you having to re-enter the information. 
+Most browsers automatically accept cookies, but you can usually refuse cookies, or selectively accept certain cookies, by adjusting the preferences in your browser. If you turn off cookies, there may be some features of our site that will not be available to you and some Web pages may not display properly.
 
-**Third Party Cookies**   
-Third parties (mTracking Ltd.) serve cookies via this site. These are used for the following purposes: 
+We do not combine information collected through cookies with any personal information you tell us about yourself.
 
-  *   
-To count the number of anonymous users of our site. 
-  *   
-To compile anonymous, aggregated statistics that allow us to understand how people use our site and to help us to improve the structure of our website. We cannot identify you personally in this way.
+(2) Personal Information
 
+(a) How we collect your personal information
 
+The only personal information we collect from you is information you choose to provide us about yourself.  
+Some services and facilities on our Website we will require you to provide us with a certain minimum amount of personal information such as your name, postal address and email address in order that we can provide those services to you or to fulfill our obligations to you ("Required Information").  Typical examples where this arises include entering one of our competitions, prize draws or promotions, requesting a sample of our product or registering as a user on our Website.   
+We may also ask you to provide additional information about yourself to assist in us contacting you or providing our services ("Voluntary Information"). We will make it clear what information is Required Information and what is Voluntary Information.
 
- **Use of Web Beacons  
-** Some of our Web pages may contain electronic images known as Web beacons (sometimes known as clear gifs) that are placed by third parties allow us to count users who have visited these pages. Web beacons collect only limited information which including a cookie number, time and date of a page view, and a description of the page on which the Web beacon resides. 
+(b) How we use your personal information
 
-Find out more about [Web Beacons](http://www.allaboutcookies.org/web-beacons/). 
+We will use your personal information for the purpose it has been collected or any other purpose specified at the point of collection.  For example, we will retain and use your personal information for the purpose of administrating and notifying you of the results of any competitions or prize draws you have entered.
 
-**Disabling/Enabling Cookies  
-** You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of our site if cookies are disabled. 
+(c) Direct Marketing 
 
-Find out how to [disable/enable cookies.](http://www.allaboutcookies.org/manage-cookies/)
+If you have agreed to receive direct marketing from Twinings we may from time to time contact you via phone, post, email or SMS text message in order to send you news and offers and to help formulate our marketing and business strategy for example, to ask your views on how we can improve our products and services, and for the purpose of analysing and researching our business, customers and products.
+
+(d) Opting Out and Updating your personal information
+
+Any time after you register your personal information with us you may (i) opt out of receiving any communications you have chosen to receive from us; and (ii) update your personal information by notifying us of changes to the information previously given to us.  
+All requests or notifications should be sent to R. Twining and Company, South Way, Andover, Hampshire, SP10 5AQ.
+
+(e) Sharing your personal information
+
+We will sometimes need to share your personal information with third parties who we contract to help us deliver services to you and to run and administer the Website and activities run through the Website such as competitions.  The information shared with them will be limited to that necessary for them to perform the service.  They will not be authorised to make any other use of that information and will treat it confidentially.
+
+Except as described in the previous paragraph, we do not share your personal information with any third party which is not a subsidiary or parent company of Twinings other than: (i) where it is required by law; (ii) if you specifically authorised us to do so; or (iii) in the event that substantially all of the assets of Twinings are acquired by a third party in which case personal data held by it about its customers in its databases will be one of the transferred assets.
+
+Age restrictions
+
+In some instances, it may not be possible to register for our services or products if you are under a certain age determined by the laws of the country where you are resident.   In such cases we may ask you your age for the purpose of establishing your eligibility.
+
+We do not intend to collect Personal Information relating to children through our website. Any person under the age of 16 who registers on our Website will be asked to provide a parent or guardian's e mail address where confirmation will be requested before any communication is made.
+
+Transferring your information to other countries
+
+If you are resident within the European Economic Area ("EEA") your Personal Information that we collect from you may be transferred to, and administered at, a destination outside the EEA which may have different levels of data protection law to the country from where you have submitted your personal information.  By submitting your personal information, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your Personal Information is treated securely and in accordance with this privacy policy.
+
+OR
+
+Overseas data transfers
+
+If we transfer personal information to countries, or administer our services through countries whose data protection laws are not as extensive as those in the EEA, we will keep control of the information or require anyone we pass it to to treat it to appropriate standards.
+
+We will ensure that personal information transferred outside the EEA is adequately protected.
+
+Security
+
+We take appropriate technical and organisational measures to prevent accidental or unlawful destruction or unauthorised disclosure, access or alteration to your personal information under our control. 
+
+We will only store your data for as long as reasonably necessary in the circumstance, after which your personal information will be deleted from our systems.
+
+However, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal information, we cannot guarantee the security of your information transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures to try to prevent unauthorised access.
+
+Accessing your personal information
+
+Subject to some exceptions, you have a right upon written request and payment of a fee of £10, to have a copy of any of your personal information we hold.  
+
+Changes to the privacy policy
+
+Any changes that we make to this privacy policy will be posted on this page.  Please regularly check the privacy policy for changes.  Any changes that we do make to this privacy policy will apply to information provided through the Website following the revised privacy policy being posted.  Regardless of any changes we make to our privacy policy, we will continue to use your personal information collected before the change in accordance with the version of the policy in place at the time you provided your information, unless you give your express consent for us to do otherwise.
+
+Contact
+
+If you have any questions about this privacy policy or your privacy, you can contact us at R. Twining and Company, South Way, Andover, Hampshire, SP10 5AQ.
+
+## YOU MIGHT ALSO WANT TO...
