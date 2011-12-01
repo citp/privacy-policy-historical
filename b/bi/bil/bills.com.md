@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bills.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622035100id_/http%3A//www.bills.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bills.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201034149id_/http%3A//www.bills.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
+
+## Privacy Policy
 
 **_Bills.com Privacy Policy_**  
 Last updated: April 15, 2011.
@@ -17,7 +19,7 @@ Bills.com
 San Mateo, CA 94402
 
 **What Does This Privacy Policy Cover?**  
-This privacy policy covers several websites Bills.com owns and operates, including [www.bills.com](), [www.home-account.com](http://www.home-account.com/), www.lendage.com and www.theeasyloansite.com.  We may, from time to time, add additional websites and/or domains to our portfolio.  Whether or not any particular site is specifically identified in this Privacy Policy, this Privacy Policy applies to any website owned and/or operated by Bills.com. The TRUSTe privacy program covers the sites [www.bills.com](), [www.home-account.com](http://www.home-account.com/), www.lendage.com and www.theeasyloansite.com.   
+This privacy policy covers several websites Bills.com owns and operates, including [www.bills.com](https://web.archive.org/), [www.home-account.com](http://www.home-account.com/), www.lendage.com and www.theeasyloansite.com.  We may, from time to time, add additional websites and/or domains to our portfolio.  Whether or not any particular site is specifically identified in this Privacy Policy, this Privacy Policy applies to any website owned and/or operated by Bills.com. The TRUSTe privacy program covers the sites [www.bills.com](https://web.archive.org/), [www.home-account.com](http://www.home-account.com/), www.lendage.com and www.theeasyloansite.com.   
 This Privacy Policy covers what we do with any personal information you may submit or authorize us to obtain, as well as any other information that we may gather when you access any of our websites.  This Privacy Policy also covers any of your personal and other information that any of our business partners may share with us.  
 Please note that our policies and procedures apply only to websites owned and/or operated by us and not to websites maintained by other companies or to any website to which we may link or to unrelated businesses with which we may share information.
 
