@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the codeplex.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207040623id_/http%3A//www.codeplex.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeplex.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201231006id_/http%3A//www.codeplex.com/site/legal/privacy) for the most accurate reproduction.*
 
-# CodePlex
+# CodePlex - Privacy Statement
 
 ###  Last updated: March 2009
 
@@ -50,5 +50,3 @@ Information Collected, Processed, or Transmitted: Your User Name, the date you j
 Use of Information: Other users may view your profile to learn more about your activities on CodePlex. They may also use your Profile page to contact you if your Profile contact preference is set to enable other users to contact you. 
 
 Choice/Control: You may choose to Opt-Out of allowing other users to contact you by updating the contact preference in your CodePlex Profile. 
-
-Updating...
