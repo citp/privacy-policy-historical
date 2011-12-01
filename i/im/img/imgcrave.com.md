@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imgcrave.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513080604id_/http%3A//imgcrave.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgcrave.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201105148id_/http%3A//imgcrave.com/privacy) for the most accurate reproduction.*
 
-# IMGCrave | Upload. Share. Crave.
+# Privacy Policy - IMGCrave.com | Free Image Hosting | Upload and Share Your Photos for Free!
 
 **What information do we collect?**
 
