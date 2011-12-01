@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eeoc.gov privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423011939id_/http%3A//www1.eeoc.gov/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eeoc.gov privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201025342id_/http%3A//www.eeoc.gov/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
