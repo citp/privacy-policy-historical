@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evil-inc.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601234926id_/http%3A//www.evil-inc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evil-inc.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201091655id_/http%3A//www.evil-inc.com/privacy.html) for the most accurate reproduction.*
 
 # Evil Inc. by Brad Guigar - A Daily Webcomic
 
