@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vook.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618114617id_/http%3A//vook.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vook.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201234851id_/http%3A//vook.com/index.php%3Fdispatch%3Dpages.view%26page_id%3D10) for the most accurate reproduction.*
 
 # Privacy Policy - Vook
 
