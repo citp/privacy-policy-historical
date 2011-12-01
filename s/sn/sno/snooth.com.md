@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the snooth.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610214911id_/http%3A//www.snooth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snooth.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201191239id_/http%3A//www.snooth.com/privacy) for the most accurate reproduction.*
 
 # Snooth | Privacy
 
-Last Updated: February 8, 2010
+Last Updated: September 15, 2011
 
 ## Information Collection
 
@@ -23,6 +23,8 @@ Snooth uses cookies to help manage online advertising. These may be served by us
 With both cookies and Doubleclick's Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. The advertiser or Doubleclick may also aggregate this anonymous information with other anonymously gathered information for statistical purposes.
 
 For more information about DoubleClick, including information about how to opt out of these technologies, go to <http://www.doubleclick.net/us/corporate/privacy>.
+
+If the ownership of all or substantially all of the Snooth site, or individual business units owned by Snooth Inc., were to change, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to the promises made in any pre-existing Privacy Policy.
 
 ## Changes to Privacy Policy
 
