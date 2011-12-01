@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nethouseprices.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603061505id_/http%3A//www.nethouseprices.com/index.php%3Fcon%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nethouseprices.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202000305id_/http%3A//www.nethouseprices.com/index.php%3Fcon%3Dprivacy) for the most accurate reproduction.*
 
 # Nethouseprices.com - Privacy
 
