@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebook30.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523105432id_/http%3A//ebook30.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebook30.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201012306id_/http%3A//ebook30.com/privacy) for the most accurate reproduction.*
 
-# pdf rar zip ebooks mediafire ifile
+# pdf epub ebook download rapidshare megaupload
 
 By using our Web site, you consent to the collection and use of this information by _**ebook30.com**_. If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Currently, _**ebook30.com**_ may provide aggregate statistics about our traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information. 
 
