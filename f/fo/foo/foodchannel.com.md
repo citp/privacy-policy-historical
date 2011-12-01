@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foodchannel.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603020542id_/http%3A//www.foodchannel.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodchannel.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201164045id_/http%3A//www.foodchannel.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy on The Food Channel®
+# Privacy Policy
 
 This Privacy Policy governs the manner in which Food Channel LLC, a Missouri company (“Food Channel”) collects, uses, maintains and discloses information collected from users (each, a “User”) of its www.foodchannel.com web site and any derivative or affiliated web sites on which this Privacy Policy is posted (collectively, the “Web Site”) reserves the right, at its discretion, to change, modify, add or remove portions of this Privacy Policy at any time by posting such changes to this page. Please check this Privacy Policy periodically for changes. The continued use of the Web Site following the posting of changes to these terms constitutes an acceptance of those changes.
 
