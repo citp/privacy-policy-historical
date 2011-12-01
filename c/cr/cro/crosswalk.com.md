@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crosswalk.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623074854id_/http%3A//www.crosswalk.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crosswalk.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201215014id_/http%3A//www.crosswalk.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Jesus Christ, Bible Study Tools, Online Christian Living Resources
 
