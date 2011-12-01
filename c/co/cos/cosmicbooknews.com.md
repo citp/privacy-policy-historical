@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmicbooknews.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602232610id_/http%3A//www.cosmicbooknews.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmicbooknews.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202005329id_/http%3A//www.cosmicbooknews.com/privacypolicy) for the most accurate reproduction.*
 
 # Cosmic Book News Privacy Policy - Cosmic Book News
 
@@ -61,11 +61,11 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.cosmicbooknews.com/tac>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.cosmicbooknews.com/tos>
 
 **Your Consent**
 
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
+By using our site, you consent to our [websites privacy policy](http://www.cosmicbooknews.com/privacypolicy).
 
 **Changes to our Privacy Policy**
 
