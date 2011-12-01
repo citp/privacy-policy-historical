@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shpoonkle.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509012748id_/http%3A//www.shpoonkle.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shpoonkle.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201224241id_/http%3A//www.shpoonkle.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Shpoonkle Privacy Policy**
+**Shpoonkle **Privacy Policy****
 
 **What information do we collect?**
 
@@ -71,19 +71,23 @@ As part of the California Online Privacy Protection Act, all users of our site m
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-**Online Privacy Policy Only**
+**Online **Privacy Policy** Only**
 
-This online privacy policy applies only to information collected through our website and not to information collected offline.
+This online **privacy policy** applies only to information collected through our website and not to information collected offline.
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.shpoonkle.com/cases/role>**Your Consent**
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at 
+
+[http://www.shpoonkle.com/tac](http://www.shpoonkle.com/tac#en)
+
+[](http://www.shpoonkle.com/cases/role)**Your Consent**
 
 By using our site, you consent to our **Terms & Conditions.**
 
-**Changes to our Privacy Policy**
+**Changes to our **Privacy Policy****
 
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+If we decide to change our **privacy policy** , we will post those changes on this page, send an email notifying you of any changes, and/or update the **Privacy Policy** modification date below. 
 
 This policy was last modified on January 30, 2011
 
