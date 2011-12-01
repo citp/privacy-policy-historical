@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the mariomayhem.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428064934id_/http%3A//www.mariomayhem.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariomayhem.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201233225id_/http%3A//www.mariomayhem.com/privacy.php) for the most accurate reproduction.*
 
 # Mario Mayhem Privacy
-
-Mario Mayhem Navigation   
-[](http://www.mariomayhem.com/mario_toys.php) | 
 
 **What information do we collect?**
 
@@ -53,40 +50,3 @@ http://www.mariomayhem.com
 
 
 [Back Home](http://www.mariomayhem.com/)
-
-|  Mario Mayhem Navigation
-
-[](http://mariomayhem.com/bowsers_blog/)  
-
-
-April 17, 2011
-
-###  [ Mario Toilet](http://mariomayhem.com/bowsers_blog/?p=385 "Mario Toilet")
-
-March 25, 2011
-
-###  [ Mario Goomba Regret](http://mariomayhem.com/bowsers_blog/?p=382 "Mario Goomba Regret")
-
-[](http://www.mariomayhem.com/consoles/wii/wii_homebrew.php)
-
-  
-
-
-January 28, 2010
-
-###  [ Pokèmon Rrrrrumble!](http://mariomayhem.com/wii_world/?p=55 "Permalink to: Pokèmon Rrrrrumble!")
-
-  
-Mario Mayhem Poll
-
-  
-[Results](http://www.mariomayhem.com/results.php)
-
-[](http://www.mariomayhem.com/fun/draw_a_mario/index.php)  
-
-
-[](http://www.mariomayhem.com/fun/draw_a_mario/view.php?image=67019.png)
-
-[](http://www.facebook.com/pages/Mario-Mayhem/243489544583)   
-[](http://twitter.com/supamariomayhem)   
- 
