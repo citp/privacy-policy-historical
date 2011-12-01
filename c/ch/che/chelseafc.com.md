@@ -1,19 +1,22 @@
-> *The following text is extracted and transformed from the chelseafc.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625200549id_/http%3A//www.chelseafc.com/page/Privacy/0%2C%2C10268%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chelseafc.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201170343id_/http%3A//www.chelseafc.com/page/Privacy/0%2C%2C10268%2C00.html) for the most accurate reproduction.*
 
 # Privacy Policy | PRIVACY | Documents | Chelsea
 
   
 This Privacy Policy combines the Children's Privacy Policy ("Children's Privacy Policy") and the general Privacy Policy ("Privacy Policy") set out below (together, the "Chelsea Privacy Policy"). 
 
-The Chelsea Privacy Policy is to be read in conjunction with the Chelsea Terms and Conditions of Use ("Terms and Conditions").  All definitions used in the Terms and Conditions shall apply to the Chelsea Privacy Policy unless stated otherwise. [ _Link to Terms and Conditions to be inserted here_ ] 
+The Chelsea Privacy Policy is to be read in conjunction with the Chelsea [Terms and Conditions of Use](http://www.chelseafc.com/page/TermsAndConditions/0,,10268,00.html) ("Terms and Conditions").  All definitions used in the Terms and Conditions shall apply to the Chelsea Privacy Policy unless stated otherwise. 
 
 If for any reason you do not accept the Chelsea Privacy Policy or agree to abide by the Terms and Conditions, please stop using this website immediately.
 
-**A.   Children's Privacy Policy  (for children, and the parents/guardians of those under 18 years of age)**
+**  
+A.   Children's Privacy Policy  
+(for children, and the parents/guardians of those under 18 years of age)**
 
 We are aware that children are likely to visit our website.  Our Children's Privacy Policy shall apply only to those under the age of 18 and supplements the general Privacy Policy set out below.  Any conflicting portions of the Privacy Policy are superseded by the Children's Privacy Policy.
 
-**B. Privacy Policy**
+**  
+B. Privacy Policy**
 
 Chelsea FC plc and Chelsea Digital Media plc respect your right to privacy and takes great care to protect your information.  Chelsea FC plc and Chelsea Digital Media plc are part of the group of companies that includes Chelsea Football Club Limited and its affiliated companies (together "Chelsea Companies").  This Privacy Policy applies to all Chelsea Companies ("We/Us/Our"). 
 
@@ -81,7 +84,7 @@ For more information about cookies, including further details as to what they ar
 
 For security purposes, We may monitor or record telephone calls for security purposes and to improve the quality of services that We provide to You.
 
-In order to provide You with increased value, We may include links to third party Websites on the Chelsea Site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content or activities of these linked sites. However, We do seek to protect the integrity of Our site and welcome any [feedback](mailto:nikeid.europe@nike.com) about these linked sites (including if a specific link does not work) by email/in writing via the contact details given in paragraph 3 above.
+In order to provide You with increased value, We may include links to third party Websites on the Chelsea Site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content or activities of these linked sites. However, We do seek to protect the integrity of Our site and welcome any feedback about these linked sites (including if a specific link does not work) by email/in writing via the contact details given in paragraph 3 above.
 
 You may notify Us of any updates, amendments or corrections to previously collected Personal Information in writing/by email via the contact details given in paragraph 3 above. Please include Your name, address and/or email address when You contact Us as this helps Us to ensure that We accept amendments only from the correct person.  We encourage You to promptly update Your Personal Information if it changes.
 
@@ -95,17 +98,19 @@ Policy changes will apply only to Personal Information collected after the date 
 
 This policy was last modified on 1st June 2008.
 
-Please also visit our [Terms and Conditions](http://niketown.nike.com/niketown/info/privacy.jsp) section using the following link [www.chelseafc.com/terms](http://www.chelseafc.com/terms).  The Terms and Conditions establish the use, disclaimers, and limitations of liability governing the use of the Chelsea Site.
+Please also visit our [Terms and Conditions](http://www.chelseafc.com/page/TermsAndConditions/0,,10268,00.html) section using the following link [www.chelseafc.com/terms](http://www.chelseafc.com/terms).  The Terms and Conditions establish the use, disclaimers, and limitations of liability governing the use of the Chelsea Site.
 
 By continuing to use the Chelsea Site and any of the services offered, You are confirming that you have received the consent of your parent or a guardian to use the Chelsea Site.
 
 ## 19.1           Protection of Children's Personal Information
 
-## We encourage children to speak to their parents before submitting any Personal Information to the Chelsea Site and also recommend that parents supervise their children while they are online.  There are various control tools available for online services that We advise parents to utilise in order to create a child-friendly online environment for their children. 
+We encourage children to speak to their parents before submitting any Personal Information to the Chelsea Site and also recommend that parents supervise their children while they are online. 
 
-## We are dedicated to the protection of children's Personal Information and We do not actively market to children.   It is Our policy not to make a child's participation in a Chelsea Site activity contingent on the child disclosing any more Personal Information than is reasonably necessary in order to do so.
+There are various control tools available for online services that we advise parents to utilise in order to create a child-friendly online environment for their children.  We are dedicated to the protection of children's Personal Information and We do not actively market to children.  
 
-## 19.2           Obligations on those under 18 years old
+It is Our policy not to make a child's participation in a Chelsea Site activity contingent on the child disclosing any more Personal Information than is reasonably necessary in order to do so.
+
+**             19.2           Obligations on those under 18 years old **
 
 ## In order to protect children, those who are under the age of 18 must always ask their parent/guardian before they:
 
