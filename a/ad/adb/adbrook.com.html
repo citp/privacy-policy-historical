@@ -1,0 +1,233 @@
+<!--The following is the downloaded HTML source of the adbrook.com privacy policy that was archived on 2011-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111201232220id_/http%3A//www.adbrook.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html dir="ltr" lang="en-US"><head>
+<meta charset="UTF-8">
+<title>Privacy Policy  |   AdBrook.com</title>
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="stylesheet" type="text/css" media="all" href="http://adbrook.com/wp-content/themes/john-loan-pro/style.css">
+<link rel="pingback" href="http://adbrook.com/xmlrpc.php">
+<style type="text/css">					
+#hb {
+	background:#fff url(http://adbrook.com/wp-content/themes/john-loan-pro/images/headers/default.jpg) no-repeat;
+	width:724; 
+	height:248;
+}
+</style>
+<style type="text/css">
+#site-title, #site-description, #site-title a{
+	color:#fff;
+}
+</style>
+					
+<link rel="alternate" type="application/rss+xml" title="AdBrook.com » Feed" href="http://adbrook.com/feed">
+<link rel="alternate" type="application/rss+xml" title="AdBrook.com » Comments Feed" href="http://adbrook.com/comments/feed">
+<link rel="alternate" type="application/rss+xml" title="AdBrook.com » Privacy Policy Comments Feed" href="http://adbrook.com/privacy-policy/feed">
+<link rel="stylesheet" id="frm-forms-css" href="http://adbrook.com/wp-content/plugins/formidable/css/frm_display.css?ver=1.05.05" type="text/css" media="all">
+<script type="text/javascript" src="http://adbrook.com/wp-includes/js/l10n.js?ver=20101110"></script>
+<script type="text/javascript" src="http://adbrook.com/wp-includes/js/jquery/jquery.js?ver=1.6.1"></script>
+<script type="text/javascript" src="http://adbrook.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://adbrook.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://adbrook.com/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="AdBrook.com" href="http://adbrook.com">
+<link rel="prev" title="Testimonial Disclaimer" href="http://adbrook.com/testimonial_disclaimer">
+<link rel="next" title="Language" href="http://adbrook.com/language">
+<meta name="generator" content="WordPress 3.2.1">
+<link rel="canonical" href="http://adbrook.com/privacy-policy">
+<script type="text/javascript" src="http://adbrook.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
+		<script type="text/javascript">
+			function quick_contact_send() { //Send Message Ajax Call
+				//Deactivate submit button 
+				var submit_button = document.getElementById('quick_contact_submit');
+				submit_button.disabled = true;
+				//Get Input Fields (Clear them if they are the autofill message)
+				var name = document.getElementById('quick_contact_name').value;
+				if(name == "Please enter your name...")
+					name = "";
+				var email = document.getElementById('quick_contact_email').value;
+				if(email == "So that we can reply to you...")
+					email = "";
+				var phone = document.getElementById('quick_contact_phone').value;
+				if(phone == "So that we can reply to you...")
+					phone = "";
+				var message = document.getElementById('quick_contact_message').value;
+				if(message == "Questions? Comments? Enter them here (no HTML please)...")
+					message = "";
+				var captcha = document.getElementById('quick_contact_captcha_text').value;
+				if(captcha == "Type text at left...")
+					captcha = "";
+				//Ensure that there is at least a name and an email or phone
+				var error_default = "Please fill out the following before submitting:\n";
+				var error = error_default;
+				if(name == "" || name == null)
+					error += "  - Please enter your name.\n";
+				if((email == "" || email == null) && (phone == "" || phone == null)) 
+					if(error != "") error += "  - Please enter either a phone number or email for us to contact you.\n";
+				if(captcha == "" || captcha == null)
+					error += "  - Please enter the text from the image.\n";
+				if(error != error_default) {
+					submit_button.disabled = false;
+					alert(error);
+					return;
+				}
+				//If the message is empty ask the user to conferm that they ment to hit the submit button
+				if(message == "" && !confirm("Are you sure you want to send without entering a message?")) {
+					submit_button.disabled = false;
+					return;
+				}
+				//Display processing message
+				submit_message = document.getElementById('quick_contact_submit_message');
+				submit_message.className = "quick_contact_message";
+				submit_message.innerHTML = "Submitting Message, Please Wait...";
+				//Build SACK Call
+				var mysack = new sack("http://adbrook.com/wp-content/plugins/quick-contact/quick-contact.php");
+				mysack.execute = 1;
+				mysack.method = 'POST';
+				mysack.setVar("quick_contact_name",name);
+				mysack.setVar("quick_contact_email",email);
+				mysack.setVar("quick_contact_phone",phone);
+				mysack.setVar("quick_contact_message",message);
+				mysack.setVar("quick_contact_captcha",captcha);
+				mysack.setVar("quick_contact_action","send_message");
+				mysack.onError = function() { alert('An ajax error occured while sending your message. Please reload the page and try again.') };
+				mysack.runAJAX();//excecute
+				return;
+			}
+			
+			function quick_contact_reset_form() { //Reset Form Javascript Call
+				document.getElementById('quick_contact_form').innerHTML = '<table width=\'100%\'  border=\'0\' cellspacing=\'0\' cellpadding=\'0\'><tr><th>Name:</th><td><input type=\'text\' id=\'quick_contact_name\' class=\'quick_contact_faded\' value=\'Please enter your name...\' maxlength=\'100\' onFocus=\'if(this.value == "Please enter your name..."){ this.value = ""; this.className = "quick_contact_focused"; }\'/></td></tr><tr><th>Email:</th><td><input type=\'text\' id=\'quick_contact_email\' class=\'quick_contact_faded\' value=\'So that we can reply to you...\' maxlength=\'150\' onFocus=\'if(this.value == "So that we can reply to you..."){ this.value = ""; this.className = "quick_contact_focused"; };\'/></td></tr><tr><th>Phone:</th><td><input type=\'text\' id=\'quick_contact_phone\' class=\'quick_contact_faded\' value=\'So that we can reply to you...\' maxlength=\'100\' onFocus=\'if(this.value == "So that we can reply to you..."){ this.value = ""; this.className = "quick_contact_focused"; };\'/></td></tr><tr><th>Message:</th><td><textarea id=\'quick_contact_message\' class=\'quick_contact_faded\' onFocus=\'if(this.value == "Questions? Comments? Enter them here (no HTML please)..."){ this.value = ""; this.className = "quick_contact_focused"; };\'>Questions? Comments? Enter them here (no HTML please)...</textarea></td></tr><tr><th><img id=\'quick_contact_captcha\' src=\'?quick_contact_action=get_captcha\' align=\'right\'/></th><td><input type=\'text\' id=\'quick_contact_captcha_text\' class=\'quick_contact_faded\' style=\'width:110px;\' value=\'Type text at left...\' maxlength=\'20\' onFocus=\'if(this.value == "Type text at left..."){ this.value = ""; this.className = "quick_contact_focused"; };\'/> <small><a href=\'javascript:quick_contact_reset_captcha();\'>I can\'t read the text, please reset it.</a></small></td></tr><tr><th>&nbsp;</th><td style=\'padding-top:2px;\'><input type=\'submit\' id=\'quick_contact_submit\' value=\'Send\' onClick=\'quick_contact_send(); return false;\' style=\'width:50px;\'><input type=\'button\' id=\'quick_contact_cancel\' value=\'Cancel\' style=\'width:60px;\' onClick=\'quick_contact_reset_form();\'> <span style=\'font-size:0.7em;\'>Powered by <a href=\'http://quickcontact.squarecompass.com/\'>Quick Contact</a></span><br/><div id=\'quick_contact_submit_message\'>&nbsp;</div></td></tr><tr><th>&nbsp;</th><td></td></tr></table>';
+			}
+			
+			var quick_contact_reset_captcha_count = 0;
+			function quick_contact_reset_captcha() { //Reset Form Javascript Call
+				quick_contact_reset_captcha_count++;
+				document.getElementById('quick_contact_captcha').src = 'http://adbrook.com/wp-content/plugins/quick-contact/quick-contact.php?quick_contact_action=get_captcha&count='+quick_contact_reset_captcha_count;
+			}
+		</script>
+	</head>
+
+<body class="page page-id-310 page-template-default">
+<div id="wrapper">
+	<div id="header">
+		
+			<div id="hb">
+				<h1 id="site-title"><a href="http://adbrook.com/" title="AdBrook.com" rel="home">AdBrook.com</a>
+					</h1>
+				
+				<div id="site-description">Laser Targeted Internet Advertising</div>
+
+				
+			</div><!-- #hb -->
+
+			<div id="access">
+				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
+				<div class="menu"><ul><li><a href="http://adbrook.com/" title="Home">Home</a></li><li class="page_item page-item-176"><a href="http://adbrook.com/about-us">About Us</a></li><li class="page_item page-item-160"><a href="http://adbrook.com/advertisers">Advertisers</a></li><li class="page_item page-item-32"><a href="http://adbrook.com/arts-entertainment">Arts &amp; Entertainment</a></li><li class="page_item page-item-36"><a href="http://adbrook.com/betting-systems">Betting Systems</a></li><li class="page_item page-item-38"><a href="http://adbrook.com/business-investing">Business &amp; Investing</a></li><li class="page_item page-item-43"><a href="http://adbrook.com/computers-internet">Computers &amp; Internet</a></li><li class="page_item page-item-179"><a href="http://adbrook.com/contact-us">Contact Us</a></li><li class="page_item page-item-45"><a href="http://adbrook.com/cooking-food-wine">Cooking, Food &amp; Wine</a></li><li class="page_item page-item-49"><a href="http://adbrook.com/education">Education</a></li><li class="page_item page-item-51"><a href="http://adbrook.com/employment-jobs">Employment &amp; Jobs</a></li><li class="page_item page-item-55"><a href="http://adbrook.com/games">Games</a></li><li class="page_item page-item-57"><a href="http://adbrook.com/green-products">Green Products</a></li><li class="page_item page-item-59"><a href="http://adbrook.com/health-fitness">Health &amp; Fitness</a></li><li class="page_item page-item-61"><a href="http://adbrook.com/home-garden">Home &amp; Garden</a></li><li class="page_item page-item-530"><a href="http://adbrook.com/language">Language</a></li><li class="page_item page-item-65"><a href="http://adbrook.com/mobile">Mobile</a></li><li class="page_item page-item-164"><a href="http://adbrook.com/website-owners-secret">Our Secret</a></li><li class="page_item page-item-67"><a href="http://adbrook.com/parenting-families">Parenting &amp; Families</a></li><li class="page_item page-item-69"><a href="http://adbrook.com/politics-current-events">Politics &amp; Current Events</a></li><li class="page_item page-item-310 current_page_item"><a href="http://adbrook.com/privacy-policy">Privacy Policy</a></li><li class="page_item page-item-71"><a href="http://adbrook.com/reference">Reference</a></li><li class="page_item page-item-73"><a href="http://adbrook.com/self-help">Self Help</a></li><li class="page_item page-item-183"><a href="http://adbrook.com/service-agreement">Service Agreement</a></li><li class="page_item page-item-75"><a href="http://adbrook.com/software-services">Software &amp; Services</a></li><li class="page_item page-item-84"><a href="http://adbrook.com/spirit-newage-alternative-beliefs">Spirituality &amp; New Age</a></li><li class="page_item page-item-79"><a href="http://adbrook.com/sports">Sports</a></li><li class="page_item page-item-81"><a href="http://adbrook.com/travel">Travel</a></li><li class="page_item page-item-166"><a href="http://adbrook.com/website-owners-revenue">Website Owner Revenue</a></li><li class="page_item page-item-162"><a href="http://adbrook.com/website-owners">Website Owner’s</a></li></ul></div>
+			</div><!-- #access -->
+	</div><!-- #header -->
+
+	<div id="main">
+<div id="navmenu">
+<ul>
+<li><a href="http://www.adbrook.com/">Home</a></li>
+<li><a href="http://www.adbrook.com/about-us">About Us</a></li>
+<li><a href="http://www.adbrook.com/privacy-policy">Privacy Policy</a></li>
+<li><a href="http://www.adbrook.com/contact-us">Contact Us</a></li>
+<li><a href="http://www.adbrook.com/service-agreement">Service Agreement</a></li>
+</ul>
+</div>
+		<div id="container">
+			<div id="content" role="main">
+
+			
+
+				<div id="post-310" class="post-310 page type-page status-publish hentry">
+											<h1 class="entry-title">Privacy Policy</h1>
+					
+					<div class="entry-content">
+						<p>Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and make use of personal information. The following outlines our Privacy Policy.<br>
+When accessing our Website,&nbsp; Adbrook will learn certain information about you during your visit.&nbsp; Similar to other commercial Web sites, our Web site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site, your IP address.<strong><br>
+What Are Cookies?</strong><br>
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.<strong><br>
+IP Addresses</strong><br>
+IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as “traffic data” so that data (such as the Web pages you request) can be sent to you.<strong><br>
+Email Information</strong><br>
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received online, mail and telephone.<strong><br>
+How Do We Use the Information That You Provide to Us?</strong><br>
+Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other items and services to our customers and prospective customers.&nbsp;&nbsp; Adbrook will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection.&nbsp; We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.<br>
+<strong>A Special Note About Children</strong><br>
+Children are not eligible to use our web site and services and we ask that minors (under the age of 13) do not submit any personal information to us. If you are a minor, you can use this site only in conjunction with permission and guidance from your parents or guardians.<strong><br>
+How Do We Protect Your Information and Secure Information Transmissions?</strong><br>
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. However, doing so is allowed, but at your own risk. Some of the information you may enter on our Web site may be transmitted securely via a secure medium known as Secure Sockets Layer, or SSL. Credit Card information is never transmitted via email.&nbsp; Adbrook may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.&nbsp; For site security purposes and to ensure that this service remains available to all users, Adbrook uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.<strong><br>
+Policy Changes</strong><br>
+We reserve the right to amend this privacy policy at any time with or without notice. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.&nbsp; We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.<strong><br>
+Contact</strong><br>
+If you have any questions regarding this Policy, or your dealings with our web site, please contact us.<br>
+Adbrook.com<br>
+1168 Butler Creek Rd.<br>
+Ashland, OR 97520<br>
+541-482-7780<br>
+bbaumann@adbrook.com</p>
+																	</div><!-- .entry-content -->
+				</div><!-- #post-## -->
+
+				
+			<div id="comments">
+
+
+	<p class="nocomments">Comments are closed.</p>
+
+
+
+
+</div><!-- #comments -->
+
+
+			</div><!-- #content -->
+		</div><!-- #container -->
+
+
+		<div id="primary" class="widget-area" role="complementary">
+			<ul class="xoxo">
+
+<li id="nav_menu-3" class="widget-container widget_nav_menu"><h3 class="widget-title">Available Offers</h3><div class="menu-sidebar-navigation-container"><ul id="menu-sidebar-navigation" class="menu"><li id="menu-item-8" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8"><a href="http://www.adbrook.com/arts-entertainment">Arts &amp; Entertainment</a></li>
+<li id="menu-item-9" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9"><a href="http://www.adbrook.com/betting-systems">Betting Systems</a></li>
+<li id="menu-item-10" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10"><a href="http://www.adbrook.com/Business-Investing">Business &amp; Investing</a></li>
+<li id="menu-item-11" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11"><a href="http://www.adbrook.com/computers-internet">Computers &amp; Internet</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="http://www.adbrook.com/cooking-food-wine">Cooking, Food &amp; Wine</a></li>
+<li id="menu-item-14" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-14"><a href="http://www.adbrook.com/education">Education</a></li>
+<li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15"><a href="http://www.adbrook.com/employment-jobs">Employment &amp; Jobs</a></li>
+<li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-17"><a href="http://www.adbrook.com/games">Games</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-18"><a href="http://www.adbrook.com/green-products">Green Products</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-19"><a href="http://www.adbrook.com/health-fitness">Health &amp; Fitness</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20"><a href="http://www.adbrook.com/home-garden">Home &amp; Garden</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21"><a href="http://www.adbrook.com/language">Language</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-22"><a href="http://www.adbrook.com/mobile">Mobile</a></li>
+<li id="menu-item-23" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23"><a href="http://www.adbrook.com/parenting-families">Parenting &amp; Families</a></li>
+<li id="menu-item-26" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26"><a href="http://www.adbrook.com/self-help">Self Help</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-27"><a href="http://www.adbrook.com/software-services">Software &amp; Services</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28"><a href="http://www.adbrook.com/spirit-newage-alternative-beliefs">Spirituality &amp; New Age</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29"><a href="http://www.adbrook.com/sports">Sports</a></li>
+<li id="menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30"><a href="http://www.adbrook.com/travel">Travel</a></li>
+</ul></div></li>			</ul>
+		</div><!-- #primary .widget-area -->
+
+	</div><!-- #main -->
+
+	<div id="footer" role="contentinfo">
+		<div id="colophon">
+
+
+
+			<div id="site-info">
+				© 2011 <a href="http://adbrook.com/" title="AdBrook.com" rel="home">
+					AdBrook.com				</a>
+			</div><!-- #site-info -->
+
+		</div><!-- #colophon -->
+	</div><!-- #footer -->
+
+</div><!-- #wrapper -->
+
+
+
+</body></html>
