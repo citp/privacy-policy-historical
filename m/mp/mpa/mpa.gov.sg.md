@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpa.gov.sg privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525103516id_/http%3A//www.mpa.gov.sg/sites/footer_links/privacy_policy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpa.gov.sg privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202005901id_/http%3A//www.mpa.gov.sg/sites/footer_links/privacy_policy.page) for the most accurate reproduction.*
 
 # MPA - Privacy policy
 
