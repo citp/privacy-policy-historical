@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trane.com privacy policy that was archived on 2011-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110210194710id_/http%3A//www.trane.com/Corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trane.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201011522id_/http%3A//www.trane.com/privacy.aspx) for the most accurate reproduction.*
 
-# Ingersoll Rand : Privacy Policy
+# TRANE Data Protection and Privacy Policy
 
-Ingersoll-Rand plc ("Ingersoll-Rand") respects individual privacy and values the confidence of its customers, employees, vendors, consumers, business partners and others. Ingersoll Rand strives to collect, store, process and distribute Personal information in a manner consistent with the laws of the countries in which it does business, and has a tradition of upholding the highest ethical standards in its business practices. Ingersoll Rand abides by the Safe Harbor Principles developed by the U.S. Department of Commerce and the European Commission and the Frequently Asked Questions (FAQs) issued by the Department of Commerce on July 21, 2000. This Safe Harbor Data Protection and Privacy Policy (the "Policy") sets forth the privacy principles that Ingersoll Rand follows with respect to transfers of Personal information anywhere in the world, including transfers from the European Economic Area (EEA) (which includes the twenty-seven member states of the European Union (EU) plus Iceland, Liechtenstein and Norway) to the United States. 
+Ingersoll-Rand plc ("Ingersoll-Rand") respects individual privacy and values the confidence of its customers, employees, vendors, consumers, business partners and others. Ingersoll Rand strives to collect, store, process and distribute Personal information in a manner consistent with the laws of the countries in which it does business, and has a tradition of upholding the highest ethical standards in its business practices. Ingersoll Rand abides by the Safe Harbor Principles developed by the U.S. Department of Commerce and the European Commission and the Frequently Asked Questions (FAQs) issued by the Department of Commerce on July 21, 2000. This Safe Harbor Data Protection and Privacy Policy (the "Policy") sets forth the privacy principles that Ingersoll Rand follows with respect to transfers of Personal information anywhere in the world, including transfers from the European Economic Area (EEA) (which includes the twenty-seven member states of the European Union (EU) plus Iceland, Liechtenstein and Norway) to the United States.
 
 ## I. SAFE HARBOR
 
@@ -12,7 +12,7 @@ Ingersoll Rand has a Global Data Protection Officer who assists in ensuring comp
 
 ## II. SCOPE
 
-This Policy applies to all Personal information received by Ingersoll Rand in any format including electronic, paper or verbal. Ingersoll Rand collects, stores and processes Personal information concerning current and former employees, as well as applicants for employment through its Internet websites, its intranet site, electronic mail and manually. Ingersoll Rand is the sole owner of information it collects, stores and processes from current and former employees, applicants for employment, customers, vendors and others. Ingersoll Rand will not sell or share this information with third parties in ways different than what is disclosed in this Data Protection Policy. On a global basis, Ingersoll Rand will, and will cause its affiliates to, establish and maintain business procedures that are consistent with this Policy. Notwithstanding the foregoing, Ingersoll-Rand has separate policies governing the processing of employee personal data and external personal data in those countries that are members of the European Union. These policies are consistent with the European Directive 95/46/EC on the protection of personal data. 
+This Policy applies to all Personal information received by Ingersoll Rand in any format including electronic, paper or verbal. Ingersoll Rand collects, stores and processes Personal information concerning current and former employees, as well as applicants for employment through its Internet websites, its intranet site, electronic mail and manually. Ingersoll Rand is the sole owner of information it collects, stores and processes from current and former employees, applicants for employment, customers, vendors and others. Ingersoll Rand will not sell or share this information with third parties in ways different than what is disclosed in this Data Protection Policy. On a global basis, Ingersoll Rand will, and will cause its affiliates to, establish and maintain business procedures that are consistent with this Policy. Notwithstanding the foregoing, Ingersoll-Rand has separate policies governing the processing of employee personal data and external personal data in those countries that are members of the European Union. These policies are consistent with the European Directive 95/46/EC on the protection of personal data.
 
 Personal information collected, stored and processed by Ingersoll Rand from employees and applicants for employment is maintained at Corporate or at Regional HQ, depending on the level of the position as well as the local office of the employee or applicant. Ingersoll Rand collects Personal information for employment related purposes and legitimate human resource business reasons such as recruitment and staffing; payroll administration; absence monitoring; training and development;, management planning; appraisal and promotion; union negotiation; production and publication of company address books and telephone and e-mail directories; production of employee Identity cards; monitoring the use of company resources; information to contact close relatives in case of emergency; filling employment positions; administration and operations of its benefit and compensation programs; meeting governmental reporting requirements; security, health and safety management; performance management; company network access; and authentication. Ingersoll Rand does not request or gather information regarding political opinions, religion, philosophy or sexual preference. To the extent Ingersoll Rand maintains information on trade union membership, medical health, race or ethnicity, Ingersoll Rand will protect, secure and process that information in a manner consistent with this Policy and applicable law.
 
@@ -20,7 +20,7 @@ Personal information collected by Ingersoll Rand from prospective customers, con
 
 ## III. DEFINITIONS
 
-For purposes of this Policy, the following definitions shall apply:
+The privacy principles in this Policy are based on the seven Safe Harbor Principles.
 
 "Agent" means any third party that processes Personal information provided by Ingersoll Rand to perform tasks on behalf of or at the instruction of Ingersoll Rand.
 
@@ -32,12 +32,15 @@ For purposes of this Policy, the following definitions shall apply:
 
 ## IV. PRIVACY PRINCIPLES
 
-The privacy principles in this Policy are based on the seven Safe Harbor Principles.
+For purposes of this Policy, the following definitions shall apply:
 
   1. NOTICE: Where Ingersoll Rand collects Personal information directly from individuals, it will inform them about the purposes for which it collects, stores and processes Personal information about them, the types of non-agent third parties to which Ingersoll Rand discloses that information, and the choices and means, if any, Ingersoll Rand offers individuals for limiting the use and disclosure of their Personal information. Notice will be provided in clear and conspicuous language when individuals are first asked to provide Personal information to Ingersoll Rand, or as soon as practicable thereafter, and in any event before Ingersoll Rand uses the information for a purpose other than that for which it was originally collected. Ingersoll Rand may disclose Personal information if required to do so by law or to protect and defend the rights or property of Ingersoll Rand.
-  2. CHOICE: Ingersoll Rand will offer individuals the opportunity to choose (opt-out) whether their Personal information is (a) to be disclosed to a non-agent third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.  
-For Sensitive Personal information, Ingersoll Rand will give individuals the opportunity to affirmatively and explicitly (opt-in) consent to the disclosure of the information to a non-agent third party or the use of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.  
+  2. CHOICE: Ingersoll Rand will offer individuals the opportunity to choose (opt-out) whether their Personal information is (a) to be disclosed to a non-agent third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
+
+For Sensitive Personal information, Ingersoll Rand will give individuals the opportunity to affirmatively and explicitly (opt-in) consent to the disclosure of the information to a non-agent third party or the use of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
+
 Ingersoll Rand will provide individuals with reasonable mechanisms to exercise their choices should requisite circumstances arise.
+
   3. DATA INTEGRITY: Ingersoll Rand will use Personal information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the individual. Ingersoll Rand will take reasonable steps to ensure that Personal information is relevant to its intended use, accurate, complete and current.
   4. TRANSFERS TO AGENTS: Ingersoll Rand will obtain assurances from its Agents that they will safeguard Personal information. Examples of appropriate assurances that may be provided by Agents include: a contract obligating the Agent to provide at least the same level of protection as is required by the relevant Safe Harbor Principles, being subject to EU Directive 95/46/EC (the EU Data Protection Directive), Safe Harbor certification by the Agent, or being subject to another European Commission adequacy finding (e.g., companies located in Switzerland). Where Ingersoll Rand has knowledge that an Agent is using or disclosing Personal information in a manner contrary to this Policy, Ingersoll Rand will take reasonable steps to prevent or stop the use or disclosure. Ingersoll Rand holds it Agents accountable for maintaining the trust our employees and customers place in the company.
   5. ACCESS AND CORRECTION: Upon request, Ingersoll Rand will grant individuals reasonable access to Personal information that it holds about them. In addition, Ingersoll Rand will take reasonable steps to permit individuals to correct, amend or delete information that is demonstrated to be inaccurate or incomplete. Any employees that desire to review or update their Personal information can do so by contacting their local Human Resources Representative.
@@ -60,11 +63,11 @@ Few, if any, of Ingersoll Rand's websites are directed toward children. Neverthe
 
 Ingersoll Rand website users have the option to request that Ingersoll Rand not use information previously provided, correct information previously provided, or remove information previously provided to Ingersoll Rand. Those that would like to correct or suppress information they have provided to Ingersoll Rand should forward such inquiries to:
 
-Ingersoll Rand Privacy Inquiries  
+_Ingersoll Rand Privacy Inquiries  
 One Centennial Avenue  
 Piscataway, New Jersey  
 08855-6820  
-Attention: Evan Turtz, Global Data Protection and Privacy Officer
+Attention: Evan Turtz, Global Data Protection and Privacy Officer_
 
 The inquiries should include the individual's name, address, and other relevant contact information (phone number, email address). Ingersoll Rand will use all reasonable efforts to honor such requests as quickly as possible.
 
