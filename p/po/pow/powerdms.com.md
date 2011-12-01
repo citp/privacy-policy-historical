@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerdms.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530033325id_/http%3A//www.imagineids.com/about-innovative-data-solutions/privacy-policy-innovative-data-solutions.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerdms.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201164157id_/http%3A//www.imagineids.com/about-innovative-data-solutions/privacy-policy-innovative-data-solutions.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Innovative Data Solutions
 
