@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crabtree-evelyn.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605010112id_/http%3A//www.crabtree-evelyn.com/eng/customerService/privacyPolicy.cfm%3F%26var%3Dd%26ckey%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crabtree-evelyn.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201011011id_/http%3A//www.crabtree-evelyn.com/eng/customerService/privacyPolicy.cfm%3F%26var%3Dd%26ckey%3DUS) for the most accurate reproduction.*
 
 # Privacy Policy
 
