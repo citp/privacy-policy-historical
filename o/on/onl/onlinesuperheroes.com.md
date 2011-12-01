@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinesuperheroes.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127175846id_/http%3A//onlinesuperheroes.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinesuperheroes.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201102801id_/http%3A//onlinesuperheroes.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
