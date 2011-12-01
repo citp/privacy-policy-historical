@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efinancemanagement.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619215831id_/http%3A//efinancemanagement.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancemanagement.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201083242id_/http%3A//efinancemanagement.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,6 +35,3 @@ Changes
 We reserve the absolute right to change, amend, alter, edit, delete or add this privacy statement. In case of multiple sessions logging in by you, you are subject to two different provisions of the privacy policies, and then the most recent one shall apply. Accepting the terms and conditions as well this privacy policy automatically binds you to the most recent privacy policy applicable.
 
 YOU ARE BOUND BY ALL THE RULES OF THE TERMS AND CONDITIONS AND THE PRIVACY POLICY IRRESPECTIVE OF WHETHER YOU HAVE READ THE SAME OR NOT. ACCESSING THIS SITE DEEMS THAT YOU HAVE READ AND UNDERSTOOD ALL THE CONTENTS OF THE TERMS OF USE, PRIVACY POLICY AND THE DISCLAIMER.
-
-  
-
