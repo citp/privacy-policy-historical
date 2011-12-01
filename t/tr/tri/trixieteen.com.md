@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trixieteen.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529144255id_/http%3A//trixieteen.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trixieteen.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201191611id_/http%3A//trixieteen.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy_nethole
 
