@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the factcheck.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629080359id_/http%3A//factcheck.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factcheck.org privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201181852id_/http%3A//factcheck.org/about/privacy) for the most accurate reproduction.*
 
-# Privacy | FactCheck.org
+# FactCheck.org : Privacy
 
 **Who We Are:** This site, FactCheck.org, is owned and operated by the [Annenberg Public Policy Center](http://appcpenn.org/) of the University of Pennsylvania. We link to other Web sites from FactCheck.org, and those other sites are not affiliated with us or subject to this Privacy Policy. 
 
