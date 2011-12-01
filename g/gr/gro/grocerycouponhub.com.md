@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grocerycouponhub.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623140610id_/http%3A//grocerycouponhub.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grocerycouponhub.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201183503id_/http%3A//www.grocerycouponhub.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -69,7 +69,7 @@ We are committed to protecting the privacy of children.  In furtherance of this
 
 **8\. Contact with You**
 
-We may use your email address to contact you from time to time, in order to send notices required by law, to provide information regarding this Website, or to resolve any complaint.  We also reserve the right to call, mail, or email information to you about our services, to provide offers to customers, or to send out promotions to you.  You may at any time choose to unsubscribe (or “opt-out”) by contacting us at [info@grocerycouponhub.com](mailto:info@parentsneeds.com). Please type “UNSUBSCRIBE” in the subject line.  Also, we will include an unsubscribe link in each of our email messages, which shall never expire.   We will honor your unsubscribe request on or before the tenth (10th) day following our receipt of your request.  We will include our organization’s full postal mail address in every mail communication. 
+We may use your email address to contact you from time to time, in order to send notices required by law, to provide information regarding this Website, or to resolve any complaint.  We also reserve the right to call, mail, or email information to you about our services, to provide offers to customers, or to send out promotions to you.  You may at any time choose to unsubscribe (or “opt-out”) by contacting us at [info@grocerycouponhub.com](mailto:info@grocerycouponhub.com). Please type “UNSUBSCRIBE” in the subject line.  Also, we will include an unsubscribe link in each of our email messages, which shall never expire.   We will honor your unsubscribe request on or before the tenth (10th) day following our receipt of your request.  We will include our organization’s full postal mail address in every mail communication. 
 
 **9\. Changes and Updates to this Privacy Policy**
 
