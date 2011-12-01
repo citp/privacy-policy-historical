@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rewardingways.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504024525id_/http%3A//www.rewardingways.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardingways.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201125715id_/http%3A//www.rewardingways.com/privacy) for the most accurate reproduction.*
 
 # Rewarding Ways - Privacy
 
@@ -20,3 +20,13 @@ If you feel RewardingWays is not following its stated information policy, then t
 
 **Cookies**  
 We recommend that all users enable cookies in their internet browsers in order to make full use of the site and in order to ensure that any transactions on third party sites are recorded. Cookies are small pieces of information that are stored by your browser on your computer's hard drive and they are used to record how you navigate this website on each visit.. The information cannot be seen by any other websites (so the information is secure) and is used by us to provide features to aid the use of our services. If users do not have cookies enabled, it is likely that third-party retailers will not record some of their transactions.
+
+You must be logged in to post messages. 
+
+Total Members:| 29388  
+---|---  
+Online Members:| 73  
+Total Paid:| $60,994.12  
+Pending:| $9.76  
+Offers:| 565  
+Offers Value:| $ 294.19 & 37.25 points 
