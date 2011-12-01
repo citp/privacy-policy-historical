@@ -1,6 +1,22 @@
-> *The following text is extracted and transformed from the betterbathrooms.com privacy policy that was archived on 2009-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090912001505id_/http%3A//www.betterbathrooms.com/applogic/info/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterbathrooms.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201180839id_/http%3A//www.betterbathrooms.com/applogic/info/privacy/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+  
+
+
+  
+[](http://www.betterbathrooms.com/news/2010/12/better-bathrooms-launches-new-tv-advert/ "Better Bathrooms on ITV")  
+[](http://www.betterbathrooms.com/news/2011/02/better-bathrooms-to-be-featured-on-bbc-1-show-%E2%80%98diy-sos%E2%80%99/)  
+[](http://www.betterbathrooms.com/news/2011/02/better-bathrooms-aids-beeny-in-channel-4%E2%80%99s-restoration-nightmare/)  
+[](http://www.betterbathrooms.com/news/2010/12/better-bathrooms-features-in-the-daily-mail/ "Better Bathrooms in the Daily Mail")  
+[](http://www.betterbathrooms.com/news/2011/01/better-bathroom-features-in-the-daily-telegraph/ "Better Bathrooms in the Daily Telegraph")
+
+  
+[](https://web.archive.org/applogic/info/payments/payments.html)
+
+Transaction information passed between Better Bathrooms and Sage Pay's system is encrypted using 256-bit SSL certificates.  
+
 
 BetterBathrooms UK Limited ("We") are committed to protecting and respecting your privacy.
 
@@ -10,11 +26,11 @@ For the purpose of the Data Protection Act 1998 (the Act), the data controller i
 
 **We may collect and process the following data about you:**
 
-  * Information that you provide by filling in forms on our site www.batterbathrooms.com (our site). This includes information provided at the time of registering to use our site, and placing orders through our site. We may also ask you for information when you enter a competition or promotion sponsored by BetterBathrooms UK Limited. 
-  * If you contact us, we may keep a record of that correspondence. 
-  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them. 
-  * Details of transactions you carry out through our site and of the fulfilment of your orders. 
-  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise. 
+  * Information that you provide by filling in forms on our site www.batterbathrooms.com (our site). This includes information provided at the time of registering to use our site, and placing orders through our site. We may also ask you for information when you enter a competition or promotion sponsored by BetterBathrooms UK Limited.
+  * If you contact us, we may keep a record of that correspondence.
+  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+  * Details of transactions you carry out through our site and of the fulfilment of your orders.
+  * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise.
 
 
 
@@ -24,10 +40,10 @@ We may collect information about your computer, including where available your I
 
 For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable us:
 
-  * To estimate our audience size and usage pattern. 
-  * To store information about your preferences, and so allow us to customise our site according to your individual interests. 
-  * To speed up your searches. 
-  * To recognise you when you return to our site. 
+  * To estimate our audience size and usage pattern.
+  * To store information about your preferences, and so allow us to customise our site according to your individual interests.
+  * To speed up your searches.
+  * To recognise you when you return to our site.
 
 
 
@@ -43,15 +59,15 @@ Unfortunately, the transmission of information via the internet is not completel
 
 We use information held about you in the following ways:
 
-* To ensure that content from our site is presented in the most effective manner for you and for your computer. 
-* To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes. 
-* To carry out our obligations arising from any contracts entered into between you and us. 
-* To allow you to participate in interactive features of our service, when you choose to do so. 
-* To notify you about changes to our service. 
+  * To ensure that content from our site is presented in the most effective manner for you and for your computer.
+  * To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.
+  * To carry out our obligations arising from any contracts entered into between you and us.
+  * To allow you to participate in interactive features of our service, when you choose to do so.
+  * To notify you about changes to our service. 
 
-We may also use your data to provide you with information about goods and services which may be of interest to you and we may contact you about these by post or telephone. 
+We may also use your data to provide you with information about goods and services which may be of interest to you and we may contact you about these by post or telephone.
 
-If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you. 
+If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
 
 If you are a new customer we will contact you by electronic means only if you have consented to this.
 
@@ -65,11 +81,9 @@ We may disclose your personal information to any member of our group, which mean
 
 We in the following circumstances and notwithstanding the foregoing, we may disclose your personal information to third parties:
 
-  * In the event that we buy any business or assets substantially comprising a business, in which case we may disclose your personal data to the prospective seller of such business or assets. 
-  * If BetterBathrooms UK Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. 
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions of supply and other agreements; or to protect the rights, property, or safety of BetterBathrooms UK Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
-
-
+    * In the event that we buy any business or assets substantially comprising a business, in which case we may disclose your personal data to the prospective seller of such business or assets.
+    * If BetterBathrooms UK Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+    * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions of supply and other agreements; or to protect the rights, property, or safety of BetterBathrooms UK Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 **Your rights**
 
@@ -88,3 +102,7 @@ Any changes we may make to our privacy policy in the future will be posted on th
 **Contact**
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to Albion Park, Warrington Road, Warrington WA3 5PG. 
+
+
+
+[](https://web.archive.org/applogic/better-bathrooms-sprout-count-competition?utm_source=sprout&utm_medium=sprout)
