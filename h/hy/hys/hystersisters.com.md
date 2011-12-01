@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hystersisters.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624055733id_/http%3A//www.hystersisters.com/vb2/view_privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hystersisters.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201141026id_/http%3A//www.hystersisters.com/vb2/view_privacypolicy.htm) for the most accurate reproduction.*
 
 # Hyster Sisters Privacy Policy - HysterSisters.com
 
@@ -17,7 +17,7 @@ We reserve the right to change this Privacy Policy as necessary. If we change th
 
 Resale or disclosure of information to third parties:
 
-The HysterSisters Website does not sell, rent, loan, trade, or lease any personal information collected at our site, including email lists.
+The HysterSisters Website does not sell, rent, loan, trade, or lease any personal information collected at our site, including email lists. Special offers from sponsors may be offered during registration and your email may be shared for the purpose of sending the requested information to you.
 
 Research
 
@@ -59,7 +59,7 @@ The HysterSisters Website retains the right to provide any information we know a
 
 Updating or Changing Your Information
 
-HysterSisters wants your account , information and preferences to be accurate and complete. To update or change your personal information, visit our user login page and log on to your own account. You can update your personal information after logging in to your account.
+HysterSisters wants your account, information and preferences to be accurate and complete. To update or change your personal information, visit our user login page and log on to your own account. You can update your personal information after logging in to your account.
 
 Use of Cookies and Other Technologies
 
@@ -105,4 +105,4 @@ Denton, Texas 76205
 
 _The effective date of this Privacy Policy is July 1, 2009. This Website is intended for viewing within the United States._
 
-Page Created at 06-08-2003 - 06:00 AM, Last Modified 07-10-2009 - 06:50 AM 
+Page Created at 06-08-2003 - 07:00 AM, Last Modified 07-10-2009 - 07:50 AM 
