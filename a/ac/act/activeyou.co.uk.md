@@ -1,75 +1,63 @@
-> *The following text is extracted and transformed from the activeyou.co.uk privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212091926id_/http%3A//activeyou.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activeyou.co.uk privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201084743id_/http%3A//activeyou.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # Active You.co.uk – Prizes that make a difference
 
-Privacy Policy
+**Privacy Policy**
 
-Active You takes your privacy very seriously and takes every reasonable precaution to safeguard the personal information you supply us with.  
-Active You is registered under the Data Protection Act 1998 under registration number Z9842529. The information you provide us with is safeguarded under the terms of this act. 
+**How we use your information**
 
-Personal Information
+Activeyou.co.uk takes seriously the security of the personal information that you provide and takes every reasonable precaution to ensure that your information is used only in ways that you expect.
 
-The information you provide Active You will only be used by our company, other carefully selected companies and the companies that sponsor the competitions you "opt-in" to and complete 
+Activeyou.co.uk is owned and operated by Attinger Jack Interactive Ltd, 15 Gay Street Bath, BA1 2PH. Attinger Jack Interactive Ltd is registered under the Data Protection Act 1998 under registration number Z9842529 and operates in accordance with this law and The Privacy and Electronic Communications (EC Directive) Regulations 2003.
 
-Active You want to ensure that the principals of "opting-in" are clearly explained. This means that when you participate in a competition, you understand that you will receive promotional offers from Active You and/or or the sponsoring company based on the information you provide in the initial registration page. You can unsubscribe at any time if you would prefer not to receive promotions in the future.
+**Your personal information**
 
-Active You competitions have their own privacy policies and some have their own opt-in statements, Active You recommends that you read and understand this information.
+When you participate in a competition or offer we typically collect your name, address, telephone number, email address and date of birth. Sometimes other information may be collected which usually relates to the offer in which you participate. The information is collected so that we can fulfill the service we are providing to you which includes passing your information to the Partner providing the information and/or competition in which you are interested. Also you are giving your permission for us to share your information with third parties who provide products or services which we think will be of interest to you.
 
-By registering with [www.activeyou.co.uk](http://www.activeyou.co.uk/) and entering a competition or promotional offer each visitor is opting in to receive regular offers via email, direct mail & telemarketing. These offers will be sent only by Attinger Jack Interactive Ltd, its partners or its clients. If you do not wish to receive such offers you can unsubscribe from the service at anytime.
+When you participate in a competition and/or enquire about an offer you are agreeing to receive promotional offers from Activeyou.co.uk, the partner company sponsoring the competition/offer and possibly third parties based in the UK, EEA, USA or Canada. These promotional offers could be sent to you by email, in the post, by telephone or by text message.  
+If you would prefer not to receive promotions in the future, you can unsubscribe at any time. Please see how to unsubscribe below.
 
-The data that you provide to Active You, is held by both Active You and the partners, of the competitions that you answer. Acitveyou holds your data in a central database and this database is only accessed by reference to interest or demographic categories in order to provide you with information about those interests you have selected. The process of supplying you with this information is at all times under the control of Active You although specialist third party suppliers may carry out the dispatch.
+Some Activeyou.co.uk competitions have specific terms and conditions relating to how your data is used and it is advisable to read and understand this information. If you have responded to Activeyou.co.uk competitions or offers through third party partner site, it is possible that the third party may also hold your information and will be using it to make you offers.
 
-Partner Site Registrations
+Attinger Jack Interactive Ltd reserves the right to transfer or sell your personal information to companies who are affiliated with Attinger Jack Interactive Ltd; this is at our sole discretion. If Attinger Jack Interactive Ltd changes ownership through a merger or sale, it reserves the right to transfer or assign the right to use your Personal Information collected from activeyou.co.uk 
 
-If you have registered with Active You through one of our 3rd party partner sites, it is possible that they may also retain your data.
+**Security of your information**
 
-Unsubscribe
+The information that you provide to Activeyou.co.uk, is held by both Activeyou.co.uk and the Partners sponsoring the competition or offer. Activeyou.co.uk holds your information in a central database and this database is used to identify your interests and/or your demographics so that Activeyou.co.uk and our Partners can provide you with information and offers that may interest you. Your information is at all times under the control of Activeyou.co.uk although specialist third party suppliers may carry out the fulfillment to send the offers to you.
 
-You can unsubscribe from Active You at any time according to your requirements through the website at [www.activeyou.co.uk.](https://web.archive.org/web/20101212091926id_/http%3A//activeyou.co.uk/index.asp) You may at any time unsubscribe from Active You by logging in and visiting My Account page and selecting the unsubscribe button.
+**How to unsubscribe**
 
-The consequences of unsubscribing are that your account details will be placed in a suppression file and you will not receive any further email communications from Active You.
+You can unsubscribe from Activeyou.co.uk at any time by emailing unsubscribe@Activeyou.co.uk If you unsubscribe your information will be placed in a suppression file and you will not receive any further marketing communications from Activeyou.co.uk. If you need to contact Activeyou.co.uk regarding an unsubscribe request you can do this by emailing unsubscribe@activeyou.co.uk or writing to us at 15 Gay Street Bath, BA1 2PH.
 
-If you need to contact Active You regarding an unsubscribe request you can by emailing [unsubscribe@activeyou.co.uk](mailto:unsubscribe@activeyou.co.uk)
+**Cookies**
 
-Security
+A cookie is small text-only file which is stored on your computer when visiting a site that records preferences for that particular site's usage. Activeyou.co.uk uses cookies solely to enable us to identify you when you return to the Activeyou.co.uk web site, therefore enabling us to show you offers which will be appropriate to you and your interests, gathered from your registration details. For more information about cookies we recommend you visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-Active You are committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, which are located in controlled facilities.
+The cookie will not allow a website to learn any personally identifiable information (such as your name and address) that you have not otherwise given to us. The cookie will also not track where you go when you leave Activeyou.co.uk.co.uk or where you came to our website from. Its only purpose is to make your visit to Activeyou.co.uk easier and more rewarding for you. The use of cookies in Activeyou.co.uk means that you do not have to enter information such as your log in name and password every time you visit the site, resulting in an improved login experience.
 
-You must type the correct password to access your Active You account. It is your responsibility to ensure the security of your Acitveyou password and not to reveal this information to others.
+**Useful information**
 
-Although we endeavor to ensure the security of all correspondence, the Internet is not a 100% secure medium. Therefore, we are unable to guarantee the security of any data you send electronically to Active You and therefore cannot accept responsibility for any loss or damage experienced through any loss of confidentiality of information.
+For useful information about data protection you can visit:
 
-Cookies
+  * **The Direct Marketing Association; www.dma.org.uk**
+  * **The Information Commissioner; www.dataprotection.gov.uk**
+  * **The Citizens Advice Bureau; www.adviceguide.org.uk**
 
-A cookie is small text-only file which is stored on your computer when visiting a site that record preference for that particular site's usage.   
-Active You uses cookies solely to enable us to identify you when you return to the Active You web site, therefore enabling us to show you offers which will be appropriate to you and your interests, gathered from your registration details. 
 
-The cookie will not allow a website to learn any personally identifiable information (such as your name and address) that you have not otherwise given to us. The cookie will also not track where you go when you leave Active You.co.uk or where you came to our website from. It's only purpose is to make your visit to [Activeyou.co.uk](https://web.archive.org/web/20101212091926id_/http%3A//activeyou.co.uk/index.php) easier and more rewarding for you. 
 
-The use of cookies in Active You means that you do not have to enter information such as your log in name and password every time you visit the site, resulting in an improved login experience. 
+**Changes to this statement**
 
-For example, Active You may store your login details in a cookie that will remain on your computer after you log out. This cookie allows you to be automatically logged in the next time you visit Active You. If you are using a public computer or do not otherwise want this information to be stored, you should log out before leaving the site.  
-The sites or services you visited may store their own cookies on your computer. Active You recommends that you read each site's privacy statement to understand their policies and practices regarding the use of cookies. You have the ability to accept or decline cookies using the settings on your browser. If you have cookies disabled in your browser you are still able to use the Active You site but you will not have the benefit of an automatic login.
+How we use your data is kept under regular review and changes are published on this page. This page was last updated on the date shown below.
 
-The functionality of Active You depends upon your browser accepting session cookies. Active You tracks visitors to and on the Active You site by using referrer tracking. Active You uses click thru and open mail tracking when sending emails. This process allows Active You and its clients the ability to profile the recipients of their communications.  
-Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies.
+**Access to your information**
 
-It is possible to configure your web browser to refuse cookies or to be informed if a cookie is set. We refer to the manual of your web browser.
+You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your information please email or write to us at the addresses below. Also you may ask us to correct information that you think is incorrect. We may make a small charge for these services.
 
-We will not use the IP addresses or cookies to identify you personally.
+**How to contact us**
 
-Useful Information
+If you have questions regarding this statement, please contact Activeyou.co.uk at: Activeyou.co.uk 15 Gay Street Bath, BA1 2PH. Or by emailing us at [ **digital@ajinteractive.co.uk**](mailto:digital@ajinteractive.co.uk?subject=privacy%20question)
 
-Active You adheres to all legislation laid out in The Privacy and Electronic Communications Act of 2003 as well as following UK best practice guidelines laid down by the DMA. We are keen to promote the best interests of consumers and how their personal data is used; for further information about data protection you can visit:
+  * **Version 3.1**
+  * **Updated 27-01-2011**
 
-The Direct Marketing Association; [www.dma.org.uk](http://www.dma.org.uk/)  
-The Information Commissioner; [www.dataprotection.gov.uk](http://www.dma.org.uk/)  
-The Citizens Advice Bureau; [www.adviceguide.org.uk ](http://www.dma.org.uk/)
-
-If you have questions regarding this Privacy Statement, please contact Active You at:   
-Active You  
-4th Floor, River House  
-143-145 Farringdon Road  
-London, EC1R 3AB  
-General@activeyou.co.uk  
 
