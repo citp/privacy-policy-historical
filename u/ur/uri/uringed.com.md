@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uringed.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129041210id_/http%3A//uringed.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uringed.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201182048id_/http%3A//www.uringed.com/privacypolicy.php) for the most accurate reproduction.*
 
 # uRinged - Free Mobile Content Sharing!!
 
