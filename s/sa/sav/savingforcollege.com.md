@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the savingforcollege.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617090320id_/http%3A//www.savingforcollege.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingforcollege.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201214448id_/http%3A//www.savingforcollege.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy JFH Innovative, LLC
+# Privacy Policy Jfh Innovative, Llc
 
 **Last Updated: December 17, 2010**
 
