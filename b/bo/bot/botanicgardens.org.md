@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the botanicgardens.org privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602152205id_/http%3A//www.botanicgardens.org/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the botanicgardens.org privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201103429id_/http%3A//www.botanicgardens.org/content/privacy) for the most accurate reproduction.*
 
 # Denver Botanic Gardens | privacy
 
