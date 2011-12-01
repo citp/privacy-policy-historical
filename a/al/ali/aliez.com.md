@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aliez.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601011543id_/http%3A//www.aliez.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aliez.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201055129id_/http%3A//aliez.com/privacypolicy) for the most accurate reproduction.*
 
 # Aliez.com | Free Live Streaming Service
 
