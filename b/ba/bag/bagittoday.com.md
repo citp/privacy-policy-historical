@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bagittoday.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520072512id_/http%3A//www.bagittoday.com/private-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagittoday.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201165332id_/http%3A//www.bagittoday.com/private-policy.jsp) for the most accurate reproduction.*
 
 # Bag It Today
 
@@ -23,5 +23,11 @@ Our web servers automatically collect limited information about your computer's 
 When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our websites -- it is usually in the form of aggregated statistics on traffic to various pages within our sites. If you do register with India Today Group Digital, we may, from time to time, contact you about content and features that we believe may be of interest to you.
 
 All information gathered by India Today Group Digital is stored securely within a India Today Group Digital-controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access.
+
+If you are no longer interested in receiving e-mail announcements and other marketing information from us, or you want us to remove any PII that we have collected about you, please e-mail your request to [response@bagittoday.com](mailto:response@bagittoday.com).
+
+We use third-party service providers to serve ads on our behalf across the Internet and sometimes on this site. They may collect anonymous information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. No personally identifiable information is collected or used in this process. They do not know the name, phone number, address, email address, or any personally identifying information about the user.
+
+If you would like more information about this practice and to know your choices about not having this anonymous information used by our third party service provider, please click <http://www.networkadvertising.org/managing/opt_out.asp>. You can also read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative’s website by clicking <http://www.networkadvertising.org/>.
 
 A note to end on: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be.
