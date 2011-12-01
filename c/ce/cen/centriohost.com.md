@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centriohost.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624180626id_/http%3A//centriohost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centriohost.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201084252id_/http%3A//www.centriohost.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CENTRIO HOST ™ - Best Reseller Hosting - Web Hosting Provider - Cheap Master Reseller
 
