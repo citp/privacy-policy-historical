@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the moneynowusa.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503232052id_/http%3A//www.moneynowusa.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneynowusa.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201072747id_/http%3A//www.moneynowusa.com/privacy.html) for the most accurate reproduction.*
 
 # Bad Credit Loans :: Personal Loans :: Payday Loans :: Unsecured Cash Advances and Cash Call Loans from Money Now USA
 
 **Notification of Privacy Statement Changes**
 
 MoneyNowUSA.com may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
-
-MoneyNowUSA has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 480-365-0335. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 This Privacy Policy will tell you, among other things: 
 
@@ -22,7 +20,7 @@ Company websites are not intended for use by individuals under the age of 18 or 
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
-Beginning January 1, 2005 under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to either: (1) a list detailing the categories of information shared and the entities to which such information was provided; or (2) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option. To opt-out of having your information shared with third parties, [click here](http://www.money4nowusa.com/unsubscribe.aspx) and follow the opt-out instructions. 
+Beginning January 1, 2005 under California's "Shine the Light" law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to either: (1) a list detailing the categories of information shared and the entities to which such information was provided; or (2) to be notified of a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option. To opt-out of having your information shared with third parties, [click here](http://www.optout-blgl.net/o-lglb-c11-d78ec46a9b45bb143e83500f6709101d) and follow the opt-out instructions. 
 
 **HOW DO WE COLLECT INFORMATION AND WHAT INFORMATION DO WE COLLECT?**
 
@@ -83,7 +81,7 @@ We may use your information to operate the website promotion, service your accou
 
 **Marketing**
 
-We may use your information in our online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs, [click here](http://www.money4nowusa.com/unsubscribe.aspx) and follow the opt-out instructions. 
+We may use your information in our online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs, [click here](http://www.optout-blgl.net/o-lglb-c11-d78ec46a9b45bb143e83500f6709101d) and follow the opt-out instructions. 
 
 **HOW DO WE SHARE INFORMATION?**
 
@@ -111,7 +109,7 @@ We may use third party ad networks or ad serving companies to serve advertisemen
 
 Marketing Partners 
 
-We may share, license or sell your information to third parties for various marketing purposes, including their online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs, [click here](http://www.money4nowusa.com/unsubscribe.aspx) and follow the opt-out instructions. 
+We may share, license or sell your information to third parties for various marketing purposes, including their online (e.g., e-mail marketing) and offline (e.g., telemarketing, cell phone text messaging, skip tracing, and direct mail) marketing programs. If you would like to be removed from these programs, [click here](http://www.optout-blgl.net/o-lglb-c11-d78ec46a9b45bb143e83500f6709101d) and follow the opt-out instructions. 
 
 Data Enhancement/Appending/Validation 
 
@@ -141,7 +139,7 @@ Should the Company choose to sell or transfer business assets, it is possible th
 
 **Marketing Communications**
 
-By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications from the Company and its third party marketing partners, you can discontinue the communications by clicking [here](http://www.money4nowusa.com/unsubscribe.aspx) and following the opt-out instructions. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account. 
+By completing and submitting a Company registration form, you are consenting to receive marketing communications from the Company and its third party marketing partners. If, after you have shared your information with the Company, you decide that you do not want to receive marketing communications from the Company and its third party marketing partners, you can discontinue the communications by clicking [here](http://www.optout-blgl.net/o-lglb-c11-d78ec46a9b45bb143e83500f6709101d) and following the opt-out instructions. If you have registered or submitted information under more than one e-mail account, you must submit separate unsubscribe requests for each account. 
 
 **WHAT HAPPENS IF I HIT A LINK TO ANOTHER SITE FROM A COMPANY WEBSITE?**
 
@@ -163,7 +161,4 @@ There is no such thing as complete security on the Internet or otherwise. The Co
 
 Effective Date: June 2009 
 
-MoneyNowUSA  
-480-365-0335  
-17470 N Pacesetter Way  
-Scottsdale, AZ 85255
+MoneyNowUSA, Blue Global LLC
