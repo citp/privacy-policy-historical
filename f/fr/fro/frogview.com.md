@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frogview.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602193711id_/http%3A//frogview.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frogview.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201205411id_/http%3A//frogview.com/privacy.php) for the most accurate reproduction.*
 
 # ::Frogview.com::
 
