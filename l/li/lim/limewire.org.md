@@ -1,74 +1,79 @@
-> *The following text is extracted and transformed from the limewire.org privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603014122id_/http%3A//www.limewire.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limewire.org privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202001035id_/http%3A//www.officedrop.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Lime Wire
+# Privacy Policy | OfficeDrop
 
-##### Effective Date: July 22, 2009
+## Last modified: February 15, 2010
 
-Lime Wire LLC ("Lime Wire") is the author and distributor of the LimeWire file-sharing software available at www.limewire.com (both LimeWire BASIC and LimeWire PRO) (the "Program"), the owner and operator of the Lime Wire website located at www.limewire.com and the owner and operator of the LimeWire Store located at www.store.limewire.com (the "Lime Wire Websites"). This privacy statement comprises the privacy policy ("Privacy Policy") of Lime Wire applicable to the information you provide to us or that we collect on the Lime Wire Websites, through Lime Wire Customer Support or through your purchases of, interactions with, or use of the Program (your "User Information"). As described further below, User Information may include information that identifies you personally ("Personally-Identifiable Information"). This Privacy Policy describes how we collect, use and handle User Information, including Personally-Identifiable Information.
+[](http://www.truste.org/ivalidate.php?url=www.officedrop.com&sealid=101)
 
-Your right to privacy and data security is a primary concern to us, and that’s why we strive to ensure that every user experience is safe and secure. By visiting www.limewire.com or installing the Program, you are accepting the terms set forth in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, do not visit the Lime Wire Website or download and install the Program.
+[Click here](https://web.archive.org/security/) to know more about security.
 
-### The User Information We Collect and How We Use It
+We recognize that your privacy is critical, especially given that we aggregate your personal and protected information. We will do everything we can to protect your privacy and preserve your trust.
 
-Your User Information helps us personalize and continually improve your user experience. Depending on how you use the Lime Wire Website, the Program or other Lime Wire products and services, we may collect the following User Information from you:
+OfficeDrop is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site http://www.pixily.com and http://www.officedrop.com. Because OfficeDrop wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-  * **Information You Give Us:** We receive and store any Personally-Identifiable Information you give us in any way, for example, by telephone or email, or when you register for or purchase the Lime Wire Program or other products, or communicate with customer service or support. Such Personally-Identifiable Information may include, for example, your name, address, phone numbers, credit card information, stated reason for requesting Customer or Technical Support, or the contents of any electronic communications. We use the information you provide for such purposes as responding to your requests, customizing your user experience, improving the Program, and communicating with you, but it may also be used to analyze trends, administer the site, track user problems and contribute to the gathering of broad demographic information for anonymous aggregate use.
-  * **Information We Collect:** We receive and store certain types of User Information whenever you interact with the Lime Wire Websites , the Program or other Lime Wire products and services, for example, information about your computer’s connection to the Internet, the Gnutella peer-to-peer network, and other users of the Gnutella peer-to-peer network; computer and connection information such as browser or Program type, version, and time zone setting, browser plug-in types and versions, operating system, and platform; information about your visits to, interactions with or use of the Lime Wire Websites, the Program or other products and services, for example the frequency and manner in which you use the Program or products as well as Program or product performance and operations, and your responses to the offerings and advertisements presented to you. We will only use this data (i) on an aggregated basis with that of other users for general business purposes, such as: site analysis and ad sales; operating and improving the Lime Wire Websites, the Program or other products and services (for example, fighting spam and improving the functionality of the Program); identifying or remediating possible threats to your safety, security, privacy, or to your computer’s security, and (ii) in combination with data we collect or that you give us relative to your use of the Lime Wire Websites, the Program or other products and services, in order to help us personalize your own experience with the Lime Wire Websites, the Program or other products and services, and for other service-related purposes. Users should be aware that whenever they use the Internet both static and dynamic IP addresses can be mapped back to users on most ISPs based on the user’s login time and recorded information.
-  * **Cookies:** Like many web sites, we use "cookies" to enable our systems to recognize your browser and to improve the services we provide to you. We do not use cookies to track your surfing habits and activities outside of our web sites. Cookies can be easily and safely deleted from your system (see your browser's help section for instructions). You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. If you choose not to allow us to place a cookie on your hard drive, you may be restricted from some pages and services on the Lime Wire Websites.
-  * **Search Queries:** As with all programs that connect you to public peer-to-peer based networks ("P2P Network(s)"), it is possible for your search queries (i.e., the word or phrase that you search for) to be viewed or "listened" to by other users accessing the P2P Network. This is true of all programs that enable access to P2P Networks. When you input a search query into the Program, Lime Wire may in certain instances listen to or collect this search query.
-  * **GUID:** A Globally Unique Identifier (GUID) is an alphanumeric identifier used to indicate a unique installation of a product, and is found in many popular software applications such as web browsers and media players. Lime Wire uses GUIDs for aggregate statistical analysis and to personalize its products and services.
-  * **Instant Messaging:** Lime Wire does not read your private online communications when you use communications tools in the Program. Please remember, however, that if you use these tools to disclose information about yourself publicly (for example, in public chat forums or online message boards on or connected to our web sites), other online users may obtain access to any information you provide. Use of third-party Instant Messaging services, platforms or applications (such as Gmail™) is subject to the terms and policies of the third-party service provider. Lime Wire is not responsible for the privacy practices of such third-parties.
+If you have questions or concerns regarding this statement, you should first contact Anand Rajaram at anandrajaram@officedrop.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns.
 
+## What we collect:
 
-
-↑ Back to Top
-
-Lime Wire does not sell or rent to others, share with others or otherwise disclose to others User Information except as set forth herein. We may share User Information with subsidiaries or affiliates under common ownership or control with Lime Wire LLC and that are subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Policy. We may, at our election and without further notice to you, share the User Information we collect with our partners and advertisers. In such cases, the information will be presented in an anonymous manner that is not linked to any Personally-Identifiable Information that can identify any individual person. Additionally Lime Wire may share information as follows:
-
-  * **Business Transfers:** In the event that ownership of Lime Wire was to change for any reason, your User Information may be transferred.
-  * **Protection of Lime Wire and Others:** We release account and other User Information when we believe its release is appropriate to comply with or assist law enforcement or legal process; enforce or apply our End User License Agreement and other agreements; or protect the rights, property, or safety of Lime Wire, our users, or others. This does not include selling, renting, sharing, or otherwise disclosing User Information for commercial purposes in violation of the commitments set forth in this Privacy Policy.
-  * **With Your Consent:** Other than as set out above, you will receive notice when your Personally-Identifiable Information might go to third parties, and we will provide notice about the choices you have to decline to permit such a transfer.
+  * Information you provide: When you sign up for a OfficeDrop Account promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). We use this information only to provide you the service that we offer and do not use such personally identifiable information it for other purposes. If you are a guest user accessing OfficeDrop without a OfficeDrop account (such as viewing a document that a OfficeDrop user shared with you), we use your email address for authentication purposes only. 
+  * Cookies: We use "cookies" (small files placed on your hard drive) on certain of our pages to help analyze our web page flow; customize our services, measure promotional effectiveness, and promote trust and safety. A few important things you should know about cookies are that: 
+    * We use cookies to help identify you and maintain your signed-in status. 
+    * Our cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session.
+    * You are always free to decline our cookies if your browser permits, although doing so may interfere with your use of some of our sites or services.
+  * Logs: Our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser 
+  * User communications: When you send email or other communication to OfficeDrop, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
+  * Newsletters: You may choose to modify your email notification preferences by clicking on the “Preferences” link in your Account page (which can accessed by clicking the under the “account” link in the navigation bar).   
+Any passive information collected (for example via cookies) is not linked back to personally identifiable information, and is only used at an aggregated level. We may contact you based on information identified from our logs, but this will only be for providing information we feel that you need to be aware of (such as system level errors that you may not have noticed in the application etc,.) 
 
 
 
-↑ Back to Top
+## Sharing with third parties
 
-### How Secure is Information About You?
+We don't sell or rent your personal information to third parties without your explicit consent. We may disclose personal information to respond to legal requirements, enforce our policies, respond to claims, or protect anyone's rights, property, or safety. We may also share your personal information with:
 
-To help protect Personally-Identifiable Information in Lime Wire’s possession, we use a variety of appropriate safeguards, including:
-
-  * Technical, administrative, and physical controls.
-  * Authorization systems.
-  * Agreements with contractors and vendors requiring them to protect the confidentiality, safety, and security of your user information.
-
+  * Service providers under contract who help with our business operations (such as web analytics, online customer service, fraud investigations, bill collection, credit card processors, affiliate and rewards programs and co-branded credit cards).
+  * Other third parties to whom you explicitly ask us to send your information (or about whom you are otherwise explicitly notified and consent to when using a specific service). 
+  * Law enforcement or other governmental officials, in response to a verified request relating to a criminal investigation, court order, subpoena, warrant or alleged illegal activity. In such events, we will disclose information relevant to the investigation.
+  * Other business entities, should we plan to merge with or be acquired by that business entity. (Should such a combination occur, we will require that the new combined entity follow this privacy policy with respect to your personal information. If your personal information will be used contrary to this policy, you will receive prior notice.)
 
 
-Lime Wire has established these safeguards to help prevent unauthorized access to or misuse of your User Information, but cannot guarantee that your User Information will never be disclosed in a manner inconsistent with this Privacy Policy (for example, as a result of unauthorized acts by third parties that violate applicable law or the policies of Lime Wire and its affiliates).
 
-↑ Back to Top
+Without limiting the above, in an effort to respect your privacy, we will not otherwise disclose your personal information to law enforcement, other government officials, or other third parties without a subpoena, court order or substantially similar legal procedure, except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.
 
-### The LimeWire Store
+## No Spam, Spyware or Spoofing
 
-The Program enables direct access to the LimeWire Store (located at www.store.limewire.com). The LimeWire Store is a digital music store that allows you to purchase DRM-free music directly from Lime Wire. You download the music directly from Lime Wire’s secure servers, and we guarantee its quality. Use of the LimeWire Store requires you to accept additional, separate terms of service and agree to an additional, separate [privacy policy](http://www.limewire.com/legal/privacy/). Lime Wire may use the information you give us or the information we collect about you from the Lime Wire Websites and the Program in conjunction with information we collect through your use of the LimeWire Store to, among other things, improve and personalize your Lime Wire user experience.
+We do not tolerate spam. You may not use our communication tools (such as sharing documents) to send spam or otherwise send content that would violate our User Agreement. We may automatically scan and may manually filter messages to check for spam, viruses, phishing attacks and other malicious activity or illegal or prohibited content, but we do not permanently store messages sent through these tools. If you send an email through OfficeDrop (for example, while sharing documents), we do store that email to show you who you have sent the message to. We will not use that email address for any marketing purpose. We do not rent or sell these email addresses.
 
-↑ Back to Top
+## Blog
 
-### Links
+If you use a bulletin board, blog, or chat room on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
 
-The LimeWire Websites and the Program may include third-party advertising or contain and generate links to other sites and IP addresses. We do not provide any Personally-Identifiable Information to these advertisers or third-party websites.
+## Invite Friends
 
-Please be aware that Lime Wire is not responsible for the privacy practices of such other third-party websites. We encourage our users to be aware when they leave our site or link to outside IP addresses and to read the privacy statements of each and every website and IP address that collects personally identifiable information. This Privacy Policy applies solely to information collected in connection with your use of the Lime Wire Websites and the Program.
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. OfficeDrop stores this information for the sole purpose of sending this one-time email [and tracking the success of our referral program]. Your friend may contact us at support@officedrop.com to request that we remove this information from our database.
 
-↑ Back to Top
+## Account Protection
 
-### How to Contact Us
+Your password is the key to your account. Use unique numbers, letters and special characters, and do not disclose your OfficeDrop password to anyone. If you do share your password or your personal information with others, remember that you are responsible for all actions taken in the name of your account. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately notify OfficeDrop and change your password.
 
-If you have any questions about the Lime Wire Privacy Policy or its implementation, or if you have a concern or policy violation you wish to report, you may contact us at the email address [privacy@limewire.com](mailto:privacy@limewire.com). For all questions or concerns not specifically related to this Privacy Policy please visit our [contact form](http://www.limewire.com/about/contact).
+## Accessing, Reviewing and Changing Your Personal Information
 
-↑ Back to Top
+You can see, review and change most of your personal information by signing on to OfficeDrop. Generally, we will not manually modify your personal information because it is very difficult to verify your identity remotely. You must promptly update your personal information if it changes or is inaccurate. Upon your request, we will close your account and remove your personal information from view as soon as reasonably possible, and in accordance with applicable law. We do retain personal information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce the OfficeDrop User Agreement and take other actions otherwise permitted by law.
 
-### Notification of Changes
+## Online Security
 
-Lime Wire reserves the right to change, update or revise the terms of this Policy, and/or impose new conditions, policies or additional rules. If we decide to change our Privacy Policy, we will post those changes on our web site. Any such changes, together with the remainder of any unaltered version of this Privacy Policy will constitute Lime Wire's Privacy Policy at the time of such notice and will be effective immediately upon posting. Your continued use of the Lime Wire Websites or the Program following posting or notification of any such changes shall serve as your acceptance of these changes and agreement to the revised Privacy Policy.
+Your information is stored on our servers located in the United States. We treat data as an asset that must be protected and use lots of tools (encryption, passwords, physical security, etc.) to protect your personal information against unauthorized access and disclosure. (10a, 10b) All the communication between your browser and our servers is encrypted using 128-bit SSL encryption so that no one else will be able intercept the communication. We also run hacker-safe tests daily to ensure that our servers are completely hacker-proof. Personal information is known only by employees with a need-to-know (such as Customer Service personnel). However, as you probably know, third parties may unlawfully intercept or access transmissions or private communications, and other users may abuse or misuse your personal information that they collect from the site. Therefore, although we work very hard to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
 
-↑ Back to Top
+## Physical Security
+
+All the scanning happens in the United States. All personnel authorized for scanning go through background checks. Under normal load circumstances, OfficeDrop will digitize and upload the documents we receive within two working days. OfficeDrop does not guarantee this turnaround time as our load may vary due to extraordinary circumstances.
+
+## Third Parties
+
+Except as otherwise expressly included in this Privacy Policy, this document addresses only the use and disclosure of information we collect from you. Our website contains links to other sites. We are not responsible for the privacy practices of such other sites This privacy statement applies solely to information collected by this Web site.
+
+## Changes to this policy
+
+Please note that this Privacy Policy may change from time to time. We will post any material Policy changes on this page and, if the changes are significant, we will provide a more prominent notice in our home page and also notify you by email. We reserve the right to modify this privacy policy at any time, so please review it frequently. We will strive to provide a summary of the key changes and keep prior versions in an archive for your review. If you have any other questions about this policy you may contact us at support@officedrop.com or send us a letter to 180 Fawcett St, Suite One, Cambridge, MA 02138.   
+Effective Date: August 8, 2008
