@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presentjobs.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420015234id_/http%3A//www.presentjobs.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presentjobs.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201055015id_/http%3A//www.presentjobs.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Present Jobs - Jobs for Freshers and Professionals
 
