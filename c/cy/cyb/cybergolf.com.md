@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cybergolf.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604214700id_/http%3A//www.cybergolf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybergolf.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201102219id_/http%3A//www.cybergolf.com/privacy) for the most accurate reproduction.*
 
 # Cybergolf
 
