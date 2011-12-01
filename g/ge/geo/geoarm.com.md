@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the geoarm.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601235246id_/http%3A//www.geoarm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geoarm.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201155025id_/http%3A//www.geoarm.com/privacy.html) for the most accurate reproduction.*
 
 # GeoArm Privacy Policy | Rethink Security
 
-### Privacy Ensured with GeoArm.
+### Your Privacy is Ensured with GeoArm.
 
 Your privacy is very important to us. GeoArm prides itself in our commitment to the security of your data and the process by which we handle your personal information. This site has measures in place to protect against loss, misuse, and alteration of the information under our control. To better protect your privacy the following notice explains the information we collect, how it is used, how it is safeguarded, and how to contact us if you have any concerns.
 
-As part of the order process, the following information is collected from shoppers:
+### As part of the order process, the following information is collected from shoppers:
 
 GeoArm requires non-monitored clients to provide their _Name, Shipping/Billing Address, Email Address, Phone Number, and Credit/Debit Card Information_ in order to checkout. Additionally, GeoArm requires monitored clients to provide their _Social Security Number or Business Tax ID_ to begin their alarm monitoring service. All required information is never sold, leased, or otherwise made available to any non-affiliated party and is only used in connection to your business with GeoArm. The shopping cart and order platform is hosted on a secured _Yahoo! Server_ to safeguard your information; you can read the _Yahoo® Privacy Policy_ [here](http://info.yahoo.com/privacy/us/yahoo/details.html).
 
