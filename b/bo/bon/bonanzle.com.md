@@ -1,17 +1,12 @@
-> *The following text is extracted and transformed from the bonanzle.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505073253id_/http%3A//www.bonanza.com/site_help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonanzle.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201060533id_/http%3A//www.bonanza.com/site_help/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Bonanza
 
-## Your privacy
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.bonanza.com&sealid=101)
 
-| [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.bonanza.com&sealid=101)  
----|---  
-  
 At Bonanza, we take your privacy very seriously. This privacy policy applies exclusively to www.bonanza.com . Please read this policy (henceforth, "Policy") to see how Bonanza handles your personal information that you give to us when you register to use our website (the "Site"). This Policy only covers employees of Bonanza and the information we collect on the Site and does not extend to people, or companies that Bonanza does not employ or manage. We reserve the right to modify this Policy. We will notify you of substantial changes to this Policy by telling you about them in the forums. Should we make a material change to the manner in which we handle your collected personal information, we shall place a prominent notice on the Site, or notify you by email.
 
-Bonanza is a Licensee of the TRUSTe privacy program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the internet by promoting the use of fair information practices. Bonanza has elected to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe, as a testament of our commitment to your privacy.
-
-Please address your questions and concerns pertaining to the Site or this Statement to Bonanza at support@bonanza.com . Should your inquiry go unaddressed within a reasonable time frame, or if the matter hasn't been resolved to your satisfaction, please contact TRUSTe at http://www.truste.com/consumers/watchdog_complaint.php. TRUSTe shall then work as a liaison with us to resolve your concerns.
+Bonanza has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support@bonanza.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 We do not share your personal information with third parties for their promotional purposes.
 
@@ -37,7 +32,7 @@ Third Party Cookies: We may from time to time engage third parties to track and 
 
 ## How is my information used?
 
-The information collected from Bonanza Members is used to improve product offerings, customize our Site's content and layout, and for marketing and statistical effort. Occasionally, we will send you emails about new services or promotions. You can always opt-out of receiving any information from us by updating your account preferences in your account. To change access or modify any of your personal information can be accomplished by logging into your account on the Site as well. We do reserve the right to send users service and notification emails, which are considered a part of your account; given that these messages are not promotional in nature, you generally cannot opt-out of them without deleting your account.
+The information collected from Bonanza Members is used to improve product offerings, customize our Site's content and layout, and for marketing and statistical effort. Occasionally, we will send you emails about new services or promotions. You can always opt-out of receiving any information from us by updating your account preferences in your account. To change access, delete, or modify any of your personal information can be accomplished by logging into your account on the Site as well. We do reserve the right to send users service and notification emails, which are considered a part of your account; given that these messages are not promotional in nature, you generally cannot opt-out of them without deleting your account.
 
 ## Who will see my personal information?
 
@@ -73,6 +68,10 @@ We go to great lengths to protect all of your information on our Site. In order 
 
 We employ industry accepted standards in protecting your personal information during your use of the Site and have established physical and electronic safe guards to protect your information. 
 
+## Data Retention
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [email address]. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
 ## Blog Disclosure
 
 If you use a bulletin board, blog, or chat room on this website, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other members of these forums, and can be used to send you unsolicited messages. We are not responsible for the personally identifiable information that you choose to submit in these forums. 
@@ -87,4 +86,4 @@ Your opinion truly counts. Our Site was designed to serve the needs of our Membe
 
 Or by mail: 9805 NE 116th PMB #7450 Kirkland, WA, 98034
 
-Statement last updated: June 20, 2009
+Statement last updated: July 14, 2011
