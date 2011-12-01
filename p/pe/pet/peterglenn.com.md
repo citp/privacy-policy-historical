@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the peterglenn.com privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819051739id_/http%3A//www.peterglenn.com/content/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peterglenn.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202002936id_/http%3A//www.peterglenn.com/content/security-and-privacy) for the most accurate reproduction.*
 
 # Security and Privacy | Peter Glenn
+
+[Home](https://web.archive.org/) >> Security and Privacy
 
 At Peter Glenn, we are committed to protecting your privacy. We use information about you to process orders and to provide a more personalized shopping experience. We intend to give you as much control as possible over your personal information. In general, you can visit Peter Glenn over the Internet without telling us who you are or revealing any information about yourself. There are times, however, when we may need information from you, such as your name and address. It is our intent to let you know before we collect personal information from you. 
 
