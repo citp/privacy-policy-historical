@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellphoneincentives.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601205402id_/http%3A//cellphoneincentives.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2808name%26catalog_id%3D14845%26gift%3D71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellphoneincentives.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201033328id_/http%3A//www.cellphoneincentives.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2808name%26catalog_id%3D14845%26gift%3D71) for the most accurate reproduction.*
 
 # Cellphoneincentives
 
