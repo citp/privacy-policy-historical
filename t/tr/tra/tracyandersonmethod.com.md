@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tracyandersonmethod.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602235705id_/http%3A//tracyandersonmethod.com/%3Fpage_id%3D56) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tracyandersonmethod.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201110340id_/http%3A//tracyandersonmethod.com/%3Fpage_id%3D56) for the most accurate reproduction.*
 
-# Privacy » Tracy Anderson Method - Train the Method
+# Privacy » Tracy Anderson Official Site - Metamorphosis
 
 Welcome to the official website of the Tracy Anderson Method.
 
