@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goshop.com.my privacy policy that was archived on 2010-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100723024043id_/http%3A//www.goshop.com.my/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goshop.com.my privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201193406id_/http%3A//www.goshop.com.my/privacy.php) for the most accurate reproduction.*
 
 # GoShop - Colour My Life
 
