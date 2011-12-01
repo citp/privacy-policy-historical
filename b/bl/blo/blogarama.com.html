@@ -1,139 +1,202 @@
-<!--The following is the downloaded HTML source of the blogarama.com privacy policy that was archived on 2011-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110629081013id_/http%3A//www.blogarama.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blogarama.com privacy policy that was archived on 2011-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111201010645id_/http%3A//www.blogarama.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Privacy Policy - blogarama.com</title>
-<meta name="description" content="Privacy Policy - blogarama.com">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+<title>Privacy Policy - Blogarama</title>
+<meta name="description" content="Privacy Policy - Blogarama">
 <meta name="keywords" content="blog directory, blog, blogs, blog search, directory, social blogs, blog directories, the blog directory">
 <meta name="robots" content="all">
 <meta http-equiv="expires" content="0">
 <meta http-equiv="pragma" content="no-cache">
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta http-equiv="content-language" content="en">
 <link rel="stylesheet" type="text/css" href="http://www.blogarama.com/style.css">
 <link rel="shortcut icon" href="http://www.blogarama.com/favicon.ico">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.blogarama.com/js/javascript.js"></script>
+
+<script type="text/javascript" src="http://www.blogarama.com/js/jquery.pack.js"></script>
+<script type="text/javascript">
+$(function(){
+  vote_off = '<a href="#" class="like_off"></a><a href="#" class="dislike_off"></a>';
+	$("a.like").click(function(){
+ 	  the_id = $(this).attr('id');
+    $(this).parent().html(vote_off);
+		$.ajax({
+			type: "POST",
+			data: "action=like&id="+$(this).attr("id"),
+			url: "http://www.blogarama.com/files/votes.php",
+//    	url: "http://localhost/www/blogarama.com/files/votes.php",
+      success: function(msg){
+        $("div#votes_count"+the_id).fadeOut("fast");
+        $("div#votes_count"+the_id).html(msg);
+				$("div#votes_count"+the_id).fadeIn("fast");
+			}
+		});
+	});
+	$("a.dislike").click(function(){
+	  the_id = $(this).attr('id');
+  	$(this).parent().html(vote_off);
+		$.ajax({
+			type: "POST",
+			data: "action=dislike&id="+$(this).attr("id"),
+			url: "http://www.blogarama.com/files/votes.php",
+	    //url: "http://localhost/www/blogarama.com/files/votes.php",
+      success: function(msg){
+				$("div#votes_count"+the_id).fadeOut("fast");
+				$("div#votes_count"+the_id).html(msg);
+				$("div#votes_count"+the_id).fadeIn("fast");
+			}
+		});
+	});
+});	
+</script>
+
 </head>
 <body>
-<div id="container">
-  <div id="headerFrame">
-    <div id="logo">
-      <img src="http://www.blogarama.com/images/logo.png" width="234" height="89" alt="Blog Directory" title="Blog Directory">
-    </div>
-      <div id="bannerad">
-	<a href="http://www.blogarama.com/bannerad/19/"><img src="http://www.blogarama.com/images/banners/468x60_brandentiti.png" width="468" height="60" alt="Ultra brandable domains for sale" title="Ultra brandable domains for sale"></a>
+<div id="headTop"></div>
+<div id="headFrame" class="container">
+  <div class="left logo">
+    <img src="http://www.blogarama.com/images/logo.png" alt="Blogarama - The Blog Directory" height="60" title="Blogarama - The Blog Directory" width="250">
   </div>
+  <div class="right banner">
+    <a href="http://www.blogarama.com/bannerad/21/"><img src="http://www.blogarama.com/images/banners/apps_europe_468x60.gif" alt="Apps World 2011" height="60" width="468"></a>  </div>
+</div>
+<div id="menuFrame" class="container rndd">
+  <div id="menu">
+    <ul>
+      <li><a href="http://www.blogarama.com/" class=" rnda">Browse</a></li>
+      <li><a href="http://www.blogarama.com/most-cool-blogs/" title="Most Cool Blogs" class=" rnda">Cool Blogs</a></li>
+      <li><a href="http://www.blogarama.com/most-popular-blogs/" title="Most Popular Blogs" class=" rnda">Most Popular Blogs</a></li>
+      <li><a href="http://www.blogarama.com/link-to-us/" class=" rnda">Link To Us</a></li>
+              <li><a href="http://www.blogarama.com/signup/" class="join rnda">Submit Your Blog</a></li>
+            </ul>
+  </div>
+</div>
+<div id="navFrame" class="container">
+  <div id="nav">
+    <div class="left">
+      <div class="member rndd">
+                      <p>Welcome guest, please login or <a href="http://www.blogarama.com/signup/">signup</a>!</p><br>
+            <form action="http://www.blogarama.com/login/" method="post" id="login" class="rndf">
+              <div class="row">
+                <div class="field"><label>Email</label></div> <input type="text" name="email" value=""><br>
+              </div>
+              <div class="row">
+                <div class="field"><label>Password</label></div> <input type="password" name="password" value=""> <input type="submit" name="doLogin" value="Login">
+              </div>
+            </form>
+                  </div>
     </div>
-  <div id="content">
-    <div>
-      <div id="contentTopLeft">
-        <div class="dialog">
-          <div class="content">
-            <div class="t"></div>
-                          <p class="title"><span class="grey">Member</span> <span class="green">Login</span></p>
-              <form action="http://www.blogarama.com/login/" method="post">
-                <input type="hidden" name="login_submit" value="1">
-                <table cellpadding="3" cellspacing="0" border="0">
-                <tbody><tr>
-                  <td><label>Email</label></td>
-                  <td><input type="text" name="email" value="" maxlength="50" class="login"></td>
-                </tr>
-                <tr>
-                  <td><label>Password</label></td>
-                  <td><input type="password" name="password" value="" maxlength="15" class="login"></td>
-                </tr>
-                <tr>
-                  <td><label>&nbsp;</label></td>
-                  <td><input type="image" src="http://www.blogarama.com/images/login.png"></td>
-                </tr>
-                <tr>
-                  <td colspan="2" align="center"><a href="http://www.blogarama.com/add-a-site/" title="register now!">Not yet registered?</a></td>
-                </tr>
-                </tbody></table>
-              </form>
-                        </div>
-          <div class="b"><div></div></div>
-        </div>
-      </div>
-      <div id="contentTopRight">
-        <div id="menu">
-          <ul>
-            <li><a href="http://www.blogarama.com">Browse</a></li>
-            <li><a href="http://www.blogarama.com/most-cool-blogs/">Cool</a></li>
-            <li><a href="http://www.blogarama.com/most-popular-blogs/">Popular</a></li>
-            <li><a href="http://www.blogarama.com/highly-rated-blogs/">Rated</a></li>
-            <li><a href="http://www.blogarama.com/link-to-us/">Link To Us</a></li>
-          </ul>
-        </div>
-        <div id="searchFrame">
-          <form method="post" action="http://www.blogarama.com/">
-            <table cellpadding="0" cellspacing="0" border="0">
+    <div class="right">
+      <div id="searchFrame">
+        <form action="http://www.blogarama.com/" method="post" id="search" class="rndf">
+
+          <table border="0" cellpadding="0" cellspacing="0">
             <tbody><tr>
-              <td><a href="http://www.blogarama.com/xfilter-off/" rel="nofollow">Xfilter On</a> (<a href="http://www.blogarama.com/what-is-xfilter/" rel="nofollow">?</a>)</td>
-              <td colspan="2">&nbsp;</td>
+              <td><a href="#" onclick="togFilter(this); return false;" id="filterText" class="filterClassOn">Adult Filter On</a></td>
+              <td>&nbsp;</td>
             </tr>
             <tr>
-              <td><input type="text" name="search_term" value="" maxlength="200" class="search"></td>
-              <td><input type="image" name="search_submit" src="http://www.blogarama.com/images/search.png"></td>
-              <td align="left">
-                                <input type="radio" name="search_type" value="exact" checked="checked">exact match<br>
-                <input type="radio" name="search_type" value="any">any match
-              </td>
+              <td><input type="text" name="search" value=""></td>
+              <td><input type="submit" name="doSearch" value="Search"></td>
             </tr>
             <tr>
               <td>
-                                <span class="red">204,054</span> sites listed
-              </td>
-              <td colspan="2">&nbsp;</td>
+              <strong>208,558</strong> Sites Listed              </td>
+              <td>&nbsp;</td>
             </tr>
-            </tbody></table>
-          </form>
-        </div>
+          </tbody></table>
+
+        </form>
       </div>
-    </div>
-          <div id="contentBottom">
-        <div id="contentBottomAll">
-            <h1>Privacy Policy</h1>
-      <p>Our mission is to meet the expectancies of our advertisers as well as the users of our other resources. In an effort to achieve our goal, we would like to clearly define our position with regard to the internet, our web site and your identity. The following outlines our information gathering and disbursement procedures for our site located at <a href="http://www.blogarama.com/">blogarama.com</a>.</p>
+    </div>  
+  </div>
+</div>
+<!-- body /-->
+<div id="bodyFrame" class="container">
+  <div id="body">
+    <h1>Privacy Policy</h1><p>Our mission is to meet the expectancies of our advertisers as well as the users of our other resources. In an effort to achieve our goal, we would like to clearly define our position with regard to the internet, our web site and your identity. The following outlines our information gathering and disbursement procedures for our site located at <a href="http://www.blogarama.com/">Blogarama.com</a>.</p>
 <p>To improve our service to the marketplace, we use your IP address to help troubleshoot problems with various technology, including our servers, and to deploy our web site. Certain functionality on our site, including submit form(s), require you to give us contact information. this contact information including name, e-mail address, etc. is used for the benefit of all so that we may communicate important information about our services and your account.</p>
 <p>Unless otherwise agreed to by electronic signature, information about you is not shared with outside organizations or sold to any other third parties. Although we deploy leading technology to protect against misuse of your information and encourage our business partners and affiliates to maintain the highest standards, we do not have control over information not directly relating to our site.</p>
-<p>You should consider any communication that you transmit to blogarama.com (such as data, questions or answers, comments, or suggestions) as non-confidential, and agree that blogarama.com will not be liable or responsible if information that belongs to you is intercepted and used by an unintended recipient.</p>
+<p>You should consider any communication that you transmit to Blogarama.com (such as data, questions or answers, comments, or suggestions) as non-confidential, and agree that Blogarama.com will not be liable or responsible if information that belongs to you is intercepted and used by an unintended recipient.</p>
 <h3>Third Party Cookies</h3>
-<p>In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.</p>      </div>
-          </div>
-  </div>
+<p>In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.</p>  </div>
 </div>
-
-<div style="clear:both; overflow:hidden;"></div>
-
+<div id="bodyFoot" class="container"></div>
+<!-- foot /-->
 <div id="footerFrame">
-  <div id="footer">
-    <a href="http://www.blogarama.com/blog-advertising/" title="Advertising">Advertising</a> |
-    <a href="http://www.blogarama.com/contact-us/" title="Contact Us">Contact Us</a> |
-    <a href="http://www.blogarama.com/faq/" title="FAQ">FAQ</a> |
-    <a href="http://www.blogarama.com/terms-of-service/" title="Terms of Service" rel="nofollow">Terms of Service</a> |
-    <a href="http://www.blogarama.com/privacy-policy/" title="Privacy Policy" rel="nofollow">Privacy Policy</a>
-	  <p class="copyright">© 2002 - 2011 Blogarama.com. All rights reserved.</p>
-    <p>
-    <a href="http://validator.w3.org/check?uri=referer" title="Valid XHTML" rel="nofollow"><img src="http://www.blogarama.com/images/valid_xhtml_80x15.png" alt="Valid XHTML" title="Valid XHTML" width="80" height="15"></a>
-    <a href="http://jigsaw.w3.org/css-validator/check/referer" title="Valid CSS" rel="nofollow"><img src="http://www.blogarama.com/images/valid_css_80x15.png" alt="Valid CSS" title="Valid CSS" width="80" height="15"></a>
-    </p>
-
-    <p><i>
-        This page took a total of <b>0.0079</b> seconds to generate.<br>
-    A total of <b>3</b> database queries were made.<br>
-    The queries took <b>0.0027</b> seconds to execute.<br>
-    The scripts took <b>0.0052</b> seconds to execute.<br>
-    </i></p>
-    
-    <p></p>
+  <div id="footer" class="container">
+    <div class="colFrame">
+      <div class="col25">
+        <h3>Blogging <span class="normal">Essentials</span></h3>
+        <a href="http://www.blogarama.com/articles/setting-up-your-blog/" title="Setting up your Blog">Setting up your Blog</a><br>
+        <a href="http://www.blogarama.com/articles/using-your-passion/" title="Using your Passion">Using your Passion</a><br>
+        <a href="http://www.blogarama.com/articles/driving-traffic-to-your-blog/" title="Driving Traffic to your Blog">Driving Traffic to your Blog</a><br>
+        <a href="http://www.blogarama.com/articles/keeping-content-fresh/" title="Keeping Content Fresh">Keeping Content Fresh</a><br>
+        <a href="http://www.blogarama.com/articles/avoid-blogging-burnout/" title="Avoid Blogging Burnout">Avoid Blogging Burnout</a>
+      </div>
+      <!--
+      <div class="col25">
+        <h3>Blogging <span class="normal">Trends</span></h3>
+        <a href="#">test</a><br />
+        <a href="#">test</a><br />
+        <a href="#">test</a><br />
+        <a href="#">test</a><br />
+        <a href="#">test</a><br />
+      </div>
+      /-->
+      <div class="col25">
+        <h3>Blog <span class="normal">Promotion</span></h3>
+        <a href="http://www.blogarama.com/promotion/innovative-blog-promotion/" title="Innovative Blog Promotion">Innovative Blog Promotion</a><br>
+        <a href="http://www.blogarama.com/promotion/blogging-riches-unleashed/" title="Blogging Riches Unleashed">Blogging Riches Unleashed</a><br>
+      </div>
+      <div class="col25">
+        <h3>Media <span class="normal">Partners</span></h3>
+        <a href="http://www.apps-world.net/europe/">Apps World London</a><br>
+        <div class="partner">Discover the future of multi-platform apps at Apps World London 29-30 November</div>
+      </div>
+    </div>
+    <div id="foot" class="rndd">
+      <div class="left">
+    	  © 2002 - 2011 Blogarama.com <span>•</span>
+        All rights reserved <span>•</span>
+        <a href="http://validator.w3.org/check?uri=referer">XHTML</a> <span>•</span>
+        <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a>
+      </div>
+      <div class="right">
+        <a href="http://www.blogarama.com/blog-advertising/" title="Blog Advertising">Advertising</a> <span>•</span>
+        <a href="http://www.blogarama.com/contact-us/">Contact Us</a> <span>•</span>
+        <a href="http://www.blogarama.com/faq/">FAQ</a> <span>•</span>
+        <a href="http://www.blogarama.com/privacy-policy/">Privacy Policy</a> <span>•</span>
+        <a href="http://www.blogarama.com/terms-of-service/">Terms of Service</a>
+      </div>
+    </div>
+    <!--
+		<div id="locale">
+      <a href="#"><img src="http://www.blogarama.com/images/ico-us.png" alt="" height="11" width="16" /> English</a>
+      <a href="#"><img src="http://www.blogarama.com/images/ico-es.png" alt="" height="11" width="16" /> Español</a>
+      <a href="#"><img src="http://www.blogarama.com/images/ico-cn.png" alt="" height="11" width="16" /> 简体</a>
+      <a href="#"><img src="http://www.blogarama.com/images/ico-cn.png" alt="" height="11" width="16" /> 繁體</a>
+    </div>
+    /-->
+    <br>
+        Page generated in <strong>0.0072</strong> seconds (<strong>3</strong> Queries took <strong>0.0007</strong>, PHP took <strong>0.0065</strong>)
+    <br><br>
+        <br>
   </div>
 </div>
   <script type="text/javascript">
-  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-  </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-  <script type="text/javascript">
-  var pageTracker = _gat._getTracker("UA-6204304-1");
-  pageTracker._trackPageview();
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-6209690-33']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
   </script>
   
 </body></html>
