@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ecopywriters.com privacy policy that was archived on 2011-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110502023736id_/http%3A//www.ecopywriters.com/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ecopywriters.com privacy policy that was archived on 2011-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111201190543id_/http%3A//www.ecopywriters.com/legal/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" class="cufon-active cufon-ready"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=8">
@@ -12,49 +12,136 @@
   <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
   <title>Privacy Policy - ECOPYWRITERS</title>
   <link href="/templates/ecopywriters/favicon.ico" rel="shortcut icon" type="image/x-icon">
-  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/media/system/js/mootools.js"></script>
   <script type="text/javascript" src="/media/system/js/caption.js"></script>
 
 <link rel="stylesheet" href="/templates/ecopywriters/css/style.css" type="text/css">
+<link type="text/css" rel="stylesheet" href="/templates/ecopywriters/colorbox.css">
 <script type="text/javascript" src="/templates/ecopywriters/script/jquery-1.4.2.min.js"></script> 
+<script type="text/javascript" src="/templates/ecopywriters/script/jquery.colorbox.js"></script> 
 <script type="text/javascript" src="/templates/ecopywriters/script/cufon-yui.js"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
-<script type="text/javascript" src="/templates/ecopywriters/script/arial_black.font.js"></script>
+<script type="text/javascript" src="/templates/ecopywriters/script/Arial_Rounded_MT_Bold_700.font.js"></script>
 <script type="text/javascript" src="/templates/ecopywriters/script/verdananew.font.js"></script>
 <script type="text/javascript" src="/templates/ecopywriters/script/scripts.js"></script>
+<script type="text/javascript" src="/templates/ecopywriters/script/loopslider.js"></script>
+<script src="/templates/ecopywriters/script/scroll.js" type="text/javascript"></script>
+<script type="text/javascript" charset="utf-8">
+  jQuery(document).ready(function($) {
+		$.noConflict();
+		$.fn.loopedSlider.defaults.addPagination = false;
+		$("#loopedSlider").loopedSlider();
+		
+		$('#slider1').bxSlider({
+				displaySlideQty: 5,
+				moveSideQty: 1
+			});
+			
+			
+			
+			$("#submitjsetting").click(function(event){
+	var valid=0;
+	msg = "";
+	if ((document.getElementsByName("fname")[0].value == "") || (document.getElementsByName("fname")[0].value == null))
+	{
+		valid++;
+		msg += "Please Enter your First Name\n";
+	}
+	if ((document.getElementsByName("lname")[0].value == "") || (document.getElementsByName("lname")[0].value == null))
+	{
+		valid++;
+		msg += "Please Enter your Last Name\n";
+	}
+	if ((document.getElementsByName("email")[0].value == "") || (document.getElementsByName("email")[0].value == null))
+	{
+		valid++;
+		msg += "Please Enter your Email Address\n";
+	}
+	if ((document.getElementsByName("phone")[0].value == "") || (document.getElementsByName("phone")[0].value == null))
+	{
+		valid++;
+		msg += "Please Enter your Phone Number\n";
+	}
+	if ((document.getElementsByName("paypal_account")[0].value == "") || (document.getElementsByName("paypal_account")[0].value == null))
+	{
+		valid++;
+		msg += "Please Enter your Paypal Address\n";
+	}
+	if ((document.getElementsByName("profile_bio")[0].value == "") || (document.getElementsByName("profile_bio")[0].value == null))
+	{
+		valid++;
+		msg += "Please Enter your bio information\n";
+	}
+	if ((document.getElementsByName("password")[0].value == "") || (document.getElementsByName("password")[0].value == null))
+	{
+		valid++;
+		msg += "Please Enter your Password\n";
+	}
+	if (((document.getElementsByName("category1")[0].value == "") || (document.getElementsByName("category1")[0].value == null)) || ((document.getElementsByName("category2")[0].value == "") || (document.getElementsByName("category2")[0].value == null)) || ((document.getElementsByName("category3")[0].value == "") || (document.getElementsByName("category3")[0].value == null)) || ((document.getElementsByName("category4")[0].value == "") || (document.getElementsByName("category4")[0].value == null))  || ((document.getElementsByName("category5")[0].value == "") || (document.getElementsByName("category5")[0].value == null)))
+	{
+		valid++;
+		msg += "Please select 5 subject areas\n";
+	}
+	
+	if (valid > 0)
+	{
+		alert(msg);
+		event.preventDefault();
+		return false;
+	}
+	$('#saveprofilecupdate').submit();
+	return true;
+	
+});
+
+
+	
+			
+		
+	
+	
+	
+	});
+</script>
+
+
 <!-- Art 06.09.10 Moved js FORM checks to main.js -->
 <script type="text/javascript" src="/templates/ecopywriters/script/main.js"></script>
-<script type="text/javascript">
+<script>jQuery.noConflict();</script>
+
+
+
+
+<script>
 function user_logout()
 {
 	// Art 06.24.10 Submit logout form for Authors & Clients
 	//document.mod_login_logoutform.submit();
+	//alert('testing logout');
 	document.getElementById('mod_login_logoutform').submit();
 }
 
 Cufon.replace('h1');
 </script>
 </head>
-<body>
+<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear:left"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden;" class=""></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear:left"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; width:9999px; visibility:hidden; display:none"></div></div>
 	<p><a class="skiplink" href="#content">Skip over navigation</a></p>
 	<div id="wrapper">
 		<!-- Header -->
 		<div id="header">
 						<a id="logo" href="/">Ecopywriters.com</a>
-			<form id="searchform" action="/search.html" method="post">
-				<fieldset>
-					<div class="telephone"><cufon class="cufon cufon-canvas" alt="1-858-764-7255" style="width: 196px; height: 23px;"><canvas width="206" height="23" style="width: 206px; height: 23px; top: 1px; left: -1px;"></canvas><cufontext>1-858-764-7255</cufontext></cufon></div>
-					<input style="margin-top:-5px;" class="txt" name="search" id="search" type="text" value="search" onfocus="if(this.value=='search') this.value=''" onblur="if(this.value=='') this.value='search';"><input style="margin-top:-5px;" class="btn" type="submit" value="">
-				</fieldset>
+			<div id="searchform">
+					<div class="telephone">Call Us: 1-858-345-1935</div>
+                    <div>					<a href="https://my.ecopywriters.com" title="MY ECOPYWRITERS Portal"><img src="/templates/ecopywriters/images/client_login.png"></a>
+                    <a href="/login/" title="Copywriter Portal"><img src="/templates/ecopywriters/images/copywriter_login.png"></a>
+                    </div>
 			<!-- span><img src="/images/spacer.gif" height="0" width="180" border="0"></span -->
-			<div style="height:6px;"></div>
-			<div><a href="/about/">About Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/center/">Copywriter Center</a></div> 
-			</form><!-- /Search -->
+			</div><!-- /Search -->
 						<ul id="nav">
-				<li><a class="nav1" href="/services/">Services</a></li>
-				<li><a class="nav2" href="/portfolio/">Portfolio</a></li>
-				<li><a class="nav3" href="/how/">How It Works</a></li>
-				<li><a class="nav4" href="/pricing/">Pricing</a></li>
-				<li><a class="nav5" href="/start/">Get Started</a></li>
+				<li><a class="nav1" href="/copywriter.html">Copywriters</a></li>
+                <li><a class="nav2" href="/features.html">Features</a></li>
+				<li><a class="nav3" href="/how-it-works.html">How It Works</a></li>
+				<li><a class="nav4" href="/pricing.html">Pricing</a></li>
+				<li><a class="nav5" href="/about/contacts.html">Copywriter</a></li>
 			</ul>
 					</div>
 		
@@ -63,7 +150,7 @@ Cufon.replace('h1');
 		
 		<div id="subcontent">
 			<div id="leftcol">
-				<div id="sidenav">
+				<div id="sidenav" style="display:block;">
                     					<div class="box-top">
 					<a href="/legal/" style="text-decoration:none;"><h3><cufon class="cufon cufon-canvas" alt="Legal" style="width: 38px; height: 12px;"><canvas width="49" height="15" style="width: 49px; height: 15px; top: -2px; left: 0px;"></canvas><cufontext>Legal</cufontext></cufon></h3></a>
 					</div>
@@ -79,9 +166,7 @@ Cufon.replace('h1');
 									</div><!-- /Sidenav -->
 				<!-- a class="livechat2" href="#"><img src="/images/pic-livechat3.png" width="210" height="113" alt="live chat" /></a -->
 <!-- Art 06.03.10 Add live chat button- don't forget to add padding to the next ul -->
-<!-- BEGIN ProvideSupport.com Custom Images Chat Button Code -->
-<div id="ci31qd" style="z-index:100;position:absolute"></div><div id="sc31qd" style="display:inline"></div><div id="sd31qd" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/ecopywriters/safe-standard.js?ps_h=31qd&amp;ps_t=1580410226559&amp;online-image=http%3A//www.ecopywriters.com/images/pic-livechat3.png&amp;offline-image=http%3A//www.ecopywriters.com/images/pic-livechat3.png"></script></div><script type="text/javascript">var se31qd=document.createElement("script");se31qd.type="text/javascript";var se31qds=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/ecopywriters/safe-standard.js?ps_h=31qd&ps_t="+new Date().getTime()+"&online-image=http%3A//www.ecopywriters.com/images/pic-livechat3.png&offline-image=http%3A//www.ecopywriters.com/images/pic-livechat3.png";setTimeout("se31qd.src=se31qds;document.getElementById('sd31qd').appendChild(se31qd)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=ecopywriters">Online Support Chat</a></div></noscript>
-<!-- END ProvideSupport.com Custom Images Chat Button Code -->
+
 				<div id="assoclogos" style="padding-top: 12px;">
 					<div class="leftrbox-top"></div>
 					<div class="leftrbox-bod">
@@ -115,29 +200,14 @@ Cufon.replace('h1');
 				</div><!-- /Case Literature -->
 							</div><!-- /Leftcol -->
 						<div id="maincol">
-				<div id="mast-level3">
+				<div id="mast-level3c">
 				    					<form id="frm_interest" method="post" action="/thank-you.html" onsubmit="return quick_form_verify3()">
 						<fieldset>
-												<h2><cufon class="cufon cufon-canvas" alt="Get " style="width: 55px; height: 24px;"><canvas width="79" height="31" style="width: 79px; height: 31px; top: -5px; left: -1px;"></canvas><cufontext>Get </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Started " style="width: 108px; height: 24px;"><canvas width="132" height="31" style="width: 132px; height: 31px; top: -5px; left: -1px;"></canvas><cufontext>Started </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Today!" style="width: 91px; height: 24px;"><canvas width="114" height="31" style="width: 114px; height: 31px; top: -5px; left: -1px;"></canvas><cufontext>Today!</cufontext></cufon></h2>
-												<p><cufon class="cufon cufon-canvas" alt="Please " style="width: 47px; height: 13px;"><canvas width="57" height="16" style="width: 57px; height: 16px; top: -3px; left: 0px;"></canvas><cufontext>Please </cufontext></cufon><cufon class="cufon cufon-canvas" alt="provide " style="width: 54px; height: 13px;"><canvas width="64" height="16" style="width: 64px; height: 16px; top: -3px; left: 0px;"></canvas><cufontext>provide </cufontext></cufon><cufon class="cufon cufon-canvas" alt="us " style="width: 20px; height: 13px;"><canvas width="30" height="16" style="width: 30px; height: 16px; top: -3px; left: 0px;"></canvas><cufontext>us </cufontext></cufon><cufon class="cufon cufon-canvas" alt="with " style="width: 33px; height: 13px;"><canvas width="42" height="16" style="width: 42px; height: 16px; top: -3px; left: 0px;"></canvas><cufontext>with </cufontext></cufon><cufon class="cufon cufon-canvas" alt="some " style="width: 41px; height: 13px;"><canvas width="50" height="16" style="width: 50px; height: 16px; top: -3px; left: 0px;"></canvas><cufontext>some </cufontext></cufon><cufon class="cufon cufon-canvas" alt="basic " style="width: 39px; height: 13px;"><canvas width="48" height="16" style="width: 48px; height: 16px; top: -3px; left: 0px;"></canvas><cufontext>basic </cufontext></cufon><cufon class="cufon cufon-canvas" alt="information " style="width: 81px; height: 13px;"><canvas width="91" height="16" style="width: 91px; height: 16px; top: -3px; left: 0px;"></canvas><cufontext>information </cufontext></cufon><cufon class="cufon cufon-canvas" alt="about " style="width: 43px; height: 13px;"><canvas width="52" height="16" style="width: 52px; height: 16px; top: -3px; left: 0px;"></canvas><cufontext>about </cufontext></cufon><cufon class="cufon cufon-canvas" alt="your " style="width: 35px; height: 13px;"><canvas width="44" height="16" style="width: 44px; height: 16px; top: -3px; left: 0px;"></canvas><cufontext>your </cufontext></cufon><cufon class="cufon cufon-canvas" alt="copywriting " style="width: 81px; height: 13px;"><canvas width="91" height="16" style="width: 91px; height: 16px; top: -3px; left: 0px;"></canvas><cufontext>copywriting </cufontext></cufon><cufon class="cufon cufon-canvas" alt="needs " style="width: 44px; height: 13px;"><canvas width="54" height="16" style="width: 54px; height: 16px; top: -3px; left: 0px;"></canvas><cufontext>needs </cufontext></cufon><cufon class="cufon cufon-canvas" alt="and " style="width: 30px; height: 13px;"><canvas width="39" height="16" style="width: 39px; height: 16px; top: -3px; left: 0px;"></canvas><cufontext>and </cufontext></cufon><cufon class="cufon cufon-canvas" alt="an " style="width: 21px; height: 13px;"><canvas width="31" height="16" style="width: 31px; height: 16px; top: -3px; left: 0px;"></canvas><cufontext>an </cufontext></cufon><cufon class="cufon cufon-canvas" alt="account " style="width: 57px; height: 13px;"><canvas width="66" height="16" style="width: 66px; height: 16px; top: -3px; left: 0px;"></canvas><cufontext>account </cufontext></cufon><cufon class="cufon cufon-canvas" alt="executive " style="width: 68px; height: 13px;"><canvas width="77" height="16" style="width: 77px; height: 16px; top: -3px; left: 0px;"></canvas><cufontext>executive </cufontext></cufon><cufon class="cufon cufon-canvas" alt="will " style="width: 27px; height: 13px;"><canvas width="36" height="16" style="width: 36px; height: 16px; top: -3px; left: 0px;"></canvas><cufontext>will </cufontext></cufon><cufon class="cufon cufon-canvas" alt="contact " style="width: 54px; height: 13px;"><canvas width="63" height="16" style="width: 63px; height: 16px; top: -3px; left: 0px;"></canvas><cufontext>contact </cufontext></cufon><cufon class="cufon cufon-canvas" alt="you " style="width: 29px; height: 13px;"><canvas width="39" height="16" style="width: 39px; height: 16px; top: -3px; left: 0px;"></canvas><cufontext>you </cufontext></cufon><cufon class="cufon cufon-canvas" alt="shortly." style="width: 50px; height: 13px;"><canvas width="59" height="16" style="width: 59px; height: 16px; top: -3px; left: 0px;"></canvas><cufontext>shortly.</cufontext></cufon></p>
-					    						<!-- form id="frm_interest" method="post" action="/thank-you.html" onSubmit="return quick_form_verify3()" -->
-							<ul>
-							<li><label for="fname"><cufon class="cufon cufon-canvas" alt="First " style="width: 34px; height: 11px;"><canvas width="44" height="14" style="width: 44px; height: 14px; top: -2px; left: 0px;"></canvas><cufontext>First </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Name:" style="width: 43px; height: 11px;"><canvas width="52" height="14" style="width: 52px; height: 14px; top: -2px; left: 0px;"></canvas><cufontext>Name:</cufontext></cufon></label> <input id="ifname" name="ifname" class="txt1" type="text"></li>
-							<li><label for="lname"><cufon class="cufon cufon-canvas" alt="Last " style="width: 32px; height: 11px;"><canvas width="42" height="14" style="width: 42px; height: 14px; top: -2px; left: 0px;"></canvas><cufontext>Last </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Name:" style="width: 43px; height: 11px;"><canvas width="52" height="14" style="width: 52px; height: 14px; top: -2px; left: 0px;"></canvas><cufontext>Name:</cufontext></cufon></label> <input id="ilname" name="ilname" class="txt1" type="text"></li>
-							<li><label for="email"><cufon class="cufon cufon-canvas" alt="Email " style="width: 40px; height: 11px;"><canvas width="50" height="14" style="width: 50px; height: 14px; top: -2px; left: 0px;"></canvas><cufontext>Email </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Address:" style="width: 57px; height: 11px;"><canvas width="67" height="14" style="width: 67px; height: 14px; top: -2px; left: 0px;"></canvas><cufontext>Address:</cufontext></cufon></label> <input id="iemail" name="iemail" class="txt1" type="text"></li>
-							<li><label for="phone"><cufon class="cufon cufon-canvas" alt="Phone " style="width: 45px; height: 11px;"><canvas width="55" height="14" style="width: 55px; height: 14px; top: -2px; left: 0px;"></canvas><cufontext>Phone </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Number:" style="width: 57px; height: 11px;"><canvas width="66" height="14" style="width: 66px; height: 14px; top: -2px; left: 0px;"></canvas><cufontext>Number:</cufontext></cufon></label> <input id="iphone1" name="iphone1" maxlength="3" class="txt2" type="text"> <input id="iphone2" name="iphone2" maxlength="3" class="txt2" type="text"> <input id="iphone3" name="iphone3" maxlength="4" class="txt3" type="text"></li>
-							<li><label for="busname"><cufon class="cufon cufon-canvas" alt="Business " style="width: 62px; height: 11px;"><canvas width="72" height="14" style="width: 72px; height: 14px; top: -2px; left: 0px;"></canvas><cufontext>Business </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Name:" style="width: 43px; height: 11px;"><canvas width="52" height="14" style="width: 52px; height: 14px; top: -2px; left: 0px;"></canvas><cufontext>Name:</cufontext></cufon></label> <input id="ibname" name="ibname" class="txt1" type="text"></li>
-							<li><label for="interested"><cufon class="cufon cufon-canvas" alt="How " style="width: 33px; height: 11px;"><canvas width="44" height="14" style="width: 44px; height: 14px; top: -2px; left: 0px;"></canvas><cufontext>How </cufontext></cufon><cufon class="cufon cufon-canvas" alt="did " style="width: 25px; height: 11px;"><canvas width="35" height="14" style="width: 35px; height: 14px; top: -2px; left: 0px;"></canvas><cufontext>did </cufontext></cufon><cufon class="cufon cufon-canvas" alt="you " style="width: 28px; height: 11px;"><canvas width="38" height="14" style="width: 38px; height: 14px; top: -2px; left: 0px;"></canvas><cufontext>you </cufontext></cufon><cufon class="cufon cufon-canvas" alt="hear " style="width: 34px; height: 11px;"><canvas width="44" height="14" style="width: 44px; height: 14px; top: -2px; left: 0px;"></canvas><cufontext>hear </cufontext></cufon><cufon class="cufon cufon-canvas" alt="about " style="width: 42px; height: 11px;"><canvas width="52" height="14" style="width: 52px; height: 14px; top: -2px; left: 0px;"></canvas><cufontext>about </cufontext></cufon><cufon class="cufon cufon-canvas" alt="us?" style="width: 23px; height: 11px;"><canvas width="30" height="14" style="width: 30px; height: 14px; top: -2px; left: 0px;"></canvas><cufontext>us?</cufontext></cufon></label>
-							<select id="heard_about_us" name="heard_about_us">
-							<option value="">Select One</option>
-							<option value="1">Google</option><option value="2">Yahoo</option><option value="3">Bing</option><option value="4">Linked In</option><option value="5">Facebook</option><option value="6">Twitter</option><option value="7">Craigslist</option><option value="8">Another Website</option><option value="10">TOPSEOs</option>							</select></li>
-							<li>
-							<input type="hidden" name="interest_form" value="1">
-							<input type="hidden" name="get_a_quote_form" value="0">
-							<input type="hidden" name="get_a_quote_form2" value="0">
-							<input class="btn" type="submit" value=""></li>
-							</ul>
-							<!-- /form -->
+												<h2>Get Started Today!</h2>
+												<p>Please provide us with some basic information about your copywriting needs and an account executive will contact you shortly.</p>
+					                                								<a class="parent_create_acct" title="My ECOPYWRITERS Portal" href="https://my.ecopywriters.com"><img src="/templates/ecopywriters/images/create_account_parent.png"></a>
+
+														<!-- /form -->
 							</fieldset>
 						
 											</form>
@@ -170,11 +240,11 @@ Cufon.replace('h1');
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy73659 = '&#101;c&#111;pywr&#105;t&#101;rs' + '&#64;';
- addy73659 = addy73659 + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m?s&#117;bj&#101;ct=Pr&#105;v&#97;cy%20Q&#117;&#101;st&#105;&#111;n';
- var addy_text73659 = '&#105;nf&#111;' + '&#64;' + '&#101;c&#111;pywr&#105;t&#101;rs' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + ':' + addy73659 + '\'>' );
- document.write( addy_text73659 );
+ var addy22893 = '&#101;c&#111;pywr&#105;t&#101;rs' + '&#64;';
+ addy22893 = addy22893 + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m?s&#117;bj&#101;ct=Pr&#105;v&#97;cy%20Q&#117;&#101;st&#105;&#111;n';
+ var addy_text22893 = '&#105;nf&#111;' + '&#64;' + '&#101;c&#111;pywr&#105;t&#101;rs' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy22893 + '\'>' );
+ document.write( addy_text22893 );
  document.write( '<\/a>' );
  //-->\n </script><a href="mailto:ecopywriters@gmail.com?subject=Privacy%20Question">info@ecopywriters.com</a><script language="JavaScript" type="text/javascript">
  <!--
@@ -191,7 +261,10 @@ Cufon.replace('h1');
 
 					</div><!-- /Text -->
 				</div><!-- /Page Content -->
-							</div><!-- /Maincol -->
+				                
+                                
+                
+			</div><!-- /Maincol -->
 		</div><!-- /Sub Content -->	
 			<!-- /Content -->
 	</div>	
@@ -232,7 +305,8 @@ Cufon.replace('h1');
 					</ul></div></div><!-- /Footer Links -->
 			<div class="foot">
 				<p>ECOPYWRITERS LLC © 2010</p>
-				<ul class="footnav">
+				<span style="float:right;">We Are <a href="http://www.edevelopers.com/" target="_NEW" style="text-decoration:underline;">Web Developers</a> - Web Development by eDevelopers.com</span>
+				<ul class="footnav" style="display:none;">
 					<li><a href="/legal/privacy.html">Privacy Policy</a></li>
 					<li>|</li> 
 					<li><a href="/resources/">Resources</a></li>
@@ -252,14 +326,28 @@ Cufon.replace('h1');
 	<script type="text/javascript">Cufon.now(); </script>
 	<![endif]-->
 	
-	<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-5238340-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5238340-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+
+<div id="chaticon">
+<!-- BEGIN ProvideSupport.com Graphics Chat Button Code -->
+<div id="cigIhi" style="z-index:100;position:absolute"></div><div id="scgIhi" style="display:inline"></div><div id="sdgIhi" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/ecopywriters/safe-standard.js?ps_h=gIhi&amp;ps_t=1580410231027"></script></div><script type="text/javascript">var segIhi=document.createElement("script");segIhi.type="text/javascript";var segIhis=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/ecopywriters/safe-standard.js?ps_h=gIhi&ps_t="+new Date().getTime();setTimeout("segIhi.src=segIhis;document.getElementById('sdgIhi').appendChild(segIhi)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=ecopywriters">Online Support Chat</a></div></noscript>
+<!-- END ProvideSupport.com Graphics Chat Button Code -->
+</div>
+
+
 
 </body></html>
