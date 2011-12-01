@@ -1,9 +1,65 @@
-<!--The following is the downloaded HTML source of the tamaracinc.com privacy policy that was archived on 2011-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110602175330id_/http%3A//tamaracinc.com/Public/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tamaracinc.com privacy policy that was archived on 2011-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111202005155id_/http%3A//www.tamaracinc.com/Public/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head id="ctl00_Head1"><title>
 	Tamarac - Privacy Policy
-</title>
+</title><link rel="shortcut icon" href="/favicon.ico"><link rel="icon" href="/favicon.ico"><link href="/Public/_TamaracMultimedia/CSS/MobileStyles.css" rel="stylesheet" type="text/css">
+    
+    
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/Public/_TamaracMultimedia/JS/jquery-1.4.2.js" type="text/javascript"></script>
+
+    
+    
+    
+    
+    
+    <meta name="viewport" content="width=device-width">
+	<script type="application/x-javascript">addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);	function hideURLbar(){window.scrollTo(0,1);}</script>
+    
+    
+    
+    
+    	<script type="text/javascript">
+        function GoPage(j)
+        {
+        thenumber = j.selectedIndex;
+        changeto = j.options[thenumber].value
+        //alert (j.options[thenumber].value)
+        
+        if (changeto == "gonowhere")
+                {
+                // do nothing        
+				}
+        else
+		        {
+                window.top.location = changeto
+                }        
+        }
+    </script>
+
+
+    <script>
+
+        function showNavigation() {
+
+
+
+            document.getElementById("mainMenu").className = "mainMenuPupUp";
+            document.getElementById("mainMenuButtonOff").className = "hideDiv";
+            document.getElementById("mainMenuButtonOn").className = "mainMenuButton2";
+
+        }
+    
+    
+    
+    
+    
+    
+    </script>
+
+
+    
+    
 
 	<title>Tamarac - Privacy Policy</title>
 	<meta name="description" content="Dynamic Performance Reporting and Customer Portal">
@@ -11,340 +67,294 @@
 	<meta name="robots" content="index,follow">
 	
 	
-<link rel="shortcut icon" href="/favicon.ico"><link rel="icon" href="/favicon.ico"><link href="/Public/_TamaracMultimedia/CSS/MainStyles.css" rel="stylesheet" type="text/css"><link href="/Public/_TamaracMultimedia/CSS/prettyPhoto.css" rel="stylesheet" type="text/css">
+<script>
 
-    
-    
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/Public/_TamaracMultimedia/JS/jquery-1.4.2.js" type="text/javascript"></script>
-    <script src="/Public/_TamaracMultimedia/JS/jquery.prettyPhoto.js" type="text/javascript"></script>
+    jQuery(function () {
+        prepareMainNAv();
+    });
+
+    function prepareMainNAv() {
+
+        var $button = $("div.mainMenuButton");
 
 
-    <script src="/Public/_TamaracMultimedia/JS/PageFunctions.js" type="text/javascript"></script>
-    
-    
-    
-    <script type="text/javascript">
-        y = 0;
-    </script>
-    <script type="text/javascript">
-        function checkTrueFalse(tf){
-            if(tf == "yes"){
-                y++
-                //alert(y) 
-            }
+        $button.toggle(
+        function () {
+
+            jQuery(this).parent().parent().children(".mainMenuPupUp").animate({ fadeIn: 125, height: 'toggle' }, "fast");
+            jQuery(this).addClass("mainMenuButton2");
+            jQuery(this).html("<img src='_TamaracMultimedia/Images/Mobile/Menu-Icon-4.gif' />Close");
+
+        },
+        function () {
+
+            jQuery(this).parent().parent().children(".mainMenuPupUp").animate({ fadeIn: 125, height: 'toggle' }, "fast");
+            jQuery(this).removeClass("mainMenuButton2");
+            jQuery(this).html("<img src='_TamaracMultimedia/Images/Mobile/Menu-Icon-3.gif' />Menu");
         }
-        
-        function setContentDiv(){
-        var sPath = window.location.pathname;
-        //var sPage = sPath.substring(sPath.lastIndexOf('\\') + 1);
-        var sPage = sPath.substring(sPath.lastIndexOf('/') + 1).toLowerCase();
-        //alert(sPage);
-            if (sPage == "default.aspx" || sPage == ""){
-                y = -1
-            } 
-            if (sPage == "testframe.aspx"){
-                y = -2
-            } 
-        
-            n = document.getElementById('BodyContent');
-            sn = document.getElementById('sideNavID');
-            f = document.getElementById('footerDiv');
-            g = document.getElementById('RelatedSideBar');
-            h = document.getElementById('MainContentHolder');
-            k = document.getElementById('clearText');
-            d = document.getElementById('shareButtons');
-            ss = document.getElementById('searchDiv');
+    );
+    }
 
-            if (y > 0) {
-                //alert("SMALL CONTENT")
-                //return "big"
-                n.className = "PageContentHolderSmall";
-                //sn.className = "SideNavHolderSmall";
 
-            } else if (y == -1) {
-                n.className = "PageContentHolderHome";
-                g.className = "RelatedSideBarHome";
-                h.className = "MainContentHolderHome";
-                f.className = "footerDivHome";
-                k.className = "clearTextHome";
-                d.className = "shareButtonsHome";
-                //RelatedSideBar
-                //alert("HOME!");
-            } else if (y == -2) {
 
-                n.className = "PageContentHolderHome";
-                ss.className = "divHide";
 
-            } else {
-                //alert("BIG CONTENT")
-                //return "small"
-                n.className = "PageContentHolderNormal";
-                if (sn != null && sn != "") {
-                    sn.className = "SideNavHolderHide";
-                }
-            }
-        }        
-        
-        
-        
-    </script>    
 
-    
-    
- 
-</head>
+
+    jQuery(function () {
+        prepareSubMainNAv();
+    });
+
+    function prepareSubMainNAv() {
+
+        var $button = $("div.subMenuButton");
+
+
+        $button.toggle(
+        function () {
+
+            jQuery(this).next(".subMenuPopUp").animate({ fadeIn: 125, height: 'toggle' }, "fast");
+            jQuery(this).addClass("subMenuButton2");
+            //jQuery(this).html("<img src='_TamaracMultimedia/Images/Mobile/Menu-Icon-5.gif' />Close");
+
+        },
+        function () {
+
+            jQuery(this).next(".subMenuPopUp").animate({ fadeIn: 125, height: 'toggle' }, "fast");
+            jQuery(this).removeClass("subMenuButton2");
+            //jQuery(this).html("<img src='_TamaracMultimedia/Images/Mobile/Menu-Icon-5.gif' />Menu");
+        }
+    );
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script></head>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <body>
 
 
-
-
-    
-    <div align="center">
-    
-    
-    <div class="MasterOutterDiv">
-    
-    
-    <div class="MasterContentOutterDiv" align="left">
-    
-    
-    
-    <div class="PageHeader">
-        
-        <div class="pageLogo"><a href="/Public/Default.aspx"><img src="/Public/_TamaracMultimedia/Images/Tamarac-Logo-3.png" border="0"></a></div>
-
-        <div class="headerLinks">
-        <ul>
-
-            <li><a href="/Public/Resource-Library.aspx">Resource Library</a></li>
-            <li><span>•</span></li>
-            <li><a href="/Public/About-Careers.aspx">Careers</a></li>
-            <li><span>•</span></li>
-            <li>
-            <script type="text/javascript">n="sales"; d="tamaracinc"; e="com"; disp=n+"@"+d+"."+e; document.write('<a href="mailto:' + n + '@' + d + '.' + e +' " ' +' >' + disp + '</a>');</script><a href="mailto:sales@tamaracinc.com ">sales@tamaracinc.com</a>
-            </li>
-            <li><span>•</span></li>
-            <li>866.525.8811</li>
-            
-            
-        </ul>
-        </div>
-        
-        
-        <ul class="ClientLogin">
-            <li><a href="https://www.tamaracinc.com/MemberLogin.aspx">Client Login</a></li>
-        </ul>
-        
-
-        <div class="searchDiv" id="searchDiv">
-		    <div class="searchButtonDiv"><a href="javascript:void(0);" onclick="javascript:document.searchbox.submit();" onmouseover="changeImages('search', '/Public/_TamaracMultimedia/Images/Search-Button-2.gif'); return true;" onmouseout="changeImages('search', '/Public/_TamaracMultimedia/Images/Search-Button.gif'); return true;"><img src="/Public/_TamaracMultimedia/Images/Search-Button.gif" border="0" alt="" name="search"></a></div>
-		    <form id="searchbox" name="searchbox" action="/Public/Search.aspx" method="get"><input type="hidden" name="zoom_sort" value="0" style="padding:0px;margin:0px;">
-		        <input class="searchBox" name="zoom_query" id="zoom_searchbox" value="Search Website" onfocus="if(this.value == 'Search Website'){this.value='';this.className = 'searchBoxOver';}" onblur="if(this.value ==''){this.value='Search Website';this.className = 'searchBox';}">
-		        
-		    </form>
-        </div>
-        
-        
-
-        
-        
-        
-    </div>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     <!-- load site map -->
     
     
     
     
-    <!-- / load site map -->    
-    
-    
-    
-    
-    
-    
-    
+    <!-- / load site map -->  
+
+
+
+
+
+<div style="background:#637a8e url(/public/_TamaracMultimedia/Images/Mobile/Header-BG-1.gif) bottom repeat-x; position:relative;">
+
+<div style="width:60%;float:left;padding-top:5px;"><a href="/public/default.aspx"><img src="/public/_TamaracMultimedia/Images/Mobile/Tamarac-Logo-1.gif" border="0"></a></div>
+    <div class="mainMenuButton"><img src="/public/_TamaracMultimedia/Images/Mobile/Menu-Icon-3.gif">Menu</div>
+    <div style=" clear:both;"></div>
+
+</div>
 
     
+            <div class="mainMenuPupUp">
+                <div class="mainMenuDiv"><a href="/Public/Advisor.aspx#">Products</a></div>		    
+			    
+                <div class="mainMenuDiv"><a href="/Public/Integration-Partners.aspx#">Integration Partners</a></div>		    
+			    
+                <div class="mainMenuDiv"><a href="/Public/Success-Advisor-Asset-Dedication.aspx#">Success Stories</a></div>		    
+			    
+                <div class="mainMenuDiv"><a href="/Public/Tamarac-University.aspx#">Support &amp; Training</a></div>		    
+			    
+                <div class="mainMenuDiv"><a href="/Public/Press-Releases.aspx#">News &amp; Events</a></div>		    
+			    
+                <div class="mainMenuDiv"><a href="/Public/Company-Overview.aspx#">About</a></div>		    
+			    <div class="mainMenuDiv"><a href="/public/sitemap.aspx">View Site Map</a></div></div>
+
+
+
+
+
+
+<div style="background:#ffffff url(/public/_TamaracMultimedia/Images/Mobile/Page-BG-1.gif) top repeat-x; position:relative; padding:10px;" class="PageContentHolderNormal">
+
+
+<div>
+
+
+    <div class="SubNavBar">    
     
-    <div class="MainNavBar">
-        
-        <div class="homeButton">
-            <a href="/Public/Default.aspx" onmouseover="changeImages('home', '/Public/_TamaracMultimedia/Images/Home-Icon-Over.png'); return true;" onmouseout="changeImages('home', '/Public/_TamaracMultimedia/Images/Home-Icon-Off.png'); return true;"><img src="/Public/_TamaracMultimedia/Images/Home-Icon-Off.png" border="0" name="home"></a>
+        <div class="breadcrumbs">
+            <span id="ctl00_SiteMapPath1"><a href="#ctl00_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/Public/WebResource.axd?d=wWKTxVOs-Fm4rGP1JbLF5D5A-_E9kEzMNXeWPt2c5rLCmCbaBulvt4HGgUs2MGiqJxXDxPLfH6MQooEmoD8d1TILfCg1&amp;t=634216049382720039" border="0"></a><a id="ctl00_SiteMapPath1_SkipLink"></a></span>
         </div>
-        
-            <ul class="tabs">
-			        <li><a href="javascript:void();" class=" s" onclick="location.href='/Public/Advisor.aspx#'">Products</a></li>
-			    
-			    
-			        <li><a href="javascript:void();" class=" l" onclick="location.href='/Public/Portfolio-Management.aspx#'">Outsourced Services</a></li>
-			    
-			    
-			        <li><a href="javascript:void();" class=" m" onclick="location.href='/Public/Success-Advisor-PPA.aspx#'">Success Stories</a></li>
-			    
-			    
-			        <li><a href="javascript:void();" class=" l" onclick="location.href='/Public/Tamarac-University.aspx#'">Support &amp; Training</a></li>
-			    
-			    
-			        <li><a href="javascript:void();" class=" m" onclick="location.href='/Public/Press-Releases.aspx#'">News &amp; Events</a></li>
-			    
-			    
-			        <li><a href="javascript:void();" class=" s" onclick="location.href='/Public/Company-Overview.aspx#'">About</a></li>
-			    
-			    </ul>
-                  
-    </div>
-    
 
-                
-			    
-			    
-	                
-            			    
-			    
-			    
-			    
-			    
-			    
-			    
-	                
-            			    
-			    
-			    
-			    
-			    
-			    
-			    
-	                
-            			    
-			    
-			    
-			    
-			    
-			    
-			    
-	                
-            			    
-			    
-			    
-			    
-			    
-			    
-			    
-	                
-            			    
-			    
-			    
-			    
-			    
-			    
-			    
-	                
-            			    
-			    
-			    
-			    
-			    
-                  
+    </div>   
 
-	    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <div class="MainContentHolder" id="MainContentHolder">
 
+
+		      
 			    
-    
-     
+			    
+	                
+            			    
+			    
+			    
+			    
+			    
+			    
+			    
+	                
+            			    
+			    
+			    
+			    
+			    
+			    
+			    
+	                
+            			    
+			    
+			    
+			    
+			    
+			    
+			    
+	                
+            			    
+			    
+			    
+			    
+			    
+			    
+			    
+	                
+            			    
+			    
+			    
+			    
+			    
+			    
+			    
+	                
+            			    
+			    
+			    
+			    
+			    
 
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <div class="PageContentHolderNormal" id="BodyContent">
-        
-    
-    
-   
-   
-   
-   
-   
-   
+<div style=" clear:both;"></div>
+</div>
+
+
+
         
 
 
 
 
-<h1>Privacy Policy</h1>
+<h1>PRIVACY POLICY</h1>
 
 
 
 
 
+Tamarac Advisor Services, Inc. ("Tamarac," "we," or "us") takes your right to privacy seriously, and we want you to feel comfortable using the tamaracinc.com and tamaracservices.com websites (the "Sites"). This Privacy Policy deals with personally-identifiable information (referred to as "data" below) that may be collected by or through the Sites or Tamarac. This policy does not apply to other entities that are not owned or controlled by Tamarac, nor does it apply to people that are not employees or agents of Tamarac or that are not under Tamarac's control. In addition to this Privacy Policy, you should read the general <a href="Legal.aspx">Terms of Use</a> for the Sites.
+<br><br>
+Please note that certain details of this Privacy Policy may depend on whether you deal with us through an investment professional or directly as an individual investor.
+<br><br>
 
-<i>Tamarac Inc. ("Tamarac") has created this privacy policy to demonstrate our commitment to privacy. </i>
+<ol>
+
+<li><b>Collection of Data</b>
+<br><br>
+We may collect and use personal information about you to service and maintain your account; process transactions in your account; respond to inquiries from you or your investment professional; develop, offer and deliver products and services; or to fulfill legal and regulatory requirements. We may collect public and non-public personal information about you from any of the following sources:
+<br><br>
+<ul>
+    <li>Your investment professional through account databases (for example, name, address, Social Security number, birth date, assets and income);
+    </li><li>Transactional activity in your account (for example, trading history and balances);
+    </li><li>Your or your investment professional's interactions with Tamarac (for example, discussions with our customer service staff or information you post on the Sites);
+    </li><li>You or your investment professional regarding your preferences (for example, your choice of electronic statement delivery or the screen layout you specify); and
+    </li><li>Other sources with your consent or with the consent of your investment professional.
+
+</li></ul>
 <br>
+We will use anonymous log file information to (a) make the Sites better, faster and more robust; (b) monitor statistics relating to the Sites; and (c) police the Sites and enforce the Terms of Use and any other guidelines for usage.
+<br><br>
+The Sites may allow you to leave comments and reviews of your experiences. You choose what information you put in your comments or reviews, if any. You should assume that any personal information or other content that you voluntarily post to any Site will become publicly available and can be accessed and viewed by others. IF YOU CHOOSE TO MAKE ANY OF YOUR PERSONALLY IDENTIFIABLE OR OTHER INFORMATION PUBLICLY AVAILABLE THROUGH THE SITES, YOU DO SO AT YOUR OWN RISK.
+<br><br>
+
+</li><li><b>Use of Data</b>
+<br><br>
+We collect personal information to provide the products and services offered through the Sites and to protect us from harm and our services from loss, theft, misappropriation or other misuse. For example, we may use personal information in the following situations:
+<br><br>
+<ul>
+
+    <li>Providing the services you request and related customer support;
+    </li><li>Improving and customizing our products and services, including the usability features of the Sites;
+    </li><li>Protecting Tamarac and other users of the Sites against actual or potential fraud, unauthorized claims, loss, theft, misuse and other liabilities; 
+    </li><li>Enforcing our Terms of Use and other policies; and 
+    </li><li>Providing you with opportunities to provide us with feedback.
+
+</li></ul>
 <br>
- 
-As a general proposition, we do not sell, rent or otherwise disclose any personally identifiable information about you to any third party. We do aggregate personally identifiable information and disclose such information in the aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to personally identify you, your clients, or your client's investments. 
-<br>
-<br>
- 
-We collect and use personally identifiable information from you to statistically analyze Web site usage, to improve our content, and to assist your clients in reaching their investment goals. Once you subscribe to our services, we shall collect and maintain data for each portfolio you establish that tracks trades recommended by our products and services to assist you in optimizing your client's portfolio holdings (e.g., to comply with "Wash Sales Rules"). 
-<br>
-<br>
- 
-Unfortunately, due to the existing regulatory environment, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this privacy policy. By way of example and without limiting the foregoing, we may be forced to disclose information to the government or third parties under certain circumstances. Also, we may disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of intellectual property infringement or other activity that is illegal or may expose us to legal liability. 
-<br>
-<br>
- 
-This Web site contains links to other Web sites. Tamarac is not responsible for the privacy practices or the content of such Web sites. 
-<br>
-<br>
- 
-Tamarac uses security measures on this Web site to protect the loss, misuse and alteration of the information under our control. However, because of the nature of the Internet, we cannot guarantee that a third party will not unlawfully intercept, access, alter or misuse your personal information. 
-<br>
-<br>
- 
-Tamarac reserves the right to change or update this privacy policy at any time without notice by updating this page. All updates to this privacy policy will be posted at this location. You should visit this page from time to time to review the then-current terms because they are binding on you. 
-<br>
-<br>
- 
-If you have any questions about this privacy policy, the practices of this Web site, or your dealings with this Web site, you may contact us at: <script type="text/javascript">n="info"; d="tamaracinc"; e="com"; disp=n+"@"+d+"."+e; document.write('<a class="tellFriend" href="mailto:' + n + '@' + d + '.' + e +' " ' +' >' + disp + '</a>');</script><a class="tellFriend" href="mailto:info@tamaracinc.com ">info@tamaracinc.com</a> 
- 
+We may retain information collected from closed accounts to comply with law and our agreements with third parties, such as investment professionals.
+<br><br>
+In addition, we may develop, use, distribute and publish information and statistics derived from your data and the content that you contribute to any Site for use on a masked, aggregate basis. This particular use of your data and content will not result in the distribution or publication of any personally identifiable information.
+<br><br>
+
+</li><li><b>Protection of Data</b>
+<br><br>
+
+We safeguard personal information in accordance with commercially reasonable security measures. We have implemented physical and electronic safeguards to help protect personal information against loss, misuse and interception. We make extensive use of firewall barriers and authentication procedures to maintain the security of your online session and to protect customer accounts and systems from unauthorized access. We also restrict access to personal information to those who require it to develop, support, offer and deliver products and services to you.
+<br><br>
+We will take commercially reasonable steps to prevent your data from being made available to third parties, unless (a) you post the data to a public portion of the Sites or include the data in a public profile; (b) provided for otherwise in this Privacy Policy; (c) your consent is obtained, such as opting-in or opting-out for the sharing of data; (d) a service provided on the Sites requires interaction with a third party or is provided by a third party, such as your investment professional; (e) provided pursuant to legal action or law enforcement; (f) it is found that your use of any Site violates the this Privacy Policy, the Terms of Use or other usage guidelines or if it is deemed reasonably necessary by Tamarac to protect its legal rights and/or property; or (g) the Sites are purchased by a third party, in which case that third party will be able to use the data in the same manner as set forth in this Privacy Policy.
+<br><br>
+
+</li><li><b>Website Usage</b>
+<br><br>
+We may use devices known as "cookies," graphic interchange format files (GIFs) or other similar web tools. This allows us to personalize your use of the Sites. These web tools do not identify you by name as an individual or by account number. In order to maximize the functionality and usability of the Sites, you must set your browser’s preferences to allow both permanent and temporary cookies. The Sites also use session (temporary) cookies, which are deleted when you log out of the Sites or browse to a different site. If you do not want to accept these session cookies, you should refer to the instructions for your specific Internet browser. If you do not accept cookies from the Sites, we may not be able to deliver certain services to you.
+<br><br>
+We may use third-party service providers to help us analyze the Sites. These third-parties may use cookies to help the Sites analyze how users use the Sites. The information generated by these cookies about your use of the Sites (including your IP address) may be transmitted to and stored by the third party on its servers. This information will be used to evaluate your use of the Sites, compile reports on activity for the Sites and provide other services relating to activity for the Sites and Internet usage.
+<br><br>
+
+</li><li><b>Changes to this Privacy Policy</b>
+<br><br>
+Changes may be made to this Privacy Policy from time to time. You will be notified of substantial changes to this policy either by a posting of an announcement on the Sites or by a message sent to the email address you have provided to us and is stored in connection with your user account.
+<br><br>
+</li><li><b>Compliance with Laws and Law Enforcement</b>
+<br><br>
+We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process, to protect our rights and the rights of third parties, to protect the safety of the public or any person, to prevent or stop illegal, unethical or legally actionable activity or to otherwise comply with the law.
+<br><br>
+</li><li><b>No Guarantees</b>
+<br><br>
+While this Privacy Policy states standards for the maintenance of data, and while efforts will be made to meet these standards, we do not guarantee that we will comply with these standards. There may be factors beyond our control that may result in disclosure of data. Consequently, we offer no warranty or representation regarding the maintenance or non-disclosure of data.
+<br><br>
+</li><li><b>Contact Information</b>
+<br><br>
+If you have any questions about this Privacy Policy or about the Sites, please contact us at <a href="mailto:info@tamaracinc.com">info@tamaracinc.com</a>.
 
 
-
-
-
+</li></ol>
 
 
 
@@ -393,176 +403,50 @@ If you have any questions about this privacy policy, the practices of this Web s
 
 
 
-    
+        
+        
+        <div style=" clear:both;"></div>
+
+
+
+
+
+<div class="footer">
+
+
+    <div class="fullSiteLink" style="display:inline; float:left; padding-left:10px;">
+      <a href="#">Back to top</a>
+    </div>
 
     
-   
-   
-    
-    
-    
-    <div class="clearText" id="clearText"></div>
-    
-
-    
-    
-    
+    <div class="fullSiteLink" style="display:inline; float:right; padding-right:10px;">
+       <a href="/Public/Default.aspx?m=f">View full site</a>
     </div>
     
+    <div class="footerLinks" style="clear:both; padding-left:10px;"><a href="/Public/Sitemap.aspx">Site Map</a> &nbsp; • &nbsp; <a href="/Public/Privacy.aspx">Privacy Policy</a> &nbsp; • &nbsp; <a href="/Public/Legal.aspx">Legal Notice</a></div>
     
     
-  
-    
-    
-    
-    <div class="footerDiv" id="footerDiv">
-        
-        
-        
-
-		<div id="shareIcons" style="display:none;">
-		
-		<b>Share this on:</b>
-		<div align="center">
-		   <table cellpadding="10" cellspacing="0" border="0" class="shareIcons"><tbody><tr>
-			    <td><a href="javascript:facebook();"><img src="/Public/_TamaracMultimedia/Images/Share/Facebook-Large.gif" border="0"></a><br>Facebook</td>
-			    <td><a href="javascript:twitter();"><img src="/Public/_TamaracMultimedia/Images/Share/Twitter-Big.gif" border="0"></a><br>Twitter</td>
-			    <td><a href="javascript:diggit();"><img src="/Public/_TamaracMultimedia/Images/Share/Digg-Big.gif" border="0"></a><br>Digg</td>
-			    <td><a href="javascript:blogger();"><img src="/Public/_TamaracMultimedia/Images/Share/Blogger-Big.gif" border="0"></a><br>Blogger</td>
-			    <td><a href="javascript:linkedin();"><img src="/Public/_TamaracMultimedia/Images/Share/Linkedin-Big.gif" border="0"></a><br>LinkedIn</td>
-			    </tr><tr>
-			    <td><a href="javascript:myspace()"><img src="/Public/_TamaracMultimedia/Images/Share/Myspace-Big.gif" border="0"></a><br>Myspace</td>
-			    <td><a href="javascript:google();"><img src="/Public/_TamaracMultimedia/Images/Share/Google-Big.gif" border="0"></a><br>Google</td>
-			    <td><a href="javascript:delicious();"><img src="/Public/_TamaracMultimedia/Images/Share/Delicious-Big.gif" border="0"></a><br>Delicious</td>
-			    <td><a href="javascript:reddit();"><img src="/Public/_TamaracMultimedia/Images/Share/Reddit-Big.gif" border="0"></a><br>Reddit</td>
-			    <td><a href="javascript:stumbleupon();"><img src="/Public/_TamaracMultimedia/Images/Share/Stumbleupon-Big.gif" border="0"></a><br>StumbleUpon</td>
-		    </tr></tbody></table>
-		 </div>   
-		    
-		    
-		 </div>
-
-        
-        
-        <div class="shareButtons" id="shareButtons">
-         <ul class="image clearfix">
-			<li><a href="#shareIcons" rel="prettyPhoto[inline]" onmouseover="changeImages('share', '/Public/_TamaracMultimedia/Images/Share-Over.gif'); return true;" onmouseout="changeImages('share', '/Public/_TamaracMultimedia/Images/Share-Off.gif'); return true;"><img src="/Public/_TamaracMultimedia/Images/Share-Off.gif" name="share" border="0"></a></li>
-		    
-		    <li><a href="javascript:popupMessage();" onmouseover="changeImages('email', '/Public/_TamaracMultimedia/Images/Email-Over.gif'); return true;" onmouseout="changeImages('email', '/Public/_TamaracMultimedia/Images/Email-Off.gif'); return true;"><img src="/Public/_TamaracMultimedia/Images/Email-Off.gif" name="email" border="0"></a></li>
-		    
-		    <li><a href="javascript:void(0);" onclick="window.open('Privacy.aspx?print=t','printpage','toolbar=no,menubar=no,width=650,resizable=yes,height=500,left=10,top=10,screenX=10,screenY=10,status=no,scrollbars=yes');return false" target="_blank" onmouseover="changeImages('print', '/Public/_TamaracMultimedia/Images/Print-Over.gif'); return true;" onmouseout="changeImages('print', '/Public/_TamaracMultimedia/Images/Print-Off.gif'); return true;"><img src="/Public/_TamaracMultimedia/Images/Print-Off.gif" name="print" border="0"></a></li>
-		 </ul>
-            
-            
-            
-            
-        </div>
-        
-        <div class="footerLinks"><a href="/Public/Sitemap.aspx">Site Map</a> &nbsp; • &nbsp; <a href="/Public/Privacy.aspx">Privacy Policy</a> &nbsp; • &nbsp; <a href="/Public/Legal.aspx">Legal Notice</a></div>
-        
-        <div class="returnToMobileLink">
-            <a href="Default.aspx?m=t"><span id="ctl00_mobileSiteLink"></span></a>
-            
-        </div>
-        
-        <div class="copyright">www.tamaracinc.com is digitally verified by Starfield Secure Certification Authority. <br>
-        © Copyright 2000-<script type="text/javascript">theDate = new Date(); document.write(theDate.getFullYear());</script>2020 Tamarac Inc. All rights reserved
-        </div>
-        
-        <div class="followUsDiv">
-        <div class="followText">Follow via:</div>
-            <a href="http://www.linkedin.com/groups?mostPopular=&amp;gid=2163437" target="_blank" onmouseover="changeImages('linkedin', '/Public/_TamaracMultimedia/Images/Icon-LinkedIn-Over.png'); return true;" onmouseout="changeImages('linkedin', '/Public/_TamaracMultimedia/Images/Icon-LinkedIn-Off.png'); return true;"><img src="/Public/_TamaracMultimedia/Images/Icon-LinkedIn-Off.png" name="linkedin" border="0"></a>
-            
-            <a href="http://twitter.com/TamaracInc" target="_blank" onmouseover="changeImages('twitter', '/Public/_TamaracMultimedia/Images/Icon-twitter-Over.png'); return true;" onmouseout="changeImages('twitter', '/Public/_TamaracMultimedia/Images/Icon-twitter-Off.png'); return true;"><img src="/Public/_TamaracMultimedia/Images/Icon-Twitter-Off.png" name="twitter" border="0"></a>
-        </div>
-        
-    </div>
-    
-    
-    
-    
-    
-    
-    <script type="text/javascript">
-        setContentDiv();
-    </script>    
-    
-    
-    
-
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    </div>
-    
-    
-    
-    
-    
-    
-    </div>
-    
-    
+    <div class="copyright">
+      © Copyright <script type="text/javascript"> theDate = new Date(); document.write(theDate.getFullYear());</script>2020 Tamarac Inc. All rights reserved
+      </div>
     </div>
     
 
- 
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
-<div id="ctl00_imageGalleryScript">
-	
-
-
-<script type="text/javascript">
-	$(function(){
-	
-	    $(".gallery:not(.slideshow) a[rel^='prettyPhoto']").prettyPhoto({theme: 'facebook',overlay_gallery: false});
-	    $(".gallery.slideshow a[rel^='prettyPhoto']").prettyPhoto({theme: 'facebook',slideshow:5000, autoplay_slideshow:true});
-	    
-	    $(".flash:not(.slideshow) a[rel^='prettyPhoto']").prettyPhoto({theme: 'facebook',overlay_gallery: false});
-	    $(".flash.slideshow a[rel^='prettyPhoto']").prettyPhoto({theme: 'facebook',slideshow:5000, autoplay_slideshow:true});
-	    
-	    $(".image:not(.slideshow) a[rel^='prettyPhoto']").prettyPhoto({theme: 'facebook',overlay_gallery: false});
-	    $(".image.slideshow a[rel^='prettyPhoto']").prettyPhoto({theme: 'facebook',slideshow:5000, autoplay_slideshow:true});
-	    
-	});
-</script>	
-
-
-<script type="text/javascript"> 
-$(function() {
-	$("ul.tabs").tabs;
-});
-</script>
-
-
-</div>
 
 
 
 
 
 
+
+
+
+
+
+
+
+    
+    
 <script type="text/javascript">
     var piProtocol = (("https:" == document.location.protocol) ? "https://pi." : "http://cdn.");
     document.write(unescape("%3Cscript src='" + piProtocol + "pardot.com/pi.js' type='text/javascript'%3E%3C/script%3E"));
