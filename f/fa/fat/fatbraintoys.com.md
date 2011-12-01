@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatbraintoys.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630224409id_/http%3A//fatbraintoys.com/info/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatbraintoys.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201184907id_/http%3A//www.fatbraintoys.com/info/privacy.cfm) for the most accurate reproduction.*
 
 # Fat Brain Toys Privacy Policy
 
@@ -9,6 +9,9 @@ Placing orders with Fat Brain Toys is safe, secure, private and easy. To ensure 
 
 **Use of Cookies**   
 Fat Brain Toys makes use of a browser technology known as a cookie. A cookie is a small amount of data that a website puts on your hard drive so that it can remember something about you at a later time. Fat Brain Toys uses cookies to keep track of the contents of your shopping cart. As we are very committed to your privacy, we do not analyze this data on the personal level and remains totally anonymous. 
+
+**Non-personally Identifiable Information**   
+Our site also uses technologies known as action tags or web beacons. This is a common technology and is used to compile statistics about advertising performance. The technology does not use or collect personally identifiable information. We do not collect names or address and do not link actions to an individual person. We do collect aggregate statistics about the effectiveness of our advertising campaigns. This performance data may be shared with advertising partners. 
 
 **Email**   
 When placing an order from Fat Brain Toys, you will normally receive four email communications from us, including an order confirmation, shipment confirmation, delivery confirmation, and a request to review the products you ordered. If you choose to opt in to such communications during the checkout process, we may also email you various marketing offers every 2-4 weeks throughout the year. If at any time you choose NOT to receive these communications, please visit the following page for additional opt out instructions:  
