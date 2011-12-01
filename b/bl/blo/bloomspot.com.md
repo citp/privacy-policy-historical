@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bloomspot.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606112024id_/http%3A//bloomspot.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomspot.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201224806id_/http%3A//www.bloomspot.com/site/privacy) for the most accurate reproduction.*
 
-# Suggest Your Favorite Businesses - bloomspot
+# Privacy Policy - bloomspot - bloomspot
 
 Privacy Policy
 
- **bloomspot** , Inc. (owner of BloomSpot.com) takes very seriously the private nature of your personal information. This Privacy Policy describes how we treat the information we collect when you visit our Web site. Please read this notice carefully. 
+Bloomspot, Inc. (owner of BloomSpot.com) takes very seriously the private nature of your personal information. This Privacy Policy describes how we treat the information we collect when you visit our Web Site or that we receive from partner companies or other third parties. Please read this notice carefully. 
 
 Personal Information
 
