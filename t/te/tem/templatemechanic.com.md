@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the templatemechanic.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602131731id_/http%3A//www.templatemechanic.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatemechanic.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201054534id_/http%3A//www.templatemechanic.com/policy) for the most accurate reproduction.*
 
-# Privacy Policy » TemplateMechanic - A Community for Designers, Freelancers and Hobbyist
+# Privacy Policy | Phpfox Themes, Phpfox Templates, Custom Design
 
 Information We Collect
 
 This notice applies to all the information that gets collected or submitted on the Templatemechanic website through the registration. The following types of personal information are collected:
 
-  * • Email address
-  * • Name
+  * Email address
+  * Name
 
 
 
@@ -22,7 +22,3 @@ You can make changes to your information throught the account settings.
 How to Contact us
 
 Should you have any further questions or concerns please contact us [here](http://www.templatemechanic.com/contact/).
-
-TemplateMechanic.com 
-
-_Web Design...Driven by the Community_
