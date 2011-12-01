@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freshstep.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424235643id_/http%3A//www.clorox.com/global_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshstep.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201233633id_/http%3A//www.clorox.com/legal/global-privacy) for the most accurate reproduction.*
 
-# Clorox.com :: Privacy Policy
+# Clorox Privacy Policy For United States Consumers
 
 Clorox Privacy Policy For United States Consumers  
 Our Privacy Policy for Canadian sites may be found [here](https://web.archive.org/legal/cdn-privacy/).
