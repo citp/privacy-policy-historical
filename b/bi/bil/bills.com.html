@@ -1,37 +1,90 @@
-<!--The following is the downloaded HTML source of the bills.com privacy policy that was archived on 2011-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110622035100id_/http%3A//www.bills.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bills.com privacy policy that was archived on 2011-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111201034149id_/http%3A//www.bills.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-        <meta name="description" content="">
-<meta name="keywords" content="">        <meta name="msvalidate.01" content="53B00B7ADB877726617FE69CBA77014A">
+                <meta name="msvalidate.01" content="53B00B7ADB877726617FE69CBA77014A">
         <meta name="google-site-verification" content="9RfwF0v4cLCbmRj6KmVRlnVlKhOw9iDK3YQycT_0Hq8">
         <meta name="google-site-verification" content="ls33L9fZAUZMJPFZ0o8RhYiPf8kkzIVJosPXfYziTtE">
-        <title>Privacy Policy</title>                <link href="/stylesheets/layout/core.css" media="screen" rel="stylesheet" type="text/css">
-<link href="/stylesheets/layout/askbill.css" media="screen" rel="stylesheet" type="text/css">    	    	    	    	    	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/javascripts/bills-main.js"></script>
-<script type="text/javascript" src="/javascripts/askbill.js"></script>
-<script type="text/javascript" src="/javascripts/swfobject.js"></script>
-<script type="text/javascript" src="/javascripts/application.js"></script>    	<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
-    	<script type="text/javascript">
-		if (typeof jQuery == 'undefined') {
-		    document.write(unescape("%3Cscript src='/javascripts/jquery-1.4.2.min.js' type='text/javascript'%3E%3C/script%3E"));
-		}
-		</script>
-    	<!--[if IE 6]>
-		<script src="/javascripts/DD_belatedPNG.js"></script>
-		<script>
-		  DD_belatedPNG.fix('img, div, ul, li');
-		</script>
-		<![endif]--> 
-		    </head>
+       	<meta property="og:title" content="Simple Money Help">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="http://www.bills.com/">
+		<meta property="og:image" content="http://www.bills.com/favicon.ico">
+		<meta property="og:site_name" content="Bills.com">
+		<meta property="fb:admins" content="551773464">
+       	<meta name="template" content="19">
+        <title></title><link href="http://cdn.bills.com/stylesheets/core.v018.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://www.bills.com/privacypolicy/" rel="canonical">
+<link href="/stylesheets/layout/askbill.css" media="screen" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://cdn.bills.com/javascripts/bills.v012.js"></script>    	<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+    </head>
     <body>
-    
-    	<div id="wrapper">
+
+	    <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+	<script>
+	/* Facebook code */
+	window.fbAsyncInit = function() {
+	  FB.init({
+	    appId      : '139483729485035',
+	    cookie: true,
+	    xfbml: true,
+	    oauth: true
+	  });
+	  FB.Event.subscribe('auth.login', function(response) {
+		  FB.api('/me', function(response) {			 
+			  $(".facebookUsername").text(response.first_name);
+			  $(".facebookUserImage").attr("src","https://graph.facebook.com/"+response.id+"/picture");
+			});
+		  $(".facebookLogout").show();
+		  $(".facebookLogin").hide();
+		  $(".loginCheckmark").css("visibility", "visible");
+		  //If the user has not "liked" bills.com then make sure the submit button is disabled
+		  var likeCheckmarkVisibility = $(".likeCheckmark").css('visibility');
+		  if(likeCheckmarkVisibility !='hidden'){
+			  $("#submitcomment").attr('disabled','');
+			  $("#submitcomment").removeClass('disabled');
+			  
+			}
+		 
+	    });
+
+	  FB.Event.subscribe('auth.logout', function(response) {
+		  	$(".facebookLogout").hide();
+			$(".facebookLogin").show();
+			$(".loginCheckmark").css("visibility", "hidden");
+			$(".likeCheckmark").css("visibility", "hidden");
+			$(".facebookThanks").css("visibility", "hidden");
+			$("#submitcomment").attr('disabled','disabled');
+			$("#submitcomment").addClass('disabled');
+	    });
+ 		FB.Event.subscribe('edge.create', function(response) {
+ 			 $(".likeCheckmark").css("visibility", "visible");
+ 			 $(".facebookThanks").css("visibility", "visible");
+ 			 var loginCheckmarkVisibility = $(".loginCheckmark").css('visibility');
+ 			if(loginCheckmarkVisibility !='hidden'){
+ 				  $("#submitcomment").attr('disabled','');
+ 				  $("#submitcomment").removeClass('disabled');
+ 				  
+ 				}
+	    });
+ 		FB.Event.subscribe('edge.remove', function(response) {
+ 			 $(".likeCheckmark").css("visibility", "hidden");
+ 			 $(".facebookThanks").css("visibility", "hidden");
+ 			$("#submitcomment").attr('disabled','disabled');
+ 			$("#submitcomment").addClass('disabled'); 	 	 		 
+	    });
+	};
+	
+	(function() {
+		var e = document.createElement('script'); e.async = true;
+		e.src = document.location.protocol +
+		'//connect.facebook.net/en_US/all.js';
+		document.getElementById('fb-root').appendChild(e);
+		}());
+	</script>    	<div id="wrapper">
 	    	
-	    	<div id="header">
-	    	
+	    	<div id="header" style="background: none;">
+	    		<div id="simpleMoneyHelp" style="background: url('http://cdn.bills.com/images/layout/content-sprite.png') -624px -340px no-repeat; height:40px; width:315px; position:absolute; top:25px; left:335px;"></div>
 	    		<div id="billsLogo">
-	    			<!--  <a href="http://www.bills.com/" title="debt consolidation"><img src="/images/layout/bills-logo.png" alt="debt consolidation" /></a>-->
-	    			<img src="/images/layout/bills-logo.png" alt="Privacy Policy">
+	    			<div style="background: url('http://cdn.bills.com/images/layout/content-sprite.png') -198px -347px no-repeat; height:60px; width:170px"></div>
 	    		</div>
 	    		<div id="topNav">	<ul id="mainNav">
 									<li id="mainNav_" class="home">					
@@ -100,15 +153,31 @@
 </ul>
 
 </div>    			<div id="resources-mybills">
-					<a href="/tools/" id="resourcesLink">Resources</a>
+					<a href="/tools/" id="resourcesLink">Tool Box</a>
 				</div>
     			<div id="top-right-header">
-	    			<!--  <div id="member-box">Sign In | Create Account</div>  -->
-	    			<div id="search-box">
-	    				<form action="/search/" method="get">
+	    			<div id="member-box">
+	    											<div class="facebookLogout" style="display:none;">
+							
+							<div style="float:right;vertical-align:top;padding-top:5px;">
+								Welcome, <span class="facebookUsername"></span>! | <a style="color:#fff;" href="#" onclick="FB.logout(); return false;">Logout</a>
+							</div>
+							<img class="facebookUserImage" src=" ">
+							<div class="clear"></div>
+						 </div>
+						 <div class="facebookLogin" style="">
+							 <div class="fb-login-button" scope="email,user_likes,user_location">
+	       						 Login with Facebook
+	     					 </div>
+     					</div>
+     				</div>
+	    			<div id="search-box" style="background: url(http://cdn.bills.com/images/layout/content-sprite.png);
+	background-position:-380px -339px;">
+	    				<form action="/search/site" method="get">
 							<input type="text" name="query" class="queryBox" title="Search">
-							<input type="image" class="submitBtn" src="/images/layout/search-btn.png">
+							<input type="submit" class="submitBtn" value="" style="background:url(http://cdn.bills.com/images/layout/content-sprite.png) no-repeat; background-position:-380px -379px; border:none; text-indent:-2000px;font-size: 0px;width:18px; height:18px;cursor:pointer;">
 						</form>
+						
 					</div>
 					
 				</div>
@@ -117,7 +186,7 @@
 	        <div id="content">
 	        	<div id="contentBody">
 	        		
-<h1>Privacy Policy</h1>
+<h1>Privacy Policy </h1>
 
 
 <div class="breadcrumb">
@@ -172,7 +241,7 @@
 	San Mateo, CA 94402</p>
 <p>
 	<strong>What Does This Privacy Policy Cover?</strong><br>
-	This privacy policy covers several websites Bills.com owns and operates, including <a href="">www.bills.com</a>, <a href="http://www.home-account.com">www.home-account.com</a>, www.lendage.com and www.theeasyloansite.com.&nbsp; We may, from time to time, add additional websites and/or domains to our portfolio.&nbsp; Whether or not any particular site is specifically identified in this Privacy Policy, this Privacy Policy applies to any website owned and/or operated by Bills.com. The TRUSTe privacy program covers the sites <a href="">www.bills.com</a>, <a href="http://www.home-account.com">www.home-account.com</a>, www.lendage.com and www.theeasyloansite.com.&nbsp;<br>
+	This privacy policy covers several websites Bills.com owns and operates, including <a href="/">www.bills.com</a>, <a href="http://www.home-account.com">www.home-account.com</a>, www.lendage.com and www.theeasyloansite.com.&nbsp; We may, from time to time, add additional websites and/or domains to our portfolio.&nbsp; Whether or not any particular site is specifically identified in this Privacy Policy, this Privacy Policy applies to any website owned and/or operated by Bills.com. The TRUSTe privacy program covers the sites <a href="/">www.bills.com</a>, <a href="http://www.home-account.com">www.home-account.com</a>, www.lendage.com and www.theeasyloansite.com.&nbsp;<br>
 	This Privacy Policy covers what we do with any personal information you may submit or authorize us to obtain, as well as any other information that we may gather when you access any of our websites.&nbsp; This Privacy Policy also covers any of your personal and other information that any of our business partners may share with us.<br>
 	Please note that our policies and procedures apply only to websites owned and/or operated by us and not to websites maintained by other companies or to any website to which we may link or to unrelated businesses with which we may share information.</p>
 <p>
@@ -275,13 +344,13 @@
 	</div>
 </div>			<!-- Company Promo Boxes -->
 			<div class="vertPromoBox centered">
-	<img src="http://media.bills.com/images/company/inc500.jpg">
+	<img src="http://cdn.bills.com/images/company/inc500.jpg">
 	<br>
-	<img src="http://media.bills.com/images/company/hot100.jpg">
+	<img src="http://cdn.bills.com/images/company/hot100.jpg">
 	<br>
-	<img src="http://media.bills.com/images/company/best-places.jpg">
+	<img src="http://cdn.bills.com/images/company/best-places.jpg">
 	<br>	
-	<img src="http://media.bills.com/images/company/best-places-2010.png">
+	<img src="http://cdn.bills.com/images/company/best-places-2010.png">
 </div>			
 		</div>
 		
@@ -296,7 +365,7 @@
         
 		<div id="footer">
     <div id="footer-wrapper">
-    	<div class="featured-in-finovate"><img style="float:right; margin-top:-10px;" alt="Come and join us at Finovate Spring in San Francisco May 10 and 11, 2011" src="/images/layout/finovate-small.png"></div>
+    	<div class="featured-in"></div>
     	<div id="footerSocial">
     		<div id="newsletter">
     			<form action="" onsubmit="newsletterSubscribe(this); return false;" method="post">
@@ -374,13 +443,16 @@
     	<div id="logosWrapper" class="curved">
 	    	<ul class="logos">
 	    		<li>
-	    			<img src="/images/logos/truste.gif" alt="Site has been reviewed by truste. Click for privacy statement." vspace="15" onclick="openTrusteLink(); return false;">
+	    			<img src="http://cdn.bills.com/images/logos/bbb.gif" alt="BBB Accredited" onclick="openBbbLink(); return false;">
 	    		</li>
 	    		<li>
-		    		<img src="/images/logos/verisign.png" alt="site is secured by verisign" vspace="15" onclick="openVersignLink(); return false;" width="77" height="32">
+	    			<img src="http://cdn.bills.com/images/logos/truste.gif" alt="Site has been reviewed by truste. Click for privacy statement." vspace="15" onclick="openTrusteLink(); return false;">
 	    		</li>
 	    		<li>
-		    		<img src="/images/logos/dnb.png" alt="site is listed in dunn and bradstreet's power profiles" vspace="1" onclick="openDnbLink(); return false;">
+		    		<img src="http://cdn.bills.com/images/logos/verisign.png" alt="site is secured by verisign" vspace="15" onclick="openVersignLink(); return false;" width="77" height="32">
+	    		</li>
+	    		<li>
+		    		<img src="http://cdn.bills.com/images/logos/dnb.png" alt="site is listed in dunn and bradstreet's power profiles" vspace="1" onclick="openDnbLink(); return false;">
 	    		</li>
 	    		<!--  
 	    		<li>
@@ -408,7 +480,7 @@
 	</div>
     <div class="ask-bill-dock-middle">
     	<div class="header-title">
-    		<img style="float: right" alt="Ask question and search answers in seconds with Ask Bill" src="/images/layout/ask-bill-dock-header.png">
+    		<img style="float: right" alt="Ask question and search answers in seconds with Ask Bill" src="http://cdn.bills.com/images/layout/ask-bill-dock-header.png">
 	    	<h3>IT'S FREE</h3>
 	    	<ul>
 	    		<li>Search answers in seconds</li>
@@ -427,9 +499,9 @@
   <p class="label">
   	Enter keywords about your question or issues
   </p> 
-  <input id="keyword1" class="keyword-autocomplete-input small ui-autocomplete-input" type="text" name="keyword1" value="" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true"> or 
-  <input id="keyword2" class="keyword-autocomplete-input small ui-autocomplete-input" type="text" name="keyword2" value="" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true"> or 
-  <input id="keyword3" class="keyword-autocomplete-input small ui-autocomplete-input" type="text" name="keyword3" value="" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+  <input id="keyword1" class="keyword-autocomplete-input small" type="text" name="keyword1" value=""> or 
+  <input id="keyword2" class="keyword-autocomplete-input small" type="text" name="keyword2" value=""> or 
+  <input id="keyword3" class="keyword-autocomplete-input small" type="text" name="keyword3" value="">
   
   <div class="clear" style="margin-bottom: 15px"></div>
   
@@ -474,17 +546,7 @@ function recordOutboundLink(link, category, action) {
   }catch(err){}
 }
 </script>
-<!-- Yahoo! Web Analytics - All rights reserved - AskBill Bills.com -->
-<script type="text/javascript" src="https://s.yimg.com/mi/ywa.js"></script>
-<script type="text/javascript">
-/*globals YWA*/
-var YWATracker = YWA.getTracker("1000508305569");
-YWATracker.setDocumentName("Company Pages");
-YWATracker.setDocumentGroup("Company Page");
-YWATracker.setCF(07, "2010");
-YWATracker.setCF(08, "Company Pages");
-YWATracker.setCF(10, "0");
-YWATracker.submit();
-</script>    
+	
+    
 
-<ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul><ul class="ui-autocomplete ui-menu ui-widget ui-widget-content ui-corner-all" role="listbox" aria-activedescendant="ui-active-menuitem" style="z-index: 1; top: 0px; left: 0px; display: none;"></ul></body></html>
+</body></html>
