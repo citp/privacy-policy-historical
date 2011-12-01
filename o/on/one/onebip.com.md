@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onebip.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626123841id_/http%3A//www.onebip.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onebip.com privacy policy that was archived on 2011-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111201212920id_/http%3A//www.onebip.com/privacy.html) for the most accurate reproduction.*
 
 # Onebip Services Privacy Policy
 
@@ -32,8 +32,8 @@ We are committed to protecting our users’ privacy. Keeping Personal Informatio
 To all users of the Website, if you have any questions about this Privacy Statement, please contact our Privacy Administrator at [privacy@onebip.com](mailto:privacy@onebip.com) or:
 
 Onebip srl - Privacy Administrator   
-Viale Montenero 70  
-20135 Milano – Italy  
+Largo Donegani 3  
+20121 Milano – Italy  
 Attn: Privacy Rights Office
 
 **OUR GENERAL PRIVACY POLICIES**
