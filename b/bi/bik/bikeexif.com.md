@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikeexif.com privacy policy that was archived on 2010-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100206012106id_/http%3A//www.bikeexif.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikeexif.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202205646id_/http%3A//www.bikeexif.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – Bike EXIF
 
@@ -21,6 +21,9 @@ This online privacy policy applies only to information collected through our web
 
 **Your Consent**  
 By using our site, you consent to our privacy policy.
+
+**Comments**  
+We use Disqus for our commenting system. You can find Disqus’ privacy policy [here](http://docs.disqus.com/help/30/).
 
 **Changes to our Privacy Policy**  
 If we decide to change our privacy policy, we will post those changes on this page. 
