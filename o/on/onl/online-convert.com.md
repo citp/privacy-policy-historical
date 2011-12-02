@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the online-convert.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621070351id_/http%3A//www.online-convert.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-convert.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202040743id_/http%3A//www.online-convert.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy of online-convert.com
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
@@ -31,3 +31,7 @@ When users upload files to be converted online-convert.com stores those files on
 ## 7\. Security
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+
+## 8\. Closing your account
+
+In order to close your account and to delete your personal data at online-convert.com, please [Login](http://www.online-convert.com/login), go to the user dashboard and select the option "Close account". 
