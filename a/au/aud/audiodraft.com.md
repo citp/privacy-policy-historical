@@ -1,77 +1,127 @@
-> *The following text is extracted and transformed from the audiodraft.com privacy policy that was archived on 2011-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110212225042id_/http%3A//www.audiodraft.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiodraft.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202150214id_/http%3A//www.audiodraft.com/legal/privacy.php) for the most accurate reproduction.*
 
 # AudioDraft - Privacy Policy
 
-AudioDraft User Register Personal Data Act (523/99) 10, 24 § 
+**LAST UPDATED OCTOBER 31, 2011**
 
-AudioDraft ("Controller") respects your privacy and is committed to safeguard the privacy of those persons using AudioDraft.com Service ("User"). This Privacy Policy Provides Users information on how the Controller processes their personal data and how the Controller protects the same. Personal data refers to personally identifiable information, such as a name, address and Email address. 
+The Highlights of this Privacy Policy
 
-We encourage the User to read this document before using the AudioDraft.com Service. 
-
-## 1\. The purpose of processing the personal data
-
-Personal data may be processed for the purposes of using, maintaining and developing the AudioDraft.com Service. The Controller commits to adhere to the provisions of the Personal Data Act and other such applicable laws and regulations pertaining to processing of personal data, as well as process personal data in compliance with good processing practice. The Controller will pursue to take appropriate measures in order to prevent unauthorized access to personal data, any inappropriate use thereof and any possible inaccuracies. All personnel processing personal data are obliged to keep such information strictly confidential. 
-
-## 2\. Content of the register, regular sources of information, accuracy of personal data
-
-The register will consist of the following information: 
-
-\- Name and address  
-\- Telephone number  
-\- Email address  
-\- [IP-address]  
+  * Exercise care when sharing personal data when you use the Service.
+  * Submitting personal data about other individuals, such as pictures or contact information, may violate their privacy.
+  * Providing additional personal data in the "Info" section or forums is completely voluntary.
+  * We may disclose your personal data to:
+  * Other users of the Service;
+  * To our advertising partners, in compliance with applicable laws;
+  * To service providers;
+  * To public authorities; and
+  * To our subsidiaries and affiliates; or a subsequent owner, co-owner or operator of the Service in connection with a corporate reorganization.
 
 
-The above information will be collected from Users when they sign up for the AudioDraft.com Service. 
 
-The Controller may, at its own initiative or upon a User’s request complement, correct or delete incomplete, inaccurate or outdated personal data. 
+## 1\. Introduction
 
-## 3\. Disclosed data
+We at Audiodraft Ltd ("We", "Us") think that privacy and the protection of personal data are an important element of the user experience of www.audiodraft.com (the "Service"), as described in our [Terms of Use](http://www.audiodraft.com/legal/terms.php). In this Privacy Policy, the term "personal data" means information that relates to an identified or identifiable natural person. This Privacy Policy tells you about the ways in which we protect your privacy and personal data we process about you. 
 
-The Controller will not disclose personal data stored in the register to third parties for direct marketing, market research, polls or public registers. 
+We know that you, the user of the Service, are concerned about how we use and disclose personal data. We are dedicated to openness regarding the ways in which we use and disclose personal data, and we are committed to complying with data protection and privacy laws that apply to us. Importantly, we want to give you control over personal data that we process about you when you use the Service. 
 
-In exceptional circumstances personal data may be disclosed to third parties if required under any applicable law or regulations or order by competent authorities, or in order to enforce terms of service and to investigate possible infringing use of the AudioDraft.com Service as well as to guarantee safety of the AudioDraft.com Service. 
+We wish to remind you that this Privacy Policy applies to personal data that we process when you use the Service. It does not apply to any links to third parties' websites and/or services that you may encounter when you use the Service. We encourage you to carefully familiarize yourself with privacy policies applicable to any websites and/or services operated by third parties. Please be aware that we are not responsible for the privacy practices of any third parties. 
 
-The Controller may use external service providers to provide technical solutions for processing stored data and access the stored data by using a technical interface. The Controller will not transfer data to countries outside the European Union or the European Economic Area. 
+Please be careful when sharing personal data about you generally in the Service and with other users of the Service. When you communicate with other users in the Service, be careful about sharing personal data with them. Also, submitting personal data relating to other individuals, such as pictures or contact information, may violate their privacy and data protection rights. Thus, please obtain consent from the individual whose personal data you are about to submit to the Service before you submit such data. 
 
-## 4\. Data protection and the principle how the personal data is secured
+## 2\. The Data We Collect
 
-The register will be maintained in external service providers’ servers with appropriate safeguards, such as password protection, granting the access to the stored information only to the Controller. The register is protected by appropriate industry standard, technical and organisatory safety measures. The database will be accessible only to those persons expressly authorized by the Controller. 
+Personal data you provide to the Service
 
-## 5\. Cookies
+a) When You Register with the Service
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. The Controller uses cookies to help it identify and track visitors, their usage of the AudioDraft.com Service and website, and their website access preferences. Users who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using AudioDraft.com Service and/or websites, with the drawback that certain features of AudioDraft’s websites may not function properly without the aid of cookies. 
+When you register with the Service we only require you to enter your e-mail address and your password. However, if you use a third party service, such as Facebook Connect, for signing into the Service, we may collect personal data, such as your user ID, name, and e-mail address, that are available in your public profile with the third party service you use for signing into the Service. 
 
-The cookies will not enable the Controller to access and review information stored on a User’s computer. The Controller will neither store nor review any information gathered through cookies. 
+b) When You Create Your Profile
 
-## 6\. Information on the processing of personal data
+We do not require you to provide additional personal data beyond what is required to register with the Service. Please be aware, however, that certain elements of the Service, such as creating a contest or participating in a contest, may not be accessible without a profile and/or additional personal data. If you voluntarily choose to create a profile, you may enter certain data that we collect, to the extent that you feel comfortable doing so. Such data may include your name, your picture, your address, your country of origin, and your telephone number as well as data you enter in the "Info" section. 
 
-A User is entitled to review any information collected on him/her and stored in the register once per year free of charge. When a User wishes to use the above right to review stored information, the User should send a signed request thereof to the Controller using the contact details below. A User may also review any information collected on him/her and stored in the register independently by using a technical interface, username and a password, and update and modify the stored personal data. 
+Data Collected Automatically
 
-## 7\. Changes to the Privacy Policy
+When you use the Service, we automatically collect data that may in certain circumstances constitute personal data. 
 
-The Controller may change this Privacy Policy from time to time, and in the Controller‘s sole discretion. All changes hereto will be made available in this website, which is why the Controller encourages Users to frequently check this page for any changes to its Privacy Policy. Changes hereto will not prejudice Users’ rights without their consent. The Controller will inform the Users of material changes by sending an Email or other such applicable way. 
+a) Log Data
 
-## 8\. Controller and the person in charge
+When you use the Service, the logging technology we use automatically collects the URL of the site from which you came and the site to which you are going when you leave the Service. We also collect the Internet protocol (IP) address of the device you use to access the Service, information about the operating system of your device, as well as the name of your Internet Service Provider. 
 
-The user may at any time contact the Controller at the address below. 
+b) Cookie Files and Other Similar Technologies
 
-Contact person:
+We may place a "cookie" on the hard drive of the device that you use to access the Service. Cookies are text files that are saved on the hard drive of your device by means of your browser, enabling us to recognize your browser for purposes such as saving your preferences and directing relevant content to you. Most of the currently available browsers give you the option of managing cookies by, for example, disabling them entirely, accepting them individually, and deleting saved cookies from your hard drive. Google Analytics is also an element of the Service. By using cookies, Google Analytics collects and stores data such as time of visit, pages visited, time spent on each page of the website, the Internet Protocol address, and the type of operating system used in the devices used to access the Service. By using a browser plugin <http://www.google.com/ads/preferences/plugin/> provided by Google, you can opt out of Google Analytics. Finally, in the "Create Contest" section of the Service we use Olark, a service that provides a live chat feature in the Service that monitors and analyzes any chats that you may participate in in the Service. 
 
-Tommi Koskinen
+We would like to remind you that if you completely disable cookies on your browser, you might not be able to use some features of the Service. 
 
-Address:
+c) Your Use of the Service
 
-Betonimiehenkuja 3 A, 02150 Espoo, Finland
+When you use the Service, our system collects certain information about the activities associated with your use of the Service. Such information may include, but is not limited to, the contests you join, the contests you have created, and the quantity and type of content you submit to the Service. 
 
-Telephone:
+## 3\. The Purposes For Which We Use the Data
 
-+358 50 375 2231
+We use the data we collect for the following purposes: 
 
-Email:
+**a) Personal data you provide to the Service:** We use the personal data you provide to the Service for the following purposes:
 
-contact@audiodraft.com
+* To set up and maintain your registration with the Service;
+* To communicate with you;
+* To provide features available in the Service;
+* To process any transactions you may enter into in the Service;
+* For direct marketing and market research in accordance with applicable law;
+* To prevent and investigate fraud and other misuses; and
+* To protect our rights and/or our property.
 
-www:
+**b) Data collected automatically:** We use the data collected automatically for the following purposes:
 
-http://www.audiodraft.com
+* To manage the service,
+* To personalize the Service,
+* To develop, improve, and protect the Service;
+* To audit and analyze the Service; and
+* To ensure the technical functionality and security of the Service.
+
+## 4\. How We Disclose Data
+
+The data collected in the Service may be disclosed in the following manner: 
+
+**a) Personal data you provide to the Service:** We may disclose personal data you provide to the Service with the following categories of third parties:
+
+* To other users of the Service;
+* To our advertising partners in compliance with applicable laws;
+* To service providers, such as payment processors, which enable us to provide the Service to you;
+* To public authorities, such as law enforcement, if we are legally required to so or if we need to protect our rights or the rights of third parties; and
+* To our subsidiaries and affiliates; or a subsequent owner, co-owner or operator of the Service and their advisors in connection with a corporate merger, consolidation, restructuring, or the sale of substantially all of our stock and/or assets or other corporate reorganization, in accordance with this Privacy Policy.
+
+**b) Data collected automatically:** The data collected automatically in the Service may be disclosed to the following categories of third parties:
+
+* To service providers, such as data analysis companies;
+* To our advertising partners in compliance with applicable laws; and
+* To public authorities, such as law enforcement, if we are legally required to do so or if we need to protect our rights or the rights of third parties.
+
+## 5\. Your Rights
+
+You have the following rights with respect to the personal data we hold about you: 
+
+* **The right to know what data we hold about you:** The easiest way to review the personal data you have provided to the Service is to access your profile. On your profile page you can also make changes to the personal data we hold about you. If you have additional questions regarding the personal data we hold about you, please contact us at privacy@audiodraft.com.
+* **The right to have incomplete, incorrect, outdated, or unnecessary personal data corrected, deleted, or updated.** The easiest way to correct, delete, or update the personal data you have provided to the Service is to access your profile and enter the necessary changes there. If you have additional questions regarding the correction, deletion, or updating of the personal data we hold about you, please contact us at privacy@audiodraft.com.
+* **The right to opt out of receiving electronic direct marketing communications from us:** All electronic direct marketing communications that you may receive from us, such as e-mail messages and SMS-messages, give you an option of not receiving such communications from us in the future. If you have any additional questions about electronic direct marketing received from us, please contact us at privacy@audiodraft.com.
+
+## 6\. Deleting Your Profile
+
+You can delete your profile from your [settings page](http://www.audiodraft.com/user/settings.php?page=delete). Please be reminded that your choice to delete your profile may not have an immediate effect, because our system may retain backup copies of information included in your profile for up to 90 days. 
+
+## 7\. Data Security
+
+The security of personal data is important to us. For example, your user account is protected by a password, and the servers we use are secured and protected by a firewall. Even so, we cannot guarantee that your personal data are always secure because data security measures in use from time to time may be vulnerable. Consequently, please be mindful of the risks that personal data about you may be exposed to when you use the Service. 
+
+## 8\. International Transfers of Personal Data
+
+Some of the servers where the Service is hosted may be located in the United States. The laws applicable to the protection of personal data in the United States may be different from your home country. By registering with the Service, you consent to personal data about you being transferred to the United States. 
+
+## 9\. Changes to The Privacy Policy
+
+From time to time we may change this Privacy Policy. You can tell when changes have been made to the Privacy Policy by referring to the "Last Updated" legend on top of this page. If we materially change the ways in which we use and disclose personal data, we will post a notice in the Service and send an e-mail to our registered users. Your continued use of the Service following any changes to this Privacy Policy constitutes your acceptance of any such changes made. 
+
+## 10\. Questions or Concerns?
+
+Should you have any questions regarding this Privacy Policy, your privacy as it relates to the use of the Service, or the protection of the personal data we hold about you, please contact us at privacy@audiodraft.com. We seek to swiftly resolve any concerns you may have. 
