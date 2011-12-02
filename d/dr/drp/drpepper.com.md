@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drpepper.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521090121id_/http%3A//www.drpepper.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drpepper.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202050727id_/http%3A//www.drpepper.com/privacy) for the most accurate reproduction.*
 
 # Dr Pepper - Privacy Policy
 
