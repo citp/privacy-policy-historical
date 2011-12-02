@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the gettingpersonal.co.uk privacy policy that was archived on 2010-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100926181943id_/http%3A//www.gettingpersonal.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettingpersonal.co.uk privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202113324id_/http%3A//www.gettingpersonal.co.uk/privacy.htm) for the most accurate reproduction.*
 
-# Privacy policy
+# Getting Personal
 
+## Your details and information are important - we will protect them...
+
+  
 GettingPersonal.co.uk is committed to preserving the privacy of all visitors to our website. Please read the following privacy policy to understand how we use and protect the information that you provide to us. 
 
 By registering or placing an order on this website, you consent to the collection, use and transfer of your information under the terms of this policy. 
@@ -20,6 +23,16 @@ Your information will enable us to provide you with access to all parts of our w
 
 In particular, we may use your information to contact you for your views on our services and to notify you occasionally about important changes or developments to the website or our services. Further, where you have consented, we might also use your information to let you know by email about other products and services which we, other companies within our group and our business partners offer which may be of interest to you. If you change your mind about being contacted in the future, please let us know. 
 
+**Opt-out information:**
+
+We may provide you the opportunity to opt-in to additional newsletters or promotional communications sent by email. If you have opted in or otherwise qualify to receive these forms of communication, and no longer wish to receive our newsletter or other promotional communications by email, you may opt-out of receiving them by following the instructions included in each communication. You may also opt out by writing to us at:- 
+
+Getting Personal Limited, Southmoor Road, Roundthorn Industrial Estate, Wythenshawe, Manchester M23 9DS 
+
+Phoning our Customer services team on 0161 947 5900 
+
+Or emailing us at ask@gettingpersonal.co.uk 
+
 **Disclosure of your Information**
 
 The information you provide to us may be accessed by or given to third parties some of whom may be located outside the European Economic Area who act for us for the purposes set out in this policy or for other purposes approved by you. Those parties process information, fulfil and deliver orders, process credit card payments and provide support services on our behalf. We may also pass aggregate information on the usage of our website to third parties but this will not include information that can be used to identify you. 
@@ -30,7 +43,7 @@ Finally, if our business enters into a joint venture with or is sold to or merge
 
 Countries outside the European Economic Area do not always have strong data protection laws. However, we will always take steps to ensure that your information is used by third parties in accordance with this policy. 
 
-We know that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. We occasionally make our mailing list available to other carefully selected organisations whose products and services may be of interest to you. If you would prefer not to be included in such mailings, please write to Getting Personal Ltd, Unit A1 Southmoor Business Park, Greeba Road, Roundthorn Industrial Estate, Manchester, M23 9XS or drop an email to ask@gettingpersonal.co.uk. 
+We know that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. We occasionally make our mailing list available to other carefully selected organisations whose products and services may be of interest to you. If you would prefer not to be included in such mailings, please write to Getting Personal Limited, Southmoor Road, Roundthorn Industrial Estate, Wythenshawe, Manchester M23 9DS, or drop an email to ask@gettingpersonal.co.uk. 
 
 **Cookies**
 
@@ -52,4 +65,4 @@ All comments, queries and requests relating to our use of your information are w
 
 **Other web sites**
 
-Our web site may contain links to other web sites which are outside our control and are not covered by this privacy policy. If you access other sites using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours. 
+Our web site may contain links to other web sites which are outside our control and are not covered by this privacy policy. If you access other sites using the links provided, the operators of these sites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
