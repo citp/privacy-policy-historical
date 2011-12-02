@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the independent.org privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603125116id_/http%3A//www.independent.org/site-map/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independent.org privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202054426id_/http%3A//www.independent.org/site-map/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy: The Independent Institute
 
-|  |  The Independent Institute Privacy Policy
+|  The Independent Institute Privacy Policy
 
 The Independent Institute knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting Independent.org, you are accepting the practices described herein.
 
@@ -41,4 +41,5 @@ We do not share our email list with any third parties.
   * If you do not want to receive e-mail or other mail from us, please click the “unsubscribe” link at the bottom of any email message.
   * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
 
-|  |  | 
+|   
+---|---|---
