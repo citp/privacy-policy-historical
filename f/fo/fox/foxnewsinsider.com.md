@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the foxnewsinsider.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615072644id_/http%3A//www.foxnewsinsider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxnewsinsider.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202052348id_/http%3A//foxnewsinsider.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Fox News Insider
+# Privacy Policy | Fox News Insider
 
-* FOXNewsInsider.com Privacy Policy 
+FOXNewsInsider.com Privacy Policy 
 
 Tuesday, May 25, 2010
 
-FOXNEWSINSIDER.COM (“FOX”) is part of the News America Group, which has adopted a set of Privacy Principles (<http://www.newscorp.com/privacy.html>) applicable to all its U.S.-based companies. FOX has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information (“PII”) we obtain from and about individuals located in the U.S., both online and off-line. FOX is a general audience web site, and does not knowingly collect PII from children under 13 years of age.
+FOXNEWSINSIDER.COM (“FOX”) is part of the News America Group, which has adopted a set of Privacy Principles (http://www.newscorp.com/privacy.html) applicable to all its U.S.-based companies. FOX has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information (“PII”) we obtain from and about individuals located in the U.S., both online and off-line. FOX is a general audience web site, and does not knowingly collect PII from children under 13 years of age.
 
 From time to time FOX may revise this Privacy Policy to reflect industry initiatives or changes in the law, our PII collection and use practices, the features of our web sites or technology. If we make revisions that change the way we collect or use your PII, those changes will be posted in the Privacy Policy and the effective date will be noted at the beginning of this Privacy Policy. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. If FOX materially changes its practices regarding collection or use of your PII, your PII will continue to be governed by the Policy under which it was collected unless you have been provided notice of and have not objected to the change.
 
@@ -29,9 +29,9 @@ Sometimes we collect personally identifiable information from consumers in manua
 
 FOX’s web site(s) may be linked to Internet sites operated by other companies. Some of these third party sites may be co-branded with a FOX logo, even though they are not operated or maintained by FOX (for example, the eCompany Store site). FOX’s web site(s) also carry advertisements from other companies. FOX is not responsible for the privacy practices of web sites operated by third parties that are linked to our site(s) or for the privacy practices of third party or national Internet advertising companies. Once you’ve left a FOX site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you.
 
-FOX’s web site(s) may also be linked to sites operated by companies affiliated with FOX (i.e., that are part of the News America Group). Although all News America Group entities adhere to the group’s Privacy Principles (<http://www.newscorp.com/privacy.html>), visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Policy.
+FOX’s web site(s) may also be linked to sites operated by companies affiliated with FOX (i.e., that are part of the News America Group). Although all News America Group entities adhere to the group’s Privacy Principles (http://www.newscorp.com/privacy.html), visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Policy.
 
-Some of the advertisements that appear on FOX’s web site(s) are delivered to you by national Internet advertising and application companies such as DoubleClick and Revenue Science. These companies ultilize certain technologies to deliver advertisements and marketing messages and to collect anonymous information about your visit to our site(s), including information about the banner ads they display, any cookie they place on your computer and your IP address. To opt out of information collection by DoubleClick or Revenue Science, or to obtain information about the technologies they use or their own privacy policy, please visit their web sites at: <http://www.doubleclick.com/us/about_doubleclick/privacy> and <http://www.revenuescience.com/privacy.asp.>
+Some of the advertisements that appear on FOX’s web site(s) are delivered to you by national Internet advertising and application companies such as DoubleClick and Revenue Science. These companies ultilize certain technologies to deliver advertisements and marketing messages and to collect anonymous information about your visit to our site(s), including information about the banner ads they display, any cookie they place on your computer and your IP address. To opt out of information collection by DoubleClick or Revenue Science, or to obtain information about the technologies they use or their own privacy policy, please visit their web sites at: http://www.doubleclick.com/us/about_doubleclick/privacy and http://www.revenuescience.com/privacy.asp.
 
 CHOICE: FOX Will Provide You with Choices About the Use of Your PII  
 FOX will not use the PII you provide to us for purposes different from the purpose for which it was submitted or share your PII with third parties that are not affiliated with FOX (i.e., not part of the News America Group), unless we obtain your permission.
@@ -55,11 +55,11 @@ ACCESS: How to Access, Correct or Delete Your PII
 
 If you are a registered user at FOX’s web site, you can view your user preferences by following the procedure detailed below.
 
-To access your PII, send an e-mail with the word “Privacy” in the subject line to [comments@foxnewsinsider.com](mailto:comments@foxnewsinsider.com), or write to the FOX Internet Privacy Officer at FOXNewsInsider.com, 1211 Avenue of the Americas, 14th Floor, New York, New York 10036, requesting a listing of the PII that is on file for you. FOX will respond promptly to your request with a list of the PII on file. There may be certain instances when FOX may not be able to provide the PII, such as when access would violate the privacy of another individual, when access is prohibited by law, or when the PII has been lawfully obtained from third party sources.
+To access your PII, send an e-mail with the word “Privacy” in the subject line to comments@foxnewsinsider.com, or write to the FOX Internet Privacy Officer at FOXNewsInsider.com, 1211 Avenue of the Americas, 14th Floor, New York, New York 10036, requesting a listing of the PII that is on file for you. FOX will respond promptly to your request with a list of the PII on file. There may be certain instances when FOX may not be able to provide the PII, such as when access would violate the privacy of another individual, when access is prohibited by law, or when the PII has been lawfully obtained from third party sources.
 
 In the event the PII on file is incorrect, you may correct the PII by sending a written request for correction to the FOX Internet Privacy Officer at FOXNewsInsider.com, 1211 Avenue of the Americas, 14th Floor, New York, New York 10036 that includes (1) all of the incorrect PII that you wish to change, (2) the corrected PII and (3) your signature authorizing such changes. FOX will then correct the PII in its database and send a written confirmation to you promptly.
 
-If for any reason you wish to stop all future communications from FOX, you may send an e-mail with the word “Privacy” in the subject line to [comments@foxnewsinsider.com](mailto:comments@foxnewsinsider.com), or a write to the FOX Internet Privacy Officer at FOXNewsInsider.com, 1211 Avenue of the Americas, 14th Floor, New York, New York 10036, requesting that your PII be permanently removed form any FOX database. FOX will send a written confirmation of such removal to you within fifteen (15) business days of receipt of your request.
+If for any reason you wish to stop all future communications from FOX, you may send an e-mail with the word “Privacy” in the subject line to comments@foxnewsinsider.com, or a write to the FOX Internet Privacy Officer at FOXNewsInsider.com, 1211 Avenue of the Americas, 14th Floor, New York, New York 10036, requesting that your PII be permanently removed form any FOX database. FOX will send a written confirmation of such removal to you within fifteen (15) business days of receipt of your request.
 
 REMEDIES AND COMPLIANCE: How to Contact Fox About Privacy Concerns  
 If you have concerns regarding this Privacy Policy, your use of the FOX web site(s), or the collection and use of PII, you may contact the following FOX representative:
@@ -76,6 +76,6 @@ New York, New York 10036
 
 Fax: 212-301- 
 
-e-mail: [comments@foxnewsinsider.com](mailto:comments@foxnewsinsider.com)
+e-mail: comments@foxnewsinsider.com 
 
 You may also request a written response to your concerns, which will be made no later than thirty (30) days after you contact FOX.
