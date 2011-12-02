@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rswebsols.com privacy policy that was archived on 2010-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100904155620id_/http%3A//www.rswebsols.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rswebsols.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202075253id_/http%3A//www.rswebsols.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RS Web Solutions
 
