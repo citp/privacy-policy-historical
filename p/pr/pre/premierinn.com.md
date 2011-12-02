@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premierinn.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229030742id_/http%3A//www.premierinn.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premierinn.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202140428id_/http%3A//www.premierinn.com/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
