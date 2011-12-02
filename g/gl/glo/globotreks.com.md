@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globotreks.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604050947id_/http%3A//www.globotreks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globotreks.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202151353id_/http%3A//www.globotreks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ We don’t store personal information on our servers unless required for the on-
 
 Below is our privacy policy which incorporates these goals:[](http://creativecommons.org/licenses/by-sa/2.5/) (Note, we’ve decided to make this privacy policy available under a  **Creative Commons Sharealike** license, which means you’re more than welcome to steal it and repurpose it for your own use, just make sure to replace references to us with ones to you, and if you want we’d appreciate a link to our site somewhere on your site. We spent a lot of money and time on the below, and other people shouldn’t need to do the same.)
 
-**GloboTreks** is operated by Fuse Concepts Inc. It is GloboTreks’ policy to respect your privacy regarding any information we may collect while operating our websites.
+ **GloboTreks** is operated by Fuse Concepts Inc. It is GloboTreks’ policy to respect your privacy regarding any information we may collect while operating our websites.
 
 Website Visitors
 
