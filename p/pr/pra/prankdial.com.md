@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prankdial.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518142851id_/http%3A//www.prankdial.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prankdial.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202174611id_/http%3A//www.prankdial.com/privacy) for the most accurate reproduction.*
 
 # PrankDial - Privacy Policy
 
