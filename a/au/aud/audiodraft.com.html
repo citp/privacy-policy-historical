@@ -1,46 +1,45 @@
-<!--The following is the downloaded HTML source of the audiodraft.com privacy policy that was archived on 2011-02-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110212225042id_/http%3A//www.audiodraft.com/legal/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the audiodraft.com privacy policy that was archived on 2011-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111202150214id_/http%3A//www.audiodraft.com/legal/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
-<meta property="og:site_name" content="AudioDraft"><meta property="og:type" content="company"><meta property="fb:app_id" content="121074271245140">
+<meta property="og:type" content="article">
+
+<meta property="og:site_name" content="AudioDraft">
+<meta property="fb:app_id" content="121074271245140">
+
 <meta name="keywords" content="audio crowdsourcing,sketching,sourcing,social audio,music collaboration,what do you sound like,crowdsourcing,custom made audio,game music,game audio">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="google-site-verification" content="9M8FwA7ykWn8LWzXo8h7zRbsud3k-z6xc1u2oVd0m20">
-<link rel="SHORTCUT ICON" href="http://www.audiodraft.com/favicon.gif">
-<link href="http://www.audiodraft.com/css/general.css?ver=1293788625" rel="stylesheet" type="text/css"><link href="http://www.audiodraft.com/css/popup.css?ver=1295454608" rel="stylesheet" type="text/css"><link href="http://www.audiodraft.com/css/privacy.css?ver=1285969948" rel="stylesheet" type="text/css"><link href="http://www.audiodraft.com/css/sketching.general.css?ver=1285969948" rel="stylesheet" type="text/css"><title>AudioDraft - Privacy Policy</title>
+
+<link rel="SHORTCUT ICON" href="http://www.audiodraft.com/favicon.png">
+
+<title>AudioDraft - Privacy Policy</title>
+
+<link href="http://www.audiodraft.com/css/general.css?ver=1322729912" rel="stylesheet" type="text/css">
+
+<link href="http://www.audiodraft.com/css/privacy.css?ver=1320083982" rel="stylesheet" type="text/css">
 
 
-  <script type="text/javascript" src="http://www.audiodraft.com/sketching/swfobject/swfobject.js"></script> 
-  <script type="text/javascript" src="http://www.audiodraft.com/javascripts/packages/prototype.js"></script>
-  <script type="text/javascript" src="http://www.audiodraft.com/javascripts/packages/scriptaculous.js"></script>
-<script type="text/javascript" src="http://www.audiodraft.com/javascripts/packages/soundmanager2.js"></script>
+
+<script type="text/javascript" src="http://www.audiodraft.com/javascripts/packages/prototype.js"></script>
+<script type="text/javascript" src="http://www.audiodraft.com/javascripts/packages/scriptaculous.js"></script>
 <script type="text/javascript">
 
-function changeLanguage(thing) {
-  lang_form = document.createElement("form");
-  lang_form.action = "";
-	lang_form.method = "post";
-	lang_field = document.createElement("input");
-	lang_field.type = "hidden";
-	lang_field.name = "lang";
-	lang_field.value = thing.options[thing.selectedIndex].value;
-	lang_form.appendChild(lang_field);
-	document.body.appendChild(lang_form);
-	lang_form.submit();
-}
+function init() {}
+
+var popup_timer;
 
 function popup(header, text, auto_remove)
 {
 
   auto_remove = typeof(auto_remove) != 'undefined' ? auto_remove : true;
 
-	var htmlcode = "	<div id=\"popup_top\"><\/div>	<div id=\"popup_content\">		<h1><HEADER><\/h1>		<div class=\"line\"><\/div>		<div id=\"popup_close\"><a href=\"javascript:void(0)\" onClick=\"document.body.removeChild(document.getElementById('popup'));\">X<\/a><\/div>						<div id=\"popup_description\">			<TEXT>			<\/div>	<\/div>";
+	var htmlcode = "	<div id=\"popup_top\"><\/div>	<div id=\"popup_content\">		<h1><HEADER><\/h1>		<div class=\"line\"><\/div>		<div id=\"popup_close\"><a href=\"javascript:void(0)\" onClick=\"document.body.removeChild(document.getElementById('popup'));clearTimeout(popup_timer);\">X<\/a><\/div>						<div id=\"popup_description\">			<TEXT>			<\/div>	<\/div>";
 	htmlcode = htmlcode.replace("<HEADER>", header);
 	htmlcode = htmlcode.replace("<TEXT>", text);
 	
 	var pagewidth = document.documentElement.clientWidth + document.documentElement.scrollLeft;
-	var topPosition = f_scrollTop() + 120;
+	var topPosition = f_scrollTop() + 128;
 
   // Removes the existing popup - the current popup not used because different sizes might mess up
   if (document.getElementById('popup') != null)
@@ -60,8 +59,14 @@ function popup(header, text, auto_remove)
 	document.body.appendChild(popupbox);
 	
 	if (auto_remove)
-		setTimeout("document.body.removeChild(document.getElementById('popup'));", 4000);
+		popup_timer = setTimeout("document.body.removeChild(document.getElementById('popup'));", 4000);
   
+}
+
+function removePopup()
+{
+  if (document.getElementById('popup') != null)
+    document.body.removeChild(document.getElementById('popup'));
 }
 
 function f_scrollTop() {
@@ -71,6 +76,7 @@ function f_scrollTop() {
 		document.body ? document.body.scrollTop : 0
 	);
 }
+
 function f_filterResults(n_win, n_docel, n_body) {
 	var n_result = n_win ? n_win : 0;
 	if (n_docel && (!n_result || (n_result > n_docel)))
@@ -83,7 +89,8 @@ function feedback()
   // If is so that only one popupbox is created
   if (document.getElementById('popup') == null)
   {
-    var htmlcode = "	<div id=\"popup_top\"><\/div>	<div id=\"popup_content\">		<h1>Send Feedback<\/h1>		<div id=\"popup_close\"><a href=\"javascript:void(0)\" onClick=\"document.body.removeChild(document.getElementById('popup'));\">X<\/a><\/div>						<div id=\"popup_description\">			You can leave us feedback through this form. If you would like us to answer you please mention that in your post.			<\/div>						<form enctype=\"multipart\/form-data\" id=\"popup_feedback_form\" name=\"popup_feedback_form\" method=\"post\">						<div id=\"popup_feedback_textarea\">					<textarea id=\"popup_feedback_textarea_element\" name=\"popup_feedback_textarea_element\"><\/textarea>				<\/div>				<input type=\"submit\" name=\"popup_feedback_form_submit\" value=\"Send\"\/>			<\/form>	<\/div>";
+    var htmlcode = "	<div id=\"popup_top\"><\/div>	<div id=\"popup_content\">		<h1>Feedback<\/h1>		<div id=\"popup_close\"><a href=\"javascript:void(0)\" onClick=\"document.body.removeChild(document.getElementById('popup'));\">X<\/a><\/div>						<div id=\"popup_description\">			Send feedback to AudioDraft team. Remember to include your email address if you want us to reply to your feedback.			<br \/><br \/>			Also remember to check out our <a class=\"link\" href=\"http:\/\/www.audiodraft.com\/faq\/\">FAQ page<\/a> if you have questions concerning AudioDraft.			<\/div>						<form enctype=\"multipart\/form-data\" id=\"popup_feedback_form\" name=\"popup_feedback_form\" method=\"post\">						<div id=\"popup_feedback_textarea\">					<textarea id=\"popup_feedback_textarea_element\" name=\"popup_feedback_textarea_element\"><\/textarea>				<\/div>				<div id=\"popup_feedback_email\">					<label for=\"popup_feedback_email_element\">Email: <\/label>					<input id=\"popup_feedback_email_element\" name=\"popup_feedback_email_element\" value=\"[USER_EMAIL]\" \/>				<\/div>				<input type=\"submit\" name=\"popup_feedback_form_submit\" value=\"Send\"\/>			<\/form>	<\/div>";
+    htmlcode = htmlcode.replace("[USER_EMAIL]", "");
     var pagewidth = document.documentElement.clientWidth + document.documentElement.scrollLeft;
    
     var popupbox = document.createElement('div');
@@ -99,12 +106,13 @@ function feedback()
   }
 }
 
-function reportMisuse()
+function reportMisuse(misuse_entry_id)
 {
   // If is so that only one popupbox is created
   if (document.getElementById('popup') == null)
   {
-    var htmlcode = "	<div id=\"popup_top\"><\/div>	<div id=\"popup_content\">		<h1>Report Misuse<\/h1>		<div id=\"popup_close\"><a href=\"javascript:void(0)\" onClick=\"document.body.removeChild(document.getElementById('popup'));\">X<\/a><\/div>						<div id=\"popup_description\">			You can report any malicious user activity or audio misuse to the site administrators by using the form below. We take all reports very seriously and will investigate them as soon as possible!			<\/div>						<form enctype=\"multipart\/form-data\" id=\"popup_feedback_form\" name=\"popup_feedback_form\" method=\"post\">						<div id=\"popup_feedback_textarea\">					<textarea id=\"popup_feedback_textarea_element\" name=\"popup_feedback_textarea_element\"><\/textarea>				<\/div>				<input type=\"submit\" name=\"popup_feedback_form_submit\" value=\"Send\"\/>			<\/form>	<\/div>";
+    var htmlcode = "	<div id=\"popup_top\"><\/div>	<div id=\"popup_content\">		<h1>Report Misuse<\/h1>		<div id=\"popup_close\"><a href=\"javascript:void(0)\" onClick=\"document.body.removeChild(document.getElementById('popup'));\">X<\/a><\/div>						<div id=\"popup_description\">			If you suspect that this entry violates copyrights you can use the form below to notify the site administrators. You must include a message why you think this entry violates copyrights, otherwise your report will not be processed!			<\/div>						<form enctype=\"multipart\/form-data\" id=\"popup_feedback_form\" name=\"popup_feedback_form\" method=\"post\">						<div id=\"popup_feedback_textarea\">					<textarea class=\"misuse_example\" id=\"popup_feedback_textarea_element\" name=\"popup_feedback_textarea_element\" onFocus=\"emptyMisuse()\" onBlur=\"fillMisuse()\"><\/textarea>				<\/div>				<input type=\"hidden\" name=\"report_misuse_entryid\" value=\"<ENTRY_ID>\" \/>				<input type=\"submit\" name=\"popup_feedback_form_submit\" value=\"Send\" \/>			<\/form>	<\/div>";
+    htmlcode = htmlcode.replace("<ENTRY_ID>", misuse_entry_id);
     var pagewidth = document.documentElement.clientWidth + document.documentElement.scrollLeft;
    
     var popupbox = document.createElement('div');
@@ -117,6 +125,24 @@ function reportMisuse()
     popupbox.style.width = popupwidth+'px';
     
     document.body.appendChild(popupbox);
+  }
+}
+
+function emptyMisuse()
+{
+  textarea = document.getElementById('popup_feedback_textarea_element');
+  if (textarea != null)
+  {
+    textarea.className = "misuse_empty";
+  }
+}
+
+function fillMisuse()
+{
+  textarea = document.getElementById('popup_feedback_textarea_element');
+  if (textarea != null && textarea.value == "")
+  {
+    textarea.className = "misuse_example";
   }
 }
 
@@ -206,277 +232,6 @@ function hidetooltip()
   if (document.getElementById('tooltip') != null)
     document.body.removeChild(document.getElementById('tooltip'));
 }
- 
-function ShowPicture(id,Source) { 
-	if (Source=="1"){ 
-		if (document.layers) document.layers[''+id+''].visibility = "show" 
-		else if (document.all) document.all[''+id+''].style.visibility = "visible" 
-		else if (document.getElementById) document.getElementById(''+id+'').style.visibility = "visible" 
-	} 
-else 
-	if (Source=="0"){ 
-		if (document.layers) document.layers[''+id+''].visibility = "hide" 
-		else if (document.all) document.all[''+id+''].style.visibility = "hidden" 
-		else if (document.getElementById) document.getElementById(''+id+'').style.visibility = "hidden" 
-	} 
-} 
- 
-var playing = false;
-var playingid = 0;
-var filepath = "";
-var playertext = "";
-var mySound;
-var timer;
-var playpos = 0;
-var sourcingside = false;
-var hand = false;
-
-soundManager.url = 'http://www.audiodraft.com/javascripts/packages/';
-
-soundManager.useFlashBlock = false;
-soundManager.debugMode = false;
-//soundManager.useHTML5Audio = true;
-
-function initPlayer()
-{
-	playing = false;
-	playingid = 0;
-	filepath = "";
-	playertext = "";
-	playpos = 0;
-	sourcingside = false;
-}
-
-function playertime(ms) {
-
-  // Determine the minutes and seconds portions of the time.
-  var seconds = ms / 1000;
-  var m = Math.floor(seconds/60);
-  var s = Math.round(seconds - (m * 60));
-
-  // Add leading zeros to one-digit numbers.
-  if (m < 10) {
-    m = "0" + m;
-  }
-  if (s < 10) {
-    s = "0" + s;
-  }
-  return m + ":" + s;
-}
-
-// PARAMS:
-// projectid = either projectid or entryid depending on if sketching or sourcing side
-// sourcing = true if sourcing side (entries), false if sketching side (projects)
-function playAudio(projectid, sourcing, ho) {
-  
-  soundManager.stopAll();
-  if (!playing || playingid != projectid)
-  {
-    if (playingid != projectid)
-    {
-      playpos = 0;
-      if (playingid > 0)
-        document.getElementById('player_'+playingid).className = "btn_play";
-    }
-    
-    playingid = projectid;
-    
-    if (sourcing == true)
-    {
-      sourcingside = true;
-      var url = 'http://www.audiodraft.com/scripts/sourcing/player/getEntryInfo.php';
-      var pars = 'entryid=' + projectid;
-      if (ho == true)
-      {
-        hand = true;
-        pars += '&hand=true';
-      }
-    } else {
-      sourcingside = false;
-      var url = 'http://www.audiodraft.com/scripts/sketching/player/getProjectInfo.php';
-      var pars = 'projectid=' + projectid;
-    }
-	  var myAjax = new Ajax.Request( url, {parameters: pars, onComplete: playAudiofile} );
-  } else {
-    pauseAudio();
-  }
-}
-
-function playAudiofile(originalRequest)
-{
-  path = originalRequest.responseText;
-  
-	mySound = soundManager.createSound({
-		id: playingid,
-		url: path,
-		onfinish: stopAudio
-	});
-	mySound.setPosition(playpos);
-	mySound.play();
-	playing = true;
-	
-	document.getElementById('player_'+playingid).className = "btn_pause";
-	document.getElementById('player_playbtn').className = "btn_bigpause";
-  
-  if (sourcingside == true)
-  {
-    var url = 'http://www.audiodraft.com/scripts/sourcing/player/getEntryName.php';
-    var pars = 'entryid=' + playingid;
-    if (hand == true)
-      pars += "&hand=true";
-  } else {
-    var url = 'http://www.audiodraft.com/scripts/sketching/player/getProjectName.php';
-    var pars = 'projectid=' + playingid;
-  }
-	var myAjax = new Ajax.Request( url, {parameters: pars, onComplete: updateProjectName} );
-  
-	$('general_player_wrapper').appear();
-	updatePlayer();
-	
-}
-
-function updateProjectName(originalRequest)
-{
-  playertext = originalRequest.responseText;
-  document.getElementById('general_player_info').innerHTML = "Now playing: "+playertext;
-}
-
-function pauseAudio() {
-  if (playing)
-  {
-    playing = false;
-    clearTimeout(timer);
-    playpos = mySound.position;
-    soundManager.stopAll();
-    document.getElementById('player_'+playingid).className = "btn_play";
-  	document.getElementById('player_playbtn').className = "btn_bigplay";
-  } else {
-    playAudio(playingid, sourcingside);
-  }
-}
-
-function stopAudio() {
-	playing = false;
-	clearTimeout(timer);
-	playpos = 0;
-	soundManager.stopAll();
-	document.getElementById('player_'+playingid).className = "btn_play";
-	document.getElementById('player_playbtn').className = "btn_bigplay";
-	document.getElementById('general_player_timeline_played').style.width = "0%";
-	document.getElementById('player_position').innerHTML = "00:00";
-}
-
-function playPrevious() {
-  var links = document.getElementsByTagName("a");
-  var currentlink = document.getElementById("player_"+playingid);
-  
-  var previous = null;
-  for (var i = 0; i < links.length; i++)
-  {
-    if (links[i].getAttribute("id") != null && links[i].getAttribute("id").startsWith("player_"))
-    {
-      if (links[i] == currentlink && previous != null)
-      {
-        eval(previous.getAttribute("onClick"));
-        return true;
-      } else if (links[i] == currentlink && previous == null)
-        return true;
-      
-      previous = links[i];
-    }
-  }
-}
-
-function playNext() {
-  var links = document.getElementsByTagName("a");
-  var currentlink = document.getElementById("player_"+playingid);
-  
-  var next = false;
-  for (var i = 0; i < links.length; i++)
-  {
-    if (next && links[i].getAttribute("id") != null && links[i].getAttribute("id").startsWith("player_"))
-    {
-      eval(links[i].getAttribute("onClick"));
-      return true;
-    }
-    
-    if (links[i] == currentlink)
-      next = true;
-    
-  }
-  return true;
-  
-}
-
-function findPos(obj)
-{
-  var curLeft = 0;
-  if (obj.offsetParent) {
-    do {
-      curLeft += obj.offsetLeft;
-    } while (obj = obj.offsetParent);
-  }
-  return curLeft;
-}
-
-function setPosition(e) {
-  
-  if (!e)
-    var e = window.event;
- 
-  var pos = e.pageX - findPos(e.target);
-  var width = document.getElementById('general_player_timeline').clientWidth;
-  
-  var songPosition = mySound.duration * (pos/width);
-  
-  mySound.setPosition(songPosition);
-}
-
-// Updates the player graphics
-// Works only when the song is still playing
-function updatePlayer() {
-  if (playing)
-  {
-		var percent = mySound.position / mySound.durationEstimate * 100;
-		
-		document.getElementById('general_player_timeline_played').style.width = percent+"%";
-		
-		var pos = playertime(mySound.position);
-		var dur = playertime(mySound.durationEstimate);
-		
-		document.getElementById('player_position').innerHTML = pos;
-		document.getElementById('player_length').innerHTML = dur;
-		
-		timer = setTimeout(updatePlayer, 500);	
-  }
-}
-
-function hidePlayer() {
-  soundManager.stopAll();
-  if (playing)
-  {
-    document.getElementById('player_'+playingid).className = "btn_play";
-    document.getElementById('player_playbtn').className = "btn_bigplay";
-    playing = false;
-  }
-  $('general_player_wrapper').fade();
-  initPlayer();
-}
-
-function f_scrollTop() {
-	return f_filterResults (
-		window.pageYOffset ? window.pageYOffset : 0,
-		document.documentElement ? document.documentElement.scrollTop : 0,
-		document.body ? document.body.scrollTop : 0
-	);
-}
-
-function f_filterResults(n_win, n_docel, n_body) {
-	var n_result = n_win ? n_win : 0;
-	if (n_docel && (!n_result || (n_result > n_docel)))
-		n_result = n_docel;
-	return n_body && (!n_result || (n_result > n_body)) ? n_body : n_result;
-}
 
 // General code for showing popup
 function showPopup(originalRequest)
@@ -538,79 +293,6 @@ function showFollowingPopup(profileid, type)
   var myAjax = new Ajax.Request( url, {parameters: pars, onComplete: showPopup} );
 }
 
-
-/** LIKING PROJECTS **/
-
-var like_project_id;
-
-function likeProject(userid, projectid)
-{
-  like_project_id = projectid;
-  var url = 'http://www.audiodraft.com/scripts/sketching/project/likeProject.php';
-	var pars = 'userid=' + userid + '&projectid=' + like_project_id;
-	var myAjax = new Ajax.Request( url, {parameters: pars, onComplete: markLiked} );
-}
-
-function markLiked () 
-{
-	var classname = document.getElementById('like_'+like_project_id).className;
-	var newclass = (classname == "btn_like") ? "btn_unlike" : "btn_like";
-	
-	document.getElementById('like_'+like_project_id).className = newclass;
-	updateLikerCount();
-}
-
-function updateLikerCount()
-{
-  var url = 'http://www.audiodraft.com/scripts/sketching/project/projectLikerCount.php';
-	var pars = 'projectid=' + like_project_id;
-	var myAjax = new Ajax.Request( url, {parameters: pars, onComplete: updateLikes} );
-}
-
-function updateLikes (originalRequest) 
-{
-	var count = originalRequest.responseText;
-	document.getElementById('likercount_'+like_project_id).innerHTML = count;
-}
-
-/** LIKING PROJECTS ENDS **/
-
-/** FOLLOW PROJECTS **/
-
-var follow_project_id;
-
-function followProject(userid, projectid)
-{
-  follow_project_id = projectid;
-  var url = 'http://www.audiodraft.com/scripts/sketching/project/followProject.php';
-	var pars = 'userid=' + userid + '&projectid=' + follow_project_id;
-	var myAjax = new Ajax.Request( url, {parameters: pars, onComplete: markProjectFollowed} );
-}
-
-function markProjectFollowed()
-{
-	var classname = document.getElementById('follow_'+follow_project_id).className;
-	var newclass = (classname == "btn_follow") ? "btn_unfollow" : "btn_follow";
-	
-	document.getElementById('follow_'+follow_project_id).className = newclass;
-	updateProjectFollowerCount();
-}
-
-function updateProjectFollowerCount()
-{
-  var url = 'http://www.audiodraft.com/scripts/sketching/project/projectFollowerCount.php';
-	var pars = 'projectid=' + follow_project_id;
-	var myAjax = new Ajax.Request( url, {parameters: pars, onComplete: updateProjectCount} );
-}
-
-function updateProjectCount (originalRequest) 
-{
-	var count = originalRequest.responseText;
-	document.getElementById('followercount_'+follow_project_id).innerHTML = count;
-}
-
-/** FOLLOW PROJECTS ENDS **/
-
 /** FOLLOW USER **/
 
 var follow_user_id;
@@ -658,6 +340,52 @@ function openPopupWindow (url, width, height)
 	if (window.focus) {newwindow.focus()}
 }
 
+function showEmailVerificationPopup()
+{
+  var header = 'Email not verified';
+  var text = 'Please go to your email account and click the verification link we sent you. If for some reason you did not receive the email, you can change the email address at the <a href="http://www.audiodraft.com/user/settings.php?page=account">settings page</a>.';
+  popup(header, text, false);
+}
+
+function emailContactPopup()
+{
+  var header = 'Get updates to your inbox';
+  var text = '<div class="email_popup_text">Leave your email and subscribe to our newsletter about new contests and other cool things happening on AudioDraft.</div>';
+  
+  text += '<div><input class="subscribe_email_input popup_margintop" id="popup_email_input" name="subscribe_email_input" type="text"></input></div>';
+  text += '<div><label for="email_designer"><input class="popup_margintop" type="radio" name="email_subs" id="email_designer" value="designer" checked />I might participate on your contests.</label></div>';
+  text += '<div><label for="email_customer"><input type="radio" name="email_subs" id="email_customer" value="customer" />I might order audio from your service.</label></div>';
+  text += '<div><input class="general_btn_blue popup_margintop" type="submit" value="Submit" onClick="emailSubscription()" /></div>';
+  
+  popup(header, text, false);
+}
+
+function emailSubscription()
+{
+  email = document.getElementById('popup_email_input').value;
+  type = $$('input:checked[type="radio"][name="email_subs"]').pluck('value');
+
+  var url = 'http://www.audiodraft.com/scripts/general/landing/emailSubscription.php';
+	var pars = 'email=' + email + '&type=' + type;
+	var myAjax = new Ajax.Request( url, {parameters: pars, onComplete: emailConfirmation} );
+
+}
+
+function emailConfirmation(originalRequest) {
+  var complete = originalRequest.responseText;
+  if (complete == "true") {
+    popup('Thank you', 'Your subscription has been saved successfully.');
+  } else if (complete == "already_subscribed") {
+    popup('Already subscribed', 'The email you entred already has an active subscription.', false);
+  } else {
+    popup('Incorrect e-mail', 'Please check the format of the e-mail you entered.', false);
+  }
+}
+
+function isNumber(n) {
+  return !isNaN(parseFloat(n)) && isFinite(n);
+}
+
 </script>
 
 </head>
@@ -665,83 +393,190 @@ function openPopupWindow (url, width, height)
 <body onload="init()">
 <div id="header">
 <div class="wrapper">
-	<div id="beta"></div>
-  	<a href="http://www.audiodraft.com/"><img id="logo" src="http://www.audiodraft.com/css/images/general/logo2.png" alt="AudioDraft"></a>
+  
+  <a href="http://www.audiodraft.com/"><img id="logo" src="http://www.audiodraft.com/images/general/audiodraft.png" alt="AudioDraft"></a>
   <div id="feedback"><a href="javascript:void(0);" onclick="feedback();">Feedback</a></div>
-	<div class="menu_container"><div class="menu_info">Not registered yet? <a class="menu_info" href="http://www.audiodraft.com/signin/register.php">Sign up now!</a></div><div id="menu"><a id="signin" href="http://www.audiodraft.com/signin/"></a></div></div><div class="menu_nav1">
+	
+	<div class="menu_container">
+  <div class="menu_info"><a class="menu_info" href="http://www.audiodraft.com/signin/">Sign in</a> | <a class="menu_info" href="http://www.audiodraft.com/signin/register.php">Register</a></div>
+</div>
+
+<div class="menu_nav1">
 	<ul>
-		<li class="menu_nav1" id="menu_nav1_2"><div class="menu_nav1_left"></div><div class="menu_nav1_right"></div><a href="http://www.audiodraft.com/sourcing/">Contests</a></li><li class="menu_nav1_space"></li><li class="menu_nav1" id="menu_nav1_3"><div class="menu_nav1_left"></div><div class="menu_nav1_right"></div><a href="http://www.audiodraft.com/sketching/">Community</a></li><li class="menu_nav1_space"></li><li class="menu_nav1" id="menu_nav1_4"><div class="menu_nav1_left"></div><div class="menu_nav1_right"></div><a href="http://www.audiodraft.com/sourcing/howitworks/">How it works</a></li>	</ul>
+        <li class="menu_nav1" id="menu_nav1_2"><a href="http://www.audiodraft.com/sourcing/contests/">Contests</a></li>
+        
+        
+    <li class="menu_nav1_space"></li>
+    
+        <li class="menu_nav1" id="menu_nav1_3"><a href="http://www.audiodraft.com/sketching/">Community</a></li>
+    
+    <li class="menu_nav1_space"></li>
+    
+        <li class="menu_nav1" id="menu_nav1_4"><a href="http://www.audiodraft.com/sourcing/howitworks/">How it works</a></li>
+    	</ul>
+	
+		<div class="menu_subscribe"><a href="javascript:void(0);" onclick="emailContactPopup()">Want to get updates?</a></div>
+		
 	<div class="clear"></div>
 </div>
-</div></div>	<div class="menu_nav2">
+</div> <!-- .wrapper -->
+</div> <!-- #header -->
 
-		<div class="menu_nav2_general"></div></div>
-<div class="clear"></div>	 <!-- begin -->
-	<div class="wrapper"><div id="content_main">
+<div class="menu_nav2">
+  
+  
+    <div class="menu_nav2_general"></div>
+  
+  
+</div> <!-- .menu_nav2 -->
+
+<div class="clear"></div>
+<!--</div>  begin -->
+
+<div class="wrapper"><div id="content_main">
 <div id="left_frame_600">
 	<div class="content">
 		<h1>Privacy Policy</h1>
 <p>
-AudioDraft User Register
-Personal Data Act (523/99) 10, 24 §
-</p><p>
-AudioDraft ("Controller") respects your privacy and is committed to safeguard the privacy of those persons using AudioDraft.com Service ("User"). This Privacy Policy Provides Users information on how the Controller processes their personal data and how the Controller protects the same. Personal data refers to personally identifiable information, such as a name, address and Email address.
-</p><p>
-We encourage the User to read this document before using the AudioDraft.com Service. 
-</p><div class="separator"></div>
-<a name="1"><h2>1. The purpose of processing the personal data</h2></a>
-<p>
-Personal data may be processed for the purposes of using, maintaining and developing the AudioDraft.com Service. The Controller commits to adhere to the provisions of the Personal Data Act and other such applicable laws and regulations pertaining to processing of personal data, as well as process personal data in compliance with good processing practice. The Controller will pursue to take appropriate measures in order to prevent unauthorized access to personal data, any inappropriate use thereof and any possible inaccuracies. All personnel processing personal data are obliged to keep such information strictly confidential.
-</p><div class="separator"></div>
-<a name="2"><h2>2. Content of the register, regular sources of information, accuracy of personal data</h2></a>
-<p>
-The register will consist of the following information:
-</p><p>
-- Name and address<br>
-- Telephone number<br>
-- Email address<br>
-- [IP-address]<br>
+<b><a name="0">LAST UPDATED OCTOBER 31, 2011</a></b>
+</p>
 
-</p><p>
-The above information will be collected from Users when they sign up for the AudioDraft.com Service. 
-</p><p>
-The Controller may, at its own initiative or upon a User’s request complement, correct or delete incomplete, inaccurate or outdated personal data.
-</p><div class="separator"></div>
-<a name="3"><h2>3. Disclosed data</h2></a>
+<p class="privacy_strong">The Highlights of this Privacy Policy</p>
+
+<ul>
+<li class="bullet level1">Exercise care when sharing personal data when you use the Service.</li>
+<li class="bullet level1">Submitting personal data about other individuals, such as pictures or contact information, may violate their privacy.</li>
+<li class="bullet level1">Providing additional personal data in the "Info" section or forums is completely voluntary.</li>
+<li class="bullet level1">We may disclose your personal data to:</li>
+<li class="bullet level2">Other users of the Service;</li>
+<li class="bullet level2">To our advertising partners, in compliance with applicable laws;</li>
+<li class="bullet level2">To service providers;</li>
+<li class="bullet level2">To public authorities; and</li>
+<li class="bullet level2">To our subsidiaries and affiliates; or a subsequent owner, co-owner or operator of the Service in connection with a corporate reorganization.</li>
+</ul>
+
+<a name="1"><h2>1. Introduction</h2></a>
 <p>
-The Controller will not disclose personal data stored in the register to third parties for direct marketing, market research, polls or public registers.
-</p><p>
-In exceptional circumstances personal data may be disclosed to third parties if required under any applicable law or regulations or order by competent authorities, or in order to enforce terms of service and to investigate possible infringing use of the AudioDraft.com Service as well as to guarantee safety of the AudioDraft.com Service.
-</p><p>
-The Controller may use external service providers to provide technical solutions for processing stored data and access the stored data by using a technical interface. The Controller will not transfer data to countries outside the European Union or the European Economic Area.
-</p><div class="separator"></div>
-<a name="4"><h2>4. Data protection and the principle how the personal data is secured</h2></a>
+We at Audiodraft Ltd ("We", "Us") think that privacy and the protection of personal data are an important element of the user experience of www.audiodraft.com (the "Service"), as described in our <a class="link" href="http://www.audiodraft.com/legal/terms.php">Terms of Use</a>.  In this Privacy Policy, the term "personal data" means information that relates to an identified or identifiable natural person. This Privacy Policy tells you about the ways in which we protect your privacy and personal data we process about you.
+</p>
 <p>
-The register will be maintained in external service providers’ servers with appropriate safeguards, such as password protection, granting the access to the stored information only to the Controller. The register is protected by appropriate industry standard, technical and organisatory safety measures. The database will be accessible only to those persons expressly authorized by the Controller.
-</p><div class="separator"></div>
-<a name="5"><h2>5. Cookies</h2></a>
+We know that you, the user of the Service, are concerned about how we use and disclose personal data.  We are dedicated to openness regarding the ways in which we use and disclose personal data, and we are committed to complying with data protection and privacy laws that apply to us. Importantly, we want to give you control over personal data that we process about you when you use the Service.
+</p>
 <p>
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. The Controller uses cookies to help it identify and track visitors, their usage of the AudioDraft.com Service and website, and their website access preferences. Users who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using AudioDraft.com Service and/or websites, with the drawback that certain features of AudioDraft’s websites may not function properly without the aid of cookies.
-</p><p>
-The cookies will not enable the Controller to access and review information stored on a User’s computer. The Controller will neither store nor review any information gathered through cookies.
-</p><div class="separator"></div>
-<a name="6"><h2>6. Information on the processing of personal data</h2></a>
+We wish to remind you that this Privacy Policy applies to personal data that we process when you use the Service.  It does not apply to any links to third parties' websites and/or services that you may encounter when you use the Service. We encourage you to carefully familiarize yourself with privacy policies applicable to any websites and/or services operated by third parties. Please be aware that we are not responsible for the privacy practices of any third parties.
+</p>
 <p>
-A User is entitled to review any information collected on him/her and stored in the register once per year free of charge. When a User wishes to use the above right to review stored information, the User should send a signed request thereof to the Controller using the contact details below. A User may also review any information collected on him/her and stored in the register independently by using a technical interface, username and a password, and update and modify the stored personal data.
-</p><div class="separator"></div>
-<a name="7"><h2>7. Changes to the Privacy Policy</h2></a>
+Please be careful when sharing personal data about you generally in the Service and with other users of the Service.  When you communicate with other users in the Service, be careful about sharing personal data with them.  Also, submitting personal data relating to other individuals, such as pictures or contact information, may violate their privacy and data protection rights.  Thus, please obtain consent from the individual whose personal data you are about to submit to the Service before you submit such data.
+</p>
+
+<a name="2"><h2>2. The Data We Collect</h2></a>
+<p class="privacy_strong">Personal data you provide to the Service</p>
+
+<p class="privacy_semi_strong">a) When You Register with the Service</p>
 <p>
-The Controller may change this Privacy Policy from time to time, and in the Controller‘s sole discretion. All changes hereto will be made available in this website, which is why the Controller encourages Users to frequently check this page for any changes to its Privacy Policy. Changes hereto will not prejudice Users’ rights without their consent. The Controller will inform the Users of material changes by sending an Email or other such applicable way.
-</p><div class="separator"></div>
-<a name="8"><h2>8. Controller and the person in charge</h2></a>
+When you register with the Service we only require you to enter your e-mail address and your password.  However, if you use a third party service, such as Facebook Connect, for signing into the Service, we may collect personal data, such as your user ID, name, and e-mail address, that are available in your public profile with the third party service you use for signing into the Service.
+</p>
+
+<p class="privacy_semi_strong">b) When You Create Your Profile</p>
 <p>
-The user may at any time contact the Controller at the address below.
-</p><p>
-</p><div class="info_left">Contact person:</div><div class="info_right">Tommi Koskinen</div>
-<div class="info_left">Address:</div><div class="info_right">Betonimiehenkuja 3 A, 02150 Espoo, Finland</div>
-<div class="info_left">Telephone:</div><div class="info_right">+358 50 375 2231</div>
-<div class="info_left">Email:</div><div class="info_right">contact@audiodraft.com</div>
-<div class="info_left">www:</div><div class="info_right">http://www.audiodraft.com</div>
+We do not require you to provide additional personal data beyond what is required to register with the Service.  Please be aware, however, that certain elements of the Service, such as creating a contest or participating in a contest, may not be accessible without a profile and/or additional personal data.  If you voluntarily choose to create a profile, you may enter certain data that we collect, to the extent that you feel comfortable doing so.  Such data may include your name, your picture, your address, your country of origin, and your telephone number as well as data you enter in the "Info" section.
+</p>
+
+<p class="privacy_strong">Data Collected Automatically</p>
+<p>
+When you use the Service, we automatically collect data that may in certain circumstances constitute personal data.
+</p>
+
+<p class="privacy_semi_strong">a) Log Data</p>
+<p>
+When you use the Service, the logging technology we use automatically collects the URL of the site from which you came and the site to which you are going when you leave the Service.  We also collect the Internet protocol (IP) address of the device you use to access the Service, information about the operating system of your device, as well as the name of your Internet Service Provider.
+</p>
+
+<p class="privacy_semi_strong">b) Cookie Files and Other Similar Technologies</p>
+<p>
+We may place a "cookie" on the hard drive of the device that you use to access the Service.  Cookies are text files that are saved on the hard drive of your device by means of your browser, enabling us to recognize your browser for purposes such as saving your preferences and directing relevant content to you.  Most of the currently available browsers give you the option of managing cookies by, for example, disabling them entirely, accepting them individually, and deleting saved cookies from your hard drive.  Google Analytics is also an element of the Service.  By using cookies, Google Analytics collects and stores data such as time of visit, pages visited, time spent on each page of the website, the Internet Protocol address, and the type of operating system used in the devices used to access the Service.  By using a browser plugin <a class="link" href="http://www.google.com/ads/preferences/plugin/" target="_blank">http://www.google.com/ads/preferences/plugin/</a> provided by Google, you can opt out of Google Analytics. Finally, in the "Create Contest" section of the Service we use Olark, a service that provides a live chat feature in the Service that monitors and analyzes any chats that you may participate in in the Service.
+</p>
+<p>
+We would like to remind you that if you completely disable cookies on your browser, you might not be able to use some features of the Service.
+</p>
+
+<p class="privacy_semi_strong">c) Your Use of the Service</p>
+<p>
+When you use the Service, our system collects certain information about the activities associated with your use of the Service.  Such information may include, but is not limited to, the contests you join, the contests you have created, and the quantity and type of content you submit to the Service.
+</p>
+
+<a name="3"><h2>3. The Purposes For Which We Use the Data</h2></a>
+<p>
+We use the data we collect for the following purposes:
+</p>
+
+<p><b>a) Personal data you provide to the Service:</b> We use the personal data you provide to the Service for the following purposes:</p>
+<li class="bullet level1">To set up and maintain your registration with the Service;</li>
+<li class="bullet level1">To communicate with you;</li>
+<li class="bullet level1">To provide features available in the Service;</li>
+<li class="bullet level1">To process any transactions you may enter into in the Service;</li>
+<li class="bullet level1">For direct marketing and market research in accordance with applicable law;</li>
+<li class="bullet level1">To prevent and investigate fraud and other misuses; and</li>
+<li class="bullet level1">To protect our rights and/or our property.</li>
+
+<p><b>b) Data collected automatically:</b> We use the data collected automatically for the following purposes:</p>
+<li class="bullet level1">To manage the service,</li>
+<li class="bullet level1">To personalize the Service,</li>
+<li class="bullet level1">To develop, improve, and protect the Service;</li>
+<li class="bullet level1">To audit and analyze the Service; and</li>
+<li class="bullet level1">To ensure the technical functionality and security of the Service.</li>
+
+<a name="4"><h2>4. How We Disclose Data</h2></a>
+<p>
+The data collected in the Service may be disclosed in the following manner:
+</p>
+
+<p><b>a) Personal data you provide to the Service:</b> We may disclose personal data you provide to the Service with the following categories of third parties:</p>
+<li class="bullet level1">To other users of the Service;</li>
+<li class="bullet level1">To our advertising partners in compliance with applicable laws;</li>
+<li class="bullet level1">To service providers, such as payment processors, which enable us to provide the Service to you;</li>
+<li class="bullet level1">To public authorities, such as law enforcement, if we are legally required to so or if we need to protect our rights or the rights of third parties; and</li>
+<li class="bullet level1">To our subsidiaries and affiliates; or a subsequent owner, co-owner or operator of the Service and their advisors in connection with a corporate merger, consolidation, restructuring, or the sale of substantially all of our stock and/or assets or other corporate reorganization, in accordance with this Privacy Policy.</li>
+
+<p><b>b) Data collected automatically:</b> The data collected automatically in the Service may be disclosed to the following categories of third parties:</p>
+<li class="bullet level1">To service providers, such as data analysis companies;</li>
+<li class="bullet level1">To our advertising partners in compliance with applicable laws; and</li>
+<li class="bullet level1">To public authorities, such as law enforcement, if we are legally required to do so or if we need to protect our rights or the rights of third parties.</li>
+
+<a name="5"><h2>5. Your Rights</h2></a>
+<p>
+You have the following rights with respect to the personal data we hold about you:
+</p>
+
+<li class="bullet level1"><b>The right to know what data we hold about you:</b> The easiest way to review the personal data you have provided to the Service is to access your profile. On your profile page you can also make changes to the personal data we hold about you.  If you have additional questions regarding the personal data we hold about you, please contact us at privacy@audiodraft.com.</li>
+<li class="bullet level1"><b>The right to have incomplete, incorrect, outdated, or unnecessary personal data corrected, deleted, or updated.</b> The easiest way to correct, delete, or update the personal data you have provided to the Service is to access your profile and enter the necessary changes there.  If you have additional questions regarding the correction, deletion, or updating of the personal data we hold about you, please contact us at privacy@audiodraft.com.</li>
+<li class="bullet level1"><b>The right to opt out of receiving electronic direct marketing communications from us:</b> All electronic direct marketing communications that you may receive from us, such as e-mail messages and SMS-messages, give you an option of not receiving such communications from us in the future.  If you have any additional questions about electronic direct marketing received from us, please contact us at privacy@audiodraft.com.</li>
+
+<a name="6"><h2>6. Deleting Your Profile</h2></a>
+<p>
+You can delete your profile from your <a class="link" href="http://www.audiodraft.com/user/settings.php?page=delete">settings page</a>. Please be reminded that your choice to delete your profile may not have an immediate effect, because our system may retain backup copies of information included in your profile for up to 90 days.
+</p>
+
+<a name="7"><h2>7. Data Security</h2></a>
+<p>
+The security of personal data is important to us.  For example, your user account is protected by a password, and the servers we use are secured and protected by a firewall.  Even so, we cannot guarantee that your personal data are always secure because data security measures in use from time to time may be vulnerable.  Consequently, please be mindful of the risks that personal data about you may be exposed to when you use the Service.
+</p>
+
+<a name="8"><h2>8. International Transfers of Personal Data</h2></a>
+<p>
+Some of the servers where the Service is hosted may be located in the United States. The laws applicable to the protection of personal data in the United States may be different from your home country.  By registering with the Service, you consent to personal data about you being transferred to the United States.
+</p>
+
+<a name="9"><h2>9. Changes to The Privacy Policy</h2></a>
+<p>
+From time to time we may change this Privacy Policy. You can tell when changes have been made to the Privacy Policy by referring to the <a class="link" href="#0">"Last Updated"</a> legend on top of this page.  If we materially change the ways in which we use and disclose personal data, we will post a notice in the Service and send an e-mail to our registered users. Your continued use of the Service following any changes to this Privacy Policy constitutes your acceptance of any such changes made.
+</p>
+
+<a name="10"><h2>10. Questions or Concerns?</h2></a>
+<p>
+Should you have any questions regarding this Privacy Policy, your privacy as it relates to the use of the Service, or the protection of the personal data we hold about you, please contact us at privacy@audiodraft.com.  We seek to swiftly resolve any concerns you may have.
+</p>
+
 <div class="clear"></div>
 
 	</div>
@@ -751,14 +586,16 @@ The user may at any time contact the Controller at the address below.
 	<div class="content">
 		<h3 class="frame_300">Table of contents</h3>
 		<div class="content_h3">
-			<a class="link" href="#1">1. The purpose of processing the personal data</a><br>
-			<a class="link" href="#2">2. Content of the register, regular sources of information, accuracy of personal data</a><br>
-			<a class="link" href="#3">3. Disclosed data</a><br>
-			<a class="link" href="#4">4. Data protection and the principle how the personal data is secured</a><br>
-			<a class="link" href="#5">5. Cookies</a><br>
-			<a class="link" href="#6">6. Information on the processing of personal data</a><br>
-			<a class="link" href="#7">7. Changes to the Privacy Policy</a><br>
-			<a class="link" href="#8">8. Controller and the person in charge</a><br>
+			<a class="link" href="#1">1. Introduction</a><br>
+			<a class="link" href="#2">2. The Data We Collect </a><br>
+			<a class="link" href="#3">3. The Purposes For Which We Use the Data</a><br>
+			<a class="link" href="#4">4. How We Disclose Data</a><br>
+			<a class="link" href="#5">5. Your Rights </a><br>
+			<a class="link" href="#6">6. Deleting Your Profile</a><br>
+			<a class="link" href="#7">7. Data Security</a><br>
+			<a class="link" href="#8">8. International Transfers of Personal Data</a><br>
+			<a class="link" href="#9">9. Changes to The Privacy Policy</a><br>
+			<a class="link" href="#10">10. Questions or Concerns?</a><br>
 		</div>
 	</div>
 </div>
@@ -771,25 +608,25 @@ The user may at any time contact the Controller at the address below.
 			<div class="footer_column_header"><a href="http://www.audiodraft.com">AudioDraft</a></div>
 			<div class="separator_dark"></div>
 			<div class="footer_column_content"><a href="http://www.audiodraft.com/faq/">FAQ</a></div>
-			<div class="footer_column_content"><a href="http://www.audiodraft.com/contact/">Contact</a></div>
-			<div class="footer_column_content"><a href="http://www.audiodraft.com/press/">Press</a></div>
+			<div class="footer_column_content"><a href="http://www.audiodraft.com/contact/">About Us</a></div>
+						<div class="footer_column_content"><a href="http://www.audiodraft.com/press/">Press</a></div>
+			<div class="footer_column_content"><a href="http://www.audiodraft.com/affiliate/">Affiliate Program</a></div>
 			<div class="footer_column_content"><a href="http://www.audiodraft.com/legal/privacy.php">Privacy Policy</a></div>
 			<div class="footer_column_content"><a href="http://www.audiodraft.com/legal/terms.php">Terms of Use</a></div>
 		</div>
 		<div class="footer_column">
 			<div class="footer_column_header"><a href="http://www.audiodraft.com/sourcing/">Contests</a></div>
 			<div class="separator_dark"></div>
-			<div class="footer_column_content"><a href="http://www.audiodraft.com/sourcing/createcontest/?new">Create a contest</a></div>
+			<div class="footer_column_content"><a href="http://www.audiodraft.com/sourcing/createcontest/">Create a contest</a></div>
 			<div class="footer_column_content"><a href="http://www.audiodraft.com/sourcing/contests/">Browse contests</a></div>
-			<!--<div class="footer_column_content"><a href="http://www.audiodraft.com/sourcing/">Users</a></div>-->
+			<div class="footer_column_content"><a href="http://www.audiodraft.com/contests/highlights.php">Success stories</a></div>
 			<div class="footer_column_content"><a href="http://www.audiodraft.com/sourcing/howitworks/">How it works</a></div>
 		</div>
 		<div class="footer_column">
 			<div class="footer_column_header"><a href="http://www.audiodraft.com/sketching/">Community</a></div>
 			<div class="separator_dark"></div>
 			<div class="footer_column_content"><a href="http://www.audiodraft.com/sketching/projects/">Projects</a></div>
-			<div class="footer_column_content"><a href="http://www.audiodraft.com/sketching/bulletin/">Bulletin board</a></div>
-			<div class="footer_column_content"><a href="http://www.audiodraft.com/sketching/users/">Users</a></div>
+						<div class="footer_column_content"><a href="http://www.audiodraft.com/sketching/users/">Users</a></div>
 			<div class="footer_column_content"><a href="http://www.audiodraft.com/forum/">Forum</a></div>
 			<div class="footer_column_content"><a href="http://www.audiodraft.com/sketching/help/">Help</a></div>
 		</div>
@@ -809,6 +646,7 @@ The user may at any time contact the Controller at the address below.
   <div id="general_player">
   	<div class="wrapper">
   		<div id="general_player_content">
+  		  <div id="general_player_close"><a class="btn_close_white" href="javascript:void(0);" onclick="hidePlayer();"></a></div>
   			<div id="general_player_rew"><a href="javascript:void(0);" onclick="playPrevious();"></a></div>
   			<div id="general_player_play"><a id="player_playbtn" class="btn_bigplay" href="javascript:void(0);" onclick="pauseAudio();"></a></div>
   			<div id="general_player_fwd"><a href="javascript:void(0);" onclick="playNext();"></a></div>
@@ -816,8 +654,7 @@ The user may at any time contact the Controller at the address below.
   				<div id="general_player_timeline_played"></div>
   			</div>
   			<div id="general_player_length"><div id="player_position">0:00</div><div id="player_slash"> / </div><div id="player_length">0:00</div></div>
-  			<div id="general_player_close"><a class="btn_close_white" href="javascript:void(0);" onclick="hidePlayer();"></a></div>
-  			<div id="general_player_info">Playing <a class="general_player_link" href="">Artist name</a> - <a class="general_player_link" href="">Mixdown name</a> from <a class="general_player_link" href="">Project name mixdowns</a></div>
+  			<div id="general_player_info">Loading ...</div>
   		</div>
   		<div id="general_player_content">
   	</div>
@@ -834,22 +671,17 @@ The user may at any time contact the Controller at the address below.
   try {
     var pageTracker = _gat._getTracker("UA-8118032-4");
     pageTracker._setDomainName(".audiodraft.com");
-    pageTracker._trackPageview();
+    
+        pageTracker._trackPageview();
+        
   } catch(err) {}
-</script>
+  
+  </script>
 
 
-<div id="fb-root"></div>
-<script src="http://connect.facebook.net/en_US/all.js"></script>
-<script>
-  FB.init({appId: '1500bb1a62d523cdcd95e97319e17a6d', status: true, cookie: true, xfbml: true});
-  
-  function fb_login() {
-    fbLogin();
-  }
-  
-</script>
-<div class="clear"></div>
+
+
+
 
 
 </div></body></html>
