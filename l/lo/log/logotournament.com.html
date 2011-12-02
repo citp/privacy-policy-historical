@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the logotournament.com privacy policy that was archived on 2010-09-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100925194852id_/http%3A//logotournament.com/help/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the logotournament.com privacy policy that was archived on 2011-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111202123254id_/http%3A//logotournament.com/help/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <base href="http://logotournament.com/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="stylesheet" href="style/power.css?v=22" type="text/css">
+<link rel="stylesheet" href="style/power.css?v=45" type="text/css">
 <script src="javascript/utils.js?v=3" type="text/javascript" language="javascript"></script>
 <script src="javascript/xml_http_request.js" type="text/javascript" language="javascript"></script>
 <script src="javascript/power.js" type="text/javascript" language="javascript"></script>
@@ -115,7 +115,7 @@
 <em>Follow us on <a href="http://twitter.com/logotournament">Twitter</a>.</em><br>
 </div>
 <div class="footer_copyright">
-© Copyright 2007-2010 LogoTournament.com <br>a division of Quinn Ventures inc. All Rights Reserved.
+© Copyright 2007-2011 LogoTournament.com <br>a division of Quinn Ventures inc. All Rights Reserved.
 </div>
 </div>
 </div>
@@ -123,8 +123,10 @@
 <div id="designer_drop" onmouseover="queue_drop_show()" onmouseout="queue_drop_hide()" style="display: none;">
 <div class="items">
 <a href="http://logotournament.com/logodesigners">Top Ranked Designers</a><br>
+<a href="http://logotournament.com/community_contribution">Community Contribution</a><br>
 <a href="http://logotournament.com/logocourt/">Logo Court</a><br>
-<a href="http://logotournament.com/newdesigners">New Designers</a>
+
+
  </div>
 <div class="rounder"><img src="images/header/drop_bottom.gif" alt=""></div>
 </div>
@@ -152,7 +154,8 @@ tooltips[i].destroy();
 tooltips=new Array();
 var helps = document.getElementsByTagName("img");
 for (var i=0;i<helps.length;i=i+1) {
-        if (helps[i].src.indexOf("help_icon.gif")!=-1) {
+        if (helps[i].src.indexOf("help_icon.gif")!=-1 || helps[i].getAttribute("alt")=="as_details" || helps[i].getAttribute("alt")=="!") {
+        if (helps[i].getAttribute("title")=="") continue;
         if (helps[i].id=="") helps[i].id="help"+i;
 tooltips.push(new YAHOO.widget.Tooltip("tooltip"+i, { context: helps[i].id }));
         }
