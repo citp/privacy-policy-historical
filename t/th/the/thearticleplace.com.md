@@ -1,35 +1,60 @@
-> *The following text is extracted and transformed from the thearticleplace.com privacy policy that was archived on 2006-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060513184106id_/http%3A//www.the-article-place.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thearticleplace.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202213801id_/http%3A//www.thearticleplace.com/privacy-policy.html) for the most accurate reproduction.*
 
-# The Article Place - Free article content and article submissions
+# Privacy Policy
 
-The-Article-Place Privacy Policy
+**What information do we collect?**
 
-This Privacy Policy Notice governs the use of the web page at [The-Article-Place.com](http://www.the-article-place.com/) and its associated services, web pages, domains and sub-domains, which are owned and operated by **The-Article-Place.com** ("Owner"). Wherever this Notice refers to "users" it means "you", while "we" or "our" refer to The-Article-Place.com and "Web Site" for the web site in which the page belongs. 
+We collect information from you when you register on our site. 
 
-This web site collects certain information relative to users who visit the site. This Web site categorizes this information into the 2 following Categories and the privacy level and what we do with the information that we collect on you depends upon the category in which you fall.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-We do not make any attempt to obtain information that personally identifies our users who visit our web site. It is not our policy to sell or otherwise provide access to such information to unaffiliated third parties.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-What information we collect:
+**What do we use your information for?**
 
-****
+Any of the information we collect from you may be used in one of the following ways: 
 
-**Category I** – Information on users who visit our site to read or download information on our pages. From these users, we collect and store only the following information:
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-1\. The domain name through which you gained access to our Web site;  
-2\. The precise time and date that you entered our web site.  
-3\. The URL of the web page through which you clicked to our web site.
+**How do we protect your information?**
 
-****
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
 
-**Category II** – Users who send us e-mail containing personal information or identifies you, sign our guest book, signed up as a member or request email publications. Any information that we collect in this way is used only for purposes of responding to you and addressing the issues that you may have raised.
+**Do we use cookies?**
 
-Any information that we collect is collected as part of our business practices in order to identify demographic information relative to users who access our site, assessing the number and type of user accessing various sections of our site, helping us determine what content and business concepts are working for us and/or are of interest to our visitors, determining technical design features and specifications and helping us assess systems performance. We also use such information in statistical form to assist us in business and marketing strategies and programs. We utilize software programs to create summary statistics which we utilize for the above purposes.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-As a security measure for ourselves and our users, we utilize certain software programs to monitor traffic to our site and within our network. This software also enables us to identify unauthorized upload attempts, access to our system, and other attempts to cause damage to our systems.
+We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-****
+**Do we disclose any information to outside parties?**
 
-**Provision about Childrens  
-**  
-We do not collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. We encourage parents to go online with their kids. [_Click here_](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html)to check out the FTC's site for more tips on protecting children's privacy online. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Your Consent**
+
+By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+www.thearticleplace.com
