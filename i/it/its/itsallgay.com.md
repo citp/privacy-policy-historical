@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the itsallgay.com privacy policy that was archived on 2010-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100808012716id_/http%3A//www.itsallgay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsallgay.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202152042id_/http%3A//www.itsallgay.eu/privacy) for the most accurate reproduction.*
 
 # Its All Gay
 
-[](http://www.itsallgay.com/ "Its All Gay")
+[](http://www.itsallgay.eu/ "Its All Gay")
 
 [](http://www.lawdit.co.uk/stay_legal_audits/itsallgay.asp) [For our lawyers compliance certification click here](http://www.lawdit.co.uk/stay_legal_audits/itsallgay.asp)
 
