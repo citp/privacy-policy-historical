@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ithemes.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217035853id_/http%3A//ithemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ithemes.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202111708id_/http%3A//ithemes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : WordPress Themes : Business WordPress Themes, WordPress CMS Themes
+# Privacy Policy | iThemes
 
 iThemes Media takes your privacy seriously.
 
@@ -11,3 +11,21 @@ iThemes Media takes your privacy seriously.
 
 
 If you have any questions about our privacy policy, please [contact us directly](http://ithemes.com/contact/).
+
+## Get Theme Discounts   
+& Special Offers
+
+  
+
+
+[](http://ithemes.com/free-ebook/)
+
+## Featured Plugin
+
+[](http://pluginbuddy.com/purchase/backupbuddy/)
+
+## Need WordPress Hosting?
+
+For the do-it-yourself option, iThemes recommends [HostGator](http://ithemes.com/hostgator). Excellent customer service, affordable prices.
+
+[](http://ithemes.com/hostgator)
