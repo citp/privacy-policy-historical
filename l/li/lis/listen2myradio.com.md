@@ -1,73 +1,40 @@
-> *The following text is extracted and transformed from the listen2myradio.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414114832id_/http%3A//www.listen2myradio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listen2myradio.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202051247id_/http%3A//www.listen2myradio.com/company-privacy-policy.php) for the most accurate reproduction.*
 
-# FREE shoutcast FREE radio Station - Privacy Policy
+# Listen2MyRadio / Privacy Policy
 
-|   
----  
-  
-[Home](https://web.archive.org/web/20110414114832id_/http%3A//www.listen2myradio.com/index.php) :: [Sign up](https://web.archive.org/web/20110414114832id_/http%3A//www.listen2myradio.com/reg.php) :: [Login](https://web.archive.org/web/20110414114832id_/http%3A//www.listen2myradio.com/login.php) :: Terms of use :: [Support](https://web.archive.org/web/20110414114832id_/http%3A//www.listen2myradio.com/support.php)  
-  
   
 Privacy Policy  
 
 
-  1. **Policy** : Company values users' and websites' privacy and therefore has set up this extensive Privacy-Policy in order to notify you when is data stored, what is being processed and what is being disclosed to our clients, which are the websites you visit, in order to allow them better services to you, as a client.
-
-  2. Though Company is not a US based organisation, its privacy policy is in strict compliance with the US Export Authority's Safe Harbour Principles (http://www.export.gov/safeharbor) and is in full and strict compliance with all Israeli privacy regulations.
-
-  3. **Data Collected:** Company collects data about user activity in Website and Shoutcast Streams brought by Company including aggregated non-personal information, personal information and clickstream information. This information will only be shared with our affiliates1 according to this Privacy Policy
-
-  4. **Data not collected** : Company is working with accordance to international regulation and EU standards of privacy and therefore shall never retain or request and information regarding ethnic origin, political opinions, religious or philosophical beliefs, trade-union or political party membership, personal health, personal sexual preferences or personal sex life. Company shall never retain or request data regarding exact name, personal financial transactions. You should immediately report the privacy officer at Company should you encounter any person or electronic service claiming to receive such information.
-
+  1. **Policy** : Company values users' and websites' privacy and therefore has set up this extensive Privacy-Policy in order to notify you when is data stored, what is being processed and what is being disclosed to our clients, which are the websites you visit, in order to allow them better services to you, as a client. 
+  2. Though Company is not a US based organisation, its privacy policy is in strict compliance with the US Export Authority's Safe Harbour Principles (http://www.export.gov/safeharbor) and is in full and strict compliance with all Israeli privacy regulations. 
+  3. **Data Collected:** Company collects data about user activity in Website and Shoutcast Streams brought by Company including aggregated non-personal information, personal information and clickstream information. This information will only be shared with our affiliates1 according to this Privacy Policy 
+  4. **Data not collected** : Company is working with accordance to international regulation and EU standards of privacy and therefore shall never retain or request and information regarding ethnic origin, political opinions, religious or philosophical beliefs, trade-union or political party membership, personal health, personal sexual preferences or personal sex life. Company shall never retain or request data regarding exact name, personal financial transactions. You should immediately report the privacy officer at Company should you encounter any person or electronic service claiming to receive such information. 
   5. **Personal Data** : Company retains information which canmay identify with specific references to personal preferences and interests. 
-
-  6. **Nonpersonal Data:** Company retains non-personal information including, but not only, identifying the computer you are browsing from, your IP address, your session time, your visiting preferences in our website and your visiting time to each webpage.
-
+  6. **Nonpersonal Data:** Company retains non-personal information including, but not only, identifying the computer you are browsing from, your IP address, your session time, your visiting preferences in our website and your visiting time to each webpage. 
   7. **Collection of Data:** Both non-identifiable personal and nonpersonal data are collected in the same manner: when You browse our Wwebsite, both a cookie is placed in your computer and we Company logs all traffic from Your IP; A Cookie is a small text file placed on your computer by your browser which identifies you as a specific user. This cookie identifies you with ourCompany's servers and allows usCompany to log which pages have you visitedidentify You as, what you preferred to see in these pages, what content were you looking for and other information which may be able to assist usCompany in understanding needs and preferences. 
-
-  8. **Data Erasure:** Cookies are stored on yYour computer for a period of 24 hours and will automatically be erased if you have logged out of our Platform.
-
+  8. **Data Erasure:** Cookies are stored on yYour computer for a period of 24 hours and will automatically be erased if you have logged out of our Platform. 
   9. **Use of Data:** Some of the Djs or, Radio Managers or Listeners may be subjected to Personal Information and/or Collected data, including, but not only, IP addresses, User Account names and other information which may be used to provide You with Better Service. **You** must adhere to a privacy policy which complies with either a EU Member State regulation or the US Safe Harbour regulation in order to receive information from Company. 
-
   10. **Security:** Data is collected and stored on ourCompany's own servers or servers of 3rd parties operating on our behalf. Our Company's records which include stored data will not be disclosed to any party unless we are compelled to do so by a judicial order or law; We Company shall use our best efforts to protect this database from any malicious activity. and we request our affiliates strict confidentiality regarding use of the data disclosed. 
-
   11. **Removal of data:** You may view your user profile at any time and send us comments regarding incorrect user information stored at our database; these requests should be made by emailing us to this address: _[admin@listen2myradio.com](mailto:admin@listen2myradio.com)_
-
   12. You may also request to remove all personal data stored on our servers relating to direct marketing. However, you must understand that as data retention is being made by automated computer processes, aggregated non-identifiable information can not be erased. Should you request to remove all personal information stored about you, please email us to that address: _[admin@listen2myradio.com](mailto:admin@listen2myradio.com)_
-
-  13. We may refuse to remove, disclose or amend data where you have not supplied us with sufficient evidence as to the identity of the requesting party. As we take care for the privacy of others, including users who share the same internet connection and/or computer, it may cause grave harm to disclose personal information without such identification.
-
-  14. Also, we may retain data or refuse to amend it where such amendment was technical and redundant, jeopardizes the privacy of other parties or users, including trade secrets and intellectual property or amendments which require major technical efforts which are not in proportion with the benefit from amending the data.
-
+  13. We may refuse to remove, disclose or amend data where you have not supplied us with sufficient evidence as to the identity of the requesting party. As we take care for the privacy of others, including users who share the same internet connection and/or computer, it may cause grave harm to disclose personal information without such identification. 
+  14. Also, we may retain data or refuse to amend it where such amendment was technical and redundant, jeopardizes the privacy of other parties or users, including trade secrets and intellectual property or amendments which require major technical efforts which are not in proportion with the benefit from amending the data. 
   15. **Accountability:** As our users' data is valuable to us, we have appointed a privacy officer in-charge of the execution of this privacy policy. If you feel that your privacy and rights according to this privacy policy had been violated, please contact us at Privacy Matters, Webcode Ltd. P.O Box 3220, Acre, 24132, Israel or at _[privacy@listen2myradio.com](mailto:privacy@listen2myradio.com)_
-
-  16. We shall take the best of means to assure that your data shall be retained and processed by the best of means and that every dispute shall be taken care of and resolved. Our privacy officer shall compile quarterly reports regarding privacy complaints and violations and provide details as to actions taken and remedies.
-
+  16. We shall take the best of means to assure that your data shall be retained and processed by the best of means and that every dispute shall be taken care of and resolved. Our privacy officer shall compile quarterly reports regarding privacy complaints and violations and provide details as to actions taken and remedies. 
   17. **Dispute Resolution:** Any dispute arising by breach of this privacy policy which was not handled by our privacy officer may be brought to the proper regulatory authorities for inspection. We shall provide full cooperation should it be necessary.
-
 
 
 * **Copyright Policies**
 
   1. _Content_ : You, as well as other Users, may upload, share and publish your Content, including, but not only, audiovisual materials, audio recordings, texts and interpretation of texts, and other creative content (Hereinafter: Content) via Platform. In order to do so, **You warrant that any content shared or Used by you on Platform or Application is owned by You in whole and that you have the full copyright for Content, including permission to allow redistribution of that content, including any derivative works for any means**.
-
-  2. We recommend to use CC-licensed music, CC offers free copyright licenses that anyone can use (without a lawyer) to mark their creative work with the freedoms they want it to carry. Several sites offer music published under Creative Commons flexible copyright licenses. for more info, you can visit http://creativecommons.org/legalmusicforvideos. Please check out the terms of each song license before you use/stream it.
-
-  3. **License** : You hereby grant Company and Users of Platform a royalty-free, non-exclusive right to listen but not record, save, reperform or download , use, reperform or download Content or any part thereof shared by you on Platform. You hereby state that you obtained all relevant rights and copyrights to content shared by you and that you permit any use of content via Platform for its operation and use.
-
-  4. **Copyright Infringement:** Any use of Content not according to this clause 4 to these Terms shall be constructed as Copyright Infringement and you undertake to compensate Company for its damages and for any other revenue generated to You, or any other 3rd Party, from such Copyright Infringement.
-
-  5. **No Liability:** You understand that all Content provided by you, whether publicly posted or privately transmitted, are at your sole responsibility. **Company does not control the Content posted via the Platform and, as such, does not guarantee the accuracy, integrity, or quality of Content**. You commit to not use the Platform to convey, post, publish, or otherwise transmit any Content that is violation with Clause 2.43 of these Terms. You are solely responsible for any posting of Content, and agree to indemnify Company for any damage arising from such activity violating any laws or terms of service.
-
-  6. **Prescreen** : You acknowledge that Company cannot pre-screen all Content, but that it shall have the right (but not the obligation) in their sole discretion to refuse or move any Content or User Account that is available via the Platform. Company shall have the right to remove any Content or Account that violates these Terms or is otherwise objectionable.
-
+  2. We recommend to use CC-licensed music, CC offers free copyright licenses that anyone can use (without a lawyer) to mark their creative work with the freedoms they want it to carry. Several sites offer music published under Creative Commons flexible copyright licenses. for more info, you can visit http://creativecommons.org/legalmusicforvideos. Please check out the terms of each song license before you use/stream it. 
+  3. **License** : You hereby grant Company and Users of Platform a royalty-free, non-exclusive right to listen but not record, save, reperform or download , use, reperform or download Content or any part thereof shared by you on Platform. You hereby state that you obtained all relevant rights and copyrights to content shared by you and that you permit any use of content via Platform for its operation and use. 
+  4. **Copyright Infringement:** Any use of Content not according to this clause 4 to these Terms shall be constructed as Copyright Infringement and you undertake to compensate Company for its damages and for any other revenue generated to You, or any other 3rd Party, from such Copyright Infringement. 
+  5. **No Liability:** You understand that all Content provided by you, whether publicly posted or privately transmitted, are at your sole responsibility. **Company does not control the Content posted via the Platform and, as such, does not guarantee the accuracy, integrity, or quality of Content**. You commit to not use the Platform to convey, post, publish, or otherwise transmit any Content that is violation with Clause 2.43 of these Terms. You are solely responsible for any posting of Content, and agree to indemnify Company for any damage arising from such activity violating any laws or terms of service. 
+  6. **Prescreen** : You acknowledge that Company cannot pre-screen all Content, but that it shall have the right (but not the obligation) in their sole discretion to refuse or move any Content or User Account that is available via the Platform. Company shall have the right to remove any Content or Account that violates these Terms or is otherwise objectionable. 
   7. **Disclosure of Content** : You acknowledge and agree that Company may preserve Content and may also disclose Content if required to do so by law or in the good faith belief that such preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce these Terms; (c) respond to claims that any Content violates the rights of third-parties; or (d) protect the rights, property, or personal safety of Company, its Users, and the public. You understand that the technical processing and transmission of the Service, including your Content, may involve (a) transmissions over various networks and (b) changes to conform and adapt to technical requirements of connecting networks or devices. 
-
-  8. **Harmless:** You agree and warrant to hold Company and Users harmless and to immediately indemnify Company or Users for any claim of copyright infringement, trademark dilution or patent infringement for any use of Content according to these Terms. You also agree to indemnify Company and/or Users for any 3rd party lawsuit for Copyright infringement due to their use of Content made available by You.
-
+  8. **Harmless:** You agree and warrant to hold Company and Users harmless and to immediately indemnify Company or Users for any claim of copyright infringement, trademark dilution or patent infringement for any use of Content according to these Terms. You also agree to indemnify Company and/or Users for any 3rd party lawsuit for Copyright infringement due to their use of Content made available by You. 
   9. **Cease and Decist:** Company values others copyright, and therefore shall comply with all state regulations regarding 3rd party copyright. Should you encounter any Content which you believe to be in violation of Copyright Laws and you are the sole owner of, Please file a copyright infringement complaint at our Copyright officer: _[abuse@listen2myradio.com](mailto:abuse@listen2myradio.com)_ ; Our copyright officer shall examine your complaint and shall forward it to the user who published said Content for his answer. Should Your complaint be false, harassing or in order to prevent legal use of service, you shall bear all liability to compensate the Radio Manager and/or User which you reported as infringing copyright.
 
 
-  
-  
-All rights reserved to listen2myradio.com
