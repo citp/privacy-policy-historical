@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adform.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528051611id_/http%3A//www.adform.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adform.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202084254id_/http%3A//www.adform.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Adform privacy policy statement : Adform
 
@@ -99,10 +99,6 @@ When a user opts out, Adform will no longer:
   * facilitate similar actions or collection of information for such purposes by other targeting systems used together with Adform.
 
 
-
-**Opt Out:** [Click here](https://track.adform.net/serving/opt/out/?rdir=http%3A%2F%2Fwww.adform.com%2Fsite%2Fprivacy-policy%2F) for the Adform cookie opt-out.
-
-**Opt In:** If you have previously opted out and would like to reverse your setting, [click here](https://track.adform.net/serving/opt/in/?rdir=http%3A%2F%2Fwww.adform.com%2Fsite%2Fprivacy-policy%2F) to opt back in.
 
 ###  Changes to this Privacy Policy
 
