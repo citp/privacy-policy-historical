@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barrett-jackson.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615075027id_/http%3A//www.barrett-jackson.com/about/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barrett-jackson.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202083159id_/http%3A//www.barrett-jackson.com/about/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Barrett-Jackson Auction Company
 
@@ -22,7 +22,7 @@ If, at any time, you are receiving information from Barrett-Jackson or its Selec
 
 ## Third Party Links and Use of Information
 
-The Barrett-Jackson site contains links to sites operated by third parties. These sites may collect personally identifiable information about you. For example, Barrett-Jackson participates in the Google AdSense program and the interest-based advertising program offered by Google. Google, as a third party vendor, uses cookies to service visitors to the Barrett-Jackson site. In particular, Google’s use of the DART cookie enables it to serve ads to Barrett-Jackson’s site visitors based on their visits to our site and other sites on the Internet. Information transmitted does not include your name, address, email address, or telephone number. Visitors to Barrett-Jackson’s site may opt out of the DART cookie by visiting the Google ad and content network privacy policy page at this [link](http://www.google.com/privacy_ads.html). 
+The Barrett-Jackson site contains links to sites operated by third parties. These sites may collect personally identifiable information about you. For example, Barrett-Jackson participates in the Google AdSense program and the interest-based advertising program offered by Google. Google, as a third party vendor, uses cookies to service visitors to the Barrett-Jackson site. In particular, Google’s use of the DART cookie enables it to serve ads to Barrett-Jackson’s site visitors based on their visits to our site and other sites on the Internet. Information transmitted does not include your name, address, email address, or telephone number. Visitors to Barrett-Jackson’s site may opt out of the DART cookie by visiting the Google ad and content network privacy policy page at this [link](http://www.google.com/privacy/ads/). 
 
 Unless otherwise specifically stated herein, this Privacy Policy does not cover third-party data collection practices and Barrett-Jackson does not assume any responsibility for third parties, even if you are linked to those sites through the Barrett-Jackson website. Please check the privacy policy at each site you visit.
 
