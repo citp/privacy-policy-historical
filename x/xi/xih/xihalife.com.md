@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the xihalife.com privacy policy that was archived on 2007-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071010101417id_/http%3A//www.xihalife.com/home/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xihalife.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202015929id_/http%3A//en.xihalife.com/home/privacypolicy.php) for the most accurate reproduction.*
 
-# XIHA Life
+# Privacy policy
 
-**XIHA Life Online Privacy policy**
+**Xiha Online Privacy policy**
 
-XIHA Life respects the privacy rights of our online visitors and we are committed to protecting the personal information that we collect about you. To further this commitment, we have adopted this privacy policy to guide how we collect, store, and use information that you provide us online.
+Xiha respects the privacy rights of our online visitors and we are committed to protecting the personal information that we collect about you. To further this commitment, we have adopted this privacy policy to guide how we collect, store, and use information that you provide us online.
 
 **What does this Privacy Policy apply to?**
 
-The website you are currently visiting is operated by XIHA Software Co., Ltd. This privacy policy applies to this and other websites operated by XIHA Software.
+The website you are currently visiting is operated by Xiha Ltd ("Xiha"). This privacy policy applies to this and other websites operated by Xiha.
 
-This privacy policy applies only to information submitted and collected online through XIHA Software websites, and does not apply to information that we may collect offline. In addition, this privacy policy does not extend to websites maintained by other companies or organizations to which we may link. Therefore, we encourage you to read the privacy policy of any website to which you link before you submit any personal information to that site.
+This privacy policy applies only to information submitted and collected online through Xiha websites, and does not apply to information that we may collect offline. In addition, this privacy policy does not extend to websites maintained by other companies or organizations to which we may link. Therefore, we encourage you to read the privacy policy of any website to which you link before you submit any personal information to that site.
 
-Please note that your use this website signifies your agreement to this privacy policy. If you do not agree to this privacy policy, please discontinue use of our websites. XIHA Software reserves the right to make changes to this privacy policy and you are encouraged to check back periodically to ensure that you are aware of these changes. Your continued use of our websites signifies your acceptance of these changes.
+Please note that your use this website signifies your agreement to this privacy policy. If you do not agree to this privacy policy, please discontinue use of our websites. Xiha reserves the right to make changes to this privacy policy and you are encouraged to check back periodically to ensure that you are aware of these changes. Your continued use of our websites signifies your acceptance of these changes.
 
 **What types of information do you collect?**
 
@@ -70,15 +70,11 @@ Although we cannot guarantee that third parties to whom we transfer personal dat
 
 If you have any questions, complaints, or comments regarding this Privacy Policy or our information collection practices, please contact our Privacy Policy Administrator at:
 
-**XIHA Software USA**  
-Las Vegas, NV 89129  
+**Xiha Ltd**  
+Helsinki, Finland [http://corp.xihalife.com](http://corp.xihalife.com/)  
 Fax: (815) 366-8167  
-Email: [xihaus@xihalife.com](mailto:xihaus@xihalife.com)
-
-**XIHA Software China**  
-Shenzhen, Guangdong 518054  
-Email: [xihacn@xihalife.com](mailto:xihacn@xihalife.com)
+Email: [support@xihalife.com](mailto:support@xihalife.com)
 
 If you have purchased a product from us and are not completely satisfied, you may also request a refund of your purchase price within 30 days of receiving the product and/or registration code. We will issue a full refund within 72 hours of receiving the request.
 
-This Privacy Policy was last updated on September 28, 2006
+This Privacy Policy was last updated on November 28, 2007
