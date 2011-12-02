@@ -1,33 +1,29 @@
-> *The following text is extracted and transformed from the offeradda.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604171449id_/http%3A//www.offeradda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offeradda.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202183926id_/http%3A//www.offeradda.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy-policy | Offeradda - Next Generation Offers
+# Offeradda – Next Generation Offers » privacy-policy
 
-## privacy-policy
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@offeradda.com.
 
-## Privacy Policy 
+At www.offeradda.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.offeradda.com and how it is used.
 
-Here, the privacy of your personal information is important and the below are the details of what kind of data is collected from you and how it is safeguarded. Your personal data will never be sold to third parties.
+**Log Files**  
+Like many other Web sites, www.offeradda.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-**Log Files**
+**Cookies and Web Beacons**  
+www.offeradda.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-The information on logs include few details regarding your IP address, ISP, browser, your browsing habits and the kind of information you love to read here and also the time and pages you visited.
+**DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on www.offeradda.com.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.offeradda.com and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-**Cookies and Web Beacons**
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
+Google Adsense
 
-The cookies are used to store information like your time of stay, personal data you provide in comment section. As you might have noticed, few third party advertisements are also used on this site which may use cookies and web beacons which are needed for them to collect some information like your IP address, ISP, browser and in some cases if you have flash installed to run flash ads. Also there are website performance and stat tracking tools used here which collect few information as discussed above. These details are used so as to present you with a relevant kind of ad which you would like to browse through.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.offeradda.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-You may disable cookies on your browser but it affects your interaction with this site.
+www.offeradda.com has no access to or control over these cookies that are used by third-party advertisers.
 
-**Advertising and Privacy:**
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.offeradda.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-We use Google Adsense as the major advertising network. Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). You may read more about Adsense privacy policies [here](https://www.google.com/adsense/support/bin/answer.py?answer=100557).
-
-Even we work with other ad companies which collect aggregate data which does not include your private information. It is all done to ensure that you see ads that may interest you. You can click [here](http://www.networkadvertising.org/managing/opt_out.asp) to know more about this and opt out.
-
-**Interest Based Advertising:**
-
-Google Adsense will soon start serving ads based on the interest of the user/visitor. If you visit sports related sites very regularly which uses adsense, then you will be grouped into “sports enthusiast” category. This is called [Interest based advertising](https://www.google.com/adsense/support/bin/answer.py?answer=113771) and to achieve this, they collect some data from visitos which do not include your name, mail id, phone number, address or any such details. You may read more about it [here](http://adsense.blogspot.com/2009/03/driving-monetization-with-ads-that.html).
-
-**Comment and Contact:**
-
-We collect your name and email id in the comment section and also the contact form. This information will be used only to contact you in any case of need which may occur. That will only be used to make new announcements or sometimes to reply your queries. The information collected at the comment section and contact form is totally safe and will not be disclosed to anyone.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. ﻿
