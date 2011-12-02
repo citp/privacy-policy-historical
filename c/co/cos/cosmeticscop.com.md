@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmeticscop.com privacy policy that was archived on 2010-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100305181908id_/http%3A//www.cosmeticscop.com/help-privacy-security-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmeticscop.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202101016id_/http%3A//www.cosmeticscop.com/help-privacy-security-policy.aspx) for the most accurate reproduction.*
 
 # Privacy & Security Policy: Cosmetics Cop: Skin Care & Makeup Tips & Reviews
 
