@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mydownloader.net privacy policy that was archived on 2011-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110628092659id_/http%3A//www.mydownloader.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mydownloader.net privacy policy that was archived on 2011-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111202172025id_/http%3A//www.mydownloader.net/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -8,18 +8,23 @@
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 
-<link rel="stylesheet" type="text/css" href="/css/styles.css?b76b5461b493735d0d43c35c09146ae7">
+<link rel="stylesheet" type="text/css" href="/css/styles.css?d75437028b9a9dd9de8300cff4613a88">
 <link rel="stylesheet" type="text/css" href="/css/menu_en.css"><script type="text/javascript" src="/js/jquery.js"></script>
-<script type="text/javascript" src="/js/lib.js?6c2ad03d4d83836850eed2dc91920f21"></script>
 <script type="text/javascript">
-var roto_list = [
-            "MyDownloader is a service which allows you high-speed downloading from all major filehosts without buying their Premium accounts",
-            "MyDownloader is your irreplaceable helper to download your interesting stuff from different filehosts",
-            "Tired of slow downloads? Join us! We provide you premium speed of downloads from all filehosts",
-        	"Looking for a file that can only be hosted at your one filehost?  Don't stress! Just join us and get files from any filehosts!"
-        	];
+    var l10n = {};
+        l10n.ask_user_bind_button = "Connect into my current MyDownloader account";
+        l10n.ask_user_save_button = "Set my email";
 </script>
-
+<script type="text/javascript" src="/js/lib.js?12f75f4bc60da2712e5cda1655d96008"></script>
+    <script type="text/javascript">
+    var roto_list = [
+                "Too many file hostings, and premium accounts are too expensive? myDownloader is the only service you\'ll ever need!",
+                "Save $$$ by getting 1 account instead of 14+. myDownloader is your one-stop gateway to premium features of all major file sharing services!",
+                "Get your myDownloader account today and start downloading files from all major file hostings with premium speed!",
+                "Enjoy blazing fast speed and ultimate ease of use. Download via our website or through a light and handy software client."
+                ];
+    </script>
+    <script type="text/javascript"></script>
 </head>
 <body>
 <div id="content">
@@ -28,15 +33,42 @@ var roto_list = [
 		<h1 id="logo"><a href="/"><img src="/img/logo.png" alt="" border="0">MyDownloader</a></h1>
 		<h1 id="logo_slogan">
 			<a href="/">
-							<span id="roto"><script type="text/javascript">document.write(roto_list[Math.floor(Math.random() * roto_list.length)])</script>MyDownloader is your irreplaceable helper to download your interesting stuff from different filehosts</span>
+							<span id="roto"><script type="text/javascript">document.write(roto_list[Math.floor(Math.random() * roto_list.length)])</script>Get your myDownloader account today and start downloading files from all major file hostings with premium speed!</span>
 						</a>
 		</h1>
-				<p class="time">
-			<span>Time: </span><br>
-			<b>09:26</b> GMT<br>
-			<b>04:26</b> CDT
+		<div id="lang_select">
+    <a href="#" class="current en">English</a>
+    <ul class="selector">
+                                            <li><a href="/?lsw=de" class="de">Deutsch</a></li>
+                                <li><a href="/?lsw=br" class="br">Brasil</a></li>
+                    </ul>
+</div>		<p class="time">
+			<span class="head">Time:</span><br>
+			<b id="time_1">
+                <span class="hours">17</span>:<span class="minutes">20</span>:<span class="seconds">25</span>
+            </b> GMT<br>
+			<b id="time_2">
+                <span class="hours">12</span>:<span class="minutes">20</span>:<span class="seconds">25</span>
+			</b>
+            CDT
 		</p>
+        <script type="text/javascript">
+            $(function(){
+                setInterval(function(){
+                    tickClock('time_1');
+                    tickClock('time_2');
+                }, 1000);
+                //sync time
+            });
+        </script>
 		<form class="header-login" action="/members_login.php" method="post">
+		<p style="height: 0px"></p>
+        <p style="margin-bottom: 0.1em; line-height: 1em; margin-top: -10px;">
+            <label>Login via:</label>
+                            <a href="/members_login.php?auth=facebook" id="fb-auth-btn"><img src="/img/controls/facebook.png" width="16" height="16" title="Facebook"></a>&nbsp;
+                            <a href="/members_login.php?auth=twitter" id="tw-auth-btn"><img src="/img/controls/twitter.png" width="16" height="16" title="Twitter"></a>&nbsp;
+                    </p>
+
 		<input type="hidden" name="act" value="login">
 					<p>
 				<label for="header-login-email">E-mail:</label>
@@ -48,13 +80,16 @@ var roto_list = [
 				<input type="submit" class="button" value="Login">
 			</p>
 			<p class="header-login-save">
-				<label for="header-login-save"><input type="checkbox" name="remember" id="remember">Remember me</label>
+				<label for="header-login-save"><input type="checkbox" checked="checked" name="remember" id="remember"> Remember me</label>
 				<a href="/reg_sendpass.php">Forgot password?</a>
 			</p>
 		</form>
 
 
+     
 	</div>
+
+
 	<ul id="menu">
         <li><a href="/buy_credits.php"><span>Premium</span></a></li><li><a href="/downloads.php"><span>Download tool</span></a></li><li><a href="/doc/manual"><span>How it works?</span></a></li><li><a href="/faq.php"><span>FAQ</span></a></li>		<li class="menu-create"><a href="/reg.php"><span>Create account</span></a></li>
 	</ul>
@@ -66,7 +101,7 @@ var roto_list = [
 	<span class="popup-close"></span>
 	<p class="popup-title"><strong>Ask </strong>a question</p>
 	<form action="/tickets.php" method="post" name="faqform">
-	    <input type="hidden" name="dcode" value="1309253219">
+	    <input type="hidden" name="dcode" value="1322846425">
                                             <p>
                             <label for="email">E-mail:</label><br>
                             <input type="text" class="textInput" name="email" id="email">
@@ -81,21 +116,31 @@ var roto_list = [
                                                    <option value="6">Stop recuring</option>
                                                    <option value="7">Create account</option>
                                                    <option value="9">General</option>
+                                                   <option value="10">Your Idea</option>
                                                  </select>
                         </td></tr></tbody></table>
                         		<p></p>
 		<p id="tickets_hidden_info_div" style="display:none;color:#B9F4CE">
-		    Please, write the ticket under this section if you sure that you don't find answer in the <a href="/faq.php" target="_blank">FAQ zone</a>
+		    Please, write the ticket under this section if you sure that you don't find answer in the <a href="/faq.php#f31" target="_blank">FAQ zone</a>
 		</p>
+        <p id="tickets_empty_message_err" style="display: none;color:red">Please, write your question!</p>
 		<p id="tickets_hidden_info_div_err" style="display:none;color:red">Please, choose the type of tickets!</p>
+        <p id="tickets_empty_reason" style="display: none; color:red">Please, write that you don't like</p>
+
 		<p>
 			<label for="feedback-q">Question</label>
 			<textarea class="textInput" id="feedback-q" name="text"></textarea>
 		</p>
-                            <input type="hidden" name="userinfo" value="" id="tickets_user_info">
+
+        <p style="display: none;" id="recurringReason">
+            <label for="reason">That you don't like?</label>
+            <textarea class="textInput" id="reason" name="reason" style="height: 50px;"></textarea>
+        </p>
+
+                <input type="hidden" name="userinfo" value="" id="tickets_user_info">
 		<p class="popup-submit">
 		    <input type="hidden" name="act" value="save">
-			<input type="submit" class="button" value="Send" onclick="if (!check_faq_ticket()) return false;">
+			<input id="b-submit" type="submit" class="button" value="Send" onclick="return check_faq_ticket();">
 		</p>
 
 	</form>
@@ -200,15 +245,16 @@ var roto_list = [
 <div id="footer">
 	<div class="copy">
 		© 2009-2011 MyDownloader. All rights reserved.		<div class="fb">
-<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fmydownloader.net&amp;layout=button_count&amp;show_faces=true&amp;width=150&amp;action=recommend&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:150px; height:21px;" allowtransparency="true"></iframe>
+<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fmydownloader.net&amp;layout=button_count&amp;show_faces=true&amp;width=150&amp;action=recommend&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:155px; height:21px;" allowtransparency="true"></iframe>
+<iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/tweet_button.html" style="width:100px; height:21px;"></iframe>
 	    </div>
 	</div>
 	<ul>
 		<li class="footer-privacy"><a href="/privacy.php"><span>Privacy policy</span></a></li>
-		<li class="footer-contacts"><a href="tickets.php?execnew_ticket=Y"><span>Contact us</span></a></li>
+		<li class="footer-contacts"><a href="/tickets.php?execnew_ticket=Y"><span>Contact us</span></a></li>
 		<li class="footer-makemoney"><a href="http://affiliates.mydownloader.net/" target="_blank"><span>Make money</span></a></li>	</ul>
 </div>
-<span class="feedback-button" style="background: url(http://mydownloader.net/img/en/feedback.gif) 0 0 no-repeat;"></span>
+<span class="feedback-button" style="background: url(/img/en/feedback.gif?20111202) 0 0 no-repeat;"></span>
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
