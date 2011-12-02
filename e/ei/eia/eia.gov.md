@@ -1,16 +1,22 @@
-> *The following text is extracted and transformed from the eia.gov privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520212951id_/http%3A//www.eia.gov/about/privacy_security_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eia.gov privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202035427id_/http%3A//www.eia.gov/about/privacy_security_policy.cfm) for the most accurate reproduction.*
 
-# None
+# About EIA - Policies - U.S. Energy Information Administration (EIA)
 
 #### Privacy statement
 
 This website (<http://www.eia.gov/>) is provided as a public energy information service of the U.S. Energy Information Administration. 
 
-If you visit this site to read or download information, you should know that EIA collects and stores a standard set of Internet-related information, such as an Internet Protocol (IP) address, the date and time, the type of browser and operating system used, the page(s) visited, and if you linked to the EIA website from another website, the address of that website. All information is collected to help EIA make this site more useful to our customers and is only used for statistical purposes. 
+EIA.gov utilizes web measurement software tools in order to improve the efficiency of our website and to provide a better user experience for our customers. If you visit this site to read or download information, you should know that EIA collects and stores a standard set of Internet-related information, such as an Internet Protocol (IP) address, the date and time, the type of browser and operating system used, the page(s) visited, and if you linked to the EIA website from another website, the address of that website. 
+
+The Office of Management and Budget (OMB) classifies this as a Tier 2 usage since we utilize multi-session web measurement technologies that do not collect any personally identifiable information (PII). These technologies anonymously track how visitors interact with EIA.gov, including where they came from, what they did on the site, and whether they completed any pre-determined tasks while on the site. 
+
+We use Google Analytics and IBM's NetInsight web measurement technologies. This information is used to optimize our website; improve our user interface and ensure our content meets the needs of our customers. No personally identifiable information is collected, so the anonymity of the user is protected. The measurement data that is collected is only retained for as long as is needed for proper analysis and optimization of the website and is accessible only to employees whose position necessitates it. 
+
+Since disabling this web measurement technology requires you to modify your individual browser settings, it is enabled by default. If you wish to opt-out from these web measurement technologies, you can find instructions for changing your browser settings at <http://www.usa.gov/optout_instructions.shtml>. Google also provides a browser plug-in that will allow you to opt-out of all Google Analytics measurements, which you can find at <http://tools.google.com/dlpage/gaoptout>. Please note that opting-out in no way effects your access to content or how you see the site. 
 
 #### If you send us personal information and/or subscribe to EIA's e-mail notification system (e-lists)
 
-If you choose to provide us with personal information such as through our "User Feedback" or in an e-mail to the National Energy Information Center, the Webmaster, or to an EIA staff person, or by filling out a form with your personal information and submitting it to us through our website, we use that information to respond to your message and to help us get you the information you have requested. We do not collect personal information for any purpose other than to respond to you. EIA does not give, sell, or transfer personal information to third parties, unless required by law, such as the Freedom of Information Act. 
+If you choose to provide us with personal information such as submitting information through the website on our Feedback page ([www.eia.gov/about/feedback](https://web.archive.org/web/20111202035427id_/http%3A//www.eia.gov/about/www.eia.gov/about/feedback)), e-mail subscription lists, or in an e-mail to EIA's Information Center, or to any EIA email (@eia.gov) we use that information to respond to your message and to help us get you the information you have requested. We do not collect personal information for any purpose other than to respond to you. EIA does not give, sell, or transfer personal information to third parties, unless required by law, such as the Freedom of Information Act. 
 
 #### If you participate in EIA's social media activities
 
