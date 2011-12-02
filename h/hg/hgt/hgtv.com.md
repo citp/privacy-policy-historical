@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hgtv.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624151250id_/http%3A//www.hgtv.com/about-us/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hgtv.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202045440id_/http%3A//www.hgtv.com/about-us/privacy-policy/index.html) for the most accurate reproduction.*
 
 # HGTV.com Privacy Policy : About Us : Home & Garden Television
 
-PLEASE NOTE THAT OUR PRIVACY POLICY HAS CHANGED EFFECTIVE OCTOBER 13, 2010.
+PLEASE NOTE THAT OUR PRIVACY POLICY HAS CHANGED EFFECTIVE OCTOBER 13, 2010. 
 
 Welcome to hgtv.com. Hgtv.com is an interactive online service operated by Scripps Networks, LLC (" **Scripps Networks** ", " **us** ", " **we** ", or " **our** "). This " **Privacy Policy** " applies to this site (however accessed and/or used, whether via personal computers, mobile devices or otherwise (collectively, " **Computer** ") and other interactive features, applications or downloads that are operated by us that are available through this site or that interact with this site and post this Privacy Policy (collectively, " **Website** "). Further, this Privacy Policy does not apply to our collection of information from other sources (unless specifically stated). Please read the following to learn more about our Privacy Policy, which includes compliance with California Privacy Rights (see also [http://www.privacyprotection.ca.gov](http://www.privacyprotection.ca.gov/)).
 
@@ -54,7 +54,7 @@ If you send someone else a communication from the Website, such as sending Websi
 
 (4) Information Third Parties Provide About You
 
-We also may, from time to time, supplement the information we collect with outside records from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you. **** We may combine the information we receive from those other sources with information we collect through the Website. In those cases, we will apply this Privacy Policy to any personal identifiable information received, unless otherwise specifically disclosed by us at the time you provide your personally identifiable information.
+We also may, from time to time, supplement the information we collect with outside records from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you. We may combine the information we receive from those other sources with information we collect through the Website. In those cases, we will apply this Privacy Policy to any personal identifiable information received, unless otherwise specifically disclosed by us at the time you provide your personally identifiable information.
 
 **C.         OTHER USES**
 
@@ -82,7 +82,7 @@ Scripps Networks, LLC
 1180 Avenue of the Americas  
 New York, NY 10036  
 Attn: California Privacy Request  
-[privacy@scrippsnetworks.com](mailto:privacy@scrippsnetworks.com "blocked::mailto:privacy@scrippsnetworks.com")
+[privacy@scrippsnetworks.com](mailto:privacy@scrippsnetworks.com)
 
 (6)        Third Party Ad Server Networks:
 
@@ -94,7 +94,7 @@ We may offer chat rooms, message boards, bulletin boards or similar public forum
 
 **E.         CHILDREN **
 
-The features, programs, promotions and other aspects of our Website requiring personally identifiable information are not intended for children. We do not knowingly collect personally identifiable information from children under the age of thirteen (13). If you are a parent or guardian of a child under the age of thirteen (13) and believe he or she has disclosed personally identifiable information to us, please contact us at [privacy@scrippsnetworks.com](mailto:privacy@scrippsnetworks.com "blocked::mailto:privacy@scrippsnetworks.com"). A parent or guardian of a child under the age of thirteen (13) may review and request deletion of such child's personally identifiable information as well as prohibit the use thereof.
+The features, programs, promotions and other aspects of our Website requiring personally identifiable information are not intended for children. We do not knowingly collect personally identifiable information from children under the age of thirteen (13). If you are a parent or guardian of a child under the age of thirteen (13) and believe he or she has disclosed personally identifiable information to us, please contact us at [privacy@scrippsnetworks.com](mailto:privacy@scrippsnetworks.com). A parent or guardian of a child under the age of thirteen (13) may review and request deletion of such child's personally identifiable information as well as prohibit the use thereof.
 
 **F.          KEEPING YOUR INFORMATION SECURE **
 
@@ -110,13 +110,13 @@ Third party applications may be available via the Website. The owners of these a
 
 **I.                    ****CONTACT & OPT-OUT INFORMATION**
 
-The Website may include subscription and registration management tools that allow you to make changes regarding your preferences for receiving communications. Regardless of whether these tools are available through the Website, you may contact us as at [privacy@scrippsnetworks.com](mailto:privacy@scrippsnetworks.com "blocked::mailto:privacy@scrippsnetworks.com") or 865.694.7879 if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided to us; (c) want to opt-out from receiving future commercial correspondence, including e-mails, from us (we may continue to send you transactional messages such as responding to your inquiries); or (d) wish to withdraw your consent to our future sharing of your personally identifiable information with third parties for their direct marketing purposes.
+The Website may include subscription and registration management tools that allow you to make changes regarding your preferences for receiving communications. Regardless of whether these tools are available through the Website, you may contact us as at [privacy@scrippsnetworks.com](mailto:privacy@scrippsnetworks.com) or 865.694.7879 if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided to us; (c) want to opt-out from receiving future commercial correspondence, including e-mails, from us (we may continue to send you transactional messages such as responding to your inquiries); or (d) wish to withdraw your consent to our future sharing of your personally identifiable information with third parties for their direct marketing purposes.
 
 We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please, note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website. Also, please note that it is not always possible to completely change, remove or delete all of your information from our databases and that residual data may remain on backup media or for other reasons. Also, if you have made any public postings on the Website such as in forums or blogs, these communications are generally not removed by us.
 
 **J.          CONSENT TO TRANSFER INFORMATION TO THE UNITED STATES**
 
-The Website is operated in the United States and intended for users located in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect will be transferred to and processed in the United States. By using the Website or providing us with any information, you consent to this transfer and processing of your information in the United States. 
+The Website is operated in the United States and intended for users located in the United States. If you are located in the European Union, Canada or elsewhere outside of the United States, please be aware that information we collect will be transferred to and processed in the United States. By using the Website or providing us with any information, you consent to this transfer and processing of your information in the United States.
 
 **K.                 ****SOLE STATEMENT**
 
