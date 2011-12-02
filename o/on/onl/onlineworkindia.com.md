@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineworkindia.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221012708id_/http%3A//www.onlineworkindia.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineworkindia.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202104651id_/http%3A//www.onlineworkindia.com/Privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -28,8 +28,8 @@ We implement a variety of security measures to maintain the safety of your perso
 
 We do not use cookies.
 
-* Google, as a third party vendor, uses cookies to serve ads on www.OnlineJobs2u.com.  
-* Google's use of the DART cookie enables it to serve ads to users based on their visit to www.OnlineJobs2u.com and other sites  on the Internet.   
+* Google, as a third party vendor, uses cookies to serve ads on www.Onlineworkindia.com.  
+* Google's use of the DART cookie enables it to serve ads to users based on their visit to www.Onlineworkindia.com and other sites  on the Internet.   
 * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
 
 If you wish to disable cookies at your end, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
@@ -58,7 +58,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.OnlineJobs2u.com/terms.html](http://www.onlineworkindia.com/terms.html)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.Onlineworkindia.com/terms.html](http://www.onlineworkindia.com/terms.html)
 
  **Your Consent**
 
@@ -72,6 +72,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://www.OnlineJobs2u.com  
-admin@OnlineJobs2u.com  
+http://www.Onlineworkindia.com  
+admin@Onlineworkindia.com  
 
