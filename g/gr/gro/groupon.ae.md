@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groupon.ae privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606082346id_/http%3A//www.groupon.ae/data_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groupon.ae privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202144259id_/http%3A//www.groupon.ae/data_privacy) for the most accurate reproduction.*
 
 # Up to 90% discount on restaurants, spas, wellness, fitness - Groupon.ae
 
