@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brocade.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202221350id_/http%3A//www.brocade.com/company/privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brocade.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202174230id_/http%3A//www.brocade.com/company/privacy.page) for the most accurate reproduction.*
 
 # Company
 
