@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barclays.co.uk privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611205054id_/http%3A//www.barclays.co.uk/ImportantInformation/Privacypolicy/P1242557966945) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barclays.co.uk privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202061452id_/http%3A//www.barclays.co.uk/ImportantInformation/Privacypolicy/P1242557966945) for the most accurate reproduction.*
 
 # Privacy policy - Barclays
 
@@ -8,7 +8,7 @@ Barclays is committed to keeping your information private. By 'your information'
 
 ## Customers
 
-If you are a personal customer of Barclays Bank plc, the way in which information about you is held and used is described in section 10 of our [ Customer Agreement](https://web.archive.org/ImportantInformation/TermsandConditionsforPersonalCustomers/P1242558103284) (or the terms and conditions of the account/s you hold with Barclays if they differ from the Retail Customer Agreement). If you are a business customer, an authorised person on a business account, a user of our electronic banking services or a customer of any other Barclays Group company (for example Barclays Insurance Services Company Ltd or Barclays Stockbrokers Ltd), the terms and conditions of your account/s and agreement terms together with any authority you have given Barclays will inform you how those group companies will hold and use your information.
+If you are a personal customer of Barclays Bank plc, the way in which information about you is held and used is described in section 10 of our [ Customer Agreement](https://web.archive.org/ImportantInformation/TermsandconditionsforPersonalcustomers/P1242558103284) (or the terms and conditions of the account/s you hold with Barclays if they differ from the Retail Customer Agreement). If you are a business customer, an authorised person on a business account, a user of our electronic banking services or a customer of any other Barclays Group company (for example Barclays Insurance Services Company Ltd or Barclays Stockbrokers Ltd), the terms and conditions of your account/s and agreement terms together with any authority you have given Barclays will inform you how those group companies will hold and use your information.
 
 ## Online services
 
