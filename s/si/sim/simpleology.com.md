@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpleology.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624072257id_/http%3A//www.simpleology.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpleology.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202143449id_/http%3A//www.simpleology.com/privacy.php) for the most accurate reproduction.*
 
 # simple•ology : The Simple Science of Getting What You Want
 
