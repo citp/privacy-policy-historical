@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giftbd.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625113506id_/http%3A//www.giftbd.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftbd.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202042752id_/http%3A//www.giftbd.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # GiftBD.com - Send gift to bangladesh, bangladeshi gift, sharee, salwar kamiz, panjabi, saree, sari, fatua, send birthday gift to bangladesh, send flower to bangladesh, eid gift, valentinesday gift, ramadan iftar, new year
 
