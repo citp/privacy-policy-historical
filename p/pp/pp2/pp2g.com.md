@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pp2g.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603191825id_/http%3A//www.pp2g.com/Info/info/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pp2g.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202015131id_/http%3A//www.pp2g.com/Info/info/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -61,7 +61,7 @@ This statement and the policies outlined herein are not intended to and do not c
     * [Booking Offices](https://web.archive.org/BookingOffices/1)
   * [MEDIA](https://web.archive.org/Pictures/1)
     * [Pictures](https://web.archive.org/Pictures/1)
-    * [Picture Charts](https://web.archive.org/Pictures/Charts-201106-1)
+    * [Picture Charts](https://web.archive.org/Pictures/Charts-201111-1)
     * [Search](https://web.archive.org/Search/MediaPicture)
     *  
     * [PP2G.TV Videos](https://web.archive.org/Videos/1)
@@ -107,7 +107,7 @@ This statement and the policies outlined herein are not intended to and do not c
 
 
 
-PP2G © 2000-2011 v3.2.192
+PP2G © 2000-2011 v3.2.206
 
   
 
