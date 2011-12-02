@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the elong.net privacy policy that was archived on 2005-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051103202507id_/http%3A//www.elong.net/aboutus/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elong.net privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202202933id_/http%3A//www.elong.net/aboutus/privacy_policy.html) for the most accurate reproduction.*
 
-# China, travel, discount airfare, flights, hotels, cars - Travel Beyond Perfection
-
-### Privacy Policy
+# Privacy Policy - Travel Beyond Perfection
 
 The right to privacy is one of your most important rights. We understand that purchasing online is an indication of your trust in eLong.com, Inc. We are very serious about protecting your personal information, which will only be used to provide you better services. As an eLong member, you are protected by the following Privacy Policy: 
 
@@ -25,7 +23,7 @@ Under some extreme cases, elong.com might be obliged to publicize personal infor
 2) Protecting the rights or properties of eLong members;  
 3) Protecting the safety of eLong members or the public due to an emergency.   
 **Principle 4**  
-If you think that eLong.com has violated the principles described above, please contact us at customerservice@corp.elong.com. We will give you a satisfactory answer and improve our Privacy Policy in a reasonable and appropriate manner. 
+If you think that eLong.com has violated the principles described above, please contact our [customer service](http://www.elong.com/customerrequest/suggest.aspx). We will give you a satisfactory answer and improve our Privacy Policy in a reasonable and appropriate manner. 
 
 **Usage of cookies**  
 In order to serve you better, eLong.com sometimes employs cookies to personalize your online surfing on our site. A cookie is a text-only string that is entered into the memory of your browser. One of a cookie's primary functions is to save you time, and most web browsers will automatically accept cookies. However, you may reset your web browser to reject cookies. Cookies cannot run programs or send viruses to your PC. The cookie appointed to you is exclusive and cannot be retrieved by web servers in domains other than the one set it. You may choose to accept or reject the cookie. 
