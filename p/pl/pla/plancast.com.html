@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the plancast.com privacy policy that was archived on 2011-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110629071111id_/http%3A//plancast.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the plancast.com privacy policy that was archived on 2011-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111202225414id_/http%3A//plancast.com/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,7 +7,7 @@
 <meta name="description" content="Plancast is the best way to discover events and share plans with friends">
 <meta name="language" content="en">
 <title>Privacy Policy on Plancast</title>
-<script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/ac32352b72b1f48b3633a208dbccb8c32866ad94.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://code.jquery.com/jquery-1.5.1.min.js"></script>
+<script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/ac32352b72b1f48b3633a208dbccb8c32866ad94.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://code.jquery.com/jquery-1.5.1.min.js"></script>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.10/jquery-ui.min.js"></script>
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
 <script type="text/javascript" src="/js/helpers.js"></script>
@@ -30,7 +30,7 @@
     
     <link rel="shortcut icon" href="/favicon.ico">
     <link rel="apple-touch-icon" href="/images/webclip.png">
-    <base href="plancast.com">
+    <base href="http://plancast.com">
     
       <link rel="stylesheet" type="text/css" media="screen" href="/css/reset.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/misc.css">
@@ -154,6 +154,11 @@ routes['meetup_connect'] = '/meetup/connect';
 routes['meetup_callback'] = '/meetup/callback';
 routes['meetup_disconnect'] = '/meetup/disconnect';
 routes['meetup_load_events'] = '/meetup/load-events';
+routes['linkedin_authorize_url'] = '/linkedin/authorize';
+routes['linkedin_connect'] = '/linkedin/connect';
+routes['linkedin_callback'] = '/linkedin/callback';
+routes['linkedin_disconnect'] = '/linkedin/disconnect';
+routes['linkedin_load_events'] = '/linkedin/load-events';
 routes['twitter_authorize_url'] = '/twitter/authorize-url';
 routes['twitter_connect'] = '/twitter/connect';
 routes['twitter_callback'] = '/twitter/callback';
@@ -179,6 +184,7 @@ routes['about_team'] = '/about/team';
 routes['about_downloads'] = '/about/downloads';
 routes['about_privacy_policy'] = '/about/privacy-policy';
 routes['about_terms_of_use'] = '/about/terms-of-use';
+routes['about_api'] = '/api';
 routes['about_developers'] = '/developers';
 routes['goodies'] = '/goodies';
 routes['goodies_widgets'] = '/goodies/widgets';
@@ -274,6 +280,7 @@ routes['default'] = '/';
 var session_user_id                         = null;
 var session_facebook_user_id                = null;
 var session_twitter_user_id                 = null;
+var session_linkedin_user_id                = '';
 var session_google_user_authenticated       = false;
 var shown_plan_add_suggestion_tooltip       = false;
 
@@ -381,7 +388,6 @@ Menlo Park, CA  94025<br>
           <li style="background: none; padding-right: 0; margin-right: 0;"><a href="/change-request-format">Mobile View</a></li>
           <li><a href="/about/terms-of-use">Terms of Use</a></li>
           <li><a href="/about/privacy-policy">Privacy Policy</a></li>
-          <li><a href="/jobs">Jobs</a></li>
           <li><a href="/developers">API</a></li>
           <li><a href="/goodies">Goodies</a></li>
           <li><a href="/about/contact">Contact</a></li>
@@ -399,6 +405,7 @@ Menlo Park, CA  94025<br>
   var twitter_authorize_url   = '';
   var google_authorize_url    = '';
   var meetup_authorize_url    = '';
+  var linkedin_authorize_url  = '';
   
 </script>
 
@@ -455,6 +462,15 @@ Menlo Park, CA  94025<br>
   </noscript>
   <!-- End Quantcast tag -->
   
+
+<!-- Google+ -->
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
 
     
   
