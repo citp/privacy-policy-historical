@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the italychronicles.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521071447id_/http%3A//italychronicles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the italychronicles.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202225228id_/http%3A//italychronicles.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy — Italy Chronicles
+# Privacy Policy
 
 ### **Italy Chronicles’ Privacy Statement**
 
@@ -67,9 +67,9 @@ The personal data of the involved party will be processed by Alex Roe the holder
  **The personal data will not be propagated.**  
 The provision of your data for the purposes stated in paragraph (i) is optional. Should such data be withheld, you will not be allowed to receive the assistance, information and/or services requested. The provision of your data for the purposes stated in paragraph (ii) is optional. Should such data be withheld, you will not be allowed to receive information about the commercial and/or promotional activities organized by Alex Roe and his partners.
 
-As involved party, you have the rights expressed in art. 7 of the D.Lgs. June 30, 2003, n. 196. Regarding the expression of these rights, including knowing which persons responsible for personal data treatment have been appointed by Alex Roe, the involved party may send a written communication to contactATblogfromitalyDOTcom.
+As involved party, you have the rights expressed in art. 7 of the D.Lgs. June 30, 2003, n. 196. Regarding the expression of these rights, including knowing which persons responsible for personal data treatment have been appointed by Alex Roe, the involved party may send a written communication to contactATitalychroniclesDOTcom.
 
-### Your online shopping can support BlogfromItaly.com.
+### Your online shopping can support ItalyChronicles.com.
 
 ItalyChronicles.com has agreements with independent online retailers that enable visitors to ItalyChronicles.com to purchase books, and other merchandise mentioned on ItalyChronicles.com through third party sites. A portion of that revenue is designated to ItalyChronicles.com.
 
