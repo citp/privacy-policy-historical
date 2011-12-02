@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendbuttonprofits.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128104657id_/http%3A//sendbuttonprofits.com/disclaimers/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendbuttonprofits.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202183930id_/http%3A//www.sendbuttonprofits.com/disclaimers/privacy_policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
