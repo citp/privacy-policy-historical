@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellhut.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529060726id_/http%3A//www.cellhut.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellhut.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202085651id_/http%3A//www.cellhut.com/privacy.asp) for the most accurate reproduction.*
 
 # CellHut.com's Privacy Policy: How CellHut.com handles your information.
 
@@ -6,7 +6,7 @@ Contact Information To request a correction or deletion of your private informat
 
 269 Walnut Road  
 Glen Cove, NY 11542   
-Phone: 1-877-235-8255   
+Phone: 516-945-3636   
 Fax: 1-212-675-8017
 
  **What Information Do We Collect?**
