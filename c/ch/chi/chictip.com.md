@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chictip.com privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310132018id_/http%3A//www.chictip.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chictip.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202192424id_/http%3A//www.chictip.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Interior Design Blog - Interior Design Ideas, Tips & Inspiration
 
