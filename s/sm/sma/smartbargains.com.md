@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartbargains.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103045738id_/http%3A//www.smartbargains.com/Promo/Help/Help-Privacy.aspx%3Ft%3DHome...corp-foot.) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartbargains.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202072524id_/http%3A//www.smartbargains.com/Promo/Help/Help-Privacy.aspx%3Ft%3DHome...corp-foot.) for the most accurate reproduction.*
 
 # SmartBargains: Help Desk - Privacy & Security
 
