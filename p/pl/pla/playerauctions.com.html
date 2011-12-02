@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the playerauctions.com privacy policy that was archived on 2011-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110522072553id_/http%3A//www.playerauctions.com/help/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playerauctions.com privacy policy that was archived on 2011-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111202142543id_/http%3A//www.playerauctions.com/help/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><style media="screen"></style><link href="http://www.playerauctions.com/App_Themes/Master/master.css" type="text/css" rel="stylesheet"><link href="http://www.playerauctions.com/App_Themes/Master/menu.css" type="text/css" rel="stylesheet"><meta http-equiv="x-ua-compatible" content="ie=7"><link id="ctl00_CommonCssLink" type="text/css" rel="stylesheet" href="http://www.playerauctions.com/css/common.css"><link id="ctl00_CanonicalLink" rel="canonical" href="http://www.playerauctions.com/"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
 	Privacy  Policy - PlayerAuctions
-</title><link href="http://www.playerauctions.com/css/master_v6.css?v=3" rel="stylesheet" type="text/css"><link href="http://www.playerauctions.com/css/home_v6.css" rel="stylesheet" type="text/css"><link href="http://www.playerauctions.com/css/menu_v6.css" rel="stylesheet" type="text/css"><link href="http://www.playerauctions.com/css/css_v6.css" rel="stylesheet" type="text/css">
+</title><link href="http://www.playerauctions.com/css/master_v6.css" rel="stylesheet" type="text/css"><link href="http://www.playerauctions.com/css/home_v6.css" rel="stylesheet" type="text/css"><link href="http://www.playerauctions.com/css/menu_v6.css" rel="stylesheet" type="text/css"><link href="http://www.playerauctions.com/css/css_v6.css" rel="stylesheet" type="text/css">
     <style type="text/css">
     .png_bg{display:none}
     </style>
@@ -17,104 +17,61 @@
         (s = ua.match(/opera.([\d.]+)/)) ? Browser.opera = s[1] :
         (s = ua.match(/version\/([\d.]+).*safari/)) ? Browser.safari = s[1] : 0;
         
-function GetLocalTimeOffset()
-{
-    var now = new Date();
-    var date1 = new Date(now.getFullYear(), 0, 1, 0, 0, 0, 0);
-    var temp = date1.toGMTString();
-    var date2 = new Date(temp.substring(0, temp.lastIndexOf(" ")-1));
-    var minutesDiffStdTime = (date1 - date2) / (1000 * 60);
-    setCookie("timeZone", minutesDiffStdTime, 36500); 
-}
-function setCookie(name,value,days) {
-    if (days && days > 0) {
-      var date = new Date();
-      date.setTime(date.getTime()+(days*24*60*60*1000));
-      var expires = "; expires="+date.toGMTString();
+    function GetLocalTimeOffset()
+    {
+        var now = new Date();
+        var date1 = new Date(now.getFullYear(), 0, 1, 0, 0, 0, 0);
+        var temp = date1.toGMTString();
+        var date2 = new Date(temp.substring(0, temp.lastIndexOf(" ")-1));
+        var minutesDiffStdTime = (date1 - date2) / (1000 * 60);
+        setCookie("timeZone", minutesDiffStdTime, 36500); 
     }
-    else var expires = "";
-      document.cookie = name+"="+value+expires+"; path=/";
-}
-GetLocalTimeOffset();
-function createPopupMenuBasic(sId, sOverClass) {
-    if (document.all && document.getElementById) {
-        navRoot = document.getElementById(sId);
-        if (navRoot) {
-            navRoot.onmouseover = function() {
-                this.className += sOverClass;
-            }
-            navRoot.onmouseout = function() {
-                this.className = this.className.replace(sOverClass, "");
-            }
+    function setCookie(name,value,days) {
+        if (days && days > 0) {
+          var date = new Date();
+          date.setTime(date.getTime()+(days*24*60*60*1000));
+          var expires = "; expires="+date.toGMTString();
         }
+        else var expires = "";
+          document.cookie = name+"="+value+expires+"; path=/";
     }
-}
-function createPopupMenu(sId)
-{
-    createPopupMenuBasic(sId, " over");
-}
-function createPopupTopMenu(sId) {
-    createPopupMenuBasic(sId, " topover");
-}
-function createPopupSimpleMenu(sId) {
-    createPopupMenuBasic(sId, " simpleover");
-}
-function initEyebrowMenu() {
-    createPopupMenu("menu_Account");
-    createPopupMenu("menu_Gold");
-    createPopupMenu("menu_Items");
-    createPopupMenu("menu_BuySell");
-    createPopupMenu("menu_Help");
-    createPopupTopMenu("menu_MyAccount");
-    createPopupMenu("menu_Community");
-    createPopupSimpleMenu("menu_Currency");
-    if (typeof(initEyebrowMenuExtension) != "undefined")
-        initEyebrowMenuExtension();
-}
-function proLoadImages() {
-    var image1 = new Image();
-    image1.src = "/images/blank.gif";
-    var image2 = new Image();
-    image2.src = "/images/shadow_top_bg.gif";
-    var image3 = new Image();
-    image3.src = "/images/shadow_top_line.png";
-    var image4 = new Image();
-    image4.src = "/images/shadow_top_map.gif";
-    var image5 = new Image();
-    image5.src = "/images/logo.png";
-    var image6 = new Image();
-    image6.src = "/images/head_nav_bg.gif";
-    var image7 = new Image();
-    image7.src = "/images/head_menu_bg.gif";
-    var image8 = new Image();
-    image8.src = "/images/head_search_bg.gif";
-    var image9 = new Image();
-    image9.src = "/images/head_search_left.gif";
-    var image10 = new Image();
-    image10.src = "/images/head_search_right.gif";
+    GetLocalTimeOffset();
 
-    if (typeof(proLoadImagesExtension) != "undefined")
-        proLoadImagesExtension();
-}
-
-function onBuySellMenuOver() {
-    if (typeof (onBuySellMenuOverExtend) != "undefined" && Browser.ie)
-        onBuySellMenuOverExtend();    
-}
-
-function onBuySellMenuOut() {
-    if (typeof (onBuySellMenuOutExtend) != "undefined" && Browser.ie)
-        onBuySellMenuOutExtend();
-}
-
-proLoadImages();
-    
     var locationBrowser = new String(window.location.href);
     var len = locationBrowser.length;
     if( len > 1 && locationBrowser.charAt(len - 1) == '/' && locationBrowser.charAt(len - 2) == locationBrowser.charAt(len - 1))
     {
          locationBrowser = locationBrowser.substring(0,len - 1);
          window.location.href = locationBrowser;
+    }
+    
+    var master = {
+        baseUrl: "",
+        objects: {eventTipElement: null},
+        showEventTip: function(txt){
+            this.hideEventTip();
+            if(txt == null) txt = "Loading...";
+            this.objects.eventTipElement = document.createElement("div");
+            this.objects.eventTipElement.innerHTML = txt;
+            this.objects.eventTipElement.className = "eventtip";
+            document.body.appendChild(this.objects.eventTipElement);
+            this.objects.eventTipElement.style.left = (document.documentElement.offsetWidth - this.objects.eventTipElement.offsetWidth - 2) + "px";
+        },
+        hideEventTip: function(){
+            if(this.objects.eventTipElement == null) return;
+            document.body.removeChild(this.objects.eventTipElement);
+            this.objects.eventTipElement = null;
+        },
+        changeCurrencyType: function(ct){this.showEventTip('Loading...');
+            try{
+                var xmlDom = new XmlDom();
+                xmlDom.async = false;
+                xmlDom.load(this.baseUrl + "/Ajax/Ajax.aspx?currencytype=" + ct);
+                var xmlNode = xmlDom.documentElement.selectSingleNode("//response/result");
+                if(xmlNode != null && (xmlNode.text || xmlNode.textContent) == "1"){window.location.reload();}else{this.showEventTip("System busy. Please try again later.");}
+            }catch(e){this.showEventTip("Error: " + e);}
+            setTimeout("master.hideEventTip();", 3000);
+        }
     }
     </script>
     
@@ -141,11 +98,23 @@ proLoadImages();
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
+
 <link href="http://www.playerauctions.com/App_Themes/Buy/buy.css" type="text/css" rel="stylesheet"><meta name="Description" content="Private Policy"><meta name="Keywords" content="Private Policy"><meta name="Copyright" content="PlayerAuctions.com"><meta name="Lang" content="EN"><meta name="ROBOTS" content="NOARCHIVE"><meta name="ROBOTS" content="NOINDEX"><link rel="Shortcut Icon" href="/images/pa.ico"><link rel="Bookmark" href="/images/pa_bookmark.ico"></head>
 <body>
+<script type="text/javascript">master.baseUrl = "";</script>
+<noscript>
+<div align="center" style="background-color: Red; font-weight: bold">
+Please enable Javascript support in your browser to use PlayerAuctions.com. We recommend: <a href="http://www.mozilla.com/firefox/">Firefox 2.0</a> or <a href="http://www.microsoft.com/windows/downloads/ie/getitnow.mspx">IE 7.0</a>.
+</div>
+</noscript>
+<div align="center" style="background-color: Red; font-weight: bold; visibility:hidden;">
+The browser you are using now is not well supported when visiting new PlayerAuctions.com. We recommend using <a href="http://www.mozilla.com/firefox/">Firefox</a>, <a href="http://www.microsoft.com/windows/downloads/ie/getitnow.mspx">IE</a>, <a href="http://www.opera.com/">Opera</a>, <a href="http://www.apple.com/safari/">Safari</a> or <a href="http://www.google.com/chrome">Google Chrome</a> to visit our site.
+</div>
+<a name="Top"></a>
+
     <form name="aspnetForm" method="post" action="/help/policy/" id="aspnetForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMTE0NjM5NzkPZBYCZg9kFgZmD2QWFGYPFgIeBGhyZWYFOmh0dHA6Ly93d3cucGxheWVyYXVjdGlvbnMuY29tL0FwcF9UaGVtZXMvTWFzdGVyL21hc3Rlci5jc3NkAgEPFgIfAAU4aHR0cDovL3d3dy5wbGF5ZXJhdWN0aW9ucy5jb20vQXBwX1RoZW1lcy9NYXN0ZXIvbWVudS5jc3NkAgMPFgIfAAUsaHR0cDovL3d3dy5wbGF5ZXJhdWN0aW9ucy5jb20vY3NzL2NvbW1vbi5jc3NkAgQPFgIfAAUeaHR0cDovL3d3dy5wbGF5ZXJhdWN0aW9ucy5jb20vZAIHDxYCHwAFM2h0dHA6Ly93d3cucGxheWVyYXVjdGlvbnMuY29tL2Nzcy9tYXN0ZXJfdjYuY3NzP3Y9M2QCCA8WAh8ABS1odHRwOi8vd3d3LnBsYXllcmF1Y3Rpb25zLmNvbS9jc3MvaG9tZV92Ni5jc3NkAgkPFgIfAAUtaHR0cDovL3d3dy5wbGF5ZXJhdWN0aW9ucy5jb20vY3NzL21lbnVfdjYuY3NzZAIKDxYCHwAFLGh0dHA6Ly93d3cucGxheWVyYXVjdGlvbnMuY29tL2Nzcy9jc3NfdjYuY3NzZAIMDxYCHgdWaXNpYmxlZ2QCDQ8WAh8ABTRodHRwOi8vd3d3LnBsYXllcmF1Y3Rpb25zLmNvbS9BcHBfVGhlbWVzL0J1eS9idXkuY3NzZAIBD2QWFAIFDxAPFgYeDURhdGFUZXh0RmllbGQFCEdhbWVOYW1lHg5EYXRhVmFsdWVGaWVsZAUKQ2F0ZWdvcnlJZB4LXyFEYXRhQm91bmRnZBAVpgELU2VsZWN0IEdhbWUHMiBNb29ucwk5IERyYWdvbnMUQSBUYWxlIGluIHRoZSBEZXNlcnQPQWR2ZW50dXJlIFF1ZXN0FkFkdmVudHVyZSBRdWVzdCBXb3JsZHMPQWdlIG9mIENvbmFuIEVVD0FnZSBvZiBDb25hbiBVUwtBaWthIE9ubGluZQ5BaW9uIE9ubGluZSBFVQ5BaW9uIE9ubGluZSBVUxNBbGwgUG9pbnRzIEJ1bGxldGluDkFuYXJjaHkgT25saW5lDUFuZ2VscyBPbmxpbmUIQXJjaGxvcmQOQXNoZXJvbidzIENhbGwQQXRsYW50aWNhIE9ubGluZRdCYXR0bGUgb2YgdGhlIEltbW9ydGFscxNCYXR0bGVncm91bmQgRXVyb3BlG0JhdHRsZXN0YXIgR2FsYWN0aWNhIE9ubGluZRFCb3VudHkgQmF5IE9ubGluZQtCb3lhYSBQb2tlcgpDYWJhbCAgRVUgCkNhYmFsICBVUyAQQ2hhbXBpb25zIE9ubGluZQ5DaXR5IG9mIEhlcm9lcxBDaXR5IG9mIFZpbGxhaW5zCUNpdHl2aWxsZQ5Db25xdWVyIE9ubGluZQxDb3J1bSBPbmxpbmUIQ3JhenlUYW8TRGFyayBBZ2Ugb2YgQ2FtZWxvdA5EYXJrIGFuZCBMaWdodA9EYXJrZmFsbCBPbmxpbmUSREMgVW5pdmVyc2UgT25saW5lCURpYWJsbyBJSQVEb2Z1cwxEcmFnb24gRmFibGUWRHVuZ2VvbiBGaWdodGVyIE9ubGluZQ9EdW5nZW9uIFJ1bm5lcnMXRHVuZ2VvbnMgYW5kIERyYWdvbnMgRVUXRHVuZ2VvbnMgYW5kIERyYWdvbnMgVVMJRWFydGhyaXNlEUVudHJvcGlhIFVuaXZlcnNlFEVRIE9ubGluZSBBZHZlbnR1cmVzD0V1ZGVtb25zIE9ubGluZQpFVkUgT25saW5lCUV2ZXJRdWVzdAxFdmVyUXVlc3QgSUkVRXZlclF1ZXN0IElJIEV4dGVuZGVkBUV2b255DEZhbGxlbiBFYXJ0aAxGYWxsZW4gU3dvcmQJRmFybVZpbGxlDUZpZXN0YSBPbmxpbmUTRmluYWwgRmFudGFzeSBYSSBVUxFGaW5hbCBGYW50YXN5IFhJViZGaW5hbCBGYW50YXN5OiBLbmlnaHRzIG9mIHRoZSBDcnlzdGFscwlGbG9yZW5zaWELRmx5IEZvciBGdW4NRnJvbnRpZXJWaWxsZQtHYWlhIE9ubGluZQ1HbGFtYmxlIFBva2VyDUdsb2JhbCBBZ2VuZGENR29vblp1IE9ubGluZQ5HcmFuYWRvIEVzcGFkYRFHcmFuZENoYXNlIE9ubGluZQpHdWlsZCBXYXJzC0d1bnogT25saW5lCkhhYmJvICBFVSALSGFiYm8gIFVTICALSGVybyBPbmxpbmUMSG9saWMgT25saW5lBElNVlUKS2FsIE9ubGluZRNLaW5nZG9tIG9mIExvYXRoaW5nDUtuaWdodCBPbmxpbmUKTGFzdCBDaGFvcxFMZWFndWUgb2YgTGVnZW5kcwdMaW5lYWdlDExpbmVhZ2UgMiBVUxtMb3JkIG9mIFRoZSBSaW5ncyBPbmxpbmUgRVUbTG9yZCBvZiBUaGUgUmluZ3MgT25saW5lIFVTDkxvcmQgb2YgVWx0aW1hBUx1bmlhCE1hYmlub2dpCk1hZmlhIFdhcnMLTWFwbGUgU3RvcnkOTWFwbGUgU3RvcnkgRVUITWFwbGVTRUEKTWVjaCBRdWVzdAdNZXRpbiAyEE1pbmlvbnMgb2YgTWlydGgQTW9ydGFsIE9ubGluZSBFVQlNdSBPbmxpbmUKTXl0aCBXYXIgMg9NeXRoIFdhciBPbmxpbmUKTmF2eSBGaWVsZBBOZW8gU3RlYW0gT25saW5lB05lb3BldHMNUEEgUGxheWVyQ29kZQ1QZXJmZWN0IFdvcmxkEFBlcnBldHV1bSBPbmxpbmULUGV0IFNvY2lldHkWUGhhbnRhc3kgU3RhciBVbml2ZXJzZRpQaXJhdGVzIG9mIHRoZSBCdXJuaW5nIFNlYQpQbGFuZXRTaWRlC1BvZ28gT25saW5lDFByaXN0b24gVGFsZQ5QdXp6bGUgUGlyYXRlcwZSYWtpb24OUmFwcGVseiBPbmxpbmUQUmVkIFN0b25lIE9ubGluZQ5SZXF1aWVtIE9ubGluZQ9SZXN0YXVyYW50IENpdHkJUkYgT25saW5lB1JpZnQgRVUHUmlmdCBVUwxSb2hhbiBPbmxpbmULUm9zZSBPbmxpbmURUnVuZXMgb2YgTWFnaWMgRVURUnVuZXMgb2YgTWFnaWMgVVMJUnVuZXNjYXBlC1NhZ2EgT25saW5lDlNjaW9ucyBvZiBGYXRlC1NlYWwgT25saW5lC1NlY29uZCBMaWZlEFNoYWRvdyBvZiBMZWdlbmQKU2hhZG93QmFuZQ1TaGFpeWEgT25saW5lClNobyBPbmxpbmUPU2lsa3JvYWQgT25saW5lEFN0YXIgVHJlayBPbmxpbmUSU3RhciBXYXJzIEdhbGF4aWVzEFN0YXJRdWVzdCBPbmxpbmUWU3dvcmQgb2YgdGhlIE5ldyBXb3JsZBBUYWxlcyBvZiBQaXJhdGVzD1RhbGlzbWFuIE9ubGluZQ9UZWFtIEZvcnRyZXNzIDIMVGhhbmcgT25saW5lDFRoZSBXYXJsb3JkcwVUaWJpYQ9Ub29udG93biBPbmxpbmUQVHJpY2tzdGVyIE9ubGluZQpUd2VsdmUgU2t5DVR3ZWx2ZSBTa3kgIDINVWx0aW1hIE9ubGluZQhWYW1waXJlcxlWYW5ndWFyZCA6IFNhZ2Egb2YgSGVyb2VzD1ZlbmRldHRhIE9ubGluZQlWaW5kaWN0dXMOVm95YWdlIENlbnR1cnkIV2FyIFJvY2sTV2FyaGFtbWVyIE9ubGluZSBFVRNXYXJoYW1tZXIgT25saW5lIFVTD1dheSBvZiB0aGUgRml2ZQdXZWJraW56EVdpdGggWW91ciBEZXN0aW55CVdpemFyZDEwMRBXb3JsZCBvZiBLdW5nIEZ1DldvcmxkIG9mIFRhbmtzFFdvcmxkIG9mIFdhcmNyYWZ0IEVVFFdvcmxkIG9mIFdhcmNyYWZ0IFVTBFhpYWgHWW92aWxsZQtaZXJvIE9ubGluZRWmAQAEMjc5MAQyODAxBDMwMzIEMzY3NwQzNjcyBDIxMzAEMjE5MQQzNTI2BDMzNzYEMzEzNAQzNTU5ATcEMjgwNQIxOQQzMDEzBDI4MTMEMzY0MQQzMDMzBDM3NDcEMzAxNAQzNjg5AjIwBDIxNTUEMzIxNwE1AjIxBDM3MDgEMzIyOQQzMDM1BDMzMDEEMjMwNwQzMDE1BDMxNzMEMzcxMgQzNDUwAjIyBDM2ODAEMzQ0MAQzMDM2AjE3AjE0BDM3NDUEMzAxNgIyMwQzMDM3ATgBNAIxMQQzNjMzBDM1MzEEMzUzOAQzOTYyBDM0NDIEMjgxOAEyBDM2NDcEMzY5OAQyODI2BDI4MzEEMzYzOQIyNAQzNTUyBDM1MTUEMjg0NwQzMDE4BDMwMjUCMTMEMzAxOQQyNzg0BDI3ODUEMjg0OQQyODUxBDI4NTMCMjYEMzY5NwQyODU1BDI4NzEEMzYzNwQyODgwATMCMjgCMjcENDA5OQQzMTM2BDI4ODQEMzIwOQIyOQQyODg4BDM0ODIEMzY4MgQyODkwBDMwNDcEMzU1MAQzMDIwBDMwNDgEMzA0OQQzMDUwBDI5MjUEMzEzMgQzNjY3BDI5MjgEMzcwMwQzNTI4BDMwMjEEMjAyMgQzMDUxBDMwMjYEMjkzNgQzMDUyBDMwNTMEMjkzOAQzMDI3BDI5NTIEMzQ1NQIxNQQzNzUxBDM3NDMEMjk1NgIzMgQzMTg0BDMxNzkCMzMEMzAyOAQyOTYyBDI5NjQBOQQyOTY3BDMwMjkEMjc5NAQyOTY5AjM0BDM1MDcBNgQzMDU0BDI5NzIEMjk3NgQzMDU1BDM2ODUEMzAzMAQzMzAzBDIyMzEEMzA1NgQzMDU3BDI5OTUEMzIyMAQyMzkyBDM0NDcCMTgEMzA1OAQzNzAwBDMwMDEEMzAzMQQyNjA4BDIwODQEMzMwNQQzMzA3BDMwMDYEMzE5NgQzMDU5BDQxMDACMTICMTAEMzAwOAQzNDQ1BDMyOTkUKwOmAWdnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dkZAIHDw9kFgQeB29uZm9jdXMFEW9uVGV4dEJveEZvY3VzKCk7HgZvbmJsdXIFEG9uVGV4dEJveEJsdXIoKTtkAgoPEA8WBh8CBQVWYWx1ZR8DBQNLZXkfBGdkEBUGDEFsbCBQcm9kdWN0cwhDdXJyZW5jeQVJdGVtcwhBY2NvdW50cw5Qb3dlciBsZXZlbGluZwZHdWlkZXMVBgABMQEyATMBNAE1FCsDBmdnZ2dnZ2RkAiwPFgIeC18hSXRlbUNvdW50AgIWBGYPZBYCAgEPDxYGHg9Db21tYW5kQXJndW1lbnQFAmVuHgdUb29sVGlwBQdFbmdsaXNoHghJbWFnZVVybAUTL2ltYWdlcy9mbGFnX3VzLmdpZmRkAgEPZBYCAgEPDxYGHwgFBXpoLUNOHwkFBuS4reaWhx8KBRMvaW1hZ2VzL2ZsYWdfY24uZ2lmZGQCLg8PFgIeBFRleHQFBFVTRCRkZAIvDxYCHwcCAhYEZg9kFgICAQ8PFgYfCwUEVVNEJB8IBQNVU0QfCQUEVVNEJGRkAgEPZBYCAgEPDxYGHwsFBkNOWe+/pR8IBQNDTlkfCQUGQ05Z77+lZGQCMA8PZBYEHwUFEW9uVGV4dEJveEZvY3VzKCk7HwYFEG9uVGV4dEJveEJsdXIoKTtkAjIPEA8WBh8CBQhHYW1lTmFtZR8DBQpDYXRlZ29yeUlkHwRnZBAVpgELU2VsZWN0IEdhbWUHMiBNb29ucwk5IERyYWdvbnMUQSBUYWxlIGluIHRoZSBEZXNlcnQPQWR2ZW50dXJlIFF1ZXN0FkFkdmVudHVyZSBRdWVzdCBXb3JsZHMPQWdlIG9mIENvbmFuIEVVD0FnZSBvZiBDb25hbiBVUwtBaWthIE9ubGluZQ5BaW9uIE9ubGluZSBFVQ5BaW9uIE9ubGluZSBVUxNBbGwgUG9pbnRzIEJ1bGxldGluDkFuYXJjaHkgT25saW5lDUFuZ2VscyBPbmxpbmUIQXJjaGxvcmQOQXNoZXJvbidzIENhbGwQQXRsYW50aWNhIE9ubGluZRdCYXR0bGUgb2YgdGhlIEltbW9ydGFscxNCYXR0bGVncm91bmQgRXVyb3BlG0JhdHRsZXN0YXIgR2FsYWN0aWNhIE9ubGluZRFCb3VudHkgQmF5IE9ubGluZQtCb3lhYSBQb2tlcgpDYWJhbCAgRVUgCkNhYmFsICBVUyAQQ2hhbXBpb25zIE9ubGluZQ5DaXR5IG9mIEhlcm9lcxBDaXR5IG9mIFZpbGxhaW5zCUNpdHl2aWxsZQ5Db25xdWVyIE9ubGluZQxDb3J1bSBPbmxpbmUIQ3JhenlUYW8TRGFyayBBZ2Ugb2YgQ2FtZWxvdA5EYXJrIGFuZCBMaWdodA9EYXJrZmFsbCBPbmxpbmUSREMgVW5pdmVyc2UgT25saW5lCURpYWJsbyBJSQVEb2Z1cwxEcmFnb24gRmFibGUWRHVuZ2VvbiBGaWdodGVyIE9ubGluZQ9EdW5nZW9uIFJ1bm5lcnMXRHVuZ2VvbnMgYW5kIERyYWdvbnMgRVUXRHVuZ2VvbnMgYW5kIERyYWdvbnMgVVMJRWFydGhyaXNlEUVudHJvcGlhIFVuaXZlcnNlFEVRIE9ubGluZSBBZHZlbnR1cmVzD0V1ZGVtb25zIE9ubGluZQpFVkUgT25saW5lCUV2ZXJRdWVzdAxFdmVyUXVlc3QgSUkVRXZlclF1ZXN0IElJIEV4dGVuZGVkBUV2b255DEZhbGxlbiBFYXJ0aAxGYWxsZW4gU3dvcmQJRmFybVZpbGxlDUZpZXN0YSBPbmxpbmUTRmluYWwgRmFudGFzeSBYSSBVUxFGaW5hbCBGYW50YXN5IFhJViZGaW5hbCBGYW50YXN5OiBLbmlnaHRzIG9mIHRoZSBDcnlzdGFscwlGbG9yZW5zaWELRmx5IEZvciBGdW4NRnJvbnRpZXJWaWxsZQtHYWlhIE9ubGluZQ1HbGFtYmxlIFBva2VyDUdsb2JhbCBBZ2VuZGENR29vblp1IE9ubGluZQ5HcmFuYWRvIEVzcGFkYRFHcmFuZENoYXNlIE9ubGluZQpHdWlsZCBXYXJzC0d1bnogT25saW5lCkhhYmJvICBFVSALSGFiYm8gIFVTICALSGVybyBPbmxpbmUMSG9saWMgT25saW5lBElNVlUKS2FsIE9ubGluZRNLaW5nZG9tIG9mIExvYXRoaW5nDUtuaWdodCBPbmxpbmUKTGFzdCBDaGFvcxFMZWFndWUgb2YgTGVnZW5kcwdMaW5lYWdlDExpbmVhZ2UgMiBVUxtMb3JkIG9mIFRoZSBSaW5ncyBPbmxpbmUgRVUbTG9yZCBvZiBUaGUgUmluZ3MgT25saW5lIFVTDkxvcmQgb2YgVWx0aW1hBUx1bmlhCE1hYmlub2dpCk1hZmlhIFdhcnMLTWFwbGUgU3RvcnkOTWFwbGUgU3RvcnkgRVUITWFwbGVTRUEKTWVjaCBRdWVzdAdNZXRpbiAyEE1pbmlvbnMgb2YgTWlydGgQTW9ydGFsIE9ubGluZSBFVQlNdSBPbmxpbmUKTXl0aCBXYXIgMg9NeXRoIFdhciBPbmxpbmUKTmF2eSBGaWVsZBBOZW8gU3RlYW0gT25saW5lB05lb3BldHMNUEEgUGxheWVyQ29kZQ1QZXJmZWN0IFdvcmxkEFBlcnBldHV1bSBPbmxpbmULUGV0IFNvY2lldHkWUGhhbnRhc3kgU3RhciBVbml2ZXJzZRpQaXJhdGVzIG9mIHRoZSBCdXJuaW5nIFNlYQpQbGFuZXRTaWRlC1BvZ28gT25saW5lDFByaXN0b24gVGFsZQ5QdXp6bGUgUGlyYXRlcwZSYWtpb24OUmFwcGVseiBPbmxpbmUQUmVkIFN0b25lIE9ubGluZQ5SZXF1aWVtIE9ubGluZQ9SZXN0YXVyYW50IENpdHkJUkYgT25saW5lB1JpZnQgRVUHUmlmdCBVUwxSb2hhbiBPbmxpbmULUm9zZSBPbmxpbmURUnVuZXMgb2YgTWFnaWMgRVURUnVuZXMgb2YgTWFnaWMgVVMJUnVuZXNjYXBlC1NhZ2EgT25saW5lDlNjaW9ucyBvZiBGYXRlC1NlYWwgT25saW5lC1NlY29uZCBMaWZlEFNoYWRvdyBvZiBMZWdlbmQKU2hhZG93QmFuZQ1TaGFpeWEgT25saW5lClNobyBPbmxpbmUPU2lsa3JvYWQgT25saW5lEFN0YXIgVHJlayBPbmxpbmUSU3RhciBXYXJzIEdhbGF4aWVzEFN0YXJRdWVzdCBPbmxpbmUWU3dvcmQgb2YgdGhlIE5ldyBXb3JsZBBUYWxlcyBvZiBQaXJhdGVzD1RhbGlzbWFuIE9ubGluZQ9UZWFtIEZvcnRyZXNzIDIMVGhhbmcgT25saW5lDFRoZSBXYXJsb3JkcwVUaWJpYQ9Ub29udG93biBPbmxpbmUQVHJpY2tzdGVyIE9ubGluZQpUd2VsdmUgU2t5DVR3ZWx2ZSBTa3kgIDINVWx0aW1hIE9ubGluZQhWYW1waXJlcxlWYW5ndWFyZCA6IFNhZ2Egb2YgSGVyb2VzD1ZlbmRldHRhIE9ubGluZQlWaW5kaWN0dXMOVm95YWdlIENlbnR1cnkIV2FyIFJvY2sTV2FyaGFtbWVyIE9ubGluZSBFVRNXYXJoYW1tZXIgT25saW5lIFVTD1dheSBvZiB0aGUgRml2ZQdXZWJraW56EVdpdGggWW91ciBEZXN0aW55CVdpemFyZDEwMRBXb3JsZCBvZiBLdW5nIEZ1DldvcmxkIG9mIFRhbmtzFFdvcmxkIG9mIFdhcmNyYWZ0IEVVFFdvcmxkIG9mIFdhcmNyYWZ0IFVTBFhpYWgHWW92aWxsZQtaZXJvIE9ubGluZRWmAQAEMjc5MAQyODAxBDMwMzIEMzY3NwQzNjcyBDIxMzAEMjE5MQQzNTI2BDMzNzYEMzEzNAQzNTU5ATcEMjgwNQIxOQQzMDEzBDI4MTMEMzY0MQQzMDMzBDM3NDcEMzAxNAQzNjg5AjIwBDIxNTUEMzIxNwE1AjIxBDM3MDgEMzIyOQQzMDM1BDMzMDEEMjMwNwQzMDE1BDMxNzMEMzcxMgQzNDUwAjIyBDM2ODAEMzQ0MAQzMDM2AjE3AjE0BDM3NDUEMzAxNgIyMwQzMDM3ATgBNAIxMQQzNjMzBDM1MzEEMzUzOAQzOTYyBDM0NDIEMjgxOAEyBDM2NDcEMzY5OAQyODI2BDI4MzEEMzYzOQIyNAQzNTUyBDM1MTUEMjg0NwQzMDE4BDMwMjUCMTMEMzAxOQQyNzg0BDI3ODUEMjg0OQQyODUxBDI4NTMCMjYEMzY5NwQyODU1BDI4NzEEMzYzNwQyODgwATMCMjgCMjcENDA5OQQzMTM2BDI4ODQEMzIwOQIyOQQyODg4BDM0ODIEMzY4MgQyODkwBDMwNDcEMzU1MAQzMDIwBDMwNDgEMzA0OQQzMDUwBDI5MjUEMzEzMgQzNjY3BDI5MjgEMzcwMwQzNTI4BDMwMjEEMjAyMgQzMDUxBDMwMjYEMjkzNgQzMDUyBDMwNTMEMjkzOAQzMDI3BDI5NTIEMzQ1NQIxNQQzNzUxBDM3NDMEMjk1NgIzMgQzMTg0BDMxNzkCMzMEMzAyOAQyOTYyBDI5NjQBOQQyOTY3BDMwMjkEMjc5NAQyOTY5AjM0BDM1MDcBNgQzMDU0BDI5NzIEMjk3NgQzMDU1BDM2ODUEMzAzMAQzMzAzBDIyMzEEMzA1NgQzMDU3BDI5OTUEMzIyMAQyMzkyBDM0NDcCMTgEMzA1OAQzNzAwBDMwMDEEMzAzMQQyNjA4BDIwODQEMzMwNQQzMzA3BDMwMDYEMzE5NgQzMDU5BDQxMDACMTICMTAEMzAwOAQzNDQ1BDMyOTkUKwOmAWdnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dkZAI5DxYCHwFnZAI6DxYCHwFnZAIGDxYCHwFnZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgUjY3RsMDAkcnBMYW5ndWFnZXMkY3RsMDAkbG5rTGFuZ3VhZ2UFI2N0bDAwJHJwTGFuZ3VhZ2VzJGN0bDAxJGxua0xhbmd1YWdlvLcGDH2B17KyTTWVV3Ev4158wDk=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMTE0NjM5NzkPZBYCZg9kFgZmD2QWDmYPFgIeBGhyZWYFOmh0dHA6Ly93d3cucGxheWVyYXVjdGlvbnMuY29tL0FwcF9UaGVtZXMvTWFzdGVyL21hc3Rlci5jc3NkAgEPFgIfAAU4aHR0cDovL3d3dy5wbGF5ZXJhdWN0aW9ucy5jb20vQXBwX1RoZW1lcy9NYXN0ZXIvbWVudS5jc3NkAgcPFgIfAAUvaHR0cDovL3d3dy5wbGF5ZXJhdWN0aW9ucy5jb20vY3NzL21hc3Rlcl92Ni5jc3NkAggPFgIfAAUtaHR0cDovL3d3dy5wbGF5ZXJhdWN0aW9ucy5jb20vY3NzL2hvbWVfdjYuY3NzZAIJDxYCHwAFLWh0dHA6Ly93d3cucGxheWVyYXVjdGlvbnMuY29tL2Nzcy9tZW51X3Y2LmNzc2QCCg8WAh8ABSxodHRwOi8vd3d3LnBsYXllcmF1Y3Rpb25zLmNvbS9jc3MvY3NzX3Y2LmNzc2QCDg8WAh8ABTRodHRwOi8vd3d3LnBsYXllcmF1Y3Rpb25zLmNvbS9BcHBfVGhlbWVzL0J1eS9idXkuY3NzZAIDD2QWBgIvDxYCHgdWaXNpYmxlZ2QCMA8WAh8BZ2QCOQ8WAh8BaGQCCA8WAh8BZ2QYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFI2N0bDAwJHJwTGFuZ3VhZ2VzJGN0bDAwJGxua0xhbmd1YWdlBSNjdGwwMCRycExhbmd1YWdlcyRjdGwwMSRsbmtMYW5ndWFnZXAJ3J/iGtfU1+yaJeLOrq7z1TwA">
 </div>
 
 
@@ -157,15 +126,6 @@ proLoadImages();
 <script src="/Js/ajaxslt_xpath.js?version=2.1.7" type="text/javascript"></script>
 <script src="/Js/AjaxDom_ajaxslt.js?version=2.1.7" type="text/javascript"></script>
 <script src="/Js/GameListControl.js?version=2.1.7" type="text/javascript"></script>
-        <noscript>
-            <div align="center" style="background-color: Red; font-weight: bold">
-                Please enable Javascript support in your browser to use PlayerAuctions.com. We recommend: <a href="http://www.mozilla.com/firefox/">Firefox 2.0</a> or <a href="http://www.microsoft.com/windows/downloads/ie/getitnow.mspx">IE 7.0</a>.
-            </div>
-        </noscript>
-        <div align="center" style="background-color: Red; font-weight: bold">
-            The browser you are using now is not well supported when visiting new PlayerAuctions.com. We recommend using <a href="http://www.mozilla.com/firefox/">Firefox</a>, <a href="http://www.microsoft.com/windows/downloads/ie/getitnow.mspx">IE</a>, <a href="http://www.opera.com/">Opera</a>, <a href="http://www.apple.com/safari/">Safari</a> or <a href="http://www.google.com/chrome">Google Chrome</a> to visit our site.
-        </div>
-        <a name="Top"></a>
         <!--Start of Header-->
     <div id="advsearch" style="display:none; position:absolute; left:736px;#left:732px;_left:744px; top:148px; z-index:1000;">
   <table width="100%" border="0" cellpadding="0" cellspacing="0" style=" padding:0 0; z-index:1; background-color:#262626;">
@@ -180,13 +140,13 @@ proLoadImages();
       &nbsp; on:&nbsp; 
       <select name="ctl00$ddlGameMaster" id="ctl00_ddlGameMaster" class="selectgameform">
 	<option value="">Select Game</option>
-	<option value="2790">2 Moons</option>
 	<option value="2801">9 Dragons</option>
 	<option value="3032">A Tale in the Desert</option>
 	<option value="3677">Adventure Quest</option>
 	<option value="3672">Adventure Quest Worlds</option>
 	<option value="2130">Age of Conan EU</option>
 	<option value="2191">Age of Conan US</option>
+	<option value="4146">Age Of Empires Online</option>
 	<option value="3526">Aika Online</option>
 	<option value="3376">Aion Online EU</option>
 	<option value="3134">Aion Online US</option>
@@ -196,17 +156,18 @@ proLoadImages();
 	<option value="19">Archlord</option>
 	<option value="3013">Asheron's Call</option>
 	<option value="2813">Atlantica Online</option>
+	<option value="4138">Backyard Monsters</option>
 	<option value="3641">Battle of the Immortals</option>
 	<option value="3033">Battleground Europe</option>
 	<option value="3747">Battlestar Galactica Online</option>
 	<option value="3014">Bounty Bay Online</option>
-	<option value="3689">Boyaa Poker</option>
 	<option value="20">Cabal  EU </option>
 	<option value="2155">Cabal  US </option>
+	<option value="4186">Cabal DE</option>
+	<option value="4190">Cabal FR</option>
 	<option value="3217">Champions Online</option>
 	<option value="5">City of Heroes</option>
 	<option value="21">City of Villains</option>
-	<option value="3708">Cityville</option>
 	<option value="3229">Conquer Online</option>
 	<option value="3035">Corum Online</option>
 	<option value="3301">CrazyTao</option>
@@ -214,14 +175,19 @@ proLoadImages();
 	<option value="3015">Dark and Light</option>
 	<option value="3173">Darkfall Online</option>
 	<option value="3712">DC Universe Online</option>
+	<option value="2790">Dekaron</option>
 	<option value="3450">Diablo II</option>
+	<option value="4140">Diablo III</option>
 	<option value="22">Dofus</option>
 	<option value="3680">Dragon Fable</option>
+	<option value="4130">Dragon Nest</option>
+	<option value="3554">Dream of Mirror Online</option>
+	<option value="4178">Dungeon Defenders</option>
 	<option value="3440">Dungeon Fighter Online</option>
-	<option value="3036">Dungeon Runners</option>
 	<option value="17">Dungeons and Dragons EU</option>
 	<option value="14">Dungeons and Dragons US</option>
 	<option value="3745">Earthrise</option>
+	<option value="4109">Eden Eternal</option>
 	<option value="3016">Entropia Universe</option>
 	<option value="23">EQ Online Adventures</option>
 	<option value="3037">Eudemons Online</option>
@@ -232,24 +198,20 @@ proLoadImages();
 	<option value="3531">Evony</option>
 	<option value="3538">Fallen Earth</option>
 	<option value="3962">Fallen Sword</option>
-	<option value="3442">FarmVille</option>
 	<option value="2818">Fiesta Online</option>
 	<option value="2">Final Fantasy XI US</option>
 	<option value="3647">Final Fantasy XIV</option>
 	<option value="3698">Final Fantasy: Knights of the Crystals</option>
 	<option value="2826">Florensia</option>
 	<option value="2831">Fly For Fun</option>
-	<option value="3639">FrontierVille</option>
 	<option value="24">Gaia Online</option>
-	<option value="3552">Glamble Poker</option>
 	<option value="3515">Global Agenda</option>
 	<option value="2847">GoonZu Online</option>
 	<option value="3018">Granado Espada</option>
 	<option value="3025">GrandChase Online</option>
 	<option value="13">Guild Wars</option>
 	<option value="3019">Gunz Online</option>
-	<option value="2784">Habbo  EU </option>
-	<option value="2785">Habbo  US  </option>
+	<option value="2785">Habbo</option>
 	<option value="2849">Hero Online</option>
 	<option value="2851">Holic Online</option>
 	<option value="2853">IMVU</option>
@@ -265,14 +227,15 @@ proLoadImages();
 	<option value="4099">Lord of Ultima</option>
 	<option value="3136">Lunia</option>
 	<option value="2884">Mabinogi</option>
-	<option value="3209">Mafia Wars</option>
 	<option value="29">Maple Story</option>
 	<option value="2888">Maple Story EU</option>
 	<option value="3482">MapleSEA</option>
 	<option value="3682">Mech Quest</option>
 	<option value="2890">Metin 2</option>
+	<option value="4173">Minecraft</option>
 	<option value="3047">Minions of Mirth</option>
 	<option value="3550">Mortal Online EU</option>
+	<option value="4184">Mousehunt</option>
 	<option value="3020">Mu Online</option>
 	<option value="3048">Myth War 2</option>
 	<option value="3049">Myth War Online</option>
@@ -288,6 +251,7 @@ proLoadImages();
 	<option value="3051">PlanetSide</option>
 	<option value="3026">Pogo Online</option>
 	<option value="2936">Priston Tale</option>
+	<option value="4135">Prius Online</option>
 	<option value="3052">Puzzle Pirates</option>
 	<option value="3053">Rakion</option>
 	<option value="2938">Rappelz Online</option>
@@ -295,8 +259,6 @@ proLoadImages();
 	<option value="2952">Requiem Online</option>
 	<option value="3455">Restaurant City</option>
 	<option value="15">RF Online</option>
-	<option value="3751">Rift EU</option>
-	<option value="3743">Rift US</option>
 	<option value="2956">Rohan Online</option>
 	<option value="32">Rose Online</option>
 	<option value="3184">Runes of Magic EU</option>
@@ -311,8 +273,10 @@ proLoadImages();
 	<option value="2794">Shaiya Online</option>
 	<option value="2969">Sho Online</option>
 	<option value="34">Silkroad Online</option>
+	<option value="4128">Spiral Knights</option>
 	<option value="3507">Star Trek Online</option>
 	<option value="6">Star Wars Galaxies</option>
+	<option value="4171">Star Wars: The Old Republic</option>
 	<option value="3054">StarQuest Online</option>
 	<option value="2972">Sword of the New World</option>
 	<option value="2976">Tales of Pirates</option>
@@ -343,7 +307,7 @@ proLoadImages();
 	<option value="12">World of Warcraft EU</option>
 	<option value="10">World of Warcraft US</option>
 	<option value="3008">Xiah</option>
-	<option value="3445">Yoville</option>
+	<option value="3588">Yu-Gi-Oh Online</option>
 	<option value="3299">Zero Online</option>
 
 </select>
@@ -365,9 +329,7 @@ proLoadImages();
         <div id="GameListDiv_Master" style="float: left; margin-right: -5px;"></div>                                                            
         <div id="ServerFill_Master" class="GameListControlHorizontalDiv GameListControlHorizontalDiv0">
             <select disabled="disabled" class="serverform">
-                <option>
-                    Select Server
-                </option>
+                <option>Select Server</option>
             </select>
         </div>
       </td>
@@ -382,7 +344,7 @@ proLoadImages();
                     </td>
                     <td align="right">
                     <a style="cursor:pointer" href="javascript:ibSearch_click()"><img src="/images/icon_go.png" alt="Search MMO Game Currency, Accounts and Power Leveling"></a>
-                        <input type="submit" name="ctl00$ibSearch" value="" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ibSearch&quot;, &quot;&quot;, true, &quot;MasterSearch&quot;, &quot;&quot;, false, false))" id="ctl00_ibSearch" title="Search MMO Game Currency, Accounts and Power Leveling" class="png_bg">
+                    <input type="submit" name="ctl00$ibSearch" value="" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$ibSearch&quot;, &quot;&quot;, true, &quot;MasterSearch&quot;, &quot;&quot;, false, false))" id="ctl00_ibSearch" title="Search MMO Game Currency, Accounts and Power Leveling" class="png_bg">
                     </td>
                 </tr>
             </tbody></table>
@@ -404,189 +366,121 @@ proLoadImages();
 			<div class="top_menu">
 			<ul>
 			<li>
-			    <a id="ctl00_HyperLink4" title="Buy" href="http://www.playerauctions.com/help/content/making-your-first-purchase/">
+			    <a id="ctl00_HyperLink4" title="Buy" href="http://www.playerauctions.com/offer/mmorpg-market/">
 			         <em class="lft"></em>
-			         <b>
-			         Buy
-			         </b>
+			         <b>Buy</b>
                      <em class="rgt"></em>
                 <!--[if IE 7]><!--></a><!--<![endif]-->
 			    <!--[if lte IE 6]><table><tr><td><![endif]-->
 			    <ul style="_margin-left:-5px;">
-								                    <li>
-                                                        <a id="ctl00_HyperLink5" title="Learn How to Buy" href="http://www.playerauctions.com/help/content/making-your-first-purchase/">Learn How to Buy</a></li>
-								                    <li>
-                                                        <a id="ctl00_HyperLink7" title="Browse For Sale Offers" href="http://www.playerauctions.com/offer/mmorpg-market.aspx?language=en">Browse For Sale Offers</a></li>
-                                                    <li>
-                                                        <a id="ctl00_HyperLink9" title="Create New Wanted Offer" href="https://www.playerauctions.com/member/offereditor/?type=buy">Create New Wanted Offer</a></li>
-                                                    <li>
-                                                        <a id="ctl00_HyperLink56" title="Buy Game Currency" href="http://www.playerauctions.com/go/cheap-mmo-currency-accounts-power-leveling-items-1000000/?producttype=1">Buy Game Currency</a></li>
-                                                    <li>
-                                                        <a id="ctl00_HyperLink54" title="Buy Game Account" href="http://www.playerauctions.com/go/cheap-mmo-currency-accounts-power-leveling-items-1000000/?producttype=3">Buy Game Account</a></li>
-                                                  
-                                                    <li>
-                                                        <a id="ctl00_HyperLink59" title="Buy In-Game Item" href="http://www.playerauctions.com/go/cheap-mmo-currency-accounts-power-leveling-items-1000000/?producttype=2">Buy In-Game Item</a></li>
-                                                    <li>
-                                                        <a id="ctl00_HyperLink60" title="Buy Power Leveling" href="http://www.playerauctions.com/go/cheap-mmo-currency-accounts-power-leveling-items-1000000/?producttype=4">Buy Power Leveling</a></li>
-                                                    <li>
-                                                        <a id="ctl00_HyperLink23" title="Marketplace Report" class="popupbottom" href="http://www.playerauctions.com/compare-gold-prices/">Marketplace Report</a></li>
-								            </ul>
+                    <li><a id="ctl00_HyperLink7" title="Buy Now" href="http://www.playerauctions.com/offer/mmorpg-market.aspx?language=en">Buy Now</a></li>
+                    <li><a id="ctl00_HyperLink5" title="Buying Tutorial" href="http://www.playerauctions.com/help/content/making-your-first-purchase/">Buying Tutorial</a></li>
+                    <li><a id="ctl00_HyperLink9" title="Create New Wanted Offer" href="https://www.playerauctions.com/member/offereditor/?type=buy">Create New Wanted Offer</a></li>
+                    <li><a id="ctl00_HyperLink23" title="See Currency Prices" class="popupbottom" href="http://www.playerauctions.com/compare-gold-prices/">See Currency Prices</a></li>
+	            </ul>
 	            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 			</li>
-			<li><img src="/images/icon_GreyLine.gif" height="11" width="1"></li>
+			<li><img alt="" src="/images/icon_GreyLine.gif" height="11" width="1"></li>
 			<li id="menu_BuySell">
 			    <a id="ctl00_HyperLink16" title="Sell" href="https://www.playerauctions.com/member/offereditor/?type=sell">
-                <em class="lft"></em>
-			         <b>
-			         Sell
-			         </b>
+                    <em class="lft"></em>
+			         <b>Sell</b>
                      <em class="rgt"></em>
                 <!--[if IE 7]><!--></a><!--<![endif]-->
 			    <!--[if lte IE 6]><table><tr><td><![endif]-->
 				<ul style="_margin-left:20px;">
-                    <li>
-                        <a id="ctl00_HyperLink1" title="Learn How to Sell" href="http://www.playerauctions.com/help/content/making-your-first-sale/">Learn How to Sell</a></li>
-                    <li>
-                        <a id="ctl00_HyperLink3" title="Browse Wanted Offers" href="http://www.playerauctions.com/offer/mmorpg-market.aspx?language=en&amp;createoffer=true">Browse Wanted Offers</a></li>
-                    <li>
-                        <a id="ctl00_HyperLink2" title="Create New For Sale Offer" href="https://www.playerauctions.com/member/offereditor/?type=sell">Create New For Sale Offer</a></li>
-                    <li>
-                        <a id="ctl00_hlBatchOfferUpload" title="Bulk Offer Upload" href="https://www.playerauctions.com/member/batchoffer/">Bulk Offer Upload</a></li>
-                    <li>
-                        <a id="ctl00_HyperLink58" title="Sell In Game Currency" href="https://www.playerauctions.com/member/offereditor/?ptype=1&amp;type=sell">Sell In Game Currency</a></li>
-                    <li>
-                        <a id="ctl00_HyperLink55" title="Sell Game Account" class="popupbottom" href="https://www.playerauctions.com/member/offereditor/?ptype=3&amp;type=sell">Sell Game Account</a></li>
-                    <li>
-                        <a id="ctl00_HyperLink63" title="Sell Item" href="https://www.playerauctions.com/member/offereditor/?ptype=2&amp;type=sell">Sell Item</a></li>
-                    <li>
-                        <a id="ctl00_HyperLink10" title="Sell Power Leveling" href="https://www.playerauctions.com/member/offereditor/?ptype=4&amp;type=sell">Sell Power Leveling</a></li>
-                    <li>
-                        <a id="ctl00_HyperLink64" title="Marketplace Report" class="popupbottom" href="http://www.playerauctions.com/compare-gold-prices/">Marketplace Report</a></li>
+                    <li><a id="ctl00_HyperLink0" title="Sell Now" href="https://www.playerauctions.com/member/offereditor/?type=sell">Sell Now</a></li>
+                    <li><a id="ctl00_HyperLink1" title="Selling Tutorial" href="http://www.playerauctions.com/help/content/making-your-first-sale/">Selling Tutorial</a></li>
+                    <li><a id="ctl00_HyperLink3" title="Browse Wanted Offers" href="http://www.playerauctions.com/offer/mmorpg-market.aspx?language=en&amp;createoffer=true">Browse Wanted Offers</a></li>
+                    <li><a id="ctl00_hlBatchOfferUpload" title="Bulk Offer Management" href="https://www.playerauctions.com/member/batchoffer/">Bulk Offer Management</a></li>
+                    <li><a id="ctl00_HyperLink64" title="See Currency Prices" class="popupbottom" href="http://www.playerauctions.com/compare-gold-prices/">See Currency Prices</a></li>
             </ul>
                 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 			</li>
-			<li><img src="/images/icon_GreyLine.gif" height="11" width="1"></li>
+			<li><img alt="" src="/images/icon_GreyLine.gif" height="11" width="1"></li>
 			<li>
 			    <a id="ctl00_HyperLink6" title="My Account" href="https://www.playerauctions.com/member/">
                      <em class="lft"></em>
-			         <b>
-			         My Account
-			         </b>
+			         <b>My Account</b>
                      <em class="rgt"></em>
                 <!--[if IE 7]><!--></a><!--<![endif]-->
 			    <!--[if lte IE 6]><table><tr><td><![endif]-->
-				<ul style=" #margin-left:-100px;_margin-left:60px;">
+				<ul style="#margin-left:-100px;_margin-left:60px;">
 				
-                    <li>
-                        <a id="ctl00_HyperLink8" title="Register / Sign In" href="https://www.playerauctions.com/member/signin/">Register / Sign In</a></li>
+                    <li><a id="ctl00_HyperLink8" title="Register / Sign In" href="https://www.playerauctions.com/member/signin/">Register / Sign In</a></li>
                 
-                   <li>
-                        <a id="ctl00_HyperLink17" title="My Wanted Offers" href="https://www.playerauctions.com/member/myoffer/?type=buy">My Wanted Offers</a></li>
-                    <li>
-                        <a id="ctl00_HyperLink18" title="My For Sale Offers" href="https://www.playerauctions.com/member/myoffer/?type=sell">My For Sale Offers</a></li>
-                    <li>
-                        <a id="ctl00_HyperLink19" title="My Orders" href="https://www.playerauctions.com/member/myorder/">My Orders</a></li>
-                    <li>
-                        <a id="ctl00_HyperLink20" title="My Messages" href="https://www.playerauctions.com/member/messenger/">My Messages</a></li>
-                    <li>
-                        <a id="ctl00_HyperLink22" title="My Reputation" class="popupbottom" href="http://www.playerauctions.com/offer/myfeedbacklist/">My Reputation</a></li>
+                   <li><a id="ctl00_HyperLink17" title="My Wanted Offers" href="https://www.playerauctions.com/member/myoffer/?type=buy">My Wanted Offers</a></li>
+                    <li><a id="ctl00_HyperLink18" title="My For Sale Offers" href="https://www.playerauctions.com/member/myoffer/?type=sell">My For Sale Offers</a></li>
+                    <li><a id="ctl00_HyperLink19" title="My Orders" href="https://www.playerauctions.com/member/myorder/">My Orders</a></li>
+                    <li><a id="ctl00_HyperLink20" title="My Messages" href="https://www.playerauctions.com/member/messenger/">My Messages</a></li>
+                    <li><a id="ctl00_HyperLink22" title="My Reputation" class="popupbottom" href="http://www.playerauctions.com/offer/myfeedbacklist/">My Reputation</a></li>
 	            </ul>
 	            <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 			</li>
-			<li><img src="/images/icon_GreyLine.gif" height="11" width="1"></li>
+			<li><img alt="" src="/images/icon_GreyLine.gif" height="11" width="1"></li>
 			<li>
 			    <a id="ctl00_HyperLink15" title="Contact Us" href="http://www.playerauctions.com/help/contact-us/">
                     <em class="lft"></em>
-			         <b>
-			         Contact Us
-			         </b>
+			         <b>Contact Us</b>
                      <em class="rgt"></em>
                 </a>
 			</li>
-			<li><img src="/images/icon_GreyLine.gif" height="11" width="1"></li>
+			<li><img alt="" src="/images/icon_GreyLine.gif" height="11" width="1"></li>
 			<li id="menu_Help">
 			    <a id="ctl00_HyperLink40" title="Help" href="http://www.playerauctions.com/help/">
-                 <em class="lft"></em>
-			         <b>
-			         Help
-			         </b>
+                    <em class="lft"></em>
+			         <b>Help</b>
                      <em class="rgt"></em>
                 <!--[if IE 7]><!--></a><!--<![endif]-->
 			    <!--[if lte IE 6]><table><tr><td><![endif]-->
 				<ul style=" margin-left:-124px;#margin-left:-162px;_margin-left:107px;">
-                    <li>
-                        <a id="ctl00_HyperLink12" title="Help Center / FAQ" href="http://www.playerauctions.com/help/">Help Center / FAQ</a>
-                    </li>
-                    <li>
-                        <a id="ctl00_HyperLink13" title="Getting Started" href="http://www.playerauctions.com/help/getting-started/">Getting Started</a>
-                    </li>
-                    <li>
-                        <a id="ctl00_HyperLink14" title="Security Center" href="http://www.playerauctions.com/help/security-resolution-center/">Security Center</a>
-                    </li>
+                    <li><a id="ctl00_HyperLink12" title="Help Center / FAQ" href="http://www.playerauctions.com/help/">Help Center / FAQ</a></li>
+                    <li><a id="ctl00_HyperLink13" title="Getting Started" href="http://www.playerauctions.com/help/getting-started/">Getting Started</a></li>
+                    <li><a id="ctl00_HyperLink14" title="Security Center" href="http://www.playerauctions.com/help/security-resolution-center/">Security Center</a></li>
                 </ul>
                 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
+			</li>
+			<li><img alt="" src="/images/icon_GreyLine.gif" height="11" width="1"></li>
+			<li>
+			    <a id="ctl00_HyperLinkSignIn" title="Sign In" href="https://www.playerauctions.com/member/signin/">
+                    <em class="lft"></em>
+			        <b>Sign In</b>
+                    <em class="rgt"></em>
+                </a>
+			    
+			    
 			</li>
             </ul>
 			</div>
 	  <!--Start of Page Setting (Language & Currency)-->
 	 <div style="display:block; z-index:1; clear:both">
-        <table width="100%" height="50" border="0" cellpadding="0" cellspacing="0">
+        <table width="100%" border="0" cellpadding="0" cellspacing="0">
           <tbody><tr>
           <td width="250"></td>
             <td height="25" valign="bottom" align="center"><img height="16" src="/images/earth_v4.gif" width="16"></td>
             <td valign="bottom">
-            <span class="white">Language 
-                :</span>
+            <span class="white">Language :</span>
                 &nbsp;
             
-                       <input type="image" name="ctl00$rpLanguages$ctl00$lnkLanguage" id="ctl00_rpLanguages_ctl00_lnkLanguage" title="English" src="/images/flag_us.gif" style="border-width:0px;">
+                    <input type="image" name="ctl00$rpLanguages$ctl00$lnkLanguage" id="ctl00_rpLanguages_ctl00_lnkLanguage" title="English" src="/images/flag_us.gif" onclick="master.showEventTip();" style="border-width:0px;">
                 
-                       <input type="image" name="ctl00$rpLanguages$ctl01$lnkLanguage" id="ctl00_rpLanguages_ctl01_lnkLanguage" title="中文" src="/images/flag_cn.gif" style="border-width:0px;">
+                    <input type="image" name="ctl00$rpLanguages$ctl01$lnkLanguage" id="ctl00_rpLanguages_ctl01_lnkLanguage" title="中文" src="/images/flag_cn.gif" onclick="master.showEventTip();" style="border-width:0px;">
                 
             </td>
           </tr>
-          <tr>
-              <td></td>
-            <td height="25"></td>
+          <tr><td></td><td height="25"></td>
             <td valign="middle">
                 <div class="simplePopup" id="menu_Currency" style="position: relative;">
-                                        <span class="white">Currency 
-                                        :</span>
-                                        &nbsp;<a href="#" style="position: static"><font style="text-decoration: underline; color:#76CB15"><span id="ctl00_lblSelCurrency">USD$</span></font></a>
-                                        <img src="/images/icon_sec.gif" align="absmiddle" border="0" height="11" width="12">
-                                        <div class="popupText" id="EyebrowMenuCurrency7_Popup" style="margin-left: 59px;
-                                            #margin-left: -0px;
-                                            _margin-left: -10px;
-                                            ">
-                                            <table border="0" cellpadding="0" cellspacing="0" width="65" align="right" style="margin-top: -1px">
-                                                <tbody>
-                                                    <tr>
-                                                      <td colspan="3" bgcolor="#5481C1" height="1"></td>
-                                                    </tr>
-                                                    <tr>
-                                                      <td bgcolor="#5481C1" width="1"></td>
-                                                      <td>
-                                                            <ul>
-                                                                
-                                                                        <li>
-                                                                            <a onclick="javascript:__doPostBack('ctl00$rpCurrency$ctl00$lnkCurrency','');return false;" id="ctl00_rpCurrency_ctl00_lnkCurrency" title="USD$" href="/help/policy/#">USD$</a>
-                                                                        </li>
-                                                                    
-                                                                        <li>
-                                                                            <a onclick="javascript:__doPostBack('ctl00$rpCurrency$ctl01$lnkCurrency','');return false;" id="ctl00_rpCurrency_ctl01_lnkCurrency" title="CNY￥" href="/help/policy/#">CNY￥</a>
-                                                                        </li>
-                                                                    
-                                                            </ul>
-                                                        </td>
-                                                        <td bgcolor="#5481C1" width="1"></td>
-                                                    </tr>
-                                                    <tr>
-                                                      <td colspan="3" bgcolor="#5481C1" height="1"></td>
-                                                    </tr>
-                                                </tbody>
-                                            </table>
-                                        </div>
-                                    </div>
+                    <span class="white">Currency :</span>
+                    &nbsp;<a href="#" style="position: static"><span id="ctl00_lblSelCurrency" style="text-decoration: underline; color:#76CB15">USD$</span></a>
+                    <img src="/images/icon_sec.gif" align="absmiddle" border="0" height="11" width="12">
+                    <div class="popupText" id="EyebrowMenuCurrency7_Popup" style="border:solid 1px #5481C1; background-color:#262626; padding:1px 0px; margin-top:2px; margin-left:60px;">
+                        <dl style="width:50px;">
+                            <dd><a href="javascript:" onclick="master.changeCurrencyType('USD');">USD$</a></dd>
+                            <dd><a href="javascript:" onclick="master.changeCurrencyType('CNY');">CNY￥</a></dd>
+                        </dl>
+                    </div>
+                </div>
             </td>
           </tr>
         </tbody></table>
@@ -596,18 +490,7 @@ proLoadImages();
 
 </tbody></table>
 <script type="text/javascript">
-    function FixPngInIE6() {
-        try {
-            if(Browser.ie != '6.0')
-                return;
-            var logo = document.getElementById("pngLogo");
-            if (logo) {
-                DD_belatedPNG.fixPng(logo);
-            }
-        }
-        catch (e) { }
-    }
-    FixPngInIE6();
+try {if(Browser.ie == '6.0'){var _logo = $get("pngLogo");if (_logo) { DD_belatedPNG.fixPng(_logo);}}} catch (e) { }
 </script>
 <!--End of Title-->
 
@@ -623,13 +506,13 @@ proLoadImages();
               <td width="26%">
               <select name="ctl00$ddlGameMaster2" id="ctl00_ddlGameMaster2" class="accactivity InputBoxStyle" style="height:21px; width:228px; color:Black">
 	<option value="">Select Game</option>
-	<option value="2790">2 Moons</option>
 	<option value="2801">9 Dragons</option>
 	<option value="3032">A Tale in the Desert</option>
 	<option value="3677">Adventure Quest</option>
 	<option value="3672">Adventure Quest Worlds</option>
 	<option value="2130">Age of Conan EU</option>
 	<option value="2191">Age of Conan US</option>
+	<option value="4146">Age Of Empires Online</option>
 	<option value="3526">Aika Online</option>
 	<option value="3376">Aion Online EU</option>
 	<option value="3134">Aion Online US</option>
@@ -639,17 +522,18 @@ proLoadImages();
 	<option value="19">Archlord</option>
 	<option value="3013">Asheron's Call</option>
 	<option value="2813">Atlantica Online</option>
+	<option value="4138">Backyard Monsters</option>
 	<option value="3641">Battle of the Immortals</option>
 	<option value="3033">Battleground Europe</option>
 	<option value="3747">Battlestar Galactica Online</option>
 	<option value="3014">Bounty Bay Online</option>
-	<option value="3689">Boyaa Poker</option>
 	<option value="20">Cabal  EU </option>
 	<option value="2155">Cabal  US </option>
+	<option value="4186">Cabal DE</option>
+	<option value="4190">Cabal FR</option>
 	<option value="3217">Champions Online</option>
 	<option value="5">City of Heroes</option>
 	<option value="21">City of Villains</option>
-	<option value="3708">Cityville</option>
 	<option value="3229">Conquer Online</option>
 	<option value="3035">Corum Online</option>
 	<option value="3301">CrazyTao</option>
@@ -657,14 +541,19 @@ proLoadImages();
 	<option value="3015">Dark and Light</option>
 	<option value="3173">Darkfall Online</option>
 	<option value="3712">DC Universe Online</option>
+	<option value="2790">Dekaron</option>
 	<option value="3450">Diablo II</option>
+	<option value="4140">Diablo III</option>
 	<option value="22">Dofus</option>
 	<option value="3680">Dragon Fable</option>
+	<option value="4130">Dragon Nest</option>
+	<option value="3554">Dream of Mirror Online</option>
+	<option value="4178">Dungeon Defenders</option>
 	<option value="3440">Dungeon Fighter Online</option>
-	<option value="3036">Dungeon Runners</option>
 	<option value="17">Dungeons and Dragons EU</option>
 	<option value="14">Dungeons and Dragons US</option>
 	<option value="3745">Earthrise</option>
+	<option value="4109">Eden Eternal</option>
 	<option value="3016">Entropia Universe</option>
 	<option value="23">EQ Online Adventures</option>
 	<option value="3037">Eudemons Online</option>
@@ -675,24 +564,20 @@ proLoadImages();
 	<option value="3531">Evony</option>
 	<option value="3538">Fallen Earth</option>
 	<option value="3962">Fallen Sword</option>
-	<option value="3442">FarmVille</option>
 	<option value="2818">Fiesta Online</option>
 	<option value="2">Final Fantasy XI US</option>
 	<option value="3647">Final Fantasy XIV</option>
 	<option value="3698">Final Fantasy: Knights of the Crystals</option>
 	<option value="2826">Florensia</option>
 	<option value="2831">Fly For Fun</option>
-	<option value="3639">FrontierVille</option>
 	<option value="24">Gaia Online</option>
-	<option value="3552">Glamble Poker</option>
 	<option value="3515">Global Agenda</option>
 	<option value="2847">GoonZu Online</option>
 	<option value="3018">Granado Espada</option>
 	<option value="3025">GrandChase Online</option>
 	<option value="13">Guild Wars</option>
 	<option value="3019">Gunz Online</option>
-	<option value="2784">Habbo  EU </option>
-	<option value="2785">Habbo  US  </option>
+	<option value="2785">Habbo</option>
 	<option value="2849">Hero Online</option>
 	<option value="2851">Holic Online</option>
 	<option value="2853">IMVU</option>
@@ -708,14 +593,15 @@ proLoadImages();
 	<option value="4099">Lord of Ultima</option>
 	<option value="3136">Lunia</option>
 	<option value="2884">Mabinogi</option>
-	<option value="3209">Mafia Wars</option>
 	<option value="29">Maple Story</option>
 	<option value="2888">Maple Story EU</option>
 	<option value="3482">MapleSEA</option>
 	<option value="3682">Mech Quest</option>
 	<option value="2890">Metin 2</option>
+	<option value="4173">Minecraft</option>
 	<option value="3047">Minions of Mirth</option>
 	<option value="3550">Mortal Online EU</option>
+	<option value="4184">Mousehunt</option>
 	<option value="3020">Mu Online</option>
 	<option value="3048">Myth War 2</option>
 	<option value="3049">Myth War Online</option>
@@ -731,6 +617,7 @@ proLoadImages();
 	<option value="3051">PlanetSide</option>
 	<option value="3026">Pogo Online</option>
 	<option value="2936">Priston Tale</option>
+	<option value="4135">Prius Online</option>
 	<option value="3052">Puzzle Pirates</option>
 	<option value="3053">Rakion</option>
 	<option value="2938">Rappelz Online</option>
@@ -738,8 +625,6 @@ proLoadImages();
 	<option value="2952">Requiem Online</option>
 	<option value="3455">Restaurant City</option>
 	<option value="15">RF Online</option>
-	<option value="3751">Rift EU</option>
-	<option value="3743">Rift US</option>
 	<option value="2956">Rohan Online</option>
 	<option value="32">Rose Online</option>
 	<option value="3184">Runes of Magic EU</option>
@@ -754,8 +639,10 @@ proLoadImages();
 	<option value="2794">Shaiya Online</option>
 	<option value="2969">Sho Online</option>
 	<option value="34">Silkroad Online</option>
+	<option value="4128">Spiral Knights</option>
 	<option value="3507">Star Trek Online</option>
 	<option value="6">Star Wars Galaxies</option>
+	<option value="4171">Star Wars: The Old Republic</option>
 	<option value="3054">StarQuest Online</option>
 	<option value="2972">Sword of the New World</option>
 	<option value="2976">Tales of Pirates</option>
@@ -786,7 +673,7 @@ proLoadImages();
 	<option value="12">World of Warcraft EU</option>
 	<option value="10">World of Warcraft US</option>
 	<option value="3008">Xiah</option>
-	<option value="3445">Yoville</option>
+	<option value="3588">Yu-Gi-Oh Online</option>
 	<option value="3299">Zero Online</option>
 
 </select>
@@ -799,27 +686,26 @@ proLoadImages();
               <table width="100%" border="0" cellpadding="0" cellspacing="0">
                   <tbody><tr>
                     <td><b><a href="#" onclick="ShowAdvancedSearch()" class="white" title="Advanced Search">
-        Advanced Search&nbsp;&nbsp;<img src="/images/advsearch_arrow_v4.gif" width="8" height="4" border="0" align="absmiddle"></a>&nbsp;</b>
-        <input type="hidden" name="ctl00$hfAdvancedSearch" id="ctl00_hfAdvancedSearch"></td>
+                        Advanced Search&nbsp;&nbsp;<img alt="show" src="/images/advsearch_arrow_v4.gif" width="8" height="4" border="0" align="absmiddle"></a>&nbsp;</b>
+                        <input type="hidden" name="ctl00$hfAdvancedSearch" id="ctl00_hfAdvancedSearch"></td>
                   </tr>
               </tbody></table>
              </td>
             </tr>
           </tbody></table>
 		</div>
-		<div class="menu_1_RightImg"><img src="/images/menu_1_RightImg.gif" height="45px" width="20px"></div>
+		<div class="menu_1_RightImg"><img alt="" src="/images/menu_1_RightImg.gif" height="45px" width="20px"></div>
 	</div>
 	<div id="menu_2">
-		<div class="menu_2_LeftImg"><img src="/images/menu_2_LeftImg.gif" height="30px" width="5px"></div>
+		<div class="menu_2_LeftImg"><img alt="" src="/images/menu_2_LeftImg.gif" height="30px" width="5px"></div>
 		<div class="menu_2_main">
-		  <table width="916" height="30" border="0" align="center" cellpadding="0" cellspacing="0">
+		  <table width="916" border="0" align="center" cellpadding="0" cellspacing="0">
 			<tbody><tr>
-			  <td width="9%"><img src="/images/GameIndex2.gif" width="74" height="15"></td>
+			  <td width="9%" height="30"><img alt="" src="/images/GameIndex2.gif" width="74" height="15"></td>
 			  <td width="54%"><div class="index_menu"><script src="/Js/gameindex.js" language="javascript" type="text/javascript"></script><ul><li><a href="#nogo" title="A"><em class="lft"></em><b>A</b><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="http://www.playerauctions.com/atitd-products/" title="A Tale in the Desert">A Tale in the Desert</a></li><li><a href="http://www.playerauctions.com/aq-products/" title="Adventure Quest">Adventure Quest</a></li><li><a href="http://www.playerauctions.com/aqworlds-products/" title="Adventure Quest Worlds">Adventure Quest Worlds</a></li><li><a href="http://www.playerauctions.com/aoc-eu-products/" title="Age of Conan EU">Age of Conan EU</a></li><li><a href="http://www.playerauctions.com/aoc-products/" title="Age of Conan US">Age of Conan US</a></li><li><a href="http://www.playerauctions.com/aika-products/" title="Aika Online">Aika Online</a></li><li><a href="http://www.playerauctions.com/aion-eu-products/" title="Aion Online EU">Aion Online EU</a></li><li><a href="http://www.playerauctions.com/aion-products/" title="Aion Online US">Aion Online US</a></li><li><a href="http://www.playerauctions.com/apb-products/" title="All Points Bulletin">All Points Bulletin</a></li><li><a href="http://www.playerauctions.com/ao-products/" title="Anarchy Online">Anarchy Online</a></li><li><a href="http://www.playerauctions.com/angels-products/" title="Angels Online">Angels Online</a></li><li><a href="http://www.playerauctions.com/al-products/" title="Archlord">Archlord</a></li><li><a href="http://www.playerauctions.com/ac-products/" title="Asheron's Call">Asheron's Call</a></li><li><a href="http://www.playerauctions.com/at-products/" title="Atlantica Online">Atlantica Online</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="#nogo" title="B"><em class="lft"></em><b>B</b><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="http://www.playerauctions.com/boi-products/" title="Battle of the Immortals">Battle of the Immortals</a></li><li><a href="http://www.playerauctions.com/be-products/" title="Battleground Europe">Battleground Europe</a></li><li><a href="http://www.playerauctions.com/bbo-products/" title="Bounty Bay Online">Bounty Bay Online</a></li><li><a href="http://www.playerauctions.com/bp-products/" title="Boyaa Poker">Boyaa Poker</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="#nogo" title="C"><em class="lft"></em><b>C</b><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="http://www.playerauctions.com/cabal-eu-products/" title="Cabal  EU ">Cabal  EU </a></li><li><a href="http://www.playerauctions.com/cabal-products/" title="Cabal  US ">Cabal  US </a></li><li><a href="http://www.playerauctions.com/champions-products/" title="Champions Online">Champions Online</a></li><li><a href="http://www.playerauctions.com/coh-products/" title="City of Heroes">City of Heroes</a></li><li><a href="http://www.playerauctions.com/cov-products/" title="City of Villains">City of Villains</a></li><li><a href="http://www.playerauctions.com/conquer-products/" title="Conquer Online">Conquer Online</a></li><li><a href="http://www.playerauctions.com/corum-products/" title="Corum Online">Corum Online</a></li><li><a href="http://www.playerauctions.com/crazytao-products/" title="CrazyTao">CrazyTao</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="#nogo" title="D"><em class="lft"></em><b>D</b><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="http://www.playerauctions.com/daoc-products/" title="Dark Age of Camelot">Dark Age of Camelot</a></li><li><a href="http://www.playerauctions.com/dnl-products/" title="Dark and Light">Dark and Light</a></li><li><a href="http://www.playerauctions.com/darkfall-products/" title="Darkfall Online">Darkfall Online</a></li><li><a href="http://www.playerauctions.com/d2-products/" title="Diablo II">Diablo II</a></li><li><a href="http://www.playerauctions.com/dofus-products/" title="Dofus">Dofus</a></li><li><a href="http://www.playerauctions.com/df-products/" title="Dragon Fable">Dragon Fable</a></li><li><a href="http://www.playerauctions.com/dfo-products/" title="Dungeon Fighter Online">Dungeon Fighter Online</a></li><li><a href="http://www.playerauctions.com/dr-products/" title="Dungeon Runners">Dungeon Runners</a></li><li><a href="http://www.playerauctions.com/ddo-eu-products/" title="Dungeons and Dragons EU">Dungeons and Dragons EU</a></li><li><a href="http://www.playerauctions.com/ddo-products/" title="Dungeons and Dragons US">Dungeons and Dragons US</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="#nogo" title="E"><em class="lft"></em><b>E</b><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="http://www.playerauctions.com/eu-products/" title="Entropia Universe">Entropia Universe</a></li><li><a href="http://www.playerauctions.com/eqoa-products/" title="EQ Online Adventures">EQ Online Adventures</a></li><li><a href="http://www.playerauctions.com/eo-products/" title="Eudemons Online">Eudemons Online</a></li><li><a href="http://www.playerauctions.com/eve-products/" title="EVE Online">EVE Online</a></li><li><a href="http://www.playerauctions.com/eq-products/" title="EverQuest">EverQuest</a></li><li><a href="http://www.playerauctions.com/eq2-products/" title="EverQuest II">EverQuest II</a></li><li><a href="http://www.playerauctions.com/eq2-extended-products/" title="EverQuest II Extended">EverQuest II Extended</a></li><li><a href="http://www.playerauctions.com/evony-products/" title="Evony">Evony</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="#nogo" title="F"><em class="lft"></em><b>F</b><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="http://www.playerauctions.com/fe-products/" title="Fallen Earth">Fallen Earth</a></li><li><a href="http://www.playerauctions.com/farmville-products/" title="FarmVille">FarmVille</a></li><li><a href="http://www.playerauctions.com/fo-products/" title="Fiesta Online">Fiesta Online</a></li><li><a href="http://www.playerauctions.com/ffxi-products/" title="Final Fantasy XI US">Final Fantasy XI US</a></li><li><a href="http://www.playerauctions.com/ffxiv-products/" title="Final Fantasy XIV">Final Fantasy XIV</a></li><li><a href="http://www.playerauctions.com/koc-products/" title="Final Fantasy: Knights of the Crystals">Final Fantasy: Knights of the Crystals</a></li><li><a href="http://www.playerauctions.com/florensia-products/" title="Florensia">Florensia</a></li><li><a href="http://www.playerauctions.com/flyff-products/" title="Fly For Fun">Fly For Fun</a></li><li><a href="http://www.playerauctions.com/frontierville-products/" title="FrontierVille">FrontierVille</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="#nogo" title="G"><em class="lft"></em><b>G</b><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="http://www.playerauctions.com/gaia-products/" title="Gaia Online">Gaia Online</a></li><li><a href="http://www.playerauctions.com/glamble-poker-products/" title="Glamble Poker">Glamble Poker</a></li><li><a href="http://www.playerauctions.com/ga-products/" title="Global Agenda">Global Agenda</a></li><li><a href="http://www.playerauctions.com/goonzu-products/" title="GoonZu Online">GoonZu Online</a></li><li><a href="http://www.playerauctions.com/ge-products/" title="Granado Espada">Granado Espada</a></li><li><a href="http://www.playerauctions.com/gco-products/" title="GrandChase Online">GrandChase Online</a></li><li><a href="http://www.playerauctions.com/gw-products/" title="Guild Wars">Guild Wars</a></li><li><a href="http://www.playerauctions.com/gunz-products/" title="Gunz Online">Gunz Online</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="#nogo" title="H"><em class="lft"></em><b>H</b><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="http://www.playerauctions.com/habbo-eu-products/" title="Habbo  EU ">Habbo  EU </a></li><li><a href="http://www.playerauctions.com/habbo-products/" title="Habbo  US  ">Habbo  US  </a></li><li><a href="http://www.playerauctions.com/hero-products/" title="Hero Online">Hero Online</a></li><li><a href="http://www.playerauctions.com/holic-products/" title="Holic Online">Holic Online</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="#nogo" title="I"><em class="lft"></em><b>I</b><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="http://www.playerauctions.com/imvu-products/" title="IMVU">IMVU</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="#nogo" title="K"><em class="lft"></em><b>K</b><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="http://www.playerauctions.com/kal-products/" title="Kal Online">Kal Online</a></li><li><a href="http://www.playerauctions.com/kingdom-of-loathing-products/" title="Kingdom of Loathing">Kingdom of Loathing</a></li><li><a href="http://www.playerauctions.com/knight-products/" title="Knight Online">Knight Online</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="#nogo" title="L"><em class="lft"></em><b>L</b><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="http://www.playerauctions.com/lc-products/" title="Last Chaos">Last Chaos</a></li><li><a href="http://www.playerauctions.com/lol-products/" title="League of Legends">League of Legends</a></li><li><a href="http://www.playerauctions.com/lineage-products/" title="Lineage">Lineage</a></li><li><a href="http://www.playerauctions.com/l2-products/" title="Lineage 2 US">Lineage 2 US</a></li><li><a href="http://www.playerauctions.com/lotro-eu-products/" title="Lord of The Rings Online EU">Lord of The Rings Online EU</a></li><li><a href="http://www.playerauctions.com/lotro-products/" title="Lord of The Rings Online US">Lord of The Rings Online US</a></li><li><a href="http://www.playerauctions.com/lunia-products/" title="Lunia">Lunia</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="#nogo" title="M"><em class="lft"></em><b>M</b><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="http://www.playerauctions.com/mabinogi-products/" title="Mabinogi">Mabinogi</a></li><li><a href="http://www.playerauctions.com/mafia-wars-products/" title="Mafia Wars">Mafia Wars</a></li><li><a href="http://www.playerauctions.com/maple-story-products/" title="Maple Story">Maple Story</a></li><li><a href="http://www.playerauctions.com/ms-products/" title="Maple Story  EU ">Maple Story  EU </a></li><li><a href="http://www.playerauctions.com/mq-products/" title="Mech Quest">Mech Quest</a></li><li><a href="http://www.playerauctions.com/m2-products/" title="Metin 2">Metin 2</a></li><li><a href="http://www.playerauctions.com/mom-products/" title="Minions of Mirth">Minions of Mirth</a></li><li><a href="http://www.playerauctions.com/mo-eu-products/" title="Mortal Online EU">Mortal Online EU</a></li><li><a href="http://www.playerauctions.com/mu-products/" title="Mu Online">Mu Online</a></li><li><a href="http://www.playerauctions.com/mw2-products/" title="Myth War 2">Myth War 2</a></li><li><a href="http://www.playerauctions.com/mw-products/" title="Myth War Online">Myth War Online</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="#nogo" title="N"><em class="lft"></em><b>N</b><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="http://www.playerauctions.com/nf-products/" title="Navy Field">Navy Field</a></li><li><a href="http://www.playerauctions.com/nso-products/" title="Neo Steam Online">Neo Steam Online</a></li><li><a href="http://www.playerauctions.com/neopets-products/" title="Neopets">Neopets</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="#nogo" title="P"><em class="lft"></em><b>P</b><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="http://www.playerauctions.com/pa-playercode-products/" title="PA PlayerCode">PA PlayerCode</a></li><li><a href="http://www.playerauctions.com/pw-products/" title="Perfect World">Perfect World</a></li><li><a href="http://www.playerauctions.com/pet-society-products/" title="Pet Society">Pet Society</a></li><li><a href="http://www.playerauctions.com/psu-products/" title="Phantasy Star Universe">Phantasy Star Universe</a></li><li><a href="http://www.playerauctions.com/potbs-products/" title="Pirates of the Burning Sea">Pirates of the Burning Sea</a></li><li><a href="http://www.playerauctions.com/ps-products/" title="PlanetSide">PlanetSide</a></li><li><a href="http://www.playerauctions.com/pogo-products/" title="Pogo Online">Pogo Online</a></li><li><a href="http://www.playerauctions.com/pt-products/" title="Priston Tale">Priston Tale</a></li><li><a href="http://www.playerauctions.com/pp-products/" title="Puzzle Pirates">Puzzle Pirates</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="#nogo" title="R"><em class="lft"></em><b>R</b><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="http://www.playerauctions.com/rakion-products/" title="Rakion">Rakion</a></li><li><a href="http://www.playerauctions.com/rappelz-products/" title="Rappelz Online">Rappelz Online</a></li><li><a href="http://www.playerauctions.com/rso-products/" title="Red Stone Online">Red Stone Online</a></li><li><a href="http://www.playerauctions.com/requiem-products/" title="Requiem Online">Requiem Online</a></li><li><a href="http://www.playerauctions.com/rc-products/" title="Restaurant City">Restaurant City</a></li><li><a href="http://www.playerauctions.com/rfo-products/" title="RF Online">RF Online</a></li><li><a href="http://www.playerauctions.com/rohan-products/" title="Rohan Online">Rohan Online</a></li><li><a href="http://www.playerauctions.com/rose-products/" title="Rose Online">Rose Online</a></li><li><a href="http://www.playerauctions.com/rom-eu-products/" title="Runes of Magic EU">Runes of Magic EU</a></li><li><a href="http://www.playerauctions.com/rom-products/" title="Runes of Magic US">Runes of Magic US</a></li><li><a href="http://www.playerauctions.com/rs-products/" title="Runescape">Runescape</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="#nogo" title="S"><em class="lft"></em><b>S</b><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="http://www.playerauctions.com/saga-products/" title="Saga Online">Saga Online</a></li><li><a href="http://www.playerauctions.com/sof-products/" title="Scions of Fate">Scions of Fate</a></li><li><a href="http://www.playerauctions.com/seal-products/" title="Seal Online">Seal Online</a></li><li><a href="http://www.playerauctions.com/sl-products/" title="Second Life">Second Life</a></li><li><a href="http://www.playerauctions.com/sol-products/" title="Shadow of Legend">Shadow of Legend</a></li><li><a href="http://www.playerauctions.com/sb-products/" title="ShadowBane">ShadowBane</a></li><li><a href="http://www.playerauctions.com/shaiya-products/" title="Shaiya Online">Shaiya Online</a></li><li><a href="http://www.playerauctions.com/sho-products/" title="Sho Online">Sho Online</a></li><li><a href="http://www.playerauctions.com/sr-products/" title="Silkroad Online">Silkroad Online</a></li><li><a href="http://www.playerauctions.com/sto-products/" title="Star Trek Online">Star Trek Online</a></li><li><a href="http://www.playerauctions.com/swg-products/" title="Star Wars Galaxies">Star Wars Galaxies</a></li><li><a href="http://www.playerauctions.com/sqo-products/" title="StarQuest Online">StarQuest Online</a></li><li><a href="http://www.playerauctions.com/sotnw-products/" title="Sword of the New World">Sword of the New World</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="#nogo" title="T"><em class="lft"></em><b>T</b><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="http://www.playerauctions.com/top-products/" title="Tales of Pirates">Tales of Pirates</a></li><li><a href="http://www.playerauctions.com/talisman-products/" title="Talisman Online">Talisman Online</a></li><li><a href="http://www.playerauctions.com/tf2-products/" title="Team Fortress 2">Team Fortress 2</a></li><li><a href="http://www.playerauctions.com/texas-hold-em-products/" title="Texas Hold'Em">Texas Hold'Em</a></li><li><a href="http://www.playerauctions.com/thang-products/" title="Thang Online">Thang Online</a></li><li><a href="http://www.playerauctions.com/tw-products/" title="The Warlords">The Warlords</a></li><li><a href="http://www.playerauctions.com/tibia-products/" title="Tibia">Tibia</a></li><li><a href="http://www.playerauctions.com/toontown-products/" title="Toontown Online">Toontown Online</a></li><li><a href="http://www.playerauctions.com/trickster-products/" title="Trickster Online">Trickster Online</a></li><li><a href="http://www.playerauctions.com/ts-products/" title="Twelve Sky">Twelve Sky</a></li><li><a href="http://www.playerauctions.com/ts-2-products/" title="Twelve Sky  2">Twelve Sky  2</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="#nogo" title="U"><em class="lft"></em><b>U</b><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="http://www.playerauctions.com/uo-products/" title="Ultima Online">Ultima Online</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="#nogo" title="V"><em class="lft"></em><b>V</b><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="http://www.playerauctions.com/vampires-products/" title="Vampires">Vampires</a></li><li><a href="http://www.playerauctions.com/vanguard-products/" title="Vanguard : Saga of Heroes">Vanguard : Saga of Heroes</a></li><li><a href="http://www.playerauctions.com/vendetta-products/" title="Vendetta Online">Vendetta Online</a></li><li><a href="http://www.playerauctions.com/vc-products/" title="Voyage Century">Voyage Century</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="#nogo" title="W"><em class="lft"></em><b>W</b><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="http://www.playerauctions.com/wr-products/" title="War Rock">War Rock</a></li><li><a href="http://www.playerauctions.com/who-eu-products/" title="Warhammer Online EU">Warhammer Online EU</a></li><li><a href="http://www.playerauctions.com/who-products/" title="Warhammer Online US">Warhammer Online US</a></li><li><a href="http://www.playerauctions.com/wotf-products/" title="Way of the Five">Way of the Five</a></li><li><a href="http://www.playerauctions.com/webkinz-products/" title="Webkinz">Webkinz</a></li><li><a href="http://www.playerauctions.com/wyd-products/" title="With Your Destiny">With Your Destiny</a></li><li><a href="http://www.playerauctions.com/wizard101-products/" title="Wizard101">Wizard101</a></li><li><a href="http://www.playerauctions.com/wokf-products/" title="World of Kung Fu">World of Kung Fu</a></li><li><a href="http://www.playerauctions.com/wow-eu-products/" title="World of Warcraft EU">World of Warcraft EU</a></li><li><a href="http://www.playerauctions.com/wow-products/" title="World of Warcraft US">World of Warcraft US</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="#nogo" title="X"><em class="lft"></em><b>X</b><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="http://www.playerauctions.com/xiah-products/" title="Xiah">Xiah</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="#nogo" title="Y"><em class="lft"></em><b>Y</b><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="http://www.playerauctions.com/yoville-products/" title="Yoville">Yoville</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="#nogo" title="Z"><em class="lft"></em><b>Z</b><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="http://www.playerauctions.com/zo-products/" title="Zero Online">Zero Online</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li><li><a href="#nogo" title="#"><em class="lft"></em><b>#</b><em class="rgt"></em><!--[if IE 7]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><![endif]--><ul><li><a href="http://www.playerauctions.com/2ms-products/" title="2 Moons">2 Moons</a></li><li><a href="http://www.playerauctions.com/9ds-products/" title="9 Dragons">9 Dragons</a></li></ul><!--[if lte IE 6]></td></tr></table></a><![endif]--></li></ul></div></td>
 			  <td width="9%" align="left" style="visibility:hidden"><a href="/pa-playercode-items/"><img src="/images/icon_PlayerCode.gif" width="62" height="27" border="0"></a></td>
-			  <td width="4%"><img src="/images/icon_dunpai.gif" width="30" height="24"></td>
-			  <td width="24%"><a href="http://www.playerauctions.com/help/content/playerguardian-buyer-protections/">
-			  PlayerGuardian™ Buyer Protections</a></td>
+			  <td width="4%"></td>
+			  <td width="24%"></td>
 			</tr>
 		</tbody></table>
 		</div>
@@ -846,7 +732,7 @@ proLoadImages();
           </td>
           <td width="26%" align="right">
           <a onclick="javascript:__doPostBack('ctl00$btnLogout','');return false;" id="ctl00_btnLogout" href="/help/policy/#">
-          <img src="/images/SignOut_img_en.gif" width="115" height="32">
+          <img alt="Logout" src="/images/SignOut_img_en.gif" width="115" height="32">
           </a>
           </td>
         </tr>
@@ -860,7 +746,7 @@ proLoadImages();
           
       </tbody></table>
 	</div>
-	<a id="earthquake_en" href="http://www.playerauctions.com/news-detail/?id=965" target="_blank"><img src="/images/BannerImg.jpg" border="0" class="right"></a>
+	<a id="earthquake_en" href="http://www.playerauctions.com/help/content/playerguardian-buyer-protections/"><img src="/images/Banner_110525.gif" border="0" class="right"></a>
 		<div style="clear:both; "></div>
 
 </div>
@@ -1037,7 +923,7 @@ proLoadImages();
 <div id="center_top_section"></div>
 <div id="center_sub_section">
     <div id="breadcrumb">
-        <span id="ctl00_cphMain_SiteMapPath1"><a href="#ctl00_cphMain_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=efTFsIgYoJWpjVy3Jw3-NA2&amp;t=634129198894062500" style="border-width:0px;"></a><span><a title="PlayerAuctions - Play. Trade. Dominate." href="http://www.playerauctions.com/">Home</a></span><span> &gt; </span><span><a title="Help Center" href="http://www.playerauctions.com/help/">Help Center</a></span><span> &gt; </span><span>Privacy Policy</span><a id="ctl00_cphMain_SiteMapPath1_SkipLink"></a></span>
+        <span id="ctl00_cphMain_SiteMapPath1"><a href="#ctl00_cphMain_SiteMapPath1_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=WwZxReM8eCmsSYhxvZx-kny5dHl8x_TuJFNnuPqkuad2WWzElK2GQEGhi1NXmHIHOpJqpBIYHut_3mOicRakcfDWk181&amp;t=634558820654843750" style="border-width:0px;"></a><span><a title="PlayerAuctions - Play. Trade. Dominate." href="http://www.playerauctions.com/">Home</a></span><span> &gt; </span><span><a title="Help Center" href="http://www.playerauctions.com/help/">Help Center</a></span><span> &gt; </span><span>Privacy Policy</span><a id="ctl00_cphMain_SiteMapPath1_SkipLink"></a></span>
     </div>
     <table width="85%" border="0" cellspacing="0" cellpadding="0" align="center">
         <tbody><tr>
@@ -1102,15 +988,14 @@ proLoadImages();
         <td height="60" align="center">
             <span style="font-family:Verdana, Arial, Helvetica, sans-serif; font-size:10px; line-height:15px; ">
                 Copyright © 2000-2011 PlayerAuctions. All Rights Reserved.
-        <br>
+                <br>
                 Designated trademarks and brands are the property of their respective owners.
-        <br>
+                <br>
                 Use of this website constitutes acceptance of PlayerAuctions 
                 <a id="ctl00_HyperLink41" title="User Agreement" href="http://www.playerauctions.com/help/agreement/">User Agreement</a>
                 and
                 <a id="ctl00_HyperLink42" title="Privacy Policy" href="http://www.playerauctions.com/help/policy/">Privacy Policy</a>
-         <br>
-                <a href="http://www.miibeian.gov.cn" target="_blank" id="beian" style="display: none;">沪ICP备09089602号</a>
+                
                 </span>
            </td>
         </tr>
@@ -1121,13 +1006,7 @@ proLoadImages();
         <input type="hidden" name="ctl00$hfIsFirstFlag" id="ctl00_hfIsFirstFlag" value="0">
     </form>
     <script type="text/javascript">
-    if("en"=="en")
-    {
-        document.getElementById("beian").style.display="none";
-    }
     var OfferFlag="";
-    initEyebrowMenu();
-
         var lhyLoadNotice = document.getElementById("lhyLoadNotice");
         var lhyPlaceNewOrder = document.getElementById("lhyPlaceNewOrder");
         var lhyActiveOrder1 = document.getElementById("lhyActiveOrder1");
@@ -1323,108 +1202,110 @@ proLoadImages();
     </script>
     
     
+    
+    <script type="text/javascript">
+        var loginForm = document.getElementById("trLoginForm");
+        var loginedInfo = document.getElementById("trLoginedInfo");
+        var sessionTimeOut = document.getElementById("trSessionTimeOut");
+        var isLogined = false;
+        var isSessionOut;
+        var HyperLinkLog = document.getElementById("HyperLinkLog");
+        var litLog = document.getElementById("litLog");
+        
+        function RefreshLoginForm() {
 
-<script type="text/javascript">
-    var loginForm = document.getElementById("trLoginForm");
-    var loginedInfo = document.getElementById("trLoginedInfo");
-    var sessionTimeOut = document.getElementById("trSessionTimeOut");
-    var isLogined = false;
-    var isSessionOut;
+            try {
+                var url = "/Ajax/Ajax.aspx?action=LoginForm";
+                var xmlDom = new XmlDom();
+                xmlDom.async = false;
+                xmlDom.load(url);
+                var xmlNode = xmlDom.documentElement.selectSingleNode("//response");
+                var nMemberId = xmlNode.getElementsByTagName("MemberID")[0].childNodes[0].nodeValue;
 
-    function RefreshLoginForm() {
+                if (nMemberId > 0)
+                    isSessionOut = false;
+                else
+                    isSessionOut = true;
 
-        try {
-            var url = "/Ajax/Ajax.aspx?action=LoginForm";
-            var xmlDom = new XmlDom();
-            xmlDom.async = false;
-            xmlDom.load(url);
-            var xmlNode = xmlDom.documentElement.selectSingleNode("//response");
-            var nMemberId = xmlNode.getElementsByTagName("MemberID")[0].childNodes[0].nodeValue;
-
-            if (nMemberId > 0)
-                isSessionOut = false;
-            else
-                isSessionOut = true;
-
-            if (isSessionOut) {
-                if (isLogined) {
-                    loginForm.style.display = "none";
-                    loginedInfo.style.display = "none";
-                    sessionTimeOut.style.display = "";
-                    isLogin = false;
+                if (isSessionOut) {
+                    if (isLogined) {
+                        loginForm.style.display = "none";
+                        loginedInfo.style.display = "none";
+                        sessionTimeOut.style.display = "";
+                        isLogin = false;
+                    }
+                    else {
+                        loginForm.style.display = "";
+                        loginedInfo.style.display = "none";
+                        sessionTimeOut.style.display = "none";
+                    }
+                    return;
                 }
-                else {
-                    loginForm.style.display = "";
+                document.getElementById("userInfo").src = "" + "/UserInfo.aspx";
+                loginForm.style.display = "none";
+                loginedInfo.style.display = "";
+                sessionTimeOut.style.display = "none";
+                isLogined = true;
+            }
+            catch (e) {
+                if (loginedInfo) {
                     loginedInfo.style.display = "none";
+                }
+                if (loginForm) {
+                    loginForm.style.display = "";
+                }
+                if (sessionTimeOut) {
                     sessionTimeOut.style.display = "none";
                 }
-                return;
             }
-            document.getElementById("userInfo").src = "" + "/UserInfo.aspx";
-            loginForm.style.display = "none";
-            loginedInfo.style.display = "";
-            sessionTimeOut.style.display = "none";
-            isLogined = true;
-        }
-        catch (e) {
-            if (loginedInfo) {
-                loginedInfo.style.display = "none";
-            }
-            if (loginForm) {
-                loginForm.style.display = "";
-            }
-            if (sessionTimeOut) {
-                sessionTimeOut.style.display = "none";
-            }
-        }
 
-    }
-    RefreshLoginForm();
-    window.setInterval("RefreshLoginForm()", 60000);
-</script>
+        }
+        RefreshLoginForm();
+        window.setInterval("RefreshLoginForm()", 60000);
+    </script>
+        
     
+            <!--Start of Google Analytics-->
 
-        <!--Start of Google Analytics-->
+            <script type="text/javascript">
+                var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+                document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+            </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
-        <script type="text/javascript">
-            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-        </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+            <script type="text/javascript">
+            try {
+            var pageTracker = _gat._getTracker("UA-3406877-1");
+            pageTracker._trackPageview();
+            } catch(err) {}
+            </script>
+            <!--End of Google Analytics-->
+    
+    
+    <!-- Google Code for register Remarketing List -->
+    <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1041233581;
+    var google_conversion_language = "en";
+    var google_conversion_format = "3";
+    var google_conversion_color = "666666";
+    var google_conversion_label = "U_5jCOe32wEQre2_8AM";
+    var google_conversion_value = 0;
+    /* ]]> */
+    </script>
+    <script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js"></script>
+    <noscript>
+    <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1041233581/?label=U_5jCOe32wEQre2_8AM&amp;guid=ON&amp;script=0"/>
+    </div>
+    </noscript>
+    <!-- End Google Code for register Remarketing List -->
 
-        <script type="text/javascript">
-        try {
-        var pageTracker = _gat._getTracker("UA-3406877-1");
-        pageTracker._trackPageview();
-        } catch(err) {}
-        </script>
-        <!--End of Google Analytics-->
-
-
-
-<!-- Google Code for register Remarketing List -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1041233581;
-var google_conversion_language = "en";
-var google_conversion_format = "3";
-var google_conversion_color = "666666";
-var google_conversion_label = "U_5jCOe32wEQre2_8AM";
-var google_conversion_value = 0;
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1041233581/?label=U_5jCOe32wEQre2_8AM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-<!-- End Google Code for register Remarketing List -->
-
-<!-- begin adBrite, Leads tracking -->
-<img border="0" hspace="0" vspace="0" width="1" height="1" src="https://stats.adbrite.com/stats/stats.gif?_uid=501139&amp;_pid=2">
-<!-- end adBrite,  tracking -->
-
+    <!-- begin adBrite, Leads tracking -->
+    <img border="0" hspace="0" vspace="0" width="1" height="1" src="https://stats.adbrite.com/stats/stats.gif?_uid=501139&amp;_pid=2">
+    <!-- end adBrite,  tracking -->
+    
+    
+    
 
 
 </body></html>
