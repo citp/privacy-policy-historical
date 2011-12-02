@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babylock.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523184555id_/http%3A//www.babylock.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babylock.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202084716id_/http%3A//www.babylock.com/privacy-policy) for the most accurate reproduction.*
 
 # Baby Lock Privacy Policy
 
