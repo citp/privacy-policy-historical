@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the city-link.co.uk privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513202328id_/http%3A//www.city-link.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the city-link.co.uk privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202182653id_/http%3A//www.city-link.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# City Link Privacy Policy
+# Privacy Policy | City Link
 
 The Rentokil Initial Group* respects your privacy and is committed to protecting it. We encourage you to read this policy before using this site as your use of the site signifies that you agree with all of its terms.
 
