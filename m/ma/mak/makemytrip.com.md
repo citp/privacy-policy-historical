@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the makemytrip.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607202354id_/http%3A//www.makemytrip.com/legal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makemytrip.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202171041id_/http%3A//www.makemytrip.com/legal/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MakeMyTrip.com
 
-|   
----  
-  
 |   
 ---  
 As a registered member of MakeMyTrip.com, you will be entitled to savings and benefits on airfares, hotel reservations, holiday packages and car rentals, among other travel services. In addition, look forward to receiving monthly newsletters and exclusive promotions offering special deals.  
