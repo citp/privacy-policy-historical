@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstgiving.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630063155id_/http%3A//firstgiving.com/content/general_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstgiving.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202235122id_/http%3A//www.firstgiving.com/content/general_privacy) for the most accurate reproduction.*
 
 # Privacy and Security on FirstGiving
 
