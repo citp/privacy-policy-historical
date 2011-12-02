@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the premierinn.com privacy policy that was archived on 2010-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229030742id_/http%3A//www.premierinn.com/en/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the premierinn.com privacy policy that was archived on 2011-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111202140428id_/http%3A//www.premierinn.com/en/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="js"><!-- <html> --><head>
 
@@ -7,17 +7,17 @@
 <meta name="encoding" content="utf-8">
 <meta name="description" content="Find high-quality, cheap rooms from £29 at Britain's biggest hotel chain.  Over 580 budget hotels across the UK, ideal for families, business and leisure.">
 <meta name="keywords" content="hotels, cheap hotels, budget hotels, accommodation, premier inn, premier travel inn, uk">
-<meta name="date" content="2010-12-24">
+<meta name="date" content="2011-12-02">
 <meta name="DC.Title" content="Privacy Policy">
 <meta name="DC.Subject" content="hotels, cheap hotels, budget hotels, accommodation, premier inn, premier travel inn, uk">
 <meta name="DC.Description" content="Find high-quality, cheap rooms from £29 at Britain's biggest hotel chain.  Over 580 budget hotels across the UK, ideal for families, business and leisure.">
-<meta name="DC.Date" content="2010-12-24">
+<meta name="DC.Date" content="2011-12-02">
 <meta name="DC.Publisher" content="S Conybeare">
 
 
 <link href="/assets/css/reset-min.css" type="text/css" rel="stylesheet">
 		
-<link rel="shortcut icon" href="/assets/images/favicon.ico">
+<link rel="SHORTCUT ICON" href="/assets/images/favicon.ico" type="image/x-icon">
 <link rel="icon" href="/assets/images/favicon.png" type="image/png">
 
 
@@ -64,9 +64,9 @@
 	}
  
 	var p36 = gup('P36');
-	if (p36 !== null) {setCookie("P36", p36, 7);}
+	if (p36 !== null) {setCookie("P36", p36, 14);}
 	var purl = gup('PURL');
-	if (purl !== null) {setCookie("PURL", purl, 7);}
+	if (purl !== null) {setCookie("PURL", purl, 14);}
 	
 	function readCookie(name) {
 		var nameEQ = name + "=";
@@ -111,6 +111,7 @@ $(document).ready(function(){
 	$("form:has(fieldset.room-select)").not('#dialog-content form').roomrequirements();
 	$(".linkedDates").not('.htmlLibrary .linkedDates').datepickerinit();
 	$(".quickSearchField").piautocomplete(".quickSearchHiddenField");
+	$().opentriggeredlinks(".quickSearchHiddenFieldForTriggerUrl");
 	$(".utils","#nav-container").loginutils();
 	$('html .magic').show();
 	$('.popuplink').popuplink();
@@ -118,7 +119,7 @@ $(document).ready(function(){
 </script>
 
 
-<style type="text/css" media="screen">#flashAlternativeContent_headerFlashPromo.Single {visibility:hidden}</style></head><body marginheight="0" topmargin="0" marginwidth="0" leftmargin="0">
+</head><body>
 
 
 
@@ -184,8 +185,8 @@ swfobject.embedSWF(
 });
 </script>
 
-<div id="flashAlternativeContent_headerFlashPromo.Single" style="visibility: visible;">
-	<img width="457" height="64" border="0" src="/en.ImageRef.headerFlashPromo.Single.ImageRef.jpg" alt="Flash Promo">
+<div id="flashAlternativeContent_headerFlashPromo.Single">
+	<img width="457" height="64" border="0" src="/en.ImageRef.headerFlashPromo.Single.ImageRef.jpg" alt="BTA/GNG factoid test">
 </div>
 
 
@@ -201,34 +202,38 @@ swfobject.embedSWF(
 		
 		
 
-		<div class="utils magic" style="display: block;">
+		<div class="utils magic">
 			<ul>
 			
 				<li class="viewcancel lout"><a href="https://secure.premierinn.com/en/searchForBooking.action"><span>View or Cancel booking</span></a></li>
 				<li class="login"><a href="https://secure.premierinn.com/en/mypremierinn/home.action"><span>Login</span></a></li>
-				<li class="logout" style="display: none;"><a href="https://secure.premierinn.com/en/mypremierinn/logout.action"><span>Logout</span></a></li>
+				<li class="logout"><a href="https://secure.premierinn.com/en/mypremierinn/logout.action"><span>Logout</span></a></li>
 			</ul>
 		</div>
 
 		
-		<div class="ldd-header">UK &amp; Ireland hotels</div><div class="lang magic" style="display: block;">
+		<div class="ldd-header">UK &amp; Ireland hotels | English</div><div class="lang magic" style="display: block;">
 
 			<form id="book" action="http://www.premierinn.com/en/siteSwitch.action" method="post" style="position: absolute; left: -9999px;">
 				<fieldset>
 					<legend>Language and Country selection form</legend>
-					<label for="opts">Select a country</label>
+					<label for="opts">Choose a language and country</label>
 				
 					<select name="selection" id="opts">
-						
-						<option value="0" class="lsel {lang:'en'}">UK &amp; Ireland hotels</option>
-						<option value="1" class="lsel {lang:'en',external:true}">Dubai hotels</option>
-						<option value="2" class="lsel {lang:'en',external:true}">India hotels</option>
+						<option value="0" class="lsel {lang:'en',external:true}">UK &amp; Ireland hotels | English</option>
+						<option value="3" class="lsel {lang:'fr',external:true}">UK &amp; Ireland hotels | French</option>
+						<option value="4" class="lsel {lang:'es',external:true}">UK &amp; Ireland hotels | Spanish</option>
+						<option value="5" class="lsel {lang:'it',external:true}">UK &amp; Ireland hotels | Italian</option>
+						<option value="1337" class="lsel {lang:'de',external:true}">UK &amp; Ireland hotels | German</option>
+						<option value="1" class="lsel {lang:'en'}">Arabian Gulf hotels | English</option>
+						<option value="2" class="lsel {lang:'en'}">India hotels | English</option>
+	
 					</select>
 					<button type="submit" class="ctabutton"><span>Submit</span></button>
 				</fieldset>
 			</form>
 
-		<div class="ldd-wrapper"><a class="dropdown" href="/web/20101229030742id_/http%3A//www.premierinn.com/en/privacy.html" onclick="return false"><span class="sect-cc">Select a country</span></a><div id="selbox"><ul><li><a href="http://www.premierinn.com/en/siteSwitch.action?selection=0"><span class="sect-cc">UK &amp; Ireland hotels</span></a></li><li><a href="http://www.premierinn.com/en/siteSwitch.action?selection=1"><span class="sect-cc">Dubai hotels</span></a></li><li><a href="http://www.premierinn.com/en/siteSwitch.action?selection=2"><span class="sect-cc">India hotels</span></a></li></ul></div></div></div>
+		<div class="ldd-wrapper"><a class="dropdown" href="/web/20111202140428id_/http%3A//www.premierinn.com/en/privacy.html" onclick="return false"><span class="sect-cc">Choose a language and country</span></a><div id="selbox"><ul><li><a href="http://www.premierinn.com/en/siteSwitch.action?selection=0"><span class="sect-cc">UK &amp; Ireland hotels | English</span></a></li><li><a href="http://www.premierinn.com/en/siteSwitch.action?selection=3"><span class="sect-cc">UK &amp; Ireland hotels | French</span></a></li><li><a href="http://www.premierinn.com/en/siteSwitch.action?selection=4"><span class="sect-cc">UK &amp; Ireland hotels | Spanish</span></a></li><li><a href="http://www.premierinn.com/en/siteSwitch.action?selection=5"><span class="sect-cc">UK &amp; Ireland hotels | Italian</span></a></li><li><a href="http://www.premierinn.com/en/siteSwitch.action?selection=1337"><span class="sect-cc">UK &amp; Ireland hotels | German</span></a></li><li><a href="http://www.premierinn.com/en/siteSwitch.action?selection=1"><span class="sect-cc">Arabian Gulf hotels | English</span></a></li><li><a href="http://www.premierinn.com/en/siteSwitch.action?selection=2"><span class="sect-cc">India hotels | English</span></a></li></ul></div></div></div>
 	</div>
 	
 	<div class="nav-tabs"><a name="nav"></a>
@@ -246,11 +251,13 @@ swfobject.embedSWF(
 		
 			<li><a href="http://www.premierinn.com/en/home.action" id="nav_home"><span>Premier Inn - Book Cheap Hotels in the UK and Worldwide from 29 pounds</span></a></li>
 		
+			<li><a href="/en/mobile_landing_page.html" id="nav_mobile_landing_page"><span>Mobile Landing Page</span></a></li>
+		
 			<li><a href="http://www.premierinn.com/en/book.action" id="nav_book_a_hotel"><span>Book a hotel</span></a></li>
 		
 			<li><a href="http://www.premierinn.com/en/business.html" id="nav_business"><span>Premier for business</span></a></li>
 		
-			<li><a href="http://www.premierinn.com/en/offers.action" id="nav_offers"><span>Premier Inn packages and offers</span></a></li>
+			<li><a href="http://www.premierinn.com/en/offers.action" id="nav_offers"><span>Premier Inn packages and deals</span></a></li>
 		
 			<li><a href="http://www.premierinn.com/en/short_breaks.html" id="nav_short_breaks"><span>Short breaks with Premier Inn</span></a></li>
 		
@@ -263,6 +270,8 @@ swfobject.embedSWF(
 			<li><a href="/en/sitemap.html" id="nav_sitemap"><span>Sitemap</span></a></li>
 		
 			<li><a href="/en/premier-inn-affiliate-programme.html" id="nav_premier-inn-affiliate-programme"><span>Premier Inn Affiliate Programme</span></a></li>
+		
+			<li><a href="/en/homepageflashxml.html" id="nav_homepageflashxml"><span>HomepageFlashXml</span></a></li>
 		
 		
 	</ul>
@@ -305,13 +314,12 @@ var SITE_CHANNEL = "Utility page";
 
 
 <div id="termsAndConditions" class="tandccontainer"><a name="termsAndConditions"></a>
-			<h4 class="tandctop">Privacy policy</h4>
-			<p class="olhead">&nbsp;</p>
-			<div class="tandccontents">
-				<ol><li><a href="#parNum86389">General</a></li><li><a href="#parNum22229">Third parties</a></li><li><a href="#parNum17012">Cookies</a></li><li><a href="#parNum48170">Security</a></li><li><a href="#parNum36822">Direct marketing</a></li><li><a href="#parNum81312">Access to and amending your personal information</a></li><li><a href="#parNum48418">Other websites</a></li><li><a href="#parNum41465">Changes to our privacy policy</a></li><li><a href="#parNum51988">Contact us</a></li><li><a href="#parNum67657">Further information</a></li></ol>
-			</div>
-		
-
+				<h4 class="tandctop">Privacy policy</h4>
+				<p class="olhead">&nbsp;</p>
+				<div class="tandccontents">
+					<ol><li><a href="#parNum86389">General</a></li><li><a href="#parNum22229">Third parties</a></li><li><a href="#parNum17012">Cookies</a></li><li><a href="#parNum48170">Security</a></li><li><a href="#parNum36822">Direct marketing</a></li><li><a href="#parNum81312">Access to and amending your personal information</a></li><li><a href="#parNum48418">Other websites</a></li><li><a href="#parNum41465">Changes to our privacy policy</a></li><li><a href="#parNum51988">Contact us</a></li><li><a href="#parNum67657">Further information</a></li></ol>
+				</div>
+			
 
 <div id="parNumDiv86389" class="thickbox">
 	<div class="thickbox640header">
@@ -334,10 +342,7 @@ var SITE_CHANNEL = "Utility page";
 		</div>
 	</div>
 </div>
-
-	
-
-
+ 
 
 
 <div id="parNumDiv22229" class="thickbox">
@@ -361,10 +366,7 @@ var SITE_CHANNEL = "Utility page";
 		</div>
 	</div>
 </div>
-
-	
-
-
+ 
 
 
 <div id="parNumDiv17012" class="thickbox">
@@ -388,10 +390,7 @@ var SITE_CHANNEL = "Utility page";
 		</div>
 	</div>
 </div>
-
-	
-
-
+ 
 
 
 <div id="parNumDiv48170" class="thickbox">
@@ -415,10 +414,7 @@ var SITE_CHANNEL = "Utility page";
 		</div>
 	</div>
 </div>
-
-	
-
-
+ 
 
 
 <div id="parNumDiv36822" class="thickbox">
@@ -442,10 +438,7 @@ var SITE_CHANNEL = "Utility page";
 		</div>
 	</div>
 </div>
-
-	
-
-
+ 
 
 
 <div id="parNumDiv81312" class="thickbox">
@@ -469,10 +462,7 @@ var SITE_CHANNEL = "Utility page";
 		</div>
 	</div>
 </div>
-
-	
-
-
+ 
 
 
 <div id="parNumDiv48418" class="thickbox">
@@ -496,10 +486,7 @@ var SITE_CHANNEL = "Utility page";
 		</div>
 	</div>
 </div>
-
-	
-
-
+ 
 
 
 <div id="parNumDiv41465" class="thickbox">
@@ -523,10 +510,7 @@ var SITE_CHANNEL = "Utility page";
 		</div>
 	</div>
 </div>
-
-	
-
-
+ 
 
 
 <div id="parNumDiv51988" class="thickbox">
@@ -550,10 +534,7 @@ var SITE_CHANNEL = "Utility page";
 		</div>
 	</div>
 </div>
-
-	
-
-
+ 
 
 
 <div id="parNumDiv67657" class="thickbox">
@@ -577,11 +558,8 @@ var SITE_CHANNEL = "Utility page";
 		</div>
 	</div>
 </div>
-
-	
-
-</div> 
-
+ 
+</div>
 
 <div class="clear"></div>
 <div class="alignleft">
@@ -614,10 +592,10 @@ var SITE_CHANNEL = "Utility page";
 <div id="footer-container">
 	
 <div class="col first"><ul class="utils"> <li>
-<a href="http://www.premierinn.com/en/faq.html">FAQs</a>
+<a href="http://www.premierinn.com/en/why/contact_us.html">Contact us</a>
 
 </li><li>
-<a href="http://www.premierinn.com/en/why/contact_us.html">Contact us</a>
+<a href="http://www.premierinn.com/en/faq.html">FAQs</a>
 
 </li><li>
 <a href="http://www.premierinn.com/en/sitemap.html">Sitemap</a>
@@ -679,7 +657,7 @@ var SITE_CHANNEL = "Utility page";
 </li></ul></div>
 			<div class="col">
 				<h3><b>Everything's Premier but the price</b></h3>
-				 <p>Premier Inn is the UK and Ireland's biggest and fastest growing hotel company. With over 580 budget hotels offering quality accommodation at cheap hotel prices.</p> 
+				 <p>Premier Inn is the UK and Ireland's biggest and fastest growing hotel company. With over 600 budget hotels offering quality accommodation at cheap hotel prices.</p> 
 				
 			</div>
 		 
@@ -734,10 +712,10 @@ var SITE_CHANNEL = "Utility page";
 <a href="http://www.premierinn.com/en/dublin-hotels.html">Dublin hotels</a>
 
 </li><li>
-<a href="http://global.premierinn.com/in/hotels/home.action">Bangalore hotels</a>
+<a href="http://global.premierinn.com/in/hotels/home.action">India hotels</a>
 
 </li><li>
-<a href="http://global.premierinn.com/gcc/hotels/home.action">Dubai hotels</a>
+<a href="http://global.premierinn.com/gcc/hotels/home.action">Arabian Gulf hotels</a>
 
 </li></ul></div> 
 
@@ -789,7 +767,7 @@ if(pio.prop5 && !s.prop5){s.prop5=pio.prop5;}
 if(pio.prop6 && !s.prop6){s.prop6=pio.prop6;}
 if(pio.prop7 && !s.prop7){s.prop7=pio.prop7;}
 if(pio.prop8 && !s.prop8){s.prop8=pio.prop8;}
-if(pio.prop9 && !s.prop9){s.prop9=pio.prop9;}
+if(pio.prop9!==undefined && !s.prop9){s.prop9=String(pio.prop9);}
 if(pio.prop10 && !s.prop10){s.prop10=pio.prop10;}
 if(pio.prop11 && !s.prop11){s.prop11=pio.prop11;}
 
@@ -814,6 +792,8 @@ if(pio.prop22 && !s.prop22){s.prop22=pio.prop22;}
 if(pio.prop24 && !s.prop24){s.prop24=pio.prop24;}
 
 if(pio.prop25 && !s.prop25){s.prop25=pio.prop25;}
+
+if(pio.prop33 && !s.prop33){s.prop33=pio.prop33;}
 
 s.prop27="UK";
 
@@ -854,9 +834,6 @@ if(pio.eVar50 && !s.eVar50){
 	s.eVar50=pio.eVar50;
 	s.eVar50=sc_append(s.eVar50,"sc_v50");
 }
-
-if(pio.eVar51 && !s.eVar51){s.eVar51=pio.eVar51;}
-if(pio.eVar52 && !s.eVar52){s.eVar52=pio.eVar52;}
 
 if(pio.state && !s.state){s.state=pio.state;}
 
@@ -925,7 +902,7 @@ try {
 } catch (e) {
 }
 document.write('<iframe src="http'+(document.location.protocol=='https:'?'s':'')+'://fls.doubleclick.net/activityi;src=2190810;' + dartPageCode + ordCode + ';num=' + a + '?" width="1" height="1" frameborder="0"></iframe>');
-</script><iframe src="https://fls.doubleclick.net/activityi;src=2190810;undefined;ord=1;num=92562811486.56287?" width="1" height="1" frameborder="0"></iframe>
+</script><iframe src="https://fls.doubleclick.net/activityi;src=2190810;undefined;ord=1;num=8317821937293.874?" width="1" height="1" frameborder="0"></iframe>
 <noscript>
 
 </noscript>
