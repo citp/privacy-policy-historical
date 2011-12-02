@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fundsforngos.org privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624045801id_/http%3A//www.fundsforngos.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundsforngos.org privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202032120id_/http%3A//www.fundsforngos.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « fundsforngos.org
+# Privacy Policy - Funds for NGOs
 
 We understand that privacy is important for our visitors and we never intend to misuse it or sell it to any third party/person under any circumstances. Here, we would like to inform our visitors about the types of data we receive and collect when they visit this website.Log Files  
   
@@ -18,6 +18,12 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 
 Visitors can choose to disable or selectively turn off the cookies or third-party cookies in their browser settings, or by managing preferences in programs such as Norton Internet Security. Deleting cookies does not mean visitors are permanently opted out of any advertising program. Unless they have settings that disallow cookies, the next time they visit a website running the advertisements, a new cookie will be added.
 
-|   
+| 
+
+[](http://www.fundsforngos.org/submit-opportunity-ngos/)  
   
-Copyright © 2011 FUNDSFORNGOS, LLC - All Rights Reserved. This website is wholly owned by FUNDSFORNGOS, LLC located at 866 United Nations Plaza, Suite 437, New York, NY 10017, United States of America. Disclaimer: FUNDSFORNGOS, LLC is not affiliated to any of the organizations mentioned above in any manner. The material provided here is solely for informational purposes only without any warranty. Visitors are advised to use it at their own discretion. [Privacy Policy.](http://www.fundsforngos.org/privacy-policy)
+Copyright © 2011 FUNDSFORNGOS, LLC - All Rights Reserved. This website is wholly owned by FUNDSFORNGOS, LLC located at 866 United Nations Plaza, Suite 437, New York, NY 10017, United States of America. 
+
+**Disclaimer** : FUNDSFORNGOS, LLC is not affiliated to any of the organizations mentioned above in any manner. The material provided here is solely for informational purposes only without any warranty. Visitors are advised to use it at their own discretion. [Privacy Policy](http://www.fundsforngos.org/privacy-policy).
+
+[newsletter software](http://www.fastemailsender.com/newsletter-software.html)
