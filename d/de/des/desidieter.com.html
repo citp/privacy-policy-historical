@@ -1,546 +1,148 @@
-<!--The following is the downloaded HTML source of the desidieter.com privacy policy that was archived on 2010-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101229201932id_/http%3A//www.desidieter.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the desidieter.com privacy policy that was archived on 2011-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111202075408id_/http%3A//www.desidieter.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-
-
-
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<meta name="msvalidate.01" content="9082CC29B632310C7588022E71EA7BE4">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-
-
-
 <!-- privacy-policy-/privacy-policy.php -->
-
-
-
-
-<title>Privacy Policy</title>
-
-
-
-<meta name="keywords" content="Indian Diet Plan, Weight Loss for Indians, Diet Plans India, Diet Plans for Indians, Indian Diet Plans,Diet, Lose Weight, Healthy Indian Recipes,Yoga Experts India, Indian Home Remedies">
-
-
-
-<meta name="Description" content="Desi Dieter: India's Premium Site for Free Diet and Nutrition Plans, Indian Diets to Lose Weight,Diabetes Diet for Indians, Weight Loss Diets for Indians, Free Yoga Tips,Home Remedies for Beauty, Skin, Heart, Sex.">
-
-
-
+<title>Privacy Policy | DesiDieter</title>
+<meta name="keywords" content="privacy policy, DesiDieter's privacy policy, health &amp; fitness plans, dietitian counseling, experts advice, weight reducing diets, yoga, fitness exercise, health tools, home remedies, diet plans, healthy recipes">
+<meta name="Description" content="We at DesiDieter respect the privacy of everyone who visit our website and are committed to maintain the privacy and security of the visitor's personal information.">
 <meta name="verify-v1" content="0kiklLPebIOODpAeE6mXKn2dg0vy3KD8vfoENJRcL5Y=">
-
 <meta name="google-site-verification" content="oRo0BsALnYPnLqzSci5uzupsDv9qLpyrTcAVoWj5Px8">
 
-<meta name="msvalidate.01" content="E41CAABA62A63630B78B6EBF792148A7">
-
-
-
 <link href="http://www.desidieter.com/css/dd_main.css" rel="stylesheet" type="text/css">
-
-
-
-<link href="http://www.desidieter.com/css/top_submenu.css" rel="stylesheet" type="text/css">
-
-
-
+<link href="http://www.desidieter.com/css/menu_exp.css" rel="stylesheet" type="text/css">
 <link rel="alternate" type="application/rss+xml" title="Desidieter RSS Feed" href="http://www.desidieter.com/rss/rss?ty=blogAll">
-
-
-
 <!-- chkmsgtouser added By Mohan 260609 -->
-
 <link rel="image_src" href="http://media.clickonf5.org/image/logo.png">
-
 <!-- Start:For Popup -->
-
-
-
 <link rel="stylesheet" href="http://www.desidieter.com/windowfiles1/dhtmlwindow.css" type="text/css">
-
-
-
 <link rel="stylesheet" href="http://www.desidieter.com/modalfiles1/modal.css" type="text/css">
-
-
-
 <script type="text/javascript" src="http://www.desidieter.com/windowfiles1/dhtmlwindow.js"></script>
-
-
-
 <script type="text/javascript" src="http://www.desidieter.com/modalfiles1/modal.js"></script>
-
-
-
 <!-- End:For Popup -->
-
-
-
 <script type="text/javascript" src="http://www.desidieter.com/js/chkmsgtouser.js"></script>
-
-
-
-
-
-
-
 <script type="text/javascript">
-
-
-
 function GetXmlHttpObject() {
-
-
-
 var request_type;
-
-
-
 var browser = navigator.appName;
-
-
-
 if(browser == "Microsoft Internet Explorer"){
-
-
-
 request_type = new ActiveXObject("Microsoft.XMLHTTP");
-
-
-
 }else{
-
-
-
 request_type = new XMLHttpRequest();
-
-
-
 }
-
-
-
 return request_type;
-
-
-
 }
-
-
-
-
-
-
-
-
-
-
 
 function search_leftform()
-
-
-
 {
-
-
-
 	if(document.search_left.searchfield_left.value=="")
-
-
-
 	{
-
-
-
 		alert("Please Enter Keyword for Search!!");
-
-
-
 		document.search_left.searchfield_left.value="";
-
-
-
 		document.search_left.searchfield_left.focus();
-
-
-
 		return false;
-
-
-
 	}	
-
-
-
 	return true;
-
-
-
 }
-
-
-
-
-
-
-
-
-
-
-
 subject_id = '';
-
-
-
-
-
-
 
 var http = GetXmlHttpObject(); // We create the HTTP Object
 
-
-
-
-
-
-
 function ajaxCall(div_id,inputString)
-
-
-
 {
-
-
-
 	subject_id = div_id;
-
-
-
 	content = document.getElementById(inputString).value;
-
-
-
 	if(content.length>3)
-
-
-
 	{
-
-
-
 		http.open("GET", "http://www.desidieter.com/search_ajax.php?content="+escape(content), true);
-
-
-
 		http.onreadystatechange = function () {
-
-
-
 			if (http.readyState == 4) {
-
-
-
 				if (subject_id != '') {
-
-
-
 					document.getElementById(subject_id).innerHTML = http.responseText;
-
-
-
 					if(http.responseText.length > 5)
-
-
-
 						box_search('1');
-
-
-
 					else
-
-
-
-						box_search('0');	
-
-
-
+						box_search('0');
 				}
-
-
-
 			}
-
-
-
 		};
-
-
-
 		http.send(null);
-
-
-
 	}	
-
-
-
 	else
-
-
-
 		box_search('0');
-
-
-
 }
-
-
-
 function highlight_search(action,id)
-
-
-
 {
-
-
-
   if(action)	
-
-
-
 	document.getElementById('word'+id).bgColor = "#C2B8F5";
-
-
-
   else
-
-
-
 	document.getElementById('word'+id).bgColor = "#F8F8F8";
-
-
-
 }
-
-
-
 function display_search(word)
-
-
-
 {
-
-
-
 	document.getElementById('searchfield_left').value = word;
-
-
-
 	document.getElementById('search_result').style.display = 'none';
-
-
-
 	document.getElementById('searchfield_left').focus();
-
-
-
 }
-
-
-
 function box_search(act)
-
-
-
 {
-
-
-
   if(act=='0')	
-
-
-
 	document.getElementById('search_result').style.display = 'none';
-
-
-
   else
-
-
-
 	document.getElementById('search_result').style.display = 'block';
-
-
-
 }
-
-
-
 </script>
-
-
-
-
-
-
-
 <!--[if lt IE 7.]>
-
-
-
 <script defer type="text/javascript" src="js/pngfix.js"></script>
-
-
-
 <![endif]-->
-
-
-
 <script src="http://www.desidieter.com/js/AC_RunActiveContent.js" type="text/javascript"></script>
-
-
-
-
-
-
-
 <script type="text/javascript">
-
-
-
 function LookupSite()
-
-
-
 {
-
-
-
 	serchVal=document.getElementById("searchfield_left").value;
-
 	serchValArr=serchVal.split(" ");
-
     serchVal=serchValArr.join("-")+".html";
-
 	//alert("health-search/"+serchVal);
-
 	window.location.href = "http://www.desidieter.com/health-search/"+serchVal;
-
-
-
 }
-
-
-
 function doBlink() {
-
-
-
 	var blink = document.all.tags("BLINK")
-
-
-
 	for (var i=0; i<blink.length; i++)
-
-
-
 		blink[i].style.visibility = blink[i].style.visibility == "" ? "hidden" : "" 
-
-
-
 }
-
-
-
-
-
-
-
 function startBlink() {
-
-
-
 	if (document.all)
-
-
-
 		setInterval("doBlink()",700)
-
-
-
 }
-
-
-
 window.onload = startBlink;
-
-
-
 function wlc_complete_profile_popup()
-
-
-
 {
-
-
-
 	popup_window = dhtmlmodal.open('wlc_user_box', 'div', 'wlc_user_div', '', 'width=480px,height=410px,left=380px,top=200px,resize=0,scrolling=0');
-
-
-
 }
-
-
-
-
-
-
-
 // Chat Scripts Starts //
-
-
-
-
-
-
-
 function updateStatus()
-
 {  
-
 	xmlHttp_chat=GetXmlHttpObject();
-
 	if (xmlHttp_chat==null)   
-
 	{ 
-
 		alert ("Browser does not support HTTP Request");      
-
 		return;  
-
 	} 
-
 	url = "http://www.desidieter.com/chat/status.php";
-
 	bustcacheparameter=(url.indexOf("?")!=-1)? "&"+new Date().getTime() : "?"+new Date().getTime()
-
 	url=url+bustcacheparameter;
-
 	xmlHttp_chat.open("GET",url,true) ;   
-
 	xmlHttp_chat.onreadystatechange = function(){
-
 		if (xmlHttp_chat.readyState==4 || xmlHttp_chat.readyState=="complete")   
-
 		{
-
 			document.getElementById('expert_status').innerHTML=xmlHttp_chat.responseText;
-
 		} 
-
 		else
-
 		{           
-
 	 	}	
 
 	};
@@ -548,971 +150,283 @@ function updateStatus()
 	xmlHttp_chat.send(null);
 
 }
-
-
-
 function chkMessageUser(userID)
-
-
-
 {
-
-
-
 	xmlHttp_chkMessage=GetXmlHttpObject();
-
-
-
 	if (xmlHttp_chkMessage==null)   
-
-
-
 	{ 
-
-
-
-		alert ("Browser does not support HTTP Request");      
-
-
-
+		alert ("Browser does not support HTTP Request");   
 		return;  
-
-
-
 	} 
-
-
-
 	url = "http://www.desidieter.com/chat/chkmsgtouser.php?userid="+userID;
-
-
-
 	bustcacheparameter=(url.indexOf("?")!=-1)? "&"+new Date().getTime() : "?"+new Date().getTime()
-
-
-
 	url=url+bustcacheparameter;
-
-
-
 	xmlHttp_chkMessage.open("GET",url,true);
-
-
-
 	xmlHttp_chkMessage.onreadystatechange = function(){
-
-
-
-		if (xmlHttp_chkMessage.readyState==4 || xmlHttp_chkMessage.readyState=="complete")   
-
-
-
+		if (xmlHttp_chkMessage.readyState==4 || xmlHttp_chkMessage.readyState=="complete") 
 		{
-
-
-
 			res = xmlHttp_chkMessage.responseText;
-
-
-
 			//alert(res)
-
-
-
 			var result = res.split('||'); 
-
-
-
 			for(i=0;i<result.length;i++)
-
-
-
 			{
-
-
-
 				if(result[i])
-
-
-
 				{	
-
-
-
 					var resNew = result[i].split("###");
-
-
-
 					if(window["popup" + resNew[0]] == 1)
-
-
-
 					{
-
-
-
-						
-
-
-
 					}
-
-
-
 					else
-
-
-
 					{
-
-
-
 						var ChatWindow = window.open("http://www.desidieter.com/chat/chatWin.php?expertt_id="+resNew[0], resNew[1], 'width=380,height=320,scrollbars=0,resizable=0,location=0',true);
-
-
-
 						ChatWindow.focus();
-
-
-
 					}	
-
-
-
 				}	
-
-
-
 			}
-
-
-
 		} 
-
-
-
 		else
-
-
-
-		{           
-
-
-
+		{    
 	 	}	
-
-
-
 	};
-
-
-
 	xmlHttp_chkMessage.send(null);
-
-
-
 	setTimeout("chkMessageUser("+userID+")",2000);
-
-
-
 }
-
-
-
 function popupOk(vari, val)
-
-
-
 {
-
-
-
 	window[vari] = val;
-
-
-
-	//alert(vari+' '+val);
-
-
-
 }
-
-
-
-
-
-
-
 // Chat Scripts Ends //
-
-
-
 </script>
-
-<script type="text/javascript">
-
-<!--//--><![CDATA[//><!--
-
-sfHover = function() {
-
-var sfEls = document.getElementById("imouter0").getElementsByTagName("LI");
-
-for (var i=0; i<sfEls.length; i++) {
-
-sfEls[i].onmouseover=function() {
-
-this.className+=" sfhover";
-
+<script language="JavaScript" type="Text/Javascript">
+function addToFavorites() 
+{ 
+	var urlAddress = "http://www.desidieter.com/index.html"; 
+	var pageName = "Privacy Policy | DesiDieter"; 
+	if (window.sidebar) 
+	{ 
+	// Mozilla Firefox Bookmark		
+	window.sidebar.addPanel(pageName, urlAddress,"");	
+	} 
+	else if(window.external) 
+	{ 
+		// IE Favorite		
+		window.external.AddFavorite( urlAddress, pageName); 
+	}	
+	else 
+	{ 
+		alert("Sorry! Your browser doesn't support this function."); 
+	} 
 }
-
-sfEls[i].onmouseout=function() {
-
-this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
-
-}
-
-}
-
-}
-
-if (window.attachEvent) window.attachEvent("onload", sfHover);
-
-//--><!]]>
-
-</script> 
-
+</script>
 <style type="text/css">
-
-
-
 .clUnread{ font-weight:bold; }
-
-
-
 .clRead{ font-weight:normal; }
-
-
-
 </style>
-
 </head>
-
 <body>
-
-
-
 <table width="1023" border="0" cellspacing="0" cellpadding="0" align="center" style="background-color:#FFF;">
-
-
-
       <tbody><tr>
-
-
-
         <td height="90" colspan="2" align="center">
-
-
-
         <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-
-
-
           <tbody><tr>
-
             <td align="center">
-
-        
-
-           
-
-        
-
-          <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="134" height="85" id="FLV_Player" align="middle">
-
-        
-
-        <param name="movie" value="flash/dd_logo1.swf">
-
-        
-
-        <param name="quality" value="high">
-
-        
-
+          <script type="text/javascript">
+AC_FL_RunContent( 'codebase','http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0','width','134','height','85','id','FLV_Player','align','middle','src','flash/dd_logo1','quality','high','bgcolor','#ffffff','name','FLV_Player','pluginspage','http://www.macromedia.com/go/getflashplayer','wmode','transparent','movie','flash/dd_logo1','allowfullscreen','true' ); //end AC code
+</script><noscript><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,0,0" width="134" height="85" id="FLV_Player" align="middle">
+        <param name="movie" value="flash/dd_logo1.swf" />
+        <param name="quality" value="high" />
         <param name="allowFullScreen" value="true">
-
-        
-
-        <param name="wmode" value="transparent">
-
-        <param name="bgcolor" value="#ffffff">
-
-        
-
-        
-
-        
-
-        <embed src="flash/dd_logo1.swf" quality="high" bgcolor="#ffffff" width="134" height="85" name="FLV_Player" align="middle" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" wmode="transparent">
-
-        
-
-        </object>
-
+        <param name="wmode" value="transparent" />
+        <param name="bgcolor" value="#ffffff" />
+        <embed src="flash/dd_logo1.swf" quality="high" bgcolor="#ffffff" width="134" height="85" name="FLV_Player" align="middle" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" WMODE="transparent" />
+        </object></noscript>
         </td>
-
         	<td align="center">
-
-                         <a href="http://www.desidieter.com/get-in-shape-2011?ref=gisbanner"><img src="http://img.desidieter.com/GIS-2011-banner-blinking.gif" alt="New Year" border="0" align="top" style="padding:5px 5px 0px 0px;" title="Get In Shape - 2011" height="109" width="860"></a>
-
-
-
-            </td>
-
-        
-
+                     <img src="http://img.desidieter.com/GIS-2012-banner-revised.gif" alt="Online Weight Loss Challenge - Get-In-Shape2012" width="860" height="109" border="0" align="top" usemap="#Map" style="padding:5px 5px 0px 0px;" title="Online Weight Loss Challenge - Get-In-Shape2012"></td>
           </tr>
-
-        
-
         </tbody></table>
-
-
-
-
-
-
-
         </td>
-
-
-
       </tr>
-
-
-
       <tr>
-
-
-
         <td colspan="2">&nbsp;</td>
-
-
-
       </tr>
-
-
-
       <tr>
-
-
-
         <td colspan="2" class="top_nav" height="31">
-
-
-
         <!-- top navigation starts -->
-
-
-
         <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
 
-
-
           <tbody><tr>
-
-
-
-            <td width="783" valign="top">
-
-
-
+            <td width="871" valign="top">
         <!-- top links starts -->
-
-
-
-        <form name="AutoPostForm" id="AutoPostForm" method="post" action=""></form>            
-
-
-
+        <form name="AutoPostForm" id="AutoPostForm" method="post" action=""></form> 
             <div class="top_nav_list">
-
-
-
             <ul>
-
-
-
             <li><img src="http://img.desidieter.com/home_icon.png" alt="Home" width="15" height="15" align="absmiddle" class="navimg">&nbsp;<a href="http://www.desidieter.com/index.html">Home</a></li>
-
-
-
             <li><img src="http://img.desidieter.com/ask_expert_icon.png" alt="Ask our Expert" width="15" height="15" align="absmiddle" class="navimg">&nbsp;<a href="http://www.desidieter.com/ask-to-expert.html">Ask our Experts</a></li>
-
-
-
             <li><img src="http://img.desidieter.com/community_icon.png" alt="Blog" width="15" height="15" align="absmiddle" class="navimg"><a href="http://blog.desidieter.com">&nbsp;Blog</a></li>
-
-
-
             <li><img src="http://img.desidieter.com/blog_community_icon.png" alt="Community" width="15" height="15" align="absmiddle" class="navimg">&nbsp;<a href="http://www.desidieter.com/community-home.html"> Community</a></li>
-
-
-
-            <li><img src="http://img.desidieter.com/testimonial.png" alt="Testimonial" width="15" height="15" align="absbottom" class="navimg">&nbsp;<a href="http://www.desidieter.com/testimonial-gis.html">Testimonials</a></li>
-
-			
-            <li><img src="http://img.desidieter.com/news_icon.png" alt="News &amp; Articles" width="15" height="15" align="absmiddle" class="navimg">&nbsp;
-
+            
+            <li><img src="http://img.desidieter.com/nutrition-facts.png" alt="Compare Nutrition Facts " width="15" height="15" align="absbottom" class="navimg">&nbsp;<a href="http://www.desidieter.com/nutritions-aaloo-matar.html">Compare Nutrition Facts</a></li>
+            
+			            <li><img src="http://img.desidieter.com/news_icon.png" alt="News &amp; Articles" width="15" height="15" align="absmiddle" class="navimg">&nbsp;
             <a href="http://www.desidieter.com/myprofile.html">My Profile</a></li>
-
-
-
             <li><img src="http://img.desidieter.com/article_icon1.png" alt="News &amp; Articles" width="15" height="15" align="absmiddle" class="navimg">&nbsp;<a href="http://www.desidieter.com/articles-main.html">Articles</a></li>
-
-
-
+                        
+            <li><img src="http://img.desidieter.com/blog_community_icon.png" alt="Members" width="15" height="15" align="absmiddle" class="navimg">&nbsp;<a href="http://www.desidieter.com/member-directory.html">Members</a></li>
             
             </ul>
-
-            <div style="float:right">
-
+            <div style="float:left">
             <!-- AddThis Button BEGIN -->
-
             <div class="addthis_toolbox addthis_default_style">
-
             <a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4ca039380fe2c982" class="addthis_button_compact">Share</a>
-
             </div>
-
             <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4ca039380fe2c982"></script>
-
             <!-- AddThis Button END -->
-
-
-
             </div>
-
             </div> 
-
-
-
-            
-
-
-
              <!-- top links ends -->             </td>
-
-
-
-            <td width="240" align="left" valign="top">
-
-
-
-             <div class="search_top" style="width:240px; float:right; padding-top:2px;">
-
-
-
+            <td width="150" align="left" valign="top">
+             <div class="search_top" style="width:150px; float:right; padding-top:2px;">
             <form name="search_left" action="search" method="post" onsubmit="LookupSite();return false;">
-
-
-
              <table width="100" border="0" align="right" cellpadding="0" cellspacing="0">
-
-
-
-  <tbody><tr>
-
-
-
-   <td colspan="2">
-
-   <input name="searchfield_left" type="text" class="search_input" style="color:#999999; background:#FFFFFF; font:12px Arial;width:200px;" id="searchfield_left" value="Diet and Fitness related queries" onfocus="if(this.value=='Diet and Fitness related queries') this.value='';" onblur="if(this.value=='') this.value='Diet and Fitness related queries';" autocomplete="off"></td>
-
-
-
-    <td><input type="image" src="http://img.desidieter.com/go.png" alt="Go" align="top" onclick="LookupSite();"></td>
-
-  </tr>
-
-</tbody></table>
-
+                  <tbody><tr>
+                   <td colspan="2">
+                   <input name="searchfield_left" type="text" class="search_input" style="color:#666666; background:#FFFFFF; font:12px Arial;width:126px;" id="searchfield_left" value="Search Here..." onfocus="if(this.value=='Search Here...'){this.value=''; this.style.color='#000000';}" onblur="if(this.value=='') {this.value='Search Here...';this.style.color='#666666';}" autocomplete="off"></td>
+                    <td><input type="image" src="http://img.desidieter.com/go.png" alt="Go" align="top" onclick="LookupSite();"></td>
+                  </tr>
+                </tbody></table>
              </form>
-
-             </div>                        
-
-
-
+             </div> 
              </td>
-
           </tr>
-
         </tbody></table>
-
-
-
         <!-- top navigation ends -->        </td>
-
-
-
       </tr>
-
-
-
-     
-
-
-
       <tr>
-
-
-
         <td colspan="2">
-
-
-
-        
-    	<div style="padding-top:10px"></div>
-
+            	<div style="padding-top:10px"></div>
     	<div class="top_sub_nav">
-
-    	<div style="margin:0px auto; width:900;">
-
-    	<div class="imrcmain0 imgl" style="width:940px;z-index:0;margin:0px auto;">
-
-    	<div class="imcm imde" id="imouter0">
-
-            <ul id="imenus0">
-
-                <li class="imatm" style="width:120px;"><a class="" href="http://www.desidieter.com/diet-plans.html">Online Diet Plans</a> 
-
-                <div class="imsc"><div class="imsubc" style="width:125px;top:0px;left:0px;"><ul boxatype="center" style="">
-
-                <li><a href="http://www.desidieter.com/weight-loss-diet.html">Weight Loss Diet Plan</a></li>
-
-                <li><a href="http://www.desidieter.com/weight-loss-indian-diet.html">Indian Diet Plan</a></li>
-
-                <li><a href="http://www.desidieter.com/weight-loss-through-ayurveda.html">Ayurveda Diet Plan</a></li>
-
-                <li><a href="http://www.desidieter.com/mediterranean-diet.html">Mediterranean Diet Plan</a></li>
-
-				<li><a href="http://www.desidieter.com/blood-group-diet.html">BloodGroup Diet Plan</a></li>
-
-           </ul>
-
-    </div>
-
- </div></li>
-
-    
-
-    
-
-
-
-
-
-
-
-<li class="imatm" style="width:118px;"><a href="http://www.desidieter.com/home-remedies.html">Home Remedies</a>
-
-
-
-
-
-
-
-<div class="imsc"><div class="imsubc" style="width:146px;top:0px;left:0px;"><ul boxatype="center" style="">
-
-
-	<li><a href="http://www.desidieter.com/home-remedies/common-ailments.html">Common Ailments</a></li>
-
-
-	<li><a href="http://www.desidieter.com/home-remedies/skin-and-hair-care.html">Skin And Hair Care</a></li>
-
-
-	<li><a href="http://www.desidieter.com/home-remedies/children.html">Children</a></li>
-
-
-	<li><a href="http://www.desidieter.com/home-remedies/aches-and-pains.html">Aches And Pains</a></li>
-
-
-	<li><a href="http://www.desidieter.com/home-remedies/lifestyle-conditions.html">Lifestyle Conditions</a></li>
-
-
-	<li><a href="http://www.desidieter.com/home-remedies/others.html">Others</a></li>
-
-
-	</ul></div></div></li>
-
-
-
-
-
-
-
-
-
-
-
-<li class="imatm" style="width:98px;"><a href="http://www.desidieter.com/special-diets-home.html">Special Diets</a>
-
-	<div class="imsc"><div class="imsubc" style="width:146px;top:0px;left:-1px;"><ul boxatype="center" style="">
-
-        <li><a href="http://www.desidieter.com/healthy-heart-diet-plan.html">Healthy Heart Diet</a></li>
-
-        <li><a href="http://www.desidieter.com/diabetes-diet-plan.html">Diabetes Diet</a></li>
-
-        <li><a href="http://www.desidieter.com/kids-diet.html">Diet for Overweight Kids</a></li>
-
-        <li><a href="http://www.desidieter.com/diet-lactating-mothers.html">Diet for Nursing Mothers</a></li>
-
-        <li><a href="http://www.desidieter.com/diet-for-underweight-kids.html">Diet for Underweight Kids</a></li>
-
-        <li><a href="http://www.desidieter.com/diet-during-pregnancy.html">Diet During Pregnancy</a></li>
-
-        <li><a href="http://www.desidieter.com/diet-for-anaemia.html">Diet for Anemia</a></li>
-
-        <li><a href="http://www.desidieter.com/jaundice-diet.html">Diet for Jaundice</a></li>
-
-        <li><a href="http://www.desidieter.com/teenagers-diet.html">Diet for Teenagers</a></li>
-
-        <li><a href="http://www.desidieter.com/immunity-diet.html">Diet for Boosting Immunity</a></li>
-
-        <li><a href="http://www.desidieter.com/diet-for-osteoporosis.html">Diet for Osteoporosis</a></li>
-
-        <li><a href="http://www.desidieter.com/diet-for-hypertension.html">Diet for Hypertension</a></li>
-
-	</ul></div></div></li>
-
-
-
-    
-
-
-
-    <li class="imatm" style="width:78px;"><a href="http://www.desidieter.com/health-tools.html">Diet Tools</a>
-
-
-
-
-
-
-
-	<div class="imsc"><div class="imsubc" style="width:149px;top:0px;left:-1px;"><ul boxatype="center" style="">
-
-
-
-	<li><a href="http://www.desidieter.com/body-mass-index-calculator.html">BMI Calculator</a></li>
-
-
-
-	<li><a href="http://www.desidieter.com/body-analyzer.html">Body Analyzer</a></li>
-
-
-
-    <li><a href="http://www.desidieter.com/daily-calorie-calculator.html">Daily Calorie Calculator</a></li>
-
-
-
-    <li><a href="http://www.desidieter.com/exercise-calorie-calculator.html">Exercise Calorie Calculator</a></li>
-
-
-
-    <li><a href="http://www.desidieter.com/health-tools.html">Others</a></li>
-
-
-
-	</ul></div></div></li>
-
-
-
-    
-
-
-
-   	 <li class="imatm" style="width:118px;"><a href="http://www.desidieter.com/popular-recipes.html">Popular Recipes</a>
-
-              <div class="imsc"><div class="imsubc" style="width:146px;top:0px;left:-1px;">
-
-                <ul boxatype="center" style="">
-
-                
-                          <li><a href="http://www.desidieter.com/popular-recipes/indian-vegetarian.html">Indian</a></li>
-
-                    
-                          <li><a href="http://www.desidieter.com/popular-recipes/cuisines-of-the-world-continental.html">Cuisines of the World</a></li>
-
-                    
-                          <li><a href="http://www.desidieter.com/popular-recipes/low-sodium.html">Low Sodium</a></li>
-
-                    
-                          <li><a href="http://www.desidieter.com/popular-recipes/low-carb.html">Low Carb</a></li>
-
-                    
-                          <li><a href="http://www.desidieter.com/popular-recipes/low-fat.html">Low Fat</a></li>
-
-                    
-                          <li><a href="http://www.desidieter.com/popular-recipes/desserts.html">Desserts</a></li>
-
-                    
-                          <li><a href="http://www.desidieter.com/popular-recipes/childrens-favourite.html">Children's Favourite</a></li>
-
-                    
-                          <li><a href="http://www.desidieter.com/popular-recipes/soups-beverages.html">Soups &amp; Beverages</a></li>
-
-                    
-                          <li><a href="http://www.desidieter.com/popular-recipes/snacks.html">Snacks</a></li>
-
-                    
-                          <li><a href="http://www.desidieter.com/popular-recipes/condiments.html">Condiments</a></li>
-
-                    
-                </ul></div></div>
-
-     </li>
-
-
-
-   
-
-    <li class="imatm" style="width:108px;"><a href="http://www.desidieter.com/healthtrackers.html">Health Trackers</a>
-
-	<div class="imsc"><div class="imsubc" style="width:146px;top:0px;left:-1px;"><ul boxatype="center" style="">
-
-
-
-	<li><a href="http://www.desidieter.com/healthtrackers.html">General Trackers</a></li>
-
-
-
-	<li><a href="http://www.desidieter.com/healthtrackers.html">Therapeutic Trackers</a></li>
-
-
-
-	</ul></div></div></li>
-
-
-
-    
-
-
-
-
-
-
-         				 <li class="imatm" style="width:174px;"><a href="http://www.desidieter.com/weight-loss-center.html">Weight Management Center</a>
-
-
-
-         
-
-
-	<!-- Weight Loss Center <div class="imsc"><div class="imsubc" style="width:146px;top:0px;left:-1px;"><ul boxatype="center" style="">
-
-
-
-	<li><a href="#">Overview</a></li>
-
-
-
-	</ul></div></div> -->
-
-
-
-    </li>
-
-
-
-    
-
-
-
-    <li class="imatm" style="width:120px;"><a href="#">Health Centers</a>
-
-
-
-	  <div class="imsc"><div class="imsubc" style="width:146px;top:0px;left:-1px;"><ul boxatype="center">
-
-
-
-	<li><a href="http://www.desidieter.com/health-center-Fitness.html">Fitness Center</a></li>
-
-
-
-	<li><a href="http://www.desidieter.com/health-center-Yoga.html">Yoga Center</a></li>
-
-
-
-    <li><a href="http://www.desidieter.com/health-center-Ayurveda.html">Ayurveda Center</a></li>
-
-
-
-	</ul></div></div></li>
-
-
-
-    
-
-
-
-</ul>
-
+    	<div style="margin:0px auto;">
+    	<div class="imrcmain0 imgl" style="z-index:0;margin:0px auto;">
+    		<ul id="menubar">
+    				<li><a class="" href="http://www.desidieter.com/online-diet-plan.html">Online Diet Plans</a> 
+                        <ul>
+                            <li><a href="http://www.desidieter.com/weight-loss-diet.html">Weight Loss Diet Plan</a></li>
+                            <li><a href="http://www.desidieter.com/weight-loss-indian-diet.html">Indian Diet Plan</a></li>
+                            <li><a href="http://www.desidieter.com/weight-loss-through-ayurveda.html">Ayurveda Diet Plan</a></li>
+                            <li><a href="http://www.desidieter.com/mediterranean-diet.html">Mediterranean Diet Plan</a></li>
+                            <li><a href="http://www.desidieter.com/blood-group-diet.html">BloodGroup Diet Plan</a></li>
+                        </ul>
+                    </li>
+        		
+                	<li><a href="http://www.desidieter.com/home-remedies.html">Home Remedies</a>
+                    	<ul>
+                    					<li><a href="http://www.desidieter.com/home-remedies/common-ailments.html">Common Ailments</a></li>
+										<li><a href="http://www.desidieter.com/home-remedies/skin-and-hair-care.html">Skin And Hair Care</a></li>
+										<li><a href="http://www.desidieter.com/home-remedies/children.html">Children</a></li>
+										<li><a href="http://www.desidieter.com/home-remedies/aches-and-pains.html">Aches And Pains</a></li>
+										<li><a href="http://www.desidieter.com/home-remedies/lifestyle-conditions.html">Lifestyle Conditions</a></li>
+										<li><a href="http://www.desidieter.com/home-remedies/others.html">Others</a></li>
+					                </ul>
+                </li>
+                <li class="imatm" style="width:98px;"><a href="http://www.desidieter.com/special-diets-home.html">Special Diets</a>
+                <ul>
+                	 <li><a href="http://www.desidieter.com/healthy-heart-diet-plan.html">Healthy Heart Diet</a></li>
+
+                    <li><a href="http://www.desidieter.com/diabetes-diet-plan.html">Diabetes Diet</a></li>
+            
+                    <li><a href="http://www.desidieter.com/diet-for-overweight-kids.html">Diet for Overweight Kids</a></li>
+            
+                    <li><a href="http://www.desidieter.com/diet-lactating-mothers.html">Diet for Nursing Mothers</a></li>
+            
+                    <li><a href="http://www.desidieter.com/diet-for-underweight-kids.html">Diet for Underweight Kids</a></li>
+            
+                    <li><a href="http://www.desidieter.com/diet-during-pregnancy.html">Diet During Pregnancy</a></li>
+            
+                    <li><a href="http://www.desidieter.com/diet-for-anaemia.html">Diet for Anemia</a></li>
+            
+                    <li><a href="http://www.desidieter.com/jaundice-diet.html">Diet for Jaundice</a></li>
+            
+                    <li><a href="http://www.desidieter.com/teenagers-diet.html">Diet for Teenagers</a></li>
+            
+                    <li><a href="http://www.desidieter.com/immunity-diet.html">Diet for Boosting Immunity</a></li>
+            
+                    <li><a href="http://www.desidieter.com/diet-for-osteoporosis.html">Diet for Osteoporosis</a></li>
+            
+                    <li><a href="http://www.desidieter.com/diet-for-hypertension.html">Diet for Hypertension</a></li>
+                </ul>
+                </li>
+                 <li class="imatm" style="width:90px;"><a href="http://www.desidieter.com/health-tools.html">Health Tools</a>
+                     <ul>
+                        <li><a href="http://www.desidieter.com/body-mass-index-calculator.html">BMI Calculator</a></li>
+                        <li><a href="http://www.desidieter.com/body-analyzer.html">Body Analyzer</a></li>
+                        <li><a href="http://www.desidieter.com/daily-calorie-calculator.html">Daily Calorie Calculator</a></li>
+                        <li><a href="http://www.desidieter.com/exercise-calorie-calculator.html">Exercise Calorie Calculator</a></li>
+                        <li><a href="http://www.desidieter.com/health-tools.html">Others</a></li>
+                     </ul>
+                 </li>	
+                  <li class="imatm" style="width:118px;"><a href="http://www.desidieter.com/popular-recipes.html">Popular Recipes</a>
+                  	<ul>
+                                              <li><a href="http://www.desidieter.com/popular-recipes/indian-vegetarian.html">Indian</a></li>
+                                              <li><a href="http://www.desidieter.com/popular-recipes/cuisines-of-the-world-continental.html">Cuisines of the World</a></li>
+                                              <li><a href="http://www.desidieter.com/popular-recipes/low-sodium.html">Low Sodium</a></li>
+                                              <li><a href="http://www.desidieter.com/popular-recipes/low-carb.html">Low Carb</a></li>
+                                              <li><a href="http://www.desidieter.com/popular-recipes/low-fat.html">Low Fat</a></li>
+                                              <li><a href="http://www.desidieter.com/popular-recipes/desserts.html">Desserts</a></li>
+                                              <li><a href="http://www.desidieter.com/popular-recipes/childrens-favourite.html">Children's Favourite</a></li>
+                                              <li><a href="http://www.desidieter.com/popular-recipes/soups-beverages.html">Soups &amp; Beverages</a></li>
+                                              <li><a href="http://www.desidieter.com/popular-recipes/snacks.html">Snacks</a></li>
+                                              <li><a href="http://www.desidieter.com/popular-recipes/condiments.html">Condiments</a></li>
+                    						
+                    </ul>
+                  </li>
+                   
+						                        	<li><a href="http://www.desidieter.com/weight-loss-center.html">Weight Management Center</a>
+                         
+                        
+                        </li><li style="padding-left:5px;"><a href="javascript:addToFavorites()">Bookmark This Page</a></li> 
+                                                	<li style="padding-left:10px;"><fb:login-button perms="email">Login</fb:login-button></li>
+                                                <li style="width:80px;padding-left:10px;"><g:plusone></g:plusone></li>
+                       
+				</ul>
+               
         </div>
-
-        </div>
-
-
-
 </div>
-
-
-
 </div>
-
-
-
 		<div id="wlc_user_div" style="display:none;">
-
-
-
                 <div style="width:400px; padding: 0px; background:#FFFFFF;  margin:0px auto;">
-
-
-
-                
-
-
-
                 <table width="400" border="0" cellspacing="0" cellpadding="0" style="background:#FFFFFF;">
-
-
-
                 <tbody><tr>
-
-
-
-                <td width="13" valign="top" class="gry_bg"><img src="http://img.desidieter.com/chat_lt_top.png" width="9" height="8"></td>
-
-
-
+                <td width="13" valign="top" class="gry_bg"><img src="http://img.desidieter.com/chat_lt_top.png" alt="desidieter" width="9" height="8"></td>
                 <td width="328" valign="top" class="gry_bg"><div class="gry_bg"></div></td>
-
-
-
-                <td width="15" align="right" valign="top" class="gry_bg"><img src="http://img.desidieter.com/chat_rt_top.png" width="9" height="8"></td>
-
-
-
+                <td width="15" align="right" valign="top" class="gry_bg"><img src="http://img.desidieter.com/chat_rt_top.png" alt="desidieter" width="9" height="8"></td>
                 </tr>
-
-
-
                 <tr>
-
-
-
                 <td class="gry_bg">&nbsp;</td>
-
-
-
                 <td valign="top">
-
-
-
                       <div class="popup_maindiv">
-
-
-
                         <fieldset class="popup_mainfieldset"> <legend class="login_legend">Complete your Profile</legend>
-
-
-
                               <p>Please complete your profile <a href="http://www.desidieter.com/user_profile">here</a> to help us understand your Lifestyle better &amp; Set a Realistic Goal for you.</p><p>&nbsp;</p>
-
-
-
                         </fieldset></div>
 
-
-
-                        
-
-
-
                   </td>
-
-
-
                 <td class="rt_line"><!--img src="images/right_line.png" width="14" height="32" /--></td>
-
-
-
                 </tr>
-
-
-
                 <tr>
-
-
-
-                <td valign="bottom" class="gry_bg"><img src="http://img.desidieter.com/chat_lt_bottom.png" width="9" height="8"></td>
-
-
-
+                <td valign="bottom" class="gry_bg"><img src="http://img.desidieter.com/chat_lt_bottom.png" alt="desidieter" width="9" height="8"></td>
                 <td width="328" class="gry_bg"><div class="gry_bg"></div></td>
-
-
-
-                <td valign="bottom" class="gry_bg" align="right"><img src="http://img.desidieter.com/chat_rt_bottom.png" width="9" height="8"></td>
-
-
-
+                <td valign="bottom" class="gry_bg" align="right"><img src="http://img.desidieter.com/chat_rt_bottom.png" alt="desidieter" width="9" height="8"></td>
                 </tr>
-
-
-
                 </tbody></table>
-
-
-
-                
-
-
-
-                
-
-
-
                 </div>
-
-
-
         	</div>
-
  </td>
-
-
-
       </tr>
-
-
-
-      
-
-
-
       <tr>
-
-
-
         <td colspan="2">
-
-
-
-
-
-<div class="bread"><a href="http://www.desidieter.com/index.html"><span>Home</span></a><span class="sep">»</span><span class="normalText">Privacy Policy</span></div><table width="100%" border="0" cellspacing="0" cellpadding="0">
+<div class="bread"><a href="http://www.desidieter.com/index.html"><span>Home</span></a><span class="sep">»</span><span class="normalText">Privacy Policy</span></div><map name="Map" id="Map"><area shape="rect" coords="298,83,579,110" href="http://www.desidieter.com/get-in-shape-2012/signin.php" alt="">
+<area shape="rect" coords="529,37,652,73" href="http://www.desidieter.com/get-in-shape-2012/" alt="">
+</map><table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td width="5%" valign="top">
             </td>
@@ -1591,7 +505,7 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
                 <input width="22" type="image" height="24" align="top" title="Submit" alt="Submit" src="http://img.desidieter.com/go1.png"></td>
           </tr>
           <tr>
-            <td colspan="2" class="users-text"><div align="center"><span class="small-link" style="padding-bottom:10px;"><a href="http://www.desidieter.com/forgetpassword.html">Forgot Password?</a>&nbsp;<a href="http://www.desidieter.com/user-register.html">New User?</a></span></div></td>
+            <td colspan="2" class="users-text"><div align="center"><span class="small-link" style="padding-bottom:10px;"><a href="http://www.desidieter.com/forgetpassword.html">Forgot Password?</a>&nbsp;<a href="http://www.desidieter.com/user-register.html" style="color:#009933;font-size:13px;">Sign up! Its free</a></span></div></td>
           </tr>
         </tbody></table>
 		</form>
@@ -1615,7 +529,61 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
     </td>
 
   </tr>
-
+<tr> <td width="266" valign="top"><script language="javascript" type="text/javascript">
+function validform(frmObj){ 
+	if(formvalidNew(frmObj))
+	{
+		return true;
+	}
+	return false;
+}
+</script>
+<style>
+.style2 {
+    font-size: 12px;
+    font-weight: bold;
+}
+</style>
+<div style="background-image:url(http://www.desidieter.com/images/calorie-banner-bg.png); width:280px; height:277px; float:left;">
+  	<table width="93%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td width="75" height="85">&nbsp;</td>
+    <td width="177">&nbsp;</td>
+  </tr>
+    <tr>
+    <td height="61" width="75"><img src="http://www.desidieter.com/images/calorie-banner-indian-veg.png" width="65" height="65"></td>
+    <td align="left"><span class="meal_platter_head">Veg Wholesome Meal</span><br>
+    <p style="text-align:left; padding-bottom:1px;">
+		A slice of garlic bread with a small bowl of herb and cheese mashed potatoes.</p>
+    <div class="readmore" style="text-align:right; padding-bottom:3px;">&nbsp;<a href="http://www.desidieter.com/healthy-meal-plans.html">More...</a></div>
+</td>
+  </tr>
+       <tr>
+    <td height="26" colspan="2"><span class="style1">Get Eat Smart Alert in Your Inbox</span></td>
+    </tr>
+  <tr>
+    <td colspan="2">
+     
+        <form id="form1" name="form1" method="post" action="" onsubmit="return validform(this)">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td width="78%">
+             <div class="txtbox" style=" height:26px; padding-top:6px; padding-left:5px;">
+                <input name="platter_email" title="Email" class="RisEmail" type="text" id="platter_email" value="Enter your email here" size="27" style="border:0px;" onfocus="this.value='';">
+             </div>
+            </td>
+            <td width="22%"><div align="center">
+            <input type="hidden" name="platter_submit" value="1">
+            <input type="image" src="http://www.desidieter.com/images/calorie-banner-go-btn.png" width="34" height="30"></div></td>
+          </tr>
+        </tbody></table>
+        </form>
+    
+    </td>
+    </tr>
+    </tbody></table>
+ </div>
+  </td></tr>
   <tr>
 
     <td valign="top">
@@ -1670,7 +638,7 @@ if (window.attachEvent) window.attachEvent("onload", sfHover);
           <div style="height:auto; width: 160px; margin-left:8px; text-align:left;">
 
           <p>  
-Diabetes can be controlled and prevented. All it requires is...<br>
+The last few months may have left you in frenzy. All the sho...<br>
 <a href="http://www.desidieter.com/articles-main.html">Read More</a></p>
 
           </div>
@@ -1681,7 +649,7 @@ Diabetes can be controlled and prevented. All it requires is...<br>
 
        <div class="adv_banner">
                 <a href="http://www.healthji.com" target="_blank"><img src="http://img.desidieter.com/healthji-banner.png" alt="Healthjipro" border="0" align="left">    </a>
-                <a href="http://www.desidieter.com/get_in_shape_2010/index" target="_blank"><img src="http://img.desidieter.com/getinshape-small-banner.png" border="0" alt="Get in Shape" style="margin:2px 0px 0px 0px;" title="Get in Shape"></a>
+                <a href="http://www.desidieter.com/get-in-shape-2012/" target="_blank"><img src="http://img.desidieter.com/getinshape-small-banner.png" border="0" alt="Get in Shape" style="margin:2px 0px 0px 0px;" title="Get in Shape"></a>
         </div>  
     </td>
   </tr>
@@ -1700,18 +668,25 @@ Diabetes can be controlled and prevented. All it requires is...<br>
       <tbody><tr>
         <td colspan="3" height="5"></td>
       </tr>
-      <tr>
+             <tr>
         <td colspan="3" align="center">
             <!--Footer tab starts-->
                 <table width="960" border="0" cellspacing="0" cellpadding="0" align="center" style="background-color:#FFF;">  
                         <tbody><tr>
                             <td>
                                 <div class="footer_boxes">
-                                 	<div class="boxes_float"><a href="http://www.desidieter.com/diet-plans.html"><img border="0" alt="Online Diet Plans" src="http://img.desidieter.com/f_online_dietplans.png" width="185" height="155"></a></div>
-                                    <div class="boxes_float"><a href="http://www.desidieter.com/food-calorie-finder.html"><img border="0" alt="Food Calorie Finder" src="http://img.desidieter.com/f_food_calorie_finder.png" width="185" height="155"></a></div>
-                                    <div class="boxes_float"><a href="http://www.desidieter.com/popular-recipes.html"><img border="0" alt="Indian Recipes with Nutrition Labels" src="http://img.desidieter.com/f_indian_recipes.png" width="185" height="155"></a></div>
-                                    <div class="boxes_float"><a href="http://www.desidieter.com/intro-fitness-profile.html"><img border="0" alt="Online Fitness Profile" src="http://img.desidieter.com/f_fitnessprofile.png" width="185" height="155"></a></div>
-                                    <div class="boxes_float"><a href="http://www.desidieter.com/home-remedies.html"><img border="0" alt="Home Remedies" src="http://img.desidieter.com/f_home_remedies.png" width="185" height="155"></a></div>
+                                 	<a href="http://www.desidieter.com/healthtrackers.html"><div class="boxes_float" style="background-image:url(http://img.desidieter.com/health_tracker.jpg);width:175px;height:145px;padding:10px 8px 0px 10px;background-repeat:no-repeat;" align="center"><h2 style="color: #3E8807;font-family:Trebuchet MS;font-size: 17px;font-weight: bold;height: 40px;">Health Trackers</h2></div></a>
+                                 
+                                    
+                                <a href="http://www.desidieter.com/food-calorie-finder.html"><div class="boxes_float" style="background-image:url(http://img.desidieter.com/f_food_calorie_finder.png);width:180px;height:145px;padding:10px 8px 0px 5px;background-repeat:no-repeat;" align="center"><h2 style="color: #024b01;font-family:Trebuchet MS;font-size: 17px;font-weight: bold;height: 40px;">Food Calorie Finder</h2></div></a>
+                                
+                                 <a href="http://www.desidieter.com/popular-recipes.html"><div class="boxes_float" style="background-image:url(http://img.desidieter.com/f_indian_recipes.png);width:175px;height:153px;padding:2px 8px 0px 10px;background-repeat:no-repeat;" align="center"><h2 style="color: #e8a56a;font-family:Trebuchet MS;font-size: 17px;font-weight: bold;height: 40px;">Indian Recipe With<br> 
+                                 Nutrition Labels</h2></div></a>
+                                    
+                                   <a href="http://www.desidieter.com/nutritions-aaloo-matar.html"><div class="boxes_float" style="background-image:url(http://img.desidieter.com/f_fitnessprofile.png);width:165px;height:155px;padding:0px 8px 0px 20px;background-repeat:no-repeat;" align="center"><h2 style="color: #d36195;font-family:Trebuchet MS;font-size: 17px;font-weight: bold;height: 40px;">Compare <br> Nutrition Facts</h2></div></a>
+                                   
+                   <a href="http://www.desidieter.com/health-center-Fitness.html"><div class="boxes_float" style="background-image:url(http://img.desidieter.com/health-centers.jpg);width:170px;height:150px;padding:5px 0px 0px 15px;background-repeat:no-repeat;" align="center"><h2 style="color: #a41b19;font-family:Trebuchet MS;font-size: 17px;font-weight: bold;height: 40px;">Health Centers</h2></div></a>
+                   
                                 	<div class="clr pad_top_15"></div>
                                		<div style="BORDER-TOP: #eba901 4px solid"></div>
                                     <div style="BORDER-TOP: #cccccc 2px solid" align="left">
@@ -1738,9 +713,9 @@ Diabetes can be controlled and prevented. All it requires is...<br>
                                                     <li><a href="http://www.desidieter.com/weight-loss-diet.html">Weight Loss Diet Plan</a></li>
                                                     <li><a href="http://www.desidieter.com/weight-loss-indian-diet.html">Indian Diet Plan</a></li>
                                                     <li><a href="http://www.desidieter.com/weight-loss-through-ayurveda.html">Ayurveda Diet Plan</a></li>
-                                                    <li><a href="http://www.desidieter.com/healthy-heart-diet-plan.html">Healthy     Heart Diet</a></li>
-                                                    <li><a href="http://www.desidieter.com/kids-diet.html">Diet     for Overweight Kids</a></li>
-                                                    <li><a href="http://www.desidieter.com/diet-lactating-mothers.html">Diet     for Nursing Mothers</a></li>
+                                                    <li><a href="http://www.desidieter.com/healthy-heart-diet-plan.html">Healthy Heart Diet</a></li>
+                                                    <li><a href="http://www.desidieter.com/diet-for-overweight-kids.html">Diet for Overweight Kids</a></li>
+                                                    <li><a href="http://www.desidieter.com/diet-lactating-mothers.html">Diet for Nursing Mothers</a></li>
                                             </ul>
                                             </div>
                                       </div>
@@ -1805,166 +780,257 @@ Diabetes can be controlled and prevented. All it requires is...<br>
         <td colspan="3">
         <table width="100%" border="0" cellspacing="0" cellpadding="3">
           <tbody><tr>
-            <td>&nbsp;</td>
-          </tr>
-          <tr>
-          <td><table width="960" border="0" cellspacing="0" cellpadding="0" align="center">
-            <tbody><tr>
-              <td><div style="height:13px"><img src="http://img.desidieter.com/recent_search_top.jpg" width="960" height="13"></div></td>
+            <td><table width="100%"><tbody><tr><td valign="top" align="right">
+    <iframe src="http://www.facebook.com/plugins/likebox.php?href=http://www.facebook.com/pages/DesiDieter/255211495439&amp;width=480&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=true&amp;height=262" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:480px; height:262px;" allowtransparency="true"></iframe>
+    </td><td valign="top">
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
+	<script>
+    new TWTR.Widget({
+    version: 2,
+    type: 'profile',
+    rpp: 3,
+    interval: 6000,
+    width: 480,
+    height: 262,
+    theme: {
+    shell: {
+    background: '#26aec9',
+    color: '#ffffff'
+    },
+    tweets: {
+    background: '#ffffff',
+    color: '#000000',
+    links: '#177dd1'
+    }
+    },
+    features: {
+    scrollbar: false,
+    loop: false,
+    live: false,
+    hashtags: true,
+    timestamp: true,
+    avatars: false,
+    behavior: 'all'
+    }
+    }).render().setUser('desidieter').start();
+    </script>    
+    </td></tr></tbody></table></td>
+          </tr></tbody></table>
+          <div class="new-footer">
+    	<div class="footer-diet-and-fitness-box">
+       	  <div class="diet-fitness-article-heading"><a style="color:#0A677A;" href="http://www.desidieter.com/articles-main.html">Diet and Fitness Articles</a></div>
+            <div class="diet-fitness-article-links">
+              <table width="100%" border="0" cellspacing="0" cellpadding="0">
+              <tbody><tr>
+                <td width="20%">
+				                • 
+                <a href="http://www.desidieter.com/health-search/BMI-calculator.html">BMI calculator</a><br>
+                                • 
+                <a href="http://www.desidieter.com/health-search/calories.html">Calories</a><br>
+                                • 
+                <a href="http://www.desidieter.com/health-search/diabetes.html">Diabetes</a><br>
+                                • 
+                <a href="http://www.desidieter.com/health-search/diabetic-diet.html">Diabetic diet</a><br>
+                                • 
+                <a href="http://www.desidieter.com/health-search/diet.html">Diet</a><br>
+                                • 
+                <a href="http://www.desidieter.com/health-search/diet-plan.html">Diet plan</a><br>
+                					</td><td></td><td width="20%">
+				                • 
+                <a href="http://www.desidieter.com/health-search/diets.html">Diets</a><br>
+                                • 
+                <a href="http://www.desidieter.com/health-search/fitness.html">Fitness</a><br>
+                                • 
+                <a href="http://www.desidieter.com/health-search/home-remedies.html">Home remedies</a><br>
+                                • 
+                <a href="http://www.desidieter.com/health-search/how-to-lose-weight.html">How to lose weight</a><br>
+                                • 
+                <a href="http://www.desidieter.com/health-search/lose-weight.html">Lose weight</a><br>
+                                • 
+                <a href="http://www.desidieter.com/health-search/online-diet-plans.html">Online diet plans</a><br>
+                					</td><td></td><td width="20%">
+				                • 
+                <a href="http://www.desidieter.com/health-search/recipes.html">Recipes</a><br>
+                                • 
+                <a href="http://www.desidieter.com/health-search/reduce-weight.html">Reduce weight</a><br>
+                                • 
+                <a href="http://www.desidieter.com/health-search/weight-loss.html">Weight loss</a><br>
+                                • 
+                <a href="http://www.desidieter.com/health-search/weight-loss-center.html">Weight loss center</a><br>
+                                • 
+                <a href="http://www.desidieter.com/health-search/weight-loss-programs.html">Weight loss programs</a><br>
+                                • 
+                <a href="http://www.desidieter.com/health-search/weight-management.html">Weight management</a><br>
+                					</td><td></td><td width="20%">
+				                • 
+                <a href="http://www.desidieter.com/health-search/yoga.html">Yoga</a><br>
+                                • 
+                <a href="http://www.desidieter.com/health-search/health.html">Health</a><br>
+                                • 
+                <a href="http://www.desidieter.com/health-search/diet-for-lactating-mothers.html">Diet for lactating mothers</a><br>
+                                • 
+                <a href="http://www.desidieter.com/health-search/Diet-for-Obese-Kids.html">Diet for Obese Kids</a><br>
+                                • 
+                <a href="http://www.desidieter.com/health-search/Dietitian-Consultation.html">Dietitian Consultation</a><br>
+                                • 
+                <a href="http://www.desidieter.com/health-search/fitness-plans.html">Fitness plans</a><br>
+                					</td><td></td><td width="20%">
+				                • 
+                <a href="http://www.desidieter.com/health-search/Indian-Diabetic-Diet.html">Indian Diabetic Diet</a><br>
+                                • 
+                <a href="http://www.desidieter.com/health-search/Indian-Home-Remedies.html">Indian Home Remedies</a><br>
+                                • 
+                <a href="http://www.desidieter.com/health-search/Manage-weight.html">Manage weight</a><br>
+                                • 
+                <a href="http://www.desidieter.com/health-search/slimming-centers.html">Slimming centers</a><br>
+                </td>
             </tr>
-            <tr>
-              <td valign="top">
-              <table width="100%" border="0" cellspacing="0" cellpadding="0" class="recent_search_bot">
-                <tbody><tr>
-                  <td><h2>Diet and Fitness Articles</h2></td>
-                </tr>
-                
-                <tr>
-                  <td>								  <a href="http://www.desidieter.com/health-search/BMI-calculator.html" class="tag-link">
-									BMI calculator									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/calories.html" class="tag-link">
-									calories									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/diabetes.html" class="tag-link">
-									diabetes									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/diabetic-diet.html" class="tag-link">
-									diabetic diet									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/diet.html" class="tag-link">
-									diet									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/diet-plan.html" class="tag-link">
-									diet plan									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/diets.html" class="tag-link">
-									diets									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/fitness.html" class="tag-link">
-									fitness									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/home-remedies.html" class="tag-link">
-									home remedies									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/how-to-lose-weight.html" class="tag-link">
-									how to lose weight									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/lose-weight.html" class="tag-link">
-									lose weight									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/online-diet-plans.html" class="tag-link">
-									online diet plans									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/recipes.html" class="tag-link">
-									recipes									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/reduce-weight.html" class="tag-link">
-									reduce weight									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/weight-loss.html" class="tag-link">
-									weight loss									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/weight-loss-center.html" class="tag-link">
-									weight loss center									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/weight-loss-programs.html" class="tag-link">
-									weight loss programs									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/weight-management.html" class="tag-link">
-									weight management									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/yoga.html" class="tag-link">
-									yoga									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/health.html" class="tag-link">
-									health									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/diet-for-lactating-mothers.html" class="tag-link">
-									diet for lactating mothers									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/Diet-for-Obese-Kids.html" class="tag-link">
-									Diet for Obese Kids									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/Dietitian-Consultation.html" class="tag-link">
-									Dietitian Consultation									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/fitness-plans.html" class="tag-link">
-									fitness plans									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/Health.html" class="tag-link">
-									Health									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/Indian-Diabetic-Diet.html" class="tag-link">
-									Indian Diabetic Diet									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/Indian-Home-Remedies.html" class="tag-link">
-									Indian Home Remedies									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/Manage-weight.html" class="tag-link">
-									Manage weight									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/slimming-centers.html" class="tag-link">
-									slimming centers									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/boiled-egg-white.html" class="tag-link">
-									boiled egg white									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/roti-calories.html" class="tag-link">
-									roti calories									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/honey-lose-weight.html" class="tag-link">
-									honey lose weight									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/symptoms-of-child-diabetes.html" class="tag-link">
-									symptoms of child diabetes									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/weight-loss-does.html" class="tag-link">
-									weight loss does									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/oolong-teas.html" class="tag-link">
-									oolong teas									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/weight-loss-six.html" class="tag-link">
-									weight loss six									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/info-on-high-cholesterol.html" class="tag-link">
-									info on high cholesterol									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/dieatry-fiber.html" class="tag-link">
-									dieatry fiber									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/karela-juice.html" class="tag-link">
-									karela juice									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/lower-ldl-cholesterol.html" class="tag-link">
-									lower ldl cholesterol									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/smoothie-recipe.html" class="tag-link">
-									smoothie recipe									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/acidity.html" class="tag-link">
-									acidity									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/online-work-out-plan.html" class="tag-link">
-									online work out plan									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/high-triglyceride-diet.html" class="tag-link">
-									high triglyceride diet									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/diet-calories.html" class="tag-link">
-									diet calories									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/recipe-for-jaundise-diet.html" class="tag-link">
-									recipe for jaundise diet									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/ayurveda-weight-loss-diet.html" class="tag-link">
-									ayurveda weight loss diet									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/low-calorie-and-high-protein-recipe.html" class="tag-link">
-									low calorie and high protein recipe									</a><font color="black">•</font>
-								  								  <a href="http://www.desidieter.com/health-search/diets-to-reduce-high-blood-pressure.html" class="tag-link">
-									diets to reduce high blood pressure									</a><font color="black">•</font>
-								                  	</td>
-                </tr>
-                <tr>
-                  <td align="right"><a href="http://www.desidieter.com/recent_searches">Explore More Diet and Fitness Articles »</a></td>
-                </tr>
-                
-              </tbody></table></td>
-            </tr>
-            <tr>
-              <td><img src="http://img.desidieter.com/recent_search_bot.jpg" width="960" height="13"></td>
-            </tr>
-          </tbody></table></td>
-          
-          </tr>
-        </tbody></table>
-        </td>
-      </tr>
-      <tr>
-        <td colspan="3">&nbsp;</td>
-      </tr>
-      <tr>
-        <td colspan="3">
-        <!-- footer starts -->
-        <div class="footer_main">
-        <div class="footer_links"><div class="footer_links2"><a href="http://www.desidieter.com/index.html">Home</a> &nbsp; | &nbsp; <a href="http://www.desidieter.com/about-us.html">About Us</a>&nbsp; | &nbsp; <a href="http://www.desidieter.com/contact-frm.html">Contact Us</a> &nbsp; | &nbsp; <a href="http://www.desidieter.com/feedback-frm.html">Feedback</a> &nbsp; | &nbsp;<a href="http://www.desidieter.com/privacy-policy.html"> Privacy Policy</a> &nbsp; | &nbsp; <a href="http://www.desidieter.com/terms-condition.html">Terms &amp; Conditions</a> &nbsp; | &nbsp; <a href="http://www.desidieter.com/site-map.html">Sitemap</a> &nbsp; | &nbsp; <a href="http://www.desidieter.com/rss-main.html" title="Rss" name="Rss"><img src="http://img.desidieter.com/rss_icon.png" alt="Rss" width="13" height="13" border="0" align="texttop"></a>&nbsp;<a href="http://www.desidieter.com/rss-main.html" title="Rss" name="Rss">RSS</a> &nbsp; | &nbsp;<a href="http://blog.desidieter.com" title="Blog" name="Blog">Blog</a>&nbsp;  | &nbsp;<a href="http://www.desidieter.com/member-directory.html" title="member directory" name="member directory" target="_blank">Member Directory</a>&nbsp; | &nbsp;<a href="http://www.desidieter.com/get_in_shape_2010/" title="GIS" name="GIS" target="_blank">Get In Shape 2010</a></div>
-        <div class="copyright">Copyright © 2010 EZ-Healthline Pvt. Ltd. All Rights Reserved.</div>
-         <div class="copyright">DesiDieter is best viewed in <a href="http://www.mozilla.com/en-US/firefox/firefox.html" target="_blank" onmouseover="javascript:this.style.color='red'" onmouseout="javascript:this.style.color='#999999'"><u>Mozilla (FireFox)</u></a>, Internet Explorer Version 7 and 8 (<a href="http://www.microsoft.com/windows/internet-explorer/default.aspx" target="_blank" onmouseover="javascript:this.style.color='red'" onmouseout="javascript:this.style.color='#999999'"><u>Click Here</u></a> to upgrade your IE browser) and <a href="http://www.google.com/chrome" target="_blank" onmouseover="javascript:this.style.color='red'" onmouseout="javascript:this.style.color='#999999'"><u>Google Chrome</u></a>.</div>
-         </div>
+          </tbody></table>
         </div>
-        <!-- footer ends -->    </td>
-      </tr>
-      <tr>
-        <td colspan="3"><div class="footer_links1"> <a href="http://www.desidieter.com/weight-loss-indian-diet.html">Indian Diet Plan</a> &nbsp; | &nbsp; <a href="http://www.desidieter.com/weight-loss-through-ayurveda.html">Ayurveda Diet Plan</a> &nbsp; | &nbsp; <a href="http://www.desidieter.com/weight-loss-diet.html">Weight Loss Diet Plan</a> &nbsp; | &nbsp; <a href="http://www.desidieter.com/popular-recipes.html">Indian Recipes</a> &nbsp;| &nbsp; <a href="http://www.facebook.com/pages/DesiDieter/255211495439?v=app_7146470109&amp;ref=ts" target="_blank"><img src="http://img.desidieter.com/facebook_icon2.png" border="0"></a>&nbsp; <a href="http://www.facebook.com/pages/DesiDieter/255211495439?v=app_7146470109&amp;ref=ts" target="_blank">Like us on Facebook</a> &nbsp;| &nbsp; <a href="http://twitter.com/desidieter" target="_blank"><img src="http://img.desidieter.com/twitter_icon1.png" border="0"></a>&nbsp; <a href="http://twitter.com/desidieter" target="_blank">Follow us on Twitter</a></div></td>
-      </tr>
-      <tr>
-        <td colspan="3">&nbsp;</td>
-      </tr>
+        <div>
+          <div style="padding-right:20px;" align="right"><a href="http://www.desidieter.com/health-search"><img src="http://www.desidieter.com/images/explore-more-articles.gif" alt="Explore Articles" border="0"></a></div>
+        </div>
+        
+        </div><!--footer-diet-and-fitness-box-end-->
+        
+        <div class="footer-explore-items-heading">
+        	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="25%" height="21">About DesiDieter</td>
+    <td width="25%">Explore More</td>
+    <td width="28%"><a style="color:#B6E8FD;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;text-align:left;" href="http://www.desidieter.com/upgrade-profile.html">Weight Loss Packages</a></td>
+    <td width="22%">Online Diet Plans</td>
+  </tr>
+  <tr>
+    <td style="margin:0px; padding:0px;"><div style="margin-left:20px;">
+    <ul class="footer-explore">
+    	<li><a href="http://www.desidieter.com/">Home</a></li>
+        <li><a href="http://www.desidieter.com/about-us.html">About DesiDieter </a></li>
+        <li><a href="http://www.desidieter.com/articles-main.html">Articles</a></li>
+         <li><a href="http://blog.desidieter.com/">Blogs</a></li>
+         <li><a href="http://www.desidieter.com/contact-frm.html">Contact Us</a></li>
+          <li><a href="http://www.desidieter.com/feedback-frm.html">Feedback</a></li>
+         <li> <a href="http://www.desidieter.com/featured-links.html">Featured Links</a></li>
+         <li><a href="http://www.desidieter.com/link-exchange.html">Link Exchange</a></li>
+         <li><a href="http://www.desidieter.com/privacy-policy.html">Privacy Policy </a></li>
+         <li><a href="http://www.desidieter.com/terms-condition.html">Terms &amp; Conditions</a></li>
+         <li><a href="http://www.desidieter.com/site-map.html">Sitemap</a></li>
+    </ul>
+    </div>    
+        
+          </td>
+    <td><div style="margin-left:20px;">
+      <ul class="footer-explore">
+        <li><a href="http://www.desidieter.com/video-home.html">Health Videos</a></li>
+        <li><a href="http://www.desidieter.com/monthly-wellness-challenge.html">Take Water Challenge </a></li>
+        <li><a href="http://www.desidieter.com/phr-intro.html">Personal Health Record</a></li>
+        <li><a href="http://www.desidieter.com/health-age-intro.html">Health Age Lifestyle</a></li>
+        <li><a href="http://www.desidieter.com/diabetes-risks-factors.html">Diabetes Risk Profile</a></li>
+        <li><a href="http://www.desidieter.com/food-calorie-finder.html">Food Calorie Finder</a></li>
+        <li> <a href="http://www.desidieter.com/testimonial-gis.html">Testimonials</a></li>
+        <li><a href="http://www.desidieter.com/events-festivals.html">Events and Festivals</a></li>
+        <li><a href="http://www.desidieter.com/get-in-shape.html">Get In Shape</a></li>
+        <li><a href="http://www.desidieter.com/health-tools.html">Health Tools</a></li>
+        <li><a href="http://www.desidieter.com/desidieter-links.txt">Links</a></li>
+        </ul>
+    </div></td>
+    <td valign="top"><div>
+      <ul class="footer-explore" style="margin-left:20px;">
+        <li><a href="http://www.desidieter.com/upgrade-profile.html">DesiDieter Silver Package</a></li>
+        <li><a href="http://www.desidieter.com/upgrade-profile.html">DesiDieter Gold Package</a></li>
+        <li><a href="http://www.desidieter.com/upgrade-profile.html">DesiDieter Platinum Package</a></li>
+        </ul>
+        <div><a style="color:#B6E8FD;font-family:Verdana,Arial,Helvetica,sans-serif;font-size:16px;font-weight:bold;text-align:left;" href="http://www.desidieter.com/special-packages.html">Special Packages</a></div>
+        <ul class="footer-explore" style="margin-left:20px;">
+        <li><a href="http://www.desidieter.com/special-packages.html">DesiDieter Diabetes Care Package</a></li>
+        <li><a href="http://www.desidieter.com/special-packages.html">DesiDieter Heart Care Package</a></li>
+        </ul>
+    </div></td>
+    <td valign="top"><div style="margin-left:20px;">
+      <ul class="footer-explore">
+        <li><a href="http://www.desidieter.com/weight-loss-diet.html">Weight Loss Diet Plan</a></li>
+        <li><a href="http://www.desidieter.com/weight-loss-indian-diet.html">Indian Diet Plan</a></li>
+        <li><a href="http://www.desidieter.com/weight-loss-through-ayurveda.html">Ayurveda Diet Plan</a></li>
+        <li><a href="http://www.desidieter.com/mediterranean-diet.html">Mediterranean Diet Plan</a></li>
+        <li><a href="http://www.desidieter.com/blood-group-diet.html">Blood Group Diet Plan</a></li>
+        </ul>
+    </div></td>
+  </tr>
+</tbody></table>
+      
+      </div><!--footer-explore-items-heading-end-->
+      <div style="clear:both;"></div>
+        <div class="footer-social-media"><table width="100%" border="0" cellspacing="2" cellpadding="0">
+  <tbody><tr>
+    <td width="78%"><div align="right"><img src="http://img.desidieter.com/follow-us-btn.gif" width="173" border="0" height="37"></div></td>
+    <td width="4%"><a href="http://www.desidieter.com/rss-main.html"><img border="0" alt="RSS" src="http://img.desidieter.com/footer-rss-icon.png" width="38" height="37"></a></td>
+    <td width="4%"><a href="http://www.facebook.com/pages/DesiDieter/255211495439"><img src="http://img.desidieter.com/homepage-facebook-icon.png" alt="Follow us on Facebook" border="0" width="41" height="37"></a></td>
+    <td width="14%"><div align="left"><a href="http://twitter.com/#!/desidieter"><img src="http://img.desidieter.com/homepage-twitter-icon.png" alt="Follow us on Twitter" border="0" width="39" height="37"></a></div></td>
+  </tr>
     </tbody></table>
-    
-<!-- content ends --></td>
-      </tr>
-    </tbody></table>
-<div style="display:none">
-<a href="http://www.desidieter.com/rss/rss?ty=blogAll">Rss</a>
-</div>
+    </div>
+    <div style="clear:both;"></div>
+    <div class="footer-copyright">Copyright © 2011 EZ-Healthline Pvt. Ltd. All Rights Reserved.
+      <br>
+      DesiDieter is best viewed in <a style="color:#B6E8FD" href="http://www.mozilla.com/en-US/firefox/firefox.html" target="_blank" onmouseover="javascript:this.style.color='white'" onmouseout="javascript:this.style.color='#B6E8FD'">Mozilla (FireFox)</a>, Internet Explorer Version 7 and 8 (<a href="http://www.microsoft.com/windows/internet-explorer/default.aspx" style="color:#B6E8FD" target="_blank" onmouseover="javascript:this.style.color='white'" onmouseout="javascript:this.style.color='#B6E8FD'">Click Here</a> to upgrade your IE browser) and <a href="http://www.google.com/chrome" style="color:#B6E8FD" target="_blank" onmouseover="javascript:this.style.color='white'" onmouseout="javascript:this.style.color='#B6E8FD'">Google Chrome</a>.</div>
 
+
+  </div>
 <div id="my_alerts_box" style="display:none;"></div>
+<!--    <p><fb:login-button perms="email">Login</fb:login-button></p>-->
+    <div id="fb-root"></div>
+    <div id="fbuserdetail">
+    	<form method="post" name="fbinformation" action="/facebook-signin-user.php">
+            <input type="hidden" value="" name="fbid" id="fbid">
+            <input type="hidden" value="" name="fbname" id="fbname">
+            <input type="hidden" value="" name="fbfname" id="fbfname">
+            <input type="hidden" value="" name="fblname" id="fblname">
+            <input type="hidden" value="" name="fbgender" id="fbgender">
+            <input type="hidden" value="" name="fblocation" id="fblocation">
+            <input type="hidden" value="" name="fbemail" id="fbemail">
+            <input type="hidden" name="referrerpage" value="http://www.desidieter.com/privacy-policy.html">
+        </form>
+    </div>
+    
+
+
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+    <script>
+	//auth.sessionChange
+	window.fbAsyncInit = function()
+	{
+		FB.init({appId: '197512616926235', status: false, cookie: false, xfbml: true});
+	};
+	FB.Event.subscribe('auth.statusChange', function(response)
+	{		
+		if (response.session)
+		{
+		// A user has logged in, and a new cookie has been saved
+		var fbuid= response.session.uid;
+		
+		FB.api('/me', function(user) {
+           if(user != null)
+		   {
+		   		document.getElementById("fbid").value=user.id;
+				document.getElementById("fbname").value=user.name;
+				document.getElementById("fbfname").value=user.first_name;
+				document.getElementById("fblname").value=user.last_name;
+				document.getElementById("fbgender").value=user.gender;
+				document.getElementById("fblocation").value=user.location.name;
+				document.getElementById("fbemail").value=user.email;
+				document.fbinformation.submit();
+           }
+         });
+	
+		}
+		else
+		{
+			// The user has logged out, and the cookie has been cleared
+		}
+	});
+    </script>
+ 
+<script type="text/javascript" src="http://www.desidieter.com/js/validate.js"></script>
 <script type="text/javascript">
 function show_my_alerts()
 {
@@ -2019,4 +1085,4 @@ var sc_security="e2b9ad0a";
        
 
 
-</body></html>
+</td></tr></tbody></table></td></tr></tbody></table></body></html>
