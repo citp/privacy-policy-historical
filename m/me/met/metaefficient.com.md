@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the metaefficient.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603193721id_/http%3A//www.metaefficient.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metaefficient.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202015744id_/http%3A//www.metaefficient.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy >> MetaEfficient Review
+# Privacy Policy >> MetaEfficient
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@metaefficient.com.
 
