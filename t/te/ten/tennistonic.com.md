@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tennistonic.com privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218223030id_/http%3A//www.tennistonic.com/pg/home/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennistonic.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202194142id_/http%3A//www.tennistonic.com/pg/home/policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tennis Tonic
+# Privacy Policy
 
 **What This Privacy Policy Covers**   
 This privacy policy relates to use of the Tennis Tonic web site at www.tennistonic.com  
@@ -16,12 +16,3 @@ Children under 16 are not permitted to use the TennisTonic service, and so this 
 **Changes to this Privacy Policy**  
 Tennis TonicÂ  may update this policy at any time for any reason.   
 If there are any significant changes to how we handle personal information we will send a notice to the primary email address specified in your TennisTonic account or by placing a prominent notice on our site.
-
-[ ](http://tennistonic.org/a.aspx?ZoneID=9&Task=Click&Mode=HTML&SiteID=1&PageID=19931)
-
-| 
-
-[ ](http://tennistonic.org/a.aspx?ZoneID=10&Task=Click&Mode=HTML&SiteID=1&PageID=48720)
-
-|   
----|---|---
