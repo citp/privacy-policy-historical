@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brandsfever.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523174431id_/http%3A//www.brandsfever.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandsfever.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202024104id_/http%3A//www.brandsfever.com/privacy-policy) for the most accurate reproduction.*
 
 # Brandsfever | Privacy Policy
 
-Brandsfever is committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you and procedures that we have in place to safeguard your privacy. This Privacy Policy forms part of the Terms & Conditions of Brandsfever. By visiting the website of Brandsfever and/or by becoming a member you accept the provisions of this Privacy Policy. If you do not agree to our Privacy Policy please refrain from using or accessing our website. 
+Brandsfever is committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you and procedures that we have in place to safeguard your privacy. This Privacy Policy forms part of the Terms & Conditions of Brandsfever. By visiting the website of Brandsfever and/or by becoming a member you accept the provisions of this Privacy Policy. If you do not agree to our Privacy Policy please refrain from using or accessing our website.
 
   1. ## Collection and Use of Information
 
@@ -10,7 +10,7 @@ When you register to become a member of Brandsfever we need to know your name an
 
 We may also use aggregate information and statistics for the purposes of monitoring website usage in order to help us develop the website and our services and may provide such aggregate information to third parties. These statistics will not include information that can be used to identify any individual.
 
-While you are not required to submit any information to our website, if you do not provide the requested information, you may not be able to access or use some of the features and functions of our website and we may not be able to provide you with certain services. In providing our members with products or services or complying with legal or commercial requirements, we may disclose personal information to selected third parties. 
+While you are not required to submit any information to our website, if you do not provide the requested information, you may not be able to access or use some of the features and functions of our website and we may not be able to provide you with certain services. In providing our members with products or services or complying with legal or commercial requirements, we may disclose personal information to selected third parties.
 
   2. ## Children
 
@@ -48,7 +48,7 @@ Please be advised that Brandsfever is not responsible for any information that i
 
   9. ## Contact
 
-We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please send an email to legal [at] brandsfever [dot] com .
+We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please send an email to legal [at] brandsfever [dot] com.
 
 
 
