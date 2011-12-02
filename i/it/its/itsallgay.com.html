@@ -1,8 +1,10 @@
-<!--The following is the downloaded HTML source of the itsallgay.com privacy policy that was archived on 2010-08-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100808012716id_/http%3A//www.itsallgay.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the itsallgay.com privacy policy that was archived on 2011-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111202152042id_/http%3A//www.itsallgay.eu/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Its All Gay</title>
+<link href="http://www.itsallgay.eu/images/favicon/favicon.ico" rel="icon" type="image/x-icon">
+<link href="http://www.itsallgay.eu/images/favicon/favicon.ico" rel="shortcut icon" type="image/x-icon">
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <meta name="description" content="The online home of Gay Video Sharing">
 <meta name="keywords" content="gay, tube, porn, video, sharing, itsallgay, gaytube">
@@ -14,26 +16,34 @@
 <link rel="alternate" type="application/rss+xml" title="RSS - 20 most commented videos" href="rss/comments/">
 <!--!!!!!!!!!!!!!!!!!!!!!!!! LIBRARY !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
 <script type="text/javascript">
-var baseurl = 'http://www.itsallgay.com/';
-var imgurl = 'http://www.itsallgay.com/images';
+var baseurl = 'http://www.itsallgay.eu/';
+var imgurl = 'http://www.itsallgay.eu/images';
 </script>
-<script src="http://www.itsallgay.com/ajax/cpaint2.inc.js" type="text/javascript"></script>
-<script src="http://www.itsallgay.com/js/myjavascriptfx.js" type="text/javascript"></script>
+<script src="http://www.itsallgay.eu/ajax/cpaint2.inc.js" type="text/javascript"></script>
+<script src="http://www.itsallgay.eu/js/myjavascriptfx.js" type="text/javascript"></script>
 <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
 <!--!!!!!!!!!!!!!!!!!!!!!!!!! Processing SCRIPT !!!!!!!!!!!!!!!!!!!-->
-<script language="JavaScript" src="http://www.itsallgay.com/js/indexonly.js" type="text/javascript"></script>
-<script language="JavaScript" src="http://www.itsallgay.com/js/myjavascriptajax.js" type="text/javascript"></script>
-<script language="JavaScript" src="http://www.itsallgay.com/js/myjavascript.js" type="text/javascript"></script>
-<script language="JavaScript" src="http://www.itsallgay.com/js/thumbs.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://www.itsallgay.eu/js/indexonly.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://www.itsallgay.eu/js/myjavascriptajax.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://www.itsallgay.eu/js/myjavascript.js" type="text/javascript"></script>
+<script language="JavaScript" src="http://www.itsallgay.eu/js/thumbs.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://www.itsallgay.eu/js/tooltip.js"></script>
 
+<!--[if IE 7]><link rel="stylesheet" href="http://www.itsallgay.eu/css/ie7.css" type="text/css" /><![endif]-->
+<link href="http://www.itsallgay.eu/css/upload-progress.css" rel="stylesheet" type="text/css">
+<link href="http://www.itsallgay.eu/css/style.css" rel="stylesheet" type="text/css">
 
-<link href="http://www.itsallgay.com/css/upload-progress.css" rel="stylesheet" type="text/css">
-<link href="http://www.itsallgay.com/css/style.css" rel="stylesheet" type="text/css">
-
-  <script src="/jquery/jquery-1.2.6.js" type="text/javascript" charset="utf-8"></script>
-  <script src="/jquery/ui/jquery-ui-full-1.5.2.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="http://www.itsallgay.eu/jquery/jquery-1.2.6.js" type="text/javascript" charset="utf-8"></script>
+  <script src="http://www.itsallgay.eu/jquery/ui/jquery-ui-full-1.5.2.min.js" type="text/javascript" charset="utf-8"></script>
   <style type="text/css">
     
+	
+	
+		body {position:relative;}
+		#adSite {width:800px;height:500px;position:absolute; left:50%; margin-left:-400px;display:none;background:#000;border:2px solid rgb(191, 113, 211);z-index:10000;}
+		#adSite #close_line {color:rgb(191, 113, 211);font-family:Arial;font-size:16px;line-height:1.5;text-align:right;text-transform:uppercase; font-weight:bold; cursor:pointer;}
+		#adSite .close_line #close_bnt {bottom:-1px;margin-left:8px;position:relative;cursor:pointer;}
+		
         /* slider specific CSS */
         #paginationwrapper {
             margin-left: auto; 
@@ -131,39 +141,89 @@ var imgurl = 'http://www.itsallgay.com/images';
   </style>
 
 <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
+
+
+<script language="javascript" type="text/javascript">
+function showVids1(value){
+ if(value == true){
+         value='Y';
+  } else if(value == false) { value = 'N';
+  }else { // its not logged in or not member level 1
+        var mypopup  = window.open ("http://www.itsallgay.eu/showVidsPopUp1.php", "showVids1","width=500,height=100");
+        mypopup.moveTo(screen.width/2-225,screen.height/2-100);
+        return;
+  }
+
+  var request = new XMLHttpRef();
+        var url = "http://www.itsallgay.eu/saveShowVids.php?showVids=" + value ;
+        request.open("GET", url, true);
+        request.onreadystatechange = function() {
+                        //----------------------------
+                 if(request.readyState == 4){
+                                var msg = request.responseText;
+
+                                if(msg == -1){ // The person is not logged in
+                                        var mypopup  = window.open ("http://www.itsallgay.eu/showVidsPopUp1.php", "showVids1","width=500,height=100");
+                                        mypopup.moveTo(screen.width/2-225,screen.height/2-100)
+                                } else if(msg == 0){ // the member is not member level 1
+                                        var mypopup  = window.open ("http://www.itsallgay.eu/showVidsPopUp1.php", "showVids1","width=500,height=100");
+                                        mypopup.moveTo(screen.width/2-225,screen.height/2-100)
+                                }else{ // member is memberlevel 1
+                                   alert(msg); location.reload(true);
+                                }
+
+        }
+                        //----------------------------
+        }
+   request.send(null);
+
+  //return false;
+}
+
+</script>
+
+
 </head>
 <body>
-<div style="background: transparent url(http://www.gayforit.com/images/network_bar_bg.png) repeat-x scroll 0pt 0pt; overflow: hidden; position: relative; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 100%; height: 20px;" id="gfi_net_bar">
 
-<div id="gfi_net_container" style="margin: 0px auto; position: relative; text-align: center; width: 965px;">
+<div style="background: url(&quot;http://www.gayforit.eu/images/network_bar_bg.png&quot;) repeat-x scroll 0pt 0pt transparent; overflow: hidden; position: relative; -moz-background-inline-policy: continuous; width: 100%; height: 20px;" id="gfi_net_bar">
+	
+	<div id="gfi_net_container" style="margin: 0px auto; position: relative; text-align: center; width: 965px;">
+	
+	<a href="http://www.gayforit.eu/" id="gfi_logo" class="network_bar" style="padding: 0px 10px; color: rgb(255, 140, 0); height: 20px; line-height: 18px; float: left; font-size: 11px; text-decoration: none; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 130px; margin-right: 32px; cursor: default;">GAYFORIT NETWORK:</a>
+	
+	<div class="gfi_vertical_line" style="background: url(&quot;http://www.gayforit.eu/images/network_bar_vertical_line.png&quot;) no-repeat scroll -10px 0pt transparent; -moz-background-inline-policy: continuous; float: left; width: 1px; height: 20px;"></div>
+	
+	<a href="http://www.gayforit.eu/" id="gfi_id" class="network_bar" style="padding: 0px 10px; color: rgb(153, 153, 153); height: 19px; line-height: 18px; float: left; font-size: 11px; text-decoration: none; background-color: transparent;">GayForIt</a>
+	
+	<div class="gfi_vertical_line" style="background: url(&quot;http://www.gayforit.eu/images/network_bar_vertical_line.png&quot;) no-repeat scroll -10px 0pt transparent; -moz-background-inline-policy: continuous; float: left; width: 1px; height: 20px;"></div>
+	
+	<a href="http://www.itsallgay.eu/" id="iag_id" class="network_bar" style="padding: 0px 10px; color: rgb(153, 153, 153); height: 19px; line-height: 18px; float: left; font-size: 11px; text-decoration: none; background-color: rgb(51, 51, 51); cursor: default;">ItsAllGay</a>
+	
+	<div class="gfi_vertical_line" style="background: url(&quot;http://www.gayforit.eu/images/network_bar_vertical_line.png&quot;) no-repeat scroll -10px 0pt transparent; -moz-background-inline-policy: continuous; float: left; width: 1px; height: 20px;"></div>
+	
+	<a href="http://www.jerkyourtube.eu/" id="iag_id" class="network_bar" style="padding: 0px 10px; color: rgb(153, 153, 153); height: 19px; line-height: 18px; float: left; font-size: 11px; text-decoration: none; background-color: transparent;">JerkYourTube</a>
+	
+	<div class="gfi_vertical_line" style="background: url(&quot;http://www.gayforit.eu/images/network_bar_vertical_line.png&quot;) no-repeat scroll -10px 0pt transparent; -moz-background-inline-policy: continuous; float: left; width: 1px; height: 20px;"></div>
 
-<a href="http://www.gayforit.com" id="gfi_logo" class="network_bar" style="padding: 0px 10px;  color: rgb(153, 153, 153); height: 20px; line-height: 18px; float: left; font-size: 11px; text-decoration: none; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; width: 130px; margin-right: 32px; cursor: default;">GAYFORIT NETWORK</a>
+	<a href="http://www.streamen.com/?DF=0&amp;AFNO=1-0-613103-344944&amp;UHNSMTY=344" id="cfi_id" class="network_bar" style="padding: 0px 10px; color: rgb(153, 153, 153); height: 19px; line-height: 18px; float: left; font-size: 11px; text-decoration: none; background-color: transparent;">Live Porn</a>
+	
+	<div class="gfi_vertical_line" style="background: url(&quot;http://www.gayforit.eu/images/network_bar_vertical_line.png&quot;) no-repeat scroll -10px 0pt transparent; -moz-background-inline-policy: continuous; float: left; width: 1px; height: 20px;"></div>
+	
+	<a href="http://secure.hazehim.com/track/NzkwLjEuMi4zLjAuMC4wLjAuMA" id="cfi_id" class="network_bar" style="padding: 0px 10px; color: rgb(153, 153, 153); height: 19px; line-height: 18px; float: left; font-size: 11px; text-decoration: none; background-color: transparent;">Haze Him</a>
 
-<div class="gfi_vertical_line" style="background: transparent url(http://www.gayforit.com/images/network_bar_vertical_line.png) no-repeat scroll -10px 0pt; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; float: left; width: 1px; height: 20px;"></div>
+	<div class="gfi_vertical_line" style="background: url(&quot;http://www.gayforit.eu/images/network_bar_vertical_line.png&quot;) no-repeat scroll -10px 0pt transparent; -moz-background-inline-policy: continuous; float: left; width: 1px; height: 20px;"></div>
 
 
-<a href="http://www.gayforit.com" id="iag_id" class="network_bar" style="padding: 0px 10px; color: rgb(153, 153, 153); height: 19px; line-height: 18px; float: left; font-size: 11px; text-decoration: none; background-color: transparent;">GayForIt</a>
-
-<div class="gfi_vertical_line" style="background: transparent url(http://www.gayforit.com/images/network_bar_vertical_line.png) no-repeat scroll -10px 0pt; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; float: left; width: 1px; height: 20px;"></div>
-
-<a href="http://www.itsallgay.com" id="gfi_id" class="network_bar" style="padding: 0px 10px; color: rgb(153, 153, 153); height: 19px; line-height: 18px; float: left; font-size: 11px; text-decoration: none; background-color: rgb(51, 51, 51); cursor: default;">ItsAllGay</a>
-
-<div class="gfi_vertical_line" style="background: transparent url(http://www.gayforit.com/images/network_bar_vertical_line.png) no-repeat scroll -10px 0pt; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; float: left; width: 1px; height: 20px;"></div>
-
-<a href="http://www.streamen.com/?DF=0&amp;AFNO=1-0-613103-344944&amp;UHNSMTY=344" id="cfi_id" class="network_bar" style="padding: 0px 10px; color: rgb(153, 153, 153); height: 19px; line-height: 18px; float: left; font-size: 11px; text-decoration: none; background-color: transparent;">Live Cams</a>
-
-<div class="gfi_vertical_line" style="background: transparent url(http://www.gayforit.com/images/network_bar_vertical_line.png) no-repeat scroll -10px 0pt; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; float: left; width: 1px; height: 20px;"></div>
-
-<a href="http://www.homoactive.com/?nats=MTAwMDE3LjE4LjE2LjE2LjAuMC4wLjAuMA" id="cfi_id" class="network_bar" style="padding: 0px 10px; color: rgb(153, 153, 153); height: 19px; line-height: 18px; float: left; font-size: 11px; text-decoration: none; background-color: transparent;">Shop</a>
-
-<div class="gfi_vertical_line" style="background: transparent url(http://www.gayforit.com/images/network_bar_vertical_line.png) no-repeat scroll -10px 0pt; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; float: left; width: 1px; height: 20px;"></div><a href="http://www.jerkyourtube.com" id="jyt_id" class="network_bar" style="padding: 0px 10px; color: rgb(153, 153, 153); height: 19px; line-height: 18px; float: left; font-size: 11px; text-decoration: none; background-color: transparent;">JerkYourTube</a><div class="gfi_vertical_line" style="background: transparent url(http://www.gayforit.com/images/network_bar_vertical_line.png) no-repeat scroll -10px 0pt; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; float: left; width: 1px; height: 20px;"></div>
+	</div>
 </div>
-</div>
+
+
 
 <div id="container"><!-- main container //-->
 
 	<div id="logo"><!-- logo //-->
-	<a href="http://www.itsallgay.com/" title="Its All Gay"><img src="http://www.itsallgay.com/images/logo.gif" alt="Its All Gay Home"></a>
+	<a href="http://www.itsallgay.eu/" title="Its All Gay"><img src="http://www.itsallgay.eu/images/logo.gif" alt="Its All Gay Home"></a>
 	</div><!-- end logo //-->
 
 
@@ -171,7 +231,11 @@ var imgurl = 'http://www.itsallgay.com/images';
   
 
 	<div id="login"><!-- login //-->
-	<a href="http://www.itsallgay.com/login"> Login</a> | <a href="http://www.itsallgay.com/signup"> Sign Up</a> | <a href="http://www.itsallgay.com/help"> Help</a><form name="language_form" method="POST" action="">
+	<a href="http://www.itsallgay.eu/login" style="background:url(http://www.itsallgay.eu/images/login-left.png) no-repeat; display:block; height:20px; width:51px; float:left; margin-left:300px; text-align:left;"><span style=" color:#fff; text-decoration:none; font-family:Arial, Helvetica, sans-serif; font-weight:bold; font-size:11px; text-shadow:0px 1px 1px #000; padding-left:12px; line-height:20px;">Login</span></a>
+    <a href="http://www.itsallgay.eu/signup" style="background:url(http://www.itsallgay.eu/images/login-1.png) no-repeat; display:block; height:20px; width:51px; float:left;text-align:left;"><span style=" color:#fff; text-decoration:none; font-family:Arial, Helvetica, sans-serif; font-weight:bold; font-size:11px; text-shadow:0px 1px 1px #000; padding-left:5px; line-height:20px;">Sign Up</span></a>
+    <a href="http://www.itsallgay.eu/help" style="background:url(http://www.itsallgay.eu/images/login-right.png) no-repeat; display:block; height:20px; width:52px; float:left;text-align:left;"><span style=" color:#fff; text-decoration:none; font-family:Arial, Helvetica, sans-serif; font-weight:bold; font-size:11px; text-shadow:0px 1px 1px #000; padding-left:13px; line-height:20px;">Help</span></a>
+    
+    <form name="language_form" method="POST" action="">
     <select name="session_language" onchange="document.language_form.submit();">
     <option value="en_US" selected="selected">English</option>
 <option value="fr_FR">Français</option>
@@ -191,42 +255,48 @@ var imgurl = 'http://www.itsallgay.com/images';
 	</div><!-- end login //-->
 	
 	<div id="search"><!-- search container //-->
-		  <form action="http://www.itsallgay.com/search/" method="get" name="searchForm" id="searchForm"><!-- form //-->
-			<div class="search_rl"><img src="http://www.itsallgay.com/images/search_left.gif" alt="search left"></div>
+		  <form action="http://www.itsallgay.eu/search/" method="post" name="searchForm" id="searchForm"><!-- form //-->
+			<div class="search_rl"><img src="http://www.itsallgay.eu/images/search_left.gif" alt="search left"></div>
 	
 				<div id="search_form"><!-- search form //-->
-				Search for
+                <img src="http://www.itsallgay.eu/images/new.png" alt="New" style="float:left; margin-left:95px; margin-top:-2px;">
+				<a href="/advance_search.php" style="background:url(http://www.itsallgay.eu/images/button-9.png) no-repeat; display:block; height:20px; width:129px; float:left; text-align:left;  margin-top:2px; margin-left:5px;" onmouseover="ddrivetip('<b>TRY THIS NEW FEATURE:</b><br/>(a) Search within channels<br/>(b) Minimum runtime<br/>(c) Multiple Keywords<br/>(d) Sort by rating, views &amp; more')" onmouseout="hideddrivetip()"><span style=" color:#fff; text-decoration:none; font-family:Arial, Helvetica, sans-serif; font-weight:bold; font-size:11px; text-shadow:0px 1px 1px #000; padding-left:17px; line-height:20px;">Advanced Search</span></a>
 				<input size="40" tabindex="1" maxlength="22" name="search_id" value="" class="s_for">
-				in
 				
-				<select name="search_type" tabindex="2">
-                <option value="search_videos">Search Videos</option>
-                        <option value="search_users">Search Users</option>
-                        <option value="search_groups">Search Groups</option>
-              </select>
-			
+
+				<input type="hidden" value="search_videos" name="search_type">
+
+				<input type="hidden" value="xrp" name="usercheck">
+				
 				<input type="submit" name="submit" value=" " class="search_button">
 				</div> <!--  end search form//-->
 				
-			<div class="search_rl"><img src="http://www.itsallgay.com/images/search_right.gif" alt="search right"></div>
+			<div class="search_rl"><img src="http://www.itsallgay.eu/images/search_right.gif" alt="search right"></div>
+			
 		</form><!-- end form //-->
+		
 	</div><!-- end search container //-->
+    
+    
 	
 	<div id="menu"> <!-- menu and upload bar //-->
-		<div class="search_rll"><img src="http://www.itsallgay.com/images/menu_left.gif" alt="left bar"></div>
+		<div class="search_rll"><img src="http://www.itsallgay.eu/images/menu_left.gif" alt="left bar"></div>
 			<div id="navigation">
-				<div class="navigation_title"><a href="http://www.itsallgay.com/" id="currentTab">Home</a></div>
-				<div class="navigation_title"><a href="http://www.itsallgay.com/videos">Watch</a></div>
-				<div class="navigation_title"><a href="http://www.itsallgay.com/categories">Channels</a></div>
-				<div class="navigation_title"><a href="http://www.itsallgay.com/usergroups">Groups</a></div>
-
-				<!-- <div class="navigation_title"><a href="http://www.itsallgay.com/community" >Community</a></div> -->
-		 <div class="navigation_title"><a href="http://www.streamen.com/?DF=0&amp;AFNO=1-0-613103-344944&amp;UHNSMTY=344">Live Cams</a></div>
-				<div class="navigation_title"><a href="http://www.itsallgay.com/video_limit_upgrade_new.php">Upgrade</a></div>
-				<div class="navigation_title"><a href="http://www.itsallgay.com/advance_search.php">A. Search</a></div>
+				<div class="navigation_title"><a href="http://www.itsallgay.eu/" id="currentTab">Home</a></div>
+				<div class="navigation_title"><a href="http://www.itsallgay.eu/videos">Watch</a></div>
+				<div class="navigation_title"><a href="http://www.itsallgay.eu/categories">Channels</a></div>
+				<div class="navigation_title"><a href="http://www.itsallgay.eu/usergroups">Groups</a></div>
+				<div class="navigation_title"><a href="http://secure.hazehim.com/track/NzkwLjEuMi4zLjAuMC4wLjAuMA">Haze Him</a></div>
+				<!-- <div class="navigation_title"><a href="http://www.itsallgay.eu/community" >Community</a></div> 
+		 <div class="navigation_title"><a href="http://www.streamate.com/landing/g1/?AFNO=1-0-630241-341541&UHNSMTY=365" >Live Sex</a></div>
+-->		 
+		 
+				<div class="navigation_title"><a href="http://www.itsallgay.eu/video_limit_upgrade_new.php">Upgrade</a></div>
+				<div class="navigation_title"><a href="/videos/basic/hd" hd="">HD</a></div>
+                <div class="navigation_title"><a href="http://www.streamen.com/?DF=0&amp;AFNO=1-0-613103-344944&amp;UHNSMTY=344" cams="">Cams</a></div>
 			</div>
-			<div id="upload_button"><a href="http://www.itsallgay.com/upload"><img src="http://www.itsallgay.com/images/upload.gif" alt="Upload"></a></div>
- 	<div class="search_rl"><img src="http://www.itsallgay.com/images/menu_right.gif" alt="right bar"></div>
+			<div id="upload_button"><a href="http://www.itsallgay.eu/upload"><img src="http://www.itsallgay.eu/images/upload.gif" alt="Upload"></a></div>
+ 	<div class="search_rl"><img src="http://www.itsallgay.eu/images/menu_right.gif" alt="right bar"></div>
 	</div> <!--  end menu and upload bar //--><center><a href="http://www.lawdit.co.uk/stay_legal_audits/itsallgay.asp"><img src="http://www.itsallgay.com/images/lawdit.gif"></a></center>
 
 <center><a href="http://www.lawdit.co.uk/stay_legal_audits/itsallgay.asp">For our lawyers compliance certification click here</a></center>
@@ -256,15 +326,17 @@ We do not share your personally identifiable information (such as name or email 
 We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the itsallgay Website.<br>
 We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with the Laws of England &amp; Wales.<br>
 itsallgay also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that itsallgay believes, in good faith, is appropriate or necessary to enforce our Terms of Service, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of the itsallgay Website, and to protect the rights, property, or personal safety of itsallgay, our users or others.<br><br><br>
-
+<div id="footer_advert" style="width:950px; height:250px; clear: both;margin:0 auto; margin-bottom:20px;">
+	<iframe class="adstats_950x250" src="http://lead.program3.com/ad/1877.html" width="950px" height="250px" frameborder="0" scrolling="no" marginwidth="0" marginheight="0"></iframe>
+</div>
 	<div class="main_title"><!--footer //-->
 
 		<div id="footer_links"><!-- footer links //-->
-			<a href="http://www.itsallgay.com/about">Cust Serv &amp; Refunds</a>  |
-                    <a href="http://www.itsallgay.com/help">Help</a> |
-                    <a href="http://www.itsallgay.com/advertise">DMCA/2257/COP-CMS</a> |
-                    <a href="http://www.itsallgay.com/terms">Terms of Use</a> |
-                    <a href="http://www.itsallgay.com/privacy">Privacy Policy</a> |
+			<a href="http://www.itsallgay.eu/about">Cust Serv &amp; Refunds</a>  |
+                    <a href="http://www.itsallgay.eu/help">Help</a> |
+                    <a href="http://www.itsallgay.eu/advertise">DMCA/2257/COP-CMS</a> |
+                    <a href="http://www.itsallgay.eu/terms">Terms of Use</a> |
+                    <a href="http://www.itsallgay.eu/privacy">Privacy Policy</a> |
                      
 		    		</div><!-- end footer inks //-->
 
@@ -273,6 +345,8 @@ itsallgay also reserves the right to disclose personally identifiable informatio
 	</div><!-- end footer //-->
 
 	</div><!-- end main container //-->
+
+
 	
 
-<div id="ui-datepicker-div" style="display: none;"></div></body></html>
+</body></html>
