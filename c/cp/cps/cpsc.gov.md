@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpsc.gov privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630022054id_/http%3A//www.cpsc.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpsc.gov privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202150330id_/http%3A//www.cpsc.gov/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Security Notice
 
@@ -28,7 +28,13 @@ The U.S. Consumer Product Safety Commission, a Federal Government regulatory age
 
 ### Copyright
 
-Providing the public with vital safety information over the Internet and the World Wide Web is an essential part of the U.S. Consumer Product Safety Commission's (CPSC) effort to carry out its mission. Information presented on these pages is public information. You may freely distribute, copy, or link to any of the information presented. If you do so, please use appropriate byline/photo/image credit. However, the information may not be used in a way that states or implies CPSC endorsement.
+Providing the public with vital safety information over the Internet is an essential part of the U.S. Consumer Product Safety Commission's (CPSC) effort to carry out its mission. Web page text, brochures, and posters presented on CPSC websites are public information. You may freely distribute, copy, or link to any of this information. However, the information may not be used in a way that states or implies CPSC endorsement. If you do distribute, copy or link to any of this information, please credit CPSC. 
+
+Images on this website may have been licensed for use by CPSC from a stock photography service or other copyright holder and the copyright holder may prohibit republication, retransmission, reproduction or other use of the images. 
+
+You may freely copy and distribute recall notices, including photographs of recalled items, without permission. Any other use of photographs found in recall notices may require permission from a copyright holder. 
+
+Questions about use of specific images or other materials may be submitted via our [Contact Us](https://web.archive.org/cgibin/info.aspx) form.
 
 * * *
 
