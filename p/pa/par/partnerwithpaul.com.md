@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partnerwithpaul.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609221523id_/http%3A//www.partnerwithpaul.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partnerwithpaul.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202151417id_/http%3A//www.partnerwithpaul.com/privacy.cgi) for the most accurate reproduction.*
 
 # Partner with Paul - Privacy Policy
 
@@ -17,19 +17,19 @@ If you want to opt-out of email communications from PartnerWithPaul.com, cancel 
 
 | 
 
-[ ](https://secure.trust-guard.com/certificates/www.partnerwithpaul.com)
+[](http://secure.trust-guard.com/certificates/808)
 
 |   | 
 
-[ ](https://secure.trust-guard.com/certificates/www.partnerwithpaul.com)
+[](http://secure.trust-guard.com/certificates/808)
 
 |   | 
 
-[ ](https://secure.trust-guard.com/certificates/www.partnerwithpaul.com)
+[](http://secure.trust-guard.com/certificates/808)
 
 |   | 
 
-[ ](https://secure.trust-guard.com/certificates/www.partnerwithpaul.com)  
+[](http://secure.trust-guard.com/certificates/808)  
   
 ---|---|---|---|---|---|---  
   
