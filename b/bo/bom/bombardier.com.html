@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bombardier.com privacy policy that was archived on 2010-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101206063558id_/http%3A//www.bombardier.com/en/corporate/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bombardier.com privacy policy that was archived on 2011-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111202182703id_/http%3A//www.bombardier.com/en/corporate/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 
@@ -10,6 +10,8 @@
 
 <meta name="keywords" content=""> 
 <meta http-equiv="content-language" content="en">
+<!-- Added for PWB-0298 so that Facebook linter will not have any issues in displaying the title of the page that we share  -->
+<meta http-equiv="Content-Type" content="text/html:charset=ISO-8859-1">
 
 
 
@@ -403,7 +405,7 @@ It includes the logic to switch the language based on the users selection.
 							
 								
 									<li class="first">
-										<a href="/en/corporate/investor-relations/index" style="color:#ffffff !important; !important;font-weight:normal !important;">
+										<a href="/en/corporate/investor-relations/index" target="_blank" style="color:#ffffff !important; !important;font-weight:normal !important;">
 											Investor Relations
 										</a>
 									</li>
@@ -529,7 +531,15 @@ It includes the logic to switch the language based on the users selection.
 				<td width="100%" height="100%" valign="top">
 					<a name="wpsMainContent"></a>
 					
-					<div id="mainContent">
+					<div id="mainContent"> 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
 
 
 
@@ -750,11 +760,11 @@ It includes the logic to switch the language based on the users selection.
 <ul class="list_news">
 
 <li>
-<a href="/en/corporate/media-centre/events-and-calendar/details?docID=0901260d80146c9a" target="_self"><img src="/files/en/supporting_docs/image_and_media/banners/Q3-en.jpg" alt=""></a><br><a href="/en/corporate/media-centre/events-and-calendar/details?docID=0901260d80146c9a" target="_self"><b>Conference Call</b> for Investors and Financial Analysts</a><br>&nbsp;
+<a href="http://ir.bombardier.com/en/event-calendar/207-financial-results-for-the-third-quarter-ended-october-31-2011" target="_blank"><img src="/files/en/supporting_docs/image_and_media/banners/BI-Q32011_minibanner.jpg" alt=""></a><br><b><a href="http://ir.bombardier.com/en/event-calendar/207-financial-results-for-the-third-quarter-ended-october-31-2011" target="_blank">Conference Call</a></b><a href="http://ir.bombardier.com/en/event-calendar/207-financial-results-for-the-third-quarter-ended-october-31-2011" target="_blank"> for Investors and Financial Analysts</a>
 </li>
 
 <li>
-<a href="/en/corporate/media-centre/events-and-calendar/details?docID=0901260d801293f5" target="_self"><img src="/files/en/supporting_docs/image_and_media/banners/BI-Q2_FY2011-minibanner.jpg" alt=""></a><br><a href="/en/corporate/media-centre/events-and-calendar/details?docID=0901260d801293f5" target="_self"><b>Conference Call</b> for Investors and Financial Analysts</a>
+<a href="/en/corporate/corporate-governance/code-of-ethics-and-business-conduct?docID=0901260d8000903d" target="_self"><img src="/files/en/supporting_docs/image_and_media/banners/B4-BC_CODEOFETHICS-00-20080403-01-K7CD.JPG" alt=""></a><br><a href="/en/corporate/corporate-governance/code-of-ethics-and-business-conduct?docID=0901260d8000903d" target="_self"><b>Code of Ethics and Business Conduct</b></a><br>Learn about our committment.
 </li>
 
 </ul>
@@ -800,6 +810,45 @@ It includes the logic to switch the language based on the users selection.
 
    
 <script type="text/javascript">
+function share(n)
+{
+	var smurl = window.location.href;
+	switch(n)
+	{
+		case 1:
+			window.open('http://twitter.com/share?url='+smurl);
+			break;
+			
+		case 2:
+			window.open('http://www.facebook.com/sharer.php?u='+smurl);
+			break;
+
+		case 3:
+			window.open('http://www.linkedin.com/shareArticle?url='+smurl);
+			break;
+
+/*		case 4:
+			window.open('http://sns.qzone.qq.com/cgi-bin/qzshare/cgi_qzshare_onekey?url='+smurl);
+			break;
+			
+		case 5:
+			window.open('http://promote.orkut.com/preview?nt=orkut.com&du='+smurl);
+			break;
+
+		case 6:
+			window.open('http://vkontakte.ru/share.php?url='+smurl);
+			break;
+
+		case 7:
+			window.open('https://www.xing.com/app/user?op=share&url='+smurl);
+			break;
+		
+		case 8:
+			window.open('http://www.viadeo.com/shareit/share?url='+smurl);
+			break;
+*/
+	}
+}
 function printPage(language)
 {  
 var elem, vis;  
@@ -823,7 +872,6 @@ else if( document.layers ) {
 	dirtypop(elem.innerHTML,language)
 	}
 }
-
 function dirtypop(_html,language)
 {
   var generator=window.open('','name','scrollbars=1,height=600,width=555');
@@ -846,19 +894,36 @@ function dirtypop(_html,language)
 }
 
 function mailPopUp() {
-	window.open ('/wps/PA_1_8M4OSI420095302J42G22800E7/links/jsp/html/SendMailPortletView.jsp?docID=null&pageUrl=/en/corporate/privacy/&lang=en','SendThisPage','width=600,height=600'); 
+	window.open ('/wps/PA_1_8M4OSI420095302J42G22800E7/links/jsp/html/SendMailPortletView.jsp?docID=null&pageUrl=/en/corporate/privacy&lang=en','SendThisPage','width=600,height=600'); 
 }
 </script>
 
 <strong class="title1">Toolkit</strong>
-<ul class="clearfix">
+<ul id="toolbox" class="clearfix">
+
+		<!--Code changes for PWB-0298 starts here-->
+		<li>
+			<a class="tb_dropdown">
+				<span onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';" style="cursor:pointer">
+					Share
+				</span>
+			</a>
+			<ul class="tbdropdown toolbox"> 
+				<li><a class="b_twitter" target="_blank" onclick="javascript:share(1); return false" href="javascript:void(0)">Twitter</a></li>
+				<li><a class="b_facebook" target="_blank" onclick="javascript:share(2); return false" href="javascript:void(0)">Facebook</a></li>
+				<li><a class="b_linkedin" target="_blank" onclick="javascript:share(3); return false" href="javascript:void(0)">Linkedin</a></li>
+
+			</ul>
+		</li>
+		<!--Code changes for PWB-0298 ends here-->		
 
 		<li><a href="javascript:mailPopUp()" class="b_stf">Send this page</a></li>
-		<li><a href="javascript:printPage('en')" class="b_print">Print this page </a></li>
+
 <li><a href="/en/corporate/contacts/corporate/contacts" class="b_vcard">Contacts</a></li>
 		<li><a href="/en/corporate/rss" class="b_rss">RSS Feed</a></li>
 		
-	</ul></div></div>
+	</ul>
+</div></div>
 	<div class="clearing"></div>
 	
 
@@ -1029,8 +1094,8 @@ function mailPopUp() {
 			<li><a href="/en/corporate/trademarks" id="link">Trademarks</a></li>
 			<li><a href="/en/corporate/privacy" id="link">Privacy</a></li>
 		</ul>
-		<p id="olympics"><a href="/en/corporate/corporate-responsibility/community/vancouver-2010-olympics?docID=0901260d8007f533"><img src="/wps/themes/html/Bombardier/../BbdThemeFiles/img/L_Van2010SupOff_Paralympic_.jpg" border="0"></a></p>
-		<p id="copyright">© Bombardier 1997-2010<img src="/wps/themes/html/Bombardier/../BbdThemeFiles/img/BBD-SPROCKET_10.jpg" border="0"></p>
+		<p id="olympics"><a href="/en/corporate/corporate-responsibility/community/vancouver-2010-olympics?docID=0901260d8007f533"><img src="/wps/themes/html/Bombardier/../BbdThemeFiles/img/COC-logo_bilingue.jpg" border="0"></a></p>
+		<p id="copyright">© Bombardier 1997-2011<img src="/wps/themes/html/Bombardier/../BbdThemeFiles/img/BBD-SPROCKET_10.jpg" border="0"></p>
 	</div>
 </div>
 			</div>
