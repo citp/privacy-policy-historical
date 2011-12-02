@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vantagewire.com privacy policy that was archived on 2011-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110603202106id_/http%3A//www.vantagewire.com/page/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vantagewire.com privacy policy that was archived on 2011-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111202061111id_/http%3A//www.vantagewire.com/page/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -20,21 +20,21 @@
 <meta name="document-rating" content="Safe for Kids">
 
 <meta name="document-distribution" content="Global">
-<script type="text/javascript" src="/misc/jquery.js?Y"></script>
-<script type="text/javascript" src="/misc/drupal.js?Y"></script>
-<script type="text/javascript" src="/modules/dhtml_menu/dhtml_menu.js?Y"></script>
-<script type="text/javascript" src="/modules/user_relationships/user_relationships_ui/user_relationships_ui.js?Y"></script>
-<script type="text/javascript" src="/sites/all/modules/custom/vw_help/includes/vw_help.js?Y"></script>
-<script type="text/javascript" src="/source/common.js?Y"></script>
-<script type="text/javascript" src="/sites/all/modules/custom/vw_company/includes/vw_company.js?Y"></script>
-<script type="text/javascript" src="/sites/all/modules/custom/vw_profile/includes/vw_profile.js?Y"></script>
+
+<script type="text/javascript" src="/misc/jquery.1.6.2.min.js?m"></script>
+<script type="text/javascript" src="/misc/drupal.js?m"></script>
+<script type="text/javascript" src="/modules/dhtml_menu/dhtml_menu.js?m"></script>
+<script type="text/javascript" src="/modules/user_relationships/user_relationships_ui/user_relationships_ui.js?m"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/vw_help/includes/vw_help.js?m"></script>
+<script type="text/javascript" src="/source/common.js?m"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/vw_company/includes/vw_company.js?m"></script>
+<script type="text/javascript" src="/sites/all/modules/custom/vw_profile/includes/vw_profile.js?m"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, { "basePath": "/", "dhtmlMenu": { "slide": "slide", "siblings": "siblings", "children": "children", "clone": "clone", "relativity": 0, "doubleclick": 0 }, "user_relationships_ui": { "loadingimage": "/modules/user_relationships/user_relationships_ui/images/loadingAnimation.gif", "savingimage": "/modules/user_relationships/user_relationships_ui/images/savingimage.gif", "position": { "position": "absolute", "left": "0", "top": "0" } } });
 //--><!]]>
 </script>
 <script type="text/javascript" src="/source/common.js"></script>
-<script type="text/javascript" src="/_resources/scripts/jquery.js"></script>
 <script type="text/javascript" src="/source/autocomplete/jquery.autocomplete.js?v=1"></script>
 <script type="text/javascript" src="/source/scripts/fancybox/jquery.fancybox-1.3.1.pack.js"></script>
 <script type="text/javascript" src="/source/stats.js"></script>
@@ -71,11 +71,16 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "dhtmlMenu": { "slide": "slide
             paramName: 'searchFor',
             onItemSelect: function( obj ){
                 var q = $('#quoteSearchDrop').val();
+                if(q == 'Sorry, no companies matched your search'){
+                    return false;
+                }
                 window.location = '/company?symbol=' + q.substring(q.lastIndexOf('(') + 1, q.lastIndexOf(')'));
             },
             selectFirst:false
         });
-        
+         /**
+         * Search type selector
+         */       
         $("#selected-sitesearch").click(
             function() {
                 $("#sitesearch-options").slideToggle();
@@ -106,9 +111,23 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "dhtmlMenu": { "slide": "slide
             if ($(this).val() == "" || $(this).val() == $(this).attr('title')){
                 $(this).val($(this).attr('title')).addClass("hinted");
             }
+        });      
+        /**
+         * Show the nav submenus when mousing over parent links. Hide the menus on mouse out.
+         */
+        $('a.nav-item').mouseenter(function(){
+            $(this).parent()
+                .addClass('on')
+                .mouseleave(function(){
+                    $(this).removeClass('on')
+                        .children('.menudrop')
+                        .hide()
+                 })
+                .children('.menudrop')
+                .show()
         });
         /**
-         * Ajax login box handler
+         * Login box
          */
         $('#loginboxform').submit ( function() {        
                     
@@ -125,7 +144,13 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "dhtmlMenu": { "slide": "slide
                success: function (rsp) {
                     if (rsp.status == 'SUCCESS') {
                         $("#login_error").empty().hide().fadeIn('slow').append('<span class="loginmessage">Login successful. Redirecting...</span>');
-                        window.location.reload();
+                        var redirect = getCookie('redirect');
+                        if(window.location.pathname.indexOf('/user/login') == 0 && redirect != ''){
+                            window.location = 'http://www.vantagewire.com/www' + redirect;
+                        }
+                        else{
+                            window.location.reload();                            
+                        }                        
                     } 
                     else if (rsp.status == 'UNSUB') {
                         $("#login_error").empty().hide().fadeIn('slow').append('<span class="loginmessage">Redirecting...</span>');
@@ -145,125 +170,135 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "dhtmlMenu": { "slide": "slide
 <div id="topStrip"></div><!-- /topStrip -->
 <div id="siteTop">
   <div id="siteTopInner">
-    <div id="logo-wrapper"><a href="/"><img src="/source/www/logo.jpg"></a> </div>
+    <div id="logo-wrapper">
+        <a href="/">
+                        <img src="/source/www/logo.png" alt="VantageWire Logo">
+        </a> 
+    </div>
     <!-- /logo-wrapper -->
     <div id="nav-wrapper">
       <ul id="nav">
-        <li id="nav_portfolio" class="hasdrop"><a href="/portfolio">My Real-Time Portfolio</a>
+        <li id="nav_portfolio" class="hasdrop"><a class="nav-item" href="/portfolio">My Real-Time Portfolio</a>
         <div class="menudrop" id="portfoliodrop">
             <div class="subnav-main-wrapper">
                 <div class="subnav-individual-wrapper">
-                    <br><a href="/portfolio">My Portfolio</a><br>
-                    <a href="/agreements"><span style="color:#060"><em><strong>RT</strong></em></span> Agreements</a><br>
-                    <a href="/account"><span style="color:#060"><em><strong>RT</strong></em></span> Account</a><br>
-                    <a href="/account?a=showBillingDetails">Billing Details</a><br>
-                    <a href="/account?a=showCancel">Cancel Account</a><br>
+                    <ul>
+                        <li><a href="/portfolio">My Portfolio</a></li>
+                        <li><a href="/agreements"><span style="color:#060"><em><strong>RT</strong></em></span> Agreements</a></li>
+                        <li><a href="/account"><span style="color:#060"><em><strong>RT</strong></em></span> Account</a></li>
+                        <li><a href="/account?a=showBillingDetails">Billing Details</a></li>
+                        <li><a href="/account?a=showCancel">Cancel Account</a></li>
+                    </ul>
                 </div>
             </div>
         </div>
         </li>
-        <li id="nav_headlinenews"><a href="/headline_news">Headline News</a></li>
-        <li id="nav_articles"><a href="/articles-authors">Articles</a></li>
-        <li id="nav_vforum"><a href="/vforum">V-Forum</a></li>
-        <li id="nav_stockcenter"><a href="/get_vw_companylist?params=stock_center">Stock Center</a></li>
-                <li id="nav_learning" class="hasdrop"><a href="/markets">Markets</a>
+        <li id="nav_headlinenews"><a class="nav-item" href="/headline_news">Headline News</a></li>
+        <li id="nav_articles"><a class="nav-item" href="/articles-authors">Articles</a></li>
+        <li id="nav_vforum"><a class="nav-item" href="/vforum">V-Forum</a></li>
+        <li id="nav_stockcenter"><a class="nav-item" href="/get_vw_companylist?params=stock_center">Stock Center</a></li>
+                <li id="nav_learning" class="hasdrop"><a class="nav-item" href="/markets">Markets</a>
         <div class="menudrop" id="marketdrop">
             <div class="subnav-main-wrapper">
                 <div class="subnav-individual-wrapper">
-                    <br><a href="/markets">Markets</a><br>
-                    <a href="/commodity/gold">Gold</a><br>
-                    <a href="/commodity/silver">Silver</a><br>
-                    <a href="/commodity/oil">Oil</a><br>
-                    <a href="/commodity/natural-gas">Natural Gas</a><br>
+                    <ul>
+                        <li><a href="/markets">Markets</a></li>
+                        <li><a href="/commodity/gold">Gold</a></li>
+                        <li><a href="/commodity/silver">Silver</a></li>
+                        <li><a href="/commodity/oil">Oil</a></li>
+                        <li><a href="/commodity/natural-gas">Natural Gas</a></li>
+                    </ul>                
                 </div>
             </div>
         </div>
         </li>
-                <li id="nav_sectors" class="hasdrop"><a href="#">Sectors</a>
-        <div class="menudrop" id="sectordrop">
-            <div class="subnav-main-wrapper">
-                <div class="subnav-individual-wrapper">
-                    <table width="740" border="0" cellspacing="0" cellpadding="0" align="center">
-        <tbody><tr>
-            <td width="140" valign="top" class="sep"><div style="padding-top:5px;">
-            <table border="0" cellspacing="0" cellpadding="3" align="center">
-              <tbody><tr>
-                <td width="20"><a href="http://mining.vantagewire.com/"><img src="/_resources/icons/navdrop/icon_mining.jpg" border="0"></a></td>
-                <td width="130"><a class="dropdown-title" href="http://mining.vantagewire.com/">Vantage<em><strong>Mining</strong></em></a></td>
-                </tr>
-              </tbody></table>
-            <a href="http://mining.vantagewire.com/headline_news">Headline News</a><br>
-            <a href="http://mining.vantagewire.com/articles-authors">Articles</a><br>
-            <a href="http://mining.vantagewire.com/vforum">V-Forum</a><br>
-            <a href="http://mining.vantagewire.com/stock_center">Stock Center</a><br>
-            <a href="http://mining.vantagewire.com/markets">Markets</a>
-            </div>
-            </td>
-          <td width="150" valign="top" class="sep"><div class="tablewrapper-dropdown">
-            <table border="0" cellspacing="0" cellpadding="3" align="center">
-              <tbody><tr>
-                <td width="20"><a href="http://green.vantagewire.com/"><img src="/_resources/icons/navdrop/icon_green.jpg" border="0"></a></td>
-                <td width="130"><a class="dropdown-title" href="http://green.vantagewire.com/">Vantage<em><strong>Green</strong></em></a></td>
-                </tr>
-              </tbody></table>
-            <a href="http://green.vantagewire.com/headline_news">Headline News</a><br>
-            <a href="http://green.vantagewire.com/articles-authors">Articles</a><br>
-            <a href="http://green.vantagewire.com/vforum">V-Forum</a><br>
-            <a href="http://green.vantagewire.com/stock_center">Stock Center</a><br>
-            <a href="http://green.vantagewire.com/learning">Investing 101</a></div>
-            
-            </td>
-          <td width="150" valign="top" class="sep"><div class="tablewrapper-dropdown">
-            <table border="0" cellspacing="0" cellpadding="3" align="center">
-              <tbody><tr>
-                <td width="20"><a href="http://energy.vantagewire.com/"><img src="/_resources/icons/navdrop/icon_energy.jpg" border="0"></a></td>
-                <td width="130"><a class="dropdown-title" href="http://energy.vantagewire.com/">Vantage<em><strong>Energy</strong></em></a></td>
-                </tr>
-              </tbody></table>
-            <a href="http://energy.vantagewire.com/headline_news">Headline News</a><br>
-            <a href="http://energy.vantagewire.com/articles-authors">Articles</a><br>
-            <a href="http://energy.vantagewire.com/vforum">V-Forum</a><br>
-            <a href="http://energy.vantagewire.com/stock_center">Stock Center</a><br>
-            <a href="http://energy.vantagewire.com/learning">Investing 101</a></div>
-            
-            </td>
-          <td width="140" valign="top" class="sep"><div class="tablewrapper-dropdown">
-            <table border="0" cellspacing="0" cellpadding="3" align="center">
-              <tbody><tr>
-                <td width="20"><a href="http://tech.vantagewire.com/"><img src="/_resources/icons/navdrop/icon_tech.jpg" border="0"></a></td>
-                <td width="130"><a class="dropdown-title" href="http://tech.vantagewire.com/">Vantage<em><strong>Tech</strong></em></a></td>
-                </tr>
-              </tbody></table>
-            <a href="http://tech.vantagewire.com/headline_news">Headline News</a><br>
-            <a href="http://tech.vantagewire.com/articles-authors">Articles</a><br>
-            <a href="http://tech.vantagewire.com/vforum">V-Forum</a><br>
-            <a href="http://tech.vantagewire.com/stock_center">Stock Center</a><br>
-            <a href="http://www.vantagewire.com/learning">Investing 101</a><br>
-            </div>
-            </td>
-            <td width="200" valign="top"><div class="tablewrapper-dropdown">
-                <table border="0" cellspacing="0" cellpadding="3" align="center">
-                  <tbody><tr>
-                    <td width="20"><a href="http://healthcare.vantagewire.com/"><img src="/_resources/icons/navdrop/icon_lifesciences.jpg" border="0"></a></td>
-                    <td width="180"><a class="dropdown-title" href="http://healthcare.vantagewire.com/">Vantage<em><strong>Healthcare</strong></em></a></td>
-                    </tr>
-                  </tbody></table>
-                <a href="http://healthcare.vantagewire.com/headline_news">Headline News</a><br>
-                <a href="http://healthcare.vantagewire.com/articles-authors">Articles</a><br>
-                <a href="http://healthcare.vantagewire.com/vforum">V-Forum</a><br>
-                <a href="http://healthcare.vantagewire.com/stock_center">Stock Center</a><br>
-                <a href="http://healthcare.vantagewire.com/learning">Investing 101</a>
+                <li id="nav_sectors" class="hasdrop">
+            <a class="nav-item" href="#">Sectors</a>
+            <div class="menudrop" id="sectordrop">
+                <div class="subnav-main-wrapper">
+                    <div class="subnav-individual-wrapper">
+                        <ul class="sectors">
+                            <li class="mining sep">
+                                <table border="0" cellspacing="0" cellpadding="3" align="center">
+                                    <tbody><tr>
+                                        <td><a href="http://mining.vantagewire.com/"><img src="/_resources/icons/navdrop/icon_mining.jpg" border="0"></a></td>
+                                        <td><a class="dropdown-title" href="http://mining.vantagewire.com/">Vantage<em><strong>Mining</strong></em></a></td>
+                                    </tr>
+                                </tbody></table>
+                                <ul>
+                                    <li><a href="http://mining.vantagewire.com/headline_news">Headline News</a></li>
+                                    <li><a href="http://mining.vantagewire.com/articles-authors">Articles</a></li>
+                                    <li><a href="http://mining.vantagewire.com/vforum">V-Forum</a></li>
+                                    <li><a href="http://mining.vantagewire.com/stock_center">Stock Center</a></li>
+                                    <li><a href="http://mining.vantagewire.com/markets">Markets</a></li>
+                                </ul>
+                            </li>
+                            <li class="green sep">
+                                <table border="0" cellspacing="0" cellpadding="3" align="center">
+                                    <tbody><tr>
+                                        <td><a href="http://green.vantagewire.com/"><img src="/_resources/icons/navdrop/icon_green.jpg" border="0"></a></td>
+                                        <td><a class="dropdown-title" href="http://green.vantagewire.com/">Vantage<em><strong>Green</strong></em></a></td>
+                                    </tr>
+                                </tbody></table>
+                                <ul>
+                                    <li><a href="http://green.vantagewire.com/headline_news">Headline News</a></li>
+                                    <li><a href="http://green.vantagewire.com/articles-authors">Articles</a></li>
+                                    <li><a href="http://green.vantagewire.com/vforum">V-Forum</a></li>
+                                    <li><a href="http://green.vantagewire.com/stock_center">Stock Center</a></li>
+                                    <li><a href="http://green.vantagewire.com/learning">Investing 101</a></li>
+                                </ul>
+                            </li>
+                            <li class="energy sep">
+                                <table border="0" cellspacing="0" cellpadding="3" align="center">
+                                    <tbody><tr>
+                                        <td><a href="http://energy.vantagewire.com/"><img src="/_resources/icons/navdrop/icon_energy.jpg" border="0"></a></td>
+                                        <td><a class="dropdown-title" href="http://energy.vantagewire.com/">Vantage<em><strong>Energy</strong></em></a></td>
+                                    </tr>
+                                </tbody></table>
+                                <ul>
+                                    <li><a href="http://energy.vantagewire.com/headline_news">Headline News</a></li>
+                                    <li><a href="http://energy.vantagewire.com/articles-authors">Articles</a></li>
+                                    <li><a href="http://energy.vantagewire.com/vforum">V-Forum</a></li>
+                                    <li><a href="http://energy.vantagewire.com/stock_center">Stock Center</a></li>
+                                    <li><a href="http://energy.vantagewire.com/learning">Investing 101</a></li>                                                        
+                                </ul>
+                            </li>
+                            <li class="tech sep">
+                                <table border="0" cellspacing="0" cellpadding="3" align="center">
+                                    <tbody><tr>
+                                        <td><a href="http://tech.vantagewire.com/"><img src="/_resources/icons/navdrop/icon_tech.jpg" border="0"></a></td>
+                                        <td><a class="dropdown-title" href="http://tech.vantagewire.com/">Vantage<em><strong>Tech</strong></em></a></td>
+                                    </tr>
+                                </tbody></table>
+                                <ul>
+                                    <li><a href="http://tech.vantagewire.com/headline_news">Headline News</a></li>
+                                    <li><a href="http://tech.vantagewire.com/articles-authors">Articles</a></li>
+                                    <li><a href="http://tech.vantagewire.com/vforum">V-Forum</a></li>
+                                    <li><a href="http://tech.vantagewire.com/stock_center">Stock Center</a></li>
+                                    <li><a href="http://www.vantagewire.com/learning">Investing 101</a></li>
+                                </ul>
+                            </li>
+                            <li class="healthcare">
+                                <table border="0" cellspacing="0" cellpadding="3">
+                                    <tbody><tr>
+                                        <td><a href="http://healthcare.vantagewire.com/"><img src="/_resources/icons/navdrop/icon_lifesciences.jpg" border="0"></a></td>
+                                        <td><a class="dropdown-title" href="http://healthcare.vantagewire.com/">Vantage<em><strong>Healthcare</strong></em></a></td>
+                                    </tr>
+                                </tbody></table>
+                                <ul>
+                                    <li><a href="http://healthcare.vantagewire.com/headline_news">Headline News</a></li>
+                                    <li><a href="http://healthcare.vantagewire.com/articles-authors">Articles</a></li>
+                                    <li><a href="http://healthcare.vantagewire.com/vforum">V-Forum</a></li>
+                                    <li><a href="http://healthcare.vantagewire.com/stock_center">Stock Center</a></li>
+                                    <li><a href="http://healthcare.vantagewire.com/learning">Investing 101</a></li>
+                                </ul>
+                            </li>                          
+                        </ul> <!-- /ul#sectors -->
+                        <div style="clear:both"></div>
+                    </div>
                 </div>
-                
-            </td>
-          
-        </tr>
-      </tbody></table>
-      
-                </div>
             </div>
-        </div>
-        </li>
+        </li> <!-- div#nav_sectors -->
       </ul>
     </div>
     <!-- /nav-wrapper -->
@@ -279,31 +314,10 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "dhtmlMenu": { "slide": "slide
             <span></span>
             </li>
         </ul>
-                <style type="text/css">
-           #flags{
-               float:right;
-               padding:0;
-               margin: 12px 0 0 0;
-               line-height: 11px;               
-           }
-           #flags li{
-               float:left;
-               height:11px;               
-               padding-left: 5px;
-               padding-top: 0; 
-               margin-right:5px;
-               border-left: 1px solid #4a4a4a;               
-               list-style-type: none;               
-           }
-           #flags li.first{
-                padding-left: 0;
-                border: 0;
-           }
-        </style>
-        <ul id="flags">
-			            <li class="first"><a href="/?site=CA" title="Visit www.vantagewire.ca"><img src="/_resources/icons/ca.png"></a></li>
-            <li><a href="/?site=COM" title="Visit www.vantagewire.com"><img src="/_resources/icons/us.png"></a></li>
-                    </ul> 
+                <ul id="flags">
+			                        <li class="first"><a href="/page/privacy-policy?site=ca" title="Visit www.vantagewire.ca"><img src="/_resources/icons/ca.png"></a></li>            
+                        <li class="last"><a href="/page/privacy-policy?site=com" title="Visit www.vantagewire.com"><img src="/_resources/icons/us.png"></a></li>         
+        </ul> 
         <div class="clearRight"></div>   
         <div id="loginbox">
             <form action="" id="loginboxform" method="post">
@@ -335,7 +349,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "dhtmlMenu": { "slide": "slide
     <!-- /account -->
     <div id="sitesearch">
       <form action="company" method="get" id="searchForm">
-        <input name="symbol" type="text" class="ac_input hinted" autocomplete="off" id="quoteSearchDrop" title="Enter symbol or company name here..." onfocus="this.value=''">
+        <input name="symbol" type="text" class="ac_input" autocomplete="off" id="quoteSearchDrop" title="Enter symbol or company name here..." onfocus="this.value=''">
         <input type="hidden" name="searchtype" id="searchtype" value="Quote">
         <input type="hidden" name="ticker" id="ticker" value="">
         <div id="selectsearch">
@@ -351,20 +365,20 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "dhtmlMenu": { "slide": "slide
     <div class="clear"></div>
     <div id="banner-wrapper">
       <div id="banner">
-      <table width="965" border="0" cellspacing="0" cellpadding="0">
+      <a style="z-index:100;width:899px; height:119px; position:absolute; top:15px; left:10px" target="_blank" href="http://www.vantagewire.com/jump/update/358"></a>
+  <table style="z-index:-1000" width="965" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td style="position:relative" valign="top">
-        <a style="width:899px; height:119px; position:absolute; top:0; left:0" target="_blank" href="http://www.vantagewire.com/jump/update/279"></a><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="899" height="119">
-		<param name="movie" value="/_resources/banner/banner_thg.swf">
+    <td valign="top"><object style="z-index:-50" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="899" height="119">
+		<param name="movie" value="/_resources/banner/banner_hao.swf">
 		<param name="quality" value="high">
-		<param name="wmode" value="transparent">
-		<embed src="/_resources/banner/banner_thg.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="899" height="119" wmode="transparent">
+		<param name="wmode" value="opaque">
+		<embed src="/_resources/banner/banner_hao.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="899" height="119" wmode="opaque">
 		</object></td>
     <td>&nbsp;</td>
-    <td valign="top"><a href="http://www.threegold.ca/" target="_blank"><img style="margin-bottom:2px" src="/source/www/bg_visitwebsite.jpg"></a><br><a href="/company?cid=2908&amp;quicktabs_1=2"><img src="/source/www/bg_viewprofile.jpg"></a></td> 
+    <td valign="top"><a href="http://www.habaneroresources.com/" target="_blank"><img style="margin-bottom:2px" src="/source/www/bg_visitwebsite.jpg"></a><br><a href="/company?cid=1078&amp;quicktabs_1=2"><img src="/source/www/bg_viewprofile.jpg"></a></td> 
   </tr>
 </tbody></table> 
-       </div>
+      </div>
       <!-- /banner -->
       <div class="clear"></div>
     </div>
@@ -441,7 +455,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "dhtmlMenu": { "slide": "slide
                 
                 <div id="colRight">
                 
-					<div class="rightbox-wrapper">                
+					<div class="rightbox-wrapper" id="market-overview">                
 		<div class="rightbox-header">
 	Market Overview		</div><!-- /rightbox-header -->
 		<div class="rightbox-body">
@@ -459,25 +473,25 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "dhtmlMenu": { "slide": "slide
 			<a href="javascript: void(0);">1Y</a></li>
 	</ul>
 	<div id="done-div">
-<script type="text/javascript" src="http://app.quotemedia.com/quotetools/miniQuotes.go?toolWidth=280&amp;chhig=180&amp;ents=wmonly&amp;symbols=^DJI&amp;symbols=^NYSE&amp;symbols=^NASD&amp;symbols=^XAX&amp;symbols=^SPX&amp;symbols=^TSX:CA&amp;symbols=^N225&amp;override=Dow,NYSE,NASDAQ,AMEX,SP500,TSX,Nikkei225&amp;lastChgDecimal=2&amp;overridenf=0.00&amp;webmasterId=94743&amp;section=mini_quote&amp;theme=theme1&amp;chscale=1d"></script>	</div>
+<script type="text/javascript" src="http://app.quotemedia.com/quotetools/miniQuotes.go?toolWidth=280&amp;chhig=180&amp;ents=wmonly&amp;symbols=^DJI&amp;symbols=^NYSE&amp;symbols=^NASD&amp;symbols=^XAX&amp;symbols=^SPX&amp;symbols=^TSX:CA&amp;symbols=^TSXV&amp;symbols=^N225&amp;override=Dow,NYSE,NASDAQ,AMEX,SP500,TSX,TSX-V,Nikkei225&amp;lastChgDecimal=2&amp;overridenf=0.00&amp;webmasterId=94743&amp;section=mini_quote&amp;theme=theme1&amp;chscale=1d"></script>	</div>
 	<div id="dfive-div">
-<script type="text/javascript" src="http://app.quotemedia.com/quotetools/miniQuotes.go?toolWidth=280&amp;chhig=180&amp;ents=wmonly&amp;symbols=^DJI&amp;symbols=^NYSE&amp;symbols=^NASD&amp;symbols=^XAX&amp;symbols=^SPX&amp;symbols=^TSX:CA&amp;symbols=^N225&amp;override=Dow,NYSE,NASDAQ,AMEX,SP500,TSX,Nikkei225&amp;lastChgDecimal=2&amp;overridenf=0.00&amp;webmasterId=94743&amp;section=mini_quote&amp;theme=theme1&amp;chscale=5d"></script>	</div>
+<script type="text/javascript" src="http://app.quotemedia.com/quotetools/miniQuotes.go?toolWidth=280&amp;chhig=180&amp;ents=wmonly&amp;symbols=^DJI&amp;symbols=^NYSE&amp;symbols=^NASD&amp;symbols=^XAX&amp;symbols=^SPX&amp;symbols=^TSX:CA&amp;symbols=^TSXV&amp;symbols=^N225&amp;override=Dow,NYSE,NASDAQ,AMEX,SP500,TSX,TSX-V,Nikkei225&amp;lastChgDecimal=2&amp;overridenf=0.00&amp;webmasterId=94743&amp;section=mini_quote&amp;theme=theme1&amp;chscale=5d"></script>	</div>
 	<div id="mone-div">
-<script type="text/javascript" src="http://app.quotemedia.com/quotetools/miniQuotes.go?toolWidth=280&amp;chhig=180&amp;ents=wmonly&amp;symbols=^DJI&amp;symbols=^NYSE&amp;symbols=^NASD&amp;symbols=^XAX&amp;symbols=^SPX&amp;symbols=^TSX:CA&amp;symbols=^N225&amp;override=Dow,NYSE,NASDAQ,AMEX,SP500,TSX,Nikkei225&amp;lastChgDecimal=2&amp;overridenf=0.00&amp;webmasterId=94743&amp;section=mini_quote&amp;theme=theme1&amp;chscale=1m"></script>	</div>
+<script type="text/javascript" src="http://app.quotemedia.com/quotetools/miniQuotes.go?toolWidth=280&amp;chhig=180&amp;ents=wmonly&amp;symbols=^DJI&amp;symbols=^NYSE&amp;symbols=^NASD&amp;symbols=^XAX&amp;symbols=^SPX&amp;symbols=^TSX:CA&amp;symbols=^TSXV&amp;symbols=^N225&amp;override=Dow,NYSE,NASDAQ,AMEX,SP500,TSX,TSX-V,Nikkei225&amp;lastChgDecimal=2&amp;overridenf=0.00&amp;webmasterId=94743&amp;section=mini_quote&amp;theme=theme1&amp;chscale=1m"></script>	</div>
 	<div id="mthree-div">
-<script type="text/javascript" src="http://app.quotemedia.com/quotetools/miniQuotes.go?toolWidth=280&amp;chhig=180&amp;ents=wmonly&amp;symbols=^DJI&amp;symbols=^NYSE&amp;symbols=^NASD&amp;symbols=^XAX&amp;symbols=^SPX&amp;symbols=^TSX:CA&amp;symbols=^N225&amp;override=Dow,NYSE,NASDAQ,AMEX,SP500,TSX,Nikkei225&amp;lastChgDecimal=2&amp;overridenf=0.00&amp;webmasterId=94743&amp;section=mini_quote&amp;theme=theme1&amp;chscale=3m"></script>	</div>
+<script type="text/javascript" src="http://app.quotemedia.com/quotetools/miniQuotes.go?toolWidth=280&amp;chhig=180&amp;ents=wmonly&amp;symbols=^DJI&amp;symbols=^NYSE&amp;symbols=^NASD&amp;symbols=^XAX&amp;symbols=^SPX&amp;symbols=^TSX:CA&amp;symbols=^TSXV&amp;symbols=^N225&amp;override=Dow,NYSE,NASDAQ,AMEX,SP500,TSX,TSX-V,Nikkei225&amp;lastChgDecimal=2&amp;overridenf=0.00&amp;webmasterId=94743&amp;section=mini_quote&amp;theme=theme1&amp;chscale=3m"></script>	</div>
 	<div id="yone-div">
-<script type="text/javascript" src="http://app.quotemedia.com/quotetools/miniQuotes.go?toolWidth=280&amp;chhig=180&amp;ents=wmonly&amp;symbols=^DJI&amp;symbols=^NYSE&amp;symbols=^NASD&amp;symbols=^XAX&amp;symbols=^SPX&amp;symbols=^TSX:CA&amp;symbols=^N225&amp;override=Dow,NYSE,NASDAQ,AMEX,SP500,TSX,Nikkei225&amp;lastChgDecimal=2&amp;overridenf=0.00&amp;webmasterId=94743&amp;section=mini_quote&amp;theme=theme1&amp;chscale=1y"></script>	</div>
+<script type="text/javascript" src="http://app.quotemedia.com/quotetools/miniQuotes.go?toolWidth=280&amp;chhig=180&amp;ents=wmonly&amp;symbols=^DJI&amp;symbols=^NYSE&amp;symbols=^NASD&amp;symbols=^XAX&amp;symbols=^SPX&amp;symbols=^TSX:CA&amp;symbols=^TSXV&amp;symbols=^N225&amp;override=Dow,NYSE,NASDAQ,AMEX,SP500,TSX,TSX-V,Nikkei225&amp;lastChgDecimal=2&amp;overridenf=0.00&amp;webmasterId=94743&amp;section=mini_quote&amp;theme=theme1&amp;chscale=1y"></script>	</div>
 </div>		</div><!-- /rightbox-body -->
 		<div class="rightbox-footer"></div><!-- /rightbox-footer -->
 	
 	</div><!-- /rightbox-wrapper -->
 	          <div id="rightSignup"> <a class="signupRt" href="/user/register">Signup for FREE Real-Time Quotes</a> <a class="signupNews" href="/register-news-alerts/">Signup for V-Wire News Alerts Only</a> </div>
-          	<div class="rightbox-wrapper">                
+          	<div class="rightbox-wrapper" id="stock-center-movers">                
 		<div class="rightbox-header">
 	Stock Center Movers		</div><!-- /rightbox-header -->
 		<div class="rightbox-body">
-						 <table width="100%" style="font-size:11px;" cellpadding="4" cellspacing="0"><tbody><tr style="background-color:#efefef"><td valign="top" class="">Threegold Resources Inc. <a href="/company?symbol=THG:CA">(THG:CA)</a></td><td class="" valign="top" align="center">$0.280</td><td class="" valign="top" align="center"><div style="color:red">-1.75%</div></td></tr><tr style="background-color:"><td valign="top" class="">Keegan Resources Inc <a href="/company?symbol=KGN">(KGN)</a></td><td class="" valign="top" align="center">$8.280</td><td class="" valign="top" align="center"><div style="color:red">-2.47%</div></td></tr><tr style="background-color:#efefef"><td valign="top" class="">Great Panther Silver Ltd. <a href="/company?symbol=GPL">(GPL)</a></td><td class="" valign="top" align="center">$2.910</td><td class="" valign="top" align="center"><div style="color:red">-2.68%</div></td></tr><tr style="background-color:"><td valign="top" class="">Douglas Lake Minerals Inc. <a href="/company?symbol=DLKM">(DLKM)</a></td><td class="" valign="top" align="center">$0.410</td><td class="" valign="top" align="center"><div style="color:red">-6.29%</div></td></tr><tr><td colspan="3" align="center"><a href="/get_vw_companylist?params=stock_center"><strong>Visit the stock center</strong></a></td></tr></tbody></table>
+						 <table width="100%" style="font-size:11px;" cellpadding="4" cellspacing="0"><tbody><tr style="background-color:#efefef"><td valign="top" class="">Canyon Copper Corp. <a href="/company?symbol=CNC:CA">(CNC:CA)</a></td><td class="" valign="top" align="center">$0.170</td><td class="" valign="top" align="center"><div style="color:green">0.00%</div></td></tr><tr style="background-color:"><td valign="top" class="">Prophecy Platinum Corp. <a href="/company?symbol=NKL:CA">(NKL:CA)</a></td><td class="" valign="top" align="center">$2.500</td><td class="" valign="top" align="center"><div style="color:red">-0.79%</div></td></tr><tr style="background-color:#efefef"><td valign="top" class="">Angkor Gold Corp. <a href="/company?symbol=ANK:CA">(ANK:CA)</a></td><td class="" valign="top" align="center">$0.320</td><td class="" valign="top" align="center"><div style="color:red">-3.03%</div></td></tr><tr style="background-color:"><td valign="top" class="">Habanero Resources Inc. <a href="/company?symbol=HAO:CA">(HAO:CA)</a></td><td class="" valign="top" align="center">$0.085</td><td class="" valign="top" align="center"><div style="color:red">-5.56%</div></td></tr><tr><td colspan="3" align="center"><a href="/get_vw_companylist?params=stock_center"><strong>Visit the stock center</strong></a></td></tr></tbody></table>
 		</div><!-- /rightbox-body -->
 		<div class="rightbox-footer"></div><!-- /rightbox-footer -->
 	
@@ -493,7 +507,7 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "dhtmlMenu": { "slide": "slide
                     </div>
                     <div class="rightbox-body">                   
                         <div id="stats">
-                            <div id="mostsearched" style="display: block;">
+                            <div id="mostsearched">
                                 <div id="mostsearched-nav">
                                     <ul class="selectornav">
                                         <li class="active"><a href="javascript:showMostSearched('today');">Today</a></li>
@@ -514,48 +528,48 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "dhtmlMenu": { "slide": "slide
 	<tr class="qmmt_cycles">
             		<td class="mostQuotes_company">
                     	<span class="mostQuotes_companyname">
-                        	<a href="/company?symbol=INT:CA&amp;companyname=Intertainment Media Inc.">Intertainment Media Inc.
-                        </a></span><a href="/company?symbol=INT:CA&amp;companyname=Intertainment Media Inc.">
-                        <span class="mostQuotes_companyquotes">(INT:CA)</span></a></td>
-					<td class="mostQuotes_down">1.00</td>
+                        	<a href="/company?symbol=FSH:CA&amp;companyname=Agrimarine Holdings Inc.">Agrimarine Holdings Inc.
+                        </a></span><a href="/company?symbol=FSH:CA&amp;companyname=Agrimarine Holdings Inc.">
+                        <span class="mostQuotes_companyquotes">(FSH:CA)</span></a></td>
+					<td>0.235</td>
+					<td>0.00</td>
+			  	</tr><tr class="qmmt_mains">
+            		<td class="mostQuotes_company">
+                    	<span class="mostQuotes_companyname">
+                        	<a href="/company?symbol=BSK:CA&amp;companyname=Blue Sky Uranium Corp.">Blue Sky Uranium Corp.
+                        </a></span><a href="/company?symbol=BSK:CA&amp;companyname=Blue Sky Uranium Corp.">
+                        <span class="mostQuotes_companyquotes">(BSK:CA)</span></a></td>
+					<td class="mostQuotes_down">0.085</td>
 					<td class="mostQuotes_down">-0.01</td>
-			  	</tr><tr class="qmmt_mains">
-            		<td class="mostQuotes_company">
-                    	<span class="mostQuotes_companyname">
-                        	<a href="/company?symbol=PRE:CA&amp;companyname=Pacific Rubiales Energy Corp.">Pacific Rubiales Energy Corp.
-                        </a></span><a href="/company?symbol=PRE:CA&amp;companyname=Pacific Rubiales Energy Corp.">
-                        <span class="mostQuotes_companyquotes">(PRE:CA)</span></a></td>
-					<td class="mostQuotes_up">26.41</td>
-					<td class="mostQuotes_up">0.05</td>
 			  	</tr><tr class="qmmt_cycles">
-            		<td class="mostQuotes_company">
-                    	<span class="mostQuotes_companyname">
-                        	<a href="/company?symbol=TRE:CA&amp;companyname=SinoForest Corp">SinoForest Corp
-                        </a></span><a href="/company?symbol=TRE:CA&amp;companyname=SinoForest Corp">
-                        <span class="mostQuotes_companyquotes">(TRE:CA)</span></a></td>
-					<td class="mostQuotes_down">5.23</td>
-					<td class="mostQuotes_down">-9.23</td>
-			  	</tr><tr class="qmmt_mains">
             		<td class="mostQuotes_company">
                     	<span class="mostQuotes_companyname">
                         	<a href="/company?symbol=TSU:CA&amp;companyname=Transeuro Energy Corp.">Transeuro Energy Corp.
                         </a></span><a href="/company?symbol=TSU:CA&amp;companyname=Transeuro Energy Corp.">
                         <span class="mostQuotes_companyquotes">(TSU:CA)</span></a></td>
-					<td class="mostQuotes_down">0.08</td>
+					<td class="mostQuotes_down">0.06</td>
 					<td class="mostQuotes_down">0.00</td>
+			  	</tr><tr class="qmmt_mains">
+            		<td class="mostQuotes_company">
+                    	<span class="mostQuotes_companyname">
+                        	<a href="/company?symbol=PT:CNX&amp;companyname=Pacific Therapeutics Ltd">Pacific Therapeutics Ltd
+                        </a></span><a href="/company?symbol=PT:CNX&amp;companyname=Pacific Therapeutics Ltd">
+                        <span class="mostQuotes_companyquotes">(PT:CNX)</span></a></td>
+					<td class="mostQuotes_down">0.17</td>
+					<td class="mostQuotes_down">-0.005</td>
 			  	</tr><tr class="qmmt_cycles">
             		<td class="mostQuotes_company">
                     	<span class="mostQuotes_companyname">
-                        	<a href="/company?symbol=CNE:CA&amp;companyname=Canacol Energy Ltd.">Canacol Energy Ltd.
-                        </a></span><a href="/company?symbol=CNE:CA&amp;companyname=Canacol Energy Ltd.">
-                        <span class="mostQuotes_companyquotes">(CNE:CA)</span></a></td>
-					<td class="mostQuotes_down">1.26</td>
+                        	<a href="/company?symbol=INT:CA&amp;companyname=Intertainment Media Inc.">Intertainment Media Inc.
+                        </a></span><a href="/company?symbol=INT:CA&amp;companyname=Intertainment Media Inc.">
+                        <span class="mostQuotes_companyquotes">(INT:CA)</span></a></td>
+					<td class="mostQuotes_down">0.52</td>
 					<td class="mostQuotes_down">0.00</td>
 			  	</tr>    </tbody>
 </table>
 <div class="mostQuotes_link"><a href="/get_vw_company?params=company_quote&amp;filters=50,">View More [+]</a></div>                                 </div>
                             </div>
-                        	   								<div id="mostactives" style="display: none;">
+                        	   								<div id="mostactives">
 									<div id="MarketMoversNav">
 										<ul class="selectornav">
 																						<li><a href="javascript:showMarketMovers('NSD');">NASDAQ</a></li>
@@ -571,31 +585,24 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "dhtmlMenu": { "slide": "slide
                     </div>
                     <div class="rightbox-footer"></div>
      
-                </div>	<div class="rightbox-wrapper">                
+                </div>	<div class="rightbox-wrapper" id="most-active-vforums">                
 		<div class="rightbox-header">
 	Most Active V-Forums		</div><!-- /rightbox-header -->
 		<div class="rightbox-body">
 						 <div id="active_forums"><ul>
-<li><a href="/company?cid=2162&amp;quicktabs_1=1#new">Solid Resources Ltd (SRW:CA)</a></li>
+<li><a href="/company?cid=1646&amp;quicktabs_1=1#new">Neptune Technologies &amp; Bioressources Inc (NTB:CA)</a></li>
 
-<li><a href="/company?cid=14258&amp;quicktabs_1=1#new">Carfinco Income Fund (CFN.UN:CA)</a></li>
+<li><a href="/company?cid=7624&amp;quicktabs_1=1#new">Ventripoint Diagnostics Ltd. (VPT:CA)</a></li>
 
-<li><a href="/company?cid=14409&amp;quicktabs_1=1#new">Talecris Biotherapeutics Holdings Corp. (TLCR)</a></li>
+<li><a href="/company?cid=1744&amp;quicktabs_1=1#new">Petrolympic Ltd. (PCQ:CA)</a></li>
 
-<li><a href="/company?cid=6691&amp;quicktabs_1=1#new">Intertainment Media Inc. (INT:CA)</a></li>
+<li><a href="/company?cid=2194&amp;quicktabs_1=1#new">Suncor Energy Inc. (SU:CA)</a></li>
 
 <li><a href="/company?cid=4165&amp;quicktabs_1=1#new">Smartcool Systems Inc. (SSC:CA)</a></li>
 </ul></div>		</div><!-- /rightbox-body -->
 		<div class="rightbox-footer"></div><!-- /rightbox-footer -->
 	
 	</div><!-- /rightbox-wrapper -->
-		<div class="rightbox-headerSlim"></div><!-- /rightbox-header -->
-	<div class="rightbox-bodySlim"><img src="http://www.vantagewire.com/source/btn_social_twitter_facebook.jpg" width="304" height="74" border="0" usemap="#Map">
-<map name="Map" id="Map">
-  <area shape="rect" coords="13,7,144,53" href="http://twitter.com/vantagewire" target="_blank">
-  <area shape="rect" coords="158,7,287,54" href="http://www.facebook.com/pages/Vancouver-BC/VantageWire/150449244976363" target="_blank">
-</map></div><!-- /rightbox-body -->
-	<div class="rightbox-footerSlim"></div><!-- /rightbox-footer -->
 	
                 </div><!-- /colRight -->
            
@@ -607,19 +614,37 @@ jQuery.extend(Drupal.settings, { "basePath": "/", "dhtmlMenu": { "slide": "slide
 
 <div class="clear"></div>
 <div id="footerWrapper">
-	<div id="footer">
-    
-    	<div class="floatLeft">© 2008-2011 Copyright <a href="/">Vantage Communications Ltd.</a> All Rights Reserved.<br>
-Delayed and real-time market data powered by QuoteMedia, Inc.</div>
-		<div class="floatRight">              <ul id="menufooter"><li class="menu-1756 first"><a href="/" title="">Home</a></li>
-<li class="menu-1775"><a href="/faq" title="Frequently Asked Questions">FAQ</a></li>
-<li class="menu-1638"><a href="/page/contact-us" title="Contact Us">Contact</a></li>
-<li class="menu-1639"><a href="/page/disclaimer" title="Disclaimer">Disclaimer</a></li>
-<li class="menu-1640"><a href="/page/terms-conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
-<li class="menu-1641 active-trail last active"><a href="/page/privacy-policy" title="Privacy Policy" class="active">Privacy Policy</a></li>
-</ul>              </div>
-    
-    </div><!-- /footer -->
+  <div id="footer">
+    <div class="floatLeft" style="font-size: 11px">
+      <img src="/_resources/icons/vantage_v.png" style="float: left;margin-top: -10px;">      
+      © 2008-2011 Copyright <a href="/">Vantage Communications Ltd.</a> All Rights Reserved.<br>
+      Delayed and real-time market data powered by QuoteMedia, Inc.
+    </div>
+    <div class="floatRight">
+            <ul id="menufooter"><li class="menu-1756 first"><a href="/" title="">Home</a></li>
+<li class="menu-1775"><a href="/faq" title="
+	Frequently Asked Questions
+">FAQ</a></li>
+<li class="menu-1638"><a href="/page/contact-us" title="
+	Contact Us
+">Contact</a></li>
+<li class="menu-1639"><a href="/page/disclaimer" title="
+	Disclaimer
+">Disclaimer</a></li>
+<li class="menu-1640"><a href="/page/terms-conditions" title="
+	Terms &amp;amp; Conditions
+">Terms &amp; Conditions</a></li>
+<li class="menu-1641 active-trail last active"><a href="/page/privacy-policy" title="
+	Privacy Policy
+" class="active">Privacy Policy</a></li>
+</ul>          <ul id="footer-social">
+        <li class="facebook"><a href="http://www.facebook.com/pages/VantageWire/150449244976363">Facebook</a></li>        
+        <li class="twitter"><a href="http://twitter.com/#!/vantagewire">Twitter</a></li>
+        <li class="linkedin"><a href="http://www.linkedin.com/company/vantagewire">LinkedIn</a></li>
+        <li class="youtube"><a href="http://www.youtube.com/vantageclips">Youtube</a></li>
+    </ul>      
+    </div>
+  </div><!-- /footer -->
 </div><!-- /footerWrapper -->
 <map name="loginMap" id="loginMap">
   <area shape="rect" coords="23,0,124,42" href="javascript:toggleMe('#loginbox');"><area shape="rect" coords="134,1,216,31" href="/user/register">
@@ -639,7 +664,7 @@ jQuery(document).ready(function() {
 	swapBlockNav = function(someSource) {
 		$(someSource + " a").click(
 			function() {
-				$(someSource + " a:all").removeClass("active");
+				$(someSource + " a").removeClass("active");
 				$(this).addClass("active");
 			}
 		);	
@@ -662,14 +687,14 @@ jQuery(document).ready(function() {
 	
 	$("#mostnav a").click(
 		function() {
-			$("#mostnav a:all").removeClass("active");
+			$("#mostnav a").removeClass("active");
 			$(this).addClass("active");
 		}
 	);
 	
 	$("#currenciescommodities-nav a").click(
 		function() {
-			$("#currenciescommodities-nav a:all").removeClass("active");
+			$("#currenciescommodities-nav a").removeClass("active");
 			$(this).addClass("active");
 		}
 	);
@@ -678,7 +703,7 @@ jQuery(document).ready(function() {
 	showHottestUser = function(period) {	
 		$("#hottestusers-nav li").click(
 			function() {
-				$("#hottestusers-nav li:all").removeClass("active");
+				$("#hottestusers-nav li").removeClass("active");
 				$(this).addClass("active");
 			}
 		);
@@ -695,7 +720,7 @@ jQuery(document).ready(function() {
 	showMostSearched = function(period) {		
 		$("#mostsearched-nav li").click(
 			function() {
-				$("#mostsearched-nav li:all").removeClass("active");
+				$("#mostsearched-nav li").removeClass("active");
 				$(this).addClass("active");
 			}
 		);
@@ -720,7 +745,7 @@ jQuery(document).ready(function() {
 	
 	$("#MarketMoversNav li").click(
 		function() {
-			$("#MarketMoversNav li:all").removeClass("active");
+			$("#MarketMoversNav li").removeClass("active");
 			$(this).addClass("active");
 		}
 	);
@@ -783,62 +808,13 @@ jQuery(document).ready(function() {
 	}); 
 	
 	selectAll = function(itemId) {
-		itemId = itemId + " input:all";
+		itemId = itemId + " input";
 		$(itemId).attr('checked', true);
-	}
-	
-	$("#nav_sectors").mouseenter(function() {$("#nav_sectors div").show();}).mouseleave(function() {closeDrop();});
-	$("#nav_learning").mouseenter(function() {$("#nav_learning div").show();}).mouseleave(function() {closeDrop();});
-	$("#nav_learningOn").mouseenter(function() {$("#nav_learning div").show();}).mouseleave(function() {closeDrop();});
-	$("#nav_portfolio").mouseenter(function() {$("#nav_portfolio div").show();}).mouseleave(function() {closeDrop();});
-	
-	var activeNav = '';
-	$("#nav li.hasdrop").mouseover(
-		function() {
-			var attrId = $(this).attr("id");
-			activeNav = "#" + attrId;
-			//alert(activeNav);
-			if ( attrId.substring(attrId.length-2, attrId.length) != 'On') {
-				
-				var newDiv = "#" + attrId + 'div';
-				var newAttr = attrId + 'On';
-				$(this).attr("id", newAttr);
-				$(newDiv).show();
-			}
-			
-			var sss = "#" + attrId + " div";
-			$(sss).show();
-			
-		}
-	);
-	
-	
-	$("#nav li:not(.hasdrop)").mouseover(
-		function() {
-			closeDrop();
-			var attrId = $(this).attr("id");
-			activeNav = "#" + attrId;
-		}
-	);
-		
-	closeDrop = function() {
-		$("#nav li div").hide();
-		if (activeNav != '') {
-			if (activeNav.substring(activeNav.length-2, activeNav.length) == 'On') {
-				activeNav = activeNav.substring(0, activeNav.length-2);
-			}
-			var curNav= activeNav + 'On';
-			var activeDrop = activeNav + 'div';
-			activeNav = activeNav.substring(1, activeNav.length);
-			$(curNav).attr("id", activeNav);
-			$(activeDrop).hide();
-			activeNav = '';
-		}
 	}
 	
 	// hotstocks
 	showCompanyHotStocksTab = function(divName, companyId) {
-		var divToShowWrapper = ".hs_wrapper" + companyId + " div:all";
+		var divToShowWrapper = ".hs_wrapper" + companyId + " div";
 		var divToShow = "#" + divName + companyId + "div";
 		var targetList = "#hsnavwrapper" + companyId + " ul li a";
 		var activateNavItem = "#hsnavwrapper" + companyId + " ul li#" + divName + companyId + " a";
@@ -864,7 +840,7 @@ jQuery(document).ready(function() {
 		$(divWrapper + " .main").hide();
 		$(divToShow).show();
 		divWrapperNav = divWrapper + '-nav';
-		$(divWrapperNav + " li:all").removeClass("active");
+		$(divWrapperNav + " li").removeClass("active");
 		var curLiClick = divToShow + '-li';
 		$(curLiClick).addClass("active");
 		
@@ -977,7 +953,7 @@ var google_conversion_value = 0;
                 var RefUrl="";
                 RefUrl = (RefUrl.length > 2) ? RefUrl.replace(/\s/,'_') : location.href;
                 document.write('<img style="visibility:hidden;width:1;height:1;" src="https://braintrack.industrybrains.com/sc/RsJavaScript.aspx?accountID='+escape(AccountID)+';actionId='+escape(ActionType)+';refUrl='+escape(RefUrl)+'" />');
-</script><img style="visibility:hidden;width:1;height:1;" src="https://braintrack.industrybrains.com/sc/RsJavaScript.aspx?accountID=1132967643;actionId=LED;refUrl=https%3A//web.archive.org/web/20110603202106id_/http%253A//www.vantagewire.com/page/privacy-policy">
+</script><img style="visibility:hidden;width:1;height:1;" src="https://braintrack.industrybrains.com/sc/RsJavaScript.aspx?accountID=1132967643;actionId=LED;refUrl=https%3A//web.archive.org/web/20111202061111id_/http%253A//www.vantagewire.com/page/privacy-policy">
 <!--End IndustryBrains Tracking Tag-->
 <div id="user_relationships_popup_form" style="display: none"></div>
 <div style="display: none;">
@@ -988,4 +964,4 @@ var google_conversion_value = 0;
 </div>
 
 
-<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div><div class="ac_results" style="display: none; position: absolute;"></div></body></html>
+</body></html>
