@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ovaustralia.com privacy policy that was archived on 2011-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110418195116id_/http%3A//ovaustralia.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ovaustralia.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202111459id_/http%3A//ovaustralia.com/privacy.aspx) for the most accurate reproduction.*
 
-# Australia.com
+# ovaustralia.com
 
 **and all related sites owned, operated or controlled by "OVAUSTRALIA"**
 
