@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the giffgaff.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519075559id_/http%3A//giffgaff.com/boiler-plate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giffgaff.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202172300id_/http%3A//giffgaff.com/boiler-plate/privacy) for the most accurate reproduction.*
 
-# giffgaff Privacy Policy
+# Privacy Policy | giffgaff.com
 
 ### Contents
 
@@ -23,9 +23,9 @@ This policy explains:
 
 i. How we collect information about you both directly and indirectly;
 
-ii. What information we collect about you 
+ii. What information we collect about you
 
-iii. The ways in which we may use and share that information; and 
+iii. The ways in which we may use and share that information; and
 
 iv. How you can update or access any personal information we hold about you.
 
@@ -37,9 +37,9 @@ Please read this Privacy Policy in conjunction with the applicable Services term
 
 i. We collect information directly from you when you are asked to provide personal details about yourself, including but not limited to when you:
 
-ii. We collect information indirectly from you when you use the Services, including but not limited to when you visit or browse this site or use our mobile network. 
+ii. We collect information indirectly from you when you use the Services, including but not limited to when you visit or browse this site or use our mobile network.
 
-iii. We may collect information about you from other sources, including but not limited to: 
+iii. We may collect information about you from other sources, including but not limited to:
 
 [Top]
 
@@ -47,25 +47,25 @@ iii. We may collect information about you from other sources, including but not 
 
 We collect such information as:
 
-i. Email address; 
+i. Email address;
 
 ii. Email addresses that you choose provide to us;
 
-iii. Your Internet Protocol (IP) address; 
+iii. Your Internet Protocol (IP) address;
 
-iv. Your name; 
+iv. Your name;
 
-v. Billing address; 
+v. Billing address;
 
-vi. Delivery address; 
+vi. Delivery address;
 
-viii. Telephone number; 
+viii. Telephone number;
 
-ix. Your use of the Services including but not limited to phone numbers and/or email addresses of calls, texts, MMS, emails and other communications made and received by you and the date, duration, time and cost of such communications, your searching, browsing history (including web sites you visit) and location data, internet PC location for broadband, address location for billing, delivery, installation or as provided by individual, phone location; 
+ix. Your use of the Services including but not limited to phone numbers and/or email addresses of calls, texts, MMS, emails and other communications made and received by you and the date, duration, time and cost of such communications, your searching, browsing history (including web sites you visit) and location data, internet PC location for broadband, address location for billing, delivery, installation or as provided by individual, phone location;
 
 x. How your conduct and manage your account(s) with us; and
 
-xi. Debit or credit card details, banking details and other payment information. 
+xi. Debit or credit card details, banking details and other payment information.
 
 [Top]
 
@@ -73,31 +73,31 @@ xi. Debit or credit card details, banking details and other payment information.
 
 We may use and analyse information about you in order to:
 
-i. Provide you with access to parts of this site; 
+i. Provide you with access to parts of this site;
 
-ii. Contact you if necessary; 
+ii. Contact you if necessary;
 
-iii. Inform you of any service related message or of any new Services or functionality (eg the introduction of a new messaging service); 
+iii. Inform you of any service related message or of any new Services or functionality (eg the introduction of a new messaging service);
 
-iv. Assist us with crime and fraud prevention such as to check your identity; 
+iv. Assist us with crime and fraud prevention such as to check your identity;
 
-v. Investigate any complaints or other enquiries that you submit to us; 
+v. Investigate any complaints or other enquiries that you submit to us;
 
-vi. Enhance and personalise the products and Services that we offer you and to develop new products and services; 
+vi. Enhance and personalise the products and Services that we offer you and to develop new products and services;
 
-vii. Analyse markets and produce reports, perform research and statistical analysis and to monitor usage behaviour; 
+vii. Analyse markets and produce reports, perform research and statistical analysis and to monitor usage behaviour;
 
-viii. Market our products and Services generally 
+viii. Market our products and Services generally
 
-ix. Send information to you about our products and Services from time to time by email or other means (subject to any objection or preference you may indicate when submitting your details to us); 
+ix. Send information to you about our products and Services from time to time by email or other means (subject to any objection or preference you may indicate when submitting your details to us);
 
-x. Inform you of any products and Services offered by other companies that we think may be of interest to you, provided that you choose to receive this information; 
+x. Inform you of any products and Services offered by other companies that we think may be of interest to you, provided that you choose to receive this information;
 
-xi. Disclose your personal information or usage of our services to certain third parties. See Disclosure of Your Information;
+xi. Disclose your personal information or usage of our services to certain third parties. SeeDisclosure of Your Information;
 
-xii. Debt tracing, debt recovery, credit management and crime, fraud and money laundering detection and prevention; 
+xii. Debt tracing, debt recovery, credit management and crime, fraud and money laundering detection and prevention;
 
-xiii. Aggregate information about you, your spending and your use of the Services with information about other users of the Services in order to identify trends ("Aggregated Data"). We may pass Aggregated Data to third parties, such as advertisers, content providers and business partners or prospective business partners, to give them a better understanding of our business and to bring you a better service. Aggregated Data will not contain information from which you may be personally identified. 
+xiii. Aggregate information about you, your spending and your use of the Services with information about other users of the Services in order to identify trends ("Aggregated Data"). We may pass Aggregated Data to third parties, such as advertisers, content providers and business partners or prospective business partners, to give them a better understanding of our business and to bring you a better service. Aggregated Data will not contain information from which you may be personally identified.
 
 xiv. Analyse information about you including your calling, searching, browsing and location data on a personalised or aggregated basis. We may pass this data to the third parties mentioned in (xi) above and we may use this information to provide you with targeted giffgaff or third party offers, promotions, adverts or commercial communications.
 
@@ -107,31 +107,31 @@ xiv. Analyse information about you including your calling, searching, browsing a
 
 We may disclose your information:
 
-i. To our partners, agents and subcontractors (including prospective partners, agents and subcontractors) who are involved in the delivery of providing products or services used or ordered by you; 
+i. To our partners, agents and subcontractors (including prospective partners, agents and subcontractors) who are involved in the delivery of providing products or services used or ordered by you;
 
-ii. To other companies in the giffgaff group, including their respective partners, agents and sub contractors (including prospective partners, agents and subcontractors); 
+ii. To other companies in the giffgaff group, including their respective partners, agents and sub contractors (including prospective partners, agents and subcontractors);
 
-iii. To any relevant public authority or law enforcement agency; 
+iii. To any relevant public authority or law enforcement agency;
 
-iv. To third parties from whom you have chosen to receive marketing information. 
+iv. To third parties from whom you have chosen to receive marketing information.
 
-v. Where there is a change (or prospective change) in the ownership of giffgaff to new or prospective owners of giffgaff. In these circumstances we would require them to keep it confidential. 
+v. Where there is a change (or prospective change) in the ownership of giffgaff to new or prospective owners of giffgaff. In these circumstances we would require them to keep it confidential.
 
-vi. Where required by law, regulation or legal proceedings; 
+vi. Where required by law, regulation or legal proceedings;
 
-vii. Where we believe it is necessary to protect giffgaff or third party rights and property; or 
+vii. Where we believe it is necessary to protect giffgaff or third party rights and property; or
 
-viii. Where you give us false or inaccurate information and we identify or suspect fraud. 
+viii. Where you give us false or inaccurate information and we identify or suspect fraud.
 
-ix. Where we, or an affiliate processing your data on our behalf, are compelled to do so by law; 
+ix. Where we, or an affiliate processing your data on our behalf, are compelled to do so by law;
 
-ix. In response to a valid, legally compliant request by a competent authority; 
+ix. In response to a valid, legally compliant request by a competent authority;
 
-x. During emergencies when we believe physical safety is at risk; 
+x. During emergencies when we believe physical safety is at risk;
 
-xi. Where the service is moderated; or 
+xi. Where the service is moderated; or
 
-xii. In response to a complaint that that there has been a breach of the Services terms & conditions or any other product or service terms of which you have been notified. 
+xii. In response to a complaint that that there has been a breach of the Services terms & conditions or any other product or service terms of which you have been notified.
 
 [Top]
 
@@ -141,21 +141,21 @@ We retain information only for as long as we need it.
 
 In relation to the following information we are required to retain it for not less than six months and not more than two years in order to ensure that this information is available for the purpose of the investigation, detection and prosecution of serious crime:
 
-i. User ID and telephone number allocated to any communication entering the public telephone network; 
+i. User ID and telephone number allocated to any communication entering the public telephone network;
 
-ii. Name and address of subscriber to whom an Internet Protocol (IP) address, user ID or telephone number was allocated at the time of a communication; 
+ii. Name and address of subscriber to whom an Internet Protocol (IP) address, user ID or telephone number was allocated at the time of a communication;
 
-iii. User ID or telephone number of the recipient of an Internet telephony call; 
+iii. User ID or telephone number of the recipient of an Internet telephony call;
 
-iv. Name and address of subscriber and user ID of the intended recipient of a communication; 
+iv. Name and address of subscriber and user ID of the intended recipient of a communication;
 
-v. Date and time of log-in and log-off of our Internet access service, IP address and user ID of the subscriber; 
+v. Date and time of log-in and log-off of our Internet access service, IP address and user ID of the subscriber;
 
 [Top]
 
 ### 7\. Accessing your Information
 
-i. If you are a giffgaff Registered Customer, you may verify, update or amend the personal information you have provided to giffgaff online at any time by clicking on "My details". The 'opt-in' on the website will allow you to select whether you receive marketing information from giffgaff about giffgaff only, or about our business partners. You can opt-out of either or both at any time by emailing your preferences to [removeme@giffgaff.com](mailto:removeme@giffgaff.com). We will not give your personal information to 3rd parties to allow them to market to you unless you expressly give us permission to do so. 
+i. If you are a giffgaff Registered Customer, you may verify, update or amend the personal information you have provided to giffgaff online at any time by clicking on "My details". The 'opt-in' on the website will allow you to select whether you receive marketing information from giffgaff about giffgaff only, or about our business partners. You can opt-out of either or both at any time by emailing your preferences to [removeme@giffgaff.com](mailto:removeme@giffgaff.com). We will not give your personal information to 3rd parties to allow them to market to you unless you expressly give us permission to do so.
 
 ii. We can supply certain types of personal information on request: including but not limited to billing, name and address, aggregated phone usage. Requests should be made in writing and include your name, mobile telephone number and proof of your identity (such as a photocopy of your passport, birth certificate or driving licence) and address (for example, a copy of a utility bill or bank statement), and the information you require. We'll charge you £10 to cover the administrative cost of supplying the requested information. If we hold any inaccurate information about you, please tell us and we will correct it.
 
@@ -173,24 +173,24 @@ We will keep this policy under review and any changes made from time to time wil
 
 ### 9\. Security and Protection of Customer Information
 
-i. Security 
+i. Security
 
 ii. Users 16 and under  
-If you are aged 16 or under, please get your parent or guardian's permission before providing any personal information or before taking part in any www.giffgaff.com discussion. Users without this consent are not allowed to provide us with personal information. 
+If you are aged 16 or under, please get your parent or guardian's permission before providing any personal information or before taking part in any www.giffgaff.com discussion. Users without this consent are not allowed to provide us with personal information.
 
 iii. Co-Branded Micro Sites and Third Party Sites  
 Some web pages and Micro Websites included within giffgaff's websites may be co-branded with third party names, logos, or properties. These Micro Websites are operated or maintained by or on behalf of giffgaff. While such third parties are sponsors of these web pages or Micro Websites, the third parties do not share in any personally identifiable information collected within those web pages or Micro Websites unless otherwise stated.  
-This policy does not apply to third party sites that you may access via our Portals. You should therefore ensure that you are familiar with the applicable third party privacy policy before entering any personal information on a third party site. 
+This policy does not apply to third party sites that you may access via our Portals. You should therefore ensure that you are familiar with the applicable third party privacy policy before entering any personal information on a third party site.
 
 iv. Non-EEA Use of Information  
-The information you provide to us may be passed to third parties located outside the European Economic Area. Countries outside the European Economic Area do not always have strong data protection laws. However we will always take steps to ensure that your information is used by third parties in accordance with this policy. Additional terms and conditions may be presented when signing up for specific products and Services. 
+The information you provide to us may be passed to third parties located outside the European Economic Area. Countries outside the European Economic Area do not always have strong data protection laws. However we will always take steps to ensure that your information is used by third parties in accordance with this policy. Additional terms and conditions may be presented when signing up for specific products and Services.
 
 v. Cookies  
-A "cookie" is a piece of information, like a tag, which some websites create on your PC/mobile phone which identifies your PC/mobile phone whenever you visit that website. In order to provide you with the best possible online experience, giffgaff may create cookies when you visit the giffgaff site. In order to help you, cookies may be used to: 
+A "cookie" is a piece of information, like a tag, which some websites create on your PC/mobile phone which identifies your PC/mobile phone whenever you visit that website. In order to provide you with the best possible online experience, giffgaff may create cookies when you visit the giffgaff site. In order to help you, cookies may be used to:
 
 Agents of giffgaff, who assist in the serving and targeting of advertisements, promotions and other marketing messages, may use cookies to collect anonymous data such as how many people have viewed a particular page each day. Data collected by cookies will not otherwise be passed to any third party.  
 You have the ability to accept or decline cookies. Most PCs automatically accept them but you can modify your browser settings to decline if you so wish. If you decline cookies, some aspects of the giffgaff site may not work on your PC/mobile phone and you may not be able to access areas you want on the website. For this reason we recommend that you accept cookies. If you select the 'Remember Me' function, where it is available, for any return visits, you will need to have cookies enabled on your browser.  
-Finally, please note that advertisers and other third parties may use their own cookies or action tags when you click on their advertisement or link to their website or service, on or from our website. These third parties are responsible for setting out their own cookie and privacy policies. 
+Finally, please note that advertisers and other third parties may use their own cookies or action tags when you click on their advertisement or link to their website or service, on or from our website. These third parties are responsible for setting out their own cookie and privacy policies.
 
 vi. FAQS on other related issues
 
@@ -205,7 +205,7 @@ Network
 The electronic communications system by which we make Services available in the United Kingdom.
 
 giffgaff Portal Registered Customer,  
-A person who has successfully registered their details on the www.giffgaff.com website. This website is only open to UK residents. 
+A person who has successfully registered their details on the www.giffgaff.com website. This website is only open to UK residents.
 
 Portals  
 Our web, and other services and portals we introduce from time to time.
