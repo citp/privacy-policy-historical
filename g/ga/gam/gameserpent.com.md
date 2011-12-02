@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gameserpent.com privacy policy that was archived on 2011-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110402035227id_/http%3A//gameserpent.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameserpent.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203004409id_/http%3A//gameserpent.com/privacypolicy) for the most accurate reproduction.*
 
-# Racing Games to play GameSerpent.com
+# Free Games to play GameSerpent.com
 
 Privacy policy
 
