@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvdfab.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230231803id_/http%3A//www.dvdfab.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdfab.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202193558id_/http%3A//www.dvdfab.com/privacy.htm) for the most accurate reproduction.*
 
 # DVDFab - Copy Any DVD to DVDR/PSP/iPod. Fastest DVD Copy Software!
 
@@ -10,7 +10,7 @@ You provide personal information in the following circumstances:
 \- Order and purchase DVDFab products and services  
 \- Register to be DVDFab members  
 \- Register for DVDFab free newsletters  
-\- Contact our support team by ticket  
+\- Contact our support team  
 
 
 #### The very information we collected
