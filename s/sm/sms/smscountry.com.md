@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smscountry.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619075822id_/http%3A//www.smscountry.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smscountry.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203004332id_/http%3A//www.smscountry.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy & Anti - Spam policy to send SMS through SMScountry
 
@@ -40,20 +40,16 @@ You hereby acknowledge that the acceptance of this privacy policy is a condition
 
 Apart from bulk Push of SMS's (sending SMS), our platform also allows you to Pull SMS (receive SMS) 
 
-[_more >>_](https://web.archive.org/web/20110619075822id_/http%3A//www.smscountry.com/two-way-sms.asp)
+[_more >>_](https://web.archive.org/web/20111203004332id_/http%3A//www.smscountry.com/two-way-sms.asp)
 
 With this application you can easily send SMS to multiple recipients from your mail account, to any mobile phone across the globe. 
 
-[_more >>_](https://web.archive.org/web/20110619075822id_/http%3A//www.smscountry.com/Email2SMS.asp)
+[_more >>_](https://web.archive.org/web/20111203004332id_/http%3A//www.smscountry.com/Email2SMS.aspx)
 
 Mobile2Many feature enables you to send SMS to your Phonebook contacts without the need to visit our website. 
 
-[_more >>_](https://web.archive.org/web/20110619075822id_/http%3A//www.smscountry.com/hand-2-many.asp)
-
-This feature allows you to send SMS Text as email (SMS text email). Just send an SMS to our gateway number +919246356765 with the recipient's email address as the first word of the SMS 
-
-[_more >>_](https://web.archive.org/web/20110619075822id_/http%3A//www.smscountry.com/sms2email.asp)
+[_more >>_](https://web.archive.org/web/20111203004332id_/http%3A//www.smscountry.com/hand-2-many.aspx)
 
 Get free from the job of remembering each and every occasion, It will be our job to remind you through SMS about anything at any date and at any time you want.
 
-[ _more >>_](https://web.archive.org/web/20110619075822id_/http%3A//www.smscountry.com/remainder-sms.asp)
+[ _more >>_](https://web.archive.org/web/20111203004332id_/http%3A//www.smscountry.com/remainder-sms.aspx)
