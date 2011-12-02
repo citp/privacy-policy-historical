@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the refreshcartridges.co.uk privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219121638id_/http%3A//www.refreshcartridges.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refreshcartridges.co.uk privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202104352id_/http%3A//www.refreshcartridges.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Privicy Policy Inkjet Cartridges
 
@@ -14,7 +14,7 @@ We collect information about you for 2 reasons:
 
 
 
-The type of information we will collect about you includes your name, address, phone number, email address and credit / debit card details.
+The type of information we will require in order to complete an order includes your name, address, phone number, email address and credit / debit card details
 
 We DO NOT store your credit / debit card details anywhere on the server or elsewhere.
 
