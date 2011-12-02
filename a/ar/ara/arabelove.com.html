@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the arabelove.com privacy policy that was archived on 2011-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110610141523id_/http%3A//www.arabelove.com/arab-dating-Privacy-EN.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the arabelove.com privacy policy that was archived on 2011-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111203000306id_/http%3A//www.arabelove.com/arab-dating-Privacy-EN.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD html 4.0 Transitional//EN"><html><head>
     <title>
@@ -425,205 +425,205 @@ ej213778.insertBefore(ej13778, ej213778.firstChild);
                     <tr>
                         <td valign="bottom" class="footerTD">
                             
+
 <script type="text/javascript">
 
-     //SET TOOLTIP DESCRIPTIONS BELOW
+    //SET TOOLTIP DESCRIPTIONS BELOW
     //Extend or contract array as needed
-    var description=new Array()
-//    description[0]='<table><tr><td valigne=top><IMG src="http://elove.monezsoft.com/images/icons/exl.gif"></td><td>If you have a promo code. Use it right after you complete your registration by visiting the page "My Points"</td></tr></table>'
+    var description = new Array()
+    //    description[0]='<table><tr><td valigne=top><IMG src="http://elove.monezsoft.com/images/icons/exl.gif"></td><td>If you have a promo code. Use it right after you complete your registration by visiting the page "My Points"</td></tr></table>'
 
 
     //Do not edit below here
 
-    iens6=document.all||document.getElementById
-    ns4=document.layers
+    iens6 = document.all || document.getElementById
+    ns4 = document.layers
 
-    
+
     var thename
     var theobj
     var thetext
     var winHeight
     var winPositionFromTop
     var winWidth
-    var startH=2
+    var startH = 2
     var openTimer
     var divWidth = 300
     var divHeight = 152;
-    
+
     var alertTimeout = 10000;
     var alertfrequency = 10000;
-        
-    function StartAlert()
-    {
+
+    function StartAlert() {
         // make a call to the server to see if there any alerts
         xmlHTTPServer3 = createRequestObject();
         xmlHTTPServer3.open("GET", "xmlHttp/GetMemberAlert.aspx?data=" + new Date(), true);
         xmlHTTPServer3.onreadystatechange = getMemberAlertCallback;
         xmlHTTPServer3.send(null);
     }
-    
-    function getMemberAlertCallback()
-    {   
-        var ok=false;
-        if(navigator.appName == "Microsoft Internet Explorer"){
-           if (xmlHTTPServer3.readyState == 4){
-            ok=true;
-           }
-	    }
-	    else{
-	        if(xmlHTTPServer3.readyState == 3){
-	            ok=true;
-	        }
-	    }
-	    if(ok){
-	        if(xmlHTTPServer3.responseText !="" && xmlHTTPServer3.responseText.indexOf("Server Error") == -1){
-	            description[0]="<table cellspacing='0' cellpadding='0' border='0' height='" + (divHeight - 3) + "'><tr><td width='16' height='16' style='background-image:url(http://elove.monezsoft.com/images/alert_tl.gif);'></td><td style='border-top: 1px solid #85a6c8;' bgcolor='#e4f0fa' width=270><font style='font-size:6px'>&nbsp;</font.</td><td width='16' height='16' style='background-image:url(http://elove.monezsoft.com/images/alert_tr.gif);cursor:pointer' onclick='stopIt()'></td></tr><tr><td  bgcolor='#e4f0fa' style='border-left: 1px solid #85a6c8;border-right: 1px solid #85a6c8' colspan='3' valign='top'><table width='100%' border='0' celspadding='0' cellspacing='0'><tr><td colspan='2' bgcolor=''>" + xmlHTTPServer3.responseText + "</td></tr></table></td></tr><tr><td colspan='3'><img src='http://elove.monezsoft.com/images/alert_b.gif'></td></tr></table>";
-//	            description[0] = "<table cellpadding='0' cellspacing='0' align='center' border='0' height='" + (divHeight - 3) + "'><tr><td bgcolor='white' style='background-image:url(http://elove.monezsoft.com/images/s/tl.gif)' width='20' height='15'></td><td class='sBordert'>&nbsp;</td><td style='background-image:url(http://elove.monezsoft.com/images/s/tr.gif);cursor:pointer' width='14' height='15' onclick='stopIt()'>X</td></tr><tr><td class='sBorderl'>&nbsp;</td><td valign='top'><table width='100%' border='0' celspadding='0' cellspacing='0'><tr><td colspan='2' bgcolor='white'>" + xmlHTTPServer3.responseText + "</td></tr></table></td><td class='sBorderr'>&nbsp;</td></tr><tr><td style='background-image:url(http://elove.monezsoft.com/images/s/bl.gif)' width='14' height='15'></td><td class='sBorderb'>&nbsp;</td><td style='background-image:url(http://elove.monezsoft.com/images/s/br.gif)' width='14' height='15'></td></tr></table>";
-	            
-	            setObj(description[0],'override',divWidth,divHeight)
-	            setTimeout('StopAlert()',alertTimeout);
-	        }
-	        else{
-	            setTimeout('StartAlert()',alertfrequency);
-	        }
-	    }
+
+    function getMemberAlertCallback() {
+        var ok = false;
+        if (navigator.appName == "Microsoft Internet Explorer") {
+            if (xmlHTTPServer3.readyState == 4) {
+                ok = true;
+            }
+        }
+        else {
+            if (xmlHTTPServer3.readyState == 3) {
+                ok = true;
+            }
+        }
+        if (ok) {
+            if (xmlHTTPServer3.responseText != "" && xmlHTTPServer3.responseText.indexOf("Server Error") == -1) {
+                description[0] = "<table cellspacing='0' cellpadding='0' border='0' height='" + (divHeight - 3) + "'><tr><td width='16' height='16' style='background-image:url(http://elove.monezsoft.com/images/alert_tl.gif);'></td><td style='border-top: 1px solid #85a6c8;' bgcolor='#e4f0fa' width=270><font style='font-size:6px'>&nbsp;</font.</td><td width='16' height='16' style='background-image:url(http://elove.monezsoft.com/images/alert_tr.gif);cursor:pointer' onclick='stopIt()'></td></tr><tr><td  bgcolor='#e4f0fa' style='border-left: 1px solid #85a6c8;border-right: 1px solid #85a6c8' colspan='3' valign='top'><table width='100%' border='0' celspadding='0' cellspacing='0'><tr><td colspan='2' bgcolor=''>" + xmlHTTPServer3.responseText + "</td></tr></table></td></tr><tr><td colspan='3'><img src='http://elove.monezsoft.com/images/alert_b.gif'></td></tr></table>";
+                //	            description[0] = "<table cellpadding='0' cellspacing='0' align='center' border='0' height='" + (divHeight - 3) + "'><tr><td bgcolor='white' style='background-image:url(http://elove.monezsoft.com/images/s/tl.gif)' width='20' height='15'></td><td class='sBordert'>&nbsp;</td><td style='background-image:url(http://elove.monezsoft.com/images/s/tr.gif);cursor:pointer' width='14' height='15' onclick='stopIt()'>X</td></tr><tr><td class='sBorderl'>&nbsp;</td><td valign='top'><table width='100%' border='0' celspadding='0' cellspacing='0'><tr><td colspan='2' bgcolor='white'>" + xmlHTTPServer3.responseText + "</td></tr></table></td><td class='sBorderr'>&nbsp;</td></tr><tr><td style='background-image:url(http://elove.monezsoft.com/images/s/bl.gif)' width='14' height='15'></td><td class='sBorderb'>&nbsp;</td><td style='background-image:url(http://elove.monezsoft.com/images/s/br.gif)' width='14' height='15'></td></tr></table>";
+
+                setObj(description[0], 'override', divWidth, divHeight)
+                setTimeout('StopAlert()', alertTimeout);
+            }
+            else {
+                setTimeout('StartAlert()', alertfrequency);
+            }
+        }
     }
-    
-    function StopAlert()
-    {
+
+    function StopAlert() {
         stopIt();
-        setTimeout('StartAlert()',alertfrequency);
-    }
-    
-
-   
-    function ietruebody(){
-    return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+        setTimeout('StartAlert()', alertfrequency);
     }
 
-    function setObj(text,theswitch,inwidth,inheight) {
-	    thetext=text
-	    if(iens6){
-		    thename = "viewer"
-		    theobj=document.getElementById? document.getElementById(thename):document.all.thename
-		    winHeight=100
-			    if(iens6&&document.all) {
-				    winPositionFromTop=!window.opera? ietruebody().clientHeight : document.body.clientHeight
-				    winWidth=(ietruebody().clientWidth-ietruebody().leftMargin)
-			    }
-			    if(iens6&&!document.all) {
-				    winPositionFromTop=window.innerHeight
-				    winWidth=(window.innerWidth-(ietruebody().offsetLeft+30))
-			    }
-			    if(theswitch=="override") {
-				    winWidth=inwidth
-				    winHeight=inheight
-			    }
-		    theobj.style.width=winWidth+"px"
-		    theobj.style.height=startH+"px"
-			    if(iens6&&document.all) {
-				    theobj.style.top=ietruebody().scrollTop+winPositionFromTop+"px"
-				    //window.status=winPositionFromTop
-				    theobj.innerHTML = ""
-				    theobj.insertAdjacentHTML("BeforeEnd","<table cellspacing=0 width="+winWidth+" height="+winHeight+" border=0><tr><td width=100% valign=top><font type='times' size='2' style='color:black;font-weight:normal'>"+thetext+"</font></td></tr></table>")
-			    }
-			    if(iens6&&!document.all) {
-				    theobj.style.top=window.pageYOffset+winPositionFromTop+"px"
-				    theobj.innerHTML = ""
-				    theobj.innerHTML="<table cellspacing=0 width="+winWidth+" height="+winHeight+" border=0><tr><td width=100% valign=top><font type='times' size='2' style='color:black;font-weight:normal'>"+thetext+"</font></td></tr></table>"
-			    }
-	    }
-	    if(ns4){
-		    thename = "nsviewer"
-		    theobj = eval("document."+thename)
-		    winPositionFromTop=window.innerHeight
-		    winWidth=window.innerWidth
-		    winHeight=100
-			    if(theswitch=="override") {
-				    winWidth=inwidth
-				    winHeight=inheight
-			    }
-		    theobj.moveTo(0,eval(window.pageYOffset+winPositionFromTop))
-		    theobj.width=winWidth
-		    theobj.clip.width=winWidth
-		    theobj.document.write("<table cellspacing=0 width="+winWidth+" height="+winHeight+" border=0><tr><td width=100% valign=top><font type='times' size='2' style='color:black;font-weight:normal'>"+thetext+"</font></td></tr></table>")
-		    theobj.document.close()
-	    }
-	    viewIt()
+
+
+    function ietruebody() {
+        return (document.compatMode && document.compatMode != "BackCompat") ? document.documentElement : document.body
+    }
+
+    function setObj(text, theswitch, inwidth, inheight) {
+        thetext = text
+        if (iens6) {
+            thename = "viewer"
+            theobj = document.getElementById ? document.getElementById(thename) : document.all.thename
+            winHeight = 100
+            if (iens6 && document.all) {
+                winPositionFromTop = !window.opera ? ietruebody().clientHeight : document.body.clientHeight
+                winWidth = (ietruebody().clientWidth - ietruebody().leftMargin)
+            }
+            if (iens6 && !document.all) {
+                winPositionFromTop = window.innerHeight
+                winWidth = (window.innerWidth - (ietruebody().offsetLeft + 30))
+            }
+            if (theswitch == "override") {
+                winWidth = inwidth
+                winHeight = inheight
+            }
+            theobj.style.width = winWidth + "px"
+            theobj.style.height = startH + "px"
+            if (iens6 && document.all) {
+                theobj.style.top = ietruebody().scrollTop + winPositionFromTop + "px"
+                //window.status=winPositionFromTop
+                theobj.innerHTML = ""
+                theobj.insertAdjacentHTML("BeforeEnd", "<table cellspacing=0 width=" + winWidth + " height=" + winHeight + " border=0><tr><td width=100% valign=top><font type='times' size='2' style='color:black;font-weight:normal'>" + thetext + "</font></td></tr></table>")
+            }
+            if (iens6 && !document.all) {
+                theobj.style.top = window.pageYOffset + winPositionFromTop + "px"
+                theobj.innerHTML = ""
+                theobj.innerHTML = "<table cellspacing=0 width=" + winWidth + " height=" + winHeight + " border=0><tr><td width=100% valign=top><font type='times' size='2' style='color:black;font-weight:normal'>" + thetext + "</font></td></tr></table>"
+            }
+        }
+        if (ns4) {
+            thename = "nsviewer"
+            theobj = eval("document." + thename)
+            winPositionFromTop = window.innerHeight
+            winWidth = window.innerWidth
+            winHeight = 100
+            if (theswitch == "override") {
+                winWidth = inwidth
+                winHeight = inheight
+            }
+            theobj.moveTo(0, eval(window.pageYOffset + winPositionFromTop))
+            theobj.width = winWidth
+            theobj.clip.width = winWidth
+            theobj.document.write("<table cellspacing=0 width=" + winWidth + " height=" + winHeight + " border=0><tr><td width=100% valign=top><font type='times' size='2' style='color:black;font-weight:normal'>" + thetext + "</font></td></tr></table>")
+            theobj.document.close()
+        }
+        viewIt()
     }
 
     function viewIt() {
-	    if(startH<=winHeight) {
-		    if(iens6) {
-			    theobj.style.visibility="visible"
-				    if(iens6&&document.all) {
-					    theobj.style.top=(ietruebody().scrollTop+winPositionFromTop)-startH+"px"
-				    }
-				    if(iens6&&!document.all) {
-					    theobj.style.top=(window.pageYOffset+winPositionFromTop)-startH+"px"
-				    }
-			    theobj.style.height=startH+"px"
-			    startH+=2
-			    openTimer=setTimeout("viewIt()",10)
-		    }
-		    if(ns4) {
-			    theobj.visibility = "visible"
-			    theobj.moveTo(0,(eval(window.pageYOffset+winPositionFromTop)-startH))
-			    theobj.height=startH
-			    theobj.clip.height=(startH)
-			    startH+=2
-			    openTimer=setTimeout("viewIt()",10)
-		    }
-	    }else{
-		    clearTimeout(openTimer)
-	    }
+        if (startH <= winHeight) {
+            if (iens6) {
+                theobj.style.visibility = "visible"
+                if (iens6 && document.all) {
+                    theobj.style.top = (ietruebody().scrollTop + winPositionFromTop) - startH + "px"
+                }
+                if (iens6 && !document.all) {
+                    theobj.style.top = (window.pageYOffset + winPositionFromTop) - startH + "px"
+                }
+                theobj.style.height = startH + "px"
+                startH += 2
+                openTimer = setTimeout("viewIt()", 10)
+            }
+            if (ns4) {
+                theobj.visibility = "visible"
+                theobj.moveTo(0, (eval(window.pageYOffset + winPositionFromTop) - startH))
+                theobj.height = startH
+                theobj.clip.height = (startH)
+                startH += 2
+                openTimer = setTimeout("viewIt()", 10)
+            }
+        } else {
+            clearTimeout(openTimer)
+        }
     }
 
     function stopIt() {
-	    if(iens6) {
-		    theobj.innerHTML = ""
-		    theobj.style.visibility="hidden"
-		    startH=2
-	    }
-	    if(ns4) {
-		    theobj.document.write("")
-		    theobj.document.close()
-		    theobj.visibility="hidden"
-		    theobj.width=0
-		    theobj.height=0
-		    theobj.clip.width=0
-		    theobj.clip.height=0
-		    startH=2
-	    }
+        if (iens6) {
+            theobj.innerHTML = ""
+            theobj.style.visibility = "hidden"
+            startH = 2
+        }
+        if (ns4) {
+            theobj.document.write("")
+            theobj.document.close()
+            theobj.visibility = "hidden"
+            theobj.width = 0
+            theobj.height = 0
+            theobj.clip.width = 0
+            theobj.clip.height = 0
+            startH = 2
+        }
     }
-    
+
     function GetWindowWidth() {
-      var myWidth = 0;
-      if( typeof( window.innerWidth ) == 'number' ) {
-        //Non-IE
-        myWidth = window.innerWidth;
-      } else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
-        //IE 6+ in 'standards compliant mode'
-        myWidth = document.documentElement.clientWidth;
-      } else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
-        //IE 4 compatible
-        myWidth = document.body.clientWidth;
-      }
-      
-      return myWidth;
+        var myWidth = 0;
+        if (typeof (window.innerWidth) == 'number') {
+            //Non-IE
+            myWidth = window.innerWidth;
+        } else if (document.documentElement && (document.documentElement.clientWidth || document.documentElement.clientHeight)) {
+            //IE 6+ in 'standards compliant mode'
+            myWidth = document.documentElement.clientWidth;
+        } else if (document.body && (document.body.clientWidth || document.body.clientHeight)) {
+            //IE 4 compatible
+            myWidth = document.body.clientWidth;
+        }
+
+        return myWidth;
     }
 </script>
 
-<table style=" width:100%;background:white" cellpadding="0" cellspacing="0">
+
+<table style="width: 100%; background: -moz-linear-gradient(top, white, #C6A582);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='white', endColorstr='#C6A582');" cellpadding="0" cellspacing="0">
     <tbody><tr>
         <td colspan="3" align="center">
             <hr>
             <table cellpadding="0" cellspacing="0">
                 <tbody><tr>
-                    <td style=" height:35px ; vertical-align:top">
-                        <table cellpadding="0" cellspacing="0" style=" width:100%">
+                    <td style="height: 35px; vertical-align: top">
+                        <table cellpadding="0" cellspacing="0" style="width: 100%">
                             <tbody><tr>
-                                <td colspan="14" style=" height:5px">
+                                <td colspan="14" style="height: 5px">
                                 </td>
                             </tr>
                             <tr>
@@ -649,20 +649,17 @@ ej213778.insertBefore(ej13778, ej213778.firstChild);
                                                     Help
                                                 </a>:: <a href="sitemap.aspx" class="footerLinks" title="Sitemap">
                                                     Sitemap
-                                                </a>:: <a href="members.aspx" class="footerLinks" title="Members">
+                                                </a>:: <a href="members.aspx" class="footerLinks" title="Arab singles">
                                                     Arab singles
-                                                </a>
-                                                :: 
-                                                <a href="qualityControl.aspx" class="footerLinks" title="Members">
+                                                </a>:: <a href="qualityControl.aspx" class="footerLinks" title="Members">
                                                     100% Quality Guarantee
-                                                </a>
-                                                :: 
+                                                </a>::
                                                 
                                                 <a href="arab-dating-login.aspx" class="footerLinks">
                                                     Login
                                                     
                                                     </a>
-                                            </td>                                            
+                                            </td>
                                         </tr>
                                     </tbody></table>
                                 </td>
@@ -670,6 +667,45 @@ ej213778.insertBefore(ej13778, ej213778.firstChild);
                         </tbody></table>
                     </td>
                     
+                </tr>
+                <tr>
+                    <td>
+                        <table style="width: 100%">
+                            <tbody><tr>
+                                <td>
+
+                                    <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+                                    <g:plusone></g:plusone>
+                                </td>
+                                <td>
+                                    <!-- AddThis Button BEGIN -->
+                                    <div class="addthis_toolbox addthis_default_style addthis_32x32_style" addthis:url="arabelove.com/arab-dating-login.aspx" addthis:title="Arab Dating &amp; Zawaj" addthis:description="Free Arab Dating, Arab Singles Site Where Arab Men and Women meet for friendship, marriage, zawaj, love, dating, matchmaking and more">
+                                        <a class="addthis_button_preferred_1"></a><a class="addthis_button_preferred_2">
+                                        </a><a class="addthis_button_preferred_3"></a><a class="addthis_button_preferred_4">
+                                        </a><a class="addthis_button_preferred_5"></a><a class="addthis_button_preferred_6">
+                                        </a><a class="addthis_button_preferred_7"></a><a class="addthis_button_compact">
+                                        </a><a class="addthis_counter addthis_bubble_style"></a>
+                                    </div>
+
+                                    <script type="text/javascript">                                        var addthis_config = { "data_track_clickback": true };</script>
+
+                                    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=nezolezo"></script>
+
+                                    <!-- AddThis Button END -->
+                                </td>
+                                <td align="right">  
+                                    <a href="http://www.facebook.com/arabElove">
+                                        <img src="http://elove.monezsoft.com/images/info/facebook.png" border="0"></a>
+                                    <a href="http://twitter.com/#!/arabelove">
+                                        <img src="http://elove.monezsoft.com/images/info/twitter.png" border="0"></a>
+                                    <a href="http://www.youtube.com/user/arabEloveDotCom">
+                                        <img src="http://elove.monezsoft.com/images/info/youtube.png" border="0"></a>
+                                        
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
                 </tr>
                 <tr>
                     <td align="center" colspan="2" valign="top" class="footerLinks" height="15">
@@ -682,17 +718,18 @@ ej213778.insertBefore(ej13778, ej213778.firstChild);
         </td>
     </tr>
 </tbody></table>
+<layer name="nsviewer" style="border-width: thin; z-index: 1"></layer>
 
-<layer name="nsviewer" style="border-width:thin;z-index:1"></layer>
 <script type="text/javascript">
     if (iens6) {
-        document.write("<div id='viewer' style='visibility:hidden;position:absolute;left:" + (GetWindowWidth() - divWidth -18) + ";width:0;height:30;z-index:1;overflow:hidden;'></div>")
+        document.write("<div id='viewer' style='visibility:hidden;position:absolute;left:" + (GetWindowWidth() - divWidth - 18) + ";width:0;height:30;z-index:1;overflow:hidden;'></div>")
     }
     if (ns4) {
         hideobj = eval("document.nsviewer")
         hideobj.visibility = "hidden"
     }
 </script><div id="viewer" style="visibility:hidden;position:absolute;left:1048;width:0;height:30;z-index:1;overflow:hidden;"></div>
+
 
                         </td>
                     </tr>
