@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redcort.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604171352id_/http%3A//www.redcort.com/company/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcort.com privacy policy that was archived on 2011-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111203000432id_/http%3A//www.redcort.com/company/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Redcort Software
 
@@ -20,7 +20,7 @@ Our site uses order forms for customers to request information, products, and se
 
 ## Choice / Opt Out
 
-To remove your information from our database to assure you receive no future communications or service, [contact us here](https://web.archive.org/web/20110604171352id_/http%3A//www.redcort.com/company/ "Contact Redcort Software").
+To remove your information from our database to assure you receive no future communications or service, [contact us here](https://web.archive.org/web/20111203000432id_/http%3A//www.redcort.com/company/ "Contact Redcort Software").
 
 ## Other Sites
 
@@ -28,7 +28,7 @@ This site contains links to other web sites that are not affiliated with Redcort
 
 ## Further Information
 
-If you have any questions about this privacy statement or the practices of Redcort Software, [contact us here](https://web.archive.org/web/20110604171352id_/http%3A//www.redcort.com/company/ "Contact Redcort Software").
+If you have any questions about this privacy statement or the practices of Redcort Software, [contact us here](https://web.archive.org/web/20111203000432id_/http%3A//www.redcort.com/company/ "Contact Redcort Software").
 
 Last update January 15, 2011
 
