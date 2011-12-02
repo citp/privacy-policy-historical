@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the plancast.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629071111id_/http%3A//plancast.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plancast.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202225414id_/http%3A//plancast.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy on Plancast
 
 _This Privacy Policy was last revised on April 13, 2010._
 
-Your privacy is important and we take it seriously. This Privacy Policy describes Plancast's policies and procedures on the collection, use and disclosure of your information when you use the Plancast Service. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](https://web.archive.org/about/terms-of-use).
+Your privacy is important and we take it seriously. This Privacy Policy describes Plancast's policies and procedures on the collection, use and disclosure of your information when you use the Plancast Service. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](http://plancast.com/about/terms-of-use).
 
 ## Information Collection and Use
 
