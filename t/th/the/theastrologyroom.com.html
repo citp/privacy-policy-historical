@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theastrologyroom.com privacy policy that was archived on 2011-01-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110103071642id_/http%3A//theastrologyroom.com/the-astrology-room-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theastrologyroom.com privacy policy that was archived on 2011-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111202183634id_/http%3A//theastrologyroom.com/the-astrology-room-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
   <base href="http://theastrologyroom.com/the-astrology-room-privacy-policy">
@@ -100,7 +100,7 @@ jQuery(document).ready(function(){
 																				<div id="navWrap" class="navLeft" style="width:940px">
 												<div id="nav" class="helvetica">
 																	<div class="moduletable">
-					<ul class="menu sf-menu sf-horizontal"><li class="first-child item283"><a href="http://theastrologyroom.com/"><span>Home</span></a></li><li class="parent item268"><a href="/live-psychics/live-pyschic-readers"><span>Live Psychic Readers</span></a><ul><li class="first-child item263"><a href="/tarot-readers/tarot-readers"><span>Tarot Readers</span></a></li><li class="item279"><a href="/astrology-readers/astrology-readers"><span>Astrology Readers</span></a></li><li class="item280"><a href="/clairvoyant-readers/clairvoyant-readers"><span>Clairvoyant Readers</span></a></li><li class="last-child item281"><a href="/angel-readers/angel-readers"><span>Angel Readers</span></a></li></ul></li><li class="parent active item138"><a href="/horoscopes/"><span>Horoscopes</span></a><ul><li id="current" class="first-child active item184"><a href="/daily-horoscopes/"><span>Daily Horoscope</span></a></li><li class="item136"><a href="/weekly-horoscopes/"><span>Weekly Horoscopes</span></a></li><li class="item137"><a href="/monthly-horoscopes/"><span>Monthly Horoscopes</span></a></li><li class="item290"><a href="/career-horoscopes/"><span>Career Horoscopes</span></a></li><li class="last-child item183"><a href="/love-scopes/"><span>Love Scopes</span></a></li></ul></li><li class="item245"><a href="/tarot/"><span>Tarot</span></a></li><li class="item287"><a href="/guides/"><span>Guides</span></a></li><li class="item288"><a href="/sex-and-relationships/"><span>Sex &amp; Relationships</span></a></li><li class="item289"><a href="/blog/"><span>Blog</span></a></li><li class="last-child item295"><a href="/ask-the-experts/"><span>Ask The Experts</span></a></li></ul>
+					<ul class="menu sf-menu sf-horizontal"><li class="first-child item283"><a href="http://theastrologyroom.com/"><span>Home</span></a></li><li class="parent item268"><a href="/live-psychics/live-pyschic-readers"><span>Live Psychic Readers</span></a><ul><li class="first-child item263"><a href="/tarot-readers/tarot-readers"><span>Tarot Readers</span></a></li><li class="item279"><a href="/astrology-readers/astrology-readers"><span>Astrology Readers</span></a></li><li class="item280"><a href="/clairvoyant-readers/clairvoyant-readers"><span>Clairvoyant Readers</span></a></li><li class="item281"><a href="/angel-readers/angel-readers"><span>Angel Readers</span></a></li><li class="last-child item303"><a href="/general/consultations"><span>Consultations</span></a></li></ul></li><li class="parent active item138"><a href="/horoscopes/"><span>Horoscopes</span></a><ul><li class="first-child item184"><a href="/daily-horoscopes/"><span>Daily Horoscope</span></a></li><li id="current" class="active item136"><a href="/weekly-horoscopes/"><span>Weekly Horoscopes</span></a></li><li class="item137"><a href="/monthly-horoscopes/"><span>Monthly Horoscopes</span></a></li><li class="item290"><a href="/career-horoscopes/"><span>Career Horoscopes</span></a></li><li class="last-child item183"><a href="/love-scopes/"><span>Love Scopes</span></a></li></ul></li><li class="item245"><a href="/tarot/"><span>Tarot</span></a></li><li class="item287"><a href="/guides/"><span>Guides</span></a></li><li class="item288"><a href="/sex-and-relationships/"><span>Sex &amp; Relationships</span></a></li><li class="item289"><a href="/blog/"><span>Blog</span></a></li><li class="last-child item295"><a href="/ask-the-experts/"><span>Ask The Experts</span></a></li></ul>
 <script language="javascript" type="text/javascript" src="http://theastrologyroom.com/modules/mod_superfishmenu/tmpl/js/jquery.js"></script>
 <script language="javascript" type="text/javascript" src="http://theastrologyroom.com/modules/mod_superfishmenu/tmpl/js/jquery.event.hover.js"></script>
 <script language="javascript" type="text/javascript" src="http://theastrologyroom.com/modules/mod_superfishmenu/tmpl/js/superfish.js"></script>
@@ -122,7 +122,98 @@ jQuery.event.special.hover.speed = 100;
 						</div>
 				</div>
 		</div>
-</div>
+</div><script type="text/javascript">	jQuery.noConflict();			
+
+jQuery(function($){		
+reader_selectbox_change();
+function reader_selectbox_change(){
+				$('#reader').change(update_type_list);
+				$('#offer').change(check);
+				$('#servicetype').change(update_type_list);
+				
+			}
+			function update_type_list(){
+				var type=$('#reader').attr('value');
+				var chk=$('#offer').val();
+				
+				var servtype=$('#servicetype').attr('value');
+				$.get('http://theastrologyroom.com/get_list.php?serviceType='+type, show_type);
+				$.get('http://theastrologyroom.com/get_price.php?serviceCost='+type+'&checked='+chk+'&servtype='+servtype, show_price);
+				
+			}
+			function show_type(stype){
+				$('#type').html(stype);
+				$('#servicetype').change(updateprice);
+					
+			}
+
+			function show_price(sprice){
+				$('#price').html(sprice);
+			}
+
+			function updateprice()
+			{
+				var type=$('#reader').attr('value');
+				var chk=$('#offer').val();
+				var servtype=$('#servicetype').attr('value');
+				$.get('http://theastrologyroom.com/get_price.php?serviceCost='+type+'&checked='+chk+'&servtype='+servtype, show_price);
+			}
+			function check()
+
+			{
+
+					if (  document.getElementById('offer').checked)
+
+						{ document.getElementById('offer').value="Yes" ; }
+
+					else  {  document.getElementById('offer').value="No" ;  }
+					
+					update_type_list();
+			}
+		$('#fullname').focus(function() {
+ document.getElementById('fullname').value="";
+});
+	
+			$('#qemail').focus(function() {
+ document.getElementById('qemail').value="";
+});
+	
+				$('#phone').focus(function() {
+ document.getElementById('phone').value="";
+});
+	
+		$('.response').toggle("fast");
+		$('#getaquote').submit(function(){				  
+		var action = $(this).attr('action');
+			$.post(action, { 
+			name: $('#fullname').val(),
+			email: $('#qemail').val(),
+            country:$('#country').val(),
+            phone:$('#phone').val(),
+            intro_offer:$('#offer').val(),
+            reader:$('#reader').attr('value'),
+            service_type:$('#servicetype').attr('value'),
+            price_list:$('#pricelist').attr('value')
+                       
+                       
+		},
+				function(data){
+				$('#getaquote #submit').attr('disabled','');
+				
+				
+				if(data=='Message sent!') {
+				$(".panel").toggle("slow");
+				$('.response').toggle("slow");
+				}
+				else{
+				alert(data);
+				}
+			}
+		); 
+		return false;
+			});
+	});
+</script>
 <!-- Nav Wrapper -->
 
 
@@ -136,17 +227,17 @@ jQuery.event.special.hover.speed = 100;
 									
 																						<div id="grid1" style="width:300px;margin-right: 20px">
 																<div class="moduletable">
-					<p><a href="/guides/answers-by-text"><img src="/images/stories/banners/sms.jpg" border="0"></a></p>		</div>
+					<p><a href="/general/consultations"><img src="/images/stories/banners/consultations1.jpg" border="0"></a></p>		</div>
 	
 												</div>
-																																										<div id="grid3" style="width:300px;margin-right: 20px">
+																																<div id="grid2" style="width:300px;margin-right: 20px">
 																<div class="moduletable">
-					<p><a href="/live-psychics/live-pyschic-readers" title="Astrology Room Live Psychics"><img src="/images/stories/banners/turmoil.jpg" border="0" align="left"></a></p>		</div>
+					<p><a href="/live-psychics/live-pyschic-readers"><img src="/images/stories/banners/inarut1.jpg" border="0"></a></p>		</div>
 	
 												</div>
-																																<div id="grid4" style="width:300px">
+																																										<div id="grid4" style="width:300px">
 																<div class="moduletable">
-					<p><a href="http://www.live-astro.com/partner/astrologyroom/"><img src="/images/stories/banners/charts.jpg" border="0"></a></p>		</div>
+					<p><a href="/guides/answers-by-text"><img src="/images/stories/banners/instantanswers1.jpg" border="0"></a></p>		</div>
 	
 												</div>
 																			
@@ -313,10 +404,10 @@ policies, please send us an email at
  var suffix = '';
  var attribs = '';
  var path = 'hr' + 'ef' + '=';
- var addy47235 = 'th&#101;&#97;str&#111;l&#111;gyr&#111;&#111;m' + '&#64;';
- addy47235 = addy47235 + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + addy47235 + suffix + '\'' + attribs + '>' );
- document.write( addy47235 );
+ var addy97366 = 'th&#101;&#97;str&#111;l&#111;gyr&#111;&#111;m' + '&#64;';
+ addy97366 = addy97366 + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + addy97366 + suffix + '\'' + attribs + '>' );
+ document.write( addy97366 );
  document.write( '<\/a>' );
  //-->
  </script><a href="mailto:theastrologyroom@gmail.com">theastrologyroom@gmail.com</a><script language="JavaScript" type="text/javascript">
@@ -389,14 +480,14 @@ policies, please send us an email at
 
 	<li class="allmode_item">
 
-				<div class="allmode_img"><a href="/guides/year-ahead-in-love-2011"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/sarah/sarah-2011.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Year Ahead In Love - 2011" alt=""></a></div>
+				<div class="allmode_img"><a href="/guides/dream-analysis-readings"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/people/dreaming-woman.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Dream Analysis Readings" alt=""></a></div>
 		
 		<div class="allmode_right" style="padding-left: 89px">
 
 			
-						<h4 class="allmode_title"><a href="/guides/year-ahead-in-love-2011">Year Ahead In Love - 2011</a></h4>
+						<h4 class="allmode_title"><a href="/guides/dream-analysis-readings">Dream Analysis Readings</a></h4>
 			
-						<div class="allmode_text">By Sarah Bartlett 2011, is when Neptune, planet of illusions, magic, loss and…								<span class="allmode_readmore"><a href="/guides/year-ahead-in-love-2011">read more...</a></span>
+						<div class="allmode_text">An introduction to Dreams and Dream Analysis Readingsby Sarah BartlettSarah is…								<span class="allmode_readmore"><a href="/guides/dream-analysis-readings">read more...</a></span>
 							</div>
 			
 						<div class="allmode_details">
@@ -411,14 +502,36 @@ policies, please send us an email at
 
 	<li class="allmode_item">
 
-				<div class="allmode_img"><a href="/guides/your-year-ahead-2011"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/claire/claire-2011.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Your Year Ahead 2011" alt=""></a></div>
+				<div class="allmode_img"><a href="/guides/happy-halloween"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/blogs/jolbcatpcard.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Happy Halloween" alt=""></a></div>
 		
 		<div class="allmode_right" style="padding-left: 89px">
 
 			
-						<h4 class="allmode_title"><a href="/guides/your-year-ahead-2011">Your Year Ahead 2011</a></h4>
+						<h4 class="allmode_title"><a href="/guides/happy-halloween">Happy Halloween</a></h4>
 			
-						<div class="allmode_text">Claire Petulengro's Year Ahead Horoscopes for 2011								<span class="allmode_readmore"><a href="/guides/your-year-ahead-2011">read more...</a></span>
+						<div class="allmode_text">31st October by Jane Lyle Halloween, or Samhain, is upon us. A feast…								<span class="allmode_readmore"><a href="/guides/happy-halloween">read more...</a></span>
+							</div>
+			
+						<div class="allmode_details">
+								<span class="allmode_author" title="Author">Jane Lyle</span>
+				
+				
+							</div>
+			
+		</div>
+
+	</li>
+
+	<li class="allmode_item">
+
+				<div class="allmode_img"><a href="/guides/claires-november-2011-horoscopes"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/water/sunlit-water.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Claire's November 2011 Horoscopes" alt=""></a></div>
+		
+		<div class="allmode_right" style="padding-left: 89px">
+
+			
+						<h4 class="allmode_title"><a href="/guides/claires-november-2011-horoscopes">Claire's November 2011 Horoscopes</a></h4>
+			
+						<div class="allmode_text">Claire Petulengro's horoscopes for the month of November								<span class="allmode_readmore"><a href="/guides/claires-november-2011-horoscopes">read more...</a></span>
 							</div>
 			
 						<div class="allmode_details">
@@ -433,14 +546,80 @@ policies, please send us an email at
 
 	<li class="allmode_item">
 
-				<div class="allmode_img"><a href="/guides/cosmic-weather-forecast-january"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/weather/barometer.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Cosmic Weather Forecast (January)" alt=""></a></div>
+				<div class="allmode_img"><a href="/guides/what-is-my-lovezone"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/love/lovezonespecs.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="What is my LoveZone?" alt=""></a></div>
 		
 		<div class="allmode_right" style="padding-left: 89px">
 
 			
-						<h4 class="allmode_title"><a href="/guides/cosmic-weather-forecast-january">Cosmic Weather Forecast (January)</a></h4>
+						<h4 class="allmode_title"><a href="/guides/what-is-my-lovezone">What is my LoveZone?</a></h4>
 			
-						<div class="allmode_text">January's planets and you by Jane Lyle2011. The brand new year promises to be…								<span class="allmode_readmore"><a href="/guides/cosmic-weather-forecast-january">read more...</a></span>
+						<div class="allmode_text">by Lisa EtchellSo what do we mean by your LoveZone? Your LoveZone is made up of…								<span class="allmode_readmore"><a href="/guides/what-is-my-lovezone">read more...</a></span>
+							</div>
+			
+						<div class="allmode_details">
+								<span class="allmode_author" title="Author">Lisa Etchell</span>
+				
+				
+							</div>
+			
+		</div>
+
+	</li>
+
+	<li class="allmode_item">
+
+				<div class="allmode_img"><a href="/guides/nearly-full-moon-over-astrology-room-office"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/moon/full-moon-over-tar-hq2.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="(Nearly) Full Moon over Astrology Room Office" alt=""></a></div>
+		
+		<div class="allmode_right" style="padding-left: 89px">
+
+			
+						<h4 class="allmode_title"><a href="/guides/nearly-full-moon-over-astrology-room-office">(Nearly) Full Moon over Astrology Room Office</a></h4>
+			
+						<div class="allmode_text">The almost full moon over The Astrology Room HQ, 11th October 2011. "A fiery…								<span class="allmode_readmore"><a href="/guides/nearly-full-moon-over-astrology-room-office">read more...</a></span>
+							</div>
+			
+						<div class="allmode_details">
+								<span class="allmode_author" title="Author">The Astrology Room Team</span>
+				
+				
+							</div>
+			
+		</div>
+
+	</li>
+
+	<li class="allmode_item">
+
+				<div class="allmode_img"><a href="/guides/lisa-etchell"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/Lisa_E/lisa3-280-280.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Lisa Etchell" alt=""></a></div>
+		
+		<div class="allmode_right" style="padding-left: 89px">
+
+			
+						<h4 class="allmode_title"><a href="/guides/lisa-etchell">Lisa Etchell</a></h4>
+			
+						<div class="allmode_text">The Astrology Room welcomes our newest astrologer, Lisa Etchell &nbsp; Lisa Etchell…								<span class="allmode_readmore"><a href="/guides/lisa-etchell">read more...</a></span>
+							</div>
+			
+						<div class="allmode_details">
+								<span class="allmode_author" title="Author">The Astrology Room Team</span>
+				
+				
+							</div>
+			
+		</div>
+
+	</li>
+
+	<li class="allmode_item">
+
+				<div class="allmode_img"><a href="/guides/autumn-eqinox"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/blogs/autumn-maple-leaves.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Autumn Equinox" alt=""></a></div>
+		
+		<div class="allmode_right" style="padding-left: 89px">
+
+			
+						<h4 class="allmode_title"><a href="/guides/autumn-eqinox">Autumn Equinox</a></h4>
+			
+						<div class="allmode_text">Autumn Equinox 23rd September by Jane Lyle You could, if you like, eat a…								<span class="allmode_readmore"><a href="/guides/autumn-eqinox">read more...</a></span>
 							</div>
 			
 						<div class="allmode_details">
@@ -455,14 +634,14 @@ policies, please send us an email at
 
 	<li class="allmode_item">
 
-				<div class="allmode_img"><a href="/guides/sensational-study-shows-proof-of-psychic-powers"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/live_lines/hands-around-sun.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Sensational Study Shows Proof of Psychic Powers" alt=""></a></div>
+				<div class="allmode_img"><a href="/guides/cosmic-weather-forecast-september-2011"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/weather/barometer.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Cosmic Weather Forecast (September 2011)" alt=""></a></div>
 		
 		<div class="allmode_right" style="padding-left: 89px">
 
 			
-						<h4 class="allmode_title"><a href="/guides/sensational-study-shows-proof-of-psychic-powers">Sensational Study Shows Proof of Psychic Powers</a></h4>
+						<h4 class="allmode_title"><a href="/guides/cosmic-weather-forecast-september-2011">Cosmic Weather Forecast (September 2011)</a></h4>
 			
-						<div class="allmode_text">An amazing new scientific study conducted at Cornell University in New York…								<span class="allmode_readmore"><a href="/guides/sensational-study-shows-proof-of-psychic-powers">read more...</a></span>
+						<div class="allmode_text">Cosmic Weather September 2011 Astrology by Jane Lyle &nbsp; &nbsp; September - a month…								<span class="allmode_readmore"><a href="/guides/cosmic-weather-forecast-september-2011">read more...</a></span>
 							</div>
 			
 						<div class="allmode_details">
@@ -477,14 +656,168 @@ policies, please send us an email at
 
 	<li class="allmode_item">
 
-				<div class="allmode_img"><a href="/guides/cosmic-weather-forecast-december"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/weather/barometer.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Cosmic Weather Forecast (December)" alt=""></a></div>
+				<div class="allmode_img"><a href="/guides/cosmic-weather-forecast-august-2011"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/weather/barometer.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Cosmic Weather Forecast (August 2011)" alt=""></a></div>
 		
 		<div class="allmode_right" style="padding-left: 89px">
 
 			
-						<h4 class="allmode_title"><a href="/guides/cosmic-weather-forecast-december">Cosmic Weather Forecast (December)</a></h4>
+						<h4 class="allmode_title"><a href="/guides/cosmic-weather-forecast-august-2011">Cosmic Weather Forecast (August 2011)</a></h4>
 			
-						<div class="allmode_text">December's planets and you by Jane Lyle It’s hard to believe it’s the last…								<span class="allmode_readmore"><a href="/guides/cosmic-weather-forecast-december">read more...</a></span>
+						<div class="allmode_text">Cosmic Weather: August 2011 Astrology by Jane Lyle &nbsp; &nbsp; It’s holiday time for…								<span class="allmode_readmore"><a href="/guides/cosmic-weather-forecast-august-2011">read more...</a></span>
+							</div>
+			
+						<div class="allmode_details">
+								<span class="allmode_author" title="Author">Jane Lyle</span>
+				
+				
+							</div>
+			
+		</div>
+
+	</li>
+
+	<li class="allmode_item">
+
+				<div class="allmode_img"><a href="/guides/eclipse-power"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/blogs/earthquake.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Eclipse Power?" alt=""></a></div>
+		
+		<div class="allmode_right" style="padding-left: 89px">
+
+			
+						<h4 class="allmode_title"><a href="/guides/eclipse-power">Eclipse Power?</a></h4>
+			
+						<div class="allmode_text">by Jane Lyle On Friday, 24th June, 2011, a very powerful earthquake erupted…								<span class="allmode_readmore"><a href="/guides/eclipse-power">read more...</a></span>
+							</div>
+			
+						<div class="allmode_details">
+								<span class="allmode_author" title="Author">Jane Lyle</span>
+				
+				
+							</div>
+			
+		</div>
+
+	</li>
+
+	<li class="allmode_item">
+
+				<div class="allmode_img"><a href="/guides/cosmic-weather-forecast-july"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/weather/barometer.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Cosmic Weather Forecast (July)" alt=""></a></div>
+		
+		<div class="allmode_right" style="padding-left: 89px">
+
+			
+						<h4 class="allmode_title"><a href="/guides/cosmic-weather-forecast-july">Cosmic Weather Forecast (July)</a></h4>
+			
+						<div class="allmode_text">Cosmic Weather: Astrology forecast July 2011 by Jane LyleJuly promises to be as…								<span class="allmode_readmore"><a href="/guides/cosmic-weather-forecast-july">read more...</a></span>
+							</div>
+			
+						<div class="allmode_details">
+								<span class="allmode_author" title="Author">Web Master</span>
+				
+				
+							</div>
+			
+		</div>
+
+	</li>
+
+	<li class="allmode_item">
+
+				<div class="allmode_img"><a href="/guides/newsletter-june-2011"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/newsletter/distant-couple.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Newsletter - June 2011" alt=""></a></div>
+		
+		<div class="allmode_right" style="padding-left: 89px">
+
+			
+						<h4 class="allmode_title"><a href="/guides/newsletter-june-2011">Newsletter - June 2011</a></h4>
+			
+						<div class="allmode_text">Summer Love? Will it be flirtation, romance or good old fashioned lust that the…								<span class="allmode_readmore"><a href="/guides/newsletter-june-2011">read more...</a></span>
+							</div>
+			
+						<div class="allmode_details">
+								<span class="allmode_author" title="Author">Web Master</span>
+				
+				
+							</div>
+			
+		</div>
+
+	</li>
+
+	<li class="allmode_item">
+
+				<div class="allmode_img"><a href="/guides/cosmic-weather-forecast-june"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/weather/barometer.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Cosmic Weather Forecast (June)" alt=""></a></div>
+		
+		<div class="allmode_right" style="padding-left: 89px">
+
+			
+						<h4 class="allmode_title"><a href="/guides/cosmic-weather-forecast-june">Cosmic Weather Forecast (June)</a></h4>
+			
+						<div class="allmode_text">Cosmic Weather: Astrology forecast for June 2011 by Jane LyleJune looks like a…								<span class="allmode_readmore"><a href="/guides/cosmic-weather-forecast-june">read more...</a></span>
+							</div>
+			
+						<div class="allmode_details">
+								<span class="allmode_author" title="Author">Jane Lyle</span>
+				
+				
+							</div>
+			
+		</div>
+
+	</li>
+
+	<li class="allmode_item">
+
+				<div class="allmode_img"><a href="/guides/cosmic-weather-forecast-may"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/weather/barometer.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Cosmic Weather Forecast (May)" alt=""></a></div>
+		
+		<div class="allmode_right" style="padding-left: 89px">
+
+			
+						<h4 class="allmode_title"><a href="/guides/cosmic-weather-forecast-may">Cosmic Weather Forecast (May)</a></h4>
+			
+						<div class="allmode_text">The Cosmic Weather: Astrology Forecast for May 2011 by&nbsp;Jane Lyle The merry…								<span class="allmode_readmore"><a href="/guides/cosmic-weather-forecast-may">read more...</a></span>
+							</div>
+			
+						<div class="allmode_details">
+								<span class="allmode_author" title="Author">Jane Lyle</span>
+				
+				
+							</div>
+			
+		</div>
+
+	</li>
+
+	<li class="allmode_item">
+
+				<div class="allmode_img"><a href="/guides/neptune-in-pisces-what-will-it-mean"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/planets/neptune-closeup.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Neptune in Pisces - What will it mean?" alt=""></a></div>
+		
+		<div class="allmode_right" style="padding-left: 89px">
+
+			
+						<h4 class="allmode_title"><a href="/guides/neptune-in-pisces-what-will-it-mean">Neptune in Pisces - What will it mean?</a></h4>
+			
+						<div class="allmode_text">By Jane LylePlanetary movements represent seeds and themes that are being sown…								<span class="allmode_readmore"><a href="/guides/neptune-in-pisces-what-will-it-mean">read more...</a></span>
+							</div>
+			
+						<div class="allmode_details">
+								<span class="allmode_author" title="Author">Jane Lyle</span>
+				
+				
+							</div>
+			
+		</div>
+
+	</li>
+
+	<li class="allmode_item">
+
+				<div class="allmode_img"><a href="/guides/cosmic-weather-forecast-april"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/weather/barometer.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Cosmic Weather Forecast (April)" alt=""></a></div>
+		
+		<div class="allmode_right" style="padding-left: 89px">
+
+			
+						<h4 class="allmode_title"><a href="/guides/cosmic-weather-forecast-april">Cosmic Weather Forecast (April)</a></h4>
+			
+						<div class="allmode_text">The Cosmic Weather: Astrology Forecast for April 2011 by&nbsp;Jane LyleLike a slab…								<span class="allmode_readmore"><a href="/guides/cosmic-weather-forecast-april">read more...</a></span>
 							</div>
 			
 						<div class="allmode_details">
@@ -521,14 +854,14 @@ policies, please send us an email at
 
 	<li class="allmode_item">
 
-				<div class="allmode_img"><a href="/guides/a-dream-come-true"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/live_lines/dreaming-statue.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="A Dream Come True" alt=""></a></div>
+				<div class="allmode_img"><a href="/guides/what-is-a-psychic-reading"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/live_lines/questions-answers.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="What is a Psychic Reading?" alt=""></a></div>
 		
 		<div class="allmode_right" style="padding-left: 89px">
 
 			
-						<h4 class="allmode_title"><a href="/guides/a-dream-come-true">A Dream Come True</a></h4>
+						<h4 class="allmode_title"><a href="/guides/what-is-a-psychic-reading">What is a Psychic Reading?</a></h4>
 			
-						<div class="allmode_text">The amazing world of psychic dreams by Jane LyleIt's all too easy to dismiss…								<span class="allmode_readmore"><a href="/guides/a-dream-come-true">read more...</a></span>
+						<div class="allmode_text">By Jane LyleA psychic reading is a modern description of the ancient practice…								<span class="allmode_readmore"><a href="/guides/what-is-a-psychic-reading">read more...</a></span>
 							</div>
 			
 						<div class="allmode_details">
@@ -543,14 +876,14 @@ policies, please send us an email at
 
 	<li class="allmode_item">
 
-				<div class="allmode_img"><a href="/guides/the-venus-effect"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/venus1.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="The Venus Effect" alt=""></a></div>
+				<div class="allmode_img"><a href="/guides/cosmic-weather-forecast-march"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/weather/barometer.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Cosmic Weather Forecast (March)" alt=""></a></div>
 		
 		<div class="allmode_right" style="padding-left: 89px">
 
 			
-						<h4 class="allmode_title"><a href="/guides/the-venus-effect">The Venus Effect</a></h4>
+						<h4 class="allmode_title"><a href="/guides/cosmic-weather-forecast-march">Cosmic Weather Forecast (March)</a></h4>
 			
-						<div class="allmode_text">Venus, in astrology, is the planet of love, marriage, friendship, beauty,…								<span class="allmode_readmore"><a href="/guides/the-venus-effect">read more...</a></span>
+						<div class="allmode_text">The Cosmic Weather: Astrology Forecast for March 2011 by Jane LyleMarch is a…								<span class="allmode_readmore"><a href="/guides/cosmic-weather-forecast-march">read more...</a></span>
 							</div>
 			
 						<div class="allmode_details">
@@ -565,256 +898,14 @@ policies, please send us an email at
 
 	<li class="allmode_item">
 
-				<div class="allmode_img"><a href="/guides/jupiter-uranus-and-you"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/dark/apocalypse_thunder.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Jupiter, Uranus and You" alt=""></a></div>
+				<div class="allmode_img"><a href="/guides/cosmic-weather-forecast-february"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/weather/barometer.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Cosmic Weather Forecast (February)" alt=""></a></div>
 		
 		<div class="allmode_right" style="padding-left: 89px">
 
 			
-						<h4 class="allmode_title"><a href="/guides/jupiter-uranus-and-you">Jupiter, Uranus and You</a></h4>
+						<h4 class="allmode_title"><a href="/guides/cosmic-weather-forecast-february">Cosmic Weather Forecast (February)</a></h4>
 			
-						<div class="allmode_text">A Perfect Storm Astrology is all about patterns, and trying to figure out what…								<span class="allmode_readmore"><a href="/guides/jupiter-uranus-and-you">read more...</a></span>
-							</div>
-			
-						<div class="allmode_details">
-								<span class="allmode_author" title="Author">Jane Lyle</span>
-				
-				
-							</div>
-			
-		</div>
-
-	</li>
-
-	<li class="allmode_item">
-
-				<div class="allmode_img"><a href="/guides/cosmic-weather-forecast"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/weather/barometer.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Cosmic Weather Forecast (November)" alt=""></a></div>
-		
-		<div class="allmode_right" style="padding-left: 89px">
-
-			
-						<h4 class="allmode_title"><a href="/guides/cosmic-weather-forecast">Cosmic Weather Forecast (November)</a></h4>
-			
-						<div class="allmode_text">November’s planets and you by Jane Lyle Creative, financial and emotional…								<span class="allmode_readmore"><a href="/guides/cosmic-weather-forecast">read more...</a></span>
-							</div>
-			
-						<div class="allmode_details">
-								<span class="allmode_author" title="Author">Jane Lyle</span>
-				
-				
-							</div>
-			
-		</div>
-
-	</li>
-
-	<li class="allmode_item">
-
-				<div class="allmode_img"><a href="/guides/chinese-astrology-what-does-the-year-of-the-tiger-mean"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/chinese/tiger.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Chinese Astrology - What does the Year of the Tiger mean?" alt=""></a></div>
-		
-		<div class="allmode_right" style="padding-left: 89px">
-
-			
-						<h4 class="allmode_title"><a href="/guides/chinese-astrology-what-does-the-year-of-the-tiger-mean">Chinese Astrology - What does the Year of the Tiger mean?</a></h4>
-			
-						<div class="allmode_text">&nbsp; &nbsp; &nbsp; The Chinese Year of the Tiger begins on Valentine's Day, 14th February…								<span class="allmode_readmore"><a href="/guides/chinese-astrology-what-does-the-year-of-the-tiger-mean">read more...</a></span>
-							</div>
-			
-						<div class="allmode_details">
-								<span class="allmode_author" title="Author">Jane Lyle</span>
-				
-				
-							</div>
-			
-		</div>
-
-	</li>
-
-	<li class="allmode_item">
-
-				<div class="allmode_img"><a href="/guides/answers-by-text"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/ask_the_experts/instant-answers-by-text-ban.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="answers by text" alt=""></a></div>
-		
-		<div class="allmode_right" style="padding-left: 89px">
-
-			
-						<h4 class="allmode_title"><a href="/guides/answers-by-text">answers by text</a></h4>
-			
-						<div class="allmode_text">&nbsp; Your questions answered by The Astrology Room's top team of psychics -…								<span class="allmode_readmore"><a href="/guides/answers-by-text">read more...</a></span>
-							</div>
-			
-						<div class="allmode_details">
-								<span class="allmode_author" title="Author">Web Master</span>
-				
-				
-							</div>
-			
-		</div>
-
-	</li>
-
-	<li class="allmode_item">
-
-				<div class="allmode_img"><a href="/guides/saturn-moves-into-libra"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/planets/saturn/saturn_cassini.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Saturn moves into Libra" alt=""></a></div>
-		
-		<div class="allmode_right" style="padding-left: 89px">
-
-			
-						<h4 class="allmode_title"><a href="/guides/saturn-moves-into-libra">Saturn moves into Libra</a></h4>
-			
-						<div class="allmode_text">What does this mean for your star sign? Read Peter Watson's sign by sign guide…								<span class="allmode_readmore"><a href="/guides/saturn-moves-into-libra">read more...</a></span>
-							</div>
-			
-						<div class="allmode_details">
-								<span class="allmode_author" title="Author">Peter Watson</span>
-				
-				
-							</div>
-			
-		</div>
-
-	</li>
-
-	<li class="allmode_item">
-
-				<div class="allmode_img"><a href="/guides/what-famous-people-share-your-moon-sign"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/moon/clemantine-moon.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="What Famous People Share Your Moon Sign?" alt=""></a></div>
-		
-		<div class="allmode_right" style="padding-left: 89px">
-
-			
-						<h4 class="allmode_title"><a href="/guides/what-famous-people-share-your-moon-sign">What Famous People Share Your Moon Sign?</a></h4>
-			
-						<div class="allmode_text">You can check out famous people’s Moon signs for fun. But you might be…								<span class="allmode_readmore"><a href="/guides/what-famous-people-share-your-moon-sign">read more...</a></span>
-							</div>
-			
-						<div class="allmode_details">
-								<span class="allmode_author" title="Author">Jane Lyle</span>
-				
-				
-							</div>
-			
-		</div>
-
-	</li>
-
-	<li class="allmode_item">
-
-				<div class="allmode_img"><a href="/guides/dark-side-of-the-signs"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/dark/storm_approaching.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Dark Side of the Signs" alt=""></a></div>
-		
-		<div class="allmode_right" style="padding-left: 89px">
-
-			
-						<h4 class="allmode_title"><a href="/guides/dark-side-of-the-signs">Dark Side of the Signs</a></h4>
-			
-						<div class="allmode_text">Welcome to the dark side – a zodiac guide from Jane Lyle It’s not…								<span class="allmode_readmore"><a href="/guides/dark-side-of-the-signs">read more...</a></span>
-							</div>
-			
-						<div class="allmode_details">
-								<span class="allmode_author" title="Author">Jane Lyle</span>
-				
-				
-							</div>
-			
-		</div>
-
-	</li>
-
-	<li class="allmode_item">
-
-				<div class="allmode_img"><a href="/guides/zodiac-symbols-and-their-meanings"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/zodiac_images/hones/pisces_hones.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Zodiac Symbols and their Meanings" alt=""></a></div>
-		
-		<div class="allmode_right" style="padding-left: 89px">
-
-			
-						<h4 class="allmode_title"><a href="/guides/zodiac-symbols-and-their-meanings">Zodiac Symbols and their Meanings</a></h4>
-			
-						<div class="allmode_text">Is the symbol for your sun sign a puzzle? These zodiac symbols are more than…								<span class="allmode_readmore"><a href="/guides/zodiac-symbols-and-their-meanings">read more...</a></span>
-							</div>
-			
-						<div class="allmode_details">
-								<span class="allmode_author" title="Author">Jane Lyle</span>
-				
-				
-							</div>
-			
-		</div>
-
-	</li>
-
-	<li class="allmode_item">
-
-				<div class="allmode_img"><a href="/guides/what-does-mercury-retrograde-mean"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/mercury/mercury_new_sm.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="What Does Mercury Retrograde Mean?" alt=""></a></div>
-		
-		<div class="allmode_right" style="padding-left: 89px">
-
-			
-						<h4 class="allmode_title"><a href="/guides/what-does-mercury-retrograde-mean">What Does Mercury Retrograde Mean?</a></h4>
-			
-						<div class="allmode_text">Mercury Retrograde How to minimise its impact. By Peter Watson As the…								<span class="allmode_readmore"><a href="/guides/what-does-mercury-retrograde-mean">read more...</a></span>
-							</div>
-			
-						<div class="allmode_details">
-								<span class="allmode_author" title="Author">Peter Watson</span>
-				
-				
-							</div>
-			
-		</div>
-
-	</li>
-
-	<li class="allmode_item">
-
-				<div class="allmode_img"><a href="/guides/how-the-elements-look-at-love"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/fire/groundfire_sm.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="How The Elements Look At Love" alt=""></a></div>
-		
-		<div class="allmode_right" style="padding-left: 89px">
-
-			
-						<h4 class="allmode_title"><a href="/guides/how-the-elements-look-at-love">How The Elements Look At Love</a></h4>
-			
-						<div class="allmode_text">The zodiac is made up of 12 star signs but we also have what is known as the…								<span class="allmode_readmore"><a href="/guides/how-the-elements-look-at-love">read more...</a></span>
-							</div>
-			
-						<div class="allmode_details">
-								<span class="allmode_author" title="Author">Claire Petulengro</span>
-				
-				
-							</div>
-			
-		</div>
-
-	</li>
-
-	<li class="allmode_item">
-
-				<div class="allmode_img"><a href="/guides/characteristics-of-zodiac-sign"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/faces/woman_with_coffee_cup.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Characteristics of Zodiac Sign" alt=""></a></div>
-		
-		<div class="allmode_right" style="padding-left: 89px">
-
-			
-						<h4 class="allmode_title"><a href="/guides/characteristics-of-zodiac-sign">Characteristics of Zodiac Sign</a></h4>
-			
-						<div class="allmode_text">Want to know the characteristics of zodiac signs? Learn about yourself, your…								<span class="allmode_readmore"><a href="/guides/characteristics-of-zodiac-sign">read more...</a></span>
-							</div>
-			
-						<div class="allmode_details">
-								<span class="allmode_author" title="Author">Sarah Bartlett</span>
-				
-				
-							</div>
-			
-		</div>
-
-	</li>
-
-	<li class="allmode_item">
-
-				<div class="allmode_img"><a href="/guides/the-moons-magical-phases"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/moon/moon_over_field_sm.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="The Moon's Magical Phases" alt=""></a></div>
-		
-		<div class="allmode_right" style="padding-left: 89px">
-
-			
-						<h4 class="allmode_title"><a href="/guides/the-moons-magical-phases">The Moon's Magical Phases</a></h4>
-			
-						<div class="allmode_text">Each phase of the Moon resonates with magical significance and astrological…								<span class="allmode_readmore"><a href="/guides/the-moons-magical-phases">read more...</a></span>
+						<div class="allmode_text">Cosmic Weather Forecast February 2011&nbsp; by Jane LyleFasten your seat belts, it…								<span class="allmode_readmore"><a href="/guides/cosmic-weather-forecast-february">read more...</a></span>
 							</div>
 			
 						<div class="allmode_details">
@@ -852,18 +943,40 @@ jQuery(document).ready(function($){
 
 	<li class="allmode_item">
 
-				<div class="allmode_img"><a href="/sex-and-relationships/william-and-kate-astrology"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/blogs/william-and-kate.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="William and Kate, The Astrology" alt=""></a></div>
+				<div class="allmode_img"><a href="/sex-and-relationships/lisas-love-zone-love-horoscopes-for-december-2011"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/Lisa_E/lisa4.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Lisa's Love Zone (Love Horoscopes for December 2011)" alt=""></a></div>
 		
 		<div class="allmode_right" style="padding-left: 89px">
 
 			
-						<h4 class="allmode_title"><a href="/sex-and-relationships/william-and-kate-astrology">William and Kate, The Astrology</a></h4>
+						<h4 class="allmode_title"><a href="/sex-and-relationships/lisas-love-zone-love-horoscopes-for-december-2011">Lisa's Love Zone (Love Horoscopes for December 2011)</a></h4>
 			
-						<div class="allmode_text">So the long-awaited royal engagement between Prince William and Kate Middleton…								<span class="allmode_readmore"><a href="/sex-and-relationships/william-and-kate-astrology">read more...</a></span>
+						<div class="allmode_text">Love Zone Horoscopes for December 2011 By Lisa Etchell Venus begins her journey…								<span class="allmode_readmore"><a href="/sex-and-relationships/lisas-love-zone-love-horoscopes-for-december-2011">read more...</a></span>
 							</div>
 			
 						<div class="allmode_details">
-								<span class="allmode_author" title="Author">Jane Lyle</span>
+								<span class="allmode_author" title="Author">Lisa Etchell</span>
+				
+				
+							</div>
+			
+		</div>
+
+	</li>
+
+	<li class="allmode_item">
+
+				<div class="allmode_img"><a href="/sex-and-relationships/the-saturn-return"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/planets/saturn/saturn_cassini.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="The Saturn Return" alt=""></a></div>
+		
+		<div class="allmode_right" style="padding-left: 89px">
+
+			
+						<h4 class="allmode_title"><a href="/sex-and-relationships/the-saturn-return">The Saturn Return</a></h4>
+			
+						<div class="allmode_text">by Sarah Bartlett &nbsp; &nbsp; The planetary cycles of Saturn, Jupiter and Uranus…								<span class="allmode_readmore"><a href="/sex-and-relationships/the-saturn-return">read more...</a></span>
+							</div>
+			
+						<div class="allmode_details">
+								<span class="allmode_author" title="Author">Sarah Bartlett</span>
 				
 				
 							</div>
@@ -896,58 +1009,14 @@ jQuery(document).ready(function($){
 
 	<li class="allmode_item">
 
-				<div class="allmode_img"><a href="/sex-and-relationships/compatible-astrology-signs"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/couples/holding_hands.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Compatible Astrology Signs" alt=""></a></div>
+				<div class="allmode_img"><a href="/sex-and-relationships/summer-love-horoscopes"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/love/two-cherries.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Summer Love Horoscopes" alt=""></a></div>
 		
 		<div class="allmode_right" style="padding-left: 89px">
 
 			
-						<h4 class="allmode_title"><a href="/sex-and-relationships/compatible-astrology-signs">Compatible Astrology Signs</a></h4>
+						<h4 class="allmode_title"><a href="/sex-and-relationships/summer-love-horoscopes">Summer Love Horoscopes</a></h4>
 			
-						<div class="allmode_text">Find out which astrology signs are compatible with your sign. Noted astrologer…								<span class="allmode_readmore"><a href="/sex-and-relationships/compatible-astrology-signs">read more...</a></span>
-							</div>
-			
-						<div class="allmode_details">
-								<span class="allmode_author" title="Author">Sarah Bartlett</span>
-				
-				
-							</div>
-			
-		</div>
-
-	</li>
-
-	<li class="allmode_item">
-
-				<div class="allmode_img"><a href="/sex-and-relationships/the-saturn-return"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/planets/saturn/saturn_cassini.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="The Saturn Return" alt=""></a></div>
-		
-		<div class="allmode_right" style="padding-left: 89px">
-
-			
-						<h4 class="allmode_title"><a href="/sex-and-relationships/the-saturn-return">The Saturn Return</a></h4>
-			
-						<div class="allmode_text">The planetary cycles of Saturn, Jupiter and Uranus signify specific key phases…								<span class="allmode_readmore"><a href="/sex-and-relationships/the-saturn-return">read more...</a></span>
-							</div>
-			
-						<div class="allmode_details">
-								<span class="allmode_author" title="Author">Sarah Bartlett</span>
-				
-				
-							</div>
-			
-		</div>
-
-	</li>
-
-	<li class="allmode_item">
-
-				<div class="allmode_img"><a href="/sex-and-relationships/what-does-your-rising-sign-mean"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/rising/rising-sign.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="What Does Your Rising Sign Mean?" alt=""></a></div>
-		
-		<div class="allmode_right" style="padding-left: 89px">
-
-			
-						<h4 class="allmode_title"><a href="/sex-and-relationships/what-does-your-rising-sign-mean">What Does Your Rising Sign Mean?</a></h4>
-			
-						<div class="allmode_text">Your rising sign describes the way other people see you, and the way you…								<span class="allmode_readmore"><a href="/sex-and-relationships/what-does-your-rising-sign-mean">read more...</a></span>
+						<div class="allmode_text">By Sarah Bartlett - Your exclusive forecast for July and August - summer love,…								<span class="allmode_readmore"><a href="/sex-and-relationships/summer-love-horoscopes">read more...</a></span>
 							</div>
 			
 						<div class="allmode_details">
@@ -984,6 +1053,28 @@ jQuery(document).ready(function($){
 
 	<li class="allmode_item">
 
+				<div class="allmode_img"><a href="/sex-and-relationships/compatible-astrology-signs"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/couples/holding_hands.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Compatible Astrology Signs" alt=""></a></div>
+		
+		<div class="allmode_right" style="padding-left: 89px">
+
+			
+						<h4 class="allmode_title"><a href="/sex-and-relationships/compatible-astrology-signs">Compatible Astrology Signs</a></h4>
+			
+						<div class="allmode_text">Find out which astrology signs are compatible with your sign. Noted astrologer…								<span class="allmode_readmore"><a href="/sex-and-relationships/compatible-astrology-signs">read more...</a></span>
+							</div>
+			
+						<div class="allmode_details">
+								<span class="allmode_author" title="Author">Sarah Bartlett</span>
+				
+				
+							</div>
+			
+		</div>
+
+	</li>
+
+	<li class="allmode_item">
+
 				<div class="allmode_img"><a href="/sex-and-relationships/office-romance"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/love/love-hearts.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Office Romance" alt=""></a></div>
 		
 		<div class="allmode_right" style="padding-left: 89px">
@@ -996,28 +1087,6 @@ jQuery(document).ready(function($){
 			
 						<div class="allmode_details">
 								<span class="allmode_author" title="Author">Claire Petulengro</span>
-				
-				
-							</div>
-			
-		</div>
-
-	</li>
-
-	<li class="allmode_item">
-
-				<div class="allmode_img"><a href="/sex-and-relationships/how-faithful-are-you"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/love/wooden_heart.jpg&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="How Faithful Are You?" alt=""></a></div>
-		
-		<div class="allmode_right" style="padding-left: 89px">
-
-			
-						<h4 class="allmode_title"><a href="/sex-and-relationships/how-faithful-are-you">How Faithful Are You?</a></h4>
-			
-						<div class="allmode_text">Are you a loyal Leo or a flirty Gemini? An intense and jealous Scorpio or a…								<span class="allmode_readmore"><a href="/sex-and-relationships/how-faithful-are-you">read more...</a></span>
-							</div>
-			
-						<div class="allmode_details">
-								<span class="allmode_author" title="Author">Maggie Hyde</span>
 				
 				
 							</div>
@@ -1278,6 +1347,28 @@ jQuery(document).ready(function($){
 						<h4 class="allmode_title"><a href="/sex-and-relationships/ultimate-compatibility-guide-aries-woman">Ultimate Compatibility Guide - Aries Woman</a></h4>
 			
 						<div class="allmode_text">&nbsp; Sarah's sign by sign zodiac love and compatibility guide for the Aries woman								<span class="allmode_readmore"><a href="/sex-and-relationships/ultimate-compatibility-guide-aries-woman">read more...</a></span>
+							</div>
+			
+						<div class="allmode_details">
+								<span class="allmode_author" title="Author">Sarah Bartlett</span>
+				
+				
+							</div>
+			
+		</div>
+
+	</li>
+
+	<li class="allmode_item">
+
+				<div class="allmode_img"><a href="/sex-and-relationships/ultimate-compatibility-guide-taurus-woman"><img src="/modules/mod_raxo_allmode/tools/tb.php?src=/images/stories/glyphs_hellron/taurus-glyph.gif&amp;w=75&amp;h=75&amp;zc=1" width="75" height="75" title="Ultimate Compatibility Guide - Taurus Woman" alt=""></a></div>
+		
+		<div class="allmode_right" style="padding-left: 89px">
+
+			
+						<h4 class="allmode_title"><a href="/sex-and-relationships/ultimate-compatibility-guide-taurus-woman">Ultimate Compatibility Guide - Taurus Woman</a></h4>
+			
+						<div class="allmode_text">Sarah's sign by sign zodiac love and compatibility guide for the Taurus woman								<span class="allmode_readmore"><a href="/sex-and-relationships/ultimate-compatibility-guide-taurus-woman">read more...</a></span>
 							</div>
 			
 						<div class="allmode_details">
