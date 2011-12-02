@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the setster.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522082251id_/http%3A//www.setster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the setster.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202022646id_/http%3A//www.setster.com/privacy) for the most accurate reproduction.*
 
 # Setster Privacy Policy
 
@@ -61,6 +61,10 @@ Other Sharing of Information
 We may release information when necessary to comply with the law or a court order or an investigation. We also may release information to law enforcement to protect our rights, property, or other interests, including those of our customers or users or to prevent illegal activities or violations of our Terms of Use. 
 
 In the event that we, in whole or in part, establish a partnership with another company, or are acquired by or merged with another company, information we collect may be transferred to the partner or the acquiring or merging company at time such merger, acquisition, or partnership is closed and to the extent necessary to fulfill our obligations under such merger, acquisition, or partnership. 
+
+Account Access 
+
+If you enter in a service request that requires us to troubleshoot your account, our support team may access your account. Likewise, if your account needs custom configuring and set-up, our team will log into your account from our back-end using your user ID to configure the account. 
 
 Child Protection 
 
