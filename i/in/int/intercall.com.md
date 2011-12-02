@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intercall.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526104825id_/http%3A//www.intercall.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intercall.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202061511id_/http%3A//www.intercall.com/privacy.php) for the most accurate reproduction.*
 
 # InterCall Privacy Policy | Conference Call Company
 
@@ -39,51 +39,64 @@ Remember, this Privacy Policy only applies to the InterCall Site. When you are n
 
 ## HIPAA PRIVACY NOTICE
 
-THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN OBTAIN ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.
+**THIS NOTICE DESCRIBES HOW MEDICAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED AND HOW YOU CAN OBTAIN ACCESS TO THIS INFORMATION. PLEASE REVIEW IT CAREFULLY.**
 
 **INTRODUCTION**
 
-West Corporation and its affiliates are required by law to maintain the privacy of "protected health information." "Protected health information" includes any identifiable information we obtain from you or others that relates to your physical or mental health, the health care you have received, or payment for your health care.
+West Corporation and its affiliates are required by law to maintain the privacy of “protected health information.” “Protected health information” includes any identifiable information we obtain from you or others that relates to your physical or mental health, the health care you have received, or payment for your health care.
 
 As required by law, this notice provides you with information about your rights and our legal duties and privacy practices with respect to the privacy of protected health information. This notice also discusses the uses and disclosures we will make of your protected health information. We must comply with the provisions of this notice, although we reserve the right to change the terms of this notice from time to time and to make the revised notice effective for all protected health information we maintain. You can always request a copy of the most current privacy notice from our Privacy and Security Official.
 
 This Notice applies to the following organizations that are affiliated as part of West Corporation and share similar information practices:
 
-  * West Corporation 
-  * A Better Conference, Inc. 
-  * Asset Direct Mortgage, LLC 
-  * BuyDebtCo, LLC 
-  * Cosmosis Corporation 
-  * InterCall, Inc. 
-  * InterCall Telecom Ventures, LLC 
-  * Intrado, Inc. 
-  * Intrado Command Systems, Inc. 
-  * Intrado Communications, Inc. 
-  * Intrado Communications of Virginia, Inc. 
-  * Intrado Information Systems Holdings, Inc. 
-  * Intrado International, LLC 
-  * Northern Contact, Inc. 
-  * Positron Public Safety Systems Corp. 
-  * Stargate Management, LLC 
-  * Stream57 Corporation 
-  * TeleVox Software, Incorporated 
-  * The Debt Depot, LLC 
-  * West Asset Management, Inc. 
-  * West Asset Purchasing, LLC 
-  * West At Home, LLC 
-  * West Business Services, LLC 
-  * West Customer Management Group, LLC 
-  * West Direct, LLC 
-  * West Direct II, Inc. 
-  * West Education Foundation 
-  * West Facilities, LLC 
-  * West Interactive Corporation 
-  * West International Corporation 
-  * West Notifications Group, Inc. 
-  * West Receivables, LLC 
-  * West Receivables Holdings, LLC 
-  * West Receivables Purchasing, LLC 
-  * West Receivables Services, Inc. 
+  * West Corporation
+  * 760 Northlawn Drive, LLC
+  * A Better Conference, Inc.
+  * Asset Direct Mortgage, LLC
+  * BuyDebtCo, LLC
+  * Cosmosis Corporation
+  * Holly Connects, Inc.
+  * InterCall, Inc.
+  * InterCall Telecom Ventures, LLC
+  * Intrado, Inc.
+  * Intrado Command Systems, Inc.
+  * Intrado Communications Inc.
+  * Intrado Communications of Virginia Inc.
+  * Intrado Information Systems Holdings, Inc.
+  * Intrado International, LLC
+  * Intrado Systems Corp.
+  * Northern Contact, Inc.
+  * Stargate Management LLC
+  * Stream57 Corporation
+  * TeleVox Software, Incorporated
+  * The Debt Depot, LLC
+  * TuVox Incorporated
+  * Twenty First Century Communications, Inc.
+  * Twenty First Century Communications of Canada, Inc.
+  * Twenty First Century Crisis Communications, LLC
+  * Twenty First Century International Services LLC
+  * Unisfair, LLC
+  * West Asset Management, Inc.
+  * West Asset Purchasing, LLC
+  * West At Home, LLC
+  * West Business Services, LLC
+  * West Communications, Inc.
+  * West Customer Management Group, LLC
+  * West Direct, LLC
+  * West Direct II, Inc.
+  * West Education Foundation
+  * West Facilities, LLC
+  * West Interactive Corporation
+  * West International Corporation
+  * West Language Services, LLC
+  * West Notifications Group, Inc.
+  * West Professional Services, Inc.
+  * West Receivables LLC
+  * West Receivables Holdings LLC
+  * West Receivables Purchasing, LLC
+  * West Receivables Services, Inc.
+  * West UC Solutions, LLC
+  * West UC Solutions Holdings, Inc.
   * Worldwide Asset Purchasing, LLC
 
 
@@ -94,11 +107,11 @@ This Notice applies to the following organizations that are affiliated as part o
 
 The affiliates of West Corporation (“West”) listed above are Business Associates of Covered Entities with which you may do business. These Covered Entities would include, for example, your insurance company, your dentist, your pharmacy, etc. In the capacity of Business Associate, the Covered Entity you use may provide access to a portion of your protected health information to West. We intend to use or disclose your protected health information for the purposes of fulfilling our obligations to the Covered Entity. These uses or disclosures may include, but are not limited to, the following categories and examples:
 
- **Treatment** – We may use protected health information provided to us by your Covered Entity to inform you of approaching events related to your healthcare. For example, we may notify you a prescription is coming up for refill; or, we may call you because it has been a while since you have ordered supplies for a medical condition and it is time to reorder.
+**Treatment** – We may use protected health information provided to us by your Covered Entity to inform you of approaching events related to your healthcare. For example, we may notify you a prescription is coming up for refill; or, we may call you because it has been a while since you have ordered supplies for a medical condition and it is time to reorder.
 
- **Payment** – We may use protected health information provided to us by your Covered Entity to inform you of issues related to payment for your healthcare. For example, we may notify you of a past due payment on a medical bill.
+**Payment** – We may use protected health information provided to us by your Covered Entity to inform you of issues related to payment for your healthcare. For example, we may notify you of a past due payment on a medical bill.
 
- **Healthcare operations** – We may use protected health information provided to us by your Covered Entity to assist your Covered Entity in serving you better. For example, we may provide conference capabilities for your physician to consult with other medical staff; we may provide customer service on behalf of your insurance carrier to assist you with your insurance benefits; or, we may provide recall notifications for a recalled medical device you may use.
+**Healthcare operations** – We may use protected health information provided to us by your Covered Entity to assist your Covered Entity in serving you better. For example, we may provide conference capabilities for your physician to consult with other medical staff; we may provide customer service on behalf of your insurance carrier to assist you with your insurance benefits; or, we may provide recall notifications for a recalled medical device you may use.
 
 * * *
 
@@ -118,27 +131,27 @@ We may contact you on behalf of your Covered Entity as part of their marketing e
 
 Except for the special situations set forth below and the general uses and disclosures described above, we will not use or disclose your protected health information for any other purposes unless you provide a written authorization to your Covered Entity.
 
- **Worker’s Compensation** – We may disclose your protected health information to the extent authorized by and to the extent necessary to comply with laws relating to workers’ compensation or other similar programs established by law.
+**Worker’s Compensation** – We may disclose your protected health information to the extent authorized by and to the extent necessary to comply with laws relating to workers’ compensation or other similar programs established by law.
 
- **Public Health** – When required or permitted by law, we may disclose your protected health information to public health or legal authorities responsible for preventing or controlling disease, injury or disability or performing other public health functions. In addition, we may disclose your protected health information in order to avert a serious threat to health or safety.
+**Public Health** – When required or permitted by law, we may disclose your protected health information to public health or legal authorities responsible for preventing or controlling disease, injury or disability or performing other public health functions. In addition, we may disclose your protected health information in order to avert a serious threat to health or safety.
 
- **Specialized Government Functions** – We may disclose your protected health information for military and veterans’ activities, national security and intelligence activities and similar special governmental functions as required or permitted by law.
+**Specialized Government Functions** – We may disclose your protected health information for military and veterans’ activities, national security and intelligence activities and similar special governmental functions as required or permitted by law.
 
- **Health Oversight Agencies** – We may disclose your protected health information to an appropriate health oversight agency, public health authority or attorney involved in health oversight activities.
+**Health Oversight Agencies** – We may disclose your protected health information to an appropriate health oversight agency, public health authority or attorney involved in health oversight activities.
 
- **Law Enforcement** – We may disclose your protected health information for law enforcement purposes as required or permitted by law or in response to a valid subpoena, court order or other binding authority.
+**Law Enforcement** – We may disclose your protected health information for law enforcement purposes as required or permitted by law or in response to a valid subpoena, court order or other binding authority.
 
- **Judicial and Administrative Proceedings** – We may disclose your protected health information for judicial or administrative proceedings as required or permitted by law or in response to a valid subpoena, court order or other binding authority.
+**Judicial and Administrative Proceedings** – We may disclose your protected health information for judicial or administrative proceedings as required or permitted by law or in response to a valid subpoena, court order or other binding authority.
 
- **Food and Drug Administration (“FDA”)** – We may disclose to the FDA, or an entity subject to FDA jurisdiction, your protected health information for public health purposes related to the quality, safety or effectiveness of an FDA-regulated product or activity for which that person has responsibility. For example, your information may be disclosed in connection with the reporting of an adverse event, product defect, product tracking or to provide post marketing surveillance information.
+**Food and Drug Administration (“FDA”)** – We may disclose to the FDA, or an entity subject to FDA jurisdiction, your protected health information for public health purposes related to the quality, safety or effectiveness of an FDA-regulated product or activity for which that person has responsibility. For example, your information may be disclosed in connection with the reporting of an adverse event, product defect, product tracking or to provide post marketing surveillance information.
 
- **Disclosures Required by Law** – We may use or disclose your protected health information as required by law provided such use or disclosure complies with and is limited to the relevant requirements of such law.
+**Disclosures Required by Law** – We may use or disclose your protected health information as required by law provided such use or disclosure complies with and is limited to the relevant requirements of such law.
 
 * * *
 
 **YOUR RIGHTS REGARDING HEALTH INFORMATION ABOUT YOU**
 
-You have a right to expect your protected health information will be kept secure and used only for legitimate purposes. 
+You have a right to expect your protected health information will be kept secure and used only for legitimate purposes.
 
   * You have a right to understand how your protected health information may be used and disclosed by West. 
   * You have a right to access this privacy notice that tells you how your protected health information may be used or disclosed. 
@@ -157,7 +170,7 @@ You have a right to expect your protected health information will be kept secure
 
 If you believe your privacy rights have been violated, you should immediately contact our Privacy and Security Official. We will not take any action against you for filing a complaint. You may also file a complaint with the Secretary of Health and Human Services.
 
- **CONTACT PERSON**
+**CONTACT PERSON**
 
 If you have any questions or would like further information about this notice, please contact Alain Zarinelli, West Corporation Privacy and Security Official, at (402) 963-1200 or by mail at 11808 Miracle Hills Drive, Omaha, NE 68154.
 
