@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bulkfans.com privacy policy that was archived on 2011-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624000926id_/http%3A//www.bulkfans.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bulkfans.com privacy policy that was archived on 2011-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111202061402id_/http%3A//www.bulkfans.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 
@@ -40,6 +40,7 @@
 <script type="text/javascript" src="http://www.bulkfans.com/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
 <script type="text/javascript" src="http://www.bulkfans.com/wp-content/plugins/jquery-lightbox-balupton-edition/scripts/jquery.lightbox.min.js?ver=1.4.9"></script>
 <script type="text/javascript" src="http://www.bulkfans.com/wp-content/plugins/jquery-lightbox-balupton-edition/scripts/jquery.lightbox.plugin.min.js?ver=1.0"></script>
+<script type="text/javascript" src="http://www.bulkfans.com/wp-content/plugins/dropdown-menu-widget/js/include.js?ver=3.0.1"></script>
 <script type="text/javascript" src="http://www.bulkfans.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
 <script type="text/javascript" src="http://www.bulkfans.com/wp-content/plugins/google-analyticator/external-tracking.min.js?ver=6.1.1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.bulkfans.com/xmlrpc.php?rsd">
@@ -52,7 +53,23 @@
 <!-- All in One SEO Pack 1.6.12.1 by Michael Torbert of Semper Fi Web Design[246,295] -->
 <link rel="canonical" href="http://www.bulkfans.com/privacy/">
 <!-- /all in one seo pack -->
-		<!-- Meta Manager Start -->
+
+
+<!-- Dropdown Menu Widget Styles by shailan (http://shailan.com) v1.6.3 on wp3.0.1 -->
+<link rel="stylesheet" href="http://www.bulkfans.com/wp-content/plugins/dropdown-menu-widget/css/shailan-dropdown.css" type="text/css">
+<style type="text/css" media="all">
+	ul.dropdown { white-space: nowrap;	}	
+	/** Show submenus */
+	ul.dropdown li:hover > ul, ul.dropdown li.hover ul{ display: block; }
+	
+	/** Show current submenu */
+	ul.dropdown li.hover ul, ul.dropdown ul li.hover ul, ul.dropdown ul ul li.hover ul, ul.dropdown ul ul ul li.hover ul, ul.dropdown ul ul ul ul li.hover ul , ul.dropdown li:hover ul, ul.dropdown ul li:hover ul, ul.dropdown ul ul li:hover ul, ul.dropdown ul ul ul li:hover ul, ul.dropdown ul ul ul ul li:hover ul { display: block; } 
+				
+			
+</style>
+<!-- /Dropdown Menu Widget Styles -->
+
+ 		<!-- Meta Manager Start -->
 				<!-- Meta Manager End -->
 		<!-- Google Analytics Tracking by Google Analyticator 6.1.1: http://ronaldheft.com/code/analyticator/ -->
 <script type="text/javascript">
@@ -73,9 +90,107 @@
 
 	<style type="text/css">
 	</style>
-</head>
+
+<style type="text/css">
+
+#topbar{
+position:absolute;
+border: 1px solid #aaa9a9;
+padding: 2px;
+background-color: #eceeec;
+width: 958px;
+visibility: hidden;
+z-index: 100;
+}
+
+</style>
+
+<script type="text/javascript">
+
+var persistclose=0
+var startX = 150
+var startY = 0
+var verticalpos="fromtop"
+
+function iecompattest(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function get_cookie(Name) {
+var search = Name + "="
+var returnvalue = "";
+if (document.cookie.length > 0) {
+offset = document.cookie.indexOf(search)
+if (offset != -1) {
+offset += search.length
+end = document.cookie.indexOf(";", offset);
+if (end == -1) end = document.cookie.length;
+returnvalue=unescape(document.cookie.substring(offset, end))
+}
+}
+return returnvalue;
+}
+
+function staticbar(){
+	barheight=document.getElementById("topbar").offsetHeight;
+	var ns = (navigator.appName.indexOf("Netscape") != -1) || window.opera;
+	var d = document;
+	function ml(id){
+		var el=d.getElementById(id);
+		if (!persistclose || persistclose && get_cookie("remainclosed")=="")
+		el.style.visibility="visible"
+		if(d.layers)el.style=el;
+		el.sP=function(x,y){this.style.left=x+"px";this.style.top=y+"px";};
+		el.x = startX;
+		if (verticalpos=="fromtop")
+		el.y = startY;
+		else{
+		el.y = ns ? pageYOffset + innerHeight : iecompattest().scrollTop + iecompattest().clientHeight;
+		el.y -= startY;
+		}
+		return el;
+	}
+	window.stayTopLeft=function(){
+		if (verticalpos=="fromtop"){
+		var pY = ns ? pageYOffset : iecompattest().scrollTop;
+		ftlObj.y += (pY + startY - ftlObj.y)/8;
+		}
+		else{
+		var pY = ns ? pageYOffset + innerHeight - barheight: iecompattest().scrollTop + iecompattest().clientHeight - barheight;
+		ftlObj.y += (pY - startY - ftlObj.y)/8;
+		}
+		pX = ($(window).width()/2) - ($("#topbar").width()/2);
+		ftlObj.x = pX;
+		ftlObj.sP(ftlObj.x, ftlObj.y);
+		setTimeout("stayTopLeft()", 10);
+	}
+	ftlObj = ml("topbar");
+	stayTopLeft();
+}
+
+if (window.addEventListener)
+window.addEventListener("load", staticbar, false)
+else if (window.attachEvent)
+window.attachEvent("onload", staticbar)
+else if (document.getElementById)
+window.onload=staticbar
+</script>
+<script type="text/javascript" async="" src="//static.getclicky.com/js"></script></head>
 
 <body id="top" class="page page-id-1011 page-template page-template-default subpage">
+
+<div id="topbar" style="visibility: visible;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="center"><img src="http://googleplus1supply.com/images/topbar/NW.png" width="40" height="32"></td>
+    <td align="center"><a href="http://www.bulkfans.com" title="facebook likes"><img src="http://googleplus1supply.com/images/topbar/BF.png" width="121" height="33"></a></td>
+    <td align="center"><img src="http://googleplus1supply.com/images/topbar/separator.png" width="6" height="40"></td>
+    <td align="center"><a href="http://googleplus1supply.com" title="google plus one"><img src="http://googleplus1supply.com/images/topbar/PO.png" width="113" height="33"></a></td>
+    <td align="center"><img src="http://googleplus1supply.com/images/topbar/separator.png" width="6" height="40"></td>
+    <td align="center" valign="middle"><a href="#" title="buy youtube views"><img src="http://googleplus1supply.com/images/topbar/YT.png" width="124" height="30"></a></td>
+  </tr>
+</tbody></table>
+</div>
 
 <div id="container">
 
@@ -173,25 +288,25 @@ If you have any other questions or concerns regarding any part of this privacy p
 <li id="menu-item-1590" class="menu-item menu-item-type-custom menu-item-1590"><a href="http://www.bulkfans.com/affiliate-program">Affiliates</a></li>
 </ul></div></div><div class="widget"><h3>Testimonials</h3><div id="sfstest-sidebar"><blockquote><p class="text">Getting traffic is not an easy task on the internet. I should know as I own one of the largest website promotion for facebook services online. I am always...</p><p class="text-bottom"></p><p class="text-by"><cite>Chris Magras  <a href="http://www.engineseeker.com" class="cite-link">Evisions Marketing Inc.</a></cite></p></blockquote><div class="sfststreadmore"><a href="http://www.bulkfans.com/testimonials/">Read More</a></div></div></div><div class="widget"><h3>NEWS</h3><ul>
 		<li class="cat-post-item">
-			<a class="post-title" href="http://www.bulkfans.com/more-than-4000000-fans-sent/" rel="bookmark" title="Permanent link to More than 4,000,000 Fans sent!">More than 4,000,000 Fans sent!</a>
+			<a class="post-title" href="http://www.bulkfans.com/more-than-9000000-fans-sent/" rel="bookmark" title="Permanent link to More than 9,000,000 Fans sent!">More than 9,000,000 Fans sent!</a>
 			
 						
 			
-						<p>Today we crossed the line of four million fans on facebook pages sent from our [...]</p>
+						<p>Today we crossed the line of nine million fans on facebook pages sent to our [...]</p>
  
 			
-                        			<p class="post-date">03:47 PM Jun 13th, 2011</p>
+                        			<p class="post-date">09:42 AM Oct 17th, 2011</p>
 						
 					</li>
 			<li class="cat-post-item">
-			<a class="post-title" href="http://www.bulkfans.com/more-than-3000000-fans-sent/" rel="bookmark" title="Permanent link to More than 3,000,000 Fans sent!">More than 3,000,000 Fans sent!</a>
+			<a class="post-title" href="http://www.bulkfans.com/more-than-2/" rel="bookmark" title="Permanent link to More than 8,000,000 Fans sent!">More than 8,000,000 Fans sent!</a>
 			
 						
 			
-						<p>Today we crossed the line of three million fans on facebook pages sent from our [...]</p>
+						<p>Today we crossed the line of eight million fans on facebook pages sent to our [...]</p>
  
 			
-                        			<p class="post-date">12:29 PM Apr 20th, 2011</p>
+                        			<p class="post-date">10:41 AM Sep 08th, 2011</p>
 						
 					</li>
 	</ul>
@@ -208,6 +323,34 @@ If you have any other questions or concerns regarding any part of this privacy p
 
 <script type="text/javascript" src="http://www.bulkfans.com/wp-includes/js/jquery/jquery.form.js?ver=2.02m"></script>
 <script type="text/javascript" src="http://www.bulkfans.com/wp-content/plugins/contact-form-7/scripts.js?ver=2.3.1"></script>
+<!-- Clicky Web Analytics - http://getclicky.com, WordPress Plugin by Yoast - http://yoast.com -->
+	<script type="text/javascript">
+	function clicky_gc( name ) {
+		var ca = document.cookie.split(';');
+		for( var i in ca ) {
+			if (typeof ca[i] === 'string') {
+			if( ca[i].indexOf( name+'=' ) != -1 )
+				return decodeURIComponent( ca[i].split('=')[1] );
+			}
+		}
+		return '';
+	}
+	var clicky_custom_session = { 
+		username: clicky_gc( 'comment_author_687871b8632b2ed31cd9182a847c5adb' )
+	};
+  	</script>
+<script type="text/javascript">
+	var clicky = { log: function(){ return; }, goal: function(){ return; }};
+	var clicky_site_id = 66493562;
+	(function() {
+		var s = document.createElement('script');
+		s.type = 'text/javascript'; s.async = true;
+		s.src = '//static.getclicky.com/js';
+		( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+	})();
+</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="http://in.getclicky.com/66493562ns.gif" /></p></noscript>
+<!-- End Clicky Tracking -->
 
 
 </body></html>
