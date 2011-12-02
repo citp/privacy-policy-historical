@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the marcandangel.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623035004id_/http%3A//www.marcandangel.com/other/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marcandangel.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202062808id_/http%3A//www.marcandangel.com/other/privacypolicy.htm) for the most accurate reproduction.*
 
 # 
 
-**Privacy Policy for marcandangel.com, makesmethink.com, thoughtquestions.com, and bestsellingtoystore.com**
+**Privacy Policy for:**
+
+**marcandangel.com, makesmethink.com, thoughtquestions.com, everydaylifelessons.com, whatmoneycannotbuy.com and bestsellingtoystore.com**
 
 The privacy of our visitors is important to us.
 
 We recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit our websites, and how we safeguard your information.  We never sell your personal information to third parties.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 **Log Files**
 
