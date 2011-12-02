@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kroger.com privacy policy that was archived on 2010-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100108141442id_/http%3A//www.kroger.com/company_information/Pages/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kroger.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202202938id_/http%3A//www.kroger.com/company_information/Pages/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Kroger - Company Information - Privacy Policy
 
@@ -79,8 +79,8 @@ This privacy policy was posted and is effective as of July 10, 2009. We reserve 
 ---|---|---|---  
  [](http://www.frysfood.com/) | [](http://www.citymarket.com/)  | [](http://www.qfc.com/)  | [](http://www.dillons.com/)   
  [](http://www.smithsfoodanddrug.com/) |  [](http://www.bakersplus.com/) | [](http://www.pay-less.com/)  | [](http://www.food4less.com/)   
- [](http://www.jaycfoods.com/) | [](http://www.foodsco.net/)  |  [](http://www.hilander.net/) | [](http://www.gerbes.com/)   
- [](http://www.owensmarket.com/)  
+ [](http://www.jaycfoods.com/) | [](http://www.foodsco.net/)  | [](http://www.owensmarket.com/) [](http://www.hilander.net/) | [](http://www.gerbes.com/)   
+   
  
 
 [](http://www.turkeyhillstores.com/) [](http://www.kwikshop.com/)   [](http://www.loafnjug.com/) [](http://www.quikstop.com/)   [](http://www.tomt.com/)
