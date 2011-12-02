@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the designfloat.com privacy policy that was archived on 2010-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100303132240id_/http%3A//www.designfloat.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designfloat.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202145643id_/http%3A//www.designfloat.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Design Float Blog
+# Privacy Policy | DesignFloat Blog
 
 **DESIGNFLOAT.COM PRIVACY POLICY  
 **
