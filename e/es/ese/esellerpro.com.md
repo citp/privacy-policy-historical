@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the esellerpro.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526024944id_/http%3A//www.esellerpro.com/content/privacy_g1_p78.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esellerpro.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202042154id_/http%3A//www.esellerpro.com/content/privacy-policy.aspx) for the most accurate reproduction.*
 
-# eSellerPro | Leading Ecommerce Software For Multi-channel Sellers. Integrates & Streamlines The Entire Sales & Fulfilment Process.
+# Privacy Policy | eSellerPro | Leading Ecommerce Software For Multi-channel Sellers
 
 1. INCORPORATION OF PRIVACY POLICY
 
