@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clovenetwork.com privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320015115id_/http%3A//clovenetwork.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clovenetwork.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202073414id_/http%3A//www.clovenetwork.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Clove Network | Delivering measurable reach
 
@@ -13,6 +13,18 @@ Clove Network uses one or more third party ad serving technology to serve ads at
 Cookies and Opt Out
 
 Like most Internet sites, Clove Network and its third party ad serving party use "cookies" to enhance the Internet user's experience on the Web. Neither Clove Network nor such third party ad serving party use these cookies to personally identify you in any way, and these cookies in no way damage your system or files. 
+
+Cookies and Web Beacons
+
+We use persistent "cookies" on this Website in order to help us manage the opt-out process for our Platform. For information on our opt-out process, please review the section of this privacy policy entitled "Opting out from Cookies" below. Cookies are small text files that contain a string of alphanumeric characters. Web beacons (also known as "1X1 pixels" or "clear GIFs") are small strings of code that provide a method for delivering a graphic image on a web page or in an email message for the purpose of transferring data. For more information about cookies and web beacons please visit <http://www.allaboutcookies.org/cookies/>
+
+Cookies and Web beacons
+
+Our Clients use cookies in conjunction with Web beacons when they use the Platform in order to help make the online advertisements you see more relevant to you. We also use cookies and Web beacons (under the domain adnxs.com) to help our clients make advertising more relevant. We also use cookies and web beacons for ad delivery and reporting purposes, to measure the success of our Clients' online advertising campaigns. 
+
+Opting out from Cookies
+
+If you'd like to opt-out from having AppNexus collect your Non-PII in connection with our Platform, please [click here](http://ib.adnxs.com/optout). When you opt out, we will place an opt-out cookie on your computer. The opt-out cookie tells us not to collect your Non-PII to help us tailor our Clients' online advertisement campaigns. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer or Internet browser, you may need to renew your opt-out choice. 
 
 What are cookies and how do they enhance your Web experience?
 
