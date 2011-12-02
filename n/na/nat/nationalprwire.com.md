@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalprwire.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604182300id_/http%3A//www.nationalprwire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalprwire.com privacy policy that was archived on 2011-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111202211616id_/http%3A//www.nationalprwire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | National PR Wire
 
@@ -12,7 +12,7 @@ Information collection and how it’s used
 
 * National PR Wire collects personal information you register with National PR Wire to use National PR Wire services or to post content on National PR Wire.  
 * When you register we ask for your email address, name, company name, address, phone number, and website address.  
-* If you would like to obtain a paid (”Pro”) account, we will ask for your billing address and credit card information.  
+* If you would like to obtain a paid (“Pro”) account, we will ask for your billing address and credit card information.  
 * National PR Wire automatically receives and records information on our server logs from your browser, including your IP address, cookie, and the page you request.  
 * National PR Wire uses information we collect for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, research, and anonymous reporting.
 
@@ -27,7 +27,7 @@ o We will transfer information about you if National PR Wire is acquired by or m
 
 Information Rights and Publicity
 
-Unless you notify us otherwise in writing, You hereby grant to National PR Wire and its wholly owned subsidiaries a limited license to use Your trade names, trademarks, service marks, logos, domain names and other distinctive brand features (”Brand Features”) in presentations, marketing materials, web sites, customer lists, and financial reports.
+Unless you notify us otherwise in writing, You hereby grant to National PR Wire and its wholly owned subsidiaries a limited license to use Your trade names, trademarks, service marks, logos, domain names and other distinctive brand features (“Brand Features”) in presentations, marketing materials, web sites, customer lists, and financial reports.
 
 Editing and deleting account information. Security.
 
